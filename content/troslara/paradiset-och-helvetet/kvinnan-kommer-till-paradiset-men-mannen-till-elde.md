@@ -8,11 +8,11 @@ categories:
 - Paradiset och Helvetet
 original_id: 543
 description: 'Fråga: Om en kvinna är en av Paradisets invånare och hon inte har gift
- sig i denna värd eller om hon var gift men hennes man inte steg in i Paradiset,
+ sig i denna värld eller om hon var gift men hennes man inte steg in i Paradiset,
  vem kommer hon att vara tillsammans med? S...'
 ---
 
-**Fråga:** Om en kvinna är en av Paradisets invånare och hon inte har gift sig i denna värd eller om hon var gift men hennes man inte steg in i Paradiset, vem kommer hon att vara tillsammans med?
+**Fråga:** Om en kvinna är en av Paradisets invånare och hon inte har gift sig i denna värld eller om hon var gift men hennes man inte steg in i Paradiset, vem kommer hon att vara tillsammans med?
 
 **Svar:** Svaret baseras på den generella betydelsen av versen i vilken Allāh säger:
 
