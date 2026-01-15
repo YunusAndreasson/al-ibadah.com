@@ -12,7 +12,7 @@ description: 'Fråga: När jag vill tvaga mig utformar jag avsikten för att tva
  känner till denna hadīth : ”Det finns ingen...'
 ---
 
-**Fråga:** När jag vill tvaga mig utformar jag avsikten för att tvaga inför bönen. Jag nämner dock inte Allāhs namn då jag jag är på toaletten, även om jag känner till denna *hadīth[^1]*: ”Det finns ingentvagning[^2] för den som inte har nämnt Allāhs namn vid den.” Vilket är utlåtandet om detta?
+**Fråga:** När jag vill tvaga mig utformar jag avsikten för att tvaga inför bönen. Jag nämner dock inte Allāhs namn då jag jag är på toaletten, även om jag känner till denna *hadīth[^1]*: ”Det finns ingen tvagning[^2] för den som inte har nämnt Allāhs namn vid den.” Vilket är utlåtandet om detta?
 
 **Svar:** Nämner man Allāhs namn när man är på toaletten, då bör man göra det i sitt hjärta. Det bör inte sägas högt. Handla efter detta. Den starkaste åsikten är att det inte är obligatoriskt att nämna Allāhs namn men att det är att föredra. Oroa dig inte och tänk inte för mycket på det. Ett annat alternativ är att man nämner Allāhs namn innan man går in på toaletten.
 
