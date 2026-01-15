@@ -1,21 +1,21 @@
 ---
 title: Skyldigheten i och betydelsen av allmosan
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 148 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Allmosa (Zakāh)
 original_id: 1382
 description: 'All lovprisan tillhör Allāh allena och må välsignelser och frid vara
- över honom som det inte kommer någon profet efter [profeten Muhammad] och över hans
+ över honom som det inte kommer någon profet efter [profeten Muḥammad] och över hans
  familj och hans följeslagare. Vidare: Det ...'
 ---
 
-All lovprisan tillhör Allāh allena och må välsignelser och frid vara över honom som det inte kommer någon profet efter [profeten Muhammad] och över hans familj och hans följeslagare. Vidare:
+All lovprisan tillhör Allāh allena och må välsignelser och frid vara över honom som det inte kommer någon profet efter [profeten Muḥammad] och över hans familj och hans följeslagare. Vidare:
 
 Det som har lett till nedtecknandet av detta uttalande är för att ge råd och för att påminna om skyldigheten i allmosan, något om många muslimer har tagit lättvindigt. Därför ger de inte på så vis som är föreskrivet att ge, trots dess höga status och att den är en av islams fem pelare som islams grund inte kan uppresas korrekt utan. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Islam är byggt på fem [pelare]. Vittnesmålet om att ingen har rätten att dyrkas utom Allāh och att Muhammad är Allāhs sändebud, förrättandet av bönen, att betala den obligatoriska allmosan, fastan under ramadan[^1] och pilgrimsfärden till Huset [Kaʿbah].” [*al-Bukhārī* 8 och *Muslim* 16]
+> ”Islam är byggt på fem [pelare]. Vittnesmålet om att ingen har rätten att dyrkas utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av bönen, att betala den obligatoriska allmosan, fastan under ramadan[^1] och pilgrimsfärden till Huset [Kaʿbah].” [*al-Bukhārī* 8 och *Muslim* 16]
 
 Denna hadiths äkthet råder det enighet om.
 
@@ -25,7 +25,7 @@ En av nyttorna är att kärleksbanden mellan de välbärgade och de fattiga stä
 
 Ännu en nytta är att det inre renas och att det håller sig borta från ett snålaktigt karaktärsdrag. Detta är samma innebörd som Allāh pekar på i den ädla Koranen:
 
-> ”Tag då emot något av dem som offergåva [Muhammad]; så renar du dem [från synd].” [Koranen 9:103]
+> ”Tag då emot något av dem som offergåva [Muḥammad]; så renar du dem [från synd].” [Koranen 9:103]
 
 Ännu en nytta är att det vänjer muslimen vid karaktärsdrag som välvilja, generositet och sympati med de behövande.
 
@@ -97,7 +97,7 @@ Utan tvekan har Allāh i Sin ädla skrift klargjort de kategorier av människor 
 
 Denna vers avslutas med dessa båda mäktiga namn ['Alīm och Hakīm] och här finns en förmaning från Allāh till Hans tjänare om att Han vet allt om tjänarnas tillstånd. Han vet allt om dem som förtjänar allmosa och om dem som inte förtjänar den. Han är den Allvise om Sin lag och Sitt påbud. Han sätter enbart saker och ting på deras rätta plats på så vis som passar dem. Även om vissa inte känner till några av hemligheterna i Hans visdom måste tjänaren acceptera Hans lag och underkasta sig Hans dom. […]
 
-Må Allāh sända välsignelser och frid över Hans tjänare och sändebud Muhammad och över hans familj och följeslagare.
+Må Allāh sända välsignelser och frid över Hans tjänare och sändebud Muḥammad och över hans familj och följeslagare.
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

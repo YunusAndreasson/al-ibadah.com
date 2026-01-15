@@ -1,6 +1,6 @@
 ---
 title: Beskriva Allāh som glömmande
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Fatāwa al-shaykh Ibn ‘Uthaymīn 1/172-174 Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Förståelse av islam

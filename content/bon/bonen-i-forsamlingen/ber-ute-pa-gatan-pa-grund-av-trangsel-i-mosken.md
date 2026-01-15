@@ -1,7 +1,7 @@
 ---
 title: Ber ute på gatan på grund av trängsel i moskén
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 33 s. ISBN saknas'
 categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 376
@@ -16,7 +16,7 @@ description: 'Fråga: Anses den som ber fredagsbönen utanför moskén – exemp
 
 Och Allāh vet bäst.
 
-Må Allāhs sända frid och välsignelser över vår profet Muhammad.
+Må Allāhs sända frid och välsignelser över vår profet Muḥammad.
 
 [^1]: Tahiyyatul-Msjid.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

@@ -1,7 +1,7 @@
 ---
 title: Doktorer kan ta reda på om fostret är en flicka eller pojke
-author: Muhammad bin Salih al-ʿUthaymin
-source: 'Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muhammad ibn Sālih al-‘Uthaymīn,
+author: Muḥammad bin Salih al-ʿUthaymin
+source: 'Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muḥammad ibn Sālih al-‘Uthaymīn,
  volym 1, 68-70. Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius.
  ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Allāhs förutbestämmelse

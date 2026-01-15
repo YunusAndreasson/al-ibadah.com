@@ -1,7 +1,7 @@
 ---
 title: De troende kommer att se deras Herre i Paradiset, om Han tillåter
 author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 156 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Paradiset och Helvetet

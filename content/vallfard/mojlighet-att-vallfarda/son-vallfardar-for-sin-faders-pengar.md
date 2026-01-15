@@ -1,7 +1,7 @@
 ---
 title: Son vallfärdar för sin faders pengar
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 57 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Möjlighet att vallfärda
 original_id: 714

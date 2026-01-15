@@ -1,7 +1,7 @@
 ---
-title: Träda in i ihrāmi sin bostad
+title: Träda in i ihrām i sin bostad
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 124 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
 original_id: 1340

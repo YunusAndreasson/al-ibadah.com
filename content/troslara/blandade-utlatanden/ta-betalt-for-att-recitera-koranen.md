@@ -1,7 +1,7 @@
 ---
 title: Ta betalt för att recitera Koranen
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 73 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
@@ -19,7 +19,7 @@ Vilket är det islamiska utlåtandet om välgörenheten som de samlar in och del
 
 Är denna *hadīth[^1]* autentisk? Och vilken är innebörden av följande vers:
 
-> ”Säg [Muhammad:] ¨Jag begär ingen lön av er för detta [budskap] och jag är inte en av dem som ger sig ut för att vara vad de inte är.” [Koranen 38:86]
+> ”Säg [Muḥammad:] ¨Jag begär ingen lön av er för detta [budskap] och jag är inte en av dem som ger sig ut för att vara vad de inte är.” [Koranen 38:86]
 
 **Svar:** Recitation av Koranen är en […] och ett medel för att söka Allāhs närhet. En muslim antas göra detta för Allāhs skull och för Hans belöningar. Man ska inte förvänta sig belöningar eller uppskattning från sina medmänniskor.
 
@@ -47,7 +47,7 @@ Den fattige får ta emot välgörenhet för att det ska täcka dennes behov, men
 
 Innebörden av: ”*Jag begär ingen lön av er för detta [budskap]*.” [Koranen 38:86]
 
-Allāh den Upphöjde kommenderar Sitt sändebud Muhammad att berätta för folket att han inte söker belöningar eller pengar för att förmedla till dem det som uppenbarats för honom från Herren. Profeten – över honom vare Allāhs frid och välsignelser – kallar dem till att dyrka enbart Allāh och han kallar dem till de islamiska lagarna. Profeten – över honom vare Allāhs frid och välsignelser – har anförtrotts att leverera och tydliggöra åtlydandet av hans Herre, för att få Hans tillfredsställelse och belöningar enbart från Honom.
+Allāh den Upphöjde kommenderar Sitt sändebud Muḥammad att berätta för folket att han inte söker belöningar eller pengar för att förmedla till dem det som uppenbarats för honom från Herren. Profeten – över honom vare Allāhs frid och välsignelser – kallar dem till att dyrka enbart Allāh och han kallar dem till de islamiska lagarna. Profeten – över honom vare Allāhs frid och välsignelser – har anförtrotts att leverera och tydliggöra åtlydandet av hans Herre, för att få Hans tillfredsställelse och belöningar enbart från Honom.
 
 Detta sades för att eliminera månggudadyrkarnas misstankar om att profeten – över honom vare Allāhs frid och välsignelser – kallade dem till att följa honom för att få tillgångar och maktposition. Han klargjorde då att han bjöd in dem till sanningen enbart för Allāhs skull.
 

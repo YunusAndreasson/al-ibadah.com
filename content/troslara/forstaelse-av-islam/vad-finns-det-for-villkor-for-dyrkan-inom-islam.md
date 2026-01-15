@@ -1,6 +1,6 @@
 ---
 title: Vad finns det för villkor för dyrkan inom islam?
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius.
  ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Förståelse av islam

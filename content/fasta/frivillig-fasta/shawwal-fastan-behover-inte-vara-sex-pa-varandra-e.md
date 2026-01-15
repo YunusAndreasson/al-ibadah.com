@@ -1,7 +1,7 @@
 ---
 title: Shawwal-fastan behöver inte vara sex på varandra efterföljande dagar
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 335 s. ISBN saknas'
 categories: – Fasta (Sawm) – Frivillig fasta (Shawwal, ashura-dagen, m.m.)
 original_id: 1417

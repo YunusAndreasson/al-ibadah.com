@@ -1,7 +1,7 @@
 ---
 title: Påstår sig känna till det som är dolt för människor
 author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 222 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Siare och trollkarlar

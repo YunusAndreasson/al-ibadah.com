@@ -2,7 +2,7 @@
 title: profetens – över honom vare Allāhs frid och välsignelser – ihrām, talbiyyah
  och bad inför ihrām
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 112 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
 original_id: 1334
@@ -24,7 +24,7 @@ Salim bin ʿAbdullāh bin ʿUmar hörde sin far [ʿAbdullāh bin ʿUmar] säga: 
 
 Profeten – över honom vare Allāhs frid och välsignelser – gjorde *ghusl[^5]* även vid Thul-Hulayfah. Det har rapporterats från Kharijah bin Zaid bin Thabit från hans far [Zaid bin Thabit] att han såg profeten – över honom vare Allāhs frid och välsignelser – ta av kläderna och göra *ghusl[^5]* för att träda in i *ihrām[^1]*. Detta har at-Tirmithi återgivit.
 
-Må Allāhs sända välsignelser och frid över vår profet Muhammad, hans familj och hans följeslagare.
+Må Allāhs sända välsignelser och frid över vår profet Muḥammad, hans familj och hans följeslagare.
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Säga Labbayk Allahumma Labbayk under vallfärden.

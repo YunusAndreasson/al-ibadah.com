@@ -1,7 +1,7 @@
 ---
 title: Se profeten i sina drömmar
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
 original_id: 1680

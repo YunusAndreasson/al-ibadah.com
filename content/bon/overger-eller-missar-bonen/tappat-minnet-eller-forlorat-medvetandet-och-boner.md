@@ -1,6 +1,6 @@
 ---
 title: Tappat minnet eller förlorat medvetandet och bönerna man skulle bett då
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 381 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Överger eller missar bönen
@@ -18,7 +18,7 @@ Samma gäller den mentalt sjuke vars sinne har rubbats [dock inte till den grad 
 
 Finansiella plikter är en skyldighet gällande dennes tillgångar även om denne har tappat minnet. Allmosa är till exempel en skyldighet för vad denne äger och det är en skyldighet för den som tar hand om dennes affärer att betala denna allmosa. Detta beror på att skyldigheten att betala allmosa gäller för tillgångarna. Allāh den Upphöjde säger:
 
-> ”Tag då emot något av dem som offergåva [Muhammad]; så renar du dem [från synd] och hjälper dem att växa [i rättfärdighet].” [Koranen 9:103]
+> ”Tag då emot något av dem som offergåva [Muḥammad]; så renar du dem [från synd] och hjälper dem att växa [i rättfärdighet].” [Koranen 9:103]
 
 Han säger: ” *Tag då emot något av dem som offergåva*...” och Han säger inte: ”Ta från dem.” När profeten – över honom vare Allāhs frid och välsignelser – sände Mu'ath till Jemen sade han till honom:
 

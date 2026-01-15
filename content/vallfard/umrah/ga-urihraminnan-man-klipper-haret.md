@@ -1,7 +1,7 @@
 ---
 title: Gå ur ihrām innan man klipper håret
 author: Ibn ʿAbdur-Rahman al-Jibrin
-source: 'Källa: Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah .
+source: 'Källa: Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah .
  Volym 4. Libanon: Maktaba Dar us-Salam. 288 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Umrah
 original_id: 1361

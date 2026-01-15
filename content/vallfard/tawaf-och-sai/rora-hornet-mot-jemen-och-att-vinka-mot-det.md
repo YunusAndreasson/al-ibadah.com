@@ -1,7 +1,7 @@
 ---
 title: Röra hörnet mot Jemen och att vinka mot det
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 178 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 803

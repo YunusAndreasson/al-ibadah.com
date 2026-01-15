@@ -1,6 +1,6 @@
 ---
 title: Den fria viljan
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Majmū Fatāwa al-shaykh Ibn ‘Uthaymīn, vol. 2. Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Allāhs förutbestämmelse

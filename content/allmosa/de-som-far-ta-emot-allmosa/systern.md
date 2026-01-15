@@ -1,7 +1,7 @@
 ---
 title: Systern
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 190 s. ISBN saknas'
 categories: – Allmosa (Zakāh) – De som får ta emot allmosa
 original_id: 636

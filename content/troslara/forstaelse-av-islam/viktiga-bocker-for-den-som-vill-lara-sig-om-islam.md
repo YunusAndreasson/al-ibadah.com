@@ -1,7 +1,7 @@
 ---
 title: Viktiga böcker för den som vill lära sig om islam
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: Fatāwa al-shaykh Muhammad ibn Sālih al-‘Uthaymīn, Kitāb al-‘Ilm, s. 92
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: Fatāwa al-shaykh Muḥammad ibn Sālih al-‘Uthaymīn, Kitāb al-‘Ilm, s. 92
 categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 504
 description: 'Fråga: Vi skulle vilja ha råd om vilka böcker om islamisk kunskap som
@@ -19,16 +19,16 @@ description: 'Fråga: Vi skulle vilja ha råd om vilka böcker om islamisk kunsk
 2. *al-Qawā’id al-Arba’ah*
 3. *Kashf al-Shubahāt*
 4. *al-Tawhīd[^1]*
-Dessa fyra böcker är skrivna av shaykh al-islām Muhammad ibn ’Abd al-Wahhāb.
+Dessa fyra böcker är skrivna av shaykh al-islām Muḥammad ibn ’Abd al-Wahhāb.
 5. *al-’aqīdah al-Wāsitiyyah* tar upp *tawhīd[^1] al-asmā’ wa’l-sifāt* (Detta är en av de bästa böcker som har skrivits i detta ämne och därmed klart läsvärd.)
 6. *al-Hamawiyyah*
 7. *al-Tadmuriyyah* 
 
 Dessa båda böcker är mer omfattande än *al-Wāsitiyyah*. Alla är skrivna av *shaykh al-islām* Ibn Taymiyah.
-8. *al-’aqīdah al-Tahhāwiyyah* av shaykh Abū Ja’far Ahmad ibn Muhammad al-Tahhāwi
+8. *al-’aqīdah al-Tahhāwiyyah* av shaykh Abū Ja’far Ahmad ibn Muḥammad al-Tahhāwi
 9. *Sharh al-’aqīdah al-Tahhāwiyyah* av Abu’l-Hasan ‘Ali ibn Abi’l-‘Izz
 10. *al-Durar al-SaNiyyah fi’l-Ajūbah al-Najdiyyah*, sammanställd av shaykh ‘Abd al-Rahmān ibn Qāsim.
-11. *al-Durrah al-Madiyyah fi ‘aqīdah al-Firqah al-Mardiyyah* av Muhammad ibn Ahmad al-Safārīni al-Hanbali. Denna bok innehåller dock några uttalanden som går emot salaf[^2] s rättsskola – exempelvis: ”*Vår Herre är inte något väsen, attribut eller fysiskt begrepp – upphöjd är Han*”. Därför är det bäst att läsa denna bok tillsammans med en *shaykh* som är kunnig om salaf[^2] s *‘aqīdah* och som kan förklara de uttalanden i den som går emot den *‘aqīdah* som de rättfärdige *salaf[^2]* – må Allāh vara nöjda med dem – hade.
+11. *al-Durrah al-Madiyyah fi ‘aqīdah al-Firqah al-Mardiyyah* av Muḥammad ibn Ahmad al-Safārīni al-Hanbali. Denna bok innehåller dock några uttalanden som går emot salaf[^2] s rättsskola – exempelvis: ”*Vår Herre är inte något väsen, attribut eller fysiskt begrepp – upphöjd är Han*”. Därför är det bäst att läsa denna bok tillsammans med en *shaykh* som är kunnig om salaf[^2] s *‘aqīdah* och som kan förklara de uttalanden i den som går emot den *‘aqīdah* som de rättfärdige *salaf[^2]* – må Allāh vara nöjda med dem – hade.
 
 *Hadīth*
 
@@ -44,7 +44,7 @@ Dessa båda böcker är mer omfattande än *al-Wāsitiyyah*. Alla är skrivna av
 
 *Fiqh*
 
-1. *Ādāb al-mashiy ila’l-Salāh* av *shaykh al-islām* Muhammad ibn ‘Abd al-Wahhāb.
+1. *Ādāb al-mashiy ila’l-Salāh* av *shaykh al-islām* Muḥammad ibn ‘Abd al-Wahhāb.
 2. *Zād al-Mustaqni’ fi Ikhtisār al-Muqni’* av al-Hajjāwi. Detta är en av de bästa böckerna om *fiqh[^4]*; en välsignad bok – överskådlig men ändå omfattande. Vår shaykh ‘Abd al-Rahmān al-Sa’di sade åt oss att vi skulle memorera den även om någon hade memorerat texten i *Dalīl al-Tālib*.
 3. *al-Rawd al-Murbi’ Sharh Zād al-Mustaqni’* av shaykh Mansūr al-Bahūti.
 4. *‘Umdat al-Fiqh* av Ibn Qudāmah.
@@ -53,14 +53,14 @@ Dessa båda böcker är mer omfattande än *al-Wāsitiyyah*. Alla är skrivna av
 *Farā’id*
 
 1. *Matn al-Rahbiyyah* av al-Rahbi
-2. *Matn al-BurhāNiyyah* av Muhammad al-Burhāni. Detta är en användbar och omfattande bok som har förkortats och som rör arvsrätt. Jag anser att *al-Burhāniyyah* är mer omfattande än *al-Rahbiyyah* på vissa sätt och den ger mer information.
+2. *Matn al-BurhāNiyyah* av Muḥammad al-Burhāni. Detta är en användbar och omfattande bok som har förkortats och som rör arvsrätt. Jag anser att *al-Burhāniyyah* är mer omfattande än *al-Rahbiyyah* på vissa sätt och den ger mer information.
 
 *Tafsīr*
 
 1. *Tafsīr al-Qur’ān al-‘Azīm* av Ibn Kathīr. Denna bok är bra för *tafsīr[^5]* grundad på rapporter. Den är användbar och pålitlig. Den lägger dock inte så stor vikt vid gramatik och stil.
 2. *Tafsīr al-Karīm al-Rahmān fi Tafsīr Kalām al-Mannān* av shaykh ‘Abd al-Rahmān al-Sa’di. Detta är en bra, lätt och pålitlig bok. Jag rekommenderar den.
 3. *Muqaddimah shaykh al-islām fi’l-Tafsīr*. Detta är en viktig introduktion.
-4. *Adwā’ al-Bayān av al-‘Allāmah Muhammad al-Shanqīti*. Detta är en omfattande bok som täcker *hadīth[^3], fiqh[^4], tafsīr[^5]* och *usūl al-fiqh[^4]*.
+4. *Adwā’ al-Bayān av al-‘Allāmah Muḥammad al-Shanqīti*. Detta är en omfattande bok som täcker *hadīth[^3], fiqh[^4], tafsīr[^5]* och *usūl al-fiqh[^4]*.
 
 Allmänna böcker
 

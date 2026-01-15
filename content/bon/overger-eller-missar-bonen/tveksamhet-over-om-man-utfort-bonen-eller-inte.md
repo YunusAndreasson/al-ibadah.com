@@ -1,7 +1,7 @@
 ---
 title: Tveksamhet över om man utfört bönen eller inte
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 154 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Bön (Salāh) – Överger eller missar bönen
@@ -21,7 +21,7 @@ Han den Upphöjde säger: ”*Förrätta bönen och ge åt de behövande och bö
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Huvudfrågan är Islam, dess pelare är bönen och dess höjd är *djihād[^1]* för Allāhs sak.” [*at-Tirmithi* 2616]
 
-Och han har sagt: ”*Islam är byggt på fem [pelare]: vittna om att ingen är värdig att dyrka utom Allāh och att Muhammad är Allāhs sändebud, förrätta bönen, betala allmosa, fasta under månaden Ramadan och vallfärda till Allāhs Hus*.” [*al-Bukhārī* 8, 4515 och *Muslim* 16]
+Och han har sagt: ”*Islam är byggt på fem [pelare]: vittna om att ingen är värdig att dyrka utom Allāh och att Muḥammad är Allāhs sändebud, förrätta bönen, betala allmosa, fasta under månaden Ramadan och vallfärda till Allāhs Hus*.” [*al-Bukhārī* 8, 4515 och *Muslim* 16]
 
 De verser och *ahādīth[^2]* som poängterar vikten av bönen, skyldigheten att be den och plikten att upprätthålla den är många.
 

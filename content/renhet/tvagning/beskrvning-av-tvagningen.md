@@ -49,9 +49,9 @@ Enligt en majoritet av de lärde är det föreskrivet att säga *Bismillah[^3]*,
 
 Det finns ingen skillnad mellan män och kvinnor gällande tvagning[^1].
 
-Efter att man har tvagat sig är det rekommenderat att säga: “*Ashhadu an Lā ilāha ill-Allāh wahdahu lā sharīka lah, wa ashhadu anna Muhammadan ‘abduhu wa rasūluhu* [Jag vittnar om att det inte finns någon annan gud än Allāh utan partner eller medhjälpare, och jag vittnar om att Muhammad är Allāhs sändebud].” Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – brukade säga:
+Efter att man har tvagat sig är det rekommenderat att säga: “*Ashhadu an Lā ilāha ill-Allāh wahdahu lā sharīka lah, wa ashhadu anna Muḥammadan ‘abduhu wa rasūluhu* [Jag vittnar om att det inte finns någon annan gud än Allāh utan partner eller medhjälpare, och jag vittnar om att Muḥammad är Allāhs sändebud].” Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – brukade säga:
 
-> ”Det finns ingen bland er som tvagar sig ordentligt och noga, för att sedan säga: ‘*Ashhadu an Lā ilāha ill-Allāh wahdahu lā sharīka lah, wa ashhadu anna Muhammadan ‘abduhu wa rasūluhu*’, utan att Paradisets portar öppnas för denne och denne får träda in igenom vilken denne vill av dem.” [*Muslim, al-Tahārah*, 345]
+> ”Det finns ingen bland er som tvagar sig ordentligt och noga, för att sedan säga: ‘*Ashhadu an Lā ilāha ill-Allāh wahdahu lā sharīka lah, wa ashhadu anna Muḥammadan ‘abduhu wa rasūluhu*’, utan att Paradisets portar öppnas för denne och denne får träda in igenom vilken denne vill av dem.” [*Muslim, al-Tahārah*, 345]
 
 I en rapport från al-Tirmithi finns tillägget: ”*Allāhumma ij’alni min al-tawwābīna wa’j’alni min al-mutatahhirīn* [Allāh, gör mig till en av dem som ångrar sig och gör mig till en av dem som renar sig].” [*al-Tahārah*, 50; klassad som Sahīh av al-Albāni i *Sahīh Sunan Abū Dawūd*, 48]
 

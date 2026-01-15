@@ -1,7 +1,7 @@
 ---
 title: Vallfärden för den som avlidit utförs med hans tillgångar
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 71 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Vallfärda för någon annan
 original_id: 726

@@ -1,7 +1,7 @@
 ---
 title: ”Jag har gjort mitt bästa och resten är upp till Allāh”
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: Fatwa från shaykh Muhammad ibn ‘Uthaymīn i Majallat al-Hibah, utgåva 50, s.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: Fatwa från shaykh Muḥammad ibn ‘Uthaymīn i Majallat al-Hibah, utgåva 50, s.
  17.
 categories: – Troslära (ʿAqīdah) – Allāhs förutbestämmelse
 original_id: 529

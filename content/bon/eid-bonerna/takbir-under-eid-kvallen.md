@@ -1,6 +1,6 @@
 ---
 title: Takbīr under ‘eid-kvällen
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: Majmoo’ Fatāwa al-ʿUthaymīn, 16/216-223
 categories: – Bön (Salāh) – '''Eid-bönerna'
 original_id: 1596

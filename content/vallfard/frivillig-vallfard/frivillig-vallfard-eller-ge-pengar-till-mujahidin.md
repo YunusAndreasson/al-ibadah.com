@@ -1,7 +1,7 @@
 ---
 title: Frivillig vallfärd eller ge pengar till mujāhidin
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 316 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Frivillig vallfärd
 original_id: 1363

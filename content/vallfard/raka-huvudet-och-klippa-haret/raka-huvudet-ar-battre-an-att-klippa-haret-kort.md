@@ -1,7 +1,7 @@
 ---
 title: Raka huvudet är bättre än att klippa håret kort
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 207 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Raka huvudet och klippa håret
 original_id: 829

@@ -1,6 +1,6 @@
 ---
 title: Felaktiga former av tawassul
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Fiqh ul ''Ibādāt www 20/4-2007: www'
 categories: – Troslära (ʿAqīdah) – Tawassul [Medel för att åkalla Allāh]
 original_id: 918

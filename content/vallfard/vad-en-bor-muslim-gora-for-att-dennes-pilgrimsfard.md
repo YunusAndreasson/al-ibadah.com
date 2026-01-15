@@ -1,7 +1,7 @@
 ---
 title: Vad en bör muslim göra för att dennes pilgrimsfärd ska accepteras, om Allāh
  vill
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Fatāwa Ibn ʿUthaymīn, 21/20 Muhammed Knut Bernström (1421), Koranens budskap
  . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Vallfärd (Hajj)

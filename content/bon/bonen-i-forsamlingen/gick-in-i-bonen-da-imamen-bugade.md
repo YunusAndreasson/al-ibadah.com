@@ -1,7 +1,7 @@
 ---
 title: Gick in i bönen då imamen bugade
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 196 s. ISBN saknas'
 categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 1488
@@ -16,7 +16,7 @@ description: 'Fråga: En troende kom för sent till bönen och fann att imamen b
 
 Och Abū Dawūd har lagt till: ”... *och han bugade utanför raden, för att sedan gå in i den*.” [*Abū Dawūd* 584] Det finns även en återberättelse från Abū Dawūd i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Den som har hunnit med bugningen, har hunnit med bönecykeln[^2]*.” [*Abū Dawūd* 893]
 
-Må frid och välsignelser vara över Muhammad, hans familj och följeslagare.
+Må frid och välsignelser vara över Muḥammad, hans familj och följeslagare.
 
 [^1]: Att säga Allahu Akbar.
 [^2]: Rakah.

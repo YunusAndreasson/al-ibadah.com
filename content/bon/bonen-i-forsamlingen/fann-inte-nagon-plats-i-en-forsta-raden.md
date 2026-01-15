@@ -1,6 +1,6 @@
 ---
 title: Fann inte någon plats i en första raden
-author: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 164 s. ISBN saknas'
 source: Ibn ʿAbdullah Ibn Baz
 categories: – Bön (Salāh) – Bönen i församlingen

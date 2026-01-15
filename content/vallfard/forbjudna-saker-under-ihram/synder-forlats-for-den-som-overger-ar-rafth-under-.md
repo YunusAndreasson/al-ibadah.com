@@ -1,7 +1,7 @@
 ---
 title: Synder förlåts för den som överger ar-rafth under vallfärden
 author: Ibn ʿAbdullāh Ibn Baz
-source: "Muhammad bin ʿAbdul-ʿAzīz \nal-Musnad (1422), Fatawa Islamiyah . \nVolym\
+source: "Muḥammad bin ʿAbdul-ʿAzīz \nal-Musnad (1422), Fatawa Islamiyah . \nVolym\
  \ 4. Libanon: Maktaba \nDar us-Salam. 23 s. ISBN \nsaknas Muhammed Knut Bernström\
  \ (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8"
 categories: – Vallfärd (Hajj) – Förbjudna saker under ihrām

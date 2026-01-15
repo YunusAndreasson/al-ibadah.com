@@ -1,7 +1,7 @@
 ---
 title: Händerna på bröstet när man har rest sig upp från bugningen
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 251 s. ISBN saknas'
 categories: – Bön (Salāh) – Praktiska detaljer i bönen
 original_id: 260

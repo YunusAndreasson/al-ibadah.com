@@ -1,6 +1,6 @@
 ---
 title: Skuld som tillhör en avliden person och denne har inte lämnat allmosa
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 596 s. ISBN 9960-892-66-2'
 categories: – Allmosa (Zakāh) – Den skuldsattes skyldighet

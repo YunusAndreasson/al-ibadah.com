@@ -1,7 +1,7 @@
 ---
 title: Fasta sex dagar i shawwal med samma intention som för att ta igen missad fastan
  från ramadan
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: Fatāwa al-Siyām (438)
 categories: – Fasta (Sawm) – Ta igen missad fasta
 original_id: 1608

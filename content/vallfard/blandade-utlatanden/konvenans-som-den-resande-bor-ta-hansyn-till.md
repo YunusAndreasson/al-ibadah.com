@@ -1,6 +1,6 @@
 ---
 title: Konvenans som den resande bör ta hänsyn till
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fatāwa Ibn ʿUthaymīn, 21/16 Muhammed Knut Bernström (1421), Koranens budskap
  . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Vallfärd (Hajj) – Blandade utlåtanden

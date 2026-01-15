@@ -1,7 +1,7 @@
 ---
 title: Välgörenhet och åkallan för en avlidens räkning
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 65 s. ISBN saknas'
 categories: – Allmosa (Zakāh) – Blandat om allmosa
 original_id: 50

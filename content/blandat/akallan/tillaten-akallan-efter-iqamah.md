@@ -1,7 +1,7 @@
 ---
 title: Tillåten åkallan efter iqāmah
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 124 s. ISBN saknas'
 categories: – Blandat – Åkallan
 original_id: 1457
@@ -22,7 +22,7 @@ Detta gäller både böneutropet och *iqāmah[^1]*. De kallas ju båda för ”b
 
 Utöver det som vi har nämnt känner vi inte till något autentiskt bevis som påvisar att man bör säga någon åkallan[^2] mellan slutet av *iqāmah[^1]* och den första *takbīr[^5]* i bönen.
 
-Genom Allāh uppnås framgång och må frid och välsignelser vara över vår profet Muhammad, hans familj och följeslagare.
+Genom Allāh uppnås framgång och må frid och välsignelser vara över vår profet Muḥammad, hans familj och följeslagare.
 
 [^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 [^2]: Du´ā

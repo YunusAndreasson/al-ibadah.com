@@ -2,7 +2,7 @@
 title: Tillgångar som man har haft tidigare och man inte vet hur mycket man ska
  betala
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 198 s. ISBN saknas'
 categories: – Allmosa (Zakāh) – Hur och när den betalas
 original_id: 645

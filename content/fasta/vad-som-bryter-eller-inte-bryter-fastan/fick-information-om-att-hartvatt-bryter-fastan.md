@@ -13,7 +13,7 @@ description: 'Fråga: En imam i en moské sade till mig att en hårtvätt under 
 
 **Svar:** Att tvätta håret under ramadan[^1] bryter inte fastan och att vatten tränger in genom hårets porer gör det heller inte. Hans [imamens] uttalande är felaktigt då profeten – över honom vare Allāhs frid och välsignelser – brukade tvätta sitt hår medan han fastade.
 
-Och framgången finns med Allāh. Må frid och välsignelser vara över Muhammad, hans familj och hans följeslagare.
+Och framgången finns med Allāh. Må frid och välsignelser vara över Muḥammad, hans familj och hans följeslagare.
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

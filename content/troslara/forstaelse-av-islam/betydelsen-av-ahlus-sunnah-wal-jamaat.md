@@ -1,7 +1,7 @@
 ---
 title: Betydelsen av ahlus-sunnah wal-jamā’at
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muhammad ibn Sālih al-‘Uthaymīn,
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muḥammad ibn Sālih al-‘Uthaymīn,
  vol. 1. p. 37
 categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 493

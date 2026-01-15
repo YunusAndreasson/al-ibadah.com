@@ -1,6 +1,6 @@
 ---
 title: Följa en av de fyra imamerna
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: Kitābul-ʿilm – sida 115, fråga 14
 categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 598

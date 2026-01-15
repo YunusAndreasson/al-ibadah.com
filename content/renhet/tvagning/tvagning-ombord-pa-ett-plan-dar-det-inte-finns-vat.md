@@ -1,8 +1,8 @@
 ---
 title: Tvagning ombord på ett plan där det inte finns vatten
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'I’lām al-Musāfirīn bi Ba’d Ādāb al-Safr wa ma yakhuss al-Mallāhīn al-Jawwiyyīn,
- av shaykh Muhammad ibn Sālih al-‘Uthaymīn, sida. 11 Muhammed Knut Bernström (1421),
+ av shaykh Muḥammad ibn Sālih al-‘Uthaymīn, sida. 11 Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Renhet (Tahārah) – Tvagning
 original_id: 495

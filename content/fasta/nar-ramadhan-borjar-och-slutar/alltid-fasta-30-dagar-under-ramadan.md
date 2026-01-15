@@ -1,10 +1,10 @@
 ---
 title: Alltid fasta 30 dagar under ramadan
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 235 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Fasta (Sawm) – När ramadhan börjar och slutar
+categories: – Fasta (Sawm) – När ramadan börjar och slutar
 original_id: 1391
 description: 'Fråga: Vilket är utlåtandet om dem som alltid fastar 30 dagar under
  ramadan? Svar: Utförliga ahādīth från Allāhs sändebud, konsensus bland följeslagarna

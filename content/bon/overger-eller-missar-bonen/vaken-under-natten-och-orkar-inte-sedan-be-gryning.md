@@ -1,7 +1,7 @@
 ---
 title: Vaken under natten och orkar inte sedan be gryningsbönen förrän efter dess
  tid
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 385 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Överger eller missar bönen

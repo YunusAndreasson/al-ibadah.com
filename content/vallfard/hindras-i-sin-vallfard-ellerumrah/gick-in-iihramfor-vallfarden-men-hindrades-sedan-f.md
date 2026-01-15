@@ -1,7 +1,7 @@
 ---
-title: Gick in i ihrāmför vallfärden men hindrades sedan från att komma in i Mecka
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+title: Gick in i ihrām för vallfärden men hindrades sedan från att komma in i Mecka
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 266 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Hindras i sin vallfärd eller ʿumrah
 original_id: 864

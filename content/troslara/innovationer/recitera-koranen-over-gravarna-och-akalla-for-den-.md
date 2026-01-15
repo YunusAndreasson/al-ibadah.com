@@ -1,6 +1,6 @@
 ---
 title: Recitera Koranen över gravarna och åkalla för den avlidne
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 583 s. ISBN 9960-892-66-2'
 categories: – Troslära (ʿAqīdah) – Innovationer
@@ -12,7 +12,7 @@ description: 'Fråga: Vilket är utlåtandet om att recitera Koranen över grava
 
 **Fråga:** Vilket är utlåtandet om att recitera Koranen över gravarna och åkalla jämte graven för den avlidne?
 
-**Svar:** Att recitera Koranen över gravarna är en innovation som inte har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – eller hans följeslagare. Därför är det inte eftersträvansvärt att någon befattar sig med denna innovation. I en återberättelse säger profeten – över honom vare Allāhs frid och välsignelser: ”*Det värsta inom religiösa frågor är nya innovationer och varje innovation är villfarelse*.” [*Muslim* 867] Muslimer måste följa salaf[^1] s exempel och de som trofast följde dem för att de ska följa godhet och vägledning. Detta är enligt en återberättelse från profeten – över honom vare Allāhs frid och välsignelser – i vilken han säger: ”*Det bästa talet är Allāhs skrift och den bästa vägledning är Muhammads*.” [*Muslim* 867]
+**Svar:** Att recitera Koranen över gravarna är en innovation som inte har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – eller hans följeslagare. Därför är det inte eftersträvansvärt att någon befattar sig med denna innovation. I en återberättelse säger profeten – över honom vare Allāhs frid och välsignelser: ”*Det värsta inom religiösa frågor är nya innovationer och varje innovation är villfarelse*.” [*Muslim* 867] Muslimer måste följa salaf[^1] s exempel och de som trofast följde dem för att de ska följa godhet och vägledning. Detta är enligt en återberättelse från profeten – över honom vare Allāhs frid och välsignelser – i vilken han säger: ”*Det bästa talet är Allāhs skrift och den bästa vägledning är Muḥammads*.” [*Muslim* 867]
 
 Det finns ingen invänan mot att åkalla för den avlidne vid gravens sida. Man kan stå vid graven och åkalla för denne med någon åkallan[^2] som man känner till, som genom att säga: ”*Allāhummaghfir lahu, Allāhummarhamhu, allāhumma ad-khilhul-jannata, allāhummafsah lahu fī qabrihi*.” Det finns även andra åkallan[^2] som går bra.
 

@@ -1,7 +1,7 @@
 ---
 title: Skjuta upp ihrām tills Jiddah nås
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 90 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – al-Mawaqit
 original_id: 735
@@ -16,7 +16,7 @@ description: 'Fråga: En man avser att utföra vallfärden eller ‘umrah och ha
 
 Om han inte känner till platsen för *mīqāt[^3]*, då bör han fråga piloten på planet eller en i besättningen som är pålitlig och har information om detta.
 
-Och framgång kommer från Allāh. Må Allāh sända välsignelser och frid över vår profet Muhammad, hans familj och följeslagare.
+Och framgång kommer från Allāh. Må Allāh sända välsignelser och frid över vår profet Muḥammad, hans familj och följeslagare.
 
 [^1]: Den lilla vallfärden.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

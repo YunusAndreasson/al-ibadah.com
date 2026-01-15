@@ -1,6 +1,6 @@
 ---
 title: Begrava och be begravningsbön över en släkting som inte har varit troende
-author: Shaykh Muhammad Nāsir al-Dīn al-Albāni
+author: Shaykh Muḥammad Nāsir al-Dīn al-Albāni
 source: 'al-Silsilah al-Sahīhah, s. 94 Muhammed Knut Bernström (1421), Koranens budskap
  . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Bön (Salāh) – Begravningsbön

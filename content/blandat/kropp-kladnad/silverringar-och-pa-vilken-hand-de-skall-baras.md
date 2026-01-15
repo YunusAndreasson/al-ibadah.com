@@ -1,7 +1,7 @@
 ---
 title: Silverringar och på vilken hand de ska bäras
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories: – Blandat – Kropp & klädnad
 original_id: 1700

@@ -1,7 +1,7 @@
 ---
 title: Inga ytliga frågor inom islam
 author: Ibn ʿAbdullah Ibn Bāz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 209 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Förståelse av islam
@@ -17,7 +17,7 @@ description: 'Fråga: Vilket är den islamiska lagens utlåtande om den som säg
 
 > ”Om du frågade [dem vad de menade med vad de sade] skulle de säkert svara: 'Vi bara skämtade.' Säg: 'Då var era skämt alltså riktade mot Gud, Hans budskap och Hans sändebud? Kom inte nu med [tomma] ursäkter! Ni har förnekat den tro som ni förut bekände.” [Koranen 9:65 – 66]
 
-Det var profeten – över honom vare Allāhs frid och välsignelser – som beordrade att skägget ska växa och att mustaschen ska trimmas. Att lyda honom är en skyldighet och det gäller även hans kommenderingar och förbud i alla frågor. Abū Muhammad Ibn Hazm har nämnt att de lärde är eniga om att det är en skyldighet att låta skägget växa och att mustaschen ska trimmas. Det råder inga tvivel om att njutning, frälsning, heder, ädelhet och Paradiset uppnås genom att lyda Allāh och Hans sändebud; samt att förgörelse, förlust och Helvetet är ett resultat av att inte lyda Allāh och Hans sändebud. Det är också en skyldighet att ha sina byxor ovan anklarna och det baseras på profetens – över honom vare Allāhs frid och välsignelser – ord:
+Det var profeten – över honom vare Allāhs frid och välsignelser – som beordrade att skägget ska växa och att mustaschen ska trimmas. Att lyda honom är en skyldighet och det gäller även hans kommenderingar och förbud i alla frågor. Abū Muḥammad Ibn Hazm har nämnt att de lärde är eniga om att det är en skyldighet att låta skägget växa och att mustaschen ska trimmas. Det råder inga tvivel om att njutning, frälsning, heder, ädelhet och Paradiset uppnås genom att lyda Allāh och Hans sändebud; samt att förgörelse, förlust och Helvetet är ett resultat av att inte lyda Allāh och Hans sändebud. Det är också en skyldighet att ha sina byxor ovan anklarna och det baseras på profetens – över honom vare Allāhs frid och välsignelser – ord:
 
 > ”Det av izār som hänger nedan för anklarna kommer att vara i Elden.” [*al-Bukhārī* 5787]
 

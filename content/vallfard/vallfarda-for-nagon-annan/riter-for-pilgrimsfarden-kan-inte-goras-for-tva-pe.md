@@ -1,7 +1,7 @@
 ---
 title: Riter för pilgrimsfärden kan inte göras för två personer
-author: Muhammad bin Salih al-ʿUthaymin
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Muḥammad bin Salih al-ʿUthaymin
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 78 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Vallfärda för någon annan
 original_id: 1327

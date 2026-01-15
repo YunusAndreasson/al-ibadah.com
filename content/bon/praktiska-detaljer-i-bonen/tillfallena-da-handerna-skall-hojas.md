@@ -1,7 +1,7 @@
 ---
 title: Tillfällena då händerna ska höjas
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 143 s. ISBN saknas'
 categories: – Bön (Salāh) – Praktiska detaljer i bönen
 original_id: 188
@@ -16,7 +16,7 @@ Muslimer måste känna till de islamiska utlåtandena i Allāhs skrift, profeten
 
 profetens – över honom vare Allāhs frid och välsignelser – autentiska *sunnah[^2]* visar att det är tillåtet att höja händerna under den första *takbīr[^5]*, när man bugar och reser sig från den och när man står upp för den tredje bönecykeln[^6]. Det är inte tillåtet att motsäga sig profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* med folks uttalanden.
 
-Må frid och välsignelser vara över profeten Muhammad, hans familj och följeslagare.
+Må frid och välsignelser vara över profeten Muḥammad, hans familj och följeslagare.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

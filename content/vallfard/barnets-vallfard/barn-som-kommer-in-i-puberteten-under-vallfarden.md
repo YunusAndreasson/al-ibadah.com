@@ -1,7 +1,7 @@
 ---
 title: Barn som kommer in i puberteten under vallfärden
 author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 44 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Barnets vallfärd
 original_id: 708

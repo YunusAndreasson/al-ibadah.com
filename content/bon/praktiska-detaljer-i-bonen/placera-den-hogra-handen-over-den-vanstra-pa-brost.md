@@ -1,7 +1,7 @@
 ---
 title: Placera den högra handen över den vänstra på bröstet eller över hjärtat under
  bönen
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 464 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Praktiska detaljer i bönen

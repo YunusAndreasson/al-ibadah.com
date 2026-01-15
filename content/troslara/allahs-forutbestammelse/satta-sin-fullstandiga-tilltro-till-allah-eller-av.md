@@ -1,6 +1,6 @@
 ---
 title: Sätta sin fullständiga tilltro till Allāh eller även anstränga sig själv
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 92 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
@@ -29,7 +29,7 @@ Därför måste den troende lita till sin Herre, som är himlarnas och jordens H
 
 Man bör vidta de åtgärder som den islamiska lagen påkallar[^2], genom tron på Allāhs förutbestämmelse och genom de nödvändiga praktiska åtgärder som Allāh den Upphöjde har kommenderat. Använder man ett medel för att uppnå gott och skydda sig mot ont är det ju en del av att tro på Allāh den Upphöjde och Hans visdom. Detta är inte något som ogiltigör ens hoppfullhet till Honom.
 
-Se på den som var bäst på att sätta sin tilltro till Allāh – Muhammad. Han brukade vidta de åtgärder som fordras genom den islamiska lagen och tron på Allāhs förutbestämmelse. Han sökte skydd innan han lade sig för att sova genom att läsa sura al-Ikhlas och *mu’awwidhāt*, han brukade bära sin rustning i strid och han grävde en skyttegrav framför Medina som skydd när brottsliga hedningar samlade sig runt staden. Allāh den Upphöjde har förklarat att det som en tjänare söker sin tillflykt hos Honom med från det onda i krig är några av Hans välsignelser som Han förtjänar att tackas för. Allāh har berättat att Hans profet David sade:
+Se på den som var bäst på att sätta sin tilltro till Allāh – Muḥammad. Han brukade vidta de åtgärder som fordras genom den islamiska lagen och tron på Allāhs förutbestämmelse. Han sökte skydd innan han lade sig för att sova genom att läsa sura al-Ikhlas och *mu’awwidhāt*, han brukade bära sin rustning i strid och han grävde en skyttegrav framför Medina som skydd när brottsliga hedningar samlade sig runt staden. Allāh den Upphöjde har förklarat att det som en tjänare söker sin tillflykt hos Honom med från det onda i krig är några av Hans välsignelser som Han förtjänar att tackas för. Allāh har berättat att Hans profet David sade:
 
 > ”Och Vi lärde honom att tillverka brynjor åt er för att göra er mer motståndskraftiga i era krigståg. Är ni tacksamma [för detta]?” [Koranen 21:80]
 
@@ -41,7 +41,7 @@ Men det är nödvändigt att de sätter sin tilltro till Allāh den Allsmäktige
 
 Vid Allāh, jag ber att Han skyddar oss alla från orsakerna till prövningar och undergång, att Han hjälper oss och våra bröder att få en starkare tro och tillit till Honom och att vidta de nödvändiga åtgärder som Han har tillåtit på det sätt som gör Honom nöjd. Han är sannerligen den Generösaste.
 
-Må frid och välsignelser vara över profeten Muhammad, hans familj och hans följeslagare.
+Må frid och välsignelser vara över profeten Muḥammad, hans familj och hans följeslagare.
 
 [^1]: Hoppfullhet till Allāh.
 [^2]: Du´ā

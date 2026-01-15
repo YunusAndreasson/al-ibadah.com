@@ -1,7 +1,7 @@
 ---
 title: Vad man inte behöver göra under resor
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 433 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Stryka över sockar
 original_id: 345

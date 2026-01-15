@@ -2,7 +2,7 @@
 title: 'Innebörden av: ”Jag är hans hörsel som han hör med och hans syn som han ser
  med.”'
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 60 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
 original_id: 47

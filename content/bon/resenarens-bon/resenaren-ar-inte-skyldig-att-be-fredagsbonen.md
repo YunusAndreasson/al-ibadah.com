@@ -1,7 +1,7 @@
 ---
 title: Resenären är inte skyldig att be fredagsbönen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 455 s. ISBN saknas'
 categories: – Bön (Salāh) – Resenärens bön
 original_id: 355
@@ -16,7 +16,7 @@ description: 'Fråga: Om en man missade fredagsbönen medan han reste, bör han 
 
 Under profetens – över honom vare Allāhs frid och välsignelser – sista vallfärd stod han vid Arafat[^3] under en fredag och han ledde folket i middagsbönen[^2] men inte i fredagsbönen. Han beordrade heller inte de som bodde ute i öknen att be fredagsbönen.
 
-Må frid och välsignelser vara över vår profet Muhammad.
+Må frid och välsignelser vara över vår profet Muḥammad.
 
 [^1]: Rakah.
 [^2]: Dhuhr

@@ -1,7 +1,7 @@
 ---
 title: Två bönecykler mellan predikningarna vid fredagsbönen
-author: Muhammad bin Salih al-ʿUthaymin
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muḥammad bin Salih al-ʿUthaymin
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 311 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Innovationer
 original_id: 1514

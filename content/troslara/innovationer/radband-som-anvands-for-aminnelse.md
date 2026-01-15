@@ -1,7 +1,7 @@
 ---
 title: Radband som används för åminnelse
-author: Muhammad bin Salih al-ʿUthaymin
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muḥammad bin Salih al-ʿUthaymin
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Innovationer
 original_id: 1657

@@ -1,7 +1,7 @@
 ---
 title: Olika former av tro
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muhammad ibn Sālih al-‘Uthaymīn,
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muḥammad ibn Sālih al-‘Uthaymīn,
  volym. 1, sida 54 Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn:
  Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Blandade utlåtanden

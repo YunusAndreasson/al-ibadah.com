@@ -1,7 +1,7 @@
 ---
 title: Gelatin
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories: – Blandat – Kost & hälsa
 original_id: 1637
@@ -17,5 +17,5 @@ De lärde är eniga om att grisfett inkluderas i detta förbud. Men om det inte 
 
 Allāh är Beviljaren av framgång.
 
-Må frid och välsignelser vara över profeten Muhammad, hans familj och hans följeslagare.
+Må frid och välsignelser vara över profeten Muḥammad, hans familj och hans följeslagare.
 

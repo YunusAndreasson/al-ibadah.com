@@ -1,7 +1,7 @@
 ---
 title: ‘Awrah har blivit synlig
 author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 200 s. ISBN saknas'
 categories: – Bön (Salāh) – Klädseln
 original_id: 218

@@ -1,6 +1,6 @@
 ---
 title: Välja en bra man
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: Fatāwa al-Marah
 categories: – Blandat – Äktenskap
 original_id: 1712

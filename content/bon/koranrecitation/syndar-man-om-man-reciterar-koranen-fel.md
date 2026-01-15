@@ -1,7 +1,7 @@
 ---
 title: Syndar man om man reciterar Koranen fel?
-author: Muhammad bin Salih al-ʿUthaymin
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muḥammad bin Salih al-ʿUthaymin
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories: – Bön (Salāh) – Koranrecitation
 original_id: 1664

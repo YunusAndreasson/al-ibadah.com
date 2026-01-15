@@ -1,7 +1,7 @@
 ---
 title: Kvinnor som bär sockar under ihrām
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 131 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
 original_id: 767

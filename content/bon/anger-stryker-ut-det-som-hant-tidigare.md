@@ -1,7 +1,7 @@
 ---
 title: Ånger stryker ut det som hänt tidigare
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 233 s. ISBN saknas'
 categories: – Bön (Salāh)
 original_id: 655

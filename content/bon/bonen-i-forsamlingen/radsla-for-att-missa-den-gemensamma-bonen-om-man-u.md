@@ -1,6 +1,6 @@
 ---
 title: Rädsla för att missa den gemensamma bönen om man uppsöker toaletten först
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 496 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Bönen i församlingen

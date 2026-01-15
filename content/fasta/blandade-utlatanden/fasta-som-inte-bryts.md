@@ -1,7 +1,7 @@
 ---
 title: Fasta som inte bryts
-author: Muhammad bin Salih al-ʿUthaymin
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Muḥammad bin Salih al-ʿUthaymin
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 329 s. ISBN saknas'
 categories: – Fasta (Sawm) – Blandade utlåtanden
 original_id: 1414

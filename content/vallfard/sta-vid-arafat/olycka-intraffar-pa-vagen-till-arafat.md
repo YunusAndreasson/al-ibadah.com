@@ -1,7 +1,7 @@
 ---
 title: Olycka inträffar på vägen till Arafat
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 267 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Stå vid Arafat
 original_id: 865
@@ -14,7 +14,7 @@ description: 'Fråga: Den sjunde i thul-hijjah begav jag mig till Huset och jag
 
 **Svar:** Det som är er skyldighet, då ni trätt in i *ihrām[^4]* för vallfärden, är att ni är kvar i den tills ni har avslutat alla riter. Ni bör inte överge den på grund av olyckan – som Allāh räddade er från – eller någonting liknande. Detta är inte en ursäkt för att överge vallfärden. Så länge du återvänt [till ditt land] innan du stått vi Arafat[^3], gjort *tawāf[^5]* runt Ka’bah och utfört det som Allāh gjort obligatoriskt för dig, då måste du söka Allāhs förlåtelse och ångra dig för vad du har gjort. Du måste även slakta ett får som passar som offer. Detta måste göras i Mecka vid något tillfälle och du bör dela ut köttet till de fattiga. Du bör inte äta från offerköttet och du bör inte ge något av det som en gåva till en välbärgad släkting. Du bör även vallfärda nästa år, om Allāh vill.
 
-Och framgång kommer från Allāh. Må Allāh sända välsignelser och frid över Muhammad och hans familj.
+Och framgång kommer från Allāh. Må Allāh sända välsignelser och frid över Muḥammad och hans familj.
 
 [^1]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 [^2]: Den lilla vallfärden.

@@ -1,7 +1,7 @@
 ---
 title: Tvingar frun till att ha intim samvaro mot hennes vilja
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 280 s. ISBN saknas'
 categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 435

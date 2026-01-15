@@ -1,7 +1,7 @@
 ---
 title: Höja rösten när man gör åminnelse efter den obligatoriska bönen
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 265 s. ISBN saknas'
 categories: – Blandat – Åminnelse
 original_id: 271

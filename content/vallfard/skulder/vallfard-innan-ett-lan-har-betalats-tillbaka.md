@@ -1,7 +1,7 @@
 ---
 title: Vallfärd innan ett lån har betalats tillbaka
 author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 61 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Skulder
 original_id: 719

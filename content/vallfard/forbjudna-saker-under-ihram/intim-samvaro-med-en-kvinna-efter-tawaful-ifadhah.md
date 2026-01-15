@@ -1,7 +1,7 @@
 ---
 title: Intim samvaro med en kvinna efter tawāful-ifādhah
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 147 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Förbjudna saker under ihrām
 original_id: 777

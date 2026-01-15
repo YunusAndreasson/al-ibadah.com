@@ -1,7 +1,7 @@
 ---
 title: Endast de fattiga får zakātul-fitr
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 210 s. ISBN saknas'
 categories: – Allmosa (Zakāh) – Zakātul-fitr
 original_id: 654

@@ -1,6 +1,6 @@
 ---
 title: Överge gryningsbönen – inte be den i församlingen eller be den efter soluppgången
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: Fatāwa Manār al-Islām – volym 1, sida 133, fråga 101
 categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 568

@@ -1,7 +1,7 @@
 ---
 title: Sufiordnars mirakel och sataniska riter
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 337 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Sekter, rörelser och den rätta vägen – ahlus-sunnah
@@ -13,7 +13,7 @@ description: 'Fråga: Det finns en dervish-sekt nära oss och där finns en man 
 
 **Fråga:** Det finns en dervish-sekt nära oss och där finns en man från vår släkt som dricker vatten från sektens läder. Sedan slår han på sin mage med skadliga föremål: dolkar, svärd och metallstavar. Vad säger islam om detta och vilken är hemligheten bakom?
 
-**Svar:** Enligt de uppenbarade texterna och de lärdes samstämmighet fullbordade Allāh profetskapet med Muhammad. Allāh den Upphöjde säger: ”Troende! Muhammad är inte far till någon av era män. Han är Guds Sändebud och Profetlängdens Sigill. Gud har kunskap om allt.” [Koranen 33:40]
+**Svar:** Enligt de uppenbarade texterna och de lärdes samstämmighet fullbordade Allāh profetskapet med Muḥammad. Allāh den Upphöjde säger: ”Troende! Muḥammad är inte far till någon av era män. Han är Guds Sändebud och Profetlängdens Sigill. Gud har kunskap om allt.” [Koranen 33:40]
 
 Dessa mutawatir *ahādīth[^1]* från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – klargör att han är den siste profeten. Alla muslimer är eniga om detta.
 
@@ -39,7 +39,7 @@ Därmed är den som nämns djävulens awliyā’[^2] och de riter som nämns är
 
 Och Han säger i sura Ta-Ha: ”[Trollkarlarna] sade: 'Antingen kastar du, Moses, [din stav] eller också kastar vi först.' Han svarade: 'Kasta ni – [jag väntar]!' Och deras trolldom gjorde sådan verkan att han tyckte sig se att deras rep och stavar verkligen rörde sig.” [Koranen 20:65 – 66]
 
-Må frid och välsignelser vara över vår Profet Muhammad, hans familj och följeslagare.
+Må frid och välsignelser vara över vår Profet Muḥammad, hans familj och följeslagare.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: De som står Allāh nära.

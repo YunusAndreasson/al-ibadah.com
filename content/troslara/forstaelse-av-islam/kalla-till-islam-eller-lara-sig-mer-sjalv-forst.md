@@ -1,6 +1,6 @@
 ---
 title: Kalla till islam eller lära sig mer själv först
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Kitābul-ʿilm – sida 145, fråga 43 Muhammed Knut Bernström (1421), Koranens
  budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Förståelse av islam
@@ -14,7 +14,7 @@ description: 'Fråga: Vilket är det bästa: kalla till islam eller söka kunska
 
 **Svar:** Söka kunskap är bättre och har en högre prioritet. Detta utesluter dock inte att han samtidigt kallar till islam samtidigt. Det är dock inte tillåtet att kalla till islam utan kunskap. Allāh säger:
 
-> ”Säg [Muhammad]: 'Detta är min väg: jag uppmanar [er] med klar syn och insikt att dyrka Gud.” [Koranen 12:108]
+> ”Säg [Muḥammad]: 'Detta är min väg: jag uppmanar [er] med klar syn och insikt att dyrka Gud.” [Koranen 12:108]
 
 Så, hur kan det var möjligt att kalla till islam utan kunskap? Aldrig har någon kalla till islam utan kunskap och den som gör så utan kunskap kommer inte att lyckas.
 

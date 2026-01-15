@@ -1,7 +1,7 @@
 ---
 title: Sitta och vila [jalsatul-istirāh] efter bönecykel ett och tre
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 166 s. ISBN saknas'
 categories: – Bön (Salāh) – Praktiska detaljer i bönen
 original_id: 1477

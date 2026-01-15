@@ -1,7 +1,7 @@
 ---
-title: Skyldigheten att träda in i ihrāmfrån mīqāt
+title: Skyldigheten att träda in i ihrām från mīqāt
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 79 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – al-Mawaqit
 original_id: 1328

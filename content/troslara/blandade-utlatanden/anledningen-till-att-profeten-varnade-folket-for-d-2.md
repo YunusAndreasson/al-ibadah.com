@@ -1,6 +1,6 @@
 ---
 title: Anledningen till att profeten varnade folket för Dajjāl
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 158 s. ISBN 9960-892-66-2'
 categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
@@ -10,7 +10,7 @@ description: Den största prövning på jordens yta sedan Adam skapades tills Ti
  frid och välsignelser – har berättat om. Därför...
 ---
 
-Den största prövning på jordens yta sedan Adam skapades tills Timmen börjar är prövningen i Dajjāl, vilket är något profeten – över honom vare Allāhs frid och välsignelser – har berättat om. Därför har profeterna – från Noa till Muhammad – för att understryka vikten av denna fråga varnat människorna för honom [*al-Bukhārī* 7127].
+Den största prövning på jordens yta sedan Adam skapades tills Timmen börjar är prövningen i Dajjāl, vilket är något profeten – över honom vare Allāhs frid och välsignelser – har berättat om. Därför har profeterna – från Noa till Muḥammad – för att understryka vikten av denna fråga varnat människorna för honom [*al-Bukhārī* 7127].
 
 Allāh vet att han inte kommer att dyka upp innan tidens ände men Han har kommenderat sändebuden att varna deras folk om honom så att vikten. Allvarligheten i detta ska vara uppenbar. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 

@@ -1,7 +1,7 @@
 ---
 title: Utse någon annan till att vallfärda
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 69 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Vallfärda för någon annan
 original_id: 725
@@ -22,5 +22,5 @@ Den som vill utse någon annan som vallfärdar bör noggrant se på personen som
 
 Och framgång kommer från Allāh.
 
-Må Allāh sända välsignelser och frid över vår Profet Muhammad, hans familj och följeslagare.
+Må Allāh sända välsignelser och frid över vår Profet Muḥammad, hans familj och följeslagare.
 

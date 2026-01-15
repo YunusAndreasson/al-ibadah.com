@@ -1,8 +1,8 @@
 ---
 title: Tiden för att kasta stenarna på pelaren al-ʿAqabah och hur man tar igen detta
  om man missat det
-author: Muhammad bin Salih al-ʿUthaymin
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Muḥammad bin Salih al-ʿUthaymin
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 234 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Stenkastningen
 original_id: 1557

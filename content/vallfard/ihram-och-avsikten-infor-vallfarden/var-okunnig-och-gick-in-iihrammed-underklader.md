@@ -1,7 +1,7 @@
 ---
-title: Var okunnig och gick in i ihrāmmed underkläder
+title: Var okunnig och gick in i ihrām med underkläder
 author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 141 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
 original_id: 775

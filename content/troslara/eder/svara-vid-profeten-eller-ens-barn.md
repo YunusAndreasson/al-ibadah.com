@@ -1,7 +1,7 @@
 ---
 title: Svära vid profeten eller ens barn
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 67 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Eder
 original_id: 52

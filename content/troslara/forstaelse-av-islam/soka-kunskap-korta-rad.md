@@ -1,6 +1,6 @@
 ---
 title: Söka kunskap – korta råd
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: Kitābul-ʿilm – sida 119, fråga 17
 categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 599

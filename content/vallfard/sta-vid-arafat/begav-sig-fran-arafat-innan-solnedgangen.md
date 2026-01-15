@@ -1,7 +1,7 @@
 ---
 title: Begav sig från Arafat innan solnedgången
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 214 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Stå vid Arafat
 original_id: 837

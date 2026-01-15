@@ -1,7 +1,7 @@
 ---
 title: Välsignelsen i sahūr
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 326 s. ISBN saknas'
 categories: – Fasta (Sawm) – Bryta och påbörja fastan
 original_id: 476

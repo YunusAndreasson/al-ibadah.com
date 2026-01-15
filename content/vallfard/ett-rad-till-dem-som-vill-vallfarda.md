@@ -1,21 +1,21 @@
 ---
 title: Ett råd till dem som vill vallfärda
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 21 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Vallfärd (Hajj)
 original_id: 700
 description: 'Fråga: All lovprisan tillhör Allāh ensam och må böner med välsignelser
- och frid vara över Hans tjänare och Budbärare, vår profet Muhammad, och hans följeslagare
+ och frid vara över Hans tjänare och Budbärare, vår profet Muḥammad, och hans följeslagare
  och alla de som följer dem i rättfä...'
 ---
 
-**Fråga:** All lovprisan tillhör Allāh ensam och må böner med välsignelser och frid vara över Hans tjänare och Budbärare, vår profet Muhammad, och hans följeslagare och alla de som följer dem i rättfärdighet fram till Domens Dag.
+**Fråga:** All lovprisan tillhör Allāh ensam och må böner med välsignelser och frid vara över Hans tjänare och Budbärare, vår profet Muḥammad, och hans följeslagare och alla de som följer dem i rättfärdighet fram till Domens Dag.
 
 **Svar:** Ni muslimer som kommit till det heliga Huset för att vallfärda, jag ber Allāh om att vi ska få framgång med att göra det som gör Honom nöjd och jag ber om säkerhet från villfarelsen i onda ingivelser. Likaså ber jag Honom om att ni ska få framgång med era vallfärdsriter på ett sätt som gör Honom nöjd, att Han accepterar det och att hemresan till era länder ska vara framgångsrik. Sannerligen är Han den Bäste att be om hjälp.
 
-Muslimer! Sannerligen är mitt råd till er att ni alltid fruktar Allāh, att ni står stadiga i Hans religion och att ni aktar er för det som orsakar Hans vrede. Sannerligen, den viktigaste av de obligatoriska handlingarna och den största skyldigheten Allāhs enhet och att enbart och uppriktigt inte dyrka någon annan än Honom. Detta går hand i hand med att vara noggrann med att följa Hans sändebud i ord och handling. Sannerligen bör vallfärdsriterna – och alla annan dyrkan – utföras på det sätt som Allāh har föreskrivit för tjänarna genom orden från Hans sändebud, vän och utvalde från Hans skapelse, vår profet, imam och ledare – Muhammad bin ʿAbdullāh.
+Muslimer! Sannerligen är mitt råd till er att ni alltid fruktar Allāh, att ni står stadiga i Hans religion och att ni aktar er för det som orsakar Hans vrede. Sannerligen, den viktigaste av de obligatoriska handlingarna och den största skyldigheten Allāhs enhet och att enbart och uppriktigt inte dyrka någon annan än Honom. Detta går hand i hand med att vara noggrann med att följa Hans sändebud i ord och handling. Sannerligen bör vallfärdsriterna – och alla annan dyrkan – utföras på det sätt som Allāh har föreskrivit för tjänarna genom orden från Hans sändebud, vän och utvalde från Hans skapelse, vår profet, imam och ledare – Muḥammad bin ʿAbdullāh.
 
 Sannerligen är den ondaste av alla handlingar och det farligaste av alla brott att sätta medhjälpare vid Allāhs sida. Detta sker genom att man helt eller delvis dyrkar någon annan än Allāh. Anledningen är att Allāh har sagt:
 
@@ -48,13 +48,13 @@ Och Han har sagt:
 > 
 > 
 > 
-> ”Säg [Muhammad]: ’Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.’” [Koranen 3:31]
+> ”Säg [Muḥammad]: ’Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.’” [Koranen 3:31]
 
 Verserna med denna innebörd är många.
 
-Därför är mitt råd till er och till mig själv att ni alltid fruktar Allāh och att ni uppriktigt följer Hans profet Muhammad i vad han gjorde och i vad han sade. Syftet är att ni ska bli lyckliga och uppnå frälsning i detta livet och det Nästa.
+Därför är mitt råd till er och till mig själv att ni alltid fruktar Allāh och att ni uppriktigt följer Hans profet Muḥammad i vad han gjorde och i vad han sade. Syftet är att ni ska bli lyckliga och uppnå frälsning i detta livet och det Nästa.
 
-Ni som ska vallfärda till Allāhs heliga hus! Sannerligen, när det var den åttonde dhul-hijjah[^1] begav sig vår profet Muhammad av från Mecka till Mina samtidigt som han läste *talbiyyah[^2]*. Han beordrade följeslagarna att träda in i *ihrām[^3]* med avsikt för vallfärden i deras hem [i Mecka] och ge sig av mot Mina. Han kommenderade dem inte att göra *tawāf[^4]* när de lämnade Mecka [*tawāf[^4] ul-wadā*]. Detta bevisar att det som är *sunnah[^5]* för dem som bor i Mecka och de som har trätt ur *ihrām[^3]* efter *‘umrah[^6]* och som vill vallfärda att ge sig av mot Mina den åttonde dagen samtidigt som de läser *talbiyyah[^2]* för vallfärden. När de lämnar Mecka behöver de inte bege sig till det heliga Huset för att göra *tawāf[^4]* runt Ka’bah [*tawāf[^4] ul-wadā*].
+Ni som ska vallfärda till Allāhs heliga hus! Sannerligen, när det var den åttonde dhul-hijjah[^1] begav sig vår profet Muḥammad av från Mecka till Mina samtidigt som han läste *talbiyyah[^2]*. Han beordrade följeslagarna att träda in i *ihrām[^3]* med avsikt för vallfärden i deras hem [i Mecka] och ge sig av mot Mina. Han kommenderade dem inte att göra *tawāf[^4]* när de lämnade Mecka [*tawāf[^4] ul-wadā*]. Detta bevisar att det som är *sunnah[^5]* för dem som bor i Mecka och de som har trätt ur *ihrām[^3]* efter *‘umrah[^6]* och som vill vallfärda att ge sig av mot Mina den åttonde dagen samtidigt som de läser *talbiyyah[^2]* för vallfärden. När de lämnar Mecka behöver de inte bege sig till det heliga Huset för att göra *tawāf[^4]* runt Ka’bah [*tawāf[^4] ul-wadā*].
 
 När man går in i *ihrām[^3]* för vallfärden är det rekommenderat att göra vad man gör vid mīqāt[^7] när man går in i *ihrām[^3]*; som att bada, ta på parfym och rengöra sig. Detta är vad profeten – över honom vare Allāhs frid och välsignelser – beordrade ‘A’ishah att göra när hon ville träda in i *ihrām[^3]* för vallfärden, och hon tidigare hade trätt in i *ihrām[^3]* för *‘umrah[^6]* men hennes månadsblödning hade börjat när hon gick in i Mecka. Därmed hade hon inte möjlighet att göra *tawāf[^4]* före hon begav sig till Mina och han beordrade henne att bada och träda in i *ihrām[^3]* för vallfärden [i Mecka]. Hon gjorde då det och kombinerade vallfärden med*‘umrah[^6]* [*qirān*].
 
@@ -106,7 +106,7 @@ Skjuter man upp *tawāf[^4] al-ifādhah* och utför den när man är redo för a
 
 Jag ber Allāh att Han hjälper alla med att göra vad som gör Honom nöjd och att Han accepterar vår vallfärd. Jag ber Honom att Han gör oss till dem som frias från Elden. Sannerligen, Han bestämmer över det och är kapabel att göra det.
 
-Må Allāh sända välsignelser och frid över vår profet Muhammad, hans familj och följeslagare.
+Må Allāh sända välsignelser och frid över vår profet Muḥammad, hans familj och följeslagare.
 
 [^1]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 [^2]: Säga Labbayk Allahumma Labbayk under vallfärden.

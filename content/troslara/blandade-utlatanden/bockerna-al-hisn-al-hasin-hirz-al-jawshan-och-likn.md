@@ -1,7 +1,7 @@
 ---
 title: Böckerna al-Hisn al-Hasin, Hirz al-Jawshan och liknande
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 51 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
 original_id: 42

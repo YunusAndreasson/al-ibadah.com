@@ -1,6 +1,6 @@
 ---
 title: Fredagspredikan som hålls på ett annat språk än arabiska
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 557 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Fredagsbönen

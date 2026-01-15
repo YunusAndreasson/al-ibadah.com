@@ -1,7 +1,7 @@
 ---
 title: ”Olika åsikter i min nation är en nåd”
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 1681

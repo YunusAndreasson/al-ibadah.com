@@ -1,7 +1,7 @@
 ---
 title: as-Sadah som skadar sig själva med dolkar och utövar magi
 author: Ibn ʿAbdullah Ibn Bāz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 159 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Siare och trollkarlar
@@ -19,11 +19,11 @@ description: 'Fråga: I några kvarter i Jemen finns det folk som kallas as-sada
 
 Detta eftersom de påstår sig känna till det som är dolt för människor[^3] och för att de tjänar *jinn[^4]*. Därför är det inte tillåtet att rådfråga dem. Profeten – över honom vare Allāhs frid och välsignelser – har på likande sätt sagt:
 
-> ”Den som besöker en teckentydare eller siare och tror på honom, har sannerligen förnekat vad som har uppenbarats för Muhammad.” [*Abū Dawūd* 3904, *at-Tirmithi* 135, *Ibn Mājah* 639 och *Ahmad* 2:408 och 476]
+> ”Den som besöker en teckentydare eller siare och tror på honom, har sannerligen förnekat vad som har uppenbarats för Muḥammad.” [*Abū Dawūd* 3904, *at-Tirmithi* 135, *Ibn Mājah* 639 och *Ahmad* 2:408 och 476]
 
 Och i en annan version:
 
-> ”Den som besöker en spåman eller siare och tror på honom har sannerligen förnekat det som har uppenbarats för Muhammad.”
+> ”Den som besöker en spåman eller siare och tror på honom har sannerligen förnekat det som har uppenbarats för Muḥammad.”
 
 När det gäller deras åkallan[^2] till andra än Allāh när de söker hjälp från andra än Honom och påstår att deras fäder och förfäder styr skapelsens ordning eller att de kan bota den sjuke eller besvara åkallan[^2] [även om de är döda eller frånvarande] är att inte tro på Allāh den Allsmäktige. Detta är vad månggudadyrkare[^5] brukar göra. Det är obligatoriskt att avvisa, undvika och inte fråga dem om någonting eller att tro på dem. Detta beror på att de genom deras handlingar gör det som spåmän och siare gör. Likaså är deras handlingar månggudaaktiga när de dyrkar andra än Allāh och söker hjälp från andra än Honom [som *jinn[^4]* och människor som har gått bort].
 

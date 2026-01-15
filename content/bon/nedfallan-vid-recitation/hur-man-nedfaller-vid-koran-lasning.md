@@ -21,7 +21,7 @@ Detta har Muslim återgivit i sin *Sahīh*, 1290 från profeten; han sade att ha
 
 Vi har ovan nämnt att det är föreskrivet att säga detsamma i *sujūd al-tilāwah* som i nedfallandet i [den vanliga] bönen. Det har berättats att profeten – över honom vare Allāhs frid och välsignelser – brukade åkalla när han gjorde *sujūd al-tilāwah*, och han sade:
 
-> ”*Allāhumma aktub li biha ‘indaka ajran wa’mhu ‘anni biha wizran waj’alha li ‘indaka dukhran wa taqabbalha minni kama taqabbaltaha min ‘abdika Dawūd"*
+> "*Allāhumma aktub li biha 'indaka ajran wa'mhu 'anni biha wizran waj'alha li 'indaka dukhran wa taqabbalha minni kama taqabbaltaha min 'abdika Dawūd*"
 > 
 > 
 > 

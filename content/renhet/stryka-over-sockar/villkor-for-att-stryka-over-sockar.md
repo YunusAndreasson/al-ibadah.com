@@ -1,6 +1,6 @@
 ---
 title: Villkor för att stryka över sockar
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: I’lām al-Musāfirīn bi Ba’d Ādāb wa Ahkām al-Safar wa mā yakhuss al-Mallāhīn
  al-Jawwiyyīn, s 44.
 categories: – Renhet (Tahārah) – Stryka över sockar

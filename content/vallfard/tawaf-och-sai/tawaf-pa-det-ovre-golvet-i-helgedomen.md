@@ -1,7 +1,7 @@
 ---
 title: Tawāf på det övre golvet i Helgedomen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 174 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 801
@@ -14,7 +14,7 @@ description: 'Fråga: Jag vallfärdade förra året [1400 A.H] och när jag dire
 
 **Svar:** Om det förhåller sig som du beskrivit, då har du inte syndat och din *tawāf[^1]* är giltig.
 
-Och framgång kommer från Allāh. Må Allāh sända välsignelser och frid över vår Profet Muhammad, hans familj och följeslagare.
+Och framgång kommer från Allāh. Må Allāh sända välsignelser och frid över vår Profet Muḥammad, hans familj och följeslagare.
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Rundvandringen runt Kabah före avfärden från Mecka.

@@ -1,7 +1,7 @@
 ---
 title: Svurit en trohetsed att vallfärda varje år men har nu inte möjlighet
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 58 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Vallfärd (Hajj) – Möjlighet att vallfärda
@@ -22,5 +22,5 @@ description: 'Fråga: Jag har svurit en trohetsed till Allāh om att jag ska val
 > 
 > ”Gud vill inte lägga på er tunga bördor, men [Han] vill rena er och fullkomna Sin nåd mot er – kanske känner ni tacksamhet.” [Koranen 5:6]
 
-Och all framgång kommer från Allāh. Må Allāh sända välsignelser och frid över vår ledare Muhammad och hans följeslagare.
+Och all framgång kommer från Allāh. Må Allāh sända välsignelser och frid över vår ledare Muḥammad och hans följeslagare.
 

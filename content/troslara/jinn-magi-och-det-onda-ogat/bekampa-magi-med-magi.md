@@ -1,7 +1,7 @@
 ---
 title: Bekämpa magi med magi
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 227 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Jinn, magi och det onda ögat
 original_id: 108

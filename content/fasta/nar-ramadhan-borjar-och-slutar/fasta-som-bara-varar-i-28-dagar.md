@@ -1,9 +1,9 @@
 ---
 title: Fasta som bara varar i 28 dagar
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 234 s. ISBN saknas'
-categories: – Fasta (Sawm) – När ramadhan börjar och slutar
+categories: – Fasta (Sawm) – När ramadan börjar och slutar
 original_id: 396
 description: 'Fråga: Är det tillåtet att enbart fasta 28 dagar under ramadan? Svar: I
  en utförlig autentisk hadīth från Allāhs sändebud – över honom vare Allāhs frid

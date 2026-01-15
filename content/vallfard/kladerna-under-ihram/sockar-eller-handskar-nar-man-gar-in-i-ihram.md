@@ -1,7 +1,7 @@
 ---
 title: Sockar eller handskar när man går in i ihrām
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 130 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Kläderna under ihrām
 original_id: 1341

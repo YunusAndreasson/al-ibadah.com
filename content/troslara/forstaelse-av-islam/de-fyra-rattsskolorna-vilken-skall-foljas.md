@@ -1,7 +1,7 @@
 ---
 title: De fyra rättsskolorna – vilken ska följas?
 author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 371 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 152

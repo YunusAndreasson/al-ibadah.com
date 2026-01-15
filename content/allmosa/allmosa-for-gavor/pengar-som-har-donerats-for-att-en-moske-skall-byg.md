@@ -1,7 +1,7 @@
 ---
 title: Pengar som har donerats för att en moské ska byggas
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 183 s. ISBN saknas'
 categories: – Allmosa (Zakāh) – Allmosa för gåvor
 original_id: 626

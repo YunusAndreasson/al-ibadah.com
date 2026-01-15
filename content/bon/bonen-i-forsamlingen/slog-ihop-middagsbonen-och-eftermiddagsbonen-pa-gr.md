@@ -2,7 +2,7 @@
 title: Slog ihop middagsbönen och eftermiddagsbönen på grund av regn men sedan slutade
  det att regna
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 151 s. ISBN saknas'
 categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 1469
@@ -29,7 +29,7 @@ Ett av villkoren för att det ska vara acceptabelt att slå ihop två böner är
 
 Därför är det klart att eftermiddagsbönen[^1] [för de som tillåter att den slås ihop med middagsbönen[^2]] och på samma sätt kvällsbönen[^4] [för de som tillåter att den slås ihop med nattbönen[^3]] med anledning av regn, inte behöver upprepas om giltigheten inte längre finns kvar när man har börjat. Anledningen är att den fanns när de båda bönerna började.
 
-Genom Allāh uppnås framgång. Må frid och välsignelser vara över vår profet Muhammad, hans familj och följeslagare.
+Genom Allāh uppnås framgång. Må frid och välsignelser vara över vår profet Muḥammad, hans familj och följeslagare.
 
 [^1]: Asr
 [^2]: Dhuhr

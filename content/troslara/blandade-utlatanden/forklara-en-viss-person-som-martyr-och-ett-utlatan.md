@@ -1,8 +1,8 @@
 ---
 title: Förklara en viss person som martyr och ett utlåtande om någon som drunknar
  i onyktert tillstånd
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 195 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
 original_id: 90

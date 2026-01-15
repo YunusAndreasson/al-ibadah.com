@@ -1,7 +1,7 @@
 ---
 title: Överdrivna rörelser
-author: Muhammad bin Salih al-ʿUthaymin
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muḥammad bin Salih al-ʿUthaymin
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 201 s. ISBN saknas'
 categories: – Bön (Salāh) – Vad som gör eller inte gör bönen ogiltig
 original_id: 1489

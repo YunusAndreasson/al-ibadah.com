@@ -1,7 +1,7 @@
 ---
 title: Slaktade offerdjuret för at-tamattu’ och hajjul-qirān för ‘eid
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 273 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Offerdjuret
 original_id: 867

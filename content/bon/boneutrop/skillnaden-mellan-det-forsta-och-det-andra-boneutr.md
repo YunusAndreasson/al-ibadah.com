@@ -1,7 +1,7 @@
 ---
 title: Skillnaden mellan det första och det andra böneutropet under gryningsbönen
 author: Ibn ʿAbdur-Rahman al-Jibrin
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 132 s. ISBN saknas'
 categories: – Bön (Salāh) – Böneutrop
 original_id: 1465

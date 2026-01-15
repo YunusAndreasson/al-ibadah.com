@@ -13,7 +13,7 @@ description: 'Fråga: Får en pilgrim tvätta hela sin kropp för att svalka sig
 
 **Svar:** All lovprisan tillhör Allāh. En muslim får tvätta hela sin kropp för att svalka den om den är varm. Detta kommer att ge denne mer energi för att utföra denna dyrkan. Denne bör vara varsam under tvätten så att inget hår eller delar av huden faller av när denne tvättar sig.
 
-Och Allāh är källan till styrka. Må Allāh sända välsignelser och frid över vår profet Muhammad, hans familj och följeslagare.
+Och Allāh är källan till styrka. Må Allāh sända välsignelser och frid över vår profet Muḥammad, hans familj och följeslagare.
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 

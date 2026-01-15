@@ -1,7 +1,7 @@
 ---
 title: Sunnah är att zakātul-fitr ska delas ut bland de fattiga i landet
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 209 s. ISBN saknas'
 categories: – Allmosa (Zakāh) – Zakātul-fitr
 original_id: 653

@@ -1,7 +1,7 @@
 ---
 title: Fastan för den som inte ber
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 380 s. ISBN saknas'
 categories: – Fasta (Sawm) – De som bara ber under ramadan
 original_id: 318
@@ -20,5 +20,5 @@ När någon döms till att vara icke-troende, då går dennes fasta och alla ann
 
 Men han bör inte uppmanas att överge fastan. Den kommer inte att leda till något annat än att hans godhet ökar och den för honom närmare religionen. Det kommer även att ingjuta fruktan i hans hjärta och då hoppas vi att han ska återvända till bönen och ångra sig för att han har övergett den.
 
-Genom Allāh uppnås framgång. Må frid och välsignelser vara över profeten Muhammad, hans familj och följeslagare.
+Genom Allāh uppnås framgång. Må frid och välsignelser vara över profeten Muḥammad, hans familj och följeslagare.
 

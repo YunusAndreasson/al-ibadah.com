@@ -1,16 +1,16 @@
 ---
 title: Bönematta som innehåller bilder
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 186 s. ISBN saknas'
 categories: – Bön (Salāh) – Moskén
 original_id: 1485
-description: 'Fråga: Vilket är utlåtandet om att be på en matta med bilder på moskér,
+description: 'Fråga: Vilket är utlåtandet om att be på en matta med bilder på moskéer,
  kupoler som det finns gravar under, minareter och liknande? Svar: Att göra bilder
  av något som inte innehåller en själ ...'
 ---
 
-**Fråga:** Vilket är utlåtandet om att be på en matta med bilder på moskér, kupoler som det finns gravar under, minareter och liknande?
+**Fråga:** Vilket är utlåtandet om att be på en matta med bilder på moskéer, kupoler som det finns gravar under, minareter och liknande?
 
 **Svar:** Att göra bilder av något som inte innehåller en själ är tillåtet, men att be på en matta som innehåller bilder som inte har någon själ är dock ogillat. Anledningen är att tjänaren störs i bönen. Bönen är dock fortfarande giltig enligt en återberättelse från Ahmad och Abū Dawūd i vilken ‘Uthmān bin Talhah berättar att profeten – över honom vare Allāhs frid och välsignelser – kallade honom till sig när han hade gått in i Ka’bah. Han sade: ”*Jag såg en vädurs horn då jag gick in i huset och jag glömde att beordra dig att täcka dem, så täck dem, då det inte passar att det finns något i huset som stör tjänaren*.” [*Ahmad* 4:68 och 5:380]
 
@@ -20,5 +20,5 @@ Han beordrade att hornen skulle täckas och att filten skulle tas bort. Här bli
 
 Här finns en varning från honom för sådant som stör tjänaren under bönen. Han avbröt dock inte sin bön. Detta bevisar att det är förbjudet med saker som stör tjänare, men det bevisar även att bönen trots allt är korrekt. Detta innebär även att bönen inte avbryts, trots distraktionen.
 
-Må frid och välsignelser vara över vår profet Muhammad, hans familj och följeslagare.
+Må frid och välsignelser vara över vår profet Muḥammad, hans familj och följeslagare.
 

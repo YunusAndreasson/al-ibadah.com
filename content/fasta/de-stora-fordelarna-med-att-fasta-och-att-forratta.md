@@ -1,7 +1,7 @@
 ---
 title: De stora fördelarna med att fasta och att förrätta nattbön under ramadan
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 211 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Fasta (Sawm)
@@ -63,7 +63,7 @@ Sannerligen bevisar Allāhs ädla skrift och profetens – över honom vare All�
 
 Den viktigaste frågan efter bönen och allmosan är fastan under Ramadan. Den är en av islams fem pelare som omnämns i profetens – över honom vare Allāhs frid och välsignelser – uttalande:
 
-> ”Islām är byggt på fem pelare: vittnetsmålet om att ingen har rätt att bli dyrkad utom Allāh och att Muhammad är Allāhs sändebud, förrättandet av bönen, betalning av allmosa, fastan under Ramadan och vallfärden till Huset [Ka’bah].” [*al-Bukhāri* 98:5]
+> ”Islām är byggt på fem pelare: vittnetsmålet om att ingen har rätt att bli dyrkad utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av bönen, betalning av allmosa, fastan under Ramadan och vallfärden till Huset [Ka’bah].” [*al-Bukhāri* 98:5]
 
 En muslim måste skydda fastan och bönen [under natten] mot ord och handlingar som Allāh har förbjudit. Detta beror på att avsikten med fastan är att lyda Allāh, hedra det ting Han har gjort heligt, tvinga själen att motsäga sig dess begär för att lyda dess Herre och göra den van vid att vara tålmodig i att undvika det som Allāh har förbjudit. Syftet med fastan är inte enbart att lämna mat, dryck och annat som kan bryta den. Dess syften har autentiskt berättats från Allāhs sändebud då han sagt:
 

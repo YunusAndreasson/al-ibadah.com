@@ -1,17 +1,17 @@
 ---
 title: Fel som begås i och på vägen till Muzdalifah
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: Dalīl al-Akhta’ allati yaqa’ fiha al-Hāj wa’l-Mu’tamir
 categories: – Vallfärd (Hajj) – Natten i Muzdalifah
 original_id: 1306
 description: 'Fråga: Vilka är de fel på vägen till Muzdalifah som du råder oss att
- undvika? Svar: All lovprisan tillhör Allāh. Shaykh Muhammad ibn ʿUthaymīn har
+ undvika? Svar: All lovprisan tillhör Allāh. Shaykh Muḥammad ibn ʿUthaymīn har
  sagt att de fel som begås på vägen från Arafa...'
 ---
 
 **Fråga:** Vilka är de fel på vägen till Muzdalifah[^1] som du råder oss att undvika?
 
-**Svar:** All lovprisan tillhör Allāh. Shaykh Muhammad ibn ʿUthaymīn har sagt att de fel som begås på vägen från Arafat[^2] till Muzdalifah[^1] inkluderar följande:
+**Svar:** All lovprisan tillhör Allāh. Shaykh Muḥammad ibn ʿUthaymīn har sagt att de fel som begås på vägen från Arafat[^2] till Muzdalifah[^1] inkluderar följande:
 
 1. När pilgrimerna beger sig från Arafat[^2] till Muzdalifah[^1] knuffar och tränger sig vissa, och andra har för bråttom. Detta leder ibland till trafikolyckor. Profeten – över honom vare Allāhs frid och välsignelser – lämnade Arafat[^2] på ett lugnt och värdigt sätt. Han höll sin honkamels al-Qaswa's tygel stramt så att hennes huvud rörde sadeln [för att hålla henne under perfekt kontroll] och han gestikulerade med sin hand till folket att de skulle sakta ned. När han fann ett tomt utrymme framför sig skyndade han sig och när han gick över en sanddyn släppte han sin kamels tygel tills hon klättrade upp. Han lade märke till vad som inträffade under resan, men om det finns ett val mellan att skynda sig eller att ta god tid på sig, då är det att föredra att ta sin tid.
 2. Somliga stannar innan de når Muzdalifah[^1], speciellt de som går då de blir trötta. De stannar där tills de har bett gryningsbönen[^3] och sedan beger de sig till Mina. Den som gör så har inte lyckats att spendera natten i Muzdalifah[^1] och detta är något mycket allvarligt. Några lärde anser att vistelsen under natten är en nödvändig del av pilgrimsfärden. Majoriteten anser att det är obligatoriskt och andra anser att det är *sunnah[^4]*. Den korrekta åsikten är att det är en av de obligatoriska plikterna under pilgrimsfärden. En pilgrim måste övernatta i Muzdalifah[^1] och inte ge sig av förrän tiden är inne då får hon ge sig av. Detta kommer vi att se nedan, om Allāh vill.

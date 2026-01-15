@@ -13,7 +13,7 @@ description: 'Fråga: När imamen eller en församlingsmedlem kommer till moské
 
 **Svar:** All lovprisan tillhör Allāh. Förhåller det sig på så vis som du beskriver är det föreskrivet att de ber hälsningsbönen till moskén[^1] innan de sätter sig ned när der kommer till moskén. Imamen kan be om att *iqāmah[^4]* ska göras för gryningsbönen[^3], efter vilken det inte finns något behov av hälsningsbönen till moskén[^1]. Att be den obligatoriska bönen är tillräckligt och det innebär att det inte längre finns något behov av att göra hälsningsbönen till moskén[^1]. Församlingsmedlemmen kan även föregå hälsningsbönen till moskén[^1] om denne kommer till moskén när iqāmah[^4] har gjorts.
 
-Och Allāh är källan till all styrka. Må Allāh välsigna vår profet Muhammad, hans familj och följeslagare.
+Och Allāh är källan till all styrka. Må Allāh välsigna vår profet Muḥammad, hans familj och följeslagare.
 
 [^1]: Tahiyyatul-Msjid.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

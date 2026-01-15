@@ -1,6 +1,6 @@
 ---
 title: Säljer varor till skiftande priser
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: Fatāwa li’l-Tujjār wa Rijāl al-A’māl, s. 42
 categories: – Blandat – Ekonomi
 original_id: 1704

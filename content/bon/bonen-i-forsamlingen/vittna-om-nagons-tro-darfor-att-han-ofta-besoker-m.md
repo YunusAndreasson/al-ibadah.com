@@ -1,6 +1,6 @@
 ---
 title: Vittna om någons tro därför att han ofta besöker moskén
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: Fatāwa Arkān al-Islām – sida 34, fatwa 11
 categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 588

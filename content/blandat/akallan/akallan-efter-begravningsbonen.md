@@ -1,7 +1,7 @@
 ---
 title: Åkallan efter begravningsbönen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 67 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Blandat – Åkallan
@@ -21,7 +21,7 @@ Att åkalla när man besöker den avlidnes grav har också bekräftats. Allāhs 
 
 Åkallan efter begravningsbönen har dock inte bekräftats från profeten – över honom vare Allāhs frid och välsignelser. Det kommer varken från hans eller hans följeslagares *sunnah[^2]*. Hade han eller följeslagarna gjort det när den avlidnes grav besöks och när denne har begravts, då hade det rapporterats på samma sätt som åkallan[^1] i bönen har rapporterats,. Därför är det en innovation att tillåta åkallan[^1] för den avlidne, eller någon annan, när begravningsbönen är över. Med anledning av följande *hadīth[^4]* är det inte passande för en muslim att göra det: ”*Ni måste hålla er till min *sunnah[^2]* och de rätt vägledda kalifernas *sunnah[^2]* efter mig. Och undvika det som är nypåfunnet...*” [Abū Dawūd 4607] De som har sammanställt *Sunan* har återgivit denna *hadīth[^4]* från al-'Irbadh bin Sariyah.
 
-Må Allāh sända frid och välsignelser över profeten Muhammad, hans familj och hans följeslagare.
+Må Allāh sända frid och välsignelser över profeten Muḥammad, hans familj och hans följeslagare.
 
 [^1]: Du´ā
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

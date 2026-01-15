@@ -1,7 +1,7 @@
 ---
 title: Plockade bort lite hår i ansiktet innan hon utformade avsikten för ihrām
 author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 136 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Förbjudna saker under ihrām
 original_id: 770

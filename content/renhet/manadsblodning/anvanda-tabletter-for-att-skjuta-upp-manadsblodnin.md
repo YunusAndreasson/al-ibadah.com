@@ -1,7 +1,7 @@
 ---
 title: Använda tabletter för att skjuta upp månadsblödningen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 115 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 1449

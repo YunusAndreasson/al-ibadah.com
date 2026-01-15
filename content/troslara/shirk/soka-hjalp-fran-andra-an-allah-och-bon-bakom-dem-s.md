@@ -1,7 +1,7 @@
 ---
 title: Söka hjälp från andra än Allāh och bön bakom dem som gör det
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 163 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Shirk [Att sätta något vid Allāhs sida]
 original_id: 79
@@ -22,7 +22,7 @@ Har han inte möjlighet att göra så bör han hålla sig isolerad från dessa [
 
 > ”Folket brukade fråga Allāhs sändebud om gott, men jag frågade honom om ont i rädsla för att utsättas för det. Jag sade: 'Allāhs sändebud! Vi var okunniga och onda tills Allāhs gav oss Hans godhet [islam]. Så säg mig, kommer det att finnas något ont efter detta goda?' Han svarade: 'Ja.' Jag frågade: 'Och kommer det att finnas något gott efter detta onda?' Han svarade: 'Ja, och i det finns det *dakhan*.' Ja frågade: 'Och vad är *dakhan*?' Han svarade: 'Ett folk som kommer att praktisera [min] *sunnah[^3]* [men] som inte tillhör min *sunnah[^3]* och som kommer att vägleda folk med annat än min vägledning. Du kommer att känna igen dem och avvisa dem.' Jag frågade: 'Och kommer det att finnas något ont efter detta goda?' Han svarade: 'Ja, Kallare vid portarna till Helveteselden; den som svarar dem kommer att kastas däri av dem.' Jag sade: 'Allāhs sändebud! Kan du beskriva dem för oss?' Han svarade: 'Ja, de tillhör vår ras och talar vårt språk.' Jag sade: 'Allāhs sändebud! Vad beordrar du mig att göra om jag möter dem?' Han svarade: 'Håll dig fast vid muslimernas samfund och deras ledare.' Jag sade: 'Och om det varken finns ett samhälle eller en ledare?' Han svarade: 'Undvik då dessa grupper, även om du måste tugga på ett träds rötter och även om döden kommer till dig med anledning av detta.'” [*al-Bukhārī* 7084]
 
-Må Allāhs frid och välsignelser vara över vår profet Muhammad, hans familj och följeslagare.
+Må Allāhs frid och välsignelser vara över vår profet Muḥammad, hans familj och följeslagare.
 
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^2]: Mushrik.

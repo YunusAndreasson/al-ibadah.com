@@ -11,7 +11,7 @@ description: '"Om han talade i telefon och bad någon om någonting och han beh�
 
 Abu ʿAbdullāh Shaykh ʿAbdul-ʿAzīz ibn ʿAbdullāh ibn ʿAbdur-Rahmān Aal-Bāz föddes i dhul-hijjah[^1] år 1330 AH i staden Riyadh.
 
-Han memorerade Koranen redan vid tidig ålder och inhämtade kunskap ifrån många stora lärde. Några av hans lärare var Shaykh Muhammad ibn ʿAbdul-Lateef Aal-Shaykh, Shaykh Sālih ibn ʿAbdul-ʿAzīz Aal-Shaykh samt Shaykh Muhammad ibn Ibrāhīm Aal-Shaykh, som under tiden var mufti i Saudiarabien. Shaykh Ibn Baz slog följe med den sistnämnde under tio år och lärde sig mycket från honom, samtidigt som han fick sin religiösa skolning ifrån Muhammad ibn ʿAbdul-Wahhāb.
+Han memorerade Koranen redan vid tidig ålder och inhämtade kunskap ifrån många stora lärde. Några av hans lärare var Shaykh Muḥammad ibn ʿAbdul-Lateef Aal-Shaykh, Shaykh Sālih ibn ʿAbdul-ʿAzīz Aal-Shaykh samt Shaykh Muḥammad ibn Ibrāhīm Aal-Shaykh, som under tiden var mufti i Saudiarabien. Shaykh Ibn Baz slog följe med den sistnämnde under tio år och lärde sig mycket från honom, samtidigt som han fick sin religiösa skolning ifrån Muḥammad ibn ʿAbdul-Wahhāb.
 
 Efter utbildningen utsågs han till domare, och jobbade som det under 14 år. Senare kom han till utbildningsfakulteten i Riyadh. Där han stannade under nio år. Efter tiden i Riyadh utsågs han kort till vice kansler för att sedan bli verkställande vid det islamiska universitetet i Medina.
 

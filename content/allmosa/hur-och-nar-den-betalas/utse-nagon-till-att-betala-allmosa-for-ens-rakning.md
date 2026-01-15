@@ -1,7 +1,7 @@
 ---
 title: Utse någon till att betala allmosa för ens räkning
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 200 s. ISBN saknas'
 categories: – Allmosa (Zakāh) – Hur och när den betalas
 original_id: 648

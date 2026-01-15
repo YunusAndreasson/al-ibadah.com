@@ -1,7 +1,7 @@
 ---
 title: Vad man säger när man hör böneutroparen
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 134 s. ISBN saknas'
 categories: – Bön (Salāh) – Böneutrop
 original_id: 1467
@@ -22,7 +22,7 @@ Och han har sagt:
 
 al-Bukhārī har i sin *Sahīh* återgivit från Jabir bin ʿAbdullāh att han berättade att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Den som hörde kallet till bönen och då sade: 'Allāh! Herre över denna perfekta åkallan[^2] och den etablerade bönen, bevilja Muhammad medling och en ärbar plats och höj honom till en prisvärd position som Du har lovat honom' – kommer att tillåtas min medling på Återuppståndelsens Dag. [*al-Bukhārī* 614 och 4719]
+> ”Den som hörde kallet till bönen och då sade: 'Allāh! Herre över denna perfekta åkallan[^2] och den etablerade bönen, bevilja Muḥammad medling och en ärbar plats och höj honom till en prisvärd position som Du har lovat honom' – kommer att tillåtas min medling på Återuppståndelsens Dag. [*al-Bukhārī* 614 och 4719]
 
 al-Bayhaqi har med en god kedja av återberättare från Jabir bin ʿAbdullāh efter ”... *som du har lovat honom”* lagt till ”... *sannerligen, Du bryter inte löften*.” [*al-Bayhaqi Sunan* 1972]
 

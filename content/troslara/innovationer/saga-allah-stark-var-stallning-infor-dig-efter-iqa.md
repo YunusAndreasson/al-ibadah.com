@@ -1,6 +1,6 @@
 ---
 title: 'Säga: ”Allāh, stärk vår ställning inför dig” efter iqāmah'
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: al-Bid'u wal-Muhdathāt wa mā lā Asla lahu – sida 200
 categories: – Troslära (ʿAqīdah) – Innovationer
 original_id: 560

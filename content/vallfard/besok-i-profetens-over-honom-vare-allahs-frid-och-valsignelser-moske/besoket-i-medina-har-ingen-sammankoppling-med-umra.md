@@ -1,7 +1,7 @@
 ---
 title: Besöket i Medina har ingen sammankoppling med ‘umrah
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 311 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Besök i profetens – över honom vare Allāhs frid och välsignelser – moske
 original_id: 876

@@ -1,7 +1,7 @@
 ---
 title: Kasta sten på alla pelarna under en dag
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 251 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Stenkastningen
 original_id: 1359

@@ -1,7 +1,7 @@
 ---
 title: Göra tarāwīh-bönen lång
 author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 319 s. ISBN saknas'
 categories: – Fasta (Sawm) – Nattbön (tarawih)
 original_id: 469

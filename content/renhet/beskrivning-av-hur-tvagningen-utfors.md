@@ -1,6 +1,6 @@
 ---
 title: Beskrivning av hur tvagningen utförs
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 326 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
@@ -23,7 +23,7 @@ Detta innebär att man tvättar ansiktet en gång, vilket inkluderar att man sk�
 
 Det andra sättet att göra tvagningen[^1] på är det som är att föredra. Vi ska nu med Allāhs hjälp beskriva hur det går till. Enligt denna metod säger man först Bismillah[^2] när man börjar sin tvagning[^1]. Man tvättar händerna tre gånger, sköljer munnen och drar upp vatten i näsan tre gånger med tre händer fulla med vatten. Sedan tvättar man ansiktet tre gånger och från händerna upp till armbågarna tre gånger [börjar med den högra och sedan den vänstra]. Sedan stryker man över huvudet en gång efter att ha blött händerna. Man drar dem framifrån och bakåt och sedan bakifrån och fram igen. Sedan stryker man öronen genom att sätta pekfingret i varje öra och stryka utanför dem med tummarna. Sedan tvättar man fötterna upp till anklarna tre gånger och man börjar med den högra och sedan den vänstra. När man är klar säger man:
 
-> ”*Ashhadu anla ilaha illallahu wahdahu la sharīka lahu, wa ashhadu anna Muhammadan 'abduhu wa rasuluhu. Allāhu-maj'alnī minat-tawwabīna waj'alnī minal-mutahahhirīn*.”
+> ”*Ashhadu anla ilaha illallahu wahdahu la sharīka lahu, wa ashhadu anna Muḥammadan 'abduhu wa rasuluhu. Allāhu-maj'alnī minat-tawwabīna waj'alnī minal-mutahahhirīn*.”
 
 Gör man det kommer Paradisets åtta portar att öppnas och man får träda in genom vilken man vill. Den *hadīth[^3]* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger detta till ʿUmar har styrkts. [*Muslim* 234]
 

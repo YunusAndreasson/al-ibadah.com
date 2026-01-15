@@ -1,7 +1,7 @@
 ---
 title: Profeten hör inte när någon ber för honom
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 279 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Sändebuden
@@ -14,7 +14,7 @@ description: 'Fråga: Hör profeten – över honom vare Allāhs frid och välsi
 
 **Svar:** Generellt sett kan de döda inte höra något från Adams söner som lever. De kan heller inte höra deras åkallan[^2]. Allāh den Upphöjde säger:
 
-> ”[Muhammad!] Gud förmår den Han vill att lyssna, men du kan inte förmå dem att lyssna som är [andligen döda och] begravda.” [Koranen 35:22]
+> ”[Muḥammad!] Gud förmår den Han vill att lyssna, men du kan inte förmå dem att lyssna som är [andligen döda och] begravda.” [Koranen 35:22]
 
 Varken Allāhs skrift eller profetens – över honom vare Allāhs frid och välsignelser – autentiska *sunnah[^3]* bevisar att han hör varje åkallan[^2] som människor gör och att detta skulle vara något unikt för honom. Det som vi känner till, och som han har berättat, är att de böner och fridshälsningar som människor sänder över honom också når honom. Detta sker oavsett om den som gör det befinner sig nära eller långt bort från hans grav. Detta bevisas i en återberättelse från ʿAlī bin al-Husain bin ʿAlī i vilken det berättas att han såg en man gå till en lucka vid profetens – över honom vare Allāhs frid och välsignelser – grav, träda in i den och åkalla. Han hindrade honom från att göra så med orden:
 

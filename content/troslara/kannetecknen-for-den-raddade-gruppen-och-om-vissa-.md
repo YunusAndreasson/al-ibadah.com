@@ -1,6 +1,6 @@
 ---
 title: Kännetecknen för den räddade gruppen och om vissa brister tar en ut från den
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 39 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
@@ -31,9 +31,9 @@ Bristfälligheter i karaktär eller beteende tar en inte ur den räddade gruppen
 
 Vi kan tänkas kräva en mer detaljerad förklaring när det gäller karaktär. En av de viktigaste aspekterna när det gäller god karaktär är ju en enad röst och en enighet om den sanning som Allāh den Upphöjde har påbjudit oss när Han sagt:
 
-> ”Han har föreskrivit för er samma [regel för] tron som Han anbefallde Noa – detta har Vi uppenbarat för dig [Muhammad] – och som Vi anbefallde Abraham och Moses och Jesus, nämligen att hålla fast vid [den sanna] trons [principer] och att aldrig tillåta söndring.” [Koranen 42:13]
+> ”Han har föreskrivit för er samma [regel för] tron som Han anbefallde Noa – detta har Vi uppenbarat för dig [Muḥammad] – och som Vi anbefallde Abraham och Moses och Jesus, nämligen att hålla fast vid [den sanna] trons [principer] och att aldrig tillåta söndring.” [Koranen 42:13]
 
-Han har även informerat oss om att Muhammad är oskyldig till att människor splittrar sig i religionsfrågor och delar sig i grupper. Allāh den Allsmäktige säger:
+Han har även informerat oss om att Muḥammad är oskyldig till att människor splittrar sig i religionsfrågor och delar sig i grupper. Allāh den Allsmäktige säger:
 
 > ”Du har inte ansvar för dem som ger upphov till splittring i sin religion och bildar sekter. Ingen utom Gud ska döma dem, och då ska Han låta dem veta vad deras handlingar [var värda].” [Koranen 6:159]
 

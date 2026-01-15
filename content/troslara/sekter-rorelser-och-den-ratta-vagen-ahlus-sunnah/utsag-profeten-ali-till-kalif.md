@@ -1,7 +1,7 @@
 ---
 title: Utsåg profeten ’Ali till kalif?
 author: Ibn ʿAbdullah Ibn Bāz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 78 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Sekter, rörelser och den rätta vägen – ahlus-sunnah
 original_id: 56
@@ -26,7 +26,7 @@ Hur kan någon då våga fabricera en lögn om Allāhs sändebud – över honom
 
 Därför får inte någon person eller sekt – oavsett om det är shiiterna eller någon annan – påstå att ’Ali rekommenderats som ansvarig för kalifatet samt att de som föregick honom var falska. Det är heller inte tillåtet att påstå att följeslagarna berövade ’Ali hans rättigheter. Ett sådant uttalande är falskt och utgör onda samt sjuka tankar om Allāhs sändebuds följeslagare – inklusive ’Ali.
 
-Allāh har [...] skyddat Muhammads samfund från att enas om falskhet. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har ett antal gånger sagt: ”*En grupp ur mitt samfund kommer segerrika att hålla sig till sanningen*.” [*at-Tirmithi* 2192 och *Ibn Mājah* 6]
+Allāh har [...] skyddat Muḥammads samfund från att enas om falskhet. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har ett antal gånger sagt: ”*En grupp ur mitt samfund kommer segerrika att hålla sig till sanningen*.” [*at-Tirmithi* 2192 och *Ibn Mājah* 6]
 
 Det är omöjligt att den bästa och den mest hedervärda generationen i detta samfund skulle vara eniga om något falskt; vilket i detta fall är att Abū Bakrs, ’Umars och ‘Uthmāns kalifat var ogiltiga. Ingen som tror på Allāh och Återuppståndelsens Dag skulle göra ett sådant påstående och ej heller skulle någon med minsta lilla förståelse av islam göra det.
 

@@ -1,7 +1,7 @@
 ---
 title: Stå upp för att salutera en död ledare
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 64 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
 original_id: 49
@@ -22,7 +22,7 @@ Det är välkänt att islam erkänner muslimers rättigheter när det gäller å
 
 Att stå i tystnad och salutera martyrer eller högt uppsatta personer motsäger sig islams grundläggande läror.
 
-Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muhammad samt göra honom, hans hushåll och följeslagare säkra från ont.
+Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muḥammad samt göra honom, hans hushåll och följeslagare säkra från ont.
 
 [^1]: Du´ā
 

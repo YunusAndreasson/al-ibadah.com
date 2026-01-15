@@ -1,6 +1,6 @@
 ---
 title: Moskébesök och om det bevisar en mans tro
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 53 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Bönen i församlingen

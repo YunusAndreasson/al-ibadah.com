@@ -1,6 +1,6 @@
 ---
 title: Kräkningar ogiltigör inte tvagningen
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: Majmū’ Fatāwa Ibn ‘Uthaymīn, 11/198
 categories: – Renhet (Tahārah) – Blandade utlåtanden
 original_id: 533

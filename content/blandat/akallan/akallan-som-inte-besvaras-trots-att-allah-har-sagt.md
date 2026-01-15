@@ -1,7 +1,7 @@
 ---
 title: 'Åkallan som inte besvaras trots att Allāh har sagt: ”Er Herre säger: ’Be till
  Mig, så ska Jag besvara er [bön].”'
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 81 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
@@ -14,7 +14,7 @@ description: 'Fråga: Hur kan man åkalla och inte bli besvarad när Allāh säg
 
 **Fråga:** Hur kan man åkalla och inte bli besvarad när Allāh säger: ”Er Herre säger: ’Be till Mig, så ska Jag besvara er [bön].” [Koranen 40:60]?
 
-**Svar:** All lovprisan och tacksamhet tillhör Allāh – världarnas Herre – som jag ber ska sända frid och välsignelser över profeten – över honom vare Allāhs frid och välsignelser – Muhammad, hans familj och hans följeslagare. Jag ber Allāh den Upphöjde att han ger mig och alla bröder framgång med att uppnå en korrekt tro, [både] i tal och i handling.
+**Svar:** All lovprisan och tacksamhet tillhör Allāh – världarnas Herre – som jag ber ska sända frid och välsignelser över profeten – över honom vare Allāhs frid och välsignelser – Muḥammad, hans familj och hans följeslagare. Jag ber Allāh den Upphöjde att han ger mig och alla bröder framgång med att uppnå en korrekt tro, [både] i tal och i handling.
 
 Allāh den Allsmäktige säger:
 

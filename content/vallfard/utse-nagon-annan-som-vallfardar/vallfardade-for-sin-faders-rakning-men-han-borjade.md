@@ -2,7 +2,7 @@
 title: Vallfärdade för sin faders räkning men han började inte resan från faderns
  födelseort
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 318 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Utse någon annan som vallfärdar
 original_id: 878

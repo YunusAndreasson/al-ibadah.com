@@ -1,7 +1,7 @@
 ---
 title: ”När vård ökar så minskar dödstalen”
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 85 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Allāhs förutbestämmelse
@@ -42,7 +42,7 @@ Allāh har redan förordnat principen om orsak och verkan för Hans skapelser, g
 
 Dessa och liknande verser nämner fysiska orsaker tillsammans med fysisk och immateriell verkan som Allāh har bundit samman; den förstnämnda har orsakat den sistnämnda. Detta tillhör Allāhs skapelse, genom verkan av Hans dekret och förutbestämmelse. Här resulteras immateriella ting från dem, även om Han kan skapa sådana resultat utan orsak. Det är Hans sätt – att skapa det senare från det förra. Visdomen i detta känner enbart Han till. Han den Upphöjde säger:
 
-> ”[Detta är] en Skrift, var budskap har avfattats på ett fast och klart språk och förtydligats på punkt efter punkt av en allvis [Herre], väl underrättad om allt; [den lär er] att inte dyrka någon utom Gud. [Säg, Muhammad:] ”Jag är [sänd] av Honom för att varna [er] och överbringa ett glatt budskap om hopp, där [ni förmanas] att be er Herre om förlåtelse [för era synder] och att i ånger vända åter till Honom. Då ska Han till en tidpunkt [som Han har] fastställt låta er njuta allt det goda [som ryms i detta liv], och [i det kommande livet] ska Han, efter vars och ens förtjänst skänka alla som gör det goda och det rätta Sin nåds gåvor. Men om de vänder ryggen till, [säg]: ”Jag bävar för det straff som väntar på er på [Räkenskapens ] dag.” [Koranen 11:1 – 3]
+> ”[Detta är] en Skrift, var budskap har avfattats på ett fast och klart språk och förtydligats på punkt efter punkt av en allvis [Herre], väl underrättad om allt; [den lär er] att inte dyrka någon utom Gud. [Säg, Muḥammad:] ”Jag är [sänd] av Honom för att varna [er] och överbringa ett glatt budskap om hopp, där [ni förmanas] att be er Herre om förlåtelse [för era synder] och att i ånger vända åter till Honom. Då ska Han till en tidpunkt [som Han har] fastställt låta er njuta allt det goda [som ryms i detta liv], och [i det kommande livet] ska Han, efter vars och ens förtjänst skänka alla som gör det goda och det rätta Sin nåds gåvor. Men om de vänder ryggen till, [säg]: ”Jag bävar för det straff som väntar på er på [Räkenskapens ] dag.” [Koranen 11:1 – 3]
 
 Hans profet Hud predikade för sitt folk:
 
@@ -60,7 +60,7 @@ Allāh den Upphöjde nämner även ett antal hycklare som om sina bröder som av
 
 > ”Om de hade blivit kvar hos oss, skulle de inte ha dött eller dödats.” [Koranen 3:156]
 
-Så Han den Upphöjde kommenderade Sin Sändebud Muhammad att säga till dem:
+Så Han den Upphöjde kommenderade Sin Sändebud Muḥammad att säga till dem:
 
 > ”Säg: ”Även om ni hade stannat hemma, skulle de vilkas död stod skriven ha begett sig till den plats där de skulle falla.” [Koranen 3:154]
 
@@ -68,7 +68,7 @@ Så Han har gjort det klart att det är garanterat att livet kommer att tagas oc
 
 Profeten – över honom vare Allāhs frid och välsignelser – har också sagt:
 
-> ”Den som vill att hans levebröd ska utökas för honom eller att hans ålder ska utökas, då bör han bevara skötet [familjeband]*.” [al-Bukhārī 5985, Muslim* 2557 *och* *Abū Dawūd* 1693]
+> "*Den som vill att hans levebröd ska utökas för honom eller att hans ålder ska utökas, då bör han bevara skötet [familjeband]*." [*al-Bukhārī* 5985, *Muslim* 2557 och *Abū Dawūd* 1693]
 
 Därmed säger vi: Medicinsk vård är en orsak till fysisk hälsa och behandling. Detta är precis vad frågeställaren säger, men allt sker genom Allāhs tillstånd och inom Hans vetskap. Han har gjort vården till en orsak som producerar en verkan, och Han har organiserat dess verkan genom Hans kommendering och dekrets verkan enligt Hans vetskap.
 

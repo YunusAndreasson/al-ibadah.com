@@ -1,7 +1,7 @@
 ---
 title: Måste fasta två på varandra efterföljande månader men bryter fastan därunder
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 333 s. ISBN saknas'
 categories: – Fasta (Sawm) – Blandade utlåtanden
 original_id: 481

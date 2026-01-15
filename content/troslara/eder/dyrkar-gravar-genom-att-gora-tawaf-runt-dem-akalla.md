@@ -1,7 +1,7 @@
 ---
 title: Dyrkar gravar genom att göra tawāf runt dem, åkallar de som är begravda i dem,
  svära eder vid dem och liknande
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 244 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
@@ -39,7 +39,7 @@ Jag råder även dem att inte följa någon annan i religiösa frågor än Allā
 > 
 > 
 > 
-> ”Säg [Muhammad]: ’Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
+> ”Säg [Muḥammad]: ’Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
 
 Muslimer måste noga studera dem som påstår sig vara *awliyā'* med Koranen och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah[^4]* som måttstock. Om det som sker är enligt Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah[^4]* finns det hopp om att denne är en av Allāhs *awliyā'*. Men om det [som sker] motsäger sig Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah[^4]* är denne inte en av Allāhs *awliyā'*. I Sin skrift har Allāh nämnt en rättvis metod som *awliyā'* kan kännas igen genom när Han säger:
 

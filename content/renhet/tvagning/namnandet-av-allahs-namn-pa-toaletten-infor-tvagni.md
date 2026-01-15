@@ -1,7 +1,7 @@
 ---
 title: Nämnandet av Allāhs namn på toaletten inför tvagningen görs i hjärtat
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 74 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Tvagning
 original_id: 161

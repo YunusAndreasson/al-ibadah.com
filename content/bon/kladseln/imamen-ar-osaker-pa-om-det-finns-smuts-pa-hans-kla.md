@@ -1,7 +1,7 @@
 ---
 title: Imamen är osäker på om det finns smuts på hans klädesplagg
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 161 s. ISBN saknas'
 categories: – Bön (Salāh) – Klädseln
 original_id: 193

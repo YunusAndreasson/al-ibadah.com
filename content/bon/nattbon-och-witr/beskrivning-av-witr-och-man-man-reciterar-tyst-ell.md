@@ -1,7 +1,7 @@
 ---
 title: Beskrivning av witr och om man reciterar tyst eller högt
 author: Ibn ʿAbdur-Rahman al-Jibrin
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 302 s. ISBN saknas'
 categories: – Bön (Salāh) – Nattbön och witr
 original_id: 1512

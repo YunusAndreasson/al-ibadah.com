@@ -1,19 +1,19 @@
 ---
 title: Jesus kommer att stiga ned vid tidens ände
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 304 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Domedagen och tecknen inför den
 original_id: 130
 description: 'Fråga: Om Jesus är vid liv, kommer han då att stiga ned vid tidens
- ände och styra och då följa Muhammads religion? Vad finns det för bevis för detta?
+ ände och styra och då följa Muḥammads religion? Vad finns det för bevis för detta?
  Hur de som påstår att Jesus inte kommer att åt...'
 ---
 
-**Fråga:** Om Jesus är vid liv, kommer han då att stiga ned vid tidens ände och styra och då följa Muhammads religion? Vad finns det för bevis för detta? Hur de som påstår att Jesus inte kommer att återvända vid tidens och styra över folket besvaras?
+**Fråga:** Om Jesus är vid liv, kommer han då att stiga ned vid tidens ände och styra och då följa Muḥammads religion? Vad finns det för bevis för detta? Hur de som påstår att Jesus inte kommer att återvända vid tidens och styra över folket besvaras?
 
-**Svar:** Ja, Allāhs profet Jesus, son till Maria, kommer att stiga ned vid tidens ände och han kommer att styra över människorna med rättvisa enligt profeten Muhammads lag. Han kommer att förstöra korset, döda grisarna och avskaffa skyddskatten – och han kommer inte att acceptera någon annan religion än islam. Skriftens folk – judarna och de kristna – kommer att tro på honom före hans död, när han stiger ned vid tidens ände. Allāh den Upphöjde säger:
+**Svar:** Ja, Allāhs profet Jesus, son till Maria, kommer att stiga ned vid tidens ände och han kommer att styra över människorna med rättvisa enligt profeten Muḥammads lag. Han kommer att förstöra korset, döda grisarna och avskaffa skyddskatten – och han kommer inte att acceptera någon annan religion än islam. Skriftens folk – judarna och de kristna – kommer att tro på honom före hans död, när han stiger ned vid tidens ände. Allāh den Upphöjde säger:
 
 > ”Och bland efterföljarna av äldre tiders uppenbarelser finns ingen som inte före sin död tror på honom [som Guds Profet] och han ska vittna mot dem på Uppståndelsens dag.” [Koranen 4:159]
 
@@ -41,11 +41,11 @@ Jabir bin ʿAbdullāh har berättat att han hörde profeten – över honom vare
 
 > ”En grupp från mitt folk kommer att fortsätta att strida för sanningen till Återuppståndelsens Dag.” [*Muslim* 156] Han sade: ”Då kommer Jesus, Marias son, att stiga ned och deras ledare kommer att säga: 'Kom, led oss i bön.' Han kommer då att säga: 'Nej, några av er styr över de andra och detta är en nåd från Allāh till detta samfund.” [*Muslim* 156]
 
-Dessa *ahādīth[^1]* visar att han kommer att stiga ned vid tidens ände och att han kommer att styra enligt profeten Muhammads lag.
+Dessa *ahādīth[^1]* visar att han kommer att stiga ned vid tidens ände och att han kommer att styra enligt profeten Muḥammads lag.
 
 /…/
 
-Det finns ingen motsägelse mellan hans nedstigande och att vår profet Muhammad är den siste profeten. Jesus kommer ju inte att ha med sig någon ny lag och domen tillhör Allāh, från början till slut. Allāh gör vad Han vill och Han dömer som Han vill och det går inte att överklaga Hans dom. Han är den Allsmäktige, den Vise.
+Det finns ingen motsägelse mellan hans nedstigande och att vår profet Muḥammad är den siste profeten. Jesus kommer ju inte att ha med sig någon ny lag och domen tillhör Allāh, från början till slut. Allāh gör vad Han vill och Han dömer som Han vill och det går inte att överklaga Hans dom. Han är den Allsmäktige, den Vise.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

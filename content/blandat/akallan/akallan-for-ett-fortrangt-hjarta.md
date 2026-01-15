@@ -1,7 +1,7 @@
 ---
 title: Åkallan för ett förträngt hjärta
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 297 s. ISBN saknas'
 categories: – Blandat – Åkallan
 original_id: 699

@@ -1,7 +1,7 @@
 ---
 title: Kvinna utan mahram är inte skyldig att vallfärda
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 44 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Vallfärd (Hajj) – Möjlighet att vallfärda
@@ -23,7 +23,7 @@ En anledning finns även i vad al-Bukhārī och Muslim har återgivit från Ibn 
 
 Denna åsikt hade al-Hasan, an-Nakha'i, Ahmad, Ishaq, Ibn al-Munthir och ashabur-ra'y. Detta är den korrekta åsikten då den är enligt den generella innebörden av de *ahādīth[^2]* som förbjuder kvinnor att resa utan maken eller en *mahram[^1]*. Mālik, ash-Shafi'i och al-Awza'i motsade denna åsikt. De angav dock ett villkor som de inte hade bevis för. Ibn al-Munthir sade: ”*De övergav åsikten som är enligt hadithens uppenbara mening och var och en av dem uppgav ett villkor som han inte hade något bevis för*.”
 
-Må Allāh sända frid och välsignelser över vår profet Muhammad, hans familj och hans följeslagare.
+Må Allāh sända frid och välsignelser över vår profet Muḥammad, hans familj och hans följeslagare.
 
 Mer om islams kvinnosyn kan du läsa på islam.se.
 

@@ -1,7 +1,7 @@
 ---
 title: Bad efter att ha sovit men utan att ha tvagat sig
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 52 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Tvagning
 original_id: 1423
@@ -18,7 +18,7 @@ Abū Dawūd har återgivit att Anas har sagt: ”*profetens – över honom vare
 
 Vi kan då säga att lätt sömn inte gör tvagning[^2] ogiltig. Denna åsikt stärks även av en *hadīth[^4]* från Safwan bin 'Asal, i vilken han berättar: ”*Allāhs sändebud beordrade oss att inte ta av våra lädersockar under tre dagar och nätter när vi reste, utom om vi hade den stora orenheten [al-Janabah], med anledning av tarmtömning eller urinering*.” [*at-Tirmithi* 96 och *an-Nasā’i* 127]
 
-Genom Allāh uppnås framgång. Må frid och välsignelser vara över Muhammad, hans familj och hans följeslagare.
+Genom Allāh uppnås framgång. Må frid och välsignelser vara över Muḥammad, hans familj och hans följeslagare.
 
 [^1]: Fajr
 [^2]: Wudû´

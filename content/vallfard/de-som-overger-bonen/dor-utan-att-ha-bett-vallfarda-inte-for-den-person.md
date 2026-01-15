@@ -1,7 +1,7 @@
 ---
 title: Dör utan att ha bett – vallfärda inte för den personen
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 53 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – De som överger bönen
 original_id: 1322

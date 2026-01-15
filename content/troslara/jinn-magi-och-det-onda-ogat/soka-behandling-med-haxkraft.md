@@ -1,7 +1,7 @@
 ---
 title: Söka behandling med häxkraft
 author: Ibn ʿAbdullah Ibn Bāz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 46 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Jinn, magi och det onda ögat
 original_id: 38
@@ -20,7 +20,7 @@ I flera autentiska *ahādīth[^3]* berättas att profeten – över honom vare A
 
 Han har även sagt:
 
-> ”Den som besöker en teckentydare eller siare och tror på honom, har sannerligen förnekat vad som har uppenbarats för Muhammad*.” [Abū Dawūd 3904,* *at-Tirmithi* 135, *Ibn Mājah* 639 och *Ahmad* 2:408, 476]
+> "*Den som besöker en teckentydare eller siare och tror på honom, har sannerligen förnekat vad som har uppenbarats för Muḥammad*." [*Abū Dawūd* 3904, *at-Tirmithi* 135, *Ibn Mājah* 639 och *Ahmad* 2:408, 476]
 
 Den som påstår sig känna till det som är dolt för människor[^2] genom geomanci [När man försöker göra spådomar genom att dra streck på marken] eller genom att be en patient om hans, moderns eller släktingars namn är en siare eller en trollkarl. Profeten – över honom vare Allāhs frid och välsignelser – förbjöd att man tar råd från dem och han förbjöd även att man tror på dem.
 

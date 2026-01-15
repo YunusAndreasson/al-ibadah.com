@@ -1,7 +1,7 @@
 ---
 title: Besöker en byggnad jämte moskén under månadsblödningen
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 115 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 1450

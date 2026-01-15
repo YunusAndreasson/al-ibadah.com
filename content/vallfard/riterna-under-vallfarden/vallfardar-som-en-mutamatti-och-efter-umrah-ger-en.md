@@ -2,7 +2,7 @@
 title: Vallfärdar som en mutamatti' och efter ‘umrah ger en doktor honom rådet att
  inte fortsätta med vallfärden
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 101 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Riterna under vallfärden
 original_id: 746

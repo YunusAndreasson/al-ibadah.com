@@ -1,7 +1,7 @@
 ---
 title: Ta igen en missad witr-bön
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 315 s. ISBN saknas'
 categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 1516

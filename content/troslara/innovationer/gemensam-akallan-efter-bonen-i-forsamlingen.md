@@ -1,7 +1,7 @@
 ---
 title: Gemensam åkallan efter bönen i församlingen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 261 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Innovationer
 original_id: 1498
@@ -10,7 +10,7 @@ description: 'Fråga: I vår by finns det två församlingar. Båda påstår sig
  åkallar gemensamt på följande sätt: ” Allāh! S...'
 ---
 
-**Fråga:** I vår by finns det två församlingar. Båda påstår sig följa den rätta vägen. Vid slutet av bönen finner vi att en församling höjer händerna och åkallar[^1] gemensamt på följande sätt: ”*Allāh! Sänd välsignelser och frid över Muhammad, Din tjänare och Din Budbärare, den illitterate profeten – över honom vare Allāhs frid och välsignelser – och över hans familj, och följeslagare och sänd de bästa hälsningarna till honom*.” Det finns även en annan åkallan[^1] som de kallar al-Fatih.
+**Fråga:** I vår by finns det två församlingar. Båda påstår sig följa den rätta vägen. Vid slutet av bönen finner vi att en församling höjer händerna och åkallar[^1] gemensamt på följande sätt: ”*Allāh! Sänd välsignelser och frid över Muḥammad, Din tjänare och Din Budbärare, den illitterate profeten – över honom vare Allāhs frid och välsignelser – och över hans familj, och följeslagare och sänd de bästa hälsningarna till honom*.” Det finns även en annan åkallan[^1] som de kallar al-Fatih.
 
 Den andra församlingen vill inte göra detta när imamen har sagt *taslīm[^2]*.
 
@@ -22,7 +22,7 @@ Den lyder enligt följande:
 
 > Gemensam åkallan[^1] efter den obligatoriska bönen är inte en *sunnah[^4]* om den innebär att händerna höjs. Det spelar ingen roll om det är imamen själv, den som leds i bön eller båda två. Detta är en innovation. Detta har inte rapporterats från profeten – över honom vare Allāhs frid och välsignelser – eller hans följeslagare. Det finns inga invändningar mot att höja händerna. Vissa *ahādīth[^3]* har rapporterats om detta.
 
-Och genom Allāh uppnås framgång. Må frid vara över vår profet Muhammad, hans familj och följeslagare.
+Och genom Allāh uppnås framgång. Må frid vara över vår profet Muḥammad, hans familj och följeslagare.
 
 [^1]: Du´ā
 [^2]: Den avslutande hälsningen i bönen.

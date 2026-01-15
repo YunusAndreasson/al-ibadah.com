@@ -1,7 +1,7 @@
 ---
 title: Konversationen mellan Allāh och Jesus som kommer att hållas under Domedagen
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Domedagen och tecknen inför den
 original_id: 1676

@@ -15,7 +15,7 @@ description: 'Fråga: Varför har Allāh förbjudet pilgrimer att bära sydda kl
 
 Det finns många anledningar till att det är föreskrivet att vi undviker sydda klädesplagg under pilgrimsfärden och *‘umrah[^1]*. Till exempel ska vi påminnas om hur folk kommer att vara på Återuppståndelsens Dag. De kommer ju att återuppresas barfota samt nakna och sedan kommer de att kläs. Påminner vi oss om hur det kommer att vara på Återuppståndelsens Dag, då lär vi oss en viktig läxa. Det gör oss även ödmjuka och får oss att känna att vi är skyldiga att underkasta oss och rena oss själva från högmod. Det påminner oss om återupprättande av vänskapliga förbindelser, jämlikhet och asketism. Det påminner oss om att hålla oss borta från ett luxuöst liv som är fördömt och det får oss att känna empati för de fattiga och behövande. Det finns även andra syften bakom att utforma pilgrimsfärden på det sätt som Allāh har föreskrivit och som Hans sändebud har förklarat.
 
-Och Allāh är källan till att styrka. Må Allāh sända välsignelser och frid över vår profet Muhammad, hans familj och följeslagare.
+Och Allāh är källan till att styrka. Må Allāh sända välsignelser och frid över vår profet Muḥammad, hans familj och följeslagare.
 
 [^1]: Den lilla vallfärden.
 

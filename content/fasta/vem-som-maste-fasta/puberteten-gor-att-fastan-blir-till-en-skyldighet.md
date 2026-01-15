@@ -1,7 +1,7 @@
 ---
 title: Puberteten gör att fastan blir till en skyldighet
 author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 241 s. ISBN saknas'
 categories: – Fasta (Sawm) – Vem som måste fasta
 original_id: 399

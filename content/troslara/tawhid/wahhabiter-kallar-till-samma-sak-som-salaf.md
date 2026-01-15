@@ -1,18 +1,18 @@
 ---
 title: ”Wahhabiter” kallar till samma sak som salaf
 author: Ibn ʿAbdullah Ibn Bāz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 328 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Tawhīd [Monoteism]
 original_id: 134
-description: 'Fråga: Är historien som säger att Muhammad bin ʿAbdul-Wahhābs följeslagare
+description: 'Fråga: Är historien som säger att Muḥammad bin ʿAbdul-Wahhābs följeslagare
  band deras hästar i ar-Rawdah sann? Svar: Denna historia saknar grund, faktum
  är att den är en lögn och en vanställ...'
 ---
 
-**Fråga:** Är historien som säger att Muhammad bin ʿAbdul-Wahhābs följeslagare band deras hästar i *ar-Rawdah[^1]* sann?
+**Fråga:** Är historien som säger att Muḥammad bin ʿAbdul-Wahhābs följeslagare band deras hästar i *ar-Rawdah[^1]* sann?
 
-**Svar:** Denna historia saknar grund, faktum är att den är en lögn och en vanställning av sanningen. Det vi känner till om dem är att de spred *salaf[^2] s* kall och lärde ut sanningen om *tawhīd[^3]* när de hade erövrat Medina. Detta var samma *tawhīd[^3]* som Allāh sände Sin profet Muhammad och de andra sändebuden med. Under denna tid var *shirk[^4]* vida spritt. Folket sökte hjälp från Budbärarna, följeslagarna, *ahlul-bait* och andra rättfärdiga personer vid gravplatsen al-Baqi' [till exempel Hamza och martyrerna vid Uhud].
+**Svar:** Denna historia saknar grund, faktum är att den är en lögn och en vanställning av sanningen. Det vi känner till om dem är att de spred *salaf[^2] s* kall och lärde ut sanningen om *tawhīd[^3]* när de hade erövrat Medina. Detta var samma *tawhīd[^3]* som Allāh sände Sin profet Muḥammad och de andra sändebuden med. Under denna tid var *shirk[^4]* vida spritt. Folket sökte hjälp från Budbärarna, följeslagarna, *ahlul-bait* och andra rättfärdiga personer vid gravplatsen al-Baqi' [till exempel Hamza och martyrerna vid Uhud].
 
 Detta är vad som är känt om det, utöver att de lärde folket sann islam samt förbjöd de innovationer och de vidskepligheter som var vida spridda i Hijaz vid den tidpunkten. Den som påstår något annat – likt de som påstår att de visade förakt för profetens – över honom vare Allāhs frid och välsignelser – ädla grav och *ar-Rawdah[^1]*, eller att de saknade respekt för profeten, följeslagarna eller annat rättfärdigt folk – gör sig skyldig till lögn, förtal och vanställande av sanningen. Historieböcker vittnar om det vi berättar och de klargör dessa förtalares lögner.
 

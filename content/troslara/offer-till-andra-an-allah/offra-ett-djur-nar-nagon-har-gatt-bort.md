@@ -1,7 +1,7 @@
 ---
 title: Offra ett djur när någon har gått bort
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 33 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Offer till andra än Allāh
 original_id: 32
@@ -16,7 +16,7 @@ description: 'Fråga: I mitt land dyrkar vissa andra än Allāh – upphöjd är
 
 De som vägrade att ta ko-köttet, som slaktats för den avlidne som inte dyrkade Allāh, gjorde det rätta. Det finns inget skadligt i att ta levande kor och slakta dem enligt islamiska metoder, utan att avse att slakta den vid dennes bortgång. Detta anses inte vara att ta del av deras innovation. Dyrkade denne andra än Allāh bör det inte avses vara välgörenhet för dennes räkning. Om de avser att slakta samtidigt som dennes bortgång och slå följe med begravningståget, då skulle det inte vara acceptabelt att ta emot ett sådant djur. Det kommer anses vara en delaktighet i deras innovation.
 
-Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muhammad samt göra honom, hans hushåll och följeslagare säkra från ont.
+Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muḥammad samt göra honom, hans hushåll och följeslagare säkra från ont.
 
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

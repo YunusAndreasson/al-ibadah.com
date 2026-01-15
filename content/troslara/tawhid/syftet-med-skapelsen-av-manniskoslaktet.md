@@ -1,6 +1,6 @@
 ---
 title: Syftet med skapelsen av människosläktet
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Fiqh ul ''Ibādāt www 20/4-2007: www Muhammed Knut Bernström (1421), Koranens
  budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Tawhīd [Monoteism]
@@ -12,7 +12,7 @@ description: 'Fråga: Vilket är syftet med skapelsen av människan? Svar: I All
 
 **Fråga:** Vilket är syftet med skapelsen av människan?
 
-**Svar:** I Allāhs den Nåderikes den Barmhärtiges namn. All lovprisan tillhör Allāh, Herren över allt som existerar. Och jag ber Allāh sända frid och välsignelser över profeten Muhammad, de troende i hans familj och alla hans följeslagare.
+**Svar:** I Allāhs den Nåderikes den Barmhärtiges namn. All lovprisan tillhör Allāh, Herren över allt som existerar. Och jag ber Allāh sända frid och välsignelser över profeten Muḥammad, de troende i hans familj och alla hans följeslagare.
 
 Innan jag svarar på denna fråga skulle jag vilja visa på en generell grund för vad Allāh den Allsmäktige skapar och föreskriver. Denna grund hämtas från Hans den Välsignades, den Upphöjdes ord: ”*Han är den Allvetande, den Allvise*.” [Koranen 66:2] ”*Gud är allvetande, vis*.” [Koranen 33:1] Det finns fler verser utöver dessa som bevisar Allāhs den Allsmäktiges visdom i det som Han skapar och föreskriver, det vill säga både i fråga om Hans *kawniyyah* och *shar'iyyah* dekret. Det finns inte något som Allāh skapar utan visdom, oavsett om att de gäller att få något till att existera eller att få något till att inte existera. Det finns inget som Allāh – fri från brister – påbjuder utan visdom. Det spelar ingen roll om det gäller att göra något till obligatoriskt, förbjudet eller tillåtet.
 

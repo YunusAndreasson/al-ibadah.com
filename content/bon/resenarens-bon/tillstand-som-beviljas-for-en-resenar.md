@@ -1,6 +1,6 @@
 ---
 title: Tillstånd som beviljas för en resenär
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 550 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Resenärens bön

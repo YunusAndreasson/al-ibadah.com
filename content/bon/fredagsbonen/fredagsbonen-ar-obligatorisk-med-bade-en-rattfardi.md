@@ -1,7 +1,7 @@
 ---
 title: Fredagsbönen är obligatorisk med både en rättfärdig och syndig imam
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 458 s. ISBN saknas'
 categories: – Bön (Salāh) – Fredagsbönen
 original_id: 358

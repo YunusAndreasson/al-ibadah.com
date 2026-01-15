@@ -1,7 +1,7 @@
 ---
 title: Kvinna som har barn tillsammans med en man som inte ber – om hon kan fortsätta
  att leva tillsammans med honom
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 401 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
@@ -22,7 +22,7 @@ Följaktligen varnar jag mina muslimska bröder för att ge deras döttrar och d
 
 Och Allāh vet bäst.
 
-Må frid och välsignelser vara över vår profet Muhammad, hans familj och hans följeslagare.
+Må frid och välsignelser vara över vår profet Muḥammad, hans familj och hans följeslagare.
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

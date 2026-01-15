@@ -1,7 +1,7 @@
 ---
 title: Ren efter gryningsbönen under fastan
 author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 297 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 449

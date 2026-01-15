@@ -1,6 +1,6 @@
 ---
 title: Antalet bönecykler som bes i tarāwīh-bönen
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 509 s. ISBN 9960-892-66-2'
 categories: – Fasta (Sawm) – Nattbön (tarawih)

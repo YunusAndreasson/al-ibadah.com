@@ -1,7 +1,7 @@
 ---
 title: Reciterar en vers där man ska nedfalla
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 280 s. ISBN saknas'
 categories: – Bön (Salāh) – Nedfallan vid recitation
 original_id: 279

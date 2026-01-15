@@ -1,7 +1,7 @@
 ---
 title: Endast den som är ren får röra Koranen
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories: – Renhet (Tahārah) – Blandade utlåtanden
 original_id: 1667
@@ -22,7 +22,7 @@ Här finns även en annan relaterad fråga, om det är tillåtet för en kvinna 
 
 Det som är korrekt är att det inte hindrar dem från att recitera från minnet och detta är den föredragna åsikten då det i *Sahīh al-Bukhārī *och* Sahīh Muslim* rapporterats att profeten – över honom vare Allāhs frid och välsignelser – sagt till 'A'ishah då hon fick sin månadsblödning under pilgrimsfärden: ”*Gör vad pilgrimerna gör förutom att gå runt huset [dvs. Ka’bah] förrän du blir ren*.” [al-Bukhārī 305 och Muslim 1211] Även om en pilgrim reciterar Koranen gjorde Allāhs sändebud – över honom vare Allāhs frid och välsignelser – det inte till ett undantag som han gjorde för *tawāf[^3]* runt Kaʿbah. Detta visar på tillåtelsen för kvinnan att recitera medan hon har sin månadsblödning eller under blödning efter graviditeten.
 
-Profeten – över honom vare Allāhs frid och välsignelser – sade något liknande till Asma' bin 'Umays när hon födde Muhammad bin Abu Bakr vid miqat under avskedspilgrimsfärden. Detta bevisar att hon får recitera utan att röra mushaf.
+Profeten – över honom vare Allāhs frid och välsignelser – sade något liknande till Asma' bin 'Umays när hon födde Muḥammad bin Abu Bakr vid miqat under avskedspilgrimsfärden. Detta bevisar att hon får recitera utan att röra mushaf.
 
 I en hadīth[^1] om Ibn ʿUmar säger profeten: ”*Varken den med månadsblödning eller den i den stora rituella orenheten får recitera något från Koranen*.” [at-Tirmithi 131] Hadithen är svag för att i dess kedja återberättar Ibn 'Ayyash från Musa bin 'Uqbah. De lärde inom *hadīth[^1]* har graderat Ibn 'Ayyash's återberättelser som svaga. De säger att de är bra om han återberättar från invånarna i ash-Sham, som är hans hemland, men de är svaga när han återberättar från al-Hijaz. När denna återberättelse kommer från invånarna i al-Hijaz är den därmed svag.
 

@@ -1,6 +1,6 @@
 ---
 title: Profetens – över honom vare Allāhs frid och välsignelser – bön
-author: Shaykh Muhammad Nāsir al-Dīn al-Albāni
+author: Shaykh Muḥammad Nāsir al-Dīn al-Albāni
 source: 'Talkhīs Sifat Salāt al-Nabi min al-takbīr ila al-Taslīm ka annaka turāhā
  Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Bön (Salāh)
@@ -57,7 +57,7 @@ Det är obligatoriskt att be i riktning mot och vara nära en *sutrah[^8]*
 
 1. Det är obligatoriskt att be i riktning mot en *sutrah[^8]*. Det är ingen skillnad om det är i en moské eller någon annanstans, och det spelar ingen roll om moskén är stor eller liten. Detta med anledning av den generella innebörden av en *hadīth[^9]* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Be inte utan att vara vänd mot en sutrah[^8] och låt ingen passera framför dig. Om han insisterar så strid mot honom för han har en följeslagare [som är djävulen] med sig*.”
 2. Det är obligatoriskt att vara nära en *sutrah[^8]* då detta är vad profeten – över honom vare Allāhs frid och välsignelser – har kommenderat.
-3. Mellan platsen där profeten – över honom vare Allāhs frid och välsignelser – nedföll[^6] och väggen fanns det en yta nästan stor nog för ett får att passera genom. Den som gör detta är enligt vad som krävs tillräckligt nära [*sutrah[^8]*]. Från detta vet vi att vad folk gör i alla moskér som jag har sett i Syrien och på andra platser, genom att be i mitten av moskén långt ifrån någon vägg eller pelare, endast är försumlighet mot kommenderingen och profetens – över honom vare Allāhs frid och välsignelser – handlande.
+3. Mellan platsen där profeten – över honom vare Allāhs frid och välsignelser – nedföll[^6] och väggen fanns det en yta nästan stor nog för ett får att passera genom. Den som gör detta är enligt vad som krävs tillräckligt nära [*sutrah[^8]*]. Från detta vet vi att vad folk gör i alla moskéer som jag har sett i Syrien och på andra platser, genom att be i mitten av moskén långt ifrån någon vägg eller pelare, endast är försumlighet mot kommenderingen och profetens – över honom vare Allāhs frid och välsignelser – handlande.
 
 Hur hög bör en *sutrah[^8]* vara?
 
@@ -287,9 +287,9 @@ Hur man säger *tashahhud[^23]* och den efterföljande åkallan[^14]
 
 1. *Tashahhud[^23]* är obligatorisk och om man glömmer den måste man nedfalla två gånger för glömska.
 2. Man läser den tyst.
-3. *Tashahhud[^23]* är enligt följande: ”*al-tahiyyātu Lillāhi wa’l-salāwātu wa’l-tayyibāt. al-salāmu ‘alayka ayyuha’l-Nabiyyu wa rahmat-Allāhi wa barakātuhu. al-salāmu ‘alayna wa ‘ala ‘ibād-Illāh il-sālihīn. ash-hadu an Lā ilāha ill-Allāh wa ash-hadu anna Muhammadan ‘abduhu wa rasūluhu*.” [Andra versioner finns omnämnda i *Sifat Salāt al-Nabi* [*The Prophet's Prayer Described*, men den som har nämnts här är den bästa]. Sända *salām* över profeten: detta har föreskrivits efter profetens – över honom vare Allāhs frid och välsignelser – död och det har återberättats om det i Ibn Mas'ūds, 'A'ishas och Ibn al-Zubayrs *tashahhud[^23]*. För ytterligare detaljer, se *Sifat Salāt al-Nabi*, s. 161, Maktabat al-Ma'ārif, Riyadh upplagan [*The Prophet's Prayer Described*, s. 67].
-4. Sedan sänder man böner över profeten – över honom vare Allāhs frid och välsignelser – genom att säga: ”*Allāhumma salli ‘ala Muhammad wa ‘ala āli Muhammad kama salayta ‘ala Ibrāhīm wa ‘ala āli Ibrāhīm, innaka hamīdun majīd. Allāhumma bārik ‘ala Muhammad wa ‘ala āli Muhammad kama bārakta ‘ala Ibrāhīm wa ‘ala āli Ibrāhīm, innak hamīdun majīd*.”
-5. Om man vill så kan man korta ned den och säga: ”*Allāhumma salli ‘ala Muhammad wa ‘ala āli Muhammad, wa bārik ‘ala Muhammad wa ‘ala āli Muhammad, kama salayta wa bārakta ‘ala Ibrāhīm wa ‘ala āli Ibrāhīm, innaka hāmedun majīd*.”
+3. *Tashahhud[^23]* är enligt följande: ”*al-tahiyyātu Lillāhi wa’l-salāwātu wa’l-tayyibāt. al-salāmu ‘alayka ayyuha’l-Nabiyyu wa rahmat-Allāhi wa barakātuhu. al-salāmu ‘alayna wa ‘ala ‘ibād-Illāh il-sālihīn. ash-hadu an Lā ilāha ill-Allāh wa ash-hadu anna Muḥammadan ‘abduhu wa rasūluhu*.” [Andra versioner finns omnämnda i *Sifat Salāt al-Nabi* [*The Prophet's Prayer Described*, men den som har nämnts här är den bästa]. Sända *salām* över profeten: detta har föreskrivits efter profetens – över honom vare Allāhs frid och välsignelser – död och det har återberättats om det i Ibn Mas'ūds, 'A'ishas och Ibn al-Zubayrs *tashahhud[^23]*. För ytterligare detaljer, se *Sifat Salāt al-Nabi*, s. 161, Maktabat al-Ma'ārif, Riyadh upplagan [*The Prophet's Prayer Described*, s. 67].
+4. Sedan sänder man böner över profeten – över honom vare Allāhs frid och välsignelser – genom att säga: ”*Allāhumma salli ‘ala Muḥammad wa ‘ala āli Muḥammad kama salayta ‘ala Ibrāhīm wa ‘ala āli Ibrāhīm, innaka hamīdun majīd. Allāhumma bārik ‘ala Muḥammad wa ‘ala āli Muḥammad kama bārakta ‘ala Ibrāhīm wa ‘ala āli Ibrāhīm, innak hamīdun majīd*.”
+5. Om man vill så kan man korta ned den och säga: ”*Allāhumma salli ‘ala Muḥammad wa ‘ala āli Muḥammad, wa bārik ‘ala Muḥammad wa ‘ala āli Muḥammad, kama salayta wa bārakta ‘ala Ibrāhīm wa ‘ala āli Ibrāhīm, innaka hāmedun majīd*.”
 6. I denna *tashahhud[^23]* kan man sedan välja vilken åkallan[^14] som man vill av dem som har återberättats och åkalla Allāh genom att använda orden i den.
 
 Den tredje och fjärde bönecykeln[^7]

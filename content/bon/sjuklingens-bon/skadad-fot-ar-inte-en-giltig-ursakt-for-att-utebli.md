@@ -1,7 +1,7 @@
 ---
 title: Skadad fot är inte en giltig ursäkt för att utebli från fredagsbönen
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 475 s. ISBN saknas'
 categories: – Bön (Salāh) – Sjuklingens bön
 original_id: 367

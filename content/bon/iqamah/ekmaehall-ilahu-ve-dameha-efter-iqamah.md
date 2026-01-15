@@ -1,6 +1,6 @@
 ---
 title: ”Ekmaehall-ilahu ve dameha” efter iqāmah
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 431 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Iqāmah [Det andra böneutropet]

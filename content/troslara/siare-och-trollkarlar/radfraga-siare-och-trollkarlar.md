@@ -1,6 +1,6 @@
 ---
 title: Rådfråga siare och trollkarlar
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. x s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Siare och trollkarlar
 original_id: 64
@@ -17,7 +17,7 @@ description: 'Fråga: Min far var mentalt sjuk under en lång tid och han åkte 
 
 Profeten – över honom vare Allāhs frid och välsignelser – sagt:
 
-> ”Den som besöker en spåman eller siare och tror på honom, har sannerligen förnekat vad som har uppenbarats för Muhammad.” [Abū *Dawūd* 3904, *at-Tirmithi* 135, *Ibn Mājah* 639 och *Ahmad* 2:408, 476]
+> ”Den som besöker en spåman eller siare och tror på honom, har sannerligen förnekat vad som har uppenbarats för Muḥammad.” [Abū *Dawūd* 3904, *at-Tirmithi* 135, *Ibn Mājah* 639 och *Ahmad* 2:408, 476]
 
 *Ahādīth[^3]* med denna innebörd är många. Din plikt är att varna de som går till dem och varken rådfråga dem eller tro på vad de säger. Rapportera dem till myndigheterna så att de straffas med vad de förtjänar. Om du inte rapporterar dem kommer de att kunna förstöra mycket. Vissa av de svaga kommer att falla för dem genom att de rådfrågar dem och tror på dem.
 

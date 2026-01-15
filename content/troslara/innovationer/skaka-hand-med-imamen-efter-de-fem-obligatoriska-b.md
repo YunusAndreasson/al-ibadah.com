@@ -1,7 +1,7 @@
 ---
 title: Skaka hand med imamen efter de fem obligatoriska bönerna
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 267 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Innovationer
 original_id: 1500
@@ -16,5 +16,5 @@ description: 'Fråga: Vilket är utlåtandet om att alltid skaka hand med imamen
 
 Han har även sagt: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [*Muslim* 1718]
 
-Må frid och välsignelser vara över vår profet Muhammad, hans familj och följeslagare.
+Må frid och välsignelser vara över vår profet Muḥammad, hans familj och följeslagare.
 

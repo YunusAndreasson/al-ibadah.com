@@ -1,6 +1,6 @@
 ---
 title: Använda henna under fastan
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: Fatāwa Ramadan – Volym 2, sida 530, fatwa 500
 categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 904

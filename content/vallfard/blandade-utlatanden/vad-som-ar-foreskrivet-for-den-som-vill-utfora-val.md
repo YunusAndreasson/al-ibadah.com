@@ -1,7 +1,7 @@
 ---
 title: Vad som är föreskrivet för den som vill utföra vallfärden och ‘umrah
 author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 36 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Blandade utlåtanden
 original_id: 702

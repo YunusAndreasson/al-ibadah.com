@@ -1,7 +1,7 @@
 ---
 title: Ingen bön mellan eftermiddagsbönen och solnedgången
 author: Ibn ʿAbdur-Rahman al-Jibrin
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 292 s. ISBN saknas'
 categories: – Bön (Salāh) – Tider då det är förbjudet att be
 original_id: 1509

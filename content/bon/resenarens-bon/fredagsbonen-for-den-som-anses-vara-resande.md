@@ -1,7 +1,7 @@
 ---
 title: Fredagsbönen för den som anses vara resande
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 462 s. ISBN saknas'
 categories: – Bön (Salāh) – Resenärens bön
 original_id: 362

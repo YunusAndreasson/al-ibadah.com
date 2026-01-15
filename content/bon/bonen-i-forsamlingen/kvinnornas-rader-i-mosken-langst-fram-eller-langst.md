@@ -1,6 +1,6 @@
 ---
 title: Kvinnornas rader i moskén – längst fram eller längst bak
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 460 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Bönen i församlingen
@@ -16,5 +16,5 @@ description: 'Fråga: Vilket är utlåtandet om kvinnornas rader? Är de värsta
 
 Den enda anledningen till detta är eftersom de sista är de som är längst från männen och de första är de som är närmst.
 
-Men om det finns en avskild plats för dem, vilket det finns i de flesta moskér, då är de bästa raderna för kvinnorna de första. Precis som för män.
+Men om det finns en avskild plats för dem, vilket det finns i de flesta moskéer, då är de bästa raderna för kvinnorna de första. Precis som för män.
 

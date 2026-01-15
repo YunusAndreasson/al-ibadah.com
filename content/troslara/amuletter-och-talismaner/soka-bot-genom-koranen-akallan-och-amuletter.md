@@ -1,7 +1,7 @@
 ---
 title: Söka bot genom Koranen, åkallan och amuletter
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 51 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Amuletter och talismaner
 original_id: 41
@@ -18,7 +18,7 @@ description: 'Fråga: Vilket är utlåtandet om att söka bot genom Koranen, åk
 
 Denna *hadīth[^2]* understryker att det är tillåtet att söka bot genom Koranen. Koranen-amuletter är det inte tillåtna enligt den giltiga åsikten bland de lärde.
 
-Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muhammad samt göra honom, hans hushåll och följeslagare säkra från ont.
+Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muḥammad samt göra honom, hans hushåll och följeslagare säkra från ont.
 
 [^1]: Du´ā
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

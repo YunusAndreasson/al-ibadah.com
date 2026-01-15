@@ -1,7 +1,7 @@
 ---
 title: Fira al-isrā’ wal-mi'raj -natten
 author: n/a
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. x s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Innovationer
 original_id: 113
@@ -22,7 +22,7 @@ Den första har *al-Bukhārī* och *Muslim* återgivit och den andra har återgi
 
 I *Sahīh Muslim* rapporteras att profeten – över honom vare Allāhs frid och välsignelser – under fredagspredikan brukade säga:
 
-> ”Sannerligen är det bästa talet Allāhs skrift och den bästa vägledningen är Muhammads. Det ondaste i religiösa frågor är det nyligen införda, och varje innovation är en villfarelse.”
+> ”Sannerligen är det bästa talet Allāhs skrift och den bästa vägledningen är Muḥammads. Det ondaste i religiösa frågor är det nyligen införda, och varje innovation är en villfarelse.”
 
 I en *hadīth[^4]* från *al-'Irbadh* bin Sariyah säger han:
 

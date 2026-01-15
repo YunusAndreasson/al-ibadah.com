@@ -1,7 +1,7 @@
 ---
 title: Imamen begår ett misstag i recitationen
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 420 s. ISBN saknas'
 categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
 original_id: 336

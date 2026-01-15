@@ -1,6 +1,6 @@
 ---
 title: Uppmanade andra att närvara vid bön och missade därför själv delar av den
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: Fatāwa Nūrun alad-Darb, Volym 1, sida 197
 categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 584

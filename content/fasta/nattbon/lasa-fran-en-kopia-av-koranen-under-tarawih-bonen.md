@@ -1,7 +1,7 @@
 ---
 title: Läsa från en kopia av Koranen under tarāwīh-bönen
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 316 s. ISBN saknas'
 categories: – Fasta (Sawm) – Nattbön (tarawih)
 original_id: 1409

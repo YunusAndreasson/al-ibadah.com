@@ -1,6 +1,6 @@
 ---
 title: Gratulera folk vid ‘eid och om det finns några speciella ord för det
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 560 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – '''Eid-bönerna'

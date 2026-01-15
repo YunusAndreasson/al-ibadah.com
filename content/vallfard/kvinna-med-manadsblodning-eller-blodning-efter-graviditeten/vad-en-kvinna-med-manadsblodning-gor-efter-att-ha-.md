@@ -1,7 +1,7 @@
 ---
-title: Vad en kvinna med månadsblödning gör efter att ha trätt in i ihrāmför ‘umrah
+title: Vad en kvinna med månadsblödning gör efter att ha trätt in i ihrām för 'umrah
 author: Ibn ʿAbdur-Rahman al-Jibrin
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 154 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Kvinna med månadsblödning eller blödning efter graviditeten
 original_id: 1346

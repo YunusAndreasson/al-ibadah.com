@@ -1,7 +1,7 @@
 ---
 title: ‘Eid-bönen inträffar under en fredag
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 453 s. ISBN saknas'
 categories: – Bön (Salāh) – '''Eid-bönerna'
 original_id: 353
@@ -26,7 +26,7 @@ Som bevis för detta finns även en återberättelse av Muslim från an-Nu'man b
 
 Den som har bett *‘eid*-bönen och som inte kommer till fredagsbönen måste be den som middagsbönen[^1]. Detta enligt de bevis som visar att de som inte är närvarande vid fredagsbönen måste be middagsbönen[^1].
 
-Må frid och välsignelser vara över vår profet Muhammad, hans familj och följeslagare.
+Må frid och välsignelser vara över vår profet Muḥammad, hans familj och följeslagare.
 
 [^1]: Dhuhr
 

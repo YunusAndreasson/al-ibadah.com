@@ -1,7 +1,7 @@
 ---
 title: Uppstigandet ur gravarna
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 23 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Livet i graven
@@ -15,7 +15,7 @@ description: 'Fråga: Hur ska människor komma upp ur deras gravar på Återupps
 
 **Svar:** Allāh den Upphöjde kommer att återuppresa människan på Återuppståndelsens Dag och rekonstruera henne från hennes svanskota. Människor kommer att växa till perfekta skapelser, precis som växter växer från frön och palmträd växer från dadelfrön. De kommer att uppstå från deras gravar barfota, nakna och utan att vara omskurna. De kommer att störta framåt och skingras som fjärilar och de kommer inte att missa vägen till Samlingsplatsen. De kommer att känna vägen dit bättre än en vild duva känner vägen till sitt bo – och de kommer att kapplöpa mot målet.
 
-Den förste som jorden kommer att öppna sig för är vår profet Muhammad. Han kommer att vara den förste som återfår medvetandet. Den förste som kommer att kläs efter Återuppståndelsen är Khalilur-Rahmān [den Nåderikes älskade], må Allāh hedra hans omnämnande och skydda honom från ont. Skräck kommer att drabba människorna till den grad att även profeterna denna dag kommer att säga: ”Jag själv, jag själv”. Den som läser verserna som berör Återuppståndelsen i surorna al-Qamar, al-Ma'arij samt al-Qari'ah och liknande kommer att få mer information om dessa stora händelser.
+Den förste som jorden kommer att öppna sig för är vår profet Muḥammad. Han kommer att vara den förste som återfår medvetandet. Den förste som kommer att kläs efter Återuppståndelsen är Khalilur-Rahmān [den Nåderikes älskade], må Allāh hedra hans omnämnande och skydda honom från ont. Skräck kommer att drabba människorna till den grad att även profeterna denna dag kommer att säga: ”Jag själv, jag själv”. Den som läser verserna som berör Återuppståndelsen i surorna al-Qamar, al-Ma'arij samt al-Qari'ah och liknande kommer att få mer information om dessa stora händelser.
 
 I *al-Bukhārī* och *Muslim* berättas att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 

@@ -1,7 +1,7 @@
 ---
 title: Klipper inte håret eller rakar inte huvudet på grund av okunskap
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 208 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Raka huvudet och klippa håret
 original_id: 831

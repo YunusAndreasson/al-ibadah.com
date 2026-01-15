@@ -1,7 +1,7 @@
 ---
 title: Placera en krans på en grav
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 29 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Gravdyrkan
 original_id: 29

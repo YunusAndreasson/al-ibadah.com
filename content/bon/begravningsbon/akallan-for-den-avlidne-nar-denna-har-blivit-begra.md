@@ -1,7 +1,7 @@
 ---
 title: Åkallan för den avlidne när denna har blivit begravd
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 87 s. ISBN saknas'
 categories: – Bön (Salāh) – Begravningsbön
 original_id: 393
@@ -18,7 +18,7 @@ description: 'Fråga: När åkallar man för den avlidne? När kistan har sänkt
 
 Abū Dawūd och al-Munthari har inte sagt något om den [om den är autentisk]. al-Hakim har också återgivit den och sagt: ”*Den har inte rapporterats från profeten utom på detta sätt [denna berättarkedja]*.”
 
-Framgång kommer från Allāh. Må Allāh sända välsignelser och frid över vår profet Muhammad, hans familj och hans följeslagare.
+Framgång kommer från Allāh. Må Allāh sända välsignelser och frid över vår profet Muḥammad, hans familj och hans följeslagare.
 
 [^1]: Du´ā
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

@@ -19,7 +19,7 @@ Det är välkänt att profeten – över honom vare Allāhs frid och välsignels
 
 Inte heller någon av de lärde i denna bästa generation firade hans födelsedag.
 
-Med anledning av bevis är det tydligt att dessa högtider inte är ifrån den lag som Allāh sände till Muhammad – över honom vare Allāhs frid och välsignelse […]
+Med anledning av bevis är det tydligt att dessa högtider inte är ifrån den lag som Allāh sände till Muḥammad – över honom vare Allāhs frid och välsignelse […]
 
 Vi ber Allāh, för vår egen räkning och alla muslimer, att Han håller oss stadigt vid sanningen och låter oss undvika allt som skiljer sig ifrån Hans rena lag. Han är den mest Generöse och Ädle.
 

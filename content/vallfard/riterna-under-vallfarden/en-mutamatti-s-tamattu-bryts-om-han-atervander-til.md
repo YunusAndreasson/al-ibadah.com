@@ -1,7 +1,7 @@
 ---
 title: En mutamatti's tamattu bryts om han återvänder till sitt land
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 100 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Riterna under vallfärden
 original_id: 745

@@ -1,7 +1,7 @@
 ---
 title: Ungdomar som inte ber men fastar
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 247 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Fasta (Sawm) – De som bara ber under ramadan
@@ -19,5 +19,5 @@ description: 'Fråga: Jag har sett en del unga muslimer fasta men de ber inte. A
 
 Denne bör dock inte beordras att överge fastan. Detta beror på att dennes fasta endast kommer att göra honom eller henne bättre och det innebär ett närmande mot religionen. Det finns även hopp om att rädslan i dennes hjärta kommer att leda denne till att denne ber och ångra sig för att ha övergivit den.
 
-Och framgång kommer från Allāh. Må Allāh sända välsignelser och frid över vår profet Muhammad, hans familj och hans följeslagare.
+Och framgång kommer från Allāh. Må Allāh sända välsignelser och frid över vår profet Muḥammad, hans familj och hans följeslagare.
 

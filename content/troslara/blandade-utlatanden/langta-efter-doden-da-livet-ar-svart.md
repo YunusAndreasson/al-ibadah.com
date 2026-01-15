@@ -1,6 +1,6 @@
 ---
 title: Längta efter döden då livet är svårt
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: Fatāwa al-Marah
 categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
 original_id: 592

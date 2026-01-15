@@ -1,7 +1,7 @@
 ---
 title: Återvänder livet till den döde i graven?
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 117 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Livet i graven
@@ -37,7 +37,7 @@ Detta beror på att han inte talar från sina egna åsikter utan han föreskrive
 
 Generellt sett är lydnaden mot honom och den lag som han förde med sig ett bevis för ens tro och kärlek till Allāh. Resultaten av detta är Allāhs kärlek i retur och förlåtelse från Honom för dem som lyder. Allāh säger:
 
-> ”Säg [Muhammad]: 'Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
+> ”Säg [Muḥammad]: 'Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
 
 Allāh den Upphöjde har kommenderat oss att lyda honom och Han har slagit fast att lyda honom är att Allāh. Han den Upphöjde säger:
 

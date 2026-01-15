@@ -1,7 +1,7 @@
 ---
 title: Krav på den som utfört ‘umrah i vanliga kläder
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 143 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Förbjudna saker under ihrām
 original_id: 776
@@ -18,7 +18,7 @@ Vad du berättade om att träda in i *ihrām[^7]* i dina kläder, om du menade d
 
 Kände du inte till denne regel eller om du glömde bort den, då krävs det ingen försoningslösen från dig. I båda fall måste du ångra dig, söka förlåtelse och aldrig göra något liknande som motsäger sig det som *ihrām[^7]* kräver.
 
-Och framgång kommer från Allāh. Må Allāh sända välsignelser över vår profet Muhammad.
+Och framgång kommer från Allāh. Må Allāh sända välsignelser över vår profet Muḥammad.
 
 [^1]: Den lilla vallfärden.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

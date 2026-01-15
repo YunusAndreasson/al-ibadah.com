@@ -1,7 +1,7 @@
 ---
 title: Hur en som har begått otukt ångrar sig
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 253 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Blandat – Ånger
@@ -33,7 +33,7 @@ Kom ihåg att Allāh den Allsmäktige säger:
 > 
 > 
 > 
-> ”Säg [Muhammad] till mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [Mina bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet!” [39:53]
+> ”Säg [Muḥammad] till mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [Mina bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet!” [39:53]
 
 De lärde är eniga om att denna vers uppenbarades för den tålmodige; den som önskar att ångra sig. Om din synd involverar en människas rätt måste vi lägga till ett fjärde villkor: Du måste återgälda deras rättigheter till dem. Detta oavsett om det är tillgångar eller något annat. I andra fall måste du be om deras förlåtelse. Allāhs sändebud har sagt:
 

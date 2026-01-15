@@ -1,6 +1,6 @@
 ---
 title: Fel som begås då håret klipps eller huvudet rakas
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: Dalīl al-Akhta’ allati yaqa’ fiha al-Hāj wa’l-Mu’tamir
 categories: – Vallfärd (Hajj) – Raka huvudet och klippa håret
 original_id: 1303

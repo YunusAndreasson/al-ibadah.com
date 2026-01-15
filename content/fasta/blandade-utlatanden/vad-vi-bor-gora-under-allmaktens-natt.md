@@ -23,9 +23,9 @@ Beträffande att ange vilken natt under ramadan[^2] som är Allmaktens Natt[^1],
 
 Innovationer är varken tillåtna under ramadan[^2] eller vid andra tidpunkter. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som för in något i denna våra fråga [islām] som inte är en del av den kommer att få det avvisat*.” Enligt en annan rapport: ”*Den som utför en handling som inte är en del av denna vår fråga [islam] kommer att få den avvisad*.”
 
-Vi känner inte till någon grund för att man ska fira vissa nätter under ramadan[^2]. Den bästa vägledning är Muhammads vägledning och det värsta är innovationer.
+Vi känner inte till någon grund för att man ska fira vissa nätter under ramadan[^2]. Den bästa vägledning är Muḥammads vägledning och det värsta är innovationer.
 
-Och Allāh är källan till all styrka. Må Allāh sända välsignelser och frid över profeten Muhammad, hans familj och följeslagare.
+Och Allāh är källan till all styrka. Må Allāh sända välsignelser och frid över profeten Muḥammad, hans familj och följeslagare.
 
 [^1]: Laylatul-Qadr. En av de sista tio nätterna under fastemånaden. Bön under den natten är likvärdig med bön under 1000 månader.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

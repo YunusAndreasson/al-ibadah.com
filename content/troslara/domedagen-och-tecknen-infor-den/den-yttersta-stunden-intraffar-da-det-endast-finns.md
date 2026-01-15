@@ -1,7 +1,7 @@
 ---
 title: Den Yttersta Stunden inträffar då det endast finns onda människor på jorden
 author: Ibn ʿAbdullah Ibn Bāz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 55 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Domedagen och tecknen inför den
 original_id: 44

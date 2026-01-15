@@ -1,6 +1,6 @@
 ---
 title: Upphävelse av hajjul-qirān och hajjul-ifrad
-author: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 106 s. ISBN saknas'
 source: Ibn ʿAbdullah Ibn Baz
 categories: – Vallfärd (Hajj) – Riterna under vallfärden

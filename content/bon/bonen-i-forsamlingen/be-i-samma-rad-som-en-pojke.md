@@ -1,7 +1,7 @@
 ---
 title: Be i samma rad som en pojke
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 209 s. ISBN saknas'
 categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 225
@@ -16,5 +16,5 @@ description: 'Fråga: Två män gick in i en moské och med dem fanns en pojke s
 
 Och Allāh är Beviljaren av framgång.
 
-Må frid och välsignelser vara över vår profet Muhammad, hans familj och följeslagare.
+Må frid och välsignelser vara över vår profet Muḥammad, hans familj och följeslagare.
 

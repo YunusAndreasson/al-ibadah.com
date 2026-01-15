@@ -1,7 +1,7 @@
 ---
 title: Den som ångrar sig från en synd är likt den som inte syndat
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 259 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Blandat – Ånger
@@ -13,11 +13,11 @@ description: 'Fråga: Under flera månader bad jag inte. Ramadan kom och gick ut
 
 **Fråga:** Under flera månader bad jag inte. Ramadan kom och gick utan att jag fastade. Jag rökte även ofta. All lovprisan är för Allāh – jag har ångrat mig för alla dessa synder. Nu ber jag, jag fastar under ramadan[^1] och jag har slutat att röka. Min fråga lyder: Måste jag ta igen alla de böner jag missat i det förgångna?
 
-**Svar:** Då Allāh den Högste beviljat dig ånger och då du nu utför dina obligatoriska islamska plikter, vill jag gratulera dig och jag ber Allāh att Han gör dig stadig längs denna väg, att Han ger dig fler välsignelser, att vi alla får dö med denna tro och att vi uppreses i sällskap med den allra noblaste av människor – Muhammad.
+**Svar:** Då Allāh den Högste beviljat dig ånger och då du nu utför dina obligatoriska islamska plikter, vill jag gratulera dig och jag ber Allāh att Han gör dig stadig längs denna väg, att Han ger dig fler välsignelser, att vi alla får dö med denna tro och att vi uppreses i sällskap med den allra noblaste av människor – Muḥammad.
 
 Din ånger tillintetgör tidigare synder. Detta inkluderar dina böner och att du inte fastade. Allāh den Allsmäktige har sagt:
 
-> ”Säg [Muhammad] till mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [Mina bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet!” [Koranen 39:53]
+> ”Säg [Muḥammad] till mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [Mina bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet!” [Koranen 39:53]
 > 
 > 
 > 

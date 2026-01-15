@@ -1,7 +1,7 @@
 ---
 title: Utan ursäkt stryka över sockarna under sommaren
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 104 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Stryka över sockar
 original_id: 1444

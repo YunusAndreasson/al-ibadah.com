@@ -1,7 +1,7 @@
 ---
 title: Då tiden för slakt av offerdjur för hajjul-tamattu’ tar slut under vallfärden
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 276 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Offerdjuret
 original_id: 869

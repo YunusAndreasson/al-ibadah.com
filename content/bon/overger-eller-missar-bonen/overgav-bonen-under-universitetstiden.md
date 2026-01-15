@@ -1,7 +1,7 @@
 ---
 title: Övergav bönen under universitetstiden
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 379 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Bön (Salāh) – Överger eller missar bönen
@@ -17,5 +17,5 @@ description: 'Fråga: En ung och mentalt frisk muslim brukade be innan han börj
 
 Allāh den Allsmäktige har sagt att den obligatoriska bönen är påbjuden vid speciella tider och att [ängeln] Gabriel klargjorde dessa tider för profeten – över honom vare Allāhs frid och välsignelser – under *al-Mi'raj* [profetens – över honom vare Allāhs frid och välsignelser – resa till himlen]. Profeten – över honom vare Allāhs frid och välsignelser – har sedan inrättat dessa tider för samfundet genom ord och handling. Därför är det varken tillåtet att be bönen före eller efter dess tid. Den korrekta åsikten från de lärde – enligt vad vi anser – är att den som överger bönen är en icke-troende och om han sedan ångrar sig finns det ingen anledning till att ta igen den dyrkan som han missade under de dagar då han var icke-troende. Är han uppriktig i sin ånger, då är det att föredra om han gör många rättfärdiga handlingar och frivilliga böner. Detta stöds av vad som kan förstås från profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Den som försover sig och missar en bön eller glömmer den, måste ta igen den så fort han kommer ihåg den, och det finns ingen gottgörelse utom detta*.” [*al-Bukhārī* 597 och *Muslim* 684] Det som kan förstås från detta är att den som avsiktligen överger bönen inte tillhör någon av dessa kategorier, så det är inte rätt att jämföra den som avsiktligen överger bönen med den som sover över sig eller glömmer. Den som överger den avsiktligen är ju inte ursäktad. Allāh har inte angivit någon tid då han kan ta igen bönen, vilket Han har gjort för den som glömmer bort eller sover över sig.
 
-Genom Allāh uppnås framgång. Må frid och välsignelser vara över profeten Muhammad, hans familj och följeslagare.
+Genom Allāh uppnås framgång. Må frid och välsignelser vara över profeten Muḥammad, hans familj och följeslagare.
 

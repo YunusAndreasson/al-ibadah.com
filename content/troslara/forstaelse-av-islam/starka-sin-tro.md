@@ -1,7 +1,7 @@
 ---
 title: Stärka sin tro
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muhammad ibn Sālih al-‘Uthaymīn,
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muḥammad ibn Sālih al-‘Uthaymīn,
  volym. 1. sida. 49 Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn:
  Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Förståelse av islam

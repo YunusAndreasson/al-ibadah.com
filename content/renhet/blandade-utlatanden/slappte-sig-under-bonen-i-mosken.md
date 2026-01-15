@@ -1,6 +1,6 @@
 ---
 title: Släppte sig under bönen i moskén
-author: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 223 s. ISBN saknas'
 source: Ibn ʿAbdur-Rahman al-Jibrīn
 categories: – Renhet (Tahārah) – Blandade utlåtanden

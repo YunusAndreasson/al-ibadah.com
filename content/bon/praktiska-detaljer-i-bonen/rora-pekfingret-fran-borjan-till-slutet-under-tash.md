@@ -1,6 +1,6 @@
 ---
 title: Röra pekfingret från början till slutet under tashahhud
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 484 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Praktiska detaljer i bönen
@@ -24,7 +24,7 @@ Allāh den Upphöjde är därmed ovan himlarna, det vill säga upphöjd ovan all
 
 Med detta som grund: När du åkallar[^2] Allāh den Allsmäktige bör du röra ditt pekfinger och rikta det mot himlen. Utöver det så rör du det inte.
 
-Nu ska vi gå igenom platserna för åkallan[^2] under *tashahhud[^1]*: ”*as-salamu 'alayka ayyuhan-nabiyyu wa rahmatullahi wa barakatuhu, as-salamu 'alayna wa 'ala 'ibadillahis-Sālihīn; allāhumma salli 'ala Muhammadin wa 'ala ali Muhammadin. Allāhumma barik 'ala Muhammadin wa 'ala ali Muhammadin. A'ūthu billahi min 'athabi jahannama wa min 'athabil-qabr wa min fitnatil-mahya wal-amat wa min fitnatil-masīhid-Dajjāl*.”
+Nu ska vi gå igenom platserna för åkallan[^2] under *tashahhud[^1]*: ”*as-salamu 'alayka ayyuhan-nabiyyu wa rahmatullahi wa barakatuhu, as-salamu 'alayna wa 'ala 'ibadillahis-Sālihīn; allāhumma salli 'ala Muḥammadin wa 'ala ali Muḥammadin. Allāhumma barik 'ala Muḥammadin wa 'ala ali Muḥammadin. A'ūthu billahi min 'athabi jahannama wa min 'athabil-qabr wa min fitnatil-mahya wal-amat wa min fitnatil-masīhid-Dajjāl*.”
 
 På dessa åtta platser bör man röra fingret mot himlen. Åkallar man med andra ord bör man också röra det. Detta beror på att utlåtandet säger att det bör höjas vid varje åkallan[^2].
 

@@ -2,7 +2,7 @@
 title: Utse någon till att kasta sten på pelarna för den som är sjuk, en kvinna eller
  ett barn
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 164 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Utse någon annan som vallfärdar
 original_id: 790

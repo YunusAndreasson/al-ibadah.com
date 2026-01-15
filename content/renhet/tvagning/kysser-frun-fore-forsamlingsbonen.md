@@ -1,6 +1,6 @@
 ---
 title: Kysser frun före församlingsbönen
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: Fatāwa al-Marahk
 categories: – Renhet (Tahārah) – Tvagning
 original_id: 1365

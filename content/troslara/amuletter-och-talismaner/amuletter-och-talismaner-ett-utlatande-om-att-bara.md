@@ -1,6 +1,6 @@
 ---
 title: Amuletter och talismaner – ett utlåtande om att bära dem
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 99 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
@@ -22,7 +22,7 @@ Det som bärs kommer från Koranen. De lärde har, både i tidiga och sena gener
 > 
 > 
 > 
-> ”Detta är en välsignad Skrift som Vi har uppenbarat för dig, [Muhammad].” [Koranen 38:29]
+> ”Detta är en välsignad Skrift som Vi har uppenbarat för dig, [Muḥammad].” [Koranen 38:29]
 
 Detta är då från Hans välsignelser när de bärs för att skydda mot det onda.
 

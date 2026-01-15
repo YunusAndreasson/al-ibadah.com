@@ -1,7 +1,7 @@
 ---
 title: Villkor för att stryka över sockar och om det är tillåtet att be i skor
 author: n/a
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. x s. ISBN saknas'
 categories: – Renhet (Tahārah) – Stryka över sockar
 original_id: 1443

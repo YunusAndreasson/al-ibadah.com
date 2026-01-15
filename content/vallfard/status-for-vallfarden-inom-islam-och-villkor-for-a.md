@@ -1,6 +1,6 @@
 ---
 title: Status för vallfärden inom islam och villkor för att det ska vara obligatoriskt
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Fatāwa Ibn ʿUthaymīn 21/9-11 Muhammed Knut Bernström (1421), Koranens budskap
  . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Vallfärd (Hajj)
@@ -14,7 +14,7 @@ description: 'Fråga: Vilken är pilgrimsfärdens status inom islam och för vil
 
 **Svar:** Pilgrimsfärden till Allāhs heliga hus är en av islams pelare och viktigaste fundament. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Islam är byggt på fem pelare: vittnesmålet om att det inte finns någon gud utom Allāh och att Muhammad är Allāhs sändebud, förrättandet av den obligatoriska bönen, betalning av allmosa, fastan under ramadan[^1] och vallfärden till Allāhs Heliga Hus.”
+> ”Islam är byggt på fem pelare: vittnesmålet om att det inte finns någon gud utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av den obligatoriska bönen, betalning av allmosa, fastan under ramadan[^1] och vallfärden till Allāhs Heliga Hus.”
 
 Vallfärden är obligatorisk enligt Allāhs skrift, Hans sändebuds *sunnah[^2]* och konsensus bland muslimer. Allāh säger:
 

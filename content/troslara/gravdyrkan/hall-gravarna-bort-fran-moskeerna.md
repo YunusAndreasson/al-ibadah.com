@@ -1,7 +1,7 @@
 ---
-title: Håll gravarna bort från moskérna
+title: Håll gravarna bort från moskéerna
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 180 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Gravdyrkan
 original_id: 86
@@ -24,7 +24,7 @@ Muslim har även återgivit att profeten – över honom vare Allāhs frid och v
 
 > ”Dem som levde före er brukade ta deras profeters och rättfärdigas gravar som platser för dyrkan, så ta inte gravar som platser för dyrkan. Jag förbjuder er att göra så.” [*Muslim* 532]
 
-Må Allāhs frid och välsignelser vara över profeten Muhammad, hans familj och följeslagare.
+Må Allāhs frid och välsignelser vara över profeten Muḥammad, hans familj och följeslagare.
 
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

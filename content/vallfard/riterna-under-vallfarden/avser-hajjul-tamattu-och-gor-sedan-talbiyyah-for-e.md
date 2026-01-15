@@ -1,7 +1,7 @@
 ---
 title: Avser hajjul-tamattu’ och gör sedan talbiyyah för en mufrid
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 106 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Riterna under vallfärden
 original_id: 749

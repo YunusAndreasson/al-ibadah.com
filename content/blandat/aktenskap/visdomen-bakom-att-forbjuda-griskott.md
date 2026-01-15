@@ -1,7 +1,7 @@
 ---
 title: Visdomen bakom att förbjuda griskött
-author: Muhammad bin Salih al-ʿUthaymin
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muḥammad bin Salih al-ʿUthaymin
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories: – Blandat – Äktenskap
 original_id: 1634
@@ -14,7 +14,7 @@ description: 'Fråga: Jag bor i Sverige och här säljs griskött på restaurang
 
 **Svar:** Allāh den Härlige, den Högste har förbjudit griskött på flera platser i Hans heliga skrift och muslimer är helt eniga om att det är förbjudet. Allāh den Härlige, den Högste har klargjort visdomen bakom detta förbud när Han säger: 
 
-> ”Säg [Muhammad]: 'I det som har uppenbarats för mig finner jag ingenting ätbart som är förbjudet utom självdöda djur, spillt blod eller svinkött – det är orent – eller det som i synd offrats till någon annan än Gud. Men den som tvingas [att äta sådant av hunger] – inte den som överträder [förbuden] av trots eller som går längre [än hungern driver honom] – [ska finna att] Gud är ständigt förlåtande, barmhärtig.” [Koranen 6:145]
+> ”Säg [Muḥammad]: 'I det som har uppenbarats för mig finner jag ingenting ätbart som är förbjudet utom självdöda djur, spillt blod eller svinkött – det är orent – eller det som i synd offrats till någon annan än Gud. Men den som tvingas [att äta sådant av hunger] – inte den som överträder [förbuden] av trots eller som går längre [än hungern driver honom] – [ska finna att] Gud är ständigt förlåtande, barmhärtig.” [Koranen 6:145]
 
 Allāh den Härlige, den Högste har förklarat visdomen i förbudet och denna visdom är rijs, dvs. att det är skadligt för en människas religion och kropp. Herren den Allsmäktige är Skaparen och Han vet vilken skada och vilken nytta som finns i Hans skapelser. När Allāh säger till oss att Han har förbjudit gris därför att den är oren vet vi att denna orenhet är skadlig för oss i vår religion och får våra kroppar. I detta fall säger vi till alla som frågar om visdomen bakom förbudet av fläsk att det är på grund av rijs, dvs. att det är orent och skadligt för kroppen och religion.
 

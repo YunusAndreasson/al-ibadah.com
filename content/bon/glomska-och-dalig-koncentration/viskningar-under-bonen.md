@@ -1,7 +1,7 @@
 ---
 title: Viskningar under bönen
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 205 s. ISBN saknas'
 categories: – Bön (Salāh) – Glömska och dålig koncentration
 original_id: 221

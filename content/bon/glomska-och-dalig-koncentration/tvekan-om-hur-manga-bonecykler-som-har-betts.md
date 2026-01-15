@@ -1,7 +1,7 @@
 ---
 title: Tvekan om hur många bönecykler som har betts
-author: Muhammad bin Sālih al-ʿUthaymīn
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muḥammad bin Sālih al-ʿUthaymīn
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 275 s. ISBN saknas'
 categories: – Bön (Salāh) – Glömska och dålig koncentration
 original_id: 274

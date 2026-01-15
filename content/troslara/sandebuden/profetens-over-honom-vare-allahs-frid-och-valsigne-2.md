@@ -2,7 +2,7 @@
 title: profetens – över honom vare Allāhs frid och välsignelser – giftermål med flera
  kvinnor
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 296 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Sändebuden
 original_id: 127
@@ -13,7 +13,7 @@ description: 'Fråga: Varför gifte sig profeten med flera kvinnor? Svar: Den ob
 
 **Fråga:** Varför gifte sig profeten med flera kvinnor?
 
-**Svar:** Den obegränsade visdomen tillhör Allāh och det är en del av Hans visdom att Han den Upphöjde i de tidigare uppenbarade lagarna samt i profeten Muhammads lag har tillåtit att män formar äktenskapsband med mer än en fru.
+**Svar:** Den obegränsade visdomen tillhör Allāh och det är en del av Hans visdom att Han den Upphöjde i de tidigare uppenbarade lagarna samt i profeten Muḥammads lag har tillåtit att män formar äktenskapsband med mer än en fru.
 
 Tillåtelse för att gifta sig med mer än en kvinna är inte något som gäller enbart vår Profet. Jakob hade två fruar och Salomon, Davids son, hade hela 99 fruar. David hade intim samvaro med under en natt i hopp om att Allāh skulle välsigna honom med en son som skulle strida för Allāhs sak.
 

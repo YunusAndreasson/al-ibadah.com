@@ -13,7 +13,7 @@ description: 'Fråga: Det har bevisats att Allāhs sändebud – må Allāhs fri
 
 **Svar:** All lovprisan tillhör Allāh. Den som kommer till böneplatsen för att be *‘eid*-bönen bör inte be hälsningsbönen till moskén[^2] före denne sätter sig ned då detta skiljer sig mot hur profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare brukade göra. Och Allāh är källan till all styrka.
 
-Må Allāh välsigna vår profet Muhammad, hans familj och följeslagare.
+Må Allāh välsigna vår profet Muḥammad, hans familj och följeslagare.
 
 [^1]: Rakah.
 [^2]: Tahiyyatul-Msjid.

@@ -1,7 +1,7 @@
 ---
 title: Kontroll av vilka som inte är närvarande vid nattbönen eller gryningsbönen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 338 s. ISBN saknas'
 categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 309

@@ -1,6 +1,6 @@
 ---
 title: Uppriktighet i vallfärden
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Fatāwa Ibn ʿUthaymīn 21/18 Muhammed Knut Bernström (1421), Koranens budskap
  . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Vallfärd (Hajj) – Blandade utlåtanden
@@ -30,9 +30,9 @@ Enligt en sann *hadīth[^1] qudsi* säger profeten – över honom vare Allāhs
 
 > ”Allāh – må Han var välsignad och upphöjd – säger: 'Jag är Mig Själv så nog att jag inte är i behov av att ha någon medhjälpare. Den som då utför en handling för både någon annans skull och Min, [denne] kommer att få den handlingen avvisad av Mig för vad denne satte vid Min sida.'”
 
-Det som avses med uppriktighet mot Allāh i dyrkan är att inget motiverar denne att dyrka utom kärlek och vördnad av Allāh och hopp om Hans belöningar och välbehag. Därför säger Allāh om Muhammad:
+Det som avses med uppriktighet mot Allāh i dyrkan är att inget motiverar denne att dyrka utom kärlek och vördnad av Allāh och hopp om Hans belöningar och välbehag. Därför säger Allāh om Muḥammad:
 
-> ”Muhammad är Guds Sändebud. De som följer honom är oböjligt fasta mot dem som förnekar sanningen, men sinsemellan fulla av värme och vänskap. Du ser hur de böjer ryggen och faller ned inför Gud i tillbedjan och säker Hans nåd och Hans välbehag; i sina ansikten bär de spåren av [de många] nedfallen under bönen.” [Koranen 48:29]
+> ”Muḥammad är Guds Sändebud. De som följer honom är oböjligt fasta mot dem som förnekar sanningen, men sinsemellan fulla av värme och vänskap. Du ser hur de böjer ryggen och faller ned inför Gud i tillbedjan och säker Hans nåd och Hans välbehag; i sina ansikten bär de spåren av [de många] nedfallen under bönen.” [Koranen 48:29]
 
 Ingen dyrkan, oavsett om det är vallfärden eller något annat, kommer att accepteras om denne gör det för att imponera på andra människor eller för att andra människor ska se och säga: ”Så ädel den och den är, så mycket denne dyrkar Allāh”.
 

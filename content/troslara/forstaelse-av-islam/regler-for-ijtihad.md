@@ -1,7 +1,7 @@
 ---
 title: Regler för ijtihād
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 368 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 150
@@ -16,7 +16,7 @@ description: 'Fråga: Anses dörren till ijtihād, för att formulera nya utlåt
 
 Gällande denna *hadīth[^3]*: ”*Jag varnar er för att utfärda domar, på samma sätt som jag varnar er för Elden*.” [*ad-Darimi*, 157] Denna har al-Hafiz ʿAbdullad bin ʿAbdur-Rahmān ad-Darimi återgivit i sin *Sunan* från 'Ubaidullah bin Abi Ja'far al-Misri i en form som är *mursal*.
 
-Må frid och välsignelser var över vår Profet Muhammad, hans familj och följeslagare.
+Må frid och välsignelser var över vår Profet Muḥammad, hans familj och följeslagare.
 
 [^1]: Den ansträngning en islamskt lärd gör för att lägga fram ett utlåtande som inte är uppenbart.
 [^2]: Någon som utöver ijtihad.

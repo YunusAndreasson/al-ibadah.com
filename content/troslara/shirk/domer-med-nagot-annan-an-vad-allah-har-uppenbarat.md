@@ -1,6 +1,6 @@
 ---
 title: Dömer med något annan än vad Allāh har uppenbarat
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 217 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
@@ -25,7 +25,7 @@ Förstår du detta, då ska du veta att den som dömer med något annat än vad 
 
 Den första kategorin. Här gäller Allāhs den Upphöjdes ord:
 
-> ”Har du inte lagt märke till dem som säger sig tro på det som har uppenbarats för dig och det som uppenbarades före din tid, hur de villigt underkastar sig onda makters dom, fastän de har uppmanats att förneka dem? Men djävulens avsikt är att driva dem till syndens yttersta gräns. Och när någon säger till dem: ’Kom, låt oss samlas kring det som Gud har uppenbarat och kring Sändebudet’, ser du [dessa] hycklare vända sig bort fulla av ovilja. Och om de drabbas av en motgång på grund av sina [egna] handlingar, kommer de till dig och försäkrar vid Gud: ’Vi ville bara göra gott och jämka samman [olika åsikter]’. Gud vet vad dessa människor döljer i sitt innersta. Håll dig därför ifrån dem, men varna dem och tala allvarligt med dem om deras själar. Om Vi sänder ett sändebud är det för att han med Guds hjälp ska göra sig åtlydd. Men om de kommer till dig efter att ha gjort sig själva orätt [med sin synd] för att be om Guds förlåtelse, och om Sändebudet ber om förlåtelse för dem, ska de finna att Gud i Sin barmhärtighet tar emot den ångerfulles ånger. Nej, vid din Herre! De är inte [sanna] troende förrän de sätter dig [Muhammad] som domare att döma mellan sig i alla sina tvister och därefter inte i sitt inre har någon invändning mot sina beslut utan underkastar sig dem helt och fullt.” [Koranen 4:60 – 65]
+> ”Har du inte lagt märke till dem som säger sig tro på det som har uppenbarats för dig och det som uppenbarades före din tid, hur de villigt underkastar sig onda makters dom, fastän de har uppmanats att förneka dem? Men djävulens avsikt är att driva dem till syndens yttersta gräns. Och när någon säger till dem: ’Kom, låt oss samlas kring det som Gud har uppenbarat och kring Sändebudet’, ser du [dessa] hycklare vända sig bort fulla av ovilja. Och om de drabbas av en motgång på grund av sina [egna] handlingar, kommer de till dig och försäkrar vid Gud: ’Vi ville bara göra gott och jämka samman [olika åsikter]’. Gud vet vad dessa människor döljer i sitt innersta. Håll dig därför ifrån dem, men varna dem och tala allvarligt med dem om deras själar. Om Vi sänder ett sändebud är det för att han med Guds hjälp ska göra sig åtlydd. Men om de kommer till dig efter att ha gjort sig själva orätt [med sin synd] för att be om Guds förlåtelse, och om Sändebudet ber om förlåtelse för dem, ska de finna att Gud i Sin barmhärtighet tar emot den ångerfulles ånger. Nej, vid din Herre! De är inte [sanna] troende förrän de sätter dig [Muḥammad] som domare att döma mellan sig i alla sina tvister och därefter inte i sitt inre har någon invändning mot sina beslut utan underkastar sig dem helt och fullt.” [Koranen 4:60 – 65]
 
 Allāh den Upphöjde har berättat att de som påstår sig vara troende men som i själva verket är hycklare besitter vissa kännetecken:
 

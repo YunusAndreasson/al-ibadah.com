@@ -1,6 +1,6 @@
 ---
 title: Överföra allmosa till en annan plats än där den är en skyldighet
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 609 s. ISBN 9960-892-66-2'
 categories: – Allmosa (Zakāh) – Betala allmosan i ett annat land

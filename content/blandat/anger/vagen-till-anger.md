@@ -1,7 +1,7 @@
 ---
 title: Vägen till ånger
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 246 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Blandat – Ånger
@@ -17,7 +17,7 @@ Jag har två grupper av vänner och ingen av dem är praktiserande muslimer. Des
 
 **Svar:** Allāh den Högste säger:
 
-> ”Säg [Muhammad] till Mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [Mina bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet.” [Koranen 39:53]
+> ”Säg [Muḥammad] till Mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [Mina bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet.” [Koranen 39:53]
 
 De lärde är ense om att denna vers uppenbarades för dem som ångrar sig. Allāh den Allsmäktige förlåter alla synder från en person som ångrar sig uppriktigt. Detta baserat på denna förra versen samt:
 

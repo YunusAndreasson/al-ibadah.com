@@ -1,7 +1,7 @@
 ---
 title: Skjuta upp att ta igen fastedagarna
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 310 s. ISBN saknas'
 categories: – Fasta (Sawm) – Ta igen missad fasta
 original_id: 463

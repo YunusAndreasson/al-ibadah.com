@@ -1,6 +1,6 @@
 ---
 title: Shaykh ul-Islām ibn Taymiyyahs och as-Asha'irahs syn på Allāhs namn och egenskaper
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 102 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
@@ -15,7 +15,7 @@ description: 'Fråga: I vissa länder lär sig eleverna i de islamiska skolorna 
 
 1. Shaykh ul-Islām Ibh Taymiyyahs och hans elevers skola,
 2. al-Asha’irah [Namngiven efter Abul-Hasan al-Ashʿari som ironiskt nog avvisade sina trosprinciper och antog *ahlus-sunnah[^1] wal-jamā’ats* innan han gick bort] och
-3. maturidiyyah [En skola namngiven efter Abū Mansur Muhammad al-Maturidi [d. 944 CE]. Deras trosprinciper är likvärdiga med al-Asha’irah]?
+3. maturidiyyah [En skola namngiven efter Abū Mansur Muḥammad al-Maturidi [d. 944 CE]. Deras trosprinciper är likvärdiga med al-Asha’irah]?
 
 Vad anser muslimer om de lärde som gör *ta’wil* [Tolkning, när det hänvisar till en felaktig tolkning. Det betyder att man ändrar en mening för att den ska samstämma med ens egen tro]?
 

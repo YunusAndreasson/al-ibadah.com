@@ -2,7 +2,7 @@
 title: Åt medan han var osäker på om tiden för gryningsbönen var inne eller som solen
  hade gått ned
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 256 s. ISBN saknas'
 categories: – Fasta (Sawm) – Bryta och påbörja fastan
 original_id: 410

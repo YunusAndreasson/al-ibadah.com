@@ -1,13 +1,13 @@
 ---
-title: Muhammad Nāsir-ud-Dīn al-Albānī
+title: Muḥammad Nāsir-ud-Dīn al-Albānī
 categories: – Biografier
 original_id: 12
 description: '"Sedan den dagen jag träffade honom lämnade han aldrig fastan under
  måndagar och torsdagar om det inte var så att han reste eller var sjuk." [Muhaddith
- al-ʿAsr Muhammad Nāsiruddīn al-Albānī, sida 3...'
+ al-ʿAsr Muḥammad Nāsiruddīn al-Albānī, sida 3...'
 ---
 
-"Sedan den dagen jag träffade honom lämnade han aldrig fastan under måndagar och torsdagar om det inte var så att han reste eller var sjuk." [Muhaddith al-ʿAsr Muhammad Nāsiruddīn al-Albānī, sida 39]
+"Sedan den dagen jag träffade honom lämnade han aldrig fastan under måndagar och torsdagar om det inte var så att han reste eller var sjuk." [Muhaddith al-ʿAsr Muḥammad Nāsiruddīn al-Albānī, sida 39]
 
 Han föddes år 1332 AH i Ashkodera som då var huvudstad i Albanien. Familjen var fattig. Hans fader, al-Hāj Nooh Najjātī al-Albānī, hade studerat den islamiska lagen i Istanbul och återvänt som en lärd till Albanien. När ateism intog Albanien emigrerade familjen till Damaskus. Där avslutade al-Albānī sin första utbildning och lärdes då Koranen, tajwīd[^1], arabiska, fiqh[^2], den hanafitiska rättsskolan och andra grenar av religiöst vetande från olika lärde och vänner till fadern.
 
@@ -31,7 +31,7 @@ Därefter återvände han till sina tidigare studier och arbete i al-Maktabah ad
 
 Han besökte flera länder för att göra da’wah och för att hålla föreläsningar. Däribland Qatar, Egypten, Kuwait, Emiraterna, Spanien och England. Han tvingades att emigrera ett flertal gånger. Han flyttade från Syrien till Jordanien, sedan Syrien igen, därpå Beirut, sedan Emiraterna och därefter till ’Ammān i Jordanien. Hans arbeten, främst inom *hadīth[^3]* och dess olika grenar, uppgår till över 100.
 
-Han har haft många studenter, exempelvis: Shaykh Hamdī ʿAbdul-Majīd, Shaykh Muhammad ʿĪd 'Abbāsī, Dr. ʿUmar Sulaymān al-Ashqar, Shaykh Muhammad lbrahīm Shaqrah, Shaykh Muqbil ibn Hādī al-Wādi'ī, Shaykh 'Alī Khushshān, Shaykh Muhammad Jamīl Zaynū, Shaykh ʿAbdur-Rahmān Abdus-Samad, Shaykh 'Alī Hasan ʿAbdul-Hamīd al-Halabī, Shaykh Salīm al-Hilālī.
+Han har haft många studenter, exempelvis: Shaykh Hamdī ʿAbdul-Majīd, Shaykh Muḥammad ʿĪd 'Abbāsī, Dr. ʿUmar Sulaymān al-Ashqar, Shaykh Muḥammad lbrahīm Shaqrah, Shaykh Muqbil ibn Hādī al-Wādi'ī, Shaykh 'Alī Khushshān, Shaykh Muḥammad Jamīl Zaynū, Shaykh ʿAbdur-Rahmān Abdus-Samad, Shaykh 'Alī Hasan ʿAbdul-Hamīd al-Halabī, Shaykh Salīm al-Hilālī.
 
 Han avled söndagen den 22:e Jumādā ath-Thāniyah 1420 AH. Han var då 87 år gammal. Må Allāh den Högste ha nåd över hans själ. Āmīn.
 

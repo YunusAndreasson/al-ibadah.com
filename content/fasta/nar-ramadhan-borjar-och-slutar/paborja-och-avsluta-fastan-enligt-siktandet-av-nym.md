@@ -1,9 +1,9 @@
 ---
 title: Påbörja och avsluta fastan enligt siktandet av nymånen
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 224 s. ISBN saknas'
-categories: – Fasta (Sawm) – När ramadhan börjar och slutar
+categories: – Fasta (Sawm) – När ramadan börjar och slutar
 original_id: 1390
 description: 'All lovprisan tillhör Allāh och må välsignelser och frid vara över Allāhs
  sändebud, hans familj och hans följeslagare och de som följer hans vägledning. Vidare: Många
@@ -18,7 +18,7 @@ Svaret på denna fråga är att sannerligen har man genom ett antal olika led be
 
 *Ahādīth[^1]* med denna innebörd är många och de bevisar att det som spelar roll antingen är att man siktar nymånen eller att ett visst antal dagar har gått.
 
-När det gäller beräkning ska man inte lita på dem. Detta är sanningen och konsensus bland de lärda som anses ha auktoritet. Avsikten med denna *hadīth[^1]* är inte att varje person måste se nymånen själv. I stället är innebörden enbart att det finns ett tydligt och pålitligt bevittnande. Abū Dawūd har med en autentisk berättarkedja återgivit från Ibn ʿUmar att han har sagt: ”*Folket spanade efter nymånen så jag sade till profeten – över honom vare Allāhs frid och välsignelser – att jag såg den. Därför fastade han och han beordrade folket att fasta*.” Ahmad och de som har sammanställt sunan har återgivit en *hadīth[^1]* som Ibn Khuzaymah och Ibn Hibban har graderat som autentisk från Ibn ‘Abbās . En beduin kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: ”*Sannerligen, jag såg nymånen*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Vittnar du om att ingen har rätt att bli dyrkad utom Allāh och att Muhammad är Allāhs sändebud?*” [*Abū Dawūd* 2340] Mannen sade då: ”*Ja*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Bilal! Meddela folket att be bör fasta imorgon*.”
+När det gäller beräkning ska man inte lita på dem. Detta är sanningen och konsensus bland de lärda som anses ha auktoritet. Avsikten med denna *hadīth[^1]* är inte att varje person måste se nymånen själv. I stället är innebörden enbart att det finns ett tydligt och pålitligt bevittnande. Abū Dawūd har med en autentisk berättarkedja återgivit från Ibn ʿUmar att han har sagt: ”*Folket spanade efter nymånen så jag sade till profeten – över honom vare Allāhs frid och välsignelser – att jag såg den. Därför fastade han och han beordrade folket att fasta*.” Ahmad och de som har sammanställt sunan har återgivit en *hadīth[^1]* som Ibn Khuzaymah och Ibn Hibban har graderat som autentisk från Ibn ‘Abbās . En beduin kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: ”*Sannerligen, jag såg nymånen*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Vittnar du om att ingen har rätt att bli dyrkad utom Allāh och att Muḥammad är Allāhs sändebud?*” [*Abū Dawūd* 2340] Mannen sade då: ”*Ja*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Bilal! Meddela folket att be bör fasta imorgon*.”
 
 Det har rapporterats att ʿAbdur-Rahmān bin Zaid bin al-Khattab predikade under en dag då det rådde tvivel [om de skulle fasta eller inte]. Han sade då:
 
@@ -40,7 +40,7 @@ I ett islamiskt land, där är det obligatoriskt att lita på vad de lärde säg
 
 Jag ber Allāh att Han hjälper oss och alla muslimer med att förstå Hans religion, att vara stadiga vid den, att döma med den, att hänvisa till den för domar och att undvika allt som motsäger sig den. Sannerligen, Han är den Generöse, den Ädle.
 
-Må Allāh sända välsignelser och frid över Hans tjänare och sändebud, vår profet Muhammad, och hans familj och hans följeslagare.
+Må Allāh sända välsignelser och frid över Hans tjänare och sändebud, vår profet Muḥammad, och hans familj och hans följeslagare.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

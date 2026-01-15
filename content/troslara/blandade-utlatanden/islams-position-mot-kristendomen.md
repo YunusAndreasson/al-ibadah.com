@@ -1,7 +1,7 @@
 ---
 title: Islams position mot kristendomen
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 131 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
@@ -39,7 +39,7 @@ Och Han den Upphöjde säger:
 
 Och Han säger:
 
-> ”Efter [dessa profeter] sände Vi Jesus, Marias son, med bekräftelse av allt det som ännu bestod av Tora och Vi skänkte honom evangeliet, som gav vägledning och ljus och bekräftade det som ännu bestod av Tora – där fanns vägledning och förmaningar till de Gud-fruktiga. Låt därför dem som följer Evangeliet döma enligt vad Gud där har uppenbarat; de som inte dömer enligt vad Gud har uppenbarat är syndare som trotsar Gud. [Muhammad!] Vi har uppenbarat Koranen för dig med sanningen som bekräftar det som består av [äldre tiders] uppenbarade Skrifter och var uppgift det är att vaka över det. Döm mellan dem [som följer dessa Skrifter] på grundval av det som Gud har uppenbarat [för dig] och ge inte efter för deras önskningar [som står i strid] med sanningen som du har fått ta emot. För var och en av er har Vi fastställt en lag och en levnadsregel. Om Gud hade velat hade Han helt visst gjort er till ett enda samfund, men det var Hans vilja att sätta er på prov genom det som Han har skänkt er. Tävla därför med varandra om att göra gott! Till Gud ska ni alla vända åter och Han ska upplysa er om allt det som ni var oense om.” [Koranen 5:46 – 48]
+> ”Efter [dessa profeter] sände Vi Jesus, Marias son, med bekräftelse av allt det som ännu bestod av Tora och Vi skänkte honom evangeliet, som gav vägledning och ljus och bekräftade det som ännu bestod av Tora – där fanns vägledning och förmaningar till de Gud-fruktiga. Låt därför dem som följer Evangeliet döma enligt vad Gud där har uppenbarat; de som inte dömer enligt vad Gud har uppenbarat är syndare som trotsar Gud. [Muḥammad!] Vi har uppenbarat Koranen för dig med sanningen som bekräftar det som består av [äldre tiders] uppenbarade Skrifter och var uppgift det är att vaka över det. Döm mellan dem [som följer dessa Skrifter] på grundval av det som Gud har uppenbarat [för dig] och ge inte efter för deras önskningar [som står i strid] med sanningen som du har fått ta emot. För var och en av er har Vi fastställt en lag och en levnadsregel. Om Gud hade velat hade Han helt visst gjort er till ett enda samfund, men det var Hans vilja att sätta er på prov genom det som Han har skänkt er. Tävla därför med varandra om att göra gott! Till Gud ska ni alla vända åter och Han ska upplysa er om allt det som ni var oense om.” [Koranen 5:46 – 48]
 
 Och Han säger:
 
@@ -85,7 +85,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Profeterna är bröder, deras religion är en och deras mödrar är olika.” [*al-Bukhārī* 3433 och *Muslim* 2365]
 
-Därmed kan vi säga att dem som trodde på grunderna i lagarna som gavs till profeterna och sändebuden kommer Allāh att vara nöjd med Han kommer att ge dem lycka och framgång. Det är dem som Allāh prisar i Sin skrift och som vår profet Muhammad – över honom vare Allāhs frid och välsignelser – lovordar i sin *sunnah[^1]*. Den som trodde på några av grunderna som de förde med sig från Allāh, men som inte trodde på andra, de tror sannerligen inte på någon av dem. Det är nödvändigt att acceptera grundernas enhet och tro på dem alla. Allāh har förberett en hemvist i Helvetesleden för dem [...] Det är dem som Allāh tillrättavisar i Sin skrift och Hans sändebud tillrättavisar dem i sin *sunnah[^1]*.
+Därmed kan vi säga att dem som trodde på grunderna i lagarna som gavs till profeterna och sändebuden kommer Allāh att vara nöjd med Han kommer att ge dem lycka och framgång. Det är dem som Allāh prisar i Sin skrift och som vår profet Muḥammad – över honom vare Allāhs frid och välsignelser – lovordar i sin *sunnah[^1]*. Den som trodde på några av grunderna som de förde med sig från Allāh, men som inte trodde på andra, de tror sannerligen inte på någon av dem. Det är nödvändigt att acceptera grundernas enhet och tro på dem alla. Allāh har förberett en hemvist i Helvetesleden för dem [...] Det är dem som Allāh tillrättavisar i Sin skrift och Hans sändebud tillrättavisar dem i sin *sunnah[^1]*.
 
 Allāh den Upphöjde säger:
 
@@ -141,7 +141,7 @@ Det är dessa som Allāhs nåd omsluter och som förtjänar Hans prisande – de
 
 Om någon vill studera denna fråga vidare, då bör denne vända sig till Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*. Den som begrundar Koranens verser och de autentiska *ahādīth[^2]* från profeten, och som studerar det som autentisk har nedtecknats i historien – utan att vara vinklat – och som inte förlitar sig på ytlig spekulation, denne kommer då att tydligt se sanningen och vägledas till den raka vägen.
 
-Må frid och välsignelser vara över Muhammad, hans familj och hans följeslagare.
+Må frid och välsignelser vara över Muḥammad, hans familj och hans följeslagare.
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen

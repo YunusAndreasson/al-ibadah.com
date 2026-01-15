@@ -1,6 +1,6 @@
 ---
 title: Bryta fastan för att stärka sig inför ‘umrah när man kommer till Mecka
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 111 s. ISBN 9960-892-66-2'
 categories: – Fasta (Sawm) – Resenärens fasta

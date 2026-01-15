@@ -1,7 +1,7 @@
 ---
 title: Söka bot genom amuletter och de som talar med jinn
 author: Ibn ʿAbdullah Ibn Bāz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 49 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Amuletter och talismaner
 original_id: 40
@@ -19,7 +19,7 @@ description: 'Fråga: När någon lider av epilepsi går denne till någon arabi
 > 
 > 
 > 
-> ”Den som besöker en teckentydare eller siare och tror på honom, har sannerligen förnekat vad som har uppenbarats för Muhammad.” [*Abū Dawūd* 3904, *at-Tirmithi* 135, 639; *Ahmad* 2:408 och 476.]
+> ”Den som besöker en teckentydare eller siare och tror på honom, har sannerligen förnekat vad som har uppenbarats för Muḥammad.” [*Abū Dawūd* 3904, *at-Tirmithi* 135, 639; *Ahmad* 2:408 och 476.]
 
 Andra *ahādīth[^3]* av vikt i denna fråga understryker att det är förbjudet att rådfråga siare samt slagrutemän. Det är dem som påstår sig känna till det som är dolt för människor[^2], söker hjälp från *jinn[^1]* eller vars beteende påvisar detta. Det är dessa människor vars hantverk profeten – över honom vare Allāhs frid och välsignelser – beskrev som djävulens hantverk då han sade: ”*Det [an-nushrah[^4]] är djävulens hantverk*.” [*Abū Dawūd* 3868]
 

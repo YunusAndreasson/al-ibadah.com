@@ -2,7 +2,7 @@
 title: Hittade inte vatten efter den stora rituella orenheten, gjorde tayammum och
  bad
 author: Ibn ʿAbdur-Rahman al-Jibrin
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 76 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Tayammum [Tvagning utan vatten]
 original_id: 1431

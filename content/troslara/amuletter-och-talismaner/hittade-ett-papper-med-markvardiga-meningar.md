@@ -1,7 +1,7 @@
 ---
 title: Hittade ett papper med märkvärdiga meningar
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 48 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Amuletter och talismaner
 original_id: 39
@@ -18,7 +18,7 @@ description: 'Fråga: Min respekterade shaykh, på vägen hittade jag ett papper
 
 Denne bör ångra sig inför Allāh för detta.
 
-Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muhammad samt göra honom, hans hushåll och följeslagare säkra från ont.
+Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muḥammad samt göra honom, hans hushåll och följeslagare säkra från ont.
 
 [^1]: Maghrib
 [^2]: Dhikr

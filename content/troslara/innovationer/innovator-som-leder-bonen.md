@@ -1,7 +1,7 @@
 ---
 title: Innovatör som leder bönen
 author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 397 s. ISBN saknas'
 categories: – Troslära (ʿAqīdah) – Innovationer
 original_id: 1572
@@ -22,7 +22,7 @@ Om han låter sitt klädesplagg hänga ned på grund av stolthet och arrogans, d
 
 Muslimer måste känna till vad Allāh har förbjudit, vilket inkluderar att låta *izār* hänga nedanför vristen och andra synder, precis som det är en skyldighet att känna till alla innovationer. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [*Muslim* 1718] Detta återger Muslim i sin *Sahīh*.
 
-Han har även sagt: ”*Det bästa talet är Allāhs skrift och den bästa vägledning är Muhammads och det värsta inom religiösa frågor är nya innovationer och varje innovation är villfarelse*.” [*Muslim* 867]
+Han har även sagt: ”*Det bästa talet är Allāhs skrift och den bästa vägledning är Muḥammads och det värsta inom religiösa frågor är nya innovationer och varje innovation är villfarelse*.” [*Muslim* 867]
 
 Vi ber Allāh att Han skyddar oss och Muslimerna från innovationer, synder och olydnad.
 

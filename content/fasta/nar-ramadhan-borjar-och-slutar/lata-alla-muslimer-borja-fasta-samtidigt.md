@@ -1,10 +1,10 @@
 ---
 title: Låta alla muslimer börja fasta samtidigt
-author: Muhammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 626 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Fasta (Sawm) – När ramadhan börjar och slutar
+categories: – Fasta (Sawm) – När ramadan börjar och slutar
 original_id: 1258
 description: 'Fråga: Somliga manar till att alla ska följa månens siktande i Mecka
  för att det muslimska samfundet under den välsignade ramadan ska börja fastan
