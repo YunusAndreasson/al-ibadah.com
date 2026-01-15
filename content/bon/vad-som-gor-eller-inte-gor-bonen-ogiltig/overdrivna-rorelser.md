@@ -16,7 +16,7 @@ description: 'Fråga: Jag noterar att vissa bröder under bönen i moskén iblan
 
 **Svar:** Att röra sig under bönen är i grund och botten förhatligt utom om det är nödvändigt. I så fall finns det en uppdelning i fem kategorier: nödvändiga, förbjudna, hatade/ogillade, föredragna och tillåtna rörelser.
 
-De nödvändiga rörelserna är de som krävs för att bönen ska vara giltig. Detta kan vara om man ser smuts på ett klädesplagg och det därmed blir obligatoriskt att röra sig för att kunna ta bort det. Anledningen är att när Jibrīl kom till profeten – över honom vare Allāhs frid och välsignelser – medan han ledde folket i bön och informerade honom om att det fanns något skadligt på hand sko, då tog han bort det när han bad. [*Abū Dawūd* 650] Ett annat exempel är om någon informerar en person som ber om att denne inte står i riktning mot *qiblah[^1]*, då måste dennes röra sig tills denne är vänd mot *qiblah[^1]*.
+De nödvändiga rörelserna är de som krävs för att bönen ska vara giltig. Detta kan vara om man ser smuts på ett klädesplagg och det därmed blir obligatoriskt att röra sig för att ta bort det. Anledningen är att när Jibrīl kom till profeten – över honom vare Allāhs frid och välsignelser – medan han ledde folket i bön och informerade honom om att det fanns något skadligt på hand sko, då tog han bort det när han bad. [*Abū Dawūd* 650] Ett annat exempel är om någon informerar en person som ber om att denne inte står i riktning mot *qiblah[^1]*, då måste dennes röra sig tills denne är vänd mot *qiblah[^1]*.
 
 Förbjudna rörelser är upprepade och onödig rörelser. Anledningen är att dessa rörelser gör bönen ogiltig som gör bönen ogiltig är förbjudet. Detta beror på är att det är en sorts hån mot Allāhs verser.
 

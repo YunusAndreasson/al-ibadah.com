@@ -17,7 +17,7 @@ description: 'Fråga: Jag hade en viktig plikt att utföra och tiden för bönen
 
 **Svar:** När en muslim är ombord på ett flyplan eller i öken måste han göra sitt bästa för att ta reda på riktningen mot *qiblah[^1]*. Detta kan ske genom att han frågar någon som vet eller att han tittar på tecken som visar riktningen, allt för att han ska vara säker på att han ber mot *qiblah[^1]*.
 
-Är det svårt att ta reda på detta, då måste han försöka uppskatta och ta reda på riktningen mot *qiblah[^1]* för att kunna be mot den. Gör han det är det tillräckligt även om det senare blir uppenbart att han har misstagit sig i sin uppskattning. Anledningen är att han ansträngde sig till den grad han kunde och att han fruktade Allāh.
+Är det svårt att ta reda på detta, då måste han försöka uppskatta och ta reda på riktningen mot *qiblah[^1]* för att be mot den. Gör han det är det tillräckligt även om det senare blir uppenbart att han har misstagit sig i sin uppskattning. Anledningen är att han ansträngde sig till den grad han kunde och att han fruktade Allāh.
 
 Det är inte tillåtet att be den obligatoriska bönen på ett flygplan eller i öknen utan att anstränga sig för att ta reda på riktningen mot *qiblah[^1]*. Den som inte gör detta måste upprepa bönen. Denne fruktade inte Allāh så mycket som denne borde ha gjort och denne ansträngde sig inte tillräckligt.
 

@@ -25,7 +25,7 @@ Den första åsikten är dock den korrekta, baserat på den *hadīth[^1]* som ha
 
 Profeten – över honom vare Allāhs frid och välsignelser – har även sagt: ”*Om jag beordrar er att göra någonting, gör det då så mycket som ni har möjlighet till*.” [*Muslim* 1337 och *Ahmad* 2:2 och 508]
 
-Det råder ingen tvekan om att bön i församlingen är en del av att frukta Allāh och en del av vad den islamiska lagen föreskriver. Därför måste man vara noga med att göra det så mycket som möjligt. Det är inte rätt att motsäga sig autentiska *ahādīth[^1]* baserat på åsikter från lärde som ogillar att bönen upprepas i moskén; i stället är det obligatoriskt att handla enligt det som autentiska *ahādīth[^1]* bevisar. Är det känt att en individ eller en grupp avsiktligen kommer försent, eller om det är känt att deras sekt kommer för sent för att kunna be tillsammans, då måste de ansvariga straffa dem på det sätt som känns lämpligt, för att hindra dem från att göra detta.
+Det råder ingen tvekan om att bön i församlingen är en del av att frukta Allāh och en del av vad den islamiska lagen föreskriver. Därför måste man vara noga med att göra det så mycket som möjligt. Det är inte rätt att motsäga sig autentiska *ahādīth[^1]* baserat på åsikter från lärde som ogillar att bönen upprepas i moskén; i stället är det obligatoriskt att handla enligt det som autentiska *ahādīth[^1]* bevisar. Är det känt att en individ eller en grupp avsiktligen kommer försent, eller om det är känt att deras sekt kommer för sent för att be tillsammans, då måste de ansvariga straffa dem på det sätt som känns lämpligt, för att hindra dem från att göra detta.
 
 På detta sätt kommer dörren till splittring att stängas och sekterna uppnår inte deras mål.
 

@@ -8,11 +8,11 @@ categories:
 - De som får ta emot allmosa
 original_id: 637
 description: 'Fråga: Det finns en religiös ung man som vill gifta sig och det råder
- inga tvivel om att han behöver hjälp för att kunna göra det. Får jag ge honom allmosa
+ inga tvivel om att han behöver hjälp för att göra det. Får jag ge honom allmosa
  för att hjälpa till med äktenskapet? ...'
 ---
 
-**Fråga:** Det finns en religiös ung man som vill gifta sig och det råder inga tvivel om att han behöver hjälp för att kunna göra det. Får jag ge honom allmosa för att hjälpa till med äktenskapet?
+**Fråga:** Det finns en religiös ung man som vill gifta sig och det råder inga tvivel om att han behöver hjälp för att göra det. Får jag ge honom allmosa för att hjälpa till med äktenskapet?
 
 **Svar:** Det är tillåtet att betala allmosa till denne unge man för att hjälpa honom att gifta sig om han inte har råd med det.
 

@@ -13,7 +13,7 @@ description: 'Fråga: Min far var mentalt sjuk under en lång tid och han åkte 
 
 **Fråga:** Min far var mentalt sjuk under en lång tid och han åkte ut och in från sjukhuset. Några av mina släktingar sade till mig att gå till en kvinna som kände till botemedel mot mentalsjukdomar. De sade även: ”Säg endast ditt namn och hon kommer att berätta vad det är för slags sjukdom och vilket botemedlet är.” Är det tillåtet att gå till denna kvinna?
 
-**Svar:** Det är inte tillåtet att besöka, rådfråga eller tro på denna kvinna eller hennes likar. Detta beror på att hon är en siare eller trollpacka som påstår sig känna till det som är dolt för människor[^1]. De använder även *jinn[^2]* för att kunna bota och påstå olika saker. Profeten – över honom vare Allāhs frid och välsignelser – sagt:
+**Svar:** Det är inte tillåtet att besöka, rådfråga eller tro på denna kvinna eller hennes likar. Detta beror på att hon är en siare eller trollpacka som påstår sig känna till det som är dolt för människor[^1]. De använder även *jinn[^2]* för att bota och påstå olika saker. Profeten – över honom vare Allāhs frid och välsignelser – sagt:
 
 > ”Den som besöker en spåman och frågar honom om råd, ingen bön kommer att accepteras från denne under 40 dagar.” [*Muslim* 2230, *Ahmad* 4:68 och 5:380]
 
