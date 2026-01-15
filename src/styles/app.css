@@ -277,8 +277,7 @@ body {
   font-size: 0.8125rem;
   line-height: 1.6;
   color: var(--color-muted-foreground);
-  border-top: 1px solid var(--color-border);
-  margin-top: 4rem;
+  margin-top: 2rem;
   padding-top: 1.5rem;
 }
 
