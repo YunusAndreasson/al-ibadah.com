@@ -22,7 +22,6 @@ Detta har Muslim nedtecknat.
 
 Det finns även en *hadīth[^2]* från Jabir bin Abdullāh om när Allāhs sändebud – över honom vare Allāhs frid och välsignelser – reste och han såg en man som folket hade samlats kring. Man hade ordnat så att han fick skugga, så profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Vad är det för fel på honom?*” De svarade: ”*Han är en man som fastar*.” Allāhs sändebud – över honom vare Allāhs frid och välsignelser – sade då: ”*Det är inte rättfärdigt att någon fastar på en resa*.” [*Muslim* 1115] Detta har Muslim återgivit.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

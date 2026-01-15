@@ -38,7 +38,6 @@ Detta är vad han sade i sin *al-Fath* och det är en *hasan hadīth[^1]*. Därm
 
 Vi ber Allāh den Upphöjde att stärka oss med stadiga ord och [att Han] förädlar våra hjärtan och handlingar. /.../
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Kämpa för Allāhs sak.
 

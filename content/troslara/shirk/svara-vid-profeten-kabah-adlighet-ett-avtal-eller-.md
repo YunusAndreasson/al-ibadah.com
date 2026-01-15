@@ -18,6 +18,5 @@ description: 'Fråga: Vilket är utlåtandet om att svära vid profeten, Ka’ba
 
 Svär man vid adlighet eller ett avtal är det heller inte tillåtet: ”*Den som svor vid något annat än Allāh har handlat med otro eller shirk[^1]*.” [*at-Tirmithi* 1535] Han har även sagt: ”*Svär inte vid era färder. Den som svär, låt denne svära vid Allāh eller vara tyst*.” [*al-Bukhārī* 6108 och *Muslim* 1646] [...]
 
-
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

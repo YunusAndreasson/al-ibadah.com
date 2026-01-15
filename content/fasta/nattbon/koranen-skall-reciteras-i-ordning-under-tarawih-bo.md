@@ -18,6 +18,5 @@ description: 'Fråga: Om jag är imam under tarāwīh -bönen, är jag då skyld
 
 Må Allāh hjälpa muslimerna till det som medför deras rening och frälsning i detta liv och i det Nästkommande.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

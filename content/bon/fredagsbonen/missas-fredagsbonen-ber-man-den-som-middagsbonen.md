@@ -16,7 +16,6 @@ description: 'Fråga: Om jag inte ber fredagsbönen i församlingen i moskén, b
 
 **Svar:** Den som med giltig ursäkt, sjukdom eller liknande, inte var närvarande vid fredagsbönen ber den som middagsbönen[^2]. På samma sätt gör en kvinna, en resenär och de som bor i öknen. Profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]* bevisar detta och det anser en majoritet av de lärde. Ingen vikt bör läggas vid dem som avviker från dem.
 
-
 [^1]: Rakah.
 [^2]: Dhuhr
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

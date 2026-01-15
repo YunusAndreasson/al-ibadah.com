@@ -16,7 +16,6 @@ description: 'Fråga: Vi har en moské. Vid dess norra sida finns ett ingärdat 
 
 **Svar:** Giltigheten i deras bön på den nämnda platsen finns det olika åsikter om bland de lärde. Om de inte ser imamen eller de som är bakom honom, och de endast kan höra *takbīr[^2]*, då är det säkrare för dem att inte be på platsen som har nämnts. I stället bör de be i deras hem tills de finner en plats i moskén bakom de bedjande [männen] eller en annan plats utanför moskén från vilken de kan se imamen eller några [männen] som leds i bön.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Att säga Allahu Akbar.
 

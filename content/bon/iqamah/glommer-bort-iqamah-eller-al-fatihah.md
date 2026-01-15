@@ -20,7 +20,6 @@ Att glömma bort att recitera al-Fātihah: Om han är imam, då måste han uppre
 
 Och Allāh vet bäst.
 
-
 [^1]: Asr
 [^2]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 [^3]: Rakah.

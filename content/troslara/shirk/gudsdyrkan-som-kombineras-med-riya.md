@@ -26,7 +26,6 @@ Man dyrkar men har samtidigt också ett annat motiv. Detta innebär att ens avsi
 
 Det är inte *riya'* om man gläder sig över att andra känner till ens dyrkan när detta enbart inträffar när man är färdig. Det är inte riya' om man är glad över att ha handlat på ett lydigt sätt. Det är ju ett bevis för ens tro. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som är glad över sina goda handlingar och ledsen över sina synder, denne är en troende*.” [*at-Tirmithi* 2195] Profeten – över honom vare Allāhs frid och välsignelser – tillfrågades om detta och han sade: ”*Det är glada budskap för en troende [i denna världen]*.” [*Muslim* 2034]
 
-
 [^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 ramadan 1428).
 [^2]: Uppriktighet.
 [^3]: Rakah.

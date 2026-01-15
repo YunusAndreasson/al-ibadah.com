@@ -18,7 +18,6 @@ description: 'Fråga: Vilket är utlåtandet om någon som ber gryningsbönen tv
 
 I vilket fall som helst är vi kommenderade att be så tidigt som möjligt, så om han sover över bönen, då måste han gå och lägga sig tidigt så att han ska kunna gå upp vid rätt tid. Detsamma gäller den som glömmer.
 
-
 [^1]: Fajr
 [^2]: Dhuhr
 

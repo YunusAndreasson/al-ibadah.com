@@ -16,7 +16,6 @@ description: 'Fråga: En troende som bad stod upp i stället för att sitta ned 
 
 **Svar:** I denna situation bör han inte gå tillbaka eftersom han har utelämnat *tashahhud[^1]* då han nått den efterföljande pelaren. Det är därför ogillat att han går tillbaka även om det inte skulle ogiltigöra bönen att han går tillbaka då han inte har gjort något otillåtet. Han måste dock göra nedfallandet för glömska[^2] och den bör göras före *taslīm[^3]*.
 
-
 [^1]: Vad man läser i den sittande positionen under bönen.
 [^2]: sujūd as-sahw.
 [^3]: Den avslutande hälsningen i bönen.

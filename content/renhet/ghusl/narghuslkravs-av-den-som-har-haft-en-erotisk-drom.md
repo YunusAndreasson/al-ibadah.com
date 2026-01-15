@@ -24,7 +24,6 @@ Rör könsdelarna varandra under vaket tillstånd, då krävs alltid *ghusl[^1]*
 
 Därmed säger vi att frågeställaren måste upprepa så mycket som möjligt av de böner som han har bett i detta tillstånd under denna period då han inte har gjort *ghusl[^1]* när sperma har ejakulerats, även om han inte drömde om intim samvaro i sin dröm.
 
-
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

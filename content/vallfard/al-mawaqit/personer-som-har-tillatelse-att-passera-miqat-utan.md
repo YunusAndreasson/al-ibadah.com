@@ -20,7 +20,6 @@ Denna *hadīth[^4]* är ett bevis för att den som passerar denna *mawaqit*, med
 
 Under alla omständigheter krävs *ihrām[^2]* endast för den som passerar *mīqāt[^1]* med avsikt att resa till Mecka för vallfärden eller *‘umrah[^3]*. Den som passerar *mīqāt[^1]* utan att träda in i *ihrām[^2]* måste återvända till *mīqāt[^1]* och träda in i *ihrām[^2]* därifrån. Om någon landar med flygplan i Jiddah, då färdas denne med bil till *mīqāt[^1]* för invånarna i Najd och denne går in i *ihrām[^2]* därifrån. Om denne går in i *ihrām[^2]* i Jiddah medan denne avser att utföra vallfärden och *‘umrah[^3]*, då måste denne slakta ett djur i gottgörelse för att ha passerat *mīqāt[^1]* [utan *ihrām[^2]*].
 
-
 [^1]: Platsen där pilgrimmen träder in i ihraam.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^3]: Den lilla vallfärden.

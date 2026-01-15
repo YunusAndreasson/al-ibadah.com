@@ -20,7 +20,6 @@ Under profetens – över honom vare Allāhs frid och välsignelser – sista va
 
 Må frid och välsignelser vara över vår profet Muhammad.
 
-
 [^1]: Rakah.
 [^2]: Dhuhr
 [^3]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.

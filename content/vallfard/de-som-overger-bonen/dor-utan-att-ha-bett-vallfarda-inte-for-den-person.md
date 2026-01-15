@@ -18,7 +18,6 @@ description: 'Fråga: Jag hade en släkting som avled under ramadan och före ha
 
 Vi ber Allāh att han ställer muslimernas situation till rätta och att han hjälper dem med att upprätthålla bönen. Vi ber Honom att hjälpa dem att undvika de ting som leder till dess övergivande. Sannerligen är Han den Generöse och den Ädle.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

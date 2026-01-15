@@ -17,7 +17,6 @@ description: 'Fråga: Varför bär en pilgrim särskilda kläder under pilgrimsf
 
 Och Allāh är källan till styrka. Må Allāh sända välsignelser och frid över vår profet Muhammad.
 
-
 [^1]: Det övre plagget.
 [^2]: Den lilla vallfärden.
 

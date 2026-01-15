@@ -16,7 +16,6 @@ description: 'Fråga: Mitt problem är att när jag går in i moskén och vände
 
 **Svar:** Bönen i denna situation som du nämnt är giltig, men du måste akta dig för djävulens viskningar och tänka på Allāh den Upphöjde när du börjar be. Håll ditt hjärta fast vid detta medan du söker Allāhs skydd från djävulen den utstötte. På detta sätt kommer du, om Allāh vill, få viskningarna att försvinna. Detta kommer att lägga hinder i vägen för djävulen och göra din Herre nöjd.
 
-
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 [^2]: Att säga Allahu Akbar.
 

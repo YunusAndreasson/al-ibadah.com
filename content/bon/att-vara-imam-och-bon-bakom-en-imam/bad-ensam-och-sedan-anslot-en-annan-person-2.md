@@ -22,7 +22,6 @@ Muslim har i sin *Sahīh* återgivet att profeten – över honom vare Allāhs f
 
 Dessa båda *ahādīth[^3]* bevisar vad vi har nämnt tidigare. De bevisar också att man bör stå vid imamens högra sida samt att två eller fler bör stå bakom honom.
 
-
 [^1]: Att säga Allahu Akbar.
 [^2]: Wudû´
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen

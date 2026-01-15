@@ -18,7 +18,6 @@ description: 'Fråga: Behöver jag nedfalla[^1] om jag reciterar en vers i vilke
 
 Det har även rapporterats att Zaid bin Thabit reciterat en vers med nedfallan i sura an-Najm för profeten – över honom vare Allāhs frid och välsignelser – och han nedföll[^1] inte. Hade det varit obligatoriskt hade han beordrats att göra det. Därför är det en föredragen *sunnah[^3]* som är bäst att inte bortse från, även om det sker när det är förbjudet att be, som efter gryningsbönen[^4] eller eftermiddagsbönen[^5] exempelvis. Här finns ju en anledning till detta nedfallande. Detsamma gäller alla böner som det finns en anledning till [som *sajdatut-tilawah[^2]*, hälsningsbönen till moskén[^6] och liknande]. De ska göras även om det sker när det vanligtvis är förbjudet.
 
-
 [^1]: sujūd, nedfallandet när pannan läggs mot marken.
 [^2]: När vissa verser i Koranen reciteras kan man nedfalla.
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

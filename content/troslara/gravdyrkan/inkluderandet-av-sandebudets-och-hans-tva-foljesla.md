@@ -38,7 +38,6 @@ Därmed bör inte detta användas som bevis eller argument för att tillåta byg
 
 Det är Allāh som ger framgång.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

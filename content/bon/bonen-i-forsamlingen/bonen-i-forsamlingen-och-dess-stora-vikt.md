@@ -39,7 +39,6 @@ Den korrekta åsikten är att den är en skyldighet men inte ett villkor för at
 
 I vilket fall som helst måste varje förståndig vuxen muslimsk man närvara vid bönen i församlingen, oavsett om denne är på resa eller hemma.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^3]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.

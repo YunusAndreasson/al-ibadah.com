@@ -20,6 +20,5 @@ Men om hans rädsla enbart är påhittad, då gäller fortfarande skyldigheten. 
 
 Och Allāh vet bäst.
 
-
 [^1]: Dhuhr
 

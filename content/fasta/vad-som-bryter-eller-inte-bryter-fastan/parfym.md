@@ -16,6 +16,5 @@ description: 'Fråga: Vilket är utlåtandet om den fastande som dagtid använde
 
 **Svar:** Det är ingen fara om man använder eller andas in dem dagtid under ramadan[^1], utom när det gäller rökelser. Den troende bör inte inandas dem då det finns en substans i dem som når magen. Detta är rök.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

@@ -18,7 +18,6 @@ description: 'Fråga: Vad gäller den som avser att vallfärda som en mutamatti'
 
 Att göra den enbart till en vallfärd går heller inte. När det gäller *qirān*, då kan den inte ändras till enbart en vallfärd. Den får dock ändras till en *‘umrah[^6]* då det är lättare för den troende och det är vad profeten – över honom vare Allāhs frid och välsignelser – kommenderade följeslagarna att göra. Om man vid mīqāt[^2] går in i *ihrām[^5]* för både vallfärden och *‘umrah[^6]* och sedan vill göra den till endast en vallfärd som *mufrid[^4]*, då får man inte göra det. Men man kan göra den till endast en *ʿumrah[^6]*. Det är bättre. Därför gör man *tawāf[^7]*, *sa’ī[^8]*, får sitt hår klippt och avlägsnar sin *ihrām[^5]*. Sedan säger han *talbiyyah[^3]* för vallfärden och man blir en *mutamatti[^1]'*.
 
-
 [^1]: Någon som både gör `umrah och vallfärdar.
 [^2]: Platsen där pilgrimmen träder in i ihraam.
 [^3]: Säga Labbayk Allahumma Labbayk under vallfärden.

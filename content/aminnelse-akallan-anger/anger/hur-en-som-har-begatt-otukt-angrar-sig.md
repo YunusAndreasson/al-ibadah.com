@@ -57,6 +57,5 @@ En muslim måste inte enbart vara rädd för *shirk[^1]* och vad som leder till 
 
 Det finns många verser med en liknande innebörd.
 
-
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

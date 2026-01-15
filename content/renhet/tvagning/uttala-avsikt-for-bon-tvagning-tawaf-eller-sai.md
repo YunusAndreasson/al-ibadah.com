@@ -17,7 +17,6 @@ description: 'Fråga: Skall man uttala sin avsikt för bön, tvagning, tawāf el
 
 Och hos Allāh vilar all framgång.
 
-
 [^1]: Wudû´
 [^2]: Den sju långa rundar vandringen runt Kabah.
 [^3]: Vandringen mellan as-Safa och al-Marwa.

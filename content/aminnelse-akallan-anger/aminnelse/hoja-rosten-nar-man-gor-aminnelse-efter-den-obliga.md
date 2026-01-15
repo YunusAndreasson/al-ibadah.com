@@ -20,7 +20,6 @@ Det finns många fördelar med att höja rösten när man åminns Allāh efter d
 
 Och Allāh är beviljaren av framgång.
 
-
 [^1]: Att upphöja Allāh, Subhan Allāh.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

@@ -18,7 +18,6 @@ description: 'Fråga: I vissa moskér i många delar av den muslimska världen l
 
 Och Allāh vet bäst. Må Allāh välsigna vår profet Mohamed, hans familj och följeslagare.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: De tre första generationerna i islam.
 

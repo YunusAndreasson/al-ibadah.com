@@ -20,6 +20,5 @@ Denna *hadīth[^1]* illustrerar hur stor rätt modern har; en rätt som är tre 
 
 Och Allāh den Allsmäktige vet bäst.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

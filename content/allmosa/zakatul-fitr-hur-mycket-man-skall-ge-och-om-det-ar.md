@@ -17,7 +17,6 @@ description: 'Fråga: Är zakātul-fitr obligatoriskt eller rekommenderat? Vem �
 
 Och Allāh är Givaren av framgång.
 
-
 [^1]: Allmosa som ges före eid-bönen.
 [^2]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
 [^3]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

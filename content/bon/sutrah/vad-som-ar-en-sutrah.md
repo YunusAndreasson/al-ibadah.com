@@ -30,7 +30,6 @@ I*Bulugh al-Maram* Ibn Hajar har sagt:
 
 Och Allāh är Beviljaren av framgång.
 
-
 [^1]: Ett objekt i form av exempelvis en pinne, stav eller vägg. Skall vara minst en fot hög. Agerar symbolisk skiljelinje mellan den bedjande och de som passerar framför.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

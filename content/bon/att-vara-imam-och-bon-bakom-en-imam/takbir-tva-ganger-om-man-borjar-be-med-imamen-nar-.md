@@ -26,7 +26,6 @@ Det finns ett annat fall med tvivel i. Det är när man är osäker på om man b
 
 Det finns ännu en fråga som jag skulle vilja diskutera här. Många som går in i moskén medan imamen bugar börjar harkla sig ljudligt och möjligen även säga: ”*Allāh* *är sannerligen med de tålmodiga*” eller stampar de med fötterna. Detta strider mot profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]*. Det stör även imamen och de som ber. Det finns människor som när de går in i moskén medan imamen bugar skyndar sig på det mest opassande sätt. Profeten – över honom vare Allāhs frid och välsignelser – har förbjudit detta genom att säga: ”*När ni kommer till bönen, gå och ni måste vara lugna och samlade. Och det som ni hinner med, be det; och det som ni missar, ta igen det*.” [*al-Bukhārī* 636]
 
-
 [^1]: Att säga Allahu Akbar.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Rakah.

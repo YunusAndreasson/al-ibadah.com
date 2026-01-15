@@ -43,7 +43,6 @@ Och Han säger i sura Ta-Ha: ”[Trollkarlarna] sade: 'Antingen kastar du, Moses
 
 Må frid och välsignelser vara över vår Profet Muhammad, hans familj och följeslagare.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: De som står Allāh nära.
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

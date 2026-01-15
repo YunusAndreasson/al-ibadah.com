@@ -19,7 +19,6 @@ Det är inte tillåtet att stryka över strumporna såvida inte villkoren satta 
 
 Och Allāh är källan till all styrka.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: Wudû´
 

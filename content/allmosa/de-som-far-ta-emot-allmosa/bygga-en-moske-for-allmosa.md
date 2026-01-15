@@ -30,6 +30,5 @@ Detta är vad som är känt bland de lärde, och byggandet av en moské är inte
 
 Och Allāh är Den som ger framgång.
 
-
 [^1]: Kämpa för Allāhs sak.
 

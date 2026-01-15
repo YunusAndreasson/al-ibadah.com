@@ -40,7 +40,6 @@ Dessa tre villkor måste uppfyllas för att medlingen ska förverkligas. De lär
 
 Ogiltig medling. Detta är en medling som inte kommer att ge någon nytta för dem som söker den. Månggudadyrkarna påstår att deras gudomar kommer att medla för dem på detta sätt inför Allāh den Allsmäktige. Men denna medling kommer inte att vara till nytta för dem. Allāh den Allsmäktige säger ju: ”*Då* *ska medlarnas förböner inte vara dem till någon nytta*.” [Koranen 74:48] Detta beror på att Allāh den Upphöjde inte kommer att acceptera mångguderiet från hedningarna och Han kommer inte att tillåta någon medling för dem. Anledningen är att det inte finns någon medling utom för den som Allāh godtar, och Han accepterar varken otro från Sina tjänare eller älskar fördärv. Den tilltro som månggudadyrkarna sätter till deras gudomar när de säger: ”*De är våra talesmän inför Gud*.” [Koranen 10:18] är en ogiltig tilltro och den kommer inte att göra dem någon nytta. Faktum är att den inte kommer att ge dem något hos Allāh den Upphöjde utan den kommer enbart att ta dem ännu längre bort från Honom. Orsaken till detta är att hedningarna, som söker medling från deras avgudar, använder otillåtna metoder när de dyrkar dem. Det beror på deras dumhet att de försöker att komma nära Allāh den Upphöjde genom något som enbart ökar avståndet till Honom.
 
-
 [^1]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 [^2]: Tron på att det bara finns en Gud.
 [^3]: Uppriktighet.

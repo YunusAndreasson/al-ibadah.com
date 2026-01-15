@@ -128,7 +128,6 @@ Sannerligen, Han är Den som skyddar detta och Den som är kapabel att göra det
 
 *as-Salamu 'Alaykum a Rahmatullāhi wa Barakatuhu*
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Du´ā
 [^3]: Laylatul-Qadr. En av de sista tio nätterna under fastemånaden. Bön under den natten är likvärdig med bön under 1000 månader.

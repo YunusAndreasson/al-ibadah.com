@@ -26,7 +26,6 @@ Den lyder enligt följande:
 
 Och genom Allāh uppnås framgång. Må frid vara över vår profet Muhammad, hans familj och följeslagare.
 
-
 [^1]: Du´ā
 [^2]: Den avslutande hälsningen i bönen.
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen

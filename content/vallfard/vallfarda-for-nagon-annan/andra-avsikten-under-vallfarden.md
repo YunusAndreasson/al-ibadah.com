@@ -19,7 +19,6 @@ description: 'Fråga: En man har för avsikt att vallfärda och han har även ti
 
 Så om man går in i *ihrām[^2]* före egen räkning, då är det obligatoriskt att man fullföljer den själv. Om man går in i *ihrām[^2]* för vallfärden för någon annan, då är det ens skyldighet att fullfölja den för denne personen. Man får inte ändra sin avsikt efter att ha trätt in i ihrām[^2].
 
-
 [^1]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 

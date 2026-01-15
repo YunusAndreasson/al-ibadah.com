@@ -18,6 +18,5 @@ description: 'Fråga: Vilket är utlåtandet om att bära klädesplagg på vilka
 
 Och Allāh vet bättre.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

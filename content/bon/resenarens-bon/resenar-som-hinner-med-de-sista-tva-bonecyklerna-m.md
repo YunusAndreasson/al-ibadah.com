@@ -21,7 +21,6 @@ Med detta som grund: Om resenären han med de två sista bönecyklerna[^1] av b�
 
 Och Allāh vet bäst.
 
-
 [^1]: Rakah.
 [^2]: Den avslutande hälsningen i bönen.
 

@@ -45,7 +45,6 @@ I många *ahādīth[^2]* rapporterats att Allāh har informerat profeten – öv
 
 Han tillade inte något utom att nämna några tecken inför Timmen, vilket bevisar att han endast kände till det som Allāh hade informerat honom om, om det som är dolt för människor[^1]. Han kände dock inte till allt, utan endast det Allāh hade berättat om.
 
-
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

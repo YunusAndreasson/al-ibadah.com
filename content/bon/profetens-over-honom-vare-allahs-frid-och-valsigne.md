@@ -357,7 +357,6 @@ Slutligen ber jag Allāh att Han accepterar vår bön och alla våra goda handli
 
 All ära tillhör Allāh, världarnas Herre.
 
-
 [^1]: salatul-khawf
 [^2]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 [^3]: Riktningen mot Kabah i Mecka som bönen utförs mot.

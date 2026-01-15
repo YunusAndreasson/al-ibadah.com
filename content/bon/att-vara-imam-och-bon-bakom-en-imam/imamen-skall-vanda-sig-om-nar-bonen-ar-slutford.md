@@ -16,7 +16,6 @@ description: 'Fråga: Jag bad i moskén men jag hann inte be med församlingen, 
 
 **Svar:** Imamen är skyldig att vända sig mot Allāhs tjänare efter *taslīm[^1]* och han får inte förlänga sittningen efter den innan han vänder sig. Allāhs tjänare måste vänta på honom och inte ge sig av förrän han vänder sig mot dem. Men denne imam som förlängde sittandet efter *taslīm[^1]* innan han gav sig av gjorde ett misstag. Då det hade inneburit problem för tjänarna så får de resa sig upp innan imamen vänder sig.
 
-
 [^1]: Den avslutande hälsningen i bönen.
 [^2]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 

@@ -24,7 +24,6 @@ Med detta som grund är det att föredra att man fastar den tionde och att man l
 
 Så min muslimske broder, det är eftersträvansvärt att du fastar under *‘ashura’*-dagen och även den nionde.
 
-
 [^1]: Den första månaden på det islamiska året. Under denna månaden kan man fasta den 9:e och 10:e dagen eller den 10:e och 11:e.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

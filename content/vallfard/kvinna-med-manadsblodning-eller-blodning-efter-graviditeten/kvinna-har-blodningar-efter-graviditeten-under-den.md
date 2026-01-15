@@ -19,7 +19,6 @@ description: 'Fråga: En kvinna med blödningar efter graviditeten inleder sin b
 
 Hon måste dock anstränga sig för att skydda sig mot blodet genom att använda vadd eller något liknande, och hon måste tvaga sig inför varje bön. Det är inge fara om hon slår ihop middagsbönen[^6] med eftermiddagsbönen[^7], och kvällsbönen[^8] med nattbönen[^9]. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – rådde Hamnah bint Jahsh till att göra så.
 
-
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Vandringen mellan as-Safa och al-Marwa.
 [^3]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.

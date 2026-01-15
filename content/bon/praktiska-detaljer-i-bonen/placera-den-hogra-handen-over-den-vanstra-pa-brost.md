@@ -25,7 +25,6 @@ Att placera dem under naveln har rapporterats i en återberättelse från ʿAlī
 
 I detta utlåtande finns det ingen skillnad mellan män och kvinnor. Den grundläggande principen är att detsamma gäller både för män och för kvinnor i detta utlåtande, såvida det inte finns bevis för ett skiljande mellan dem. Jag känner inte till något bevis som skiljer på män och kvinnor i denna *sunnah[^1]*.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

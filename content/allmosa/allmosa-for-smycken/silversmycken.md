@@ -26,7 +26,6 @@ I en *hadīth[^3]* återberättad av ʿAbdullāh bin 'Amr bin al-'Ās säger pro
 
 Och Allāh är Givaren av framgång.
 
-
 [^1]: En vikt likvärdig med ungefär 4.5g.
 [^2]: En saudisk riyal är 1.62 kronor (Forex.se, 25 ramadan 1428).
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

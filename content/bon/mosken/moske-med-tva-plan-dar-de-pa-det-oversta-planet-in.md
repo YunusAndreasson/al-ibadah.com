@@ -16,6 +16,5 @@ description: 'Fråga: Det finns en moské som har två golv. De som ber på det 
 
 **Svar:** Så länge moskén är en är det inte ett villkor att de kan se varandra om de kan höra imamens *takbīr[^1]*.
 
-
 [^1]: Att säga Allahu Akbar.
 

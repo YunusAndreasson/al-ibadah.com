@@ -16,6 +16,5 @@ description: 'Fråga: Har det rapporterats att märket i pannan efter nedfallan[
 
 **Svar:** Detta är inte ett tecken på rättfärdighet. Tecknet på rättfärdighet är enbart det ljus som ses i ansiktet, hjärtats vidgande, god karaktär och liknande. Märket i pannan som fås genom nedfallan[^1] kan även ses i ansiktet på den som enbart ber den obligatoriska bönen. Detta eftersom dennes hud är känslig. Samtidigt kan det vara så att det inte ses på den som ber mycket och har en lång nedfallan[^1].
 
-
 [^1]: sujūd, nedfallandet när pannan läggs mot marken.
 

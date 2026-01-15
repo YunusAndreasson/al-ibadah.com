@@ -26,7 +26,6 @@ Det har även sagts att termen ”samfund” i denna *hadīth[^1]* avser innovat
 
 De 72 [olika] grupperna [i den andra åsikten] är alla, utom den räddade gruppen, icke-troende som kommer att vistas i Elden för evigt. Följaktligen är det klart att ”det inbjudna samfundet” har en generellare betydelse ”det svarande samfundet”. Detta betyder att den som tillhör det svarande samfundet också tillhör det inbjudna samfundet, medan dem som tillhör det inbjudna samfundet inte tillhör det svarande samfundet.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

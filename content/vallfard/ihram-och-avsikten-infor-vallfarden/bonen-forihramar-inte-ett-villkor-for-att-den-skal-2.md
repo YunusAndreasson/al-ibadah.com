@@ -22,7 +22,6 @@ Sedan säger han den föreskrivna *talbiyyah[^5]*, som lyder:
 
 Detta är profetens – över honom vare Allāhs frid och välsignelser – talbiyyah[^5] som bland annat har bekräftats i *Sahīh al-Bukhārī* och *Sahīh Muslim*.
 
-
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.
 [^3]: Rakah.

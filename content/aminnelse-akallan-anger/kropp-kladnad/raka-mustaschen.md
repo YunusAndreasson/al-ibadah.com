@@ -19,7 +19,6 @@ Om han har rakat av den, är det ingen synd i det. När det gäller skägget är
 
 Och med Allāh finns all framgång och må Allāh sända böner och välsignelser över vår profet, hans familj och följeslagare.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

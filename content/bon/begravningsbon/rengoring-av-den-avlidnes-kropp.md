@@ -20,7 +20,6 @@ Om kroppen är mycket smutsig bör man tvätta den noggrannare, enligt vad profe
 
 Sedan torkar och sveper man denne person.
 
-
 [^1]: Wudû´
 [^2]: Lotuslöv
 

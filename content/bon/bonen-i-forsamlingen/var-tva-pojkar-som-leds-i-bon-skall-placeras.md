@@ -18,6 +18,5 @@ description: 'Fråga: När en man leder två eller flera pojkar som ännu inte h
 
 I en annan återberättelse rapporteras att han ledde Anas i bön och att han ställde honom på sin högra sida. Han har också lett Ibn ‘Abbās i bön och placerat honom på sin högra sida.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

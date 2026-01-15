@@ -16,7 +16,6 @@ description: 'Fråga: Vad gäller beträffande att ge bort belöningen för att 
 
 **Svar:** Det är inte tillåtet att göra *tawāf[^1]* runt Ka’bah åt någon annan. Ingen bör göra *tawāf[^1]* åt någon annan än sig själv, utom om han utför vallfärden eller *‘umrah[^2]* för någon annans räkning; vilket betyder att han utför hela vallfärden eller *‘umrah[^2]* och inte endast en del av den.
 
-
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Den lilla vallfärden.
 

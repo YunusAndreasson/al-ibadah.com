@@ -16,6 +16,5 @@ description: 'Fråga: En pilgrim kastar från östlig riktning stenar på pelare
 
 **Svar:** Denne behöver inte kasta stenarna igen. Denne behöver enbart upprepa de kasten som inte utförts korrekt. Därmed upprepar denne enbart kasten mot al-ʿAqabah och denne gör det korrekt. Stenarna som kastades från den östra sidan är inte tillräckliga. I detta fall hamnar inte stenarna i sänkan, vilket är den korrekta platsen. Om stenarna därför kastas från bron vid den östra sidan, då är det korrekt. Detta beror på att stenarna då hamnar i sänkan.
 
-
 [^1]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 

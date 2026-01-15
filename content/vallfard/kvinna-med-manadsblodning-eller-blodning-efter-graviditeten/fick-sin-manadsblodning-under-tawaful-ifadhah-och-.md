@@ -23,7 +23,6 @@ Hon måste ångra sig inför Allāh för att hon gjorde *tawāf[^5]* när hon ha
 
 Vi ber Allāh att Han accepterar hennes ånger.
 
-
 [^1]: Platsen där pilgrimmen träder in i ihraam.
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^3]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

@@ -15,6 +15,5 @@ description: 'Fråga: Kan man fasta den 27:e rajab och spendera den natten i bö
 
 **Svar:** Det är en innovation att fasta den 27:e rajab[^1] och att spendera den natten med bön. Varje innovation är villfarelse.
 
-
 [^1]: Den sjunde månaden i det islamiska året.
 

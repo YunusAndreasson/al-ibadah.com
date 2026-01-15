@@ -23,7 +23,6 @@ Samt att 'Ā'ishah i en autentisk *hadīth[^2]* har sagt: ”*Allāhs sändebuds
 
 Allāh den Allsmäktige har även sagt: ”*I Guds Sändebud har ni ett gott föredöme*.” [Koranen 33:21]
 
-
 [^1]: Du´ā
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.

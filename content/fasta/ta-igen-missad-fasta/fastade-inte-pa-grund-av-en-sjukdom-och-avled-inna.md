@@ -16,6 +16,5 @@ description: 'Fråga: En man avled under ‘eidul-fitr . Under den första eller
 
 **Svar:** Om den sjuke bröt fastan eftersom han inte kunde fasta och inte hade möjlighet att ta igen den på grund av han gick bort under *‘eidul-fitr*, då är det inte en skyldighet för honom att ta igen fastan. Detta beror på att han på grund av sjukdomen inte har haft möjlighet. Han behöver heller inte ta igen fastan eftersom han inte har haft möjlighet då han gick bort under *‘eidul-fitr*. Arvtagarna behöver heller inte fasta eller ge mat för hans räkning.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

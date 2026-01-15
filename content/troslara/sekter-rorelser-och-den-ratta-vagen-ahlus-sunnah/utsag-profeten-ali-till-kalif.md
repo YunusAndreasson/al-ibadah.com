@@ -32,6 +32,5 @@ Allāh har [...] skyddat Muhammads samfund från att enas om falskhet. Allāhs s
 
 Det är omöjligt att den bästa och den mest hedervärda generationen i detta samfund skulle vara eniga om något falskt; vilket i detta fall är att Abū Bakrs, ’Umars och ‘Uthmāns kalifat var ogiltiga. Ingen som tror på Allāh och Återuppståndelsens Dag skulle göra ett sådant påstående och ej heller skulle någon med minsta lilla förståelse av islam göra det.
 
-
 [^1]: Kämpa för Allāhs sak.
 

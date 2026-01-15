@@ -22,7 +22,6 @@ Den åsikt som är närmst sanningen och mest uppenbar, om Allāh vill, är att 
 
 Och framgång kommer från Allāh.
 
-
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.
 [^3]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.

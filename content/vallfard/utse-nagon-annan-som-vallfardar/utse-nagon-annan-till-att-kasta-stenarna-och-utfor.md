@@ -20,7 +20,6 @@ Den utsedde kastar först de egna stenarna och sedan för den som utsett honom. 
 
 Det är inte rätt att utse någon till att utföra *tawaful-wada*[^2] eller någon annan *tawāf[^1]* runt Ka’bah. Den som utser någon till att utföra *tawaful-wada*[^2] och som inte utför *tawāf[^1]* själv, denne har syndat. Denne måste slakta ett djur vid helgedomen för att ha utelämnat avskeds-tawāf[^1]. Djuret slaktas vid Helgedomen. Den som utser någon till att kasta stenarna får heller inte bege sig av innan den utsedde har kastat stenarna. Då utför denne *tawaful-wada*[^2] själv när stenarna har kastats.
 
-
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Rundvandringen runt Kabah före avfärden från Mecka.
 

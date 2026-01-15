@@ -35,7 +35,6 @@ Införda seder som denna bör undvikas och folk bör nöja sig med profetens –
 
 Må Allāh ge dem nåd och må Allāh upphöja omnämnandet av vår Profet Muhammad, hans familj samt följeslagare – må Allāh vara nöjd med dem – och gör dem säkra från allt ont.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Dhikr
 [^3]: Du´ā

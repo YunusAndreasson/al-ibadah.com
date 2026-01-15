@@ -16,6 +16,5 @@ description: 'Fråga: Om någon gick in i moskén medan böneutroparen fortfaran
 
 **Svar:** Det är bättre att svara böneutroparen, åkalla så som har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – och efter det be hälsningsbönen till moskén[^1]. Vissa lärde har dock undantagit den som går in i moskén medan böneutroparen ropar ut till fredagsbön. Syftet är att han sedan ska kunna höra predikan. De har sagt att anledningen är att predikan är en skyldighet, medan det inte är en skyldighet att besvara böneutroparen.
 
-
 [^1]: Tahiyyatul-Msjid.
 

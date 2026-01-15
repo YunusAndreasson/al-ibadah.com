@@ -85,7 +85,6 @@ Den som inte dömer enligt vad Allāh den Upphöjde har uppenbarat men som helle
 
 2. De anser att det är att förklara tillåtet vad Allāh har förklarat som förbjudet och att förkla som otillåtet vad Allāh har förklarat som tillåtet, men de lydde dem genom att handla olydigt mot Allāh precis som en muslim syndar i tron om att det är synder. Dessa döms då på samma sätt som syndare.
 
-
 [^1]: Tron på att det bara finns en Gud.
 [^2]: Enheten i Allāhs herravälde.
 [^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

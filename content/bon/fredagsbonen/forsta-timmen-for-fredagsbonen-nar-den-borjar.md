@@ -20,7 +20,6 @@ description: 'Fråga: När börjar den första timmen under fredagsbönen? Svar:
 
 Han har då delat tiden från soluppgången tills imamen anländer i fem delar. Varje del kan vara likvärdig med en timme [60 minuter] men den kan också vara längre då tiden ändras så att timmarna är fem mellan soluppgången och tidpunkten då imamen kommer till bönen. De börjar vid soluppgången även om det har sagts att början är gryningsbönen[^2]. Det förra är dock sannolikare då gryningsbönen[^2] är före soluppgången.
 
-
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Fajr
 

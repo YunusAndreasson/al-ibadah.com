@@ -20,7 +20,6 @@ Tiden för *sunnah[^1]* efter de obligatoriska bönerna börjar när bönen har 
 
 Men om tiden för *sunnah[^1]* för den obligatoriska bönen har passerat utan att det beror på försummelse, då får man ta igen dem efter den obligatoriska bönen. Men om man utan ursäkt sköt på *sunnah[^1]* före den obligatoriska bönen, då kommer det inte att göra nytta även om man tar igen dem. Detta beror på att den korrekta åsikten är att all dyrkan är bunden till angivna tider och om tiden har passerat utan någon ursäkt är den inte korrekt och bönen accepteras inte.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Dhuhr
 

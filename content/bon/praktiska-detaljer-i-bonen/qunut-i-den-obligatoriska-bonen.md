@@ -18,6 +18,5 @@ description: 'Fråga: Vilket är utlåtandet om qunūt i den obligatoriska böne
 
 Om muslimer drabbas av stora svårigheter finns det ingen invändan mot att de gör *qunūt[^1]* för att be Allāh den Upphöjde att avvärja det.
 
-
 [^1]: En åkallan som kan läsas under den nattliga witr-bönen.
 

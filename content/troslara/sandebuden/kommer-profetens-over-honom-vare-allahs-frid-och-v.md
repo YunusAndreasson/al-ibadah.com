@@ -26,6 +26,5 @@ Han skapades från en fader och moder, och han skapades inte före sin födsel. 
 
 Må frid och välsignelser vara över vår mästare Muhammad, över hans familj och följeslagare.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

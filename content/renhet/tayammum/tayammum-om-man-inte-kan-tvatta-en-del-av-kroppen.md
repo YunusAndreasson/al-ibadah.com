@@ -27,7 +27,6 @@ Och i en återberättelse från Abū Dawūd rapporteras att Jabir har sagt: ”*
 
 Om personen som diskuteras inte har upprepat sin bön bör han göra det.
 
-
 [^1]: Wudû´
 [^2]: En rituell rening som görs med hjälp av jord/sand då det inte finns vatten tillgängligt.
 [^3]: Att säga Allahu Akbar.

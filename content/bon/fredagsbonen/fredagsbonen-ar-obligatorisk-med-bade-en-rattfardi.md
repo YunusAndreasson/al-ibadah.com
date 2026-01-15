@@ -26,6 +26,5 @@ Under hans livstid bads den även i Bahrain i en by med namnet Juwatha. De lärd
 
 Kortfattat kan vi säga att det är obligatoriskt att be fredagsbönen i byar och städer, enligt bevis från Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* och för att uppnå de stora fördelar som folk får när de till exempel varnas för synder, påminns om Allāh, får lära sig om det som är till nytta för dem och de får samarbeta i rättfärdighet.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

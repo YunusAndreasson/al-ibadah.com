@@ -38,7 +38,6 @@ Denne bör kämpa för att fullfölja de obligatoriska delarna av vallfärden oc
 
 Och Allāh vet bäst.
 
-
 [^1]: Den lilla vallfärden.
 [^2]: Bönen man ber för att söka Allāhs hjälp när man har flera valmöjligheter.
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

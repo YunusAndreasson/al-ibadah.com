@@ -18,6 +18,5 @@ description: 'Fråga: Får en ensam resenär leda de som inte reser i bönen? Hu
 
 Om han slår ihop de böner som han får slå ihop, då bör de inte slå ihop dem tillsammans med honom. Det är endast han och inte de andra som får göra så. Detta enligt en återberättelse som uppger att när ʿUmar nådde Mecka så bad han två bönecykler[^1] tillsammans med dem och han sade: ”*Meckas invånare! Be klart era böner för vi är resenärer!*” [Mālik 202 och 203]
 
-
 [^1]: Rakah.
 

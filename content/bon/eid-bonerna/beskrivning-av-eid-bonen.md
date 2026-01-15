@@ -22,7 +22,6 @@ Imamen måste återuppliva denna *sunnah[^3]* genom att recitera dessa båda sur
 
 Efter detta håller imamen en predikan. Det är bra om han avsätter en del av predikan för kvinnorna och beordrar dem att göra vad de bör göra och förbjuder dem att göra vad de bör undvika. Detta är vad profeten – över honom vare Allāhs frid och välsignelser – brukade göra.
 
-
 [^1]: Rakah.
 [^2]: Att säga Allahu Akbar.
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

@@ -19,7 +19,6 @@ description: 'Fråga: Om någon gör ghusl utan att skölja munnen eller dra in 
 
 Om de inbegrips i rengöringen av ansiktet och ansiktet är en del av kroppen som måste renas under den stora rengörningen, då är det nödvändigt att den som gör *ghusl[^1]* på grund av den stora rituella orenheten sköljer munnen och drar in vatten i näsan.
 
-
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Wudû´
 

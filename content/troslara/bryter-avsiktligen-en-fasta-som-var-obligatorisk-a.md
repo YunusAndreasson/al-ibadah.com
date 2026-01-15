@@ -14,7 +14,6 @@ description: 'Fråga: Jag fastade en dag för att ta igen en missad fasta med ef
 
 **Svar:** Du måste fullborda denna fasta. Det är inte tillåtet att bryta fastan om det var en obligatorisk fasta, som att ta igen en fastedag från ramadan[^2] eller en fasta som du svurit att fasta. Du måste också ångra dig för vad du har gjort. Allāh accepterar ångern från den som ångrar sig.
 
-
 [^1]: Dhuhr
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

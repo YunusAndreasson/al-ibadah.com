@@ -26,6 +26,5 @@ Hade det funnits någon av de lärda som hade framfört det, då vore det enligt
 
 Och kunskapen finns hos Allāh.
 
-
 [^1]: Wudû´
 

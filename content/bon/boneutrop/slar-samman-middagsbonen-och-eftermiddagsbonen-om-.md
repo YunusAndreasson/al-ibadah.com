@@ -21,7 +21,6 @@ description: 'Fråga: Om någon slår ihop middagsbönen[^1] och eftermiddagsbö
 
 De frivilliga bönerna finns det inget böneutrop för.
 
-
 [^1]: Dhuhr
 [^2]: Asr
 [^3]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.

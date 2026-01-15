@@ -31,7 +31,6 @@ Med detta som grund: Skydd mot det onda i *jinn[^1]* får man genom att recitera
 
 Och Allāh är Beskyddaren.
 
-
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen

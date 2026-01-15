@@ -26,6 +26,5 @@ Om hon ser blod efter 40 dagar och hon blivit ren anses det vara menstruationsbl
 
 Och Allāh vet bäst.
 
-
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 

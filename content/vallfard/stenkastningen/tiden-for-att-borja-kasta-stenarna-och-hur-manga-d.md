@@ -20,7 +20,6 @@ Det är *sunnah[^1]* att stå efter den första och den andra pelaren. När man 
 
 Den sista pelaren, som ligger närmst Mecka, kastar man sten på men man står inte kvar vid den. Anledningen är att sändebudet kastade sten på den utan att stå kvar vid den.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 [^3]: Du´ā

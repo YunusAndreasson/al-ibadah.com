@@ -27,7 +27,6 @@ Allāh förklarar här att åkallan[^1] är en dyrkan och den som riktar en dyrk
 
 Vi ber Allāh att Han förbättrar muslimers tillstånd.
 
-
 [^1]: Du´ā
 [^2]: Mushrik.
 [^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

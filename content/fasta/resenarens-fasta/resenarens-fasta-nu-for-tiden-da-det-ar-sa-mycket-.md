@@ -33,6 +33,5 @@ Detta generella utlåtande gäller för vem som helst i en situation likt den me
 
 Därför säger vi att i dagsläget är det lätt att resa, vilket frågeställaren har sagt, och det är i de flesta fall inte svårt att fasta medan man reser. Så om det inte är svårt att fasta, då är det bättre om man fastar.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

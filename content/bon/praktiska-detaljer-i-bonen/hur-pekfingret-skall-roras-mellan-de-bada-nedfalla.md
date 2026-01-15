@@ -22,7 +22,6 @@ Det finns även en *hadīth[^1]* som imam Ahmad har återgivit i sin *Musnad* me
 
 När Allāhs sändebud – över honom vare Allāhs frid och välsignelser – satt mellan de båda nedfallandena[^2] formade han en knytnäve med fingrarna och pekade med pekfingret. Den som säger att han inte rörde det, säger vi till: Vad gjorde han då med sin högra hand? Om du säger att han brukade lägga den på sitt högra lår ber vi dig att ge oss bevis, för det har inte rapporterats i *ahādīth[^1]* att han brukade lägga den högra handen på låret. Och om han hade lagt den på låret [utan att höja fingret], då hade följeslagarna klartgjort det på samma vis som de har klartgjort att han brukade göra med den vänstra på det vänstra låret. Detta är då de tre bevisen.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: sujūd, nedfallandet när pannan läggs mot marken.
 [^3]: Vad man läser i den sittande positionen under bönen.

@@ -19,6 +19,5 @@ description: 'Fråga: Är en kvinna med månadsblödning, en kvinna med blödnin
 
 Detta beror också på vad som har bekräftas i *Sahīh Muslim* och *Sahīh al-Bukhārī* när Ibn ‘Abbās säger: ”*Folket kommenderades att utföra deras sista handling vid Huset [Ka’bah], men frågan lindrades för kvinnan med månadsblödning*.” Bevisen har även kommit i en annan rapport som visar att en kvinna med blödningar efter graviditeten liknas vid en kvinna med månadsblödning på så vis att hon inte måste utföra *tawāf[^1] ul-wadā*.
 
-
 [^1]: Den sju långa rundar vandringen runt Kabah.
 

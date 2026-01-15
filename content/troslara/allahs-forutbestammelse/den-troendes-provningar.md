@@ -29,6 +29,5 @@ De får goda ting som en förtida kompensation för deras goda i detta livet, me
 
 I korthet: Denna världen är för de icke-troende, som de lockas in i undergång genom. När de lämnar detta livet, som de är välsignade i, för det nästa finner de bestraffning – vi söker skydd hos Allāh från detta. Straffet kommer att vara värre för dem då de där finner lidande utöver att de kommer att lida av förlusten av de saker som var dem kära i detta livet – dess välsignelser och luxuösa levande. Detta är ett tredje syfte som vi kan lägga till de två ovan nämnda, om de plågor och sjukdomar som de troende uthärdar, denne lämnar denna världen till förmån för en godhetens viloplats. Denne går från en plågad situation till en med bekvämlighet och dennes lycka över njutningen som har skänkts honom kommer att fördubblas. Denne har ju funnit bekvämlighet i stället för den smärta och svårighet som denne tidigare lidit av.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

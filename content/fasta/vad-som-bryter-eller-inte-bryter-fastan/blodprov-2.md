@@ -22,6 +22,5 @@ Om fastan då är obligatorisk är det inte tillåtet att donera denna stora mä
 
 Och Allāh vet bäst.
 
-
 [^1]: Hijamah
 

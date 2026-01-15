@@ -24,7 +24,6 @@ Men om man utformade avsikten för att göra istikharah[^1]-bönen när man bad 
 
 Och Allāh vet bäst.
 
-
 [^1]: Bönen man ber för att söka Allāhs hjälp när man har flera valmöjligheter.
 [^2]: Du´ā
 [^3]: Tahiyyatul-Msjid.

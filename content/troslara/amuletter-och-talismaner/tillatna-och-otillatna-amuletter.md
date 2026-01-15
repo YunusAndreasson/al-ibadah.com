@@ -54,7 +54,6 @@ De lärde har olika åsikter om det är tillåtet att bära Koran-amuletter. Det
 
 Det är Allāh som ger framgång.
 
-
 [^1]: En trollformel som används för att skapa kärlek mellan maken och makan.
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

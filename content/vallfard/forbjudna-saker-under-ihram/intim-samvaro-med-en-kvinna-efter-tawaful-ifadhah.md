@@ -22,7 +22,6 @@ Efter att ha gjort två av de tre handlingarna [som att kasta stenarna, raka huv
 
 Och Allāh vet bäst.
 
-
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Vandringen mellan as-Safa och al-Marwa.
 [^3]: Någon som både gör `umrah och vallfärdar.

@@ -39,7 +39,6 @@ I hadithen från ʿAbdul-Qais-delegationen nämnde han enbart en kategori, och d
 
 > ”Islam är uppenbar och tron är dold.” Detta beror på att den [tron] finns i hjärtat och därför kan man finna en hycklare som ber, ger i välgörenhet och fastar. Denne ser ut att vara muslim men är inte troende [denne har ingen tro]. Allāh den Upphöjde säger: ”Det finns människor som säger: ’Vi tror på Gud och på den Yttersta dagen’. Medan de [i själva verket] inte tror.” [Koranen 2:8]
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^3]: De tre första generationerna i islam.

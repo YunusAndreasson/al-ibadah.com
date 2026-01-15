@@ -18,6 +18,5 @@ description: 'Fråga: Vad gäller den som har gått in i moskén och inte funnit
 
 Och genom Allāh uppnås framgång.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

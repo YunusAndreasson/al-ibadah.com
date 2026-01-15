@@ -21,6 +21,5 @@ Denna diskussion fortlöper tills Allāh den Allsmäktige säger: ”[På Domens
 
 Och som jag sagt, indikerar kontexten att denna frågestund mellan ʿĪsā och Allāh kommer att äga rum i det Nästkommande.
 
-
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 

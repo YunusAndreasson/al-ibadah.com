@@ -16,7 +16,6 @@ description: 'Fråga: Är det tillåtet att slå ihop middagsbönen och eftermid
 
 **Svar:** Det är inte tillåtet att slå ihop eftermiddags- eller kvällsbönerna utan en giltig ursäkt som resa utan uppehåll, att det regnar och kläderna blir våta och lera fastnar på fötterna eller att man är sjuk och det blir svårt att tvaga.
 
-
 [^1]: Dhuhr
 [^2]: Asr
 

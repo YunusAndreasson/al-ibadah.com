@@ -22,7 +22,6 @@ Med bland annat dessa båda *ahādīth[^2]* som grund bör varje troende [man so
 
 Och Allāh är Den som beviljar framgång.
 
-
 [^1]: Wudû´
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

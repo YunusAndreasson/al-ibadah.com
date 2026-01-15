@@ -16,7 +16,6 @@ description: 'Fråga: Vilket är utlåtandet om att spendera natten i Muzdalifah
 
 **Svar:** Pilgrim måste spendera natten före den tionde *dhul-hijjah[^2]* i Muzdalifah[^1]. Han gör det fram till gryningsbönen[^3] om han inte har en ursäkt, som sjukdom eller något liknande. För en sådan person och den som är ansvarig för honom är det tillåtet att resa till Mina efter mitten av natten. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – under sin vallfärd spenderade natten där [i Muzdalifah[^1]] till gryningsbönen[^3]. Han tillät att de som hade en ursäkt gav sig av från Muzdalifah[^1] till Mina efter midnatt.
 
-
 [^1]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
 [^2]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 [^3]: Fajr

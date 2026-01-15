@@ -16,6 +16,5 @@ description: 'Fråga: Vilket är utlåtandet om den som tar ett blodprov då den
 
 **Svar:** Blodprov som dessa förstör inte fastan. I stället ursäktas detta då det är något som det finns behov för. Enligt den rena islamiska lagen är detta inget som bryter fastan.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

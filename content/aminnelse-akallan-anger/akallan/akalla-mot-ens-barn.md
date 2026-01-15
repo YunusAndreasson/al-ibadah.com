@@ -25,6 +25,5 @@ Allāh den Allsmäktige förlåter en sådan person, för Han har sagt:
 
 /.../
 
-
 [^1]: Du´ā
 

@@ -22,6 +22,5 @@ Men om imamen gör *taslīm[^1]* en gång och den som leds i bönen inte anser a
 
 Om imamen gör två *taslīm[^1]* och den som leds i bön anser att en *taslīm[^1]* är tillräckligt, då bör denne [ändå] göra *taslīm[^1]* med imamen för att följa honom.
 
-
 [^1]: Den avslutande hälsningen i bönen.
 

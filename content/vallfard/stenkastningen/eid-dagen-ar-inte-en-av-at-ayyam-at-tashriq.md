@@ -21,6 +21,5 @@ Den som har bråttom bör ge sig av före solnedgången den tolfte [i dhul-hijja
 
 När denne inte spenderar den tolfte natten i Mina, då måste denne ge till välgörenhet. Denne ger så mycket som möjligt utan att det orsakar problem. Denne måste även ångra sig och söka Allāhs förlåtelse för detta fel och för att denne har skyndat sig [iväg] innan tiden var inne.
 
-
 [^1]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 

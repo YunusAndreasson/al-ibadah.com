@@ -27,7 +27,6 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Om någon av er ser något ont bör han ställa det tillrätta med sin hand, är han inte förmögen att göra det, bör han göra det med sin tunga, och om han inte är förmögen att göra det, bör han hata det i sitt hjärta – och det är den lägsta formen av tro.” [*Muslim* 49, *at-Tirmithi* 2172, *Ahmad* 3:49, 52-54 och *an-Nasā’i* 5011]
 
-
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^2]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 

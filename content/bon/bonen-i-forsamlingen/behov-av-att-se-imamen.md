@@ -16,7 +16,6 @@ description: 'Fråga: Den finns en moské nära oss och norr om den finns ett om
 
 **Svar:** De lärde är till viss del oeniga om giltigheten i deras bön. De kan ju inte se imamen utan hör endast hans *takbīr[^2]*. Det är säkrast att de inte ber på den plats som du har beskrivit, utom om de hittar en plats i moskén bakom en tjänare eller en annan plats där de kan se imamen eller någon av de bedjande.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Att säga Allahu Akbar.
 

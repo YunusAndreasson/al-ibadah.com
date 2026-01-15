@@ -27,7 +27,6 @@ Qutādah's *tafsīr[^4]* kan tolkas som att enbart Allāh har kunskap om detta s
 
 /.../
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

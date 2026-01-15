@@ -21,6 +21,5 @@ description: 'Fråga: Jag är en man som under detta år vill utföra den obliga
 
 Har du inte möjlighet att få fram pengar till vallfärden, samtidigt som du betalar av skulden, då är du inte skyldig att vallfärda. Detta med anledning av denna ädla vers och innebörden av *ahādīth[^1]* som har berättats från Allāhs sändebud.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

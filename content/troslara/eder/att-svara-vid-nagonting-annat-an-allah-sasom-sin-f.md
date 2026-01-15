@@ -24,6 +24,5 @@ För det tredje. Ens handlingar ska vara enligt Allāhs lag och det är inte til
 
 Och Allāh är källan till all styrka.
 
-
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

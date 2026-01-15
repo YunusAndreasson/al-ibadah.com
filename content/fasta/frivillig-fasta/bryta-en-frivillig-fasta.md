@@ -18,6 +18,5 @@ description: 'Fråga: Får den fastande bryta en frivillig fasta när denne vill
 
 Och Allāh är Givaren av framgång.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

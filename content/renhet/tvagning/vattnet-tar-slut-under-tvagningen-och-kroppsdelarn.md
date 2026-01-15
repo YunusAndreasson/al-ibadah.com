@@ -23,6 +23,5 @@ Vissa lärde har sagt att *muwalah* är att inte fördröja rengörandet av en l
 
 Men om fördröjandet skedde eftersom vatten skulle hämtas, som fallet var i frågan, har vissa lärde sagt att *muwalah* har gått förlorad. Då måste tvagningen[^1] göras om från början. Andra säger att muwalah inte har gått förlorad då det inte var något man valde självmant och eftersom man fortfarande väntar på att fortsätta med sin tvagning[^1]. Enligt denna åsikt, om vattnet återvänder, då bör man utgå från vad man har gjort även om man har torkat. Grunden till detta är att bland de lärda som säger att *muwalah* är en skyldighet och ett villkor för giltigheten, så har vissa åsikten att *muwalah* inte avgörs genom att kroppen har torkat, utan enligt vad som är sed. Därför anses det som vanligtvis är ett avbrott vara ett avbrott, och det som inte anses var ett av brott är det inte. Ett exempel på detta är den som väntar på vatten när tillförseln bryts. Man menar nu att denne är sysselsatt med att få tag på vatten och det anses inte vara en paus under tvagningen[^1] . Denne baserar sin handling på vad som har föregått om det inte drar ut på tiden till den grad att det tar längre tid än vad som anses vara normalt. I detta fall måste de börja från början. Och det är inga problem att göra det.
 
-
 [^1]: Wudû´
 

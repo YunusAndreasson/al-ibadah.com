@@ -20,6 +20,5 @@ Ett exempel på detta skulle kunna vara en man som ser någon drunkna i vattnet 
 
 Och Allāh vet bäst.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

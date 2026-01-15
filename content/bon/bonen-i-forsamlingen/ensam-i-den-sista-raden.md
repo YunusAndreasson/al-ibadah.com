@@ -34,7 +34,6 @@ Det tredje sättet är att man står jämte imamen. Detta är dock inte rätt d�
 
 Det fjärde sättet är att man lämnar församlingen. Detta är dock inte ett alternativ. Att be med församlingen är en ju skyldighet och att stå i en rad är även det en skyldighet. Kunde man varken göra det ena eller det andra gäller inte längre skyldigheten att göra det andra då det inte är möjligt för en att göra det första.
 
-
 [^1]: Att säga Allahu Akbar.
 [^2]: Ruku, bugningen när ryggen hålls parallell med marken.
 [^3]: sujūd, nedfallandet när pannan läggs mot marken.

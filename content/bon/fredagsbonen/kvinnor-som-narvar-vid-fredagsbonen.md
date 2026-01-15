@@ -18,7 +18,6 @@ description: 'Fråga: Vilket är utlåtandet om att en kvinna ber fredagsbönen?
 
 Genom Allāh uppnås framgång. Må frid och välsignelser vara över profeten Muhammad, hans familj och följeslagare.
 
-
 [^1]: Dhuhr
 [^2]: Rakah.
 

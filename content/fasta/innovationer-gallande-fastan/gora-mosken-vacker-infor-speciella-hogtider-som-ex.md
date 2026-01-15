@@ -20,7 +20,6 @@ Det har inte bekräftats att profeten – över honom vare Allāhs frid och väl
 
 Att ljussätta moskén och att hänga upp elektriska lampor ovanför dem eller runt deras minareter, att hänga flaggor och att placera blommor i dem under *‘eid* och andra speciella tillfällen, det är en imitation av de som inte tror. Detta är att imitera dem i vad de gör med deras synagogor och kyrkor. Profeten – över honom vare Allāhs frid och välsignelser – har förbjudit att vi imiterar deras dyrkan.
 
-
 [^1]: Tron på att det bara finns en Gud.
 [^2]: Dhikr
 [^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

@@ -26,7 +26,6 @@ En kvinna med månadsblödning och en kvinna med blödningar efter graviditeten 
 
 Och Allāh är Den som ger framgång.
 
-
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Den lilla vallfärden.

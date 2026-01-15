@@ -19,6 +19,5 @@ description: 'Fråga: Om en gravid eller ammande kvinna under ramadan är rädd 
 
 Och framgång kommer från Allāh.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

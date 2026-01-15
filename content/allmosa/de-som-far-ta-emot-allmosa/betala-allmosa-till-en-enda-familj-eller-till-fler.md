@@ -16,6 +16,5 @@ description: 'Fråga: Om man enbart ger en liten allmosa, exempelvis 200 riyal,
 
 **Svar:** Är allmosan liten är det bättre att ge den till en enda familj. Detta beror på att om den delas ut till ett antal olika familjer, med en liten del, då kommer den inte att göra så stor nytta.
 
-
 [^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 ramadan 1428).
 

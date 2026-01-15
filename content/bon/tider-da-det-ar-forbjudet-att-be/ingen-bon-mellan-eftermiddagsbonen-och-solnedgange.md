@@ -18,7 +18,6 @@ description: 'Fråga: Varför är det inte tillåtet att be sunnah eller andra b
 
 De lärde har sagt att anledningen med största sannolikhet är att det är ett förbud mot att imitera månggudadyrkare[^4] som nedfaller inför solen då den går upp och ned. Därför är frivilliga [böner] förbjudna under dessa tidpunkter. Det finns ju ingen anledning till dem och det finns rädsla för att tjänarens nedfallan ska vara för solen. Förbudet mot bön under denna långa period har gjorts generellt för att motverka *shirk[^5]* och allting som kan leda till det.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Asr
 [^3]: Fajr

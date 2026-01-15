@@ -43,7 +43,6 @@ Pilgrimen bör även vara vänlig, generös och lättsam med sina tillgångar oc
 
 Detta är det som är obligatoriskt för en pilgrim eller det som denne måste utföra. Det bästa sättet för att uppnå detta är att resa med någon kunnig som kan påminna en om ens religion. Är detta inte möjligt bör man läsa böcker från de lärda innan man börjar vallfärden. Då dyrkar man Allāh med kunskap.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^3]: Den sju långa rundar vandringen runt Kabah.

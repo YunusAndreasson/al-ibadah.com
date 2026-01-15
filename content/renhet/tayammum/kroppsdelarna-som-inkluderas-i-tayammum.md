@@ -27,7 +27,6 @@ Ordet *as-sa'[^2] id* som används i denna vers avser jordens yta. Med denna fö
 
 De kroppsdelar som *tayammum[^1]* täcker är ansiktet och händerna. Hela ansiktet ska strykas med händerna. Sedan stryks händerna mot varandra [gnugga mellan fingrarna]. Stryks även underarmarna så finns det ingen invändan mot det. Det räcker att stryka mot marken en gång och stryker man två gånger är det [också] tillåtet. Det är bättre att göra *tayammum[^1] l* för varje obligatorisk bön, utom om bönerna slås ihop. I detta fall bör man endast göra *tayammum[^1]* för dem en gång. Man kan dock be ett antal böner med en *tayammum[^1]* så länge man inte gör den ogiltig genom att släppa sig, urinera eller tömma tarmen. Finner man vatten så ska man frukta Allāh och tvaga sig.
 
-
 [^1]: En rituell rening som görs med hjälp av jord/sand då det inte finns vatten tillgängligt.
 [^2]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
 

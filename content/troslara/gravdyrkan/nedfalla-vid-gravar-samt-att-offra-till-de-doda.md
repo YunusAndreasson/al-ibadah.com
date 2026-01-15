@@ -40,7 +40,6 @@ Detta understryker att den som offrar till någon annan än Allāh kommer att f�
 
 Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muhammad samt göra honom, hans hushåll och följeslagare säkra från ont.
 
-
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^2]: Mushrik.
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

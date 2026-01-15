@@ -16,6 +16,5 @@ description: 'Fråga: Om en församling bad mot en annan riktning än qiblah och
 
 **Svar:** Om de var i öknen och använde deras omdömen för att ta reda på riktningen mot *qiblah[^1]*, då behöver de inte ta igen något. Men om de befann sig i en stad eller by, då måste de ta igen. Då hade de ju kunnat fråga folket runt omkring dem om riktningen mot *qiblah[^1]*.
 
-
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 

@@ -26,7 +26,6 @@ Har han inte möjlighet att göra så bör han hålla sig isolerad från dessa [
 
 Må Allāhs frid och välsignelser vara över vår profet Muhammad, hans familj och följeslagare.
 
-
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^2]: Mushrik.
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

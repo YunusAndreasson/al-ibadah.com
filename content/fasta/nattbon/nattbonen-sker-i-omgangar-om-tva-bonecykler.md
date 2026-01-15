@@ -20,7 +20,6 @@ Det finns en berömd *hadīth[^4]* i vilken ‘A’ishah – må Allāh vara nö
 
 Och Allāh är Givaren av framgång.
 
-
 [^1]: Rakah.
 [^2]: Den avslutande hälsningen i bönen.
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

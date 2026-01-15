@@ -24,6 +24,5 @@ Kvinnor måste täcka deras fötter med sockar eller långa och luftiga klännin
 
 Och genom Allāh uppnås framgång.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

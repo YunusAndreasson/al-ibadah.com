@@ -21,6 +21,5 @@ För den sjuke är det en skyldighet att fasta ett antal andra dagar. Om denne a
 
 Men om sjukdomen var av sådan art att denne inte förväntades att tillfriskna, då är den grundläggande principen att denne är skyldig att ge en fattig mat för varje dag.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

@@ -27,7 +27,6 @@ Men att ta bort något smutsigt är något som rör det som inte bör finnas. Om
 
 Och Allāh vet bäst.
 
-
 [^1]: De delar av kroppen som måste täckas.
 [^2]: Fajr
 [^3]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.

@@ -106,7 +106,6 @@ När profeten – över honom vare Allāhs frid och välsignelser – tillfråga
 
 Må Allāh välsigna vår profet Muhammed, hans familj och följeslagare – och bevilja dem frid.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Den första månaden på det islamiska året. Under denna månaden kan man fasta den 9:e och 10:e dagen eller den 10:e och 11:e.
 [^3]: Den andra månaden på det islamiska året.

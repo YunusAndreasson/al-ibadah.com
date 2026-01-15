@@ -23,6 +23,5 @@ Det är den tro som omfattar handlingarna i alla dess typer och kategorier som h
 
 De lärde inom *tafsīr[^1]* har sagt att *er tro* betyder *era böner mot Jerusalem*. Innan de kommenderades att vända sig mot Ka’bah brukade profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – be mot Klippmoskén [i Jerusalem].
 
-
 [^1]: Tolkning av Koranen efter givna principer.
 

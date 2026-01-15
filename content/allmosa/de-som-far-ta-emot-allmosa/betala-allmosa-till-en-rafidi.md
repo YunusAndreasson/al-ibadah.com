@@ -24,7 +24,6 @@ Den som betvivlar detta, låt denne läsa böckerna som har skrivits i förnekan
 
 Och Allāh är källan till all styrka.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

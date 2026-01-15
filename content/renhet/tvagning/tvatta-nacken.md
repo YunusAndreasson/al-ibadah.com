@@ -15,6 +15,5 @@ description: 'Fråga: Är det tillåtet att tvätta nacken under tvagningen och 
 
 **Svar:** Att tvätta nacken under tvagningen[^1] är en innovation och att tvätta kroppsdelarna mer än tre gånger är en onödig extravagans.
 
-
 [^1]: Wudû´
 

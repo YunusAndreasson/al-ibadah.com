@@ -30,7 +30,6 @@ Om denne tror på vad siaren sade är denne till följd av det en icke-troende d
 
 > ”Säg: ’Ingen i himlarna eller på jorden har kunskap om det som är dolt för människor[^2] – [ingen har denna kunskap] utom Gud.” [Koranen 27:65]
 
-
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 [^2]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 

@@ -26,7 +26,6 @@ Men om bönen börjar och man redan har utfört en andra bönecykel, då syndar 
 
 Och Allāh är Beviljaren av framgång.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Dhuhr
 [^3]: Att säga Allahu Akbar.

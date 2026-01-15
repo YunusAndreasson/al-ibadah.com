@@ -30,7 +30,6 @@ Några lärde har exkluderat, och tillåtet, Koran-amuletter. De begränsade *ah
 
 Ett djur som offras av den som bär en Koran-amulett är tillåtet. Det beror på att denne endast tror att det är Koranen som är verkningsfull. Detta tar inte denne ur islam. Koranen är även Allāhs den Upphöjdes tal, och Hans tal är en av Hans egenskaper.
 
-
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^2]: En trollformel som används för att skapa kärlek mellan maken och makan.
 [^3]: Mushrik.

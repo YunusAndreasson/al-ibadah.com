@@ -18,7 +18,6 @@ description: 'Fråga: Är två bönecykler efter tawāf bakom platsen där Abrah
 
 Och Allāh ger framgång.
 
-
 [^1]: Rakah.
 [^2]: Den sju långa rundar vandringen runt Kabah.
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

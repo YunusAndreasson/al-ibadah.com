@@ -145,7 +145,6 @@ Om någon vill studera denna fråga vidare, då bör denne vända sig till Allā
 
 Må frid och välsignelser vara över Muhammad, hans familj och hans följeslagare.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

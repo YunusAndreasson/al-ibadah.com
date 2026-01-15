@@ -27,6 +27,5 @@ Allāh är störst! De snålar med deras själar och de vill inte lämna deras k
 
 Således bekräftas straffet i graven entydigt genom profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*, Koranens tydliga innebörd och vad alla muslimer är eniga om. Koranens uppenbara innebörd är tydlig. De båda verserna som vi har nämnt är ju tydliga bevis.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

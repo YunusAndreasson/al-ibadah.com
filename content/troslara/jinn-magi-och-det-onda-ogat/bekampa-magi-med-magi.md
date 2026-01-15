@@ -24,7 +24,6 @@ Djävulens hantverk är sådant som består av magi. Det finns ingen invändan m
 
 När det gäller tron på magi, då är den av två typer. Den första är att man tror att den har en inverkan, och det finns ingen invändan mot det, då det är ett faktum. Den andra typen är att tro på och acceptera den, vilket är förbjudet.
 
-
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^2]: Du´ā
 [^3]: Behandling av magi, som ofta består av mot-magi.

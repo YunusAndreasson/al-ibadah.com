@@ -25,6 +25,5 @@ Profeten har sagt:
 
 Någon kan tänkas säga: ”Brukade inte Allāhs sändebud till den sjuke säga: ’*Det finns inget skadligt. (Det är endast) en rening, om Allāh vill*.’” [*al-Bukhārī* 5656] Vi svarar: Ja, han brukade säga detta men det är uppenbart att han inte sade det i form av en åkallan[^1] utan istället som ett medel för att ge nyheter eller hopp till den sjuke. Att vara resolut är då metoden för att åkalla.
 
-
 [^1]: Du´ā
 

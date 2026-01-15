@@ -21,7 +21,6 @@ Detta är vad som är föreskrivet för den som hindras. Han väntar därmed och
 
 Rakningen av huvudet eller klippningen av håret sker efter offret. På detta sätt offrar han djuret först, rakar huvudet eller klipper håret, träder ur sin *ihrām[^1]* och återvänder sedan hem.
 
-
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.
 [^3]: Platsen där pilgrimmen träder in i ihraam.

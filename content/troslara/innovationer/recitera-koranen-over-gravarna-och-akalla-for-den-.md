@@ -20,7 +20,6 @@ Det finns ingen invänan mot att åkalla för den avlidne vid gravens sida. Man 
 
 Men om någon åkallar[^2] för egen räkning vid gravens sida, om denne gör så avsiktligen, då är det en sorts innovation. Man får inte välja någon plats för åkallan[^2] om det inte finns bevis som har rapporterats för det. Har inga bevis rapporterats för det och det inte har nämnts i profetens – över honom vare Allāhs frid och välsignelser – sunnah[^3], då är det en innovation var det än inträffar.
 
-
 [^1]: De tre första generationerna i islam.
 [^2]: Du´ā
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

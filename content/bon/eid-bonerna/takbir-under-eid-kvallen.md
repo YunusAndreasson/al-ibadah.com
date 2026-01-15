@@ -35,7 +35,6 @@ Både sätt är tillåtna.
 
 Män höjer deras röster när de läser denna åminnelse[^2] på marknadsplatser, i moskén och I hemmen. Kvinnor höjer dock inte deras röster.
 
-
 [^1]: Att säga Allahu Akbar.
 [^2]: Dhikr
 

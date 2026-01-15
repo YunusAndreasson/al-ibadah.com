@@ -16,7 +16,6 @@ description: 'Fråga: Det finns en person som måste ta igen fastedagar från ra
 
 **Svar:** Det som är föreskrivet är att denne börjar med att ta igen fastan [från ramadan[^1]] innan dessa sex dagar fastas. Detta beror att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som fastar under ramadan[^1] och sedan följer den med sex [dagars fasta] under shawwal[^2], då är det som om denne hade fastat hela tiden [hela året]*.” [*Muslim* 1164] Om denne fastar dem innan denne tar igen fastan som missats, då har denne inte lyckats med att följa ramadan[^1] med dem. I stället har denne fastat dem före den andra delen [att fullborda ramadan[^1]]. Detta beror också på att skyldigheten är viktigare och har större rätt till att ges företräde.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Den tionde månaden i det islamiska året. Under denna månad är det rekommenderat att fasta sex dagar frivillig fasta.
 

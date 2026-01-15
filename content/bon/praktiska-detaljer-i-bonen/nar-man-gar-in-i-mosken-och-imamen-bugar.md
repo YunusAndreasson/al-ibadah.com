@@ -22,7 +22,6 @@ Han beordrade honom inte att ta igen den vilket bevisar att det var tillräcklig
 
 Och Allāh är Beviljaren av framgång.
 
-
 [^1]: Ruku, bugningen när ryggen hålls parallell med marken.
 [^2]: Att säga Allahu Akbar.
 [^3]: Du´ā

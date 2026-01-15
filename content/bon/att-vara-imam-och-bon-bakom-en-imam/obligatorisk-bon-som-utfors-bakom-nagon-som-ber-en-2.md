@@ -18,7 +18,6 @@ description: 'Fråga: Får den som ber en obligatorisk bön göra det bakom någ
 
 > ”Om du gick in i [moskén] medan imamen bad *tarāwīh* och du inte hade bett nattbönen[^3], be då bakom honom för det kommer att vara en obligatorisk bön för dig och en frivillig för honom.”
 
-
 [^1]: Dhuhr
 [^2]: Asr
 [^3]: Isha

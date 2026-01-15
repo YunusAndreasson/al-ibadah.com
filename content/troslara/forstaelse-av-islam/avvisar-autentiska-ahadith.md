@@ -20,6 +20,5 @@ De lärde inom *hadīth[^1]* bör träffa dem och informera dem om att dessa *ah
 
 Och vägledningen finns hos Allāh. Må Allāh sända frid och välsignelser över Muhammad, hans familj och hans följeslagare.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

@@ -18,7 +18,6 @@ description: 'Fråga: Om jag missade en bön och jag vill be den tillsammans med
 
 Och Allāh vet bäst.
 
-
 [^1]: Dhuhr
 [^2]: Asr
 [^3]: Maghrib

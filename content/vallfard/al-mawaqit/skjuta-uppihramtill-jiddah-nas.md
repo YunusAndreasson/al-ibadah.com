@@ -20,7 +20,6 @@ Om han inte känner till platsen för *mīqāt[^3]*, då bör han fråga piloten
 
 Och framgång kommer från Allāh. Må Allāh sända välsignelser och frid över vår profet Muhammad, hans familj och följeslagare.
 
-
 [^1]: Den lilla vallfärden.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^3]: Platsen där pilgrimmen träder in i ihraam.

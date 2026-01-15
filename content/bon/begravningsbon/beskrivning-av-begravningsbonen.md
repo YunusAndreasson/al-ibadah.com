@@ -25,7 +25,6 @@ description: 'Fråga: Vänligen, förklara för oss hur begravningsbönen ska be
 Åkallan med andra ord går också bra. Du kan exempelvis säga: “*Allāhumma in kāna muhsinan fa zid fi ihsānihi wa in kāna musī’an fa tajāwaz ‘an sayi’ātihi. Allāhumma ighfir lahu wa thabbit-hu bi’l-qawl il-thābit*” [Allāh! Om denne var en som gjorde gott, öka då dennes goda handlingar. Om denne var en som gjorde fel, ha då överseende med dennes dåliga handlingar. Allāh! Förlåt denne och ge denne styrkan att säga det rätta.]”
 6. Sedan säger du en fjärde *takbīr[^1]* och väntar en kort stund. Därefter säger du en *taslīm[^4]* till höger: “*Assalāmu ‘alaykum wa rahmat-Allāh*.”
 
-
 [^1]: Att säga Allahu Akbar.
 [^2]: Du´ā
 [^3]: Tawāf är vandringen sju varv runt Kaʿbah.

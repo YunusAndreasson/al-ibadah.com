@@ -16,6 +16,5 @@ description: 'Fråga: En kvinna gjorde något välgörande då hon betalade sin 
 
 **Svar:** Det är ingen fara i det och må Allāh belöna henne med gott för vad hon har gjort. Anledningen är att hennes handlande var ett samarbete i rättfärdighet och dygd.
 
-
 [^1]: Den lilla vallfärden.
 

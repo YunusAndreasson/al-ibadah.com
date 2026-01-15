@@ -33,7 +33,6 @@ Anledningen till detta är att vi inte har några rapporter från Allāhs sände
 
 Allāh den Allsmäktige säger: ”*I Guds Sändebud har ni ett gott föredöme*.” [33:21]
 
-
 [^1]: Du´ā
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: En åkallan som kan läsas under den nattliga witr-bönen.

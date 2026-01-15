@@ -43,7 +43,6 @@ Efter att ha studerat dessa och andra dokument – vilket inkluderat ett stort a
 
 Och framgång kommer från Allāh.
 
-
 [^1]: Rättslära.
 [^2]: Kämpa för Allāhs sak.
 

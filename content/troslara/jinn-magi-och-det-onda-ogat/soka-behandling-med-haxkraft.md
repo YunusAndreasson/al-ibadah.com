@@ -26,7 +26,6 @@ Han har även sagt:
 
 Den som påstår sig känna till det som är dolt för människor[^2] genom geomanci [När man försöker göra spådomar genom att dra streck på marken] eller genom att be en patient om hans, moderns eller släktingars namn är en siare eller en trollkarl. Profeten – över honom vare Allāhs frid och välsignelser – förbjöd att man tar råd från dem och han förbjöd även att man tror på dem.
 
-
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 [^2]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen

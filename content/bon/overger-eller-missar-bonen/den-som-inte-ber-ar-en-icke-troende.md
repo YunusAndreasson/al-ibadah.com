@@ -22,7 +22,6 @@ Du som har ställt frågan får inte återvända till din man förrän han åter
 
 Och Allāh är Beviljaren av framgång.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

@@ -20,7 +20,6 @@ description: 'Fråga: Jag fastade och sov då i en moské. När jag hade vaknat 
 
 Denna *hadīth[^2]* har Ahmad och de som har sammanställt *sunan* återgivit med en autentisk berättarkedja.
 
-
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

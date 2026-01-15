@@ -19,6 +19,5 @@ description: 'Fråga: Vilket är utlåtandet om den som påstår sig känna till
 
 Det som är dolt för människor består av kunskap om framtiden, tiden för dödsögonblicket, ens livslängd, m.m.
 
-
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 

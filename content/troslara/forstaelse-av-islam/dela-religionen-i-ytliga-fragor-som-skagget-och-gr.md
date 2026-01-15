@@ -31,6 +31,5 @@ Att låta skägget växa ut rådet det inga tvivel om att det är en dyrkan. Pro
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt att det är en del av det naturliga tillstånd som Allāh har skapat människan med att låta skägget växa. Att låta det växa ut är då en del av dyrkan – inte en vana eller en ytlig angelägenhet som vissa påstår att det är.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

@@ -16,6 +16,5 @@ description: 'Fråga: Måste man raka huvudet eller klippa håret under det stor
 
 **Svar:** Det är inte obligatoriskt och ej heller är det rekommenderat att raka huvudet eller klippa håret efter det stora avlägsnandet av ihrām[^1]. Håret har ju rakats eller klippts vid det mindre utträdet ur *ihrām[^1]* [som sker när man har kastat stenarna på pelarna]. Anledningen är att det är en vallfärdsrit och därför är det en dyrkan, och dyrkan grundas på strikta bestämmelser från texterna. Det har inte bekräftats att profeten – över honom vare Allāhs frid och välsignelser – rakade sitt huvud eller klippte sitt hår efter det stora utträdet ur ihrām[^1]. I stället gjorde han endast det vid det mindre utträdet ur *ihrām[^1]*. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Ta era vallfärdsriter från mig*.” [*Muslim* 1297 och *al-Bayhaqi* 5/125]
 
-
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 

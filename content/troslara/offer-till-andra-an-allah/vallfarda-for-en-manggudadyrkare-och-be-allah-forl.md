@@ -25,7 +25,6 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Jag bad min Herre låta mig att besöka min moders grav, och Han tillät mig, och jag bad om Hans tillstånd att söka förlåtelse för henne, men Han tillät mig inte.” [*Muslim* 976]
 
-
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 [^2]: Mushrik.
 [^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

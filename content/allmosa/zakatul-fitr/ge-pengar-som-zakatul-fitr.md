@@ -29,7 +29,6 @@ Jag ber Allāh att Han hjälper oss och alla muslimer med att förstå Hans reli
 
 Må Allāh sända frid och välsignelser över vår profet Muhammad, hans familj och hans följeslagare.
 
-
 [^1]: Allmosa som ges före eid-bönen.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.

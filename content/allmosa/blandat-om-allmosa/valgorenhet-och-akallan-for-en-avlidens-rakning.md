@@ -20,7 +20,6 @@ Det är tillåtet att ge till välgörenhet för den avlidnes räkning. Det spel
 
 Den generella betydelsen av denna *hadīth[^4]* är att belöningen för välgörenheten når den avlidne. Profeten – över honom vare Allāhs frid och välsignelser – angav inte om sådan välgörenhet uppgivits i den avlidnes testamente eller inte. Därför gäller denna *hadīth[^4]* i båda fall. I denna *hadīth[^4]* är ordet ”son” inte specifikt, det finns många autentiska *ahādīth[^4]* som visar att det är tillåtet att åkalla till fördel för någon som har gått bort; precis som begravningsböner och åkallan[^1] för dem är tillåtna då deras gravar besöks. Därför är det ingen skillnad om gåvan till välgörenhet för den avlidnes räkning ges av en nära eller avlägsen släkting.
 
-
 [^1]: Du´ā
 [^2]: adaqah jariyah
 [^3]: Dhuha

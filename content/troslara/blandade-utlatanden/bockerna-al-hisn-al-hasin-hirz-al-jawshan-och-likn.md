@@ -16,7 +16,6 @@ description: 'Fråga: Vilket är utlåtandet om besvärjelser och talismaner om 
 
 **Svar:** Besvärjelser från Koranen och åminnelse[^2] av Allāh är tillåtet, vilket alla besvärjelser som inte innehåller *shirk[^3]* eller någon sorts syndig åkallan[^4] är. Att skriva talismaner och att använda dem som skydd har vi redan gett ett klart utlåtande om. Och när det gäller böckerna *al-Hisn al-Hasin*, *Hirz al-Jawshan* och *as-Saba'ul-'Uqud* är det inte tillåtet att använda dem som skydd. Men att recitera *al-Kursi[^1]*-versen före sömnen är fördelaktigt, precis som det är fördelaktigt att recitera sura *al-Ikhlas* och *al-Mu'awwithatain*[sura al-Falaq och sura an-Nas].
 
-
 [^1]: Allāhs fotpall.
 [^2]: Dhikr
 [^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

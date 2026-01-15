@@ -18,6 +18,5 @@ description: 'Fråga: Får en pilgrim bära ett bälte under ihrām i vilket han
 
 Och framgång kommer från Allāh.
 
-
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 

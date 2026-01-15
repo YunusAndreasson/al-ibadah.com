@@ -21,6 +21,5 @@ description: 'Fråga: Vad gör en kvinna om hennes månadsblödning brukade vara
 
 Så länge blodet finns kvar har hon fortfarande sin månadsblödning tills hon blir ren och gör ghusl[^1]. Får hon därefter sin månadsblödning följande månad och perioden då är kortare, då gör hon *ghusl[^1]* när hon blir ren även om perioden inte var lika lång som den förra. Det som är viktigt är att när hon har sin månadsblödning får hon inte be, oavsett om månadsblödningen är i lika lång som, längre än eller kortare än den tidigare. Om hon blir ren bör hon be.
 
-
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 

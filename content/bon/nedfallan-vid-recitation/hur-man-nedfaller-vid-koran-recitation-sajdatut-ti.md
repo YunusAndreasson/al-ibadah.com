@@ -25,7 +25,6 @@ description: 'Fråga: Hur gör man sajdatut-tilawah och hur många taslīm bör 
 
 Den första delen har Muslim återgivit (771) och at-Tirmithi den andra av (579).
 
-
 [^1]: När vissa verser i Koranen reciteras kan man nedfalla.
 [^2]: Den avslutande hälsningen i bönen.
 [^3]: sujūd, nedfallandet när pannan läggs mot marken.

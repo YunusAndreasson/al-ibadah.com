@@ -18,6 +18,5 @@ description: 'Fråga: Är det tillåtet att flytta en pojke från hans plats i r
 
 Säger vi att det är tillåtet att dra tillbaka en ung pojke till den bakersta raden, då skulle de samlas i en rad och de skulle då leka under bönen. Det finns dock ingen invändan mot att flytta honom från hans plats om man är rädd för att han ska leka.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

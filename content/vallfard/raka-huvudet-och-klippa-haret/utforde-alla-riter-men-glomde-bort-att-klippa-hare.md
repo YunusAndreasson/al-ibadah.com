@@ -18,6 +18,5 @@ description: 'Fråga: En kvinna vallfärdade och hon utförde alla vallfärdsrit
 
 Då det nämns i frågan att hennes make har haft intim samvaro med henne innan hon klippte håret, då måste hon slakta ett får eller en sjundedel av en kamel som passar som offer. Det ska även slaktas i Mecka åt de fattiga, utom om samlagen ägde rum när hon hade lämnat Helgedomen medan hon var i sitt hemland eller på någon annan plats. I detta fall slaktar hon djuret i sitt hemland och delar upp det för distribution bland de fattiga där.
 
-
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 

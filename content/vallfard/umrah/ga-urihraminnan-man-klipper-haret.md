@@ -16,7 +16,6 @@ description: 'Fråga: Förra året utförde jag riterna för ‘umrah under den 
 
 **Svar:** Den som har trätt in i *ihrām[^3]* för *ʿumrah[^1]* får inte träda ur *ihrām[^3]* förrän denne har rakat huvudet eller klippt håret. Den som träder ur sin *ihrām[^3]* innan han klippt håret och han bär [vanliga] kläder samt täcker sitt huvud [samtidigt som han känner till reglerna] måste offra en försoningslösen för detta. Om han inte kände till utlåtandet eller glömde det, då krävs det inget av honom. Men när han får kännedom om utlåtandet eller kommer ihåg det, då måste han direkt ta av sig [de vanliga kläderna], ta på sina kläder för *ihrām[^3]* och raka huvudet eller klippa håret. Han är då ursäktad med anledning av hans okunskap om dessa regler.
 
-
 [^1]: Den lilla vallfärden.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^3]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

@@ -16,6 +16,5 @@ description: 'Fråga: Är det tillåtet att skjuta upp badet efter sexuell orenh
 
 **Svar:** Om kvinnan ser att hon är ren innan gryningsbönen[^1], då måste hon fasta och det är ingen fara om hon skjuter upp badet till efter gryningsbönen[^1]. Hon får dock inte skjuta upp till efter soluppgången. I stället måste hon bada innan den. Likaså får den sexuellt orene inte skjuta upp badet till efter soluppgången. I stället måste denne bada och be gryningsbönen[^1] innan soluppgången. Det är också en skyldighet att skynda sig så pass mycket att man hinner be gryningsbönen[^1] med församlingen.
 
-
 [^1]: Fajr
 

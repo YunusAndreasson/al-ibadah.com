@@ -17,7 +17,6 @@ description: 'Fråga: Det har bevisats att Allāhs sändebud – må Allāhs fri
 
 Må Allāh välsigna vår profet Muhammad, hans familj och följeslagare.
 
-
 [^1]: Rakah.
 [^2]: Tahiyyatul-Msjid.
 

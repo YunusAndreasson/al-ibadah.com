@@ -20,7 +20,6 @@ När det gäller belöningarna för ens vallfärd beror detta på ens grad av up
 
 Och Allāh är den som ger framgång.
 
-
 [^1]: Släkting som det inte är tillåtet att gifta sig med.
 [^2]: Den lilla vallfärden.
 

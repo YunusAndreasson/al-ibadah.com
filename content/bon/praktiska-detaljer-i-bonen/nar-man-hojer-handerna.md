@@ -20,7 +20,6 @@ När man höjer händerna bör det sammanfalla med början av att man säger ”
 
 Under begravningsbönen är det föreskrivet att höja händerna vid varje *takbīr[^1]*.
 
-
 [^1]: Att säga Allahu Akbar.
 [^2]: Vad man läser i den sittande positionen under bönen.
 

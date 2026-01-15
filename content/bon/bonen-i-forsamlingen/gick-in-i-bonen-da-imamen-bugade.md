@@ -20,7 +20,6 @@ Och Abū Dawūd har lagt till: ”... *och han bugade utanför raden, för att s
 
 Må frid och välsignelser vara över Muhammad, hans familj och följeslagare.
 
-
 [^1]: Att säga Allahu Akbar.
 [^2]: Rakah.
 [^3]: Den avslutande hälsningen i bönen.

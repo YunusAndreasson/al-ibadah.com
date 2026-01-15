@@ -29,6 +29,5 @@ Från Hans ord:
 
 Att låta honom uppresas med kropp och själ är en nödvändig del av Allāhs kraft, visdom, generositet och hjälp till de Han vill hjälpa bland Hans sändebud, enligt Hans ord i slutet av versen: ”*Gud är allsmäktig, vis*.”
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

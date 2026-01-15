@@ -24,6 +24,5 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 Därför, råder vi dig inte att ge upp din tjänst som imam; tvärtom råder vi dig att fortsätta kämpa samt ha tålamod och uppriktighet tills du är framgångsrik i din inlärning av *tajwīd[^1]* och memorerat den. Må Allāh acceptera dina ansträngningar och underlätta för dig.
 
-
 [^1]: Regler som förklarar hur Koranen ska reciteras.
 

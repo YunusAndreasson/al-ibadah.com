@@ -93,7 +93,6 @@ Detta är innebörden av vittnesmålet om att ingen är värdig att dyrkas utom 
 
 Sändebudets rättighet är att tilldela honom den status som Allāh den Upphöjde har givit honom: Att han är Allāhs tjänare och sändebud.
 
-
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 [^2]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 

@@ -23,6 +23,5 @@ Du har inte syndat genom att bryta din fasta under denna månad [ramadan[^1]] s�
 
 Må Allāh bota dig från allt ont och sona dina och allas våra synder.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

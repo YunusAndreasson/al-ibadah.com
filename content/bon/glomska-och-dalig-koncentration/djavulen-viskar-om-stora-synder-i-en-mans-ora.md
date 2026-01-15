@@ -54,7 +54,6 @@ Mitt råd kan kanske summera enligt följande:
 
 Jag ber Allāh den Upphöjde att han ger dig säkerhet och skydd från allt ont och förhatligt.
 
-
 [^1]: Kämpa för Allāhs sak.
 [^2]: Dhikr
 

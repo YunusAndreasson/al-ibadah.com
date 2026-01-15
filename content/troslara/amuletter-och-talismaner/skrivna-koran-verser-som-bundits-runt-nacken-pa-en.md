@@ -35,7 +35,6 @@ De lärde har olika åsikter om att skriva besvärjelser och binda dem runt hals
 
 Den som gör en handling till en orsak till att uppnå något annat, utan ett godkännande från den islamiska lagen, har gjort något som är en sorts *shirk[^4]* då den bekräftar ett medel som Allāh inte har föreskrivit som ett medel.
 
-
 [^1]: Något som reciteras för att bota sjukdomar.
 [^2]: Du´ā
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen

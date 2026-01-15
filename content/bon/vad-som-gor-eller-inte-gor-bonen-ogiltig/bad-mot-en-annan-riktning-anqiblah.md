@@ -18,6 +18,5 @@ description: 'Fråga: När vi kom till Amerika bad vi efter vår kompass, men de
 
 Och genom Allāh uppnås framgång.
 
-
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 

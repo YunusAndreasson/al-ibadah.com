@@ -21,7 +21,6 @@ När det gäller varaktighet betyder det att man inte tvättar sig under olika t
 
 Detta bevisar att varaktighet är ett villkor för att tvagningen[^1] ska accepteras. Det är även en skyldighet eftersom tvagningen[^1] är en enskild dyrkan och en sådan enskild handling görs inte ovanpå en annan, även om de utgörs av olika delar. Den korrekta åsikten är att ordning och varaktighet båda är skyldigheter under tvagningen[^1].
 
-
 [^1]: Wudû´
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Vandringen mellan as-Safa och al-Marwa.

@@ -28,7 +28,6 @@ Vidare bör man inse att allt som tungan yttrar eller hjärtat föreställer sig
 
 Tänker du på saken kommer du inte att finna några större meningsskiljaktigheter bland de tidigaste generationerna om vilka som är de bästa handlingarna. När man känner sig osäker bör man be istikhārah som den har föreskrivits i den islamiska lagen. Den som ber till Allāh och frågar vad som är bäst, istikhārah, kommer inte att känna någon ånger. Denne bör göra det ofta och åkalla mycket, för det är nyckeln till det goda. Denne bör ha tålamod och inte säga: ”Jag bad men jag fick inget svar.” Denne bör söka efter speciellt välsignade tider såsom slutet av natten, direkt efter den föreskrivna bönen, under böneutropet och när det regnar.
 
-
 [^1]: Dhikr
 [^2]: Någon som enbart vallfärdar.
 [^3]: Rättslära.

@@ -28,6 +28,5 @@ Det som är föreskrivet för den avlidne är att denne får ligga på höger si
 
 Vad frågeställaren möjligen har sett är resultatet av okunskap bland dem som gör detta. I annat fall har jag inte hört talas om någon lärd som har sagt att den avlidne bör ligga på sin rygg med händerna på magen.
 
-
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 

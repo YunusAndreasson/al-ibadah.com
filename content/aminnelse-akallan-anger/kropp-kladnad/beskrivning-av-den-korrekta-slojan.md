@@ -77,7 +77,6 @@ Det bör kännas till att det finns gott om autentiska bevis för dessa viktiga 
 
 > “Den som bär ett moderiktigt eller högfärdigt klädesplagg i denna värld kommer Allāh att klä i ett förnedrande plagg Återuppståndelsens Dag, sedan kommer Han att få Elden att flamma upp runt denne.”
 
-
 [^1]: Släkting som det inte är tillåtet att gifta sig med.
 [^2]: Tolkning av Koranen efter givna principer.
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

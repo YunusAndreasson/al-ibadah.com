@@ -18,7 +18,6 @@ description: 'Fråga: Är det en betonad sunnah att vara i moskén under ramadan
 
 Men om några familjemedlemmar kommer och besöker personen i moskén och pratar med denne, då är det ingen fara. Det har rapporterats att Safiyyah besökte profeten – över honom vare Allāhs frid och välsignelser – medan han uppehöll sig i moskén och hon talade med honom. Vad som är viktigt är att vistelsen i moskén är till för att personen ska komma närmare Allāh, prisad vare Han den Högste.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^3]: Dhikr

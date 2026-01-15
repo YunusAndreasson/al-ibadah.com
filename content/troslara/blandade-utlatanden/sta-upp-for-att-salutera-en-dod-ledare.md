@@ -26,6 +26,5 @@ Att stå i tystnad och salutera martyrer eller högt uppsatta personer motsäger
 
 Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muhammad samt göra honom, hans hushåll och följeslagare säkra från ont.
 
-
 [^1]: Du´ā
 

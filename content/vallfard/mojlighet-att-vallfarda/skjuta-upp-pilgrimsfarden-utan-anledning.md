@@ -29,7 +29,6 @@ När [ängeln] Gabriel frågade profeten – över honom vare Allāhs frid och v
 
 Och Allāh är källan till all styrka.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

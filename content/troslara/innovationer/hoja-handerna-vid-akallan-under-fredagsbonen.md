@@ -25,6 +25,5 @@ Jag känner inte till någon invändan mot att säga *āmīn* under imamens pred
 
 Genom Allāhs uppnås framgång.
 
-
 [^1]: Du´ā
 

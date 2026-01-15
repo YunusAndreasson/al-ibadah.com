@@ -18,7 +18,6 @@ description: 'Fråga: Vilket är utlåtandet om den som ber en obligatorisk bön
 
 Och Allāh är Beviljaren av framgång.
 
-
 [^1]: salatul-khawf
 [^2]: Rakah.
 [^3]: Isha

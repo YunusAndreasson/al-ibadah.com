@@ -73,7 +73,6 @@ Här föreligger något som vi måste förstå: Om en man bryter fastan, genom a
 
 Det spelar ingen roll om denne kände till vad som krävs efter denna otillåtna intima samvaro eller om denne var okunnig i frågan. Detta betyder att om en man har intim samvaro under ramadan[^4] då fastan är en skyldighet, men denne inte känner till att det finns ett krav i att gottgöra sig, då gäller det tidigare nämnda utlåtandet om intim samvaro för denne. Detta beror på att denne avsåg att göra fastan ogiltig och det som gör fastan ogiltig gör det nödvändigt att utlåtandet tillämpas på denne. Faktum är att det i en *hadīth[^2]* från Abū Hurairah nämns att en man kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: ”*Och vad har förstört dig?*” Han svarade: ”*Under ramadan[^4] hade jag intim samvaro med min fru när jag fastade*.” [*al-Bukhārī* 1936 och *Muslim* 1111] Profeten – över honom vare Allāhs frid och välsignelser – beordrade honom då att gottgöra sig för detta trots att mannen inte kände till att han var skyldig till det […]
 
-
 [^1]: Hijamah
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

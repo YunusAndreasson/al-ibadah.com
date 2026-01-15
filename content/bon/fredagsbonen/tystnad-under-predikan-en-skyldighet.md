@@ -24,6 +24,5 @@ Talar någon och denne är ovetande [om att man inte får tala], då är denne u
 
 Och Allāh vet bäst.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

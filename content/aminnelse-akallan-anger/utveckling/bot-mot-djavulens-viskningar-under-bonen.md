@@ -21,7 +21,6 @@ Om viskningarna återkommer, då är det föreskrivet att söka tillflykt hos Al
 
 > ”Om någon tvivlar sin bön och inte vet hur mycket han har bett, tre eller fyra bönecykler[^1], låt honom då skjuta detta tvivel åt sidan och utgå från det han är säker på. Nedfall sedan två gånger före *taslīm[^2]*. Har han bett fem, då kommer hans bön att vara en förespråkare för honom, och om han har avslutat sin bön korrekt [som fyra bönecykler[^1]], då kommer det att vara en förnedring för djävulen.” [*Muslim* 571]
 
-
 [^1]: Rakah.
 [^2]: Den avslutande hälsningen i bönen.
 

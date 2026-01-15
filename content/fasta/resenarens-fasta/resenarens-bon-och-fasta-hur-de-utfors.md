@@ -39,7 +39,6 @@ När det gäller resenärens fasta under ramadan[^10] är det bättre att fasta 
 
 All lovprisan tillhör Allāh, världarnas Herre.
 
-
 [^1]: Rakah.
 [^2]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

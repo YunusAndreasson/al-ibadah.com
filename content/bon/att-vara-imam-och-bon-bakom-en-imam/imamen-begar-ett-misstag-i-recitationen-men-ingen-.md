@@ -20,7 +20,6 @@ Detta gäller dock inte om misstaget sker i al-Fātihah. Här måste hela denna 
 
 Allāh är Beviljaren av framgång.
 
-
 [^1]: Att säga Allahu Akbar.
 [^2]: Rakah.
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

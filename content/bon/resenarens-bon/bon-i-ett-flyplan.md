@@ -29,7 +29,6 @@ Detta gäller den obligatoriska bönen. I fråga om de frivilliga, då behöver 
 
 Och genom Allāh uppnås framgång.
 
-
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

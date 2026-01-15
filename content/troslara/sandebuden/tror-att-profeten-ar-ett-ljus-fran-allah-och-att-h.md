@@ -50,6 +50,5 @@ Profeten – över honom vare Allāhs frid och välsignelser – sade till sina 
 
 Det är inte tillåtet att be bakom sådana som denne. Bön accepteras inte bakom dem och det är inte tillåtet att utse dem till imamer över muslimer.
 
-
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 

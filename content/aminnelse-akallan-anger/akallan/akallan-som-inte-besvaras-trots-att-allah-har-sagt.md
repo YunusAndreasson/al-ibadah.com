@@ -52,7 +52,6 @@ Därför, min bror, bör du åkalla Allāh den Allsmäktige i alla dina förehav
 
 Och Allāh är Beviljaren av framgång.
 
-
 [^1]: Du´ā
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.

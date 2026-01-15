@@ -21,6 +21,5 @@ Om en kvinnas normala period är sex eller sju dagar och den ibland blir längre
 
 När blodet fortsätter att rinna är kvinnan kvar i detta tillstånd tills hon har blivit ren. Då gör hon *ghusl[^1]* och ber. Om hennes period är kortare efterföljande månad, då gör hon *ghusl[^1]* när hon blir ren, även som den inte varar samma antal dagar som den förra perioden. Det viktiga är att kvinnan inte ber under blödningen. Det spelar ingen roll om perioden är lika lång som eller kortare än den förra. När hon blir ren, då måste hon be.
 
-
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 

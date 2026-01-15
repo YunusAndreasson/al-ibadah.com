@@ -20,7 +20,6 @@ Frivilliga böner är föreskrivna både när man reser och när man är hemma. 
 
 Allāh är Beviljaren av framgång.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 [^3]: Fajr

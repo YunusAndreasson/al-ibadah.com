@@ -19,6 +19,5 @@ description: 'Fråga: Kan Ali hjälpa någon under tider av svårigheter? Svar: 
 
 > ”Om Gud låter en olycka drabba dig är Han den ende som kan avvärja den, och om Han vill skänka dig något gott kan ingen hindra det goda [att nå dig]. Han skänker det till den Han vill av Sina tjänare. – Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet.” [Koranen 10:107]
 
-
 [^1]: Mushrik.
 

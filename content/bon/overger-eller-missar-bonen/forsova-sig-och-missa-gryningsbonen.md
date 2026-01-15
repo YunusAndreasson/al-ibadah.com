@@ -20,6 +20,5 @@ Detta gäller gryningsbönen[^1] och andra böner. De andra bönerna, om han är
 
 Han får inte slarva med detta. Han måste be någon att väcka honom för att han ska vakna och be i rätt tid. Går inte det så får han placera en väckarklocka vid sitt huvud för att han inte ska missa. Om sömnen tar tag i honom, trots hans arrangemang, då har han inte syndat och han ber så fort han vaknar.
 
-
 [^1]: Fajr
 

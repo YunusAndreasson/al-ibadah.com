@@ -16,6 +16,5 @@ description: 'Fråga: Vilket är utlåtandet om att be en obligatorisk bön bako
 
 **Svar:** Det finns ingen invändan mot att be nattbönen[^1] bakom någon som ber *tarāwīh*. Imam Ahmad har fastslagit detta […]
 
-
 [^1]: Isha
 

@@ -16,7 +16,6 @@ description: 'Fråga: Får de som strider mot fienden bryta fastan under ramadan
 
 **Svar:** Om de som strider mot de icke-troende är på resande fot och får förkorta bönen, då får de bryta fastan och de måste ta igen fastan efter ramadan[^1]. Om de inte reser, då de icke-troende har belägrat dem i deras land, då är den som har möjlighet att fasta under *djihād[^2]* skyldig att fasta. När det gäller den som inte har möjlighet att både fasta och göra det som är obligatoriskt för denne i form av *djihād[^2]*, då får denne bryta fastan och denne måste ta igen den. När ramadan[^1] är över fastar denne de dagar som denne inte fastade.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Kämpa för Allāhs sak.
 

@@ -22,7 +22,6 @@ Det finns inget tvivel om att en *mujāhidin* för Allāh sak är i stort behov 
 
 Och framgång är med Allāh.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Kämpa för Allāhs sak.
 

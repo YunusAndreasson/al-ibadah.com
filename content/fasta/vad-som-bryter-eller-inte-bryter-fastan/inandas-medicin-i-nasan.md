@@ -20,6 +20,5 @@ De lärde som inte säger att fastan förstörs, som *Shaykhul-Islam* Ibn Taymiy
 
 Må Allāh sända frid och välsignelser över vår profet Muhammad, hans familj och hans följeslagare.
 
-
 [^1]: Wudû´
 

@@ -20,7 +20,6 @@ Har den avlidne testamenterat något kommer det att vara en [^1] förmiddagsbön
 
 Om det därför sägs till oss: Är det bättre att be två bönecykler[^4] för min far eller att be två bönecykler[^4] för min egen skull och åkalla för fadern under dem? Då svarar vi: Det är bättre om du ber två bönecykler[^4] själv och åkallar[^3] för din far under dem. Detta var profetens – över honom vare Allāhs frid och välsignelser – vägledning när han sade: ”*eller en rättfärdig son som åkallar[^3] för denne*.” Han sade inte: ”den som ber [*salāh*] för honom”, eller något annat.
 
-
 [^1]: adaqah jariyah
 [^2]: Dhuha
 [^3]: Du´ā

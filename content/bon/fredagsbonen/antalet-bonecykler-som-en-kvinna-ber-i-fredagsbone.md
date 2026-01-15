@@ -16,7 +16,6 @@ description: 'Fråga: Hur många bönecykler bör en kvinna be under fredagsbön
 
 **Svar:** Om en kvinna ber fredagsbönen med imamen bör hon be som imamen ber. Ber hon den i sitt hem ber hon den som middagsbönen[^2] med fyra bönecykler[^1].
 
-
 [^1]: Rakah.
 [^2]: Dhuhr
 

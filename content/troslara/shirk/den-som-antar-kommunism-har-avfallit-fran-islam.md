@@ -35,6 +35,5 @@ Härmed råder det inget tvivel om att den som förnekar Skaparen har en mental 
 
 Detta utlåtande gäller även de som blint följer denna tro och som har levt i islam, därför att islam avvisar med bestämdhet detta. Falskheten i detta tankesätt och i denna ideologi bör vara uppenbar för varje muslim och det finns ingen ursäkt för dem, då det har funnits dem som lärt dem. Om de återvände till deras *fitrah[^1]*, då skulle de finna att kommunismen saknar grund.
 
-
 [^1]: Det naturliga tillstånd som människan föds i.
 

@@ -18,7 +18,6 @@ description: 'Fråga: Måste den som inte känner till en regel eller skyldighet
 
 Anledningen är att Ibn ‘Abbās har sagt: ”*Den som utelämnar en vallfärdsrit eller glömmer den, då måste denne slakta ett djur*.” En annan anledning är en *hadīth[^3]* om en man som bar en parfymerad mantel under *‘umrah[^2]*.
 
-
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

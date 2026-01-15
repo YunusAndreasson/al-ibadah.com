@@ -16,6 +16,5 @@ description: 'Fråga: Ibland kommer farliga tankar och känslor till mig. Jag ä
 
 **Svar:** Dessa känslor och tankar kommer från djävulen. Han viskar dem i människans hjärta för att förvirra för en muslim. När du känner något sådant, sök då din tillflykt hos Allāh och sluta att tänka på frågor om det som är dolt för människor[^1], Allāhs egenskaper och skapelsen så att din övertygelse inte försvagas.
 
-
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 

@@ -16,7 +16,6 @@ description: 'Fråga: Jag bor jämte en moské där jag ber middagsbönen, efter
 
 **Svar:** Det finns ingen invändan mot bön bakom denna imam, även om han harklar sig ofta. Anledningen är att detta inte gör bönen ogiltig om det görs eftersom det är nödvändigt och det normalt sett inte sker på det sätt som du har beskrivit av någon annan anledning än att det är nödvändigt.
 
-
 [^1]: Dhuhr
 [^2]: Asr
 [^3]: Maghrib

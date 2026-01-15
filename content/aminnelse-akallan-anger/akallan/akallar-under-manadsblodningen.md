@@ -26,7 +26,6 @@ Skillnaden mellan dem är att tiden då han är oren är kort och han har möjli
 
 Kvinnan med månadsblödning och kvinnan med blödningar efter graviditeten kan inte påverka – det ligger ju i Allāhs den Allsmäktiges händer. En månadsblödning eller en blödning efter graviditeten är även något som tar lång tid. Därför får de recitera Koranen, annars hade de glömt den samt förlorat nytta i att recitera den och studera dess lagar. Därför är det naturligare att hon får läsa böcker med åkallan[^1] som innehåller Koran-verser och *ahādīth[^3]*. Detta är den korrekta och starkaste av de åsikter som de lärde har.
 
-
 [^1]: Du´ā
 [^2]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

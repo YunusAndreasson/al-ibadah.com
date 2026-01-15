@@ -23,7 +23,6 @@ Alla måste be i tid. Men om det uppstår ett nödtvång och det blir svårt att
 
 Detta är enligt Ibn ‘Abbās uttalande där han säger: ”*Profeten slog ihop middagsbönen[^1] och eftermiddagsbönen[^2] vid kvällsbönen[^3] och nattbönen[^4] i Medina utan att det berodde på rädsla eller regn*.” [*an-Nasā’i* 603] Han tillfrågades om detta och han sade: ”*Han ville inte skapa problem för sitt folk*.” Detta betyder att han inte ville skapa svårigheter för dem genom att överge sammanslagningen av bönerna. Detta är en indikation från Ibn ‘Abbās på att det inte är tillåtet att slå ihop bönerna, utom om det skulle leda till svårigheter och besvär om man inte gjorde så. Detta är vad som är obligatoriskt. När man slår ihop två böner utan en giltig ursäkt, då har ens sammanslagna bön förrättats vid en annan tidpunkt än den som Allāh har fastslagit. Detta är inte rätt. Anledningen är att man har utfört en handling som inte tillhör Allāhs eller Hans sändebuds religion. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [*Muslim* 1718]
 
-
 [^1]: Dhuhr
 [^2]: Asr
 [^3]: Maghrib

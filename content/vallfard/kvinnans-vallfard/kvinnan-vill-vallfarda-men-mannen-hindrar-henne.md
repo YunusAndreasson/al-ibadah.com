@@ -20,6 +20,5 @@ I situationen som har nämnts får hon vallfärda tillsammans med hennes broder,
 
 Och Allāh är Den som ger framgång och vägleder till den rätta vägen.
 
-
 [^1]: Släkting som det inte är tillåtet att gifta sig med.
 

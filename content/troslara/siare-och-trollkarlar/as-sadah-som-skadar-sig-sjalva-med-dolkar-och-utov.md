@@ -49,7 +49,6 @@ De måste även rådas att vända sig till Allāh den Härlige i ånger för all
 
 Vi ber Allāh att Han vägleder oss och dem.
 
-
 [^1]: Mästare.
 [^2]: Du´ā
 [^3]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.

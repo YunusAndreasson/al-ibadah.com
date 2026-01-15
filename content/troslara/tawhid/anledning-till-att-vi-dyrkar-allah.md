@@ -24,6 +24,5 @@ För att sammanfatta så hade alla rätt men den som dyrkar Allāh för att han 
 
 Och Allāh vet bäst.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

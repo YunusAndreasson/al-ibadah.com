@@ -41,7 +41,6 @@ Och Allāhs sändebud – över honom vare Allāhs frid och välsignelser – ha
 
 Det finns andra texter utöver dessa om befrielser och avlägsnande av svårigheter. En grupp av de lärde har gett detta utlåtande som vi har nämnt. Bland dem finns *shaykh ul-islām* Ibn Taymiyyah och hans student *al-Allamah* Ibnul-Qayyim.
 
-
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.
 [^3]: Släkting som det inte är tillåtet att gifta sig med.

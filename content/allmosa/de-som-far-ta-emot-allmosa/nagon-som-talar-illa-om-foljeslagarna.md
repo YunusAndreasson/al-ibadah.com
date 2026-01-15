@@ -24,7 +24,6 @@ Med detta som grund: Den som har gett allmosa till en *rāfidi* måste betala si
 
 Den som betvivlar detta, låt denne läsa böckerna som har skrivits i förnekande av Rāfadi. Exempel på dessa är boken av *al-Qifāri* som förnekar deras väg, *al-Khutūt al-‘Arīdah* av al-Khatīb och böckerna av Ehsan Ilahi Zahīr, och andra.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

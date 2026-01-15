@@ -18,6 +18,5 @@ description: 'Fråga: Jag skulle vilja fråga dig om hur man gottgör sig för a
 
 Och Allāh vet bäst.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

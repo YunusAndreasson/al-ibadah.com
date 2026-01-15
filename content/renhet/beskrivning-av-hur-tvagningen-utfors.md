@@ -28,7 +28,6 @@ Det andra sättet att göra tvagningen[^1] på är det som är att föredra. Vi 
 
 Gör man det kommer Paradisets åtta portar att öppnas och man får träda in genom vilken man vill. Den *hadīth[^3]* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger detta till ʿUmar har styrkts. [*Muslim* 234]
 
-
 [^1]: Wudû´
 [^2]: I Guds namn.
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

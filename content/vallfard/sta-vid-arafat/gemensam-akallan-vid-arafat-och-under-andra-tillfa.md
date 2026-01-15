@@ -33,7 +33,6 @@ Att samlas vid en annan plats än Arafat[^2] under Arafat[^2]-dagen saknar grund
 
 Och Allāh är den som ger framgång.
 
-
 [^1]: Du´ā
 [^2]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
 [^3]: Dhikr

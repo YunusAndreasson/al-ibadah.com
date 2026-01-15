@@ -20,7 +20,6 @@ Abū Dawūd har i sin *Sunan* återgivit att profeten – över honom vare Allā
 
 Och Allāh vet bäst.
 
-
 [^1]: salatul-khawf
 [^2]: Rakah.
 [^3]: Den avslutande hälsningen i bönen.

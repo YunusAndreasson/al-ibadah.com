@@ -19,7 +19,6 @@ description: 'Fråga: En man bröt fastan under två dagar under ramadan år 139
 
 Och Allāh är Beviljaren av framgång.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Den första månaden på det islamiska året. Under denna månaden kan man fasta den 9:e och 10:e dagen eller den 10:e och 11:e.
 [^3]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.

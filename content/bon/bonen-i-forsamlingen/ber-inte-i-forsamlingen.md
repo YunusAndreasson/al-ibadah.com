@@ -29,7 +29,6 @@ Detta styrks även av att profeten – över honom vare Allāhs frid och välsig
 
 Må frid och välsignelser vara över vår profet Muhammad, hans familj och följeslagare.
 
-
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

@@ -18,7 +18,6 @@ description: 'Fråga: Får jag i början av varje varv under sa’ī säga: ” 
 
 Detsamma gäller tawāf[^4]. Anledning är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Sannerligen, tawāf[^4] runt Huset, och sa’ī[^1] mellan as-Safa och al-Marwah, och stenandet av pelarna är endast för att etablera åminnelse[^2] av Allāh*.” [*Abū Dawūd* 1888 och *Ahmad* 6/64, 75]. Detta har Ahmad och Abū Dawūd återgivit med en god kedja av återberättare.
 
-
 [^1]: Vandringen mellan as-Safa och al-Marwa.
 [^2]: Dhikr
 [^3]: Du´ā

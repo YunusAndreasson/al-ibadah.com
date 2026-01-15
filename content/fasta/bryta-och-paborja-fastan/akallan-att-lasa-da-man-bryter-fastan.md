@@ -30,7 +30,6 @@ Om du har åkallat med dessa eller några andra ord som har nått ditt hjärta n
 
 Att svara böneutroparen när man bryter fastan är tillåtet. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om du hör böneutroparen, säg då vad denne säger*.” [*al-Bukhārī* 611 och *Muslim* 384] Detta gäller under alla omständigheter så länge det inte finns bevis för något annat.
 
-
 [^1]: Du´ā
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

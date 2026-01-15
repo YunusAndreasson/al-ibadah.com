@@ -16,7 +16,6 @@ description: 'Fråga: Vad ska jag göra om jag reciterar en sura i vilken man sk
 
 **Svar:** Nedfall inte. Det är ju obligatoriskt att följa imamen och nedfallandet[^1] vid recitation är en *sunnah[^2]*. När man leds i bönen är det inte tillåtet att nedfalla. Om man nedfaller, i vetskap om att det inte är tillåtet, då kommer det att göra bönen ogiltig.
 
-
 [^1]: sujūd, nedfallandet när pannan läggs mot marken.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

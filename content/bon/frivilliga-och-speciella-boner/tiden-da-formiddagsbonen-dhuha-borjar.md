@@ -16,6 +16,5 @@ description: 'Fråga: När börjar förmiddagsbönen? Svar: Förmiddagsbönen b�
 
 **Svar:** Förmiddagsbönen börjar när solen har stigit tills skuggan från ett spjut är lika långt som spjutet själv fram till innan middag [ungefär en halvtimme innan]. Den bästa tiden är när halva morgonen har gått och sanden börjar bli varm.
 
-
 [^1]: Dhuha
 

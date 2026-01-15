@@ -41,7 +41,6 @@ Anländer denne sjövägen och om fartyget stannar när det är i linje med *mī
 
 Anländer denne med flyg bör göra denne *ghusl[^4]* innan ombordstigandet på planet och ta på sig parfym samt plaggen för *ihrām[^2]* innan planet kommer i linje med *mīqāt[^3]*. Denne träder sedan in i *ihrām[^2]* precis innan planet kommer i linje med *mīqāt[^3]*. Denne bör inte vänta tills denne precis är i linje. Planet rör sig ju snabbt och det kommer inte att vara möjlighet. Träder denne in i *ihrām[^2]* innan för att vara på den säkra sidan, då är det inte fel.
 
-
 [^1]: Den lilla vallfärden.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^3]: Platsen där pilgrimmen träder in i ihraam.

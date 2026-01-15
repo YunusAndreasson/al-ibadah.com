@@ -27,7 +27,6 @@ Profeten har sagt: ”*Den som gör en handling som inte är enligt vår fråga 
 
 I en annan återberättelse säger han: ”*Den som för in något i denna vår fråga [islam] som inte tillhör den, då är det avvisat*.” [*al-Bukhārī* 2697 och *Muslim* 18/1718]
 
-
 [^1]: Du´ā
 [^2]: Dhikr
 

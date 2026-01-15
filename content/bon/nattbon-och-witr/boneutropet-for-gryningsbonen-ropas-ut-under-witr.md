@@ -16,7 +16,6 @@ description: 'Fråga: En man bad witr och under hans bön ropade böneutroparen 
 
 **Svar:** Ja, om böneutropet ropades ut när han bad *witr[^1]*, då bör han avsluta sin bön. Han har inte syndat med anledning av det.
 
-
 [^1]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 [^2]: Fajr
 

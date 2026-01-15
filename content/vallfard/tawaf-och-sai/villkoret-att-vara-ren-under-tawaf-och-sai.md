@@ -16,7 +16,6 @@ description: 'Fråga: Krävs renhet under tawāf och sa’ī? Svar: Renhet kräv
 
 **Svar:** Renhet krävs endast för *tawāf[^1]*. När det gäller *sa’ī[^2]* är det bättre [men inte ett krav] om man utför den med renhet. Utför man *sa’ī[^2]* utan renhet är det acceptabelt.
 
-
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Vandringen mellan as-Safa och al-Marwa.
 

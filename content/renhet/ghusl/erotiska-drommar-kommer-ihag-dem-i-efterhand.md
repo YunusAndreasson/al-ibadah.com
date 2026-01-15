@@ -26,7 +26,6 @@ Alla lärde ger detta utlåtande och det gäller både män och kvinnor.
 
 Allāh är Den som beviljar framgång.
 
-
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

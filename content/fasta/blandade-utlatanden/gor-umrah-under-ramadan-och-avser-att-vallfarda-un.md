@@ -25,7 +25,6 @@ För den som avser att vallfärda är det bättre att göra *‘umrah[^1]* tills
 
 En *mutamatti[^4]'* måste utföra *tawāf[^9]* och *sa’ī[^10]* för sin vallfärd precis som han utförde *tawāf[^9]* och *sa’ī[^10]* för *‘umrah[^1]*. Den *sa’ī[^10]* som han utförde för *‘umrah[^1]* täcker inte *sa’ī[^10]* för vallfärden. Detta enligt de flesta lärde. Detta är det korrekta, då det är vad som bevisas i autentiska *ahādīth[^11]* från Allāhs sändebud.
 
-
 [^1]: Den lilla vallfärden.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^3]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

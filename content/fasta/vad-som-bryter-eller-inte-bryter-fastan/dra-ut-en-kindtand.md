@@ -16,6 +16,5 @@ description: 'Fråga: Vilket är utlåtandet om en fastande som drar ut en kindt
 
 **Svar:** Blodet som rinner eftersom en kindtand har dragits ut bryter inte fastan. Detta beror på att utlåtandet inte är detsamma som för koppning[^1]. Därmed bryter det inte fastan.
 
-
 [^1]: Hijamah
 

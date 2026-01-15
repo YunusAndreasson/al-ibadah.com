@@ -16,6 +16,5 @@ description: 'Fråga: Är det tillåtet att sträcka ut sina ben i riktning mot 
 
 **Svar:** är inga problem om någon sträcker sina ben eller ett av benen i riktning mot *qiblah[^1]* – varken i moskén eller någon annanstans. Det är heller inte några problem med att äta eller att sova i moskén, om någon är i behov av det. Det är dock viktigt att han då håller moskén ren. Om personen har en våt dröm när han sover i moskén är det viktigt att han lämnar den direkt efter att han vaknat och tar ett bad.
 
-
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 

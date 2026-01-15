@@ -18,7 +18,6 @@ description: 'Fråga: Vilket är utlåtandet om att ordna födelsedagsfester fö
 
 Födelsedagsfester, som någon håller själv eller för barnen, och att fira bröllopsdagen är inte föreskrivet. Det är närmare att vara innovationer än att vara tillåtet.
 
-
 [^1]: Den tionde månaden i det islamiska året. Under denna månad är det rekommenderat att fasta sex dagar frivillig fasta.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^3]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.

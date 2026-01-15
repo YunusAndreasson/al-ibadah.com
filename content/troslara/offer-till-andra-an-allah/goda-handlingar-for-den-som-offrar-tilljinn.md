@@ -25,7 +25,6 @@ All lovprisan tillhör Allāh som har hjälpt dig att ångra dig för denna grov
 
 Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muhammad samt göra honom, hans hushåll och följeslagare säkra från ont.
 
-
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

@@ -20,7 +20,6 @@ På samma sätt får en kvinna inte avsiktligen klippa något [från håret elle
 
 Och Allāh vet bäst.
 
-
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Wudû´
 [^3]: Någon som har trätt in i ihrām.

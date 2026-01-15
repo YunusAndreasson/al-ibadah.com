@@ -18,6 +18,5 @@ description: 'Fråga: Vilket är utlåtandet om den muslim som har låtit flera 
 
 Och framgång kommer från Allāh. Må Allāh sända välsignelser och frid över vår profet Muhammad, hans familj och hans följeslagare.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

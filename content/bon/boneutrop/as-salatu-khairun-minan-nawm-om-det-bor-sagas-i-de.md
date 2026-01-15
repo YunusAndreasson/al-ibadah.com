@@ -28,7 +28,6 @@ Vad vissa gör i dag när de säger *as-salatu khairun minan-nawm* i böneutrope
 
 De som har fått för sig att det som avses med det första böneutropet i hadithen är böneutropet innan gryningsbönen[^2], deras åsikt saknar värde.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Fajr
 [^3]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.

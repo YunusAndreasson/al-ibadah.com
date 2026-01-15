@@ -18,7 +18,6 @@ description: 'Fråga: Efter den obligatoriska bönen läser de i vissa länder s
 
 Recitation av sura al-Fātihah efter bönen, oavsett om det sker med höjd röst eller tyst, känner jag inte till någon *hadīth[^4]* från profeten – över honom vare Allāhs frid och välsignelser. Det har endast rapporterats i en *hadīth[^4]* att man bör läsa versen al-Kursi[^2], *qul huwa allāhu ahad* [sura al-Ikhlas] och *al-mu'awithatan* [sura al-Falaq och sura an-Nas].
 
-
 [^1]: Dhikr
 [^2]: Allāhs fotpall.
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

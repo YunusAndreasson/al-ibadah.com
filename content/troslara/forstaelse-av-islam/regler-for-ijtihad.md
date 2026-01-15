@@ -20,7 +20,6 @@ Gällande denna *hadīth[^3]*: ”*Jag varnar er för att utfärda domar, på sa
 
 Må frid och välsignelser var över vår Profet Muhammad, hans familj och följeslagare.
 
-
 [^1]: Den ansträngning en islamskt lärd gör för att lägga fram ett utlåtande som inte är uppenbart.
 [^2]: Någon som utöver ijtihad.
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

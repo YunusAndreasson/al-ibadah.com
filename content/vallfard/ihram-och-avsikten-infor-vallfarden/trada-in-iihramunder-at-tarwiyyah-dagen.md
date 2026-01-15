@@ -20,7 +20,6 @@ På samma sätt träder den som bor i Mecka in i *ihrām[^1]* i sin bostad. Dett
 
 Denna *hadīth[^2]* är autentisk och man är enig om den.
 
-
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

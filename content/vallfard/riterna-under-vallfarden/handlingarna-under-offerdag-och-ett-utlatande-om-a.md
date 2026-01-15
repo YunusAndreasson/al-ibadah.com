@@ -18,7 +18,6 @@ description: 'Fråga: Vad är bäst för en pilgrim under vallfärden i fråga o
 
 Om man gör ett moment före ett annat [i oordning], då är det inget problem med det. Om man slaktar djuret före man kastar stenarna, eller om man utför *tawāf[^4] ul-ifādhah* före stenarna kastas, eller om han rakar håret före stenarna kastas, eller om han rakar sig innan man slaktar – är detta godkänt. Profeten – över honom vare Allāhs frid och välsignelser – tillfrågades om den som gjorde vissa saker för andra eller sköt upp några. Han svarade då: ”*Inga problem, inga problem*.” [*al-Bukhārī* 1721 och *Muslim* 1306]
 
-
 [^1]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Att säga Allahu Akbar.

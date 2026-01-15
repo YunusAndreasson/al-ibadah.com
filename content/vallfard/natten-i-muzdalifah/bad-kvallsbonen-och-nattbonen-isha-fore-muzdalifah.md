@@ -23,7 +23,6 @@ Detta betyder att det är obligatoriskt att be dem vid deras [angivna] tider. En
 
 Och Allāh vet bäst.
 
-
 [^1]: Maghrib
 [^2]: Isha
 [^3]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.

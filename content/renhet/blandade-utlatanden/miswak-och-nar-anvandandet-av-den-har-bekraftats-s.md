@@ -16,6 +16,5 @@ description: 'Fråga: När har användandet av miswāk bekräftats? Vilket är u
 
 **Svar:** Användandet av *miswāk[^1]* har bekräftats när man vaknar, går in i ett hus, har tvagat sig och innan bönen. Det finns ingen invändan mot att använda *miswāk[^1]* när man väntar på att bönen ska börja. Men under predikan bör man inte använda den eftersom det är störande. Känner man sig sömnig kan man dock använda den för att försöka hejda tröttheten.
 
-
 [^1]: Kan liknas vid en tandborste. Gjord av Arak-trädets rötter.
 

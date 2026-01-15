@@ -25,7 +25,6 @@ Det som då är viktigt är att *tawassul[^1]* genom att be de döda om åkallan
 
 En annan form som inte är korrekt att söka Allāhs närhet genom profetens – över honom vare Allāhs frid och välsignelser – status, som om man skulle säga: ”Allāh! Jag ber Dig genom din Profets status, ge mig det och det.” Detta beror på att profetens – över honom vare Allāhs frid och välsignelser – status inte är något vi kan dra nytta av. Den är endast till nytta för profeten – över honom vare Allāhs frid och välsignelser – men för oss finns det ingen nytta i den när det gäller *tawassul[^1]*. Och som vi har nämnt tidigare är den *tawassul[^1]* som är nyttig att man använder de korrekta metoderna. Vilken nytta har du då av att profeten har en hedervärd status hos Allāh? Om du vill ha en korrekt *tawassul[^1]*, säg då: ”Allāh! Jag ber Dig genom min īmān för din profet – över honom vare Allāhs frid och välsignelser – eller genom min kärlek till Din profet” eller liknande. Detta är den korrekta metoden.
 
-
 [^1]: Medel för att tillbe Allāh.
 [^2]: Du´ā
 

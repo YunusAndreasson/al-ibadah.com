@@ -28,7 +28,6 @@ Imamen som leder bönen vid*‘eid* måste även hålla en speciell predikan fö
 
 Det är dock att föredra om imamen avslutar sin predikan med att nämna utlåtanden som enbart gäller kvinnorna och att han förmanar dem och påminner dem [om Allāh] på det sätt som profeten – över honom vare Allāhs frid och välsignelser – brukade göra nära han talade till kvinnorna under *‘eid*-bönen. Han vände sig till dem, förmanade och påminde dem om Allāh.
 
-
 [^1]: En hederstitel som givits till vissa lärde.
 [^2]: Dhuhr
 [^3]: Du´ā

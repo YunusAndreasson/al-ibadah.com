@@ -18,7 +18,6 @@ description: 'Fråga: När träder en pilgrim eller den som kommer till ‘umrah
 
 Och framgång kommer från Allāh.
 
-
 [^1]: Den lilla vallfärden.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^3]: Platsen där pilgrimmen träder in i ihraam.

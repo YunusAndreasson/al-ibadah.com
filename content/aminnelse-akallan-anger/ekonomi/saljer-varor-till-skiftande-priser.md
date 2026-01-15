@@ -19,6 +19,5 @@ Denne skulle inte önska att någon gjorde så mot honom, så varför gör han d
 
 Men om köpmannen gör en vän en tjänst genom att sänka priset är det inte fel och denne syndar inte. Det kan också vara så att denne säljer varorna till marknadspris men sedan kommer någon som är duktig på att köpslå och köpmannen sänker då priset. Inte heller i detta finns det något felaktigt då det inte går under det normala priset.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

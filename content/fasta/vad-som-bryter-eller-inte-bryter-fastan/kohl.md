@@ -24,6 +24,5 @@ Men om den fastande tar dropparna i näsan och de når magen, då bryts fastan o
 
 Profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Överdriv indraget av vatten i näsan [under tvagningen[^1]] utom när ni är fastande*.” [*Abū Dawūd* 142, *at-Tirmithi* 38, *an-Nasā’i* 87 och *Ibn Mājah* 448]
 
-
 [^1]: Wudû´
 

@@ -18,7 +18,6 @@ description: 'Fråga: Jag bär svarta sockar i ihrām för att mina fötter ska 
 
 Må Allāh hjälpa alla med att uppnå sanningen. Sannerligen är Han den som hör allt och som svarar på åkallan[^4].
 
-
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den sju långa rundar vandringen runt Kabah.
 [^3]: De delar av kroppen som måste täckas.

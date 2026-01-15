@@ -16,6 +16,5 @@ description: 'Fråga: Om jag ser ett hål i raden framför mig, kan jag då rör
 
 **Svar:** Det är tillåtet att röra sig till raden framför för att fylla igen ett hål. Anledningen är att det anses som att man kopplar samman leden och dem som kopplar samman en rad kommer Allāh att upprätta en koppling till. Så är fallet även om man måste ta ett eller två steg. Detta är små rörelser som inte är skadliga.
 
-
 [^1]: Att säga Allahu Akbar.
 

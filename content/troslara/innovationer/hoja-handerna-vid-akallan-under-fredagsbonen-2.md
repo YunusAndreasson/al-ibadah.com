@@ -18,7 +18,6 @@ description: 'Fråga: Vilket är utlåtandet om att höja händerna vid åkallan
 
 Därför höjer predikaten endast händerna vid dessa båda tillfällen och folket höjer endast deras händer när predikaten gör så, då följeslagarna höjde deras händer tillsammans med profeten under dessa båda tillfällen.
 
-
 [^1]: Du´ā
 [^2]: al-istisqa`
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

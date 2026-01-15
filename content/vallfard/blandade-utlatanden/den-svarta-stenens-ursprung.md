@@ -22,7 +22,6 @@ Kom den svarta stenen ned från himlen eller är den enbart en sten som andra? V
 
 Och Allāh är källan till all styrka. Må Allāh sända frid och välsignelser över vår profet Muhammad, hans familj och följeslagare.
 
-
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 [^2]: Den sju långa rundar vandringen runt Kabah.
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

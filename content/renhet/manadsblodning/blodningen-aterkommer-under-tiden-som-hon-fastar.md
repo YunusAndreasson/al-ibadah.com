@@ -18,6 +18,5 @@ description: 'Fråga: Om en kvinna med blödning efter graviditeten blir ren ino
 
 Och Allāh är Givaren av framgång.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

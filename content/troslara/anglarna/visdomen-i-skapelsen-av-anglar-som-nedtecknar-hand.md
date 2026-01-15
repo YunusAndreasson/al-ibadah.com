@@ -27,7 +27,6 @@ För att återvända till frågan om de hedervärda antecknarna som känner till
 
 Och Allāh vet bäst.
 
-
 [^1]: Dhuhr
 [^2]: Asr
 [^3]: Maghrib

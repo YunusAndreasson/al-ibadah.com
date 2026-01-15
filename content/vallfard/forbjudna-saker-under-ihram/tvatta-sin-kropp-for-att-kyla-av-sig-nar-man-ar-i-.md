@@ -17,6 +17,5 @@ description: 'Fråga: Får en pilgrim tvätta hela sin kropp för att svalka sig
 
 Och Allāh är källan till styrka. Må Allāh sända välsignelser och frid över vår profet Muhammad, hans familj och följeslagare.
 
-
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 

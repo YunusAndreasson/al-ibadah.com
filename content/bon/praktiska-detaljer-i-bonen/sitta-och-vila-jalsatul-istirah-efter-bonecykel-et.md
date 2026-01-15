@@ -28,7 +28,6 @@ Det uppenbara är att det generellt sett är rekommenderat. Att det inte nämns 
 
 Den rekommenderade åsikten stärks på två sätt: Det första är den grundläggande principen om profetens – över honom vare Allāhs frid och välsignelser – handlingar, att han utförde dem för att föreskriva dem så att andra skulle kunna följa honom. Det andra sättet är att denna ”sittpaus” bekräftas i hadithen från Abū Humaid as-Saʿīdi som Ahmad och Abū Dawūd har återberättat med en god rapportörskedja. Här beskriver han profetens – över honom vare Allāhs frid och välsignelser – bön för tio följeslagare – må Allāh vara nöjd med dem – och de bekräftade vad han sade.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Rakah.
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

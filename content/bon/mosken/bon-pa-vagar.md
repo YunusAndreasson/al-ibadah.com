@@ -26,6 +26,5 @@ description: 'Fråga: Inkluderas vägar bland de platser där det är förbjudet
 
 Detta har imam Ahmad, al-Bukhārī och Muslim återgivit. Den sammanslagna förståelsen mellan hadithen från Jabir och den *hadīth* som tillåter bön på vilken plats som helst är att den sistnämnda är generell och att den förstnämda, som förbjuder bön på vissa ställen, är specifik. Således specificerar dessa *ahādīth[^1]* den generella innebörden av de *ahādīth[^1]* som tillåter bön på alla platser. Detta är ett användande som kommer från välkända principer när vi befattar oss med *ahādīth[^1]* som verkar motsägelsefulla. Men om det finns ett behov eller en nödvändighet som påtvingar att man behöver be vid en förbjuden plats, då är det tillåtet att göra så.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

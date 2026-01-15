@@ -34,7 +34,6 @@ Att ta igen bönerna hamnar då i tre kategorier:
 
 Och Allāh är Beviljaren av framgång.
 
-
 [^1]: Fajr
 [^2]: Rakah.
 [^3]: Dhuhr

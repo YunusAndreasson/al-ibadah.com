@@ -22,7 +22,6 @@ Denne bör ångra sig inför Allāh för detta.
 
 Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muhammad samt göra honom, hans hushåll och följeslagare säkra från ont.
 
-
 [^1]: Maghrib
 [^2]: Dhikr
 

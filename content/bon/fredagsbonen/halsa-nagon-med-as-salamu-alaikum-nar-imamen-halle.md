@@ -20,7 +20,6 @@ Om någon hälsar på dig svarar du inte på dennes ord genom att säga ”*wa '
 
 En muslim har i denna situation heller inte rätt att ge fridshälsningen då denne stör folket när de lyssnar på något som är obligatoriskt för dem att lyssna på. Därför är den korrekta åsikten att man inte bör besvara hälsningen. Ingen bör heller börja den när imamen håller sin predikan.
 
-
 [^1]: Rakah.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

@@ -21,7 +21,6 @@ Under en sådan omständighet som frågeställaren har råkat ut för bör han b
 
 Med detta som grund: När du kom till moskén och folket bad kvällsbönen[^2], då borde du ha förenat dig med dem med avsikten att be eftermiddagsbönen[^1]. När imamen sedan gjorde *taslīm[^3]* för kvällsbönen[^2], då skulle du ha stått upp och avslutat det som återstod av eftermiddagsbönen[^1]. Då hade bönen varit kvällsbönen[^2] för församlingen men eftermiddagsbönen[^1] för dig. Det finns ingen skadligt i detta [då menar jag skillnaden i avsikt mellan imamen och tjänaren]. Rörelserna är ju samma. Den skillnad som profeten – över honom vare Allāhs frid och välsignelser – har förbjudit mellan imamen och tjänarna var i rörelserna och inte i intentionen. Men då du gjorde detta utan vetskap, bad kvällsbönen[^2] före eftermiddagsbönen[^1], då finns det inget skadligt i det.
 
-
 [^1]: Asr
 [^2]: Maghrib
 [^3]: Den avslutande hälsningen i bönen.

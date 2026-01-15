@@ -23,7 +23,6 @@ Denna återberättelse informerar oss om att en kvinna med månadsblödning elle
 
 Må Allāhs frid och välsignelser vara över profet Muhammad, hans familj och hans följeslagare.
 
-
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

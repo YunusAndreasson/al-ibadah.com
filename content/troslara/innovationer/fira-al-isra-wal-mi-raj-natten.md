@@ -34,7 +34,6 @@ Dessa *ahādīth[^4]* klargör förbudet mot innovationer, deras fara och onda k
 
 Allāh är den som ger framgång.
 
-
 [^1]: Dhikr
 [^2]: Den sjunde månaden i det islamiska året.
 [^3]: Den tionde månaden i det islamiska året. Under denna månad är det rekommenderat att fasta sex dagar frivillig fasta.

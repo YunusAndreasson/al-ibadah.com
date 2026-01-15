@@ -24,7 +24,6 @@ På samma sätt om man var rituell oren och inte gjorde *ghusl[^2]* förrän eft
 
 Och Allāh vet bättre.
 
-
 [^1]: Fajr
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^3]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

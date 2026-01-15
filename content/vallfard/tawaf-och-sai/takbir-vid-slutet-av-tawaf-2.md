@@ -18,7 +18,6 @@ description: 'Fråga: Bör tawāf avslutas precis som den inleds med takbīr vid
 
 Och Allāh är källan till all styrka. Må Allāh sända välsignelser och frid över vår profet Muhammad.
 
-
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Att säga Allahu Akbar.
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

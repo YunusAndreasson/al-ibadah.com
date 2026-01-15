@@ -18,7 +18,6 @@ description: 'Fråga: I vissa kalendrar har vi sett att under ramadan finns det 
 
 Denna *imsak* [tiden för att sluta att äta och dricka] vilken somliga har inrättat är ett tillägg till vad Allāh den Allsmäktige har påbjudit. Därmed är den ogiltig och den är något överdrivet. Profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Förgjord är den som befattar sig med extremism, förgjord är den som befattar sig med extremism, förgjord är den som befattar sig med extremism*.” [*Muslim* 2670]
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Fajr
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

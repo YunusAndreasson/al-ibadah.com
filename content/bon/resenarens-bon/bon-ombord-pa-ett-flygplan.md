@@ -24,7 +24,6 @@ En frivillig bön i ett flygplan ber man sittandes i sätet och man lutar huvude
 
 Och Allāh är Beviljaren av framgång.
 
-
 [^1]: Maghrib
 [^2]: Isha
 [^3]: Riktningen mot Kabah i Mecka som bönen utförs mot.

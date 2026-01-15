@@ -22,7 +22,6 @@ description: 'Fråga: Det finns en kvinna som bland annat har blivit mentalt sju
 
 Om hennes sjukdom och bristande förmåga att fasta förväntas kvarstå, enligt doktorernas utlåtande, då ger hon en fattig mat för varje dag som hon inte fastar. Hon ger en halv *sa'[^2]* vete, torkade dadlar, ris eller något liknande som man äter i landet. Detta går att likna vid en extremt gammal man eller kvinna som fastan är en kamp och extrem svårighet för. Hon tar heller inte igen fastedagarna.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
 

@@ -19,6 +19,5 @@ Ja, det har rapporterats att profeten – över honom vare Allāhs frid och väl
 
 I sura ar-Rahman och sura al-Jinn[^1] kommer du att finna detaljerade svar.
 
-
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 

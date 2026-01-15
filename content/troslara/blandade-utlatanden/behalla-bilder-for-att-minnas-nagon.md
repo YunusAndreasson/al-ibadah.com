@@ -20,6 +20,5 @@ Av denna anledning får en muslim inte fotografera sig själv eller någon annan
 
 Vi ber Allāh den Allsmäktige att ställa muslimernas förehavanden till rätta och att Han vägleder våra ledare till att hålla sig till Hans lag och inte till vad som går emot den. Han är sannerligen den bäste att fråga.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

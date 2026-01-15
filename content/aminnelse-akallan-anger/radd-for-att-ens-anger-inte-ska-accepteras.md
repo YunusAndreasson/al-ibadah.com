@@ -30,6 +30,5 @@ Allāh den Allsmäktige informerar oss här om att Han ändrar deras dåliga han
 
 Det samma gäller för allt ont en tjänare ångrar sig över och följer upp med tro och goda gärningar. Allāh ändrar dem till gott på grund av Hans nåd.
 
-
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

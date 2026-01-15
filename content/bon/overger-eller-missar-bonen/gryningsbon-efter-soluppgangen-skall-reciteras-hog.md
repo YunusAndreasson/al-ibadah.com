@@ -16,6 +16,5 @@ description: 'Fråga: Om någon försov sig och inte vaknade förrän efter gryn
 
 **Svar:** Denne bör be den när denne vaknar och inte skjuta upp den. Denne bör recitera med höjd röst precis som om den hade förrättats vid rätt tid.
 
-
 [^1]: Fajr
 

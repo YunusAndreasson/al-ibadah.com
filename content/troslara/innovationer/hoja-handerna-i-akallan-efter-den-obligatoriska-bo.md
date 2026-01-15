@@ -18,6 +18,5 @@ description: 'Fråga: Har det rapporterats att profeten – över honom vare All
 
 Han har även sagt: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [*al-Bukhārī* 2697 och *Muslim* 1718]
 
-
 [^1]: Du´ā
 

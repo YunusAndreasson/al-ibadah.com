@@ -17,7 +17,6 @@ description: 'Fråga: Om någon fastar och ber enbart under ramadan, men slutar 
 
 Och Allāh är källan till all styrka. Må Allāh sända välsignelser och frid över vår profet Muhammad, hans familj och följeslagare.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Kämpa för Allāhs sak.
 [^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

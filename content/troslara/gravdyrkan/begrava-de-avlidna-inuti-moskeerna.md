@@ -21,7 +21,6 @@ Det är förbjudet eftersom det är en väg som leder till att man sätter medhj
 
 Och Allāh är Beviljaren av framgång.
 
-
 [^1]: Tron på att det bara finns en Gud.
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

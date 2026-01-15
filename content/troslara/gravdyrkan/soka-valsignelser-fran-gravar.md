@@ -24,6 +24,5 @@ När profeten – över honom vare Allāhs frid och välsignelser – begravde e
 
 > ”Be Allāh om förlåtelse för er broder, och be Honom att ge honom ett klart svar, för just nu blir han utfrågad.” [*Abū Dawūd* 3221, *al-Hakim* 1:370 och *al-Bayhaqi* 4:56]
 
-
 [^1]: Du´ā
 

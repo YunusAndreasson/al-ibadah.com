@@ -32,7 +32,6 @@ Om den blinde mannen som inte hade någon som ledde honom till moskén inte fick
 
 Må Allāh ge alla framgång med att finna sanningen och hålla sig stadiga vid den.
 
-
 [^1]: Fajr
 [^2]: Isha
 

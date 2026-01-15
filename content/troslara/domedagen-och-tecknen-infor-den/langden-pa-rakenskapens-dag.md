@@ -55,7 +55,6 @@ Att ge sig djupt in i dessa frågor är en innovation. profetens – över honom
 
 Sammanfattning: Den Yttersta Dagen är en dag och den kommer att vara hård för de icke-troende men lätt för de troende. Det som har återberättats om den i fråga om olika sorters belöningar och bestraffningar, det är frågor som inte fullt ut kan förstås i denna värld, även om vi här kan förstå den grundläggande innebörden.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 

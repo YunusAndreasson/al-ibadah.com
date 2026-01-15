@@ -17,7 +17,6 @@ description: 'Fråga: Under bönerna som består av tre eller fyra bönecykler [
 
 Och hos Allāh vilar all framgång.
 
-
 [^1]: Rakah.
 [^2]: Asr
 [^3]: Maghrib

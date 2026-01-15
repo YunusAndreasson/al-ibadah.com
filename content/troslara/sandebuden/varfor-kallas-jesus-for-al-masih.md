@@ -24,6 +24,5 @@ Och Allāh vet bäst.
 
 Oberoende av vilken av dessa båda uttydelser som skulle vara rätt så finns det ingen koppling till tro eller handling och nyttan av att känna till detta är minimal.
 
-
 [^1]: De tre första generationerna i islam.
 

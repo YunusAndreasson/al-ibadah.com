@@ -17,7 +17,6 @@ description: 'Fråga: Vi har upptäckt att personen som leder oss i bönen i vå
 
 Talismaner, om de kommer från Koranen eller tillåten åkallan[^1], då är de lärde oeniga om detta. Somliga har tillåtit det, medan andra har förbjudit det. Det är dock inte ogillat att be bakom en imam som använder dem. Men om talismanerna är dragna mot *shirk[^2]* eller innovation, då är det inte tillåtet att använda dem. Detta finns det enighet om och denne måste vända sig till Allāh den Upphöjde i ånger över vad han har gjort och undvika att göra det igen.
 
-
 [^1]: Du´ā
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

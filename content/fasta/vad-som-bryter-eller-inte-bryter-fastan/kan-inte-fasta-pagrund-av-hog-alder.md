@@ -27,7 +27,6 @@ Detta har al-Bukhārī återgivit.
 
 Således måste din mor föda en fattig för varje dag. Mängden [som hon ger den fattige] är en halv *sa'[^2]* av den mat som är vanlig i landet. Om hon inte har mat själv krävs inget från henne. Vill du ge mat för hennes räkning är det en god välgörenhet. Allāh älskar dem som gör gott.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
 

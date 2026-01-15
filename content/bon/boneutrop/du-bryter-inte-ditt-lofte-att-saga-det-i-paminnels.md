@@ -18,7 +18,6 @@ description: 'Fråga: Är tilläget ”Du bryter inte Ditt löfte” i åminnels
 
 Vissa lärde säger att dess återberättarkedja är autentisk, att det bör sägas och att det inte motsäger de andra. Bland dem som anser att den är autentisk finns *shaykh* ʿAbdul-ʿAzīz Ibn Baz som har sagt: ”Dess *återberättarkedja är autentisk då den har återgivits i al-Baihaqi med en autentisk kedja av återberättare*.” [al-Baihiqi i *as-Sunan* 1:410]
 
-
 [^1]: Dhikr
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: En rapport från en enda källa som motsäger sig vad som vida har rapporterats från dem som är bättre kvalificerade.

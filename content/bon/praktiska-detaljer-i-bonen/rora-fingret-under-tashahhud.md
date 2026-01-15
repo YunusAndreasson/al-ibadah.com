@@ -16,6 +16,5 @@ description: 'Fråga: Jag har hört att om man lägger tummen mot mittfingret oc
 
 **Svar:** Jag känner inte till denna återberättelse. Det är dock tillåtet att föra samman lill- och ringfingret och att göra en cirkel med tummen och mittfingret. När man åkallar[^1] pekar man sedan med pekfingret.
 
-
 [^1]: Du´ā
 

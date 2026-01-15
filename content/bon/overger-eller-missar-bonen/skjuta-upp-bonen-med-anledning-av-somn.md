@@ -16,7 +16,6 @@ description: 'Fråga: Jag är en ung tjej som med anledning av sömn ofta missar
 
 **Svar:** Utlåtandet är att det inte är tillåtet att vara så ovarsam med bönen att tiden för den går ut. Sover man så kan man be någon att väcka en för att man ska kunna be. Detta är något som man måste göra. Denna unga tjej måste därför be någon i familjen att väcka henne. Men om omständigheter har tvingat henne då hennes sömn var mycket djup och hon bett kvällsbönen[^1] men är rädd för att hon ska vara för sömnig att be nattbönen[^2] och inte kunna be den innan gryningsbönen[^3], då har hon inte syndat om hon ber kvällsbönen[^1] och nattbönen[^2] tillsammans. Detta beror på att hon inte ska missa att be nattbönen[^2] vid den angivna tiden. Detta är endast tillåtet under exceptionella omständigheter, som om hon har varit vaken ett antal nätter eller om hon har blivit sjuk.
 
-
 [^1]: Maghrib
 [^2]: Isha
 [^3]: Fajr

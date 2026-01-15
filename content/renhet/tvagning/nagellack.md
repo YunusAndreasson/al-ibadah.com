@@ -31,7 +31,6 @@ En muslim måste anstränga sig till sitt yttersta för att förvissa sig om san
 
 Och Allāh är Beviljaren av framgång och Vägledaren till den raka vägen.
 
-
 [^1]: Wudû´
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 

@@ -25,6 +25,5 @@ Jag skulle vilja ta detta tillfälle i akt att berätta om de former som har rap
 
 Dessa fyra former kan man säga, dock inte alla på en gång. I stället säger man dem vid olika tillfällen. I vissa böner säger man ”Rabbana *wa lakal-hamd*”, i andra ”*Rabbana lakal-hamd*” och så vidare. Men beträffande orden ”*wash-shukr*” har de inte rapporterats och därför är det bäst att inte säga dem.
 
-
 [^1]: Ruku, bugningen när ryggen hålls parallell med marken.
 

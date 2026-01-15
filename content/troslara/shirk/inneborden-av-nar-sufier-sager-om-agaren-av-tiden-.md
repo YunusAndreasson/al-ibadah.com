@@ -21,6 +21,5 @@ Den som tror på detta är skyldig till att ha satt medhjälpare vid Allāhs sid
 
 > ”Säg: 'Vem förser er med det i himlen och på jorden som ni behöver för er försörjning? Vem har makten över hörsel och syn? Vem låter livet spira ur det som är dött och låter döden stiga fram ur det levande? Och vem styr skapelsens ordning?' På detta kommer de att svara: '[Det är] Gud.' Och du ska säga: 'Skall ni då inte frukta Honom?” [Koranen 10:31–32]
 
-
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

@@ -16,7 +16,6 @@ description: 'Fråga: Hur beskrivs sa’ī, från vilken plats börjar den som u
 
 **Svar:** Den börjar vid as-Safa och slutar vid al-Marwah. Antalet varv är sju. Det första börjar vid as-Safa och det sista slutar vid al-Marwah. Man åminns Allāh under dem, glorifierar Honom och gör åkallan[^2]. Man åminns Allāh, åkallar[^2] Honom och upphöjer Hans storhet på bergen vid as-Safa och al-Marwah. Man upprepar dem tre gånger samtidigt som han höjer händerna och riktar sig mot *qiblah[^3]*. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – gjorde det.
 
-
 [^1]: Vandringen mellan as-Safa och al-Marwa.
 [^2]: Du´ā
 [^3]: Riktningen mot Kabah i Mecka som bönen utförs mot.

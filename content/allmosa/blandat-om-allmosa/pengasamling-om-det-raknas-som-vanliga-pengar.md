@@ -16,6 +16,5 @@ description: 'Fråga: Det finns en man som har en hobby i att han samlar mynt, a
 
 **Svar:** Denne man måste betala allmosa om han har dem under ett år och de når den lägsta nivån som gör det till en skyldighet att betala allmosa. Detta beror på den generella innebörden av bevisen från Skriften och profetens – över honom vare Allāhs frid och välsignelser – sunnah[^1]. Utlåtandet är detsamma som för pengar. Detsamma gäller som för papperspengar.
 
-
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

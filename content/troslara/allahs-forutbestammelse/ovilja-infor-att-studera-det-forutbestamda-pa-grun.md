@@ -31,7 +31,6 @@ Kunskap om *tawhīd[^2]* är den ädlaste formen av lärande och det beror på d
 
 Fortsätt sedan och ta en titt på de innovationer och oklara frågor som har dykt upp. Detta för att få dem förklarade genom den kunskap som tidigare har inhämtats från den*‘aqīdah* som är ren. Källorna måste vara Allāhs skrift och Hans sändebuds *sunnah[^4]*. Efter dessa källor tar man följeslagarnas uttalanden, imamerna från *tabi'un* som efterföljde dem och åsikterna från de lärda vars kunskap och pålitlighet är bekräftad. Detta gäller speciellt *shaykh ul-Islām[^5]* ibn Taymiyyah och hans elev Ibn al-Qayyim. Må de få ta emot rikliga välsignelser.
 
-
 [^1]: Uppriktighet.
 [^2]: Tron på att det bara finns en Gud.
 [^3]: Rättslära.

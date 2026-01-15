@@ -29,6 +29,5 @@ Kortfattat måste de som inte är muslimer antingen anta islam eller leva under 
 
 Och Allāh är Beviljaren av framgång.
 
-
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

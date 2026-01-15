@@ -22,7 +22,6 @@ description: 'Fråga: Vilka är de tidpunkter då det är förbjudet att be? [..
 
 Detta är tidpunkterna då det är förbjudet att be [...]
 
-
 [^1]: Fajr
 [^2]: Dhuhr
 [^3]: Asr

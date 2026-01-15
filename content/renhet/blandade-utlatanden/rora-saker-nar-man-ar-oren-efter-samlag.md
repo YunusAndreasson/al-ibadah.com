@@ -16,6 +16,5 @@ description: 'Fråga: Om en man och kvinna har intim samvaro, får de då röra 
 
 **Svar:** Ja, den som är rituellt oren [*junub*] får röra saker som kläder, tallrikar, grytor och liknande. Detta gäller både män och kvinnor. De är ju inte orena [som ett föremål som är orent] och ej heller blir ett föremål orent om de vidrör det.
 
-
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 

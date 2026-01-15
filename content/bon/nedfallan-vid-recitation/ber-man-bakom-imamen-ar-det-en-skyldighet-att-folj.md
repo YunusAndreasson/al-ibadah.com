@@ -22,7 +22,6 @@ Om imamen reciterar en vers med nedfallan[^2] i en bön där man reciterar med h
 
 Och Allāh vet bäst.
 
-
 [^1]: När vissa verser i Koranen reciteras kan man nedfalla.
 [^2]: sujūd, nedfallandet när pannan läggs mot marken.
 [^3]: Dhuhr

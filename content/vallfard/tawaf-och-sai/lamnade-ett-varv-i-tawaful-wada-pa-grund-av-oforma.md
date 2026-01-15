@@ -20,7 +20,6 @@ Det offer som krävs är en sjundedel av en kamel eller ko, en två år gammal g
 
 Det finns även ett uttalande från Ibn ‘Abbās där han säger: ”*Folket kommenderades att göra deras sista handling vid Huset [Ka’bah], men frågan lindrades för kvinnan med månadsblödning*.” Denna *hadīth[^2]* är man eniga om. Enligt de lärde gäller samma regler för en kvinna under månadsblödning.
 
-
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

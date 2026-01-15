@@ -18,7 +18,6 @@ description: 'Fråga: Är tiden då sockarna får vara kvar på fötterna begrä
 
 Därmed får den som är hemma be mer än fem böner i dem. Han kan stryka över dem efter att ha brutit sin tvagning[^6] vid kvällsbönen[^5]. Därpå ber han kvällsbönen[^5] och nattbönen[^1] tillsammans vid kvällsbönen[^5] och stryker sedan över dem vid följande böner: gryningsbönen[^2], middagsbönen[^3], eftermiddagsbönen[^4] och sedan be kvällsbönen[^5] och nattbönen[^1] igen tillsammans vid kvällsbönen[^5] under den andra dagen. Detta sker då på grund av sjukdom eller någon annan giltig ursäkt för att slå ihop bönen.
 
-
 [^1]: Isha
 [^2]: Fajr
 [^3]: Dhuhr

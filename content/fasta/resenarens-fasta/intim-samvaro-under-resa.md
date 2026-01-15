@@ -19,6 +19,5 @@ description: 'Fråga: Får en resenär ha intim samvaro med frun om de reser und
 
 Vad som gäller för kvinnan är samma vad som gäller för mannen. Om han var på resande fot eller led av en sjukdom som gjorde det svårt för henne att fasta, då är det ingen gottgörelse för henne att utföra.
 
-
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 
