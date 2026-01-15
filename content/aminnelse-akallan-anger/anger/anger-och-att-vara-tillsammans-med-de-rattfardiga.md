@@ -32,7 +32,7 @@ För att du ska kunna ångra dig fullständigt över dina synder måste du åter
 
 Profeten har sagt:
 
-> ”Den som har handlat felaktigt mot sin broders heder eller något annat, låt honom söka förlåtelse från honom idag så länge det finns saker som dinar och dirham (det vill säga, innan Domedagen). Om den som handlat felaktigt har goda gärningar kommer den han behandlat felaktigt mot få dem i enlighet med det onda han gjort mot denna person. Har den som gjort fel inte några goda handlingar kommer han ta från sin partners synder och bära den bördan.” [al-Bukhārī 2449]
+> ”Den som har handlat felaktigt mot sin broders heder eller något annat, låt honom söka förlåtelse från honom idag så länge det finns saker som dinar och dirham (det vill säga, innan Domedagen). Om den som handlat felaktigt har goda gärningar kommer den han behandlat felaktigt mot få dem enligt det onda han gjort mot denna person. Har den som gjort fel inte några goda handlingar kommer han ta från sin partners synder och bära den bördan.” [al-Bukhārī 2449]
 
 Nedtecknad av al-Bukhārī i hans *Sahīh*. Verserna och *ahādīth[^1]* med samma innebörd är många.
 

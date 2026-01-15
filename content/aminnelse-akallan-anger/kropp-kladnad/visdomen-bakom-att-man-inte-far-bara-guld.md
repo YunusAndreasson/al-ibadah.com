@@ -14,7 +14,7 @@ description: 'Fråga: Vilken är anledningen till att män inte får bära guld?
 
 **Fråga:** Vilken är anledningen till att män inte får bära guld? Vi känner till att islam enbart förbjuder vad som är skadligt för muslimer. Vilken är då faran i att bära en guldring?
 
-**Svar:** Du ska veta, kära frågeställare, att anledningen bakom den islamiska lagens utlåtande för varje troende är på grund av att Allāh och Hans sändebud har sagt det. Allāh den Allsmäktige säger: ”Och när en fråga som rör en troende man eller kvinna har avgjorts av Gud och Hans Sändebud, har dessa inte rätt att själva döma i det som rör dem.” [Koranen 33:36]
+**Svar:** Du ska veta, kära frågeställare, att anledningen bakom den islamiska lagens utlåtande för varje troende är eftersom Allāh och Hans sändebud har sagt det. Allāh den Allsmäktige säger: ”Och när en fråga som rör en troende man eller kvinna har avgjorts av Gud och Hans Sändebud, har dessa inte rätt att själva döma i det som rör dem.” [Koranen 33:36]
 
 Om någon då frågar om anledningen för ett visst utlåtande, ger vi enbart visdomen från Skriften och profetens sunnah[^1]. Vi säger då att anledningen är att Allāh den Allsmäktige och Hans sändebud – över honom vare Allāhs frid och välsignelser – har sagt så och denna anledning är tillräcklig för varje troende.
 

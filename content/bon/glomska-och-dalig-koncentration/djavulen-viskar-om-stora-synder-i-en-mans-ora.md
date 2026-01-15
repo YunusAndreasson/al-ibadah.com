@@ -49,7 +49,7 @@ Mitt råd kan kanske summera enligt följande:
 
 1. Sök skydd hos Allāh och hindra fullständigt dessa antaganden. Profeten – över honom vare Allāhs frid och välsignelser – har beordrat oss att göra så.
 2. Nämn Allāhs den Upphöjdes namn och tvinga dig bort från dessa viskningar.
-3. Helhjärtad hängivenhet att dyrka och agera i enlighet med Allāhs påbud och för att söka Hans välbehag. När du ger dyrkan din odelade uppmärksamhet med entusiasm och strävan kommer du inte att bemöda dig själv med att tänka på dessa viskningar, om Allāh vill.
+3. Helhjärtad hängivenhet att dyrka och agera enligt Allāhs påbud och för att söka Hans välbehag. När du ger dyrkan din odelade uppmärksamhet med entusiasm och strävan kommer du inte att bemöda dig själv med att tänka på dessa viskningar, om Allāh vill.
 4. Sök din tillflykt hos Allāh och be Honom skydda dig från att göra detta.
 
 Jag ber Allāh den Upphöjde att han ger dig säkerhet och skydd från allt ont och förhatligt.

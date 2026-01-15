@@ -1,5 +1,5 @@
 ---
-title: Preventivmedel som används på grund av att man är fattiga och inte vill ha
+title: Preventivmedel som används eftersom man är fattiga och inte vill ha
  fler barn
 author: Ibn 'Abdur-Rahman al-Jibrīn
 source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:

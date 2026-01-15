@@ -48,7 +48,7 @@ När han [Profeten] återvände från slaget vid al-Ahzab befallde [ängeln] Gab
 
 Därför anser jag det vara en skyldighet, för muslimer som påstår sig följa [profetens – över honom vare Allāhs frid och välsignelser –] *sunnah[^1]*, att vara en enhet och att inte dela sig i fraktioner – där den ena tillhör en grupp och där den andra tillhör en annan grupp – vilket får dem att attackera varandra med fientliga ord och hysa fiendskap och hat mot varandra på grund av meningsskiljaktigheter i frågor där det är tillåtet att utöva *ijtihād[^3]*. Det finns inget behov av att urskilja varje fraktion med ett namn men den vise förstår och frågan blir klar för denne.
 
-Jag anser att *ahlus-sunnah[^1] wal-jamā’at* måste ena sig även om de är oeniga i vissa frågor på grund av att de har förstått bevisen på olika sätt. Detta beror på att det finns rum för ömsesidiga eftergifter i dessa frågor, och all lovprisan samt tacksamhet tillhör Allāh.
+Jag anser att *ahlus-sunnah[^1] wal-jamā’at* måste ena sig även om de är oeniga i vissa frågor eftersom de har förstått bevisen på olika sätt. Detta beror på att det finns rum för ömsesidiga eftergifter i dessa frågor, och all lovprisan samt tacksamhet tillhör Allāh.
 
 Det viktiga är att alla hjärtan är i harmoni och att man talar med en röst. Det råder ju inga tvivel om att muslimernas fiender älskar att se muslimer splittrade. Detta oavsett om de är fiender som öppet visar sin fiendskap eller om de är fiender som ger intrycket av att vara vänner till muslimer och islam, när de i själva verket inte är det.
 

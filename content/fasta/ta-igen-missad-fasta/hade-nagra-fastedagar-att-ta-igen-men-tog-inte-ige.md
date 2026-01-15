@@ -21,7 +21,7 @@ Den som då bröt fastan av en giltig anledning är skyldig att ta igen den för
 
 ‘A’ishah – må Allāh vara nöjd med henne – har sagt: ”*Jag hade dagar att ta igen från ramadan[^1] och jag hade inte möjlighet att ta igen dem innan sha'ban [månaden innan den påföljande ramadan[^1]]*.” [*al-Bukhārī* 1950] Detta berodde på Allāhs sändebuds – över honom vare Allāhs frid och välsignelser – relation med henne [Hon var den hustru som han höll som kärast och han brukade spendera mycket tid med henne och fråga henne om råd]. Så när hon sade: ”*Jag hade inte möjlighet att ta igen dem innan sha'ban*”, är det ett bevis för att man måste ta igen dem innan påföljande ramadan[^1].
 
-Skjuter man upp dem till efter nästa ramadan[^1], då bör man söka Allāhs förlåtelse, ångra sig inför Honom, vara ångerfull över vad man har gjort och ta igen dessa dagar. Skyldigheten att ta igen dem försvinner enbart på grund av att de har försenats, så man bör ta igen dem även om det sker efter nästa ramadan[^1].
+Skjuter man upp dem till efter nästa ramadan[^1], då bör man söka Allāhs förlåtelse, ångra sig inför Honom, vara ångerfull över vad man har gjort och ta igen dessa dagar. Skyldigheten att ta igen dem försvinner enbart eftersom de har försenats, så man bör ta igen dem även om det sker efter nästa ramadan[^1].
 
 Och Allāh är Beviljaren av framgång.
 

@@ -29,7 +29,7 @@ Verserna och *ahādīth[^7]* som uppmuntrar till åminnelse[^3] av Allāh och å
 
 Om några åkallar[^1] i en grupp och de säger ”*āmīn*” för dennes åkallan[^1], då finns det inget skadligt i det. Detta är precis vad som görs i qunūt[^9], efter att ha läst ut Koranen, i åkallan[^1] för regn och vid liknande åkallan[^1].
 
-Att samlas vid en annan plats än Arafat[^2] under Arafat[^2]-dagen saknar grund och det är inget som profeten – över honom vare Allāhs frid och välsignelser – har gjort. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som gör något som inte är i enlighet med vår fråga [islam] kommer att få det avvisat*.” [*Muslim* 1718] Detta har Muslim återgivit i sin *Sahīh*.
+Att samlas vid en annan plats än Arafat[^2] under Arafat[^2]-dagen saknar grund och det är inget som profeten – över honom vare Allāhs frid och välsignelser – har gjort. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som gör något som inte är enligt vår fråga [islam] kommer att få det avvisat*.” [*Muslim* 1718] Detta har Muslim återgivit i sin *Sahīh*.
 
 Och Allāh är den som ger framgång.
 

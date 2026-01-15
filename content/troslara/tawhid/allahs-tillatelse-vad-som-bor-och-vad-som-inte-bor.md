@@ -10,12 +10,12 @@ categories:
 original_id: 1084
 description: 'Fråga: Vad behöver kopplas till Allāhs tillåtelse och vad behöver inte
  kopplas till den? Svar: Det är att föredra att koppla allt till Allāhs tillåtelse
- i enlighet med Hans den Upphöjdes ord: ...'
+ enligt Hans den Upphöjdes ord: ...'
 ---
 
 **Fråga:** Vad behöver kopplas till Allāhs tillåtelse och vad behöver inte kopplas till den?
 
-**Svar:** Det är att föredra att koppla allt till Allāhs tillåtelse i enlighet med Hans den Upphöjdes ord:
+**Svar:** Det är att föredra att koppla allt till Allāhs tillåtelse enligt Hans den Upphöjdes ord:
 
 > ”Säg aldrig under några omständigheter: ’Detta ska jag göra i morgon utan [att lägga till:] ’om Allāh vill’. Och skulle du glömma [men senare påminna dig] detta, vänd dig då till din Herre och säg: ’Jag hoppas att min Herre ska leda mig närmare den rätta vägen än [jag nu var].” [Koranen 18:23-24]
 

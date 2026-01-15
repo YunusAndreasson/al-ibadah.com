@@ -23,7 +23,7 @@ Vi är endast tillåtna att konsekvent följa en form av dyrkan vid vissa tider 
 
 Denna handling är inte känd från de rättfärdigt vägledda kaliferna eller de övriga följeslagarna. Den som då åkallar[^1] i grupp efter varje bön, efter att ha läst Koranen eller efter en religionslektion har fört in något i religionen som inte tillhör den.
 
-Profeten har sagt: ”*Den som gör en handling som inte är i enlighet med vår fråga [islam], då är den avvisad*.” [*Muslim* 18/1718]
+Profeten har sagt: ”*Den som gör en handling som inte är enligt vår fråga [islam], då är den avvisad*.” [*Muslim* 18/1718]
 
 I en annan återberättelse säger han: ”*Den som för in något i denna vår fråga [islam] som inte tillhör den, då är det avvisat*.” [*al-Bukhārī* 2697 och *Muslim* 18/1718]
 
