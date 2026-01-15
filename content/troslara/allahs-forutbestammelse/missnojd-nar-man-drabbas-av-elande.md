@@ -10,7 +10,7 @@ categories:
 original_id: 1186
 description: 'Fråga: Vilket är utlåtandet om någon som blir missnöjd när denne drabbas
  av elände? Svar: Under eländestider delar sig människor i fyra olika nivåer: Missbelåtenhet
- , och det finns olika fo...'
+, och det finns olika fo...'
 ---
 
 **Fråga:** Vilket är utlåtandet om någon som blir missnöjd när denne drabbas av elände?

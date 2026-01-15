@@ -9,7 +9,7 @@ categories:
 original_id: 178
 description: 'Fråga: Vilket är utlåtandet om att tala om frågor som inte rör bönen
  [som att göra leden raka eller andra saker] när iqāmah inför bönen har ropats
- ut och innan den första takbīr ? Att tala om...'
+ ut och innan den första takbīr? Att tala om...'
 ---
 
 **Fråga:** Vilket är utlåtandet om att tala om frågor som inte rör bönen [som att göra leden raka eller andra saker] när *iqāmah[^1]* inför bönen har ropats ut och innan den första *takbīr[^2]*?

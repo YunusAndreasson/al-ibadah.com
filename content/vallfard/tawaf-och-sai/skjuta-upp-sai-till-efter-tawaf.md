@@ -8,7 +8,7 @@ categories:
 - Tawāf och sa’ī
 original_id: 813
 description: 'Fråga: Vad gäller den om utför tawāful-ifādhah och som inte gör sa’ī förrän
- solen har gått ned under den sista dagen i at-ayyām at-tashrīq ? Och vad gäller
+ solen har gått ned under den sista dagen i at-ayyām at-tashrīq? Och vad gäller
  sa’ī om någon utför sa’ī efter so...'
 ---
 

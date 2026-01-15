@@ -9,7 +9,7 @@ categories:
 - Tawhīd [Monoteism]
 original_id: 1074
 description: 'Fråga: På vilket sätt täcker vittnesmålet Lā ilāha illAllāh alla
- former av tawhīd ? Svar: Det inkluderar alla former av tawhīd , antingen underförstått
+ former av tawhīd? Svar: Det inkluderar alla former av tawhīd, antingen underförstått
  eller som ett öppet krav. När någon ...'
 ---
 

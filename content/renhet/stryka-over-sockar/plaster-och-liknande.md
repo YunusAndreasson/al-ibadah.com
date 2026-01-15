@@ -7,7 +7,7 @@ categories:
 - Renhet (Tahārah)
 - Stryka över sockar
 original_id: 1130
-description: 'Fråga: Vilket är utlåtandet om att stryka över al-jabirah ? Svar: Först
+description: 'Fråga: Vilket är utlåtandet om att stryka över al-jabirah? Svar: Först
  och främst måste vi definiera vad som avses med denna term. al-Jabirah är i grund
  och botten något man reparerar tras...'
 ---

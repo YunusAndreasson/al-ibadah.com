@@ -8,7 +8,7 @@ categories:
 - Tawāf och sa’ī
 original_id: 818
 description: 'Fråga: Vi bor i Jiddah och förra året gav vi oss iväg för att vallfärda.
- Vi avslutade alla vallfärdsriter, utom tawāful-wadā , som vi sköt upp till slutet
+ Vi avslutade alla vallfärdsriter, utom tawāful-wadā, som vi sköt upp till slutet
  av thul-hijjah . När folksamlingen hade...'
 ---
 

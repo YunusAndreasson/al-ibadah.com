@@ -7,7 +7,7 @@ categories:
 - Vallfärd (Hajj)
 - Ihrām och avsikten inför vallfärden
 original_id: 1335
-description: 'Fråga: Är det tillåtet att uttala avsikten för att utföra ‘umrah ,
+description: 'Fråga: Är det tillåtet att uttala avsikten för att utföra ‘umrah,
  vallfärden, tawāf och sa’ī vid det Ka’bah? Svar: Att avsikten ska uttalas
  har inte rapporterats från profeten – över ...'
 ---

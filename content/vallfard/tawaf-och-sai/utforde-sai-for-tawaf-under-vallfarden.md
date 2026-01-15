@@ -8,7 +8,7 @@ categories:
 - Tawāf och sa’ī
 original_id: 826
 description: 'Fråga: En man som gjorde ‘umrah hade ingen kunskap och han utförde sa’ī före tawāf
- . När han upprepat om tawāf , måste han utföra sa’ī en andra gång? Svar: Han
+ . När han upprepat om tawāf, måste han utföra sa’ī en andra gång? Svar: Han
  behöver inte upprepa sa...'
 ---
 

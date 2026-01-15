@@ -8,7 +8,7 @@ categories:
 - Att vara imam och bön bakom en imam
 original_id: 940
 description: 'Fråga: Vilket är utlåtandet om att be en obligatorisk bön bakom någon
- som ber en frivillig, likt någon som ber nattbönen[^1] bakom dem som ber tarāwīh ? Svar: Det
+ som ber en frivillig, likt någon som ber nattbönen[^1] bakom dem som ber tarāwīh? Svar: Det
  finns ingen invändan mot att be...'
 ---
 

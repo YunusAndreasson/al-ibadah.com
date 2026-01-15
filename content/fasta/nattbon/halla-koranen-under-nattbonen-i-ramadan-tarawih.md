@@ -9,7 +9,7 @@ categories:
 original_id: 291
 description: 'Fråga: Vilket är utlåtandet om att imamen håller Koranen under nattbönen
  i ramadan? Vilka bevis finns för det i Koranen och profetens – över honom vare Allāhs
- frid och välsignelser – sunnah ? ...'
+ frid och välsignelser – sunnah? ...'
 ---
 
 **Fråga:** Vilket är utlåtandet om att imamen håller Koranen under nattbönen i ramadan[^1]? Vilka bevis finns för det i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]*?

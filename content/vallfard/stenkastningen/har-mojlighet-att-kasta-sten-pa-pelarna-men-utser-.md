@@ -9,7 +9,7 @@ categories:
 - Stenkastningen
 original_id: 1553
 description: 'Fråga: Är det möjligt att jag utser någon annan som kastar mina stenar
- på pelarna under den andra dagen under at-tashrīq ? Detta med anledning av familjeskäl
+ på pelarna under den andra dagen under at-tashrīq? Detta med anledning av familjeskäl
  som gör det nödvändigt att jag återvä...'
 ---
 

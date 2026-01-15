@@ -8,7 +8,7 @@ categories:
 - Tawāf och sa’ī
 original_id: 814
 description: 'Fråga: Är det tillåtet att skjuta upp tawāful-ifādhah och utföra
- den tillsammans med tawāful-wadā ? Får en pilgrim under vallfärden göra ett avbrott
+ den tillsammans med tawāful-wadā? Får en pilgrim under vallfärden göra ett avbrott
  i det sjunde varvet och dricka vatten eller ...'
 ---
 

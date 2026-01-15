@@ -8,7 +8,7 @@ categories:
 - Nattbön (tarawih)
 original_id: 1408
 description: 'Fråga: Är tarāwīh -bönen enbart sunnah eller är den sunnat mu''kkadah
- ? Hur utförs den? Svar: Den är sunnat mu''kkadah . Profeten – över honom vare
+? Hur utförs den? Svar: Den är sunnat mu''kkadah . Profeten – över honom vare
  Allāhs frid och välsignelser – har uppmun...'
 ---
 

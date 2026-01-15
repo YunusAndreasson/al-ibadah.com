@@ -8,7 +8,7 @@ categories:
 - Sändebuden
 original_id: 583
 description: 'Fråga: Är det tillåtet att skriva bokstaden [S] i stället för sal-Allāhu
- ''alayhe wa sallam ? Svar: Det är sunnah att skriva hela frasen ” sal-Allāhu
+ ''alayhe wa sallam? Svar: Det är sunnah att skriva hela frasen ” sal-Allāhu
  ''alayhe wa sallam ”, då det är en åkalla...'
 ---
 

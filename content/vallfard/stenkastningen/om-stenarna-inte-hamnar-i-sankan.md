@@ -9,7 +9,7 @@ categories:
 original_id: 857
 description: 'Fråga: En pilgrim kastar från östlig riktning stenar på pelaren al-''Aqabah
  men dennes stenar hamnar inte i sänkan. Vad ska dennes göra då det nu är den trettonde
- dagen i thul-hijjah ? Svar: ...'
+ dagen i thul-hijjah? Svar: ...'
 ---
 
 **Fråga:** En pilgrim kastar från östlig riktning stenar på pelaren al-'Aqabah men dennes stenar hamnar inte i sänkan. Vad ska dennes göra då det nu är den trettonde dagen i *dhul-hijjah[^1]*?

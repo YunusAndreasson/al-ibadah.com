@@ -6,7 +6,7 @@ categories:
 - Troslära (´Aqīdah)
 - Tawassul [Medel för att åkalla Allāh]
 original_id: 918
-description: 'Fråga: Finns det några felaktiga former av tawassul ? Svar: Felaktig
+description: 'Fråga: Finns det några felaktiga former av tawassul? Svar: Felaktig
  och gagnlös tawassul sker genom att man använder ett sätt som inte är föreskrivet
  genom den islamiska lagen som ett mede...'
 ---

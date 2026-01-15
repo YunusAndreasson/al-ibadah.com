@@ -8,8 +8,8 @@ categories:
 - al-Mawaqit
 original_id: 733
 description: 'Fråga: Var är platsen och vilken är tiden för al-mawaqit när det
- gäller vallfärden och ‘umrah ? al-Mawaqit i tid för vallfärden är shawwal
- , thul-qa’dah och de tio först dagarna i thul-...'
+ gäller vallfärden och ‘umrah? al-Mawaqit i tid för vallfärden är shawwal
+, thul-qa’dah och de tio först dagarna i thul-...'
 ---
 
 **Fråga:** Var är platsen och vilken är tiden för *al-mawaqit[^1]* när det gäller vallfärden och*‘umrah[^2]*?

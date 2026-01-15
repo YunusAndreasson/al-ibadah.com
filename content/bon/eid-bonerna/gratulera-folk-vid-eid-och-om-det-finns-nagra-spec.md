@@ -7,7 +7,7 @@ categories:
 - Bön (Salāh)
 - '''Eid-bönerna'
 original_id: 1006
-description: 'Fråga: Vilket är utlåtandet om att gratulera folk vid ‘eid ? Finns
+description: 'Fråga: Vilket är utlåtandet om att gratulera folk vid ‘eid? Finns
  det några speciella ord för det? Svar: Att gratulera människor under ‘eid är
  tillåtet men det finns inte några specifika...'
 ---

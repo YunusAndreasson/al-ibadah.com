@@ -10,7 +10,7 @@ categories:
 original_id: 60
 description: 'Fråga: Får muslimer söka Allāhs närhet genom profeter och andra fromma
  människor? Jag har läst att vissa lärde har ansett att det inte finns något skadligt
- i tawassul , men samtidigt har jag läst...'
+ i tawassul, men samtidigt har jag läst...'
 ---
 
 **Fråga:** Får muslimer söka Allāhs närhet genom profeter och andra fromma människor? Jag har läst att vissa lärde har ansett att det inte finns något skadligt i *tawassul[^1]*, men samtidigt har jag läst motsatsen från andra. Vilket är utlåtandet om detta?

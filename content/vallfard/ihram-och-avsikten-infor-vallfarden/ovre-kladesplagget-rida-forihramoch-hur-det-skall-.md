@@ -8,7 +8,7 @@ categories:
 - Ihrām och avsikten inför vallfärden
 original_id: 764
 description: 'Fråga: Är det bättre för en muhrim att täcka de båda axlarna eller
- bör han avtäcka en av dem under ihrām ? Svar: Det som är sunnah för en muhrim är
+ bör han avtäcka en av dem under ihrām? Svar: Det som är sunnah för en muhrim är
  att han placerar rida’ över båda ha...'
 ---
 

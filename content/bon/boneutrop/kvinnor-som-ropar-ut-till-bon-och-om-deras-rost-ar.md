@@ -9,7 +9,7 @@ categories:
 - Böneutrop
 original_id: 1570
 description: 'Fråga: Får en kvinna ropa ut böneutropet och anses hennes röst vara ‘awrah
- ? Svar: Enligt den mest korrekta åsikten bland de lärda så ropar kvinnan inte
+? Svar: Enligt den mest korrekta åsikten bland de lärda så ropar kvinnan inte
  ut böneutropet. Anledningen är att de...'
 ---
 

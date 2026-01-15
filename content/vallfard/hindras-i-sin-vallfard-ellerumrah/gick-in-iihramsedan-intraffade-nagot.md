@@ -10,7 +10,7 @@ categories:
 original_id: 1559
 description: 'Fråga: Vilket är utlåtandet om den som gick in i ihrām för vallfärden
  eller ‘umrah vid mīqāt och som sedan hindrades från att utföra tawāf och sa’ī
- ? Svar: Han stannar kvar i ihrām ...'
+? Svar: Han stannar kvar i ihrām ...'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som gick in i *ihrām[^1]* för vallfärden eller*‘umrah[^2]* vid *mīqāt[^3]* och som sedan hindrades från att utföra *tawāf[^4]* och *sa’ī[^5]*?

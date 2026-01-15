@@ -7,7 +7,7 @@ categories:
 - Troslära (´Aqīdah)
 - Innovationer
 original_id: 48
-description: 'Fråga: Är det tillåtet att recitera al-Fātihah , eller något annat
+description: 'Fråga: Är det tillåtet att recitera al-Fātihah, eller något annat
  stycke i Koranen, för den avlidne när man besöker dennes grav? Kommer detta att
  göra denne någon nytta? Profeten – över honom ...'
 ---

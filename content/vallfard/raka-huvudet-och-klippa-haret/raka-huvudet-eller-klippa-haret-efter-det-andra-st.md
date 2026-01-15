@@ -8,7 +8,7 @@ categories:
 - Raka huvudet och klippa håret
 original_id: 1356
 description: 'Fråga: Måste man raka huvudet eller klippa håret under det stora avlägsnandet
- av ihrām , när man har klippt eller rakat håret för det mindre avlägsnandet av ihrām [som
+ av ihrām, när man har klippt eller rakat håret för det mindre avlägsnandet av ihrām [som
  sker när man har kastat s...'
 ---
 

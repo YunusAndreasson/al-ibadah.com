@@ -6,7 +6,7 @@ categories:
 - Bön (Salāh)
 - Nedfallan vid recitation
 original_id: 1291
-description: 'Fråga: Hur ska man göra sujūd al-tilāwah ? Behöver man tvaga sig
+description: 'Fråga: Hur ska man göra sujūd al-tilāwah? Behöver man tvaga sig
  för det? Behöver man tvaga sig när man ska göra sujūd al-tilāwah [nedfallandet
  när man läser vissa verser i Koranen]? Måste ...'
 ---

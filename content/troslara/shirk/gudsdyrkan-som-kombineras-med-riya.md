@@ -8,7 +8,7 @@ categories:
 - Shirk [Att sätta något vid Allāhs sida]
 original_id: 1192
 description: 'Fråga: Vilket är utlåtandet om dyrkan som också innehåller riya''
- ? Svar: Utlåtandet om dyrkan som också innehåller riya'' är att den delas
+? Svar: Utlåtandet om dyrkan som också innehåller riya'' är att den delas
  i tre olika kategorier: Det huvudsakliga motivet...'
 ---
 

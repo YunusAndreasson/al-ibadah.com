@@ -7,7 +7,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
 categories:
 - Renhet (Tahārah)
 original_id: 1567
-description: 'Fråga: När måste man göra ghusl ? Svar: Det som leder till att
+description: 'Fråga: När måste man göra ghusl? Svar: Det som leder till att
  man måste göra ghusl är följande: Sädestömning på grund av begär. Detta
  gäller oavsett om man var vaken eller sov...'
 ---

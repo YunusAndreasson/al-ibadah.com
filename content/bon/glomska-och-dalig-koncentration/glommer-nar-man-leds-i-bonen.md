@@ -9,7 +9,7 @@ categories:
 original_id: 278
 description: 'Fråga: Jag bad bakom en imam och jag glömde att säga tasbih under
  det första nedfallandet[^1]. Vad gör jag då? Bör jag nedfalla[^1] efter imamens taslīm
- ? Svar: Du behöver inte nedfalla för glöms...'
+? Svar: Du behöver inte nedfalla för glöms...'
 ---
 
 **Fråga:** Jag bad bakom en imam och jag glömde att säga *tasbih[^1]* under det första nedfallandet[^2]. Vad gör jag då? Bör jag nedfalla[^2] efter imamens *taslīm[^3]*?

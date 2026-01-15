@@ -8,7 +8,7 @@ categories:
 - Kläderna under ihrām
 original_id: 763
 description: 'Fråga: Vilket är utlåtandet om att ta parfym på ihrām -kläderna innan
- man utformar avsikten och säger talbiyyah ? Svar: Man bör inte parfymera det
+ man utformar avsikten och säger talbiyyah? Svar: Man bör inte parfymera det
  övre plagget eller det undre midjeplagget. ...'
 ---
 

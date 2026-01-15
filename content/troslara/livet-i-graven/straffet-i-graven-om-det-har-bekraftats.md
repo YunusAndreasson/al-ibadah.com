@@ -10,7 +10,7 @@ categories:
 original_id: 1178
 description: 'Fråga: Har man bekräftat straffet i graven? Svar: Straffet har
  entydigt bekräftats genom tydliga bevis i [profetens – över honom vare Allāhs frid
- och välsignelser –] sunnah , Koranens uppenba...'
+ och välsignelser –] sunnah, Koranens uppenba...'
 ---
 
 **Fråga:** Har man bekräftat straffet i graven?

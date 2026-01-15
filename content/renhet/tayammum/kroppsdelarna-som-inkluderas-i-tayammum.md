@@ -9,8 +9,8 @@ categories:
 - Tayammum [Tvagning utan vatten]
 original_id: 1569
 description: 'Fråga: Är det tillåtet att tvaga sig med en sten som inte lämnar stoftpartiklar
- i handen? Vilka är de kroppsdelar som inkluderas i tayammum ? Hur många böner får
- bes med en tayammum ? Svar: ...'
+ i handen? Vilka är de kroppsdelar som inkluderas i tayammum? Hur många böner får
+ bes med en tayammum? Svar: ...'
 ---
 
 **Fråga:** Är det tillåtet att tvaga sig med en sten som inte lämnar stoftpartiklar i handen? Vilka är de kroppsdelar som inkluderas i *tayammum[^1]*? Hur många böner får bes med en *tayammum[^1]*?

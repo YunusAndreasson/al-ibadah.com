@@ -16,7 +16,7 @@ description: 'Fråga: Blir man icke-troende om man bär en amulett med korantext
 
 **Svar:** Det finns två sorters amuletter: De som innehåller Koranen och de som innehåller något annat än Koranen.
 
-Den första sorten är tillåten att bära. Detta ansåg Ibn Mas'ūd och Ibn ‘Abbās , och det verkar även vara vad Huthayfah, 'Uqbah bin 'Amr och Ibn 'Ukaym ansåg. Det anser även ett antal *tabi´in[^1]*, bland dem finns Ibn Mas'ūds följeslagarna. Ahmad hade denna åsikt och att de flesta av dem som följde honom delade den. De senare generationerna av dem är fasta vid den. Denna åsikt baseras på vad bland andra imam Ahmad och Abū Dawūd har återberättat om att Ibn Mas'ūd har sagt att han hörde profeten – över honom vare Allāhs frid och välsignelser – säga: ”*Sannerligen är besvärjelser, amuletter och tiwalah[^2] shirk[^3]*.” [Abū Dawūd 3883, Ahmad 1:381 och Ibn Mājah 3530]
+Den första sorten är tillåten att bära. Detta ansåg Ibn Mas'ūd och Ibn ‘Abbās, och det verkar även vara vad Huthayfah, 'Uqbah bin 'Amr och Ibn 'Ukaym ansåg. Det anser även ett antal *tabi´in[^1]*, bland dem finns Ibn Mas'ūds följeslagarna. Ahmad hade denna åsikt och att de flesta av dem som följde honom delade den. De senare generationerna av dem är fasta vid den. Denna åsikt baseras på vad bland andra imam Ahmad och Abū Dawūd har återberättat om att Ibn Mas'ūd har sagt att han hörde profeten – över honom vare Allāhs frid och välsignelser – säga: ”*Sannerligen är besvärjelser, amuletter och tiwalah[^2] shirk[^3]*.” [Abū Dawūd 3883, Ahmad 1:381 och Ibn Mājah 3530]
 
 Shaykh 'Abdur-Rahmān bin Hasan ash-Shaykh har sagt: ”Jag säger att detta är riktigt med anledning av tre saker som visar på det:
 

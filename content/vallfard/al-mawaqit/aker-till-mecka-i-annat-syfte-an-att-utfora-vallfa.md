@@ -8,7 +8,7 @@ categories:
 - al-Mawaqit
 original_id: 1330
 description: 'Fråga: Vad säger den islamiska lagen om någon som åker från Riyadh
- till Mecka och inte avser att utföra vallfärden eller ‘umrah ? När han hade anlänt
+ till Mecka och inte avser att utföra vallfärden eller ‘umrah? När han hade anlänt
  till Mecka ville han vallfärda så han går in ...'
 ---
 

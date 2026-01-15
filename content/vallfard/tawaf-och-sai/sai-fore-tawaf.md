@@ -7,8 +7,8 @@ categories:
 - Vallfärd (Hajj)
 - Tawāf och sa’ī
 original_id: 824
-description: 'Fråga: Är det tillåtet att utföra sa’ī innan tawāf , oberoende av
- om det är under vallfärden eller ‘umrah ? Svar: Det som är sunnah är att tawāf utförs
+description: 'Fråga: Är det tillåtet att utföra sa’ī innan tawāf, oberoende av
+ om det är under vallfärden eller ‘umrah? Svar: Det som är sunnah är att tawāf utförs
  först och sedan sa’ī efter den...'
 ---
 

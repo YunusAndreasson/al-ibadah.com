@@ -8,7 +8,7 @@ categories:
 - Kvinna med månadsblödning eller blödning efter graviditeten
 original_id: 782
 description: 'Fråga: Om en kvinna får sin månadsblödning innan hon utför tawāful-ifādhah
- , får hon då resa med sin familj och senare återvända för tawāful-ifādhah ? Eller
+, får hon då resa med sin familj och senare återvända för tawāful-ifādhah? Eller
  behöver hon vänta tills hon blir ren ...'
 ---
 

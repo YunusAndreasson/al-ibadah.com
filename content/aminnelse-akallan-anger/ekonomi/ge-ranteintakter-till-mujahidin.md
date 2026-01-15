@@ -8,7 +8,7 @@ categories:
 - Ekonomi
 original_id: 1619
 description: 'Fråga: Är det islamiskt sett tillåtet att jag sätter in mina tillgångar
- på en bank, tar räntan och sedan ger den till mujāhidin ? Svar: Då det är känt
+ på en bank, tar räntan och sedan ger den till mujāhidin? Svar: Då det är känt
  att dessa banker använder ränta innebär e...'
 ---
 

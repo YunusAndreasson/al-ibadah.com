@@ -8,7 +8,7 @@ categories:
 - Stenkastningen
 original_id: 856
 description: 'Fråga: Får den som inte har någon ursäkt kasta stenar på pelarna nattetid
- under at-ayyām at-tashrīq ? Får den som beger sig från Muzdalifah med kvinnor,
+ under at-ayyām at-tashrīq? Får den som beger sig från Muzdalifah med kvinnor,
  barn och svaga under natten före offerdage...'
 ---
 

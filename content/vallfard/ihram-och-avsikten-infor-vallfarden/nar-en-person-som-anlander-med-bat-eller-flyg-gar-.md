@@ -8,8 +8,8 @@ categories:
 - Ihrām och avsikten inför vallfärden
 original_id: 760
 description: 'Fråga: När träder en pilgrim eller den som kommer till ‘umrah in
- i ihrām ? Svar: Den som kommer med flyg eller båt går in i ihrām när denne
- är i jämnhöjd med mīqāt , precis som den som k...'
+ i ihrām? Svar: Den som kommer med flyg eller båt går in i ihrām när denne
+ är i jämnhöjd med mīqāt, precis som den som k...'
 ---
 
 **Fråga:** När träder en pilgrim eller den som kommer till *‘umrah[^1]* in i *ihrām[^2]*?

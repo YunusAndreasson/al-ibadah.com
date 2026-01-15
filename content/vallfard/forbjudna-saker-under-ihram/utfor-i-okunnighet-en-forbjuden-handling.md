@@ -9,7 +9,7 @@ categories:
 - Förbjudna saker under ihrām
 original_id: 1552
 description: 'Fråga: Vad gäller den som, ovetandes eller på grund av glömska, utför
- en av de nio förbjudna handlingarna under ihrām ? Svar: Den som glömmer och
+ en av de nio förbjudna handlingarna under ihrām? Svar: Den som glömmer och
  klipper sitt hår eller sina naglar har inte s...'
 ---
 

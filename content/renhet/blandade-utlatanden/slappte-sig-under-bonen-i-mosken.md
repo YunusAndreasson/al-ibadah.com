@@ -9,7 +9,7 @@ categories:
 original_id: 237
 description: 'Fråga: Om en man kom till bönen och han släppte sig under bönen, bör
  han då avvika eller vänta tills bönen är klar och sedan upprepa den trots att det
- är i den sista tashahhud ? Svar: I en h...'
+ är i den sista tashahhud? Svar: I en h...'
 ---
 
 **Fråga:** Om en man kom till bönen och han släppte sig under bönen, bör han då avvika eller vänta tills bönen är klar och sedan upprepa den trots att det är i den sista *tashahhud[^1]*?

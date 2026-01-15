@@ -8,7 +8,7 @@ categories:
 - Tawāf och sa’ī
 original_id: 807
 description: 'Fråga: Vilket är utlåtandet om bönen börjar och en pilgrim [under vallfärden
- eller ‘umrah ] inte har avslutat tawāf eller sa’ī ? Svar: Han ber med folket
+ eller ‘umrah ] inte har avslutat tawāf eller sa’ī? Svar: Han ber med folket
  och fullföljer sedan sin tawāf e...'
 ---
 

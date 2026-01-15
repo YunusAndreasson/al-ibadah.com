@@ -8,7 +8,7 @@ categories:
 - Fredagsbönen
 original_id: 1549
 description: 'Fråga: Om jag gick in i moskén när imamen bad fredagsbönen och han
- satt i tashahhud , bör jag då be den som fredagsbön eller middagsbönen? Svar: Om
+ satt i tashahhud, bör jag då be den som fredagsbön eller middagsbönen? Svar: Om
  den som kommer sent inte hinner med något a...'
 ---
 

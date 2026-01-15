@@ -7,7 +7,7 @@ categories:
 - Åminnelse, åkallan, ånger...
 - Åminnelse
 original_id: 269
-description: 'Fråga: Vilken hand är bäst för tasbih , den högra eller den vänstra? Svar: Det
+description: 'Fråga: Vilken hand är bäst för tasbih, den högra eller den vänstra? Svar: Det
  är bäst att göra det med den högra handen. Profeten – över honom vare Allāhs frid
  och välsignelser – brukade gör...'
 ---

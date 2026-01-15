@@ -8,7 +8,7 @@ categories:
 - Raka huvudet och klippa håret
 original_id: 830
 description: 'Fråga: Om en pilgrim under vallfärden eller ‘umrah endast klipper
- sitt hår på båda sidorna och sedan avlägsnar sin ihrām , utan att klippa håret
+ sitt hår på båda sidorna och sedan avlägsnar sin ihrām, utan att klippa håret
  jämnt – vad gäller då? Svar: Om denne vallfä...'
 ---
 

@@ -7,7 +7,7 @@ categories:
 - Vallfärd (Hajj)
 - Hindras i sin vallfärd eller 'umrah
 original_id: 864
-description: 'Fråga: En person gick in i ihrām för vallfärden vid mīqāt , sedan
+description: 'Fråga: En person gick in i ihrām för vallfärden vid mīqāt, sedan
  färdades han tills han kom nära Mecka. Där hindras han av en polisinspektion, då
  han inte hade ett tillstånd för att vallfärda....'
 ---

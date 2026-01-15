@@ -7,8 +7,8 @@ categories:
 - De som får ta emot allmosa
 original_id: 1315
 description: 'Fråga: Vilket är utlåtandet om en sunni som betalar allmosa till fattiga rāfidi
- ? Om en muslim som är skyldig att betala allmosa ger den till en fattig rāfidi
- , har denne då fullgjort sin skyldi...'
+? Om en muslim som är skyldig att betala allmosa ger den till en fattig rāfidi
+, har denne då fullgjort sin skyldi...'
 ---
 
 **Fråga:** Vilket är utlåtandet om en sunni som betalar allmosa till fattiga *rāfidi*? Om en muslim som är skyldig att betala allmosa ger den till en fattig *rāfidi*, har denne då fullgjort sin skyldighet?

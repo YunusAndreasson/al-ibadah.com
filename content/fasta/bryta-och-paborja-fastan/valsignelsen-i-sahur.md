@@ -9,7 +9,7 @@ categories:
 original_id: 476
 description: 'Fråga: Sändebudet – över honom vare Allāhs frid och välsignelser –
  har sagt: ”Ät sahūr för sannerligen innehåller sahūr välsignelse.” Vad avses med
- välsignelsen i sahūr ? Svar: Välsignelsen ...'
+ välsignelsen i sahūr? Svar: Välsignelsen ...'
 ---
 
 **Fråga:** Sändebudet – över honom vare Allāhs frid och välsignelser – har sagt: ”Ät *sahūr* för sannerligen innehåller sahūr välsignelse.” Vad avses med välsignelsen i *sahūr*?

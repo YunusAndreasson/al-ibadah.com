@@ -8,7 +8,7 @@ categories:
 - Att vara imam och bön bakom en imam
 original_id: 305
 description: 'Fråga: Måste imamen vänta om han hör några eftersläntrare komma springande
- under bugningen eller tashahhud ? Svar: Det är bättre att inte brådska. Det
+ under bugningen eller tashahhud? Svar: Det är bättre att inte brådska. Det
  är bra om imamen går lugnt till väga på ...'
 ---
 

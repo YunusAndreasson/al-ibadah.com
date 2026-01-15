@@ -10,7 +10,7 @@ categories:
 original_id: 1348
 description: 'Fråga: Är en kvinna med månadsblödning, en kvinna med blödningar efter
  graviditeten, den som inte har möjlighet och en sjukling alla tvungna att göra tawāful-wadā
- ? Detta med vetskap om att när d...'
+? Detta med vetskap om att när d...'
 ---
 
 **Fråga:** Är en kvinna med månadsblödning, en kvinna med blödningar efter graviditeten, den som inte har möjlighet och en sjukling alla tvungna att göra *tawāf[^1] ul-wadā*? Detta med vetskap om att när det skedde i Mina, frågade jag om det, men det lärda var oense. Några sade att be inte behöver göra *tawāf[^1] ul-wadā* och några sade att de är tvungna.

@@ -9,7 +9,7 @@ categories:
 - Förståelse av islam
 original_id: 75
 description: 'Fråga: Vilka verser i den Ädla Koranen är muhkam och mutashabih
- ? Varför är inte hela Koranen muhkam , så att man inte förstår något annat än sanningen
+? Varför är inte hela Koranen muhkam, så att man inte förstår något annat än sanningen
  från den? Svar: Du bör känna till at...'
 ---
 

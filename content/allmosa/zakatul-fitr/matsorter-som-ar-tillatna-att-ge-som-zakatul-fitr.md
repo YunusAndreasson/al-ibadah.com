@@ -8,7 +8,7 @@ categories:
 - Zakātul-fitr
 original_id: 651
 description: 'Fråga: Vilka är de matsorter som är tillåtna att ge som zakātul-fitr
- ? Svar: I en hadīth rapporteras att det som ska ges är fem saker. Det är
+? Svar: I en hadīth rapporteras att det som ska ges är fem saker. Det är
  vete, korn, torkade dadlar, russin, och ost. ...'
 ---
 

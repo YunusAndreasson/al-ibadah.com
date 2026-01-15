@@ -8,7 +8,7 @@ categories:
 - Tawāf och sa’ī
 original_id: 825
 description: 'Fråga: En man hörde att det är tillåtet att utföra sa’ī före tawāf
- , så han utförde sa’ī och sedan tawāf under den tolfte och den trettonde dagen.
+, så han utförde sa’ī och sedan tawāf under den tolfte och den trettonde dagen.
  Sedan sades det till honom att detta enbar...'
 ---
 

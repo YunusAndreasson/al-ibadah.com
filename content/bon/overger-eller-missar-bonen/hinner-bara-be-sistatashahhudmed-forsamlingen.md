@@ -7,7 +7,7 @@ categories:
 - Bön (Salāh)
 - Överger eller missar bönen
 original_id: 1522
-description: 'Fråga: Om en troende når församlingen i den sista tashahhud , får
+description: 'Fråga: Om en troende når församlingen i den sista tashahhud, får
  han då belöningen för att ha bett med församlingen? Svar: Man har inte bett
  bönen i församlingen om man inte har hunnit att b...'
 ---

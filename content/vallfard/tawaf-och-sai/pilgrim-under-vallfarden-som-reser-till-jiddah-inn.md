@@ -8,7 +8,7 @@ categories:
 - Tawāf och sa’ī
 original_id: 1352
 description: 'Fråga: Får en pilgrim resa till Jiddah utan att utföra tawāful-wadā
- ? Vad gäller den som gör det? Svar: En pilgrim får inte lämna Mecka efter vallfärden
+? Vad gäller den som gör det? Svar: En pilgrim får inte lämna Mecka efter vallfärden
  förrän denne har utfört tawāful-wadā ...'
 ---
 

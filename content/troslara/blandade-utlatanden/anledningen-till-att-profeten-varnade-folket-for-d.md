@@ -7,7 +7,7 @@ categories:
 - Troslära (´Aqīdah)
 - Blandade utlåtanden
 original_id: 1091
-description: 'Fråga: Varför har vi varnats för Dajjal ? Svar: Den största prövning
+description: 'Fråga: Varför har vi varnats för Dajjal? Svar: Den största prövning
  på jordens yta sedan Adam skapades tills Timmen börjar är prövningen i Dajjāl, vilket
  är något profeten – över honom vare ...'
 ---

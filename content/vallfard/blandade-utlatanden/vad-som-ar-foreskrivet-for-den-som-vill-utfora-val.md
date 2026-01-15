@@ -8,7 +8,7 @@ categories:
 - Blandade utlåtanden
 original_id: 702
 description: 'Fråga: Vad är föreskrivet för den som vill vallfärda och göra ‘umrah
- ? Svar: Den som bestämmer sig för att ge sig ut på en lång resa för att vallfärda,
+? Svar: Den som bestämmer sig för att ge sig ut på en lång resa för att vallfärda,
  eller någon annan resa, måste betala av...'
 ---
 

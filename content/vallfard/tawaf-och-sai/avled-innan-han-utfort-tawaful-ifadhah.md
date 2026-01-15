@@ -8,7 +8,7 @@ categories:
 - Tawāf och sa’ī
 original_id: 812
 description: 'Fråga: Vad gäller den som slutfört vallfärdsriterna, utom tawāful-ifādhah
- , men sedan dog? ska tawāf utföras för honom? Svar: Den som har fullbordat
+, men sedan dog? ska tawāf utföras för honom? Svar: Den som har fullbordat
  vallfärdsriterna utom tawāful-ifādhah...'
 ---
 

@@ -8,7 +8,7 @@ categories:
 - al-Mawaqit
 original_id: 1331
 description: 'Fråga: Vilket är utlåtandet om den som passerar mīqāt utan att träda
- in i ihrām , oavsett om det var för vallfärden, ‘umrah eller något annat
+ in i ihrām, oavsett om det var för vallfärden, ‘umrah eller något annat
  syfte? Svar: Passerar någon mīqāt för ...'
 ---
 

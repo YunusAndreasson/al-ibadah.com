@@ -7,7 +7,7 @@ categories:
 - Bön (Salāh)
 - Nedfallan vid recitation
 original_id: 518
-description: 'Fråga: Behöver man tvaga sig när man ska göra sujūd al-tilāwah ?
+description: 'Fråga: Behöver man tvaga sig när man ska göra sujūd al-tilāwah?
  Måste vi säga ” Allāhu akbar ” när vi går ned och upp? Vad ska vi säga under nedfallandet[^1]?
  Är de åkallan som har berättats om...'
 ---

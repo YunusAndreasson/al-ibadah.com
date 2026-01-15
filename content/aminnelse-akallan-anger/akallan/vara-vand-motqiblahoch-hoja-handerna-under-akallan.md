@@ -8,7 +8,7 @@ categories:
 - Åkallan
 original_id: 693
 description: 'Fråga: Är det ett krav för att ens bön ska besvaras att man höjer händerna
- och är vänd mot qiblah ? Svar: Att höja händerna under åkallan och att vara
+ och är vänd mot qiblah? Svar: Att höja händerna under åkallan och att vara
  riktad mot qiblah – den ädlaste av all...'
 ---
 

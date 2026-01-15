@@ -7,7 +7,7 @@ categories:
 - Troslära (´Aqīdah)
 - Sekter, rörelser och den rätta vägen - ahlus-sunnah
 original_id: 1067
-description: 'Fråga: Vilka är ahlus-sunnah wal-jamā’at ? Svar: Ahlus-sunnah
+description: 'Fråga: Vilka är ahlus-sunnah wal-jamā’at? Svar: Ahlus-sunnah
  wal-jamā’at är de som håller fast vid profetens – över honom vare Allāhs frid och
  välsignelser – sunnah . De är eniga om den u...'
 ---

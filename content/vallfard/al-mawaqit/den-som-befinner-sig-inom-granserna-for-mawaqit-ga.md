@@ -8,7 +8,7 @@ categories:
 - al-Mawaqit
 original_id: 1337
 description: 'Fråga: Var träder den som bor innanför mawaqits gränser in i ihrām
- ? Svar: Den som befinner sig inom gränserna för mawaqit , som invånarna i Ummus-Salam
+? Svar: Den som befinner sig inom gränserna för mawaqit, som invånarna i Ummus-Salam
  och Bahrah, de går in i ihrām på ...'
 ---
 

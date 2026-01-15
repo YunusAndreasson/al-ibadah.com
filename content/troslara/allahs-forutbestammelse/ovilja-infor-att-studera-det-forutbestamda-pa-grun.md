@@ -9,7 +9,7 @@ categories:
 - Allāhs förutbestämmelse
 original_id: 1580
 description: 'Fråga: Vilket råd har ni att ge till den som inte gillar att studeras ‘aqīdah
- , speciellt frågor om det förutbestämda, på grund av rädsla för att begå misstag? Svar: Denna
+, speciellt frågor om det förutbestämda, på grund av rädsla för att begå misstag? Svar: Denna
  fråga är för honom ...'
 ---
 

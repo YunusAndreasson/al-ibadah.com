@@ -9,7 +9,7 @@ categories:
 - '''Eid-bönerna'
 original_id: 1007
 description: 'Fråga: Vilket är utlåtandet om att flera böner hålls i samma stad vid ‘eid
- ? Ge oss råd och må ni belönas. Svar: Finns det ett behov så finns det ingen
+? Ge oss råd och må ni belönas. Svar: Finns det ett behov så finns det ingen
  invändan. Detsamma gäller som när det f...'
 ---
 

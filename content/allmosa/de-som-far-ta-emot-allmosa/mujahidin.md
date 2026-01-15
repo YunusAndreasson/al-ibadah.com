@@ -7,7 +7,7 @@ categories:
 - Allmosa (Zakāh)
 - De som får ta emot allmosa
 original_id: 1027
-description: 'Fråga: Är det tillåtet att betala sin allmosa till mujāhidin ? Svar: Allāh
+description: 'Fråga: Är det tillåtet att betala sin allmosa till mujāhidin? Svar: Allāh
  har förklarat att de som kämpar för Hans skull får ta emot allmosa. Därmed får vi
  betala allmosa till dem som kämpar...'
 ---

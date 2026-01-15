@@ -9,7 +9,7 @@ categories:
 original_id: 654
 description: 'Fråga: Om någon befinner sig någonstans långt från staden och dennes
  grannar är medelklass och närmast lika välbärgade – de är varken rika eller fattiga
- – kan då några få zakātul-fitr ? Svar: ...'
+ – kan då några få zakātul-fitr? Svar: ...'
 ---
 
 **Fråga:** Om någon befinner sig någonstans långt från staden och dennes grannar är medelklass och närmast lika välbärgade – de är varken rika eller fattiga – kan då några få *zakātul-fitr[^1]*?

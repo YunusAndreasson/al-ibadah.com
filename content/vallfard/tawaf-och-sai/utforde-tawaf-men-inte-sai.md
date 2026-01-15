@@ -8,7 +8,7 @@ categories:
 - Tawāf och sa’ī
 original_id: 827
 description: 'Fråga: Om någon som behövde utföra sa’ī gjorde tawāf och utelämnade sa’ī och
- efter fem dagar informerades om att han behövde utföra sa’ī , får han utföra sa’ī utan
+ efter fem dagar informerades om att han behövde utföra sa’ī, får han utföra sa’ī utan
  att först utföra tawāf...'
 ---
 

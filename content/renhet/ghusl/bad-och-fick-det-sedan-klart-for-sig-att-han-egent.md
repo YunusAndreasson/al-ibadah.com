@@ -8,7 +8,7 @@ categories:
 - Ghusl [Den stora tvagningen]
 original_id: 933
 description: 'Fråga: Om någon bad och det sedan blev klart att denne hade blivit
- oren på ett sätt som kräver ghusl , vad bör denne göra då? Svar: Den som ber
+ oren på ett sätt som kräver ghusl, vad bör denne göra då? Svar: Den som ber
  och efter bönen finner att denne har en större ...'
 ---
 

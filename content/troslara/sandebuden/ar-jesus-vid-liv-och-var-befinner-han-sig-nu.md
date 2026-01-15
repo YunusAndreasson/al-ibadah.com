@@ -10,7 +10,7 @@ categories:
 original_id: 129
 description: 'Fråga: Är Jesus, Marias son, vid liv? Var befinner han sig om han är
  vid liv? Vilka bevis finns i Allāhs skrift och profetens – över honom vare Allāhs
- frid och välsignelser – sunnah ? Svar: ...'
+ frid och välsignelser – sunnah? Svar: ...'
 ---
 
 **Fråga:** Är Jesus, Marias son, vid liv? Var befinner han sig om han är vid liv? Vilka bevis finns i Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*?

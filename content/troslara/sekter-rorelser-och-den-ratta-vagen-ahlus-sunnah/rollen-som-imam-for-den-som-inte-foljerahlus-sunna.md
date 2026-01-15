@@ -8,7 +8,7 @@ categories:
 - Sekter, rörelser och den rätta vägen - ahlus-sunnah
 original_id: 77
 description: 'Fråga: Är det tillåtet att be bakom någon vars trosprinciper står i
- motsats till ahlus-sunnah wal-jamā’at ? Ett exempel kan vara ash''ari . Svar: Det
+ motsats till ahlus-sunnah wal-jamā’at? Ett exempel kan vara ash''ari . Svar: Det
  bästa svaret – och Allāh vet bäst – är at...'
 ---
 

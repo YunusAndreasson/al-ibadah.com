@@ -8,7 +8,7 @@ categories:
 - Iqāmah [Det andra böneutropet]
 original_id: 924
 description: 'Fråga: Bör man läsa efter böneutroparen vad denne säger när denne ropar
- ut iqāmah ? Svar: Abū Dawūd har rapporterat en hadīth om att upprepa vad
+ ut iqāmah? Svar: Abū Dawūd har rapporterat en hadīth om att upprepa vad
  böneutroparen säger i iqāmah . Den är dock ...'
 ---
 

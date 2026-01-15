@@ -8,7 +8,7 @@ categories:
 - Glömska och dålig koncentration
 original_id: 211
 description: 'Fråga: Mitt problem är att när jag går in i moskén och vänder mig mot qiblah
- , för att sedan göra öppnings- takbīr , då går jag tillbaka i mina tankar och blir
+, för att sedan göra öppnings- takbīr, då går jag tillbaka i mina tankar och blir
  osäker på om jag har gjort den elle...'
 ---
 

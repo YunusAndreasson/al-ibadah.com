@@ -9,7 +9,7 @@ categories:
 - Tayammum [Tvagning utan vatten]
 original_id: 158
 description: 'Fråga: En person befann sig på sjukhus och kunde inte tvaga sig. Han
- gjorde därför tayammum , men han gjorde det mot en matta. Är hans bön giltig? Svar: Den
+ gjorde därför tayammum, men han gjorde det mot en matta. Är hans bön giltig? Svar: Den
  som är sjuk måste tvaga sig inför ...'
 ---
 

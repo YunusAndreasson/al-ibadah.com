@@ -8,7 +8,7 @@ categories:
 - Kläderna under ihrām
 original_id: 1343
 description: 'Fråga: Om en man eller kvinna bär sandaler eller sockar under ihrām
- , oavsett om denne kände till det eller inte, gör detta då ihrām ogiltig? Svar: Det
+, oavsett om denne kände till det eller inte, gör detta då ihrām ogiltig? Svar: Det
  som är sunnah är att en man gå...'
 ---
 

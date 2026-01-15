@@ -8,8 +8,8 @@ categories:
 - Riterna under vallfärden
 original_id: 747
 description: 'Fråga: Vad gäller den som går in i ihrām för vallfärden samt ‘umrah som
- en qarin och efter ‘umrah avlägsnar sin ihrām ? Anses denne vara en mutamatti''
- ? Svar: Ja, om denne går in i ...'
+ en qarin och efter ‘umrah avlägsnar sin ihrām? Anses denne vara en mutamatti''
+? Svar: Ja, om denne går in i ...'
 ---
 
 **Fråga:** Vad gäller den som går in i *ihrām[^1]* för vallfärden samt *'umrah[^2]* som en *qarin* och efter *'umrah[^2]* avlägsnar sin *ihrām[^1]*? Anses denne vara en *mutamatti[^3]'*?

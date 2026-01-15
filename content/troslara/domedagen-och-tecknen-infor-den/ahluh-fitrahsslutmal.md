@@ -8,7 +8,7 @@ categories:
 - Domedagen och tecknen inför den
 original_id: 109
 description: 'Fråga: Vad kommer de som levde under perioden mellan Jesus och Muhammad
- hamna i nästa liv? Anses de tillhöra ahlul-fitrah ? Svar: Det korrekta utlåtandet
+ hamna i nästa liv? Anses de tillhöra ahlul-fitrah? Svar: Det korrekta utlåtandet
  är att ahlul-fitrah består av två kat...'
 ---
 

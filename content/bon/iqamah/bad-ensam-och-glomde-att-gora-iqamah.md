@@ -7,7 +7,7 @@ categories:
 - Bön (Salāh)
 - Iqāmah [Det andra böneutropet]
 original_id: 179
-description: 'Fråga: Någon bad ensam och glömde iqāmah , får denne då be eller bör
+description: 'Fråga: Någon bad ensam och glömde iqāmah, får denne då be eller bör
  denne upprepa bönen från början? Svar: Iqāmah är inte föreskriven för en ensam
  person, oavsett om det är en man ell...'
 ---

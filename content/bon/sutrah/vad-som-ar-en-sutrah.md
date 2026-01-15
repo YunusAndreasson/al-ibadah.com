@@ -7,7 +7,7 @@ categories:
 - Bön (Salāh)
 - Sutrah [Vad som avskärmar den bedjande]
 original_id: 266
-description: 'Fråga: Är en mattkant en sutrah ? Svar: Mattans kanter anses inte
+description: 'Fråga: Är en mattkant en sutrah? Svar: Mattans kanter anses inte
  vara en sutrah för Allāhs tjänare. Det som är sunnah för sutrah är att den
  är något stående, som en kamelsadel eller nå...'
 ---

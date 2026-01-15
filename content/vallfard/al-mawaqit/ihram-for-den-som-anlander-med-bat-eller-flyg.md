@@ -8,7 +8,7 @@ categories:
 - al-Mawaqit
 original_id: 734
 description: 'Fråga: När träder den in i ihrām som kommer med flyg till vallfärden
- eller ‘umrah ? Svar: Den som kommer med flyg eller båt går in i ihrām när
+ eller ‘umrah? Svar: Den som kommer med flyg eller båt går in i ihrām när
  denne når den punkt [under flygningen] som ä...'
 ---
 

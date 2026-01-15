@@ -9,7 +9,7 @@ categories:
 original_id: 780
 description: 'Fråga: Behöver en kvinna som får sin månadsblödning eller blödning
  efter graviditeten innan hon gör tawāful-ifādhah stanna kvar i Mecka tills hon
- blir ren och därefter gör tawāf ? Eller kan hon...'
+ blir ren och därefter gör tawāf? Eller kan hon...'
 ---
 
 **Fråga:** Behöver en kvinna som får sin månadsblödning eller blödning efter graviditeten innan hon gör *tawāf[^1] ul-ifādhah* stanna kvar i Mecka tills hon blir ren och därefter gör *tawāf[^1]*? Eller kan hon resa till Jiddah [eller en annan plats], återvända och göra *tawāf[^1]* när hon blir ren?

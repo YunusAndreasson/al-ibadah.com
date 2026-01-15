@@ -8,7 +8,7 @@ categories:
 - Ihrām och avsikten inför vallfärden
 original_id: 755
 description: 'Fråga: Kan man träda in i ihrām för två vallfärder eller två ‘umrah
- ? Svar: Det är inte rätt om man går in i ihrām för två vallfärder under ett
+? Svar: Det är inte rätt om man går in i ihrām för två vallfärder under ett
  år. Det är endast tillåtet att träda in i ...'
 ---
 

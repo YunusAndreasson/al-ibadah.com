@@ -8,7 +8,7 @@ categories:
 - Kvinna med månadsblödning eller blödning efter graviditeten
 original_id: 788
 description: 'Fråga: Får en kvinna med månadsblödning sitta vid platsen för sa’ī
- ? Svar: Ja, en kvinna som har månadsblödning får sitta vid platsen för sa’ī
+? Svar: Ja, en kvinna som har månadsblödning får sitta vid platsen för sa’ī
  . Platsen för sa’ī anses inte vara en del av ...'
 ---
 

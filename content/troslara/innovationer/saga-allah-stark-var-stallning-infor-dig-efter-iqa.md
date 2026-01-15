@@ -7,7 +7,7 @@ categories:
 - Innovationer
 original_id: 560
 description: 'Fråga: Kan man säga ”Allāh, stärk vår ställning inför dig” [ Allāhumma
- ahsin wuqūfanā bayna yadayka ] efter iqāmah ? Svar: Det finns ingen grund för
+ ahsin wuqūfanā bayna yadayka ] efter iqāmah? Svar: Det finns ingen grund för
  att säga detta: ”Allāh, stärk vår ställnin...'
 ---
 

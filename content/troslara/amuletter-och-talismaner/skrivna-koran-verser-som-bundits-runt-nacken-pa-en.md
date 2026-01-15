@@ -8,7 +8,7 @@ categories:
 - Troslära (´Aqīdah)
 - Amuletter och talismaner
 original_id: 1172
-description: 'Fråga: Vilket är utlåtandet om ruqyah ? Och vilket är utlåtandet om
+description: 'Fråga: Vilket är utlåtandet om ruqyah? Och vilket är utlåtandet om
  att skriva Koran-verser och binda dem runt en sjuklings hals? Svar: Det finns
  ingen synd i ruqyah för en sjukling som dra...'
 ---

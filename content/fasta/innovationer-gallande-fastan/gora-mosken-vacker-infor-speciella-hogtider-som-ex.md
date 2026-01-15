@@ -7,7 +7,7 @@ categories:
 - Fasta (Sawm)
 - Innovationer gällande fastan
 original_id: 385
-description: 'Fråga: Under vissa högtidligheter, som ‘eidul-fitr , brukar moskén
+description: 'Fråga: Under vissa högtidligheter, som ‘eidul-fitr, brukar moskén
  göras vacker med olika sorters färger, ljus och blommor. Tillåter islam detta? Vilka
  bevis finns för att det skulle vara tillåte...'
 ---

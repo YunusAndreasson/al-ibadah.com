@@ -8,7 +8,7 @@ categories:
 - Förståelse av islam
 original_id: 1679
 description: 'Fråga: Vilken är innebörden av denna hadīth : ”Den som vänder sig
- bort från min sunnah , då tillhör han inte mig.” [al-Bukhārī 5063 och Muslim 1401]
+ bort från min sunnah, då tillhör han inte mig.” [al-Bukhārī 5063 och Muslim 1401]
  Hamnar man i denna kategori när man inte ber ...'
 ---
 

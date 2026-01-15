@@ -8,7 +8,7 @@ categories:
 original_id: 602
 description: 'Fråga: Jag ”leker” ofta med min fru och får ibland en orgasm även om
  vi inte har ett regelrätt samlag. Samma sak händer för min fru. Är det obligatorisk
- att vi gör ghusl ? Svar:  Om du fick en...'
+ att vi gör ghusl? Svar:  Om du fick en...'
 ---
 
 **Fråga:** Jag ”leker” ofta med min fru och får ibland en orgasm även om vi inte har ett regelrätt samlag. Samma sak händer för min fru. Är det obligatorisk att vi gör *ghusl[^1]*?

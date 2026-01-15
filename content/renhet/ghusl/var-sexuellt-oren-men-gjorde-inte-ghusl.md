@@ -8,7 +8,7 @@ categories:
 - Ghusl [Den stora tvagningen]
 original_id: 253
 description: 'Fråga: Jag brukade onanera och jag gjorde då inte ghusl . Jag bad
- och fastade därmed utan ghusl , då jag inte kände till att jag behövde göra ghusl på
+ och fastade därmed utan ghusl, då jag inte kände till att jag behövde göra ghusl på
  grund av detta. Jag vet inte hur många bö...'
 ---
 

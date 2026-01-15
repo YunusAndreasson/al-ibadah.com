@@ -7,7 +7,7 @@ categories:
 - Renhet (Tahārah)
 - Tvagning
 original_id: 1428
-description: 'Fråga: Kräver al-madhi ghusl ? Svar: al-Madhi kräver inte ghusl
+description: 'Fråga: Kräver al-madhi ghusl? Svar: al-Madhi kräver inte ghusl
  . Man måste dock tvaga sig när man har tvättat sin penis och testiklarna innan man
  ber, gör tawāf eller rör Koranen. Detta...'
 ---

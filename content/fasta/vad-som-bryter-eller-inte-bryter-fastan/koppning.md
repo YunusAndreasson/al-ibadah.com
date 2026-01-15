@@ -9,7 +9,7 @@ categories:
 original_id: 1399
 description: 'Fråga: Profeten – över honom vare Allāhs frid och välsignelser – har
  sagt: ” Den som koppar och den som blir koppad bryter båda fastan .” [ Abū Dawūd 2367]
- Är detta en autentisk hadīth ? Om den ...'
+ Är detta en autentisk hadīth? Om den ...'
 ---
 
 **Fråga:** Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som koppar och den som blir koppad bryter båda fastan*.” [*Abū Dawūd* 2367] Är detta en autentisk *hadīth[^1]*? Om den är autentisk, hur förklaras den då?

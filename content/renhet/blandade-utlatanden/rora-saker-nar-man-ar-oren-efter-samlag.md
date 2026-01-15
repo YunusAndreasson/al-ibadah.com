@@ -8,7 +8,7 @@ categories:
 - Blandade utlåtanden
 original_id: 159
 description: 'Fråga: Om en man och kvinna har intim samvaro, får de då röra något
- innan de har gjort ghusl ? Blir något orent om det vidrörs? Svar: Ja, den som
+ innan de har gjort ghusl? Blir något orent om det vidrörs? Svar: Ja, den som
  är rituellt oren [ junub ] får röra saker som...'
 ---
 

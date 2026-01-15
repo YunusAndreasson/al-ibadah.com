@@ -8,7 +8,7 @@ categories:
 - Iqāmah [Det andra böneutropet]
 original_id: 180
 description: 'Fråga: Får böneutroparen leda tjänarna i bön när han har ropat ut iqāmah
- ? Svar: Ja, det är tillåtet att vara både böneutropare och imam. Om böneutroparen
+? Svar: Ja, det är tillåtet att vara både böneutropare och imam. Om böneutroparen
  har mer kunskap om recitation än de ...'
 ---
 

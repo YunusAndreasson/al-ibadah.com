@@ -8,8 +8,8 @@ categories:
 - Tawāf och sa’ī
 original_id: 1353
 description: 'Fråga: Är tawāful-wadā obligatoriskt för ‘umrah och är det tillåtet
- att köpa något i Mecka efter tawāful-wadā , oavsett om det är vallfärd eller ‘umrah
- ? Svar: Tawāful-wadā är int...'
+ att köpa något i Mecka efter tawāful-wadā, oavsett om det är vallfärd eller ‘umrah
+? Svar: Tawāful-wadā är int...'
 ---
 
 **Fråga:** Är *tawāf[^1] ul-wadā* obligatoriskt för *‘umrah[^2]* och är det tillåtet att köpa något i Mecka efter *tawāf[^1] ul-wadā*, oavsett om det är vallfärd eller *‘umrah[^2]*?

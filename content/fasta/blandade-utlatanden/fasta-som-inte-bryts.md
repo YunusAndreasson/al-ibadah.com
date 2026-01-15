@@ -7,7 +7,7 @@ categories:
 - Fasta (Sawm)
 - Blandade utlåtanden
 original_id: 1414
-description: 'Fråga: Vad är en fortlöpande fasta för något och är det sunnah ? Svar: En
+description: 'Fråga: Vad är en fortlöpande fasta för något och är det sunnah? Svar: En
  fortlöpande fasta är när någon inte bryter fastan under två dagar. Således fortsätter
  denne att fasta under två på va...'
 ---

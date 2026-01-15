@@ -7,7 +7,7 @@ categories:
 - Fasta (Sawm)
 - Frivillig fasta (Shawwal, ashura-dagen, m.m.)
 original_id: 1061
-description: 'Fråga: När bör man fasta de sex dagarna under shawwal ? Svar: Det
+description: 'Fråga: När bör man fasta de sex dagarna under shawwal? Svar: Det
  är att föredra om man fastar de sex dagarna under shawwal direkt i följd efter
  ‘eid, vilket de lärde har avgjort. Detta är ...'
 ---

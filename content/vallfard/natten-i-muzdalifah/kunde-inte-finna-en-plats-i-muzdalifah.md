@@ -8,7 +8,7 @@ categories:
 - Natten i Muzdalifah
 original_id: 843
 description: 'Fråga: Vilket är utlåtandet om en pilgrim inte kan finna en plats i
- Muzdalifah för att stanna där natten före ‘eid ? Svar: Har någon inte möjlighet
+ Muzdalifah för att stanna där natten före ‘eid? Svar: Har någon inte möjlighet
  att stanna i Muzdalifah, då är det uppenbar...'
 ---
 

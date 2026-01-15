@@ -8,7 +8,7 @@ categories:
 - Nattbön (tarawih)
 original_id: 978
 description: 'Fråga: Vilket är utlåtandet om att åkalla när man har läst ut Koranen
- nattetid under ramadan? Svar: Jag känner inte till någon sunnah , varken från
+ nattetid under ramadan? Svar: Jag känner inte till någon sunnah, varken från
  profeten – över honom vare Allāhs frid och ...'
 ---
 

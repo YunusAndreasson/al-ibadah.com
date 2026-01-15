@@ -7,7 +7,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
 categories:
 - Renhet (Tahārah)
 original_id: 1135
-description: 'Fråga: Vilken är beskrivningen av ghusl ? Svar: Det finns två
+description: 'Fråga: Vilken är beskrivningen av ghusl? Svar: Det finns två
  olika beskrivningar av ghusl : Det obligatoriska sättet vilket innebär
  att man tvättar hela sin kropp med vatten inklusi...'
 ---

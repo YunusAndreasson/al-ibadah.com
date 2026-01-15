@@ -9,7 +9,7 @@ categories:
 original_id: 930
 description: 'Fråga: Får en kvinna be bärandes en ansiktsslöja och ett par handskar? Svar: Om
  en kvinna ber i sitt hem på en plats där ingen kan se henne utom de som är hennes mahram
- , då får hon visa ansi...'
+, då får hon visa ansi...'
 ---
 
 **Fråga:** Får en kvinna be bärandes en ansiktsslöja och ett par handskar?

@@ -7,7 +7,7 @@ categories:
 - Bön (Salāh)
 - Nattbön och witr
 original_id: 1513
-description: 'Fråga: Vilken är den senaste tidpunkten för att be witr ? Svar: Enligt
+description: 'Fråga: Vilken är den senaste tidpunkten för att be witr? Svar: Enligt
  profetens – över honom vare Allāhs frid och välsignelser – ord är det under nattens
  slut innan gryningsbönen börjar: ”N ...'
 ---

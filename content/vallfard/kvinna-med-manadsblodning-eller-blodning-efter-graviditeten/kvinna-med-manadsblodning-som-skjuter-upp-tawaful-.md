@@ -8,7 +8,7 @@ categories:
 - Kvinna med månadsblödning eller blödning efter graviditeten
 original_id: 781
 description: 'Fråga: Vad gäller om en kvinna får sin månadsblödning innan hon har
- gjort tawāful-ifādhah ? Detta i vetskap om att hon utförde den andra vallfärdsriterna
+ gjort tawāful-ifādhah? Detta i vetskap om att hon utförde den andra vallfärdsriterna
  och hennes månadsblödning fortsatte till ...'
 ---
 

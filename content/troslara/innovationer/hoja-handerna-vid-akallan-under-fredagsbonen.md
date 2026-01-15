@@ -10,7 +10,7 @@ categories:
 original_id: 368
 description: 'Fråga: Vilket är utlåtandet om att en av Allāhs tjänare höjer händerna
  när han säger āmīn under åkallan med imamen under predikan? Vilket är utlåtandet
- om att höja rösten när man säger āmīn ? ...'
+ om att höja rösten när man säger āmīn? ...'
 ---
 
 **Fråga:** Vilket är utlåtandet om att en av Allāhs tjänare höjer händerna när han säger *āmīn* under åkallan[^1] med imamen under predikan? Vilket är utlåtandet om att höja rösten när man säger *āmīn*?

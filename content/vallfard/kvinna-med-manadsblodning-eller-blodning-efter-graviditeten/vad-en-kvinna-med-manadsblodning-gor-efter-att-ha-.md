@@ -7,9 +7,9 @@ categories:
 - Vallfärd (Hajj)
 - Kvinna med månadsblödning eller blödning efter graviditeten
 original_id: 1346
-description: 'Fråga: Om en kvinna som utför hajjul-tamattu'' går in i ihrām ,
+description: 'Fråga: Om en kvinna som utför hajjul-tamattu'' går in i ihrām,
  och precis innan hon når Ka’bah får sin månadsblödning, vad bör hon göra då? Bör
- hon utföra vallfärden innan ‘umrah ? Svar: H...'
+ hon utföra vallfärden innan ‘umrah? Svar: H...'
 ---
 
 **Fråga:** Om en kvinna som utför *hajjul-tamattu[^1]'* går in i *ihrām[^2]*, och precis innan hon når Ka’bah får sin månadsblödning, vad bör hon göra då? Bör hon utföra vallfärden innan *‘umrah[^3]*?

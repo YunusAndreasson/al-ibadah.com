@@ -8,7 +8,7 @@ categories:
 - Resenärens fasta
 original_id: 1039
 description: 'Fråga: Om en resenär fastar och kommer till Mecka, bör denne få bryta
- fastan för att få krafter för att göra ‘umrah ? Svar: Vi säger att profeten
+ fastan för att få krafter för att göra ‘umrah? Svar: Vi säger att profeten
  – över honom vare Allāhs frid och välsignelse...'
 ---
 

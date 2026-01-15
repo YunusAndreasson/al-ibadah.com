@@ -8,7 +8,7 @@ categories:
 - Innovationer
 original_id: 1476
 description: 'Fråga: Vilket är utlåtandet om att skaka hand direkt efter bönen, är
- det en innovation eller sunnah ? Vilka bevis finns för detta utlåtande? Svar: Vi
+ det en innovation eller sunnah? Vilka bevis finns för detta utlåtande? Svar: Vi
  känner inte till någon grund för detta, a...'
 ---
 

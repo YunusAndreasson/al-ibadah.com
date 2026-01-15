@@ -10,7 +10,7 @@ categories:
 original_id: 1090
 description: 'Fråga: Är ahādīth som berättar om Mahdi autentiska? Ahādīth om
  Mahdi kan delas in i tre kategorier: Påhittade ahādīth . Svaga ahādīth
- . Hasan ahādīth , men som med ...'
+ . Hasan ahādīth, men som med ...'
 ---
 
 **Fråga:** Är *ahādīth[^1]* som berättar om Mahdi autentiska?

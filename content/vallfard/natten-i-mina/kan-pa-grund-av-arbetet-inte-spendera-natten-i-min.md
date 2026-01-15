@@ -8,7 +8,7 @@ categories:
 - Natten i Mina
 original_id: 851
 description: 'Fråga: Vilket är utlåtandet om den vars arbete inte tillåter denne
- att spendera natten i Mina under at-ayyām at-tashrīq ? Svar: De som har en
+ att spendera natten i Mina under at-ayyām at-tashrīq? Svar: De som har en
  giltig ursäkt behöver inte tillbringa natten i Mi...'
 ---
 

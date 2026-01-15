@@ -7,9 +7,9 @@ categories:
 - Vallfärd (Hajj)
 - Förbjudna saker under ihrām
 original_id: 777
-description: 'Fråga: Om pilgrimen gör tawāful-ifādhah , får denne då ha intim samvaro
- med en kvinna under at-ayyām at-tashrīq ? Svar: Om pilgrimen gör tawāful-ifādhah
- , då får han inte ha intim samvaro m...'
+description: 'Fråga: Om pilgrimen gör tawāful-ifādhah, får denne då ha intim samvaro
+ med en kvinna under at-ayyām at-tashrīq? Svar: Om pilgrimen gör tawāful-ifādhah
+, då får han inte ha intim samvaro m...'
 ---
 
 **Fråga:** Om pilgrimen gör *tawāf[^1] ul-ifādhah*, får denne då ha intim samvaro med en kvinna under *at-ayyām at-tashrīq*?

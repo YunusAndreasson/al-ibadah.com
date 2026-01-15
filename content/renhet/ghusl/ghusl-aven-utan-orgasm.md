@@ -8,7 +8,7 @@ categories:
 original_id: 1380
 description: 'Fråga: Är det obligatorisk, för ett gift par, att göra ghusl även
  om de inte fick någon orgasm? Svar: Ja, det är obligatoriskt för dem att göra ghusl
- , även om de inte fick någon orgasm. De...'
+, även om de inte fick någon orgasm. De...'
 ---
 
 **Fråga:** Är det obligatorisk, för ett gift par, att göra *ghusl[^1]* även om de inte fick någon orgasm?

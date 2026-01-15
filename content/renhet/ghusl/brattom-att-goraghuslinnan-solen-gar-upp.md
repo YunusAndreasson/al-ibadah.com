@@ -9,7 +9,7 @@ categories:
 - Ghusl [Den stora tvagningen]
 original_id: 1426
 description: 'Fråga: Låt oss anta att jag vaknar precis innan soluppgången och finner
- att jag är i ett tillstånd av stor rituell orenhet. Om jag gör ghusl , då kommer
+ att jag är i ett tillstånd av stor rituell orenhet. Om jag gör ghusl, då kommer
  solen hinna stiga. Bör jag då göra tayamm...'
 ---
 

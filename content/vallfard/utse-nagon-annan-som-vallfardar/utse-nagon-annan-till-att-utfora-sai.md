@@ -9,7 +9,7 @@ categories:
 - Utse någon annan som vallfärdar
 original_id: 797
 description: 'Fråga: Vilket är utlåtandet om den som inte kan utföra sa’ī under
- vallfärden eller ‘umrah ? Kan han utse en representant som utför sa’ī eller tawāf åt
+ vallfärden eller ‘umrah? Kan han utse en representant som utför sa’ī eller tawāf åt
  honom? Vilket är utlåtandet om han åte...'
 ---
 

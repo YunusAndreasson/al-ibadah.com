@@ -8,7 +8,7 @@ categories:
 - Riterna under vallfärden
 original_id: 749
 description: 'Fråga: Vad gäller den som avser att vallfärda som en mutamatti'' och
- efter mīqāt ändrar sig och säger talbiyyah för vallfärden som en mufrid ? Måste
+ efter mīqāt ändrar sig och säger talbiyyah för vallfärden som en mufrid? Måste
  denne offra ett djur? Svar: Det skilj...'
 ---
 
