@@ -14,7 +14,7 @@ description: 'Fråga: Jag bor jämte en moské där jag ber middagsbönen, efter
 
 **Fråga:** Jag bor jämte en moské där jag ber middagsbönen[^1], eftermiddagsbönen[^2], kvällsbönen[^3] och nattbönen[^4]. Nyligen när imamen reciterade i kvällsbönen[^3] och nattbönen[^4] harklade han sig hela tiden, mer än tre gånger i en bönecykel. Gör detta bönen ogiltig?
 
-**Svar:** Det finns ingen invändan mot bön bakom denna imam, även om han harklar sig ofta. Anledningen är att detta inte gör bönen ogiltig om det görs eftersom det är nödvändigt och det normalt sett inte sker på det sätt som du har beskrivet av någon annan anledning än att det är nödvändigt.
+**Svar:** Det finns ingen invändan mot bön bakom denna imam, även om han harklar sig ofta. Anledningen är att detta inte gör bönen ogiltig om det görs eftersom det är nödvändigt och det normalt sett inte sker på det sätt som du har beskrivit av någon annan anledning än att det är nödvändigt.
 
 
 [^1]: Dhuhr
