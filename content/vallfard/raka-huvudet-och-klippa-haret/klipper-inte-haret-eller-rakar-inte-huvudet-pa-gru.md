@@ -14,7 +14,7 @@ description: 'Fråga: En pilgrim kom under vallfärden och vallfärdade hajjul-t
 
 **Fråga:** En pilgrim kom under vallfärden och vallfärdade *hajjul-tamattu'*[^1]. När han hade utfört *tawāf*[^2] och *sa'ī*[^3] tog han på sig sina vanliga kläder men klippte eller rakade inte sitt hår. Sedan, efter vallfärden, frågade han och informerades om att han gjort ett misstag. Vad bör han göra, då vallfärden kom efter tidpunkten för *'umrah*[^4]?
 
-**Svar:** Denne man anses ha lämnat en obligatorisk handling som är en skylidighet under *'umrah*[^4]. Detta är att raka huvudet eller att klippa håret. Enligt de lärde måste han slakta ett djur i Mecka som försoningslösen och dela ut det till de fattiga i staden. Hans *hajjul-tamattu'*[^1] räknas dock fortfarande.
+**Svar:** Denne man anses ha lämnat en obligatorisk handling som är en skyldighet under *'umrah*[^4]. Detta är att raka huvudet eller att klippa håret. Enligt de lärde måste han slakta ett djur i Mecka som försoningslösen och dela ut det till de fattiga i staden. Hans *hajjul-tamattu'*[^1] räknas dock fortfarande.
 
 
 [^1]: När man först gör ´umrah och lämnar ihram för att därpå träda in i ihram för vallfärden.
