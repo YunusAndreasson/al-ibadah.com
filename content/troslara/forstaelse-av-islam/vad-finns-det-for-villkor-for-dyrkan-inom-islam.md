@@ -34,7 +34,7 @@ För det tredje: dyrkan måste vara in enlighet med den islamiska lagen i dess o
 
 För det fjärde: dyrkan måste vara enligt den islamiska lagen på det sätt som den utförs.
 
-Om någon utför en handling på ett sätt som är acceptabelt i förhållande till mängd, typ och anledning men motsäger sig den islamiska lagen i hur handlingen skall utföras – då är den inte giltig. Om någon exempelvis släpper sig och tvagar sig på nytt genom att tvätta fötterna, stryka över sitt huvud, tvätta sina händer och sedan sitt ansikte – är dennatvagning[^5] då giltig? Inte alls, för den har inte utförts enligt den islamiska lagen.
+Om någon utför en handling på ett sätt som är acceptabelt i förhållande till mängd, typ och anledning men motsäger sig den islamiska lagen i hur handlingen skall utföras – då är den inte giltig. Om någon exempelvis släpper sig och tvagar sig på nytt genom att tvätta fötterna, stryka över sitt huvud, tvätta sina händer och sedan sitt ansikte – är denna tvagning[^5] då giltig? Inte alls, för den har inte utförts enligt den islamiska lagen.
 
 För dem femte: dyrkan måste vara enligt den islamiska lagen med avseende på tidpunkten. Ett exempel är om någon fastar ramadan[^6] under sha’ban eller shawwal[^7], eller ber middagsbönen[^4] före solen har passerat himlens mitt eller när ett föremåls skugga har blivit lika långt som dess längd […]
 
