@@ -28,7 +28,7 @@ I Sahīh al-Bukhārī och Sahīh Muslim berättas att Subai'ah al-Aslamiyyah fö
 
 Beträffande vad somliga säger: att hon inte skall tala med någon, att ingen bör se henne, att hon inte bör gå ut på gården, att hon inte bör gå ut på taket, att hon inte bör vända sig mot månen, att hon inte bör tvätta utom på fredagar, att hon inte bör skjuta upp tiden för bön till efter böneutropet och att hon bör skynda sig att be den så fort som böneutropet har ropats ut – har inget av detta någon grund i den lag som Allāh har givit oss.
 
-En sörjande kvinna som talar med män är precis likvärdig med en kvinna som inte sörjer och talar med män.  Samma sak gäller om hon tittar på män och män tittar på henne. Reglerna är de samma både för en kvinna som sörjer och den som inte gör det. Hon måste täcka sitt ansikte för att det inte skall orsaka frestelser. Hon får tilltala en man även om han inte är mahram[^1] för henne, om det inte orsakar frestelser. Hon får även svara i telefonen och öppna dörren när någon knackar på den.
+En sörjande kvinna som talar med män är precis likvärdig med en kvinna som inte sörjer och talar med män.  Samma sak gäller om hon tittar på män och män tittar på henne. Reglerna är desamma både för en kvinna som sörjer och den som inte gör det. Hon måste täcka sitt ansikte för att det inte skall orsaka frestelser. Hon får tilltala en man även om han inte är mahram[^1] för henne, om det inte orsakar frestelser. Hon får även svara i telefonen och öppna dörren när någon knackar på den.
 
 
 [^1]: Släkting som det inte är tillåtet att gifta sig med.
