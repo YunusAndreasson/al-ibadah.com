@@ -23,7 +23,7 @@ Bekräftar man Allāhs ensamrätt att dyrkas underförstås även *tawhīd[^1] a
 
 
 [^1]: Tron på att det bara finns en Gud.
-[^2]: Att särskilja i Allāh dyrkan.
+[^2]: Att särskilja Allāh i dyrkan.
 [^3]: Enheten i Allāhs herravälde.
 [^4]: Tron på Allāhs unika namn och egenskaper.
 

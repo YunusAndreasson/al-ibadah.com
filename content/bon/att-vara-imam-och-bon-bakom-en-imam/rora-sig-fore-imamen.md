@@ -19,13 +19,13 @@ description: 'Fråga: Vilket är utlåtandet om att röra sig före imamen? Svar
 Jag skulle vilja ta detta tillfälle i akt och säga att den som leds i bön av en imam hamnar i en av fyra kategorier:
 
 1. I förväg
-2. I överrensstämmelse med
+2. I överensstämmelse med
 3. Följandes
 4. I efterhand
 
 I förväg: Att denne börjar göra någonting innan imamen. Detta är otillåtet. Om detta inträffar med den första *takbīr[^1]* är bönen inte giltig. Bönen måste göras om från början.
 
-I överrensstämmelse med: Att denne rör sig samtidigt som imamen; bugar när han bugar, nedfaller när han nedfaller och reser sig upp när han reser sig upp. Det är tydligt från bevisen att även detta är otillåtet, enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Buga inte förrän han bugar*.” Vissa lärde anser att det är ogillat men inte otillåtet, därför att om man gör det samtidigt som imamen kommer bönen inte att räknas och den måste göras om.
+I överensstämmelse med: Att denne rör sig samtidigt som imamen; bugar när han bugar, nedfaller när han nedfaller och reser sig upp när han reser sig upp. Det är tydligt från bevisen att även detta är otillåtet, enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Buga inte förrän han bugar*.” Vissa lärde anser att det är ogillat men inte otillåtet, därför att om man gör det samtidigt som imamen kommer bönen inte att räknas och den måste göras om.
 
 Följandes: Att man utför rörelserna i bönen efter imamen utan att skjuta upp. Detta är föreskrivet.
 

@@ -17,7 +17,7 @@ description: 'Fråga: Allāh den Upphöjde säger: ” Straffet för äktenskapb
 
 Vilken kommer domen att vara för dem som begår sådana stora synder, när det inte finns någon som kan tillrättavisa dem, och de dör innan de har ångrat sig?
 
-**Svar:** *Ahlus-sunnah[^1] wal-jamā’at* tror att den muslim som dör utan att ha ångrat sig över stora synder – som otukt, förtal av ärbara kvinnor och stöld – kommer att hamna under Allāhs vilja – upphöjd är Han. Om Han vill så förlåter Han honom, och om Han vill så straffar Han honom för den stora synd som han begått och dött med innan han ångrat sig inför Allāh. Men tillsist kommer han att få träda in i Paradiset. Allāh säger: ”*Gud förlåter inte den som sätter medhjälpare vid Hans sida, men Han förlåter den Han vill hans mindre synder*.” [Koranen 4:48]
+**Svar:** *Ahlus-sunnah[^1] wal-jamā’at* tror att den muslim som dör utan att ha ångrat sig över stora synder – som otukt, förtal av ärbara kvinnor och stöld – kommer att hamna under Allāhs vilja – upphöjd är Han. Om Han vill så förlåter Han honom, och om Han vill så straffar Han honom för den stora synd som han begått och dött med innan han ångrat sig inför Allāh. Men till sist kommer han att få träda in i Paradiset. Allāh säger: ”*Gud förlåter inte den som sätter medhjälpare vid Hans sida, men Han förlåter den Han vill hans mindre synder*.” [Koranen 4:48]
 
 Autentiska *ahādīth[^2]* understryker att olydiga människor – som tror på Allāhs enhet – kommer att tas ur Elden. Enligt följande autentiska hadīth[^2], som 'Ubadah bin as-Samit har återberättat, har profeten – över honom vare Allāhs frid och välsignelser – sagt: ”*Vill ni lova mig att ni inte skall sätta medhjälpare vid Allāhs sida, inte begå otukt och inte stjäla*.” Sedan reciterade han versen ovan och sade:
 

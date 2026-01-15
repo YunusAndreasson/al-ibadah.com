@@ -57,6 +57,6 @@ Och Allāh är Beviljaren av framgång.
 [^3]: Tron på att det bara finns en Gud.
 [^4]: Enheten i Allāhs herravälde.
 [^5]: Tron på Allāhs unika namn och egenskaper.
-[^6]: Att särskilja i Allāh dyrkan.
+[^6]: Att särskilja Allāh i dyrkan.
 [^7]: Uppriktighet.
 

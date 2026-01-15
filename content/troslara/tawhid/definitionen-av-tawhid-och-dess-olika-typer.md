@@ -175,7 +175,7 @@ För att summera denna form av *tawhīd[^1]* – *tawhīd[^1] as-asmā’ was-si
 
 [^1]: Tron på att det bara finns en Gud.
 [^2]: Enheten i Allāhs herravälde.
-[^3]: Att särskilja i Allāh dyrkan.
+[^3]: Att särskilja Allāh i dyrkan.
 [^4]: Tron på Allāhs unika namn och egenskaper.
 [^5]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^6]: Mushrik.
