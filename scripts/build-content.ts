@@ -14,6 +14,36 @@ import remarkParse from 'remark-parse'
 import remarkRehype from 'remark-rehype'
 import remarkSmartypants from 'remark-smartypants'
 import { unified } from 'unified'
+import { visit } from 'unist-util-visit'
+import type { Root, Element } from 'hast'
+
+/**
+ * Rehype plugin to add 'qa-label' class to Fråga:/Svar: labels
+ */
+function rehypeQaLabels() {
+  return (tree: Root) => {
+    visit(tree, 'element', (node: Element) => {
+      if (node.tagName !== 'p') return
+
+      const firstChild = node.children[0]
+      if (
+        firstChild &&
+        firstChild.type === 'element' &&
+        firstChild.tagName === 'strong'
+      ) {
+        const textNode = firstChild.children[0]
+        if (
+          textNode &&
+          textNode.type === 'text' &&
+          /^(Fråga|Svar):/.test(textNode.value)
+        ) {
+          firstChild.properties = firstChild.properties || {}
+          firstChild.properties.className = ['qa-label']
+        }
+      }
+    })
+  }
+}
 
 const CONTENT_DIR = path.join(process.cwd(), 'content')
 const OUTPUT_FILE = path.join(process.cwd(), 'src', 'generated', 'content-data.ts')
@@ -74,11 +104,12 @@ async function parseMarkdown(content: string): Promise<string> {
     })
     .use(remarkRehype, {
       allowDangerousHtml: true,
-      footnoteLabel: 'Fotnoter',
-      footnoteLabelTagName: 'h2',
+      footnoteLabel: undefined,
+      footnoteLabelProperties: { className: ['sr-only'] },
     })
     .use(rehypeRaw)
     .use(rehypeSlug)
+    .use(rehypeQaLabels)
     .use(rehypeStringify)
     .process(content)
   return String(result)
@@ -171,8 +202,16 @@ async function buildContent(): Promise<CategoryData[]> {
           .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
           .join(' ')
 
-        if (subcategoryArticles.length > 0 && subcategoryArticles[0].categories.length >= 2) {
-          subcategoryName = cleanCategoryName(subcategoryArticles[0].categories[1])
+        if (subcategoryArticles.length > 0) {
+          const categories = subcategoryArticles[0].categories
+          // Categories is a string like "– Allmosa (Zakāh) – Allmosa för besparingar"
+          // Split by " – " to get individual category parts
+          const categoryParts = Array.isArray(categories)
+            ? categories
+            : String(categories).split(/\s*–\s*/).filter(Boolean)
+          if (categoryParts.length >= 2) {
+            subcategoryName = cleanCategoryName(categoryParts[1])
+          }
         }
 
         categoryData.subcategories.push({
