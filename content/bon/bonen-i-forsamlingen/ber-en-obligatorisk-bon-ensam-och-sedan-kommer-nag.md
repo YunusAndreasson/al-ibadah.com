@@ -12,7 +12,7 @@ description: 'Fråga: En person ber en obligatorisk bön ensam och medan han gö
  Bör han avbryta sin bön eller ändra avsikten...'
 ---
 
-**Fråga:** En person ber en obligatorisk bön ensam och medan han gör så kommer ett antal människor in i moskén. De gör *takbīr[^1]* och börjar be i församling. Bör han avbryta sin bön eller ändra avsikten till en frivillig bön, för att han skall kunna be med dem?
+**Fråga:** En person ber en obligatorisk bön ensam och medan han gör så kommer ett antal människor in i moskén. De gör *takbīr[^1]* och börjar be i församling. Bör han avbryta sin bön eller ändra avsikten till en frivillig bön, för att han ska kunna be med dem?
 
 **Svar:** Det är bättre att göra det till en frivillig bön och sedan börja be med dem som ber gemensamt. Syftet är att få belöningen för att be med församlingen. Avbryter han den har han inte syndat. Han avbryter ju den i ett tillåtet syfte och återvänder till samma bön.
 

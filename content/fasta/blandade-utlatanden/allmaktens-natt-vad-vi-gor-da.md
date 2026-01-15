@@ -15,7 +15,7 @@ description: 'Fråga: Vad bör vi göra under Allmaktens Natt? Ber vi, läser vi
 
 **Svar:** All lovprisan tillhör Allāh. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – brukade anstränga sig mer i dyrkan under ramadan[^2] s tio sista dagar än vad han gjorde vid andra tidpunkter. Han bad, läste Koranen och åkallade. al-Bukhārī och Muslim har återgivit från ‘A’ishah – må Allāh vara nöjd med henne – att när ramadan[^2] s tio sista dagar kom, då stannade profeten – över honom vare Allāhs frid och välsignelser – uppe under natten, väckte sin familj och höll sig borta från äktenskapliga relationer. Ahmad och Muslim återger att han brukade sträva hårt i dyrkan under ramadan[^2] s tio sista dagar – hårdare än någonsin.
 
-Profeten – över honom vare Allāhs frid och välsignelser – påbjöd att man skall stanna uppe och be under Allmaktens Natt[^1] ut ur tro och med hopp om belöningar. Abū Hurairah har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
+Profeten – över honom vare Allāhs frid och välsignelser – påbjöd att man ska stanna uppe och be under Allmaktens Natt[^1] ut ur tro och med hopp om belöningar. Abū Hurairah har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Den som stannar uppe under Allmaktens Natt[^1] ut ur tro och med hopp om belöningar, dennes tidigare synder kommer att förlåtas.”
 
@@ -35,7 +35,7 @@ Enligt en annan rapport:
 
 > ”Den som utför en handling som inte är en del av denna vår fråga [islam] kommer att få den avvisad.”
 
-Vi känner inte till någon grund för att man skall fira vissa nätter under ramadan[^2]. Den bästa vägledning är Muhammads vägledning och det värsta är innovationer.
+Vi känner inte till någon grund för att man ska fira vissa nätter under ramadan[^2]. Den bästa vägledning är Muhammads vägledning och det värsta är innovationer.
 
 Och Allāh är källan till all styrka. Må Allāh sända välsignelser och frid över profeten Muhammad, hans familj och följeslagare.
 

@@ -1,5 +1,5 @@
 ---
-title: Vem man skall börja med om man utsetts till att kasta stenar på pelarna
+title: Vem man ska börja med om man utsetts till att kasta stenar på pelarna
 author: Ibn 'Abdullah Ibn Baz
 source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 168 s. ISBN saknas'
@@ -8,11 +8,11 @@ categories:
 - Utse någon annan som vallfärdar
 original_id: 796
 description: 'Fråga: Om en man representerar sin far och mor för att kasta stenarna
- på pelarna [vilket han även själv skall göra], krävs det då att han börjar i någon
+ på pelarna [vilket han även själv ska göra], krävs det då att han börjar i någon
  viss ordning eller ges han valet att börja ...'
 ---
 
-**Fråga:** Om en man representerar sin far och mor för att kasta stenarna på pelarna [vilket han även själv skall göra], krävs det då att han börjar i någon viss ordning eller ges han valet att börja med vem han vill?
+**Fråga:** Om en man representerar sin far och mor för att kasta stenarna på pelarna [vilket han även själv ska göra], krävs det då att han börjar i någon viss ordning eller ges han valet att börja med vem han vill?
 
 **Svar:** Om en man representerar sin mor och fader, då de är sjuka eller inte har möjlighet, för att kasta stenarna, då kastar han sina egna först och sedan föräldrarnas.
 

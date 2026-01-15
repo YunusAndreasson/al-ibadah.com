@@ -8,11 +8,11 @@ categories:
 - Kvinnans vallfärd
 original_id: 709
 description: 'Fråga: Jag är en äldre förmögen kvinna och jag har mer än en gång föreslagit
- för min man att vi skall vallfärda, men han avvisar min fråga utan anledning. Jag
+ för min man att vi ska vallfärda, men han avvisar min fråga utan anledning. Jag
  har en äldre bror som vill vallfärda....'
 ---
 
-**Fråga:** Jag är en äldre förmögen kvinna och jag har mer än en gång föreslagit för min man att vi skall vallfärda, men han avvisar min fråga utan anledning. Jag har en äldre bror som vill vallfärda. Kan jag vallfärda med honom trots att min man inte har gett mig tillstånd? Eller bör jag strunta i vallfärden, stanna i mitt land och lyda min man? Vänligen, ge mig ett utlåtande. Må Allāh belöna er med gott.
+**Fråga:** Jag är en äldre förmögen kvinna och jag har mer än en gång föreslagit för min man att vi ska vallfärda, men han avvisar min fråga utan anledning. Jag har en äldre bror som vill vallfärda. Kan jag vallfärda med honom trots att min man inte har gett mig tillstånd? Eller bör jag strunta i vallfärden, stanna i mitt land och lyda min man? Vänligen, ge mig ett utlåtande. Må Allāh belöna er med gott.
 
 **Svar:** Då vallfärden är en skyldighet när villkoren för den uppfylls och denna kvinna är tillräknelig samt att hon har en mahram[^1], då måste hon vallfärda så fort som möjligt. Hennes man får inte förbjuda henne utan anledning.
 

@@ -8,11 +8,11 @@ categories:
 - Fredagsbönen
 original_id: 1005
 description: 'Fråga: Vad anser ni om dem som går över raderna under fredagsbönen? Svar: De
- som passerar mellan raderna skall man få till att sitta ned under predikan. Man
- skall dock göra det utan att säga n...'
+ som passerar mellan raderna ska man få till att sitta ned under predikan. Man
+ ska dock göra det utan att säga n...'
 ---
 
 **Fråga:** Vad anser ni om dem som går över raderna under fredagsbönen?
 
-**Svar:** De som passerar mellan raderna skall man få till att sitta ned under predikan. Man skall dock göra det utan att säga något, utan i stället dra i deras kläder eller peka. Det är bäst om predikanten tar ansvar för detta precis som profeten – över honom vare Allāhs frid och välsignelser – gjorde när han såg en man kliva över andra under fredagsbönen. Han sade då till denne: ”*Sitt ned för du har orsakat något dåligt*.” [Imam Ahmad 4:188]
+**Svar:** De som passerar mellan raderna ska man få till att sitta ned under predikan. Man ska dock göra det utan att säga något, utan i stället dra i deras kläder eller peka. Det är bäst om predikanten tar ansvar för detta precis som profeten – över honom vare Allāhs frid och välsignelser – gjorde när han såg en man kliva över andra under fredagsbönen. Han sade då till denne: ”*Sitt ned för du har orsakat något dåligt*.” [Imam Ahmad 4:188]
 

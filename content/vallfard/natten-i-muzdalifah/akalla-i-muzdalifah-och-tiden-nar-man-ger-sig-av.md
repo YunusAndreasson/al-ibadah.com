@@ -8,11 +8,11 @@ categories:
 - Natten i Muzdalifah
 original_id: 839
 description: 'Fråga: Vilket är utlåtandet om att stå i Muzdalifah [för åkallan] och
- att spendera natten där? Hur länga skall man stanna där och när ger sig pilgrimen
+ att spendera natten där? Hur länga ska man stanna där och när ger sig pilgrimen
  av därifrån? Svar: Enligt den mest korre...'
 ---
 
-**Fråga:** Vilket är utlåtandet om att stå i Muzdalifah[^1] [för åkallan[^2]] och att spendera natten där? Hur länga skall man stanna där och när ger sig pilgrimen av därifrån?
+**Fråga:** Vilket är utlåtandet om att stå i Muzdalifah[^1] [för åkallan[^2]] och att spendera natten där? Hur länga ska man stanna där och när ger sig pilgrimen av därifrån?
 
 **Svar:** Enligt den mest korrekta åsikten är det obligatoriskt att spendera natten i Muzdalifah[^1]. Några av de lärde har sagt att det är en av [vallfärdens] pelare och vissa har sagt att det är rekommenderat. Den korrekta åsikten är dock att det är obligatoriskt. Den som utelämnar detta måste slakta ett djur. Det som är *sunnah[^3]* är att inte ge sig därifrån förrän efter gryningsbönen[^4] då himmeln börjat bli ljusare innan soluppgången. Man ber gryningsbönen[^4] där och sedan när det börjar bli ljust ute beger man sig till Mina medan man säger *talbiyyah[^5]*. Det som är *sunnah[^3]* är att man åminns Allāh efter bönen och att man åkallar[^2]. När det sedan blir ljust ute beger man sig till Mina medan man säger *talbiyyah[^5]*.
 

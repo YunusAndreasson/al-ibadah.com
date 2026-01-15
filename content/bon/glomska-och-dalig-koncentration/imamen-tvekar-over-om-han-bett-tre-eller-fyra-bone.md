@@ -8,12 +8,12 @@ categories:
 - Bön (Salāh)
 - Glömska och dålig koncentration
 original_id: 1501
-description: 'Fråga: Vad skall en imam göra om han är osäker på om han har bett tre
- eller fyra bönecykler i en bön som är fyra bönecykler lång? När skall han nedfalla
+description: 'Fråga: Vad ska en imam göra om han är osäker på om han har bett tre
+ eller fyra bönecykler i en bön som är fyra bönecykler lång? När ska han nedfalla
  för glömska? Svar: Om imamen eller en e...'
 ---
 
-**Fråga:** Vad skall en imam göra om han är osäker på om han har bett tre eller fyra bönecykler[^1] i en bön som är fyra bönecykler[^1] lång? När skall han nedfalla för glömska?
+**Fråga:** Vad ska en imam göra om han är osäker på om han har bett tre eller fyra bönecykler[^1] i en bön som är fyra bönecykler[^1] lång? När ska han nedfalla för glömska?
 
 **Svar:** Om imamen eller en ensam tjänare tvekar över en fyra bönecykler[^1] lång bön, om han har bett tre eller fyra bönecykler[^1], då måste han anta det lägre antalet för att vara på den säkra sidan. Han bör då anta att det är tre, sedan be den fjärde och göra en nedfallan för glömska innan *taslīm[^2]*. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 

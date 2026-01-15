@@ -18,7 +18,7 @@ description: 'Fråga: Blir bönen ogiltig om någon går framför? Svar: En pers
 
 Enligt den mest korrekta åsikten bland de lärde är innebörden att dessa tre bryter bönen. Om någon passerar framför så tömmer det inte belöningen. Är det möjligt bör därför Allāhs tjänare hindra honom att passera framför. Det är inte tillåtet att gå framför den som ber. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit det, genom att säga: ”*Om den som går framför en troende som ber kände till synden som han begick, då skulle han vänta i 40 år. Det skulle vara bättre för honom än att han gick framför Allāhs tjänare som ber*.” [*al-Bukhārī* 510, *Muslim* 507 och *Abū Dawūd* 701]
 
-Han har beordrat den som ber mot en *sutrah[^1]* att inte låta folk passera framför. I stället skall de hindras: ”*Om någon ber mot något som skärmar av honom från folket [en sutrah[^1]] och någon önskade gå framför er, då bör ni hindra honom, men om han vägrar, då bör ni strida mot honom. Han är en djävul*.” [*al-Bukhārī* 509 och *Muslim* 505]
+Han har beordrat den som ber mot en *sutrah[^1]* att inte låta folk passera framför. I stället ska de hindras: ”*Om någon ber mot något som skärmar av honom från folket [en sutrah[^1]] och någon önskade gå framför er, då bör ni hindra honom, men om han vägrar, då bör ni strida mot honom. Han är en djävul*.” [*al-Bukhārī* 509 och *Muslim* 505]
 
 profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* bevisar att Allāhs tjänare bör försöka hejda den som försöker att gå framför honom, även om han inte är en av de tre som tidigare nämnts och oberoende av om det är en människa eller ett djur, om tjänaren har förmåga att göra det. Om tjänaren inte lyckas, då skadar det inte bönen.
 

@@ -1,5 +1,5 @@
 ---
-title: Börjar be med imamen i nedfallan och man då skall vänta på att han reser sig
+title: Börjar be med imamen i nedfallan och man då ska vänta på att han reser sig
  upp
 author: Muhammad bin Salih al-'Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
@@ -9,11 +9,11 @@ categories:
 - Att vara imam och bön bakom en imam
 original_id: 1234
 description: 'Fråga: Om någon som leds i bön börjar be när imamen befinner sig i
- nedfallan, bör denne då vänta tills han [imamen] står upp eller skall denne nedfalla
+ nedfallan, bör denne då vänta tills han [imamen] står upp eller ska denne nedfalla
  med honom [imamen]? Svar: Det är bäst at...'
 ---
 
-**Fråga:** Om någon som leds i bön börjar be när imamen befinner sig i nedfallan, bör denne då vänta tills han [imamen] står upp eller skall denne nedfalla med honom [imamen]?
+**Fråga:** Om någon som leds i bön börjar be när imamen befinner sig i nedfallan, bör denne då vänta tills han [imamen] står upp eller ska denne nedfalla med honom [imamen]?
 
 **Svar:** Det är bäst att inte vänta och [istället] börja be med imamen i vilken position man än finner honom. Detta enligt den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Det du får, be det*.” [*al-Bukhārī* 636]
 

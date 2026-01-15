@@ -16,7 +16,7 @@ description: 'Fråga: Får man göra sajdatut-tilawah bakom imamen, om imamen re
 
 **Svar:** Den som leds i bön måste följa imamens rörelser. Nedfaller[^1] imamen, då gör han likadant och nedfaller[^2] inte imamen, då gör han det inte heller.
 
-Han får inte nedfalla[^2] själv medan imamen fortsätter recitationen. Detta gäller i böner där man reciterar med höjd röst. I tysta böner, som middagsbönen[^3] och eftermiddagsbönen[^4], är det ogillat att imamen eller den som leds i bönen reciterar en vers som innehåller en nedfallan[^2]. Om han reciterar den, då skall varken imamen eller de som ber bakom honom nedfalla[^2]. Anledningen är att det motsäger profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^5]* och att det orsakar förvirring. Efter *taslīm[^6]* går det bra att nedfalla[^2].
+Han får inte nedfalla[^2] själv medan imamen fortsätter recitationen. Detta gäller i böner där man reciterar med höjd röst. I tysta böner, som middagsbönen[^3] och eftermiddagsbönen[^4], är det ogillat att imamen eller den som leds i bönen reciterar en vers som innehåller en nedfallan[^2]. Om han reciterar den, då ska varken imamen eller de som ber bakom honom nedfalla[^2]. Anledningen är att det motsäger profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^5]* och att det orsakar förvirring. Efter *taslīm[^6]* går det bra att nedfalla[^2].
 
 Om imamen reciterar en vers med nedfallan[^2] i en bön där man reciterar med höjd röst och Allāhs tjänare bakom honom, på grund av okunskap, inte nedfaller[^2] medan imamen gör det, då är det förlåtet. Görs det i vetskap om att han inte bör göra det, då är hans bön ogiltig och han måste upprepa den.
 

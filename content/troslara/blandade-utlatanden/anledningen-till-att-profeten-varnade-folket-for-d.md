@@ -16,7 +16,7 @@ description: 'Fråga: Varför har vi varnats för Dajjal ? Svar: Den största pr
 
 **Svar:** Den största prövning på jordens yta sedan Adam skapades tills Timmen börjar är prövningen i Dajjāl, vilket är något profeten – över honom vare Allāhs frid och välsignelser – har berättat om. Därför har profeterna – från Noa till Muhammad – för att understryka vikten av denna fråga varnat människorna för honom [*al-Bukhārī* 7127].
 
-Allāh vet att han inte kommer att dyka upp innan tidens ände men Han har kommenderat sändebuden att varna deras folk om honom så att vikten. Allvarligheten i detta skall vara uppenbar. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
+Allāh vet att han inte kommer att dyka upp innan tidens ände men Han har kommenderat sändebuden att varna deras folk om honom så att vikten. Allvarligheten i detta ska vara uppenbar. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Om han dyker upp när jag är ibland er kommer jag att strida mot honom för er räkning men om han dyker upp när jag inte är ibland er måste var och en strida för sin egen räkning och Allāh kommer att var där istället för mig [i mitt ställe ta hand om] varje muslim [och skydda denne mot hans onda].” [*Muslim* 2937]
 

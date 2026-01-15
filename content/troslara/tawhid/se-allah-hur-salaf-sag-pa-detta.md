@@ -17,7 +17,7 @@ description: 'Fråga: Ansåg salaf – må Allāh vara nöjda med dem – att ma
 
 **Svar:** Allāh den Allsmäktige säger i den ädla Koranen när Han nämner återuppståndelsen:
 
-> ”Den Dagen skall [några] ansikten lysas upp av glädje.” [Koranen 75:22]
+> ”Den Dagen ska [några] ansikten lysas upp av glädje.” [Koranen 75:22]
 
 Han har tillskrivit seendet till ansikten och den del av ansiktet som ser är ögat. I versen finns bevis för att ögat uppfattar Allāh den Härlige, den Upphöjde. Men när vi ser Allāh betyder det inte att vi omfattar Honom. Allāh den Upphöjde säger ju:
 

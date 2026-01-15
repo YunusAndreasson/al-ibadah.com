@@ -13,7 +13,7 @@ description: 'Fråga: Vilket är utlåtandet i fråga om att de som inte vallfä
 
 **Fråga:** Vilket är utlåtandet i fråga om att de som inte vallfärdar fastar arafat-dagen?
 
-**Svar:** Att de som inte vallfärdar fastar arafat-dagen är en bekräftad sunnah[^1]. Allāhs sändebud – må Allāhs frid och välsignelser vara över honom – tillfrågades om att fasta arafat-dagen och han svarade: ”*Jag ber Allāh om att den skall gottgöra för [synderna] det föregående året och året som kommer efter*.” Enligt en annan rapport: ”*Det gottgör för det föregående och kommande året.*”
+**Svar:** Att de som inte vallfärdar fastar arafat-dagen är en bekräftad sunnah[^1]. Allāhs sändebud – må Allāhs frid och välsignelser vara över honom – tillfrågades om att fasta arafat-dagen och han svarade: ”*Jag ber Allāh om att den ska gottgöra för [synderna] det föregående året och året som kommer efter*.” Enligt en annan rapport: ”*Det gottgör för det föregående och kommande året.*”
 
 
 [^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen

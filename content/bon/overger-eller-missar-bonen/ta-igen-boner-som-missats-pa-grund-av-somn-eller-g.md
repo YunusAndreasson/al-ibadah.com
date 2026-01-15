@@ -16,7 +16,7 @@ description: 'Fråga: Om jag missade en eller flera obligatoriska böner på gru
 
 **Svar:** Du bör be dem först och därefter den rådande bönen. Det är inte tillåtet att skjuta upp dessa böner. Det har blivit till en vana bland folket att om någon missar en obligatorisk bön, då tas den igen nästa dag vid bönen som har missats. Om denne exempelvis inte bad gryningsbönen[^1] en viss dag så ber han den tillsammans med gryningsbönen[^1] nästa dag. Detta är inte rätt. Det går tvärt emot profetens – över honom vare Allāhs frid och välsignelser – vägledning, både den praktiska och den muntliga.
 
-När det gäller den mutliga: Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Om *någon sover över en bön eller glömmer den, då bör denne be den när denne kommer ihåg den*.” Han sade inte att den skall bes följande dag vid samma tid utan han sade: ”*Denne bör be den när denne kommer ihåg den*.”
+När det gäller den mutliga: Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Om *någon sover över en bön eller glömmer den, då bör denne be den när denne kommer ihåg den*.” Han sade inte att den ska bes följande dag vid samma tid utan han sade: ”*Denne bör be den när denne kommer ihåg den*.”
 
 När det gäller den praktiska: När han missade några böner under slaget vid Khandaq bad han dem innan bönen som egentligen skulle bes vid det tillfället. Detta bevisar att man ber de missade bönerna och sedan den som är aktuell vid denna tidpunkt. Glömmer man och ber den rådande bönen före dem som man har missat, eller om man var okunnig och inte visste, då är bönen giltig då detta är en ursäkt.
 

@@ -23,7 +23,7 @@ description: 'Fråga: En ung man utför alla de obligatoriska plikterna – isla
 
 När en muslim ångrar sig på detta sätt stryker Allāh ut hans tidigare synder. Han säger:
 
-> ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske skall det gå i händer!” [Koranen 24:31]
+> ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå i händer!” [Koranen 24:31]
 > 
 > 
 > 

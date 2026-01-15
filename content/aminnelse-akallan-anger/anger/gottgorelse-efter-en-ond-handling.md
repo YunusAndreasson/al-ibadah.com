@@ -17,7 +17,7 @@ description: 'Fråga: En man ber och utför goda handlingar men han har gjort n�
 
 **Svar:** Det finns ingen försoning att utföra då uppriktig ånger stryker ut det som har skett tidigare. Allāh den Allsmäktige säger:
 
-> ”Och de anropar aldrig en gudom vid sidan av Gud och de berövar aldrig en människa livet – som Gud har förklarat heligt – annat än i rättfärdigt syfte, och de avhåller sig från äktenskapsbrott. Den som begår dessa svåra synder skall få sona dem med en exemplarisk bestraffning [och] på Uppståndelsens dag skall hans straff fördubblas och han skall gå bort med skammen för att lida detta straff i evigheten.” [Koranen 25:68-70]
+> ”Och de anropar aldrig en gudom vid sidan av Gud och de berövar aldrig en människa livet – som Gud har förklarat heligt – annat än i rättfärdigt syfte, och de avhåller sig från äktenskapsbrott. Den som begår dessa svåra synder ska få sona dem med en exemplarisk bestraffning [och] på Uppståndelsens dag ska hans straff fördubblas och han ska gå bort med skammen för att lida detta straff i evigheten.” [Koranen 25:68-70]
 
 Ånger, och all lovprisan tillhör Allāh, stryker ut det som inträffat tidigare. Vi ber Allāh att Han gör oss stadiga vid sanningen.
 

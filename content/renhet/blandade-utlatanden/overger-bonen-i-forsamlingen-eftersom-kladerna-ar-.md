@@ -12,7 +12,7 @@ description: 'Fråga: På arbetsplatsen [en bilverkstad] har jag en kollega som 
  är svårt för honom att byta dem och att han ska...'
 ---
 
-**Fråga:** På arbetsplatsen [en bilverkstad] har jag en kollega som jag uppmanar att be, men han vägrar och påstår att hans kläder inte är rena, att det är svårt för honom att byta dem och att han skall be när han kommer hem. Vilket är utlåtandet om detta?
+**Fråga:** På arbetsplatsen [en bilverkstad] har jag en kollega som jag uppmanar att be, men han vägrar och påstår att hans kläder inte är rena, att det är svårt för honom att byta dem och att han ska be när han kommer hem. Vilket är utlåtandet om detta?
 
 **Svar:** Kollegan som du har nämnt måste be med församlingen. Det är inte tillåtet att skjuta upp bönen tills han kommer hem. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord:
 

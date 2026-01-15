@@ -18,7 +18,7 @@ description: 'Fråga: Kan jinn skada en människa? Hur kan vi skydda oss mot dem
 
 Detta bevisar att jinn[^1] kan attackera människor. Ibland går en person till en avskild plats där han inte ser någon men han hör röster eller ljud eller hör han stenar som kastas. När detta inträffar kan det mycket möjligen vara jinn[^1]. Dessa jinn[^1] kan även träda in i en människas kropp på grund av att de älskar eller hatar den personen eller av någon annan anledning. Allāh den Allsmäktige säger: 
 
-> ”De som livnär sig på ocker skall uppstå [till Domen] lika ostadiga på benen som den som Djävulen med sin beröring slagit med vansinne.” [Koranen 2:275]
+> ”De som livnär sig på ocker ska uppstå [till Domen] lika ostadiga på benen som den som Djävulen med sin beröring slagit med vansinne.” [Koranen 2:275]
 
 För att skydda oss själva mot onda jinn[^1] bör vi läsa åkallan[^3] som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – lärde oss att läsa, som *al-Kursi[^4]*-versen, för när man läser denna vers under natten skyddas man mot djävulen som inte kommer nära en förrän under morgonen. 
 

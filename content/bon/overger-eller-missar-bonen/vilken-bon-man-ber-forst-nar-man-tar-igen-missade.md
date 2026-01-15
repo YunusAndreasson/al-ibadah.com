@@ -9,10 +9,10 @@ categories:
 original_id: 252
 description: 'Fråga: Om jag missade en bön och jag vill be den tillsammans med en
  annan, exempelvis ber jag middagsbönen tillsammans med eftermiddagsbönen, vilken
- skall jag då be först? Svar: Du ber den bön...'
+ ska jag då be först? Svar: Du ber den bön...'
 ---
 
-**Fråga:** Om jag missade en bön och jag vill be den tillsammans med en annan, exempelvis ber jagmiddagsbönen[^1] tillsammans med eftermiddagsbönen[^2], vilken skall jag då be först?
+**Fråga:** Om jag missade en bön och jag vill be den tillsammans med en annan, exempelvis ber jagmiddagsbönen[^1] tillsammans med eftermiddagsbönen[^2], vilken ska jag då be först?
 
 **Svar:** Du ber den bön som du har missat, som middagsbönen[^1] innan eftermiddagsbönen[^2] eller kvällsbönen[^3] innan nattbönen[^4]. Men om du fann folk i moskén som bad eftermiddagsbönen[^2], då kan du slå följe med dem och avse att be denmiddagsbönen[^1] som du har missat. Sedan kan du be eftermiddagsbönen[^2] efter den då dessa båda böner är lika till längd och karaktär.
 

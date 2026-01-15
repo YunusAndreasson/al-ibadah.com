@@ -16,7 +16,7 @@ description: 'Fråga: Kan straffet i graven mildras för den troende som har syn
 
 **Svar:** Ja, det kan mildras. Profeten – över honom vare Allāhs frid och välsignelser – gick ju förbi två gravar och sade:
 
-> ”De blir straffade [...] En av dem skyddade aldrig sig mot sin urin som stänkte på honom medan den andre gick runt och baktalade [för att skapa fiendskap mellan vänner].” Han tog ett grönt löv från en dadelpalm, delade det i två delar och tryckte ned vart och ett av dem i var grav, samtidigt sade han: ”Jag hoppas att deras straff skall mildras tills [löven] torkar.” [*al-Bukhārī* 1378 och *Muslim* 292]
+> ”De blir straffade [...] En av dem skyddade aldrig sig mot sin urin som stänkte på honom medan den andre gick runt och baktalade [för att skapa fiendskap mellan vänner].” Han tog ett grönt löv från en dadelpalm, delade det i två delar och tryckte ned vart och ett av dem i var grav, samtidigt sade han: ”Jag hoppas att deras straff ska mildras tills [löven] torkar.” [*al-Bukhārī* 1378 och *Muslim* 292]
 
 Detta är ett bevis för att straffet i graven kan mildras. Men vilken är relationen mellan löven och straffets mildrande för de båda straffade?
 
@@ -35,7 +35,7 @@ Förklaringen att det var en tillfällig medling för att varna folket är närm
 Vi avviker här ifrån ämnet för att säga att vissa lärde har sagt att det är tillåtet att lägga färska palmlöv, en trädgren eller något liknande över en grav för att mildra straffet för den begravde. Men ingriper man på detta sätt är det [ett handlande som är] mycket långt ifrån sanningen och det är av flera skäl inte tillåtet för oss att göra så:
 
 1. Det har inte uppenbarats att denne man blir straffad, vilket står i motsats till fallet med männen som profeten – över honom vare Allāhs frid och välsignelser – talade om. [Här fick vi ju reda på att de straffades.]
-2. Gör vi detta har vi handlat felaktigt mot den avlidne då vi har trott illa om honom genom att tro att han blir straffad. Hur skall vi kunna veta att han blir det? Kanske har Allāh, av någon av de många anledningar som Allāh förlåter genom, förlåtit honom innan han gick bort. Han avled då och hans Herre förlät honom, vilket skulle innebära att han inte förtjänar ett straff.
+2. Gör vi detta har vi handlat felaktigt mot den avlidne då vi har trott illa om honom genom att tro att han blir straffad. Hur ska vi kunna veta att han blir det? Kanske har Allāh, av någon av de många anledningar som Allāh förlåter genom, förlåtit honom innan han gick bort. Han avled då och hans Herre förlät honom, vilket skulle innebära att han inte förtjänar ett straff.
 3. Denna slutsats motsäger sig vad de rättfärdiga salaf[^1], som var de kunnigaste om Allāhs lagar, följde. Hur kan vi göra på detta sätt om inte profetens – över honom vare Allāhs frid och välsignelser – följeslagare - må Allāh vara nöjd med dem -gjorde det?
 4. Allāh den Upphöjde har uppenbarat något som är bättre för oss, för efter att ha begravt den avlidne brukade profeten – över honom vare Allāhs frid och välsignelser – säga: ”*Be Allāh om förlåtelse för er broder, och be Allâh att ge honom fasthet, för just nu blir han utfrågad*.” [*Abū Dawūd* 3221]
 

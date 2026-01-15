@@ -19,7 +19,7 @@ description: 'Fråga: Vilket är utlåtandet om den som inte kan utföra sa’ī
 
 Om man inte ens kan göra det [på grund av sjukdom], då stannar man kvar i sin *ihrām[^4]* tills man botats, även om det sker efter flera månader och man förväntas bli bättre. Det är inte tillåtet att man bryter *ihrām[^4]*. Den har ju inte blivit ogiltig genom något som gör den ogiltig.
 
-Har han förlorat hoppet om att sjukdomen skall gå över, då är han likt den som hindrats [från att fullfölja vallfärden eller *‘umrah[^2]*]. Han slaktar då ett får och ger det till de fattiga vid Helgedomen. Därmed träder han ur *ihrām[^4]*. Anledningen är att Allāh har sagt:
+Har han förlorat hoppet om att sjukdomen ska gå över, då är han likt den som hindrats [från att fullfölja vallfärden eller *‘umrah[^2]*]. Han slaktar då ett får och ger det till de fattiga vid Helgedomen. Därmed träder han ur *ihrām[^4]*. Anledningen är att Allāh har sagt:
 
 > ”Men om omständigheterna hindrar er [att fullfölja den], ge då vad ni har möjlighet att ge som offergåva.” [Koranen 2:196]
 

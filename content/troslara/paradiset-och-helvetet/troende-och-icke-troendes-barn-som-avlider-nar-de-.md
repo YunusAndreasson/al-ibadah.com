@@ -16,7 +16,7 @@ description: 'Fråga: Var hamnar de troendes och de icke-troendes barn som dör 
 
 **Fråga:** Var hamnar de troendes och de icke-troendes barn som dör när de fortfarande är små?
 
-**Svar:** Barnen till de troende har deras destination i Paradiset, de följer föräldrarna. Allāh den Upphöjde säger: ”*Vi skall låta deras efterkommande som följde dem i tron förena sig med dem utan att förminska något av deras egna förtjänster. Men var och en är ansvarig för sina handlingar*.” [Koranen 52:21]
+**Svar:** Barnen till de troende har deras destination i Paradiset, de följer föräldrarna. Allāh den Upphöjde säger: ”*Vi ska låta deras efterkommande som följde dem i tron förena sig med dem utan att förminska något av deras egna förtjänster. Men var och en är ansvarig för sina handlingar*.” [Koranen 52:21]
 
 När det gäller icke-troende som har uppfostrats av föräldrar som inte är muslimer är den mest korrekta åsikten att Allāh vet bäst vad de skulle ha gjort.
 

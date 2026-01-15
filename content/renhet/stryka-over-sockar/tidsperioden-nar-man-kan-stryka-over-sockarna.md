@@ -9,13 +9,13 @@ categories:
 - Stryka över sockar
 original_id: 1210
 description: 'Fråga: Under vilken tidsperiod kan man stryka över sockarna? Svar: Denna
- fråga är mycket viktig och något människor behöver få svar på. Därför skall vi göra
+ fråga är mycket viktig och något människor behöver få svar på. Därför ska vi göra
  svaret utförligare än frågan, om Al...'
 ---
 
 **Fråga:** Under vilken tidsperiod kan man stryka över sockarna?
 
-**Svar:** Denna fråga är mycket viktig och något människor behöver få svar på. Därför skall vi göra svaret utförligare än frågan, om Allāh vill. Vi säger då: Strykning över lädersockar bekräftas genom bevis i Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*. I Allāhs skrift kan vi läsa:
+**Svar:** Denna fråga är mycket viktig och något människor behöver få svar på. Därför ska vi göra svaret utförligare än frågan, om Allāh vill. Vi säger då: Strykning över lädersockar bekräftas genom bevis i Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*. I Allāhs skrift kan vi läsa:
 
 > ”När ni går till bön, två då ansikte och händer samt armarna upp till armbågarna och stryk med [de våta] händerna över huvudet och [två] fötterna upp till fotkölarna.” [Koranen 5:6]
 
@@ -32,7 +32,7 @@ Det finns dock villkor för att få stryka över lädersockar:
 > 
 > 
 > 
-> 2. Att strykandet sker under en period då det är tillåtet, vilket vi skall förklara senare, om Allāh vill.
+> 2. Att strykandet sker under en period då det är tillåtet, vilket vi ska förklara senare, om Allāh vill.
 > 
 > 
 > 

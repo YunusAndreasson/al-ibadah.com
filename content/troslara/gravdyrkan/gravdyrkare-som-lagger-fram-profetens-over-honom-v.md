@@ -20,7 +20,7 @@ description: 'Fråga: Hur bör vi besvara de gravdyrkare som för att bevisa att
 1. Moskén byggdes inte över hans grav, tvärtom byggdes den under hans livstid.
 2. Profeten – över honom vare Allāhs frid och välsignelser – begravdes inte inuti moskén, vilket skulle kunna innebära att någon säger: ”Detta var en rättfärdig som begravdes inuti i moské.” I stället begravdes han i sitt hem.
 3. profetens – över honom vare Allāhs frid och välsignelser – och 'Ā'ishas hem inkluderades inte i moskén i samtycke med följeslagarna. De flesta av dem avled runt 94 AH. Detta var inte något som de tillät. Det är till och med så att vissa motsade sig det och Sa'id bin al-Musayyib var en av dem.
-4. Hans grav finns inte ens i moskén efter inbyggnaden. Den finns i en kammare som är skild från moskén och som därmed inte har byggts över den. Därför har platsen skyddats och omringats av tre väggar och väggen har placerats i ett hörn i riktning bort från qiblah[^1]. Den är triangulär och hörnet är på den norra sidan så att ingen skall stå i riktning mot den under bönen.
+4. Hans grav finns inte ens i moskén efter inbyggnaden. Den finns i en kammare som är skild från moskén och som därmed inte har byggts över den. Därför har platsen skyddats och omringats av tre väggar och väggen har placerats i ett hörn i riktning bort från qiblah[^1]. Den är triangulär och hörnet är på den norra sidan så att ingen ska stå i riktning mot den under bönen.
 
 Till följd av det är detta förvirrade argument som gravdyrkare använder inte giltigt.
 

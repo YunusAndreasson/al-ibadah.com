@@ -7,11 +7,11 @@ categories:
 - Bön (Salāh)
 original_id: 594
 description: 'Fråga: Jag blir ofta förvirrad över hur många bönecykler jag har bett,
- även om jag har bett med höjd röst för att jag skall komma ihåg vad jag har reciterat.
+ även om jag har bett med höjd röst för att jag ska komma ihåg vad jag har reciterat.
  Trots detta blir jag ibland tveksam. N...'
 ---
 
-**Fråga:** Jag blir ofta förvirrad över hur många bönecykler[^1] jag har bett, även om jag har bett med höjd röst för att jag skall komma ihåg vad jag har reciterat. Trots detta blir jag ibland tveksam. När jag avslutat bönen känns det som om att jag missat en bönecykel, nedfallan[^2] eller sittning – trots att jag försöker koncentrera mig mycket. Jag hoppas att ni kan ge mig nyttiga råd. Behöver jag upprepa bönen? Finns det någon åkallan[^3] jag kan läsa innan bönen, för att slippa denna förvirring?
+**Fråga:** Jag blir ofta förvirrad över hur många bönecykler[^1] jag har bett, även om jag har bett med höjd röst för att jag ska komma ihåg vad jag har reciterat. Trots detta blir jag ibland tveksam. När jag avslutat bönen känns det som om att jag missat en bönecykel, nedfallan[^2] eller sittning – trots att jag försöker koncentrera mig mycket. Jag hoppas att ni kan ge mig nyttiga råd. Behöver jag upprepa bönen? Finns det någon åkallan[^3] jag kan läsa innan bönen, för att slippa denna förvirring?
 
 **Svar:** Du måste kämpa mot djävulens viskningar och vara mycket försiktig med dem. Du måste – än mer – söka din tillflykt hos Allāh ifrån djävulen. Allāh har sagt:
 

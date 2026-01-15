@@ -17,5 +17,5 @@ description: 'Fråga: Finns det någon iqāmah för kvinnor när de samlas för 
 **Svar:** Om de gör *iqāmah[^1]* finns det ingen invändan mot det och om de lämnar den har de inte syndat. Anledningen är att böneutropet och *iqāmah[^1]* endast är skyldigheter för män.
 
 
-[^1]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen skall börja.
+[^1]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
 

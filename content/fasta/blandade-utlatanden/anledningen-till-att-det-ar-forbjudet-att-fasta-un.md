@@ -20,7 +20,7 @@ Visdomen i att det är förbjudet att välja ut fredagar för fasta är att dett
 
 Därför är det förbjudet att välja ut den för att fasta. Det beror på att under denna dag måste män komma till fredagsbönen och sysselsätta sig med åkallan[^2] och åminnelse[^3] av Allāh. Det är välkänt att när dyrkan som är möjlig att skjuta upp pockar på uppmärksamhet, då tar det som inte är möjligt att skjuta upp företräde över det som är möjligt att skjuta upp.
 
-Om någon säger: Denna anledning, att det är den veckovisa *‘eid*, gör det nödvändigt att fastan då skall vara otillåten precis som under de [andra] båda *‘eid*-dagarna, inte enbart eftersom det är förbjudet att välja ut den för fasta. Då svarar vi: Den skiljer sig från de [andra] båda *‘eid* då den inträffar fyra gånger varje månad. Därför är förbudet mot att fasta under den inte ett absolut förbud. Därutöver finns det andra egenskaper som särskiljer de båda *‘eid* från fredagen.
+Om någon säger: Denna anledning, att det är den veckovisa *‘eid*, gör det nödvändigt att fastan då ska vara otillåten precis som under de [andra] båda *‘eid*-dagarna, inte enbart eftersom det är förbjudet att välja ut den för fasta. Då svarar vi: Den skiljer sig från de [andra] båda *‘eid* då den inträffar fyra gånger varje månad. Därför är förbudet mot att fasta under den inte ett absolut förbud. Därutöver finns det andra egenskaper som särskiljer de båda *‘eid* från fredagen.
 
 Fastar man dagen före vet vi dock att avsikten inte var att välja ut just fredagen för fasta när man har fastat den föregående dagen, som var en torsdag, eller dagen efter, som var en lördag.
 

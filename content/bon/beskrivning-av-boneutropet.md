@@ -21,7 +21,7 @@ Shaykh Ibn 'Uthaymīn har sagt:
 > 
 > 
 > 
-> Mālik har återberättat sjutton olika fraser som skall läsas. Man börjar med att säga ’*Allāhu Akbar*’ två gånger. Därefter läser böneutroparen trosbekännelsen först för sig själv för att sedan läsa den högt och fortsätta med böneutrop.
+> Mālik har återberättat sjutton olika fraser som ska läsas. Man börjar med att säga ’*Allāhu Akbar*’ två gånger. Därefter läser böneutroparen trosbekännelsen först för sig själv för att sedan läsa den högt och fortsätta med böneutrop.
 > 
 > 
 > 
@@ -48,15 +48,15 @@ Denna *hadīth[^4]* citeras som bevis för Māliks och al-Shāfa'is åsikt då d
 
 al-Nawawi har sagt:
 
-> "Denna *hadīth[^4]* i *Sahīh Muslim* nämner att ’*Allāhu Akbar*’ endast skall sägas två gånger i början. I andra källor än i *Muslim* står det att ’*Allāhu Akbar*’ skall sägas fyra gånger.”
+> "Denna *hadīth[^4]* i *Sahīh Muslim* nämner att ’*Allāhu Akbar*’ endast ska sägas två gånger i början. I andra källor än i *Muslim* står det att ’*Allāhu Akbar*’ ska sägas fyra gånger.”
 
 al-Qādi 'Iyād har sagt:
 
-> "I några rapporter i *Sahīh Muslim* nämns det att det skall sägas fyra gånger. al-Shāfa'i, Abū Hanīfah, Ahmad och en majoritet av de lärda har sagt att det skall upprepas fyra gånger. Mālik har sagt att det skall upprepas två gånger och han citerade denna *hadīth[^4]* som bevis.”
+> "I några rapporter i *Sahīh Muslim* nämns det att det ska sägas fyra gånger. al-Shāfa'i, Abū Hanīfah, Ahmad och en majoritet av de lärda har sagt att det ska upprepas fyra gånger. Mālik har sagt att det ska upprepas två gånger och han citerade denna *hadīth[^4]* som bevis.”
 
 Beviset för Abū Hanīfahs och Ahmads åsikt: Det har berättats att 'Abd-Allāh ibn Zayd har sagt:
 
-> ”När Allāhs sändebud beordrade att en bjällra skulle göras, för att man skulle slå i den för att kalla folket till bön, gick en man runt mig när jag sov [i en dröm] bärandes en bjällra i sin hand. Jag sade: 'Allāhs tjänare, vill du sälja denna bjällra?' Han frågade: 'Vad vill du göra med den?' Jag svarade: 'Vi kommer att kalla folket till bön.' Han svarade: 'Skall jag inte berätta om något bättre än det?' Jag svarade: 'Ja.' Han sade: 'Säg: *Allāhu akbar, Allāh akbar, Allāhu akbar, Allāh akbar; ash-hadu an lā ilāh ill-Allāh, ash-hadu an lā ilāh ill-Allāh; ash-hadu anna Muhammadan rasūl-Allāh, ash-hadu anna Muhammadan rasūl-Allāh; hayya ‘ala al-salāh, hayya ‘ala al-salāh; hayya ‘ala’l-falāh, hayya ‘ala’l-falāh; Allāhu akbar, Allāhu akbar; Lā ilāha ill-Allāh'.*[...]Sedan gick han bort en liten bit ifrån mig och sade*:* 'Och när bönen skall börja*[iqāmah[^5]],* säg*: Allāhu akbar, Allāh akbar; ash-hadu an lā ilāh ill-Allāh; ash-hadu anna Muhammadan rasūl-Allāh; hayya ‘ala al-salāh, hayya ‘ala’l-falāh; qad qāmat il-salāh, qad qāmat il-salāh; Allāhu akbar, Allāhu akbar; Lā ilāha ill-Allāh*.'
+> ”När Allāhs sändebud beordrade att en bjällra skulle göras, för att man skulle slå i den för att kalla folket till bön, gick en man runt mig när jag sov [i en dröm] bärandes en bjällra i sin hand. Jag sade: 'Allāhs tjänare, vill du sälja denna bjällra?' Han frågade: 'Vad vill du göra med den?' Jag svarade: 'Vi kommer att kalla folket till bön.' Han svarade: 'Skall jag inte berätta om något bättre än det?' Jag svarade: 'Ja.' Han sade: 'Säg: *Allāhu akbar, Allāh akbar, Allāhu akbar, Allāh akbar; ash-hadu an lā ilāh ill-Allāh, ash-hadu an lā ilāh ill-Allāh; ash-hadu anna Muhammadan rasūl-Allāh, ash-hadu anna Muhammadan rasūl-Allāh; hayya ‘ala al-salāh, hayya ‘ala al-salāh; hayya ‘ala’l-falāh, hayya ‘ala’l-falāh; Allāhu akbar, Allāhu akbar; Lā ilāha ill-Allāh'.*[...]Sedan gick han bort en liten bit ifrån mig och sade*:* 'Och när bönen ska börja*[iqāmah[^5]],* säg*: Allāhu akbar, Allāh akbar; ash-hadu an lā ilāh ill-Allāh; ash-hadu anna Muhammadan rasūl-Allāh; hayya ‘ala al-salāh, hayya ‘ala’l-falāh; qad qāmat il-salāh, qad qāmat il-salāh; Allāhu akbar, Allāhu akbar; Lā ilāha ill-Allāh*.'
 > 
 > 
 > 
@@ -79,6 +79,6 @@ Beviset för Abū Hanīfahs och Ahmads åsikt: Det har berättats att 'Abd-Allā
 [^2]: Olika sorters prövningar och frestelser.
 [^3]: Att säga Allahu Akbar.
 [^4]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^5]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen skall börja.
+[^5]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
 [^6]: Vad man läser i den sittande positionen under bönen.
 

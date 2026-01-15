@@ -1,5 +1,5 @@
 ---
-title: Fredagsbönen har betts och om man då även skall be middagsbönen
+title: Fredagsbönen har betts och om man då även ska be middagsbönen
 author: Muhammad bin Sālih al-'Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 553 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
@@ -25,7 +25,7 @@ Om stadens hörn är långt från varandra eller om moskérna inte räcker till 
 
 Men om fredagsbönen bes utan behov på ett antal olika platser, då råder det inga tvivel om att det motsäger sig vad som är *sunnah[^2]* och profetens – över honom vare Allāhs frid och välsignelser – samt de rättfärdige kaliferna handlande. Enligt majoriteten av de lärde är detta inte tillåtet. Trots detta säger vi inte att denna dyrkan är ogiltig. Ansvaret ligger ju här inte på gemene man utan på dem som är ansvariga för att ha tillåtet att ett antal fredagsböner bes utan behov.
 
-Med detta som grund säger vi: Myndigheterna som är ansvariga för moskérna får inte tillåta flera fredagsböner, om det inte finns ett behov av det. Detta beror på att Laggivaren håller högt att folket samlas för att dyrka. Anledningen är att det skall resultera i harmoni, kärlek, att de som inte kan lär sig och andra stora fördelar.
+Med detta som grund säger vi: Myndigheterna som är ansvariga för moskérna får inte tillåta flera fredagsböner, om det inte finns ett behov av det. Detta beror på att Laggivaren håller högt att folket samlas för att dyrka. Anledningen är att det ska resultera i harmoni, kärlek, att de som inte kan lär sig och andra stora fördelar.
 
 De föreskrivna samlingarna är antingen varje vecka, år eller dag. Detta är välkänt. De dagliga samlingarna äger rum i den närbelägna moskén. Hade Laggivaren påbjudit folket att de skulle samlas fem gånger på en plats, då skulle det vara en börda för dem. Därför har Han underlättat och varje samling sker då i den närbelägna moskén.
 

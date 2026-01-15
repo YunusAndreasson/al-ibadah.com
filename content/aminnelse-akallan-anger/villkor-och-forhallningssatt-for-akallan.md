@@ -35,6 +35,6 @@ Beträffande olika situationer och kroppshållningar är det mer sannolikt att f
 
 
 [^1]: Du´ā
-[^2]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen skall börja.
+[^2]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
 [^3]: Sujud, nedfallandet när pannan läggs mot marken.
 

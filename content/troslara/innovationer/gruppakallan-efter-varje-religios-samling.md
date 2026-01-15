@@ -13,7 +13,7 @@ description: 'Fråga: Vilket är utlåtandet om åkalla i grupp i varje samling 
  sker under varje religionslektion och ...'
 ---
 
-**Fråga:** Vilket är utlåtandet om åkalla i grupp i varje samling när Koranen har citerats? En person åkallar[^1] och resten säger ”*āmīn*” efter hans åkallan[^1]. Detta sker under varje religionslektion och när de tillfrågas om bevis använder de Allāh – den Allsmäktiges – ord: ”*Be till Mig, så skall Jag besvara er [bön]*.” [Koranen 40:60]
+**Fråga:** Vilket är utlåtandet om åkalla i grupp i varje samling när Koranen har citerats? En person åkallar[^1] och resten säger ”*āmīn*” efter hans åkallan[^1]. Detta sker under varje religionslektion och när de tillfrågas om bevis använder de Allāh – den Allsmäktiges – ord: ”*Be till Mig, så ska Jag besvara er [bön]*.” [Koranen 40:60]
 
 **Svar:** Regeln för åminnelse[^2] och handlingar av dyrkan är den av överensstämmelse och att Allāh inte ska dyrkas utom med vad Han har föreskrivit. Detta gäller tidpunkt, form, antal och plats.
 

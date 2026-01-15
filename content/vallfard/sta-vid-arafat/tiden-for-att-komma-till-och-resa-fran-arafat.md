@@ -25,7 +25,7 @@ Han höjer sina händer när han gör åkallan[^7], och han prisar Allāh samt s
 [^2]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 [^3]: Dhuhr
 [^4]: Asr
-[^5]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen skall börja.
+[^5]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
 [^6]: Dhikr
 [^7]: Du´ā
 [^8]: Säga Labbayk Allahumma Labbayk under vallfärden.

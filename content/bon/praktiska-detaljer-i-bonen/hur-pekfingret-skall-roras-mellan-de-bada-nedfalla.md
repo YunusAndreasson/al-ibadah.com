@@ -1,5 +1,5 @@
 ---
-title: Hur pekfingret skall röras mellan de båda nedfallandena
+title: Hur pekfingret ska röras mellan de båda nedfallandena
 author: Muhammad bin Sālih al-'Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 481 s. ISBN 9960-892-66-2'
@@ -8,11 +8,11 @@ categories:
 - Praktiska detaljer i bönen
 original_id: 959
 description: 'Fråga: Har någon autentisk hadīth rapporterats om hur pekfingret
- skall röras mellan de båda nedfallandena[^1] i bönen? Svar: Ja, en hadīth har
+ ska röras mellan de båda nedfallandena[^1] i bönen? Svar: Ja, en hadīth har
  återgivits från Ibn ''Umar i Sahīh Muslim i vil...'
 ---
 
-**Fråga:** Har någon autentisk *hadīth[^1]* rapporterats om hur pekfingret skall röras mellan de båda nedfallandena[^2] i bönen?
+**Fråga:** Har någon autentisk *hadīth[^1]* rapporterats om hur pekfingret ska röras mellan de båda nedfallandena[^2] i bönen?
 
 **Svar:** Ja, en *hadīth[^1]* har återgivits från Ibn 'Umar i *Sahīh Muslim* i vilken han säger att profeten – över honom vare Allāhs frid och välsignelser – satt i bönen och nämnde Allāh. När han gjorde det pekade han med sitt finger [*Muslim* 1:408]. Det finns även en annan version när han satt i *tashahhud[^3]*.
 

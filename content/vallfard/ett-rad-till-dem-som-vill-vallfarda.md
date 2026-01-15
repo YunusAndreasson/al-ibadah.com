@@ -14,7 +14,7 @@ description: 'Fråga: All lovprisan tillhör Allāh ensam och må böner med vä
 
 **Fråga:** All lovprisan tillhör Allāh ensam och må böner med välsignelser och frid vara över Hans tjänare och Budbärare, vår profet Muhammad, och hans följeslagare och alla de som följer dem i rättfärdighet fram till Domens Dag.
 
-**Svar:** Ni muslimer som kommit till det heliga Huset för att vallfärda, jag ber Allāh om att vi skall få framgång med att göra det som gör Honom nöjd och jag ber om säkerhet från villfarelsen i onda ingivelser. Likaså ber jag Honom om att ni skall få framgång med era vallfärdsriter på ett sätt som gör Honom nöjd, att Han accepterar det och att hemresan till era länder skall vara framgångsrik. Sannerligen är Han den Bäste att be om hjälp.
+**Svar:** Ni muslimer som kommit till det heliga Huset för att vallfärda, jag ber Allāh om att vi ska få framgång med att göra det som gör Honom nöjd och jag ber om säkerhet från villfarelsen i onda ingivelser. Likaså ber jag Honom om att ni ska få framgång med era vallfärdsriter på ett sätt som gör Honom nöjd, att Han accepterar det och att hemresan till era länder ska vara framgångsrik. Sannerligen är Han den Bäste att be om hjälp.
 
 Muslimer! Sannerligen är mitt råd till er att ni alltid fruktar Allāh, att ni står stadiga i Hans religion och att ni aktar er för det som orsakar Hans vrede. Sannerligen, den viktigaste av de obligatoriska handlingarna och den största skyldigheten Allāhs enhet och att enbart och uppriktigt inte dyrka någon annan än Honom. Detta går hand i hand med att vara noggrann med att följa Hans sändebud i ord och handling. Sannerligen bör vallfärdsriterna – och alla annan dyrkan – utföras på det sätt som Allāh har föreskrivit för tjänarna genom orden från Hans sändebud, vän och utvalde från Hans skapelse, vår profet, imam och ledare – Muhammad bin 'Abdullāh.
 
@@ -24,9 +24,9 @@ Sannerligen är den ondaste av alla handlingar och det farligaste av alla brott 
 
 Och när Han har tilltalat profeten – över honom vare Allāhs frid och välsignelser – har Han sagt:
 
-> ”Men det har uppenbarats för dig liksom för dina föregångare att om någon sätter medhjälpare vid Guds sida skall allt vad han har åstadkommit [i denna värld] gå om intet och [i nästa liv] skall han höra till förlorarna.” [Koranen 39:65]
+> ”Men det har uppenbarats för dig liksom för dina föregångare att om någon sätter medhjälpare vid Guds sida ska allt vad han har åstadkommit [i denna värld] gå om intet och [i nästa liv] ska han höra till förlorarna.” [Koranen 39:65]
 
-Ni som skall vallfärda till Allāhs heliga hus! Sannerligen, vår profet – över honom vare Allāhs frid och välsignelser – vallfärdade inte mer än en gång efter hans utvandring till Medina. Det var hans sista vallfärd och den skedde under slutet av hans livstid. Genom ord och handling lärde han här folket vallfärdsriterna. Han sade till dem: ”*Ta era vallfärdsriter från mig*.” [*al-Bayhaqi* 5:121]
+Ni som ska vallfärda till Allāhs heliga hus! Sannerligen, vår profet – över honom vare Allāhs frid och välsignelser – vallfärdade inte mer än en gång efter hans utvandring till Medina. Det var hans sista vallfärd och den skedde under slutet av hans livstid. Genom ord och handling lärde han här folket vallfärdsriterna. Han sade till dem: ”*Ta era vallfärdsriter från mig*.” [*al-Bayhaqi* 5:121]
 
 Därmed måste alla muslimer följa honom i detta och vallfärda på det sätt som har angivits för dem. Detta eftersom han är den vägledande läraren och Allāh har sänt honom som en nåd till alla världar och som en slutgiltighet för Hans tjänare. Därmed har Allāh kommenderat tjänarna att lyda honom [Profeten] och Han har klargjort att det är en anledning för att träda in i Paradiset och räddas från Elden om man följer honom. Han har förklarat att profeten – över honom vare Allāhs frid och välsignelser – är ett bevis för tjänarnas sanna kärlek till Herren och att det är Allāhs kärlek till Hans tjänare. Allāh har sagt:
 
@@ -34,7 +34,7 @@ Därmed måste alla muslimer följa honom i detta och vallfärda på det sätt s
 
 Och Han har sagt:
 
-> ”Förrätta bönen och ge åt de behövande och lyd Sändebudet – kanske skall [Gud] visa er barmhärtighet.” [Koranen 24:56]
+> ”Förrätta bönen och ge åt de behövande och lyd Sändebudet – kanske ska [Gud] visa er barmhärtighet.” [Koranen 24:56]
 > 
 > 
 > 
@@ -44,18 +44,18 @@ Och Han har sagt:
 > 
 > 
 > 
-> ”Dessa är de gränser som Gud [har fastställt]. Gud skall föra den som lyder Honom och Hans sändebud till lustgårdar, vattnade av bäckar, där han skall förbli till evig tid. Detta är den stora, den lysande segern. Men den som trotsar Gud och Hans Sändebud och överträder de gränser Han [har fastställt] skall föras till Elden och förbli där till evig tid – ett förnedrande straff väntar honom.” [Koranen 4:13-14] Och Han har sagt: ”Säg: ’Människor! Jag är Guds Sändebud, [utsänd] till er alla av Honom som äger herraväldet över himlarna och jorden! Det finns ingen gud utom Han – Han som skänker liv och skänker död. Tro därför på Gud och Hans Sändebud, den olärde Profeten, som tror på Gud och Hans ord, och följ honom så att ni får vägledning.” [Koranen 7:158]
+> ”Dessa är de gränser som Gud [har fastställt]. Gud ska föra den som lyder Honom och Hans sändebud till lustgårdar, vattnade av bäckar, där han ska förbli till evig tid. Detta är den stora, den lysande segern. Men den som trotsar Gud och Hans Sändebud och överträder de gränser Han [har fastställt] ska föras till Elden och förbli där till evig tid – ett förnedrande straff väntar honom.” [Koranen 4:13-14] Och Han har sagt: ”Säg: ’Människor! Jag är Guds Sändebud, [utsänd] till er alla av Honom som äger herraväldet över himlarna och jorden! Det finns ingen gud utom Han – Han som skänker liv och skänker död. Tro därför på Gud och Hans Sändebud, den olärde Profeten, som tror på Gud och Hans ord, och följ honom så att ni får vägledning.” [Koranen 7:158]
 > 
 > 
 > 
 > 
-> ”Säg [Muhammad]: ’Om ni älskar Gud, följ mig och Gud skall älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.’” [Koranen 3:31]
+> ”Säg [Muhammad]: ’Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.’” [Koranen 3:31]
 
 Verserna med denna innebörd är många.
 
-Därför är mitt råd till er och till mig själv att ni alltid fruktar Allāh och att ni uppriktigt följer Hans profet Muhammad i vad han gjorde och i vad han sade. Syftet är att ni skall bli lyckliga och uppnå frälsning i detta livet och det Nästa.
+Därför är mitt råd till er och till mig själv att ni alltid fruktar Allāh och att ni uppriktigt följer Hans profet Muhammad i vad han gjorde och i vad han sade. Syftet är att ni ska bli lyckliga och uppnå frälsning i detta livet och det Nästa.
 
-Ni som skall vallfärda till Allāhs heliga hus! Sannerligen, när det var den åttonde dhul-hijjah[^1] begav sig vår profet Muhammad av från Mecka till Mina samtidigt som han läste *talbiyyah[^2]*. Han beordrade följeslagarna att träda in i *ihrām[^3]* med avsikt för vallfärden i deras hem [i Mecka] och ge sig av mot Mina. Han kommenderade dem inte att göra *tawāf[^4]* när de lämnade Mecka [*tawāf[^4] ul-wadā*]. Detta bevisar att det som är *sunnah[^5]* för dem som bor i Mecka och de som har trätt ur *ihrām[^3]* efter *‘umrah[^6]* och som vill vallfärda att ge sig av mot Mina den åttonde dagen samtidigt som de läser *talbiyyah[^2]* för vallfärden. När de lämnar Mecka behöver de inte bege sig till det heliga Huset för att göra *tawāf[^4]* runt Ka’bah [*tawāf[^4] ul-wadā*].
+Ni som ska vallfärda till Allāhs heliga hus! Sannerligen, när det var den åttonde dhul-hijjah[^1] begav sig vår profet Muhammad av från Mecka till Mina samtidigt som han läste *talbiyyah[^2]*. Han beordrade följeslagarna att träda in i *ihrām[^3]* med avsikt för vallfärden i deras hem [i Mecka] och ge sig av mot Mina. Han kommenderade dem inte att göra *tawāf[^4]* när de lämnade Mecka [*tawāf[^4] ul-wadā*]. Detta bevisar att det som är *sunnah[^5]* för dem som bor i Mecka och de som har trätt ur *ihrām[^3]* efter *‘umrah[^6]* och som vill vallfärda att ge sig av mot Mina den åttonde dagen samtidigt som de läser *talbiyyah[^2]* för vallfärden. När de lämnar Mecka behöver de inte bege sig till det heliga Huset för att göra *tawāf[^4]* runt Ka’bah [*tawāf[^4] ul-wadā*].
 
 När man går in i *ihrām[^3]* för vallfärden är det rekommenderat att göra vad man gör vid mīqāt[^7] när man går in i *ihrām[^3]*; som att bada, ta på parfym och rengöra sig. Detta är vad profeten – över honom vare Allāhs frid och välsignelser – beordrade ‘A’ishah att göra när hon ville träda in i *ihrām[^3]* för vallfärden, och hon tidigare hade trätt in i *ihrām[^3]* för *‘umrah[^6]* men hennes månadsblödning hade börjat när hon gick in i Mecka. Därmed hade hon inte möjlighet att göra *tawāf[^4]* före hon begav sig till Mina och han beordrade henne att bada och träda in i *ihrām[^3]* för vallfärden [i Mecka]. Hon gjorde då det och kombinerade vallfärden med*‘umrah[^6]* [*qirān*].
 
@@ -124,7 +124,7 @@ Må Allāh sända välsignelser och frid över vår profet Muhammad, hans familj
 [^12]: Fajr
 [^13]: Rakah.
 [^14]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
-[^15]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen skall börja.
+[^15]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
 [^16]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 [^17]: Du´ā
 [^18]: Dhikr

@@ -13,11 +13,11 @@ description: 'Fråga: Tunna kläder har, speciellt under sommaren, blivit vanlig
  endast täcker hälften eller en tredjedel av ...'
 ---
 
-**Fråga:** Tunna kläder har, speciellt under sommaren, blivit vanligt bland muslimer. Vi ser ofta att folk ber i dem. Under bär de då korta underkläder som endast täcker hälften eller en tredjedel av låren. På samma sätt bär vissa korta västar som inte döljer det som finns under naveln. Som ni känner till är det ett villkor för att bönen skall accepteras att *‘awrah[^1]* täcks. Täcker dessa klädesplagg*‘awrah[^1]*? Vänligen, informera oss.
+**Fråga:** Tunna kläder har, speciellt under sommaren, blivit vanligt bland muslimer. Vi ser ofta att folk ber i dem. Under bär de då korta underkläder som endast täcker hälften eller en tredjedel av låren. På samma sätt bär vissa korta västar som inte döljer det som finns under naveln. Som ni känner till är det ett villkor för att bönen ska accepteras att *‘awrah[^1]* täcks. Täcker dessa klädesplagg*‘awrah[^1]*? Vänligen, informera oss.
 
 **Svar:** Muslimer är eniga om att *‘awrah[^1]* måste täckas i bönen och att man inte får be avklädd, oberoende av om det gäller män eller kvinnor. Kvinnans*‘awrah[^1]* täcker ett vidare område än en mans. Mannens *‘awrah[^1]* är mellan naveln samt knäna och han måste även täcka axlarna, eller åtminstone en av dem, om han har möjlighet. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – till Jabir har sagt: ”*Om plagget är lågt, svep dig då i det; och om det är åtsittande, bär då en izār*.” [*al-Bukhārī* 361]
 
-I en *hadīth[^2]* från Abū Hurairah säger han: ”*Ingen av er skall be i ett klädesplagg som inte täcker axlarna*.” [*Muslim* 516 och *Abū Dawūd* 626]
+I en *hadīth[^2]* från Abū Hurairah säger han: ”*Ingen av er ska be i ett klädesplagg som inte täcker axlarna*.” [*Muslim* 516 och *Abū Dawūd* 626]
 
 Hela kvinnans kropp är*‘awrah[^1]*, utom ansiktet. De lärde har olika åsikter om händerna, vissa påstår att det är obligatoriskt att täcka dem, medan andra påstår att det inte är obligatoriskt. Denna fråga är öppen för diskussion, men det är bättre att täcka dem för att undvika oenigheter bland de lärde. Fötterna måste täckas under bönen enligt en majoritet av de lärde. Abū Dawūd har rapporterat att Umm Salamah frågade profeten: ”*Får en kvinna be i en lång skjorta och något som täcker huvudet utan en izār?*” Han svarade: ”*Om skjortan är vid och den täcker hennes fötter*.” [*Abū Dawūd* 640] Ibn Hajar har i *Bulugh al-Maram* sagt: ”Och de lärde har säkrat detta fram till Umm Salamah.”
 

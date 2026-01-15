@@ -8,12 +8,12 @@ categories:
 - Allmosa (Zakāh)
 - Blandat om allmosa
 original_id: 1032
-description: 'Fråga: En fattig man får allmosa från en rik vän för att han skall
+description: 'Fråga: En fattig man får allmosa från en rik vän för att han ska
  dela ut den men sedan tar han den själv. Vilket är utlåtandet om detta? Svar: Han
  får inte göra så och det går stick i stäv m...'
 ---
 
-**Fråga:** En fattig man får allmosa från en rik vän för att han skall dela ut den men sedan tar han den själv. Vilket är utlåtandet om detta?
+**Fråga:** En fattig man får allmosa från en rik vän för att han ska dela ut den men sedan tar han den själv. Vilket är utlåtandet om detta?
 
 **Svar:** Han får inte göra så och det går stick i stäv med pålitlighet. Hans vän har gett den till honom under överenskommelsen att han är dennes representant, betrodd med att ge till andra. Ändå har han tagit dem själv. De lärde har sagt att en betrodd representant inte får använda de pengar som han har betrotts med för eget bruk.
 

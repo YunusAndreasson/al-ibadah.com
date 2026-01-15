@@ -21,7 +21,7 @@ Svar: Att offra djur till *jinn[^1]* är *shirk[^2]*. Den som gör detta och dö
 
 All lovprisan tillhör Allāh som har hjälpt dig att ångra dig för denna grova synd, som inga goda handlingar accepteras om den begås. Vallfärda igen och om du är uppriktig i din ånger, då har Allāh lovat att förlåta dem som ångrar sig samt att ersätta deras dåliga handlingar med goda. Han säger:
 
-> ”Och de anropar aldrig en gudom vid sidan av Gud och de berövar aldrig en människa livet – som Gud har förklarat heligt – annat än i rättfärdigt syfte, och de avhåller sig från äktenskapsbrott. Den som begår dessa svåra synder skall få sona dem med en exemplarisk bestraffning [och] på Uppståndelsens dag skall hans straff fördubblas och han skall gå bort med skammen för att lida detta straff i evighet.” [Koranen 25:68-70]
+> ”Och de anropar aldrig en gudom vid sidan av Gud och de berövar aldrig en människa livet – som Gud har förklarat heligt – annat än i rättfärdigt syfte, och de avhåller sig från äktenskapsbrott. Den som begår dessa svåra synder ska få sona dem med en exemplarisk bestraffning [och] på Uppståndelsens dag ska hans straff fördubblas och han ska gå bort med skammen för att lida detta straff i evighet.” [Koranen 25:68-70]
 
 Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muhammad samt göra honom, hans hushåll och följeslagare säkra från ont.
 

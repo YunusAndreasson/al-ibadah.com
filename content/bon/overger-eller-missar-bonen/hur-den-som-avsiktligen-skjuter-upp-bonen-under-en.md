@@ -8,11 +8,11 @@ categories:
 - Överger eller missar bönen
 original_id: 322
 description: 'Fråga: Får den som inte har bett under flera år ta igen bönerna? Hur
- gör han när han skall ta igen dem? Svar: När någon överger bönen under ett antal
+ gör han när han ska ta igen dem? Svar: När någon överger bönen under ett antal
  år för att ångra sig och sedan vara noga m...'
 ---
 
-**Fråga:** Får den som inte har bett under flera år ta igen bönerna? Hur gör han när han skall ta igen dem?
+**Fråga:** Får den som inte har bett under flera år ta igen bönerna? Hur gör han när han ska ta igen dem?
 
 **Svar:** När någon överger bönen under ett antal år för att ångra sig och sedan vara noga med att be, då behöver han inte ta igen de böner som han har missat.
 

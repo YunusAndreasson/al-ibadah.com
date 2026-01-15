@@ -23,7 +23,7 @@ Jag har två grupper av vänner och ingen av dem är praktiserande muslimer. Des
 
 De lärde är ense om att denna vers uppenbarades för dem som ångrar sig. Allāh den Allsmäktige förlåter alla synder från en person som ångrar sig uppriktigt. Detta baserat på denna förra versen samt:
 
-> ”Troende! Vänd er i uppriktig ånger [över era synder] till Gud! Kanske skall er Herre ur er [bok] utplåna era dåliga handlingar och föra er till lustgårdar, vattnade av bäckar.” [66:8]
+> ”Troende! Vänd er i uppriktig ånger [över era synder] till Gud! Kanske ska er Herre ur er [bok] utplåna era dåliga handlingar och föra er till lustgårdar, vattnade av bäckar.” [66:8]
 
 Allāh den Allsmäktige nämner här att uppriktig ånger är ett villkor för att gottgöra för ens synder. Men vad är uppriktig ånger? Det är en där du kombinerar följande element:
 
@@ -33,15 +33,15 @@ Allāh den Allsmäktige nämner här att uppriktig ånger är ett villkor för a
 
 Om din synd involverar någons liv, tillgångar eller heder (det vill säga, andra människor rättigheter) finns det ett fjärde villkor. Du måste söka upprättelse för det felaktiga du gjort genom att återgälda vad du felaktigt tagit eller genom att du blir förlåten av dem du handlat felaktigt mot. Om detta är en fråga om heder, som du inte kan ställa till rätta, be då för din broder och nämn honom alltid på bästa sätt, speciellt där du handlat fel mot honom. Anledningen är att goda handlingar stryker ut dåliga:
 
-> ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske skall det gå er väl i händer.” [Koranen 24:31]
+> ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå er väl i händer.” [Koranen 24:31]
 
 I denna vers gör Allāh den Allsmäktige framgång beroende av ånger. Detta visar att den som ångrar sig är framgångsrik och lycklig. Om du låter din ånger följas av tro och goda handlingar kommer Allāh den Allsmäktige att stryka ut dina synder och där placera goda handlingar i deras ställe. Detta är en välgärning Allāh nämner efter att Han berättat om stora synder som otro, mord och otukt:
 
-> ”Och de anropar aldrig en gudom vid sidan av Gud och de berövar aldrig en människa livet – som Gud har förklarat heligt – annat än i rättfärdigt syfte, och de avhåller sig från äktenskapsbrott. Den som begår dessa svåra synder skall få sona dem med en exemplarisk bestraffning [och] på Uppståndelsens dag skall hans straff fördubblas och han skall gå bort med skammen för att lida detta straff i evigheten.” [Koranen 25:68-70]
+> ”Och de anropar aldrig en gudom vid sidan av Gud och de berövar aldrig en människa livet – som Gud har förklarat heligt – annat än i rättfärdigt syfte, och de avhåller sig från äktenskapsbrott. Den som begår dessa svåra synder ska få sona dem med en exemplarisk bestraffning [och] på Uppståndelsens dag ska hans straff fördubblas och han ska gå bort med skammen för att lida detta straff i evigheten.” [Koranen 25:68-70]
 
 För att uppnå ånger bör du be Allāh den Allsmäktige att Han vägleder dig, att Han gör dig framgångsrik och att Han beviljar dig uppriktig ånger:
 
-> ”Er Herre säger: ’Be till Mig, så skall Jag besvara er [bön]. De som håller sig för goda för att tjäna Mig skall gå med böjt huvud in i helvetet.” [40:60]
+> ”Er Herre säger: ’Be till Mig, så ska Jag besvara er [bön]. De som håller sig för goda för att tjäna Mig ska gå med böjt huvud in i helvetet.” [40:60]
 > 
 > 
 > 

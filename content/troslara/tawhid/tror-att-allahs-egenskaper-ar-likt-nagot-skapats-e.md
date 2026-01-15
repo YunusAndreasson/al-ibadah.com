@@ -17,16 +17,16 @@ description: 'Fråga: Vilket är utlåtandet om någon som tror att Skaparens eg
 
 **Svar:** Den som tror att Skaparens egenskaper är likadana som de skapade varelsernas är vilse. Skaparens egenskaper liknar ju inte de skapade varelsernas. Detta enligt bevis från Koranen i vilken Allāh den Upphöjde säger:
 
-> ”De underskattar sannerligen Gud [som jämför Honom med bilder huggna i sten]! På Uppståndelsens dag skall jorden vara [som] en nypa [grus] för Honom och himlarna skall ligga hoprullade i Hans högra hand.” [Koranen 39:67]
+> ”De underskattar sannerligen Gud [som jämför Honom med bilder huggna i sten]! På Uppståndelsens dag ska jorden vara [som] en nypa [grus] för Honom och himlarna ska ligga hoprullade i Hans högra hand.” [Koranen 39:67]
 
 Att två saker har samma namn eller egenskaper medför inte nödvändigtvis att de är lika i verkligheten. Detta är en välkänd regel. Har inte en människa ett ansikte? Har inte en kamel ett ansikte? Dessa båda [ansikten] är lika till namnet men de är inte lika i verkligheten. En kamel har en hand [framfot] och fluga har en hand men är de båda lika? Svaret är nej. Så varför säger du då inte: ”Allāh den Allsmäktige har ett ansikte med det liknar inte något skapats ansikte, och Allāh har en hand men den liknar inte det skapades händer?” Allāh den Upphöjde säger:
 
-> ”De underskattar sannerligen Gud [som jämför Honom med bilder huggna i sten]! På Uppståndelsens dag skall jorden vara [som] en nypa [grus] för Honom och himlarna skall ligga hoprullade i Hans högra hand.” [Koranen 39:67]
+> ”De underskattar sannerligen Gud [som jämför Honom med bilder huggna i sten]! På Uppståndelsens dag ska jorden vara [som] en nypa [grus] för Honom och himlarna ska ligga hoprullade i Hans högra hand.” [Koranen 39:67]
 > 
 > 
 > 
 > 
-> ”Den Dagen skall Vi rulla ihop himlen som en fullskriven pergamentrulle. Liksom Vi grep Oss an med den första skapelsen skall Vi förnya den – för detta löfte borgar Vi och Vi har makt att göra det!” [Koranen 21:104]
+> ”Den Dagen ska Vi rulla ihop himlen som en fullskriven pergamentrulle. Liksom Vi grep Oss an med den första skapelsen ska Vi förnya den – för detta löfte borgar Vi och Vi har makt att göra det!” [Koranen 21:104]
 
 Finns det en hand som tillhör något skapat som liknar denna hand? Nej. Då måste vi känna att Skaparen inte liknar det skapade, varken i Hans själv eller i Hans egenskaper:
 

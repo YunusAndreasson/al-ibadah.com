@@ -8,11 +8,11 @@ categories:
 - Tawāf och sa’ī
 original_id: 812
 description: 'Fråga: Vad gäller den som slutfört vallfärdsriterna, utom tawāful-ifādhah
- , men sedan dog? skall tawāf utföras för honom? Svar: Den som har fullbordat
+ , men sedan dog? ska tawāf utföras för honom? Svar: Den som har fullbordat
  vallfärdsriterna utom tawāful-ifādhah...'
 ---
 
-**Fråga:** Vad gäller den som slutfört vallfärdsriterna, utom *tawāf[^1] ul-ifādhah*, men sedan dog? skall *tawāf[^1]* utföras för honom?
+**Fråga:** Vad gäller den som slutfört vallfärdsriterna, utom *tawāf[^1] ul-ifādhah*, men sedan dog? ska *tawāf[^1]* utföras för honom?
 
 **Svar:** Den som har fullbordat vallfärdsriterna utom *tawāf[^1] ul-ifādhah* och som sedan avlidit, denne behöver tawāf[^1] inte utföras för. Anledningen är att Ibn ‘Abbās har berättat om en man som stod vid Arafat[^2] tillsammans med Allāhs sändebud – över honom vare Allāhs frid och välsignelser – och som plötsligt föll ned från sitt riddjur, bröt nacken och dog. Detta berättades för profeten – över honom vare Allāhs frid och välsignelser – och han sade:
 

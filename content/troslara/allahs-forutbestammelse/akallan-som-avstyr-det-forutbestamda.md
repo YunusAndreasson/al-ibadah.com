@@ -9,13 +9,13 @@ categories:
 - Allāhs förutbestämmelse
 original_id: 684
 description: 'Fråga: Kan åkallan avstyra det som är förutbestämt? Svar: Allāh
- den Allsmäktige har föreskrivit och beordrat åkallan: ” Be till Mig, så skall Jag
+ den Allsmäktige har föreskrivit och beordrat åkallan: ” Be till Mig, så ska Jag
  besvara er [bön] .” [40:60] Han har även sag...'
 ---
 
 **Fråga:** Kan åkallan[^1] avstyra det som är förutbestämt?
 
-**Svar:** Allāh den Allsmäktige har föreskrivit och beordrat åkallan[^1]: ”*Be till Mig, så skall Jag besvara er [bön]*.” [40:60]
+**Svar:** Allāh den Allsmäktige har föreskrivit och beordrat åkallan[^1]: ”*Be till Mig, så ska Jag besvara er [bön]*.” [40:60]
 
 Han har även sagt: ”*När mina tjänare frågar dig om Mig [svara då att] Jag är nära; Jag besvarar den bedjandes bön, när Han ber till Mig*.” [2:186]
 

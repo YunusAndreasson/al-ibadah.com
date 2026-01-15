@@ -22,5 +22,5 @@ description: 'Fråga: Om någon gick in i moskén före böneutropet och bad hä
 [^2]: Fajr
 [^3]: Dhuhr
 [^4]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
-[^5]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen skall börja.
+[^5]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
 

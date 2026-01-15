@@ -41,7 +41,7 @@ Muslimer som känner till deras sanna position måste avsäga sig dem för att g
 
 När de inte tillåter att deras döttrar gifter sig med andra än dem, medan de tillåter sig att gifta sig med andra, då är detta en sorts okunskap och villfarelse som det inte finns något bevis eller någon grund för i Lagen. Allāh – den Härlige säger:
 
-> ”Människor! Vi har skapat er av en man och en kvinna, och Vi har samlat er i folk och stammar för att ni skall lära känna varandra. Inför Gud är den av er bäst vars Gudsfruktan är djupast. Gud vet allt, är underrättad om allt.” [Koranen 49:13]
+> ”Människor! Vi har skapat er av en man och en kvinna, och Vi har samlat er i folk och stammar för att ni ska lära känna varandra. Inför Gud är den av er bäst vars Gudsfruktan är djupast. Gud vet allt, är underrättad om allt.” [Koranen 49:13]
 
 Även om dem tillhör as-Sadah eller Bani Hashim[^8] har de ingen rätt att förbjuda att deras döttrar gifter sig med andra än dem. Detta avvisas och motsägs av det som har rapporterats från Allāhs sändebud. Han gifte ju sig med Zainab som var dotter till hans farbror Zaid bin Harithah och han tillhörde stammen Bani Asad. Han gifte även bort Fatimah bint Qais till Usamah bin Zaid och hon tillhörde stammen Quraish. 'Ali gifte bort Umm Kulthum till 'Umar bin al-Khattab och hon tillhörde inte Bani Hashim[^8] utan i stället tillhörde hon Bani 'Adi. Sådana händelser inträffade ofta och de bevisar det ogiltiga i denna åsikt. De motsäger sig också vad de rättfärdiga föregångarna brukade göra. Vi måste råda dem och varna dem för att motsäga sig Allāhs påbud.
 

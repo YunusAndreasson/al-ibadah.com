@@ -16,7 +16,7 @@ description: 'Fråga: Hur kan en pilgrim vara uppriktig mot Allāh då denne utf
 
 **Svar:** All lovprisan tillhör Allāh. Uppriktighet är ett nödvändigt villkor i all dyrkan och ingen dyrkan är giltig om någon eller något sätts vid sidan av Allāh. Han säger:
 
-> ”Var och en som med hopp ser fram mot mötet med sin Herre skall [sträva efter att] leva ett gott och rättskaffens liv och inte göra någon delaktig av den dyrkan som han ägnar sin Herre!” [Koranen 18:110]
+> ”Var och en som med hopp ser fram mot mötet med sin Herre ska [sträva efter att] leva ett gott och rättskaffens liv och inte göra någon delaktig av den dyrkan som han ägnar sin Herre!” [Koranen 18:110]
 > 
 > 
 > 
@@ -36,9 +36,9 @@ Det som avses med uppriktighet mot Allāh i dyrkan är att inget motiverar denne
 
 > ”Muhammad är Guds Sändebud. De som följer honom är oböjligt fasta mot dem som förnekar sanningen, men sinsemellan fulla av värme och vänskap. Du ser hur de böjer ryggen och faller ned inför Gud i tillbedjan och säker Hans nåd och Hans välbehag; i sina ansikten bär de spåren av [de många] nedfallen under bönen.” [Koranen 48:29]
 
-Ingen dyrkan, oberoende av om det är vallfärden eller något annat, kommer att accepteras om denne gör det för att imponera på andra människor eller för att andra människor skall se och säga: ”Så ädel den och den är, så mycket denne dyrkar Allāh”.
+Ingen dyrkan, oberoende av om det är vallfärden eller något annat, kommer att accepteras om denne gör det för att imponera på andra människor eller för att andra människor ska se och säga: ”Så ädel den och den är, så mycket denne dyrkar Allāh”.
 
-Ingen dyrkan kommer att accepteras om motivationen bakom den är att se platser eller att träffa människor, eller andra saker som står i motsats till uppriktighet. Därför måste en pilgrim som beger sig till det Heliga Huset ha en uppriktig avsikt för Allāhs skull och inte avse att se den muslimska världen, att göra affärer eller för att det skall sägas att denne vallfärdar varje år.
+Ingen dyrkan kommer att accepteras om motivationen bakom den är att se platser eller att träffa människor, eller andra saker som står i motsats till uppriktighet. Därför måste en pilgrim som beger sig till det Heliga Huset ha en uppriktig avsikt för Allāhs skull och inte avse att se den muslimska världen, att göra affärer eller för att det ska sägas att denne vallfärdar varje år.
 
 Det finns inget felaktigt i om någon som söker Allāhs gåvor gör affärer medan denne reser till det Heliga Huset. Allāh säger:
 
@@ -46,7 +46,7 @@ Det finns inget felaktigt i om någon som söker Allāhs gåvor gör affärer me
 
 Det som motsäger sig uppriktighet är om någons enda avsikt är att göra affärer och tjäna pengar. Detta är någon som söker världsliga förtjänster genom att utföra handlingar som har att göra med Nästa Liv. Detta betyder att dyrkan är ogiltig eller bristfällig till högsta grad. Allāh säger:
 
-> ”Den som vill [så för att] skörda i evigheten skall Vi ge riklig skörd; och den som vill [så för att] skörda i denna värld skall Vi ge något av det han strävat efter, men i evigheten blir han lottlös.” [Koranen 42:20]
+> ”Den som vill [så för att] skörda i evigheten ska Vi ge riklig skörd; och den som vill [så för att] skörda i denna värld ska Vi ge något av det han strävat efter, men i evigheten blir han lottlös.” [Koranen 42:20]
 
 
 [^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.

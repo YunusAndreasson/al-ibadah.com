@@ -28,7 +28,7 @@ Han har även sagt:
 
 En blind man sade till profeten: ”*Allāhs sändebud! Jag har ingen guide som kan vägleda mig till moskén, kan jag be i mitt hem?*” Allāhs sändebud – över honom vare Allāhs frid och välsignelser – frågade: ”*Hör du böneutropet?*” Han svarade ”*Ja*.” Han svarade: ”*Besvarade då det*.” [Muslim 653]
 
-Om den blinde mannen som inte hade någon som ledde honom till moskén inte fick överge bönen i församlingen, då är det klart att andra har ännu mindre rätt. Därför måste du frukta Allāh den Allsmäktige och be i församlingen vid gryningsbönen[^1] samt vid andra böner och gå och lägga dig tidigt så att du skall kunna vakna och be. Ni har ingen rätt att be hemma, utom om ni har en giltig ursäkt, som sjukdom eller rädsla.
+Om den blinde mannen som inte hade någon som ledde honom till moskén inte fick överge bönen i församlingen, då är det klart att andra har ännu mindre rätt. Därför måste du frukta Allāh den Allsmäktige och be i församlingen vid gryningsbönen[^1] samt vid andra böner och gå och lägga dig tidigt så att du ska kunna vakna och be. Ni har ingen rätt att be hemma, utom om ni har en giltig ursäkt, som sjukdom eller rädsla.
 
 Må Allāh ge alla framgång med att finna sanningen och hålla sig stadiga vid den.
 

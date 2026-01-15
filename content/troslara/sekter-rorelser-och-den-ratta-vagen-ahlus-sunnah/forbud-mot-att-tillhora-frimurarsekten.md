@@ -28,11 +28,11 @@ Ett av deras dolda mål är att de är emot alla religioner i allmänhet och isl
 
 Organisationen koncentrerar sig på att rekrytera personer med stort inflytande i samhället; personer inom finanssektorn, politiker, vetenskapsmän och människor på andra positioner som kan hjälpa till med att göra dem starkare. De har inget intresse i att rekrytera dem som saknar makt och därför fokuserar de ofta sin rekrytering på kungar, presidenter och viktiga personer inom regeringar.
 
-Det finns flera underorganisationer som bär andra namn för att förvilla, för att de skall kunna fortsätta sina aktiviteter under andra pseudonymer. De kändaste är Illuminati, Rotary och Lions. Dessa organisationer motsäger sig islams grundprinciper.
+Det finns flera underorganisationer som bär andra namn för att förvilla, för att de ska kunna fortsätta sina aktiviteter under andra pseudonymer. De kändaste är Illuminati, Rotary och Lions. Dessa organisationer motsäger sig islams grundprinciper.
 
 Kopplingen mellan frimurarsekten och den internationella sionismen är uppenbar. Genom de metoder som har nämnts ovan har de, när det gäller Palestinafrågan, lyckats kontrollera många ledare i arabvärlden och andra länder.
 
-Av denna anledning och på grund av andra fakta som visar denna rörelses onda ideologi har *fiqh[^1]*-akademin avgjort att frimurarrörelsen är en destruktiv och farlig organisation för islam och Muslimer. Den som går med i denna sekt – och känner till sanningen om dem och deras mål – är någon som inte tror på islam och som skall undvikas.
+Av denna anledning och på grund av andra fakta som visar denna rörelses onda ideologi har *fiqh[^1]*-akademin avgjort att frimurarrörelsen är en destruktiv och farlig organisation för islam och Muslimer. Den som går med i denna sekt – och känner till sanningen om dem och deras mål – är någon som inte tror på islam och som ska undvikas.
 
 Och Allāh är den som beviljar framgång.
 

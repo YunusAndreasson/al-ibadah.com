@@ -14,5 +14,5 @@ description: 'Fråga: En släkting till mig avled medan han handlade med ränta 
 
 **Fråga:** En släkting till mig avled medan han handlade med ränta och nu vill vi gottgöra denna synd för hans räkning. Vilken är den föreskrivna metoden för att göra detta?
 
-**Svar:** För dennes arvtagare är det föreskrivet att försöka fundera ut hur mycket ränta som denne tog och sedan ge bort den summan i välgörenhet för dennes räkning. De skall även åkalla för dennes förlåtelse. Vi ber Allāh att Han förlåter honom, oss och alla muslimer.
+**Svar:** För dennes arvtagare är det föreskrivet att försöka fundera ut hur mycket ränta som denne tog och sedan ge bort den summan i välgörenhet för dennes räkning. De ska även åkalla för dennes förlåtelse. Vi ber Allāh att Han förlåter honom, oss och alla muslimer.
 

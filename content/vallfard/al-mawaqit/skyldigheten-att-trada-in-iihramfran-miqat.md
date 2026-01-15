@@ -22,7 +22,7 @@ Om någon från Jemen passerar förbi Yalamlam, då är denne skyldig att träda
 
 Hade du trätt in i *ihrām[^2]* där du befann dig när han sade till dig att återvända, då hade du behövt offra ett djur. Anledning till detta är att du passerade mīqāt[^3] [utan att träda in i *ihrām[^2]*] när din avsikt var *‘umrah[^1]*.
 
-Offret är en sjundedel av en kamel, en sjundedel av en ko, ett får som är över ett år gammalt eller en get som är två år gammal. Det skall slaktas i Mecka och delas ut bland de fattiga vid Helgedomen för att *‘umrah[^1]* skall bli korrekt.
+Offret är en sjundedel av en kamel, en sjundedel av en ko, ett får som är över ett år gammalt eller en get som är två år gammal. Det ska slaktas i Mecka och delas ut bland de fattiga vid Helgedomen för att *‘umrah[^1]* ska bli korrekt.
 
 Och Allāh är den som ger framgång.
 

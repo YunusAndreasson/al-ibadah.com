@@ -16,7 +16,7 @@ description: 'Fråga: Jag är en gift kvinna som är ungefär 30 år gammal. Und
 
 **Svar:** Allmosa blir en skyldighet för dig vid den tidpunkt som du fick veta att det var en skyldighet för dig att betala allmosa för smycken. Det som har inträffat innan du hade vetskap om detta behöver du inte betala allmosa för. Detta beror på att de islamiska lagarna enbart blir obligatorisk när de är kända. Den andel som måste betalas är 2.5 procent om smyckena når den lägsta gräns som gör att allmosa krävs. Denna gräns är 20 mithqal[^1] [för guld]. Detta är likvärdigt med 11½ saudiska junayh. Om guldet uppnår eller överskrider detta värde blir allmosan en skyldighet. För varje 1000 junahy betalar man 25 junayh. När det gäller silver är den lägsta nivån för allmosa 140 mithqal[^1]. Det är likvärdigt med 56 silverriyal[^2] eller samma värde i mynt. Den andel som måste betalas är 2.5 procent, precis som för guld.
 
-När det gäller diamanter och andra stenar krävs ingen allmosa för dem om de är till för att bäras. Men om de skall säljas blir det en skyldighet enligt deras värde i guld och silver om de når den lägsta nivån som krävs för allmosa.
+När det gäller diamanter och andra stenar krävs ingen allmosa för dem om de är till för att bäras. Men om de ska säljas blir det en skyldighet enligt deras värde i guld och silver om de når den lägsta nivån som krävs för allmosa.
 
 Och Allāh är Givaren av framgång.
 

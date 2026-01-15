@@ -14,7 +14,7 @@ description: 'Fråga: Får en man göra tawāf för hans föräldrars eller en a
 
 **Fråga:** Får en man göra *tawāf[^1]* för hans föräldrars eller en av hans avlidna släktingars räkning?
 
-**Svar:** Det är inte fel om en man utför vallfärden eller *‘umrah[^2]* för någon av ens föräldrar eller en släkting. Det är heller ingen fara, om Allāh vill, att man utför *tawāf[^1]* för dem. Man utför sju varv och avser att belöningen skall vara för en av ens föräldrar eller släktingar.
+**Svar:** Det är inte fel om en man utför vallfärden eller *‘umrah[^2]* för någon av ens föräldrar eller en släkting. Det är heller ingen fara, om Allāh vill, att man utför *tawāf[^1]* för dem. Man utför sju varv och avser att belöningen ska vara för en av ens föräldrar eller släktingar.
 
 
 [^1]: Den sju långa rundar vandringen runt Kabah.

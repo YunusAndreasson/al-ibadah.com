@@ -29,6 +29,6 @@ Och genom Allāh uppnås framgång.
 
 [^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^3]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen skall börja.
+[^3]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
 [^4]: Den ansträngning en islamskt lärd gör för att lägga fram ett utlåtande som inte är uppenbart.
 

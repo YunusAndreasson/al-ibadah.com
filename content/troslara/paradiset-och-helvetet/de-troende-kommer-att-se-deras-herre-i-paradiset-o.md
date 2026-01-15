@@ -27,7 +27,7 @@ Några av dem som har återberättat *ahādīth[^1]* säger att Allāh den Härl
 
 Flera hadither har återberättats som bekräftar att de troende kommer att se deras Herre i Paradiset. Dessutom bekräftar Koranen det när Allāh säger:
 
-> ”Den Dagen skall [någras] ansikten lysas upp av glädje – de får skåda sin Herre – medan mörka skuggor kommer att skymma [andras] ansikten – de grubblar över det lidande som väntar dem.” [Koranen 75:22-23]
+> ”Den Dagen ska [någras] ansikten lysas upp av glädje – de får skåda sin Herre – medan mörka skuggor kommer att skymma [andras] ansikten – de grubblar över det lidande som väntar dem.” [Koranen 75:22-23]
 
 Och när Han säger:
 

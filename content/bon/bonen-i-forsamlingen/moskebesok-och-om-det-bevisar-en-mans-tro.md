@@ -7,12 +7,12 @@ categories:
 - Bön (Salāh)
 - Bönen i församlingen
 original_id: 1071
-description: 'Fråga: Bevisas en mans tro genom att han besöker moskén? Detta skall
+description: 'Fråga: Bevisas en mans tro genom att han besöker moskén? Detta ska
  ha nämnts i en hadīth . Svar: Ja, det råder inga tvivel om att någons närvaro
  i moskén är ett bevis för dennes tro. Anledn...'
 ---
 
-**Fråga:** Bevisas en mans tro genom att han besöker moskén? Detta skall ha nämnts i en *hadīth[^1]*.
+**Fråga:** Bevisas en mans tro genom att han besöker moskén? Detta ska ha nämnts i en *hadīth[^1]*.
 
 **Svar:** Ja, det råder inga tvivel om att någons närvaro i moskén är ett bevis för dennes tro. Anledningen är att inget tvingar denne att lämna sitt hus och gå till moskén utom tron på Allāh den Allsmäktige.
 

@@ -1,5 +1,5 @@
 ---
-title: Tillfällena då händerna skall höjas
+title: Tillfällena då händerna ska höjas
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 143 s. ISBN saknas'

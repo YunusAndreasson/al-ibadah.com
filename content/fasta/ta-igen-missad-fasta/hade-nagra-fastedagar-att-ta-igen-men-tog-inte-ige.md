@@ -15,7 +15,7 @@ description: 'Fråga: Om någon fortfarande hade dagar att ta igen från ramadan
 
 **Fråga:** Om någon fortfarande hade dagar att ta igen från ramadan[^1] och denne inte tog igen dem innan nästa ramadan[^1], vad bör denne göra då?
 
-**Svar:** Det är välkänt att Allāh den Upphöjde har sagt: ”*Den av er som ser månens nytändning skall fasta månaden ut. Men den som är sjuk eller [stadd] på resa [skall fasta därefter] under motsvarande antal dagar*.” [Koranen 2:185]
+**Svar:** Det är välkänt att Allāh den Upphöjde har sagt: ”*Den av er som ser månens nytändning ska fasta månaden ut. Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarande antal dagar*.” [Koranen 2:185]
 
 Den som då bröt fastan av en giltig anledning är skyldig att ta igen den för att lyda Allāhs den Härliges, den Upphöjdes påbud. Denne måste ta igen dem under året och denne bör inte försena dem till efter den ramadan[^1] som följer.
 

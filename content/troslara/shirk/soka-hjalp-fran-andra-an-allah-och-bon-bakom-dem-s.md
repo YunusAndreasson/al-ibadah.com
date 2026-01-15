@@ -16,7 +16,7 @@ description: 'Fråga: Det finns en man som bor i ett samhälle där folket söke
 
 **Svar:** Om deras tillstånd är som du säger – att de söker hjälp från andra än Allāh genom att söka hjälp från avlidna, de frånvarande, träd, stjärnor eller liknande – då är de månggudadyrkare[^2] som är skyldiga till större *shirk[^1]*. Detta tar dem ur islam.
 
-Det är inte tillåtet att umgås med dem, precis som det inte är tillåtet att umgås med de icke-troende. Bön bakom dem är inte giltig. Det är inte tillåtet att gifta sig med dem eller att bo bland dem, utom för dem som med bevis bjuder in dem till sanningen i hopp om att de skall besvara inbjudan och att deras trosprinciper skall ställas till rätta på detta sätt.
+Det är inte tillåtet att umgås med dem, precis som det inte är tillåtet att umgås med de icke-troende. Bön bakom dem är inte giltig. Det är inte tillåtet att gifta sig med dem eller att bo bland dem, utom för dem som med bevis bjuder in dem till sanningen i hopp om att de ska besvara inbjudan och att deras trosprinciper ska ställas till rätta på detta sätt.
 
 Därtill måste han flytta från dem till ett annat samhälle där han kan samarbeta för att inrätta islams grund och dess rättsvetenskap och för att återuppliva Allāhs sändebuds *sunnah[^3]*.
 

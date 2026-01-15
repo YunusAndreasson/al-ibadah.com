@@ -16,7 +16,7 @@ description: 'Fråga: Får kvinnor be i församlingen som män eller måste de b
 
 **Svar:** Bönen i församlingen är en skyldighet för män, men om kvinnan ber om tillstånd att få gå till moskén, då är det ogillat att neka henne detta, även om hennes hem är bättre för henne.
 
-Det finns ingen invändan mot kvinnor som ber gemensamt i deras hem. Deras kvinnliga imam skall dock stå i raden och de får inte samma belöning som har rapporterats för män då de ber i församling.
+Det finns ingen invändan mot kvinnor som ber gemensamt i deras hem. Deras kvinnliga imam ska dock stå i raden och de får inte samma belöning som har rapporterats för män då de ber i församling.
 
 Mannen får inte överge moskén och be med familjen eller sina kvinnor. Det är mannen plikt att närvara vid bönen i moskén.
 

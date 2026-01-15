@@ -20,7 +20,7 @@ När någon döms till att vara icke-troende, då går dennes fasta och alla ann
 
 > ”Om de hade satt medhjälpare vid Hans sida skulle helt visst allt vad de åstadkommit ha gått om intet.” [Koranen 6:88]
 
-Men han bör inte uppmanas att överge fastan. Den kommer inte att leda till något annat än att hans godhet ökar och den för honom närmare religionen. Det kommer även att ingjuta fruktan i hans hjärta och då hoppas vi att han skall återvända till bönen och ångra sig för att han har övergett den.
+Men han bör inte uppmanas att överge fastan. Den kommer inte att leda till något annat än att hans godhet ökar och den för honom närmare religionen. Det kommer även att ingjuta fruktan i hans hjärta och då hoppas vi att han ska återvända till bönen och ångra sig för att han har övergett den.
 
 Genom Allāh uppnås framgång. Må frid och välsignelser vara över profeten Muhammad, hans familj och följeslagare.
 

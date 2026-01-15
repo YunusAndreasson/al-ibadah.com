@@ -8,11 +8,11 @@ categories:
 - Förståelse av islam
 original_id: 150
 description: 'Fråga: Anses dörren till ijtihād , för att formulera nya utlåtanden,
- vara öppen för vem som helst, eller måste särskilda krav uppnås för att någon skall
+ vara öppen för vem som helst, eller måste särskilda krav uppnås för att någon ska
  vara mujtahid ? Får vem som helst döma en...'
 ---
 
-**Fråga:** Anses dörren till *ijtihād[^1]*, för att formulera nya utlåtanden, vara öppen för vem som helst, eller måste särskilda krav uppnås för att någon skall vara *mujtahid[^2]*? Får vem som helst döma enligt deras åsikt, utan kunskap om tydliga bevis? Vad finns det att säga om följande *hadīth[^3]*: ”*Jag varnar er för att utfärda domar, på samma sätt som jag varnar er för Elden*.”? [*ad-Darimi*, 157]
+**Fråga:** Anses dörren till *ijtihād[^1]*, för att formulera nya utlåtanden, vara öppen för vem som helst, eller måste särskilda krav uppnås för att någon ska vara *mujtahid[^2]*? Får vem som helst döma enligt deras åsikt, utan kunskap om tydliga bevis? Vad finns det att säga om följande *hadīth[^3]*: ”*Jag varnar er för att utfärda domar, på samma sätt som jag varnar er för Elden*.”? [*ad-Darimi*, 157]
 
 **Svar:** Dörren till att utföra *ijtihād[^1]* för att finna islamiska utlåtanden förblir öppen för dem som är kvalificerade för att göra det. De måste ha kunskap om Koranen och *ahādīth[^3]*, var förmögna att förstå dem och använda dem som bevis enligt vad frågan som de utövar *ijtihād[^1]* i kräver. De måste ha kunskap i den utsträckningen att de är kunniga nog för att citera relevanta *ahādīth[^3]* som det finns konsensus kring i alla frågor, så att de inte avviker från de lärdas konsensus i deras utlåtanden. De måste ha tillräckligt med kunskap om det arabiska språket för att förstå texterna i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^4]*, och härleda samt hämta bevis från dem, för att sedan kunna ge utlåtandet enligt deras övertygelse och med vad som gör dem nöjda i deras religion.
 

@@ -30,7 +30,7 @@ Kom ihåg att Allāh den Allsmäktige säger:
 > 
 > 
 > 
-> ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske skall det gå i händer!” [Koranen 24:31]
+> ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå i händer!” [Koranen 24:31]
 > 
 > 
 > 

@@ -23,9 +23,9 @@ Allāh den Upphöjde klargör i denna vers att offer till någon annan än Honom
 
 > ”Vi har sannerligen gett dig det goda i överflöd! Be därför till din Herre och förrätta [ditt] offer!” [Koranen 108:1-2]
 
-I denna sura lär Allāh – upphöjd är Han – Sin Profet att [han skall] be och offra till Honom. Detta står i motsats till de som begått shirk[^1], som ber och slaktar för andra än Allāh. Allāh den Upphöjde säger:
+I denna sura lär Allāh – upphöjd är Han – Sin Profet att [han ska] be och offra till Honom. Detta står i motsats till de som begått shirk[^1], som ber och slaktar för andra än Allāh. Allāh den Upphöjde säger:
 
-> ”Er Herre har befallt, att ni inte skall dyrka någon annan än Honom.” [Koranen 17:23]
+> ”Er Herre har befallt, att ni inte ska dyrka någon annan än Honom.” [Koranen 17:23]
 > 
 > 
 > 
@@ -44,9 +44,9 @@ Därmed får muslimer inte uppfinna en typ av tawassul[^5] som Allāh den Upphö
 
 Och profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Den som tillför någon i denna vår fråga [islām] som inte är ifrån den, skall få det avvisat.” [*al-Bukhārī* 2697 och *Muslim* 1718]
+> ”Den som tillför någon i denna vår fråga [islām] som inte är ifrån den, ska få det avvisat.” [*al-Bukhārī* 2697 och *Muslim* 1718]
 
-Hans uttalande ”*skall få det avvisat*” innebär att Allāh inte accepterar det från den som förde in det.
+Hans uttalande ”*ska få det avvisat*” innebär att Allāh inte accepterar det från den som förde in det.
 
 Muslimer måste begränsa sig till det som Allāh har tillåtit och akta sig för folkets innovationer.
 

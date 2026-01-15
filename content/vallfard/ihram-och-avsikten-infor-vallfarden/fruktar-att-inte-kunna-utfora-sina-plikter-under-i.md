@@ -8,13 +8,13 @@ categories:
 - Ihrām och avsikten inför vallfärden
 original_id: 706
 description: 'Fråga: Om någon som har trätt in i ihrām är rädd för att på grund
- av sjukdom eller rädsla inte kunna utföra alla riterna, vad skall denne göra då? Svar: När
+ av sjukdom eller rädsla inte kunna utföra alla riterna, vad ska denne göra då? Svar: När
  denne går in i ihrām bör denne ...'
 ---
 
-**Fråga:** Om någon som har trätt in i *ihrām[^1]* är rädd för att på grund av sjukdom eller rädsla inte kunna utföra alla riterna, vad skall denne göra då?
+**Fråga:** Om någon som har trätt in i *ihrām[^1]* är rädd för att på grund av sjukdom eller rädsla inte kunna utföra alla riterna, vad ska denne göra då?
 
-**Svar:** När denne går in i *ihrām[^1]* bör denne säga: ”Om något hindrar mig, då är min plats för att träda ur *ihrām[^1]* var Du än avbryter mig.” Om en person fruktar att någon av de saker som kan hindra honom från att fullfölja vallfärden skall inträffa [som exempelvis sjukdom], då är det *sunnah[^2]* att han bestämmer ett villkor. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – beordrade Dhuba'ah bin az-Zubair bin 'Abdul-MutTālib att göra så när hon klagade inför honom om att hon var sjuk.
+**Svar:** När denne går in i *ihrām[^1]* bör denne säga: ”Om något hindrar mig, då är min plats för att träda ur *ihrām[^1]* var Du än avbryter mig.” Om en person fruktar att någon av de saker som kan hindra honom från att fullfölja vallfärden ska inträffa [som exempelvis sjukdom], då är det *sunnah[^2]* att han bestämmer ett villkor. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – beordrade Dhuba'ah bin az-Zubair bin 'Abdul-MutTālib att göra så när hon klagade inför honom om att hon var sjuk.
 
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

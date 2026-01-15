@@ -22,6 +22,6 @@ Men om vägarna är breda, asfalterade och upplysta med gatulyse hela natten och
 
 
 [^1]: Maghrib
-[^2]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen skall börja.
+[^2]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
 [^3]: Isha
 

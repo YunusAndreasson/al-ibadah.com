@@ -36,7 +36,7 @@ Han har även berättat att Allāh sagt:
 
 Därför bör en muslim dra nytta av denna möjlighet, som är Allāhs välsignelse över denne genom att låta denna få ta del av ramadan[^1]. Därmed bör denne skynda sig att till att lyda [Allāh] och denne bör undvika de onda handlingarna. Denne bör kämpa hårt för att göra allt som Allāh har gjort obligatoriskt för denne, speciellt de fem bönerna, som är islams pelare. Bönen är den största skyldigheten efter de båda vittnesmål om tro. Därför måste varje muslimsk man och kvinna vara noga med bönerna och med ödmjukhet och lugn be dem i tid.
 
-En av de viktigaste skyldigheterna för män är att be med församligen i Allāhs Hus [moskén]. Allāh har beordrat att de skall uppresas och att Hans namns skall nämnas [eller åminnas]. Allāh har sagt.
+En av de viktigaste skyldigheterna för män är att be med församligen i Allāhs Hus [moskén]. Allāh har beordrat att de ska uppresas och att Hans namns ska nämnas [eller åminnas]. Allāh har sagt.
 
 > ”Förrätta din andakt inför din Herre med ödmjukhet; fall ned på ditt ansikte [inför Honom] och böj ditt huvud tillsammans med dem böjer sina huvuden [i bön].” [Koranen 2:43]
 
@@ -46,11 +46,11 @@ Och Han den Upphöjde har sagt:
 
 Och Han den Allsmäktige har sagt:
 
-> ”Det skall gå de troende väl i händer; de som ber med ödmjukt sinne.” [Koranen 23:1-2]
+> ”Det ska gå de troende väl i händer; de som ber med ödmjukt sinne.” [Koranen 23:1-2]
 
 Allāh fortsätter i samma sura tills Han säger:
 
-> ”Och som slår vakt om bönen. De är arvtagarna som skall ta paradiset i arv och där skall förbli till evig tid.” [Koranen 23:9-11]
+> ”Och som slår vakt om bönen. De är arvtagarna som ska ta paradiset i arv och där ska förbli till evig tid.” [Koranen 23:9-11]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
@@ -78,7 +78,7 @@ Med utgångspunkt i bland annat dessa texter blir det klart att den fastande må
 
 Frågor som folk inte är medvetna om
 
-En muslim måste fasta med tro och hopp om att belönas och inte för att ses eller höras av folket eller för att följa folkets, familjens eller landets vanor. I stället är det obligatoriskt för denne att det som får denne till att fasta är dennes tro på att Allāh har gjort detta till en plikt för denne. Denne bör fasta i hopp om att Herren skall belöna för detta. När denne ber under natten är det även då en skyldighet att göra det med tro och hopp om belöningar, inte av någon annan anledning. Därför har profeten – över honom vare Allāhs frid och välsignelser – sagt:
+En muslim måste fasta med tro och hopp om att belönas och inte för att ses eller höras av folket eller för att följa folkets, familjens eller landets vanor. I stället är det obligatoriskt för denne att det som får denne till att fasta är dennes tro på att Allāh har gjort detta till en plikt för denne. Denne bör fasta i hopp om att Herren ska belöna för detta. När denne ber under natten är det även då en skyldighet att göra det med tro och hopp om belöningar, inte av någon annan anledning. Därför har profeten – över honom vare Allāhs frid och välsignelser – sagt:
 
 > ”Den som fastar under Ramadan med tro och hopp om belöningar, denne kommer att förlåtas för alla dennes tidigare synder. Och den som ber [under natten] i Ramadan med tro och hopp om belöningar, denne kommer att förlåtas för alla dennes tidigare synder. Och den som ber [nattetid] under Allmaktens Natt[^3] med tro och hopp om belöningar, denne kommer att förlåtas för alla sina tidigare synder.” [*al-Bukhārī* 2014 och *Muslim* 759-760]
 
@@ -122,7 +122,7 @@ Anledningen är även vad han har sagt i följande autentiska *hadīth[^4]*:
 
 De *ahādīth[^4]* som visar tillåtelse för att tävla och att vara framåt med att utföra olika former av godhet under denna ädla månad är många.
 
-Allāh är Den som vi ber skall hjälpa oss och alla muslimer till att göra allt som innehåller Hans välbehag och att Han accepterar vår fasta och att vi står i bön under natten. Vi ber Honom att Han ställer vår situation till rätta och att Han skyddar oss från avvikelser, prövningar och onda ingivelser. På samma sätt ber vi Honom att Han gör muslimernas ledare rättfärdiga och enar deras ord runt sanningen.
+Allāh är Den som vi ber ska hjälpa oss och alla muslimer till att göra allt som innehåller Hans välbehag och att Han accepterar vår fasta och att vi står i bön under natten. Vi ber Honom att Han ställer vår situation till rätta och att Han skyddar oss från avvikelser, prövningar och onda ingivelser. På samma sätt ber vi Honom att Han gör muslimernas ledare rättfärdiga och enar deras ord runt sanningen.
 
 Sannerligen, Han är Den som skyddar detta och Den som är kapabel att göra det.
 

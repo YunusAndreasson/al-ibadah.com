@@ -14,13 +14,13 @@ description: 'Fråga: Vilken är innebörden av följande hadīth : ”Mitt samf
 
 **Fråga:** Vilken är innebörden av följande *hadīth[^1]*: ”Mitt samfund kommer att splittras i 73 [olika grupper]. Alla kommer att vara i Helveteselden utom en grupp.” Vilken är denna grupp? Kommer de 72 olika grupperna att vara i Elden för alltid, som månggudadyrkarna?
 
-**Svar:** Det som avses med termen ”samfund” i denna *hadīth[^1]* är ”det svarande samfundet” som skall splittras i 73 [olika grupper]. Av dem är 72 avvikande, de befattar sig med innovation men inte till den grad att det innebär otro. Var och en av dessa skall plågas enligt deras innovationer och avvikelser, utom dem som Allāh ursäktar och förlåter. Deras slutliga vistelse är i Paradiset.
+**Svar:** Det som avses med termen ”samfund” i denna *hadīth[^1]* är ”det svarande samfundet” som ska splittras i 73 [olika grupper]. Av dem är 72 avvikande, de befattar sig med innovation men inte till den grad att det innebär otro. Var och en av dessa ska plågas enligt deras innovationer och avvikelser, utom dem som Allāh ursäktar och förlåter. Deras slutliga vistelse är i Paradiset.
 
 Den enda grupp [som kommer att vara säker] är *ahlus-sunnah[^2] wal-jamā’at*, som håller sig till profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* och det som han och hans följeslagare – må Allāh vara nöjd med dem – höll sig till. Det är om dem som profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”En grupp ur mitt samfund kommer att hålla sig stadiga vid sanningen, segerrika, oskadd av dem som motsäger sig dem och inte stödjer dem – tills döden eller tills Återuppståndelsedagen.” [*al-Bukhārī* 71, 3641 och *Muslim* 1920]
 
-Dem vars innovationer tar dem ur islam tillhör innovationens samfund [människosläktet i stort] och inte ”det svarande samfundet”. De skall vara i Helveteselden för evigt. Detta är den starkaste åsikten.
+Dem vars innovationer tar dem ur islam tillhör innovationens samfund [människosläktet i stort] och inte ”det svarande samfundet”. De ska vara i Helveteselden för evigt. Detta är den starkaste åsikten.
 
 Det har även sagts att termen ”samfund” i denna *hadīth[^1]* avser innovationens samfund, vilket är en generell term som inkluderar dem som profeten – över honom vare Allāhs frid och välsignelser - sändes till [människosläktet]; de som tror och de som inte tror. ”Den räddade gruppen” är ”det svarande samfundet” som enbart gäller dem som uppriktigt tror på profeten – över honom vare Allāhs frid och välsignelser – och dör i detta tillstånd. Detta är gruppen som kommer att räddas från Elden; antingen genom föregående bestraffning eller utan föregående bestraffning och deras slutgiltiga vistelse är i Paradiset.
 

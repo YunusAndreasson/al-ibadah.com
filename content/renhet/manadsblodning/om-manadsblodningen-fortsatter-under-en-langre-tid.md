@@ -7,11 +7,11 @@ categories:
 - Månadsblödning
 original_id: 1370
 description: 'Fråga: Om en kvinnas normala månadsblödning brukar vara mellan sju
- eller åtta dagar, men någon gång blir perioden längre – vad skall hon göra då? Svar: Om
+ eller åtta dagar, men någon gång blir perioden längre – vad ska hon göra då? Svar: Om
  perioden normalt varar mellan sex ell...'
 ---
 
-**Fråga:** Om en kvinnas normala månadsblödning brukar vara mellan sju eller åtta dagar, men någon gång blir perioden längre – vad skall hon göra då?
+**Fråga:** Om en kvinnas normala månadsblödning brukar vara mellan sju eller åtta dagar, men någon gång blir perioden längre – vad ska hon göra då?
 
 **Svar:** Om perioden normalt varar mellan sex eller sju dagar, för att någon gång bli åtta, nio, tio eller elva dagar – fortsätter hon med att inte be, tills hon blir ren. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – inte såg någon speciell begränsning för månadsblödningen. Allāh säger i Koranen:
 

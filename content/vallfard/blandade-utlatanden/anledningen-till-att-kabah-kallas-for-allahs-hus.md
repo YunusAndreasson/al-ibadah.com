@@ -19,5 +19,5 @@ description: 'Fråga: Varför kallas Ka’bah för ”Allāhs heliga hus”? Sva
 
 Allāh har sammankopplat det med Hans namn i en ägande form; som ett medel för att hedra, upphöja och respektera det.
 
-Det som är sammankopplat med Allāh i en ägande form är uppdelat i två typer. Antingen är det en av Hans egenskaper som Hans hörande, syn, kunskap, kraft, tal eller kommer det från Hans skapelser. Och skapelsen nämns i ägd form sammankopplad med Honom i ett hedrande syfte, som när Allāh säger: ”*Rena min Helgedom för alla som skall vandra runt den*.” [Koranen 22:26]
+Det som är sammankopplat med Allāh i en ägande form är uppdelat i två typer. Antingen är det en av Hans egenskaper som Hans hörande, syn, kunskap, kraft, tal eller kommer det från Hans skapelser. Och skapelsen nämns i ägd form sammankopplad med Honom i ett hedrande syfte, som när Allāh säger: ”*Rena min Helgedom för alla som ska vandra runt den*.” [Koranen 22:26]
 

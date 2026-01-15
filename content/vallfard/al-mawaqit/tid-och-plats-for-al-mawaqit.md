@@ -16,7 +16,7 @@ description: 'Fråga: Var är platsen och vilken är tiden för al-mawaqit när 
 
 *al-Mawaqit[^1]* i tid för vallfärden är *shawwal[^3]*, *thul-qa’dah[^4]* och de tio först dagarna i *dhul-hijjah[^5]*. Man får inte träda in i *ihrām[^6]* för vallfärden utom under denna tid. Allāh säger:
 
-> ”Vallfärden [skall fullgöras under] de kända månaderna. Den som då beger sig iväg skall så länge vallfärden varar avhålla sig från intim samvaro med kvinnor, grovt tal samt trätor och tvister.” [Koranen 2:197]
+> ”Vallfärden [ska fullgöras under] de kända månaderna. Den som då beger sig iväg ska så länge vallfärden varar avhålla sig från intim samvaro med kvinnor, grovt tal samt trätor och tvister.” [Koranen 2:197]
 
 Den som då går in i *ihrām[^6]* för vallfärden under denna tid, dennes *ihrām[^6]* är korrekt. Denne måste dock vara kvar i *ihrām[^6]* tills denne står vid Arafat[^7] under Arafat[^7]-dagen [den nionde *dhul-hijjah[^5]*].*‘Umrah* finns det ingen viss tid för. Tvärtom går det bra att utföra den under hela året. Den *‘umrah[^2]* som är bäst är den som utförs under ramadan[^8] då den [i belöningar] är likvärdig en vallfärd.
 

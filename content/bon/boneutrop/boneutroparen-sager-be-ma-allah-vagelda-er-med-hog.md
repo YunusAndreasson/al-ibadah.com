@@ -15,7 +15,7 @@ description: 'Fråga: När somliga böneutropare har ropat ut till bön säger d
 
 **Fråga:** När somliga böneutropare har ropat ut till bön säger de i mikrofonen innan de har gjort den föreskrivna åkallan[^1]: ”*Be, må Allāh vägleda er*.” Vilket är utlåtandet om detta?
 
-**Svar:** Allāh den Upphöjde säger: ”*Denna dag har Jag fullbordat det religiösa regelverket för er och skänkt er Min välsignelse i fullaste mått. Jag har beslutat att underkastelse under Guds vilja [islam] skall vara er religion*.” [Koranen 5:3]
+**Svar:** Allāh den Upphöjde säger: ”*Denna dag har Jag fullbordat det religiösa regelverket för er och skänkt er Min välsignelse i fullaste mått. Jag har beslutat att underkastelse under Guds vilja [islam] ska vara er religion*.” [Koranen 5:3]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Håll er till min och de korrekt vägledda kalifernas *sunnah[^2]* – håll fast vid den och klamra er till den med er kindtänder. Var varse om nyligen innoverad företeelse, för varje innoverad företeelse är en innovation och varje innovation är en villfarelse*.” [*Ahmad* 1:126 och 127]
 

@@ -17,7 +17,7 @@ description: 'Fråga: Född och uppfostrad som muslim har jag aldrig lämnat bö
 
 **Svar:** Ånger är tillräckligt för dig. Du behöver varken ta igen bönerna eller fastan och det finns ingen gottgörelse för dig. Anledningen är att utelämnandet av den obligatoriska bönen är att inte tro, även om du inte förnekade att den är obligatorisk. Detta enligt den mest korrekta åsikten som de lärde har. Men om en person förnekar att den är obligatorisk finns det konsensus om att han inte tror. När den icke-troende accepterar islam behöver han inte ta igen några obligatoriska rättigheter om de är Allāhs. Detta för att Han i Koranen säger:
 
-> ”Om ni gör slut på [ert motstånd mot tron] skall det förflutna förlåtas er.” [Koranen 8:38]
+> ”Om ni gör slut på [ert motstånd mot tron] ska det förflutna förlåtas er.” [Koranen 8:38]
 
 Allāhs sändebud har sagt:
 

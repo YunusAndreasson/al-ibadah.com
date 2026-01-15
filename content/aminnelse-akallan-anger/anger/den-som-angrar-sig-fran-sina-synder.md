@@ -17,7 +17,7 @@ description: 'Fråga: Vilken, ädle shaykh, är din åsikt om någon som avsiktl
 
 **Svar:** Den som inte ber eller fastar men som sedan ångrar sig behöver inte ta igen den bön och fasta han förlorat. Anledningen är att övergivandet av bönen är att inte tro och detta tar en person ur islam, även om personen inte förnekar att den är en skyldighet. Detta enligt den mest korrekta åsikten som de lärda har. Allāh den Allsmäktige säger:
 
-> ”Om ni gör slut på [ert motstånd mot tron] skall det förflutna förlåtas er.” [Koranen 8:38]
+> ”Om ni gör slut på [ert motstånd mot tron] ska det förflutna förlåtas er.” [Koranen 8:38]
 
 Allāhs sändebud har sagt:
 
@@ -30,7 +30,7 @@ Det finns många bevis för detta, exempelvis har Allāh sagt:
 > 
 > 
 > 
-> ”Troende! Vänd er i uppriktig ånger [över era synder] till Gud! Kanske skall er Herre ur er [bok] utplåna era dåliga handlingar och föra er till lustgårdar, vattnade av bäckar.” [Koranen 66:8]
+> ”Troende! Vänd er i uppriktig ånger [över era synder] till Gud! Kanske ska er Herre ur er [bok] utplåna era dåliga handlingar och föra er till lustgårdar, vattnade av bäckar.” [Koranen 66:8]
 
 Profeten har även sagt:
 

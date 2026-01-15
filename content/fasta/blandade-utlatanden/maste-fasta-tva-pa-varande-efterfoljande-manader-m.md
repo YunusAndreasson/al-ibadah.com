@@ -12,7 +12,7 @@ description: 'Fråga: Jag behövde gottgöra mig genom att fasta två på varand
  sedan bröt jag min fasta under ...'
 ---
 
-**Fråga:** Jag behövde gottgöra mig genom att fasta två på varandra efterföljande månader och jag fastade dem, *alhamdulillah*. Men jag fastade hela den första månaden, sedan bröt jag min fasta under två dagar och sedan fullbordade jag fastan. Innan den sista månaden hade gått till ända blev jag sjuk under tre dagar så jag bröt min fasta och tog därefter igen dessa dagar. Sedan sade några till mig att jag måste fasta två månader i sträck igen men utan att bryta fastan däremellan. Vänligen, vägled mig till vad jag skall göra.
+**Fråga:** Jag behövde gottgöra mig genom att fasta två på varandra efterföljande månader och jag fastade dem, *alhamdulillah*. Men jag fastade hela den första månaden, sedan bröt jag min fasta under två dagar och sedan fullbordade jag fastan. Innan den sista månaden hade gått till ända blev jag sjuk under tre dagar så jag bröt min fasta och tog därefter igen dessa dagar. Sedan sade några till mig att jag måste fasta två månader i sträck igen men utan att bryta fastan däremellan. Vänligen, vägled mig till vad jag ska göra.
 
 **Svar:** Om du bröt fastan på grund av en föreskriven anledning, som sjukdom, och du sedan skyndade dig med att fullborda de båda månaderna när sjukdomen gått över, då behöver du inte ta igen och din fasta är korrekt. Men om du har brutit fastan utan en föreskriven anledning måste du upprepa fastan av dessa båda månader, 60 på varandra efterföljande dagar, vilket verserna och *ahādīth[^1]* bevisar.
 

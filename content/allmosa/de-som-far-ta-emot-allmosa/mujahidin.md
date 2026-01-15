@@ -20,7 +20,7 @@ Men vem är en *mujāhid* för Allāhs skull? En mujāhid för Allāhs skull def
 
 Profeten – över honom vare Allāhs frid och välsignelser – har gett ett rättvist och värdefullt mått [över vem som är *mujāhid*] när han sagt:
 
-> ”Den som strider för att Allāhs ord [islam] skall vara överlägset strider för Allāhs skull.” [*al-Bukhārī* 2810]
+> ”Den som strider för att Allāhs ord [islam] ska vara överlägset strider för Allāhs skull.” [*al-Bukhārī* 2810]
 
 Den som då strider för detta mål – att proklamera Allāhs ord, att tillämpa Hans lag och att etablera Hans religion i de icke-troendes länder – denne gör det för Allāhs skull och denne kan få pengar från allmosefonderna. Antingen får denne pengar som kan användas under djīhad eller till utrustning för att göra de stridande redo.
 

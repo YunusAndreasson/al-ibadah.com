@@ -17,7 +17,7 @@ description: 'Fråga: Vilka är ahlus-sunnah wal-jamā’ats grundläggande tros
 
 **Svar:** *Ahlus-sunnah[^1] wal-jamā’ats* grundsats när det gäller trosprincipiella frågor, och andra frågor som rör religionen, är att följa Allāhs skrift, Hans sändebuds – över honom vare Allāhs frid och välsignelser – *sunnah*[^1] och vägledning samt den *sunnah[^1]* som de rättfärdiga kaliferna följde. Detta är enligt Allāhs den Upphöjdes ord:
 
-> ”Säg [Muhammad]: ’Om ni älskar Gud, följ mig och Gud skall älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
+> ”Säg [Muhammad]: ’Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
 > 
 > 
 > 

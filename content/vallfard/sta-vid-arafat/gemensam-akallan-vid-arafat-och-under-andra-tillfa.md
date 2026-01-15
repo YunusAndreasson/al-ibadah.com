@@ -15,7 +15,7 @@ description: 'Fråga: Vilket är utlåtandet om att samlas för åkallan under A
 
 **Fråga:** Vilket är utlåtandet om att samlas för åkallan[^1] under Arafat[^2]-dagen, oberoende av om det är just där eller vid någon annan plats?
 
-**Svar:** Under denna stora dag är det bästa för pilgrimen att anstränga sig med åkallan[^1] och att vara ödmjuk inför Allāh. Denne bör även höja sina händer. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – under denna dag fram till solnedgången ansträngde sig med åkallan[^1] och åminnelse[^3] av Allāh. Detta skedde när han hade bettmiddagsbönen[^4] och eftermiddagsbönen[^5] tillsammans och förkortade i 'Uranah-dalen. Sedan gick han till platsen där man står och han stod där bland klipporna för åkallan[^1] [platsen kallas Jabalul-Āl]. Han ansträngde sig i åkallan[^1] och åminnelse[^3] av Allāh. Han gjorde detta med händerna höjda och i riktning mot *qiblah[^6]* samtidigt som han satt på en honkamel. Allāh har föreskrivit att tjänarna skall åkalla med ödmjukhet, i hemlighet och visandes ödmjukhet inför Honom. Detta med hopp och fruktan. Denna plats är en av de bästa platser för åkallan[^1]. Allāh den Upphöjde har sagt: ”*Åkalla er Herre i det tysta med ödmjukt sinne; Han älskar inte dem som går till överdrift*.” [Koranen 7:55]
+**Svar:** Under denna stora dag är det bästa för pilgrimen att anstränga sig med åkallan[^1] och att vara ödmjuk inför Allāh. Denne bör även höja sina händer. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – under denna dag fram till solnedgången ansträngde sig med åkallan[^1] och åminnelse[^3] av Allāh. Detta skedde när han hade bettmiddagsbönen[^4] och eftermiddagsbönen[^5] tillsammans och förkortade i 'Uranah-dalen. Sedan gick han till platsen där man står och han stod där bland klipporna för åkallan[^1] [platsen kallas Jabalul-Āl]. Han ansträngde sig i åkallan[^1] och åminnelse[^3] av Allāh. Han gjorde detta med händerna höjda och i riktning mot *qiblah[^6]* samtidigt som han satt på en honkamel. Allāh har föreskrivit att tjänarna ska åkalla med ödmjukhet, i hemlighet och visandes ödmjukhet inför Honom. Detta med hopp och fruktan. Denna plats är en av de bästa platser för åkallan[^1]. Allāh den Upphöjde har sagt: ”*Åkalla er Herre i det tysta med ödmjukt sinne; Han älskar inte dem som går till överdrift*.” [Koranen 7:55]
 
 Och Han den Upphöjde har sagt: ”*Och – [du som är troende] – åkalla i tysthet din Herre morgon och afton, ödmjukt och med fruktan*.” [Koranen 7:205]
 
@@ -23,7 +23,7 @@ I *Sahīh al-Bukhārī* och *Sahīh Muslim* återges att Abū Mūsa al-Ash'ari h
 
 Allāh prisade Zakariya för detta. Han den Upphöjde sade: ”*[Detta är] en berättelse om hur din Herre bevisade Sin tjänare Sakarias Sin nåd. När han i en tyst [innerlig] bön bad till sin Herre*.” [Koranen 19:2-3]
 
-Allāh har även sagt: ”*Er Herre säger: 'Be till Mig, så skall Jag besvara er [bön]*.” [Koranen 40:60]
+Allāh har även sagt: ”*Er Herre säger: 'Be till Mig, så ska Jag besvara er [bön]*.” [Koranen 40:60]
 
 Verserna och *ahādīth[^7]* som uppmuntrar till åminnelse[^3] av Allāh och åkallan[^1] är många. Det är speciellt förskrivet att göra mycket åkallan[^1] och åminnelse[^3] av Allāh på denna plats [Arafat[^2]]. Detta med rena intentioner, ett närvarande hjärta samt med hopp och fruktan. Det är också föreskrivet att höja röster när man gör det eller att man säger *talbiyyah[^8]* som profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare gjorde, enligt vad vi känner till.
 

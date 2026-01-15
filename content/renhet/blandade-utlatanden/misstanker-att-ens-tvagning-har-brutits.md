@@ -6,12 +6,12 @@ categories:
 - Renhet (Tahārah)
 - Blandade utlåtanden
 original_id: 550
-description: 'Fråga: Vad skall en person göra som tvivlar på om hans tvagning brutits? Svar: Om
+description: 'Fråga: Vad ska en person göra som tvivlar på om hans tvagning brutits? Svar: Om
  en person tvivlar på om hans tvagning har brutits eller inte så gäller hans ursprungliga
  tillstånd av renhet o...'
 ---
 
-**Fråga:** Vad skall en person göra som tvivlar på om hans tvagning[^1] brutits?
+**Fråga:** Vad ska en person göra som tvivlar på om hans tvagning[^1] brutits?
 
 **Svar:** Om en person tvivlar på om hans tvagning[^1] har brutits eller inte så gäller hans ursprungliga tillstånd av renhet och tvivlen har ingen inverkan. Detta baseras på profeten – över honom vare Allāhs frid och välsignelser – uttalande när en man kom och frågade honom om känslor i magen under bönen: ”*Lämna inte [bönen] förrän du hör ett ljud eller du känner en lukt*.”
 

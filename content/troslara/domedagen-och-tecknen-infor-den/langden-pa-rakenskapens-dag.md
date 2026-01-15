@@ -22,16 +22,16 @@ Denna plåga kommer att drabba de icke-troende under en dag vars längd är lika
 
 I *Sahīh Muslim* finns en *hadīth[^1]* återgiven av Abū Hurairah i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
 
-> ”Det finns ingen ägare av guld eller silver som inte betalar vad denne skall för dem [allmosa] utan att när Återuppståndelsens Dag kommer så kommer plattor av eld kommer att förberedas för denne [för att] märka dennes panna, sidor och rygg. Varje gång de svalnar kommer de att hettas upp på nytt, under en Dag vars längd är lika lång som 50 000 år, tills domen avkunnats bland folket.”
+> ”Det finns ingen ägare av guld eller silver som inte betalar vad denne ska för dem [allmosa] utan att när Återuppståndelsens Dag kommer så kommer plattor av eld kommer att förberedas för denne [för att] märka dennes panna, sidor och rygg. Varje gång de svalnar kommer de att hettas upp på nytt, under en Dag vars längd är lika lång som 50 000 år, tills domen avkunnats bland folket.”
 
 Denna långa dag kommer att vara svår för de icke-troende. Allāh säger:
 
-> ”Och för dem som förnekade sanningen skall detta bli en Dag av djupt elände.” [Koranen 25:26]
+> ”Och för dem som förnekade sanningen ska detta bli en Dag av djupt elände.” [Koranen 25:26]
 > 
 > 
 > 
 > 
-> ”När det blåses i basunen har en svår Dag randats för dem som [ständigt] förnekade sanningen, och ingen lättnad skall ges dem!” [Koranen 74:9-10]
+> ”När det blåses i basunen har en svår Dag randats för dem som [ständigt] förnekade sanningen, och ingen lättnad ska ges dem!” [Koranen 74:9-10]
 
 Det som kan förstås från dessa båda verser är att det kommer att bli lätt för den troende, och så är sannerligen fallet. Denna långa Dag med dess otrevligheter och allvarliga frågor kommer Allāh att göra lätt för den troende, men den kommer att vara svår för den icke-troende. Jag ber Allāh att han gör mig och mina muslimska bröder till dem som Han kommer att göra det lätt för på Återuppståndelsens Dag.
 

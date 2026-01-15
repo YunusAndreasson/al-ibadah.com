@@ -13,7 +13,7 @@ description: 'Fråga: Några som har memorerat Koranen i Marocko livnär sig på
  Koranen, utan att begrunda dess mening eller at...'
 ---
 
-**Fråga:** Några som har memorerat Koranen i Marocko livnär sig på att recitera den. Så fort det finns en stor middag så kommer de till den för att läsa Koranen, utan att begrunda dess mening eller att respektera hur den skall reciteras. De närvar vid sådana fester endast för att tjäna pengar och få gåvor från de som söker välsignelser. När de har samlat in dessa gåvor delar de dem mellan sig själva, men fattiga får inget.
+**Fråga:** Några som har memorerat Koranen i Marocko livnär sig på att recitera den. Så fort det finns en stor middag så kommer de till den för att läsa Koranen, utan att begrunda dess mening eller att respektera hur den ska reciteras. De närvar vid sådana fester endast för att tjäna pengar och få gåvor från de som söker välsignelser. När de har samlat in dessa gåvor delar de dem mellan sig själva, men fattiga får inget.
 
 Vilket är det islamiska utlåtandet om välgörenheten som de samlar in och delar mellan sig själva samt den recitation de brukar? Jag har läst att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
@@ -23,7 +23,7 @@ Vilket är det islamiska utlåtandet om välgörenheten som de samlar in och del
 
 > ”Säg [Muhammad:] ¨Jag begär ingen lön av er för detta [budskap] och jag är inte en av dem som ger sig ut för att vara vad de inte är.” [Koranen 38:86]
 
-**Svar:** Recitation av Koranen är en […] och ett medel för att söka Allāhs närhet. En muslim antas göra detta för Allāhs skull och för Hans belöningar. Man skall inte förvänta sig belöningar eller uppskattning från sina medmänniskor.
+**Svar:** Recitation av Koranen är en […] och ett medel för att söka Allāhs närhet. En muslim antas göra detta för Allāhs skull och för Hans belöningar. Man ska inte förvänta sig belöningar eller uppskattning från sina medmänniskor.
 
 Det har aldrig rapporterats att de rättfärdiga föregångarna hyrde någon för att läsa Koranen under deras ”fester”. Det har heller inte rapporterats att de lärde har beordrat eller ens tillåtet detta. Och vidare har det inte rapporterats att någon av dem har tagit betalt för att recitera Koranen under en glädjefull sammankomst eller vid något annat tillfälle. I stället har de läst Allāhs skrift och varit förväntansfulla över vad Han har förberett för dem.
 
@@ -45,7 +45,7 @@ Har man efter att ha gjort sitt bästa inte förmåga att förstå Koranen, då 
 
 > ”Den som är duktig på att läsa Koranen kommer att vara i följe med hedervärda och lydiga änglar, medan den som läser den med svårighet kommer att få dubbla belöningar.” [*Muslim* 798, *Ibn Mājah* 3779 och *Ahmad* 6:98, 170 och 266]
 
-Den fattige får ta emot välgörenhet för att det skall täcka dennes behov, men om denne tar betalt för att läsa Koranen eller för att predika, då är de inte tillåtet. Det är heller inte tillåtet att ge sådana pengar i hopp om att få välsignelser eller för att någon skall åkalla för en. Muslimerna under det tre första generationerna vars förträfflighet profeten – över honom vare Allāhs frid och välsignelser – har gått i god för gjorde inte så här.
+Den fattige får ta emot välgörenhet för att det ska täcka dennes behov, men om denne tar betalt för att läsa Koranen eller för att predika, då är de inte tillåtet. Det är heller inte tillåtet att ge sådana pengar i hopp om att få välsignelser eller för att någon ska åkalla för en. Muslimerna under det tre första generationerna vars förträfflighet profeten – över honom vare Allāhs frid och välsignelser – har gått i god för gjorde inte så här.
 
 Innebörden av: ”*Jag begär ingen lön av er för detta [budskap]*.” [Koranen 38:86]
 

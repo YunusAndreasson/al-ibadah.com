@@ -27,9 +27,9 @@ Hadithen ovan har samma betydelse som följande *hadīth[^1]*: ”*En mabrur-haj
 
 Den är *marbur* när man utför skyldigheterna på ett perfekt sätt, överger syndfulla och olydiga handlingar utan att fortsätta med några av dem. Därmed måste den troende, oberoende av om denne är pilgrim eller inte, undvika alla syndiga handlingar och, med anledning av dem, skynda sig att ångra sig inför Allāh. Denne måste överge dem och vara uppriktigt bestämd att inte fortsätta med dem. Detta för att hedra Allāh och i längtan efter att nå det som finns hos Honom.
 
-En perfekt ånger, om det rör en rätt som tillhör någon eller något i skapelsen, sker när denna eller detta får sin rätt [av den som har överträtt denna rätt] eller ber om att få bli befriad från den. Allāh säger: ”*Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske skall det gå er väl i händer!*” [Koranen 24:31]
+En perfekt ånger, om det rör en rätt som tillhör någon eller något i skapelsen, sker när denna eller detta får sin rätt [av den som har överträtt denna rätt] eller ber om att få bli befriad från den. Allāh säger: ”*Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå er väl i händer!*” [Koranen 24:31]
 
-Och Han säger: ”*Troende! Vänd er i uppriktig ånger [över era synder] till Gud! Kanske skall er Herre ur er [bok] utplåna era dåliga handlingar och föra er till lustgårdar*.” [Koranen 66:8]
+Och Han säger: ”*Troende! Vänd er i uppriktig ånger [över era synder] till Gud! Kanske ska er Herre ur er [bok] utplåna era dåliga handlingar och föra er till lustgårdar*.” [Koranen 66:8]
 
 Den som ångrar sig uppriktigt har då nått framgång och Allāh kommer att skriva av dennes synder och låta denne träda in i Paradiset.
 

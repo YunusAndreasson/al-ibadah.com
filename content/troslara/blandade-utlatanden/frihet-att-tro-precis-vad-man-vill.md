@@ -17,11 +17,11 @@ description: 'Fråga: Vi hör ofta talas om uttrycket tankefrihet. Det är ett k
 
 **Svar:** Vår kommentar är att den som säger att det är tillåtet att tro vad man vill och ha frihet att välja religion, denne är en icke-troende. Den som tror att det är tillåtet att följa en annan religion än Muhammads, det är någon som inte tror på Allāh den Allsmäktige och som måste ångra sig. Gör denne så är allt frid och fröjd men om inte, då måste denne avrättas.
 
-Religioner är inte koncept utan de är uppenbarelser från Allāh den Allsmäktige som Han sänder ned till Sina sändebud för att de som tjänar Honom skall följa dem. Detta ord, jag menar ordet koncept, som avser religionen bör plockas bort från ordbruket i islamiska böcker. Det leder till en felaktig innebörd. Det sägs att islam är ett koncept, att *an-Nasraniyyah* är ett koncept och att judenomen är ett koncept. Med *an-Nasraniyyah* avser jag dem som kallar till kristendomen. Detta leder till iden att dessa lagstiftelser enbart är jordiskt tankegods eller att de är koncept som antas av den som vill göra så. Faktum är att de himmelska religionerna är religioner från Allāh den Allsmäktige som människan måste tro på som uppenbarelser från Honom genom vilka Hans skapelser dyrkar Honom. Det är inte tillåtet att beskriva dem som koncept.
+Religioner är inte koncept utan de är uppenbarelser från Allāh den Allsmäktige som Han sänder ned till Sina sändebud för att de som tjänar Honom ska följa dem. Detta ord, jag menar ordet koncept, som avser religionen bör plockas bort från ordbruket i islamiska böcker. Det leder till en felaktig innebörd. Det sägs att islam är ett koncept, att *an-Nasraniyyah* är ett koncept och att judenomen är ett koncept. Med *an-Nasraniyyah* avser jag dem som kallar till kristendomen. Detta leder till iden att dessa lagstiftelser enbart är jordiskt tankegods eller att de är koncept som antas av den som vill göra så. Faktum är att de himmelska religionerna är religioner från Allāh den Allsmäktige som människan måste tro på som uppenbarelser från Honom genom vilka Hans skapelser dyrkar Honom. Det är inte tillåtet att beskriva dem som koncept.
 
 Den som tror att det är tillåtet att följa vilken religion man vill, denne är inte någon som tror på Allāh den Allsmäktige. Detta beror på att Han den Upphöjde säger:
 
-> ”Om någon vill anta en religion som inte innebär underkastelse under Guds vilja kommer detta att vägras honom, och i nästa liv skall han stå bland förlorarna.” [Koranen 3:85]
+> ”Om någon vill anta en religion som inte innebär underkastelse under Guds vilja kommer detta att vägras honom, och i nästa liv ska han stå bland förlorarna.” [Koranen 3:85]
 > 
 > 
 > 

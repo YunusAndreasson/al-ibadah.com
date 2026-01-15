@@ -12,7 +12,7 @@ description: 'Fråga: Är det tillåtet att slå ihop kvällsbönen och nattbön
  be kvällsbönen och nattbönen[^1] tillsammans för ...'
 ---
 
-**Fråga:** Är det tillåtet att slå ihop kvällsbönen[^1] och nattbönen[^2] under regniga kvällar när det finns mycket lera på vägen till moskén? Får en affärsman be kvällsbönen[^1] och nattbönen[^2] tillsammans för att han skall kunna hålla sin affär öppen?
+**Fråga:** Är det tillåtet att slå ihop kvällsbönen[^1] och nattbönen[^2] under regniga kvällar när det finns mycket lera på vägen till moskén? Får en affärsman be kvällsbönen[^1] och nattbönen[^2] tillsammans för att han ska kunna hålla sin affär öppen?
 
 **Svar:** Det är tillåtet att slå ihop de båda kvällsbönerna på grund av regn om det är ihållande och hårt, om vägarna är oupplysta, fulla av lera samt det blir halt och om det är mycket kallt.
 

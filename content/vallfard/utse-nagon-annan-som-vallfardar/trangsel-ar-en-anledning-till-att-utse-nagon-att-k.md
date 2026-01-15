@@ -14,5 +14,5 @@ description: 'Fråga: Får en kvinna utse någon som kastar stenarna på pelarna
 
 **Fråga:** Får en kvinna utse någon som kastar stenarna på pelarna åt henne? Hon är rädd för trängseln. Hennes vallfärd är den obligatoriska. Måste hon kasta stenarna själv?
 
-**Svar:** En kvinna får utse någon till att kasta stenarna om det är trängsel. Detta även om hennes vallfärd är obligatorisk. Anledningen kan vara att hon är sjuk, svag eller gravid [och barnet som hon bär måste skyddas]. En anledning kan även vara att hennes heder och värdighet skall skyddas.
+**Svar:** En kvinna får utse någon till att kasta stenarna om det är trängsel. Detta även om hennes vallfärd är obligatorisk. Anledningen kan vara att hon är sjuk, svag eller gravid [och barnet som hon bär måste skyddas]. En anledning kan även vara att hennes heder och värdighet ska skyddas.
 

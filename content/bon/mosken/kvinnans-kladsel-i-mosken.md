@@ -13,7 +13,7 @@ description: 'Fråga: Ett antal kvinnor vid islamiska center har inte en korrekt
 
 **Fråga:** Ett antal kvinnor vid islamiska center har inte en korrekt islamisk slöja. Om de ansvariga vid centret är för hårda mot dem kommer de inte tillbaka för att lära sig sin religion och resultatet blir att deras tro försvagas.
 
-Är det lämpligt att diskutera detta med dem gradvis genom att försiktigt ge råd, även om de inte följer dem? Eller är det bättre att insistera på att de skall bära en komplett slöja, även om det leder till att de flesta av dem inte skulle komma fler gånger?
+Är det lämpligt att diskutera detta med dem gradvis genom att försiktigt ge råd, även om de inte följer dem? Eller är det bättre att insistera på att de ska bära en komplett slöja, även om det leder till att de flesta av dem inte skulle komma fler gånger?
 
 **Svar:** Enligt min åsikt, bör du göra rum för och välkomna dem som kan tänkas komma, samtidigt som du gång på gång ger råd. Om de följer det som är obligatorisk rörande slöjan är det en välsignelse för alla. Därför bör vi inte förbjuda en kvinna utan komplett slöja att komma till moskén där kvinnor samlas, då det finns nytta i detta för henne.
 

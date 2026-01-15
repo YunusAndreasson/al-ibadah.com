@@ -15,13 +15,13 @@ description: 'Fråga: Vilket är utlåtandet om någon som växer upp utan att k
 
 **Fråga:** Vilket är utlåtandet om någon som växer upp utan att känna till något mer än bönen och de fem pelarna, och som fullgör dem, men offrar till *jinn[^1]* samt åkallar[^2] dem när han behöver hjälp? Han känner inte till att islam förbjuder detta. Ursäktas han på grund av hans okunskap? Kan det sägas att han är en månggudadyrkare[^3] innan frågan är klar för honom?
 
-**Svar:** De som är insatta i kunskapen om *tawhīd[^4]* måste klargöra för honom att det är en sorts större *shirk[^5]* att offra till någon annan än Allāh, som jinn[^1], samt att detta tar en ur islam. Det är också en sorts större *shirk[^5]* att åkalla dem för att de skall uppfylla ens behov. Även detta tar honom ur islam.
+**Svar:** De som är insatta i kunskapen om *tawhīd[^4]* måste klargöra för honom att det är en sorts större *shirk[^5]* att offra till någon annan än Allāh, som jinn[^1], samt att detta tar en ur islam. Det är också en sorts större *shirk[^5]* att åkalla dem för att de ska uppfylla ens behov. Även detta tar honom ur islam.
 
-Detta beror på att båda dessa former av dyrkan skall utföras för Allāh. Att tillägna dem någon annan än Allāh är större *shirk[^5]*.
+Detta beror på att båda dessa former av dyrkan ska utföras för Allāh. Att tillägna dem någon annan än Allāh är större *shirk[^5]*.
 
 Allāh den Upphöjde säger:
 
-> ”Säg: Min bön och all min andakt, mitt liv och min död tillhör Gud, välrdarnas Herre, Han som inte har någon vid Sin sida; till detta har jag kallats och jag är den förste av dem som har underkastat sig Guds vilja. Säg: 'Skulle jag söka en annan Herre än Gud, Han som är Herre över allt som är?' Det [onda] som en människa har gjort skall läggas henne ensam till last; och på ingen bärare av bördor skall läggas en annans börda. Ni skall en Dag vända tillbaka till er Herre; och Han skall upplysa er om allt det ni var oense om.” [Koranen 162-164]
+> ”Säg: Min bön och all min andakt, mitt liv och min död tillhör Gud, välrdarnas Herre, Han som inte har någon vid Sin sida; till detta har jag kallats och jag är den förste av dem som har underkastat sig Guds vilja. Säg: 'Skulle jag söka en annan Herre än Gud, Han som är Herre över allt som är?' Det [onda] som en människa har gjort ska läggas henne ensam till last; och på ingen bärare av bördor ska läggas en annans börda. Ni ska en Dag vända tillbaka till er Herre; och Han ska upplysa er om allt det ni var oense om.” [Koranen 162-164]
 
 Och Han säger:
 

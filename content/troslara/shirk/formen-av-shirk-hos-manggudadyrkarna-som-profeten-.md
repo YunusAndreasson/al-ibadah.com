@@ -31,7 +31,7 @@ Månggudadyrkarna brukade dyrka andra jämsides med Allāh. Han den Välsignades
 
 Det som avses här är i dyrkan av Honom. Allāh den Upphöjde säger:
 
-> ”Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden skall bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [Koranen 5:72]
+> ”Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden ska bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [Koranen 5:72]
 > 
 > 
 > 
@@ -41,7 +41,7 @@ Det som avses här är i dyrkan av Honom. Allāh den Upphöjde säger:
 > 
 > 
 > 
-> ”Er Herre säger: ’Be till Mig, så skall Jag besvara er [bön]. De som håller sig för goda för att tjäna Mig skall gå med böjt huvud in i helvetet.” [Koranen 40:60]
+> ”Er Herre säger: ’Be till Mig, så ska Jag besvara er [bön]. De som håller sig för goda för att tjäna Mig ska gå med böjt huvud in i helvetet.” [Koranen 40:60]
 
 I sura *al-Ikhlas* säger Allāh den Upphöjde:
 

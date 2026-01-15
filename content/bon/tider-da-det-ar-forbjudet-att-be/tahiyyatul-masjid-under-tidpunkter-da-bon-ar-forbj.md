@@ -8,11 +8,11 @@ categories:
 - Tider då det är förbjudet att be
 original_id: 1506
 description: 'Fråga: Det talas mycket om hälsningsbönen till moskén. Vissa säger
- att man inte skall göra den vid de tidpunkter då det är förbjudet att be, som när
+ att man inte ska göra den vid de tidpunkter då det är förbjudet att be, som när
  solen går upp och ned. Andra säger att det är t...'
 ---
 
-**Fråga:** Det talas mycket om hälsningsbönen till moskén[^1]. Vissa säger att man inte skall göra den vid de tidpunkter då det är förbjudet att be, som när solen går upp och ned. Andra säger att det är tillåtet då anledningarna till det inte har begränsats genom tidpunkter och att den bör göras även om solen är halvt nere. Jag ber om en detaljerad förklaring till detta.
+**Fråga:** Det talas mycket om hälsningsbönen till moskén[^1]. Vissa säger att man inte ska göra den vid de tidpunkter då det är förbjudet att be, som när solen går upp och ned. Andra säger att det är tillåtet då anledningarna till det inte har begränsats genom tidpunkter och att den bör göras även om solen är halvt nere. Jag ber om en detaljerad förklaring till detta.
 
 **Svar:** Det finns vissa oenigheter bland de lärde. Den korrekta åsikten är dock att hälsningsbönen till moskén[^1] är tillåten vid alla tidpunkter, även efter gryningsbönen[^2] och eftermiddagsbönen[^3]. Detta baseras på den generella betydelsen i profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Om någon går in i moskén, då bör han inte sätta sig förrän han har bett två bönecykler[^4]*.” [*al-Bukhārī* 1163 och *Muslim* 714]
 

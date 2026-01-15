@@ -19,11 +19,11 @@ description: 'Fråga: Jag har hört att de lärde säger att den som har avlidit
 
 Enligt min lilla förståelse kommer själen att återvända till dess Herre när den har lämnat kroppen och jag ser inte att själen kommer att vara med sin kropp i graven, i ett tillstånd av lugn och bekvämlighet. Allāh säger även:
 
-> ”De skall säga: 'Herre! Två gånger har Du låtit oss dö och två gånger har Du kallat oss till liv; finns det en väg ut [ur detta], nu när vi har erkänt våra synder?” [Koranen 40:11]
+> ”De ska säga: 'Herre! Två gånger har Du låtit oss dö och två gånger har Du kallat oss till liv; finns det en väg ut [ur detta], nu när vi har erkänt våra synder?” [Koranen 40:11]
 
 Jag förstår även från denna vers att döden kommer till oss två gånger: en gång under spermastadiet och en gång när själen lämnar kroppen. Jag förstår också att liv ges till oss två gånger: en gång i moderns sköte samt en gång vid Återuppståndelsen. Jag ser i dessa verser inget som bevisar straffet i graven. Allāh den Upphöjde säger:
 
-> ”Och de skall jämra sig och ropa: 'Vem har väckt oss ur vår djupa sömn?'” [Koranen 36:52]
+> ”Och de ska jämra sig och ropa: 'Vem har väckt oss ur vår djupa sömn?'” [Koranen 36:52]
 
 Detta bevisar att de icke-troende sover och sömn i graven omöjliggör ett straff.
 
@@ -39,11 +39,11 @@ Detta beror på att han inte talar från sina egna åsikter utan han föreskrive
 
 Generellt sett är lydnaden mot honom och den lag som han förde med sig ett bevis för ens tro och kärlek till Allāh. Resultaten av detta är Allāhs kärlek i retur och förlåtelse från Honom för dem som lyder. Allāh säger:
 
-> ”Säg [Muhammad]: 'Om ni älskar Gud, följ mig och Gud skall älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
+> ”Säg [Muhammad]: 'Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
 
 Allāh den Upphöjde har kommenderat oss att lyda honom och Han har slagit fast att lyda honom är att Allāh. Han den Upphöjde säger:
 
-> ”Säg: 'Lyd Gud och Sändebudet.' Men om de vänder ryggen till [skall de veta att] Gud inte är vän till dem som förnekar sanningen.” [Koranen 3:32]
+> ”Säg: 'Lyd Gud och Sändebudet.' Men om de vänder ryggen till [ska de veta att] Gud inte är vän till dem som förnekar sanningen.” [Koranen 3:32]
 
 Han säger:
 
@@ -53,19 +53,19 @@ Och Han säger:
 
 > ”Den som lyder Sändebudet lyder Gud; och dem som vänder honom ryggen [bör veta att] du inte är sänd att vaka över dem.” [Koranen 4:80]
 
-Det finns andra verser i Koranen som kommenderar lydnad av profeten – över honom vare Allāhs frid och välsignelser – och att det som han har fört med sig skall accepteras och handlas efter. Därmed är profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* en giltig källa för bevis i frågor om tro och handling, precis som verserna i Koranen är giltiga källor som utlåtanden kan bekräftas från enligt reglerna i det arabiska språket och det sätt som araberna förstår sitt språk på.
+Det finns andra verser i Koranen som kommenderar lydnad av profeten – över honom vare Allāhs frid och välsignelser – och att det som han har fört med sig ska accepteras och handlas efter. Därmed är profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* en giltig källa för bevis i frågor om tro och handling, precis som verserna i Koranen är giltiga källor som utlåtanden kan bekräftas från enligt reglerna i det arabiska språket och det sätt som araberna förstår sitt språk på.
 
 Straffet för de icke-troende i graven är logiskt och möjligt. I Allāhs ord finns bevis för att det inträffar:
 
-> ”Och Gud skyddade honom för deras onda anslag, men ringen av lidande slöts kring Faraos anhang. Morgon och afton förs de fram till Elden och den Dag då den Yttersta stunden är här [skall änglarna säga:] 'För in Faraos anhang [och låt dem utstå] det strängaste av alla straff!'” [Koranen 40:45-46]
+> ”Och Gud skyddade honom för deras onda anslag, men ringen av lidande slöts kring Faraos anhang. Morgon och afton förs de fram till Elden och den Dag då den Yttersta stunden är här [ska änglarna säga:] 'För in Faraos anhang [och låt dem utstå] det strängaste av alla straff!'” [Koranen 40:45-46]
 
 Detta är ett klart bevis för straffet i graven genom Elden. Det kommer ju inte att finnas någon morgon eller eftermiddag på Återuppståndelsens Dag och Allāh säger ju i slutet av versen:
 
-> ”Den Dag då den Yttersta stunden är här [skall änglarna säga:] 'För in Faraos anhang [och låt dem utstå] det strängaste av alla straff!'” [Koranen 40:46]
+> ”Den Dag då den Yttersta stunden är här [ska änglarna säga:] 'För in Faraos anhang [och låt dem utstå] det strängaste av alla straff!'” [Koranen 40:46]
 
 Detta visar att det finns ett straff innan Timmen kommer, vilket innebär att de kommer att visas Elden. Detta kan inte hänvisas till något annat än straffet i graven. Allāh säger:
 
-> ”Låt dem därför vara till dess de får se den Dag vars [fasor] kommer att driva dem från vettet, den Dag då deras list inte skall vara dem till någon nytta och de inte finner hjälp någonstans. De som ständigt begår orätt [skall straffas] redan innan [den Dagen kommer], men de flesta av dem är ovetande [om detta].” [Koranen 52:45-47]
+> ”Låt dem därför vara till dess de får se den Dag vars [fasor] kommer att driva dem från vettet, den Dag då deras list inte ska vara dem till någon nytta och de inte finner hjälp någonstans. De som ständigt begår orätt [ska straffas] redan innan [den Dagen kommer], men de flesta av dem är ovetande [om detta].” [Koranen 52:45-47]
 
 Detta bevisar att de icke-troende kommer att få lida av ett straff innan Timmen börjar. Detta är generellt och täcker de straff som Allāh kan tillfoga dem i detta livet samt det straff som Han kommer att tillfoga dem i deras gravar, innan de återuppväcks för det stora straffet. Autentiska *ahādīth[^2]* bekräftar att profeten – över honom vare Allāhs frid och välsignelser – brukade söka skydd hos Allāh från straffet i graven och han beordrade följeslagarna att göra samma sak. Det har även bekräftats att han brukade rikta sig till folket efter solförmörkelsebönen och beordra dem att söka sin tillflykt hos Allāh från straffet i graven. Han gjorde samma sak tre gånger vid gravplatsen i Gharqad medan han grävde en grav för en av hans avlidna följeslagare. Om inte straffet i graven hade varit ett faktum hade han inte sökt skydd hos Allāh från det och han hade heller inte beordrat följeslagarna att göra så.
 
@@ -108,7 +108,7 @@ Utfrågningen och den efterföljande belöningen eller bestraffningen i graven, 
 > 
 > 
 > 
-> Han sade: 'Sedan kommer en vacker man till honom, prydd med fina kläder och en angenäm doft, och han säger till honom: 'Gläd dig åt vad som tillfredställer dig. Detta är din dag, som du har utlovats.' Han kommer att fråga mannen: ”Vem är du? Ditt ansikte är som hos den som har med sig det goda.' Han kommer att svara: 'Jag är dina rättfärdiga handlingar.' Han kommer att säga: 'Min Herre! Inled Timmen för att jag skall få återvända till min familj och min egendom.'
+> Han sade: 'Sedan kommer en vacker man till honom, prydd med fina kläder och en angenäm doft, och han säger till honom: 'Gläd dig åt vad som tillfredställer dig. Detta är din dag, som du har utlovats.' Han kommer att fråga mannen: ”Vem är du? Ditt ansikte är som hos den som har med sig det goda.' Han kommer att svara: 'Jag är dina rättfärdiga handlingar.' Han kommer att säga: 'Min Herre! Inled Timmen för att jag ska få återvända till min familj och min egendom.'
 > 
 > 
 > 
@@ -123,7 +123,7 @@ Utfrågningen och den efterföljande belöningen eller bestraffningen i graven, 
 > 
 > 
 > 
-> Sedan reciterade Allāhs sändebud: ”Himlens portar skall förbli stängda för dem som påstår att Våra budskap är lögn och högmodigt vänder sig från dem; det blir inte lättare för dem att komma in i paradiset än för ett rep att tränga igenom ett nålsöga.” [Koranen 7:40]
+> Sedan reciterade Allāhs sändebud: ”Himlens portar ska förbli stängda för dem som påstår att Våra budskap är lögn och högmodigt vänder sig från dem; det blir inte lättare för dem att komma in i paradiset än för ett rep att tränga igenom ett nålsöga.” [Koranen 7:40]
 > 
 > 
 > 
@@ -140,7 +140,7 @@ Utfrågningen och den efterföljande belöningen eller bestraffningen i graven, 
 > 
 > Han sade: 'Sedan återlämnas hans själ till hans kropp, två änglar kommer till honom, de sitter med honom och säger: 'Vem är din Herre?' Han svarar: 'Åh! Åh! Jag vet inte!' Sedan frågar de: 'Vem är mannen som har sänts till dig?' Han svarar: 'Åh! Åh! Jag vet inte!' Sedan säger en röst från himmeln: 'Han har ljugit, förse honom med eld och öppna en dörr till Helveteselden för honom.' Sedan kommer dess hetta och vind till honom och hans grav görs så trång att hans revben hamnar fel. Sedan kommer en man med ett fult ansikte och en hemsk lukt till honom och säger: 'Gläd dig åt vad som plågar dig. Detta är din dag, som du har utlovats.' Han kommer att fråga: 'Vem är du, ditt ansikte är ansiktet hos den som för ont med sig?' Han kommer att svara: 'Jag är dina onda handlingar.' Så han kommer att säga: 'Min Herre! Inled inte Timmen!' [*Ahmad* 4:287, 288 och 295, 296]"
 
-Det är inte bortom tron att änglarna i gravarna skall fråga ut de döda, att de döda kommer att svara dem och att de kommer att få belöningar enligt deras handlingar. Det motsäger heller inte Allāhs magnifika förmåga och undren i Hans universella sunnah[^1], att Han skulle belöna de troende i deras gravar samt straffa de icke-troende i deras. Den som studerar skapelsen kommer tydligt att se det universella i Allāhs vilja och dess implementation, den allgenomträngade naturen i Hans kraft, dess perfektion, excellensen i Hans skapelse, precisionen i Hans organisation, Hans formgivelse av Hans skapelse och hur Han har gjort det lätt för människan att tro på de autentiska haditherna om utfrågningen i gravarna samt den belöningen eller bestraffningen som kommer efter.
+Det är inte bortom tron att änglarna i gravarna ska fråga ut de döda, att de döda kommer att svara dem och att de kommer att få belöningar enligt deras handlingar. Det motsäger heller inte Allāhs magnifika förmåga och undren i Hans universella sunnah[^1], att Han skulle belöna de troende i deras gravar samt straffa de icke-troende i deras. Den som studerar skapelsen kommer tydligt att se det universella i Allāhs vilja och dess implementation, den allgenomträngade naturen i Hans kraft, dess perfektion, excellensen i Hans skapelse, precisionen i Hans organisation, Hans formgivelse av Hans skapelse och hur Han har gjort det lätt för människan att tro på de autentiska haditherna om utfrågningen i gravarna samt den belöningen eller bestraffningen som kommer efter.
 
 Det har även rapporterats att Allāh den Upphöjde kommer att återlämna själen till den avlidne när denne har begravts – ett återlämnande som kommer att lämna honom vid liv, levandes i *al-Barzakh* [...]
 

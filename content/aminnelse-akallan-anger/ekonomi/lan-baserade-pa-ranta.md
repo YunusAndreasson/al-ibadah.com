@@ -14,7 +14,7 @@ description: 'Fråga: Är det tillåtet att ta räntelån? Detta gör många. Sv
 
 **Fråga:** Är det tillåtet att ta räntelån? Detta gör många.
 
-**Svar:** För muslimer är det förbjudet att ta lån – oberoende av om det är guld, silver, eller papperspengar – med villkor att mer än vad som har lånats skall återlämnas. Det är ingen skillnad vare sig om det är en bank eller något annan. Anledningen är att det är ränta som är en av de stora synderna. Den bank som utför denna typ av transaktioner är en räntebank. 
+**Svar:** För muslimer är det förbjudet att ta lån – oberoende av om det är guld, silver, eller papperspengar – med villkor att mer än vad som har lånats ska återlämnas. Det är ingen skillnad vare sig om det är en bank eller något annan. Anledningen är att det är ränta som är en av de stora synderna. Den bank som utför denna typ av transaktioner är en räntebank. 
 
 Må Allāh sända välsignelser och frid över profeten Muhammad, hans familj och hans följeslagare.
 

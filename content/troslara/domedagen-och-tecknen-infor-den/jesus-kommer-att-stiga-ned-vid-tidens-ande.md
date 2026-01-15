@@ -17,7 +17,7 @@ description: 'Fråga: Om Jesus är vid liv, kommer han då att stiga ned vid tid
 
 **Svar:** Ja, Allāhs profet Jesus, son till Maria, kommer att stiga ned vid tidens ände och han kommer att styra över människorna med rättvisa enligt profeten Muhammads lag. Han kommer att förstöra korset, döda grisarna och avskaffa skyddskatten – och han kommer inte att acceptera någon annan religion än islam. Skriftens folk – judarna och de kristna – kommer att tro på honom före hans död, när han stiger ned vid tidens ände. Allāh den Upphöjde säger:
 
-> ”Och bland efterföljarna av äldre tiders uppenbarelser finns ingen som inte före sin död tror på honom [som Guds Profet] och han skall vittna mot dem på Uppståndelsens dag.” [Koranen 4:159]
+> ”Och bland efterföljarna av äldre tiders uppenbarelser finns ingen som inte före sin död tror på honom [som Guds Profet] och han ska vittna mot dem på Uppståndelsens dag.” [Koranen 4:159]
 
 Allāh den Upphöjde informerar oss om att Skriftens folk – judarna och de kristna – kommer att tro på Jesus, Marias son, före hans död. Detta är Jesus bortgång som kommer att äga rum när han har stigit ned, styrt, spritt rättvisa och kallat folket till islam. Detta klargörs i de *ahādīth[^1]* som bevisar att han kommer att stiga ned.
 

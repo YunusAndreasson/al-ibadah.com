@@ -19,7 +19,7 @@ description: 'Fråga: I vissa länder lär sig eleverna i de islamiska skolorna 
 2. al-Asha’irah [Namngiven efter Abul-Hasan al-Ash'ari som ironiskt nog avvisade sina trosprinciper och antog *ahlus-sunnah[^1] wal-jamā’ats* innan han gick bort] och
 3. maturidiyyah [En skola namngiven efter Abū Mansur Muhammad al-Maturidi [d. 944 CE]. Deras trosprinciper är likvärdiga med al-Asha’irah]?
 
-Vad anser muslimer om de lärde som gör *ta’wil* [Tolkning, när det hänvisar till en felaktig tolkning. Det betyder att man ändrar en mening för att den skall samstämma med ens egen tro]?
+Vad anser muslimer om de lärde som gör *ta’wil* [Tolkning, när det hänvisar till en felaktig tolkning. Det betyder att man ändrar en mening för att den ska samstämma med ens egen tro]?
 
 **Svar:** Det råder inga tvivel om att det som lärs ut i dessa skolor – att *ahlus-sunnah[^1] wal-jamā’ats* synsätt är att tro på Allāhs namn och egenskaper utan förvrida, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen] – är enligt vad som har rapporterats från profetens – över honom vare Allāhs frid och välsignelser –] *sunnah[^1]*. Detta har *ahlus-sunnah[^1] wal-jamā’at* både grundligt och sammanfattat berättat om i sina böcker. Detta är sanningen som överensstämmer med Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* och vad *salaf[^2]* - må Allāh vara nöjda med dem - har sagt. Likaså är detta i samstämighet med ett korrekt och rationellt tänkande sinne. Det är inte vår avsikt att räkna upp de enskilda bevisen då det inte bads om detta i frågan, utan vi svarar enbart på vad frågan gällde och det är uppdelningen av *ahlus-sunnah[^1] wal-jamā’at* i två olika skolor.
 
@@ -52,7 +52,7 @@ Att enbart ändra orden från deras uppenbara mening, utan några giltiga bevis,
 > 
 > 
 > 
-> ”Befatta dig inte med det som du inte riktigt vet; ditt öra och ditt öga och ditt hjärta skall [alla en Dag] tillfrågas om detta.” [Koranen 17:36]
+> ”Befatta dig inte med det som du inte riktigt vet; ditt öra och ditt öga och ditt hjärta ska [alla en Dag] tillfrågas om detta.” [Koranen 17:36]
 
 De som förvrider innebörden av Allāhs den Upphöjdes namn och egenskaper har inte tagit emot någon kunskap om det vars mening de ändrar. Någon förnuftig teori har de heller inte, utom de tvivel som de lägger fram som bevis. Vissa bevis motsäger sig andra och gör det till en nödvändighet att ofullkomlighet tillräknas Allāhs natur, namn och egenskaper samt uppenbarelse. Dessa ofullkomligheter är värre än de som påstår vara ett resultat av att bekräfta dem [egenskaperna] i deras uppenbara mening. Men detta är inte platsen för en lång utläggning om detta.
 

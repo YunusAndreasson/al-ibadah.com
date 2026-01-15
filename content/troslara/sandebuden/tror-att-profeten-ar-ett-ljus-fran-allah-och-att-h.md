@@ -39,7 +39,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har också sagt
 
 Den som har sökt hjälp från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i tron om att han har makt att hjälpa eller att skydda denne mot ont, är en icke-troende. Denne har då motsagt sig Allāh den Upphöjde och satt medhjälpare vid Hans sida. Allāh den Upphöjde säger ju:
 
-> ”Er Herre säger: ’Be till Mig, så skall Jag besvara er [bön]. De som håller sig för goda för att tjäna Mig skall gå med böjt huvud in i helvetet.” [Koranen 40:60]
+> ”Er Herre säger: ’Be till Mig, så ska Jag besvara er [bön]. De som håller sig för goda för att tjäna Mig ska gå med böjt huvud in i helvetet.” [Koranen 40:60]
 > 
 > 
 > 

@@ -14,7 +14,7 @@ description: 'Fråga: Är tilläget ”Du bryter inte Ditt löfte” i åminnels
 
 **Fråga:** Är tilläget ”Du bryter inte Ditt löfte” i åminnelsen[^1] som följer efter böneutropet autentiskt? Detta tillägg är en fråga som de lärde inom *hadīth[^2]* är oeniga om.
 
-**Svar:** Vissa säger att den är obekräftat då den är *shath[^3]*. De flesta som har återberättat denna *hadīth[^2]* förmedlade inte dessa ord. Platsen påbjuder dock att de inte skall utelämnas. Detta beror på att platsen är till för åminnelse[^1] och lovprisan [av Allāh]. Det som har använts på detta sätt bör inte utelämnas då det har används för dyrkan.
+**Svar:** Vissa säger att den är obekräftat då den är *shath[^3]*. De flesta som har återberättat denna *hadīth[^2]* förmedlade inte dessa ord. Platsen påbjuder dock att de inte ska utelämnas. Detta beror på att platsen är till för åminnelse[^1] och lovprisan [av Allāh]. Det som har använts på detta sätt bör inte utelämnas då det har används för dyrkan.
 
 Vissa lärde säger att dess återberättarkedja är autentisk, att det bör sägas och att det inte motsäger de andra. Bland dem som anser att den är autentisk finns *shaykh* 'Abdul-'Azīz Ibn Baz som har sagt: ”Dess *återberättarkedja är autentisk då den har återgivits i al-Baihaqi med en autentisk kedja av återberättare*.” [al-Baihiqi i *as-Sunan* 1:410]
 

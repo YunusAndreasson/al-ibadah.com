@@ -18,16 +18,16 @@ description: 'Fråga: Vilket är utlåtandet om att söka välsignelser från gr
 
 **Svar:** Att söka välsignelser från gravar är inte tillåtet och det är en sorts *shirk[^2]*. Detta beror på att detta gör gällande att det finns en inverkan från något som Allāh inte har gett någon auktoritet för. Det var inte de rättfärdiga salaf[^3] s tradition att söka välsignelser på detta sätt, och då är det dessutom en innovation. Trodde den som sökte välsignelser att gravens invånare hade någon inverkan eller förmåga att skydda mot ont eller ge något gott, då är det stor *shirk[^2]* om denne åkallade dem i något av dessa syften. Det är också stor *shirk[^2]* om den som residerar i graven dyrkas genom bugningar, nedfallanden eller slakt av ett djur för att komma närmare och visa vördnad för denne. Allāh den Upphöjde säger:
 
-> ”Den som vid sidan av Gud åkallar[^4] en annan gudom – för vars [existens] han saknar bevis – skall stå till svars enbart inför sin Herre. Det skall inte gå dem väl som förnekar sanningen!” [Koranen 23:117]
+> ”Den som vid sidan av Gud åkallar[^4] en annan gudom – för vars [existens] han saknar bevis – ska stå till svars enbart inför sin Herre. Det ska inte gå dem väl som förnekar sanningen!” [Koranen 23:117]
 > 
 > 
 > 
 > 
-> ”Var och en som med hopp ser fram mot mötet med sin Herre skall [sträva efter att] leva ett gott och rättskaffens liv och inte göra någon delaktig av den dyrkan som han ägnar sin Herre!” [Koranen 18:110]
+> ”Var och en som med hopp ser fram mot mötet med sin Herre ska [sträva efter att] leva ett gott och rättskaffens liv och inte göra någon delaktig av den dyrkan som han ägnar sin Herre!” [Koranen 18:110]
 
 Månggudadyrkarna som begår stor *shirk[^2]* är icke-troende som står utanför islam. De kommer att för evigt uppehålla sig i Elden och Paradiset är förbjudet. Detta enligt Allāh den Upphöjdes ord:
 
-> ”Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden skall bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [Koranen 5:72]
+> ”Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden ska bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [Koranen 5:72]
 
 Svär man vid någon annan än Allāh, och man tror att den som man svär vid har en position likvärdig med Allāhs, då är man en månggudadyrkare[^5] som gör sig skyldig till stor shirk[^2]. Om man inte tror det, men det i ens hjärta finns begär att upphöja den man svär vid, och det sker utan att man tror att dennes position är likvärdig med Allāhs, då är man skyldig till mindre *shirk[^2]*. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Den som svär vid något annat än Allāh har begått otro eller shirk[^2]*.” [*al-Bukhārī* 2679]
 

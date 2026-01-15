@@ -19,7 +19,7 @@ description: 'Fråga: Vad gäller den som, ovetandes eller på grund av glömska
 
 I *Sahīh* återges att Allāh har sagt [som svar på detta]: ”*Sannerligen, har jag gjort så [accepterat denna åkallan[^2]]*.”
 
-Allāh har även sagt: ”*Om ni här begår ett misstag. skall ni inte klandras för detta – nej, [det som är av betydelse är] vad ni innerst inne syftar till*.” [Koranen 33:5]
+Allāh har även sagt: ”*Om ni här begår ett misstag. ska ni inte klandras för detta – nej, [det som är av betydelse är] vad ni innerst inne syftar till*.” [Koranen 33:5]
 
 Och i en *hadīth[^3]* rapporteras det: ”*Mitt samfund har förlåtits för oavsiktliga fel och glömska*.” [*Ibn Mājah* 2045]
 

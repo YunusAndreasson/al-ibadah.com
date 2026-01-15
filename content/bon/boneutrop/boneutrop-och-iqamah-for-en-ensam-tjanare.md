@@ -19,6 +19,6 @@ description: 'Fråga: Då det inte finns någon moské nära mig ber jag ibland 
 Du måste be i församlingen när du kan göra det och om du finner en församling eller hör böneutropet i en moské nära dig, då måste du besvara böneutroparen och närvara med församlingen i bönen. Hör du inte böneutropet och det inte finns någon moské nära dig, då är det *sunnah[^2]* att du ropar ut böneutropet och *iqāmah[^1]* för att sedan be.
 
 
-[^1]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen skall börja.
+[^1]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
 [^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
 

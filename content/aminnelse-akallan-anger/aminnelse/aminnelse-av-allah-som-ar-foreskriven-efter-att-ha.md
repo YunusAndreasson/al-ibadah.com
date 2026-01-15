@@ -27,7 +27,7 @@ Det är också tillåtet att göra *tasbih[^3]*, *tahmid* och *takbīr[^4]* tio 
 
 Det har även rapporterats i hans *sunnah[^5]* att man kan säga *subhan allāhu wal-hamdu lillahi wa lā ilāha illAllāhu wAllāhu akbar*. Man säger då dessa fyra ord 25 gånger och det blir då totalt 100. [*at-Tirmithi* 3413 och *an-Nasā’i* 1349]
 
-Vilken sorts *tasbih[^3]* du än väljer är det tillåtet. Den islamiska lagen säger att om dyrkan har rapporterats i olika former är det *sunnah[^5]* att göra alla; en gång den ena och en annan gång det andra. Syftet med detta är att man skall utöva hela profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^5]* i alla dess former. Den åminnelse[^1] av Allāh som jag har nämnt gäller alla böner: gryningsbönen[^6], middagsbönen[^7], eftermiddagsbönen[^8], kvällsbönen[^9] och nattbönen[^10].
+Vilken sorts *tasbih[^3]* du än väljer är det tillåtet. Den islamiska lagen säger att om dyrkan har rapporterats i olika former är det *sunnah[^5]* att göra alla; en gång den ena och en annan gång det andra. Syftet med detta är att man ska utöva hela profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^5]* i alla dess former. Den åminnelse[^1] av Allāh som jag har nämnt gäller alla böner: gryningsbönen[^6], middagsbönen[^7], eftermiddagsbönen[^8], kvällsbönen[^9] och nattbönen[^10].
 
 I kvällsbönen[^9] och gryningsbönen[^6] görs *tahlil[^11]* tio gånger och likadant orden ”*Rabbi ajirni min an-nar*” [Min Herre! Ge mig skydd från Elden] som upprepas sju gånger efter kvällsbönen[^9] och gryningsbönen[^6].
 

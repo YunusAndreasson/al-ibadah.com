@@ -27,7 +27,7 @@ I journalen *al-Fadhl* berättar han att hans fader, Ghulam Ahmad, har sagt:
 
 I samma journal [tredje volymen] sägs det: ”*Mirza är profeten Muhammad*.” Han påstår att han var uppfyllandet av Allāhs ord i Koranen, när Jesus säger:
 
-> ”Och för att förkunna för er det glada budskapet att ett sändebud skall komma efter mig vars namn skall vara Ahmad.” [Koranen 61:6]
+> ”Och för att förkunna för er det glada budskapet att ett sändebud ska komma efter mig vars namn ska vara Ahmad.” [Koranen 61:6]
 
 Kommittén har även undersökt vad pålitliga lärde samt författare har skrivit och publicerat om Qadyani Ahmadiyah. Det klargörs att de helt och hållet står utanför islam.
 

@@ -7,14 +7,14 @@ categories:
 - Bön (Salāh)
 - Begravningsbön
 original_id: 499
-description: 'Fråga: Vänligen, förklara för oss hur begravningsbönen skall bes som
+description: 'Fråga: Vänligen, förklara för oss hur begravningsbönen ska bes som
  den har rapporterats från profeten. Det är många som inte kan den. Svar: All
  lovprisan tillhör Allāh. Profeten och hans föl...'
 ---
 
-**Fråga:** Vänligen, förklara för oss hur begravningsbönen skall bes som den har rapporterats från profeten. Det är många som inte kan den.
+**Fråga:** Vänligen, förklara för oss hur begravningsbönen ska bes som den har rapporterats från profeten. Det är många som inte kan den.
 
-**Svar:** All lovprisan tillhör Allāh. Profeten och hans följeslagare förklarade hur begravningsbönen skall bes enligt följande:
+**Svar:** All lovprisan tillhör Allāh. Profeten och hans följeslagare förklarade hur begravningsbönen ska bes enligt följande:
 
 1. Du säger den första *takbīr[^1]*.
 2. Därefter söker du skydd hos Allāh från den utstötte djävulen.

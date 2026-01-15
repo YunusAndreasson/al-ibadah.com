@@ -7,12 +7,12 @@ categories:
 - Bön (Salāh)
 - Nedfallan vid recitation
 original_id: 518
-description: 'Fråga: Behöver man tvaga sig när man skall göra sujūd al-tilāwah ?
- Måste vi säga ” Allāhu akbar ” när vi går ned och upp? Vad skall vi säga under nedfallandet[^1]?
+description: 'Fråga: Behöver man tvaga sig när man ska göra sujūd al-tilāwah ?
+ Måste vi säga ” Allāhu akbar ” när vi går ned och upp? Vad ska vi säga under nedfallandet[^1]?
  Är de åkallan som har berättats om...'
 ---
 
-**Fråga:** Behöver man tvaga sig när man skall göra *sujūd al-tilāwah*? Måste vi säga ”*Allāhu akbar*” när vi går ned och upp? Vad skall vi säga under nedfallande[^1] t? Är de åkallan[^2] som har berättats om detta *sahīh*? Är det föreskrivet att säga *salām* efter detta nedfallande[^1] om det görs utanför bönen?
+**Fråga:** Behöver man tvaga sig när man ska göra *sujūd al-tilāwah*? Måste vi säga ”*Allāhu akbar*” när vi går ned och upp? Vad ska vi säga under nedfallande[^1] t? Är de åkallan[^2] som har berättats om detta *sahīh*? Är det föreskrivet att säga *salām* efter detta nedfallande[^1] om det görs utanför bönen?
 
 **Svar:** All lovprisan tillhör Allāh. Enligt den mer korrekta åsikten som de lärde har behövs intetvagning[^3] för *sujūd al-tilāwah*. Det finns heller ingen *salām* eller *takbīr[^4]* när man kommer upp från den, enligt den mest korrekta åsikten av de båda åsikterna. Det är föreskrivet att säga *takbīr[^4]* under nedfallandet[^1]. Bevisen för detta finns i en *hadīth[^5]* från Ibn ’Umar.
 

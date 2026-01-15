@@ -19,7 +19,7 @@ description: 'Fråga: Om jag befann mig i ett flygplan och det blev dags för at
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om jag beordrar er att göra något, gör det då så mycket som ni har möjlighet till*.” [*Muslim* 1337 och *Ahmad* 2:2, 508]
 
-Även om man vet att man kommer att hinna be dem när planet landar är det enligt en majoritet av de lärda tillåtet att be dem på planet när tiden för bönen kommer. Syftet är att man skall kunna be dem i tid.
+Även om man vet att man kommer att hinna be dem när planet landar är det enligt en majoritet av de lärda tillåtet att be dem på planet när tiden för bönen kommer. Syftet är att man ska kunna be dem i tid.
 
 
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.

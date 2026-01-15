@@ -19,9 +19,9 @@ description: 'Fråga: Vilket är utlåtandet om att fira vad som brukar kallas f
 
 Är detta klart och tydligt är det inte tillåtet att införa en ”mors dag” som liknar en ‘eid. Detta inbegriper att man visar glädje och lycka, ger gåvor och liknande. Muslimer måste visa stolthet över deras religion och hålla sig till det som Allāh och Hans sändebud har bestämt för dem i denna religion som Han den Upphöjde har valt för Sina tjänare. Man bör varken lägga till eller dra ifrån något. Det är en muslims skyldighet att inte vara någon utan karaktär som följer varje individ. I stället bör denne forma sig själv efter vad Allāhs den Upphöjdes lag kräver. Denne blir då någon som följs – inte en som följer. Denne blir ett exempel som andra följer – inte en som följer andras exempel. Allāhs lag är perfekt på alla sätt och vis. Han den Upphöjde säger:
 
-> ”Denna dag har Jag fullbordat det religiösa regelverket för er och skänkt er Min välsignelse i fullaste mått. Jag har beslutat att underkastelse under Guds vilja skall vara er religion.” [Koranen 5:3]
+> ”Denna dag har Jag fullbordat det religiösa regelverket för er och skänkt er Min välsignelse i fullaste mått. Jag har beslutat att underkastelse under Guds vilja ska vara er religion.” [Koranen 5:3]
 
-En mor förtjänar mer än att enbart firas under en av årets alla dagar. En mors rätt är att hennes barn skall ta hand om henne, försörja henne och lydas av henne i allt som inte innebär olydnad mot Allāh den Allsmäktige.
+En mor förtjänar mer än att enbart firas under en av årets alla dagar. En mors rätt är att hennes barn ska ta hand om henne, försörja henne och lydas av henne i allt som inte innebär olydnad mot Allāh den Allsmäktige.
 
 
 [^1]: De tre första generationerna i islam.

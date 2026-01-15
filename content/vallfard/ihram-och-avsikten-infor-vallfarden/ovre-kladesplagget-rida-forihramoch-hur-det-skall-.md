@@ -1,5 +1,5 @@
 ---
-title: Övre klädesplagget [rida'] för ihrām och hur det skall bäras
+title: Övre klädesplagget [rida'] för ihrām och hur det ska bäras
 author: Ibn 'Abdullah Ibn Baz
 source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 127 s. ISBN saknas'

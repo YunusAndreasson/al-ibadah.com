@@ -8,11 +8,11 @@ categories:
 - Fredagsbönen
 original_id: 366
 description: 'Fråga: En vakt som vaktar en egendom under fredagsbönen är rädd att
- egendomen skall stjälas om han går till fredagsbönen. Är han då fortfarande skyldig
+ egendomen ska stjälas om han går till fredagsbönen. Är han då fortfarande skyldig
  att be fredagsbönen? Svar: Det verkar va...'
 ---
 
-**Fråga:** En vakt som vaktar en egendom under fredagsbönen är rädd att egendomen skall stjälas om han går till fredagsbönen. Är han då fortfarande skyldig att be fredagsbönen?
+**Fråga:** En vakt som vaktar en egendom under fredagsbönen är rädd att egendomen ska stjälas om han går till fredagsbönen. Är han då fortfarande skyldig att be fredagsbönen?
 
 **Svar:** Det verkar vara så att han inte är skyldig att be den, om hans rädsla är äkta och han inte kan låsa in egendomen på ett säkert ställe för att skydda den mot tjuvar som inte ber fredagsbönen och drar nytta av denna möjlighet.
 

@@ -7,13 +7,13 @@ categories:
 - Blandade utlåtanden
 original_id: 574
 description: 'Fråga: Vad händer med en person, även om hans föräldrar var muslimer,
- som dör och inte bad? Skall hans kropp tvättas och skall en begravningsceremoni
+ som dör och inte bad? Skall hans kropp tvättas och ska en begravningsceremoni
  hållas för honom? Svar: En vuxen och menta...'
 ---
 
-**Fråga:** Vad händer med en person, även om hans föräldrar var muslimer, som dör och inte bad? Skall hans kropp tvättas och skall en begravningsceremoni hållas för honom?
+**Fråga:** Vad händer med en person, även om hans föräldrar var muslimer, som dör och inte bad? Skall hans kropp tvättas och ska en begravningsceremoni hållas för honom?
 
-**Svar:** En vuxen och mentalt frisk person som dör utan att be – förutsatt att han känner till islams syn på bönen – är en icke-troende. Han skall inte tvättas och ej heller skall någon begravningsbön hållas för honom. Han skall inte begravas på den muslimska begravningsplatsen och hans muslimska släktingar ärver inte ifrån honom utan hans tillgångar skall skänkas till statskassan. Detta är det starkaste åsikten bland de lärde. Detta baseras på autentiska *ahādīth[^1]* där profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Mellan en person och *kufr[^2]* och *shirk[^3]* står övergivandet av bönen*.” [*Sahīh Muslim*]
+**Svar:** En vuxen och mentalt frisk person som dör utan att be – förutsatt att han känner till islams syn på bönen – är en icke-troende. Han ska inte tvättas och ej heller ska någon begravningsbön hållas för honom. Han ska inte begravas på den muslimska begravningsplatsen och hans muslimska släktingar ärver inte ifrån honom utan hans tillgångar ska skänkas till statskassan. Detta är det starkaste åsikten bland de lärde. Detta baseras på autentiska *ahādīth[^1]* där profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Mellan en person och *kufr[^2]* och *shirk[^3]* står övergivandet av bönen*.” [*Sahīh Muslim*]
 
 Profeten – över honom vare Allāhs frid och välsignelser – sade även: ”*Det som skiljer oss ifrån de icke-troende är bönen. Den som övergivet den har begått kufr[^2]*.” [*Ahmad*]
 

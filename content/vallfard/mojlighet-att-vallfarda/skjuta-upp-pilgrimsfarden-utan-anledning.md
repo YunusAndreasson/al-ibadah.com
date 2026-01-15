@@ -17,7 +17,7 @@ description: 'Fråga: Vilket är utlåtandet om den som utan anledning skjuter u
 
 **Svar:** All lovprisan tillhör Allāh och må frid var över Hans sändebud. Den som har möjlighet att utföra pilgrimsfärden men inte utför den utan skjuter upp den utan anledning, denne har gjort något mycket ont och begått en stor synd. Denne behöver ångra sig inför Allāh och skynda sig att utföra den. Allāh har sagt:
 
-> “Vallfärden till denna Helgedom är en plikt mot Gud för var och en som har möjlighet att genomföra den. Och den som förnekar sanningen [skall veta att] Gud är Sig själv nog och inte behöver [något eller något i] Sin skapelse.” [Koranen 3:97]
+> “Vallfärden till denna Helgedom är en plikt mot Gud för var och en som har möjlighet att genomföra den. Och den som förnekar sanningen [ska veta att] Gud är Sig själv nog och inte behöver [något eller något i] Sin skapelse.” [Koranen 3:97]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 

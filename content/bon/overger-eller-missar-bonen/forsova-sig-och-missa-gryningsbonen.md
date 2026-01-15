@@ -18,7 +18,7 @@ description: 'Fråga: Om någon försov sig och missade gryningsbönen, kommer A
 
 Detta gäller gryningsbönen[^1] och andra böner. De andra bönerna, om han är noggrann med dem och ber dem i rätt tid, då kommer det faktum att han sov över gryningsbönen[^1] inte ha någon inverkan på dem. Hans belöningar kommer att vara fullständiga enligt hans handlingar och strävan i bönen.
 
-Han får inte slarva med detta. Han måste be någon att väcka honom för att han skall vakna och be i rätt tid. Går inte det så får han placera en väckarklocka vid sitt huvud för att han inte skall missa. Om sömnen tar tag i honom, trots hans arrangemang, då har han inte syndat och han ber så fort han vaknar.
+Han får inte slarva med detta. Han måste be någon att väcka honom för att han ska vakna och be i rätt tid. Går inte det så får han placera en väckarklocka vid sitt huvud för att han inte ska missa. Om sömnen tar tag i honom, trots hans arrangemang, då har han inte syndat och han ber så fort han vaknar.
 
 
 [^1]: Fajr

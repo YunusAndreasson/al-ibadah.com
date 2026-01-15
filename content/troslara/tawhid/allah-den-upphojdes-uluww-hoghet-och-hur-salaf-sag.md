@@ -27,7 +27,7 @@ description: 'Fråga: Hur såg salaf – må Allāh vara nöjda med dem – på 
 > 
 > 
 > 
-> ”De som lyder Gud och Hans Sändebud, som fruktar Gud och ständigt har Honom för ögonen, det är de som skall vinna den stora segern.” [Koranen 24:51-52]
+> ”De som lyder Gud och Hans Sändebud, som fruktar Gud och ständigt har Honom för ögonen, det är de som ska vinna den stora segern.” [Koranen 24:51-52]
 > 
 > 
 > 
@@ -101,11 +101,11 @@ Likaså säger vi att en troende inte får avvika från vad Koranen och [profete
 
 Beträffande vad de säger, att Allāh den Upphöjde är i den troendes hjärta, finns det inte några bevis för vare sig i Allāhs skrift, Hans sändebuds *sunnah[^2]* eller uttalanden från de rättfärdige *salaf[^1]* [enligt vad vi känner till]. Detta är fullständigt felaktigt, för om det som avses är att Allāh den Upphöjde finns i de troendes hjärtan är det felaktigt. Detta beror på att Allāh den Upphöjde är större och mäktigare än så. Det är häpnadsväckande att någon flyr från tanken att Allāh den Upphöjde är ovan himlarna [vilket bevisas genom Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]*], till förmån för något som det inte finns några bevis för, att Allāh finns i den troendes hjärta.
 
-Men om det som avses med att Allāh den Upphöjde är i den troendes hjärta är att denne alltid åminns sin Herre i hjärtat, då är det sant. Man skall emellertid säga det på ett sätt som visar den sanna innebörden. Ett exempel på detta är om man säger: ”Åminnelse av Allāh finns alltid i den troende tjänarens hjärta.” Men det som är uppenbart när någon säger detta är att denne vill ersätta tron på att Allāh den Upphöjde är ovan himlarna med denna falska tro. Men som vi har sagt är denna innebörd är felaktigt.
+Men om det som avses med att Allāh den Upphöjde är i den troendes hjärta är att denne alltid åminns sin Herre i hjärtat, då är det sant. Man ska emellertid säga det på ett sätt som visar den sanna innebörden. Ett exempel på detta är om man säger: ”Åminnelse av Allāh finns alltid i den troende tjänarens hjärta.” Men det som är uppenbart när någon säger detta är att denne vill ersätta tron på att Allāh den Upphöjde är ovan himlarna med denna falska tro. Men som vi har sagt är denna innebörd är felaktigt.
 
-Den troende måste vara noga med att inte avvisa det som Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* och vad *salaf[^1]* – må Allāh vara nöjda med dem – var eniga bevisar till förmån för generella och tvivelaktiga tolkningar som kan rymma både korrekta och felaktiga förstålelser. Man måste hålla fast vid de främste av dem som antog islam bland *muhajirun* och *ansār*. Detta för att man skall räknas in i Allāhs den Upphöjdes ord:
+Den troende måste vara noga med att inte avvisa det som Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* och vad *salaf[^1]* – må Allāh vara nöjda med dem – var eniga bevisar till förmån för generella och tvivelaktiga tolkningar som kan rymma både korrekta och felaktiga förstålelser. Man måste hålla fast vid de främste av dem som antog islam bland *muhajirun* och *ansār*. Detta för att man ska räknas in i Allāhs den Upphöjdes ord:
 
-> ”Föregångsmännen, de första av dem som utvandrade och [de första] hjälparna, och de rättsinniga [människor] som följde i deras spår – Gud är nöjd med dem och de är nöjda [där de njuter] Hans [gåvor]; Han har i beredskap för dem lustgårdar, vattnade av bäckar, där de skall förbli till evig tid. Detta är den stora, den lysande segern.” [Koranen 9:100]
+> ”Föregångsmännen, de första av dem som utvandrade och [de första] hjälparna, och de rättsinniga [människor] som följde i deras spår – Gud är nöjd med dem och de är nöjda [där de njuter] Hans [gåvor]; Han har i beredskap för dem lustgårdar, vattnade av bäckar, där de ska förbli till evig tid. Detta är den stora, den lysande segern.” [Koranen 9:100]
 
 Må Allāh göra oss till en av dem och må Han ge oss alla nåd. Han är sannerligen Den som ger.
 

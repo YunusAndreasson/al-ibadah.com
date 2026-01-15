@@ -8,12 +8,12 @@ categories:
 - Vallfärd (Hajj)
 - Möjlighet att vallfärda
 original_id: 715
-description: 'Fråga: Jag har svurit en trohetsed till Allāh om att jag skall vallfärda
+description: 'Fråga: Jag har svurit en trohetsed till Allāh om att jag ska vallfärda
  varje år. Tidigare var jag inte anställd men nu har omständigheter tvingat mig att
  ta ett jobb som soldat och min chef i mi...'
 ---
 
-**Fråga:** Jag har svurit en trohetsed till Allāh om att jag skall vallfärda varje år. Tidigare var jag inte anställd men nu har omständigheter tvingat mig att ta ett jobb som soldat och min chef i militären tillåter mig inte att vallfärda varje år. Jag hoppas på ett givande svar. Har jag syndat?
+**Fråga:** Jag har svurit en trohetsed till Allāh om att jag ska vallfärda varje år. Tidigare var jag inte anställd men nu har omständigheter tvingat mig att ta ett jobb som soldat och min chef i militären tillåter mig inte att vallfärda varje år. Jag hoppas på ett givande svar. Har jag syndat?
 
 **Fråga:** Om det som hindrade dig från att vallfärda under några år berodde på något som du inte kunde påverka, då har du inte syndat. Anledningen är att Allāh har sagt:
 

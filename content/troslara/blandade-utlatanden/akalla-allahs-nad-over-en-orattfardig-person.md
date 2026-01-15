@@ -14,7 +14,7 @@ description: 'Fråga: En av mina släktingar avled och även om han bad så var 
 
 **Fråga:** En av mina släktingar avled och även om han bad så var han en orättfärdig man genom hela sitt liv. Är det tillåtet att åkalla Allāhs nåd över honom och åkalla för honom efter hans död?
 
-**Svar:** Det är tillåtet att åkalla för honom samt åkalla Allāhs nåd över honom. Detta under förutsättning att han var muslim, sade trosbekännelsen, bad och utförde religionens uppenbara riter. Det är hans rätt att åkallan[^1] görs för att det onda och syndfulla som han har gjort skall förlåtas. Detta i hopp om att denna åkallan[^1] skall accepteras och att han skall få sina synder utstrukna.
+**Svar:** Det är tillåtet att åkalla för honom samt åkalla Allāhs nåd över honom. Detta under förutsättning att han var muslim, sade trosbekännelsen, bad och utförde religionens uppenbara riter. Det är hans rätt att åkallan[^1] görs för att det onda och syndfulla som han har gjort ska förlåtas. Detta i hopp om att denna åkallan[^1] ska accepteras och att han ska få sina synder utstrukna.
 
 
 [^1]: Du´ā

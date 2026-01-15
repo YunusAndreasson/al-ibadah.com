@@ -9,11 +9,11 @@ categories:
 - Vallfärda för någon annan
 original_id: 731
 description: 'Fråga: En man har för avsikt att vallfärda och han har även tidigare
- vallfärdat. När han befinner sig vid Arafat slår det honom att han skall ändra sin
- intention, så att den skall vara för en släk...'
+ vallfärdat. När han befinner sig vid Arafat slår det honom att han ska ändra sin
+ intention, så att den ska vara för en släk...'
 ---
 
-**Fråga:** En man har för avsikt att vallfärda och han har även tidigare vallfärdat. När han befinner sig vid Arafat[^1] slår det honom att han skall ändra sin intention, så att den skall vara för en släkting till honom. Är det tillåtet att göra så?
+**Fråga:** En man har för avsikt att vallfärda och han har även tidigare vallfärdat. När han befinner sig vid Arafat[^1] slår det honom att han ska ändra sin intention, så att den ska vara för en släkting till honom. Är det tillåtet att göra så?
 
 **Svar:** Om man för egen räkning går in i *ihrām[^2]* för vallfärden, då kan man inte ändra sin avsikt efter det, varken på vägen, vid Arafat[^1] eller någon annanstans. I stället måste man fullfölja detta på egen hand. Man kan inte ändra sig så att den är för ens fader, mor eller någon annan. I stället måste man vallfärda för egen räkning. Anledningen är att Allāh den Upphöjde har sagt: ”*Och fullgör vallfärden, såväl den större som den mindre, till Guds ära*.” [Koranen 2:196]
 

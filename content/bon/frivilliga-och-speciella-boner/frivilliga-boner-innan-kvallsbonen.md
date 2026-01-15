@@ -23,7 +23,7 @@ När böneutropet ropades ut för kvällsbönen[^2] brukade följeslagarna snabb
 
 [^1]: Tahiyyatul-Msjid.
 [^2]: Maghrib
-[^3]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen skall börja.
+[^3]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
 [^4]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
 [^5]: Rakah.
 [^6]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.

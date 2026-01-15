@@ -16,7 +16,7 @@ description: 'Fråga: Får en ammande kvinna bryta fastan? När bör hon ta igen
 
 **Svar:** Är den ammande kvinnan orolig för att fastan kommer att skada barnet genom att mjölken sinar, då får hon bryta den. Hon måste dock ta igen den senare då hon är likvärdig med en sjukling som Allāh säger följande om:
 
-> ”Men den som är sjuk eller [stadd] på resa [skall fasta därefter] under motsvarande antal dagar. Gud vill göra det lätt – inte tungt – för er.” [Koranen 2:185]
+> ”Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarande antal dagar. Gud vill göra det lätt – inte tungt – för er.” [Koranen 2:185]
 
 När faran är över kan hon ta igen [fastan], antingen under vintern när det är svalare och dagarna är kortare, eller under det efterföljande året om hon inte har möjlighet under vintern.
 

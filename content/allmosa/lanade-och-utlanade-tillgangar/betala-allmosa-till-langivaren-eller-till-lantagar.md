@@ -14,7 +14,7 @@ description: 'Fråga: Är det bättre för låntagaren om denne får allmosan f�
 
 **Fråga:** Är det bättre för låntagaren om denne får allmosan för att betala sina skulder eller bör den som ger allmosan gå till långivaren och ge den till honom?
 
-**Svar:** Det beror på. Om den skuldsatte betalar sin skuld plikttroget, avklarar sin skyldighet och man kan lita på att han använder det som ges till honom för att göra sig av med skulden, då ger vi pengarna till honom. På detta sätt kan han betala skulden och det är diskretare och mindre genant för honom inför de som försöker få tag på honom [för att han skall betala sina skulder].
+**Svar:** Det beror på. Om den skuldsatte betalar sin skuld plikttroget, avklarar sin skyldighet och man kan lita på att han använder det som ges till honom för att göra sig av med skulden, då ger vi pengarna till honom. På detta sätt kan han betala skulden och det är diskretare och mindre genant för honom inför de som försöker få tag på honom [för att han ska betala sina skulder].
 
 Men om låntagaren är en slösare som skulle slösa bort pengarna genom att köpa onödiga saker om vi gav dem till honom för att betala skulden, då ger vi dem inte till honom. I stället går vi till långivaren och frågar honom: Vem är skyldig dig? Sedan ger vi skulden till honom eller delar av den på så vis som är smidigast.
 

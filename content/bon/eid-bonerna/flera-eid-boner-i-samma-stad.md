@@ -17,5 +17,5 @@ description: 'Fråga: Vilket är utlåtandet om att flera böner hålls i samma 
 
 **Svar:** Finns det ett behov så finns det ingen invändan. Detsamma gäller som när det finns behov av flera fredagsböner. Detta beror på att Allāh den Upphöjde säger: ”*Han har inte lagt på er svåra eller tunga plikter*.” [Koranen 22:78] Om vi inte tillät att man höll flera böner skulle det leda till att somliga inte fick närvara vid fredags- och *‘eid*-bönen.
 
-Ett exempel på behov för att *‘eid*-bönen skall hållas är att staden är stor och att det skulle vara en börda för folket att komma från den ena sidan till den andra. Men om det inte finns något behov av att hålla ett antal böner bör man enbart hålla den på en plats.
+Ett exempel på behov för att *‘eid*-bönen ska hållas är att staden är stor och att det skulle vara en börda för folket att komma från den ena sidan till den andra. Men om det inte finns något behov av att hålla ett antal böner bör man enbart hålla den på en plats.
 

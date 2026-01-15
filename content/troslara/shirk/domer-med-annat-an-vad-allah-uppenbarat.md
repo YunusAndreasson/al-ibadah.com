@@ -9,11 +9,11 @@ categories:
 - Shirk [Att sätta något vid Allāhs sida]
 original_id: 69
 description: 'Fråga: Anses de som dömer med något annat än vad Allāh har uppenbarat
- vara icke-troende? Om vi säger att de är muslimer, vad skall vi då säga om Allāhs
+ vara icke-troende? Om vi säger att de är muslimer, vad ska vi då säga om Allāhs
  ord: ”Den som inte dömer enligt vad Gud...'
 ---
 
-**Fråga:** Anses de som dömer med något annat än vad Allāh har uppenbarat vara icke-troende? Om vi säger att de är muslimer, vad skall vi då säga om Allāhs ord:
+**Fråga:** Anses de som dömer med något annat än vad Allāh har uppenbarat vara icke-troende? Om vi säger att de är muslimer, vad ska vi då säga om Allāhs ord:
 
 > ”Den som inte dömer enligt vad Gud har uppenbarat, de är [i sanning] förnekare.” [Koranen 5:44]?
 

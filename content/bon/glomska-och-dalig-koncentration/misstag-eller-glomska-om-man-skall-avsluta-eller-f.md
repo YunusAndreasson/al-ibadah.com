@@ -1,5 +1,5 @@
 ---
-title: Misstag eller glömska - om man skall avsluta eller fortsätta
+title: Misstag eller glömska - om man ska avsluta eller fortsätta
 author: Muhammad bin Salih al-'Uthaymin
 source: Fatāwa al-shaykh Muhammad al-‘Uthaymīn, 1/425
 categories:

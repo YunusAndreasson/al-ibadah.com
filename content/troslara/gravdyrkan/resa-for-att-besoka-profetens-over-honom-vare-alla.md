@@ -25,7 +25,7 @@ Om man bestämmer sig för att göra båda sakerna så är det tillåtet. Detta 
 
 När följeslagarna besökte gravar brukade han lära dem att säga:
 
-> ”Må Allāhs frid vara över er, människor i gravarna från de troende och Muslimerna. Och vi skall följa er, om Allāh vill. Vi ber Allāh om välbefinnande för oss och för er.” [*Muslim* 975]
+> ”Må Allāhs frid vara över er, människor i gravarna från de troende och Muslimerna. Och vi ska följa er, om Allāh vill. Vi ber Allāh om välbefinnande för oss och för er.” [*Muslim* 975]
 
 
 [^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen

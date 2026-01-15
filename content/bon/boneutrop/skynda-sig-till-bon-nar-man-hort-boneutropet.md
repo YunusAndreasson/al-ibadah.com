@@ -7,11 +7,11 @@ categories:
 - Böneutrop
 original_id: 520
 description: 'Fråga: Är det bättre för arbetstagare att skynda sig att be när de
- hör böneutropet eller skall de vänta tills de har avslutat deras arbetsuppgifter?
+ hör böneutropet eller ska de vänta tills de har avslutat deras arbetsuppgifter?
  Vilket är utlåtandet om att, utöver de vanliga ...'
 ---
 
-**Fråga:** Är det bättre för arbetstagare att skynda sig att be när de hör böneutropet eller skall de vänta tills de har avslutat deras arbetsuppgifter? Vilket är utlåtandet om att, utöver de vanliga *sunnah[^1]*-bönerna, be frivilliga böner efter att ha bett?
+**Fråga:** Är det bättre för arbetstagare att skynda sig att be när de hör böneutropet eller ska de vänta tills de har avslutat deras arbetsuppgifter? Vilket är utlåtandet om att, utöver de vanliga *sunnah[^1]*-bönerna, be frivilliga böner efter att ha bett?
 
 **Svar:** All lovprisan tillhör Allāh. Det är bättre för muslimer att skynda sig att be när de hör böneutropet. Böneutroparen säger ju: “*Hayya ala al-salāh*” [Kom till bön]. Tvekande kommer att leda till att man missar bönen.
 

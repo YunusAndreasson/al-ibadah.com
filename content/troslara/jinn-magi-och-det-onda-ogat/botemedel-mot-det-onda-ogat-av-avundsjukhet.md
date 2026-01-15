@@ -21,7 +21,7 @@ Ett annat exempel är en återberättelse från an-Nasā’i och Ibn Mājah i vi
 Verkliga bevis vittnar om detta, och det är inte något som går att förneka. Inträffar det bör de föreskrivna behandlingarna användas. De är:
 
 1. Recitation. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Det finns ingen ruqyah[^2], utom som ett botemedel mot det onda ögat eller feber*.” [*al-Bukhārī* 5704 och *Muslim* 216] [ängeln] Gabriel reciterade en *ruqyah[^2]* över profeten – över honom vare Allāhs frid och välsignelser – genom att säga: ”*I Allāhs namn, jag uttalar denna ruqyah[^2] för dig mot allt som är skadligt för dig. Från det onda i varje själ och från det onda ögat. Må Allāh bota dig. I Allāhs namn, jag uttalar denna ruqyah[^2] för dig.*” [*Muslim* 2186]
-2. Ta ett bad. Profeten – över honom vare Allāhs frid och välsignelser – beordrade 'Amir bin Rabi'ah att göra så i den nyss nämnda hadithen. Efteråt skall vatten hällas över den drabbade.
+2. Ta ett bad. Profeten – över honom vare Allāhs frid och välsignelser – beordrade 'Amir bin Rabi'ah att göra så i den nyss nämnda hadithen. Efteråt ska vatten hällas över den drabbade.
 
 Att ta något från dennes exkret, som urinen eller avföringen, är grundlöst. Samma gäller för att ta något från dennes *athar* [hår, naglar och liknande]. Det enda som har rapporterats är vad vi har nämnt om att tvätta dennes leder, innanför dennes *izār* och möjligtvis även innanför dennes huvudbonad och kläder. Allāh vet bäst.
 

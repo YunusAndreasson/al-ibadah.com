@@ -16,7 +16,7 @@ description: 'Fråga: Vi hör ibland vanligt folk säga saker som vi är oroliga
 
 **Svar:** Vad vanligt folk ofta säger, det sägs utan avsikt och de tror inte att det finns något förbjudet i det. Alla accepterar det, gamla som unga, men betydelsen i det förtjänar ändå att kritiseras. Därför är det bättre att avstå från det. Den första betydelsen innehåller tro på Allāh, och den troende tror på Allāh och allt som Han har informerat om. Därför är det tillräckligt att säga: ”Jag tror inte att det-eller-det har inträffat” och innebörden av detta är: Jag kommer inte tro på att detta kan inträffa, förrän det gör så.
 
-När det gäller den andra meningen, är innebörden att Allāh inte kan låta det inträffa. Användandet av ordet ”säg”, är som uttrycket: *La Qadar Allāh* [må Allāh inte förordna det] och det är något man skall vara varse om. Det är bättre att åkalla Allāh om att en sådan sak inte skall inträffa.
+När det gäller den andra meningen, är innebörden att Allāh inte kan låta det inträffa. Användandet av ordet ”säg”, är som uttrycket: *La Qadar Allāh* [må Allāh inte förordna det] och det är något man ska vara varse om. Det är bättre att åkalla Allāh om att en sådan sak inte ska inträffa.
 
 
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.

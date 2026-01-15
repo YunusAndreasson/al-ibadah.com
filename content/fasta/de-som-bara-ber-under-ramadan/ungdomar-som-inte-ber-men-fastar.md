@@ -10,10 +10,10 @@ categories:
 original_id: 404
 description: 'Fråga: Jag har sett en del unga muslimer fasta men de ber inte. Accepteras
  fastan från den som fastar utan att be? Jag har hört en del predikanter säga till
- dessa ungdomar att de skall bryta deras...'
+ dessa ungdomar att de ska bryta deras...'
 ---
 
-**Fråga:** Jag har sett en del unga muslimer fasta men de ber inte. Accepteras fastan från den som fastar utan att be? Jag har hört en del predikanter säga till dessa ungdomar att de skall bryta deras fastande och inte göra det mer, då den som inte ber inte har någon fasta.
+**Fråga:** Jag har sett en del unga muslimer fasta men de ber inte. Accepteras fastan från den som fastar utan att be? Jag har hört en del predikanter säga till dessa ungdomar att de ska bryta deras fastande och inte göra det mer, då den som inte ber inte har någon fasta.
 
 **Svar:** Den som bönen är en skyldighet för och som avsiktligen överger den och avvisar att den är en skyldighet, denne har begått otro enligt en majoritet av de lärda. Enligt den korrekta åsikten bland de lärda har också den som överger den på grund av lathet begått otro. När utlåtandet säger att denne är en icke-troende, då räknas inte fastan eller annan dyrkan. Detta beror på att Allāh säger:
 

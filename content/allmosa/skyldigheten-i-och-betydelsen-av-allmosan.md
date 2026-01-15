@@ -40,7 +40,7 @@ Likaså har profeten – över honom vare Allāhs frid och välsignelser – i e
 
 Ett allvarligt hot har kommit till den som snålar med allmosan eller som misslyckas med att betala den. Allāh den Upphöjde säger:
 
-> ”Troende! Många rabbiner och kyrkans lärda män lägger med orätt beslag på [andras] egendom och spärrar Guds väg [för andra]. De som samlar skatter av guld och silver och inte ger av detta för Guds sak, låt dem veta att ett plågsamt straff [väntar dem] den dag då dessa [skatter] skall glödgas i helvetets eld och deras pannor, sidor och ryggar brännmärkas med detta [och en röst säger:] ’Detta är de skatter ni samlade för att ni i ensamhet [ruva över dem]; smaka nu det som ni lade på hög!” [Koranen 9:34-35]
+> ”Troende! Många rabbiner och kyrkans lärda män lägger med orätt beslag på [andras] egendom och spärrar Guds väg [för andra]. De som samlar skatter av guld och silver och inte ger av detta för Guds sak, låt dem veta att ett plågsamt straff [väntar dem] den dag då dessa [skatter] ska glödgas i helvetets eld och deras pannor, sidor och ryggar brännmärkas med detta [och en röst säger:] ’Detta är de skatter ni samlade för att ni i ensamhet [ruva över dem]; smaka nu det som ni lade på hög!” [Koranen 9:34-35]
 
 Alla former av tillgångar som fordrar allmosa som inte har betalats är den giriges skatt [*kanz*]. Dess ägare kommer att plågas med den på Återuppståndelsens dag på det sätt som det har berättats om i en autentisk *hadīth[^2]* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
 
@@ -54,7 +54,7 @@ Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sa
 
 Sedan reciterade profeten – över honom vare Allāhs frid och välsignelser – denna vers:
 
-> ”De som girigt behåller för sig själva det som Gud i sin nåd har skänkt dem skall inte tro att det blir till deras bästa. Nej, det kommer att vara ett ont för dem. På Uppståndelsens dag skall de bära det som de så girigt höll fast vid hängande om halsen.” [Koranen 3:180]
+> ”De som girigt behåller för sig själva det som Gud i sin nåd har skänkt dem ska inte tro att det blir till deras bästa. Nej, det kommer att vara ett ont för dem. På Uppståndelsens dag ska de bära det som de så girigt höll fast vid hängande om halsen.” [Koranen 3:180]
 
 Allmosa är obligatoriskt för fyra kategorier av föremål:
 
@@ -64,11 +64,11 @@ Var och en av dessa fyra kategorier har en angiven lägsta gräns och allmosa ä
 
 Den lägsta gränsen för korn och frukt är fem *awsuq*. En *wasq* är detsamma som 60 *sa'[^3]* enligt det måttsystem som profeten – över honom vare Allāhs frid och välsignelser – använde. Därmed är den lägsta gränsen för torkade dadlar, russin, vete, ris, korn och liknande varor 300 *sa'[^3]* enligt hur profeten – över honom vare Allāhs frid och välsignelser – vägde. En *sa'[^3]* är det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
 
-När det gäller den lägsta gränsen för betesboskap som kameler, kor och får så förklaras detta i detalj i en autentiska *ahādīth[^2]* från Allāhs sändebud. Den som vill veta kan fråga de lärde om detta. Hade det inte varit för att avsikten med denna text hade varit att den skall vara kort, då hade vi lagt fram det här.
+När det gäller den lägsta gränsen för betesboskap som kameler, kor och får så förklaras detta i detalj i en autentiska *ahādīth[^2]* från Allāhs sändebud. Den som vill veta kan fråga de lärde om detta. Hade det inte varit för att avsikten med denna text hade varit att den ska vara kort, då hade vi lagt fram det här.
 
 Den lägsta gränsen för silver är 140 *mithqal[^4]* och dess värde i saudisk valuta är 56 riyal[^5]. Den lägsta gränsen för guld är tjugo *mithqal[^4]* och dess värde i saudiska valuta är 11 3/7 *junayh*.
 
-Det som man måste betala för dem [guld och silver] är en fyrtiondel, det vill säga 2.5 procent när man äger den minst mängden av något av dessa föremål. De måste också ha varit i ens ägo under ett år [innan allmosan skall betalas]. Får man någon vinst från dem räknas den ihop med ursprungsmängden och det behöver inte gå ett år [innan allmosa krävs på vinsten]. På samma sätt räknas ungdjur i kreatursbesättningen in i ursprungsantalet [när allmosan räknas ut] och det behöver inte gå ett år [innan man måste betala allmosa]. Detta så länge det ursprungliga antalet nådde upp till den lägsta nivån.
+Det som man måste betala för dem [guld och silver] är en fyrtiondel, det vill säga 2.5 procent när man äger den minst mängden av något av dessa föremål. De måste också ha varit i ens ägo under ett år [innan allmosan ska betalas]. Får man någon vinst från dem räknas den ihop med ursprungsmängden och det behöver inte gå ett år [innan allmosa krävs på vinsten]. På samma sätt räknas ungdjur i kreatursbesättningen in i ursprungsantalet [när allmosan räknas ut] och det behöver inte gå ett år [innan man måste betala allmosa]. Detta så länge det ursprungliga antalet nådde upp till den lägsta nivån.
 
 De papperspengar som man handlar med i dag har samma utlåtande som guld och silver. Det spelar ingen roll om de kallas för dirhma, dinar, dollar eller någonting annat. Om pengarnas värde når det lägsta värdet för guld eller silver och man har ägt dem under ett år, då krävs det allmosa för dem.
 
@@ -82,7 +82,7 @@ När det gäller handelsvaror är det föremål som anses vara till försäljnin
 
 När det gäller byggnader som hyrs ut men som inte är till försäljning, då räknas allmosan på hyran, om byggnaden har varit i ens ägo under ett år. För byggnaderna i sig krävs det ingen allmosa då de inte har varit till försäljning.
 
-Man behöver heller inte betala allmosa för privatägda eller hyrda bilar då de inte är till försäljning. Ägaren har enbart köpt dem för att använda dem. Om den som äger hyrbilen, eller någon i en liknande situation, får ihop tillräckligt med pengar för att de skall uppnå den längst nivån, då måste denne betala allmosa för dessa pengar om ett år har gått medan de har varit i dennes ägo. Det spelar ingen roll om ägaren behåller pengarna för att spendera dem, att gifta sig, köpa egendom, betala av en skuld eller i något annat syfte. Detta beror på den generella innebörden av de bevisen som bevisar skyldigheten i allmosa för föremål som dessa.
+Man behöver heller inte betala allmosa för privatägda eller hyrda bilar då de inte är till försäljning. Ägaren har enbart köpt dem för att använda dem. Om den som äger hyrbilen, eller någon i en liknande situation, får ihop tillräckligt med pengar för att de ska uppnå den längst nivån, då måste denne betala allmosa för dessa pengar om ett år har gått medan de har varit i dennes ägo. Det spelar ingen roll om ägaren behåller pengarna för att spendera dem, att gifta sig, köpa egendom, betala av en skuld eller i något annat syfte. Detta beror på den generella innebörden av de bevisen som bevisar skyldigheten i allmosa för föremål som dessa.
 
 Den korrekta åsikten bland de lärde är att skuld inte hindrar skyldigheten att betala allmosa, på grund av vad som precis har nämnts.
 

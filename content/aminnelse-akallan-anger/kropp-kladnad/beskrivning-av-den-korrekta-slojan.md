@@ -6,12 +6,12 @@ categories:
 - Åminnelse, åkallan, ånger...
 - Kropp & klädnad
 original_id: 1701
-description: 'Fråga: Jag vill veta hur en korrekt slöja skall se ut? Svar: Shaykh
+description: 'Fråga: Jag vill veta hur en korrekt slöja ska se ut? Svar: Shaykh
  al-Albāni har sagt: 1. Den bör täcka hela kroppen utom de delar som har givits
  undantag för. Allāh säger: “Profet! Säg ti...'
 ---
 
-**Fråga:** Jag vill veta hur en korrekt slöja skall se ut?
+**Fråga:** Jag vill veta hur en korrekt slöja ska se ut?
 **Svar:** Shaykh al-Albāni har sagt:
 
 1. Den bör täcka hela kroppen utom de delar som har givits undantag för. Allāh säger: 

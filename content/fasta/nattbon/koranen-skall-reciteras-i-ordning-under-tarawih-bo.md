@@ -1,5 +1,5 @@
 ---
-title: Koranen skall reciteras i ordning under tarāwīh-bönen
+title: Koranen ska reciteras i ordning under tarāwīh-bönen
 author: Ibn 'Abdullah Ibn Baz
 source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 320 s. ISBN saknas'

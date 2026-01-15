@@ -22,7 +22,7 @@ Därpå ber denneistikharah[^2]-bönen och ber sin Herre om att Han väljer det 
 
 Denne bör välja ett rättfärdigt resesällskap med människor som har kunskap och religion [för att resa med]. Likaså bör denne ta med sig islamiska böcker som denne kan ha nytta av när det gäller vallfärden och andra ting. Detta kommer även att vara nyttigt för dennes bröder.
 
-Denne bör samla en stor mängd pengar och förnödenheter för att denne skall kunna klara sig och hjälpa sina bröder om de behöver något.
+Denne bör samla en stor mängd pengar och förnödenheter för att denne ska kunna klara sig och hjälpa sina bröder om de behöver något.
 
 Denne bör ta farväl av sin familj och sina vänner när denne ger sig av på resan. Var och en av dem bör säg: ”Jag anförtror din religion, din tillit och dina slutgiltiga handlingar i Allāhs vård.”
 
@@ -34,7 +34,7 @@ Under resan, både på hem- och tillbakavägen, bör denne kämpa för att utfö
 
 Denne bör vara nyttig för sina bröder och denne bör dra nytta av dem med kunskap.
 
-Denne bör kämpa för att fullfölja de obligatoriska delarna av vallfärden och *‘umrah[^1]* samt de delar från profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]* som denne har möjlighet till. Denne bör också göra rättfärdiga handlingar. Detta bör göras i hopp om att handlingarna skall flerfaldigas [deras välsignelser].
+Denne bör kämpa för att fullfölja de obligatoriska delarna av vallfärden och *‘umrah[^1]* samt de delar från profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]* som denne har möjlighet till. Denne bör också göra rättfärdiga handlingar. Detta bör göras i hopp om att handlingarna ska flerfaldigas [deras välsignelser].
 
 Och Allāh vet bäst.
 

@@ -15,20 +15,20 @@ description: 'Fråga: Jag är nu 21 år gammal och under de fyra sista åren har
 
 **Fråga:** Jag är nu 21 år gammal och under de fyra sista åren har jag lärt känna några jämnåriga som är religiösa. Genom dem har Allāh den Högste väglett mig, och all ära tillhör Honom. Under ungefär ett och ett halvt år hade jag sällskap med dem och jag började utveckla några nobla islamiska karaktärsdrag. Min familj och mina släktingar har dock förnedrat mig och gjort sig löjliga över mig, med anledning av de förändringar som ägt rum. Jag hanterade deras påhopp men efter ett tag lämnade jag dessa ädla människor och jag föll tillbaka till min tidigare livsstil. Jag försummande Allāhs rättigheter och jag började göra hemska saker. Trots denna tillbakagång känner jag mig ångerfull över de stora synder jag begått och över att jag lämnat mina bröder.
 
-Jag hoppas att du skall kunna förklara för mig hur jag skall kunna finna en väg ut ur denna besvärliga situation. Jag skulle även vilja ha råd om några böcker jag kan läsa.
+Jag hoppas att du ska kunna förklara för mig hur jag ska kunna finna en väg ut ur denna besvärliga situation. Jag skulle även vilja ha råd om några böcker jag kan läsa.
 
 **Svar:** Det är nödvändigt att du ångrar dig inför Allāh den Allsmäktige. Detta innebär att du känner ånger över dina tidigare synder samtidigt som du överger dem och tar ett fast beslut om att inte återvända till dem. Du måste även frukta Allāh den Allsmäktige och hoppas på Hans belöning.
 
 Du måste vid upprepade tillfällen be Allāh den Allsmäktige om förlåtelse, utföra obligatoriska och frivilliga handlingar av lydnad och överge det som Allāh har förbjudit.
 
-För att du skall kunna ångra dig fullständigt över dina synder måste du återgälda rättigheterna till de människor du handlat felaktigt mot. Allāh den Allsmäktige säger:
+För att du ska kunna ångra dig fullständigt över dina synder måste du återgälda rättigheterna till de människor du handlat felaktigt mot. Allāh den Allsmäktige säger:
 
-> ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske skall det gå er väl i händer!” [Koranen 24:31]
+> ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå er väl i händer!” [Koranen 24:31]
 > 
 > 
 > 
 > 
-> ”Troende! Vänd er i uppriktig ånger [över era synder] till Gud! Kanske skall er Herre ur er [bok] utplåna era dåliga handlingar och före er till lustgårdar, vattnade av bäckar.” [Koranen 66:8]
+> ”Troende! Vänd er i uppriktig ånger [över era synder] till Gud! Kanske ska er Herre ur er [bok] utplåna era dåliga handlingar och före er till lustgårdar, vattnade av bäckar.” [Koranen 66:8]
 
 Profeten har sagt:
 

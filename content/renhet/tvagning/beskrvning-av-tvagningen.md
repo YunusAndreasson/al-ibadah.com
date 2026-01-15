@@ -26,15 +26,15 @@ Det som avses med ”en gång” är att kroppsdelen tvättas grundligt.
 5. Detta måste göras i ordningsfölj så att man tvättar ansiktet först, sedan armarna, sedan stryker över huvudet och sedan tvättar fötterna. anledningen är att profeten – över honom vare Allāhs frid och välsignelser – gjorde tvagningen[^1] på detta sätt.
 6. Allt måste utföras samtidigt, d.v.s. varje kroppsdel måste tvättas en efter en utan några längre avbrott mellan tvätten av varje del.
 
-Detta är de obligatoriska delarna av tvagningen[^1] som måste utföras för att den skall vara fullgod. Bevisen för dessa obligatoriska delar av tvagningen[^1] är koranversen i vilken Allāh säger:
+Detta är de obligatoriska delarna av tvagningen[^1] som måste utföras för att den ska vara fullgod. Bevisen för dessa obligatoriska delar av tvagningen[^1] är koranversen i vilken Allāh säger:
 
-> ”Troende! När ni går till bön, två då ansikte och händer samt armarna upp till armbågarna och stryk med [de våta] händerna över huvudet och [två] fötterna upp till fotknölarna. Och om ni befinner er i ett tillstånd av stor rituell orenhet, skall ni rena er [genom att skölja hela kroppen]. Den som är sjuk eller befinner sig på resa eller som just har förrättat sina behov eller haft beröring med kvinnor och inte kan finna vatten, skall ta ren jord och stryka över ansiktet och händer. Gud vill inte lägga på er tunga bördor, men [Han] vill rena er och fullkomna Sin nåd mot er – kanske känner ni tacksamhet.” [Koranen 5:6]
+> ”Troende! När ni går till bön, två då ansikte och händer samt armarna upp till armbågarna och stryk med [de våta] händerna över huvudet och [två] fötterna upp till fotknölarna. Och om ni befinner er i ett tillstånd av stor rituell orenhet, ska ni rena er [genom att skölja hela kroppen]. Den som är sjuk eller befinner sig på resa eller som just har förrättat sina behov eller haft beröring med kvinnor och inte kan finna vatten, ska ta ren jord och stryka över ansiktet och händer. Gud vill inte lägga på er tunga bördor, men [Han] vill rena er och fullkomna Sin nåd mot er – kanske känner ni tacksamhet.” [Koranen 5:6]
 
 Delar av tvagningen[^1] som är rekommenderade
 
 Dessa finns återberättade i profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* och detaljerna är enligt följande:
 
-1. Du måste ha avsikten att rengöra dig för att ta bort orenheter. Denna avsikt skall inte sägas högt utan den skall endast ha sin plats i hjärtat. Detta gäller all dyrkan.
+1. Du måste ha avsikten att rengöra dig för att ta bort orenheter. Denna avsikt ska inte sägas högt utan den ska endast ha sin plats i hjärtat. Detta gäller all dyrkan.
 2. Du säger *Bismillah[^3]*.
 3. Sedan du tvättar dina händer tre gånger.
 4. Sedan sköljer du din mun tre gånger, skölj runt vattnet tre gånger. Skölj näsan tre gånger genom att dra in vatten genom att använda den vänstra handen för att få bort vattnet från den.

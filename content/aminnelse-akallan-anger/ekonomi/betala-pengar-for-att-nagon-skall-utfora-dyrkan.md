@@ -1,5 +1,5 @@
 ---
-title: Betala pengar för att någon skall utföra dyrkan
+title: Betala pengar för att någon ska utföra dyrkan
 author: Muhammad bin Salih al-'Uthaymin
 source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
@@ -22,7 +22,7 @@ Det som familjen gav till denne man är inte rätt då det inte är rätt att up
 
 > ”Skälen till att deras gåvor och bidrag inte tas emot är dessa och inga andra: de tror inte på Gud och Hans Sändebud, de går inte till bön annat än i sakta mak och när de ger [till goda ändamål] ger de högst motvilligt.” [Koranen 9:54]
 
-> ”Och Vi skall se på det som de [tror sig] ha åstadkommit och Vi skall förvandla det till stoft som skingras för alla vindar.” [Koranen 25:23]
+> ”Och Vi ska se på det som de [tror sig] ha åstadkommit och Vi ska förvandla det till stoft som skingras för alla vindar.” [Koranen 25:23]
 
 
 [^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen

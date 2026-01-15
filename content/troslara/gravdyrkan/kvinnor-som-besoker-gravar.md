@@ -14,7 +14,7 @@ description: 'Fråga: Vilket är utlåtandet om kvinnor som besöker gravar? Sva
 
 **Fråga:** Vilket är utlåtandet om kvinnor som besöker gravar?
 
-**Svar:** Kvinnor får inte besöka gravar. Profeten – över honom vare Allāhs frid och välsignelser – förbannade kvinnor som besökte gravar. De är en prövning och en frestelse, och en kvinnas tålamod är kort. Därför är det en del av Allāhs nåd och barmhärtighet att Han har förbjudit dem att besöka gravar för att de varken skall bli en källa till prövningar [för andra] och inte heller [själva] sättas på prov.
+**Svar:** Kvinnor får inte besöka gravar. Profeten – över honom vare Allāhs frid och välsignelser – förbannade kvinnor som besökte gravar. De är en prövning och en frestelse, och en kvinnas tålamod är kort. Därför är det en del av Allāhs nåd och barmhärtighet att Han har förbjudit dem att besöka gravar för att de varken ska bli en källa till prövningar [för andra] och inte heller [själva] sättas på prov.
 
 Må Allāh förbättra situationen för oss alla.
 

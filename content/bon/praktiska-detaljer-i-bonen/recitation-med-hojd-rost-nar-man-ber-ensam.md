@@ -8,11 +8,11 @@ categories:
 - Praktiska detaljer i bönen
 original_id: 197
 description: 'Fråga : Får den som ber ensam recitera med höjd röst i böner där man
- skall recitera med höjd röst? Svar : Han får göra så, på samma sätt som det är
+ ska recitera med höjd röst? Svar : Han får göra så, på samma sätt som det är
  föreskrivet att en imam göra så. Detta är en ...'
 ---
 
-**Fråga**: Får den som ber ensam recitera med höjd röst i böner där man skall recitera med höjd röst?
+**Fråga**: Får den som ber ensam recitera med höjd röst i böner där man ska recitera med höjd röst?
 
 **Svar**: Han får göra så, på samma sätt som det är föreskrivet att en imam göra så. Detta är en *sunnah[^1]*. Men han bör inte höja sin röst på ett sätt som stör Allāhs tjänare, de som åminns Honom eller de som sover i närheten. Detta enligt *ahādīth[^2]* som har återberättats om detta.
 

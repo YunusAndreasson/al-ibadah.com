@@ -17,7 +17,7 @@ description: 'Fråga: Min mor blev sjuk några dagar innan ramadan. Sjukdomen gj
 
 **Svar:** Den som inte kan fasta på grund av hög ålder eller på grund av en sjukdom som denne inte förväntas att tillfriskna från, denne bryter fastan och föder en fattig för varje dag. Allāh säger:
 
-> ”Men den av er som är sjuk eller på resa [skall fasta senare] under motsvarande antal dagar.” [Koranen 2:184]
+> ”Men den av er som är sjuk eller på resa [ska fasta senare] under motsvarande antal dagar.” [Koranen 2:184]
 
 Ibn ‘Abbās har sagt:
 

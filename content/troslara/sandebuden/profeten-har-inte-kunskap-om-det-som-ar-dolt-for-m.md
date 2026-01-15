@@ -21,7 +21,7 @@ description: 'Fråga: Är profeten – över honom vare Allāhs frid och välsig
 
 Och Allāh den Upphöjde säger:
 
-> ”Säg: 'Ingen i himlarna eller på jorden har kunskap om det som är dolt för människor[^1] – [ingen har denna kunskap] utom Gud. Inte heller vet de när de skall uppväckas till nytt liv.” [Koranen 27:65]
+> ”Säg: 'Ingen i himlarna eller på jorden har kunskap om det som är dolt för människor[^1] – [ingen har denna kunskap] utom Gud. Inte heller vet de när de ska uppväckas till nytt liv.” [Koranen 27:65]
 
 Men Allāh informerar vissa av Sina Sändebud som Han valt ut om vissa saker om det som är dolt för människor[^1]. Han den Upphöjde säger:
 
@@ -29,7 +29,7 @@ Men Allāh informerar vissa av Sina Sändebud som Han valt ut om vissa saker om 
 
 Och Han den Upphöjde säger:
 
-> ”Säg: 'Jag är inte den förste av [Guds] sändebud och jag vet inte vad som skall ske med mig och med er. Jag följer bara det som uppenbarats för mig; jag är ingenting annat än en varnare, [som varnar] klart och entydigt.” [Koranen 46:9]
+> ”Säg: 'Jag är inte den förste av [Guds] sändebud och jag vet inte vad som ska ske med mig och med er. Jag följer bara det som uppenbarats för mig; jag är ingenting annat än en varnare, [som varnar] klart och entydigt.” [Koranen 46:9]
 
 Umm 'Alai säger i en lång och autentisk *hadīth[^2]*:
 

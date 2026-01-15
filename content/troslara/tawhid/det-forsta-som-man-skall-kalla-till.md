@@ -1,5 +1,5 @@
 ---
-title: Det första som man skall kalla till
+title: Det första som man ska kalla till
 categories:
 - Troslära (´Aqīdah)
 - Tawhīd [Monoteism]

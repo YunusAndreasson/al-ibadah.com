@@ -35,7 +35,7 @@ Allāh har redan förordnat principen om orsak och verkan för Hans skapelser, g
 > 
 > 
 > 
-> ”Har de aldrig begett sig ut i världen och sett [spåren som visar] hur slutet blev för dem som levde före deras tid [och som förnekade sanningen]? De var mäktigare än sina [sentida efterföljare] och brukade jorden bättre och byggde upp ett större [välstånd] än [efterföljarna]. Sändebud kom [också] till dem med klara vittnesbörd om sanningen. Men när de drabbades av Guds straff] var det inte Han som gjorde dem orätt – det var de som hade gjort orätt mot sig själva. Dessa förövare av det onda drabbades till sist av det svåraste av alla straff [- helvetets eld -] därför att de kallade Våra budskap för lögn och gjorde sig lustiga över dem. Gud inleder skapelsen och skall när tiden kommer förnya den och till sist skall ni föras åter till Honom.” [Koranen 30:9-11]
+> ”Har de aldrig begett sig ut i världen och sett [spåren som visar] hur slutet blev för dem som levde före deras tid [och som förnekade sanningen]? De var mäktigare än sina [sentida efterföljare] och brukade jorden bättre och byggde upp ett större [välstånd] än [efterföljarna]. Sändebud kom [också] till dem med klara vittnesbörd om sanningen. Men när de drabbades av Guds straff] var det inte Han som gjorde dem orätt – det var de som hade gjort orätt mot sig själva. Dessa förövare av det onda drabbades till sist av det svåraste av alla straff [- helvetets eld -] därför att de kallade Våra budskap för lögn och gjorde sig lustiga över dem. Gud inleder skapelsen och ska när tiden kommer förnya den och till sist ska ni föras åter till Honom.” [Koranen 30:9-11]
 > 
 > 
 > 
@@ -44,15 +44,15 @@ Allāh har redan förordnat principen om orsak och verkan för Hans skapelser, g
 
 Dessa och liknande verser nämner fysiska orsaker tillsammans med fysisk och immateriell verkan som Allāh har bundit samman; den förstnämnda har orsakat den sistnämnda. Detta tillhör Allāhs skapelse, genom verkan av Hans dekret och förutbestämmelse. Här resulteras immateriella ting från dem, även om Han kan skapa sådana resultat utan orsak. Det är Hans sätt – att skapa det senare från det förra. Visdomen i detta känner enbart Han till. Han den Upphöjde säger:
 
-> ”[Detta är] en Skrift, var budskap har avfattats på ett fast och klart språk och förtydligats på punkt efter punkt av en allvis [Herre], väl underrättad om allt; [den lär er] att inte dyrka någon utom Gud. [Säg, Muhammad:] ”Jag är [sänd] av Honom för att varna [er] och överbringa ett glatt budskap om hopp, där [ni förmanas] att be er Herre om förlåtelse [för era synder] och att i ånger vända åter till Honom. Då skall Han till en tidpunkt [som Han har] fastställt låta er njuta allt det goda [som ryms i detta liv], och [i det kommande livet] skall Han, efter vars och ens förtjänst skänka alla som gör det goda och det rätta Sin nåds gåvor. Men om de vänder ryggen till, [säg]: ”Jag bävar för det straff som väntar på er på [Räkenskapens ] dag.” [Koranen 11:1-3]
+> ”[Detta är] en Skrift, var budskap har avfattats på ett fast och klart språk och förtydligats på punkt efter punkt av en allvis [Herre], väl underrättad om allt; [den lär er] att inte dyrka någon utom Gud. [Säg, Muhammad:] ”Jag är [sänd] av Honom för att varna [er] och överbringa ett glatt budskap om hopp, där [ni förmanas] att be er Herre om förlåtelse [för era synder] och att i ånger vända åter till Honom. Då ska Han till en tidpunkt [som Han har] fastställt låta er njuta allt det goda [som ryms i detta liv], och [i det kommande livet] ska Han, efter vars och ens förtjänst skänka alla som gör det goda och det rätta Sin nåds gåvor. Men om de vänder ryggen till, [säg]: ”Jag bävar för det straff som väntar på er på [Räkenskapens ] dag.” [Koranen 11:1-3]
 
 Hans profet Hud predikade för sitt folk:
 
-> ”Be nu er Herre om förlåtelse för era synder, mitt folk, och vänd ångerfulla åter till Honom. Då skall Han låta Sin välsignelse flöda över er och Han skall lägga styrka till er styrka – men återgå inte till ert [förra] syndiga liv!” [Koranen 11:52]
+> ”Be nu er Herre om förlåtelse för era synder, mitt folk, och vänd ångerfulla åter till Honom. Då ska Han låta Sin välsignelse flöda över er och Han ska lägga styrka till er styrka – men återgå inte till ert [förra] syndiga liv!” [Koranen 11:52]
 
 Och Han säger om profeten – över honom vare Allāhs frid och välsignelser – Noa när han predikade för folket:
 
-> ”[Och Noa] sade: ”Jag har kommit, mitt folk, för att varna er klart och entydigt: dyrka Gud och frukta Honom! Och lyd mig! Då skall Gud förlåta er era synder och ge er uppskov till en tid [som Han] har fastställt – när den är inne, kan den inte uppskjutas – om ni [bara] visste...!” [Koranen 71:2-4]
+> ”[Och Noa] sade: ”Jag har kommit, mitt folk, för att varna er klart och entydigt: dyrka Gud och frukta Honom! Och lyd mig! Då ska Gud förlåta er era synder och ge er uppskov till en tid [som Han] har fastställt – när den är inne, kan den inte uppskjutas – om ni [bara] visste...!” [Koranen 71:2-4]
 
 Och Han den Upphöjde säger om Hans sändebuds predikande inför deras folk att de sade:
 
@@ -70,7 +70,7 @@ Så Han har gjort det klart att det är garanterat att livet kommer att tagas oc
 
 Profeten – över honom vare Allāhs frid och välsignelser – har också sagt:
 
-> ”Den som vill att hans levebröd skall utökas för honom eller att hans ålder skall utökas, då bör han bevara skötet [familjeband]*.” [al-Bukhārī 5985, Muslim* 2557 *och* *Abū Dawūd* 1693]
+> ”Den som vill att hans levebröd ska utökas för honom eller att hans ålder ska utökas, då bör han bevara skötet [familjeband]*.” [al-Bukhārī 5985, Muslim* 2557 *och* *Abū Dawūd* 1693]
 
 Därmed säger vi: Medicinsk vård är en orsak till fysisk hälsa och behandling. Detta är precis vad frågeställaren säger, men allt sker genom Allāhs tillstånd och inom Hans vetskap. Han har gjort vården till en orsak som producerar en verkan, och Han har organiserat dess verkan genom Hans kommendering och dekrets verkan enligt Hans vetskap.
 

@@ -17,7 +17,7 @@ description: 'Fråga: Jag är en kvinna som är sjuk och det var några dagar un
 
 **Svar:** För den sjuke, som fastan är för svår för, är det föreskrivet att bryta den och när Allāh botar honom ta igen det som denne är skyldig att ta igen. Detta beror på att Allāh har sagt:
 
-> ”Men den av er som är sjuk eller på resa [skall fasta senare] under motsvarande antal dagar och de som har möjlighet skall som offer ge en nödställd att äta.” [Koranen 2:184]
+> ”Men den av er som är sjuk eller på resa [ska fasta senare] under motsvarande antal dagar och de som har möjlighet ska som offer ge en nödställd att äta.” [Koranen 2:184]
 
 Du har inte syndat genom att bryta din fasta under denna månad [ramadan[^1]] så länge sjukdomen kvarstår. Detta beror på att brytandet av fastan är en lättelse från Allāh för den sjuke och den resande och Allāh älskar att man utnyttjar medgivande precis som Han hatar att man inte lyder Honom. Det finns ingen gottgörelse för dig men när Allāh botar dig måste du ta igen dessa dagar.
 

@@ -17,7 +17,7 @@ description: 'Fråga: Vad krävs av en gravid eller ammande kvinna om hon bryter
 
 **Svar:** För en gravid eller ammande kvinna är det inte tillåtet att bryta fastan dagtid under ramadan[^1] om det inte sker med en ursäkt. Bryter hon fastan med en ursäkt är det en skyldighet att ta igen fastan på grund av vad Allāh har sagt om den sjuke:
 
-> ”Men den av er som är sjuk eller på resa [skall fasta senare] under motsvarande antal dagar.” [Koranen 2:184]
+> ”Men den av er som är sjuk eller på resa [ska fasta senare] under motsvarande antal dagar.” [Koranen 2:184]
 
 Och dessa båda kvinnor [den gravida och den ammande] är likvärdiga med den som är sjuk.
 

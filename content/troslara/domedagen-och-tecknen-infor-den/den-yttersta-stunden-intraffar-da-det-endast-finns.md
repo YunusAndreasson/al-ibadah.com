@@ -8,11 +8,11 @@ categories:
 - Domedagen och tecknen inför den
 original_id: 44
 description: 'Fråga: Vi hör ofta att den Yttersta Stunden inte kommer att inträda
- förrän islam råder på jorden. Men vi hör även att den skall komma när det inte finns
+ förrän islam råder på jorden. Men vi hör även att den ska komma när det inte finns
  någon som säger ” Lā ilāha illAllāh .” Hur ...'
 ---
 
-**Fråga:** Vi hör ofta att den Yttersta Stunden inte kommer att inträda förrän islam råder på jorden. Men vi hör även att den skall komma när det inte finns någon som säger ”*Lā ilāha illAllāh*.” Hur kan vi förena dessa uttalanden?
+**Fråga:** Vi hör ofta att den Yttersta Stunden inte kommer att inträda förrän islam råder på jorden. Men vi hör även att den ska komma när det inte finns någon som säger ”*Lā ilāha illAllāh*.” Hur kan vi förena dessa uttalanden?
 
 **Svar:** Båda dessa uttalanden är korrekta. Profeten – över honom vare Allāhs frid och välsignelser – har sagt att den Yttersta Stunden inte kommer att passera förrän Jesus [Marias son] som Allāh har räddat från det onda kommer ned till jorden, dräper den falska Kristus samt svinen och förstör korset. Under denna tidsperiod kommer det att finnas välstånd i överflöd. Han kommer att avskaffa skyddskatten och endast acceptera islam eller svärdet från folket. Allāh kommer under denna tidsperiod att upphäva alla religioner utom islam. Underkastelse kommer att vara enbart för Allāh.
 

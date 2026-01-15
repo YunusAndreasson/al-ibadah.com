@@ -11,7 +11,7 @@ description: 'Fråga: Denna fråga gäller tiden för nattbönen[^1]. Det finns 
  ända tills böneutropet för gryningsbönen ro...'
 ---
 
-**Fråga:** Denna fråga gäller tiden för nattbönen[^1]. Det finns olika åsikter om när tiden för att be nattbönen[^1] går ut. Några säger att man kan be nattbönen[^1] ända tills böneutropet för gryningsbönen[^2] ropas ut, medan andra säger att den går ut vid *tahajjud*. Och slutligen tror några att vi skall ta antalet timmar mellan böneutropet för nattbönen[^1] och böneutropet för gryningsbönen[^2] och dela dem i hälften för att beräkna den sista tiden för nattbönen[^1]. Jag vet att bönen skall bes omgående och i tid. Att utan skäl fördröja en bön är inte uppmuntrat, men det vore ändå fördelaktigt att veta den exakta åsikten.
+**Fråga:** Denna fråga gäller tiden för nattbönen[^1]. Det finns olika åsikter om när tiden för att be nattbönen[^1] går ut. Några säger att man kan be nattbönen[^1] ända tills böneutropet för gryningsbönen[^2] ropas ut, medan andra säger att den går ut vid *tahajjud*. Och slutligen tror några att vi ska ta antalet timmar mellan böneutropet för nattbönen[^1] och böneutropet för gryningsbönen[^2] och dela dem i hälften för att beräkna den sista tiden för nattbönen[^1]. Jag vet att bönen ska bes omgående och i tid. Att utan skäl fördröja en bön är inte uppmuntrat, men det vore ändå fördelaktigt att veta den exakta åsikten.
 
 **Svar:** All lovprisan tillhör Allāh.
 

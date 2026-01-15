@@ -14,7 +14,7 @@ description: 'Fråga: Vilket är utlåtandet om att säga avsikten för bönen o
 
 **Fråga:** Vilket är utlåtandet om att säga avsikten för bönen och tvagningen[^1] högt?
 
-**Svar:** Utlåtandet om detta är att det är en innovation. Anledningen är att detta inte har berättats från profeten – över honom vare Allāhs frid och välsignelser – eller hans följeslagare. Därför skall det inte göras. Platsen för avsikten är i hjärtat och det finns inga krav om att uttala den.
+**Svar:** Utlåtandet om detta är att det är en innovation. Anledningen är att detta inte har berättats från profeten – över honom vare Allāhs frid och välsignelser – eller hans följeslagare. Därför ska det inte göras. Platsen för avsikten är i hjärtat och det finns inga krav om att uttala den.
 
 Och Allāh är Beviljaren av framgång.
 

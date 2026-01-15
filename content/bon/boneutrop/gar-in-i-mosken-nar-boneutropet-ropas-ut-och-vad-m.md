@@ -1,5 +1,5 @@
 ---
-title: Går in i moskén när böneutropet ropas ut och vad man då skall göra
+title: Går in i moskén när böneutropet ropas ut och vad man då ska göra
 author: Muhammad bin Sālih al-'Uthaymīn
 source: Majmū' Fatāwa Ibn 'Uthaymīn – volym 12, sida 192
 categories:

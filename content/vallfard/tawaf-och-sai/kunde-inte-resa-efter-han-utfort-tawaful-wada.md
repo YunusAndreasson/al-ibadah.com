@@ -14,7 +14,7 @@ description: 'Fråga: En man vallfärdade och han gjorde tawāful-wadā under na
 
 **Fråga:** En man vallfärdade och han gjorde *tawāf[^1] ul-wadā* under natten, men han hade inte möjlighet att lämna Mecka efter *tawāf[^1]*. Av den anledningen spenderat han natten fram till morgonen i Mecka då han reste. Vilket är utlåtandet om detta?
 
-**Svar:** Det som är föreskrivet är att pilgrimens *tawāf[^1] ul-wadā* skall ske då denne är redo att lämna Mecka. Anledningen är en *hadīth[^2]* från Ibn ‘Abbās [som det råder enighet om]:
+**Svar:** Det som är föreskrivet är att pilgrimens *tawāf[^1] ul-wadā* ska ske då denne är redo att lämna Mecka. Anledningen är en *hadīth[^2]* från Ibn ‘Abbās [som det råder enighet om]:
 
 > ”Folket kommenderades till att göra sin sista handling runt Huset [Ka’bah], men frågan har lindrats för en kvinna med månadsblödning.”
 

@@ -37,7 +37,7 @@ Vi kan tänkas kräva en mer detaljerad förklaring när det gäller karaktär. 
 
 Han har även informerat oss om att Muhammad är oskyldig till att människor splittrar sig i religionsfrågor och delar sig i grupper. Allāh den Allsmäktige säger:
 
-> ”Du har inte ansvar för dem som ger upphov till splittring i sin religion och bildar sekter. Ingen utom Gud skall döma dem, och då skall Han låta dem veta vad deras handlingar [var värda].” [Koranen 6:159]
+> ”Du har inte ansvar för dem som ger upphov till splittring i sin religion och bildar sekter. Ingen utom Gud ska döma dem, och då ska Han låta dem veta vad deras handlingar [var värda].” [Koranen 6:159]
 
 Således är en enad röst och harmoni hjärtan emellan bland de mest särskiljande karaktärsdragen för den räddade gruppen – *ahlus-sunnah[^1] wal-jamā’at*. När oenigheter uppstår mellan dem – som beror på *ijtihād[^3]* i frågor som det är tillåtet att utöva *ijtihād[^3]* i – ger de inte plats åt bittherhet, fiendskap eller hat mot varandra. Även om detta skulle inträffa känner de att de är bröder. Detta gör de till den grad att en av dem förättar bön bakom en imam som denne inte anser vara rituellt ren, medan imamen anser att han är det. När någon av dem, exempelvis, ber bakom en imam som har ätit kamelkött och denne imam inte anser att det gör tvagningen[^4] ogiltig, men den som leds i bön anser att den blir det, är han [som leds] ändå av åsikten att hans bön bakom denne imam är giltig även om han inte hade gjort så om han hade bett själv.
 

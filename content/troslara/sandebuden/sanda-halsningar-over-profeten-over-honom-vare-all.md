@@ -18,7 +18,7 @@ Somliga anser att det är obligatoriskt att sända fridshälsningar över profet
 
 Att sända frid och välsignelser över profeten – över honom vare Allāhs frid och välsignelser – är en skyldighet, enligt Allāhs den Upphöjdes kommendering: ”Gud och Hans änglar välsignar profeten; be Gud välsigna honom, ni troende, och hälsa honom med en vördnadsfull hälsning!” [Koranen 33:56]
 
-Det är en skyldighet och då det inte finns något i versen som pekar på att det skall upprepas är det endast en skyldighet att göra det en gång i livet. Att göra det fler gånger är rekommenderat, baserat på *ahādīth[^1]* som uppmuntrar oss att göra det, utom i de fall där *ahādīth[^1]* visar att det är en skyldighet.
+Det är en skyldighet och då det inte finns något i versen som pekar på att det ska upprepas är det endast en skyldighet att göra det en gång i livet. Att göra det fler gånger är rekommenderat, baserat på *ahādīth[^1]* som uppmuntrar oss att göra det, utom i de fall där *ahādīth[^1]* visar att det är en skyldighet.
 
 Må frid och välsignelser vara över vår profet Muhammad, hans familj och följeslagare.
 

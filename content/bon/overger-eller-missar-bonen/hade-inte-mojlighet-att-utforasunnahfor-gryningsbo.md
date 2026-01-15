@@ -19,7 +19,7 @@ description: 'Fråga: Vilket är utlåtandet om att ta igen sunnah för grynings
 
 Detta motsäger sig inte den *hadīth[^3]* som förbjuder att man ber. Det som är förbjudet är att man ber utan anledning.
 
-Men om man skjuter upp den till efter soluppgången och man inte är rädd för att man skall vara för upptagen för att be den, då är detta att föredra.
+Men om man skjuter upp den till efter soluppgången och man inte är rädd för att man ska vara för upptagen för att be den, då är detta att föredra.
 
 
 [^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen

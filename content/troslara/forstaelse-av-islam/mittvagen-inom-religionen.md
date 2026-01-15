@@ -17,7 +17,7 @@ description: 'Fråga: Vad avser man med medelvägen i frågor som rör religione
 
 **Svar:** En medelväg i frågor som rör religionen betyder att man inte bör överdriva, inte överträda Allāhs gränser och inte vara otillräcklig genom att inte uppfylla vad Allāh den Härlige, den Upphöjde har påbjudit.
 
-En medelväg i religiösa frågor är att hålla fast vid profetens – över honom vare Allāhs frid och välsignelser – sätt. Överdrift i frågor som rör religionen betyder att man går till överdrift. Bristfällighet innebär att man inte uppnår [vad man skall uppnå].
+En medelväg i religiösa frågor är att hålla fast vid profetens – över honom vare Allāhs frid och välsignelser – sätt. Överdrift i frågor som rör religionen betyder att man går till överdrift. Bristfällighet innebär att man inte uppnår [vad man ska uppnå].
 
 Ett exempel på detta är en man som säger: ”Jag vill stå i nattbön och jag kommer inte att sova något under den tiden. Bön är en av de bästa formerna av dyrkan och därför älskar jag att spendera hela natten i bön.” Vi säger: Detta är att gå till överdrift i Allāhs religion och det är inte rätt. Något liknande inträffade under profetens – över honom vare Allāhs frid och välsignelser – livstid när ett antal personer träffades och en av dem sade: ”Jag står i bön och jag sover inte.” En annan sade: ”Jag fastar och jag bryter inte min fasta.” Och en tredje sade: ”Jag gifter mig inte med kvinnor.” Profeten – över honom vare Allāhs frid och välsignelser – informerades om detta och han sade:
 
@@ -25,7 +25,7 @@ Ett exempel på detta är en man som säger: ”Jag vill stå i nattbön och jag
 
 Dessa avsåg att överdriva i religionen och sändebudet – över honom vare Allāhs frid och välsignelser – förklarade att han var oskyldig till detta. De uttryckte ju överdrivenhet av hans *sunnah[^1]* som inkluderar fasta samt att bryta fastan, bön, sömn och giftermål med kvinnor.
 
-Den som är otillräcklig är den som säger: ”Det finns inget behov av att jag utför frivillig dyrkan. Därför skall jag heller inte göra det. Jag gör enbart obligatoriska handlingar.” Denne kan till och med tänkas vara otillräcklig när det gäller obligatoriska handlingar. Detta är den otillräcklige.
+Den som är otillräcklig är den som säger: ”Det finns inget behov av att jag utför frivillig dyrkan. Därför ska jag heller inte göra det. Jag gör enbart obligatoriska handlingar.” Denne kan till och med tänkas vara otillräcklig när det gäller obligatoriska handlingar. Detta är den otillräcklige.
 
 En balanserad person är den som agerar enligt vad sändebudet – över honom vare Allāhs frid och välsignelser – och de korrekt vägledda kaliferna följde.
 

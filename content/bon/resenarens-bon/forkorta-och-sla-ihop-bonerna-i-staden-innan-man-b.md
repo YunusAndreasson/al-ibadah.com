@@ -20,5 +20,5 @@ description: 'Fråga: Får resenären be två förkortade böner vid samma tidpu
 
 Han säger: ”*När ni går ut [för att kämpa]*.” Han reser ju inte förrän han har lämnat staden.
 
-I fråga om att slå ihop bönerna, om han är rädd för att han inte skall ha möjlighet att be den andra bönen under resan, då har han inte syndat om han slår ihop dem och ber den andra bönen tillsammans med den första när han fortfarande är hemma. [...]
+I fråga om att slå ihop bönerna, om han är rädd för att han inte ska ha möjlighet att be den andra bönen under resan, då har han inte syndat om han slår ihop dem och ber den andra bönen tillsammans med den första när han fortfarande är hemma. [...]
 

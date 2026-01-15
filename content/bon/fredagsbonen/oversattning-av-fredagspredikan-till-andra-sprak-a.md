@@ -25,7 +25,7 @@ Det råder ingen tvekan om att innebörden är viktigare än orden, speciellt om
 
 Om det finns personer i församlingen som förstår arabiska, då är det föreskrivet att predikanten använder båda språken genom att först tala arabiska och sedan upprepa på det andra språket som resten förstår […]
 
-Det finns många bevis i den islamiska lagen för detta, likt de som tidigare har nämnts. Målet med predikan är ju att församling skall dra nytta av den genom att påminnas om Allāhs sanning, kallas till att dyrka Honom och varnas för vad Han har förbjudit. Detta kan enbart uppnås på deras språk.
+Det finns många bevis i den islamiska lagen för detta, likt de som tidigare har nämnts. Målet med predikan är ju att församling ska dra nytta av den genom att påminnas om Allāhs sanning, kallas till att dyrka Honom och varnas för vad Han har förbjudit. Detta kan enbart uppnås på deras språk.
 
 Allāh har enbart sänt Sändebud som talar sitt folks språk för att på deras språk berätta vad Allāh den Upphöjde kräver av dem. Allāh den Allsmäktige säger:
 
@@ -33,7 +33,7 @@ Allāh har enbart sänt Sändebud som talar sitt folks språk för att på deras
 
 Han säger även:
 
-> ”[Detta är] en helig Skrift som Vi har uppenbarat för dig, för att du skall leda människorna ut ur mörkret till ljuset enligt deras Herres vilja, till den väg, som för till den Allsmäktige som allt lov och pris tillhör.” [Koranen 14:1]
+> ”[Detta är] en helig Skrift som Vi har uppenbarat för dig, för att du ska leda människorna ut ur mörkret till ljuset enligt deras Herres vilja, till den väg, som för till den Allsmäktige som allt lov och pris tillhör.” [Koranen 14:1]
 
 Hur skulle det vara möjligt att leda dem ut ur mörkret in i ljuset om de inte förstår vad Allāh kräver av dem? På så sätt är det klart att översättningarna är viktiga för att visa folket vad som krävs av dem och för att klargöra Allāhs sanning för dem, om de inte kan lära sig Hans språk.
 

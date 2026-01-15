@@ -17,5 +17,5 @@ description: 'Fråga: Är det tillåtet att stå vid en grav för att söka för
 
 **Svar:** Ja, det är tillåtet att stå vid den avlidnes grav och kasta jord över den, söka förlåtelse och åkalla när denne har begravts. Detta är rekommenderat på grund av vad Abū Dawūd och al-Hakim har återgivit [al-Hakim har graderat den som autentisk] att ‘Uthmān – må Allāh vara nöjd med honom – har sagt:
 
-> ”När Allāhs sändebud begravde ett lik stod han över det och sade: 'Sök förlåtelse för er bror och be för att han skall få ståndaktighet. Sannerligen blir han utfrågad nu.'” [Abū Dawūd 3221 och al-Hakim 1:370]
+> ”När Allāhs sändebud begravde ett lik stod han över det och sade: 'Sök förlåtelse för er bror och be för att han ska få ståndaktighet. Sannerligen blir han utfrågad nu.'” [Abū Dawūd 3221 och al-Hakim 1:370]
 

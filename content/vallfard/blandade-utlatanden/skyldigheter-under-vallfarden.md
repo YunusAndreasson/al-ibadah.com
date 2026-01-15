@@ -17,7 +17,7 @@ description: 'Fråga: Vilka skyldigheter har en muslim när denne utför den obl
 
 **Svar:** Denne måste ha sådant i tankarna som Allāh har gjort obligatoriskt. Detta inkluderar att förrätta bönen noga vid deras givna tider i församlingen, att påbjuda det goda och förbjuda det onda, att kalla till Allāh med visdom samt gott tal och att undvika det som Allāh har förbjudit. Detta med anledning av vad Allāh har sagt:
 
-> ”Den som då beger sig i väg skall så länge vallfärden varar avhålla sig från intim samvaro med kvinnor, grovt tal samt trätor och tvister. Gud vet det goda ni gör.” [Koranen 2:197]
+> ”Den som då beger sig i väg ska så länge vallfärden varar avhålla sig från intim samvaro med kvinnor, grovt tal samt trätor och tvister. Gud vet det goda ni gör.” [Koranen 2:197]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 

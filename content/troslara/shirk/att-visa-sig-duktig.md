@@ -13,9 +13,9 @@ description: 'Fråga: Finns det någon chans att få välsignelser ifrån en han
 
 **Fråga:** Finns det någon chans att få välsignelser ifrån en handling förstörd av *riyā* om någon ändrar sin avsikt för att göra Allāh nöjd efter att tanken om riyā redan har dykt upp? Jag avslutar exempelvis min koranrecitation och tankar om *riyā* dyker upp. Om jag omedelbart kämpar mot dessa tankar genom att tänka på Allāh, kan jag då fortfarande få välsignelser för min recitation eller är den totalt förstörd med anledning av *riyā* om handlingen redan är över och tanken om *riyā* kom först efteråt?
 
-**Svar:** Att visa sig duktig för att andra skall se en kan påverka dyrkan på tre sätt:
+**Svar:** Att visa sig duktig för att andra ska se en kan påverka dyrkan på tre sätt:
 
-1. När det grundläggande motivet för dyrkan är att man skall ses av andra, likt någon som står och ber för att andra skall se och prisa bönen. Detta gör dyrkan ogiltig.
+1. När det grundläggande motivet för dyrkan är att man ska ses av andra, likt någon som står och ber för att andra ska se och prisa bönen. Detta gör dyrkan ogiltig.
 2. När det är något som utvecklas under dyrkan; om den troende initialt har en uppriktig avsikt mot Allāh och iden om att visa sig duktig inför andra sedan utvecklas när denne utför handlingen. I detta fall är ett av dessa båda scenarion tillämpbara: 
 
 [*] Det finns ingen sammankoppling mellan den första delen av dyrkan och den sista, då är den första delen giltig och den sista ogiltig. Ett exempel är om en man har 100 riyal[^1] som denne vill ge till välgörande ändamål. Denne ger då 50 av dess på ett uppriktigt sätt. Sedan dyker tanken om att visa sig duktig inför andra upp beträffande de sista 50. De första 50 var en god och accepterad välgörenhetshandling men de sista 50 var ogiltiga därför att uppriktigheten blandades med en vilja att visa sig duktig. 

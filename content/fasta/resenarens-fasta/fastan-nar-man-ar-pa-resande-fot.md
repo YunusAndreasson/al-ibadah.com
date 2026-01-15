@@ -7,12 +7,12 @@ categories:
 - Fasta (Sawm)
 - Resenärens fasta
 original_id: 1403
-description: 'Fråga: Är det ett villkor för att den som reser skall få medgivande
+description: 'Fråga: Är det ett villkor för att den som reser ska få medgivande
  att bryta fastan under ramadan att dennes resa är till fots eller med djur, eller
  är det ingen skillnad om resan är till fots, m...'
 ---
 
-**Fråga:** Är det ett villkor för att den som reser skall få medgivande att bryta fastan under ramadan[^1] att dennes resa är till fots eller med djur, eller är det ingen skillnad om resan är till fots, med riddjur, med bil eller med flygplan? Är det ett villkor att resan måste vara tröttsam till den grad att den fastande inte kan klara fastan? Är det bättre för resenären att fasta om denne har möjlighet eller är det bättre att inte fasta?
+**Fråga:** Är det ett villkor för att den som reser ska få medgivande att bryta fastan under ramadan[^1] att dennes resa är till fots eller med djur, eller är det ingen skillnad om resan är till fots, med riddjur, med bil eller med flygplan? Är det ett villkor att resan måste vara tröttsam till den grad att den fastande inte kan klara fastan? Är det bättre för resenären att fasta om denne har möjlighet eller är det bättre att inte fasta?
 
 **Svar:** Den resenär som reser, när denne får korta ned bönen, får bryta fastan under resan. Det spelar ingen roll om denne går eller rider, och det spelar ingen roll om denne åker med bil, flygplan eller något annat. Det spelar heller ingen roll om denne under resan blir utmattad till den grad att denne inte kan klara fastan, eller om denne inte blir utmattad. Det spelar ingen roll om denne lider av hunger och törst eller om denne inte lider av det. Detta beror på att den islamiska lagen utan villkor har gett resenären som är ute på en resa, där det är tillåtet att korta bönen, tillstånd att bryta fastan. Den islamiska lagen har inte begränsats till något transportmedel och den har heller inte begränsats till rädsla för utmattning, hunger eller törst. Sannerligen brukade profetens – över honom vare Allāhs frid och välsignelser – följeslagare - må Allāh vara nöjd med dem -resa med honom på hans expeditioner under ramadan[^1]; en del av dem fastade och andra gjorde det inte. Men de kritiserade inte varandra för det. Den resande bör utan tvekan bryta fastan under ramadan[^1] om fastan blir svår på grund av intensiv hetta, en dålig väg eller om det är en lång väg och en resa utan uppehåll, exempelvis. Anas har sagt: ”*Vi var tillsammans med Allāhs sändebud under en resa. Några av oss fastade medan andra inte fastade. De som inte fastade drog åt deras bälten och strävade medan de som fastade blev för svaga för att arbeta. Sedan sade profeten: ’De som bröt fastan har tagit belöningen i dag.’*” [*al-Bukhārī* 2890 och *Muslim* 1119] Att bryta fastan under en resa kan vara en skyldighet under en nödsituation som nödvändiggör det, som i hadithen från Abū Sa'id al-Khudri när han säger:
 

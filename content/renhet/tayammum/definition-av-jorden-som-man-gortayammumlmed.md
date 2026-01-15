@@ -17,7 +17,7 @@ description: 'Fråga: Är det ett villkor att jorden som man gör tayammum med i
 
 **Svar:** Den starkaste åsikten säger att det inte är ett villkor för *tayammum[^1]* att det finns stoftpartiklar i den. Faktum är att om man gör *tayammum[^1]* mot marken så är det tillräckligt oberoende av om där finns stoftpartiklar eller ej. Regnar det så stryker man marken med sina händer och sedan stryker man över ansiktet och händerna. Detta [gäller] även om det inte finns några stoftpartiklar på marken. Allāh den Upphöjde säger:
 
-> ”Och om ni befinner er i ett tillstånd av stor rituell orenhet, skall ni rena er [genom att skölja hela kroppen].” [Koranen 5:6]
+> ”Och om ni befinner er i ett tillstånd av stor rituell orenhet, ska ni rena er [genom att skölja hela kroppen].” [Koranen 5:6]
 
 En annan anledning är den att profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare – må Allāh vara nöjd med dem – brukade resa till områden där det inte fanns någon sand och det regnade då över dem. De gjorde då *tayammum[^1]* som Allāh den Allsmäktige har kommenderat.
 

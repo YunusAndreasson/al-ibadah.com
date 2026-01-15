@@ -31,7 +31,7 @@ Och Allāh är Beviljaren av framgång.
 [^2]: Dhuhr
 [^3]: Att säga Allahu Akbar.
 [^4]: Tahiyyatul-Msjid.
-[^5]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen skall börja.
+[^5]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
 [^6]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^7]: Rättslära.
 

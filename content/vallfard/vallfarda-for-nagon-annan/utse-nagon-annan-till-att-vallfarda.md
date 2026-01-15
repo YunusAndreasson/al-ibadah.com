@@ -16,11 +16,11 @@ description: 'Fråga: En man bestämde sig för att spendera i välgörenhet och
 
 **Fråga:** När det gäller din välgörenhet för både din faders och moders vallfärd, då är detta en vänlighet och godhet som Allāh kommer att ge dig enorma belöningar för.
 
-När du ger pengarna som du har avsett för din faders och moders vallfärd till en kvinna [som ger dem till sin man] för att han skall utföra faderns vallfärd för dem, då sätter du enligt vad du beskrivit din tillit till denna kvinna. Att sätta sin tillit till någon annan i denna fråga är tillåtet och att utse någon annan vallfärdar är godkänt, om denne har vallfärdat själv tidigare.
+När du ger pengarna som du har avsett för din faders och moders vallfärd till en kvinna [som ger dem till sin man] för att han ska utföra faderns vallfärd för dem, då sätter du enligt vad du beskrivit din tillit till denna kvinna. Att sätta sin tillit till någon annan i denna fråga är tillåtet och att utse någon annan vallfärdar är godkänt, om denne har vallfärdat själv tidigare.
 
-Samma gäller när du betalar kvinnan för att hon skall vallfärda åt din moder. Det är tillåtet att utse en kvinna till att vallfärda åt en annan kvinna eller man. Detta baseras på bevis från Allāh Budbärare.
+Samma gäller när du betalar kvinnan för att hon ska vallfärda åt din moder. Det är tillåtet att utse en kvinna till att vallfärda åt en annan kvinna eller man. Detta baseras på bevis från Allāh Budbärare.
 
-Den som vill utse någon annan som vallfärdar bör noggrant se på personen som denne vill utse och säkerställa att det är en religiös person som är pålitlig. Detta beror på att de skall känna sig säkra på att personen skall göra det som är obligatoriskt.
+Den som vill utse någon annan som vallfärdar bör noggrant se på personen som denne vill utse och säkerställa att det är en religiös person som är pålitlig. Detta beror på att de ska känna sig säkra på att personen ska göra det som är obligatoriskt.
 
 Och framgång kommer från Allāh.
 

@@ -30,7 +30,7 @@ Svaret är att det som den vise gör utan tvekan görs genom dennes eget val. Ly
 > 
 > 
 > 
-> ”Men den som har det eviga livet för ögonen och som riktar hela sin strävan mot detta [mål] och som har trons [visshet], sådana [som han skall se] sin strävan uppskattad [till dess fulla värde].” [Koranen 17:19]
+> ”Men den som har det eviga livet för ögonen och som riktar hela sin strävan mot detta [mål] och som har trons [visshet], sådana [som han ska se] sin strävan uppskattad [till dess fulla värde].” [Koranen 17:19]
 > 
 > 
 > 

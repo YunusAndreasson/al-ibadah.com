@@ -1,6 +1,6 @@
 ---
 title: Profetens – över honom vare Allāhs frid och välsignelser – förklaring av på
- vilket sätt det muslimska samfundet skall komma att skilja sig åt efter hans bortgång
+ vilket sätt det muslimska samfundet ska komma att skilja sig åt efter hans bortgång
 author: Muhammad bin Salih al-'Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 38 s. ISBN 9960-892-66-2'
@@ -19,7 +19,7 @@ description: 'Fråga: Profeten – över honom vare Allāhs frid och välsignels
 
 Denna grupp är den räddade gruppen som i detta liv kommer att räddas från innovationer och i det Nästkommande från Elden. Detta är en grupp som kommer att bli hjälpt tills Timmen börjar; något som är ett redan existerande fenomen genom Allāhs den Allsmäktiges kommendering.
 
-Somliga har försökt att räkna upp dessa 73 grupper, där en följer sanningen och där resten följer det som är falskt. De har delat upp innovatörerna i fem kategorier och för varje kategori har de angett grenar för att antalet skall uppnå det som profeten – över honom vare Allāhs frid och välsignelser – har berättat om.
+Somliga har försökt att räkna upp dessa 73 grupper, där en följer sanningen och där resten följer det som är falskt. De har delat upp innovatörerna i fem kategorier och för varje kategori har de angett grenar för att antalet ska uppnå det som profeten – över honom vare Allāhs frid och välsignelser – har berättat om.
 
 Andra anser att det är mer passande att avstå från att räkna dem då dessa grupper inte är de enda som har gått vilse. Utan tvekan har människor gått vilse än mer än vad de gjort tidigare och detta inträffande när dessa grupper hade uppnått 72. De säger att antalet enbart kommer att öka och att det inte är möjligt att känna till det slutgiltiga, utom när Timmen börjar.
 

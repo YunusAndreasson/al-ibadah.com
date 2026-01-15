@@ -8,13 +8,13 @@ categories:
 - Ihrām och avsikten inför vallfärden
 original_id: 1335
 description: 'Fråga: Är det tillåtet att uttala avsikten för att utföra ‘umrah ,
- vallfärden, tawāf och sa’ī vid det Ka’bah? Svar: Att avsikten skall uttalas
+ vallfärden, tawāf och sa’ī vid det Ka’bah? Svar: Att avsikten ska uttalas
  har inte rapporterats från profeten – över ...'
 ---
 
 **Fråga:** Är det tillåtet att uttala avsikten för att utföra *‘umrah[^1]*, vallfärden, *tawāf[^2]* och *sa’ī[^3]* vid det Ka’bah?
 
-**Svar:** Att avsikten skall uttalas har inte rapporterats från profeten – över honom vare Allāhs frid och välsignelser – i fråga om bönen, tvagningen[^4], fastan eller någon annan dyrkan. Inte heller för vallfärden eller *‘umrah[^1]* sade profeten: ”*Sannerligen avser jag det och det*.” Detta har inte bekräftats från honom och han beordrade heller ingen av följeslagarna att göra det.
+**Svar:** Att avsikten ska uttalas har inte rapporterats från profeten – över honom vare Allāhs frid och välsignelser – i fråga om bönen, tvagningen[^4], fastan eller någon annan dyrkan. Inte heller för vallfärden eller *‘umrah[^1]* sade profeten: ”*Sannerligen avser jag det och det*.” Detta har inte bekräftats från honom och han beordrade heller ingen av följeslagarna att göra det.
 
 Det mesta som har rapporterats är att Dhuba'ah bint Zubair, när hon var sjuk, klagade inför honom om att hon ville vallfärda. Profeten – över honom vare Allāhs frid och välsignelser – sade därför: ”*Vallfärda och ange ett villkor [genom att säga]: 'Min plats för att träda ur *ihrām[^5]* är där Du stoppar mig.' För sannerligen kommer du få från din Herre vad du gjorde som ett undantag*.” [*al-Bukhārī* 5089, *Muslim* 1207 och *an-Nasā’i* 2769]
 

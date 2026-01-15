@@ -19,7 +19,7 @@ description: 'Fråga: Jag känner ofta tvivel om hur många bönecykler jag har 
 
 Och Hans ord: ”*Och om djävulen får din [vrede] att blossa upp, be då Gud beskydda dig; Han hör allt, vet allt*.” [Koranen 7:200]
 
-Om du avslutar bönen eller tvagningen[^3] och får tvivel, undvik dem då och ge dem ingen uppmärksamhet. Anse att din bön eller tvagning[^3] är giltig. Dyker tvivlet upp under bönen om huruvida du har bett tre eller fyra bönecykler[^1], anta då att du har bett tre och be klart bönen. Nedfall sedan två gånger för glömska innan *taslīm[^4]*. Profeten – över honom vare Allāhs frid och välsignelser – har sagt att den som glömmer skall göra så här.
+Om du avslutar bönen eller tvagningen[^3] och får tvivel, undvik dem då och ge dem ingen uppmärksamhet. Anse att din bön eller tvagning[^3] är giltig. Dyker tvivlet upp under bönen om huruvida du har bett tre eller fyra bönecykler[^1], anta då att du har bett tre och be klart bönen. Nedfall sedan två gånger för glömska innan *taslīm[^4]*. Profeten – över honom vare Allāhs frid och välsignelser – har sagt att den som glömmer ska göra så här.
 
 Må Allāh skydda oss från djävulen.
 

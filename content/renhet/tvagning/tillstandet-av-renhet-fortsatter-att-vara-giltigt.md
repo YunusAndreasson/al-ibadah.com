@@ -9,10 +9,10 @@ categories:
 original_id: 1437
 description: 'Fråga: Om någon tvagar sig, det går en stund, tiden för bönen kommer
  och denne inte kommer ihåg om denne är ren eller om denne behöver tvaga sig igen
- – hur skall denne göra då? Svar: Om någon ...'
+ – hur ska denne göra då? Svar: Om någon ...'
 ---
 
-**Fråga:** Om någon tvagar sig, det går en stund, tiden för bönen kommer och denne inte kommer ihåg om denne är ren eller om denne behöver tvaga sig igen – hur skall denne göra då?
+**Fråga:** Om någon tvagar sig, det går en stund, tiden för bönen kommer och denne inte kommer ihåg om denne är ren eller om denne behöver tvaga sig igen – hur ska denne göra då?
 
 **Svar:** Om någon gör en fullständig tvagning[^1] och är i det tillståndet även om det går en tid, för att sedan bli tveksam över om tvagningen[^1] är giltig, då bör denne inte bry sig om dessa tvivel. I stället bör denne utgå från vad denne är säker på, och det är att denne är rituellt ren. Anledningen är att det har rapporterats i *Sahīh al-Bukhārī* och *Sahīh Muslim* från 'Abdullāh bin Zaid att en man klagade inför profeten – över honom vare Allāhs frid och välsignelser – om misstankar om att han hade släppt sig under bönen, han sade då: ”*Man bör inte lämna bönen utom om man hör ett ljud eller känner en lukt*.”[*al-Bukhārī* 177 och *Muslim* 361]
 

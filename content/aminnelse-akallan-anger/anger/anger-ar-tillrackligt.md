@@ -17,12 +17,12 @@ description: 'Från: Jag är nu 29 år gammal och jag började be när jag var 2
 
 **Svar:** Den korrekta åsikten är att du inte behöver ta igen de böner du missat då uppriktig ånger är tillräckligt för dig. Uppriktig ånger här innebär att du känner ånger över att ha missat bönerna, att du är stadig i din bön och att du beslutar dig för att aldrig missa en bön igen. Allāh den Allsmäktige säger:
 
-> ”Om ni gör slut på [ert motstånd mot tron] skall det förflutna förlåtas er.” [Koranen 8:38]
+> ”Om ni gör slut på [ert motstånd mot tron] ska det förflutna förlåtas er.” [Koranen 8:38]
 > 
 > 
 > 
 > 
-> ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske skall det gå i händer!” [Koranen 24:31]
+> ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå i händer!” [Koranen 24:31]
 > 
 > 
 > 

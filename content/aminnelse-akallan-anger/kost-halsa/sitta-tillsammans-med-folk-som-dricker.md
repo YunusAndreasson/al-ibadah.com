@@ -20,7 +20,7 @@ Att sitta tillsammans med dem kan leda till att man gör samma onda saker som de
 
 > ”Om du ser människor [i lättsinne] ge sig in i en diskussion om Våra budskap, dra dig då ifrån dem till dess de övergår till andra ämnen och om Djävulen skulle få dig att glömma [detta], stanna då inte i sådana ogudaktiga människor sällskap, då du påmint dig [din plikt].” [Koranen 6:68]
 
-> ”Det har uppenbarats för er i Skriften att ni inte bör söka sällskap med dem som ni hör förneka och skämta om Guds budskap, om de inte övergår till andra samtalsämnen. Annars kan ni bli lika dem. Gud skall samla förnekarna i Helvetet och med dem hycklarna.” [Koranen 4:140]
+> ”Det har uppenbarats för er i Skriften att ni inte bör söka sällskap med dem som ni hör förneka och skämta om Guds budskap, om de inte övergår till andra samtalsämnen. Annars kan ni bli lika dem. Gud ska samla förnekarna i Helvetet och med dem hycklarna.” [Koranen 4:140]
 
 Och Allāh är Beviljaren av framgång.
 

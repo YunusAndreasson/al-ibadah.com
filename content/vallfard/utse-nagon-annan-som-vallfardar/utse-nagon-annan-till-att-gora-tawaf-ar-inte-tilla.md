@@ -21,7 +21,7 @@ På samma sätt krävs inte *tawaful-wada*[^1] av en kvinna med månadsblödning
 
 Hennes ed har den ingen betydelse. En obligatorisk *tawāf[^2]* kräver ingen ed, då den är en skyldighet enligt den islamiska lagen. Men om någon svär att utföra en *tawāf[^2]* som inte är obligatorisk, då blir den en skyldighet med anledning av denna ed. Anledningen är att Allāh har sagt:
 
-> ”Därefter skall de fullfölja och avsluta de för vällfärden föreskrivna andaktsövningarna och infria de högtidliga löften som de har avlagt och [en sista gång] utföra rundvandringen omkring den äldsta Helgedomen.” [Koranen 22:29]
+> ”Därefter ska de fullfölja och avsluta de för vällfärden föreskrivna andaktsövningarna och infria de högtidliga löften som de har avlagt och [en sista gång] utföra rundvandringen omkring den äldsta Helgedomen.” [Koranen 22:29]
 
 
 [^1]: Rundvandringen runt Kabah före avfärden från Mecka.

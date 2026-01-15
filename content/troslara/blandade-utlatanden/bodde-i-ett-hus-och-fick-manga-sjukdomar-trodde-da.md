@@ -17,7 +17,7 @@ description: 'Fråga: En man bodde i ett hus och han led av sjukdomar och olycko
 
 **Svar:** Det är möjligt att det finns dåliga omen i vissa hus, färdmedel eller fruar. Allāh kan genom en visdom som Han känner se till att behållandet av dem kan leda till något skadligt, att man förlorar något givande eller något liknande. Då finns det ingen invändan mot att han säljer huset för att flytta till ett nytt. Möjligen kommer Allāh den Upphöjde att placera gott i huset som han flyttar till.
 
-Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Onda omen finns i tre ting: huset, kvinnan och hästen*.” [*al-Bukhārī* 2858] Det finns då onda omen i vissa färdmedel, fruar och hus. Överväger man detta bör man veta att det sker genom Allāhs den Allsmäktiges förutbestämmelse och att Allāh den Härlige, den Upphöjde genom Sin visdom har bestämt detta för att man skall flytta till en annan plats.
+Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Onda omen finns i tre ting: huset, kvinnan och hästen*.” [*al-Bukhārī* 2858] Det finns då onda omen i vissa färdmedel, fruar och hus. Överväger man detta bör man veta att det sker genom Allāhs den Allsmäktiges förutbestämmelse och att Allāh den Härlige, den Upphöjde genom Sin visdom har bestämt detta för att man ska flytta till en annan plats.
 
 Och Allāh vet bäst.
 

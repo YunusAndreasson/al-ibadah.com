@@ -1,5 +1,5 @@
 ---
-title: När nedfallandet för glömska skall göras
+title: När nedfallandet för glömska ska göras
 author: Ibn 'Abdullāh Ibn Baz
 source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 272 s. ISBN saknas'

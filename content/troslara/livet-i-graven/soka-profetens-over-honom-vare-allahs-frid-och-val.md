@@ -23,12 +23,12 @@ description: 'Fråga: Är profetens – över honom vare Allāhs frid och välsi
 > 
 > 
 > 
-> ”Allt på jorden skall förgå; men din Herre förblir i evighet i Sitt majestät och Sin härlighet.” [Koranen 55:26-27]
+> ”Allt på jorden ska förgå; men din Herre förblir i evighet i Sitt majestät och Sin härlighet.” [Koranen 55:26-27]
 > 
 > 
 > 
 > 
-> ”Du skall dö [Muhammad], och de skall dö.” [Koranen 39:30]
+> ”Du ska dö [Muhammad], och de ska dö.” [Koranen 39:30]
 
 Allt detta och många andra bevis visar på att profeten är död – må Allāhs frid och välsignelser vara över honom. Därutöver så tvättade hans följeslagare honom, de bad begravningsbönen och de begravde honom. Hade han varit vid liv precis som oss hade de inte begravt honom på så vis som andra människor begravs. Hans dotter, Fatimah, begärde en del av hans arv då hon var säker på att han hade gått bort, precis som följeslagarna var säkra. Abu Bakr sade dock till henne att inget ärvs från profeterna. Följeslagarna vara även helt eniga om att välja Abu Bakr som kalif efter honom. Hade profeten – må Allāhs frid och välsignelser vara över honom – varit vid liv hade de inte valt en kalif efter honom. Detta betyder att de var helt eniga om att han hade gått bort.
 

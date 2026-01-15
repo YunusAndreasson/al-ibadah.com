@@ -18,7 +18,7 @@ description: 'Fråga: Är det sant att änglar inte går in i ett rum som det fi
 
 Därmed kan vi dra slutsatsen att det som klippts upp, trampas eller sitts på är tillåtet. Det som hängs på väggen eller något liknande är dock inte tillåtet.
 
-Detta beror antingen på att det i bilderna finns imitationer av Allāhs skapelse eller på rädslan för att dessa bilder, eller deras skapare, skall bli till objekt som vördas överdrivet mycket.
+Detta beror antingen på att det i bilderna finns imitationer av Allāhs skapelse eller på rädslan för att dessa bilder, eller deras skapare, ska bli till objekt som vördas överdrivet mycket.
 
 
 [^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.

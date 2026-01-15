@@ -16,7 +16,7 @@ description: 'Fråga: Jag har frågor om det är tillåtet att be i en moské so
 
 **Fråga:** Jag har frågor om det är tillåtet att be i en moské som innehåller en grav.
 
-Några lärde säger att det inte är tillåtet att be i dem. De säger att om det inte finns någon annan moské i staden, då skall du be i ditt hem, vilket är bättre när det kommer till belöningar.
+Några lärde säger att det inte är tillåtet att be i dem. De säger att om det inte finns någon annan moské i staden, då ska du be i ditt hem, vilket är bättre när det kommer till belöningar.
 
 Andra säger att det är tillåtet att be i dem då sändebudets och hans båda följeslagares [Abū Bakr och 'Umar] gravar finns i hans moské. Jag har inget bevis för endera åsikten. Då jag bor på landet i Senegal skickar jag detta brev till dig för att få reda på sanningen och bevisen. I vår stad har vi en moské som det finns fyra gravar i. Tre ligger längs med väggen – exakt i riktning mot *qiblah[^1]*. Den fjärde finns inuti moskén.
 

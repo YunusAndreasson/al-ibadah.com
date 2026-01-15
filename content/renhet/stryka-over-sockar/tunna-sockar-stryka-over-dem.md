@@ -8,11 +8,11 @@ categories:
 - Stryka över sockar
 original_id: 1442
 description: 'Fråga: Vilket är utlåtandet om att stryka över tunna sockar? Svar: Ett
- av villkoren för att det skall vara tillåtet att stryka över sockarna är att de
+ av villkoren för att det ska vara tillåtet att stryka över sockarna är att de
  är tjocka och täcker foten. Om de är tunn...'
 ---
 
 **Fråga:** Vilket är utlåtandet om att stryka över tunna sockar?
 
-**Svar:** Ett av villkoren för att det skall vara tillåtet att stryka över sockarna är att de är tjocka och täcker foten. Om de är tunna är det inte tillåtet att stryka över dem. Då är ju foten inte täckt.
+**Svar:** Ett av villkoren för att det ska vara tillåtet att stryka över sockarna är att de är tjocka och täcker foten. Om de är tunna är det inte tillåtet att stryka över dem. Då är ju foten inte täckt.
 

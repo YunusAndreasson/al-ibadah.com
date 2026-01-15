@@ -14,7 +14,7 @@ description: 'Fråga: Vi har i dessa tider hört vad som skapar dispyter och fö
 
 **Fråga:** Vi har i dessa tider hört vad som skapar dispyter och förvåning. Somliga säger: ”Vi gillar inte att våra fruar föder döttrar.” Någon har sagt till sin fru: ”Vid Allāh, om du föder en dotter kommer jag att skilja mig från dig!” Vi svär oss fria dem. Man kan se kvinnor i djup förtvivlan på grund av detta. Vad bör hon göra? Har ni något råd?
 
-**Svar:** Jag tror att vad denna broder säger är mycket sällsynt och jag tror inte att någons okunnighet skall nå den nivå att han hotar sin fru med skilsmässa om hon föder honom en flicka. Detta förutom om han var trött på sin fru och använde detta som en ursäkt för skilsmässa. Om det förhöll sig så och han inte stod ut med henne och han försökt men inte kunnat, då kan han skilja sig på ett annat sätt än detta. Detta beror på att det inte finns någon invändan mot skilsmässa när det är nödvändigt.
+**Svar:** Jag tror att vad denna broder säger är mycket sällsynt och jag tror inte att någons okunnighet ska nå den nivå att han hotar sin fru med skilsmässa om hon föder honom en flicka. Detta förutom om han var trött på sin fru och använde detta som en ursäkt för skilsmässa. Om det förhöll sig så och han inte stod ut med henne och han försökt men inte kunnat, då kan han skilja sig på ett annat sätt än detta. Detta beror på att det inte finns någon invändan mot skilsmässa när det är nödvändigt.
 
 Efter att ha sagt detta råder vi alla som ser något ogillat i sin fru att vara tålmodig då Allāh den Högste har sagt: 
 

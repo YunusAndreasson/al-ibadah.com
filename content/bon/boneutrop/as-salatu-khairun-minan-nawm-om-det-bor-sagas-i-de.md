@@ -20,7 +20,7 @@ Det bör kännas till att det första böneutropet som avses i hadithen är det 
 
 I*Sahīh al-Bukhārī* återges att de troendes ledare, ‘Uthmān bin 'Affan, lagt till ett tredje böneutrop vid fredagsbönen.
 
-Det första böneutropet i vilket Bilal beordrades att säga *as-salatu khairun minan-nawm* var böneutropet för gryningsbönen[^2]. Folket kallar böneutropet under den sista delen av natten för det första böneutropet för gryningsbönen[^2] men det är inte för gryningsbönen[^2]. Profeten – över honom vare Allāhs frid och välsignelser – har ju sagt: ”*Bilal ropar ut böneutropet under natten för att väcka de av er som sover och för att de som står i bön skall kunna återvända*.” [*al-Bukhārī* och *Muslim*] Syftet med detta är att den som sover skall gå upp och äta sin *sahūr* och att den som står i bön under natten skall återvända och äta sin *sahūr*.
+Det första böneutropet i vilket Bilal beordrades att säga *as-salatu khairun minan-nawm* var böneutropet för gryningsbönen[^2]. Folket kallar böneutropet under den sista delen av natten för det första böneutropet för gryningsbönen[^2] men det är inte för gryningsbönen[^2]. Profeten – över honom vare Allāhs frid och välsignelser – har ju sagt: ”*Bilal ropar ut böneutropet under natten för att väcka de av er som sover och för att de som står i bön ska kunna återvända*.” [*al-Bukhārī* och *Muslim*] Syftet med detta är att den som sover ska gå upp och äta sin *sahūr* och att den som står i bön under natten ska återvända och äta sin *sahūr*.
 
 Profeten – över honom vare Allāhs frid och välsignelser – har även sagt till Mālik bin al-Huwairith: ”*Kommer tiden för bön bör en av er ropa ut böneutropet*.” [*al-Bukhārī* och *Muslim*] Det är välkänt att bönen inte börjar förrän när tiden för gryningsbönen[^2] har börjat så det böneutrop som kommer innan gryningsbönen[^2] har börjat är inte böneutropet för gryningsbönen[^2].
 
@@ -31,5 +31,5 @@ De som har fått för sig att det som avses med det första böneutropet i hadit
 
 [^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Fajr
-[^3]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen skall börja.
+[^3]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
 

@@ -15,7 +15,7 @@ description: 'Fråga: Jag ber alltid mina böner vid deras fastslagna tider men 
 
 **Fråga:** Jag ber alltid mina böner vid deras fastslagna tider men jag går inte till moskén för att be. I stället ber jag dem hemma tillsammans med mina barn. Är detta tillåtet? Är belöningen för att be hemma samma som för att be i moskén?
 
-**Svar:** Även om du ber tillsammans med dina barn i ditt hem får du inte överge bönen i församlingen i moskén. Anledningen är att moskén har byggts för att bönen skall bes i den med församlingen. Likaså har böneutropet föreskrivits i vilket böneutroparen säger: ”*Hayya 'alas-salah*” [Kom till bönen för att få framgång]. När vi hör böneutropet måste vi gå dit där muslimer samlas för att ledas i bön av en imam, lära oss bönen som är en skyldighet, träffa andra muslimer, växla fridshälsningar, få belöningar för att be i församling, lära oss att älska varandra och ge varandra råd. Bevisen för att man måste be i församlingen är Allāhs ord:
+**Svar:** Även om du ber tillsammans med dina barn i ditt hem får du inte överge bönen i församlingen i moskén. Anledningen är att moskén har byggts för att bönen ska bes i den med församlingen. Likaså har böneutropet föreskrivits i vilket böneutroparen säger: ”*Hayya 'alas-salah*” [Kom till bönen för att få framgång]. När vi hör böneutropet måste vi gå dit där muslimer samlas för att ledas i bön av en imam, lära oss bönen som är en skyldighet, träffa andra muslimer, växla fridshälsningar, få belöningar för att be i församling, lära oss att älska varandra och ge varandra råd. Bevisen för att man måste be i församlingen är Allāhs ord:
 
 > ”Förrätta bönen och ge åt de behövande och böj era huvuden med de andra som böjer sina huvuden [i bön].” [Koranen 2:43]
 

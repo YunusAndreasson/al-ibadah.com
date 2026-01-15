@@ -23,9 +23,9 @@ Detta är ett bevis för att *jinn[^1]* kan visa fiendskap mot människor och at
 
 De *ahādīth[^3]* som beskriver detta är många. Vi får bland annat veta att någon kan komma till en förfallen byggnad och där få stenar kastade på sig, även om det inte syns till någon där. Röster och prasslande ljud som påminner om hur träd prasslar [i vinden] kan uppfattas. Detta kan oroa och skada honom. *Jinn[^1]* kan även på grund av kärlek komma in i en människas kropp för att till exempel skada. Detta visar Allāhs den Upphöjdes ord:
 
-> ”De som livnär sig på ocker skall uppstå [till Domen] lika ostadiga på benen som den som djävulen med sin beröring slagit med vansinne.” [Koranen 2:275]
+> ”De som livnär sig på ocker ska uppstå [till Domen] lika ostadiga på benen som den som djävulen med sin beröring slagit med vansinne.” [Koranen 2:275]
 
-I detta fall kan *jinn[^1]* tala inifrån människor, de kan tala till den som reciterar verser från den ädla Koranen. Reciteraren kan till exempel få ett löfte från denne *jinn[^1]* om att den inte skall återvända. Detta har vi lärt oss genom vad vi har fått berättat för oss och vad som är vanlig kännedom bland folk.
+I detta fall kan *jinn[^1]* tala inifrån människor, de kan tala till den som reciterar verser från den ädla Koranen. Reciteraren kan till exempel få ett löfte från denne *jinn[^1]* om att den inte ska återvända. Detta har vi lärt oss genom vad vi har fått berättat för oss och vad som är vanlig kännedom bland folk.
 
 Med detta som grund: Skydd mot det onda i *jinn[^1]* får man genom att reciterar sådant som har återberättats i profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* om skydd mot dem. Detta kan vara al-Kursi[^4]-versen. När man reciterar denna vers under natten befinner man sig ju under Allāhs skydd och djävulen kan inte närma sig en förrän under morgonen.
 

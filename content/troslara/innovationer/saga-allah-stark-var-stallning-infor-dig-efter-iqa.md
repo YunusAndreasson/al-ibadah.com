@@ -16,5 +16,5 @@ description: 'Fråga: Kan man säga ”Allāh, stärk vår ställning inför dig
 **Svar:** Det finns ingen grund för att säga detta: ”Allāh, stärk vår ställning inför dig” [*Allāhumma ahsin wuqūfanā bayna yadayka*] efter *iqāmah[^1]*.
 
 
-[^1]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen skall börja.
+[^1]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
 

@@ -6,12 +6,12 @@ categories:
 - Bön (Salāh)
 - Nedfallan vid recitation
 original_id: 1291
-description: 'Fråga: Hur skall man göra sujūd al-tilāwah ? Behöver man tvaga sig
- för det? Behöver man tvaga sig när man skall göra sujūd al-tilāwah [nedfallandet
+description: 'Fråga: Hur ska man göra sujūd al-tilāwah ? Behöver man tvaga sig
+ för det? Behöver man tvaga sig när man ska göra sujūd al-tilāwah [nedfallandet
  när man läser vissa verser i Koranen]? Måste ...'
 ---
 
-**Fråga:** Hur skall man göra *sujūd al-tilāwah*? Behöver man tvaga sig för det? Behöver man tvaga sig när man skall göra *sujūd al-tilāwah* [nedfallandet när man läser vissa verser i Koranen]? Måste vi säga ”*Allāhu akbar*” när vi går ned och upp? Vad skall vi säga under nedfallandet? Är de åkallan[^1] som har berättats om detta *sahīh*? Är det föreskrivet att säga salām efter detta nedfallande om det görs utanför bönen?
+**Fråga:** Hur ska man göra *sujūd al-tilāwah*? Behöver man tvaga sig för det? Behöver man tvaga sig när man ska göra *sujūd al-tilāwah* [nedfallandet när man läser vissa verser i Koranen]? Måste vi säga ”*Allāhu akbar*” när vi går ned och upp? Vad ska vi säga under nedfallandet? Är de åkallan[^1] som har berättats om detta *sahīh*? Är det föreskrivet att säga salām efter detta nedfallande om det görs utanför bönen?
 
 **Svar:** All lovprisan tillhör Allāh. Enligt den mer korrekta åsikten som de lärde har behövs intetvagning[^2] för *sujūd al-tilāwah*. Det finns heller ingen *salām* eller *takbīr[^3]* när man kommer upp från den, enligt den mest korrekta åsikten av de båda åsikterna. Det är föreskrivet att säga takbīr[^3] under nedfallandet. Bevisen för detta finns i en *hadīth[^4]* från Ibn ’Umar. Utförs *sujūd al-tilāwah* under bönen är det obligatoriskt att säga *takbīr[^3]* när man går ned och när man kommer upp. Profeten – över honom vare Allāhs frid och välsignelser – brukade ju göra det i varje rörelse i bönen, och han sade: ”*Be som ni har sett mig be*.” [Berättad av al-Bukhāri i hans *Sahīh*, 595]. De[^5] åminnelse[^5] r och åkallan[^1] som är föreskrivna i nedfallandet under [vanlig] bön är föreskrivna i *sujūd al-tilāwah*. Detta på grund av den generella betydelsen i *ahādīth[^4]* i denna fråga. Bland dessa åkallan[^1] är:
 

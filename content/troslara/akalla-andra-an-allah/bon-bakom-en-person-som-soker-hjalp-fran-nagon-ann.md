@@ -21,7 +21,7 @@ description: 'Fråga: Kan man be bakom någon som söker hjälp från någon ann
 
 Finner du ingen muslimsk imam som du kan be bakom, då får du be hemma. Kan du finna en församling att be med i moskén, antingen före eller när imamen som praktiserar *shirk[^1]* har bett, då bör du be med dem. Har muslimerna möjlighet att få denne imam som praktiserar *shirk[^1]* avsatt och ersätt med en muslimsk imam som kan leda folket i bön, då måste de göra så då detta är en del av att påbjuda det goda och att förbjuda det onda – om det är möjligt att göra så utan att skapa konflikter. Det är även ett verkställande av Allāhs lag på jorden. Allāh säger:
 
-> ”Men de troende, männen såväl som kvinnorna är, varandras [sanna] vänner och fasta stöd; de anbefaller det som är rätt och förbjuder det som är orätt och förrättar bönen och betalar allmoseskatten och de lyder Gud och Hans Sändebud. Dem skall Gud visa barmhärtighet. Gud är allsmäktig, vis.” [Koranen 9:71]
+> ”Men de troende, männen såväl som kvinnorna är, varandras [sanna] vänner och fasta stöd; de anbefaller det som är rätt och förbjuder det som är orätt och förrättar bönen och betalar allmoseskatten och de lyder Gud och Hans Sändebud. Dem ska Gud visa barmhärtighet. Gud är allsmäktig, vis.” [Koranen 9:71]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 

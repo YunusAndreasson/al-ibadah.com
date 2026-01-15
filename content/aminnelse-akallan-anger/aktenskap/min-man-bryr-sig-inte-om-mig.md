@@ -33,11 +33,11 @@ Det finns fler *ahādīth[^1]* som uppmanar till gott uppförande, bra kommunika
 
 Allāh säger även:
 
-> "Den som fruktar Honom och bär motgången med tålamod [skall se att] Gud inte låter den som gör det goda och det rätta gå miste om sin lön." [Koranen 12:90]
+> "Den som fruktar Honom och bär motgången med tålamod [ska se att] Gud inte låter den som gör det goda och det rätta gå miste om sin lön." [Koranen 12:90]
 
 Och vidare:
 
-> "Säg [Muhammad] till Mina troende tjänare: 'Frukta er Herre! De som gör det goda i denna värld har gott att vänta [i nästa liv]. Guds jord är så vid [att ni kan lämna ondskans rike för att få dyrka Gud i frihet]. Bara de som håller ut skall få sin [fulla] lön och mer därtill." [Koranen 39:10]
+> "Säg [Muhammad] till Mina troende tjänare: 'Frukta er Herre! De som gör det goda i denna värld har gott att vänta [i nästa liv]. Guds jord är så vid [att ni kan lämna ondskans rike för att få dyrka Gud i frihet]. Bara de som håller ut ska få sin [fulla] lön och mer därtill." [Koranen 39:10]
 
 Och till sist i en annan vers:
 

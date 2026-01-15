@@ -45,11 +45,11 @@ Profeten – över honom vare Allāhs frid och välsignelser – har om olika so
 
 Denna typ av ”glömska” tillskrivs Allāh när Han säger:
 
-> ”[Och Han skall säga till syndarna:] 'Pröva nu följden av att ni glömde [Vårt] möte denna Dag; Vi har [även] glömt er.” [Koranen 32:14]
+> ”[Och Han ska säga till syndarna:] 'Pröva nu följden av att ni glömde [Vårt] möte denna Dag; Vi har [även] glömt er.” [Koranen 32:14]
 
 Och Allāh säger om hycklarna:
 
-> ”De glömmer Gud och då skall Vi glömma dem. De har sannerligen, dessa hycklare, förhärdat sig i trots och synd.” [Koranen 9:67]
+> ”De glömmer Gud och då ska Vi glömma dem. De har sannerligen, dessa hycklare, förhärdat sig i trots och synd.” [Koranen 9:67]
 
 Och i *Sahīh Muslim* [*Kitāb al-Zuhd wa’l-Raqā’iq*] återges att Abū Hurairah har sagt: ”*De sade: 'Allāhs sändebud, kommer vi att få se vår Herre på Återuppståndelsens Dag?*'” ... och i denna *hadīth[^1]* sägs det: ”*Allāh kommer att möta Sin [icke-troende] tjänare och säga: 'Trodde du att du skulle möta Mig?' Denne kommer att säga: 'Nej.' Han säger då: 'Jag kommer att glömma dig som du glömde Mig*.'”
 
@@ -60,7 +60,7 @@ Allāhs lämnande eller glömmande av någonting är en av Hans handlingar som s
 > 
 > 
 > 
-> ”Vi skall låta [människomassorna svalla] och bryta sig mot varandra som bränningar.” [Koranen 18:99]
+> ”Vi ska låta [människomassorna svalla] och bryta sig mot varandra som bränningar.” [Koranen 18:99]
 > 
 > 
 > 

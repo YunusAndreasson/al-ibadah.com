@@ -17,7 +17,7 @@ description: 'Fråga: Vad anser du om någon som utförde ‘umrah under den vä
 
 **Svar:** Den som utförde *‘umrah[^1]* under ramadan[^2] och som sedan gick in i *ihrām[^3]* endast för vallfärden [*hajjul-ifrad*] under det året, han behöver inte offra ett får. Anledningen är att ett offer endast krävs för den som utför *‘umrah[^1]* tillsammans med vallfärden. Anledningen är att Allāh har sagt:
 
-> ”Den som inte är i fara [och är frisk] och som vill ta tillfället i akt att efter den mindre vallfärden fullgöra den större, skall ge vad han förmår som offergåva.” [Koranen 2:196]
+> ”Den som inte är i fara [och är frisk] och som vill ta tillfället i akt att efter den mindre vallfärden fullgöra den större, ska ge vad han förmår som offergåva.” [Koranen 2:196]
 
 Den som utför *‘umrah[^1]* under ramadan[^2] och sedan går in i *ihrām[^3]* för vallfärden under dess månader, denne kallas inte för *mutamatti[^4]'*[någon som slår ihop *‘umrah[^1]* med vallfärden]. *Mutamatti'* är endast den som går in i *ihrām[^3]* för *‘umrah[^1]* under vallfärdsmånaderna [*shawwal[^5]*, *thul-qa’dah[^6]* och de första tio dagarna i *dhul-hijjah[^7]*] och sedan går in i *ihrām[^3]* för vallfärden under det året. Den som slår ihop vallfärden och *‘umrah[^1]* som *hajjul-qirān[^8]* [utan att träda ur *ihrām[^3]* mellan dem] är också *mutamatti[^4]'*. Detta är en *mutamatti[^4]'* som måste offra ett djur [som en del av vallfärdsriterna].
 

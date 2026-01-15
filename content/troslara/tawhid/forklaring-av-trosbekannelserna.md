@@ -37,7 +37,7 @@ Allāh den Välsignades, den Upphöjdes säger:
 > 
 > 
 > 
-> ”Och anropa aldrig en annan gud jämte Gud. Det finns ingen gud utom Han. Allt skall förgå utom Han [som förblir i evighet]; domen är Hans och till Honom skall ni föras åter.” [Koranen 28:88]
+> ”Och anropa aldrig en annan gud jämte Gud. Det finns ingen gud utom Han. Allt ska förgå utom Han [som förblir i evighet]; domen är Hans och till Honom ska ni föras åter.” [Koranen 28:88]
 > 
 > 
 > 
@@ -47,7 +47,7 @@ Allāh den Välsignades, den Upphöjdes säger:
 > 
 > 
 > 
-> "Se, Vi sände Noa till hans folk och han sade: 'Dyrka Gud, mitt folk – ni har ingen annan gud än Honom! Jag bävar för det straff [som annars skall drabba] er en Dag av svåraste vånda.’” [Koranen 7:59]
+> "Se, Vi sände Noa till hans folk och han sade: 'Dyrka Gud, mitt folk – ni har ingen annan gud än Honom! Jag bävar för det straff [som annars ska drabba] er en Dag av svåraste vånda.’” [Koranen 7:59]
 
 Hur kan vi då säga att det inte finns några gudomar jämsides med Allāh när existens av andra gudomar som dyrkas jämsides med honom har bevisats? Hur kan vi bekräfta dyrkan av andra gudomar jämsides med Honom den Upphöjde när sändebuden har sagt till folken:
 
@@ -70,7 +70,7 @@ Vittnesmålet ”*Muhammad är Allāhs sändebud*” är en bekräftelse i ord o
 > 
 > 
 > 
-> ”Välsignad vare Han som steg för steg har uppenbarat för Sin tjänare den måttstock [med vilken rätt kan mätas och skiljas från orätt] och som skall tjäna som en varning för alla folk.” [Koranen 25:1]
+> ”Välsignad vare Han som steg för steg har uppenbarat för Sin tjänare den måttstock [med vilken rätt kan mätas och skiljas från orätt] och som ska tjäna som en varning för alla folk.” [Koranen 25:1]
 
 Detta vittnesmål nödvändiggör att man:
 

@@ -41,7 +41,7 @@ Det är eftersträvansvärt att göra det som har bekräftats från honom [profe
 
 Om den avlidne är en kvinna står imamen vid mitten av hennes kropp och ber över henne på samma sätt som över en man.
 
-Om ett antal begravningsböner äger rum är det bra om de är organiserade så att de som är närmst imamen är de vuxna männen och sedan de unga pojkarna, de vuxna kvinnorna och de unga flickorna. Var mans huvud placeras vid kvinnas mitt för att imamen skall stå vid den plats som är föreskriven.
+Om ett antal begravningsböner äger rum är det bra om de är organiserade så att de som är närmst imamen är de vuxna männen och sedan de unga pojkarna, de vuxna kvinnorna och de unga flickorna. Var mans huvud placeras vid kvinnas mitt för att imamen ska stå vid den plats som är föreskriven.
 
 Här finns det en viktig poäng och den är att många tror att det är att föredra om den som förde dit den avlidne står med imamen. Somliga tror att det är nödvändigt att en eller flera står med imamen. Detta är dock ett misstag därför att *sunnah[^2]* för imamen är att han är ensam. Om de som för med sig den avlidne inte finner en plats i raderna bör de forma en egen rad mellan imamen och den första raden.
 

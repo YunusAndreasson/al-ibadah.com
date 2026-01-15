@@ -28,7 +28,7 @@ I fråga om de framsteg som har ägt rum i de icke-troende länderna i Väst, ti
 > 
 > 
 > 
-> ”Det är Han som har skapat jorden för att tjäna er; färdas då över dess vidder och livnär er av det som Han skänker er för er försörjning och [tänk på att] ni skall återuppstå för att möta Honom.” [Koranen 67:15]
+> ”Det är Han som har skapat jorden för att tjäna er; färdas då över dess vidder och livnär er av det som Han skänker er för er försörjning och [tänk på att] ni ska återuppstå för att möta Honom.” [Koranen 67:15]
 > 
 > 
 > 

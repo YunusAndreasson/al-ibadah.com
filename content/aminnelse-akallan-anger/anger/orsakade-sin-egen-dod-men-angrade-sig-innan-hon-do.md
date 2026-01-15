@@ -21,7 +21,7 @@ En dag, efter ett bråk ägt rum mellan henne och hennes styvfader, återvände 
 
 Du bör även uppfylla alla dina plikter då Allāh den Allsmäktige prisar dem som uppfyller dem.
 
-> ”[Det är] de som står fast vid sina löften och som bävar för den Dag då skräcken skall överskugga allt.” [Koranen 76:7]
+> ”[Det är] de som står fast vid sina löften och som bävar för den Dag då skräcken ska överskugga allt.” [Koranen 76:7]
 
 Profeten har sagt:
 

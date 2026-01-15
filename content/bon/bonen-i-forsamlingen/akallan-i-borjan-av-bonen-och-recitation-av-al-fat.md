@@ -13,7 +13,7 @@ description: 'Fråga: Om en troende [som ber bakom en imam] anländer i slutet a
  inledning [ Subhanak allāhumma wa bih...'
 ---
 
-**Fråga:** Om en troende [som ber bakom en imam] anländer i slutet av imamens recitation men innan bugningen, bör han då börja bönen med att läsa åkallan[^1] i bönens inledning [*Subhanak allāhumma wa bihamdika*...] eller skall han börja där imamen är?
+**Fråga:** Om en troende [som ber bakom en imam] anländer i slutet av imamens recitation men innan bugningen, bör han då börja bönen med att läsa åkallan[^1] i bönens inledning [*Subhanak allāhumma wa bihamdika*...] eller ska han börja där imamen är?
 
 **Svar:** Om någon som ber bakom en imam anländer vid bugningen, då måste han buga med honom utan att läsa åkallan[^1] i början av bönen ' eller att recitera något. Han säger då enbart ”*Allāhu akbar*” och bugar.
 

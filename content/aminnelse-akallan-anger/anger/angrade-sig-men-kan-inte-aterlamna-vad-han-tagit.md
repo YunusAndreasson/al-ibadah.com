@@ -19,7 +19,7 @@ description: 'Fråga: Allāhs sändebud har sagt att den bankrutta personen är 
 
 Ångrar sig någon uppriktigt inför Allāh den Allsmäktige och inte har möjlighet att betala igen för sitt felaktiga handlande (för att han är fattig), då förlåter Allāh honom och Han kommer på det sätt Han väljer göra de som han handlat felaktigt mot nöjda på Uppståndelsens dag. Detta gäller för någon som inte har möjlighet att reparera sina felaktigheter. Så fort man har möjlighet, måste man återgälda eller be om deras förlåtelse. Ens ånger kommer inte att vara fullständig förrän man följer vad som nämnts här ovan. Anledningen är att Allāh den Allsmäktige har sagt:
 
-> ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske skall det gå i händer!” [Koranen 24:31]
+> ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå i händer!” [Koranen 24:31]
 > 
 > 
 > 

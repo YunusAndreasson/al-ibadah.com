@@ -13,7 +13,7 @@ description: 'Fråga: Får den som fastar använda tandkräm under dagen? Svar: 
 
 **Fråga:** Får den som fastar använda tandkräm under dagen?
 
-**Svar:** Den som fastar får använda tandkräm om han är noggrann med att inget av det rinner ned genom hans hals. Det är att föredra om han rengör sin mun med något annat som inte riskerar att rinna ned i hans hals, precis som man heller inte skall överdriva med att gurgla vatten i munnen under tvagningen[^1].
+**Svar:** Den som fastar får använda tandkräm om han är noggrann med att inget av det rinner ned genom hans hals. Det är att föredra om han rengör sin mun med något annat som inte riskerar att rinna ned i hans hals, precis som man heller inte ska överdriva med att gurgla vatten i munnen under tvagningen[^1].
 
 
 [^1]: Wudû´

@@ -18,7 +18,7 @@ description: 'Fråga: Vilket är det rätta sättet att be ‘eid -bönen på? S
 
 Du bör känna till att fredagsbönen och *‘eid*-bönerna delar två suror och skiljer sig i två suror. Surorna som de delar är surorna al-A’la och al-Ghashiyah. Surorna som de skiljer sig åt i och som finns i ‘eid-bönerna är surorna Qaf och al-Qamar, och i fredagsbönen surorna al-Jumu’ah och al-Munafiqun.
 
-Imamen måste återuppliva denna *sunnah[^3]* genom att recitera dessa båda suror så att muslimer skall känna till dem och inte förvånas när de hör dem.
+Imamen måste återuppliva denna *sunnah[^3]* genom att recitera dessa båda suror så att muslimer ska känna till dem och inte förvånas när de hör dem.
 
 Efter detta håller imamen en predikan. Det är bra om han avsätter en del av predikan för kvinnorna och beordrar dem att göra vad de bör göra och förbjuder dem att göra vad de bör undvika. Detta är vad profeten – över honom vare Allāhs frid och välsignelser – brukade göra.
 

@@ -33,11 +33,11 @@ Det har rapporterats från Ibn ‘Abbās att en man kom till profeten – över 
 
 Detta har nämnts på sidan 147 i den indiska utgåvan.
 
-Jag säger då till denna frågeställare: När det är klart för dig att detta är viskningar från djävulen, då måste du kämpa och stå emot. Du skall veta att de aldrig kommer att kunna skada dig så länge du anstränger dig tillräckligt, avvisar dem och slutar att tänka på dem. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
+Jag säger då till denna frågeställare: När det är klart för dig att detta är viskningar från djävulen, då måste du kämpa och stå emot. Du ska veta att de aldrig kommer att kunna skada dig så länge du anstränger dig tillräckligt, avvisar dem och slutar att tänka på dem. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Allāh har förlåtit vad som viskas i mina anhängares hjärtan, så länge de inte sätter dem i verket eller uttalar det.” [*al-Bukhārī* 2528 och *Muslim* 127]
 
-Om det sägs till dig: Tror du på det som viskas? Tror du att det är sant? Är det möjligt att beskriva Allāh – den Härlige på så sätt? Då säger du: Detta är inget som vi skall tala om – prisad är Du, O Allāh – detta är en stor lögn! Du avvisar det med ditt hjärta och med dina ord och du är den som skulle fly längst bort från detta. Då är det enbart viskningar och prövningar som visas i ditt hjärta, och ett fönster som djävulen öppnar mot månggudadyrkan. Djävulen flyter genom kroppen likt blod flyter genom den för att förstöra och fördunkla ens religion.
+Om det sägs till dig: Tror du på det som viskas? Tror du att det är sant? Är det möjligt att beskriva Allāh – den Härlige på så sätt? Då säger du: Detta är inget som vi ska tala om – prisad är Du, O Allāh – detta är en stor lögn! Du avvisar det med ditt hjärta och med dina ord och du är den som skulle fly längst bort från detta. Då är det enbart viskningar och prövningar som visas i ditt hjärta, och ett fönster som djävulen öppnar mot månggudadyrkan. Djävulen flyter genom kroppen likt blod flyter genom den för att förstöra och fördunkla ens religion.
 
 Därför finner du inte att djävulen placerar tvivel och avvisande om ointressanta saker i ditt hjärta. Du hör till exempel talas om att en stor stad existerar någonstans i öst eller väst fylld med stora byggnader, och tvivel om detta slår dig aldrig. Du tror aldrig att stadens byggnader har förstörts och att staden då inte går att bo i. Djävulen har inte som syfte att få människor att tvivla på detta. Det stora målet för honom är att förstöra Allāhs tjänares tro. Han kämpar därmed till häst och till fot för att släcka kunskapens ljus och [för att få bort] vägledning i hjärtat så att den troende faller ned i tvivlets och ovisshetens mörker.
 

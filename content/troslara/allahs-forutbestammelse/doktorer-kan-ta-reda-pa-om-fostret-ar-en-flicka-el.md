@@ -23,7 +23,7 @@ När det gäller frågeställarens hänvisning till vad Ibn Jarīr har citerat i
 
 Qutādah's *tafsīr[^4]* kan tolkas som att enbart Allāh har kunskap om detta så länge det inte har utformats fullt. Men när fostret har utformats, då har andra kunskap om det. Ibn Kathīr säger i sin *tafsīr[^4]* om versen i sura Luqmān:
 
-> “Ingen vet vad Allāh vill skapa i moderns sköte utom Han, men när Han har bestämt om det skall vara en pojke eller flicka, en dömd eller en välsignad, då får änglarna som har ansvar för denne reda på det och den som Han vill i Hans skapelse.”
+> “Ingen vet vad Allāh vill skapa i moderns sköte utom Han, men när Han har bestämt om det ska vara en pojke eller flicka, en dömd eller en välsignad, då får änglarna som har ansvar för denne reda på det och den som Han vill i Hans skapelse.”
 
 /.../
 

@@ -17,5 +17,5 @@ description: 'Fråga: Får böneutroparen leda tjänarna i bön när han har rop
 **Svar:** Ja, det är tillåtet att vara både böneutropare och imam. Om böneutroparen har mer kunskap om recitation än de andra, då bör han leda församlingen. På samma sätt är det om den vanliga imamen är frånvarande och han utser honom till att ta hans plats, precis som han får vara anställd som vanlig imam.
 
 
-[^1]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen skall börja.
+[^1]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
 

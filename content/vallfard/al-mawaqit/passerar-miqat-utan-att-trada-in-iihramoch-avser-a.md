@@ -27,7 +27,7 @@ I bland annat *al-Sahīhayn* har det återberättats från Ibn 'Abbās att profe
 
 > ”Och dessa mīqāt[^3] är för folken vid dessa platser och utöver dem för de som kommer genom dessa platser med avsikten att utföra pilgrimsfärden och ‘umrah[^1]. Den som bor inom dessa gränser kan träda in i *ihrām[^2]* från den plats där denne startar.” [*al-Bukhārī* 1524 och *Muslim* 1181]
 
-Det har också återgivits i *al-Sahīhayn* från 'Abd-Allāh ibn 'Umar att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Mīqāt[^3] för de från Medina är Dhu'l-Hulayfah*.” [*Muslim* 1183] Detta är ett uttalande som är en kommendering. Det dyker dock upp i form av ett uttalande för att understryka att detta är sättet som det skall göras på.
+Det har också återgivits i *al-Sahīhayn* från 'Abd-Allāh ibn 'Umar att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Mīqāt[^3] för de från Medina är Dhu'l-Hulayfah*.” [*Muslim* 1183] Detta är ett uttalande som är en kommendering. Det dyker dock upp i form av ett uttalande för att understryka att detta är sättet som det ska göras på.
 
 Det har återberättats från Aishah att profeten – över honom vare Allāhs frid och välsignelser – utsåg *mīqāt[^3]* för irakierna till att vara Dhāt 'Irq. [Återberättad av *Abū Dawod* 1739 och klassad som *sahīh* av al-Albāni i *Sahīh Abū Dawūd*, 1531]
 

@@ -18,7 +18,7 @@ description: 'Fråga: Vilket är utlåtandet om omskärelse för män och kvinno
 
 Den maximala nyttan det medför kvinnor är att deras lust och begär kommer att reduceras. I detta ligger att uppnå perfektion och det är inte för att ta bort något skadligt.
 
-De lärde har angivit ett villkor för att omskärelse skall vara tillåtet och det är att man inte är rädd för att skada sig. Är man rädd för att dö eller bli sjuk är det inte en skyldighet. Detta beror på att en skyldighet inte längre är en skyldighet om man inte har möjlighet att utföra den, är rädd för att man kommer att skada sig eller fruktar för sitt liv.
+De lärde har angivit ett villkor för att omskärelse ska vara tillåtet och det är att man inte är rädd för att skada sig. Är man rädd för att dö eller bli sjuk är det inte en skyldighet. Detta beror på att en skyldighet inte längre är en skyldighet om man inte har möjlighet att utföra den, är rädd för att man kommer att skada sig eller fruktar för sitt liv.
 
 Bevisen för att det är en skyldighet för män är följande:
 

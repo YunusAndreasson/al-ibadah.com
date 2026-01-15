@@ -20,7 +20,7 @@ Din *tawāf[^1]*, om den skedde innan midnatt, är heller inte giltig. Och även
 
 Om du inte kom på det och du inte blev medveten om det förrän du hade kastat stenarna, då måste du slakta något [som försoning]. För i själva verket har du inte kastat stenarna. Därför måste du slakta ett djur med avsikten att gottgöra för att du har utelämnat stenkastningen.
 
-Du måste även utföra *tawāf[^1]* vid något tillfälle även om det sker i slutet av *dhul-hijjah[^5]*, under *muharram[^6]* eller när du kommer på det. Detta för att du skall kunna fullborda din vallfärd. Djuret skall slaktas i Mecka och delas ut bland det fattiga vid Helgedomen.
+Du måste även utföra *tawāf[^1]* vid något tillfälle även om det sker i slutet av *dhul-hijjah[^5]*, under *muharram[^6]* eller när du kommer på det. Detta för att du ska kunna fullborda din vallfärd. Djuret ska slaktas i Mecka och delas ut bland det fattiga vid Helgedomen.
 
 Och Allāh vet bäst.
 

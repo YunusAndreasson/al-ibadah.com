@@ -8,12 +8,12 @@ categories:
 - Troslära (´Aqīdah)
 - Blandade utlåtanden
 original_id: 486
-description: 'Fråga: Hur skall vi förlika oss med att īmān består av tron på: Allāh,
+description: 'Fråga: Hur ska vi förlika oss med att īmān består av tron på: Allāh,
  Hans änglar, Hans skrifter, Hans sändebud, den Yttersta dagen, det Förutbestämda
  [både det bra och det dåliga] samtidigt so...'
 ---
 
-**Fråga:** Hur skall vi förlika oss med att *īmān* består av tron på: Allāh, Hans änglar, Hans skrifter, Hans sändebud, den Yttersta dagen, det Förutbestämda [både det bra och det dåliga] samtidigt som profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*īmān har 70 grenar*...”?
+**Fråga:** Hur ska vi förlika oss med att *īmān* består av tron på: Allāh, Hans änglar, Hans skrifter, Hans sändebud, den Yttersta dagen, det Förutbestämda [både det bra och det dåliga] samtidigt som profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*īmān har 70 grenar*...”?
 
 **Svar:** All lovprisan tillhör Allāh.
 

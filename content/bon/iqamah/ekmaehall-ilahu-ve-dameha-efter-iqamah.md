@@ -14,9 +14,9 @@ description: 'Fråga: När iqāmah har ropats ut hör vi att vissa säger: ” E
 
 **Fråga:** När *iqāmah[^1]* har ropats ut hör vi att vissa säger: ” *Ekmaehall-ilahu ve dameha*.” Vilket är utlåtandet om detta?
 
-**Svar:** I en *hadīth[^2]* från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – rapporteras att när böneutroparen säger: ”Bönen har börjat”, så skall man säga: ”*Ekmaehall-ilahu ve dameha*.” [Abū Dawūd och Ibn Hajr al-'Asqalani har sagt att den är svag] Denna *hadīth[^2]* är dock svag och kan inte användas som bevis.
+**Svar:** I en *hadīth[^2]* från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – rapporteras att när böneutroparen säger: ”Bönen har börjat”, så ska man säga: ”*Ekmaehall-ilahu ve dameha*.” [Abū Dawūd och Ibn Hajr al-'Asqalani har sagt att den är svag] Denna *hadīth[^2]* är dock svag och kan inte användas som bevis.
 
 
-[^1]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen skall börja.
+[^1]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
 [^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

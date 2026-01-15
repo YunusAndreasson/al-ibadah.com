@@ -12,7 +12,7 @@ description: 'Fråga: Mitt problem kan sammanfattas på följande sätt: Min man
  har två söner tillsammans med honom ...'
 ---
 
-**Fråga:** Mitt problem kan sammanfattas på följande sätt: Min man är alkoholist och varken ber eller fastar under ramadan[^1]. Han varit arbetslös under flera år. Jag har två söner tillsammans med honom och ingen av dem är vuxen ännu. Nu bor jag i min familjs hem och min man försöker med alla medel att övertala mig att återvända till honom. Jag känner mig osäker på om jag skall komma tillbaka till honom. Jag tänker ju på barnen. Bör jag återvända till honom? Jag har hört att det inte är tillåtet att bo tillsammans med någon som inte ber och som dricker alkohol. Vad bör jag göra?
+**Fråga:** Mitt problem kan sammanfattas på följande sätt: Min man är alkoholist och varken ber eller fastar under ramadan[^1]. Han varit arbetslös under flera år. Jag har två söner tillsammans med honom och ingen av dem är vuxen ännu. Nu bor jag i min familjs hem och min man försöker med alla medel att övertala mig att återvända till honom. Jag känner mig osäker på om jag ska komma tillbaka till honom. Jag tänker ju på barnen. Bör jag återvända till honom? Jag har hört att det inte är tillåtet att bo tillsammans med någon som inte ber och som dricker alkohol. Vad bör jag göra?
 
 **Svar:** En man som inte ber är en icke-troende. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Avtalet som skiljer oss från dem är bönen och den som lämnar den har inte trott*.” [*at-Tirmithi* 2621, *an-Nasā’i* 464 och *Ahmad* 5:346, 355] Och han har även sagt: ”*Det som står mellan en man och otro samt mångguderi är utelämnandet av bönen*.” [*Muslim* 82]
 

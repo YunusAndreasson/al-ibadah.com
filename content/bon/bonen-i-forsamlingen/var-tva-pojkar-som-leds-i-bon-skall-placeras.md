@@ -1,5 +1,5 @@
 ---
-title: Var två pojkar som leds i bön skall placeras
+title: Var två pojkar som leds i bön ska placeras
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 326 s. ISBN saknas'

@@ -22,7 +22,7 @@ Det finns inga historiska bevis för att profetens – över honom vare Allāhs 
 
 Som jag har sagt till dig är innovationer något mycket allvarligt som har en dålig inverkan på hjärtat – även om man känner att det mjuknar just vid det tillfället. Sedan kommer motsatsen att uppnås; om hjärtat gläder sig åt falskhet, kommer den glädjen inte att vara, utan den kommer i stället att efterföljas av smärta och ånger. innovationer är något allvarligt då den antyder en kritik mot profeten – över honom vare Allāhs frid och välsignelser – i den formen att han inte skulle ha fört med sig en komplett islamisk lag – trots att Allāh har sagt:
 
-> ”Denna dag har Jag fullbordat det religiösa regelverket för er och skänkt er Min välsignelse i fullaste mått. Jag har beslutat att underkastelse under Guds vilja skall vara er religion.” [Koranen 5:3]
+> ”Denna dag har Jag fullbordat det religiösa regelverket för er och skänkt er Min välsignelse i fullaste mått. Jag har beslutat att underkastelse under Guds vilja ska vara er religion.” [Koranen 5:3]
 
 Det är märkligt att vi finner några av de som befattar sig med innovationer mana andra till att följa dem samtidigt som de är okunniga i frågor som är långt nyttigare, sundare och användbara.
 
@@ -34,7 +34,7 @@ För det tredje: dyrkan måste vara in enlighet med den islamiska lagen i dess o
 
 För det fjärde: dyrkan måste vara enligt den islamiska lagen på det sätt som den utförs.
 
-Om någon utför en handling på ett sätt som är acceptabelt i förhållande till mängd, typ och anledning men motsäger sig den islamiska lagen i hur handlingen skall utföras – då är den inte giltig. Om någon exempelvis släpper sig och tvagar sig på nytt genom att tvätta fötterna, stryka över sitt huvud, tvätta sina händer och sedan sitt ansikte – är denna tvagning[^5] då giltig? Inte alls, för den har inte utförts enligt den islamiska lagen.
+Om någon utför en handling på ett sätt som är acceptabelt i förhållande till mängd, typ och anledning men motsäger sig den islamiska lagen i hur handlingen ska utföras – då är den inte giltig. Om någon exempelvis släpper sig och tvagar sig på nytt genom att tvätta fötterna, stryka över sitt huvud, tvätta sina händer och sedan sitt ansikte – är denna tvagning[^5] då giltig? Inte alls, för den har inte utförts enligt den islamiska lagen.
 
 För dem femte: dyrkan måste vara enligt den islamiska lagen med avseende på tidpunkten. Ett exempel är om någon fastar ramadan[^6] under sha’ban eller shawwal[^7], eller ber middagsbönen[^4] före solen har passerat himlens mitt eller när ett föremåls skugga har blivit lika långt som dess längd […]
 

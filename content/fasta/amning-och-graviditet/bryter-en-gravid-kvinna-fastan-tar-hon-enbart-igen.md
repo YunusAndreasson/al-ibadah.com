@@ -16,7 +16,7 @@ description: 'Fråga: Jag var gravid under ramadan så jag bröt min fasta och j
 
 **Svar:** Om en gravid kvinna på grund av fastan fruktar för sig själv eller för sitt barn i skötet, då bryter hon fastan och hon är enbart skyldig att ta igen den. Hennes situation går att likna vid den sjukes som inte är stark nog för att fasta eller som fruktar för sig själv på grund av fastan. Allāh säger:
 
-> ”Men den som är sjuk eller [stadd] på resa [skall fasta därefter] under motsvarande antal dagar.” [Koranen 2:185]
+> ”Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarande antal dagar.” [Koranen 2:185]
 
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

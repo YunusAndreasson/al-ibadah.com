@@ -8,11 +8,11 @@ categories:
 - Begravningsbön
 original_id: 1244
 description: 'Fråga: Vilket är det korrekta sättet som har rapporterats från Muhammad
- om hur den avlidnes kropp skall tvättas? Svar: Det föreskrivna sättet för att
+ om hur den avlidnes kropp ska tvättas? Svar: Det föreskrivna sättet för att
  tvätta den avlidnes kropp är att könsdelar...'
 ---
 
-**Fråga:** Vilket är det korrekta sättet som har rapporterats från Muhammad om hur den avlidnes kropp skall tvättas?
+**Fråga:** Vilket är det korrekta sättet som har rapporterats från Muhammad om hur den avlidnes kropp ska tvättas?
 
 **Svar:** Det föreskrivna sättet för att tvätta den avlidnes kropp är att könsdelarna tvättas först och sedan tvättas hela kroppen. Man börjar med lederna som tvättas under tvagningen[^1] så att det sker på samma sätt som under tvagningen[^1], utom att vatten inte hälls i munnen eller näsan. I stället bör man helt enkelt blöta en tygbit och tvätta näsan och munnen. Därnäst tvättar man resten av kroppen och man gör det med sidr[^2]. Man krossar det, häller det i vattnet och stöter det sedan med handen tills man har fått ett skum. Detta skum använder man sedan för att tvätta huvudet och skägget. Sedan tvättar man resten av kroppen med den sidr[^2] som finns kvar då den rengör bra. Vid den sista tvätten tar man på kamfer. Detta är en välkänd parfym. De lärde säger att den är bra för kroppen och att den håller skadedjur borta.
 

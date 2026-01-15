@@ -8,14 +8,14 @@ categories:
 - Vallfärd (Hajj)
 - Blandade utlåtanden
 original_id: 704
-description: 'Fråga: Allāh den Upphöjde säger: ”Vallfärden [skall fullgöras
- under] de kända månaderna. Den som då beger sig i väg skall så länge vallfärden
+description: 'Fråga: Allāh den Upphöjde säger: ”Vallfärden [ska fullgöras
+ under] de kända månaderna. Den som då beger sig i väg ska så länge vallfärden
  varar avhålla sig från intim samvaro med kvinnor,...'
 ---
 
 **Fråga:** Allāh den Upphöjde säger:
 
-> ”Vallfärden [skall fullgöras under] de kända månaderna. Den som då beger sig i väg skall så länge vallfärden varar avhålla sig från intim samvaro med kvinnor, grovt tal samt trätor och tvister. Gud vet det goda ni gör.” [Koranen 2:197]
+> ”Vallfärden [ska fullgöras under] de kända månaderna. Den som då beger sig i väg ska så länge vallfärden varar avhålla sig från intim samvaro med kvinnor, grovt tal samt trätor och tvister. Gud vet det goda ni gör.” [Koranen 2:197]
 
 Ädle shaykh, vilken är innebörden av orden *ar-rafth*, *al-fusuq* och *al-jidal* som är förbjudna? Blir vallfärden ogiltig om man grälar eller sysselsätter sig med vardagligheter?
 

@@ -21,7 +21,7 @@ Vad som bevisar att det är högst föredraget att ropa ut till bön är en *had
 > ”Jag hörde Allāhs sändebud säga: 'Allāh är nöjd med en fåraherde som ropar ut till bön från bergets topp. Allāh säger: 'Se på Min tjänare. Han kallar till bön och ber den och fruktar Mig. Så Jag förlåter honom och tillåter honom Paradiset.'” [Imam Ahmad 4:145,157]
 
 
-[^1]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen skall börja.
+[^1]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
 [^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Dhikr
 [^4]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.

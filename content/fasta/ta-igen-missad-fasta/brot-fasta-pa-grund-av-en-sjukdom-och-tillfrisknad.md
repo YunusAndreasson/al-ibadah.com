@@ -17,7 +17,7 @@ description: 'Fråga: För ett antal år sedan bröt jag min fasta under hela ra
 
 **Svar:** Du måste ta igen dessa sju dagar och ge en fattig mat för varje dag. Mängden mat som du ger är en halv sa'[^2] av den mat som är vanlig i landet. Detta beror på att du har skjutit på att ta igen fastan till efter den ramadan[^1] som kom efter den som du inte fastade. Allāh säger:
 
-> ”Men den som är sjuk eller [stadd] på resa [skall fasta därefter] under motsvarande antal dagar. Gud vill göra det lätt – inte tungt – för er.” [Koranen 2:185]
+> ”Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarande antal dagar. Gud vill göra det lätt – inte tungt – för er.” [Koranen 2:185]
 
 Detta beror även på att några av profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – gav utlåtandet att den som skjuter upp att ta igen tidigare fasta [till efter nästa ramadan[^1]] måste ge en fattig mat för varje dag tillsammans med att ta igen fastan.
 

@@ -41,7 +41,7 @@ All lovprisan tillhör Allāh, världarnas Herre.
 
 
 [^1]: Rakah.
-[^2]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen skall börja.
+[^2]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
 [^3]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
 [^4]: Dhuhr
 [^5]: Maghrib

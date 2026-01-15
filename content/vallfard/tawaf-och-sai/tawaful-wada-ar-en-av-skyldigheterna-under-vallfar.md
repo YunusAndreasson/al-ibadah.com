@@ -18,7 +18,7 @@ description: 'Fråga: Jag bor i Jiddah och jag har vallfärdat sju gånger, men 
 
 Anledningen är den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – uttalande när han tilltalade pilgrimerna under vallfärden och sade: ”*Ingen bör ge sig av förrän dennes sista handling är vid Huset [Ka’bah]*.” [*Muslim* 1327 och *Ahmad* 1/222] Detta har Muslim återgivit i sin *Sahīh*.
 
-I *Sahīh al-Bukhārī* och *Sahīh Muslim* återges också en *hadīth[^2]* från Ibn ‘Abbās i vilken han säger: ”*Folket kommenderades till att utföra deras sista handling vid Huset [Ka’bah], men frågan har lindrats för kvinnan med månadsblödning*.” Den som utelämnar detta måste slakta ett djur som är en sjundedel av en kamel, sjundedelen av en ko, en två år gammal get eller ett får som är ett år gammalt. Det skall slaktas i Mecka och delas ut till de fattig vid Helgedomen.
+I *Sahīh al-Bukhārī* och *Sahīh Muslim* återges också en *hadīth[^2]* från Ibn ‘Abbās i vilken han säger: ”*Folket kommenderades till att utföra deras sista handling vid Huset [Ka’bah], men frågan har lindrats för kvinnan med månadsblödning*.” Den som utelämnar detta måste slakta ett djur som är en sjundedel av en kamel, sjundedelen av en ko, en två år gammal get eller ett får som är ett år gammalt. Det ska slaktas i Mecka och delas ut till de fattig vid Helgedomen.
 
 Tillsammans med detta måste denne ångra sig och söka förlåtelse från Allāh. Denne måste ha en uppriktig avsikt att inte upprepa detta igen.
 

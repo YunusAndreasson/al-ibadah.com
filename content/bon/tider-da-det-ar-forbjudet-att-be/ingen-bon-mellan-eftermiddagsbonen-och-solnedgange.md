@@ -16,7 +16,7 @@ description: 'Fråga: Varför är det inte tillåtet att be sunnah eller andra b
 
 **Svar:** Från ett antal följeslagare har det rapporterats att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Det finns ingen bön efter eftermiddagsbönen[^2] tills solen har gått ned och det finns ingen bön efter gryningsbönen[^3] tills solen har gått upp*.” [*al-Bukhārī* 586 och *Muslim* 827]
 
-De lärde har sagt att anledningen med största sannolikhet är att det är ett förbud mot att imitera månggudadyrkare[^4] som nedfaller inför solen då den går upp och ned. Därför är frivilliga [böner] förbjudna under dessa tidpunkter. Det finns ju ingen anledning till dem och det finns rädsla för att tjänarens nedfallan skall vara för solen. Förbudet mot bön under denna långa period har gjorts generellt för att motverka *shirk[^5]* och allting som kan leda till det.
+De lärde har sagt att anledningen med största sannolikhet är att det är ett förbud mot att imitera månggudadyrkare[^4] som nedfaller inför solen då den går upp och ned. Därför är frivilliga [böner] förbjudna under dessa tidpunkter. Det finns ju ingen anledning till dem och det finns rädsla för att tjänarens nedfallan ska vara för solen. Förbudet mot bön under denna långa period har gjorts generellt för att motverka *shirk[^5]* och allting som kan leda till det.
 
 
 [^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
