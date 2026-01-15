@@ -12,7 +12,7 @@ description: 'Fråga: Min familj och jag kom överens om att ge oss av på ‘um
  sig dock och bytte datum till en senar...'
 ---
 
-**Fråga:** Min familj och jag kom överens om att ge oss av på *'umrah[^1]* och under dagen som vi bestämde oss för det trädde jag in *ihrām[^2]* för *‘umrah[^1]*. De ändrade sig dock och bytte datum till en senare en annan dag. Därför trädde jag ur min *ihrām[^2]*. Har jag syndat då?
+**Fråga:** Min familj och jag kom överens om att ge oss av på *'umrah[^1]* och under dagen som vi bestämde oss för det trädde jag in *ihrām[^2]* för *‘umrah[^1]*. De ändrade sig dock och bytte datum till en annan dag. Därför trädde jag ur min *ihrām[^2]*. Har jag syndat då?
 
 **Svar:** Om du avsåg att träda in i *ihrām[^2]* för *‘umrah[^1]*, då får du inte ändra dig och du måste fullfölja den, precis som när det gäller vallfärden. Anledningen är att Allāh har sagt: ”*Och fullgör vallfärden, såväl den större som den mindre, till Guds ära*.” [Koranen 2:196]
 
