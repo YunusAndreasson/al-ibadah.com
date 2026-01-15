@@ -17,7 +17,7 @@ description: 'Fråga: Vilket är utlåtandet om åkalla i grupp i varje samling 
 
 **Svar:** Regeln för åminnelse[^2] och handlingar av dyrkan är den av överensstämmelse och att Allāh inte ska dyrkas utom med vad Han har föreskrivit. Detta gäller tidpunkt, form, antal och plats.
 
-Beträffande vad Allāh har föreskrivet för åminnelse[^2], åkallan[^1] och andra handlingar av dyrkan som inte är bundna till tid, plats eller form är vi inte tillåtna att specificera den dyrkan till ett antal, en tid eller en plats.
+Beträffande vad Allāh har föreskrivit för åminnelse[^2], åkallan[^1] och andra handlingar av dyrkan som inte är bundna till tid, plats eller form är vi inte tillåtna att specificera den dyrkan till ett antal, en tid eller en plats.
 
 Vi är endast tillåtna att konsekvent följa en form av dyrkan vid vissa tider eller platser som Allāh har beordrat oss till. Då ingenting har berättats från profeten, varken i tal eller i handling, om ett tillåtande för att åkalla i grupp efter bönen eller läsning av Koranen efter varje lektion bör vi inte göra så, oberoende av om imamen åkallar[^1] och andra svarar ”*āmīn*” om de åkallar[^1] tillsammans.
 

@@ -33,7 +33,7 @@ De lärde har nämnt fler andra åkallan[^2] [hämtade] från de *ahādīth[^3]*
 
 De lärde har olika åsikter om att skriva besvärjelser och binda dem runt halsen. Vissa har tillåtit det medan andra har förbjudit det. Anledningen är att detta inte har rapporterats från profeten. Det har enbart rapporterats att han brukade recitera över sjuklingar. Att binda verser runt den sjukes hals eller att lägga dem i dennes hand, under kudden eller liknande är förbjudet enligt den starkaste åsikten. Detta med anledning av att det inte har rapporterats [från profeten].
 
-Den som gör en handling till en orsak till att uppnå något annat, utan ett godkännande från den islamiska lagen, har gjort något som är en sorts *shirk[^4]* då den bekräftar ett medel som Allāh inte har föreskrivet som ett medel.
+Den som gör en handling till en orsak till att uppnå något annat, utan ett godkännande från den islamiska lagen, har gjort något som är en sorts *shirk[^4]* då den bekräftar ett medel som Allāh inte har föreskrivit som ett medel.
 
 
 [^1]: Något som reciteras för att bota sjukdomar.

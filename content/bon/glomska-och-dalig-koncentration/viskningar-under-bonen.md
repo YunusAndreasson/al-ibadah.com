@@ -7,12 +7,12 @@ categories:
 - Bön (Salāh)
 - Glömska och dålig koncentration
 original_id: 221
-description: 'Fråga: Jag är en kvinna som utför den dyrkan som Allāh har föreskrivet
+description: 'Fråga: Jag är en kvinna som utför den dyrkan som Allāh har föreskrivit
  för mig. Jag är dock väldigt glömsk i bönen. När jag ber tänker jag på det som har
  hänt under dagen. Jag tänker inte på detta...'
 ---
 
-**Fråga:** Jag är en kvinna som utför den dyrkan som Allāh har föreskrivet för mig. Jag är dock väldigt glömsk i bönen. När jag ber tänker jag på det som har hänt under dagen. Jag tänker inte på detta förrän jag börjar att be. Då kan jag inte hindra det, utom när jag reciterar högt. Vilket är ditt råd till mig?
+**Fråga:** Jag är en kvinna som utför den dyrkan som Allāh har föreskrivit för mig. Jag är dock väldigt glömsk i bönen. När jag ber tänker jag på det som har hänt under dagen. Jag tänker inte på detta förrän jag börjar att be. Då kan jag inte hindra det, utom när jag reciterar högt. Vilket är ditt råd till mig?
 
 **Svar:** Många klagar över problemet som du har nämnt. Detta problem är att djävulen öppnar upp en dörr till viskningar för dem under bönen. Det som kan hända är att någon går för att be utan att veta vad han säger i bönen. Profeten – över honom vare Allāhs frid och välsignelser – har dock visat en lösning på detta. Den är att [torr]spotta över vänster axel tre gånger och säga: ”*A'uthu Billāhi minash-shaitanir-rajīm*” [Jag söker min tillflykt hos Allāh från djävulen den utstötte]. Gör man så kommer djävulen att ge sig av från en och man kommer, genom Allāh tillstånd, inte att finna honom.
 
