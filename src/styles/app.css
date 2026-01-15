@@ -136,7 +136,8 @@ body {
   line-height: 1.6;
   max-width: 65ch;
   font-kerning: normal;
-  font-variant-ligatures: common-ligatures contextual;
+  font-variant-ligatures: common-ligatures contextual discretionary-ligatures;
+  font-variant-numeric: oldstyle-nums proportional-nums;
   font-synthesis: none;
   hanging-punctuation: first allow-end last;
   overflow-wrap: break-word;
