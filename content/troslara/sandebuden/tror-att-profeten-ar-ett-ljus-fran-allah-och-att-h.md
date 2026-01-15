@@ -35,7 +35,7 @@ description: 'Fråga: Om någon tror att profeten – över honom vare Allāhs f
 > 
 > ”Säg: ’Jag kan inte uppnå förmåner för mig själv eller avstyra ett ont [som hotar mig] – ingenting [händer mig] utom det som Gud vill. Men om jag hade full kännedom om det som är dolt för människor[^1], skulle jag helt säkert ha kunnat uppnå mycket av detta livets goda och jag skulle ha undgått allt ont. Jag är bara en varnare och förkunnare av hoppets budskap till människor som vill tro.” [Koranen 7:188]
 
-Profeten – över honom vare Allāhs frid och välsignelser – har också sagt: ”*Jag är inte mer än en människa som er. Jag glömmer som ni glömmer så påminn mig om jag glömmer*,.” [*al-Bukhārī* 401 och *Muslim* 572]
+Profeten – över honom vare Allāhs frid och välsignelser – har också sagt: ”*Jag är inte mer än en människa som er. Jag glömmer som ni glömmer så påminn mig om jag glömmer*." [*al-Bukhārī* 401 och *Muslim* 572]
 
 Den som har sökt hjälp från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i tron om att han har makt att hjälpa eller att skydda denne mot ont, är en icke-troende. Denne har då motsagt sig Allāh den Upphöjde och satt medhjälpare vid Hans sida. Allāh den Upphöjde säger ju:
 

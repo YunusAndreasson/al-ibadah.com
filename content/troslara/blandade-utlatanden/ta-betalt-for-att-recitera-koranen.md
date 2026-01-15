@@ -67,7 +67,7 @@ I en annan version sade han:
 
 Abū Hurairah har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Den som ber människor om mer tillgångar ber om glödande kol. Så låt denne ta mer eller mindre eld.” [*Muslim* 1041,*Ibn Mājah* 1838 och *Ahmad* 2:231]
+> ”Den som ber människor om mer tillgångar ber om glödande kol. Så låt denne ta mer eller mindre eld.” [*Muslim* 1041, *Ibn Mājah* 1838 och *Ahmad* 2:231]
 
 Den som tigger med Koranen som hjälp gäller hadithen från ’Imrān bin Husain för, om denne är fattig. Men om denne är rik, då gäller alla hotelser i den ovan nämnda hadithen.
 

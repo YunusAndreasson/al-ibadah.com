@@ -25,7 +25,7 @@ Det var profeten – över honom vare Allāhs frid och välsignelser – som beo
 
 Han har även sagt:
 
-> ”Det finns tre personer som Allāh inte kommer att tala till, titta på eller rena från synd på Återuppståndelsens Dag, och de kommer att få ett smärtsamt straff: Den som låter sin izār hänga ned, den som ger bort det som har givits till honom samt den som säljer sina varor genom att svära en lögn.” [*Muslim* 106, *Abū Dawūd*4087]
+> ”Det finns tre personer som Allāh inte kommer att tala till, titta på eller rena från synd på Återuppståndelsens Dag, och de kommer att få ett smärtsamt straff: Den som låter sin izār hänga ned, den som ger bort det som har givits till honom samt den som säljer sina varor genom att svära en lögn.” [*Muslim* 106, *Abū Dawūd* 4087]
 
 Han har även sagt:
 

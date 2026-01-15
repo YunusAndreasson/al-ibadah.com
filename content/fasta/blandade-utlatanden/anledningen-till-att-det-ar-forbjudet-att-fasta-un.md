@@ -16,7 +16,7 @@ description: 'Fråga: Vad är anledningen till att det är förbjudet att fasta 
 
 **Svar:** Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Välj inte ut fredagar speciellt för att fasta, inte heller dess nätter för att stå i bön*.” [*Muslim* 1144]
 
-Visdomen i att det är förbjudet att välja ut fredagar för fasta är att detta är vår veckovisa *‘eid* och den är en av de tre föreskrivna*‘eid*. Inom islam finns det tre *‘eid*: *‘eidul-fitr* efter ramadan[^1],*‘eidul-adha* och den veckovisa*‘eid* som är fredagen.
+Visdomen i att det är förbjudet att välja ut fredagar för fasta är att detta är vår veckovisa *‘eid* och den är en av de tre föreskrivna *'eid*. Inom islam finns det tre *'eid*: *'eidul-fitr* efter ramadan[^1], *'eidul-adha* och den veckovisa *'eid* som är fredagen.
 
 Därför är det förbjudet att välja ut den för att fasta. Det beror på att under denna dag måste män komma till fredagsbönen och sysselsätta sig med åkallan[^2] och åminnelse[^3] av Allāh. Det är välkänt att när dyrkan som är möjlig att skjuta upp pockar på uppmärksamhet, då tar det som inte är möjligt att skjuta upp företräde över det som är möjligt att skjuta upp.
 

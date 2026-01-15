@@ -25,7 +25,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – sagt:
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Om någon av er ser något ont bör han ställa det tillrätta med sin hand, är han inte förmögen att göra det, då bör han göra det med sin tunga och om han inte är förmögen att göra det, då bör han hata det i sitt hjärta – och det är den lägsta tron.” [*Muslim* 49, *at-Tirmithi* 2172, *Ahmad* 3:49, 52-54 och *an-Nasā’i*5011]
+> ”Om någon av er ser något ont bör han ställa det tillrätta med sin hand, är han inte förmögen att göra det, då bör han göra det med sin tunga och om han inte är förmögen att göra det, då bör han hata det i sitt hjärta – och det är den lägsta tron.” [*Muslim* 49, *at-Tirmithi* 2172, *Ahmad* 3:49, 52-54 och *an-Nasā'i* 5011]
 
 
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
