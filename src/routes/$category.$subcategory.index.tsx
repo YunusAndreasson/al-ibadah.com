@@ -1,8 +1,8 @@
 import { createFileRoute, Link, notFound } from '@tanstack/react-router'
 import { createServerFn } from '@tanstack/react-start'
-import { Header } from '~/components/layout/Header'
-import { Footer } from '~/components/layout/Footer'
 import { Breadcrumbs } from '~/components/layout/Breadcrumbs'
+import { Footer } from '~/components/layout/Footer'
+import { Header } from '~/components/layout/Header'
 import { getSubcategoryInfo } from '~/lib/content'
 
 const getSubcategoryData = createServerFn({ method: 'GET' })
@@ -40,9 +40,7 @@ function SubcategoryPage() {
           ]}
         />
 
-        <h1 className="page-title mb-8 mt-8">
-          {data.subcategoryName}
-        </h1>
+        <h1 className="page-title mb-8 mt-8">{data.subcategoryName}</h1>
 
         {data.articles.length > 0 ? (
           <div className="grid gap-3">
@@ -54,17 +52,13 @@ function SubcategoryPage() {
               >
                 <h2 className="font-medium mb-1 group-hover:text-foreground">{article.title}</h2>
                 {article.author && (
-                  <p className="text-sm text-muted-foreground">
-                    {article.author}
-                  </p>
+                  <p className="text-sm text-muted-foreground">{article.author}</p>
                 )}
               </Link>
             ))}
           </div>
         ) : (
-          <p className="text-muted-foreground">
-            Inga artiklar i denna underkategori än.
-          </p>
+          <p className="text-muted-foreground">Inga artiklar i denna underkategori än.</p>
         )}
       </main>
 

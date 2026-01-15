@@ -1,7 +1,7 @@
-import { useEffect, useState, useRef, useMemo } from 'react'
 import { useNavigate } from '@tanstack/react-router'
-import { getSearchIndex, type SearchItem } from '~/lib/content'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { SearchIcon } from '~/components/ui/icons'
+import { getSearchIndex, type SearchItem } from '~/lib/content'
 
 interface SearchDialogProps {
   open: boolean
@@ -20,14 +20,13 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
     if (!query.trim()) return []
 
     const q = query.toLowerCase()
-    return searchIndex
-      .filter((item) => item.title.toLowerCase().includes(q))
-      .slice(0, 10)
+    return searchIndex.filter((item) => item.title.toLowerCase().includes(q)).slice(0, 10)
   }, [query, searchIndex])
 
+  // biome-ignore lint/correctness/useExhaustiveDependencies: intentionally reset selection when query changes
   useEffect(() => {
     setSelectedIndex(0)
-  }, [results])
+  }, [query])
 
   useEffect(() => {
     function handleKeyDown(e: KeyboardEvent) {
@@ -125,12 +124,9 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
               ) : (
                 <ul role="listbox" aria-label="Sökresultat">
                   {results.map((item, index) => (
-                    <li
-                      key={item.path}
-                      role="option"
-                      aria-selected={index === selectedIndex}
-                    >
+                    <li key={item.path} role="option" aria-selected={index === selectedIndex}>
                       <button
+                        type="button"
                         onClick={() => handleSelect(item)}
                         onMouseEnter={() => setSelectedIndex(index)}
                         className={`w-full text-left px-3 py-2.5 rounded-md transition-colors ${

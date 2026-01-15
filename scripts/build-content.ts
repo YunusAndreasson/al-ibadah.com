@@ -6,13 +6,13 @@
 import fs from 'node:fs/promises'
 import path from 'node:path'
 import matter from 'gray-matter'
-import { unified } from 'unified'
-import remarkParse from 'remark-parse'
-import remarkGfm from 'remark-gfm'
-import remarkRehype from 'remark-rehype'
 import rehypeRaw from 'rehype-raw'
 import rehypeSlug from 'rehype-slug'
 import rehypeStringify from 'rehype-stringify'
+import remarkGfm from 'remark-gfm'
+import remarkParse from 'remark-parse'
+import remarkRehype from 'remark-rehype'
+import { unified } from 'unified'
 
 const CONTENT_DIR = path.join(process.cwd(), 'content')
 const OUTPUT_FILE = path.join(process.cwd(), 'src', 'generated', 'content-data.ts')
@@ -80,7 +80,11 @@ function cleanCategoryName(name: string): string {
     .trim()
 }
 
-async function processArticle(filePath: string, slug: string, articlePath: string): Promise<ArticleData | null> {
+async function processArticle(
+  filePath: string,
+  slug: string,
+  articlePath: string
+): Promise<ArticleData | null> {
   try {
     const fileContent = await fs.readFile(filePath, 'utf-8')
     const { data, content } = matter(fileContent)
@@ -134,7 +138,11 @@ async function buildContent(): Promise<CategoryData[]> {
         const articleEntries = await fs.readdir(subcategoryPath, { withFileTypes: true })
 
         for (const articleEntry of articleEntries) {
-          if (articleEntry.isFile() && articleEntry.name.endsWith('.md') && articleEntry.name !== '_index.md') {
+          if (
+            articleEntry.isFile() &&
+            articleEntry.name.endsWith('.md') &&
+            articleEntry.name !== '_index.md'
+          ) {
             const articleSlug = articleEntry.name.replace('.md', '')
             const articleFilePath = path.join(subcategoryPath, articleEntry.name)
             const articlePath = `/${categorySlug}/${subcategorySlug}/${articleSlug}`
@@ -196,7 +204,9 @@ async function main() {
     }
   }
 
-  console.log(`Found ${content.length} categories, ${totalSubcategories} subcategories, ${totalArticles} articles`)
+  console.log(
+    `Found ${content.length} categories, ${totalSubcategories} subcategories, ${totalArticles} articles`
+  )
 
   // Ensure output directory exists
   const outputDir = path.dirname(OUTPUT_FILE)

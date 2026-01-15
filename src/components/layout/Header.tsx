@@ -1,8 +1,8 @@
 import { Link } from '@tanstack/react-router'
-import { ThemeToggle } from '~/components/ui/ThemeToggle'
-import { SearchDialog } from '~/components/ui/SearchDialog'
+import { useEffect, useState } from 'react'
 import { SearchIcon } from '~/components/ui/icons'
-import { useState, useEffect } from 'react'
+import { SearchDialog } from '~/components/ui/SearchDialog'
+import { ThemeToggle } from '~/components/ui/ThemeToggle'
 
 const navLinks = [
   { to: '/troslara', label: 'Troslära' },
@@ -64,10 +64,7 @@ export function Header() {
           <div className="flex items-center gap-2">
             <SearchButton onClick={() => setSearchOpen(true)} />
             <ThemeToggle />
-            <MobileMenuButton
-              isOpen={menuOpen}
-              onClick={() => setMenuOpen(!menuOpen)}
-            />
+            <MobileMenuButton isOpen={menuOpen} onClick={() => setMenuOpen(!menuOpen)} />
           </div>
         </div>
       </header>
@@ -126,6 +123,7 @@ function SearchButton({ onClick }: { onClick: () => void }) {
 
   return (
     <button
+      type="button"
       onClick={onClick}
       className="flex items-center gap-2 px-2.5 py-1.5 text-sm text-muted-foreground hover:text-foreground border border-border hover:border-muted-foreground/30 rounded-lg transition-colors press-scale"
       aria-label="Sök (kortkommando: Ctrl+K)"
@@ -142,6 +140,7 @@ function SearchButton({ onClick }: { onClick: () => void }) {
 function MobileMenuButton({ isOpen, onClick }: { isOpen: boolean; onClick: () => void }) {
   return (
     <button
+      type="button"
       className="md:hidden p-2 -mr-2 hover:bg-muted rounded-lg transition-colors press-scale"
       aria-label={isOpen ? 'Stäng meny' : 'Öppna meny'}
       aria-expanded={isOpen}

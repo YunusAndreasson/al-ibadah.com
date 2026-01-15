@@ -1,9 +1,5 @@
 /// <reference types="vite/client" />
-import {
-  HeadContent,
-  Scripts,
-  createRootRoute,
-} from '@tanstack/react-router'
+import { createRootRoute, HeadContent, Scripts } from '@tanstack/react-router'
 import appCss from '~/styles/app.css?url'
 
 export const Route = createRootRoute({
@@ -12,7 +8,10 @@ export const Route = createRootRoute({
       { charSet: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { title: 'al-Ibadah - Islamisk kunskapsbas' },
-      { name: 'description', content: 'En kunskapsbank om islamisk dyrkan och teologi på svenska.' },
+      {
+        name: 'description',
+        content: 'En kunskapsbank om islamisk dyrkan och teologi på svenska.',
+      },
     ],
     links: [
       { rel: 'stylesheet', href: appCss },
@@ -38,7 +37,9 @@ export const Route = createRootRoute({
     ],
     scripts: [
       // Minified theme detection script - prevents flash of wrong theme
-      { children: `(function(){var t=localStorage.getItem("theme")||"system",d=t==="dark"||t==="system"&&matchMedia("(prefers-color-scheme:dark)").matches;document.documentElement.classList.toggle("dark",d)})()` },
+      {
+        children: `(function(){var t=localStorage.getItem("theme")||"system",d=t==="dark"||t==="system"&&matchMedia("(prefers-color-scheme:dark)").matches;document.documentElement.classList.toggle("dark",d)})()`,
+      },
     ],
   }),
   shellComponent: RootDocument,

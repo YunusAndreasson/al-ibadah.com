@@ -35,6 +35,7 @@ export function ThemeToggle() {
   if (!mounted) {
     return (
       <button
+        type="button"
         className="p-2 hover:bg-muted rounded-lg transition-colors press-scale"
         aria-label="Byt tema"
       >
@@ -45,6 +46,7 @@ export function ThemeToggle() {
 
   return (
     <button
+      type="button"
       onClick={cycleTheme}
       className="p-2 hover:bg-muted rounded-lg transition-colors press-scale"
       aria-label={`Nuvarande tema: ${theme === 'system' ? 'automatiskt' : theme === 'light' ? 'ljust' : 'mörkt'}. Klicka för att byta.`}

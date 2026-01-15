@@ -1,4 +1,4 @@
-import { contentData, type ArticleData } from '~/generated/content-data'
+import { type ArticleData, contentData } from '~/generated/content-data'
 import type { Article } from './markdown'
 
 export interface SubcategoryInfo {

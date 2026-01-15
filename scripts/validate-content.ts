@@ -45,7 +45,7 @@ function validateMarkdown(content: string, relativePath: string, frontmatterLine
     if (inCodeBlock) continue
 
     // Skip blockquotes and list items
-    if (line.trim().startsWith('>') || line.match(/^\s*[\*\-]\s/)) continue
+    if (line.trim().startsWith('>') || line.match(/^\s*[*-]\s/)) continue
 
     // === BOLD CHECKS ===
     // Look for clearly broken bold patterns:
@@ -54,7 +54,7 @@ function validateMarkdown(content: string, relativePath: string, frontmatterLine
 
     // Broken opening: (start|space|punct) + ** + space + word
     // This catches "** text**" but not "**text:** more"
-    const brokenBoldOpening = line.match(/(^|[\s\(\["])\*\*\s+\w/g)
+    const brokenBoldOpening = line.match(/(^|[\s(["])\*\*\s+\w/g)
     if (brokenBoldOpening) {
       errors.push({
         file: relativePath,
@@ -65,7 +65,7 @@ function validateMarkdown(content: string, relativePath: string, frontmatterLine
 
     // Broken closing: word + space + ** + (end|space|punct)
     // This catches "**text **" but not "**text** more"
-    const brokenBoldClosing = line.match(/\w\s+\*\*([\s\)\]".,;:!?]|$)/g)
+    const brokenBoldClosing = line.match(/\w\s+\*\*([\s)\]".,;:!?]|$)/g)
     if (brokenBoldClosing) {
       errors.push({
         file: relativePath,
@@ -96,7 +96,7 @@ function validateMarkdown(content: string, relativePath: string, frontmatterLine
     if (!line.includes('[^')) {
       // Broken opening: (start|space|punct) + * + space + word (not preceded by *)
       // This catches "* text*" but not "*text* more"
-      const brokenItalicOpening = line.match(/(^|[\s\(\["])(?<!\*)\*(?!\*)\s+\w/g)
+      const brokenItalicOpening = line.match(/(^|[\s(["])(?<!\*)\*(?!\*)\s+\w/g)
       if (brokenItalicOpening) {
         errors.push({
           file: relativePath,
@@ -107,7 +107,7 @@ function validateMarkdown(content: string, relativePath: string, frontmatterLine
 
       // Broken closing: word + space + * + (end|space|punct) (not followed by *)
       // This catches "*text *" but not "*text* more"
-      const brokenItalicClosing = line.match(/\w\s+(?<!\*)\*(?!\*)([\s\)\]".,;:!?]|$)/g)
+      const brokenItalicClosing = line.match(/\w\s+(?<!\*)\*(?!\*)([\s)\]".,;:!?]|$)/g)
       if (brokenItalicClosing) {
         errors.push({
           file: relativePath,
@@ -182,7 +182,10 @@ async function validateFile(filePath: string): Promise<void> {
     }
 
     // Categories are required for articles, but not for index files
-    if (!isIndexFile && (!data.categories || !Array.isArray(data.categories) || data.categories.length === 0)) {
+    if (
+      !isIndexFile &&
+      (!data.categories || !Array.isArray(data.categories) || data.categories.length === 0)
+    ) {
       errors.push({
         file: relativePath,
         error: 'Missing or invalid field: categories (must be a non-empty array)',
@@ -222,7 +225,6 @@ async function validateFile(filePath: string): Promise<void> {
     const { content: markdownContent } = matter(content)
     const frontmatterLines = countFrontmatterLines(content)
     validateMarkdown(markdownContent, relativePath, frontmatterLines)
-
   } catch (err) {
     const error = err as Error
     // Extract useful info from YAML errors
@@ -246,7 +248,7 @@ async function walkDirectory(dir: string): Promise<string[]> {
   for (const entry of entries) {
     const fullPath = path.join(dir, entry.name)
     if (entry.isDirectory()) {
-      files.push(...await walkDirectory(fullPath))
+      files.push(...(await walkDirectory(fullPath)))
     } else if (entry.isFile() && entry.name.endsWith('.md')) {
       files.push(fullPath)
     }

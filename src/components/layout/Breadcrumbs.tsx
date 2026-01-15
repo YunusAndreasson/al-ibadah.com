@@ -14,9 +14,11 @@ export function Breadcrumbs({ items }: BreadcrumbsProps) {
     <nav aria-label="Brödsmulor" className="text-sm">
       <ol className="flex flex-wrap items-center gap-1.5">
         {items.map((item, index) => (
-          <li key={index} className="flex items-center gap-1.5">
+          <li key={item.href ?? item.label} className="flex items-center gap-1.5">
             {index > 0 && (
-              <span aria-hidden="true" className="text-muted-foreground/50 select-none">/</span>
+              <span aria-hidden="true" className="text-muted-foreground/50 select-none">
+                /
+              </span>
             )}
             {item.href ? (
               <Link

@@ -3,11 +3,6 @@ import path from 'node:path'
 
 const CONTENT_DIR = path.join(process.cwd(), 'content')
 
-interface RouteInfo {
-  path: string
-  type: 'category' | 'subcategory' | 'article'
-}
-
 async function getAllRoutes(): Promise<string[]> {
   const routes: string[] = ['/']
 

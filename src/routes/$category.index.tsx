@@ -1,7 +1,7 @@
 import { createFileRoute, Link, notFound } from '@tanstack/react-router'
 import { createServerFn } from '@tanstack/react-start'
-import { Header } from '~/components/layout/Header'
 import { Footer } from '~/components/layout/Footer'
+import { Header } from '~/components/layout/Header'
 import { getCategoryInfo } from '~/lib/content'
 
 const getCategoryData = createServerFn({ method: 'GET' })
@@ -30,9 +30,7 @@ function CategoryPage() {
       <Header />
 
       <main id="main" className="w-full max-w-3xl mx-auto px-4 py-8 flex-1">
-        <h1 className="page-title mb-8">
-          {data.name}
-        </h1>
+        <h1 className="page-title mb-8">{data.name}</h1>
 
         {data.subcategories.length > 0 ? (
           <div className="grid gap-3">
@@ -50,9 +48,7 @@ function CategoryPage() {
             ))}
           </div>
         ) : (
-          <p className="text-muted-foreground">
-            Inga underkategorier i denna kategori än.
-          </p>
+          <p className="text-muted-foreground">Inga underkategorier i denna kategori än.</p>
         )}
       </main>
 
