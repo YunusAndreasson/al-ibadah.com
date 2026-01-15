@@ -1,7 +1,7 @@
 ---
 title: Raka huvudet och klippa håret inför ‘umrah
 author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Källare: Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah .
+source: 'Källa: Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah .
  Volym 4. Libanon: Maktaba Dar us-Salam. 287 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
