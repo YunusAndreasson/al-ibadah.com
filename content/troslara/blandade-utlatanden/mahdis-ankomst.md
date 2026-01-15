@@ -16,7 +16,6 @@ description: 'Fråga: Vilken är er åsikt om den utlovade al-Mahdi? Finns det n
 
 **Svar:** Det finns ett stort antal *ahādīth[^1]* som ledande auktoriteter inom *hadīth[^1]*-vetenskapen har rapporterat. De bekräftar den falske Messias, Mahdi och Messias. Vissa tecken kommer att föregå hans ankomst. Det viktigaste tecknet är att rättvisa kommer att råda på jorden när orättvisa och tyranni har rått. Det inte tillåtet att påstå att någon är Mahdi förrän de tecken som ska visa sig har setts, enligt vad profeten – över honom vare Allāhs frid och välsignelser – förutsagt.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

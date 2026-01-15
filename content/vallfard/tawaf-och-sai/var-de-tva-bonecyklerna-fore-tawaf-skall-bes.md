@@ -18,7 +18,6 @@ description: 'Fråga: Är två bönecykler efter tawāf bakom platsen där Abrah
 
 Och Allāh ger framgång.
 
-## Fotnoter
 
 [^1]: Rakah.
 [^2]: Den sju långa rundar vandringen runt Kabah.

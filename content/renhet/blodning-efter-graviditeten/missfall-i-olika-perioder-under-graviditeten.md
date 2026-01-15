@@ -26,7 +26,6 @@ Hon får slå ihop middagsbönen[^4] och eftermiddagsbönen[^5] samt kvällsbön
 
 Och Allāh är den som beviljar framgång.
 
-## Fotnoter
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

@@ -20,7 +20,6 @@ Den korrekta åsikten om det böneutrop som ropas ut i slutet av natten är att 
 
 På detta sätt är det klart att det görs inför *sahūr* för att väcka de som sover och för att den som står i bön ska kunna återvända, i vetskap om att tiden för *sahūr* är nära och att han måste avsluta sin bön. Här finns inget behov av att nämna att bön är bättre än sömn.
 
-## Fotnoter
 
 [^1]: Fajr
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen

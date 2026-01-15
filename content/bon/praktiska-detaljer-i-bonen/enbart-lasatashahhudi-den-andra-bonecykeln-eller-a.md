@@ -24,7 +24,6 @@ Detta är det bästa men det finns ingen invändan mot att lägga till:
 
 Det finns lärde som säger att det är rekommenderat att göra detta tillägg men jag anser att den mest korrekta åsikten är att begränsa sig själv till den första. Om man lägger till något finns det ingen invändan mot det, speciellt inte om imamen har en längre *tashahhud[^1]*. I detta fall bör man lägga till de böner som vi har visat.
 
-## Fotnoter
 
 [^1]: Vad man läser i den sittande positionen under bönen.
 [^2]: Rakah.

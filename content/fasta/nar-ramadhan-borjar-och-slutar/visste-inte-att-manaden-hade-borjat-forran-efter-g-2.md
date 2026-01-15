@@ -18,7 +18,6 @@ description: 'Fråga: Vilket är utlåtandet om fastan för den som inte fick re
 
 Vi ber Allāh att Han hjälper alla muslimer till att göra det som gör Honom nöjd och att Han accepterar deras fasta och bön under natten. Sannerligen, Han är den Allhörande, Den som är nära.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Fajr

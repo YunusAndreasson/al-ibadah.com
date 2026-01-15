@@ -24,7 +24,6 @@ Det råder inga tvivel om att denna åsikt är stark och att den har bevis från
 
 Kortfattat anser vi att förmörkelsebönen antingen är obligatorisk, antingen för varje individ eller ett tillräckligt antal som klarar av skyldigheten för de andra.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

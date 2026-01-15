@@ -23,7 +23,6 @@ I en *hadīth[^2]* från profeten – över honom vare Allāhs frid och välsign
 
 Jag råder brodern som har sagt detta att vända sig till Allāh den Allsmäktige i ånger. Detta är en allvarlig synd som motsäger sig Allāhs den Upphöjdes kommendering att åkalla Honom. Det är även en överträdelse av de gränser som Allāh har satt.
 
-## Fotnoter
 
 [^1]: Du´ā
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

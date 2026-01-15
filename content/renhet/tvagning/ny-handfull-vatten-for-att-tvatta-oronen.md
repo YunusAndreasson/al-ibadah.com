@@ -16,7 +16,6 @@ description: 'Fråga: Krävs det att den som tvagar sig tar en ny handfull vatte
 
 **Svar:** Det är inte nödvändigt att ta en ny handfull vatten för öronen. Det är inte ens att föredra enligt den mest korrekta åsikten. Detta beror på att ingen av dem som har beskrivit profetens – över honom vare Allāhs frid och välsignelser –tvagning[^1] har nämnt att han använde en ny handfull vatten för sina öron. Därför är det bättre att stryka öronen med det våta som återstår efter att man har strukit händerna över huvudet.
 
-## Fotnoter
 
 [^1]: Wudû´
 

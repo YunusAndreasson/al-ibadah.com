@@ -15,7 +15,6 @@ description: 'Fråga: Är detta tillåtet att sova om man är oren efter intim s
 
 **Svar:** Det finns inget syndigt i att sova utan tvagning[^1] även om det är bättre att göra det då profeten – över honom vare Allāhs frid och välsignelser – uppmuntrat oss till det.
 
-## Fotnoter
 
 [^1]: Wudû´
 

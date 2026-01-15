@@ -23,7 +23,6 @@ Det bästa är att recitera alla åkallan[^1] som har rapporterats från profete
 
 På grund av dessa fördelar utförs viss dyrkan på olika sätt, som den inledande *takbīr[^5]*, *tashahhud[^3]* och åminnelse[^4] av Allāh efter bönen.
 
-## Fotnoter
 
 [^1]: Du´ā
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

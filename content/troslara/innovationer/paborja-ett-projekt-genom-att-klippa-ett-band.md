@@ -20,7 +20,6 @@ Efter det ska man vara uppriktig i sitt arbete och behandla både den vännen oc
 
 Och Allāh är den som beviljar framgång.
 
-## Fotnoter
 
 [^1]: I Guds namn.
 [^2]: Bönen man ber för att söka Allāhs hjälp när man har flera valmöjligheter.

@@ -30,7 +30,6 @@ Beträffande vad somliga säger: att hon inte ska tala med någon, att ingen bö
 
 En sörjande kvinna som talar med män är precis likvärdig med en kvinna som inte sörjer och talar med män.  Samma sak gäller om hon tittar på män och män tittar på henne. Reglerna är desamma både för en kvinna som sörjer och den som inte gör det. Hon måste täcka sitt ansikte för att det inte ska orsaka frestelser. Hon får tilltala en man även om han inte är mahram[^1] för henne, om det inte orsakar frestelser. Hon får även svara i telefonen och öppna dörren när någon knackar på den.
 
-## Fotnoter
 
 [^1]: Släkting som det inte är tillåtet att gifta sig med.
 

@@ -24,7 +24,6 @@ description: 'Fråga: Ramadan kommer ibland när det är varmt. Det finns kamel-
 > 
 > ”Gud vill inte lägga på er tunga bördor, men [Han] vill rena er och fullkomna Sin nåd mot er – kanske känner ni tacksamhet.” [Koranen 5:6]
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

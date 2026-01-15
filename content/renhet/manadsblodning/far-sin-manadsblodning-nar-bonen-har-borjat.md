@@ -17,7 +17,6 @@ description: 'Svar: Kommer månadsblödning när bönen har börjat, som om den 
 
 Men om hon blivit ren och det återstår tid för att be minst en bönecykel, då måste hon be när hon har blivit ren. Detta enligt en *hadīth[^1]* från profeten: ”*Den som hinner med en bönecykel[^2] av eftermiddagsbönen[^3] innan solen har gått ned, denne har hunnit med eftermiddagsbönen[^3]*.” [*Muslim* 608] Blir hon då ren vid eftermiddagsbönen[^3] eller innan solen går upp, och det återstår tillräckligt med tid för att be en bönecykel[^2] av bönen innan solen går upp eller ned, då måste hon be eftermiddagsbönen[^3] i det första fallet och gryningsbönen[^4] i det andra.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Rakah.

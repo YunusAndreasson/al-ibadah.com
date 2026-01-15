@@ -29,7 +29,6 @@ Profeten – över honom vare Allāhs frid och välsignelser – gjorde *ghusl[^
 
 Må Allāhs sända välsignelser och frid över vår profet Muhammad, hans familj och hans följeslagare.
 
-## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Säga Labbayk Allahumma Labbayk under vallfärden.

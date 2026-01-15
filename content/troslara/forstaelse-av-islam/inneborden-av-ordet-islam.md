@@ -22,7 +22,6 @@ Säger vi att islam är dyrkan av Allāh den Upphöjde på det sätt som Han har
 
 Generellt sett omfattar då islam hela religionen och *īmān* faller under den. Om den uppges tillsammans med īmān tolkas den till att avse de yttre handlingarna i form av vad tungan säger och vad lederna gör; īmān är då de inre handlingarna i form av tro och vad hjärtat gör.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

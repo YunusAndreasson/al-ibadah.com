@@ -20,7 +20,6 @@ Det finns en historia om en truppavdelning som profeten – över honom vare All
 
 Åkallan har en inverkan men den ändrar inte det som har blivit bestämd utan i stället bestäms det på grund av den. Allting från Allāh är enligt det förutbestämda. Likaså har alla orsaker, genom Allāhs tillstånd, en inverkan på verkan. Orsakerna är nedskrivna och likaså är deras verkningar.
 
-## Fotnoter
 
 [^1]: Du´ā
 

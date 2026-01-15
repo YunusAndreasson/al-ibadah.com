@@ -19,7 +19,6 @@ description: 'Fråga: Jag gav mig av för att vallfärda som en mutamatti'' och 
 
 Anledningen är att din *‘umrah[^2]* avslutades när dess *ihrām[^4]* avlägsnades och att du aldrig gick in i *ihrām[^4]* för vallfärden.
 
-## Fotnoter
 
 [^1]: Någon som både gör `umrah och vallfärdar.
 [^2]: Den lilla vallfärden.

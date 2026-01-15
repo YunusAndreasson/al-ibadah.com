@@ -22,7 +22,6 @@ Han dog torsdagen den 27:e Muharram 1420 AH.
 
 Må Allāh vara honom nådig.
 
-## Fotnoter
 
 [^1]: Den tolfte månaden i det islamiska året. Under denna månad utförs vallfärdsriterna.
 

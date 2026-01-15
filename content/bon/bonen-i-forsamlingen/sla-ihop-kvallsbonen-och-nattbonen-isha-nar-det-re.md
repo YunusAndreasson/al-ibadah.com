@@ -20,7 +20,6 @@ Under dessa omständigheter brukade följeslagarna slå ihop kvällsbönen[^1] o
 
 Men om vägarna är breda, asfalterade och upplysta med gatulyse hela natten och det inte finns någon lera eller smuts på dem samt om folk har transportmedel och bra kläder, då är det inte tillåtet att slå ihop bönen under dessa omständigheter. Om det blir tillåtet att slå ihop bönen, då är det upp till imamen att informera tjänarna om det. Gör han inte det, då är det inget skadligt i det.
 
-## Fotnoter
 
 [^1]: Maghrib
 [^2]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.

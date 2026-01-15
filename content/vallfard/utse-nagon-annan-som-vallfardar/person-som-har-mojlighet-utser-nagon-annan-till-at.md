@@ -16,7 +16,6 @@ description: 'Fråga: Om den som är på väg till platsen fastnar i trafiken fr
 
 **Svar:** Den omnämnda personen måste själv kasta stenarna om denne har möjlighet att göra det. Denne har själv valt att hamna i trafikstockningen. Denne hade möjligheten att kasta stenarna och sedan köra. Fortfarande finns det möjlighet att kasta dem mellan eftermiddagsbönen[^1] och kvällsbönen[^2], vilket är en lång tid.
 
-## Fotnoter
 
 [^1]: Asr
 [^2]: Maghrib

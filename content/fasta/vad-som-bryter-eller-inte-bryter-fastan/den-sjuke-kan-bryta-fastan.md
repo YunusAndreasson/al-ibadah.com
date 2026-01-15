@@ -19,7 +19,6 @@ description: 'Fråga: Jag är sexton år gammal och jag har legat på lasarettet
 
 När det gäller att ta blod från en blodåder i nacken för tester eller andra syften, då är den korrekta åsikten att fastan inte bryts. Men om det är mycket är det bäst att skjuta upp det till kvällen. Om man gör det under dagen är det säkrare att ta igen denna fastedag då det påminner om koppning[^5].
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Fajr

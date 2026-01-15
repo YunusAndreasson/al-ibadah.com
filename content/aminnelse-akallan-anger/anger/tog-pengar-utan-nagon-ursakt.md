@@ -16,7 +16,6 @@ När jag jobbade som polisofficer hjälpte jag en gång till med att anhålla en
 
 Vet du vem det är du tagit från, eller om du känner någon som känner honom, då måste du försöka leta reda på honom och återlämna dessa 85 silverriyal[^1]. Är detta inte möjligt kan du ge honom vad ni kommer överens om. Känner du inte honom och därmed har förlorat hoppet om att återfinna honom kan du ge 85 silver- eller pappersriyal[^1] till välgörenhet för hans räkning. Antar vi att du träffar denna person efter att du gett pengarna i välgörenhet, då bör du informera honom om vad du gjort och om han är nöjd, då är det bra. Protesterar han och ber dig om pengarna måste du återlämna dem till honom och belöningen för vad du gav till välgörenhet blir din egen. Du bör be Allāh den Allsmäktige om förlåtelse, ångra dig inför Honom och be för personen som du handlat felaktigt mot.
 
-## Fotnoter
 
 [^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 ramadan 1428).
 

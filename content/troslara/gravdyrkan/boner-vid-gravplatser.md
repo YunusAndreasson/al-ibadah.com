@@ -26,7 +26,6 @@ I en annan version: ”*Men det fanns en rädsla för att den skulle tas som en 
 
 Därmed vet vi att det inte är tillåtet att be i moskér som innehåller gravar och det är även otillåtet att bygga dem [över gravar]. När det gäller frågeställarens fråga: ”Var bad ‘Ā’ishāh när profeten – över honom vare Allāhs frid och välsignelser – hade avlidit och om graven var innanför eller utanför huset?” Då är svaret att ‘Ā’ishāh – må Allāh vara nöjd med henne – var en av dem som återberättade *ahādīth[^1]* som understryker förbudet om att ta gravar som moskér. Detta reflekterar onekligen Allāhs – den Upphöjdes – visdom. På detta sätt vet vi att hon inte bad i rummet som innehöll gravar. Hade hon bett i dem, då hade hon motsatt sig det som hon rapporterade och det stämmer inte in på henne. Om Hajar eller vissa profeter är begravda i den heliga Moskén känner vi inte till några bevis för.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

@@ -20,7 +20,6 @@ Därmed måste en muslim att följa honom i det. Må hans Herres bästa välsign
 
 Tillsammans med detta måste du ångra dig inför Allāh då du har motsatt dig det som är föreskrivet. Må Allāh förlåta dig, oss och varje muslim.
 
-## Fotnoter
 
 [^1]: Dhuhr
 

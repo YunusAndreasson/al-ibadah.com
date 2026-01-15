@@ -28,7 +28,6 @@ Din ånger tillintetgör tidigare synder. Detta inkluderar dina böner och att d
 
 Baserat på utlåtandet i denna vers behöver du inte ta igen de böner och den fasta du tidigare inte utfört. Men fortsätt att ångra dig, be Allāh om förlåtelse och utför goda handlingar. Allāh den Allsmäktige förlåter de som ångrar sig.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

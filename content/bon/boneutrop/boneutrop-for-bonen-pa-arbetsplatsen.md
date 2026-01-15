@@ -18,7 +18,6 @@ description: 'Fråga: Om vi befinner oss på arbetsplatsen och det inte är lån
 
 Men om ni verkligen är hindrade får ni, baserat på de bevis som finns för detta, ropa ut böneutropet och iqāmah[^1] där ni befinner er.
 
-## Fotnoter
 
 [^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 

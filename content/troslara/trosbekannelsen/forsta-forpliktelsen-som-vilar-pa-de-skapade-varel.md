@@ -25,7 +25,6 @@ Detta är då den första skyldigheten för tjänaren, att han enbart dyrkar All
 
 Att vittna om att det inte finns någon gud utom Allāh täcker tron på *tawhīd[^1]* i dess helhet.
 
-## Fotnoter
 
 [^1]: Tron på att det bara finns en Gud.
 

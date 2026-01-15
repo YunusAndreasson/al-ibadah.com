@@ -26,7 +26,6 @@ description: 'Fråga: Hur gottgör man för synder? Svar: Shaykh ul-islām Ibn
 9. Skräcken, smärtorna och svårigheterna på Återuppståndelsens dag.
 10. Allāhs nåd och förlåtelse utan någon föranledelse från Hans tjänare.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Laylatul-Qadr. En av de sista tio nätterna under fastemånaden. Bön under den natten är likvärdig med bön under 1000 månader.

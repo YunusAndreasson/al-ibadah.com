@@ -38,7 +38,6 @@ Man bör heller inte sätta den ena foten framför den andra. Det är *sunnah[^3
 
 Det viktigaste är att raderna måste göras raka. Detta är imamens och tjänarnas ansvar. Imamen måste granska raderna och göra dem raka. Likaså måste tjänarna själva göra dem raka och stå tätt tillsammans.
 
-## Fotnoter
 
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 [^2]: sujūd, nedfallandet när pannan läggs mot marken.

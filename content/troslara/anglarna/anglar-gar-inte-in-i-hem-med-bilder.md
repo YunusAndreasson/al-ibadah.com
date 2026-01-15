@@ -20,7 +20,6 @@ Därmed kan vi dra slutsatsen att det som klippts upp, trampas eller sitts på �
 
 Detta beror antingen på att det i bilderna finns imitationer av Allāhs skapelse eller på rädslan för att dessa bilder, eller deras skapare, ska bli till objekt som vördas överdrivet mycket.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

@@ -25,7 +25,6 @@ Resenär bör då be nattbönen, *sunnah[^3]* för gryningsbönen[^7], två bön
 
 De andra frivilliga bönerna är fortfarande tillåtna [i stället för rekommenderade] för resenären utom de som jag har nämnt tidigare: *sunnah[^3]* förmiddagsbönen[^4], kvällsbönen[^5] och nattbönen[^6]. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – inte bad dessa tre *sunnah[^3]*-böner medan han reste.
 
-## Fotnoter
 
 [^1]: Rakah.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

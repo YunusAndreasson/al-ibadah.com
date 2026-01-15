@@ -18,7 +18,6 @@ description: 'Fråga: Vi föreläser vid gryningsbönen och nattbönen[^1]. Då 
 
 Profeten – över honom vare Allāhs frid och välsignelser – frågade om de troende vid gryningsbönen[^1]: ”*Är den och den närvarande? Är den och den närvarande?*” [*Abū Dawūd* 554, *an-Nasā’i* 844 och *Ahmad* 5:140]
 
-## Fotnoter
 
 [^1]: Fajr
 [^2]: Isha

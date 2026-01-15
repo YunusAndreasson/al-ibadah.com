@@ -17,7 +17,6 @@ description: 'Fråga: Jag memorerar lite av Koranen och jag hoppas kunna memorer
 
 Båda sätten är bra. Välj den som är lättast för dig och som möter dina behov och behoven ifrån människorna runt omkring dig. Vi ber Allāh att Han ger oss och dig styrka samt en korrekt vägledning.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

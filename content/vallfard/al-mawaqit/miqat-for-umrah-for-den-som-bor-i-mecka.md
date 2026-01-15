@@ -20,7 +20,6 @@ description: 'Fråga: Var är mīqāt för ‘umrah för den som bor i Mecka? Sv
 
 > ”Allāhs sändebud utsåg *mīqāt[^1]* för folket från Medina till att vara Thul-Hulayfah, för de från ash-Sham till att vara al-Juhfah, för folket från Jemen till att vara Yalamlam och han sade: ”De är för dem [som bor där] och dem som passerar förbi utöver de som bor där som avser att utföra vallfärden och*‘umrah[^2]* Den som är närmare [Mecka] än det, då är hans plats för *ihrām[^4]* där denne påbörjade sin resa. Även folket från Mecka går in i *ihrām[^4]* i Mecka.” [*Muslim* 1181]
 
-## Fotnoter
 
 [^1]: Platsen där pilgrimmen träder in i ihraam.
 [^2]: Den lilla vallfärden.

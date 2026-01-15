@@ -27,7 +27,6 @@ Må Allāh skydda oss, dig och alla muslimer från deras sätt och karaktärer.
 
 Allāh är Den som ger framgång.
 
-## Fotnoter
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: En rituell rening som görs med hjälp av jord/sand då det inte finns vatten tillgängligt.

@@ -18,7 +18,6 @@ description: 'Fråga: Vad måste den göra som hugger ned ett träd i helgedomen
 
 Helgedomen i Mecka har kända gränser. Vid dess slut, längs vägen, har tydliga tecken satts upp. Ett finns till exempel mellan Muzdalifah[^1] och Arafat[^2] och ett annat på vägen mot Jiddah nära ash-Shumayai.
 
-## Fotnoter
 
 [^1]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
 [^2]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.

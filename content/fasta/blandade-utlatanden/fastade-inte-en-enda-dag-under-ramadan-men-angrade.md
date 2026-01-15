@@ -21,7 +21,6 @@ description: 'Fråga: Vilket är utlåtandet om någon som avsiktligen åt dagti
 
 Och det finns även andra bevis ifrån Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]*.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

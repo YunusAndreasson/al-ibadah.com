@@ -28,7 +28,6 @@ Man avslutar varje varv med vad profeten – över honom vare Allāhs frid och v
 
 Och Allāh är Den som ger framgång.
 
-## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Att säga Allahu Akbar.

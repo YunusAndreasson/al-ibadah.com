@@ -100,7 +100,6 @@ Denna vers avslutas med dessa båda mäktiga namn ['Alīm och Hakīm] och här f
 
 Må Allāh sända välsignelser och frid över Hans tjänare och sändebud Muhammad och över hans familj och följeslagare.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

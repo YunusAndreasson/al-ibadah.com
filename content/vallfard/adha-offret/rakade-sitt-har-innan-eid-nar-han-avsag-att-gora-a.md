@@ -18,7 +18,6 @@ description: 'Fråga: Vilket är utlåtandet om den som rakade sitt hår under d
 
 Och Allāh är Den som ger framgång.
 
-## Fotnoter
 
 [^1]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 

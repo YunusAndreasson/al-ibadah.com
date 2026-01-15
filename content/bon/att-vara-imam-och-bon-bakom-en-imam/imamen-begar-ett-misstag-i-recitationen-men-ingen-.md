@@ -20,7 +20,6 @@ Detta gäller dock inte om misstaget sker i al-Fātihah. Här måste hela denna 
 
 Allāh är Beviljaren av framgång.
 
-## Fotnoter
 
 [^1]: Att säga Allahu Akbar.
 [^2]: Rakah.

@@ -35,7 +35,6 @@ Innebörden av Allāhs ord: ”*Läs vad som har uppenbarats för dig av denna S
 
 Ibn Jarīr at-Tabarī föredrog denna förklaring i sin *tafsīr[^6]* och ett antal andra lärda inom *tafsīr[^6]* håller med honom om detta, baserat på de *ahādīth[^7]* som har kommit från många av följeslagarna och *tabi´in[^8]*.
 
-## Fotnoter
 
 [^1]: Dhikr
 [^2]: Du´ā

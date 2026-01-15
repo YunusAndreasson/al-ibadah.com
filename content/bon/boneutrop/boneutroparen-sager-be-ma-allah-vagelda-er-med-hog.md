@@ -27,7 +27,6 @@ Därmed är svaret på den ovan nämnda frågan tydligt. Det är att det är nö
 
 Och Allāh vet bäst.
 
-## Fotnoter
 
 [^1]: Du´ā
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

@@ -19,7 +19,6 @@ Av denna anledning måste mannen väcka sin fru inför bön med alla möjliga me
 
 Det är precis som om han har något viktigt arbete att utföra i hemmet och han behöver hennes hjälp, då kommer han försöka att väcka henne på alla tänkbara sätt. Samma gäller i denna fråga och det är än viktigare därför att när hon handlar rätt ligger det lycka i det i denna världen och den Nästa.
 
-## Fotnoter
 
 [^1]: Fajr
 

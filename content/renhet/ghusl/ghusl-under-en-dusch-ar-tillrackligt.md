@@ -18,7 +18,6 @@ description: 'Fråga: Jag skulle på ett klart och tydligt sätt vilja veta vilk
 
 *Ghusl[^1]* under en dusch är tillräckligt om man täcker hela kroppen med vatten, även om det enbart sker en gång.
 
-## Fotnoter
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Wudû´

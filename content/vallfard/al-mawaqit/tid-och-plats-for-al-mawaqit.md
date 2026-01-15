@@ -26,7 +26,6 @@ Den som inte har en *mīqāt[^9]* på sin väg, denne går in i *ihrām[^6]* nä
 
 Och Allāh vet bäst.
 
-## Fotnoter
 
 [^1]: Platserna för att träda in i ihrām.
 [^2]: Den lilla vallfärden.

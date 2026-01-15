@@ -24,7 +24,6 @@ Han avled onsdagen den 15:e shawwaal 1421 AH och var då 74 år gammal.
 
 Må Allāh vara honom nådig.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

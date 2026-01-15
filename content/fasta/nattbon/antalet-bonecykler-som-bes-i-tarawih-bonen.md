@@ -40,7 +40,6 @@ Hur vackert är inte uttalandet från en av de lärde om när någon skilde sig 
 
 Vi ber Allāh den Upphöjde att Han ger oss alla framgång i att uppnå vad Han älskar och gör Honom nöjd.
 
-## Fotnoter
 
 [^1]: Rakah.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

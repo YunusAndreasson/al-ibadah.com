@@ -18,7 +18,6 @@ description: 'Fråga: Hur betalar man allmosa för smycken som inte är enbart g
 
 Men om smycken används i affärssyfte, då betalar man allmosa för allt, inklusive pärlor och diamanter. Man betalar enligt värdet, precis som andra varor som är till försäljning. Detta är åsikten enligt en majoritet av de lärda.
 
-## Fotnoter
 
 [^1]: En vikt likvärdig med ungefär 4.5g.
 

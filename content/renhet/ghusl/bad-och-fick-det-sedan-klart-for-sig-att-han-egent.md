@@ -16,7 +16,6 @@ description: 'Fråga: Om någon bad och det sedan blev klart att denne hade bliv
 
 **Svar:** Den som ber och efter bönen finner att denne har en större eller mindre orenhet måste rena sig från denna orenhet och upprepa bönen. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Allāh accepterar inte böner utan rening*.” [*Muslim*]
 
-## Fotnoter
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 

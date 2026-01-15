@@ -19,7 +19,6 @@ description: 'Fråga: Jag bad middagsbönen bakom en imam men i de sista två b�
 
 I samtliga fall måste du följa imamen. Detta även om du inte har möjlighet att bli klar med recitationen och du är rädd för att du ska missa bugningen.
 
-## Fotnoter
 
 [^1]: Dhuhr
 [^2]: Rakah.

@@ -29,7 +29,6 @@ På samma sätt utser man inte någon annan som fastar åt en. Men om någon som
 
 Utgår vi från detta uttalande blir det en uppmaning till rikt folk som kan vallfärda själva. Det finns många som låter flera år passera innan de beger sig till Mecka. De gör detta och litar till att de kan utse någon annan som vallfärdar åt dem varje år. Därmed missar de vallfärden då de utser någon annan som vallfärdar för deras räkning.
 
-## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

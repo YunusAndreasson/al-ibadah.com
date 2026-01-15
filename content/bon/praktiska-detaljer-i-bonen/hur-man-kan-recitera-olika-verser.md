@@ -19,7 +19,6 @@ description: 'Fråga: Är det tillåtet att recitera vissa verser från en sura 
 
 Det är dock bättre att recitera en fullständig sura.
 
-## Fotnoter
 
 [^1]: Rakah.
 

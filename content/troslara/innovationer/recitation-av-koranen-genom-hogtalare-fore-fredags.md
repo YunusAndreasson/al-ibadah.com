@@ -18,7 +18,6 @@ description: 'Fråga: I vissa moskér i många delar av den muslimska världen r
 
 Allāh den Upphöjde vet bäst. Må frid och välsignelser vara över profeten Muhammad, hans familj och följeslagare.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: De tre första generationerna i islam.

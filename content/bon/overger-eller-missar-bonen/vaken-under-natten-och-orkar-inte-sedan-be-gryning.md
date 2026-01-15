@@ -21,7 +21,6 @@ Någon kan tänkas säga: ”Jag sover och profeten – över honom vare Allāhs
 
 Jag skulle vilja ta detta tillfälle i akt och säga något. En muslims skyldighet att dyrka Allāh på ett sätt som gör Honom den Allsmäktige nöjd. I detta jordeliv har man ju skapats enbart för att dyrka Allāh och man vet inte när döden kommer till en för att man ska gå vidare till Nästa liv i vilket det inte finns några handlingar. Sändebudet – över honom vare Allāhs frid och välsignelser – har sagt: ”*När Adams söner dör, dör också hans handlingar utom tre: [^2] förmiddagsbönen[^3], gagnelig kunskap och ett rättfärdigt barn som ber för honom*.” [*Muslim*]
 
-## Fotnoter
 
 [^1]: Fajr
 [^2]: adaqah jariyah

@@ -15,7 +15,6 @@ description: 'Fråga: Bryts fastan om man donerar blod under ramadan? Svar: Ja!
 
 **Svar:** Ja! Om man donerar mycket blod, då bryts fastan och det klassas på ungefär samma sätt som *hijāmah*.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

@@ -16,7 +16,6 @@ description: 'Fråga: Jag var rituellt oren efter intim samvaro. Jag bad då gry
 
 **Svar:** Du måste upprepa bönerna. Den som ber med en mindre eller större rituell orenhet har inte en giltig bön. Detta trots att det skedde på grund av glömska. Anledningen är att han slarvade med bönen. ʿUmar bin al-Khattab upprepade sin bön när han kom på att han hade haft en våt dröm utan att göra *ghusl[^6]*.
 
-## Fotnoter
 
 [^1]: Fajr
 [^2]: Dhuhr

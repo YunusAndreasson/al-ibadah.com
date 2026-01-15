@@ -18,7 +18,6 @@ description: 'Fråga: En man som gjorde ‘umrah hade ingen kunskap och han utf�
 
 > ”Jag begav mig ut med profeten för att vallfärda och folket kom till honom. Då kom en man och sade: 'Allāhs sändebud, jag utförde *sa’ī[^2]* före jag gjorde *tawāf[^3]'*, eller sade han: 'Jag gjorde något först och något [annat] senare.' Profeten – över honom vare Allāhs frid och välsignelser – sade då: 'Inga problem, utom för en man som skymfar en muslims heder och uppträder felaktigt. Detta är den som har problem och denne är tillintetgjord.'" [*Abū Dawūd* 2015]
 
-## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Vandringen mellan as-Safa och al-Marwa.

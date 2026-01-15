@@ -29,7 +29,6 @@ Därmed är det en skyldighet att besvara böneutropet och därför berättar *a
 
 Hade det varit tillåtet att be hemma hade profeten – över honom vare Allāhs frid och välsignelser – tillåtet den blinde mannen vars hem låg långt från moskén [som det fanns dadelpalmer och en ravin mellan] och som inte hade någon att leda honom. De som inte var närvarande vid bönen hotades med att deras hem skulle tändas fyr på, utom om det fanns kvinnor eller barn i dem. Bönen i församlingen är anledningen till att moskén existerar, de är husen för åminnelse[^2] av Allāh och en religiös samlingsplats i de muslimska länderna. Allāh har tillåtit att de byggs för att åminnas Hans namn och här prisar män honom från morgon till kväll utan att några affärsverksamheter tar deras uppmärksamhet.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: Dhikr

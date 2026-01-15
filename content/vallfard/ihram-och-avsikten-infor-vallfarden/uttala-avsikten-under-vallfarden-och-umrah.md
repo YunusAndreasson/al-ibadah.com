@@ -22,7 +22,6 @@ Här sker uttalandet med tungan enbart för att avsikten om att vallfärda har s
 
 I en *hadīth[^6]* som har rapporterats från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – säger han: ”*[Ängeln] Gabriel kom till mig och sade: 'Be i denna välsignade dal och säg: 'En ‘umrah[^1] i en vallfärd' [eller sade han: 'En ‘umrah[^1] och en vallfärd']*.” Detta betyder inte att han uttalade avsikten muntligt. I stället betyder det att han nämnde denna form av vallfärd i hans *talbiyyah[^7]*. Utöver detta har inte profeten – över honom vare Allāhs frid och välsignelser – uttalat sin avsikt muntligt.
 
-## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Den sju långa rundar vandringen runt Kabah.

@@ -17,7 +17,6 @@ description: 'Fråga: Får en kvinna bära parfym när hon ska gå till skolan, 
 
 Ett oanständigt sätt inkluderar att visa det som kan orsaka frestelse och vara vackert, som exempelvis ansiktet och huvudet.
 
-## Fotnoter
 
 [^1]: Isha
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen

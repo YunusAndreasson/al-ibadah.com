@@ -17,7 +17,6 @@ description: 'Fråga: Om någon gick in i moskén före böneutropet och bad hä
 
 **Svar:** Om böneutropet var för gryningsbönen[^2] eller middagsbönen[^3] bör denne när böneutroparen har ropat ut böneutropet be två *sunnah[^4]* för gryningsbönen[^2] och fyra *sunnah[^4]* förmiddagsbönen[^3]. Var böneutropet för någon av de andra bönerna är det föreskrivet för denne att även då be frivilliga böner. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”Mellan de båda böneutropen [*adhān* och *iqāmah[^5]*] finns det en bön.” [*al-Bukhārī* 627]
 
-## Fotnoter
 
 [^1]: Tahiyyatul-Msjid.
 [^2]: Fajr

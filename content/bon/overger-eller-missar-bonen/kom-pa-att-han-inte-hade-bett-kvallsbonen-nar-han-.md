@@ -16,7 +16,6 @@ description: 'Fråga: Jag gick in i moskén när nattbönen[^1] redan hade börj
 
 **Svar:** Om du gick in i moskén medan nattbönen[^1] bads och du sedan kom på att du inte hade bett kvällsbönen[^2], då bör du be tillsammans med församlingen och avse att be kvällsbönen[^2]. När imamen sedan står upp för den fjärde bönecykeln[^3], då ska du sitta kvar i den tredje och vänta tills han gör *taslīm[^4]* och då göra den med honom. Det är inga problem att imamen och de som ber bakom honom har olika avsikt. Detta enligt den starkaste åsikten bland de lärde. Om du bad kvällsbönen[^2] ensam och sedan bad med församlingen, då finns det ingen invändan.
 
-## Fotnoter
 
 [^1]: Isha
 [^2]: Maghrib

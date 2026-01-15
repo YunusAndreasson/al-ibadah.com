@@ -25,7 +25,6 @@ Den fjärde typen är att man slaktar ett djur som kompensation om man har utel�
 
 Om man upprepar en förbjuden handling av samma typ [mer än en gång], då behöver man endast offra i försoning en gång. Ett exempel på detta är om man rakar sitt huvud varje dag eller täcker det upprepade gånger. Men om han offrar i försoning för den första gången som man handlade felaktigt och man sedan upprepar det igen, då måste man försona sig en andra gång genom ett offer.
 
-## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.

@@ -42,7 +42,6 @@ Och profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 Om någon då befinner sig någonstans och inte känner till riktningen mot *qiblah[^2]*, och det inte finns någon som denne litar på och kan fråga, då ber denne efter att ha försökt ta reda på den troligaste riktningen. Denne behöver inte ta igen den bönen efteråt.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Riktningen mot Kabah i Mecka som bönen utförs mot.

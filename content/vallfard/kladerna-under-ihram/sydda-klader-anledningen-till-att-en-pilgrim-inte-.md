@@ -19,7 +19,6 @@ Det finns många anledningar till att det är föreskrivet att vi undviker sydda
 
 Och Allāh är källan till att styrka. Må Allāh sända välsignelser och frid över vår profet Muhammad, hans familj och följeslagare.
 
-## Fotnoter
 
 [^1]: Den lilla vallfärden.
 

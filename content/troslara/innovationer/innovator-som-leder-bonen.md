@@ -28,7 +28,6 @@ Han har även sagt: ”*Det bästa talet är Allāhs skrift och den bästa vägl
 
 Vi ber Allāh att Han skyddar oss och Muslimerna från innovationer, synder och olydnad.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Byxor som bärs under det yttre plagget.

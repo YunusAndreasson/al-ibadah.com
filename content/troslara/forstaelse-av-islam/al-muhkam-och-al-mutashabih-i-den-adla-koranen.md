@@ -51,7 +51,6 @@ Allāh prövade dem genom att göra jakt enkelt för dem medan de befann sig i *
 
 > ”Det är Han som har uppenbarat för dig denna Skrift, där det finns fast och klart formulerade budskap – de utgör dess kärna – och andra som är framställda i bilder. Men de vilkas hjärtan har farit vilse går efter sådant i Skrifter som har framställts i bild, när de försöker så split och förvirring genom [godtycklig] tolkning av dess innersta mening – dess innersta mening känner ingen utom Gud. – De vilkas kunskap är fast och djupt rotad säger: 'Vi tror på denna [Skrift]; allt är från vår Herre.' Men ingen ägnar eftertanke åt [och tar varning av] detta utom de som har förstånd.” [Koranen 3:7]
 
-## Fotnoter
 
 [^1]: Klara och precisa.
 [^2]: Tolkning av Koranen efter givna principer.

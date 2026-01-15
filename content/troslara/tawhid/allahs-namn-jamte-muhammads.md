@@ -18,7 +18,5 @@ description: 'Fråga: Vi ser ofta Allāhs namn skrivit på väggar och jämte de
 
 Det återstår fortfarande tvivel om att enbart skriva Allāh då sufier uttalar detta ord. De säger det i stället för åminnelse[^1]: Allāh, Allāh, Allāh... Därför bör även det plockas bort. Man bör inte skriva Allāh eller Muhammad på väggar, papper eller något annat.
 
-## Fotnoter
-
 [^1]: Dhikr
 

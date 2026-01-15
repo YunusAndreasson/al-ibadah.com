@@ -17,7 +17,6 @@ description: 'Fråga:  Hur många män krävs för att fredagsbönen ska vara g
 
 Och Allāh är källan till styrkan. Må Allāh välsigna vår profet Muhammad, hans familj och följeslagare och skänka dem frid.
 
-## Fotnoter
 
 [^1]: Dhuhr
 

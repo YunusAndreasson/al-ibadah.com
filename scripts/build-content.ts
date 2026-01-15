@@ -65,7 +65,11 @@ async function parseMarkdown(content: string): Promise<string> {
   const result = await unified()
     .use(remarkParse)
     .use(remarkGfm)
-    .use(remarkRehype, { allowDangerousHtml: true })
+    .use(remarkRehype, {
+      allowDangerousHtml: true,
+      footnoteLabel: 'Fotnoter',
+      footnoteLabelTagName: 'h2',
+    })
     .use(rehypeRaw)
     .use(rehypeSlug)
     .use(rehypeStringify)

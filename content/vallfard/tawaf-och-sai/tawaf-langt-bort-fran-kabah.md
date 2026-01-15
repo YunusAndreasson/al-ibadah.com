@@ -16,7 +16,6 @@ description: 'Fråga: Vilket är utlåtandet om att göra tawāf bakom platsen d
 
 **Svar:** Det finns inget skadligt i det. Även denne gjorde *tawāf[^1]* i det områden med markiserna i moskén är det tillräckligt. Men desto närmare man befinner sig Ka’bah, desto bättre. Om det finns utrymme där och det inte är trängsel, då bör han komma nära Ka’bah. Det är bättre. Om det är svårt för en, då bör man göra *tawāf[^1]* på avstånd. Det är inget problem.
 
-## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 

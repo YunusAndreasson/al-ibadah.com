@@ -22,7 +22,6 @@ Det är dock bäst om du själv utför vallfärden och *‘umrah[^1]* för dem. 
 
 Gör du detta visar du vänlighet mot dem och du behandlar dem på ett fint sätt. Må Allāh acceptera detta från dig och från oss.
 
-## Fotnoter
 
 [^1]: Den lilla vallfärden.
 

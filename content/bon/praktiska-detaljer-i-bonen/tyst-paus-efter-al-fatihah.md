@@ -22,7 +22,6 @@ Dessa båda *ahādīth[^1]* förklarar Allāhs den Allsmäktiges ord: ”*Lyssna
 
 Profeten – över honom vare Allāhs frid och välsignelser – har även sagt: ”*Imamen placerades endast där för att följas, så motsäg er inte honom; om han gör takbīr[^2], då gör ni takbīr[^2] och om han reciterar, var då tysta*.” [*Muslim* 404 och 411]
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: Att säga Allahu Akbar.

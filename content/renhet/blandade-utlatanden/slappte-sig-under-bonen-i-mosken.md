@@ -18,7 +18,6 @@ description: 'Fråga: Om en man kom till bönen och han släppte sig under böne
 
 Därmed är det tydligt att den som släpper sig måste lämna bönen och tvaga sig på nytt. Men om han är i den främre raden och det är svårt för honom att passera genom raderna, då får han stanna till slutet av bönen och sedan göra om den. Det finns ingen skillnad mellan att släppa sig i början av bönen eller vid den sista *tashahhud[^1]*.
 
-## Fotnoter
 
 [^1]: Vad man läser i den sittande positionen under bönen.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

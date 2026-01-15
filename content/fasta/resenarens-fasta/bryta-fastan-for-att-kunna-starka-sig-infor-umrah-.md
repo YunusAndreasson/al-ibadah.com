@@ -22,7 +22,6 @@ Somliga kan tänkas fortsätta att fasta även när de reser, i tron om att fast
 
 Man har bekräftat att profeten – över honom vare Allāhs frid och välsignelser – fastade under sin resa till Mecka [då staden erövrades]. Folket kom då fram till honom och sade: ”*Allāhs sändebud! Fastan har blivit svår för folket och de väntar för att se vad du kommer att göra*.” Detta var efter eftermiddagsbönen[^4] men profeten – över honom vare Allāhs frid och välsignelser – bad om vatten och drack det medan folket såg på. [*Muslim* 1114] Profeten – över honom vare Allāhs frid och välsignelser – bröt då fastan under resan. Han bröt fastan under slutet av dagen. Syftet var att klargöra för folket att detta var tillåtet. Fasta när man är på resande fot, vilket somliga gör trots svårigheter, motsäger sig profetens – över honom vare Allāhs frid och välsignelser – sunnah[^5]. Detta råder det inga tvivel om och här gäller profetens – över honom vare Allāhs frid och välsignelser – uttalande: ”*Det är inte rättfärdigt att fastan medan man reser*.” [*al-Bukhārī* 1946]
 
-## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

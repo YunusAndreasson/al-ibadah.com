@@ -18,7 +18,6 @@ description: 'Fråga: Är placerandet av en krans på ”den okände soldatens g
 
 Detta bör stoppas, annars kan det leda till shirk[^2].
 
-## Fotnoter
 
 [^1]: De som står Allāh nära.
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

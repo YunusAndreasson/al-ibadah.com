@@ -23,7 +23,6 @@ En annan anledning är den att profeten – över honom vare Allāhs frid och v�
 
 Det mest korrekta uttalandet är att om man gör *tayammum[^1]* mot marken är ens *tayammum[^1]* giltig oavsett om det finns stoftpartiklar på marken eller ej. [...]
 
-## Fotnoter
 
 [^1]: En rituell rening som görs med hjälp av jord/sand då det inte finns vatten tillgängligt.
 

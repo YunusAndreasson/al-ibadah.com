@@ -18,7 +18,6 @@ description: 'Fråga: Jag är en kvinna som utför den dyrkan som Allāh har fö
 
 Därför måste den som ber föreställa sig att han står framför Allāh den Allsmäktige och att han tilltar Allāh den Upphöjde och att han kommer närmare Honom genom att upphöja och lovprisa Honom genom åkallan[^1] vid de tillfällen i bönen när man åkallar[^1]. Känner man det, då kommer man att närma sig sin Herre den Upphöjde med ödmjukhet och vördnad för Honom. Man kommer att älska Honom för det goda som finns hos Honom och frukta Hans straff om man struntar i det som Han har påbjudit en.
 
-## Fotnoter
 
 [^1]: Du´ā
 

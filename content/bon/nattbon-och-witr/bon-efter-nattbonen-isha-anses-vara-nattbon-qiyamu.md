@@ -16,7 +16,6 @@ description: 'Fråga: Anses det vara nattbön om man ber elva bönecykler direkt
 
 **Svar:** Nattbön är när man ber mycket, som två eller tre timmar. Detta gäller oberoende av hur många antalet bönecyklerna[^1] är och om bönen bes tidigt under natten efter nattbönen[^2] eller om den bes sent under natten innan gryningsbönen[^3]. Den bästa tiden är dock under den tredje delen av natten när man har vaknat. Detta åstadkoms genom att man sover under den första delen av natten.
 
-## Fotnoter
 
 [^1]: Rakah.
 [^2]: Isha

@@ -20,7 +20,6 @@ Imam Muslim har återgivit denna hadīth[^1] i sin Sahīh. Likaså har man bekr�
 
 Och hos Allāh finns medlen till att göra vad som är rätt.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

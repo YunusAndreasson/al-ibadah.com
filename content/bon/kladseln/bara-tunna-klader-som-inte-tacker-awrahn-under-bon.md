@@ -33,7 +33,6 @@ Och Allāh den Upphöjde har sagt: ”*Förrätta bönen och ge åt de behövand
 
 Och Allāh är Beviljaren av framgång.
 
-## Fotnoter
 
 [^1]: De delar av kroppen som måste täckas.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

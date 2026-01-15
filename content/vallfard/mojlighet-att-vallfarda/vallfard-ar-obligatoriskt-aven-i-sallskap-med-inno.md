@@ -19,7 +19,6 @@ description: 'Fråga: Vi är sunniter och lever i en shiitisk stat. Vi vill utf�
 
 Det finns även andra verser som visar att det är obligatoriskt att kalla människor till Allāh och att påbjuda det goda och förbjuda det onda. Må Allāh ställa allting till rätta.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

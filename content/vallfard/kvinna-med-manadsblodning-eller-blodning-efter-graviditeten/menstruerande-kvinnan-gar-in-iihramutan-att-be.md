@@ -18,7 +18,6 @@ description: 'Fråga: Hur ber en kvinna med månadsblödning de båda bönecykle
 
 Följeslagarna har berättat att profeten – över honom vare Allāhs frid och välsignelser – bad och därpå gick in i ihrām[^2]. Därför anser majoriteten av de lärde att det är bra att *ihrām[^2]* sker efter bön. Det kan antingen vara en obligatorisk eller en frivillig bön. Man tvagar sig och ber två bönecykler[^1]. En kvinna med månadsblödning och en kvinna men blödningar efter graviditeten ber inte. Därför träder de in i *ihrām[^2]* utan att be och det är inte föreskrivet för dem att ta igen dessa två bönecykler[^1].
 
-## Fotnoter
 
 [^1]: Rakah.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

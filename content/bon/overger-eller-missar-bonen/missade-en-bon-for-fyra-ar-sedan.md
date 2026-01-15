@@ -16,7 +16,6 @@ description: 'Fråga: För fyra år sedan var vi på en nöjesresa och jag missa
 
 **Svar:** Du måste vända dig till Allāh i sann ånger. Du behöver inte ta igen den då du avsiktligen övergav den obligatoriska bönen. Enligt profetens – över honom vare Allāhs frid och välsignelser – ord är detta en otros-handling: ”*Avtalet som skiljer oss från dem är bönen och den som lämnar den har inte trott*.” [*at-Tirmithi* 2621, *an-Nasā’i* 464 och *Ahmad* 5:346, 355] Och han har även sagt: ”*Det som står mellan en man och otro samt mångguderi är utelämnandet bönen*.” [*Muslim* 82] Det finns ingen gottgörelse utom uppriktigt ånger.
 
-## Fotnoter
 
 [^1]: Dhuhr
 [^2]: Asr

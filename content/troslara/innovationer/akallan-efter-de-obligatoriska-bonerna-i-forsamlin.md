@@ -40,7 +40,6 @@ Den som vill ha mer information om åkallan[^2] bör läsa böcker som *Jami'ul-
 
 Må frid och välsignelser vara över vår profet Muhammad, hans familj och följeslagare.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Du´ā

@@ -20,7 +20,6 @@ Jag har rådfrågat en religiös och rättfärdig doktor om detta och han rekomm
 
 Om detta inträffar under fastemånaden måste du fasta när du har renat dig själv efter de åtta dagarna, då måste du göra *ghusl[^1]* och be samt fasta som en ren kvinna. Detta beror på att månadsblödningen kan bli längre och kortare, och dessa perioder går ibland ihop eller så delas de.
 
-## Fotnoter
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 

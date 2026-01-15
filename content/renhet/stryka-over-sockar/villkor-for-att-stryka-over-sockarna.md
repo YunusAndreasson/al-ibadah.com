@@ -28,7 +28,6 @@ Om vi antar att han strök sina strumpor innan kl. 5.00, då kan han be grynings
 
 Detta är villkoren för att stryka över lädersockar. Det finns andra villkor som vissa lärde har tagit upp, men dessa diskuteras fortfarande.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.

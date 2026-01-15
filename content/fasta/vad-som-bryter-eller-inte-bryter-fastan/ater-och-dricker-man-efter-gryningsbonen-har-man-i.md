@@ -23,7 +23,6 @@ Denna *hadīth[^2]* råder det enighet om.
 
 Och framgång kommer från Allāh.
 
-## Fotnoter
 
 [^1]: Fajr
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

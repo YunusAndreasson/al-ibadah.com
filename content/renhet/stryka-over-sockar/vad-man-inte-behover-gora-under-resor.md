@@ -25,7 +25,6 @@ En resenär bör därmed be nattbön, *sunnah[^3]* för gryningsbönen[^7], två
 
 Det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]* att be två bönecykler[^1] i moskén innan man går in i sitt hem. Frivilliga böner är fortfarande föreskrivna för resenären, utom de som har nämnts tidigare [middagsbönen, kvällsbönen[^5] och nattbönen[^6]].
 
-## Fotnoter
 
 [^1]: Rakah.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

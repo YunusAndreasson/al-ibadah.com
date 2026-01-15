@@ -21,7 +21,6 @@ När det gäller den som åt eller drack när denne var osäker på om solen gå
 
 Och Allāh är Givaren av framgång.
 
-## Fotnoter
 
 [^1]: Fajr
 [^2]: Frukosten före gryningsbönen under fastan.

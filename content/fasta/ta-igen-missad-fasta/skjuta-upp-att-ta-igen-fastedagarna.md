@@ -18,7 +18,6 @@ description: 'Fråga: Jag drabbades av en allvarlig sjukdom för ungefär fem å
 
 Vi ber Allāh att Han accepterar din ånger och att Han förlåter dig och oss. Han är den Bäste att fråga.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.

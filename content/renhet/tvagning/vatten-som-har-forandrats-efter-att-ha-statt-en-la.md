@@ -16,7 +16,6 @@ description: 'Fråga: Vilket är utlåtandet om vatten som har förändrats efte
 
 **Svar:** Vattnet är rent även om det har förändrats. Det har ju inte förändrats på grund av någon yttre tillsats utan enbart eftersom det har stått länge på samma plats. Det finns ingen invändan mot att använda det för tvagningen[^1], som i detta fall är giltig.
 
-## Fotnoter
 
 [^1]: Wudû´
 

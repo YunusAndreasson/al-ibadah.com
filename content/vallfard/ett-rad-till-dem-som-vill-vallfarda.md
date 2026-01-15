@@ -109,7 +109,6 @@ Jag ber Allāh att Han hjälper alla med att göra vad som gör Honom nöjd och 
 
 Må Allāh sända välsignelser och frid över vår profet Muhammad, hans familj och följeslagare.
 
-## Fotnoter
 
 [^1]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 [^2]: Säga Labbayk Allahumma Labbayk under vallfärden.

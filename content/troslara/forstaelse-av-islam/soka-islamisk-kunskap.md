@@ -20,7 +20,6 @@ Om någon då sysselsätter sig med något till den grad att denne försummar s�
 
 Vi anser att detta ursäktas och att det inte finns någon invändan mot det, men denne måste i varje fall lära sig det om den islamiska lagen som denne har möjlighet till.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

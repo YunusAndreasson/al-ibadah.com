@@ -24,7 +24,6 @@ Det finns inga *sunnah[^1]*-böner före fredagsbönen. Detta är inte något so
 
 Den islamiska lagen uppmuntrar till att böner sänds över profeten – över honom vare Allāhs frid och välsignelser – och belöningen för detta är stor. Detta är en *sunnah[^1]* efter böneutropet, men böneutroparen bör sända böner över honom tyst och inte högt. Det är en innovation om böneutroparen gör så när han har avslutat böneutropet. För den som hör böneutropet är det *sunnah[^1]* att upprepa efter, och när böneutroparen har avslutat den sända böner över profeten – över honom vare Allāhs frid och välsignelser – och be Allāh att Han ger profeten – över honom vare Allāhs frid och välsignelser – medlingen.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Dhikr

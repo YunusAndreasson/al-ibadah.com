@@ -25,7 +25,6 @@ Har de båda målen lika stor betydelse för denne och varken avsikten att dyrka
 
 En av följeslagarna har sagt: ”*Jag har inte kämpat mer med mig själv än med någon annan fråga än ikhlas[^1]*.” Vi ber därför Allāh, för oss och för dig, att han ger oss *ikhlas[^1]* i våra avsikter och rättfärdighet i våra handlingar.
 
-## Fotnoter
 
 [^1]: Uppriktighet.
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

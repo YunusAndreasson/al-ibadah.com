@@ -19,7 +19,6 @@ description: 'Fråga: I boken adh-Dhiya''ul-lami'' görs ett uttalande i en pred
 
 Likaså har den som kräks inte fått fastan förstörd. Detta beror på att Allāh inte prövar en själ med mer än vad den kan bära och den islamiska lagen är baserad på att underlätta. Detta beror på att Allāh den Upphöjde har sagt: ”*Och Han har inte lagt på er svåra eller tunga plikter i [utövningen av er] religion*.” [Koranen 22:78] Utöver detta finns det även andra bevis. Och det beror även på att sändebudet – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som tvingas att kräka, denne behöver inte ta igen fastan och den som får sig själv att kräka, denne måste ta igen fastan*.” [*Abū Dawūd* 2380, *at-Tirmithi* 720 och *Ibn Mājah* 2366]
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

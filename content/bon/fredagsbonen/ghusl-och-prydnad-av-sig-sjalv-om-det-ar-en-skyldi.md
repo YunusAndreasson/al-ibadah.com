@@ -18,7 +18,6 @@ description: 'Fråga: Behöver både män och kvinnor göra ghusl samt pryda sig
 
 Att göra *ghusl[^1]* för fredagsbönen en eller två dagar innan är inte till någon nytta. De *ahādīth[^2]* som har rapporterats nämner fredagen specifikt. Tiden är då från gryningsbönen[^3] till fredagsbönen. Det är under denna tidpunkt man bör bada. Gör man det en eller två dagar innan, då finns det ingen nytta i det och det går inte att räkna som *ghusl[^1]* för fredagsbönen.
 
-## Fotnoter
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen

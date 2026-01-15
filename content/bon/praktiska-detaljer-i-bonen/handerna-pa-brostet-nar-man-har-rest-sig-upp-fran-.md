@@ -22,7 +22,6 @@ I stället måste muslimer samarbeta i rättfärdighet, fromhet och broderlig k�
 
 Vi ber Allāh att Han ger oss och alla muslimer framgång i att förstå Hans religion samt att Han håller oss stadiga vid den, att Han skyddar oss från det onda i oss själva, ondskan i våra handlingar och från villfarelsen i oenighet. Han är Allhörande, Nära.
 
-## Fotnoter
 
 [^1]: Ruku, bugningen när ryggen hålls parallell med marken.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen

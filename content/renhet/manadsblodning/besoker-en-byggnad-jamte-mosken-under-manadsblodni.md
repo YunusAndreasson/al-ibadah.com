@@ -26,7 +26,6 @@ Pelare som delar raderna skadar de inte bönen, men om det är möjligt att plac
 
 Och Allāh är Den som ger framgång.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

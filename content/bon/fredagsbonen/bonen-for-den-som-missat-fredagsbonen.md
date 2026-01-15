@@ -18,7 +18,6 @@ description: 'Fråga: Bör man be två bönecykler om man missar fredagsbönen? 
 
 Må frid och välsignelser var över vår Profet och över hans familj.
 
-## Fotnoter
 
 [^1]: Rakah.
 [^2]: Rättslära.

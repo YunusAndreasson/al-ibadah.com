@@ -18,7 +18,6 @@ description: 'Fråga: Om någon missar en bönecykel av förmörkelsebönen, hur
 
 En utlöpare till denna fråga är ett annat problem som orsakar ännu mer förvirring för många och det berör den som har missat den första bugningen i en bönecykel. Den som har missat den första bugningen i en bönecykel[^1] har missat denna bönecykel. Så när imamen har gjort *taslīm[^2]* tar denne igen hela denna bönecykel[^1] där denne har missat den första bugningen. Detta är enligt den generella betydelsen i profetens – över honom vare Allāhs frid och välsignelser – ord: ”... *och fullfölj [det du har missat]*.”
 
-## Fotnoter
 
 [^1]: Rakah.
 [^2]: Den avslutande hälsningen i bönen.

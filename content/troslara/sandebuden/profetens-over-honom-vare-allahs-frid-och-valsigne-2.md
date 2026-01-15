@@ -25,7 +25,6 @@ De lärde har även nämnt andra anledningar till att han gifte sig med flera kv
 
 Behov av att gifta sig med flera kvinnor var inte enbart för att tillfredsställa begär, vilket bevisas genom att profeten – över honom vare Allāhs frid och välsignelser – inte gifte sig med oskulder eller unga kvinnor [utom ‘Ā’ishāh] – alla hans fruar var mogna kvinnor. Hade han drivits av begär och fysisk lust till att gifta sig med många kvinnor, då hade han valt unga kvinnor för att tillfredsställa sig. Detta speciellt när de hade utvandrat, landet befriats och den islamiska staten etablerats. Då var muslimernas styrka avsevärd och ökande, och varje familj ville att han skulle gifta sig med just deras döttrar – men han gjorde inte det. Han gifte sig endast i ädla syften och för höga ändamål, vilket blir tydligt för dem som har studerat omständigheterna kring varje äktenskap. Hade han varit en man underkastad sin egen lust, då hade det märkts i hans biografi när han var ung och stark. Men under den tiden hade han endast en fru – Khadijah bint Khuwailid – som var äldre än honom. Hade så varit fallet, då hade han varit känd för att behandla sina fruar orättvist, som var av olika åldrar och av skiftande grad av skönhet. Han var endast känd för sin absoluta rättfärdighet, ärlighet och dygd – både som ung och gammal.
 
-## Fotnoter
 
 [^1]: Det naturliga tillstånd som människan föds i.
 [^2]: Kämpa för Allāhs sak.

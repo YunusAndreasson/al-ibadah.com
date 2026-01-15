@@ -18,7 +18,6 @@ description: 'Fråga: Är det tillåtet att ta henna i håret medan man fastar o
 
 När det gäller att lägga henna under bönen så förstår jag inte hur denna fråga kan vara möjlig. En kvinna som ber kan ju inte lägga henna. Frågeställaren undrar antagligen om henna hindrar tvagningen[^1] från att vara korrekt om kvinnan använder det. Svaret är att det inte hindrar vattnet från att nå huden. Den färgar enbart. Det som inverkar på tvagningen[^1] är det som har någon substans som hindrar vattnet från att nå huden. I detta fall måste denna substans tas bort innan tvagningen[^1] kan vara giltig.
 
-## Fotnoter
 
 [^1]: Wudû´
 

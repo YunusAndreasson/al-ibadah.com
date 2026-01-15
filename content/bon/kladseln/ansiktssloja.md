@@ -22,7 +22,6 @@ Att bära handskar är något som den islamiska lagen föreskriver då detta var
 
 Ansiktet döljer hon medan hon sitter och står. När hon sedan vill nedfalla[^2] avtäcker hon det för att det ska få direktkontakt med platsen för nedfallan[^2].
 
-## Fotnoter
 
 [^1]: Släkting som det inte är tillåtet att gifta sig med.
 [^2]: sujūd, nedfallandet när pannan läggs mot marken.

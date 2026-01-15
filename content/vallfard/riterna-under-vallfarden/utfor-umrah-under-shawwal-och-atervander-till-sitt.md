@@ -21,7 +21,6 @@ Det har rapporterats från Ibn ‘Abbās att denne är en *mutamatti[^3]'* och a
 
 Det verkar vara uppenbart – och Allāh vet bäst – att det som har berättats från ‘Umar – må Allāh vara nöjd med honom – och hans son är den mest korrekta åsikten. Detta är att om denne återvänder till sitt hemland, då är denne inte en *mutamatti[^3]'*. Men om denne kommer till vallfärden och gör *‘umrah[^1]* och sedan stannar i Jiddah eller at-Ta'if och därefter går in i *ihrām[^6]* för vallfärden, då är denne en *mutamatti[^3]'*. Att denne reser till at-Ta'if, Jiddah eller Medina leder inte till att denne inte är en *mutamatti[^3]'*, denne kom ju för att utföra dem [vallfärden och *‘umrah[^1]*] tillsammans. Denne reste endast till Jiddah eller at-Ta'if på grund av ett behov. Detsamma gäller den som reser till Medina för att besöka profetens – över honom vare Allāhs frid och välsignelser – Moské. Inget av detta leder till att denne inte är en *mutamatti[^3]'*, enligt vad som tycks vara uppenbart och mest korrekt. Denne måste därmed offra ett djur, vilket är offret för en *mutamatti[^3]'*. Denne måste även göra *sa’ī[^7]* för vallfärden, precis som denne gjorde *sa’ī[^7]* för *‘umrah[^1]*.
 
-## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Den tionde månaden i det islamiska året. Under denna månad är det rekommenderat att fasta sex dagar frivillig fasta.

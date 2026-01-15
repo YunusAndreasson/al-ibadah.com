@@ -21,7 +21,6 @@ Vi tar avstånd från *rafidah* som smädar eller förbannar dem. Den som skymfa
 
 Vi söker vår tillflykt hos Allāh från denna åsikt.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Någon som utöver ijtihad.

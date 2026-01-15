@@ -21,7 +21,6 @@ description: 'Fråga: Är det möjligt att jag utser någon annan som kastar min
 
 Detsamma gäller *‘umrah[^3]*, vilket denna ädla vers nämner. Om den påbörjas, då måste den avslutas. Enligt den korrekta åsikten får man inte utse någon annan som utför vallfärdsriterna när man kan utföra dem själv. Om man reser innan man har kastat stenarna, då måste man offra ett djur och ge mat till de fattiga i Mecka.
 
-## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

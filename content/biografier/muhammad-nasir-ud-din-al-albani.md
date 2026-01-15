@@ -36,7 +36,6 @@ Han har haft många studenter, exempelvis: Shaykh Hamdī ʿAbdul-Majīd, Shaykh 
 
 Han avled söndagen den 22:e Jumādā ath-Thāniyah 1420 AH. Han var då 87 år gammal. Må Allāh den Högste ha nåd över hans själ. Āmīn.
 
-## Fotnoter
 
 [^1]: Regler som förklarar hur Koranen ska reciteras.
 [^2]: Rättslära.

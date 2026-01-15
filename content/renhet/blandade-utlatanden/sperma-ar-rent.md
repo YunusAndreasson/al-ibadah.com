@@ -20,7 +20,6 @@ Detta gäller om sperman har kommit ut efter att man har tvättat sina könsdela
 
 Då sperma är rent får en man sova på en madrass och täcka sig med det täcke som han har haft intim samvaro med sin fru under. Det finns inget skadligt i detta.
 
-## Fotnoter
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Fajr

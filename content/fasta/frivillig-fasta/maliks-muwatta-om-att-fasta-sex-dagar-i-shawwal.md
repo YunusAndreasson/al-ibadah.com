@@ -18,7 +18,6 @@ description: 'Fråga: Vad anser ni om att fasta sex dagar efter ramadan under sh
 
 Denna *hadīth[^4]* har Muslim och de fem [Abū Dawūd, at-Tirmithi, an-Nasā’i, Ibn Mājah och Ahmad] återgivit. Därmed är denna *hadīth[^4]* autentisk och den bevisar att det är *sunnah[^5]* att fasta sex dagar under shawwal[^2]. ash-Shafi'i har agerat enligt den och så även Ahmad och en grupp av imamerna bland de lärda. Det är inte rätt att låta denna *hadīth[^4]* motsägs av vad vissa lärde har angivit som anledning för att anse fastan vara ogillad. Dessa *ahādīth[^4]* medför den lärdes rädsla för att de okunniga ska tro att den är en del av ramadan[^1] eller tro att den är obligatoriskt. Det kan även vara så att det inte har nått honom att de lärde som föregick honom fastade på detta sätt. Sannerligen är detta spekulation och det kan inte bestrida profetens – över honom vare Allāhs frid och välsignelser – autentiska *sunnah[^5]*. Den som har vetskap som ett bevis är inte likvärdig med den som inte har det.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Den tionde månaden i det islamiska året. Under denna månad är det rekommenderat att fasta sex dagar frivillig fasta.

@@ -18,7 +18,6 @@ description: 'Fråga: Är det tillåtet att be bakom någon vars trosprinciper s
 
 Bön bakom en innovatör, som inte står utanför islam, accepteras precis som bön bakom någon som syndar öppet, så länge dennes synder inte tar denne ur islam. Men om de har möjlighet att slå sig samman och föra fram den bästa av dem måste någon från *ahlus-sunnah[^1]* utses.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

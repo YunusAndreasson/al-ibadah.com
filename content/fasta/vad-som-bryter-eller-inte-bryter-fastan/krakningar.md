@@ -20,7 +20,6 @@ Beviset för detta återfinns i en *hadīth[^1]* från Abū Hurairah i vilken de
 
 Har du då kräkt [ofrivilligt] har din fasta inte brutits. Känner en fastande att dennes mage vänder sig och att innehållet kommer att kräkas upp, då säger vi till denne: Hindra det inte men uppmuntra det [heller] inte utan ta det lugnt. Framkalla inte kräkning men försök [heller] inte att hindra den. Om du framkallar en kräkning har du brutit fastan och om du hindrar den kommer det att skada dig – så ta det lugnt. Kommer det upp utan att du har gjort något så skadar det dig inte och du kommer inte att bryta din fasta.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

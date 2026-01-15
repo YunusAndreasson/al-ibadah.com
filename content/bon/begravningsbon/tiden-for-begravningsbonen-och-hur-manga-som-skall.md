@@ -20,7 +20,6 @@ Det finns inget angivet antal muslimer som ska närvara. Faktum är att om enbar
 
 Det är tillåtet att be på gravplatsen och det är anledningen till varför de lärde har undantagit det från förbudet mot att be på gravplatser. Det är också tillåtet att be över graven för det har rapporterats att profeten – över honom vare Allāhs frid och välsignelser – bad över en grav tillhörande en kvinna som brukade städa moskén. Hon hade avlidit en natt och följeslagarna hade begravt henne. Profeten – över honom vare Allāhs frid och välsignelser – frågade då: ”*Visa mig till hennes grav*.” De visade honom dit och han bad över henne. [*al-Bukhārī* 1337 och *Muslim* 956]
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

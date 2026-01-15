@@ -26,7 +26,6 @@ Men att söka skydd hos Allāhs sändebud – över honom vare Allāhs frid och 
 
 Och Allāh är källan till all styrka.
 
-## Fotnoter
 
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

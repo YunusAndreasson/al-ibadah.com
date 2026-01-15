@@ -22,7 +22,6 @@ Det som frågeställaren menar när han säger att skapelsen inte innehåller n�
 
 Utöver himlarna och jorden finns det finns en värld som endast Allāh känner till. Vi känner även till vad Han den Upphöjde har lärt oss, som *'Arsh[^3]* och *Kursi[^2]*; och *'Arsh[^3]* är det högsta av alla skapade ting. Allāh den Upphöjde reste sig över *'Arsh[^3]* på ett sätt som passar Hans Majestät och Hans Storhet.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Allāhs fotpall.

@@ -18,7 +18,6 @@ description: 'Fråga: Kan den som är i den stora rituella orenheten recitera Al
 
 Och Allāh är Den som ger framgång.
 
-## Fotnoter
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 

@@ -20,7 +20,6 @@ I*Sahīh al-Bukhārī* och *Sahīh Muslim* finns en *hadīth[^2]* från Ibn ‘A
 
 Några av de lärda har sagt att om han återvänder med avsikten att utföra *tawāf[^1] ul-wadā*, då är det tillräckligt och han behöver inte slakta ett djur. Denna åsikt är dock tveksam. Det är säkrare för den troende, så länge denne har rest en längre sträcka och denne inte har gjort *tawāf[^1] ul-wadā*, att slakta ett djur och göra vallfärden fullständig.
 
-## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

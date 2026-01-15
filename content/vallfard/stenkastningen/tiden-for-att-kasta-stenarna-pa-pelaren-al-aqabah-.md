@@ -21,7 +21,6 @@ Det är bättre att kasta stenarna under dagen. Undantaget är om man med anledn
 
 Vad frågeställaren har sagt om att ta igen [för att ha missat att kasta stenarna] anses det som att man tar igen för detta om man kastar dem efter gryningsbönen[^1] nästa dag.
 
-## Fotnoter
 
 [^1]: Fajr
 

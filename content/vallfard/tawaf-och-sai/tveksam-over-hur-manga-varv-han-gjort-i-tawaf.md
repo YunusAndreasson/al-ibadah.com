@@ -22,7 +22,6 @@ Samma gäller i *tawāf[^3]* och *sa’ī[^4]*. Om en person som utför *tawāf[
 
 Och Allāh är Den som ger framgång.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Den lilla vallfärden.

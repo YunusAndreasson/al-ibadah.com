@@ -22,7 +22,6 @@ Detta innebär att *tawāf[^1] ul-wadā* är en obligatorisk rit, enligt den mes
 
 Och Allāh vet bäst.
 
-## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.

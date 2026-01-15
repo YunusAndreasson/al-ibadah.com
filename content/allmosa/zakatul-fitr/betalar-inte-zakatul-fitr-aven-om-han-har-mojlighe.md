@@ -16,7 +16,6 @@ description: 'Fråga: Vilket är utlåtandet om den som har möjlighet att betal
 
 Och Allāh är källan till all styrka.
 
-## Fotnoter
 
 [^1]: Allmosa som ges före eid-bönen.
 

@@ -24,7 +24,6 @@ Båda dessa tillvägagångssätt är svåra. Eftersom det är nödvändigt är d
 
 Kan kvinnan resa och sedan återvända när hon blir ren, då är det ingen synd från hennes sida om hon reser och återvänder när hon har blivit ren. Sedan utför hon *tawāf[^1]* för vallfärden. Under denna tid [tills hon återvänder för *tawāf[^1]*] är hon förbjuden för sin man [de får inte ha intim samvaro], då hon inte har utfört den andra fasen i avlägsnandet av *ihrām[^3]*.
 
-## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: En hederstitel som givits till vissa lärde.

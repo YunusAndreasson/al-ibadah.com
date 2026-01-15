@@ -20,7 +20,6 @@ Detta bevisar att de är tillåtet att be den obligatoriska bönen bakom den som
 
 Och Allāh är Beviljaren av framgång.
 
-## Fotnoter
 
 [^1]: Isha
 [^2]: Den avslutande hälsningen i bönen.

@@ -30,7 +30,6 @@ Innebörden av ”bryts” är ogiltighet. Majoriteten säger att detta betyder 
 
 Och genom Allāh uppnås framgång.
 
-## Fotnoter
 
 [^1]: Ett objekt i form av exempelvis en pinne, stav eller vägg. Skall vara minst en fot hög. Agerar symbolisk skiljelinje mellan den bedjande och de som passerar framför.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

@@ -33,7 +33,6 @@ Därför är det klart att eftermiddagsbönen[^1] [för de som tillåter att den
 
 Genom Allāh uppnås framgång. Må frid och välsignelser vara över vår profet Muhammad, hans familj och följeslagare.
 
-## Fotnoter
 
 [^1]: Asr
 [^2]: Dhuhr

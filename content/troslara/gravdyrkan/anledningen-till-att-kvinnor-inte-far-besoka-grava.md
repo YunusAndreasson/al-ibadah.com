@@ -24,7 +24,6 @@ Anledningen har rapporterats från profeten – över honom vare Allāhs frid oc
 
 Så han klargjorde att det finns två anledningar till detta förbud mot att besöka gravar. Det beror på att de är en prövning för de levande, då en kvinna är svag och hennes närvaro framför män som hon inte är släkt med leder till lockelser och synder. På samma sätt skadar hon de avlidna då hon har lite tålamod och är svag i sitt hjärta. Hon kan inte hantera katastrofer och hon kan inte avhålla sig från klagande, gråtande och jämmer över den avlidnes goda egenskaper. Detta är förbjudet enligt den islamiska lagen.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

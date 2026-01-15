@@ -21,7 +21,6 @@ Det råder konsensus bland de lärde om att missade böner under månadsblödnin
 
 Om kvinnan blir ren under eftermiddagsbönen[^3] eller före soluppgången och det finns tillräckligt med tid innan solnedgången eller soluppgången för att be en bönecykel, ber hon i det första fallet eftermiddagsbönen[^3] och i det andra gryningsbönen[^4].
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Rakah.

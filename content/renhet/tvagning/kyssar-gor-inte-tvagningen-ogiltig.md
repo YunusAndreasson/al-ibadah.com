@@ -20,7 +20,6 @@ Detta betyder att när en man kysser sin fru, rör henne med handen eller kramar
 
 Och Allāh vet bäst.
 
-## Fotnoter
 
 [^1]: Wudû´
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

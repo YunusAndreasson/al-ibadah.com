@@ -18,7 +18,6 @@ Men att skjuta upp den till efter bönen är otillåtet. Den kommer då inte att
 
 Någon kan ha varit ovetande om *'eid*-dagen, som om denne var ute i öknen och inte fick veta förrän det var för sent, eller liknande. I detta fall har denne inte syndat genom att betala efter *'eid*-bönen. Det kommer att räknas som *zakātul-fitr[^1]*.
 
-## Fotnoter
 
 [^1]: Allmosa som ges före eid-bönen.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

@@ -18,7 +18,6 @@ description: 'Fråga: Vad kommer de som levde under perioden mellan Jesus och Mu
 
 När det gäller dem som inte har fått tillgång till bevisen, då är det en fråga för Allāh den Allsmäktige, den Majestätiske att bestämma i. Vi känner inte till deras slutstation. Detta beror på att vi inte känner till någon text i den islamiska lagen om detta fall. Men dem som genom autentiska bevis har bekräftats tillhöra i Elden, de är i Elden.
 
-## Fotnoter
 
 [^1]: De som kommer att prövas på Domedagen för att ta reda på om de tillhör Helvetet eller Paradiset.
 [^2]: Det naturliga tillstånd som människan föds i.

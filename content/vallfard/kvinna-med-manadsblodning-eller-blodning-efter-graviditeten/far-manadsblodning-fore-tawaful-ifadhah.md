@@ -16,7 +16,6 @@ description: 'Fråga: Behöver en kvinna som får sin månadsblödning eller bl�
 
 **Svar:** Har hon möjlighet att stanna kvar i Mecka, då måste hon stanna kvar i Mecka tills hon blir ren och avslutar sin vallfärd. Har hon inte möjlighet att göra det, då är det ingen fara om hon reser med sin *mahram[^2]* till Jiddah, at-Ta'if eller någon liknande plats, för att sedan när hon har blivit ren återvända med sin *mahram[^2]* och avsluta vallfärdsriterna.
 
-## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Släkting som det inte är tillåtet att gifta sig med.

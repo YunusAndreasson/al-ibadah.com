@@ -18,7 +18,6 @@ description: 'Fråga: Får en kvinna som har blödningar efter graviditeten be o
 
 Och Allāh är Den som ger framgång.
 
-## Fotnoter
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

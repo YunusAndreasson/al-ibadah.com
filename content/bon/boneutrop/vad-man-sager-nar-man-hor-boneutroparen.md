@@ -32,7 +32,6 @@ När det gäller vad som har återberättats från honom, om att han vid *iqāma
 
 Och genom Allāh uppnås framgång.
 
-## Fotnoter
 
 [^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 [^2]: Du´ā

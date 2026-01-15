@@ -23,7 +23,6 @@ Om kvinnan inte har en mahram[^1] behöver hon inte vallfärda. Detta innebär a
 
 Till frågeställaren säger jag att denna kvinna, eftersom hon inte har en mahram[^1], inte har syndat om hon dör utan att ha vallfärdat. Då hon enligt religionen inte har möjlighet skadar detta inte henne. Allāh den Upphöjde har sagt: ”*Vallfärden till denna Helgedom är en plikt mot Gud för var och en som har möjlighet att genomföra den*.” [Koranen 3:97]
 
-## Fotnoter
 
 [^1]: Släkting som det inte är tillåtet att gifta sig med.
 

@@ -19,7 +19,6 @@ description: 'Fråga: En man bad nattbönen som bes genom att be två bönecykle
 
 Om någon då börjar be *witr[^4]* med avsikten att be två bönecykler[^1] men sedan gör taslīm[^5], ber en tredje bönecykel[^1] men glömmer och reser sig upp för den tredje bönecykeln[^1] utan att göra *taslīm[^5]* – då säger vi till denne: Fullfölj den tredje bönecykeln[^1] då det är tillåtet i *witr[^4]* att göra mer än två bönecykler[^1].
 
-## Fotnoter
 
 [^1]: Rakah.
 [^2]: Vad man läser i den sittande positionen under bönen.

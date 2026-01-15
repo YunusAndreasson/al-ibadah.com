@@ -15,7 +15,6 @@ description: 'Fråga: Är det tillåtet att byta ihrām -kläderna för att tvä
 
 **Svar:** Det är inga problem med att tvätta ens *ihrām[^1]*-kläder eller att byta dem och använda en ny eller tvättad *ihrām[^1]*-klädsel.
 
-## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 

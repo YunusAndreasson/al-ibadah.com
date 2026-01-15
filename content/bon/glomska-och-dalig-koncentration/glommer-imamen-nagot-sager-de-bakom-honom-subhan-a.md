@@ -20,7 +20,6 @@ Detta är välkänt, vilket ”*al-Hamdu Lillāh*” inte är.
 
 /.../
 
-## Fotnoter
 
 [^1]: Asr
 [^2]: Vad man läser i den sittande positionen under bönen.

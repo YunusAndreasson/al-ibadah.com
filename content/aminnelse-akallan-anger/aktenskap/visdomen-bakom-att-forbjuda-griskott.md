@@ -38,7 +38,6 @@ De som studerar islam i denna tid, när övertygelsen är svag och det finns myc
 
 Och det är Allāhs hjälp vi söker.
 
-## Fotnoter
 
 [^1]: Släkting som det inte är tillåtet att gifta sig med.
 

@@ -27,7 +27,6 @@ Profeten har sagt:
 
 > ”Den som svär att lyda Allāh bör lyda Honom. Den som svär att inte lyda Allāh bör inte vara olydig mot Honom.” [*al-Bukhārī* 6700]
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

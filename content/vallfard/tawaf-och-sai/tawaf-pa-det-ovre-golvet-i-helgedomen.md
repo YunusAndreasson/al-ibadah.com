@@ -18,7 +18,6 @@ description: 'Fråga: Jag vallfärdade förra året [1400 A.H] och när jag dire
 
 Och framgång kommer från Allāh. Må Allāh sända välsignelser och frid över vår Profet Muhammad, hans familj och följeslagare.
 
-## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Rundvandringen runt Kabah före avfärden från Mecka.

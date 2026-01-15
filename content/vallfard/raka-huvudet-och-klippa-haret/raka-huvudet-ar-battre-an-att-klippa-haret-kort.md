@@ -18,7 +18,6 @@ description: 'Fråga: Vad är bäst är när man utfört riterna under vallfärd
 
 Att klippa delar av håret är inte tillräckligt och ej heller är det tillräckligt att raka delat av det. Detta enligt den mest korrekt åsikten bland de lärde. I stället är att det obligatoriskt att raka hela huvudet eller att klippa allt hår [jämnt]. Det är också bättre att börja på den högra sidan under rakningen av huvudet eller klippningen av håret.
 
-## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Du´ā

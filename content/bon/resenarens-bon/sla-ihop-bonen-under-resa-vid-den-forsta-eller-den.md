@@ -17,7 +17,6 @@ description: 'Fråga: Är det bäst, när man är ute och reser, att slå ihop b
 
 Båda dessa sätt finns föreskrivna i profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

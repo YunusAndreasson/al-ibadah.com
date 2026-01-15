@@ -41,7 +41,6 @@ Autentiska *hadīth[^1]* har rapporterats om nedstigandet, som när profeten –
 
 Detta nedstigande hör dock till det som är dolt för människor[^3]; vi accepterar det, men vi försöker inte förklara hur det går till. Vi drar endast nytta av frikostigheten under den sista delen av natten och förtjänsten i bönen, åkallan[^2] av Allāh och sökandet av förlåtelse.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Du´ā

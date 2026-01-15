@@ -18,7 +18,6 @@ description: 'Fråga: En person ber en obligatorisk bön ensam och medan han gö
 
 Och genom Allāh uppnås framgång.
 
-## Fotnoter
 
 [^1]: Att säga Allahu Akbar.
 

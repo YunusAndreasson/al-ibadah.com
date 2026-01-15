@@ -22,7 +22,6 @@ När man går in i *ihrām[^1]* är det *sunnah[^2]* att ta ett fullständigt ba
 
 Och Allāh vet bäst.
 
-## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

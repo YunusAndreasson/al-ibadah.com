@@ -16,7 +16,6 @@ description: 'Fråga: För ett år sedan begav jag mig på ‘umrah och jag kän
 
 **Svar:** Då du inte har känt till detta behöver du inte offra något. Okunskap är en acceptabel ursäkt för att ha gjort något som är förbjudet. Försoningsoffret är endast obligatoriskt för den som gör något avsiktligen och med vetskap. Du behöver inte upprepa din*‘umrah[^1]*, då du inte har gjort något som förstör den. Den andra ʿumrahn[^1] som du utförde anses vara en frivillig *‘umrah[^1]*.
 
-## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

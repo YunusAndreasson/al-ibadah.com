@@ -61,7 +61,6 @@ Tar man av dem så består renheten. Det är inte så att renheten upphävs geno
 
 Och Allāh är Beviljaren av framgång.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen

@@ -20,7 +20,6 @@ Om en muslims faktiska förhållande är okänt eller om det finns tvivel, då b
 
 Om en man anklagar frun för äktenskapsbrott bör han den femte gången han svär säga: ”*Wa anna la'natAllāhi ʿalaihi in kana minal-kathibīn* [Och Allāhs förbannelse över honom om han är en av dem som ljuger].” Den femte gången som hon svär säger hon: ”*Wa anna ghadhabAllāhi ʿalayha in kana minas-sadiwīn* [Och att Allāhs vrede är över henne om hon inte är en av de sanningsenliga]”.
 
-## Fotnoter
 
 [^1]: Du´ā
 

@@ -20,7 +20,6 @@ När det gäller att träda in i *ihrām[^1]* för vallfärden före dess månad
 
 Och Allāh vet bäst.
 
-## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Platsen där pilgrimmen träder in i ihraam.

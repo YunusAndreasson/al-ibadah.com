@@ -31,7 +31,6 @@ Detta bevisar att den som ber inte ber får avrättas. Han måste avrättas om h
 
 Vi ber Allāh att Han förbättrar vår situation och att Han gör oss stadiga i religionen. Han är Den som hör allt och som är evigt nära.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

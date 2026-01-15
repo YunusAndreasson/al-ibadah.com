@@ -18,7 +18,6 @@ description: 'Fråga: Vad gäller den som ber en icke-obligatorisk bön och som 
 
 Även profeten – över honom vare Allāhs frid och välsignelser – ledde ett antal följeslagare rädslebönen[^2], som består av två bönecykler[^3]. Han gjorde *taslīm[^4]* tillsammans med den första gruppen och bad sedan två bönecykler[^3] med en annan grupp och gjorde *taslīm[^4]* med dem. Hans andra bön var då en icke-obligatorisk bön.
 
-## Fotnoter
 
 [^1]: Isha
 [^2]: salatul-khawf

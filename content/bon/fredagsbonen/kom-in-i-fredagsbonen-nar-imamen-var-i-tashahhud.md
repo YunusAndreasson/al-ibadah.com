@@ -20,7 +20,6 @@ Genom dessa båda hadither blir det tydligt att den som inte hann med två böne
 
 Allāh är Beviljaren av framgång.
 
-## Fotnoter
 
 [^1]: Vad man läser i den sittande positionen under bönen.
 [^2]: Dhuhr

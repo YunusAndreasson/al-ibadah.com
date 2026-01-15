@@ -29,7 +29,6 @@ Denna andra vers är bevis för otron hos den som påstår sig ha kunskap om det
 
 > ”Säg: ’Jag säger inte till er att jag har Guds skatter [i min hand] och jag känner inte det som är dolt för människor[^1]. Inte heller säger jag till er: ’Se, jag är en ängel.’ Allt jag gör är att följa det som uppenbarats för mig.’” [Koranen 6:50]
 
-## Fotnoter
 
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 

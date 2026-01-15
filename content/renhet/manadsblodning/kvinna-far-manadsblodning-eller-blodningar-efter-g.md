@@ -19,7 +19,6 @@ description: 'Fråga: Om en kvinna får sin månadsblödning, eller har blödnin
 
 Om hon får sin månadsblödning efter *tawāf[^2]* och *sa’ī[^4]* men före *tawāf[^2] ul-wadā*, då behöver hon inte utföra *tawāf[^2] ul-wadā*. En kvinna med månadsblödning eller blödningar efter graviditeten behöver inte göra detta.
 
-## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den sju långa rundar vandringen runt Kabah.

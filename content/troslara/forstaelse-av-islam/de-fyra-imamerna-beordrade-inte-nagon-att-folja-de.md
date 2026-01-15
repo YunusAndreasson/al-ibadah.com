@@ -22,7 +22,6 @@ De flesta lärda anser dock att allmosa inte ska betalas för smycken. Det som h
 
 Men i autentiska *ahādīth[^1]* från profeten – över honom vare Allāhs frid och välsignelser – bekräftas att allmosan måste betalas för dem. Det finns även hot riktade mot dem som inte gör det. Dessa bevis har större vikt än *qiyas[^2]* och *ahādīth[^1]* från följeslagarna. Därför är detta åsikten som föredras bland dem som strävar efter sanningen.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: Slutsats baserad på analogi och jämförelse.

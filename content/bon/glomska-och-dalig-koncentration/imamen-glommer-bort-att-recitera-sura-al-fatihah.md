@@ -22,7 +22,6 @@ Nedfallandet för glömska räcker inte för att ta igen vad som har utelämnats
 
 Och Allāh är beviljaren av framgång.
 
-## Fotnoter
 
 [^1]: Maghrib
 [^2]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.

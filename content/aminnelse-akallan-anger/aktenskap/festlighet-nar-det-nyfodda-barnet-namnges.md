@@ -18,7 +18,6 @@ description: 'Fråga: Får de nära och kära, grannar och vänner samlas för a
 
 Detta är dock inte otro. Beträffande den som gör det av glädje eller för att dela maten från *ʿaqīqah* utan att tro att det är en *sunnah[^1]*, då finns det inget dåligt i det. Det har bekräftats från profeten – över honom vare Allāhs frid och välsignelser – att det är föreskrivet att slakta *ʿaqīqah*-djuret och namnge barnet på den sjunde dagen.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

@@ -18,7 +18,6 @@ description: 'Fråga: Vilket är utlåtandet om att tvätta händerna och ansikt
 
 Ja, om det bekräftas att det finns smuts på händerna, som inte kan avlägsnas med något annat än tvål, då finns det ingen invändan mot det. Men om det är en vana, då anses användandet av såpa vara överdrivet samt en innovation. Därmed ska det inte invändas.
 
-## Fotnoter
 
 [^1]: Wudû´
 

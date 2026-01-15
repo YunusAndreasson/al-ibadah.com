@@ -20,7 +20,6 @@ Bön som bes före angiven tid är enligt konsensus bland muslimer inte giltig. 
 1. gör denne det avsiktligen är bönen inte giltig och denne är inte fri från synd.
 2. om det gjordes oavsiktligt och denne gjorde det för att denne trodde att bönen hade börjat, då är det inte en synd och bönen räknas som frivillig, men den måste upprepas för ett av bönens villkor är att den ska bes vid rätt tid.
 
-## Fotnoter
 
 [^1]: Isha
 

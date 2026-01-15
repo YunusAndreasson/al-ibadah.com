@@ -20,7 +20,6 @@ Ja, man får resa sig upp och be när han har satt sig ned om man vill be hälsn
 
 Har man suttit ned under en längre tid, då bör man inte be hälsningsbönen till moskén[^3]. När tiden för en *sunnah[^4]* har passerat, då bryts kraven för den.
 
-## Fotnoter
 
 [^1]: Rakah.
 [^2]: Du´ā

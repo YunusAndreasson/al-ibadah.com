@@ -18,7 +18,6 @@ description: 'Fråga: Den sjunde i thul-hijjah begav jag mig till Huset och jag
 
 Och framgång kommer från Allāh. Må Allāh sända välsignelser och frid över Muhammad och hans familj.
 
-## Fotnoter
 
 [^1]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 [^2]: Den lilla vallfärden.

@@ -18,7 +18,6 @@ description: 'Fråga: Vilket är utlåtandet om den som bär bilder, som i plån
 
 Må frid och välsignelser vara över vår profet Muhammad, hans familj och följeslagare.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

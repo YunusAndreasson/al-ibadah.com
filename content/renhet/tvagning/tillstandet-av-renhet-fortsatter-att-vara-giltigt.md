@@ -18,7 +18,6 @@ description: 'Fråga: Om någon tvagar sig, det går en stund, tiden för bönen
 
 Därmed kan vi säga att om en tid har gått sedan hans tvagning[^1] och han tvivlar på om han fortfarande är rituellt ren, då bör han be. Det finns inget skadligt i det. Den grundläggande principen är ju att han behåller sin rituella renhet.
 
-## Fotnoter
 
 [^1]: Wudû´
 

@@ -44,7 +44,6 @@ Jag ber Allāh att Han hjälper oss och alla muslimer med att förstå Hans reli
 
 Må Allāh sända välsignelser och frid över Hans tjänare och sändebud, vår profet Muhammad, och hans familj och hans följeslagare.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

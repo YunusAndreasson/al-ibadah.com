@@ -22,7 +22,6 @@ Därför är en *ruqyah[^1]* något som man gör över sig själv och över ens 
 
 Och Allāh vet bäst.
 
-## Fotnoter
 
 [^1]: Något som reciteras för att bota sjukdomar.
 [^2]: Hoppfullhet till Allāh.

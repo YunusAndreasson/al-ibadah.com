@@ -93,7 +93,6 @@ Det är nödvändigt att skilja mellan ett utlåtande och den som sade det, och 
 > ”Om en domare utfärdar en dom och denne däri använder *ijtihād[^5]* och denne har rätt, då har denne två belöningar. Men om denne utfärdar en dom och utöver ijtihād[^5] däri och denne har fel, då har denne en belöning.” [*al-Bukhārī* 7352 och *Muslim* 1716]
 [...]
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: De tre första generationerna i islam.

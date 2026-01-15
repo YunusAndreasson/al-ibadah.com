@@ -24,7 +24,6 @@ Profeten – över honom vare Allāhs frid och välsignelser – har berättat a
 
 Detta betyder att Han den Upphöjde har besvarat denna åkallan[^8] från Hans tjänare om att inte ställa dem till svars för deras misstag eller deras glömska – och all lovprisan tillhör Allāh.
 
-## Fotnoter
 
 [^1]: Wudû´
 [^2]: Fajr

@@ -20,7 +20,6 @@ Vid *adhha*-slakten är det *sunnah[^1]* att nämna namnet för den som slakten 
 
 Och Allāh är Den som ger framgång.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

@@ -15,7 +15,6 @@ description: 'Fråga: Vilket är utlåtandet om att sända zakātul-fitr till et
 
 **Svar:** Det är inte fel att sända *zakātul-fitr[^1]* till ett annat land när det inte finns några fattiga i ens eget land. Men om det görs när det finns fattiga i ens eget land är det inte tillåtet.
 
-## Fotnoter
 
 [^1]: Allmosa som ges före eid-bönen.
 

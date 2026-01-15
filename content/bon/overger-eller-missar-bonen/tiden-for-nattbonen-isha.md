@@ -19,7 +19,6 @@ Nattbönen[^1] måste bes innan midnatt. Det är inte tillåtet att fördröja d
 
 Och Allāh vet bäst.
 
-## Fotnoter
 
 [^1]: Isha
 [^2]: Fajr

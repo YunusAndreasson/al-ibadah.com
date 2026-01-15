@@ -18,7 +18,6 @@ description: 'Fråga: Efter att ha avstått från att äta [när fastan börjar]
 
 Och Allāh vet bäst.
 
-## Fotnoter
 
 [^1]: Kan liknas vid en tandborste. Gjord av Arak-trädets rötter.
 

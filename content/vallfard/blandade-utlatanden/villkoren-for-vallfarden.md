@@ -28,7 +28,6 @@ Det finns ett sjätte villkor som vissa lärda har lagt till, vilket är att vä
 
 Det finns ytterligare ett villkor som enbart gäller kvinnor, vilket är att en av kvinnans *mahram[^1]* ska vara närvarande.
 
-## Fotnoter
 
 [^1]: Släkting som det inte är tillåtet att gifta sig med.
 

@@ -20,7 +20,6 @@ Det är då en betonad *sunnah[^3]* och det är inte passande att en muslim öve
 
 I vilket fall som helst är *witr[^1]* en betonad *sunnah[^3]* både under ramadan[^2] och under andra månader. Det är då inte passande att en muslim överger den.
 
-## Fotnoter
 
 [^1]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

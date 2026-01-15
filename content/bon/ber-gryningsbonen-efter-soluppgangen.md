@@ -17,7 +17,6 @@ description: 'Fråga: Jag har en vän som bor nära mig och moskén ligger verkl
 
 Det finns andra *ahādīth[^3]* från följeslagarna om detta. De bevisar att den som avsiktligen och utan någon giltig anledning skjuter upp bönen till efter dess utsedda tid är en icke-troende.
 
-## Fotnoter
 
 [^1]: Fajr
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

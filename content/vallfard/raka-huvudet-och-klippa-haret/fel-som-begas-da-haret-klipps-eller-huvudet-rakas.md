@@ -21,7 +21,6 @@ description: 'Fråga: Vilka är de misstag som begås när pilgrimer rakar huvud
 
 Med detta som grund: Avslutar en pilgrim sin *sā’i* och inte kan finna någon som klipper dennes hår, då bör denne stanna kvar i *ihrām[^2]* tills denne har rakat sitt huvud eller klippt sitt hår. Denne får inte träda ur *ihrām[^2]* innan det är gjort. Antar vi att någon gjorde det på grund av okunskap och trädde ur *ihrām[^2]* innan denne hade rakat huvudet eller klippt håret, i tron om att det var tillåtet att göra så, då vilar ingen skuld på denne med anledning av okunskapen. När denne får reda på vad som är korrekt, då tar denne av sina vanliga kläder och tar på plaggen för *ihrām[^2]*, då det inte är tillåtet för denne att fortsätta med att ha trätt ur *ihrām[^2]* när denne vet att det inte är tillåtet. När denne sedan har rakat huvudet eller klippt håret, då får denne träda ur *ihrām[^2]*.
 
-## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

@@ -15,7 +15,6 @@ description: 'Fråga: När kvinnor samlas för att be – bör de göra iqāmah 
 
 **Svar:** Om de gör *iqāmah[^1]* är det inga problem med detta. Om de inte gör så är det heller inga problem med det. Detta beror på att böneutropet och *iqāmah[^1]* endast är obligatorisk för män.
 
-## Fotnoter
 
 [^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 

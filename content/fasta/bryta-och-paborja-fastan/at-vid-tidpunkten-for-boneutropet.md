@@ -21,7 +21,6 @@ Det är känt att den som befinner sig inom stadsgränserna, där det finns gatu
 
 Och Allāh är Givaren av framgång.
 
-## Fotnoter
 
 [^1]: Fajr
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

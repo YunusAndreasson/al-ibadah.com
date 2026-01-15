@@ -18,7 +18,6 @@ description: 'Fråga: Min fru gick in i ihrām för ‘umrah och innan hon kom u
 
 Och Allāh vet bäst.
 
-## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.

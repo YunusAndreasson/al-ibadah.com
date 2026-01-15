@@ -25,7 +25,6 @@ Varken Allāhs skrift eller profetens – över honom vare Allāhs frid och väl
 
 När det gäller denna *hadīth[^1]*: ”*Den som ber för mig vid min grav hör jag, och den som ber för mig långt bort kommer jag att nå*” – den är svag enligt de lärde. Beträffande vad Abū Dawūd har återberättat, med en kedja av berättare som är *hasan*, från Abū Hurairah som säger att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*När någon sänder fridshälsningar över mig så återlämnar Allāh min själ så att jag kan återsända hälsningen till honom*” – så betyder det inte att han hör en muslims hälsning. I stället är det troligare att han svarar när änglarna förmedlar hälsningen till honom. Även om vi säger att han hör hälsningen så innebär det inte att han hör något annat.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Du´ā

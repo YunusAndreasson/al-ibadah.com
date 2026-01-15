@@ -25,7 +25,6 @@ Det är upp till den som kommer sent att nedfalla för glömska tillsammans med 
 
 Och Allāh är beviljaren av framgång.
 
-## Fotnoter
 
 [^1]: Rakah.
 [^2]: Den avslutande hälsningen i bönen.

@@ -23,7 +23,6 @@ Gör man detta i en annan ordning som att slakta djuret före stenarna kastas, r
 
 Och all lovprisan tillhör Allāh, då profeten – över honom vare Allāhs frid och välsignelser – tillfrågades om att göra vissa saker först och skjuta upp andra sade han: ”Inga *problem, inga problem*.” [*al-Bukhārī* 1721 och *Muslim* 1306]
 
-## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Vandringen mellan as-Safa och al-Marwa.

@@ -16,7 +16,6 @@ description: 'Fråga: Vad gäller den som går in i ihrām för vallfärden samt
 
 **Svar:** Ja, om denne går in i *ihrām[^1]* för vallfärden och *ʿumrah[^2]* som en *qarin* för att sedan utföra *tawāf[^4]* och *sa’ī[^5]*, klippa håret och endast göra en *ʿumrah[^2]*, då kallas denne för *mutamatti[^3]'* och denne måste göra ett offer för *hajjul-tamattu'*[^6].
 
-## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.

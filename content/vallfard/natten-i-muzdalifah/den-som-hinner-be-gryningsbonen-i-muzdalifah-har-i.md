@@ -20,7 +20,6 @@ description: 'Fråga: En karavan lämnade Arafat efter solnedgången och de råk
 
 De gjorde dock fel när de sköt upp bönen till efter midnatt. Tiden för nattbönen[^3] är ju fram till midnatt. Detta har bekräftats i *Sahīh Muslim* i en *hadīth[^6]* från ʿAbdullāh bin 'Amr bin al-'Ās.
 
-## Fotnoter
 
 [^1]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
 [^2]: Maghrib

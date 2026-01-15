@@ -26,7 +26,6 @@ Har han ingen aning om vilket av de båda antalen han har gjort, då bör han fo
 
 Uppstår tvivlet i nästa bönecykel, då anses denna bönecykel[^1] ta den förras plats.
 
-## Fotnoter
 
 [^1]: Rakah.
 [^2]: sujūd, nedfallandet när pannan läggs mot marken.

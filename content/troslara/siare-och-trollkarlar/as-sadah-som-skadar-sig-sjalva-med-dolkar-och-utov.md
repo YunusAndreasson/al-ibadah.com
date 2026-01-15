@@ -49,7 +49,6 @@ De måste även rådas att vända sig till Allāh den Härlige i ånger för all
 
 Vi ber Allāh att Han vägleder oss och dem.
 
-## Fotnoter
 
 [^1]: Mästare.
 [^2]: Du´ā

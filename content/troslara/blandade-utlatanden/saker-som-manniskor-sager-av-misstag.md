@@ -18,7 +18,6 @@ description: 'Fråga: Vi hör ibland vanligt folk säga saker som vi är oroliga
 
 När det gäller den andra meningen, är innebörden att Allāh inte kan låta det inträffa. Användandet av ordet ”säg”, är som uttrycket: *La Qadar Allāh* [må Allāh inte förordna det] och det är något man ska vara varse om. Det är bättre att åkalla Allāh om att en sådan sak inte ska inträffa.
 
-## Fotnoter
 
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

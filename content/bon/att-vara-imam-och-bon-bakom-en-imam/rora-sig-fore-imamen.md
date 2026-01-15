@@ -31,7 +31,6 @@ Följandes: Att man utför rörelserna i bönen efter imamen utan att skjuta upp
 
 I efterhand: Att man ligger efter imamen så mycket att man inte anses följa honom. Detta motsäger det som är föreskrivet.
 
-## Fotnoter
 
 [^1]: Att säga Allahu Akbar.
 

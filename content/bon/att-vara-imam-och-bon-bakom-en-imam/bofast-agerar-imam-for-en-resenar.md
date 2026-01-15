@@ -20,7 +20,6 @@ Detta är enligt en återberättelse från Ahmad i vilken Ibn ‘Abbās ställs 
 
 När han avslutar sin bön så får han slå ihop vad han är tillåten att slå ihop, oavsett om han ber ensam eller i församling med andra resenärer.
 
-## Fotnoter
 
 [^1]: Den avslutande hälsningen i bönen.
 [^2]: Rakah.

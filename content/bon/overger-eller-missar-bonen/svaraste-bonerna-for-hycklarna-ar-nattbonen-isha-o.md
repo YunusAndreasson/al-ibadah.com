@@ -25,7 +25,6 @@ Det är endast gryningsbönen[^1] som man står länge i. Därför måste man va
 
 När man vänjer sig vid att vakna övervinner man tröttheten. Det blir lättare och man börjar njuta av den. Hjärtat koncentrerar sig och hör vad som sägs i den.
 
-## Fotnoter
 
 [^1]: Fajr
 [^2]: Isha

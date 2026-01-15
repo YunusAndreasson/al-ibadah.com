@@ -16,7 +16,6 @@ description: 'Fråga: I Skandinavien och norrut så får muslimerna där problem
 
 **Svar:** Problemet i dessa länder gäller inte enbart fastan utan även bönen. Men om landet har både dag och natt är det en skyldighet att handla enligt påbudet oavsett om dagen är mycket lång eller mycket kort. Men om det inte finns dag och natt i landet, som vid områdena runt polerna där dagen varar under 6 månader och likaså natten under 6 månader, då får man där uppskatta tiden för deras bön och fasta. Men vad baserar de uppskattningen på? Vissa lärde har sagt att de uppskattar efter tiderna i Mecka då Mecka är alla städers moder. Därmed pekar alla städer mot den då modern är vad som följs, som exempelvis imamen [...] Andra har sagt att de bör följa en medelväg. Därmed skulle de anse att natten är tolv timmar och att dagen är tolv timmar. Detta är ett balanserat synsätt när det gäller dagen och natten. Vissa lärde har sagt att de bör se på landet närmst dem som har vanlig natt och dag. Detta är den åsikt som är mest korrekt därför att det land som ligger närmst har störst rätt att följas och det ligger dem närmst geografiskt. Med detta som underlag bör de därför titta på vad som är dag och natt i landet närmst och de bör begränsa sig till att följa det både när det gäller fasta och bön.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

@@ -31,7 +31,6 @@ När det gäller intim samvaro och ett lustfyllt vidrörande, då krävs ett off
 
 Och Allāh vet bäst.
 
-## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Du´ā

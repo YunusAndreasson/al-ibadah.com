@@ -20,7 +20,6 @@ Några av de lärde anser att det inte är tillåtet att skjuta upp den till eft
 
 Kvinnor med månadsblödning eller blödningar efter graviditeten är ursäktade. Då de inte kan påverka denna fråga har de ingen skuld. När de blir rena bör de utföra *tawāf[^1]* oavsett om det är *dhul-hijjah[^4]* eller *muharram[^2]*.
 
-## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Den första månaden på det islamiska året. Under denna månaden kan man fasta den 9:e och 10:e dagen eller den 10:e och 11:e.

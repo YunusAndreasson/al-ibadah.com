@@ -18,7 +18,6 @@ description: 'Fråga: Är det tillåtet att slå ihop kvällsbönen och nattbön
 
 Beträffande en handelsman som vill slå ihop de båda bönerna för att hålla affären öppen, då är det inte tillåtet. I stället måste den stängas under bönen.
 
-## Fotnoter
 
 [^1]: Maghrib
 [^2]: Isha

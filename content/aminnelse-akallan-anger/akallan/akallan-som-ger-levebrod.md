@@ -21,7 +21,6 @@ Av denna anledning bör du åkalla och be Allāh den Allsmäktige att Han förse
 
 Han den Allsmäktige säger även: ”*När Mina tjänare frågar dig om Mig [svara då att] Jag är nära*.” [2:186]
 
-## Fotnoter
 
 [^1]: Du´ā
 

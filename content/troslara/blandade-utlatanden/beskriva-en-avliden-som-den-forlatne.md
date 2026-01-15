@@ -18,7 +18,6 @@ description: 'Fråga: Är det tillåtet att beskriva någon som ”den förlåtn
 
 Jag ber Allāh – den Mest Prisade – att Han vägleder oss alla till den Raka Vägen. Må frid och välsignelser vara över vår profet Muhammad, över hela hans familj och hans följeslagare.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Du´ā

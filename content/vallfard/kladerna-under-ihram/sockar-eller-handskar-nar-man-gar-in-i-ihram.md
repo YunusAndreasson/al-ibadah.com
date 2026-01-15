@@ -26,7 +26,6 @@ Kvinnan måste täcka sitt ansikte med en sjal eller något liknande [i stället
 
 Abū Dawūd och Ibn Mājah har återgivit detta. ad-Daraqutni har återtgivit en liknande *hadīth[^2]* från Umm Salamah.
 
-## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

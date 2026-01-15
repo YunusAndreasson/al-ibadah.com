@@ -20,7 +20,6 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*B
 
 Det är dock tillåtet att en man leder bönen och att en annan håller predikan. Görs det utan anledning så går det emot profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*. Enligt den starkaste åsikten bland de lärde är bönen dock giltig.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

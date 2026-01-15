@@ -18,7 +18,6 @@ description: 'Fråga: Är det tillåtet att be bakom en imam som rakar skägget?
 
 Och Allāh vet bäst.
 
-## Fotnoter
 
 [^1]: Dhuhr
 

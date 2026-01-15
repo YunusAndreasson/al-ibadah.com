@@ -55,7 +55,6 @@ Det viktiga är att alla hjärtan är i harmoni och att man talar med en röst. 
 
 Därför måste vi utmärka oss med detta, den räddade gruppens karraktärsdrag, som är att man talar med en röst.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Tron på att det bara finns en Gud.

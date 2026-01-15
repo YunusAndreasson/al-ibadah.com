@@ -22,7 +22,6 @@ Vissa lärde säger att på grund av deras svaghet så kan de inte användas. De
 2. Avtäcks och tvättas det så skadar det men en strykning gör det inte. Här måste man stryka över, inte tvätta.
 3. Det täcks med ett fastsatt plåster eller något liknande som såret kräver. Denna form av täckande bör man stryka över och här behöver kroppsdelen inte tvättas. Det finns heller inget behov av att göra *tayammum[^2]*.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: En rituell rening som görs med hjälp av jord/sand då det inte finns vatten tillgängligt.

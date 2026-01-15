@@ -16,7 +16,6 @@ description: 'Fråga: En man vallfärdade och ‘umrah tillsammans och han utfö
 
 **Svar:** Om det förhåller sig som du har beskrivit, då måste han slakta ett djur för *hajjul-qirān[^2]* i Mecka. Han kan äta från det och han får utse en pålitlig person till att slakta det åt honom i Mecka. Det som han slaktade med avsikt för att vara *adhha*-offer, det är inte tillräckligt.
 
-## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Utför vallfärden och ´umrah samtidigt med en intention.

@@ -16,7 +16,6 @@ description: 'Fråga: Mitt lilla barn fastar hela tiden under ramadan trots att 
 
 **Svar:** Om han är barn och inte har kommit in i puberteten är han inte skyldig att fasta. Men om han kan fasta utan svårighet bör han ombes att göra det. Följeslagarna brukade se till att deras barn fastade. De gjorde det till den grad att om deras barn började gråta så gav de barnen leksaker för att avleda uppmärksamhet [bort från att tänka på maten]. Men om detta skadar barnet får det inte fasta. Om Allāh den Upphöjde har hindrat oss från att ge barnen deras tillgångar på grund av rädsla för att de ska göra sig av med dem, då är det sannerligen ännu viktigare att hindra dem från att skada deras kroppar. Man bör inte hindra dem på ett sätt som är strängt. Sannerligen bör man inte vara sträng mot barnen när man uppfostrar dem.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

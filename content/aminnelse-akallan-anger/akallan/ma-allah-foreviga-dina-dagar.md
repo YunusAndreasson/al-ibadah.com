@@ -17,7 +17,6 @@ description: 'Fråga: Vilket är utlåtandet om att säga: ”Må Allāh förevi
 
 **Svar:** Säger man så här är det att gå för långt i åkallan[^1]. Ett förevigande av dagarna [livet] är ju omöjligt och det tillbakavisas genom Allāhs den Upphöjdes ord: ”*Allt på jorden ska förgå; men din Herre förblir i evighet i Sitt majestät och Sin härlighet.*” [Koranen 55:26–27] ”*Vi har inte skänkt evigt liv åt någon människa före dig [Muhammad]; om du måste dö, skulle de då få leva för evigt?*” [Koranen 21:34]
 
-## Fotnoter
 
 [^1]: Du´ā
 

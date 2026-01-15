@@ -23,7 +23,6 @@ Att inte be är en handling som kommer från att inte tro och detta är ett fakt
 
 Allāh den Allsmäktige vet bäst.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

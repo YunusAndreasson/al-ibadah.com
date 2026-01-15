@@ -19,7 +19,6 @@ När det gäller arbetstagaren som ber frivilliga böner efter bönen, utöver d
 
 Och Allāh är källan till styrka.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

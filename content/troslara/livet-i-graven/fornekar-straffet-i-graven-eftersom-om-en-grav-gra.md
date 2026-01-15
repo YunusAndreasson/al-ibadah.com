@@ -23,7 +23,6 @@ description: 'Fråga: Hur svarar vi någon som förnekar straffet i graven och s
 
 I frågor som dessa säga måste man säga: Vi hör, lyder och tror.
 
-## Fotnoter
 
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 

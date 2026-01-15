@@ -20,7 +20,6 @@ Ett antal lärde inom *fiqh[^3]* har undantagit den Heliga Moskén i Mecka. Där
 
 Även om kedjan av återberättare är svag i denna *hadīth[^2]* stödjer den vad som finns återberättat i övrigt och i det generella beviset för att göra saker och ting lättare under svårigheter. Hindrar man någon att passera framför en tjänare i den Heliga Moskén, då skulle det orsaka svårigheter i de flesta fall.
 
-## Fotnoter
 
 [^1]: Ett objekt i form av exempelvis en pinne, stav eller vägg. Skall vara minst en fot hög. Agerar symbolisk skiljelinje mellan den bedjande och de som passerar framför.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

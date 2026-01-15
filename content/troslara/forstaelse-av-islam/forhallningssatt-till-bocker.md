@@ -54,7 +54,6 @@ Försök att försäkra dig om att din bokhylla är fri ifrån böcker med dåli
 
 Generellt sett bör inga skadliga böcker tillåtas då dessa böcker ger själen näring, precis som mat och dryck ger näring till kroppen. Om du när den med böcker som dessa kommer det att skada dig mycket och du kommer att följa en metodologi som går stick i stäv med en sund metodologi för en kunskapssökande.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Rättslära.

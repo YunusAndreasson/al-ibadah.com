@@ -18,7 +18,6 @@ description: 'Fråga: Om jag avsåg att utföra ‘umrah eller vallfärden, gick
 
 Och Allāh är Den som ger framgång.
 
-## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

@@ -16,7 +16,6 @@ description: 'Fråga: En person avsåg att be tre bönecykler som witr men under
 
 **Svar:** Det är *sunnah[^3]* att be *witr[^2]* som tre bönecykler[^1] med två *taslīm[^4]*. Vill man be mer än tre, då är det fördelaktigt att be elva. Ber man elva gör man *taslīm[^4]* efter varannan bönecykel. Avsåg man att be tre bönecykler[^1], men efter öppnings-*takbīr[^5]* ville be mer, då är det tillåtet. Detta gäller även om man befinner sig i den tredje bönecykeln[^1] och man har bestämt sig för att be en fjärde och sedan be *witr[^2]* efter den. Detta är inga problem, om Allāh vill.
 
-## Fotnoter
 
 [^1]: Rakah.
 [^2]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.

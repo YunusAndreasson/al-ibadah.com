@@ -23,7 +23,6 @@ När en av Hans tjänare gör vad som är föreskrivet för att uppnå sitt mål
 
 Allāhs sändebud har sagt: ”En tjänare är avskuren från levebröd för en synd han begått. Inget avvärjer det förutbestämda utom åkallan[^1] och ingenting ökar livslängden för någon utom vänliga och välgörande handlingar.” [*Ahmad* 5:277, 280, 282; *at-Tirmithi* 2139 och *Ibn Majah* 90]
 
-## Fotnoter
 
 [^1]: Du´ā
 

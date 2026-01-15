@@ -23,7 +23,6 @@ Bland de lärde finns även dem som säger att det inte är obligatoriskt att b�
 
 Det råder inga tvivel om att detta är en stark åsikt och detta stöds genom undersökningar och analogi.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Den tionde månaden i det islamiska året. Under denna månad är det rekommenderat att fasta sex dagar frivillig fasta.

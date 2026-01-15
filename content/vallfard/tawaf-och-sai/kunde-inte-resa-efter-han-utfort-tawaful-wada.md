@@ -20,7 +20,6 @@ description: 'Fråga: En man vallfärdade och han gjorde tawāful-wadā under na
 
 Så länge han utfört *tawāf[^1]* med avsikten att ge sig av under natten och han inte hade möjlighet att ge sig av förrän under morgonen, då krävs inget av honom om Allāh vill. Hade han upprepat *tawāf[^1]* innan han gav sig, då hade det varit säkrare.
 
-## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

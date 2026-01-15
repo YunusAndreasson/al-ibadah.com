@@ -23,7 +23,6 @@ Det är således inte tillåtet att spendera allmosan på att bygga moskér, lä
 
 Den *faqir* som får ta emot allmosa är enbart den som under ett år inte har tillräckligt för sig själv och sin familj, enligt tid och plats. Det kan vara så att 1000 riyal[^1] vid en tid och plats anses vara välbärgat men under en annan tid och plats anses det inte vara välbärgat på grund av levnadsomkostnader och liknande.
 
-## Fotnoter
 
 [^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 ramadan 1428).
 

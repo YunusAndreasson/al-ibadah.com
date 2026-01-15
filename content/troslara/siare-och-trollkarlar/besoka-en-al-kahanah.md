@@ -28,7 +28,6 @@ Dessa är då de tre möjligheterna den som besöker en siare:
 2. Att denne frågar och tror på siaren. Detta innebär att denne inte tror på Allāh den Allsmäktige och den som gör så måste ångra sig och återvända till Allāh den Allsmäktige. Gör denne inte så, då dör denne som en icke-troende.
 3. Att denne går till siaren för att ställa frågor för att pröva honom och avslöja honom inför folket. Mot detta finns det ingen invändan.
 
-## Fotnoter
 
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

@@ -16,7 +16,6 @@ description: 'Fråga: När börjar tiden för witr? Svar: Tiden för witr är me
 
 **Svar:** Tiden för *witr[^1]* är mellan nattbönen[^2] och gryningsbönen[^3]. För dem som har möjlighet att gå upp och be är den bästa tiden den senare delen av natten. De som är rädda för att de kommer att missa bönen på grund av sömn bör be den innan de går och lägger sig.
 
-## Fotnoter
 
 [^1]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 [^2]: Isha

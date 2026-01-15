@@ -50,7 +50,6 @@ Du bör inte be de obligatoriska bönerna hemma. I stället bör du be med dina 
 
 Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muhammad samt göra honom, hans hushåll och följeslagare säkra från ont.
 
-## Fotnoter
 
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

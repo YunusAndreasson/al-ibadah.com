@@ -18,7 +18,6 @@ description: 'Fråga: Då jag var barn vallfärdade jag med min familj. Under de
 
 Denna vallfärd räknas och han kan vallfärda för sin mor eller någon annan. Detta accepteras då från honom. Han kan – om Allāh vill – efteråt göra om vallfärden själv, för sina föräldrar eller för vem han än vill.
 
-## Fotnoter
 
 [^1]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

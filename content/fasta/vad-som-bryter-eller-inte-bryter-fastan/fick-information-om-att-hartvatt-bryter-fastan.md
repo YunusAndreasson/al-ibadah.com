@@ -17,7 +17,6 @@ description: 'Fråga: En imam i en moské sade till mig att en hårtvätt under 
 
 Och framgången finns med Allāh. Må frid och välsignelser vara över Muhammad, hans familj och hans följeslagare.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

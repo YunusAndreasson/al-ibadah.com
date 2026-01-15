@@ -19,7 +19,6 @@ description: 'Fråga: Om en kvinnas normala månadsblödning brukar vara mellan 
 
 Så länge blodet rinner, fortsätter kvinnan att befinna sig i månadsblödningen, tills det slutar rinna och hon gör *ghusl[^1]* och börjar be. Om perioden varar under en kortare period nästkommande månad, gör hon *ghusl[^1]* och börjar be när det slutat rinna, även om perioden inte vara lika lång som förra månaden [...]
 
-## Fotnoter
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 

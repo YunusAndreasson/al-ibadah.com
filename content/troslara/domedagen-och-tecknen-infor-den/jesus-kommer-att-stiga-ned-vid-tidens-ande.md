@@ -49,7 +49,6 @@ Dessa *ahādīth[^1]* visar att han kommer att stiga ned vid tidens ände och at
 
 Det finns ingen motsägelse mellan hans nedstigande och att vår profet Muhammad är den siste profeten. Jesus kommer ju inte att ha med sig någon ny lag och domen tillhör Allāh, från början till slut. Allāh gör vad Han vill och Han dömer som Han vill och det går inte att överklaga Hans dom. Han är den Allsmäktige, den Vise.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

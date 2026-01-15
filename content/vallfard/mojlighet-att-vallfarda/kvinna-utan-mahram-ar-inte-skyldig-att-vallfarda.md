@@ -29,7 +29,6 @@ Må Allāh sända frid och välsignelser över vår profet Muhammad, hans familj
 
 Mer om islams kvinnosyn kan du läsa på islam.se.
 
-## Fotnoter
 
 [^1]: Släkting som det inte är tillåtet att gifta sig med.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen

@@ -18,7 +18,6 @@ description: 'Fråga: Får en kvinna göra iqāmah för bönen? Får hon be utan
 
 Därmed är det föreskrivet att kvinnan utelämnar böneutropet och *iqāmah[^1]*.
 
-## Fotnoter
 
 [^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 

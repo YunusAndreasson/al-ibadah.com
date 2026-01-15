@@ -22,7 +22,6 @@ Det finns också en *hadīth[^2]* från Umm Salmah i vilken hon berättar att pr
 
 Men om man avsiktligen övergav dem tills tiden gick ut, då bör man inte ta igen dem därför att *sunnah[^1]*-bönerna är dyrkan som utförs vid angivna tider. Om man avsiktligen utför dem utanför den föreskrivna tiden, då kommer de inte att accepteras.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

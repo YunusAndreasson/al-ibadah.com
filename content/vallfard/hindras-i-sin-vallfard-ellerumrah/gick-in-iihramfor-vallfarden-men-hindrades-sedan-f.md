@@ -26,7 +26,6 @@ Allāh har inte nämnt något mer än detta.
 
 Och Allāh vet bäst.
 
-## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Platsen där pilgrimmen träder in i ihraam.

@@ -24,7 +24,6 @@ description: 'Fråga: Hur bör vi besvara de gravdyrkare som för att bevisa att
 
 Till följd av det är detta förvirrade argument som gravdyrkare använder inte giltigt.
 
-## Fotnoter
 
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 

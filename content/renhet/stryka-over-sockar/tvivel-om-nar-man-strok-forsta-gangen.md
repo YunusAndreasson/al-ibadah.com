@@ -16,7 +16,6 @@ description: 'Fråga: Vad gör man om man har tvivel om när man strök [över s
 
 **Svar:** I denna situation bör man utgå från vad man känner sig säker på. Känner man tvivel om huruvida man strök inför middagsbönen[^1] eller eftermiddagsbönen[^2] bör han anse att perioden börjar vid eftermiddagsbönen[^2]. Den grundläggande principen är att man inte har strukit och bevisen för detta utlåtande är den grundläggande regeln om att något fortsätter att vara i sitt naturliga tillstånd. Den grundläggande principen är att man inte har strukit. En man klagade inför profeten – över honom vare Allāhs frid och välsignelser – om att han föreställde sig att han förlorat sin renhet under bönen. Han sade då: ”*Han bör inte lämna [bönen] förrän han hör ett ljud eller känner en lukt*.” [*al-Bukhārī* 137]
 
-## Fotnoter
 
 [^1]: Dhuhr
 [^2]: Asr

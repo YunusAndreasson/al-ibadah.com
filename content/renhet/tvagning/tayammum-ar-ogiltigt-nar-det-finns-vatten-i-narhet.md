@@ -16,7 +16,6 @@ description: 'Fråga: En dag hade jag en våt dröm och det var en mycket kall d
 
 **Svar:** Du måste göra om de två bönerna som du bad utan *ghusl[^2]* då du hade den stora rituella orenheten. Anledningen är att du var i en stad där det fanns möjlighet att få tag på vatten. Om du vaknade och var rädd för kylan, då är det tillåtet med *tayammum[^1]*. Men om det fanns något sätt för att värma upp vattnet på, då är det obligatoriskt att göra *ghusl[^2]*. Om du var på resande fot och inte hade möjlighet att värma vattnet, då är det tillåtet att göra *tayammum[^1]*. Det är inte syndigt då. Men hade du hittat vatten, då hade du behövt göra *ghusl[^2]*.
 
-## Fotnoter
 
 [^1]: En rituell rening som görs med hjälp av jord/sand då det inte finns vatten tillgängligt.
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.

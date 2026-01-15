@@ -21,7 +21,6 @@ description: 'Fråga: Det finns en person som har prövats genom alkohol. Detta 
 
 När det gäller fastan för den som dricker under kvällen så är fastan korrekt och accepterad så länge denne avstår från att äta, att dricka och annat som bryter fastan från gryningen till solnedgången med avsikten att fastan är för Allāh.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

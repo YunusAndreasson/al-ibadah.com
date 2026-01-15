@@ -26,7 +26,6 @@ Detta är ett bevis för att den som inte har utfört *‘umrah[^1]* under sin v
 
 Gällande den som har utfört *‘umrah[^1]* och vallfärden tidigare och sedan återvänder till Mecka och Allāh gör det möjligt för denne att vallfärda, då är han inte skyldig att utföra *‘umrah[^1]*. Han har då genom sin tidigare *‘umrah[^1]* uppfyllt denna plikt då *‘umrah[^1]* endast är obligatorisk vid ett tillfälle i livet. Detsamma gäller vallfärden. Därmed är vallfärden [obligatorisk] en gång i livet och så även *‘umrah[^1]*.
 
-## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen

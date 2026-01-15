@@ -16,7 +16,6 @@ description: 'Fråga: Det finns tabletter som hindrar [skjuter upp] en kvinnas m
 
 **Svar:** Under vallfärden får kvinnan använda tabletter för att skjuta upp månadsblödningen om hon är rädd för att den ska inträffa då. Men detta bör endast göras när experter inom medicin har rådfrågats om säkerheten. På samma sätt kan de användas under ramadan[^1] om hon vill fasta tillsammans med de andra.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

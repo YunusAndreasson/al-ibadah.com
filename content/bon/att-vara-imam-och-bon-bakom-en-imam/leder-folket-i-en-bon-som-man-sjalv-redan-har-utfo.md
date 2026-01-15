@@ -20,7 +20,6 @@ Abū Dawūd har i sin *Sunan* återgivit att profeten – över honom vare Allā
 
 Och Allāh vet bäst.
 
-## Fotnoter
 
 [^1]: salatul-khawf
 [^2]: Rakah.

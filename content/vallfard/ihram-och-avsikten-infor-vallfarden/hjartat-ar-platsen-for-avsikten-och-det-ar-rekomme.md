@@ -27,7 +27,6 @@ Sedan fortsätter han med *talbiyyah[^4]*, precis som andra pilgrimer och de som
 
 Avsikten är här att man säger *talbiyyah[^4]*, precis som man säger *talbiyyah[^4]* för sig själv, utan att nämna någon, utom i början då han nämner vilken sorts vallfärd det är. När man gör det säger man: ”Jag är här till din tjänst för att vallfärda för den-eller-den”, eller säger man: ”*‘Umrah* för den-eller-den”, eller säger man: ”Jag är här till Din tjänst för att utföra *‘umrah[^2]* och vallfärden för den-eller-den.” Detta är bättre i början, när han först går in i *ihrām[^1]* med intentionen.
 
-## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.

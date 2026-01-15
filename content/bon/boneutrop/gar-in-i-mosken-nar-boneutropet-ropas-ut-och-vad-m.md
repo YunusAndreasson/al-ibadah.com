@@ -15,7 +15,6 @@ description: 'Fråga: Om en person går in i moskén samtidigt som böneutropare
 
 **Svar:** Det bästa är att svara efter böneutroparen och sedan läsa en åkallan[^1] när böneutropet har ropats ut. Han bör sedan be två bönecykler[^2] [hälsningsbönen till moskén[^3]]. Några av de lärda har undantagit de som går in i moskén samtidigt som böneutroparen gör det andra böneutropet under fredagspredikan. Den som kommer in i moskén bör då be två bönecykler[^2] [hälsningsbönen till moskén[^3]] för att sedan lyssna på predikan. Anledningen till att de anser detta är att det är obligatoriskt att lyssna på predikan medan det däremot inte är obligatoriskt att svara efter böneutroparen. Och det är mer fördelaktigt att uppfylla det som är obligatoriskt, än det som inte är det.
 
-## Fotnoter
 
 [^1]: Du´ā
 [^2]: Rakah.

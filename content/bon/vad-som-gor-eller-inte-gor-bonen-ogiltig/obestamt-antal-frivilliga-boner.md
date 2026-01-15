@@ -20,7 +20,6 @@ Det är därför föreskrivet att be två följt av två under natten och dagen.
 
 Undantaget är att det är tillåtet att be tre bönecykler[^1] som *witr[^2]* med en *tashahhud[^3]* tillsammans. /.../
 
-## Fotnoter
 
 [^1]: Rakah.
 [^2]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.

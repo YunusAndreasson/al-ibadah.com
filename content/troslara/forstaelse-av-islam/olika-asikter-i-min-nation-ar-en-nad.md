@@ -16,7 +16,6 @@ description: 'Fråga: Är denna hadīth autentisk: ”Olika åsikter i min natio
 
 **Svar:** Nej, den är inte autentisk. Den har avvisats av vissa *salaf[^2]* och faktum är att det inte ens är en *hadīth[^1]*.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: De tre första generationerna i islam.

@@ -20,7 +20,6 @@ Under profetens – över honom vare Allāhs frid och välsignelser – sista va
 
 Må frid och välsignelser vara över vår profet Muhammad.
 
-## Fotnoter
 
 [^1]: Rakah.
 [^2]: Dhuhr

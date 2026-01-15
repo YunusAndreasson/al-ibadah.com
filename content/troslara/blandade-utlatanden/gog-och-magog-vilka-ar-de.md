@@ -27,7 +27,6 @@ Deras uttåg, som är ett av tecknen på att Timmen närmar sig, fanns det tecke
 
 > ”Allāhs sändebud gav sig med ett alarmerande uttryck och ett rött ansikte ut en dag. Han sade då: 'Bedrövelser för araberna, från det stora onda som nära närma sig dem. I dag har ett hål gjorts i väggen hos Gog och Magogs likt detta.' Han visade genom att forma en cirkel med sin tumme och pekfinger.” [*al-Bukhārī* 7095 och *Muslim* 2880]
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

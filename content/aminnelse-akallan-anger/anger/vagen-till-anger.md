@@ -56,7 +56,6 @@ Han har även sagt:
 
 > ”Exemplet med en rättskaffens följeslagare är likt det med en parfymförsäljare: Antingen ger han parfym till dig som en gåva, du köper parfym från honom eller finner du en väldoft strömma från honom. Exemplet med en ond följeslagare är likt den med en smed: Antingen bränner han dina kläder eller finner du en vedervärdig odör komma från honom.” [*al-Bukhārī* 5534 och *Muslim* 2628]
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

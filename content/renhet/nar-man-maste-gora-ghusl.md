@@ -23,7 +23,6 @@ description: 'Fråga: När måste man göra ghusl? Svar: Det som leder till att
 
 Vissa lärde har även sagt att döden är något som fordrar *ghusl[^1]*. Som bevis för detta citerar de profetens – över honom vare Allāhs frid och välsignelser – ord till en kvinna som tvättade hans dotter: ”*Tvätta henne tre gånger, eller fem gånger, eller sju gånger eller fler gånger än det om du anser att det är nödvändigt*.” [*al-Bukhārī* 1253 och *Muslim* 939] Profeten – över honom vare Allāhs frid och välsignelser – sade även till en man vars riddjur föll över honom vid Arafat[^3] när han befann sig i ihrām[^4]: ”*Tvätta honom med vatten och sidr[^5] och svep honom i hans plagg*.” [*al-Bukhārī* 1267 och *Muslim* 1206] De säger då att *ghusl[^1]* måste utföras för den avlidne. Men skyldigheten här avser de levande därför att den avlidne hålls inte längre ansvarig på grund av dennes bortgång. Därför är det enligt profetens – över honom vare Allāhs frid och välsignelser – kommendering till att göra så en skyldighet för de levande att tvätta deras avlidna.
 
-## Fotnoter
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

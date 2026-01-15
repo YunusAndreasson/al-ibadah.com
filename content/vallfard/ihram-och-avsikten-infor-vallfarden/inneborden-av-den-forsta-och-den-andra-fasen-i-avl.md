@@ -20,7 +20,6 @@ description: 'Fråga: Vilken är innebörden av termen ”det första och det an
 
 Det finns även en anledning i andra *ahādīth[^3]* som har återberättats om detta. Och det beror även på att profeten – över honom vare Allāhs frid och välsignelser – kastade stenarna under *‘eid*-dagen, slaktade sitt djur och rakade sitt huvud. ‘A’ishah – må Allāh vara nöjd med henne – gav honom sedan parfym. Den uppenbara innebörden av denna text är att han inte parfymerade sig förrän han hade kastat stenar på pelarna, slaktat djuret och rakat huvudet. Därför är det bättre och säkrare man inte träder ur *ihrām[^1]* för det första avlägsnandet av *ihrām[^1]* förrän efter man har kastat stenarna på pelarna och rakat sitt huvud [eller klippt sitt hår]. Det är bättre och det förenar en förståelse mellan *ahādīth[^3]*.
 
-## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den sju långa rundar vandringen runt Kabah.

@@ -16,7 +16,6 @@ description: 'Fråga: Vad gör man om man påbörjade tawāf runt Ka’bah och h
 
 **Svar:** Om bönen börjar medan han utför *tawāf[^1]*, då ber han. När han sedan avslutat bönen, då fullföljer han det som återstår av hans *tawāf[^1]*. Han räknar dock inte det sista varvet som han gjorde innan bönen började, om det varvet inte var komplett. Ett avklarat varv är det som gjorts från Svarta Stenen. Om det inte är fullständig, då måste han börja om igen från Svarta Stenen. På detta sätt är han på den säkra sidan, då det finns olika synpunkter.
 
-## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 

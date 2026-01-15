@@ -24,7 +24,6 @@ Men vi bör känna till att det goda i allmosa och välgörenhet under ramadan[^
 
 I de flesta fall är de fattiga i större behov vid andra tidpunkter än i ramadan[^1]. Detta beror på att under ramadan[^1] finns det gott om välgörenhet och allmosa. Vi finner då att de fattiga under denna tid har tillräckligt och klarar sig med vad de har fått. Men under årets andra dagar är de i desperat behov. Därför bör man tänka på detta och inte göra det goda i tidpunkten till en större prioritet än något annat gott.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Den första månaden på det islamiska året. Under denna månaden kan man fasta den 9:e och 10:e dagen eller den 10:e och 11:e.

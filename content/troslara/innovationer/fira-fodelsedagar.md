@@ -16,7 +16,6 @@ description: 'Fråga: I vår stad i Egypten är det sed att hålla en fest när 
 
 **Svar:** Denna sed är en vedervärdig innovation som Allāh inte har godkänt. I *ahādīth[^1]* rapporteras att folket i Medina brukade fira två högtider under den förislamiska tiden, sedan ersatte Allāh dessa med två tillåtna högtider. Inget har nämnts i Allāhs lag om födelsedagar och ingen av följeslagarna eller någon i de tidigare rättfärdiga generationerna brukade göra så. Detta beror på att det enligt den islamiska lagen inte är tillåtet att fira eller närvara vid dessa högtider. Det är heller inte tillåtet att uppmuntra sin familj till detta firande eller att gratulera någon, vilket skulle antyda att man stödjer denna vedervärdiga handling.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

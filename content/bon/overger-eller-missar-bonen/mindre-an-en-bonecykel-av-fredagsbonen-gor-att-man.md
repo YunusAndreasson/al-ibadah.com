@@ -18,7 +18,6 @@ description: 'Fråga: Jag hann inte be hela fredagsbönen med imamen – är bö
 
 /.../
 
-## Fotnoter
 
 [^1]: Rakah.
 [^2]: Dhuhr

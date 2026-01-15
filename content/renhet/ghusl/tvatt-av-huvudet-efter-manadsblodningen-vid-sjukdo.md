@@ -19,7 +19,6 @@ description: 'Fråga: Jag är en gift kvinna och jag har en allergi i mitt brös
 
 Profeten – över honom vare Allāhs frid och välsignelser – har också sagt: ”*Undvik det jag förbjuder er. Gör så mycket ni kan av det jag beordrar er*.” [*al-Bukhārī* 7288 och *Muslim* 1337]
 
-## Fotnoter
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: En rituell rening som görs med hjälp av jord/sand då det inte finns vatten tillgängligt.

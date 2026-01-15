@@ -18,7 +18,6 @@ description: 'Fråga: Jag märker att somliga av Allāhs tjänare stryker över 
 
 Och Allāh är Den som beviljar framgång.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

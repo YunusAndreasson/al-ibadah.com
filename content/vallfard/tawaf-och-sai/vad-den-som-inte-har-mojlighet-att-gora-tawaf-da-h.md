@@ -19,7 +19,6 @@ description: 'Fråga: Den som inte kan utföra tawāful-qudum då han inte hann 
 
 > ”För att uppleva vad som tjänar till deras uppbyggelse och under de [av alla] kända dagarna uttala Guds namn över de djur ur boskapshjordarna som Han skänker dem [för att offras], ät något av köttet från dessa [djur] och ge också den olycklige som lider nöd att äta!” [Koranen 22:28]
 
-## Fotnoter
 
 [^1]: Tawāf då man kommer till Mecka.
 [^2]: Den sju långa rundar vandringen runt Kabah.

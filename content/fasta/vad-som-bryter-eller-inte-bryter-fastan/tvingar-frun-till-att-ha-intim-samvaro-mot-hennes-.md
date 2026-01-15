@@ -16,7 +16,6 @@ description: 'Fråga: En man har intim samvaro med sin fru dagtid under fastan o
 
 **Svar:** Om mannen tvingar sin fru till att ha intim samvaro medan de både fastar, då är kvinnans fasta korrekt och det finns ingen gottgörelse för henne. Men mannen är dock skyldig att gottgöra sig för samlaget om det inträffade dagtid under ramadan[^1]. Gottgörelsen är att frisläppa en slav. Om denne inte kan finna en slav måste denne fasta under två på varandra efterföljande månader. Har denne inte möjlighet att göra det måste denne ge 60 fattiga mat. Detta med anledning av en *hadīth[^2]* från Abū Hurairah som finns återgiven i *al-Bukhārī* och *Muslim*. Denne måste även ta igen denna fastedag.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

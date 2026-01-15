@@ -42,7 +42,6 @@ Ett exempel på någon som inte kan avgöra vilket av de två fallen som är san
 
 Därmed är det klart att nedfallandet för glömska[^1] kommer innan *taslīm[^5]* när de obligatoriska handlingarna har utelämnats eller om man är osäker på antalet bönecykler[^4] och man inte kan bestämma sig för vilket som är sannolikast. Det är efter *taslīm[^5]* i fall där man har gjort för mycket i bönen, om man har tvivel eller om ett av de båda fallen verkar troligare för en.
 
-## Fotnoter
 
 [^1]: sujūd as-sahw.
 [^2]: Ruku, bugningen när ryggen hålls parallell med marken.

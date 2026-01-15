@@ -20,7 +20,6 @@ Beträffande att vara en rättvis imam eller fäst vid en moské är dessa båda
 
 Och hos Allāh finns medlen för att göra vad som är rätt.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

@@ -36,7 +36,6 @@ Om det inte finns något som är likvärdigt med det villebråd som har jagats, 
 - Ta reda på det döda villebrådets värde och ge vad som är likvärdigt med det i mat till de fattiga. Här ges en halv *sā'* till varje fattig. 
 - Fasta en dag för varje fattig
 
-## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.

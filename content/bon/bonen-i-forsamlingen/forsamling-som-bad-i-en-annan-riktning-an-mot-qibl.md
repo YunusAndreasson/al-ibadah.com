@@ -22,7 +22,6 @@ description: 'Fråga: Vilket är utlåtandet om bönen för en församling som b
 
 Här är en fråga som jag skulle vilja rikta uppmärksamhet mot: Om någon befinner sig i den Heliga moskén och kan se Ka’bah, då måste denne vända sig direkt mot Ka’bah och inte i den ungefärliga riktningen. Avviker denne från den exakta riktningen mot Ka’bah kommer denne inte att vara i riktning mot *qiblah[^1]*. Jag ser många i den heliga Moskén som inte ber direkt i riktning mot Ka’bah. Man finner en lång utsträckt rad och man vet att många inte är i exakt riktning mot Ka’bah. Detta är ett allvarligt misstag som muslimer måste vara medvetna om och ställa till rätta. Ber de på detta sätt ber de mot en annan riktning än *qiblah[^1]*.
 
-## Fotnoter
 
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 

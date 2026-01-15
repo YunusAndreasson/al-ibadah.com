@@ -25,7 +25,6 @@ Efter att ha nämnt några av sändebuden säger Allāh:
 
 Här är det tydligt att gråtande under bönen inte gör den ogiltig om det är av fruktan för Allāh.
 
-## Fotnoter
 
 [^1]: Maghrib
 [^2]: Rakah.

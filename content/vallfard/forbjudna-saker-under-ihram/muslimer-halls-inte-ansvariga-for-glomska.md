@@ -21,7 +21,6 @@ Allāh har besvarat deras åkallan[^3]. Profeten – över honom vare Allāhs fr
 
 Imam Muslim har återgivit detta i sin *Sahīh*.
 
-## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.

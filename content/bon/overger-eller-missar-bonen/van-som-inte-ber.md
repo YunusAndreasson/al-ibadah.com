@@ -28,7 +28,6 @@ Du som frågeställare bör känna till att du måste råda och varna denna pers
 
 Vi ber Allāh den Allsmäktige att hålla dig, oss och alla muslimer säkra från Hans vrede. Han är den bäste att fråga.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

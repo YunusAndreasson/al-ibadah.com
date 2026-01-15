@@ -16,7 +16,6 @@ description: 'Fråga: Får en kvinna med månadsblödning bryta fastan under ram
 
 **Svar:** En kvinna med månadsblödning har inte en korrekt fasta och hon får inte göra så [fasta]. Så om hon får sin månadsblödning bryter hon fastan och fastar under andra dagar i stället för de dagar som hon bröt fastan när hon blivit ren.
 
-## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

@@ -18,7 +18,6 @@ description: 'Fråga: Vilket är utlåtandet om att hålla ned händerna under b
 
 Detta är en generell order som upphävs när man bugar. Då måste man lägga händerna på knäna, eller när man nedfaller när man måste lägga händerna på marken, eller när man sitter då man måste lägga händerna på sina lår. Men när man står upp ska höger hand vara på vänster underarm före och efter bugningen.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

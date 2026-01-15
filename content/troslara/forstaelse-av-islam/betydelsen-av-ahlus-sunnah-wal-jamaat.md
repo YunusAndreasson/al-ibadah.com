@@ -18,7 +18,6 @@ description: 'Fråga: Vilka är ahlus-sunnah wal-jamā’at? Svar: Ahlus-sunnah
 
 Studerar du dem som följer innovationer, då kommer du att finna att de skiljer sig åt i vad de följer i frågor om tro, metodologi och praktiskt utövande. Detta tyder på att de är långt ifrån profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* och hur långt de är ifrån den är enligt hur mycket nytt de har introducerat i religionen.
 
-## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

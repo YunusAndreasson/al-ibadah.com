@@ -17,7 +17,6 @@ description: 'Fråga: Är zakātul-fitr obligatoriskt eller rekommenderat? Vem �
 
 Och Allāh är Givaren av framgång.
 
-## Fotnoter
 
 [^1]: Allmosa som ges före eid-bönen.
 [^2]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.

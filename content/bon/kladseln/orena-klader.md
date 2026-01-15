@@ -27,7 +27,6 @@ Men att ta bort något smutsigt är något som rör det som inte bör finnas. Om
 
 Och Allāh vet bäst.
 
-## Fotnoter
 
 [^1]: De delar av kroppen som måste täckas.
 [^2]: Fajr

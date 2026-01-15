@@ -25,7 +25,6 @@ description: 'Fråga: Vilket är utlåtandet om den stora rituella orenheten? Sv
 
 Detta är de fem utlåtanden som gäller för den som är i den stora rituella orenheten.
 
-## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.

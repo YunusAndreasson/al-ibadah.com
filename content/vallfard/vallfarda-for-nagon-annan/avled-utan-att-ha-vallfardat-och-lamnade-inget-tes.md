@@ -18,7 +18,6 @@ description: 'Fråga: Om en man avled utan att ha utsett någon till att vallfä
 
 Beträffande detta ämne finns det andra *ahādīth[^1]* som bevisar det vi har nämnt.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

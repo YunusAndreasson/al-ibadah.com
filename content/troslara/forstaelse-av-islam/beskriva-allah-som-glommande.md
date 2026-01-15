@@ -84,7 +84,6 @@ Allāhs lämnande eller glömmande av någonting är en av Hans handlingar som s
 
 Det finns många välkända texter som bekräftar att Allāh lämnar eller överger saker. Texterna bekräftar även Hans andra handlingar som har att göra med Hans vilja. Detta vittnar om perfektionen i Hans kraft och makt. Det sätt som Han utför dessa handlingar på är inte på det sätt som Hans skapelse gör, även om de delar samma grundläggande mening. Detta är välkänt bland *ahl al-sunnah[^2]*.
 
-## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
