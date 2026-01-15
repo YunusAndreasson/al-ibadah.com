@@ -35,8 +35,8 @@
 @theme {
   /* Font Families - modern browsers only, simplified stacks */
   --font-sans: 'Inter', system-ui, sans-serif;
-  --font-serif: 'Source Serif 4', Charter, 'Bitstream Charter', Georgia, serif;
-  --font-arabic: 'Noto Naskh Arabic', serif;
+  --font-serif: 'Literata', Charter, 'Bitstream Charter', Georgia, serif;
+  --font-arabic: 'Amiri', serif;
 
   /* Typography Scale (Minor Third 1.2) */
   --font-size-sm: 0.875rem;
@@ -271,6 +271,7 @@ body {
   position: absolute;
   left: 0;
   top: 0;
+  font-family: var(--font-sans);
   font-size: 0.8em;
   font-weight: 500;
   color: var(--color-muted-foreground);

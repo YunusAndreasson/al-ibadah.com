@@ -32,7 +32,7 @@ export const Route = createRootRoute({
       // Load fonts with display=swap for fast text rendering
       {
         rel: 'stylesheet',
-        href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap',
+        href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;0,7..72,600;1,7..72,400&family=Amiri:ital,wght@0,400;0,700;1,400&display=swap',
       },
     ],
     scripts: [
