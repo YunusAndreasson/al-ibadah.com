@@ -9,12 +9,12 @@ categories:
 original_id: 513
 description: 'Fråga: Det har återberättats att ‘Umar – må Allāh vara nöjd med honom
  – kysste den svarta stenen och sade: ”Jag vet att du endast är en sten och
- att du kan varken kan ge med- eller motgång. H...'
+ att du varken kan ge med- eller motgång. H...'
 ---
 
 **Fråga:** Det har återberättats att ‘Umar – må Allāh vara nöjd med honom – kysste den svarta stenen och sade:
 
-> ”Jag vet att du endast är en sten och att du kan varken kan ge med- eller motgång. Hade jag inte sett Allāhs sändebud kyssa dig, hade jag inte kysst dig.”
+> ”Jag vet att du endast är en sten och att du varken kan ge med- eller motgång. Hade jag inte sett Allāhs sändebud kyssa dig, hade jag inte kysst dig.”
 
 Kom den svarta stenen ned från himlen eller är den enbart en sten som andra? Varför lades stenen på denna plats? Vissa tror att det är *qiblah[^1]* som muslimer vänder sig mot när det ber – Allāh förbjude.
 
