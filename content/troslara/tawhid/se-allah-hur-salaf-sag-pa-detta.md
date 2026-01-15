@@ -19,7 +19,7 @@ description: 'Fråga: Ansåg salaf – må Allāh vara nöjda med dem – att ma
 
 > ”Den Dagen skall [några] ansikten lysas upp av glädje.” [Koranen 75:22]
 
-Han har tillskrivet seendet till ansikten och den del av ansiktet som ser är ögat. I versen finns bevis för att ögat uppfattar Allāh den Härlige, den Upphöjde. Men när vi ser Allāh betyder det inte att vi omfattar Honom. Allāh den Upphöjde säger ju:
+Han har tillskrivit seendet till ansikten och den del av ansiktet som ser är ögat. I versen finns bevis för att ögat uppfattar Allāh den Härlige, den Upphöjde. Men när vi ser Allāh betyder det inte att vi omfattar Honom. Allāh den Upphöjde säger ju:
 
 > ”Han vet allt vad [människor] kan veta och allt som är dolt för dem, men de kan inte nå Honom med [sin] kunskap.” [Koranen 20:110]
 
