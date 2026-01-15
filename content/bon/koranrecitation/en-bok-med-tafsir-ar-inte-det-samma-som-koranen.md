@@ -1,5 +1,5 @@
 ---
-title: En bok med tafsir är inte det samma som Koranen
+title: En bok med tafsir är inte detsamma som Koranen
 author: Ibn 'Abdur-Rahman al-Jibrīn
 source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'

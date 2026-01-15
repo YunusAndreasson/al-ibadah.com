@@ -20,7 +20,7 @@ Den starkare åsikten i denna fråga är dock att fadern, eller någon annan, in
 
 Grundat på detta: En man som tvingar sin dotter till att gifta sig med en man som hon inte vill ha är förbjudet.
 
-Laggivaren (dvs. Allāh) har förbjudit det så Han vill inte att det muslimska samhället skall göra detta. Om vi säger att det är giltigt innebär det att vi är inblandade i det, att vi praktiserar det och att vi ger det samma status som de kontrakt Laggivaren har tillåtit. Detta är något som inte kan inträffa.
+Laggivaren (dvs. Allāh) har förbjudit det så Han vill inte att det muslimska samhället skall göra detta. Om vi säger att det är giltigt innebär det att vi är inblandade i det, att vi praktiserar det och att vi ger samma status som de kontrakt Laggivaren har tillåtit. Detta är något som inte kan inträffa.
 
 Den starkaste åsikten är därför att när din fader gett din hand till en man som du inte vill ha är detta ett otillåtet äktenskap och kontraktet gäller inte. Detta måste därmed undersökas av rätten.
 
