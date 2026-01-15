@@ -12,7 +12,7 @@ description: 'Fråga: Jag avsåg att bege mig till Mecka för att göra ''umrah 
  där. Om jag begav mig ditt skulle jag behöva träf...'
 ---
 
-**Fråga:** Jag avsåg att bege mig till Mecka för att göra *'umrah* men när jag berättade om detta sades det till mig att jag behövde besöka släktingar där. Om jag begav mig ditt skulle jag behöva träffa min mans broder och andra släktingar. Jag skulle då behöva visa mitt ansikte för dem. Tillsist bestämde jag mig för att inte resa i syfte att göra Allāh nöjd. Är detta rätt? Vänligen, ge mig råd.
+**Fråga:** Jag avsåg att bege mig till Mecka för att göra *'umrah* men när jag berättade om detta sades det till mig att jag behövde besöka släktingar där. Om jag begav mig ditt skulle jag behöva träffa min mans broder och andra släktingar. Jag skulle då behöva visa mitt ansikte för dem. Tillsist bestämde jag mig för att inte resa för att göra Allāh nöjd. Är detta rätt? Vänligen, ge mig råd.
 
 **Svar:** Allāh den Allsmäktige säger: ”Troende! Lyd Gud och lyd Sändebudet och dem bland er åt vilka myndighet och ansvar anförtrotts.” [Koranen 4:59] Han har placerat lydnad av de som är förmyndare efter lydnad av Honom och Hans sändebud. Om det finns en konflikt mellan att lyda Allāh och Hans sändebud och att lyda förmyndare, tar lydnaden av Allāh och Hans sändebud – över honom vare Allāhs frid och välsignelser – företräde.
 

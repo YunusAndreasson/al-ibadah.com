@@ -1,5 +1,5 @@
 ---
-title: Landstycken som ägs i syfte att bygga något på dem
+title: Landstycken som ägs för att bygga något på dem
 author: Ibn 'Abdullah Ibn Baz
 source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 166 s. ISBN saknas'

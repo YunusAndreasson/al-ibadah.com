@@ -8,11 +8,11 @@ categories:
 - Blandade utlåtanden
 original_id: 1667
 description: 'Fråga: Vilket är utlåtandet om någon som rör mushaf utan att ha tvagat
- sig i syfte att läsa den eller flytta den till en annan plats? Min fråga gäller
+ sig för att läsa den eller flytta den till en annan plats? Min fråga gäller
  den som inte har den stora orenheten. Sva...'
 ---
 
-**Fråga:** Vilket är utlåtandet om någon som rör *mushaf* utan att ha tvagat sig i syfte att läsa den eller flytta den till en annan plats? Min fråga gäller den som inte har den stora orenheten.
+**Fråga:** Vilket är utlåtandet om någon som rör *mushaf* utan att ha tvagat sig för att läsa den eller flytta den till en annan plats? Min fråga gäller den som inte har den stora orenheten.
 
 **Svar:** Enligt majoriteten av de lärde är det inte tillåtet att rör *mushaf* då man inte har tvagat sig. Denna åsikt hade de fyra imamerna och detta var åsikten som profetens följeslagare brukade döma enligt. Det finns en autentisk *hadīth[^1]* om detta och i den berättar 'Amr bin Hazm att profeten – över honom vare Allāhs frid och välsignelser – sände ett brev till invånarna i Jemen som innehöll följande: ”*Ingen rör Koranen utom den rene*.” [Ibn Habban 793 och ad-Daraqutni 433] Autenticiteten i denna *hadīth[^1]* är god. Återberättarkedjorna är många och de stärker varandra.
 

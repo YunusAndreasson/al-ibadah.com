@@ -1,5 +1,5 @@
 ---
-title: Halsband som bärs av män i syfte att pryda
+title: Halsband som bärs av män för att pryda
 author: Muhammad bin Salih al-'Uthaymin
 source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'

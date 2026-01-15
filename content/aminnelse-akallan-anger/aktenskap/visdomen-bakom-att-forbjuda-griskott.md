@@ -22,7 +22,7 @@ Allāh den Härlige, den Högste har förklarat visdomen i förbudet och denna v
 
 Det har sagts att detta orena djur har lite svartsjuka. Om en person då äter det kan hans svartsjuka gentemot hans *mahram[^1]* och hans fru försvinna. Detta beror på att en person kan påverkas av vad han äter. Har du inte lagt märke till att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit att vi äter alla rovdjur med rovdjurständer och alla fåglar med klor? Detta beror på att fiendskap och aggression är en del av dessa rovdjurs och fåglars natur. Det finns därför en fruktan för att om en person äter dem kommer han att få något av deras karaktärsdrag. Detta beror på att en människa påverkas av vad han äter. Detta är därmed visdomen bakom förbudet mot fläsk.
 
-Detta uttalande är till någon som inte tror på Koranen eller på Allāhs utlåtanden. Vi kan även säga detta till en person som tror men i syfte att göra hans hjärta lugnt och öka hans övertygelse. För den troende blir enbart det faktum att detta är Allāhs och Hans sändebuds utlåtande det den ultimata visdomen för honom. Allāh den Högste säger: 
+Detta uttalande är till någon som inte tror på Koranen eller på Allāhs utlåtanden. Vi kan även säga detta till en person som tror men för att göra hans hjärta lugnt och öka hans övertygelse. För den troende blir enbart det faktum att detta är Allāhs och Hans sändebuds utlåtande det den ultimata visdomen för honom. Allāh den Högste säger: 
 
 > ”Och när en fråga som rör en troende man eller kvinna har avgjorts av Gud och Hans Sändebud, har dessa inte rätt att själva döma i det som rör dem.” [Koranen 33:36]
 

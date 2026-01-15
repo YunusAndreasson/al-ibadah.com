@@ -14,5 +14,5 @@ description: 'Fråga: Vilket är utlåtandet om fotografier som används på gru
 
 **Fråga:** Vilket är utlåtandet om fotografier som används på grund av att det är nödvändigt?
 
-**Svar:** Bilder av vad som är levande (människor och djur) är inte tillåtna utom om det är nödvändigt. Exempel på vad som är nödvändigt kan vara identitetskort, passfoton och foton av kriminella i syfte att identifiera dem för att sedan kunna arrestera dem när de begår ett brott eller försöker fly.
+**Svar:** Bilder av vad som är levande (människor och djur) är inte tillåtna utom om det är nödvändigt. Exempel på vad som är nödvändigt kan vara identitetskort, passfoton och foton av kriminella för att identifiera dem för att sedan kunna arrestera dem när de begår ett brott eller försöker fly.
 

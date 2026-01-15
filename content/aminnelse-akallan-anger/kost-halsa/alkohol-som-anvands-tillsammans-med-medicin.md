@@ -14,5 +14,5 @@ description: 'Fråga: Ibland tillsätts alkohol under processen då vissa medici
 
 **Fråga:** Ibland tillsätts alkohol under processen då vissa mediciner tillverkas. Om det bekräftas att alkohol tillsatts i processen då en viss medicin har tillverkats, är det då tillåtet att använda denna medicin?
 
-**Svar:** Om mängden alkohol som blandats med medicinen är liten och den är väsentlig i syfte att bevara substansen är det tillåtet att använda denna medicin tillsammans med den. Men om det är mycket och den inte är nödvändig är det inte tillåtet oberoende av vad behandlingen än är till för.
+**Svar:** Om mängden alkohol som blandats med medicinen är liten och den är väsentlig för att bevara substansen är det tillåtet att använda denna medicin tillsammans med den. Men om det är mycket och den inte är nödvändig är det inte tillåtet oberoende av vad behandlingen än är till för.
 
