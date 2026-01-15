@@ -87,7 +87,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Profeterna är bröder, deras religion är en och deras mödrar är olika.” [*al-Bukhārī* 3433 och *Muslim* 2365]
 
-Därmed kan vi säg att dem som trodde på grunderna i lagarna som gavs till profeterna och sändebuden kommer Allāh att vara nöjd med Han kommer att ge dem lycka och framgång. Det är dem som Allāh prisar i Sin skrift och som vår profet Muhammad - över honom vare Allāhs frid och välsignelser - lovordar i sin *sunnah[^1]*. Den som trodde på några av grunderna som de förde med sig från Allāh, men som inte trodde på andra, de tror sannerligen inte på någon av dem. Det är nödvändigt att acceptera grundernas enhet och tro på dem alla. Allāh har förberett en hemvist i Helvetesleden för dem [...] Det är dem som Allāh tillrättavisar i Sin skrift och Hans sändebud tillrättavisar dem i sin *sunnah[^1]*.
+Därmed kan vi säga att dem som trodde på grunderna i lagarna som gavs till profeterna och sändebuden kommer Allāh att vara nöjd med Han kommer att ge dem lycka och framgång. Det är dem som Allāh prisar i Sin skrift och som vår profet Muhammad - över honom vare Allāhs frid och välsignelser - lovordar i sin *sunnah[^1]*. Den som trodde på några av grunderna som de förde med sig från Allāh, men som inte trodde på andra, de tror sannerligen inte på någon av dem. Det är nödvändigt att acceptera grundernas enhet och tro på dem alla. Allāh har förberett en hemvist i Helvetesleden för dem [...] Det är dem som Allāh tillrättavisar i Sin skrift och Hans sändebud tillrättavisar dem i sin *sunnah[^1]*.
 
 Allāh den Upphöjde säger:
 
