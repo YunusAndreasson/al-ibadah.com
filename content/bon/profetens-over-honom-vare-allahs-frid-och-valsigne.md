@@ -250,7 +250,7 @@ Lugn i nedfallan
 11. Därefter säger man *takbīr[^4]*. Detta är obligatoriskt.
 12. Ibland höjer man sina händer när man säger denna *takbīr[^4]*.
 13. Därefter gör man det andra nedfallandet[^6]. Även detta är en väsentlig del av bönen.
-14. I det andra nedfallandet[^6] göra man vad man gjorde i den första.
+14. I det andra nedfallandet[^6] gör man vad man gjorde i den första.
 
 Sitta och vila
 
@@ -261,7 +261,7 @@ Sitta och vila
 Den andra bönecykeln[^7]
 
 1. Därefter går man upp för den andra bönecykeln[^7]. Man stödjer sig på sina händer och man har dem knutna som om han knådade deg. Detta är en väsentlig del av bönen.
-2. I den andra bönecykeln[^7] göra man vad man gjorde i den första.
+2. I den andra bönecykeln[^7] gör man vad man gjorde i den första.
 3. Utom att man inte reciterar någon åkallan[^14] som i bönens inledning.
 4. Man bör göra den kortare än den första bönecykeln[^7].
 

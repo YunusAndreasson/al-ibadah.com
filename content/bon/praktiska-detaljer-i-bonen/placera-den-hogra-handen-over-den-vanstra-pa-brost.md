@@ -17,7 +17,7 @@ description: 'Fråga: Vilket är utlåtandet om att placera den högra handen ö
 
 **Svar:** Utlåtandet om att placera den högra handen över den vänstra i bönen är att det är en sunnah[^1]. Detta enligt en *hadīth[^2]* från Sahl bin Sa'd: ”*Folket beordrades att placera höger hand på vänster underarm under bönen*.” [*al-Bukhārī* 740]
 
-Man var placeras de? Svaret är: Den mest korrekta åsikten är att de bör placeras på bröstet. Detta enligt en *hadīth[^2]* från Wa'il bin Hujr. Han sade att profeten – över honom vare Allāhs frid och välsignelser – brukade placera den högra handen över den vänstra på bröstet. [*Ibn Khuzaimah* 479] Även om det finns vissa svagheter i denna *hadith* är den mer autentisk än andra.
+Var placeras de? Svaret är: Den mest korrekta åsikten är att de bör placeras på bröstet. Detta enligt en *hadīth[^2]* från Wa'il bin Hujr. Han sade att profeten – över honom vare Allāhs frid och välsignelser – brukade placera den högra handen över den vänstra på bröstet. [*Ibn Khuzaimah* 479] Även om det finns vissa svagheter i denna *hadith* är den mer autentisk än andra.
 
 Att placera dem över hjärtat på den vänstra sidan är en grundlös innovation.
 

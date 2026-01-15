@@ -27,7 +27,7 @@ Allāhs sändebud informerade oss om den okammade och smutsiga resenären, som h
 
 Det finns många autentiska återberättelser i vilka profeten - över honom vare Guds frid och välsignelser - höjer sina händer. Under predikan för regnbönen, under *tashrīq*-dagarna vid *Jamarāt* under hans sista vallfärd och vid många fler tillfällen.
 
-Icke desto mindre bör vi inte höja våra händer vid dessa tillfällen där vi inte har några belägg för att Allāhs sändebud höjde sina händer. Därför bör vi följa profeten och inte höja våra händer under fredagsbönen, *'eid*, åkallan[^1] mellan de båda nedallanden[^1] i bönen, åkallan[^1] under slutet av bönen och i åkallan[^1] efter de fem obligatoriska bönerna.
+Icke desto mindre bör vi inte höja våra händer vid dessa tillfällen där vi inte har några belägg för att Allāhs sändebud höjde sina händer. Därför bör vi följa profeten och inte höja våra händer under fredagsbönen, *'eid*, åkallan[^1] mellan de båda nedfallanden[^1] i bönen, åkallan[^1] under slutet av bönen och i åkallan[^1] efter de fem obligatoriska bönerna.
 
 Anledningen till detta är att vi inte har några rapporter från Allāhs sändebud om att han höjde händerna under dessa tillfällen. Vi följer honom där han höjde sina händer och vi följer honom där han inte gjorde det.
 
