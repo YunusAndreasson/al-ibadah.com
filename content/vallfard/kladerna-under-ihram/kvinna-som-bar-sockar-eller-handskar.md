@@ -28,6 +28,7 @@ Enligt den korrekta åsikten får män bära lädersockar även om de inte är a
 
 Och Allāh är den som beviljar framgång.
 
+## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Släkting som det inte är tillåtet att gifta sig med.

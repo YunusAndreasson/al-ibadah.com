@@ -30,6 +30,7 @@ Den som har bett *‘eid*-bönen och som inte kommer till fredagsbönen måste b
 
 Må frid och välsignelser vara över vår profet Muhammad, hans familj och följeslagare.
 
+## Fotnoter
 
 [^1]: Dhuhr
 

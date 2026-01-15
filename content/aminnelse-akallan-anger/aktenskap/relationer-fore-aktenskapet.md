@@ -17,6 +17,7 @@ description: 'Fråga: Vad anser vår religion om relationer före äktenskapet? 
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”En man kan inte vara ensam med en kvinna utom om hennes mahram[^1] är där. Och en kvinna kan inte resa om inte en mahram[^1] är med henne.”
 
+## Fotnoter
 
 [^1]: Släkting som det inte är tillåtet att gifta sig med.
 

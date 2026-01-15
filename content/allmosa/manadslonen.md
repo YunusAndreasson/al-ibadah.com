@@ -17,6 +17,7 @@ description: 'Fråga: Jag är anställd i ett privatägt företag och jag tar em
 
 Och Allāh är givaren av framgång.
 
+## Fotnoter
 
 [^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 ramadan 1428).
 

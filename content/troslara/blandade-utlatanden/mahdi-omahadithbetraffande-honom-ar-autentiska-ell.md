@@ -27,6 +27,7 @@ Men detta är inte den Mahdi som de påstår finnas i en underjordiskt grav i Ir
 
 Den Mahdi vars existens har bekräftats genom autentiska *ahādīth[^1]* är en människa som alla andra människor. Han är skapad, han kommer att födas under sin egen tidsperiod och han kommer att visa sig för folket under sin egen tidsperiod. Detta är historien om Mahdi och att fullständigt välja att inte tro på honom är fel men att fullständigt tro på hans mytologiska person är också det fel. Att bekräfta honom på ett sätt som inbegriper den väntade Mahdi som påstås befinna sig i en underjordiskgrav i Irak, det är fel. Tron på denne dolde Mahdi är vansinne och en villfarelse bort från den islamiska lagen. Detta saknar helt någon grund. Men att bekräfta den Mahdi som profeten – över honom vare Allāhs frid och välsignelser – har berättat om för oss, som antalet *ahādīth[^1]* är flertaliga om och som kommer att födas och dyka upp under sin egen tidsperiod – det är rätt.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

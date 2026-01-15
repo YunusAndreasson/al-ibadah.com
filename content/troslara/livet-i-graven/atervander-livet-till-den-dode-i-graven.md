@@ -146,6 +146,7 @@ Det har även rapporterats att Allāh den Upphöjde kommer att återlämna själ
 
 Detta liv mellan de båda [livet i denna världen och livet i det Nästa] gör det möjligt för honom att höra frågorna och besvara dem – om Allāh ger honom framgång – och får honom att känna njutningen [av Paradiset] eller plågan [i Helvetet]. Vi har redan nämnt *ahādīth[^2]* om detta [...]
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen

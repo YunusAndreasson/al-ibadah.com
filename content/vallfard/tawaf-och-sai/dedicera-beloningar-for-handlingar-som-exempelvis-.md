@@ -18,6 +18,7 @@ description: 'Fråga: När jag befann mig i Mecka och nyheten om att en kvinnlig
 
 Det är dock viktigt att känna till att det som är bäst är att man handlar rättfärdigt för sin egen skull och att man väljer ut den muslim man vill för att åkalla för denne. Detta beror på att det är vad profeten – över honom vare Allāhs frid och välsignelser – uppmanade till då han sade: ”*När När Adams son dör, dör också hans handlingar utom tre: [^2] förmiddagsbönen[^3], gagnelig kunskap och ett rättfärdigt barn som ber för honom*.” [*Muslim* 1631]
 
+## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: adaqah jariyah

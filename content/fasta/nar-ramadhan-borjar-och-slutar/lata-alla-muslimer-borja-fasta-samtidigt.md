@@ -29,6 +29,7 @@ De vetenskapliga bevisen är en korrekt analogi som inte går att avvisa. Vi vet
 
 Det som fordras genom bevisen i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]*, samt även vetenskapliga bevis, är att varje plats bedöms var för sig gällande [att börja] fastan och att bryta fastan. De ska då länkas samman med de synliga tecken som Allāh har förklarat i Sin skrift och som Hans profet, Muhammed, har förklarat i sin sunnah[^3]. Dessa båda tecken är att man ska sikta månen och att man ska se solen vid gryningen.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: En hederstitel som givits till vissa lärde.

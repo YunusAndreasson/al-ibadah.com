@@ -20,6 +20,7 @@ Efter att ha klargjort detta, [så säger vi:] att denna form av välgörenhet i
 
 > ”När Adams söner dör, då dör också hans handlingar utom tre: [^1] förmiddagsbönen[^2], nyttig kunskap och ett rättfärdigt barn som ber för honom.” [*Muslim* 1631, *Abū Dawūd* 2880, *al-Bukhārī* 38, *Ahmad* 2:372, *at-Tirmithi* 1376 och *an-Nasā’i* 3681]
 
+## Fotnoter
 
 [^1]: adaqah jariyah
 [^2]: Dhuha

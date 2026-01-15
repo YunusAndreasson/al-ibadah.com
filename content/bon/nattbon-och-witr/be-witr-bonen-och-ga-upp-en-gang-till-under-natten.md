@@ -17,6 +17,7 @@ description: 'Fråga: Om jag bad witr under första delen av natten och sedan gi
 
 'Ā’ishah har berättat att profeten brukade be två bönecykler[^2] efter *witr[^1]*. Visdomen i detta – och Allāh vet bäst – är att visa att det är tillåtet att be efter *witr[^1]*-bönen.
 
+## Fotnoter
 
 [^1]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 [^2]: Rakah.

@@ -24,6 +24,7 @@ Man belönas då för att recitera Koranen, oavsett om man förstår den eller i
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: Tolkning av Koranen efter givna principer.
 

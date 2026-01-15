@@ -23,6 +23,7 @@ Beviset i profetens – över honom vare Allāhs frid och välsignelser – *sun
 
 > ”Vid Honom i vars hand min själ vilar i, jag avser att beordra att brännved ska föras fram och sedan beordra bönen och att böneutropet ska ropas ut för den, sedan beordra en man att leda folket i bön och efter det gå till den man som inte var närvarande vid bönen och bränna deras hus över dem. Och vid Honom vars hand min själv vilar i, om någon av dem visste att de skulle finna ett stort ben med kött och två fina revben, då hade han kommit till nattbönen[^3].” [*al-Bukhārī* 644 och *Muslim* 651]
 
+## Fotnoter
 
 [^1]: Kämpa för Allāhs sak.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

@@ -26,6 +26,7 @@ Men om böneutroparen säger detta med hög röst som vid böneutropet, då är 
 
 Jag ber Allāh att han ökar vår, din och alla våra bröders kunskap om religionen samt att Han välsignar oss med stadighet i den. Han är allhörande, ständigt nära.
 
+## Fotnoter
 
 [^1]: Du´ā
 [^2]: De tre första generationerna i islam.

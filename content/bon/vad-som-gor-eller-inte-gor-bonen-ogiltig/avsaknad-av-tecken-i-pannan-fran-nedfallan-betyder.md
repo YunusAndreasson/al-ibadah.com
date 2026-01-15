@@ -16,6 +16,7 @@ description: 'Fråga: Jag har hört många som säger att om det inte finns ett 
 
 **Svar:** Detta stämmer inte. Allāh den Upphöjde accepterar nedfallandet[^1] från Sina tjänare om tjänaren gör den uppriktigt för Herren, även om det efter 40 år inte finns något tecken från den i hans panna. Anledningen är att det inte syns på de flesta människor i dag med anledning av de mjuka mattor som finns. Ett tecken behöver inte synas i pannan och ej heller är en nedfallan[^1] ogiltig om detta saknas.
 
+## Fotnoter
 
 [^1]: sujūd, nedfallandet när pannan läggs mot marken.
 

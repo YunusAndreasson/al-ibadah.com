@@ -22,6 +22,7 @@ Profetens – över honom vare Guds frid och välsignelser – utseende är väl
 
 Beträffande den andra hadithen: ”Den som ser mig [i hans dröm], då är Elden förbjuden för honom.” Den saknar grund och är inte autentisk.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

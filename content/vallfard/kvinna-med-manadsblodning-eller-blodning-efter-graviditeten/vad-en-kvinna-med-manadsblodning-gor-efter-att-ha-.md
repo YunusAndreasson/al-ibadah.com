@@ -20,6 +20,7 @@ Blir hon inte ren före för Arafat[^4]-dagen, då går hon in i vallfärden til
 
 Hon måste offra ett djur för *qirān*, precis som en *mutamatti[^9]'* måste göra.
 
+## Fotnoter
 
 [^1]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

@@ -19,6 +19,7 @@ description: 'Fråga: Vilket är utlåtandet om den som vallfärdar för sin mor
 
 Om dennes avsikt med att komma till Mecka var att vallfärda för modern eller fadern och denne sedan glömde det när denne gick in i ihrām[^3], då gäller vallfärden för den person som denne avsåg [som modern, fadern eller någon annan].
 
+## Fotnoter
 
 [^1]: Platsen där pilgrimmen träder in i ihraam.
 [^2]: Säga Labbayk Allahumma Labbayk under vallfärden.

@@ -27,6 +27,7 @@ Om han inte kan betala priset för ett får [att få det slaktat], då fastar ha
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: Vandringen mellan as-Safa och al-Marwa.
 [^2]: Den lilla vallfärden.

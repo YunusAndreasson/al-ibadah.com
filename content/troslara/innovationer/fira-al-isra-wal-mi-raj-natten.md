@@ -34,6 +34,7 @@ Dessa *ahādīth[^4]* klargör förbudet mot innovationer, deras fara och onda k
 
 Allāh är den som ger framgång.
 
+## Fotnoter
 
 [^1]: Dhikr
 [^2]: Den sjunde månaden i det islamiska året.

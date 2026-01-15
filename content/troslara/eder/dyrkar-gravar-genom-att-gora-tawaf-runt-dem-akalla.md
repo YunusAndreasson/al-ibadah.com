@@ -79,6 +79,7 @@ Villebrådet var tillgängligt för dem och de kunde ha fångat djuren med deras
 
 Blir metoderna för att göra något otillåtet åtkomliga måste man frukta Allāh den Allsmäktige och inte göra denna förbjudna sak. Man bör veta att när det blir lättare att göra någonting så är det en prövning. Då måste man avstå och vara tålmodig. Det lyckliga slutet tillhör ju de fromma.
 
+## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.

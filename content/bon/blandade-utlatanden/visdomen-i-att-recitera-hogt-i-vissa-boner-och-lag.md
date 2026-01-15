@@ -16,6 +16,7 @@ description: 'Fråga : Varför reciterar man med höjd röst under kvällsbönen
 
 **Svar:** Allāh den Upphöjde känner bäst till visdomen i att föreskriva recitation med höjd röst i dessa böner. Det sannolikaste svaret – och Allāh vet bäst – är att visdomen i detta är att under natten och vid gryningen drar folk mest nytta av recitation med höjd röst och det är mindre risk att de störs i deras sysslor, vilket de skulle bli vid middagsbönen[^4] och eftermiddagsbönen[^5].
 
+## Fotnoter
 
 [^1]: Maghrib
 [^2]: Isha

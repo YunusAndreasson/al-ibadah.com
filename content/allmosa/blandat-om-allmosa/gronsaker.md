@@ -16,6 +16,7 @@ description: 'Fråga: Är det en skyldighet att betala allmosa för grönsaker s
 
 **Svar:** Allmosa är en skyldighet för korn och all frukt som vägs och förvars. Grönsaker krävs det ingen allmosa för. Detta beror på vad profeten – över honom vare Allāhs frid och välsignelser – säger i en *hadīth[^1]* som ʿAlī har rapporterat och som ad-Daraqutni har återgivit: ”*Det finns ingen allmosa för grönsaker*.” [*ad-Daraqutni* 1890]
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

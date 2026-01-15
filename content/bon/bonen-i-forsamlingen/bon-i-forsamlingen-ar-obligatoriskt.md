@@ -26,6 +26,7 @@ En blind man sade till profeten: ”*Allāhs sändebud! Jag har ingen guide som 
 
 *Ahādīth[^1]* med samma betydelse är många. Därför är detta en skyldighet för varje muslim. När hans bror fördömer något felaktigt beteende, då bör han inte bli arg och inte svara med något annat än goda ord. Sannerligen måste han tacka och be att Allāh belönar denne med gott. Denne har ju bjudit in honom till att lyda Allāh och påmint honom om en skyldighet. Det är då inte tillåtet att bete sig arrogant mot den som har bjudit in honom till sanningen. Allāh har sagt: ”*Och när någon uppmanar honom att frukta Gud, driver hans högmod honom ut i ytterligare synd. Helvetet är gott nog för honom – detta eländiga vilorum!*” [Koranen 2:206]
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

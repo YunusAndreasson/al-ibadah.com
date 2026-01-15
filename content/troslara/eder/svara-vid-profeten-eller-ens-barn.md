@@ -24,6 +24,7 @@ Imam ’Abdul-Barr rapporterar att de lärde är eniga om att det inte är till�
 
 Det är Allāh som ger framgång.
 
+## Fotnoter
 
 [^1]: Mushrik.
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

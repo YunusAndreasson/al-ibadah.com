@@ -16,6 +16,7 @@ description: 'Fråga: Vilket är utlåtandet om dessa uttryck: I nationens namn,
 
 **Svar:** Har denne för avsikt att säga att denne talar för arabernas eller landets invånares räkning, då finns det ingen invändan mot detta. Men om denne avser att söka välsignelser eller hjälp, då är det en sorts *shirk[^1]*. Beroende på vad denne avser kan det vara större *shirk[^1]*, om denne i sitt hjärta vill lovprisa vad denne sökte hjälp från.
 
+## Fotnoter
 
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

@@ -16,6 +16,7 @@ description: 'Fråga: Används utlåtandet om resande om buss- och bilchaufföre
 
 **Svar:** Ja, utlåtandet för resenärer tillämpas på dem. De får förkorta och slå ihop bönerna samt bryta fastan. Om någon säger: ”När fastar de då de jobbar hela tiden?” svarar vi: ”De fastar under vinterdagarna då de är korta och svala.” När det gäller chaufförer som arbetar i städerna gäller inte utlåtandet om resenärer. Dem måste fasta.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

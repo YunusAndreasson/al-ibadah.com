@@ -27,6 +27,7 @@ Att ta något från dennes exkret, som urinen eller avföringen, är grundlöst.
 
 Det finns ingen invändan mot att vara försiktig och skydda sig själv mot det onda ögat. Detta omintetgör inte ens *tawakkul[^1]*. *Tawakkul[^1]* innebär ju att man sätter sin tilltro till Allāh – den Härlige samtidigt som man vidtar de nödvändiga åtgärder som Han har tillåtit och kommenderat. Profeten – över honom vare Allāhs frid och välsignelser – brukade söka skydd för al-Hasan och al-Husain genom att säga: ”*Genom Allāhs perfekta ord söker jag skydd för er båda mot varje ont och mot varje giftig varelse och mot varje avundsjukt ont öga*.” [*al-Bukhārī* 3371] Han brukade säg att Abraham ofta sökte skydd för Ishaq och Isma'il på detta sätt.
 
+## Fotnoter
 
 [^1]: Hoppfullhet till Allāh.
 [^2]: Något som reciteras för att bota sjukdomar.

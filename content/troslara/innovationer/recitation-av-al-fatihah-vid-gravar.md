@@ -26,6 +26,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Den som för in något i vår fråga [islam] som inte tillhör den, det ska avvisas.” [*al-Bukhārī* 2697 och *Muslim* 1718]
 
+## Fotnoter
 
 [^1]: Du´ā
 

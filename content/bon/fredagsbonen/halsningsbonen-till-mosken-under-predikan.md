@@ -23,6 +23,7 @@ Det är välkänt att Sändebudets domar kommer från Allāhs domar. Detta enlig
 
 Och Allāh är Beviljaren av framgång.
 
+## Fotnoter
 
 [^1]: Tahiyyatul-Msjid.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

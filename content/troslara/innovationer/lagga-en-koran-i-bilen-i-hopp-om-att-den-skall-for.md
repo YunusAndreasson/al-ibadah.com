@@ -20,6 +20,7 @@ Det samma gäller att lägga *mushaf* i bilen för att söka välsignelser. För
 
 Och hos Allāh finns medlen till att göra vad som är rätt.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.

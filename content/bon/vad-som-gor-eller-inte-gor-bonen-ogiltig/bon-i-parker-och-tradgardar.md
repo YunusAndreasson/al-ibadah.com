@@ -26,6 +26,7 @@ Det har rapporterats att en blind man till profeten  – över honom vare Guds 
 
 /.../
 
+## Fotnoter
 
 [^1]: Du´ā
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen

@@ -40,6 +40,7 @@ När det gäller att skriva verser och tillåtna åkallelser med saffran på en 
 
 Det är Allāh som ger framgång.
 
+## Fotnoter
 
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 [^2]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.

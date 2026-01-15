@@ -19,6 +19,7 @@ description: 'Fråga: Vilket är den islamiska lagens utlåtande om en man som s
 
 Och Allāh är Givaren av framgång.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.

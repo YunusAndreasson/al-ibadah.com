@@ -26,6 +26,7 @@ Utöver det som vi har nämnt känner vi inte till något autentiskt bevis som p
 
 Genom Allāh uppnås framgång och må frid och välsignelser vara över vår profet Muhammad, hans familj och följeslagare.
 
+## Fotnoter
 
 [^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 [^2]: Du´ā

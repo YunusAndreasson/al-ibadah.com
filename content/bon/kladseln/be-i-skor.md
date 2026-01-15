@@ -22,6 +22,7 @@ Abū Dawūd har återberättat ännu en *hadīth[^1]* från Abū Hurairah där h
 
 Om denna *hadīth[^1]* har al-'Iraqi sagt: ”*Den har en autentisk berättarkedja*.” Och Abū Dawūd, Ahmad och Ibn Mājah har återberättat från 'Amr bin Shu'aib, från hans fader, från hans farfar att han sagt: ”*Jag såg Allāhs sändebud be barfota och i skor*.” [*Abū Dawūd* 653 och *Ibn Mājah* 1038]
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

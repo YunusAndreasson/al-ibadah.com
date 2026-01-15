@@ -16,6 +16,7 @@ description: 'Fråga: Är det tillåtet att skriva bokstaden [S] i stället för
 
 **Svar:** Det är *sunnah[^1]* att skriva hela frasen ”*sal-Allāhu ʿalayhe wa sallam*”, då det är en åkallan[^2] som är en sorts dyrkan likt de vi säger verbalt. Att förkorta genom att skriva [S], [SAW], [SĀW] eller något liknande räknas inte som en åkallan[^2] och är därmed inte en sorts dyrkan, oberoende om det sker i skrift eller tal. Därför användes inte denna förkortning av de tre första generationerna, vars meriter profeten – över honom vare Allāhs frid och välsignelser – vittnat om.
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Du´ā

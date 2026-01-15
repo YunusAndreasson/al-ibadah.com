@@ -25,6 +25,7 @@ Ingen av dessa tre handlingar gör vallfärden ogiltig, utom om det gäller inti
 
 Under vallfärden och *‘umrah[^2]* måste pilgrimen därför i lydnad av Allāh och i vilja att göra en perfekt vallfärd samt *‘umrah[^2]* undvika detta.
 
+## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.

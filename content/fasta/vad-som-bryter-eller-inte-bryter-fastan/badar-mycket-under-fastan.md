@@ -16,6 +16,7 @@ description: 'Fråga: Vilket är utlåtandet om att dagtid under ramadan bada my
 
 **Svar:** Sannerligen är det tillåtet och det är ingen fara. Utan tvekan brukade sändebudet – över honom vare Allāhs frid och välsignelser – hälla vatten över sitt huvud på grund av värme eller törst då han fastade. Ibn ʿUmar brukade blöta sitt klädesplagg med vatten för att lätta på intensiteten i hettan eller törsten medan han fastade. Fukt har ingen inverkan på fastan då det inte är vatten som når magen.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

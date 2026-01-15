@@ -22,6 +22,7 @@ Det finns många *ahādīth[^3]* om detta.
 
 Hans ord: ”... *obligatoriskt för varje vuxen man*” betyder enligt en majoritet av de lärde att det är rekommenderat, som araberna säger: ”*‘iddah* *är en skuld och din rättighet är en skyldighet för mig*.” Vad som bevisar detta är att profeten – över honom vare Allāhs frid och välsignelser – enligt vissa *ahādīth[^3]* själv nöjde sig med tvagning[^5]. Detsamma gäller parfym, *miswāk[^4]*, att bära sina bästa kläder och att gå tidigt till fredagsbönen. Detta är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* och inget av det är obligatoriskt.
 
+## Fotnoter
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

@@ -16,6 +16,7 @@ description: 'Fråga: Får en kvinna använda piller under vallfärden för att 
 
 **Svar:** Det finns inget skadligt i detta, då det medför nytta och det är en fördel när hon kan göra *tawāf[^1]* med folket. Hon tappar heller inte bort sin grupp.
 
+## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 

@@ -18,6 +18,7 @@ description: 'Fråga: Vilket är utlåtandet om att bygga något över gravar? S
 
 Och Allāh är Den vars hjälp vi söker.
 
+## Fotnoter
 
 [^1]: Du´ā
 

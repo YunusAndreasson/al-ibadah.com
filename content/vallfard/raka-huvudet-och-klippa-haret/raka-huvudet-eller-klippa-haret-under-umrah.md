@@ -18,6 +18,7 @@ description: 'Fråga: Vilket är utlåtandet om att raka huvudet eller klippa h�
 
 I fråga om det är bättre att klippa håret eller att raka det för *ʿumrah[^1]*, är det bättre att raka huvudet, utom om man utför *hajjul-tamattu'*[^4] och man har kommit sent till Mecka. I detta fall är det bättre att klippa håret, så att man har hår kvar att raka av under vallfärden.
 
+## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Den sju långa rundar vandringen runt Kabah.

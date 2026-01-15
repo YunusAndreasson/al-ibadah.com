@@ -18,6 +18,7 @@ description: 'Fråga: Jag var gravid under ramadan så jag bröt min fasta och j
 
 > ”Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarande antal dagar.” [Koranen 2:185]
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

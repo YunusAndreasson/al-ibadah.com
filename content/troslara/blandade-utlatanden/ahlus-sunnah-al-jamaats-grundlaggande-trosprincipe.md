@@ -42,6 +42,7 @@ På detta sätt upprätthöll de religionen och de skilde sig inte åt i detta. 
 
 Även om de hade olika åsikter i frågor som det är tillåtet att utöva *ijtihād[^2]* i ledde detta inte till att deras hjärtan skilde sig åt. I stället finner man kärlek mellan dem, trots de meningsskiljaktigheter som uppkom genom *ijtihād[^2]*.
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Den ansträngning en islamskt lärd gör för att lägga fram ett utlåtande som inte är uppenbart.

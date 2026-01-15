@@ -54,6 +54,7 @@ Tillåten *tawassul[^5]* är att åkalla Allāh genom Hans namn och egenskaper. 
 
 Det är Allāh som ger framgång.
 
+## Fotnoter
 
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^2]: Du´ā

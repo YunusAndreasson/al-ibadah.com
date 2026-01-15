@@ -18,6 +18,7 @@ description: 'Fråga: Min dotter är 30 år och hon har barn. Hon har lidit av e
 
 Har det bestämts att hon ibland återfår sitt förstånd, då måste hon be den rådande bönen när som hon är vid sunda sinnen. Likaså om det har bestämts att hon återfår förståndet under en eller ett antal dagar under ramadan[^1] av de återstående dagarna, då fastar hon enbart under de dagar som hon mår bra.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

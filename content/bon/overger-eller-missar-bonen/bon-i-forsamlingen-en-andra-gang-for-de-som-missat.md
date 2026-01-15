@@ -31,6 +31,7 @@ På detta sätt kommer dörren till splittring att stängas och sekterna uppnår
 
 Detta sker då på ett sätt som inte leder till att man överger autentiska *ahādīth[^1]* som bevisar att det är tillåtet att be en andra bön i församlingen för dem som har missat den första.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

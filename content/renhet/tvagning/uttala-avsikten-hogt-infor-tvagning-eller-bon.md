@@ -18,6 +18,7 @@ description: 'Fråga: Vilket är utlåtandet om att säga avsikten för bönen o
 
 Och Allāh är Beviljaren av framgång.
 
+## Fotnoter
 
 [^1]: Wudû´
 

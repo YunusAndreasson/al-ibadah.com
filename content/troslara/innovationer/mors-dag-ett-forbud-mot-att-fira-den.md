@@ -23,6 +23,7 @@ description: 'Fråga: Vilket är utlåtandet om att fira vad som brukar kallas f
 
 En mor förtjänar mer än att enbart firas under en av årets alla dagar. En mors rätt är att hennes barn ska ta hand om henne, försörja henne och lydas av henne i allt som inte innebär olydnad mot Allāh den Allsmäktige.
 
+## Fotnoter
 
 [^1]: De tre första generationerna i islam.
 

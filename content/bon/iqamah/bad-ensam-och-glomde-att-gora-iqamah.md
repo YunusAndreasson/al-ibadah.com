@@ -16,6 +16,7 @@ description: 'Fråga: Någon bad ensam och glömde iqāmah, får denne då be el
 
 **Svar:** *Iqāmah* är inte föreskriven för en ensam person, oavsett om det är en man eller kvinna. Iqāmah är ett meddelande till församlingen om att bönen är på väg att börja. Därför behöver en ensam tjänare inte göra detta. Ber församlingen utan böneutrop eller *iqāmah[^1]* påverka detta inte deras bön. Anledningen är att böneutropet och *iqāmah[^1]* inte är villkor för att bönen ska accepteras och de tillhör heller inte bönens pelare.
 
+## Fotnoter
 
 [^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 

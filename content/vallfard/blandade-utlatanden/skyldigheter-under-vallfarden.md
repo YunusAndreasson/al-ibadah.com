@@ -31,6 +31,7 @@ Ibn ‘Abbās med flera har förklarat denna vers när de sagt: ”*Detta avser 
 
 Och Allāh är Givaren av framgång.
 
+## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 

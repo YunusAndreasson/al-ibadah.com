@@ -18,6 +18,7 @@ description: 'Fråga: En frågeställare säger: ”Jag är en student från Med
 
 Och all framgång kommer från Allāh. Må Allāh sända välsignelser och frid över Muhammad, hans familj och följeslagare.
 
+## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

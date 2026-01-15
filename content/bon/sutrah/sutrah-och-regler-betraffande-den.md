@@ -20,6 +20,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – tillfrågades o
 
 Vi säger att det som är minimum för den är en linje och maximum är bakdelen på ett riddjurs sadel.
 
+## Fotnoter
 
 [^1]: Ett objekt i form av exempelvis en pinne, stav eller vägg. Skall vara minst en fot hög. Agerar symbolisk skiljelinje mellan den bedjande och de som passerar framför.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

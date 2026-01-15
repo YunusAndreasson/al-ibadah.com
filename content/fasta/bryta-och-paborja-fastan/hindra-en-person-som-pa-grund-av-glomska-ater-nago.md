@@ -20,6 +20,7 @@ Likaså bör en resenär inte öppet ge efter för vad som bryter fastan medan d
 
 Och Allāh är Givaren av framgång.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

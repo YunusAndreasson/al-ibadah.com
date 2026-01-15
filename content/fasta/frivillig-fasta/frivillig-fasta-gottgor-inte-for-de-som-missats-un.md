@@ -17,6 +17,7 @@ description: 'Fråga: Jag blev sjuk och det var plågsamt. Min mor tog mig till 
 
 **Svar:** Frågeställaren måste ta igen fastan från de båda omnämnda månaderna. Detta beror på den generella innebörden av Allāhs den Upphöjdes ord: ”*Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarande antal dagar*.” [Koranen 2:185] Det som frågeställaren har nämnt om att fasta tre dagar under varje månad, om hennes avsikt med detta är att ta igen den fasta som hon har utelämnat under dessa två månader, då är denna avsikt korrekt. Hon måste fasta det som återstår av de två månaderna. Om hennes avsikt med detta är att fasta frivilligt, då avklarar hon inte skyldigheten på detta sätt. Hon måste fortfarande fasta två hela månader och hon behöver inte skänka mat tillsammans med fastan därför att på grund av sjukdomen är hon ursäktad för sitt uppskjutande.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

@@ -24,6 +24,7 @@ Shaykhen sade som kommentar till denna *hadīth[^1]*:
 2. Det är inte föreskrivet att han tvättar eller sveper en icke-troende eller ber begravningsbön över denne, även om denne var en släkting. Profeten – över honom vare Allāhs frid och välsignelser – sade aldrig till ’Ali att han skulle göra det. Vore det tillåtet skulle han ha sagt så. Det är ju välkänt att profeten – över honom vare Allāhs frid och välsignelser – inte får försena förklaringen av någonting när informationen behövs. Denna åsikt har bland andra Hanbali.
 3. Det är inte föreskrivet att släktingar till en månggudadyrkare[^2] följer dennes begravning. Profeten – över honom vare Allāhs frid och välsignelser – gjorde ju inte det med sin farbror trots att han var den som var snällast och mest barmhärtig mot honom. Han till och med bad Allāh att göra hans straff till det lättaste straffet i Helvetet. I detta finns en lektion för dem som har drabbats av högmod på grund av sin härstamning och som inte strävar efter det Nästkommande hos Herren. Allāh talade verkligen sanning när Han sade: ”*Den dag då basunen ljuder ska inga släktskapsband bestå mellan dem och de kommer inte att fråga efter varandra*.” [Koranen 23:101]
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Mushrik.

@@ -35,6 +35,7 @@ Det går att välja mellan dessa tre valmöjligheter om man har: avlägsnat någ
 2. Ta reda på dess värde och ge mat av samma värde till de fattiga. Här ges varje fattig en halv *sā'*.
 3. Fasta en dag för varje fattig. Om det inte finns något som är likvärdigt med det villebråd som har jagats, då får man följande valmöjligheter: 1) Ta reda på det döda villebrådets värde och ge vad som är likvärdigt med det i mat till de fattiga. Här ges en halv sā' till varje fattig; 2) fasta en dag för varje fattig.
 
+## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.

@@ -18,6 +18,7 @@ description: 'Fråga: Får den fastande använda tandkräm dagtid medan denne fa
 
 Och Allāh är Beviljaren av framgång.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Kan liknas vid en tandborste. Gjord av Arak-trädets rötter.

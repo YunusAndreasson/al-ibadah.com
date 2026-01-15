@@ -20,6 +20,7 @@ description: 'Fråga: Vilket är utlåtandet om att upprepa samma sura i bönen?
 
 Beträffande bugningar och nedfallanden så får Allāhs tjänare förlänga dem enligt dennes iver, även om det är väldigt mycket. Men för imamen är det minst perfekta att säga: ”*Subhana Rabbial-A’la*” tre gånger och det mest perfekta för honom är att säga det tio gånger. Den som ber bakom imamen bör glorifiera Allāh så länge imamen är kvar i bugningen[^2] eller nedfallandet[^1]. Det är tillåtet att göra somliga bönecykler[^3] längre än andra, men *sunnah[^4]* är att recitationen i den första är längre än i den andra. I bugningen[^2] och nedfallandet[^1] ska bönens pelare vara lika långa.
 
+## Fotnoter
 
 [^1]: sujūd, nedfallandet när pannan läggs mot marken.
 [^2]: Ruku, bugningen när ryggen hålls parallell med marken.

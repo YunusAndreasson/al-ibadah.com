@@ -74,6 +74,7 @@ Beviset för Abū Hanīfahs och Ahmads åsikt: Det har berättats att 'Abd-Allā
 > 
 > När det gäller *iqāmah[^5]* sade Mālik, al-Shāfa'i och Ahmad att fraserna bör sägas en gång, men Ahmad sade att det var *sunnah[^1]* att säga dem två gånger. Tre av dem: Abū Hanīfah, al-Shāfa’i och Ahmad föredrog att säga *Qad qāmat il-salāh* två gånger, men Mālik gjorde det inte. Och Allāh vet bäst.” [*Majmū’ al-Fatāwa*, 22/66-69]
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Olika sorters prövningar och frestelser.

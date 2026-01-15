@@ -32,6 +32,7 @@ Vi har ovan nämnt att det är föreskrivet att säga detsamma i *sujūd al-til�
 
 Det som är obligatoriskt att säga är ”*Subhāna Rabbiy al-A’lā* [Lovprisad vare min Herre, den Högste]. Detta är obligatoriskt under nedfallandet i bön. Ytterligare åkallan[^1] eller åminnelse[^5] är rekommenderat. *Sujūd al-tilāwah*, vare sig det sker under eller utanför bön, så är det *sunnah[^6]* men inte obligatoriskt. Bevis för detta har återberättats från profeten, i *hadīth[^4]* från Zayd ibn Thābit och i en *hadīth[^4]* från ‘Umar – må Allāh vara nöjd med honom.
 
+## Fotnoter
 
 [^1]: Du´ā
 [^2]: Wudû´

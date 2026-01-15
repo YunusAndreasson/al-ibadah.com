@@ -15,6 +15,7 @@ description: 'Fråga: Vad krävs för att man ska ha möjlighet att vallfärda? 
 
 **Svar:** All lovprisan tillhör Allāh. Definitionen för möjligheten att vallfärda är: fysisk hälsa; medel för att resa till Allāhs heliga hus med flygplan, bil, riddjur eller att ha pengar till att betala transporten och tillräckligt med förnödenheter för resan dit och tillbaka. Man bör även ha pengar att ge till dem som man måste försörja tills man återvänder från vallfärden. Vallfärdar en kvinna eller gör ‘umrah[^1] bör hon även ha följe med hennes man eller en *mahram[^2]*.
 
+## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Släkting som det inte är tillåtet att gifta sig med.

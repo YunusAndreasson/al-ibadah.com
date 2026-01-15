@@ -26,6 +26,7 @@ Frågan som rör Dajjāl är därmed mycket viktig. Sannerligen är detta den st
 
 Ordet Dajjāl härleds från ordet dajl som betyder ”bedrägeri”, och han är en bedragare. [Ja,] han är den störste bedragaren och lögnaren av alla människor.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

@@ -16,6 +16,7 @@ description: 'Fråga: Vilket är utlåtandet om att skaka hand direkt efter bön
 
 **Svar:** Vi känner inte till någon grund för detta, att man ständigt skakar hand efter den obligatoriska bönen. Det är en innovation. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [*Muslim* 1718] I en annan återberättelse säger han: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [*al-Bukhārī* 2697 och *Muslim* 1718]
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

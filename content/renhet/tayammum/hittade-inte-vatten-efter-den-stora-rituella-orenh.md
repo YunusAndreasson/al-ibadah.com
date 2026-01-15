@@ -19,6 +19,7 @@ description: 'Fråga: På morgonen var jag i den stora rituella orenheten och ja
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: En rituell rening som görs med hjälp av jord/sand då det inte finns vatten tillgängligt.
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.

@@ -18,6 +18,7 @@ description: 'Fråga: En grupp gjorde sa’ī mellan as-Safa och al-Marwah. De u
 
 Om de upprepar dem från början är det inte fel. Den korrekta åsikten är dock att det är tillräckligt att utföra de två varven och avsluta *sa’ī[^1]*. Detta är den mest korrekta åsikten av de båda åsikterna bland de lärde.
 
+## Fotnoter
 
 [^1]: Vandringen mellan as-Safa och al-Marwa.
 

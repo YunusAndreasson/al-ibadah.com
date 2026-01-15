@@ -20,6 +20,7 @@ Det är föreskrivet att han säger *talbiyyah[^3]* på vägen till Mecka. Om ha
 
 I detta fall är utlåtandet för honom samma som utlåtandet om dem som gör *ʿumrah[^5]* och vallfärden tillsammans som *hajjul-tamattu'*[^6].
 
+## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Platsen där pilgrimmen träder in i ihraam.

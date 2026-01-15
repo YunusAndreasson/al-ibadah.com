@@ -18,6 +18,7 @@ description: 'Fråga: Vilka bevis finns för sändebudens och profeternas upprik
 
 Den som vill ha mer information i detta ämne bör läsa böcker om historia, *tafsīr[^1]*, *sīrah* och miraklen samt om bevis för deras profetskap. Dessa böcker har sammanställts av de lärde där de har utvecklat ämnet i detalj.
 
+## Fotnoter
 
 [^1]: Tolkning av Koranen efter givna principer.
 

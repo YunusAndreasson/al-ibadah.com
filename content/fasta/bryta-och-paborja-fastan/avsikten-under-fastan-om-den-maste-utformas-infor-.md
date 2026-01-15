@@ -17,6 +17,7 @@ description: 'Fråga: Kräver varje fastedag en avsikt eller är det tillräckli
 
 **Svar:** Det är tillräckligt att utforma avsikten under början av ramadan[^1]. Detta beror på att även om den fastande inte utformade en avsikt för varje dag under natten som föregick så var detta dennes avsikt under början av månaden. Men om fastan bryts under månaden på grund av en resa, sjukdom eller något liknande – då måste den fastande utforma en ny avsikt då den brutits genom att fastan övergetts på grund av resa, sjukdom eller liknande.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

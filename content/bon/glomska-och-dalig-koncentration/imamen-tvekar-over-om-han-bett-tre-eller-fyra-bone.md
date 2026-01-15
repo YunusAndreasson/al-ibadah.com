@@ -25,6 +25,7 @@ Det har rapporterats att profeten – över honom vare Allāhs frid och välsign
 
 Det har även rapporterats att han gjorde *taslīm[^2]* när han hade bett tre bönecykler[^1] i eftermiddagsbönen[^5] och sedan informerades om detta. Han bad då den fjärde, gjorde *taslīm[^2]*, nedföll[^6] två gånger på grund av glömskan och gjorde *taslīm[^2]* igen.
 
+## Fotnoter
 
 [^1]: Rakah.
 [^2]: Den avslutande hälsningen i bönen.

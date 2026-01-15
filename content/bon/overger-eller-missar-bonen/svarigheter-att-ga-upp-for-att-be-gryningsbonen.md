@@ -18,6 +18,7 @@ description: 'Fråga: Jag är muslim – och all lovprisan och ära tillhör All
 
 Må Allāh göra det lätt för dig och hjälpa dig att göra det som Han har föreskrivit för dig.
 
+## Fotnoter
 
 [^1]: Fajr
 

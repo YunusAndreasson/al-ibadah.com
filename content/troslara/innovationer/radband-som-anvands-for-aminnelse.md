@@ -24,6 +24,7 @@ Av dessa anledningar säger jag att det är bättre att inte använda radband. I
 
 Och Allāh den Allsmäktige vet bäst.
 
+## Fotnoter
 
 [^1]: Dhikr
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

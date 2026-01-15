@@ -18,6 +18,7 @@ description: 'Fråga: Är det nödvändigt med tvagning när man har kramats och
 
 Detta kan vara känt för många kvinnor. Kvinnan och även mannen kan tro att om det inte sker någon sädesuttömning så finns det inget behov av *ghusl[^2]*. Detta är en stor okunskap därför att intim samvaro nödvändiggör *ghusl[^2]* under alla omständigheter. Allting mindre än intim samvaro, som kramar och kyssar, nödvändiggör inte *ghusl[^2]* om det inte har skett en sädesuttömning.
 
+## Fotnoter
 
 [^1]: Wudû´
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.

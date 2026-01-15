@@ -18,6 +18,7 @@ description: 'Fråga: Är två bönecykler ett villkor för ihrām? Svar: Det ä
 
 Andra säger att det inte finns någon text om detta [att be två bönecykler[^1]] ”*En ängel kom till mig från min Herre och sade: 'Be i denna välsignade dal och säg: 'En ‘umrah[^5] under en vallfärd.*'” [*al-Bukhārī* 1534]. Innebörden som avses kan möjligen förstås som att den avser en av de fem obligatoriska bönerna och att det inte finns någon text om två bönecykler[^1] för *ihrām[^2]*. Att han gick in i *ihrām[^2]* efter den obligatoriska bönen bevisar inte att det är föreskrivet att be två särskilda bönecykler[^1] för *ihrām[^2]*. Det bevisar endast att om man går in i *ihrām[^2]* för*‘umrah[^5]* eller vallfärden, då är det bättre om man kan göra det utan problem.
 
+## Fotnoter
 
 [^1]: Rakah.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

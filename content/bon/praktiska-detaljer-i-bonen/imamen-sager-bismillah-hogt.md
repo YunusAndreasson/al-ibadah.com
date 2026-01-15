@@ -18,6 +18,7 @@ description: 'Fråga: Jag bad i moskén men hann inte be med församlingen. Jag 
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: I Guds namn.
 [^2]: Att säga Bismillah.

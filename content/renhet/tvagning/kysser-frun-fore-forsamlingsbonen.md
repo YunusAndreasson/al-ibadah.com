@@ -23,6 +23,7 @@ Baserat på detta, om en person rör en kvinna – även om det inte finns någo
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: Wudû´
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

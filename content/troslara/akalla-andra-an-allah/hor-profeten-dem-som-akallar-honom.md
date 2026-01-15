@@ -23,6 +23,7 @@ När det gäller denna hadīth[^2]: ”*Ta inte min grav till en plats för dyrk
 
 Det finns även en *hadīth[^2]* som Abu Dawūd har nedtecknat med en rapportörskedja som är hasan från Abu Hurairah: ”*När någon hälsar till mig så återlämnar Allāh min själ till mig så att jag kan hälsa tillbaka*.” [*Abu Dawūd* 2041] Den visar inte tydligt att han hör den som hälsar till honom. Istället kan det vara så att profeten besvarar hälsningen när änglarna förmedlar den till honom. Även om vi antar att han hör hälsningen så betyder det inte nödvändigtvis att han hör åkallan[^1] eller annat som sägs.
 
+## Fotnoter
 
 [^1]: Du´ā
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

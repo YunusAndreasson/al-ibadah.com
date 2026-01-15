@@ -20,6 +20,7 @@ För mannen är det bäst att träda in i *ihrām[^1]* i två vita klädesplagg 
 
 Slutsatsen är därmed att det inte är fel om någon går in i *ihrām[^1]* i ett klädesplagg som inte är vitt.
 
+## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den sju långa rundar vandringen runt Kabah.

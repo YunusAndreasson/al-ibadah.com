@@ -19,6 +19,7 @@ Och i en annan version: ”*Den som utför en handling som inte är enligt oss, 
 
 Det finns dock föreskrivet att böneutroparen efter böneutropet tyst [för sig själv] ska sända sina välsignelser över profeten. Detta utan att höja sin röst, då det är en innovation. Enligt konsensus bland de lärda tar böneutropet slut när böneutroparen har sagt: ”*Lā ilāha illAllāh*”. Enligt profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* bör dem som hör böneutropet läsa efter böneutroparen, utom då han säger ”*Hayya 'alas-Salāh*” och ”*Hayya 'alal-Falāh*”. Då säger man i stället ”*Lā Hawla wa lā Quwwata illa Billah*”. Efter detta sänder man sina välsignelser över profeten – över honom vare Allāhs frid och välsignelser – och ber om Allāhs medling.
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

@@ -18,6 +18,7 @@ description: 'Fråga: En pilgrim slaktade under vallfärden sitt offerdjur vid A
 
 På samma sätt gjorde hans följeslagare. De slaktade endast deras offerdjur i helgedomen och på så sätt följde de profeten.
 
+## Fotnoter
 
 [^1]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
 [^2]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.

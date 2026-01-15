@@ -22,6 +22,7 @@ När det gäller långa uppehåll, som en halvtimme eller mer, då är den korre
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Wudû´

@@ -33,6 +33,7 @@ I kvällsbönen[^9] och gryningsbönen[^6] görs *tahlil[^11]* tio gånger och l
 
 Och Allāh är Beviljaren av framgång.
 
+## Fotnoter
 
 [^1]: Dhikr
 [^2]: Den avslutande hälsningen i bönen.

@@ -17,6 +17,7 @@ description: 'Fråga: Är det tillåtet att regelbundet recitera sura as-Sajdah 
 
 **Svar:** Det är föreskrivet att recitera sura as-Sajdah och sura ad-Dahr [al-Insan] under gryningsbönen[^1]- och fredagsbönen. Det finns ingen invändan mot att ständigt göra detta. Men om det finns rädsla för att vissa kan tro att det är obligatoriskt att göra så, då är det tillåtet att imamen ibland inte reciterar dem.
 
+## Fotnoter
 
 [^1]: Fajr
 

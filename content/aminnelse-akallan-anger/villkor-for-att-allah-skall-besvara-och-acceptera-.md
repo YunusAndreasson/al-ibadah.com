@@ -25,6 +25,7 @@ description: 'Fråga: Vad finns det för villkor för att Allāh ska besvara och
 8. Du bör undvika aggression i åkallan[^1], för Allāh tycker inte om aggression i åkallan[^1]. Allāh säger: ”*Åkalla er Herre i det tysta med ödmjukt sinne; Han älskar inte dem som går till överdrift*.” [Koranen 7:55]
 9. Du bör inte låta åkallan[^1] hålla dig borta ifrån dina obligatoriska plikter, som den aktuella bönen. Du bör heller inte neka föräldrarnas rättigheter för att du ska åkalla. Detta antyds i berättelsen om Jurayj när han inte svarade på sin moders rop för att i stället ägna sig åt sin bön. Hon bad mot honom och Allāh prövade honom i högsta grad. al-Nawawi har berättat att de lärde har sagt: ”*Detta visar att det som han borde ha gjort var att svara henne. Han bad ju inte en obligatorisk bön utan en frivillig som kan avbrytas. Att svara till sin mor var obligatorisk och att inte lyda henne var förbjudet*.”
 
+## Fotnoter
 
 [^1]: Du´ā
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

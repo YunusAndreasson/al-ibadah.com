@@ -25,6 +25,7 @@ description: 'Fråga: Hur ber den sjuke? Svar: Den sjuke måste be de
 7. Om han varken har möjlighet att böja huvudet eller ögonen får han göra *takbīr[^5]*, buga och nedfalla[^3] med sitt hjärta. Alla kommer att få vad de har avsett.
 8. Den sjuke måste be varje bön vid dess angivna tid och han måste även göra annat som han är skyldig till och har möjlighet att göra. Har han svårt att be varje bön vid dess angivna tid, då får han slå ihop middagsbönen[^6] och eftermiddagsbönen[^7] samt kvällsbönen[^8] och nattbönen[^9]. Detta kan ske antingen genom att han ber eftermiddagsbönen[^7] vid middagsbönen[^6] och nattbönen[^9] vid kvällsbönen[^8], eller middagsbönen[^6] vid eftermiddagsbönen[^7] och kvällsbönen[^8] vid nattbönen[^9] – enligt vad som är lättast för honom. Gryningsbönen får dock varken slås ihop med bönen före eller efter den.
 
+## Fotnoter
 
 [^1]: Ruku, bugningen när ryggen hålls parallell med marken.
 [^2]: Riktningen mot Kabah i Mecka som bönen utförs mot.

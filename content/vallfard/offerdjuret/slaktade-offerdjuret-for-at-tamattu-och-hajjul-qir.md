@@ -16,6 +16,7 @@ description: 'Fråga: Vad anser ni om den som slaktar ett offerdjur för at-tama
 
 **Svar:** Den som slaktar ett offerdjur för *hajjul-tamattu'*[^2] eller *al-qarin* före *‘eid*, blint följande den som har sagt det, då krävs det inget av denne. Men denne bör i framtiden informeras [om att detta är ett misstag].
 
+## Fotnoter
 
 [^1]: Utför vallfärden och ´umrah samtidigt med en intention.
 [^2]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.

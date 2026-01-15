@@ -16,6 +16,7 @@ description: 'Fråga: Jag bad bakom en imam och jag glömde att säga tasbih und
 
 **Svar:** Du behöver inte nedfalla för glömska[^4]; varken före eller efter imamens *taslīm[^3]*. Imamen bär bördan för glömskan och inget krävs av de som ber bakom honom.
 
+## Fotnoter
 
 [^1]: Att upphöja Allāh, Subhan Allāh.
 [^2]: sujūd, nedfallandet när pannan läggs mot marken.

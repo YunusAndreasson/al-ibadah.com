@@ -51,6 +51,7 @@ Och när jag säger sura *al-Ikhlas* avser jag *ikhlas[^7]* i handlingar, för d
 
 Och Allāh är Beviljaren av framgång.
 
+## Fotnoter
 
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^2]: Du´ā

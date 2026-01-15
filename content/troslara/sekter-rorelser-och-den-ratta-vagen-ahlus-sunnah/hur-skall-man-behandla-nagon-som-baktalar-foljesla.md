@@ -35,6 +35,7 @@ Den som talar illa om dem måste rådas och påminnas om deras goda och informer
 
 De som inte har möjlighet att göra detta med deras tungor [genom tal] och deras händer, de bör hata det i hjärtat, och detta är den svagaste tron. Detta har rapporterats i autentiska *ahādīth[^1]*.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

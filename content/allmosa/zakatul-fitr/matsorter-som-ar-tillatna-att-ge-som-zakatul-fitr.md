@@ -16,6 +16,7 @@ description: 'Fråga: Vilka är de matsorter som är tillåtna att ge som zakāt
 
 **Svar:** I en *hadīth[^2]* rapporteras att det som ska ges är fem saker. Det är vete, korn, torkade dadlar, russin, och ost. Vissa lärde som har undersökt frågan har dock nämnt att man specificerade dessa fem därför att de användes under denna tid. Därför tillåter de att man ger den mat som används till vardags i landet, exempelvis ris eller spannmål i de länder där det används som mat och så vidare.
 
+## Fotnoter
 
 [^1]: Allmosa som ges före eid-bönen.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

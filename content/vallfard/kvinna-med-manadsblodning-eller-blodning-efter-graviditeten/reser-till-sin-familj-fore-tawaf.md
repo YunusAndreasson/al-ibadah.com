@@ -16,6 +16,7 @@ description: 'Fråga: Om en kvinna får sin månadsblödning innan hon utför ta
 
 **Svar:** Om en kvinna får sin månadsblödning innan *tawāf[^1] ul-ifādhah*, då väntar hennes *mahram[^2]* på henne tills hon blir ren. Är det inte möjligt får hon resa och när hon blir ren återvänder hon för att avsluta sin vallfärd. Under denna tid bör inte hennes man komma nära henne [för att ha intim samvaro]. Har hon inte möjlighet att återvända, kanske hon bor i ett avlägset land, då kan hon försöka hålla tillbaka blödningen och utföra *tawāf[^1]* [eftersom det är nödvändigt].
 
+## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Släkting som det inte är tillåtet att gifta sig med.

@@ -18,6 +18,7 @@ description: 'Fråga: En ung man ledde oss i bön och efter bönen började han 
 
 Och Allāh är Beviljaren av framgång.
 
+## Fotnoter
 
 [^1]: Att upphöja Allāh, Subhan Allāh.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

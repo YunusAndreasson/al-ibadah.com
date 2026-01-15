@@ -18,6 +18,7 @@ description: 'Fråga: Räcker det att göra iqāmah utan böneutrop när tiden f
 
 *Iqāmah* är föreskriven för att meddela dem som är samlade att bönen är på väg att börja. Om det då endast finns en tjänare är det inte obligatoriskt att göra *iqāmah[^1]*.
 
+## Fotnoter
 
 [^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 

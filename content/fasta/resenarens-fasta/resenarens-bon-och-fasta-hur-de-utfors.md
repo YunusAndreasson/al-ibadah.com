@@ -39,6 +39,7 @@ När det gäller resenärens fasta under ramadan[^10] är det bättre att fasta 
 
 All lovprisan tillhör Allāh, världarnas Herre.
 
+## Fotnoter
 
 [^1]: Rakah.
 [^2]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.

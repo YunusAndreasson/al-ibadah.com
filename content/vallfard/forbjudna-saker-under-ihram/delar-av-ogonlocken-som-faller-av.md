@@ -20,6 +20,7 @@ Vad du nämnt – om ett hår som ramlade från ögonlocken – då behöver du 
 
 Må Allāh ge dig framgång.
 
+## Fotnoter
 
 [^1]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
 [^2]: Du´ā

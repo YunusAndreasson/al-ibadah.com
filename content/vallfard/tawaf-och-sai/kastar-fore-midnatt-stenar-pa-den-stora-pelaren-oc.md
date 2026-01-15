@@ -24,6 +24,7 @@ Du måste även utföra *tawāf[^1]* vid något tillfälle även om det sker i s
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Wudû´

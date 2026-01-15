@@ -22,6 +22,7 @@ Notera att han sade: ”*ett rättfärdigt barn som ber för denne*.” Han sade
 
 Trots detta är ingen skada skedd om man handlar rättfärdig för en av eller båda föräldrarna. Men när det gäller vallfärden eller *ʿumrah[^1]*, då kan man inte göra *talbiyyah[^3]* om man avser att handlingen är för båda två.
 
+## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

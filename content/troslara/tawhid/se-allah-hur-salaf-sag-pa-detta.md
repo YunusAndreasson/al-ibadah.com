@@ -39,6 +39,7 @@ Att dyrka Allāh som om man ser Honom är fullständig och perfekt visshet. Där
 
 Och Allāh är den vars hjälp vi söker.
 
+## Fotnoter
 
 [^1]: De tre första generationerna i islam.
 [^2]: Du´ā

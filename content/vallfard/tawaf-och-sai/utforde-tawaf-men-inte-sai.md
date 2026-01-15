@@ -18,6 +18,7 @@ description: 'Fråga: Om någon som behövde utföra sa’ī gjorde tawāf och u
 
 Anledningen är att sammanhållning utan avbrott mellan *tawāf[^2]* och *sa’ī[^1]* inte är ett villkor. Även om mannen lämnade det avsiktligen, att han försenade *sa’ī[^1]* efter *tawāf[^2]* avsiktligen, då har han inte syndat. Det är dock bättre om *sa’ī[^1]* görs direkt efter *tawāf[^2]*.
 
+## Fotnoter
 
 [^1]: Vandringen mellan as-Safa och al-Marwa.
 [^2]: Den sju långa rundar vandringen runt Kabah.

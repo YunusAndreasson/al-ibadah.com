@@ -18,6 +18,7 @@ description: 'Fråga: I böcker med hadīth nämns att en pilgrim som är mufrid
 
 Och Allāh är den som ger framgång.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Någon som enbart vallfärdar.

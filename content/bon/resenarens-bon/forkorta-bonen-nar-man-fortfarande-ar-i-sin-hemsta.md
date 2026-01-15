@@ -19,6 +19,7 @@ Samma gäller om tidpunkten för bön kommer då du fortfarande reser, men du n�
 
 Ber du under resa ska du förkorta dina böner. Ber du när du är hemma ska du be dem fullt ut.
 
+## Fotnoter
 
 [^1]: Asr
 [^2]: Rakah.

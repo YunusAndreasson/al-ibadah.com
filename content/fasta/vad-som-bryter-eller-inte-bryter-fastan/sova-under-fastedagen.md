@@ -15,6 +15,7 @@ description: 'Fråga: Om man under ramadan måste äta sahūr och be gryningsbö
 
 **Svar:** Förhåller det sig på så vis som du har nämnt är fastan giltig. Men att fortsätta så här under dagen [att sova] är ett slöseri med tid ifrån hans sida, speciellt då ramadan[^1] är en välsignad månad. För en muslim är det passande att söka nytta ifrån det som kan hjälpa honom; genom att läsa Koranen mycket, jobba [på ett sätt som är tillåtet] och att söka kunskap.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Fajr

@@ -19,6 +19,7 @@ Om studenten är en nybörjare och därmed inte vet hur bevis ska hämtas ifrån
 
 Skulle han finna att något uttalande ifrån imamerna är felaktigt, och stå i kontrast till autentiska *ahādīth[^1]*, är det obligatoriskt för honom att följa denna *hadīth[^1]*.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

@@ -27,6 +27,7 @@ Allāh förklarar här att åkallan[^1] är en dyrkan och den som riktar en dyrk
 
 Vi ber Allāh att Han förbättrar muslimers tillstånd.
 
+## Fotnoter
 
 [^1]: Du´ā
 [^2]: Mushrik.

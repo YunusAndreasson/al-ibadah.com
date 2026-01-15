@@ -25,6 +25,7 @@ Med anledning av bevis är det tydligt att dessa högtider inte är ifrån den l
 
 Vi ber Allāh, för vår egen räkning och alla muslimer, att Han håller oss stadigt vid sanningen och låter oss undvika allt som skiljer sig ifrån Hans rena lag. Han är den mest Generöse och Ädle.
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

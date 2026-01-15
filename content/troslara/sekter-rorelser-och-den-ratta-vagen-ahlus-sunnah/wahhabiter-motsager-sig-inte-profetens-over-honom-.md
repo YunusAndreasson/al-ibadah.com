@@ -21,6 +21,7 @@ Detta är vad våra rättfärdiga föregångare följde, baserat på bevis från
 
 Vi ber Allāh att Han skyddar oss och räddar oss från allt som framkallar Hans vrede. Och Allāh är den som beviljar framgång.
 
+## Fotnoter
 
 [^1]: Tron på att det bara finns en Gud.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

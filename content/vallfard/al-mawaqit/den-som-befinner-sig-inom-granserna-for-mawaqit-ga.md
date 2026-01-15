@@ -18,6 +18,7 @@ description: 'Fråga: Var träder den som bor innanför mawaqits gränser in i i
 
 Anledningen är vad profeten – över honom vare Allāhs frid och välsignelser – har sagt i en *hadīth[^2]* återberättad av Ibn ‘Abbās: ”*Den som befinner sig inom den [vilket betyder gränserna för mawaqit], då är dennes plats för att träda in i *ihrām[^1]* var denne än börjar*.” [*al-Bukhārī* 1523 och *Muslim* 1181] I en annan version säger han: ”*Då är dennes plats för att träda in i *ihrām[^1]* med dennes folk [i dennes hem]. Likaså går invånarna i Mecka in i *ihrām[^1]* därifrån*.” [*al-Bukhārī* 1526 och *Muslim* 1181]
 
+## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

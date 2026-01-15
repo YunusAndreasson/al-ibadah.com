@@ -18,6 +18,7 @@ description: 'Fråga: Jag är en kvinna som sover väldigt djupt. Kan jag be wit
 
 Be bönen som Allāh har förpliktigat dig. Be sedan *witr[^1]* innan du går till sängs. Om du har möjlighet att vakna innan böneutropet för gryningsbönen[^2] och du vill be frivilliga böner, då syndar du inte om du ber i enheter om två utan att upprepa *witr[^1]*.
 
+## Fotnoter
 
 [^1]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 [^2]: Fajr

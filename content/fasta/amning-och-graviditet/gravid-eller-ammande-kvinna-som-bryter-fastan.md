@@ -23,6 +23,7 @@ Och dessa båda kvinnor [den gravida och den ammande] är likvärdiga med den so
 
 Om deras ursäkt är rädsla för barnets skull, då måste de föda fattiga för varje dag tillsammans med att de tar igen fastan. De får ge vete, ris, torkade dadlar eller någon annan form av mat som folket äter. Vissa lärde har sagt att det enda de behöver göra är att ta igen fastan oberoende av rådande omständigheter. Det finns inte några bevis i Skriften eller profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* som gör det nödvändigt att man ger mat [för detta]. Den grundläggande principen är frihet från ansvar fram tills bevis har lagts fram. Detta är Abū Hanifahs åsikt och den är stark.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

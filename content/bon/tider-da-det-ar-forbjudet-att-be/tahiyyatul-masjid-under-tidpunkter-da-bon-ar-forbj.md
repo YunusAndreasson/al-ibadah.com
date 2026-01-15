@@ -26,6 +26,7 @@ Dessa *ahādīth[^6]* sträcker sig till att räkna in de tidpunkter då det är
 
 Och Allāh är Beviljaren av framgång.
 
+## Fotnoter
 
 [^1]: Tahiyyatul-Msjid.
 [^2]: Fajr

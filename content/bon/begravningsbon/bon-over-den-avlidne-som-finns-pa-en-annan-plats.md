@@ -20,6 +20,7 @@ Men om begravningsbönen skulle bes över dem som inte finns på plats? I denna 
 
 Under de rättfärdiga kalifernas tid avled många som hade haft ett stort inflytande över muslimerna. Bön för den som inte var närvarande bes då inte. Den grundläggande principen i frågor om dyrkan är *at-tawqif* [att de inte ska utföras] tills det finns bevis för att de är tillåtna.
 
+## Fotnoter
 
 [^1]: Att säga Allahu Akbar.
 

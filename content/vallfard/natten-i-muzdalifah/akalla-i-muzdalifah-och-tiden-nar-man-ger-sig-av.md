@@ -18,6 +18,7 @@ description: 'Fråga: Vilket är utlåtandet om att stå i Muzdalifah [för åka
 
 De svaga kvinnorna, männen och äldre får lämna Muzdalifah[^1] under den sista halvan av natten. Profeten – över honom vare Allāhs frid och välsignelser – gav dem detta tillstånd. De som är starka är det *sunnah[^3]* för att stanna tills det har bett gryningsbönen[^4] och åminnts Allāh mycket efter bönen. Sedan beger de sig av innan solen stiger. Det är även *sunnah[^3]* att höja händerna medan man åkallar[^2] i Muzdalifah[^1]. Man står då i riktning mot *qiblah[^6]*. Hela Muzdalifah[^1] är en plats att stå vid.
 
+## Fotnoter
 
 [^1]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
 [^2]: Du´ā

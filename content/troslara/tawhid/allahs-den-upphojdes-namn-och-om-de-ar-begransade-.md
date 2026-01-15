@@ -40,6 +40,7 @@ b) Att i ens dyrkan tillämpa vad dessa namn fordrar. Genom namnet ar-Rahīm [de
 
 Detta är innebörden av att räkna upp dem, och när det förhåller sig på detta sätt är det något som gör en värdig ett inträde i Paradiset.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Kämpa för Allāhs sak.

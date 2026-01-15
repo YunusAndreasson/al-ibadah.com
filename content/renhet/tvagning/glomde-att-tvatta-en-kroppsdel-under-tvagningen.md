@@ -21,6 +21,7 @@ Men han bör veta att om han har tvivel [tvivel om han tvättat sin vänstra ell
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: Wudû´
 

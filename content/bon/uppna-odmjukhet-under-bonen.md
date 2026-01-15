@@ -21,6 +21,7 @@ Det är därmed en skyldighet att vara ytterst medveten när man närmar sig All
 
 Ett av de bästa sätten för att hjälpa en att uppnå ödmjukhet i bönen är att komma ihåg att man står inför Allāh och att man är nära sin Herre den Allsmäktige.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Ruku, bugningen när ryggen hålls parallell med marken.

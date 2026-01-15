@@ -22,6 +22,7 @@ Vi kan då säga att lätt sömn inte gör tvagning[^2] ogiltig. Denna åsikt st
 
 Genom Allāh uppnås framgång. Må frid och välsignelser vara över Muhammad, hans familj och hans följeslagare.
 
+## Fotnoter
 
 [^1]: Fajr
 [^2]: Wudû´

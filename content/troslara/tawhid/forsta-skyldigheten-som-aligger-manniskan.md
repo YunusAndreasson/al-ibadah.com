@@ -22,6 +22,7 @@ Detta är då den första skyldigheten för tjänaren, att de vittnar om Allāhs
 
 Det är genom Allāhs enhet och vittnesmålet om att Muhammad är Hans sändebud som uppriktighet och efterföljande av sändebudet, som är ett förkrav för att dyrkan ska accepteras, kommer att förverkligas. Detta är då den första skyldigheten för tjänarna i att de måste särskilja Allāh som den ende sanne guden att dyrka och att vittna om att Muhammad är Hans sändebud. Därmed omfattar vittnesmålet – *Lā ilāha illAllāh* – hela *tawhīd[^1]*.
 
+## Fotnoter
 
 [^1]: Tron på att det bara finns en Gud.
 

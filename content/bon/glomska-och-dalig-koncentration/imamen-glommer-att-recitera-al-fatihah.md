@@ -18,6 +18,7 @@ description: 'Fr책ga: Om imamen gl철mmer att recitera al-F훮tihah i den sista b�
 
 Och genom All훮h uppn책s framg책ng.
 
+## Fotnoter
 
 [^1]: Rakah.
 [^2]: Ruku, bugningen n채r ryggen h책lls parallell med marken.

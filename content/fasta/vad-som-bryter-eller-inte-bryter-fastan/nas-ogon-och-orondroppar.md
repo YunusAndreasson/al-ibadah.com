@@ -26,6 +26,7 @@ På liknande sätt är det om någon använde en salva som behandling, eller av 
 
 Och på samma sätt om den fastande inte kan andas och använder en inhalator som blåser in i munnen för att göra andningen lättare, då leder det heller inte till att fastan bryts då detta inte når magen och därmed inte är mat eller dryck.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Wudû´

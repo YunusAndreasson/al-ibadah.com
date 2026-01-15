@@ -20,6 +20,7 @@ Och Allāh vet bäst.
 
 Må Allāhs sända frid och välsignelser över vår profet Muhammad.
 
+## Fotnoter
 
 [^1]: Tahiyyatul-Msjid.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

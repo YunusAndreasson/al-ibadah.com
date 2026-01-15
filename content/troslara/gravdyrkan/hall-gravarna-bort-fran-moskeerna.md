@@ -28,6 +28,7 @@ Muslim har även återgivit att profeten – över honom vare Allāhs frid och v
 
 Må Allāhs frid och välsignelser vara över profeten Muhammad, hans familj och följeslagare.
 
+## Fotnoter
 
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

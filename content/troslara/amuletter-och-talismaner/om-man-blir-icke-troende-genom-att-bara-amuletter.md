@@ -26,6 +26,7 @@ Shaykh ʿAbdur-Rahmān bin Hasan ash-Shaykh har sagt: ”Jag säger att detta ä
 
 Den andra åsikten är att de är tillåtna. Detta anser ʿAbdullāh bin 'Amr bin al-'As, och det är uppenbart från vad ‘Ā’ishāh – må Allāh vara nöjd med henne – har rapporterat. Det anser även Abū Ja'far al-Baqir och Ahmad, enligt en återberättelse från honom. När det gäller hadithen: ”*Sannerligen är besvärjelser, amuletter och tiwalah[^2] shirk[^3]*”, [*Abū Dawūd* 3883, *Ahmad* 1:381 och *Ibn Mājah* 3530] anser de att den endast avser de typer som innehåller *shirk[^3]*.
 
+## Fotnoter
 
 [^1]: Generationen som kom efter följeslagarna.
 [^2]: En trollformel som används för att skapa kärlek mellan maken och makan.

@@ -22,6 +22,7 @@ På samma sätt är *sunnah[^5]* för gryningsbönen[^3] ett undantag. Den kan b
 
 Och Allāh är Beviljaren av framgång.
 
+## Fotnoter
 
 [^1]: Asr
 [^2]: Den sju långa rundar vandringen runt Kabah.

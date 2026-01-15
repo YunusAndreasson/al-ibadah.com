@@ -23,6 +23,7 @@ Detta innebär att man inte bör resa någonstans för att dyrka, därför de pl
 
 Allāh är Beviljaren av framgång.
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

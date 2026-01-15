@@ -16,6 +16,7 @@ description: 'Fråga: Vilket är utlåtandet om den som vallfärdade och lämnad
 
 **Svar:** Den som lämnar Arafat[^1] innan solnedgången måste offra ett djur [i gottgörelse] enligt de flesta lärde. Återvänder denne innan kvällen behöver denne inte offra något. Offret sker genom att denne slaktar ett djur som sedan delas ut till det fattiga vid Helgedomen.
 
+## Fotnoter
 
 [^1]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
 

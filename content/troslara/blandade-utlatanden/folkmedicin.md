@@ -22,6 +22,7 @@ De som använder folkmedicin har lärt sig dessa mediciner genom erfarenhet och 
 
 Därmed finns det ingen invändan mot att lära sig om denna form av medicin, eller att låta sig behandlas med den. Frågeställaren bör läsa boken *at-Tibb an-Nabawi* av Ibn al-Qayyim, en annan bok med samma titel från ath-Thahabi, *al-Adab ash-Shar'iah* av Ibn Muflih samt *Tashīlul-Manafi*.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

@@ -58,6 +58,7 @@ Dessa böcker är speciellt nyttiga för högskole- och universitetsstudenter. E
 
 Jag ber Allāh den Allsmäktige att Han gör dig stadig vid sanningen och att Han ger dig nyttig kunskap med vägledning för att applicera den. Han är den bäste att fråga vid tider av behov.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

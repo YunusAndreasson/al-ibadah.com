@@ -16,6 +16,7 @@ description: 'Fråga: Finns det någon autentisk hadīth som visar att bön bako
 
 **Svar:** Enligt vad vi känner till finns det inga autentiska bevis som visar att bön bakom någon som rakar sitt skägg är ogiltig.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

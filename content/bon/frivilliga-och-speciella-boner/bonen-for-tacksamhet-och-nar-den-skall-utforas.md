@@ -16,6 +16,7 @@ description: 'Fråga: När ska nedfallandet av tacksamhet för Allāh [ sajdatus
 
 **Svar:** Nedfallandet av tacksamhet görs när någon katastrof har avvärjts eller när man har fått någon välsignelse. Likt nedfallandet för recitation sker den utanför bönen. Vissa lärde anser att den kräver tvagning[^1] och *takbīr[^2]* medan andra anser att den enbart kräver den första *takbīr[^2]* för att man därefter ska falla ned och åkalla efter att ha sagt ”*Subhana rabbiyal-A’la*”.
 
+## Fotnoter
 
 [^1]: Wudû´
 [^2]: Att säga Allahu Akbar.

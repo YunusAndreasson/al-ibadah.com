@@ -25,6 +25,7 @@ Svaret på den andra frågan, där frun inte ber, är att det är upp till manne
 
 En muslim får inte gifta sig med någon som inte tror och som har lämnat islam. Om detta utträde äger rum efter äktenskapet, då upphävs det. Om hon sedan återvänder till islam efter hennes vänteperiod har gått ut, då är hon fortfarande hans fru, men om hon inte gör det, då måste hon skilja sig från honom.
 
+## Fotnoter
 
 [^1]: sujūd, nedfallandet när pannan läggs mot marken.
 

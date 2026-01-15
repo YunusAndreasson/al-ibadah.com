@@ -20,6 +20,7 @@ Att göra det på detta sätt är därför en grundlös och vedervärdig innovat
 
 Må frid och välsignelser vara över vår profet Muhammad, över hans familj och följeslagare.
 
+## Fotnoter
 
 [^1]: Generationen som kom efter följeslagarna.
 

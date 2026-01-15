@@ -18,6 +18,7 @@ description: 'Fråga: Vilket är utlåtandet om någon som tvagar sig och tvätt
 
 Det finns en *hadīth[^2]* som ad-Daraqutni har rapporterat [al-Hakim har autenticierat den] i vilken han berättar att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om någon tvagar sig och sedan tar på sina lädersockar*.” Hans ord: ”*Om någon tvagar sig*” kan tänkas ge övervikt för den första åsikten. Den som inte har tvättat sin vänstra fot kan ju uppriktigt sagt inte påstås ha tvagat sig. Med detta som grund är detta den starkare åsikten.
 
+## Fotnoter
 
 [^1]: Wudû´
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

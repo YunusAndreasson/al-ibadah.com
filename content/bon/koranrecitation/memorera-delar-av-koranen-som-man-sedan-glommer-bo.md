@@ -22,6 +22,7 @@ Det som verkligen är märkligt är att vissa fruktar Allāh till sådan grad at
 
 Du bör memorera Koranen och sedan underhålla vad du har memorerat genom att gå igenom igen. Glömmer du sedan av naturliga skäl och inte eftersom du har vänt dig bort från Koranen eller eftersom du försummar den, då kommer det inte att skada dig och du har inte syndat.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

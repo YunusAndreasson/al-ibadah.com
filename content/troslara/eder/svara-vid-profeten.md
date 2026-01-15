@@ -38,6 +38,7 @@ Att svära vid någon annan eller något annat än Allāh är, enligt de förra 
 
 Vi ber Allāh att Han skyddar muslimerna mot detta och att Han ger dem kunskap om deras religion samt säkerhet mot det som gör Honom arg. Han är Den som hör allt och som alltid är nära.
 
+## Fotnoter
 
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

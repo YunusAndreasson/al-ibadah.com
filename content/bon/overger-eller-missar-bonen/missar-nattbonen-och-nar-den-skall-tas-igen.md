@@ -27,6 +27,7 @@ Nattbönen[^1] skiljer sig inte från någon annan bön. Vaknar han och tiden f�
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: Isha
 [^2]: Fajr

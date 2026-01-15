@@ -18,6 +18,7 @@ description: 'Fråga: Hur tar man igen missade böner? Svar: Har du med en gilti
 
 Och Allāh förlåter onda handlingar.
 
+## Fotnoter
 
 [^1]: Dhuhr
 

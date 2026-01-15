@@ -22,6 +22,7 @@ Kände du inte till denne regel eller om du glömde bort den, då krävs det ing
 
 Och framgång kommer från Allāh. Må Allāh sända välsignelser över vår profet Muhammad.
 
+## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

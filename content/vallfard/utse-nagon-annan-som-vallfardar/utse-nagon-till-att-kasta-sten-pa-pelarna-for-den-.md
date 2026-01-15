@@ -19,6 +19,7 @@ description: 'Fråga: Vilket är utlåtandet om att utse någon till att kasta s
 
 En stark kvinna måste dock själv kasta stenarna. Den som inte kan göra det under middagen kan kasta stenarna på kvällen. Den som inte kan kasta stenarna på *‘eid*-dagen [tionde *dhul-hijjah[^1]*] kan göra det på kvällen som är den elfte natten, på *‘eid*-dagen. Den som inte kan göra det den elfte dagen kan kasta dem på kvällen [vilket är den tolfte natten]. Den som inte kan kasta dem den tolfte dagen eller som har missat att kasta dem efter middagen, denne kan kasta dem på kvällen [vilken är den trettonde natten]. Möjligheten att kasta stenarna är inte över förrän vid gryningsbönen[^2] [vid morgonen den trettonde *dhul-hijjah[^1]*]. Under dagstid får man inte kasta stenarna förrän efter middag under *ayyām at-tashrīq*.
 
+## Fotnoter
 
 [^1]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 [^2]: Fajr

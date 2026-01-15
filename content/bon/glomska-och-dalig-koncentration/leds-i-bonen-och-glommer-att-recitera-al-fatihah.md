@@ -22,6 +22,7 @@ Han beordrade inte honom att ta igen den utan han sade endast att han inte skull
 
 Och Allāh är Beviljaren av framgång.
 
+## Fotnoter
 
 [^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 [^2]: Rakah.

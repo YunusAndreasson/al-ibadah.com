@@ -25,6 +25,7 @@ Den som alltid gör qunūt[^1] och följer shafi'i-skolan bör inte kritiseras, 
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: En åkallan som kan läsas under den nattliga witr-bönen.
 [^2]: Fajr

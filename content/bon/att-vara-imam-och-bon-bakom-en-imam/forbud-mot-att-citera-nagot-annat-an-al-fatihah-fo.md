@@ -24,6 +24,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*N
 
 Det enda undantaget är recitation av al-Fātihah, enligt den *hadīth[^1]* som nämnts tidigare och den generella innebörden av orden: ”*Det finns ingen bön för den som inte reciterar Fātihah al-Kitāb*.” [*al-Bukhārī* 756 och *Muslim* 394]
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

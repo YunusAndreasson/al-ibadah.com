@@ -22,6 +22,7 @@ Detta är ett bevis för att munnen bör rengöras med en *miswāk[^2]* när den
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: Wudû´
 [^2]: Kan liknas vid en tandborste. Gjord av Arak-trädets rötter.

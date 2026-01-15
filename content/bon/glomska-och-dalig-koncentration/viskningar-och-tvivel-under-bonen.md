@@ -23,6 +23,7 @@ Om du avslutar bönen eller tvagningen[^3] och får tvivel, undvik dem då och g
 
 Må Allāh skydda oss från djävulen.
 
+## Fotnoter
 
 [^1]: Rakah.
 [^2]: Vad man läser i den sittande positionen under bönen.

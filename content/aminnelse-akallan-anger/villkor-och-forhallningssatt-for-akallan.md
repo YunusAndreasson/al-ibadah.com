@@ -33,6 +33,7 @@ Beträffande olika situationer och kroppshållningar är det mer sannolikt att f
 
 > ”Närmast är man sin Herre då man nedfaller[^3].” [*Muslim* 482]
 
+## Fotnoter
 
 [^1]: Du´ā
 [^2]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.

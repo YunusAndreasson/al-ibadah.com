@@ -38,6 +38,7 @@ Hadithen från Abū Hurairah i vilken det sägs: ”*Den som leds av en imam, im
 
 När ska den som leds recitera sura al-Fātihah om imamen inte är tyst? Denne reciterar sura al-Fātihah medan imamen reciterar. Följeslagarna brukade recitera med profeten – över honom vare Allāhs frid och välsignelser – och han har ju sagt: ”*Gör inte så utom ummul-Qur’ān, för det finns ingen bön för den som inte reciterar den*.” [*Imam Ahmad* 5:316]
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Fajr

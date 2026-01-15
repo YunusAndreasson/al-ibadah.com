@@ -18,6 +18,7 @@ description: 'Fråga: Vilket är utlåtandet om tawarruk i bönen? Gäller det f
 
 Beträffande män och kvinnor: Ja, det har bekräftats för både män och kvinnor. Detta beror på att den grundläggande principen är att män och kvinnor är likvärdiga inför den islamiska lagens utlåtanden om det inte finns rättsliga bevis som visar något annat. Det finns inga autentiska bevis för att en kvinnas bön skiljer sig från en mans, faktum är att de är på samma sätt.
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Vad man läser i den sittande positionen under bönen.

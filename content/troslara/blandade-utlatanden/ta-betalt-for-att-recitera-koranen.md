@@ -75,6 +75,7 @@ Den *hadīth[^1]* som du citerade i din fråga känner vi inte till äktheten i.
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Dhikr

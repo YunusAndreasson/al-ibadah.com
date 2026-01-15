@@ -16,6 +16,7 @@ description: 'Fråga: Somliga undviker att använda miswāk under ramadan då de
 
 **Svar:** Att avstå från att använda *miswāk[^1]* dagtid under ramadan[^2] eller under andra dagar utanför ramadan[^2] när någon fastar saknar grund. Detta beror på att användandet av *miswāk[^1]* är en *sunnah[^3]*. I en autentisk *hadīth[^4]* nämns: ”*Renande för munnen och behagande för Herren*.” [*an-Nasā’i* 5] Det är föreskrivet speciellt under tvagningen[^5] [för bönen], när man reser sig efter att ha sovit, när man går in i ett hus, när man fastar och vid andra tidpunkter. Det fördärvar inte fastan om inte miswāk[^1] har en smak och inverkan på saliven. I sådant fall bör du inte svälja dess smak. Och på samma sätt om lite blod kommer från tandköttet när du använder *miswāk[^1]*, då bör du inte svälja det. Om du varsamt undviker detta så påverkar det inte fastan.
 
+## Fotnoter
 
 [^1]: Kan liknas vid en tandborste. Gjord av Arak-trädets rötter.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

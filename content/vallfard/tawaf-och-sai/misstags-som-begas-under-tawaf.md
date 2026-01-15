@@ -34,6 +34,7 @@ Gällande dessa handlingar är folk antingen:
 
 Dessa är de felaktigheter som vi har uppmärksammat under *tawāf[^1]*. Vi hoppas att Allāh kommer att vägleda våra muslimska bröder att ställa saker och ting till rätta så att deras *tawāf[^1]* kommer att var enligt Allāhs sändebuds *sunnah[^5]*, för den bästa vägledningen är Muhammads vägledning. Religionen baseras inte på känslor och böjelser utan i stället baseras den på det som har återberättats från Allāhs sändebud.
 
+## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Den lilla vallfärden.

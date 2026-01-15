@@ -21,6 +21,7 @@ description: 'Fråga: En kvinna led av blodproppar och läkarna förbjöd henne 
 
 Är någon sjuk och det inte förvänts att denne kommer att tillfriskna, då måste denne föda en fattig för varje dag [under ramadan[^1]]. Sättet den fattige föds på är genom att dela ut mat, som exempelvis ris. Det är bättre om de får det tillsammans med någon annan mat, som kött eller liknande. Det går också bra att bjuda in de fattiga på middag eller lunch. Detta är utlåtandet om en sjukling som inte förväntas tillfriskna. Kvinnan som frågeställaren har nämnt hamnar i denna kategori. Denne måste då föda en fattig för varje dag.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

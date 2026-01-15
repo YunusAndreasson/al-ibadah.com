@@ -16,6 +16,7 @@ description: 'Fråga: Vad avses med denna hadīth : ” Det finns ingen fasta f�
 
 **Svar:** Avsikten är att hjärtat bestämmer sig för att fasta. Detta är nödvändigt för varje muslim som vet att Allāh har gjort fastan under ramadan[^2] till en skyldighet. För den som vet att detta är en skyldighet att hålla sig till är det tillräckligt att utforma avsikten under natten. Det är också tillräckligt att inombords säga att man kommer att fasta nästa dag om det inte finns någon ursäkt för att inte göra det. Likaså är det tillräckligt att äta sahūr med denna intention. Denne behöver inte med ord uttala avsikten inför fastan eller inför någon annan dyrkan. Platsen för avsikten är i hjärtat. Ackompanjemang av dess utlåtande är obligatoriskt under hela dagen genom att man inte har avsikten att bryta eller ogiltigöra fastan.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

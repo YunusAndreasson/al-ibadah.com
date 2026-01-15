@@ -22,6 +22,7 @@ Beviset för detta är en *hadīth[^3]* återgiven i Abū Dawūds *Sunan* med en
 
 Mitt råd till dem som på något sätt är inblandade i detta är att ångra sig inför Allāh, be om Hans förlåtelse, att endast vara beroende av Honom och att sätt hela sin tillit till Honom i alla frågor – samtidigt som de praktiska metoder som finns föreskrivna eller tillåtna i den islamiska lagen följs. De bör överge detta beteende från tiden före islam och undvika att tillfråga personer som praktiserar det eller tro på vad de säger av olydnad mot Allāh och Hans sändebud samt för att skydda sin islamiska hängivelse och sin *ʿaqīdah*.
 
+## Fotnoter
 
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^2]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.

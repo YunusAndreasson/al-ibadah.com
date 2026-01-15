@@ -12,7 +12,7 @@ const categories = [
   { slug: 'bon', name: 'Bön', description: 'Böner och bönetider' },
   { slug: 'allmosa', name: 'Allmosa', description: 'Zakāt och välgörenhet' },
   { slug: 'fasta', name: 'Fasta', description: 'Ramadan och fasta' },
-  { slug: 'vallfard', name: 'Vallfärd', description: "Hajj och 'Umrah" },
+  { slug: 'vallfard', name: 'Vallfärd', description: 'Hajj och ʿUmrah' },
   { slug: 'blandat', name: 'Blandat', description: 'Övriga ämnen' },
 ]
 

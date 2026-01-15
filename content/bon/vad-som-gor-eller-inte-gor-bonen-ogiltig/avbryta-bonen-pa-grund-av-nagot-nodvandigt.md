@@ -16,6 +16,7 @@ description: 'Fråga: Jag bad förmiddagsbönen i mitt hem och när jag hade gjo
 
 **Svar:** Det finns ingen invändan mot att avbryta bönen – även om det skulle vara en obligatorisk bön – på grund av något nödvändigt som du har nämnt. Personen som knackar på dörren kan höja sin röst, knacka högre eller till och med banka på dörren. Detta kan orsaka irritation och göra så att man inte ber på det sätt som krävs. Att bryta bönen utan en nödvändig anledning är inte tillåtet, men om man gör så och sedan upprepar bönen, då har man inte syndat, om Allāh vill krävs det ingen gottgörelse för detta, utom att man vänder sig till Allāh i ånger.
 
+## Fotnoter
 
 [^1]: Dhuha
 [^2]: Att säga Allahu Akbar.

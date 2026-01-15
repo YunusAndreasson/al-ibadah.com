@@ -18,6 +18,7 @@ description: 'Fråga: Bevisas en mans tro genom att han besöker moskén? Detta 
 
 Frågeställaren säger att det har nämnts i en *hadīth[^1]* att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om du ser en man som ofta besöker moskén, vittna då om dennes tro*.” [*at-Tirmithi* 2617] Denna *hadīth[^1]* är falsk och den har inte autentiskt rapporterats från honom [profeten].
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

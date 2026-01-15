@@ -16,6 +16,7 @@ description: 'Fråga: Efter bönen åkallar vissa högt och ofta åkallar de med
 
 **Svar:** Åkallan efter dem fem obligatoriska bönerna och *sunnah[^2]*-bönerna är en avskyvärd innovation. Inget har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – eller hans följeslagare om detta. De som åkallar[^1] efter de obligatoriska bönerna eller *sunnah[^2]*-bönerna i församlingen motsäger sig *ahlus-sunnah[^2]*. Att de anklagar de som inte gör det eller motsäger sig dem för att vara icke-troende är okunskap, avvikelse och en omvändelse av sanningen från deras sida.
 
+## Fotnoter
 
 [^1]: Du´ā
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

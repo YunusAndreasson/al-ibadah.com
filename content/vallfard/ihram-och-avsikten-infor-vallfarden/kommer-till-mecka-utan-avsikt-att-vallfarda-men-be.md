@@ -21,6 +21,7 @@ Men om han avser att göra *‘umrah[^2]* måste han ta sig utanför helgedomen,
 
 Men den som vill vallfärda säger *talbiyyah[^4]* i bostaden, oavsett om den ligger innaför eller utanför helgedomen. Detta har vi nämnt tidigare.
 
+## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.

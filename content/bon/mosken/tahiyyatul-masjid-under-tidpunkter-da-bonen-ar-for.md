@@ -19,6 +19,7 @@ description: 'Fråga: Är hälsningsbönen till moskén tillåten efter eftermid
 
 De *ahādīth[^5]* som förbjuder bön vid soluppgång, solnedgång, när solen står mitt på himlen och efter eftermiddagsbönen[^2] samt kvällsbönen[^6], måste förstås som att de gäller frivilliga böner och inte de obligatoriska eller de som inte är obligatoriska men som har en speciell anledning. Böner med en speciell anledning kan vara hälsningsbönen till moskén[^1] och de två bönecykler[^4] na efter *tawāf[^7]*. Dessa bes efter eftermiddagsbönen[^2] och gryningsbönen[^3] och vid andra tider då bön vanligtvis är förbjuden.
 
+## Fotnoter
 
 [^1]: Tahiyyatul-Msjid.
 [^2]: Asr

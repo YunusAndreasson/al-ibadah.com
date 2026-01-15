@@ -25,6 +25,7 @@ Att åkalla när man besöker den avlidnes grav har också bekräftats. Allāhs 
 
 Må Allāh sända frid och välsignelser över profeten Muhammad, hans familj och hans följeslagare.
 
+## Fotnoter
 
 [^1]: Du´ā
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

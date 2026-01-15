@@ -20,6 +20,7 @@ Det råder ingen tvekan om att Jiddah ligger inom *mawaqits* gränser. Den som d
 
 Må böner med välsignelser och frid vara över vår profet Muhammad, hans familj och följeslagare.
 
+## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.

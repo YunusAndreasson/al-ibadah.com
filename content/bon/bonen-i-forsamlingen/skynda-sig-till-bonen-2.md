@@ -18,6 +18,7 @@ description: 'Fråga: Många muslimer anstränger sig mycket för att inte missa
 
 Det är *sunnah[^1]* att närma sig bönen lugnt och stilla, i normalt tempo, med ödmjukhet, utan att hasta tills man når en rad. Detta är profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*.
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

@@ -27,6 +27,7 @@ Det är förbjudet av ett antal olika anledningar:
 
 Därför har de lärde sagt att det inte är obligatoriskt med omskärelse för en vuxen om det finns någon rädsla för att något av detta ska drabba denne.
 
+## Fotnoter
 
 [^1]: Det naturliga tillstånd som människan föds i.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

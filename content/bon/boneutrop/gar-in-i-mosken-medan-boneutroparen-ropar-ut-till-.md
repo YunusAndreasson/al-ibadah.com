@@ -16,6 +16,7 @@ description: 'Fråga: Vad är bäst att göra om man går in i moskén medan bö
 
 **Svar:** Det bästa är att svara efter böneutroparen och därefter åkalla genom att använda de ord som har rapporterats [från profeten]. Därefter hälsar man på moskén [ber två bönecykler[^1]]. Vissa lärde har här gjort ett undantag för den som går in i moskén när böneutroparen gör det andra böneutropet under fredagen. Denne bör be hälsningsbönen till moskén[^2] för att höra predikan [denne bör be den medan böneutropet ropas ut för att inte missa något av predikan]. De rättfärdigar detta genom att säga att det är en skyldighet att lyssna till predikan medan det inte är det [en skyldighet] att besvara böneutroparen. Uppfyllandet av en skyldighet väger tyngre än utförandet av något som inte är en skyldighet.
 
+## Fotnoter
 
 [^1]: Rakah.
 [^2]: Tahiyyatul-Msjid.

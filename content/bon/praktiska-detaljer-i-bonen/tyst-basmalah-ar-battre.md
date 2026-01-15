@@ -20,6 +20,7 @@ Ett flertal andra *ahādīth[^1]* med samma innebörd har rapporterats. I några
 
 Det finns dock utrymme för flexibilitet och detta ska inte leda till dispyter. Om imamen ibland reciterar högt för att Allāhs tjänare ska höra honom, då finns det ingen invändan mot det även om grundregeln är att detta ska läsas tyst. Allt enligt autentiska *ahādīth[^1]*.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: I Guds namn.

@@ -18,6 +18,7 @@ description: 'Fråga: Jag brukade onanera och jag gjorde då inte ghusl . Jag ba
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Rakah.

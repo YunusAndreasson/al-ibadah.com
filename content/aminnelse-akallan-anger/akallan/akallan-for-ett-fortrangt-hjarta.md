@@ -18,6 +18,7 @@ description: 'Fråga: Vilken är den bästa åkallan man kan göra om man känne
 
 > ”Ingen har rätten till att dyrkas förutom Allāh, den Magnifike, den Tålmodige. Ingen har rätten att bli dyrkad förutom Allāh, Herren över den Magnifika tronen. Ingen har rätten att bli dyrkad förutom Allāh, himlarnas Herre, jordens Herre och Herren över den ädla tronen.” [*al-Bukhārī* 6346 och *Muslim* 2730]
 
+## Fotnoter
 
 [^1]: Du´ā
 

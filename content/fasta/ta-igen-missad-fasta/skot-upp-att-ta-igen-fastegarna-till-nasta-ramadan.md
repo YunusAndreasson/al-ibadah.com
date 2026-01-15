@@ -16,6 +16,7 @@ description: 'Fråga: Vilket är utlåtandet om någon som inte fastar en enda d
 
 **Svar:** Om denne med en ursäkt, som sjukdom eller liknande, sköt upp att ta igen dagen som denne inte fastade, då krävs inget mer av denne än att denne vid möjlighet tar igen denna fasta. Om denne utan ursäkt har skjutit upp att ta igen fastan har denne handlat fel. Denne måste då ta igen dessa dagar och ge en fattig mat.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

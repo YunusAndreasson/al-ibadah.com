@@ -72,6 +72,7 @@ Allmänna böcker
 4. *Rawdat al-‘Uqalā’* av Ibn Hibbān al-Busti. Detta är en användbar bok trots dess korthet. Han har sammanställt en stor mängd användbart material och historier om de lärde, *muhaddithīn* och andra.
 5. *Siyar A’lām al-Nubalā’* av al-Dhahabi. Denna bok är mycket användbar och den islamstuderande bör läsa och hänvisa till den.
 
+## Fotnoter
 
 [^1]: Tron på att det bara finns en Gud.
 [^2]: De tre första generationerna i islam.

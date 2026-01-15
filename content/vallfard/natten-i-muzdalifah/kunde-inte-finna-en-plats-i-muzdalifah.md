@@ -16,6 +16,7 @@ description: 'Fråga: Vilket är utlåtandet om en pilgrim inte kan finna en pla
 
 **Svar:** Har någon inte möjlighet att stanna i Muzdalifah[^1], då är det uppenbart att denne inte har syndat. Detta beror på att skyldigheter inte gäller om det inte finns möjlighet att utföra dem.
 
+## Fotnoter
 
 [^1]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
 

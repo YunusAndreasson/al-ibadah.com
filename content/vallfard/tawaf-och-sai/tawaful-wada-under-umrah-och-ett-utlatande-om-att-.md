@@ -18,6 +18,7 @@ description: 'Fråga: Är tawāful-wadā obligatoriskt för ‘umrah och är det
 
 Man får köpa vad man vill när man har utfört *tawāf[^1] ul-wadā*. Detta kan vara vilket nödvändigt föremål som helst, även om man köper något i affärsangelägenheter, så länge tiden är kort. Om det drar ut på tiden måste man upprepa *tawāf[^1]*. Om tiden inte är vad som vanligtvis brukar anses som långt, då behöver man inte upprepa den.
 
+## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Den lilla vallfärden.

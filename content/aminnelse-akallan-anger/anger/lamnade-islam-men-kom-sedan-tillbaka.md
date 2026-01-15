@@ -19,6 +19,7 @@ description: 'Fråga: Om en muslim begår en handling som tar honom ur islam, en
 
 Hos Allāh finns medlen för att göra vad som är rätt. Må Allāh sända frid och välsignelser över Muhammad, hans familj och hans följeslagare.
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

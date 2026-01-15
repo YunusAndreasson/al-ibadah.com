@@ -60,6 +60,7 @@ Denna metod för att göra *ahādīth[^2]* förenliga är den bästa som har lag
 
 Och Allāh är Beviljaren av framgång.
 
+## Fotnoter
 
 [^1]: Den andra månaden på det islamiska året.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

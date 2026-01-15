@@ -18,6 +18,7 @@ description: 'Fråga: Hur kan man rena sig om det är omöjligt att använda vat
 
 För att rengöra orenheter [verklig smuts] kan man inte använda sig av *tayammum[^1]*, oavsett om det är på kroppen, kläderna eller marken. Syftet med att rengöra sig från orenheter är att få bort något smutsigt, det är inte ett villkor att det är en dyrkan. Detta är anledningen till att om det smutsiga oavsiktligen avlägsnas från personen eller platsen, då har renhet uppnåtts. Faller regn på den smutsiga platsen eller det smutsiga plagget och smutsen försvinner på detta sätt, då rengörs det även om man inte är medveten om det. Detta är inte fallet vid en rituell rening [som tvagning[^2] eller *tayammum[^1]*] då det är en dyrkan som för en närmare Allāh den Allsmäktige. Då krävs en avsikt och ett syfte.
 
+## Fotnoter
 
 [^1]: En rituell rening som görs med hjälp av jord/sand då det inte finns vatten tillgängligt.
 [^2]: Wudû´

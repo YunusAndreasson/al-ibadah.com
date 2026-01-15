@@ -16,6 +16,7 @@ description: 'Fråga: Jag är en ung kvinna som är sjutton år gammal. Min frå
 
 **Svar:** Du måste skynda dig med att ta igen dessa dagar även om du gör så under olika dagar. Samtidigt som du tar igen dessa dagar måste du också gottgöra dig genom att ge en fattig [mat] för varje dag. Detta beror på att fastan har skjutits upp under mer än ett år. Detta är åsikten som majoriteten av de lärda har.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

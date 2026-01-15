@@ -16,6 +16,7 @@ description: 'Fråga: Om man missar en bönecykel i gryningsbönen, bör man då
 
 **Svar:** Man avgör själv. Det är dock bättre om man slutför den tyst eftersom man kan tänkas störa någon annan om man reciterar med höjd röst.
 
+## Fotnoter
 
 [^1]: Rakah.
 [^2]: Fajr

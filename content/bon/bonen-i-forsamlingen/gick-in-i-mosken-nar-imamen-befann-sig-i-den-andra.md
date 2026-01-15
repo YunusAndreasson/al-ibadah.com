@@ -17,6 +17,7 @@ description: 'Fråga: En troende gick in i moskén när imamen befann sig i den 
 
 På samma sätt som man inte får fredagsbönen utan att få en bönecykel[^2] är så även fallet med bönen i församlingen. Om man börjar be med imamen i den sista *tashahhud[^1]* kommer man inte att få församlingsbönen. Då bör man vänta och be med en annan församling som man förväntar sig. Men om man inte förväntar sig en andra församling är det bättre att börja be med imamen för att få det som återstår av *tashahhud[^1]*. Det är bättre än att lämna den.
 
+## Fotnoter
 
 [^1]: Vad man läser i den sittande positionen under bönen.
 [^2]: Rakah.

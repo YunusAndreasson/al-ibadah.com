@@ -16,6 +16,7 @@ description: 'Fråga: Jag besökte Mecka al-Mukarramah under ramadan. Detta med 
 
 **Svar:** Om du gjorde *tawāf[^3]* och *sa’ī[^4]*, klippte håret och sedan avslutade *‘umrah[^2]* – då är denna *‘umrah[^2]* fullständig och den belönas. Besöket i Medina är inte ett krav för *ʿumrah[^2]*, det finns ingen relation här. Att besöka profetens – över honom vare Allāhs frid och välsignelser – Moské är enbart en *sunnah[^5]* som en muslim gör när det går bra att göra det.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Den lilla vallfärden.

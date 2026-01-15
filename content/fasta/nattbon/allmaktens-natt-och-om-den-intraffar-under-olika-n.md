@@ -25,6 +25,7 @@ Belöningen för Allmaktens Natt[^1] uppnås genom att den som gör detta gör d
 
 Och Allāh är Beviljaren av framgång.
 
+## Fotnoter
 
 [^1]: Laylatul-Qadr. En av de sista tio nätterna under fastemånaden. Bön under den natten är likvärdig med bön under 1000 månader.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

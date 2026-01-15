@@ -23,6 +23,7 @@ Personen som du nämner har inte syndat genom att raka sina armhålor då denne 
 
 Detta beror även på vad som har bekräftats från profeten, att Allāh har besvarat denna åkallan[^4].
 
+## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.

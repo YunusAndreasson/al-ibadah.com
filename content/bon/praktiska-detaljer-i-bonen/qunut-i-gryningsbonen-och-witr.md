@@ -26,6 +26,7 @@ Den andra delen är *qunūt[^1]* under *witr[^3]*. Det är *sunnah[^6]* men det 
 
 När det gäller frågeställarens ord ”likt kvällsbönen[^5]”, då ska man inte säga så. Anledningen är att när man ber en tre bönecykler[^4] lång *witr[^3]*-bön, då väljer man om man vill be den med två *taslīm[^7]* [man ber då två bönecykler[^4] och gör sedan *taslīm[^7]*, för att sedan be en tredje] eller om man vill be den med en *tashahhud[^8]* efterföljd av en *taslīm[^7]*. Ber man den med två *tashahhud[^8]*, då skulle den likna kvällsbönen[^5] och profeten – över honom vare Allāhs frid och välsignelser – förbjöd detta.
 
+## Fotnoter
 
 [^1]: En åkallan som kan läsas under den nattliga witr-bönen.
 [^2]: Fajr

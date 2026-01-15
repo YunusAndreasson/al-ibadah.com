@@ -18,6 +18,7 @@ description: 'Fråga: Får pilgrimen kasta stenar på pelarna för alla dagar un
 
 Det är inte tillåtet att kasta stenarna på pelarna före den rätta tiden. Det är tillåtet att skjuta upp stenkastningen om det finns ett angeläget behov av att göra det. Enligt några av de lärde kan det bero på trängsel. Detta grundas på en analogi med fåraherdar då profeten – över honom vare Allāhs frid och välsignelser – tillät dem att slå ihop två dagars stenkastning [och då är det under den andra dagen av de båda dagarna, den tolfte]. Detta ska då göras i ordningsföljd med intentionerna. Den första är för*‘eid*-dagen, sedan för den första dagen och sedan för den andra. Har man inte bråttom ge sig av, då stannar man den tredje dagen och gör *avsked-tawāf[^1]* efter detta.
 
+## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 

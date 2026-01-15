@@ -18,6 +18,7 @@ description: 'Fråga: Jag är en ung man som har hunnit bli 23 år gammal, Min f
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

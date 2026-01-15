@@ -19,6 +19,7 @@ Från Abu'l-'Alā' ibn al-Shukhayr har det berättats att 'Uthmān har sagt: ”
 
 Och Allāh är källan till all styrka. Må Allāh välsigna vår profet Muhammed, hans familj och följeslagare, och ge dem frid.
 
+## Fotnoter
 
 [^1]: Du´ā
 

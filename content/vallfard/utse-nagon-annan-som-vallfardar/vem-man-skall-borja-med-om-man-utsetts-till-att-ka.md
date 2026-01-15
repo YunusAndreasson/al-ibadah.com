@@ -22,6 +22,7 @@ Om det är en frivillig vallfärd, då är det ingen fara för honom om han bör
 
 Om han utför en obligatorisk vallfärd, då måste han dock börja med sig själv och sedan kasta stenarna för sina föräldrar.
 
+## Fotnoter
 
 [^1]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 

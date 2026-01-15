@@ -19,6 +19,7 @@ description: 'Fråga: Vilket är utlåtandet om att slå ihop eftermiddagsbönen
 
 De som befinner sig utanför deras städer får slå ihop bönerna om de uppehåller sig där under två eller tre dagar. Detta beror på att de är resenärer. Men om de befinner sig i närheten i en närbelägen stad, så att de inte anses vara resande, då får det inte slå ihop bönerna. Detta gällermiddagsbönen[^3] och eftermiddagsbönen[^1] samt kvällsbönen[^4] och nattbönen[^5] – inte fredagsbönen och eftermiddagsbönen[^1]. Det är inte tillåtet under några omständigheter.
 
+## Fotnoter
 
 [^1]: Asr
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

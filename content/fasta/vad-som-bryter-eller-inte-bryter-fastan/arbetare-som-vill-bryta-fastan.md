@@ -16,6 +16,7 @@ description: 'Fråga: Under den välsignade fastemånaden hörde jag en fredagsp
 
 **Svar:** För den som är tillräknelig är det inte tillåtet att dagtid under ramadan[^1] bryta fastan enbart på grund av arbetet. Men om denne ställs inför stora svårigheter som tvingar denne till att bryta fastan under dagen, då kan den brytas enligt vad svårigheterna kräver. Därefter bör denne avhålla sig från mat och dryck till solnedgången och bryta fastan tillsammans med folket. Vid senare tillfälle måste denne ta igen den dag då denne bröt fastan. Utlåtandet som du har nämnt är inte korrekt.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

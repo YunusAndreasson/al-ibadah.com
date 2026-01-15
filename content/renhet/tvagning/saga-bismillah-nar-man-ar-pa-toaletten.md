@@ -16,6 +16,7 @@ description: 'Fråga: Hur kan man säga Bismillah när man är på toaletten? Sv
 
 **Svar:** Befinner man sig på toaletten säger man *Bismillah[^1]* med hjärtat men inte med tungan. Detta beror på att skyldigheten att säga *Bismillah[^1]* inför tvagningen[^2] och *ghusl[^3]* inte är stark. Imam Ahmad har sagt: ”*Inget tillförlitligt har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – om att säga Bismillah[^1] när man tvagar sig*.” Därför var bland andra al-Muwaffar, författaren till *al-Mughni*, av åsikten att det är en *sunnah[^4]* att säga *Bismillah[^1]*, inte en skyldighet.
 
+## Fotnoter
 
 [^1]: I Guds namn.
 [^2]: Wudû´

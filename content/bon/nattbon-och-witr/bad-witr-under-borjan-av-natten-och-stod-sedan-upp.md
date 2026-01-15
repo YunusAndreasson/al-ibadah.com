@@ -18,6 +18,7 @@ description: 'Fråga: Om jag bad witr i början av natten och jag sedan stod fö
 
 Det finns även en *hadīth[^3]* rapporterad från ‘A’ishah där hon säger att profeten – över honom vare Allāhs frid och välsignelser – brukade be två bönecykler[^2] efter *witr[^1]* medan han satt. Visdomen i detta – och Allāh vet bäst – var att visa för folket att det är tillåtet att be efter *witr[^1]*.
 
+## Fotnoter
 
 [^1]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 [^2]: Rakah.

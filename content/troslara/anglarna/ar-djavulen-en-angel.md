@@ -29,6 +29,7 @@ När det gäller undantaget i Hans ord:
 
 Då är detta ett separat undantag, precis som man kan säga: ”Alla kom, utom en åsna.” Somliga av de lärde säger att djävulen – må Allāh förbanna honom – är en ängel som inte lydde Allāh den Upphöjde och att han envisades med att vara olydig. Djävulen förtjänar Allāhs förbannelse fram till Domedagen.
 
+## Fotnoter
 
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 

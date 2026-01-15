@@ -17,6 +17,7 @@ description: 'Fråga: Jag har under de senaste tio åren, till och från, bett A
 
 Syster, du bör inte förhasta dig; istället bör du fortsätta att åkalla även om det fortsätter så här under flera år. Du bör heller inte avvisa en likvärdig (till utseende, härstamning eller tillgångar) om han friar till dig, även om han är äldre eller redan gift. Kanske kan Allāh ge dig mycket gott i det.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Du´ā

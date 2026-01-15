@@ -20,6 +20,7 @@ Bön mellan böneutropet och *iqāmah[^3]* för kvällsbönen[^2] är en *sunnah
 
 När böneutropet ropades ut för kvällsbönen[^2] brukade följeslagarna snabbt be två bönecykler[^5] innan *iqāmah[^3]*. Profeten – över honom vare Allāhs frid och välsignelser – såg dem då och han förbjöd dem inte att göra så. Faktum är att han beordrade dem till det, något som blir tydligt i den *hadīth[^6]* som nämns ovan.
 
+## Fotnoter
 
 [^1]: Tahiyyatul-Msjid.
 [^2]: Maghrib

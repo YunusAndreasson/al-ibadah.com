@@ -24,6 +24,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – brukade be två
 
 Må Allāh hjälpa oss alla med att göra det som gör Honom nöjd.
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Rakah.

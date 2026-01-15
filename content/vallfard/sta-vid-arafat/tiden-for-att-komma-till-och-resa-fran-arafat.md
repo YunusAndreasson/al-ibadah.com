@@ -20,6 +20,7 @@ description: 'Fråga: När beger sig en pilgrim [under vallfärden] till Arafat 
 
 Han höjer sina händer när han gör åkallan[^7], och han prisar Allāh samt sänder välsignelser över profeten – över honom vare Allāhs frid och välsignelser – innan han åkallar[^7]. Han vänder sig i riktning mot *qiblah[^9]* och hela Arafat[^1] är en plats att stå på. När solen har försvunnit är det föreskrivet att pilgrimen med lugn och värdighet beger sig till Muzdalifah[^10] och säger mycket *talbiyyah[^8]*. När de når Muzdalifah[^10] ber de kvällsbönen[^11] och nattbönen[^12] [sammanslagna] med ett böneutrop och två *iqāmah[^5]*. Kvällsbönen blir då tre bönecykler[^13] och nattbönen[^12] två bönecykler[^13].
 
+## Fotnoter
 
 [^1]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
 [^2]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.

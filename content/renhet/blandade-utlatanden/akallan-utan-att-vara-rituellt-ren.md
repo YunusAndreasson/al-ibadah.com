@@ -20,6 +20,7 @@ Icke desto mindre är det mer troligt att din åkallan[^1] besvaras om du befinn
 
 Profeten har sagt: ”*Tjänaren är närmast sin Herre när han nedfaller[^3], så åkalla ofta där*.” [*Muslim* 482]
 
+## Fotnoter
 
 [^1]: Du´ā
 [^2]: Wudû´

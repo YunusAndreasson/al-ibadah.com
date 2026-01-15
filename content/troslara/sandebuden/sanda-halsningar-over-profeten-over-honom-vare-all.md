@@ -22,6 +22,7 @@ Det är en skyldighet och då det inte finns något i versen som pekar på att d
 
 Må frid och välsignelser vara över vår profet Muhammad, hans familj och följeslagare.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

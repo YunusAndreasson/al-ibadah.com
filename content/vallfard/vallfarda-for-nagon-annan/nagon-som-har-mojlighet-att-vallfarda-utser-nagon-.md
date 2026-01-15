@@ -20,6 +20,7 @@ Enligt den korrekta åsikten så får denne inte utse någon till att utföra en
 
 Bin Baz ställdes frågan: ”Får den som har utfört den obligatoriska vallfärden utse någon som utför en frivillig vallfärd för dennes räkning, då denne har möjlighet själv?” Han svarade genom att säga: ”De lärde har olika åsikter . Det som verkar vara mest uppenbart är att det inte är tillåtet, då tillåtelse för detta endast har rapporterats för den som har avlidit, en extremt gammal person och den som inte har möjlighet. Samma regel gäller den som är sjuk som inte förväntas att tillfriskna. Den grundläggande principen är att inte utse någon annan till att utföra dyrkan. Därför är det en skyldighet att hålla sig till detta. Och Allāh är Givaren av framgång.”
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

@@ -17,6 +17,7 @@ description: 'Fråga: Jag kom för att vallfärda tillsammans med en grupp och j
 
 **Svar:** Om man vallfärdar med en grupp, går in i *ihrām[^1]* för vallfärden som en *mufrid[^2]* och sedan åker med dem för att besöka profetens – över honom vare Allāhs frid och välsignelser – Moské, då är de föreskrivet att man gör *ihrām[^1]* för *‘umrah[^3]*, *tawāf[^4]*, *sa’ī[^5]*, får sitt hår klipp och avlägsnar *ihrām[^1]*. Vid dess tidpunkt [åttonde *dhul-hijjah[^6]*] träder man sedan man in i *ihrām[^1]* för vallfärden. På detta sätt blir man en *mutamatti[^7]'*. Man måste offra ett djur för *hajjul-tamattu'*[^8], vilket profeten – över honom vare Allāhs frid och välsignelser – beordrade följeslagarna som inte hade ett offerdjur med sig att göra.
 
+## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Någon som enbart vallfärdar.

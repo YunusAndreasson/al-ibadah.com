@@ -30,6 +30,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – var på resande
 
 En annan anledning till att skjuta upp är om det finns en församling vid slutet av tiden som inte finns vid början. I detta fall är det bättre att skjuta upp bönen. Ett exempel kan vara en man som befinner sig i öknen när tiden för bönen börjar och han vet att han kan komma till staden i tid för att be med församlingen. Är det bättre om han ber direkt eller är det bättre om han ber med församlingen när han kommer till staden? Vi säger att det är bättre att skjuta upp den så att han kan nå bönen i församlingen. Vi kan tänkas säga att det är en skyldighet att skjuta upp bönen för att han ska kunna be den i moskén.
 
+## Fotnoter
 
 [^1]: Isha
 [^2]: Dhuhr

@@ -24,6 +24,7 @@ För att skydda oss själva mot onda jinn[^1] bör vi läsa åkallan[^3] som All
 
 Och Allāh den Allsmäktige är den som skyddar oss.
 
+## Fotnoter
 
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

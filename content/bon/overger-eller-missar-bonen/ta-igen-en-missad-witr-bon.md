@@ -20,6 +20,7 @@ Hans *witr[^1]* bestod vanligtvis av elva bönecykler[^3]. Det är *sunnah[^2]* 
 
 /.../
 
+## Fotnoter
 
 [^1]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

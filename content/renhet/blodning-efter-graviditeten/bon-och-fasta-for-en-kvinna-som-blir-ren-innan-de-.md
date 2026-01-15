@@ -19,6 +19,7 @@ description: 'Fråga: Får en kvinna med blödningar efter graviditeten fasta, b
 
 I fråga om hadithen från ‘Uthmān bin Abi al-'As som uppger att han motsatte sig detta, då är detta hans egen *ijtihād[^3]* som det inte finns några bevis för. Den korrekta åsikten är att detta inte är syndigt om hon har blivit ren före de 40 dagarna. Detta beror på att hon är ren och om blodet börjar rinna igen under de 40 dagarna, då är den korrekta åsikten att hon fortfarande anses ha blödningar efter graviditeten för de 40 dagarna. I detta fall är hennes fasta och böner under de dagarna som hon var ren fortfarande giltiga. Var hon ren under denna tid behöver hon inte upprepa dem.
 
+## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.

@@ -21,6 +21,7 @@ description: 'Fråga: Anses de som dömer med något annat än vad Allāh har up
 
 Och Allāh är den som ger framgång.
 
+## Fotnoter
 
 [^1]: Otro.
 [^2]: De tre första generationerna i islam.

@@ -18,6 +18,7 @@ description: 'Fråga: Jag vallfärdade med mina kvinnor [kvinnliga släktingar o
 
 Må Allāh sända välsignelser och frid över vår ledare Muhammad, hans familj och hans följeslagare.
 
+## Fotnoter
 
 [^1]: Släkting som det inte är tillåtet att gifta sig med.
 

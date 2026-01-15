@@ -26,6 +26,7 @@ Offret är en sjundedel av en kamel, en sjundedel av en ko, ett får som är öv
 
 Och Allāh är den som ger framgång.
 
+## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

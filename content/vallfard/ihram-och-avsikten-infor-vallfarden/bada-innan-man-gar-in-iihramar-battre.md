@@ -18,6 +18,7 @@ description: 'Fråga: Om någon som vill vallfärda kommer till Mina via Mecka d
 
 Det är inga problem om man går in i *ihrām[^3]* utan att bada. Gör man därefter *ghusl[^2]* i Mina medan man befinner sig i *ihrām[^3]*, då är det inte fel. Men det är bättre och *sunnah[^5]* att man gör *ghusl[^2]* före man går i in *ihrām[^3]*. Om man inte gör *ghusl[^2]* utan i stället går in i *ihrām[^3]* utan *ghusl[^2]* eller tvagning[^6], då är det inget problem. Detta beror på att det är en *sunnah[^5]* att bada eller att tvaga sig i detta fall.
 
+## Fotnoter
 
 [^1]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.

@@ -45,6 +45,7 @@ Vid Allāh, jag ber att Han skyddar oss alla från orsakerna till prövningar oc
 
 Må frid och välsignelser vara över profeten Muhammad, hans familj och hans följeslagare.
 
+## Fotnoter
 
 [^1]: Hoppfullhet till Allāh.
 [^2]: Du´ā

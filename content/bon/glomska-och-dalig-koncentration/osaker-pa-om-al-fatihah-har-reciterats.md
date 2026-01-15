@@ -16,6 +16,7 @@ description: 'Fråga: Under min bön glömde jag om jag hade reciterat al-Fātih
 
 **Svar:** Om en ensam tjänare eller en imam känner tvivel om recitationen av al-Fātihah, då bör han upprepa den innan han bugar. Då behöver han inte nedfalla för glömska. Men om hans tvekan dyker upp när han har avslutat bönen, då bör han inte bry sig om den och hans bön är giltig. Vid nedfallandet för glömska[^1] är det föreskrivet att man åkallar[^3] på vanligt sätt och säger ”*Subhana Rabbial-A’la*” och liknande. Precis som under det vanliga nedfallandet[^2].
 
+## Fotnoter
 
 [^1]: sujūd as-sahw.
 [^2]: sujūd, nedfallandet när pannan läggs mot marken.

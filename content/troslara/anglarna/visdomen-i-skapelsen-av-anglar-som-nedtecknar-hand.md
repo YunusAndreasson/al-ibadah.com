@@ -27,6 +27,7 @@ För att återvända till frågan om de hedervärda antecknarna som känner till
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: Dhuhr
 [^2]: Asr

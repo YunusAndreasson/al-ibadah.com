@@ -37,6 +37,7 @@ Och profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 Insisterar han på att offra till och åkalla *jinn[^1]* när han behöver något kommer han att vara en månggudadyrkare[^3] som är skyldig till större *shirk[^5]*. Det kommer inte att finnas någon ursäkt för honom då bevis från Allāhs skrift och från profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^6]* har visats för honom. Det kommer att sägas till honom: ”Du är en icke-troende, månggudadyrkare[^3], skyldig till större *shirk[^5]*.”
 
+## Fotnoter
 
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 [^2]: Du´ā

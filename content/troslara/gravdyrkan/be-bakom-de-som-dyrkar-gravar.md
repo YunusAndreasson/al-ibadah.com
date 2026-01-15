@@ -16,6 +16,7 @@ description: 'Fråga: Vilket är utlåtandet om att be bakom en imam som tror at
 
 **Svar:** Det är inte tillåtet att be bakom honom. Bönen kommer inte att vara giltig. Anledningen är att det är större *shirk[^1]* i fråga om Herrskap att tro att en avliden kan åstadkomma gott eller ont. Att åkalla dem, söka deras hjälp, svära eder vid dem och offra till dem är större *shirk[^1]* i dyrkan.
 
+## Fotnoter
 
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

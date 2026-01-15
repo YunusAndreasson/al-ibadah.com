@@ -18,6 +18,7 @@ description: 'Fråga: Vilket är utlåtandet om en fastande som använder miswā
 
 Likaså är parfym under dagens början och slut tillåtet för den fastande oavsett om det är rökelser, olja eller något annat. Med den fastande får inte andas in lukten [att verkligen lägga näsan mot flaskan]. Rökelser innehåller partiklar som kan ses och kännas och om de andas in kommer de att komma in i näsan och sedan ned i magen. Därför fick Laqit bin Sbirah höra följande från profeten – över honom vare Allāhs frid och välsignelser: ”*Överdriv indraget av vatten i näsan [under tvagningen[^3]] utom när ni fastar*.” [*Abū Dawūd* 142, *at-Tirmithi* 38, *an-Nasā’i* 87 och *Ibn Mājah* 448]
 
+## Fotnoter
 
 [^1]: Kan liknas vid en tandborste. Gjord av Arak-trädets rötter.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

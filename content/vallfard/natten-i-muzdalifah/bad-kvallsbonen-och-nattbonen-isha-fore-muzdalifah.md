@@ -23,6 +23,7 @@ Detta betyder att det är obligatoriskt att be dem vid deras [angivna] tider. En
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: Maghrib
 [^2]: Isha

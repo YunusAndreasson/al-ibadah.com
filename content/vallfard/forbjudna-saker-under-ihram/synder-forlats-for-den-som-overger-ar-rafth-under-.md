@@ -35,6 +35,7 @@ Den som ångrar sig uppriktigt har då nått framgång och Allāh kommer att skr
 
 Vi ber Allāh att Han hjälper de muslimska pilgrimerna, och även andra, med att ångra sig uppriktigt och att stå stadigt vid sanningen. Han är Den som hör allt och ser allt.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

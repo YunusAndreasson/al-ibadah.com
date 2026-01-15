@@ -18,6 +18,7 @@ Ni måste be de fem obligatoriska bönerna vid deras angivna tider. Lektioner an
 
 Den *hadīth[^1]* som du nämner motsäger sig vad profetens – över honom vare Allāhs frid och välsignelser – gjorde i de flesta fall. Detta är något som det finns många rapporter som bekräftar. Därför måste du arrangera dina lektioner så att du kan be vid de angivna tiderna.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

@@ -22,6 +22,7 @@ Vid detta passande tillfälle skulle jag vilja nämna att somliga går för lån
 
 Och Allāh är Givaren av framgång.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Hijamah

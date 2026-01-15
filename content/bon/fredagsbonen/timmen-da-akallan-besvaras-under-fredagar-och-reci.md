@@ -18,6 +18,7 @@ description: 'Fråga: Finns det något fördelaktigt med att recitera sura al-Ka
 
 Beträffande när åkallan[^1] besvaras under fredagar så rapporteras det i en *hadīth[^2]* att det är den sista timmen efter eftermiddagsbönen[^5]. Det har även rapporterats att det är timmen efter fredagsbönen [från när imamen sitter på talarstolen till slutet av bönen]. Det finns många andra uttalanden om detta. Det bästa är att försöka åkalla under hela dagen i hopp om att ”fånga” denna timme.
 
+## Fotnoter
 
 [^1]: Du´ā
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

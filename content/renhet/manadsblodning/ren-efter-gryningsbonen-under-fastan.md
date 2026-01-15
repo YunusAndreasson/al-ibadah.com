@@ -18,6 +18,7 @@ description: 'Fråga: Om en kvinna blir ren direkt efter gryningsbönen, håller
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: Fajr
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

@@ -23,6 +23,7 @@ Vissa pilgrimer tror att det inte är lämpligt att träda in i *ihrām[^1]* i d
 
 Detta är vad som kan nämnas om de misstag som vissa pilgrimer begår när det går in i *ihrām[^1]* för pilgrimsfärden.
 
+## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.

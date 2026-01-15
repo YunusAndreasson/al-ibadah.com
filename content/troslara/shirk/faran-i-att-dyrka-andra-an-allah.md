@@ -24,6 +24,7 @@ Allt [som görs] för att komma närmare Allāh är då dyrkan. Om man offrar ti
 
 Mitt råd till dem som söker närhet till dem som ligger i gravarna är att de ångrar sig inför Allāh den Upphöjde för detta och att de vänder sig mot Honom. Om de gör så ska de få ta emot det glada budskapet om förlåtelse från Allāh. Han – fri från brister – är nöjd med ångern från dem som ångrar sig inför Honom.
 
+## Fotnoter
 
 [^1]: Tron på att det bara finns en Gud.
 [^2]: Mushrik.

@@ -18,6 +18,7 @@ description: 'Fråga: Kräver al-madhi ghusl? Svar: al-Madhi kräver inte ghusl
 
 Dem som hade haft avgång av *al-madhi* fick ordern att tvätta penis och testiklar. Det som kräver *ghusl[^1]* är endast sperma som ejakuleras på grund av sexuell upphetsning, eller spår som upptäcks när man har vaknat [oavsett om det är dag eller natt].
 
+## Fotnoter
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Den sju långa rundar vandringen runt Kabah.

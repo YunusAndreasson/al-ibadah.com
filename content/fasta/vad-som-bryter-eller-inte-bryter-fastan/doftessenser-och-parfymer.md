@@ -16,6 +16,7 @@ description: 'Fråga: Är det tillåtet att använda parfym som ''uud-olja, colo
 
 **Svar:** Ja, det är tillåtet att använda detta under villkor att rökelsens rök inte andas in.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

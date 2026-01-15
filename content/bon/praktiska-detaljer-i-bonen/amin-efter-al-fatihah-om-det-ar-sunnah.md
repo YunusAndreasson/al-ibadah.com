@@ -20,6 +20,7 @@ description: 'Fråga: Är det sunnah att säga āmīn? Svar: Ja, att säga āmī
 
 Imamen och de som ber bakom ska säga *āmīn* samtidigt. Detta är enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Om imamen säger: '… inte de som har gått vilse!*” [*al-Bukhārī* 782]
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

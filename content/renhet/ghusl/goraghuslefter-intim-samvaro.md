@@ -19,6 +19,7 @@ Om ni båda hade intim samvaro fast inte fick någon orgasm, då måste ni änd�
 
 Så *ghusl[^1]* är obligatorisk om man får en orgasm [eller blir våt, i kvinnans fall] även om ett samlag inte utfördes. Det är även obligatorisk om samlag utfördes utan att någon fick en orgasm.
 
+## Fotnoter
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

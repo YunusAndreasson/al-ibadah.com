@@ -23,6 +23,7 @@ Den korrekta åsikten är att det är *sunnah[^2]* att placera den högra handen
 1. Det är inte passande för oss att vara oförsiktiga med att använda ordet ”innovatör” om en handling när det finns rum för *ijtihād[^3]*.
 2. Den korrekta åsikten är att det är *sunnah[^2]* att placera den högra handen över den vänstra efter att ha rest sig från bugningen. Det är inte en innovation, vilket bevisas genom den *hadīth[^4]* från Sahl bin Sa'd som vi har nämnt. Den är generell men bugningen[^1], nedfallandet[^5] och sittningen exkluderas då profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* har avgjort en specifik plats för händerna i dessa positioner.
 
+## Fotnoter
 
 [^1]: Ruku, bugningen när ryggen hålls parallell med marken.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

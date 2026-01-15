@@ -22,6 +22,7 @@ Det som har kommenderats eller förbjudits kommer endast från den islamiska lag
 
 > ”Men så fort de båda hade visat att de underkastat sig Guds vilja och [Abraham] hade lagt [sonen] med tinningen mot marken, ropade Vi till honom: 'Abraham [hejda din hand]! Du har redan utfört den befallning som du fick i drömmen!” [Koranen 37:103–106]
 
+## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

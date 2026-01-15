@@ -20,6 +20,7 @@ Det är även tillåtet att be sju bönecykler[^2] med en enda *taslīm[^3]* ell
 
 Det finns inget behov av att recitera med höjd röst när man ber ensam. Syftet med höjd recitation i nattbönen är ju att de som leds i bönen ska höra den och dra nytta av den. Den som ber ensam hör sig själv oavsett om denne reciterar tyst eller med höjd röst.
 
+## Fotnoter
 
 [^1]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 [^2]: Rakah.

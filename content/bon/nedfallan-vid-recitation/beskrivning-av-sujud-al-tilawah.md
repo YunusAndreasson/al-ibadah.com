@@ -34,6 +34,7 @@ Det som är obligatoriskt att säga är ”*Subhāna Rabbiy al-A’lā* [Lovpris
 
 *Sujūd al-tilāwah*, vare sig det sker under eller utanför bön, så är det *sunnah[^7]* men inte obligatoriskt. Bevis för detta har återberättats från profeten, i en *hadīth[^5]* från Zayd ibn Thābit och i en *hadīth[^5]* från ‘Umar – må Allāh vara nöjd med honom.
 
+## Fotnoter
 
 [^1]: sujūd, nedfallandet när pannan läggs mot marken.
 [^2]: Du´ā

@@ -73,6 +73,7 @@ Det ”*lysande exempel*” [Koranen 68:4] som Allāh har beskrivit Muhammad med
 
 I *al-Sahīh* berättar 'Abd-Allāh ibn ʿUmar att profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Den bäste i tro bland muslimer är den som har bäst attityd*.” Han kopplade därmed ihop perfektion i tron med en god attityd. Det är välkänt att tro är fruktan av Allāh. Detta är dock inte rätt plats för att diskutera de grundläggande principerna och finare detaljerna i det. Detta är religionen i sin helhet men godhetens källor är ett uppriktigt engagemang från tjänaren mot dennes Herre; dyrkandes endast Honom och sökandes endast Hans hjälp, som versen i Koranen säger: ”*Dig tillber vi; Dig anropar vi om hjälp*.” [Koranen 1:5] ”*Dyrka Honom därför och förlita dig på Honom*.” [Koranen 11:123] ”Till *Honom litar jag och till Honom vänder jag alltid i ånger [över mina synder]*.”[Koranen 11:88] ”*Be därför Gud om er försörjning, dyrka Honom och tacka Honom; det är till Honom ni ska föras åter*.” [Koranen 29:17]
 
+## Fotnoter
 
 [^1]: De tre första generationerna i islam.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

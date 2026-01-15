@@ -18,6 +18,7 @@ description: 'Fråga: Somliga påstår att hajjul-qirān och hajjul-ifrad har up
 
 Och Allāh är den som ger framgång.
 
+## Fotnoter
 
 [^1]: Utför vallfärden och ´umrah samtidigt med en intention.
 [^2]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.

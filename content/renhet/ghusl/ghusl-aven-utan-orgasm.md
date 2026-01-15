@@ -17,6 +17,7 @@ description: 'Fråga: Är det obligatorisk, för ett gift par, att göra ghusl �
 
 I denna *hadīth[^2]* klargörs det tydligt att *ghusl[^1]* måste utföras även utan orgasm och detta är något som få känner till.
 
+## Fotnoter
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

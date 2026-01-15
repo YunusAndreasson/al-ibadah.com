@@ -22,6 +22,7 @@ Den som har tillgångar för att generera en vinst med, ansåg endast dess värd
 
 Med detta som grund: Den som avsåg att handla och göra en vinst med detta hus, denne måste betala allmosa för husets värde och för inkomsten för hyran om hawl fullbordas räknat från tiden för hyreskontraktet.
 
+## Fotnoter
 
 [^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 ramadan 1428).
 

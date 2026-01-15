@@ -19,6 +19,7 @@ description: 'Fråga: Bör den troende upprepa bönen om det blev klart att han 
 
 Detta beror på att den är söder om dem. Allt mellan öst och väst är då *qiblah[^1]*. På samma sätt säger vi till dem som ber mot väst, att allting mellan nord och syd är *qiblah[^1]*.
 
+## Fotnoter
 
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 

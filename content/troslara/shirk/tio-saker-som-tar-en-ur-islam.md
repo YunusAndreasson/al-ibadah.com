@@ -39,6 +39,7 @@ Det är ingen skillnad om dessa snedsteg utförs skämtsamt, på fullaste allvar
 
 Vi söker vår tillflykt hos Allāh från dessa handlingar som medför Hans vrede och stränga straff.
 
+## Fotnoter
 
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

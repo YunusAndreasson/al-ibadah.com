@@ -22,6 +22,7 @@ I fråga om imamtjänsten för en okunnig eller dåraktig person så återger Mu
 
 Därmed är det inte rätt om en okunnig person som inte är duktig på att recitera al-Fātihah agerar imam, utom om han leder sådana som han själv och det inte finns någon annan bland dem som förtjänar att vara imam.
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

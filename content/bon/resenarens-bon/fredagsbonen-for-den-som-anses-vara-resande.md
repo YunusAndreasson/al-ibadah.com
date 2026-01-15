@@ -22,6 +22,7 @@ I en *hadīth[^2]* bekräftas att han under sin sista vallfärd bad middagsböne
 
 Men om några av de som bor i landet ber fredagsbönen, då är det föreskrivet att du och de i din situation som är tillfälligt bosatta eller där i studier eller affärer ber tillsammans med dem. Syftet är att få belöningen för fredagsbönen.
 
+## Fotnoter
 
 [^1]: Dhuhr
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

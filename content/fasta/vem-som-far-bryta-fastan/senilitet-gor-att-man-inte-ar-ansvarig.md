@@ -22,6 +22,7 @@ Likaså när det gäller seniliteten, om hon har blivit senil, då gäller inte 
 
 Och framgång kommer från Allāh.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.

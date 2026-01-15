@@ -18,6 +18,7 @@ description: 'Fråga. Får man sitta tillsammans med någon som inte ber? Svar: 
 
 Genom Allāh uppnås framgång. Må frid och välsignelser vara över profeten Muhammad och hans familj.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

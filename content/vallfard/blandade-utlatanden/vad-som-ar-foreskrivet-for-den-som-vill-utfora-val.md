@@ -38,6 +38,7 @@ Denne bör kämpa för att fullfölja de obligatoriska delarna av vallfärden oc
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Bönen man ber för att söka Allāhs hjälp när man har flera valmöjligheter.

@@ -24,6 +24,7 @@ Det som familjen gav till denne man är inte rätt då det inte är rätt att up
 
 > ”Och Vi ska se på det som de [tror sig] ha åstadkommit och Vi ska förvandla det till stoft som skingras för alla vindar.” [Koranen 25:23]
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: De tre första generationerna i islam.

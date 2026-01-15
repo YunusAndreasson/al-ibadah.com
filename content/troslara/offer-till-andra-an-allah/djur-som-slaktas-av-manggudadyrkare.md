@@ -19,6 +19,7 @@ Han påstår att denna vers förklarar sig själv och han accepterar inga andra 
 
 Den som anser att djur slaktade av månggudadyrkare[^1] är tillåtna, har fel. Denne är inte en icke-troende men för virrad. Versen som nämnts ovan stödjer inte dennes påstående då det finns ett enhälligt samförstånd om att djur slaktade av månggudadyrkare[^1] inte får ätas. Den som har kunskap bör klargöra detta för honom.
 
+## Fotnoter
 
 [^1]: Mushrik.
 

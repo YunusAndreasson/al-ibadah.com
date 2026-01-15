@@ -18,6 +18,7 @@ description: 'Fråga: Är det tillåtet för en kvinna att tillsammans med män 
 
 Det har även bekräftats att kvinnor, precis som män, bad över profeten. Kvinnor går dock inte tillsammans med begravningståget då detta är något som profeten – över honom vare Allāhs frid och välsignelser – har förbjudit.
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

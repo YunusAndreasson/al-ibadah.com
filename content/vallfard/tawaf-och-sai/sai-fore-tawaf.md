@@ -18,6 +18,7 @@ description: 'Fråga: Är det tillåtet att utföra sa’ī innan tawāf, oberoe
 
 Detta bevisar att om någon utförde *sa’ī[^1]* först, då är det tillräckligt för denne. Det som är *sunnah[^4]* är dock att denne utför *tawāf[^2]* och sedan *sa’ī[^1]*. Detta är *sunnah[^4]* både för *‘umrah[^3]* och vallfärden.
 
+## Fotnoter
 
 [^1]: Vandringen mellan as-Safa och al-Marwa.
 [^2]: Den sju långa rundar vandringen runt Kabah.

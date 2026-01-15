@@ -15,6 +15,7 @@ description: 'Fråga: Ädle shaykh, vilken är den generella åsikten gällande 
 
 **Svar:** Den övervägande åsikten beträffande icke-obligatoriska böner, om den gemensamma bönen börjar, är att den ska avslutas snabbt om man befinner sig i den andra [sista] bönecykeln[^1] och om man befinner sig i den första bör man avbryta den för att delta i den gemensamma bönen.
 
+## Fotnoter
 
 [^1]: Rakah.
 

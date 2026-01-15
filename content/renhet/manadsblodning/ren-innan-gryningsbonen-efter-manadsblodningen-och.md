@@ -24,6 +24,7 @@ På samma sätt om man var rituell oren och inte gjorde *ghusl[^2]* förrän eft
 
 Och Allāh vet bättre.
 
+## Fotnoter
 
 [^1]: Fajr
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.

@@ -16,6 +16,7 @@ description: 'Fråga: Vilket är utlåtandet om att läsa åkallan under qunūt 
 
 **Svar:** *Qunūt* är en *sunnah[^5]* i *witr[^3]*-bönen. Om någon utelämnar den ibland är det ingen fara.
 
+## Fotnoter
 
 [^1]: Du´ā
 [^2]: En åkallan som kan läsas under den nattliga witr-bönen.

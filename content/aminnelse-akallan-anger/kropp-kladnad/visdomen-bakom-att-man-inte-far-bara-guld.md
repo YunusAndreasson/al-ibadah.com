@@ -32,6 +32,7 @@ Jag skulle vilja ta detta tillfälle i akt att varna de män som har blivit lura
 
 Dem måste ångra sig inför Allāh den Allsmäktige och om de önskar pryda sig själva med silver inom den islamiska lagens gränser finns det inget skadligt i det. De kan även bära ringar av andra material som inte leder till extravagans eller frestelser.
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

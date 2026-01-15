@@ -83,6 +83,7 @@ Beträffande vad frågeställaren har sagt om att fadern till kvinnan som det ha
 
 Detta svar har givits av en som är i behov av Allāh, Muhammad Sālih al-'Uthaimīn, och det har nedtecknats med hans hand den artonde dhul-hijjah[^5] 1400 AH.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

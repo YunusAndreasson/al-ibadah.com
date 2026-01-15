@@ -21,6 +21,7 @@ description: 'Fråga: På vilket sätt täcker vittnesmålet Lā ilāha illAllā
 
 Bekräftar man Allāhs ensamrätt att dyrkas underförstås även *tawhīd[^1] ar-rububiyyah[^3]* och *tawhīd[^1] as-asmā' was-sifāt'[^4]*.
 
+## Fotnoter
 
 [^1]: Tron på att det bara finns en Gud.
 [^2]: Att särskilja Allāh i dyrkan.

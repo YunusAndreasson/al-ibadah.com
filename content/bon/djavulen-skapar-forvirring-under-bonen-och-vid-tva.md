@@ -25,6 +25,7 @@ Om du avslutat din bön eller tvagning[^4] och tvivel likt dessa når dig; vänd
 
 Vi söker tillflykt hos Allāh från oss själva och djävulen.
 
+## Fotnoter
 
 [^1]: Rakah.
 [^2]: sujūd, nedfallandet när pannan läggs mot marken.

@@ -24,6 +24,7 @@ Troligtvis är detta en fabrikation påhittat av några lata människor som inte
 
 Och Allāh är Den som vägleder till den raka vägen.
 
+## Fotnoter
 
 [^1]: Isha
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

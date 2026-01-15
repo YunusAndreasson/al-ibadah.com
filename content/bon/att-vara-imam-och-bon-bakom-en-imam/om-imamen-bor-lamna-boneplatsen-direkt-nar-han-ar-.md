@@ -22,6 +22,7 @@ För den som leds i bön är det bättre att inte ge sig av innan imamen. Detta 
 
 Men om imamen sitter kvar en längre stund i riktning mot *qiblah[^1]* än vad som är *sunnah[^2]*, då kan de som leds i bön ge sig av.
 
+## Fotnoter
 
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

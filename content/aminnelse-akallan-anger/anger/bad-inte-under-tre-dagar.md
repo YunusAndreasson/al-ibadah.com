@@ -16,6 +16,7 @@ description: 'Fråga: Jag bad inte under tre dagar. Efteråt vägledde Allāh mi
 
 **Svar:** Du behöver inte ta igen dessa böner men du måste ångra dig uppriktigt. Du måste även vara flitig med att inte enbart utföra den obligatoriska bönen utan även *sunnah[^1]* och frivilliga böner. Och Allāh förlåter synder.
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

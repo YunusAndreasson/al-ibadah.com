@@ -26,6 +26,7 @@ Och dyrkan är ödmjuka sig inför Allāh den Allsmäktige med kärlek och vörd
 
 Den som då gör uppror mot sin Herre och inte nedlåter sig att dyrka Honom överger denna visdom som Allāh har skapat tjänaren. Dennes handling vittnar om att Allāh sammanställde skapelsen utan mål och syfte. Även om denne inte tillkännager det öppet nödvändiggörs det genom dennes avvisande av lydnad av Herren.
 
+## Fotnoter
 
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 

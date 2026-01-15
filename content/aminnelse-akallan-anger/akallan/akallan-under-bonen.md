@@ -24,6 +24,7 @@ I *Sahīh Muslim* och *Sahīh al-Bukhārī* har det berättats från ʿAbdullāh
 
 *Ahādīth[^7]* med denna innebörd är många och de bevisar att det är tillåtet att åkalla i dessa moment. De bevisar också att en muslim för använda vilken åkallan[^1] han vill. Det kan gälla något i detta livet eller i det Nästa. Villkoren är dock att denna åkallan[^1] inte blandar in något syndigt eller att den används för att skära familjeband. Det bästa är att i så stor utsträckning som möjligt använda de åkallan[^1] den som har rapporterats från profeten – över honom vare guds frid och välsignelser.
 
+## Fotnoter
 
 [^1]: Du´ā
 [^2]: Den avslutande hälsningen i bönen.

@@ -16,6 +16,7 @@ description: 'Fråga: Imamen som håller fredagspredikan i vår moské avslutar 
 
 **Svar:** Imamens åkallan[^1] i denna predikan är tillåten och profeten – över honom vare Allāhs frid och välsignelser – brukade göra detta. Imamen bör dock inte hålla sig till en viss åkallan[^1] utan i stället bör han variera dem efter omständigheterna. I fråga om hur lång de ska vara, då bör de vara enligt behoven. Profeten – över honom vare Allāhs frid och välsignelser – brukade då och då upprepa sin åkallan[^1] tre gånger och ibland två. Därför är det *sunnah[^2]* för imamen att följa vad profeten – över honom vare Allāhs frid och välsignelser – brukade göra i hans predikningar och åkallan[^1].
 
+## Fotnoter
 
 [^1]: Du´ā
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

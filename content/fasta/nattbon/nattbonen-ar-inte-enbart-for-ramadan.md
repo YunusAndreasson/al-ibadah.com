@@ -23,6 +23,7 @@ Detta gäller inte enbart under ramadan[^1]. Tiden är mellan nattbönen[^3] och
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

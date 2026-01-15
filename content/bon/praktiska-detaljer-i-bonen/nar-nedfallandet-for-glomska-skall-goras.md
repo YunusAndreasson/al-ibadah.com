@@ -20,6 +20,7 @@ description: 'Fråga: Om man ber och glömmer hur många bönecykler man har bet
 
 Och genom Allāh uppnås framgång.
 
+## Fotnoter
 
 [^1]: Rakah.
 [^2]: Den avslutande hälsningen i bönen.

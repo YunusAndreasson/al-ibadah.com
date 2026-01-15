@@ -18,6 +18,7 @@ description: 'Fråga: Jag reste från Saudiarabien till ett land som inte följe
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 

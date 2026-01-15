@@ -22,6 +22,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt: “*I
 
 Och Allāh är källan till all styrka.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

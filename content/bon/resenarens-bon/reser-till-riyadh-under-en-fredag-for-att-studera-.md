@@ -25,6 +25,7 @@ Enligt Allāhs den Upphöjdes ord är fredagsbönen en skyldighet för alla som 
 
 Men om du missade bönen där eller om du befann dig på en plats långt från moskén, då får du be de böner som är fyra bönecykler[^1] som två.
 
+## Fotnoter
 
 [^1]: Rakah.
 

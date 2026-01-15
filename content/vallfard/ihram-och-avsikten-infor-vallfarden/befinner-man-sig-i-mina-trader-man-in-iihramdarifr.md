@@ -16,6 +16,7 @@ description: 'Fråga: Vad gäller den som befann sig i Mina innan at-tarwiyyah -
 
 **Svar:** För den som befinner sig i Mina är det föreskrivet att träda in i *ihrām[^1]* i Mina, och all lovprisan tillhör Allāh. Denne behöver inte gå in i Mecka. I stället säger han när tiden kommer *talbiyyah[^2]* för vallfärden från platsen där han bor.
 
+## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Säga Labbayk Allahumma Labbayk under vallfärden.

@@ -28,6 +28,7 @@ Vi hoppas att Allāh kommer att göra en väg för dig till levebröd. Allt leve
 
 Må Allāhs frid och välsignelser vara över vår profet Muhammad, hans familj och hans följeslagare.
 
+## Fotnoter
 
 [^1]: En rapport från en enda källa som motsäger sig vad som vida har rapporterats från dem som är bättre kvalificerade.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

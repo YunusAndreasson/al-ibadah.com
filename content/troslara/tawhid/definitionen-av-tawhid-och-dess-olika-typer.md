@@ -172,6 +172,7 @@ Falska antaganden som blir nödvändiga om man menar att istawa betyder *istawla
 
 För att summera denna form av *tawhīd[^1]* – *tawhīd[^1] as-asmā’ was-sifāt’[^4]* – är det skyldighet att vi bekräftar Allāhs namn och egenskaper på samma sätt som Han eller Hans sändebud bekräftat dem. Vi gör det utan att förvrida innebörden, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen].
 
+## Fotnoter
 
 [^1]: Tron på att det bara finns en Gud.
 [^2]: Enheten i Allāhs herravälde.

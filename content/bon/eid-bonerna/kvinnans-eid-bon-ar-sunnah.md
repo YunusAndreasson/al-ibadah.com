@@ -35,6 +35,7 @@ I fråga om pojkar som uppnått mogen ålder och som går till *‘eid*-bönen, 
 
 Och Allāh är källan till all styrka.
 
+## Fotnoter
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

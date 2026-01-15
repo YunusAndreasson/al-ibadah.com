@@ -33,6 +33,7 @@ Villkoren för att vallfärden ska vara obligatoriskt är fem:
 4. Att vara fri. En slav är inte skyldig att vallfärda men om denne gör det räknas det som en frivillig vallfärd. Släpps slaven fri måste denne utföra den obligatoriska vallfärden. En vallfärd utförd när denne inte var fri uppfyller inte skyldigheten. Vissa lärde har sagt att om en slav vallfärdar med ägarens tillåtelse, då är detta giltigt och den behöver inte upprepas. Denna åsikt är mer korrekt.
 5. Att ha både finansiell och fysisk möjlighet. I en kvinnas fall inkluderar detta att ha en mahram[^3]. Om hon inte har en *mahram[^3]* är hon inte skyldig att vallfärda.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

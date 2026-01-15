@@ -16,6 +16,7 @@ description: 'Fråga: Om någon befinner sig någonstans långt från staden och
 
 **Svar:** En visdom i föreskriften av *zakātul-fitr[^1]* är att de fattigas behov uppfylls under den dagen. De som inte är fattiga bör då inte få någon *zakātul-fitr[^1]*. Den som har möjlighet bör göra ordning *zakātul-fitr[^1]* och dela ut den bland de närmast fattiga. Finns det möjlighet kan denne utse en representant i ett land som det finns fattiga invånare i. Denna representant delar då i tid ut till de fattiga som är utsedda till att få.
 
+## Fotnoter
 
 [^1]: Allmosa som ges före eid-bönen.
 

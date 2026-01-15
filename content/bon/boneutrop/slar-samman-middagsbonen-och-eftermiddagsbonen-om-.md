@@ -21,6 +21,7 @@ description: 'Fråga: Om någon slår ihop middagsbönen[^1] och eftermiddagsbö
 
 De frivilliga bönerna finns det inget böneutrop för.
 
+## Fotnoter
 
 [^1]: Dhuhr
 [^2]: Asr

@@ -26,6 +26,7 @@ I det andra fallet säger vi att denne tar igen [dagen som denne har missat], d�
 
 Vi säger även: Bryt din fasta även om du inte har genomfört 29 dagar. Nymånen har siktats och när den har siktats måste du bryta din fasta. Då du har fastat mindre än 29 [dagar], på grund av det inte är möjligt att en månad har mindre än 29 [dagar], måste du fullborda 29 dagar vilket står i motsats till den första situationen för du bryter inte fastan förrän nymånen har siktats och om den inte har siktats är det fortfarande ramadan[^2]. Hur kan du då bryta din fasta, för du måste fasta, även om din månad har blivit längre är det enbart detsamma som när det blir fler dagstimmar.
 
+## Fotnoter
 
 [^1]: Den tionde månaden i det islamiska året. Under denna månad är det rekommenderat att fasta sex dagar frivillig fasta.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

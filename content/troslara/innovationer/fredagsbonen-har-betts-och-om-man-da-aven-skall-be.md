@@ -35,6 +35,7 @@ För folket finns det också en stor nytta i den. De samlas kring en imam och en
 
 Den årsvisa samlingen är *‘eid*-bönen. Detta är samlingen som görs varje år och även den är för hela staden. Den bes därför inte i varje moské om det inte finns ett behov av det, precis som i fallet med moskérna under fredagsbönen.
 
+## Fotnoter
 
 [^1]: Dhuhr
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

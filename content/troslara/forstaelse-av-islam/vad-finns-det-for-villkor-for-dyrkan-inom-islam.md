@@ -55,6 +55,7 @@ Med dessa sex anledningar som grund är en dyrkan inte giltig om den inte fören
 5. Tidpunkt
 6. Plats
 
+## Fotnoter
 
 [^1]: Den sjunde månaden i det islamiska året.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen

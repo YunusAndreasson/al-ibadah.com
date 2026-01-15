@@ -17,6 +17,7 @@ Något som är välkänt är att en begränsning bekräftar utlåtandet om vad s
 
 Att tillåta att allmosa används för att bygga moskér och andra former av bra arbete kommer också att drabba välgörenheten. Många är snåla och om de såg att det är möjligt att överföra allmosor till moskébyggen och andra former av bra arbetsinsatser, då skulle de överföra allmosan dit och de fattiga och utblottade skulle ha ett konstant behov.
 
+## Fotnoter
 
 [^1]: Tolkning av Koranen efter givna principer.
 

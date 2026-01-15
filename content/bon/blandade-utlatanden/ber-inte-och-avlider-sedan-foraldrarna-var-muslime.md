@@ -19,6 +19,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – sade även: ”
 
 ʿAbdullāh ibn Shaqīq al-'Aqīlī, en av de ädla följeslagarna, sade: ”*profetens – över honom vare Allāhs frid och välsignelser –* *följeslagare ansåg inte att övergivandet av någon handling utom bönen vara kufr[^2]*.” /…/
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: Otro.

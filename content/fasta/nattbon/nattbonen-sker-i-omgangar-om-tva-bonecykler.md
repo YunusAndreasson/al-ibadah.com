@@ -20,6 +20,7 @@ Det finns en berömd *hadīth[^4]* i vilken ‘A’ishah – må Allāh vara nö
 
 Och Allāh är Givaren av framgång.
 
+## Fotnoter
 
 [^1]: Rakah.
 [^2]: Den avslutande hälsningen i bönen.

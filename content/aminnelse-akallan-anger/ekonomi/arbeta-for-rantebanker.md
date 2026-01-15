@@ -22,6 +22,7 @@ Jag ber Allāh att han hjälper de som är ansvariga för bankerna med att håll
 
 Sannerligen är Han den Bäste att fråga.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

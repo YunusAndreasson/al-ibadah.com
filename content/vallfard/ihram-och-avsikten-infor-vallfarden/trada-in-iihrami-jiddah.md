@@ -18,6 +18,7 @@ description: 'Fråga: Somliga ger fatwa till dem som kommer med flygplan för at
 
 Jiddah är inte en *mīqāt[^2]* för dem från andra platser. Det är endast en *mīqāt[^2]* för de som bor där och för dem som kommer dit utan att avse att utföra vallfärden eller*‘umrah[^3]* [de kan bestämma sig för att utföra vallfärden eller *‘umrah[^3]* därifrån].
 
+## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Platsen där pilgrimmen träder in i ihraam.

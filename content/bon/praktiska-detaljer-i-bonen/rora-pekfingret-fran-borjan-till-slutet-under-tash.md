@@ -30,6 +30,7 @@ Nu ska vi gå igenom platserna för åkallan[^2] under *tashahhud[^1]*: ”*as-s
 
 På dessa åtta platser bör man röra fingret mot himlen. Åkallar man med andra ord bör man också röra det. Detta beror på att utlåtandet säger att det bör höjas vid varje åkallan[^2].
 
+## Fotnoter
 
 [^1]: Vad man läser i den sittande positionen under bönen.
 [^2]: Du´ā

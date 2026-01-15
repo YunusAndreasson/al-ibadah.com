@@ -36,6 +36,7 @@ Av denna anledning och på grund av andra fakta som visar denna rörelses onda i
 
 Och Allāh är den som beviljar framgång.
 
+## Fotnoter
 
 [^1]: Rättslära.
 

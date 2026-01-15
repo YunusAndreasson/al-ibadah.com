@@ -20,6 +20,7 @@ Stannar man länge, som en halv dag utan någon nödvändig anledning, då måst
 
 Och Allāh vet bäst.
 
+## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: En plats mellan den Svarta Stenen och dörren till Kabah

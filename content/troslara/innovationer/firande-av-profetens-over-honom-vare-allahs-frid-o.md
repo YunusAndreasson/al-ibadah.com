@@ -25,6 +25,7 @@ an-Nasā’i har i sin återberättelse inkluderat: ”*och varje villfarelse ä
 
 Denna födelsedag bör ersättas av studier i moskérna och i skolorna om händelser som har att göra med hans födelse [i hans biografi] under tiden före islam och under islam. Det finns inget behov av att denna födelsedag, som varken Allāh eller Hans Profet har föreskrivit. Det saknas även bevis för detta.
 
+## Fotnoter
 
 [^1]: Den tredje månaden i det islamiska året.
 

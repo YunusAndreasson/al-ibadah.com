@@ -23,6 +23,7 @@ Och i en annan version: ”*Den som sade: ’Och jag vittnar’*”.
 
 Genom att denne säger: ”Och jag vittnar” finns det bevis för att denne säger det efter böneutroparens ord: ”Jag vittnar om att ingen är värdig att dyrka utom Allāh”. Bokstaven *waw* [som betyder *och*] är ju ett sammanfogningsord. Därmed följer dennes ord efter böneutroparen.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

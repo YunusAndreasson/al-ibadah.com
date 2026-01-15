@@ -16,6 +16,7 @@ description: 'Fråga: Vilket är utlåtandet om bönen börjar och en pilgrim [u
 
 **Svar:** Han ber med folket och fullföljer sedan sin *tawāf[^2]* eller *sa’ī[^3]* därifrån han avbröts. Han börjar där han slutade.
 
+## Fotnoter
 
 [^1]: Den lilla vallfärden.
 [^2]: Den sju långa rundar vandringen runt Kabah.

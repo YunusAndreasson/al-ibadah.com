@@ -21,6 +21,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*O
 
 Även om man vet att man kommer att hinna be dem när planet landar är det enligt en majoritet av de lärda tillåtet att be dem på planet när tiden för bönen kommer. Syftet är att man ska kunna be dem i tid.
 
+## Fotnoter
 
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 

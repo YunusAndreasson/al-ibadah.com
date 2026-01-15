@@ -26,6 +26,7 @@ Den säkraste åsikten är den första, den verkar vara bäst baserat på bevise
 
 Och Allāh är Den som beviljar framgång.
 
+## Fotnoter
 
 [^1]: Wudû´
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

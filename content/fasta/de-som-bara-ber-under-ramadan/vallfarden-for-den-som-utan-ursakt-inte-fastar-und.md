@@ -18,6 +18,7 @@ description: 'Fråga: Jag drabbades av en sjukdom under den välsignade månaden
 
 Må Allāh sända välsignelser och frid över vår profet Muhammad, hans familj och hans följeslagare.
 
+## Fotnoter
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

@@ -16,6 +16,7 @@ description: 'Fråga: Vad gäller den om utför tawāful-ifādhah och som inte g
 
 **Svar:** Att du utför *sa’ī[^2]* under eller efter de sista *at-ayyām at-tashrīq* är giltigt. Du har inte syndat för att du har skjutit upp det. Att den utförs med *tawāf[^1]* är inte ett villkor för att den ska vara korrekt. Det är dock bäst om den görs tillsammans med *tawāf[^1]* direkt efter den på detta sätt följer man profeten.
 
+## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Vandringen mellan as-Safa och al-Marwa.

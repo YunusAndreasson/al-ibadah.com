@@ -109,6 +109,7 @@ Den troende måste vara noga med att inte avvisa det som Allāhs skrift, profete
 
 Må Allāh göra oss till en av dem och må Han ge oss alla nåd. Han är sannerligen Den som ger.
 
+## Fotnoter
 
 [^1]: De tre första generationerna i islam.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

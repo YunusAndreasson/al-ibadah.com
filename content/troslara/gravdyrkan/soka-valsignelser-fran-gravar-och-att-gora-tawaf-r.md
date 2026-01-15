@@ -47,6 +47,7 @@ Det är inte tillåtet att som bevis för denna felaktiga handling säga att fö
 
 Må Allāh ge oss framgång med att uppnå det som gör Honom nöjd och må Han skydda oss från allt som orsakar Hans vrede och straff.
 
+## Fotnoter
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

@@ -16,6 +16,7 @@ description: 'Fråga: Jag ber alltid men hela tiden glömmer jag och tvekar öve
 
 **Svar:** Du måste vara noga med din bön och förvissa dig om att ditt hjärta är närvarande i den. Det finns inga krav på att du ska nedfalla för glömska[^2] när ditt inre har viskat. Känner du tveksamheter om huruvida du har missat en bönecykel[^1] eller någon annan pelare, då gör du den för att vara på den säkra sidan. Gör sedan nedfallandet för glömska[^2].
 
+## Fotnoter
 
 [^1]: Rakah.
 [^2]: sujūd as-sahw.

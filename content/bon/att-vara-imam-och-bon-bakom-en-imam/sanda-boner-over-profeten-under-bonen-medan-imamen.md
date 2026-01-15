@@ -21,6 +21,7 @@ I en *hadīth[^1]* rapporteras det: ”*När imamen säger 'Allāhu akbar' säg 
 
 Men om imamen reciterar denna vers under fredagspredikan, *‘eid*, eller om du hör någon recitera den utanför bönen, eller du reciterar den själv, då får du bekräfta den genom att sända böner över profeten, precis som det är tillåtet under andra tidpunkter. Här finns en stor förtjänst.
 
+## Fotnoter
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

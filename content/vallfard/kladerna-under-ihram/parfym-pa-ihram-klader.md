@@ -18,6 +18,7 @@ description: 'Fråga: Vilket är utlåtandet om att ta parfym på ihrām -kläde
 
 Därmed är det *sunnah[^3]* att enbart parfymera kroppen. När det gäller *ihrām[^1]*-kläderna, då tar man ingen parfym på dem. Tar man parfym på dem, då bör man inte bära dem förrän man har tvättat dem eller så byter man dem.
 
+## Fotnoter
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Säga Labbayk Allahumma Labbayk under vallfärden.
