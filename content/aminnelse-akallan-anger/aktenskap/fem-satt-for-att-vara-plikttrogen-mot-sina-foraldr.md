@@ -8,11 +8,11 @@ categories:
 - Äktenskap
 original_id: 1693
 description: 'Fråga: Hur är man plikttrogen mot sina föräldrar? Är det tillåtet att
- göra ''umrah för en av dem trots det faktum att de redan har gjort det själva? Svar: Att
+ göra ''umrah för en av dem trots att de redan har gjort det själva? Svar: Att
  man är plikttrogen mot föräldrarn...'
 ---
 
-**Fråga:** Hur är man plikttrogen mot sina föräldrar? Är det tillåtet att göra *'umrah* för en av dem trots det faktum att de redan har gjort det själva?
+**Fråga:** Hur är man plikttrogen mot sina föräldrar? Är det tillåtet att göra *'umrah* för en av dem trots att de redan har gjort det själva?
 
 **Svar:** Att man är plikttrogen mot föräldrarna innebär att man hjälper dem med ens tillgångar, ens ställning, genom fysiska ansträngningar eller genom att vara god mot dem på alla andra tänkbara sätt. Att inte vara plikttrogen mot dem – genom att inte uppfylla deras rättigheter och att inte vara vänlig mot dem – är en stor synd [...]
 
