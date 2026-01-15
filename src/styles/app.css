@@ -35,7 +35,7 @@
 @theme {
   /* Font Families - modern browsers only, simplified stacks */
   --font-sans: 'Inter', system-ui, sans-serif;
-  --font-serif: 'Literata', Charter, 'Bitstream Charter', Georgia, serif;
+  --font-serif: 'Source Serif 4', Charter, 'Bitstream Charter', Georgia, serif;
   --font-arabic: 'Amiri', serif;
 
   /* Typography Scale (Minor Third 1.2) */
