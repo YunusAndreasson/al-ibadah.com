@@ -145,7 +145,7 @@ Hur den som ber bakom imamen bör recitera den
 
 Recitation efter al-Fātihah
 
-1. Det är *sunnah[^12]* att recitera en annan sura eller några verser i de första två bönecykler[^7] na efter al-Fātihah. Detta gäller även i begravningsbönen.
+1. Det är *sunnah[^12]* att recitera en annan sura eller några verser i de första två bönecyklerna[^7] efter al-Fātihah. Detta gäller även i begravningsbönen.
 2. Recitationen kan ibland vara lång och ibland vara kort av anledningar som resa, hosta, sjukdom eller att ett spädbarn gråter.
 3. Recitationen varierar enligt bönerna. Recitationen i gryningsbönen[^18] är längre än vad den är i de andra bönerna. Näst längst är middagsbönen[^10], sedan eftermiddagsbönen[^11], sedan nattbönen[^19], sedan kvällsbönen[^20] – vanligtvis.
 4. Recitationen i nattbönen är längre än alla dessa.
@@ -155,13 +155,13 @@ Recitation efter al-Fātihah
 Recitera al-Fātihah i varje bönecykel
 
 1. Det är obligatoriskt att recitera al-Fātihah i varje bönecykel.
-2. Det är *sunnah[^12]* att lägga till något till den även i de två sista bönecykler[^7] na.
+2. Det är *sunnah[^12]* att lägga till något till den även i de två sista bönecyklerna[^7].
 3. Det är inte tillåtet att imamen gör sin recitation längre än vad som finns beskrivet i profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^12]*, därför då blir det svårt för dem som ber bakom. Detta kan vara äldre, sjuka, ammande mödrar eller de som har andra bestyr.
 
 Tyst och höjd recitation
 
-1. Koranen reciteras med höjd röst vid gryningsbönen[^18], fredagsbönen, *‘eid*-bönen, regnbönen, solförmörkelsebönen och i de första två bönecykler[^7] na i kvällsbönen[^20] och nattbönen[^19].
-2. Man reciterar tyst i de första två bönecykler[^7] na i middagsbönen[^10] och eftermiddagsbönen[^11], i den tredje bönecykeln[^7] i kvällsbönen[^20] och i de sista två bönecykler[^7] na i nattbönen[^19].
+1. Koranen reciteras med höjd röst vid gryningsbönen[^18], fredagsbönen, *‘eid*-bönen, regnbönen, solförmörkelsebönen och i de första två bönecyklerna[^7] i kvällsbönen[^20] och nattbönen[^19].
+2. Man reciterar tyst i de första två bönecyklerna[^7] i middagsbönen[^10] och eftermiddagsbönen[^11], i den tredje bönecykeln[^7] i kvällsbönen[^20] och i de sista två bönecyklerna[^7] i nattbönen[^19].
 3. Imamen får ibland göra en vers med höjd röst i böner där recitationen skall vara tyst.
 4. I *witr[^2]*- och nattbön bör man recitera tyst ibland och med höjd röst ibland. Man bör vara balanserad i att höja sin röst.
 
