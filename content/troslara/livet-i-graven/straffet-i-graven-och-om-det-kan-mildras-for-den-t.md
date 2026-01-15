@@ -22,7 +22,7 @@ Detta är ett bevis för att straffet i graven kan mildras. Men vilken är relat
 
 Det har sagts att det beror på att de båda löven glorifierar Allāh tills de torkar, och glorifierande av Allāh mildrar straffet som drabbar den avlidne. De har från detta härletts en slutledning som kan tänkas se långsökt ut, att det är föreskrivet att gå till gravarna och jämsides dem glorifiera Allāh för att mildra straffet som drabbar dem [de avlidne].
 
-Vissa lärde har sagt att denna slutledning är svag för de två palmlöven glorifierar Allāh oberoende av om de är vid liv eller torkade [döda]. Detta enligt Allāh den Högstes ord:
+Vissa lärde har sagt att denna slutledning är svag för de två palmlöven glorifierar Allāh oavsett om de är vid liv eller torkade [döda]. Detta enligt Allāh den Högstes ord:
 
 > ”De sju himlarna prisar Honom liksom jorden och allt det som de rymmer; ja, ingenting finns som inte sjunger Hans lov. Men ni förstår inte innebörden av deras lovsång.” [Koranen 17:44]
 

@@ -85,7 +85,7 @@ Bevisen genom det naturliga tillstånd som människan skapats i
 
 Den som åkallar[^4] Allāh […] riktar inte sitt hjärta mot någon annan plats än himlen. Därför finner vi att denne höjer händerna mot skyn. Detta är något omedvetet i dennes fitrah[^7].
 
-al-Hamdani sade till Abul-Ma'ali al-Juwaini: ”*Den som är vettig säger aldrig: 'Herre!' utan att denne i sitt hjärta finner att denne ber mot vad som finns ovan*.” Här började al-Juwaini slå sin hand mot huvudet och han sade: ”*al-Hamdani har gjort bort mig! al-Hamdani har gjort bort mig*.” På detta sätt har det berättats från honom och oberoende av om det är autentiskt eller inte är detta något som alla känner till.
+al-Hamdani sade till Abul-Ma'ali al-Juwaini: ”*Den som är vettig säger aldrig: 'Herre!' utan att denne i sitt hjärta finner att denne ber mot vad som finns ovan*.” Här började al-Juwaini slå sin hand mot huvudet och han sade: ”*al-Hamdani har gjort bort mig! al-Hamdani har gjort bort mig*.” På detta sätt har det berättats från honom och oavsett om det är autentiskt eller inte är detta något som alla känner till.
 
 I Sahīh Muslim återges i en *hadīth[^5]* från Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – berättade om en man som sträckte sin händer mot skyn och sade: ”*Herre!* …” [fram till och med hadithens slut]. [*Muslim* 436]
 

@@ -15,7 +15,7 @@ description: 'Fråga: Min mor åkte tillsammans med min far på vallfärd. Tills
 
 **Fråga:** Min mor åkte tillsammans med min far på vallfärd. Tillsammans med dem fanns det tre män i gruppen. Männen hade deras fruar med sig för att de skulle kunna utföra den obligatoriska vallfärden. De utförde skyldigheterna och när det var dags för *tawaful-wada*[^1] var det trängsel runt helgedomen. Kvinnorna som var tillsammans med min mor hade inte möjlighet att komma ned till det inre i helgedomen. De utsåg då männen [till att göra *tawāf[^2]* för dem]. Min mor svor dock att göra sin *tawāf[^2]* själv, så hon uppfyllde sin ed. Min fråga är hur utlåtandet är om hennes ed när hon var inne i helgedomen och om det är tillåtet att utse någon till att utföra *tawāf[^2]*?
 
-**Svar:** Det är inte tillåtet att utse någon annan till att utföra *tawāf[^2]*, oberoende av om det är *tawāf[^2] uz-ziyarah* [*al-ifādhah*] eller om det är en *tawaful-wada*[^1]. Den som utelämnar detta har inte en fullständig vallfärd. Tawāful-wada[^1] kan dock tas igen genom att ett djur offras i Mecka till de fattiga vid Helgedomen.
+**Svar:** Det är inte tillåtet att utse någon annan till att utföra *tawāf[^2]*, oavsett om det är *tawāf[^2] uz-ziyarah* [*al-ifādhah*] eller om det är en *tawaful-wada*[^1]. Den som utelämnar detta har inte en fullständig vallfärd. Tawāful-wada[^1] kan dock tas igen genom att ett djur offras i Mecka till de fattiga vid Helgedomen.
 
 På samma sätt krävs inte *tawaful-wada*[^1] av en kvinna med månadsblödning eller av en kvinna som har blödningar efter graviditeten, om hon redan har utfört *tawāf[^2] uz-ziyarah*.
 

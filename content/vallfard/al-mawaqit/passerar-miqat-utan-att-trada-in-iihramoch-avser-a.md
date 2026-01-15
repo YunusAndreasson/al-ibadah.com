@@ -33,7 +33,7 @@ Det har återberättats från Aishah att profeten – över honom vare Allāhs f
 
 I *Sahīh al-Bukhārī* [1531] återges att de från Kufa och Basra kom till 'Umar ibn al-Khattāb och sade: ”*Amīr al-Mu'minīn, Allāhs sändebud tillkännagav att Qarn var mīqāt[^3] för de från Najd, men det ligger inte i vår färdriktning och om vi beger oss till Qarn blir det svårt för oss*.” Han sade då: ”*Ta en plats som är parallell med Qarn och er vanliga resväg som mīqāt[^3]*.”
 
-Den som avser att utföra pilgrimsfärden eller *‘umrah[^1]* måste träda in i *ihrām[^2]* vid dessa *mīqāt[^3]* när denne kommer till dem, oberoende av om denne kommer med båt eller flyg.
+Den som avser att utföra pilgrimsfärden eller *‘umrah[^1]* måste träda in i *ihrām[^2]* vid dessa *mīqāt[^3]* när denne kommer till dem, oavsett om denne kommer med båt eller flyg.
 
 Anländer denne landvägen bör denne stanna vid dem om denne i sin färdväg passerar dem. I annat fall bör denne stanna vid en plats som är parallell med dem och göra det som krävs vid inträdet i *ihrām[^2]*: *ghusl[^4]*, parfymera kroppen, ta på sig plaggen för *ihrām[^2]* och träda in i *ihrām[^2]* innan denne lämnar denna plats.
 

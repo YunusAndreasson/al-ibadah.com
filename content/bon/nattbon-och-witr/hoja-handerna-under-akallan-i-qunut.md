@@ -16,7 +16,7 @@ description: 'Fråga: Är det en del av profetens – över honom vare Allāhs f
 
 **Svar:** Ja, det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* att man höjer sina händer när man åkallar[^2] under *qunūt[^3]*. Detta har rapporterats från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – om hans *qunūt[^3]* när han brukade förrätta den i den obligatoriska bönen under tider med stora svårigheter. Det har även rapporterats att de troendes ledare, 'Umar bin al-Khattab, höjde händerna i *qunūt[^3]* i *witr[^4]*. Han var en av de rättfärdiga kaliferna som vi har beordrats att följa.
 
-Att höja händerna när man gör *qunūt[^3]* under *witr[^4]* är en *sunnah[^1]* oberoende av om det gäller imamen, de som leds i bön eller den som ber ensam. Höj då därför alltid dina händer när du gör *qunūt[^3]*.
+Att höja händerna när man gör *qunūt[^3]* under *witr[^4]* är en *sunnah[^1]* oavsett om det gäller imamen, de som leds i bön eller den som ber ensam. Höj då därför alltid dina händer när du gör *qunūt[^3]*.
 
 
 [^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen

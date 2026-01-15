@@ -8,11 +8,11 @@ categories:
 - Tawāf och sa’ī
 original_id: 1353
 description: 'Fråga: Är tawāful-wadā obligatoriskt för ‘umrah och är det tillåtet
- att köpa något i Mecka efter tawāful-wadā , oberoende av om det är vallfärd eller ‘umrah
+ att köpa något i Mecka efter tawāful-wadā , oavsett om det är vallfärd eller ‘umrah
  ? Svar: Tawāful-wadā är int...'
 ---
 
-**Fråga:** Är *tawāf[^1] ul-wadā* obligatoriskt för *‘umrah[^2]* och är det tillåtet att köpa något i Mecka efter *tawāf[^1] ul-wadā*, oberoende av om det är vallfärd eller *‘umrah[^2]*?
+**Fråga:** Är *tawāf[^1] ul-wadā* obligatoriskt för *‘umrah[^2]* och är det tillåtet att köpa något i Mecka efter *tawāf[^1] ul-wadā*, oavsett om det är vallfärd eller *‘umrah[^2]*?
 
 **Svar:** *Tawāful-wadā* är inte obligatoriskt under*‘umrah[^2]*, men det är bättre att göra den. Om den som utför*‘umrah[^2]* utelämnar den och inte utför *tawāf[^1] ul-wadā*, då är det inga problem. Men under vallfärden är det en skyldighet. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Ingen *bör ge sig av förrän dennes sista handling är vid Huset [Ka’bah]*.” [*Muslim* 1327 och *Ahmad* 1/222] Detta sade han till pilgrimerna under vallfärden.
 

@@ -14,7 +14,7 @@ description: 'Fråga: Imamen är osäker på om det finns smuts på mattan, men 
 
 **Fråga:** Imamen är osäker på om det finns smuts på mattan, men han lämnade inte bönen då det enbart var en misstanke, men efter bönen upptäcker han att det finns smuts – vad gör han då? Bör han lämna bönen i en sådan situation, endast baserat på tvivel, eller vänta tills han har bett?
 
-**Svar:** Tvekar Allāhs tjänare över om det finns smuts på hans kläder medan han ber, då får han inte lämna bönen oberoende av om han är imam, leds i bön eller ber ensam.
+**Svar:** Tvekar Allāhs tjänare över om det finns smuts på hans kläder medan han ber, då får han inte lämna bönen oavsett om han är imam, leds i bön eller ber ensam.
 
 Han måste be klart. Upptäcker han då att det finns smuts på kläderna, då är han inte skyldig att ta igen den. Detta enligt den starkaste åsikten av de två åsikterna som de lärde har. Anledningen är att han inte blev säker på att där fanns smuts förrän efter bönen.
 

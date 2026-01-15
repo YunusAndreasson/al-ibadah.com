@@ -37,7 +37,7 @@ De lärde skiljs åt efter att ha enats om att den är den mest bekräftade form
 
 Den korrekta åsikten är att den är en skyldighet men inte ett villkor för att den ska vara giltig. Men den som överger den är en syndare om det inte finns någon laga ursäkt för denne. Bevisen för att den inte är ett villkor för att bönen ska vara giltig är att profeten – över honom vare Allāhs frid och välsignelser – förklarade att bön i församlingen är bättre än bön ensam [*Muslim* 654]. Att bön i församling är bättre än bön ensam är ett bevis för att det finns förtjänst [även] i bön ensam. Så skulle det inte vara utom om den bönen var giltig.
 
-I vilket fall som helst måste varje förståndig vuxen muslimsk man närvara vid bönen i församlingen, oberoende av om denne är på resa eller hemma.
+I vilket fall som helst måste varje förståndig vuxen muslimsk man närvara vid bönen i församlingen, oavsett om denne är på resa eller hemma.
 
 
 [^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen

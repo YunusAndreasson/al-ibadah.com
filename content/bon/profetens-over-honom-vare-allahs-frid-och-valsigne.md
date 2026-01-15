@@ -127,7 +127,7 @@ Recitation av Koranen
 1. Sedan söker man sin tillflykt hos Allāh. Detta är obligatoriskt och man syndar om man utelämnar det.
 2. Det är *sunnah[^12]* att ibland säga ”*A'ūdhu Billāhi min al-Shaytān il-rajīm, min hamzihi wa nafkhihi wa nafathihi*” [Jag söker tillflykt hos Allāh från den fördömlige djävulen, från hans vansinne, hans arrogans och hans poesi].” Poesin gäller här den klandervärda sorten.
 3. Och att ibland kan man säga: ”*A’ūdhu Billāh il-Samī’ il-A’līm min al-Shaytān*… [Jag söker tillflykt hos Allāh, den Allhörande, den Allvetande, från djävulen...].”
-4. Därefter säger man tyst – oberoende av om bönen ska reciteras högt eller lågt - ”*Bismillah[^15] il-Rahmān il-Rahīm* [I Allāhs, den Nåderikes, den Barmhärtiges Namn].”
+4. Därefter säger man tyst – oavsett om bönen ska reciteras högt eller lågt - ”*Bismillah[^15] il-Rahmān il-Rahīm* [I Allāhs, den Nåderikes, den Barmhärtiges Namn].”
 
 Recitera al-Fātihah
 

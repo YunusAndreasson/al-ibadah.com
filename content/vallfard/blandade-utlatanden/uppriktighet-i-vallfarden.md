@@ -36,7 +36,7 @@ Det som avses med uppriktighet mot Allāh i dyrkan är att inget motiverar denne
 
 > ”Muhammad är Guds Sändebud. De som följer honom är oböjligt fasta mot dem som förnekar sanningen, men sinsemellan fulla av värme och vänskap. Du ser hur de böjer ryggen och faller ned inför Gud i tillbedjan och säker Hans nåd och Hans välbehag; i sina ansikten bär de spåren av [de många] nedfallen under bönen.” [Koranen 48:29]
 
-Ingen dyrkan, oberoende av om det är vallfärden eller något annat, kommer att accepteras om denne gör det för att imponera på andra människor eller för att andra människor ska se och säga: ”Så ädel den och den är, så mycket denne dyrkar Allāh”.
+Ingen dyrkan, oavsett om det är vallfärden eller något annat, kommer att accepteras om denne gör det för att imponera på andra människor eller för att andra människor ska se och säga: ”Så ädel den och den är, så mycket denne dyrkar Allāh”.
 
 Ingen dyrkan kommer att accepteras om motivationen bakom den är att se platser eller att träffa människor, eller andra saker som står i motsats till uppriktighet. Därför måste en pilgrim som beger sig till det Heliga Huset ha en uppriktig avsikt för Allāhs skull och inte avse att se den muslimska världen, att göra affärer eller för att det ska sägas att denne vallfärdar varje år.
 

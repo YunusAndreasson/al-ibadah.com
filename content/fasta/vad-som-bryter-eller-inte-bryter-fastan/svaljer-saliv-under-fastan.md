@@ -16,5 +16,5 @@ description: 'Fråga: Vilket är utlåtandet om att svälja saliv när man fasta
 
 **Svar:** Saliv skadar inte fastan då det endast är spott. Om man sväljer den är det ingen fara och om man spottar ut den går det också bra. Slem från bröstet eller näsan, detta är ett tjockt slem från bröstet eller huvudet, måste man spotta ut. Den som fastar måste få ut det och se till att det inte sväljs.
 
-När det gäller vanlig saliv, som är spott, är det inga problem och det skadar inte den fastande, oberoende av om det är en man eller kvinna.
+När det gäller vanlig saliv, som är spott, är det inga problem och det skadar inte den fastande, oavsett om det är en man eller kvinna.
 

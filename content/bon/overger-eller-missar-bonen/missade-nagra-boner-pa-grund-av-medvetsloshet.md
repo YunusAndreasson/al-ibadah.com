@@ -14,5 +14,5 @@ description: 'Fråga: En man avled när han hade några obligatoriska böner att
 
 **Fråga:** En man avled när han hade några obligatoriska böner att ta igen som han inte hade bett då han var sjuk och medvetslös. Behöver hans släktingar, män som kvinnor, ta igen dessa böner eller kommer den avlidne inte hållas ansvarig för detta på grund av hans medvetslöshet?
 
-**Svar:** Om någon på grund av medvetslöshet inte ber de obligatoriska bönerna utan att vara fysiskt sjuk, då har han inte syndat och han kommer inte att hållas ansvarig för dem eftersom han inte var medvetande. Hans arvtagare behöver inte ta igen dem för honom. Övergav han bönen när han var vid medvetande, oberoende av om han var sjuk eller ej, då är han en ond syndare eftersom han övergett bönen och hans fall kommer avgöras av hans Herre. Hans böner behöver då inte tas igen.
+**Svar:** Om någon på grund av medvetslöshet inte ber de obligatoriska bönerna utan att vara fysiskt sjuk, då har han inte syndat och han kommer inte att hållas ansvarig för dem eftersom han inte var medvetande. Hans arvtagare behöver inte ta igen dem för honom. Övergav han bönen när han var vid medvetande, oavsett om han var sjuk eller ej, då är han en ond syndare eftersom han övergett bönen och hans fall kommer avgöras av hans Herre. Hans böner behöver då inte tas igen.
 

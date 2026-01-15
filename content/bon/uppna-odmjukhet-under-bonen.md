@@ -17,7 +17,7 @@ description: 'Fråga: Hur kan vi uppnå ödmjukhet i bönen när vi exempelvis r
 
 När Allāhs tjänare ber kommer djävulen och säger: Har du tänkt på det? Har du tänkt på det? [Detta är en del av en *hadīth[^1]* från Abū Hurairah som återfinns i *al-Bukhārī* och *Muslim*] Han får denne att fundera över meningslösa saker i vilka det inte finns någon nytta. Det enda denne då tänker på är att avsluta bönen.
 
-Det är därmed en skyldighet att vara ytterst medveten när man närmar sig Allāh den Allsmäktige. Om man känner några av dessa tomma tankar och viskningar, då söker man sin tillflykt hos Allāh från den utstötte djävulen. Detta oberoende av om man är i bugningen[^2], *tashahhud[^3]* eller någon annan av bönens positioner.
+Det är därmed en skyldighet att vara ytterst medveten när man närmar sig Allāh den Allsmäktige. Om man känner några av dessa tomma tankar och viskningar, då söker man sin tillflykt hos Allāh från den utstötte djävulen. Detta oavsett om man är i bugningen[^2], *tashahhud[^3]* eller någon annan av bönens positioner.
 
 Ett av de bästa sätten för att hjälpa en att uppnå ödmjukhet i bönen är att komma ihåg att man står inför Allāh och att man är nära sin Herre den Allsmäktige.
 

@@ -26,7 +26,7 @@ När ‘Umar – må Allāh vara nöjd med honom – knivhöggs lämnade han bes
 
 Hur kan någon då våga fabricera en lögn om Allāhs sändebud – över honom vare Allāhs frid och välsignelser – och påstå att han rekommenderade ’Ali som ansvarig för kalifatet? Detta när varken ’Ali eller följeslagarna påstod detta. Följeslagarna var i stället eniga om Abū Bakrs, ’Umars och sedan ‘Uthmāns kalifatskap. ’Ali erkände detta och deltog med dem i *djihād[^1]*, rådläggningar och andra plikter. Även muslimerna var eniga om det som följeslagarna var i eniga om.
 
-Därför får inte någon person eller sekt – oberoende av om det är shiiterna eller någon annan – påstå att ’Ali rekommenderats som ansvarig för kalifatet samt att de som föregick honom var falska. Det är heller inte tillåtet att påstå att följeslagarna berövade ’Ali hans rättigheter. Ett sådant uttalande är falskt och utgör onda samt sjuka tankar om Allāhs sändebuds följeslagare – inklusive ’Ali.
+Därför får inte någon person eller sekt – oavsett om det är shiiterna eller någon annan – påstå att ’Ali rekommenderats som ansvarig för kalifatet samt att de som föregick honom var falska. Det är heller inte tillåtet att påstå att följeslagarna berövade ’Ali hans rättigheter. Ett sådant uttalande är falskt och utgör onda samt sjuka tankar om Allāhs sändebuds följeslagare – inklusive ’Ali.
 
 Allāh har [...] skyddat Muhammads samfund från att enas om falskhet. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har ett antal gånger sagt: ”*En grupp ur mitt samfund kommer segerrika att hålla sig till sanningen*.” [*at-Tirmithi* 2192 och *Ibn Mājah* 6]
 

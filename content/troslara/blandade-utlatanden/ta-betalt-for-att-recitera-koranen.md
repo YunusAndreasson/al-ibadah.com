@@ -57,7 +57,7 @@ Sändebuden var på detta vis. De bad aldrig folket om belöningar för att de s
 
 En varning för att tjäna sitt levebröd genom Koranen har redan nämnts i de första paragraferna i detta svar.
 
-Beträffande bestraffningar för att göra detta, då kommer en sådan person på Återuppståndelsen Dag att komma utan kött i ansiktet. Detta är sannerligen ett skarpt hot riktat mot den som tigger utan någon giltig anledning, oberoende av om detta sker genom läsning av Koranen eller på något annat sätt. ’Abdullāh bin ’Umar rapporterar att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
+Beträffande bestraffningar för att göra detta, då kommer en sådan person på Återuppståndelsen Dag att komma utan kött i ansiktet. Detta är sannerligen ett skarpt hot riktat mot den som tigger utan någon giltig anledning, oavsett om detta sker genom läsning av Koranen eller på något annat sätt. ’Abdullāh bin ’Umar rapporterar att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”En av er kommer att fortsätta tigga tills denne möter Allāh utan något kött i sitt ansikte.” [*Muslim* 1040 och *Ahmad* 2:15, 88]
 

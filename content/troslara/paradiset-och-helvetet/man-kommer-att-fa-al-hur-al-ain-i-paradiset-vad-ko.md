@@ -24,7 +24,7 @@ description: 'Fråga: Det har nämnts att män kommer att få al-hūr al-’ain 
 > 
 > ”De ska betjänare med fat och dryckeskärl av guld, och där ska finnas allt det som själarna längtar efter och som är en fröjd för ögat. Och där ska ni förbli till evig tid.” [Koranen 43:71]
 
-Det är välkänt att giftermål är ett av det ting som själen åtrår mest och därför kommer det att finnas för människorna i Paradiset, oberoende av om de är män eller kvinnor. Allāh den Välsignades, den Upphöjdes kommer att gifta kvinnan med den man som hon var gift med i detta liv, vilket Han den Välsignades, den Upphöjdes säger:
+Det är välkänt att giftermål är ett av det ting som själen åtrår mest och därför kommer det att finnas för människorna i Paradiset, oavsett om de är män eller kvinnor. Allāh den Välsignades, den Upphöjdes kommer att gifta kvinnan med den man som hon var gift med i detta liv, vilket Han den Välsignades, den Upphöjdes säger:
 
 > ”Och för dem, Herre, som Du har lovat dem, till Edens lustgårdar, tillsammans med de rättfärdiga bland deras fäder och hustrur och efterkommande! Du är den Allsmäktige, den Vise!” [Koranen 40:8]
 

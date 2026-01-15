@@ -14,7 +14,7 @@ description: 'Fråga: Jag utförde den obligatoriska vallfärden men jag gjorde 
 
 **Fråga:** Jag utförde den obligatoriska vallfärden men jag gjorde inte *‘umrah[^1]* tillsammans med den. Har jag då syndat? Och den som utför *'umrah[^1]* tillsammans med vallfärden, är denne skyldig att utföra *‘umrah[^1]* vid en annan tidpunkt?
 
-**Svar:** Om någon vallfärdar och denne tidigare inte har utfört *‘umrah[^1]* [efter att ha kommit in i puberteten], då bör denne utföra *‘umrah[^1]* oberoende av om denne gör det före eller efter vallfärden. Men om denne vallfärdade utan att göra *'umrah[^1]* tillsammans med den, då bör han göra *‘umrah[^1]* efter vallfärden om denne inte har gjort *‘umrah[^1]* tidigare.
+**Svar:** Om någon vallfärdar och denne tidigare inte har utfört *‘umrah[^1]* [efter att ha kommit in i puberteten], då bör denne utföra *‘umrah[^1]* oavsett om denne gör det före eller efter vallfärden. Men om denne vallfärdade utan att göra *'umrah[^1]* tillsammans med den, då bör han göra *‘umrah[^1]* efter vallfärden om denne inte har gjort *‘umrah[^1]* tidigare.
 
 Anledningen är att Allāh gjort vallfärden och *‘umrah[^1]* till en skyldighet. Ett antal *ahādīth[^2]* från profeten – över honom vare Allāhs frid och välsignelser – bevisar detta. Därför måste den troende utföra *'umrah[^1]*.
 

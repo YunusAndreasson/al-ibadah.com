@@ -18,7 +18,7 @@ description: 'Fråga: Vad gäller om en kvinna får sin månadsblödning innan h
 
 Några av de lärde anser att det inte är tillåtet att skjuta upp den till efter *dhul-hijjah[^4]*. Detta är dock en åsikt som saknar bevis. Den korrekta åsikten är i stället att det är tillåtet att skjuta upp, men det är bättre att skynda sig med att utföra den om man har möjlighet. Om den skjuts upp till efter *dhul-hijjah[^4]*, då är den godkänd och det krävs inget offer.
 
-Kvinnor med månadsblödning eller blödningar efter graviditeten är ursäktade. Då de inte kan påverka denna fråga har de ingen skuld. När de blir rena bör de utföra *tawāf[^1]* oberoende av om det är *dhul-hijjah[^4]* eller *muharram[^2]*.
+Kvinnor med månadsblödning eller blödningar efter graviditeten är ursäktade. Då de inte kan påverka denna fråga har de ingen skuld. När de blir rena bör de utföra *tawāf[^1]* oavsett om det är *dhul-hijjah[^4]* eller *muharram[^2]*.
 
 
 [^1]: Den sju långa rundar vandringen runt Kabah.

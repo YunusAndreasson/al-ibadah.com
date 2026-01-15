@@ -9,11 +9,11 @@ categories:
 - Stå vid Arafat
 original_id: 1357
 description: 'Fråga: Vilket är utlåtandet om att samlas för åkallan under Arafat-dagen,
- oberoende av om det är just där eller vid någon annan plats? Svar: Under denna
+ oavsett om det är just där eller vid någon annan plats? Svar: Under denna
  stora dag är det bästa för pilgrimen a...'
 ---
 
-**Fråga:** Vilket är utlåtandet om att samlas för åkallan[^1] under Arafat[^2]-dagen, oberoende av om det är just där eller vid någon annan plats?
+**Fråga:** Vilket är utlåtandet om att samlas för åkallan[^1] under Arafat[^2]-dagen, oavsett om det är just där eller vid någon annan plats?
 
 **Svar:** Under denna stora dag är det bästa för pilgrimen att anstränga sig med åkallan[^1] och att vara ödmjuk inför Allāh. Denne bör även höja sina händer. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – under denna dag fram till solnedgången ansträngde sig med åkallan[^1] och åminnelse[^3] av Allāh. Detta skedde när han hade bettmiddagsbönen[^4] och eftermiddagsbönen[^5] tillsammans och förkortade i 'Uranah-dalen. Sedan gick han till platsen där man står och han stod där bland klipporna för åkallan[^1] [platsen kallas Jabalul-Āl]. Han ansträngde sig i åkallan[^1] och åminnelse[^3] av Allāh. Han gjorde detta med händerna höjda och i riktning mot *qiblah[^6]* samtidigt som han satt på en honkamel. Allāh har föreskrivit att tjänarna ska åkalla med ödmjukhet, i hemlighet och visandes ödmjukhet inför Honom. Detta med hopp och fruktan. Denna plats är en av de bästa platser för åkallan[^1]. Allāh den Upphöjde har sagt: ”*Åkalla er Herre i det tysta med ödmjukt sinne; Han älskar inte dem som går till överdrift*.” [Koranen 7:55]
 

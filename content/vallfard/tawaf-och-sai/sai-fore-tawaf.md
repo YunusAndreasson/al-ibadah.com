@@ -12,7 +12,7 @@ description: 'Fråga: Är det tillåtet att utföra sa’ī innan tawāf , obero
  först och sedan sa’ī efter den...'
 ---
 
-**Fråga:** Är det tillåtet att utföra *sa’ī[^1]* innan *tawāf[^2]*, oberoende av om det är under vallfärden eller *‘umrah[^3]*?
+**Fråga:** Är det tillåtet att utföra *sa’ī[^1]* innan *tawāf[^2]*, oavsett om det är under vallfärden eller *‘umrah[^3]*?
 
 **Svar:** Det som är *sunnah[^4]* är att *tawāf[^2]* utförs först och sedan *sa’ī[^1]* efter den. Om någon utför *sa’ī[^1]* före *tawāf[^2]*, på grund av okunskap från dennes sida, då är det inget problem med det. En man sade till profeten: ”*Jag utförde sa’ī[^1] före tawāf[^2]*.” Profeten – över honom vare Allāhs frid och välsignelser – svarade då: ”*Inga problem*.” [*Abū Dawūd* 2015]
 

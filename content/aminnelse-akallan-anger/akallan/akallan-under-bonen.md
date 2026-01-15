@@ -14,7 +14,7 @@ description: 'Fråga: Får Allāhs tjänare åkalla i den obligatoriska bön? Et
 
 **Fråga:** Får Allāhs tjänare åkalla i den obligatoriska bön? Ett exempel är om han efter att ha sagt ”*Subhana Rabii al-A’la*” säger ”*Allāhummaghfir lī warhamnī*” eller något liknande. Jag ber dig att du informerar mig om vad som är bra.
 
-**Svar:** Tjänaren får åkalla vid platserna för åkallan[^1]. Detta gäller oberoende av om bönen är obligatorisk eller icke-obligatorisk. Platserna för åkallan[^1] under bönen är i nedfallandet, mellan nedfallandena och innan taslīm[^2]. Profeten – över honom vare Allāhs frid och välsignelser – brukade åkalla för att söka förlåtelse mellan nedfallandena och det har även rapporterats att han mellan nedfallandena brukade säga: ”*Allāhummaghfir lī warhamnī wahdinī wajburnī warzuqnī wa 'āfinī*.”
+**Svar:** Tjänaren får åkalla vid platserna för åkallan[^1]. Detta gäller oavsett om bönen är obligatorisk eller icke-obligatorisk. Platserna för åkallan[^1] under bönen är i nedfallandet, mellan nedfallandena och innan taslīm[^2]. Profeten – över honom vare Allāhs frid och välsignelser – brukade åkalla för att söka förlåtelse mellan nedfallandena och det har även rapporterats att han mellan nedfallandena brukade säga: ”*Allāhummaghfir lī warhamnī wahdinī wajburnī warzuqnī wa 'āfinī*.”
 
 Han har även sagt: ”*Beträffande bugningen[^3], lovprisa din Herre i den; och när det gäller nedfallandet[^4], använd din ijtihād[^5] i den [åkalla med dina egna ord] och det kan vara värdigt nog att besvaras*.” [*Muslim* 479]
 

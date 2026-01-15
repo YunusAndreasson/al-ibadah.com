@@ -19,7 +19,7 @@ description: 'Fråga: Vilket är utlåtandet om åkalla i grupp i varje samling 
 
 Beträffande vad Allāh har föreskrivit för åminnelse[^2], åkallan[^1] och andra handlingar av dyrkan som inte är bundna till tid, plats eller form är vi inte tillåtna att specificera den dyrkan till ett antal, en tid eller en plats.
 
-Vi är endast tillåtna att konsekvent följa en form av dyrkan vid vissa tider eller platser som Allāh har beordrat oss till. Då ingenting har berättats från profeten, varken i tal eller i handling, om ett tillåtande för att åkalla i grupp efter bönen eller läsning av Koranen efter varje lektion bör vi inte göra så, oberoende av om imamen åkallar[^1] och andra svarar ”*āmīn*” om de åkallar[^1] tillsammans.
+Vi är endast tillåtna att konsekvent följa en form av dyrkan vid vissa tider eller platser som Allāh har beordrat oss till. Då ingenting har berättats från profeten, varken i tal eller i handling, om ett tillåtande för att åkalla i grupp efter bönen eller läsning av Koranen efter varje lektion bör vi inte göra så, oavsett om imamen åkallar[^1] och andra svarar ”*āmīn*” om de åkallar[^1] tillsammans.
 
 Denna handling är inte känd från de rättfärdigt vägledda kaliferna eller de övriga följeslagarna. Den som då åkallar[^1] i grupp efter varje bön, efter att ha läst Koranen eller efter en religionslektion har fört in något i religionen som inte tillhör den.
 

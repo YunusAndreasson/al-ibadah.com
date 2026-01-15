@@ -8,11 +8,11 @@ categories:
 - Kläderna under ihrām
 original_id: 1343
 description: 'Fråga: Om en man eller kvinna bär sandaler eller sockar under ihrām
- , oberoende av om denne kände till det eller inte, gör detta då ihrām ogiltig? Svar: Det
+ , oavsett om denne kände till det eller inte, gör detta då ihrām ogiltig? Svar: Det
  som är sunnah är att en man gå...'
 ---
 
-**Fråga:** Om en man eller kvinna bär sandaler eller sockar under *ihrām[^1]*, oberoende av om denne kände till det eller inte, gör detta då *ihrām[^1]* ogiltig?
+**Fråga:** Om en man eller kvinna bär sandaler eller sockar under *ihrām[^1]*, oavsett om denne kände till det eller inte, gör detta då *ihrām[^1]* ogiltig?
 
 **Svar:** Det som är *sunnah[^2]* är att en man går in i *ihrām[^1]* i två sandaler. Anledningen är att det har berättats från profeten – över honom vare Allāhs frid och välsignelser – att han har sagt: ”*Ni bör träda in i *ihrām[^1]* i ett midjeplagg, ett övre klädesplagg och två sandaler*.” [*Talkhis al-Habair* 2:237]
 

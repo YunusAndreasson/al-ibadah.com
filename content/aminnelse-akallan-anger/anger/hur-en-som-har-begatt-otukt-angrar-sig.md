@@ -37,7 +37,7 @@ Kom ihåg att Allāh den Allsmäktige säger:
 > 
 > ”Säg [Muhammad] till mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [Mina bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet!” [39:53]
 
-De lärde är eniga om att denna vers uppenbarades för den tålmodige; den som önskar att ångra sig. Om din synd involverar en människas rätt måste vi lägga till ett fjärde villkor: Du måste återgälda deras rättigheter till dem. Detta oberoende av om det är tillgångar eller något annat. I andra fall måste du be om deras förlåtelse. Allāhs sändebud har sagt:
+De lärde är eniga om att denna vers uppenbarades för den tålmodige; den som önskar att ångra sig. Om din synd involverar en människas rätt måste vi lägga till ett fjärde villkor: Du måste återgälda deras rättigheter till dem. Detta oavsett om det är tillgångar eller något annat. I andra fall måste du be om deras förlåtelse. Allāhs sändebud har sagt:
 
 > ”Den som har handlat felaktigt mot sin broders heder eller något annat, låt honom söka förlåtelse från honom idag så länge det finns saker som dinar och dirham (det vill säga, innan Domedagen). Om den som handlat felaktigt har goda handlingar kommer den som behandlats felaktigt att få dem i enlighet med det onda som gjorts mot honom. Men om personen som gjort fel inte har några goda gärningar, då kommer han ta från sin partners synder och bära den bördan.” [al-Bukhārī 2449]
 

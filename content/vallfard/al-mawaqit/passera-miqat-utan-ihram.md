@@ -8,11 +8,11 @@ categories:
 - al-Mawaqit
 original_id: 1331
 description: 'Fråga: Vilket är utlåtandet om den som passerar mīqāt utan att träda
- in i ihrām , oberoende av om det var för vallfärden, ‘umrah eller något annat
+ in i ihrām , oavsett om det var för vallfärden, ‘umrah eller något annat
  syfte? Svar: Passerar någon mīqāt för ...'
 ---
 
-**Fråga:** Vilket är utlåtandet om den som passerar *mīqāt[^1]* utan att träda in i *ihrām[^2]*, oberoende av om det var för vallfärden, *‘umrah[^3]* eller något annat syfte?
+**Fråga:** Vilket är utlåtandet om den som passerar *mīqāt[^1]* utan att träda in i *ihrām[^2]*, oavsett om det var för vallfärden, *‘umrah[^3]* eller något annat syfte?
 
 **Svar:** Passerar någon *mīqāt[^1]* för vallfärden eller *‘umrah[^3]* utan att träda in i *ihrām[^2]*, då måste denne återvända och träda in i *ihrām[^2]* för vallfärden och *‘umrah[^3]* vid *mīqāt[^1]*. Anledningen är att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – beordrade det. Han sade: ”*Invånarna i Medina går in i *ihrām[^2]* vid Thul-Hulayfah, invånarna i ash-Sham vid al-Juhfah, invånarna i Najd vid Qarn och invånarna i Jemen vid Yalamlam*.” [*al-Bukhārī* 1525 och *Muslim* 1182]
 

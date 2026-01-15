@@ -14,5 +14,5 @@ description: 'Fråga: Stämmer det att profeten – över honom vare Allāhs fri
 
 **Fråga:** Stämmer det att profeten – över honom vare Allāhs frid och välsignelser – sträckte ut sin hand från sin grav mot följeslagarna?
 
-**Svar:** Avlidna – oberoende av om de är profeter eller inte – rör sig inte i graven genom att sträcka ut en hand eller genom någon annan rörelse. Vad som än har sagts i fråga om att profeten – över honom vare Allāhs frid och välsignelser – sträcker ut sin hand mot somliga som hälsar på honom, det är inte autentiskt. Det är i stället ren fantasi som saknar grund.
+**Svar:** Avlidna – oavsett om de är profeter eller inte – rör sig inte i graven genom att sträcka ut en hand eller genom någon annan rörelse. Vad som än har sagts i fråga om att profeten – över honom vare Allāhs frid och välsignelser – sträcker ut sin hand mot somliga som hälsar på honom, det är inte autentiskt. Det är i stället ren fantasi som saknar grund.
 

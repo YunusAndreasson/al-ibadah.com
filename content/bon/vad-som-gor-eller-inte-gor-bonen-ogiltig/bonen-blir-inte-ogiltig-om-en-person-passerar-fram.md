@@ -20,7 +20,7 @@ Enligt den mest korrekta åsikten bland de lärde är innebörden att dessa tre 
 
 Han har beordrat den som ber mot en *sutrah[^1]* att inte låta folk passera framför. I stället ska de hindras: ”*Om någon ber mot något som skärmar av honom från folket [en sutrah[^1]] och någon önskade gå framför er, då bör ni hindra honom, men om han vägrar, då bör ni strida mot honom. Han är en djävul*.” [*al-Bukhārī* 509 och *Muslim* 505]
 
-profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* bevisar att Allāhs tjänare bör försöka hejda den som försöker att gå framför honom, även om han inte är en av de tre som tidigare nämnts och oberoende av om det är en människa eller ett djur, om tjänaren har förmåga att göra det. Om tjänaren inte lyckas, då skadar det inte bönen.
+profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* bevisar att Allāhs tjänare bör försöka hejda den som försöker att gå framför honom, även om han inte är en av de tre som tidigare nämnts och oavsett om det är en människa eller ett djur, om tjänaren har förmåga att göra det. Om tjänaren inte lyckas, då skadar det inte bönen.
 
 Det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* att en muslim har något framför sig: en stol, ett spjut som sticks ned i marken, en vägg eller en av moskéns pelare. Om folket sedan går bakom denna *sutrah[^1]*, då kommer det inte skada bönen. Det som är förbjudet är att de passerar mellan den bedjande och hans sutrah[^1].
 

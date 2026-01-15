@@ -22,5 +22,5 @@ Har hon inte angivit ett villkor, då behöver han inte vallfärda med henne, me
 2. Det kommer att skapa kärlek mellan dem och allting som skapar kärlek mellan en man och en kvinna är påbjudet.
 3. Han kommer att prisas för sin handling och han kommer att vara ett exempel för andra.
 
-Låt honom söka Allāhs hjälp och ta med frun på pilgrimsfärden oberoende av om hon har ställt som krav att han ska göra det eller inte. Har hon stipulerat det, då är han skyldig att uppfylla det.
+Låt honom söka Allāhs hjälp och ta med frun på pilgrimsfärden oavsett om hon har ställt som krav att han ska göra det eller inte. Har hon stipulerat det, då är han skyldig att uppfylla det.
 

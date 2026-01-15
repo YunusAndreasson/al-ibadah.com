@@ -15,7 +15,7 @@ description: 'Fråga: Tunna kläder har, speciellt under sommaren, blivit vanlig
 
 **Fråga:** Tunna kläder har, speciellt under sommaren, blivit vanligt bland muslimer. Vi ser ofta att folk ber i dem. Under bär de då korta underkläder som endast täcker hälften eller en tredjedel av låren. På samma sätt bär vissa korta västar som inte döljer det som finns under naveln. Som ni känner till är det ett villkor för att bönen ska accepteras att *‘awrah[^1]* täcks. Täcker dessa klädesplagg*‘awrah[^1]*? Vänligen, informera oss.
 
-**Svar:** Muslimer är eniga om att *‘awrah[^1]* måste täckas i bönen och att man inte får be avklädd, oberoende av om det gäller män eller kvinnor. Kvinnans*‘awrah[^1]* täcker ett vidare område än en mans. Mannens *‘awrah[^1]* är mellan naveln samt knäna och han måste även täcka axlarna, eller åtminstone en av dem, om han har möjlighet. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – till Jabir har sagt: ”*Om plagget är lågt, svep dig då i det; och om det är åtsittande, bär då en izār*.” [*al-Bukhārī* 361]
+**Svar:** Muslimer är eniga om att *‘awrah[^1]* måste täckas i bönen och att man inte får be avklädd, oavsett om det gäller män eller kvinnor. Kvinnans*‘awrah[^1]* täcker ett vidare område än en mans. Mannens *‘awrah[^1]* är mellan naveln samt knäna och han måste även täcka axlarna, eller åtminstone en av dem, om han har möjlighet. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – till Jabir har sagt: ”*Om plagget är lågt, svep dig då i det; och om det är åtsittande, bär då en izār*.” [*al-Bukhārī* 361]
 
 I en *hadīth[^2]* från Abū Hurairah säger han: ”*Ingen av er ska be i ett klädesplagg som inte täcker axlarna*.” [*Muslim* 516 och *Abū Dawūd* 626]
 

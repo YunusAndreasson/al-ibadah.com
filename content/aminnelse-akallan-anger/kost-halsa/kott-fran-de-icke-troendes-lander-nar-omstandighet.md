@@ -18,7 +18,7 @@ description: 'Fråga: Här i USA säljs fruset kött men vi vet inte vem som sla
 
 > ”Denna dag har all god, hälsosam föda blivit tillåten för er; och födan hos dem som fick del av uppenbarelsen [i äldre tid] är tillåten för er och er föda är tillåten för dem.” [Koranen 5:5]
 
-Men om det finns andra icke-troende som inte tillhör ”bokens folk” i området, ät då inte det på grund av osäkerheten i om det är tillåtet eller förbjudet. Om du på samma sätt vet att de som säljer detta kött slaktar det på ett sätt som inte är i enlighet med den islamiska lagen, som genom strypning eller elchock, ät då inte det. Detta gäller oberoende av om det har slaktats av en muslim eller en icke-troende. Allāh den Allsmäktige säger: 
+Men om det finns andra icke-troende som inte tillhör ”bokens folk” i området, ät då inte det på grund av osäkerheten i om det är tillåtet eller förbjudet. Om du på samma sätt vet att de som säljer detta kött slaktar det på ett sätt som inte är i enlighet med den islamiska lagen, som genom strypning eller elchock, ät då inte det. Detta gäller oavsett om det har slaktats av en muslim eller en icke-troende. Allāh den Allsmäktige säger: 
 
 > ”Förbjudet för er är kött av självdöda djur och blod och svinkött och sådant [kött] som har slaktats i ett namn annat än Guds; [vidare kött av] djur som strypts eller kvävts eller dödats genom ett hårt slag [som] fallit utför ett stup eller stångats ihjäl eller rivits av ett rovdjur – om ni inte har slaktat djuret på föreskrivet sätt [medan det var vid liv] – och djur som slaktats på hedniska offeraltare.” [Koranen 5:3]
 

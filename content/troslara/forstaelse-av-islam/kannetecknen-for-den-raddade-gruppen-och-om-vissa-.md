@@ -51,7 +51,7 @@ Därför anser jag det vara en skyldighet, för muslimer som påstår sig följa
 
 Jag anser att *ahlus-sunnah[^1] wal-jamā’at* måste ena sig även om de är oeniga i vissa frågor på grund av att de har förstått bevisen på olika sätt. Detta beror på att det finns rum för ömsesidiga eftergifter i dessa frågor, och all lovprisan samt tacksamhet tillhör Allāh.
 
-Det viktiga är att alla hjärtan är i harmoni och att man talar med en röst. Det råder ju inga tvivel om att muslimernas fiender älskar att se muslimer splittrade. Detta oberoende av om de är fiender som öppet visar sin fiendeskap eller om de är fiender som ger intrycket av att vara vänner till muslimer och islam, när de i själva verket inte är det.
+Det viktiga är att alla hjärtan är i harmoni och att man talar med en röst. Det råder ju inga tvivel om att muslimernas fiender älskar att se muslimer splittrade. Detta oavsett om de är fiender som öppet visar sin fiendeskap eller om de är fiender som ger intrycket av att vara vänner till muslimer och islam, när de i själva verket inte är det.
 
 Därför måste vi utmärka oss med detta, den räddade gruppens karraktärsdrag, som är att man talar med en röst.
 

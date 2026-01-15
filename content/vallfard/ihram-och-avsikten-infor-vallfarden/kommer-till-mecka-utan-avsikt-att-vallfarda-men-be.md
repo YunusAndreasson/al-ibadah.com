@@ -19,7 +19,7 @@ description: 'Fråga: Vad gäller dem som kommer till Mecka för att arbeta elle
 
 Men om han avser att göra *‘umrah[^2]* måste han ta sig utanför helgedomen, som till at-Tan'im, al-Ji'ranah eller någon annan plats. Det är *sunnah[^3]* – eller snarare obligatoriskt – att ta sig utanför helgedomen, som profeten – över honom vare Allāhs frid och välsignelser – beordrade ‘A’ishah att göra när hon ville utföra *‘umrah[^2]*. Han beordrade henne att ta sig till at-Tan'im och han beordrade hennes bror, 'Abdur-Rahmān, att följa med henne ut ur helgedomen till platsen utanför, vilken kan vara at-Tan'im eller någon annan plats. Den som vill utföra ‘umrah[^2] måste göra så här.
 
-Men den som vill vallfärda säger *talbiyyah[^4]* i bostaden, oberoende av om den ligger innaför eller utanför helgedomen. Detta har vi nämnt tidigare.
+Men den som vill vallfärda säger *talbiyyah[^4]* i bostaden, oavsett om den ligger innaför eller utanför helgedomen. Detta har vi nämnt tidigare.
 
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

@@ -9,12 +9,12 @@ categories:
 original_id: 1538
 description: 'Fråga: Vilket är utlåtandet om en imam som rakar sitt skägg, som röker,
  som är okunnig eller inte förstår Koranen? Svar: Imamtjänsten för den som röker
- eller rakar sitt skägg, oberoende av om ...'
+ eller rakar sitt skägg, oavsett om ...'
 ---
 
 **Fråga:** Vilket är utlåtandet om en imam som rakar sitt skägg, som röker, som är okunnig eller inte förstår Koranen?
 
-**Svar:** Imamtjänsten för den som röker eller rakar sitt skägg, oberoende av om han är den vanliga imamen eller inte, om det är möjligt att be bakom någon annan, då är det tillåtet [att be bakom någon annan]. Men om detta är den vanlige imamen och det är möjligt att byta ut honom mot någon som har mer rätt, då bör någon annan utses.
+**Svar:** Imamtjänsten för den som röker eller rakar sitt skägg, oavsett om han är den vanliga imamen eller inte, om det är möjligt att be bakom någon annan, då är det tillåtet [att be bakom någon annan]. Men om detta är den vanlige imamen och det är möjligt att byta ut honom mot någon som har mer rätt, då bör någon annan utses.
 
 Går det inte eftersom det inte finns någon bättre person eller eftersom splittringar skulle uppstå, då bör han vara kvar för att välja det mindre onda av två alternativ.
 
