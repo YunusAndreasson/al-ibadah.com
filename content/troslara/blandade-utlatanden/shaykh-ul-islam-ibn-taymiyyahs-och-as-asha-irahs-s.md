@@ -43,7 +43,7 @@ Därför kan *ahlus-sunnah[^1] wal-jamā’ats* beskrivning enbart tillhöra en 
 
 Det finns inget i detta mått [Allāhs skrift… och vad som räknades upp ovan] som bevisar något, varken direkt eller genom antydande, eller som tydligt förstås. Det finns heller ingen antydan mot vad den andra skolan påstår. I stället finns i detta mått [Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*] bevis som är klara, tydliga och indikativa för vad den första skolan påstår. Följaktligen är det avgjort att attributet *ahlus-sunnah[^1] wal-jamā’at* exklusivt tillhör dem [den första skolan] och att den andra skolan inte har någon delaktighet i det. Att säga att dessa båda skolor går att förena är orättvist och det är en ansats till att försöka föra samman två motsatser. Orättvisa är något som den islamiska lagen förbjuder och att sammanjämka två motsatser avvisas genom logik.
 
-Påstående som den andra skolan [de som gör *ta’wil*] lägger fram, att det inte finns någon invändan mot att göra *ta’wil* av Allāhs namn och egenskaper så länge som det inte motsäger sig något laga bevis, det säger vi följande om:
+Påstående som den andra skolan [de som gör *ta’wil*] lägger fram, att det inte finns någon invändan mot att göra *ta’wil* av Allāhs namn och egenskaper så länge det inte motsäger sig något laga bevis, det säger vi följande om:
 
 Att enbart ändra orden från deras uppenbara mening, utan några giltiga bevis, motsäger sig bevisen och att göra så är att tala om Allāh den Upphöjde utan kunskap. Allāh den Upphöjde har förbjudit detta när Han sagt:
 

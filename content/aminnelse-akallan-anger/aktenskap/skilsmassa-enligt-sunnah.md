@@ -18,7 +18,7 @@ När vänteperioden sedan är över och han inte har tagit henne tillbaka bör h
 
 Att skilja sig från henne tre gånger är en innovation men enligt en majoritet av de lärde räknas den och frun är inte tillåten för honom utom om hon gifter sig med en annan man (som sedan skiljer sig från henne). Efter att ha uttalat skilsmässan två gånger är det tillåtet att ta tillbaka henne under vänteperioden, precis som det är tillåtet efter en skilsmässa.
 
-Skilsmässa vid vrede räknas enligt en majoritet av de lärda så länge som han är vid sina sinnens fulla bruk. Vissa av dem säger att den inte räknas om ilskan var riktigt stark och det finns detaljer beträffande detta som är väl kända.
+Skilsmässa vid vrede räknas enligt en majoritet av de lärda så länge han är vid sina sinnens fulla bruk. Vissa av dem säger att den inte räknas om ilskan var riktigt stark och det finns detaljer beträffande detta som är väl kända.
 
 
 [^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
