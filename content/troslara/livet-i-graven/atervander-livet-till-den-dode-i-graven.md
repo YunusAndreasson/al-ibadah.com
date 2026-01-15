@@ -13,7 +13,7 @@ description: 'Fråga: Jag har hört att de lärde säger att den som har avlidit
  från dessa frågor blir klart att denne är en i...'
 ---
 
-**Fråga:** Jag har hört att de lärde säger att den som har avlidit kommer att återfå livet i graven, att de får besvara frågor från änglar och att om det från dessa frågor blir klart att denne är en icke troende som inte praktiserade islam under sitt liv här i denna världen, då kommer denne att straffas. Jag har inte funnit några bevis för detta i den Heliga Koranen som klargör utfrågningen och straffet i graven. Allāh säger:
+**Fråga:** Jag har hört att de lärde säger att den som har avlidit kommer att återfå livet i graven, att de får besvara frågor från änglar och att om det från dessa frågor blir klart att denne är en icke-troende som inte praktiserade islam under sitt liv här i denna världen, då kommer denne att straffas. Jag har inte funnit några bevis för detta i den Heliga Koranen som klargör utfrågningen och straffet i graven. Allāh säger:
 
 > ”[Då säger Gud till den rättfärdige:] ”Du själ, som har kommit till ro! Vänd tillbaka till den Herre, tillfredställd [med Hans gåvor och] omsluten av Hans välbehag! Stig in med skaran av Mina tjänare! Stig in i mitt Paradis!” [Koranen 89:27-30]
 
@@ -73,7 +73,7 @@ Beträffande Allāhs ord:
 
 > ”Gud stärker de troende med det ord vars sanning står fast i denna värld och i evigheten; men de orättfärdiga låter Han gå vilse. - Gud gör vad Han vill.” [Koranen 14:27]
 
-Profeten – över honom vare Allāhs frid och välsignelser – klargjorde att baserat på detta så kommer den troende att hållas stadig [i tron], medan den icke troende kommer att misslyckas när denne utfrågas i graven. Han förklarade även att den troende kommer att belönas och ro i hans grav för svaren, och den icke troende kommer att tveka och inte lyckas svara, och då straffas i graven. Detta kommer snart att visas i en *hadīth[^2]* från al-Bara' bin 'Azib. Bland bevisen för straffet i graven finns även hadithen från Ibn ‘Abbās som återberättas i *Sahīh al-Bukhārī* och *Sahīh Muslim*. När profeten – över honom vare Allāhs frid och välsignelser – passerade två gravar sade han:
+Profeten – över honom vare Allāhs frid och välsignelser – klargjorde att baserat på detta så kommer den troende att hållas stadig [i tron], medan den icke-troende kommer att misslyckas när denne utfrågas i graven. Han förklarade även att den troende kommer att belönas och ro i hans grav för svaren, och den icke-troende kommer att tveka och inte lyckas svara, och då straffas i graven. Detta kommer snart att visas i en *hadīth[^2]* från al-Bara' bin 'Azib. Bland bevisen för straffet i graven finns även hadithen från Ibn ‘Abbās som återberättas i *Sahīh al-Bukhārī* och *Sahīh Muslim*. När profeten – över honom vare Allāhs frid och välsignelser – passerade två gravar sade han:
 
 > ”De [som ligger i gravarna] straffas men de straffas inte för en grov synd. När det gäller en av dem, var han inte noga med att hålla sig ren från urin och när det gäller den andre så brukade han berätta historier.”
 
@@ -113,7 +113,7 @@ Utfrågningen och den efterföljande belöningen eller bestraffningen i graven, 
 > 
 > 
 > 
-> Han sade: 'Och sannerligen, den icke troende, då denne är nära det Nästkommande och på väg att lämna livet i denna världen, kommer änglarna ned till honom från himmeln, deras ansikten är svarta, med dem finns en grov bit av en […] och de sitter inom hans åsyn. Sedan kommer dödsängeln, sätter sig nära hans huvud och säger: ”Du ondskefulla själ! Kom ut till Allāhs vrede och ilska!'
+> Han sade: 'Och sannerligen, den icke-troende, då denne är nära det Nästkommande och på väg att lämna livet i denna världen, kommer änglarna ned till honom från himmeln, deras ansikten är svarta, med dem finns en grov bit av en […] och de sitter inom hans åsyn. Sedan kommer dödsängeln, sätter sig nära hans huvud och säger: ”Du ondskefulla själ! Kom ut till Allāhs vrede och ilska!'
 > 
 > 
 > 

@@ -19,7 +19,7 @@ description: 'Fråga: Hur påbörjar jag ett nytt rent liv? Vilket är straffet 
 
 Du bör träna dig själv, inte enbart till att be, utan även till att be alla de obligatoriska bönerna i moskén, att be extra frivilliga böner, att åminnas Allāh och att åkalla Honom. Bryt banden med dem som är dåraktiga och bjuder in dig till synd. Vägledningen ligger hos Allāh den Allsmäktige.
 
-Att inte be är en handling som kommer från att inte tro och detta är ett faktum som bevisats i *ahādīth[^1]*. Även om några lärda gör skillnad mellan en person som förnekar att bönen är obligatorisk och en person som helt enkelt är lat, är texterna i denna fråga tydliga och de säger att han är en icke troende.
+Att inte be är en handling som kommer från att inte tro och detta är ett faktum som bevisats i *ahādīth[^1]*. Även om några lärda gör skillnad mellan en person som förnekar att bönen är obligatorisk och en person som helt enkelt är lat, är texterna i denna fråga tydliga och de säger att han är en icke-troende.
 
 Allāh den Allsmäktige vet bäst.
 

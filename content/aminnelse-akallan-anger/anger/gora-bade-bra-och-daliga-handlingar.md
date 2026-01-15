@@ -15,7 +15,7 @@ description: 'Fråga: En ung man utför alla de obligatoriska plikterna – isla
 
 **Fråga:** En ung man utför alla de obligatoriska plikterna – islams fem pelare. Samtidigt begår han vissa synder. Vilket är det islamska utlåtandet om en person som gör både bra och dåligt?
 
-**Svar:** Tills solen stiger från väst står ångerns dörr öppen. Varje icke troende och syndare bör uppriktigt ångra sig inför Allāh. Men vad är uppriktig ånger? För att uppriktigt ångra dig måste du:
+**Svar:** Tills solen stiger från väst står ångerns dörr öppen. Varje icke-troende och syndare bör uppriktigt ångra sig inför Allāh. Men vad är uppriktig ånger? För att uppriktigt ångra dig måste du:
 
 1. Känna ånger för tidigare begångna synder;
 2. hålla dig borta från dessa synder, frukta Allāh och glorifiera Honom och
