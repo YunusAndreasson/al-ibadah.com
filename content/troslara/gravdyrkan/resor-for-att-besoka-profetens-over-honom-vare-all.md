@@ -10,7 +10,7 @@ categories:
 original_id: 1195
 description: 'Fråga: Vilket är utlåtandet om att resa för att besöka profetens –
  över honom vare Allāhs frid och välsignelser – grav? Svar: Att resa för att
- besöka gravar är inte tillåtet oberoende av vilke...'
+ besöka gravar är inte tillåtet oberoende av vilken...'
 ---
 
 **Fråga:** Vilket är utlåtandet om att resa för att besöka profetens – över honom vare Allāhs frid och välsignelser – grav?

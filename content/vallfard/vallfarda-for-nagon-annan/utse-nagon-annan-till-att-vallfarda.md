@@ -20,7 +20,7 @@ När du ger pengarna som du har avsett för din faders och moders vallfärd till
 
 Samma gäller när du betalar kvinnan för att hon skall vallfärda åt din moder. Det är tillåtet att utse en kvinna till att vallfärda åt en annan kvinna eller man. Detta baseras på bevis från Allāh Budbärare.
 
-Den som vill utse någon annan som vallfärdar bör noggrant se på personen som denne vill att utse och säkerställa att det är en religiös person som är pålitlig. Detta beror på att de skall känna sig säkra på att personen skall göra det som är obligatoriskt.
+Den som vill utse någon annan som vallfärdar bör noggrant se på personen som denne vill utse och säkerställa att det är en religiös person som är pålitlig. Detta beror på att de skall känna sig säkra på att personen skall göra det som är obligatoriskt.
 
 Och framgång kommer från Allāh.
 

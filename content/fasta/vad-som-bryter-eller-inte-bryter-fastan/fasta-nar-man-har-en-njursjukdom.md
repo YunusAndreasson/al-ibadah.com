@@ -9,7 +9,7 @@ categories:
 original_id: 440
 description: 'Fråga: Jag lider av en njursjukdom och läkarna har gett mig rådet att
  inte fasta. Jag lyder dock inte vad de säger. Därför fastar jag men smärtan ökar
- då. Syndar jag om jag bryter fastan och vilke...'
+ då. Syndar jag om jag bryter fastan och vilken...'
 ---
 
 **Fråga:** Jag lider av en njursjukdom och läkarna har gett mig rådet att inte fasta. Jag lyder dock inte vad de säger. Därför fastar jag men smärtan ökar då. Syndar jag om jag bryter fastan och vilken är då gottgörelsen?
