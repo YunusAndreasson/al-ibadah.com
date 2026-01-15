@@ -1,7 +1,7 @@
 ---
-title: Hur en kvinna görghuslefter hennes månadsblödning
+title: Hur en kvinna gör ghusl efter hennes månadsblödning
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 57 s. ISBN saknas'
 categories: – Renhet (Tahārah)
 original_id: 1425
@@ -20,7 +20,7 @@ När kvinnan gör *ghusl[^1]* efter månadsblödningen så finns det olika åsik
 
 Denna återberättelse informerar oss om att en kvinna med månadsblödning eller en kvinna som är oren efter intim samvaro inte behöver släppa ned håret. Det är dock bättre om hon släpper ned håret när hon gör *ghusl[^1]* efter hennes månadsblödning. Detta som en försiktighetsåtgärd för att undvika meningsskiljaktigheter och för att jämka samman alla bevis.
 
-Må Allāhs frid och välsignelser vara över profet Muhammad, hans familj och hans följeslagare.
+Må Allāhs frid och välsignelser vara över profet Muḥammad, hans familj och hans följeslagare.
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

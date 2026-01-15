@@ -1,6 +1,6 @@
 ---
-title: Ren innan gryningsbönen efter månadsblödningen och görghuslefter gryningsbönen
-author: Muhammad bin Sālih al-ʿUthaymīn
+title: Ren innan gryningsbönen efter månadsblödningen och gör ghusl efter gryningsbönen
+author: Muḥammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 659 s. ISBN 9960-892-66-2'
 categories: – Renhet (Tahārah) – Månadsblödning

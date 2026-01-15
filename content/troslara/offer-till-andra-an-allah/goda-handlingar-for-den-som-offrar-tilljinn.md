@@ -1,7 +1,7 @@
 ---
-title: Goda handlingar för den som offrar tilljinn
+title: Goda handlingar för den som offrar till jinn
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 17 s. ISBN saknas. Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Troslära (ʿAqīdah) – Offer till andra än Allāh
@@ -21,7 +21,7 @@ All lovprisan tillhör Allāh som har hjälpt dig att ångra dig för denna grov
 
 > ”Och de anropar aldrig en gudom vid sidan av Gud och de berövar aldrig en människa livet – som Gud har förklarat heligt – annat än i rättfärdigt syfte, och de avhåller sig från äktenskapsbrott. Den som begår dessa svåra synder ska få sona dem med en exemplarisk bestraffning [och] på Uppståndelsens dag ska hans straff fördubblas och han ska gå bort med skammen för att lida detta straff i evighet.” [Koranen 25:68 – 70]
 
-Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muhammad samt göra honom, hans hushåll och följeslagare säkra från ont.
+Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muḥammad samt göra honom, hans hushåll och följeslagare säkra från ont.
 
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

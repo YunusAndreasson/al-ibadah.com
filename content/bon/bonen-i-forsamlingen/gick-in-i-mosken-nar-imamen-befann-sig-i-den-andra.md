@@ -1,7 +1,7 @@
 ---
-title: Gick in i moskén när imamen befann sig i den andratashahhud – om han då bör
+title: Gick in i moskén när imamen befann sig i den andra tashahhud – om han då bör
  vänta på en ny församling
-author: Muhammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-ʿUthaymīn
 categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 986
 description: 'Fråga: En troende gick in i moskén när imamen befann sig i den andra tashahhud
