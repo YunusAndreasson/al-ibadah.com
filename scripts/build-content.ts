@@ -12,6 +12,7 @@ import rehypeStringify from 'rehype-stringify'
 import remarkGfm from 'remark-gfm'
 import remarkParse from 'remark-parse'
 import remarkRehype from 'remark-rehype'
+import remarkSmartypants from 'remark-smartypants'
 import { unified } from 'unified'
 
 const CONTENT_DIR = path.join(process.cwd(), 'content')
@@ -65,6 +66,7 @@ async function parseMarkdown(content: string): Promise<string> {
   const result = await unified()
     .use(remarkParse)
     .use(remarkGfm)
+    .use(remarkSmartypants, { dashes: 'oldschool', quotes: true })
     .use(remarkRehype, {
       allowDangerousHtml: true,
       footnoteLabel: 'Fotnoter',
