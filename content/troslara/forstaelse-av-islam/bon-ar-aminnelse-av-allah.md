@@ -33,7 +33,7 @@ Om större vikt läggs vid åminnelse[^1] än vid bön, då är det att lägga s
 
 Innebörden av Allāhs ord: ”*Läs vad som har uppenbarats för dig av denna Skrift och förrätta bönen*” [Koranen 29:45] är att förrättandet av de obligatoriska bönerna vid deras korrekta tider på det sätt som Allāh har föreskrivit och som Hans sändebud har förklarat, inskjuter mellan honom och alla onda handlingar. Genom bönen avhåller Allāh honom från otro, polyteism, etcetera. Att Allāh kommer ihåg dig är större i lön och belöning än din åminnelse av Allāh, vilket Allāh säger: ”*Och bevara Mig i minnet, så skall Jag minnas er; var Mig tacksam och förneka Mig inte!*” [Koranen 2:152]
 
-Ibn Jarīr at-Tabarī föredrog denna förklaring i sin *tafsīr[^6]* och ett antal andra lärda inom *tafsīr[^6]* är håller med honom om detta, baserat på de *ahādīth[^7]* som har kommit från många av följeslagarna och *tabi´in[^8]*.
+Ibn Jarīr at-Tabarī föredrog denna förklaring i sin *tafsīr[^6]* och ett antal andra lärda inom *tafsīr[^6]* håller med honom om detta, baserat på de *ahādīth[^7]* som har kommit från många av följeslagarna och *tabi´in[^8]*.
 
 
 [^1]: Dhikr
