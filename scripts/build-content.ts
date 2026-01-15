@@ -66,7 +66,12 @@ async function parseMarkdown(content: string): Promise<string> {
   const result = await unified()
     .use(remarkParse)
     .use(remarkGfm)
-    .use(remarkSmartypants, { dashes: 'oldschool', quotes: true })
+    .use(remarkSmartypants, {
+      quotes: true,        // "curly quotes"
+      dashes: 'oldschool', // -- to en-dash, --- to em-dash
+      ellipses: true,      // ... to …
+      backticks: true,     // ``double'' to curly quotes
+    })
     .use(remarkRehype, {
       allowDangerousHtml: true,
       footnoteLabel: 'Fotnoter',
