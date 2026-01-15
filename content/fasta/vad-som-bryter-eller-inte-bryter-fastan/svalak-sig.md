@@ -1,5 +1,5 @@
 ---
-title: Svalak sig
+title: Svalka sig
 author: Muhammad bin Sālih al-'Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 663 s. ISBN 9960-892-66-2'

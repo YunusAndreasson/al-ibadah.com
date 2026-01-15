@@ -23,7 +23,7 @@ description: 'Fråga: Vad ogiltigör fastan? Svar: Det som ogiltigör fastan är
 5. det som liknar mat och dryck,
 6. avsiktliga kräkningar,
 7. utflöde av blod på grund av koppning[^1] och
-8. utflöde av menstruationdblod eller det blod som kommer efter graviditeten.
+8. utflöde av menstruationsblod eller det blod som kommer efter graviditeten.
 
 När det gäller att äta, dricka och ha intim samvaro finner vi bevisen i Allāhs den Upphöjdes ord:
 

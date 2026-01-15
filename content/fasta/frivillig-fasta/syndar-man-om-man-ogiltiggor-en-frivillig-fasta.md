@@ -22,7 +22,7 @@ I sådant fall syndar man inte om man har intim samvaro med sin fru under en fri
 
 Men om fastan var obligatorisk och man hade intim samvaro med sin fru, då är det inte tillåtet. Anledningen är att det inte är tillåtet att avbryta en obligatorisk [fasta] så länge det inte är nödvändigt. Här krävs ingen gottgörelse utom om det skedde dagtid under ramadan[^2]. I detta fall är det en skyldighet att fasta.
 
-Lyssna nu noga till vad vi säger: Han var en av de som fastan var en skyldighet för. Därför att om det inträffade att en man reste med sin fru, och de fastade under resan och han hade intim samvaro med henne, då har de inte syndat och inte heller krävs någon gottgörelse från dem. Det krävs anbart att han och frun tar igen den dagen som den intima samvaron ägde rum under.
+Lyssna nu noga till vad vi säger: Han var en av de som fastan var en skyldighet för. Därför att om det inträffade att en man reste med sin fru, och de fastade under resan och han hade intim samvaro med henne, då har de inte syndat och inte heller krävs någon gottgörelse från dem. Det krävs enbart att han och frun tar igen den dagen som den intima samvaron ägde rum under.
 
 
 [^1]: Den lilla vallfärden.

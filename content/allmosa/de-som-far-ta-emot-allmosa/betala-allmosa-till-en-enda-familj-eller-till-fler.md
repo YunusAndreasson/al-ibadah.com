@@ -7,12 +7,12 @@ categories:
 - Allmosa (Zakāh)
 - De som får ta emot allmosa
 original_id: 641
-description: 'Fråga: Om man enbart ger en liten ger allmosa, exempelvis 200 riyal,
+description: 'Fråga: Om man enbart ger en liten allmosa, exempelvis 200 riyal,
  är det då bättre om man ger den till en behövande familj eller bör man dela allmosan
  mellan ett antal familjer? Vänligen, hjälp...'
 ---
 
-**Fråga:** Om man enbart ger en liten ger allmosa, exempelvis 200 riyal[^1], är det då bättre om man ger den till en behövande familj eller bör man dela allmosan mellan ett antal familjer? Vänligen, hjälp mig med ett svar. Må Allāh belöna er med det goda.
+**Fråga:** Om man enbart ger en liten allmosa, exempelvis 200 riyal[^1], är det då bättre om man ger den till en behövande familj eller bör man dela allmosan mellan ett antal familjer? Vänligen, hjälp mig med ett svar. Må Allāh belöna er med det goda.
 
 **Svar:** Är allmosan liten är det bättre att ge den till en enda familj. Detta beror på att om den delas ut till ett antal olika familjer, med en liten del, då kommer den inte att göra så stor nytta.
 

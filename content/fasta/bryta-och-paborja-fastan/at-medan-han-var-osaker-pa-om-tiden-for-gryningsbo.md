@@ -23,5 +23,5 @@ Och Allāh är Givaren av framgång.
 
 
 [^1]: Fajr
-[^2]: Frukosten före gryninsbönen under fastan.
+[^2]: Frukosten före gryningsbönen under fastan.
 
