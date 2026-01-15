@@ -27,7 +27,7 @@ De vetenskapliga bevisen är en korrekt analogi som inte går att avvisa. Vi vet
 
 > ”Den av er som ser månens nytändning skall fasta månaden ut.” [Koranen 2:185]
 
-Det som fodras genom bevisen i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]*, samt även vetenskapliga bevis, är att varje plats bedöms var för sig gällande [att börja] fastan och att bryta fastan. De skall då länkas samman med de synliga tecken som Allāh har förklarat i Sin skrift och som Hans profet, Muhammed, har förklarat i sin sunnah[^3]. Dessa båda tecken är att man skall sikta månen och att man skall se solen vid gryningen.
+Det som fordras genom bevisen i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]*, samt även vetenskapliga bevis, är att varje plats bedöms var för sig gällande [att börja] fastan och att bryta fastan. De skall då länkas samman med de synliga tecken som Allāh har förklarat i Sin skrift och som Hans profet, Muhammed, har förklarat i sin sunnah[^3]. Dessa båda tecken är att man skall sikta månen och att man skall se solen vid gryningen.
 
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
