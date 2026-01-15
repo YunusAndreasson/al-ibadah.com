@@ -27,7 +27,7 @@ Den tro som inkluderar goda handlingar är av olika slag och består av 70 nivå
 
 *Mufassirīn* har sagt:
 
-> ”*Er tro*” avser era böner mot Bayt al-Maqdis [Jerusalem]. profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – brukade be mot Klippmoskén innan de kommenderades att vända sig mot Ka’bah i deras böner.
+> ”*Er tro*” avser era böner mot Bayt al-Maqdis [Jerusalem]. Profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – brukade be mot Klippmoskén innan de kommenderades att vända sig mot Ka’bah i deras böner.
 
 
 [^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.

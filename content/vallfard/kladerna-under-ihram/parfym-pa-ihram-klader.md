@@ -14,7 +14,7 @@ description: 'Fråga: Vilket är utlåtandet om att ta parfym på ihrām -kläde
 
 **Fråga:** Vilket är utlåtandet om att ta parfym på *ihrām[^1]*-kläderna innan man utformar avsikten och säger *talbiyyah[^2]*?
 
-**Svar:** Man bör inte parfymera det övre plagget eller det undre midjeplagget. profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]* är att parfymera kroppen: huvudet, skägget, armhålorna och liknande platser. Kläderna bör inte parfymeras när man går in i *ihrām[^1]*. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Han bär inte kläder som saffran eller el-wars har vidrört*.”
+**Svar:** Man bör inte parfymera det övre plagget eller det undre midjeplagget. Profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]* är att parfymera kroppen: huvudet, skägget, armhålorna och liknande platser. Kläderna bör inte parfymeras när man går in i *ihrām[^1]*. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Han bär inte kläder som saffran eller el-wars har vidrört*.”
 
 Därmed är det *sunnah[^3]* att enbart parfymera kroppen. När det gäller *ihrām[^1]*-kläderna, då tar man ingen parfym på dem. Tar man parfym på dem, då bör man inte bära dem förrän man har tvättat dem eller så byter man dem.
 
