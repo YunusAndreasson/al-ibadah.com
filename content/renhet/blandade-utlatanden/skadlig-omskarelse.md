@@ -22,7 +22,7 @@ Det är förbjudet av ett antal olika anledningar:
 
 1. profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* nämner endast att förhuden som täcker ollonet skall skäras av.
 2. Det är tortyr och stympning /.../
-3. Det står i motsats till den mänsklighet och vänlighet som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har uppmuntrar till när han sagt: ”*Allāh* *har kungjort något humant i alla saker*.”
+3. Det står i motsats till den mänsklighet och vänlighet som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har uppmuntrat till när han sagt: ”*Allāh* *har kungjort något humant i alla saker*.”
 4. Det kan leda till död och sjukdom för den som omskärs och detta är inte tillåtet då Allāh har sagt: ”*Ger ert bidrag [till kampen] för Guds sak och låt inte era egna händer medverka till er undergång*.” [Koranen 2:195] ”*Och konkurera inte ihjäl varandra*.” [Koranen 4:29]
 
 Därför har de lärde sagt att det inte är obligatoriskt med omskärelse för en vuxen om det finns någon rädsla för att något av detta skall drabba denne.

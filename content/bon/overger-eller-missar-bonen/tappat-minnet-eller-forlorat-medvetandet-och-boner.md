@@ -7,12 +7,12 @@ categories:
 - Bön (Salāh)
 - Överger eller missar bönen
 original_id: 1148
-description: 'Fråga: Måste den som har förlorar medvetandet praktisera den islamiska
+description: 'Fråga: Måste den som har förlorat medvetandet praktisera den islamiska
  lagens skyldigheter? Svar: Allāh den Upphöjde har gjort dyrkan till en skyldighet
  om man har ett sinne som man kan förstå...'
 ---
 
-**Fråga:** Måste den som har förlorar medvetandet praktisera den islamiska lagens skyldigheter?
+**Fråga:** Måste den som har förlorat medvetandet praktisera den islamiska lagens skyldigheter?
 
 **Svar:** Allāh den Upphöjde har gjort dyrkan till en skyldighet om man har ett sinne som man kan förstå saker genom. Den som inte har det är inte skyldig att praktisera den islamiska lagen. Därför behöver den störde inte praktisera den islamiska lagen. Detta gäller även den som inte är vuxen och den som inte har urskiljningsförmåga [...] Detta är en del av Allāhs nåd.
 
