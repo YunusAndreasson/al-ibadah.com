@@ -14,7 +14,7 @@ description: 'Fråga: Jag är lärare och har studerat islam och ett antal böck
 
 **Fråga:** Jag är lärare och har studerat islam och ett antal böcker om fiqh[^1]. Vad gäller för mig om en elev ställer en fråga till mig och jag svarar, enligt min kunskap som är genom *qiyas[^2]* och *ijtihād[^3]*? Jag går inte in på utlåtanden om vad som är tillåtet och förbjudet. Du bör referera till böcker och ijtihād[^3], och sedan svara enligt vad du uppfattar som riktigt.
 
-**Svar:** Det finns ingen invändan mot att du gör detta, men om du tvekar över ett svar och du inte känner till vad som är rätt, då bör du säg: ”Jag vet inte”, och lova att du kommer att utreda frågan eller skicka den vidare till de lärde för att svara senare.
+**Svar:** Det finns ingen invändan mot att du gör detta, men om du tvekar över ett svar och du inte känner till vad som är rätt, då bör du säga: ”Jag vet inte”, och lova att du kommer att utreda frågan eller skicka den vidare till de lärde för att svara senare.
 
 
 [^1]: Rättslära.
