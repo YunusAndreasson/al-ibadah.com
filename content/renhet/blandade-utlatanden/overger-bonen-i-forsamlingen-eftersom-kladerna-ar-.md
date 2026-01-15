@@ -3,9 +3,7 @@ title: Överger bönen i församlingen eftersom kläderna är smutsiga
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 397 s. ISBN saknas'
-categories:
-- Renhet (Tahārah)
-- Blandade utlåtanden
+categories: – Renhet (Tahārah) – Blandade utlåtanden
 original_id: 326
 description: 'Fråga: På arbetsplatsen [en bilverkstad] har jag en kollega som jag
  uppmanar att be, men han vägrar och påstår att hans kläder inte är rena, att det

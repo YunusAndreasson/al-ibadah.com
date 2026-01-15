@@ -3,9 +3,7 @@ title: Den Yttersta Stunden inträffar då det endast finns onda människor på 
 author: Ibn ʿAbdullah Ibn Bāz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 55 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Domedagen och tecknen inför den
+categories: – Troslära (ʿAqīdah) – Domedagen och tecknen inför den
 original_id: 44
 description: 'Fråga: Vi hör ofta att den Yttersta Stunden inte kommer att inträda
  förrän islam råder på jorden. Men vi hör även att den ska komma när det inte finns

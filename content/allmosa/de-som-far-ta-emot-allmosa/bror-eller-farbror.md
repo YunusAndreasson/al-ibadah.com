@@ -3,9 +3,7 @@ title: Bror eller farbror
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 189 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
-- De som får ta emot allmosa
+categories: – Allmosa (Zakāh) – De som får ta emot allmosa
 original_id: 635
 description: 'Fråga: Är det tillåtet att betala allmosa till sin bror som är familjens
  försörjare och som arbetar men utan att lönen räcker till? Är det tillåtet att betala

@@ -2,9 +2,7 @@
 title: Bön bakom en imam som använder talismaner
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. x s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Vad som gör eller inte gör bönen ogiltig
+categories: – Bön (Salāh) – Vad som gör eller inte gör bönen ogiltig
 original_id: 230
 description: 'Fråga: Vi har upptäckt att personen som leder oss i bönen i vår by
  använder talismaner och att han även praktiserar skickliga trick med händerna. Syndar

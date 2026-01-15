@@ -3,9 +3,7 @@ title: När man går in i moskén och imamen bugar
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 138 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Praktiska detaljer i bönen
+categories: – Bön (Salāh) – Praktiska detaljer i bönen
 original_id: 184
 description: 'Fråga: Om jag kommer till bönen i församlingen i moskén medan de ber
  och de bugar[^1], bör jag då förena mig med dem genom att göra den första takbīr och

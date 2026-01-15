@@ -3,9 +3,7 @@ title: Var händerna placeras
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 258 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Praktiska detaljer i bönen
+categories: – Bön (Salāh) – Praktiska detaljer i bönen
 original_id: 265
 description: 'Fråga: Brukade profeten lägga den högra handen på den vänstra? Svar: Det
  är sunnah att lägga den högra handen över den vänstra underarmen, handleden eller

@@ -3,9 +3,7 @@ title: Beskrivning av sujūd al-tilāwah
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Majmū’ Fatāwa wa Maqālāt Samāhat al-shaykh Ibn Bāz, 11/406 Muhammed Knut
  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Bön (Salāh)
-- Nedfallan vid recitation
+categories: – Bön (Salāh) – Nedfallan vid recitation
 original_id: 518
 description: 'Fråga: Behöver man tvaga sig när man ska göra sujūd al-tilāwah?
  Måste vi säga ” Allāhu akbar ” när vi går ned och upp? Vad ska vi säga under nedfallandet[^1]?

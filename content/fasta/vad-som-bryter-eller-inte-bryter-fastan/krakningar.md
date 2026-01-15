@@ -3,9 +3,7 @@ title: Kräkningar
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. x s. ISBN 9960-892-66-2'
-categories:
-- Fasta (Sawm)
-- Vad som bryter eller inte bryter fastan
+categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 1046
 description: 'Fråga: Bryter kräkningar fastan? Svar: Kräker någon avsiktligen
  bryter det fastan men om denne inte gjorde det avsiktligen bryter det inte fastan. Beviset

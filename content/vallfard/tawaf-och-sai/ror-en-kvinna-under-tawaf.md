@@ -4,9 +4,7 @@ author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 180 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Vallfärd (Hajj)
-- Tawāf och sa’ī
+categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 805
 description: 'Fråga: En man utförde under väldig trängsel tawāful-ifādhah och han
  rörde en kvinnas kropp. Denna kvinna var inte släkt med honom. Gör detta hans tawāf ogiltig,

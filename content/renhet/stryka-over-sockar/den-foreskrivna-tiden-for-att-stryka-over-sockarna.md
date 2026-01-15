@@ -3,9 +3,7 @@ title: Den föreskrivna tiden för att stryka över sockarna
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 105 s. ISBN saknas'
-categories:
-- Renhet (Tahārah)
-- Stryka över sockar
+categories: – Renhet (Tahārah) – Stryka över sockar
 original_id: 1445
 description: 'Fråga: Är tiden då sockarna får vara kvar på fötterna begränsad till
  en dag och en natt eller till fem böner? Om någon är rituellt ren och ber mer än

@@ -4,9 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 84 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Tawassul [Medel för att åkalla Allāh]
+categories: – Troslära (ʿAqīdah) – Tawassul [Medel för att åkalla Allāh]
 original_id: 60
 description: 'Fråga: Får muslimer söka Allāhs närhet genom profeter och andra fromma
  människor? Jag har läst att vissa lärde har ansett att det inte finns något skadligt
@@ -17,7 +15,7 @@ description: 'Fråga: Får muslimer söka Allāhs närhet genom profeter och and
 
 **Svar:** *al-Walīy* är den som tror på och fruktar Honom genom att fullfölja Hans kommenderingar och hålla sig borta från Hans förbud. Allāh säger:
 
-> ”Helt visst ska de som är nära Gud aldrig känna fruktan och ingen sorg ska tynga dem, de som tror och ständigt har Honom för ögonen.” [Koranen 10:62–63]
+> ”Helt visst ska de som är nära Gud aldrig känna fruktan och ingen sorg ska tynga dem, de som tror och ständigt har Honom för ögonen.” [Koranen 10:62 – 63]
 
 *Tawassul*, eller att söka Allāhs närhet genom en *awliyā’[^2]*, kan ske på olika sätt:
 

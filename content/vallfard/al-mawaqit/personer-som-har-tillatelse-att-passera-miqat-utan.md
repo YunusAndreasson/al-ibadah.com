@@ -3,9 +3,7 @@ title: Personer som har tillåtelse att passera mīqāt utan att träda in i ihr
 author: Ibn ʿAbdur-Rahman al-Jibrin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 85 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- al-Mawaqit
+categories: – Vallfärd (Hajj) – al-Mawaqit
 original_id: 1332
 description: 'Fråga: Vem får passera mīqāt utan ihrām och vem får inte? Vad måste
  den som passerar mīqāt utan ihrām göra? Svar: I Sahīh återges från Ibn

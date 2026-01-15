@@ -3,9 +3,7 @@ title: 'ʿAqīqah är inte en skyldighet om man inte har möjlighet'
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Äktenskap
+categories: – Blandat – Äktenskap
 original_id: 1615
 description: 'Fråga: Jag offrade inte något då mina barn fötts för jag hade inte
  råd. Vilket är då utlåtandet? Svar: Så länge du inte hade möjlighet att göra

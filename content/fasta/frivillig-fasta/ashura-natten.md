@@ -3,9 +3,7 @@ title: ‘Ashūra’-natten
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 344 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+categories: – Fasta (Sawm) – Frivillig fasta (Shawwal, ashura-dagen, m.m.)
 original_id: 1422
 description: 'Fråga: Många muslimer fastar under ‘ashura’ och de lägger stor vikt
  vid att fasta den på grund av vad de hör från de som kallar till islam när de understryker

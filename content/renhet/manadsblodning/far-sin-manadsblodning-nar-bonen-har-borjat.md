@@ -4,9 +4,7 @@ author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 368 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Renhet (Tahārah)
-- Månadsblödning
+categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 1144
 description: 'Svar: Kommer månadsblödning när bönen har börjat, som om den kommer
  en och en halv timme efter att solen har passerat himlens mitt, då måste hon ta

@@ -2,9 +2,7 @@
 title: Säga ”Aqāmahā Allāh wa adāmahā” efter iqāmah
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Fatāwa tata'allaq bi-Jamā'ah al-Masjid – fråga 26, sida 26
-categories:
-- Bön (Salāh)
-- Iqāmah [Det andra böneutropet]
+categories: – Bön (Salāh) – Iqāmah [Det andra böneutropet]
 original_id: 559
 description: 'Fråga: Ädla shaykh, vi hör ibland folk säga ” Aqāmahā Allāh wa adāmahā
  ” efter iqāmah inför bönen. Är detta tillåtet? Svar: Det har nämnts i en hadīth ifrån

@@ -4,9 +4,7 @@ author: Ibn ʿAbdur-Rahman al-Jibrin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 212 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Bön (Salāh)
-- Att vara imam och bön bakom en imam
+categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
 original_id: 1492
 description: 'Fråga: Är det tillåtet att sända böner över profeten – över honom vare
  Allāhs frid och välsignelser – när imamen reciterar: ” Gud och Hans änglar välsignar

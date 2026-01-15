@@ -3,9 +3,7 @@ title: Gryningsbönen efter det första böneutropet
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 312 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Böneutrop
+categories: – Bön (Salāh) – Böneutrop
 original_id: 293
 description: 'Fråga: Kan jag be gryningsbönen efter det första böneutropet? Anses
  tiden mellan de båda böneutropen vara tid för gryningsbönen eller är det enbart

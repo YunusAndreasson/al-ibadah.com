@@ -4,9 +4,7 @@ title: Allmosa krävs från ägaren av smycken och om det är mannen eller kvinn
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 180 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
-- Allmosa för smycken
+categories: – Allmosa (Zakāh) – Allmosa för smycken
 original_id: 622
 description: 'Fråga. Min fru har guld som hon bär och som når den lägsta nivån som
  gör att allmosa krävs. Behöver hon betala allmosa för dem? Är det jag eller hon

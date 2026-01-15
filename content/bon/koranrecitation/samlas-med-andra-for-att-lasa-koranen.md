@@ -3,9 +3,7 @@ title: Samlas med andra för att läsa Koranen
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Koranrecitation
+categories: – Bön (Salāh) – Koranrecitation
 original_id: 1661
 description: 'Fråga: Jag och mina kollegor samlas en gång i veckan för att läsa några verser från Koranen och bättra på vår recitation. Efteråt samtalar vi om olika ämnen...'
 ---

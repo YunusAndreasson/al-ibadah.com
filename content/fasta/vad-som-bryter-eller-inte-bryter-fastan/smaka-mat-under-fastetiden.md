@@ -3,9 +3,7 @@ title: Smaka mat under fastetiden
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 265 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Vad som bryter eller inte bryter fastan
+categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 423
 description: 'Fråga: Får en kock smaka sin mat för att säkerställa att den smakar
  rätt? Detta samtidigt som kocken fastar. Svar: Det är ingen fara att smaka maten

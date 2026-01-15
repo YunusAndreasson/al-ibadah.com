@@ -2,9 +2,7 @@
 title: Ghusl före man går iväg
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Majmoo’ Fatāwa al-ʿUthaymīn, 16/216-223
-categories:
-- Bön (Salāh)
-- '''Eid-bönerna'
+categories: – Bön (Salāh) – '''Eid-bönerna'
 original_id: 1594
 description: 'Fråga: Skall man göra ghusl före man går till `eid -bönen? Svar: Några
  av de lärde har sagt att det är rekommenderat att göra ghusl inför `eid -bönen

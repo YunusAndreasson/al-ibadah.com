@@ -3,9 +3,7 @@ title: Pendla mellan at-Ta'if och Jiddah i arbetet och inte träda in i ihrām
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 91 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- al-Mawaqit
+categories: – Vallfärd (Hajj) – al-Mawaqit
 original_id: 737
 description: 'Fråga: Det finns en anställd som har bestämt sig för att vallfärda
  men han har jobb att göra i at-Ta''if. Detta leder till att han måste pendla mellan

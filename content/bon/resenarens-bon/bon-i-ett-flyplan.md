@@ -4,9 +4,7 @@ author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 173 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Bön (Salāh)
-- Resenärens bön
+categories: – Bön (Salāh) – Resenärens bön
 original_id: 199
 description: 'Fråga: Jag hade en viktig plikt att utföra och tiden för bönen kom
  då jag befann mig ombord på ett flygplan. Jag bad då sittandes i ett säte, genom

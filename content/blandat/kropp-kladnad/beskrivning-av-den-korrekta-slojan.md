@@ -2,9 +2,7 @@
 title: Beskrivning av den korrekta slöjan
 author: Shaykh al-Albāni
 source: Hijāb al-Mar’ah al-Muslimah, sidan 54-67
-categories:
-- Blandat
-- Kropp & klädnad
+categories: – Blandat – Kropp & klädnad
 original_id: 1701
 description: 'Fråga: Jag vill veta hur en korrekt slöja ska se ut? Svar: Shaykh
  al-Albāni har sagt: 1. Den bör täcka hela kroppen utom de delar som har givits

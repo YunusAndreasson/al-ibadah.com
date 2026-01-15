@@ -4,9 +4,7 @@ author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 254 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Fasta (Sawm)
-- Vad som bryter eller inte bryter fastan
+categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 1396
 description: 'Fråga: Detta gäller frivillig fasta. Jag avsåg att fasta en måndag
  men efter böneutropet för gryningsbönen gick jag upp och drack. Får jag fullborda

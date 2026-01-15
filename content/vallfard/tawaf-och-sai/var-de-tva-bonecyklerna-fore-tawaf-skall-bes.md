@@ -3,9 +3,7 @@ title: Var de två bönecyklerna före tawāf ska bes
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 184 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Tawāf och sa’ī
+categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 810
 description: 'Fråga: Är två bönecykler efter tawāf bakom platsen där Abraham stod
  obligatoriska för varje tawāf och Vad gäller den som glömmer dem? Svar: Det

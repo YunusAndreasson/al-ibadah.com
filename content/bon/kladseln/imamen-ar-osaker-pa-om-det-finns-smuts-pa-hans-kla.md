@@ -3,9 +3,7 @@ title: Imamen är osäker på om det finns smuts på hans klädesplagg
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 161 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Klädseln
+categories: – Bön (Salāh) – Klädseln
 original_id: 193
 description: 'Fråga: Imamen är osäker på om det finns smuts på mattan, men han lämnade
  inte bönen då det enbart var en misstanke, men efter bönen upptäcker han att det

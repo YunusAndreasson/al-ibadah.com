@@ -4,9 +4,7 @@ title: Åt medan han var osäker på om tiden för gryningsbönen var inne eller
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 256 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Bryta och påbörja fastan
+categories: – Fasta (Sawm) – Bryta och påbörja fastan
 original_id: 410
 description: 'Fråga: Vilket är utlåtandet om fastan för någon som åt eller drack
  samtidigt som denne var osäker på om tiden för gryningsbönen hade börjat eller om

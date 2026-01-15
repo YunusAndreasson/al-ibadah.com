@@ -3,9 +3,7 @@ title: Stiger över folk som sitter ned och väntar på fredagsbönen
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 559 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Fredagsbönen
+categories: – Bön (Salāh) – Fredagsbönen
 original_id: 1005
 description: 'Fråga: Vad anser ni om dem som går över raderna under fredagsbönen? Svar: De
  som passerar mellan raderna ska man få till att sitta ned under predikan. Man

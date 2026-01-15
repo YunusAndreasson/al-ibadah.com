@@ -2,9 +2,7 @@
 title: Hur man gottgör för synder
 author: Shaykh ul-islām Ibn Taymiyyah
 source: Majmū’ Fatāwa Ibn Taymiyah, vol. 7, sida. 487-501
-categories:
-- Blandat
-- Ånger
+categories: – Blandat – Ånger
 original_id: 1280
 description: 'Fråga: Hur gottgör man för synder? Svar: Shaykh ul-islām Ibn
  Taymiyyah har sagt: Straffet för synder lyfts ifrån en person på tio olika sätt: Ånger,

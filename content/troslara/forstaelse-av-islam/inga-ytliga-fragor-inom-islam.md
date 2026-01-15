@@ -4,9 +4,7 @@ author: Ibn ʿAbdullah Ibn Bāz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 209 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Förståelse av islam
+categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 97
 description: 'Fråga: Vilket är den islamiska lagens utlåtande om den som säger: ”Att
  raka skägget och att korta byxorna är ytliga frågor och inte en del av religionens
@@ -17,7 +15,7 @@ description: 'Fråga: Vilket är den islamiska lagens utlåtande om den som säg
 
 **Svar:** Det är mycket farligt och högst förhatligt att säga så här. Det finns inga ytliga frågor inom religionen. Allt är väsentligt, rättfärdigt och nyttigt. Religionen kan delas i två kategorier: fundament och rättsvetenskap. Frågorna om skägget och kortade byxor rör rättsvetenskapen och inte fundamenten. Det är dock inte tillåtet att kalla något som rör religionen för ytlig. Jag är rädd för att den som säger så gör det i ett nedlåtande syfte och för att håna. Då kan denne vara skyldig till avfallelse från sin religion. Allāh den Upphöjde säger ju:
 
-> ”Om du frågade [dem vad de menade med vad de sade] skulle de säkert svara: 'Vi bara skämtade.' Säg: 'Då var era skämt alltså riktade mot Gud, Hans budskap och Hans sändebud? Kom inte nu med [tomma] ursäkter! Ni har förnekat den tro som ni förut bekände.” [Koranen 9:65–66]
+> ”Om du frågade [dem vad de menade med vad de sade] skulle de säkert svara: 'Vi bara skämtade.' Säg: 'Då var era skämt alltså riktade mot Gud, Hans budskap och Hans sändebud? Kom inte nu med [tomma] ursäkter! Ni har förnekat den tro som ni förut bekände.” [Koranen 9:65 – 66]
 
 Det var profeten – över honom vare Allāhs frid och välsignelser – som beordrade att skägget ska växa och att mustaschen ska trimmas. Att lyda honom är en skyldighet och det gäller även hans kommenderingar och förbud i alla frågor. Abū Muhammad Ibn Hazm har nämnt att de lärde är eniga om att det är en skyldighet att låta skägget växa och att mustaschen ska trimmas. Det råder inga tvivel om att njutning, frälsning, heder, ädelhet och Paradiset uppnås genom att lyda Allāh och Hans sändebud; samt att förgörelse, förlust och Helvetet är ett resultat av att inte lyda Allāh och Hans sändebud. Det är också en skyldighet att ha sina byxor ovan anklarna och det baseras på profetens – över honom vare Allāhs frid och välsignelser – ord:
 

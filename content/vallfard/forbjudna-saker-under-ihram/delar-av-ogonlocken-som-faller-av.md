@@ -3,9 +3,7 @@ title: Delar av ögonlocken som faller av
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 138 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Förbjudna saker under ihrām
+categories: – Vallfärd (Hajj) – Förbjudna saker under ihrām
 original_id: 773
 description: 'Fråga: Jag utförde den obligatoriska vallfärden för två år sedan och
  det var för första gången. På Arafat-dagen, då jag gjorde åkallan till Allāh under

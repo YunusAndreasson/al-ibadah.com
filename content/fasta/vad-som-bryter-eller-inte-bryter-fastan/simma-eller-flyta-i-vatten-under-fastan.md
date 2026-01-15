@@ -2,9 +2,7 @@
 title: Simma eller flyta i vatten under fastan
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Fatāwa Ramadan – Volym 2, sida 525, fatwa 491
-categories:
-- Fasta (Sawm)
-- Vad som bryter eller inte bryter fastan
+categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 903
 description: 'Fråga: Vilket är utlåtandet om att simma eller flyta i vattnet under
  fastan? Svar: Det är inget problem att dyka i vattnet, flyta eller simma. Detta

@@ -3,9 +3,7 @@ title: ”Må Allāh förlänga din existens” och ”Må ditt liv bli förlän
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 287 s. ISBN 9960-892-66-2'
-categories:
-- Blandat
-- Åkallan
+categories: – Blandat – Åkallan
 original_id: 1583
 description: 'Fråga: Vilket är utlåtandet om att säga ” må Allāh förlänga din existens
  ” och ” må ditt liv förlängas ”? Svar: Man bör inte säga: ” Må Allāh förlänga

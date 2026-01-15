@@ -2,9 +2,7 @@
 title: Misstänker att ens tvagning har brutits
 author: Ibn ʿAbdullah Ibn Baz
 source: Fatāwa al-Marah
-categories:
-- Renhet (Tahārah)
-- Blandade utlåtanden
+categories: – Renhet (Tahārah) – Blandade utlåtanden
 original_id: 550
 description: 'Fråga: Vad ska en person göra som tvivlar på om hans tvagning brutits? Svar: Om
  en person tvivlar på om hans tvagning har brutits eller inte så gäller hans ursprungliga

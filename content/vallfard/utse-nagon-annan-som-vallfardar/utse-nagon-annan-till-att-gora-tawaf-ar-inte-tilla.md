@@ -4,9 +4,7 @@ author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 167 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Vallfärd (Hajj)
-- Utse någon annan som vallfärdar
+categories: – Vallfärd (Hajj) – Utse någon annan som vallfärdar
 original_id: 795
 description: 'Fråga: Min mor åkte tillsammans med min far på vallfärd. Tillsammans
  med dem fanns det tre män i gruppen. Männen hade deras fruar med sig för att de

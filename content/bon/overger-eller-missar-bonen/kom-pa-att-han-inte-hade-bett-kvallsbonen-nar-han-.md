@@ -3,9 +3,7 @@ title: Kom på att han inte hade bett kvällsbönen när han började be nattbö
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 250 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Överger eller missar bönen
+categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 259
 description: 'Fråga: Jag gick in i moskén när nattbönen[^1] redan hade börjat. Innan
  jag började be tillsammans med dem kom jag på att jag inte hade bett kvällsbönen.

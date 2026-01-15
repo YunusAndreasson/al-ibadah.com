@@ -4,9 +4,7 @@ author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 163 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Vallfärd (Hajj)
-- Hindras i sin vallfärd eller ʿumrah
+categories: – Vallfärd (Hajj) – Hindras i sin vallfärd eller ʿumrah
 original_id: 1559
 description: 'Fråga: Vilket är utlåtandet om den som gick in i ihrām för vallfärden
  eller ‘umrah vid mīqāt och som sedan hindrades från att utföra tawāf och sa’ī

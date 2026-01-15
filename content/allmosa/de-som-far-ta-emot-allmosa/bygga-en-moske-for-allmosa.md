@@ -2,9 +2,7 @@
 title: Bygga en moské för allmosa
 author: Ibn ʿAbdullah Ibn Baz
 source: Fatāwa al-Mara Majmū' Fatāwā wa Maqālāt Mutanawwi'ah – volym 14, sida 294.
-categories:
-- Allmosa (Zakāh)
-- De som får ta emot allmosa
+categories: – Allmosa (Zakāh) – De som får ta emot allmosa
 original_id: 553
 description: 'Fråga: Är det tillåtet att använda allmosa för att avslutade byggandet
  av en moské som nästan är färdig? Dess konstruktion kan stanna av beroende på bristande

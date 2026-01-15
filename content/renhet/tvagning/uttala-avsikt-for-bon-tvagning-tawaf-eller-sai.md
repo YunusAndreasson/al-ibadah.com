@@ -2,9 +2,7 @@
 title: Uttala avsikt för bön, tvagning, tawāf eller sa’ī
 author: Ibn ʿAbdullah Ibn Baz
 source: al-Bid'u wal-Muhadathāt wa mā lā Asla lahu – sida 635
-categories:
-- Renhet (Tahārah)
-- Tvagning
+categories: – Renhet (Tahārah) – Tvagning
 original_id: 564
 description: 'Fråga: Skall man uttala sin avsikt för bön, tvagning, tawāf eller sa’ī
 ? Svar: Detta är en innovation då det inte har kommit till vår kännedom att

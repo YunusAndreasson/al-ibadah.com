@@ -1,12 +1,9 @@
 ---
-title: Stark avsikt att bryta fastan som inte utmynnar i att man äter eller dricker
- – om det bryter fastan
+title: Stark avsikt att bryta fastan som inte utmynnar i att man äter eller dricker – om det bryter fastan
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 645 s. ISBN 9960-892-66-2'
-categories:
-- Fasta (Sawm)
-- Vad som bryter eller inte bryter fastan
+categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 1043
 description: 'Fråga: Bryts fastan om man har en stark avsikt att bryta den men utan
  att denna avsikt leder till att man äter eller dricker? Svar: Det är välkänt

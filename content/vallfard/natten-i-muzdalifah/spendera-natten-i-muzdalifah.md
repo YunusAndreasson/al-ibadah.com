@@ -3,9 +3,7 @@ title: Spendera natten i Muzdalifah
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 220 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Natten i Muzdalifah
+categories: – Vallfärd (Hajj) – Natten i Muzdalifah
 original_id: 840
 description: 'Fråga: Vilket är utlåtandet om att spendera natten i Muzdalifah? Svar: Pilgrim
  måste spendera natten före den tionde thul-hijjah i Muzdalifah. Han gör det fram

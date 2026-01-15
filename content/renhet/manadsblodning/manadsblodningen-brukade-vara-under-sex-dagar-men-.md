@@ -4,9 +4,7 @@ author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 370 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Renhet (Tahārah)
-- Månadsblödning
+categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 1145
 description: 'Fråga: Vad gör en kvinna om hennes månadsblödning brukade vara under
  sex dagar men den sedan blev några dagar längre? Svar: Var kvinnans vanliga

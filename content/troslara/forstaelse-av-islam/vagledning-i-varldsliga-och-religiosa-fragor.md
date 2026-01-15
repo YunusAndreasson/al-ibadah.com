@@ -3,9 +3,7 @@ title: Vägledning i världsliga och religiösa frågor
 author: Shaykh ul-islām Ibn Taymiyyah
 source: 'l-Wasiyyah al-Jāmi’ah li khayr al-Sunya wa’l-Ākhirah Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Förståelse av islam
+categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 516
 description: 'Fråga: Kan du ge några råd som kan vägleda oss i religiösa och världsliga
  frågor? Shaykh ul-islām Ibn Taymiyyah ställdes följande fråga: Jag bad shayken,
@@ -26,7 +24,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – gav följande r
 
 > ”Mu'ādh, frukta Allāh var du än befinner dig, låt en dålig handling följas av en god för att gottgöra den och behandla folket på ett vänligt sätt.”
 
-Profeten – över honom vare Allāhs frid och välsignelser – satte stort värde i Mu'ādh och han sade till honom: ”*Mu'ādh, vid Allāh – jag älskar dig*.” Han brukade även låta Mu'ādh rida bakom honom. Det har berättats att han [Mu'ādh] var kunnigast i detta samfund om vad som är tillåtet och förbjudet samt att han på Domedagen kommer att hamna ett steg före de lärda. Vad som är en av hans dygder är att profeten – över honom vare Allāhs frid och välsignelser – sände honom till Jemen för att förmedla hans [profetens – över honom vare Allāhs frid och välsignelser –] budskap samt för att axla rollen som kallare till islam, mufti och domare för jemeniterna. Han brukade även likna honom vid Abraham som var hela mänsklighetens ledare.
+Profeten – över honom vare Allāhs frid och välsignelser – satte stort värde i Mu'ādh och han sade till honom: ”*Mu'ādh, vid Allāh – jag älskar dig*.” Han brukade även låta Mu'ādh rida bakom honom. Det har berättats att han [Mu'ādh] var kunnigast i detta samfund om vad som är tillåtet och förbjudet samt att han på Domedagen kommer att hamna ett steg före de lärda. Vad som är en av hans dygder är att profeten – över honom vare Allāhs frid och välsignelser – sände honom till Jemen för att förmedla hans [profetens – över honom vare Allāhs frid och välsignelser – ] budskap samt för att axla rollen som kallare till islam, mufti och domare för jemeniterna. Han brukade även likna honom vid Abraham som var hela mänsklighetens ledare.
 
 Ibn Mas'ūd brukade säga att Mu'ādh var en ledare med rättfärdiga och goda kvaliteter, lydig mot Allāh och att han inte var en av månggudadyrkarna.
 
@@ -38,12 +36,7 @@ I denna *hadīth[^2]* nämns ordet *sayi'ah* [dålig handling] först trots att 
 
 De goda handlingarna bör vara av samma beskaffenhet som de dåliga, för det kommer på ett effektivare sätt att gottgöra för dem. De konsekvenser som uppstår av synder kan strykas ut på flera sätt. Det första är ånger och det andra är att söka förlåtelse [*istighfār*] utan att ångra sig, för Allāh kan förlåta denne som svar på dennes åkallan[^3] även om denne inte har ångrat sig. Det bästa är dock om ånger och sökande efter förlåtelse kombineras. Det tredje sättet är genom att handla rättfärdigt för att gottgöra för synden.
 
-När det gäller specifika gottgörelser – likt de som finns föreskriva för dem som har intim samvaro under ramadan[^4], skiljer sig från deras fruar genom *zihār*, gör något förbjudet under pilgrimsfärden [eller missar någon obligatorisk] eller jagar under pilgrimsfärden – finns det fyra olika metoder för gottgörelse:
-
-- offra något,
-- frigöra en slav,
-- ge allmosor eller
-- fasta.
+När det gäller specifika gottgörelser – likt de som finns föreskriva för dem som har intim samvaro under ramadan[^4], skiljer sig från deras fruar genom *zihār*, gör något förbjudet under pilgrimsfärden [eller missar någon obligatorisk] eller jagar under pilgrimsfärden – finns det fyra olika metoder för gottgörelse: – offra något, – frigöra en slav, – ge allmosor eller – fasta.
 
 Om gottgörelser som inte finns definierade sade Hudhayfah till ʿUmar:
 

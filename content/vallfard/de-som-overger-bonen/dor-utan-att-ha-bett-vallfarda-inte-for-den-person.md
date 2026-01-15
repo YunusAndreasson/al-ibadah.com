@@ -3,9 +3,7 @@ title: Dör utan att ha bett – vallfärda inte för den personen
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 53 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- De som överger bönen
+categories: – Vallfärd (Hajj) – De som överger bönen
 original_id: 1322
 description: 'Fråga: Jag hade en släkting som avled under ramadan och före hans död
  var han inte noga med att be eller betala allmosa. Är det då tillåtet att vallfärda

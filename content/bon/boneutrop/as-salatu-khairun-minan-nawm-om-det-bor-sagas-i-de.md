@@ -3,9 +3,7 @@ title: as-Salatu khairun minan-nawm – om det bör sägas i det första eller a
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 406 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Böneutrop
+categories: – Bön (Salāh) – Böneutrop
 original_id: 1157
 description: 'Fråga: Bör man säga as-salatu khairun minan-nawm [bön är bättre än
  sömn] i det första eller andra böneutropet? Svar: Man bör säga as-salatu khairun

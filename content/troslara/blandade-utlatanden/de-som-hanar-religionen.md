@@ -3,9 +3,7 @@ title: De som hånar religionen
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Blandade utlåtanden
+categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
 original_id: 1678
 description: 'Fråga: Vänligen, förklara innebörden i denna vers: ” Om du frågade
  [dem vad de menade med vad de sade] skulle det säkert svara: ”Vi bara skämtade.”

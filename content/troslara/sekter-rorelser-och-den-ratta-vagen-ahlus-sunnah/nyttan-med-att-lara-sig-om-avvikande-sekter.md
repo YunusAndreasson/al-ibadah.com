@@ -2,9 +2,7 @@
 title: Nyttan med att lära sig om avvikande sekter
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Kitābul-’Ilm – sida 128, fråga 25
-categories:
-- Troslära (ʿAqīdah)
-- Sekter, rörelser och den rätta vägen – ahlus-sunnah
+categories: – Troslära (ʿAqīdah) – Sekter, rörelser och den rätta vägen – ahlus-sunnah
 original_id: 591
 description: 'Fråga: Vilken är nyttan med att studera avvikande sekter som mu’tazilah,
  jahmiyyah och khawārij, då de inte existerar nuförtiden? Svar: Att lära sig

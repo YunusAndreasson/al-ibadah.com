@@ -3,9 +3,7 @@ title: Bönen började när han gjorde tawāf
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 182 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Tawāf och sa’ī
+categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 808
 description: 'Fråga: Vad gör man om man påbörjade tawāf runt Ka’bah och hunnit
  utföra tre eller fyra varv när bönen börjar? Avbryter man sin tawāf eller ska

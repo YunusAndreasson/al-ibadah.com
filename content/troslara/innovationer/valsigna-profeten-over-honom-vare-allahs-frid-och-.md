@@ -2,13 +2,10 @@
 title: Välsigna profeten – över honom vare Allāhs frid och välsignelser – efter böneutropet
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah ad-Dāimah – fråga 7
-categories:
-- Troslära (ʿAqīdah)
-- Innovationer
+categories: – Troslära (ʿAqīdah) – Innovationer
 original_id: 561
 description: 'Fråga: Är det tillåten att efter böneutropet högt sända sina välsignelser
- över profeten? Svar: Detta är en innovation då det varken gjordes under profetens
- – över honom vare Allāhs frid och vä...'
+ över profeten? Svar: Detta är en innovation då det varken gjordes under profetens – över honom vare Allāhs frid och vä...'
 ---
 
 **Fråga:** Är det tillåten att efter böneutropet högt sända sina välsignelser över profeten?

@@ -2,13 +2,10 @@
 title: Studera islam – Koranen och ahādīth
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwā al-Lajnah al-Da’imah, 12/110
-categories:
-- Troslära (ʿAqīdah)
-- Förståelse av islam
+categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 490
 description: 'Fråga: Jag memorerar lite av Koranen och jag hoppas kunna memorera
- hela för att – med Allāhs hjälp – fortsätta och memorera ahādīth från sändebudet
- – över honom vare Allāhs frid och välsignelser...'
+ hela för att – med Allāhs hjälp – fortsätta och memorera ahādīth från sändebudet – över honom vare Allāhs frid och välsignelser...'
 ---
 
 **Fråga:** Jag memorerar lite av Koranen och jag hoppas kunna memorera hela för att – med Allāhs hjälp – fortsätta och memorera *ahādīth[^1]* från sändebudet – över honom vare Allāhs frid och välsignelser – som finns återgivna i *al-Sahīhayn*. Är denna metod bra eller bör jag jobba med att memorera båda samtidigt?

@@ -3,9 +3,7 @@ title: Måste fasta två på varandra efterföljande månader men bryter fastan 
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 333 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Blandade utlåtanden
+categories: – Fasta (Sawm) – Blandade utlåtanden
 original_id: 481
 description: 'Fråga: Jag behövde gottgöra mig genom att fasta två på varandra efterföljande
  månader och jag fastade dem, alhamdulillah . Men jag fastade hela den första månaden,

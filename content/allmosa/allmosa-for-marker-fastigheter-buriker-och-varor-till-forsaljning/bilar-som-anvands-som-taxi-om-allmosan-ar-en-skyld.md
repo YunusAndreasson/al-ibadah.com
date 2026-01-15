@@ -3,9 +3,7 @@ title: Bilar som används som taxi – om allmosan är en skyldighet för dem
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 603 s. ISBN 9960-892-66-2'
-categories:
-- Allmosa (Zakāh)
-- Allmosa för marker, fastigheter, buriker och varor till försäljning
+categories: – Allmosa (Zakāh) – Allmosa för marker, fastigheter, buriker och varor till försäljning
 original_id: 1251
 description: 'Fråga: Är allmosan en skyldighet för bilar som både används som taxi
  och i privat syfte? Svar: Bilar som hyrs i transportsyfte eller privata bilar

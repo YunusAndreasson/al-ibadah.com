@@ -3,9 +3,7 @@ title: Besöka gravplatser för att läsa sura al-Fātihah
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 584 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Begravningsbön
+categories: – Bön (Salāh) – Begravningsbön
 original_id: 1249
 description: 'Fråga: Vilket är utlåtandet om att besöka gravplatser för att recitera
  al-Fātihah och vad finns det att säga om kvinnor som besöker gravplatser? Svar: Att

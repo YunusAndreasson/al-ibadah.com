@@ -3,9 +3,7 @@ title: Se profeten i sina drömmar
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Blandade utlåtanden
+categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
 original_id: 1680
 description: 'Fråga: Hur korrekt är följande hadīth från profeten: ”Den som ser
  mig [i hans drömmar], då har han sett mig”? I en annan hadīth säger han: ”Den som

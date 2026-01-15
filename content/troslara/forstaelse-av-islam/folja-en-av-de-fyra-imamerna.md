@@ -2,9 +2,7 @@
 title: Följa en av de fyra imamerna
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Kitābul-ʿilm – sida 115, fråga 14
-categories:
-- Troslära (ʿAqīdah)
-- Förståelse av islam
+categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 598
 description: 'Fråga: Vilket råd kan du ge till en nybörjare som söker kunskap angående
  att följa en av de fyra imamerna [Abū Hanīfah, Mālik ibn Anas, ash-Shāfi''ī och

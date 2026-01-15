@@ -5,9 +5,7 @@ author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 254 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Gravdyrkan
+categories: – Troslära (ʿAqīdah) – Gravdyrkan
 original_id: 1196
 description: 'Fråga: Vilket är utlåtandet om att söka välsignelser från gravar och
  att göra tawāf runt dem för att få ens behov uppfyllda och för att komma närmare

@@ -4,9 +4,7 @@ author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 46 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Vallfärd (Hajj)
-- Möjlighet att vallfärda
+categories: – Vallfärd (Hajj) – Möjlighet att vallfärda
 original_id: 1319
 description: 'Fråga: En kvinna säger: ”Min mor befinner sig i Marocko och jag jobbar
  i Saudiarabien. Jag vill att hon ska komma hit för att hon ska kunna göra den

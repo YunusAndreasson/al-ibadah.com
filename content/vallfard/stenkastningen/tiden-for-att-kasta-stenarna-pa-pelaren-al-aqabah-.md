@@ -4,9 +4,7 @@ title: Tiden för att kasta stenarna på pelaren al-ʿAqabah och hur man tar ige
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 234 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Stenkastningen
+categories: – Vallfärd (Hajj) – Stenkastningen
 original_id: 1557
 description: 'Fråga: När tar tiden för att kasta sten på pelaren al-ʿAqabah slut
  och när tar tiden för att ta igen detta slut [om man missar]? Svar: När det

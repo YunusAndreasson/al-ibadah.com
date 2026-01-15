@@ -3,9 +3,7 @@ title: Be fredagsbönen i en moské som ursprungligen inte var avsedd för det
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 40 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Fredagsbönen
+categories: – Bön (Salāh) – Fredagsbönen
 original_id: 381
 description: 'Fråga: Är det tillåtet att be fredagsbönen i en moské som från början
  inte var avsedd för att be fredagsbönen när den byggdes? Svar: Är det så, då

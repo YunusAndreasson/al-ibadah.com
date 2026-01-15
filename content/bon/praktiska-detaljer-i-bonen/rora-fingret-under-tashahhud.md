@@ -3,9 +3,7 @@ title: Röra fingret under tashahhud
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 208 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Praktiska detaljer i bönen
+categories: – Bön (Salāh) – Praktiska detaljer i bönen
 original_id: 224
 description: 'Fråga: Jag har hört att om man lägger tummen mot mittfingret och sträcker
  ut pekfingret så är det jobbigare för djävulen än att bli slagen med järn. I vilken

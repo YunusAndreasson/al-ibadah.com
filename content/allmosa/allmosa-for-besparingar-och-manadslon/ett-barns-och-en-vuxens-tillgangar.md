@@ -3,9 +3,7 @@ title: Ett barns och en vuxens tillgångar
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 47 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
-- Allmosa för besparingar och månadslön
+categories: – Allmosa (Zakāh) – Allmosa för besparingar och månadslön
 original_id: 603
 description: 'Fråga: Jag är en ung man, sjutton år gammal. Jag bor tillsammans med
  min familj och min far försörjer mig. Jag har en del pengar sparade i en islamisk

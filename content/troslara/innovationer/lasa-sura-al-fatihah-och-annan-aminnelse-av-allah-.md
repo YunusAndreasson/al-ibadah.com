@@ -3,9 +3,7 @@ title: Läsa sura al-Fātihah och annan åminnelse av Allāh högt efter bönen
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 495 s. ISBN 9960-892-66-2'
-categories:
-- Troslära (ʿAqīdah)
-- Innovationer
+categories: – Troslära (ʿAqīdah) – Innovationer
 original_id: 1224
 description: 'Fråga: Efter den obligatoriska bönen läser de i vissa länder sura al-Fātihah
  och annan åminnelse av Allāh. De läser även versen al-Kursi gemensamt. Vilket är

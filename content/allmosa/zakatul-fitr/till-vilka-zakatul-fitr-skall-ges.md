@@ -1,9 +1,7 @@
 ---
 title: Till vilka zakātul-fitr ska ges
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-categories:
-- Allmosa (Zakāh)
-- Zakātul-fitr
+categories: – Allmosa (Zakāh) – Zakātul-fitr
 original_id: 1603
 description: 'Fråga: Till vilka ska zakātul-fitr ges? Är det tillåtet att sända
  den till de som kämpar för Allāhs sak i Afghanistan? Kan den doneras till en fond

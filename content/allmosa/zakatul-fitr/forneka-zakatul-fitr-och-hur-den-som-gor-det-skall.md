@@ -2,9 +2,7 @@
 title: Förneka zakātul-fitr och hur den som gör det ska behandlas
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Fiqh al-Ibādāt libni ʿUthaymīn – sida 213
-categories:
-- Allmosa (Zakāh)
-- Zakātul-fitr
+categories: – Allmosa (Zakāh) – Zakātul-fitr
 original_id: 1597
 description: 'Fråga: Vilket är utlåtandet om att förneka zakātul-fitr och hur ska
  denne person behandlas? Svar: Det är inte tillåtet att förneka! Det är ju en

@@ -3,9 +3,7 @@ title: Kämpa för att göra föräldrarna nöjda
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Äktenskap
+categories: – Blandat – Äktenskap
 original_id: 1695
 description: 'Fråga: Min vän frågar: ”Min mor blir snabbt arg och hon åkallar ofta
  mot mig och mina bröder. Detta speciellt när hon vaknar efter att ha sovit. Hon

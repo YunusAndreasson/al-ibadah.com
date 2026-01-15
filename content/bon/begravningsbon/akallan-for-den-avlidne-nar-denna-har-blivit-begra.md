@@ -3,9 +3,7 @@ title: Åkallan för den avlidne när denna har blivit begravd
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 87 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Begravningsbön
+categories: – Bön (Salāh) – Begravningsbön
 original_id: 393
 description: 'Fråga: När åkallar man för den avlidne? När kistan har sänkts ned och
  man har kastat jord över den? Bör den som åkallar för den avlidne sitta eller stå?

@@ -3,9 +3,7 @@ title: Skydd mot djävulens viskningar
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Glömska och dålig koncentration
+categories: – Bön (Salāh) – Glömska och dålig koncentration
 original_id: 1653
 description: 'Fråga: Djävulen föreslår ofta onda tankar för mig när jag ber, läser
  Koranen eller tvagar mig. Jag finner ofta att jag talar om onda tankar, inte med

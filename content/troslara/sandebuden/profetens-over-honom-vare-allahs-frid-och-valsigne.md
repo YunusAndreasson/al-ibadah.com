@@ -5,9 +5,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 272 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Sändebuden
+categories: – Troslära (ʿAqīdah) – Sändebuden
 original_id: 115
 description: 'Fråga: Hur lyder historien om Zaid bin Harithah och hans giftermål
  med Zainab, som profeten – över honom vare Allāhs frid och välsignelser – sedan
@@ -38,7 +36,7 @@ Det som har rapporterats om att profeten – över honom vare Allāhs frid och v
 
 Profeterna är för ädla i karaktär, osjälviska, […] och höga i grad för att göra något sådant. Det var ju också profeten – över honom vare Allāhs frid och välsignelser – som friade till henne för Zaids räkning och hon var hans kusin. Hade han varit förälskad i henne så hade han kunnat gifta sig med henne redan från början. Detta hade varit extra lägligt då hon hade avvisat Zaids frieri och inte var nöjd med det. Hon accepterade det inte förrän den tidigare nämnda versen uppenbarades. Detta var inget annat än ett påbud från Allāh och Hans plan för att avlägsna vissa handlanden från tiden före islam. Detta var en nåd för folket som lättade upp restriktioner för dem, vilket Allāh den Upphöjde säger:
 
-> ”Minns [Muhammad] vad du sade till honom som Gud visade Sin nåd och som du själv visade stor välvilja: 'Behåll din hustru och frukta Gud!' Och av rädsla för människorna gömde du inom dig vad Gud skulle ge till känna, fastän du inte bör frukta någon utom Gud. Men då Zayd skilde sig från henne gav Vi henne som hustru åt dig för att [visa att] ingenting hindrar en troende att ingå äktenskap med sin adoptivsons hustru, sedan bandet mellan dem har upplösts. Guds vilja måste ske. Ingen skuld vilar på profeten – över honom vare Allāhs frid och välsignelser – som här handlade så som Gud befallde honom. Så gick Gud till väga mot föregångarna – ja, allas öden formades av Guds beslut – de som [för människorna] förkunnade Guds budskap och som fruktade Honom och inte fruktade någon annan än Gud. Det behövs ingen annan än Gud för att ställa [människorna] till räkenskap. Troende! Muhammad är inte far till någon av era män. Han är Guds Sändebud och Profetelängdens sigill. Gud har kunskap om allt.” [Koranen 33:37–40]
+> ”Minns [Muhammad] vad du sade till honom som Gud visade Sin nåd och som du själv visade stor välvilja: 'Behåll din hustru och frukta Gud!' Och av rädsla för människorna gömde du inom dig vad Gud skulle ge till känna, fastän du inte bör frukta någon utom Gud. Men då Zayd skilde sig från henne gav Vi henne som hustru åt dig för att [visa att] ingenting hindrar en troende att ingå äktenskap med sin adoptivsons hustru, sedan bandet mellan dem har upplösts. Guds vilja måste ske. Ingen skuld vilar på profeten – över honom vare Allāhs frid och välsignelser – som här handlade så som Gud befallde honom. Så gick Gud till väga mot föregångarna – ja, allas öden formades av Guds beslut – de som [för människorna] förkunnade Guds budskap och som fruktade Honom och inte fruktade någon annan än Gud. Det behövs ingen annan än Gud för att ställa [människorna] till räkenskap. Troende! Muhammad är inte far till någon av era män. Han är Guds Sändebud och Profetelängdens sigill. Gud har kunskap om allt.” [Koranen 33:37 – 40]
 
 Må Allāhs frid och välsignelser vara över vår Profet Muhammad, hans familj och följeslagare.
 

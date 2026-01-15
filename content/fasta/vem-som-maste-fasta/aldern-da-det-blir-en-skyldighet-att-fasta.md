@@ -3,9 +3,7 @@ title: Åldern då det blir en skyldighet att fasta
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 243 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Vem som måste fasta
+categories: – Fasta (Sawm) – Vem som måste fasta
 original_id: 401
 description: 'Fråga: När blir en ung tjej skyldig att fasta? Svar: Den unga
  tjejen är skyldig att fasta när hon når myndig ålder. Puberteten uppnås genom att

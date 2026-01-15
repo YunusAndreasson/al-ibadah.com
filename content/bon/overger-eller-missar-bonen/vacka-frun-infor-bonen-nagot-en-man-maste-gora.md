@@ -3,9 +3,7 @@ title: Väcka frun inför bönen – något en man måste göra
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Överger eller missar bönen
+categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 1623
 description: 'Fråga: Vilket ansvar har en man om han inte väcker sin fru för att
  be gryningsbönen? Är det en ursäkt om han efter många försök inte lyckas väcka henne

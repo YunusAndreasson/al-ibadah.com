@@ -2,9 +2,7 @@
 title: Någon som talar illa om följeslagarna
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: al-Lu’lu’ al-Makīn min Fatāwa Fadīlat al-shaykh Ibn Jibrīn, s. 39
-categories:
-- Allmosa (Zakāh)
-- De som får ta emot allmosa
+categories: – Allmosa (Zakāh) – De som får ta emot allmosa
 original_id: 546
 description: 'Fråga: Vilket är utlåtandet om en sunni som betalar allmosa till fattiga rāfidi
 ? Om en muslim som är skyldig att betala allmosa ger den till en fattig rāfidi

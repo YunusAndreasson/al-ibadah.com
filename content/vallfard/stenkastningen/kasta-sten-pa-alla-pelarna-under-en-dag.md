@@ -3,9 +3,7 @@ title: Kasta sten på alla pelarna under en dag
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 251 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Stenkastningen
+categories: – Vallfärd (Hajj) – Stenkastningen
 original_id: 1359
 description: 'Fråga: Får pilgrimen kasta stenar på pelarna för alla dagar under en
  dag, oavsett om den dagen var den första dagen under at-tashrīq eller om det

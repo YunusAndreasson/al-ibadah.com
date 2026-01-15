@@ -4,9 +4,7 @@ title: Firande av profetens – över honom vare Allāhs frid och välsignelser 
 author: Ibn ʿAbdullah Ibn Bāz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 72 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Innovationer
+categories: – Troslära (ʿAqīdah) – Innovationer
 original_id: 54
 description: 'Fråga: Får muslimer fira ‘eid i moskén och minnas profetens – över
  honom vare Allāhs frid och välsignelser – biografi den tolfte natten i rabi’ al-awwal [vilken

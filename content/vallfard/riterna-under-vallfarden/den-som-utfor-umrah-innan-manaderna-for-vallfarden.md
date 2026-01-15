@@ -3,9 +3,7 @@ title: Den som utför ‘umrah innan månaderna för vallfärden är inte en mut
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 96 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Riterna under vallfärden
+categories: – Vallfärd (Hajj) – Riterna under vallfärden
 original_id: 741
 description: 'Fråga: Om en muslim med avsikt att vallfärda kommer till Mecka före
  vallfärdsmånaderna, utför ‘umrah och stannar i Mecka tills tiden för vallfärden

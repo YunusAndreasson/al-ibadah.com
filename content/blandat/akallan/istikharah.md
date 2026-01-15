@@ -3,9 +3,7 @@ title: Istikharah
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 522 s. ISBN 9960-892-66-2'
-categories:
-- Blandat
-- Åkallan
+categories: – Blandat – Åkallan
 original_id: 982
 description: 'Fråga: Vilket är utlåtandet om istikharah-bönen? Bör åkallan för istikharah-bönen
  läsas när man ber hälsningsbönen till moskén eller under de vanliga sunnah -bönerna? Svar: Istikharah-bönen

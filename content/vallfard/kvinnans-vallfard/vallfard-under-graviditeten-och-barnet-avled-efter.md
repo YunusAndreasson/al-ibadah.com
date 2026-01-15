@@ -3,9 +3,7 @@ title: Vallfärd under graviditeten och barnet avled efter hemkomsten
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-ʿilmiyyah wal-Iftā – Volym 11,
  sida 16, fatwa 2177
-categories:
-- Vallfärd (Hajj)
-- Kvinnans vallfärd
+categories: – Vallfärd (Hajj) – Kvinnans vallfärd
 original_id: 906
 description: 'Fråga: En kvinna vallfärdade medan hon var gravid. När hon återvände
  från vallfärden avled hennes ofödda barn. Kommer då både hon och hennes barn att

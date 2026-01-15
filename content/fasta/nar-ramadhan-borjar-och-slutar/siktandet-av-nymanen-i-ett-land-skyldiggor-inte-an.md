@@ -4,9 +4,7 @@ author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 232 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Fasta (Sawm)
-- När ramadhan börjar och slutar
+categories: – Fasta (Sawm) – När ramadhan börjar och slutar
 original_id: 395
 description: 'Fråga: Det varierar mellan olika länder när nymånen visar sig under
  ramadan och shawwal. Fastar muslimer då när den siktas i ett av dessa länder? Svar: De

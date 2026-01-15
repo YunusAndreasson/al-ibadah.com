@@ -4,9 +4,7 @@ author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 113 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Shirk [Att sätta något vid Allāhs sida]
+categories: – Troslära (ʿAqīdah) – Shirk [Att sätta något vid Allāhs sida]
 original_id: 69
 description: 'Fråga: Anses de som dömer med något annat än vad Allāh har uppenbarat
  vara icke-troende? Om vi säger att de är muslimer, vad ska vi då säga om Allāhs

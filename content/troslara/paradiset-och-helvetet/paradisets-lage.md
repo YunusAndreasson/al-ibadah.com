@@ -3,13 +3,11 @@ title: Paradisets läge
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 181 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Paradiset och Helvetet
+categories: – Troslära (ʿAqīdah) – Paradiset och Helvetet
 original_id: 87
 description: 'Fråga: [Vad vet vi om Paradisets vidd?] Svar: Innan vi svarar denna
  fråga måste vi föregå den med att säga att det som finns i Allāhs skrift och det
- som har rapporterats från Allāhs sändebud –...'
+ som har rapporterats från Allāhs sändebud – ...'
 ---
 
 **Fråga:** [Vad vet vi om Paradisets vidd?]

@@ -2,9 +2,7 @@
 title: Skynda sig till bön när man hört böneutropet
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Majmū’ Fatāwa al-shaykh Ibn ‘Uthaymīn, 15/32
-categories:
-- Bön (Salāh)
-- Böneutrop
+categories: – Bön (Salāh) – Böneutrop
 original_id: 520
 description: 'Fråga: Är det bättre för arbetstagare att skynda sig att be när de
  hör böneutropet eller ska de vänta tills de har avslutat deras arbetsuppgifter?

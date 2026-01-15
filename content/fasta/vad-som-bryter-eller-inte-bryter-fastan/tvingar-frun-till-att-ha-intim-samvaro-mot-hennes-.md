@@ -3,9 +3,7 @@ title: Tvingar frun till att ha intim samvaro mot hennes vilja
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 280 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Vad som bryter eller inte bryter fastan
+categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 435
 description: 'Fråga: En man har intim samvaro med sin fru dagtid under fastan och
  han tvingade henne till det. De har inte möjlighet att frisläppa en slav eller fasta

@@ -4,9 +4,7 @@ author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 432 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Bön (Salāh)
-- Resenärens bön
+categories: – Bön (Salāh) – Resenärens bön
 original_id: 1573
 description: 'Fråga: Om jag befann mig i ett flygplan och det blev dags för att be,
  får jag då be i planet? Svar: Blir det tid för bön och planet fortfarande är

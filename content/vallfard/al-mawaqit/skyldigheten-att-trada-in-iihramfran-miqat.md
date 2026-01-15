@@ -3,9 +3,7 @@ title: Skyldigheten att träda in i ihrāmfrån mīqāt
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 79 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- al-Mawaqit
+categories: – Vallfärd (Hajj) – al-Mawaqit
 original_id: 1328
 description: 'Fråga: Under Rajab år 1405 A.H avsåg jag att utföra ‘umrah och utan ihrām passerade
  jag den mīqāt som kallas för Yalamlam och som är mīqāt för folket från Jemen.

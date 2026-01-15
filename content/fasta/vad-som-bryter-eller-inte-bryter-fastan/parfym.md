@@ -3,9 +3,7 @@ title: Parfym
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 264 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Vad som bryter eller inte bryter fastan
+categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 421
 description: 'Fråga: Vilket är utlåtandet om den fastande som dagtid använder parfym
  under ramadan? Svar: Det är ingen fara om man använder eller andas in dem dagtid

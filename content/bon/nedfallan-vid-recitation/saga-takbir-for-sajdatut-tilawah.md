@@ -3,9 +3,7 @@ title: Säga takbīr för sajdatut-tilawah
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 285 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Nedfallan vid recitation
+categories: – Bön (Salāh) – Nedfallan vid recitation
 original_id: 283
 description: 'Fråga: Krävs takbīr vid sajdatut-tilawah både under och utanför
  bönen? Behöver man göra taslīm utanför bönen? Jag ber om en förklaring. Må Allāh

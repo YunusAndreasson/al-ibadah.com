@@ -4,9 +4,7 @@ title: Meningsskiljaktigheter följeslagarna emellan och ett utlåtande om att f
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 225 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Sekter, rörelser och den rätta vägen – ahlus-sunnah
+categories: – Troslära (ʿAqīdah) – Sekter, rörelser och den rätta vägen – ahlus-sunnah
 original_id: 106
 description: 'Fråga: Vilken är ahlus-sunnah wal-jamā’ats inställning till meningsskiljaktigheter
  bland följeslagarna? Vilket är utlåtandet om att förbanna dem? Ahlus-sunnah wal-jamā’at undviker

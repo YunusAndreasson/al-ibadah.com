@@ -4,12 +4,9 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 279 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Sändebuden
+categories: – Troslära (ʿAqīdah) – Sändebuden
 original_id: 122
-description: 'Fråga: Hör profeten – över honom vare Allāhs frid och välsignelser
- – i sin ädla grav dem som ber för honom [speciellt välsignelser]? I en hadīth har
+description: 'Fråga: Hör profeten – över honom vare Allāhs frid och välsignelser – i sin ädla grav dem som ber för honom [speciellt välsignelser]? I en hadīth har
  det sagts: ” Den som sänder välsignelser över...'
 ---
 

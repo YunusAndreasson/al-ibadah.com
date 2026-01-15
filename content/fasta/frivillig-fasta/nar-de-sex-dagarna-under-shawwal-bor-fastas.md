@@ -3,9 +3,7 @@ title: När de sex dagarna under shawwal bör fastas
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 674 s. ISBN 9960-892-66-2'
-categories:
-- Fasta (Sawm)
-- Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+categories: – Fasta (Sawm) – Frivillig fasta (Shawwal, ashura-dagen, m.m.)
 original_id: 1061
 description: 'Fråga: När bör man fasta de sex dagarna under shawwal? Svar: Det
  är att föredra om man fastar de sex dagarna under shawwal direkt i följd efter

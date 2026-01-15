@@ -3,9 +3,7 @@ title: Övre klädesplagget [rida'] för ihrām och hur det ska bäras
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 127 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Ihrām och avsikten inför vallfärden
+categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
 original_id: 764
 description: 'Fråga: Är det bättre för en muhrim att täcka de båda axlarna eller
  bör han avtäcka en av dem under ihrām? Svar: Det som är sunnah för en muhrim är

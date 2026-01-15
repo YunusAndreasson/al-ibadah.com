@@ -4,8 +4,7 @@ author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 39 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
+categories: – Troslära (ʿAqīdah)
 original_id: 1069
 description: 'Fråga: Vilka är de största kännetecknen för den räddade gruppen? Om
  man brister i vissa aspekter, står man då utanför denna grupp? Svar: De mest
@@ -42,11 +41,11 @@ Således är en enad röst och harmoni hjärtan emellan bland de mest särskilja
 
 Detta beror på att de anser att skilda åsikter som beror på *ijtihād[^3]*, i frågor där det är tillåtet att utöva *ijtihād[^3]*, inte är sanna meningsskiljaktigheter. Anledningen är att de som är oeniga har följt de bevis som de är skyldiga att följa – bevis som det inte är tillåtet att förneka. De anser att då deras broder, om brodern inte håller med om något och följer ett visst bevis, faktiskt inte har en avvikande åsikt. Detta beror på att de kallar till att följa bevisen, vad det än må vara. Är brodern inte enig med dem, på grund av något bevis som denne har, då är brodern egentligen enig med dem. Brodern handlar ju enligt vad de kallar och vägleder till – att döma enligt Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*.
 
-De meningsskiljaktigheter som uppstod mellan profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem –i frågor som dessa, det känner många av de lärde väl till. Detta inträffade även under profetens – över honom vare Allāhs frid och välsignelser – tid men han tillrättavisade dem inte på grund av det.
+De meningsskiljaktigheter som uppstod mellan profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – i frågor som dessa, det känner många av de lärde väl till. Detta inträffade även under profetens – över honom vare Allāhs frid och välsignelser – tid men han tillrättavisade dem inte på grund av det.
 
 När han [Profeten] återvände från slaget vid al-Ahzab befallde [ängeln] Gabriel honom att attackera Banu Quraizah som hade brutit ett avtal. Profeten – över honom vare Allāhs frid och välsignelser – kommenderade följeslagarna genom att säga: ”*Ingen bör be eftermiddagsbönen[^5] utom vid Banu Quraizah*.” [*al-Bukhārī* 946 och *Muslim* 1770] De begav sig då från Medina och det blev tid för eftermiddagsbönen[^5]. Vissa sköt upp eftermiddagsbönen[^5] tills de nådde Banu Quraizah och då hade bönens tid hunnit gå ut. De gjorde så för att profeten – över honom vare Allāhs frid och välsignelser – hade sagt: ”*Ingen bör be eftermiddagsbönen[^5] utom vid Banu Quraizah*.” Några andra av dem bad vid den angivna tiden och de sade: ”*Profeten ville att vi skulle bege oss av tidigt mot Banu Quraizah och han ville inte att vi skulle skjuta upp bönen över den angivna tiden*.” De [den sista gruppen hade] rätt men trots detta tillrättavisade profeten – över honom vare Allāhs frid och välsignelser – ingen av de båda grupperna. Ingen av de båda grupperna hyste heller någon fiendskap eller illvilja mot varandra på grund av deras olika förstålelser av vad han hade sagt.
 
-Därför anser jag det vara en skyldighet, för muslimer som påstår sig följa [profetens – över honom vare Allāhs frid och välsignelser –] *sunnah[^1]*, att vara en enhet och att inte dela sig i fraktioner – där den ena tillhör en grupp och där den andra tillhör en annan grupp – vilket får dem att attackera varandra med fientliga ord och hysa fiendskap och hat mot varandra på grund av meningsskiljaktigheter i frågor där det är tillåtet att utöva *ijtihād[^3]*. Det finns inget behov av att urskilja varje fraktion med ett namn men den vise förstår och frågan blir klar för denne.
+Därför anser jag det vara en skyldighet, för muslimer som påstår sig följa [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah[^1]*, att vara en enhet och att inte dela sig i fraktioner – där den ena tillhör en grupp och där den andra tillhör en annan grupp – vilket får dem att attackera varandra med fientliga ord och hysa fiendskap och hat mot varandra på grund av meningsskiljaktigheter i frågor där det är tillåtet att utöva *ijtihād[^3]*. Det finns inget behov av att urskilja varje fraktion med ett namn men den vise förstår och frågan blir klar för denne.
 
 Jag anser att *ahlus-sunnah[^1] wal-jamā’at* måste ena sig även om de är oeniga i vissa frågor eftersom de har förstått bevisen på olika sätt. Detta beror på att det finns rum för ömsesidiga eftergifter i dessa frågor, och all lovprisan samt tacksamhet tillhör Allāh.
 

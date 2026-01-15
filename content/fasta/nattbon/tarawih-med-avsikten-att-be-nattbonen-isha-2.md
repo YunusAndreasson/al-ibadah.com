@@ -3,9 +3,7 @@ title: Tarāwīh med avsikten att be nattbönen [isha]
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 176 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Nattbön (tarawih)
+categories: – Fasta (Sawm) – Nattbön (tarawih)
 original_id: 1480
 description: 'Fråga: En man kom till moskén och fann att de bad tarāwīh . Han var
  medveten om detta. Kan han då be med dem men avse att be nattbönen[^1] eller bör han

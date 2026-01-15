@@ -4,9 +4,7 @@ author: Ibn ʿAbdur-Rahman al-Jibrin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 72 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Renhet (Tahārah)
-- Tayammum [Tvagning utan vatten]
+categories: – Renhet (Tahārah) – Tayammum [Tvagning utan vatten]
 original_id: 1569
 description: 'Fråga: Är det tillåtet att tvaga sig med en sten som inte lämnar stoftpartiklar
  i handen? Vilka är de kroppsdelar som inkluderas i tayammum? Hur många böner får

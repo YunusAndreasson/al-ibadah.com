@@ -3,9 +3,7 @@ title: Tyst Basmalah är bättre
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 254 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Praktiska detaljer i bönen
+categories: – Bön (Salāh) – Praktiska detaljer i bönen
 original_id: 263
 description: 'Fråga: Vilket är utlåtandet om att recitera ” Bismillāh ” högt i sura
  al-Fātihah och andra suror? Svar: De lärde är oense. Några anser att det är

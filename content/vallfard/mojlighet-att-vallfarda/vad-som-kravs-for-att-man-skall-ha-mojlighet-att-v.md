@@ -2,9 +2,7 @@
 title: Vad som krävs för att man ska ha möjlighet att vallfärda
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah al-Dā’imah, Kitāb al-Hajj wa’l-’umrah wa’l-Ziyārah, s. 17
-categories:
-- Vallfärd (Hajj)
-- Möjlighet att vallfärda
+categories: – Vallfärd (Hajj) – Möjlighet att vallfärda
 original_id: 897
 description: 'Fråga: Vad krävs för att man ska ha möjlighet att vallfärda? Svar: All
  lovprisan tillhör Allāh. Definitionen för möjligheten att vallfärda är: fysisk hälsa;

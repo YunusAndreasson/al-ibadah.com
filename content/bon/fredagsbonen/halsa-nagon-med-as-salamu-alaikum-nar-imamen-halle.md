@@ -3,9 +3,7 @@ title: Hälsa någon med ”as-salamu 'alaikum” när imamen håller predikan
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 559 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Fredagsbönen
+categories: – Bön (Salāh) – Fredagsbönen
 original_id: 1238
 description: 'Fråga: Vilket är utlåtandet om att hälsa någon med ” as-salamu ''alaikum
  ” när imamen håller predikan? Svar: Om någon kommer när imamen håller predikan

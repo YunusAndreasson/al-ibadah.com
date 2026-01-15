@@ -1,11 +1,8 @@
 ---
 title: Handlingar som försvagar tron
 author: Muhammad bin Sālih al-ʿUthaymīn
-source: Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muhammad ibn Sālih al-‘Uthaymīn
- – vol. 1. s. 57
-categories:
-- Troslära (ʿAqīdah)
-- Förståelse av islam
+source: Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muhammad ibn Sālih al-‘Uthaymīn – vol. 1. s. 57
+categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 496
 description: 'Fråga: Vilka handlingar försvagar tron? Svar: Det som försvagar
  tron är följande: Okunskap om Allāhs namn och egenskaper gör oundvikligen

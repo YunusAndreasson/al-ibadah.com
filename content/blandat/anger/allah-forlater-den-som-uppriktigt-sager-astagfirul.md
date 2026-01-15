@@ -4,9 +4,7 @@ author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 234 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Blandat
-- Ånger
+categories: – Blandat – Ånger
 original_id: 656
 description: 'Fråga: Är det sant att Allāh den Allsmäktige förlåter alla som säger
  ” Astagfirullah ”? Svar: Om en person säger ” Astagfirullah ” med en uppriktig

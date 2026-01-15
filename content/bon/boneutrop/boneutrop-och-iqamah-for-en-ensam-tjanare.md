@@ -3,9 +3,7 @@ title: Böneutrop och iqāmah för en ensam tjänare
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 137 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Böneutrop
+categories: – Bön (Salāh) – Böneutrop
 original_id: 183
 description: 'Fråga: Då det inte finns någon moské nära mig ber jag ibland den obligatoriska
  bönen ensam. Krävs det då att jag gör böneutropet och iqāmah för varje bön eller

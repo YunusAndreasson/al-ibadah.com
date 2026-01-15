@@ -3,9 +3,7 @@ title: Frivilliga böner innan kvällsbönen
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 282 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Frivilliga och speciella böner
+categories: – Bön (Salāh) – Frivilliga och speciella böner
 original_id: 1508
 description: 'Fråga: Vilket är utlåtandet om att be hälsningsbönen till moskén efter
  böneutropet för kvällsbönen när tiden mellan böneutropet och iqāmah är kort. Vilket

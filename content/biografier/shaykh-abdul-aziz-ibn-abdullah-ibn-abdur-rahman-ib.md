@@ -1,11 +1,10 @@
 ---
 title: Shaykh ʿAbdul-ʿAzīz Ibn ʿAbdullāh Ibn ʿAbdur-Rahmān Ibn Bāz
-categories:
-- Biografier
+categories: – Biografier
 original_id: 8
 description: '"Om han talade i telefon och bad någon om någonting och han behövde vänta
-  på svaret, då fördrev han tiden med att prisa Allāh (Subhān-Allāh) och genom att
-  söka Allāhs förlåtelse (astaghfi-rullâh)."...'
+ på svaret, då fördrev han tiden med att prisa Allāh (Subhān-Allāh) och genom att
+ söka Allāhs förlåtelse (astaghfi-rullâh)."...'
 ---
 
 "Om han talade i telefon och bad någon om någonting och han behövde vänta på svaret, då fördrev han tiden med att prisa Allāh (Subhān-Allāh) och genom att söka Allāhs förlåtelse (astaghfi-rullâh)." [al-Imām Ibn Bāz – duroos wa mawāqif wa 'ibar, sida 14]

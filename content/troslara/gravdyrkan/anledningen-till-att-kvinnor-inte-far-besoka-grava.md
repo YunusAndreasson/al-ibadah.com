@@ -3,9 +3,7 @@ title: Anledningen till att kvinnor inte får besöka gravar
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 172 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Gravdyrkan
+categories: – Troslära (ʿAqīdah) – Gravdyrkan
 original_id: 83
 description: 'Fråga: Varför får kvinnor inte besöka gravar? Svar: Ett starkt
  förbud mot detta har rapporterats då profeten – över honom vare Allāhs frid och

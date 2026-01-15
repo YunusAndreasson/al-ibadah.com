@@ -2,9 +2,7 @@
 title: Äta mat tillagad av en kvinna med månadsblödning
 author: 'ʿAbdullāh Ibn Humayd'
 source: Fatāwa Muhimmah li-Nisā al-Ummah – sida 61
-categories:
-- Renhet (Tahārah)
-- Månadsblödning
+categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 589
 description: 'Fråga: Är det tillåtet att äta den mat som en kvinna med mens tillagat? Svar: Det
  finns ingen skada i att äta den mat som en kvinna med månadsblödning har tillrett.

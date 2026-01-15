@@ -1,8 +1,6 @@
 ---
 title: Starkare tro – hur man får det
-categories:
-- Blandat
-- Utveckling
+categories: – Blandat – Utveckling
 original_id: 1656
 description: 'Fråga: Hur blir en muslim en starkt troende? Svar: En muslim blir
  en mer hängivet troende när han reciterar Allāhs skrift, studerar den, reflekterar

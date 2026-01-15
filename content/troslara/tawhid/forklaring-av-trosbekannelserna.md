@@ -4,13 +4,10 @@ author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 72 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Tawhīd [Monoteism]
+categories: – Troslära (ʿAqīdah) – Tawhīd [Monoteism]
 original_id: 1073
 description: 'Fråga: Hur kan man förklara trosbekännelserna? Svar: Trosbekännelserna
- är nycklarna till islam och det går inte att träda in i islam utan dem. När profeten
- – över honom vare Allāhs frid och vä...'
+ är nycklarna till islam och det går inte att träda in i islam utan dem. När profeten – över honom vare Allāhs frid och vä...'
 ---
 
 **Fråga:** Hur kan man förklara trosbekännelserna?
@@ -55,7 +52,7 @@ Hur kan vi då säga att det inte finns några gudomar jämsides med Allāh när
 
 Svaret på dessa tvivel blir tydligt från predikatets innebörd i orden: *Lā ilāha illAllāh*. Vi säger att dessa gudomar som dyrkas jämsides med Allāh är gudomar som dyrkas – men de är falska sådana. De är inga sanna gudar och de har ingen rätt att dyrkas. Allāh den Upphöjde säger:
 
-> ”Har ni ägnat en tanke åt al-Lāt och al-Uzza och Manāt, den tredje [som ni dyrkar]? Förbehåller ni er alltså manlig, och tillskriver Honom kvinnlig avkomma? Det är sannerligen en ojämn fördelning!” [Koranen 53:19–23]
+> ”Har ni ägnat en tanke åt al-Lāt och al-Uzza och Manāt, den tredje [som ni dyrkar]? Förbehåller ni er alltså manlig, och tillskriver Honom kvinnlig avkomma? Det är sannerligen en ojämn fördelning!” [Koranen 53:19 – 23]
 
 I detta finns bevis för detta och likaså finns det bevis när Allāh den Upphöjde berättar om Josef:
 
@@ -85,11 +82,11 @@ Något som också förstås genom detta uttalande är du inte tror att Allāhs s
 
 Han är därmed en av Allāhs tjänare som Allāh kommenderar, och han följer vad han kommenderas att göra. Allāh den Upphöjde säger:
 
-> ”Säg: ’Jag har ingen makt över er och kan inte vålla er skada; inte heller [kan jag] förmå er att följa den raka vägen. Säg: ’Ingen kan skydda mig mot Gud och jag kan heller inte finna en tillflykt undan Honom.” [Koranen 72:21–22]
+> ”Säg: ’Jag har ingen makt över er och kan inte vålla er skada; inte heller [kan jag] förmå er att följa den raka vägen. Säg: ’Ingen kan skydda mig mot Gud och jag kan heller inte finna en tillflykt undan Honom.” [Koranen 72:21 – 22]
 
 Detta är innebörden av vittnesmålet om att ingen är värdig att dyrkas utom Allāh och att Muhammad är Allāhs sändebud. Genom denna innebörd förstår du att ingen har rätt att dyrkas, varken ett sändebud från Allāh eller någon annan skapad varelse, och att dyrkan inte är för någon annan än enbart Allāh den Upphöjde:
 
-> ”Säg: ’Min bön och all min andakt, mitt liv och min död tillhör Gud, världarnas Herre, Han som inte har någon vid Sin sida; till detta har jag kallats och jag är den förste av dem som har underkastat sig Guds vilja.” [Koranen 6:162–163]
+> ”Säg: ’Min bön och all min andakt, mitt liv och min död tillhör Gud, världarnas Herre, Han som inte har någon vid Sin sida; till detta har jag kallats och jag är den förste av dem som har underkastat sig Guds vilja.” [Koranen 6:162 – 163]
 
 Sändebudets rättighet är att tilldela honom den status som Allāh den Upphöjde har givit honom: Att han är Allāhs tjänare och sändebud.
 

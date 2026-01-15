@@ -3,9 +3,7 @@ title: Reciterar en vers där man ska nedfalla
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 280 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Nedfallan vid recitation
+categories: – Bön (Salāh) – Nedfallan vid recitation
 original_id: 279
 description: 'Fråga: Behöver jag nedfalla[^1] om jag reciterar en vers i vilken det
  finns ett nedfallande[^1]? Svar: Sajdatut-tilawah är en bekräftad sunnah som

@@ -3,9 +3,7 @@ title: Vad som är en sutrah
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 259 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Sutrah [Vad som avskärmar den bedjande]
+categories: – Bön (Salāh) – Sutrah [Vad som avskärmar den bedjande]
 original_id: 266
 description: 'Fråga: Är en mattkant en sutrah? Svar: Mattans kanter anses inte
  vara en sutrah för Allāhs tjänare. Det som är sunnah för sutrah är att den

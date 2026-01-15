@@ -2,9 +2,7 @@
 title: Släktingar
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Fatāwa al-shaykh Muhammad al-Sālih al-‘Uthaymīn, 1/461
-categories:
-- Allmosa (Zakāh)
-- De som får ta emot allmosa
+categories: – Allmosa (Zakāh) – De som får ta emot allmosa
 original_id: 506
 description: 'Fråga: Är det tillåtet inom islam att betala allmosa till nära släktingar
  som är fattiga och behövande [bröder och systrar, farbröder och fastrar]? Svar: All

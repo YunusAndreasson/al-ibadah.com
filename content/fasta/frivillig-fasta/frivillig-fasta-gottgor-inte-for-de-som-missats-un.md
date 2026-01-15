@@ -4,9 +4,7 @@ author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 304 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Fasta (Sawm)
-- Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+categories: – Fasta (Sawm) – Frivillig fasta (Shawwal, ashura-dagen, m.m.)
 original_id: 457
 description: 'Fråga: Jag blev sjuk och det var plågsamt. Min mor tog mig till sjukhuset
  i Mecka. När jag hade lagts in på sjukhuset gick två ramadan och jag var fortfarande

@@ -2,9 +2,7 @@
 title: Bära parfym när man går till sjukhus, skolan eller för att besöka släktingar
 author: Ibn ʿAbdullah Ibn Baz
 source: Fatāwa al-Da’wah av shaykh ‘Abd al-‘Azīz ibn ‘Abd-Allāh ibn Bāz, 1/185
-categories:
-- Blandat
-- Kropp & klädnad
+categories: – Blandat – Kropp & klädnad
 original_id: 1716
 description: 'Fråga: Får en kvinna bära parfym när hon ska gå till skolan, sjukhuset
  eller för att besöka släktingar eller grannar? Svar: All lovprisan tillhör Allāh.

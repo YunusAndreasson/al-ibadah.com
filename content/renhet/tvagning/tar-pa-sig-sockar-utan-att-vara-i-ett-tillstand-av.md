@@ -3,9 +3,7 @@ title: Tar på sig sockar utan att vara i ett tillstånd av renhet för att seda
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 98 s. ISBN saknas'
-categories:
-- Renhet (Tahārah)
-- Tvagning
+categories: – Renhet (Tahārah) – Tvagning
 original_id: 1440
 description: 'Fråga: Jag gjorde tvagade mig för gryningsbönen, sedan bad jag men
  jag glömde att ta på mina sockar. Sedan sov jag efter bönen, vaknade och tog på
@@ -18,7 +16,7 @@ description: 'Fråga: Jag gjorde tvagade mig för gryningsbönen, sedan bad jag 
 
 I *Sahīh al-Bukhārī* och *Sahīh Muslim* finns en *hadīth[^7]* från Abū Hurairah i vilken det rapporteras att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Bönen accepteras inte för den som släpper sig förrän denne har tvagat sig*.” [*al-Bukhārī* 135, 6954 och *Muslim* 225]
 
-I *Sahīh al-Bukhārī* och *Sahīh Muslim* berättas att al-Mughirah bin Shu'bah hade följe med profeten – över honom vare Allāhs frid och välsignelser – under en resa och att han gick för att urinera, kom tillbaka och tvagade[^1] sig och al-Mughirah hällde vatten åt honom. Han strök över sitt huvud och al-Mughirah gick för att ta av sig sina lädersockar, men profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Lämna dem. Jag tog ju på dem då de [fötterna] var rena*.” [*al-Bukhārī* 206] Sedan strök han över dem. *Ahādīth[^7]* som behandlar detta ämne är många. Därmed måste du som har ställt frågan upprepa dessa fyra böner –middagsbönen[^3], eftermiddagsbönen[^4], kvällsbönen[^5] och nattbönen[^6]. Du har inte syndat på grund av detta. Allāh den Upphöjde har ju sagt: ”*Herre! Ställ oss inte till svars för glömska eller oavsiktliga fel*.” [Koranen 2:286]
+I *Sahīh al-Bukhārī* och *Sahīh Muslim* berättas att al-Mughirah bin Shu'bah hade följe med profeten – över honom vare Allāhs frid och välsignelser – under en resa och att han gick för att urinera, kom tillbaka och tvagade[^1] sig och al-Mughirah hällde vatten åt honom. Han strök över sitt huvud och al-Mughirah gick för att ta av sig sina lädersockar, men profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Lämna dem. Jag tog ju på dem då de [fötterna] var rena*.” [*al-Bukhārī* 206] Sedan strök han över dem. *Ahādīth[^7]* som behandlar detta ämne är många. Därmed måste du som har ställt frågan upprepa dessa fyra böner – middagsbönen[^3], eftermiddagsbönen[^4], kvällsbönen[^5] och nattbönen[^6]. Du har inte syndat på grund av detta. Allāh den Upphöjde har ju sagt: ”*Herre! Ställ oss inte till svars för glömska eller oavsiktliga fel*.” [Koranen 2:286]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har berättat att Allāh har sagt: ”*Jag har gjort så*.” [*Muslim* 126]
 

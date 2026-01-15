@@ -3,9 +3,7 @@ title: Blodprov
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 660 s. ISBN 9960-892-66-2'
-categories:
-- Fasta (Sawm)
-- Vad som bryter eller inte bryter fastan
+categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 1050
 description: 'Fråga: Vilket är utlåtandet om att ta blodprov under fastan, bryts
  fastan då? Svar: En fastande bryter inte fastan om denna lämnar blod för att

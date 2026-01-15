@@ -4,9 +4,7 @@ title: Vallfärdade för sin faders räkning men han började inte resan från f
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 318 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Utse någon annan som vallfärdar
+categories: – Vallfärd (Hajj) – Utse någon annan som vallfärdar
 original_id: 878
 description: 'Fråga: En man vallfärdade detta år för sin avlidne fader, men han påbörjade
  inte resan från faderns födelseplats. Han frågar om denna vallfärd är korrekt? Svar: Det

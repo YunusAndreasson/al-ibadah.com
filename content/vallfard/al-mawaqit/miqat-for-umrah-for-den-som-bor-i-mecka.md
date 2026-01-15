@@ -3,9 +3,7 @@ title: Mīqāt för ‘umrah för den som bor i Mecka
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 81 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- al-Mawaqit
+categories: – Vallfärd (Hajj) – al-Mawaqit
 original_id: 1329
 description: 'Fråga: Var är mīqāt för ‘umrah för den som bor i Mecka? Svar: Mīqāt för ‘umrah för
  den som befinner sig i Mecka är platsen utanför det Heliga området i staden. Därför

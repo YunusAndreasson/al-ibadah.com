@@ -5,9 +5,7 @@ author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 47 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Blandade utlåtanden
+categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
 original_id: 1166
 description: 'Fråga: Hur definierar ahlus-sunnah wal-jamā’at tron? Ökar och minskar
  denna tro? Svar: Tro är enligt ahlus-sunnah wal-jamā’at att bekräfta med hjärtat,
@@ -37,7 +35,7 @@ Samma gäller handlingar. När en person utför en kroppslig handling i större 
 > 
 > 
 > 
-> ”När en sura uppenbarades säger några av dessa [hycklare]; ’Vem av er har känt sin tro stärkas genom detta?’ De troende däremot känner sin tro växa och därför gläds de över [varje ny uppenbarelse]. Men de vars hjärtan är sjuka av tvivel drivs av den [nya uppenbarelsen] allt djupare ned i sin smutsiga synd, och de dör som förnekare.” [Koranen 9:124–125]
+> ”När en sura uppenbarades säger några av dessa [hycklare]; ’Vem av er har känt sin tro stärkas genom detta?’ De troende däremot känner sin tro växa och därför gläds de över [varje ny uppenbarelse]. Men de vars hjärtan är sjuka av tvivel drivs av den [nya uppenbarelsen] allt djupare ned i sin smutsiga synd, och de dör som förnekare.” [Koranen 9:124 – 125]
 
 I en autentisk *hadīth[^2]* från profeten – över honom vare Allāhs frid och välsignelser – har det rapporterats att han sade:
 
@@ -48,7 +46,7 @@ Således både ökar och minskar tron.
 Men vilka är anledningarna till att tron ökar? Det finns flera orsaker som ligger bakom detta:
 
 1. Kunskap om Allāh den Upphöjde genom Hans namn och egenskaper. Desto mer någon ökar sin kunskap om Allāh samt Allāhs namn och egenskaper, desto mer ökar dennes tro. Därför finner man att de lärde, med kunskap om Allāhs namn och egenskaper, har starkare tro än människor överlag.
-2. Reflektion över Allāhs universella och föreskrivna tecken. Desto mer en person studerar de universella tecknen, som är det skapade [universum], desto mer ökar dennes tro. Allāh den Upphöjde säger: ”*För* *dem som har visshet i tron finns tecken [på Guds allmakt överallt] på jorden, och inom er själva. Varför inte [öppna ögonen och] se?*” [Koranen 51:20–21] Verserna som bevisar detta är många. Vad jag avser är de verser som bevisar att tron ökar genom att man reflekterar över och begrundar denna skapelse.
+2. Reflektion över Allāhs universella och föreskrivna tecken. Desto mer en person studerar de universella tecknen, som är det skapade [universum], desto mer ökar dennes tro. Allāh den Upphöjde säger: ”*För* *dem som har visshet i tron finns tecken [på Guds allmakt överallt] på jorden, och inom er själva. Varför inte [öppna ögonen och] se?*” [Koranen 51:20 – 21] Verserna som bevisar detta är många. Vad jag avser är de verser som bevisar att tron ökar genom att man reflekterar över och begrundar denna skapelse.
 3. Att göra mycket som innebär lydnad [av Allāh]. Desto mer man ökar sina handlingar som innebär lydnad, desto mer ökar ens tro. Detta gäller oavsett om detta sker genom tal eller handling. När man åminns Allāh ökar tron, både i kvantitet och i kvalitet. Bönen, fastan och pilgrimsfärden – detta ökar tron i kvantitet och i kvalitet.
 
 Orsakerna som ligger bakom svagheter i tron är de motsatta:

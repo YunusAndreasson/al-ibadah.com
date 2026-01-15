@@ -3,9 +3,7 @@ title: Vara vänd mot qiblah och höja händerna under åkallan
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 291 s. ISBN saknas'
-categories:
-- Blandat
-- Åkallan
+categories: – Blandat – Åkallan
 original_id: 693
 description: 'Fråga: Är det ett krav för att ens bön ska besvaras att man höjer händerna
  och är vänd mot qiblah? Svar: Att höja händerna under åkallan och att vara

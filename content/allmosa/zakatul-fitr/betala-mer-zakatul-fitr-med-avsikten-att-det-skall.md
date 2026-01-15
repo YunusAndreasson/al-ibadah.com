@@ -3,9 +3,7 @@ title: Betala mer zakātul-fitr med avsikten att det ska vara frivillig välgör
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 606 s. ISBN 9960-892-66-2'
-categories:
-- Allmosa (Zakāh)
-- Zakātul-fitr
+categories: – Allmosa (Zakāh) – Zakātul-fitr
 original_id: 1019
 description: 'Fråga: Är det tillåtet att betala mer zakātul-fitr med avsikten att
  ge frivillig välgörenhet? Svar: Ja, det är tillåtet att betala mer zakātul-fitr med

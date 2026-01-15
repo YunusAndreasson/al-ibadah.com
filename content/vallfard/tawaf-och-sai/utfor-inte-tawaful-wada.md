@@ -3,13 +3,10 @@ title: Utför inte tawāful-wadā
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 193 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Tawāf och sa’ī
+categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 1350
 description: 'Fråga: Vilket är utlåtandet om den som inte utför tawāful-wadā under
- vallfärden? Svar: Allāhs sändebud – över honom vare Allāhs frid och välsignelser
- – har sagt: ” Ingen bör resa förrän denn...'
+ vallfärden? Svar: Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ” Ingen bör resa förrän denn...'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som inte utför *tawāf[^1] ul-wadā* under vallfärden?

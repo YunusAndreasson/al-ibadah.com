@@ -3,9 +3,7 @@ title: Överdrivna rörelser
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 201 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Vad som gör eller inte gör bönen ogiltig
+categories: – Bön (Salāh) – Vad som gör eller inte gör bönen ogiltig
 original_id: 1489
 description: 'Fråga: Jag noterar att vissa bröder under bönen i moskén ibland rör
  sig överdrivet mycket. De sätter den ena foten framför den andra som om de stod
@@ -24,7 +22,7 @@ Rörelserna som är föredragna är de rörelser som utförs för att göra någ
 
 Tillåtna rörelser är begränsade och görs på grund av behov, eller upprepade rörelser som görs på grund av en absolut nödvändighet. Det begränsade rörelserna som görs av någon anledning är likt det som profeten – över honom vare Allāhs frid och välsignelser – gjorde när han höll Zainabs dotter [som då var profetens – över honom vare Allāhs frid och välsignelser – barnbarn] framför sig. När han stod upp höll han henne och när han nedföll[^2] satte han ned henne. Återkommande rörelser som görs på grund av behov kan liknas med vad Allāh den Upphöjde säger:
 
-> ”Förrätta regelbundet [de dagliga] bönerna och [särskilt] den bön som har en central plats och res er i from ödmjukhet inför Gud. Om ni hotas av fara kan bönen förrättas under marsch eller ritt, och när ni åter är i säkerhet, åkallas då Gud så som Han lärde er när ni var okunniga.” [Koranen 2:238–239]
+> ”Förrätta regelbundet [de dagliga] bönerna och [särskilt] den bön som har en central plats och res er i from ödmjukhet inför Gud. Om ni hotas av fara kan bönen förrättas under marsch eller ritt, och när ni åter är i säkerhet, åkallas då Gud så som Han lärde er när ni var okunniga.” [Koranen 2:238 – 239]
 
 Det råder ingen tvekan om att den som ber gåendes rör sig, men är det nödvändigt är det tillåtet. Det gör inte bönen ogiltig.
 

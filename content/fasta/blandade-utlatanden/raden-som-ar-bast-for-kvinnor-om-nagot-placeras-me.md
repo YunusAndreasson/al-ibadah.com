@@ -3,9 +3,7 @@ title: Raden som är bäst för kvinnor om något placeras mellan dem och männe
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 323 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Blandade utlåtanden
+categories: – Fasta (Sawm) – Blandade utlåtanden
 original_id: 474
 description: 'Fråga: Om en vägg används som åtskiljare mellan män och kvinnor i moskén,
  gäller då sändebudets uttalande: ”De bästa raderna för män är de första av

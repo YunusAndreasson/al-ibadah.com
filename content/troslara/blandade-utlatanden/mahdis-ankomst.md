@@ -3,9 +3,7 @@ title: Mahdis ankomst
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 102 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Blandade utlåtanden
+categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
 original_id: 66
 description: 'Fråga: Vilken är er åsikt om den utlovade al-Mahdi? Finns det några ahādīth som
  bekräftar hans ankomst? Svar: Det finns ett stort antal ahādīth som ledande

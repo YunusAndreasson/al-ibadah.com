@@ -3,9 +3,7 @@ title: När räknas en resa som att man reser [längre]
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: I’lām al-Musāfirīn bi Ba’d Ādāb wa Ahkām al-Safar wa mā yakhuss al-Mallāhīn
  al-Jawwiyyīn, s. 5
-categories:
-- Bön (Salāh)
-- Resenärens bön
+categories: – Bön (Salāh) – Resenärens bön
 original_id: 545
 description: 'Fråga: När räknas en resa som resande [en resa som ger dispens för
  resenären vad gäller böner]? Svar: All lovprisan tillhör Allāh. Vissa lärde

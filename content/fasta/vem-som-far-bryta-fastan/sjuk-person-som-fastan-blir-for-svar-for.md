@@ -4,9 +4,7 @@ author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 282 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Fasta (Sawm)
-- Vem som får bryta fastan
+categories: – Fasta (Sawm) – Vem som får bryta fastan
 original_id: 438
 description: 'Fråga: Jag är en kvinna som är sjuk och det var några dagar under förra
  ramadan som jag inte fastade. Jag har inte möjlighet att ta igen dessa dagar på

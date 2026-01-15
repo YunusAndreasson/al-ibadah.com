@@ -1,8 +1,7 @@
 ---
 title: Vad den fastande bör göra och vad som är en skyldighet för denne
 author: Muhammad bin Salih al-ʿUthaymin
-categories:
-- Fasta (Sawm)
+categories: – Fasta (Sawm)
 original_id: 1393
 description: 'Fråga: Vad bör den person som fastar göra och vad har denne för skyldigheter? Svar: Den
  fastande bör lyda [Allāh] än mer och undvika alla förbud. Det är en plikt för denne

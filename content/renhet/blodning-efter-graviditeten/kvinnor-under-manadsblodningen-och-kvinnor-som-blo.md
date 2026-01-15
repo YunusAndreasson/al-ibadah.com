@@ -1,12 +1,9 @@
 ---
-title: Kvinnor under månadsblödningen och kvinnor som blöder efter graviditeten –
- får de röra Koranen?
+title: Kvinnor under månadsblödningen och kvinnor som blöder efter graviditeten – får de röra Koranen?
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Renhet (Tahārah)
-- Blödning efter graviditeten
+categories: – Renhet (Tahārah) – Blödning efter graviditeten
 original_id: 1668
 description: 'Fråga: Ädle shaykh, det är en vana jag har att recitera vissa kapitel
  från Koranen innan jag går och lägger mig men det finns dagar när jag inte kan göra

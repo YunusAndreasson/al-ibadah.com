@@ -3,9 +3,7 @@ title: Ta igen böner som missats på grund av sömn eller glömska
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 436 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Överger eller missar bönen
+categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 927
 description: 'Fråga: Om jag missade en eller flera obligatoriska böner på grund av
  sömn eller glömska, hur tar jag då igen de missade bönerna? Ber jag dem först för

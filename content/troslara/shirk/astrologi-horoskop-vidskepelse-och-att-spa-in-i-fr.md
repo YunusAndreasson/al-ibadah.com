@@ -3,9 +3,7 @@ title: Astrologi, horoskop, vidskepelse och att spå in i framtiden
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Majmū’ Fatāwa shaykh Ibn Bāz, 2/123 Muhammed Knut Bernström (1421), Koranens
  budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Shirk [Att sätta något vid Allāhs sida]
+categories: – Troslära (ʿAqīdah) – Shirk [Att sätta något vid Allāhs sida]
 original_id: 1292
 description: 'Fråga: Vad finns det att säga om drömtydning och horoskop? Svar: Astrologi,
  horoskop, vidskepelse och att spå in i framtiden tillhör tiden före islam. Islam

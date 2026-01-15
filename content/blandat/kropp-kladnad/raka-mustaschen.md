@@ -2,9 +2,7 @@
 title: Raka mustaschen
 author: Ibn ʿAbdullah Ibn Baz
 source: Fatāwa al-Lajnah ad-Dā'imah lil-Buhūth al-Ilmiyyah wal-Iftā – fatwā 7293
-categories:
-- Blandat
-- Kropp & klädnad
+categories: – Blandat – Kropp & klädnad
 original_id: 1710
 description: 'Fråga: Om en man rakar sin mustasch och låter skägget växa – finns det då någon synd i detta? Och vad brukade profeten – över honom vare Allāhs frid och välsignelser – göra?'
 ---

@@ -3,9 +3,7 @@ title: Åkalla i Muzdalifah och tiden när man ger sig av
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 219 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Natten i Muzdalifah
+categories: – Vallfärd (Hajj) – Natten i Muzdalifah
 original_id: 839
 description: 'Fråga: Vilket är utlåtandet om att stå i Muzdalifah [för åkallan] och
  att spendera natten där? Hur länga ska man stanna där och när ger sig pilgrimen

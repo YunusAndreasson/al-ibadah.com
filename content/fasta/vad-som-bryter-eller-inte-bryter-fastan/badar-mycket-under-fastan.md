@@ -3,9 +3,7 @@ title: Badar mycket under fastan
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 269 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Vad som bryter eller inte bryter fastan
+categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 426
 description: 'Fråga: Vilket är utlåtandet om att dagtid under ramadan bada mycket,
  mer än en gång? Vilket är utlåtandet om att sitta vid luftkonditioneringen hela

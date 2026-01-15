@@ -4,9 +4,7 @@ author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 200 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Bön (Salāh)
-- Överger eller missar bönen
+categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 219
 description: 'Fråga: När bör nattbönen[^1] tas igen av någon som har försovit sig och
  missat den och inte kommit ihåg den förrän efter gryningsbönen? Bör han be den vid

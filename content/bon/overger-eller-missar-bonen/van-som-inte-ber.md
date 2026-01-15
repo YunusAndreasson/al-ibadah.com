@@ -3,9 +3,7 @@ title: Vän som inte ber
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Överger eller missar bönen
+categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 1697
 description: 'Fråga: Jag har en vän som är mig mycket kär och som har en mycket hög
  och ädel karaktär. Hans problem är dock att han inte ber. Som jag har sagt älskar

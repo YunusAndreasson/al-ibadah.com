@@ -2,9 +2,7 @@
 title: Bära de bästa kläderna
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Majmoo’ Fatāwa al-ʿUthaymīn, 16/216-223.
-categories:
-- Bön (Salāh)
-- '''Eid-bönerna'
+categories: – Bön (Salāh) – '''Eid-bönerna'
 original_id: 1593
 description: 'Fråga: Vilka sorters kläder bär man vid `eid -bönen? Svar: Du bör
  bära dina bästa kläder. Detta gäller män. Kvinnor bör inte bära vackra kläder när

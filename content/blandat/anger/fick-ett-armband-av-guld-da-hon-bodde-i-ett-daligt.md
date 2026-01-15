@@ -3,9 +3,7 @@ title: Fick ett armband av guld då hon bodde i ett dåligt samhälle
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 263 s. ISBN saknas'
-categories:
-- Blandat
-- Ånger
+categories: – Blandat – Ånger
 original_id: 671
 description: 'Fråga: Jag bodde tidigare i ett samhälle där män och kvinnor träffades
  fritt. För att uttrycka sitt onda begär till mig gav en man mig ett dyrt armband.

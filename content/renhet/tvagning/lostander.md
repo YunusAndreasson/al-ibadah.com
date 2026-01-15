@@ -3,9 +3,7 @@ title: Löständer
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 319 s. ISBN 9960-892-66-2'
-categories:
-- Renhet (Tahārah)
-- Tvagning
+categories: – Renhet (Tahārah) – Tvagning
 original_id: 1123
 description: Om någon har löständer, är det då ett krav att ta ut dem när munnen sköljs
  under tvagningen? Har någon löständer ser det ut som om att det inte är en skyldighet

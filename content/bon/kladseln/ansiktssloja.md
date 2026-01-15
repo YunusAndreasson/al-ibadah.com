@@ -3,9 +3,7 @@ title: Ansiktsslöja
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 442 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Klädseln
+categories: – Bön (Salāh) – Klädseln
 original_id: 930
 description: 'Fråga: Får en kvinna be bärandes en ansiktsslöja och ett par handskar? Svar: Om
  en kvinna ber i sitt hem på en plats där ingen kan se henne utom de som är hennes mahram

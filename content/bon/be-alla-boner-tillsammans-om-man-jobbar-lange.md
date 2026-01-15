@@ -3,8 +3,7 @@ title: Be alla böner tillsammans om man jobbar länge
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 384 s. ISBN saknas'
-categories:
-- Bön (Salāh)
+categories: – Bön (Salāh)
 original_id: 319
 description: 'Fråga: Jag jobbar från klockan sju på morgonen till klockan sju på
  kvällen. Får jag be alla böner tillsammans? Svar: Det är inte tillåtet att be

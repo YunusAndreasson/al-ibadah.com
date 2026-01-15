@@ -3,9 +3,7 @@ title: Böneutropet och iqāmah för den som ber ensam
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 404 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Böneutrop
+categories: – Bön (Salāh) – Böneutrop
 original_id: 1155
 description: 'Fråga: Vilket är utlåtandet om böneutropet och iqāmah för någon som
  ber ensam? Svar: Böneutropet och iqāmah är sunnah för den som ber ensam, inte

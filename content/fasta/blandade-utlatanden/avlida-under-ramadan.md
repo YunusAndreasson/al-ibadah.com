@@ -3,12 +3,9 @@ title: Avlida under ramadan
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 330 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Blandade utlåtanden
+categories: – Fasta (Sawm) – Blandade utlåtanden
 original_id: 1415
-description: 'Fråga: Sändebudet – över honom vare Allāhs frid och välsignelser –
- har sagt: ” När ramadan kommer öppnas Paradisets portar och portarna till Helvetet
+description: 'Fråga: Sändebudet – över honom vare Allāhs frid och välsignelser – har sagt: ” När ramadan kommer öppnas Paradisets portar och portarna till Helvetet
  stängs .” Betyder detta att den som avlider un...'
 ---
 

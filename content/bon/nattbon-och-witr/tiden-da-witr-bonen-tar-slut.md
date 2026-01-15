@@ -3,9 +3,7 @@ title: Tiden då witr-bönen tar slut
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 305 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Nattbön och witr
+categories: – Bön (Salāh) – Nattbön och witr
 original_id: 1513
 description: 'Fråga: Vilken är den senaste tidpunkten för att be witr? Svar: Enligt
  profetens – över honom vare Allāhs frid och välsignelser – ord är det under nattens

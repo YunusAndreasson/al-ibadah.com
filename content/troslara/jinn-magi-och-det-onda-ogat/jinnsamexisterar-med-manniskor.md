@@ -3,9 +3,7 @@ title: Jinnsamexisterar med människor
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 203 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Jinn, magi och det onda ögat
+categories: – Troslära (ʿAqīdah) – Jinn, magi och det onda ögat
 original_id: 91
 description: 'Fråga: Hör jinn när vi skriver eller talar om dem? Finns det någon
  åkallan eller några ord för att söka skydd som kan sägas när man har gjort detta? Svar: Ja, jinn blandar

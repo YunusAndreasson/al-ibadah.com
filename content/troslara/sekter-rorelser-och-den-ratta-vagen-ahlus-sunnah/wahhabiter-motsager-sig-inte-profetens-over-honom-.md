@@ -4,9 +4,7 @@ title: ”Wahhabiter” motsäger sig inte profetens – över honom vare Allāh
 author: Ibn ʿAbdullah Ibn Bāz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 331 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Sekter, rörelser och den rätta vägen – ahlus-sunnah
+categories: – Troslära (ʿAqīdah) – Sekter, rörelser och den rätta vägen – ahlus-sunnah
 original_id: 137
 description: 'Fråga: Motsäger sig ”wahhabiterna” profetens – över honom vare Allāhs
  frid och välsignelser – medling? Svar: För den som har studerat Muhammad bin

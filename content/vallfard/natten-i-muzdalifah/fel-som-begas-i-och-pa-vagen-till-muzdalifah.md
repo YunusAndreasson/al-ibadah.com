@@ -2,9 +2,7 @@
 title: Fel som begås i och på vägen till Muzdalifah
 author: Muhammad bin Salih al-ʿUthaymin
 source: Dalīl al-Akhta’ allati yaqa’ fiha al-Hāj wa’l-Mu’tamir
-categories:
-- Vallfärd (Hajj)
-- Natten i Muzdalifah
+categories: – Vallfärd (Hajj) – Natten i Muzdalifah
 original_id: 1306
 description: 'Fråga: Vilka är de fel på vägen till Muzdalifah som du råder oss att
  undvika? Svar: All lovprisan tillhör Allāh. Shaykh Muhammad ibn ʿUthaymīn har

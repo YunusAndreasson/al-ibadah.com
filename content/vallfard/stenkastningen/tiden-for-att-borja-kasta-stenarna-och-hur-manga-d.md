@@ -3,9 +3,7 @@ title: Tiden för att börja kasta stenarna och hur många de ska vara till anta
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 240 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Stenkastningen
+categories: – Vallfärd (Hajj) – Stenkastningen
 original_id: 855
 description: 'Fråga: När börjar pilgrimen kasta stenarna? Hur går detta till väga?
  Hur många ska stenarna vara? Vilken av pelarna ska man kasta på först? Svar: Man

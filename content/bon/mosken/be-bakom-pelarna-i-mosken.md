@@ -3,9 +3,7 @@ title: Be bakom pelarna i moskén
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 233 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Moskén
+categories: – Bön (Salāh) – Moskén
 original_id: 244
 description: 'Fråga: Är det tillåtet att bryta församlingens rader med moskéns pelare? Svar: Det
  råder ingen tvekan om att det är fördelaktigt att raderna är stramt formade och

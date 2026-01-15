@@ -3,9 +3,7 @@ title: Ta av sockarna varje gång man tvagar sig
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 331 s. ISBN 9960-892-66-2'
-categories:
-- Renhet (Tahārah)
-- Tvagning
+categories: – Renhet (Tahārah) – Tvagning
 original_id: 1209
 description: 'Fråga: Vilket är utlåtandet om att ta av sockarna för att skydda sin
  rening varje gång som man tvagar sig? Svar: Detta motsäger sig profetens – över

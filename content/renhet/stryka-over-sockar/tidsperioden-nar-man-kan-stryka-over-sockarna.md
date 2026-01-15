@@ -4,9 +4,7 @@ author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 332 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Renhet (Tahārah)
-- Stryka över sockar
+categories: – Renhet (Tahārah) – Stryka över sockar
 original_id: 1210
 description: 'Fråga: Under vilken tidsperiod kan man stryka över sockarna? Svar: Denna
  fråga är mycket viktig och något människor behöver få svar på. Därför ska vi göra

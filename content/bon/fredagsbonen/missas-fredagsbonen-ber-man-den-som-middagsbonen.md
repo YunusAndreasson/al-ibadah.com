@@ -3,9 +3,7 @@ title: Missas fredagsbönen ber man den som middagsbönen
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 448 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Fredagsbönen
+categories: – Bön (Salāh) – Fredagsbönen
 original_id: 352
 description: 'Fråga: Om jag inte ber fredagsbönen i församlingen i moskén, bör jag
  då be den i mitt hem som två bönecykler med avsikten att det är fredagsbönen eller

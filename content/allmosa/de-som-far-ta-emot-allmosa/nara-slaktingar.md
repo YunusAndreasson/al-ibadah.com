@@ -3,9 +3,7 @@ title: Nära släktingar
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 618 s. ISBN 9960-892-66-2'
-categories:
-- Allmosa (Zakāh)
-- De som får ta emot allmosa
+categories: – Allmosa (Zakāh) – De som får ta emot allmosa
 original_id: 1029
 description: 'Fråga: Vilket är utlåtandet om att betala allmosa till nära släktingar? Svar: Utlåtandet
  är att det inte är tillåtet för den som betalar allmosa att ge den till någon nära

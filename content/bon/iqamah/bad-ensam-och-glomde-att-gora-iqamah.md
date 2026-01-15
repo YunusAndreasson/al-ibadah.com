@@ -3,9 +3,7 @@ title: Bad ensam och glömde att göra iqāmah
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 130 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Iqāmah [Det andra böneutropet]
+categories: – Bön (Salāh) – Iqāmah [Det andra böneutropet]
 original_id: 179
 description: 'Fråga: Någon bad ensam och glömde iqāmah, får denne då be eller bör
  denne upprepa bönen från början? Svar: Iqāmah är inte föreskriven för en ensam

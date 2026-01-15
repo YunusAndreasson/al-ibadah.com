@@ -2,9 +2,7 @@
 title: Förkorta bönen när man fortfarande är i sin hemstad
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Liqa’ al-Bāb al-Maftūh
-categories:
-- Bön (Salāh)
-- Resenärens bön
+categories: – Bön (Salāh) – Resenärens bön
 original_id: 541
 description: 'Fråga: En man lämnar sitt hem för att resa. Tiden för eftermiddagsbönen
  kommer innan han har lämnat staden eller det området där han befinner sig. Skall

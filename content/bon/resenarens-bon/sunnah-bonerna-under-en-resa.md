@@ -3,9 +3,7 @@ title: Sunnah-bönerna under en resa
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 431 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Resenärens bön
+categories: – Bön (Salāh) – Resenärens bön
 original_id: 1541
 description: 'Fråga: Behöver man inte be sunnah -bönerna under en resa och vilket
  är i så fall beviset för det? Svar: Det är föreskrivet att man utelämnar sunnah

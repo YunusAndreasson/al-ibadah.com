@@ -3,9 +3,7 @@ title: Tayammum är ogiltigt när det finns vatten i närheten
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 89 s. ISBN saknas'
-categories:
-- Renhet (Tahārah)
-- Tvagning
+categories: – Renhet (Tahārah) – Tvagning
 original_id: 165
 description: 'Fråga: En dag hade jag en våt dröm och det var en mycket kall dag.
  Jag gick därför till skolan, gjorde tayammum och bad. Sedan kom jag hem igen och

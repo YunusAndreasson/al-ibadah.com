@@ -3,9 +3,7 @@ title: Glömde sa’ī
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: al-Lajnah al-Dā’imah li’l-Buhūth al-‘Ilmiyyah wa’l-Iftā’ – Fatāwa al-Lajnah,
  11/257
-categories:
-- Vallfärd (Hajj)
-- Tawāf och sa’ī
+categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 1293
 description: 'Fråga: Jag utförde min obligatoriska pilgrimsfärd och jag gjorde den
  som hajjul-tamattu’ . Under den åttonde dagen i dhu’l-hijjah trädde jag in i ihrām och

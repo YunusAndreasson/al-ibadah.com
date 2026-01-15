@@ -3,9 +3,7 @@ title: Betala pengar för att någon ska utföra dyrkan
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Ekonomi
+categories: – Blandat – Ekonomi
 original_id: 1620
 description: 'Fråga: En man som var generös och hade en god karaktär avled. Dock
  så varken fastade eller bad han. Efter hans död betalade hans föräldrar en summa

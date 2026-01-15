@@ -3,9 +3,7 @@ title: Resa under fredagar
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 456 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Resenärens bön
+categories: – Bön (Salāh) – Resenärens bön
 original_id: 356
 description: 'Fråga: Vilket är utlåtandet om den som reser ut i öknen eller till
  kusten under en fredag? De gör det eftersom de inte kan göra resan under någon annan

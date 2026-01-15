@@ -1,19 +1,16 @@
 ---
-title: Resa för att besöka profetens – över honom vare Allāhs frid och välsignelser
- – Moské men inte hans grav
+title: Resa för att besöka profetens – över honom vare Allāhs frid och välsignelser – Moské men inte hans grav
 author: Ibn ʿAbdullah Ibn Bāz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 165 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Gravdyrkan
+categories: – Troslära (ʿAqīdah) – Gravdyrkan
 original_id: 80
 description: 'Fråga: Vilket är utlåtandet om att besöka profetens – över honom vare
- Allāhs frid och välsignelser –, awliyā och de rättfärdigas gravar? Det är inte
+ Allāhs frid och välsignelser – , awliyā och de rättfärdigas gravar? Det är inte
  tillåtet att resa för att besöka profetens – ...'
 ---
 
-**Fråga:** Vilket är utlåtandet om att besöka profetens – över honom vare Allāhs frid och välsignelser –, *awliyā* och de rättfärdigas gravar? Det är inte tillåtet att resa för att besöka profetens – över honom vare Allāhs frid och välsignelser – eller någon annans grav. Detta enligt den mest korrekta åsikten bland de lärda som baseras på profetens – över honom vare Allāhs frid och välsignelser – ord:
+**Fråga:** Vilket är utlåtandet om att besöka profetens – över honom vare Allāhs frid och välsignelser – , *awliyā* och de rättfärdigas gravar? Det är inte tillåtet att resa för att besöka profetens – över honom vare Allāhs frid och välsignelser – eller någon annans grav. Detta enligt den mest korrekta åsikten bland de lärda som baseras på profetens – över honom vare Allāhs frid och välsignelser – ord:
 
 > ”Sadla inte era riddjur utom för att besöka tre moskér: den heliga Moskén, min Moské i Medina och Klippmoskén i Jerusalem. [*al-Bukhārī* 1197, 1995 och *Muslim* 1338 och 1397]
 

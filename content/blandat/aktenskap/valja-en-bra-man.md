@@ -2,13 +2,10 @@
 title: Välja en bra man
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Fatāwa al-Marah
-categories:
-- Blandat
-- Äktenskap
+categories: – Blandat – Äktenskap
 original_id: 1712
 description: 'Fråga: Vilka är de viktigaste överväganden en ung kvinna måste göra
- när hon väljer sin man? Om hon avvisar någon av ekonomiska eller världsliga anledningar
- – kommer Allāh då straffa henne? Svar:...'
+ när hon väljer sin man? Om hon avvisar någon av ekonomiska eller världsliga anledningar – kommer Allāh då straffa henne? Svar:...'
 ---
 
 **Fråga:** Vilka är de viktigaste överväganden en ung kvinna måste göra när hon väljer sin man? Om hon avvisar någon av ekonomiska eller världsliga anledningar – kommer Allāh då straffa henne?

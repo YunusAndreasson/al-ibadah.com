@@ -2,9 +2,7 @@
 title: Rådfråga siare och trollkarlar
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. x s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Siare och trollkarlar
+categories: – Troslära (ʿAqīdah) – Siare och trollkarlar
 original_id: 64
 description: 'Fråga: Min far var mentalt sjuk under en lång tid och han åkte ut och
  in från sjukhuset. Några av mina släktingar sade till mig att gå till en kvinna

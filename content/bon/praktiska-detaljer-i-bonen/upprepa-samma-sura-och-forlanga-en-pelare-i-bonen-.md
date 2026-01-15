@@ -5,9 +5,7 @@ author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 235 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Bön (Salāh)
-- Praktiska detaljer i bönen
+categories: – Bön (Salāh) – Praktiska detaljer i bönen
 original_id: 245
 description: 'Fråga: Vilket är utlåtandet om att upprepa samma sura i bönen? Vilket
  är utlåtandet om att förlänga nedfallandet[^1] mer än bugningen[^1]? Vilket är utlåtandet

@@ -3,9 +3,7 @@ title: Offra ett djur när någon har gått bort
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 33 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Offer till andra än Allāh
+categories: – Troslära (ʿAqīdah) – Offer till andra än Allāh
 original_id: 32
 description: 'Fråga: I mitt land dyrkar vissa andra än Allāh – upphöjd är Han. De
  har en tradition att när en någon avlider, då avlivar de en ko, ett får, eller något

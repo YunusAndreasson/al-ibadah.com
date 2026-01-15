@@ -3,9 +3,7 @@ title: Kvinnor som ber begravningsbönen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 63 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Begravningsbön
+categories: – Bön (Salāh) – Begravningsbön
 original_id: 388
 description: 'Fråga: Är det tillåtet för en kvinna att tillsammans med män be över den avlidne? Svar: Den
  grundläggande princip som rör den dyrkan som Allāh har föreskrivit i Hans skrift

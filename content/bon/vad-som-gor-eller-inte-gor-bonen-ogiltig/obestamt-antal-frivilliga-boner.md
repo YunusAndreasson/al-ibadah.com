@@ -3,9 +3,7 @@ title: Obestämt antal frivilliga böner
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 321 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Vad som gör eller inte gör bönen ogiltig
+categories: – Bön (Salāh) – Vad som gör eller inte gör bönen ogiltig
 original_id: 304
 description: 'Fråga: Är det tillåtet att be ett obestämt antal frivilliga böner? Svar: Utlåtandet
  om detta är att man inte har frihet att välja ett visst antal bönecykler efter egna

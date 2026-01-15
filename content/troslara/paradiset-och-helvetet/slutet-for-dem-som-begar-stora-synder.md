@@ -4,9 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 30 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Paradiset och Helvetet
+categories: – Troslära (ʿAqīdah) – Paradiset och Helvetet
 original_id: 30
 description: 'Fråga: Allāh den Upphöjde säger: ” Straffet för äktenskapbryterskan
  och för äktenskapsbrytaren är hundra piskrapp för var och en .” [Koranen 24:2] Och

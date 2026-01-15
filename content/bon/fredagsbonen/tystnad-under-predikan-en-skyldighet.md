@@ -3,9 +3,7 @@ title: Tystnad under predikan – en skyldighet
 author: Ibn ʿAbdur-Rahman al-Jibrin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 464 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Fredagsbönen
+categories: – Bön (Salāh) – Fredagsbönen
 original_id: 1548
 description: 'Fråga: Vilket är utlåtandet om den som talar medan imamen håller predikan
  under fredagen när det som sägs inte är frivilligt, utan det beror på att en vän

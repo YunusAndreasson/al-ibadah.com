@@ -3,9 +3,7 @@ title: Bilar som ägs för att transportera föremål
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 172 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
-- Allmosa för marker, fastigheter, buriker och varor till försäljning
+categories: – Allmosa (Zakāh) – Allmosa för marker, fastigheter, buriker och varor till försäljning
 original_id: 617
 description: 'Fråga: Krävs det allmosa för fordon som används för att köra korn och
  annat? Svar: Det krävs ingen allmosa för fordon och kameler som ägs för att

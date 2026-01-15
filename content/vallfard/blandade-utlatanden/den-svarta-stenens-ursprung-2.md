@@ -3,12 +3,9 @@ title: Den svarta stenens ursprung
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: al-Lajnah al-Dā’imah li’l-Buhoūth al-‘Ilmiyyah wa’l-Iftā’ – Fatāwa al-Lajnah,
  11/228
-categories:
-- Vallfärd (Hajj)
-- Blandade utlåtanden
+categories: – Vallfärd (Hajj) – Blandade utlåtanden
 original_id: 1287
-description: 'Fråga: Det har återberättats att ‘Umar – må Allāh vara nöjd med honom
- – kysste den svarta stenen och sade: ” Jag vet att du endast är en sten och att
+description: 'Fråga: Det har återberättats att ‘Umar – må Allāh vara nöjd med honom – kysste den svarta stenen och sade: ” Jag vet att du endast är en sten och att
  du varken kan ge med- eller motgång. Hade ...'
 ---
 

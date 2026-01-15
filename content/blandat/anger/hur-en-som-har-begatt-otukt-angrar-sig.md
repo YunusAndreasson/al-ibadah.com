@@ -4,9 +4,7 @@ author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 253 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Blandat
-- Ånger
+categories: – Blandat – Ånger
 original_id: 665
 description: 'Fråga: Trots att jag vet hur stor synden är och trots att jag vet att
  djävulen frestade mig till att göra det begick jag otukt. Vid denna tidpunkt sade
@@ -53,7 +51,7 @@ En muslim måste inte enbart vara rädd för *shirk[^1]* och vad som leder till 
 > 
 > 
 > 
-> ”Människor! Guds löfte är sanning. Låt er då inte förledas av jordelivets [lockelser] och låt inte Djävulen föra er bakom ljuset vad Guds [dom] beträffar. Djävulen är er fiende; behandla honom därför som en fiende! När han kallar sina anhängare är det hans enda avsikt att [förmå dem att slå in på] vägen som leder rätt in i den flammande Elden.” [Koranen 35:5–6]
+> ”Människor! Guds löfte är sanning. Låt er då inte förledas av jordelivets [lockelser] och låt inte Djävulen föra er bakom ljuset vad Guds [dom] beträffar. Djävulen är er fiende; behandla honom därför som en fiende! När han kallar sina anhängare är det hans enda avsikt att [förmå dem att slå in på] vägen som leder rätt in i den flammande Elden.” [Koranen 35:5 – 6]
 
 Det finns många verser med en liknande innebörd.
 

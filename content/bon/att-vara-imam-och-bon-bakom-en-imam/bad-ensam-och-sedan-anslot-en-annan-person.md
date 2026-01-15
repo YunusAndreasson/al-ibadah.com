@@ -3,9 +3,7 @@ title: Bad ensam och sedan anslöt en annan person
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 177 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Att vara imam och bön bakom en imam
+categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
 original_id: 205
 description: 'Fråga: Om jag gick in i moskén efter den gemensamma bönen var slut,
  började be med öppnings- takbīr och en annan man började be tillsammans med mig

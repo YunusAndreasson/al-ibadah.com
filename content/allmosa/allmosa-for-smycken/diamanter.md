@@ -3,9 +3,7 @@ title: Diamanter
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 181 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
-- Allmosa för smycken
+categories: – Allmosa (Zakāh) – Allmosa för smycken
 original_id: 623
 description: 'Fråga: Krävs det allmosa för diamanter som används för att göra sig
  vacker och för att bäras? Svar: Det finns ingen allmosa för diamanter som är

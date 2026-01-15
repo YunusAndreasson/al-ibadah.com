@@ -3,9 +3,7 @@ title: Fira al-isrā’ wal-mi'raj -natten
 author: n/a
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. x s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Innovationer
+categories: – Troslära (ʿAqīdah) – Innovationer
 original_id: 113
 description: 'Fråga: Vilket är utlåtandet om att fira al-isrā’ wal-mi''raj med
  åminnelse av Allāh? Svara: Att fira al-isrā’ wal-mi''raj -natten, vilket somliga

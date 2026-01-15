@@ -3,9 +3,7 @@ title: Böneutropet för gryningsbönen ropas ut under witr
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 314 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Nattbön och witr
+categories: – Bön (Salāh) – Nattbön och witr
 original_id: 295
 description: 'Fråga: En man bad witr och under hans bön ropade böneutroparen ut
  för gryningsbönen. Vilket är utlåtandet om detta? Bör han avsluta bönen? Svar: Ja,

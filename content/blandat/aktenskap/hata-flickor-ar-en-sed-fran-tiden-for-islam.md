@@ -3,9 +3,7 @@ title: Hata flickor är en sed från tiden före islam
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Äktenskap
+categories: – Blandat – Äktenskap
 original_id: 1642
 description: 'Fråga: Vi har i dessa tider hört vad som skapar dispyter och förvåning.
  Somliga säger: ”Vi gillar inte att våra fruar föder döttrar.” Någon har sagt till

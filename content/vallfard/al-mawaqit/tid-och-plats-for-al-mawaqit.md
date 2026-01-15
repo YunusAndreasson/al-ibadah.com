@@ -3,9 +3,7 @@ title: Tid och plats för al-Mawaqit
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 78 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- al-Mawaqit
+categories: – Vallfärd (Hajj) – al-Mawaqit
 original_id: 733
 description: 'Fråga: Var är platsen och vilken är tiden för al-mawaqit när det
  gäller vallfärden och ‘umrah? al-Mawaqit i tid för vallfärden är shawwal

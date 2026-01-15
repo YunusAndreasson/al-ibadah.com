@@ -2,9 +2,7 @@
 title: Skaka hand, gratulera och omfamna efter bönen
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Majmoo’ Fatāwa Ibn ‘Uthaymīn, 16/208-210
-categories:
-- Bön (Salāh)
-- '''Eid-bönerna'
+categories: – Bön (Salāh) – '''Eid-bönerna'
 original_id: 1589
 description: 'Fråga: Vilket är utlåtandet om att skaka hand, omfamna och gratulera
  varandra efter ‘eid -bönen? Svar: Det finns inget felaktigt i detta då folk

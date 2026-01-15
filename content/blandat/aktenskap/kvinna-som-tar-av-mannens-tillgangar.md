@@ -2,9 +2,7 @@
 title: Kvinna som tar av mannens tillgångar
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Lajnah al-Dā’imah, 21/167
-categories:
-- Blandat
-- Äktenskap
+categories: – Blandat – Äktenskap
 original_id: 1703
 description: 'Fråga: Får en kvinna ta av mannens tillgångar utan dennes tillstånd?
  Vilken är gottgörelsen om det har inträffat?   Svar: All lovprisan tillhör Allāh. En

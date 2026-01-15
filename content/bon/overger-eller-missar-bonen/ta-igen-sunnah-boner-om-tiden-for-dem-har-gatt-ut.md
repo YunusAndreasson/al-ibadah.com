@@ -3,9 +3,7 @@ title: Ta igen sunnah-böner om tiden för dem har gått ut
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 518 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Överger eller missar bönen
+categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 1229
 description: 'Fråga: Bör man ta igen sunnah -bönerna om tiden för dem har gått ut? Svar: Ja, sunnah
  -bönerna kan tas igen om tiden för dem har gått ut på grund av glömska eller sömn.

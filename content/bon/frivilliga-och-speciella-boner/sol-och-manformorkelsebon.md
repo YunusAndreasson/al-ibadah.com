@@ -3,9 +3,7 @@ title: Sol- och månförmörkelsebön
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 565 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Frivilliga och speciella böner
+categories: – Bön (Salāh) – Frivilliga och speciella böner
 original_id: 1010
 description: 'Fråga: Vilket är utlåtandet om bönen vid sol- och månförmörkelse? Svar: Bön
  vid sol- och månförmörkelse är högt rekommenderade sunnor. Enligt majoriteten av

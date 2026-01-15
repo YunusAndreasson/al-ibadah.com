@@ -3,9 +3,7 @@ title: Bevis för att jinn träder in i en människas kropp
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Jinn, magi och det onda ögat
+categories: – Troslära (ʿAqīdah) – Jinn, magi och det onda ögat
 original_id: 1655
 description: 'Fråga: Finns det några bevis som stöder påstående att jinn kan anta
  en mänsklig form? Svar: Ja, det finns bevis i Skriften och i profetens sunnah
@@ -24,7 +22,7 @@ I *Maqalat ahl as-sunnah[^2] wal-jama'ah* säger al-Ashʿari att de – *ahl as-
 
 I ett antal *ahādīth[^3]* från Allāhs sändebud – över honom vare Guds frid och välsignelser – nedtecknade av imam Ahmad och al-Bayhaqi har det rapporterats att han mötte en pojke som var besatt. Profeten – över honom vare Allāhs frid och välsignelser – började då säga: ”*Allāhs fiende! Kom ut! Allāhs fiende! Kom ut!” [Ibn Majah 3548] I andra versioner säger han: ”Allāhs fiende! Kom ut! Jag är Allāhs sändebud*.” [Ahmad 4:171, 172] Sedan blev pojken frisk och normal.
 
-Här har vi nämnt ett bevis från Koranen och två från profetens – över honom vare Guds frid och välsignelser -  *sunnah[^2]*. Vad människor ständigt bevittnar är verkliga bevis, för att inte nämna att detta är åsikten hos *ahl as-sunnah[^2] wal-jama'ah*. Men vi förnekar inte att somliga är galna på grund av några andra defekter i deras sinnen.
+Här har vi nämnt ett bevis från Koranen och två från profetens – över honom vare Guds frid och välsignelser – *sunnah[^2]*. Vad människor ständigt bevittnar är verkliga bevis, för att inte nämna att detta är åsikten hos *ahl as-sunnah[^2] wal-jama'ah*. Men vi förnekar inte att somliga är galna på grund av några andra defekter i deras sinnen.
 
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

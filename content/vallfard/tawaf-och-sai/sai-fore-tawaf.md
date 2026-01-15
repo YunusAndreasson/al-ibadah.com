@@ -3,9 +3,7 @@ title: Sa’ī före tawāf
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 202 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Tawāf och sa’ī
+categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 824
 description: 'Fråga: Är det tillåtet att utföra sa’ī innan tawāf, oberoende av
  om det är under vallfärden eller ‘umrah? Svar: Det som är sunnah är att tawāf utförs

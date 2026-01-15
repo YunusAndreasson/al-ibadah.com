@@ -3,9 +3,7 @@ title: ”Olika åsikter i min nation är en nåd”
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Förståelse av islam
+categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 1681
 description: 'Fråga: Är denna hadīth autentisk: ”Olika åsikter i min nation är
  en nåd.”? [ Kanzul-''Ummal 28686 och Ittihaf-us-sunniyah 1:204,205] Svar: Nej,

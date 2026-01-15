@@ -2,9 +2,7 @@
 title: Rökning
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwā al-Lajnah al-Dā’imah, 13/57
-categories:
-- Renhet (Tahārah)
-- Tvagning
+categories: – Renhet (Tahārah) – Tvagning
 original_id: 1310
 description: 'Fråga: Vilket är utlåtandet om den som säljer olika sorters tobak?
  Jag röker och när jag hör böneutropet, då går jag till moskén. Måste jag upprepa

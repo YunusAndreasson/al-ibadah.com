@@ -3,9 +3,7 @@ title: Innovationer under fredagsbönen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 445 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Fredagsbönen
+categories: – Bön (Salāh) – Fredagsbönen
 original_id: 1542
 description: 'Fråga: [I den långa frågan diskuteras ett antal olika innovationer.] Svar: Nashīd före
  böneutropet under fredagsbönen har inte bekräftats vara tillåtet, därmed är det

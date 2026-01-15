@@ -4,9 +4,7 @@ author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 393 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Bön (Salāh)
-- Bönen i församlingen
+categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 323
 description: 'Fråga: Jag gick in i moskén för att be men fann en imam som jag inte
  gillar att be bakom. Vad gör jag då för att få belöningen för att be i församlingen? Svar: Om

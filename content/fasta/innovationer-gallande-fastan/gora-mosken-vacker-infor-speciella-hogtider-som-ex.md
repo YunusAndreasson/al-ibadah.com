@@ -3,9 +3,7 @@ title: Göra moskén vacker inför speciella högtider som exempelvis ‘eid-fes
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 54 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Innovationer gällande fastan
+categories: – Fasta (Sawm) – Innovationer gällande fastan
 original_id: 385
 description: 'Fråga: Under vissa högtidligheter, som ‘eidul-fitr, brukar moskén
  göras vacker med olika sorters färger, ljus och blommor. Tillåter islam detta? Vilka

@@ -3,16 +3,14 @@ title: Böner vid gravplatser
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 80 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Gravdyrkan
+categories: – Troslära (ʿAqīdah) – Gravdyrkan
 original_id: 57
 description: 'Fråga: Jag har argumenterat med några som anser att det är tillåtet
  att be vid gravplatser, i moskér som innehåller gravar eller vid gravar. Jag försökte
  vinna över dem genom att använda klara oc...'
 ---
 
-**Fråga:** Jag har argumenterat med några som anser att det är tillåtet att be vid gravplatser, i moskér som innehåller gravar eller vid gravar. Jag försökte vinna över dem genom att använda klara och autentiska bevis, men de sade: ”Var bad ‘Ā’ishāh när profeten – över honom vare Allāhs frid och välsignelser – hade avlidit? Fanns hans grav inuti eller utanför huset?” De sade även: ”Hur kunde profeten – över honom vare Allāhs frid och välsignelser – och följeslagarna be i den heliga Moskén där Hajar [Abrahams fru] och andra profeter är begravda där?” Är det sant att ‘Ā’ishāh – må Allāh vara nöjd med henne – bad i sitt rum efter profetens – över honom vare Allāhs frid och välsignelser –  – över honom vare Allāhs frid och välsignelser – bortgång och är det sant att Hajars, Abrahams och andra profeters gravar finns i den heliga Moskén?
+**Fråga:** Jag har argumenterat med några som anser att det är tillåtet att be vid gravplatser, i moskér som innehåller gravar eller vid gravar. Jag försökte vinna över dem genom att använda klara och autentiska bevis, men de sade: ”Var bad ‘Ā’ishāh när profeten – över honom vare Allāhs frid och välsignelser – hade avlidit? Fanns hans grav inuti eller utanför huset?” De sade även: ”Hur kunde profeten – över honom vare Allāhs frid och välsignelser – och följeslagarna be i den heliga Moskén där Hajar [Abrahams fru] och andra profeter är begravda där?” Är det sant att ‘Ā’ishāh – må Allāh vara nöjd med henne – bad i sitt rum efter profetens – över honom vare Allāhs frid och välsignelser – – över honom vare Allāhs frid och välsignelser – bortgång och är det sant att Hajars, Abrahams och andra profeters gravar finns i den heliga Moskén?
 
 **Svar:** I *al-Bukhārī* och *Muslim* återges att ‘Ā’ishāh – må Allāh vara nöjd med henne – har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – under hans sjukdom före hans bortgång sade:
 

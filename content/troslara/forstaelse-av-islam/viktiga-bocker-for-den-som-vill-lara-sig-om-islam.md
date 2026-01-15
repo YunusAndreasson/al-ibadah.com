@@ -2,9 +2,7 @@
 title: Viktiga böcker för den som vill lära sig om islam
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Fatāwa al-shaykh Muhammad ibn Sālih al-‘Uthaymīn, Kitāb al-‘Ilm, s. 92
-categories:
-- Troslära (ʿAqīdah)
-- Förståelse av islam
+categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 504
 description: 'Fråga: Vi skulle vilja ha råd om vilka böcker om islamisk kunskap som
  är nyttiga. Svar: ‘Aqīdah Thalāthat al-Usūl al-Qawā’id

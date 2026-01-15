@@ -3,9 +3,7 @@ title: Qunūt under witr
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 507 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Nattbön och witr
+categories: – Bön (Salāh) – Nattbön och witr
 original_id: 975
 description: 'Fråga: Vi ber er att beskriva profetens – över honom vare Allāhs frid
  och välsignelser – sunnah för åkallan i qunūt och berätta för oss om det finns

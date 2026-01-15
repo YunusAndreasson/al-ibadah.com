@@ -3,9 +3,7 @@ title: Får sin menstruation när bönen har börjat
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 368 s. ISBN 9960-892-66-2'
-categories:
-- Renhet (Tahārah)
-- Månadsblödning
+categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 1216
 description: Kommer månadsblödning när bönen har börjat, som om den kommer en och
  en halv timme efter att solen har passerat himlens mitt, då måste hon ta igen bönen

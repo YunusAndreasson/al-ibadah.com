@@ -3,9 +3,7 @@ title: Säga Bismillah under tvagningen – om det är en skyldighet
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 316 s. ISBN 9960-892-66-2'
-categories:
-- Renhet (Tahārah)
-- Tvagning
+categories: – Renhet (Tahārah) – Tvagning
 original_id: 1122
 description: 'Fråga: Är det en skyldighet att säga Bismillah under tvagningen? Svar: Att
  säga Bismillah under tvagningen är inte en skyldighet, det är enbart en sunnah.

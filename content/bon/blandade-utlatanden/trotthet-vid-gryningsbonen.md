@@ -4,9 +4,7 @@ author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 386 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Bön (Salāh)
-- Blandade utlåtanden
+categories: – Bön (Salāh) – Blandade utlåtanden
 original_id: 321
 description: 'Fråga: Allāh den Upphöjde säger: ” Troende! Gå inte till bön om ni
  befinner er i omtöcknat tillstånd, [utan vänta] till dess ni vet vad ni säger .”

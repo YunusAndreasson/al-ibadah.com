@@ -4,9 +4,7 @@ author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 216 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Vallfärd (Hajj)
-- Stå vid Arafat
+categories: – Vallfärd (Hajj) – Stå vid Arafat
 original_id: 1357
 description: 'Fråga: Vilket är utlåtandet om att samlas för åkallan under Arafat-dagen,
  oavsett om det är just där eller vid någon annan plats? Svar: Under denna
@@ -21,7 +19,7 @@ Och Han den Upphöjde har sagt: ”*Och – [du som är troende] – åkalla i t
 
 I *Sahīh al-Bukhārī* och *Sahīh Muslim* återges att Abū Mūsa al-Ashʿari har sagt att folket höjde deras röster i åkallan[^1], så Allāhs sändebud – över honom vare Allāhs frid och välsignelser – sade: ”*Troende! Ta det lugnt, för sannerligen kallar ni inte på någon som är död eller frånvarande. Den som ni åkallar[^1] är sannerligen Allhörande, Närmst. Han är er närmre än ert riddjurs nacke*.” [*al-Bukhārī* 2992 och *Muslim* 2704]
 
-Allāh prisade Zakariya för detta. Han den Upphöjde sade: ”*[Detta är] en berättelse om hur din Herre bevisade Sin tjänare Sakarias Sin nåd. När han i en tyst [innerlig] bön bad till sin Herre*.” [Koranen 19:2–3]
+Allāh prisade Zakariya för detta. Han den Upphöjde sade: ”*[Detta är] en berättelse om hur din Herre bevisade Sin tjänare Sakarias Sin nåd. När han i en tyst [innerlig] bön bad till sin Herre*.” [Koranen 19:2 – 3]
 
 Allāh har även sagt: ”*Er Herre säger: 'Be till Mig, så ska Jag besvara er [bön]*.” [Koranen 40:60]
 

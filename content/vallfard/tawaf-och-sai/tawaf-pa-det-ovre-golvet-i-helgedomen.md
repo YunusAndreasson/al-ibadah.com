@@ -3,9 +3,7 @@ title: Tawāf på det övre golvet i Helgedomen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 174 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Tawāf och sa’ī
+categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 801
 description: 'Fråga: Jag vallfärdade förra året [1400 A.H] och när jag direkt efter
  middagen återvände den andra dagen under at-tashrīq gick jag för att göra tawāf runt

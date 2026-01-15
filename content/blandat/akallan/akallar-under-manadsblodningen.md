@@ -3,9 +3,7 @@ title: Åkallar under månadsblödningen
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 110 s. ISBN saknas'
-categories:
-- Blandat
-- Åkallan
+categories: – Blandat – Åkallan
 original_id: 1446
 description: 'Fråga: Får en kvinna med månadsblödning läsa böcker med åkallan under
  Arafat-dagen? Detta trots att de innehåller Koran-verser. Svar: Kvinnan med

@@ -4,9 +4,7 @@ author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 67 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Blandat
-- Åkallan
+categories: – Blandat – Åkallan
 original_id: 391
 description: 'Fråga: Vilket är utlåtandet om åkallan efter begravningsbönen? Svar: Åkallan
  är dyrkans kärna. När tjänaren ber sin Herre om något, för sig själv eller för andra,

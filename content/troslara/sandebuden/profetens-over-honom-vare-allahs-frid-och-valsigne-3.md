@@ -3,13 +3,9 @@ title: Profetens – över honom vare Allāhs frid och välsignelser – favorit
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 300 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Sändebuden
+categories: – Troslära (ʿAqīdah) – Sändebuden
 original_id: 128
-description: 'Fråga: Vilka var profetens – över honom vare Allāhs frid och välsignelser
- – favoritfruar? Svar: profetens – över honom vare Allāhs frid och välsignelser
- – fruar har stort anseende och goda ege...'
+description: 'Fråga: Vilka var profetens – över honom vare Allāhs frid och välsignelser – favoritfruar? Svar: profetens – över honom vare Allāhs frid och välsignelser – fruar har stort anseende och goda ege...'
 ---
 
 **Fråga:** Vilka var profetens – över honom vare Allāhs frid och välsignelser – favoritfruar?

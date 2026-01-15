@@ -3,9 +3,7 @@ title: Första timmen för fredagsbönen – när den börjar
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 551 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Fredagsbönen
+categories: – Bön (Salāh) – Fredagsbönen
 original_id: 1237
 description: 'Fråga: När börjar den första timmen under fredagsbönen? Svar: De
  timmar som profeten – över honom vare Allāhs frid och välsignelser – har nämnt är

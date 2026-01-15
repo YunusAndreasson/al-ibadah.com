@@ -3,9 +3,7 @@ title: Urin från ett litet barn som blöter ned ett klädesplagg
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 364 s. ISBN 9960-892-66-2'
-categories:
-- Renhet (Tahārah)
-- Blandade utlåtanden
+categories: – Renhet (Tahārah) – Blandade utlåtanden
 original_id: 1215
 description: 'Fråga: Vilket är utlåtandet om ett litet barns urin som kommer på ett
  klädesplagg? Svar: Den korrekta åsikten är att urin från en pojke som givits

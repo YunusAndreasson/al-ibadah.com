@@ -4,9 +4,7 @@ author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 356 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Renhet (Tahārah)
-- Ghusl [Den stora tvagningen]
+categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
 original_id: 1134
 description: 'Fråga: Vilket är utlåtandet om den stora rituella orenheten? Svar: Är
  man i ett tillstånd av stor rituell orenhet är det inte tillåtet att vare sig be

@@ -4,9 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 19 s. ISBN saknas. Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Offer till andra än Allāh
+categories: – Troslära (ʿAqīdah) – Offer till andra än Allāh
 original_id: 24
 description: 'Fråga: En person varken fastar eller ber, offrar till jinn samt träd
  [som om de var gudar] och dör i detta tillstånd. Får en släkting vallfärda för hans
@@ -19,7 +17,7 @@ Den som dör i det tillstånd som har beskrivits i frågan anses vara en månggu
 
 Allāh den Upphöjde säger:
 
-> ”Det anstår inte profeten – över honom vare Allāhs frid och välsignelser – och inte heller de troende att be om syndernas förlåtelse för avgudadyrkare, även om de hörde till deras nära anförvanter, sedan det klargjorts för dem att Elden är sådana [människors] arvedel.” [Koranen 9:113]
+> ”Det anstår inte profeten – över honom vare Allāhs frid och välsignelser – och inte heller de troende att be om syndernas förlåtelse för avgudadyrkare, även om de hörde till deras nära anförvanter, sedan det klargjorts för dem att Elden är sådana [människors] arvedel.” [Koranen 9:113]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 

@@ -3,9 +3,7 @@ title: Mentala störningar kan inte botas av amuletter
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 222 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Amuletter och talismaner
+categories: – Troslära (ʿAqīdah) – Amuletter och talismaner
 original_id: 101
 description: 'Fråga: Kan jag bära amuletter då jag lider av mentala störningar? Svar: Enligt
  de ahādīth som vi har nämnt är det inte tillåtet att bära amuletter. Det är dock

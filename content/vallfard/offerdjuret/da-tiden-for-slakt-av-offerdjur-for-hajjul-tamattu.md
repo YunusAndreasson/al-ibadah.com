@@ -3,9 +3,7 @@ title: Då tiden för slakt av offerdjur för hajjul-tamattu’ tar slut under v
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 276 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Offerdjuret
+categories: – Vallfärd (Hajj) – Offerdjuret
 original_id: 869
 description: 'Fråga: När tar tiden för att slakta offerdjuret för hajjul-tamattu’ slut
  och finns det någon skillnad i åsikten om att begränsa tiden? Svar: Tiden för

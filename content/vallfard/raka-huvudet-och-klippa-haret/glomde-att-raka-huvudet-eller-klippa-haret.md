@@ -3,9 +3,7 @@ title: Glömde att raka huvudet eller klippa håret
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 208 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Raka huvudet och klippa håret
+categories: – Vallfärd (Hajj) – Raka huvudet och klippa håret
 original_id: 832
 description: Vad gäller den som glömde att raka sitt huvud eller klippa sitt hår under
  ‘umrah? Han bar klädesplagg med sömmar och då kom han ihåg att han inte hade klippt

@@ -4,9 +4,7 @@ title: ”Jag är nöjd med Allāh som min herre, islam som min religion och Muh
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 429 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Böneutrop
+categories: – Bön (Salāh) – Böneutrop
 original_id: 922
 description: 'Fråga: I en hadīth rapporteras att man bör säga efter böneutroparen
  genom att säga: ”Jag är nöjd med Allāh som min herre, islam som min religion och

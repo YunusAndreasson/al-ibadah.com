@@ -4,12 +4,9 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 288 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Sändebuden
+categories: – Troslära (ʿAqīdah) – Sändebuden
 original_id: 125
-description: 'Fråga: Är profeten – över honom vare Allāhs frid och välsignelser –
- närvarande överallt och ser han allt? Jag menar, har han kunskap om det som är dolt
+description: 'Fråga: Är profeten – över honom vare Allāhs frid och välsignelser – närvarande överallt och ser han allt? Jag menar, har han kunskap om det som är dolt
  för människor? Svar: Grunden i frågor om...'
 ---
 
@@ -25,7 +22,7 @@ Och Allāh den Upphöjde säger:
 
 Men Allāh informerar vissa av Sina Sändebud som Han valt ut om vissa saker om det som är dolt för människor[^1]. Han den Upphöjde säger:
 
-> ”Han känner det som är dolt för människor[^1], men Han låter ingen få insikt i Sina hemligheter utom det sändebud som Han [utser till detta]. Och då sätter Han ut vakter framför och bakom sändebudet.” [Koranen 72:26–27]
+> ”Han känner det som är dolt för människor[^1], men Han låter ingen få insikt i Sina hemligheter utom det sändebud som Han [utser till detta]. Och då sätter Han ut vakter framför och bakom sändebudet.” [Koranen 72:26 – 27]
 
 Och Han den Upphöjde säger:
 

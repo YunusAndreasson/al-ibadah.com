@@ -3,9 +3,7 @@ title: Kvinna i vänteperioden efter att hennes man avlidit
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Äktenskap
+categories: – Blandat – Äktenskap
 original_id: 1630
 description: 'Fråga:   Behöver en kvinna bära svart under vänteperioden efter hennes
  mans bortgång? Svar: En kvinna vars man har avlidit måste sörja genom hela vänteperioden.

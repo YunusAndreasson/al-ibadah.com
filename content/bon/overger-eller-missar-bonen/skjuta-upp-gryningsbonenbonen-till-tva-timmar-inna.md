@@ -3,9 +3,7 @@ title: Skjuta upp gryningsbönenbönen till två timmar innan middagsbönen
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 238 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Överger eller missar bönen
+categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 249
 description: 'Fråga: Vilket är utlåtandet om någon som ber gryningsbönen två timmar
  innan middagsbönen? Detta i vetskap om att han hela tiden har sovit. Svar: Det

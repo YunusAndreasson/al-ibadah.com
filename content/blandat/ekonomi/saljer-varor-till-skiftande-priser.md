@@ -2,9 +2,7 @@
 title: Säljer varor till skiftande priser
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Fatāwa li’l-Tujjār wa Rijāl al-A’māl, s. 42
-categories:
-- Blandat
-- Ekonomi
+categories: – Blandat – Ekonomi
 original_id: 1704
 description: 'Fråga: Får köpmän sälja samma produkt till olika pris? Någon får köpa
  för femton och en annan för tjugo Svar: Om denna variation i pris beror på ostadigheter

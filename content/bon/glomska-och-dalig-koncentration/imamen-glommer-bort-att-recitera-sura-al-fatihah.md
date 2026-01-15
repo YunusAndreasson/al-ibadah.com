@@ -3,9 +3,7 @@ title: Imamen glömmer bort att recitera sura al-Fātihah
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 180 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Glömska och dålig koncentration
+categories: – Bön (Salāh) – Glömska och dålig koncentration
 original_id: 208
 description: 'Fråga: Vi var fyra personer som befann oss ute i öknen och när det
  blev tid för kvällsbönen ropade en av oss ut böneutropet och iqāmah för bönen.

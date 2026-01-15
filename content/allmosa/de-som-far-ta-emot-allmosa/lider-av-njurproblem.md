@@ -2,9 +2,7 @@
 title: Lider av njurproblem
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Majmoo’ Fatāwa al-Shaykh Ibn ʿUthaymīn (18/342)
-categories:
-- Allmosa (Zakāh)
-- De som får ta emot allmosa
+categories: – Allmosa (Zakāh) – De som får ta emot allmosa
 original_id: 1602
 description: 'Fråga: Är det tillåtet att ge allmosa till någon som lider av njurproblem? Svar: All
  lovprisan tillhör Allāh. Behovet av medicinsk vård är ett verkligt behov så om vi

@@ -3,9 +3,7 @@ title: Skuld som tillhör en avliden person och denne har inte lämnat allmosa
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 596 s. ISBN 9960-892-66-2'
-categories:
-- Allmosa (Zakāh)
-- Den skuldsattes skyldighet
+categories: – Allmosa (Zakāh) – Den skuldsattes skyldighet
 original_id: 1013
 description: 'Fråga: Bör den avlidnes skulder betalas om denne inte har lämnat allmosa? Svar: Ibn
  ʿAbdul-Barr och Abū ''Ubaid har sagt att den avlidens skuld inte får betalas genom

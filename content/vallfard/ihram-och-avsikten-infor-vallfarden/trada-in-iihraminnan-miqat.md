@@ -3,9 +3,7 @@ title: Träda in i ihrāminnan mīqāt
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 118 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Ihrām och avsikten inför vallfärden
+categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
 original_id: 758
 description: 'Fråga: Vilket är utlåtandet om att träda in i ihrām före mīqāt och
  är ihrām för vallfärden uppfylld om man har trätt in i den före vallfärdsmånaderna? Svar: Det

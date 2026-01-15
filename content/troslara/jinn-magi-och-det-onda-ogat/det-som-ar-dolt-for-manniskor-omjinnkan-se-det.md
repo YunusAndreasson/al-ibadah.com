@@ -3,9 +3,7 @@ title: Det som är dolt för människor – omjinnkan se det
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 111 s. ISBN 9960-892-66-2'
-categories:
-- Troslära (ʿAqīdah)
-- Jinn, magi och det onda ögat
+categories: – Troslära (ʿAqīdah) – Jinn, magi och det onda ögat
 original_id: 1089
 description: 'Fråga: Kan jinn se det som är dolt för människor? Svar: Jinn känner
  inte till det som är dolt för människor – ingen vare sig i himlarna eller på jorden

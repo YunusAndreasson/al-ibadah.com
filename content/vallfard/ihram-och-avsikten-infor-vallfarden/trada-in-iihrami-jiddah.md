@@ -3,9 +3,7 @@ title: Träda in i ihrāmi Jiddah
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 121 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Ihrām och avsikten inför vallfärden
+categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
 original_id: 1339
 description: 'Fråga: Somliga ger fatwa till dem som kommer med flygplan för att vallfärda.
  De säger att de får träda in i ihrām i Jiddah. Samtidigt är andra emot det. Vilken

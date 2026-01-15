@@ -3,9 +3,7 @@ title: Böneutroparen ropade ut till bön då en person bad sunnah för grynings
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 296 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Böneutrop
+categories: – Bön (Salāh) – Böneutrop
 original_id: 286
 description: 'Fråga: Jag gick in i moskén vid gryningsbönen och jag bad två bönecykler.
  När jag ställde mig upp för den andra bönecykeln, då ropade böneutroparen ut till

@@ -4,9 +4,7 @@ author: Ibn ʿAbdur-Rahman al-Jibrin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 133 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Vallfärd (Hajj)
-- Förbjudna saker under ihrām
+categories: – Vallfärd (Hajj) – Förbjudna saker under ihrām
 original_id: 1552
 description: 'Fråga: Vad gäller den som, ovetandes eller på grund av glömska, utför
  en av de nio förbjudna handlingarna under ihrām? Svar: Den som glömmer och

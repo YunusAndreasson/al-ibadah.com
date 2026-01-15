@@ -3,9 +3,7 @@ title: En ensam Guds-tjänare behöver inte ropa ut iqāmah
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 136 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Iqāmah [Det andra böneutropet]
+categories: – Bön (Salāh) – Iqāmah [Det andra böneutropet]
 original_id: 182
 description: 'Fråga: Räcker det att göra iqāmah utan böneutrop när tiden för bönen
  kommer? Detta gäller om jag vill be ensam. Svar: Böneutropet är föreskrivet

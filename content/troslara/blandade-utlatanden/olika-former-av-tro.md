@@ -4,9 +4,7 @@ author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muhammad ibn Sālih al-‘Uthaymīn,
  volym. 1, sida 54 Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn:
  Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Blandade utlåtanden
+categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
 original_id: 486
 description: 'Fråga: Hur ska vi förlika oss med att īmān består av tron på: Allāh,
  Hans änglar, Hans skrifter, Hans sändebud, den Yttersta dagen, det Förutbestämda

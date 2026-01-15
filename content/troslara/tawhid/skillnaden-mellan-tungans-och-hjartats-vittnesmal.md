@@ -3,9 +3,7 @@ title: Skillnaden mellan tungans och hjärtats vittnesmål
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fiqh ul ''Ibādāt www 20/4-2007: www Muhammed Knut Bernström (1421), Koranens
  budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Tawhīd [Monoteism]
+categories: – Troslära (ʿAqīdah) – Tawhīd [Monoteism]
 original_id: 916
 description: 'Fråga: Vad är skillnaden mellan vittnesmålet om tro med hjärtat och
  vittnesmålet om tro med tungan? Är det obligatoriskt att vittna med båda? Svar: Skillnaden

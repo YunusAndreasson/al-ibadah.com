@@ -4,9 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 342 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Förståelse av islam
+categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 140
 description: 'Fråga: Somliga sufier säger att åminnelse är bättre än den obligatoriska
  bönen och de citerar följande vers som bevis: ” Men först och störst är åkallandet
@@ -17,7 +15,7 @@ description: 'Fråga: Somliga sufier säger att åminnelse är bättre än den o
 
 **Svar:** Allāh har kommenderat oss att nämna Hans namn ofta. Han säger:
 
-> ”Troende! Åkalla Gud – och ha Honom alltid i era tankar! Och prisa Hans namn morgon och afton!” [Koranen 33:41–42]
+> ”Troende! Åkalla Gud – och ha Honom alltid i era tankar! Och prisa Hans namn morgon och afton!” [Koranen 33:41 – 42]
 
 Allāh den Upphöjde har förklarat att hjärtat finner ro genom åminnelse[^1] av Honom, när Han säger:
 

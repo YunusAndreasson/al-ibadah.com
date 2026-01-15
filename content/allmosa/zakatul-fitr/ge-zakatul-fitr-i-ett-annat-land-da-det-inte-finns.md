@@ -2,9 +2,7 @@
 title: Ge zakātul-fitr i ett annat land då det inte finns några fattiga i ens eget
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Majmoo’ Fatāwa al-ʿUthaymīn, 18/fråga 102
-categories:
-- Allmosa (Zakāh)
-- Zakātul-fitr
+categories: – Allmosa (Zakāh) – Zakātul-fitr
 original_id: 1605
 description: 'Fråga: Vilket är utlåtandet om att sända zakātul-fitr till ett land
  långt bort då det finns många fattiga där? Svar: Det är inte fel att sända zakātul-fitr till

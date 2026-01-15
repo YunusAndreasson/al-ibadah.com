@@ -4,9 +4,7 @@ title: Tahiyyatul-masjid under tidpunkter då bönen är förbjuden gäller inte
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 288 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Moskén
+categories: – Bön (Salāh) – Moskén
 original_id: 1507
 description: 'Fråga: Är hälsningsbönen till moskén tillåten efter eftermiddagsbönen
  och gryningsbönen i alla moskér, eller gäller detta enbart i de två Heliga Moskéerna? Svar: Den

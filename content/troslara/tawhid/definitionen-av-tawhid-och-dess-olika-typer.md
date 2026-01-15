@@ -4,9 +4,7 @@ author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 19 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Tawhīd [Monoteism]
+categories: – Troslära (ʿAqīdah) – Tawhīd [Monoteism]
 original_id: 1065
 description: 'Fråga: Hur definieras tawhīd och vilka olika typer finns det? Svar: Språkligt
  sett är tawhīd infinitiv av verbet wahhada [dåtid] [och yuwahhidu [nutid]],
@@ -149,7 +147,7 @@ Vi lägger fram ytterligare ett exempel om egenskaperna. Detta exempel rör All�
 
 Detta liknar inte hur en människa reser sig upp från sin säng, hur hon stiger upp på ett djur eller hur hon går ombord på ett fartyg. Allāh har nämnt detta när Han sagt:
 
-> ”Och [Han] som har gett er de skepp och de riddjur som ni färdas med, för att ni, efter att ha tagit dem i er tjänst och stigit ombord eller suttit upp på dem, ska minnas er Herre godhet och säga: ’Stor är Han i Sin härlighet, som låter oss förfoga över dem; själva skulle vi inte ha kunnat ta dem i vår tjänst! [Låt oss aldrig glömma att] vi ska vända tillbaka till vår Herre!” [Koranen 43:12–14]
+> ”Och [Han] som har gett er de skepp och de riddjur som ni färdas med, för att ni, efter att ha tagit dem i er tjänst och stigit ombord eller suttit upp på dem, ska minnas er Herre godhet och säga: ’Stor är Han i Sin härlighet, som låter oss förfoga över dem; själva skulle vi inte ha kunnat ta dem i vår tjänst! [Låt oss aldrig glömma att] vi ska vända tillbaka till vår Herre!” [Koranen 43:12 – 14]
 
 De skapade varelsernas *istawa* kan därmed inte liknas vid Allāhs *istawa* över Hans tron. Det finns ju inget likt Allāh.
 

@@ -3,9 +3,7 @@ title: Fira födelsedagar
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 185 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Innovationer
+categories: – Troslära (ʿAqīdah) – Innovationer
 original_id: 88
 description: 'Fråga: I vår stad i Egypten är det sed att hålla en fest när någon
  fyller år. På denna fest brukar man till exempel blåsa ut tårtljus. Jag har nyligen

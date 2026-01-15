@@ -3,9 +3,7 @@ title: Kvinnor som närvar vid fredagsbönen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 448 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Fredagsbönen
+categories: – Bön (Salāh) – Fredagsbönen
 original_id: 351
 description: 'Fråga: Vilket är utlåtandet om att en kvinna ber fredagsbönen? Bör
  detta ske innan, tillsammans med eller efter männens bön? Svar: Fredagsbönen

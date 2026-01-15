@@ -3,9 +3,7 @@ title: Halsband som bärs av män för att pryda
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Kropp & klädnad
+categories: – Blandat – Kropp & klädnad
 original_id: 1652
 description: 'Fråga: Vilket är utlåtandet om att bära halsband som vissa män gör? Svar: Att
  bära halsband för prydnad är inte tillåtet då det är något som är specifikt för

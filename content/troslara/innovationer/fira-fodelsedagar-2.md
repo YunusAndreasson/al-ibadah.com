@@ -2,9 +2,7 @@
 title: Fira födelsedagar
 author: Ibn ʿAbdullah Ibn Baz
 source: Fatāwa al-Marah
-categories:
-- Troslära (ʿAqīdah)
-- Innovationer
+categories: – Troslära (ʿAqīdah) – Innovationer
 original_id: 562
 description: 'Fråga: Är det tillåtet att fira födelsedagar? Svar: Att fira födelsedagar
  har inga som helst källor i den rena islamiska lagen och det är en innovation, då

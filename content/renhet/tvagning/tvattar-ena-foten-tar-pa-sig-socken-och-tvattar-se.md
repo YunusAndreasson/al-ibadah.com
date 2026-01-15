@@ -3,9 +3,7 @@ title: Tvättar ena foten, tar på sig socken och tvättar sedan den andra foten
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 340 s. ISBN 9960-892-66-2'
-categories:
-- Renhet (Tahārah)
-- Tvagning
+categories: – Renhet (Tahārah) – Tvagning
 original_id: 1131
 description: 'Fråga: Vilket är utlåtandet om någon som tvagar sig och tvättar den
  högra foten, tar på lädersocken eller strumpan, tvättar vänsterfoten och tar på

@@ -3,9 +3,7 @@ title: Hinner bara be sistatashahhudmed församlingen
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 334 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Överger eller missar bönen
+categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 1522
 description: 'Fråga: Om en troende når församlingen i den sista tashahhud, får
  han då belöningen för att ha bett med församlingen? Svar: Man har inte bett

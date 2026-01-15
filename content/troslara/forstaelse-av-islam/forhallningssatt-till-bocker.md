@@ -1,10 +1,8 @@
 ---
 title: Förhållningssätt till böcker
 author: Muhammad bin Sālih al-ʿUthaymīn
-source: Fatāwa al-shaykh Muhammad ibn Sālih al-‘Uthaymīn, Kitāb al-‘Ilm, s. 87–91
-categories:
-- Troslära (ʿAqīdah)
-- Förståelse av islam
+source: Fatāwa al-shaykh Muhammad ibn Sālih al-‘Uthaymīn, Kitāb al-‘Ilm, s. 87 – 91
+categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 487
 description: 'Fråga: Hur bör en muslim hantera böcker om islam? Svar: All lovprisan
  tillhör Allāh. Hur denne bör förhålla sig till boken Detta innefattar flera

@@ -3,9 +3,7 @@ title: Den som leder bönen reciterar en vers i vilken man ska nedfalla
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 209 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Att vara imam och bön bakom en imam
+categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
 original_id: 226
 description: 'Fråga: Vad ska jag göra om jag reciterar en sura i vilken man ska
  nedfalla[^1]? Detta sker när jag ber bakom en imam. Svar: Nedfall inte. Det är

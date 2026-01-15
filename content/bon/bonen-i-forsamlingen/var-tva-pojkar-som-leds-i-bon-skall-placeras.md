@@ -3,9 +3,7 @@ title: Var två pojkar som leds i bön ska placeras
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 326 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Bönen i församlingen
+categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 306
 description: 'Fråga: När en man leder två eller flera pojkar som ännu inte har blivit
  sju år gamla, var bör han då placera dem? Svar: För den som är över sju år är

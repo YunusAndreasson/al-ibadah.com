@@ -3,9 +3,7 @@ title: Konversationen mellan Allāh och Jesus som kommer att hållas under Domed
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Domedagen och tecknen inför den
+categories: – Troslära (ʿAqīdah) – Domedagen och tecknen inför den
 original_id: 1676
 description: 'Fråga: I Koranen finns en detaljerad diskussion mellan Allāh den Allsmäktige
  och Jesus. Allāh frågar honom: ”Jesus, son av Maria! Är det du som uppmanade människorna

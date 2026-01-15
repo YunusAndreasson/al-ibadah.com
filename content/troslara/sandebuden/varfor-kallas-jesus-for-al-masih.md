@@ -3,9 +3,7 @@ title: Varför kallas Jesus för al-Masih?
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 309 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Sändebuden
+categories: – Troslära (ʿAqīdah) – Sändebuden
 original_id: 132
 description: 'Fråga: Varför kallas Jesus, Marias son, för al-Masih? Svar: Jesus,
  Marias son, kallas för al-Masih därför att han inte rörde någon sjukling eller funktionshindrad

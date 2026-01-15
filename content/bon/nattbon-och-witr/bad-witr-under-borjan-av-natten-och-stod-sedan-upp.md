@@ -3,9 +3,7 @@ title: Bad witr under början av natten och stod sedan upp för att be i slutet 
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 300 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Nattbön och witr
+categories: – Bön (Salāh) – Nattbön och witr
 original_id: 288
 description: 'Fråga: Om jag bad witr i början av natten och jag sedan stod för
  att be i slutet av natten – hur ber jag då? Svar: Om du bad witr under början

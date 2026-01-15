@@ -3,9 +3,7 @@ title: Bästa tiden för att be
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 431 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Blandade utlåtanden
+categories: – Bön (Salāh) – Blandade utlåtanden
 original_id: 926
 description: 'Fråga: Vilken är den bästa tiden för att be? Är det bäst vid början
  eller vid slutet av den föreskrivna tiden? Svar: Den fullkomligaste bönen är

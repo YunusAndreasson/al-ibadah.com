@@ -4,9 +4,7 @@ author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'I’lām al-Musāfirīn bi Ba’d Ādāb al-Safr wa ma yakhuss al-Mallāhīn al-Jawwiyyīn,
  av shaykh Muhammad ibn Sālih al-‘Uthaymīn, sida. 11 Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Renhet (Tahārah)
-- Tvagning
+categories: – Renhet (Tahārah) – Tvagning
 original_id: 495
 description: 'Fråga: Om det inte finns något vatten ombord på ett plan eller om man
  är förbjuden att använda det då det kan läcka och förstöra planet eller om det inte

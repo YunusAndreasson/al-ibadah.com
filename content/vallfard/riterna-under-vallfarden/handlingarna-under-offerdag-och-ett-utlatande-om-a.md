@@ -3,9 +3,7 @@ title: Handlingarna under offerdag och ett utlåtande om att göra saker i oordn
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 170 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Riterna under vallfärden
+categories: – Vallfärd (Hajj) – Riterna under vallfärden
 original_id: 1347
 description: 'Fråga: Vad är bäst för en pilgrim under vallfärden i fråga om vad denne
  ska göra under offerdagen [ ‘eid den tionde i thul-hijjah]? Är det tillåtet att

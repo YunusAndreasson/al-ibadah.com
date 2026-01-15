@@ -3,9 +3,7 @@ title: Slaktade sitt offerdjur utanför Helgedomen
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 271 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Offerdjuret
+categories: – Vallfärd (Hajj) – Offerdjuret
 original_id: 1360
 description: 'Fråga: En pilgrim slaktade under vallfärden sitt offerdjur vid Arafat
  under at-ayyām at-tashrīq och han delade ut det bland dem som var närvarande.

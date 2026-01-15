@@ -2,9 +2,7 @@
 title: Takbīr vid slutet av tawāf
 source: al-Ladjnah al-Dā’imah li’l-Buhūth al-‘Ilmiyyah wa’l-Iftā’ – Fatāwa al-Lajnah,
  11/224
-categories:
-- Vallfärd (Hajj)
-- Tawāf och sa’ī
+categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 522
 description: 'Fråga: Bör tawāf avslutas precis som den inleds med takbīr vid
  den svarta stenen? Svar: All lovprisan tillhör Allāh. Tawāf runt Ka’bah är

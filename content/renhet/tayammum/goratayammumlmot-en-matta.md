@@ -4,9 +4,7 @@ author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 23 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Renhet (Tahārah)
-- Tayammum [Tvagning utan vatten]
+categories: – Renhet (Tahārah) – Tayammum [Tvagning utan vatten]
 original_id: 158
 description: 'Fråga: En person befann sig på sjukhus och kunde inte tvaga sig. Han
  gjorde därför tayammum, men han gjorde det mot en matta. Är hans bön giltig? Svar: Den

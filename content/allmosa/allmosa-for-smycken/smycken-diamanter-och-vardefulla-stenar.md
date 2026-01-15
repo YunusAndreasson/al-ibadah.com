@@ -3,9 +3,7 @@ title: Smycken, diamanter och värdefulla stenar
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 178 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
-- Allmosa för smycken
+categories: – Allmosa (Zakāh) – Allmosa för smycken
 original_id: 620
 description: 'Fråga: Jag är en gift kvinna som är ungefär 30 år gammal. Under ungefär
  24 år har jag haft guld som det inte har funnits något affärsintresse i. Jag använder

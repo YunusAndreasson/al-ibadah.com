@@ -1,7 +1,6 @@
 ---
 title: Råd som kan vägleda i religiösa och världsliga frågor
-categories:
-- Blandat
+categories: – Blandat
 original_id: 1289
 description: 'Fråga: Kan du ge några råd som kan vägleda oss i religiösa och världsliga
  frågor? Shaykh ul-islām Ibn Taymiyyah ställdes följande fråga: Jag bad shayken,
@@ -16,7 +15,7 @@ Jag bad shayken, imamen, åtföljaren av salaf[^1] och ledarna i generationerna 
 
 **Svar:**   När det kommer till råd känner jag – för dem som förstår och följer dem – inte till något nyttigare än Allāhs och Hans sändebuds: ”*Vi uppmanade dem som fick ta emot Skrifter före er, liksom [Vi uppmanar] er, att frukta Gud*.” [Koranen 4:131]
 
-Profeten – över honom vare Allāhs frid och välsignelser – gav följande råd till Mu'ādh när han åkte till Jemen: ”*Mu'ādh, frukta Allāh var du än befinner dig, låt en dålig handling följas av en god för att gottgöra den och behandla folket på ett vänligt sätt*.” Profeten – över honom vare Allāhs frid och välsignelser – satte stort värde i Mu'ādh och han sade till honom: ”*Mu'ādh, vid Allāh – jag älskar dig*.” Han brukade även låta Mu'ādh rida bakom honom. Det har berättats att han [Mu'ādh] var kunnigast i detta samfund om vad som är tillåtet och förbjudet samt att han på Domedagen kommer att hamna ett steg före de lärda. Vad som är en av hans dygder är att profeten – över honom vare Allāhs frid och välsignelser – sände honom till Jemen för att förmedla hans [profetens – över honom vare Allāhs frid och välsignelser –] budskap samt för att axla rollen som kallare till islam, mufti och domare för jemeniterna. Han brukade även likna honom vid Abraham som var hela mänsklighetens ledare.
+Profeten – över honom vare Allāhs frid och välsignelser – gav följande råd till Mu'ādh när han åkte till Jemen: ”*Mu'ādh, frukta Allāh var du än befinner dig, låt en dålig handling följas av en god för att gottgöra den och behandla folket på ett vänligt sätt*.” Profeten – över honom vare Allāhs frid och välsignelser – satte stort värde i Mu'ādh och han sade till honom: ”*Mu'ādh, vid Allāh – jag älskar dig*.” Han brukade även låta Mu'ādh rida bakom honom. Det har berättats att han [Mu'ādh] var kunnigast i detta samfund om vad som är tillåtet och förbjudet samt att han på Domedagen kommer att hamna ett steg före de lärda. Vad som är en av hans dygder är att profeten – över honom vare Allāhs frid och välsignelser – sände honom till Jemen för att förmedla hans [profetens – över honom vare Allāhs frid och välsignelser – ] budskap samt för att axla rollen som kallare till islam, mufti och domare för jemeniterna. Han brukade även likna honom vid Abraham som var hela mänsklighetens ledare.
 
 Ibn Mas'ūd brukade säga att Mu'ādh var en ledare med rättfärdiga och goda kvaliteter, lydig mot Allāh och att han inte var en av månggudadyrkarna.
 

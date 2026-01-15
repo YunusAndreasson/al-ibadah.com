@@ -3,9 +3,7 @@ title: Imamen väntar på att de bakom ska buga
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 325 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Att vara imam och bön bakom en imam
+categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
 original_id: 305
 description: 'Fråga: Måste imamen vänta om han hör några eftersläntrare komma springande
  under bugningen eller tashahhud? Svar: Det är bättre att inte brådska. Det

@@ -4,9 +4,7 @@ author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 193 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Änglarna
+categories: – Troslära (ʿAqīdah) – Änglarna
 original_id: 89
 description: 'Fråga: Sannerligen har Allāh den Upphöjde skapat hedervärda antecknare
  åt oss som skriver ned allting som vi gör och säger. Vilken är visdomen i skapelsen

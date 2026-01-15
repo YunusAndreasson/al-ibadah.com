@@ -3,9 +3,7 @@ title: Imamen säger ”Bismillāh” högt
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 190 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Praktiska detaljer i bönen
+categories: – Bön (Salāh) – Praktiska detaljer i bönen
 original_id: 213
 description: 'Fråga: Jag bad i moskén men hann inte be med församlingen. Jag började
  då be tillsammans med några andra som hade missat bönen. Imamen reciterade då ”

@@ -3,8 +3,7 @@ title: Villkor och förhållningssätt för åkallan
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 273 s. ISBN saknas'
-categories:
-- Blandat
+categories: – Blandat
 original_id: 681
 description: 'Fråga: Vad hindrar att ens åkallan besvaras och vilka är tidpunkterna
  då man kan få svar? Svar: Först och främst bör vi känna till att åkallan är

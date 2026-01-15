@@ -3,9 +3,7 @@ title: Tahiyyatul-Masjid under tidpunkter då bön är förbjudet
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 287 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Tider då det är förbjudet att be
+categories: – Bön (Salāh) – Tider då det är förbjudet att be
 original_id: 1506
 description: 'Fråga: Det talas mycket om hälsningsbönen till moskén. Vissa säger
  att man inte ska göra den vid de tidpunkter då det är förbjudet att be, som när

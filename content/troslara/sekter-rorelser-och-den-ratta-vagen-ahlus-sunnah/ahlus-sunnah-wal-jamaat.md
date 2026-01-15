@@ -3,9 +3,7 @@ title: Ahlus-sunnah wal-jamā’at
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 37 s. ISBN 9960-892-66-2'
-categories:
-- Troslära (ʿAqīdah)
-- Sekter, rörelser och den rätta vägen – ahlus-sunnah
+categories: – Troslära (ʿAqīdah) – Sekter, rörelser och den rätta vägen – ahlus-sunnah
 original_id: 1067
 description: 'Fråga: Vilka är ahlus-sunnah wal-jamā’at? Svar: Ahlus-sunnah
  wal-jamā’at är de som håller fast vid profetens – över honom vare Allāhs frid och

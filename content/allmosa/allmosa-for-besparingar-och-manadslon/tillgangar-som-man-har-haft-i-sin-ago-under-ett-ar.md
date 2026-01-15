@@ -3,9 +3,7 @@ title: Tillgångar som man har haft i sin ägo under ett år
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 160 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
-- Allmosa för besparingar och månadslön
+categories: – Allmosa (Zakāh) – Allmosa för besparingar och månadslön
 original_id: 607
 description: 'Fråga: En person har sparat en summa pengar från egna förtjänster.
  Den största delen har denne haft i sin ägo under ett år men han har spenderat dem

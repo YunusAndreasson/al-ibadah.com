@@ -3,13 +3,10 @@ title: Gelatin
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Kost & hälsa
+categories: – Blandat – Kost & hälsa
 original_id: 1637
 description: 'Fråga: Är gelatin förbjudet? Svar: Om gelatin framställs utifrån
- något förbjudet – som gris eller någon del av den som huden, dess ben och liknande
- – är det förbjudet eftersom Allāh den ...'
+ något förbjudet – som gris eller någon del av den som huden, dess ben och liknande – är det förbjudet eftersom Allāh den ...'
 ---
 
 **Fråga:** Är gelatin förbjudet?

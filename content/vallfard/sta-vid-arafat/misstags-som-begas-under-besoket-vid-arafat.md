@@ -2,9 +2,7 @@
 title: Misstags som begås under besöket vid Arafat
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Dalīl al-Akhta’ allati yuqa’ fiha al-Hāj wa’l-Mu’tamir
-categories:
-- Vallfärd (Hajj)
-- Stå vid Arafat
+categories: – Vallfärd (Hajj) – Stå vid Arafat
 original_id: 883
 description: 'Fråga: Vilka misstag brukar pilgrimer begå när de besöker Arafat? Svar: All
  lovprisan tillhör Allāh. Shaykh Muhammad ibn ʿUthaymīn har svarat enligt följande. Det

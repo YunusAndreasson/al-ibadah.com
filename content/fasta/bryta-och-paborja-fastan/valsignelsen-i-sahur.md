@@ -3,12 +3,9 @@ title: Välsignelsen i sahūr
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 326 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Bryta och påbörja fastan
+categories: – Fasta (Sawm) – Bryta och påbörja fastan
 original_id: 476
-description: 'Fråga: Sändebudet – över honom vare Allāhs frid och välsignelser –
- har sagt: ”Ät sahūr för sannerligen innehåller sahūr välsignelse.” Vad avses med
+description: 'Fråga: Sändebudet – över honom vare Allāhs frid och välsignelser – har sagt: ”Ät sahūr för sannerligen innehåller sahūr välsignelse.” Vad avses med
  välsignelsen i sahūr? Svar: Välsignelsen ...'
 ---
 

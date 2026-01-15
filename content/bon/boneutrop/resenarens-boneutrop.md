@@ -3,9 +3,7 @@ title: Resenärens böneutrop
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 404 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Böneutrop
+categories: – Bön (Salāh) – Böneutrop
 original_id: 1154
 description: 'Fråga: Vilket är utlåtandet om böneutrop för resenärer? Svar: De
  lärde olika åsikter. Den korrekta åsikten är att böneutrop är obligatorisk för resenärer.

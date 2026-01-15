@@ -3,9 +3,7 @@ title: Grupp som ber tillsammans hemma i stället för att gå till moskén
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 528 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Bönen i församlingen
+categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 1233
 description: 'Fråga: Ett antal personer bor på en plats. Får de då be i församling
  där [i hemmet] eller måste de gå till moskén? Svar: De måste be i moskén. Den

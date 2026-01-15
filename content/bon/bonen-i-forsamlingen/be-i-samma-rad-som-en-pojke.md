@@ -3,9 +3,7 @@ title: Be i samma rad som en pojke
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 209 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Bönen i församlingen
+categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 225
 description: 'Fråga: Två män gick in i en moské och med dem fanns en pojke som var
  runt sju eller åtta år gammal. En av dem steg fram och ledde pojken och den äldre

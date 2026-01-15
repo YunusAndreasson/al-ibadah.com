@@ -4,9 +4,7 @@ author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 177 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Allāhs förutbestämmelse
+categories: – Troslära (ʿAqīdah) – Allāhs förutbestämmelse
 original_id: 85
 description: 'Fråga: Varför tynger Allāh de troende som strävar i dyrkan med sjukdomar
  och prövningar, medan de olydiga njuter av livets goda? Svar: Det finns två

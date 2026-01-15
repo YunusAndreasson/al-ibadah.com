@@ -4,9 +4,7 @@ author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 223 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Vallfärd (Hajj)
-- Natten i Muzdalifah
+categories: – Vallfärd (Hajj) – Natten i Muzdalifah
 original_id: 1555
 description: 'Fråga: Vilket är utlåtandet om någon som bad kvällsbönen och nattbönen[^1]
  sammanslagna och förkortade [vid nattbönen[^1]] innan denne kom till Muzdalifah? Anledningen

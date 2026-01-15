@@ -3,9 +3,7 @@ title: Sändebudens uppriktighet
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 225 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Sändebuden
+categories: – Troslära (ʿAqīdah) – Sändebuden
 original_id: 105
 description: 'Fråga: Vilka bevis finns för sändebudens och profeternas uppriktighet
  och med vad stödde Allāh dem? Svar: Allāh lade fram bevis för profeternas uppriktighet,

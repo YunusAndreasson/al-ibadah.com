@@ -3,9 +3,7 @@ title: Witr kan endast bes en gång per natt
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 298 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Nattbön och witr
+categories: – Bön (Salāh) – Nattbön och witr
 original_id: 1511
 description: 'Fråga: Är det tillåtet att be två witr -böner under en natt? Svar: Ingen
  bör be två witr -bönen under en natt. Profeten – över honom vare Allāhs frid och

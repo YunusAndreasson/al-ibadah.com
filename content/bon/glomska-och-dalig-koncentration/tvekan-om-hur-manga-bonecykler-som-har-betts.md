@@ -3,9 +3,7 @@ title: Tvekan om hur många bönecykler som har betts
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 275 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Glömska och dålig koncentration
+categories: – Bön (Salāh) – Glömska och dålig koncentration
 original_id: 274
 description: 'Fråga: Jag har i vissa islamiska lagböcker läst att om bönen har förrättats
  och tjänaren tvekar om antalet bönecykler, då är bönen ogiltig. I andra böcker står

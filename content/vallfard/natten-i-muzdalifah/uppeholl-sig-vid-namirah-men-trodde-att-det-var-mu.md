@@ -3,9 +3,7 @@ title: Uppehöll sig vid Namirah men trodde att det var Muzdalifah
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 226 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Natten i Muzdalifah
+categories: – Vallfärd (Hajj) – Natten i Muzdalifah
 original_id: 844
 description: 'Fråga: En pilgrim uppehöll sig i Namirah i tron om det var Muzdalifah.
  Vilket är utlåtandet om dennes vallfärd? Svar: De som är i Namirah i tron om

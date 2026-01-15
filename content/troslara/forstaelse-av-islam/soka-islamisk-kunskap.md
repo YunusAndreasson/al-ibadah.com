@@ -3,9 +3,7 @@ title: Söka islamisk kunskap
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 370 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Förståelse av islam
+categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 151
 description: 'Fråga: Ursäktas en person för att inte söka islamisk kunskap om anledningen
  är att han är upptagen med studier som inte har med islam att göra [det kan även

@@ -2,9 +2,7 @@
 title: Kläderna under vallfärd – anledningen till att de är speciella
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah, 11/171
-categories:
-- Vallfärd (Hajj)
-- Kläderna under ihrām
+categories: – Vallfärd (Hajj) – Kläderna under ihrām
 original_id: 510
 description: 'Fråga: Varför bär en pilgrim särskilda kläder under pilgrimsfärden? Svar: All
  lovprisan tillhör Allāh. Allāh har genom Sin profets läppar kommenderat oss att

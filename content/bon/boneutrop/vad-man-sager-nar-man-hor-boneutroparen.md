@@ -3,9 +3,7 @@ title: Vad man säger när man hör böneutroparen
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 134 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Böneutrop
+categories: – Bön (Salāh) – Böneutrop
 original_id: 1467
 description: 'Fråga: Är det rätt om man efter att ha hört böneutropet och åkallat
  Allāh för profetens – över honom vare Allāhs frid och välsignelser – medling lägger

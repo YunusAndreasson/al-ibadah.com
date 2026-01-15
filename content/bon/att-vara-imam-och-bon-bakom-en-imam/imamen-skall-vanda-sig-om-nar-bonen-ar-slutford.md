@@ -3,9 +3,7 @@ title: Imamen ska vända sig om när bönen är slutförd
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 411 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Att vara imam och bön bakom en imam
+categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
 original_id: 330
 description: 'Fråga: Jag bad i moskén men jag hann inte be med församlingen, därför
  bad jag med en andra församling och imamen där var inte saudier. Efter bönen satt

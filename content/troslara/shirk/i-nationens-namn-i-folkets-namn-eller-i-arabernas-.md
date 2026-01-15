@@ -3,9 +3,7 @@ title: ”I nationens namn”, ”I folkets namn” eller ”I arabernas namn”
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 289 s. ISBN 9960-892-66-2'
-categories:
-- Troslära (ʿAqīdah)
-- Shirk [Att sätta något vid Allāhs sida]
+categories: – Troslära (ʿAqīdah) – Shirk [Att sätta något vid Allāhs sida]
 original_id: 1585
 description: 'Fråga: Vilket är utlåtandet om dessa uttryck: I nationens namn, i folkets
  namn och i arabernas namn? Svar: Har denne för avsikt att säga att denne talar

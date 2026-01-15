@@ -3,12 +3,9 @@ title: Rör sig profeten i graven?
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 278 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Sändebuden
+categories: – Troslära (ʿAqīdah) – Sändebuden
 original_id: 119
-description: 'Fråga: Stämmer det att profeten – över honom vare Allāhs frid och välsignelser
- – sträckte ut sin hand från sin grav mot följeslagarna? Svar: Avlidna – oberoende
+description: 'Fråga: Stämmer det att profeten – över honom vare Allāhs frid och välsignelser – sträckte ut sin hand från sin grav mot följeslagarna? Svar: Avlidna – oberoende
  av om de är profeter eller inte...'
 ---
 

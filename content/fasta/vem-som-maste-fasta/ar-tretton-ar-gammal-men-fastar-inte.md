@@ -3,9 +3,7 @@ title: Är tretton år gammal men fastar inte
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 242 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Vem som måste fasta
+categories: – Fasta (Sawm) – Vem som måste fasta
 original_id: 400
 description: 'Fråga: Det finns en ung flicka som är tolv eller tretton år gammal.
  Den välsignade ramadan har gått till sin ända men hon har inte fastat. Har hon eller

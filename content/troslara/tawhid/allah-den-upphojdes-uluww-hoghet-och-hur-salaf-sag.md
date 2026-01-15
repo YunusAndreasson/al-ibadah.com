@@ -4,9 +4,7 @@ author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 116 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Tawhīd [Monoteism]
+categories: – Troslära (ʿAqīdah) – Tawhīd [Monoteism]
 original_id: 1083
 description: 'Fråga: Hur såg salaf – må Allāh vara nöjda med dem – på Allāh den
  Upphöjdes ‘uluww [höghet]? Vilket är utlåtandet om de som säger att Han inte befinner
@@ -27,7 +25,7 @@ description: 'Fråga: Hur såg salaf – må Allāh vara nöjda med dem – på 
 > 
 > 
 > 
-> ”De som lyder Gud och Hans Sändebud, som fruktar Gud och ständigt har Honom för ögonen, det är de som ska vinna den stora segern.” [Koranen 24:51–52]
+> ”De som lyder Gud och Hans Sändebud, som fruktar Gud och ständigt har Honom för ögonen, det är de som ska vinna den stora segern.” [Koranen 24:51 – 52]
 > 
 > 
 > 
@@ -43,7 +41,7 @@ Det är tydligt att den troendes tillvägagångssätt när oenigheter uppstår �
 
 > ”Men den som sedan vägledningen har klargjorts för honom sätter sig upp emot [Vårt] Sändebud och vill gå en annan väg än de troende, honom låter Vi gå dit han vill gå och [därefter] låter Vi honom brinna i helvetet – vilket jämmerligt mål!” [Koranen 4:115]
 
-Med detta som grund: När man studerar Allāhs den Upphöjdes *ʿuluww* över Hans skapelse, och använder sig av Hans skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]*, då blir det klart och tydligt att Koranen och [profetens – över honom vare Allāhs frid och välsignelser –] *sunnah[^2]* på alla sätt tydligt bevisar detta [Allāhs *ʿuluww*]. Innebörden av att Allāh är ovan skapelsen kan ta sig många uttryck:
+Med detta som grund: När man studerar Allāhs den Upphöjdes *ʿuluww* över Hans skapelse, och använder sig av Hans skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]*, då blir det klart och tydligt att Koranen och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah[^2]* på alla sätt tydligt bevisar detta [Allāhs *ʿuluww*]. Innebörden av att Allāh är ovan skapelsen kan ta sig många uttryck:
 
 1. Ett klart förkunnande av att Allāh är ovan himlarna och skapelsen, som när Han den Upphöjde säger: ”*Eller kan ni vara säkra på att Han, som är i himlen, inte släpper lös er, så att våldsam att ni förstår [allvaret i] Min varning?*” [Koranen 67:17] När profeten – över honom vare Allāhs frid och välsignelser – läste en *ruqyah[^3]* för en sjukling sade han: ”*Vår Herre, Allāh, som är ovan himlarna*.” [*Abū Dawūd* 3892] Han har även sagt: ”*Vid Honom i vars hand min själ vilar, när en man kallar sin fru till sin säng och hon vägrar honom, Han som är ovan skapelsen kommer att vara arg på henne tills han [mannen] är nöjd med henne*.” [*al-Bukhārī* 3237]
 2. Ett klart förkunnande av att Allāh den Upphöjde är högt ovan, som i orden: ”*Han utövar den oinskränkta makten över Sina tjänare*.” [Koranen 6:18] ”*De fruktar sin Herre i höjden*.” [Koranen 16:50] Profeten – över honom vare Allāhs frid och välsignelser – har på liknande sätt sagt: ”*När* *Allāh [hade] fullbordat skapelsen skrev Han i Sin skrift som finns hos Honom på Hans tron: Min nåd överstiger Min vrede*.” [*al-Bukhārī* 3194]
@@ -75,7 +73,7 @@ De rättfärdige *salaf[^1]* – må Allāh vara nöjda med dem – är eniga om
 
 Det finns även andra verser som bevisar perfektionen i Hans egenskaper och handlanden.
 
-Precis som Allāhs den Upphöjdes höghet bevisas genom texter i Hans skrift, [profetens – över honom vare Allāhs frid och välsignelser –] *sunnah[^2]* och samstämmighet bland *salaf[^1]* – må Allāh vara nöjda med dem – har den även bevisats genom logiskt resonemang och det naturliga tillstånd som människan har skapats i [*fitrah[^7]*].
+Precis som Allāhs den Upphöjdes höghet bevisas genom texter i Hans skrift, [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah[^2]* och samstämmighet bland *salaf[^1]* – må Allāh vara nöjda med dem – har den även bevisats genom logiskt resonemang och det naturliga tillstånd som människan har skapats i [*fitrah[^7]*].
 
 Bevisen genom logiskt resonemang
 
@@ -93,11 +91,11 @@ Likaså finner du att ens hjärta är riktat mot himlen när man ber är; specie
 
 Somliga säger att Allāh inte finns inom de sex riktningarna. Detta uttalande är generellt sett felaktigt. Det fordrar ju att något som Allāh den Upphöjde har bekräftat om Sig själv blir fel. Detta är även något som de lärde har bekräftat om Honom och den förnämsta i att lovprisa Honom var Hans sändebud, som sade att Han är ovan himlarna i riktning uppåt.
 
-Detta uttalande kräver att man beskriver Allāh den Upphöjde som icke-existerande. De sex riktningarna är ju: upp, ned, höger, vänster, bakåt och framåt. Det finns inget existerande som inte har någon relation till dessa riktningar. Detta känner vi instinktivt till genom det sunda förnuftet. Förnekar man dessa riktningar i fråga om Allāh den Upphöjde får det den underförstådda innebörden att Han inte existerar. Även om vi accepterar att något existerar utanför dessa riktningar så avvisar intellektet det, och det är enbart i sinnet. Vi anser att det är grundläggande för alla som tror på Allāh, att tro på Hans höghet och att Han är ovan skapelsen. Detta bevisas genom Hans skrift, [profetens – över honom vare Allāhs frid och välsignelser –] *sunnah[^2]*, samstämmighet bland *salaf[^1]*, det sunda förnuftet och det naturliga tillstånd som människan har skapats i [*fitrah[^7]*]. Detta är något som vi har beskrivit tidigare.
+Detta uttalande kräver att man beskriver Allāh den Upphöjde som icke-existerande. De sex riktningarna är ju: upp, ned, höger, vänster, bakåt och framåt. Det finns inget existerande som inte har någon relation till dessa riktningar. Detta känner vi instinktivt till genom det sunda förnuftet. Förnekar man dessa riktningar i fråga om Allāh den Upphöjde får det den underförstådda innebörden att Han inte existerar. Även om vi accepterar att något existerar utanför dessa riktningar så avvisar intellektet det, och det är enbart i sinnet. Vi anser att det är grundläggande för alla som tror på Allāh, att tro på Hans höghet och att Han är ovan skapelsen. Detta bevisas genom Hans skrift, [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah[^2]*, samstämmighet bland *salaf[^1]*, det sunda förnuftet och det naturliga tillstånd som människan har skapats i [*fitrah[^7]*]. Detta är något som vi har beskrivit tidigare.
 
 Men samtidigt bekräftar vi att Allāh den Upphöjde omfattar allt och att ingenting som Han har skapat omfattar Honom. Han är oberoende av Sin skapelse och Han behöver inget från Sina skapelser.
 
-Likaså säger vi att en troende inte får avvika från vad Koranen och [profetens – över honom vare Allāhs frid och välsignelser –] *sunnah[^2]* bevisar till förmån för någon persons åsikt, vem det än kan tänkas vara. Detta är något vi har sagt i [tillsammans med] bevisen som vi nämnde i början av svaret.
+Likaså säger vi att en troende inte får avvika från vad Koranen och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah[^2]* bevisar till förmån för någon persons åsikt, vem det än kan tänkas vara. Detta är något vi har sagt i [tillsammans med] bevisen som vi nämnde i början av svaret.
 
 Beträffande vad de säger, att Allāh den Upphöjde är i den troendes hjärta, finns det inte några bevis för vare sig i Allāhs skrift, Hans sändebuds *sunnah[^2]* eller uttalanden från de rättfärdige *salaf[^1]* [enligt vad vi känner till]. Detta är fullständigt felaktigt, för om det som avses är att Allāh den Upphöjde finns i de troendes hjärtan är det felaktigt. Detta beror på att Allāh den Upphöjde är större och mäktigare än så. Det är häpnadsväckande att någon flyr från tanken att Allāh den Upphöjde är ovan himlarna [vilket bevisas genom Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]*], till förmån för något som det inte finns några bevis för, att Allāh finns i den troendes hjärta.
 

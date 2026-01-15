@@ -2,9 +2,7 @@
 title: Mor vallfärdade men någon annan än hennes mahram
 author: Dr. Sālih Ibn Fowzan Ibn ʿAbdullah Ibn Fowzān
 source: al-Muntaqā min Fatāwa Ibn Fowzān – volym 3, sida168, fatwa 253
-categories:
-- Vallfärd (Hajj)
-- Kvinnans vallfärd
+categories: – Vallfärd (Hajj) – Kvinnans vallfärd
 original_id: 908
 description: 'Fråga: Min mor utförde vallfärden då hon var över 60 år gammal med
  någon annan än hennes mahram . Är hennes vallfärd korrekt eller bör jag utföra

@@ -3,9 +3,7 @@ title: Matsorter som är tillåtna att ge som zakātul-fitr
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 204 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
-- Zakātul-fitr
+categories: – Allmosa (Zakāh) – Zakātul-fitr
 original_id: 651
 description: 'Fråga: Vilka är de matsorter som är tillåtna att ge som zakātul-fitr
 ? Svar: I en hadīth rapporteras att det som ska ges är fem saker. Det är

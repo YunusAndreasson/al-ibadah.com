@@ -3,9 +3,7 @@ title: Nattbönen sker i omgångar om två [bönecykler]
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 316 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Nattbön (tarawih)
+categories: – Fasta (Sawm) – Nattbön (tarawih)
 original_id: 1410
 description: 'Fråga: Vissa imamer ber fyra bönecykler eller mer under tarāwīh -bönen
  med enbart en taslīm [När man säger as-salamu ''alaikum wa rahmatullah ] och

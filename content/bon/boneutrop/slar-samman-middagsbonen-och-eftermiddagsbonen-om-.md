@@ -4,9 +4,7 @@ title: Slår samman middagsbönen och eftermiddagsbönen – om det behövs en i
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 405 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Böneutrop
+categories: – Bön (Salāh) – Böneutrop
 original_id: 1156
 description: 'Fråga: Om någon slår ihop middagsbönen[^1] och eftermiddagsbönen, finns
  det då en iqāmah för var och en av dem? Svar: Det finns en iqāmah för var

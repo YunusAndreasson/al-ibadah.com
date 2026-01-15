@@ -3,9 +3,7 @@ title: Grönsaker
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 199 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
-- Blandat om allmosa
+categories: – Allmosa (Zakāh) – Blandat om allmosa
 original_id: 647
 description: 'Fråga: Är det en skyldighet att betala allmosa för grönsaker som tomater,
  potatis, lök och liknande? Svar: Allmosa är en skyldighet för korn och all frukt

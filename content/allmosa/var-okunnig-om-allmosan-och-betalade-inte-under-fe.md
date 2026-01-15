@@ -2,8 +2,7 @@
 title: Var okunnig om allmosan och betalade inte under fem år
 author: Ibn ʿAbdullāh Ibn Bāz
 source: Majmoo' Fatāwa al-Shaykh Ibn Bāz (14/239)
-categories:
-- Allmosa (Zakāh)
+categories: – Allmosa (Zakāh)
 original_id: 1599
 description: 'Fråga: Jag kände inte till något om allmosan och betalade inte under
  fem år. Vad gör jag? Svar: Du måste betala allmosa för alla tidigare år. Den

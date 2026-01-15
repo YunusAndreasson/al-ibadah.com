@@ -2,9 +2,7 @@
 title: Att visa sig duktig
 author: Muhammad bin Salih al-ʿUthaymin
 source: Majmū’ Fatāwa al-shaykh Ibn ‘Uthaymīn, 2/29, 30
-categories:
-- Troslära (ʿAqīdah)
-- Shirk [Att sätta något vid Allāhs sida]
+categories: – Troslära (ʿAqīdah) – Shirk [Att sätta något vid Allāhs sida]
 original_id: 1312
 description: 'Fråga: Finns det någon chans att få välsignelser ifrån en handling
  förstörd av riyā om någon ändrar sin avsikt för att göra Allāh nöjd efter att

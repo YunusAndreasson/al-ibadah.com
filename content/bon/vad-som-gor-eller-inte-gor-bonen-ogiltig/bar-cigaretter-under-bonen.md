@@ -4,9 +4,7 @@ author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 216 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Bön (Salāh)
-- Vad som gör eller inte gör bönen ogiltig
+categories: – Bön (Salāh) – Vad som gör eller inte gör bönen ogiltig
 original_id: 228
 description: 'Fråga: Jag ser att somliga går in i moskén för att be när de har cigaretter
  på sig. Syndar de genom detta? Svar: De syndar inte i fråga om bönen. Att de

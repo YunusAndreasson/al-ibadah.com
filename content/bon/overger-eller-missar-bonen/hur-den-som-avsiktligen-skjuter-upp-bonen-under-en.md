@@ -3,9 +3,7 @@ title: Hur den som avsiktligen skjuter upp bönen under en längre tid tar igen 
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 389 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Överger eller missar bönen
+categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 322
 description: 'Fråga: Får den som inte har bett under flera år ta igen bönerna? Hur
  gör han när han ska ta igen dem? Svar: När någon överger bönen under ett antal

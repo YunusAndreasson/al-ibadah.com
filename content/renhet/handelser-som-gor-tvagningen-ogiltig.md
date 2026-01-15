@@ -4,8 +4,7 @@ author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 344 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Renhet (Tahārah)
+categories: – Renhet (Tahārah)
 original_id: 1212
 description: 'Fråga: Vilka är de händelser som gör ens tvagning ogiltig? Svar: Vad
  som gör ens tvagning ogiltig är något som de lärde tvistar om. Vi nämner, enligt

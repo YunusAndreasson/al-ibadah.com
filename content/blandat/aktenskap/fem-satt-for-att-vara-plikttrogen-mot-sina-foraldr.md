@@ -3,9 +3,7 @@ title: Fem sätt för att vara plikttrogen mot sina föräldrar
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Äktenskap
+categories: – Blandat – Äktenskap
 original_id: 1693
 description: 'Fråga: Hur är man plikttrogen mot sina föräldrar? Är det tillåtet att
  göra ʿumrah för en av dem trots att de redan har gjort det själva? Svar: Att

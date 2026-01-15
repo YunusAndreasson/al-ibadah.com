@@ -1,9 +1,7 @@
 ---
 title: Abort under de första månaderna
 source: al-Fatâwa al-Jâmi’ah, 3/1056
-categories:
-- Blandat
-- Äktenskap
+categories: – Blandat – Äktenskap
 original_id: 1718
 description: 'Fråga: Är det tillåtet att utföra en abort i de tidiga månaderna (1-3)
  före själen har andats in i fostret? Svar: All lovprisan tillhör Allāh. Rådet

@@ -3,9 +3,7 @@ title: Reser till sin familj före tawāf
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 156 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Kvinna med månadsblödning eller blödning efter graviditeten
+categories: – Vallfärd (Hajj) – Kvinna med månadsblödning eller blödning efter graviditeten
 original_id: 782
 description: 'Fråga: Om en kvinna får sin månadsblödning innan hon utför tawāful-ifādhah
 , får hon då resa med sin familj och senare återvända för tawāful-ifādhah? Eller

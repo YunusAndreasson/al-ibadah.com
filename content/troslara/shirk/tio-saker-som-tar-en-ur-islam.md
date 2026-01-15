@@ -3,9 +3,7 @@ title: Tio saker som tar en ur islam
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Fatāwa al-Marah Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn:
  Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Shirk [Att sätta något vid Allāhs sida]
+categories: – Troslära (ʿAqīdah) – Shirk [Att sätta något vid Allāhs sida]
 original_id: 585
 description: '[Vad tar en ur islam?] Sätta medhjälpare vid Allāhs sida [shirk].
  Allāh den Upphöjde säger: ”Gud utestänger den från paradiset som sätter medhjälpare
@@ -27,7 +25,7 @@ Säga att det i dag inte är lämpligt att använda de straff som har Allāh ang
 
 […]Tro att det är tillåtet att förklara det som Allāh gjort förbjudet för att vara tillåtet såsom äktenskapsbrott, alkohol och ocker. Enligt konsensus bland de lärde är en person som anser detta vara tillåtet en icke-troende.
 5. Hata någon del av det Allāhs sändebud förklarat som lagligt, även om man handlar enligt det. Allāh, Den Högste, säger: ”Därför att de känner motvilja mot det som Gud har uppenbarat – och så [låter Han] alla deras företag gå om intet.” [Koranen 47:9]
-6. Någon som förlöjligar sig över någon aspekt av islam, dess belöningar eller bestraffningar. ”Säg: 'Då var era skämt alltså riktade mot Gud, Hans budskap och Hans Sändebud?' Kom inte nu med [tomma] ursäkter! Ni har förnekat den tro som ni förut bekände.” [Koranen 9:65–66]
+6. Någon som förlöjligar sig över någon aspekt av islam, dess belöningar eller bestraffningar. ”Säg: 'Då var era skämt alltså riktade mot Gud, Hans budskap och Hans Sändebud?' Kom inte nu med [tomma] ursäkter! Ni har förnekat den tro som ni förut bekände.” [Koranen 9:65 – 66]
 7. Praktisera magi och detta kan bland annat innefatta att skapa osämja mellan en make och maka eller fresta en person till vissa handlingar genom svartkonst. Den som sysselsätter sig med detta hamnar utanför islam. Allāh den Högste säger i Koranen: ”Men dessa två [Hārūt och Mārūt] undervisade inte utan att först säga: 'Vi är bara en prövning och en frestelse; förneka därför inte [Guds välhandlingar]!” [Koranen 2:102]
 8. Stödja någon av månggudadyrkarna mot muslimerna. Allāh den Upphöjde säger: ”Troende! Välj inte judar och kristna till era bundsförvanter – de stöder och skyddar varandra – och den av er som söker deras stöd och skydd blir en av dem. Gud vägleder inte de orättfärdiga.” [Koranen 5:51]
 9. Tro att det för somliga är tillåtet att avvika ifrån den islamiska lagen. Allāh, den Högste, säger: ”Om någon vill anta en religion som inte innebär underkastelse under Guds vilja kommer detta att vägras honom, och i nästa liv ska han stå bland förlorarna.” [Koranen 3:85]

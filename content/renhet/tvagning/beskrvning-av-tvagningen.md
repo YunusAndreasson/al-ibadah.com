@@ -2,9 +2,7 @@
 title: Beskrivning av tvagningen
 author: Dr. Salih Ibn Fowzan Ibn ʿAbdullah Ibn Fowzan
 source: al-Mulakhkhas al-Fiqhi, 1/36
-categories:
-- Renhet (Tahārah)
-- Tvagning
+categories: – Renhet (Tahārah) – Tvagning
 original_id: 1275
 description: 'Fråga: Hur tvagar man sig? Svar: All lovprisan tillhör Allāh. I
  fråga om tvagningen finns det två sätt och de är enligt följande: Den obligatoriska

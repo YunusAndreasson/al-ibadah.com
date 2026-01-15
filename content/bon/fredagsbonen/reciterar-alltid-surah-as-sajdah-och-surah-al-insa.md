@@ -4,9 +4,7 @@ title: Reciterar alltid surah as-Sajdah och surah al-Insan under gryningsbönen 
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 458 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Fredagsbönen
+categories: – Bön (Salāh) – Fredagsbönen
 original_id: 357
 description: 'Fråga: Är det tillåtet att regelbundet recitera sura as-Sajdah och
  sura al-Insan under gryningsbönen och varje fredagsbön? Svar: Det är föreskrivet

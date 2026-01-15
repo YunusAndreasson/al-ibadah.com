@@ -3,9 +3,7 @@ title: Giftermål med mer än en är eftersträvansvärt
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Äktenskap
+categories: – Blandat – Äktenskap
 original_id: 1624
 description: 'Fråga: Vissa män gifter sig med fler än en kvinna utav stolthet eller
  för att tävla med varandra utan att det finns något direkt behov. Är detta tillåtet?

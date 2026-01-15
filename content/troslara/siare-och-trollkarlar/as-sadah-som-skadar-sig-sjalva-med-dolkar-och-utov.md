@@ -4,9 +4,7 @@ author: Ibn ʿAbdullah Ibn Bāz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 159 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Siare och trollkarlar
+categories: – Troslära (ʿAqīdah) – Siare och trollkarlar
 original_id: 78
 description: 'Fråga: I några kvarter i Jemen finns det folk som kallas as-sadah
  . De gör sådant som inte är enligt religionen, såsom magi och andra saker, och de

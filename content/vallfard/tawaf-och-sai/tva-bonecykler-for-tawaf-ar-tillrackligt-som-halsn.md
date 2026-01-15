@@ -3,9 +3,7 @@ title: Två bönecykler för tawāf är tillräckligt som hälsningsbönen till 
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 173 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Tawāf och sa’ī
+categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 799
 description: 'Fråga: Om jag avsåg att utföra ‘umrah eller vallfärden, gick in i ihrām och
  gick in i den heliga Moskén – ber jag då två bönecykler som hälsningsbönen till

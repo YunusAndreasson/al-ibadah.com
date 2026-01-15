@@ -3,9 +3,7 @@ title: Vallfärden för den som utan ursäkt inte fastar under ramadan
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 301 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- De som bara ber under ramadan
+categories: – Fasta (Sawm) – De som bara ber under ramadan
 original_id: 875
 description: 'Fråga: Jag drabbades av en sjukdom under den välsignade månaden ramadan
  och jag hade då inte möjlighet att fasta. Därför bestämde jag mig för att fasta

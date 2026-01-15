@@ -3,9 +3,7 @@ title: Fasta som inte bryts
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 329 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Blandade utlåtanden
+categories: – Fasta (Sawm) – Blandade utlåtanden
 original_id: 1414
 description: 'Fråga: Vad är en fortlöpande fasta för något och är det sunnah? Svar: En
  fortlöpande fasta är när någon inte bryter fastan under två dagar. Således fortsätter

@@ -3,9 +3,7 @@ title: Glömmer bort iqāmah eller al-Fātihah
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 210 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Iqāmah [Det andra böneutropet]
+categories: – Bön (Salāh) – Iqāmah [Det andra böneutropet]
 original_id: 227
 description: 'Fråga: En man bad eftermiddagsbönen men han glömde bort att göra iqāmah
  . Vad måste han göra då? Bör han be om en bönecykel om han glömmer bort al-Fātihah

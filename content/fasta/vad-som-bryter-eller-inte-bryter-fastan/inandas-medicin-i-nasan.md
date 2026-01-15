@@ -3,9 +3,7 @@ title: Inandas medicin i näsan
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 269 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Vad som bryter eller inte bryter fastan
+categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 1398
 description: 'Fråga: Det finns en medicin som de med astma tar den genom inhalering.
  Bryter detta fastan? Svar: Medicinen för astma som sjuka använder genom inhalering

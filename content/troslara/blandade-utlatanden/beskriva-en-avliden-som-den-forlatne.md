@@ -3,9 +3,7 @@ title: Beskriva en avliden som ”den förlåtne”
 author: Ibn ʿAbdullah Ibn Bāz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 207 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Blandade utlåtanden
+categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
 original_id: 94
 description: 'Fråga: Är det tillåtet att beskriva någon som ”den förlåtne” eller
  ”över den som det vilar nåd”? Svar: I tidningar har det dykt upp dödsannonser.

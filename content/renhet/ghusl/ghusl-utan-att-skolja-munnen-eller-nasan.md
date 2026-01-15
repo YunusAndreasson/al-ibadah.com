@@ -4,9 +4,7 @@ author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 359 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Renhet (Tahārah)
-- Ghusl [Den stora tvagningen]
+categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
 original_id: 1136
 description: 'Fråga: Om någon gör ghusl utan att skölja munnen eller dra in vatten
  i näsan, är denna ghusl då korrekt? Svar: Ghusl är inte giltig utan att

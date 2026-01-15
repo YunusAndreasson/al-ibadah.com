@@ -4,9 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 3x s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Gravdyrkan
+categories: – Troslära (ʿAqīdah) – Gravdyrkan
 original_id: 31
 description: 'Fråga: Vilket är utlåtandet om att nedfalla vid gravar samt att offra
  till de som ligger begravda i dem? Svar: Att nedfalla vid gravar och att offra
@@ -17,12 +15,12 @@ description: 'Fråga: Vilket är utlåtandet om att nedfalla vid gravar samt att
 
 **Svar:** Att nedfalla vid gravar och att offra till dem är avgudadyrkan, okunnighet och större *shirk[^1]*. Detta är hängivelse som enbart får tillägnas Allāh. Den som tillägnar dem åt någon annan än Allāh är en månggudadyrkare[^2]. Allāh den Upphöjde säger:
 
-> ”Säg: 'Min bön och all min andakt, mitt liv och min död tillhör Gud, världarnas Herre. Han som inte har någon vid Sin sida; till detta har jag kallats och jag är den förste av dem som har underkastat sig Guds vilja.” [Koranen 6:162–163]
+> ”Säg: 'Min bön och all min andakt, mitt liv och min död tillhör Gud, världarnas Herre. Han som inte har någon vid Sin sida; till detta har jag kallats och jag är den förste av dem som har underkastat sig Guds vilja.” [Koranen 6:162 – 163]
 > 
 > 
 > 
 > 
-> ”Vi har sannerligen gett dig det goda i överflöd! Be därför till din Herre och förrätta [ditt] offer!” [Koranen 108:1–2]
+> ”Vi har sannerligen gett dig det goda i överflöd! Be därför till din Herre och förrätta [ditt] offer!” [Koranen 108:1 – 2]
 
 Det finns andra verser som visar att nedfallan och offer är dyrkan och att tillägna dem åt någon annan än Allāh är *shirk[^1]*.
 

@@ -4,9 +4,7 @@ title: Informera släktingar och vänner om att en person har avlidit för att d
 author: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 572 s. ISBN 9960-892-66-2'
 source: Muhammad bin Salih al-ʿUthaymin
-categories:
-- Bön (Salāh)
-- Begravningsbön
+categories: – Bön (Salāh) – Begravningsbön
 original_id: 1243
 description: 'Fråga: Är det förbjudet att informera släktingar och vänner till en
  bortgången för att de ska kunna samlas och be över denne? Svar: Denna form

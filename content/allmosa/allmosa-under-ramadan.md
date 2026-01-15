@@ -3,8 +3,7 @@ title: Allmosa under ramadan
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 333 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
+categories: – Allmosa (Zakāh)
 original_id: 480
 description: 'Fråga: Är allmosan ädlare under ramadan [...]? Svar: Allmosa är
  som alla former av gott handlande ädlare under ädla tidpunkter. Men när allmosan

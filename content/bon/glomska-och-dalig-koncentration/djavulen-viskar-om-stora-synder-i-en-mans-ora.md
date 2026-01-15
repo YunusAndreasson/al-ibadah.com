@@ -4,9 +4,7 @@ author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 55 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Bön (Salāh)
-- Glömska och dålig koncentration
+categories: – Bön (Salāh) – Glömska och dålig koncentration
 original_id: 1168
 description: 'Fråga: Det finns en man som lider av djävulens viskningar. Djävulen
  viskar saker till honom som är stora synder beträffande Allāh den Allsmäktige. Han

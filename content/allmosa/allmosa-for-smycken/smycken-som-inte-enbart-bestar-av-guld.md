@@ -3,9 +3,7 @@ title: Smycken som inte enbart består av guld
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 181 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
-- Allmosa för smycken
+categories: – Allmosa (Zakāh) – Allmosa för smycken
 original_id: 624
 description: 'Fråga: Hur betalar man allmosa för smycken som inte är enbart guld?
  De är dekorerade med ett antal juveler och ädelstenar. Räknar man med juvelernas

@@ -3,9 +3,7 @@ title: Leder några i bön utan att ha tvagat sig
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 419 s. ISBN saknas'
-categories:
-- Renhet (Tahārah)
-- Tvagning
+categories: – Renhet (Tahārah) – Tvagning
 original_id: 1539
 description: 'Fråga: En man ledde några andra i en av de obligatoriska bönerna och
  när de hade bett och skingrats kom han på att han inte hade tvagat sig. Han upprepade

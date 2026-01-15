@@ -3,9 +3,7 @@ title: Miswāk och när användandet av den har bekräftats [som under fredagsb�
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 316 s. ISBN 9960-892-66-2'
-categories:
-- Renhet (Tahārah)
-- Blandade utlåtanden
+categories: – Renhet (Tahārah) – Blandade utlåtanden
 original_id: 1121
 description: 'Fråga: När har användandet av miswāk bekräftats? Vilket är utlåtandet
  om att använda miswāk när man väntar på fredagspredikan? Svar: Användandet

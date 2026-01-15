@@ -3,9 +3,7 @@ title: Imam som är syndar eller är okunnig
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 409 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Att vara imam och bön bakom en imam
+categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
 original_id: 1538
 description: 'Fråga: Vilket är utlåtandet om en imam som rakar sitt skägg, som röker,
  som är okunnig eller inte förstår Koranen? Svar: Imamtjänsten för den som röker

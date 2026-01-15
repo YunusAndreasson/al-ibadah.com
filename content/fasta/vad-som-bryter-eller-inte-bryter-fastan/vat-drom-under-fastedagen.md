@@ -3,9 +3,7 @@ title: Våt dröm under fastedagen
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 271 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Vad som bryter eller inte bryter fastan
+categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 427
 description: 'Fråga: Jag fastade och sov då i en moské. När jag hade vaknat fann
  jag att jag hade haft en våt dröm. Inverkar den våta drömmen på fastan? Detta i

@@ -3,9 +3,7 @@ title: Särskilja ʿAlī genom att säga ʿalaihis-salam'
 author: Ibn ʿAbdullah Ibn Bāz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 114 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Blandade utlåtanden
+categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
 original_id: 70
 description: 'Fråga: Jag skummade genom de ämnen som boken '' Aqd ad-Durar fī Akhbar
  al-Muntathar '' täcker. I några av haditherna som tillskrivs ʿAlī bin Abi Tālib

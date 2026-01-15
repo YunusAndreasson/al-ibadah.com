@@ -3,9 +3,7 @@ title: Blod behöver inte rinna när en kvinna förlorar oskulden
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Äktenskap
+categories: – Blandat – Äktenskap
 original_id: 1640
 description: 'Fråga: En man gifte sig med en muslimsk kvinna som ber och inget blod
  rann från henne när de hade samlag under bröllopsnatten. Jag har hört forskare som

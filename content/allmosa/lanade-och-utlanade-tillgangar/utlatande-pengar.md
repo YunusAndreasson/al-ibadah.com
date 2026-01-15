@@ -3,9 +3,7 @@ title: Utlåtande pengar
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 185 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
-- Lånade och utlånade tillgångar
+categories: – Allmosa (Zakāh) – Lånade och utlånade tillgångar
 original_id: 629
 description: 'Fråga: En bror är skyldig mig pengar. Är jag skyldig att betala allmosa
  för den? Svar: Om lånet är till välbärgade personer som skulle kunna betala

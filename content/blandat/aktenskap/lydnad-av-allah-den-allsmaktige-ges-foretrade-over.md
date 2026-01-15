@@ -3,9 +3,7 @@ title: Lydnad av Allāh den Allsmäktige ges företräde över lydnad av föräl
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Äktenskap
+categories: – Blandat – Äktenskap
 original_id: 1691
 description: 'Fråga: Jag avsåg att bege mig till Mecka för att göra ʿumrah men
  när jag berättade om detta sades det till mig att jag behövde besöka släktingar
@@ -20,7 +18,7 @@ Av denna anledning finns det inte någon lydnad för något skapat när det inne
 
 Du måste uppfylla vad som är obligatoriskt för dig och veta att du kommer att ha rätt gentemot dem om de försvårar relationen enbart eftersom du fasthåller de gränser som Allāh har satt upp. Det är deras skyldighet att säga: ”Vi hör och vi lyder” om Allāhs regler. De ska inte föredra seder framför Hans lag. Den islamiska lagen är regeln, inte vad som regleras. Seder styrs av Hans lag, det är inte de som styr.
 
-Kanske är den farligaste relationen för en kvinna hennes mans släktingar, de kan till och med vara farligare än fullständiga främlingar. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser –, när han förbjöd att man går fram till kvinnor, sade: ”Var varse om att gå fram till kvinnor.” Några frågade: ”Hur är det med hamwu [mannens broder eller andra släktingar]?” Han svarade: ”Hamwu är döden!” [al-Bukhārī 5232 och Muslim 2172] Detta betyder att hamwu är farliga för henne och att hon aldrig bör vara ensam med dem. De är farliga för henne eftersom de kan komma och gå utan att någon fäster någon tanke vid det. Djävulen flyter genom honom likt blod och han kan viska och uppmuntra honom till ont. Djävulen har fått så många människor på fall i denna fråga när mannens släktingar har fått kvinnan att lida.
+Kanske är den farligaste relationen för en kvinna hennes mans släktingar, de kan till och med vara farligare än fullständiga främlingar. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – , när han förbjöd att man går fram till kvinnor, sade: ”Var varse om att gå fram till kvinnor.” Några frågade: ”Hur är det med hamwu [mannens broder eller andra släktingar]?” Han svarade: ”Hamwu är döden!” [al-Bukhārī 5232 och Muslim 2172] Detta betyder att hamwu är farliga för henne och att hon aldrig bör vara ensam med dem. De är farliga för henne eftersom de kan komma och gå utan att någon fäster någon tanke vid det. Djävulen flyter genom honom likt blod och han kan viska och uppmuntra honom till ont. Djävulen har fått så många människor på fall i denna fråga när mannens släktingar har fått kvinnan att lida.
 
 För att summera: Frågeställaren måste täcka sitt ansikte för hennes mans bröder även om det leder till att familjen blir arg eller håller sig borta från henne. Hon bör anstränga sig för att försona mellan dem och om de vägrar ligger synden på dem.
 

@@ -3,9 +3,7 @@ title: Förkorta bönen under vallfärden
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 299 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Blandade utlåtanden
+categories: – Vallfärd (Hajj) – Blandade utlåtanden
 original_id: 874
 description: 'Fråga: Vilket är utlåtandet om att förkorta bönen under vallfärden
  för en pilgrim som stannar i Mecka under fler än fyra dagar? Svar: Om en pilgrim

@@ -3,9 +3,7 @@ title: Begravningsbön som utförs över någon som finns på en annan plats
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 581 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Begravningsbön
+categories: – Bön (Salāh) – Begravningsbön
 original_id: 1012
 description: 'Fråga: Är det tillåtet att be över en avliden som inte finns på platsen
  eller finns det speciella villkor för det? Svar: Den starkaste åsikten av dem

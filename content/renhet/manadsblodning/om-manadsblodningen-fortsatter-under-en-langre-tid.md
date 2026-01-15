@@ -2,9 +2,7 @@
 title: Om månadsblödningen fortsätter under en längre tid
 author: Muhammad bin Salih al-ʿUthaymin
 source: Fatāwa al-Marah
-categories:
-- Renhet (Tahārah)
-- Månadsblödning
+categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 1370
 description: 'Fråga: Om en kvinnas normala månadsblödning brukar vara mellan sju
  eller åtta dagar, men någon gång blir perioden längre – vad ska hon göra då? Svar: Om

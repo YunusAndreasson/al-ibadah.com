@@ -2,9 +2,7 @@
 title: Tiden för nattbönen [isha]
 author: Ibn ʿAbdullah Ibn Baz
 source: Majmū’ah Fatāwa al-shaykh ‘Abd al-‘Azīz ibn Bāz, 10/386
-categories:
-- Bön (Salāh)
-- Blandade utlåtanden
+categories: – Bön (Salāh) – Blandade utlåtanden
 original_id: 489
 description: 'Fråga: Denna fråga gäller tiden för nattbönen[^1]. Det finns olika åsikter
  om när tiden för att be nattbönen[^1] går ut. Några säger att man kan be nattbönen[^1]

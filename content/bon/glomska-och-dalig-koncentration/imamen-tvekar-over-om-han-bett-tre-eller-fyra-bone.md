@@ -4,9 +4,7 @@ title: Imamen tvekar över om han bett tre eller fyra bönecykler i en bön som 
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 268 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Glömska och dålig koncentration
+categories: – Bön (Salāh) – Glömska och dålig koncentration
 original_id: 1501
 description: 'Fråga: Vad ska en imam göra om han är osäker på om han har bett tre
  eller fyra bönecykler i en bön som är fyra bönecykler lång? När ska han nedfalla

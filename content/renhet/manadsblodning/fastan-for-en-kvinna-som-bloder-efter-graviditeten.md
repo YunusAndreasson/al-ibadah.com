@@ -3,9 +3,7 @@ title: Fastan för en kvinna som blöder efter graviditeten
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 298 s. ISBN saknas'
-categories:
-- Renhet (Tahārah)
-- Månadsblödning
+categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 450
 description: 'Fråga: Om jag exempelvis födde en vecka före ramadan och jag blev ren
  innan 40 dagar gått till ända, är det då min skyldighet att fasta? Svar: Ja,

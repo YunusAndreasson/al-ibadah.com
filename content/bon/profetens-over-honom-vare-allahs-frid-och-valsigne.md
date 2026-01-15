@@ -3,8 +3,7 @@ title: Profetens – över honom vare Allāhs frid och välsignelser – bön
 author: Shaykh Muhammad Nāsir al-Dīn al-Albāni
 source: 'Talkhīs Sifat Salāt al-Nabi min al-takbīr ila al-Taslīm ka annaka turāhā
  Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Bön (Salāh)
+categories: – Bön (Salāh)
 original_id: 1159
 description: 'Fråga: Hur bad profeten? Svar: Vända sig i riktning mot Ka’bah Klädseln När
  du står upp för att be, vänd dig i riktning mot Ka’bah var du än befinner dig, både
@@ -120,7 +119,7 @@ Var de ska placeras
 
 *Du'ā' al-Istiftāh* [åkallan[^14] i början av bönen]
 
-1. Sedan börjar man bönen med några av de åkallan[^14] den som finns återberättade från profeten. Det finns flera och den kändaste är: ”*Subhānaka Allāhumma wa bihamdika, wa tabāraka ismuka wa ta’āla jadduka, wa Lā ilāha ghayruka*” [Allāh vare lovad och prisad. Välsignat vare Ditt namn och upphöjd vare Din Majestät. Det finns ingen gud utom Du.” Kommenderingen att göra detta är bevisad så vi bör hålla oss till den. Den som vill använda andra åkallan[^14] hänvisas till *Sifat al-Salāh* s. 91–95, Maktabat al-Ma'ārif, Riyadh. [På engelska, se: *The Prophets Prayer described *av shaykh al-Albāni, al-Hanīf Publications, s. 14–19]
+1. Sedan börjar man bönen med några av de åkallan[^14] den som finns återberättade från profeten. Det finns flera och den kändaste är: ”*Subhānaka Allāhumma wa bihamdika, wa tabāraka ismuka wa ta’āla jadduka, wa Lā ilāha ghayruka*” [Allāh vare lovad och prisad. Välsignat vare Ditt namn och upphöjd vare Din Majestät. Det finns ingen gud utom Du.” Kommenderingen att göra detta är bevisad så vi bör hålla oss till den. Den som vill använda andra åkallan[^14] hänvisas till *Sifat al-Salāh* s. 91 – 95, Maktabat al-Ma'ārif, Riyadh. [På engelska, se: *The Prophets Prayer described *av shaykh al-Albāni, al-Hanīf Publications, s. 14 – 19]
 
 Recitation av Koranen
 
@@ -141,7 +140,7 @@ Så här brukade profeten – över honom vare Allāhs frid och välsignelser �
 
 Hur den som ber bakom imamen bör recitera den
 
-1. I bön bakom imamen bör man recitera den i de böner där Koranen reciteras tyst och i böner där den reciteras med höjd röst om man inte kan höra imamens recitation eller om han [imamen] pausar efter att ha slutfört den för att de som ber bakom ska kunna recitera den. Vi anser att denna paus inte finns bevisad i profetens – över honom vare Allāhs frid och välsignelser – sunnah[^12]. Jag har nämnt de bevis de som tror att denna paus är tillåten har och avvisat dem i Silsilat al-Ahādīth[^9] al-Da'īfah no. 546, 547; del 2, s. 24–26, Dar al-Ma'ārif upplagan.
+1. I bön bakom imamen bör man recitera den i de böner där Koranen reciteras tyst och i böner där den reciteras med höjd röst om man inte kan höra imamens recitation eller om han [imamen] pausar efter att ha slutfört den för att de som ber bakom ska kunna recitera den. Vi anser att denna paus inte finns bevisad i profetens – över honom vare Allāhs frid och välsignelser – sunnah[^12]. Jag har nämnt de bevis de som tror att denna paus är tillåten har och avvisat dem i Silsilat al-Ahādīth[^9] al-Da'īfah no. 546, 547; del 2, s. 24 – 26, Dar al-Ma'ārif upplagan.
 
 Recitation efter al-Fātihah
 
@@ -186,7 +185,7 @@ Hur man bugar
 2. Man sträcker ut sin rygg och gör den rak; hade vatten hällts på den skulle det ligga kvar [och inte rinna av]. Detta är obligatoriskt.
 3. Man rör inte sitt huvud upp och ned utan man gör det i nivå med sin rygg.
 4. Man håller armbågarna borta från sina sidor.
-5. I bugningen säger man: ”*Subhāna Rabbiy al-‘Azīm* [Lov och pris tillhör Herren, den Allsmäktige] tre gånger eller mer. Det finns fler – långa, medellånga och korta –[^22] åminnelse[^22] r som kan sägas under bugningen. Se *Sifat Salāt al-Nabi*, s. 132, Maktabat al-Ma'ārif upplagan [*The Prophet's Prayer Described*, s. 44]
+5. I bugningen säger man: ”*Subhāna Rabbiy al-‘Azīm* [Lov och pris tillhör Herren, den Allsmäktige] tre gånger eller mer. Det finns fler – långa, medellånga och korta – [^22] åminnelse[^22] r som kan sägas under bugningen. Se *Sifat Salāt al-Nabi*, s. 132, Maktabat al-Ma'ārif upplagan [*The Prophet's Prayer Described*, s. 44]
 
 Göra bönens väsentliga delar lika till längd
 

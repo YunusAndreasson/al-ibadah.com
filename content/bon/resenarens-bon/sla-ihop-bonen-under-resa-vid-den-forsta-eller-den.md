@@ -2,9 +2,7 @@
 title: Slå ihop bönen under resa vid den första eller den andra bönen
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Liqāt al-Bāb al-Maftūh – volym 1, sida 54, nummer 95.
-categories:
-- Bön (Salāh)
-- Resenärens bön
+categories: – Bön (Salāh) – Resenärens bön
 original_id: 582
 description: 'Fråga: Är det bäst, när man är ute och reser, att slå ihop bönen vid
  den tidigaste tidpunkten eller vid den senare tidpunkten? Svar: Det bästa under

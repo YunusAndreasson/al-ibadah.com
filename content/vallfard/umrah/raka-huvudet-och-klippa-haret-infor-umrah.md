@@ -3,9 +3,7 @@ title: Raka huvudet och klippa håret inför ‘umrah
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Källa: Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah .
  Volym 4. Libanon: Maktaba Dar us-Salam. 287 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Umrah
+categories: – Vallfärd (Hajj) – Umrah
 original_id: 873
 description: 'Fråga: Vilket är utlåtandet om att raka huvudet eller att klippa håret
  när det gäller ‘umrah? Svar: Att raka huvudet eller klippa håret [när det

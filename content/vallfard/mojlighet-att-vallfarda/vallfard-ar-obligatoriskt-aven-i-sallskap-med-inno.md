@@ -2,9 +2,7 @@
 title: Vallfärd är obligatoriskt även i sällskap med innovatörer
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: al-Lajnah al-Dā’imah li’l-Buhūth al-‘Ilmiyyah wa’l-Ifta’, 11/18
-categories:
-- Vallfärd (Hajj)
-- Möjlighet att vallfärda
+categories: – Vallfärd (Hajj) – Möjlighet att vallfärda
 original_id: 885
 description: 'Fråga: Vi är sunniter och lever i en shiitisk stat. Vi vill utföra
  den obligatoriska pilgrimsfärden men vi kan inte resa med invånarna i detta land

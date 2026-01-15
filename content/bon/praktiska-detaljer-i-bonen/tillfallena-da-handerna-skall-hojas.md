@@ -3,9 +3,7 @@ title: Tillfällena då händerna ska höjas
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 143 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Praktiska detaljer i bönen
+categories: – Bön (Salāh) – Praktiska detaljer i bönen
 original_id: 188
 description: 'Fråga: I vår stad finns de två grupper. En grupp hämtar bevis från
  en ädel hadīth och den andra följer Mālikis rättsskola i all dyrkan. Ett exempel

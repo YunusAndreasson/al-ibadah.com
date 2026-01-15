@@ -4,9 +4,7 @@ author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 491 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap'
-categories:
-- Bön (Salāh)
-- Vad som gör eller inte gör bönen ogiltig
+categories: – Bön (Salāh) – Vad som gör eller inte gör bönen ogiltig
 original_id: 937
 description: 'Fråga: Bör den troende upprepa bönen om det blev klart att han vänt
  sig bort från qiblah? Svar: Om denne enbart avvek lite grann är det ingen fara.

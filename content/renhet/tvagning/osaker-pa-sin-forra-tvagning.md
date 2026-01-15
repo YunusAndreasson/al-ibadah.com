@@ -3,9 +3,7 @@ title: Osäker på sin förra tvagning
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 51 s. ISBN saknas'
-categories:
-- Renhet (Tahārah)
-- Tvagning
+categories: – Renhet (Tahārah) – Tvagning
 original_id: 157
 description: 'Fråga: En man tvagade sig och lade sedan märke till en fläck på foten.
  Detta har hänt även vid ett annat tillfälle. Han är nu tveksam om han har tvagat

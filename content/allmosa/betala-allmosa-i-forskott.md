@@ -3,8 +3,7 @@ title: Betala allmosa i förskott
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 165 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
+categories: – Allmosa (Zakāh)
 original_id: 611
 description: 'Fråga: Jag är anställd och varje månad får jag lön som jag sparar en
  del av. Det finns ingen direkt procentandel på hur mycket jag sparar, så hur betalar

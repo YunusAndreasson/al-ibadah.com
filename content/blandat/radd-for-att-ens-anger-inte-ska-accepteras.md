@@ -4,8 +4,7 @@ author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 243 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Blandat
+categories: – Blandat
 original_id: 658
 description: 'Fråga: En person begick en handling av olydnad och ångrade sig inför
  Allāh efteråt. Han känner dock djupt inom sig själv att Allāh inte kommer att förlåta
@@ -24,7 +23,7 @@ Det krävs av dig att du ångrar dig för vad du har gjort och efter ångern må
 
 Det finns en annan vers av ännu större innebörd. Den förklarar att om en person efter att ha syndat ångrar sig och utför goda handlingar, då kommer Allāh den Allsmäktige att ändra hans synder till goda handlingar. Detta betyder att Allāh placerar en god handling där varje ond har funnits.
 
-> ”Och de anropar aldrig en gudom vid sidan av Gud och de berövar aldrig en människa livet – som Gud har förklarat heligt – annat än i rättfärdigt syfte, och de avhåller sig från äktenskapsbrott. Den som begår dessa svåra synder ska få sona dem med en exemplarisk bestraffning [och] på Uppståndelsens dag ska hans straff fördubblas och han ska gå bort med skammen för att lida detta straff i evigheten.” [Koranen 25:68–70]
+> ”Och de anropar aldrig en gudom vid sidan av Gud och de berövar aldrig en människa livet – som Gud har förklarat heligt – annat än i rättfärdigt syfte, och de avhåller sig från äktenskapsbrott. Den som begår dessa svåra synder ska få sona dem med en exemplarisk bestraffning [och] på Uppståndelsens dag ska hans straff fördubblas och han ska gå bort med skammen för att lida detta straff i evigheten.” [Koranen 25:68 – 70]
 
 Allāh den Allsmäktige informerar oss här om att Han ändrar deras dåliga handlingar till goda med anledning av deras ånger, tro och goda handlingar. Om du begrundar dina synder, som är oförrätter mot Honom, och du ångrar dig efter detta och istället gör rättfärdiga handlingar utav tro, övertygelse och i hopp om Allāhs belöningar, då byter du de dåliga handlingarna mot goda.
 

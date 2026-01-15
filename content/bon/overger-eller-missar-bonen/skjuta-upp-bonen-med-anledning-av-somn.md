@@ -3,9 +3,7 @@ title: Skjuta upp bönen med anledning av sömn
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 240 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Överger eller missar bönen
+categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 251
 description: 'Fråga: Jag är en ung tjej som med anledning av sömn ofta missar kvällsbönen.
  Jag tar i igen den senare. Vilket är utlåtandet om detta? Svar: Utlåtandet är

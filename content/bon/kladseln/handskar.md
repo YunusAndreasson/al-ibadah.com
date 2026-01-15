@@ -3,9 +3,7 @@ title: Handskar
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 23 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Klädseln
+categories: – Bön (Salāh) – Klädseln
 original_id: 233
 description: 'Fråga : Är det tillåtet att be i handskar, speciellt om man är imam? Svar
  : Män som kvinnor får bära handskar under böner och även utanför den. Detta gäller

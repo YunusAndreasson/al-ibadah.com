@@ -2,9 +2,7 @@
 title: Tvätta sin kropp för att kyla av sig när man är i ihrām
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Lajnah, 11/184
-categories:
-- Vallfärd (Hajj)
-- Förbjudna saker under ihrām
+categories: – Vallfärd (Hajj) – Förbjudna saker under ihrām
 original_id: 1284
 description: 'Fråga: Får en pilgrim tvätta hela sin kropp för att svalka sig under
  ihrām? Svar: All lovprisan tillhör Allāh. En muslim får tvätta hela sin kropp

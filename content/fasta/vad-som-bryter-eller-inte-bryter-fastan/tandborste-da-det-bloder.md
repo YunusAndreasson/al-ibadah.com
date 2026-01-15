@@ -3,9 +3,7 @@ title: Tandborste då det blöder
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 263 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Vad som bryter eller inte bryter fastan
+categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 418
 description: 'Fråga: Efter att ha avstått från att äta [när fastan börjar], får jag
  då borsta mina tänder med tandkräm och om det är tillåtet, bryter då den lilla mängd

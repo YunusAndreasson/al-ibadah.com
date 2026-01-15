@@ -3,9 +3,7 @@ title: Skriva av en skuld och anse det vara allmosa
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 186 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
-- Lånade och utlånade tillgångar
+categories: – Allmosa (Zakāh) – Lånade och utlånade tillgångar
 original_id: 631
 description: 'Fråga: Vi har en släkting som är fattig och behövande så vi ger denne
  allmosa varje år. För en tid sedan gav vi denne en summa pengar som inte var allmosa

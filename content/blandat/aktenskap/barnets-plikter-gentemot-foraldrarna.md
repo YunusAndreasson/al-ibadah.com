@@ -3,9 +3,7 @@ title: Barnets plikter gentemot föräldrarna
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Äktenskap
+categories: – Blandat – Äktenskap
 original_id: 1686
 description: 'Fråga: Jag har en mormor som har avlidit och hon var mig mycket kär
  och jag kommer aldrig att glömma henne. Vad måste jag göra för henne nu så att jag

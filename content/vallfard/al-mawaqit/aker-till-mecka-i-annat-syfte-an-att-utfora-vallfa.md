@@ -3,9 +3,7 @@ title: Åker till Mecka i annat syfte än att utföra vallfärden eller ‘umrah
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 82 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- al-Mawaqit
+categories: – Vallfärd (Hajj) – al-Mawaqit
 original_id: 1330
 description: 'Fråga: Vad säger den islamiska lagen om någon som åker från Riyadh
  till Mecka och inte avser att utföra vallfärden eller ‘umrah? När han hade anlänt

@@ -4,9 +4,7 @@ author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 269 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Blandat
-- Ånger
+categories: – Blandat – Ånger
 original_id: 678
 description: 'Fråga: En ung man utför alla de obligatoriska plikterna – islams fem
  pelare. Samtidigt begår han vissa synder. Vilket är det islamska utlåtandet om en

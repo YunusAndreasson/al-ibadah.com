@@ -3,9 +3,7 @@ title: Avbryta bönen på grund av något nödvändigt
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 246 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Vad som gör eller inte gör bönen ogiltig
+categories: – Bön (Salāh) – Vad som gör eller inte gör bönen ogiltig
 original_id: 256
 description: 'Fråga: Jag bad förmiddagsbönen i mitt hem och när jag hade gjort öppnings-
  takbīr och reciterat al-Fātihah knackade någon på dörren. Jag gjorde då taslīm och

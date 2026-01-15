@@ -3,9 +3,7 @@ title: Prydnadssmycken
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 176 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
-- Allmosa för smycken
+categories: – Allmosa (Zakāh) – Allmosa för smycken
 original_id: 619
 description: 'Fråga: De fyra imamerna har olika åsikter om smycken som kvinnor har
  som prydnad. En av dem säger att de är obligatoriskt enligt [vissa] villkor. En

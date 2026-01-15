@@ -3,9 +3,7 @@ title: Händerna på bröstet efter bugningen – om det är en innovation
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 476 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Praktiska detaljer i bönen
+categories: – Bön (Salāh) – Praktiska detaljer i bönen
 original_id: 955
 description: 'Fråga: Jag läste i en bok om profetens – över honom vare Allāhs frid
  och välsignelser – bön att det är en innovation att placera händerna på bröstet

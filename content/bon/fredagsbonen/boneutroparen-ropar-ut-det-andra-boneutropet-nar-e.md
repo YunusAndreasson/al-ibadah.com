@@ -1,12 +1,9 @@
 ---
-title: Böneutroparen ropar ut det andra böneutropet när en person går in i moskén
- – om han då bör be hälsningsbönen för moskén
+title: Böneutroparen ropar ut det andra böneutropet när en person går in i moskén – om han då bör be hälsningsbönen för moskén
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 558 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Fredagsbönen
+categories: – Bön (Salāh) – Fredagsbönen
 original_id: 1004
 description: 'Fråga: Om någon går in i moskén under fredagen medan böneutroparen
  ropar ut det andra böneutropet, bör denne då be hälsningsbönen till moskén eller

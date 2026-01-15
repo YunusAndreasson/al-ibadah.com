@@ -3,9 +3,7 @@ title: Vallfärdar utan mannens tillstånd
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 48 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Kvinnans vallfärd
+categories: – Vallfärd (Hajj) – Kvinnans vallfärd
 original_id: 710
 description: 'Fråga: Om maken inte godkänner kvinnans vallfärd, är den då giltig?
  Och om maken ger kvinnan rätt att vallfärda, kan han då sedan ändra sig? Har han

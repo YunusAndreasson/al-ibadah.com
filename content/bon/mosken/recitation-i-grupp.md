@@ -3,9 +3,7 @@ title: Recitation i grupp
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Moskén
+categories: – Bön (Salāh) – Moskén
 original_id: 1662
 description: 'Fråga: Vilket är utlåtandet om att i grupp recitera Koranen i en moské? Svar: Denna
  fråga är generell.  Om du med din fråga menar att man reciterar verser med en röst

@@ -3,9 +3,7 @@ title: Höja händerna i åkallan efter den obligatoriska bönen
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 263 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Innovationer
+categories: – Troslära (ʿAqīdah) – Innovationer
 original_id: 1499
 description: 'Fråga: Har det rapporterats att profeten – över honom vare Allāhs frid
  och välsignelser – brukade höja händerna vid åkallan efter den obligatoriska bönen?

@@ -3,9 +3,7 @@ title: Kasta stenar på pelarna under natten
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 248 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Stenkastningen
+categories: – Vallfärd (Hajj) – Stenkastningen
 original_id: 856
 description: 'Fråga: Får den som inte har någon ursäkt kasta stenar på pelarna nattetid
  under at-ayyām at-tashrīq? Får den som beger sig från Muzdalifah med kvinnor,

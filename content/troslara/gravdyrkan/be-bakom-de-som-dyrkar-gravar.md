@@ -3,9 +3,7 @@ title: Be bakom de som dyrkar gravar
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 223 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Gravdyrkan
+categories: – Troslära (ʿAqīdah) – Gravdyrkan
 original_id: 238
 description: 'Fråga: Vilket är utlåtandet om att be bakom en imam som tror att en
  rättfärdig gravinvånare har krafter som kan åstadkomma gott eller ont? Svar: Det

@@ -3,9 +3,7 @@ title: Avsikt till att fasta
 author: Ibn ʿAbdur-Rahman al-Jibrin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 326 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Blandade utlåtanden
+categories: – Fasta (Sawm) – Blandade utlåtanden
 original_id: 1412
 description: 'Fråga: Vad avses med denna hadīth : ” Det finns ingen fasta för den
  som inte utformar intentionen under natten [före fastan] .” Hur utformar man avsikten

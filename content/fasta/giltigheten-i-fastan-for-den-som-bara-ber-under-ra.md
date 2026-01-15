@@ -1,8 +1,7 @@
 ---
 title: Giltigheten i fastan för den som bara ber under ramadan
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-categories:
-- Fasta (Sawm)
+categories: – Fasta (Sawm)
 original_id: 1277
 description: 'Fråga: Om någon fastar och ber enbart under ramadan, men slutar att
  be så fort ramadan är över, är dennes fasta då giltig? Svar: All lovprisan tillhör

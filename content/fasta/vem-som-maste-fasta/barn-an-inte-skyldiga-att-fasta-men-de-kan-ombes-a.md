@@ -3,9 +3,7 @@ title: Barn än inte skyldiga att fasta men de kan ombes att göra det
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 328 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Vem som måste fasta
+categories: – Fasta (Sawm) – Vem som måste fasta
 original_id: 477
 description: 'Fråga: Mitt lilla barn fastar hela tiden under ramadan trots att fastan
  är skadlig för honom på grund av hans låga ålder och hans dåliga hälsa. Bör jag

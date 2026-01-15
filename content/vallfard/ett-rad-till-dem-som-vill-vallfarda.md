@@ -4,8 +4,7 @@ author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 21 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Vallfärd (Hajj)
+categories: – Vallfärd (Hajj)
 original_id: 700
 description: 'Fråga: All lovprisan tillhör Allāh ensam och må böner med välsignelser
  och frid vara över Hans tjänare och Budbärare, vår profet Muhammad, och hans följeslagare
@@ -44,7 +43,7 @@ Och Han har sagt:
 > 
 > 
 > 
-> ”Dessa är de gränser som Gud [har fastställt]. Gud ska föra den som lyder Honom och Hans sändebud till lustgårdar, vattnade av bäckar, där han ska förbli till evig tid. Detta är den stora, den lysande segern. Men den som trotsar Gud och Hans Sändebud och överträder de gränser Han [har fastställt] ska föras till Elden och förbli där till evig tid – ett förnedrande straff väntar honom.” [Koranen 4:13–14] Och Han har sagt: ”Säg: ’Människor! Jag är Guds Sändebud, [utsänd] till er alla av Honom som äger herraväldet över himlarna och jorden! Det finns ingen gud utom Han – Han som skänker liv och skänker död. Tro därför på Gud och Hans Sändebud, den olärde Profeten, som tror på Gud och Hans ord, och följ honom så att ni får vägledning.” [Koranen 7:158]
+> ”Dessa är de gränser som Gud [har fastställt]. Gud ska föra den som lyder Honom och Hans sändebud till lustgårdar, vattnade av bäckar, där han ska förbli till evig tid. Detta är den stora, den lysande segern. Men den som trotsar Gud och Hans Sändebud och överträder de gränser Han [har fastställt] ska föras till Elden och förbli där till evig tid – ett förnedrande straff väntar honom.” [Koranen 4:13 – 14] Och Han har sagt: ”Säg: ’Människor! Jag är Guds Sändebud, [utsänd] till er alla av Honom som äger herraväldet över himlarna och jorden! Det finns ingen gud utom Han – Han som skänker liv och skänker död. Tro därför på Gud och Hans Sändebud, den olärde Profeten, som tror på Gud och Hans ord, och följ honom så att ni får vägledning.” [Koranen 7:158]
 > 
 > 
 > 

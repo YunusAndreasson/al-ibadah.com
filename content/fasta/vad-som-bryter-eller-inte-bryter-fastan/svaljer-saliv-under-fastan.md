@@ -3,9 +3,7 @@ title: Sväljer saliv under fastan
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 260 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Vad som bryter eller inte bryter fastan
+categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 415
 description: 'Fråga: Vilket är utlåtandet om att svälja saliv när man fastar? Svar: Saliv
  skadar inte fastan då det endast är spott. Om man sväljer den är det ingen fara

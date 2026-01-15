@@ -4,9 +4,7 @@ author: Ibn ʿAbdullah Ibn Bāz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 40 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Tawassul [Medel för att åkalla Allāh]
+categories: – Troslära (ʿAqīdah) – Tawassul [Medel för att åkalla Allāh]
 original_id: 34
 description: 'Fråga: Att söka Allāhs närhet genom att slakta får vid de rättfärdigas
  gravar är vanligt bland mitt folk. Jag motsade mig det, men de blev ännu orubbligare.
@@ -17,11 +15,11 @@ description: 'Fråga: Att söka Allāhs närhet genom att slakta får vid de rä
 
 **Svar:** Från bevisen i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]* är det känt att det är *shirk[^1]* att söka närhet genom att slakta för någon annan än Allāh som fromma människor, *jinn[^4]*, avgudar eller något annat skapat. Detta gjorde hedningarna före islam. Allāh den Upphöjde säger:
 
-> ”Säg: 'Min bön och all min andakt, mitt liv och min död tillhör Gud, världarnas Herre. Han som inte har någon vid Sin sida; till detta har jag kallats och jag är den förste av dem som har underkastat sig Guds vilja.” [Koranen 6:162–163]
+> ”Säg: 'Min bön och all min andakt, mitt liv och min död tillhör Gud, världarnas Herre. Han som inte har någon vid Sin sida; till detta har jag kallats och jag är den förste av dem som har underkastat sig Guds vilja.” [Koranen 6:162 – 163]
 
 Allāh den Upphöjde klargör i denna vers att offer till någon annan än Honom är shirk[^1], precis som det är att förrätta bönen för någon annan Honom. Allāh den Upphöjde säger:
 
-> ”Vi har sannerligen gett dig det goda i överflöd! Be därför till din Herre och förrätta [ditt] offer!” [Koranen 108:1–2]
+> ”Vi har sannerligen gett dig det goda i överflöd! Be därför till din Herre och förrätta [ditt] offer!” [Koranen 108:1 – 2]
 
 I denna sura lär Allāh – upphöjd är Han – Sin Profet att [han ska] be och offra till Honom. Detta står i motsats till de som begått shirk[^1], som ber och slaktar för andra än Allāh. Allāh den Upphöjde säger:
 

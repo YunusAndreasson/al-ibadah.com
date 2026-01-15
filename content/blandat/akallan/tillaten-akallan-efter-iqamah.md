@@ -3,9 +3,7 @@ title: Tillåten åkallan efter iqāmah
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 124 s. ISBN saknas'
-categories:
-- Blandat
-- Åkallan
+categories: – Blandat – Åkallan
 original_id: 1457
 description: 'Fråga: Efter fredagsbönen berättade imamen för oss ”att när vi gjort iqāmah bör
  vi inte läsa någon åkallan som inte har rapporterats från profeten – över honom

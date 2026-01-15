@@ -3,9 +3,7 @@ title: Åkalla för världsliga önskningar
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 293 s. ISBN saknas'
-categories:
-- Blandat
-- Åkallan
+categories: – Blandat – Åkallan
 original_id: 696
 description: 'Fråga: Är det tillåtet för oss att åkalla under bönen för rent världsliga
  önskningar? Är det bäst att åkalla när bönen är klar, efter första tashahhud eller

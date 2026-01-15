@@ -3,9 +3,7 @@ title: Den som inte ber är en icke-troende
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 379 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Överger eller missar bönen
+categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 1530
 description: 'Fråga: Mitt problem kan sammanfattas på följande sätt: Min man är alkoholist
  och varken ber eller fastar under ramadan. Han varit arbetslös under flera år. Jag

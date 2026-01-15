@@ -4,9 +4,7 @@ author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 301 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Fasta (Sawm)
-- Amning och graviditet
+categories: – Fasta (Sawm) – Amning och graviditet
 original_id: 454
 description: 'Fråga: Om en gravid eller ammande kvinna under ramadan är rädd för
  sin egens eller för barnets skull och hon bryter fastan, vad är hon då skyldig att

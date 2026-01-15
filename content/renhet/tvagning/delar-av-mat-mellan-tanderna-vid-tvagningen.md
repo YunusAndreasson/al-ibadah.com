@@ -3,9 +3,7 @@ title: Delar av mat mellan tänderna vid tvagningen
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 83 s. ISBN saknas'
-categories:
-- Renhet (Tahārah)
-- Tvagning
+categories: – Renhet (Tahārah) – Tvagning
 original_id: 1435
 description: 'Fråga: Ibland finner jag matrester mellan mina tänder. Måste jag ta
  bort dem innan jag tvagar mig? Svar: För mig är det uppenbart att det inte är

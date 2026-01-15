@@ -3,9 +3,7 @@ title: Tiden för att stå vid Arafat
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 215 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Stå vid Arafat
+categories: – Vallfärd (Hajj) – Stå vid Arafat
 original_id: 838
 description: 'Fråga: En person tog del av vallfärdsriterna men hade inte möjlighet
  att under dagtid stå vid Arafat. Får denne då stå vid Arafat när folket har gett

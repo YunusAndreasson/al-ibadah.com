@@ -3,9 +3,7 @@ title: Rörelser som gör bönen ogiltig
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 247 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Vad som gör eller inte gör bönen ogiltig
+categories: – Bön (Salāh) – Vad som gör eller inte gör bönen ogiltig
 original_id: 257
 description: 'Fråga: Det har sagts att bönen blir ogiltig genom tre onödiga rörelser,
  stämmer det? Svar: Allāhs tjänare måste undvika onödiga rörelser då han börjat

@@ -3,9 +3,7 @@ title: Bön på vägar
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 33 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Moskén
+categories: – Bön (Salāh) – Moskén
 original_id: 377
 description: 'Fråga: Inkluderas vägar bland de platser där det är förbjudet att be
  och vilka bevis finns för detta? Hur får vi det i samklang med profetens – över

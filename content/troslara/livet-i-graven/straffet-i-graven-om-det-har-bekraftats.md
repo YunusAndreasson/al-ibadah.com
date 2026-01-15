@@ -4,18 +4,16 @@ author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 166 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Livet i graven
+categories: – Troslära (ʿAqīdah) – Livet i graven
 original_id: 1178
 description: 'Fråga: Har man bekräftat straffet i graven? Svar: Straffet har
  entydigt bekräftats genom tydliga bevis i [profetens – över honom vare Allāhs frid
- och välsignelser –] sunnah, Koranens uppenba...'
+ och välsignelser – ] sunnah, Koranens uppenba...'
 ---
 
 **Fråga:** Har man bekräftat straffet i graven?
 
-**Svar:** Straffet har entydigt bekräftats genom tydliga bevis i [profetens – över honom vare Allāhs frid och välsignelser –] *sunnah[^1]*, Koranens uppenbara innebörd och Muslimers samstämmighet. Och detta är tre källor för bevis.
+**Svar:** Straffet har entydigt bekräftats genom tydliga bevis i [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah[^1]*, Koranens uppenbara innebörd och Muslimers samstämmighet. Och detta är tre källor för bevis.
 
 Ett entydigt bevis från profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* är när han sade: ”*Sök tillflykt hos Allāh från straffet i graven, sök tillflykt hos Allāh från straffet i graven, sök tillflykt hos Allāh från straffet i graven*.” [Muslim 2867] Muslimer är eniga för i bönen säger alla: ”*Jag söker min tillflykt hos Allāh från Helveteseldens straff och från straffet i graven*.” Samtliga muslimer, även de som inte utgör konsensus och även de som inte är lärde, ber på detta sätt.
 

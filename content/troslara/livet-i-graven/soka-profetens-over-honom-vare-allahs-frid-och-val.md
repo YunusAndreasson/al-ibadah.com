@@ -5,12 +5,9 @@ author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 103 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Livet i graven
+categories: – Troslära (ʿAqīdah) – Livet i graven
 original_id: 919
-description: 'Fråga: Är profetens – över honom vare Allāhs frid och välsignelser
- – vid liv i sin grav, levandes ett kroppsligt liv eller det på gränsen mellan detta
+description: 'Fråga: Är profetens – över honom vare Allāhs frid och välsignelser – vid liv i sin grav, levandes ett kroppsligt liv eller det på gränsen mellan detta
  livet och det Nästkommande fritt från plikter...'
 ---
 
@@ -23,7 +20,7 @@ description: 'Fråga: Är profetens – över honom vare Allāhs frid och välsi
 > 
 > 
 > 
-> ”Allt på jorden ska förgå; men din Herre förblir i evighet i Sitt majestät och Sin härlighet.” [Koranen 55:26–27]
+> ”Allt på jorden ska förgå; men din Herre förblir i evighet i Sitt majestät och Sin härlighet.” [Koranen 55:26 – 27]
 > 
 > 
 > 

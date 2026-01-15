@@ -4,9 +4,7 @@ title: Hjärtat är platsen för avsikten och det är rekommenderat att uttala d
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 114 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Ihrām och avsikten inför vallfärden
+categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
 original_id: 754
 description: 'Fråga: Uttalas avsikten för ihrām muntligt med tungan? Hur utförs
  den om pilgrimen vallfärdar för en annan persons räkning? Svar: Platsen för

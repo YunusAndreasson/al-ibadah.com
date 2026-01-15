@@ -3,9 +3,7 @@ title: Utse någon som kastar stenar på pelarna
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 163 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Utse någon annan som vallfärdar
+categories: – Vallfärd (Hajj) – Utse någon annan som vallfärdar
 original_id: 789
 description: 'Fråga: När är det tillåtet att utse någon som kastar stenar på pelarna
  och finns det någon restriktion om vilka dagar det är tillåtet att utse någon? Svar: Det

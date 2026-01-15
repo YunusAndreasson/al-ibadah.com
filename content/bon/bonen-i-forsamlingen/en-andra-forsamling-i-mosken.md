@@ -3,9 +3,7 @@ title: En andra församling i moskén
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 348 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Bönen i församlingen
+categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 310
 description: 'Fråga: Det finns några som kommer sent till bönen och bildar en andra
  församling då de missat bönen med den vanliga imamen. Vilket är utlåtandet om detta? Svar: Om

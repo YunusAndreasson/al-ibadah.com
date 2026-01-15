@@ -3,9 +3,7 @@ title: Den fria viljan
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Majmū Fatāwa al-shaykh Ibn ‘Uthaymīn, vol. 2. Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Allāhs förutbestämmelse
+categories: – Troslära (ʿAqīdah) – Allāhs förutbestämmelse
 original_id: 528
 description: 'Fråga: Har människan en fri vilja eller följer vi en väg som Allāh
  har stakat ut? Svar: Frågeställaren bör fråga sig om någon tvingade honom att
@@ -39,7 +37,7 @@ Svaret är att det som den vise gör utan tvekan görs genom dennes eget val. Ly
 
 Men om någon vill göra något och sedan gör det, då vet vi att Allāh ville det. Allāh säger:
 
-> ”Till dem av er som vill följa en rak väg. Men ni kan bara vilja [det] i den mån Gud, världarnas Herre, vill [att ni följer denna väg].” [Koranen 81:27–29]
+> ”Till dem av er som vill följa en rak väg. Men ni kan bara vilja [det] i den mån Gud, världarnas Herre, vill [att ni följer denna väg].” [Koranen 81:27 – 29]
 
 Då Hans herravälde [*rubūbiyyah*] är komplett och perfekt kan ingenting inträffa i himlarna eller på jorden utom om det inträffar genom Hans vilja.
 

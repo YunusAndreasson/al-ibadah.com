@@ -2,9 +2,7 @@
 title: Mannen vill ha sex, men inte kvinnan då hon är sjuk
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Fatāwa az-Zawāj wa 'Ishratun-Nisā – fråga 72, sida 103
-categories:
-- Blandat
-- Äktenskap
+categories: – Blandat – Äktenskap
 original_id: 1715
 description: 'Fråga: Syndar kvinnan om hon vägrar att ha sex med sin man, om han
  vill det? Detta inträffar då hon mår dåligt. Svar: Det är obligatoriskt för kvinnan

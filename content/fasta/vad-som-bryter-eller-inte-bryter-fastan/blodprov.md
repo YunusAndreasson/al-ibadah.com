@@ -3,9 +3,7 @@ title: Blodprov
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 275 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Vad som bryter eller inte bryter fastan
+categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 429
 description: 'Fråga: Vilket är utlåtandet om den som tar ett blodprov då denne fastar
  under ramadan? Blodet tas från den högra armen. Man tar inte speciellt mycket. Svar: Blodprov

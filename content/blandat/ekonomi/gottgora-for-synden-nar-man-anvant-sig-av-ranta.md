@@ -3,9 +3,7 @@ title: Gottgöra för synden när man använt sig av ränta
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Ekonomi
+categories: – Blandat – Ekonomi
 original_id: 1646
 description: 'Fråga: En släkting till mig avled medan han handlade med ränta och
  nu vill vi gottgöra denna synd för hans räkning. Vilken är den föreskrivna metoden

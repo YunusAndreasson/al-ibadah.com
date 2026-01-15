@@ -4,9 +4,7 @@ title: Vad den som inte har möjlighet att göra tawāf då han anländer [tawā
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 184 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Tawāf och sa’ī
+categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 811
 description: 'Fråga: Den som inte kan utföra tawāful-qudum då han inte hann nå
  Mecka innan eftermiddagsbönen under Arafat-dagen [den nionde thul-hijjah ], bör

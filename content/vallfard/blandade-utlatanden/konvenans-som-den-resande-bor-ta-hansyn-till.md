@@ -3,9 +3,7 @@ title: Konvenans som den resande bör ta hänsyn till
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fatāwa Ibn ʿUthaymīn, 21/16 Muhammed Knut Bernström (1421), Koranens budskap
  . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Vallfärd (Hajj)
-- Blandade utlåtanden
+categories: – Vallfärd (Hajj) – Blandade utlåtanden
 original_id: 1307
 description: 'Fråga: Finns det någon speciell konvenans som den resande bör ta hänsyn
  till, speciellt när denne vallfärdar? Svar: All lovprisan tillhör Allāh. De
@@ -48,7 +46,7 @@ Slut på citat ifrån al-Nawawi.
 
 Shaykh Ibn ʿUthaymīn har sagt:
 
-> God ton för vallfärdande delas i två kategorier: obligatorisk och rekommenderad. Den obligatoriska konvenansen innebär att den resande fullföljer alla skyldigheter och pelare [väsentliga delar] för vallfärden. Undvik speciellt det som är förbjudet under *ihrām[^12]* och det som generellt sett är förbjudet– oavsett om det är förbjudet i eller utanför ihrām[^12]. Allāh säger: ”*Vallfärden [ska fullgöras under] de kända månaderna. Den som då beger sig i väg ska så länge vallfärden varar avhålla sig från intim samvaro med kvinnor, grovt tal samt trätor och tvister*.” [Koranen 2:197]
+> God ton för vallfärdande delas i två kategorier: obligatorisk och rekommenderad. Den obligatoriska konvenansen innebär att den resande fullföljer alla skyldigheter och pelare [väsentliga delar] för vallfärden. Undvik speciellt det som är förbjudet under *ihrām[^12]* och det som generellt sett är förbjudet – oavsett om det är förbjudet i eller utanför ihrām[^12]. Allāh säger: ”*Vallfärden [ska fullgöras under] de kända månaderna. Den som då beger sig i väg ska så länge vallfärden varar avhålla sig från intim samvaro med kvinnor, grovt tal samt trätor och tvister*.” [Koranen 2:197]
 > 
 > 
 > 

@@ -4,9 +4,7 @@ author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 236 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Vallfärd (Hajj)
-- Stenkastningen
+categories: – Vallfärd (Hajj) – Stenkastningen
 original_id: 1556
 description: 'Fråga: Somliga stannar i Mina under en natt, vilken är den elfte natten,
  och de kastar stenarna på pelarna för den tolfte dagen under den elfte dagen. De

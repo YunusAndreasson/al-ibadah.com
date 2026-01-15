@@ -3,9 +3,7 @@ title: Pilgrim som förkortar bönen under vallfärden
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 429 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Blandade utlåtanden
+categories: – Vallfärd (Hajj) – Blandade utlåtanden
 original_id: 344
 description: 'Fråga: Vilket är utlåtandet om en pilgrim som förkortar bönen under
  vallfärden när han vistas i Mecka under mer än fyra dagar? Svar: Bor pilgrimen

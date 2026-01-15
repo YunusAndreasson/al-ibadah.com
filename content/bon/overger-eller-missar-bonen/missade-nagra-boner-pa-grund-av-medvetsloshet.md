@@ -3,9 +3,7 @@ title: Missade några böner på grund av medvetslöshet
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 375 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Överger eller missar bönen
+categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 317
 description: 'Fråga: En man avled när han hade några obligatoriska böner att ta igen
  som han inte hade bett då han var sjuk och medvetslös. Behöver hans släktingar,

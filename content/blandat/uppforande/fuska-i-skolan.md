@@ -2,9 +2,7 @@
 title: Fuska i skolan
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Lajnah al-Dā’imah, 12/200
-categories:
-- Blandat
-- Uppförande
+categories: – Blandat – Uppförande
 original_id: 1702
 description: 'Fråga: Får elever fuska i skolan? Svar: Hadithen: ”Den som fuskar
  tillhör inte oss” är autentisk och generell i sin betydelse. Detta inkluderar fusk

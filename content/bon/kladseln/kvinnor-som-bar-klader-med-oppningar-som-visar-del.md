@@ -3,9 +3,7 @@ title: Kvinnor som bär kläder med öppningar som visar delar av ankeln
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 439 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Klädseln
+categories: – Bön (Salāh) – Klädseln
 original_id: 929
 description: 'Fråga: Vilket är utlåtandet om en kvinna som under bönen bär kläder
  med öppningar som visar delar av vristen? Hon säger att hon enbart ber tillsammans

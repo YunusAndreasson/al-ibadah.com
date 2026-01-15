@@ -3,9 +3,7 @@ title: Sjuk person som inte är tillräckligt stark för att fasta
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 281 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Vem som får bryta fastan
+categories: – Fasta (Sawm) – Vem som får bryta fastan
 original_id: 437
 description: 'Fråga: Det finns en person som lider av tuberkulos och det är svårt
  för honom att fasta under ramadan. Förra ramadan fastade han inte och undrar nu

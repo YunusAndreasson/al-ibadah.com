@@ -3,9 +3,7 @@ title: Åkallan under qunūt
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 321 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Nattbön (tarawih)
+categories: – Fasta (Sawm) – Nattbön (tarawih)
 original_id: 471
 description: 'Fråga: Vilket är utlåtandet om att läsa åkallan under qunūt i witr
  -bönen under ramadans nätter? Är det tillåtet att utelämna den? Svar: Qunūt är

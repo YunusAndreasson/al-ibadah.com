@@ -3,9 +3,7 @@ title: Deponera pengar i banker som använder ränta utan att ta någon vinst
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Ekonomi
+categories: – Blandat – Ekonomi
 original_id: 1645
 description: 'Fråga: Vilket är det islamiska utlåtandet om de som arbetar i banker
  och de som placerar deras pengar i dem utan att ta ut en räntebaserad vinst? Svar: Det

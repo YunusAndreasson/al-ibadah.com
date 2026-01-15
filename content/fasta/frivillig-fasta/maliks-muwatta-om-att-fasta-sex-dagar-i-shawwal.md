@@ -3,9 +3,7 @@ title: Māliks Muwatta' om att fasta sex dagar i shawwal
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 334 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+categories: – Fasta (Sawm) – Frivillig fasta (Shawwal, ashura-dagen, m.m.)
 original_id: 1416
 description: 'Fråga: Vad anser ni om att fasta sex dagar efter ramadan under shawwal?
  Sannerligen står det i Māliks Muwatta att imam Mālik bin Anas har sagt att han inte

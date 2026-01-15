@@ -3,9 +3,7 @@ title: Läsa Koranen över högtalare före fredagsbönen
 author: Ibn ʿAbdullah Ibn Baz
 source: Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh al-‘Allāmah ‘Abd
  al-‘Azīz ibn ‘Abd-Allāh ibn Bāz, del 12, s. 413
-categories:
-- Troslära (ʿAqīdah)
-- Innovationer
+categories: – Troslära (ʿAqīdah) – Innovationer
 original_id: 540
 description: 'Fråga: I vissa moskér i många delar av den muslimska världen läser
  man i högtalare innan fredagsbönen några verser från Koranen. Vilket är utlåtandet

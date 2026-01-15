@@ -2,9 +2,7 @@
 title: Gottgörelser efter misstag i ihrām
 author: Muhammad bin Salih al-ʿUthaymin
 source: Fatāwa al-shaykh Ibn ‘Uthaymīn, 22/205-206
-categories:
-- Vallfärd (Hajj)
-- Ihrām och avsikten inför vallfärden
+categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
 original_id: 1309
 description: 'Fråga: Somliga tror att om någon utför en handling som är förbjuden
  i ihrām så har denne en valmöjlighet mellan att offra ett djur, fasta under tre

@@ -3,9 +3,7 @@ title: Fasta i 31 dagar
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 234 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- När ramadhan börjar och slutar
+categories: – Fasta (Sawm) – När ramadhan börjar och slutar
 original_id: 397
 description: 'Fråga: Vi började fasta i Saudiarabien. Därefter reste vi till Ostasien
  under ramadan. Där ligger den islamiska hijri -månaden en dag back. Bör vi då fasta

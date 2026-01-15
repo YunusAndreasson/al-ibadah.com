@@ -4,9 +4,7 @@ title: Förklara en viss person som martyr och ett utlåtande om någon som drun
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 195 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Blandade utlåtanden
+categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
 original_id: 90
 description: 'Fråga: Jag har läst en hadīth från den hedervärde följeslagaren Abū
  Hurairah i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”Vem

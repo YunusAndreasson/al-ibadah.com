@@ -3,9 +3,7 @@ title: Slå ihop bönerna utan ursäkt
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 222 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Blandade utlåtanden
+categories: – Bön (Salāh) – Blandade utlåtanden
 original_id: 234
 description: 'Fråga: Är det tillåtet att slå ihop middagsbönen och eftermiddagsbönen
  varje dag? Svar: Det är inte tillåtet att slå ihop eftermiddags- eller kvällsbönerna

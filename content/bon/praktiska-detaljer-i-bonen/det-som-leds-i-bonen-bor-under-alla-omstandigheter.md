@@ -3,9 +3,7 @@ title: Det som leds i bönen bör under alla omständigheter recitera al-Fātiha
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 206 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Praktiska detaljer i bönen
+categories: – Bön (Salāh) – Praktiska detaljer i bönen
 original_id: 1490
 description: 'Fråga: Bör man recitera tillsammans med imamen eller lyssna på hans
  recitation? Svar: Den som leds i bönen måste alltid recitera al-Fātihah – både

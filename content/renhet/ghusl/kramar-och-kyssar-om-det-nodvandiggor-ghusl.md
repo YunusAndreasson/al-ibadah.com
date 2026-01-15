@@ -3,9 +3,7 @@ title: Kramar och kyssar – om det nödvändiggör ghusl
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 354 s. ISBN 9960-892-66-2'
-categories:
-- Renhet (Tahārah)
-- Ghusl [Den stora tvagningen]
+categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
 original_id: 1213
 description: 'Fråga: Är det nödvändigt med tvagning när man har kramats och kyssts? Svar: Varken
  kvinnor eller män behöver göra ghusl enbart efter att ha njutit av en omfamning

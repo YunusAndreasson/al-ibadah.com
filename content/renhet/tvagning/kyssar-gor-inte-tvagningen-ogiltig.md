@@ -3,9 +3,7 @@ title: Kyssar gör inte tvagningen ogiltig
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 79 s. ISBN saknas'
-categories:
-- Renhet (Tahārah)
-- Tvagning
+categories: – Renhet (Tahārah) – Tvagning
 original_id: 162
 description: 'Fråga: Gör kyssar tvagningen ogiltig? Svar: ‘A’ishah – må Allāh
  vara nöjd med henne – har rapporterat att profeten – över honom vare Allāhs frid

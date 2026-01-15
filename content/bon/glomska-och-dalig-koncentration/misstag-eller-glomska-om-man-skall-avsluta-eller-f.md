@@ -2,9 +2,7 @@
 title: Misstag eller glömska – om man ska avsluta eller fortsätta
 author: Muhammad bin Salih al-ʿUthaymin
 source: Fatāwa al-shaykh Muhammad al-‘Uthaymīn, 1/425
-categories:
-- Bön (Salāh)
-- Glömska och dålig koncentration
+categories: – Bön (Salāh) – Glömska och dålig koncentration
 original_id: 1297
 description: 'Fråga: Ibland, eller rättare sagt ofta, gör jag misstag under min bön.
  Antingen så glömmer jag hur många bönecykler jag har bett eller så är det något

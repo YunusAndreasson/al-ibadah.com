@@ -4,9 +4,7 @@ author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 271 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Bön (Salāh)
-- Glömska och dålig koncentration
+categories: – Bön (Salāh) – Glömska och dålig koncentration
 original_id: 1502
 description: 'Fråga: Jag känner ofta tvivel om hur många bönecykler jag har bett.
  Även när jag reciterat med höjd röst så att jag kommer ihåg vad jag har reciterat
@@ -15,7 +13,7 @@ description: 'Fråga: Jag känner ofta tvivel om hur många bönecykler jag har 
 
 **Fråga:** Jag känner ofta tvivel om hur många bönecykler[^1] jag har bett. Även när jag reciterat med höjd röst så att jag kommer ihåg vad jag har reciterat får jag tvivel. När jag har avslutat bönen känner jag att jag har glömt en bönecykel, nedfallan eller att sitta vid *tashahhud[^2]*. Detta sker trots att jag är mycket noggrann med att inte börja tvivla på min bön. Vad kan ni råda mig till?
 
-**Svar:** Du måste kämpa mot dessa viskningar, vidta försiktighetsåtgärder mot dem och söka din tillflykt hos Allāh från den utstötte djävulen. Detta enligt Allāhs den Upphöjdes ord: ”*Säg: ”Jag söker skydd hos människornas Herre, människornas Konung, människornas Gud, mot det onda som den förrädiske frestaren viskar i människors hjärtan, [viskar] genom [onda] osynliga väsen och [deras likar bland] människorna*.” [Koranen 114:1–5]
+**Svar:** Du måste kämpa mot dessa viskningar, vidta försiktighetsåtgärder mot dem och söka din tillflykt hos Allāh från den utstötte djävulen. Detta enligt Allāhs den Upphöjdes ord: ”*Säg: ”Jag söker skydd hos människornas Herre, människornas Konung, människornas Gud, mot det onda som den förrädiske frestaren viskar i människors hjärtan, [viskar] genom [onda] osynliga väsen och [deras likar bland] människorna*.” [Koranen 114:1 – 5]
 
 Och Hans ord: ”*Och om djävulen får din [vrede] att blossa upp, be då Gud beskydda dig; Han hör allt, vet allt*.” [Koranen 7:200]
 

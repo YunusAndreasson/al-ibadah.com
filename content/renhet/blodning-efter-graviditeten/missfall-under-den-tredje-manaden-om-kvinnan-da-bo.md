@@ -3,9 +3,7 @@ title: Missfall under den tredje månaden – om kvinnan då bör be
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 376 s. ISBN 9960-892-66-2'
-categories:
-- Renhet (Tahārah)
-- Blödning efter graviditeten
+categories: – Renhet (Tahārah) – Blödning efter graviditeten
 original_id: 1147
 description: 'Fråga: Bör en kvinna förrätta bön om hon får missfall under graviditetens
  tredje månad? Svar: Det är välkänt bland de lärda att när en kvinna får missfall

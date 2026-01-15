@@ -3,9 +3,7 @@ title: Avbryta bönen för att öppna dörren
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 221 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Vad som gör eller inte gör bönen ogiltig
+categories: – Bön (Salāh) – Vad som gör eller inte gör bönen ogiltig
 original_id: 232
 description: 'Fråga : Är det tillåtet att avbryta bönen för att öppna dörren eller
  svara i telefonen? Svar : Du måste be i moskén med församlingen, men om du försenades

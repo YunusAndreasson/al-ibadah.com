@@ -3,9 +3,7 @@ title: Imamen görtaslīmgenom att enbart säga as-salamu 'alaykum en gång
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 489 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Praktiska detaljer i bönen
+categories: – Bön (Salāh) – Praktiska detaljer i bönen
 original_id: 963
 description: 'Fråga: En imam gör taslīm genom att säga as-salamu ''alaykum enbart
  en gång, är det då tillräckligt att nöja sig själv med enbart en hälsning? Ge oss

@@ -3,13 +3,10 @@ title: Missade en bönecykel under förmörkelsebönen – hur man då tar igen 
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 566 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Att vara imam och bön bakom en imam
+categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
 original_id: 1240
 description: 'Fråga: Om någon missar en bönecykel av förmörkelsebönen, hur tar man
- då igen den? Svar: Om någon missar en bönecykel av förmörkelsebönen så har profeten
- – över honom vare Allāhs frid och välsi...'
+ då igen den? Svar: Om någon missar en bönecykel av förmörkelsebönen så har profeten – över honom vare Allāhs frid och välsi...'
 ---
 
 **Fråga:** Om någon missar en bönecykel[^1] av förmörkelsebönen, hur tar man då igen den?

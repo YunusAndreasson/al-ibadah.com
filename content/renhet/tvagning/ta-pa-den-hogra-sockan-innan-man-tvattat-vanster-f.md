@@ -3,9 +3,7 @@ title: Ta på den högra sockan innan man tvättat vänster fot
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 100 s. ISBN saknas'
-categories:
-- Renhet (Tahārah)
-- Tvagning
+categories: – Renhet (Tahārah) – Tvagning
 original_id: 1441
 description: 'Fråga: Någon berättade för mig att man inte får ta på sig höger sock
  innan man har tvättat vänster fot under tvagningen. För länge sedan har jag läst

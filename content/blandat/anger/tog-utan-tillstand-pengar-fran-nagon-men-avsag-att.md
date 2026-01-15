@@ -3,9 +3,7 @@ title: Tog utan tillstånd pengar från någon men avsåg att lämna tillbaka de
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 266 s. ISBN saknas'
-categories:
-- Blandat
-- Ånger
+categories: – Blandat – Ånger
 original_id: 675
 description: 'Fråga: Jag brukade jobba som inkasserare och en gång använde jag lite
  pengar som jag var ansvarig för, men jag avsåg att det skulle vara ett förskott

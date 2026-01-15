@@ -3,9 +3,7 @@ title: Ber man bakom imamen är det en skyldighet att följa honom
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 232 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Nedfallan vid recitation
+categories: – Bön (Salāh) – Nedfallan vid recitation
 original_id: 243
 description: 'Fråga: Får man göra sajdatut-tilawah bakom imamen, om imamen reciterar
  en vers i vilken det finns sajdatut-tilawah och imamen själv inte nedfaller[^1]? Svar: Den

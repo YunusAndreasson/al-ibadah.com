@@ -3,9 +3,7 @@ title: Vad finns det för villkor för dyrkan inom islam?
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius.
  ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Förståelse av islam
+categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 514
 description: 'Fråga: Vad finns det för villkor för dyrkan inom islam? Svar: För
  det första: dyrkan måste vara enligt den islamiska lagen och dess syften. Den som

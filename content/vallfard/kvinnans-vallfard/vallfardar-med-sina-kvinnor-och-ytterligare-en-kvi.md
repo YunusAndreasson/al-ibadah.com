@@ -3,9 +3,7 @@ title: Vallfärdar med sina kvinnor och ytterligare en kvinna utan mahram följe
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 49 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Kvinnans vallfärd
+categories: – Vallfärd (Hajj) – Kvinnans vallfärd
 original_id: 711
 description: 'Fråga: Jag vallfärdade med mina kvinnor [kvinnliga släktingar och fruar].
  En äldre kvinna som inte hade någon mahram följde med dem. Jag försörjde henne,

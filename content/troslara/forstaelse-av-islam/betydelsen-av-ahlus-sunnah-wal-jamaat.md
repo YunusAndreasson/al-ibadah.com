@@ -3,9 +3,7 @@ title: Betydelsen av ahlus-sunnah wal-jamā’at
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muhammad ibn Sālih al-‘Uthaymīn,
  vol. 1. p. 37
-categories:
-- Troslära (ʿAqīdah)
-- Förståelse av islam
+categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 493
 description: 'Fråga: Vilka är ahlus-sunnah wal-jamā’at? Svar: Ahlus-sunnah
  wal-jamā’at är dem som vänder sig till och förenar sig kring profetens – över honom

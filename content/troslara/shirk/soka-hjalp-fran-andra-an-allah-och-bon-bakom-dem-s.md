@@ -3,9 +3,7 @@ title: Söka hjälp från andra än Allāh och bön bakom dem som gör det
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 163 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Shirk [Att sätta något vid Allāhs sida]
+categories: – Troslära (ʿAqīdah) – Shirk [Att sätta något vid Allāhs sida]
 original_id: 79
 description: 'Fråga: Det finns en man som bor i ett samhälle där folket söker hjälp
  från andra än Allāh. Får han be bakom dem? Bör han flytta därifrån? Är deras shirk av

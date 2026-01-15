@@ -3,9 +3,7 @@ title: Sparade tillgångar
 author: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 161 s. ISBN saknas'
 source: Muhammad bin Sālih al-ʿUthaymīn
-categories:
-- Allmosa (Zakāh)
-- Allmosa för besparingar och månadslön
+categories: – Allmosa (Zakāh) – Allmosa för besparingar och månadslön
 original_id: 608
 description: 'Fråga: Krävs allmosa för de pengar som man sparar från månadslönen
  och som man har haft under ett år? Detta även om det inte är för en investering.

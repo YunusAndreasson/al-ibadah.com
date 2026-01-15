@@ -3,9 +3,7 @@ title: Kyssar, om det är synder under fastan
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 276 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Vad som bryter eller inte bryter fastan
+categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 1400
 description: 'Fråga: Om en ung eller gammal man kysser sin fru medan denne fastar,
  har denne då syndat? Svar: Den fastande har inte syndat genom att kyssa sin

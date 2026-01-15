@@ -3,9 +3,7 @@ title: Bad mot en annan riktning änqiblah
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 167 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Vad som gör eller inte gör bönen ogiltig
+categories: – Bön (Salāh) – Vad som gör eller inte gör bönen ogiltig
 original_id: 196
 description: 'Fråga: När vi kom till Amerika bad vi efter vår kompass, men det var
  inte i riktning mot qiblah . När vi lärde känna några av våra bröder så informerade

@@ -4,9 +4,7 @@ author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 252 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Fasta (Sawm)
-- Bryta och påbörja fastan
+categories: – Fasta (Sawm) – Bryta och påbörja fastan
 original_id: 1394
 description: 'Fråga: Vilket är utlåtandet om fastan för den som hörde böneutropet
  för gryningsbönen och sedan fortsatte att äta eller dricka? Svar: Den troende

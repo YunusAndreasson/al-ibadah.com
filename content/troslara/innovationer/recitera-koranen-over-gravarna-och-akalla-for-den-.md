@@ -3,9 +3,7 @@ title: Recitera Koranen över gravarna och åkalla för den avlidne
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 583 s. ISBN 9960-892-66-2'
-categories:
-- Troslära (ʿAqīdah)
-- Innovationer
+categories: – Troslära (ʿAqīdah) – Innovationer
 original_id: 1248
 description: 'Fråga: Vilket är utlåtandet om att recitera Koranen över gravarna och
  åkalla jämte graven för den avlidne? Svar: Att recitera Koranen över gravarna

@@ -2,9 +2,7 @@
 title: Kyssa och leka med sin fru under fasta
 author: Muhammad bin Salih al-ʿUthaymin
 source: Fatāwa Ramadan – Volume 2, Page 454, Fatwa No.383
-categories:
-- Fasta (Sawm)
-- Vad som bryter eller inte bryter fastan
+categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 1375
 description: 'Fråga: Får den som fastar kyssa sin fru och leka med henne i sängen
  under ramadan? Svar: Ja, den som fastar får kyssa sin fru och leka med henne

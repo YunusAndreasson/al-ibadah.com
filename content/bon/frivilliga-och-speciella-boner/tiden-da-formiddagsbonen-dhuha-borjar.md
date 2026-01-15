@@ -3,9 +3,7 @@ title: Tiden då förmiddagsbönen [dhuhā] börjar
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 320 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Frivilliga och speciella böner
+categories: – Bön (Salāh) – Frivilliga och speciella böner
 original_id: 301
 description: 'Fråga: När börjar förmiddagsbönen? Svar: Förmiddagsbönen börjar
  när solen har stigit tills skuggan från ett spjut är lika långt som spjutet själv

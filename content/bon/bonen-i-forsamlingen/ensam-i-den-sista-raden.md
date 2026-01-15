@@ -3,9 +3,7 @@ title: Ensam i den sista raden
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 536 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Bönen i församlingen
+categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 990
 description: 'Fråga: Är det tillåtet att be ensam i den sista raden eller bör man
  dra bak någon i raden framför? Svar: Om någon kommer och finner att raderna

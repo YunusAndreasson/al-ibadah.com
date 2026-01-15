@@ -3,9 +3,7 @@ title: Tidpunkter då det inte är tillåtet att be och undantag från dessa
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 291 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Tider då det är förbjudet att be
+categories: – Bön (Salāh) – Tider då det är förbjudet att be
 original_id: 284
 description: 'Fråga: Under vilka tidpunkter är det förbjudet att be? Svar: Tiderna
  då det är förbjudet att be är: då soluppgången har börjat tills solen har stigit

@@ -3,9 +3,7 @@ title: Stryker över sockarna under sommaren
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 104 s. ISBN saknas'
-categories:
-- Renhet (Tahārah)
-- Tvagning
+categories: – Renhet (Tahārah) – Tvagning
 original_id: 168
 description: 'Fråga: Jag märker att somliga av Allāhs tjänare stryker över deras
  sockar även under sommaren när de tvagar sig! Vänligen, ge mig ett utlåtande om

@@ -3,9 +3,7 @@ title: Studera böcker som innehåller bilder i moskén
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 31 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Moskén
+categories: – Bön (Salāh) – Moskén
 original_id: 375
 description: 'Fråga: Vissa elever memorerar deras läxor i moskén och de tar deras
  böcker med sig. Får de göra så då det finns bilder på människor och djur i skolböckerna?

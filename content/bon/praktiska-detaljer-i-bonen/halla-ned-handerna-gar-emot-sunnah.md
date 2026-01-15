@@ -3,13 +3,10 @@ title: Hålla ned händerna går emot sunnah
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 237 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Praktiska detaljer i bönen
+categories: – Bön (Salāh) – Praktiska detaljer i bönen
 original_id: 247
 description: 'Fråga: Vilket är utlåtandet om att hålla ned händerna under bönen? Svar: Att
- hålla ned händerna är att gå emot profetens – över honom vare Allāhs frid och välsignelser
- – sunnah. Det som är su...'
+ hålla ned händerna är att gå emot profetens – över honom vare Allāhs frid och välsignelser – sunnah. Det som är su...'
 ---
 
 **Fråga:** Vilket är utlåtandet om att hålla ned händerna under bönen?

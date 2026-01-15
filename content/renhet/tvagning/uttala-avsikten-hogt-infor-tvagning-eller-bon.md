@@ -3,9 +3,7 @@ title: Uttala avsikten högt inför tvagning eller bön
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 252 s. ISBN saknas'
-categories:
-- Renhet (Tahārah)
-- Tvagning
+categories: – Renhet (Tahārah) – Tvagning
 original_id: 262
 description: 'Fråga: Vilket är utlåtandet om att säga avsikten för bönen och tvagningen
  högt? Svar: Utlåtandet om detta är att det är en innovation. Anledningen är

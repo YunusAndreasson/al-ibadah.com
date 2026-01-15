@@ -3,9 +3,7 @@ title: Skyldigheten i att vara plikttrogen och god mot sina föräldrar
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Äktenskap
+categories: – Blandat – Äktenskap
 original_id: 1690
 description: 'Fråga: Ädle shaykh, mina barn lyder mig inte och de utför inte ens
  de minsta plikterna gentemot mig eller deras moder. Detta trots att hon är gammal

@@ -1,7 +1,6 @@
 ---
 title: Om översättningarna
-categories:
-- Information
+categories: – Information
 original_id: 2
 description: Materialet på al-Ibadah.com har främst hämtats från böckerna Fatawa
  Islamiyyah och Fatawa Arkan ul-Islam utgivna av Dar us-Salam. Översättningarna

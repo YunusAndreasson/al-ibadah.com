@@ -3,8 +3,7 @@ title: Villkor för att Allāh ska besvara och acceptera en åkallan
 author: al-Nawawi
 source: 'Sahīh Muslim bi Sharh al-Nawawi, 16/82 Muhammed Knut Bernström (1421), Koranens
  budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Blandat
+categories: – Blandat
 original_id: 1279
 description: 'Fråga: Vad finns det för villkor för att Allāh ska besvara och acceptera
  en åkallan? Svar: Detta finns många villkor för åkallan och nedan följer några: Du

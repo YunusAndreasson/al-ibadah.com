@@ -2,9 +2,7 @@
 title: Fel som begås när man går in i ihrāmför pilgrimsfärden under al-tarwiayh-dagen
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Dalīl al-Akhta’ allati yaqa’ fiha al-Hāj wa’l-Mu’tamir
-categories:
-- Vallfärd (Hajj)
-- al-Mawaqit
+categories: – Vallfärd (Hajj) – al-Mawaqit
 original_id: 882
 description: 'Fråga: Under den åttonde dagen i dhu’l-hijjah [ yawm al-tarwiyah
  ] lade vi märke till två saker som somliga gjorde: 1] de gick in i ihrām för pilgrimsfärden

@@ -3,9 +3,7 @@ title: Änglar går inte in i hem med bilder
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 224 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Änglarna
+categories: – Troslära (ʿAqīdah) – Änglarna
 original_id: 104
 description: 'Fråga: Är det sant att änglar inte går in i ett rum som det finns bilder
  i? Svar: I en autentiskt hadīth rapporteras att änglar inte går in i ett hem

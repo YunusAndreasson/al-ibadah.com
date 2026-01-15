@@ -3,9 +3,7 @@ title: Åkallan för föräldrarna är det bästa
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Äktenskap
+categories: – Blandat – Äktenskap
 original_id: 1696
 description: 'Fråga: Får jag ge till välgörenhet för min mors räkning? Kommer belöningen
  för den att nå min mor? Svar: Ja, du kan ge till välgörenhet för en avliden förälder

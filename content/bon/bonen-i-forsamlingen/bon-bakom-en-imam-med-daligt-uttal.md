@@ -3,9 +3,7 @@ title: Bön bakom en imam med dåligt uttal
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 410 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Bönen i församlingen
+categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 329
 description: 'Fråga: Det finns en imam med dåligt grammatiskt uttal. Ibland missar
  eller lägger han till bokstäver när han reciterar Koranen. Vilket är utlåtandet

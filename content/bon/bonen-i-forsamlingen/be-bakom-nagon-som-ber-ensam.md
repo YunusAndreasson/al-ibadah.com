@@ -2,9 +2,7 @@
 title: Be bakom någon som ber ensam
 author: ‘Abd-Allāh ibn Humayd
 source: Fatāwa Samāhat al-Imam ‘Abd-Allāh ibn Humayd, s. 93
-categories:
-- Bön (Salāh)
-- Bönen i församlingen
+categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 547
 description: 'Fråga: Om en muslim börjar be själv, och någon annan kommer, går det
  då bra om denne följer den första personen i hans bön, eller ska denne undvika

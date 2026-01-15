@@ -3,9 +3,7 @@ title: Träda in i ihrām under at-tarwiyyah-dagen
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 120 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Ihrām och avsikten inför vallfärden
+categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
 original_id: 1338
 description: 'Fråga: Varifrån träder en pilgrim in i ihrām under at-tarwiyyah
  -dagen? Svar: Han går in i ihrām i sin bostad. På profetens – över honom vare

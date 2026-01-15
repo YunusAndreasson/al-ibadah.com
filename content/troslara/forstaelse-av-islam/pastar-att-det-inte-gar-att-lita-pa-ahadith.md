@@ -3,9 +3,7 @@ title: Påstår att det inte går att lita på ahādīth
 author: Sammanställning
 source: Mukhtasar al-Sawāiq al-Mursalah, 2/561, al-Bayān magazine, utgåva 153, s.
  26
-categories:
-- Troslära (ʿAqīdah)
-- Förståelse av islam
+categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 537
 description: 'Fråga: Somliga förkastar profetens – över honom vare Allāhs frid och
  välsignelser – sunnah eftersom det finns många svaga och påhittade ahādīth samt

@@ -3,9 +3,7 @@ title: Be jämte toaletter eller på deras tak
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 169 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Vad som gör eller inte gör bönen ogiltig
+categories: – Bön (Salāh) – Vad som gör eller inte gör bönen ogiltig
 original_id: 198
 description: 'Fråga: Får man be på en plats där den finns en toalett framför? Det
  enda som separerar är en vägg. Är det kanske bättre att be någon annanstans? Svar: Så

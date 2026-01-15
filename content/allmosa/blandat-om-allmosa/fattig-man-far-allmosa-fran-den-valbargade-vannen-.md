@@ -4,9 +4,7 @@ title: Fattig man får allmosa från den välbärgade vännen för att dela ut d
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 622 s. ISBN 9960-892-66-2'
-categories:
-- Allmosa (Zakāh)
-- Blandat om allmosa
+categories: – Allmosa (Zakāh) – Blandat om allmosa
 original_id: 1032
 description: 'Fråga: En fattig man får allmosa från en rik vän för att han ska
  dela ut den men sedan tar han den själv. Vilket är utlåtandet om detta? Svar: Han

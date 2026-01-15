@@ -3,9 +3,7 @@ title: Skjuta upp betalningen av allmosan eller zakātul-fitr
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 205 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
-- Hur och när den betalas
+categories: – Allmosa (Zakāh) – Hur och när den betalas
 original_id: 652
 description: 'Fråga: Är det tillåtet att behålla ens allmosa eller zakātul-fitr för
  att betala dem till någon fattig som man inte har haft möjlighet att komma i kontakt

@@ -3,9 +3,7 @@ title: Jiddah är inte en plats för mīqāt
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 89 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- al-Mawaqit
+categories: – Vallfärd (Hajj) – al-Mawaqit
 original_id: 1333
 description: 'Fråga: Somliga utfärdar fatwor till dem som anländer med flyg för att
  vallfärda. De säger att de får träda in i ihrām i Jiddah, men andra är emot det.

@@ -3,9 +3,7 @@ title: Lång fasta i nordliga länder
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 258 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Bryta och påbörja fastan
+categories: – Fasta (Sawm) – Bryta och påbörja fastan
 original_id: 413
 description: 'Fråga: I Skandinavien och norrut så får muslimerna där problem när
  nätterna och dagarna är väldigt långa eller väldigt korta. Ibland varar dagen under

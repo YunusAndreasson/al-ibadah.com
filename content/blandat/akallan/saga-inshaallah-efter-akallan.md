@@ -4,9 +4,7 @@ author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 275 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Blandat
-- Åkallan
+categories: – Blandat – Åkallan
 original_id: 683
 description: 'Fråga: Kan man säga ” insha-Allāh ” i en åkallan? Svar: När man
  åkallar bör man inte säg ” insha-Allāh .” Istället bör man vara bestämd när man

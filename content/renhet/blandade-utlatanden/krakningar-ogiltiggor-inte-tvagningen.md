@@ -2,9 +2,7 @@
 title: Kräkningar ogiltigör inte tvagningen
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Majmū’ Fatāwa Ibn ‘Uthaymīn, 11/198
-categories:
-- Renhet (Tahārah)
-- Blandade utlåtanden
+categories: – Renhet (Tahārah) – Blandade utlåtanden
 original_id: 533
 description: 'Fråga: Gör kräkningar tvagningen ogiltig? Svar: All lovprisan tillhör
  Allāh. Gör allt som kommer ut från någonting annat än fram- eller bakpassagerna

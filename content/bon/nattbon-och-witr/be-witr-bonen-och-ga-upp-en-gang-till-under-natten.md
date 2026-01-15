@@ -2,9 +2,7 @@
 title: Be witr-bönen och gå upp en gång till under natten för att be
 author: Ibn ʿAbdullah Ibn Baz
 source: Fatāwa al-Marah
-categories:
-- Bön (Salāh)
-- Nattbön och witr
+categories: – Bön (Salāh) – Nattbön och witr
 original_id: 571
 description: 'Fråga: Om jag bad witr under första delen av natten och sedan gick
  upp under den senare delen av natten – hur ska jag då be? Svar: Om du bad witr under

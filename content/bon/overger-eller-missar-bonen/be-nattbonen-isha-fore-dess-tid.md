@@ -2,9 +2,7 @@
 title: Be nattbönen [isha] före dess tid
 author: Muhammad bin Salih al-ʿUthaymin
 source: al-Sharh al-Mumti’, 2/88
-categories:
-- Bön (Salāh)
-- Överger eller missar bönen
+categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 1285
 description: 'Fråga: Är det tillåtet att be nattbönen[^1] precis före vi går och lägger
  oss, i stället för att be den på utsatt tid? Svar: All lovprisan tillhör Allāh.

@@ -3,9 +3,7 @@ title: Spenderade inte natten i Muzdalifah
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 221 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Natten i Muzdalifah
+categories: – Vallfärd (Hajj) – Natten i Muzdalifah
 original_id: 841
 description: 'Fråga: Vilket är utlåtandet om en pilgrim som inte spenderade natten
  före ‘eid [den tionde thul-hijjah ]? Svar: Det är obligatoriskt att tillbringa

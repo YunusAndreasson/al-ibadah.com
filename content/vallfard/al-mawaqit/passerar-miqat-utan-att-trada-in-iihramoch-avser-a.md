@@ -3,9 +3,7 @@ title: Passerar mīqāt utan att träda in i ihrām och avser att utföra pilgri
  och ‘umrah
 author: Muhammad bin Salih al-ʿUthaymin
 source: Dalīl al-Akhta’ allati yaqa’ fiha al-Hāj wa’l-Mu’tamir
-categories:
-- Vallfärd (Hajj)
-- al-Mawaqit
+categories: – Vallfärd (Hajj) – al-Mawaqit
 original_id: 1298
 description: 'Fråga: En man kom från sitt land till Jiddah med avsikt att utföra
  vallfärden och ‘umrah . Han trädde dock inte in i ihrām vid mīqāt utan i stället

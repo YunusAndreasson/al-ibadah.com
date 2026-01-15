@@ -3,9 +3,7 @@ title: Förkorta ”sal-Allāhu ʿalayhe wa sallam” till [S], [SAW] eller likn
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-ʿilmiyyah wal-Iftā., – volym 12,
  sida 208, fatwa No.5069
-categories:
-- Troslära (ʿAqīdah)
-- Sändebuden
+categories: – Troslära (ʿAqīdah) – Sändebuden
 original_id: 583
 description: 'Fråga: Är det tillåtet att skriva bokstaden [S] i stället för sal-Allāhu
  ʿalayhe wa sallam? Svar: Det är sunnah att skriva hela frasen ” sal-Allāhu

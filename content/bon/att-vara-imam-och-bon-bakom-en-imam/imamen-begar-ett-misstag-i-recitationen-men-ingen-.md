@@ -3,9 +3,7 @@ title: Imamen begår ett misstag i recitationen men ingen rättar honom
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 420 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Att vara imam och bön bakom en imam
+categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
 original_id: 337
 description: 'Fråga: Om imamen glömmer delar av en vers vid recitationen och det
  inte finns någon som kan rätta honom, bör han göra takbīr då och avsluta denna

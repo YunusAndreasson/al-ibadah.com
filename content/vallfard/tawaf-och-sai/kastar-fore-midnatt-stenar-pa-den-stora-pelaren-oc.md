@@ -3,9 +3,7 @@ title: Kastar före midnatt stenar på den stora pelaren och utför tawāf utan 
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 181 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Tawāf och sa’ī
+categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 806
 description: 'Fråga: Jag är en pilgrim som före midnatt kastade stenarna på den stora
  pelaren. Därefter begav jag mig direkt till helgedomen [den heliga Moskén] för att

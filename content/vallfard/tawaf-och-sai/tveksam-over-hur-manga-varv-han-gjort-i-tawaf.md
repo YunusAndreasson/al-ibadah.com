@@ -3,9 +3,7 @@ title: Tveksam över hur många varv han gjort i tawāf
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 183 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Tawāf och sa’ī
+categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 809
 description: 'Fråga: Under förra ramadan utförde jag riterna för ‘umrah . I slutet
  av tawāf drabbades jag av tveksamheter om hur många varv jag hade gjort – var

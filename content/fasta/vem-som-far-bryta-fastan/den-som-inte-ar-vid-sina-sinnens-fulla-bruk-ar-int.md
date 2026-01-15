@@ -3,9 +3,7 @@ title: Den som inte är vid sina sinnens fulla bruk är inte skyldig att fasta
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 287 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Vem som får bryta fastan
+categories: – Fasta (Sawm) – Vem som får bryta fastan
 original_id: 1402
 description: 'Fråga: Min dotter är 30 år och hon har barn. Hon har lidit av en mentalsjukdom
  under de senaste fjorton åren. I det förflutna har denna sjukdom påverkat henne

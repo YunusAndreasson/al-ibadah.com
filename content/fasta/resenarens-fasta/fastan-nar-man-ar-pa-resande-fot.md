@@ -3,9 +3,7 @@ title: Fastan när man är på resande fot
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 290 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Resenärens fasta
+categories: – Fasta (Sawm) – Resenärens fasta
 original_id: 1403
 description: 'Fråga: Är det ett villkor för att den som reser ska få medgivande
  att bryta fastan under ramadan att dennes resa är till fots eller med djur, eller

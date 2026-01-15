@@ -4,9 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 115 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Offer till andra än Allāh
+categories: – Troslära (ʿAqīdah) – Offer till andra än Allāh
 original_id: 71
 description: 'Fråga: Vilket är utlåtandet om någon som växer upp utan att känna till
  något mer än bönen och de fem pelarna, och som fullgör dem, men offrar till jinn samt
@@ -25,7 +23,7 @@ Allāh den Upphöjde säger:
 
 Och Han säger:
 
-> ”Och anropa inte i Guds ställe dem som varken kan gagna eller skada dig; om du gjorde detta skulle du bli en av dem som begår svår orätt mot sig själva. Om Gud låter en olycka drabba dig är Han den ende som kan avvärja den, och om Han vill skänka dig något gott kan ingen hindra detta goda [att nå dig]. Han skänker det till den Han vill av Sina tjänare. – Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet.” [Koranen 10:106–107]
+> ”Och anropa inte i Guds ställe dem som varken kan gagna eller skada dig; om du gjorde detta skulle du bli en av dem som begår svår orätt mot sig själva. Om Gud låter en olycka drabba dig är Han den ende som kan avvärja den, och om Han vill skänka dig något gott kan ingen hindra detta goda [att nå dig]. Han skänker det till den Han vill av Sina tjänare. – Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet.” [Koranen 10:106 – 107]
 
 Och Han säger:
 

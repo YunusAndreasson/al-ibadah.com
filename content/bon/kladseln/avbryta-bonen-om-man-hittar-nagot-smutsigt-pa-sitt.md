@@ -3,9 +3,7 @@ title: Avbryta bönen om man hittar något smutsigt på sitt klädesplagg
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 207 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Klädseln
+categories: – Bön (Salāh) – Klädseln
 original_id: 222
 description: 'Fråga: Om jag glömde och bad i ett klädesplagg som det fanns lite smuts
  på och sedan kom ihåg det under bönen, kan jag då avbryta bönen och byta plagg?

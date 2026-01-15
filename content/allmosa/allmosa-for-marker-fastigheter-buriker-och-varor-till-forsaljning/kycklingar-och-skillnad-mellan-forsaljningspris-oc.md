@@ -3,9 +3,7 @@ title: Kycklingar och skillnad mellan försäljningspris och egentligt värde
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 174 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
-- Allmosa för marker, fastigheter, buriker och varor till försäljning
+categories: – Allmosa (Zakāh) – Allmosa för marker, fastigheter, buriker och varor till försäljning
 original_id: 618
 description: 'Fråga: Får jag betala allmosa för en kycklingfarm baserat på dess värde? Svar: Allt
  som en muslim äger i form av tillgångar som är till försäljning, oavsett om

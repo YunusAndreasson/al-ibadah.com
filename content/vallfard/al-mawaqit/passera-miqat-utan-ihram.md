@@ -3,9 +3,7 @@ title: Passera mīqāt utan ihrām
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 83 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- al-Mawaqit
+categories: – Vallfärd (Hajj) – al-Mawaqit
 original_id: 1331
 description: 'Fråga: Vilket är utlåtandet om den som passerar mīqāt utan att träda
  in i ihrām, oavsett om det var för vallfärden, ‘umrah eller något annat

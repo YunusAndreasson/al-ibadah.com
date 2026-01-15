@@ -3,9 +3,7 @@ title: Saker som människor säger av misstag
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 208 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Blandade utlåtanden
+categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
 original_id: 95
 description: 'Fråga: Vi hör ibland vanligt folk säga saker som vi är oroliga för
  att det kan vara shirk. Detta kan vara när de säger: ”Jag tror inte att Allāh skulle...”

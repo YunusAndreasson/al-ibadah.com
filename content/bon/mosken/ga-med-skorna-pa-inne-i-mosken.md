@@ -3,9 +3,7 @@ title: Gå med skorna på inne i moskén
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 450 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Moskén
+categories: – Bön (Salāh) – Moskén
 original_id: 936
 description: 'Fråga: Vilket är utlåtandet om att gå med skorna på inne i moskén? Svar: Att
  gå på den heliga moskéns golv med skor på är inte passande. Det kommer att ge den

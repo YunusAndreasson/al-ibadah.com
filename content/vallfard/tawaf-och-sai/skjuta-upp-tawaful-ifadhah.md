@@ -3,9 +3,7 @@ title: Skjuta upp tawāful-ifādhah
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 188 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Tawāf och sa’ī
+categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 814
 description: 'Fråga: Är det tillåtet att skjuta upp tawāful-ifādhah och utföra
  den tillsammans med tawāful-wadā? Får en pilgrim under vallfärden göra ett avbrott

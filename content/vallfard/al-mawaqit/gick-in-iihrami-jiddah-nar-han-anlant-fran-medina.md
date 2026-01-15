@@ -3,9 +3,7 @@ title: Gick in i ihrāmi Jiddah när han anlänt från Medina
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 93 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- al-Mawaqit
+categories: – Vallfärd (Hajj) – al-Mawaqit
 original_id: 738
 description: 'Fråga: En frågeställare säger: ”Jag är en student från Medina och jag
  ville utföra ‘umrah men jag kunde inte finna någon bil som tog mig direkt till

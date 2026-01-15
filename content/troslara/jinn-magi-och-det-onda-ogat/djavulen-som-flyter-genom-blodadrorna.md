@@ -3,9 +3,7 @@ title: Djävulen som flyter genom blodådrorna
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Jinn, magi och det onda ögat
+categories: – Troslära (ʿAqīdah) – Jinn, magi och det onda ögat
 original_id: 1684
 description: 'F råga: Allāhs sändebud har sagt: ”Sannerligen flyter djävulen genom
  Adams söner precis som blod flyter genom honom.” [ Musnad Ahmad 3:156] Är detta

@@ -3,12 +3,9 @@ title: Memorera delar av Koranen som man sedan glömmer bort
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Koranrecitation
+categories: – Bön (Salāh) – Koranrecitation
 original_id: 1666
-description: 'Fråga: Från Allāhs sändebud – över honom vare Allāhs frid och välsignelser
- – har jag hört en hadīth med följande innebörd: En person som memorerar en sura
+description: 'Fråga: Från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har jag hört en hadīth med följande innebörd: En person som memorerar en sura
  eller en vers från Koranen och sedan gl...'
 ---
 

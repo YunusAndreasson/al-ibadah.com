@@ -2,9 +2,7 @@
 title: Felaktiga former av tawassul
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fiqh ul ''Ibādāt www 20/4-2007: www'
-categories:
-- Troslära (ʿAqīdah)
-- Tawassul [Medel för att åkalla Allāh]
+categories: – Troslära (ʿAqīdah) – Tawassul [Medel för att åkalla Allāh]
 original_id: 918
 description: 'Fråga: Finns det några felaktiga former av tawassul? Svar: Felaktig
  och gagnlös tawassul sker genom att man använder ett sätt som inte är föreskrivet

@@ -3,9 +3,7 @@ title: Utbyggnad av en moské
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 51 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Moskén
+categories: – Bön (Salāh) – Moskén
 original_id: 384
 description: 'Fråga: Profeten – över honom vare Allāhs frid och välsignelser – har
  sagt: ” En enda bön i min Moské är värd tusen böner .” [Ahmad 2:397 och 528] Gäller

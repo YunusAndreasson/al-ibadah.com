@@ -4,9 +4,7 @@ title: Utföra tawāful-ifādhah innan stenarna kastas på pelarna eller innan m
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 186 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Stå vid Arafat
+categories: – Vallfärd (Hajj) – Stå vid Arafat
 original_id: 1554
 description: 'Fråga: Är det tillåtet att utföra tawāful-ifādhah och sa’ī innan
  man kastar stenarna på den stora pelaren, al-ʿAqabah, eller innan man stått vid

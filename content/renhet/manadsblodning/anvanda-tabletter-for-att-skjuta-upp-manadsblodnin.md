@@ -3,9 +3,7 @@ title: Använda tabletter för att skjuta upp månadsblödningen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 115 s. ISBN saknas'
-categories:
-- Renhet (Tahārah)
-- Månadsblödning
+categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 1449
 description: 'Fråga: Det finns tabletter som hindrar [skjuter upp] en kvinnas månadsblödning,
  är det tillåtet att använda dem under vallfärden om hon är rädd för att få månadsblödningen

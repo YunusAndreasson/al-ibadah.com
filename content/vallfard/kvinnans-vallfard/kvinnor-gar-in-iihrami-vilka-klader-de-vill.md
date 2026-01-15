@@ -2,9 +2,7 @@
 title: Kvinnor går in i ihrāmi vilka kläder de vill
 author: Ibn ʿAbdullah Ibn Baz
 source: Fatāwa al-Marah
-categories:
-- Vallfärd (Hajj)
-- Kvinnans vallfärd
+categories: – Vallfärd (Hajj) – Kvinnans vallfärd
 original_id: 910
 description: 'Fråga: Får en kvinna gå in i ihrām i vilka kläder hon vill? Svar: Ja,
  hon kan träda in i ihrām i vilka kläder hon än vill. Hon behöver inte ha en viss

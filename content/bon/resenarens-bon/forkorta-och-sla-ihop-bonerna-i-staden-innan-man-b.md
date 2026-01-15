@@ -3,9 +3,7 @@ title: Förkorta och slå ihop bönerna i staden innan man börjar resa
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 436 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Resenärens bön
+categories: – Bön (Salāh) – Resenärens bön
 original_id: 346
 description: 'Fråga: Får resenären be två förkortade böner vid samma tidpunkt när
  han fortfarande är i sin hemstad? Svar: Resenär får inte förkorta bönen i sin

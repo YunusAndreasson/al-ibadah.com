@@ -3,9 +3,7 @@ title: Blödningen återkommer under tiden som hon fastar
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 298 s. ISBN saknas'
-categories:
-- Renhet (Tahārah)
-- Månadsblödning
+categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 451
 description: 'Fråga: Om en kvinna med blödning efter graviditeten blir ren inom en
  vecka och hon fastar tillsammans med muslimerna under ramadan under ett antal dagar,

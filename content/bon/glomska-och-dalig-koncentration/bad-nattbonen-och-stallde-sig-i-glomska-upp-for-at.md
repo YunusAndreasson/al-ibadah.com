@@ -4,9 +4,7 @@ title: Bad nattbönen och ställde sig i glömska upp för att be en tredje bön
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 506 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Glömska och dålig koncentration
+categories: – Bön (Salāh) – Glömska och dålig koncentration
 original_id: 972
 description: 'Fråga: En man bad nattbönen som bes genom att be två bönecykler åt
  gången men han glömde bort sig och reste sig upp för att be en tredje bönecykel.

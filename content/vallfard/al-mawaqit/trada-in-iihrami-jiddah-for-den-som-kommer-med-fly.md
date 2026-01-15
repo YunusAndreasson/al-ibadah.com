@@ -3,9 +3,7 @@ title: Träda in i ihrāmi Jiddah för den som kommer med flygplan
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 91 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- al-Mawaqit
+categories: – Vallfärd (Hajj) – al-Mawaqit
 original_id: 736
 description: 'Fråga: Vad gäller den som avser att vallfärda som kommer från ett land
  utanför Saudiarabien och dennes plan landar på flygplatsen i Jiddah utan att denne

@@ -5,9 +5,7 @@ author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 81 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Blandat
-- Åkallan
+categories: – Blandat – Åkallan
 original_id: 1170
 description: 'Fråga: Hur kan man åkalla och inte bli besvarad när Allāh säger: ”Er
  Herre säger: ’Be till Mig, så ska Jag besvara er [bön].” [Koranen 40:60]? Svar: All
@@ -34,7 +32,7 @@ Allāhs sändebud har ansett att det är osannolikt att denne man, som har de yt
 
 Att man höjer händerna mot skyn, mot Allāh den Allsmäktige. Detta beror på att Han den Upphöjde är ovanför himlarna och tronen, och att sträcka ut sina händer mot Allāh den Allsmäktige är ett hjälpmedel för att få sin åkallan[^1] besvarad [...] Denne man åkallade Allāh genom Herrens namn [Herre! Herre!] och att bönfölla Allāh genom Hans namn är ett sätt för att få åkallan[^1] besvarad. Detta beror på att Herren är Skaparen, Ägaren och Den som styr skapelsens ordning. I Hans hand finns nycklarna till himlarna och jorden och därför finner du att de flesta åkallan[^1] i Koranen är i Hans namn:
 
-> ”Herre! Vi har hört rösten som kallar [oss] till tron: – ’Tro på er Herre!’ – och vi har blivit troende. Herre! Förlåt oss våra synder och utplåna våra dåliga handlingar och låt oss dö med de fromma, de som gör det goda och det rätta! Sänka oss, Herre, det som Du har lovat oss genom Dina sändebud och låt oss inte stå där med skammen på Uppståndelsens dag! Aldrig sviker Du Ditt löfte! Och Gud svarar dem: ’Jag ska inte låta någon av er som arbetar och strävar, vare sig man eller kvinna, se sin strävan gå förlorad – ni är [alla] av samma rot [och ska lönas på samma sätt].” [Koranen 3:193–195]
+> ”Herre! Vi har hört rösten som kallar [oss] till tron: – ’Tro på er Herre!’ – och vi har blivit troende. Herre! Förlåt oss våra synder och utplåna våra dåliga handlingar och låt oss dö med de fromma, de som gör det goda och det rätta! Sänka oss, Herre, det som Du har lovat oss genom Dina sändebud och låt oss inte stå där med skammen på Uppståndelsens dag! Aldrig sviker Du Ditt löfte! Och Gud svarar dem: ’Jag ska inte låta någon av er som arbetar och strävar, vare sig man eller kvinna, se sin strävan gå förlorad – ni är [alla] av samma rot [och ska lönas på samma sätt].” [Koranen 3:193 – 195]
 
 Att då bönfalla Allāh den Upphöjde genom Hans namn är ett av tillvägagångssätten för att få svar.
 

@@ -3,9 +3,7 @@ title: Betala en muta för att få kyssa den Svarta Stenen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 199 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Tawāf och sa’ī
+categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 821
 description: 'Fråga: En man kom med sin mor för att hon skulle få kyssa den Svarta
  Stenen och de vallfärdade båda. Han hade dock inte möjlighet att göra detta, med

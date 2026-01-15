@@ -3,9 +3,7 @@ title: Tala med en kvinna och röra hennes hand dagtid under ramadan
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 248 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Vad som bryter eller inte bryter fastan
+categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 406
 description: 'Fråga: Vilket är utlåtandet om att tala med en kvinna eller att röra
  hennes hand dagtid under ramadan om man fastar? Detta i vetskap om att detta inträffar

@@ -3,9 +3,7 @@ title: Skaka hand efter bönen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 165 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Innovationer
+categories: – Troslära (ʿAqīdah) – Innovationer
 original_id: 1476
 description: 'Fråga: Vilket är utlåtandet om att skaka hand direkt efter bönen, är
  det en innovation eller sunnah? Vilka bevis finns för detta utlåtande? Svar: Vi

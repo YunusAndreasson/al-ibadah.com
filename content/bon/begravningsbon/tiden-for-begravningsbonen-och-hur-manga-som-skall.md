@@ -3,9 +3,7 @@ title: Tiden för begravningsbönen och hur många som ska närvara
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 580 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Begravningsbön
+categories: – Bön (Salāh) – Begravningsbön
 original_id: 1246
 description: 'Fråga: Finns det en angiven tid för begravningsbönen? Är det tillåtet
  att begrava den avlidne nattetid? Skall där vara ett visst antal muslimer närvarande?

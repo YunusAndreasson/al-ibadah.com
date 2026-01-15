@@ -3,9 +3,7 @@ title: Bryta en frivillig fasta
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 338 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+categories: – Fasta (Sawm) – Frivillig fasta (Shawwal, ashura-dagen, m.m.)
 original_id: 483
 description: 'Fråga: Får den fastande bryta en frivillig fasta när denne vill? Svar: Ja,
  denne får göra så. Det är dock att föredra om fastan fullbordas utom om det finns

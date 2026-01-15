@@ -3,9 +3,7 @@ title: Blivit arg på sin moder och sagt något dumt
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Äktenskap
+categories: – Blandat – Äktenskap
 original_id: 1687
 description: 'Fråga: En gång blev jag mycket arg på min moder och jag sade till min
  äldre bror: ”Vid Allāh, om hon inte hade varit min moder hade jag bränt henne.”

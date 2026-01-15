@@ -2,9 +2,7 @@
 title: Betalar inte allmosa på grund av snålhet
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwā al-Ladjnah ad-Da’imah, 9/184
-categories:
-- Allmosa (Zakāh)
-- Hur och när den betalas
+categories: – Allmosa (Zakāh) – Hur och när den betalas
 original_id: 1600
 description: 'Fråga: Vilket är utlåtandet om den som vittnar om att det inte finns
  någon gud utom Allāh och ber den obligatoriska bönen men som varken betalar allmosa

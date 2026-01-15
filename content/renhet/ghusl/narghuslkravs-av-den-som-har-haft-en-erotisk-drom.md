@@ -3,9 +3,7 @@ title: Närghuslkrävs av den som har haft en erotisk dröm
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 68 s. ISBN saknas'
-categories:
-- Renhet (Tahārah)
-- Ghusl [Den stora tvagningen]
+categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
 original_id: 1429
 description: 'Fråga: En person tror att det som nödvändiggör ghusl för den som
  haft en erotisk dröm är utlösning av sperma när den sovande drömmer om att ha intim

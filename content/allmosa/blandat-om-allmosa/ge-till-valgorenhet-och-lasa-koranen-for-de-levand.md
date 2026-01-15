@@ -3,9 +3,7 @@ title: Ge till välgörenhet och läsa Koranen för de levande och för de döda
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 91 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
-- Blandat om allmosa
+categories: – Allmosa (Zakāh) – Blandat om allmosa
 original_id: 62
 description: 'Fråga: Är det tillåtet att ge till välgörenhet för sina föräldrars
  räkning när de fortfarande är vid liv? Får man recitera Koranen för deras räkning?

@@ -3,9 +3,7 @@ title: Att svära vid någonting annat än Allāh såsom sin far eller en ledare
  sin ära och status
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah al-Dā’imah, 1/231
-categories:
-- Troslära (ʿAqīdah)
-- Eder
+categories: – Troslära (ʿAqīdah) – Eder
 original_id: 542
 description: 'Fråga: I scoutlöftet säger man: ”Jag svär vid min ära att jag kommer
  att göra mitt bästa för att göra min plikt mot Allāh, mitt land och kungen. Jag

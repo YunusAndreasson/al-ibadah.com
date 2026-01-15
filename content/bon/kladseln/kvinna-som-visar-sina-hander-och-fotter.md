@@ -3,9 +3,7 @@ title: Kvinna som visar sina händer och fötter
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 205 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Klädseln
+categories: – Bön (Salāh) – Klädseln
 original_id: 220
 description: 'Fråga: Får en kvinna visa händerna och fötterna för en annan kvinna
  när hon ber? Detta i vetskap om att hon är i sitt hem och inte framför män. Svar: Det

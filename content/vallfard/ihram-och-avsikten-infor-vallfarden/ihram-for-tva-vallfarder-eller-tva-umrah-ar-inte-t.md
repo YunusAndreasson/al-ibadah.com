@@ -3,9 +3,7 @@ title: Ihrām för två vallfärder eller två ‘umrah är inte tillåtet
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 116 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Ihrām och avsikten inför vallfärden
+categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
 original_id: 755
 description: 'Fråga: Kan man träda in i ihrām för två vallfärder eller två ‘umrah
 ? Svar: Det är inte rätt om man går in i ihrām för två vallfärder under ett

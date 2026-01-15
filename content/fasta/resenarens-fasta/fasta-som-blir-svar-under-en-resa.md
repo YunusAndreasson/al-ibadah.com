@@ -3,9 +3,7 @@ title: Fasta som blir svår under en resa
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 639 s. ISBN 9960-892-66-2'
-categories:
-- Fasta (Sawm)
-- Resenärens fasta
+categories: – Fasta (Sawm) – Resenärens fasta
 original_id: 1261
 description: 'Fråga: Vilket är utlåtandet om fastan för en resenär om den blir svår? Svar: Känner
  denne att det kan bli för svårt, då är det ogillat att fasta. Profeten – över honom

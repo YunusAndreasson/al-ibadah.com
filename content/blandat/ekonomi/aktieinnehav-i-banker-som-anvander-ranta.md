@@ -3,9 +3,7 @@ title: Aktieinnehav i banker som använder ränta
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Ekonomi
+categories: – Blandat – Ekonomi
 original_id: 1616
 description: 'Fråga: Är det tillåtet att äga aktier i de banker som nu finns i Saudiarabien, som Saudi American Bank och United Saudi Business Bank, då de erbjuder allmänheten att teckna deras aktier?'
 ---

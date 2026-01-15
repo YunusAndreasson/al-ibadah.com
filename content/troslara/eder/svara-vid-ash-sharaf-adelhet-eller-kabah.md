@@ -3,9 +3,7 @@ title: Svära vid ash-Sharaf [ädelhet] eller Ka’bah
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 229 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Eder
+categories: – Troslära (ʿAqīdah) – Eder
 original_id: 110
 description: 'Fråga: Är det tillåtet att svära vid ash-Sharaf eller vid Ka’bah? Svar: Det
  är inte tillåtet att svära vid något[n] eller annat[n] än Allāh – sannerligen är

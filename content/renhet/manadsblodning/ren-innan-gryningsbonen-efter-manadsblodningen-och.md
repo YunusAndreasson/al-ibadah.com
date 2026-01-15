@@ -3,9 +3,7 @@ title: Ren innan gryningsbönen efter månadsblödningen och görghuslefter gryn
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 659 s. ISBN 9960-892-66-2'
-categories:
-- Renhet (Tahārah)
-- Månadsblödning
+categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 1048
 description: 'Fråga: Om en kvinna med månadsblödning blir ren innan gryningsbönen
  och hon gör ghusl när den [gryningsbönen] har börjat, vilket är då utlåtandet

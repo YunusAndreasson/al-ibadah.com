@@ -3,9 +3,7 @@ title: Giltigheten i en bön utförd bakom en syndare
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 536 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Vad som gör eller inte gör bönen ogiltig
+categories: – Bön (Salāh) – Vad som gör eller inte gör bönen ogiltig
 original_id: 988
 description: 'Fråga: Är bön bakom en syndare giltig? Svar: Även om en muslim
  begår vissa synder är bön bakom denne tillåten och giltig enligt den starkaste åsikten.

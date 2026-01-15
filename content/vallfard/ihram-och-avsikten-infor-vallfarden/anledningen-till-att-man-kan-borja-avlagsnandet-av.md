@@ -5,9 +5,7 @@ author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 210 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Vallfärd (Hajj)
-- Ihrām och avsikten inför vallfärden
+categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
 original_id: 834
 description: 'Fråga: Det är känt att det är förbjudet att raka huvudet under ihrām
  ; hur kan det då vara tillåtet att börja med det när man avlägsnar ihrām under ‘eid
@@ -20,7 +18,7 @@ description: 'Fråga: Det är känt att det är förbjudet att raka huvudet unde
 
 Det som har kommenderats eller förbjudits kommer endast från den islamiska lagen. Ser du inte att nedfallan inför någon annan än Allāh den Upphöjde är shirk[^2]? När Allāh kommenderade änglarna att nedfalla inför Adam var deras nedfallan en lydnad [mot Allāh]. Ser du också inte att döda någon, speciellt barn, är en enorm synd? Men när Allāh den Upphöjde kommenderar Sin profet Abraham att döda sin son, Isma'il, då var det en lydnad som Abraham uppnådde en enorm status genom. Men genom Sin nåd underlättade Allāh för honom och hans son, och Han sade:
 
-> ”Men så fort de båda hade visat att de underkastat sig Guds vilja och [Abraham] hade lagt [sonen] med tinningen mot marken, ropade Vi till honom: 'Abraham [hejda din hand]! Du har redan utfört den befallning som du fick i drömmen!” [Koranen 37:103–106]
+> ”Men så fort de båda hade visat att de underkastat sig Guds vilja och [Abraham] hade lagt [sonen] med tinningen mot marken, ropade Vi till honom: 'Abraham [hejda din hand]! Du har redan utfört den befallning som du fick i drömmen!” [Koranen 37:103 – 106]
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

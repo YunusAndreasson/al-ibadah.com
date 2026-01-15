@@ -3,9 +3,7 @@ title: Beskriva Allāh som glömmande
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fatāwa al-shaykh Ibn ‘Uthaymīn 1/172-174 Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Förståelse av islam
+categories: – Troslära (ʿAqīdah) – Förståelse av islam
 original_id: 527
 description: 'Fråga: Kan Allāh beskrivas som glömmande? Svar: Att glömma kan
  innebära två olika saker: Förbise något som är känt, som i versen: ”Herre!
@@ -70,7 +68,7 @@ Och i *Sahīh Muslim* [Kitāb al-Zuhd wa’l-Raqā’iq] återges att Abū Hurai
 
 Allāhs lämnande eller glömmande av någonting är en av Hans handlingar som sker genom Hans vilja och enligt Hans visdom. Allāh säger:
 
-> ”… och lämnar dem i mörker så att de ingenting kan se.” [Koranen 2:17–18]
+> ”… och lämnar dem i mörker så att de ingenting kan se.” [Koranen 2:17 – 18]
 > 
 > 
 > 

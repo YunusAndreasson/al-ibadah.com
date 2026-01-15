@@ -3,9 +3,7 @@ title: Qunūt i den obligatoriska bönen
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 508 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Praktiska detaljer i bönen
+categories: – Bön (Salāh) – Praktiska detaljer i bönen
 original_id: 977
 description: 'Fråga: Vilket är utlåtandet om qunūt i den obligatoriska bönen? Vilket
  är utlåtandet om muslimer drabbas av stora svårigheter? Svar: Qunūt under

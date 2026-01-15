@@ -1,11 +1,9 @@
 ---
 title: Leda bönen när man är dålig på att recitera Koranen
 author: Ibn ʿAbdullah Ibn Baz
-source: 'Majmū al-Fatāqa wal-Maqālāt al-Mutanawwi''ah – volym 12, sida 96–97 Muhammed
+source: 'Majmū al-Fatāqa wal-Maqālāt al-Mutanawwi''ah – volym 12, sida 96 – 97 Muhammed
  Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Bön (Salāh)
-- Att vara imam och bön bakom en imam
+categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
 original_id: 580
 description: 'Fråga: Jag är imam vid en moské i en av Riyadhs förorter. Mitt problem
  är att min tajwīd är dålig och under läsning gör jag många misstag. Bör jag fortsätta

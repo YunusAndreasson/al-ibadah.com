@@ -4,8 +4,7 @@ author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 649 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Fasta (Sawm)
+categories: – Fasta (Sawm)
 original_id: 1264
 description: 'Fråga: Vad ogiltigör fastan? Svar: Det som ogiltigör fastan är
  det som bryter den och det är: Intim samvaro, att äta, att

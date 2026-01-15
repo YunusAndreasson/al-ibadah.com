@@ -3,9 +3,7 @@ title: Äktenskap med en mindre brudgåva är mer välsignade
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Äktenskap
+categories: – Blandat – Äktenskap
 original_id: 1628
 description: 'Fråga: Vilken är din åsikt om överdrivna brudgåvor och extravaganta
  bröllop. Jag tänker speciellt på vad som brukar kallas ”smekmånad” då det är väldigt

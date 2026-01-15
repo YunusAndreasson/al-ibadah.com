@@ -4,9 +4,7 @@ author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 295 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Fasta (Sawm)
-- Resenärens fasta
+categories: – Fasta (Sawm) – Resenärens fasta
 original_id: 446
 description: 'Fråga: Om jag reste och jag bröt min fasta under denna resa och jag
  sedan under en av dagarna återvände till min familj innan tiden för eftermiddagsbönen,

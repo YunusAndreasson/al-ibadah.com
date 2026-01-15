@@ -4,9 +4,7 @@ author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 63 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Vallfärd (Hajj)
-- Skulder
+categories: – Vallfärd (Hajj) – Skulder
 original_id: 721
 description: 'Fråga: Jag är en man som under detta år vill utföra den obligatoriska
  vallfärden. Jag har dock lånat en del pengar från banken och jag betalar av varje

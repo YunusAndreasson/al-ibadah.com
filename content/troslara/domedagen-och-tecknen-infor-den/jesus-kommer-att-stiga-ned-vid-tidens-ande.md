@@ -4,9 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 304 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Domedagen och tecknen inför den
+categories: – Troslära (ʿAqīdah) – Domedagen och tecknen inför den
 original_id: 130
 description: 'Fråga: Om Jesus är vid liv, kommer han då att stiga ned vid tidens
  ände och styra och då följa Muhammads religion? Vad finns det för bevis för detta?

@@ -3,9 +3,7 @@ title: Ta igen sexdagarsfastan under shawwal
 author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 336 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+categories: – Fasta (Sawm) – Frivillig fasta (Shawwal, ashura-dagen, m.m.)
 original_id: 1418
 description: 'Fråga: En kvinna fastade varje år sex dagar i shawwal. Men ett år så
  födde hon i början av ramadan och blödde då efter graviditeten. Hon blev inte ren

@@ -3,9 +3,7 @@ title: Gryningsbön efter soluppgången ska reciteras högt
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 246 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Överger eller missar bönen
+categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 255
 description: 'Fråga: Om någon försov sig och inte vaknade förrän efter gryningsbönen
  och solen hade gått upp, bör denne då recitera med höjd röst? Svar: Denne bör

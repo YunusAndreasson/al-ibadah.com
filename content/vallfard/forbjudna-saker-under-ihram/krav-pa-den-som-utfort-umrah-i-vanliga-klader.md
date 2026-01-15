@@ -3,9 +3,7 @@ title: Krav på den som utfört ‘umrah i vanliga kläder
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 143 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Förbjudna saker under ihrām
+categories: – Vallfärd (Hajj) – Förbjudna saker under ihrām
 original_id: 776
 description: 'Fråga: Jag utförde ‘umrah under början av ramadan detta år. Jag stannade
  i ungefär femton dagar och sedan utförde jag en ‘umrah till i mina vanliga kläder.

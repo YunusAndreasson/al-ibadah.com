@@ -3,9 +3,7 @@ title: Fredagsbönen är inte ett krav vid ett tillstånd av rädsla
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 475 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Fredagsbönen
+categories: – Bön (Salāh) – Fredagsbönen
 original_id: 366
 description: 'Fråga: En vakt som vaktar en egendom under fredagsbönen är rädd att
  egendomen ska stjälas om han går till fredagsbönen. Är han då fortfarande skyldig

@@ -3,9 +3,7 @@ title: Recitation av Koranen genom högtalare före fredagsbönen
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 465 s. ISBN saknas'
-categories:
-- Troslära (ʿAqīdah)
-- Innovationer
+categories: – Troslära (ʿAqīdah) – Innovationer
 original_id: 363
 description: 'Fråga: I vissa moskér i många delar av den muslimska världen reciteras
  verser ur den ädla Koranen genom högtalare innan fredagsbönen. Vilket är utlåtandet

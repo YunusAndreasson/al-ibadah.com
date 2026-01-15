@@ -3,9 +3,7 @@ title: Vaknar och finnar något vått i kläderna – omghusldå är ett krav
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 355 s. ISBN 9960-892-66-2'
-categories:
-- Renhet (Tahārah)
-- Ghusl [Den stora tvagningen]
+categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
 original_id: 1214
 description: 'Fråga: Måste man göra ghusl om man vaknar och finner något vått i
  ens kläder? Svar: Vaknar någon och finner något vått i kläderna, då gäller en

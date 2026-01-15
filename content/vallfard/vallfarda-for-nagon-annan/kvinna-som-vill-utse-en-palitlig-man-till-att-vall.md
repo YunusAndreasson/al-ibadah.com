@@ -4,9 +4,7 @@ author: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym
  Libanon: Maktaba Dar us-Salam. 66 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 source: Muhammad bin Sālih al-ʿUthaymīn
-categories:
-- Vallfärd (Hajj)
-- Vallfärda för någon annan
+categories: – Vallfärd (Hajj) – Vallfärda för någon annan
 original_id: 723
 description: 'Fråga: En kvinna vill utse en man som vallfärda åt henne. Detta med
  anledning av hans kunskap och att hon litar på att han kommer att utföra vallfärdsriterna

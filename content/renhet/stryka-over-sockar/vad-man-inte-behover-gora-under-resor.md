@@ -3,9 +3,7 @@ title: Vad man inte behöver göra under resor
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 433 s. ISBN saknas'
-categories:
-- Renhet (Tahārah)
-- Stryka över sockar
+categories: – Renhet (Tahārah) – Stryka över sockar
 original_id: 345
 description: 'Fråga: Vad behöver man inte göra under resor? Svar: Det finns fyra
  saker som en resenär tillåts: Be böner med fyra bönecykler som två. Bryta

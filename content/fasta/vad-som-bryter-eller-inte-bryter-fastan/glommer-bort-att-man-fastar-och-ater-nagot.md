@@ -3,9 +3,7 @@ title: Glömmer bort att man fastar och äter något
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 646 s. ISBN 9960-892-66-2'
-categories:
-- Fasta (Sawm)
-- Vad som bryter eller inte bryter fastan
+categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 1262
 description: 'Fråga: Vilket är utlåtandet om en fastande som på grund av glömska
  äter något? Vad måste man göra om man ser denne? Svar: Den som ut ur glömska

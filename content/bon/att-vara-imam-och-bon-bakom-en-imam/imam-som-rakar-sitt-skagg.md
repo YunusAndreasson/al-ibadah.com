@@ -3,9 +3,7 @@ title: Imam som rakar sitt skägg
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 408 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Att vara imam och bön bakom en imam
+categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
 original_id: 328
 description: 'Fråga: Finns det någon autentisk hadīth som visar att bön bakom någon
  som rakar sitt skägg är ogiltig? Svar: Enligt vad vi känner till finns det inga

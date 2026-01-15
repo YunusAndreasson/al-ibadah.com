@@ -3,13 +3,10 @@ title: Bryta fastan för att stärka sig inför ‘umrah när man kommer till Me
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 111 s. ISBN 9960-892-66-2'
-categories:
-- Fasta (Sawm)
-- Resenärens fasta
+categories: – Fasta (Sawm) – Resenärens fasta
 original_id: 1039
 description: 'Fråga: Om en resenär fastar och kommer till Mecka, bör denne få bryta
- fastan för att få krafter för att göra ‘umrah? Svar: Vi säger att profeten
- – över honom vare Allāhs frid och välsignelse...'
+ fastan för att få krafter för att göra ‘umrah? Svar: Vi säger att profeten – över honom vare Allāhs frid och välsignelse...'
 ---
 
 **Fråga:** Om en resenär fastar och kommer till Mecka, bör denne få bryta fastan för att få krafter för att göra *‘umrah[^1]*?

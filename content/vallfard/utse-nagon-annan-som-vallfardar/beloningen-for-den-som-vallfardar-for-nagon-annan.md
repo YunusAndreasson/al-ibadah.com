@@ -2,9 +2,7 @@
 title: Belöningen för den som vallfärdar för någon annan
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Fatāwa Ibn ʿUthaymīn 21/34
-categories:
-- Vallfärd (Hajj)
-- Utse någon annan som vallfärdar
+categories: – Vallfärd (Hajj) – Utse någon annan som vallfärdar
 original_id: 894
 description: 'Fråga: Om man vallfärdar för någon annan, kommer man då att uppnå vad
  profeten – över honom vare Allāhs frid och välsignelser – beskrev: ” Den som vallfärdar

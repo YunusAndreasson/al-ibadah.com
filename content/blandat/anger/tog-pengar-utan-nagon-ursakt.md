@@ -3,9 +3,7 @@ title: Tog pengar utan någon ursäkt
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 267 s. ISBN saknas'
-categories:
-- Blandat
-- Ånger
+categories: – Blandat – Ånger
 original_id: 676
 description: När jag jobbade som polisofficer hjälpte jag en gång till med att anhålla
  en misstänkt lömsk person. När vi fängslat hans händer stack jag ned handen i hans

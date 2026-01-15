@@ -3,8 +3,7 @@ title: Ber gryningsbönen efter soluppgången
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 353 s. ISBN saknas'
-categories:
-- Bön (Salāh)
+categories: – Bön (Salāh)
 original_id: 313
 description: 'Fråga: Jag har en vän som bor nära mig och moskén ligger verkligen
  nära oss, men min vän kommer inte till gryningsbönen. Han spenderar sena nätter

@@ -4,9 +4,7 @@ title: Missar delar av bönen med imamen och vilka suror man då reciterar när 
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 530 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Bönen i församlingen
+categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 985
 description: 'Fråga: Om någon missade den första eller den andra bönecykeln med församlingen,
  bör den som tar igen denna bön då recitera en annan sura med sura al-Fātihah när

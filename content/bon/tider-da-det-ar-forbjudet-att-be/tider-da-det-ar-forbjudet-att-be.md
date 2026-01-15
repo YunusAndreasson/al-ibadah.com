@@ -3,9 +3,7 @@ title: Tider då det är förbjudet att be
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 524 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Tider då det är förbjudet att be
+categories: – Bön (Salāh) – Tider då det är förbjudet att be
 original_id: 984
 description: 'Fråga: Vilka är de tidpunkter då det är förbjudet att be? [...] Ge
  oss råd och må Allāh belöna er med det goda. Svar: De tider då det är förbjudet

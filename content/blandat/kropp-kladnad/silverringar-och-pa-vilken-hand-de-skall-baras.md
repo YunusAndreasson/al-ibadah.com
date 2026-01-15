@@ -3,9 +3,7 @@ title: Silverringar och på vilken hand de ska bäras
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories:
-- Blandat
-- Kropp & klädnad
+categories: – Blandat – Kropp & klädnad
 original_id: 1700
 description: 'Fråga: Vilket är utlåtandet om att bära en silverring och på vilken
  hand bör den bäras? Svar: Det finns inget skadligt i att bära en silverring,

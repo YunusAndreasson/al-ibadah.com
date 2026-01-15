@@ -3,9 +3,7 @@ title: Tabletter som används för att hindra månadsblödningen
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 373 s. ISBN 9960-892-66-2'
-categories:
-- Renhet (Tahārah)
-- Månadsblödning
+categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 1217
 description: 'Fråga: Vilket är utlåtandet om att använda tabletter för att hindra
  månadsblödningen? Svar: Det finns ingen invändan mot att en kvinna använder

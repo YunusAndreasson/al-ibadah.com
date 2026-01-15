@@ -4,9 +4,7 @@ author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 102 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Blandade utlåtanden
+categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
 original_id: 1173
 description: 'Fråga: I vissa länder lär sig eleverna i de islamiska skolorna att ahlus-sunnah
  wal-jamā’ats synsätt är: Att tro på Allāhs den Upphöjdes namn och egenskaper utan
@@ -21,7 +19,7 @@ description: 'Fråga: I vissa länder lär sig eleverna i de islamiska skolorna 
 
 Vad anser muslimer om de lärde som gör *ta’wil* [Tolkning, när det hänvisar till en felaktig tolkning. Det betyder att man ändrar en mening för att den ska samstämma med ens egen tro]?
 
-**Svar:** Det råder inga tvivel om att det som lärs ut i dessa skolor – att *ahlus-sunnah[^1] wal-jamā’ats* synsätt är att tro på Allāhs namn och egenskaper utan förvrida, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen] – är enligt vad som har rapporterats från profetens – över honom vare Allāhs frid och välsignelser –] *sunnah[^1]*. Detta har *ahlus-sunnah[^1] wal-jamā’at* både grundligt och sammanfattat berättat om i sina böcker. Detta är sanningen som överensstämmer med Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* och vad *salaf[^2]* – må Allāh vara nöjda med dem – har sagt. Likaså är detta i samstämighet med ett korrekt och rationellt tänkande sinne. Det är inte vår avsikt att räkna upp de enskilda bevisen då det inte bads om detta i frågan, utan vi svarar enbart på vad frågan gällde och det är uppdelningen av *ahlus-sunnah[^1] wal-jamā’at* i två olika skolor.
+**Svar:** Det råder inga tvivel om att det som lärs ut i dessa skolor – att *ahlus-sunnah[^1] wal-jamā’ats* synsätt är att tro på Allāhs namn och egenskaper utan förvrida, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen] – är enligt vad som har rapporterats från profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah[^1]*. Detta har *ahlus-sunnah[^1] wal-jamā’at* både grundligt och sammanfattat berättat om i sina böcker. Detta är sanningen som överensstämmer med Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* och vad *salaf[^2]* – må Allāh vara nöjda med dem – har sagt. Likaså är detta i samstämighet med ett korrekt och rationellt tänkande sinne. Det är inte vår avsikt att räkna upp de enskilda bevisen då det inte bads om detta i frågan, utan vi svarar enbart på vad frågan gällde och det är uppdelningen av *ahlus-sunnah[^1] wal-jamā’at* i två olika skolor.
 
 En av dem var Ibn Taimiyyahs och hans elevers skola som förbjöd att man förklarar bevisen i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* med något annat än deras uppenbara mening.
 
@@ -39,7 +37,7 @@ De som tillhör den andra skolan säger: Den uppenbara meningen måste ändras o
 
 Från detta exempel blir det tydligt att de båda skolorna är olika och omöjliga att föra samman – samt att det inte är möjligt att kombinera dem i ett kännetecken som *ahlus-sunnah[^1]*.
 
-Därför kan *ahlus-sunnah[^1] wal-jamā’ats* beskrivning enbart tillhöra en av dem och vi kommer på ett rättvist sätt att döma mellan dem. Vi kommer att pröva dem båra opartiskt med mått som är Allāhs skrift, Hans sändebuds *sunnah[^1]*, uttalanden från [profetens – över honom vare Allāhs frid och välsignelser –] följeslagare och de bland salaf[^2] – må Allāh vara nöjda med dem – och imamerna som trofast efterföljde dem.
+Därför kan *ahlus-sunnah[^1] wal-jamā’ats* beskrivning enbart tillhöra en av dem och vi kommer på ett rättvist sätt att döma mellan dem. Vi kommer att pröva dem båra opartiskt med mått som är Allāhs skrift, Hans sändebuds *sunnah[^1]*, uttalanden från [profetens – över honom vare Allāhs frid och välsignelser – ] följeslagare och de bland salaf[^2] – må Allāh vara nöjda med dem – och imamerna som trofast efterföljde dem.
 
 Det finns inget i detta mått [Allāhs skrift… och vad som räknades upp ovan] som bevisar något, varken direkt eller genom antydande, eller som tydligt förstås. Det finns heller ingen antydan mot vad den andra skolan påstår. I stället finns i detta mått [Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*] bevis som är klara, tydliga och indikativa för vad den första skolan påstår. Följaktligen är det avgjort att attributet *ahlus-sunnah[^1] wal-jamā’at* exklusivt tillhör dem [den första skolan] och att den andra skolan inte har någon delaktighet i det. Att säga att dessa båda skolor går att förena är orättvist och det är en ansats till att försöka föra samman två motsatser. Orättvisa är något som den islamiska lagen förbjuder och att sammanjämka två motsatser avvisas genom logik.
 
@@ -86,7 +84,7 @@ Följaktligen talar hadithen inte om Allāhs den Upphöjdes egenskaper vars bety
 
 Vidare påstår de att det finns två skolor av vilken en av dem är *shaykh ul-Islām[^4]* ibn Taymiyyahs. Vi säger då att tillskrivandet av denna skola till ibn Taymiyyah – må Allāh vara honom nådig – är för att påstå att ingen före honom har sagt detta. Detta är felaktigt. De åsikter som ibn Taymiyyah har är ju de som de rättfärdiga *salaf[^2]* – må Allāh vara nöjda med dem – och det muslimska samfundets imamer har haft. Det var inte han som införde denna skola, vilket de som säger detta påstår för att minimera dess betydelse. Och Allāh är Den vars hjälp vi söker.
 
-När det gäller vår ståndpunkt mot de lärda som har gjort *ta’wil* säger vi: Den som var känd för att ha goda intentioner, som positivt bidraget till religionen och som följde [profetens – över honom vare Allāhs frid och välsignelser –] *sunnah[^1]* är ursäktad för att av någon anledning ha utövat *ta’wil* [som han såg som rättfärdigad]. Men att han är ursäktad betyder inte att hans sätt var rätt då detta är en metod som står i motsats till de rättfärdiga *salaf[^2]* – må Allāh vara nöjda med dem – som förstod dem enligt deras uppenbara mening, och de trodde på vad den uppenbara mening bevisade utan att försöka förklara hur och utan att jämföra.
+När det gäller vår ståndpunkt mot de lärda som har gjort *ta’wil* säger vi: Den som var känd för att ha goda intentioner, som positivt bidraget till religionen och som följde [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah[^1]* är ursäktad för att av någon anledning ha utövat *ta’wil* [som han såg som rättfärdigad]. Men att han är ursäktad betyder inte att hans sätt var rätt då detta är en metod som står i motsats till de rättfärdiga *salaf[^2]* – må Allāh vara nöjda med dem – som förstod dem enligt deras uppenbara mening, och de trodde på vad den uppenbara mening bevisade utan att försöka förklara hur och utan att jämföra.
 
 Det är nödvändigt att skilja mellan ett utlåtande och den som sade det, och mellan en handling och den som utförde den. Har ett felaktigt utlåtande sitt ursprung i *ijtihād[^5]* och goda intentioner skuldbeläggs inte den som sade det. Utan tvekan har denne fått en belöning för sin *ijtihād[^5]*. Profeten sade:
 

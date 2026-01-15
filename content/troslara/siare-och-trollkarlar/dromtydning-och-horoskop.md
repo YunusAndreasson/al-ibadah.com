@@ -3,9 +3,7 @@ title: Drömtydning och horoskop
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Majmū’ Fatāwa shaykh Ibn Bāz, 2/123 Muhammed Knut Bernström (1421), Koranens
  budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Troslära (ʿAqīdah)
-- Siare och trollkarlar
+categories: – Troslära (ʿAqīdah) – Siare och trollkarlar
 original_id: 519
 description: 'Fråga: Vad finns det att säga om drömtydning och horoskop? Svar: Astrologi,
  horoskop, vidskepelse och att spå in i framtiden tillhör tiden före islam. Islam

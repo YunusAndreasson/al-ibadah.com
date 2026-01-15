@@ -3,9 +3,7 @@ title: Stod upp i stället för att sitta kvar i tashahhud
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 507 s. ISBN 9960-892-66-2'
-categories:
-- Bön (Salāh)
-- Glömska och dålig koncentration
+categories: – Bön (Salāh) – Glömska och dålig koncentration
 original_id: 973
 description: 'Fråga: En troende som bad stod upp i stället för att sitta ned i tashahhud och
  innan han började recitationen kom han ihåg att han skulle ha suttit ned i tashahhud

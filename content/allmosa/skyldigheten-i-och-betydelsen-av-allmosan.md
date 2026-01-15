@@ -4,8 +4,7 @@ author: Ibn ʿAbdullāh Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 148 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Allmosa (Zakāh)
+categories: – Allmosa (Zakāh)
 original_id: 1382
 description: 'All lovprisan tillhör Allāh allena och må välsignelser och frid vara
  över honom som det inte kommer någon profet efter [profeten Muhammad] och över hans
@@ -40,7 +39,7 @@ Likaså har profeten – över honom vare Allāhs frid och välsignelser – i e
 
 Ett allvarligt hot har kommit till den som snålar med allmosan eller som misslyckas med att betala den. Allāh den Upphöjde säger:
 
-> ”Troende! Många rabbiner och kyrkans lärda män lägger med orätt beslag på [andras] egendom och spärrar Guds väg [för andra]. De som samlar skatter av guld och silver och inte ger av detta för Guds sak, låt dem veta att ett plågsamt straff [väntar dem] den dag då dessa [skatter] ska glödgas i helvetets eld och deras pannor, sidor och ryggar brännmärkas med detta [och en röst säger:] ’Detta är de skatter ni samlade för att ni i ensamhet [ruva över dem]; smaka nu det som ni lade på hög!” [Koranen 9:34–35]
+> ”Troende! Många rabbiner och kyrkans lärda män lägger med orätt beslag på [andras] egendom och spärrar Guds väg [för andra]. De som samlar skatter av guld och silver och inte ger av detta för Guds sak, låt dem veta att ett plågsamt straff [väntar dem] den dag då dessa [skatter] ska glödgas i helvetets eld och deras pannor, sidor och ryggar brännmärkas med detta [och en röst säger:] ’Detta är de skatter ni samlade för att ni i ensamhet [ruva över dem]; smaka nu det som ni lade på hög!” [Koranen 9:34 – 35]
 
 Alla former av tillgångar som fordrar allmosa som inte har betalats är den giriges skatt [*kanz*]. Dess ägare kommer att plågas med den på Återuppståndelsens dag på det sätt som det har berättats om i en autentisk *hadīth[^2]* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
 

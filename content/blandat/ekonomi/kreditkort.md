@@ -2,9 +2,7 @@
 title: Kreditkort
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: Silsilah Kitāb ad-Da'wah, al-Fatāwa – Volym 3, Sida 120-121
-categories:
-- Blandat
-- Ekonomi
+categories: – Blandat – Ekonomi
 original_id: 1709
 description: 'Fråga: Det finns banker som förser sina kunder med kreditkort, i detta
  fall VISA. Dessa kort tillåter kunderna att ta ut pengar från ett bankkonto även

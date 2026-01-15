@@ -3,9 +3,7 @@ title: Hus som hyrs ut
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 604 s. ISBN 9960-892-66-2'
-categories:
-- Allmosa (Zakāh)
-- Allmosa för marker, fastigheter, buriker och varor till försäljning
+categories: – Allmosa (Zakāh) – Allmosa för marker, fastigheter, buriker och varor till försäljning
 original_id: 1252
 description: 'Fråga: Vilket är utlåtandet om allmosan för ett hyreshus? Svar: Om
  ett hus hyrs ut mot vinst, då betalar man ingen allmosa för husets värde. Allmosan

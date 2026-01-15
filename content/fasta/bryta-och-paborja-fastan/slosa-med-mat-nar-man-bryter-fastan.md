@@ -4,9 +4,7 @@ author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 244 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories:
-- Fasta (Sawm)
-- Bryta och påbörja fastan
+categories: – Fasta (Sawm) – Bryta och påbörja fastan
 original_id: 403
 description: 'Fråga: Blir belöningen för fastan mindre om man gör i ordning överdrivet
  mycket mat inför brytandet av fastan? Svar: Belöningen blir inte mindre men

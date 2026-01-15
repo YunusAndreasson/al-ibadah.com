@@ -2,9 +2,7 @@
 title: Lägsta antal som krävs för fredagsbön
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa a al-Ladjnah al-Dā’imah, del 8, s. 178
-categories:
-- Bön (Salāh)
-- Fredagsbönen
+categories: – Bön (Salāh) – Fredagsbönen
 original_id: 544
 description: 'Fråga:  Hur många män krävs för att fredagsbönen ska vara giltig?
  Vissa säger att den inte är giltig om de finns färre än 40 män och om det finns

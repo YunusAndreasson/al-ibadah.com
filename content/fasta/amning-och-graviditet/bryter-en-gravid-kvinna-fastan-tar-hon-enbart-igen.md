@@ -3,9 +3,7 @@ title: Bryter en gravid kvinna fastan tar hon enbart igen fastan
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 301 s. ISBN saknas'
-categories:
-- Fasta (Sawm)
-- Amning och graviditet
+categories: – Fasta (Sawm) – Amning och graviditet
 original_id: 455
 description: 'Fråga: Jag var gravid under ramadan så jag bröt min fasta och jag fastade
  andra dagar i stället för dessa för att uppfylla vad som krävs av mig. Jag gav också

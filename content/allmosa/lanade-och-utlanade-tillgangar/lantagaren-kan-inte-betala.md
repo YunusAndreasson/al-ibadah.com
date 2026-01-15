@@ -3,9 +3,7 @@ title: Låntagaren kan inte betala
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 185 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
-- Lånade och utlånade tillgångar
+categories: – Allmosa (Zakāh) – Lånade och utlånade tillgångar
 original_id: 630
 description: 'Fråga: Jag lånade ut en summa pengar till en person och ett år gick
  utan att denne betalade tillbaka lånet. Bör jag betala allmosa för dem eller bör

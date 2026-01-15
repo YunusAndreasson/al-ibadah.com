@@ -3,9 +3,7 @@ title: Betala allmosan i ett annat land än där man befinner sig
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 187 s. ISBN saknas'
-categories:
-- Allmosa (Zakāh)
-- Betala allmosan i ett annat land
+categories: – Allmosa (Zakāh) – Betala allmosan i ett annat land
 original_id: 632
 description: 'Fråga: Är det tillåtet att betala allmosa och sända den till de behövande?
  Jag menar då att jag ska skicka dem till mitt land, ursprungligen kommer jag ju

@@ -3,9 +3,7 @@ title: Om stenarna inte hamnar i sänkan
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 249 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Stenkastningen
+categories: – Vallfärd (Hajj) – Stenkastningen
 original_id: 857
 description: 'Fråga: En pilgrim kastar från östlig riktning stenar på pelaren al-ʿAqabah
  men dennes stenar hamnar inte i sänkan. Vad ska dennes göra då det nu är den trettonde

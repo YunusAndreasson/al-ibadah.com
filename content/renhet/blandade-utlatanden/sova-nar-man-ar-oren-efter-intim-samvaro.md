@@ -2,9 +2,7 @@
 title: Sova när man är oren efter intim samvaro
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: '''Ishratun-Nisaa. wa Hill al-Khilaafaat az-Zowjiyyah – Page 59'
-categories:
-- Renhet (Tahārah)
-- Blandade utlåtanden
+categories: – Renhet (Tahārah) – Blandade utlåtanden
 original_id: 1381
 description: 'Fråga: Är detta tillåtet att sova om man är oren efter intim samvaro? Svar: Det
  finns inget syndigt i att sova utan tvagning även om det är bättre att göra det

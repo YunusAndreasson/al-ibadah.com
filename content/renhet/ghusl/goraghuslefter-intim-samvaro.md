@@ -2,9 +2,7 @@
 title: Göraghuslefter intim samvaro
 author: Muhammad bin Sālih al-ʿUthaymīn
 source: '''Ishratun-Nisā wa Hill al-Kjilāfāt az-Zowjiyyah – sida 58'
-categories:
-- Renhet (Tahārah)
-- Ghusl [Den stora tvagningen]
+categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
 original_id: 602
 description: 'Fråga: Jag ”leker” ofta med min fru och får ibland en orgasm även om
  vi inte har ett regelrätt samlag. Samma sak händer för min fru. Är det obligatorisk

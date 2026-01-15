@@ -3,9 +3,7 @@ title: Missade en bön för fyra år sedan
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 376 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Överger eller missar bönen
+categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 1532
 description: 'Fråga: För fyra år sedan var vi på en nöjesresa och jag missade en
  bön. Antingen var det middagsbönen eller eftermiddagsbönen – jag kommer inte ihåg

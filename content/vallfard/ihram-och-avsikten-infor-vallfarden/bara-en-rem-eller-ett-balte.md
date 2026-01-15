@@ -3,9 +3,7 @@ title: Bära en rem eller ett bälte
 author: Ibn ʿAbdullah Ibn Baz
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 128 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Ihrām och avsikten inför vallfärden
+categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
 original_id: 765
 description: 'Fråga: Får en pilgrim bära ett bälte under ihrām i vilket han kan
  förvara sina pengar? Kanske anses det vara ett sytt klädesplagg som inte är tillåtet

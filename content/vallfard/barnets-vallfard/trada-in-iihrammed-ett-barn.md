@@ -3,9 +3,7 @@ title: Träda in i ihrāmmed ett barn
 author: Ibn ʿAbdur-Rahman al-Jibrīn
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 43 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Barnets vallfärd
+categories: – Vallfärd (Hajj) – Barnets vallfärd
 original_id: 707
 description: 'Fråga: Om ett barn inte kan utföra tawāf på egen hand, är det då
  korrekt att bära det och utföra tawāf tillsammans med det? Måste barnet göra en

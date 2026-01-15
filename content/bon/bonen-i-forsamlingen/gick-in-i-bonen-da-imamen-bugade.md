@@ -3,9 +3,7 @@ title: Gick in i bönen då imamen bugade
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 196 s. ISBN saknas'
-categories:
-- Bön (Salāh)
-- Bönen i församlingen
+categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 1488
 description: 'Fråga: En troende kom för sent till bönen och fann att imamen bugade.
  Han gjorde då takbīr och bugade tillsammans med honom innan imamen rest sig upp

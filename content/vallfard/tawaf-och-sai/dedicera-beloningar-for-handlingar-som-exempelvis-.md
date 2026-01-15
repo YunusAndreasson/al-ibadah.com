@@ -3,9 +3,7 @@ title: Dedicera belöningar för handlingar, som exempelvis tawāf, till avlidna
 author: Muhammad bin Salih al-ʿUthaymin
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 199 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Tawāf och sa’ī
+categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 1354
 description: 'Fråga: När jag befann mig i Mecka och nyheten om att en kvinnlig släkting
  till mig avlidit kom, då gjorde jag tawāf för henne. Jag gjorde sju rundor runt

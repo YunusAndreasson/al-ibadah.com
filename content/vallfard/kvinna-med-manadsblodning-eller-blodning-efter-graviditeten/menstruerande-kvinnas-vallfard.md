@@ -3,9 +3,7 @@ title: Menstruerande kvinnas vallfärd
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 152 s. ISBN saknas'
-categories:
-- Vallfärd (Hajj)
-- Kvinna med månadsblödning eller blödning efter graviditeten
+categories: – Vallfärd (Hajj) – Kvinna med månadsblödning eller blödning efter graviditeten
 original_id: 1344
 description: 'Fråga: Vilket är utlåtandet om en kvinna som får sin månadsblödning
  under vallfärden? Är denna vallfärd tillräcklig för henne? Svar: Om en kvinna
