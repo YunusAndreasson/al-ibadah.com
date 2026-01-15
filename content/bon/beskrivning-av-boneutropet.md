@@ -21,7 +21,7 @@ Shaykh Ibn 'Uthaymīn har sagt:
 > 
 > 
 > 
-> Mālik har återberättar sjutton olika fraser som skall läsas. Man börjar med att säga ’*Allāhu Akbar*’ två gånger. Därefter läser böneutroparen trosbekännelsen först för sig själv för att sedan läsa den högt och fortsätta med böneutrop.
+> Mālik har återberättat sjutton olika fraser som skall läsas. Man börjar med att säga ’*Allāhu Akbar*’ två gånger. Därefter läser böneutroparen trosbekännelsen först för sig själv för att sedan läsa den högt och fortsätta med böneutrop.
 > 
 > 
 > 

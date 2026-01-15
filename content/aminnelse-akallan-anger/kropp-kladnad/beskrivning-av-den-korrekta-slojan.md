@@ -42,10 +42,10 @@ Ibn 'Abd al-Barr sade:
 
 5. Den bör inte vara parfymerad med *bakhūr* eller vällukt. Det finns många ahādīth[^3] som förbjuder kvinnor att bära parfym när de lämnar hemmet. Vi kommer nedan att citera några med autentiska berättarkedjor:
 
-1. Abū Mūsa al-Ash'ari har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: “En kvinna som tar på sig parfym och sedan passerar förbi folk så att de han känna hennes väldoft är en äktenskapsförbryterska.”
+1. Abū Mūsa al-Ash'ari har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: “En kvinna som tar på sig parfym och sedan passerar förbi folk så att de kan känna hennes väldoft är en äktenskapsförbryterska.”
 2. Zaynab har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: “Om någon av er [kvinnor] går till moskén, rör då ingen parfym.”
 3. Abū Hurairah har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: “Den kvinna som parfymerar sig med bakhūr, låt henne inte medvara vid nattbönen[^4] med oss.”
-4. Mūsa ibn Yassār har berättar att en kvinna gick förbi Abū Hurairah och hennes doft var överväldigande. Han sade då: “Kvinna, slav till al-Jabbār, är du på väg till moskén?” Hon svarade: “Ja.” Han sade: “Och du har parfymerat dig med anledning av det?” Hon svarade: “Ja.” Han sade: “Gå tillbaka och tvätta dig, för jag hörde Allāhs sändebud säga: 'Om en kvinna går till moskén och hennes doft är överväldigande, då kommer Allāh inte att acceptera någon bön ifrån henne innan hon har gått hem och tvättat sig.”
+4. Mūsa ibn Yassār har berättat att en kvinna gick förbi Abū Hurairah och hennes doft var överväldigande. Han sade då: “Kvinna, slav till al-Jabbār, är du på väg till moskén?” Hon svarade: “Ja.” Han sade: “Och du har parfymerat dig med anledning av det?” Hon svarade: “Ja.” Han sade: “Gå tillbaka och tvätta dig, för jag hörde Allāhs sändebud säga: 'Om en kvinna går till moskén och hennes doft är överväldigande, då kommer Allāh inte att acceptera någon bön ifrån henne innan hon har gått hem och tvättat sig.”
 
 Dessa *ahādīth[^3]* är generella i deras betydelser. Precis som förbudet täcker parfym ansatt på kroppen, täcker det även parfym ansatt på kläderna; detta speciellt i den tredje hadithen där bakhūr nämns. Detta beror på att bakhūr ofta används just på kläder.
 
