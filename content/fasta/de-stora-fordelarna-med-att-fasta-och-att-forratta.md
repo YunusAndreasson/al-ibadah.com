@@ -72,7 +72,7 @@ En muslim måste skydda fastan och bönen [under natten] mot ord och handlingar 
 
 Det har även rapporterats han sagt:
 
-> ”Den om inte överger falskt tal, handlar bedrägligt och beter sig okunnigt, då har Allāh inget behov av att denne överger sin mat och dryck.” [*al-Bukhārī* 1903]
+> ”Den som inte överger falskt tal, handlar bedrägligt och beter sig okunnigt, då har Allāh inget behov av att denne överger sin mat och dryck.” [*al-Bukhārī* 1903]
 
 Med utgångspunkt i bland annat dessa texter blir det klart att den fastande måste akta sig för allt som Allāh har förbjudit denne och vara noggrann med det som Allāh har gjort till en skyldighet. På detta sätt hoppas vi att denne kommer att förlåtas, frihet från Elden och att dennes fasta samt nattbön accepteras.
 
