@@ -64,7 +64,7 @@ Hur hög bör en *sutrah[^8]* vara?
 
 1. En *sutrah[^8]* bör vara ungefär en hand eller två ovan marken. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*När någon placerar något som pinnen vid sadelns slut framför sig bör denne be och inte oroa sig om någon som passerar framför den*.” Denna *hadīth[^9]* visar att en linje på marken inte är tillräckligt och den *hadīth[^9]* som har återberättats om det är svag.
 2. Man bör rikta sig direkt mot sin *sutrah[^8]* då detta är kommenderingens uppenbara innebörd, att man skall be mot sin *sutrah[^8]*. Det är fel att gå lite till höger eller till vänster så att man inte är direkt riktad mot den.
-3. Det är tillåtet att be i riktning mot en stav eller något liknande nedstucket i marken, eller ett träd, en pelare, ens fru som ligger ned i ängen under ett täcke eller ett djur, även om det är en kamel.
+3. Det är tillåtet att be i riktning mot en stav eller något liknande nedstucket i marken, eller ett träd, en pelare, ens fru som ligger ned i sängen under ett täcke eller ett djur, även om det är en kamel.
 
 Förbud mot att be i riktning mot gravar
 

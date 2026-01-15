@@ -23,7 +23,7 @@ Allāh den Upphöjde klargör i denna vers att offer till någon annan än Honom
 
 > ”Vi har sannerligen gett dig det goda i överflöd! Be därför till din Herre och förrätta [ditt] offer!” [Koranen 108:1-2]
 
-I denna sura lär Allāh – upphöjd är Han – Sin Profet att [han skall] be och offra till Honom. Detta står i motsats till de som begåt shirk[^1], som ber och slaktar för andra än Allāh. Allāh den Upphöjde säger:
+I denna sura lär Allāh – upphöjd är Han – Sin Profet att [han skall] be och offra till Honom. Detta står i motsats till de som begått shirk[^1], som ber och slaktar för andra än Allāh. Allāh den Upphöjde säger:
 
 > ”Er Herre har befallt, att ni inte skall dyrka någon annan än Honom.” [Koranen 17:23]
 > 
