@@ -13,7 +13,7 @@ description: 'Fråga: Hur kan vi uppnå ödmjukhet i bönen när vi exempelvis r
 
 **Fråga:** Hur kan vi uppnå ödmjukhet i bönen när vi exempelvis reciterar Koranen?
 
-**Svar:** Ödmjukhet är bönens innersta mening och själ. Innebörden av den är närvarande och att den troendes hjärta inte vandrar åt endera hållet. Känner man att något avleder ens uppmärksamhet från ödmjukheten, då söker man sin tillflykt hos Allāh från den utstötte djävulen. Detta är något som profeten – över honom vare Allāhs frid och välsignelser – har påbjudet. [*Muslim* 2203] Det råder inga tvivel om att djävulen kämpar för att förstöra all dyrkan. Detta gäller speciellt bönen som är den bästa dyrkan efter trosbekännelsen.
+**Svar:** Ödmjukhet är bönens innersta mening och själ. Innebörden av den är närvarande och att den troendes hjärta inte vandrar åt endera hållet. Känner man att något avleder ens uppmärksamhet från ödmjukheten, då söker man sin tillflykt hos Allāh från den utstötte djävulen. Detta är något som profeten – över honom vare Allāhs frid och välsignelser – har påbjudit. [*Muslim* 2203] Det råder inga tvivel om att djävulen kämpar för att förstöra all dyrkan. Detta gäller speciellt bönen som är den bästa dyrkan efter trosbekännelsen.
 
 När Allāhs tjänare ber kommer djävulen och säger: Har du tänkt på det? Har du tänkt på det? [Detta är en del av en *hadīth[^1]* från Abū Hurairah som återfinns i *al-Bukhārī* och *Muslim*] Han får denne att fundera över meningslösa saker i vilka det inte finns någon nytta. Det enda denne då tänker på är att avsluta bönen.
 

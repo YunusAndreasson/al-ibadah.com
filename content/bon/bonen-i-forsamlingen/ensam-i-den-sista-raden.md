@@ -26,7 +26,7 @@ Beträffande mannen som kom till moskén och fann att raderna var fulla och som 
 
 Man bör inte dra någon i raden framför bakåt för att be med en. Detta medför tre synder:
 
-1. Det öppnas ett hål i raden. Detta motsäger vad profeten – över honom vare Allāhs frid och välsignelser – har påbjudet när han sade att man skall stå tätt tillsammans och täppa till hålen i raderna.
+1. Det öppnas ett hål i raden. Detta motsäger vad profeten – över honom vare Allāhs frid och välsignelser – har påbjudit när han sade att man skall stå tätt tillsammans och täppa till hålen i raderna.
 2. Personen framför får flytta sig till en sämre plats. Detta är en sorts oförrätt mot denne.
 3. Personen framför störs i bönen därför att om denne blir utdragen måste det leda till att denne störs. Även detta är en oförrätt mot denne.
 

@@ -15,7 +15,7 @@ description: 'Fråga: Vad avser man med medelvägen i frågor som rör religione
 
 **Fråga:** Vad avser man med medelvägen i frågor som rör religionen?
 
-**Svar:** En medelväg i frågor som rör religionen betyder att man inte bör överdriva, inte överträda Allāhs gränser och inte vara otillräcklig genom att inte uppfylla vad Allāh den Härlige, den Upphöjde har påbjudet.
+**Svar:** En medelväg i frågor som rör religionen betyder att man inte bör överdriva, inte överträda Allāhs gränser och inte vara otillräcklig genom att inte uppfylla vad Allāh den Härlige, den Upphöjde har påbjudit.
 
 En medelväg i religiösa frågor är att hålla fast vid profetens – över honom vare Allāhs frid och välsignelser – sätt. Överdrift i frågor som rör religionen betyder att man går till överdrift. Bristfällighet innebär att man inte uppnår [vad man skall uppnå].
 
@@ -33,7 +33,7 @@ Ett annat exempel är ett med tre män framför vilka det står en syndig man oc
 
 Vi säger att den första personen är överdriven och extrem, den andra gör inte tillräckligt och den tredje är balanserad. Detta säger vi om alla former av dyrkan och beteenden. Människor är antingen otillräckliga, extrema eller balanserade.
 
-Ett tredje exempel rör en man som slavar under sin fru. Hon talar till sin man på vilket sätt hon vill. Han hindrar henne inte från att göra ont och inte heller uppmuntrar han henne till att sträva efter att göra gott. Hon kontrollerar honom och hon blir till en herre över honom. En annan man är förtryckande och arrogant och anser sig själv vara sin fru överlägsen. Han bryr sig inte alls om henne och i hans ögon är hon mindre värd än en tjänarinna. En tredje man är balanserad och han behandlar henne som Allāh och profeten – över honom vare Allāhs frid och välsignelser – har påbjudet honom att göra:
+Ett tredje exempel rör en man som slavar under sin fru. Hon talar till sin man på vilket sätt hon vill. Han hindrar henne inte från att göra ont och inte heller uppmuntrar han henne till att sträva efter att göra gott. Hon kontrollerar honom och hon blir till en herre över honom. En annan man är förtryckande och arrogant och anser sig själv vara sin fru överlägsen. Han bryr sig inte alls om henne och i hans ögon är hon mindre värd än en tjänarinna. En tredje man är balanserad och han behandlar henne som Allāh och profeten – över honom vare Allāhs frid och välsignelser – har påbjudit honom att göra:
 
 > ”Hustrun har, som sig bör, rättigheter [mot mannen] motsvarande [dem han har] mot henne; hans [rätt] ligger dock ett steg framför hennes. Gud är allsmäktig, vis.” [Koranen 2:228]
 > 
