@@ -1,0 +1,482 @@
+@import "tailwindcss";
+
+/* View Transitions API - smooth page navigation */
+@view-transition {
+  navigation: auto;
+}
+
+/* Subtle crossfade animation */
+::view-transition-old(root) {
+  animation: fade-out 0.15s ease-out;
+}
+
+::view-transition-new(root) {
+  animation: fade-in 0.15s ease-in;
+}
+
+@keyframes fade-out {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Disable view transitions for reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  @view-transition {
+    navigation: none;
+  }
+}
+
+/* Design System Tokens */
+@theme {
+  /* Font Families - modern browsers only, simplified stacks */
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-serif: 'Source Serif 4', Charter, 'Bitstream Charter', Georgia, serif;
+  --font-arabic: 'Noto Naskh Arabic', serif;
+
+  /* Typography Scale (Minor Third 1.2) */
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+  --font-size-4xl: 2.25rem;
+
+  /* Layout */
+  --max-width-content: 48rem;
+}
+
+/* Light mode - warm stone palette */
+:root {
+  --color-background: oklch(0.97 0.01 75);
+  --color-foreground: oklch(0.25 0.02 55);
+  --color-muted: oklch(0.94 0.01 75);
+  --color-muted-foreground: oklch(0.50 0.02 55);
+  --color-border: oklch(0.90 0.01 75);
+
+  /* Semantic tokens */
+  --color-primary: oklch(0.25 0.02 55);
+  --color-primary-foreground: oklch(0.97 0.01 75);
+  --color-ring: oklch(0.50 0.02 55);
+}
+
+/* Dark mode - warm charcoal palette */
+.dark {
+  --color-background: oklch(0.20 0.015 55);
+  --color-foreground: oklch(0.88 0.01 75);
+  --color-muted: oklch(0.25 0.015 55);
+  --color-muted-foreground: oklch(0.62 0.01 65);
+  --color-border: oklch(0.30 0.015 55);
+
+  /* Semantic tokens */
+  --color-primary: oklch(0.88 0.01 75);
+  --color-primary-foreground: oklch(0.20 0.015 55);
+  --color-ring: oklch(0.62 0.01 65);
+}
+
+/* Base styles */
+html {
+  font-family: var(--font-sans);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-optical-sizing: auto;
+  text-size-adjust: none;
+  scroll-behavior: smooth;
+  color-scheme: light dark;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  transition: background-color 0.3s ease, color 0.3s ease;
+  overflow-wrap: break-word;
+}
+
+/* Selection - using :has() for dark mode */
+::selection {
+  background-color: oklch(0.35 0.03 55 / 0.3);
+  color: inherit;
+}
+
+.dark ::selection {
+  background-color: oklch(0.75 0.02 75 / 0.3);
+}
+
+/* Typography for reading
+ *
+ * Optimized for long-form reading:
+ * - Font size: 18px base, scales 18-20px (research suggests 18-21px ideal)
+ * - Line height: 1.6 (optimal for 65ch lines with serif fonts)
+ * - Line length: 65ch (ideal range is 45-75ch, 66 is "perfect")
+ * - Paragraph spacing: 1.2em (roughly 0.75x line-height for good flow)
+ */
+.prose-reading {
+  font-family: var(--font-serif);
+  font-size: clamp(1.125rem, 1rem + 0.5vw, 1.25rem);
+  line-height: 1.6;
+  max-width: 65ch;
+  font-kerning: normal;
+  font-variant-ligatures: common-ligatures contextual;
+  font-synthesis: none;
+  hanging-punctuation: first allow-end last;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+.prose-reading p {
+  margin-bottom: 1.2em;
+  text-wrap: pretty;
+}
+
+/* First paragraph after headings has no top margin */
+.prose-reading h1 + p,
+.prose-reading h2 + p,
+.prose-reading h3 + p {
+  margin-top: 0;
+}
+
+.prose-reading h1 {
+  font-family: var(--font-sans);
+  font-size: 2.25rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  margin-bottom: 1rem;
+  text-wrap: balance;
+}
+
+.prose-reading h2 {
+  font-family: var(--font-sans);
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.015em;
+  margin-top: 2.5em;
+  margin-bottom: 0.75em;
+  padding-bottom: 0.4em;
+  border-bottom: 1px solid var(--color-border);
+  text-wrap: balance;
+}
+
+.prose-reading h3 {
+  font-family: var(--font-sans);
+  font-size: 1.125rem;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: -0.01em;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  text-wrap: balance;
+}
+
+.prose-reading a {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--color-muted-foreground);
+  transition: text-decoration-color 0.2s ease;
+}
+
+.prose-reading a:hover {
+  text-decoration-color: currentColor;
+}
+
+/* External link indicator */
+.prose-reading a[href^="http"]:not([href*="al-ibadah"])::after {
+  content: " ↗";
+  font-size: 0.75em;
+  vertical-align: super;
+  opacity: 0.6;
+}
+
+.prose-reading strong {
+  font-weight: 600;
+}
+
+/* Q&A labels - Fråga/Svar styling */
+.prose-reading p > strong:first-child {
+  font-family: var(--font-sans);
+  font-weight: 600;
+}
+
+.prose-reading blockquote {
+  font-style: italic;
+  border-left: 3px solid var(--color-muted-foreground);
+  padding-left: 1.25rem;
+  margin: 1.5em 0;
+  color: var(--color-muted-foreground);
+}
+
+.prose-reading blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.prose-reading ul,
+.prose-reading ol {
+  margin: 1.2em 0;
+  padding-left: 1.25em;
+}
+
+.prose-reading li {
+  margin-bottom: 0.35em;
+  padding-left: 0.25em;
+}
+
+.prose-reading li::marker {
+  color: var(--color-muted-foreground);
+}
+
+/* Horizontal rules */
+.prose-reading hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--color-border) 20%,
+    var(--color-border) 80%,
+    transparent
+  );
+  margin: 3em 0;
+}
+
+/* Arabic text */
+.arabic {
+  font-family: var(--font-arabic);
+  direction: rtl;
+  text-align: right;
+}
+
+.font-arabic {
+  font-family: var(--font-arabic);
+}
+
+/* Footnotes section at bottom */
+.prose-reading .footnotes {
+  font-family: var(--font-sans);
+  font-size: 0.8125rem;
+  line-height: 1.6;
+  color: var(--color-muted-foreground);
+  border-top: 1px solid var(--color-border);
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+}
+
+.prose-reading .footnotes ol {
+  list-style: none;
+  padding-left: 0;
+  counter-reset: footnote;
+}
+
+.prose-reading .footnotes li {
+  margin-bottom: 0.75em;
+  padding: 0.25em 0;
+  padding-left: 2em;
+  position: relative;
+  scroll-margin-top: 6rem;
+  counter-increment: footnote;
+}
+
+.prose-reading .footnotes li::before {
+  content: counter(footnote);
+  position: absolute;
+  left: 0;
+  top: 0.35em;
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--color-muted-foreground);
+  background-color: var(--color-muted);
+  border: 1px solid var(--color-border);
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+}
+
+.prose-reading .footnotes li:target {
+  animation: highlight-fade 2s ease-out;
+}
+
+.prose-reading .footnotes li[id]:target {
+  animation: highlight-fade 2s ease-out;
+}
+
+@keyframes highlight-fade {
+  0%, 30% { background-color: oklch(0.85 0.03 75 / 0.4); }
+  100% { background-color: transparent; }
+}
+
+.dark .prose-reading .footnotes li:target {
+  animation: highlight-fade-dark 2s ease-out;
+}
+
+@keyframes highlight-fade-dark {
+  0%, 30% { background-color: oklch(0.35 0.02 55 / 0.4); }
+  100% { background-color: transparent; }
+}
+
+.prose-reading .footnotes p {
+  margin-bottom: 0.5em;
+}
+
+/* Superscript citation badges */
+.prose-reading sup {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+
+.prose-reading sup a[data-footnote-ref] {
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--color-muted-foreground);
+  background-color: var(--color-muted);
+  border: 1px solid var(--color-border);
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+  transition: all 0.15s ease;
+}
+
+.prose-reading sup a[data-footnote-ref]:hover {
+  color: var(--color-foreground);
+  border-color: var(--color-muted-foreground);
+}
+
+/* Back-reference links in footnotes */
+.prose-reading .footnotes a[data-footnote-backref] {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  text-decoration: none;
+  color: var(--color-muted-foreground);
+  margin-left: 0.25em;
+  opacity: 0.7;
+  transition: opacity 0.15s ease;
+}
+
+.prose-reading .footnotes a[data-footnote-backref]:hover {
+  opacity: 1;
+  color: var(--color-foreground);
+}
+
+/* Focus styles */
+:focus-visible {
+  outline: 2px solid var(--color-ring);
+  outline-offset: 2px;
+}
+
+/* Skip link */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  padding: 8px 16px;
+  background: var(--color-foreground);
+  color: var(--color-background);
+  z-index: 100;
+  font-size: 0.875rem;
+  border-radius: 0 0 4px 0;
+  transition: top 0.2s ease;
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
+/* Page title - consistent across all pages */
+.page-title {
+  font-family: var(--font-sans);
+  font-size: clamp(1.875rem, 1.5rem + 2vw, 2.25rem);
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  text-wrap: balance;
+}
+
+/* Utility classes */
+.bg-background { background-color: var(--color-background); }
+.text-foreground { color: var(--color-foreground); }
+.bg-muted { background-color: var(--color-muted); }
+.text-muted-foreground { color: var(--color-muted-foreground); }
+.border-border { border-color: var(--color-border); }
+
+/* Micro-interactions */
+
+/* Dialog animations */
+@keyframes dialog-overlay-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes dialog-content-in {
+  from {
+    opacity: 0;
+    transform: scale(0.96) translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.animate-dialog-overlay {
+  animation: dialog-overlay-in 0.15s ease-out;
+}
+
+.animate-dialog-content {
+  animation: dialog-content-in 0.15s ease-out;
+}
+
+/* Icon rotation for theme toggle */
+@keyframes icon-in {
+  from {
+    opacity: 0;
+    transform: rotate(-45deg) scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: rotate(0) scale(1);
+  }
+}
+
+.animate-icon-in {
+  animation: icon-in 0.2s ease-out;
+}
+
+/* Button press feedback */
+.press-scale {
+  transition: transform 0.1s ease;
+}
+
+.press-scale:active {
+  transform: scale(0.97);
+}
+
+/* List item hover - subtle border emphasis */
+.hover-border {
+  transition: border-color 0.2s ease;
+}
+
+.hover-border:hover {
+  border-color: var(--color-muted-foreground);
+}

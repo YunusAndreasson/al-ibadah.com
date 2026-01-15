@@ -1,0 +1,31 @@
+---
+title: Radband som används för åminnelse
+author: Muhammad bin Salih al-'Uthaymin
+source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+ Maktaba Dar us-Salam. ISBN saknas'
+categories:
+- Troslära (´Aqīdah)
+- Innovationer
+original_id: 1657
+description: 'Fråga: Vilket är det islamiska utlåtandet om att använda radband, något
+ som många av oss använder efter att vi fullföljt bönen? Svar: Det är bättre att
+ använda sina fingrar för åminnelse och de...'
+---
+
+**Fråga:** Vilket är det islamiska utlåtandet om att använda radband, något som många av oss använder efter att vi fullföljt bönen?
+
+**Svar:** Det är bättre att använda sina fingrar för åminnelse[^1] och det är bättre att enbart använda högerhanden när man gör så istället för att både använda den högra och den vänstra. Detta är vad som har rapporterats från profetens *sunnah[^2]*– över honom vare Allāhs frid och välsignelser. Han beordrade att åminnelse[^1] och tasbih[^3] skall räknas på fingrarna. Han har sagt att de kommer att tillfrågas om det och han åmindes med hjälp av sin högra hand. Att använda radband innebär vissa överträdelser:
+
+1. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – vägledde oss till att använda våra fingrar för att åminnas och att använda radband går då stick i stäv mot dessa instruktioner.
+2. Användandet av radband kan ibland leda till att någon vill imponera. Detta gäller speciellt de som hänger ett radhalsband runt halsen med 1000 kulor, precis som om de skulle vilja säga: ”Se på oss, vi gör *tasbih[^3]*1000 gånger.” Jag säger inte att alla som använder radband gör det för att visa sig duktiga men jag säger att användandet av dem kan leda till det.
+3. När en person använder radband för åminnelse[^1] leder det ofta till att hans hjärta blir obetänksamt. Hans koncentration blir bristfällig och även om tungan rör sig vandrar ögonen mot allt som passerar förbi.
+
+Av dessa anledningar säger jag att det är bättre att inte använda radband. Istället bör man använda sina fingrar för att räka, något som profeten – över honom vare Allāhs frid och välsignelser – instruerat oss till att göra. 
+
+Och Allāh den Allsmäktige vet bäst.
+
+
+[^1]: Dhikr
+[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Att upphöja Allah, Subhan Allah.
+

@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+
+# Build output
+.output/
+dist/
+
+# Vite
+*.local
+
+# Generated files
+src/generated/
+
+# Cloudflare
+.wrangler/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Temporary/old files
+app.config.timestamp_*.js
+*.old
+assets.old/
+index.html.old
+
+# Python
+__pycache__/
+*.py
+requirements.txt
+
+# Prerendered HTML (generated during build)
+1-troslara/
+2-renhet/
+3-bon/
+4-allmosa/
+5-fasta/
+6-vallfard/
+7-blandat/

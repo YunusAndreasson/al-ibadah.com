@@ -1,0 +1,32 @@
+---
+title: Inverkan från jinn på människor och att söka skydd från dem
+author: Muhammad bin Salih al-'Uthaymin
+source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+ Maktaba Dar us-Salam. ISBN saknas'
+categories:
+- Troslära (´Aqīdah)
+- Jinn, magi och det onda ögat
+original_id: 1654
+description: 'Fråga: Kan jinn skada en människa? Hur kan vi skydda oss mot dem? Svar: Utan
+ tvekan kan jinn skada människan, ibland kan till och med något leda till att hon
+ avlider. Både profetens sunnah och ...'
+---
+
+**Fråga:** Kan jinn[^1] skada en människa? Hur kan vi skydda oss mot dem?
+
+**Svar:** Utan tvekan kan jinn[^1] skada människan, ibland kan till och med något leda till att hon avlider. Både profetens sunnah[^2] och vad som observerats stödjer detta. Under ett krig gav Allāhs sändebud – över honom vare Allāhs frid och välsignelser – en av följeslagarna tillstånd att återvända till hans familj. Denna följeslagare var ung och nyligen gift. När han återvände hem såg han sin fru ståendes vid dörren och han förebrådde henne för det. Hon sade åt honom att gå in och när han gick in såg han en orm på filten. Han hade ett spjut med sig och han stack den genom ormens kropp tills den dog. Men mannen dog samtidig och ingen vet vem som dog först – han eller ormen. När nyheterna om denna olycka nådde Allāhs sändebud förbjöd han att man avlivar små ormar man finner i sitt hem. Undantaget härifrån finns en orm med kort svans och de med två svarta sträck på ryggen.
+
+Detta bevisar att jinn[^1] kan attackera människor. Ibland går en person till en avskild plats där han inte ser någon men han hör röster eller ljud eller hör han stenar som kastas. När detta inträffar kan det mycket möjligen vara jinn[^1]. Dessa jinn[^1] kan även träda in i en människas kropp på grund av att de älskar eller hatar den personen eller av någon annan anledning. Allāh den Allsmäktige säger: 
+
+> ”De som livnär sig på ocker skall uppstå [till Domen] lika ostadiga på benen som den som Djävulen med sin beröring slagit med vansinne.” [Koranen 2:275]
+
+För att skydda oss själva mot onda jinn[^1] bör vi läsa åkallan[^3] som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – lärde oss att läsa, som *al-Kursi[^4]*-versen, för när man läser denna vers under natten skyddas man mot djävulen som inte kommer nära en förrän under morgonen. 
+
+Och Allāh den Allsmäktige är den som skyddar oss.
+
+
+[^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
+[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Du´ā
+[^4]: Allahs fotpall.
+

@@ -1,0 +1,18 @@
+---
+title: Tunna sockar – stryka över dem
+author: Ibn 'Abdullāh Ibn Baz
+source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+ Libanon: Maktaba Dar us-Salam. 101 s. ISBN saknas'
+categories:
+- Renhet (Tahārah)
+- Stryka över sockar
+original_id: 1442
+description: 'Fråga: Vilket är utlåtandet om att stryka över tunna sockar? Svar: Ett
+ av villkoren för att det skall vara tillåtet att stryka över sockarna är att de
+ är tjocka och täcker foten. Om de är tunn...'
+---
+
+**Fråga:** Vilket är utlåtandet om att stryka över tunna sockar?
+
+**Svar:** Ett av villkoren för att det skall vara tillåtet att stryka över sockarna är att de är tjocka och täcker foten. Om de är tunna är det inte tillåtet att stryka över dem. Då är ju foten inte täckt.
+

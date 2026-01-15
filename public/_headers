@@ -1,0 +1,18 @@
+# Cloudflare Pages Headers
+# https://developers.cloudflare.com/pages/configuration/headers/
+
+# Static assets - cache for 1 year (immutable)
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Fonts - cache for 1 year
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+  Access-Control-Allow-Origin: *
+
+# HTML pages - cache with revalidation
+/*
+  Cache-Control: public, max-age=0, must-revalidate
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin

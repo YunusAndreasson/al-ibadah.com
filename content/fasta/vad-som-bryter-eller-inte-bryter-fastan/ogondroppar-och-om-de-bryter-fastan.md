@@ -1,0 +1,21 @@
+---
+title: Ögondroppar och om de bryter fastan
+author: Ibn 'Abdullah Ibn Baz
+source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+ Libanon: Maktaba Dar us-Salam. 266 s. ISBN saknas'
+categories:
+- Fasta (Sawm)
+- Vad som bryter eller inte bryter fastan
+original_id: 424
+description: 'Fråga: Bryts fastan om man använder ögondroppar dagtid under ramadan? Svar: Den
+ korrekta åsikten är att droppar inte bryter fastan även om de lärde har olika åsikter.
+ Vissa har sagt att om des...'
+---
+
+**Fråga:** Bryts fastan om man använder ögondroppar dagtid under ramadan[^1]?
+
+**Svar:** Den korrekta åsikten är att droppar inte bryter fastan även om de lärde har olika åsikter. Vissa har sagt att om dess smak når halsen så bryter det fastan. Den korrekta åsikten är dock att de inte bryter den då ögat inte är en ingång [till kroppen]. Men om man känner smaken i halsen om tar igen fastedagen för att vara på den säkra sidan och för att undvika de olika åsikterna, då är det ingen fara i det. Ja, den korrekta åsikten är att det inte bryter fastan oberoende av om dropparna tas i ögat eller i örat.
+
+
+[^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
+
