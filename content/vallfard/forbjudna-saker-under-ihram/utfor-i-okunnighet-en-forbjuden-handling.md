@@ -23,7 +23,7 @@ Allāh har även sagt: ”*Om ni här begår ett misstag. skall ni inte klandras
 
 Och i en *hadīth[^3]* rapporteras det: ”*Mitt samfund har förlåtits för oavsiktliga fel och glömska*.” [*Ibn Mājah* 2045]
 
-Beträffande att döda vilt har majoriteten av de lärda dömt enligt dess princip [att man måste offra] och de har inte frågat om man gjorde de avsiktligen eller av misstag. Det som troligen är rätt är att det inte är en synd [att döda vilt, oavsiktligen eller i glömska] och det finns inget offer för den som glömde eller gjorde det på grund av glömska. Detta eftersomAllāh har sagt: ”*Den av er som [då] avsiktligen nedlägger vilt*.” [Koranen 5:95]
+Beträffande att döda vilt har majoriteten av de lärda dömt enligt dess princip [att man måste offra] och de har inte frågat om man gjorde de avsiktligen eller av misstag. Det som troligen är rätt är att det inte är en synd [att döda vilt, oavsiktligen eller i glömska] och det finns inget offer för den som glömde eller gjorde det på grund av glömska. Detta eftersom Allāh har sagt: ”*Den av er som [då] avsiktligen nedlägger vilt*.” [Koranen 5:95]
 
 Ett äktenskapskontrakt är inte giltigt även om det upprättades på grund av okunskap, och det krävs inget offer för det.
 

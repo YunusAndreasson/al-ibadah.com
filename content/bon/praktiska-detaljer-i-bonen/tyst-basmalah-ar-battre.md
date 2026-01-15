@@ -18,7 +18,7 @@ description: 'Fråga: Vilket är utlåtandet om att recitera ” Bismillāh ” 
 
 Ett flertal andra *ahādīth[^1]* med samma innebörd har rapporterats. I några *ahādīth[^1]* rapporteras att det är fördelaktigt att säga det högt. Dessa *ahādīth[^1]* är dock svaga. Vi känner inte till några klara *ahādīth[^1]* som stödjer att man skall säga ”*Bismillāh*” högt.
 
-Det finns dock utrymme för flexibilitet och detta skall inte leda till dispyter. Om imamen ibland reciterar högtför att Allāhs tjänare skall höra honom, då finns det ingen invändan mot det även om grundregeln är att detta skall läsas tyst. Allt enligt autentiska *ahādīth[^1]*.
+Det finns dock utrymme för flexibilitet och detta skall inte leda till dispyter. Om imamen ibland reciterar högt för att Allāhs tjänare skall höra honom, då finns det ingen invändan mot det även om grundregeln är att detta skall läsas tyst. Allt enligt autentiska *ahādīth[^1]*.
 
 
 [^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.

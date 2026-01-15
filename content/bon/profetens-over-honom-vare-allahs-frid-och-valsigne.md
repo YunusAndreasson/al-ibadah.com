@@ -235,7 +235,7 @@ Lugn i nedfallan
 
 *Iftirāsh* och *iq'ā'* mellan de båda nedfallandena
 
-[*Iftirāsh* innebär att man sitter på det vänstra låret med den högra foten uppåt och dess tår pekandes i riktning mot *qiblah[^3]*.*Iq’ā’* innebär att man vilar på både hälarna och fötterna]
+[*Iftirāsh* innebär att man sitter på det vänstra låret med den högra foten uppåt och dess tår pekandes i riktning mot *qiblah[^3]*. *Iq'ā'* innebär att man vilar på både hälarna och fötterna]
 
 1. Sedan reser man sitt huvud sägandes *takbīr[^4]*. Detta är obligatoriskt.
 2. Man höjer händerna ibland

@@ -20,7 +20,7 @@ description: 'Fråga: I vissa länder börjar muslimer att fasta utan att se til
 
 I *Sahīh al-Bukhārī* har det bekräftats från Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Fasta enligt dens [nymånens] siktande och bryt fastan enligt dens siktande. Om den är dold för er genom moln, fullgör då antalet [dagar i] sha'ban som 30*.” [*al-Bukhārī* 1909 och *Muslim* 1081] Och han har sagt: ”*Fasta* *inte förrän ni ser nymånen eller ni har räknat [30 dagar i sha'ban] och bryt inte er fasta förrän ni ser nymånen eller ni har räknat antalet [av 30 dagar i ramadan[^2]]*.” [*al-Bukhārī* 1080]
 
-Ahādīth[^1] om detta är många och de bevisar alla att det är obligatoriskt att utgå från siktandet av månen eller efter antalet dagar om den inte kan ses. Likaså bevisar de att det inte är tillåtet att här lita på kalkyleringar.*Shaykul-Islam* Ibn Taimiyyah har nämnt att det råder konsensus bland de lärda om att det inte är tillåtet att lita på kalkyleringar för att bekräfta den nya månen. Detta är sanningen som det inte finns något tvivel om.
+Ahādīth[^1] om detta är många och de bevisar alla att det är obligatoriskt att utgå från siktandet av månen eller efter antalet dagar om den inte kan ses. Likaså bevisar de att det inte är tillåtet att här lita på kalkyleringar. *Shaykul-Islam* Ibn Taimiyyah har nämnt att det råder konsensus bland de lärda om att det inte är tillåtet att lita på kalkyleringar för att bekräfta den nya månen. Detta är sanningen som det inte finns något tvivel om.
 
 Och Allāh är Beviljaren av framgång.
 

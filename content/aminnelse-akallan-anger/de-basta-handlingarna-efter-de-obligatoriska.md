@@ -1,5 +1,5 @@
 ---
-title: De bästa handlingarna eftert de obligatoriska
+title: De bästa handlingarna efter de obligatoriska
 author: Shaykh ul-islām Ibn Taymiyyah
 source: al-Wasiyyah al-Jāmi’ah li Khayr al-Dunya wa’l-Ākhirah
 categories:
