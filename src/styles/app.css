@@ -234,16 +234,47 @@ body {
 .prose-reading ul,
 .prose-reading ol {
   margin: 1.2em 0;
-  padding-left: 1.25em;
+  padding-left: 0;
+  list-style: none;
 }
 
 .prose-reading li {
-  margin-bottom: 0.35em;
-  padding-left: 0.25em;
+  margin-bottom: 0.5em;
+  padding-left: 1.5em;
+  position: relative;
 }
 
-.prose-reading li::marker {
+/* Unordered list indicator - subtle dot */
+.prose-reading ul > li::before {
+  content: '';
+  position: absolute;
+  left: 0.25em;
+  top: 0.6em;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: var(--color-muted-foreground);
+  opacity: 0.5;
+}
+
+/* Ordered list indicator - subtle numbers */
+.prose-reading ol {
+  counter-reset: list-counter;
+}
+
+.prose-reading ol > li {
+  counter-increment: list-counter;
+}
+
+.prose-reading ol > li::before {
+  content: counter(list-counter);
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 0.8em;
+  font-weight: 500;
   color: var(--color-muted-foreground);
+  opacity: 0.7;
 }
 
 /* Horizontal rules */

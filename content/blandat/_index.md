@@ -1,6 +1,6 @@
 ---
-title: Åminnelse, åkallan, ånger...
-description: Frågor och svar om trosbekännelsen, bönen, fastan, allmosan och vallfärden.
+title: Blandat
+description: Övriga frågor och svar om åminnelse, åkallan, ånger och andra ämnen.
 ---
 
 I Allāhs den Barmhärtiges den Nåderikes namn
