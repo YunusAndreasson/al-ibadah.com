@@ -16,7 +16,7 @@ description: 'Fråga: Är det obligatoriskt eller är det en betonad sunnah att 
 
 **Svar:** De lärde är eniga om att ”sittpausen” när man har rest huvudet från det andra nedfallandet i den första och tredje bönecykeln[^2], innan man reser sig upp för att fortsätta, inte är en obligatorisk del i bönen eller ens en betonad *sunnah[^1]*.
 
-De är oeniga om det enbart är en *sunnah[^1]*, en del av bönen över huvud taget eller om endast den som behöver göra det ska göra det [på grund av svaghet, ålderdom, sjukdom eller övervikt].
+De är oeniga om det enbart är en *sunnah[^1]*, en del av bönen överhuvudtaget eller om endast den som behöver göra det ska göra det [på grund av svaghet, ålderdom, sjukdom eller övervikt].
 
 ash-Shafi'i och ett antal lärde inom *hadīth[^3]* har sagt att det är *sunnah[^1]*. Det är en av de båda hadithena från imam Ahmad, baserat på vad al-Bukhārī och de som har sammanställt *Sunan* har återberättat från Mālik bin al-Huwairith, att han såg profeten – över honom vare Allāhs frid och välsignelser – be och när han bad *witr[^4]*-bönen, då reste han sig inte förrän han hade funnit ro i den sittande positionen. [*al-Bukhārī* 823]
 

@@ -77,7 +77,7 @@ Då äktenskapet blir ogiltigt om mannen överger bönen och om han inte ångrar
 
 Kortfattat är svaret: Friaren som inte ber i församling är en syndare. Han är inte skyldig till otro på grund av det och det är tillåtet att gifta sig med honom under dessa omständigheter. Men en annan religiös person med god karaktär skulle vara mer förtjänt än honom.
 
-Ber han inte över huvud taget, varken i hemmet eller i församlingen, är han en icke-troende och en avfälling som står utanför islam. Det är inte under några omständigheter tillåtet för honom att gifta sig med en muslimsk kvinna om han inte uppriktigt ångrar sig, ber och håller sig till den islamiska religionen.
+Ber han inte överhuvudtaget, varken i hemmet eller i församlingen, är han en icke-troende och en avfälling som står utanför islam. Det är inte under några omständigheter tillåtet för honom att gifta sig med en muslimsk kvinna om han inte uppriktigt ångrar sig, ber och håller sig till den islamiska religionen.
 
 Beträffande vad frågeställaren har sagt om att fadern till kvinnan som det har friats till har frågat om honom och den som fadern frågade sade: ”Allāh kommer att vägleda honom.” Här säger vi att enbart Allāh den Upphöjde känner till framtiden och hur det kommer att bli ligger i Hans hand och vi tillfrågas inte om något annat än det vi känner till just nu. Det rådande tillståndet för friaren är otro och han får inte gifta sig med den muslimska kvinnan. Vi ber då Allāh den Upphöjde att Han vägleder honom tillbaka till islam så att han ska kunna gifta sig med denna muslimska kvinna. Detta är inte något som är svårt för Allāh.
 
