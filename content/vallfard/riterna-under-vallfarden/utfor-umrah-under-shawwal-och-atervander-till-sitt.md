@@ -13,7 +13,7 @@ description: 'Fråga: Jag utförde ‘umrah under de sista dagarna i shawwal . D
  ]. Jag skulle vilja veta vad som gäller i...'
 ---
 
-**Fråga:** Jag utförde *‘umrah[^1]* under de sista dagarna i *shawwal[^2]*. Därefter återvände jag till Mecka med avsikten att utföra endast vallfärden [*hajjul-ifrad*]. Jag skulle vilja veta vad som gäller i denna fråga. Anses jag vara en *mutamatti[^3]'*och är jag skyldig att slakta ett djur?
+**Fråga:** Jag utförde *‘umrah[^1]* under de sista dagarna i *shawwal[^2]*. Därefter återvände jag till Mecka med avsikten att utföra endast vallfärden [*hajjul-ifrad*]. Jag skulle vilja veta vad som gäller i denna fråga. Anses jag vara en *mutamatti[^3]'* och är jag skyldig att slakta ett djur?
 
 **Svar:** Om någon gör *‘umrah[^1]* i *shawwal[^2]* eller *thul-qa’dah[^4]* och sedan återvänder till sitt hemland, för att sedan komma tillbaka endast för vallfärden [likt en *mufrid[^5]* som gör *hajjul-ifrad*], då är majoritetens åsikt att denne inte är en *mutamatti[^3]'* och att denne inte behöver offra ett djur. Anledning är att denne återvände till sitt hemland och sedan kom tillbaka för att vallfärda som en *mufrid[^5]*. Detta har rapporterats från ‘Umar – må Allāh vara nöjd med honom – samt hans son och det är åsikten bland majoriteten av de lärde.
 

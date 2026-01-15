@@ -23,7 +23,7 @@ Har han förlorat hoppet om att sjukdomen skall gå över, då är han likt den 
 
 > ”Men om omständigheterna hindrar er [att fullfölja den], ge då vad ni har möjlighet att ge som offergåva.” [Koranen 2:196]
 
-Om han inte kan betala priset för ett får [att få det slaktat], då fastar han tio dagar och avlägsnar sedan sin *ihrām[^4]*. Om han blir sjuk innan Arafat[^5] och han missar att stå [vid Arafat[^5]], då har han missat vallfärden och han måste komma ut ur *ihrām[^4]* med endast en*‘umrah[^2]*.
+Om han inte kan betala priset för ett får [att få det slaktat], då fastar han tio dagar och avlägsnar sedan sin *ihrām[^4]*. Om han blir sjuk innan Arafat[^5] och han missar att stå [vid Arafat[^5]], då har han missat vallfärden och han måste komma ut ur *ihrām[^4]* med endast en *'umrah[^2]*.
 
 Och Allāh vet bäst.
 
