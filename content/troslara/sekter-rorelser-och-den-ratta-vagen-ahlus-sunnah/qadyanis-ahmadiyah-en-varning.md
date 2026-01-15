@@ -29,7 +29,7 @@ I samma journal [tredje volymen] sägs det: ”*Mirza är profeten Muhammad*.”
 
 > ”Och för att förkunna för er det glada budskapet att ett sändebud ska komma efter mig vars namn ska vara Ahmad.” [Koranen 61:6]
 
-Kommittén har även undersökt vad pålitliga lärde samt författare har skrivit och publicerat om Qadyani Ahmadiyah. Det klargörs att de helt och hållet står utanför islam.
+Kommittén har även undersökt vad pålitliga lärde samt författare har skrivit och publicerat om Qadyani Ahmadiyah. Det klargörs att de helt står utanför islam.
 
 Baserat på detta tillkännagav Parlimentary Terrirorial Committee i Pakistan 1974, i total enighet bland dess medlemmar, att Qadyanisekten var en icke-muslimsk minoritet i Pakistan. Nationalrådet för den pakistanska nationen var även enigt om att Qadyani var en icke-muslimsk minoritet.
 

@@ -17,7 +17,7 @@ description: 'Fråga: Kan ni förklara det förutbestämda? […] Svar: Det för
 
 **Svar:** Det förutbestämda har varit en källa till tvister under en lång tid. Därför har människor delat sig i grupper: två extremer och en mellangrupp. Beträffande de båda extremerna:
 
-De tittade helt och hållet på Allāhs förutbestämmelse och de var blinda inför människan fria vilja. De säger: Människan är tvingad att handla och har inget val i handlandet. Faller någon då på grund av vinden ned från ett tak, eller något liknande, är det detsamma som om denne hade gått ned därifrån via trappan.
+De tittade helt på Allāhs förutbestämmelse och de var blinda inför människan fria vilja. De säger: Människan är tvingad att handla och har inget val i handlandet. Faller någon då på grund av vinden ned från ett tak, eller något liknande, är det detsamma som om denne hade gått ned därifrån via trappan.
 
 De tror att människan utför eller överger handlingar genom ett eget val och att hon är blind inför Allāhs förutbestämmelse. De säger: Människan är oberoende i sitt handlande och det finns inget beroende till Allāhs den Upphöjdes förutbestämmelse.
 

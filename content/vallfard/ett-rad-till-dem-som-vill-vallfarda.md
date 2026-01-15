@@ -18,7 +18,7 @@ description: 'Fråga: All lovprisan tillhör Allāh ensam och må böner med vä
 
 Muslimer! Sannerligen är mitt råd till er att ni alltid fruktar Allāh, att ni står stadiga i Hans religion och att ni aktar er för det som orsakar Hans vrede. Sannerligen, den viktigaste av de obligatoriska handlingarna och den största skyldigheten Allāhs enhet och att enbart och uppriktigt inte dyrka någon annan än Honom. Detta går hand i hand med att vara noggrann med att följa Hans sändebud i ord och handling. Sannerligen bör vallfärdsriterna – och alla annan dyrkan – utföras på det sätt som Allāh har föreskrivit för tjänarna genom orden från Hans sändebud, vän och utvalde från Hans skapelse, vår profet, imam och ledare – Muhammad bin 'Abdullāh.
 
-Sannerligen är den ondaste av alla handlingar och det farligaste av alla brott att sätta medhjälpare vid Allāhs sida. Detta sker genom att man helt och hållet eller delvis dyrkar någon annan än Allāh. Anledningen är att Allāh har sagt:
+Sannerligen är den ondaste av alla handlingar och det farligaste av alla brott att sätta medhjälpare vid Allāhs sida. Detta sker genom att man helt eller delvis dyrkar någon annan än Allāh. Anledningen är att Allāh har sagt:
 
 > ”Gud förlåter inte dem som sätter medhjälpare vid Hans sida, men Han förlåter den Han vill hans mindre synder; den som sätter medhjälpare vid Guds sida har sannerligen gjort sig skyldig till en oerhörd synd.” [Koranen 4:48]
 

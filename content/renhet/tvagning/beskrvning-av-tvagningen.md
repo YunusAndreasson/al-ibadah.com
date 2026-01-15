@@ -17,7 +17,7 @@ description: 'Fråga: Hur tvagar man sig? Svar: All lovprisan tillhör Allāh. I
 
 Den obligatoriska delen av tvagningen[^1]
 
-1. Tvätta ansiktet helt och hållet en gång, vilket inkluderar att man sköljer näsan och munnen.
+1. Tvätta ansiktet helt en gång, vilket inkluderar att man sköljer näsan och munnen.
 2. Tvätta armarna upp till armbågarna en gång.
 3. Stryka över hela huvudet, inklusive öronen.
 4. Tvätta fötterna upp till anklarna en gång.
