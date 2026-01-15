@@ -1,7 +1,7 @@
 ---
 title: Män som bär guldringar
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
 - Åminnelse, åkallan, ånger...
@@ -17,5 +17,5 @@ description: 'Fråga: Vilket är utlåtandet om att bära en guldring som vanlig
 **Svar:** Män får inte bära guldringar, varken före eller efter de gift sig. Detta beror på att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i autentisk hadīth[^1] förbjudit att de bärs. Och när han såg en guldring på en mans hand tog han bort den och begravde den i jorden. Han sade: ”En av er tar ett glödande kolstycke ur Elden och sätter den på sin hand!” [Muslim 2090] Detta visar på att det är absolut förbjudet för män att bära ringar av guld även om det är en vigselring.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

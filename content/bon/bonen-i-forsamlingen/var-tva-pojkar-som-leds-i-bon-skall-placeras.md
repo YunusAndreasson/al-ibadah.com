@@ -1,7 +1,7 @@
 ---
 title: Var två pojkar som leds i bön ska placeras
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 326 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -19,5 +19,5 @@ description: 'Fråga: När en man leder två eller flera pojkar som ännu inte h
 I en annan återberättelse rapporteras att han ledde Anas i bön och att han ställde honom på sin högra sida. Han har också lett Ibn ‘Abbās i bön och placerat honom på sin högra sida.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

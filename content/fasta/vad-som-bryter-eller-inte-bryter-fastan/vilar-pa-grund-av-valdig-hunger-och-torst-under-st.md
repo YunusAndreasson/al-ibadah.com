@@ -1,7 +1,7 @@
 ---
 title: Vilar på grund av väldig hunger och törst under större delen av dagen – om
  det påverkar fastan
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 644 s. ISBN 9960-892-66-2'
 categories:

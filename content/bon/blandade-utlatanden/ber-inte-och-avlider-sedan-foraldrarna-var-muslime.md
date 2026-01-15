@@ -1,6 +1,6 @@
 ---
 title: Ber inte och avlider sedan [föräldrarna var muslimer]
-author: Ibn 'Abdullah Ibn Baz
+author: Ibn ʿAbdullah Ibn Baz
 source: Fatāwa al-Marah
 categories:
 - Bön (Salāh)
@@ -17,10 +17,10 @@ description: 'Fråga: Vad händer med en person, även om hans föräldrar var m
 
 Profeten – över honom vare Allāhs frid och välsignelser – sade även: ”*Det som skiljer oss ifrån de icke-troende är bönen. Den som övergivet den har begått kufr[^2]*.” [*Ahmad*]
 
-'Abdullāh ibn Shaqīq al-'Aqīlī, en av de ädla följeslagarna, sade: ”*profetens – över honom vare Allāhs frid och välsignelser –* *följeslagare ansåg inte att övergivandet av någon handling utom bönen vara kufr[^2]*.” /…/
+ʿAbdullāh ibn Shaqīq al-'Aqīlī, en av de ädla följeslagarna, sade: ”*profetens – över honom vare Allāhs frid och välsignelser –* *följeslagare ansåg inte att övergivandet av någon handling utom bönen vara kufr[^2]*.” /…/
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: Otro.
-[^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
+[^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

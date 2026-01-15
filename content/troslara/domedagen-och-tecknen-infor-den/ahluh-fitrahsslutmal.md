@@ -1,10 +1,10 @@
 ---
 title: Ahluh-fitrahsslutmål
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 228 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Domedagen och tecknen inför den
 original_id: 109
 description: 'Fråga: Vad kommer de som levde under perioden mellan Jesus och Muhammad

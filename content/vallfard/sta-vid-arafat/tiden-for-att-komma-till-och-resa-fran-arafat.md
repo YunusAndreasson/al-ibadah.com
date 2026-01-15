@@ -1,7 +1,7 @@
 ---
 title: Tiden för att komma till och resa från Arafat
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 213 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -25,7 +25,7 @@ Han höjer sina händer när han gör åkallan[^7], och han prisar Allāh samt s
 [^2]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 [^3]: Dhuhr
 [^4]: Asr
-[^5]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
+[^5]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 [^6]: Dhikr
 [^7]: Du´ā
 [^8]: Säga Labbayk Allahumma Labbayk under vallfärden.

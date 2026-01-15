@@ -1,7 +1,7 @@
 ---
 title: En kvinna kan slakta adhha-djuret själv om det behövs
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 334 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -21,5 +21,5 @@ Vid *adhha*-slakten är det *sunnah[^1]* att nämna namnet för den som slakten 
 Och Allāh är Den som ger framgång.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

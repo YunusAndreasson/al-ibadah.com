@@ -1,7 +1,7 @@
 ---
 title: Utför inte tawāful-wadā
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 193 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -24,6 +24,6 @@ Kvinnan med månadsblödning och kvinnan med blödningar efter graviditeten är 
 
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
-[^3]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

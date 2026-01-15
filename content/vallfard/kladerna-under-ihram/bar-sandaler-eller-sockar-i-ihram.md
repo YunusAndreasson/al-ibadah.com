@@ -1,7 +1,7 @@
 ---
 title: Bar sandaler eller sockar i ihrām
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 144 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -26,7 +26,7 @@ En ansiktsslöja är något som har gjorts för ansiktet, precis som en *burqa'*
 
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
 [^4]: De delar av kroppen som måste täckas.
 

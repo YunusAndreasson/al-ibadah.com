@@ -1,9 +1,9 @@
 ---
 title: Följa en av de fyra imamerna
-author: Muhammad bin Sālih al-'Uthaymīn
-source: Kitābul-'Ilm – sida 115, fråga 14
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: Kitābul-ʿilm – sida 115, fråga 14
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Förståelse av islam
 original_id: 598
 description: 'Fråga: Vilket råd kan du ge till en nybörjare som söker kunskap angående
@@ -20,5 +20,5 @@ Om studenten är en nybörjare och därmed inte vet hur bevis ska hämtas ifrån
 Skulle han finna att något uttalande ifrån imamerna är felaktigt, och stå i kontrast till autentiska *ahādīth[^1]*, är det obligatoriskt för honom att följa denna *hadīth[^1]*.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

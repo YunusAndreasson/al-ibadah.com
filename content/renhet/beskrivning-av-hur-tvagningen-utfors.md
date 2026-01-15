@@ -1,6 +1,6 @@
 ---
 title: Beskrivning av hur tvagningen utförs
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 326 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
@@ -26,10 +26,10 @@ Det andra sättet att göra tvagningen[^1] på är det som är att föredra. Vi 
 
 > ”*Ashhadu anla ilaha illallahu wahdahu la sharīka lahu, wa ashhadu anna Muhammadan 'abduhu wa rasuluhu. Allāhu-maj'alnī minat-tawwabīna waj'alnī minal-mutahahhirīn*.”
 
-Gör man det kommer Paradisets åtta portar att öppnas och man får träda in genom vilken man vill. Den *hadīth[^3]* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger detta till 'Umar har styrkts. [*Muslim* 234]
+Gör man det kommer Paradisets åtta portar att öppnas och man får träda in genom vilken man vill. Den *hadīth[^3]* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger detta till ʿUmar har styrkts. [*Muslim* 234]
 
 
 [^1]: Wudû´
 [^2]: I Guds namn.
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

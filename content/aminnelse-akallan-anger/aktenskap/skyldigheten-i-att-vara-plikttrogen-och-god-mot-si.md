@@ -1,7 +1,7 @@
 ---
 title: Skyldigheten i att vara plikttrogen och god mot sina föräldrar
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
 - Åminnelse, åkallan, ånger...

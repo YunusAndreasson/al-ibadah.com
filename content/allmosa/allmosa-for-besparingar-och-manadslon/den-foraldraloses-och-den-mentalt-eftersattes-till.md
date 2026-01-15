@@ -1,7 +1,7 @@
 ---
 title: Den föräldralöses och den mentalt eftersattes tillgångar
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 157 s. ISBN saknas'
 categories:
 - Allmosa (Zakāh)
@@ -22,5 +22,5 @@ description: 'Fråga: Är det en skyldighet att betala allmosa för föräldral�
 
 > ”‘A’ishah hade mig och min bror som två föräldralösa i hennes bostad och hon brukade betala allmosa för våra tillgångar.”
 
-Åsikten att allmosa är obligatorisk för de båda [den föräldralöse och den mentalt eftersatte] höll 'Ali, Ibn 'Umar, Jabir, ‘A’ishah och al-Hasan bin 'Ali. Ibn al-Munthir har återberättat detta från dem.
+Åsikten att allmosa är obligatorisk för de båda [den föräldralöse och den mentalt eftersatte] höll ʿAlī, Ibn ʿUmar, Jabir, ‘A’ishah och al-Hasan bin ʿAlī. Ibn al-Munthir har återberättat detta från dem.
 

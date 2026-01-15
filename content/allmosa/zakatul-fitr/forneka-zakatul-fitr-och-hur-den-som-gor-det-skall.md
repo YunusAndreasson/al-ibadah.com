@@ -1,7 +1,7 @@
 ---
 title: Förneka zakātul-fitr och hur den som gör det ska behandlas
-author: Muhammad bin Sālih al-'Uthaymīn
-source: Fiqh al-Ibādāt libni 'Uthaymīn - sida 213
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: Fiqh al-Ibādāt libni ʿUthaymīn – sida 213
 categories:
 - Allmosa (Zakāh)
 - Zakātul-fitr

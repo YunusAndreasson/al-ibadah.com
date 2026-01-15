@@ -1,7 +1,7 @@
 ---
 title: Klädesplagget hänger nedanför anklarna – bönen är korrekt men han är en syndare
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 227 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -25,5 +25,5 @@ Kvinnor måste täcka deras fötter med sockar eller långa och luftiga klännin
 Och genom Allāh uppnås framgång.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

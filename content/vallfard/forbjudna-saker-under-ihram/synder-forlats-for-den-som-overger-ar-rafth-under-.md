@@ -1,7 +1,7 @@
 ---
 title: Synder förlåts för den som överger ar-rafth under vallfärden
-author: Ibn 'Abdullāh Ibn Baz
-source: "Muhammad bin 'Abdul-'Aziz \nal-Musnad (1422), Fatawa Islamiyah . \nVolym\
+author: Ibn ʿAbdullāh Ibn Baz
+source: "Muhammad bin ʿAbdul-ʿAzīz \nal-Musnad (1422), Fatawa Islamiyah . \nVolym\
  \ 4. Libanon: Maktaba \nDar us-Salam. 23 s. ISBN \nsaknas Muhammed Knut Bernström\
  \ (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8"
 categories:
@@ -36,6 +36,6 @@ Den som ångrar sig uppriktigt har då nått framgång och Allāh kommer att skr
 Vi ber Allāh att Han hjälper de muslimska pilgrimerna, och även andra, med att ångra sig uppriktigt och att stå stadigt vid sanningen. Han är Den som hör allt och ser allt.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 

@@ -1,10 +1,10 @@
 ---
 title: Åkalla Allāhs nåd över en orättfärdig person
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 111 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Blandade utlåtanden
 original_id: 67
 description: 'Fråga: En av mina släktingar avled och även om han bad så var han en

@@ -1,10 +1,10 @@
 ---
 title: Höja händerna vid åkallan under fredagsbönen
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 284 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Innovationer
 original_id: 691
 description: 'Fråga: Vilket är utlåtandet om att höja händerna vid åkallan under
@@ -21,5 +21,5 @@ Därför höjer predikaten endast händerna vid dessa båda tillfällen och folk
 
 [^1]: Du´ā
 [^2]: al-istisqa`
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

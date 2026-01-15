@@ -1,7 +1,7 @@
 ---
 title: De stora fördelarna med att fasta och att förrätta nattbön under ramadan
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 211 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -26,7 +26,7 @@ Han har även sagt:
 
 Han har även sagt:
 
-> ”Den som fastar med tro och hopp om belöningar, denne kommer att förlåtas för alla sina tidigare synder. Den som står upp [för bön under natten] under Ramadan med tro och hopp om belöningar, denne kommer att förlåtas för alla sina tidigare synder. Den som står upp [för bön under natten] under Allmaktens Natt[^3] med tro och hopp om belöningar, denne kommer att förlåtas alla sina tidigare synder.” [*al-Bukhāri* 2014 och *Muslim* 759-760]
+> ”Den som fastar med tro och hopp om belöningar, denne kommer att förlåtas för alla sina tidigare synder. Den som står upp [för bön under natten] under Ramadan med tro och hopp om belöningar, denne kommer att förlåtas för alla sina tidigare synder. Den som står upp [för bön under natten] under Allmaktens Natt[^3] med tro och hopp om belöningar, denne kommer att förlåtas alla sina tidigare synder.” [*al-Bukhāri* 2014 och *Muslim* 759–760]
 
 Han har även berättat att Allāh sagt:
 
@@ -46,11 +46,11 @@ Och Han den Upphöjde har sagt:
 
 Och Han den Allsmäktige har sagt:
 
-> ”Det ska gå de troende väl i händer; de som ber med ödmjukt sinne.” [Koranen 23:1-2]
+> ”Det ska gå de troende väl i händer; de som ber med ödmjukt sinne.” [Koranen 23:1–2]
 
 Allāh fortsätter i samma sura tills Han säger:
 
-> ”Och som slår vakt om bönen. De är arvtagarna som ska ta paradiset i arv och där ska förbli till evig tid.” [Koranen 23:9-11]
+> ”Och som slår vakt om bönen. De är arvtagarna som ska ta paradiset i arv och där ska förbli till evig tid.” [Koranen 23:9–11]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
@@ -80,7 +80,7 @@ Frågor som folk inte är medvetna om
 
 En muslim måste fasta med tro och hopp om att belönas och inte för att ses eller höras av folket eller för att följa folkets, familjens eller landets vanor. I stället är det obligatoriskt för denne att det som får denne till att fasta är dennes tro på att Allāh har gjort detta till en plikt för denne. Denne bör fasta i hopp om att Herren ska belöna för detta. När denne ber under natten är det även då en skyldighet att göra det med tro och hopp om belöningar, inte av någon annan anledning. Därför har profeten – över honom vare Allāhs frid och välsignelser – sagt:
 
-> ”Den som fastar under Ramadan med tro och hopp om belöningar, denne kommer att förlåtas för alla dennes tidigare synder. Och den som ber [under natten] i Ramadan med tro och hopp om belöningar, denne kommer att förlåtas för alla dennes tidigare synder. Och den som ber [nattetid] under Allmaktens Natt[^3] med tro och hopp om belöningar, denne kommer att förlåtas för alla sina tidigare synder.” [*al-Bukhārī* 2014 och *Muslim* 759-760]
+> ”Den som fastar under Ramadan med tro och hopp om belöningar, denne kommer att förlåtas för alla dennes tidigare synder. Och den som ber [under natten] i Ramadan med tro och hopp om belöningar, denne kommer att förlåtas för alla dennes tidigare synder. Och den som ber [nattetid] under Allmaktens Natt[^3] med tro och hopp om belöningar, denne kommer att förlåtas för alla sina tidigare synder.” [*al-Bukhārī* 2014 och *Muslim* 759–760]
 
 En av de frågor som människor inte är medvetna om är utlåtande om den fastande som råkar skada sig, får näsblod eller om vatten och ånga oavsiktligen rinner genom dennes hals. Inga av detta bryter fastan. Men den som avsiktligen spyr bryter fastan. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
@@ -100,9 +100,9 @@ Sannerligen, autentiska *ahādīth[^4]* från Allāhs sändebud – över honom 
 
 Äktheten i denna *hadīth[^4]* råder det enighet om.
 
-Profeten – över honom vare Allāhs frid och välsignelser – fastslog inte ett visst antal bönecykler[^7], varken under Ramadan eller vid någon annan tidpunkt. Under 'Umars tid bad följeslagarna därför ibland 23 bönecykler[^7] och ibland elva bönecykler[^7]. Detta har bekräftats från ‘Umar – må Allāh vara nöjd med honom – och följeslagarna under hans tid.
+Profeten – över honom vare Allāhs frid och välsignelser – fastslog inte ett visst antal bönecykler[^7], varken under Ramadan eller vid någon annan tidpunkt. Under ʿUmars tid bad följeslagarna därför ibland 23 bönecykler[^7] och ibland elva bönecykler[^7]. Detta har bekräftats från ‘Umar – må Allāh vara nöjd med honom – och följeslagarna under hans tid.
 
-Några av *salaf[^9]* - må Allāh vara nöjda med dem - brukade be 36 bönecykler[^7] under Ramadan för att sedan be tre bönecykler[^7] som witr[^8]. Vissa bad 41 bönecykler[^7]. *Shaykh ul-Islām* ibn Taymiyyah – må Allāh vara honom nådig – berättade detta om dem och han har sagt att denna fråga är flexibel [det är lätt]. Han har även nämnt att det är bättre för den som förlänger sin recitation, sina bugningar och nedfallanden att minska antalet bönecykler[^7]; och den som förkortar recitationen, bugningarna och nedfallanden bör öka antalet bönecykler[^7]. Detta är innebörden av hans uttalande.
+Några av *salaf[^9]* – må Allāh vara nöjda med dem – brukade be 36 bönecykler[^7] under Ramadan för att sedan be tre bönecykler[^7] som witr[^8]. Vissa bad 41 bönecykler[^7]. *Shaykh ul-Islām* ibn Taymiyyah – må Allāh vara honom nådig – berättade detta om dem och han har sagt att denna fråga är flexibel [det är lätt]. Han har även nämnt att det är bättre för den som förlänger sin recitation, sina bugningar och nedfallanden att minska antalet bönecykler[^7]; och den som förkortar recitationen, bugningarna och nedfallanden bör öka antalet bönecykler[^7]. Detta är innebörden av hans uttalande.
 
 Den som lägger vikt vid profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^5]* kommer att förstå att det som är bäst är att be elva eller tretton bönecykler[^7] under Ramadan och andra tidpunkter. Anledningen är att det är enligt profetens – över honom vare Allāhs frid och välsignelser – praktiserande under de flesta situationer [vad han vanligtvis brukade göra]. Ber någon mer, då finns det inget skadligt eller ogillat i det. Detta har nämnts tidigare. Det som är bäst för den som ber med imamen [i moskén] under nätterna i Ramadan är att denne inte slutar att be förrän imamen slutar att be. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
@@ -132,8 +132,8 @@ Sannerligen, Han är Den som skyddar detta och Den som är kapabel att göra det
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Du´ā
 [^3]: Laylatul-Qadr. En av de sista tio nätterna under fastemånaden. Bön under den natten är likvärdig med bön under 1000 månader.
-[^4]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
-[^5]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^5]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^6]: Fajr
 [^7]: Rakah.
 [^8]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.

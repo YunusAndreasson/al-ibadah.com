@@ -1,11 +1,11 @@
 ---
 title: Anledningen till varför muslimerna är svaga
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 282 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Förståelse av islam
 original_id: 1202
 description: 'Fråga: Ärade shaykh, somliga påstår att anledningen till muslimers
@@ -19,7 +19,7 @@ description: 'Fråga: Ärade shaykh, somliga påstår att anledningen till musli
 
 När det muslimska samfundet höll sig till religionen under islams tidiga år hade det makt, styrka, kraft och kontroll över allt. Vissa säger att den enda kunskap som Väst har haft nytta av är den som kom från muslimer under islams tidiga period. Men det muslimska samfundet har blivit bakåtriktat i religiösa frågor och i ord och handling fört in sådant i Allāhs religion som inte är en del av den. Detta har lett till en enorm underutveckling. Vi vet med säkerhet och vi ber Allāh den Allsmäktige bevittna att om vi hade återvänt till vad våra föregångare trodde på och praktiserade, då hade vi haft makt, prestige och övertag över hela människosläktet.
 
-Detta är anledningen till att när Abū Sufyan talade till Herkules [romarnas konung], när Rom ansågs vara den mäktigaste nationen, om profetens – över honom vare Allāhs frid och välsignelser – tro och handlande, så sade Herkules: ”*Om du talar sanning kommer han att ta makten över det som finns under min fot*.” När Abū Sufyan och hans följeslagare - må Allāh vara nöjd med dem -lämnade Herklues sade han: ”*Frågan om Ibn Abi Kabshah [Allāhs sändebud] har blivit mycket viktig. Roms kung fruktar honom*.” [*al-Bukhārī* i kapitlet som skapelsen]
+Detta är anledningen till att när Abū Sufyan talade till Herkules [romarnas konung], när Rom ansågs vara den mäktigaste nationen, om profetens – över honom vare Allāhs frid och välsignelser – tro och handlande, så sade Herkules: ”*Om du talar sanning kommer han att ta makten över det som finns under min fot*.” När Abū Sufyan och hans följeslagare – må Allāh vara nöjd med dem -lämnade Herklues sade han: ”*Frågan om Ibn Abi Kabshah [Allāhs sändebud] har blivit mycket viktig. Roms kung fruktar honom*.” [*al-Bukhārī* i kapitlet som skapelsen]
 
 I fråga om de framsteg som har ägt rum i de icke-troende länderna i Väst, till exempel när det gäller tillverkningindustrin, finner vi att vår religion inte förbjuder det. Men tyvärr har vi förlorat båda delar: Vi har förlorat vår religion och vi har förlorat den materiella världen. Men faktum är att den islamiska religionen inte motsäger sig dessa framsteg. Allāh den Upphöjde säger:
 
@@ -41,7 +41,7 @@ Det finns fler verser som tydligt säger att människan får göra vinster och a
 
 Även om ”bokens folk” [judarna och de kristna] till en viss grad står över de andra icke-troende är de i det Nästkommande likvärdiga med andra som inte tror. Därför lovade profeten – över honom vare Allāhs frid och välsignelser – att det inte finns någon jude eller kristen som hör honom och som sedan inte följer budskapet han lade fram utan att denne är en av Eldens invånare. De är från början icke-troende, oavsett om de följer judendomen, kristendomen eller ingen religion alls.
 
-Regnet och annat som de får är en prövning från Allāh den Upphöjde då Han har gett dem bra saker i denna värld. När 'Umar bin al-Khattab såg märken som profeten – över honom vare Allāhs frid och välsignelser – fått från en matta under hans sömn så grät han och sade: ”*Allāhs sändebud! Persien och Rom lever i prakt och du befinner dig i denna situation?*” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Umar! Dessa människor får det som är bra när de lever i denna värld. Är du inte glad över att de får livet i denna värld och att vi får det Nästkommande?*” [*al-Bukhārī* 2428 och *Muslim* 1479]
+Regnet och annat som de får är en prövning från Allāh den Upphöjde då Han har gett dem bra saker i denna värld. När ʿUmar bin al-Khattab såg märken som profeten – över honom vare Allāhs frid och välsignelser – fått från en matta under hans sömn så grät han och sade: ”*Allāhs sändebud! Persien och Rom lever i prakt och du befinner dig i denna situation?*” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Umar! Dessa människor får det som är bra när de lever i denna värld. Är du inte glad över att de får livet i denna värld och att vi får det Nästkommande?*” [*al-Bukhārī* 2428 och *Muslim* 1479]
 
 Dessutom drabbas de av torka, katastrofer, jordbävningar och förödande stormar. Detta är välkänt och det rapporteras ständigt om detta i radio, tidningar och annan media. Den som har ställt denna fråga är dock blind. Allāh har tagit dennes syn och därför vet denne inte vad som verkligen pågår.
 

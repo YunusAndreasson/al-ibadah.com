@@ -1,6 +1,6 @@
 ---
 title: Vaknar och finnar något vått i kläderna – omghusldå är ett krav
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 355 s. ISBN 9960-892-66-2'
 categories:
@@ -22,5 +22,5 @@ description: 'Fråga: Måste man göra ghusl om man vaknar och finner något vå
 
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

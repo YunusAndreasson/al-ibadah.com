@@ -1,10 +1,10 @@
 ---
 title: Allāh garanterar levebröd, men...
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 212 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Allāhs förutbestämmelse
 original_id: 98
 description: 'Fråga: Jag har hört att Allāh den Upphöjde garanterar levebröd till

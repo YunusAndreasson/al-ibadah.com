@@ -1,7 +1,7 @@
 ---
 title: Deponera pengar i banker som använder ränta utan att ta någon vinst
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
 - Åminnelse, åkallan, ånger...

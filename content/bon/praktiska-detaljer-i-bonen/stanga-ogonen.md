@@ -1,7 +1,7 @@
 ---
 title: Stänga ögonen
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 208 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -18,5 +18,5 @@ description: 'Fråga: Är det tillåtet att stänga ögonen under bönen? Svar: 
 
 
 [^1]: Rättslära.
-[^2]: Sujud, nedfallandet när pannan läggs mot marken.
+[^2]: sujūd, nedfallandet när pannan läggs mot marken.
 

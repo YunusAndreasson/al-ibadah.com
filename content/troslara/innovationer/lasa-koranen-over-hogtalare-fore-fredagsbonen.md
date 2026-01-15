@@ -1,10 +1,10 @@
 ---
 title: Läsa Koranen över högtalare före fredagsbönen
-author: Ibn 'Abdullah Ibn Baz
+author: Ibn ʿAbdullah Ibn Baz
 source: Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh al-‘Allāmah ‘Abd
  al-‘Azīz ibn ‘Abd-Allāh ibn Bāz, del 12, s. 413
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Innovationer
 original_id: 540
 description: 'Fråga: I vissa moskér i många delar av den muslimska världen läser
@@ -19,6 +19,6 @@ description: 'Fråga: I vissa moskér i många delar av den muslimska världen l
 Och Allāh vet bäst. Må Allāh välsigna vår profet Mohamed, hans familj och följeslagare.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: De tre första generationerna i islam.
 

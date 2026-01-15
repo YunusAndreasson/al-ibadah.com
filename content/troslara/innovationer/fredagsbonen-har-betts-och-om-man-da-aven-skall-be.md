@@ -1,11 +1,11 @@
 ---
 title: Fredagsbönen har betts och om man då även ska be middagsbönen
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 553 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Innovationer
 original_id: 999
 description: 'Fråga: Om någon har bett fredagsbönen, bör denne då även be middagsbönen? Svar: Om
@@ -37,5 +37,5 @@ Den årsvisa samlingen är *‘eid*-bönen. Detta är samlingen som görs varje 
 
 
 [^1]: Dhuhr
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

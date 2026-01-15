@@ -1,11 +1,11 @@
 ---
 title: Kännetecknen för den räddade gruppen och om vissa brister tar en ut från den
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 39 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 original_id: 1069
 description: 'Fråga: Vilka är de största kännetecknen för den räddade gruppen? Om
  man brister i vissa aspekter, står man då utanför denna grupp? Svar: De mest
@@ -55,7 +55,7 @@ Det viktiga är att alla hjärtan är i harmoni och att man talar med en röst. 
 Därför måste vi utmärka oss med detta, den räddade gruppens karaktärsdrag, som är att man talar med en röst.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Tron på att det bara finns en Gud.
 [^3]: Den ansträngning en islamskt lärd gör för att lägga fram ett utlåtande som inte är uppenbart.
 [^4]: Wudû´

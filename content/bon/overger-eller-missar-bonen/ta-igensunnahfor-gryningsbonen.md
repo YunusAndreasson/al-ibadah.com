@@ -1,7 +1,7 @@
 ---
 title: Ta igen sunnah för gryningsbönen
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 296 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -18,7 +18,7 @@ description: 'Fråga: Jag går alltid för att be gryningsbönen och jag finner 
 
 
 [^1]: Fajr
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Den avslutande hälsningen i bönen.
 [^4]: Rakah.
 

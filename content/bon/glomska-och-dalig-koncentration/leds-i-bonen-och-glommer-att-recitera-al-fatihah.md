@@ -1,7 +1,7 @@
 ---
 title: Leds i bönen och glömmer att recitera al-Fātihah
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 156 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -23,6 +23,6 @@ Han beordrade inte honom att ta igen den utan han sade endast att han inte skull
 Och Allāh är Beviljaren av framgång.
 
 
-[^1]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
+[^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 [^2]: Rakah.
 

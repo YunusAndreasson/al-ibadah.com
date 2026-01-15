@@ -1,10 +1,10 @@
 ---
 title: Offra ett djur när någon har gått bort
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 33 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Offer till andra än Allāh
 original_id: 32
 description: 'Fråga: I mitt land dyrkar vissa andra än Allāh – upphöjd är Han. De
@@ -21,5 +21,5 @@ De som vägrade att ta ko-köttet, som slaktats för den avlidne som inte dyrkad
 Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muhammad samt göra honom, hans hushåll och följeslagare säkra från ont.
 
 
-[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
+[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

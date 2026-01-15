@@ -1,7 +1,7 @@
 ---
 title: Tvingar frun till att ha intim samvaro mot hennes vilja
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 280 s. ISBN saknas'
 categories:
 - Fasta (Sawm)
@@ -18,5 +18,5 @@ description: 'Fråga: En man har intim samvaro med sin fru dagtid under fastan o
 
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

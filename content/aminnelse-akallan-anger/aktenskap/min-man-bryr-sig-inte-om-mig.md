@@ -1,6 +1,6 @@
 ---
 title: Min man bryr sig inte om mig
-author: Ibn 'Abdullah Ibn Baz
+author: Ibn ʿAbdullah Ibn Baz
 source: Fatāwa al-Marah
 categories:
 - Åminnelse, åkallan, ånger...
@@ -48,5 +48,5 @@ Det finns inget som hindrar att du skämtar med honom, talar med honom på ett s
 Må Allāh utöka det goda för er. Må Han även rätta den situation din man befinner sig i och vägleda honom till det som är rätt och riktigt i sitt förhållningssätt mot dig.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

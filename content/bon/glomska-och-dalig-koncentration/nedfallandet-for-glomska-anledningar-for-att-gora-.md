@@ -1,6 +1,6 @@
 ---
 title: Nedfallandet för glömska – anledningar för att göra det
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 501 s. ISBN 9960-892-66-2'
 categories:
@@ -43,12 +43,12 @@ Ett exempel på någon som inte kan avgöra vilket av de två fallen som är san
 Därmed är det klart att nedfallandet för glömska[^1] kommer innan *taslīm[^5]* när de obligatoriska handlingarna har utelämnats eller om man är osäker på antalet bönecykler[^4] och man inte kan bestämma sig för vilket som är sannolikast. Det är efter *taslīm[^5]* i fall där man har gjort för mycket i bönen, om man har tvivel eller om ett av de båda fallen verkar troligare för en.
 
 
-[^1]: Sujud as-sahw.
+[^1]: sujūd as-sahw.
 [^2]: Ruku, bugningen när ryggen hålls parallell med marken.
-[^3]: Sujud, nedfallandet när pannan läggs mot marken.
+[^3]: sujūd, nedfallandet när pannan läggs mot marken.
 [^4]: Rakah.
 [^5]: Den avslutande hälsningen i bönen.
-[^6]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^6]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^7]: Dhuhr
 [^8]: Asr
 [^9]: Riktningen mot Kabah i Mecka som bönen utförs mot.

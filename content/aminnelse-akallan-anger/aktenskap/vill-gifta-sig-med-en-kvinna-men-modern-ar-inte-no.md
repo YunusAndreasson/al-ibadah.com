@@ -1,7 +1,7 @@
 ---
 title: Vill gifta sig med en kvinna men modern är inte nöjd med valet
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
 - Åminnelse, åkallan, ånger...
@@ -16,7 +16,7 @@ description: 'Fråga: Jag vill gifta mig med en kvinna som min fader är nöjd m
 
 **Svar:** På grund av att din moders rättighet är så stor är det en av de största skyldigheterna att vara henne plikttrogen. Av denna anledning råder jag dig att du inte gifter dig med denna kvinna. Kom ihåg att uppriktigast mot ett barn är modern så kanske känner hon till något om denna kvinnas karaktär; något fel som enbart kommer att ge dig problem. Kom även ihåg att det finns många kvinnor därute. Allāh den Allsmäktige säger: 
 
-> ”Gud visar var och en som fruktar Honom en utväg ur [alla svårigheter] och sörjer för honom på ett sätt som han inte kan förutse; och den som litar till Gud behöver inget annat [stöd].” [Koranen 65:2-3]
+> ”Gud visar var och en som fruktar Honom en utväg ur [alla svårigheter] och sörjer för honom på ett sätt som han inte kan förutse; och den som litar till Gud behöver inget annat [stöd].” [Koranen 65:2–3]
 
 Utan tvekan är det en del av att ha frukta Allāh och i att uppfylla Hans krav att vara sin mor plikttrogen. Men om modern inte är religiös eller inte muslim och kvinnan du friat till är det, då behöver du inte lyda din moder i detta fall. Detta beror på att profeten – över honom vare Guds frid och välsignelser – har sagt: ”Sannerligen, lydnad är enbart i vad som är gott.” [al-Bukhārī 7257 och Muslim 1840]
 

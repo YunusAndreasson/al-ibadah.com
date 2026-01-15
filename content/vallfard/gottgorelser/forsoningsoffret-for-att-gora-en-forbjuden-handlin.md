@@ -1,8 +1,8 @@
 ---
 title: Försoningsoffret för att göra en förbjuden handling, dess typer och upprepande
  av en förbjuden handling
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 259 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -27,7 +27,7 @@ Om man upprepar en förbjuden handling av samma typ [mer än en gång], då beh�
 
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^2]: När man först gör ´umrah och lämnar ihram för att därpå träda in i ihram för vallfärden.
+[^2]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
 [^3]: Utför vallfärden och ´umrah samtidigt med en intention.
 [^4]: Den lilla vallfärden.
 [^5]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.

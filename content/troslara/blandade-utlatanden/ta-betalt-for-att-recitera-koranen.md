@@ -1,11 +1,11 @@
 ---
 title: Ta betalt för att recitera Koranen
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 73 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Blandade utlåtanden
 original_id: 55
 description: 'Fråga: Några som har memorerat Koranen i Marocko livnär sig på att
@@ -76,6 +76,6 @@ Den *hadīth[^1]* som du citerade i din fråga känner vi inte till äktheten i.
 Och Allāh vet bäst.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Dhikr
 

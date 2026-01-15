@@ -1,10 +1,10 @@
 ---
 title: Radband som används för åminnelse
-author: Muhammad bin Salih al-'Uthaymin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muhammad bin Salih al-ʿUthaymin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Innovationer
 original_id: 1657
 description: 'Fråga: Vilket är det islamiska utlåtandet om att använda radband, något
@@ -26,6 +26,6 @@ Och Allāh den Allsmäktige vet bäst.
 
 
 [^1]: Dhikr
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
-[^3]: Att upphöja Allah, Subhan Allah.
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Att upphöja Allāh, Subhan Allāh.
 

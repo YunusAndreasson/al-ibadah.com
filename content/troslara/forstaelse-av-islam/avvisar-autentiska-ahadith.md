@@ -1,10 +1,10 @@
 ---
 title: Avvisar autentiska ahādīth
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Förståelse av islam
 original_id: 1685
 description: 'Fråga: Vilket är utlåtandet om de som avvisar autentiska ahādīth som
@@ -21,5 +21,5 @@ De lärde inom *hadīth[^1]* bör träffa dem och informera dem om att dessa *ah
 Och vägledningen finns hos Allāh. Må Allāh sända frid och välsignelser över Muhammad, hans familj och hans följeslagare.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

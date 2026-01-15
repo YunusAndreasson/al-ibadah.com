@@ -1,7 +1,7 @@
 ---
 title: Frivilliga fastor tar man inte igen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 339 s. ISBN saknas'
 categories:
 - Fasta (Sawm)
@@ -19,5 +19,5 @@ description: 'Fråga: Jag fastar tre dagar varje månad men under en månad blev
 Därmed behöver du inte ta igen fastan eller gottgöra dig. Ha vetskap om att allt som någon utelämnar i form av rättfärdiga handlingar som denne brukade göra på grund av sjukdom, [någon annan] oförmåga, resa eller någon likande – belöningarna för dem nedtecknas fortfarande för denne. Detta beror på följande *hadīth[^1]*: ”*Om Adams söner blir sjuk eller reser, allt som han brukade göra när han var frisk och hemma, [det] skrivs ned för honom [som om han gjorde det]*.”
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

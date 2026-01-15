@@ -1,7 +1,7 @@
 ---
 title: Sitta och vila [jalsatul-istirāh] efter bönecykel ett och tre
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 166 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -26,11 +26,11 @@ En tredje grupp får ihop dessa *ahādīth[^3]* genom att säga att man gör den
 
 Det uppenbara är att det generellt sett är rekommenderat. Att det inte nämns i andra *ahādīth[^3]* bevisar inte att det inte är rekommenderat. Det enda som visas är att det inte är obligatoriskt.
 
-Den rekommenderade åsikten stärks på två sätt: Det första är den grundläggande principen om profetens – över honom vare Allāhs frid och välsignelser – handlingar, att han utförde dem för att föreskriva dem så att andra skulle kunna följa honom. Det andra sättet är att denna ”sittpaus” bekräftas i hadithen från Abū Humaid as-Sa'idi som Ahmad och Abū Dawūd har återberättat med en god rapportörskedja. Här beskriver han profetens – över honom vare Allāhs frid och välsignelser – bön för tio följeslagare - må Allāh vara nöjd med dem - och de bekräftade vad han sade.
+Den rekommenderade åsikten stärks på två sätt: Det första är den grundläggande principen om profetens – över honom vare Allāhs frid och välsignelser – handlingar, att han utförde dem för att föreskriva dem så att andra skulle kunna följa honom. Det andra sättet är att denna ”sittpaus” bekräftas i hadithen från Abū Humaid as-Saʿīdi som Ahmad och Abū Dawūd har återberättat med en god rapportörskedja. Här beskriver han profetens – över honom vare Allāhs frid och välsignelser – bön för tio följeslagare – må Allāh vara nöjd med dem – och de bekräftade vad han sade.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Rakah.
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^4]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 

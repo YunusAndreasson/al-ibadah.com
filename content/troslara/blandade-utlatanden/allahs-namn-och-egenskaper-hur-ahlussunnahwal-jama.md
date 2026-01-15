@@ -1,10 +1,10 @@
 ---
 title: Allāhs namn och egenskaper – hur ahlussunnahwal-jamā’at ser på dem
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 111 s. ISBN 9960-892-66-2'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Blandade utlåtanden
 original_id: 1081
 description: 'Fråga: Hur ser ahlus-sunnah wal-jamā’at på Allāhs namn och egenskaper?
@@ -27,5 +27,5 @@ Men bekräftelsen av en egenskap nödvändiggör inte bekräftelsen av ett namn.
 Med detta som grund är egenskaperna större till antalet. Varje namn nödvändiggör ju en egenskap men varje egenskap nödvändiggör inte ett namn.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

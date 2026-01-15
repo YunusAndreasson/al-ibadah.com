@@ -1,7 +1,7 @@
 ---
 title: Status för vallfärden inom islam och villkor för att det ska vara obligatoriskt
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Fatāwa Ibn ''Uthaymīn 21/9-11 Muhammed Knut Bernström (1421), Koranens budskap
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Fatāwa Ibn ʿUthaymīn 21/9-11 Muhammed Knut Bernström (1421), Koranens budskap
  . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
 - Vallfärd (Hajj)
@@ -35,6 +35,6 @@ Villkoren för att vallfärden ska vara obligatoriskt är fem:
 
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Släkting som det inte är tillåtet att gifta sig med.
 

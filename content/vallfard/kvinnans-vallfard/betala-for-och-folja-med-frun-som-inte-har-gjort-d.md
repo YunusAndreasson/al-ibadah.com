@@ -1,6 +1,6 @@
 ---
 title: Betala för och följa med frun som inte har gjort den obligatoriska pilgrimsfärden
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fatāwa Ibn Uthaymīn 21/114 Muhammed Knut Bernström (1421), Koranens budskap
  . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:

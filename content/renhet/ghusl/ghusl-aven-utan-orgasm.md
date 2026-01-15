@@ -1,6 +1,6 @@
 ---
 title: Ghusl även utan orgasm
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: '''Ishratun-Nisā wa Hill al-Khilāfāt az-Zowjiyyah – sida 54'
 categories:
 - Renhet (Tahārah)
@@ -19,5 +19,5 @@ I denna *hadīth[^2]* klargörs det tydligt att *ghusl[^1]* måste utföras äve
 
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

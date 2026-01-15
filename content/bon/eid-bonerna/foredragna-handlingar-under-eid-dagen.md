@@ -1,7 +1,7 @@
 ---
 title: Föredragna handlingar under ‘eid-dagen
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 478 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -21,5 +21,5 @@ Först och främst bör de göra *takbīr[^1]* under *‘eid*-kvällen och *‘e
 
 [^1]: Att säga Allahu Akbar.
 [^2]: Du´ā
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

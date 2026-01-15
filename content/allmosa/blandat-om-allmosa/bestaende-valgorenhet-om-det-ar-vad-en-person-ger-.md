@@ -1,6 +1,6 @@
 ---
 title: Bestående välgörenhet – om det är vad en person ger när denne är vid liv
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 620 s. ISBN 9960-892-66-2'
 categories:
@@ -18,7 +18,7 @@ description: 'Fråga: Är bestående välgörenhet det som någon ger under sin 
 
 Har den avlidne testamenterat något kommer det att vara en [^1] förmiddagsbönen[^2]. Likaså om denne har donerat något, då kommer det att vara en [^1] förmiddagsbönen[^2] då människor kommer att fortsätta att få nytta av det efter dennes bortgång. Likaså kunskap då det är något som kommer från dennes handlingar. Och om sonen åkallar[^3] för denne [så kommer det att vara en [^1] förmiddagsbönen[^2]].
 
-Om det därför sägs till oss: Är det bättre att be två bönecykler[^4] för min far eller att be två bönecykler[^4] för min egen skull och åkalla för fadern under dem? Då svarar vi: Det är bättre om du ber två bönecykler[^4] själv och åkallar[^3] för din far under dem. Detta var profetens – över honom vare Allāhs frid och välsignelser – vägledning när han sade: ”*eller en rättfärdig son som åkallar[^3] för denne*.” Han sade inte: ”den som ber [*salah*] för honom”, eller något annat.
+Om det därför sägs till oss: Är det bättre att be två bönecykler[^4] för min far eller att be två bönecykler[^4] för min egen skull och åkalla för fadern under dem? Då svarar vi: Det är bättre om du ber två bönecykler[^4] själv och åkallar[^3] för din far under dem. Detta var profetens – över honom vare Allāhs frid och välsignelser – vägledning när han sade: ”*eller en rättfärdig son som åkallar[^3] för denne*.” Han sade inte: ”den som ber [*salāh*] för honom”, eller något annat.
 
 
 [^1]: adaqah jariyah

@@ -50,13 +50,13 @@ Profeten – över honom vare Allāhs frid och välsignelser – lärde följesl
 
 Han förklarade att om någon ger till välgörenhet när denne är obenägen att göra det och vid god hälsa men fruktar fattigdom, då kommer denna välgörenhet att väga tungt hos Allāh i vågen som väger handlingar. Den som skjuter upp det och först börjar spenderar här och där när denne blir sjuk med rädsla för att dennes goda handlingar ska avvisas – här finns en fara att detta inte kommer att accepteras. Vi söker vår tillflykt hos Honom. Allāh säger:
 
-> ”Ångerns väg är inte öppen för den som [ständigt] begår dåliga handlingar och först då döden når honom säger: 'Nu känner jag ånger', och inte heller för dem som dör som förnekare av sanningen; för dem har Vi ett plågsamt straff i beredskap.” [Koranen 4:17-18]
+> ”Ångerns väg är inte öppen för den som [ständigt] begår dåliga handlingar och först då döden når honom säger: 'Nu känner jag ånger', och inte heller för dem som dör som förnekare av sanningen; för dem har Vi ett plågsamt straff i beredskap.” [Koranen 4:17–18]
 
 Den troende som är from och uppriktig, denne bör frukta Allāh och kämpa för att alltid lyda Honom, hålla ut i sin fruktan av Allāh, alltid kämpa för att göra gott, kalla andra människor till Allāh och påbjuda det goda samt förbjuda det onda. För den troende är dennes dagar och nätter i denna värld ett lagerhus, så låt oss se vad denne kan lagra där. Lagrar denne goda handlingar kommer det att vittna till dennes fördel inför Herren på Återuppståndelsens Dag. Lagrar denne motsatsen kommer det att vara en katastrof för denne. Vi ber Allāh att Han räddar oss ifrån denna förlust.
 
 De lärde har sagt: ”Ett tecken på accepterande [utav goda handlingar] är att Allāh låter en god handling följas av en annan, för [den första] goda handlingen säger: ”Min syster, min syster!” En ond handling säger även den: ”Min syster, min syster!” – vi söker vår tillflykt hos Allāh. Om Allāh har accepterat någons ramadan[^1] och om denne har dragit nytta av denna period av andlig träning och hållit sig stadig i att lyda Allāh, då har denne slagit följe med dem som håller sig stadiga och som svarar till Allāh. Allāh säger:
 
-> ”De som säger: ’Gud är vår Herre’ och som vill följa den raka vägen, till dem stiger änglarna ned [med hälsningen]: ’Ni ska inte känna någon fruktan och ingen sorg ska tunga er! Tag emot det glada budskapet att paradiset som ni har blivit lovade [väntar er]. Vi är hos er och vakar över er i detta liv och i detta liv som ska komma; och där ska allt som era själar längtar efter vara ert och det ni ber om ska ni få.” [Koranen 41:30-31]
+> ”De som säger: ’Gud är vår Herre’ och som vill följa den raka vägen, till dem stiger änglarna ned [med hälsningen]: ’Ni ska inte känna någon fruktan och ingen sorg ska tunga er! Tag emot det glada budskapet att paradiset som ni har blivit lovade [väntar er]. Vi är hos er och vakar över er i detta liv och i detta liv som ska komma; och där ska allt som era själar längtar efter vara ert och det ni ber om ska ni få.” [Koranen 41:30–31]
 > 
 > 
 > 

@@ -1,7 +1,7 @@
 ---
 title: Kvinna i vänteperioden efter att hennes man avlidit
-author: Muhammad bin Salih al-'Uthaymin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muhammad bin Salih al-ʿUthaymin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
 - Åminnelse, åkallan, ånger...

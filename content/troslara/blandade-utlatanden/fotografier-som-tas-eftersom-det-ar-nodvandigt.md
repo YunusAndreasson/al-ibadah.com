@@ -1,10 +1,10 @@
 ---
 title: Fotografier som tas eftersom det är nödvändigt
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Blandade utlåtanden
 original_id: 1648
 description: 'Fråga: Vilket är utlåtandet om fotografier som används på grund av

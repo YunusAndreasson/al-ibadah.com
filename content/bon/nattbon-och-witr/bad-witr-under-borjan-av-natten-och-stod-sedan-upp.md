@@ -1,7 +1,7 @@
 ---
 title: Bad witr under början av natten och stod sedan upp för att be i slutet av den
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 300 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -21,5 +21,5 @@ Det finns även en *hadīth[^3]* rapporterad från ‘A’ishah där hon säger 
 
 [^1]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 [^2]: Rakah.
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

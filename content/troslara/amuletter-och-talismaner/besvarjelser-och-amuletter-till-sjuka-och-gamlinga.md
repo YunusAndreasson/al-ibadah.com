@@ -1,10 +1,10 @@
 ---
 title: Besvärjelser och amuletter till sjuka och gamlingar
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 36 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Amuletter och talismaner
 original_id: 33
 description: 'Fråga: Det finns somliga som gör amuletter till sjuka, galningar och
@@ -41,9 +41,9 @@ Allāh bör endast sökas genom sådant som är tillåtet i hopp om att få bel�
 Det är endast Allāh som ger framgång.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Du´ā
-[^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
-[^4]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
+[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^5]: En trollformel som används för att skapa kärlek mellan maken och makan.
 

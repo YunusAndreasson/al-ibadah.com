@@ -1,7 +1,7 @@
 ---
 title: Ghusl under en dusch är tillräckligt
-author: Ibn 'Abdur-Rahman al-Jibrin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 75 s. ISBN saknas'
 categories:
 - Renhet (Tahārah)

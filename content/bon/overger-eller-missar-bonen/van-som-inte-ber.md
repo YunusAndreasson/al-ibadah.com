@@ -1,7 +1,7 @@
 ---
 title: Vän som inte ber
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -18,7 +18,7 @@ description: 'Fråga: Jag har en vän som är mig mycket kär och som har en myc
 
 I en *hadīth[^1]* återberättad av Jabir säger profeten – över honom vare Allāhs frid och välsignelser: ”Mellan en man och otro och månggudadyrkan finns övergivandet av bönen.” [Muslim 82]
 
-'Abdullah bin Shaqīq al-'Uqayli, en betrodd *tabi'i*, har bekräftat att profetens följeslagare inte ansåg övergivandet av någon handling utom bönen vara otro. Detta är anledningen till att ett antal lärde anser att otron som övergivandet utgör är stor otro, även om man inte avvisar att den är obligatorisk.
+ʿAbdullah bin Shaqīq al-'Uqayli, en betrodd *tabi'i*, har bekräftat att profetens följeslagare inte ansåg övergivandet av någon handling utom bönen vara otro. Detta är anledningen till att ett antal lärde anser att otron som övergivandet utgör är stor otro, även om man inte avvisar att den är obligatorisk.
 
 Detta är på grund av de tidigare *ahādīth[^1]* och andra rapporter med samma innebörd. Detta är sanningen som det inte finns någon tvekan kring. Andra säger att hans otro är av den mindre sorten men att hans brott är större än otukt eller att stjäla. Alla de lärda är dock eniga om att avvisandet av dess skyldighet är otro.
 
@@ -29,5 +29,5 @@ Du som frågeställare bör känna till att du måste råda och varna denna pers
 Vi ber Allāh den Allsmäktige att hålla dig, oss och alla muslimer säkra från Hans vrede. Han är den bäste att fråga.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

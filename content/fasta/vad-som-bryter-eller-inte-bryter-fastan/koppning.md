@@ -1,7 +1,7 @@
 ---
 title: Koppning
-author: Muhammad bin Salih al-'Uthaymin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Muhammad bin Salih al-ʿUthaymin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 273 s. ISBN saknas'
 categories:
 - Fasta (Sawm)
@@ -23,6 +23,6 @@ Vid detta passande tillfälle skulle jag vilja nämna att somliga går för lån
 Och Allāh är Givaren av framgång.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Hijamah
 

@@ -1,10 +1,10 @@
 ---
 title: Böcker som innehåller svaga och avvisade ahādīth
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Förståelse av islam
 original_id: 1682
 description: 'Fråga: Vänligen, hänvisa mig till en bok som innehåller många svaga och avvisade ahādīth så att jag genom att känna till dem kan hålla mig borta från dem.'
@@ -21,5 +21,5 @@ Läs enbart det som är autentiskt och om du önskar läsa så läs då *al-Lu'l
 Och Allāh den Allsmäktige vet bäst.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

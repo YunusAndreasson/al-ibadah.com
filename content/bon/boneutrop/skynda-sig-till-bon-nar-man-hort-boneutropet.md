@@ -1,6 +1,6 @@
 ---
 title: Skynda sig till bön när man hört böneutropet
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: Majmū’ Fatāwa al-shaykh Ibn ‘Uthaymīn, 15/32
 categories:
 - Bön (Salāh)
@@ -20,5 +20,5 @@ När det gäller arbetstagaren som ber frivilliga böner efter bönen, utöver d
 Och Allāh är källan till styrka.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

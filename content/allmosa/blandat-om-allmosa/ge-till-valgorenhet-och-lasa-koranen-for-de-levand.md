@@ -1,7 +1,7 @@
 ---
 title: Ge till välgörenhet och läsa Koranen för de levande och för de döda
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 91 s. ISBN saknas'
 categories:
 - Allmosa (Zakāh)
@@ -19,5 +19,5 @@ description: 'Fråga: Är det tillåtet att ge till välgörenhet för sina för
 När det kommer till recitation av Koranen, för att de ska få ta emot belöningarna, då har många lärde tillåtet det. Det har dock inte spårats tillbaka till profeten – över honom vare Allāhs frid och välsignelser – eller följeslagarna och därför bör vi inte ägna oss åt detta. Majoriteten av de lärde har förbjudit detta, eftersom det inte finns något återberättat som stödjer detta. Men om någon gör det enbart ibland, då bör ingen uttrycka sitt missnöje om det.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

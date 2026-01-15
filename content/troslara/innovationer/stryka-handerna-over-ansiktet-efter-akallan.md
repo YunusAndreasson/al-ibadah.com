@@ -1,10 +1,10 @@
 ---
 title: Stryka händerna över ansiktet efter åkallan
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 274 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Innovationer
 original_id: 682
 description: 'Fråga: Vilket är utlåtandet om att stryka händerna över ansiktet efter
@@ -20,6 +20,6 @@ description: 'Fråga: Vilket är utlåtandet om att stryka händerna över ansik
 [^1]: Du´ā
 [^2]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 [^3]: En åkallan som kan läsas under den nattliga witr-bönen.
-[^4]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
-[^5]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^5]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

@@ -1,10 +1,10 @@
 ---
 title: Bön bakom innovatörer
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 217 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Innovationer
 original_id: 229
 description: 'Fråga: Vissa lärda säger att det inte är tillåtet att be bakom en imam
@@ -19,6 +19,6 @@ description: 'Fråga: Vissa lärda säger att det inte är tillåtet att be bako
 Innovatörer kan delas upp i två kategorier: De vars innovationer gör dem skyldiga till otro och de vars innovationer inte gör det. Bön bakom den förstnämnde är inte giltig då denne inte är troende. För den sistnämnda har de lärde olika åsikter om bön bakom syndare, mest korrekt är dock att det är tillåtet. Detta gäller så länge det inte finns någon nytta att uppnå med att överge bönen bakom honom, som om det skulle leda till att han undviker en synd. I detta fall är det bättre att inte be bakom honom.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

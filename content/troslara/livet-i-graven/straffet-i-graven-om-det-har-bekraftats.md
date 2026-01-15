@@ -1,11 +1,11 @@
 ---
 title: Straffet i graven – om det har bekräftats
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 166 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Livet i graven
 original_id: 1178
 description: 'Fråga: Har man bekräftat straffet i graven? Svar: Straffet har
@@ -28,5 +28,5 @@ Allāh är störst! De snålar med deras själar och de vill inte lämna deras k
 Således bekräftas straffet i graven entydigt genom profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*, Koranens tydliga innebörd och vad alla muslimer är eniga om. Koranens uppenbara innebörd är tydlig. De båda verserna som vi har nämnt är ju tydliga bevis.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

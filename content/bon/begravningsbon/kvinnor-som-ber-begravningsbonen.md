@@ -1,7 +1,7 @@
 ---
 title: Kvinnor som ber begravningsbönen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 63 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -19,5 +19,5 @@ description: 'Fråga: Är det tillåtet för en kvinna att tillsammans med män 
 Det har även bekräftats att kvinnor, precis som män, bad över profeten. Kvinnor går dock inte tillsammans med begravningståget då detta är något som profeten – över honom vare Allāhs frid och välsignelser – har förbjudit.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

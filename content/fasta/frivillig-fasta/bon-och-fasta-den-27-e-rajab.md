@@ -1,6 +1,6 @@
 ---
 title: Bön och fasta den 27:e rajab
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: Majmoo’ Fatāwa Ibn ‘Uthaymīn, 20/440
 categories:
 - Fasta (Sawm)

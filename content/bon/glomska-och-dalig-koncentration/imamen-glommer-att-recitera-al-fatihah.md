@@ -1,7 +1,7 @@
 ---
 title: Imamen glömmer att recitera al-Fātihah
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 278 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -21,6 +21,6 @@ Och genom Allāh uppnås framgång.
 
 [^1]: Rakah.
 [^2]: Ruku, bugningen när ryggen hålls parallell med marken.
-[^3]: Sujud as-sahw.
+[^3]: sujūd as-sahw.
 [^4]: Den avslutande hälsningen i bönen.
 

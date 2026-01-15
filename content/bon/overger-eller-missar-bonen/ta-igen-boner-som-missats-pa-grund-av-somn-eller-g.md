@@ -1,6 +1,6 @@
 ---
 title: Ta igen böner som missats på grund av sömn eller glömska
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 436 s. ISBN 9960-892-66-2'
 categories:
@@ -40,5 +40,5 @@ Och Allāh är Beviljaren av framgång.
 [^3]: Dhuhr
 [^4]: Den avslutande hälsningen i bönen.
 [^5]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
-[^6]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^6]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

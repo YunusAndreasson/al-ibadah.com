@@ -1,7 +1,7 @@
 ---
 title: Väcka frun inför bönen – något en man måste göra
-author: Muhammad bin Salih al-'Uthaymin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muhammad bin Salih al-ʿUthaymin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
 - Bön (Salāh)

@@ -1,7 +1,7 @@
 ---
 title: Överger fastan avsiktligen och ångrar sig sedan
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 312 s. ISBN saknas'
 categories:
 - Fasta (Sawm)

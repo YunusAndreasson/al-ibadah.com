@@ -1,7 +1,7 @@
 ---
 title: Klippa håret och naglarna
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: Fatāwa al-Lajnah ad-Dā.imah lil-Buhūth al-'Ilmiyyah wal-Iftā. - Fatwa No.9517
+source: Fatāwa al-Lajnah ad-Dā.imah lil-Buhūth al-ʿilmiyyah wal-Iftā. – Fatwa No.9517
 categories:
 - Fasta (Sawm)
 - Vad som bryter eller inte bryter fastan

@@ -1,7 +1,7 @@
 ---
 title: Gör ‘umrah under ramadan och avser att vallfärda under samma år
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 96 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -36,5 +36,5 @@ En *mutamatti[^4]'* måste utföra *tawāf[^9]* och *sa’ī[^10]* för sin vall
 [^8]: Utför vallfärden och ´umrah samtidigt med en intention.
 [^9]: Den sju långa rundar vandringen runt Kabah.
 [^10]: Vandringen mellan as-Safa och al-Marwa.
-[^11]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^11]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

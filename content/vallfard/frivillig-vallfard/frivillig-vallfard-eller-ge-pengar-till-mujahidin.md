@@ -1,7 +1,7 @@
 ---
 title: Frivillig vallfärd eller ge pengar till mujāhidin
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 316 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -23,6 +23,6 @@ Det finns inget tvivel om att en *mujāhidin* för Allāh sak är i stort behov 
 Och framgång är med Allāh.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^2]: Kämpa för Allahs sak.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Kämpa för Allāhs sak.
 

@@ -1,7 +1,7 @@
 ---
 title: Lämnade ett varv i tawāful-wadā på grund av oförmåga
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 192 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -22,5 +22,5 @@ Det finns även ett uttalande från Ibn ‘Abbās där han säger: ”*Folket ko
 
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

@@ -1,9 +1,9 @@
 ---
 title: Viktiga böcker för den som vill lära sig om islam
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: Fatāwa al-shaykh Muhammad ibn Sālih al-‘Uthaymīn, Kitāb al-‘Ilm, s. 92
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Förståelse av islam
 original_id: 504
 description: 'Fråga: Vi skulle vilja ha råd om vilka böcker om islamisk kunskap som
@@ -75,7 +75,7 @@ Allmänna böcker
 
 [^1]: Tron på att det bara finns en Gud.
 [^2]: De tre första generationerna i islam.
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^4]: Rättslära.
 [^5]: Tolkning av Koranen efter givna principer.
 

@@ -1,8 +1,8 @@
 ---
 title: Fann inte någon plats i en första raden
-author: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 164 s. ISBN saknas'
-source: Ibn 'Abdullah Ibn Baz
+source: Ibn ʿAbdullah Ibn Baz
 categories:
 - Bön (Salāh)
 - Bönen i församlingen
@@ -19,5 +19,5 @@ description: 'Fråga: Vad gäller den som har gått in i moskén och inte funnit
 Och genom Allāh uppnås framgång.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

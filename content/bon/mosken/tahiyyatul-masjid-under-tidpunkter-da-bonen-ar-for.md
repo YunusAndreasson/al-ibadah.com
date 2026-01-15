@@ -2,7 +2,7 @@
 title: Tahiyyatul-masjid under tidpunkter då bönen är förbjuden gäller inte enbart
  för de två Heliga Moskéerna
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 288 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -24,7 +24,7 @@ De *ahādīth[^5]* som förbjuder bön vid soluppgång, solnedgång, när solen 
 [^2]: Asr
 [^3]: Fajr
 [^4]: Rakah.
-[^5]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^5]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^6]: Maghrib
 [^7]: Den sju långa rundar vandringen runt Kabah.
 

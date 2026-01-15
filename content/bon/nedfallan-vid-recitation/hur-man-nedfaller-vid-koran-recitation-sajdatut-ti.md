@@ -1,7 +1,7 @@
 ---
 title: Hur man nedfaller vid Koran-recitation [sajdatut-tilawah]
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 283 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -21,12 +21,12 @@ description: 'Fråga: Hur gör man sajdatut-tilawah och hur många taslīm bör 
 > 
 > 
 > 
-> ”Allāhumma, uktub lī biha ajran wa dha' 'anī biha wizran waj'alha lī 'indaka thukhran wa taqabbalha minnī kama taqabbaltaha min 'abdika Dawūd 'alaihi wa 'ala nabiyyina afdhalus-salati was-salam.”
+> ”Allāhumma, uktub lī biha ajran wa dha' 'anī biha wizran waj'alha lī 'indaka thukhran wa taqabbalha minnī kama taqabbaltaha min 'abdika Dawūd ʿalaihi wa 'ala nabiyyina afdhalus-salati was-salam.”
 
 Den första delen har Muslim återgivit (771) och at-Tirmithi den andra av (579).
 
 
 [^1]: När vissa verser i Koranen reciteras kan man nedfalla.
 [^2]: Den avslutande hälsningen i bönen.
-[^3]: Sujud, nedfallandet när pannan läggs mot marken.
+[^3]: sujūd, nedfallandet när pannan läggs mot marken.
 

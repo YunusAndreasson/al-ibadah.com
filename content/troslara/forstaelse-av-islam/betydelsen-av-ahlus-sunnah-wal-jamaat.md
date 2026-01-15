@@ -1,10 +1,10 @@
 ---
 title: Betydelsen av ahlus-sunnah wal-jamā’at
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muhammad ibn Sālih al-‘Uthaymīn,
  vol. 1. p. 37
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Förståelse av islam
 original_id: 493
 description: 'Fråga: Vilka är ahlus-sunnah wal-jamā’at? Svar: Ahlus-sunnah
@@ -19,5 +19,5 @@ description: 'Fråga: Vilka är ahlus-sunnah wal-jamā’at? Svar: Ahlus-sunnah
 Studerar du dem som följer innovationer, då kommer du att finna att de skiljer sig åt i vad de följer i frågor om tro, metodologi och praktiskt utövande. Detta tyder på att de är långt ifrån profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* och hur långt de är ifrån den är enligt hur mycket nytt de har introducerat i religionen.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

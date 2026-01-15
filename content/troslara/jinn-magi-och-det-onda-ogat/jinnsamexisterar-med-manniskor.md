@@ -1,10 +1,10 @@
 ---
 title: Jinnsamexisterar med människor
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 203 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Jinn, magi och det onda ögat
 original_id: 91
 description: 'Fråga: Hör jinn när vi skriver eller talar om dem? Finns det någon
@@ -19,5 +19,5 @@ description: 'Fråga: Hör jinn när vi skriver eller talar om dem? Finns det n�
 
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 [^2]: Du´ā
-[^3]: Allahs fotpall.
+[^3]: Allāhs fotpall.
 

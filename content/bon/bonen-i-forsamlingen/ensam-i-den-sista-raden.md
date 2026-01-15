@@ -1,6 +1,6 @@
 ---
 title: Ensam i den sista raden
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 536 s. ISBN 9960-892-66-2'
 categories:
@@ -37,5 +37,5 @@ Det fjärde sättet är att man lämnar församlingen. Detta är dock inte ett a
 
 [^1]: Att säga Allahu Akbar.
 [^2]: Ruku, bugningen när ryggen hålls parallell med marken.
-[^3]: Sujud, nedfallandet när pannan läggs mot marken.
+[^3]: sujūd, nedfallandet när pannan läggs mot marken.
 

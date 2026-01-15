@@ -1,7 +1,7 @@
 ---
 title: Ber man bakom imamen är det en skyldighet att följa honom
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 232 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -24,9 +24,9 @@ Och Allāh vet bäst.
 
 
 [^1]: När vissa verser i Koranen reciteras kan man nedfalla.
-[^2]: Sujud, nedfallandet när pannan läggs mot marken.
+[^2]: sujūd, nedfallandet när pannan läggs mot marken.
 [^3]: Dhuhr
 [^4]: Asr
-[^5]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^5]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^6]: Den avslutande hälsningen i bönen.
 

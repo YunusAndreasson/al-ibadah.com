@@ -1,7 +1,7 @@
 ---
 title: Bad kvällsbönen och nattbönen [isha] före Muzdalifah
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 223 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -19,7 +19,7 @@ description: 'Fråga: Vilket är utlåtandet om någon som bad kvällsbönen och
 
 Det som är föreskrivet för pilgrimen är att denne, om det är möjligt, före midnatt ber kvällsbönen[^1] och nattbönen[^2] tillsammans i Muzdalifah[^3]. Om denne inte kan detta, på grund av trängsel eller någon annan anledning, då ber denne där denne befinner sig. Det är inte tillåtet att skjuta upp dessa böner till efter midnatt. Anledningen är att Allāh har sagt: ”*Bönen är alla troende plikt, knuten till bestämda tider*. ” [Koranen 4:103]
 
-Detta betyder att det är obligatoriskt att be dem vid deras [angivna] tider. En anledning är också att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Tiden *för nattbönen[^2] är fram till och med mitten av natten*.” [*Muslim* 612] Detta har Muslim återgivit i en *hadīth[^5]* från 'Abdullāh bin 'Amr bin al-'Ās.
+Detta betyder att det är obligatoriskt att be dem vid deras [angivna] tider. En anledning är också att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Tiden *för nattbönen[^2] är fram till och med mitten av natten*.” [*Muslim* 612] Detta har Muslim återgivit i en *hadīth[^5]* från ʿAbdullāh bin 'Amr bin al-'Ās.
 
 Och Allāh vet bäst.
 
@@ -28,5 +28,5 @@ Och Allāh vet bäst.
 [^2]: Isha
 [^3]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
 [^4]: Fajr
-[^5]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^5]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

@@ -1,7 +1,7 @@
 ---
 title: Person som har möjlighet utser någon annan till att kasta stenarna
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 166 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)

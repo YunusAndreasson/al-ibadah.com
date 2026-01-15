@@ -1,9 +1,9 @@
 ---
 title: Rådfråga siare och trollkarlar
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. x s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Siare och trollkarlar
 original_id: 64
 description: 'Fråga: Min far var mentalt sjuk under en lång tid och han åkte ut och
@@ -30,5 +30,5 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 [^2]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

@@ -1,11 +1,11 @@
 ---
 title: ”När vård ökar så minskar dödstalen”
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 85 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Allāhs förutbestämmelse
 original_id: 61
 description: 'Fråga: I en artikel publicerad i ett magasin har jag läst följande
@@ -30,12 +30,12 @@ Allāh har redan förordnat principen om orsak och verkan för Hans skapelser, g
 > 
 > 
 > 
-> ”Och vi pressar vattnet ur regnmolnen i rikliga flöden och frambringar därmed säd och [annan] växtlighet och rikt blommande trädgårdar.” [Koranen 78:14-16]
+> ”Och vi pressar vattnet ur regnmolnen i rikliga flöden och frambringar därmed säd och [annan] växtlighet och rikt blommande trädgårdar.” [Koranen 78:14–16]
 > 
 > 
 > 
 > 
-> ”Har de aldrig begett sig ut i världen och sett [spåren som visar] hur slutet blev för dem som levde före deras tid [och som förnekade sanningen]? De var mäktigare än sina [sentida efterföljare] och brukade jorden bättre och byggde upp ett större [välstånd] än [efterföljarna]. Sändebud kom [också] till dem med klara vittnesbörd om sanningen. Men när de drabbades av Guds straff] var det inte Han som gjorde dem orätt – det var de som hade gjort orätt mot sig själva. Dessa förövare av det onda drabbades till sist av det svåraste av alla straff [- helvetets eld -] därför att de kallade Våra budskap för lögn och gjorde sig lustiga över dem. Gud inleder skapelsen och ska när tiden kommer förnya den och till sist ska ni föras åter till Honom.” [Koranen 30:9-11]
+> ”Har de aldrig begett sig ut i världen och sett [spåren som visar] hur slutet blev för dem som levde före deras tid [och som förnekade sanningen]? De var mäktigare än sina [sentida efterföljare] och brukade jorden bättre och byggde upp ett större [välstånd] än [efterföljarna]. Sändebud kom [också] till dem med klara vittnesbörd om sanningen. Men när de drabbades av Guds straff] var det inte Han som gjorde dem orätt – det var de som hade gjort orätt mot sig själva. Dessa förövare av det onda drabbades till sist av det svåraste av alla straff [- helvetets eld -] därför att de kallade Våra budskap för lögn och gjorde sig lustiga över dem. Gud inleder skapelsen och ska när tiden kommer förnya den och till sist ska ni föras åter till Honom.” [Koranen 30:9–11]
 > 
 > 
 > 
@@ -44,7 +44,7 @@ Allāh har redan förordnat principen om orsak och verkan för Hans skapelser, g
 
 Dessa och liknande verser nämner fysiska orsaker tillsammans med fysisk och immateriell verkan som Allāh har bundit samman; den förstnämnda har orsakat den sistnämnda. Detta tillhör Allāhs skapelse, genom verkan av Hans dekret och förutbestämmelse. Här resulteras immateriella ting från dem, även om Han kan skapa sådana resultat utan orsak. Det är Hans sätt – att skapa det senare från det förra. Visdomen i detta känner enbart Han till. Han den Upphöjde säger:
 
-> ”[Detta är] en Skrift, var budskap har avfattats på ett fast och klart språk och förtydligats på punkt efter punkt av en allvis [Herre], väl underrättad om allt; [den lär er] att inte dyrka någon utom Gud. [Säg, Muhammad:] ”Jag är [sänd] av Honom för att varna [er] och överbringa ett glatt budskap om hopp, där [ni förmanas] att be er Herre om förlåtelse [för era synder] och att i ånger vända åter till Honom. Då ska Han till en tidpunkt [som Han har] fastställt låta er njuta allt det goda [som ryms i detta liv], och [i det kommande livet] ska Han, efter vars och ens förtjänst skänka alla som gör det goda och det rätta Sin nåds gåvor. Men om de vänder ryggen till, [säg]: ”Jag bävar för det straff som väntar på er på [Räkenskapens ] dag.” [Koranen 11:1-3]
+> ”[Detta är] en Skrift, var budskap har avfattats på ett fast och klart språk och förtydligats på punkt efter punkt av en allvis [Herre], väl underrättad om allt; [den lär er] att inte dyrka någon utom Gud. [Säg, Muhammad:] ”Jag är [sänd] av Honom för att varna [er] och överbringa ett glatt budskap om hopp, där [ni förmanas] att be er Herre om förlåtelse [för era synder] och att i ånger vända åter till Honom. Då ska Han till en tidpunkt [som Han har] fastställt låta er njuta allt det goda [som ryms i detta liv], och [i det kommande livet] ska Han, efter vars och ens förtjänst skänka alla som gör det goda och det rätta Sin nåds gåvor. Men om de vänder ryggen till, [säg]: ”Jag bävar för det straff som väntar på er på [Räkenskapens ] dag.” [Koranen 11:1–3]
 
 Hans profet Hud predikade för sitt folk:
 
@@ -52,7 +52,7 @@ Hans profet Hud predikade för sitt folk:
 
 Och Han säger om profeten – över honom vare Allāhs frid och välsignelser – Noa när han predikade för folket:
 
-> ”[Och Noa] sade: ”Jag har kommit, mitt folk, för att varna er klart och entydigt: dyrka Gud och frukta Honom! Och lyd mig! Då ska Gud förlåta er era synder och ge er uppskov till en tid [som Han] har fastställt – när den är inne, kan den inte uppskjutas – om ni [bara] visste...!” [Koranen 71:2-4]
+> ”[Och Noa] sade: ”Jag har kommit, mitt folk, för att varna er klart och entydigt: dyrka Gud och frukta Honom! Och lyd mig! Då ska Gud förlåta er era synder och ge er uppskov till en tid [som Han] har fastställt – när den är inne, kan den inte uppskjutas – om ni [bara] visste...!” [Koranen 71:2–4]
 
 Och Han den Upphöjde säger om Hans sändebuds predikande inför deras folk att de sade:
 

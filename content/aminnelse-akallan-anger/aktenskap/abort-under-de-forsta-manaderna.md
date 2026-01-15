@@ -6,13 +6,13 @@ categories:
 - Äktenskap
 original_id: 1718
 description: 'Fråga: Är det tillåtet att utföra en abort i de tidiga månaderna (1-3)
- före själen har andats in i fostret? Svar: All lovprisan tillhör Allâh. Rådet
+ före själen har andats in i fostret? Svar: All lovprisan tillhör Allāh. Rådet
  för de äldre lärde har utfärdat följande utt...'
 ---
 
 **Fråga:** Är det tillåtet att utföra en abort i de tidiga månaderna (1-3) före själen har andats in i fostret?
 
-**Svar:** All lovprisan tillhör Allâh. Rådet för de äldre lärde har utfärdat följande uttalande:
+**Svar:** All lovprisan tillhör Allāh. Rådet för de äldre lärde har utfärdat följande uttalande:
 
 1. Det är inte tillåtet att utföra en abort under något stadie, förutom om det finns en giltig orsak inom givna gränser.
 2. Om graviditeten är i det första stadiet, vilket är en period utav 40 dagar, och en abort tjänar ett tillåtet syfte eller om den [graviditeten] kommer att leda till något skadligt, då är det tillåtet att utföra en abort. Men om en abort utförs i detta stadie av rädsla för att inte kunna uppfostra barnet, om man är rädd för att inte kunna bära kostnaderna för att försörja och utbilda barnet, i fruktan för framtiden eller för att ett par känner att de har tillräckligt med barn – då är det inte tillåtet.

@@ -1,7 +1,7 @@
 ---
 title: Be bakom pelarna i moskén
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 233 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -19,5 +19,5 @@ description: 'Fråga: Är det tillåtet att bryta församlingens rader med mosk�
 Profeten – över honom vare Allāhs frid och välsignelser – beordrade dem att formera sig stramt och täcka luckor. Följeslagarna brukade även undvika raderna mellan pelarna. Detta hade ju lett till att raderna hade skjilts från varandra. Men om det som i frågan finns ett behov av detta eftersom moskén är full med folk, då finns det i en sådan situation ingen invändan mot detta. Anledningen är de ovanliga omständigheterna som täcks av speciella regler. Likaså finns det speciella regler vid nödvändighet och behov.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

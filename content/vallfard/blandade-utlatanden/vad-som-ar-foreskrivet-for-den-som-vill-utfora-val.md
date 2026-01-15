@@ -1,7 +1,7 @@
 ---
 title: Vad som är föreskrivet för den som vill utföra vallfärden och ‘umrah
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 36 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -40,6 +40,6 @@ Och Allāh vet bäst.
 
 
 [^1]: Den lilla vallfärden.
-[^2]: Bönen man ber för att söka Allahs hjälp när man har flera valmöjligheter.
-[^3]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Bönen man ber för att söka Allāhs hjälp när man har flera valmöjligheter.
+[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

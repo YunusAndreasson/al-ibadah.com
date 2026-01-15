@@ -1,9 +1,9 @@
 ---
 title: 'Säga: ”Allāh, stärk vår ställning inför dig” efter iqāmah'
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: al-Bid'u wal-Muhdathāt wa mā lā Asla lahu – sida 200
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Innovationer
 original_id: 560
 description: 'Fråga: Kan man säga ”Allāh, stärk vår ställning inför dig” [ Allāhumma
@@ -16,5 +16,5 @@ description: 'Fråga: Kan man säga ”Allāh, stärk vår ställning inför dig
 **Svar:** Det finns ingen grund för att säga detta: ”Allāh, stärk vår ställning inför dig” [*Allāhumma ahsin wuqūfanā bayna yadayka*] efter *iqāmah[^1]*.
 
 
-[^1]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
+[^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 

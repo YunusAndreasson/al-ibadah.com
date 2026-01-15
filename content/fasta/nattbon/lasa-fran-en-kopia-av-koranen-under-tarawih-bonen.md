@@ -1,14 +1,14 @@
 ---
 title: Läsa från en kopia av Koranen under tarāwīh-bönen
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 316 s. ISBN saknas'
 categories:
 - Fasta (Sawm)
 - Nattbön (tarawih)
 original_id: 1409
 description: 'Fråga: Är det tillåtet att läsa från en kopia av Koranen under tarāwīh
- - eller eklipsbönen? Vanligen, hjälp oss med ett svar och må Allāh belöna er. Svar: Det
+ – eller eklipsbönen? Vanligen, hjälp oss med ett svar och må Allāh belöna er. Svar: Det
  går bra att läsa från en kopia a...'
 ---
 
@@ -18,5 +18,5 @@ description: 'Fråga: Är det tillåtet att läsa från en kopia av Koranen unde
 
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

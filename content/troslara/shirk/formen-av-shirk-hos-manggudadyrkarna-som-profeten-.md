@@ -1,11 +1,11 @@
 ---
 title: Formen av shirk hos månggudadyrkarna som profeten sändes till
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 32 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Shirk [Att sätta något vid Allāhs sida]
 original_id: 1163
 description: 'Fråga: Vilken sorts shirk begick månggudadyrkarna som profetens –
@@ -52,7 +52,7 @@ Och när jag säger sura *al-Ikhlas* avser jag *ikhlas[^7]* i handlingar, för d
 Och Allāh är Beviljaren av framgång.
 
 
-[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
+[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^2]: Du´ā
 [^3]: Tron på att det bara finns en Gud.
 [^4]: Enheten i Allāhs herravälde.

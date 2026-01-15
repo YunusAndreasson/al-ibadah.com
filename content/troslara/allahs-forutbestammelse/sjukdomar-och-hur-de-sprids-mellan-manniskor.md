@@ -1,10 +1,10 @@
 ---
 title: Sjukdomar och hur de sprids mellan människor
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 194 s. ISBN 9960-892-66-2'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Allāhs förutbestämmelse
 original_id: 1187
 description: 'Fråga: Vi ber er att förklara profetens – över honom vare Allāhs frid
@@ -33,7 +33,7 @@ Den starkaste åsikten är att det avser månaden *safar[^1]*. Araberna brukade 
 
 Somliga antecknar datumet när de har gjort en viss sak den 25:e safar[^1]. De säger: Fullbordat den 25:e safar[^1], den goda månaden. Detta anses som att bota innovation med innovation och okunskap med okunskap. Detta är ju varken är en god eller ond månad.
 
-Därför ogillade vissa *salaf[^4]* - må Allāh vara nöjda med dem - de som när de hörde en uggla hoa sade: ”Något bra, om Allāh vill.” Det är inte så att den bär med sig gott eller ont. I stället hoar den precis som andra fåglar gör.
+Därför ogillade vissa *salaf[^4]* – må Allāh vara nöjda med dem – de som när de hörde en uggla hoa sade: ”Något bra, om Allāh vill.” Det är inte så att den bär med sig gott eller ont. I stället hoar den precis som andra fåglar gör.
 
 Dessa fyra företeelser som sändebudet – över honom vare Allāhs frid och välsignelser – har motsatt sig att man måste sätta sin tilltro till Allāh, att ha en uppriktig avsikt och att en muslim inte bör vara svag när denne konfronteras med dessa händelser.
 
@@ -62,7 +62,7 @@ Och Allāh är Beviljaren av framgång.
 
 
 [^1]: Den andra månaden på det islamiska året.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Den första månaden på det islamiska året. Under denna månaden kan man fasta den 9:e och 10:e dagen eller den 10:e och 11:e.
 [^4]: De tre första generationerna i islam.
 

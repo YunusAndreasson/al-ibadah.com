@@ -1,7 +1,7 @@
 ---
 title: Tecken på Allmaktens Natt
-author: Muhammad bin Sālih al-'Uthaymīn
-source: Fatāwa ash-Shaykh Muhammad as-Sālih al-'Uthaymīn - volym 1, sida 563
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: Fatāwa ash-Shaykh Muhammad as-Sālih al-ʿUthaymīn – volym 1, sida 563
 categories:
 - Fasta (Sawm)
 - Allmaktens Natt

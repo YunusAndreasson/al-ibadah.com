@@ -1,6 +1,6 @@
 ---
 title: Åminnelse av Allāh som är föreskriven efter att ha sagttaslīmi bönen
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 491 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
@@ -36,13 +36,13 @@ Och Allāh är Beviljaren av framgång.
 
 [^1]: Dhikr
 [^2]: Den avslutande hälsningen i bönen.
-[^3]: Att upphöja Allah, Subhan Allah.
+[^3]: Att upphöja Allāh, Subhan Allāh.
 [^4]: Att säga Allahu Akbar.
-[^5]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^5]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^6]: Fajr
 [^7]: Dhuhr
 [^8]: Asr
 [^9]: Maghrib
 [^10]: Isha
-[^11]: Säga: Att ingen har rätt att dyrkas utom Allah, la ilaha illAllah.
+[^11]: Säga: Att ingen har rätt att dyrkas utom Allāh, la ilaha illAllah.
 

@@ -1,11 +1,11 @@
 ---
 title: Den som antar kommunism har avfallit från islam
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 363 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Shirk [Att sätta något vid Allāhs sida]
 original_id: 146
 description: 'Fråga: Kommunism är en ideologi som förnekar Skaparen den Allsmäktige
@@ -29,7 +29,7 @@ De som förnekar Skaparen förnekar också deras egen existens. Detta beror på 
 
 När Jubair bin Mut'im hörde profeten – över honom vare Allāhs frid och välsignelser – recitera denna vers blev han förvånad över att han inte hade trott förut. Han sade: ”Jag flög nästan, det var ju ett så klart och avgörande bevis för Skaparens den Upphöjdes existens.”
 
-Om det sägs till dem som förnekar: ”Vem är himlarnas och jordens Skaparen?”, då finner de inget annat alternativ än att säga: ”Det är Allāh som skapat dem”. Det är ju klart att de inte skapade sig själva och allting som existerar måste ha en Skapare, och det är Allāh. Om någon skulle säg: ”Detta vackra palats innehåller mycket dyr elektronisk utrustning och det har byggt sig själv” - då skulle folk säga: ”Detta är vansinne. Det kan inte vara möjligt.”Hur är det då inte med himlarna, jorden, planeterna och stjärnorna som rör sig runt i detta fantastiska system, som inte har förändrats sedan Allāh den Allsmäktige skapade det [och som kommer att bestå] tills Allāh låter det förgå. Jag anser att frågan är så klar att den inte kräver bevis.
+Om det sägs till dem som förnekar: ”Vem är himlarnas och jordens Skaparen?”, då finner de inget annat alternativ än att säga: ”Det är Allāh som skapat dem”. Det är ju klart att de inte skapade sig själva och allting som existerar måste ha en Skapare, och det är Allāh. Om någon skulle säg: ”Detta vackra palats innehåller mycket dyr elektronisk utrustning och det har byggt sig själv” – då skulle folk säga: ”Detta är vansinne. Det kan inte vara möjligt.”Hur är det då inte med himlarna, jorden, planeterna och stjärnorna som rör sig runt i detta fantastiska system, som inte har förändrats sedan Allāh den Allsmäktige skapade det [och som kommer att bestå] tills Allāh låter det förgå. Jag anser att frågan är så klar att den inte kräver bevis.
 
 Härmed råder det inget tvivel om att den som förnekar Skaparen har en mental defekt, är utan religion och är icke-troende. Ingen bör tveka över att detta är otro.
 

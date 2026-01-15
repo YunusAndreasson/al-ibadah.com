@@ -1,7 +1,7 @@
 ---
 title: Sitta tillsammans med någon som överger bönen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 373 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -19,5 +19,5 @@ description: 'Fråga. Får man sitta tillsammans med någon som inte ber? Svar: 
 Genom Allāh uppnås framgång. Må frid och välsignelser vara över profeten Muhammad och hans familj.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

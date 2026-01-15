@@ -1,11 +1,11 @@
 ---
 title: Antalet sändebud och profeter
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 70 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Sändebuden
 original_id: 53
 description: 'Fråga: Hur många sändebud och profeter finns det? Och om vi inte tror
@@ -26,5 +26,5 @@ Vi tror på varje profet och sändebud som Allāh har sänt vid en viss tid, men
 När det gäller antalet uppenbarade böcker nämns i en lång *hadīth[^1]* rapporterat av Abū Tharr att det finns 104 böcker. Ibn Kathīr har citerat den som en kommentar till den ovan nämnda versen. Endast Allāh vet hur autentiska dessa *ahādīth[^1]* är. Allāh har vid namn nämnt Toran, Evangeliet, *az-Zabur* och Abrahams och Moses *Suhuf*. Därför tror vi på dem och vi tror att det finns många böcker från Allāh som vi inte känner till, men det är tillräckligt att enbart generellt sett tro på dem.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

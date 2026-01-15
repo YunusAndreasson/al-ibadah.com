@@ -1,11 +1,11 @@
 ---
 title: Sätta sin tilltro till olika metoder för att få det man vill ha
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 96 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Allāhs förutbestämmelse
 original_id: 1077
 description: 'Fråga: Vilket är utlåtandet om att tro att en metod kan hjälpa en att
@@ -23,6 +23,6 @@ description: 'Fråga: Vilket är utlåtandet om att tro att en metod kan hjälpa
 
 
 [^1]: Tron på att det bara finns en Gud.
-[^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
+[^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^3]: Hoppfullhet till Allāh.
 

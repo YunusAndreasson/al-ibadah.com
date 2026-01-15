@@ -1,11 +1,11 @@
 ---
 title: Stöd av evolutionsteorin motsäger sig en islamisk tro
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 359 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Blandade utlåtanden
 original_id: 143
 description: 'Fråga: I dag finner vi evolutionsteorin överallt; i våra marockanska
@@ -52,6 +52,6 @@ Därför måste vi acceptera att vi är Allāhs skapelser och under Hans herrav�
 Och Allāh är den som ger all framgång.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: En materialistisk och ateistisk doktrin som påstår att denna världen har existerat för evigt och som avvisar tron på Nästa Liv.
 

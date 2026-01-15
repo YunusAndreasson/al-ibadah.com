@@ -1,7 +1,7 @@
 ---
 title: Den som hinner be gryningsbönen i Muzdalifah har inte syndat
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. x s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -18,7 +18,7 @@ description: 'Fråga: En karavan lämnade Arafat efter solnedgången och de råk
 
 > ”Den som är närvarande vid denna bön och står med oss tills vi ger oss av, och innan detta har stått vid Arafat[^1] under natten och dagen, då har denne fullföljt sin vallfärd och de bestämda plikterna.” [*at-Tirmithi* 891]
 
-De gjorde dock fel när de sköt upp bönen till efter midnatt. Tiden för nattbönen[^3] är ju fram till midnatt. Detta har bekräftats i *Sahīh Muslim* i en *hadīth[^6]* från 'Abdullāh bin 'Amr bin al-'Ās.
+De gjorde dock fel när de sköt upp bönen till efter midnatt. Tiden för nattbönen[^3] är ju fram till midnatt. Detta har bekräftats i *Sahīh Muslim* i en *hadīth[^6]* från ʿAbdullāh bin 'Amr bin al-'Ās.
 
 
 [^1]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
@@ -26,5 +26,5 @@ De gjorde dock fel när de sköt upp bönen till efter midnatt. Tiden för nattb
 [^3]: Isha
 [^4]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
 [^5]: Fajr
-[^6]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^6]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

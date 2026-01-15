@@ -1,11 +1,11 @@
 ---
 title: Skrivna Koran-verser som bundits runt nacken på en sjuk person
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 97 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Amuletter och talismaner
 original_id: 1172
 description: 'Fråga: Vilket är utlåtandet om ruqyah? Och vilket är utlåtandet om
@@ -38,6 +38,6 @@ Den som gör en handling till en orsak till att uppnå något annat, utan ett go
 
 [^1]: Något som reciteras för att bota sjukdomar.
 [^2]: Du´ā
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
-[^4]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^4]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

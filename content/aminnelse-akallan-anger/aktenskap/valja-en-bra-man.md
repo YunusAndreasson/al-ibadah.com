@@ -1,6 +1,6 @@
 ---
 title: Välja en bra man
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: Fatāwa al-Marah
 categories:
 - Åminnelse, åkallan, ånger...

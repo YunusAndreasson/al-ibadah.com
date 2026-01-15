@@ -1,7 +1,7 @@
 ---
 title: Sända böner över profeten under bönen medan imamen reciterar
-author: Ibn 'Abdur-Rahman al-Jibrin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 212 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -22,5 +22,5 @@ I en *hadīth[^1]* rapporteras det: ”*När imamen säger 'Allāhu akbar' säg 
 Men om imamen reciterar denna vers under fredagspredikan, *‘eid*, eller om du hör någon recitera den utanför bönen, eller du reciterar den själv, då får du bekräfta den genom att sända böner över profeten, precis som det är tillåtet under andra tidpunkter. Här finns en stor förtjänst.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

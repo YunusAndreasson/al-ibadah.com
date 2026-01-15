@@ -1,7 +1,7 @@
 ---
 title: Tar på sig sockar utan att vara i ett tillstånd av renhet för att sedan be
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 98 s. ISBN saknas'
 categories:
 - Renhet (Tahārah)
@@ -31,6 +31,6 @@ Detta betyder att Han den Upphöjde har besvarat denna åkallan[^8] från Hans t
 [^4]: Asr
 [^5]: Maghrib
 [^6]: Isha
-[^7]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^7]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^8]: Du´ā
 

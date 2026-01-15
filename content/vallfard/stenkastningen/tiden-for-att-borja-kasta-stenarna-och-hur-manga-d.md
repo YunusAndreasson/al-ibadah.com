@@ -1,7 +1,7 @@
 ---
 title: Tiden för att börja kasta stenarna och hur många de ska vara till antalet
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 240 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -21,7 +21,7 @@ Det är *sunnah[^1]* att stå efter den första och den andra pelaren. När man 
 Den sista pelaren, som ligger närmst Mecka, kastar man sten på men man står inte kvar vid den. Anledningen är att sändebudet kastade sten på den utan att stå kvar vid den.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 [^3]: Du´ā
 

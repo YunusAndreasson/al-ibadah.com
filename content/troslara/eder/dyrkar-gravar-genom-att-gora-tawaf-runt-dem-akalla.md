@@ -1,12 +1,12 @@
 ---
 title: Dyrkar gravar genom att göra tawāf runt dem, åkallar de som är begravda i dem,
  svära eder vid dem och liknande
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 244 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Eder
 original_id: 1100
 description: 'Fråga: Vilket är utlåtandet om någon som dyrkar gravar genom att göra tawāf runt
@@ -26,7 +26,7 @@ Denne är dock själv inte till någon mer nytta. Denne är en död kropp som va
 
 Någon vars handlingar som har lett denne till synder som tar denne ur islam. Detta kan vara sådana som påstår att de är *awliyā'*, att de har kunskap om det som är dolt för människor[^2], att de kan bota de sjuka och att de kan hjälpa människor genom okända eller otillåtna metoder som inte är enligt den islamiska lagen. Det är inte tillåtet att åkalla för dem som har avlidit som icke-troende. Och likaså är det inte tillåtet att visa kärlek eller respekt för dem. Detta enligt Allāhs den Upphöjdes ord:
 
-> ”Det anstår inte profeten och inte heller de troende att be om syndernas förlåtelse för avgudadyrkare, även om de hörde till deras nära anförvanter, sedan det klargjorts för dem att elden är sådana [människors] arvedel. Och Abrahams bön att hans far skulle förlåtas var ingenting annat än uppfyllelsen av ett löfte till denne, men när det blev klart för honom att fadern var en fiende till Gud, tog han avstånd från honom. Abraham var en ömsint och fördragsam [människa].” [Koranen 9:113-114]
+> ”Det anstår inte profeten och inte heller de troende att be om syndernas förlåtelse för avgudadyrkare, även om de hörde till deras nära anförvanter, sedan det klargjorts för dem att elden är sådana [människors] arvedel. Och Abrahams bön att hans far skulle förlåtas var ingenting annat än uppfyllelsen av ett löfte till denne, men när det blev klart för honom att fadern var en fiende till Gud, tog han avstånd från honom. Abraham var en ömsint och fördragsam [människa].” [Koranen 9:113–114]
 
 De kan varken skada eller göra någon nytta och det är inte tillåtet att sätta sin tilltro till dem. Skulle det inträffa att någon såg ett mirakel [komma] från dem, som om det skulle verka finnas ljus runt deras gravar eller om en väldoft strömmade från dem när man vet att de avled som icke-troende, då är detta ett bedrägeri och trick från djävulen vars mål är att leda dessa människor på avvägar genom dem som ligger i gravarna.
 
@@ -45,18 +45,18 @@ Jag råder även dem att inte följa någon annan i religiösa frågor än Allā
 
 Muslimer måste noga studera dem som påstår sig vara *awliyā'* med Koranen och [profetens – över honom vare Allāhs frid och välsignelser –] *sunnah[^4]* som måttstock. Om det som sker är enligt Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser –] *sunnah[^4]* finns det hopp om att denne är en av Allāhs *awliyā'*. Men om det [som sker] motsäger sig Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser –] *sunnah[^4]* är denne inte en av Allāhs *awliyā'*. I Sin skrift har Allāh nämnt en rättvis metod som *awliyā'* kan kännas igen genom när Han säger:
 
-> ”Helt visst ska de som är nära Gud aldrig känna fruktan och ingen sorg ska tynga dem, de som tror och ständigt har Honom för ögonen.” [Koranen 10:62-63]
+> ”Helt visst ska de som är nära Gud aldrig känna fruktan och ingen sorg ska tynga dem, de som tror och ständigt har Honom för ögonen.” [Koranen 10:62–63]
 
 Den som är en from troende är således en *walī* till Allāh och den som inte är det, är inte en *walī* till Allāh. Har denne någon tro och fruktan av Allāh, då har denne ett visst mått av *wilayah* i sig men vi säger inte något om en viss person utan vi säger att generellt sett så är en from troende Allāhs *walī*.
 
 Det bör vara känt att Allāh den Allsmäktige kan pröva någon på detta sätt. En person kan komma an på en grav och åkalla den som ligger begravd i den. Denne kan också ta lite jord från den för att få välsignelser – och [faktiskt] få vad denne ber om. Detta är då en prövning från Allāh den Allsmäktige för denne. Vi vet ju att graven inte svarar åkallan[^3] och att jorden inte är ett sätt för att skydda mot ont eller hjälpa. Vi vet detta då Allāh den Upphöjde säger:
 
-> ”Och vem begår ett större misstag än den som i Guds ställe anropar dem, som inte kan svara honom förrän på Uppståndelsens dag och som inte ens är medvetna om att de anropas? När människor samlas [inför Domen] ska de bli [sina tillbedjares] fiender och ta avstånd från deras dyrkan.” [Koranen 46:5-6]
+> ”Och vem begår ett större misstag än den som i Guds ställe anropar dem, som inte kan svara honom förrän på Uppståndelsens dag och som inte ens är medvetna om att de anropas? När människor samlas [inför Domen] ska de bli [sina tillbedjares] fiender och ta avstånd från deras dyrkan.” [Koranen 46:5–6]
 > 
 > 
 > 
 > 
-> ”De som de anropar vid sidan av Gud skapar ingenting – de är ju [själva] skapade. Döda, livlösa, vet de inte när de ska uppväckas till liv.” [Koranen 16:20-21]
+> ”De som de anropar vid sidan av Gud skapar ingenting – de är ju [själva] skapade. Döda, livlösa, vet de inte när de ska uppväckas till liv.” [Koranen 16:20–21]
 
 Verserna med denna innebörd är många och de bevisar att de som åkallar[^3] någon annan än Allāh inte kommer att bli besvarade. Det som eftersträvas och åkallas för kan dock uppnås ändå, om någon annan än Allāh åkallas, men detta är då en prövning. Vi säger då att han fick detta från åkallan[^3] vid denna tidpunkt, när han åkallade någon annan än Allāh, inte för att han åkallade det [som han åkallade]. Det är skillnad mellan att få något på grund av något och att få något vid tidpunkten för något. Vi är säkra på att det inte är ett sätt för att uppnå något bra eller för att skydda mot ont om man åkallar[^3] någon annan än Allāh. Vi känner till detta genom det flertalet verser i Koranen i vilka Allāh den Allsmäktige har nämnt detta. Man kan dock tänka sig att detta uppnås efter åkallan[^3] som en prövning. Allāh den Härlige, den Upphöjde kan pröva någon genom synder för att Han den Härlige, den Upphöjde ska kunna veta vem som tjänar Honom och vem som tjänar sina egna nycker.
 
@@ -67,7 +67,7 @@ Ser du inte hur Allāh förbjöd sabbatsfolket att fånga fisk under sabbaten? A
 > 
 > 
 > 
-> ”Ni vet att det bland er fanns sådana som kränkte sabbatshelgden och att Vi uttalade [denna dom] över dem: ’Bli [som] apor, föremål för [allas] hån och förakt!’ Vi gjorde detta för att ge ett varnande exempel för samtid och eftervärld och en allvarlig erinran till de gudfruktiga.” [Koranen 2:65-66]
+> ”Ni vet att det bland er fanns sådana som kränkte sabbatshelgden och att Vi uttalade [denna dom] över dem: ’Bli [som] apor, föremål för [allas] hån och förakt!’ Vi gjorde detta för att ge ett varnande exempel för samtid och eftervärld och en allvarlig erinran till de gudfruktiga.” [Koranen 2:65–66]
 
 Se hur Allāh gjorde det lätt för dem att fiska den dag som det var förbjudet men de – må Allāh skydda oss – var inte tålmodiga och därmed fullbordade de denna strategi för att ta sig förbi Allāhs förbud.
 
@@ -83,6 +83,6 @@ Blir metoderna för att göra något otillåtet åtkomliga måste man frukta All
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 [^3]: Du´ā
-[^4]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^4]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^5]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 

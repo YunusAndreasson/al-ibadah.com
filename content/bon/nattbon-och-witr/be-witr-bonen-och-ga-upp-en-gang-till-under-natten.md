@@ -1,6 +1,6 @@
 ---
 title: Be witr-bönen och gå upp en gång till under natten för att be
-author: Ibn 'Abdullah Ibn Baz
+author: Ibn ʿAbdullah Ibn Baz
 source: Fatāwa al-Marah
 categories:
 - Bön (Salāh)

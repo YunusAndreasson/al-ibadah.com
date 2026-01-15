@@ -1,6 +1,6 @@
 ---
 title: Besöka gravplatser för att läsa sura al-Fātihah
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 584 s. ISBN 9960-892-66-2'
 categories:
@@ -31,6 +31,6 @@ Det är skillnad mellan den kvinna som lämnar sitt hem för att besöka gravar 
 Den första som gick ut från sitt hem för att besöka gravarna har gjort något otillåtet och utsatt sig själv för Allāhs den Allsmäktiges förbannelse medan den andra inte har syndat.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Du´ā
 

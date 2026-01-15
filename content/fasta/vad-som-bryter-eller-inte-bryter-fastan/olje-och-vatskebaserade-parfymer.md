@@ -1,7 +1,7 @@
 ---
 title: Olje- och vätskebaserade parfymer
-author: Ibn 'Abdullāh Ibn Baz
-source: Fatāwa a Ramadan - Volume 2, Page 499, Fatwa No.451
+author: Ibn ʿAbdullāh Ibn Baz
+source: Fatāwa a Ramadan – Volume 2, Page 499, Fatwa No.451
 categories:
 - Fasta (Sawm)
 - Vad som bryter eller inte bryter fastan

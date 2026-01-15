@@ -1,6 +1,6 @@
 ---
 title: Antalet bönecykler som bes i tarāwīh-bönen
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 509 s. ISBN 9960-892-66-2'
 categories:
@@ -20,7 +20,7 @@ Antalet bönecykler[^1] är elva enligt vad som har återgivits i *Sahīh al-Buk
 
 Om någon ber tretton bönecykler[^1] finns det ingen invändan mot det, enligt vad Ibn ‘Abbās har sagt: ”*profetens – över honom vare Allāhs frid och välsignelser – bön var tretton bönecykler[^1], det gäller nattbönen*.” [*al-Bukhārī* 1138 och *Muslim* 764]
 
-Elva bönecykler[^1] har bekräftats från 'Umar bin al-Khattab och återgivits i imam Māliks *al-Muwatta'* med en rapportörskedja som är en av de mest autentiska. [*al-Muwatta'* 280]
+Elva bönecykler[^1] har bekräftats från ʿUmar bin al-Khattab och återgivits i imam Māliks *al-Muwatta'* med en rapportörskedja som är en av de mest autentiska. [*al-Muwatta'* 280]
 
 Om någon bad mer finns det ingen invändan mot det, enligt vad profeten – över honom vare Allāhs frid och välsignelser – sade när han blev tillfrågad om nattbönen och sade: ”*Två åt gången*.” [*al-Bukhārī* 990 och *Muslim* 145] Han angav inte ett antal.
 
@@ -42,7 +42,7 @@ Vi ber Allāh den Upphöjde att Han ger oss alla framgång i att uppnå vad Han 
 
 
 [^1]: Rakah.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^4]: De tre första generationerna i islam.
 [^5]: Den ansträngning en islamskt lärd gör för att lägga fram ett utlåtande som inte är uppenbart.

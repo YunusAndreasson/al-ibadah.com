@@ -1,7 +1,7 @@
 ---
 title: Går in i moskén när böneutropet ropas ut och vad man då ska göra
-author: Muhammad bin Sālih al-'Uthaymīn
-source: Majmū' Fatāwa Ibn 'Uthaymīn – volym 12, sida 192
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: Majmū' Fatāwa Ibn ʿUthaymīn – volym 12, sida 192
 categories:
 - Bön (Salāh)
 - Böneutrop

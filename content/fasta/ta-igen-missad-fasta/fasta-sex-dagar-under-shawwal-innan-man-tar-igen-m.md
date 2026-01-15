@@ -1,7 +1,7 @@
 ---
 title: Fasta sex dagar under shawwal innan man tar igen missade dagar under ramadan
-author: Muhammad bin Salih al-'Uthaymin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Muhammad bin Salih al-ʿUthaymin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 313 s. ISBN saknas'
 categories:
 - Fasta (Sawm)

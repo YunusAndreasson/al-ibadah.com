@@ -1,6 +1,6 @@
 ---
 title: Ursäkter som gör det tillåtet att bryta fastan
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 632 s. ISBN 9960-892-66-2'
 categories:
@@ -25,6 +25,6 @@ Detta står i motsats till det fall i vilket det bekräftas att ramadan[^2] har 
 Men när det gäller dem som har beskrivits så får de bryta deras fasta även om de känner till [att det är ramadan[^2]] och bevisen är tydliga för dem.
 
 
-[^1]: Kämpa för Allahs sak.
+[^1]: Kämpa för Allāhs sak.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

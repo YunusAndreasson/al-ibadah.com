@@ -1,7 +1,7 @@
 ---
 title: Memorera delar av Koranen som man sedan glömmer bort
-author: Muhammad bin Salih al-'Uthaymin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muhammad bin Salih al-ʿUthaymin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -23,5 +23,5 @@ Det som verkligen är märkligt är att vissa fruktar Allāh till sådan grad at
 Du bör memorera Koranen och sedan underhålla vad du har memorerat genom att gå igenom igen. Glömmer du sedan av naturliga skäl och inte eftersom du har vänt dig bort från Koranen eller eftersom du försummar den, då kommer det inte att skada dig och du har inte syndat.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

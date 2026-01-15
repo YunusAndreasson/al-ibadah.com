@@ -1,12 +1,12 @@
 ---
 title: Qadyanis [Ahmadiyah] – en varning
-author: '''Abdullāh bin Humaid, Ibn ''Abdullah Ibn Bāz och Muhammad bin Sālih al-''Uthaymīn'
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: 'ʿAbdullāh bin Humaid, Ibn ʿAbdullah Ibn Bāz och Muhammad bin Sālih al-ʿUthaymīn'
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. x s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
-- Sekter, rörelser och den rätta vägen - ahlus-sunnah
+- Troslära (ʿAqīdah)
+- Sekter, rörelser och den rätta vägen – ahlus-sunnah
 original_id: 142
 description: 'Fråga: Vad finns det att säga om denna sekt? Svar: All lovprisan
  tillhör Allāh och må Hans frid och välsignelser vara över Hans profet, hans familj
@@ -17,7 +17,7 @@ description: 'Fråga: Vad finns det att säga om denna sekt? Svar: All lovprisan
 
 **Svar:** All lovprisan tillhör Allāh och må Hans frid och välsignelser vara över Hans profet, hans familj samt följeslagare och de som följer hans vägledning.
 
-Kommittén för forskning i fiqh[^1] har undersökt frågan om Qadyani som först dök upp i Indien under det sista århundradet [enligt kristen tideräkning] och som även är känd under namnet Ahmadiyah. *Fiqh*-akademin har studerat deras trosprinciper som sektens grundare Mirza Ghulam Ahmad [f. 1876 e.Kr] propagerade. Han påstod att han hade fått ta emot en uppenbarelse, att han var den utlovade Messias och att vår profet, Muhammad bin 'Abdullāh, inte var den siste profeten. Han påstod att han var gudomligt inspirerad, att mer än 10 000 verser hade uppenbarats till honom, att den som inte tror på honom är en icke-troende och att muslimerna är skyldiga att valfärda till Qadyan [då han påstod att det var en helig stad likt Mecka och att det är staden som kallas för al-Masjid al-Aqsa]. Detta finns förklarat i hans bok som har publicerats under namnet Barahīn Ahmadiyah samt i en avhandling som har publicerats under namnet at-Tablīgh.
+Kommittén för forskning i fiqh[^1] har undersökt frågan om Qadyani som först dök upp i Indien under det sista århundradet [enligt kristen tideräkning] och som även är känd under namnet Ahmadiyah. *Fiqh*-akademin har studerat deras trosprinciper som sektens grundare Mirza Ghulam Ahmad [f. 1876 e.Kr] propagerade. Han påstod att han hade fått ta emot en uppenbarelse, att han var den utlovade Messias och att vår profet, Muhammad bin ʿAbdullāh, inte var den siste profeten. Han påstod att han var gudomligt inspirerad, att mer än 10 000 verser hade uppenbarats till honom, att den som inte tror på honom är en icke-troende och att muslimerna är skyldiga att valfärda till Qadyan [då han påstod att det var en helig stad likt Mecka och att det är staden som kallas för al-Masjid al-Aqsa]. Detta finns förklarat i hans bok som har publicerats under namnet Barahīn Ahmadiyah samt i en avhandling som har publicerats under namnet at-Tablīgh.
 
 Den akademiska kommittén har även undersökt uttalanden från Mirza Bashir ad-Dīn, son till Ghulam Ahmad al-Qadyani och hans efterträdare. Ett uttalande hämtas från boken *Aynat Sadaqat*: ”Den muslim som inte svär en trohetsed till den utlovade Messias [hans fader, Mirza Ghulam Ahmad], oavsett om denne hört hans namn eller inte, är en icke-troende som står utanför islam.” [Sida 35]
 
@@ -45,5 +45,5 @@ Och framgång kommer från Allāh.
 
 
 [^1]: Rättslära.
-[^2]: Kämpa för Allahs sak.
+[^2]: Kämpa för Allāhs sak.
 

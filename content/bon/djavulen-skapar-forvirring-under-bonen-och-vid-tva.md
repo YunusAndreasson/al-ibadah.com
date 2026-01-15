@@ -1,6 +1,6 @@
 ---
 title: Djävulen skapar förvirring under bönen och vid tvagning
-author: Ibn 'Abdullah Ibn Baz
+author: Ibn ʿAbdullah Ibn Baz
 source: 'Fatāwa al-Marah Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn:
  Proprius. ISBN 91-7118-887-8'
 categories:
@@ -15,7 +15,7 @@ description: 'Fråga: Jag blir ofta förvirrad över hur många bönecykler jag 
 
 **Svar:** Du måste kämpa mot djävulens viskningar och vara mycket försiktig med dem. Du måste – än mer – söka din tillflykt hos Allāh ifrån djävulen. Allāh har sagt:
 
-> ”Säg: 'Jag söker skydd hos människornas Herre, människornas Konung, människornas Gud, mot den onda som den förrädiske frestaren viskar i människors hjärtan, [viskar] genom [onda] osynliga väsen och [deras likar bland] människorna.” [Koranen 114:1-6]
+> ”Säg: 'Jag söker skydd hos människornas Herre, människornas Konung, människornas Gud, mot den onda som den förrädiske frestaren viskar i människors hjärtan, [viskar] genom [onda] osynliga väsen och [deras likar bland] människorna.” [Koranen 114:1–6]
 
 Allāh säger också:
 
@@ -27,7 +27,7 @@ Vi söker tillflykt hos Allāh från oss själva och djävulen.
 
 
 [^1]: Rakah.
-[^2]: Sujud, nedfallandet när pannan läggs mot marken.
+[^2]: sujūd, nedfallandet när pannan läggs mot marken.
 [^3]: Du´ā
 [^4]: Wudû´
 

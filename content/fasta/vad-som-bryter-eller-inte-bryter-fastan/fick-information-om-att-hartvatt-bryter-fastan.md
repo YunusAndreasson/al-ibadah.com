@@ -1,7 +1,7 @@
 ---
 title: Fick information om att hårtvätt bryter fastan
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: Fatāwa Ramadan - Volym 2, sida 544, fatwa 525
+source: Fatāwa Ramadan – Volym 2, sida 544, fatwa 525
 categories:
 - Fasta (Sawm)
 - Vad som bryter eller inte bryter fastan

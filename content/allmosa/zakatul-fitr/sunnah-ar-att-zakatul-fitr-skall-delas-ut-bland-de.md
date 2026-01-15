@@ -1,7 +1,7 @@
 ---
 title: Sunnah är att zakātul-fitr ska delas ut bland de fattiga i landet
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 209 s. ISBN saknas'
 categories:
 - Allmosa (Zakāh)
@@ -18,6 +18,6 @@ description: 'Fråga: När det gäller den mat som man lämnar vid zakātul-fitr
 
 
 [^1]: Allmosa som ges före eid-bönen.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

@@ -1,10 +1,10 @@
 ---
 title: Inkluderandet av sändebudets och hans två följeslagares gravar i hans Moské
-author: Ibn 'Abdullah Ibn Bāz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ʿAbdullah Ibn Bāz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. X s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Gravdyrkan
 original_id: 46
 description: 'Fråga: Det är välkänt att det inte är tillåtet att begrava i moskér
@@ -39,7 +39,7 @@ Därmed bör inte detta användas som bevis eller argument för att tillåta byg
 Det är Allāh som ger framgång.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
-[^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
-[^3]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
+[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

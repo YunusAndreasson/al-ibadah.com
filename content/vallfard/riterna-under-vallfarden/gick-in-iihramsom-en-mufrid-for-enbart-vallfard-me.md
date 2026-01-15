@@ -1,8 +1,8 @@
 ---
 title: Gick in i ihrāmsom en mufrid [för enbart vallfärd] med en grupp, sedan begav
  de sig till Medina
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 100 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -25,5 +25,5 @@ description: 'Fråga: Jag kom för att vallfärda tillsammans med en grupp och j
 [^5]: Vandringen mellan as-Safa och al-Marwa.
 [^6]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 [^7]: Någon som både gör `umrah och vallfärdar.
-[^8]: När man först gör ´umrah och lämnar ihram för att därpå träda in i ihram för vallfärden.
+[^8]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
 

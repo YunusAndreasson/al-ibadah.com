@@ -1,10 +1,10 @@
 ---
 title: Beskriva en avliden som ”den förlåtne”
-author: Ibn 'Abdullah Ibn Bāz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ʿAbdullah Ibn Bāz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 207 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Blandade utlåtanden
 original_id: 94
 description: 'Fråga: Är det tillåtet att beskriva någon som ”den förlåtne” eller
@@ -19,6 +19,6 @@ description: 'Fråga: Är det tillåtet att beskriva någon som ”den förlåtn
 Jag ber Allāh – den Mest Prisade – att Han vägleder oss alla till den Raka Vägen. Må frid och välsignelser vara över vår profet Muhammad, över hela hans familj och hans följeslagare.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Du´ā
 

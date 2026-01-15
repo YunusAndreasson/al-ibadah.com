@@ -1,10 +1,10 @@
 ---
 title: ”Olika åsikter i min nation är en nåd”
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Förståelse av islam
 original_id: 1681
 description: 'Fråga: Är denna hadīth autentisk: ”Olika åsikter i min nation är
@@ -17,6 +17,6 @@ description: 'Fråga: Är denna hadīth autentisk: ”Olika åsikter i min natio
 **Svar:** Nej, den är inte autentisk. Den har avvisats av vissa *salaf[^2]* och faktum är att det inte ens är en *hadīth[^1]*.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: De tre första generationerna i islam.
 

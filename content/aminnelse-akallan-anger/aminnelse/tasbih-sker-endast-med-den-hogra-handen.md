@@ -1,7 +1,7 @@
 ---
 title: Tasbih sker endast med den högra handen
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 264 s. ISBN saknas'
 categories:
 - Åminnelse, åkallan, ånger...
@@ -19,7 +19,7 @@ description: 'Fråga: En ung man ledde oss i bön och efter bönen började han 
 Och Allāh är Beviljaren av framgång.
 
 
-[^1]: Att upphöja Allah, Subhan Allah.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Att upphöja Allāh, Subhan Allāh.
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

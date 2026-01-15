@@ -1,6 +1,6 @@
 ---
 title: Minimal och maximal längd för månadsblödningen
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 366 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
@@ -22,5 +22,5 @@ description: 'Fråga: Finns det en minimal eller maximal längd i dagar räknat 
 Allāh har inte angivit ett visst antal dagar för att undvika dem utan i stället har Han har gjort tiden för då de blir rena till gränsen för hur länge de ska undvikas. Detta bevisar att bedömningsgrunden för utlåtandet är om det finns en månadsblödning eller ej. När det finns menstruationsblod bekräftats utlåtandet [för månadsblödning] och när hon blir ren gäller det inte längre. Det finns heller inte några bevis för någon begränsning, trots att det finns ett behov av att på något sätt veta. Hade då begränsningar genom tid bekräftats, då hade den grundats på Allāh skrift och profetens – över honom vare Allāhs frid och välsignelser – sunnah[^1]. Därför är allt blod som en kvinna anser vara menstruationsblod just det, utan att mätas enligt en viss angiven tidsperiod. Detta gäller inte om månadsblödningen fortsätter eller om den upphör under en kort tid, som en eller två dagar i månaden. I detta fall är det en vaginal blödning.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

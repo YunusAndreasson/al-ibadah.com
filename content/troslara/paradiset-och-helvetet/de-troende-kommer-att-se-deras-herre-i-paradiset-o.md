@@ -1,11 +1,11 @@
 ---
 title: De troende kommer att se deras Herre i Paradiset, om Han tillåter
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 156 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Paradiset och Helvetet
 original_id: 76
 description: 'Fråga: I en hadīth från profeten – över honom vare Allāhs frid och
@@ -27,7 +27,7 @@ Några av dem som har återberättat *ahādīth[^1]* säger att Allāh den Härl
 
 Flera hadither har återberättats som bekräftar att de troende kommer att se deras Herre i Paradiset. Dessutom bekräftar Koranen det när Allāh säger:
 
-> ”Den Dagen ska [någras] ansikten lysas upp av glädje – de får skåda sin Herre – medan mörka skuggor kommer att skymma [andras] ansikten – de grubblar över det lidande som väntar dem.” [Koranen 75:22-23]
+> ”Den Dagen ska [någras] ansikten lysas upp av glädje – de får skåda sin Herre – medan mörka skuggor kommer att skymma [andras] ansikten – de grubblar över det lidande som väntar dem.” [Koranen 75:22–23]
 
 Och när Han säger:
 
@@ -42,7 +42,7 @@ Autentiska *hadīth[^1]* har rapporterats om nedstigandet, som när profeten –
 Detta nedstigande hör dock till det som är dolt för människor[^3]; vi accepterar det, men vi försöker inte förklara hur det går till. Vi drar endast nytta av frikostigheten under den sista delen av natten och förtjänsten i bönen, åkallan[^2] av Allāh och sökandet av förlåtelse.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Du´ā
 [^3]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 

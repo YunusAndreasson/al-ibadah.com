@@ -1,7 +1,7 @@
 ---
 title: Dra ut en tand under fastan
-author: Muhammad bin Sālih al-'Uthaymīn
-source: Fatāwa Ramadan - volym 2, sida 479, fatwa 420
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: Fatāwa Ramadan – volym 2, sida 479, fatwa 420
 categories:
 - Fasta (Sawm)
 - Vad som bryter eller inte bryter fastan

@@ -1,10 +1,10 @@
 ---
 title: Recitation av Koranen genom högtalare före fredagsbönen
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 465 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Innovationer
 original_id: 363
 description: 'Fråga: I vissa moskér i många delar av den muslimska världen reciteras
@@ -19,6 +19,6 @@ description: 'Fråga: I vissa moskér i många delar av den muslimska världen r
 Allāh den Upphöjde vet bäst. Må frid och välsignelser vara över profeten Muhammad, hans familj och följeslagare.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: De tre första generationerna i islam.
 

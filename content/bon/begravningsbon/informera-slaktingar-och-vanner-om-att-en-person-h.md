@@ -3,7 +3,7 @@ title: Informera släktingar och vänner om att en person har avlidit för att d
  få samlas och be över honom
 author: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 572 s. ISBN 9960-892-66-2'
-source: Muhammad bin Salih al-'Uthaymin
+source: Muhammad bin Salih al-ʿUthaymin
 categories:
 - Bön (Salāh)
 - Begravningsbön
@@ -22,5 +22,5 @@ Profeten – över honom vare Allāhs frid och välsignelser – sade om kvinnan
 Det finns då ingen invändan mot att informera folket om någons bortgång för att många ska be över denne. Detta är enligt vad som har rapporterats i profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*. Det finns heller ingen synd i att informera familjen och vännerna som skulle vilja samlas för att be över denne.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

@@ -1,6 +1,6 @@
 ---
 title: Takbīr två gånger om man börjar be med imamen när han bugar
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 463 s. ISBN 9960-892-66-2'
 categories:
@@ -28,7 +28,7 @@ Det finns ännu en fråga som jag skulle vilja diskutera här. Många som går i
 
 
 [^1]: Att säga Allahu Akbar.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Rakah.
 [^4]: Den avslutande hälsningen i bönen.
 

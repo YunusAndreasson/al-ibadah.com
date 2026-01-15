@@ -1,6 +1,6 @@
 ---
 title: Kläder som hänger nedanför anklarna och olika kategorier beträffande detta
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 111 s. ISBN 9960-892-66-2'
 categories:
@@ -30,7 +30,7 @@ Om den som inte avser att visa stolthet och högmod återges i *Sahīh al-Bukhā
 
 > ”Det som hänger nedanför vristen av izār kommer att vara i Elden.” [*al-Bukhārī*]
 
-Han sammankopplade det inte med stolthet och högmod. Enligt den *hadīth[^1]* som har nämnts tidigare är det heller inte rätt att sammankoppla dem. Detta beror på att Abū Sa'id al-Khudri har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
+Han sammankopplade det inte med stolthet och högmod. Enligt den *hadīth[^1]* som har nämnts tidigare är det heller inte rätt att sammankoppla dem. Detta beror på att Abū Saʿīd al-Khudri har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Den troendes *izār* är mitten av dennes smalben och där finns ingen synd [eller sade han: det finns ingen synd för denne] om den faller någonstans däremellan och ankeln. Och det som faller nedanför är i Elden. På Återuppståndelsens dag kommer Allāh inte att titta på den som med stolthet drar sin *izār* på marken.” [*Ahmad* 3:5, *Abū Dawūd* 4093 och *Ibn Mājah* 3573]
 
@@ -46,6 +46,6 @@ Om den som citerar hadithen från Abū Bakr – må Allāh vara nöjd med honom 
 Allāh vägleder den Han vill till den raka vägen. Vi ber Allāh att Han vägleder och förlåter oss alla.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

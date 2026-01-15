@@ -1,10 +1,10 @@
 ---
 title: Längden på Räkenskapens Dag
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Majmū’ Fatāwa Ibn ‘Uthaymīn, 2/40 Muhammed Knut Bernström (1421), Koranens
  budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Domedagen och tecknen inför den
 original_id: 526
 description: 'Fråga: Är Räkenskapens Dag en dag? Svar: Räkenskapens Dag är en
@@ -16,7 +16,7 @@ description: 'Fråga: Är Räkenskapens Dag en dag? Svar: Räkenskapens Dag är 
 
 **Svar:** Räkenskapens Dag är en dag men det är en dag vars längd är som 50 000 år. Allāh säger i Koranen:
 
-> ”En man frågade om ett straff som väntar dem som förnekar sanningen och som ingen kan avvärja, [ett straff] från Gud till vilken många vägar leder upp. Till Honom stiger änglarna och den heliga ingivelsens ande upp under en dag vars längd är femtiotusen år.” [Koranen 70:1-4]
+> ”En man frågade om ett straff som väntar dem som förnekar sanningen och som ingen kan avvärja, [ett straff] från Gud till vilken många vägar leder upp. Till Honom stiger änglarna och den heliga ingivelsens ande upp under en dag vars längd är femtiotusen år.” [Koranen 70:1–4]
 
 Denna plåga kommer att drabba de icke-troende under en dag vars längd är lika lång som 50 000 år.
 
@@ -31,7 +31,7 @@ Denna långa dag kommer att vara svår för de icke-troende. Allāh säger:
 > 
 > 
 > 
-> ”När det blåses i basunen har en svår Dag randats för dem som [ständigt] förnekade sanningen, och ingen lättnad ska ges dem!” [Koranen 74:9-10]
+> ”När det blåses i basunen har en svår Dag randats för dem som [ständigt] förnekade sanningen, och ingen lättnad ska ges dem!” [Koranen 74:9–10]
 
 Det som kan förstås från dessa båda verser är att det kommer att bli lätt för den troende, och så är sannerligen fallet. Denna långa Dag med dess otrevligheter och allvarliga frågor kommer Allāh att göra lätt för den troende, men den kommer att vara svår för den icke-troende. Jag ber Allāh att han gör mig och mina muslimska bröder till dem som Han kommer att göra det lätt för på Återuppståndelsens Dag.
 
@@ -56,6 +56,6 @@ Att ge sig djupt in i dessa frågor är en innovation. profetens – över honom
 Sammanfattning: Den Yttersta Dagen är en dag och den kommer att vara hård för de icke-troende men lätt för de troende. Det som har återberättats om den i fråga om olika sorters belöningar och bestraffningar, det är frågor som inte fullt ut kan förstås i denna värld, även om vi här kan förstå den grundläggande innebörden.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 

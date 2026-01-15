@@ -1,10 +1,10 @@
 ---
 title: Behålla bilder för att minnas någon
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Blandade utlåtanden
 original_id: 1649
 description: 'Fråga: Kan en person ta sin egen bild och sedan sända den till sin
@@ -21,5 +21,5 @@ Av denna anledning får en muslim inte fotografera sig själv eller någon annan
 Vi ber Allāh den Allsmäktige att ställa muslimernas förehavanden till rätta och att Han vägleder våra ledare till att hålla sig till Hans lag och inte till vad som går emot den. Han är sannerligen den bäste att fråga.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

@@ -1,6 +1,6 @@
 ---
 title: Ta igen sunnah-böner om tiden för dem har gått ut
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 518 s. ISBN 9960-892-66-2'
 categories:
@@ -23,8 +23,8 @@ Det finns också en *hadīth[^2]* från Umm Salmah i vilken hon berättar att pr
 Men om man avsiktligen övergav dem tills tiden gick ut, då bör man inte ta igen dem därför att *sunnah[^1]*-bönerna är dyrkan som utförs vid angivna tider. Om man avsiktligen utför dem utanför den föreskrivna tiden, då kommer de inte att accepteras.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Rakah.
 [^4]: Dhuhr
 [^5]: Asr

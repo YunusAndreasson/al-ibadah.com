@@ -1,10 +1,10 @@
 ---
 title: Anledning till att vi dyrkar Allāh
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 205 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Tawhīd [Monoteism]
 original_id: 93
 description: 'Fråga: Varför dyrkar vi Allāh? Svar: I vissa ahādīth rapporteras
@@ -25,5 +25,5 @@ För att sammanfatta så hade alla rätt men den som dyrkar Allāh för att han 
 Och Allāh vet bäst.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

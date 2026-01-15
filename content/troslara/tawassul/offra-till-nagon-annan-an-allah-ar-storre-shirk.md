@@ -1,11 +1,11 @@
 ---
 title: Offra till någon annan än Allāh är större shirk
-author: Ibn 'Abdullah Ibn Bāz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ʿAbdullah Ibn Bāz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 40 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Tawassul [Medel för att åkalla Allāh]
 original_id: 34
 description: 'Fråga: Att söka Allāhs närhet genom att slakta får vid de rättfärdigas
@@ -17,11 +17,11 @@ description: 'Fråga: Att söka Allāhs närhet genom att slakta får vid de rä
 
 **Svar:** Från bevisen i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]* är det känt att det är *shirk[^1]* att söka närhet genom att slakta för någon annan än Allāh som fromma människor, *jinn[^4]*, avgudar eller något annat skapat. Detta gjorde hedningarna före islam. Allāh den Upphöjde säger:
 
-> ”Säg: 'Min bön och all min andakt, mitt liv och min död tillhör Gud, världarnas Herre. Han som inte har någon vid Sin sida; till detta har jag kallats och jag är den förste av dem som har underkastat sig Guds vilja.” [Koranen 6:162-163]
+> ”Säg: 'Min bön och all min andakt, mitt liv och min död tillhör Gud, världarnas Herre. Han som inte har någon vid Sin sida; till detta har jag kallats och jag är den förste av dem som har underkastat sig Guds vilja.” [Koranen 6:162–163]
 
 Allāh den Upphöjde klargör i denna vers att offer till någon annan än Honom är shirk[^1], precis som det är att förrätta bönen för någon annan Honom. Allāh den Upphöjde säger:
 
-> ”Vi har sannerligen gett dig det goda i överflöd! Be därför till din Herre och förrätta [ditt] offer!” [Koranen 108:1-2]
+> ”Vi har sannerligen gett dig det goda i överflöd! Be därför till din Herre och förrätta [ditt] offer!” [Koranen 108:1–2]
 
 I denna sura lär Allāh – upphöjd är Han – Sin Profet att [han ska] be och offra till Honom. Detta står i motsats till de som begått shirk[^1], som ber och slaktar för andra än Allāh. Allāh den Upphöjde säger:
 
@@ -34,7 +34,7 @@ I denna sura lär Allāh – upphöjd är Han – Sin Profet att [han ska] be oc
 
 Det finns många verser som förmedlar denna mening.
 
-Då offer är en dyrkan så måste den uppriktigt tillägnas Allāh. Imam Muslim återberättar i sin Sahīh att de troendes befälhavare, 'Ali, har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Allāh förbannar den som offrar till andra än Honom*.” [*Muslim* 1978]
+Då offer är en dyrkan så måste den uppriktigt tillägnas Allāh. Imam Muslim återberättar i sin Sahīh att de troendes befälhavare, ʿAlī, har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Allāh förbannar den som offrar till andra än Honom*.” [*Muslim* 1978]
 
 När det gäller dem som säger: ”*Jag besvärjer Allāh vid Hans älskade troendes rätt, vid Hans älskade troendes heder, vid profetens – över honom vare Allāhs frid och välsignelser – rätt eller vid hans heder*.” Sådana besvärjelser är inte shirk[^1], men enligt de lärde är det en innovation. De anser också att detta är medel för, därför att en åkallan[^2] är en dyrkan och sättet det bör göras på är inte något som det går att ja olika åsikter om. Det finns inga bevis från profeten – över honom vare Allāhs frid och välsignelser – för att han har tillåtit besvärjelser vid någon människas rätt eller heder.
 
@@ -55,9 +55,9 @@ Tillåten *tawassul[^5]* är att åkalla Allāh genom Hans namn och egenskaper. 
 Det är Allāh som ger framgång.
 
 
-[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
+[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^2]: Du´ā
-[^3]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^4]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
-[^5]: Medel för att tillbe Allah.
+[^5]: Medel för att tillbe Allāh.
 

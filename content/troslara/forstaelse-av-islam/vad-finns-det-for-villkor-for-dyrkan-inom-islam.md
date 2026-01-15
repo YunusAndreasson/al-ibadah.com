@@ -1,10 +1,10 @@
 ---
 title: Vad finns det för villkor för dyrkan inom islam?
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius.
  ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Förståelse av islam
 original_id: 514
 description: 'Fråga: Vad finns det för villkor för dyrkan inom islam? Svar: För
@@ -57,7 +57,7 @@ Med dessa sex anledningar som grund är en dyrkan inte giltig om den inte fören
 
 
 [^1]: Den sjunde månaden i det islamiska året.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^3]: Rakah.
 [^4]: Dhuhr
 [^5]: Wudû´

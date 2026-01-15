@@ -1,11 +1,11 @@
 ---
 title: Olika former av tro
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muhammad ibn Sālih al-‘Uthaymīn,
  volym. 1, sida 54 Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn:
  Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Blandade utlåtanden
 original_id: 486
 description: 'Fråga: Hur ska vi förlika oss med att īmān består av tron på: Allāh,
@@ -30,5 +30,5 @@ Den tro som inkluderar goda handlingar är av olika slag och består av 70 nivå
 > ”*Er tro*” avser era böner mot Bayt al-Maqdis [Jerusalem]. Profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – brukade be mot Klippmoskén innan de kommenderades att vända sig mot Ka’bah i deras böner.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

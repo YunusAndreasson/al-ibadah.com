@@ -1,6 +1,6 @@
 ---
 title: Läsa en sura efter al-Fātiah i den tredje och fjärde bönecykeln
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: Fatāwa Manār al-Islaām – volym 1, sida 166, fråga 136
 categories:
 - Bön (Salāh)

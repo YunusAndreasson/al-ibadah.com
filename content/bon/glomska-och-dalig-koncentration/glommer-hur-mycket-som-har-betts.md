@@ -1,7 +1,7 @@
 ---
 title: Glömmer hur mycket som har betts
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 280 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -18,5 +18,5 @@ description: 'Fråga: Jag ber alltid men hela tiden glömmer jag och tvekar öve
 
 
 [^1]: Rakah.
-[^2]: Sujud as-sahw.
+[^2]: sujūd as-sahw.
 

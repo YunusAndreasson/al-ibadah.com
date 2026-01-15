@@ -1,7 +1,7 @@
 ---
 title: Moskébesök efter att ha ätit lök eller vitlök
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 338 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -19,5 +19,5 @@ description: 'Fråga: Det finns en hadīth från Allāhs sändebud – över hon
 Det finns ingen grund för en gräns på tre dagar.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

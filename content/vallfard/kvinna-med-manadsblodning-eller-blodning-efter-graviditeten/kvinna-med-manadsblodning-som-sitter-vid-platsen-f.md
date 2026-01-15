@@ -1,7 +1,7 @@
 ---
 title: Kvinna med månadsblödning som sitter vid platsen för sa’ī
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 162 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)

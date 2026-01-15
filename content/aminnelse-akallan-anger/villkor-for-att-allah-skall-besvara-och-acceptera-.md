@@ -27,5 +27,5 @@ description: 'Fråga: Vad finns det för villkor för att Allāh ska besvara och
 
 
 [^1]: Du´ā
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

@@ -1,7 +1,7 @@
 ---
 title: Sova under fastedagen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: Fatāwa Ramadan - Volym 2, sida 522, fatwa 488
+source: Fatāwa Ramadan – Volym 2, sida 522, fatwa 488
 categories:
 - Fasta (Sawm)
 - Vad som bryter eller inte bryter fastan

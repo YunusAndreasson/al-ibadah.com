@@ -1,6 +1,6 @@
 ---
 title: Bygga en moské för allmosa
-author: Ibn 'Abdullah Ibn Baz
+author: Ibn ʿAbdullah Ibn Baz
 source: Fatāwa al-Mara Majmū' Fatāwā wa Maqālāt Mutanawwi'ah – volym 14, sida 294.
 categories:
 - Allmosa (Zakāh)
@@ -31,5 +31,5 @@ Detta är vad som är känt bland de lärde, och byggandet av en moské är inte
 Och Allāh är Den som ger framgång.
 
 
-[^1]: Kämpa för Allahs sak.
+[^1]: Kämpa för Allāhs sak.
 

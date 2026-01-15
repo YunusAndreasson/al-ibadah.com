@@ -1,10 +1,10 @@
 ---
 title: Inverkan från jinn på människor och att söka skydd från dem
-author: Muhammad bin Salih al-'Uthaymin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muhammad bin Salih al-ʿUthaymin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Jinn, magi och det onda ögat
 original_id: 1654
 description: 'Fråga: Kan jinn skada en människa? Hur kan vi skydda oss mot dem? Svar: Utan
@@ -26,7 +26,7 @@ Och Allāh den Allsmäktige är den som skyddar oss.
 
 
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Du´ā
-[^4]: Allahs fotpall.
+[^4]: Allāhs fotpall.
 

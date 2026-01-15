@@ -1,6 +1,6 @@
 ---
 title: Raka mustaschen
-author: Ibn 'Abdullah Ibn Baz
+author: Ibn ʿAbdullah Ibn Baz
 source: Fatāwa al-Lajnah ad-Dā'imah lil-Buhūth al-Ilmiyyah wal-Iftā – fatwā 7293
 categories:
 - Åminnelse, åkallan, ånger...
@@ -20,6 +20,6 @@ Om han har rakat av den, är det ingen synd i det. När det gäller skägget är
 Och med Allāh finns all framgång och må Allāh sända böner och välsignelser över vår profet, hans familj och följeslagare.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

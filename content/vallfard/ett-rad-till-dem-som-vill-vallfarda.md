@@ -1,7 +1,7 @@
 ---
 title: Ett råd till dem som vill vallfärda
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 21 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -16,7 +16,7 @@ description: 'Fråga: All lovprisan tillhör Allāh ensam och må böner med vä
 
 **Svar:** Ni muslimer som kommit till det heliga Huset för att vallfärda, jag ber Allāh om att vi ska få framgång med att göra det som gör Honom nöjd och jag ber om säkerhet från villfarelsen i onda ingivelser. Likaså ber jag Honom om att ni ska få framgång med era vallfärdsriter på ett sätt som gör Honom nöjd, att Han accepterar det och att hemresan till era länder ska vara framgångsrik. Sannerligen är Han den Bäste att be om hjälp.
 
-Muslimer! Sannerligen är mitt råd till er att ni alltid fruktar Allāh, att ni står stadiga i Hans religion och att ni aktar er för det som orsakar Hans vrede. Sannerligen, den viktigaste av de obligatoriska handlingarna och den största skyldigheten Allāhs enhet och att enbart och uppriktigt inte dyrka någon annan än Honom. Detta går hand i hand med att vara noggrann med att följa Hans sändebud i ord och handling. Sannerligen bör vallfärdsriterna – och alla annan dyrkan – utföras på det sätt som Allāh har föreskrivit för tjänarna genom orden från Hans sändebud, vän och utvalde från Hans skapelse, vår profet, imam och ledare – Muhammad bin 'Abdullāh.
+Muslimer! Sannerligen är mitt råd till er att ni alltid fruktar Allāh, att ni står stadiga i Hans religion och att ni aktar er för det som orsakar Hans vrede. Sannerligen, den viktigaste av de obligatoriska handlingarna och den största skyldigheten Allāhs enhet och att enbart och uppriktigt inte dyrka någon annan än Honom. Detta går hand i hand med att vara noggrann med att följa Hans sändebud i ord och handling. Sannerligen bör vallfärdsriterna – och alla annan dyrkan – utföras på det sätt som Allāh har föreskrivit för tjänarna genom orden från Hans sändebud, vän och utvalde från Hans skapelse, vår profet, imam och ledare – Muhammad bin ʿAbdullāh.
 
 Sannerligen är den ondaste av alla handlingar och det farligaste av alla brott att sätta medhjälpare vid Allāhs sida. Detta sker genom att man helt eller delvis dyrkar någon annan än Allāh. Anledningen är att Allāh har sagt:
 
@@ -44,7 +44,7 @@ Och Han har sagt:
 > 
 > 
 > 
-> ”Dessa är de gränser som Gud [har fastställt]. Gud ska föra den som lyder Honom och Hans sändebud till lustgårdar, vattnade av bäckar, där han ska förbli till evig tid. Detta är den stora, den lysande segern. Men den som trotsar Gud och Hans Sändebud och överträder de gränser Han [har fastställt] ska föras till Elden och förbli där till evig tid – ett förnedrande straff väntar honom.” [Koranen 4:13-14] Och Han har sagt: ”Säg: ’Människor! Jag är Guds Sändebud, [utsänd] till er alla av Honom som äger herraväldet över himlarna och jorden! Det finns ingen gud utom Han – Han som skänker liv och skänker död. Tro därför på Gud och Hans Sändebud, den olärde Profeten, som tror på Gud och Hans ord, och följ honom så att ni får vägledning.” [Koranen 7:158]
+> ”Dessa är de gränser som Gud [har fastställt]. Gud ska föra den som lyder Honom och Hans sändebud till lustgårdar, vattnade av bäckar, där han ska förbli till evig tid. Detta är den stora, den lysande segern. Men den som trotsar Gud och Hans Sändebud och överträder de gränser Han [har fastställt] ska föras till Elden och förbli där till evig tid – ett förnedrande straff väntar honom.” [Koranen 4:13–14] Och Han har sagt: ”Säg: ’Människor! Jag är Guds Sändebud, [utsänd] till er alla av Honom som äger herraväldet över himlarna och jorden! Det finns ingen gud utom Han – Han som skänker liv och skänker död. Tro därför på Gud och Hans Sändebud, den olärde Profeten, som tror på Gud och Hans ord, och följ honom så att ni får vägledning.” [Koranen 7:158]
 > 
 > 
 > 
@@ -83,7 +83,7 @@ Detta bevisar att hela Muzdalifah[^19] är en plats att stå på för en pilgrim
 
 Profeten – över honom vare Allāhs frid och välsignelser – tillät de svaga att ge sig av under natten i Muzdalifah[^19] tillbaka till Mina. Detta bevisar att det inte finns någon synd för svaga kvinnor, sjuka, äldre och de som behöver slå följe med dem när de lämnar Muzdalifah[^19] för att bege sig tillbaka till Mina under den sista delen av natten. Detta är att handla enligt medgivandet och att undvika svårigheter med trängsel. De får även kasta deras småstenar på stenpelaren under natten, vilket har bekräftats från Umm Salamah och Asma' bint Abū Bakr. Asma' bint Abū Bakr berättade att profeten – över honom vare Allāhs frid och välsignelser – tillät detta för kvinnor.
 
-Därefter, när det var tillräckligt ljust, rörde han sig mot Mina och Jamratul-'Aqabah [den största stenpelaren] medan han läste *talbiyyah[^2]*. Han kastade sju stenar på den samtidigt som han förkunnade Allāhs storhet [säga 'Allāhu akbar'] tillsammans med varje sten. Sedan offrade han sitt djur, rakade huvudet och ‘A’ishah – må Allāh vara nöjd med henne – gav honom parfym. Därpå begav han sig mot Huset [Ka’bah] och gjorde *tawāf[^4]* runt det.
+Därefter, när det var tillräckligt ljust, rörde han sig mot Mina och Jamratul-ʿAqabah [den största stenpelaren] medan han läste *talbiyyah[^2]*. Han kastade sju stenar på den samtidigt som han förkunnade Allāhs storhet [säga 'Allāhu akbar'] tillsammans med varje sten. Sedan offrade han sitt djur, rakade huvudet och ‘A’ishah – må Allāh vara nöjd med henne – gav honom parfym. Därpå begav han sig mot Huset [Ka’bah] och gjorde *tawāf[^4]* runt det.
 
 Profeten – över honom vare Allāhs frid och välsignelser – tillfrågades under offerdagen [den tionde *dhul-hijjah[^1]*] om den som slaktade före denne hade kastat sten på pelaren, om den som rakar huvudet före slakten och om den som gör *tawāf[^4]* runt Huset innan steningen. Han svarade då [om dem alla]: ”*Inga problem*.” Återberättaren av denna *hadīth[^20]* har sagt att han inte tillfrågades om att något annat görs denna dag, tidigt eller sent, utan att han sade: ”*Gör det och det finns inget skadligt [i det]*.”
 
@@ -114,7 +114,7 @@ Må Allāh sända välsignelser och frid över vår profet Muhammad, hans familj
 [^2]: Säga Labbayk Allahumma Labbayk under vallfärden.
 [^3]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^4]: Den sju långa rundar vandringen runt Kabah.
-[^5]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^5]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^6]: Den lilla vallfärden.
 [^7]: Platsen där pilgrimmen träder in i ihraam.
 [^8]: Dhuhr
@@ -124,14 +124,14 @@ Må Allāh sända välsignelser och frid över vår profet Muhammad, hans familj
 [^12]: Fajr
 [^13]: Rakah.
 [^14]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
-[^15]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
+[^15]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 [^16]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 [^17]: Du´ā
 [^18]: Dhikr
 [^19]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
-[^20]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^20]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^21]: Vandringen mellan as-Safa och al-Marwa.
-[^22]: När man först gör ´umrah och lämnar ihram för att därpå träda in i ihram för vallfärden.
+[^22]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
 [^23]: Utför vallfärden och ´umrah samtidigt med en intention.
 [^24]: Rundvandringen runt Kabah före avfärden från Mecka.
 

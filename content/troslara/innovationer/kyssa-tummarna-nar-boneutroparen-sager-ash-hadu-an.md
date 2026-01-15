@@ -3,7 +3,7 @@ title: 'Kyssa tummarna när böneutroparen säger: ”Ash-hadu anna Muhammadar-R
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: al-Bid'u wal-Muhdathāt wa mā lā asla lahu, sida 191
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Innovationer
 original_id: 557
 description: 'Fråga: Finns det någon grund för att kyssa tummarna då böneutroparen

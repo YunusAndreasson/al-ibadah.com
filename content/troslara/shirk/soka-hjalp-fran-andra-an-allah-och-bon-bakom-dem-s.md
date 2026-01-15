@@ -1,10 +1,10 @@
 ---
 title: Söka hjälp från andra än Allāh och bön bakom dem som gör det
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 163 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Shirk [Att sätta något vid Allāhs sida]
 original_id: 79
 description: 'Fråga: Det finns en man som bor i ett samhälle där folket söker hjälp
@@ -27,7 +27,7 @@ Har han inte möjlighet att göra så bör han hålla sig isolerad från dessa [
 Må Allāhs frid och välsignelser vara över vår profet Muhammad, hans familj och följeslagare.
 
 
-[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
+[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^2]: Mushrik.
-[^3]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

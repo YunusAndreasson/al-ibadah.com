@@ -1,7 +1,7 @@
 ---
 title: Ber ute på gatan på grund av trängsel i moskén
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 33 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -22,5 +22,5 @@ Må Allāhs sända frid och välsignelser över vår profet Muhammad.
 
 
 [^1]: Tahiyyatul-Msjid.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

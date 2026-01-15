@@ -1,6 +1,6 @@
 ---
 title: Omskärelse för män och kvinnor
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 315 s. ISBN 9960-892-66-2'
 categories:
@@ -32,6 +32,6 @@ Stöden från *ahādīth[^2]* och ett sunt förnuft bevisar att män måste omsk
 Gällande kvinnor är det tveksamt om det är en skyldighet för dem. Det som är mest uppenbart är att det är en skyldighet för män men inte för kvinnor. Det finns en svag *hadīth[^2]* som säger: ”*Omskärelse är en *sunnah[^1]* för män och ett tecken på respekt för kvinnor*.” [Imam Ahmad i *al-Musnad* 5:75] Vore denna *hadīth[^2]* ett bevis hade den enbart varit en förklaring.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

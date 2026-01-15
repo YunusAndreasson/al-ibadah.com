@@ -1,8 +1,8 @@
 ---
 title: Imamen tvekar över om han bett tre eller fyra bönecykler i en bön som är fyra
  bönecykler lång
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 268 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -31,5 +31,5 @@ Det har även rapporterats att han gjorde *taslīm[^2]* när han hade bett tre b
 [^3]: Vad man läser i den sittande positionen under bönen.
 [^4]: Dhuhr
 [^5]: Asr
-[^6]: Sujud, nedfallandet när pannan läggs mot marken.
+[^6]: sujūd, nedfallandet när pannan läggs mot marken.
 

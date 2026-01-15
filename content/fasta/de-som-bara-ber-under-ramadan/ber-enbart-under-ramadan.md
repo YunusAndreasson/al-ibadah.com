@@ -19,7 +19,7 @@ Och Allāh är källan till all styrka. Må Allāh sända välsignelser och frid
 
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
-[^2]: Kämpa för Allahs sak.
-[^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
-[^4]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^2]: Kämpa för Allāhs sak.
+[^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
+[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

@@ -1,6 +1,6 @@
 ---
 title: Villkor för att stryka över sockar
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: I’lām al-Musāfirīn bi Ba’d Ādāb wa Ahkām al-Safar wa mā yakhuss al-Mallāhīn
  al-Jawwiyyīn, s 44.
 categories:
@@ -26,7 +26,7 @@ Om vi antar att han strök sina strumpor innan kl. 5.00, då kan han be grynings
 Detta är villkoren för att stryka över lädersockar. Det finns andra villkor som vissa lärde har tagit upp, men dessa diskuteras fortfarande.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^3]: Fajr
 [^4]: Isha

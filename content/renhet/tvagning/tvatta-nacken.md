@@ -1,6 +1,6 @@
 ---
 title: Tvätta nacken
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: al-Bid'u wal-Muhdathāt wa mā lā Asla lahu – sida 637
 categories:
 - Renhet (Tahārah)

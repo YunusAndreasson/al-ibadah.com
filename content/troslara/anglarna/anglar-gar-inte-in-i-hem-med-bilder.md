@@ -1,10 +1,10 @@
 ---
 title: Änglar går inte in i hem med bilder
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 224 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Änglarna
 original_id: 104
 description: 'Fråga: Är det sant att änglar inte går in i ett rum som det finns bilder
@@ -21,5 +21,5 @@ Därmed kan vi dra slutsatsen att det som klippts upp, trampas eller sitts på �
 Detta beror antingen på att det i bilderna finns imitationer av Allāhs skapelse eller på rädslan för att dessa bilder, eller deras skapare, ska bli till objekt som vördas överdrivet mycket.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

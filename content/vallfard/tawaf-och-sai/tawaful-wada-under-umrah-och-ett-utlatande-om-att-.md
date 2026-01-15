@@ -1,7 +1,7 @@
 ---
 title: Tawāful-wadā under ‘umrah och ett utlåtande om att köpa något efter tawāful-wadā
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 197 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)

@@ -1,7 +1,7 @@
 ---
 title: Belöningen för den som vallfärdar för någon annan
-author: Muhammad bin Salih al-'Uthaymin
-source: Fatāwa Ibn 'Uthaymīn 21/34
+author: Muhammad bin Salih al-ʿUthaymin
+source: Fatāwa Ibn ʿUthaymīn 21/34
 categories:
 - Vallfärd (Hajj)
 - Vallfärda för någon annan

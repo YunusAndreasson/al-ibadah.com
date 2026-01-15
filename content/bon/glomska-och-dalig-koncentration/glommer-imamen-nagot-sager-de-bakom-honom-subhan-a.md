@@ -1,7 +1,7 @@
 ---
 title: Glömmer imamen något säger de bakom honom ”Subhan Allāh”
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 273 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -24,7 +24,7 @@ Detta är välkänt, vilket ”*al-Hamdu Lillāh*” inte är.
 [^1]: Asr
 [^2]: Vad man läser i den sittande positionen under bönen.
 [^3]: Den avslutande hälsningen i bönen.
-[^4]: Sujud, nedfallandet när pannan läggs mot marken.
+[^4]: sujūd, nedfallandet när pannan läggs mot marken.
 [^5]: Rakah.
-[^6]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^6]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

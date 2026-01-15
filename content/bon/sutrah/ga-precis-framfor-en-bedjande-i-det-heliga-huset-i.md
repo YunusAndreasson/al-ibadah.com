@@ -1,7 +1,7 @@
 ---
 title: Gå precis framför en bedjande i det Heliga Huset [i Mecka]
 author: Shaykh ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 147 s. ISBN saknas'
 categories:
 - Bön (Salāh)

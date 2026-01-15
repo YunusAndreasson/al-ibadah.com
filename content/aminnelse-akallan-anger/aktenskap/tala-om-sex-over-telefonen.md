@@ -1,6 +1,6 @@
 ---
 title: Tala om sex över telefonen
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 categories:
 - Åminnelse, åkallan, ånger...
 - Äktenskap
@@ -14,7 +14,7 @@ description: 'Fråga: Får ett gift par att tala om sex över telefonen och hets
 
 **Svar:** All ära tillhör Allāh.
 
-Vi låter shaykh Muhammad ibn Sālih al-'Uthaymīn svara på denna frågan:
+Vi låter shaykh Muhammad ibn Sālih al-ʿUthaymīn svara på denna frågan:
 
 ”Det finns inget fel i det. Ja, det är tillåtet.”
 

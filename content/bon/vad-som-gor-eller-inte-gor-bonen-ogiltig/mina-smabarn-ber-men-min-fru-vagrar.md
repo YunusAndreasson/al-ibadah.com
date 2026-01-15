@@ -1,7 +1,7 @@
 ---
 title: Mina småbarn ber men min fru vägrar
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 219 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -26,5 +26,5 @@ Svaret på den andra frågan, där frun inte ber, är att det är upp till manne
 En muslim får inte gifta sig med någon som inte tror och som har lämnat islam. Om detta utträde äger rum efter äktenskapet, då upphävs det. Om hon sedan återvänder till islam efter hennes vänteperiod har gått ut, då är hon fortfarande hans fru, men om hon inte gör det, då måste hon skilja sig från honom.
 
 
-[^1]: Sujud, nedfallandet när pannan läggs mot marken.
+[^1]: sujūd, nedfallandet när pannan läggs mot marken.
 

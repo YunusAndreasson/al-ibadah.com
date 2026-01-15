@@ -1,7 +1,7 @@
 ---
 title: Tayammum om man inte kan tvätta en del av kroppen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 52 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -31,5 +31,5 @@ Om personen som diskuteras inte har upprepat sin bön bör han göra det.
 [^1]: Wudû´
 [^2]: En rituell rening som görs med hjälp av jord/sand då det inte finns vatten tillgängligt.
 [^3]: Att säga Allahu Akbar.
-[^4]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

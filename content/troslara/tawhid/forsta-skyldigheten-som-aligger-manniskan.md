@@ -1,10 +1,10 @@
 ---
 title: Första skyldigheten som åligger människan
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fiqh ul ''Ibādāt www 20/4-2007: www Muhammed Knut Bernström (1421), Koranens
  budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Tawhīd [Monoteism]
 original_id: 914
 description: 'Fråga: Vilken är den första plikten som åligger skapelsen? Svar: Den

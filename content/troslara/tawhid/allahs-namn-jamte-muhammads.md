@@ -1,10 +1,10 @@
 ---
 title: Allāhs namn jämte Muhammads
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 287 s. ISBN 9960-892-66-2'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Tawhīd [Monoteism]
 original_id: 1110
 description: 'Fråga: Vi ser ofta Allāhs namn skrivit på väggar och jämte det finns

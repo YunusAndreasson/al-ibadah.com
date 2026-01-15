@@ -1,7 +1,7 @@
 ---
 title: Gjorde takbīr för sunnah-bönen och sedan började den obligatoriska
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 297 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -27,11 +27,11 @@ Men om bönen börjar och man redan har utfört en andra bönecykel, då syndar 
 Och Allāh är Beviljaren av framgång.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Dhuhr
 [^3]: Att säga Allahu Akbar.
 [^4]: Tahiyyatul-Msjid.
-[^5]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
-[^6]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^5]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
+[^6]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^7]: Rättslära.
 

@@ -1,8 +1,8 @@
 ---
 title: Hjärtat är platsen för avsikten och det är rekommenderat att uttala den verbalt
  under vallfärden
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 114 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -30,6 +30,6 @@ Avsikten är här att man säger *talbiyyah[^4]*, precis som man säger *talbiyy
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.
-[^3]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^4]: Säga Labbayk Allahumma Labbayk under vallfärden.
 

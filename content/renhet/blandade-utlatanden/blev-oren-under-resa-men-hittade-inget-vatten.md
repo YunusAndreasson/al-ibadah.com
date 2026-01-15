@@ -1,7 +1,7 @@
 ---
 title: Blev oren under resa men hittade inget vatten
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 70 s. ISBN saknas'
 categories:
 - Renhet (Tahārah)

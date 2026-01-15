@@ -1,7 +1,7 @@
 ---
 title: Åkalla för världsliga önskningar
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 293 s. ISBN saknas'
 categories:
 - Åminnelse, åkallan, ånger...
@@ -18,8 +18,8 @@ description: 'Fråga: Är det tillåtet för oss att åkalla under bönen för r
 
 
 [^1]: Vad man läser i den sittande positionen under bönen.
-[^2]: Sujud, nedfallandet när pannan läggs mot marken.
-[^3]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: sujūd, nedfallandet när pannan läggs mot marken.
+[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^4]: Dhikr
 [^5]: Du´ā
 

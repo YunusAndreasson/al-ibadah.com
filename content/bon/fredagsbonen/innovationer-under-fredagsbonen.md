@@ -1,7 +1,7 @@
 ---
 title: Innovationer under fredagsbönen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 445 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -25,7 +25,7 @@ Det finns inga *sunnah[^1]*-böner före fredagsbönen. Detta är inte något so
 Den islamiska lagen uppmuntrar till att böner sänds över profeten – över honom vare Allāhs frid och välsignelser – och belöningen för detta är stor. Detta är en *sunnah[^1]* efter böneutropet, men böneutroparen bör sända böner över honom tyst och inte högt. Det är en innovation om böneutroparen gör så när han har avslutat böneutropet. För den som hör böneutropet är det *sunnah[^1]* att upprepa efter, och när böneutroparen har avslutat den sända böner över profeten – över honom vare Allāhs frid och välsignelser – och be Allāh att Han ger profeten – över honom vare Allāhs frid och välsignelser – medlingen.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Dhikr
 [^3]: Tahiyyatul-Msjid.
 

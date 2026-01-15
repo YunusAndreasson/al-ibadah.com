@@ -1,12 +1,12 @@
 ---
 title: Tror att profeten är ett ljus från Allāh och att han har kunskap om det som
  för människor är dolt
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 111 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Sändebuden
 original_id: 1175
 description: 'Fråga: Om någon tror att profeten – över honom vare Allāhs frid och
@@ -44,7 +44,7 @@ Den som har sökt hjälp från Allāhs sändebud – över honom vare Allāhs fr
 > 
 > 
 > 
-> ”Säg: ’Ingen kan skydda dig mot Gud och jag kan heller inte vålla er skada; inte heller [kan jag] förmå er att följa den raka vägen.’ Säg: ’Ingen kan skydda mig mot Gud och jag kan heller inte finna en tillflykt undan Honom.’” [Koranen 72:22-23]
+> ”Säg: ’Ingen kan skydda dig mot Gud och jag kan heller inte vålla er skada; inte heller [kan jag] förmå er att följa den raka vägen.’ Säg: ’Ingen kan skydda mig mot Gud och jag kan heller inte finna en tillflykt undan Honom.’” [Koranen 72:22–23]
 
 Profeten – över honom vare Allāhs frid och välsignelser – sade till sina släktingar: ”*Jag kan på intet sätt hjälpa er mot Allāh*.” [*al-Bukhārī* 2753] Detta sade han till Fatimah och Safiyyah som var profetens – över honom vare Allāhs frid och välsignelser – moster.
 

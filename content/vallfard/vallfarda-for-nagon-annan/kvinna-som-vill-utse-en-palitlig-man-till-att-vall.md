@@ -1,9 +1,9 @@
 ---
 title: Kvinna som vill utse en pålitlig man till att vallfärda åt henne
-author: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 66 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-source: Muhammad bin Sālih al-'Uthaymīn
+source: Muhammad bin Sālih al-ʿUthaymīn
 categories:
 - Vallfärd (Hajj)
 - Vallfärda för någon annan
@@ -31,5 +31,5 @@ Utgår vi från detta uttalande blir det en uppmaning till rikt folk som kan val
 
 
 [^1]: Den lilla vallfärden.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

@@ -1,6 +1,6 @@
 ---
 title: Misstags som begås under tawāf
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Dalīl al-Akhta’ allati yaqa’ fiha al-Hāj wa’l-Mu’tamir Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -39,6 +39,6 @@ Dessa är de felaktigheter som vi har uppmärksammat under *tawāf[^1]*. Vi hopp
 [^2]: Den lilla vallfärden.
 [^3]: Olika sorters prövningar och frestelser.
 [^4]: Dhikr
-[^5]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^5]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^6]: Du´ā
 

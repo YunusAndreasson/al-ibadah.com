@@ -1,7 +1,7 @@
 ---
 title: Timmen då åkallan besvaras under fredagar och recitation av sura al-Kahf
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 460 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -20,7 +20,7 @@ Beträffande när åkallan[^1] besvaras under fredagar så rapporteras det i en 
 
 
 [^1]: Du´ā
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Tolkning av Koranen efter givna principer.
 [^4]: Rättslära.
 [^5]: Asr

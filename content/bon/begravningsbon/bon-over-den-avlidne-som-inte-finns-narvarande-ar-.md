@@ -2,7 +2,7 @@
 title: Bön över den avlidne som inte finns närvarande är inte något specifikt för
  sändebudet
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 66 s. ISBN saknas'
 categories:
 - Bön (Salāh)

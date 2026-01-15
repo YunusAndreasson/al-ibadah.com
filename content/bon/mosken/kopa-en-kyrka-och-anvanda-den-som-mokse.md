@@ -1,7 +1,7 @@
 ---
 title: Köpa en kyrka och använda den som moské
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-'Ilmiyyah wal-Iftā., - Volym 6,
+source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-ʿilmiyyah wal-Iftā., – Volym 6,
  Sida 267, Fatwa 2393
 categories:
 - Bön (Salāh)

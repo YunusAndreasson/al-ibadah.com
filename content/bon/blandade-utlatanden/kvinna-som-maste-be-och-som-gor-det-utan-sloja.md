@@ -1,6 +1,6 @@
 ---
 title: Kvinna som måste be och som gör det utan slöja
-author: Ibn 'Abdullah Ibn Baz
+author: Ibn ʿAbdullah Ibn Baz
 source: 'Fatāwa al-Marah Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn:
  Proprius. ISBN 91-7118-887-8'
 categories:

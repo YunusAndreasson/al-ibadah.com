@@ -1,7 +1,7 @@
 ---
 title: Nämnandet av Allāhs namn på toaletten inför tvagningen görs i hjärtat
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 74 s. ISBN saknas'
 categories:
 - Renhet (Tahārah)
@@ -17,6 +17,6 @@ description: 'Fråga: När jag vill tvaga mig utformar jag avsikten för att tva
 **Svar:** Nämner man Allāhs namn när man är på toaletten, då bör man göra det i sitt hjärta. Det bör inte sägas högt. Handla efter detta. Den starkaste åsikten är att det inte är obligatoriskt att nämna Allāhs namn men att det är att föredra. Oroa dig inte och tänk inte för mycket på det. Ett annat alternativ är att man nämner Allāhs namn innan man går in på toaletten.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Wudû´
 

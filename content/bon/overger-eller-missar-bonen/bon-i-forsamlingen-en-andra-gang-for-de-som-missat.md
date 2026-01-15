@@ -1,7 +1,7 @@
 ---
 title: Bön i församlingen en andra gång för de som missat bönen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 329 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -15,7 +15,7 @@ description: 'Fråga: Får de som kommer sent till bönen i församlingen, och s
 
 **Fråga:** Får de som kommer sent till bönen i församlingen, och som finner att bönen redan är över, forma en andra församling?
 
-**Svar:** Den som kom till moskén och fann att församlingen redan hade bett med den vanlige imamen, eller med en annan imam, bör be den i församling med andra som har missat den eller någon som redan har bett och som vill ge till välgörenhet [leda dem i bön]. Detta enligt en återberättelse från Ahmad i hans Musnad och från Abū Dawūd i hans *Sunan*. Abū Sa'id al-Khudri berättar här att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – såg en man be ensam och han sade: ”*Vem av er vill delta i detta?*” En man stod då upp och bad med mannen. at-Tirmithi har också återberättat detta från Abū Sa'is som sagt: ”*En man kom när Allāhs sändebud redan hade bett och han sade: 'Vem av er kommer att ge till välgörenhet till denne man?"* [*at-Tirmithi* 220]. En man stod då upp och bad med honom. Enligt at-Tirmithi är denna *hadīth[^1] hasan*. al-Hakim har också återberättat den och klassat den som *sahīh*. ath-Thahabi höll med honom. Ibn Hazm har också nämnt den i al-Muhalla och han visade att den är autentisk. Abū 'Isa at-Tirmithi sade: ”*Mer än en av följeslagarna och tabi'in har sagt detta: 'Det finns ingen invändan mot en grupp som ber en andra församlingsbön i en moské där bönen redan har hållets*.” Ahmad och Ishaq ansåg också detta.
+**Svar:** Den som kom till moskén och fann att församlingen redan hade bett med den vanlige imamen, eller med en annan imam, bör be den i församling med andra som har missat den eller någon som redan har bett och som vill ge till välgörenhet [leda dem i bön]. Detta enligt en återberättelse från Ahmad i hans Musnad och från Abū Dawūd i hans *Sunan*. Abū Saʿīd al-Khudri berättar här att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – såg en man be ensam och han sade: ”*Vem av er vill delta i detta?*” En man stod då upp och bad med mannen. at-Tirmithi har också återberättat detta från Abū Sa'is som sagt: ”*En man kom när Allāhs sändebud redan hade bett och han sade: 'Vem av er kommer att ge till välgörenhet till denne man?"* [*at-Tirmithi* 220]. En man stod då upp och bad med honom. Enligt at-Tirmithi är denna *hadīth[^1] hasan*. al-Hakim har också återberättat den och klassat den som *sahīh*. ath-Thahabi höll med honom. Ibn Hazm har också nämnt den i al-Muhalla och han visade att den är autentisk. Abū ʿĪsā at-Tirmithi sade: ”*Mer än en av följeslagarna och tabi'in har sagt detta: 'Det finns ingen invändan mot en grupp som ber en andra församlingsbön i en moské där bönen redan har hållets*.” Ahmad och Ishaq ansåg också detta.
 
 Andra har sagt att man bör be var för sig och några av dessa är: Sufyan, Ibn al-Mubarak, Mālik och ash-Shafi'i.
 
@@ -32,5 +32,5 @@ På detta sätt kommer dörren till splittring att stängas och sekterna uppnår
 Detta sker då på ett sätt som inte leder till att man överger autentiska *ahādīth[^1]* som bevisar att det är tillåtet att be en andra bön i församlingen för dem som har missat den första.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

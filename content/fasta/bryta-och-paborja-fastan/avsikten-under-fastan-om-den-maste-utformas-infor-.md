@@ -1,7 +1,7 @@
 ---
 title: Avsikten under fastan – om den måste utformas inför varje dag eller om det
  räcker med en gång för hela månaden
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 645 s. ISBN 9960-892-66-2'
 categories:

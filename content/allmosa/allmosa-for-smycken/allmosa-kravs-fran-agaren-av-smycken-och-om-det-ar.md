@@ -1,8 +1,8 @@
 ---
 title: Allmosa krävs från ägaren av smycken och om det är mannen eller kvinnan som
  ska betala
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 180 s. ISBN saknas'
 categories:
 - Allmosa (Zakāh)

@@ -1,7 +1,7 @@
 ---
 title: Var de två bönecyklerna före tawāf ska bes
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 184 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -21,5 +21,5 @@ Och Allāh ger framgång.
 
 [^1]: Rakah.
 [^2]: Den sju långa rundar vandringen runt Kabah.
-[^3]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

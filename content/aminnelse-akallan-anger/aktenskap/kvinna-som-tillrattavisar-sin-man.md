@@ -1,6 +1,6 @@
 ---
 title: Kvinna som tillrättavisar sin man
-author: Ibn 'Abdullah Ibn Baz
+author: Ibn ʿAbdullah Ibn Baz
 source: Fatāwa al-Marah
 categories:
 - Åminnelse, åkallan, ånger...

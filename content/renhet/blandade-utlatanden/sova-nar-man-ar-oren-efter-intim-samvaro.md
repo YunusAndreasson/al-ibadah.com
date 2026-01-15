@@ -1,7 +1,7 @@
 ---
 title: Sova när man är oren efter intim samvaro
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: '''Ishratun-Nisaa. wa Hill al-Khilaafaat az-Zowjiyyah - Page 59'
+source: '''Ishratun-Nisaa. wa Hill al-Khilaafaat az-Zowjiyyah – Page 59'
 categories:
 - Renhet (Tahārah)
 - Blandade utlåtanden

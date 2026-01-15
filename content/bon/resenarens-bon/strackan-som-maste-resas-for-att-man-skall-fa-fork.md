@@ -1,7 +1,7 @@
 ---
 title: Sträckan som måste resas för att man ska få förkorta bönen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 435 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -17,5 +17,5 @@ description: 'Fråga: Vilken är den kortaste sträcka som man ska ha rest för 
 **Svar:** Den sträcka som man måste ha rest för att få förkorta bönen är inte bestämd. […] Ordet ”resa” nämns utan att en sträcka bestäms. Därmed får bönen förkortas under allt som anses vara en resa. Detta enligt vissa lärde då de baserar deras åsikt på att Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* inte definierar ordet ”resa”. Ett antal lärde anser dock att en resa är två hela dagar och att det är likvärdigt med ungefär 80km. Den mest korrekta åsikten är dock den tidigare, som är att det inte finns någon definierad sträcka, utan det som anses vara en resa är en resa.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

@@ -1,7 +1,7 @@
 ---
 title: Tveksamheter om man släppt sig
-author: Ibn 'Abdur-Rahman al-Jibrin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 86 s. ISBN saknas'
 categories:
 - Renhet (Tahārah)
@@ -18,5 +18,5 @@ description: 'Fråga: Jag lider ofta av gas i magen. Jag lider ofta av gas i mag
 
 
 [^1]: Wudû´
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

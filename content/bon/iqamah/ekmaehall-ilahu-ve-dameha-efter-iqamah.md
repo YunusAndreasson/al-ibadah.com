@@ -1,6 +1,6 @@
 ---
 title: ”Ekmaehall-ilahu ve dameha” efter iqāmah
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 431 s. ISBN 9960-892-66-2'
 categories:
@@ -17,6 +17,6 @@ description: 'Fråga: När iqāmah har ropats ut hör vi att vissa säger: ” E
 **Svar:** I en *hadīth[^2]* från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – rapporteras att när böneutroparen säger: ”Bönen har börjat”, så ska man säga: ”*Ekmaehall-ilahu ve dameha*.” [Abū Dawūd och Ibn Hajr al-'Asqalani har sagt att den är svag] Denna *hadīth[^2]* är dock svag och kan inte användas som bevis.
 
 
-[^1]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

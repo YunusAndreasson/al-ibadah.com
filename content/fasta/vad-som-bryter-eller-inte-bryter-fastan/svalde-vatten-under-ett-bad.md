@@ -1,7 +1,7 @@
 ---
 title: Svalde vatten under ett bad
-author: Ibn 'Abdullāh Ibn Baz
-source: Majmū' Fatāwa ash-shaykh 'Abdul-'Azīz bin 'Abdullāh bin Bāz - Volume 3, Page
+author: Ibn ʿAbdullāh Ibn Baz
+source: Majmū' Fatāwa ash-shaykh ʿAbdul-ʿAzīz bin ʿAbdullāh bin Bāz – Volume 3, Page
  252
 categories:
 - Fasta (Sawm)

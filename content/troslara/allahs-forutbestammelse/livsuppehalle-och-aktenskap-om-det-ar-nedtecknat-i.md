@@ -1,11 +1,11 @@
 ---
 title: Livsuppehälle och äktenskap – om det är nedtecknat i al-lawh al-mahfuz
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 190 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Allāhs förutbestämmelse
 original_id: 1184
 description: 'Fråga: Är ens levebröd och äktenskap nedtecknat i al-lawh al-mahfuz
@@ -23,7 +23,7 @@ Levebrödet nedtecknas även enligt orsakerna och det varken ökar eller minskar
 
 En av orsakerna är också att man bevarar familjeband genom att vara snäll mot och ha en god relation med ens föräldrar. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som vill ha mer levebröd och fler levnadsår, låt denne upprätthålla goda relationer med nära och kära*.” [*al-Bukhārī* 2067] Ytterligare en orsak är att man fruktar Allāh den Allsmäktige för Han den Upphöjde säger:
 
-> ”Denne maning riktas till alla som tror på Gud och den Yttersta dagen. Gud visar var och en som fruktar Honom en utväg ur [alla svårigheter] och sörjer för honom på ett sätt som han inte kan förutse, och den som litar till Gud behöver inget annat [stöd].” [Koranen 65:2-3]
+> ”Denne maning riktas till alla som tror på Gud och den Yttersta dagen. Gud visar var och en som fruktar Honom en utväg ur [alla svårigheter] och sörjer för honom på ett sätt som han inte kan förutse, och den som litar till Gud behöver inget annat [stöd].” [Koranen 65:2–3]
 
 Säg inte: ”*Levebrödet är nedskrivet och jag kommer inte att vidta de åtgärder som leder till det, det är ju meningslöst*.” Det är en del av vara förståndig och beslutsam att kämpa för sitt levebröd och allt som hjälper en i ens religion och världsliga företag. Profeten – över honom vare Allāhs frid och välsignelser – sade:
 

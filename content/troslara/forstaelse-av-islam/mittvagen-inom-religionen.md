@@ -1,11 +1,11 @@
 ---
 title: Mittvägen inom religionen
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 44 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Förståelse av islam
 original_id: 1165
 description: 'Fråga: Vad avser man med medelvägen i frågor som rör religionen? Svar: En
@@ -45,5 +45,5 @@ Ett tredje exempel rör en man som slavar under sin fru. Hon talar till sin man 
 Den sistnämnde är balanserad medan den förste är extrem i behandlandet av frun och den andre är otillräcklig. Du bör basera alla dyrkan på detta exempel.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

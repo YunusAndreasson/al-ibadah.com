@@ -1,6 +1,6 @@
 ---
 title: Äta mat tillagad av en kvinna med månadsblödning
-author: '''Abdullāh Ibn Humayd'
+author: 'ʿAbdullāh Ibn Humayd'
 source: Fatāwa Muhimmah li-Nisā al-Ummah – sida 61
 categories:
 - Renhet (Tahārah)

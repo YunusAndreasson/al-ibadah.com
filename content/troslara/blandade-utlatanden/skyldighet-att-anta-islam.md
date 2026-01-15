@@ -1,11 +1,11 @@
 ---
 title: Skyldighet att anta islam
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 60 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Blandade utlåtanden
 original_id: 1577
 description: 'Fråga: Måste de som inte tror anta islam? Svar: Det är en skyldighet
@@ -17,7 +17,7 @@ description: 'Fråga: Måste de som inte tror anta islam? Svar: Det är en skyld
 
 **Svar:** Det är en skyldighet för dem som inte tror att anta islam. Även om de är kristna eller judar gäller detta, och det beror på att Allāh den Upphöjde i Sin skrift säger:
 
-> ”Säg: ’Människor! Jag är Guds Sändebud, [utsänd] till er alla av Honom som äger herraväldet över himlarna och jorden! Det finns ingen gud utom Han - Han som skänker liv och skänker död. Tro därför på Gud och Hans sändebud, den olärde profeten, som tror på Gud och Hans ord, och följ honom så att ni får vägledning.” [Koranen 7:158]
+> ”Säg: ’Människor! Jag är Guds Sändebud, [utsänd] till er alla av Honom som äger herraväldet över himlarna och jorden! Det finns ingen gud utom Han – Han som skänker liv och skänker död. Tro därför på Gud och Hans sändebud, den olärde profeten, som tror på Gud och Hans ord, och följ honom så att ni får vägledning.” [Koranen 7:158]
 
 Därmed måste hela människosläktet tro på Allāhs sändebud – över honom vare Allāhs frid. Men då islam har sitt ursprung i Allāhs den Allsmäktiges nåd och visdom har Han tillåtet att de som inte är muslimer stannar kvar i deras religion under villkor att de lyder under muslimskt styre. Allāh den Upphöjde säger ju:
 
@@ -30,5 +30,5 @@ Kortfattat måste de som inte är muslimer antingen anta islam eller leva under 
 Och Allāh är Beviljaren av framgång.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

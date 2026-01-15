@@ -19,7 +19,7 @@ Och Allāh är källan till all styrka. Må Allāh välsigna vår profet Muhamma
 
 
 [^1]: Tahiyyatul-Msjid.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Fajr
-[^4]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
+[^4]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 

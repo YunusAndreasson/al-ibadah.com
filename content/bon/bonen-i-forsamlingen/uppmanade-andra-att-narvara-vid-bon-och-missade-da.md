@@ -1,6 +1,6 @@
 ---
 title: Uppmanade andra att närvara vid bön och missade därför själv delar av den
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: Fatāwa Nūrun alad-Darb, Volym 1, sida 197
 categories:
 - Bön (Salāh)
@@ -17,5 +17,5 @@ description: 'Fråga: En person såg några arbetare på sin väg till moskén, 
 
 
 [^1]: Att säga Allahu Akbar.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

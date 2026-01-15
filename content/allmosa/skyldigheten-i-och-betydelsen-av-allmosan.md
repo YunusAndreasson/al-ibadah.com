@@ -1,7 +1,7 @@
 ---
 title: Skyldigheten i och betydelsen av allmosan
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 148 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -16,7 +16,7 @@ All lovprisan tillhör Allāh allena och må välsignelser och frid vara över h
 
 Det som har lett till nedtecknandet av detta uttalande är för att ge råd och för att påminna om skyldigheten i allmosan, något om många muslimer har tagit lättvindigt. Därför ger de inte på så vis som är föreskrivet att ge, trots dess höga status och att den är en av islams fem pelare som islams grund inte kan uppresas korrekt utan. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Islam är byggt på fem [pelare]. Vittnesmålet om att ingen har rätten att dyrkas utom Allāh och att Muhammad är Allāhs sändebud, förrättandet av bönen, att betala den obligatoriska allmosan, fastan under ramadan[^1] och pilgrimsfärden till Huset [Ka'bah].” [*al-Bukhārī* 8 och *Muslim* 16]
+> ”Islam är byggt på fem [pelare]. Vittnesmålet om att ingen har rätten att dyrkas utom Allāh och att Muhammad är Allāhs sändebud, förrättandet av bönen, att betala den obligatoriska allmosan, fastan under ramadan[^1] och pilgrimsfärden till Huset [Kaʿbah].” [*al-Bukhārī* 8 och *Muslim* 16]
 
 Denna hadiths äkthet råder det enighet om.
 
@@ -40,7 +40,7 @@ Likaså har profeten – över honom vare Allāhs frid och välsignelser – i e
 
 Ett allvarligt hot har kommit till den som snålar med allmosan eller som misslyckas med att betala den. Allāh den Upphöjde säger:
 
-> ”Troende! Många rabbiner och kyrkans lärda män lägger med orätt beslag på [andras] egendom och spärrar Guds väg [för andra]. De som samlar skatter av guld och silver och inte ger av detta för Guds sak, låt dem veta att ett plågsamt straff [väntar dem] den dag då dessa [skatter] ska glödgas i helvetets eld och deras pannor, sidor och ryggar brännmärkas med detta [och en röst säger:] ’Detta är de skatter ni samlade för att ni i ensamhet [ruva över dem]; smaka nu det som ni lade på hög!” [Koranen 9:34-35]
+> ”Troende! Många rabbiner och kyrkans lärda män lägger med orätt beslag på [andras] egendom och spärrar Guds väg [för andra]. De som samlar skatter av guld och silver och inte ger av detta för Guds sak, låt dem veta att ett plågsamt straff [väntar dem] den dag då dessa [skatter] ska glödgas i helvetets eld och deras pannor, sidor och ryggar brännmärkas med detta [och en röst säger:] ’Detta är de skatter ni samlade för att ni i ensamhet [ruva över dem]; smaka nu det som ni lade på hög!” [Koranen 9:34–35]
 
 Alla former av tillgångar som fordrar allmosa som inte har betalats är den giriges skatt [*kanz*]. Dess ägare kommer att plågas med den på Återuppståndelsens dag på det sätt som det har berättats om i en autentisk *hadīth[^2]* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
 
@@ -102,7 +102,7 @@ Må Allāh sända välsignelser och frid över Hans tjänare och sändebud Muham
 
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
 [^4]: En vikt likvärdig med ungefär 4.5g.
 [^5]: En saudisk riyal är 1.62 kronor (Forex.se, 25 ramadan 1428).

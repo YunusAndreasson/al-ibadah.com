@@ -1,7 +1,7 @@
 ---
 title: Konvenans som den resande bör ta hänsyn till
-author: Muhammad bin Salih al-'Uthaymin
-source: 'Fatāwa Ibn ''Uthaymīn, 21/16 Muhammed Knut Bernström (1421), Koranens budskap
+author: Muhammad bin Salih al-ʿUthaymin
+source: 'Fatāwa Ibn ʿUthaymīn, 21/16 Muhammed Knut Bernström (1421), Koranens budskap
  . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
 - Vallfärd (Hajj)
@@ -29,7 +29,7 @@ Detta är ett viktigt ämne som det finns ett stort behov för. Vårt mål är h
 9. Resenären bör ta farväl av familjen, grannarna, vännerna och alla som denne håller kära. Denne bör hälsa dem farväl och säga till var och en av dem: ”*Jag* *placerar er religion, er trofasthet och slutet för era handlingar i Allāhs tillit*.” De som stannar kvar bör till den resande säga: ”*Må Allāh välsigna dig med fruktan av Honom, förlåta dina synder och göra godhet lätt för dig var du än befinner dig*.”
 10. Det är *sunnah[^2]* att säga följande åkallan[^4] när man lämnar huset: ”*Bismillāh, tawakkaltu 'ala Allāh, wa lā hawla wa lā quwwata illa Billāh. Allāhumma inni a'ūdhu bika min an adilla aw udalla aw azilla aw uzalla aw azlima aw uzlama aw ajhala aw yujhal 'alayya [I Allāhs namn, jag sätter min tillit till Allāh och det finns ingen kraft eller styrka utom hos Allāh. Allāh, jag söker tillflykt hos Dig för att jag inte ska gå vilse eller bli ledd vilse, hamna fel eller göra fel eller bli felaktigt behandlad, bete mig dumt eller bli behandlad dumt]*.”
 11. När resenären lämnar sitt hem och vill stiga upp på sitt riddjur är det *sunnah[^2]* att säga *Bismillah[^6]*. När man sedan har stigit upp bör man säga: ”*al-Hamdu Lillāh illadhi sakhkhara lana hadha wa ma kunna lahu muqrinīn wa inna ila rabbina la munqalibūn* [I Allāhs namn... All lovprisan tillhör Allāh som har placerat detta [transportmedel] till vår tjänst. Vi själva skulle inte vara kapabla till detta. Vår Herre är vårt slutliga mål.” Därefter bör man säga *al-Hamdu Lillāh* [All lovprisan tillhör Allāh] tre gånger och Allāhu akbar [Allāh är den störste] tre gånger, sedan ”*Subhānak inni zalamtu nafsi faghfir li innahu la yaghfir il-dhunūba illa anta* [Ärad vare Du, sannerligen har jag gjort fel mot mig själv, så förlåt mig, för helt visst kan ingen förlåta synder utom Du].” Och: ”*Allāhumma inna nas'aluka fi safar[^7] ina hādha al-birra wa'l-taqwa wa min al-'aml ma tarda, Allāhumma hawwin 'alayna safar[^7] ana hādha watwi 'anna bu'dahu. Allāhumma anta al-sāhib fi'l-safar[^7] wa 'l-khalīfah fi'l-ahl. Allāhumma inni a'ūdhu bika min wa'tha' al-safar[^7] wa ka'ābat al-manzar wa su' al-munqalib fi'l-māli wa'l-ahl*.” När man återvänder läser man samma ord, men med följande tillägg: ”*Āyibūna tā'ibūna 'ābidūna li rabbina hāmidūn* [Återvänder, ångrar [sig inför], dyrkar och lovprisar vår Herre].”
-12. Det är rekommenderat att resa med en grupp. Detta med anledning av en *hadīth[^1]* ifrån 'Umar: ”Allāhs sändebud sade: ’Visste folket vad jag vet om att vara ensam skulle ingen resa ensam under natten.’” [al-Bukhārī]
+12. Det är rekommenderat att resa med en grupp. Detta med anledning av en *hadīth[^1]* ifrån ʿUmar: ”Allāhs sändebud sade: ’Visste folket vad jag vet om att vara ensam skulle ingen resa ensam under natten.’” [al-Bukhārī]
 13. Det är rekommenderat att gruppen utser den bäste och den visaste av dem till ledare och att de lyder denne person. Detta med anledning av en *hadīth[^1]* från Abū Sa’īd och Abū Hurayrah: ”Allāhs sändebud sade: 'När tre personer ger sig ut på en resa, låt dem då utse en av dem till deras ledare.” En *hasan hadīth[^1]* återberättad av Abū Dawūd med en *hasan* berättarkedja.
 14. Det är rekommenderat att ge sig av nattetid. Detta med anledning av en *hadīth[^1]* från Anas: *”Ni bör resa i slutet av natten [eller under natten] då det är lättare att täcka en lång sträcka under natten*.” Återberättad av Abū Dawūd i en *hasan hadīth[^1]*. Den har även återberättats av al-Hākim: ”*Den är Sahīh enligt de villkor som al-Bukhārī och Muslim har angivit*.”
 15. Resenären bör ha en vänlig och god attityd, undvika dispyter och inte knuffa människor ur vägen. Denne bör vakta sin tunga för kränkningar, förtal, förbannelser över riddjuret eller någon annan form av dåligt tal.
@@ -46,7 +46,7 @@ Detta är ett viktigt ämne som det finns ett stort behov för. Vårt mål är h
 
 Slut på citat ifrån al-Nawawi.
 
-Shaykh Ibn 'Uthaymīn har sagt:
+Shaykh Ibn ʿUthaymīn har sagt:
 
 > God ton för vallfärdande delas i två kategorier: obligatorisk och rekommenderad. Den obligatoriska konvenansen innebär att den resande fullföljer alla skyldigheter och pelare [väsentliga delar] för vallfärden. Undvik speciellt det som är förbjudet under *ihrām[^12]* och det som generellt sett är förbjudet– oavsett om det är förbjudet i eller utanför ihrām[^12]. Allāh säger: ”*Vallfärden [ska fullgöras under] de kända månaderna. Den som då beger sig i väg ska så länge vallfärden varar avhålla sig från intim samvaro med kvinnor, grovt tal samt trätor och tvister*.” [Koranen 2:197]
 > 
@@ -56,15 +56,15 @@ Shaykh Ibn 'Uthaymīn har sagt:
 > Den goda ton som är rekommenderad när man vallfärdar är att göra allt som man bör göra; som att vara generös mot människor, betjäna sina bröder, stå ut med irritationsmoment ifrån dem och vara vänlig mot dem [oavsett om det är före eller efter man går in i ihrām[^12]]. Denna konvenans är storslagen. Den krävs ständigt av alla troende var de än befinner sig. Det finns även andra former av etikett som har att göra med dyrkan, som att vallfärda på det bästa sättet och att kämpa för att göra det med en korrekt etikett i både ord och handling.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Rakah.
 [^4]: Du´ā
-[^5]: Kämpa för Allahs sak.
+[^5]: Kämpa för Allāhs sak.
 [^6]: I Guds namn.
 [^7]: Den andra månaden på det islamiska året.
 [^8]: Att säga Allahu Akbar.
-[^9]: Att upphöja Allah, Subhan Allah.
+[^9]: Att upphöja Allāh, Subhan Allāh.
 [^10]: En rituell rening som görs med hjälp av jord/sand då det inte finns vatten tillgängligt.
 [^11]: Släkting som det inte är tillåtet att gifta sig med.
 [^12]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

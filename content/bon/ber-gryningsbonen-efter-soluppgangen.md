@@ -1,7 +1,7 @@
 ---
 title: Ber gryningsbönen efter soluppgången
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 353 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -19,6 +19,6 @@ Det finns andra *ahādīth[^3]* från följeslagarna om detta. De bevisar att de
 
 
 [^1]: Fajr
-[^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

@@ -1,7 +1,7 @@
 ---
 title: Be i ett rum med bilder på väggarna
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-'Ilmiyyah wal-Iftā - volym 6, sida
+source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-ʿilmiyyah wal-Iftā – volym 6, sida
  251, fatwa 1874
 categories:
 - Bön (Salāh)
@@ -21,6 +21,6 @@ Det bör också påpekas att det inte är tillåtet att hänga upp en bild med n
 Och vi ber Allāh ge oss framgång och vägledning.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
-[^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

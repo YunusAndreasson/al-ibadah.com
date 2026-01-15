@@ -1,7 +1,7 @@
 ---
 title: Tog utan tillstånd pengar från någon men avsåg att lämna tillbaka dem
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 266 s. ISBN saknas'
 categories:
 - Åminnelse, åkallan, ånger...

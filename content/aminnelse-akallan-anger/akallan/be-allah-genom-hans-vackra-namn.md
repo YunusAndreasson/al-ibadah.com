@@ -1,7 +1,7 @@
 ---
 title: Be Allāh genom Hans vackra namn
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 282 s. ISBN saknas'
 categories:
 - Åminnelse, åkallan, ånger...
@@ -18,5 +18,5 @@ description: 'Fråga: Är denna form av åkallan korrekt: ”Allāh, jag ber dig
 
 
 [^1]: Du´ā
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

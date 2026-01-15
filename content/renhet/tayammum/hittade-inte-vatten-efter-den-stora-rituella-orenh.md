@@ -1,8 +1,8 @@
 ---
 title: Hittade inte vatten efter den stora rituella orenheten, gjorde tayammum och
  bad
-author: Ibn 'Abdur-Rahman al-Jibrin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 76 s. ISBN saknas'
 categories:
 - Renhet (Tahārah)

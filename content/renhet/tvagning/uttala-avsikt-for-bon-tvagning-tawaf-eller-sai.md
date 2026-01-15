@@ -1,6 +1,6 @@
 ---
 title: Uttala avsikt för bön, tvagning, tawāf eller sa’ī
-author: Ibn 'Abdullah Ibn Baz
+author: Ibn ʿAbdullah Ibn Baz
 source: al-Bid'u wal-Muhadathāt wa mā lā Asla lahu – sida 635
 categories:
 - Renhet (Tahārah)

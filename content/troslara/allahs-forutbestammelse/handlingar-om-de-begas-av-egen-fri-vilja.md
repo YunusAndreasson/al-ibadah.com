@@ -1,11 +1,11 @@
 ---
 title: Handlingar; om de begås av egen fri vilja
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 183 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Allāhs förutbestämmelse
 original_id: 1183
 description: 'Fråga: Kan ni förklara det förutbestämda? […] Svar: Det förutbestämda
@@ -52,7 +52,7 @@ I ditt exempel där en person syndar och du säger att Allāh bestämmer att den
 
 Det är inte passande att grubbla över frågor som dessa själv eller att diskutera dem med andra. Frågor likt dessa skapar förvirring och tvivel och detta står i motsats till föreskriften av det förutbestämda. Följeslagarna gjorde inte så här och de var de mest beslutsamma i att söka sanningen. Likaså befann de sig närmst den första [kunskaps]källan som släckte törst och tillintegjorde oro [Profeten].
 
-I *Sahīh al-Bukhārī* återges från 'Abi bin Abi Tālib att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Det finns ingen vars plats inte har skrivits ned, antingen i Paradiset eller i Helvetet*.” De sade: ”*Allāhs sändebud! Skall vi bero till det?*” och i en annan version: ”Skall *vi inte bero till vad som har skrivits ned för oss och överge handlingar?*” Han svarade: ”*Nej, handla, för allting görs lätt*.” [*Muslim* 2647] I en annan version: ”*Handla, därför att alla kommer att finna det lätt [att utföra] sådana handlingar som leder denne till den angivna platsen. Den som tillhör det lyckliga folket kommer det att göras lätt för att utföra det lyckliga folkets handlingar. Men den som tillhör det skändliga folket kommer det att göras lätt för att handla skändligt*.” [*al-Bukhārī* 1362] Sedan reciterade Han: ”*För den som villigt ger [av sina ägodelar] och fruktar Gud och som tror på det högsta goda, ska Vi göra det lätt [att följa religionenes bud] Men den som håller hårt om penningpåsen och som [därför att han är rik] tror sig vara fri från allt bereonde och förnekar det högsta goda, [för honom] ska Vi göra det tungt och svårt*.” [Koranen 92:5-10]
+I *Sahīh al-Bukhārī* återges från 'Abi bin Abi Tālib att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Det finns ingen vars plats inte har skrivits ned, antingen i Paradiset eller i Helvetet*.” De sade: ”*Allāhs sändebud! Skall vi bero till det?*” och i en annan version: ”Skall *vi inte bero till vad som har skrivits ned för oss och överge handlingar?*” Han svarade: ”*Nej, handla, för allting görs lätt*.” [*Muslim* 2647] I en annan version: ”*Handla, därför att alla kommer att finna det lätt [att utföra] sådana handlingar som leder denne till den angivna platsen. Den som tillhör det lyckliga folket kommer det att göras lätt för att utföra det lyckliga folkets handlingar. Men den som tillhör det skändliga folket kommer det att göras lätt för att handla skändligt*.” [*al-Bukhārī* 1362] Sedan reciterade Han: ”*För den som villigt ger [av sina ägodelar] och fruktar Gud och som tror på det högsta goda, ska Vi göra det lätt [att följa religionenes bud] Men den som håller hårt om penningpåsen och som [därför att han är rik] tror sig vara fri från allt bereonde och förnekar det högsta goda, [för honom] ska Vi göra det tungt och svårt*.” [Koranen 92:5–10]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har då förbjudit att man beror till vad som har skrivits samtidigt som man överger handlande. Det finns ju inga sätt för att känna till vad som har skrivits. Allāh beordrade Sina tjänare att göra vad de kan och har möjlighet till, och detta är att handla. Som bevis för detta reciterade han [Profeten] versen som visar att den som utför en god handling och tror kommer vägen att göras lätt för. Detta är ett effektivt och fruktbringande botemedel i vilket Allāhs tjänare finner att de kan uppnå hälsa och lycka. Tjänaren handlar rättfärdigt byggt på ett fundament av tro och gläder sig över det när det både blir lättare i denna värld och i den Nästkommande.
 

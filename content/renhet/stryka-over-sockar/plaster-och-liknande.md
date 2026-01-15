@@ -1,6 +1,6 @@
 ---
 title: Plåster och liknande
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 338 s. ISBN 9960-892-66-2'
 categories:
@@ -23,6 +23,6 @@ Vissa lärde säger att på grund av deras svaghet så kan de inte användas. De
 3. Det täcks med ett fastsatt plåster eller något liknande som såret kräver. Denna form av täckande bör man stryka över och här behöver kroppsdelen inte tvättas. Det finns heller inget behov av att göra *tayammum[^2]*.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: En rituell rening som görs med hjälp av jord/sand då det inte finns vatten tillgängligt.
 

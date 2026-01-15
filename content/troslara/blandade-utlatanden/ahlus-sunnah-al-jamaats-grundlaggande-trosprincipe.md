@@ -1,11 +1,11 @@
 ---
 title: Ahlus-sunnah al-jamā’ats grundläggande trosprinciper
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 35 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Blandade utlåtanden
 original_id: 1066
 description: 'Fråga: Vilka är ahlus-sunnah wal-jamā’ats grundläggande trosprinciper? Svar: Ahlus-sunnah
@@ -43,6 +43,6 @@ På detta sätt upprätthöll de religionen och de skilde sig inte åt i detta. 
 Även om de hade olika åsikter i frågor som det är tillåtet att utöva *ijtihād[^2]* i ledde detta inte till att deras hjärtan skilde sig åt. I stället finner man kärlek mellan dem, trots de meningsskiljaktigheter som uppkom genom *ijtihād[^2]*.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Den ansträngning en islamskt lärd gör för att lägga fram ett utlåtande som inte är uppenbart.
 

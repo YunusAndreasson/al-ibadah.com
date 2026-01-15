@@ -1,6 +1,6 @@
 ---
 title: Kysser frun före församlingsbönen
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: Fatāwa al-Marahk
 categories:
 - Renhet (Tahārah)
@@ -19,12 +19,12 @@ En man kan alltså kyssa, röra och omfamna sin fru utan att han eller hennes tv
 
 Detta beror på att principen om tvagning[^1] är att den fortsätter att vara giltig, tills det finns bevis för att den har brutits. Det finns inget bevis – varken i Koranen eller profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]* – som visar att vidförandet av kvinnan bryter tvagningen[^1].
 
-Baserat på detta, om en person rör en kvinna - även om det inte finns något mellan deras hud och även om det sker på ett lustfyllt sätt som genom kyssar eller kramar – så bryts inte tvagningen[^1].
+Baserat på detta, om en person rör en kvinna – även om det inte finns något mellan deras hud och även om det sker på ett lustfyllt sätt som genom kyssar eller kramar – så bryts inte tvagningen[^1].
 
 Och Allāh vet bäst.
 
 
 [^1]: Wudû´
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^3]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

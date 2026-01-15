@@ -1,7 +1,7 @@
 ---
 title: De bästa handlingarna efter de obligatoriska
 author: Shaykh ul-islām Ibn Taymiyyah
-source: al-Wasiyyah al-Jāmi’ah li Khayr al-Dunya wa’l-Ākhirah
+source: al-Wasiyyah al-Jāmi’ah li Khayr al-Dunyā wa’l-Ākhirah
 categories:
 - Åminnelse, åkallan, ånger...
 original_id: 511

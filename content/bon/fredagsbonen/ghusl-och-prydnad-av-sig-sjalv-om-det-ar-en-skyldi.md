@@ -1,6 +1,6 @@
 ---
 title: Ghusl och prydnad av sig själv – om det är en skyldighet både för män och kvinnor
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 558 s. ISBN 9960-892-66-2'
 categories:
@@ -20,6 +20,6 @@ Att göra *ghusl[^1]* för fredagsbönen en eller två dagar innan är inte till
 
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^3]: Fajr
 

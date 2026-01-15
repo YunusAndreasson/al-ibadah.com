@@ -1,6 +1,6 @@
 ---
 title: Tawarruk
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 488 s. ISBN 9960-892-66-2'
 categories:
@@ -19,7 +19,7 @@ description: 'Fråga: Vilket är utlåtandet om tawarruk i bönen? Gäller det f
 Beträffande män och kvinnor: Ja, det har bekräftats för både män och kvinnor. Detta beror på att den grundläggande principen är att män och kvinnor är likvärdiga inför den islamiska lagens utlåtanden om det inte finns rättsliga bevis som visar något annat. Det finns inga autentiska bevis för att en kvinnas bön skiljer sig från en mans, faktum är att de är på samma sätt.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Vad man läser i den sittande positionen under bönen.
 [^3]: Maghrib
 [^4]: Isha

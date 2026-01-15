@@ -1,7 +1,7 @@
 ---
 title: Innebörden av den första och den andra fasen i avlägsnandet av ihrām
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 171 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -23,5 +23,5 @@ Det finns även en anledning i andra *ahādīth[^3]* som har återberättats om 
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den sju långa rundar vandringen runt Kabah.
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

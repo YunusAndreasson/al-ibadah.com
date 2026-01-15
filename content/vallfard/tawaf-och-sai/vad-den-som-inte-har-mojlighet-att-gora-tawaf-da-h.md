@@ -1,8 +1,8 @@
 ---
 title: Vad den som inte har möjlighet att göra tawāf då han anländer [tawāful-qudum]
  måste göra
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 184 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -20,7 +20,7 @@ description: 'Fråga: Den som inte kan utföra tawāful-qudum då han inte hann 
 > ”För att uppleva vad som tjänar till deras uppbyggelse och under de [av alla] kända dagarna uttala Guds namn över de djur ur boskapshjordarna som Han skänker dem [för att offras], ät något av köttet från dessa [djur] och ge också den olycklige som lider nöd att äta!” [Koranen 22:28]
 
 
-[^1]: Tawaf då man kommer till Mecka.
+[^1]: Tawāf då man kommer till Mecka.
 [^2]: Den sju långa rundar vandringen runt Kabah.
 [^3]: Asr
 [^4]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
@@ -31,5 +31,5 @@ description: 'Fråga: Den som inte kan utföra tawāful-qudum då han inte hann 
 [^9]: Maghrib
 [^10]: Isha
 [^11]: Den lilla vallfärden.
-[^12]: När man först gör ´umrah och lämnar ihram för att därpå träda in i ihram för vallfärden.
+[^12]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
 

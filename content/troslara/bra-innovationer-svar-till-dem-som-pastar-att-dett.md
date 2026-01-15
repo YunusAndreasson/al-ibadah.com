@@ -1,10 +1,10 @@
 ---
 title: Bra innovationer – svar till dem som påstår att detta finns
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 259 s. ISBN 9960-892-66-2'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 original_id: 1106
 description: 'Fråga: Hur svarar vi de innovatörer som för att bevisa deras innovationer
  citerar följande bevis: ” Den som inför en bra sunnah i islam ...” [ Muslim 1017]? Svar: Vi
@@ -24,6 +24,6 @@ Likaså kan förståelsen av ”Den som inför en bra *sunnah[^1]*…” vara de
 Skulle innebörden av denna *hadīth[^2]* vara att det är tillåtet att föreskriva precis vad man vill, då hade islam varit ofullständig under profetens – över honom vare Allāhs frid och välsignelser – liv. Varje samhälle skulle ha sin egen lag och sitt eget sätt. Tror den som för in något [i religionen] att det är bra, då är dennes tro felaktig då den motsätter sig profeten – över honom vare Allāhs frid och välsignelser – ord: ”*Allt som förs in [i religionen] är villfarelse*.”
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

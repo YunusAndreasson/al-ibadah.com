@@ -1,11 +1,11 @@
 ---
 title: Återvänder livet till den döde i graven?
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 117 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Livet i graven
 original_id: 72
 description: 'Fråga: Jag har hört att de lärde säger att den som har avlidit kommer
@@ -15,7 +15,7 @@ description: 'Fråga: Jag har hört att de lärde säger att den som har avlidit
 
 **Fråga:** Jag har hört att de lärde säger att den som har avlidit kommer att återfå livet i graven, att de får besvara frågor från änglar och att om det från dessa frågor blir klart att denne är en icke-troende som inte praktiserade islam under sitt liv här i denna världen, då kommer denne att straffas. Jag har inte funnit några bevis för detta i den Heliga Koranen som klargör utfrågningen och straffet i graven. Allāh säger:
 
-> ”[Då säger Gud till den rättfärdige:] ”Du själ, som har kommit till ro! Vänd tillbaka till den Herre, tillfredställd [med Hans gåvor och] omsluten av Hans välbehag! Stig in med skaran av Mina tjänare! Stig in i mitt Paradis!” [Koranen 89:27-30]
+> ”[Då säger Gud till den rättfärdige:] ”Du själ, som har kommit till ro! Vänd tillbaka till den Herre, tillfredställd [med Hans gåvor och] omsluten av Hans välbehag! Stig in med skaran av Mina tjänare! Stig in i mitt Paradis!” [Koranen 89:27–30]
 
 Enligt min lilla förståelse kommer själen att återvända till dess Herre när den har lämnat kroppen och jag ser inte att själen kommer att vara med sin kropp i graven, i ett tillstånd av lugn och bekvämlighet. Allāh säger även:
 
@@ -35,7 +35,7 @@ Slutligen hoppas jag på ett tillfredställande svar från er, vilket era svar a
 
 Detta beror på att han inte talar från sina egna åsikter utan han föreskriver endast det som har uppenbarats till honom från Allāh den Upphöjde då Han sagt:
 
-> ”Och han talar inte av egen drift – nej, [det är] uppenbarelsens ord, som en av de allra mäktigaste lär honom.” [Koranen 53:3-5]
+> ”Och han talar inte av egen drift – nej, [det är] uppenbarelsens ord, som en av de allra mäktigaste lär honom.” [Koranen 53:3–5]
 
 Generellt sett är lydnaden mot honom och den lag som han förde med sig ett bevis för ens tro och kärlek till Allāh. Resultaten av detta är Allāhs kärlek i retur och förlåtelse från Honom för dem som lyder. Allāh säger:
 
@@ -57,7 +57,7 @@ Det finns andra verser i Koranen som kommenderar lydnad av profeten – över ho
 
 Straffet för de icke-troende i graven är logiskt och möjligt. I Allāhs ord finns bevis för att det inträffar:
 
-> ”Och Gud skyddade honom för deras onda anslag, men ringen av lidande slöts kring Faraos anhang. Morgon och afton förs de fram till Elden och den Dag då den Yttersta stunden är här [ska änglarna säga:] 'För in Faraos anhang [och låt dem utstå] det strängaste av alla straff!'” [Koranen 40:45-46]
+> ”Och Gud skyddade honom för deras onda anslag, men ringen av lidande slöts kring Faraos anhang. Morgon och afton förs de fram till Elden och den Dag då den Yttersta stunden är här [ska änglarna säga:] 'För in Faraos anhang [och låt dem utstå] det strängaste av alla straff!'” [Koranen 40:45–46]
 
 Detta är ett klart bevis för straffet i graven genom Elden. Det kommer ju inte att finnas någon morgon eller eftermiddag på Återuppståndelsens Dag och Allāh säger ju i slutet av versen:
 
@@ -65,13 +65,13 @@ Detta är ett klart bevis för straffet i graven genom Elden. Det kommer ju inte
 
 Detta visar att det finns ett straff innan Timmen kommer, vilket innebär att de kommer att visas Elden. Detta kan inte hänvisas till något annat än straffet i graven. Allāh säger:
 
-> ”Låt dem därför vara till dess de får se den Dag vars [fasor] kommer att driva dem från vettet, den Dag då deras list inte ska vara dem till någon nytta och de inte finner hjälp någonstans. De som ständigt begår orätt [ska straffas] redan innan [den Dagen kommer], men de flesta av dem är ovetande [om detta].” [Koranen 52:45-47]
+> ”Låt dem därför vara till dess de får se den Dag vars [fasor] kommer att driva dem från vettet, den Dag då deras list inte ska vara dem till någon nytta och de inte finner hjälp någonstans. De som ständigt begår orätt [ska straffas] redan innan [den Dagen kommer], men de flesta av dem är ovetande [om detta].” [Koranen 52:45–47]
 
 Detta bevisar att de icke-troende kommer att få lida av ett straff innan Timmen börjar. Detta är generellt och täcker de straff som Allāh kan tillfoga dem i detta livet samt det straff som Han kommer att tillfoga dem i deras gravar, innan de återuppväcks för det stora straffet. Autentiska *ahādīth[^2]* bekräftar att profeten – över honom vare Allāhs frid och välsignelser – brukade söka skydd hos Allāh från straffet i graven och han beordrade följeslagarna att göra samma sak. Det har även bekräftats att han brukade rikta sig till folket efter solförmörkelsebönen och beordra dem att söka sin tillflykt hos Allāh från straffet i graven. Han gjorde samma sak tre gånger vid gravplatsen i Gharqad medan han grävde en grav för en av hans avlidna följeslagare. Om inte straffet i graven hade varit ett faktum hade han inte sökt skydd hos Allāh från det och han hade heller inte beordrat följeslagarna att göra så.
 
 Beträffande Allāhs ord:
 
-> ”Gud stärker de troende med det ord vars sanning står fast i denna värld och i evigheten; men de orättfärdiga låter Han gå vilse. - Gud gör vad Han vill.” [Koranen 14:27]
+> ”Gud stärker de troende med det ord vars sanning står fast i denna värld och i evigheten; men de orättfärdiga låter Han gå vilse. – Gud gör vad Han vill.” [Koranen 14:27]
 
 Profeten – över honom vare Allāhs frid och välsignelser – klargjorde att baserat på detta så kommer den troende att hållas stadig [i tron], medan den icke-troende kommer att misslyckas när denne utfrågas i graven. Han förklarade även att den troende kommer att belönas och ro i hans grav för svaren, och den icke-troende kommer att tveka och inte lyckas svara, och då straffas i graven. Detta kommer snart att visas i en *hadīth[^2]* från al-Bara' bin 'Azib. Bland bevisen för straffet i graven finns även hadithen från Ibn ‘Abbās som återberättas i *Sahīh al-Bukhārī* och *Sahīh Muslim*. När profeten – över honom vare Allāhs frid och välsignelser – passerade två gravar sade han:
 
@@ -147,7 +147,7 @@ Det har även rapporterats att Allāh den Upphöjde kommer att återlämna själ
 Detta liv mellan de båda [livet i denna världen och livet i det Nästa] gör det möjligt för honom att höra frågorna och besvara dem – om Allāh ger honom framgång – och får honom att känna njutningen [av Paradiset] eller plågan [i Helvetet]. Vi har redan nämnt *ahādīth[^2]* om detta [...]
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^3]: Ett Register där de icke-troendes handlingar nedtecknas.
 

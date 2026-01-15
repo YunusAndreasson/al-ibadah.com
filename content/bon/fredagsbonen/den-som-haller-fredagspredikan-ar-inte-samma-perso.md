@@ -1,7 +1,7 @@
 ---
 title: Den som håller fredagspredikan är inte samma person som leder folket i bön
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 449 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -21,5 +21,5 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*B
 Det är dock tillåtet att en man leder bönen och att en annan håller predikan. Görs det utan anledning så går det emot profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*. Enligt den starkaste åsikten bland de lärde är bönen dock giltig.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

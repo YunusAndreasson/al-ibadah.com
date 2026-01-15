@@ -1,7 +1,7 @@
 ---
 title: Bad ensam och sedan anslöt en annan person
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 177 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -25,5 +25,5 @@ Dessa båda *ahādīth[^3]* bevisar vad vi har nämnt tidigare. De bevisar ocks�
 
 [^1]: Att säga Allahu Akbar.
 [^2]: Wudû´
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

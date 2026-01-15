@@ -1,7 +1,7 @@
 ---
 title: Avsåg att be tre bönecykler för witr men ville sedan be mer
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 303 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -19,7 +19,7 @@ description: 'Fråga: En person avsåg att be tre bönecykler som witr men under
 
 [^1]: Rakah.
 [^2]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
-[^3]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^4]: Den avslutande hälsningen i bönen.
 [^5]: Att säga Allahu Akbar.
 

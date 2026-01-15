@@ -1,10 +1,10 @@
 ---
-title: ”Du har välsignat oss” - ett utlåtande om att säga detta
-author: Muhammad bin Salih al-'Uthaymin
+title: ”Du har välsignat oss” – ett utlåtande om att säga detta
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 289 s. ISBN 9960-892-66-2'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Blandade utlåtanden
 original_id: 1203
 description: 'Fråga: Vilket är utlåtandet om att säga: ”Du har välsignat oss” och
@@ -27,7 +27,7 @@ För att ta reda på om välsignelserna är sanna eller falska avgör man detta 
 
 
 [^1]: En rituell rening som görs med hjälp av jord/sand då det inte finns vatten tillgängligt.
-[^2]: Kämpa för Allahs sak.
-[^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
-[^4]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Kämpa för Allāhs sak.
+[^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
+[^4]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

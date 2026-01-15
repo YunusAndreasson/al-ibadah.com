@@ -1,6 +1,6 @@
 ---
 title: Åkallan som sägs när man har läst ut Koranen under ramadan
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 512 s. ISBN 9960-892-66-2'
 categories:
@@ -24,7 +24,7 @@ Om imamen åkallar[^3] så här under den sista delen av natten och han gör det
 
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Du´ā
 [^4]: En åkallan som kan läsas under den nattliga witr-bönen.
 [^5]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.

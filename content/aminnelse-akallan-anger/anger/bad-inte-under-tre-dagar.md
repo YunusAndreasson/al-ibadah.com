@@ -1,7 +1,7 @@
 ---
 title: Bad inte under tre dagar
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 245 s. ISBN saknas'
 categories:
 - Åminnelse, åkallan, ånger...
@@ -17,5 +17,5 @@ description: 'Fråga: Jag bad inte under tre dagar. Efteråt vägledde Allāh mi
 **Svar:** Du behöver inte ta igen dessa böner men du måste ångra dig uppriktigt. Du måste även vara flitig med att inte enbart utföra den obligatoriska bönen utan även *sunnah[^1]* och frivilliga böner. Och Allāh förlåter synder.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

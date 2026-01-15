@@ -1,6 +1,6 @@
 ---
 title: Hur man nedfaller vid Koran-läsning
-author: Ibn 'Abdullāh Ibn Baz
+author: Ibn ʿAbdullāh Ibn Baz
 source: Majmū’ Fatāwa wa Maqālāt Samāhat al-shaykh Ibn Bāz, 11/406
 categories:
 - Bön (Salāh)
@@ -30,13 +30,13 @@ Vi har ovan nämnt att det är föreskrivet att säga detsamma i *sujūd al-til�
 > 
 > [Allāh! Nedteckna en belöning för mig för detta [nedfallande], och ta bort en synd från mig. Spara det för mig och acceptera det från mig precis som du accepterade det från Din tjänare David].” [Berättad av *al-Tirmithi*, 528].
 
-Det som är obligatoriskt att säga är ”*Subhāna Rabbiy al-A’lā* [Lovprisad vare min Herre, den Högste]. Detta är obligatoriskt under nedfallandet i bön. Ytterligare åkallan[^1] eller åminnelse[^5] är rekommenderat. *Sujūd al-tilāwah*, vare sig det sker under eller utanför bön, så är det *sunnah[^6]* men inte obligatoriskt. Bevis för detta har återberättats från profeten, i *hadīth[^4]* från Zayd ibn Thābit och i en *hadīth[^4]* från ‘Umar - må Allāh vara nöjd med honom.
+Det som är obligatoriskt att säga är ”*Subhāna Rabbiy al-A’lā* [Lovprisad vare min Herre, den Högste]. Detta är obligatoriskt under nedfallandet i bön. Ytterligare åkallan[^1] eller åminnelse[^5] är rekommenderat. *Sujūd al-tilāwah*, vare sig det sker under eller utanför bön, så är det *sunnah[^6]* men inte obligatoriskt. Bevis för detta har återberättats från profeten, i *hadīth[^4]* från Zayd ibn Thābit och i en *hadīth[^4]* från ‘Umar – må Allāh vara nöjd med honom.
 
 
 [^1]: Du´ā
 [^2]: Wudû´
 [^3]: Att säga Allahu Akbar.
-[^4]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^5]: Dhikr
-[^6]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^6]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

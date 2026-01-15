@@ -1,7 +1,7 @@
 ---
 title: Be när imamen befinner sig på talarstolen
-author: Ibn 'Abdur-Rahman al-Jibrin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 316 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -18,6 +18,6 @@ description: 'Fråga: Om jag gick in i moskén en fredag när imamen predikade, 
 
 
 [^1]: Rakah.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Tahiyyatul-Msjid.
 

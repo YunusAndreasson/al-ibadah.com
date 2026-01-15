@@ -1,7 +1,7 @@
 ---
 title: Slaktade offerdjuret för at-tamattu’ och hajjul-qirān för ‘eid
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 273 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -18,5 +18,5 @@ description: 'Fråga: Vad anser ni om den som slaktar ett offerdjur för at-tama
 
 
 [^1]: Utför vallfärden och ´umrah samtidigt med en intention.
-[^2]: När man först gör ´umrah och lämnar ihram för att därpå träda in i ihram för vallfärden.
+[^2]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
 

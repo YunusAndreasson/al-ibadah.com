@@ -1,7 +1,7 @@
 ---
 title: Tidpunkter då det inte är tillåtet att be och undantag från dessa
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 291 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -27,6 +27,6 @@ Och Allāh är Beviljaren av framgång.
 [^2]: Den sju långa rundar vandringen runt Kabah.
 [^3]: Fajr
 [^4]: Tahiyyatul-Msjid.
-[^5]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^5]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^6]: Rakah.
 

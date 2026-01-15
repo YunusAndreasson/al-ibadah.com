@@ -1,7 +1,7 @@
 ---
 title: Sova när man är oren efter intim samvaro
-author: Muhammad bin Sālih al-'Uthaymīn
-source: '''Ishratun-Nisā wa Hill al-Khilāfāt az-Zowjiyyah - Page 59'
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: '''Ishratun-Nisā wa Hill al-Khilāfāt az-Zowjiyyah – Page 59'
 categories:
 - Renhet (Tahārah)
 - Ghusl [Den stora tvagningen]

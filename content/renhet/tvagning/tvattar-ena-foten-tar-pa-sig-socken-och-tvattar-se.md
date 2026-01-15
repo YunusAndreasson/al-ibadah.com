@@ -1,6 +1,6 @@
 ---
 title: Tvättar ena foten, tar på sig socken och tvättar sedan den andra foten
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 340 s. ISBN 9960-892-66-2'
 categories:
@@ -20,5 +20,5 @@ Det finns en *hadīth[^2]* som ad-Daraqutni har rapporterat [al-Hakim har autent
 
 
 [^1]: Wudû´
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

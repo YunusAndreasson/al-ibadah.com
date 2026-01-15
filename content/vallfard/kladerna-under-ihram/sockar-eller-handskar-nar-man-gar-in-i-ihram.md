@@ -1,7 +1,7 @@
 ---
 title: Sockar eller handskar när man går in i ihrām
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 130 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -28,7 +28,7 @@ Abū Dawūd och Ibn Mājah har återgivit detta. ad-Daraqutni har återtgivit en
 
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: De delar av kroppen som måste täckas.
 [^4]: Lotuslöv
 [^5]: Säga Labbayk Allahumma Labbayk under vallfärden.

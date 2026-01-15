@@ -1,7 +1,7 @@
 ---
 title: Glömmer bort iqāmah eller al-Fātihah
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 210 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -22,6 +22,6 @@ Och Allāh vet bäst.
 
 
 [^1]: Asr
-[^2]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
+[^2]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 [^3]: Rakah.
 

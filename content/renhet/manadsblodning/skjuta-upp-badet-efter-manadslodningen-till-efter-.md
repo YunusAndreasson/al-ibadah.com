@@ -1,7 +1,7 @@
 ---
 title: Skjuta upp badet efter månadslödningen till efter gryningsbönen
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 299 s. ISBN saknas'
 categories:
 - Renhet (Tahārah)

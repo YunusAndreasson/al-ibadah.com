@@ -1,6 +1,6 @@
 ---
 title: Rengöring av den avlidnes kropp
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 572 s. ISBN 9960-892-66-2'
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Tahiyyatul-Masjid under tidpunkter då bön är förbjudet
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 287 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -32,5 +32,5 @@ Och Allāh är Beviljaren av framgång.
 [^3]: Asr
 [^4]: Rakah.
 [^5]: Den sju långa rundar vandringen runt Kabah.
-[^6]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^6]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

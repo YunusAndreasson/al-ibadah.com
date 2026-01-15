@@ -1,7 +1,7 @@
 ---
 title: Tvekade men utförde inte nedfallandet för glömska
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 278 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -19,7 +19,7 @@ description: 'Fråga: Om jag kände tveksamheter i fråga om bönen och jag inte
 Om han utelämnar en obligatorisk handling eller om han tvekar om huruvida han har gjort den eller inte, eller om han gör något extra, eller om han inte gör en obligatorisk handling på grund av glömska, då måste han nedfalla för glömska[^1]. Detta har förklarats i böckerna om *fiqh[^3]*.
 
 
-[^1]: Sujud as-sahw.
-[^2]: Sujud, nedfallandet när pannan läggs mot marken.
+[^1]: sujūd as-sahw.
+[^2]: sujūd, nedfallandet när pannan läggs mot marken.
 [^3]: Rättslära.
 

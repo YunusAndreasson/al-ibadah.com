@@ -1,7 +1,7 @@
 ---
 title: Göra moskén vacker inför speciella högtider som exempelvis ‘eid-fester
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 54 s. ISBN saknas'
 categories:
 - Fasta (Sawm)
@@ -23,5 +23,5 @@ Att ljussätta moskén och att hänga upp elektriska lampor ovanför dem eller r
 
 [^1]: Tron på att det bara finns en Gud.
 [^2]: Dhikr
-[^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
+[^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

@@ -1,7 +1,7 @@
 ---
 title: Slaktade sitt offerdjur utanför Helgedomen
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 271 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -20,6 +20,6 @@ På samma sätt gjorde hans följeslagare. De slaktade endast deras offerdjur i 
 
 
 [^1]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
-[^2]: När man först gör ´umrah och lämnar ihram för att därpå träda in i ihram för vallfärden.
+[^2]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
 [^3]: Utför vallfärden och ´umrah samtidigt med en intention.
 

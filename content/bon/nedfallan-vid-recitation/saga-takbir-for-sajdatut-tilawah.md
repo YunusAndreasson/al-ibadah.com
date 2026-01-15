@@ -1,7 +1,7 @@
 ---
 title: Säga takbīr för sajdatut-tilawah
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 285 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -24,7 +24,7 @@ Och genom Allāh uppnås framgång.
 [^1]: Att säga Allahu Akbar.
 [^2]: När vissa verser i Koranen reciteras kan man nedfalla.
 [^3]: Den avslutande hälsningen i bönen.
-[^4]: Sujud, nedfallandet när pannan läggs mot marken.
-[^5]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^4]: sujūd, nedfallandet när pannan läggs mot marken.
+[^5]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^6]: Ruku, bugningen när ryggen hålls parallell med marken.
 

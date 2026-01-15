@@ -1,6 +1,6 @@
 ---
 title: Djävulen viskar om stora synder i en mans öra
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 55 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
@@ -29,7 +29,7 @@ Det har rapporterats från Ibn ‘Abbās att en man kom till profeten – över 
 
 *Shaykh ul-Islām* ibn Taymiyah säger i sin bok om *īmān*:
 
-> ”En troende sätts på prov genom viskningar från djävulen, viskningar om otro som ger honom bekymmer. Detta är något som profetens – över honom vare Allāhs frid och välsignelser – följeslagare - må Allāh vara nöjd med dem -har talat om när de sade: *'Allāhs sändebud! En av oss har sådana tankar i sitt inre att han hellre skulle falla ned från himlen än att tala om dem*.' Profeten – över honom vare Allāhs frid och välsignelser – sade då: *'Detta är sann tro*.' I en annan version: *'Han anser det för allvarligt att uttrycka*.' Han sade: 'All lovprisan tillhör Allāh som har begränsat detta [djävulens list] till [onda] viskningar.' Detta gäller när viskningar inträffar tillsammans med stor avsky över dem och när man driver tillbaka dem från hjärtat, då är det en del av sann tro. Detta är som när någon krigar för Allāhs skull och han möter en fiende och strider till dess att han övervunnit honom, för detta är en stor *djihād[^1]* upp till hans ord: Detta är anledningen till att en sökare av kunskap och dyrkan är drabbas av viskningar och osäkerhet som inte påverkar varandra, därför att han [dvs. den andre] inte följer Allāhs lag utan följer istället sina egna begär och försummar åminnelse[^2] n av sin Herre och detta är djävulens stora mål. Detta står i motsats till dem som vänder sig till sin Herre med kunskap och dyrkan, för djävulen är deras fiende och han försöker hindra dem från att dyrka Allāh den Upphöjde.”
+> ”En troende sätts på prov genom viskningar från djävulen, viskningar om otro som ger honom bekymmer. Detta är något som profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem -har talat om när de sade: *'Allāhs sändebud! En av oss har sådana tankar i sitt inre att han hellre skulle falla ned från himlen än att tala om dem*.' Profeten – över honom vare Allāhs frid och välsignelser – sade då: *'Detta är sann tro*.' I en annan version: *'Han anser det för allvarligt att uttrycka*.' Han sade: 'All lovprisan tillhör Allāh som har begränsat detta [djävulens list] till [onda] viskningar.' Detta gäller när viskningar inträffar tillsammans med stor avsky över dem och när man driver tillbaka dem från hjärtat, då är det en del av sann tro. Detta är som när någon krigar för Allāhs skull och han möter en fiende och strider till dess att han övervunnit honom, för detta är en stor *djihād[^1]* upp till hans ord: Detta är anledningen till att en sökare av kunskap och dyrkan är drabbas av viskningar och osäkerhet som inte påverkar varandra, därför att han [dvs. den andre] inte följer Allāhs lag utan följer istället sina egna begär och försummar åminnelse[^2] n av sin Herre och detta är djävulens stora mål. Detta står i motsats till dem som vänder sig till sin Herre med kunskap och dyrkan, för djävulen är deras fiende och han försöker hindra dem från att dyrka Allāh den Upphöjde.”
 
 Detta har nämnts på sidan 147 i den indiska utgåvan.
 
@@ -55,6 +55,6 @@ Mitt råd kan kanske summera enligt följande:
 Jag ber Allāh den Upphöjde att han ger dig säkerhet och skydd från allt ont och förhatligt.
 
 
-[^1]: Kämpa för Allahs sak.
+[^1]: Kämpa för Allāhs sak.
 [^2]: Dhikr
 

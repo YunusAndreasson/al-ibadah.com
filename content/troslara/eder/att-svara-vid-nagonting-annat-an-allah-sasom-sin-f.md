@@ -4,7 +4,7 @@ title: Att svära vid någonting annat än Allāh såsom sin far eller en ledare
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah al-Dā’imah, 1/231
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Eder
 original_id: 542
 description: 'Fråga: I scoutlöftet säger man: ”Jag svär vid min ära att jag kommer
@@ -25,5 +25,5 @@ För det tredje. Ens handlingar ska vara enligt Allāhs lag och det är inte til
 Och Allāh är källan till all styrka.
 
 
-[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
+[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

@@ -1,6 +1,6 @@
 ---
 title: Tre dagars fasta varje månad när det är fullmåne
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: Majmoo’ Fatāwa al-Shaykh Ibn ‘Uthaymīn, fråga 376
 categories:
 - Fasta (Sawm)

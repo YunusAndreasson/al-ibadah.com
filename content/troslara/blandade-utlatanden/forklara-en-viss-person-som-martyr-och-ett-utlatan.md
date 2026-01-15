@@ -1,11 +1,11 @@
 ---
 title: Förklara en viss person som martyr och ett utlåtande om någon som drunknar
  i onyktert tillstånd
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 195 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Blandade utlåtanden
 original_id: 90
 description: 'Fråga: Jag har läst en hadīth från den hedervärde följeslagaren Abū
@@ -20,7 +20,7 @@ Så kommer den som drunknar var onykter att nedtecknas som en martyr, då denne 
 
 Innan jag svarar på frågan skulle jag vilja påpeka att i dessa dagar används ordet martyr alldeles för lättvindigt av många. Det kan innebära att även de som inte kan förklaras som martyrer kallas för det. Detta är förbjudet. Det är inte tillåtet att tillskriva någon martyrskap, utom om profeten – över honom vare Allāhs frid och välsignelser – har bekräftat det.
 
-Profetens – över honom vare Allāhs frid och välsignelser – vittnesmål om någons martyrskap kan delas i två kategorier. Den första är när han beskriver en viss person som martyr, som i den autentiska *hadīth[^1]* i vilken han klättrar upp på Uhud-berget tillsammans med Abū Bakr, 'Umar och ‘Uthmān. När de befinner sig uppe på berget skakar det, så profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Stå stadigt, Uhud, för på dig finns en Profet, en siddīq och två martyrer*.” [*al-Bukhārī* 3675, *Abū Dawūd* 4651 och *Ahmad* 5:331, 338]
+Profetens – över honom vare Allāhs frid och välsignelser – vittnesmål om någons martyrskap kan delas i två kategorier. Den första är när han beskriver en viss person som martyr, som i den autentiska *hadīth[^1]* i vilken han klättrar upp på Uhud-berget tillsammans med Abū Bakr, ʿUmar och ‘Uthmān. När de befinner sig uppe på berget skakar det, så profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Stå stadigt, Uhud, för på dig finns en Profet, en siddīq och två martyrer*.” [*al-Bukhārī* 3675, *Abū Dawūd* 4651 och *Ahmad* 5:331, 338]
 
 Vi tror på Allāhs sändebuds vittnesmål och den vars martyrskap han har berättat om bekräftar vi.
 
@@ -30,7 +30,7 @@ Den andra kategorin är de vars martyrskap profeten – över honom vare Allāhs
 
 Detta bevisar att det som kan se uppenbart ut är förrädiskt och att domen inför Nästa Liv kommer att baseras på sanning och inte på det som sett uppenbart ut. Historien om denne man som al-Bukhārī återger verkar väldigt tydlig eftersom följeslagarna prisade honom enligt vad som var uppenbart från hans handlingar, men profeten – över honom vare Allāhs frid och välsignelser – sade till dem: ”*Han är en av Helvetets folk*.”
 
-Några av följeslagarna följde och höll sig nära honom och det sista som denne man gjorde var att han tog livet av sig med sitt svärd. Därför bedömer vi inte en persons status i Nästa Liv enligt vad som verkar vara uppenbart utan vi nämner endast haditherna i generella termer – och Allāh vet bäst om dessa utlåtanden kan tillämpas på denne man [som drunknade]. Författaren till *al-Fath* [*Fathul-Bāri*: Förklaringen av *Sahīh al-Bukhārī* av Ibn Hajar al-'Asqalani] nämner att 'Umar bin al-Khattab tilltalade folket och sade:
+Några av följeslagarna följde och höll sig nära honom och det sista som denne man gjorde var att han tog livet av sig med sitt svärd. Därför bedömer vi inte en persons status i Nästa Liv enligt vad som verkar vara uppenbart utan vi nämner endast haditherna i generella termer – och Allāh vet bäst om dessa utlåtanden kan tillämpas på denne man [som drunknade]. Författaren till *al-Fath* [*Fathul-Bāri*: Förklaringen av *Sahīh al-Bukhārī* av Ibn Hajar al-'Asqalani] nämner att ʿUmar bin al-Khattab tilltalade folket och sade:
 
 > ”Ni säger att den-och-den blev martyr i era slag och att den-och-den avled som martyr och det kan vara som så att han kastades från detta berg. Så säg inte detta! Säg i stället som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – gjorde: 'Den som avled för Allāhs sak eller dödas som en martyr.'” [*Muslim* 1915 och *Ahmad* 2:522]
 
@@ -39,6 +39,6 @@ Detta är vad han sade i sin *al-Fath* och det är en *hasan hadīth[^1]*. Därm
 Vi ber Allāh den Upphöjde att stärka oss med stadiga ord och [att Han] förädlar våra hjärtan och handlingar. /.../
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^2]: Kämpa för Allahs sak.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Kämpa för Allāhs sak.
 

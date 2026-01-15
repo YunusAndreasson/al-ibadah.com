@@ -1,6 +1,6 @@
 ---
 title: Ansiktsslöja
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 442 s. ISBN 9960-892-66-2'
 categories:
@@ -24,6 +24,6 @@ Ansiktet döljer hon medan hon sitter och står. När hon sedan vill nedfalla[^2
 
 
 [^1]: Släkting som det inte är tillåtet att gifta sig med.
-[^2]: Sujud, nedfallandet när pannan läggs mot marken.
-[^3]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: sujūd, nedfallandet när pannan läggs mot marken.
+[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

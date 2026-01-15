@@ -1,7 +1,7 @@
 ---
 title: Tvekan om hur många bönecykler som har betts
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 275 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -28,8 +28,8 @@ Uppstår tvivlet i nästa bönecykel, då anses denna bönecykel[^1] ta den för
 
 
 [^1]: Rakah.
-[^2]: Sujud, nedfallandet när pannan läggs mot marken.
+[^2]: sujūd, nedfallandet när pannan läggs mot marken.
 [^3]: Den avslutande hälsningen i bönen.
-[^4]: Sujud as-sahw.
+[^4]: sujūd as-sahw.
 [^5]: Ruku, bugningen när ryggen hålls parallell med marken.
 

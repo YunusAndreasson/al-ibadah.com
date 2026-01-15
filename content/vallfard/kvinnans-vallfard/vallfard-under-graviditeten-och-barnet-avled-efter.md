@@ -1,7 +1,7 @@
 ---
 title: Vallfärd under graviditeten och barnet avled efter hemkomsten
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-'Ilmiyyah wal-Iftā - Volym 11,
+source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-ʿilmiyyah wal-Iftā – Volym 11,
  sida 16, fatwa 2177
 categories:
 - Vallfärd (Hajj)

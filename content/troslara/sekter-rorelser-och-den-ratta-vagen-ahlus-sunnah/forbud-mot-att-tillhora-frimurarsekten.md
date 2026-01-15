@@ -1,11 +1,11 @@
 ---
 title: Förbud mot att tillhöra frimurarsekten
-author: '''Abdullāh bin Humaid'
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: 'ʿAbdullāh bin Humaid'
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 325 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
-- Sekter, rörelser och den rätta vägen - ahlus-sunnah
+- Troslära (ʿAqīdah)
+- Sekter, rörelser och den rätta vägen – ahlus-sunnah
 original_id: 133
 description: 'Fråga: Är det tillåtet att gå med i frimurarsekten? Svar: Frimurarrörelsen
  är ett hemligt sällskap som under vissa tidpunkter döljer sin organisation och vid

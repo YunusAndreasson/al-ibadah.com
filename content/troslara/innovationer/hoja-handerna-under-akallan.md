@@ -1,11 +1,11 @@
 ---
 title: Höja händerna under åkallan
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 277 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Innovationer
 original_id: 686
 description: 'Fråga: Jag ser vissa människor höja deras händer när imamen åkallar
@@ -25,7 +25,7 @@ Allāhs sändebud informerade oss om den okammade och smutsiga resenären, som h
 
 > ”Min Herre! Min Herre!” Men hans mat är otillåten, hans dryck är otillåten, hans kläder är otillåtna och han har införskaffat levebröd från det som är otillåtet. Allāhs sändebud har om honom sagt: ”Hur kan han då besvaras!” [*Muslim* 1015]
 
-Det finns många autentiska återberättelser i vilka profeten - över honom vare Guds frid och välsignelser - höjer sina händer. Under predikan för regnbönen, under *tashrīq*-dagarna vid *Jamarāt* under hans sista vallfärd och vid många fler tillfällen.
+Det finns många autentiska återberättelser i vilka profeten – över honom vare Guds frid och välsignelser – höjer sina händer. Under predikan för regnbönen, under *tashrīq*-dagarna vid *Jamarāt* under hans sista vallfärd och vid många fler tillfällen.
 
 Icke desto mindre bör vi inte höja våra händer vid dessa tillfällen där vi inte har några belägg för att Allāhs sändebud höjde sina händer. Därför bör vi följa profeten och inte höja våra händer under fredagsbönen, *'eid*, åkallan[^1] mellan de båda nedfallanden[^1] i bönen, åkallan[^1] under slutet av bönen och i åkallan[^1] efter de fem obligatoriska bönerna.
 
@@ -35,7 +35,7 @@ Allāh den Allsmäktige säger: ”*I Guds Sändebud har ni ett gott föredöme*
 
 
 [^1]: Du´ā
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: En åkallan som kan läsas under den nattliga witr-bönen.
 [^4]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 

@@ -1,11 +1,11 @@
 ---
 title: Utsåg profeten ’Ali till kalif?
-author: Ibn 'Abdullah Ibn Bāz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ʿAbdullah Ibn Bāz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 78 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
-- Sekter, rörelser och den rätta vägen - ahlus-sunnah
+- Troslära (ʿAqīdah)
+- Sekter, rörelser och den rätta vägen – ahlus-sunnah
 original_id: 56
 description: 'Fråga: Vilket är utlåtandet om de som påstår att profeten – över honom
  vare Allāhs frid och välsignelser – rekommenderade ’Ali som kalif? Svar: Detta
@@ -33,5 +33,5 @@ Allāh har [...] skyddat Muhammads samfund från att enas om falskhet. Allāhs s
 Det är omöjligt att den bästa och den mest hedervärda generationen i detta samfund skulle vara eniga om något falskt; vilket i detta fall är att Abū Bakrs, ’Umars och ‘Uthmāns kalifat var ogiltiga. Ingen som tror på Allāh och Återuppståndelsens Dag skulle göra ett sådant påstående och ej heller skulle någon med minsta lilla förståelse av islam göra det.
 
 
-[^1]: Kämpa för Allahs sak.
+[^1]: Kämpa för Allāhs sak.
 

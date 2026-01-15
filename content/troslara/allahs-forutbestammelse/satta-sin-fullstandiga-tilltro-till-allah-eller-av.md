@@ -1,11 +1,11 @@
 ---
 title: Sätta sin fullständiga tilltro till Allāh eller även anstränga sig själv
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 92 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Allāhs förutbestämmelse
 original_id: 1076
 description: 'Fråga: Om man gör vad som är nödvändigt för att uppnå något, upphäver
@@ -21,7 +21,7 @@ description: 'Fråga: Om man gör vad som är nödvändigt för att uppnå någo
 
 Mose sade till sitt folk:
 
-> ”Lita till Gud, mitt folk, om ni tror på Honom och om ni har underkastat er Hans vilja [helt och fullt]!’ De svarade: ’Vi litar helt till Gud’, och de bad: ’Herre, gör oss inte till [Dina redskap om] Du sätter dessa onda människor på prov; rädda oss av nåd från dessa förnekare av sanningen.’” [Koranen 10:84-86]
+> ”Lita till Gud, mitt folk, om ni tror på Honom och om ni har underkastat er Hans vilja [helt och fullt]!’ De svarade: ’Vi litar helt till Gud’, och de bad: ’Herre, gör oss inte till [Dina redskap om] Du sätter dessa onda människor på prov; rädda oss av nåd från dessa förnekare av sanningen.’” [Koranen 10:84–86]
 
 Allāh den Upphöjde säger:
 

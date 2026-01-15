@@ -1,8 +1,8 @@
 ---
 title: Fick sin månadsblödning under tawāful-ifādhah och fullföljde den på grund av
  blyghet
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 160 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -13,7 +13,7 @@ description: 'Fråga: En kvinna reste för att vallfärda och hon fick sin måna
  gick in i ihrām utan att hon hade b...'
 ---
 
-**Fråga:** En kvinna reste för att vallfärda och hon fick sin månadsblödning fem dagar innan datumet för hennes resa. När hon nådde *mīqāt[^1]* gjorde hon *ghusl[^2]* och gick in i *ihrām[^3]* utan att hon hade blivit ren efter månadsblödningen. När hon sedan nådde Mecka så stannade hon utanför helgedomen och hon utförde inte några av riterna som tillhör vallfärden och *'umrah[^4]*. Därefter var hon i Mina två dagar; hon blev ren, gjorde *ghusl[^2]* och utförde i rent tillstånd alla riter för *'umrah[^4]*. Sedan återkom hennes blödning då hon utförde *tawāf[^5] ul-ifādhah* för vallfärden. Men hon kände sig blyg och hon fullföljde vallfärdsriterna. Hon berättade inte för sin förmyndare förrän de hade kommit hem. Vad gäller i detta fall?
+**Fråga:** En kvinna reste för att vallfärda och hon fick sin månadsblödning fem dagar innan datumet för hennes resa. När hon nådde *mīqāt[^1]* gjorde hon *ghusl[^2]* och gick in i *ihrām[^3]* utan att hon hade blivit ren efter månadsblödningen. När hon sedan nådde Mecka så stannade hon utanför helgedomen och hon utförde inte några av riterna som tillhör vallfärden och *ʿumrah[^4]*. Därefter var hon i Mina två dagar; hon blev ren, gjorde *ghusl[^2]* och utförde i rent tillstånd alla riter för *ʿumrah[^4]*. Sedan återkom hennes blödning då hon utförde *tawāf[^5] ul-ifādhah* för vallfärden. Men hon kände sig blyg och hon fullföljde vallfärdsriterna. Hon berättade inte för sin förmyndare förrän de hade kommit hem. Vad gäller i detta fall?
 
 **Svar:** Gick det till som frågeställaren beskriver måste kvinnan bege sig till Mecka och utföra *tawāf[^5]* vid Ka’bah; sju varv med avsikten att det är för hennes vallfärd. På detta sätt tar hon igen den *tawāf[^5]* som hon gjorde då hon inte var ren. Efter *tawāf[^5]* ber hon två bönecykler[^6] bakom platsen där Abraham stod, eller vid någon annan plats i helgedomen. Med detta är hennes vallfärd fullständig.
 
@@ -31,6 +31,6 @@ Vi ber Allāh att Han accepterar hennes ånger.
 [^5]: Den sju långa rundar vandringen runt Kabah.
 [^6]: Rakah.
 [^7]: Vandringen mellan as-Safa och al-Marwa.
-[^8]: När man först gör ´umrah och lämnar ihram för att därpå träda in i ihram för vallfärden.
+[^8]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
 [^9]: Utför vallfärden och ´umrah samtidigt med en intention.
 

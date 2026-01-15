@@ -1,7 +1,7 @@
 ---
 title: Besöker en byggnad jämte moskén under månadsblödningen
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 115 s. ISBN saknas'
 categories:
 - Renhet (Tahārah)
@@ -27,5 +27,5 @@ Pelare som delar raderna skadar de inte bönen, men om det är möjligt att plac
 Och Allāh är Den som ger framgång.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

@@ -1,6 +1,6 @@
 ---
 title: Bära klädesplagg som det finns bilder på
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 257 s. ISBN 9960-892-66-2'
 categories:
@@ -19,5 +19,5 @@ description: 'Fråga: Vilket är utlåtandet om att bära klädesplagg på vilka
 Och Allāh vet bättre.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

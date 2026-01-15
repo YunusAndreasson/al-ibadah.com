@@ -1,11 +1,11 @@
 ---
 title: Vara i sällskap med dem som inte ber och de som hånar religionen
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 381 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Shirk [Att sätta något vid Allāhs sida]
 original_id: 1535
 description: 'Fråga: Får en muslim umgås med en person som oftast inte ber? Svar: Det
@@ -32,5 +32,5 @@ Detta bevisar att den som ber inte ber får avrättas. Han måste avrättas om h
 Vi ber Allāh att Han förbättrar vår situation och att Han gör oss stadiga i religionen. Han är Den som hör allt och som är evigt nära.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

@@ -1,9 +1,9 @@
 ---
 title: Söka kunskap – korta råd
-author: Muhammad bin Sālih al-'Uthaymīn
-source: Kitābul-'Ilm – sida 119, fråga 17
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: Kitābul-ʿilm – sida 119, fråga 17
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Förståelse av islam
 original_id: 599
 description: 'Fråga. I korta drag – hur gör man för att söka kunskap? Må Allāh belöna
@@ -23,5 +23,5 @@ description: 'Fråga. I korta drag – hur gör man för att söka kunskap? Må 
 6. Diskutera de frågor som uppkommer med din shaykh eller någon annan som är känd för sin kunskap och praktiserar religionen på ett korrekt sätt.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

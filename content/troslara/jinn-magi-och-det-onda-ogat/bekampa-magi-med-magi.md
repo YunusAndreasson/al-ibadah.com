@@ -1,10 +1,10 @@
 ---
 title: Bekämpa magi med magi
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 227 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Jinn, magi och det onda ögat
 original_id: 108
 description: 'Fråga: Jag har en vän vars fru har utsatts för magi och ingen medicin
@@ -25,7 +25,7 @@ Djävulens hantverk är sådant som består av magi. Det finns ingen invändan m
 När det gäller tron på magi, då är den av två typer. Den första är att man tror att den har en inverkan, och det finns ingen invändan mot det, då det är ett faktum. Den andra typen är att tro på och acceptera den, vilket är förbjudet.
 
 
-[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
+[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^2]: Du´ā
 [^3]: Behandling av magi, som ofta består av mot-magi.
 

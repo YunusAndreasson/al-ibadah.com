@@ -1,10 +1,10 @@
 ---
 title: Paradisets läge
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 181 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Paradiset och Helvetet
 original_id: 87
 description: 'Fråga: [Vad vet vi om Paradisets vidd?] Svar: Innan vi svarar denna
@@ -23,7 +23,7 @@ Det som frågeställaren menar när han säger att skapelsen inte innehåller n�
 Utöver himlarna och jorden finns det finns en värld som endast Allāh känner till. Vi känner även till vad Han den Upphöjde har lärt oss, som *'Arsh[^3]* och *Kursi[^2]*; och *'Arsh[^3]* är det högsta av alla skapade ting. Allāh den Upphöjde reste sig över *'Arsh[^3]* på ett sätt som passar Hans Majestät och Hans Storhet.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
-[^2]: Allahs fotpall.
-[^3]: Allahs tron.
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Allāhs fotpall.
+[^3]: Allāhs tron.
 

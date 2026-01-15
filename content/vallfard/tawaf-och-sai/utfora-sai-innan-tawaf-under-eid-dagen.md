@@ -1,7 +1,7 @@
 ---
 title: Utföra sa’ī innan tawāf under ‘eid-dagen
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 204 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -21,5 +21,5 @@ Då denna *hadīth[^3]* är generell finns det ingen skillnad mellan den som gö
 
 [^1]: Vandringen mellan as-Safa och al-Marwa.
 [^2]: Den sju långa rundar vandringen runt Kabah.
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

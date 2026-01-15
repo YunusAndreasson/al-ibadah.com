@@ -1,7 +1,7 @@
 ---
 title: Bönen för ihrām är inte ett villkor för att den ska vara korrekt
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 117 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)

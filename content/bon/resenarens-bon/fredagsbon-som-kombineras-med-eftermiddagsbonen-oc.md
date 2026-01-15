@@ -1,7 +1,7 @@
 ---
 title: Fredagsbön som kombineras med eftermiddagsbönen och om det är tillåtet att
  kombinera böner om man är utanför sin stad
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 546 s. ISBN 9960-892-66-2'
 categories:
@@ -21,7 +21,7 @@ De som befinner sig utanför deras städer får slå ihop bönerna om de uppehå
 
 
 [^1]: Asr
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Dhuhr
 [^4]: Maghrib
 [^5]: Isha

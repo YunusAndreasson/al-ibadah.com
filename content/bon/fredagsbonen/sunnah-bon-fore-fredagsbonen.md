@@ -1,6 +1,6 @@
 ---
 title: Sunnah-bön före fredagsbönen
-author: Ibn 'Abdullah Ibn Baz
+author: Ibn ʿAbdullah Ibn Baz
 source: Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh al-‘Allāmah ‘Abd
  al-‘Azīz ibn ‘Abd-Allāh ibn Bāz, del 12, vol. 386
 categories:
@@ -25,6 +25,6 @@ Profeten – över honom vare Allāhs frid och välsignelser – brukade be två
 Må Allāh hjälpa oss alla med att göra det som gör Honom nöjd.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Rakah.
 

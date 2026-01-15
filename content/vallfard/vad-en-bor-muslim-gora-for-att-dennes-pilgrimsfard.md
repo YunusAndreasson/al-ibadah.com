@@ -1,8 +1,8 @@
 ---
 title: Vad en bör muslim göra för att dennes pilgrimsfärd ska accepteras, om Allāh
  vill
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Fatāwa Ibn ''Uthaymīn, 21/20 Muhammed Knut Bernström (1421), Koranens budskap
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Fatāwa Ibn ʿUthaymīn, 21/20 Muhammed Knut Bernström (1421), Koranens budskap
  . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
 - Vallfärd (Hajj)
@@ -44,7 +44,7 @@ Pilgrimen bör även vara vänlig, generös och lättsam med sina tillgångar oc
 Detta är det som är obligatoriskt för en pilgrim eller det som denne måste utföra. Det bästa sättet för att uppnå detta är att resa med någon kunnig som kan påminna en om ens religion. Är detta inte möjligt bör man läsa böcker från de lärda innan man börjar vallfärden. Då dyrkar man Allāh med kunskap.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^3]: Den sju långa rundar vandringen runt Kabah.
 

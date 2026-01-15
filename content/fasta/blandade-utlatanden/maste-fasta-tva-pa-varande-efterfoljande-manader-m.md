@@ -1,7 +1,7 @@
 ---
 title: Måste fasta två på varandra efterföljande månader men bryter fastan därunder
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 333 s. ISBN saknas'
 categories:
 - Fasta (Sawm)
@@ -21,5 +21,5 @@ Att fasta mindre än 60 dagar är inte tillräckligt om det inte har bekräftats
 Och framgång kommer från Allāh.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

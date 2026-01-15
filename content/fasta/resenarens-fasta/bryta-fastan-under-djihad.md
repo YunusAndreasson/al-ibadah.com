@@ -1,7 +1,7 @@
 ---
 title: Bryta fastan under djihād
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 290 s. ISBN saknas'
 categories:
 - Fasta (Sawm)
@@ -18,5 +18,5 @@ description: 'Fråga: Får de som strider mot fienden bryta fastan under ramadan
 
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
-[^2]: Kämpa för Allahs sak.
+[^2]: Kämpa för Allāhs sak.
 

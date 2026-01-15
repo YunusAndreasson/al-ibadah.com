@@ -1,6 +1,6 @@
 ---
 title: Säga Basmalah högt
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 466 s. ISBN 9960-892-66-2'
 categories:
@@ -20,5 +20,5 @@ Men det som har bevittnats om profeten – över honom vare Allāhs frid och vä
 
 
 [^1]: Att säga Bismillah.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

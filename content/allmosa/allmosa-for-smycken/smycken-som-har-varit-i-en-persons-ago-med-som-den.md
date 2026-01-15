@@ -1,8 +1,8 @@
 ---
 title: Smycken som har varit i en persons ägo med som denne person inte betalt allmosa
  för
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 179 s. ISBN saknas'
 categories:
 - Allmosa (Zakāh)
@@ -21,5 +21,5 @@ Och Allāh är Givaren av framgång.
 
 
 [^1]: En vikt likvärdig med ungefär 4.5g.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

@@ -1,10 +1,10 @@
 ---
 title: Skillnaden mellan vin och alkohol i denna världen och den Nästa
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Paradiset och Helvetet
 original_id: 1659
 description: 'Fråga: Vi vet alla att alkohol är förbjudet för oss i denna världen

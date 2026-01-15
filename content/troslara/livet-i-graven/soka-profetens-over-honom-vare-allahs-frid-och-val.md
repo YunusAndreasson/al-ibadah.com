@@ -2,11 +2,11 @@
 title: Söka profetens – över honom vare Allāhs frid och välsignelser – hjälp och åkalla
  honom, och hans liv i graven
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 103 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Livet i graven
 original_id: 919
 description: 'Fråga: Är profetens – över honom vare Allāhs frid och välsignelser
@@ -23,7 +23,7 @@ description: 'Fråga: Är profetens – över honom vare Allāhs frid och välsi
 > 
 > 
 > 
-> ”Allt på jorden ska förgå; men din Herre förblir i evighet i Sitt majestät och Sin härlighet.” [Koranen 55:26-27]
+> ”Allt på jorden ska förgå; men din Herre förblir i evighet i Sitt majestät och Sin härlighet.” [Koranen 55:26–27]
 > 
 > 
 > 

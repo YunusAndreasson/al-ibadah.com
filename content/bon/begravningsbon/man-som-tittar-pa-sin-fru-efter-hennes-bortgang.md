@@ -1,6 +1,6 @@
 ---
 title: Man som tittar på sin fru efter hennes bortgång
-author: Ibn 'Abdullāh Ibn Baz
+author: Ibn ʿAbdullāh Ibn Baz
 source: Fatwa al-Marah
 categories:
 - Bön (Salāh)

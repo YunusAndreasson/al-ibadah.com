@@ -1,7 +1,7 @@
 ---
 title: Vallfärd för sin moders eller faders räkning
-author: Muhammad bin Sālih al-'Uthaymīn
-source: Fatāwa Ibn 'Uthaymīn 21/134
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: Fatāwa Ibn ʿUthaymīn 21/134
 categories:
 - Vallfärd (Hajj)
 - Utse någon annan som vallfärdar

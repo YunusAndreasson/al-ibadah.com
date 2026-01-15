@@ -1,6 +1,6 @@
 ---
 title: Stod upp i stället för att sitta kvar i tashahhud
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 507 s. ISBN 9960-892-66-2'
 categories:
@@ -18,6 +18,6 @@ description: 'Fråga: En troende som bad stod upp i stället för att sitta ned 
 
 
 [^1]: Vad man läser i den sittande positionen under bönen.
-[^2]: Sujud as-sahw.
+[^2]: sujūd as-sahw.
 [^3]: Den avslutande hälsningen i bönen.
 

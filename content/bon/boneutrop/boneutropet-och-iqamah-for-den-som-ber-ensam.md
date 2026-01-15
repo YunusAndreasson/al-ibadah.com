@@ -1,6 +1,6 @@
 ---
 title: Böneutropet och iqāmah för den som ber ensam
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 404 s. ISBN 9960-892-66-2'
 categories:
@@ -21,8 +21,8 @@ Vad som bevisar att det är högst föredraget att ropa ut till bön är en *had
 > ”Jag hörde Allāhs sändebud säga: 'Allāh är nöjd med en fåraherde som ropar ut till bön från bergets topp. Allāh säger: 'Se på Min tjänare. Han kallar till bön och ber den och fruktar Mig. Så Jag förlåter honom och tillåter honom Paradiset.'” [Imam Ahmad 4:145,157]
 
 
-[^1]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Dhikr
-[^4]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

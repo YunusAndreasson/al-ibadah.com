@@ -1,8 +1,8 @@
 ---
 title: Imamen måste följas om man inte har hunnit läsa Fātihah al-Kitāb till sitt
  slut
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 198 s. ISBN saknas'
 categories:
 - Bön (Salāh)

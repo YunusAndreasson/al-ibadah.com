@@ -1,7 +1,7 @@
 ---
 title: Den som ångrar sig från en synd är likt den som inte syndat
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 259 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -24,7 +24,7 @@ Din ånger tillintetgör tidigare synder. Detta inkluderar dina böner och att d
 > 
 > 
 > 
-> ”De som, om de begår en skamlös handling eller [på annat sätt] tillfogat sig själv orätt, minns Gud och ber Honom om förlåtelse för sina synder – vem kan förlåta synderna utom Gud? – och som inte fortsätter att begå sådana handlingar mot bättre vetande. Den lön [som väntar] dem ska förbli till evig tid – en härlig belöning för dem som arbetat och strävat!” [Koranen 3:135-136]
+> ”De som, om de begår en skamlös handling eller [på annat sätt] tillfogat sig själv orätt, minns Gud och ber Honom om förlåtelse för sina synder – vem kan förlåta synderna utom Gud? – och som inte fortsätter att begå sådana handlingar mot bättre vetande. Den lön [som väntar] dem ska förbli till evig tid – en härlig belöning för dem som arbetat och strävat!” [Koranen 3:135–136]
 
 Baserat på utlåtandet i denna vers behöver du inte ta igen de böner och den fasta du tidigare inte utfört. Men fortsätt att ångra dig, be Allāh om förlåtelse och utför goda handlingar. Allāh den Allsmäktige förlåter de som ångrar sig.
 

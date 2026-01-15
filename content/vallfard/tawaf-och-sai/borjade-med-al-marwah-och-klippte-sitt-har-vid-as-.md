@@ -1,7 +1,7 @@
 ---
 title: Började med al-Marwah och klippte sitt hår vid as-Safa
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 205 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)

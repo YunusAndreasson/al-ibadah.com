@@ -1,7 +1,7 @@
 ---
 title: Kvinna som bär sockar eller handskar
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 130 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -33,6 +33,6 @@ Och Allāh är den som beviljar framgång.
 [^2]: Släkting som det inte är tillåtet att gifta sig med.
 [^3]: Den sju långa rundar vandringen runt Kabah.
 [^4]: Vandringen mellan as-Safa och al-Marwa.
-[^5]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^5]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^6]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
 

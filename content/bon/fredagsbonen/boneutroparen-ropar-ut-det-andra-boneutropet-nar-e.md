@@ -1,7 +1,7 @@
 ---
 title: Böneutroparen ropar ut det andra böneutropet när en person går in i moskén
  – om han då bör be hälsningsbönen för moskén
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 558 s. ISBN 9960-892-66-2'
 categories:
@@ -19,5 +19,5 @@ description: 'Fråga: Om någon går in i moskén under fredagen medan böneutro
 
 
 [^1]: Tahiyyatul-Msjid.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

@@ -1,6 +1,6 @@
 ---
 title: Grupp som ber tillsammans hemma i stället för att gå till moskén
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 528 s. ISBN 9960-892-66-2'
 categories:
@@ -23,5 +23,5 @@ Detta trots att dessa kan ha bett i deras egna hem.
 Denna grupp måste då be med församlingen om de inte befinner sig långt bort från den och det skulle vara en svårighet för dem att komma dit.
 
 
-[^1]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
+[^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 

@@ -1,7 +1,7 @@
 ---
 title: Sjuklingens bön
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 439 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -28,8 +28,8 @@ description: 'Fråga: Hur ber den sjuke? Svar: Den sjuke måste be de
 
 [^1]: Ruku, bugningen när ryggen hålls parallell med marken.
 [^2]: Riktningen mot Kabah i Mecka som bönen utförs mot.
-[^3]: Sujud, nedfallandet när pannan läggs mot marken.
-[^4]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: sujūd, nedfallandet när pannan läggs mot marken.
+[^4]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^5]: Att säga Allahu Akbar.
 [^6]: Dhuhr
 [^7]: Asr

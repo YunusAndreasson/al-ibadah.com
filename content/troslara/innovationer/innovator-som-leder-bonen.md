@@ -1,10 +1,10 @@
 ---
 title: Innovatör som leder bönen
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 397 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Innovationer
 original_id: 1572
 description: 'Fråga: Är bön bakom en innovatör eller någon som låter klädesplagget
@@ -29,6 +29,6 @@ Han har även sagt: ”*Det bästa talet är Allāhs skrift och den bästa vägl
 Vi ber Allāh att Han skyddar oss och Muslimerna från innovationer, synder och olydnad.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Byxor som bärs under det yttre plagget.
 

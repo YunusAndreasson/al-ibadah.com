@@ -1,7 +1,7 @@
 ---
 title: Gemensam åkallan vid Arafat och under andra tillfällen
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 216 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -19,9 +19,9 @@ description: 'Fråga: Vilket är utlåtandet om att samlas för åkallan under A
 
 Och Han den Upphöjde har sagt: ”*Och – [du som är troende] – åkalla i tysthet din Herre morgon och afton, ödmjukt och med fruktan*.” [Koranen 7:205]
 
-I *Sahīh al-Bukhārī* och *Sahīh Muslim* återges att Abū Mūsa al-Ash'ari har sagt att folket höjde deras röster i åkallan[^1], så Allāhs sändebud – över honom vare Allāhs frid och välsignelser – sade: ”*Troende! Ta det lugnt, för sannerligen kallar ni inte på någon som är död eller frånvarande. Den som ni åkallar[^1] är sannerligen Allhörande, Närmst. Han är er närmre än ert riddjurs nacke*.” [*al-Bukhārī* 2992 och *Muslim* 2704]
+I *Sahīh al-Bukhārī* och *Sahīh Muslim* återges att Abū Mūsa al-Ashʿari har sagt att folket höjde deras röster i åkallan[^1], så Allāhs sändebud – över honom vare Allāhs frid och välsignelser – sade: ”*Troende! Ta det lugnt, för sannerligen kallar ni inte på någon som är död eller frånvarande. Den som ni åkallar[^1] är sannerligen Allhörande, Närmst. Han är er närmre än ert riddjurs nacke*.” [*al-Bukhārī* 2992 och *Muslim* 2704]
 
-Allāh prisade Zakariya för detta. Han den Upphöjde sade: ”*[Detta är] en berättelse om hur din Herre bevisade Sin tjänare Sakarias Sin nåd. När han i en tyst [innerlig] bön bad till sin Herre*.” [Koranen 19:2-3]
+Allāh prisade Zakariya för detta. Han den Upphöjde sade: ”*[Detta är] en berättelse om hur din Herre bevisade Sin tjänare Sakarias Sin nåd. När han i en tyst [innerlig] bön bad till sin Herre*.” [Koranen 19:2–3]
 
 Allāh har även sagt: ”*Er Herre säger: 'Be till Mig, så ska Jag besvara er [bön]*.” [Koranen 40:60]
 
@@ -40,7 +40,7 @@ Och Allāh är den som ger framgång.
 [^4]: Dhuhr
 [^5]: Asr
 [^6]: Riktningen mot Kabah i Mecka som bönen utförs mot.
-[^7]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^7]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^8]: Säga Labbayk Allahumma Labbayk under vallfärden.
 [^9]: En åkallan som kan läsas under den nattliga witr-bönen.
 

@@ -1,7 +1,7 @@
 ---
 title: Vad en muhrim måste undvika
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 133 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -29,6 +29,6 @@ description: 'Fråga: Vilka är de saker som en muhrim måste undvika? Svar: En 
 En *muhrim[^1]* har förbjudits detta tills han träder ur sin *ihrām[^2]*. I det första stadiet där *ihrām[^2]* avlägsnas blir dessa förbjudna saker tillåtna utom intim samvaro. När sedan det andra stadiet är avklarat blir intim samvaro tillåtna.
 
 
-[^1]: Någon som har trätt in i ihram.
+[^1]: Någon som har trätt in i ihrām.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 

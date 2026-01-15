@@ -1,7 +1,7 @@
 ---
 title: Imamen väntar på att de bakom ska buga
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 325 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -19,5 +19,5 @@ description: 'Fråga: Måste imamen vänta om han hör några eftersläntrare ko
 
 [^1]: Vad man läser i den sittande positionen under bönen.
 [^2]: Ruku, bugningen när ryggen hålls parallell med marken.
-[^3]: Sujud, nedfallandet när pannan läggs mot marken.
+[^3]: sujūd, nedfallandet när pannan läggs mot marken.
 

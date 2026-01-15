@@ -1,6 +1,6 @@
 ---
 title: Sol- och månförmörkelsebön
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 565 s. ISBN 9960-892-66-2'
 categories:
@@ -25,6 +25,6 @@ Det råder inga tvivel om att denna åsikt är stark och att den har bevis från
 Kortfattat anser vi att förmörkelsebönen antingen är obligatorisk, antingen för varje individ eller ett tillräckligt antal som klarar av skyldigheten för de andra.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

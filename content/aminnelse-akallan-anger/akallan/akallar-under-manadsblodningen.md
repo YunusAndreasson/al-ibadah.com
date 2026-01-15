@@ -1,7 +1,7 @@
 ---
 title: Åkallar under månadsblödningen
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 110 s. ISBN saknas'
 categories:
 - Åminnelse, åkallan, ånger...
@@ -18,7 +18,7 @@ description: 'Fråga: Får en kvinna med månadsblödning läsa böcker med åka
 
 Det har endast rapporterats att den som är i den stora rituella orenheten inte läser Koranen i detta tillstånd. Detta baseras på en *hadīth[^3]* från Ali.
 
-Om kvinnan med månadsblödning eller blödning efter graviditeten har följande rapporterats om från Ibn 'Umar: ”*Kvinnan med månadsblödning och den som är i den stora rituella orenheten läser inte Koranen*.” [*at-Tirmithi* 131 och *Ibn Mājah* 595, 596] Denna *hadīth[^3]* är dock svag då den innehåller Isma'il bin 'Ayyash som rapporterar från de i Hijaz. Han är svag när han rapporterar från dem.
+Om kvinnan med månadsblödning eller blödning efter graviditeten har följande rapporterats om från Ibn ʿUmar: ”*Kvinnan med månadsblödning och den som är i den stora rituella orenheten läser inte Koranen*.” [*at-Tirmithi* 131 och *Ibn Mājah* 595, 596] Denna *hadīth[^3]* är dock svag då den innehåller Isma'il bin 'Ayyash som rapporterar från de i Hijaz. Han är svag när han rapporterar från dem.
 
 Recitationen måste dock ske från minnet utan att Skriften rörs. Den som befinner sig i den stora rituella orenheten får inte recitera Koranen – varken direkt från den eller från minnet. Detta gäller tills han har gjort *ghusl[^4]*.
 
@@ -29,7 +29,7 @@ Kvinnan med månadsblödning och kvinnan med blödningar efter graviditeten kan 
 
 [^1]: Du´ā
 [^2]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^4]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^5]: En rituell rening som görs med hjälp av jord/sand då det inte finns vatten tillgängligt.
 

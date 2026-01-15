@@ -1,6 +1,6 @@
 ---
 title: Bedövning under fastan
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: Fatāwa Ramadan – volym 2, sida 525, fatwa 492
 categories:
 - Fasta (Sawm)

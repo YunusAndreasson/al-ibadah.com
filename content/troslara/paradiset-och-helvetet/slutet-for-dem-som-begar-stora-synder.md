@@ -1,11 +1,11 @@
 ---
 title: Slutet för dem som begår stora synder
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 30 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Paradiset och Helvetet
 original_id: 30
 description: 'Fråga: Allāh den Upphöjde säger: ” Straffet för äktenskapbryterskan
@@ -24,6 +24,6 @@ Autentiska *ahādīth[^2]* understryker att olydiga människor – som tror på 
 > ”Den som uppfyller sitt löfte, dennes belöning kommer att finnas hos Allāh. Men den som begår någon av dessa synder, och blir straffad [i denna värld], då kommer dennes straff att vara en gottgörelse. Medan den som begår några av dessa synder, och Allāh döljer dem åt denne, då kommer det att vara upp till Allāh; om Han vill, straffar Han denne och om Han vill, förlåter Han denne.” [*al-Bukhārī* 18, 3892, 3999 och 4894].
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

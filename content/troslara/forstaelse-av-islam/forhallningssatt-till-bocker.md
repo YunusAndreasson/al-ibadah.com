@@ -1,9 +1,9 @@
 ---
 title: Förhållningssätt till böcker
-author: Muhammad bin Sālih al-'Uthaymīn
-source: Fatāwa al-shaykh Muhammad ibn Sālih al-‘Uthaymīn, Kitāb al-‘Ilm, s. 87-91
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: Fatāwa al-shaykh Muhammad ibn Sālih al-‘Uthaymīn, Kitāb al-‘Ilm, s. 87–91
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Förståelse av islam
 original_id: 487
 description: 'Fråga: Hur bör en muslim hantera böcker om islam? Svar: All lovprisan
@@ -50,11 +50,11 @@ Böcker kan delas in i tre kategorier:
 2. dåliga böcker och
 3. böcker som varken är bra eller dåliga.
 
-Försök att försäkra dig om att din bokhylla är fri ifrån böcker med dåligt innehåll. Det finns böcker som beskrivs som litteratur men i själva verket är de endast till för att slå ihjäl tid utan att medföra någon nytta. Det finns även skadliga böcker som innehåller vissa idéer eller som propagerar för felaktiga ideologier. Inte heller dessa bör tillåtas i din bokhylla. Detta gäller oavsett om metodologin som de använder är felaktig, deras förståelse av *'aqīdah* är felaktig eller de innehåller skadliga och revolutionära ideologier.
+Försök att försäkra dig om att din bokhylla är fri ifrån böcker med dåligt innehåll. Det finns böcker som beskrivs som litteratur men i själva verket är de endast till för att slå ihjäl tid utan att medföra någon nytta. Det finns även skadliga böcker som innehåller vissa idéer eller som propagerar för felaktiga ideologier. Inte heller dessa bör tillåtas i din bokhylla. Detta gäller oavsett om metodologin som de använder är felaktig, deras förståelse av *ʿaqīdah* är felaktig eller de innehåller skadliga och revolutionära ideologier.
 
 Generellt sett bör inga skadliga böcker tillåtas då dessa böcker ger själen näring, precis som mat och dryck ger näring till kroppen. Om du när den med böcker som dessa kommer det att skada dig mycket och du kommer att följa en metodologi som går stick i stäv med en sund metodologi för en kunskapssökande.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Rättslära.
 

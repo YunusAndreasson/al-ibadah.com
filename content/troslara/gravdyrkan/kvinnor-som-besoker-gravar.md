@@ -1,10 +1,10 @@
 ---
 title: Kvinnor som besöker gravar
-author: Ibn 'Abdullah Ibn Bāz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ʿAbdullah Ibn Bāz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 167 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Gravdyrkan
 original_id: 81
 description: 'Fråga: Vilket är utlåtandet om kvinnor som besöker gravar? Svar: Kvinnor

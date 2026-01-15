@@ -1,6 +1,6 @@
 ---
 title: Släktingar
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: Fatāwa al-shaykh Muhammad al-Sālih al-‘Uthaymīn, 1/461
 categories:
 - Allmosa (Zakāh)

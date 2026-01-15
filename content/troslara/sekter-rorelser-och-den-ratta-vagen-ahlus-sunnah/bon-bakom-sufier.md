@@ -1,9 +1,9 @@
 ---
 title: Bön bakom sufier
-author: Ibn 'Abdur-Rahman al-Jibrīn
+author: Ibn ʿAbdur-Rahman al-Jibrīn
 categories:
-- Troslära (´Aqīdah)
-- Sekter, rörelser och den rätta vägen - ahlus-sunnah
+- Troslära (ʿAqīdah)
+- Sekter, rörelser och den rätta vägen – ahlus-sunnah
 original_id: 145
 description: 'Fråga: Är det tillåtet att be bakom sufier? Svar: Sufier var först
  asketer som endast bar fårull för att visa deras självförnekelse. Senare fördjupade

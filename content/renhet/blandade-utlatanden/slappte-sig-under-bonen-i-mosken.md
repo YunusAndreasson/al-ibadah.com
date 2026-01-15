@@ -1,8 +1,8 @@
 ---
 title: Släppte sig under bönen i moskén
-author: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 223 s. ISBN saknas'
-source: Ibn 'Abdur-Rahman al-Jibrīn
+source: Ibn ʿAbdur-Rahman al-Jibrīn
 categories:
 - Renhet (Tahārah)
 - Blandade utlåtanden
@@ -20,5 +20,5 @@ Därmed är det tydligt att den som släpper sig måste lämna bönen och tvaga 
 
 
 [^1]: Vad man läser i den sittande positionen under bönen.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

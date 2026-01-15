@@ -1,6 +1,6 @@
 ---
 title: Skadlig omskärelse
-author: Ibn 'Abdullāh Ibn Baz
+author: Ibn ʿAbdullāh Ibn Baz
 source: Kitāb Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh al-‘Allāmah
  ‘Abd al-‘Azīz ibn ‘Abd-Allāh ibn Bāz
 categories:
@@ -29,5 +29,5 @@ Därför har de lärde sagt att det inte är obligatoriskt med omskärelse för 
 
 
 [^1]: Det naturliga tillstånd som människan föds i.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

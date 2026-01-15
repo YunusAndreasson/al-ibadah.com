@@ -1,6 +1,6 @@
 ---
 title: Händerna på bröstet efter bugningen – om det är en innovation
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 476 s. ISBN 9960-892-66-2'
 categories:
@@ -25,8 +25,8 @@ Den korrekta åsikten är att det är *sunnah[^2]* att placera den högra handen
 
 
 [^1]: Ruku, bugningen när ryggen hålls parallell med marken.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Den ansträngning en islamskt lärd gör för att lägga fram ett utlåtande som inte är uppenbart.
-[^4]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^5]: Sujud, nedfallandet när pannan läggs mot marken.
+[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^5]: sujūd, nedfallandet när pannan läggs mot marken.
 

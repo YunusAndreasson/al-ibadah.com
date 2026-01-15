@@ -1,11 +1,11 @@
 ---
 title: 'Innebörden av: ”... alla kommer att vara i Helveteselden utom en grupp.”'
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 21 s. ISBN saknas.'
 categories:
-- Troslära (´Aqīdah)
-- Sekter, rörelser och den rätta vägen - ahlus-sunnah
+- Troslära (ʿAqīdah)
+- Sekter, rörelser och den rätta vägen – ahlus-sunnah
 original_id: 25
 description: 'Fråga: Vilken är innebörden av följande hadīth : ”Mitt samfund kommer
  att splittras i 73 [olika grupper]. Alla kommer att vara i Helveteselden utom en
@@ -22,11 +22,11 @@ Den enda grupp [som kommer att vara säker] är *ahlus-sunnah[^2] wal-jamā’at
 
 Dem vars innovationer tar dem ur islam tillhör innovationens samfund [människosläktet i stort] och inte ”det svarande samfundet”. De ska vara i Helveteselden för evigt. Detta är den starkaste åsikten.
 
-Det har även sagts att termen ”samfund” i denna *hadīth[^1]* avser innovationens samfund, vilket är en generell term som inkluderar dem som profeten – över honom vare Allāhs frid och välsignelser - sändes till [människosläktet]; de som tror och de som inte tror. ”Den räddade gruppen” är ”det svarande samfundet” som enbart gäller dem som uppriktigt tror på profeten – över honom vare Allāhs frid och välsignelser – och dör i detta tillstånd. Detta är gruppen som kommer att räddas från Elden; antingen genom föregående bestraffning eller utan föregående bestraffning och deras slutgiltiga vistelse är i Paradiset.
+Det har även sagts att termen ”samfund” i denna *hadīth[^1]* avser innovationens samfund, vilket är en generell term som inkluderar dem som profeten – över honom vare Allāhs frid och välsignelser – sändes till [människosläktet]; de som tror och de som inte tror. ”Den räddade gruppen” är ”det svarande samfundet” som enbart gäller dem som uppriktigt tror på profeten – över honom vare Allāhs frid och välsignelser – och dör i detta tillstånd. Detta är gruppen som kommer att räddas från Elden; antingen genom föregående bestraffning eller utan föregående bestraffning och deras slutgiltiga vistelse är i Paradiset.
 
 De 72 [olika] grupperna [i den andra åsikten] är alla, utom den räddade gruppen, icke-troende som kommer att vistas i Elden för evigt. Följaktligen är det klart att ”det inbjudna samfundet” har en generellare betydelse ”det svarande samfundet”. Detta betyder att den som tillhör det svarande samfundet också tillhör det inbjudna samfundet, medan dem som tillhör det inbjudna samfundet inte tillhör det svarande samfundet.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

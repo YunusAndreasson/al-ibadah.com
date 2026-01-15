@@ -1,7 +1,7 @@
 ---
 title: Visdomen bakom att män inte får bära guld
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
 - Åminnelse, åkallan, ånger...
@@ -33,5 +33,5 @@ Jag skulle vilja ta detta tillfälle i akt att varna de män som har blivit lura
 Dem måste ångra sig inför Allāh den Allsmäktige och om de önskar pryda sig själva med silver inom den islamiska lagens gränser finns det inget skadligt i det. De kan även bära ringar av andra material som inte leder till extravagans eller frestelser.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

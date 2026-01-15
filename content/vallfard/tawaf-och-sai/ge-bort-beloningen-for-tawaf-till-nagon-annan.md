@@ -1,7 +1,7 @@
 ---
 title: Ge bort belöningen för tawāf till någon annan
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-'Ilmiyyah wal-Iftā - Volym 11,
+source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-ʿilmiyyah wal-Iftā – Volym 11,
  sida 236, fatwa 8433
 categories:
 - Vallfärd (Hajj)

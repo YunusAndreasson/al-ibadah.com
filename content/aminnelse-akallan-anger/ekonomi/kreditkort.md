@@ -1,7 +1,7 @@
 ---
 title: Kreditkort
-author: Muhammad bin Sālih al-'Uthaymīn
-source: Silsilah Kitāb ad-Da'wah, al-Fatāwa - Volym 3, Sida 120-121
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: Silsilah Kitāb ad-Da'wah, al-Fatāwa – Volym 3, Sida 120-121
 categories:
 - Åminnelse, åkallan, ånger...
 - Ekonomi

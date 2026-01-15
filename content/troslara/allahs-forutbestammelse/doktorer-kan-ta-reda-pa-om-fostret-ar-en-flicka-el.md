@@ -1,11 +1,11 @@
 ---
 title: Doktorer kan ta reda på om fostret är en flicka eller pojke
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muhammad ibn Sālih al-‘Uthaymīn,
  volym 1, 68-70. Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius.
  ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Allāhs förutbestämmelse
 original_id: 1276
 description: 'Fråga: Hur kan vi förlika att doktorer kan ta reda på om fostret är
@@ -28,8 +28,8 @@ Qutādah's *tafsīr[^4]* kan tolkas som att enbart Allāh har kunskap om detta s
 /.../
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
-[^3]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^4]: Tolkning av Koranen efter givna principer.
 

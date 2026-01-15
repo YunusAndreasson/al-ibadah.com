@@ -1,7 +1,7 @@
 ---
 title: ”Jag är nöjd med Allāh som min herre, islam som min religion och Muhammad som
  mitt sändebud” – att säga det efter böneutropet
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 429 s. ISBN 9960-892-66-2'
 categories:
@@ -24,5 +24,5 @@ Och i en annan version: ”*Den som sade: ’Och jag vittnar’*”.
 Genom att denne säger: ”Och jag vittnar” finns det bevis för att denne säger det efter böneutroparens ord: ”Jag vittnar om att ingen är värdig att dyrka utom Allāh”. Bokstaven *waw* [som betyder *och*] är ju ett sammanfogningsord. Därmed följer dennes ord efter böneutroparen.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

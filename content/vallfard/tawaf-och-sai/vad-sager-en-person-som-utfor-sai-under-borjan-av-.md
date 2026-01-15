@@ -1,7 +1,7 @@
 ---
 title: Vad säger en person som utför sa’ī under början av hans sa’ī
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 201 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)

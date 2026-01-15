@@ -1,10 +1,10 @@
 ---
 title: Astrologi, horoskop, vidskepelse och att spå in i framtiden
-author: Ibn 'Abdullāh Ibn Baz
+author: Ibn ʿAbdullāh Ibn Baz
 source: 'Majmū’ Fatāwa shaykh Ibn Bāz, 2/123 Muhammed Knut Bernström (1421), Koranens
  budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Shirk [Att sätta något vid Allāhs sida]
 original_id: 1292
 description: 'Fråga: Vad finns det att säga om drömtydning och horoskop? Svar: Astrologi,
@@ -20,10 +20,10 @@ Beviset för detta är en *hadīth[^3]* återgiven i Abū Dawūds *Sunan* med en
 
 > ”Den är inte en av oss som utövar teckentydning eller får det gjort för sig, som spår eller blir spådd eller som utövar häxkraft eller får det gjort för sig.” Den som påstår sig känna till det som är dolt för människor[^2] är antingen en spåman eller så beter denne sig som en spåman på något sätt. Allāh är Den Ende som har kunskap om det som är dolt för människor[^2]. Allāh säger: ”Säg: 'Ingen i himlarna eller på jorden har kunskap om det som är dolt för människor[^2] – [ingen har denna kunskap] utom Gud.' Inte heller vet de när de ska uppväckas till nytt liv.” [Koranen 27:65]
 
-Mitt råd till dem som på något sätt är inblandade i detta är att ångra sig inför Allāh, be om Hans förlåtelse, att endast vara beroende av Honom och att sätt hela sin tillit till Honom i alla frågor – samtidigt som de praktiska metoder som finns föreskrivna eller tillåtna i den islamiska lagen följs. De bör överge detta beteende från tiden före islam och undvika att tillfråga personer som praktiserar det eller tro på vad de säger av olydnad mot Allāh och Hans sändebud samt för att skydda sin islamiska hängivelse och sin *'aqīdah*.
+Mitt råd till dem som på något sätt är inblandade i detta är att ångra sig inför Allāh, be om Hans förlåtelse, att endast vara beroende av Honom och att sätt hela sin tillit till Honom i alla frågor – samtidigt som de praktiska metoder som finns föreskrivna eller tillåtna i den islamiska lagen följs. De bör överge detta beteende från tiden före islam och undvika att tillfråga personer som praktiserar det eller tro på vad de säger av olydnad mot Allāh och Hans sändebud samt för att skydda sin islamiska hängivelse och sin *ʿaqīdah*.
 
 
-[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
+[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^2]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

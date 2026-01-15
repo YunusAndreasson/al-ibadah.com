@@ -1,7 +1,7 @@
 ---
 title: Utse någon annan till att utföra sa’ī
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 169 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -23,7 +23,7 @@ Har han förlorat hoppet om att sjukdomen ska gå över, då är han likt den so
 
 > ”Men om omständigheterna hindrar er [att fullfölja den], ge då vad ni har möjlighet att ge som offergåva.” [Koranen 2:196]
 
-Om han inte kan betala priset för ett får [att få det slaktat], då fastar han tio dagar och avlägsnar sedan sin *ihrām[^4]*. Om han blir sjuk innan Arafat[^5] och han missar att stå [vid Arafat[^5]], då har han missat vallfärden och han måste komma ut ur *ihrām[^4]* med endast en *'umrah[^2]*.
+Om han inte kan betala priset för ett får [att få det slaktat], då fastar han tio dagar och avlägsnar sedan sin *ihrām[^4]*. Om han blir sjuk innan Arafat[^5] och han missar att stå [vid Arafat[^5]], då har han missat vallfärden och han måste komma ut ur *ihrām[^4]* med endast en *ʿumrah[^2]*.
 
 Och Allāh vet bäst.
 

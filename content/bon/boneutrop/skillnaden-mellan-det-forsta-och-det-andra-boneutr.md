@@ -1,7 +1,7 @@
 ---
 title: Skillnaden mellan det första och det andra böneutropet under gryningsbönen
-author: Ibn 'Abdur-Rahman al-Jibrin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 132 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -22,7 +22,7 @@ På detta sätt är det klart att det görs inför *sahūr* för att väcka de s
 
 
 [^1]: Fajr
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
-[^3]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^3]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 [^4]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

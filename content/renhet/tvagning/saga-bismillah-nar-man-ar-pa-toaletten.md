@@ -1,6 +1,6 @@
 ---
 title: Säga Bismillah när man är på toaletten
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 313 s. ISBN 9960-892-66-2'
 categories:
@@ -20,5 +20,5 @@ description: 'Fråga: Hur kan man säga Bismillah när man är på toaletten? Sv
 [^1]: I Guds namn.
 [^2]: Wudû´
 [^3]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
-[^4]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^4]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

@@ -1,7 +1,7 @@
 ---
 title: Tarāwīh-bönen är sunnah och inte obligatorisk
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 315 s. ISBN saknas'
 categories:
 - Fasta (Sawm)
@@ -18,5 +18,5 @@ description: 'Fråga: Jag jobbar på en plats där jag inte kan be tarāwīh -b�
 
 
 [^1]: Maghrib
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

@@ -1,7 +1,7 @@
 ---
 title: Kamelkött gör tvagningen ogiltig
-author: Muhammad bin Salih al-'Uthaymin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muhammad bin Salih al-ʿUthaymin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 89 s. ISBN saknas'
 categories:
 - Renhet (Tahārah)
@@ -14,7 +14,7 @@ description: 'Fråga: Gör kamelkött tvagningen ogiltig? En hadīth har rapport
 
 **Fråga:** Gör kamelkött tvagningen[^1] ogiltig? En *hadīth[^2]* har rapporterats om en man som släppte sig. Profeten – över honom vare Allāhs frid och välsignelser – beordrade då honom och alla de som var närvarande att tvaga sig. I skolan har vi lärt oss att det gör tvagningen[^1] ogiltig.
 
-**Svar:** Denna historia saknar grund och det är en lögn mot profeten - över honom vare Guds frid och välsignelser. Han hade inga problem att då säga: ”*Den som har släppt dig bör tvaga sig*.”
+**Svar:** Denna historia saknar grund och det är en lögn mot profeten – över honom vare Guds frid och välsignelser. Han hade inga problem att då säga: ”*Den som har släppt dig bör tvaga sig*.”
 
 Och han hade inte beordrat hela samlingen att göra det enbart för att han inte kände till personens identitet.
 
@@ -24,5 +24,5 @@ Och en man frågade honom: ”*Allāhs sändebud! Bör vi tvaga oss efter att ha
 
 
 [^1]: Wudû´
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

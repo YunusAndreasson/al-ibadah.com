@@ -1,6 +1,6 @@
 ---
 title: Beskrivning av begravningsbönen
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. x s. ISBN 9960-892-66-2'
 categories:
@@ -33,7 +33,7 @@ Därefter gör man den tredje *takbīr[^1]* och åkallar[^3] med de ord som har 
 
 Det går även bra att välja något annat som har rapporterats från profeten – över honom vare Allāhs frid och välsignelser.
 
-Sedan gör man den fjärde *takbīr[^1]*. Vissa lärde har sagt att man efter den bör säga: ”*Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina 'athaban-nar*.”
+Sedan gör man den fjärde *takbīr[^1]*. Vissa lärde har sagt att man efter den bör säga: ”*Rabbana atina fid-dunyā hasanatan wa fil-akhirati hasanatan wa qina 'athaban-nar*.”
 
 Gör man en femte *takbīr[^1]* finns det ingen invändan mot den då det har bekräftats från profeten. Det är bra om man gör den ibland, det vill säga den femte *takbīr[^1]* då det har bekräftats från profeten – över honom vare Allāhs frid och välsignelser – att han gjorde den. [*Muslim* 2:659]
 
@@ -47,8 +47,8 @@ Här finns det en viktig poäng och den är att många tror att det är att för
 
 
 [^1]: Att säga Allahu Akbar.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Du´ā
-[^4]: Tawāf är vandringen sju varv runt Ka'bah.
+[^4]: Tawāf är vandringen sju varv runt Kaʿbah.
 [^5]: Den avslutande hälsningen i bönen.
 

@@ -1,7 +1,7 @@
 ---
 title: Vägen till ånger
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 246 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -37,7 +37,7 @@ Om din synd involverar någons liv, tillgångar eller heder (det vill säga, and
 
 I denna vers gör Allāh den Allsmäktige framgång beroende av ånger. Detta visar att den som ångrar sig är framgångsrik och lycklig. Om du låter din ånger följas av tro och goda handlingar kommer Allāh den Allsmäktige att stryka ut dina synder och där placera goda handlingar i deras ställe. Detta är en välgärning Allāh nämner efter att Han berättat om stora synder som otro, mord och otukt:
 
-> ”Och de anropar aldrig en gudom vid sidan av Gud och de berövar aldrig en människa livet – som Gud har förklarat heligt – annat än i rättfärdigt syfte, och de avhåller sig från äktenskapsbrott. Den som begår dessa svåra synder ska få sona dem med en exemplarisk bestraffning [och] på Uppståndelsens dag ska hans straff fördubblas och han ska gå bort med skammen för att lida detta straff i evigheten.” [Koranen 25:68-70]
+> ”Och de anropar aldrig en gudom vid sidan av Gud och de berövar aldrig en människa livet – som Gud har förklarat heligt – annat än i rättfärdigt syfte, och de avhåller sig från äktenskapsbrott. Den som begår dessa svåra synder ska få sona dem med en exemplarisk bestraffning [och] på Uppståndelsens dag ska hans straff fördubblas och han ska gå bort med skammen för att lida detta straff i evigheten.” [Koranen 25:68–70]
 
 För att uppnå ånger bör du be Allāh den Allsmäktige att Han vägleder dig, att Han gör dig framgångsrik och att Han beviljar dig uppriktig ånger:
 

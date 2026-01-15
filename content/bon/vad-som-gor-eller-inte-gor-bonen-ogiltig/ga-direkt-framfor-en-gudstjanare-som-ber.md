@@ -1,7 +1,7 @@
 ---
 title: Gå direkt framför en Gudstjänare som ber
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 188 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -22,7 +22,7 @@ Ett antal lärde inom *fiqh[^3]* har undantagit den Heliga Moskén i Mecka. Där
 
 
 [^1]: Ett objekt i form av exempelvis en pinne, stav eller vägg. Skall vara minst en fot hög. Agerar symbolisk skiljelinje mellan den bedjande och de som passerar framför.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Rättslära.
 [^4]: Rakah.
 [^5]: Den sju långa rundar vandringen runt Kabah.

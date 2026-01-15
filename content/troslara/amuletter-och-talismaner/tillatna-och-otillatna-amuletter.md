@@ -1,18 +1,18 @@
 ---
 title: Tillåtna och otillåtna amuletter
-author: Ibn 'Abdullah Ibn Bāz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ʿAbdullah Ibn Bāz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 42 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Amuletter och talismaner
 original_id: 35
-description: 'Fråga: ''Abdullāh bin Mas''ūd har sagt: ” Jag hörde Allāhs sändebud
+description: 'Fråga: ʿAbdullāh bin Mas''ūd har sagt: ” Jag hörde Allāhs sändebud
  säga: ''Sannerligen är besvärjelser, amuletter och tiwalah shirk .''” [ Abū Dawūd 3883, Ahmad 1:381
  och al-Hakim 4:418] Jabir h...'
 ---
 
-**Fråga:**'Abdullāh bin Mas'ūd har sagt: ”*Jag hörde Allāhs sändebud säga: 'Sannerligen är besvärjelser, amuletter och tiwalah[^1] shirk[^2]*.'” [*Abū Dawūd* 3883, *Ahmad* 1:381 och *al-Hakim* 4:418] Jabir har sagt:
+**Fråga:**ʿAbdullāh bin Mas'ūd har sagt: ”*Jag hörde Allāhs sändebud säga: 'Sannerligen är besvärjelser, amuletter och tiwalah[^1] shirk[^2]*.'” [*Abū Dawūd* 3883, *Ahmad* 1:381 och *al-Hakim* 4:418] Jabir har sagt:
 
 > ”Jag hade en farbror som brukade behandla folk med besvärjelser efter skorpionstick. När profeten förbjöd besvärjelser gick han till honom och frågade: 'Allāhs sändebud, du har förbjudit besvärjelser och jag behandlar dem som har stuckits av skorpioner med besvärjelser.' Han svarade: 'Den som kan hjälpa sin broder, låt denne göra så.'” [*Muslim* 2199]
 
@@ -56,7 +56,7 @@ Det är Allāh som ger framgång.
 
 
 [^1]: En trollformel som används för att skapa kärlek mellan maken och makan.
-[^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^4]: Du´ā
 

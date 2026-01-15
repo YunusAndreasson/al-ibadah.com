@@ -1,7 +1,7 @@
 ---
 title: Hinner bara be sistatashahhudmed församlingen
-author: Muhammad bin Salih al-'Uthaymin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muhammad bin Salih al-ʿUthaymin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 334 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -21,5 +21,5 @@ Men den som kom sent med giltig ursäkt, som sjukdom eller något liknande, komm
 
 [^1]: Vad man läser i den sittande positionen under bönen.
 [^2]: Rakah.
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

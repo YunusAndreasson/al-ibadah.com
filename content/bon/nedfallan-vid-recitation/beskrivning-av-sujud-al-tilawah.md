@@ -1,6 +1,6 @@
 ---
 title: Beskrivning av sujūd al-tilāwah
-author: Ibn 'Abdullah Ibn Baz
+author: Ibn ʿAbdullah Ibn Baz
 source: 'Majmū’ Fatāwa wa Maqālāt Samāhat al-shaykh Ibn Bāz, 11/406 Muhammed Knut
  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -32,14 +32,14 @@ Vi har ovan nämnt att det är föreskrivet att säga detsamma i *sujūd al-til�
 
 Det som är obligatoriskt att säga är ”*Subhāna Rabbiy al-A’lā* [Lovprisad vare min Herre, den Högste]." Detta är obligatoriskt under nedfallandet[^1] i bön. Ytterligare åkallan[^2] eller åminnelse[^6] är rekommenderat.
 
-*Sujūd al-tilāwah*, vare sig det sker under eller utanför bön, så är det *sunnah[^7]* men inte obligatoriskt. Bevis för detta har återberättats från profeten, i en *hadīth[^5]* från Zayd ibn Thābit och i en *hadīth[^5]* från ‘Umar - må Allāh vara nöjd med honom.
+*Sujūd al-tilāwah*, vare sig det sker under eller utanför bön, så är det *sunnah[^7]* men inte obligatoriskt. Bevis för detta har återberättats från profeten, i en *hadīth[^5]* från Zayd ibn Thābit och i en *hadīth[^5]* från ‘Umar – må Allāh vara nöjd med honom.
 
 
-[^1]: Sujud, nedfallandet när pannan läggs mot marken.
+[^1]: sujūd, nedfallandet när pannan läggs mot marken.
 [^2]: Du´ā
 [^3]: Wudû´
 [^4]: Att säga Allahu Akbar.
-[^5]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^5]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^6]: Dhikr
-[^7]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^7]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

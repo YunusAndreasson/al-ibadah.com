@@ -1,6 +1,6 @@
 ---
 title: Min man behandlar mig inte på ett bra sätt
-author: Ibn 'Abdullah Ibn Baz
+author: Ibn ʿAbdullah Ibn Baz
 source: Fatāwa al-Marah
 categories:
 - Åminnelse, åkallan, ånger...

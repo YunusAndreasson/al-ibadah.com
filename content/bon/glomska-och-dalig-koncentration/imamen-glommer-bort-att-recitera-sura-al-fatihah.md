@@ -1,7 +1,7 @@
 ---
 title: Imamen glömmer bort att recitera sura al-Fātihah
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 180 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -24,7 +24,7 @@ Och Allāh är beviljaren av framgång.
 
 
 [^1]: Maghrib
-[^2]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
+[^2]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 [^3]: Rakah.
 [^4]: Den avslutande hälsningen i bönen.
 

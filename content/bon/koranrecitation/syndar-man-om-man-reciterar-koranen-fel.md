@@ -1,7 +1,7 @@
 ---
 title: Syndar man om man reciterar Koranen fel?
-author: Muhammad bin Salih al-'Uthaymin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muhammad bin Salih al-ʿUthaymin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -18,5 +18,5 @@ description: 'Fråga: Jag läser ofta Koranen men jag känner inte till mycket o
 
 Var därmed tålmodig broder. Upprepa varje ord igen och igen tills du har uttalat det korrekt även om det är svårt för dig. Därför att om du följer detta råd kommer du bli väl belönad. Och var medveten om att haka fram orden och att inte bry sig om misstag i uttal, genom att göra så förringar du Koranen, som vi vet är Allāhs tal. Efter att ha tagit emot Koranen från Allāh den Allsmäktige lärde Gabriel Muhammed – över honom vare Allāhs frid och välsignelser – den precis som han hade lärde sig den från Allāh den Allsmäktige: 
 
-> ”Denna [Skrift] är en uppenbarelse från Världarnas Herre; ingivelsens trogna ande har stigit ned [och ingjutit] den i ditt hjärta, för att du ska vara en av varnarna [och varna] på ren och klar arabiska.” [Koranen 26:192-195]
+> ”Denna [Skrift] är en uppenbarelse från Världarnas Herre; ingivelsens trogna ande har stigit ned [och ingjutit] den i ditt hjärta, för att du ska vara en av varnarna [och varna] på ren och klar arabiska.” [Koranen 26:192–195]
 

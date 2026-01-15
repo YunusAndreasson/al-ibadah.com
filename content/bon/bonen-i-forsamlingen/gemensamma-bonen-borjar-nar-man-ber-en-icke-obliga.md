@@ -1,6 +1,6 @@
 ---
 title: Gemensamma bönen börjar när man ber en icke-obligatorisk bön
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: Fatāwa tat'allaq bi-Jamā'atil-Masjid – fråga 26, sida 27
 categories:
 - Bön (Salāh)

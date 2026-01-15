@@ -1,7 +1,7 @@
 ---
 title: Kvinnor som gör iqāmah när de samlats
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 133 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -17,5 +17,5 @@ description: 'Fråga: Finns det någon iqāmah för kvinnor när de samlas för 
 **Svar:** Om de gör *iqāmah[^1]* finns det ingen invändan mot det och om de lämnar den har de inte syndat. Anledningen är att böneutropet och *iqāmah[^1]* endast är skyldigheter för män.
 
 
-[^1]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
+[^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 

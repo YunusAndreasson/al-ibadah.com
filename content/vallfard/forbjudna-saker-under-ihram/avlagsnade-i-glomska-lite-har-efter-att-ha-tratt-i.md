@@ -1,7 +1,7 @@
 ---
 title: Avlägsnade i glömska lite hår efter att ha trätt in i ihrām
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 138 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -26,6 +26,6 @@ Detta beror även på vad som har bekräftats från profeten, att Allāh har bes
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.
-[^3]: Någon som har trätt in i ihram.
+[^3]: Någon som har trätt in i ihrām.
 [^4]: Du´ā
 

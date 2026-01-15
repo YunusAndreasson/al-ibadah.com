@@ -1,6 +1,6 @@
 ---
 title: Bön ombord på ett flygplan
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 541 s. ISBN 9960-892-66-2'
 categories:
@@ -31,5 +31,5 @@ Och Allāh är Beviljaren av framgång.
 [^4]: Att säga Allahu Akbar.
 [^5]: Du´ā
 [^6]: Ruku, bugningen när ryggen hålls parallell med marken.
-[^7]: Sujud, nedfallandet när pannan läggs mot marken.
+[^7]: sujūd, nedfallandet när pannan läggs mot marken.
 

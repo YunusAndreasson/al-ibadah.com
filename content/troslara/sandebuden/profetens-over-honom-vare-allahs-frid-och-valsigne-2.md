@@ -2,10 +2,10 @@
 title: profetens – över honom vare Allāhs frid och välsignelser – giftermål med flera
  kvinnor
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 296 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Sändebuden
 original_id: 127
 description: 'Fråga: Varför gifte sig profeten med flera kvinnor? Svar: Den obegränsade
@@ -27,5 +27,5 @@ Behov av att gifta sig med flera kvinnor var inte enbart för att tillfredsstäl
 
 
 [^1]: Det naturliga tillstånd som människan föds i.
-[^2]: Kämpa för Allahs sak.
+[^2]: Kämpa för Allāhs sak.
 

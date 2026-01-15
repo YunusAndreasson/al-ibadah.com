@@ -1,7 +1,7 @@
 ---
 title: Gick in i bönen då imamen bugade
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 196 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -24,5 +24,5 @@ Må frid och välsignelser vara över Muhammad, hans familj och följeslagare.
 [^1]: Att säga Allahu Akbar.
 [^2]: Rakah.
 [^3]: Den avslutande hälsningen i bönen.
-[^4]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

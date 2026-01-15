@@ -4,7 +4,7 @@ author: Sammanställning
 source: Mukhtasar al-Sawāiq al-Mursalah, 2/561, al-Bayān magazine, utgåva 153, s.
  26
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Förståelse av islam
 original_id: 537
 description: 'Fråga: Somliga förkastar profetens – över honom vare Allāhs frid och
@@ -31,6 +31,6 @@ Vi avslutar denna diskussion genom att citera vad imam Ibn al-Qayyim al-Jawziyya
 > ”Om de säger: Det finns för många rapporter i folkets händer och de har blivit förvirrande, då säger vi: Ingen är förvirrad utom de som är okunniga. De som har kunskap om dem [rapporterna] undersöker dem lika noggrant som de som hanterar pengar kontrollerar dirham och dinarer. Så de silar ut [och avvisar] de falska rapporterna och behåller de bra. Råkar de finna en återberättare som har gjort ett misstag kommer detta inte att gå de lysande lärde inom *hadīth[^2]* förbi. Dessa lärde noterar misstagen både i berättarkedjan och i texten. Du kan se att för varje återberättare har man gjort en lista över dennes misstag och de bokstäver som denne har uttalat fel. Om återberättarens misstag [både i berättarkedja och i text] inte har kunnat passera obemärkt, hur skulle då de påhittade *ahādīth[^2]* som avvikarna har återberättat kunna missas av de lärde? Detta är vissa avvikares åsikt men ingen skulle säga en sådan sak utom den som är okunnig och vilseledd eller den som är en innovatör och en lögnare som vill undergräva *sahīh ahādīth[^2]* och äkta rapporter från profeten – över honom vare Allāhs frid och välsignelser – och som vill förvirra okunniga människor genom denna lögn. Det finns inga bevis för att förkasta rapporterna från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – som är svagare och omöjligare än detta. Den som yttrar denna åsikt förtjänar att tystas och avvisas från muslimska länder.”
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

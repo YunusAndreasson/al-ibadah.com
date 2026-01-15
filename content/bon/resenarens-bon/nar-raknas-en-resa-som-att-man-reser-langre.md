@@ -1,6 +1,6 @@
 ---
 title: När räknas en resa som att man reser [längre]
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: I’lām al-Musāfirīn bi Ba’d Ādāb wa Ahkām al-Safar wa mā yakhuss al-Mallāhīn
  al-Jawwiyyīn, s. 5
 categories:

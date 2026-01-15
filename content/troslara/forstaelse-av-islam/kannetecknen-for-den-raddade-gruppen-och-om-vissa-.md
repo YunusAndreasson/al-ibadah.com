@@ -1,11 +1,11 @@
 ---
 title: Kännetecknen för den räddade gruppen och om vissa brister tar en ut från den
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 39 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Förståelse av islam
 original_id: 1164
 description: 'Fråga: Vilka är de största kännetecknen för den räddade gruppen? Om
@@ -43,7 +43,7 @@ Således är en enad röst och harmoni hjärtan emellan bland de mest särskilja
 
 Detta beror på att de anser att skilda åsikter som beror på ijtihād[^3], i frågor där det är tillåtet att utöva ijtihād[^3], inte är sanna meningsskiljaktigheter. Anledningen är att de som är oeniga har följt de bevis som de är skyldiga att följa – bevis som det inte är tillåtet att förneka. De anser att då deras broder, om brodern inte håller med om något och följer ett visst bevis, faktiskt inte har en avvikande åsikt. Detta beror på att de kallar till att följa bevisen, vad det än må vara. Är brodern inte enig med dem, på grund av något bevis som denne har, då är brodern egentligen enig med dem. Brodern handlar ju enligt vad de kallar och vägleder till – att döma enligt Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*.
 
-De meningsskiljaktigheter som uppstod mellan profetens – över honom vare Allāhs frid och välsignelser – följeslagare - må Allāh vara nöjd med dem - i frågor som dessa, det känner många av de lärde väl till. Detta inträffade även under profetens – över honom vare Allāhs frid och välsignelser – tid men han tillrättavisade dem inte på grund av det.
+De meningsskiljaktigheter som uppstod mellan profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – i frågor som dessa, det känner många av de lärde väl till. Detta inträffade även under profetens – över honom vare Allāhs frid och välsignelser – tid men han tillrättavisade dem inte på grund av det.
 
 När han [profeten] återvände från slaget vid al-Ahzab befallde [ängeln] Gabriel honom att attackera Banu Quraizah som hade brutit ett avtal. Profeten – över honom vare Allāhs frid och välsignelser – kommenderade följeslagarna genom att säga: ”*Ingen bör be eftermiddagsbönen[^5] utom vid Banu Quraizah*.” [*al-Bukhārī* 946 och *Muslim* 1770] De begav sig då från Medina och det blev tid för eftermiddagsbönen[^5]. Vissa sköt upp eftermiddagsbönen[^5] tills de nådde Banu Quraizah och då hade bönens tid hunnit gå ut. De gjorde så för att profeten – över honom vare Allāhs frid och välsignelser – hade sagt: ”*Ingen bör be eftermiddagsbönen[^5] utom vid Banu Quraizah*.” Några andra av dem bad vid den angivna tiden och de sade: ”*Profeten ville att vi skulle bege oss av tidigt mot Banu Quraizah och han ville inte att vi skulle skjuta upp bönen över den angivna tiden*.” De [den sista gruppen hade] rätt men trots detta tillrättavisade profeten – över honom vare Allāhs frid och välsignelser – ingen av de båda grupperna. Ingen av de båda grupperna hyste heller någon fiendeskap eller illvilja mot varandra på grund av deras olika förståelser av vad han hade sagt.
 
@@ -56,7 +56,7 @@ Det viktiga är att alla hjärtan är i harmoni och att man talar med en röst. 
 Därför måste vi utmärka oss med detta, den räddade gruppens karraktärsdrag, som är att man talar med en röst.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Tron på att det bara finns en Gud.
 [^3]: Den ansträngning en islamskt lärd gör för att lägga fram ett utlåtande som inte är uppenbart.
 [^4]: Wudû´

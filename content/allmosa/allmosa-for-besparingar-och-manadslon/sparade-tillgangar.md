@@ -1,8 +1,8 @@
 ---
 title: Sparade tillgångar
-author: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 161 s. ISBN saknas'
-source: Muhammad bin Sālih al-'Uthaymīn
+source: Muhammad bin Sālih al-ʿUthaymīn
 categories:
 - Allmosa (Zakāh)
 - Allmosa för besparingar och månadslön

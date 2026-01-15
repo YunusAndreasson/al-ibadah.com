@@ -1,6 +1,6 @@
 ---
 title: Första åkallan som man säger i inledningen av bönen
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 466 s. ISBN 9960-892-66-2'
 categories:
@@ -25,7 +25,7 @@ På grund av dessa fördelar utförs viss dyrkan på olika sätt, som den inleda
 
 
 [^1]: Du´ā
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Vad man läser i den sittande positionen under bönen.
 [^4]: Dhikr
 [^5]: Att säga Allahu Akbar.

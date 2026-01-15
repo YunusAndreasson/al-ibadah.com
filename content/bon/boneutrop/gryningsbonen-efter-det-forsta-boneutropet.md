@@ -1,7 +1,7 @@
 ---
 title: Gryningsbönen efter det första böneutropet
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 312 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -16,7 +16,7 @@ description: 'Fråga: Kan jag be gryningsbönen efter det första böneutropet? 
 
 **Svar:** Bönen är inte giltig förrän tiden för den har börjat. Tiden för gryningsbönen[^1] börjar vid gryningen, som är det ljusa som syns i öst. Den som har bett innan gryningen, dennes bön kommer inte att vara giltig. Böneutropet är inte ett villkor för att den ska accepteras. Om det inte kom något böneutrop skulle nattbön vara giltig.
 
-Vissa lärde har tillåtit att böneutropet för gryningsbönen[^1] ropas ut innan tiden är inne, vilket är under nattens slut. Den får dock inte bes innan tiden för den är inne. Andra lärda säger dock att böneutropet inte ska göras innan dess tid, utom under ramadan[^2]. Detta sker då för att väcka folket till *suhur[^3]* och för att den som står i bön ska kunna återvända hem. Det är dock inte korrekt att be förrän efter det andra böneutropet som ropas ut vid tiden för bön.
+Vissa lärde har tillåtit att böneutropet för gryningsbönen[^1] ropas ut innan tiden är inne, vilket är under nattens slut. Den får dock inte bes innan tiden för den är inne. Andra lärda säger dock att böneutropet inte ska göras innan dess tid, utom under ramadan[^2]. Detta sker då för att väcka folket till *sahūr[^3]* och för att den som står i bön ska kunna återvända hem. Det är dock inte korrekt att be förrän efter det andra böneutropet som ropas ut vid tiden för bön.
 
 Och Allāh vet bäst.
 

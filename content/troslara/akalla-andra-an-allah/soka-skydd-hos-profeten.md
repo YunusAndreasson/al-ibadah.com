@@ -1,10 +1,10 @@
 ---
 title: Söka skydd hos profeten
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Majmū’ Fatāwa al-shaykh Muhammad ibn ‘Uthaymīn, 3/70 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Åkalla andra än Allāh
 original_id: 532
 description: 'Fråga: Vilken är er åsikt om den som säger: ”Jag tror på Allāh. Jag
@@ -27,5 +27,5 @@ Men att söka skydd hos Allāhs sändebud – över honom vare Allāhs frid och 
 Och Allāh är källan till all styrka.
 
 
-[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
+[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

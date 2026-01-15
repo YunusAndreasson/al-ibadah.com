@@ -1,7 +1,7 @@
 ---
 title: Hur en som har begått otukt ångrar sig
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 253 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -53,10 +53,10 @@ En muslim måste inte enbart vara rädd för *shirk[^1]* och vad som leder till 
 > 
 > 
 > 
-> ”Människor! Guds löfte är sanning. Låt er då inte förledas av jordelivets [lockelser] och låt inte Djävulen föra er bakom ljuset vad Guds [dom] beträffar. Djävulen är er fiende; behandla honom därför som en fiende! När han kallar sina anhängare är det hans enda avsikt att [förmå dem att slå in på] vägen som leder rätt in i den flammande Elden.” [Koranen 35:5-6]
+> ”Människor! Guds löfte är sanning. Låt er då inte förledas av jordelivets [lockelser] och låt inte Djävulen föra er bakom ljuset vad Guds [dom] beträffar. Djävulen är er fiende; behandla honom därför som en fiende! När han kallar sina anhängare är det hans enda avsikt att [förmå dem att slå in på] vägen som leder rätt in i den flammande Elden.” [Koranen 35:5–6]
 
 Det finns många verser med en liknande innebörd.
 
 
-[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
+[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

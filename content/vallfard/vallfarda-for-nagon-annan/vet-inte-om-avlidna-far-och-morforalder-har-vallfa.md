@@ -1,7 +1,7 @@
 ---
 title: Vet inte om avlidna far- och morförälder har vallfärdat
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-'Ilmiyyah wal-Iftā - Volym 11,
+source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-ʿilmiyyah wal-Iftā – Volym 11,
  sida 107, fatwa 6505
 categories:
 - Vallfärd (Hajj)

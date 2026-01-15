@@ -1,7 +1,7 @@
 ---
 title: Det första som man ska kalla till
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Tawhīd [Monoteism]
 original_id: 1647
 description: 'Fråga: Om någon vill bjuda in någon annan, vad bör han börja med och

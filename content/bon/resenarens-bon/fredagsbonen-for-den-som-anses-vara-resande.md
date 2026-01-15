@@ -1,7 +1,7 @@
 ---
 title: Fredagsbönen för den som anses vara resande
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 462 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -24,7 +24,7 @@ Men om några av de som bor i landet ber fredagsbönen, då är det föreskrivet
 
 
 [^1]: Dhuhr
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
 [^4]: Generationen som kom efter följeslagarna.
 

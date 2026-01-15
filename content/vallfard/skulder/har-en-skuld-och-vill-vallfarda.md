@@ -1,7 +1,7 @@
 ---
 title: Har en skuld och vill vallfärda
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 63 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -22,5 +22,5 @@ description: 'Fråga: Jag är en man som under detta år vill utföra den obliga
 Har du inte möjlighet att få fram pengar till vallfärden, samtidigt som du betalar av skulden, då är du inte skyldig att vallfärda. Detta med anledning av denna ädla vers och innebörden av *ahādīth[^1]* som har berättats från Allāhs sändebud.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

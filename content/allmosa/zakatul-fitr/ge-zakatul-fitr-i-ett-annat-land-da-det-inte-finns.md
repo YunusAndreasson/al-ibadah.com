@@ -1,7 +1,7 @@
 ---
 title: Ge zakātul-fitr i ett annat land då det inte finns några fattiga i ens eget
-author: Muhammad bin Sālih al-'Uthaymīn
-source: Majmoo’ Fatāwa al-'Uthaymīn, 18/fråga 102
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: Majmoo’ Fatāwa al-ʿUthaymīn, 18/fråga 102
 categories:
 - Allmosa (Zakāh)
 - Zakātul-fitr

@@ -1,7 +1,7 @@
 ---
 title: Hade inte möjlighet att utföra sunnah för gryningsbönen och vill ta igen den
  senare
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 517 s. ISBN 9960-892-66-2'
 categories:
@@ -22,7 +22,7 @@ Detta motsäger sig inte den *hadīth[^3]* som förbjuder att man ber. Det som �
 Men om man skjuter upp den till efter soluppgången och man inte är rädd för att man ska vara för upptagen för att be den, då är detta att föredra.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Fajr
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

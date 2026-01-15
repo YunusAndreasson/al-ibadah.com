@@ -1,10 +1,10 @@
 ---
 title: Sju personer som Allāh kommer att skugga – om det gäller specifikt för män
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Domedagen och tecknen inför den
 original_id: 1683
 description: 'Fråga: Hadithen om de sju som Allāh kommer att skugga den dag som det
@@ -21,5 +21,5 @@ Beträffande att vara en rättvis imam eller fäst vid en moské är dessa båda
 Och hos Allāh finns medlen för att göra vad som är rätt.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

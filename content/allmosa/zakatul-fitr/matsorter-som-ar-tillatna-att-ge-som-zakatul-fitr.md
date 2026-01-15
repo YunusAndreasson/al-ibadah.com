@@ -1,7 +1,7 @@
 ---
 title: Matsorter som är tillåtna att ge som zakātul-fitr
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 204 s. ISBN saknas'
 categories:
 - Allmosa (Zakāh)
@@ -18,5 +18,5 @@ description: 'Fråga: Vilka är de matsorter som är tillåtna att ge som zakāt
 
 
 [^1]: Allmosa som ges före eid-bönen.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

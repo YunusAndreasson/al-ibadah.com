@@ -1,11 +1,11 @@
 ---
 title: Jinn – om de har någon inverkan på människor och hur man skyddar sig mot dem
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 147 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Jinn, magi och det onda ögat
 original_id: 1088
 description: 'Fråga: Har jinn någon inverkan på människan och hur skyddar man sig
@@ -33,7 +33,7 @@ Och Allāh är Beskyddaren.
 
 
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
-[^4]: Allahs fotpall.
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^4]: Allāhs fotpall.
 

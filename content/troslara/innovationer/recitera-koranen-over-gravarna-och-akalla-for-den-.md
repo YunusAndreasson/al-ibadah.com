@@ -1,10 +1,10 @@
 ---
 title: Recitera Koranen över gravarna och åkalla för den avlidne
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 583 s. ISBN 9960-892-66-2'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Innovationer
 original_id: 1248
 description: 'Fråga: Vilket är utlåtandet om att recitera Koranen över gravarna och
@@ -23,5 +23,5 @@ Men om någon åkallar[^2] för egen räkning vid gravens sida, om denne gör s�
 
 [^1]: De tre första generationerna i islam.
 [^2]: Du´ā
-[^3]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

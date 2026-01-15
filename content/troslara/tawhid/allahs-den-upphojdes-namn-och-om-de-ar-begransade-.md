@@ -1,10 +1,10 @@
 ---
 title: Allāhs den Upphöjdes namn och om de är begränsade till antalet
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 113 s. ISBN 9960-892-66-2'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Tawhīd [Monoteism]
 original_id: 1082
 description: 'Fråga: Är Allāhs den Upphöjdes namn begränsade till antalet? Svar: Allāhs
@@ -41,8 +41,8 @@ b) Att i ens dyrkan tillämpa vad dessa namn fordrar. Genom namnet ar-Rahīm [de
 Detta är innebörden av att räkna upp dem, och när det förhåller sig på detta sätt är det något som gör en värdig ett inträde i Paradiset.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^2]: Kämpa för Allahs sak.
-[^3]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Kämpa för Allāhs sak.
+[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^4]: Du´ā
 

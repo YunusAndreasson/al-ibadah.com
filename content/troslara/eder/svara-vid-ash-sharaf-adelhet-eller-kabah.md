@@ -1,10 +1,10 @@
 ---
 title: Svära vid ash-Sharaf [ädelhet] eller Ka’bah
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 229 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Eder
 original_id: 110
 description: 'Fråga: Är det tillåtet att svära vid ash-Sharaf eller vid Ka’bah? Svar: Det
@@ -19,5 +19,5 @@ description: 'Fråga: Är det tillåtet att svära vid ash-Sharaf eller vid Ka�
 > ”I detta samfund är *shirk[^1]* mindre synligt än en svart myra på en svart sten under en mörk natt.”
 
 
-[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
+[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

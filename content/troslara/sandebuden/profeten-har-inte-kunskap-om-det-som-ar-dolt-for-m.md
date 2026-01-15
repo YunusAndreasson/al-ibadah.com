@@ -1,11 +1,11 @@
 ---
 title: Profeten har inte kunskap om det som är dolt för människor
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 288 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Sändebuden
 original_id: 125
 description: 'Fråga: Är profeten – över honom vare Allāhs frid och välsignelser –
@@ -25,7 +25,7 @@ Och Allāh den Upphöjde säger:
 
 Men Allāh informerar vissa av Sina Sändebud som Han valt ut om vissa saker om det som är dolt för människor[^1]. Han den Upphöjde säger:
 
-> ”Han känner det som är dolt för människor[^1], men Han låter ingen få insikt i Sina hemligheter utom det sändebud som Han [utser till detta]. Och då sätter Han ut vakter framför och bakom sändebudet.” [Koranen 72:26-27]
+> ”Han känner det som är dolt för människor[^1], men Han låter ingen få insikt i Sina hemligheter utom det sändebud som Han [utser till detta]. Och då sätter Han ut vakter framför och bakom sändebudet.” [Koranen 72:26–27]
 
 Och Han den Upphöjde säger:
 
@@ -39,7 +39,7 @@ Umm 'Alai säger i en lång och autentisk *hadīth[^2]*:
 
 > ”Jag vet inte – och jag är Allāhs sändebud – vad som kommer att hända med honom.” [*al-Bukhārī* 3929]
 
-I många *ahādīth[^2]* rapporterats att Allāh har informerat profeten – över honom vare Allāhs frid och välsignelser – om vilket som skulle bli slutet för somliga av hans följeslagare, och han gav dem det glada budskapet om Paradiset. I en *hadīth[^2]* som al-Bukhārī och Muslim har återgivit från 'Umar bin al-Khattab berättas att Gabriel frågade profeten – över honom vare Allāhs frid och välsignelser – om Timmens tidpunkt, och han svarade:
+I många *ahādīth[^2]* rapporterats att Allāh har informerat profeten – över honom vare Allāhs frid och välsignelser – om vilket som skulle bli slutet för somliga av hans följeslagare, och han gav dem det glada budskapet om Paradiset. I en *hadīth[^2]* som al-Bukhārī och Muslim har återgivit från ʿUmar bin al-Khattab berättas att Gabriel frågade profeten – över honom vare Allāhs frid och välsignelser – om Timmens tidpunkt, och han svarade:
 
 > ”Den som tillfrågas vet inte mer än den som frågar.” [*al-Bukhārī* 50 och *Muslim*, kap. 8]
 
@@ -47,5 +47,5 @@ Han tillade inte något utom att nämna några tecken inför Timmen, vilket bevi
 
 
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

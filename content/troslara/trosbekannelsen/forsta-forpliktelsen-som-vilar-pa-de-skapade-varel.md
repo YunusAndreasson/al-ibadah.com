@@ -1,9 +1,9 @@
 ---
 title: Första förpliktelsen som vilar på de skapade varelserna
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: Fiqh al'Ibādāt – fråga 4, sida 18
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Trosbekännelsen
 original_id: 587
 description: 'Fråga: Vilken är skapelsens första förpliktelse? Svara: De skapade

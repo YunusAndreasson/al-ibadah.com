@@ -1,11 +1,11 @@
 ---
 title: 'Skaka hand efter bönen och säga: ”Taqabbal Allāh” [Må Allāh acceptera era
  böner]'
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 491 s. ISBN 9960-892-66-2'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Innovationer
 original_id: 965
 description: 'Fråga: Vad anser ni om att skaka hand efter bönen och säga: ” Taqabbal

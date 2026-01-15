@@ -1,7 +1,7 @@
 ---
 title: ‘Awrah har blivit synlig
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 200 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -18,7 +18,7 @@ description: 'Fråga: Ibland ber jag då jag har täckt mig med en handduk. Inge
 
 
 [^1]: De delar av kroppen som måste täckas.
-[^2]: Sujud, nedfallandet när pannan läggs mot marken.
+[^2]: sujūd, nedfallandet när pannan läggs mot marken.
 [^3]: Ruku, bugningen när ryggen hålls parallell med marken.
 [^4]: Byxor som bärs under det yttre plagget.
 [^5]: Ett långt yttre plagg.

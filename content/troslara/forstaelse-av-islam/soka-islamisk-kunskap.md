@@ -1,10 +1,10 @@
 ---
 title: Söka islamisk kunskap
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 370 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Förståelse av islam
 original_id: 151
 description: 'Fråga: Ursäktas en person för att inte söka islamisk kunskap om anledningen
@@ -21,5 +21,5 @@ Om någon då sysselsätter sig med något till den grad att denne försummar s�
 Vi anser att detta ursäktas och att det inte finns någon invändan mot det, men denne måste i varje fall lära sig det om den islamiska lagen som denne har möjlighet till.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

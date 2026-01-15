@@ -1,7 +1,7 @@
 ---
 title: Ta parfym på händerna, ansiktet, kroppen och kläderna
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: Fatāwa Ramadan - Volym 2, sida 500, fatwa 455
+source: Fatāwa Ramadan – Volym 2, sida 500, fatwa 455
 categories:
 - Fasta (Sawm)
 - Vad som bryter eller inte bryter fastan

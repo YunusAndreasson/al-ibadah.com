@@ -4,7 +4,7 @@ author: Shaykh ul-islām Ibn Taymiyyah
 source: 'l-Wasiyyah al-Jāmi’ah li khayr al-Sunya wa’l-Ākhirah Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Förståelse av islam
 original_id: 516
 description: 'Fråga: Kan du ge några råd som kan vägleda oss i religiösa och världsliga
@@ -45,7 +45,7 @@ När det gäller specifika gottgörelser – likt de som finns föreskriva för 
 - ge allmosor eller
 - fasta.
 
-Om gottgörelser som inte finns definierade sade Hudhayfah till 'Umar:
+Om gottgörelser som inte finns definierade sade Hudhayfah till ʿUmar:
 
 > ”Den *fitnah[^5]*[då denne kommer till korta i religiösa frågor] som en man utsätts för genom sin familj, egendom och barn kan gottgöras för genom bön, fasta, välgörenhet samt att påbjuda det goda och förbjuda det onda.”
 
@@ -71,11 +71,11 @@ Det ”*lysande exempel*” [Koranen 68:4] som Allāh har beskrivit Muhammad med
 
 > ”Det sades: ’Allāhs sändebud! Vad är det som oftast tar människor till Paradiset?’ Han svarade: ’Fruktan av Allāh och ett bra sätt.” Det sades: ’Och vad är det som vanligtvis tar människor till Helvetet?’ Han svarade: ’De två håliga sakerna: munnen och könsdelarna.’”
 
-I *al-Sahīh* berättar 'Abd-Allāh ibn 'Umar att profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Den bäste i tro bland muslimer är den som har bäst attityd*.” Han kopplade därmed ihop perfektion i tron med en god attityd. Det är välkänt att tro är fruktan av Allāh. Detta är dock inte rätt plats för att diskutera de grundläggande principerna och finare detaljerna i det. Detta är religionen i sin helhet men godhetens källor är ett uppriktigt engagemang från tjänaren mot dennes Herre; dyrkandes endast Honom och sökandes endast Hans hjälp, som versen i Koranen säger: ”*Dig tillber vi; Dig anropar vi om hjälp*.” [Koranen 1:5] ”*Dyrka Honom därför och förlita dig på Honom*.” [Koranen 11:123] ”Till *Honom litar jag och till Honom vänder jag alltid i ånger [över mina synder]*.”[Koranen 11:88] ”*Be därför Gud om er försörjning, dyrka Honom och tacka Honom; det är till Honom ni ska föras åter*.” [Koranen 29:17]
+I *al-Sahīh* berättar 'Abd-Allāh ibn ʿUmar att profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Den bäste i tro bland muslimer är den som har bäst attityd*.” Han kopplade därmed ihop perfektion i tron med en god attityd. Det är välkänt att tro är fruktan av Allāh. Detta är dock inte rätt plats för att diskutera de grundläggande principerna och finare detaljerna i det. Detta är religionen i sin helhet men godhetens källor är ett uppriktigt engagemang från tjänaren mot dennes Herre; dyrkandes endast Honom och sökandes endast Hans hjälp, som versen i Koranen säger: ”*Dig tillber vi; Dig anropar vi om hjälp*.” [Koranen 1:5] ”*Dyrka Honom därför och förlita dig på Honom*.” [Koranen 11:123] ”Till *Honom litar jag och till Honom vänder jag alltid i ånger [över mina synder]*.”[Koranen 11:88] ”*Be därför Gud om er försörjning, dyrka Honom och tacka Honom; det är till Honom ni ska föras åter*.” [Koranen 29:17]
 
 
 [^1]: De tre första generationerna i islam.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Du´ā
 [^4]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^5]: Olika sorters prövningar och frestelser.

@@ -1,6 +1,6 @@
 ---
 title: Näs-, ögon- och örondroppar
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 662 s. ISBN 9960-892-66-2'
 categories:
@@ -27,6 +27,6 @@ På liknande sätt är det om någon använde en salva som behandling, eller av 
 Och på samma sätt om den fastande inte kan andas och använder en inhalator som blåser in i munnen för att göra andningen lättare, då leder det heller inte till att fastan bryts då detta inte når magen och därmed inte är mat eller dryck.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Wudû´
 

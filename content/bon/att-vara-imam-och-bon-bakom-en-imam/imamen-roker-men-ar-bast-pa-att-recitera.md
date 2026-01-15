@@ -1,7 +1,7 @@
 ---
 title: Imamen röker men är bäst på att recitera
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 23 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -23,7 +23,7 @@ Rådet har redan utfärdat ett utlåtande om detta och texten är följande:
 > 
 > 
 > 
-> Om det fruktas att bön bakom någon annan kommer att orsaka splittring, då bör de be bakom honom för att hindra uppdelningar och för att begränsa sig till det som är mindre ont. Ibn 'Umar och några till bad bakom al-Hajjaj bin Yusuf som var en mycket orättvis person. Detta gjorde de för att upprätthåla enighet och undvika splittring.”
+> Om det fruktas att bön bakom någon annan kommer att orsaka splittring, då bör de be bakom honom för att hindra uppdelningar och för att begränsa sig till det som är mindre ont. Ibn ʿUmar och några till bad bakom al-Hajjaj bin Yusuf som var en mycket orättvis person. Detta gjorde de för att upprätthåla enighet och undvika splittring.”
 
 Genom Allāh uppnås framgång. Må frid och välsignelser vara över profeten Muhammad, hans familj och följeslagare.
 

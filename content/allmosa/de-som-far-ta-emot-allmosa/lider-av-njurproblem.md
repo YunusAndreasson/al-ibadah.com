@@ -1,7 +1,7 @@
 ---
 title: Lider av njurproblem
-author: Muhammad bin Sālih al-'Uthaymīn
-source: Majmoo’ Fatāwa al-Shaykh Ibn 'Uthaymīn (18/342)
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: Majmoo’ Fatāwa al-Shaykh Ibn ʿUthaymīn (18/342)
 categories:
 - Allmosa (Zakāh)
 - De som får ta emot allmosa

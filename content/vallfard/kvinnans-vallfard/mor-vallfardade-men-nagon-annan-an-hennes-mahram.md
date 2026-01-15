@@ -1,7 +1,7 @@
 ---
 title: Mor vallfärdade men någon annan än hennes mahram
-author: Dr. Sālih Ibn Fowzan Ibn 'Abdullah Ibn Fowzān
-source: al-Muntaqā min Fatāwa Ibn Fowzān - volym 3, sida168, fatwa 253
+author: Dr. Sālih Ibn Fowzan Ibn ʿAbdullah Ibn Fowzān
+source: al-Muntaqā min Fatāwa Ibn Fowzān – volym 3, sida168, fatwa 253
 categories:
 - Vallfärd (Hajj)
 - Kvinnans vallfärd

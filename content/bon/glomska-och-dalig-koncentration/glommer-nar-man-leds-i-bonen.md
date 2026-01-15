@@ -1,7 +1,7 @@
 ---
 title: Glömmer när man leds i bönen
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 280 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -17,8 +17,8 @@ description: 'Fråga: Jag bad bakom en imam och jag glömde att säga tasbih und
 **Svar:** Du behöver inte nedfalla för glömska[^4]; varken före eller efter imamens *taslīm[^3]*. Imamen bär bördan för glömskan och inget krävs av de som ber bakom honom.
 
 
-[^1]: Att upphöja Allah, Subhan Allah.
-[^2]: Sujud, nedfallandet när pannan läggs mot marken.
+[^1]: Att upphöja Allāh, Subhan Allāh.
+[^2]: sujūd, nedfallandet när pannan läggs mot marken.
 [^3]: Den avslutande hälsningen i bönen.
-[^4]: Sujud as-sahw.
+[^4]: sujūd as-sahw.
 

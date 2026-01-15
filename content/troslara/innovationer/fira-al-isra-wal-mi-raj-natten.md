@@ -1,10 +1,10 @@
 ---
 title: Fira al-isrā’ wal-mi'raj -natten
 author: n/a
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. x s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Innovationer
 original_id: 113
 description: 'Fråga: Vilket är utlåtandet om att fira al-isrā’ wal-mi''raj med
@@ -38,5 +38,5 @@ Allāh är den som ger framgång.
 [^1]: Dhikr
 [^2]: Den sjunde månaden i det islamiska året.
 [^3]: Den tionde månaden i det islamiska året. Under denna månad är det rekommenderat att fasta sex dagar frivillig fasta.
-[^4]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

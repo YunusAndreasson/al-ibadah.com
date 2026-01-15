@@ -1,6 +1,6 @@
 ---
 title: Sutrah och regler beträffande den
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 498 s. ISBN 9960-892-66-2'
 categories:
@@ -22,7 +22,7 @@ Vi säger att det som är minimum för den är en linje och maximum är bakdelen
 
 
 [^1]: Ett objekt i form av exempelvis en pinne, stav eller vägg. Skall vara minst en fot hög. Agerar symbolisk skiljelinje mellan den bedjande och de som passerar framför.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^4]: En hadith som är återberättad i ett antal motsägande former på ett sådant sätt att det är omöjligt att jämka dem samman och säga vilken som är korrekt
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^4]: En hadīth som är återberättad i ett antal motsägande former på ett sådant sätt att det är omöjligt att jämka dem samman och säga vilken som är korrekt
 

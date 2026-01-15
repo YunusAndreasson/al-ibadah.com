@@ -1,7 +1,7 @@
 ---
 title: Tveksamhet över om man utfört bönen eller inte
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 154 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -28,6 +28,6 @@ Och han har sagt: ”*Islam är byggt på fem [pelare]: vittna om att ingen är 
 De verser och *ahādīth[^2]* som poängterar vikten av bönen, skyldigheten att be den och plikten att upprätthålla den är många.
 
 
-[^1]: Kämpa för Allahs sak.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Kämpa för Allāhs sak.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

@@ -1,7 +1,7 @@
 ---
 title: Visdomen bakom att förbjuda griskött
-author: Muhammad bin Salih al-'Uthaymin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muhammad bin Salih al-ʿUthaymin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
 - Åminnelse, åkallan, ånger...
@@ -26,7 +26,7 @@ Detta uttalande är till någon som inte tror på Koranen eller på Allāhs utl�
 
 > ”Och när en fråga som rör en troende man eller kvinna har avgjorts av Gud och Hans Sändebud, har dessa inte rätt att själva döma i det som rör dem.” [Koranen 33:36]
 
-> ”När de troende kallas inför Gud och Hans Sändebud för att han ska döma i det som rör dem, kan deras svar inte bli annat än detta: 'Vi har hört [kallelsen] och vi lyder'; dem ska det gå väl i händer. De som lyder Gud och Hans Sändebud, som fruktar Gud och ständigt har Honom för ögonen, det är de som ska vinna den stora segern.” [Koranen 24:51-52]
+> ”När de troende kallas inför Gud och Hans Sändebud för att han ska döma i det som rör dem, kan deras svar inte bli annat än detta: 'Vi har hört [kallelsen] och vi lyder'; dem ska det gå väl i händer. De som lyder Gud och Hans Sändebud, som fruktar Gud och ständigt har Honom för ögonen, det är de som ska vinna den stora segern.” [Koranen 24:51–52]
 
 När 'Ā’ishāh tillfrågades om varför en kvinna med månadsblödning måste ta igen den fasta hon missat men att hon inte måste ta igen bönerna, svarade hon att anledningen är Allāhs och Hans sändebuds kommendering.
 

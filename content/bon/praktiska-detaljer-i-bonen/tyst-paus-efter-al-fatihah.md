@@ -1,7 +1,7 @@
 ---
 title: Tyst paus efter al-Fātihah
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 412 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -23,6 +23,6 @@ Dessa båda *ahādīth[^1]* förklarar Allāhs den Allsmäktiges ord: ”*Lyssna
 Profeten – över honom vare Allāhs frid och välsignelser – har även sagt: ”*Imamen placerades endast där för att följas, så motsäg er inte honom; om han gör takbīr[^2], då gör ni takbīr[^2] och om han reciterar, var då tysta*.” [*Muslim* 404 och 411]
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: Att säga Allahu Akbar.
 

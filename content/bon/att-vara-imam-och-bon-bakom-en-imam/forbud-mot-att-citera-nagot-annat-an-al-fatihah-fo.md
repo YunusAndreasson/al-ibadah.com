@@ -1,8 +1,8 @@
 ---
 title: Förbud mot att citera något annat än al-Fātihah för den som leds i bön med
  hög recitation
-author: Ibn 'Abdullāh Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdullāh Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. x s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
@@ -25,5 +25,5 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*N
 Det enda undantaget är recitation av al-Fātihah, enligt den *hadīth[^1]* som nämnts tidigare och den generella innebörden av orden: ”*Det finns ingen bön för den som inte reciterar Fātihah al-Kitāb*.” [*al-Bukhārī* 756 och *Muslim* 394]
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

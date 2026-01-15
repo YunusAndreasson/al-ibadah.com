@@ -1,7 +1,7 @@
 ---
 title: Tar av sockarna i ett tillstånd av renhet och byter dem innan tvagningen blivit
  ogiltig
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 342 s. ISBN 9960-892-66-2'
 categories:

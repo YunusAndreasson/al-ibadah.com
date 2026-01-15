@@ -1,7 +1,7 @@
 ---
 title: Den som utför ‘umrah innan månaderna för vallfärden är inte en mutamatti'
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 96 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -18,7 +18,7 @@ description: 'Fråga: Om en muslim med avsikt att vallfärda kommer till Mecka f
 
 
 [^1]: Den lilla vallfärden.
-[^2]: När man först gör ´umrah och lämnar ihram för att därpå träda in i ihram för vallfärden.
+[^2]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
 [^3]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^4]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 

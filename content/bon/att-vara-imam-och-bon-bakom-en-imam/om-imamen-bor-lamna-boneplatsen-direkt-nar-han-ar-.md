@@ -1,6 +1,6 @@
 ---
 title: Om imamen bör lämna böneplatsen direkt när han är färdig
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 490 s. ISBN 9960-892-66-2'
 categories:
@@ -24,5 +24,5 @@ Men om imamen sitter kvar en längre stund i riktning mot *qiblah[^1]* än vad s
 
 
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

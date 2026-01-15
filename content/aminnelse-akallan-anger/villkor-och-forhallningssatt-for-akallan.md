@@ -1,7 +1,7 @@
 ---
 title: Villkor och förhållningssätt för åkallan
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 273 s. ISBN saknas'
 categories:
 - Åminnelse, åkallan, ånger...
@@ -35,6 +35,6 @@ Beträffande olika situationer och kroppshållningar är det mer sannolikt att f
 
 
 [^1]: Du´ā
-[^2]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
-[^3]: Sujud, nedfallandet när pannan läggs mot marken.
+[^2]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
+[^3]: sujūd, nedfallandet när pannan läggs mot marken.
 

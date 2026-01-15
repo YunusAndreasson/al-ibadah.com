@@ -1,6 +1,6 @@
 ---
 title: Modern kan inte vallfärda – om sonen kan göra det åt henne
-author: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 72 s. ISBN saknas'
 source: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 categories:

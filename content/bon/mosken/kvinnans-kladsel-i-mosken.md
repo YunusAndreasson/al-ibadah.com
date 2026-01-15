@@ -1,6 +1,6 @@
 ---
 title: Kvinnans klädsel i moskén
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: al-Aqalliyāt al-Muslimah – sida 71, fatwa 10
 categories:
 - Bön (Salāh)

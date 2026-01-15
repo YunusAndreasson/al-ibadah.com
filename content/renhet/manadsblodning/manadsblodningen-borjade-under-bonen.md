@@ -1,7 +1,7 @@
 ---
 title: Månadsblödningen började under bönen
-author: Muhammad bin Salih al-'Uthaymin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muhammad bin Salih al-ʿUthaymin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 121 s. ISBN saknas'
 categories:
 - Renhet (Tahārah)
@@ -21,7 +21,7 @@ Hon behöver dock inte ta igen bönerna som hon missade under månadsblödningen
 Det råder konsensus bland de lärde om att hon inte behöver ta igen de böner som hon missade under hennes månadsblödning. Men om hon blev ren och där återstod en bönecykel[^2] eller mer i tid, då bör hon be när hon blir ren. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som hinner med en bönecykel[^2] vid eftermiddagsbönen[^3] innan solen går ned, han har hunnit med eftermiddagsbönen[^3]*.” [*Muslim* 608, *Abū Dawūd* 412 och *Ahmad* 2:254, 282]
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Rakah.
 [^3]: Asr
 

@@ -1,6 +1,6 @@
 ---
 title: Stryka över strumpor på sommaren
-author: Ibn 'Abdullah Ibn Baz
+author: Ibn ʿAbdullah Ibn Baz
 source: Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh Ibn Bāz, 10/113.
 categories:
 - Renhet (Tahārah)
@@ -20,6 +20,6 @@ Det är inte tillåtet att stryka över strumporna såvida inte villkoren satta 
 Och Allāh är källan till all styrka.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: Wudû´
 

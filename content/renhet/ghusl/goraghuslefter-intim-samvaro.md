@@ -1,6 +1,6 @@
 ---
 title: Göraghuslefter intim samvaro
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: '''Ishratun-Nisā wa Hill al-Kjilāfāt az-Zowjiyyah – sida 58'
 categories:
 - Renhet (Tahārah)
@@ -21,5 +21,5 @@ Så *ghusl[^1]* är obligatorisk om man får en orgasm [eller blir våt, i kvinn
 
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

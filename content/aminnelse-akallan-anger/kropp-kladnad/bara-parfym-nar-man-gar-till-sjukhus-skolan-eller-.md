@@ -1,6 +1,6 @@
 ---
 title: Bära parfym när man går till sjukhus, skolan eller för att besöka släktingar
-author: Ibn 'Abdullah Ibn Baz
+author: Ibn ʿAbdullah Ibn Baz
 source: Fatāwa al-Da’wah av shaykh ‘Abd al-‘Azīz ibn ‘Abd-Allāh ibn Bāz, 1/185
 categories:
 - Åminnelse, åkallan, ånger...
@@ -19,5 +19,5 @@ Ett oanständigt sätt inkluderar att visa det som kan orsaka frestelse och vara
 
 
 [^1]: Isha
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

@@ -1,10 +1,10 @@
 ---
 title: Saker som människor säger av misstag
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 208 s. ISBN saknas'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Blandade utlåtanden
 original_id: 95
 description: 'Fråga: Vi hör ibland vanligt folk säga saker som vi är oroliga för
@@ -19,5 +19,5 @@ description: 'Fråga: Vi hör ibland vanligt folk säga saker som vi är oroliga
 När det gäller den andra meningen, är innebörden att Allāh inte kan låta det inträffa. Användandet av ordet ”säg”, är som uttrycket: *La Qadar Allāh* [må Allāh inte förordna det] och det är något man ska vara varse om. Det är bättre att åkalla Allāh om att en sådan sak inte ska inträffa.
 
 
-[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
+[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

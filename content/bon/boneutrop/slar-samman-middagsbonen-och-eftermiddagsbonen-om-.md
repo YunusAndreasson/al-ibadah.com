@@ -1,7 +1,7 @@
 ---
 title: Slår samman middagsbönen och eftermiddagsbönen – om det behövs en iqāmah för
  var och en av dem
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 405 s. ISBN 9960-892-66-2'
 categories:
@@ -24,10 +24,10 @@ De frivilliga bönerna finns det inget böneutrop för.
 
 [^1]: Dhuhr
 [^2]: Asr
-[^3]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
-[^4]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^3]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
+[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^5]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
 [^6]: Maghrib
 [^7]: Isha
-[^8]: Att upphöja Allah, Subhan Allah.
+[^8]: Att upphöja Allāh, Subhan Allāh.
 

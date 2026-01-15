@@ -1,10 +1,10 @@
 ---
 title: Kvinnan kommer till Paradiset men mannen till Elden
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Majmū'' Fatāwa al-shaykh Ibn'' Uthaymīn 2/52 Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Paradiset och Helvetet
 original_id: 543
 description: 'Fråga: Om en kvinna är en av Paradisets invånare och hon inte har gift

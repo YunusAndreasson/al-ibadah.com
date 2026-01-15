@@ -1,7 +1,7 @@
 ---
 title: Vallfärda direkt
-author: Muhammad bin Sālih al-'Uthaymīn
-source: Fatāwa Ibn 'Uthaymīn 21/13
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: Fatāwa Ibn ʿUthaymīn 21/13
 categories:
 - Vallfärd (Hajj)
 - Möjlighet att vallfärda

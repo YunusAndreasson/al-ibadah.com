@@ -1,7 +1,7 @@
 ---
 title: Kunde inte resa efter han utfört tawāful-wadā
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 190 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -22,5 +22,5 @@ Så länge han utfört *tawāf[^1]* med avsikten att ge sig av under natten och 
 
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
-[^2]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

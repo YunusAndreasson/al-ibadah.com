@@ -14,7 +14,7 @@ description: 'Fråga: Hur ropar man ut till bön? Svar: Flera versioner av böne
 
 **Svar:** Flera versioner av böneutropet har återberättats i fullgoda rapporter från profeten. För att sätta hela hans *sunnah[^1]* i bruk och för att få ett slut på de dispyter och meningsskiljaktigheter som väcks av de okunniga eller de som blint följer sin egen rättsskola är det *sunnah[^1]* att använda alla versioner som har berättats ifrån honom.
 
-Shaykh Ibn 'Uthaymīn har sagt:
+Shaykh Ibn ʿUthaymīn har sagt:
 
 > "Allting som finns återberättat om böneutropet i profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* är tillåtet. Det som bör göras är att en version reciteras vid vissa tillfällen och en annan vid andra tillfällen. Detta så länge det inte skapar någon förvirring eller *fitnah[^2]*.
 > 
@@ -61,7 +61,7 @@ Beviset för Abū Hanīfahs och Ahmads åsikt: Det har berättats att 'Abd-Allā
 > 
 > 
 > 
-> Den påföljande morgonen gick jag till Allāhs sändebud – över honom vare Allāhs frid och välsignelser – och berättade för honom om vad jag hade sett. Han svarade: 'Detta är en sann dröm, om Allāh vill. Gå upp med Bilal och lär honom det du såg, för han har en mer välklingande röst än du.' Så jag gick upp med Bilal och lärde honom, och han gjorde böneutropet. 'Umar ibn al-Khattāb hörde detta i sitt hem och han kom ut, dragandes sina kläder efter sig, och han sade: 'Vid Den som sände dig med sanningen, Allāhs sändebud, jag såg samma sak som han såg!' Allāhs sändebud sade: 'All lovprisan tillhör Allāh.'”
+> Den påföljande morgonen gick jag till Allāhs sändebud – över honom vare Allāhs frid och välsignelser – och berättade för honom om vad jag hade sett. Han svarade: 'Detta är en sann dröm, om Allāh vill. Gå upp med Bilal och lär honom det du såg, för han har en mer välklingande röst än du.' Så jag gick upp med Bilal och lärde honom, och han gjorde böneutropet. ʿUmar ibn al-Khattāb hörde detta i sitt hem och han kom ut, dragandes sina kläder efter sig, och han sade: 'Vid Den som sände dig med sanningen, Allāhs sändebud, jag såg samma sak som han såg!' Allāhs sändebud sade: 'All lovprisan tillhör Allāh.'”
 
 Återberättad av Abū Dawūd 499 och klassad som *sahīh* av Ibn Khuzaymah 1/191 och Ibn Hibbān 4/572. al-Tirmithi har berättat att imam al-Bukhārī ansåg att den var *sahīh*, se *Sunan al-Bayhaqi* 1/390.
 
@@ -75,10 +75,10 @@ Beviset för Abū Hanīfahs och Ahmads åsikt: Det har berättats att 'Abd-Allā
 > När det gäller *iqāmah[^5]* sade Mālik, al-Shāfa'i och Ahmad att fraserna bör sägas en gång, men Ahmad sade att det var *sunnah[^1]* att säga dem två gånger. Tre av dem: Abū Hanīfah, al-Shāfa’i och Ahmad föredrog att säga *Qad qāmat il-salāh* två gånger, men Mālik gjorde det inte. Och Allāh vet bäst.” [*Majmū’ al-Fatāwa*, 22/66-69]
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Olika sorters prövningar och frestelser.
 [^3]: Att säga Allahu Akbar.
-[^4]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^5]: Ett snabbare utrop efter det första böneutropet [adhan] som berättar att bönen ska börja.
+[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^5]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 [^6]: Vad man läser i den sittande positionen under bönen.
 

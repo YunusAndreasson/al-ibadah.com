@@ -1,6 +1,6 @@
 ---
 title: Recitation av al-Fātihah
-author: Muhammad bin Salih al-'Uthaymin
+author: Muhammad bin Salih al-ʿUthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 468 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
@@ -39,7 +39,7 @@ Hadithen från Abū Hurairah i vilken det sägs: ”*Den som leds av en imam, im
 När ska den som leds recitera sura al-Fātihah om imamen inte är tyst? Denne reciterar sura al-Fātihah medan imamen reciterar. Följeslagarna brukade recitera med profeten – över honom vare Allāhs frid och välsignelser – och han har ju sagt: ”*Gör inte så utom ummul-Qur’ān, för det finns ingen bön för den som inte reciterar den*.” [*Imam Ahmad* 5:316]
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Fajr
 [^3]: Rakah.
 [^4]: Tolkning av Koranen efter givna principer.

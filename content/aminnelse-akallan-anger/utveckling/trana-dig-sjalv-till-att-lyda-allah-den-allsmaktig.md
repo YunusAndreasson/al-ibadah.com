@@ -1,8 +1,8 @@
 ---
 title: Träna dig själv till att lyda Allāh den Allsmäktige och straffet för att inte
  be
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 264 s. ISBN saknas'
 categories:
 - Åminnelse, åkallan, ånger...
@@ -24,5 +24,5 @@ Att inte be är en handling som kommer från att inte tro och detta är ett fakt
 Allāh den Allsmäktige vet bäst.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 

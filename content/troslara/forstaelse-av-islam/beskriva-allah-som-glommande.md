@@ -1,10 +1,10 @@
 ---
 title: Beskriva Allāh som glömmande
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fatāwa al-shaykh Ibn ‘Uthaymīn 1/172-174 Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Förståelse av islam
 original_id: 527
 description: 'Fråga: Kan Allāh beskrivas som glömmande? Svar: Att glömma kan
@@ -70,7 +70,7 @@ Och i *Sahīh Muslim* [Kitāb al-Zuhd wa’l-Raqā’iq] återges att Abū Hurai
 
 Allāhs lämnande eller glömmande av någonting är en av Hans handlingar som sker genom Hans vilja och enligt Hans visdom. Allāh säger:
 
-> ”… och lämnar dem i mörker så att de ingenting kan se.” [Koranen 2:17-18]
+> ”… och lämnar dem i mörker så att de ingenting kan se.” [Koranen 2:17–18]
 > 
 > 
 > 
@@ -85,6 +85,6 @@ Allāhs lämnande eller glömmande av någonting är en av Hans handlingar som s
 Det finns många välkända texter som bekräftar att Allāh lämnar eller överger saker. Texterna bekräftar även Hans andra handlingar som har att göra med Hans vilja. Detta vittnar om perfektionen i Hans kraft och makt. Det sätt som Han utför dessa handlingar på är inte på det sätt som Hans skapelse gör, även om de delar samma grundläggande mening. Detta är välkänt bland *ahl al-sunnah[^2]*.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

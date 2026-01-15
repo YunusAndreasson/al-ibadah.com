@@ -1,7 +1,7 @@
 ---
 title: Personer som har tillåtelse att passera mīqāt utan att träda in i ihrām
-author: Ibn 'Abdur-Rahman al-Jibrin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdur-Rahman al-Jibrin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 85 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -24,5 +24,5 @@ Under alla omständigheter krävs *ihrām[^2]* endast för den som passerar *mī
 [^1]: Platsen där pilgrimmen träder in i ihraam.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^3]: Den lilla vallfärden.
-[^4]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

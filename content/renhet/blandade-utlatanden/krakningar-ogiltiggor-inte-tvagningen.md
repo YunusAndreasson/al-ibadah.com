@@ -1,6 +1,6 @@
 ---
 title: Kräkningar ogiltigör inte tvagningen
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: Majmū’ Fatāwa Ibn ‘Uthaymīn, 11/198
 categories:
 - Renhet (Tahārah)
@@ -23,6 +23,6 @@ Detta är den korrekta åsikten, att det som kommer ut från kroppen inte gör t
 
 
 [^1]: Wudû´
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
-[^3]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

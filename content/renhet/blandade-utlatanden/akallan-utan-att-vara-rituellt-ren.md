@@ -1,7 +1,7 @@
 ---
 title: Åkallan utan att vara rituellt ren
-author: Ibn 'Abdullah Ibn Baz
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+author: Ibn ʿAbdullah Ibn Baz
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 280 s. ISBN saknas'
 categories:
 - Renhet (Tahārah)
@@ -23,5 +23,5 @@ Profeten har sagt: ”*Tjänaren är närmast sin Herre när han nedfaller[^3], 
 
 [^1]: Du´ā
 [^2]: Wudû´
-[^3]: Sujud, nedfallandet när pannan läggs mot marken.
+[^3]: sujūd, nedfallandet när pannan läggs mot marken.
 

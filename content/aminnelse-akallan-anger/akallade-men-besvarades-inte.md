@@ -1,7 +1,7 @@
 ---
 title: Åkallade men besvarades inte
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 292 s. ISBN saknas'
 categories:
 - Åminnelse, åkallan, ånger...
@@ -18,6 +18,6 @@ description: 'Fråga: Jag har under de senaste tio åren, till och från, bett A
 Syster, du bör inte förhasta dig; istället bör du fortsätta att åkalla även om det fortsätter så här under flera år. Du bör heller inte avvisa en likvärdig (till utseende, härstamning eller tillgångar) om han friar till dig, även om han är äldre eller redan gift. Kanske kan Allāh ge dig mycket gott i det.
 
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Du´ā
 

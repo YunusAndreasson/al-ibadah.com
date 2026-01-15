@@ -3,7 +3,7 @@ title: Börja böneutropet genom att läsa vers 56 i sura al-Ahzāb
 author: al-Bid'u wal-Muhdathāt wa mā lā asla lahu – sida 190
 source: al-Bid'u wal-Muhdathāt wa mā lā asla lahu – sida 190
 categories:
-- Troslära (´Aqīdah)
+- Troslära (ʿAqīdah)
 - Innovationer
 original_id: 556
 description: 'Fråga: Är det bekräftat att profeten – över honom vare Allāhs frid

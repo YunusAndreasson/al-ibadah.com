@@ -1,7 +1,7 @@
 ---
 title: Då tiden för slakt av offerdjur för hajjul-tamattu’ tar slut under vallfärden
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 276 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -19,6 +19,6 @@ description: 'Fråga: När tar tiden för att slakta offerdjuret för hajjul-tam
 Och Allāh vet bäst.
 
 
-[^1]: När man först gör ´umrah och lämnar ihram för att därpå träda in i ihram för vallfärden.
+[^1]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
 [^2]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 

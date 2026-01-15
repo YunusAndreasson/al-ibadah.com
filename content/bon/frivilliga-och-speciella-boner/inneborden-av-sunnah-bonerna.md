@@ -1,7 +1,7 @@
 ---
 title: Innebörden av sunnah-bönerna
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 296 s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -21,7 +21,7 @@ De fasta *sunnah[^1]*-böner som finns är: två [eller fyra] bönecykler[^2] f�
 Dessa bönecykler[^2] är *sunnah[^1]* och inte obligatoriska. Den som ber dem belönas men den som inte ber dem straffas inte. De hjälper en att vänja sig vid dyrkan, de är bevis för kärlek till bönen och de gottgör även för brister i den obligatoriska bönen. Den som lämnar dem ibland syndar inte, men att alltid lämna dem är ett bevis på avsaknad av intresse för dyrkan.
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Rakah.
 [^3]: Dhuhr
 [^4]: Fajr

@@ -1,7 +1,7 @@
 ---
 title: Välgörenhet och åkallan för en avlidens räkning
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 65 s. ISBN saknas'
 categories:
 - Allmosa (Zakāh)
@@ -24,5 +24,5 @@ Den generella betydelsen av denna *hadīth[^4]* är att belöningen för välgö
 [^1]: Du´ā
 [^2]: adaqah jariyah
 [^3]: Dhuha
-[^4]: Avser oftast ett uttalande från profeten - över honom vare Allahs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

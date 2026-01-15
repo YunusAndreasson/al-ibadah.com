@@ -1,6 +1,6 @@
 ---
 title: Svalka sig
-author: Muhammad bin Sālih al-'Uthaymīn
+author: Muhammad bin Sālih al-ʿUthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 663 s. ISBN 9960-892-66-2'
 categories:
@@ -14,5 +14,5 @@ description: 'Fråga: Vilket är utlåtandet om en fastande som svalkar sig? Sva
 
 **Fråga:** Vilket är utlåtandet om en fastande som svalkar sig?
 
-**Svar:** Den fastande får svalka sig. Det finns ingen invändan mot detta då sändebudet – över honom vare Allāhs frid och välsignelser – under tiden han fastade brukade hälla vatten över sitt huvud på grund av hetta eller törst [*Abū Dawūd* 2365]. Även Ibn 'Umar brukade blöta sina kläder när han fastade för att lindra den värsta värmen och törsten. Fukt har ingen inverkan då detta vatten inte når magen.
+**Svar:** Den fastande får svalka sig. Det finns ingen invändan mot detta då sändebudet – över honom vare Allāhs frid och välsignelser – under tiden han fastade brukade hälla vatten över sitt huvud på grund av hetta eller törst [*Abū Dawūd* 2365]. Även Ibn ʿUmar brukade blöta sina kläder när han fastade för att lindra den värsta värmen och törsten. Fukt har ingen inverkan då detta vatten inte når magen.
 

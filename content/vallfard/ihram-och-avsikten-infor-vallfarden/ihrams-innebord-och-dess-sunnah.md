@@ -1,7 +1,7 @@
 ---
 title: Ihrāms innebörd och dess sunnah
-author: Ibn 'Abdur-Rahman al-Jibrīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ʿAbdur-Rahman al-Jibrīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 110 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -14,7 +14,7 @@ description: 'Fråga: Vilken är innebörden med ihrām och vad är sunnah för 
 
 **Fråga:** Vilken är innebörden med *ihrām[^1]* och vad är *sunnah[^2]* för en *muhrim[^3]* i fråga om den?
 
-**Svar:** *Ihrām[^1]* är avsikten för vallfärdsformen och det är hjärtats kontrakt för att träda in i vallfärdens eller 'umrahs[^4] heliga riter. Detta innebär att när någon går in i den, då håller denne sig borta från det förbjudna som inte är tillåtet för en *muhrim[^3]*.
+**Svar:** *Ihrām[^1]* är avsikten för vallfärdsformen och det är hjärtats kontrakt för att träda in i vallfärdens eller ʿumrahs[^4] heliga riter. Detta innebär att när någon går in i den, då håller denne sig borta från det förbjudna som inte är tillåtet för en *muhrim[^3]*.
 
 *Ihrām[^1]* är inte enbart att bära en viss sorts kläder, man kan ju utan att ha någon avsikt bära *ihrām[^1]*-kläder när man är hemma. Då kallas man inte för *muhrim[^3]*. En *muhrim[^3]* får även träda in i *ihrām[^1]* med sitt hjärta och lämna sina vanliga kläder på [som en skjorta, turban eller något liknande]. I detta fall får denne som gottgörelse dock göra ett offer.
 
@@ -24,7 +24,7 @@ Och Allāh vet bäst.
 
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^2]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
-[^3]: Någon som har trätt in i ihram.
+[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Någon som har trätt in i ihrām.
 [^4]: Den lilla vallfärden.
 

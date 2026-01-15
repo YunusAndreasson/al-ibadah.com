@@ -1,7 +1,7 @@
 ---
 title: Donera blod under fastan
-author: Dr. Salih Ibn Fowzan Ibn 'Abdullah Ibn Fowzan
-source: Fatāwa Ramadan - volym 2, sida 467, fatwa 405
+author: Dr. Salih Ibn Fowzan Ibn ʿAbdullah Ibn Fowzan
+source: Fatāwa Ramadan – volym 2, sida 467, fatwa 405
 categories:
 - Fasta (Sawm)
 - Vad som bryter eller inte bryter fastan

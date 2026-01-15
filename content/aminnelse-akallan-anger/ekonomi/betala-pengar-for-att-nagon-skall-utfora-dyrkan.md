@@ -1,7 +1,7 @@
 ---
 title: Betala pengar för att någon ska utföra dyrkan
-author: Muhammad bin Salih al-'Uthaymin
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muhammad bin Salih al-ʿUthaymin
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
 - Åminnelse, åkallan, ånger...
@@ -14,7 +14,7 @@ description: 'Fråga: En man som var generös och hade en god karaktär avled. D
 
 **Fråga:** En man som var generös och hade en god karaktär avled. Dock så varken fastade eller bad han. Efter hans död betalade hans föräldrar en summa pengar till en annan person för att han skulle be de böner som han själv inte förrättat och fasta det som han själv inte hade fastat. Är detta islamiskt sett korrekt och vilket är utlåtandet om att ta dessa pengar?
 
-**Svar:** Denne man som avled då han varken bad eller fastade har avlidit som en icke-troende – och vi söker tillflykt hos Allāh från detta. Anledningen är att den korrekta åsikten bland de lärda och vad Koranen, profetens – över honom vare Guds frid och välsignelser – sunnah[^1] och uttalanden från salaf[^2] - må Allāh vara nöjda med dem - stöder är att den som överger bönen är en icke-troende. Den som avvisar bönen – även om denne ber – är en icke-troende. Texterna som har rapporterats har enbart nämnt övergivande av bönen och inte avvisandet av att den är en skyldighet. Därför kan vi inte bortse från denna beskrivning som den islamiska lagen har gett beaktan eller att säga att den enbart avser ett avvisande, vilket vissa lärde har gjort. De påstår att innebörden av de rapporterade texterna som förkunnar otron för den som överger bönen avser den som överger den och samtidigt anser att den inte är en skyldighet [...]
+**Svar:** Denne man som avled då han varken bad eller fastade har avlidit som en icke-troende – och vi söker tillflykt hos Allāh från detta. Anledningen är att den korrekta åsikten bland de lärda och vad Koranen, profetens – över honom vare Guds frid och välsignelser – sunnah[^1] och uttalanden från salaf[^2] – må Allāh vara nöjda med dem – stöder är att den som överger bönen är en icke-troende. Den som avvisar bönen – även om denne ber – är en icke-troende. Texterna som har rapporterats har enbart nämnt övergivande av bönen och inte avvisandet av att den är en skyldighet. Därför kan vi inte bortse från denna beskrivning som den islamiska lagen har gett beaktan eller att säga att den enbart avser ett avvisande, vilket vissa lärde har gjort. De påstår att innebörden av de rapporterade texterna som förkunnar otron för den som överger bönen avser den som överger den och samtidigt anser att den inte är en skyldighet [...]
 
 Den som avvisar skyldigheten i bönen är en icke-troende även om denne går till moskén och ber med församlingen. Denne är en icke-troende om denne tror att de fem dagliga bönerna inte är obligatoriska för denne och denne enbart ber dem som frivilliga handlingar. Med utgångspunkt i detta blir det klart att det inte är rätt att påstå att innebörden av texterna som pekar på otro för den som överger bönen gäller den som överger bönen och avvisar att den är nödvändigt.
 
@@ -25,6 +25,6 @@ Det som familjen gav till denne man är inte rätt då det inte är rätt att up
 > ”Och Vi ska se på det som de [tror sig] ha åstadkommit och Vi ska förvandla det till stoft som skingras för alla vindar.” [Koranen 25:23]
 
 
-[^1]: Väg eller sätt... Hur profeten - över honom vare Allahs frid och välsignelser - levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: De tre första generationerna i islam.
 

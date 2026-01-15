@@ -1,8 +1,8 @@
 ---
 title: Upphävelse av hajjul-qirān och hajjul-ifrad
-author: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 106 s. ISBN saknas'
-source: Ibn 'Abdullah Ibn Baz
+source: Ibn ʿAbdullah Ibn Baz
 categories:
 - Vallfärd (Hajj)
 - Riterna under vallfärden
@@ -20,7 +20,7 @@ Och Allāh är den som ger framgång.
 
 
 [^1]: Utför vallfärden och ´umrah samtidigt med en intention.
-[^2]: När man först gör ´umrah och lämnar ihram för att därpå träda in i ihram för vallfärden.
+[^2]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
 [^3]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^4]: Den lilla vallfärden.
 [^5]: Den sju långa rundar vandringen runt Kabah.

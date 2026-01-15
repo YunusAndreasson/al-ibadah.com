@@ -1,6 +1,6 @@
 ---
 title: Bön bakom en imam som använder talismaner
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. x s. ISBN saknas'
 categories:
 - Bön (Salāh)
@@ -19,5 +19,5 @@ Talismaner, om de kommer från Koranen eller tillåten åkallan[^1], då är de 
 
 
 [^1]: Du´ā
-[^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allahs sida i ens dyrkan.
+[^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

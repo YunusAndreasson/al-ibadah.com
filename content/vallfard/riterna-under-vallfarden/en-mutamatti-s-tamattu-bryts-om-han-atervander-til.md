@@ -1,7 +1,7 @@
 ---
 title: En mutamatti's tamattu bryts om han återvänder till sitt land
-author: Muhammad bin Sālih al-'Uthaymīn
-source: 'Muhammad bin ''Abdul-''Aziz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Muhammad bin Sālih al-ʿUthaymīn
+source: 'Muhammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 100 s. ISBN saknas'
 categories:
 - Vallfärd (Hajj)
@@ -20,7 +20,7 @@ Att denne påbörjar sin resa [från sitt land igen] innebär att en ny vallfär
 
 
 [^1]: Någon som både gör `umrah och vallfärdar.
-[^2]: När man först gör ´umrah och lämnar ihram för att därpå träda in i ihram för vallfärden.
+[^2]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
 [^3]: Någon som enbart vallfärdar.
 [^4]: Den lilla vallfärden.
 
