@@ -8,7 +8,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
 categories:
   - Troslära (´Aqīdah)
   - Sekter, rörelser och den rätta vägen
-  - ahlus-sunnah
+  - Ahlus-sunnah
 original_id: 138
 description: 'Fråga: Det finns en sekt som kallas ash-shathliyyah. De varken ber,
  fastar eller betalar allmosa och det finns en person som de kallar ”Sayyidunna”

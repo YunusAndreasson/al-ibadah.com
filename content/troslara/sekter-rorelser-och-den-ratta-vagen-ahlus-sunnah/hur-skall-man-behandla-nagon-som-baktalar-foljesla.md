@@ -7,7 +7,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
 categories:
   - Troslära (´Aqīdah)
   - Sekter, rörelser och den rätta vägen
-  - ahlus-sunnah
+  - Ahlus-sunnah
 original_id: 111
 description: 'Fråga: Hur bör vi behandla en man som baktalar de tre följeslagarna
  [Abū Bakr, ´Umar och ‘Uthmān]? Svar: profetens – över honom vare Allāhs frid

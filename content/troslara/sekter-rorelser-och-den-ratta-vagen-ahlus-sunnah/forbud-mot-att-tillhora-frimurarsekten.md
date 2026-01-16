@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
 categories:
   - Troslära (´Aqīdah)
   - Sekter, rörelser och den rätta vägen
-  - ahlus-sunnah
+  - Ahlus-sunnah
 original_id: 133
 description: 'Fråga: Är det tillåtet att gå med i frimurarsekten? Svar: Frimurarrörelsen
  är ett hemligt sällskap som under vissa tidpunkter döljer sin organisation och vid

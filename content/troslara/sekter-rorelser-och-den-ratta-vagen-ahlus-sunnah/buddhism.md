@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
 categories:
   - Troslära (´Aqīdah)
   - Sekter, rörelser och den rätta vägen
-  - ahlus-sunnah
+  - Ahlus-sunnah
 original_id: 135
 description: 'Fråga: Har buddisterna en Skrift? Svar: Vi känner inte till att
  de har en uppenbarad skrift. Utlåtandet om dem är att de dyrkar avgudar och skulle

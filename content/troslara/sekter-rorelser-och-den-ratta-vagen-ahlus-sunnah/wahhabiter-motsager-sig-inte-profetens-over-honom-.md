@@ -7,7 +7,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
 categories:
   - Troslära (´Aqīdah)
   - Sekter, rörelser och den rätta vägen
-  - ahlus-sunnah
+  - Ahlus-sunnah
 original_id: 137
 description: 'Fråga: Motsäger sig ”wahhabiterna” profetens – över honom vare Allāhs
  frid och välsignelser – medling? Svar: För den som har studerat Muḥammad bin

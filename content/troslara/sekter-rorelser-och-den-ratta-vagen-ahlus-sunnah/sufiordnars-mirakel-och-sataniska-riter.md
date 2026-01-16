@@ -7,7 +7,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
 categories:
   - Troslära (´Aqīdah)
   - Sekter, rörelser och den rätta vägen
-  - ahlus-sunnah
+  - Ahlus-sunnah
 original_id: 139
 description: 'Fråga: Det finns en dervish-sekt nära oss och där finns en man från
  vår släkt som dricker vatten från sektens läder. Sedan slår han på sin mage med

@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
 categories:
   - Troslära (´Aqīdah)
   - Sekter, rörelser och den rätta vägen
-  - ahlus-sunnah
+  - Ahlus-sunnah
 original_id: 56
 description: 'Fråga: Vilket är utlåtandet om de som påstår att profeten – över honom
  vare Allāhs frid och välsignelser – rekommenderade ’Ali som kalif? Svar: Detta

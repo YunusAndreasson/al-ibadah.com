@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
 categories:
   - Troslära (´Aqīdah)
   - Sekter, rörelser och den rätta vägen
-  - ahlus-sunnah
+  - Ahlus-sunnah
 original_id: 144
 description: 'Fråga: Vilken är er åsikt om förespråkandet för nationalism, som säger
  att det är viktigare att tillhöra en ras eller ett språk än att tillhöra en religion?

@@ -7,7 +7,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
 categories:
   - Troslära (´Aqīdah)
   - Sekter, rörelser och den rätta vägen
-  - ahlus-sunnah
+  - Ahlus-sunnah
 original_id: 106
 description: 'Fråga: Vilken är ahlus-sunnah wal-jamā’ats inställning till meningsskiljaktigheter
  bland följeslagarna? Vilket är utlåtandet om att förbanna dem? Ahlus-sunnah wal-jamā’at undviker

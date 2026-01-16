@@ -5,7 +5,7 @@ source: Kitābul-’Ilm – sida 128, fråga 25
 categories:
   - Troslära (´Aqīdah)
   - Sekter, rörelser och den rätta vägen
-  - ahlus-sunnah
+  - Ahlus-sunnah
 original_id: 591
 description: 'Fråga: Vilken är nyttan med att studera avvikande sekter som mu’tazilah,
  jahmiyyah och khawārij, då de inte existerar nuförtiden? Svar: Att lära sig

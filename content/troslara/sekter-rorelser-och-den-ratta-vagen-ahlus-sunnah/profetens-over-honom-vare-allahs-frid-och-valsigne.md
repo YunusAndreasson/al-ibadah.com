@@ -7,7 +7,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
 categories:
   - Troslära (´Aqīdah)
   - Sekter, rörelser och den rätta vägen
-  - ahlus-sunnah
+  - Ahlus-sunnah
 original_id: 1068
 description: 'Fråga: Profeten – över honom vare Allāhs frid och välsignelser – har
  informerat oss om hur det muslimska samfundet skulle splittra sig efter hans bortgång.
