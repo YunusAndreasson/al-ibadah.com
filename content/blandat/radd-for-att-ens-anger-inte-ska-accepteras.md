@@ -26,7 +26,7 @@ Det finns en annan vers av ännu större innebörd. Den förklarar att om en per
 
 > ”Och de anropar aldrig en gudom vid sidan av Gud och de berövar aldrig en människa livet – som Gud har förklarat heligt – annat än i rättfärdigt syfte, och de avhåller sig från äktenskapsbrott. Den som begår dessa svåra synder ska få sona dem med en exemplarisk bestraffning [och] på Uppståndelsens dag ska hans straff fördubblas och han ska gå bort med skammen för att lida detta straff i evigheten.” [Koranen 25:68 – 70]
 
-Allāh den Allsmäktige informerar oss här om att Han ändrar deras dåliga handlingar till goda med anledning av deras ånger, tro och goda handlingar. Om du begrundar dina synder, som är oförrätter mot Honom, och du ångrar dig efter detta och istället gör rättfärdiga handlingar utav tro, övertygelse och i hopp om Allāhs belöningar, då byter du de dåliga handlingarna mot goda.
+Allāh den Allsmäktige informerar oss här om att Han ändrar deras dåliga handlingar till goda med anledning av deras ånger, tro och goda handlingar. Om du begrundar dina synder, som är oförrätter mot Honom, och du ångrar dig efter detta och i stället gör rättfärdiga handlingar utav tro, övertygelse och i hopp om Allāhs belöningar, då byter du de dåliga handlingarna mot goda.
 
 Det samma gäller för allt ont en tjänare ångrar sig över och följer upp med tro och goda gärningar. Allāh ändrar dem till gott på grund av Hans nåd.
 

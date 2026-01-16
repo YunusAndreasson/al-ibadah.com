@@ -15,5 +15,5 @@ description: 'Fråga: Om någon som leds i bön börjar be när imamen befinner 
 
 **Fråga:** Om någon som leds i bön börjar be när imamen befinner sig i nedfallan, bör denne då vänta tills han [imamen] står upp eller ska denne nedfalla med honom [imamen]?
 
-**Svar:** Det är bäst att inte vänta och [istället] börja be med imamen i vilken position man än finner honom. Detta enligt den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Det du får, be det*.” [*al-Bukhārī* 636]
+**Svar:** Det är bäst att inte vänta och [i stället] börja be med imamen i vilken position man än finner honom. Detta enligt den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Det du får, be det*.” [*al-Bukhārī* 636]
 
