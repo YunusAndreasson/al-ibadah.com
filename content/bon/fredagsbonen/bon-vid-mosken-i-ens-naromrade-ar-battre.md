@@ -3,7 +3,9 @@ title: Bön vid moskén i ens närområde är bättre
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 477 s. ISBN saknas'
-categories: – Bön (Salāh) – Fredagsbönen
+categories:
+  - Bön (Salāh)
+  - Fredagsbönen
 original_id: 370
 description: 'Fråga: Får Allāhs tjänare överge moskén i närområdet för att på fredagen
  gå till en annan som ligger längre bort? Predikanten där är mycket kunnig och håller

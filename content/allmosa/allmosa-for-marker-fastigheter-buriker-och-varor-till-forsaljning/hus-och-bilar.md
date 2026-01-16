@@ -3,7 +3,9 @@ title: Hus och bilar
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 171 s. ISBN saknas'
-categories: – Allmosa (Zakāh) – Allmosa för marker, fastigheter, buriker och varor till försäljning
+categories:
+  - Allmosa (Zakāh)
+  - Allmosa för marker, fastigheter, buriker och varor till försäljning
 original_id: 615
 description: 'Fråga: Det finns en man som har fordon och hus. Intäkterna han får
  genom dem spenderar han på sin familj. Han sparar då inte några pengar under ett

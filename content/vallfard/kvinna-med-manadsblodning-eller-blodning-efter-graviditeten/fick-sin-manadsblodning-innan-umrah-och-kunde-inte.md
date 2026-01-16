@@ -5,7 +5,9 @@ author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 158 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Vallfärd (Hajj) – Kvinna med månadsblödning eller blödning efter graviditeten
+categories:
+  - Vallfärd (Hajj)
+  - Kvinna med månadsblödning eller blödning efter graviditeten
 original_id: 785
 description: 'Fråga: En kvinna kom och gick in i ihrām för ‘umrah och när hon
  hade anlänt till Mecka fick hon sin månadsblödning. Hennes mahram tvingades att

@@ -3,7 +3,9 @@ title: Kläder som hänger nedanför anklarna och olika kategorier beträffande 
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 111 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Klädseln
+categories:
+  - Bön (Salāh)
+  - Klädseln
 original_id: 932
 description: 'Fråga: Vilket är straffet för att låta ens klädesplagg hänga nedanför
  anklarna om man avsåg att visa högmod och vilket är straffet om man inte avsåg att

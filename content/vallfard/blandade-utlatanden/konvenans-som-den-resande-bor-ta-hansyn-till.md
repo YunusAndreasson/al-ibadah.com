@@ -3,7 +3,9 @@ title: Konvenans som den resande bör ta hänsyn till
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fatāwa Ibn ´Uthaymīn, 21/16 Muhammed Knut Bernström (1421), Koranens budskap
  . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Vallfärd (Hajj) – Blandade utlåtanden
+categories:
+  - Vallfärd (Hajj)
+  - Blandade utlåtanden
 original_id: 1307
 description: 'Fråga: Finns det någon speciell konvenans som den resande bör ta hänsyn
  till, speciellt när denne vallfärdar? Svar: All lovprisan tillhör Allāh. De

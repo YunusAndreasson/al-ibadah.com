@@ -3,7 +3,9 @@ title: Ihrām för den som anländer med båt eller flyg
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 86 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – al-Mawaqit
+categories:
+  - Vallfärd (Hajj)
+  - al-Mawaqit
 original_id: 734
 description: 'Fråga: När träder den in i ihrām som kommer med flyg till vallfärden
  eller ‘umrah? Svar: Den som kommer med flyg eller båt går in i ihrām när

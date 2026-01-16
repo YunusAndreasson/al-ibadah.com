@@ -3,7 +3,9 @@ title: Syndar man om man reciterar Koranen fel?
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Bön (Salāh) – Koranrecitation
+categories:
+  - Bön (Salāh)
+  - Koranrecitation
 original_id: 1664
 description: 'Fråga: Jag läser ofta Koranen men jag känner inte till mycket om recitationsregler
  och därmed begår jag många fel när jag reciterar. Syndar jag? Svar: Varje muslim

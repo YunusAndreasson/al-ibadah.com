@@ -4,7 +4,8 @@ author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 21 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Vallfärd (Hajj)
+categories:
+  - Vallfärd (Hajj)
 original_id: 700
 description: 'Fråga: All lovprisan tillhör Allāh ensam och må böner med välsignelser
  och frid vara över Hans tjänare och Budbärare, vår profet Muḥammad, och hans följeslagare

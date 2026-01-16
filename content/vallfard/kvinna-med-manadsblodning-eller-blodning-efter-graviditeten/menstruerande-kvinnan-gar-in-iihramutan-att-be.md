@@ -3,7 +3,9 @@ title: Menstruerande kvinnan går in i ihrām utan att be
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 152 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Kvinna med månadsblödning eller blödning efter graviditeten
+categories:
+  - Vallfärd (Hajj)
+  - Kvinna med månadsblödning eller blödning efter graviditeten
 original_id: 1345
 description: 'Fråga: Hur ber en kvinna med månadsblödning de båda bönecykler för
  ihrām? Svar: En kvinna med månadsblödning ber inte två bönecykler för ihrām

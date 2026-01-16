@@ -3,7 +3,9 @@ title: Radband
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 491 s. ISBN 9960-892-66-2'
-categories: – Blandat – Åminnelse
+categories:
+  - Blandat
+  - Åminnelse
 original_id: 966
 description: 'Fråga: Vilken är er åsikt om att använda radband när man gör tasbih
 ? Må Allāh belöna er med det goda. Svar: Det är tillåtet att använda radband.

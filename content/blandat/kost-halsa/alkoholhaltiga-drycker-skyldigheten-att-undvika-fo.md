@@ -3,7 +3,9 @@ title: Alkoholhaltiga drycker – skyldigheten att undvika försäljning, frakt 
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Kost & hälsa
+categories:
+  - Blandat
+  - Kost & hälsa
 original_id: 1632
 description: 'Fråga: En man som dricker alkoholhaltiga drycker avser att hålla sig
  borta från dem och ångra sig för vad han gjort. Han begav sig då från Jordanien

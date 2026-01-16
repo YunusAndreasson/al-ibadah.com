@@ -3,7 +3,9 @@ title: Visdomen i att recitera högt i vissa böner och lågt i andra
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 142 s. ISBN saknas'
-categories: – Bön (Salāh) – Blandade utlåtanden
+categories:
+  - Bön (Salāh)
+  - Blandade utlåtanden
 original_id: 187
 description: 'Fråga : Varför reciterar man med höjd röst under kvällsbönen, nattbönen[^1]
  och gryningsbönen men inte under de andra bönerna? Vilket är beviset för detta? Svar: Allāh

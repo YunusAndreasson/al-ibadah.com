@@ -3,7 +3,9 @@ title: Uppriktighet i vallfärden
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fatāwa Ibn ´Uthaymīn 21/18 Muhammed Knut Bernström (1421), Koranens budskap
  . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Vallfärd (Hajj) – Blandade utlåtanden
+categories:
+  - Vallfärd (Hajj)
+  - Blandade utlåtanden
 original_id: 895
 description: 'Fråga: Hur kan en pilgrim vara uppriktig mot Allāh då denne utför ritualerna?
  Om denne vill göra affärer för att tjäna sitt levebröd samtidigt som denne vallfärdar,

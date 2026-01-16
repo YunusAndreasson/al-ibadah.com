@@ -1,6 +1,7 @@
 ---
 title: Muḥammad Nāsir-ud-Dīn al-Albānī
-categories: – Biografier
+categories:
+  - Biografier
 original_id: 12
 description: '"Sedan den dagen jag träffade honom lämnade han aldrig fastan under
  måndagar och torsdagar om det inte var så att han reste eller var sjuk." [Muhaddith

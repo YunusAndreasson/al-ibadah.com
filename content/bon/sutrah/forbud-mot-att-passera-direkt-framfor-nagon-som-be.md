@@ -3,7 +3,9 @@ title: Förbud mot att passera direkt framför någon som ber
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 169 s. ISBN saknas'
-categories: – Bön (Salāh) – Sutrah [Vad som avskärmar den bedjande]
+categories:
+  - Bön (Salāh)
+  - Sutrah [Vad som avskärmar den bedjande]
 original_id: 1478
 description: 'Fråga: Får den som vill be om välgörenhet passera framför någon som
  ber? Svar: Det är förbjudet att gå direkt framför den som ber. Detta gäller

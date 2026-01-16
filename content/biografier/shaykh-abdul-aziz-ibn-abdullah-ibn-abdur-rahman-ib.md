@@ -1,6 +1,7 @@
 ---
 title: Shaykh ´Abdul-´Azīz Ibn ´Abdullāh Ibn ´Abdur-Rahmān Ibn Bāz
-categories: – Biografier
+categories:
+  - Biografier
 original_id: 8
 description: '"Om han talade i telefon och bad någon om någonting och han behövde vänta
  på svaret, då fördrev han tiden med att prisa Allāh (Subhān-Allāh) och genom att

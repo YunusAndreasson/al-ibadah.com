@@ -3,7 +3,9 @@ title: Senilitet gör att man inte är ansvarig
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 285 s. ISBN saknas'
-categories: – Fasta (Sawm) – Vem som får bryta fastan
+categories:
+  - Fasta (Sawm)
+  - Vem som får bryta fastan
 original_id: 1401
 description: 'Fråga: Jag har en mormor som är mycket gammal. Hon har inte fastat
  under de senaste åren då hon inte har kunnat. Hon avled detta året och hon gottgjorde

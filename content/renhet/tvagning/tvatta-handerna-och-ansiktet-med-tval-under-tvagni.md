@@ -3,7 +3,9 @@ title: Tvätta händerna och ansiktet med tvål under tvagningen
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 81 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Tvagning
+categories:
+  - Renhet (Tahārah)
+  - Tvagning
 original_id: 1434
 description: 'Fråga: Vilket är utlåtandet om att tvätta händerna och ansiktet med
  tvål under tvagningen? Svar: Att tvätta händerna och ansiktet med tvål under

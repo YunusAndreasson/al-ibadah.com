@@ -3,7 +3,9 @@ title: Tawāful-ifādhah är tillräcklig för tawāful-wadā
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 189 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Tawāf och sa’ī
+categories:
+  - Vallfärd (Hajj)
+  - Tawāf och sa’ī
 original_id: 815
 description: 'Fråga: Vilket är utlåtandet om den som skjuter upp tawāful-ifādhah till tawāful-wadā och
  gör dem till en tawāf men avsikten att tawāful-ifādhah och tawāful-wadā är

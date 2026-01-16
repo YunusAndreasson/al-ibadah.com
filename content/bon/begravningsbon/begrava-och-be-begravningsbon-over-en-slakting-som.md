@@ -3,7 +3,9 @@ title: Begrava och be begravningsbön över en släkting som inte har varit troe
 author: Shaykh Muḥammad Nāsir al-Dīn al-Albāni
 source: 'al-Silsilah al-Sahīhah, s. 94 Muhammed Knut Bernström (1421), Koranens budskap
  . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Bön (Salāh) – Begravningsbön
+categories:
+  - Bön (Salāh)
+  - Begravningsbön
 original_id: 1160
 description: 'Fråga: Min far har dött och han var icke-troende. Vad har jag för ansvar
  mot honom? Skall jag begrava honom och arrangera hans begravning? Skall jag tvätta

@@ -3,7 +3,9 @@ title: Bön i församlingen är obligatoriskt
 author: n/a
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. x s. ISBN saknas'
-categories: – Bön (Salāh) – Bönen i församlingen
+categories:
+  - Bön (Salāh)
+  - Bönen i församlingen
 original_id: 1521
 description: 'Fråga: Somliga – må Allāh vägleda dem – är inte närvarande vid bönen
  i församlingen. Detta sker utan giltiga ursäkter. Några ursäktar sig med att de

@@ -3,7 +3,9 @@ title: Kom in i fredagsbönen när imamen var i tashahhud
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 465 s. ISBN saknas'
-categories: – Bön (Salāh) – Fredagsbönen
+categories:
+  - Bön (Salāh)
+  - Fredagsbönen
 original_id: 1549
 description: 'Fråga: Om jag gick in i moskén när imamen bad fredagsbönen och han
  satt i tashahhud, bör jag då be den som fredagsbön eller middagsbönen? Svar: Om

@@ -3,7 +3,9 @@ title: Erotiska drömmar – kommer ihåg dem i efterhand
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 62 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
+categories:
+  - Renhet (Tahārah)
+  - Ghusl [Den stora tvagningen]
 original_id: 1427
 description: 'Fråga: Ibland kommer jag ihåg erotiska drömmar när jag vaknar, men
  jag ser inga spår av utlösning. Måste jag göra ghusl då? Vänligen, ge mig ett

@@ -1,7 +1,9 @@
 ---
 title: Tala om sex över telefonen
 author: Muḥammad bin Sālih al-´Uthaymīn
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1711
 description: 'Fråga: Får ett gift par att tala om sex över telefonen och hetsa upp
  varandra till den grad att någon eller båda får en orgasm [utan att använda handen,

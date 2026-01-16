@@ -4,7 +4,9 @@ author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 228 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Gravdyrkan
+categories:
+  - Troslära (´Aqīdah)
+  - Gravdyrkan
 original_id: 1190
 description: 'Fråga: Vilket är utlåtandet om att åkalla vid sidan av en grav till
  den som ligger begravd i den? Svar: Åkallan delas in i två kategorier: Åkallan

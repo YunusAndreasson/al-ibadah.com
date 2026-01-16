@@ -4,7 +4,9 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 302 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Sändebuden
+categories:
+  - Troslära (´Aqīdah)
+  - Sändebuden
 original_id: 129
 description: 'Fråga: Är Jesus, Marias son, vid liv? Var befinner han sig om han är
  vid liv? Vilka bevis finns i Allāhs skrift och profetens – över honom vare Allāhs

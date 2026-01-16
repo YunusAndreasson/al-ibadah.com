@@ -3,7 +3,9 @@ title: Gottgörelse för en synd man har begått dagtid under ramadan
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 259 s. ISBN saknas'
-categories: – Fasta (Sawm) – Ta igen missad fasta
+categories:
+  - Fasta (Sawm)
+  - Ta igen missad fasta
 original_id: 414
 description: 'Fråga: Jag skulle vilja fråga dig om hur man gottgör sig för att ha
  masturberat dagtid under ramadan. Jag vet att det inte är tillåtet men finns det

@@ -3,7 +3,9 @@ title: Tvekade men utförde inte nedfallandet för glömska
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 278 s. ISBN saknas'
-categories: – Bön (Salāh) – Glömska och dålig koncentration
+categories:
+  - Bön (Salāh)
+  - Glömska och dålig koncentration
 original_id: 276
 description: 'Fråga: Om jag kände tveksamheter i fråga om bönen och jag inte gjorde
  nedfallandet för glömska[^1], är min bön då ogiltig? Detta med vetskap om att jag inte

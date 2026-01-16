@@ -3,7 +3,9 @@ title: Höja händerna under åkallan i qunūt
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 508 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Nattbön och witr
+categories:
+  - Bön (Salāh)
+  - Nattbön och witr
 original_id: 976
 description: 'Fråga: Är det en del av profetens – över honom vare Allāhs frid och
  välsignelser – sunnah att höja händerna när man åkallar under qunūt och vilka

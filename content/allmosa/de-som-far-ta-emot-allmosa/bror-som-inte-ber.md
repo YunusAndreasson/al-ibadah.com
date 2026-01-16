@@ -3,7 +3,9 @@ title: Bror som inte ber
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 193 s. ISBN saknas'
-categories: – Allmosa (Zakāh) – De som får ta emot allmosa
+categories:
+  - Allmosa (Zakāh)
+  - De som får ta emot allmosa
 original_id: 642
 description: 'Fråga: Får jag ge min mor en summa pengar och anse att den är en allmosa?
  Detta i vetskap om att min far försörjer henne och han är förmögen, alhamdulillah

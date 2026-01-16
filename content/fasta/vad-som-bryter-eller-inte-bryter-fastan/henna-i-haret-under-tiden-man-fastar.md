@@ -3,7 +3,9 @@ title: Henna i håret under tiden man fastar
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 264 s. ISBN saknas'
-categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
+categories:
+  - Fasta (Sawm)
+  - Vad som bryter eller inte bryter fastan
 original_id: 420
 description: 'Fråga: Är det tillåtet att ta henna i håret medan man fastar och ber?
  Jag frågar för jag har hört att henna bryter fastan. Svar: Detta stämmer inte.

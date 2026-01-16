@@ -4,7 +4,9 @@ author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 249 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
+categories:
+  - Fasta (Sawm)
+  - Vad som bryter eller inte bryter fastan
 original_id: 407
 description: 'Fråga: Det finns en person som har prövats genom alkohol. Detta till
  den grad att denne till och med dricker under ramadan. Vilket är utlåtandet om dennes

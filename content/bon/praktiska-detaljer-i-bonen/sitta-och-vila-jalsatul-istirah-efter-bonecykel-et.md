@@ -3,7 +3,9 @@ title: Sitta och vila [jalsatul-istirāh] efter bönecykel ett och tre
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 166 s. ISBN saknas'
-categories: – Bön (Salāh) – Praktiska detaljer i bönen
+categories:
+  - Bön (Salāh)
+  - Praktiska detaljer i bönen
 original_id: 1477
 description: 'Fråga: Är det obligatoriskt eller är det en betonad sunnah att sitta
  [innan man reser sig] efter den första och tredje bönecykeln? Svar: De lärde

@@ -3,7 +3,9 @@ title: Lydnad av Allāh den Allsmäktige ges företräde över lydnad av föräl
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1691
 description: 'Fråga: Jag avsåg att bege mig till Mecka för att göra ´umrah men
  när jag berättade om detta sades det till mig att jag behövde besöka släktingar

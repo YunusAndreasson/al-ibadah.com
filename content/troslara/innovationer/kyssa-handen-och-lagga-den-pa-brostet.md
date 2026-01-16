@@ -3,7 +3,9 @@ title: Kyssa handen och lägga den på bröstet
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Innovationer
+categories:
+  - Troslära (´Aqīdah)
+  - Innovationer
 original_id: 1650
 description: 'Fråga: Jag har märkt att somliga kysser handen och lägger den på bröstet
  när de hälsar. Jag antar att det är för att försöka öka den ömsesidiga kärleken

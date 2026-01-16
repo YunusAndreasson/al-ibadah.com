@@ -4,7 +4,9 @@ title: Vallfärdar som en mutamatti' och efter ‘umrah ger en doktor honom råd
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 101 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Riterna under vallfärden
+categories:
+  - Vallfärd (Hajj)
+  - Riterna under vallfärden
 original_id: 746
 description: 'Fråga: Jag gav mig av för att vallfärda som en mutamatti'' och efter
  att jag gjort ‘umrah för vallfärden begav jag mig till Mina under den tredje dagen

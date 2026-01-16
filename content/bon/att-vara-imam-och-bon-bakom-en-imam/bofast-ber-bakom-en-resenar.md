@@ -3,7 +3,9 @@ title: Bofast ber bakom en resenär
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 153 s. ISBN saknas'
-categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
+categories:
+  - Bön (Salāh)
+  - Att vara imam och bön bakom en imam
 original_id: 1470
 description: 'Fråga: En person begav sig ut på en resa och han ville be middagsbönen
  i församling. Han fann någon som redan hade bett middagsbönen men denne var inte

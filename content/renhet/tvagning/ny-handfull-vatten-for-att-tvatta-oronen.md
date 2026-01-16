@@ -3,7 +3,9 @@ title: Ny handfull vatten för att tvätta öronen
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 320 s. ISBN 9960-892-66-2'
-categories: – Renhet (Tahārah) – Tvagning
+categories:
+  - Renhet (Tahārah)
+  - Tvagning
 original_id: 1124
 description: 'Fråga: Krävs det att den som tvagar sig tar en ny handfull vatten för
  att tvätta öronen? Svar: Det är inte nödvändigt att ta en ny handfull vatten

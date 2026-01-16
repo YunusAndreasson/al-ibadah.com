@@ -3,7 +3,9 @@ title: Bön över den avlidne som finns på en annan plats
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 66 s. ISBN saknas'
-categories: – Bön (Salāh) – Begravningsbön
+categories:
+  - Bön (Salāh)
+  - Begravningsbön
 original_id: 389
 description: 'Fråga: Hur ber vi över en bortgången som inte finns hos oss? Svar: Bönen
  över någon som har gått bort och som finns på en annan plats går till på samma sätt

@@ -3,7 +3,9 @@ title: Vill gifta sig med en kvinna men modern är inte nöjd med valet
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1689
 description: 'Fråga: Jag vill gifta mig med en kvinna som min fader är nöjd med.
  Hon har godkänt mitt frieri och även hennes familj godkänner. Det enda problemet

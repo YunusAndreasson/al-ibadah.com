@@ -3,7 +3,9 @@ title: Reser från ett land till ett annat och nymånen siktas vid olika tidpunk
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 629 s. ISBN 9960-892-66-2'
-categories: – Fasta (Sawm) – När ramadan börjar och slutar
+categories:
+  - Fasta (Sawm)
+  - När ramadan börjar och slutar
 original_id: 1033
 description: 'Fråga: En fastande reser från ett islamiskt land till ett annat. I
  det första landet tillkännagavs det att nymånen i shawwal hade siktats. Bör han

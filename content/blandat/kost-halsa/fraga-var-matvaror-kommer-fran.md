@@ -3,7 +3,9 @@ title: Fråga var matvaror kommer från
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Kost & hälsa
+categories:
+  - Blandat
+  - Kost & hälsa
 original_id: 1636
 description: 'Fråga: Jag har lärt mig något om dygdigheten hos imamerna i frågor
  om mat, som när det gäller imam ash-Shafi''i. Imam Ahmad ville heller inte ta emot

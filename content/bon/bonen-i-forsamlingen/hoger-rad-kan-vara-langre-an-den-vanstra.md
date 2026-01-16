@@ -3,7 +3,9 @@ title: Höger rad kan vara längre än den vänstra
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 337 s. ISBN saknas'
-categories: – Bön (Salāh) – Bönen i församlingen
+categories:
+  - Bön (Salāh)
+  - Bönen i församlingen
 original_id: 307
 description: 'Fråga: Iqāmah ropades ut för nattbönen[^1] och radens högra sida fylldes.
  På den vänstra sidan fanns det endast ett fåtal personer. Vi sade då: ”Gör raden

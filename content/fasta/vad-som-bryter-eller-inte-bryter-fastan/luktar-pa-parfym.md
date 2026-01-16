@@ -3,7 +3,9 @@ title: Luktar på parfym
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 661 s. ISBN 9960-892-66-2'
-categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
+categories:
+  - Fasta (Sawm)
+  - Vad som bryter eller inte bryter fastan
 original_id: 1052
 description: 'Fråga: Vilket är utlåtandet om en fastande som luktar på parfym? Svar: Det
  finns ingen invändan mot att en fastande luktar på parfym oavsett om det är

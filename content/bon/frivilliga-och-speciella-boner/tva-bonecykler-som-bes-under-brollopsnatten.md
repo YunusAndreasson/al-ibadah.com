@@ -3,7 +3,9 @@ title: Två bönecykler som bes under bröllopsnatten
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 525 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Frivilliga och speciella böner
+categories:
+  - Bön (Salāh)
+  - Frivilliga och speciella böner
 original_id: 983
 description: 'Fråga: Vilket är utlåtandet om att be två bönecykler på bröllopsnatten
  innan man har intim samvaro med frun? Svar: Vissa av profetens – över honom

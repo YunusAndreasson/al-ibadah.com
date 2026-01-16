@@ -4,7 +4,9 @@ title: Avsikten under fastan – om den måste utformas inför varje dag eller o
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 645 s. ISBN 9960-892-66-2'
-categories: – Fasta (Sawm) – Bryta och påbörja fastan
+categories:
+  - Fasta (Sawm)
+  - Bryta och påbörja fastan
 original_id: 1042
 description: 'Fråga: Kräver varje fastedag en avsikt eller är det tillräckligt att
  utforma en avsikt för hela månaden? Svar: Det är tillräckligt att utforma avsikten

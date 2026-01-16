@@ -3,7 +3,9 @@ title: Betala allmosa till långivaren eller till låntagaren
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 610 s. ISBN 9960-892-66-2'
-categories: – Allmosa (Zakāh) – Lånade och utlånade tillgångar
+categories:
+  - Allmosa (Zakāh)
+  - Lånade och utlånade tillgångar
 original_id: 1254
 description: 'Fråga: Är det bättre för låntagaren om denne får allmosan för att betala
  sina skulder eller bör den som ger allmosan gå till långivaren och ge den till honom? Svar: Det

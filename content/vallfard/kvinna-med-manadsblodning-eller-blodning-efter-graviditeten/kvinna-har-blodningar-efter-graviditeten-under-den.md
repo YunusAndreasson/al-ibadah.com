@@ -4,7 +4,9 @@ title: Kvinna har blödningar efter graviditeten under den åttonde thul-hijjah 
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 161 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Kvinna med månadsblödning eller blödning efter graviditeten
+categories:
+  - Vallfärd (Hajj)
+  - Kvinna med månadsblödning eller blödning efter graviditeten
 original_id: 787
 description: 'Fråga: En kvinna med blödningar efter graviditeten inleder sin blödning
  under tarwiyyah -dagen och hon fullföljer vallfärdens pelare utom tawāf och sa’ī

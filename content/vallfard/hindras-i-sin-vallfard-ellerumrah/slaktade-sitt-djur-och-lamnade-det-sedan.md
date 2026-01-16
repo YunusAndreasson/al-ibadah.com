@@ -3,7 +3,9 @@ title: Slaktade sitt djur och lämnade det sedan
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 271 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Hindras i sin vallfärd eller ´umrah
+categories:
+  - Vallfärd (Hajj)
+  - Hindras i sin vallfärd eller ´umrah
 original_id: 866
 description: 'Fråga: Vilket är utlåtandet om dem som slaktade ett offerdjur för att
  sedan lämna det? Är det tillräckligt? Svar: För den som slaktar ett offerdjur

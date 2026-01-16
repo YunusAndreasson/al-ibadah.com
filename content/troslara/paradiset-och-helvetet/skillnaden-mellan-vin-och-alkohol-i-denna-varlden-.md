@@ -3,7 +3,9 @@ title: Skillnaden mellan vin och alkohol i denna världen och den Nästa
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Paradiset och Helvetet
+categories:
+  - Troslära (´Aqīdah)
+  - Paradiset och Helvetet
 original_id: 1659
 description: 'Fråga: Vi vet alla att alkohol är förbjudet för oss i denna världen
  och att det gör en onykter. Varför är alkohol förbjudet i denna världen men tillåtet

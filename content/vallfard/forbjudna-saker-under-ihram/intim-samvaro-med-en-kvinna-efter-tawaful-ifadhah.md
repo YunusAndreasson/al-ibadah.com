@@ -3,7 +3,9 @@ title: Intim samvaro med en kvinna efter tawāful-ifādhah
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 147 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Förbjudna saker under ihrām
+categories:
+  - Vallfärd (Hajj)
+  - Förbjudna saker under ihrām
 original_id: 777
 description: 'Fråga: Om pilgrimen gör tawāful-ifādhah, får denne då ha intim samvaro
  med en kvinna under at-ayyām at-tashrīq? Svar: Om pilgrimen gör tawāful-ifādhah

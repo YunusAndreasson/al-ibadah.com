@@ -3,7 +3,9 @@ title: Det är bättre att stanna i Mina hela natten
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 231 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Natten i Mina
+categories:
+  - Vallfärd (Hajj)
+  - Natten i Mina
 original_id: 850
 description: 'Fråga: Allāh har gett mig framgång och jag vallfärdade tillsammans
  med min fru. Under de tre at-ayyām at-tashrīq stannade vi endast i Mina fram till

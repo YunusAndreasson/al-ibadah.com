@@ -2,7 +2,9 @@
 title: Man som tittar på sin fru efter hennes bortgång
 author: Ibn ´Abdullāh Ibn Baz
 source: Fatwa al-Marah
-categories: – Bön (Salāh) – Begravningsbön
+categories:
+  - Bön (Salāh)
+  - Begravningsbön
 original_id: 1366
 description: 'Fråga: Jag har ofta hört folk säga att när en kvinna dör så är det
  inte längre tillåtet för hennes man att titta på henne eller placera henne i graven.

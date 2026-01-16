@@ -3,7 +3,9 @@ title: Shawwal-fastan behöver inte vara sex på varandra efterföljande dagar
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 335 s. ISBN saknas'
-categories: – Fasta (Sawm) – Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+categories:
+  - Fasta (Sawm)
+  - Frivillig fasta (Shawwal, ashura-dagen, m.m.)
 original_id: 1417
 description: 'Fråga: Behöver man fasta de sex dagarna i shawwal i rad? Svar: Sexdagarsfastan
  under shawwal är en bekräftad sunnah från Allāhs sändebud. Det är tillåtet att

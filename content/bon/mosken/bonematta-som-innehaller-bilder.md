@@ -3,7 +3,9 @@ title: Bönematta som innehåller bilder
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 186 s. ISBN saknas'
-categories: – Bön (Salāh) – Moskén
+categories:
+  - Bön (Salāh)
+  - Moskén
 original_id: 1485
 description: 'Fråga: Vilket är utlåtandet om att be på en matta med bilder på moskéer,
  kupoler som det finns gravar under, minareter och liknande? Svar: Att göra bilder

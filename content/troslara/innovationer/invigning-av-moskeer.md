@@ -4,7 +4,9 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 27.
  Libanon: Maktaba Dar us-Salam. 1 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Innovationer
+categories:
+  - Troslära (´Aqīdah)
+  - Innovationer
 original_id: 27
 description: 'Fråga: När en ny moské har byggts och gjorts färdig för bön, då bjuds
  människor från olika länder in för att fira. Det kallas för en moskéinvigning. Vilket

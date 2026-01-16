@@ -3,7 +3,9 @@ title: Timmen då åkallan besvaras under fredagar och recitation av sura al-Kah
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 460 s. ISBN saknas'
-categories: – Bön (Salāh) – Fredagsbönen
+categories:
+  - Bön (Salāh)
+  - Fredagsbönen
 original_id: 360
 description: 'Fråga: Finns det något fördelaktigt med att recitera sura al-Kahf under
  fredagar? Stämmer det att den timme då åkallan besvaras under fredagar är mellan

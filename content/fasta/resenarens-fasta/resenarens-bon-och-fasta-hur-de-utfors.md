@@ -4,7 +4,9 @@ author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 636 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Fasta (Sawm) – Resenärens fasta
+categories:
+  - Fasta (Sawm)
+  - Resenärens fasta
 original_id: 1260
 description: 'Fråga: När och hur fastar och ber den resande? Svar: Den resandes
  bön är två bönecykler från den tidpunkt som denne lämnar sin hemstad tills denne

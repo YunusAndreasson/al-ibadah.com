@@ -4,7 +4,9 @@ author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 323 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Renhet (Tahārah) – Tvagning
+categories:
+  - Renhet (Tahārah)
+  - Tvagning
 original_id: 1566
 description: 'Fråga: Om vattnet tar slut när man tvagar sig och det sedan kommer
  tillbaka när kroppsdelarna har torkat, bör man då fortsätta där man var eller bör

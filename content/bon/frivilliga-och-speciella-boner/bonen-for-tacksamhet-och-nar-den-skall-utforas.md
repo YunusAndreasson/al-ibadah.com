@@ -3,7 +3,9 @@ title: Bönen för tacksamhet och när den ska utföras
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 521 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Frivilliga och speciella böner
+categories:
+  - Bön (Salāh)
+  - Frivilliga och speciella böner
 original_id: 1231
 description: 'Fråga: När ska nedfallandet av tacksamhet för Allāh [ sajdatush-shukr
  ] utföras? Hur utförs den? Är det ett villkor att man har tvagat sig? Svar: Nedfallandet

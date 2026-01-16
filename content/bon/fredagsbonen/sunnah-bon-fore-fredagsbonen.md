@@ -3,7 +3,9 @@ title: Sunnah-bön före fredagsbönen
 author: Ibn ´Abdullah Ibn Baz
 source: Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh al-‘Allāmah ‘Abd
  al-‘Azīz ibn ‘Abd-Allāh ibn Bāz, del 12, vol. 386
-categories: – Bön (Salāh) – Fredagsbönen
+categories:
+  - Bön (Salāh)
+  - Fredagsbönen
 original_id: 539
 description: 'Fråga: Finns det någon sunnah-bön före eller efter fredagsbönen? Svar: All
  lovprisan tillhör Allāh. Enligt den korrektare av de lärdes båda åsikter finns det

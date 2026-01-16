@@ -3,7 +3,9 @@ title: Sutrah och regler beträffande den
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 498 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Sutrah [Vad som avskärmar den bedjande]
+categories:
+  - Bön (Salāh)
+  - Sutrah [Vad som avskärmar den bedjande]
 original_id: 969
 description: 'Fråga: Vilket är utlåtandet om sutrah och vilka är gränserna? Svar: Sutrah i
  bönen är en understruken sunnah, utom för den som leds i bön, då det inte är föreskrivet

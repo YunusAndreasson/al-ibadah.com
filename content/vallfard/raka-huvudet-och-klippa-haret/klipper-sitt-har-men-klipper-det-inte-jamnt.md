@@ -3,7 +3,9 @@ title: Klipper sitt hår men klipper det inte jämnt
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 207 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Raka huvudet och klippa håret
+categories:
+  - Vallfärd (Hajj)
+  - Raka huvudet och klippa håret
 original_id: 830
 description: 'Fråga: Om en pilgrim under vallfärden eller ‘umrah endast klipper
  sitt hår på båda sidorna och sedan avlägsnar sin ihrām, utan att klippa håret

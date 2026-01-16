@@ -4,7 +4,9 @@ author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 253 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
+categories:
+  - Fasta (Sawm)
+  - Vad som bryter eller inte bryter fastan
 original_id: 1395
 description: 'Fråga: Om den fastande drack när denne hade hört böneutropet för gryningsbönen,
  är fastan då korrekt? Svar: Om den fastande drack efter att ha hört böneutropet

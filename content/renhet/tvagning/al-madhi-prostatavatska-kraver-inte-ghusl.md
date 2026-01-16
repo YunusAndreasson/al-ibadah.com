@@ -3,7 +3,9 @@ title: al-Madhi [prostatavätska] kräver inte ghusl
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 66 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Tvagning
+categories:
+  - Renhet (Tahārah)
+  - Tvagning
 original_id: 1428
 description: 'Fråga: Kräver al-madhi ghusl? Svar: al-Madhi kräver inte ghusl
  . Man måste dock tvaga sig när man har tvättat sin penis och testiklarna innan man

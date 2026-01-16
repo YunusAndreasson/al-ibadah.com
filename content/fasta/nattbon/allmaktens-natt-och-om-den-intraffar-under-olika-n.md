@@ -4,7 +4,9 @@ author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 512 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Fasta (Sawm) – Nattbön (tarawih)
+categories:
+  - Fasta (Sawm)
+  - Nattbön (tarawih)
 original_id: 1227
 description: 'Fråga: Inträffar Allmaktens Natt en viss natt varje år eller är det
  olika nätter? Svar: Det råder inga tvivel om att Allmaktens Natt inträffar under

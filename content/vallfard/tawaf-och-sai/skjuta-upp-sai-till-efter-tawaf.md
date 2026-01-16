@@ -3,7 +3,9 @@ title: Skjuta upp sa’ī till efter tawāf
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 186 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Tawāf och sa’ī
+categories:
+  - Vallfärd (Hajj)
+  - Tawāf och sa’ī
 original_id: 813
 description: 'Fråga: Vad gäller den om utför tawāful-ifādhah och som inte gör sa’ī förrän
  solen har gått ned under den sista dagen i at-ayyām at-tashrīq? Och vad gäller

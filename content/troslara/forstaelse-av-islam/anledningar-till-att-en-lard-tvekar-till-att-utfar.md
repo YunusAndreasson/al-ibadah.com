@@ -3,7 +3,9 @@ title: Anledningar till att en lärd tvekar till att utfärda ett utlåtande
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 372 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Förståelse av islam
+categories:
+  - Troslära (´Aqīdah)
+  - Förståelse av islam
 original_id: 153
 description: 'Fråga: Vilka anledningar kan det finnas till att en lärd tvekar över
  att utfärda ett utlåtande? En lärd kan tveka över att utfärda ett utlåtande, [även]

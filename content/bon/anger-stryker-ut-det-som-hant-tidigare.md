@@ -3,7 +3,8 @@ title: Ånger stryker ut det som hänt tidigare
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 233 s. ISBN saknas'
-categories: – Bön (Salāh)
+categories:
+  - Bön (Salāh)
 original_id: 655
 description: 'Fråga: Jag är en ung man som tidigare har varit slarvig med den obligatoriska
  bönen och andra frågor som rör religionen. Detta till den grad att det har gått

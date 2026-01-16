@@ -3,7 +3,9 @@ title: Var sexuellt oren men gjorde inte ghusl
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 242 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
+categories:
+  - Renhet (Tahārah)
+  - Ghusl [Den stora tvagningen]
 original_id: 253
 description: 'Fråga: Jag brukade onanera och jag gjorde då inte ghusl . Jag bad
  och fastade därmed utan ghusl, då jag inte kände till att jag behövde göra ghusl på

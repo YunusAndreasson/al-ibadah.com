@@ -3,7 +3,9 @@ title: Skjuta upp tawāful-wadā med anledning av trängsel
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 190 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Tawāf och sa’ī
+categories:
+  - Vallfärd (Hajj)
+  - Tawāf och sa’ī
 original_id: 818
 description: 'Fråga: Vi bor i Jiddah och förra året gav vi oss iväg för att vallfärda.
  Vi avslutade alla vallfärdsriter, utom tawāful-wadā, som vi sköt upp till slutet

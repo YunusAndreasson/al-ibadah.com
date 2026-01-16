@@ -3,7 +3,9 @@ title: Stänga ögonen
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 208 s. ISBN saknas'
-categories: – Bön (Salāh) – Praktiska detaljer i bönen
+categories:
+  - Bön (Salāh)
+  - Praktiska detaljer i bönen
 original_id: 223
 description: 'Fråga: Är det tillåtet att stänga ögonen under bönen? Svar: De
  lärde inom fiqh säger att det är ogillat att stänga ögonen under bönen. Anledningen

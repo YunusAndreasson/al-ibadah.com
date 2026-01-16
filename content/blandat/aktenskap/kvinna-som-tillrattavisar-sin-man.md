@@ -2,7 +2,9 @@
 title: Kvinna som tillrättavisar sin man
 author: Ibn ´Abdullah Ibn Baz
 source: Fatāwa al-Marah
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1708
 description: 'Fråga: Om en kvinna ger sin man om är lat rådet att be i moskén och
  samtidigt visar ilska mot honom, är hon då syndfull mot sin man med avseende på

@@ -3,7 +3,9 @@ title: Be i ett rum med bilder på väggarna
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-´ilmiyyah wal-Iftā – volym 6, sida
  251, fatwa 1874
-categories: – Bön (Salāh) – Blandade utlåtanden
+categories:
+  - Bön (Salāh)
+  - Blandade utlåtanden
 original_id: 569
 description: 'Fråga: Rådet tillfrågades om bön förrättad på en arbetsplats med bilder
  på väggarna är godkänd. Svar: Bönen är giltig och detta skadar dem inte – om

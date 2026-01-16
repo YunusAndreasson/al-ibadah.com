@@ -3,7 +3,9 @@ title: ”Den som inte har någon shaykh, dennes shaykh är djävulen”
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 377 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Förståelse av islam
+categories:
+  - Troslära (´Aqīdah)
+  - Förståelse av islam
 original_id: 155
 description: 'Fråga: Vilken är din åsikt om de som säger: ”Den som inte har någon
  shaykh, dennes shaykh är djävulen”? Svar: Det råder inga tvivel om att kunskap

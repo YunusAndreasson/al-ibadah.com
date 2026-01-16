@@ -3,7 +3,9 @@ title: Frivillig fasta kräver mannens tillstånd
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 339 s. ISBN saknas'
-categories: – Fasta (Sawm) – Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+categories:
+  - Fasta (Sawm)
+  - Frivillig fasta (Shawwal, ashura-dagen, m.m.)
 original_id: 484
 description: 'Fråga: Har jag rätt att hindra min fru att fasta frivilligt, som de
  sex dagarna under shawwal? Syndar jag på grund av det? Svar: Det har återberättats

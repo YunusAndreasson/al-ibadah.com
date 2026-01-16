@@ -2,7 +2,8 @@
 title: Bryter avsiktligen en fasta som var obligatorisk att ta igen
 author: Ibn ´Abdullāh Ibn Baz
 source: Majmoo’ al-Fatāwa (15/355)
-categories: – Troslära (´Aqīdah)
+categories:
+  - Troslära (´Aqīdah)
 original_id: 1607
 description: 'Fråga: Jag fastade en dag för att ta igen en missad fasta med efter
  middagsbönen kände jag mig hungrig. Jag drack då avsiktligen, inte för att jag glömde

@@ -4,7 +4,9 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 85 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Allāhs förutbestämmelse
+categories:
+  - Troslära (´Aqīdah)
+  - Allāhs förutbestämmelse
 original_id: 61
 description: 'Fråga: I en artikel publicerad i ett magasin har jag läst följande
  uttalande: "Det råder inga tvivel om, vilket har förklarats tidigare, att desto

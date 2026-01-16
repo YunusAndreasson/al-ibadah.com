@@ -2,7 +2,9 @@
 title: Tecken på Allmaktens Natt
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa ash-Shaykh Muḥammad as-Sālih al-´Uthaymīn – volym 1, sida 563
-categories: – Fasta (Sawm) – Allmaktens Natt
+categories:
+  - Fasta (Sawm)
+  - Allmaktens Natt
 original_id: 1587
 description: 'Fråga: Vilka är tecknen på Allmaktens Natt? Svar: Några av tecknen
  på Allmaktens Natt är att det är en stilla natt och att den troendes hjärta känner

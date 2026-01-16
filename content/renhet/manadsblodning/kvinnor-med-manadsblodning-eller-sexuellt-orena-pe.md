@@ -3,7 +3,9 @@ title: Kvinnor med månadsblödning eller sexuellt orena personer som går in i 
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 31 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Månadsblödning
+categories:
+  - Renhet (Tahārah)
+  - Månadsblödning
 original_id: 374
 description: 'Fråga: En kvinnas månadsblödning började när hon var inne i Allāhs
  budbärares moské. Hon stannade en kort stund medan hennes familj bad färdigt. Därefter

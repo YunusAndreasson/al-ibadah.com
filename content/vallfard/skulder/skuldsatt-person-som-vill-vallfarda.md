@@ -4,7 +4,9 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 60 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Vallfärd (Hajj) – Skulder
+categories:
+  - Vallfärd (Hajj)
+  - Skulder
 original_id: 718
 description: 'Fråga: Får den som är skuldsatt utföra den obligatoriska vallfärden
  om denne inte har utfört den tidigare? Är det tillåtet att utföra den om denne har

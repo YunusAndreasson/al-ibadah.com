@@ -3,7 +3,9 @@ title: Vallfärd innan ett lån har betalats tillbaka
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 61 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Skulder
+categories:
+  - Vallfärd (Hajj)
+  - Skulder
 original_id: 719
 description: 'Fråga: Jag kom till Saudiarabien med att arbetskontrakt över en period
  på två år och jag har en skuld till några vänner. Vi avsatte inte en specifik tid

@@ -3,7 +3,9 @@ title: Ge en del av köttet i present från adhha-offret till en som inte är mu
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 336 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Adha-offret
+categories:
+  - Vallfärd (Hajj)
+  - Adha-offret
 original_id: 881
 description: 'Fråga: Får den som utför adhha -offret ge en icke-muslim en del av
  köttet från offret? Svar: Det som är rekommenderat när det gäller adhha -offret

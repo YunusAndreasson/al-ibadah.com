@@ -3,7 +3,9 @@ title: Utförde sa’ī för tawāf under vallfärden
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 204 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Tawāf och sa’ī
+categories:
+  - Vallfärd (Hajj)
+  - Tawāf och sa’ī
 original_id: 826
 description: 'Fråga: En man som gjorde ‘umrah hade ingen kunskap och han utförde sa’ī före tawāf
  . När han upprepat om tawāf, måste han utföra sa’ī en andra gång? Svar: Han

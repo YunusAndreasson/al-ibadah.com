@@ -3,7 +3,9 @@ title: Kunde inte resa efter han utfört tawāful-wadā
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 190 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Tawāf och sa’ī
+categories:
+  - Vallfärd (Hajj)
+  - Tawāf och sa’ī
 original_id: 817
 description: 'Fråga: En man vallfärdade och han gjorde tawāful-wadā under natten,
  men han hade inte möjlighet att lämna Mecka efter tawāf . Av den anledningen spenderat

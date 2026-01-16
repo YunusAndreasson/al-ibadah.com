@@ -4,7 +4,9 @@ author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 216 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Vallfärd (Hajj) – Stå vid Arafat
+categories:
+  - Vallfärd (Hajj)
+  - Stå vid Arafat
 original_id: 1357
 description: 'Fråga: Vilket är utlåtandet om att samlas för åkallan under Arafat-dagen,
  oavsett om det är just där eller vid någon annan plats? Svar: Under denna

@@ -3,7 +3,9 @@ title: Sawm al-wisal – fasta två dagar i rad
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 678 s. ISBN 9960-892-66-2'
-categories: – Fasta (Sawm) – Blandade utlåtanden
+categories:
+  - Fasta (Sawm)
+  - Blandade utlåtanden
 original_id: 1063
 description: 'Fråga: Vad är sawm al-wisal? Är det föreskrivet? Svar: Sawm
  al-wisal betyder att man inte bryter fastan under två dagar. Man fastar då hela

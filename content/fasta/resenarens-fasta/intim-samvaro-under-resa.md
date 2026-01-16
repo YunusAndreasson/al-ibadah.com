@@ -2,7 +2,9 @@
 title: Intim samvaro under resa
 author: Ibn ´Abdullāh Ibn Baz
 source: Fatāwa Ramadan – Volume 2, Page 439, Fatwa No.363
-categories: – Fasta (Sawm) – Resenärens fasta
+categories:
+  - Fasta (Sawm)
+  - Resenärens fasta
 original_id: 1374
 description: 'Fråga: Får en resenär ha intim samvaro med frun om de reser under ramadan? Svar: I
  Allāhs Namn och all Lovprisan tillhör Allāh. Om han var resenär eller led av en

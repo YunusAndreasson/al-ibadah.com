@@ -3,7 +3,9 @@ title: Tiden för sunnah-bönerna före och efter de obligatoriska bönerna
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 516 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Frivilliga och speciella böner
+categories:
+  - Bön (Salāh)
+  - Frivilliga och speciella böner
 original_id: 979
 description: 'Fråga: Vissa lärde säger att tiden för sunnah före och efter de obligatoriska
  bönerna är från början av tiden för den obligatoriska bönen och slutar när tiden

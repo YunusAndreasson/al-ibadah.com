@@ -2,7 +2,9 @@
 title: Brorson
 author: Ibn ´Abdullah Ibn Baz
 source: Fatāwa al-Marah
-categories: – Allmosa (Zakāh) – De som får ta emot allmosa
+categories:
+  - Allmosa (Zakāh)
+  - De som får ta emot allmosa
 original_id: 555
 description: 'Fråga: Får min man för min räkning betala allmosa för min egendom [han
  var den som gav egendomen till mig]? Är det tillåtet att betala allmosan till min

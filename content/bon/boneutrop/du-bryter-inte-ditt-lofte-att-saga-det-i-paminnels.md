@@ -3,7 +3,9 @@ title: ”Du bryter inte ditt löfte” – att säga det i påminnelsen efter b
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 430 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Böneutrop
+categories:
+  - Bön (Salāh)
+  - Böneutrop
 original_id: 923
 description: 'Fråga: Är tilläget ”Du bryter inte Ditt löfte” i åminnelsen som följer
  efter böneutropet autentiskt? Detta tillägg är en fråga som de lärde inom hadīth är

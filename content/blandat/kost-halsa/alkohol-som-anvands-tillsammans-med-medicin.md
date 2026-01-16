@@ -3,7 +3,9 @@ title: Alkohol som används tillsammans med medicin
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Kost & hälsa
+categories:
+  - Blandat
+  - Kost & hälsa
 original_id: 1633
 description: 'Fråga: Ibland tillsätts alkohol under processen då vissa mediciner
  tillverkas. Om det bekräftas att alkohol tillsatts i processen då en viss medicin

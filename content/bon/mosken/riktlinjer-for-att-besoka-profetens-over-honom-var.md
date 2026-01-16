@@ -2,7 +2,9 @@
 title: Riktlinjer för att besöka profetens – över honom vare Allāhs frid och välsignelser – Moské
 author: Shaykh Salāh al-Budayr
 source: n/a
-categories: – Bön (Salāh) – Moskén
+categories:
+  - Bön (Salāh)
+  - Moskén
 original_id: 1305
 description: 'Fråga: Jag känner till en grupp bröder som ska besöka profetens – över honom vare Allāhs frid och välsignelser – Moské efter pilgrimsfärden detta
  år. De skulle vilja ha några råd och riktlinjer ...'

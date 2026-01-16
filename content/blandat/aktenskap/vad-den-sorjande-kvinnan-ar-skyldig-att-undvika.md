@@ -3,7 +3,9 @@ title: Vad den sörjande kvinnan är skyldig att undvika
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1631
 description: 'Fråga: Vad måste en kvinna göra när hennes man avlider? Svar: Vad
  den sörjande kvinnan måste undvika har nämnts i ahādīth. Det krävs att hon gör fem

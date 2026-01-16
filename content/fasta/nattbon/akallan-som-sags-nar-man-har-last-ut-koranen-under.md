@@ -3,7 +3,9 @@ title: Åkallan som sägs när man har läst ut Koranen under ramadan
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 512 s. ISBN 9960-892-66-2'
-categories: – Fasta (Sawm) – Nattbön (tarawih)
+categories:
+  - Fasta (Sawm)
+  - Nattbön (tarawih)
 original_id: 978
 description: 'Fråga: Vilket är utlåtandet om att åkalla när man har läst ut Koranen
  nattetid under ramadan? Svar: Jag känner inte till någon sunnah, varken från

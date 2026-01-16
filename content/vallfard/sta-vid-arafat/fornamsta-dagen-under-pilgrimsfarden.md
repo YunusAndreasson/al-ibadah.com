@@ -3,7 +3,9 @@ title: Förnämsta dagen under pilgrimsfärden
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'al-Ladjnah al-Dā’imah li’l-Buhūth al-‘Ilmiyyah wa’l-Ifta’, 11/220 Muhammed
  Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Vallfärd (Hajj) – Stå vid Arafat
+categories:
+  - Vallfärd (Hajj)
+  - Stå vid Arafat
 original_id: 886
 description: 'Fråga: Vilken är innebörden av ”den största dagen under pilgrimsfärden”
  [ yawn al-hajj al-akbar ] och ”den största pilgrimsfärden”? Betyder detsamma sak

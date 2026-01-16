@@ -3,7 +3,9 @@ title: Ge ränteintäkter till mujāhidin
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Ekonomi
+categories:
+  - Blandat
+  - Ekonomi
 original_id: 1619
 description: 'Fråga: Är det islamiskt sett tillåtet att jag sätter in mina tillgångar
  på en bank, tar räntan och sedan ger den till mujāhidin? Svar: Då det är känt

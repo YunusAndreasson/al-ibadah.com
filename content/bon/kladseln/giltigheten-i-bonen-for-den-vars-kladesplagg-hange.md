@@ -3,7 +3,9 @@ title: Giltigheten i bönen för den vars klädesplagg hänger ned
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 229 s. ISBN saknas'
-categories: – Bön (Salāh) – Klädseln
+categories:
+  - Bön (Salāh)
+  - Klädseln
 original_id: 1495
 description: 'Fråga: Om rocken eller byxorna är långa och hänger nedanför anklarna,
  är bönen giltig då? Svar: Hänger byxorna nedanför anklarna, då är detta förbjudet

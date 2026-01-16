@@ -3,10 +3,12 @@ title: En mutamatti's tamattu bryts om han återvänder till sitt land
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 100 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Riterna under vallfärden
+categories:
+  - Vallfärd (Hajj)
+  - Riterna under vallfärden
 original_id: 745
-description: 'Fråga: Jag hörde att om en mutamatti'' återvänder till sitt land,
- då bryts dennes hajjul-tamattu´' . Får denne vallfärda som en mufrid och är denne
+description: 'Fråga: Jag hörde att om en mutamatti´ återvänder till sitt land,
+ då bryts dennes hajjul-tamattu´. Får denne vallfärda som en mufrid och är denne
  inte skyldig att offra ett djur? Svar: Ja...'
 ---
 

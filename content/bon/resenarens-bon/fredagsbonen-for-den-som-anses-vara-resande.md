@@ -3,7 +3,9 @@ title: Fredagsbönen för den som anses vara resande
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 462 s. ISBN saknas'
-categories: – Bön (Salāh) – Resenärens bön
+categories:
+  - Bön (Salāh)
+  - Resenärens bön
 original_id: 362
 description: 'Fråga: Måste vi be fredagsbönen här i Spanien? Detta i vetskap om att
  det inte finns någon moské här och att vi kom hit för att studera. Svar: De

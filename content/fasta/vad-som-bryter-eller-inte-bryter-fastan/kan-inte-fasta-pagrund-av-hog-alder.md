@@ -4,7 +4,9 @@ author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 283 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
+categories:
+  - Fasta (Sawm)
+  - Vad som bryter eller inte bryter fastan
 original_id: 439
 description: 'Fråga: Min mor blev sjuk några dagar innan ramadan. Sjukdomen gjorde
  henne svag och hon är gammal men hon fastade femton dagar under ramadan. Hon kan

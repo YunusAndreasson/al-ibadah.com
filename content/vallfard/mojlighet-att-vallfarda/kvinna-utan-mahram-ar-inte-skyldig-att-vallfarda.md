@@ -4,7 +4,9 @@ author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 44 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Vallfärd (Hajj) – Möjlighet att vallfärda
+categories:
+  - Vallfärd (Hajj)
+  - Möjlighet att vallfärda
 original_id: 1318
 description: 'Fråga: Det finns en kvinna från Saba'' som är känd för sin rättfärdighet.
  Hon är medelålders eller på väg att bli gammal. Hon skulle vilja göra den obligatoriska

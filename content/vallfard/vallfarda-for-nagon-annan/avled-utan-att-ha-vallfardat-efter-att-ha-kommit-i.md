@@ -3,7 +3,9 @@ title: Avled utan att ha vallfärdat efter att ha kommit in i puberteten
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 72 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Vallfärda för någon annan
+categories:
+  - Vallfärd (Hajj)
+  - Vallfärda för någon annan
 original_id: 727
 description: 'Fråga: Min son avled när jag var sexton år gammal och han hade inte
  vallfärdat. Krävs det av mig att jag vallfärdar för honom? Svar: Om pojken eller

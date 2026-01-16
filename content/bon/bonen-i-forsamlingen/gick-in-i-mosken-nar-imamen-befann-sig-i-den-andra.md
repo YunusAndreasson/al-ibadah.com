@@ -2,7 +2,9 @@
 title: Gick in i moskén när imamen befann sig i den andra tashahhud – om han då bör
  vänta på en ny församling
 author: Muḥammad bin Sālih al-´Uthaymīn
-categories: – Bön (Salāh) – Bönen i församlingen
+categories:
+  - Bön (Salāh)
+  - Bönen i församlingen
 original_id: 986
 description: 'Fråga: En troende gick in i moskén när imamen befann sig i den andra tashahhud
  . Bör denne då börja be med församlingen eller ska denne vänta på en ny? Ge oss

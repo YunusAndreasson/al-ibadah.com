@@ -3,7 +3,9 @@ title: Bad efter att ha sovit men utan att ha tvagat sig
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 52 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Tvagning
+categories:
+  - Renhet (Tahārah)
+  - Tvagning
 original_id: 1423
 description: 'Fråga: Jag såg en pilgrim som lade sig ned för att sova när han hade
  bett nattbönen. Han sov djupt. När tiden sedan kom för gryningsbönen så vaknade

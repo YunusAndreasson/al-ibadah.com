@@ -3,7 +3,9 @@ title: Mutamatti' som reser till Jiddah bryter inte sin hajjul-tamattu´
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 99 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Riterna under vallfärden
+categories:
+  - Vallfärd (Hajj)
+  - Riterna under vallfärden
 original_id: 743
 description: 'Fråga: Jag gick in i ihrām för ‘umrah och min avsikt var att utföra hajjul-tamattu’
  . Efter ‘umrah begav jag mig till Jiddah. Anses jag vara en mutamatti'' om jag

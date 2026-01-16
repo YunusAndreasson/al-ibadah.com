@@ -3,7 +3,9 @@ title: Klockor gjorda av guld eller guldimitation
 author: Ibn ´Abdullāh Ibn Baz
 source: Majmū’ Fatāwa al-Maqālāt Mutanawwi’ah li Samāhat al-shaykh al-‘Allāmah ‘Abd
  al-‘Azīz ibn Bāz, s. 99
-categories: – Renhet (Tahārah) – Blandade utlåtanden
+categories:
+  - Renhet (Tahārah)
+  - Blandade utlåtanden
 original_id: 1314
 description: 'Fråga: Får män ha på sig guldpläterade klockor? Svar: All lovprisan
  tillhör Allāh. Detta är tillåtet för kvinnor, men för män är det inte tillåtet om

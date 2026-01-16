@@ -3,7 +3,9 @@ title: Bön ombord på ett flygplan
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 541 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Resenärens bön
+categories:
+  - Bön (Salāh)
+  - Resenärens bön
 original_id: 994
 description: 'Fråga: När blir bönen ombord på ett flygplan obligatorisk? Hur ber
  man den obligatoriska bönen ombord på ett flygplan? Hur ber man en frivillig bön? Svar: Bön

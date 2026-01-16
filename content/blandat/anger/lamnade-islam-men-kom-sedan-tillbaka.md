@@ -4,7 +4,9 @@ author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 259 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Blandat – Ånger
+categories:
+  - Blandat
+  - Ånger
 original_id: 668
 description: 'Fråga: Om en muslim begår en handling som tar honom ur islam, en handling
  som gör honom till en avfälling, och han sedan ångrar sig inför Allāh – förtjänar

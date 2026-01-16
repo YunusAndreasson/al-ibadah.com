@@ -3,7 +3,9 @@ title: Torka sig efter tvagningen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 80 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Tvagning
+categories:
+  - Renhet (Tahārah)
+  - Tvagning
 original_id: 163
 description: 'Fråga: Är det tillåtet att torka sina händer och fötter och så vidare
  efter att ha tvagat sig? Svar: Ja, det är tillåtet att torka sina händer och

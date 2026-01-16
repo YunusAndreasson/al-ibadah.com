@@ -3,7 +3,9 @@ title: Innebörden av ordet islam
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fiqh ul ''Ibādāt www 20/4-2007: www Muhammed Knut Bernström (1421), Koranens
  budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Förståelse av islam
+categories:
+  - Troslära (´Aqīdah)
+  - Förståelse av islam
 original_id: 917
 description: 'Fråga: Vad är islam? Svar: Islam i dess generella betydelse är
  dyrkan av Allāh den Upphöjde på det sätt som Han har föreskrivit genom de sändebud

@@ -4,7 +4,9 @@ author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 469 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Bön (Salāh) – Fredagsbönen
+categories:
+  - Bön (Salāh)
+  - Fredagsbönen
 original_id: 1550
 description: 'Fråga: Ska män be hälsningsbönen till moskén när de går in i moskén
  under predikan? De som följer imam Māliks rättsskola säger att man inte ska göra

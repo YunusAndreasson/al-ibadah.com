@@ -3,7 +3,9 @@ title: Söka välsignelser från gravar
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 66 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Gravdyrkan
+categories:
+  - Troslära (´Aqīdah)
+  - Gravdyrkan
 original_id: 51
 description: 'Fråga: Är det tillåtet att stå eller sitta vid en grav och åkalla för
  den avlidne? Svar: Syftet med tillåtna besök vid gravplatser är att lära sig

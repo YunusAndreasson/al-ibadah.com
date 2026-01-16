@@ -3,7 +3,9 @@ title: Händerna på bröstet när man har rest sig upp från bugningen
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 251 s. ISBN saknas'
-categories: – Bön (Salāh) – Praktiska detaljer i bönen
+categories:
+  - Bön (Salāh)
+  - Praktiska detaljer i bönen
 original_id: 260
 description: 'Fråga: Bör Allāhs tjänare lägga armarna på bröstet när de har rest
  sig upp från bugningen[^1]? I en viss moské är vi oeniga om detta. Vänligen, ge oss

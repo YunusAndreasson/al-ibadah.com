@@ -3,7 +3,9 @@ title: Ingen definierad kortaste period för blödningar efter graviditeten
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 120 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Blödning efter graviditeten
+categories:
+  - Renhet (Tahārah)
+  - Blödning efter graviditeten
 original_id: 1453
 description: 'Fråga: Får en kvinna som har blödningar efter graviditeten be och fasta
  om hon blir ren innan de 40 dagarna [har gått]? Svar: Om en kvinna med blödningar

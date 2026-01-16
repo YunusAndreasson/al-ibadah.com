@@ -4,7 +4,9 @@ author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 191 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Allmosa (Zakāh) – De som får ta emot allmosa
+categories:
+  - Allmosa (Zakāh)
+  - De som får ta emot allmosa
 original_id: 639
 description: 'Fråga: Är det tillåtet att spendera på moskén för att laga den och
  dess mattor och liknande genom pengar från allmosor. Detta eftersom moskén inte

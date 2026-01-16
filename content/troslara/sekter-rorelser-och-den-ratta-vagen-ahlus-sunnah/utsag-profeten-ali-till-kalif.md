@@ -3,7 +3,10 @@ title: Utsåg profeten ’Ali till kalif?
 author: Ibn ´Abdullah Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 78 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Sekter, rörelser och den rätta vägen – ahlus-sunnah
+categories:
+  - Troslära (´Aqīdah)
+  - Sekter, rörelser och den rätta vägen
+  - ahlus-sunnah
 original_id: 56
 description: 'Fråga: Vilket är utlåtandet om de som påstår att profeten – över honom
  vare Allāhs frid och välsignelser – rekommenderade ’Ali som kalif? Svar: Detta

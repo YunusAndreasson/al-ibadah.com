@@ -3,7 +3,9 @@ title: Beskrivning av begravningsbönen
 author: Ibn ´Abdullah Ibn Baz
 source: Kitāb Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh ‘Abd al-‘Azīz
  ibn ‘Abd-Allāh ibn Bāz, vol 13, s. 141
-categories: – Bön (Salāh) – Begravningsbön
+categories:
+  - Bön (Salāh)
+  - Begravningsbön
 original_id: 499
 description: 'Fråga: Vänligen, förklara för oss hur begravningsbönen ska bes som
  den har rapporterats från profeten. Det är många som inte kan den. Svar: All

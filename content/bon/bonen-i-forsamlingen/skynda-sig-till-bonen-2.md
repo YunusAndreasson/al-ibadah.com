@@ -3,7 +3,9 @@ title: Skynda sig till bönen
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 325 s. ISBN saknas'
-categories: – Bön (Salāh) – Bönen i församlingen
+categories:
+  - Bön (Salāh)
+  - Bönen i församlingen
 original_id: 1519
 description: 'Fråga: Många muslimer anstränger sig mycket för att inte missa något
  av bönen. Därför börjar de springa när de närmar sig moskén om de hör imamen be.

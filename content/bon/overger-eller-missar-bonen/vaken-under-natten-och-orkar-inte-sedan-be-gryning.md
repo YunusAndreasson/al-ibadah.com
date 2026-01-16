@@ -4,7 +4,9 @@ title: Vaken under natten och orkar inte sedan be gryningsbönen förrän efter 
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 385 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Överger eller missar bönen
+categories:
+  - Bön (Salāh)
+  - Överger eller missar bönen
 original_id: 1218
 description: 'Fråga: Någon stannar uppe under natten och lyckas inte att be gryningsbönen
  förrän efter den utsedda tiden. Accepteras detta från denne? Svar: Skjuter han

@@ -1,6 +1,7 @@
 ---
 title: Shaykh Muḥammad Ibn Sālih Ibn ´Uthaymīn
-categories: – Biografier
+categories:
+  - Biografier
 original_id: 9
 description: “En gång besökte jag Ibn ´Uthaymīn i Mecka där han bodde under vallfärden
  och jag fann att han satt med en nål i sin hand och sydde sin egen skjorta.” [Ibn

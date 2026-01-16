@@ -3,7 +3,9 @@ title: Riter för pilgrimsfärden kan inte göras för två personer
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 78 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Vallfärda för någon annan
+categories:
+  - Vallfärd (Hajj)
+  - Vallfärda för någon annan
 original_id: 1327
 description: 'Fråga: All lovprisan tillhör Allāh. Vi beger oss till Mecka varje år
  för att utföra ‘umrah under den välsignade månaden ramadan. När vi ger oss av

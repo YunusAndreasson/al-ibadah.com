@@ -3,7 +3,9 @@ title: Bestående välgörenhet – om det är vad en person ger när denne är 
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 620 s. ISBN 9960-892-66-2'
-categories: – Allmosa (Zakāh) – Blandat om allmosa
+categories:
+  - Allmosa (Zakāh)
+  - Blandat om allmosa
 original_id: 1030
 description: 'Fråga: Är bestående välgörenhet det som någon ger under sin livstid
  eller är det vad dennes familj ger för dennes räkning när denne har gått bort? Svar: Det

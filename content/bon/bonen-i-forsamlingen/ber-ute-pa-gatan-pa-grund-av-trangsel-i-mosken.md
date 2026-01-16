@@ -3,7 +3,9 @@ title: Ber ute på gatan på grund av trängsel i moskén
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 33 s. ISBN saknas'
-categories: – Bön (Salāh) – Bönen i församlingen
+categories:
+  - Bön (Salāh)
+  - Bönen i församlingen
 original_id: 376
 description: 'Fråga: Anses den som ber fredagsbönen utanför moskén – exempelvis på
  gatorna – vara närvarande vid bönen trots att änglarna som nedtecknar vilka som

@@ -3,7 +3,9 @@ title: Tarāwīh-bönen är sunnah mu'kkadah
 author: Ibn ´Abdur-Rahman al-Jibrin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 314 s. ISBN saknas'
-categories: – Fasta (Sawm) – Nattbön (tarawih)
+categories:
+  - Fasta (Sawm)
+  - Nattbön (tarawih)
 original_id: 1408
 description: 'Fråga: Är tarāwīh -bönen enbart sunnah eller är den sunnat mu''kkadah
 ? Hur utförs den? Svar: Den är sunnat mu''kkadah . Profeten – över honom vare

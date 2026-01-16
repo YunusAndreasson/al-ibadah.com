@@ -3,7 +3,9 @@ title: Regler för ijtihād
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 368 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Förståelse av islam
+categories:
+  - Troslära (´Aqīdah)
+  - Förståelse av islam
 original_id: 150
 description: 'Fråga: Anses dörren till ijtihād, för att formulera nya utlåtanden,
  vara öppen för vem som helst, eller måste särskilda krav uppnås för att någon ska

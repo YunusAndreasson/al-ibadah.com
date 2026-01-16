@@ -3,7 +3,9 @@ title: Fasta sex dagar under shawwal innan man tar igen missade dagar under rama
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 313 s. ISBN saknas'
-categories: – Fasta (Sawm) – Ta igen missad fasta
+categories:
+  - Fasta (Sawm)
+  - Ta igen missad fasta
 original_id: 1406
 description: 'Fråga: Är det tillåtet att fasta sex dagar i shawwal innan man tar
  igen de dagar som man missade under ramadan? Är det tillåtet att fasta måndagar

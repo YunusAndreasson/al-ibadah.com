@@ -4,7 +4,9 @@ author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 183 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Allāhs förutbestämmelse
+categories:
+  - Troslära (´Aqīdah)
+  - Allāhs förutbestämmelse
 original_id: 1183
 description: 'Fråga: Kan ni förklara det förutbestämda? […] Svar: Det förutbestämda
  har varit en källa till tvister under en lång tid. Därför har människor delat sig

@@ -3,7 +3,9 @@ title: Slaktade på grund av okunskap inte något djur
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 273 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Offerdjuret
+categories:
+  - Vallfärd (Hajj)
+  - Offerdjuret
 original_id: 868
 description: 'Fråga: En man vallfärdade och ‘umrah tillsammans och han utförde
  alla vallfärdsriter. Under dagarna i Mina slaktade han adhha -offret [ ‘eidul-adhha

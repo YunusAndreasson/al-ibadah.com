@@ -4,7 +4,9 @@ author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 37 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Bön (Salāh) – Moskén
+categories:
+  - Bön (Salāh)
+  - Moskén
 original_id: 378
 description: 'Fråga: Stämmer det att syndernas vikt ökar i Mecka precis som goda
  handlingar gör? Svar: På alla platser ökar endast vikten av dåliga handlingar

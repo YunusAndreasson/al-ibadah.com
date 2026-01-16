@@ -2,7 +2,9 @@
 title: Kvinnans ‘eid-bön är sunnah
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: al-Ladjnah ad-Da’imah 8/284-286
-categories: – Bön (Salāh) – '''Eid-bönerna'
+categories:
+  - Bön (Salāh)
+  - '''Eid-bönerna'
 original_id: 1590
 description: 'Fråga: Är ‘eid -bönen obligatorisk för kvinnor? Ber de den hemma eller
  på böneplatsen om den då är obligatorisk? Svar: All lovprisan tillhör Allāh.

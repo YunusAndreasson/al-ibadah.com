@@ -3,7 +3,9 @@ title: Bryter av någon anledning fastan men sedan gäller inte den anledningen 
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 634 s. ISBN 9960-892-66-2'
-categories: – Fasta (Sawm) – Vem som får bryta fastan
+categories:
+  - Fasta (Sawm)
+  - Vem som får bryta fastan
 original_id: 1036
 description: 'Fråga: Om någon bryter fastan på grund av någon ursäkt och ursäkten
  sedan inte längre gäller, bör denne då fasta under återstoden av dagen? Svar: Denne

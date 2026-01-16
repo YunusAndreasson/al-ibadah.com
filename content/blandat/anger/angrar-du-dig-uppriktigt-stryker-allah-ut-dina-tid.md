@@ -4,7 +4,9 @@ author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 261 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Blandat – Ånger
+categories:
+  - Blandat
+  - Ånger
 original_id: 670
 description: 'Fråga: När jag insåg att bilder är förbjudna bad jag mina vänner att
  återlämna de bilder jag tidigare gett till dem. Vissa av dem gjorde det medan några

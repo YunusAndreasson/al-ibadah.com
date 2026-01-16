@@ -3,7 +3,9 @@ title: Āmīn efter al-Fātihah – om det är sunnah
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 467 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Praktiska detaljer i bönen
+categories:
+  - Bön (Salāh)
+  - Praktiska detaljer i bönen
 original_id: 950
 description: 'Fråga: Är det sunnah att säga āmīn? Svar: Ja, att säga āmīn
  är en högst rekommenderad sunnah, speciellt om imamen säger det. Detta enligt

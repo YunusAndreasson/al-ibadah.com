@@ -3,7 +3,9 @@ title: Kvinnan går in i ihrām i vilka kläder hon vill
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 132 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Kläderna under ihrām
+categories:
+  - Vallfärd (Hajj)
+  - Kläderna under ihrām
 original_id: 768
 description: 'Fråga: Får en kvinna träda in i ihr ām i vilka kläder hon vill? Svar: Ja,
  hon får träda in i ihrām i vilka kläder hon vill. Hon har inte, vilket många tror,

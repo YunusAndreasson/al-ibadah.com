@@ -3,7 +3,8 @@ title: Bra innovationer – svar till dem som påstår att detta finns
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 259 s. ISBN 9960-892-66-2'
-categories: – Troslära (´Aqīdah)
+categories:
+  - Troslära (´Aqīdah)
 original_id: 1106
 description: 'Fråga: Hur svarar vi de innovatörer som för att bevisa deras innovationer
  citerar följande bevis: ” Den som inför en bra sunnah i islam ...” [ Muslim 1017]? Svar: Vi

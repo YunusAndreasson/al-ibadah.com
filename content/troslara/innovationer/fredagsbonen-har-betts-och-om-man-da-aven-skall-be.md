@@ -4,7 +4,9 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 553 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Innovationer
+categories:
+  - Troslära (´Aqīdah)
+  - Innovationer
 original_id: 999
 description: 'Fråga: Om någon har bett fredagsbönen, bör denne då även be middagsbönen? Svar: Om
  någon har bett fredagsbönen är detta den obligatoriska bönen vid denna tidpunkt

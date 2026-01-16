@@ -2,7 +2,9 @@
 title: Vallfärd för pengar som man har fått från räntebaserade tillgångar
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa Ibn ‘Uthaymīn, 21/105
-categories: – Vallfärd (Hajj) – Blandade utlåtanden
+categories:
+  - Vallfärd (Hajj)
+  - Blandade utlåtanden
 original_id: 893
 description: 'Fråga: Jag har inte utfört den obligatoriska vallfärden och någon gav
  mig pengar som jag skulle kunna vallfärda för men jag vet att denne använder ränta.

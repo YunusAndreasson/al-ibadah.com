@@ -1,6 +1,7 @@
 ---
 title: Råd som kan vägleda i religiösa och världsliga frågor
-categories: – Blandat
+categories:
+  - Blandat
 original_id: 1289
 description: 'Fråga: Kan du ge några råd som kan vägleda oss i religiösa och världsliga
  frågor? Shaykh ul-islām Ibn Taymiyyah ställdes följande fråga: Jag bad shayken,

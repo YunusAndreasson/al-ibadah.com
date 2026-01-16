@@ -4,7 +4,9 @@ author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 309 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Fasta (Sawm) – Ta igen missad fasta
+categories:
+  - Fasta (Sawm)
+  - Ta igen missad fasta
 original_id: 461
 description: 'Fråga: Vilket är den islamiska lagens utlåtande om en man som skjuter
  upp att ta igen fastan från ramadan till efter nästa ramadan och han har en ursäkt

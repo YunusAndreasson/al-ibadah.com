@@ -4,7 +4,9 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 84 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Tawassul [Medel för att åkalla Allāh]
+categories:
+  - Troslära (´Aqīdah)
+  - Tawassul [Medel för att åkalla Allāh]
 original_id: 60
 description: 'Fråga: Får muslimer söka Allāhs närhet genom profeter och andra fromma
  människor? Jag har läst att vissa lärde har ansett att det inte finns något skadligt

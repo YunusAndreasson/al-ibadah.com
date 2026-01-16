@@ -3,7 +3,9 @@ title: Läser tafsīr under månadsblödningen
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 112 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Månadsblödning
+categories:
+  - Renhet (Tahārah)
+  - Månadsblödning
 original_id: 169
 description: 'Fråga: Jag läser tafsīr när jag inte är rituellt ren, som under min
  månadsblödning. Finns det några invändningar mot detta och syndar jag genom att

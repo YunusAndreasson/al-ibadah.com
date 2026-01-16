@@ -3,7 +3,9 @@ title: Modern har tre rättigheter – fadern har en
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1688
 description: 'Fråga: Varför favoriserade Allāh den Allsmäktige modern över fadern
  när Allāhs sändebud – över honom vare Allāh frid och välsignelser – uttryckte hennes

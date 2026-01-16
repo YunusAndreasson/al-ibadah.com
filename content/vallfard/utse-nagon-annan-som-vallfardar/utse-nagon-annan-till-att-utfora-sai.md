@@ -4,7 +4,9 @@ author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 169 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Vallfärd (Hajj) – Utse någon annan som vallfärdar
+categories:
+  - Vallfärd (Hajj)
+  - Utse någon annan som vallfärdar
 original_id: 797
 description: 'Fråga: Vilket är utlåtandet om den som inte kan utföra sa’ī under
  vallfärden eller ‘umrah? Kan han utse en representant som utför sa’ī eller tawāf åt

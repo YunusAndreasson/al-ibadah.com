@@ -3,7 +3,9 @@ title: Rakade sitt hår innan ‘eid när han avsåg att göra adhha-offret
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 327 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Adha-offret
+categories:
+  - Vallfärd (Hajj)
+  - Adha-offret
 original_id: 879
 description: 'Fråga: Vilket är utlåtandet om den som rakade sitt hår under dagen
  för ‘eidul-adha före han gick till bönen? Detta i vetskap om han råddes att inte

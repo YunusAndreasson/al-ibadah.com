@@ -3,7 +3,9 @@ title: Sa’ī utan att ha tvagat sig
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: al-Lajnah al-Da’imah li’l-Buhūth al-‘Ilmiyyah wa’l-Iftā’ – Fatāwa al-Lajnah,
  11/264
-categories: – Vallfärd (Hajj) – Tawāf och sa’ī
+categories:
+  - Vallfärd (Hajj)
+  - Tawāf och sa’ī
 original_id: 503
 description: 'Fråga: När jag gjorde sa’ī mellan as-Safa och al-Marwah blev min
  tvagning ogiltig och jag kunde inte gå ut för att förnya min tvagning. Detta inträffade

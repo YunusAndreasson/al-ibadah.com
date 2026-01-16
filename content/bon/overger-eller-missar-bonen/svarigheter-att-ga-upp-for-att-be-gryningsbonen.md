@@ -3,7 +3,9 @@ title: Svårigheter att gå upp för att be gryningsbönen
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 395 s. ISBN saknas'
-categories: – Bön (Salāh) – Överger eller missar bönen
+categories:
+  - Bön (Salāh)
+  - Överger eller missar bönen
 original_id: 325
 description: 'Fråga: Jag är muslim – och all lovprisan och ära tillhör Allāh. Jag
  ber regelbundet i moskén, utom att jag ofta är sen till gryningsbönen. Jag är mycket

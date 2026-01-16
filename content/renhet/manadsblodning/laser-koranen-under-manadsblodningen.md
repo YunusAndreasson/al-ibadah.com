@@ -3,7 +3,9 @@ title: Läser Koranen under månadsblödningen
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 367 s. ISBN 9960-892-66-2'
-categories: – Renhet (Tahārah) – Månadsblödning
+categories:
+  - Renhet (Tahārah)
+  - Månadsblödning
 original_id: 1142
 description: 'Fråga: Får en kvinna recitera Koranen under hennes månadsblödning? Svar: En
  kvinna får recitera Koranen under månadsblödningen om det behövs. Ett exempel på

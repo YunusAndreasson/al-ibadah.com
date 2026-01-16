@@ -3,7 +3,8 @@ title: Åkallade men besvarades inte
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 292 s. ISBN saknas'
-categories: – Blandat
+categories:
+  - Blandat
 original_id: 695
 description: 'Fråga: Jag har under de senaste tio åren, till och från, bett Allāh
  den Allsmäktige att Han ger mig en rättfärdig man och rättfärdiga barn. Men detta

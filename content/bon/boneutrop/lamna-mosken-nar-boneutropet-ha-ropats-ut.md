@@ -2,7 +2,9 @@
 title: Lämna moskén när böneutropet ha ropats ut
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Majmū' Fatāwa Ibn ´Uthaymīn – volym 12, sida 200
-categories: – Bön (Salāh) – Böneutrop
+categories:
+  - Bön (Salāh)
+  - Böneutrop
 original_id: 578
 description: 'Fråga: Är det tillåtet att lämna moskén efter böneutropet? Svar: Abū
  Hurairah såg en man lämna moskén efter att böneutropet hade ropats ut, och han sade

@@ -3,7 +3,9 @@ title: Radband som används för åminnelse
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Innovationer
+categories:
+  - Troslära (´Aqīdah)
+  - Innovationer
 original_id: 1657
 description: 'Fråga: Vilket är det islamiska utlåtandet om att använda radband, något
  som många av oss använder efter att vi fullföljt bönen? Svar: Det är bättre att

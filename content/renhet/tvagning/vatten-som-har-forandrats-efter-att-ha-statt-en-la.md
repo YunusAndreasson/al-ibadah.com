@@ -3,7 +3,9 @@ title: Vatten som har förändrats efter att ha stått en lång tid
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 308 s. ISBN 9960-892-66-2'
-categories: – Renhet (Tahārah) – Tvagning
+categories:
+  - Renhet (Tahārah)
+  - Tvagning
 original_id: 1116
 description: 'Fråga: Vilket är utlåtandet om vatten som har förändrats efter att
  ha stått en lång tid? Svar: Vattnet är rent även om det har förändrats. Det

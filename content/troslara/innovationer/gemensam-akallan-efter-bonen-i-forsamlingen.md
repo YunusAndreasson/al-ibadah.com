@@ -3,7 +3,9 @@ title: Gemensam åkallan efter bönen i församlingen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 261 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Innovationer
+categories:
+  - Troslära (´Aqīdah)
+  - Innovationer
 original_id: 1498
 description: 'Fråga: I vår by finns det två församlingar. Båda påstår sig följa den
  rätta vägen. Vid slutet av bönen finner vi att en församling höjer händerna och

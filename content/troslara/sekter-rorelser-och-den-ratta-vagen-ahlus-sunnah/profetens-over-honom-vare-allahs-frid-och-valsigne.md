@@ -4,7 +4,10 @@ title: Profetens – över honom vare Allāhs frid och välsignelser – förkla
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 38 s. ISBN 9960-892-66-2'
-categories: – Troslära (´Aqīdah) – Sekter, rörelser och den rätta vägen – ahlus-sunnah
+categories:
+  - Troslära (´Aqīdah)
+  - Sekter, rörelser och den rätta vägen
+  - ahlus-sunnah
 original_id: 1068
 description: 'Fråga: Profeten – över honom vare Allāhs frid och välsignelser – har
  informerat oss om hur det muslimska samfundet skulle splittra sig efter hans bortgång.

@@ -3,7 +3,9 @@ title: Belöningen för den som reciterar Koranen men utan att förstå den
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Bön (Salāh) – Koranrecitation
+categories:
+  - Bön (Salāh)
+  - Koranrecitation
 original_id: 1663
 description: 'Fråga: Även om jag inte förstår innebörden reciterar jag ofta Koranen.
  Belönar Allāh mig ändå? Svar: Som Allāh den Allsmäktige säger är den ädla Koranen

@@ -4,7 +4,9 @@ title: Skjuter upp begravningen för att släktingar från avlägsna platser ska
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 572 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Begravningsbön
+categories:
+  - Bön (Salāh)
+  - Begravningsbön
 original_id: 1242
 description: 'Fråga: Vilken är er åsikt om någon som skjuter upp begravningen av
  den avlidne för att släktingar från avlägsna platser ska kunna komma? Svar: Det

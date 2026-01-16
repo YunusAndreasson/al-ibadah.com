@@ -3,7 +3,9 @@ title: Djihād utan föräldrarnas tillåtelse
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1692
 description: 'Fråga: Jag är 20 år och jag vill strida för Allāhs den Allsmäktiges
  sak i Afghanistan [under kriget mot Ryssland]. Jag vill gärna dö som martyr, om

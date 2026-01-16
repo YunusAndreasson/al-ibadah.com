@@ -2,7 +2,9 @@
 title: Kysser frun före församlingsbönen
 author: Muḥammad bin Salih al-´Uthaymin
 source: Fatāwa al-Marahk
-categories: – Renhet (Tahārah) – Tvagning
+categories:
+  - Renhet (Tahārah)
+  - Tvagning
 original_id: 1365
 description: 'Fråga: Min man kyssar mig alltid innan han lämnar huset, även om han
  lämnar det för att be i moskén. Ibland känner jag att han kysser mig på ett lustfyllt

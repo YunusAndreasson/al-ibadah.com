@@ -3,7 +3,9 @@ title: Förmågan att kunna vallfärda
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 55 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Möjlighet att vallfärda
+categories:
+  - Vallfärd (Hajj)
+  - Möjlighet att vallfärda
 original_id: 1323
 description: 'Fråga: Vilken är den ”förmåga” som man talar om då vallfärden diskuteras? Svar: Den
  ”förmåga” som man talar om när det gäller vallfärden är en persons hälsa och att

@@ -3,7 +3,9 @@ title: Inte tillåtet att kasta stenarna innan middag
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 245 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Stenkastningen
+categories:
+  - Vallfärd (Hajj)
+  - Stenkastningen
 original_id: 1358
 description: 'Fråga: Under de sista dagarna av vallfärden kastade jag stenarna femton
  minuter innan böneutropet för middagsbönen. Är detta tiden för middag och finns

@@ -3,7 +3,9 @@ title: Doftessenser och parfymer
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 265 s. ISBN saknas'
-categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
+categories:
+  - Fasta (Sawm)
+  - Vad som bryter eller inte bryter fastan
 original_id: 422
 description: 'Fråga: Är det tillåtet att använda parfym som ''uud-olja, cologne och
  vällukt dagtid under ramadan? Svar: Ja, det är tillåtet att använda detta under

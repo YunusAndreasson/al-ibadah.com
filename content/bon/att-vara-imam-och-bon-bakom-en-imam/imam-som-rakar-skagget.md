@@ -3,7 +3,9 @@ title: Imam som rakar skägget
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 414 s. ISBN saknas'
-categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
+categories:
+  - Bön (Salāh)
+  - Att vara imam och bön bakom en imam
 original_id: 333
 description: 'Fråga: Är det tillåtet att be bakom en imam som rakar skägget? Svar: Är
  imamen som rakar sig den vanlige imamen, då bör ni försöka få honom ersatt med någon

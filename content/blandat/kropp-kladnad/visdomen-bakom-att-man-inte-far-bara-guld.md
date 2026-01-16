@@ -3,7 +3,9 @@ title: Visdomen bakom att män inte får bära guld
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Kropp & klädnad
+categories:
+  - Blandat
+  - Kropp & klädnad
 original_id: 1699
 description: 'Fråga: Vilken är anledningen till att män inte får bära guld? Vi känner
  till att islam enbart förbjuder vad som är skadligt för muslimer. Vilken är då faran

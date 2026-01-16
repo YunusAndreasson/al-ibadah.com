@@ -3,7 +3,9 @@ title: Svära vid profeten, Ka’bah, adlighet, ett avtal eller vid sitt ord
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 234 s. ISBN 9960-892-66-2'
-categories: – Troslära (´Aqīdah) – Shirk [Att sätta något vid Allāhs sida]
+categories:
+  - Troslära (´Aqīdah)
+  - Shirk [Att sätta något vid Allāhs sida]
 original_id: 1193
 description: 'Fråga: Vilket är utlåtandet om att svära vid profeten, Ka’bah, adlighet,
  ett avtal eller sitt ord? Svar: Det är inte tillåtet att svära vid profeten – över honom vare Allāhs frid och välsignel...'

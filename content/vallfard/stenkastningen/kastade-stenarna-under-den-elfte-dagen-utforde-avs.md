@@ -3,7 +3,9 @@ title: Kastade stenarna under den elfte dagen, utförde avskeds-tawāf och reste
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 257 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Stenkastningen
+categories:
+  - Vallfärd (Hajj)
+  - Stenkastningen
 original_id: 859
 description: 'Fråga: Vilket är utlåtandet om den som kastade stenarna på pelarna
  den elfte dagen och utförde avskeds- tawāf för att sedan resa? Svar: Om han

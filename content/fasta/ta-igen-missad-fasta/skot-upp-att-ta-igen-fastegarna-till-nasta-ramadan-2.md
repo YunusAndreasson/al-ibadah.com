@@ -3,7 +3,9 @@ title: Sköt upp att ta igen fastedagarna till nästa ramadan
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 309 s. ISBN saknas'
-categories: – Fasta (Sawm) – Ta igen missad fasta
+categories:
+  - Fasta (Sawm)
+  - Ta igen missad fasta
 original_id: 1405
 description: 'Fråga: Vilket är utlåtandet om någon som inte fastar en enda dag under
  ramadan på grund av en godtagbar ursäkt och denne inte tar igen den innan nästa

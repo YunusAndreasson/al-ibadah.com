@@ -2,7 +2,9 @@
 title: Klippa håret och naglarna
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Lajnah ad-Dā.imah lil-Buhūth al-´ilmiyyah wal-Iftā. – Fatwa No.9517
-categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
+categories:
+  - Fasta (Sawm)
+  - Vad som bryter eller inte bryter fastan
 original_id: 1379
 description: 'Fråga: Om man klipper håret eller naglarna under ramadan – bryter det
  då fastan? Svar: Att klippa håret och naglarna samt att plocka bort håret under

@@ -2,7 +2,9 @@
 title: Använda henna under fastan
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa Ramadan – Volym 2, sida 530, fatwa 500
-categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
+categories:
+  - Fasta (Sawm)
+  - Vad som bryter eller inte bryter fastan
 original_id: 904
 description: 'Fråga: Är det tillåtet att ta henna i håret när man fastar och ber?
  Jag har hört att henna bryter fastan? Svar: Detta är inte rätt då applicerande

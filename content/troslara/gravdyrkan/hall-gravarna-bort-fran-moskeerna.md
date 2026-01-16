@@ -3,7 +3,9 @@ title: Håll gravarna bort från moskéerna
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 180 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Gravdyrkan
+categories:
+  - Troslära (´Aqīdah)
+  - Gravdyrkan
 original_id: 86
 description: 'Fråga: En man byggde en moské och han beordrade sin familj att placera
  hans grav inuti moskén [efter hans död]. Sedan avled han och han begravdes i moskén

@@ -2,7 +2,9 @@
 title: En menstruerande kvinnas bön
 author: Muḥammad bin Salih al-´Uthaymin
 source: Fatāwa al-Marah
-categories: – Renhet (Tahārah) – Månadsblödning
+categories:
+  - Renhet (Tahārah)
+  - Månadsblödning
 original_id: 1369
 description: Om månadsblödningen kom efter att tiden för en bön inletts, om du exempelvis
  fick din månadsblödning en och en halv timme efter middagstid, måste du be den bönen

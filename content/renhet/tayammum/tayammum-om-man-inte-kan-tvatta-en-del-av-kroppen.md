@@ -4,7 +4,9 @@ author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 52 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Renhet (Tahārah) – Tayammum [Tvagning utan vatten]
+categories:
+  - Renhet (Tahārah)
+  - Tayammum [Tvagning utan vatten]
 original_id: 1424
 description: 'Fråga: En person tvagade sig med en handskada som inte bör fuktas.
  Därför tänkte han göra tayammuml över den, men glömde bort det. Sedan bad han

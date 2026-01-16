@@ -3,7 +3,9 @@ title: Visdomen bakom att förbjuda griskött
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1634
 description: 'Fråga: Jag bor i Sverige och här säljs griskött på restaurangerna.
  Jag har ställts frågan om varför grisskött är förbjudet. Vilken är anledningen och

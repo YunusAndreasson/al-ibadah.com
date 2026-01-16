@@ -3,7 +3,9 @@ title: Tillåtelse för att be utanför moskéns gränser
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 178 s. ISBN saknas'
-categories: – Bön (Salāh) – Moskén
+categories:
+  - Bön (Salāh)
+  - Moskén
 original_id: 206
 description: 'Fråga: Är det tillåtet att be utanför moskén om den är full? Svar: Moskéns
  gränser inom vilka en muslim ber de fem dagliga bönerna i församlingen definieras

@@ -4,7 +4,9 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 245 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Blandat – Ånger
+categories:
+  - Blandat
+  - Ånger
 original_id: 660
 description: 'Fråga: En man ber och utför goda handlingar men han har gjort något
  väldigt ont. Efteråt ångrade han sig inför Allāh. Kan han försona sig för denna

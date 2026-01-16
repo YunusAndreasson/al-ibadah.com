@@ -4,7 +4,9 @@ author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 226 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Tawhīd [Monoteism]
+categories:
+  - Troslära (´Aqīdah)
+  - Tawhīd [Monoteism]
 original_id: 1097
 description: 'Fråga: Vilket är utlåtandet om någon som på ett hånfullt sätt skämtar
  om Allāh, sändebudet – över honom vare Allāhs frid och välsignelser – eller religionen? Svar: Även

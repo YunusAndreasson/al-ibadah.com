@@ -3,7 +3,9 @@ title: Tasbih med den högra handen är bättre
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 264 s. ISBN saknas'
-categories: – Blandat – Åminnelse
+categories:
+  - Blandat
+  - Åminnelse
 original_id: 269
 description: 'Fråga: Vilken hand är bäst för tasbih, den högra eller den vänstra? Svar: Det
  är bäst att göra det med den högra handen. Profeten – över honom vare Allāhs frid

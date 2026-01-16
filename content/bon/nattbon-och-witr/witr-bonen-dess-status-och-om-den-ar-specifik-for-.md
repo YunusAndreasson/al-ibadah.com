@@ -3,7 +3,9 @@ title: Witr-bönen, dess status och om den är specifik för ramadan
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 507 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Nattbön och witr
+categories:
+  - Bön (Salāh)
+  - Nattbön och witr
 original_id: 974
 description: 'Fråga: Vilket är utlåtandet om witr och är den specifik för ramadan? Svar: Witr är
  en understruken sunnah både under ramadan och vid andra tidpunkter. Detta till

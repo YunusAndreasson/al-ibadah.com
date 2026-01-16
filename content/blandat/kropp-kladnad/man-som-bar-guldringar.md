@@ -3,7 +3,9 @@ title: Män som bär guldringar
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Kropp & klädnad
+categories:
+  - Blandat
+  - Kropp & klädnad
 original_id: 1698
 description: 'Fråga: Vilket är utlåtandet om att bära en guldring som vanligtvis
  brukar kallas för vigselring? Svar: Män får inte bära guldringar, varken före

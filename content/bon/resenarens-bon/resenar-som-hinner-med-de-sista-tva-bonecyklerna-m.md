@@ -4,7 +4,9 @@ title: Resenär som hinner med de sista två bönecyklerna med en imam som inte 
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 456 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Resenärens bön
+categories:
+  - Bön (Salāh)
+  - Resenärens bön
 original_id: 941
 description: 'Fråga: Om en resenär han med de båda sista bönecyklerna med en imam
  som inte ber som gäst, kan denne då göra taslīm med honom för att förkorta bönen? Svar: Resenären

@@ -3,7 +3,9 @@ title: Skjuta upp badet efter månadsblödningen till efter gryningsbönen
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 299 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Månadsblödning
+categories:
+  - Renhet (Tahārah)
+  - Månadsblödning
 original_id: 452
 description: 'Fråga: Är det tillåtet att skjuta upp badet efter sexuell orenhet till
  efter tiden för gryningsbönen har kommit och får kvinnor skjuta upp badet efter

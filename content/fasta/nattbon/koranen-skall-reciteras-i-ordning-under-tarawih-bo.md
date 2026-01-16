@@ -3,7 +3,9 @@ title: Koranen ska reciteras i ordning under tarāwīh-bönen
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 320 s. ISBN saknas'
-categories: – Fasta (Sawm) – Nattbön (tarawih)
+categories:
+  - Fasta (Sawm)
+  - Nattbön (tarawih)
 original_id: 470
 description: 'Fråga: Om jag är imam under tarāwīh -bönen, är jag då skyldig att
  under varje kväll recitera varje vers som följer vad som har föregåtts? Jag menar,

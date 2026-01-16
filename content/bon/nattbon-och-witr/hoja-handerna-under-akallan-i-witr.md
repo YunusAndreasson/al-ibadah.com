@@ -3,7 +3,9 @@ title: Höja händerna under åkallan i witr
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 319 s. ISBN saknas'
-categories: – Bön (Salāh) – Nattbön och witr
+categories:
+  - Bön (Salāh)
+  - Nattbön och witr
 original_id: 299
 description: Vilket är utlåtandet om att höja händerna under witr? Det är tillåtet
  att höja händerna under qunūt i witr. Detta hamnar i samma kategori som qunūt vid

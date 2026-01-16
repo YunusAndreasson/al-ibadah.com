@@ -4,7 +4,8 @@ author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 243 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Blandat
+categories:
+  - Blandat
 original_id: 658
 description: 'Fråga: En person begick en handling av olydnad och ångrade sig inför
  Allāh efteråt. Han känner dock djupt inom sig själv att Allāh inte kommer att förlåta

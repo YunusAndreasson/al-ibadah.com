@@ -3,7 +3,9 @@ title: De fyra imamerna beordrade inte någon att följa dem
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 374 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Förståelse av islam
+categories:
+  - Troslära (´Aqīdah)
+  - Förståelse av islam
 original_id: 154
 description: 'Fråga: Det finns olika åsikter i många frågor bland de lärde när det
  gäller rättsvetenskap – jag syftar på de fyra rättsskolorna. Vad ska den som tillhör

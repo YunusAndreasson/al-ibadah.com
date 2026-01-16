@@ -3,7 +3,9 @@ title: Arbeta för räntebanker
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Ekonomi
+categories:
+  - Blandat
+  - Ekonomi
 original_id: 1617
 description: 'Fråga: Jag är precis på väg att ta examen och min avsikt är att arbeta
  för en bank som finns i min hemstad. Vilken är er åsikt om detta? Inkluderas anställning

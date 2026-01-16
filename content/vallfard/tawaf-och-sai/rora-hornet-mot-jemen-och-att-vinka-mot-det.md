@@ -3,7 +3,9 @@ title: Röra hörnet mot Jemen och att vinka mot det
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 178 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Tawāf och sa’ī
+categories:
+  - Vallfärd (Hajj)
+  - Tawāf och sa’ī
 original_id: 803
 description: 'Fråga: Vilket är utlåtandet om att under tawāf stryka eller vinka
  mot den nordvästra sidan av den ädla Ka’bah? Vilket är det antal takbīr som ska

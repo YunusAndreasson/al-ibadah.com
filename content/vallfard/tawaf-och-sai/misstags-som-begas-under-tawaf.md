@@ -3,7 +3,9 @@ title: Misstags som begås under tawāf
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Dalīl al-Akhta’ allati yaqa’ fiha al-Hāj wa’l-Mu’tamir Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Vallfärd (Hajj) – Tawāf och sa’ī
+categories:
+  - Vallfärd (Hajj)
+  - Tawāf och sa’ī
 original_id: 884
 description: 'Fråga: Vi märkte att somliga uttalar deras avsikt högt före tawāf.
  Vi märkte även att vissa knuffade sig fram för att nå den svarta stenen. Vilken

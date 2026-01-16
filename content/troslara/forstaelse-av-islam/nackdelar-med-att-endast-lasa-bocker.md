@@ -2,7 +2,9 @@
 title: Nackdelar med att endast läsa böcker
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa al-shaykh Muḥammad ibn Sālih al-‘Uthaymīn, Kitāb al-‘Ilm, s. 68 – 70
-categories: – Troslära (´Aqīdah) – Förståelse av islam
+categories:
+  - Troslära (´Aqīdah)
+  - Förståelse av islam
 original_id: 488
 description: 'Fråga: Hur skaffar man kunskap? Vilka hinder finns för den som vill
  lära sig om islam? Svar: Det finns två sätt att inhämta kunskap på. Inhämta

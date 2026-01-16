@@ -3,7 +3,9 @@ title: Inkluderandet av sändebudets och hans två följeslagares gravar i hans 
 author: Ibn ´Abdullah Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. X s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Gravdyrkan
+categories:
+  - Troslära (´Aqīdah)
+  - Gravdyrkan
 original_id: 46
 description: 'Fråga: Det är välkänt att det inte är tillåtet att begrava i moskéer
  samt att det är förbjudet att be i en moské som innehåller en grav. Vilket var då

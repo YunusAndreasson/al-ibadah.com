@@ -2,7 +2,9 @@
 title: Gemensamma bönen börjar när man ber en icke-obligatorisk bön
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa tat'allaq bi-Jamā'atil-Masjid – fråga 26, sida 27
-categories: – Bön (Salāh) – Bönen i församlingen
+categories:
+  - Bön (Salāh)
+  - Bönen i församlingen
 original_id: 572
 description: 'Fråga: Ädle shaykh, vilken är den generella åsikten gällande vad man
  ska göra om man ber en icke-obligatorisk och den gemensamma bönen börjar? Svar: Den

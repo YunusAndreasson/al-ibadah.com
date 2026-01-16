@@ -2,7 +2,9 @@
 title: Be två bönecykler när man kommer in i moskén
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: al-Lajnah al-Dā’imah Li’l-Buhūth al-‘Ilmiyyah wa’l-Iftā’, 7/272
-categories: – Bön (Salāh) – Moskén
+categories:
+  - Bön (Salāh)
+  - Moskén
 original_id: 549
 description: 'Fråga: När imamen eller en församlingsmedlem kommer till moskén, ska
  de då be hälsningsbönen till moskén om de redan har bett sunnah för gryningsbönen

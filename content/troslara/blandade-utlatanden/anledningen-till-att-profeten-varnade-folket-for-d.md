@@ -3,7 +3,9 @@ title: Anledningen till att profeten varnade folket för Dajjāl
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 158 s. ISBN 9960-892-66-2'
-categories: – Troslära (´Aqīdah) – Blandade utlåtanden
+categories:
+  - Troslära (´Aqīdah)
+  - Blandade utlåtanden
 original_id: 1091
 description: 'Fråga: Varför har vi varnats för Dajjal? Svar: Den största prövning
  på jordens yta sedan Adam skapades tills Timmen börjar är prövningen i Dajjāl, vilket

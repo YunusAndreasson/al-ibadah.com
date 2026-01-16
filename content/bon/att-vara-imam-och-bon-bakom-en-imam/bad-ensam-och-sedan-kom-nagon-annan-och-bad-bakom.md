@@ -3,7 +3,9 @@ title: Bad ensam och sedan kom någon annan och bad bakom
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 163 s. ISBN saknas'
-categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
+categories:
+  - Bön (Salāh)
+  - Att vara imam och bön bakom en imam
 original_id: 1475
 description: 'Fråga: Jag stod upp för att be en obligatorisk bön ensam och då kom
  någon och tog mig som imam. Vilket är utlåtandet om att ändra sin avsikt från att

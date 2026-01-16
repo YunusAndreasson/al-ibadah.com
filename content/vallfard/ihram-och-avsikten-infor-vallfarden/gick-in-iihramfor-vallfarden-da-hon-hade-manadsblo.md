@@ -4,7 +4,9 @@ title: Gick in i ihrām för vallfärden då hon hade månadsblödning, begav si
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 158 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
+categories:
+  - Vallfärd (Hajj)
+  - Ihrām och avsikten inför vallfärden
 original_id: 784
 description: 'Fråga: En kvinna gick in i ihrām för vallfärden vid as-Sayl [ mīqāt för
  Najd] medan hon hade sin månadsblödning. Sedan nådde hon Mecka och hon begav sig

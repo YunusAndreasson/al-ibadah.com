@@ -3,7 +3,9 @@ title: Gick in i ihrām för ´umrah men avbröt sedan sin ihrām
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 23 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Offerdjuret
+categories:
+  - Vallfärd (Hajj)
+  - Offerdjuret
 original_id: 871
 description: 'Fråga: Min familj och jag kom överens om att ge oss av på ‘umrah och
  under dagen som vi bestämde oss för det trädde jag in ihrām för ‘umrah . De ändrade

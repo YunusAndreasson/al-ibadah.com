@@ -3,7 +3,9 @@ title: Be Allāh genom Hans vackra namn
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 282 s. ISBN saknas'
-categories: – Blandat – Åkallan
+categories:
+  - Blandat
+  - Åkallan
 original_id: 688
 description: 'Fråga: Är denna form av åkallan korrekt: ”Allāh, jag ber dig vid dina
  vackra namn och egenskaper, att...” Svar: Det är från profetens – över honom

@@ -3,7 +3,9 @@ title: Fastade inte på grund av en sjukdom och avled innan han kunde ta igen fa
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 306 s. ISBN saknas'
-categories: – Fasta (Sawm) – Ta igen missad fasta
+categories:
+  - Fasta (Sawm)
+  - Ta igen missad fasta
 original_id: 459
 description: 'Fråga: En man avled under ‘eidul-fitr . Under den första eller andra
  dagen i fastmånaden blev han sjuk. Hela ramadan gick och han fastade inte. Behöver

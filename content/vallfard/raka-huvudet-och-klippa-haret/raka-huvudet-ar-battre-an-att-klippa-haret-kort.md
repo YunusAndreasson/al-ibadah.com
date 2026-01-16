@@ -3,7 +3,9 @@ title: Raka huvudet är bättre än att klippa håret kort
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 207 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Raka huvudet och klippa håret
+categories:
+  - Vallfärd (Hajj)
+  - Raka huvudet och klippa håret
 original_id: 829
 description: 'Fråga: Vad är bäst är när man utfört riterna under vallfärden eller ‘umrah
  : att raka huvudet eller att klippa håret kort? Och är det tillräckligt att enbart

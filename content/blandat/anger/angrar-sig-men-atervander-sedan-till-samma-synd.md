@@ -4,7 +4,9 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 271 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Blandat – Ånger
+categories:
+  - Blandat
+  - Ånger
 original_id: 680
 description: 'Fråga: En person ångrar sig för en synd men återvänder sedan till synden
  om och om igen, för att sedan ångra sig igen. Efter att han ångrat sig sista gången

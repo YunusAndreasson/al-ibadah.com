@@ -3,7 +3,9 @@ title: Regler beträffande ´aqīqah
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1614
 description: 'Fråga: Vilket är utlåtandet om ´aqīqah-slakten för ett nyfött barn, oavsett om det är ett gossebarn eller ett flickebarn?'
 ---

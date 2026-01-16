@@ -3,7 +3,9 @@ title: Låsa moskén under natten
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 41 s. ISBN saknas'
-categories: – Bön (Salāh) – Moskén
+categories:
+  - Bön (Salāh)
+  - Moskén
 original_id: 382
 description: 'Fråga: Låstes moskéerna nattetid under Allāhs sändebud – över honom
  vare Allāhs frid och välsignelser – tid? Fick muslimerna som kommer för att besöka

@@ -3,7 +3,9 @@ title: Giltigheten i fastan för den som bara ber under ramadan
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 247 s. ISBN saknas'
-categories: – Fasta (Sawm) – De som bara ber under ramadan
+categories:
+  - Fasta (Sawm)
+  - De som bara ber under ramadan
 original_id: 405
 description: 'Fråga: Om någon fastar och ber under ramadan men sedan lämnar bönen
  när ramadan är över, är fastan då giltig? Svar: Bönen är en av islams pelare

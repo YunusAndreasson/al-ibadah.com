@@ -4,7 +4,9 @@ title: Åsikten att det inte är tillåtet att ge zakātul-fitr i form av ris d�
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 607 s. ISBN 9960-892-66-2'
-categories: – Allmosa (Zakāh) – Zakātul-fitr
+categories:
+  - Allmosa (Zakāh)
+  - Zakātul-fitr
 original_id: 1020
 description: 'Fråga: Vissa lärde säger att det inte är tillåtet att ge zakātul-fitr i
  form av ris då den typ av mat som har rapporteras [i ahādīth ] finns tillgängliga.

@@ -3,7 +3,9 @@ title: När en person som anländer med båt eller flyg går in i ihrām
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 121 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
+categories:
+  - Vallfärd (Hajj)
+  - Ihrām och avsikten inför vallfärden
 original_id: 760
 description: 'Fråga: När träder en pilgrim eller den som kommer till ‘umrah in
  i ihrām? Svar: Den som kommer med flyg eller båt går in i ihrām när denne

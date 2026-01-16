@@ -4,7 +4,9 @@ author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 166 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Livet i graven
+categories:
+  - Troslära (´Aqīdah)
+  - Livet i graven
 original_id: 1178
 description: 'Fråga: Har man bekräftat straffet i graven? Svar: Straffet har
  entydigt bekräftats genom tydliga bevis i [profetens – över honom vare Allāhs frid

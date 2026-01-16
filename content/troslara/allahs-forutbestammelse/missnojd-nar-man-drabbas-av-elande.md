@@ -4,7 +4,9 @@ author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 193 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Allāhs förutbestämmelse
+categories:
+  - Troslära (´Aqīdah)
+  - Allāhs förutbestämmelse
 original_id: 1186
 description: 'Fråga: Vilket är utlåtandet om någon som blir missnöjd när denne drabbas
  av elände? Svar: Under eländestider delar sig människor i fyra olika nivåer: Missbelåtenhet

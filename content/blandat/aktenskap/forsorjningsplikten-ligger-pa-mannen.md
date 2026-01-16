@@ -3,7 +3,9 @@ title: Försörjningsplikten ligger på mannen
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1626
 description: 'Fråga: Om kvinnan har ett jobb och hon får en hög lön, måste då mannen
  försörja henne? Vad gäller om hans inkomst är liten? Svar: Mannen måste försörja

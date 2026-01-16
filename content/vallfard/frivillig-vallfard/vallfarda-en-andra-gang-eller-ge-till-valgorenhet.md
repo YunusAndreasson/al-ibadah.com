@@ -3,7 +3,9 @@ title: Vallfärda en andra gång eller ge till välgörenhet
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 317 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Frivillig vallfärd
+categories:
+  - Vallfärd (Hajj)
+  - Frivillig vallfärd
 original_id: 877
 description: 'Fråga: Jag har utfört den obligatoriska vallfärden och jag har möjlighet
  att göra det igen. Bör jag ge till välgörenhet vad en andra vallfärd skulle kosta? Svar: Om

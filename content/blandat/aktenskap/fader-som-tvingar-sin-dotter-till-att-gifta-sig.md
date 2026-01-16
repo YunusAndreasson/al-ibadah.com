@@ -3,7 +3,9 @@ title: Fader som tvingar sin dotter till att gifta sig
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1641
 description: 'Fråga: Jag har en syster och min fader gav bort henne i giftermål till
  en man när hon var 22 år gammal. Han gjorde det utan att fråga om hennes åsikt.

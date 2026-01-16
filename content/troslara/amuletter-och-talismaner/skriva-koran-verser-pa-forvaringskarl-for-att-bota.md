@@ -3,7 +3,9 @@ title: Skriva Koran-verser på förvaringskärl för att bota sig själv
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 101 s. ISBN 9960-892-66-2'
-categories: – Troslära (´Aqīdah) – Amuletter och talismaner
+categories:
+  - Troslära (´Aqīdah)
+  - Amuletter och talismaner
 original_id: 1080
 description: 'Fråga: Är det tillåtet att skriva vissa verser från Koranen [som al-Kursi]
  på förvaringskärl för att bota sig själv? Svar: Vi bör vara medvetna om att

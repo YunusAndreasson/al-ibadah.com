@@ -1,7 +1,9 @@
 ---
 title: Samlag i badrummet
 author: Shaykh Sa’d al-Humayd
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1717
 description: 'Fråga: Får en man ha samlag med sin fru utan täcke? Är det tillåtet
  att ha samlag i badrummet? Svar: All lovprisan tillhör Allāh. Ja, det är tillåtet

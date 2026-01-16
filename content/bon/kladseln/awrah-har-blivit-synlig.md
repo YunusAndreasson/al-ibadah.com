@@ -3,7 +3,9 @@ title: ‘Awrah har blivit synlig
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 200 s. ISBN saknas'
-categories: – Bön (Salāh) – Klädseln
+categories:
+  - Bön (Salāh)
+  - Klädseln
 original_id: 218
 description: 'Fråga: Ibland ber jag då jag har täckt mig med en handduk. Inget av ‘awrah visas
  men då jag nedfaller[^1] syns lite av mitt knä och det ovanför. I vetskap om att jag

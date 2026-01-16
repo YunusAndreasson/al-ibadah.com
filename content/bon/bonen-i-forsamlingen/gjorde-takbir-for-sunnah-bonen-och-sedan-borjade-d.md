@@ -3,7 +3,9 @@ title: Gjorde takbīr för sunnah-bönen och sedan började den obligatoriska
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 297 s. ISBN saknas'
-categories: – Bön (Salāh) – Bönen i församlingen
+categories:
+  - Bön (Salāh)
+  - Bönen i församlingen
 original_id: 1571
 description: 'Fråga: En man gick in i moskén för att be sunnah -bönen innan middagsbönen.
  Han gjorde takbīr men sedan började den obligatoriska bönen. Bör han avbryta bönen

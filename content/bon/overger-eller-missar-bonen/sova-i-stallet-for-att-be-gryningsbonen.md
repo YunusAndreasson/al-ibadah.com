@@ -3,7 +3,9 @@ title: Sova i stället för att be gryningsbönen
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 339 s. ISBN saknas'
-categories: – Bön (Salāh) – Överger eller missar bönen
+categories:
+  - Bön (Salāh)
+  - Överger eller missar bönen
 original_id: 1525
 description: 'Fråga: Ibland känner jag mig trött så jag sover. Jag har då inte möjlighet
  att be gryningsbönen utom i mitt hem. Kan jag göra så här? Svar: Den som är

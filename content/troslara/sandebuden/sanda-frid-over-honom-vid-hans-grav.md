@@ -3,7 +3,9 @@ title: Sända frid över honom vid hans grav
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 277 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Sändebuden
+categories:
+  - Troslära (´Aqīdah)
+  - Sändebuden
 original_id: 117
 description: 'Fråga: Finns det något som man ska säga när man sänder frid över
  honom vid hans grav? Svar: Vi känner inte till att några särskilda ord har rapporterats

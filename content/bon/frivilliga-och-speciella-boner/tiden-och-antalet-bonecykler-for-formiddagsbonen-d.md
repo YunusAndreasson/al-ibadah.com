@@ -3,7 +3,9 @@ title: Tiden och antalet bönecykler för förmiddagsbönen [dhuhā]
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 319 s. ISBN saknas'
-categories: – Bön (Salāh) – Frivilliga och speciella böner
+categories:
+  - Bön (Salāh)
+  - Frivilliga och speciella böner
 original_id: 300
 description: 'Fråga: Hur många bönecykler består förmiddagsbönen av och när passar
  det att be den? Svar: Förmiddagsbönen är en högt rekommenderad sunnah . Som

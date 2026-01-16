@@ -3,7 +3,9 @@ title: Takbīr två gånger om man börjar be med imamen när han bugar
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 463 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
+categories:
+  - Bön (Salāh)
+  - Att vara imam och bön bakom en imam
 original_id: 1221
 description: 'Fråga: Bör man göra takbīr två gånger om man ber bakom imamen och går
  in i bönen när han bugar? Svar: Går man in i bönen när imamen bugar, då gör

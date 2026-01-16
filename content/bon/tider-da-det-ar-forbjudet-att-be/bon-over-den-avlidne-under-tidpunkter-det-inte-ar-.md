@@ -3,7 +3,9 @@ title: Bön över den avlidne under tidpunkter det inte är tillåtet att be på
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 62 s. ISBN saknas'
-categories: – Bön (Salāh) – Tider då det är förbjudet att be
+categories:
+  - Bön (Salāh)
+  - Tider då det är förbjudet att be
 original_id: 387
 description: 'Fråga: Är det tillåtet att be begravningsbön över den avliden under
  tidpunkter då bön är förbjuden? Svar: Det är tillåtet att be begravningsbönen

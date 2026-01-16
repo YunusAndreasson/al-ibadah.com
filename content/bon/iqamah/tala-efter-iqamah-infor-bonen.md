@@ -3,7 +3,9 @@ title: Tala efter iqāmah inför bönen
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 129 s. ISBN saknas'
-categories: – Bön (Salāh) – Iqāmah [Det andra böneutropet]
+categories:
+  - Bön (Salāh)
+  - Iqāmah [Det andra böneutropet]
 original_id: 178
 description: 'Fråga: Vilket är utlåtandet om att tala om frågor som inte rör bönen
  [som att göra leden raka eller andra saker] när iqāmah inför bönen har ropats

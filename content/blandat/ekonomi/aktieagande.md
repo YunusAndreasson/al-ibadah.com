@@ -3,7 +3,9 @@ title: Aktieägande
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Ekonomi
+categories:
+  - Blandat
+  - Ekonomi
 original_id: 1621
 description: 'Fråga: Vad anser islam om att äga aktier i alla de olika bolag som
  finns? Är det tillåtet att göra affärer på detta sätt? Svar: Jag kan inte besvara

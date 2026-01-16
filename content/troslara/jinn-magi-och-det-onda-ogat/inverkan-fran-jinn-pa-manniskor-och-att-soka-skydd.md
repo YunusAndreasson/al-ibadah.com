@@ -3,7 +3,9 @@ title: Inverkan från jinn på människor och att söka skydd från dem
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Jinn, magi och det onda ögat
+categories:
+  - Troslära (´Aqīdah)
+  - Jinn, magi och det onda ögat
 original_id: 1654
 description: 'Fråga: Kan jinn skada en människa? Hur kan vi skydda oss mot dem? Svar: Utan
  tvekan kan jinn skada människan, ibland kan till och med något leda till att hon

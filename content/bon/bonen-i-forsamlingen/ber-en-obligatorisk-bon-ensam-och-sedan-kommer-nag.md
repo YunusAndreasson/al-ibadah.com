@@ -3,7 +3,9 @@ title: Ber en obligatorisk bön ensam och sedan kommer några in i moskén
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 395 s. ISBN saknas'
-categories: – Bön (Salāh) – Bönen i församlingen
+categories:
+  - Bön (Salāh)
+  - Bönen i församlingen
 original_id: 324
 description: 'Fråga: En person ber en obligatorisk bön ensam och medan han gör så
  kommer ett antal människor in i moskén. De gör takbīr och börjar be i församling.

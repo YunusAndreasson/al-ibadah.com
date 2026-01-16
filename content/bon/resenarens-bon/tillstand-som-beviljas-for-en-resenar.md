@@ -3,7 +3,9 @@ title: Tillstånd som beviljas för en resenär
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 550 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Resenärens bön
+categories:
+  - Bön (Salāh)
+  - Resenärens bön
 original_id: 997
 description: 'Fråga: Vilka är de tillstånd som beviljas för en resenär? Svar: De
  tillstånd som beviljas för en resenär är fyra: Att bönerna som är fyra bönecykler

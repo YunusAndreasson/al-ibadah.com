@@ -3,7 +3,9 @@ title: Stenarna som används för att kasta på pelarna
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 237 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Stenkastningen
+categories:
+  - Vallfärd (Hajj)
+  - Stenkastningen
 original_id: 853
 description: 'Fråga: Var tar man stenarna och hur ser de ut? Kan man tvätta dem? Svar: Stenarna
  tas från Mina och om de tas från Muzdalifah under ‘eid -dagen, då är det ingen

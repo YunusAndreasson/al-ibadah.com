@@ -3,7 +3,9 @@ title: Tasbih sker endast med den högra handen
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 264 s. ISBN saknas'
-categories: – Blandat – Åminnelse
+categories:
+  - Blandat
+  - Åminnelse
 original_id: 270
 description: 'Fråga: En ung man ledde oss i bön och efter bönen började han att göra tasbih med
  sin högra hand. Några blev överraskade och frågade om detta. Han sade: ”Detta är

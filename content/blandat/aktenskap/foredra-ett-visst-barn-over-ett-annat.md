@@ -3,7 +3,9 @@ title: Föredra ett visst barn över ett annat
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1694
 description: 'Fråga: Får en moder behandla ett av hennes barn eller barnbarn på ett
  bättre sätt än de andra även om de behandlar henne själv likadant? Svar: Föräldern

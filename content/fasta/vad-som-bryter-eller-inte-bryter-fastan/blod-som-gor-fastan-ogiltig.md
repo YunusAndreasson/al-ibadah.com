@@ -3,7 +3,9 @@ title: Blod som gör fastan ogiltig
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 272 s. ISBN saknas'
-categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
+categories:
+  - Fasta (Sawm)
+  - Vad som bryter eller inte bryter fastan
 original_id: 428
 description: 'Fråga: Vilken är den generella regeln när det gäller blod som gör fastan
  ogiltig och hur gör det fastan ogiltig? Svar: Det blod som för fastan ogiltig

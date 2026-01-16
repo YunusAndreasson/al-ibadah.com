@@ -3,7 +3,9 @@ title: Placera en krans på en grav
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 29 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Gravdyrkan
+categories:
+  - Troslära (´Aqīdah)
+  - Gravdyrkan
 original_id: 29
 description: 'Fråga: Är placerandet av en krans på ”den okände soldatens grav” likvärdigt
  med att upphöja de döda awliyā’ och rättfärdigt folk till den grad att de dyrkas? Svar: Detta

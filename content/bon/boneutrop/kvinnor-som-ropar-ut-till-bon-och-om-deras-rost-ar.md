@@ -4,7 +4,9 @@ author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 126 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Bön (Salāh) – Böneutrop
+categories:
+  - Bön (Salāh)
+  - Böneutrop
 original_id: 1570
 description: 'Fråga: Får en kvinna ropa ut böneutropet och anses hennes röst vara ‘awrah
 ? Svar: Enligt den mest korrekta åsikten bland de lärda så ropar kvinnan inte

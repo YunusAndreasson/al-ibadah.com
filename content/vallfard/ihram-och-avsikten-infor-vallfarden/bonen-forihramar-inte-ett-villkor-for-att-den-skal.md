@@ -3,7 +3,9 @@ title: Bönen för ihrām är inte ett villkor för att den ska vara korrekt
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 117 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
+categories:
+  - Vallfärd (Hajj)
+  - Ihrām och avsikten inför vallfärden
 original_id: 756
 description: 'Fråga: Är en muslims ihrām för vallfärden eller ‘umrah giltig även
  om denne inte ber två bönecykler för den? Är ett muntligt uttalande av avsikten

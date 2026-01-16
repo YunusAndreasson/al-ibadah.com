@@ -3,7 +3,9 @@ title: Utför ‘umrah under shawwal och återvänder till sitt land och vallfä
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 96 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Riterna under vallfärden
+categories:
+  - Vallfärd (Hajj)
+  - Riterna under vallfärden
 original_id: 742
 description: 'Fråga: Jag utförde ‘umrah under de sista dagarna i shawwal . Därefter
  återvände jag till Mecka med avsikten att utföra endast vallfärden [ hajjul-ifrad

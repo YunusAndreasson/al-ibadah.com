@@ -5,7 +5,9 @@ author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. x s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
+categories:
+  - Bön (Salāh)
+  - Att vara imam och bön bakom en imam
 original_id: 1491
 description: 'Fråga: När imamen har reciterat al-Fātihah i bön med höjd röst hör
  jag att vissa recitera al-Fātihah. Men jag hör också att de reciterar ännu en kort

@@ -2,7 +2,9 @@
 title: Giftermål med icke-muslimsk kvinna
 author: Ibn ´Abdullah Ibn Baz
 source: al-Aqalliyāt al-Muslimah – sida 29, fatwa 5
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1705
 description: 'Fråga: Vilket är ditt råd till de i minoritetsställning som gifter
  sig med ickemuslimska kvinnor utan tro på en Skapare och vilka effekter får detta

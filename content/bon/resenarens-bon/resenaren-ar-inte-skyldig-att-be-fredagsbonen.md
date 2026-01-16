@@ -3,7 +3,9 @@ title: Resenären är inte skyldig att be fredagsbönen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 455 s. ISBN saknas'
-categories: – Bön (Salāh) – Resenärens bön
+categories:
+  - Bön (Salāh)
+  - Resenärens bön
 original_id: 355
 description: 'Fråga: Om en man missade fredagsbönen medan han reste, bör han då be
  två bönecykler som fredagsbön eller fyra bönecykler som middagsbönen? Svar: Majoriteten

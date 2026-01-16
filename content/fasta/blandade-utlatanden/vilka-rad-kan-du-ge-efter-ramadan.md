@@ -3,7 +3,9 @@ title: Vilka råd kan du ge efter ramadan?
 author: al-Da’wah magazine
 source: 'al-Da’wah magazine, nummer 1774, sida 12 Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Fasta (Sawm) – Blandade utlåtanden
+categories:
+  - Fasta (Sawm)
+  - Blandade utlåtanden
 original_id: 1273
 description: All lovprisan tillhör Allāh. Jag undrar om den som fastade fortsatte
  att vara så som denne var under ramadan, eller är denne ”likt den som trasslar upp

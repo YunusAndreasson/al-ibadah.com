@@ -3,7 +3,9 @@ title: Sju personer som Allāh kommer att skugga – om det gäller specifikt f�
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Domedagen och tecknen inför den
+categories:
+  - Troslära (´Aqīdah)
+  - Domedagen och tecknen inför den
 original_id: 1683
 description: 'Fråga: Hadithen om de sju som Allāh kommer att skugga den dag som det
  inte kommer att finnas någon annan skugga än Hans – gäller den specifikt män eller

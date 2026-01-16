@@ -3,7 +3,9 @@ title: Glömmer imamen något säger de bakom honom ”Subhan Allāh”
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 273 s. ISBN saknas'
-categories: – Bön (Salāh) – Glömska och dålig koncentration
+categories:
+  - Bön (Salāh)
+  - Glömska och dålig koncentration
 original_id: 1504
 description: 'Fråga: Jag bad eftermiddagsbönen bakom en imam som missade den sista tashahhud
  . Han stod då upp för att be en femte bönecykel, trots att han påmindes av dem bakom

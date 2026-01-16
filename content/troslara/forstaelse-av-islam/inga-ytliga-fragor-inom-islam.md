@@ -4,7 +4,9 @@ author: Ibn ´Abdullah Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 209 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Förståelse av islam
+categories:
+  - Troslära (´Aqīdah)
+  - Förståelse av islam
 original_id: 97
 description: 'Fråga: Vilket är den islamiska lagens utlåtande om den som säger: ”Att
  raka skägget och att korta byxorna är ytliga frågor och inte en del av religionens

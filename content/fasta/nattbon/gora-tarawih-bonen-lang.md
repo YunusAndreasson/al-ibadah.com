@@ -3,7 +3,9 @@ title: Göra tarāwīh-bönen lång
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 319 s. ISBN saknas'
-categories: – Fasta (Sawm) – Nattbön (tarawih)
+categories:
+  - Fasta (Sawm)
+  - Nattbön (tarawih)
 original_id: 469
 description: 'Fråga: Det finns en imam i en moské och han leder folket i varje tarāwīh
  -bön. Han reciterar en hel sida i varje bönecykel och det blir då ungefär femton

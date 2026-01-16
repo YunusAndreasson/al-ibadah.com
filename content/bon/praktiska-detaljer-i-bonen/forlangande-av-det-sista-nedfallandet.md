@@ -3,7 +3,9 @@ title: Förlängande av det sista nedfallandet
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 199 s. ISBN saknas'
-categories: – Bön (Salāh) – Praktiska detaljer i bönen
+categories:
+  - Bön (Salāh)
+  - Praktiska detaljer i bönen
 original_id: 217
 description: 'Fråga: Jag har noterat att vissa imamer – må Allāh vägleda dem – förlänger
  det sista nedfallandet[^1] i bönen. Tillåter den islamiska lagen detta? Finns det någon

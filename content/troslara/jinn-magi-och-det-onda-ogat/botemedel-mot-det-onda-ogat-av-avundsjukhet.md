@@ -3,7 +3,9 @@ title: Botemedel mot det onda ögat av avundsjukhet
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 200 s. ISBN 9960-892-66-2'
-categories: – Troslära (´Aqīdah) – Jinn, magi och det onda ögat
+categories:
+  - Troslära (´Aqīdah)
+  - Jinn, magi och det onda ögat
 original_id: 1188
 description: 'Fråga: Kan man drabbas av det onda ögat och finns det något botemedel?
  Omintetgörs ens tawakkul om man skyddar sig mot det? Svar: Vi ser att det

@@ -3,7 +3,9 @@ title: Kastade stenarna före middag under den andra dagen
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 254 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Stenkastningen
+categories:
+  - Vallfärd (Hajj)
+  - Stenkastningen
 original_id: 1558
 description: 'Fråga: Vad måste den göra som under morgonen den andra ‘eid -dagen
  kastade sten på pelarna och sedan fick reda på att tiden för att kasta stenarna

@@ -3,7 +3,9 @@ title: Pengar som i något syfte samlas in av ett antal individer
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 183 s. ISBN saknas'
-categories: – Allmosa (Zakāh) – Allmosa för gåvor
+categories:
+  - Allmosa (Zakāh)
+  - Allmosa för gåvor
 original_id: 627
 description: 'Fråga: Om det finns en grupp och varje individ i gruppen betalar en
  viss summa och de sparar summan för att den ska komma till nytta om någon olycka

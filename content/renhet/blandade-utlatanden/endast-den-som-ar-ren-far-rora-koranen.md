@@ -3,7 +3,9 @@ title: Endast den som är ren får röra Koranen
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Renhet (Tahārah) – Blandade utlåtanden
+categories:
+  - Renhet (Tahārah)
+  - Blandade utlåtanden
 original_id: 1667
 description: 'Fråga: Vilket är utlåtandet om någon som rör mushaf utan att ha tvagat
  sig för att läsa den eller flytta den till en annan plats? Min fråga gäller

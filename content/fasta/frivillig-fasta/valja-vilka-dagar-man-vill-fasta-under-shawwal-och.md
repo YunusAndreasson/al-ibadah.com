@@ -4,7 +4,9 @@ title: Välja vilka dagar man vill fasta under shawwal och om de blir en skyldig
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 675 s. ISBN 9960-892-66-2'
-categories: – Fasta (Sawm) – Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+categories:
+  - Fasta (Sawm)
+  - Frivillig fasta (Shawwal, ashura-dagen, m.m.)
 original_id: 1268
 description: 'Fråga: Är det tillåtet att välja de dagar som man vill fasta under
  shawwal eller är det specifika dagar som gäller? Om en muslim fastar dessa dagar,

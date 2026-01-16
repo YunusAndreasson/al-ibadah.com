@@ -3,7 +3,9 @@ title: Anledning till att vi dyrkar Allāh
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 205 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Tawhīd [Monoteism]
+categories:
+  - Troslära (´Aqīdah)
+  - Tawhīd [Monoteism]
 original_id: 93
 description: 'Fråga: Varför dyrkar vi Allāh? Svar: I vissa ahādīth rapporteras
  att när räkenskapens stund inträffar i Nästa Liv, då kommer Allāh att föra fram

@@ -3,7 +3,9 @@ title: Silversmycken
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 176 s. ISBN saknas'
-categories: – Allmosa (Zakāh) – Allmosa för smycken
+categories:
+  - Allmosa (Zakāh)
+  - Allmosa för smycken
 original_id: 1383
 description: 'Fråga: Jag har en del silver i form av smycken som bärs runt halsen,
  händerna, på huvudet och på ett bälte. Jag har bett min man så många gånger att

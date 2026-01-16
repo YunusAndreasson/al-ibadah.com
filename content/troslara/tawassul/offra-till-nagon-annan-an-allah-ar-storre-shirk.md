@@ -4,7 +4,9 @@ author: Ibn ´Abdullah Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 40 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Tawassul [Medel för att åkalla Allāh]
+categories:
+  - Troslära (´Aqīdah)
+  - Tawassul [Medel för att åkalla Allāh]
 original_id: 34
 description: 'Fråga: Att söka Allāhs närhet genom att slakta får vid de rättfärdigas
  gravar är vanligt bland mitt folk. Jag motsade mig det, men de blev ännu orubbligare.

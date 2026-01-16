@@ -5,7 +5,9 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 395 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Bön (Salāh) – Överger eller missar bönen
+categories:
+  - Bön (Salāh)
+  - Överger eller missar bönen
 original_id: 1537
 description: 'Fråga: Jag är muslim – och all lovprisan och ära tillhör Allāh. Jag
  ber regelbundet i moskén, utom att jag ofta är sen till gryningsbönen. Jag är mycket

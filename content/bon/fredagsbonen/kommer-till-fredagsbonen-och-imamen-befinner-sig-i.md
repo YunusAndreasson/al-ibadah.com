@@ -3,7 +3,9 @@ title: Kommer till fredagsbönen och imamen befinner sig i den sista tashahhud
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 555 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Fredagsbönen
+categories:
+  - Bön (Salāh)
+  - Fredagsbönen
 original_id: 1000
 description: 'Fråga: Vad gör den som leds i bön under en fredag om denne kommer till
  bönen och imamen är i den sista tashahhud . Tar denne person igen genom att be

@@ -3,7 +3,9 @@ title: Botemedel mot onda tankar
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 224 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Blandade utlåtanden
+categories:
+  - Troslära (´Aqīdah)
+  - Blandade utlåtanden
 original_id: 103
 description: 'Fråga: Ibland kommer farliga tankar och känslor till mig. Jag är rädd
  för att de kan föra mig bort från min religion. Vad kan jag göra åt detta? Svar: Dessa

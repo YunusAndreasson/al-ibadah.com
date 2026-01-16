@@ -3,7 +3,9 @@ title: Folkmedicin
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 214 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Blandade utlåtanden
+categories:
+  - Troslära (´Aqīdah)
+  - Blandade utlåtanden
 original_id: 99
 description: 'Fråga: Vilken är islams inställning till dem som använder folkmedicin? Svar: I
  en hadīth rapporteras det: ”Allāh har inte sänt ned någon sjukdom utan att

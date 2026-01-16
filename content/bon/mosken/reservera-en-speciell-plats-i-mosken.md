@@ -3,7 +3,9 @@ title: Reservera en speciell plats i moskén
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Bön (Salāh) – Moskén
+categories:
+  - Bön (Salāh)
+  - Moskén
 original_id: 1658
 description: 'Fråga: När vissa äldre kommer till moskén och finner att någon satt
  sig på deras vanliga plats blir de arga. Vilket är utlåtandet om detta? Svar: Detta

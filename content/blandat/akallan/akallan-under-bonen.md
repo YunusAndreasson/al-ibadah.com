@@ -3,7 +3,9 @@ title: Åkallan under bönen
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 183 s. ISBN saknas'
-categories: – Blandat – Åkallan
+categories:
+  - Blandat
+  - Åkallan
 original_id: 1484
 description: 'Fråga: Får Allāhs tjänare åkalla i den obligatoriska bön? Ett exempel
  är om han efter att ha sagt ” Subhana Rabii al-A’la ” säger ” Allāhummaghfir lī

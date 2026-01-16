@@ -3,7 +3,9 @@ title: Vägledning i världsliga och religiösa frågor
 author: Shaykh ul-islām Ibn Taymiyyah
 source: 'l-Wasiyyah al-Jāmi’ah li khayr al-Sunya wa’l-Ākhirah Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Förståelse av islam
+categories:
+  - Troslära (´Aqīdah)
+  - Förståelse av islam
 original_id: 516
 description: 'Fråga: Kan du ge några råd som kan vägleda oss i religiösa och världsliga
  frågor? Shaykh ul-islām Ibn Taymiyyah ställdes följande fråga: Jag bad shayken,

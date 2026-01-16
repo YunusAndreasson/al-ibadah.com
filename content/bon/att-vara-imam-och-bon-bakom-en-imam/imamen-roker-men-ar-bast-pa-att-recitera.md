@@ -3,7 +3,9 @@ title: Imamen röker men är bäst på att recitera
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 23 s. ISBN saknas'
-categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
+categories:
+  - Bön (Salāh)
+  - Att vara imam och bön bakom en imam
 original_id: 331
 description: 'Fråga: Får en rökare leda bönen om han är bäst på att recitera? Svar: Ja,
  det är tillåtet om där inte finns någon annan som reciterar bra och som kan bönens

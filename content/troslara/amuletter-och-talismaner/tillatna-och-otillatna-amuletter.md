@@ -3,7 +3,9 @@ title: Tillåtna och otillåtna amuletter
 author: Ibn ´Abdullah Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 42 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Amuletter och talismaner
+categories:
+  - Troslära (´Aqīdah)
+  - Amuletter och talismaner
 original_id: 35
 description: 'Fråga: ´Abdullāh bin Mas''ūd har sagt: ” Jag hörde Allāhs sändebud
  säga: ''Sannerligen är besvärjelser, amuletter och tiwalah shirk .''” [ Abū Dawūd 3883, Ahmad 1:381

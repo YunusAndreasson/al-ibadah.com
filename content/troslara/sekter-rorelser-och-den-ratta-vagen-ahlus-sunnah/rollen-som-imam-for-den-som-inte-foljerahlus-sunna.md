@@ -3,7 +3,10 @@ title: Rollen som imam för den som inte följer ahlus-sunnah
 author: Ibn ´Abdullah Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 158 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Sekter, rörelser och den rätta vägen – ahlus-sunnah
+categories:
+  - Troslära (´Aqīdah)
+  - Sekter, rörelser och den rätta vägen
+  - ahlus-sunnah
 original_id: 77
 description: 'Fråga: Är det tillåtet att be bakom någon vars trosprinciper står i
  motsats till ahlus-sunnah wal-jamā’at? Ett exempel kan vara ash''ari . Svar: Det

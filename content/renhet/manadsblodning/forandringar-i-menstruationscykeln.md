@@ -3,7 +3,9 @@ title: Förändringar i menstruationscykeln
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 113 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Månadsblödning
+categories:
+  - Renhet (Tahārah)
+  - Månadsblödning
 original_id: 170
 description: 'Fråga: Jag är en 42 år gammal kvinna och ibland varar min månadsblödning
  under fyra dagar, sedan kommer ett uppehåll på tre dagar, därpå börjar den igen

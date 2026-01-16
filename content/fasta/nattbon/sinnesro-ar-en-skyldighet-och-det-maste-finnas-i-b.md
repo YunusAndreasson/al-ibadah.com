@@ -3,7 +3,9 @@ title: Sinnesro är en skyldighet och det måste finnas i bönen
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 318 s. ISBN saknas'
-categories: – Fasta (Sawm) – Nattbön (tarawih)
+categories:
+  - Fasta (Sawm)
+  - Nattbön (tarawih)
 original_id: 468
 description: 'Fråga: Vi har en imam i en moské som skyndar sig väldigt i tarāwīh-bönen.
  Vi hinner inte åkalla, lovprisa Allāh eller ens koncentrera oss med ödmjukhet under

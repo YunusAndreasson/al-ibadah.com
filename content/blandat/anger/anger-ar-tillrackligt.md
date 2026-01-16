@@ -4,7 +4,9 @@ author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 251 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Blandat – Ånger
+categories:
+  - Blandat
+  - Ånger
 original_id: 664
 description: 'Från: Jag är nu 29 år gammal och jag började be när jag var 24. All
  lovprisan tillhör Allāh – jag ber fortfarande. Jag har försökt att ta igen alla

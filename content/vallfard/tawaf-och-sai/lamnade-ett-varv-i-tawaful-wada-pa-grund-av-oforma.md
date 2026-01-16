@@ -3,7 +3,9 @@ title: Lämnade ett varv i tawāful-wadā på grund av oförmåga
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 192 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Tawāf och sa’ī
+categories:
+  - Vallfärd (Hajj)
+  - Tawāf och sa’ī
 original_id: 1349
 description: 'Fråga: Jag vallfärdade tillsammans med en grupp. Vi vallfärdade – och
  all lovprisan tillhör Allāh – utom att min fru under slutet av det sjätte varvet

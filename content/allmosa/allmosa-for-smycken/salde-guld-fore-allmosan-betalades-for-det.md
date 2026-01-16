@@ -2,7 +2,9 @@
 title: Sålde guld före allmosan betalades för det
 author: Ibn ´Abdullah Ibn Baz
 source: Fatāwa al-Marah
-categories: – Allmosa (Zakāh) – Allmosa för smycken
+categories:
+  - Allmosa (Zakāh)
+  - Allmosa för smycken
 original_id: 554
 description: 'Fråga: Jag sålde guld [smycken] som jag brukade bära för en tid, men
  jag betalade inte allmosa för dem. Jag skulle vilja att ni klargör vad jag ska göra

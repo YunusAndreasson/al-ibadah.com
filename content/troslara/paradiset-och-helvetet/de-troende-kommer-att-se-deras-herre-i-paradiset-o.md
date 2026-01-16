@@ -4,7 +4,9 @@ author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 156 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Paradiset och Helvetet
+categories:
+  - Troslära (´Aqīdah)
+  - Paradiset och Helvetet
 original_id: 76
 description: 'Fråga: I en hadīth från profeten – över honom vare Allāhs frid och
  välsignelser – uppges det: ”Ni kommer sannerligen att se er Herre på Återuppståndelsens

@@ -4,7 +4,9 @@ title: Hittade inte vatten efter den stora rituella orenheten, gjorde tayammum o
 author: Ibn ´Abdur-Rahman al-Jibrin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 76 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Tayammum [Tvagning utan vatten]
+categories:
+  - Renhet (Tahārah)
+  - Tayammum [Tvagning utan vatten]
 original_id: 1431
 description: 'Fråga: På morgonen var jag i den stora rituella orenheten och jag hittade
  inte något vatten. Jag bad då med tayammum . På kvällen fann jag vatten och gjorde ghusl för

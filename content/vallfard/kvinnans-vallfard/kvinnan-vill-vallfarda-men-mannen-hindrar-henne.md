@@ -3,7 +3,9 @@ title: Kvinnan vill vallfärda men mannen hindrar henne
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 48 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Kvinnans vallfärd
+categories:
+  - Vallfärd (Hajj)
+  - Kvinnans vallfärd
 original_id: 709
 description: 'Fråga: Jag är en äldre förmögen kvinna och jag har mer än en gång föreslagit
  för min man att vi ska vallfärda, men han avvisar min fråga utan anledning. Jag

@@ -3,7 +3,9 @@ title: Muhrim som tappar hår
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 138 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Förbjudna saker under ihrām
+categories:
+  - Vallfärd (Hajj)
+  - Förbjudna saker under ihrām
 original_id: 772
 description: 'Fråga: Vad bör en kvinna göra under ihrām om lite av hennes hår faller
  av mot hennes vilja? Svar: Om man tappar hår under ihrām – oavsett om

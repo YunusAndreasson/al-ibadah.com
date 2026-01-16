@@ -3,7 +3,9 @@ title: Höja rösten när man gör åminnelse efter den obligatoriska bönen
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 265 s. ISBN saknas'
-categories: – Blandat – Åminnelse
+categories:
+  - Blandat
+  - Åminnelse
 original_id: 271
 description: 'Fråga: Ska man göra tasbih tyst eller med höjd röst efter bönen? Svar: Ibn
  ‘Abbās har i Sahīh Muslim och Sahīh al-Bukhārī berättat att Allāhs sändebud – över honom vare Allāhs frid och v...'

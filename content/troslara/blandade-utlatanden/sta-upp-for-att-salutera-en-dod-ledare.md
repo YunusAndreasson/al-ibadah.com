@@ -3,7 +3,9 @@ title: Stå upp för att salutera en död ledare
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 64 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Blandade utlåtanden
+categories:
+  - Troslära (´Aqīdah)
+  - Blandade utlåtanden
 original_id: 49
 description: 'Fråga: När en ledare eller president dör, då brukar somliga regeringsrepresentanter
  stå upp och sörja den avlidne, och när ett statsöverhuvud i arabländerna dör, då

@@ -3,7 +3,9 @@ title: Hade intim samvaro med frun dagtid under ramadan
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 279 s. ISBN saknas'
-categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
+categories:
+  - Fasta (Sawm)
+  - Vad som bryter eller inte bryter fastan
 original_id: 434
 description: 'Fråga: Vilket är utlåtandet om den som fastade och gjorde något förbjudet
  under ramadan? Om det var natt? Vilken är gottgörelsen? Svar: Den som hade intim

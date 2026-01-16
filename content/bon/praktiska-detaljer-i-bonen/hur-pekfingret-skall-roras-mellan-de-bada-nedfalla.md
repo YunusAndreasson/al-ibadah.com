@@ -3,7 +3,9 @@ title: Hur pekfingret ska röras mellan de båda nedfallandena
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 481 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Praktiska detaljer i bönen
+categories:
+  - Bön (Salāh)
+  - Praktiska detaljer i bönen
 original_id: 959
 description: 'Fråga: Har någon autentisk hadīth rapporterats om hur pekfingret
  ska röras mellan de båda nedfallandena[^1] i bönen? Svar: Ja, en hadīth har

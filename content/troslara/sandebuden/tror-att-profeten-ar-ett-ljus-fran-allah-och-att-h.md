@@ -5,7 +5,9 @@ author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 111 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Sändebuden
+categories:
+  - Troslära (´Aqīdah)
+  - Sändebuden
 original_id: 1175
 description: 'Fråga: Om någon tror att profeten – över honom vare Allāhs frid och
  välsignelser – är ett ljus från Allāh, att han inte är mänsklig och att han har

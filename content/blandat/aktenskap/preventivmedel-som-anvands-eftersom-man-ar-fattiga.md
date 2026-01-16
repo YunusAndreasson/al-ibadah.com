@@ -4,7 +4,9 @@ title: Preventivmedel som används eftersom man är fattiga och inte vill ha
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1627
 description: 'Fråga: Min inkomst är liten och jag har många barn. Får jag begränsa antalet födslar?'
 ---

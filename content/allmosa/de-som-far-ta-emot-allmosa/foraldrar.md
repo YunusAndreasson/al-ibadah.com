@@ -2,7 +2,9 @@
 title: Föräldrar
 author: Ibn ´Abdullah Ibn Baz
 source: Fatāwa al-Marah
-categories: – Allmosa (Zakāh) – De som får ta emot allmosa
+categories:
+  - Allmosa (Zakāh)
+  - De som får ta emot allmosa
 original_id: 552
 description: 'Fråga: Är det tillåtet att ge allmosa till sin egen moder? Svar: En
  muslim för inte ge allmosa till sina föräldrar eller till sitt barn. I stället är

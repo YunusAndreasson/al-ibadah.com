@@ -3,7 +3,9 @@ title: ”Wahhabiter” kallar till samma sak som salaf
 author: Ibn ´Abdullah Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 328 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Tawhīd [Monoteism]
+categories:
+  - Troslära (´Aqīdah)
+  - Tawhīd [Monoteism]
 original_id: 134
 description: 'Fråga: Är historien som säger att Muḥammad bin ´Abdul-Wahhābs följeslagare
  band deras hästar i ar-Rawdah sann? Svar: Denna historia saknar grund, faktum

@@ -3,7 +3,8 @@ title: Uppnå ödmjukhet under bönen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 474 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh)
+categories:
+  - Bön (Salāh)
 original_id: 952
 description: 'Fråga: Hur kan vi uppnå ödmjukhet i bönen när vi exempelvis reciterar
  Koranen? Svar: Ödmjukhet är bönens innersta mening och själ. Innebörden av den

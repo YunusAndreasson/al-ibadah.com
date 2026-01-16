@@ -3,7 +3,9 @@ title: Resa för att besöka profetens – över honom vare Allāhs frid och vä
 author: Ibn ´Abdullah Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 165 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Gravdyrkan
+categories:
+  - Troslära (´Aqīdah)
+  - Gravdyrkan
 original_id: 80
 description: 'Fråga: Vilket är utlåtandet om att besöka profetens – över honom vare
  Allāhs frid och välsignelser – , awliyā och de rättfärdigas gravar? Det är inte

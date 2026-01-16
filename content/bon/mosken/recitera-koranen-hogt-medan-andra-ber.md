@@ -3,7 +3,9 @@ title: Recitera Koranen högt medan andra ber
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Bön (Salāh) – Moskén
+categories:
+  - Bön (Salāh)
+  - Moskén
 original_id: 1671
 description: 'Fråga: Kan jag recitera Koranen högt i moskén medan det finns andra
  runtikring mig som ber frivilliga böner? Svar: Blir de andra störda bör du inte

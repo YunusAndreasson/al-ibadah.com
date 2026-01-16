@@ -3,7 +3,9 @@ title: Pilgrim under vallfärden som reser till Jiddah innan han utfört tawāfu
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 196 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Tawāf och sa’ī
+categories:
+  - Vallfärd (Hajj)
+  - Tawāf och sa’ī
 original_id: 1352
 description: 'Fråga: Får en pilgrim resa till Jiddah utan att utföra tawāful-wadā
 ? Vad gäller den som gör det? Svar: En pilgrim får inte lämna Mecka efter vallfärden

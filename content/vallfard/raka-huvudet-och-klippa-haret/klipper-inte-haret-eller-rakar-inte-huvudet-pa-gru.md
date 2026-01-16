@@ -3,7 +3,9 @@ title: Klipper inte håret eller rakar inte huvudet på grund av okunskap
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 208 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Raka huvudet och klippa håret
+categories:
+  - Vallfärd (Hajj)
+  - Raka huvudet och klippa håret
 original_id: 831
 description: 'Fråga: En pilgrim kom under vallfärden och vallfärdade hajjul-tamattu’
  . När han hade utfört tawāf och sa’ī tog han på sig sina vanliga kläder men

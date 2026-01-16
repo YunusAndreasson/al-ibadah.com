@@ -1,6 +1,8 @@
 ---
 title: Längta efter döden då livet är svårt
-categories: – Blandat – Utveckling
+categories:
+  - Blandat
+  - Utveckling
 original_id: 1714
 description: 'Fråga: Jag har mött många motgångar i detta liv, vilket har fått mig
  att hata det. Varje gång jag vänder mig till Allāh, ber jag Honom att han ska

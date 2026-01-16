@@ -3,7 +3,9 @@ title: Raka huvudet eller klippa håret efter det andra stadiet i att avlägsna 
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 211 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Raka huvudet och klippa håret
+categories:
+  - Vallfärd (Hajj)
+  - Raka huvudet och klippa håret
 original_id: 1356
 description: 'Fråga: Måste man raka huvudet eller klippa håret under det stora avlägsnandet
  av ihrām, när man har klippt eller rakat håret för det mindre avlägsnandet av ihrām [som

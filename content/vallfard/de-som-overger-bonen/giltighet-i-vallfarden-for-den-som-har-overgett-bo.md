@@ -3,7 +3,9 @@ title: Giltighet i vallfärden för den som har övergett bönen
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 50 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – De som överger bönen
+categories:
+  - Vallfärd (Hajj)
+  - De som överger bönen
 original_id: 1320
 description: 'Fråga: Vad finns det att säga om vallfärden för den som har övergett
  bönen, antingen avsiktligen eller på grund av lathet? Gäller dennes vallfärd då

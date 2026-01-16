@@ -4,7 +4,9 @@ author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 253 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Blandat – Ånger
+categories:
+  - Blandat
+  - Ånger
 original_id: 665
 description: 'Fråga: Trots att jag vet hur stor synden är och trots att jag vet att
  djävulen frestade mig till att göra det begick jag otukt. Vid denna tidpunkt sade

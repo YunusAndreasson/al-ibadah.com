@@ -3,7 +3,9 @@ title: Ta igen dagar som inte har fastats på grund av månadsblödning
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 312 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Månadsblödning
+categories:
+  - Renhet (Tahārah)
+  - Månadsblödning
 original_id: 465
 description: 'Fråga: Jag är en ung kvinna som är sjutton år gammal. Min fråga gäller
  de två första åren som jag fastade. Jag har inte fastat [tagit igen] de dagar som

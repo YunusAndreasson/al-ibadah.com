@@ -3,7 +3,9 @@ title: Förkortning av bönen när man reser 100 km
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 426 s. ISBN saknas'
-categories: – Bön (Salāh) – Resenärens bön
+categories:
+  - Bön (Salāh)
+  - Resenärens bön
 original_id: 342
 description: 'Fråga: Är det då tillåtet att slå ihop och förkorta bönen om man färdas
  100 km till en annan stad? Svar: Reser han 100 km eller däromkring från sin

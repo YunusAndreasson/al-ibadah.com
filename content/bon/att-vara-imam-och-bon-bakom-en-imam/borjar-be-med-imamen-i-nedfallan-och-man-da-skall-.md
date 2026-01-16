@@ -4,7 +4,9 @@ title: Börjar be med imamen i nedfallan och man då ska vänta på att han rese
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 533 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
+categories:
+  - Bön (Salāh)
+  - Att vara imam och bön bakom en imam
 original_id: 1234
 description: 'Fråga: Om någon som leds i bön börjar be när imamen befinner sig i
  nedfallan, bör denne då vänta tills han [imamen] står upp eller ska denne nedfalla

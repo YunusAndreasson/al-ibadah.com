@@ -3,7 +3,9 @@ title: Gör vallfärden men inte ‘umrah
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 108 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Riterna under vallfärden
+categories:
+  - Vallfärd (Hajj)
+  - Riterna under vallfärden
 original_id: 751
 description: 'Fråga: Jag utförde den obligatoriska vallfärden men jag gjorde inte ‘umrah tillsammans
  med den. Har jag då syndat? Och den som utför ‘umrah tillsammans med vallfärden,

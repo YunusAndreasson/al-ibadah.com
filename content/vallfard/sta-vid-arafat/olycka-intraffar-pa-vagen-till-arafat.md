@@ -3,7 +3,9 @@ title: Olycka inträffar på vägen till Arafat
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 267 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Stå vid Arafat
+categories:
+  - Vallfärd (Hajj)
+  - Stå vid Arafat
 original_id: 865
 description: 'Fråga: Den sjunde i thul-hijjah begav jag mig till Huset och jag
  utförde riterna för ‘umrah . Sedan begav jag mig till Mina och vi bad de fem obligatoriska

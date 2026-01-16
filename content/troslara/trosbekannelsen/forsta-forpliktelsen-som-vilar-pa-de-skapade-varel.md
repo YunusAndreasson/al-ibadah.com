@@ -2,7 +2,9 @@
 title: Första förpliktelsen som vilar på de skapade varelserna
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fiqh al'Ibādāt – fråga 4, sida 18
-categories: – Troslära (´Aqīdah) – Trosbekännelsen
+categories:
+  - Troslära (´Aqīdah)
+  - Trosbekännelsen
 original_id: 587
 description: 'Fråga: Vilken är skapelsens första förpliktelse? Svara: De skapade
  varelsernas första förpliktelse är den första sak som de kallas till. Profeten – över honom vare Allāhs frid och välsignelser...'

@@ -3,7 +3,9 @@ title: Bön efter nattbönen [isha] anses vara nattbön [qiyamul-layl]
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 321 s. ISBN saknas'
-categories: – Bön (Salāh) – Nattbön och witr
+categories:
+  - Bön (Salāh)
+  - Nattbön och witr
 original_id: 303
 description: 'Fråga: Anses det vara nattbön om man ber elva bönecykler direkt efter
  nattbönen[^1]? Svar: Nattbön är när man ber mycket, som två eller tre timmar. Detta

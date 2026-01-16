@@ -3,7 +3,9 @@ title: Recitation av sura al-Ikhlas i witr är inte obligatoriskt
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 307 s. ISBN saknas'
-categories: – Bön (Salāh) – Nattbön och witr
+categories:
+  - Bön (Salāh)
+  - Nattbön och witr
 original_id: 292
 description: 'Fråga: Är recitation av sura al-Ikhlas ett villkor för att witr ska
  vara giltig eller är det tillåtet att recitera någon annan sura? Svar: Att recitera

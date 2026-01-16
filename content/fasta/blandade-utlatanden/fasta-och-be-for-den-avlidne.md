@@ -3,7 +3,9 @@ title: Fasta och be för den avlidne
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 208 s. ISBN saknas'
-categories: – Fasta (Sawm) – Blandade utlåtanden
+categories:
+  - Fasta (Sawm)
+  - Blandade utlåtanden
 original_id: 96
 description: 'Fråga: Kan man be, fasta och läsa Koranen för den avlidnes räkning? Svar: Ja,
  det är rätt att be, fasta, ge till välgörenhet, recitera Koranen, åminnas Allāh

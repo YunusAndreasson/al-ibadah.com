@@ -4,7 +4,9 @@ author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 324 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Fasta (Sawm) – Blandade utlåtanden
+categories:
+  - Fasta (Sawm)
+  - Blandade utlåtanden
 original_id: 475
 description: 'Fråga: Vilket är utlåtandet om någon som avsiktligen åt dagtid under
  ramadan och som sedan ångrade sig inför Allāh? Accepteras dennes ånger? Svar: Ja,

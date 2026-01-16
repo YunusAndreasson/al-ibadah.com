@@ -3,7 +3,9 @@ title: Bad under fredagar är en högst rekommenderad sunnah
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 464 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
+categories:
+  - Renhet (Tahārah)
+  - Ghusl [Den stora tvagningen]
 original_id: 1547
 description: 'Fråga: Är det obligatoriskt eller enbart fördelaktigt att göra ghusl under
  fredagar? Svar: Att göra ghusl under fredagar är en högst rekommenderad sunnah

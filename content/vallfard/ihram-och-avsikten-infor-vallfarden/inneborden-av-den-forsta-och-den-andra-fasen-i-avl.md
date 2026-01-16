@@ -3,7 +3,9 @@ title: Innebörden av den första och den andra fasen i avlägsnandet av ihrām
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 171 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
+categories:
+  - Vallfärd (Hajj)
+  - Ihrām och avsikten inför vallfärden
 original_id: 798
 description: 'Fråga: Vilken är innebörden av termen ”det första och det andra avlägsnandet
  av ihrām ”? Svar: Innebörden av fasen i det första avlägsnandet av ihrām är

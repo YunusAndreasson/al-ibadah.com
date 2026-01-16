@@ -3,7 +3,9 @@ title: En bok med tafsir är inte detsamma som Koranen
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Bön (Salāh) – Koranrecitation
+categories:
+  - Bön (Salāh)
+  - Koranrecitation
 original_id: 1677
 description: 'Fråga: Varför har inte denna vers skrivits på böcker med tafsīr?
  ” Som inga andra än de rena ska röra .” [Koranen 56:79] Svar: Då en bok om tafsīr innehåller

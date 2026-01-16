@@ -3,7 +3,9 @@ title: Arbetare som vill bryta fastan
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 288 s. ISBN saknas'
-categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
+categories:
+  - Fasta (Sawm)
+  - Vad som bryter eller inte bryter fastan
 original_id: 442
 description: 'Fråga: Under den välsignade fastemånaden hörde jag en fredagspredikant
  i moskén ge tillstånd till de anställda som har ett ansträngande arbete och som

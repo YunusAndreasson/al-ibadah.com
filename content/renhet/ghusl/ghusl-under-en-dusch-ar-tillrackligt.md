@@ -3,7 +3,9 @@ title: Ghusl under en dusch är tillräckligt
 author: Ibn ´Abdur-Rahman al-Jibrin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 75 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
+categories:
+  - Renhet (Tahārah)
+  - Ghusl [Den stora tvagningen]
 original_id: 1430
 description: 'Fråga: Jag skulle på ett klart och tydligt sätt vilja veta vilket som
  är det rätta sättet att göra ghusl efter den stora rituella orenheten. Jag har

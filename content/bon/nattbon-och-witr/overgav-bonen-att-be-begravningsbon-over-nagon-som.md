@@ -3,7 +3,9 @@ title: Övergav bönen – att be begravningsbön över någon som gjorde det
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 579 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Nattbön och witr
+categories:
+  - Bön (Salāh)
+  - Nattbön och witr
 original_id: 1011
 description: 'Fråga: Vilket är utlåtandet om bön över den avlidne om denne övergav
  bönen eller om det finns tveksamheter kring om denne bad? Får de som är ansvariga

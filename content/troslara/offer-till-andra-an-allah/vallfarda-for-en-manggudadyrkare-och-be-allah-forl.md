@@ -4,7 +4,9 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 19 s. ISBN saknas. Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Offer till andra än Allāh
+categories:
+  - Troslära (´Aqīdah)
+  - Offer till andra än Allāh
 original_id: 24
 description: 'Fråga: En person varken fastar eller ber, offrar till jinn samt träd
  [som om de var gudar] och dör i detta tillstånd. Får en släkting vallfärda för hans

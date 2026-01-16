@@ -3,7 +3,9 @@ title: Qunūt i gryningsbönen och witr
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 300 s. ISBN saknas'
-categories: – Bön (Salāh) – Praktiska detaljer i bönen
+categories:
+  - Bön (Salāh)
+  - Praktiska detaljer i bönen
 original_id: 289
 description: 'Fråga: Vilket är utlåtandet om att alltid göra qunūt under gryningsbönen
  och witr? Vilket är utlåtandet om att göra witr i tre bönecykler likt kvällsbönen? Svar: Denna

@@ -2,7 +2,9 @@
 title: Tid för att besöka gravar
 author: Muḥammad bin Salih al-´Uthaymin
 source: Fatāwa li Ahlil-Mayyit – fråga 33, sida 36
-categories: – Bön (Salāh) – Begravningsbön
+categories:
+  - Bön (Salāh)
+  - Begravningsbön
 original_id: 1367
 description: 'Fråga: När det gäller män, finns det någon specifik tid föreskriven
  för att besöka gravar? Och finns det någon specifik tid föreskriven då det är förbjudet

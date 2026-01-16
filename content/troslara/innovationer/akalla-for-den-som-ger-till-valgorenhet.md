@@ -3,7 +3,9 @@ title: Åkalla för den som ger till välgörenhet
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 283 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Innovationer
+categories:
+  - Troslära (´Aqīdah)
+  - Innovationer
 original_id: 690
 description: 'Fråga: Ibland när en person distribuerar välgörenhet och folket fått
  mota det, samlas de runt honom och lägger händerna på de tillgångarna han distribuerar.

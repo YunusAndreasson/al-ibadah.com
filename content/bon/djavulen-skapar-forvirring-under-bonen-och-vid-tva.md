@@ -3,7 +3,8 @@ title: Djävulen skapar förvirring under bönen och vid tvagning
 author: Ibn ´Abdullah Ibn Baz
 source: 'Fatāwa al-Marah Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn:
  Proprius. ISBN 91-7118-887-8'
-categories: – Bön (Salāh)
+categories:
+  - Bön (Salāh)
 original_id: 594
 description: 'Fråga: Jag blir ofta förvirrad över hur många bönecykler jag har bett,
  även om jag har bett med höjd röst för att jag ska komma ihåg vad jag har reciterat.

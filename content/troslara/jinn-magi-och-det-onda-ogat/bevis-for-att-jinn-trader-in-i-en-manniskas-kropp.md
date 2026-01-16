@@ -3,7 +3,9 @@ title: Bevis för att jinn träder in i en människas kropp
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Jinn, magi och det onda ögat
+categories:
+  - Troslära (´Aqīdah)
+  - Jinn, magi och det onda ögat
 original_id: 1655
 description: 'Fråga: Finns det några bevis som stöder påstående att jinn kan anta
  en mänsklig form? Svar: Ja, det finns bevis i Skriften och i profetens sunnah

@@ -3,7 +3,9 @@ title: Stå upp när man sänder fridshälsningar över profeten
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 279 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Sändebuden
+categories:
+  - Troslära (´Aqīdah)
+  - Sändebuden
 original_id: 121
 description: 'Fråga: Förbjöd följeslagarna att folket stod upp när de sände fridshälsningar
  över profeten? Svar: Följeslagarna brukade aldrig stå upp när de sände fridshälsningar

@@ -3,7 +3,8 @@ title: Profetens – över honom vare Allāhs frid och välsignelser – bön
 author: Shaykh Muḥammad Nāsir al-Dīn al-Albāni
 source: 'Talkhīs Sifat Salāt al-Nabi min al-takbīr ila al-Taslīm ka annaka turāhā
  Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Bön (Salāh)
+categories:
+  - Bön (Salāh)
 original_id: 1159
 description: 'Fråga: Hur bad profeten? Svar: Vända sig i riktning mot Ka’bah Klädseln När
  du står upp för att be, vänd dig i riktning mot Ka’bah var du än befinner dig, både

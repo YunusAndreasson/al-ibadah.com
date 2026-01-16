@@ -3,7 +3,9 @@ title: Behålla bilder för att minnas någon
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Blandade utlåtanden
+categories:
+  - Troslära (´Aqīdah)
+  - Blandade utlåtanden
 original_id: 1649
 description: 'Fråga: Kan en person ta sin egen bild och sedan sända den till sin
  familj under ''eid eller vid något annat tillfälle? Svar: Det finns många ahādīth som

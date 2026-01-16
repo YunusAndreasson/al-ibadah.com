@@ -3,7 +3,9 @@ title: Frivilliga böner eller tawāf
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 198 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Tawāf och sa’ī
+categories:
+  - Vallfärd (Hajj)
+  - Tawāf och sa’ī
 original_id: 820
 description: 'Fråga: Är det bättre att hela tiden göra tawāf eller att be frivilliga
  böner? Svar: Det finns olika åsikter om vilken av dessa båda handlingar som

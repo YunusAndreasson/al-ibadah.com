@@ -3,7 +3,9 @@ title: Började med al-Marwah och klippte sitt hår vid as-Safa
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 205 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Tawāf och sa’ī
+categories:
+  - Vallfärd (Hajj)
+  - Tawāf och sa’ī
 original_id: 828
 description: 'Fråga: Jag är en mycket gammal man och jag utförde tawāf för ‘umrah
  . Därefter gjorde jag sa’ī under sju varv. Men jag började från al-Marwah, klippte

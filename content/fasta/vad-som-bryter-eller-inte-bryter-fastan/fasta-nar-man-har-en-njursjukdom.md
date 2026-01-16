@@ -3,7 +3,9 @@ title: Fasta när man har en njursjukdom
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 283 s. ISBN saknas'
-categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
+categories:
+  - Fasta (Sawm)
+  - Vad som bryter eller inte bryter fastan
 original_id: 440
 description: 'Fråga: Jag lider av en njursjukdom och läkarna har gett mig rådet att
  inte fasta. Jag lyder dock inte vad de säger. Därför fastar jag men smärtan ökar

@@ -3,7 +3,9 @@ title: Säga āmīn tillsammans med imamen under fredagsbönen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 111 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Fredagsbönen
+categories:
+  - Bön (Salāh)
+  - Fredagsbönen
 original_id: 1001
 description: 'Fråga: Är det en innovation att under fredagsbönen säga āmīn tillsammans
  med imamen? Svar: Att säga āmīn efter predikantens predikan är inte en innovation.

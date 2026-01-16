@@ -3,7 +3,9 @@ title: Osäker på om al-Fātihah har reciterats
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 270 s. ISBN saknas'
-categories: – Bön (Salāh) – Glömska och dålig koncentration
+categories:
+  - Bön (Salāh)
+  - Glömska och dålig koncentration
 original_id: 272
 description: 'Fråga: Under min bön glömde jag om jag hade reciterat al-Fātihah. Bör
  jag nedfalla för glömska[^1] då? Vad reciterar man under denna nedfallan[^1]? Om jag är

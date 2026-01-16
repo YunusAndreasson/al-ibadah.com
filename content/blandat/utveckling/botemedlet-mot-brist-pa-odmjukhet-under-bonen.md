@@ -3,7 +3,9 @@ title: Botemedlet mot brist på ödmjukhet under bönen
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 198 s. ISBN saknas'
-categories: – Blandat – Utveckling
+categories:
+  - Blandat
+  - Utveckling
 original_id: 215
 description: 'Fråga: Vi hör mycket om ödmjukhet i bönen. Jag vill vara ödmjuk i min
  bön, men snabbt försvinner denna tanke och viskningarna återvänder till mig igen.

@@ -3,7 +3,9 @@ title: Kvinna som bär sockar eller handskar
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 130 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Kläderna under ihrām
+categories:
+  - Vallfärd (Hajj)
+  - Kläderna under ihrām
 original_id: 1342
 description: 'Fråga: Vilket är utlåtandet om ihrām för en kvinna då hon bär sockar
  eller handskar? Får hon ta av det som hon gick in i ihrām med? Svar: Det är

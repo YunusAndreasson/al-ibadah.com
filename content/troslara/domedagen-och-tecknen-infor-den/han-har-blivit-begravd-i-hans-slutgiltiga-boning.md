@@ -4,7 +4,9 @@ author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 299 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Domedagen och tecknen inför den
+categories:
+  - Troslära (´Aqīdah)
+  - Domedagen och tecknen inför den
 original_id: 1114
 description: 'Fråga: Vilket är utlåtandet om att säga: ”Han har blivit begravd i
  hans slutliga boning”? Svar: När någon säger: ” Han har blivit begravd i hans

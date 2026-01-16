@@ -4,7 +4,9 @@ author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 206 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Allmosa (Zakāh) – Zakātul-fitr
+categories:
+  - Allmosa (Zakāh)
+  - Zakātul-fitr
 original_id: 1551
 description: 'Fråga: Vilket är utlåtandet om att ge pengar som zakātul- fitr? Det
  finns de som säger att det är tillåtet. Svar: Det är inte okänt för någon muslim

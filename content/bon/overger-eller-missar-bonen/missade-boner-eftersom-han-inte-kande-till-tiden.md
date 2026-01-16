@@ -3,7 +3,9 @@ title: Missade böner eftersom han inte kände till tiden
 author: Ibn ´Abdur-Rahman al-Jibrin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 430 s. ISBN saknas'
-categories: – Bön (Salāh) – Överger eller missar bönen
+categories:
+  - Bön (Salāh)
+  - Överger eller missar bönen
 original_id: 1540
 description: 'Fråga: Jag reste från Saudiarabien till ett land som inte följer islam.
  Jag var noga med att be. Men tiden var annan än i Saudiarabien och jag missade därför

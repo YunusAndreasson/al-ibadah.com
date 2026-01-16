@@ -4,7 +4,9 @@ author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 112 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Åkalla andra än Allāh
+categories:
+  - Troslära (´Aqīdah)
+  - Åkalla andra än Allāh
 original_id: 68
 description: 'Fråga: Kan man be bakom någon som söker hjälp från någon annan än Allāh
  genom att säga: ” Hjälp oss Ghawt, stöd oss Jilani! ” Om jag inte hittar någon annan

@@ -3,7 +3,9 @@ title: Anledningen till att det är förbjudet att fasta under fredagar
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 679 s. ISBN 9960-892-66-2'
-categories: – Fasta (Sawm) – Blandade utlåtanden
+categories:
+  - Fasta (Sawm)
+  - Blandade utlåtanden
 original_id: 1271
 description: 'Fråga: Vad är anledningen till att det är förbjudet att fasta under
  fredagar? Går det heller inte att fasta under fredagar när man har fasta att ta

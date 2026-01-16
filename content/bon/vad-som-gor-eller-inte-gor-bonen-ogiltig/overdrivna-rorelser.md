@@ -3,7 +3,9 @@ title: Överdrivna rörelser
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 201 s. ISBN saknas'
-categories: – Bön (Salāh) – Vad som gör eller inte gör bönen ogiltig
+categories:
+  - Bön (Salāh)
+  - Vad som gör eller inte gör bönen ogiltig
 original_id: 1489
 description: 'Fråga: Jag noterar att vissa bröder under bönen i moskén ibland rör
  sig överdrivet mycket. De sätter den ena foten framför den andra som om de stod

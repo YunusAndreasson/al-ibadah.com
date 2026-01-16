@@ -4,7 +4,9 @@ author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 61 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
+categories:
+  - Renhet (Tahārah)
+  - Ghusl [Den stora tvagningen]
 original_id: 1426
 description: 'Fråga: Låt oss anta att jag vaknar precis innan soluppgången och finner
  att jag är i ett tillstånd av stor rituell orenhet. Om jag gör ghusl, då kommer

@@ -3,7 +3,9 @@ title: Kvinnor som inte ser imamen men som hör hans takbīr
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 20 s. ISBN saknas'
-categories: – Bön (Salāh) – Moskén
+categories:
+  - Bön (Salāh)
+  - Moskén
 original_id: 372
 description: 'Fråga: Vi har en moské. Vid dess norra sida finns ett ingärdat område
  i förening med den. Under ramadan skulle vi vilja använda det som böneplats för

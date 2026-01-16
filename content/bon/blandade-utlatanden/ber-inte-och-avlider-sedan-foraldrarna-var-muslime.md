@@ -2,7 +2,9 @@
 title: Ber inte och avlider sedan [föräldrarna var muslimer]
 author: Ibn ´Abdullah Ibn Baz
 source: Fatāwa al-Marah
-categories: – Bön (Salāh) – Blandade utlåtanden
+categories:
+  - Bön (Salāh)
+  - Blandade utlåtanden
 original_id: 574
 description: 'Fråga: Vad händer med en person, även om hans föräldrar var muslimer,
  som dör och inte bad? Skall hans kropp tvättas och ska en begravningsceremoni

@@ -3,7 +3,9 @@ title: Två bönecykler är inte ett villkor för ihrām
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 117 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
+categories:
+  - Vallfärd (Hajj)
+  - Ihrām och avsikten inför vallfärden
 original_id: 1336
 description: 'Fråga: Är två bönecykler ett villkor för ihrām? Svar: Det är inte
  ett villkor. De lärde skiljer sig endast åt om det är rekommenderat. Majoriteten

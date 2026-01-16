@@ -2,7 +2,9 @@
 title: Trodde att hon fått sin månadsblödning och bad inte
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa al-Haydh wal-Istihādhah wan-Nifās – sida 69, 54
-categories: – Renhet (Tahārah) – Månadsblödning
+categories:
+  - Renhet (Tahārah)
+  - Månadsblödning
 original_id: 590
 description: 'Fråga: En kvinna började blöda och fortsatte att göra det under nio
  dagar, under denna tid bad hon inte, då hon trodde att hon fått sin månadsblödning.

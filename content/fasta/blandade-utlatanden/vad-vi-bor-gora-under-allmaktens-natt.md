@@ -2,7 +2,9 @@
 title: Vad vi bör göra under Allmaktens natt
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: al-Ladjnah ad-Da’imah 10/413
-categories: – Fasta (Sawm) – Blandade utlåtanden
+categories:
+  - Fasta (Sawm)
+  - Blandade utlåtanden
 original_id: 1302
 description: 'Fråga: Vad bör vi göra under Allmaktens Natt? Ber vi, läser vi Koranen
  eller profetens – över honom vare Allāhs frid och välsignelser – biografi, lyssnar

@@ -3,7 +3,9 @@ title: Svära vid profeten eller ens barn
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 67 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Eder
+categories:
+  - Troslära (´Aqīdah)
+  - Eder
 original_id: 52
 description: 'Fråga: Somliga svär oavsiktligen vid profeten – över honom vare Allāhs
  frid och välsignelser – eller vid deras barn, deras tungor har vant sig vid detta.

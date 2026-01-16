@@ -3,7 +3,9 @@ title: Den som befinner sig inom gränserna för mawaqit går in i ihrām från 
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 119 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – al-Mawaqit
+categories:
+  - Vallfärd (Hajj)
+  - al-Mawaqit
 original_id: 1337
 description: 'Fråga: Var träder den som bor innanför mawaqits gränser in i ihrām
 ? Svar: Den som befinner sig inom gränserna för mawaqit, som invånarna i Ummus-Salam

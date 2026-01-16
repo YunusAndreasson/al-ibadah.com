@@ -3,7 +3,9 @@ title: Belöningen för att vallfärda för sina föräldrar
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 68 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Vallfärda för någon annan
+categories:
+  - Vallfärd (Hajj)
+  - Vallfärda för någon annan
 original_id: 724
 description: 'Fråga: Våra föräldrar avled och de hade inte utfört den obligatoriska
  vallfärden. De hade heller inte lämnat något testamente efter sig om det. Bör vi

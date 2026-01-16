@@ -2,7 +2,9 @@
 title: Kvinnans klädsel i moskén
 author: Muḥammad bin Salih al-´Uthaymin
 source: al-Aqalliyāt al-Muslimah – sida 71, fatwa 10
-categories: – Bön (Salāh) – Moskén
+categories:
+  - Bön (Salāh)
+  - Moskén
 original_id: 1364
 description: 'Fråga: Ett antal kvinnor vid islamiska center har inte en korrekt islamisk
  slöja. Om de ansvariga vid centret är för hårda mot dem kommer de inte tillbaka

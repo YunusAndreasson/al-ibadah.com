@@ -4,7 +4,9 @@ author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 271 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Bön (Salāh) – Glömska och dålig koncentration
+categories:
+  - Bön (Salāh)
+  - Glömska och dålig koncentration
 original_id: 1502
 description: 'Fråga: Jag känner ofta tvivel om hur många bönecykler jag har bett.
  Även när jag reciterat med höjd röst så att jag kommer ihåg vad jag har reciterat

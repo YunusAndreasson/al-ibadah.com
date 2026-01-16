@@ -3,7 +3,9 @@ title: Bad inte under tre dagar
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 245 s. ISBN saknas'
-categories: – Blandat – Ånger
+categories:
+  - Blandat
+  - Ånger
 original_id: 659
 description: 'Fråga: Jag bad inte under tre dagar. Efteråt vägledde Allāh mig och
  jag har sedan detta tillfälle trofast utfört min bön i tid. Men vad gäller för dess

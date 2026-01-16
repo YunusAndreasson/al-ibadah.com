@@ -4,7 +4,9 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 219 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Bön (Salāh) – Vad som gör eller inte gör bönen ogiltig
+categories:
+  - Bön (Salāh)
+  - Vad som gör eller inte gör bönen ogiltig
 original_id: 231
 description: 'Fråga: Mina småbarn [den äldste har inte fyllt tre ännu] står bakom
  mig när jag ber hemma. Jag gör så för att lära dem bönen. Detta sker utan att de

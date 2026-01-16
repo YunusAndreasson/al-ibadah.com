@@ -3,7 +3,9 @@ title: Ghusl och prydnad av sig själv – om det är en skyldighet både för m
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 558 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Fredagsbönen
+categories:
+  - Bön (Salāh)
+  - Fredagsbönen
 original_id: 1003
 description: 'Fråga: Behöver både män och kvinnor göra ghusl samt pryda sig under
  fredagen? Och vilket är utlåtandet om att bada en eller två dagar innan? Svar: Dessa

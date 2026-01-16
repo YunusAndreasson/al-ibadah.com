@@ -3,7 +3,9 @@ title: Blodet som kommer under graviditeten – om det räknas som månadsblödn
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 365 s. ISBN 9960-892-66-2'
-categories: – Renhet (Tahārah) – Månadsblödning
+categories:
+  - Renhet (Tahārah)
+  - Månadsblödning
 original_id: 1139
 description: 'Fråga: Anses det blod som kommer från en gravid kvinna var menstruationsblod? Svar: En
  gravid kvinna får inte sin månadsblödning, vilket imam Ahmad har berättat. En kvinna

@@ -4,7 +4,9 @@ author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 92 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Allāhs förutbestämmelse
+categories:
+  - Troslära (´Aqīdah)
+  - Allāhs förutbestämmelse
 original_id: 1076
 description: 'Fråga: Om man gör vad som är nödvändigt för att uppnå något, upphäver
  det då ens tawakkul? Under Gulfkriget gjorde vissa vad de ansåg vara nödvändigt

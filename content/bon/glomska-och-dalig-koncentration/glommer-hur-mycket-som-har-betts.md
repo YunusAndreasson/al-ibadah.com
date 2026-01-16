@@ -3,7 +3,9 @@ title: Glömmer hur mycket som har betts
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 280 s. ISBN saknas'
-categories: – Bön (Salāh) – Glömska och dålig koncentration
+categories:
+  - Bön (Salāh)
+  - Glömska och dålig koncentration
 original_id: 277
 description: 'Fråga: Jag ber alltid men hela tiden glömmer jag och tvekar över hur
  många bönecykler jag har bett och hur många som återstår. Därför gör jag ofta nedfallandet

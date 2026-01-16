@@ -3,7 +3,9 @@ title: Visste inte att månaden hade börjat förrän efter gryningsbönen
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 239 s. ISBN saknas'
-categories: – Fasta (Sawm) – När ramadan börjar och slutar
+categories:
+  - Fasta (Sawm)
+  - När ramadan börjar och slutar
 original_id: 398
 description: 'Fråga: Vilket är utlåtandet om fastan för den som inte fick reda på
  att ramadan hade börjat förrän efter gryningsbönen? Detta på grund av sömn eller

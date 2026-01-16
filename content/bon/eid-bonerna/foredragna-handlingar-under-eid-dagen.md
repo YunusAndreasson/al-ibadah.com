@@ -3,7 +3,9 @@ title: Föredragna handlingar under ‘eid-dagen
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 478 s. ISBN saknas'
-categories: – Bön (Salāh) – '''Eid-bönerna'
+categories:
+  - Bön (Salāh)
+  - '''Eid-bönerna'
 original_id: 371
 description: 'Fråga: Vilka handlingar är att föredra under ‘eid -dagen? Svar: Under ‘eid
  -dagen uppvisar muslimerna glädje efter att ha avslutat fastan, nattbönen och all

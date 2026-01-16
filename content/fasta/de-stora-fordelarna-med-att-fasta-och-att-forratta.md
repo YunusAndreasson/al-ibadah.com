@@ -4,7 +4,8 @@ author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 211 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Fasta (Sawm)
+categories:
+  - Fasta (Sawm)
 original_id: 1387
 description: All lovprisan tillhör Allāh och må välsignelser och frid vara över Allāhs
  sändebud, hans familj, hans följeslagare och dem som följer hans vägledning. Detta

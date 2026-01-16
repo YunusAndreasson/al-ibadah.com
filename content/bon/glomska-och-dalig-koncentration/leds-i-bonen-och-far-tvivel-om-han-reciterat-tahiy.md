@@ -3,7 +3,9 @@ title: Leds i bönen och får tvivel om han reciterat tahiyyat
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 272 s. ISBN saknas'
-categories: – Bön (Salāh) – Glömska och dålig koncentration
+categories:
+  - Bön (Salāh)
+  - Glömska och dålig koncentration
 original_id: 273
 description: 'Fråga: Om imamen gör taslīm och jag tvekar om huruvida jag har reciterat tahiyyat. Svar: Tvivlar
  man efter bönen ska man inte lägga någon vikt vid det. I stället bör du hålla

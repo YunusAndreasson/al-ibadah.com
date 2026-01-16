@@ -3,7 +3,9 @@ title: Vara i moskén för att ägna sig åt dyrkan
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 331 s. ISBN saknas'
-categories: – Fasta (Sawm) – Blandade utlåtanden
+categories:
+  - Fasta (Sawm)
+  - Blandade utlåtanden
 original_id: 479
 description: 'Fråga: Är det en betonad sunnah att vara i moskén under ramadan för
  att ägna sig åt dyrkan? Vilka är villkoren för tidpunkter utanför ramadan? Svar: Att

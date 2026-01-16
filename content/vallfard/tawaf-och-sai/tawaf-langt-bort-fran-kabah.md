@@ -3,7 +3,9 @@ title: Tawāf långt bort från Ka’bah
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 173 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Tawāf och sa’ī
+categories:
+  - Vallfärd (Hajj)
+  - Tawāf och sa’ī
 original_id: 800
 description: 'Fråga: Vilket är utlåtandet om att göra tawāf bakom platsen där Abraham
  stod eller bakom zamzam -brunnen? Svar: Det finns inget skadligt i det. Även

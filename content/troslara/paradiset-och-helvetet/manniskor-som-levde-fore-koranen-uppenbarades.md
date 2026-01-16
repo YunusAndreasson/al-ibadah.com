@@ -3,7 +3,9 @@ title: Människor som levde före Koranen uppenbarades
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 203 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Paradiset och Helvetet
+categories:
+  - Troslära (´Aqīdah)
+  - Paradiset och Helvetet
 original_id: 92
 description: 'Fråga: De böcker som uppenbarades innan Koranen blev förvanskade, efter
  detta kom generationer som fortsatte att följa den väg som dessa böcker stakar ut.

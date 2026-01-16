@@ -3,7 +3,9 @@ title: Sova efter intim samvaro innan man har gjort ghusl
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 97 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
+categories:
+  - Renhet (Tahārah)
+  - Ghusl [Den stora tvagningen]
 original_id: 166
 description: 'Fråga: Jag hade intim samvaro och efter det lade jag mig för att sova.
  Det sades sedan till mig att den som har haft intim samvaro i varje fall måste tvaga

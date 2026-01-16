@@ -3,7 +3,9 @@ title: Nedfallandet för glömska – anledningar för att göra det
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 501 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Glömska och dålig koncentration
+categories:
+  - Bön (Salāh)
+  - Glömska och dålig koncentration
 original_id: 971
 description: 'Fråga: Vad finns det för anledningar till att man gör nedfallandet
  för glömska[^1]? Svar: Anledningarna till att man gör nedfallandet för glömska[^1]

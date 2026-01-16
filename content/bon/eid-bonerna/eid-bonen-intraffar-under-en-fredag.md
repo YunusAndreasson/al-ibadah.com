@@ -3,7 +3,9 @@ title: ‘Eid-bönen inträffar under en fredag
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 453 s. ISBN saknas'
-categories: – Bön (Salāh) – '''Eid-bönerna'
+categories:
+  - Bön (Salāh)
+  - '''Eid-bönerna'
 original_id: 353
 description: 'Fråga: Två ‘eid inträffar under samma dag – fredag och ‘eid al-adhā
  . Vad gör man i så fall? Svar: Den som bad ‘eid under fredagen behöver inte

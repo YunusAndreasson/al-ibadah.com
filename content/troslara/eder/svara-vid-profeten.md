@@ -3,7 +3,9 @@ title: Svära vid profeten
 author: Ibn ´Abdullah Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 98 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Eder
+categories:
+  - Troslära (´Aqīdah)
+  - Eder
 original_id: 65
 description: 'Fråga: Somliga har för vana att svära vid profeten – över honom vare
  Allāhs frid och välsignelser – eller vid någon annan skapelse. Detta har blivit

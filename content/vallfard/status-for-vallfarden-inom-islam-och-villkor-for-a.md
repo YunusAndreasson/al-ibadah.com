@@ -3,7 +3,8 @@ title: Status för vallfärden inom islam och villkor för att det ska vara obli
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fatāwa Ibn ´Uthaymīn 21/9-11 Muhammed Knut Bernström (1421), Koranens budskap
  . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Vallfärd (Hajj)
+categories:
+  - Vallfärd (Hajj)
 original_id: 892
 description: 'Fråga: Vilken är pilgrimsfärdens status inom islam och för vilka är
  den obligatorisk? Svar: Pilgrimsfärden till Allāhs heliga hus är en av islams

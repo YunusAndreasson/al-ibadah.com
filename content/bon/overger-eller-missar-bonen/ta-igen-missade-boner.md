@@ -3,7 +3,9 @@ title: Ta igen missade böner
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 140 s. ISBN saknas'
-categories: – Bön (Salāh) – Överger eller missar bönen
+categories:
+  - Bön (Salāh)
+  - Överger eller missar bönen
 original_id: 186
 description: 'Fråga: Hur tar man igen missade böner? Svar: Har du med en giltig
  ursäkt missat några böner, som sjukdom eller medvetslöshet, då måste du ta igen

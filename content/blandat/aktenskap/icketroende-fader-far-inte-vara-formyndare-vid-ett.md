@@ -3,7 +3,9 @@ title: Icketroende fader får inte vara förmyndare vid ett giftermål
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1625
 description: 'Fråga: En ung muslimsk man vill gifta sig med en muslimsk kvinna men
  hennes fader, som är alkoholist och avfälling, vägrar. Får hennes fader ordna med

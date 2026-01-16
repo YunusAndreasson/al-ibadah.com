@@ -4,7 +4,9 @@ author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 192 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Allmosa (Zakāh) – De som får ta emot allmosa
+categories:
+  - Allmosa (Zakāh)
+  - De som får ta emot allmosa
 original_id: 640
 description: 'Fråga: Är det tillåtet att betala allmosa till dem som har begått brott
  och som måste betala blodspengar och till dem som är skuldsatta om de kommer och

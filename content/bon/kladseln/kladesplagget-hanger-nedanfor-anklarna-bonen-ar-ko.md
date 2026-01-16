@@ -3,7 +3,9 @@ title: Klädesplagget hänger nedanför anklarna – bönen är korrekt men han 
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 227 s. ISBN saknas'
-categories: – Bön (Salāh) – Klädseln
+categories:
+  - Bön (Salāh)
+  - Klädseln
 original_id: 1494
 description: 'Fråga: Vilket är utlåtandet om att be i ett klädesplagg som täcker
  anklarna? Är bönen bakom någon som bär ett sådant klädesplagg giltig? Detta trots

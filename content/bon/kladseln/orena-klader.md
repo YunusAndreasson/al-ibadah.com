@@ -4,7 +4,9 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 441 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Bön (Salāh) – Klädseln
+categories:
+  - Bön (Salāh)
+  - Klädseln
 original_id: 931
 description: 'Fråga: Vilket är utlåtandet om den som ber i orena klädesplagg när
  denne inte känner till det? Svar: Ber man i orena klädesplagg och man inte fick

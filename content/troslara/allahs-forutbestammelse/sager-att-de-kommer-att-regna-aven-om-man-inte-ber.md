@@ -4,7 +4,9 @@ author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 568 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Allāhs förutbestämmelse
+categories:
+  - Troslära (´Aqīdah)
+  - Allāhs förutbestämmelse
 original_id: 1241
 description: 'Fråga: Somliga säger: Även om du inte sökte hjälp från Allāh skulle
  det regna. Vilken är din åsikt om detta? Svar: Jag säger att jag fruktar en

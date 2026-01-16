@@ -3,7 +3,11 @@ title: Resa för att besöka profetens – över honom vare Allāhs frid och vä
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 310 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Besök i profetens – över honom vare Allāhs frid och välsignelser – moske
+categories:
+  - Vallfärd (Hajj)
+  - Besök i profetens
+  - över honom vare Allāhs frid och välsignelser
+  - moske
 original_id: 1362
 description: 'Fråga: En person vill besöka profetens – över honom vare Allāhs frid
  och välsignelser – Moské i Medina och han befinner sig i Mecka. Han frågar om det

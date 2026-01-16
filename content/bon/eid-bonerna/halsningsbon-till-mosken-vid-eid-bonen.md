@@ -2,7 +2,9 @@
 title: Hälsningsbön till moskén vid ‘eid-bönen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: al-Ladjnah ad-Da’imah Li’l-Buhooth al-‘Ilmiyyah wa’l-Iftā’, 7/274
-categories: – Bön (Salāh) – '''Eid-bönerna'
+categories:
+  - Bön (Salāh)
+  - '''Eid-bönerna'
 original_id: 1591
 description: 'Fråga: Det har bevisats att Allāhs sändebud – må Allāhs frid och välsignelser
  vara över honom – gick ut för att be ‘eid -bönen vid böneplatsen [inte i den vanliga

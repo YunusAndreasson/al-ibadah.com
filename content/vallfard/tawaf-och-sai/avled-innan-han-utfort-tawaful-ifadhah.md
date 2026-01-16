@@ -3,7 +3,9 @@ title: Avled innan han utfört tawāful-ifādhah
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 185 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Tawāf och sa’ī
+categories:
+  - Vallfärd (Hajj)
+  - Tawāf och sa’ī
 original_id: 812
 description: 'Fråga: Vad gäller den som slutfört vallfärdsriterna, utom tawāful-ifādhah
 , men sedan dog? ska tawāf utföras för honom? Svar: Den som har fullbordat

@@ -3,7 +3,9 @@ title: Skilsmässa enligt sunnah
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1629
 description: 'Fråga: Hur går en skilsmässa till? Och vad händer om man skiljer sig flera gånger i rad?'
 ---

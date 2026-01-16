@@ -4,7 +4,9 @@ author: Muḥammad bin Salih al-´Uthaymin
 source: 'Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muḥammad ibn Sālih al-‘Uthaymīn,
  volym 1, 68-70. Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius.
  ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Allāhs förutbestämmelse
+categories:
+  - Troslära (´Aqīdah)
+  - Allāhs förutbestämmelse
 original_id: 1276
 description: 'Fråga: Hur kan vi förlika att doktorer kan ta reda på om fostret är
  en flicka eller pojke med versen: “ som vet vad som ligger gömt i moderlivet .”

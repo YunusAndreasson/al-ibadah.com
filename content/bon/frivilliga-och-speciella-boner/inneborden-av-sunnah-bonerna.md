@@ -3,7 +3,9 @@ title: Innebörden av sunnah-bönerna
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 296 s. ISBN saknas'
-categories: – Bön (Salāh) – Frivilliga och speciella böner
+categories:
+  - Bön (Salāh)
+  - Frivilliga och speciella böner
 original_id: 287
 description: 'Fråga: Vilket är utlåtandet om sunnah -bönerna? Svar: Allāh har
  gjort det till en skyldighet för alla muslimer att be fem böner varje dag. Profeten – över honom vare Allāhs frid och välsignel...'

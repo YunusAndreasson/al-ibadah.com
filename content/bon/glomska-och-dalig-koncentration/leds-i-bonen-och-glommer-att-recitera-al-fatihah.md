@@ -3,7 +3,9 @@ title: Leds i bönen och glömmer att recitera al-Fātihah
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 156 s. ISBN saknas'
-categories: – Bön (Salāh) – Glömska och dålig koncentration
+categories:
+  - Bön (Salāh)
+  - Glömska och dålig koncentration
 original_id: 1472
 description: 'Fråga: Om iqāmah ropas ut för bönen och jag under bönen glömmer att
  recitera sura al-Fātihah i en eller två bönecykler när jag leds i bönen, är min

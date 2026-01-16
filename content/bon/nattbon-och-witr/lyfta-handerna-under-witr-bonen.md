@@ -2,7 +2,9 @@
 title: Lyfta händerna under witr-bönen
 author: Ibn ´Abdullah Ibn Baz
 source: Fatāwa al-Marah
-categories: – Bön (Salāh) – Nattbön och witr
+categories:
+  - Bön (Salāh)
+  - Nattbön och witr
 original_id: 581
 description: 'Fråga: Är det tillåtet att lyfta händerna under witr -bönen? Svar: Det
  är godkänt att lyfta händerna under witr -bönen när man läser åkallan. Det beror

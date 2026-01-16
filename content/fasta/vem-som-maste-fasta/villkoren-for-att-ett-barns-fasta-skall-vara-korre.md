@@ -3,7 +3,9 @@ title: Villkoren för att ett barns fasta ska vara korrekt
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 328 s. ISBN saknas'
-categories: – Fasta (Sawm) – Vem som måste fasta
+categories:
+  - Fasta (Sawm)
+  - Vem som måste fasta
 original_id: 478
 description: 'Fråga: Vad finns det för villkor för att ett barns fasta ska vara
  korrekt? Är det sant att barnets fasta är för föräldrarna? Svar: Det är föreskrivet

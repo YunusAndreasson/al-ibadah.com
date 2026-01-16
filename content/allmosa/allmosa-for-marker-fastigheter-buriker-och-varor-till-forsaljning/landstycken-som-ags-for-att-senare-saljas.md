@@ -4,7 +4,9 @@ author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 167 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Allmosa (Zakāh) – Allmosa för marker, fastigheter, buriker och varor till försäljning
+categories:
+  - Allmosa (Zakāh)
+  - Allmosa för marker, fastigheter, buriker och varor till försäljning
 original_id: 614
 description: 'Fråga: Vilket är utlåtandet om landstycken som ägs för att säljas? Svar: Allmosa
  är en skyldighet för landstycken som ägs för att säljas dem. I detta fall anses

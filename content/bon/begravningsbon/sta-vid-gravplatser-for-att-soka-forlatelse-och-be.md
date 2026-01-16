@@ -4,7 +4,9 @@ title: Stå vid gravplatser för att söka förlåtelse och be för den avlidne 
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 87 s. ISBN saknas'
-categories: – Bön (Salāh) – Begravningsbön
+categories:
+  - Bön (Salāh)
+  - Begravningsbön
 original_id: 392
 description: 'Fråga: Är det tillåtet att stå vid en grav för att söka förlåtelse
  eller åkalla för den avlidne när denne har begravts? Kan man kasta jord ovanpå graven? Svar: Ja,

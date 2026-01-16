@@ -3,7 +3,9 @@ title: Sjuklingens bön
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 439 s. ISBN saknas'
-categories: – Bön (Salāh) – Sjuklingens bön
+categories:
+  - Bön (Salāh)
+  - Sjuklingens bön
 original_id: 347
 description: 'Fråga: Hur ber den sjuke? Svar: Den sjuke måste be de
  obligatoriska bönerna stående, även om han lutar sig mot en vägg eller en käpp. Om

@@ -3,7 +3,9 @@ title: Rengöring av den avlidnes kropp
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 572 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Begravningsbön
+categories:
+  - Bön (Salāh)
+  - Begravningsbön
 original_id: 1244
 description: 'Fråga: Vilket är det korrekta sättet som har rapporterats från Muḥammad
  om hur den avlidnes kropp ska tvättas? Svar: Det föreskrivna sättet för att

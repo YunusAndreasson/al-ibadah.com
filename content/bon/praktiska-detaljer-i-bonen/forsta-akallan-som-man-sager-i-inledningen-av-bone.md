@@ -3,7 +3,9 @@ title: Första åkallan som man säger i inledningen av bönen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 466 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Praktiska detaljer i bönen
+categories:
+  - Bön (Salāh)
+  - Praktiska detaljer i bönen
 original_id: 949
 description: 'Fråga: Vilket är utlåtandet om den första åkallan som man säger i inledningen
  av bönen? Svar: Den åkallan som inleder är en sunnah och inte en skyldighet,

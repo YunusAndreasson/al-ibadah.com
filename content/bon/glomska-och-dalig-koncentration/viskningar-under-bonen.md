@@ -3,7 +3,9 @@ title: Viskningar under bönen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 205 s. ISBN saknas'
-categories: – Bön (Salāh) – Glömska och dålig koncentration
+categories:
+  - Bön (Salāh)
+  - Glömska och dålig koncentration
 original_id: 221
 description: 'Fråga: Jag är en kvinna som utför den dyrkan som Allāh har föreskrivit
  för mig. Jag är dock väldigt glömsk i bönen. När jag ber tänker jag på det som har

@@ -3,7 +3,9 @@ title: Anländer sent och agerar imam
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 162 s. ISBN saknas'
-categories: – Bön (Salāh) – Bönen i församlingen
+categories:
+  - Bön (Salāh)
+  - Bönen i församlingen
 original_id: 194
 description: 'Fråga: En man gick in i moskén när imamen hade gjort taslīm . Han
  fann då att en annan person som hade anlänt sent gjorde klart det som han hade missat

@@ -3,7 +3,9 @@ title: Festlighet när det nyfödda barnet namnges
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1622
 description: 'Fråga: Får de nära och kära, grannar och vänner samlas för att namnge
  det nyfödda barnet eller är denna festlighet en innovation och otro? Svar: Att

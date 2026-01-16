@@ -3,7 +3,9 @@ title: Stryka över tunna eller håliga sockar
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 328 s. ISBN 9960-892-66-2'
-categories: – Renhet (Tahārah) – Stryka över sockar
+categories:
+  - Renhet (Tahārah)
+  - Stryka över sockar
 original_id: 1129
 description: 'Fråga: Vilket är utlåtandet om att stryka över tunna eller håliga sockar? Svar: Den
  starkaste åsikten är att det är tillåtet att stryka över trasiga eller tunna sockar

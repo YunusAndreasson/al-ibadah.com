@@ -3,7 +3,9 @@ title: Tog emot ränta men var okunnig om utlåtandet
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Ekonomi
+categories:
+  - Blandat
+  - Ekonomi
 original_id: 1644
 description: 'Fråga: Jag hade en summa och placerade den i en bank. En tid gick – låt oss säga ett år – och sedan fick jag pengarna och de hade ökat tio procent i värde. Jag kände inte till att detta var en ränta som inte är godkänd...'
 ---

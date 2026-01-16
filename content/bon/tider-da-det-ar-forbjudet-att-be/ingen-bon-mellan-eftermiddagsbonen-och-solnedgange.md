@@ -3,7 +3,9 @@ title: Ingen bön mellan eftermiddagsbönen och solnedgången
 author: Ibn ´Abdur-Rahman al-Jibrin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 292 s. ISBN saknas'
-categories: – Bön (Salāh) – Tider då det är förbjudet att be
+categories:
+  - Bön (Salāh)
+  - Tider då det är förbjudet att be
 original_id: 1509
 description: 'Fråga: Varför är det inte tillåtet att be sunnah eller andra böner
  efter eftermiddagsbönen? Svar: Från ett antal följeslagare har det rapporterats

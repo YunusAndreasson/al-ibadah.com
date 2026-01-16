@@ -3,7 +3,9 @@ title: Recitation av surah al-Kahf under fredagar
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 462 s. ISBN saknas'
-categories: – Bön (Salāh) – Fredagsbönen
+categories:
+  - Bön (Salāh)
+  - Fredagsbönen
 original_id: 361
 description: 'Fråga: Är recitation av sura al-Khaf under fredagen en rekommenderad
  handling? Svar: Det finns ahādīth som tillskrivs profeten – över honom vare

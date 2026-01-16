@@ -2,7 +2,9 @@
 title: Stryka över strumpor på sommaren
 author: Ibn ´Abdullah Ibn Baz
 source: Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh Ibn Bāz, 10/113.
-categories: – Renhet (Tahārah) – Stryka över sockar
+categories:
+  - Renhet (Tahārah)
+  - Stryka över sockar
 original_id: 548
 description: 'Fråga: Jag ser ofta folk stryka över sina strumpor när de tvagar sig,
  till och med på sommaren. Jag hoppas att du kan förklara för mig i vilken omfattning

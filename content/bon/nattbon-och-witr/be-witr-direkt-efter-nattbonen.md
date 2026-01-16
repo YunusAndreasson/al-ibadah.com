@@ -3,7 +3,9 @@ title: Be witr direkt efter nattbönen
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 317 s. ISBN saknas'
-categories: – Bön (Salāh) – Nattbön och witr
+categories:
+  - Bön (Salāh)
+  - Nattbön och witr
 original_id: 297
 description: 'Fråga: Jag bemödar mig stort med Koran-läsning, åminnelse och de rekommenderade
  bönerna som witr . Många gånger finner jag dock att witr är en börda, speciellt

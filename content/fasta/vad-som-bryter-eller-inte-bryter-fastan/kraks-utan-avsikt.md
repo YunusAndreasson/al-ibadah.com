@@ -3,7 +3,9 @@ title: Kräks utan avsikt
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 275 s. ISBN saknas'
-categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
+categories:
+  - Fasta (Sawm)
+  - Vad som bryter eller inte bryter fastan
 original_id: 431
 description: 'Fråga: När man kräks, förstör det då fastan? Svar: Det är mycket
  som inträffar den fastande utan att det sker avsiktligen. Detta kan vara skador,

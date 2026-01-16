@@ -4,7 +4,9 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 23 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Livet i graven
+categories:
+  - Troslära (´Aqīdah)
+  - Livet i graven
 original_id: 26
 description: 'Fråga: Hur ska människor komma upp ur deras gravar på Återuppståndelsens
  Dag? Vem kommer att vara den förste som kläs? Svar: Allāh den Upphöjde kommer

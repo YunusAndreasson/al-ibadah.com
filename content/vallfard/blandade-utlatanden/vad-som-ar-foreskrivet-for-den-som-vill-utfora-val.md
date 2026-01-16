@@ -3,7 +3,9 @@ title: Vad som är föreskrivet för den som vill utföra vallfärden och ‘umr
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 36 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Blandade utlåtanden
+categories:
+  - Vallfärd (Hajj)
+  - Blandade utlåtanden
 original_id: 702
 description: 'Fråga: Vad är föreskrivet för den som vill vallfärda och göra ‘umrah
 ? Svar: Den som bestämmer sig för att ge sig ut på en lång resa för att vallfärda,

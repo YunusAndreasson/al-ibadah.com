@@ -3,7 +3,9 @@ title: Beskrivning av ‘eid-bönen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 111 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – '''Eid-bönerna'
+categories:
+  - Bön (Salāh)
+  - '''Eid-bönerna'
 original_id: 1008
 description: 'Fråga: Vilket är det rätta sättet att be ‘eid -bönen på? Svar: Det
  korrekta sättet för att be de två ‘eid -bönerna är att imamen närvar och leder

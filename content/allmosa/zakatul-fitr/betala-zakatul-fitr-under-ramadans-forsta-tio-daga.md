@@ -3,7 +3,9 @@ title: Betala zakātul-fitr under ramadans första tio dagar
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 605 s. ISBN 9960-892-66-2'
-categories: – Allmosa (Zakāh) – Zakātul-fitr
+categories:
+  - Allmosa (Zakāh)
+  - Zakātul-fitr
 original_id: 1018
 description: 'Svar:   Zakātul-fitr är sammankopplad med al-fitr [när fastan bryts]
  då al-fitr är anledningen till den. Om då brytandet av fastan under ramadan är

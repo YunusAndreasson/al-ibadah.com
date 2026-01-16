@@ -3,7 +3,9 @@ title: Witr innan man går och lägger sig
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 318 s. ISBN saknas'
-categories: – Bön (Salāh) – Nattbön och witr
+categories:
+  - Bön (Salāh)
+  - Nattbön och witr
 original_id: 298
 description: 'Fråga: Jag är en kvinna som sover väldigt djupt. Kan jag be witr innan
  jag lägger mig, för jag vaknar inte förrän det är tid för gryningsbönen? Kommer

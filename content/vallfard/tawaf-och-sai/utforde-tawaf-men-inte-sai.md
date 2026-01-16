@@ -3,7 +3,9 @@ title: Utförde tawāf men inte sa’ī
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 205 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Tawāf och sa’ī
+categories:
+  - Vallfärd (Hajj)
+  - Tawāf och sa’ī
 original_id: 827
 description: 'Fråga: Om någon som behövde utföra sa’ī gjorde tawāf och utelämnade sa’ī och
  efter fem dagar informerades om att han behövde utföra sa’ī, får han utföra sa’ī utan

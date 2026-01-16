@@ -3,7 +3,9 @@ title: Ren efter gryningsbönen under fastan
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 297 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Månadsblödning
+categories:
+  - Renhet (Tahārah)
+  - Månadsblödning
 original_id: 449
 description: 'Fråga: Om en kvinna blir ren direkt efter gryningsbönen, håller hon
  sig då borta [från mat och dryck] och fastar denna dag som räknas som en dag för

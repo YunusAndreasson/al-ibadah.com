@@ -3,7 +3,9 @@ title: Bankanställdas lön
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Ekonomi
+categories:
+  - Blandat
+  - Ekonomi
 original_id: 1618
 description: 'Fråga: Är löner från banker i allmänhet och Arab Bank i synnerhet tillåtna?
  Jag frågar detta eftersom jag har hört att dessa löner är förbjudna då dessa banker

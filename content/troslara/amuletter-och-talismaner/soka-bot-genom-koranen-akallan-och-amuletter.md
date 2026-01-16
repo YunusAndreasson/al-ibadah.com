@@ -3,7 +3,9 @@ title: Söka bot genom Koranen, åkallan och amuletter
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 51 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Amuletter och talismaner
+categories:
+  - Troslära (´Aqīdah)
+  - Amuletter och talismaner
 original_id: 41
 description: 'Fråga: Vilket är utlåtandet om att söka bot genom Koranen, åkallan
  och amuletter? Svar: Enligt följande hadīth som Abū Sa´īd al-Khudri har

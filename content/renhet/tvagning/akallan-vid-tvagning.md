@@ -2,7 +2,9 @@
 title: Åkallan vid tvagning
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Lajnah al-Dā’imah, 5/205
-categories: – Renhet (Tahārah) – Tvagning
+categories:
+  - Renhet (Tahārah)
+  - Tvagning
 original_id: 498
 description: 'Fråga: Finns det någon åkallan som ska reciteras under tvagningen? Svar: All
  lovprisan tillhör Allāh. Det finns inga bevis för att profeten – över honom vare

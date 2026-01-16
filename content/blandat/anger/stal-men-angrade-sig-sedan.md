@@ -3,7 +3,9 @@ title: Stal men ångrade sig sedan
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 271 s. ISBN saknas'
-categories: – Blandat – Ånger
+categories:
+  - Blandat
+  - Ånger
 original_id: 679
 description: 'Fråga: När jag var 14 år gammal fick vi besök av en vän till min fader.
  Han kom från utlandet och jag brukade stjäla en del av hans utländska pengar för

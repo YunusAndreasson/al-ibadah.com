@@ -3,7 +3,9 @@ title: Röra saker när man är oren efter samlag
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 64 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Blandade utlåtanden
+categories:
+  - Renhet (Tahārah)
+  - Blandade utlåtanden
 original_id: 159
 description: 'Fråga: Om en man och kvinna har intim samvaro, får de då röra något
  innan de har gjort ghusl? Blir något orent om det vidrörs? Svar: Ja, den som

@@ -4,7 +4,9 @@ title: Fick sin månadsblödning under tawāful-ifādhah och fullföljde den på
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 160 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Kvinna med månadsblödning eller blödning efter graviditeten
+categories:
+  - Vallfärd (Hajj)
+  - Kvinna med månadsblödning eller blödning efter graviditeten
 original_id: 786
 description: 'Fråga: En kvinna reste för att vallfärda och hon fick sin månadsblödning
  fem dagar innan datumet för hennes resa. När hon nådde mīqāt gjorde hon ghusl och

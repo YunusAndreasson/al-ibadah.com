@@ -4,7 +4,9 @@ title: 'Innebörden av: ”Jag är hans hörsel som han hör med och hans syn so
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 60 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Blandade utlåtanden
+categories:
+  - Troslära (´Aqīdah)
+  - Blandade utlåtanden
 original_id: 47
 description: 'Fråga: Vilken är innebörden vad Allāh säger i denna heliga hadīth: ”Och
  om jag älskar honom, då kommer jag att vara hans hörsel som han hör med, hans syn

@@ -2,7 +2,9 @@
 title: Tankarna vandrar oavsiktligen iväg
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: al-Lajnah al-Dā’imah li’l-Buhāth al-‘Ilmiyyah wa’l-Iftā’, 7/40
-categories: – Bön (Salāh) – Glömska och dålig koncentration
+categories:
+  - Bön (Salāh)
+  - Glömska och dålig koncentration
 original_id: 1311
 description: 'Fråga: Vilket är utlåtandet om försumlighet i bönen när ens tankar
  oavsiktligen börjar vandra iväg? Svar: All lovprisan tillhör Allāh. När tiden

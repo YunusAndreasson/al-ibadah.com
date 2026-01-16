@@ -3,7 +3,9 @@ title: Vad säger en person som utför sa’ī under början av hans sa’ī
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 201 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Tawāf och sa’ī
+categories:
+  - Vallfärd (Hajj)
+  - Tawāf och sa’ī
 original_id: 1355
 description: 'Fråga: Får jag i början av varje varv under sa’ī säga: ” I Guds Namn,
  vi börjar med det Allāh och Hans sändebud började med. Sannerligen as-Safa och al-Marwah

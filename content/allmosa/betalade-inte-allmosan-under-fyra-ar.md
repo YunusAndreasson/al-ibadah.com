@@ -3,7 +3,8 @@ title: Betalade inte allmosan under fyra år
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 599 s. ISBN 9960-892-66-2'
-categories: – Allmosa (Zakāh)
+categories:
+  - Allmosa (Zakāh)
 original_id: 1014
 description: 'Fråga: En person betalade inte allmosan under fyra år. Vad måste denne
  nu göra? Svar: Denne har syndat genom att skjuta upp betalningen av allmosan.

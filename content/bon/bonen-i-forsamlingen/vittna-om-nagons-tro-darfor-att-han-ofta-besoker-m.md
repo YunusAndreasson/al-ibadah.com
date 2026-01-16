@@ -2,7 +2,9 @@
 title: Vittna om någons tro därför att han ofta besöker moskén
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa Arkān al-Islām – sida 34, fatwa 11
-categories: – Bön (Salāh) – Bönen i församlingen
+categories:
+  - Bön (Salāh)
+  - Bönen i församlingen
 original_id: 588
 description: 'Fråga: Är det tillåtet att bära vittne om någons tro enbart för att
  han ofta går till moskén, så som det finns berättat i en hadīth? Svar: Ja,

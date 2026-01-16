@@ -3,7 +3,9 @@ title: När man höjer händerna
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 226 s. ISBN saknas'
-categories: – Bön (Salāh) – Praktiska detaljer i bönen
+categories:
+  - Bön (Salāh)
+  - Praktiska detaljer i bönen
 original_id: 242
 description: 'Fråga: Vilket är utlåtandet om att höja händerna under bönen och när
  bör det göras? Svar: Händerna bör höjas vid fyra tillfällen under bönen: när

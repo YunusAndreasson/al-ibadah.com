@@ -3,7 +3,9 @@ title: Fotografier som tas eftersom det är nödvändigt
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Blandade utlåtanden
+categories:
+  - Troslära (´Aqīdah)
+  - Blandade utlåtanden
 original_id: 1648
 description: 'Fråga: Vilket är utlåtandet om fotografier som används på grund av
  att det är nödvändigt? Svar: Bilder av vad som är levande (människor och djur)

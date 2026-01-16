@@ -3,7 +3,9 @@ title: Betala för och följa med frun som inte har gjort den obligatoriska pilg
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fatāwa Ibn Uthaymīn 21/114 Muhammed Knut Bernström (1421), Koranens budskap
  . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Vallfärd (Hajj) – Kvinnans vallfärd
+categories:
+  - Vallfärd (Hajj)
+  - Kvinnans vallfärd
 original_id: 889
 description: 'Fråga: Min fru har inte utfört den obligatoriska pilgrimsfärden. Måste
  jag då vallfärda tillsammans med henne och betala för den? Svar: All lovprisan

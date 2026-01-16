@@ -4,7 +4,9 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 296 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Blandat – Åkallan
+categories:
+  - Blandat
+  - Åkallan
 original_id: 698
 description: 'Fråga: Vilken åkallan är det som ger levebröd och välsignelser? Svar: Jag
  känner inte till någon specifik åkallan som ger levebröd men att frukta Allāh är

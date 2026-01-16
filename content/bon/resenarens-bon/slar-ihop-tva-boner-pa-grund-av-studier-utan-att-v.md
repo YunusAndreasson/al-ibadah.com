@@ -3,7 +3,9 @@ title: Slår ihop två böner på grund av studier, utan att vara resenär
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 428 s. ISBN saknas'
-categories: – Bön (Salāh) – Resenärens bön
+categories:
+  - Bön (Salāh)
+  - Resenärens bön
 original_id: 343
 description: Får vi slå ihop två böner när vi bor i Medina när vi har lektioner som
  vi inte kan lämna? Anledningen skulle vara att profeten – över honom vare Allāhs

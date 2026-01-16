@@ -3,7 +3,9 @@ title: Hugger ned ett träd i Helgedomen
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 260 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Gottgörelser
+categories:
+  - Vallfärd (Hajj)
+  - Gottgörelser
 original_id: 862
 description: 'Fråga: Vad måste den göra som hugger ned ett träd i helgedomen göra?
  Och vilka är helgedomen gränser i Mecka? Svar: Den som hugger ned ett stort

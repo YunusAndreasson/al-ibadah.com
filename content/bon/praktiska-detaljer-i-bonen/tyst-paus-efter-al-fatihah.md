@@ -3,7 +3,9 @@ title: Tyst paus efter al-Fātihah
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 412 s. ISBN saknas'
-categories: – Bön (Salāh) – Praktiska detaljer i bönen
+categories:
+  - Bön (Salāh)
+  - Praktiska detaljer i bönen
 original_id: 332
 description: 'Fråga: Ska en imam pausa efter al-Fātihah för att de bakom honom också
  ska hinna recitera den? Svar: Det finns inga tydliga eller autentiska bevis

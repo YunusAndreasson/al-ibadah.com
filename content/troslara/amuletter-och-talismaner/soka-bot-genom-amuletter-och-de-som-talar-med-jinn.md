@@ -3,7 +3,9 @@ title: Söka bot genom amuletter och de som talar med jinn
 author: Ibn ´Abdullah Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 49 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Amuletter och talismaner
+categories:
+  - Troslära (´Aqīdah)
+  - Amuletter och talismaner
 original_id: 40
 description: 'Fråga: När någon lider av epilepsi går denne till någon arabisk helare
  som talar med jinn och gör märkliga rörelser. Han ger patienten amuletter under

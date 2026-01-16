@@ -3,7 +3,9 @@ title: Fasta under sha'ban
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 677 s. ISBN 9960-892-66-2'
-categories: – Fasta (Sawm) – Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+categories:
+  - Fasta (Sawm)
+  - Frivillig fasta (Shawwal, ashura-dagen, m.m.)
 original_id: 1270
 description: 'Fråga: Vilket är utlåtandet om att fasta under sha''ban? Svar: Fastan
  under sha''ban är sunnah . Att fasta den ofta är också en sunnah . Detta till

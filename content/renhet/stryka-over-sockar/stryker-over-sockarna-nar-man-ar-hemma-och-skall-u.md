@@ -3,7 +3,9 @@ title: Stryker över sockarna när man är hemma och ska ut och resa
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 341 s. ISBN 9960-892-66-2'
-categories: – Renhet (Tahārah) – Stryka över sockar
+categories:
+  - Renhet (Tahārah)
+  - Stryka över sockar
 original_id: 1132
 description: 'Fråga: Om man stryker över sina sockar medan man är hemma och sedan
  ge sig ut på en resa, bör man då stryka över dem på samma sätt som en resenär? Svar: Stryker

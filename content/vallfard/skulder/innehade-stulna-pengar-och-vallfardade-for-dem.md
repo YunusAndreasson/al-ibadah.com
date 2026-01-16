@@ -3,7 +3,9 @@ title: Innehade stulna pengar och vallfärdade för dem
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 62 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Skulder
+categories:
+  - Vallfärd (Hajj)
+  - Skulder
 original_id: 720
 description: 'Fråga: Jag tog en del pengar från min faders faster utan hennes vetskap
  och hon avled innan jag hade återlämnat pengarna. Jag vallfärdade förra året och

@@ -3,7 +3,9 @@ title: Göra åminnelse högt efter böneutropet
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 127 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Innovationer
+categories:
+  - Troslära (´Aqīdah)
+  - Innovationer
 original_id: 1459
 description: 'Fråga: Vissa böneutropare i några muslimska länder säger efter böneutropet:
  ” Allāh! Sänd böner över vår mästare Muḥammad och över hans familj och följeslagare

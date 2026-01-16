@@ -3,7 +3,9 @@ title: Befinner man sig i Mina träder man in i ihrām därifrån
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 120 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
+categories:
+  - Vallfärd (Hajj)
+  - Ihrām och avsikten inför vallfärden
 original_id: 759
 description: 'Fråga: Vad gäller den som befann sig i Mina innan at-tarwiyyah -dagen?
  Reser denne in i Mecka och går in i ihrām därifrån eller träder han in i ihrām i

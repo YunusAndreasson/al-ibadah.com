@@ -3,7 +3,9 @@ title: Säga āmīn när imamen åkallar under fredagsbönen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 477 s. ISBN saknas'
-categories: – Blandat – Åkallan
+categories:
+  - Blandat
+  - Åkallan
 original_id: 369
 description: 'Fråga: Är det en innovation att säga āmīn när imamen åkallar under
  fredagsbönen? Svar: Det är inte en innovation att säga āmīn när predikanten

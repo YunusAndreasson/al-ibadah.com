@@ -3,7 +3,9 @@ title: Osäker på om det är blod från en vaginal blödning eller menstruation
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 368 s. ISBN 9960-892-66-2'
-categories: – Renhet (Tahārah) – Månadsblödning
+categories:
+  - Renhet (Tahārah)
+  - Månadsblödning
 original_id: 1143
 description: 'Fråga: En kvinna är inte säker på vad det är för sorts blod som kommer;
  hon vet inte om det är menstruationsblod, en vaginal blödning eller något annat – vad bör hon då anse att det är? Svar: ...'

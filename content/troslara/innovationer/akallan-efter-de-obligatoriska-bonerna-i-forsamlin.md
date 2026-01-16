@@ -3,7 +3,9 @@ title: Åkallan efter de obligatoriska bönerna i församlingen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 341 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Innovationer
+categories:
+  - Troslära (´Aqīdah)
+  - Innovationer
 original_id: 1526
 description: 'Fråga: Får imamen och de andra åkalla gemensamt efter den obligatoriska
  bönen? Svar: Dyrkan är till sin natur bestämd och det är inte tillåtet att säga

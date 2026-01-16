@@ -3,7 +3,9 @@ title: Tar på sig sockar utan att vara i ett tillstånd av renhet för att seda
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 98 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Tvagning
+categories:
+  - Renhet (Tahārah)
+  - Tvagning
 original_id: 1440
 description: 'Fråga: Jag gjorde tvagade mig för gryningsbönen, sedan bad jag men
  jag glömde att ta på mina sockar. Sedan sov jag efter bönen, vaknade och tog på

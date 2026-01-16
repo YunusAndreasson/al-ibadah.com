@@ -3,7 +3,9 @@ title: Beskrivning av begravningsbönen
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. x s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Begravningsbön
+categories:
+  - Bön (Salāh)
+  - Begravningsbön
 original_id: 1245
 description: 'Fråga: Vilket är det rätta sättet att be begravningsbönen på? Svar: Man
  placerar den avlidne framför imamen. Han bör stå vid den avlidnes huvud. Detta oberoende

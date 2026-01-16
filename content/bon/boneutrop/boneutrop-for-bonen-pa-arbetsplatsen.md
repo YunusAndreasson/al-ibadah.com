@@ -3,7 +3,9 @@ title: Böneutrop för bönen på arbetsplatsen
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 125 s. ISBN saknas'
-categories: – Bön (Salāh) – Böneutrop
+categories:
+  - Bön (Salāh)
+  - Böneutrop
 original_id: 1458
 description: 'Fråga: Om vi befinner oss på arbetsplatsen och det inte är långt till
  moskén, kan vi då ropa ut böneutropet på vårt arbete? Svar: Ni måste be i moskén

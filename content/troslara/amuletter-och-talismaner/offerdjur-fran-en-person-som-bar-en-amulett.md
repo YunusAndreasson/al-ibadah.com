@@ -3,7 +3,9 @@ title: Offerdjur från en person som bär en amulett
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 41 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Amuletter och talismaner
+categories:
+  - Troslära (´Aqīdah)
+  - Amuletter och talismaner
 original_id: 36
 description: 'Fråga: Vilket är utlåtandet om ett offerdjur som någon som bär amuletter,
  knyter knutar och liknande har avlivat? Svar: En tamimah görs av kulor, skal

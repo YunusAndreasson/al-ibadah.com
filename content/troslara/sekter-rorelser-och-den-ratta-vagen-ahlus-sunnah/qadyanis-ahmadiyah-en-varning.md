@@ -4,7 +4,10 @@ author: '´Abdullāh bin Humaid, Ibn ´Abdullah Ibn Bāz och Muḥammad bin Sāl
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. x s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Sekter, rörelser och den rätta vägen – ahlus-sunnah
+categories:
+  - Troslära (´Aqīdah)
+  - Sekter, rörelser och den rätta vägen
+  - ahlus-sunnah
 original_id: 142
 description: 'Fråga: Vad finns det att säga om denna sekt? Svar: All lovprisan
  tillhör Allāh och må Hans frid och välsignelser vara över Hans profet, hans familj

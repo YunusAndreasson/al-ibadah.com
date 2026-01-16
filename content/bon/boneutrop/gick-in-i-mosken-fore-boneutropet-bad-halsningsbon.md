@@ -4,7 +4,9 @@ title: Gick in i moskén före böneutropet, bad hälsningsbönen för moskén o
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 517 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Böneutrop
+categories:
+  - Bön (Salāh)
+  - Böneutrop
 original_id: 1228
 description: 'Fråga: Om någon gick in i moskén före böneutropet och bad hälsningsbönen
  till moskén och böneutroparen sedan ropade ut böneutropet, är det då föreskrivet

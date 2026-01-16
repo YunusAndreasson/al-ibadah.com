@@ -4,7 +4,9 @@ title: Slog ihop middagsbönen och eftermiddagsbönen på grund av regn men seda
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 151 s. ISBN saknas'
-categories: – Bön (Salāh) – Bönen i församlingen
+categories:
+  - Bön (Salāh)
+  - Bönen i församlingen
 original_id: 1469
 description: 'Fråga: Om de slog ihop eftermiddagsbönen och middagsbönen och bad dem
  vid middagsbönen, och de även utförde nattbönen[^1] och kvällsbönen på ett liknande

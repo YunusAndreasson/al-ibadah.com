@@ -3,7 +3,8 @@ title: Hur en kvinna gör ghusl efter hennes månadsblödning
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 57 s. ISBN saknas'
-categories: – Renhet (Tahārah)
+categories:
+  - Renhet (Tahārah)
 original_id: 1425
 description: 'Fråga: Gör män och kvinnor ghusl på olika sätt efter den stora orenheten?
  Måste kvinnan släppa ut sitt hår eller räcker det om hon enligt hadithen häller

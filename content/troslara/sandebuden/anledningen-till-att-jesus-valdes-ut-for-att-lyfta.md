@@ -3,7 +3,9 @@ title: Anledningen till att Jesus valdes ut för att lyftas upp till himlen
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 307 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Sändebuden
+categories:
+  - Troslära (´Aqīdah)
+  - Sändebuden
 original_id: 131
 description: 'Fråga: Varför valdes inte Muḥammad ut, då han är den bäste av profeterna,
  för att lyftas upp till himlen i stället för Jesus? Om Jesus upplyftning är sann,

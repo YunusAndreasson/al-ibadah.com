@@ -3,7 +3,9 @@ title: Om man blir icke-troende genom att bära amuletter
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 44 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Amuletter och talismaner
+categories:
+  - Troslära (´Aqīdah)
+  - Amuletter och talismaner
 original_id: 37
 description: 'Fråga: Blir man icke-troende om man bär en amulett med korantext eller
  något annat? Svar: Det finns två sorters amuletter: De som innehåller Koranen

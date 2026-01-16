@@ -3,7 +3,9 @@ title: Det första böneutropet under fredagsbönen är inte en innovation
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 450 s. ISBN saknas'
-categories: – Bön (Salāh) – Fredagsbönen
+categories:
+  - Bön (Salāh)
+  - Fredagsbönen
 original_id: 1544
 description: 'Fråga: Är det första böneutropet under fredagsbönen en innovation? Svar: Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ” Ni måste följa min sunnah och sunnah hos
  de r...'

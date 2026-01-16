@@ -3,7 +3,9 @@ title: Två bönecykler mellan predikningarna vid fredagsbönen
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 311 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Innovationer
+categories:
+  - Troslära (´Aqīdah)
+  - Innovationer
 original_id: 1514
 description: 'Fråga: Jag har märkt att när imamen sätter sig ned under fredagsbönen
  mellan de båda predikningarna, då ställer sig vissa upp för att be två bönecykler

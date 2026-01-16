@@ -3,7 +3,9 @@ title: Minska skäggets längd genom att trimma det
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Blandat – Kropp & klädnad
+categories:
+  - Blandat
+  - Kropp & klädnad
 original_id: 1651
 description: 'Fråga: Är det tillåtet att korta skägget genom att trimma det? Svar: Allāhs
  sändebud – över honom vare Allāhs frid och välsignelser – har klart och tydligt

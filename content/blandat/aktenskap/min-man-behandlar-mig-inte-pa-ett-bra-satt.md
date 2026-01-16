@@ -2,7 +2,9 @@
 title: Min man behandlar mig inte på ett bra sätt
 author: Ibn ´Abdullah Ibn Baz
 source: Fatāwa al-Marah
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1707
 description: 'Fråga: Jag har varit gift i 25 år och har flera söner och döttrar.
  Jag har stora problem med min man då han förnedrar mig inför mina barn, släktingar

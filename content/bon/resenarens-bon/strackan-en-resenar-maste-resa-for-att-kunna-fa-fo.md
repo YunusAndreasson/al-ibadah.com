@@ -3,7 +3,9 @@ title: Sträckan en resenär måste resa för att få förkorta bönen
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 542 s. ISBN 9960-892-66-2'
-categories: – Bön (Salāh) – Resenärens bön
+categories:
+  - Bön (Salāh)
+  - Resenärens bön
 original_id: 1236
 description: 'Fråga: Hur långt måste en resenär färdas för att få förkorta sin bön?
  Är det tillåtet att slå ihop bönerna utan att förkorta dem? Svar: Den sträcka

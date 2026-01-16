@@ -2,7 +2,9 @@
 title: Byta kläder
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Lajnah al-Dā’imah, volym 5, sida 264.
-categories: – Renhet (Tahārah) – Tvagning
+categories:
+  - Renhet (Tahārah)
+  - Tvagning
 original_id: 1281
 description: 'Fråga: Bryter jag min tvagning om jag byter kläder? Är det någon skillnad
  i detta utlåtande mellan män och kvinnor? All lovprisan tillhör Allāh. Svar: Att

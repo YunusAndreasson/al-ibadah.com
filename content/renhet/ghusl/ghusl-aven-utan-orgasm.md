@@ -2,7 +2,9 @@
 title: Ghusl även utan orgasm
 author: Muḥammad bin Salih al-´Uthaymin
 source: '''Ishratun-Nisā wa Hill al-Khilāfāt az-Zowjiyyah – sida 54'
-categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
+categories:
+  - Renhet (Tahārah)
+  - Ghusl [Den stora tvagningen]
 original_id: 1380
 description: 'Fråga: Är det obligatorisk, för ett gift par, att göra ghusl även
  om de inte fick någon orgasm? Svar: Ja, det är obligatoriskt för dem att göra ghusl

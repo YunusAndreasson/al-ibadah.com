@@ -2,7 +2,9 @@
 title: Uppmanade andra att närvara vid bön och missade därför själv delar av den
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa Nūrun alad-Darb, Volym 1, sida 197
-categories: – Bön (Salāh) – Bönen i församlingen
+categories:
+  - Bön (Salāh)
+  - Bönen i församlingen
 original_id: 584
 description: 'Fråga: En person såg några arbetare på sin väg till moskén, så han
  stannade, gav dem några råd och uppmuntrade dem att medverka vid bönen. Som ett

@@ -3,7 +3,9 @@ title: Att lita på kalkyleringar för att bekräfta nymånen är inte tillåtet
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 222 s. ISBN saknas'
-categories: – Fasta (Sawm) – När ramadan börjar och slutar
+categories:
+  - Fasta (Sawm)
+  - När ramadan börjar och slutar
 original_id: 1389
 description: 'Fråga: I vissa länder börjar muslimer att fasta utan att se till att
  nymånen har siktats. I stället tror de att det är tillräckligt att lita enbart till

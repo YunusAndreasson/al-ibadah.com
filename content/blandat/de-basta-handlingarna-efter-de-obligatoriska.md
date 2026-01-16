@@ -2,7 +2,8 @@
 title: De bästa handlingarna efter de obligatoriska
 author: Shaykh ul-islām Ibn Taymiyyah
 source: al-Wasiyyah al-Jāmi’ah li Khayr al-Dunyā wa’l-Ākhirah
-categories: – Blandat
+categories:
+  - Blandat
 original_id: 511
 description: 'Fråga: Vilka är de bästa handlingarna efter de obligatoriska? Följande
  fråga ställdes till shaykh ul-islām ibn Taymiyyah: Jag bad shaykhen, som går i

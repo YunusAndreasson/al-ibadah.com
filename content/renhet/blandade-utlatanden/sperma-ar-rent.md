@@ -3,7 +3,9 @@ title: Sperma är rent
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 87 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Blandade utlåtanden
+categories:
+  - Renhet (Tahārah)
+  - Blandade utlåtanden
 original_id: 164
 description: 'Fråga: Jag hade intim samvaro med min fru. Sedan gick jag upp för att
  göra ghusl och be gryningsbönen. Får jag fortsätta att sova på samma madrass som

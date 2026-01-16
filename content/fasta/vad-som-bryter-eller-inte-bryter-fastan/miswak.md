@@ -3,7 +3,9 @@ title: Miswāk
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 261 s. ISBN saknas'
-categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
+categories:
+  - Fasta (Sawm)
+  - Vad som bryter eller inte bryter fastan
 original_id: 417
 description: 'Fråga: Somliga undviker att använda miswāk under ramadan då de är
  rädda för att det ska skada fastan. Är detta korrekt? Vilken är tidpunkten då

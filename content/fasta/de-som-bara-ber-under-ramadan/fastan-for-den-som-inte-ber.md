@@ -3,7 +3,9 @@ title: Fastan för den som inte ber
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 380 s. ISBN saknas'
-categories: – Fasta (Sawm) – De som bara ber under ramadan
+categories:
+  - Fasta (Sawm)
+  - De som bara ber under ramadan
 original_id: 318
 description: 'Fråga: Jag har märkt att vissa unga muslimer fastar utan att de ber.
  Accepteras fastan från den som inte ber? Jag har hört någon säga till dem: ”Bryt

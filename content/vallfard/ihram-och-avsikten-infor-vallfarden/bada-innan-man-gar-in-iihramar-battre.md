@@ -3,7 +3,9 @@ title: Bada innan man går in i ihrām är bättre
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 112 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
+categories:
+  - Vallfärd (Hajj)
+  - Ihrām och avsikten inför vallfärden
 original_id: 753
 description: 'Fråga: Om någon som vill vallfärda kommer till Mina via Mecka den åttonde thul-hijjah och
  denne gör ghusl i Mina, är det då tillräckligt för denne? Svar: Han har inte

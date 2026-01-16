@@ -2,7 +2,9 @@
 title: Äta ett udda antal dadlar
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Majmoo’ Fatāwa al-´Uthaymīn, 16/216-223
-categories: – Bön (Salāh) – '''Eid-bönerna'
+categories:
+  - Bön (Salāh)
+  - '''Eid-bönerna'
 original_id: 1592
 description: 'Fråga: Vad gäller i fråga om att äta dadlar för `eid -bönen? Svar: Du
  bör äta ett udda antal dadlar före du beger dig till `eid -bönen då profeten – över honom vare Allāhs frid och välsigne...'

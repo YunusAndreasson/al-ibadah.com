@@ -4,7 +4,9 @@ author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 163 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Vallfärd (Hajj) – Stenkastningen
+categories:
+  - Vallfärd (Hajj)
+  - Stenkastningen
 original_id: 1553
 description: 'Fråga: Är det möjligt att jag utser någon annan som kastar mina stenar
  på pelarna under den andra dagen under at-tashrīq? Detta med anledning av familjeskäl

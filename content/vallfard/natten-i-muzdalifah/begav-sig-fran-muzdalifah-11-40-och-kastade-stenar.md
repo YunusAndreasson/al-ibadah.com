@@ -3,7 +3,9 @@ title: Begav sig från Muzdalifah 11.40 och kastade stenar på pelarna 12.00
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 227 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Natten i Muzdalifah
+categories:
+  - Vallfärd (Hajj)
+  - Natten i Muzdalifah
 original_id: 846
 description: 'Fråga: Vi gav oss av från Muzdalifah 11.40 och vi hade barn med oss.
  Vi kastade stenar på pelarna 11.50 för att sedan bege oss till Mecka. Vilket är

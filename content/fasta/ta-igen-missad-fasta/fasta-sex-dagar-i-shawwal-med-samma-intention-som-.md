@@ -3,7 +3,9 @@ title: Fasta sex dagar i shawwal med samma intention som för att ta igen missad
  från ramadan
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa al-Siyām (438)
-categories: – Fasta (Sawm) – Ta igen missad fasta
+categories:
+  - Fasta (Sawm)
+  - Ta igen missad fasta
 original_id: 1608
 description: 'Fråga: Kan jag fasta sex dagar under shawwal med samma intention som
  för att ta igen missade dagar under ramadan på grund av månadsblödningen? Svar: Den

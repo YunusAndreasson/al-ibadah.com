@@ -4,7 +4,9 @@ author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 217 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Shirk [Att sätta något vid Allāhs sida]
+categories:
+  - Troslära (´Aqīdah)
+  - Shirk [Att sätta något vid Allāhs sida]
 original_id: 1096
 description: 'Fråga: Vilket är utlåtandet om någon som dömer med något annan än vad
  Allāh har uppenbarat? Svar: Genom Allāh den Upphöjde uppnås framgång och jag

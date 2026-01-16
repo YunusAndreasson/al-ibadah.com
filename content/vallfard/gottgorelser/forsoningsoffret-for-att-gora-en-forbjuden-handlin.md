@@ -4,7 +4,9 @@ title: Försoningsoffret för att göra en förbjuden handling, dess typer och u
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 259 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Gottgörelser
+categories:
+  - Vallfärd (Hajj)
+  - Gottgörelser
 original_id: 861
 description: 'Fråga: Vilket är försoningsoffret vallfärden? Vilka typer finns det?
  Vilket är utlåtandet om den som upprepar en viss förbjuden handling? Svar: Försoningsoffret

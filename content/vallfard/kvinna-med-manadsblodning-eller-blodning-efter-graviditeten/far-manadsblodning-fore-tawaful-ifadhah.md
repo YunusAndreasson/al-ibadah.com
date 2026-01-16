@@ -3,7 +3,9 @@ title: Får månadsblödning före tawāful-ifādhah
 author: Ibn ´Abdullah Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 154 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Kvinna med månadsblödning eller blödning efter graviditeten
+categories:
+  - Vallfärd (Hajj)
+  - Kvinna med månadsblödning eller blödning efter graviditeten
 original_id: 780
 description: 'Fråga: Behöver en kvinna som får sin månadsblödning eller blödning
  efter graviditeten innan hon gör tawāful-ifādhah stanna kvar i Mecka tills hon

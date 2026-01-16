@@ -2,7 +2,9 @@
 title: Tre dagars fasta varje månad när det är fullmåne
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Majmoo’ Fatāwa al-Shaykh Ibn ‘Uthaymīn, fråga 376
-categories: – Fasta (Sawm) – Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+categories:
+  - Fasta (Sawm)
+  - Frivillig fasta (Shawwal, ashura-dagen, m.m.)
 original_id: 1609
 description: 'Fråga: Måste de tre dagar man kan fasta under varje månad vara när
  det är fullmåne eller är det tillåtet att fasta vilka tre dagar som helst under

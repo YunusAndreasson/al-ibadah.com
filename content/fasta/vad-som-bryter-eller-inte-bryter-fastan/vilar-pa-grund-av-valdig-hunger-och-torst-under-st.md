@@ -4,7 +4,9 @@ title: Vilar på grund av väldig hunger och törst under större delen av dagen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 644 s. ISBN 9960-892-66-2'
-categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
+categories:
+  - Fasta (Sawm)
+  - Vad som bryter eller inte bryter fastan
 original_id: 1041
 description: 'Fråga: Om den fastande på grund av väldig hunger och törst spenderar
  större delen av dagen genom att vila, påverkar det då fastans giltighet? Svar: Detta

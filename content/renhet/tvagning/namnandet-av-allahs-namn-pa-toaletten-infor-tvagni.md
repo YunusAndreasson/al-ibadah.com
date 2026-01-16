@@ -3,7 +3,9 @@ title: Nämnandet av Allāhs namn på toaletten inför tvagningen görs i hjärt
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 74 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Tvagning
+categories:
+  - Renhet (Tahārah)
+  - Tvagning
 original_id: 161
 description: 'Fråga: När jag vill tvaga mig utformar jag avsikten för att tvaga inför
  bönen. Jag nämner dock inte Allāhs namn då jag är på toaletten, även om jag

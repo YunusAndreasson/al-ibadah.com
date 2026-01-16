@@ -3,7 +3,9 @@ title: Överger bönen vid vissa tillfällen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 374 s. ISBN saknas'
-categories: – Bön (Salāh) – Överger eller missar bönen
+categories:
+  - Bön (Salāh)
+  - Överger eller missar bönen
 original_id: 316
 description: 'Fråga: En man ber två eller tre obligatoriska böner och slutar sedan
  att be under fyra eller fem dagar, eller liknande, och detta är hans situation.

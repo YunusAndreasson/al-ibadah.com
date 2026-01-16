@@ -2,7 +2,9 @@
 title: Strumpor som har hål eller är väldigt tunna
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah al-Dā’imah, 5/246
-categories: – Renhet (Tahārah) – Stryka över sockar
+categories:
+  - Renhet (Tahārah)
+  - Stryka över sockar
 original_id: 515
 description: 'Fråga: Vilket är utlåtandet om att stryka över sina strumpor om de
  har hål eller är väldigt tunna? All lovprisan tillhör Allāh. Svar: Det är tillåtet

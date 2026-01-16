@@ -2,7 +2,9 @@
 title: Hur man nedfaller vid Koran-läsning
 author: Ibn ´Abdullāh Ibn Baz
 source: Majmū’ Fatāwa wa Maqālāt Samāhat al-shaykh Ibn Bāz, 11/406
-categories: – Bön (Salāh) – Nedfallan vid recitation
+categories:
+  - Bön (Salāh)
+  - Nedfallan vid recitation
 original_id: 1291
 description: 'Fråga: Hur ska man göra sujūd al-tilāwah? Behöver man tvaga sig
  för det? Behöver man tvaga sig när man ska göra sujūd al-tilāwah [nedfallandet

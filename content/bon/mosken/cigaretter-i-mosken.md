@@ -3,7 +3,9 @@ title: Cigaretter i moskén
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 42 s. ISBN saknas'
-categories: – Bön (Salāh) – Moskén
+categories:
+  - Bön (Salāh)
+  - Moskén
 original_id: 383
 description: 'Fråga: En man bad i profetens – över honom vare Allāhs frid och välsignelser – moské vid området som kallas "Rawdah" och ett cigarettpaket föll ur hans ficka.
  Vilket är utlåtandet om detta och är ...'

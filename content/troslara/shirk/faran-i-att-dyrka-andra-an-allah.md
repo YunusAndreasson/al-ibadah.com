@@ -3,7 +3,9 @@ title: Faran i att dyrka andra än Allāh
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fiqh ul ''Ibādāt www 20/4-2007: www Muhammed Knut Bernström (1421), Koranens
  budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (´Aqīdah) – Shirk [Att sätta något vid Allāhs sida]
+categories:
+  - Troslära (´Aqīdah)
+  - Shirk [Att sätta något vid Allāhs sida]
 original_id: 915
 description: 'Fråga: Vilket är utlåtandet om att rikta någon form av dyrkan mot andra
  än Allāh – fri från brister? Svar: Svaret kan förstås från vad som har föregåtts

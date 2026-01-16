@@ -3,7 +3,9 @@ title: Åkallan under fredagsbönen
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 442 s. ISBN saknas'
-categories: – Blandat – Åkallan
+categories:
+  - Blandat
+  - Åkallan
 original_id: 348
 description: 'Fråga: Imamen som håller fredagspredikan i vår moské avslutar alltid
  predikan med att säga: ”Jag ber om Allāhs förlåtelse för mig, för er och för alla

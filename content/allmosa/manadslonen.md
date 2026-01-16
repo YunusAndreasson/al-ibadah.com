@@ -3,7 +3,8 @@ title: Månadslönen
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 158 s. ISBN saknas'
-categories: – Allmosa (Zakāh)
+categories:
+  - Allmosa (Zakāh)
 original_id: 605
 description: 'Fråga: Jag är anställd i ett privatägt företag och jag tar emot en
  månadslön på 4000 saudiska riyal. Här inkluderas en hyra som är på 1000 saudiska

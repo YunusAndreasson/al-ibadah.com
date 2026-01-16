@@ -2,7 +2,9 @@
 title: Tvätta nacken
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: al-Bid'u wal-Muhdathāt wa mā lā Asla lahu – sida 637
-categories: – Renhet (Tahārah) – Tvagning
+categories:
+  - Renhet (Tahārah)
+  - Tvagning
 original_id: 567
 description: 'Fråga: Är det tillåtet att tvätta nacken under tvagningen och att tvätta
  sig mer än tre gånger? Svar: Att tvätta nacken under tvagningen är en innovation

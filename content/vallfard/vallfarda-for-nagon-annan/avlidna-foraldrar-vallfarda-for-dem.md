@@ -3,7 +3,9 @@ title: Avlidna föräldrar – vallfärda för dem
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 73 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Vallfärda för någon annan
+categories:
+  - Vallfärd (Hajj)
+  - Vallfärda för någon annan
 original_id: 730
 description: 'Fråga: Bör jag vallfärda för mina två föräldrar som avlidit utan att
  ha gjort den obligatoriska vallfärden. Detta med anledning av deras fattigdom. Vad

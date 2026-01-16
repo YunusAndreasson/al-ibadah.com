@@ -3,7 +3,9 @@ title: Besöker profeten de döda?
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 290 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Sändebuden
+categories:
+  - Troslära (´Aqīdah)
+  - Sändebuden
 original_id: 126
 description: 'Fråga: Besöker profeten – över honom vare Allāhs frid och välsignelser – de döda eller kommer hans avbild till dem? Svar: Att profeten, eller någon
  annan som har återvänt till sin Herre, gör b...'

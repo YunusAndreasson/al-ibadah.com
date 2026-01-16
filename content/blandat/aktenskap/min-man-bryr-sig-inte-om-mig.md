@@ -2,7 +2,9 @@
 title: Min man bryr sig inte om mig
 author: Ibn ´Abdullah Ibn Baz
 source: Fatāwa al-Marah
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1706
 description: 'Fråga: Min man – må Allāh förlåta honom – har en nobel karaktär och fruktar Allāh, men han bryr sig inte alls om mig i hemmet...'
 ---

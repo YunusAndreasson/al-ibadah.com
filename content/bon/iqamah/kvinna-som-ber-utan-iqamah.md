@@ -3,7 +3,9 @@ title: Kvinna som ber utan iqāmah
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 129 s. ISBN saknas'
-categories: – Bön (Salāh) – Iqāmah [Det andra böneutropet]
+categories:
+  - Bön (Salāh)
+  - Iqāmah [Det andra böneutropet]
 original_id: 177
 description: 'Fråga: Får en kvinna göra iqāmah för bönen? Får hon be utan den? Svar: Böneutropet
  och iqāmah är föreskrivna för män men inte för kvinnor. Detta enligt en återberättelse

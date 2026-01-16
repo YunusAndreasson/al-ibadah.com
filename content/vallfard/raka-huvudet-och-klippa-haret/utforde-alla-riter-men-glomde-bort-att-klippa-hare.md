@@ -3,7 +3,9 @@ title: Utförde alla riter men glömde bort att klippa håret
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 209 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Raka huvudet och klippa håret
+categories:
+  - Vallfärd (Hajj)
+  - Raka huvudet och klippa håret
 original_id: 833
 description: 'Fråga: En kvinna vallfärdade och hon utförde alla vallfärdsriter, utom
  att hon inte klippte sitt hår förrän nu. Detta med anledning av okunskap eller glömska.

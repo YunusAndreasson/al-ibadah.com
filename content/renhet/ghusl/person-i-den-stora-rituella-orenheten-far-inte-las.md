@@ -3,7 +3,9 @@ title: Person i den stora rituella orenheten får inte läsa Koranen
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 80 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
+categories:
+  - Renhet (Tahārah)
+  - Ghusl [Den stora tvagningen]
 original_id: 1433
 description: 'Fråga: Kan den som är i den stora rituella orenheten recitera Allāhs
  skrift om det sker från minnet? Och om han inte får, kan han då lyssna på den? Må

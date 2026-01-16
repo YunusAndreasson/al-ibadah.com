@@ -3,7 +3,9 @@ title: Gå precis framför en bedjande i det Heliga Huset [i Mecka]
 author: Shaykh ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 147 s. ISBN saknas'
-categories: – Bön (Salāh) – Sutrah [Vad som avskärmar den bedjande]
+categories:
+  - Bön (Salāh)
+  - Sutrah [Vad som avskärmar den bedjande]
 original_id: 189
 description: 'Fråga: Vilket är utlåtandet om att gå precis framför en bedjande i
  det Heliga Huset [i Mecka] och får en tjänare hindra den som försöker passera framför? Svar: Det

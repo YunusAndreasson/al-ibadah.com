@@ -4,7 +4,9 @@ author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 58 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Vallfärd (Hajj) – Möjlighet att vallfärda
+categories:
+  - Vallfärd (Hajj)
+  - Möjlighet att vallfärda
 original_id: 715
 description: 'Fråga: Jag har svurit en trohetsed till Allāh om att jag ska vallfärda
  varje år. Tidigare var jag inte anställd men nu har omständigheter tvingat mig att

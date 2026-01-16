@@ -3,7 +3,8 @@ title: Zakātul-fitr – hur mycket man ska ge och om det är obligatoriskt
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 203 s. ISBN saknas'
-categories: – Allmosa (Zakāh)
+categories:
+  - Allmosa (Zakāh)
 original_id: 650
 description: 'Fråga: Är zakātul-fitr obligatoriskt eller rekommenderat? Vem är
  det obligatoriskt för? Svar: Zakātul-fitr är en skyldighet för muslimer därför

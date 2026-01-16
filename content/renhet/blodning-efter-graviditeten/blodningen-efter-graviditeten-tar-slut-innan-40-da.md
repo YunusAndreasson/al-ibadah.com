@@ -5,7 +5,9 @@ author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 375 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Renhet (Tahārah) – Blödning efter graviditeten
+categories:
+  - Renhet (Tahārah)
+  - Blödning efter graviditeten
 original_id: 1146
 description: 'Fråga: Om en kvinna med blödningar efter graviditeten blir ren innan
  40 dagar har gått, får hennes man då ha intim samvaro med henne? Vad gäller om blodet

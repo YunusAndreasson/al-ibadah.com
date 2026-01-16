@@ -3,7 +3,9 @@ title: Säga ”Audhū Billāhi minash-shaytānir-rajīm” och ”Bismillāhir-
  före böneutropet
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: a-Bid'u wal-Muhdathāt wa mā lā asla lahu – sida 190
-categories: – Troslära (´Aqīdah) – Innovationer
+categories:
+  - Troslära (´Aqīdah)
+  - Innovationer
 original_id: 558
 description: 'Fråga: Är det tillåtet att säga ” Audhū Billāhi minash-shaytānir-rajīm
  ” och ” Bismillāhir-Rahmānir-Rahīm ” före böneutropet? Svar: Vi känner inte

@@ -2,7 +2,9 @@
 title: Dörrklockan ringer då jag ber
 author: Ibn ´Abdullah Ibn Baz
 source: Fatāwa al-Marah
-categories: – Bön (Salāh) – Blandade utlåtanden
+categories:
+  - Bön (Salāh)
+  - Blandade utlåtanden
 original_id: 573
 description: 'Fråga: Om jag ber och det ringer på dörrklockan när ingen annan än
  jag är hemma. Vad ska jag göra då? Svar: Om bönen är frivillig – är detta

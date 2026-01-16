@@ -3,7 +3,9 @@ title: Kvinna som kysser den Svarta Stenen när det är trängsel
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 177 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Tawāf och sa’ī
+categories:
+  - Vallfärd (Hajj)
+  - Tawāf och sa’ī
 original_id: 802
 description: 'Fråga: Jag såg någon utföra tawāf och han tryckte fram sina kvinnor
  [fruar och döttrar] för att de skulle kyssa Stenen. Vilken av dessa handlingar är

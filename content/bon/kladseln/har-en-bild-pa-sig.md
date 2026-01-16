@@ -3,7 +3,9 @@ title: Har en bild på sig
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 174 s. ISBN saknas'
-categories: – Bön (Salāh) – Klädseln
+categories:
+  - Bön (Salāh)
+  - Klädseln
 original_id: 202
 description: 'Fråga: Vilket är utlåtandet om den som bär bilder, som i plånboken
  exempelvis, och han är rädd för att bli av med den om han lämnar den då han ber? Svar: Han

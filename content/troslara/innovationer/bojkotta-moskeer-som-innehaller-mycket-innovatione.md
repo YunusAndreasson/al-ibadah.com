@@ -3,7 +3,9 @@ title: Bojkotta moskéer som innehåller mycket innovationer
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 40 s. ISBN saknas'
-categories: – Troslära (´Aqīdah) – Innovationer
+categories:
+  - Troslära (´Aqīdah)
+  - Innovationer
 original_id: 380
 description: 'Fråga: Kan man bojkotta moskéer som innehåller mycket innovationer? Svar: En
  muslim bör i så stor utsträckning som möjligt sträva efter att få bort dessa innovationer.

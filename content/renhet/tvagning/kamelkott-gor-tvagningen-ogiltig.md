@@ -3,7 +3,9 @@ title: Kamelkött gör tvagningen ogiltig
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 89 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Tvagning
+categories:
+  - Renhet (Tahārah)
+  - Tvagning
 original_id: 1438
 description: 'Fråga: Gör kamelkött tvagningen ogiltig? En hadīth har rapporterats
  om en man som släppte sig. Profeten – över honom vare Allāhs frid och välsignelser – beordrade då honom och alla de som var nä...'

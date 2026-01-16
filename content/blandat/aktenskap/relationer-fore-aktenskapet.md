@@ -2,7 +2,9 @@
 title: Relationer före äktenskapet
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa al-Marah
-categories: – Blandat – Äktenskap
+categories:
+  - Blandat
+  - Äktenskap
 original_id: 1713
 description: 'Fråga: Vad anser vår religion om relationer före äktenskapet? Svar: Om
  frågeställaren med ”före äktenskapet” menar när äktenskapskontraktet har skrivits

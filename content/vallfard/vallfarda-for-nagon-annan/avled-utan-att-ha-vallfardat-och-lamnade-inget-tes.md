@@ -3,7 +3,9 @@ title: Avled utan att ha vallfärdat och lämnade inget testamente efter sig
 author: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 70 s. ISBN saknas'
 source: Ibn ´Abdullāh Ibn Baz
-categories: – Vallfärd (Hajj) – Vallfärda för någon annan
+categories:
+  - Vallfärd (Hajj)
+  - Vallfärda för någon annan
 original_id: 1326
 description: 'Fråga: Om en man avled utan att ha utsett någon till att vallfärda
  åt honom, är då denna skyldighet avklarad för honom om hans son vallfärdar för hans

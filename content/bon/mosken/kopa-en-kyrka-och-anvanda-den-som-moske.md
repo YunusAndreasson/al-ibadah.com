@@ -3,7 +3,9 @@ title: Köpa en kyrka och använda den som moské
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Lajnah ad-Dāimah lil-Buhooth al-´ilmiyyah wal-Iftā., – Volym 6,
  Sida 267, Fatwa 2393
-categories: – Bön (Salāh) – Moskén
+categories:
+  - Bön (Salāh)
+  - Moskén
 original_id: 1371
 description: 'Fråga: Är det tillåtet att köpa en kyrka och omvandla den till en moské
  efter att alla kors och bilder förts bort? Svar: Ja, det är tillåtet att köpa

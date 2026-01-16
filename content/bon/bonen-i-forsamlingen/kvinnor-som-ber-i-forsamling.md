@@ -3,7 +3,9 @@ title: Kvinnor som ber i församling
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 349 s. ISBN saknas'
-categories: – Bön (Salāh) – Bönen i församlingen
+categories:
+  - Bön (Salāh)
+  - Bönen i församlingen
 original_id: 312
 description: 'Fråga: Får kvinnor be i församlingen som män eller måste de be var
  för sig? Om de måste be i församling, får jag då be med min familj så att de får

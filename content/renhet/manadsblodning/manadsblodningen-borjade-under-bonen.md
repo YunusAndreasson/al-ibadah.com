@@ -3,7 +3,9 @@ title: Månadsblödningen började under bönen
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 121 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Månadsblödning
+categories:
+  - Renhet (Tahārah)
+  - Månadsblödning
 original_id: 1455
 description: 'Fråga: Vad gör jag om min månadsblödning började under bönen? Tar jag
  igen bönen efter perioden? Svar: Låt oss säga att perioden började när tiden

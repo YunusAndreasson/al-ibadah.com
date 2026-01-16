@@ -3,7 +3,9 @@ title: Tillståndet av renhet fortsätter att vara giltigt
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 86 s. ISBN saknas'
-categories: – Renhet (Tahārah) – Tvagning
+categories:
+  - Renhet (Tahārah)
+  - Tvagning
 original_id: 1437
 description: 'Fråga: Om någon tvagar sig, det går en stund, tiden för bönen kommer
  och denne inte kommer ihåg om denne är ren eller om denne behöver tvaga sig igen – hur ska denne göra då? Svar: Om någon ...'

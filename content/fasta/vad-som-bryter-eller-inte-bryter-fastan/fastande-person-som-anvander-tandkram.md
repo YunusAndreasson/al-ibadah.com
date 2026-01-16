@@ -3,7 +3,9 @@ title: Fastande person som använder tandkräm
 author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 262 s. ISBN saknas'
-categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
+categories:
+  - Fasta (Sawm)
+  - Vad som bryter eller inte bryter fastan
 original_id: 1397
 description: 'Fråga: Får den fastande använda tandkräm dagtid medan denne fastar
  under ramadan? Svar: Det är ingen fara så länge man är noggrann med att inte

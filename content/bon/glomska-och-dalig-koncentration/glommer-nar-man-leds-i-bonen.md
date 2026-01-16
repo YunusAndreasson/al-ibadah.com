@@ -3,7 +3,9 @@ title: Glömmer när man leds i bönen
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 280 s. ISBN saknas'
-categories: – Bön (Salāh) – Glömska och dålig koncentration
+categories:
+  - Bön (Salāh)
+  - Glömska och dålig koncentration
 original_id: 278
 description: 'Fråga: Jag bad bakom en imam och jag glömde att säga tasbih under
  det första nedfallandet[^1]. Vad gör jag då? Bör jag nedfalla[^1] efter imamens taslīm

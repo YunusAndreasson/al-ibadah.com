@@ -4,7 +4,9 @@ title: Kom ihåg att han inte hade bett eftermiddagsbönen när böneutropet fö
 author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 245 s. ISBN saknas'
-categories: – Bön (Salāh) – Överger eller missar bönen
+categories:
+  - Bön (Salāh)
+  - Överger eller missar bönen
 original_id: 1497
 description: 'Fråga: Vi glömde att be eftermiddagsbönen och vi kom inte på det förrän
  vi hörde böneutropet för kvällsbönen. Vi bad då eftermiddagsbönen när vi hade bett

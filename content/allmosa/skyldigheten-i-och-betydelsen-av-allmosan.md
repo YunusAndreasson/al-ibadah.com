@@ -4,7 +4,8 @@ author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 148 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Allmosa (Zakāh)
+categories:
+  - Allmosa (Zakāh)
 original_id: 1382
 description: 'All lovprisan tillhör Allāh allena och må välsignelser och frid vara
  över honom som det inte kommer någon profet efter [profeten Muḥammad] och över hans

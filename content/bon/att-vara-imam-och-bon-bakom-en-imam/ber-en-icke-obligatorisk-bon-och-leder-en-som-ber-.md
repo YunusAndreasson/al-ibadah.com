@@ -3,7 +3,9 @@ title: Ber en icke-obligatorisk bön och leder en som ber en obligatorisk
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 179 s. ISBN saknas'
-categories: – Bön (Salāh) – Att vara imam och bön bakom en imam
+categories:
+  - Bön (Salāh)
+  - Att vara imam och bön bakom en imam
 original_id: 1482
 description: 'Fråga: Vad gäller den som ber en icke-obligatorisk bön och som leder
  någon som ber en obligatorisk? Svar: Den som ber en obligatorisk bön får ledas

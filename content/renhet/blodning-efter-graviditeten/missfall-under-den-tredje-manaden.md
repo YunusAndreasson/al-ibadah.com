@@ -4,7 +4,9 @@ author: Muḥammad bin Salih al-´Uthaymin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 122 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Renhet (Tahārah) – Blödning efter graviditeten
+categories:
+  - Renhet (Tahārah)
+  - Blödning efter graviditeten
 original_id: 1456
 description: 'Fråga: Jag är en kvinna som för ett år sedan fick missfall i den tredje
  månaden. Jag bad inte förrän jag hade blivit ren, men det har sagts till mig att

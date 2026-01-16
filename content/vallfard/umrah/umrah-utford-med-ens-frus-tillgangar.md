@@ -3,7 +3,9 @@ title: ‘Umrah utförd med ens frus tillgångar
 author: Ibn ´Abdullah Ibn Baz
 source: 'Källa: Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah .
  Volym 4. Libanon: Maktaba Dar us-Salam. 280 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Umrah
+categories:
+  - Vallfärd (Hajj)
+  - Umrah
 original_id: 870
 description: 'Fråga: En kvinna gjorde något välgörande då hon betalade sin mans kostnader
  för ‘umrah . Detta var som en gåva från hennes egna tillgångar. Mannen hade dock

@@ -4,7 +4,9 @@ author: Ibn ´Abdullāh Ibn Baz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 182 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Blandat – Utveckling
+categories:
+  - Blandat
+  - Utveckling
 original_id: 1483
 description: 'Fråga: När jag börjar be så hör jag viskningar och tankarna börjar
  irra. Ibland vet jag inte vad jag reciterat eller hur många bönecykler jag har bett.

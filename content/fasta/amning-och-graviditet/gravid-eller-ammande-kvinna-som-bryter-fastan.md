@@ -4,7 +4,9 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 300 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Fasta (Sawm) – Amning och graviditet
+categories:
+  - Fasta (Sawm)
+  - Amning och graviditet
 original_id: 453
 description: 'Fråga: Vad krävs av en gravid eller ammande kvinna om hon bryter fastan
  under ramadan och vilken mängd ris är tillräcklig att ge till de fattiga? Svar: För

@@ -3,7 +3,9 @@ title: Ritade föremål på en bönematta
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 38 s. ISBN saknas'
-categories: – Bön (Salāh) – Moskén
+categories:
+  - Bön (Salāh)
+  - Moskén
 original_id: 379
 description: 'Fråga: Är det ett villkor att bönemattor har religiösa motiv som bilder
  på de två heliga moskéerna [i Mecka och Medina], en bild på en annan moské eller
