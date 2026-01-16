@@ -25,7 +25,7 @@ De som propagerar för detta måste noga tänka sig för så att de förstår va
 
 Detta finns sådant som är av mindre vikt än detta men det finns inga ytliga frågor, som man inte får någon nytta av eller som man kan lägga åt sidan och avvisa.
 
-Att låta skägget växa ut rådet det inga tvivel om att det är en dyrkan. Profeten – över honom vare Allāhs frid och välsignelser – har kommenderat detta och allting som profeten – över honom vare Allāhs frid och välsignelser – har kommenderat är dyrkan som för en närmare Herren. Det är en del av profetens – över honom vare Allāhs frid och välsignelser – och alla hans bröders vägledning. Allāh den Upphöjde har berättat om vad Aron sade till Moses:
+Att låta skägget växa ut – råder det inga tvivel om att det är en dyrkan. Profeten – över honom vare Allāhs frid och välsignelser – har kommenderat detta och allting som profeten – över honom vare Allāhs frid och välsignelser – har kommenderat är dyrkan som för en närmare Herren. Det är en del av profetens – över honom vare Allāhs frid och välsignelser – och alla hans bröders vägledning. Allāh den Upphöjde har berättat om vad Aron sade till Moses:
 
 > ”Son av min moder! Grip mig inte i skägget och inte heller i håret!” [Koranen 20:94]
 

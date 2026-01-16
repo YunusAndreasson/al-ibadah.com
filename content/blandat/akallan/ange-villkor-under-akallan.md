@@ -13,5 +13,5 @@ description: 'Fråga: Vilket är utlåtandet om att säga: ”Vi kommer att möt
 
 **Fråga:** Vilket är utlåtandet om att säga: ”Vi kommer att mötas i Paradiset – om Allāh vill”?
 
-**Svar:** Detta är bra sagt och det är inget fel i det. Vi ber Allāh att Han samlar oss med våra bröder i Paradiset och att vi möts i där. Men man bör inte säga ”om Allāh vill” här. Istället bör man säg: ”Vi ber Allāh, via Hans generositet att Han tillåter oss att mötas i Paradiset.” Eller: ”Må Allāh återförena oss i Paradiset.”
+**Svar:** Detta är bra sagt och det är inget fel i det. Vi ber Allāh att Han samlar oss med våra bröder i Paradiset och att vi möts i där. Men man bör inte säga ”om Allāh vill” här. I stället bör man säg: ”Vi ber Allāh, via Hans generositet att Han tillåter oss att mötas i Paradiset.” Eller: ”Må Allāh återförena oss i Paradiset.”
 
