@@ -5,9 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 311 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Besök i profetens
-  - över honom vare Allāhs frid och välsignelser
-  - moske
+  - Besök i profetens – över honom vare Allāhs frid och välsignelser – Moské
 original_id: 876
 description: 'Fråga: Jag besökte Mecka al-Mukarramah under ramadan. Detta med avsikten
  att göra ‘umrah . Men efter att ha uppehållit mig en dag i Mecka al-Mukarramah

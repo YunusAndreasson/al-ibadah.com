@@ -5,9 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 310 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Besök i profetens
-  - över honom vare Allāhs frid och välsignelser
-  - moske
+  - Besök i profetens – över honom vare Allāhs frid och välsignelser – Moské
 original_id: 1362
 description: 'Fråga: En person vill besöka profetens – över honom vare Allāhs frid
  och välsignelser – Moské i Medina och han befinner sig i Mecka. Han frågar om det
