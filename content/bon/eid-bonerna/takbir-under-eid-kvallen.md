@@ -6,14 +6,14 @@ categories:
   - Bön (Salāh)
   - '''Eid-bönerna'
 original_id: 1596
-description: 'Fråga: Hur gör man takbīr under `eid -kvällen? Svar: Det är rekommenderat
- att göra takbīr under `eid -kvällen; från solnedgången under den sista fastedagen
+description: 'Fråga: Hur gör man takbīr under ´eid -kvällen? Svar: Det är rekommenderat
+ att göra takbīr under ´eid -kvällen; från solnedgången under den sista fastedagen
  till imamen kommer för att leda ...'
 ---
 
-**Fråga:** Hur gör man takbīr[^1] under *`eid*-kvällen?
+**Fråga:** Hur gör man takbīr[^1] under *´eid*-kvällen?
 
-**Svar:** Det är rekommenderat att göra *takbīr[^1]* under *`eid*-kvällen; från solnedgången under den sista fastedagen till imamen kommer för att leda bönen. Man gör *takbīr[^1]* på följande sätt:
+**Svar:** Det är rekommenderat att göra *takbīr[^1]* under *´eid*-kvällen; från solnedgången under den sista fastedagen till imamen kommer för att leda bönen. Man gör *takbīr[^1]* på följande sätt:
 
 > *Allāhu akbar, Allāhu akbar, lā ilāha ill-Allāh, Allāhu akbar, Allāhu akbar, wa Lillāhi’l-hamd.*
 >

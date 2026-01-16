@@ -25,7 +25,7 @@ Och framgång kommer från Allāh.
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.
 [^3]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
-[^4]: Någon som både gör `umrah och vallfärdar.
+[^4]: Någon som både gör ´umrah och vallfärdar.
 [^5]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^6]: Någon som enbart vallfärdar.
 

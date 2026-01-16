@@ -23,6 +23,6 @@ description: 'Fråga: Jag kom för att vallfärda tillsammans med en grupp och j
 [^4]: Den sju långa rundar vandringen runt Kabah.
 [^5]: Vandringen mellan as-Safa och al-Marwa.
 [^6]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
-[^7]: Någon som både gör `umrah och vallfärdar.
+[^7]: Någon som både gör ´umrah och vallfärdar.
 [^8]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
 

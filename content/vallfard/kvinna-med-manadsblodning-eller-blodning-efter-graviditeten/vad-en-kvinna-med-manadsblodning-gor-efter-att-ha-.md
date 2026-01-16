@@ -28,5 +28,5 @@ Hon måste offra ett djur för *qirān*, precis som en *mutamatti[^9]'* måste g
 [^6]: Den sju långa rundar vandringen runt Kabah.
 [^7]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 [^8]: Vandringen mellan as-Safa och al-Marwa.
-[^9]: Någon som både gör `umrah och vallfärdar.
+[^9]: Någon som både gör ´umrah och vallfärdar.
 

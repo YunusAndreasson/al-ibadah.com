@@ -18,7 +18,7 @@ description: 'Fråga: Vad gäller den som går in i ihrām för vallfärden samt
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.
-[^3]: Någon som både gör `umrah och vallfärdar.
+[^3]: Någon som både gör ´umrah och vallfärdar.
 [^4]: Den sju långa rundar vandringen runt Kabah.
 [^5]: Vandringen mellan as-Safa och al-Marwa.
 [^6]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
