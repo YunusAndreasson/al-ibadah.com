@@ -14,7 +14,7 @@ description: 'Fråga: En ung man ledde oss i bön och efter bönen började han 
 
 **Fråga:** En ung man ledde oss i bön och efter bönen började han att göra *tasbih[^1]* med sin högra hand. Några blev överraskade och frågade om detta. Han sade: ”Detta är profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]*.” Jag ber att ni förklarar för oss vad som är rätt.
 
-**Svar:** Det som imamen gjorde var rätt. Profeten – över honom vare Allāhs frid och välsignelser – brukade göra *tasbih[^1]* med sin högra hand. Men om någon gjorde *tasbih[^1]* med båda händerna, då finns det ingen invändan mot det. Detta i enligt med den generella innebörden av de flesta *ahādīth[^3]*. *Tasbih* med den högra handen är dock bättre för att handla enligt profetens – över honom vare Allāhs frid och välsignelser – bekräftade *sunnah[^2]*.
+**Svar:** Det som imamen gjorde var rätt. Profeten – över honom vare Allāhs frid och välsignelser – brukade göra *tasbih[^1]* med sin högra hand. Men om någon gjorde *tasbih[^1]* med båda händerna, då finns det ingen invändan mot det. Detta i enlighet med den generella innebörden av de flesta *ahādīth[^3]*. *Tasbih* med den högra handen är dock bättre för att handla enligt profetens – över honom vare Allāhs frid och välsignelser – bekräftade *sunnah[^2]*.
 
 Och Allāh är Beviljaren av framgång.
 
