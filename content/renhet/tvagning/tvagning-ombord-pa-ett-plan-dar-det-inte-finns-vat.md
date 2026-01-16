@@ -13,7 +13,7 @@ description: 'Fråga: Om det inte finns något vatten ombord på ett plan eller 
 
 **Fråga:** Om det inte finns något vatten ombord på ett plan eller om man är förbjuden att använda det då det kan läcka och förstöra planet eller om det inte finns tillräckligt med vatten – hur kan en passagerare tvaga sig i detta fall då där heller inte finns någon ren jord?
 
-**Svar:** All lovprisan tillhör Allāh. I fallet som du beskriver ärtvagning[^1] inte möjligt, eller mycket svårt. Allāh säger: ”*Han har inte lagt på er svårigheter eller tunga plikter*.” [Koranen 22:78]
+**Svar:** All lovprisan tillhör Allāh. I fallet som du beskriver är tvagning[^1] inte möjligt, eller mycket svårt. Allāh säger: ”*Han har inte lagt på er svårigheter eller tunga plikter*.” [Koranen 22:78]
 
 Så passageraren gör *tayammum[^2]* genom att använda flygplanets stolar, om det finns stoftpartiklar där. Om det inte finns stoftpartiklar bör denne be även om denne inte är rituellt ren. Denne har ju inte möjlighet att rena sig. Allāh säger: ”*Frukta därför Gud efter måttet av er förmåga; lyssna på och lyd [Hans ord]*.” [Koranen 64:16]
 

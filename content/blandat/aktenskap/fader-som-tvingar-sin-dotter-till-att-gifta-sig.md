@@ -24,5 +24,5 @@ Den starkaste åsikten är därför att när din fader gett din hand till en man
 
 Den man som vittnar falskt har begått en stor synd, vilket profeten – över honom vare Allāhs frid och välsignelser – har berättat om: ”*Skall jag inte informera er om de största synderna?*” [at-Tirmithi 2301] Han nämnde dem medan han lutade sig, sedan satte han sig upp och sade: ”Och jag varnar er för att tala falskt, och jag varnar er för falskt tal: Istället: falskt vittnesmål.” Han fortsatte att upprepa detta tills vi önskade att han skulle vara tyst.
 
-De som vittnat falskt måste därför vända sig till Allāh i ånger och dra tillbaka deras vittnesmål. Samma gäller för modern då hon på ett felaktigt sätt skrivit under för dottern. Hon har genom detta syndat och hon måste vända dig till Allāh i ånger och hon får inte göra så igen.
+De som vittnat falskt måste därför vända sig till Allāh i ånger och dra tillbaka sina vittnesmål. Samma gäller för modern då hon på ett felaktigt sätt skrivit under för dottern. Hon har genom detta syndat och hon måste vända dig till Allāh i ånger och hon får inte göra så igen.
 

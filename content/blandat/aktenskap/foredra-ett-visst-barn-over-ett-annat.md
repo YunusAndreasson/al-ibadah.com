@@ -10,7 +10,7 @@ description: 'Fråga: Får en moder behandla ett av hennes barn eller barnbarn p
  måste behandla dem likvärdigt utan att g...'
 ---
 
-**Fråga:** Får en moder behandla ett av hennes barn eller barnbarn på ett bättre sätt än de andra även om de behandlar henne själv likadant?
+**Fråga:** Får en moder behandla ett av sina barn eller barnbarn på ett bättre sätt än de andra även om de behandlar henne själv likadant?
 
 **Svar:** Föräldern måste behandla dem likvärdigt utan att ge någon av dem företräde, varken i form av pengar eller i form av gåvor. Anledningen till detta är ett uttalande från profeten – över honom vare Allāhs frid och välsignelser: ”Frukta Allāh och var rättvis mot era barn.” [al-Bukhārī 2587 och Muslim 1623] Han sade även till en man: ”Vill du att de alla ska vara dig lika plikttrogna, dela då ut likvärdigt mellan dem.”
 

@@ -16,7 +16,7 @@ description: 'Fråga: Vad är föreskrivet för den som vill vallfärda och gör
 
 Sedan bör denne skriva ned sitt testamente, vad än han är ansvarig för och hans tillgångar eller vad han än kan tänkas äga.
 
-Därpå ber denneistikharah[^2]-bönen och ber sin Herre om att Han väljer det som är bäst för honom. Efter att ha gjort detta fortsätter denne i den riktning som dennes hjärta känner sig bekvämt.
+Därpå ber denne istikharah[^2]-bönen och ber sin Herre om att Han väljer det som är bäst för honom. Efter att ha gjort detta fortsätter denne i den riktning som dennes hjärta känner sig bekvämt.
 
 Denne bör välja ett rättfärdigt resesällskap med människor som har kunskap och religion [för att resa med]. Likaså bör denne ta med sig islamiska böcker som denne kan ha nytta av när det gäller vallfärden och andra ting. Detta kommer även att vara nyttigt för dennes bröder.
 

@@ -14,7 +14,7 @@ description: 'Fråga: Vilket är utlåtandet om omskärelse? Vad finns det att s
 
 **Svar:** Omskärelse är ett av karaktärsdragen för *fitrah[^1]* samtidigt som det är en symbol för muslimer. Det finns återberättat i *al-Sahīhayn* att Abū Hurayrah hörde Allāhs sändebud – över honom vare Allāhs frid och välsignelser – säga: ”*Karaktärerna för *fitrah[^1]* är fem: omskärelse, raka könshåret, trimma mustaschen, klippa naglarna och plocka håret under armhålorna*.” Så han började med att nämna omskärelse och sade att detta var en av karaktärerna för *fitrah[^1]*.
 
-Den omskärelse som islam föreskriver innebär att förehuden som täcker ollonet på mannens könsorgan skärs av. De som flår all den hud som omger organet, vilket man gör i några ociviliserade länder, och påstår i deras okunskap att islam påbjuder denna omskärelse, de följer inte något annat än det som djävulen påbjuder och det som har gjorts attraktivt för de okunniga. Det är en tortyr för den som blir omskärd. Det går emot Muhammeds *sunnah[^2]* och den islamiska lagen som är baserad på lätthet och vad som bevarar liv.
+Den omskärelse som islam föreskriver innebär att förehuden som täcker ollonet på mannens könsorgan skärs av. De som flår all den hud som omger organet, vilket man gör i några ociviliserade länder, och påstår i sin okunskap att islam påbjuder denna omskärelse, de följer inte något annat än det som djävulen påbjuder och det som har gjorts attraktivt för de okunniga. Det är en tortyr för den som blir omskärd. Det går emot Muhammeds *sunnah[^2]* och den islamiska lagen som är baserad på lätthet och vad som bevarar liv.
 
 Det är förbjudet av ett antal olika anledningar:
 

@@ -12,7 +12,7 @@ description: 'Fråga: Vilket är utlåtandet om att säga: ”Du har välsignat 
 
 **Fråga:** Vilket är utlåtandet om att säga: ”Du har välsignat oss” och ”välsignelser har besökt oss”?
 
-**Svar:** När vanligt folk säger ”Du har välsignat oss” avser de inte samma som när de säger så om Allāh den Allsmäktige. Vad de avser är enbart: ”En välsignelse har kommit till oss genom ditt besök.” Det är korrekt att tillskriva välsignelser till en person. När versen om *tayammum[^1] l* uppenbarades efter att ‘A’ishah – må Allāh vara nöjd med henne – hade förlorat ett halsband sade Usaid bin Hudair: ”*Abū Bakrs familj! Det är inte den första välsignelsen från er familj*.” [*al-Bukhārī* 334 och *Muslim* 289]
+**Svar:** När vanligt folk säger ”Du har välsignat oss” avser de inte samma som när de säger så om Allāh den Allsmäktige. Vad de avser är enbart: ”En välsignelse har kommit till oss genom ditt besök.” Det är korrekt att tillskriva välsignelser till en person. När versen om *tayammum[^1]* uppenbarades efter att ‘A’ishah – må Allāh vara nöjd med henne – hade förlorat ett halsband sade Usaid bin Hudair: ”*Abū Bakrs familj! Det är inte den första välsignelsen från er familj*.” [*al-Bukhārī* 334 och *Muslim* 289]
 
 Att söka välsignelser delas i två kategorier:
 

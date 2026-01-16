@@ -26,5 +26,5 @@ Det är välkänt att giftermål är ett av det ting som själen åtrår mest oc
 
 > ”Och för dem, Herre, som Du har lovat dem, till Edens lustgårdar, tillsammans med de rättfärdiga bland deras fäder och hustrur och efterkommande! Du är den Allsmäktige, den Vise!” [Koranen 40:8]
 
-Gifte hon sig inte sig i detta liv kommer Allāh den Upphöjde att gifte henne med någon som hon är nöjd med i Paradiset.
+Gifte hon sig inte i detta liv kommer Allāh den Upphöjde att gifta henne med någon som hon är nöjd med i Paradiset.
 

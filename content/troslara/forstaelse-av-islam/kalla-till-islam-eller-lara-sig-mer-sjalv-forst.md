@@ -16,5 +16,5 @@ description: 'Fråga: Vilket är det bästa: kalla till islam eller söka kunska
 
 > ”Säg [Muḥammad]: 'Detta är min väg: jag uppmanar [er] med klar syn och insikt att dyrka Gud.” [Koranen 12:108]
 
-Så, hur kan det var möjligt att kalla till islam utan kunskap? Aldrig har någon kalla till islam utan kunskap och den som gör så utan kunskap kommer inte att lyckas.
+Så, hur kan det vara möjligt att kalla till islam utan kunskap? Aldrig har någon kallat till islam utan kunskap och den som gör så utan kunskap kommer inte att lyckas.
 

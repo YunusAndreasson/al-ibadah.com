@@ -12,7 +12,7 @@ description: 'Fråga: Vilket är utlåtandet om att ha guldtänder? Svar: Män f
 
 **Fråga:** Vilket är utlåtandet om att ha guldtänder?
 
-**Svar:** Män får inte ha tänder av guld om det inte är nödvändigt. Detta beror på att män inte får bära och pryda sig själva med guld. Är det sed för kvinnor att göra sig vackra med guldtänder, då finns det ingen synd i det och de får då täcka deras tänder med guld om det är tradition. Detta anses då inte vara slöseri, enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Guld och silke har gjorts tillåtet för kvinnorna i mitt samfund*.”
+**Svar:** Män får inte ha tänder av guld om det inte är nödvändigt. Detta beror på att män inte får bära och pryda sig själva med guld. Är det sed för kvinnor att göra sig vackra med guldtänder, då finns det ingen synd i det och de får då täcka sina tänder med guld om det är tradition. Detta anses då inte vara slöseri, enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Guld och silke har gjorts tillåtet för kvinnorna i mitt samfund*.”
 
 Om en kvinna, eller man som hade guldtänder eftersom det var nödvändigt, avlider bör de [tänderna] tas bort om det inte finns en risk för att det leder till vanställelse, som att tandköttet går i sönder. I ett sådant fall bör de lämnas kvar. Detta beror på att guld anses vara tillgångar och de går till arvtagarna när någon har gått bort. Att lämna dem i den avlidnes mun är slöseri.
 

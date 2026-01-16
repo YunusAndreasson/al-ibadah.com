@@ -21,7 +21,7 @@ Och Han den Allsmäktige har sagt:
 
 > ”[Moses] svarade: 'Du vet redan att ingen annan än himlarnas och jordens Herre har sänt dessa [tecken] för att låta [alla] se sanningen. Farao! Jag tror att din undergång är nära!” [Koranen 17:102]
 
-De som förnekar Skaparen förnekar också deras egen existens. Detta beror på att de säger att de inte har skapat sig själva, och de vet detta, samt att de tror att deras mödrar och fäder inte skapade dem, eller någon annan levande än världarnas Herre. Allāh den Upphöjde säger:
+De som förnekar Skaparen förnekar också sin egen existens. Detta beror på att de säger att de inte har skapat sig själva, och de vet detta, samt att de tror att deras mödrar och fäder inte skapade dem, eller någon annan levande än världarnas Herre. Allāh den Upphöjde säger:
 
 > ”Skapades de kanske av en slump? Eller är de själva skaparna?” [Koranen 52:35]
 
@@ -31,7 +31,7 @@ Om det sägs till dem som förnekar: ”Vem är himlarnas och jordens Skaparen?�
 
 Härmed råder det inget tvivel om att den som förnekar Skaparen har en mental defekt, är utan religion och är icke-troende. Ingen bör tveka över att detta är otro.
 
-Detta utlåtande gäller även de som blint följer denna tro och som har levt i islam, därför att islam avvisar med bestämdhet detta. Falskheten i detta tankesätt och i denna ideologi bör vara uppenbar för varje muslim och det finns ingen ursäkt för dem, då det har funnits dem som lärt dem. Om de återvände till deras *fitrah[^1]*, då skulle de finna att kommunismen saknar grund.
+Detta utlåtande gäller även de som blint följer denna tro och som har levt i islam, därför att islam avvisar med bestämdhet detta. Falskheten i detta tankesätt och i denna ideologi bör vara uppenbar för varje muslim och det finns ingen ursäkt för dem, då det har funnits dem som lärt dem. Om de återvände till sin *fitrah[^1]*, då skulle de finna att kommunismen saknar grund.
 
 [^1]: Det naturliga tillstånd som människan föds i.
 

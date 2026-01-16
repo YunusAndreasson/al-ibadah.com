@@ -11,11 +11,11 @@ description: 'Fråga: Många mödrar och fäder åkallar mot deras barn när de 
  är att förlåta och att vara överseende med...'
 ---
 
-**Fråga:** Många mödrar och fäder åkallar[^1] mot deras barn när de gjort ett misstag eller två. Vänligen, ge oss råd om detta.
+**Fråga:** Många mödrar och fäder åkallar[^1] mot sina barn när de gjort ett misstag eller två. Vänligen, ge oss råd om detta.
 
-**Svar:** Vårt råd till föräldrar är att förlåta och att vara överseende med deras barns tillkortakommande då de är unga. De måste vara tålmodiga och inte använda skarpa ord eller något annat skadligt, för barn är inte fullt utvecklade och de göra ibland fel i tal och handling. Vi hoppas att föräldrarna kommer att vara tålmodiga och överseende. Om en fader är varsam och förlåter sin son, då kommer sonen att uppskatta varsamheten och uppriktigheten mot honom. Han kommer då troligen att se sina egna fel och vara ångerfull.
+**Svar:** Vårt råd till föräldrar är att förlåta och att vara överseende med sina barns tillkortakommande då de är unga. De måste vara tålmodiga och inte använda skarpa ord eller något annat skadligt, för barn är inte fullt utvecklade och de gör ibland fel i tal och handling. Vi hoppas att föräldrarna kommer att vara tålmodiga och överseende. Om en fader är varsam och förlåter sin son, då kommer sonen att uppskatta varsamheten och uppriktigheten mot honom. Han kommer då troligen att se sina egna fel och vara ångerfull.
 
-Vissa föräldrar begår dock stora fel när de göra åkallar[^1] mot deras barn, ber för deras död, elände eller att sjukdomar ska drabba dem. Vissa föräldrar gör så hela tiden i en sittning och när till sist ilskan ger med sig, blir de ledsna för den åkallan[^1] de gjort mot deras barn. De blir ledsna för en förälder känner naturligt kärlek och omtanke till sitt barn. Den enda anledning till att de säger dessa saker är den starka ilska de kände.
+Vissa föräldrar begår dock stora fel när de åkallar[^1] mot sina barn, ber för deras död, elände eller att sjukdomar ska drabba dem. Vissa föräldrar gör så hela tiden i en sittning och när till sist ilskan ger med sig, blir de ledsna för den åkallan[^1] de gjort mot sina barn. De blir ledsna för en förälder känner naturligt kärlek och omtanke till sitt barn. Den enda anledning till att de säger dessa saker är den starka ilska de kände.
 
 Allāh den Allsmäktige förlåter en sådan person, för Han har sagt:
 

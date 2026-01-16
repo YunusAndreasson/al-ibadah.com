@@ -10,7 +10,7 @@ description: 'Fråga: Vilken är skapelsens första förpliktelse? Svara: De ska
 
 **Fråga:** Vilken är skapelsens första förpliktelse?
 
-**Svara:** De skapade varelsernas första förpliktelse är den första sak som de kallas till. Profeten – över honom vare Allāhs frid och välsignelser – förklarade för Mu'ādh ibn Jabal när hans sände honom till Jemen:
+**Svar:** De skapade varelsernas första förpliktelse är den första sak som de kallas till. Profeten – över honom vare Allāhs frid och välsignelser – förklarade för Mu'ādh ibn Jabal när hans sände honom till Jemen:
 
 > ”Sannerligen är du på väg till Skriftens folk, så det första du ska kalla dem till är att de vittnar om att det inte finns någon gud utom Allāh och att Muḥammad är Hans Sändebud...” [al-Bukharī 1458 och 1496]
 

@@ -21,7 +21,7 @@ description: 'Fråga: Om någon tror att profeten – över honom vare Allāhs f
 > 
 > 
 > 
-> ”Säg: ’Ingen i himlarna eller på jorden har kunskapp om det som är dolt för människor[^1] – [ingen har denna kunskap] utom Gud.” [Koranen 27:65]
+> ”Säg: 'Ingen i himlarna eller på jorden har kunskap om det som är dolt för människor[^1] – [ingen har denna kunskap] utom Gud.” [Koranen 27:65]
 > 
 > 
 > 

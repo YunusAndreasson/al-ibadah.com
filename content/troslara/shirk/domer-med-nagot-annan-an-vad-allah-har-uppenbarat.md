@@ -55,7 +55,7 @@ Den andra kategorin: Här gäller Allāhs den Upphöjdes ord:
 > 
 > 
 > 
-> ”Lår därför dem som följer Evangeliet döma enligt vag Gud där har uppenbarat; de som inte dömer enligt vad gud har uppenbarat är syndare som trotsar Gud.” [Koranen 5:47]
+> ”Låt därför dem som följer Evangeliet döma enligt vad Gud där har uppenbarat; de som inte dömer enligt vad Gud har uppenbarat är syndare som trotsar Gud.” [Koranen 5:47]
 > 
 > 
 > 

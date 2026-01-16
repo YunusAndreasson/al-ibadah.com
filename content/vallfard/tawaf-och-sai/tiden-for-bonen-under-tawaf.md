@@ -10,7 +10,7 @@ description: 'Fråga: Vilket är utlåtandet om bönen börjar och en pilgrim [u
  och fullföljer sedan sin tawāf e...'
 ---
 
-**Fråga:** Vilket är utlåtandet om bönen börjar och en pilgrim [under vallfärden eller*‘umrah[^1]*] inte har avslutat *tawāf[^2]* eller *sa’ī[^3]*?
+**Fråga:** Vilket är utlåtandet om bönen börjar och en pilgrim [under vallfärden eller *'umrah[^1]*] inte har avslutat *tawāf[^2]* eller *sa’ī[^3]*?
 
 **Svar:** Han ber med folket och fullföljer sedan sin *tawāf[^2]* eller *sa’ī[^3]* därifrån han avbröts. Han börjar där han slutade.
 

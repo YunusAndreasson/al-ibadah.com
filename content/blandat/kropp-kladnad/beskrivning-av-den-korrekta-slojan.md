@@ -20,7 +20,7 @@ Denna vers konstaterar tydligt att kvinnan måste täcka hela sin skönhet och i
 
 al-Hāfiz ibn Kathīr säger i sin *tafsīr[^2]*: 
 
-> “Detta betyder att de inte bör visa någon del av deras prydnad för män som inte är mahram[^1], utom det som är omöjligt att dölja. Ibn Mas'ūd har sagt: 'Likt de kappor som de arabiska kvinnorna brukade bära, det vill säga ett yttre klädesplagg som täcker det kvinnorna bar under det yttre plagget, förutom det som syntes under det yttre plagget. Kvinnan syndar inte då det är omöjligt att dölja det.'”
+> “Detta betyder att de inte bör visa någon del av sin prydnad för män som inte är mahram[^1], utom det som är omöjligt att dölja. Ibn Mas'ūd har sagt: 'Likt de kappor som de arabiska kvinnorna brukade bära, det vill säga ett yttre klädesplagg som täcker det kvinnorna bar under det yttre plagget, förutom det som syntes under det yttre plagget. Kvinnan syndar inte då det är omöjligt att dölja det.'”
 
 2. Den bör inte vara en prydnad i sig. Allāh säger: “och inte visa mera av sina behag än vad som [anständigtvis] kan vara synligt.” [Koranen 24:31] Den generella innebörden inkluderar här det yttre plagget, är det dekorerat kommer det ju att dra mäns uppmärksamhet till sig. Detta stöds av versen i sura al-Ahzāb: 
 

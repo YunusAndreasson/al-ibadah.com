@@ -19,7 +19,7 @@ description: 'Fråga: Hur svarar vi någon som förnekar straffet i graven och s
 2. Straffet i graven är i huvudsak ett för själen. Kroppen upplever det inte. Vore det så att kroppen kände det skulle det inte vara en fråga om tro på det som är dolt för människor[^1]. Då skulle de ju inte finnas någon vits med att tro på det. Men nu tillhör det händelserna som sker fördolt för människor och det är ett av tillstånden under *al-Barzakh* [Livet i graven mellan detta livet och det Nästa] som vi inte upplever på samma sätt som saker och ting i denna värld.
 3. Straffet, belöningen och vidgandet eller krympandet av graven upplever enbart den avlidne – inte andra. Någon kan tänkas ha en dröm när denne sover liggandes i sin säng och denne kan då drömma att denne står upp, promenerar, slår någon, blir slagen, befinner sig på en trång skrämmande plats eller att denne befinner sig på en vidsträckt och fin plats – utan att de runtikring ser något av detta.
 
-I frågor som dessa säga måste man säga: Vi hör, lyder och tror.
+I frågor som dessa måste man säga: Vi hör, lyder och tror.
 
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 

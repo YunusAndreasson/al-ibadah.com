@@ -19,7 +19,7 @@ Trots faderns invändningar gav han sig ännu djupare in i vetandet om hadīth[^
 
 Han blev så intresserad av *hadīth[^3]* att han ibland stängde sin butik för att vara i biblioteket i tolv timmar. Han tog då endast rast för att be. Maten bestod endast av lätt tilltugg.
 
-Tillsist gav de ansvariga för biblioteket honom ett avskilt rum för att studera i och han fick en egen nyckel till biblioteket för att komma in före det öppnade. Ofta var han där från tidig morgon till efter ’ishā. Under denna tid sammanställde han många betydelsefulla arbeten. Flera av dessa har ännu inte tryckts.
+Till sist gav de ansvariga för biblioteket honom ett avskilt rum för att studera i och han fick en egen nyckel till biblioteket för att komma in före det öppnade. Ofta var han där från tidig morgon till efter ’ishā. Under denna tid sammanställde han många betydelsefulla arbeten. Flera av dessa har ännu inte tryckts.
 
 Han stötte på mycket motstånd när han förespråkade *tawhīd[^4]* och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^5]* men han bar detta med tålamod. Han uppmuntrades av några av de ädle lärda i Damaskus som tyckte att han skulle fortsätta. Bland dem fanns Shaykh Bahjatul Bayjār, Shaykh ʿAbdul-Fattāh och Towfīq al-Barzah – rahimahumullāh.
 

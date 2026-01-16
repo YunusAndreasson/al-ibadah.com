@@ -11,7 +11,7 @@ description: 'Fråga: Somliga tror att om någon utför en handling som är för
 
 **Fråga:** Somliga tror att om någon utför en handling som är förbjuden i *ihrām[^1]* så har denne en valmöjlighet mellan att offra ett djur, fasta under tre dagar eller föda sex fattiga personer. Stämmer detta?
 
-**Svar:** All lovprisan tillhör Allāh. Det är otillåtet för en pilgrim som befinner sig i *ihrām[^1]* under vallfärden eller*‘umrah[^2]* att raka sitt huvud, klippa sina naglar, täcka sitt huvud med något som fästs på det, bära sydda kläder [gäller män], bära ansiktsslöja och handskar [gäller kvinnor], parfymera kläderna eller kroppen, jaga villebråd, upprätta äktenskapskontrakt och ha intim samvaro samt förspel.
+**Svar:** All lovprisan tillhör Allāh. Det är otillåtet för en pilgrim som befinner sig i *ihrām[^1]* under vallfärden eller *'umrah[^2]* att raka sitt huvud, klippa sina naglar, täcka sitt huvud med något som fästs på det, bära sydda kläder [gäller män], bära ansiktsslöja och handskar [gäller kvinnor], parfymera kläderna eller kroppen, jaga villebråd, upprätta äktenskapskontrakt och ha intim samvaro samt förspel.
 
 Om en pilgrim under *ihrām[^1]* gör något som är förbjudet, då gäller ett av följande scenarion:
 

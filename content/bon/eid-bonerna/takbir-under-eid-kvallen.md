@@ -20,7 +20,7 @@ description: 'Fråga: Hur gör man takbīr under `eid -kvällen? Svar: Det är r
 > 
 > Allāh är störst, Allāh är stört, det finns ingen gud utom Allāh, Allāh är störst, Allāh är störst, och all lovprisan tillhör Allāh.
 
-Man kan även saga *Allāhu akbar* tre gånger:
+Man kan även säga *Allāhu akbar* tre gånger:
 
 > *Allāhu akbar, Allāhu akbar, Allāhu akbar, lā ilāha ill-Allāh, Allāhu akbar, Allāhu akbar, Allāhu akbar, wa Lillāhi’l-hamd.*
 > 
@@ -31,7 +31,7 @@ Man kan även saga *Allāhu akbar* tre gånger:
 
 Både sätt är tillåtna.
 
-Män höjer deras röster när de läser denna åminnelse[^2] på marknadsplatser, i moskén och I hemmen. Kvinnor höjer dock inte deras röster.
+Män höjer sina röster när de läser denna åminnelse[^2] på marknadsplatser, i moskén och i hemmen. Kvinnor höjer dock inte sina röster.
 
 [^1]: Att säga Allahu Akbar.
 [^2]: Dhikr

@@ -18,7 +18,7 @@ description: 'Fråga: Vad måste en kvinna göra när hennes man avlider? Svar: 
 2. Hon får inte bära vackra kläder, varken gula eller gröna eller några andra. Istället måste hon bära enkla kläder, vilket profeten – över honom vare Allāhs frid och välsignelser – har beordrat.
 3. Hon måste undvika smycken som guld, silver, diamanter, pärlor och liknande. Detta gäller oavsett om det är halsband, armband, ringar eller något annat. Tiden för detta är fram tills vänteperioden är över.
 4. Hon måste undvika att använda parfymer. Hon får varken använda rökelser eller någon annan form av doft, förutom när hon blivit ren efter sin månadsblödning för då finns det ingen invändan mot att hon använder det.
-5. Hon måste undvika att använda kohl. Hon får inte applicera kohl vid hennes ögon eller någon annan liknande kosmetika som används för att göra ansiktet vackert, något som kan skapa frestelser för folk. Beträffande vanlig kroppsvård som att använda vatten och såpa finns det ingen invändan mot. Men hon får inte använda kol som används för att göra ögonen vackra eller något liknande kohl som används av vissa kvinnor i deras ansikten.
+5. Hon måste undvika att använda kohl. Hon får inte applicera kohl vid sina ögon eller någon annan liknande kosmetika som används för att göra ansiktet vackert, något som kan skapa frestelser för folk. Beträffande vanlig kroppsvård som att använda vatten och såpa finns det ingen invändan mot. Men hon får inte använda kol som används för att göra ögonen vackra eller något liknande kohl som används av vissa kvinnor i deras ansikten.
 
 Dessa fem saker måste en kvinna tänka på när hennes man har avlidit.
 

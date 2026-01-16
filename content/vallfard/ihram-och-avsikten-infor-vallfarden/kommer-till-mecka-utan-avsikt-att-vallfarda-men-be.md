@@ -13,7 +13,7 @@ description: 'Fråga: Vad gäller dem som kommer till Mecka för att arbeta elle
 
 **Fråga:** Vad gäller dem som kommer till Mecka för att arbeta eller göra något annat viktigt och sedan får möjlighet att vallfärda? Träder de in i *ihrām[^1]* i deras bostäder [i Mecka] eller beger de sig till området utanför Helgedomen?
 
-**Svar:** Om han kommer till Mecka och inte avser att utföra vallfärden eller *‘umrah[^2]*, utan endast kommer för att besöka en släkting eller sjukling, men sedan bestämmer sig för att utföra vallfärden eller*‘umrah[^2]*, då träder han in i *ihrām[^1]* för vallfärden i bostaden. Det är ingen skillnad om han befinner sig i Mecka eller i dess utkanter.
+**Svar:** Om han kommer till Mecka och inte avser att utföra vallfärden eller *‘umrah[^2]*, utan endast kommer för att besöka en släkting eller sjukling, men sedan bestämmer sig för att utföra vallfärden eller *'umrah[^2]*, då träder han in i *ihrām[^1]* för vallfärden i bostaden. Det är ingen skillnad om han befinner sig i Mecka eller i dess utkanter.
 
 Men om han avser att göra *‘umrah[^2]* måste han ta sig utanför helgedomen, som till at-Tan'im, al-Ji'ranah eller någon annan plats. Det är *sunnah[^3]* – eller snarare obligatoriskt – att ta sig utanför helgedomen, som profeten – över honom vare Allāhs frid och välsignelser – beordrade ‘A’ishah att göra när hon ville utföra *‘umrah[^2]*. Han beordrade henne att ta sig till at-Tan'im och han beordrade hennes bror, ʿAbdur-Rahmān, att följa med henne ut ur helgedomen till platsen utanför, vilken kan vara at-Tan'im eller någon annan plats. Den som vill utföra ‘umrah[^2] måste göra så här.
 

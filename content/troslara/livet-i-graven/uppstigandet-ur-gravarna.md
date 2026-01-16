@@ -11,9 +11,9 @@ description: 'Fråga: Hur ska människor komma upp ur deras gravar på Återupps
  att återuppresa människan på Återuppstå...'
 ---
 
-**Fråga:** Hur ska människor komma upp ur deras gravar på Återuppståndelsens Dag? Vem kommer att vara den förste som kläs?
+**Fråga:** Hur ska människor komma upp ur sina gravar på Återuppståndelsens Dag? Vem kommer att vara den förste som kläs?
 
-**Svar:** Allāh den Upphöjde kommer att återuppresa människan på Återuppståndelsens Dag och rekonstruera henne från hennes svanskota. Människor kommer att växa till perfekta skapelser, precis som växter växer från frön och palmträd växer från dadelfrön. De kommer att uppstå från deras gravar barfota, nakna och utan att vara omskurna. De kommer att störta framåt och skingras som fjärilar och de kommer inte att missa vägen till Samlingsplatsen. De kommer att känna vägen dit bättre än en vild duva känner vägen till sitt bo – och de kommer att kapplöpa mot målet.
+**Svar:** Allāh den Upphöjde kommer att återuppresa människan på Återuppståndelsens Dag och rekonstruera henne från hennes svanskota. Människor kommer att växa till perfekta skapelser, precis som växter växer från frön och palmträd växer från dadelfrön. De kommer att uppstå från sina gravar barfota, nakna och utan att vara omskurna. De kommer att störta framåt och skingras som fjärilar och de kommer inte att missa vägen till Samlingsplatsen. De kommer att känna vägen dit bättre än en vild duva känner vägen till sitt bo – och de kommer att kapplöpa mot målet.
 
 Den förste som jorden kommer att öppna sig för är vår profet Muḥammad. Han kommer att vara den förste som återfår medvetandet. Den förste som kommer att kläs efter Återuppståndelsen är Khalilur-Rahmān [den Nåderikes älskade], må Allāh hedra hans omnämnande och skydda honom från ont. Skräck kommer att drabba människorna till den grad att även profeterna denna dag kommer att säga: ”Jag själv, jag själv”. Den som läser verserna som berör Återuppståndelsen i surorna al-Qamar, al-Ma'arij samt al-Qari'ah och liknande kommer att få mer information om dessa stora händelser.
 

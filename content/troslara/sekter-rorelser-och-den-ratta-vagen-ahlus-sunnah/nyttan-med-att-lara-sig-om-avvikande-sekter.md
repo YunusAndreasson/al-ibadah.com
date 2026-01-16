@@ -13,7 +13,7 @@ description: 'Fråga: Vilken är nyttan med att studera avvikande sekter som mu�
 
 **Svar:** Att lära sig om dessa grupper nuförtiden har fördelar.
 
-Vi lär oss då varför de avvek; genom detta kan vi avvisa dem om vi träffar på dem. För faktiskt finns de även bland oss nu och frågeställaren tycks inte känna till detta. Men enligt vad som är känt bland oss och bland dem som läser mycket rörande det som händer i vår samtid, existerar dessa grupper. Och de jobbar intensivt för att propagera deras idéer.
+Vi lär oss då varför de avvek; genom detta kan vi avvisa dem om vi träffar på dem. För faktiskt finns de även bland oss nu och frågeställaren tycks inte känna till detta. Men enligt vad som är känt bland oss och bland dem som läser mycket rörande det som händer i vår samtid, existerar dessa grupper. Och de jobbar intensivt för att propagera sina idéer.
 
-Därför är det viktigt att vi studerar deras åsikter för att vi ska kunna skilja deras falskheter ifrån den sanning som vi följer och tillbakavisa dem.
+Därför är det viktigt att vi studerar deras åsikter för att vi ska kunna skilja deras falskhet ifrån den sanning som vi följer och tillbakavisa dem.
 

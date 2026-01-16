@@ -31,7 +31,7 @@ Detta har återgivits från Abū Hurairah och Abū Saʿīd al-Khudri i Muslims *
 
 Den som talar illa om dem måste rådas och påminnas om deras goda och informeras om deras höga grad av uppriktighet i islam. Ångrar denne sig, då är denne en av våra bröder i tron, men om denne fortsätter att tala illa om dem, då måste denne i så stor utsträckning som möjligt behandlas med det avvisande som den islamiska lagen kräver.
 
-De som inte har möjlighet att göra detta med deras tungor [genom tal] och deras händer, de bör hata det i hjärtat, och detta är den svagaste tron. Detta har rapporterats i autentiska *ahādīth[^1]*.
+De som inte har möjlighet att göra detta med sina tungor [genom tal] och sina händer, de bör hata det i hjärtat, och detta är den svagaste tron. Detta har rapporterats i autentiska *ahādīth[^1]*.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen

@@ -20,7 +20,7 @@ Om jag inte lyder honom, då kommer han alltid att vara arg på mig och argument
 
 > ”Gud har anbefallt människan [att visa] godhet mot sina föräldrar; [hon bör tänka på att] modern har burit sitt barn genom det ena svaghetstillståndet efter det andra, [fött det] och ammat det under två år. Tacka Mig och dina föräldrar [och minns att] Jag är målet för er färd! Men om de vill förmå dig att sätta vid Min sida något som du står främmande för, ska du inte lyda dem. Omge dem i detta liv som sig bör [med dina ömma omsorger], och följ samma väg som de som vänder tillbaka till mig i ånger [över sina synder]. Till Mig ska ni föras åter och Jag ska låta er veta vad era handlingar [var värda].” [Koranen 31:14 – 15]
 
-Var med de troende, de som är uppriktiga i deras tro, som Allāh har föreskrivit och som Hans sändebud förkunnade för oss, för att handla i enligt Allāhs skrift och Hans sändebuds sunnah[^2]. Försök att bära den svårighet som kan komma då du följer Allāhs väg. Det är bättre för din slutliga vistelse […] att hålla sig till den väg de som vänder sig till Allāh i ånger följer. Du måste lämna dem så att de inte leder dig vilse.
+Var med de troende, de som är uppriktiga i sin tro, som Allāh har föreskrivit och som Hans sändebud förkunnade för oss, för att handla i enligt Allāhs skrift och Hans sändebuds sunnah[^2]. Försök att bära den svårighet som kan komma då du följer Allāhs väg. Det är bättre för din slutliga vistelse […] att hålla sig till den väg de som vänder sig till Allāh i ånger följer. Du måste lämna dem så att de inte leder dig vilse.
 
 Vi hoppas att Allāh kommer att göra en väg för dig till levebröd. Allt levebröd ligger i Allāhs händer, inte i din faders eller någon annan skapad varelses.
 

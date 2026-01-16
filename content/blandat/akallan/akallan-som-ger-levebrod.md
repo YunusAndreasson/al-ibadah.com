@@ -15,7 +15,7 @@ description: 'Fråga: Vilken åkallan är det som ger levebröd och välsignelse
 
 **Svar:** Jag känner inte till någon specifik åkallan[^1] som ger levebröd men att frukta Allāh är den bästa metoden för att ge levebröd. Allāh den Allsmäktige säger: ”*Gud visar var och en som fruktar Honom en utväg ur [alla svårigheter] och sörjer för honom på ett sätt som han inte kan förutse*.” [65:2-3]
 
-Av denna anledning bör du åkalla och be Allāh den Allsmäktige att Han förser dig med tillåtet, gott och välsignad levebröd. Detta för att Allāh den Allsmäktige älskar de som håller fast vid deras åkallan[^1]. Allāh säger: ”*Be till Mig, så ska Jag besvara er [bön]*.” [40:60]
+Av denna anledning bör du åkalla och be Allāh den Allsmäktige att Han förser dig med tillåtet, gott och välsignad levebröd. Detta för att Allāh den Allsmäktige älskar de som håller fast vid sin åkallan[^1]. Allāh säger: ”*Be till Mig, så ska Jag besvara er [bön]*.” [40:60]
 
 Han den Allsmäktige säger även: ”*När Mina tjänare frågar dig om Mig [svara då att] Jag är nära*.” [2:186]
 

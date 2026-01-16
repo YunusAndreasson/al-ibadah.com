@@ -13,7 +13,7 @@ description: 'Fråga: Varför kallas Ka’bah för ”Allāhs heliga hus”? Sva
 
 **Fråga:** Varför kallas Ka’bah för ”Allāhs heliga hus”?
 
-**Svar:** Ka’bah döptes till Allāhs Hus då det är en plats för att upphöja Allāh den Allsmäktige och Majestätiske. Människor kommer från alla platser för att utföra den skyldighet som Allāh har föreskrivit för dem – vallfärd till Hans hus. Det beror också på att människor från hela världen i deras böner vänder sig mot Huset för att uppfylla ett av bönens krav. Allāh har sagt: ”*Ja, varän du börjar din vallfärd, vänd ditt ansikte mot den Heliga Moskén*.” [Koranen 2:150]
+**Svar:** Ka’bah döptes till Allāhs Hus då det är en plats för att upphöja Allāh den Allsmäktige och Majestätiske. Människor kommer från alla platser för att utföra den skyldighet som Allāh har föreskrivit för dem – vallfärd till Hans hus. Det beror också på att människor från hela världen i sina böner vänder sig mot Huset för att uppfylla ett av bönens krav. Allāh har sagt: ”*Ja, varän du börjar din vallfärd, vänd ditt ansikte mot den Heliga Moskén*.” [Koranen 2:150]
 
 Allāh har sammankopplat det med Hans namn i en ägande form; som ett medel för att hedra, upphöja och respektera det.
 

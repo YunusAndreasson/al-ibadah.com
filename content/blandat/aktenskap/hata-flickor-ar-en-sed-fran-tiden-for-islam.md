@@ -18,5 +18,5 @@ Efter att ha sagt detta råder vi alla som ser något ogillat i sin fru att vara
 
 > ”Om ni fattar ovilja mot dem är det möjligt att ni vänder er ifrån den som Gud skulle ha gjort [till en källa] till rik välsignelse för er.” [Koranen 4:19]
 
-Det råder inga tvivel om att hata döttrar är en sed från tiden före islam och att det innehåller ogillan av Allāhs förordning och dekret. En man vet inte, det kan vara så att en dotter är bättre för honom än många söner. Hur många döttrar har inte blivit välsignelser för deras fäder i deras liv efter att de har gått bort? Och hur många söner har inte blivit en olycka och prövning för deras fäder i detta livet och inte fört med sig något nyttigt efter deras död?
+Det råder inga tvivel om att hata döttrar är en sed från tiden före islam och att det innehåller ogillan av Allāhs förordning och dekret. En man vet inte, det kan vara så att en dotter är bättre för honom än många söner. Hur många döttrar har inte blivit välsignelser för sina fäder i deras liv efter att de har gått bort? Och hur många söner har inte blivit en olycka och prövning för sina fäder i detta livet och inte fört med sig något nyttigt efter deras död?
 

@@ -11,7 +11,7 @@ description: 'Fråga: Bryter jag min tvagning om jag byter kläder? Är det någ
 
 **Fråga:** Bryter jag min tvagning[^1] om jag byter kläder? Är det någon skillnad i detta utlåtande mellan män och kvinnor? All lovprisan tillhör Allāh.
 
-**Svar:** Att byta kläder bryter inte ens tvagning[^1] om man är rituellt ren och inte gör någon som bryter ens tvagning[^1]. I denna fråga gäller samma för både män och kvinnor. Och Allāh vet bäst.
+**Svar:** Att byta kläder bryter inte ens tvagning[^1] om man är rituellt ren och inte gör något som bryter ens tvagning[^1]. I denna fråga gäller samma för både män och kvinnor. Och Allāh vet bäst.
 
 Det som bryter tvagning[^1] är följande:
 

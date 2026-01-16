@@ -19,11 +19,11 @@ description: 'Fråga: I en hadīth från profeten – över honom vare Allāhs f
 
 Några av dem som har återberättat *ahādīth[^1]* säger att Allāh den Härlige, den Upphöjde stiger ned under den tredje delen av natten till den lägsta himmeln. Är detta korrekt?
 
-**Svar:** Denna *hadīth[^1]* har bekräftats som autentisk och den är ett bevis för att de troende kommer att se deras Herre, om Han vill. De icke-troende kommer inte att få se Honom, vilket Han säger:
+**Svar:** Denna *hadīth[^1]* har bekräftats som autentisk och den är ett bevis för att de troende kommer att se sin Herre, om Han vill. De icke-troende kommer inte att få se Honom, vilket Han säger:
 
 > ”Nej! Denna Dag kommer de förvisso att se sig utestängda från Guds nåd.” [Koranen 83:15]
 
-Flera hadither har återberättats som bekräftar att de troende kommer att se deras Herre i Paradiset. Dessutom bekräftar Koranen det när Allāh säger:
+Flera hadither har återberättats som bekräftar att de troende kommer att se sin Herre i Paradiset. Dessutom bekräftar Koranen det när Allāh säger:
 
 > ”Den Dagen ska [någras] ansikten lysas upp av glädje – de får skåda sin Herre – medan mörka skuggor kommer att skymma [andras] ansikten – de grubblar över det lidande som väntar dem.” [Koranen 75:22 – 23]
 

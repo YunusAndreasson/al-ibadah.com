@@ -10,7 +10,7 @@ description: 'Fråga: Var är platsen och vilken är tiden för al-mawaqit när 
 , thul-qa’dah och de tio först dagarna i thul-...'
 ---
 
-**Fråga:** Var är platsen och vilken är tiden för *al-mawaqit[^1]* när det gäller vallfärden och*‘umrah[^2]*?
+**Fråga:** Var är platsen och vilken är tiden för *al-mawaqit[^1]* när det gäller vallfärden och *'umrah[^2]*?
 
 *al-Mawaqit[^1]* i tid för vallfärden är *shawwal[^3]*, *thul-qa’dah[^4]* och de tio först dagarna i *dhul-hijjah[^5]*. Man får inte träda in i *ihrām[^6]* för vallfärden utom under denna tid. Allāh säger:
 

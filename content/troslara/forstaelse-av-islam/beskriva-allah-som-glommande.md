@@ -21,7 +21,7 @@ description: 'Fråga: Kan Allāh beskrivas som glömmande? Svar: Att glömma kan
 > 
 > ”[En gång i tiden] förmanade och varande Vi Adam, men han glömde [snart Våra ord]; och Vi fann hos honom ingen fasthet i föresatsen.” [Koranen 20:115]
 
-Detta enligt en av de två åsikterna hos de lärde. Pofeten – över honom vare Allāhs frid och välsignelser – har sagt:
+Detta enligt en av de två åsikterna hos de lärde. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Jag är endast en människa. Jag glömmer som ni glömmer. Så om jag glömmer, påminn mig.”
 

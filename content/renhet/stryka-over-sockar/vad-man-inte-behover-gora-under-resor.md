@@ -19,7 +19,7 @@ description: 'Fråga: Vad behöver man inte göra under resor? Svar: Det finns f
 3. Stryka över sockarna under tre dagar och nätter, vid början vid den första strykningen.
 4. Det finns inget behov av att be *sunnah[^3]*-bönerna vid middagsbönen[^4], kvällsbönen[^5] och nattbönen[^6]. *Sunnah[^3]* vid gryningsbönen[^7] och frivilliga böner är fortfarande föreskrivna och föredragna.
 
-En resenär bör därmed be nattbön, *sunnah[^3]* för gryningsbönen[^7], två bönecykler[^1] förmiddagsbön, *sunnah[^3]* vidtvagning[^8], två bönecykler[^1] för att hälsa på moskén[^1] och två bönecykler[^1] vid hemkomst från resan.
+En resenär bör därmed be nattbön, *sunnah[^3]* för gryningsbönen[^7], två bönecykler[^1] förmiddagsbön, *sunnah[^3]* vid tvagning[^8], två bönecykler[^1] för att hälsa på moskén[^1] och två bönecykler[^1] vid hemkomst från resan.
 
 Det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]* att be två bönecykler[^1] i moskén innan man går in i sitt hem. Frivilliga böner är fortfarande föreskrivna för resenären, utom de som har nämnts tidigare [middagsbönen, kvällsbönen[^5] och nattbönen[^6]].
 

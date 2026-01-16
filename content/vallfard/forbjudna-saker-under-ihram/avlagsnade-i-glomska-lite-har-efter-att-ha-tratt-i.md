@@ -11,7 +11,7 @@ description: 'Fråga: En man gick in i ihrām för ‘umrah och då kom han på 
  . Vi skulle vilja veta vilket utlåtandet är om...'
 ---
 
-**Fråga:** En man gick in i *ihrām[^1]* för *‘umrah[^2]* och då kom han på att han behövde raka sig under armhålorna. Han rakade sig då och gav sig av på*‘umrah[^2]*. Vi skulle vilja veta vilket utlåtandet är om detta?
+**Fråga:** En man gick in i *ihrām[^1]* för *‘umrah[^2]* och då kom han på att han behövde raka sig under armhålorna. Han rakade sig då och gav sig av på *'umrah[^2]*. Vi skulle vilja veta vilket utlåtandet är om detta?
 
 **Svar:** Att raka armhålorna är inte obligatoriskt för *ihrām[^1]*, ej heller är det obligatoriskt att plocka dem. Det är endast rekommenderat att plocka eller avlägsna håret med något rent innan man går in i *ihrām[^1]*.
 

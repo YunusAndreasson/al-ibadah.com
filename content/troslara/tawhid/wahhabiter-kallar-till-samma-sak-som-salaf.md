@@ -10,7 +10,7 @@ description: 'Fråga: Är historien som säger att Muḥammad bin ʿAbdul-Wahhā
  är att den är en lögn och en vanställ...'
 ---
 
-**Fråga:** Är historien som säger att Muḥammad bin ʿAbdul-Wahhābs följeslagare band deras hästar i *ar-Rawdah[^1]* sann?
+**Fråga:** Är historien som säger att Muḥammad bin ʿAbdul-Wahhābs följeslagare band sina hästar i *ar-Rawdah[^1]* sann?
 
 **Svar:** Denna historia saknar grund, faktum är att den är en lögn och en vanställning av sanningen. Det vi känner till om dem är att de spred *salaf[^2] s* kall och lärde ut sanningen om *tawhīd[^3]* när de hade erövrat Medina. Detta var samma *tawhīd[^3]* som Allāh sände Sin profet Muḥammad och de andra sändebuden med. Under denna tid var *shirk[^4]* vida spritt. Folket sökte hjälp från Budbärarna, följeslagarna, *ahlul-bait* och andra rättfärdiga personer vid gravplatsen al-Baqi' [till exempel Hamza och martyrerna vid Uhud].
 
