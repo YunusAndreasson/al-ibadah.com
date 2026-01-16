@@ -1,6 +1,6 @@
 ---
 title: Kyssa handen och lägga den på bröstet
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:

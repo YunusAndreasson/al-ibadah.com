@@ -1,6 +1,6 @@
 ---
 title: Raka mustaschen
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: Fatāwa al-Lajnah ad-Dā'imah lil-Buhūth al-Ilmiyyah wal-Iftā – fatwā 7293
 categories:
   - Blandat

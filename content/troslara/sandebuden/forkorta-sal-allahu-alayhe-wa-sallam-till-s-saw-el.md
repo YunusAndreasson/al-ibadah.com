@@ -1,6 +1,6 @@
 ---
 title: Förkorta ”sal-Allāhu ´alayhe wa sallam” till [S], [SAW] eller liknande
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-´ilmiyyah wal-Iftā., – volym 12,
  sida 208, fatwa No.5069
 categories:

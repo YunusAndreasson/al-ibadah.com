@@ -1,6 +1,6 @@
 ---
 title: Grupp som ber tillsammans hemma i stället för att gå till moskén
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 528 s. ISBN 9960-892-66-2'
 categories:

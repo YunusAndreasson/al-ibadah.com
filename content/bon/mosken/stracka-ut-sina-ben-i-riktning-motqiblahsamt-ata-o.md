@@ -1,6 +1,6 @@
 ---
 title: Sträcka ut sina ben i riktning mot qiblah samt äta och sova i moskén
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-´ilmiyyah wal-Iftā., – Volym 6,
  Sida 293, Fatwa 5795
 categories:

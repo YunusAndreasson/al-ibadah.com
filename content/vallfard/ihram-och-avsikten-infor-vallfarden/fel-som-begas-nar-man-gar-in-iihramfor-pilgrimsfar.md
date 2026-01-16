@@ -1,6 +1,6 @@
 ---
 title: Fel som begås när man går in i ihrām för pilgrimsfärden under al-tarwiayh-dagen
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Dalīl al-Akhta’ allati yaqa’ fiha al-Hāj wa’l-Mu’tamir
 categories:
   - Vallfärd (Hajj)

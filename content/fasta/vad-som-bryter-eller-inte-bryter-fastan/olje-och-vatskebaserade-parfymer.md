@@ -1,6 +1,6 @@
 ---
 title: Olje- och vätskebaserade parfymer
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: Fatāwa a Ramadan – Volume 2, Page 499, Fatwa No.451
 categories:
   - Fasta (Sawm)

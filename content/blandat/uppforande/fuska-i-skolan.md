@@ -1,6 +1,6 @@
 ---
 title: Fuska i skolan
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Lajnah al-Dā’imah, 12/200
 categories:
   - Blandat

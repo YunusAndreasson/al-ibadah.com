@@ -1,6 +1,6 @@
 ---
 title: Beskriva Allāh som glömmande
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa al-shaykh Ibn ‘Uthaymīn 1/172-174
 categories:
   - Troslära (´Aqīdah)

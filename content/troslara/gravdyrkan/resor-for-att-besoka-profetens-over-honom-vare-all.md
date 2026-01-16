@@ -1,6 +1,6 @@
 ---
 title: Resor för att besöka profetens – över honom vare Allāhs frid och välsignelser – grav
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 253 s. ISBN 9960-892-66-2'
 categories:

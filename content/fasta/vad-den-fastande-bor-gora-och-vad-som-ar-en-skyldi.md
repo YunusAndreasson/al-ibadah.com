@@ -1,6 +1,6 @@
 ---
 title: Vad den fastande bör göra och vad som är en skyldighet för denne
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 categories:
   - Fasta (Sawm)
 original_id: 1393

@@ -1,6 +1,6 @@
 ---
 title: Ingen definierad kortaste period för blödningar efter graviditeten
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 120 s. ISBN saknas'
 categories:

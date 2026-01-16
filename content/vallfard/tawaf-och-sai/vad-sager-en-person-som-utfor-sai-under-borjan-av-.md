@@ -1,6 +1,6 @@
 ---
 title: Vad säger en person som utför sa’ī under början av hans sa’ī
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 201 s. ISBN saknas'
 categories:

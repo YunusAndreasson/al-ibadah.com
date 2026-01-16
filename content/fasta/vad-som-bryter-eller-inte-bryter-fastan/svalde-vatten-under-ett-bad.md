@@ -1,6 +1,6 @@
 ---
 title: Svalde vatten under ett bad
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: Majmū' Fatāwa ash-shaykh ´Abdul-´Azīz bin ´Abdullāh bin Bāz – Volume 3, Page
  252
 categories:

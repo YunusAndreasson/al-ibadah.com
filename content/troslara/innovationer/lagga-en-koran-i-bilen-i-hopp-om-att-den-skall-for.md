@@ -1,6 +1,6 @@
 ---
 title: Lägga en Koran i bilen i hopp om att den ska föra välsignelser med sig
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories:

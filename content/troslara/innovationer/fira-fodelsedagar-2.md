@@ -1,6 +1,6 @@
 ---
 title: Fira födelsedagar
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: Fatāwa al-Marah
 categories:
   - Troslära (´Aqīdah)

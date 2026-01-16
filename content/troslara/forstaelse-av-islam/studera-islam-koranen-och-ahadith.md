@@ -1,6 +1,6 @@
 ---
 title: Studera islam – Koranen och ahādīth
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwā al-Lajnah al-Da’imah, 12/110
 categories:
   - Troslära (´Aqīdah)

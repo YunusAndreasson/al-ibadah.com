@@ -1,6 +1,6 @@
 ---
 title: Sydda kläder – anledningen till att en pilgrim inte får bära det
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Lajnah 11/179
 categories:
   - Vallfärd (Hajj)

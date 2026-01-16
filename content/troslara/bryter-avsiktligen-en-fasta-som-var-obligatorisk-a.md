@@ -1,6 +1,6 @@
 ---
 title: Bryter avsiktligen en fasta som var obligatorisk att ta igen
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: Majmoo’ al-Fatāwa (15/355)
 categories:
   - Troslära (´Aqīdah)

@@ -1,6 +1,6 @@
 ---
 title: Gjorde fem varv för sa’ī och begav sig sedan till platsen de bodde på
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 201 s. ISBN saknas'
 categories:

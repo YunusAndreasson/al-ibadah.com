@@ -1,6 +1,6 @@
 ---
 title: Giftermål med icke-muslimsk kvinna
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: al-Aqalliyāt al-Muslimah – sida 29, fatwa 5
 categories:
   - Blandat

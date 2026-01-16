@@ -1,6 +1,6 @@
 ---
 title: Sträckan en resenär måste resa för att få förkorta bönen
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 542 s. ISBN 9960-892-66-2'
 categories:

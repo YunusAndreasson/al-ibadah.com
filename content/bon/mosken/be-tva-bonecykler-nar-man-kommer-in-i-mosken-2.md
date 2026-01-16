@@ -1,6 +1,6 @@
 ---
 title: Be två bönecykler när man kommer in i moskén
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: al-Lajnah al-Dā’imah Li’l-Buhūth al-‘Ilmiyyah wa’l-Iftā’, 7/272
 categories:
   - Bön (Salāh)

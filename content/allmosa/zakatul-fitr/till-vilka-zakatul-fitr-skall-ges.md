@@ -1,6 +1,6 @@
 ---
 title: Till vilka zakātul-fitr ska ges
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 categories:
   - Allmosa (Zakāh)
   - Zakātul-fitr

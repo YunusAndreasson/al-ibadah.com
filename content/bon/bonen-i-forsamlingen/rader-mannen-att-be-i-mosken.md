@@ -1,6 +1,6 @@
 ---
 title: Råder mannen att be i moskén
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: al-Hisbah magazin – nummer 39, sida 15
 categories:
   - Bön (Salāh)

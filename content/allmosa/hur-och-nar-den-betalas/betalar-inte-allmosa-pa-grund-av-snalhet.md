@@ -1,7 +1,7 @@
 ---
 title: Betalar inte allmosa på grund av snålhet
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: Fatāwā al-Ladjnah ad-Da’imah, 9/184
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
+source: Fatāwā al-Ladjnah ad-Dā’imah, 9/184
 categories:
   - Allmosa (Zakāh)
   - Hur och när den betalas

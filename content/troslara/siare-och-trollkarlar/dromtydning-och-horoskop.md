@@ -1,6 +1,6 @@
 ---
 title: Drömtydning och horoskop
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Majmū’ Fatāwa shaykh Ibn Bāz, 2/123 Muhammed Knut Bernström (1421), Koranens
  budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:

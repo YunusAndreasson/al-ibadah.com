@@ -1,6 +1,6 @@
 ---
 title: Sa’ī utan att ha tvagat sig
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: al-Lajnah al-Da’imah li’l-Buhūth al-‘Ilmiyyah wa’l-Iftā’ – Fatāwa al-Lajnah,
  11/264
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Strumpor som har hål eller är mycket tunna
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah al-Dā’imah, 5/246
 categories:
   - Renhet (Tahārah)

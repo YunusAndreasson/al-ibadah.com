@@ -1,6 +1,6 @@
 ---
 title: Välsigna profeten – över honom vare Allāhs frid och välsignelser – efter böneutropet
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah ad-Dāimah – fråga 7
 categories:
   - Troslära (´Aqīdah)

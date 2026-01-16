@@ -1,7 +1,7 @@
 ---
 title: Kommer till Mecka utan avsikt att vallfärda, men bestämmer sig sedan för att
  göra det
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 123 s. ISBN saknas'
 categories:

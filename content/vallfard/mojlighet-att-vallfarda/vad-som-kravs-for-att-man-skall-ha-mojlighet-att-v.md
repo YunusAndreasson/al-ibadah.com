@@ -1,6 +1,6 @@
 ---
 title: Vad som krävs för att man ska ha möjlighet att vallfärda
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah al-Dā’imah, Kitāb al-Hajj wa’l-’umrah wa’l-Ziyārah, s. 17
 categories:
   - Vallfärd (Hajj)

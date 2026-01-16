@@ -1,6 +1,6 @@
 ---
 title: Begav sig från Muzdalifah 11.40 och kastade stenar på pelarna 12.00
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 227 s. ISBN saknas'
 categories:

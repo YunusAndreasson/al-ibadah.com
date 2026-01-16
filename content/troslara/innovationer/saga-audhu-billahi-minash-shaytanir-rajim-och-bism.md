@@ -1,7 +1,7 @@
 ---
 title: Säga ”Audhū Billāhi minash-shaytānir-rajīm” och ”Bismillāhir-Rahmānir-Rahīm”
  före böneutropet
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: a-Bid'u wal-Muhdathāt wa mā lā asla lahu – sida 190
 categories:
   - Troslära (´Aqīdah)

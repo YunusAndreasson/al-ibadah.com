@@ -1,6 +1,6 @@
 ---
 title: Tio saker som tar en ur islam
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Fatāwa al-Marah Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn:
  Proprius. ISBN 91-7118-887-8'
 categories:

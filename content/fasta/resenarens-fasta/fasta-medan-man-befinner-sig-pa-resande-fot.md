@@ -1,6 +1,6 @@
 ---
 title: Fasta medan man befinner sig på resande fot
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 292 s. ISBN saknas'
 categories:

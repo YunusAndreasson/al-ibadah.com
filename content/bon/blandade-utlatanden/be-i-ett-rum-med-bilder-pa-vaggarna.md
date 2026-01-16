@@ -1,6 +1,6 @@
 ---
 title: Be i ett rum med bilder på väggarna
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-´ilmiyyah wal-Iftā – volym 6, sida
  251, fatwa 1874
 categories:

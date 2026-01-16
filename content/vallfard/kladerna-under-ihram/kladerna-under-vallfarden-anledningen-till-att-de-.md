@@ -1,6 +1,6 @@
 ---
 title: Kläderna under vallfärden – anledningen till att de är speciella
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Lajnah, 11/171
 categories:
   - Vallfärd (Hajj)

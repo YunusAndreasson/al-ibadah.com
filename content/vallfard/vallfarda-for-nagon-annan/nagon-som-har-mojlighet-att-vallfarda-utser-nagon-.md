@@ -1,6 +1,6 @@
 ---
 title: Någon som har möjlighet att vallfärda utser någon annan
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 64 s. ISBN saknas'
 categories:

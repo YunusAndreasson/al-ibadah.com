@@ -1,6 +1,6 @@
 ---
 title: Delar av mat mellan tänderna vid tvagningen
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 83 s. ISBN saknas'
 categories:

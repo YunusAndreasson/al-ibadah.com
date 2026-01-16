@@ -1,7 +1,7 @@
 ---
 title: Ber enbart under ramadan
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: al-Ladjnah ad-Da’imah 10/140
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
+source: al-Ladjnah ad-Dā’imah 10/140
 categories:
   - Fasta (Sawm)
   - De som bara ber under ramadan

@@ -1,6 +1,6 @@
 ---
 title: Byta kläder
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Lajnah al-Dā’imah, volym 5, sida 264.
 categories:
   - Renhet (Tahārah)

@@ -1,6 +1,6 @@
 ---
 title: Takbīr vid slutet av tawāf
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: al-Lajnah al-Dā’imah li’l-Buhūth al-‘Ilmiyyah wa’l-Iftā’ – Fatāwa al-Lajnah,
  11/224
 categories:

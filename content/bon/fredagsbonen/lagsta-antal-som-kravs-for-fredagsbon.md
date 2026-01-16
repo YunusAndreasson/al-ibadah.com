@@ -1,6 +1,6 @@
 ---
 title: Lägsta antal som krävs för fredagsbön
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa a al-Ladjnah al-Dā’imah, del 8, s. 178
 categories:
   - Bön (Salāh)

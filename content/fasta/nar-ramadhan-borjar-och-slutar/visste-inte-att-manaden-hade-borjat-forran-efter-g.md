@@ -1,6 +1,6 @@
 ---
 title: Visste inte att månaden hade börjat förrän efter gryningsbönen
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 239 s. ISBN saknas'
 categories:

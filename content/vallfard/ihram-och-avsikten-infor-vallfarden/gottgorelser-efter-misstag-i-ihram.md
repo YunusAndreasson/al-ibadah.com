@@ -1,6 +1,6 @@
 ---
 title: Gottgörelser efter misstag i ihrām
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa al-shaykh Ibn ‘Uthaymīn, 22/205-206
 categories:
   - Vallfärd (Hajj)

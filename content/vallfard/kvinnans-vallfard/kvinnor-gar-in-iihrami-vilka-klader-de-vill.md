@@ -1,6 +1,6 @@
 ---
 title: Kvinnor går in i ihrām i vilka kläder de vill
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: Fatāwa al-Marah
 categories:
   - Vallfärd (Hajj)

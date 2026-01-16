@@ -1,6 +1,6 @@
 ---
 title: Ber en obligatorisk bön ensam och sedan kommer några in i moskén
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 395 s. ISBN saknas'
 categories:

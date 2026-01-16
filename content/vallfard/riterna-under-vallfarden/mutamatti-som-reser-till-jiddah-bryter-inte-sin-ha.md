@@ -1,6 +1,6 @@
 ---
 title: Mutamatti' som reser till Jiddah bryter inte sin hajjul-tamattu´
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 99 s. ISBN saknas'
 categories:

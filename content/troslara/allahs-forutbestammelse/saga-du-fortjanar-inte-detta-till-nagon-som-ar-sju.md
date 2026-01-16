@@ -1,6 +1,6 @@
 ---
 title: Säga ”du förtjänar inte detta” till någon som är sjuk
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: Majmū’ Fatāwa a wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh al-‘Allāmah ‘Abd
  al-‘Azīz ibn ‘Abd-Allāh ibn Bāz, vol. 8, s. 421
 categories:

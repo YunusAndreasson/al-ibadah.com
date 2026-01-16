@@ -1,6 +1,6 @@
 ---
 title: Tillståndet av renhet fortsätter att vara giltigt
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 86 s. ISBN saknas'
 categories:

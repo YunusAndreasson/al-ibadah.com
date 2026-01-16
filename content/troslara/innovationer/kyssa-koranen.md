@@ -1,6 +1,6 @@
 ---
 title: Kyssa Koranen
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Lajnah ad-Dāimah lil-Buhūth al-'IImiyyah wa-Iftā, fatwa 4172
 categories:
   - Troslära (´Aqīdah)

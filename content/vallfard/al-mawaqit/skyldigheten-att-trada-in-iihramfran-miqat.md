@@ -1,6 +1,6 @@
 ---
 title: Skyldigheten att träda in i ihrām från mīqāt
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 79 s. ISBN saknas'
 categories:

@@ -1,7 +1,7 @@
 ---
 title: De som studerar islam
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: Fatāwa al-Ladjnah ad-Da’imah, 10/17
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
+source: Fatāwa al-Ladjnah ad-Dā’imah, 10/17
 categories:
   - Allmosa (Zakāh)
   - De som får ta emot allmosa

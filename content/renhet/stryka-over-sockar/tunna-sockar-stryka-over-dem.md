@@ -1,6 +1,6 @@
 ---
 title: Tunna sockar – stryka över dem
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 101 s. ISBN saknas'
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Kyssar, om det är synder under fastan
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 276 s. ISBN saknas'
 categories:

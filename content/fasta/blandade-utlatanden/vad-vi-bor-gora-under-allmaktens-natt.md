@@ -1,7 +1,7 @@
 ---
 title: Vad vi bör göra under Allmaktens natt
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: al-Ladjnah ad-Da’imah 10/413
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
+source: al-Ladjnah ad-Dā’imah 10/413
 categories:
   - Fasta (Sawm)
   - Blandade utlåtanden

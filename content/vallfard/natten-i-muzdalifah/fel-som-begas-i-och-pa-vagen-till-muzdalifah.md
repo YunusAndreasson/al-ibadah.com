@@ -1,6 +1,6 @@
 ---
 title: Fel som begås i och på vägen till Muzdalifah
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Dalīl al-Akhta’ allati yaqa’ fiha al-Hāj wa’l-Mu’tamir
 categories:
   - Vallfärd (Hajj)

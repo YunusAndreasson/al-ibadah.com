@@ -1,6 +1,6 @@
 ---
 title: Kvinna som tar av mannens tillgångar
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Lajnah al-Dā’imah, 21/167
 categories:
   - Blandat

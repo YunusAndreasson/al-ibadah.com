@@ -1,6 +1,6 @@
 ---
 title: Försumlighet i bönen
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: al-Lajnah al-Dā’imah li’l-Buhāth al-‘Ilmiyyah wa’l-Iftā’, 7/40
 categories:
   - Bön (Salāh)

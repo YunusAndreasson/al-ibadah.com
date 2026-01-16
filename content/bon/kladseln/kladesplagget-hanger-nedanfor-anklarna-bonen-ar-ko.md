@@ -1,6 +1,6 @@
 ---
 title: Klädesplagget hänger nedanför anklarna – bönen är korrekt men han är en syndare
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 227 s. ISBN saknas'
 categories:

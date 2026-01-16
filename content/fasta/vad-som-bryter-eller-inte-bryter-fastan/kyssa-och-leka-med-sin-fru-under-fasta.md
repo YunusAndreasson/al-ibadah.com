@@ -1,6 +1,6 @@
 ---
 title: Kyssa och leka med sin fru under fasta
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa Ramadan – Volume 2, Page 454, Fatwa No.383
 categories:
   - Fasta (Sawm)

@@ -1,7 +1,7 @@
 ---
 title: Välja vilka dagar man vill fasta under shawwal och om de blir en skyldighet
  att fasta varje år
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 675 s. ISBN 9960-892-66-2'
 categories:

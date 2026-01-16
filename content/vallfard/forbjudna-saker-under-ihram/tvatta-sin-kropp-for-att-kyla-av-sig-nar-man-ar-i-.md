@@ -1,6 +1,6 @@
 ---
 title: Tvätta sin kropp för att kyla av sig när man är i ihrām
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Lajnah, 11/184
 categories:
   - Vallfärd (Hajj)

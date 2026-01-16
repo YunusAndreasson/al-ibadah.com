@@ -1,6 +1,6 @@
 ---
 title: Ghusl även utan orgasm
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: '''Ishratun-Nisā wa Hill al-Khilāfāt az-Zowjiyyah – sida 54'
 categories:
   - Renhet (Tahārah)

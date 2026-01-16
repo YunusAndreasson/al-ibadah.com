@@ -1,7 +1,7 @@
 ---
 title: Kvinnans ‘eid-bön är sunnah
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: al-Ladjnah ad-Da’imah 8/284-286
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
+source: al-Ladjnah ad-Dā’imah 8/284-286
 categories:
   - Bön (Salāh)
   - '''Eid-bönerna'

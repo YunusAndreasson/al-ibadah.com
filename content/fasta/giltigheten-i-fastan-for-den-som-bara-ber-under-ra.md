@@ -1,6 +1,6 @@
 ---
 title: Giltigheten i fastan för den som bara ber under ramadan
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 categories:
   - Fasta (Sawm)
 original_id: 1277

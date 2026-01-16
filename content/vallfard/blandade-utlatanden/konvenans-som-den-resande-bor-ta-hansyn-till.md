@@ -1,6 +1,6 @@
 ---
 title: Konvenans som den resande bör ta hänsyn till
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fatāwa Ibn ´Uthaymīn, 21/16 Muhammed Knut Bernström (1421), Koranens budskap
  . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:

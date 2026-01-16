@@ -1,6 +1,6 @@
 ---
 title: Åkalla för den som ger till välgörenhet
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 283 s. ISBN saknas'
 categories:

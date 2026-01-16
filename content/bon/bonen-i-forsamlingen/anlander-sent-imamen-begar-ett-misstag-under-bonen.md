@@ -1,7 +1,7 @@
 ---
 title: Anländer sent, imamen begår ett misstag under bönen och församlingen ber en
  bönecykel extra
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 187 s. ISBN saknas'
 categories:

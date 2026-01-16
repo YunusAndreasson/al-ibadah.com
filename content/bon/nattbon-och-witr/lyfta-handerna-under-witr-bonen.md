@@ -1,6 +1,6 @@
 ---
 title: Lyfta händerna under witr-bönen
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: Fatāwa al-Marah
 categories:
   - Bön (Salāh)

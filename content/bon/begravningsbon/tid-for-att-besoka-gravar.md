@@ -1,6 +1,6 @@
 ---
 title: Tid för att besöka gravar
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa li Ahlil-Mayyit – fråga 33, sida 36
 categories:
   - Bön (Salāh)

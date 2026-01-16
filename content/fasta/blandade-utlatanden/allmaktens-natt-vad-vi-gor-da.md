@@ -1,6 +1,6 @@
 ---
 title: Allmaktens Natt – vad vi gör då
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: al-Ladjnah 10/413
 categories:
   - Fasta (Sawm)

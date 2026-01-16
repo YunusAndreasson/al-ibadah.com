@@ -1,6 +1,6 @@
 ---
 title: 'Kyssa tummarna när böneutroparen säger: ”Ash-hadu anna Muḥammadar-Rasūl Allāh”'
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: al-Bid'u wal-Muhdathāt wa mā lā asla lahu, sida 191
 categories:
   - Troslära (´Aqīdah)

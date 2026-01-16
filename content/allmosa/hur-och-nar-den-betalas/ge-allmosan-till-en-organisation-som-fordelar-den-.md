@@ -1,7 +1,7 @@
 ---
 title: Ge allmosan till en organisation som fördelar den till behövande
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: Fatāwa al-Ladjnah ad-Da’imah, 9/457
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
+source: Fatāwa al-Ladjnah ad-Dā’imah, 9/457
 categories:
   - Allmosa (Zakāh)
   - Hur och när den betalas

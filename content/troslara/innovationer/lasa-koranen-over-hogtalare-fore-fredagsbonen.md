@@ -1,6 +1,6 @@
 ---
 title: Läsa Koranen över högtalare före fredagsbönen
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh al-‘Allāmah ‘Abd
  al-‘Azīz ibn ‘Abd-Allāh ibn Bāz, del 12, s. 413
 categories:

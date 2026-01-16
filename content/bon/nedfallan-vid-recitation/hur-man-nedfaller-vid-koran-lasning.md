@@ -1,6 +1,6 @@
 ---
 title: Hur man nedfaller vid Koran-läsning
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: Majmū’ Fatāwa wa Maqālāt Samāhat al-shaykh Ibn Bāz, 11/406
 categories:
   - Bön (Salāh)

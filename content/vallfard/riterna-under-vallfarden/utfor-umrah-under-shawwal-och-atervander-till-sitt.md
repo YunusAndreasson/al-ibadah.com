@@ -1,6 +1,6 @@
 ---
 title: Utför ‘umrah under shawwal och återvänder till sitt land och vallfärdar sedan – är han en mutamatti'?
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 96 s. ISBN saknas'
 categories:

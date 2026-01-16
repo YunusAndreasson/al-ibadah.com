@@ -1,7 +1,7 @@
 ---
 title: Att svära vid någonting annat än Allāh såsom sin far eller en ledare, eller
  sin ära och status
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah al-Dā’imah, 1/231
 categories:
   - Troslära (´Aqīdah)

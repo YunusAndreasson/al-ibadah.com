@@ -1,7 +1,7 @@
 ---
 title: Smycken som har varit i en persons ägo med som denne person inte betalt allmosa
  för
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 179 s. ISBN saknas'
 categories:

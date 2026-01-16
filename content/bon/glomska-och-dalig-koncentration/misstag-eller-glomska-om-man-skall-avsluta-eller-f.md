@@ -1,6 +1,6 @@
 ---
 title: Misstag eller glömska – om man ska avsluta eller fortsätta
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa al-shaykh Muḥammad al-‘Uthaymīn, 1/425
 categories:
   - Bön (Salāh)

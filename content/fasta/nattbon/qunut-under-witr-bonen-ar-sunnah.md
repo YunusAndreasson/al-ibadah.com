@@ -1,6 +1,6 @@
 ---
 title: Qunūt under witr-bönen är sunnah
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 322 s. ISBN saknas'
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Be nattbönen [isha] före dess tid
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: al-Sharh al-Mumti’, 2/88
 categories:
   - Bön (Salāh)

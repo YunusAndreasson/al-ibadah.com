@@ -1,6 +1,6 @@
 ---
 title: Dör utan att ha bett – vallfärda inte för den personen
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 53 s. ISBN saknas'
 categories:

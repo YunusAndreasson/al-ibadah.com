@@ -1,6 +1,6 @@
 ---
 title: Be jämte toaletter eller på deras tak
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 169 s. ISBN saknas'
 categories:

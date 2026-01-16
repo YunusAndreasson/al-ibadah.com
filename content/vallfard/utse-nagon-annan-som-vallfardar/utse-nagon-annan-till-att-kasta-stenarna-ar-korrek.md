@@ -1,7 +1,7 @@
 ---
 title: Utse någon annan till att kasta stenarna är korrekt om det finns en godkänd
  anledning
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 258 s. ISBN saknas'
 categories:

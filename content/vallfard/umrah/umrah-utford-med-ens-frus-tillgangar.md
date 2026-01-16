@@ -1,6 +1,6 @@
 ---
 title: ‘Umrah utförd med ens frus tillgångar
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Källa: Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah .
  Volym 4. Libanon: Maktaba Dar us-Salam. 280 s. ISBN saknas'
 categories:

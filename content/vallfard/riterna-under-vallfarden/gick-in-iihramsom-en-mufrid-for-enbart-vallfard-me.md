@@ -1,7 +1,7 @@
 ---
 title: Gick in i ihrām som en mufrid [för enbart vallfärd] med en grupp, sedan begav
  de sig till Medina
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 100 s. ISBN saknas'
 categories:

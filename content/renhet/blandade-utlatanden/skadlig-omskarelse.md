@@ -1,6 +1,6 @@
 ---
 title: Skadlig omskärelse
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: Kitāb Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh al-‘Allāmah
  ‘Abd al-‘Azīz ibn ‘Abd-Allāh ibn Bāz
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Stryka över strumpor på sommaren
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh Ibn Bāz, 10/113.
 categories:
   - Renhet (Tahārah)

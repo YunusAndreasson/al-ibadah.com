@@ -1,6 +1,6 @@
 ---
 title: Bröt avsiktligen fastan dagtid under ramadan
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 289 s. ISBN saknas'
 categories:

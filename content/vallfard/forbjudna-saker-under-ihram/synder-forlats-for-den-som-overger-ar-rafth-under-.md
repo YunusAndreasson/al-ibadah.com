@@ -1,6 +1,6 @@
 ---
 title: Synder förlåts för den som överger ar-rafth under vallfärden
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: "Muḥammad bin ´Abdul-´Azīz \nal-Musnad (1422), Fatawa Islamiyah . \nVolym\
  \ 4. Libanon: Maktaba \nDar us-Salam. 23 s. ISBN \nsaknas Muhammed Knut Bernström\
  \ (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8"

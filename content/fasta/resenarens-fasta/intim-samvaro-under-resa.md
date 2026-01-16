@@ -1,6 +1,6 @@
 ---
 title: Intim samvaro under resa
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: Fatāwa Ramadan – Volume 2, Page 439, Fatwa No.363
 categories:
   - Fasta (Sawm)

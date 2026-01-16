@@ -1,6 +1,6 @@
 ---
 title: Misstänker att ens tvagning har brutits
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: Fatāwa al-Marah
 categories:
   - Renhet (Tahārah)

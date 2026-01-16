@@ -1,6 +1,6 @@
 ---
 title: Beskrivning av sujūd al-tilāwah
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Majmū’ Fatāwa wa Maqālāt Samāhat al-shaykh Ibn Bāz, 11/406 Muhammed Knut
  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:

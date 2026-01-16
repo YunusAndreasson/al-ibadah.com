@@ -1,6 +1,6 @@
 ---
 title: Rökning bryter inte tvagningen
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwā al-Ladjnah al-Dā’imah, 13/57
 categories:
   - Renhet (Tahārah)

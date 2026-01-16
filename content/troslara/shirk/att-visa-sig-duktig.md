@@ -1,6 +1,6 @@
 ---
 title: Att visa sig duktig
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Majmū’ Fatāwa al-shaykh Ibn ‘Uthaymīn, 2/29, 30
 categories:
   - Troslära (´Aqīdah)

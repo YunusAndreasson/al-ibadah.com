@@ -1,6 +1,6 @@
 ---
 title: Kvinna som tillrättavisar sin man
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: Fatāwa al-Marah
 categories:
   - Blandat

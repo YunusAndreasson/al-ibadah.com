@@ -1,6 +1,6 @@
 ---
 title: Sunnah-bönerna under en resa
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 431 s. ISBN saknas'
 categories:

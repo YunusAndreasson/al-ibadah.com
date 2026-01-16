@@ -1,7 +1,7 @@
 ---
 title: Passerar mīqāt utan att träda in i ihrām och avser att utföra pilgrimsfärden
  och ‘umrah
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Dalīl al-Akhta’ allati yaqa’ fiha al-Hāj wa’l-Mu’tamir
 categories:
   - Vallfärd (Hajj)

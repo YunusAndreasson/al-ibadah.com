@@ -1,6 +1,6 @@
 ---
 title: Gick in i ihrām för ´umrah men avbröt sedan sin ihrām
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 23 s. ISBN saknas'
 categories:

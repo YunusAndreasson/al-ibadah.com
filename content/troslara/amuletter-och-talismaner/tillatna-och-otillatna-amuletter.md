@@ -12,7 +12,7 @@ description: 'Fråga: ´Abdullāh bin Mas''ūd har sagt: ” Jag hörde Allāhs 
  och al-Hakim 4:418] Jabir h...'
 ---
 
-**Fråga:**´Abdullāh bin Mas'ūd har sagt: ”*Jag hörde Allāhs sändebud säga: 'Sannerligen är besvärjelser, amuletter och tiwalah[^1] shirk[^2]*.'” [*Abū Dawūd* 3883, *Ahmad* 1:381 och *al-Hakim* 4:418] Jabir har sagt:
+**Fråga:** ´Abdullāh bin Mas'ūd har sagt: ”*Jag hörde Allāhs sändebud säga: 'Sannerligen är besvärjelser, amuletter och tiwalah[^1] shirk[^2]*.'” [*Abū Dawūd* 3883, *Ahmad* 1:381 och *al-Hakim* 4:418] Jabir har sagt:
 
 > ”Jag hade en farbror som brukade behandla folk med besvärjelser efter skorpionstick. När profeten förbjöd besvärjelser gick han till honom och frågade: 'Allāhs sändebud, du har förbjudit besvärjelser och jag behandlar dem som har stuckits av skorpioner med besvärjelser.' Han svarade: 'Den som kan hjälpa sin broder, låt denne göra så.'” [*Muslim* 2199]
 

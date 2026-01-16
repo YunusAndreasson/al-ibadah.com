@@ -1,6 +1,6 @@
 ---
 title: Bästa tiden för ‘umrah är under ramadan
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Källa: Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah .
  Volym 4. Libanon: Maktaba Dar us-Salam. 163 s. ISBN saknas Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'

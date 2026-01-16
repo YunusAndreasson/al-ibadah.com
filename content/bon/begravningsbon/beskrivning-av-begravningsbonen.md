@@ -1,6 +1,6 @@
 ---
 title: Beskrivning av begravningsbönen
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: Kitāb Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh ‘Abd al-‘Azīz
  ibn ‘Abd-Allāh ibn Bāz, vol 13, s. 141
 categories:

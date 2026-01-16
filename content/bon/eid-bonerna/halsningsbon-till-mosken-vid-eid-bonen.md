@@ -1,7 +1,7 @@
 ---
 title: Hälsningsbön till moskén vid ‘eid-bönen
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: al-Ladjnah ad-Da’imah Li’l-Buhooth al-‘Ilmiyyah wa’l-Iftā’, 7/274
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
+source: al-Ladjnah ad-Dā’imah Li’l-Buhooth al-‘Ilmiyyah wa’l-Iftā’, 7/274
 categories:
   - Bön (Salāh)
   - '''Eid-bönerna'

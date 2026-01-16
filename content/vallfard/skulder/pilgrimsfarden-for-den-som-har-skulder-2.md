@@ -1,6 +1,6 @@
 ---
 title: Pilgrimsfärden för den som har skulder
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'al-Ladjnah al-Dā’imah li’l-Buhūth al-‘Ilmiyyah wa’l-Ifta’, 11/45 Muhammed
  Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:

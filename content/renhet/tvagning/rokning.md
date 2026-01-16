@@ -1,6 +1,6 @@
 ---
 title: Rökning
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwā al-Lajnah al-Dā’imah, 13/57
 categories:
   - Renhet (Tahārah)

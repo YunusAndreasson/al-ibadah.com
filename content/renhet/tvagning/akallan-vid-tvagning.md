@@ -1,6 +1,6 @@
 ---
 title: Åkallan vid tvagning
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Lajnah al-Dā’imah, 5/205
 categories:
   - Renhet (Tahārah)

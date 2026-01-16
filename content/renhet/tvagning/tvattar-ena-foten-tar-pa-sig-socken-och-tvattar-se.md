@@ -1,6 +1,6 @@
 ---
 title: Tvättar ena foten, tar på sig socken och tvättar sedan den andra foten
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 340 s. ISBN 9960-892-66-2'
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Läsa Koranen i grupp
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: al-Bid'u wal-Muhdathāt wa mā lā Asla lahu – sida 562
 categories:
   - Troslära (´Aqīdah)

@@ -1,6 +1,6 @@
 ---
 title: Klippa naglarna under ihrām
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah, 11/178
 categories:
   - Vallfärd (Hajj)

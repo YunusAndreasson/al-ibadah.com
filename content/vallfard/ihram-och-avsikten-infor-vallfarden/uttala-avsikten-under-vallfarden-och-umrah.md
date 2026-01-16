@@ -1,6 +1,6 @@
 ---
 title: Uttala avsikten under vallfärden och ‘umrah
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 114 s. ISBN saknas'
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Villkor för att stryka över sockarna
-author: Muḥammad bin Salih al-´Uthaymin
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: I’lām al-Musāfirīn bi Ba’d Ādāb wa Ahkām al-Safar wa mā yakhuss al-Mallāhīn
  al-Jawwiyyīn av shaykh Muḥammad ibn Sālih al-‘Uthaymīn, s. 14
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Vet inte om avlidna far- och morförälder har vallfärdat
-author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
+author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-´ilmiyyah wal-Iftā – Volym 11,
  sida 107, fatwa 6505
 categories:
