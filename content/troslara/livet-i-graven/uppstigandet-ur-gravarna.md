@@ -26,19 +26,19 @@ I *al-Bukhārī* och *Muslim* berättas att profeten – över honom vare Allāh
 Sedan läste han och sade:
 
 > ”Den Dagen ska vi rulla ihop himlen som en fullskriven pergamentrulle. Liksom Vi grep Oss an med den första skapelsen ska Vi förnya den – för detta löfte borgar Vi och Vi har makt att göra det!” [Koranen 21:104]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Den första som ska kläs på Återuppståndelsens Dag är Abraham. En grupp ur mitt samfundet kommer att ryckas till den vänstra sidan och jag kommer att skrika ut: 'Mina följeslagare!' Det kommer att sägas: 'De blev avfällingar efter att du hade lämnat dem.' Och jag kommer då, som den gode Guds-tjänaren Jesus sade, säga: 'Vad jag har sagt till dem är det som Du har befallt mig [att säga]: 'Dyrka Gud, min Herre och er Herre.' Jag var vittne till deras handlingar så länge jag levde bland dem, men sedan Du kallade mig till Dig är det Du som vakar över dem; Du är vittne till allt som sker. Om Du straffar dem är de ju Dina tjänare; och om Du förlåter dem är Du den Allsmäktige, den Vise.” [Koranen 5:117 – 118]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Människorna kommer att skakas till liv på Återuppståndelsens Dag och jag kommer att vara den förste som marken öppnas för.” [*al-Bukhārī* 2412]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Jag kommer att vara den förste som återfår medvetandet.” [al-Bukhārī 2412]
 
 Du kan få ytterligare detaljer om de två ovan nämnda haditherna i boken *al-’aqīdah at-Tahawiyah* där imam at-Tahawi berättar om folkets tillstånd på Återuppståndelsens Dag.

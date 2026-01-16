@@ -18,10 +18,10 @@ description: 'Fråga: Jag har svurit en trohetsed till Allāh om att jag ska val
 **Fråga:** Om det som hindrade dig från att vallfärda under några år berodde på något som du inte kunde påverka, då har du inte syndat. Anledningen är att Allāh har sagt:
 
 > ”Gud lägger inte på någon en tyngre börda än han kan bära.” [Koranen 2:286]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Gud vill inte lägga på er tunga bördor, men [Han] vill rena er och fullkomna Sin nåd mot er – kanske känner ni tacksamhet.” [Koranen 5:6]
 
 Och all framgång kommer från Allāh. Må Allāh sända välsignelser och frid över vår ledare Muḥammad och hans följeslagare.

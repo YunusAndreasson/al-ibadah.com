@@ -17,15 +17,15 @@ description: 'Fråga: Hur kan en pilgrim vara uppriktig mot Allāh då denne utf
 **Svar:** All lovprisan tillhör Allāh. Uppriktighet är ett nödvändigt villkor i all dyrkan och ingen dyrkan är giltig om någon eller något sätts vid sidan av Allāh. Han säger:
 
 > ”Var och en som med hopp ser fram mot mötet med sin Herre ska [sträva efter att] leva ett gott och rättskaffens liv och inte göra någon delaktig av den dyrkan som han ägnar sin Herre!” [Koranen 18:110]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Men inga andra påbud gavs dem än att dyrka Gud med ren och uppriktig tro liksom de som i gångna tider sökte sanningen, och att förrätta bönen och att hjälpa de behövande.” [Koranen 98:5]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Dyrka därför Gud med ren och uppriktig tro! Ja, ren, uppriktig tillbedjan är Gud förbehållen!” [Koranen 39:2 – 3]
 
 Enligt en sann *hadīth[^1] qudsi* säger profeten – över honom vare Allāhs frid och välsignelser:

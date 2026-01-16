@@ -18,20 +18,20 @@ description: 'Fråga: Vilket är utlåtandet om någon som avvisar det kommande 
 **Svar:** Den som avvisar tron på det kommande livet och påstår att det är en vidskepelse från förr är enligt Allāhs den Upphöjdes ord en icke-troende:
 
 > ”Och de säger: ’Det finns ingenting annat än detta jordiska liv; vi kommer inte att återuppväckas [från de döda].¨Om du kunde se dem när de förs fram inför sin Herre [och] Han säger: ’Är inte detta den sanna verkligheten?’ [och då] svarar de: ’Jo, vid vår Herre! Så är det!’ [Då] ska Han säga: ’Smaka nu straffet för ert förnekande av sanningen!’” [Koranen 6:29 – 30]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Förlorarna denna Dag är de som förnekade sanningen, som förnekade Domens dag! Ingen förnekar den utom den som överträder alla förbud och som sjunkit i synd, den som, när Våra budskap läses upp för honom, säger: ’[Det där är bara] sagor från förfäders tid!’ Nej [de är lögnare]! Det [onda] de har gjort har förlamat deras hjärtan! Nej! Denna Dag kommer de och de kommer helt säkert att brinna i helvetets eld, medan de [hör en röst] säga: ’Det är detta som ni brukade kalla en lögn!’” [Koranen 83:10 – 17]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Men detta är inte nog! Det som de förnekar är den Yttersta stunden – och för dem som förnekar den Yttersta stunden har Vi en flammande Eld i beredskap.” [Koranen 25:11]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”De som framhärdar i att förneka sanningen i Guds budskap och [människans kommande] möte med Honom, för dem är allt hopp om Min nåd och Min barmhärtighet ute och [i det kommande livet] väntar dem ett svårt lidande.” [Koranen 29:23]
 
 För att övertyga dem som avvisar detta kan man använda följande bevis:

@@ -17,10 +17,10 @@ description: 'Fråga: En man kom från sitt land till Jiddah med avsikt att utf�
 **Svar:** All lovprisan tillhör Allāh. Profeten – över honom vare Allāhs frid och välsignelser – utsåg särskilda platser för *ihrām[^2]* varifrån den som vill utföra pilgrimsfärden eller *‘umrah[^1]* måste träda in i *ihrām[^2]*. Det är inte tillåtet att passera förbi dem innan man har trätt in i *ihrām[^2]*. Passerar man dem innan man har trätt in i *ihrām[^2]* överträder man de gränser som Allāh har fastställt. Han säger:
 
 > ”Överträd inte de gränser som Gud [har fastställt] – de som överträder de av Gud [fastställda] gränserna är syndare.” [Koranen 2:229]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Den som överträder dessa av Gud [givna] regler har begått orätt mot sig själv.” [Koranen 65:1]
 
 I bland annat *al-Sahīhayn* har det återberättats från Ibn 'Abbās att profeten – över honom vare Allāhs frid och välsignelser – utsåg *mīqāt[^3]* för de från Medina till att vara Dhu'l-Hulayfah; al-Jahfah för de från Shām [Syrien]; Qarn al-Manāzil för de från Najd och Yalamlam för de från Jemen. Profeten – över honom vare Allāhs frid och välsignelser – sade då:

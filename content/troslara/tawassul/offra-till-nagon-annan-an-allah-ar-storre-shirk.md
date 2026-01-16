@@ -26,10 +26,10 @@ Allāh den Upphöjde klargör i denna vers att offer till någon annan än Honom
 I denna sura lär Allāh – upphöjd är Han – Sin Profet att [han ska] be och offra till Honom. Detta står i motsats till de som begått shirk[^1], som ber och slaktar för andra än Allāh. Allāh den Upphöjde säger:
 
 > ”Er Herre har befallt, att ni inte ska dyrka någon annan än Honom.” [Koranen 17:23]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Men inga andra påbud gavs dem än att dyrka Gud med ren och uppriktig tro.” [Koranen 98:5]
 
 Det finns många verser som förmedlar denna mening.

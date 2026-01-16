@@ -20,10 +20,10 @@ description: 'Fråga: När jag studerade brukade jag stjäla böcker från skola
 I vissa fall kan någon känna skam då han inte vill möta personen och erkänna att han stulit. Om situationen förhåller sig på detta vis för dig kan du, exempelvis, tala med en vän till skolans rektor och informera dem om vad som inträffat och samtidigt berätta att du ångrat dig inför Allāh den Allsmäktige. Ge sedan denna person den summa du är skyldig och be honom att överlämna den till rektorn eller den ansvarige för skolan. Om du gör detta ska du veta att Allāh den Högste säger:
 
 > ”Gud visar var och en som fruktar Honom en utväg ur [alla svårigheter].” [Koranen 5:2]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Och för var och en som fruktar Honom gör Gud uppgiften lätt.” [Koranen 65:4]
 
 Anta att du inte vet vem det är du stulit från eller att du vet vem det är men inte var han befinner sig, då är detta än lättare. Du kan ge i välgörenhet en summa likvärdig med vad du stulit, i avsikt att det ska vara för den personen som du stulit från. Därigenom är du frigjord från ditt ansvar.

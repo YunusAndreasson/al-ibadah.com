@@ -18,7 +18,7 @@ description: 'Fråga: Min vän frågar: ”Min mor blir snabbt arg och hon åkal
 
 Samtidigt är det obligatoriskt för föräldrar att vara varsamma mot sina barn och behandla dem vänligt på ett sådant sätt att det förhindrar dem från att vara olydiga. Allāh den Allsmäktige säger: ”Samarbeta för att befrämja fromhet och gudsfruktan, och slut er inte samman för att befrämja synd och fiendskap.” [Koranen 5:2]
 
-Föräldrarna bör åkalla för sina barn för vägledning och välbefinnande – inte för motsatsen. Detta gäller speciellt under de tidpunkter då det är sannolikare att bönen besvaras. 
+Föräldrarna bör åkalla för sina barn för vägledning och välbefinnande – inte för motsatsen. Detta gäller speciellt under de tidpunkter då det är sannolikare att bönen besvaras.
 
 Och hos Allāh finns medlen till vad som är rätt.
 

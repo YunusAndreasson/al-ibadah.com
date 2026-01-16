@@ -28,15 +28,15 @@ Att stryka över sockarna har rapporterats i *ahādīth[^2]* som är *mutawatir*
 Det finns dock villkor för att få stryka över lädersockar:
 
 > 1. Att man tog på sig dem när man var fullständig rituell ren, fri från både den mindre och den större orenheten. Tog man inte på sig dem när man var rituellt ren är det inte rätt att stryka över dem.
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > 2. Att strykandet sker under en period då det är tillåtet, vilket vi ska förklara senare, om Allāh vill.
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > 3. Att strykandet sker under den mindre orenheten, det vill säga tvagningen[^3]. Blir det nödvändigt med *ghusl[^4]* måste man ta av lädersockarna för att tvätta hela kroppen. Därför får man inte stryka över dem vid den större orenheten. Detta har rapporterats i en *hadīth[^2]* från Safwan bin 'Asal i vilken han säger: ”*Allāhs sändebud brukade beordra oss att ta av våra lädersockar när vi reste under tre dagar och tre nätter, så länge det inte berodde på en stor orenhet*.”
 
 Dessa är de tre villkoren för att få stryka över lädersockar.

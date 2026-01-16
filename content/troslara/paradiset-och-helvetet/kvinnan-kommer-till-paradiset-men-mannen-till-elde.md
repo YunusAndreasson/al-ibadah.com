@@ -17,10 +17,10 @@ description: 'Fråga: Om en kvinna är en av Paradisets invånare och hon inte h
 **Svar:** Svaret baseras på den generella betydelsen av versen i vilken Allāh säger:
 
 > ”Och där ska allt som era själar längtar efter vara ert och det ni ber om ska ni få.” [Koranen 41:31]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > "Och där ska finnas allt det som själarna längtar efter och som är en fröjd för ögat. Och där ska ni förbli till evig tid.” [Koranen 43:71]
 
 Så om en kvinna tillhör Paradisets invånare och hon inte har gift sig eller om hennes man inte är en av Paradisets invånare, då kommer det att finnas män som inte har gift sig när hon stiger in i Paradiset. Dessa män kommer att ha fruar från hur al-‘iyn och fruar från denna värld om de så vill.

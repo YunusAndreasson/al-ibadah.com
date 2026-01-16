@@ -30,10 +30,10 @@ Det enda som du behöver göra är att ta igen de dagar som du har missat att fa
 Anledningen som du uppgav för att lämna bönen – att du inte kände till riktningen mot *qiblah[^2]* – och att du inte åt eller drack deras mat, den är inte korrekt. För det är obligatorisk för dig att be enligt din bästa förmåga och göra det så gott du kan. Anledningen är att Allāh har sagt:
 
 > ”Gud lägger inte på någon en tyngre börda än han kan bära.” [Koranen 2:286]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Frukta därför Gud efter måttet av er förmåga.” [Koranen 64:16]
 
 Och profeten – över honom vare Allāhs frid och välsignelser – har sagt:

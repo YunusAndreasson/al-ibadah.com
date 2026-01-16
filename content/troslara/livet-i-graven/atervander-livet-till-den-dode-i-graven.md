@@ -84,60 +84,60 @@ Han bad sedan om ett färskt palmlöv, delade det i två delar, planterade ett p
 Utfrågningen och den efterföljande belöningen eller bestraffningen i graven, enligt dess invånares tro och handlingar, har det rapporterats från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i så stor omfattning att det inte är möjligt att förneka detta. Ingen dispyt är känd bland följeslagarna i denna fråga och därför bekräftar *ahlus-sunnah[^1] wal-jamā’at* det. Bland de återgivelser som bekräftar det finns de från imam Ahmad i hans *Musnad*, Abū Dawūd i hans *Sunan*, al-Hakim samt Abū 'Awanah al-Asfara'īni i deras *Sahīh*. De rapporterar från al-Bara' bin 'Azib att han har sagt:
 
 > ”Vi var vid en begravning i al-Gharqad när Allāhs sändebud – över honom vare Allāhs frid och välsignelser – kom till oss och satte sig ned. Vi satte oss runt honom som om det fanns fåglar över våra huvuden [detta betyder att de tyst satte sig ned och lyssnade uppmärksamt]. Medan han grävde sade han: 'Jag söker min tillflykt hos Allāh från straffet i graven.' Detta sade han tre gånger och sedan sade han: 'När en troende tjänare är nära Nästa Liv och på väg att lämna detta, då kommer änglarna ned till honom. Deras ansikten [skiner] som solen och med dem finns en av Paradisets svepningar samt balsamerad vätska från Paradisets väldoft och de kommer att sitta inom synhåll. Sedan kommer dödsängeln, sätter sig vid hans huvud och säger: 'Du vackra själ! Kom ut för att få förlåtelse och för att få Allāhs välvilja.’
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > Han sade: 'Och den rinner ut som en droppe [vatten] rinner ur ett vattenskinn, sedan tar han den, men när han tar den, lämnar de [andra änglarna] den i hans hand under ett kort ögonblick. Sedan tar de den och placerar den i svepningen och den balsamerande vätskan. Den arom som då strömmar från den är som den finaste mysk som kan finnas på jordens yta.'
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > Han sade: 'Sedan tar de upp med den och de passerar inte förbi en enda grupp änglar utan att de frågar: 'Vems är denna vackra själ?' De kommer att svara: 'Det är den-och-dens, sonen till den-och-den.' Tills de når himmeln kommer de att kalla på honom med de vackraste namnen som han kallades för i denna världen. Sedan kommer de att be om tillstånd för den att få träda in och himmeln öppnas för den [själen] och invånarna i varje himmel tar den till nästa himmel, tills de når himmlen som är Allāhs. Då kommer Allāh den Allsmäktige att säga: 'Skriv Min tjänares handlingar i *'illiyyin*[Ett Register där de rättfärdigas handlingar nedtecknas], lämna sedan honom åter till jorden, för Jag skapade honom från den och till den återlämnar Jag dem och från den kommer Jag att låta dem stiga upp en gång till.'
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > Han sade: 'Sedan återlämnas själen till dess kropp och de två änglarna kommer till honom, de sätter sig jämte honom och säger: 'Vem är din Herre?' Han svarar: 'Min Herre är Allāh.' Sedan säger de till honom: 'Vilken är din religion?' Och han svarar: 'Min religion är islam.' Sedan frågar de honom: 'Vem är denne man som har sänts till dig?' Han svarar: 'Han är Allāhs sändebud.' Sedan säger de till honom: 'Vilken är din kunskap?' Han säger: 'Jag har läst Allāhs skrift och jag tror på den.' Sedan ropar en röst från himmeln och säger: 'Min tjänare har sagt sanningen, så förse honom från Paradiset och öppna en dörr till Paradiset.'
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > Han sade: 'Sedan kommer luften och dess väldoft till honom och hans grav vidgas för honom så långt han kan se.'
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > Han sade: 'Sedan kommer en vacker man till honom, prydd med fina kläder och en angenäm doft, och han säger till honom: 'Gläd dig åt vad som tillfredställer dig. Detta är din dag, som du har utlovats.' Han kommer att fråga mannen: ”Vem är du? Ditt ansikte är som hos den som har med sig det goda.' Han kommer att svara: 'Jag är dina rättfärdiga handlingar.' Han kommer att säga: 'Min Herre! Inled Timmen för att jag ska få återvända till min familj och min egendom.'
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > Han sade: 'Och sannerligen, den icke-troende, då denne är nära det Nästkommande och på väg att lämna livet i denna världen, kommer änglarna ned till honom från himmeln, deras ansikten är svarta, med dem finns en grov bit av en […] och de sitter inom hans åsyn. Sedan kommer dödsängeln, sätter sig nära hans huvud och säger: ”Du ondskefulla själ! Kom ut till Allāhs vrede och ilska!'
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > Han sade: 'Och den [dödsängeln] börjar sprida sig inuti hans kropp och han drar ut den [själen], som en järnstång dras ut från våt ull. Han tar den, och när han tar den lämnar de inte den i hans hand under mer än ett ögonblick innan de lägger den i säcken och den värsta lukt som finns på jordens yta flödar ut från den. Sedan stiger de upp med den och de passerar inte förbi en enda grupp av änglar utan att de frågar: 'Vems är denna onda själ?' De svarar: 'Det är den-och-dens, sonen till den-och-den' och de kallar honom för de värsta namn som han var känd med under hans liv i denna världen, tills de når den lägsta delen av himmeln med den. Sedan ber de om tillstånd för honom att få träda in, men den öppnas inte för honom.'
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > Sedan reciterade Allāhs sändebud: ”Himlens portar ska förbli stängda för dem som påstår att Våra budskap är lögn och högmodigt vänder sig från dem; det blir inte lättare för dem att komma in i paradiset än för ett rep att tränga igenom ett nålsöga.” [Koranen 7:40]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > 'Och Allāh den Allsmäktige, den Majestätiske – sade sedan: 'Nedteckna hans handlingar i *Sijjin[^3]* i den lägsta jorden.' Och hans själ kastas ned.'
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > Sedan reciterade han: ”[Dyrka] Gud med den rena, ursprungliga tron och sätt ingenting vid Hans sida; [med] den som sätter något vid Guds sida är det som om han störtade från skyn och blev fåglarnas rov, eller fördes långt bort av vinden till en okänd plats.” [Koranen 22:31]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > Han sade: 'Sedan återlämnas hans själ till hans kropp, två änglar kommer till honom, de sitter med honom och säger: 'Vem är din Herre?' Han svarar: 'Åh! Åh! Jag vet inte!' Sedan frågar de: 'Vem är mannen som har sänts till dig?' Han svarar: 'Åh! Åh! Jag vet inte!' Sedan säger en röst från himmeln: 'Han har ljugit, förse honom med eld och öppna en dörr till Helveteselden för honom.' Sedan kommer dess hetta och vind till honom och hans grav görs så trång att hans revben hamnar fel. Sedan kommer en man med ett fult ansikte och en hemsk lukt till honom och säger: 'Gläd dig åt vad som plågar dig. Detta är din dag, som du har utlovats.' Han kommer att fråga: 'Vem är du, ditt ansikte är ansiktet hos den som för ont med sig?' Han kommer att svara: 'Jag är dina onda handlingar.' Så han kommer att säga: 'Min Herre! Inled inte Timmen!' [*Ahmad* 4:287, 288 och 295, 296]"
 
 Det är inte bortom tron att änglarna i gravarna ska fråga ut de döda, att de döda kommer att svara dem och att de kommer att få belöningar enligt deras handlingar. Det motsäger heller inte Allāhs magnifika förmåga och undren i Hans universella sunnah[^1], att Han skulle belöna de troende i deras gravar samt straffa de icke-troende i deras. Den som studerar skapelsen kommer tydligt att se det universella i Allāhs vilja och dess implementation, den allgenomträngade naturen i Hans kraft, dess perfektion, excellensen i Hans skapelse, precisionen i Hans organisation, Hans formgivelse av Hans skapelse och hur Han har gjort det lätt för människan att tro på de autentiska haditherna om utfrågningen i gravarna samt den belöningen eller bestraffningen som kommer efter.

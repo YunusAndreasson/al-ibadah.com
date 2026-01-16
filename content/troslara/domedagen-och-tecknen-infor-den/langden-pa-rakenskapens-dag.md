@@ -27,10 +27,10 @@ I *Sahīh Muslim* finns en *hadīth[^1]* återgiven av Abū Hurairah i vilken pr
 Denna långa dag kommer att vara svår för de icke-troende. Allāh säger:
 
 > ”Och för dem som förnekade sanningen ska detta bli en Dag av djupt elände.” [Koranen 25:26]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”När det blåses i basunen har en svår Dag randats för dem som [ständigt] förnekade sanningen, och ingen lättnad ska ges dem!” [Koranen 74:9 – 10]
 
 Det som kan förstås från dessa båda verser är att det kommer att bli lätt för den troende, och så är sannerligen fallet. Denna långa Dag med dess otrevligheter och allvarliga frågor kommer Allāh att göra lätt för den troende, men den kommer att vara svår för den icke-troende. Jag ber Allāh att han gör mig och mina muslimska bröder till dem som Han kommer att göra det lätt för på Återuppståndelsens Dag.

@@ -18,20 +18,20 @@ description: 'Fråga: Vilket är utlåtandet om dem som alltid fastar 30 dagar u
 **Svar:** Utförliga *ahādīth[^2]* från Allāhs sändebud, konsensus bland följeslagarna och de lärde som följde dem i rättfärdighet bevisar att månaden antingen är 29 eller 30 dagar. Den som då alltid fastar 30 dagar utan att titta efter månen har motsatt sig profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]* och konsensus. Denne har också introducerat något i religionen som Allāh inte har tillåtit. Allāh säger:
 
 > ”Följ det som har uppenbarats för er av er Herre, och följ inte [andra som ni har tagit till] beskyddare i Hans ställe.” [Koranen 7:3]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Tag alltså emot vad [Hans] Sändebud ger er [av detta] och avstå [villigt] från det som han när er; och frukta Gud; Gud straffar med stränghet.” [Koranen 59:7]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Dessa är de gränser som Gud [har fastställt]. Gud ska föra den som lyder Honom och Hans Sändebud till lustgårdar, vattnade av bäckar, där han ska förbli till evig tid. Detta är den stora, den lysande segern. Men den som trotsar Gud och Hans Sändebud och överträder de gränser Han [har fastställt] ska föras till Elden och förbli där till evig tid – ett förnedrande straff väntar honom.” [Koranen 4:13 – 14]
 
 Verserna med liknande innebörd är många.

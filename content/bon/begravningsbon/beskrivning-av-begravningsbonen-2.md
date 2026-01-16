@@ -21,10 +21,10 @@ Imamen gör den första *takbīr[^1]* och reciterar sedan sura al-Fātihah. Om h
 Sedan gör han den andra *takbīr[^1]* och sänder böner över profeten – över honom vare Allāhs frid och välsignelser – genom att säga:
 
 > ”*Allāhumma salli 'ala Muḥammadin wa 'ala āli Muḥammadin kama sallayta 'ala Ibrahīm wa 'ala āli Ibrahīma innaka hamīdun majīd; Allāhumma barik 'ala Muḥammadin wa 'ala āli Muḥammadin kama barakta 'ala ibrahīm wa 'ala āli ibrahīma innaka hamīdun majīd*.”
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > [Gud! Välsigna Muḥammad, och välsigna Muḥammads familj, såsom Du välsignade Abraham och Abrahams familj, Du är i sanning Lovprisad, fylld av lysande Härlighet. Gud! Ge Din Nåd till Muḥammad, och ge Din Nåd till Muḥammads familj, såsom Du gav Din Nåd till Abraham och Abrahams familj, Du är i sanning Lovprisad, fylld av lysande Härlighet]
 
 Därefter gör man den tredje *takbīr[^1]* och åkallar[^3] med de ord som har rapporterats från profeten:

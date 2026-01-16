@@ -18,25 +18,25 @@ description: 'Fråga: Hur såg salaf – må Allāh vara nöjda med dem – på 
 **Svar:** Salaf[^1] s tro är att Allāh den Upphöjde är ovan Hans skapelse. Allāh den Upphöjde har sagt:
 
 > ”Om ni då råkar i tvist om något, överlåt då avgörandet åt Gud och Sändebudet, om ni tror på Gud och den yttersta dagen. Detta är bäst och det [gynnar] en riktig och lycklig utgång.” [Koranen 4:59]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”[Troende!] Vilken sak det än gäller där ni är oense, är det Gud som har avgörandet.” [Koranen 42:10]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”De som lyder Gud och Hans Sändebud, som fruktar Gud och ständigt har Honom för ögonen, det är de som ska vinna den stora segern.” [Koranen 24:51 – 52]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Och när en fråga som rör en troende man eller kvinna har avgjorts av Gud och Hans Sändebud, har dessa inte rätt att själva döma i det som rör dem; den som sätter sig upp emot Gud och Hans Sändebud begår ett uppenbart svårt misstag.” [Koranen 33:36]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Nej, vid din Herre! De är inte [sanna] troende förrän de sätter dig [Muḥammad] som domare att döma mellan dig i alla sina tvister och därefter inte i sitt inre har någon invändning mot dina beslut utan underkastar sig dem helt och fullt.” [Koranen 4:65]
 
 Det är tydligt att den troendes tillvägagångssätt när oenigheter uppstår är att gå tillbaka till Allāhs den Upphöjdes skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]*, att höra och lyda, att inte välja ett utlåtande från någon annan källa, att inte orsaka svårigheter och att underkasta sig fullständigt. Tro uppnås inte på något annat sätt än detta. Avviker man från denna väg kommer det att leda till vad Allāh har beskrivit:
@@ -57,20 +57,20 @@ Belägg likt dessa som härstammar från Allāhs den Upphöjdes skrift och Hans 
 De rättfärdige *salaf[^1]* – må Allāh vara nöjda med dem – är eniga om vad som fordras genom dessa texter. De bekräftar att Allāh är upphöjd och att Han är ovan Sin skapelse. Likaså är de helt eniga om att bekräfta att upphöjdheten avser Honom och att Hans egenskaper är upphöjda. Allāh den Upphöjde säger:
 
 > ”Enbart de högsta egenskaperna kan tillskrivas Honom i himlarna och på jorden. Han är den Allsmäktige, den Vise.” [Koranen 30:27]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Guds är fullkomlighetens sköna namn; anropa Honom alltså med dessa [namn].” [Koranen 7:180]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Och gör inte Gud till föremål för jämförelser! Gud vet [allt], men ni har ingen [verklig] kunskap.” [Koranen 16:74]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Sätt därför inte medgudar vid Guds sida, då ni vet [att Gud är utan like].” [Koranen 2:22]
 
 Det finns även andra verser som bevisar perfektionen i Hans egenskaper och handlanden.

@@ -24,7 +24,7 @@ description: 'Fråga: Vi skulle vilja ha råd om vilka böcker om islamisk kunsk
 Dessa fyra böcker är skrivna av shaykh al-islām Muḥammad ibn ’Abd al-Wahhāb.
 5. *al-’aqīdah al-Wāsitiyyah* tar upp *tawhīd[^1] al-asmā’ wa’l-sifāt* (Detta är en av de bästa böcker som har skrivits i detta ämne och därmed klart läsvärd.)
 6. *al-Hamawiyyah*
-7. *al-Tadmuriyyah* 
+7. *al-Tadmuriyyah*
 
 Dessa båda böcker är mer omfattande än *al-Wāsitiyyah*. Alla är skrivna av *shaykh al-islām* Ibn Taymiyah.
 8. *al-’aqīdah al-Tahhāwiyyah* av shaykh Abū Ja’far Ahmad ibn Muḥammad al-Tahhāwi

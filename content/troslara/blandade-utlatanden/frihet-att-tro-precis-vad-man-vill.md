@@ -22,10 +22,10 @@ Religioner är inte koncept utan de är uppenbarelser från Allāh den Allsmäkt
 Den som tror att det är tillåtet att följa vilken religion man vill, denne är inte någon som tror på Allāh den Allsmäktige. Detta beror på att Han den Upphöjde säger:
 
 > ”Om någon vill anta en religion som inte innebär underkastelse under Guds vilja kommer detta att vägras honom, och i nästa liv ska han stå bland förlorarna.” [Koranen 3:85]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”För Gud är [den sanna] religionen underkastelse under Hans vilja.” [Koranen 3:19]
 
 Det är då inte tillåtet att tro att en annan religion än islam är godkänd och att det är tillåtet att dyrka genom den. Om någon tror det, då har de lärde förklarat att denne är en icke-troende som står utanför islam.

@@ -48,25 +48,25 @@ c] Det tredje är att de underkastar sig fullständigt genom att acceptera hans 
 Den andra kategorin: Här gäller Allāhs den Upphöjdes ord:
 
 > ”De som inte dömer enligt vad Gud har uppenbarat, de är [i sanning] förnekare.” [Koranen 5:44]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Ja, de som inte dömer enligt vad Gud har uppenbarat begår orätt mot sig själva.” [Koranen 5:45]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Låt därför dem som följer Evangeliet döma enligt vad Gud där har uppenbarat; de som inte dömer enligt vad Gud har uppenbarat är syndare som trotsar Gud.” [Koranen 5:47]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > Tillämpas dessa tre kännetecken på en person? Med innebörden att alla som dömer med något annat än vad Allāh har uppenbarat är icke-troende, sådana som handlar felaktigt och överträder gränser? Allāh den Upphöjde har beskrivit de icke-troende som personer som handlar felaktigt och överträder gränser. Han den Upphöjde säger: ”De som förnekar sanningen är svåra syndare.” [Koranen 2:254]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”De förnekade Gud och Hans Sändebud och de avled med [hyckleriet i hjärtat och] trots i sinnet.” [Koranen 9:84]
 
 Varje icke-troende är därmed någon som handlar felaktigt och överträder gränser. Eller är det så att dessa kännetecken tillämpas på ett antal personer från vilken avsikt de hade när de inte dömde enligt vad Allāh har uppenbarat? Detta är, enligt min åsikt, det som är närmst sanningen. Och Allāh vet bäst.

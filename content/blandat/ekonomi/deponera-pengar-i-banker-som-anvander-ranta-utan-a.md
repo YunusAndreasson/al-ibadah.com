@@ -14,7 +14,7 @@ description: 'Fråga: Vilket är det islamiska utlåtandet om de som arbetar i b
 
 **Fråga:** Vilket är det islamiska utlåtandet om de som arbetar i banker och de som placerar sina pengar i dem utan att ta ut en räntebaserad vinst?
 
-**Svar:** Det råder ingen tvekan om att det är förbjudet att ha något att göra med banker som använder ränta då detta innebär att man hjälper dem med synd och överträdelse. Allāh säger: 
+**Svar:** Det råder ingen tvekan om att det är förbjudet att ha något att göra med banker som använder ränta då detta innebär att man hjälper dem med synd och överträdelse. Allāh säger:
 
 > ”Samarbeta för att befrämja fromhet och gudsfruktan, och slut er inte samman för att befrämja synd och fiendskap. Och frukta Gud! Gud straffar med stränghet.” [Koranen 5:2]
 

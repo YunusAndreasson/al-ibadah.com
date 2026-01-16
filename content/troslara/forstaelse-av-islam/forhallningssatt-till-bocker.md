@@ -44,7 +44,7 @@ Bland de böcker som den som söker kunskap absolut måste läsa kan *shaykh al-
 
  Utvärdera böcker
 
-Böcker kan delas in i tre kategorier: 
+Böcker kan delas in i tre kategorier:
 
 1. Bra böcker,
 2. dåliga böcker och

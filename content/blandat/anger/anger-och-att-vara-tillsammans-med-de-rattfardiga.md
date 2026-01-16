@@ -24,10 +24,10 @@ Du måste vid upprepade tillfällen be Allāh den Allsmäktige om förlåtelse, 
 För att du ska kunna ångra dig fullständigt över dina synder måste du återgälda rättigheterna till de människor du handlat felaktigt mot. Allāh den Allsmäktige säger:
 
 > ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå er väl i händer!” [Koranen 24:31]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Troende! Vänd er i uppriktig ånger [över era synder] till Gud! Kanske ska er Herre ur er [bok] utplåna era dåliga handlingar och före er till lustgårdar, vattnade av bäckar.” [Koranen 66:8]
 
 Profeten har sagt:
@@ -41,15 +41,15 @@ Jag råder dig inte enbart till att försöka följa med de rättfärdiga, utan 
 När det gäller böcker ger jag dig rådet att läsa Allāhs skrift; du reciterar, reflekterar över och tillämpar den. Allāhs skrift är den noblaste och förnämsta av alla böcker. Inga krokigheter kommer nära denna Bok och det är en uppenbarelse från den Mest Vise, Den som förtjänar all lovprisan. Det är den nyttigaste skriften ur den aspekten att den innehåller botemedel för ett sjukt hjärta. Allāh den Allsmäktige – säger:
 
 > ”Denna Koran leder [människan] till den rätta, den raka vägen.” [Koranen 17:9]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Människor! Ni har nu fått ta emot förmaningar och varningar från er Herre och en läkedom mot det [onda] som bor i människors bröst, och vägledning och nåd för dem som tror.” [Koranen 10:57]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Detta är en välsignad Skrift som Vi har uppenbarat för dig, [Muḥammad]. Människorna bör tänka över dess budskap och lägga dem på minnet, om de har förstånd.” [Koranen 38:29]
 
 Jag råder dig även att läsa följande böcker som är skrivna av sunnah[^2] ns folk: *Kitab at-Tawhīd[^3]* (av Muḥammad bin ´Abdul Wahhab), *al-'Aqidah al-Wastitiyah* (av *shaykh ul-islām* Ibn Taymiyyah), *Ighathatul-Lahfan* (av Ibn al-Qayyim), *al-Arba'in an-Nawawiyah* (av al-Hafiz Ibn Hajar), *'Umadatul-Hadīth* (av *shaykh* ´Abdul-Ghani bin ´Abdul-Wahid Al-Maqdisi) och *Bulugh al-Maram* (av al-Hafiz Ibn Hajar).

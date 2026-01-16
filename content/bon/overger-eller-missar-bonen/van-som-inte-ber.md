@@ -22,7 +22,7 @@ I en *hadīth[^1]* återberättad av Jabir säger profeten – över honom vare 
 
 Detta är på grund av de tidigare *ahādīth[^1]* och andra rapporter med samma innebörd. Detta är sanningen som det inte finns någon tvekan kring. Andra säger att hans otro är av den mindre sorten men att hans brott är större än otukt eller att stjäla. Alla de lärda är dock eniga om att avvisandet av dess skyldighet är otro.
 
-Du som frågeställare bör känna till att du måste råda och varna denna person som du nämnt för farorna i att överge bönen. Om han ångrar sig tillhör all tacksamhet och lovprisan Allāh. Om inte är du skyldig att hata honom för Allāhs skull och frigöra dig från honom tills han ångrar sig inför Allāh för hans otro. Allāh den Allsmäktige säger: 
+Du som frågeställare bör känna till att du måste råda och varna denna person som du nämnt för farorna i att överge bönen. Om han ångrar sig tillhör all tacksamhet och lovprisan Allāh. Om inte är du skyldig att hata honom för Allāhs skull och frigöra dig från honom tills han ångrar sig inför Allāh för hans otro. Allāh den Allsmäktige säger:
 
 > ”Ett gott föredöme har ni i Abraham och de som följde honom, när de sade till sina landsmän: ’Vi är inte ansvariga för er och för det som ni dyrkar i Guds ställe och vi tar avstånd från er. Fiendskap och hat ska råda mellan oss och er ända till dess ni tror på den Ende Guden.” [Koranen 60:4] […]
 

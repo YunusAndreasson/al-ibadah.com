@@ -24,15 +24,15 @@ Detta är anledningen till att när Abū Sufyan talade till Herkules [romarnas k
 I fråga om de framsteg som har ägt rum i de icke-troende länderna i Väst, till exempel när det gäller tillverkningindustrin, finner vi att vår religion inte förbjuder det. Men tyvärr har vi förlorat båda delar: Vi har förlorat vår religion och vi har förlorat den materiella världen. Men faktum är att den islamiska religionen inte motsäger sig dessa framsteg. Allāh den Upphöjde säger:
 
 > ”Och vidtag alla rustningar ni förmår och håll stridshästarna i beredskap så att ni injagar skräck i Guds och era fiender.” [Koranen 8:60]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Det är Han som har skapat jorden för att tjäna er; färdas då över dess vidder och livnär er av det som Han skänker er för er försörjning och [tänk på att] ni ska återuppstå för att möta Honom.” [Koranen 67:15]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Det är Han som för er har skapat allt vad jorden här och som, vänd mot himlavalvet, formade det till sju himlar. Han har kunskap om allt.” [Koranen 2:29]
 
 Det finns fler verser som tydligt säger att människan får göra vinster och arbeta om det inte sker på bekostnad av religionen. Dessa länder i vilka människor inte tror var även från början icke-troende, för religionerna som de följde var felaktiga. Avvisar de religionen är det ingen skillnad mot om de följer den. Allāh den Härlige, den Upphöjde säger:

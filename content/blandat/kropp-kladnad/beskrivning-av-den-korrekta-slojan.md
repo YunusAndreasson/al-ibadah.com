@@ -14,27 +14,27 @@ description: 'Fråga: Jag vill veta hur en korrekt slöja ska se ut? Svar: Shayk
 **Fråga:** Jag vill veta hur en korrekt slöja ska se ut?
 **Svar:** Shaykh al-Albāni har sagt:
 
-1. Den bör täcka hela kroppen utom de delar som har givits undantag för. Allāh säger: 
+1. Den bör täcka hela kroppen utom de delar som har givits undantag för. Allāh säger:
 
 > “Profet! Säg till dina hustrur och dina döttrar – och till [alla] troende kvinnor – att de [utanför hemmet] noga sveper om sig sina ytterplagg; på så sätt blir de lättare igenkända [som anständiga kvinnor] och undgår att bli ofredade. Gud är ständigt förlåtande, barmhärtig.” [Koranen 33:59]
 
 Denna vers konstaterar tydligt att kvinnan måste täcka hela sin skönhet och inte visa något av den för män [som inte är hennes mahram[^1]]. Om något visas utan vilje så syndar kvinnan inte om hon snabbt täcker det som har visats.
 
-al-Hāfiz ibn Kathīr säger i sin *tafsīr[^2]*: 
+al-Hāfiz ibn Kathīr säger i sin *tafsīr[^2]*:
 
 > “Detta betyder att de inte bör visa någon del av sin prydnad för män som inte är mahram[^1], utom det som är omöjligt att dölja. Ibn Mas'ūd har sagt: 'Likt de kappor som de arabiska kvinnorna brukade bära, det vill säga ett yttre klädesplagg som täcker det kvinnorna bar under det yttre plagget, förutom det som syntes under det yttre plagget. Kvinnan syndar inte då det är omöjligt att dölja det.'”
 
-2. Den bör inte vara en prydnad i sig. Allāh säger: “och inte visa mera av sina behag än vad som [anständigtvis] kan vara synligt.” [Koranen 24:31] Den generella innebörden inkluderar här det yttre plagget, är det dekorerat kommer det ju att dra mäns uppmärksamhet till sig. Detta stöds av versen i sura al-Ahzāb: 
+2. Den bör inte vara en prydnad i sig. Allāh säger: “och inte visa mera av sina behag än vad som [anständigtvis] kan vara synligt.” [Koranen 24:31] Den generella innebörden inkluderar här det yttre plagget, är det dekorerat kommer det ju att dra mäns uppmärksamhet till sig. Detta stöds av versen i sura al-Ahzāb:
 
 > “Och stanna i ert hem. Men [om ni måste lämna det] försök inte dra uppmärksamheten till era yttre företräden på det sätt som var vanligt under den hedniska tiden.” [Koranen 33:33]
 
-Det finns även stöd att hämta i den *hadīth[^3]* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: 
+Det finns även stöd att hämta i den *hadīth[^3]* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
 
 > “Det finns tre, fråga mig inte om dem: en man som lämnar församlingen, visar olydnad mot sin ledare och dör ohörsam; en manlig eller kvinnlig slav som flyr och sedan dör; och en kvinna vars man är frånvarande och som har lämnat henne med allt hon behöver, och efter att han lämnat henne så visar hon sig på ett lättsinnigt sätt. Fråga inte om dem.” [al-Hākim 1/119, Ahmad 6/19]
 
 3. Den bör vara kraftig och inte genomskinlig, annars täcker den ju inte tillräckligt väl. Transparenta kläder gör en kvinna mer frestande och vacker. Om detta har profeten – över honom vare Allāhs frid och välsignelser – sagt: “Under mitt samfunds sista dagar kommer det att finnas kvinnor som är klädda men ändå nakna med något på deras huvuden som liknar kamelers pucklar. Förbanna dem, för de är förbannade.” Och i en annan hadīth[^3] finns tillägget: “De kommer inte att träda in i Paradiset eller ens känna dess lukt, även om dess lukt kan kännas ifrån den eller den sträckan.” [Muslim]
 
-Ibn 'Abd al-Barr sade: 
+Ibn 'Abd al-Barr sade:
 
 > “Vad profeten – över honom are Allāhs frid och välsignelser – menade var kvinnor som bär kläder gjorda av ett tunt tyg som visar kroppen utan att täcka. De är klädda till ordets betydelse, men egentligen nakna.” [al-Suyūti in Tanwīr al-Hawālik, 3/103.]
 
@@ -51,7 +51,7 @@ Dessa *ahādīth[^3]* är generella i deras betydelser. Precis som förbudet tä
 
 Anledningen till förbudet är rätt uppenbar då kvinnors väldoft kan framkalla oönskade begär. De lärde har även inkluderat andra saker under denna rubrik som bör undvikas av kvinnor som går till moskén. Detta kan vara: vackra kläder, synliga juveler, överdrivna utsmyckelser och beblandning med män.
 
-Ibn Daqīq al-’Eid har sagt: 
+Ibn Daqīq al-’Eid har sagt:
 
 > “Detta visar att en kvinna som vill gå till moskén inte får bära parfym då det framkallar begär hos männen. Detta har al-Manāwi i Fayd al-Qadīr rapporterat som kommentar till Abū Hurairahs första hadīth[^3] ovan.”
 
@@ -67,13 +67,13 @@ Dessa *ahādīth[^3]* visar tydligt att kvinnor inte får imitera män och vice 
 
 Abū Dawūd har på sidan 261 i *Masā’il al-Imam Ahmad* sagt: “Jag hörde Ahmad tillfrågas om en man som klädde sin kvinnliga slav i en tunika. Han svarade: 'Klä henne inte i mäns kläder, gör inte så att hon liknar en man.'” Abū Dawūd sade: ”Jag sade till Ahmad: ’Kan jag ge henne manssandaler som hon kan bära?’ Han svarade: ’Nej, utom om hon bär dem för att tvaga sig.’ Jag sade: ’Hur är det med hennes skönhet?’ Han svarade: ’Nej.’ Jag sade: ’Kan jag klippa hennes hår kort?” Han svarade: ’Nej.’”
 
-7. I den islamiska lagen har det klargjorts att muslimer – män som kvinnor – inte bör efterlikna de icke-troende i deras dyrkan, högtider eller klädsel som uttryckligen är deras. Detta är en viktig islamisk princip som många muslimer nu för tiden tyvärr försummar, även dem som bryr sig om religionen och kallar andra till den. Detta beror på deras okunskap om religionen, att de följer deras nycker och begär eller avvikelse kombinerat med de icke-troendes seder i Europa. Detta är en av orsakerna till att muslimer har blivit svagare och som har lett till att de har kunnat övermannas och koloniseras: 
+7. I den islamiska lagen har det klargjorts att muslimer – män som kvinnor – inte bör efterlikna de icke-troende i deras dyrkan, högtider eller klädsel som uttryckligen är deras. Detta är en viktig islamisk princip som många muslimer nu för tiden tyvärr försummar, även dem som bryr sig om religionen och kallar andra till den. Detta beror på deras okunskap om religionen, att de följer deras nycker och begär eller avvikelse kombinerat med de icke-troendes seder i Europa. Detta är en av orsakerna till att muslimer har blivit svagare och som har lett till att de har kunnat övermannas och koloniseras:
 
 > ”Gud förändrar inte människor villkor, förrän de ändrar sitt sinnelag; och om det är Guds vilja att ett folk drabbas av olyckor kan ingen avvärja det och ingen utom Gud kan hjälpa dem.” [Koranen 13:11] Om de bara visste.
 
 Det bör kännas till att det finns gott om autentiska bevis för dessa viktiga utlåtanden i Koranen och profetens *sunnah[^5]*. Bevisen i Koranen förklaras utförligare i profetens *sunnah[^5]*, vilket alltid är fallet.
 
-8. Det bör inte vara ett klädesplagg grundat på mode eller högfärd. Ibn ´Umar har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: 
+8. Det bör inte vara ett klädesplagg grundat på mode eller högfärd. Ibn ´Umar har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > “Den som bär ett moderiktigt eller högfärdigt klädesplagg i denna värld kommer Allāh att klä i ett förnedrande plagg Återuppståndelsens Dag, sedan kommer Han att få Elden att flamma upp runt denne.”
 

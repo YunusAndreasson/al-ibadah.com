@@ -16,7 +16,7 @@ description: 'Fråga: Vi har i dessa tider hört vad som skapar dispyter och fö
 
 **Svar:** Jag tror att vad denna broder säger är mycket sällsynt och jag tror inte att någons okunnighet ska nå den nivå att han hotar sin fru med skilsmässa om hon föder honom en flicka. Detta förutom om han var trött på sin fru och använde detta som en ursäkt för skilsmässa. Om det förhöll sig så och han inte stod ut med henne och han försökt men inte kunnat, då kan han skilja sig på ett annat sätt än detta. Detta beror på att det inte finns någon invändan mot skilsmässa när det är nödvändigt.
 
-Efter att ha sagt detta råder vi alla som ser något ogillat i sin fru att vara tålmodig då Allāh den Högste har sagt: 
+Efter att ha sagt detta råder vi alla som ser något ogillat i sin fru att vara tålmodig då Allāh den Högste har sagt:
 
 > ”Om ni fattar ovilja mot dem är det möjligt att ni vänder er ifrån den som Gud skulle ha gjort [till en källa] till rik välsignelse för er.” [Koranen 4:19]
 

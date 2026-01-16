@@ -33,10 +33,10 @@ På liknande sätt ökar tron genom tal. Den som nämner Allāhs namn tio gånge
 Samma gäller handlingar. När en person utför en kroppslig handling i större utsträckning än någon annan, då ökar dennes tro mer än för den som är otillräcklig. Detta har nämnts i Koranen och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*. Det jag avser är bekräftelsen av att tron ökar och minskar. Allāh den Upphöjde säger:
 
 > ”Till Eldens väktare har Vi inte utsett andra än änglarna, och Vi har enbart angett deras antal för att sätta dem som framhärdar i att förneka sanningen på prov, och att de som [i gångna tider] fick del av uppenbarelsen ska få visshet [om sanningen i denna Skrift].” [Koranen 74:31]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”När en sura uppenbarades säger några av dessa [hycklare]; ’Vem av er har känt sin tro stärkas genom detta?’ De troende däremot känner sin tro växa och därför gläds de över [varje ny uppenbarelse]. Men de vars hjärtan är sjuka av tvivel drivs av den [nya uppenbarelsen] allt djupare ned i sin smutsiga synd, och de dör som förnekare.” [Koranen 9:124 – 125]
 
 I en autentisk *hadīth[^2]* från profeten – över honom vare Allāhs frid och välsignelser – har det rapporterats att han sade:

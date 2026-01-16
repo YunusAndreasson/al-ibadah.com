@@ -27,25 +27,25 @@ Genom att vi byter ut predikatet i detta uttryck mot det rätta ordet besvarar v
 Allāh den Välsignades, den Upphöjdes säger:
 
 > ”De gudar som de anropade vid sidan av Gud kunde inte hjälpa dem när deras Herres dom föll; [tron på] dem förde dem bara allt snabbare mot [den slutliga] undergången.” [Koranen 11:101]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Sätt därför inte en annan gud vid Guds sida; då kommer du att kastas, förhatlig och utstött, i helvetet.” [Koranen 17:39]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Och anropa aldrig en annan gud jämte Gud. Det finns ingen gud utom Han. Allt ska förgå utom Han [som förblir i evighet]; domen är Hans och till Honom ska ni föras åter.” [Koranen 28:88]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Och ingöt hos dem tålamod och beslutsamhet. Och de reste sig [mot den hedniska överheten] och sade: ’Vår Herre är himlarnas och jordens Herre. Aldrig kommer vi att anropa en annan gud än Honom; [gjorde vi det] hade vi sannerligen [gjort] något oerhört!” [Koranen 18:14]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > "Se, Vi sände Noa till hans folk och han sade: 'Dyrka Gud, mitt folk – ni har ingen annan gud än Honom! Jag bävar för det straff [som annars ska drabba] er en Dag av svåraste vånda.’” [Koranen 7:59]
 
 Hur kan vi då säga att det inte finns några gudomar jämsides med Allāh när existens av andra gudomar som dyrkas jämsides med honom har bevisats? Hur kan vi bekräfta dyrkan av andra gudomar jämsides med Honom den Upphöjde när sändebuden har sagt till folken:
@@ -65,10 +65,10 @@ Innebörden av *Lā ilāha illAllāh* är att ingen har rätt att dyrkas utom Al
 Vittnesmålet ”*Muḥammad är Allāhs sändebud*” är en bekräftelse i ord och med hjärtats tro på att Muḥammad bin ´Abdullāh al-Qurashi al-Hashimi är Allāhs sändebud till alla skapelser, människor som *jinn[^1]*. Detta är något som Allāh den Allsmäktige talar om i Koranen:
 
 > ”Säg: ’Människor! Jag är Guds Sändebud, [utsänd] till er alla av Honom som äger herraväldet över himlarna och jorden! Det finns ingen gud utom Han – Han som skänker liv och skänker död. Tro därför på Gud och Hans Sändebud, den olärde profeten, som tror på Gud och Hans ord, och följ honom så att ni får vägledning.” [Koranen 7:158]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Välsignad vare Han som steg för steg har uppenbarat för Sin tjänare den måttstock [med vilken rätt kan mätas och skiljas från orätt] och som ska tjäna som en varning för alla folk.” [Koranen 25:1]
 
 Detta vittnesmål nödvändiggör att man:

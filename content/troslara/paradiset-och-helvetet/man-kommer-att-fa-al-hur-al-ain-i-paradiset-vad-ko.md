@@ -18,10 +18,10 @@ description: 'Fråga: Det har nämnts att män kommer att få al-hūr al-’ain 
 **Svar:** Allāh den Välsignades, den Upphöjdes säger om välsignelserna i Paradiset:
 
 > ”Vi är hos er och vakar över er i detta liv och i det liv som ska komma; och där ska allt som era själar längtar efter vara ert och det ni ber om ska ni få. [Detta är] välkomsthälsningen från en förlåtande, barmhärtig Herre.” [Koranen 41:31 – 32]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”De ska betjänare med fat och dryckeskärl av guld, och där ska finnas allt det som själarna längtar efter och som är en fröjd för ögat. Och där ska ni förbli till evig tid.” [Koranen 43:71]
 
 Det är välkänt att giftermål är ett av det ting som själen åtrår mest och därför kommer det att finnas för människorna i Paradiset, oavsett om de är män eller kvinnor. Allāh den Välsignades, den Upphöjdes kommer att gifta kvinnan med den man som hon var gift med i detta liv, vilket Han den Välsignades, den Upphöjdes säger:

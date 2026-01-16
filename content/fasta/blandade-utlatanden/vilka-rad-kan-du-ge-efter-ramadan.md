@@ -57,15 +57,15 @@ Den troende som är from och uppriktig, denne bör frukta Allāh och kämpa för
 De lärde har sagt: ”Ett tecken på accepterande [utav goda handlingar] är att Allāh låter en god handling följas av en annan, för [den första] goda handlingen säger: ”Min syster, min syster!” En ond handling säger även den: ”Min syster, min syster!” – vi söker vår tillflykt hos Allāh. Om Allāh har accepterat någons ramadan[^1] och om denne har dragit nytta av denna period av andlig träning och hållit sig stadig i att lyda Allāh, då har denne slagit följe med dem som håller sig stadiga och som svarar till Allāh. Allāh säger:
 
 > ”De som säger: ’Gud är vår Herre’ och som vill följa den raka vägen, till dem stiger änglarna ned [med hälsningen]: ’Ni ska inte känna någon fruktan och ingen sorg ska tunga er! Tag emot det glada budskapet att paradiset som ni har blivit lovade [väntar er]. Vi är hos er och vakar över er i detta liv och i detta liv som ska komma; och där ska allt som era själar längtar efter vara ert och det ni ber om ska ni få.” [Koranen 41:30 – 31]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”De som söker skydd hos Gud och Hans Sändebud och de troende, dessa Guds trogna är det som [till sist] ska vinna seger.” [Koranen 5:56]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”De som bekänner 'Gud är vår Herre' och så håller fast [vid detta] ska inte känna fruktan och ingen sorg ska tynga dem.” [Koranen 46:13]
 
 Detta vidhållande bör vara från en ramadan[^1] till nästa. Profeten – över honom vare Allāhs frid och välsignelser – sagt:

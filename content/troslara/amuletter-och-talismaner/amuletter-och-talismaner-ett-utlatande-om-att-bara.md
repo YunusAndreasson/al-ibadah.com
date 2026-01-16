@@ -20,10 +20,10 @@ description: 'Fråga: Vilket är utlåtandet om att bära amuletter och talisman
 Det som bärs kommer från Koranen. De lärde har, både i tidiga och sena generationer, varit oeniga om detta. En del har godkänt och ansett att detta inkluderas i Allāh den Upphöjdes ord:
 
 > ”Med Koranen uppenbarar Vi det som är läkedom och nåd för de troende, men för syndarnas del [påskyndar det] bara deras marsch mot undergången.” [Koranen 17:82]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Detta är en välsignad Skrift som Vi har uppenbarat för dig, [Muḥammad].” [Koranen 38:29]
 
 Detta är då från Hans välsignelser när de bärs för att skydda mot det onda.

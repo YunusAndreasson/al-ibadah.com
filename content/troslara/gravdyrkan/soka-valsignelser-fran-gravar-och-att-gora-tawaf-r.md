@@ -19,10 +19,10 @@ description: 'Fråga: Vilket är utlåtandet om att söka välsignelser från gr
 **Svar:** Att söka välsignelser från gravar är inte tillåtet och det är en sorts *shirk[^2]*. Detta beror på att detta gör gällande att det finns en inverkan från något som Allāh inte har gett någon auktoritet för. Det var inte de rättfärdiga salaf[^3] s tradition att söka välsignelser på detta sätt, och då är det dessutom en innovation. Trodde den som sökte välsignelser att gravens invånare hade någon inverkan eller förmåga att skydda mot ont eller ge något gott, då är det stor *shirk[^2]* om denne åkallade dem i något av dessa syften. Det är också stor *shirk[^2]* om den som residerar i graven dyrkas genom bugningar, nedfallanden eller slakt av ett djur för att komma närmare och visa vördnad för denne. Allāh den Upphöjde säger:
 
 > ”Den som vid sidan av Gud åkallar[^4] en annan gudom – för vars [existens] han saknar bevis – ska stå till svars enbart inför sin Herre. Det ska inte gå dem väl som förnekar sanningen!” [Koranen 23:117]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Var och en som med hopp ser fram mot mötet med sin Herre ska [sträva efter att] leva ett gott och rättskaffens liv och inte göra någon delaktig av den dyrkan som han ägnar sin Herre!” [Koranen 18:110]
 
 Månggudadyrkarna som begår stor *shirk[^2]* är icke-troende som står utanför islam. De kommer att för evigt uppehålla sig i Elden och Paradiset är förbjudet. Detta enligt Allāh den Upphöjdes ord:

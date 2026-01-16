@@ -16,19 +16,19 @@ description: 'Fråga: Hur gör man takbīr under `eid -kvällen? Svar: Det är r
 **Svar:** Det är rekommenderat att göra *takbīr[^1]* under *`eid*-kvällen; från solnedgången under den sista fastedagen till imamen kommer för att leda bönen. Man gör *takbīr[^1]* på följande sätt:
 
 > *Allāhu akbar, Allāhu akbar, lā ilāha ill-Allāh, Allāhu akbar, Allāhu akbar, wa Lillāhi’l-hamd.*
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > Allāh är störst, Allāh är stört, det finns ingen gud utom Allāh, Allāh är störst, Allāh är störst, och all lovprisan tillhör Allāh.
 
 Man kan även säga *Allāhu akbar* tre gånger:
 
 > *Allāhu akbar, Allāhu akbar, Allāhu akbar, lā ilāha ill-Allāh, Allāhu akbar, Allāhu akbar, Allāhu akbar, wa Lillāhi’l-hamd.*
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > Allāh är störst, Allāh är störst, Allāh är störst, det finns ingen gud utom Allāh, Allāh är störst, Allāh är störst, Allāh är störst, och all lovprisan tillhör Allāh.
 
 Både sätt är tillåtna.

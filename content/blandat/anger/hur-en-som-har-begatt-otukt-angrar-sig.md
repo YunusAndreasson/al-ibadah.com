@@ -26,15 +26,15 @@ Men ångern har sina villkor:
 Kom ihåg att Allāh den Allsmäktige säger:
 
 > ”Troende! Vänd er i uppriktig ånger [över era synder] till Gud!” [Koranen 66:8]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå i händer!” [Koranen 24:31]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Säg [Muḥammad] till mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [Mina bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet!” [39:53]
 
 De lärde är eniga om att denna vers uppenbarades för den tålmodige; den som önskar att ångra sig. Om din synd involverar en människas rätt måste vi lägga till ett fjärde villkor: Du måste återgälda deras rättigheter till dem. Detta oavsett om det är tillgångar eller något annat. I andra fall måste du be om deras förlåtelse. Allāhs sändebud har sagt:
@@ -44,15 +44,15 @@ De lärde är eniga om att denna vers uppenbarades för den tålmodige; den som 
 En muslim måste inte enbart vara rädd för *shirk[^1]* och vad som leder till det, utan även över alla andra synder, för han vet inte med säkerhet om han kommer vägledas till ånger eller om han kommer att ges tillfället att ångra sig. Därmed bör han undvika alla synder och be sin Herre att Han skyddar honom från dem. Han får inte vara belåten med djävulen med intentionen att han kommer ångra sig efter att han syndat. Det råder ingen tvekan om att denna attityd är ett av djävulens trick som han använder för att fånga människor och för att fresta dem. Ibland kan en person hindras från att ångra sig medan han är vid liv; ett slag som definitivt kommer få honom att känna ånger vid en tid då det inte finns någon ånger för honom. Allāh den Allsmäktige säger:
 
 > ”Och stå i bävan inför Mig!” [Koranen 2:40]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Gud uppmanar er att inte ta lätt på Hans varningar.” [Koranen 3:28]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Människor! Guds löfte är sanning. Låt er då inte förledas av jordelivets [lockelser] och låt inte Djävulen föra er bakom ljuset vad Guds [dom] beträffar. Djävulen är er fiende; behandla honom därför som en fiende! När han kallar sina anhängare är det hans enda avsikt att [förmå dem att slå in på] vägen som leder rätt in i den flammande Elden.” [Koranen 35:5 – 6]
 
 Det finns många verser med en liknande innebörd.

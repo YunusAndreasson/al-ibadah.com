@@ -20,7 +20,7 @@ description: 'Fråga: Vilket är det islamiska utlåtandet om att använda radba
 2. Användandet av radband kan ibland leda till att någon vill imponera. Detta gäller speciellt de som hänger ett radhalsband runt halsen med 1000 kulor, precis som om de skulle vilja säga: ”Se på oss, vi gör *tasbih[^3]*1000 gånger.” Jag säger inte att alla som använder radband gör det för att visa sig duktiga men jag säger att användandet av dem kan leda till det.
 3. När en person använder radband för åminnelse[^1] leder det ofta till att hans hjärta blir obetänksamt. Hans koncentration blir bristfällig och även om tungan rör sig vandrar ögonen mot allt som passerar förbi.
 
-Av dessa anledningar säger jag att det är bättre att inte använda radband. Istället bör man använda sina fingrar för att räka, något som profeten – över honom vare Allāhs frid och välsignelser – instruerat oss till att göra. 
+Av dessa anledningar säger jag att det är bättre att inte använda radband. Istället bör man använda sina fingrar för att räka, något som profeten – över honom vare Allāhs frid och välsignelser – instruerat oss till att göra.
 
 Och Allāh den Allsmäktige vet bäst.
 

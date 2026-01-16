@@ -49,10 +49,10 @@ Slut på citat ifrån al-Nawawi.
 Shaykh Ibn ´Uthaymīn har sagt:
 
 > God ton för vallfärdande delas i två kategorier: obligatorisk och rekommenderad. Den obligatoriska konvenansen innebär att den resande fullföljer alla skyldigheter och pelare [väsentliga delar] för vallfärden. Undvik speciellt det som är förbjudet under *ihrām[^12]* och det som generellt sett är förbjudet – oavsett om det är förbjudet i eller utanför ihrām[^12]. Allāh säger: ”*Vallfärden [ska fullgöras under] de kända månaderna. Den som då beger sig i väg ska så länge vallfärden varar avhålla sig från intim samvaro med kvinnor, grovt tal samt trätor och tvister*.” [Koranen 2:197]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > Den goda ton som är rekommenderad när man vallfärdar är att göra allt som man bör göra; som att vara generös mot människor, betjäna sina bröder, stå ut med irritationsmoment ifrån dem och vara vänlig mot dem [oavsett om det är före eller efter man går in i ihrām[^12]]. Denna konvenans är storslagen. Den krävs ständigt av alla troende var de än befinner sig. Det finns även andra former av etikett som har att göra med dyrkan, som att vallfärda på det bästa sättet och att kämpa för att göra det med en korrekt etikett i både ord och handling.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

@@ -48,10 +48,10 @@ Påstående som den andra skolan [de som gör *ta’wil*] lägger fram, att det 
 Att enbart ändra orden från deras uppenbara mening, utan några giltiga bevis, motsäger sig bevisen och att göra så är att tala om Allāh den Upphöjde utan kunskap. Allāh den Upphöjde har förbjudit detta när Han sagt:
 
 > ”Säg: ’Min Herre förbjuder ingenting annat än skamlösa handlingar, både det som sker öppet och det som sker i hemlighet och [all annan] synd och orättmätigt våld. Och [Han förbjuder er] att sätta vid Guds sida det som Han aldrig gett bemyndigande till och att påstå om Gud det ni inte kan veta.” [Koranen 7:33]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Befatta dig inte med det som du inte riktigt vet; ditt öra och ditt öga och ditt hjärta ska [alla en Dag] tillfrågas om detta.” [Koranen 17:36]
 
 De som förvrider innebörden av Allāhs den Upphöjdes namn och egenskaper har inte tagit emot någon kunskap om det vars mening de ändrar. Någon förnuftig teori har de heller inte, utom de tvivel som de lägger fram som bevis. Vissa bevis motsäger sig andra och gör det till en nödvändighet att ofullkomlighet tillräknas Allāhs natur, namn och egenskaper samt uppenbarelse. Dessa ofullkomligheter är värre än de som påstår vara ett resultat av att bekräfta dem [egenskaperna] i deras uppenbara mening. Men detta är inte platsen för en lång utläggning om detta.

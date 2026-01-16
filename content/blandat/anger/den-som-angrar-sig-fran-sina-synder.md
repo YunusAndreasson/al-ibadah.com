@@ -26,10 +26,10 @@ Allāhs sändebud har sagt:
 Det finns många bevis för detta, exempelvis har Allāh sagt:
 
 > ”Men Jag ger förvisso den full förlåtelse som ångrar sig, antar tron och sedan lever ett rättskaffens liv och följer vägledningen.” [Koranen 20:82]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Troende! Vänd er i uppriktig ånger [över era synder] till Gud! Kanske ska er Herre ur er [bok] utplåna era dåliga handlingar och föra er till lustgårdar, vattnade av bäckar.” [Koranen 66:8]
 
 Profeten har även sagt:

@@ -16,12 +16,12 @@ description: Fråga. Finns det någon åkallan rapporterad från profeten – ö
 
 **Svar:** Med största sannolikhet kommer denna åkallan[^1] när man bryter fastan att besvaras. Detta beror på att den sker vid slutet av en dyrkan och i de flesta fall är man svag precis innan man bryter fastan. Desto fysiskt svagare och ömmare man är, desto större är ens ånger och ödmjukhet inte Allāh den Allsmäktige. Den åkallan[^1] som har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – är följande:
 
-> ”*Allāhumma laka sumto wa 'ala rizqika afartu*” 
+> ”*Allāhumma laka sumto wa 'ala rizqika afartu*”
 > [O, Allāh! För Din skull har jag fastat och med Ditt stöd har jag brutit min fasta.” [*Abū Dawūd*]
 
 När profeten – över honom vare Allāhs frid och välsignelser – bröt fastan sade han också:
 
-> ”*Thahabath-thama'u wabtallatil-'urūqu wa thabatal-arju Inshā'-Allāh*” 
+> ”*Thahabath-thama'u wabtallatil-'urūqu wa thabatal-arju Inshā'-Allāh*”
 > [Törsten är borta, arterit är fuktiga och belöningen är säker, om Allāh vill.] [*Abū Dawūd* 2357]
 
 Även om det kan finnas svagheter i dessa båda *ahādīth[^2]* har vissa lärde förklarat att de är *hasan*.

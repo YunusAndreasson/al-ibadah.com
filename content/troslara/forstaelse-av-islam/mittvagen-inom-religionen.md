@@ -36,10 +36,10 @@ Vi säger att den första personen är överdriven och extrem, den andra gör in
 Ett tredje exempel rör en man som slavar under sin fru. Hon talar till sin man på vilket sätt hon vill. Han hindrar henne inte från att göra ont och inte heller uppmuntrar han henne till att sträva efter att göra gott. Hon kontrollerar honom och hon blir till en herre över honom. En annan man är förtryckande och arrogant och anser sig själv vara sin fru överlägsen. Han bryr sig inte alls om henne och i hans ögon är hon mindre värd än en tjänarinna. En tredje man är balanserad och han behandlar henne som Allāh och profeten – över honom vare Allāhs frid och välsignelser – har påbjudit honom att göra:
 
 > ”Hustrun har, som sig bör, rättigheter [mot mannen] motsvarande [dem han har] mot henne; hans [rätt] ligger dock ett steg framför hennes. Gud är allsmäktig, vis.” [Koranen 2:228]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”En troende man bör inte hata en troende kvinna. Om det finns något karraktärsdrag i henne som han ogillar återstår där några andra karraktärsdrag i henne som gör honom nöjd.” [*Muslim* 1469]
 
 Den sistnämnde är balanserad medan den förste är extrem i behandlandet av frun och den andre är otillräcklig. Du bör basera alla dyrkan på detta exempel.

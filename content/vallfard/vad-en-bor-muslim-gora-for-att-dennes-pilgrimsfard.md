@@ -21,10 +21,10 @@ description: 'Fråga: Vad en bör muslim göra för att dennes pilgrimsfärd ska
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Handlingar döms efter avsikten. Var man kommer att få vad denne har avsett.”
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Den som utför en handling som inte är enligt vår sak [islam] kommer att få den avvisad.”
 
 Detta är det viktigaste som pilgrimer bör söka: uppriktighet i avsikten samt att följa profetens – över honom vare Allāhs frid och välsignelser – sunnah[^1]. Profeten – över honom vare Allāhs frid och välsignelser – brukade under sin vallfärd säga: ”*Lär er era ritualer ifrån mig*.”

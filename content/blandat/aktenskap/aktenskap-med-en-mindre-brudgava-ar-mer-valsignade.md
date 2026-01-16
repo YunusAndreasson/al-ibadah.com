@@ -14,7 +14,7 @@ description: 'Fråga: Vilken är din åsikt om överdrivna brudgåvor och extrav
 
 **Fråga:** Vilken är din åsikt om överdrivna brudgåvor och extravaganta bröllop. Jag tänker speciellt på vad som brukar kallas ”smekmånad” då det är mycket dyrt. Är detta något den islamiska lagen tillåter?
 
-**Svar:** Extravaganta brudgåvor och bröllop står i konflikt med den islamiska lagen då det mest välsignade äktenskapet är det billigaste och desto lägre kostnaderna är, desto högre är välsignelserna. 
+**Svar:** Extravaganta brudgåvor och bröllop står i konflikt med den islamiska lagen då det mest välsignade äktenskapet är det billigaste och desto lägre kostnaderna är, desto högre är välsignelserna.
 
 I det flesta fall är detta något som faller på kvinnan därför att det är hon som ådömer överdrivna brudgåvor. Om en enkel brudgåva erbjuds kommer kvinnan att säga: ”Nej, vår dotter ska ha det-och-det.” På samma sätt är extravagans vid bröllopet något som den islamiska lagen har förbjudit och det inkluderas i Allāhs den Högstes ord: ”*Men visa måtta [i allt]; Gud är inte vän av dem som går till överdrift*.” [Koranen 7:31]
 

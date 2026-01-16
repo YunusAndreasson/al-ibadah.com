@@ -19,20 +19,20 @@ description: 'Fråga: En kvinna kom och gick in i ihrām för ‘umrah och när 
 **Svar:** Om det förhåller sig enligt vad som har nämnts om en kvinnas månadsblödning innan *tawāf[^4]* medan hon befann sig i *ihrām[^1]*, att hennes *mahram[^3]* tvingades att åka direkt och att hon inte hade någon mahram[^3] eller make i Mecka – då är det inte längre ett villkor att hon är ren från sin månadsblödning innan hon går in i moskén för att göra *tawāf[^4]*. Anledningen är att det är nödvändigt. Hon använder då någon form av vaddering [binda] och gör *tawāf[^4]* samt *sa’ī[^5]* för sin *‘umrah[^2]*. Men är det inte långt att resa och hon kan återvända med sin man eller med en *mahram[^3]*, då reser hon och återvänder så fort hennes månadsblödning är över. Då kan hon göra *tawāf[^4]* för sin *‘umrah[^2]* när hon är ren. Allāh har sagt:
 
 > ”Gud vill göra det lätt – inte tungt – för er.” [Koranen 2:185]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Gud lägger inte på någon en tyngre börda än han kan bära.” [Koranen 2:286]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Han har inte lagt på er svåra eller tunga plikter i [utövningen av er] religion].” [Koranen 22:78]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Frukta därför Gud efter måttet av er förmåga.” [Koranen 64:16]
 
 Och Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:

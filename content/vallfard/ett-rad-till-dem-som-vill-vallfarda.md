@@ -35,20 +35,20 @@ Därmed måste alla muslimer följa honom i detta och vallfärda på det sätt s
 Och Han har sagt:
 
 > ”Förrätta bönen och ge åt de behövande och lyd Sändebudet – kanske ska [Gud] visa er barmhärtighet.” [Koranen 24:56]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”I Guds sändebud har ni ett gott föredöme för alla som [med bävan och hopp] ser fram emot [mötet med] Gud och den Yttersta dagen och som ständigt har Gud för ögonen.” [Koranen 33:21]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Dessa är de gränser som Gud [har fastställt]. Gud ska föra den som lyder Honom och Hans sändebud till lustgårdar, vattnade av bäckar, där han ska förbli till evig tid. Detta är den stora, den lysande segern. Men den som trotsar Gud och Hans Sändebud och överträder de gränser Han [har fastställt] ska föras till Elden och förbli där till evig tid – ett förnedrande straff väntar honom.” [Koranen 4:13 – 14] Och Han har sagt: ”Säg: ’Människor! Jag är Guds Sändebud, [utsänd] till er alla av Honom som äger herraväldet över himlarna och jorden! Det finns ingen gud utom Han – Han som skänker liv och skänker död. Tro därför på Gud och Hans Sändebud, den olärde Profeten, som tror på Gud och Hans ord, och följ honom så att ni får vägledning.” [Koranen 7:158]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Säg [Muḥammad]: ’Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.’” [Koranen 3:31]
 
 Verserna med denna innebörd är många.

@@ -42,10 +42,10 @@ I denna vers gör Allāh den Allsmäktige framgång beroende av ånger. Detta vi
 För att uppnå ånger bör du be Allāh den Allsmäktige att Han vägleder dig, att Han gör dig framgångsrik och att Han beviljar dig uppriktig ånger:
 
 > ”Er Herre säger: ’Be till Mig, så ska Jag besvara er [bön]. De som håller sig för goda för att tjäna Mig ska gå med böjt huvud in i helvetet.” [40:60]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”När Mina tjänare frågar dig om Mig [svara då att] Jag är nära; Jag besvarar den bedjandes bön, när han ber till Mig.” [Koranen 2:186]
 
 En annan faktor som inte enbart kan ha inverkan på din ånger, utan även på din förmåga att efteråt hålla dig stadig, är de människor du umgås med. Allāhs sändebud har sagt:

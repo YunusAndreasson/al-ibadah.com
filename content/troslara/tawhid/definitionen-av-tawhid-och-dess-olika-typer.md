@@ -68,10 +68,10 @@ Således är Allāh den Härlige, den Upphöjde den ende som skapar på det sät
 [2] Bekräftelse av Allāhs den Upphöjdes enhet i frågor om herravälde. Det är enbart Allāh som är Ägaren [av alla ting], vilket Han den Upphöjde förklarar:
 
 > ”Välsignad Han som har allt herravälde i Sin hand och vars makt övervinner allt!” [Koranen 67:1]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Säg: ’Vem är det som har allt herravälde i Sin hand, som beskyddar [allt] och som ingen kan beskydda? [Svara] om ni vet det?” [Koranen 23:88]
 
 Ägaren av det obegränsade, universella och allomfattande herraväldet är enbart Allāh den Härlige, den Upphöjde.
@@ -79,10 +79,10 @@ Således är Allāh den Härlige, den Upphöjde den ende som skapar på det sät
 Att säga att någon annan än Allāh har herravälde, det är då bara [ett herravälde] i andra hand. Allāh den Allsmäktige har bekräftat att andra än Han äger när Han sagt:
 
 > ”Eller de hus vars nycklar ni har i er hand.” [Koranen 24:61]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”[Och ingen ger fritt utlopp åt sin lust] med någon annan än sina hustrur eller dem som de rättmätigt besitter – inget klander kan då riktas mot dem.” [Koranen 23:6]
 
 Det finns även andra bevis som visar på att andra jämsides Allāh kan ha ägarskap eller herravälde. Men detta ägarskap är inte som Allāhs den Allsmäktiges. Detta är ett ägarskap med begränsningar; ett begränsat ägarskap som inte är universellt.
@@ -132,15 +132,15 @@ Ytterligare ett exempel: Allāh den Upphöjde säger:
 Och här säger Allāh:
 
 > ”Nej, Hans händer är tvärtom utsträckta.” Allāh har då bekräftat att Han har två händer beskrivna som utsträckta, vilket betyder att [att Han är] generös. Vi måste därmed tro att Allāh den Upphöjde har två händer som är utsträckta i givande och nåd. Men vi får inte försöka att föreställa oss dem, genom ord försöka beskriva hur dessa händer är eller jämföra dem med de skapade varelsernas händer. Allāh den Härlige, den Upphöjde säger ju: ”Ingenting är som Han.” [Koranen 42:11]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Säg: ’ Min Herre förbjuder ingenting annat än skamlösa handlingar, både det som sker öppet och det som sker i hemlighet och [all annan] synd och orättmätigt våld. Och [Han förbjuder er] att sätta vid Guds sida det som Han aldrig gett bemyndigande till och att påstå om Gud det ni inte kan veta.” [Koranen 7:33]
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 > ”Befatta dig inte med det som du inte riktigt vet; ditt öra och ditt öga och ditt hjärta ska [alla en Dag] tillfrågas om detta.” [Koranen 17:36]
 
 Den som då jämför dessa båda händer med de skapade varelsernas händer har motsatt sig Allāhs den Upphöjdes ord: ”*Ingenting är som Han*.” [Koranen 42:11] Denne har inte lytt Allāhs den Upphöjdes ord: ”*Och gör inte Gud till föremål för jämförelser!*” [Koranen 16:74] Den som beskriver dem och säger att de är på ett visst sätt, på vilket sätt det än må vara, har sagt något om Allāh som denne inte har någon kunskap om.

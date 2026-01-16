@@ -18,16 +18,16 @@ description: 'Fråga: Behöver man tvaga sig när man ska göra sujūd al-tilāw
 
 Utförs *sujūd al-tilāwah* under bönen är det obligatoriskt att säga *takbīr[^4]* när man går ned och när man kommer upp. Profeten – över honom vare Allāhs frid och välsignelser – brukade ju göra det i varje rörelse i bönen, och han sade: ”*Be som ni har sett mig be*.” [Berättad av al-Bukhāri i hans *Sahīh*, 595]. De[^6] åminnelse[^6] r och åkallan[^2] som är föreskrivna i nedfallandet[^1] under [vanlig] bön är föreskrivna i *sujūd al-tilāwah*. Detta på grund av den generella betydelsen i *ahādīth[^5]* i denna fråga. Bland dessa åkallan[^2] är:
 
-> *Allāhumma laka sajadtu wa bika āmantu wa laka aslamtu, sajada wajhi lilladhi khalaqahu wa sawwarahu wa shaqqa sam’ahu wa basarahu bi hawlihi wa quwwatihi, tabārak Allāhu ahsan al-khāliqīn* 
-> 
+> *Allāhumma laka sajadtu wa bika āmantu wa laka aslamtu, sajada wajhi lilladhi khalaqahu wa sawwarahu wa shaqqa sam’ahu wa basarahu bi hawlihi wa quwwatihi, tabārak Allāhu ahsan al-khāliqīn*
+>
 > [Allāh! Inför Dig har jag nedfallit och på Dig har jag trott, och Dig är jag underkastad. Mitt ansikte har nedfallit inför Honom som skapade det och formade det, och tog fram dess förmågor av hörande och sīnde med Hans Styrka och Kraft. Välsignad vare Allāh, den Bäste av skapare]
 
 Detta har Muslim återgivit i sin *Sahīh*, 1290 från profeten; han sade att han brukade säga denna åminnelse[^6] under nedfallandet[^1] i bönen, enligt en *hadīth[^5]* från ’Ali.
 
 Vi har ovan nämnt att det är föreskrivet att säga detsamma i *sujūd al-tilāwah* som i nedfallandet[^1] i [den vanliga] bönen. Det har berättats att profeten – över honom vare Allāhs frid och välsignelser – brukade åkalla när han gjorde *sujūd al-tilāwah*, och han sade:
 
-> *Allāhumma aktub li biha ‘indaka ajran wa’mhu ‘anni biha wizran waj’alha li ‘indaka dukhran wa taqabbalha minni kama taqabbaltaha min ‘abdika Dawūd* 
-> 
+> *Allāhumma aktub li biha ‘indaka ajran wa’mhu ‘anni biha wizran waj’alha li ‘indaka dukhran wa taqabbalha minni kama taqabbaltaha min ‘abdika Dawūd*
+>
 > [Allāh! Nedteckna en belöning för mig för detta [nedfallande], och ta bort en synd från mig. Spara det för mig och acceptera det från mig precis som du accepterade det från Din tjänare David]. [Berättad av al- Tirmithi, 528].
 
 Det som är obligatoriskt att säga är ”*Subhāna Rabbiy al-A’lā* [Lovprisad vare min Herre, den Högste]." Detta är obligatoriskt under nedfallandet[^1] i bön. Ytterligare åkallan[^2] eller åminnelse[^6] är rekommenderat.
