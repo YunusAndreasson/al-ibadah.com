@@ -43,7 +43,7 @@ Därför finner du inte att djävulen placerar tvivel och avvisande om ointressa
 
 Profeten – över honom vare Allāhs frid och välsignelser – har berättat om en nyttig medicin som innehåller ett botemedel mot detta: ”*Låt honom då söka sin tillflykt hos Allāh och sluta med att göra det*.” Slutar man att göra det och fortsätter att dyrka Allāh för att söka och längta efter det som finns hos Honom, då kommer detta inte längre att bekymra en, genom Allāhs makt. Undvik därför alla ingivelser som passerar genom ditt hjärta i fråga om detta. Dyrka, åkalla och glorifiera Allāh och om du skulle hör någon som beskrev Allāh med vad som viskats till denne, då skulle du dräpa honom om du kunde.
 
-Vad som viskas är inte verklighet, utan i stället är det enbart tankar och viskningar som saknar grund. Detta är som i det fall när någon bär ett rent klädesplagg som just har tvättats och sóm då drabbas av tankar om att det kanske kan vara orent och att det kanske inte skulle vara tillåtet att be i det. I detta fall bör han inte bry sig om det.
+Vad som viskas är inte verklighet, utan i stället är det enbart tankar och viskningar som saknar grund. Detta är som i det fall när någon bär ett rent klädesplagg som just har tvättats och som då drabbas av tankar om att det kanske kan vara orent och att det kanske inte skulle vara tillåtet att be i det. I detta fall bör han inte bry sig om det.
 
 Mitt råd kan kanske summera enligt följande:
 
