@@ -15,7 +15,7 @@ description: 'Fråga: Är det första böneutropet under fredagsbönen en innova
 
 **Svar:** Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Ni måste följa min *sunnah[^1]* och *sunnah[^1]* hos de rättfärdiga kaliferna som kommer efter mig*.” [*Ahmad* 4:126 och 127]
 
-Under profetens – över honom vare Allāhs frid och välsignelser – , Abū Bakrs och ´Umars tid brukade böneutropet vid fredagsbönen göras när imamen satt i talarstolen.
+Under profetens – över honom vare Allāhs frid och välsignelser –, Abū Bakrs och ´Umars tid brukade böneutropet vid fredagsbönen göras när imamen satt i talarstolen.
 
 Under ‘Uthmāns kalifat, när människorna hade blivit långt fler, då beordrade han att ett andra böneutrop skulle ropas ut vid fredagsbönen. Detta är inte en innovation. Vi har ju beordrats att följa de korrekt vägledda kalifernas *sunnah[^1]*. Grunden för detta har al-Bukhārī, an-Nasā’i, at-Tirmithi, Ibn Mājah och Abū Dawūd [och orden är hans] återgivit från Ibn Shiba:
 

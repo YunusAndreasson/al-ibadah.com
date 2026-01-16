@@ -28,7 +28,7 @@ Efter att ha nämnt detta säger vi som svar till vår broders fråga att de har
 
 Därmed är den islamiska lagens visdom bakom förbudet att bära guld för män klar. 
 
-Jag skulle vilja ta detta tillfälle i akt att varna de män som har blivit lurade till att bära guld. De har inte lytt Allāh och Hans sändebud – över honom vare Allāhs frid och välsignelser – , de har utifrån okunskap blivit feminina och de har prytt sig själv med glödande kol från Elden, vilket är något som profeten – må Allāhs frid och välsignelser vara över honom – har talat om.
+Jag skulle vilja ta detta tillfälle i akt att varna de män som har blivit lurade till att bära guld. De har inte lytt Allāh och Hans sändebud – över honom vare Allāhs frid och välsignelser –, de har utifrån okunskap blivit feminina och de har prytt sig själv med glödande kol från Elden, vilket är något som profeten – må Allāhs frid och välsignelser vara över honom – har talat om.
 
 Dem måste ångra sig inför Allāh den Allsmäktige och om de önskar pryda sig själva med silver inom den islamiska lagens gränser finns det inget skadligt i det. De kan även bära ringar av andra material som inte leder till extravagans eller frestelser.
 

@@ -10,7 +10,7 @@ categories:
   - Ihrām och avsikten inför vallfärden
 original_id: 834
 description: 'Fråga: Det är känt att det är förbjudet att raka huvudet under ihrām
- ; hur kan det då vara tillåtet att börja med det när man avlägsnar ihrām under ‘eid
+; hur kan det då vara tillåtet att börja med det när man avlägsnar ihrām under ‘eid
  -dagen? De lärde säger att avlägsnandet...'
 ---
 
