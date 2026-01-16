@@ -1,7 +1,7 @@
 ---
 title: Ihrāms innebörd och dess sunnah
-author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ´Abdur-Rahman al-Jibrīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 110 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
 original_id: 752
@@ -12,7 +12,7 @@ description: 'Fråga: Vilken är innebörden med ihrām och vad är sunnah för 
 
 **Fråga:** Vilken är innebörden med *ihrām[^1]* och vad är *sunnah[^2]* för en *muhrim[^3]* i fråga om den?
 
-**Svar:** *Ihrām[^1]* är avsikten för vallfärdsformen och det är hjärtats kontrakt för att träda in i vallfärdens eller ʿumrahs[^4] heliga riter. Detta innebär att när någon går in i den, då håller denne sig borta från det förbjudna som inte är tillåtet för en *muhrim[^3]*.
+**Svar:** *Ihrām[^1]* är avsikten för vallfärdsformen och det är hjärtats kontrakt för att träda in i vallfärdens eller ´umrahs[^4] heliga riter. Detta innebär att när någon går in i den, då håller denne sig borta från det förbjudna som inte är tillåtet för en *muhrim[^3]*.
 
 *Ihrām[^1]* är inte enbart att bära en viss sorts kläder, man kan ju utan att ha någon avsikt bära *ihrām[^1]*-kläder när man är hemma. Då kallas man inte för *muhrim[^3]*. En *muhrim[^3]* får även träda in i *ihrām[^1]* med sitt hjärta och lämna sina vanliga kläder på [som en skjorta, turban eller något liknande]. I detta fall får denne som gottgörelse dock göra ett offer.
 

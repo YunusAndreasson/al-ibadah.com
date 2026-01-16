@@ -1,10 +1,10 @@
 ---
 title: Hör profeten dem som åkallar honom?
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 105 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Åkalla andra än Allāh
+categories: – Troslära (´Aqīdah) – Åkalla andra än Allāh
 original_id: 920
 description: 'Fråga: Hör profeten dem som åkallar honom vid hans grav, eller de hälsningar
  som denna hadīth antyder: ” Den som åkallar mig vid min grav hör jag ” [al-Bayhaqi

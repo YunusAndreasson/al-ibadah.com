@@ -1,6 +1,6 @@
 ---
 title: En menstruerande kvinnas bön
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: Fatāwa al-Marah
 categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 1369

@@ -1,7 +1,7 @@
 ---
 title: Fredagsbön som kombineras med eftermiddagsbönen och om det är tillåtet att
  kombinera böner om man är utanför sin stad
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 546 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Resenärens bön

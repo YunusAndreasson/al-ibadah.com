@@ -1,6 +1,6 @@
 ---
 title: Kysser frun före församlingsbönen
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: Fatāwa al-Marahk
 categories: – Renhet (Tahārah) – Tvagning
 original_id: 1365
@@ -21,7 +21,7 @@ Baserat på detta, om en person rör en kvinna – även om det inte finns någo
 
 Och Allāh vet bäst.
 
-[^1]: Wudû´
+[^1]: Wudū
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

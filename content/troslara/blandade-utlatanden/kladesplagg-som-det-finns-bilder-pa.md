@@ -1,9 +1,9 @@
 ---
 title: Klädesplagg som det finns bilder på
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 257 s. ISBN 9960-892-66-2'
-categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
+categories: – Troslära (´Aqīdah) – Blandade utlåtanden
 original_id: 1104
 description: 'Fråga: Vilket är utlåtandet om att bära klädesplagg på vilka det finns
  bilder av människor eller djur? Svar: Det är inte tillåtet att bära klädesplagg

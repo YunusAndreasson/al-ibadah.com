@@ -1,17 +1,17 @@
 ---
-title: Shaykh Muḥammad Ibn Sālih Ibn ʿUthaymīn
+title: Shaykh Muḥammad Ibn Sālih Ibn ´Uthaymīn
 categories: – Biografier
 original_id: 9
-description: “En gång besökte jag Ibn ʿUthaymīn i Mecka där han bodde under vallfärden
+description: “En gång besökte jag Ibn ´Uthaymīn i Mecka där han bodde under vallfärden
  och jag fann att han satt med en nål i sin hand och sydde sin egen skjorta.” [Ibn
- ʿUthaymīn, al-Imām az-Zāhid, 163] Abu '...
+ ´Uthaymīn, al-Imām az-Zāhid, 163] Abu '...
 ---
 
-“En gång besökte jag Ibn ʿUthaymīn i Mecka där han bodde under vallfärden och jag fann att han satt med en nål i sin hand och sydde sin egen skjorta.” [Ibn ʿUthaymīn, al-Imām az-Zāhid, 163]
+“En gång besökte jag Ibn ´Uthaymīn i Mecka där han bodde under vallfärden och jag fann att han satt med en nål i sin hand och sydde sin egen skjorta.” [Ibn ´Uthaymīn, al-Imām az-Zāhid, 163]
 
-Abu ʿAbdullāh Muḥammad ibn Sālih ibn Muḥammad ibn ʿUthaymīn at-Tamīmī an-Najdī föddes i staden Unayzah den 27:e ramadan 1347 AH i en berömd religiös familj.
+Abu ´Abdullāh Muḥammad ibn Sālih ibn Muḥammad ibn ´Uthaymīn at-Tamīmī an-Najdī föddes i staden Unayzah den 27:e ramadan 1347 AH i en berömd religiös familj.
 
-Han fick sin utbildning från flera prominenta lärda som Shaykh ʿAbdur-Rahmān as-Sa'dī, Shaykh Muḥammad Amīn ash-Shanqītī och Shaykh ʿAbdul-ʿAzīz ibn Bāz.
+Han fick sin utbildning från flera prominenta lärda som Shaykh ´Abdur-Rahmān as-Sa'dī, Shaykh Muḥammad Amīn ash-Shanqītī och Shaykh ´Abdul-´Azīz ibn Bāz.
 
 Ett stort antal studenter, ifrån både Saudiarabien och andra länder, drog mycket stor nytta av honom då han började lära ut islam. Han hade sin egen unika stil för att tolka och förklara religiösa frågor.
 

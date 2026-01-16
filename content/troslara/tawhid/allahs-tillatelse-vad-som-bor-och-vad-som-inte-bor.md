@@ -1,10 +1,10 @@
 ---
 title: Allāhs tillåtelse – vad som bör och vad som inte bör länkas till den
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 133 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Tawhīd [Monoteism]
+categories: – Troslära (´Aqīdah) – Tawhīd [Monoteism]
 original_id: 1084
 description: 'Fråga: Vad behöver kopplas till Allāhs tillåtelse och vad behöver inte
  kopplas till den? Svar: Det är att föredra att koppla allt till Allāhs tillåtelse

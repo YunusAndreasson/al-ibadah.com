@@ -1,7 +1,7 @@
 ---
 title: Villkor för att stryka över sockar och om det är tillåtet att be i skor
 author: n/a
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. x s. ISBN saknas'
 categories: – Renhet (Tahārah) – Stryka över sockar
 original_id: 1443
@@ -18,7 +18,7 @@ Villkoren för att det ska vara tillåtet att stryka över sockarna eller läder
 
 Det är tillåtet att be i skor som är fria från smuts [som urin eller avföring]. Profeten – över honom vare Allāhs frid och välsignelser – bad i sina skor. [Återberättad i *al-Bukhārī* och *Muslim*]
 
-Abū Saʿīd har rapporterat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om någon av er kommer till moskén, då bör han se efter, och om han ser någon smuts eller något skadligt under skorna, då stryker han bort det och ber i dem*.” [*Abū Dawūd* 650]
+Abū Sa´īd har rapporterat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om någon av er kommer till moskén, då bör han se efter, och om han ser någon smuts eller något skadligt under skorna, då stryker han bort det och ber i dem*.” [*Abū Dawūd* 650]
 
 Har moskén mattor är det bättre att ställa dem på ett lämpligt ställe eller ställa dem mellan fötterna. På detta sätt blir mattan inte smutsig.
 

@@ -1,6 +1,6 @@
 ---
 title: Var okunnig om allmosan och betalade inte under fem år
-author: Ibn ʿAbdullāh Ibn Bāz
+author: Ibn ´Abdullāh Ibn Bāz
 source: Majmoo' Fatāwa al-Shaykh Ibn Bāz (14/239)
 categories: – Allmosa (Zakāh)
 original_id: 1599

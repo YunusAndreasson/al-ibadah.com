@@ -1,7 +1,7 @@
 ---
 title: Kom på att han inte hade bett kvällsbönen när han började be nattbönen
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 250 s. ISBN saknas'
 categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 259

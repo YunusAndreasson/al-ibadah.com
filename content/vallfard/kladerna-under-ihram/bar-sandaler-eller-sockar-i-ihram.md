@@ -1,7 +1,7 @@
 ---
 title: Bar sandaler eller sockar i ihrām
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 144 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Kläderna under ihrām
 original_id: 1343

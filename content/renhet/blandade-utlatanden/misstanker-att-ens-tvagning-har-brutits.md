@@ -1,6 +1,6 @@
 ---
 title: Misstänker att ens tvagning har brutits
-author: Ibn ʿAbdullah Ibn Baz
+author: Ibn ´Abdullah Ibn Baz
 source: Fatāwa al-Marah
 categories: – Renhet (Tahārah) – Blandade utlåtanden
 original_id: 550
@@ -15,5 +15,5 @@ description: 'Fråga: Vad ska en person göra som tvivlar på om hans tvagning b
 
 Profeten – över honom vare Allāhs frid och välsignelser – klargjorde för honom att grundregeln är att man är ren, tills man är säker på att något har inträffat som bryter den [renheten]. Så länge man endast tvivlar är ens rituella renhet sund och bekräftat. Därför kan man fortsätta att be, vandra runt Ka’bah, läsa Koranen ifrån en *mushaf* och så vidare. Detta är grundregeln […]
 
-[^1]: Wudû´
+[^1]: Wudū
 

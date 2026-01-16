@@ -1,7 +1,7 @@
 ---
 title: Täcka ansiktet och luta sig mot något
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 173 s. ISBN saknas'
 categories: – Bön (Salāh) – Vad som gör eller inte gör bönen ogiltig
 original_id: 201

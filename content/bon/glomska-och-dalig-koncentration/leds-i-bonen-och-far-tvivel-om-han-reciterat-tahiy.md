@@ -1,7 +1,7 @@
 ---
 title: Leds i bönen och får tvivel om han reciterat tahiyyat
-author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdur-Rahman al-Jibrīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 272 s. ISBN saknas'
 categories: – Bön (Salāh) – Glömska och dålig koncentration
 original_id: 273

@@ -1,7 +1,7 @@
 ---
 title: Visdomen bakom att män inte får bära guld
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories: – Blandat – Kropp & klädnad
 original_id: 1699

@@ -1,8 +1,8 @@
 ---
 title: Beskriva Allāh som glömmande
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: Fatāwa al-shaykh Ibn ‘Uthaymīn 1/172-174
-categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
+categories: – Troslära (´Aqīdah) – Blandade utlåtanden
 original_id: 1300
 description: 'Fråga: Kan Allāh beskrivas som glömmande? Svar: Att glömma kan
  innebära två olika saker: Förbise något som är känt, som i versen: ”Herre!

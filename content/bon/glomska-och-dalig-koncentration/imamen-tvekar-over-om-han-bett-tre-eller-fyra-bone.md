@@ -1,8 +1,8 @@
 ---
 title: Imamen tvekar över om han bett tre eller fyra bönecykler i en bön som är fyra
  bönecykler lång
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 268 s. ISBN saknas'
 categories: – Bön (Salāh) – Glömska och dålig koncentration
 original_id: 1501

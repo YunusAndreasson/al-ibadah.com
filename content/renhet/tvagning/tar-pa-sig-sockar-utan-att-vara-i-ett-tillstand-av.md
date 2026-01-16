@@ -1,7 +1,7 @@
 ---
 title: Tar på sig sockar utan att vara i ett tillstånd av renhet för att sedan be
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 98 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Tvagning
 original_id: 1440
@@ -22,7 +22,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har berättat a
 
 Detta betyder att Han den Upphöjde har besvarat denna åkallan[^8] från Hans tjänare om att inte ställa dem till svars för deras misstag eller deras glömska – och all lovprisan tillhör Allāh.
 
-[^1]: Wudû´
+[^1]: Wudū
 [^2]: Fajr
 [^3]: Dhuhr
 [^4]: Asr

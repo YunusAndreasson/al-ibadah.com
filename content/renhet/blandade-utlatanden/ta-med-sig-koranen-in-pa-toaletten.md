@@ -1,7 +1,7 @@
 ---
 title: Ta med sig Koranen in på toaletten
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories: – Renhet (Tahārah) – Blandade utlåtanden
 original_id: 1675

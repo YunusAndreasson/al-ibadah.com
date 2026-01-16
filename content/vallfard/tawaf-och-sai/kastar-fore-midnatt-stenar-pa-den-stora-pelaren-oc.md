@@ -1,7 +1,7 @@
 ---
 title: Kastar före midnatt stenar på den stora pelaren och utför tawāf utan renhet
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 181 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 806
@@ -23,7 +23,7 @@ Du måste även utföra *tawāf[^1]* vid något tillfälle även om det sker i s
 Och Allāh vet bäst.
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
-[^2]: Wudû´
+[^2]: Wudū
 [^3]: Rakah.
 [^4]: Maghrib
 [^5]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.

@@ -1,7 +1,7 @@
 ---
 title: Ber man bakom imamen är det en skyldighet att följa honom
-author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdur-Rahman al-Jibrīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 232 s. ISBN saknas'
 categories: – Bön (Salāh) – Nedfallan vid recitation
 original_id: 243

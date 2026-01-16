@@ -1,6 +1,6 @@
 ---
 title: Rengöring av den avlidnes kropp
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 572 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Begravningsbön
@@ -18,6 +18,6 @@ Om kroppen är mycket smutsig bör man tvätta den noggrannare, enligt vad profe
 
 Sedan torkar och sveper man denne person.
 
-[^1]: Wudû´
+[^1]: Wudū
 [^2]: Lotuslöv
 

@@ -1,9 +1,9 @@
 ---
 title: Böcker som innehåller svaga och avvisade ahādīth
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Förståelse av islam
+categories: – Troslära (´Aqīdah) – Förståelse av islam
 original_id: 1682
 description: 'Fråga: Vänligen, hänvisa mig till en bok som innehåller många svaga och avvisade ahādīth så att jag genom att känna till dem kan hålla mig borta från dem.'
 ---

@@ -1,7 +1,7 @@
 ---
 title: Följ böneutroparen och be sedan hälsningsbönen till moskén om du kommer sent
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 293 s. ISBN saknas'
 categories: – Bön (Salāh) – Böneutrop
 original_id: 285

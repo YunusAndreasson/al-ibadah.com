@@ -1,10 +1,10 @@
 ---
 title: Profeten har inte kunskap om det som är dolt för människor
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 288 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Sändebuden
+categories: – Troslära (´Aqīdah) – Sändebuden
 original_id: 125
 description: 'Fråga: Är profeten – över honom vare Allāhs frid och välsignelser – närvarande överallt och ser han allt? Jag menar, har han kunskap om det som är dolt
  för människor? Svar: Grunden i frågor om...'
@@ -36,7 +36,7 @@ Umm 'Alai säger i en lång och autentisk *hadīth[^2]*:
 
 > ”Jag vet inte – och jag är Allāhs sändebud – vad som kommer att hända med honom.” [*al-Bukhārī* 3929]
 
-I många *ahādīth[^2]* rapporterats att Allāh har informerat profeten – över honom vare Allāhs frid och välsignelser – om vilket som skulle bli slutet för somliga av hans följeslagare, och han gav dem det glada budskapet om Paradiset. I en *hadīth[^2]* som al-Bukhārī och Muslim har återgivit från ʿUmar bin al-Khattab berättas att Gabriel frågade profeten – över honom vare Allāhs frid och välsignelser – om Timmens tidpunkt, och han svarade:
+I många *ahādīth[^2]* rapporterats att Allāh har informerat profeten – över honom vare Allāhs frid och välsignelser – om vilket som skulle bli slutet för somliga av hans följeslagare, och han gav dem det glada budskapet om Paradiset. I en *hadīth[^2]* som al-Bukhārī och Muslim har återgivit från ´Umar bin al-Khattab berättas att Gabriel frågade profeten – över honom vare Allāhs frid och välsignelser – om Timmens tidpunkt, och han svarade:
 
 > ”Den som tillfrågas vet inte mer än den som frågar.” [*al-Bukhārī* 50 och *Muslim*, kap. 8]
 

@@ -1,6 +1,6 @@
 ---
 title: Betala allmosa till en rāfidi
-author: Ibn ʿAbdur-Rahman al-Jibrin
+author: Ibn ´Abdur-Rahman al-Jibrin
 source: al-Lu’lu’ al-Makīn min Fatāwa Fadīlat al-shaykh Ibn Jibrīn, s. 39
 categories: – Allmosa (Zakāh) – De som får ta emot allmosa
 original_id: 1315

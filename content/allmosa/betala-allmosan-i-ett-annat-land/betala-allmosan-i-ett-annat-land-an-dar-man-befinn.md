@@ -1,7 +1,7 @@
 ---
 title: Betala allmosan i ett annat land än där man befinner sig
-author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ´Abdur-Rahman al-Jibrīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 187 s. ISBN saknas'
 categories: – Allmosa (Zakāh) – Betala allmosan i ett annat land
 original_id: 632

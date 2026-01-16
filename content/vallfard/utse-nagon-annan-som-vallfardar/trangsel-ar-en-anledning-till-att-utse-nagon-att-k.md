@@ -1,7 +1,7 @@
 ---
 title: Trängsel är en anledning till att utse någon att kasta stenarna på pelarna
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 165 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Utse någon annan som vallfärdar
 original_id: 791

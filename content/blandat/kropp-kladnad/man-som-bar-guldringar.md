@@ -1,7 +1,7 @@
 ---
 title: Män som bär guldringar
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories: – Blandat – Kropp & klädnad
 original_id: 1698

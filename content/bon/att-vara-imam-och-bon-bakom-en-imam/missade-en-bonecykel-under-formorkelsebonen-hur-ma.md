@@ -1,6 +1,6 @@
 ---
 title: Missade en bönecykel under förmörkelsebönen – hur man då tar igen den
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 566 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Att vara imam och bön bakom en imam

@@ -1,9 +1,9 @@
 ---
 title: Straffet i graven och om det kan mildras för den troende som syndat
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 170 s. ISBN 9960-892-66-2'
-categories: – Troslära (ʿAqīdah) – Livet i graven
+categories: – Troslära (´Aqīdah) – Livet i graven
 original_id: 1180
 description: 'Fråga: Kan straffet i graven mildras för den troende som har syndat? Svar: Ja,
  det kan mildras. Profeten – över honom vare Allāhs frid och välsignelser – gick

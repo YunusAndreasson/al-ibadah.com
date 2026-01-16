@@ -1,10 +1,10 @@
 ---
 title: as-Sadah som skadar sig själva med dolkar och utövar magi
-author: Ibn ʿAbdullah Ibn Bāz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ´Abdullah Ibn Bāz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 159 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Siare och trollkarlar
+categories: – Troslära (´Aqīdah) – Siare och trollkarlar
 original_id: 78
 description: 'Fråga: I några kvarter i Jemen finns det folk som kallas as-sadah
  . De gör sådant som inte är enligt religionen, såsom magi och andra saker, och de
@@ -41,7 +41,7 @@ När de inte tillåter att deras döttrar gifter sig med andra än dem, medan de
 
 > ”Människor! Vi har skapat er av en man och en kvinna, och Vi har samlat er i folk och stammar för att ni ska lära känna varandra. Inför Gud är den av er bäst vars Gudsfruktan är djupast. Gud vet allt, är underrättad om allt.” [Koranen 49:13]
 
-Även om dem tillhör as-Sadah eller Bani Hashim[^8] har de ingen rätt att förbjuda att deras döttrar gifter sig med andra än dem. Detta avvisas och motsägs av det som har rapporterats från Allāhs sändebud. Han gifte ju sig med Zainab som var dotter till hans farbror Zaid bin Harithah och han tillhörde stammen Bani Asad. Han gifte även bort Fatimah bint Qais till Usamah bin Zaid och hon tillhörde stammen Quraish. ʿAlī gifte bort Umm Kulthum till ʿUmar bin al-Khattab och hon tillhörde inte Bani Hashim[^8] utan i stället tillhörde hon Bani 'Adi. Sådana händelser inträffade ofta och de bevisar det ogiltiga i denna åsikt. De motsäger sig också vad de rättfärdiga föregångarna brukade göra. Vi måste råda dem och varna dem för att motsäga sig Allāhs påbud.
+Även om dem tillhör as-Sadah eller Bani Hashim[^8] har de ingen rätt att förbjuda att deras döttrar gifter sig med andra än dem. Detta avvisas och motsägs av det som har rapporterats från Allāhs sändebud. Han gifte ju sig med Zainab som var dotter till hans farbror Zaid bin Harithah och han tillhörde stammen Bani Asad. Han gifte även bort Fatimah bint Qais till Usamah bin Zaid och hon tillhörde stammen Quraish. ´Alī gifte bort Umm Kulthum till ´Umar bin al-Khattab och hon tillhörde inte Bani Hashim[^8] utan i stället tillhörde hon Bani 'Adi. Sådana händelser inträffade ofta och de bevisar det ogiltiga i denna åsikt. De motsäger sig också vad de rättfärdiga föregångarna brukade göra. Vi måste råda dem och varna dem för att motsäga sig Allāhs påbud.
 
 De måste även rådas att vända sig till Allāh den Härlige i ånger för allt som de har gjort som motsäger sig den sanna islamiska lagen.
 

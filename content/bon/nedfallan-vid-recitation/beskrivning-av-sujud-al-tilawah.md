@@ -1,6 +1,6 @@
 ---
 title: Beskrivning av sujūd al-tilāwah
-author: Ibn ʿAbdullah Ibn Baz
+author: Ibn ´Abdullah Ibn Baz
 source: 'Majmū’ Fatāwa wa Maqālāt Samāhat al-shaykh Ibn Bāz, 11/406 Muhammed Knut
  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Bön (Salāh) – Nedfallan vid recitation
@@ -34,7 +34,7 @@ Det som är obligatoriskt att säga är ”*Subhāna Rabbiy al-A’lā* [Lovpris
 
 [^1]: sujūd, nedfallandet när pannan läggs mot marken.
 [^2]: Du´ā
-[^3]: Wudû´
+[^3]: Wudū
 [^4]: Att säga Allahu Akbar.
 [^5]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^6]: Dhikr

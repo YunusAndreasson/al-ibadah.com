@@ -1,7 +1,7 @@
 ---
 title: Ghusl under en dusch är tillräckligt
-author: Ibn ʿAbdur-Rahman al-Jibrin
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdur-Rahman al-Jibrin
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 75 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
 original_id: 1430
@@ -17,5 +17,5 @@ description: 'Fråga: Jag skulle på ett klart och tydligt sätt vilja veta vilk
 *Ghusl[^1]* under en dusch är tillräckligt om man täcker hela kroppen med vatten, även om det enbart sker en gång.
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
-[^2]: Wudû´
+[^2]: Wudū
 

@@ -1,7 +1,7 @@
 ---
 title: Kvinnor under månadsblödningen och kvinnor som blöder efter graviditeten – får de röra Koranen?
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories: – Renhet (Tahārah) – Blödning efter graviditeten
 original_id: 1668

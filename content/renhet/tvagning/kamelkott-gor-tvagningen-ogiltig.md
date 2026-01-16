@@ -1,7 +1,7 @@
 ---
 title: Kamelkött gör tvagningen ogiltig
-author: Muḥammad bin Salih al-ʿUthaymin
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muḥammad bin Salih al-´Uthaymin
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 89 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Tvagning
 original_id: 1438
@@ -19,6 +19,6 @@ Den korrekta åsikten är att det är obligatoriskt att tvaga sig när man har �
 
 Och en man frågade honom: ”*Allāhs sändebud! Bör vi tvaga oss efter att ha ätit get?*” Han svarade: ”*Om ni vill*.” Han sade: ”*Bör vi tvaga oss när vi har ätit kamelkött?*” Han svarade: ”*Ja*.” [*Muslim* 360] Då han gjorde det frivilligt att tvaga efter att ha ätit getkött, bevisar det att det inte är frivilligt när man har ätit kamelkött. Detta är innebörden av skyldigheten att tvaga när man har ätit kamelkött från ett hondjur.
 
-[^1]: Wudû´
+[^1]: Wudū
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

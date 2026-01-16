@@ -1,10 +1,10 @@
 ---
 title: Höja händerna vid åkallan under fredagsbönen
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 476 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Innovationer
+categories: – Troslära (´Aqīdah) – Innovationer
 original_id: 368
 description: 'Fråga: Vilket är utlåtandet om att en av Allāhs tjänare höjer händerna
  när han säger āmīn under åkallan med imamen under predikan? Vilket är utlåtandet

@@ -1,6 +1,6 @@
 ---
 title: Säga ”Aqāmahā Allāh wa adāmahā” efter iqāmah
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa tata'allaq bi-Jamā'ah al-Masjid – fråga 26, sida 26
 categories: – Bön (Salāh) – Iqāmah [Det andra böneutropet]
 original_id: 559

@@ -1,7 +1,7 @@
 ---
 title: Röra fingret under tashahhud
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 208 s. ISBN saknas'
 categories: – Bön (Salāh) – Praktiska detaljer i bönen
 original_id: 224

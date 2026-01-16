@@ -1,7 +1,7 @@
 ---
 title: Att lita på kalkyleringar för att bekräfta nymånen är inte tillåtet
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 222 s. ISBN saknas'
 categories: – Fasta (Sawm) – När ramadan börjar och slutar
 original_id: 1389

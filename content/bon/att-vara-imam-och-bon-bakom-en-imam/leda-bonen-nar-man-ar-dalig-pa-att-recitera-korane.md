@@ -1,6 +1,6 @@
 ---
 title: Leda bönen när man är dålig på att recitera Koranen
-author: Ibn ʿAbdullah Ibn Baz
+author: Ibn ´Abdullah Ibn Baz
 source: 'Majmū al-Fatāqa wal-Maqālāt al-Mutanawwi''ah – volym 12, sida 96 – 97 Muhammed
  Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Bön (Salāh) – Att vara imam och bön bakom en imam

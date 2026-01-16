@@ -1,6 +1,6 @@
 ---
 title: Tiden för nattbönen [isha]
-author: Ibn ʿAbdullaah Ibn Baz
+author: Ibn ´Abdullaah Ibn Baz
 source: Majmū’ah Fatāwa al-shaykh ‘Abd al-‘Azīz ibn Bāz, 10/386
 categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 1272

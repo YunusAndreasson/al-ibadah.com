@@ -1,4 +1,4 @@
-import { createFileRoute, Link } from '@tanstack/react-router'
+import { createFileRoute } from '@tanstack/react-router'
 import { Footer } from '~/components/layout/Footer'
 import { Header } from '~/components/layout/Header'
 
@@ -6,23 +6,13 @@ export const Route = createFileRoute('/')({
   component: HomePage,
 })
 
-const categories = [
-  { slug: 'troslara', name: 'Troslära', description: 'Islamisk teologi och trosbekännelse' },
-  { slug: 'renhet', name: 'Renhet', description: 'Rituell renhet och tvagning' },
-  { slug: 'bon', name: 'Bön', description: 'Böner och bönetider' },
-  { slug: 'allmosa', name: 'Allmosa', description: 'Zakāt och välgörenhet' },
-  { slug: 'fasta', name: 'Fasta', description: 'Ramadan och fasta' },
-  { slug: 'vallfard', name: 'Vallfärd', description: 'Hajj och ʿUmrah' },
-  { slug: 'blandat', name: 'Blandat', description: 'Övriga ämnen' },
-]
-
 function HomePage() {
   return (
     <div className="min-h-screen flex flex-col">
       <Header />
 
       <main id="main" className="w-full max-w-3xl mx-auto px-4 py-12 sm:py-16 flex-1">
-        <section className="mb-12 sm:mb-16">
+        <section>
           <div className="prose-reading">
             <p className="text-center mb-6">
               <span className="font-arabic text-xl leading-relaxed">بسم الله الرحمن الرحيم</span>
@@ -74,23 +64,6 @@ function HomePage() {
               Må frid och välsignelser vara över profeten Muḥammad, hans familj och hans
               följeslagare.
             </p>
-          </div>
-        </section>
-
-        <section>
-          <div className="grid gap-3">
-            {categories.map((category) => (
-              <Link
-                key={category.slug}
-                to={`/${category.slug}`}
-                className="group block p-4 sm:p-5 border border-border rounded-lg hover-border"
-              >
-                <h3 className="font-medium mb-1 group-hover:text-foreground">{category.name}</h3>
-                <p className="text-muted-foreground text-sm leading-relaxed">
-                  {category.description}
-                </p>
-              </Link>
-            ))}
           </div>
         </section>
       </main>

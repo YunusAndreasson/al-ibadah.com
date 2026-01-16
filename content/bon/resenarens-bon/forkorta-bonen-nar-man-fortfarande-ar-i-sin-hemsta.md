@@ -1,6 +1,6 @@
 ---
 title: Förkorta bönen när man fortfarande är i sin hemstad
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Liqa’ al-Bāb al-Maftūh
 categories: – Bön (Salāh) – Resenärens bön
 original_id: 541

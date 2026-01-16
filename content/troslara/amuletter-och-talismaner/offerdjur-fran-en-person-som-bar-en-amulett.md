@@ -1,9 +1,9 @@
 ---
 title: Offerdjur från en person som bär en amulett
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 41 s. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Amuletter och talismaner
+categories: – Troslära (´Aqīdah) – Amuletter och talismaner
 original_id: 36
 description: 'Fråga: Vilket är utlåtandet om ett offerdjur som någon som bär amuletter,
  knyter knutar och liknande har avlivat? Svar: En tamimah görs av kulor, skal
@@ -16,7 +16,7 @@ description: 'Fråga: Vilket är utlåtandet om ett offerdjur som någon som bä
 
 Ibn Mas'ūd hörde profeten – över honom vare Allāhs frid och välsignelser – säga: ”*Sannerligen är besvärjelser, amuletter och tiwalah[^2] shirk[^1]*.” [*Abū Dawūd* 3883, *Ahmad* 1:381 och *al-Hakim* 4:418]
 
-ʿAbdullāh bin 'Ukaym har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som bär [tamimah] kommer att lämnas med den*.” [*at-Tirmithi* 2072 och *Ahmad* 4:310, 311] Detta betyder att Allāh inte kommer att skydda denne. Denne kommer då att lämnas med det som denne bär för att skydda eller läka, vilket det aldrig kommer ha förmågan att göra.
+´Abdullāh bin 'Ukaym har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som bär [tamimah] kommer att lämnas med den*.” [*at-Tirmithi* 2072 och *Ahmad* 4:310, 311] Detta betyder att Allāh inte kommer att skydda denne. Denne kommer då att lämnas med det som denne bär för att skydda eller läka, vilket det aldrig kommer ha förmågan att göra.
 
 I *Sahīh al-Bukhārī* och *Sahīh Muslim* återges att Abū Bashir al-Ansari var med profeten – över honom vare Allāhs frid och välsignelser – när han sände någon för att beordra folket att plocka av alla halsband av snöre ifrån deras djur. [*al-Bukhārī* 3005] Oberoende av om de hänför de till besvärjelser eller inte förbjöd profeten – över honom vare Allāhs frid och välsignelser – i absoluta termer att snörband hängs runt kamelhalsar. Han beordrade även att de skulle klippas av. Före islam brukade man knyta snören runt kamelhalsar och på dem knyta amuletter för att skydda dem emot ”det onda ögat” samt sjukdomar. Profeten – över honom vare Allāhs frid och välsignelser – förbjöd detta och han beordrade att de skulle klippas av.
 

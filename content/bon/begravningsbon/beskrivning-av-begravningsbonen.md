@@ -1,6 +1,6 @@
 ---
 title: Beskrivning av begravningsbönen
-author: Ibn ʿAbdullah Ibn Baz
+author: Ibn ´Abdullah Ibn Baz
 source: Kitāb Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh ‘Abd al-‘Azīz
  ibn ‘Abd-Allāh ibn Bāz, vol 13, s. 141
 categories: – Bön (Salāh) – Begravningsbön
@@ -25,6 +25,6 @@ description: 'Fråga: Vänligen, förklara för oss hur begravningsbönen ska be
 
 [^1]: Att säga Allahu Akbar.
 [^2]: Du´ā
-[^3]: Tawāf är vandringen sju varv runt Kaʿbah.
+[^3]: Tawāf är vandringen sju varv runt Ka´bah.
 [^4]: Den avslutande hälsningen i bönen.
 

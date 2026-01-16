@@ -1,6 +1,6 @@
 ---
 title: Bedövning under fastan
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa Ramadan – volym 2, sida 525, fatwa 492
 categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 899

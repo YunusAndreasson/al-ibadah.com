@@ -1,10 +1,10 @@
 ---
 title: Stryka händerna över ens ansikte efter åkallan
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 295 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Innovationer
+categories: – Troslära (´Aqīdah) – Innovationer
 original_id: 697
 description: 'Fråga: Frågeställaren ställer två frågor: Vilket är utlåtandet om att
  stryka händerna över ansiktet efter åkallan? Får en man skaka en kvinnas hand? Svar: De

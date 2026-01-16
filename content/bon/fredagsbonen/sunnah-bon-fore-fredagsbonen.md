@@ -1,6 +1,6 @@
 ---
 title: Sunnah-bön före fredagsbönen
-author: Ibn ʿAbdullah Ibn Baz
+author: Ibn ´Abdullah Ibn Baz
 source: Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh al-‘Allāmah ‘Abd
  al-‘Azīz ibn ‘Abd-Allāh ibn Bāz, del 12, vol. 386
 categories: – Bön (Salāh) – Fredagsbönen

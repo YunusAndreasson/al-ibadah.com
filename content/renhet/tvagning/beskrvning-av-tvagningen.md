@@ -1,6 +1,6 @@
 ---
 title: Beskrivning av tvagningen
-author: Dr. Salih Ibn Fowzan Ibn ʿAbdullah Ibn Fowzan
+author: Dr. Salih Ibn Fowzan Ibn ´Abdullah Ibn Fowzan
 source: al-Mulakhkhas al-Fiqhi, 1/36
 categories: – Renhet (Tahārah) – Tvagning
 original_id: 1275
@@ -57,7 +57,7 @@ I en rapport från al-Tirmithi finns tillägget: ”*Allāhumma ij’alni min al
 
 Se vidare i *al-Mulakhkhas al-Fiqhi* by al-Fawzān, 1/36.
 
-[^1]: Wudû´
+[^1]: Wudū
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: I Guds namn.
 [^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

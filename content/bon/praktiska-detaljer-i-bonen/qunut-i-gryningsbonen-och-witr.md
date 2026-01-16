@@ -1,7 +1,7 @@
 ---
 title: Qunūt i gryningsbönen och witr
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 300 s. ISBN saknas'
 categories: – Bön (Salāh) – Praktiska detaljer i bönen
 original_id: 289
@@ -20,7 +20,7 @@ Med detta som grund: Om *qunūt[^1]* reciteras i böner med höjd röst, då ska
 
 Vår åsikt är att när någon stor katastrof inträffar, då bör *qunūt[^1]* reciteras. Om katastrofen är långvarig, då bör man inte fortsätta med *qunūt[^1]*.
 
-Den andra delen är *qunūt[^1]* under *witr[^3]*. Det är *sunnah[^6]* men det är inte *sunnah[^6]* att alltid recitera den. Men om man reciterar *qunūt[^1]* ibland, då är det något bra. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – lärde sitt barnbarn al-Hasan bin ʿAlī bin Abi Tālib detta.
+Den andra delen är *qunūt[^1]* under *witr[^3]*. Det är *sunnah[^6]* men det är inte *sunnah[^6]* att alltid recitera den. Men om man reciterar *qunūt[^1]* ibland, då är det något bra. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – lärde sitt barnbarn al-Hasan bin ´Alī bin Abi Tālib detta.
 
 När det gäller frågeställarens ord ”likt kvällsbönen[^5]”, då ska man inte säga så. Anledningen är att när man ber en tre bönecykler[^4] lång *witr[^3]*-bön, då väljer man om man vill be den med två *taslīm[^7]* [man ber då två bönecykler[^4] och gör sedan *taslīm[^7]*, för att sedan be en tredje] eller om man vill be den med en *tashahhud[^8]* efterföljd av en *taslīm[^7]*. Ber man den med två *tashahhud[^8]*, då skulle den likna kvällsbönen[^5] och profeten – över honom vare Allāhs frid och välsignelser – förbjöd detta.
 

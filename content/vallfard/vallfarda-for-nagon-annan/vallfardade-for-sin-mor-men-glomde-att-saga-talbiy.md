@@ -1,8 +1,8 @@
 ---
 title: Vallfärdade för sin mor men glömde att säga talbiyyah för henne då han gick
  in i ihrām
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 69 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Vallfärda för någon annan
 original_id: 1325

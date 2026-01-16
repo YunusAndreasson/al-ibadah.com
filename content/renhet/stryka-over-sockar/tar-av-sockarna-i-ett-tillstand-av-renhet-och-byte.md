@@ -1,7 +1,7 @@
 ---
 title: Tar av sockarna i ett tillstånd av renhet och byter dem innan tvagningen blivit
  ogiltig
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 342 s. ISBN 9960-892-66-2'
 categories: – Renhet (Tahārah) – Stryka över sockar
@@ -24,5 +24,5 @@ Hade det funnits någon av de lärda som hade framfört det, då vore det enligt
 
 Och kunskapen finns hos Allāh.
 
-[^1]: Wudû´
+[^1]: Wudū
 

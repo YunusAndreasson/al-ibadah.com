@@ -1,7 +1,7 @@
 ---
 title: Tarāwīh med avsikten att be nattbönen [isha]
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 176 s. ISBN saknas'
 categories: – Fasta (Sawm) – Nattbön (tarawih)
 original_id: 1480

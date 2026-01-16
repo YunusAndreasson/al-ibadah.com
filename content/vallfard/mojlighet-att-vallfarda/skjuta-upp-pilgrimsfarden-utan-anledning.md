@@ -1,6 +1,6 @@
 ---
 title: Skjuta upp pilgrimsfärden utan anledning
-author: Ibn ʿAbdullah Ibn Baz
+author: Ibn ´Abdullah Ibn Baz
 source: 'Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh ‘Abd al-‘Azīz
  ibn Bāz 16/359 Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius.
  ISBN 91-7118-887-8'
@@ -23,7 +23,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 När [ängeln] Gabriel frågade profeten – över honom vare Allāhs frid och välsignelser – om islam så sade han:
 
-> “Det innebär att man vittnar om att det inte finns någon gud utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av den obligatoriska bönen, betalning av allmosa, fasta under ramadan[^1] och vallfärda om du har medlen till det.” [*Muslim* 8 i en *hadīth[^2]* från ʿUmar ibn al-Khattāb]
+> “Det innebär att man vittnar om att det inte finns någon gud utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av den obligatoriska bönen, betalning av allmosa, fasta under ramadan[^1] och vallfärda om du har medlen till det.” [*Muslim* 8 i en *hadīth[^2]* från ´Umar ibn al-Khattāb]
 
 Och Allāh är källan till all styrka.
 

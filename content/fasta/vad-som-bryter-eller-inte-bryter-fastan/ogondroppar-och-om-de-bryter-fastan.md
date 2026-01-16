@@ -1,7 +1,7 @@
 ---
 title: Ögondroppar och om de bryter fastan
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 266 s. ISBN saknas'
 categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 424

@@ -1,7 +1,7 @@
 ---
 title: Visdomen i att recitera högt i vissa böner och lågt i andra
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 142 s. ISBN saknas'
 categories: – Bön (Salāh) – Blandade utlåtanden
 original_id: 187

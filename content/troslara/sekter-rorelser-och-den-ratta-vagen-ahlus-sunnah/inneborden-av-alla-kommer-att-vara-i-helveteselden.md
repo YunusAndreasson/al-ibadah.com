@@ -1,9 +1,9 @@
 ---
 title: 'Innebörden av: ”... alla kommer att vara i Helveteselden utom en grupp.”'
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 21 s. ISBN saknas.'
-categories: – Troslära (ʿAqīdah) – Sekter, rörelser och den rätta vägen – ahlus-sunnah
+categories: – Troslära (´Aqīdah) – Sekter, rörelser och den rätta vägen – ahlus-sunnah
 original_id: 25
 description: 'Fråga: Vilken är innebörden av följande hadīth : ”Mitt samfund kommer
  att splittras i 73 [olika grupper]. Alla kommer att vara i Helveteselden utom en

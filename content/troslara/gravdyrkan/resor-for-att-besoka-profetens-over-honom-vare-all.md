@@ -1,9 +1,9 @@
 ---
 title: Resor för att besöka profetens – över honom vare Allāhs frid och välsignelser – grav
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 253 s. ISBN 9960-892-66-2'
-categories: – Troslära (ʿAqīdah) – Gravdyrkan
+categories: – Troslära (´Aqīdah) – Gravdyrkan
 original_id: 1195
 description: 'Fråga: Vilket är utlåtandet om att resa för att besöka profetens – över honom vare Allāhs frid och välsignelser – grav? Svar: Att resa för att
  besöka gravar är inte tillåtet oberoende av vilken...'

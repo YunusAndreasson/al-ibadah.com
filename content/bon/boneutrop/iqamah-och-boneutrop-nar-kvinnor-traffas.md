@@ -1,6 +1,6 @@
 ---
 title: Iqāmah och böneutrop när kvinnor träffas
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa al-Marah
 categories: – Bön (Salāh) – Böneutrop
 original_id: 576

@@ -1,6 +1,6 @@
 ---
 title: Djävulen skapar förvirring under bönen och vid tvagning
-author: Ibn ʿAbdullah Ibn Baz
+author: Ibn ´Abdullah Ibn Baz
 source: 'Fatāwa al-Marah Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn:
  Proprius. ISBN 91-7118-887-8'
 categories: – Bön (Salāh)
@@ -27,5 +27,5 @@ Vi söker tillflykt hos Allāh från oss själva och djävulen.
 [^1]: Rakah.
 [^2]: sujūd, nedfallandet när pannan läggs mot marken.
 [^3]: Du´ā
-[^4]: Wudû´
+[^4]: Wudū
 

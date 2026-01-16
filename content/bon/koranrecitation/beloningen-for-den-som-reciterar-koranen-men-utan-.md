@@ -1,7 +1,7 @@
 ---
 title: Belöningen för den som reciterar Koranen men utan att förstå den
-author: Muḥammad bin Salih al-ʿUthaymin
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muḥammad bin Salih al-´Uthaymin
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories: – Bön (Salāh) – Koranrecitation
 original_id: 1663

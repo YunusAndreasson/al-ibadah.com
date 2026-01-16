@@ -1,7 +1,7 @@
 ---
 title: Status för vallfärden inom islam och villkor för att det ska vara obligatoriskt
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: 'Fatāwa Ibn ʿUthaymīn 21/9-11 Muhammed Knut Bernström (1421), Koranens budskap
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: 'Fatāwa Ibn ´Uthaymīn 21/9-11 Muhammed Knut Bernström (1421), Koranens budskap
  . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Vallfärd (Hajj)
 original_id: 892

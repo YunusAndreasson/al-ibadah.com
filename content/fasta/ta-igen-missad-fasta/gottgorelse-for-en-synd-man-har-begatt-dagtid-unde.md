@@ -1,7 +1,7 @@
 ---
 title: Gottgörelse för en synd man har begått dagtid under ramadan
-author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ´Abdur-Rahman al-Jibrīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 259 s. ISBN saknas'
 categories: – Fasta (Sawm) – Ta igen missad fasta
 original_id: 414

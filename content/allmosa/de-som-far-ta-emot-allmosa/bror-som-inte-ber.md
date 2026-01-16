@@ -1,7 +1,7 @@
 ---
 title: Bror som inte ber
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 193 s. ISBN saknas'
 categories: – Allmosa (Zakāh) – De som får ta emot allmosa
 original_id: 642

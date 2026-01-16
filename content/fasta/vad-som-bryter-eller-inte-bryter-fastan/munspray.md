@@ -1,6 +1,6 @@
 ---
 title: Munspray
-author: Dr. Salih Ibn Fowzan Ibn ʿAbdullah Ibn Fowzan
+author: Dr. Salih Ibn Fowzan Ibn ´Abdullah Ibn Fowzan
 source: al-Muntaqā min Fatāwa ash-shaykh Sālih ibn Fowzān – Volume 3, Page 130
 categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 1377

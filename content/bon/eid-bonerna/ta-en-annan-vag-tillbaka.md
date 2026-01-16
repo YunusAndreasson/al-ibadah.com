@@ -1,7 +1,7 @@
 ---
 title: Ta en annan väg tillbaka
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: Majmoo’ Fatāwa al-ʿUthaymīn, 16/216-223
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: Majmoo’ Fatāwa al-´Uthaymīn, 16/216-223
 categories: – Bön (Salāh) – '''Eid-bönerna'
 original_id: 1595
 description: 'Fråga: Skall man ta en annan väg tillbaka på väg hem från `eid -bönen? Svar: För

@@ -2,10 +2,10 @@
 title: Sända hälsningar över profeten – över honom vare Allāhs frid och välsignelser – minst en
  gång under livet är en skyldighet
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 276 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Sändebuden
+categories: – Troslära (´Aqīdah) – Sändebuden
 original_id: 116
 description: Somliga anser att det är obligatoriskt att sända fridshälsningar över
  profeten – över honom vare Allāhs frid och välsignelser – minst en gång i livet

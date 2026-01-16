@@ -1,6 +1,6 @@
 ---
 title: Bära parfym när man går till sjukhus, skolan eller för att besöka släktingar
-author: Ibn ʿAbdullah Ibn Baz
+author: Ibn ´Abdullah Ibn Baz
 source: Fatāwa al-Da’wah av shaykh ‘Abd al-‘Azīz ibn ‘Abd-Allāh ibn Bāz, 1/185
 categories: – Blandat – Kropp & klädnad
 original_id: 1716

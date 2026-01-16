@@ -1,7 +1,7 @@
 ---
 title: Bad under fredagar är en högst rekommenderad sunnah
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 464 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
 original_id: 1547
@@ -24,5 +24,5 @@ Hans ord: ”... *obligatoriskt för varje vuxen man*” betyder enligt en major
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^4]: Kan liknas vid en tandborste. Gjord av Arak-trädets rötter.
-[^5]: Wudû´
+[^5]: Wudū
 

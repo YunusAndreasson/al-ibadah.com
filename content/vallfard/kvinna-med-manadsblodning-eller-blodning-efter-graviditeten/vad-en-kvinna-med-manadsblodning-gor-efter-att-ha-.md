@@ -1,11 +1,11 @@
 ---
-title: Vad en kvinna med månadsblödning gör efter att ha trätt in i ihrām för 'umrah
-author: Ibn ʿAbdur-Rahman al-Jibrin
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+title: Vad en kvinna med månadsblödning gör efter att ha trätt in i ihrām för ´umrah
+author: Ibn ´Abdur-Rahman al-Jibrin
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 154 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Kvinna med månadsblödning eller blödning efter graviditeten
 original_id: 1346
-description: 'Fråga: Om en kvinna som utför hajjul-tamattu'' går in i ihrām,
+description: 'Fråga: Om en kvinna som utför hajjul-tamattu´' går in i ihrām,
  och precis innan hon når Ka’bah får sin månadsblödning, vad bör hon göra då? Bör
  hon utföra vallfärden innan ‘umrah? Svar: H...'
 ---

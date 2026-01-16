@@ -1,9 +1,9 @@
 ---
 title: Besvärjelser och amuletter till sjuka och gamlingar
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 36 s. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Amuletter och talismaner
+categories: – Troslära (´Aqīdah) – Amuletter och talismaner
 original_id: 33
 description: 'Fråga: Det finns somliga som gör amuletter till sjuka, galningar och
  psykiatripatienter och i dem inkluderas delar av Koranen och profetens – över honom

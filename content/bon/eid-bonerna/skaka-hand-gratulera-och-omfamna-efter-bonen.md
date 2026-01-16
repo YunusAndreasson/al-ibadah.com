@@ -1,6 +1,6 @@
 ---
 title: Skaka hand, gratulera och omfamna efter bönen
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Majmoo’ Fatāwa Ibn ‘Uthaymīn, 16/208-210
 categories: – Bön (Salāh) – '''Eid-bönerna'
 original_id: 1589

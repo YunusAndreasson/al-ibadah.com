@@ -1,6 +1,6 @@
 ---
 title: Böneutrop före ‘eid-bönen
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Majmoo’ Fatāwa Ibn ‘Uthaymīn, 16/237
 categories: – Bön (Salāh) – '''Eid-bönerna'
 original_id: 1588

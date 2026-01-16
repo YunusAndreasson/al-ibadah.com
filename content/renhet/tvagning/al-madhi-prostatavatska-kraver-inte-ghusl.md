@@ -1,7 +1,7 @@
 ---
 title: al-Madhi [prostatavätska] kräver inte ghusl
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 66 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Tvagning
 original_id: 1428
@@ -18,5 +18,5 @@ De som hade haft avgång av *al-madhi* fick ordern att tvätta penis och testikl
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Vandringen runt Kabah som består av sju rundor.
-[^3]: Wudû´
+[^3]: Wudū
 

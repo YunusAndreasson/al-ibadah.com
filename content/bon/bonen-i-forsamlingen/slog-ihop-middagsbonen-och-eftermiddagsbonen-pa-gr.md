@@ -2,7 +2,7 @@
 title: Slog ihop middagsbönen och eftermiddagsbönen på grund av regn men sedan slutade
  det att regna
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 151 s. ISBN saknas'
 categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 1469
@@ -13,13 +13,13 @@ description: 'Fråga: Om de slog ihop eftermiddagsbönen och middagsbönen och b
 
 **Fråga:** Om de slog ihop eftermiddagsbönen[^1] och middagsbönen[^2] och bad dem vid middagsbönen[^2], och de även utförde nattbönen[^3] och kvällsbönen[^4] på ett liknande sätt, med anledning av regnväder under middagsbönen[^2] och kvällsbönen[^4], sedan slutade regnet, antingen vid middagsbönen[^2] eller tiden för nattbönen[^3] – bör bönerna för eftermiddagsbönen[^1] och nattbönen[^3] då upprepas?
 
-**Svar:** De lärde har nämnt att regn som är tillräckligt för att göra kläderna blöta och göra det obekvämt är en giltig ursäkt för att slå ihop bönerna. De är eniga om att det är tillåtet att slå ihop nattbönen[^3] och kvällsbönen[^4] med anledning av regn som gör kläderna våta. Detta grundas på en återberättelse från Abū Salam bin ʿAbdur-Rahmān. Han säger: ”*Det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^5]* för oss att under dagar då det regnar slå ihop kvällsbönen[^4] och nattbönen*.”
+**Svar:** De lärde har nämnt att regn som är tillräckligt för att göra kläderna blöta och göra det obekvämt är en giltig ursäkt för att slå ihop bönerna. De är eniga om att det är tillåtet att slå ihop nattbönen[^3] och kvällsbönen[^4] med anledning av regn som gör kläderna våta. Detta grundas på en återberättelse från Abū Salam bin ´Abdur-Rahmān. Han säger: ”*Det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^5]* för oss att under dagar då det regnar slå ihop kvällsbönen[^4] och nattbönen*.”
 
-al-Bukhārī har återberättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – slog ihop kvällsbönen[^4] och nattbönen[^3] under en regning natt. De lärde är eniga om det är tillåtet att slå ihop middagsbönen[^2] och eftermiddagsbönen[^1]. Några tillåter och som bevis citerar de en återberättelse från al-Hasan bin Wabhdhah, från Musa bin 'Uqbah, från Nafi', från Ibn ʿUmar där profeten – över honom vare Allāhs frid och välsignelser – slog ihop middagsbönen[^2] och eftermiddagsbönen[^1] i Medina när det regnade. al-Qadhi och Abū al-Khattab har denna åsikt, och det är åsikten i ash-Shafi'is rättsskola.
+al-Bukhārī har återberättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – slog ihop kvällsbönen[^4] och nattbönen[^3] under en regning natt. De lärde är eniga om det är tillåtet att slå ihop middagsbönen[^2] och eftermiddagsbönen[^1]. Några tillåter och som bevis citerar de en återberättelse från al-Hasan bin Wabhdhah, från Musa bin 'Uqbah, från Nafi', från Ibn ´Umar där profeten – över honom vare Allāhs frid och välsignelser – slog ihop middagsbönen[^2] och eftermiddagsbönen[^1] i Medina när det regnade. al-Qadhi och Abū al-Khattab har denna åsikt, och det är åsikten i ash-Shafi'is rättsskola.
 
 Några av de lärde anser att det inte är tillåtet att slå ihop middagsbönen[^2] och eftermiddagsbönen[^1] på grund av regn. Anledningen är att rätten till att göra detta endast har rapporterats för kvällsbönen[^4] och nattbönen[^3] samt att svårigheterna vid detta tillfälle är större. Ibn Qudamah har i *al-Mughni* sagt:
 
-> ”När det gäller att slå ihop middagsbönen[^2] och eftermiddagsbönen[^1] är det inte tillåtet. al-Athram sade: 'Det sades till Abū ʿAbdullāh: Hur är det med att slå ihop middagsbönen[^2] och eftermiddagsbönen[^1]? Han sade: 'Nej, jag har inte hört talas om det.' Detta var åsikten som Abū Bakr, Ibn Hamid och Mālik föredrog."
+> ”När det gäller att slå ihop middagsbönen[^2] och eftermiddagsbönen[^1] är det inte tillåtet. al-Athram sade: 'Det sades till Abū ´Abdullāh: Hur är det med att slå ihop middagsbönen[^2] och eftermiddagsbönen[^1]? Han sade: 'Nej, jag har inte hört talas om det.' Detta var åsikten som Abū Bakr, Ibn Hamid och Mālik föredrog."
 
 När han hade nämnt åsikterna som stödjer att det är tillåtet att slå ihop middagsbönen[^2] och eftermiddagsbönen[^1] sade han:
 

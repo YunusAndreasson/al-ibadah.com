@@ -1,7 +1,7 @@
 ---
 title: Uttala avsikten under vallfärden och ‘umrah
-author: Muḥammad bin Salih al-ʿUthaymin
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Muḥammad bin Salih al-´Uthaymin
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 114 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Ihrām och avsikten inför vallfärden
 original_id: 1335
@@ -23,7 +23,7 @@ I en *hadīth[^6]* som har rapporterats från Allāhs sändebud – över honom 
 [^1]: Den lilla vallfärden.
 [^2]: Den sju långa rundar vandringen runt Kabah.
 [^3]: Vandringen mellan as-Safa och al-Marwa.
-[^4]: Wudû´
+[^4]: Wudū
 [^5]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^6]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^7]: Säga Labbayk Allahumma Labbayk under vallfärden.

@@ -1,6 +1,6 @@
 ---
 title: Skjuta upp nattbönen [isha] och be den sent
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa al-Marah
 categories: – Bön (Salāh) – Blandade utlåtanden
 original_id: 570

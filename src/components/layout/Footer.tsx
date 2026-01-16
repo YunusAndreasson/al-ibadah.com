@@ -1,7 +1,7 @@
 export function Footer() {
   return (
     <footer className="w-full mt-auto">
-      <div className="max-w-3xl mx-auto px-4 pt-16 pb-8">
+      <div className="max-w-3xl mx-auto px-4 pt-8 pb-8">
         <p className="font-mono text-[11px] tracking-tight text-muted-foreground/50">
           <span className="uppercase tracking-widest">Est</span>
           <span className="mx-1.5 opacity-60">/</span>
@@ -9,7 +9,7 @@ export function Footer() {
           <span className="mx-3 opacity-30">·</span>
           <a
             href="https://creativecommons.org/licenses/by/4.0/deed.sv"
-            className="hover:text-muted-foreground transition-colors"
+            className="underline decoration-transparent hover:decoration-current transition-colors"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -18,7 +18,7 @@ export function Footer() {
           <span className="mx-3 opacity-30">·</span>
           <a
             href="mailto:yunus@edenmind.com"
-            className="hover:text-muted-foreground transition-colors"
+            className="underline decoration-transparent hover:decoration-current transition-colors"
           >
             yunus@edenmind.com
           </a>

@@ -1,6 +1,6 @@
 ---
 title: Misstag eller glömska – om man ska avsluta eller fortsätta
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: Fatāwa al-shaykh Muḥammad al-‘Uthaymīn, 1/425
 categories: – Bön (Salāh) – Glömska och dålig koncentration
 original_id: 1297
@@ -11,7 +11,7 @@ description: 'Fråga: Ibland, eller rättare sagt ofta, gör jag misstag under m
 
 **Fråga:** Ibland, eller rättare sagt ofta, gör jag misstag under min bön. Antingen så glömmer jag hur många bönecykler[^1] jag har bett eller så är det något annat. Avslutar jag bönen och gör om den eller fortsätter jag?
 
-**Svar:** All lovprisan tillhör Allāh. Shaykh Muḥammad al-ʿUthaymīn ställdes frågan och sade:
+**Svar:** All lovprisan tillhör Allāh. Shaykh Muḥammad al-´Uthaymīn ställdes frågan och sade:
 
 Den korrekta åsikten är att detta inte gör bönen ogiltig. Tvivel kommer ju ofta till en utan att man vill det. Profeten – över honom vare Allāhs frid och välsignelser – har förklarat vad som gäller vid tvivel i bönen och att tvivel hamnar i en av två kategorier:
 

@@ -13,7 +13,7 @@ description: 'Fråga: Får vi be två obligatoriska böner med samma tvagning? S
 
 När någon tvagar sig men utan avsikt att be, som när man endast tvagar sig för att få bort någon orenhet, då får man be så många obligatoriska och icke-obligatoriska bönerna man vill. Detta gäller tills ens tvagning[^1] bryts.
 
-[^1]: Wudû´
+[^1]: Wudū
 [^2]: Dhuhr
 [^3]: Asr
 

@@ -1,7 +1,7 @@
 ---
 title: Silversmycken
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 176 s. ISBN saknas'
 categories: – Allmosa (Zakāh) – Allmosa för smycken
 original_id: 1383
@@ -20,7 +20,7 @@ När det gäller guld är den lägsta nivån 20 *mithqal[^1]* och det är 11 ½ 
 
 Denna *hadīth[^3]* har Muslim återgivit i sin *Sahīh*.
 
-I en *hadīth[^3]* återberättad av ʿAbdullāh bin 'Amr bin al-'Ās säger profeten – över honom vare Allāhs frid och välsignelser – till en kvinna som kom fram till honom med hennes dotter som bar två armringar av guld: ”*Betalar du allmosa för dessa?*” Kvinnan svarade: ”*Nej*.” Så han sade: ”*Nöjer det dig att Allāh kommer att göra dem till två armringar av eld till dig på Återuppståndelsens dag?*” Så hon slet av dem och sade: ”*De är för Allāh och Hans sändebud*.” [*Abū Dawūd* 1563] Denna *hadīth[^3]* har Abū Dawūd och an-Nasā’i återgivit med en autentisk berättarkedja. *Ahādīth[^3]* med samma innebörd är många.
+I en *hadīth[^3]* återberättad av ´Abdullāh bin 'Amr bin al-'Ās säger profeten – över honom vare Allāhs frid och välsignelser – till en kvinna som kom fram till honom med hennes dotter som bar två armringar av guld: ”*Betalar du allmosa för dessa?*” Kvinnan svarade: ”*Nej*.” Så han sade: ”*Nöjer det dig att Allāh kommer att göra dem till två armringar av eld till dig på Återuppståndelsens dag?*” Så hon slet av dem och sade: ”*De är för Allāh och Hans sändebud*.” [*Abū Dawūd* 1563] Denna *hadīth[^3]* har Abū Dawūd och an-Nasā’i återgivit med en autentisk berättarkedja. *Ahādīth[^3]* med samma innebörd är många.
 
 Och Allāh är Givaren av framgång.
 

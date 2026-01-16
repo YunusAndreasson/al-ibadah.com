@@ -1,7 +1,7 @@
 ---
 title: Tahiyyatul-Masjid under tidpunkter då bön är förbjudet
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 287 s. ISBN saknas'
 categories: – Bön (Salāh) – Tider då det är förbjudet att be
 original_id: 1506

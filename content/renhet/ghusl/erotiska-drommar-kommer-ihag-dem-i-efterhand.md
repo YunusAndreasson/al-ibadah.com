@@ -1,7 +1,7 @@
 ---
 title: Erotiska drömmar – kommer ihåg dem i efterhand
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 62 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
 original_id: 1427

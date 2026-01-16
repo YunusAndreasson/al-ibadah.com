@@ -1,7 +1,7 @@
 ---
 title: Tillåten åkallan efter iqāmah
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 124 s. ISBN saknas'
 categories: – Blandat – Åkallan
 original_id: 1457

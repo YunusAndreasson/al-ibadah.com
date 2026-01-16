@@ -1,9 +1,9 @@
 ---
 title: Sända fridshälsningar över profeten är tillåtet och så kallade "goda innovationer"
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 285 s. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Sändebuden
+categories: – Troslära (´Aqīdah) – Sändebuden
 original_id: 123
 description: 'Fråga: Om det är en god innovation att sända fridshälsningar, är det
  då tillåtet att förbjuda människor att sända fridshälsningar över den ädle profeten? Svar: Att

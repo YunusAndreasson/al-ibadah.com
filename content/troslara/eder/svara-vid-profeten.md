@@ -1,9 +1,9 @@
 ---
 title: Svära vid profeten
-author: Ibn ʿAbdullah Ibn Bāz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ´Abdullah Ibn Bāz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 98 s. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Eder
+categories: – Troslära (´Aqīdah) – Eder
 original_id: 65
 description: 'Fråga: Somliga har för vana att svära vid profeten – över honom vare
  Allāhs frid och välsignelser – eller vid någon annan skapelse. Detta har blivit
@@ -12,7 +12,7 @@ description: 'Fråga: Somliga har för vana att svära vid profeten – över ho
 
 **Fråga:** Somliga har för vana att svära vid profeten – över honom vare Allāhs frid och välsignelser – eller vid någon annan skapelse. Detta har blivit något vanligt och de tänker inte på det. Vilket är utlåtandet om detta?
 
-**Svar:** Att svära vid profeten – över honom vare Allāhs frid och välsignelser – eller någon annan skapad varelse är något mycket ont och det är en förbjuden månggudaaktig handling. Det är inte tillåtet att svära vid någon annan än Allāh. Imam Ibn ʿAbdul-Barr har rapporterat att det finns ett konsensus om att det är förbjudet att svära vid någon eller något annan än Allāh. Det har även rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att det är förbjudet och att det är en sorts shirk[^1]. I *Sahīh al-Bukhārī* och *Sahīh Muslim* kan vi läsa att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
+**Svar:** Att svära vid profeten – över honom vare Allāhs frid och välsignelser – eller någon annan skapad varelse är något mycket ont och det är en förbjuden månggudaaktig handling. Det är inte tillåtet att svära vid någon annan än Allāh. Imam Ibn ´Abdul-Barr har rapporterat att det finns ett konsensus om att det är förbjudet att svära vid någon eller något annan än Allāh. Det har även rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att det är förbjudet och att det är en sorts shirk[^1]. I *Sahīh al-Bukhārī* och *Sahīh Muslim* kan vi läsa att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Allāh förbjuder sannerligen att ni svär vid era fäder, så den som svär bör svära vid Allāh eller vara tyst.” [*Muslim* 1646, *at-Tirmithi* 1534 och *Ahmad* 2:7]
 

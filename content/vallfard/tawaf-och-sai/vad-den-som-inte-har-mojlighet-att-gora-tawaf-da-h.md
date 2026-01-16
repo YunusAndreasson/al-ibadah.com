@@ -1,8 +1,8 @@
 ---
 title: Vad den som inte har möjlighet att göra tawāf då han anländer [tawāful-qudum]
  måste göra
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 184 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 811

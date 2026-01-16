@@ -1,8 +1,8 @@
 ---
 title: Längta efter döden då livet är svårt
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa al-Marah
-categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
+categories: – Troslära (´Aqīdah) – Blandade utlåtanden
 original_id: 592
 description: 'Fråga: Jag har mött många motgångar i detta liv, vilket har fått mig
  att hata det. Varje gång jag vänder mig till Allāh, ber jag Honom att han ska

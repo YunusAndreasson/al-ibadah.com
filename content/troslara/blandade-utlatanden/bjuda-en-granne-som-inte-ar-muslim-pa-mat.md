@@ -1,10 +1,10 @@
 ---
 title: Bjuda en granne som inte är muslim på mat
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 240 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
+categories: – Troslära (´Aqīdah) – Blandade utlåtanden
 original_id: 112
 description: 'Fråga: Får en muslim ge en del kött från ett slaktat djur till en granne
  som inte är troende? Svar: En muslim får ge en del av köttet från en slakt till

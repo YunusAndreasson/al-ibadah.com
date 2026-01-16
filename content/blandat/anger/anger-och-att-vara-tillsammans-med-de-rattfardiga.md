@@ -1,7 +1,7 @@
 ---
 title: Ånger och att vara tillsammans med de rättfärdiga
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 240 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Blandat – Ånger
@@ -50,7 +50,7 @@ När det gäller böcker ger jag dig rådet att läsa Allāhs skrift; du reciter
 > 
 > ”Detta är en välsignad Skrift som Vi har uppenbarat för dig, [Muḥammad]. Människorna bör tänka över dess budskap och lägga dem på minnet, om de har förstånd.” [Koranen 38:29]
 
-Jag råder dig även att läsa följande böcker som är skrivna av sunnah[^2] ns folk: *Kitab at-Tawhīd[^3]* (av Muḥammad bin ʿAbdul Wahhab), *al-'Aqidah al-Wastitiyah* (av *shaykh ul-islām* Ibn Taymiyyah), *Ighathatul-Lahfan* (av Ibn al-Qayyim), *al-Arba'in an-Nawawiyah* (av al-Hafiz Ibn Hajar), *'Umadatul-Hadīth* (av *shaykh* ʿAbdul-Ghani bin ʿAbdul-Wahid Al-Maqdisi) och *Bulugh al-Maram* (av al-Hafiz Ibn Hajar).
+Jag råder dig även att läsa följande böcker som är skrivna av sunnah[^2] ns folk: *Kitab at-Tawhīd[^3]* (av Muḥammad bin ´Abdul Wahhab), *al-'Aqidah al-Wastitiyah* (av *shaykh ul-islām* Ibn Taymiyyah), *Ighathatul-Lahfan* (av Ibn al-Qayyim), *al-Arba'in an-Nawawiyah* (av al-Hafiz Ibn Hajar), *'Umadatul-Hadīth* (av *shaykh* ´Abdul-Ghani bin ´Abdul-Wahid Al-Maqdisi) och *Bulugh al-Maram* (av al-Hafiz Ibn Hajar).
 
 Dessa böcker är speciellt nyttiga för högskole- och universitetsstudenter. Efter dessa bör en student läsa de båda *Sahīh* och andra böcker från sunnah[^2] ns folk.
 

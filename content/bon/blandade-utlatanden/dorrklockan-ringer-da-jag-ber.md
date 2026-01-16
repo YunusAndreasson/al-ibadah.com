@@ -1,6 +1,6 @@
 ---
 title: Dörrklockan ringer då jag ber
-author: Ibn ʿAbdullah Ibn Baz
+author: Ibn ´Abdullah Ibn Baz
 source: Fatāwa al-Marah
 categories: – Bön (Salāh) – Blandade utlåtanden
 original_id: 573

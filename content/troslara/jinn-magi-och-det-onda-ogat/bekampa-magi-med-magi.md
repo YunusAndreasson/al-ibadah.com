@@ -1,9 +1,9 @@
 ---
 title: Bekämpa magi med magi
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 227 s. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Jinn, magi och det onda ögat
+categories: – Troslära (´Aqīdah) – Jinn, magi och det onda ögat
 original_id: 108
 description: 'Fråga: Jag har en vän vars fru har utsatts för magi och ingen medicin
  har hjälpt henne. Någon berättade om en man som behandlar magi med magi... Syndar

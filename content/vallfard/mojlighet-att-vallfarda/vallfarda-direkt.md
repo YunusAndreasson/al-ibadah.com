@@ -1,7 +1,7 @@
 ---
 title: Vallfärda direkt
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: Fatāwa Ibn ʿUthaymīn 21/13
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: Fatāwa Ibn ´Uthaymīn 21/13
 categories: – Vallfärd (Hajj) – Möjlighet att vallfärda
 original_id: 888
 description: 'Fråga: Innebär kommenderingen att vallfärda att man måste göra det

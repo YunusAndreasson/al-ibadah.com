@@ -1,5 +1,5 @@
 ---
-title: Troslära (ʿAqīdah)
+title: Troslära (´Aqīdah)
 description: Frågor och svar om trosbekännelsen, bönen, fastan, allmosan och vallfärden.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Nagellack
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 324 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
@@ -29,6 +29,6 @@ En muslim måste anstränga sig till sitt yttersta för att förvissa sig om san
 
 Och Allāh är Beviljaren av framgång och Vägledaren till den raka vägen.
 
-[^1]: Wudû´
+[^1]: Wudū
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 

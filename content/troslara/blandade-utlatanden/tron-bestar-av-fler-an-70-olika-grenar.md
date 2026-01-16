@@ -1,10 +1,10 @@
 ---
 title: ”Tron består av fler än 70 olika grenar...”
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 53 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
+categories: – Troslära (´Aqīdah) – Blandade utlåtanden
 original_id: 1070
 description: 'Fråga: Hur kan vi få ihop att tron innebär att man tror på Allāh, Hans
  änglar, Hans skrifter, Hans sändebud, den Yttersta dagen och det förutbestämda [det

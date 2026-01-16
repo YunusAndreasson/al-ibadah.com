@@ -1,7 +1,7 @@
 ---
 title: Placera den högra handen över den vänstra på bröstet eller över hjärtat under
  bönen
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 464 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Praktiska detaljer i bönen
@@ -19,7 +19,7 @@ Var placeras de? Svaret är: Den mest korrekta åsikten är att de bör placeras
 
 Att placera dem över hjärtat på den vänstra sidan är en grundlös innovation.
 
-Att placera dem under naveln har rapporterats i en återberättelse från ʿAlī [*Imam Ahmad* 1:110 och *Abū Dawūd* 756]. Den är dock svag och hadithen från Wa'il bin Hujr är starkare.
+Att placera dem under naveln har rapporterats i en återberättelse från ´Alī [*Imam Ahmad* 1:110 och *Abū Dawūd* 756]. Den är dock svag och hadithen från Wa'il bin Hujr är starkare.
 
 I detta utlåtande finns det ingen skillnad mellan män och kvinnor. Den grundläggande principen är att detsamma gäller både för män och för kvinnor i detta utlåtande, såvida det inte finns bevis för ett skiljande mellan dem. Jag känner inte till något bevis som skiljer på män och kvinnor i denna *sunnah[^1]*.
 

@@ -1,6 +1,6 @@
 ---
 title: Vallfärd är obligatoriskt även i sällskap med innovatörer
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: al-Lajnah al-Dā’imah li’l-Buhūth al-‘Ilmiyyah wa’l-Ifta’, 11/18
 categories: – Vallfärd (Hajj) – Möjlighet att vallfärda
 original_id: 885

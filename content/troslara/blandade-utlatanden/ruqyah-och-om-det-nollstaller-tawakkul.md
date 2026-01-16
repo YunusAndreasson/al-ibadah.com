@@ -1,9 +1,9 @@
 ---
 title: Ruqyah och om det nollställer tawakkul
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 99 s. ISBN 9960-892-66-2'
-categories: – Troslära (ʿAqīdah) – Blandade utlåtanden
+categories: – Troslära (´Aqīdah) – Blandade utlåtanden
 original_id: 1078
 description: 'Fråga: Gör ruqyah ens tawakkul ogiltig? Svar: Tawakkul är
  att ha en uppriktig tilltro till att Allāh den Allsmäktige hjälper en och skyddar

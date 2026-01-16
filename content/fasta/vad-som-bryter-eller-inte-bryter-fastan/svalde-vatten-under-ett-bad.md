@@ -1,7 +1,7 @@
 ---
 title: Svalde vatten under ett bad
-author: Ibn ʿAbdullāh Ibn Baz
-source: Majmū' Fatāwa ash-shaykh ʿAbdul-ʿAzīz bin ʿAbdullāh bin Bāz – Volume 3, Page
+author: Ibn ´Abdullāh Ibn Baz
+source: Majmū' Fatāwa ash-shaykh ´Abdul-´Azīz bin ´Abdullāh bin Bāz – Volume 3, Page
  252
 categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 1378

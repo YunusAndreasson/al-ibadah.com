@@ -1,8 +1,8 @@
 ---
 title: Släppte sig under bönen i moskén
-author: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 223 s. ISBN saknas'
-source: Ibn ʿAbdur-Rahman al-Jibrīn
+source: Ibn ´Abdur-Rahman al-Jibrīn
 categories: – Renhet (Tahārah) – Blandade utlåtanden
 original_id: 237
 description: 'Fråga: Om en man kom till bönen och han släppte sig under bönen, bör

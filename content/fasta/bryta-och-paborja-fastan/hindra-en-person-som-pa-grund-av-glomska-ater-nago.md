@@ -1,7 +1,7 @@
 ---
 title: Hindra en person som på grund av glömska äter något under ramadan
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 327 s. ISBN saknas'
 categories: – Fasta (Sawm) – Bryta och påbörja fastan
 original_id: 1413

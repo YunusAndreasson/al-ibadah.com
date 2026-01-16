@@ -1,6 +1,6 @@
 ---
 title: Lyfta händerna under witr-bönen
-author: Ibn ʿAbdullah Ibn Baz
+author: Ibn ´Abdullah Ibn Baz
 source: Fatāwa al-Marah
 categories: – Bön (Salāh) – Nattbön och witr
 original_id: 581

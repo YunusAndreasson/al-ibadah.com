@@ -1,7 +1,7 @@
 ---
 title: Spenderar i okunskap natten utanför Mina
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 229 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Natten i Mina
 original_id: 849

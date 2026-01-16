@@ -1,6 +1,6 @@
 ---
 title: Uttala avsikt för bön, tvagning, tawāf eller sa’ī
-author: Ibn ʿAbdullah Ibn Baz
+author: Ibn ´Abdullah Ibn Baz
 source: al-Bid'u wal-Muhadathāt wa mā lā Asla lahu – sida 635
 categories: – Renhet (Tahārah) – Tvagning
 original_id: 564
@@ -15,7 +15,7 @@ description: 'Fråga: Skall man uttala sin avsikt för bön, tvagning, tawāf el
 
 Och hos Allāh vilar all framgång.
 
-[^1]: Wudû´
+[^1]: Wudū
 [^2]: Vandringen runt Kabah som består av sju rundor.
 [^3]: Vandringen mellan as-Safa och al-Marwa.
 

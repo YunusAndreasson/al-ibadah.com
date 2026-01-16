@@ -1,7 +1,7 @@
 ---
 title: ”Jag är nöjd med Allāh som min herre, islam som min religion och Muḥammad som
  mitt sändebud” – att säga det efter böneutropet
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 429 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Böneutrop

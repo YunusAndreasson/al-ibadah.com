@@ -1,7 +1,7 @@
 ---
 title: Kastade stenarna före middag under den andra dagen
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 254 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Stenkastningen
 original_id: 1558

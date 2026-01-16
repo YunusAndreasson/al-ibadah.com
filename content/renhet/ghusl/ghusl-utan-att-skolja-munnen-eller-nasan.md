@@ -1,6 +1,6 @@
 ---
 title: Ghusl utan att skölja munnen eller näsan
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 359 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
@@ -18,5 +18,5 @@ description: 'Fråga: Om någon gör ghusl utan att skölja munnen eller dra in 
 Om de inbegrips i rengöringen av ansiktet och ansiktet är en del av kroppen som måste renas under den stora rengörningen, då är det nödvändigt att den som gör *ghusl[^1]* på grund av den stora rituella orenheten sköljer munnen och drar in vatten i näsan.
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
-[^2]: Wudû´
+[^2]: Wudū
 

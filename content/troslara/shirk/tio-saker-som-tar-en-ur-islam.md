@@ -1,9 +1,9 @@
 ---
 title: Tio saker som tar en ur islam
-author: Ibn ʿAbdullah Ibn Baz
+author: Ibn ´Abdullah Ibn Baz
 source: 'Fatāwa al-Marah Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn:
  Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Shirk [Att sätta något vid Allāhs sida]
+categories: – Troslära (´Aqīdah) – Shirk [Att sätta något vid Allāhs sida]
 original_id: 585
 description: '[Vad tar en ur islam?] Sätta medhjälpare vid Allāhs sida [shirk].
  Allāh den Upphöjde säger: ”Gud utestänger den från paradiset som sätter medhjälpare

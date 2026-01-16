@@ -1,7 +1,7 @@
 ---
 title: Tveksamheter om man släppt sig
-author: Ibn ʿAbdur-Rahman al-Jibrin
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdur-Rahman al-Jibrin
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 86 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Tvagning
 original_id: 1436
@@ -14,6 +14,6 @@ description: 'Fråga: Jag lider ofta av gas i magen. Jag lider ofta av gas i mag
 
 **Svar:** Känslan att ha släppt sig under bönen drabbar somliga; ofta är det inte mer än inbillningar och inte äkta. Det sägs i en *hadīth[^2]*: ”*Man bör inte lämna bönen utom om man hör ett ljud eller känner en lukt*.” [*al-Bukhārī* 177 och *Muslim* 361]
 
-[^1]: Wudû´
+[^1]: Wudū
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

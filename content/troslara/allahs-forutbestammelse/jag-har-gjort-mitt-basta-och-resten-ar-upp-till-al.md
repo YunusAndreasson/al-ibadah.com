@@ -1,9 +1,9 @@
 ---
 title: ”Jag har gjort mitt bästa och resten är upp till Allāh”
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatwa från shaykh Muḥammad ibn ‘Uthaymīn i Majallat al-Hibah, utgåva 50, s.
  17.
-categories: – Troslära (ʿAqīdah) – Allāhs förutbestämmelse
+categories: – Troslära (´Aqīdah) – Allāhs förutbestämmelse
 original_id: 529
 description: 'Fråga: Kan man säga: ”Jag har gjort mitt bästa och resten är upp till
  Allāh.” Svar: Detta uttryck är inte rätt. Det betyder ju att den som gör så

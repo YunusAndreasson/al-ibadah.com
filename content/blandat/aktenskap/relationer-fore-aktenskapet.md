@@ -1,6 +1,6 @@
 ---
 title: Relationer före äktenskapet
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa al-Marah
 categories: – Blandat – Äktenskap
 original_id: 1713

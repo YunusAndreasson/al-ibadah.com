@@ -1,7 +1,7 @@
 ---
 title: Ge till välgörenhet och läsa Koranen för de levande och för de döda
-author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ´Abdur-Rahman al-Jibrīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 91 s. ISBN saknas'
 categories: – Allmosa (Zakāh) – Blandat om allmosa
 original_id: 62

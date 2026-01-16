@@ -1,7 +1,7 @@
 ---
 title: Övergav avsiktligen bönen och ångrade sig sedan – om man då behöver ta igen
  för vad man har missat
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 402 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Överger eller missar bönen

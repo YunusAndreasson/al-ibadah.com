@@ -1,9 +1,9 @@
 ---
 title: Gick in i ihrām för vallfärden men hindrades sedan från att komma in i Mecka
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 266 s. ISBN saknas'
-categories: – Vallfärd (Hajj) – Hindras i sin vallfärd eller ʿumrah
+categories: – Vallfärd (Hajj) – Hindras i sin vallfärd eller ´umrah
 original_id: 864
 description: 'Fråga: En person gick in i ihrām för vallfärden vid mīqāt, sedan
  färdades han tills han kom nära Mecka. Där hindras han av en polisinspektion, då

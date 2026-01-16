@@ -1,7 +1,7 @@
 ---
 title: Be i ett rum med bilder på väggarna
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-ʿilmiyyah wal-Iftā – volym 6, sida
+source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-´ilmiyyah wal-Iftā – volym 6, sida
  251, fatwa 1874
 categories: – Bön (Salāh) – Blandade utlåtanden
 original_id: 569

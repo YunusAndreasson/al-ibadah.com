@@ -1,7 +1,7 @@
 ---
 title: Utföra sa’ī innan tawāf under ‘eid-dagen
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 204 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 825

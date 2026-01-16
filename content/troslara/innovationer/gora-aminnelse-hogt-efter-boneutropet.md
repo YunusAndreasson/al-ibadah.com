@@ -1,9 +1,9 @@
 ---
 title: Göra åminnelse högt efter böneutropet
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 127 s. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Innovationer
+categories: – Troslära (´Aqīdah) – Innovationer
 original_id: 1459
 description: 'Fråga: Vissa böneutropare i några muslimska länder säger efter böneutropet:
  ” Allāh! Sänd böner över vår mästare Muḥammad och över hans familj och följeslagare
@@ -16,7 +16,7 @@ description: 'Fråga: Vissa böneutropare i några muslimska länder säger efte
 
 > ”Om du hör böneutropet, säg då vad böneutroparen säger, be sedan för mig, för den som ber för mig en gång sänder Allāh tio böner över för dem. Be sedan Allāh att Han gör mig till en medlare, för det är en plats i Paradiset som inte passar för någon annan troende, och jag hoppas att jag kommer att vara den. Så den som ber om min medling kommer min medling att tillåtas för.” [*Muslim*, 384]
 
-al-Bukhārī återger från Jabir bin ʿAbdullāh i sin *Sahīh* att han har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
+al-Bukhārī återger från Jabir bin ´Abdullāh i sin *Sahīh* att han har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Den som hörde kallet till bönen och då sade: 'Allāh! Herre över denna perfekta åkallan[^1] och den etablerade bönen, bevilja Muḥammad medling och en förtjänstfull plats och höj honom till en prisvärd position som Du har lovat honom' – kommer att tillåtas min medling på Återuppståndelsens Dag." [al-Bukhārī 614 och 4719]
 

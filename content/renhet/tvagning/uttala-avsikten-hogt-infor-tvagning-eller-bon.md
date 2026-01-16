@@ -1,7 +1,7 @@
 ---
 title: Uttala avsikten högt inför tvagning eller bön
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 252 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Tvagning
 original_id: 262
@@ -16,5 +16,5 @@ description: 'Fråga: Vilket är utlåtandet om att säga avsikten för bönen o
 
 Och Allāh är Beviljaren av framgång.
 
-[^1]: Wudû´
+[^1]: Wudū
 

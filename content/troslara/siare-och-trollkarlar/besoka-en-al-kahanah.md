@@ -1,9 +1,9 @@
 ---
 title: Besöka en al-Kahanah
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 235 s. ISBN 9960-892-66-2'
-categories: – Troslära (ʿAqīdah) – Siare och trollkarlar
+categories: – Troslära (´Aqīdah) – Siare och trollkarlar
 original_id: 1191
 description: 'Fråga: Vad är al-kahanah och vilket är utlåtandet om att besöka en kahin
 ? Svar: al-Kahanah härleds från at-takahhun som betyder att sätta ihop lögner

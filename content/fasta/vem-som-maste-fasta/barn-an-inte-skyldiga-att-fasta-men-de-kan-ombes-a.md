@@ -1,7 +1,7 @@
 ---
 title: Barn än inte skyldiga att fasta men de kan ombes att göra det
-author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ´Abdur-Rahman al-Jibrīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 328 s. ISBN saknas'
 categories: – Fasta (Sawm) – Vem som måste fasta
 original_id: 477

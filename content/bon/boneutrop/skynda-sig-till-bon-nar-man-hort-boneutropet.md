@@ -1,6 +1,6 @@
 ---
 title: Skynda sig till bön när man hört böneutropet
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Majmū’ Fatāwa al-shaykh Ibn ‘Uthaymīn, 15/32
 categories: – Bön (Salāh) – Böneutrop
 original_id: 520

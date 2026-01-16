@@ -1,7 +1,7 @@
 ---
 title: Sova efter intim samvaro innan man har gjort ghusl
-author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdur-Rahman al-Jibrīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 97 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
 original_id: 166
@@ -22,5 +22,5 @@ Och Allāh vet bäst.
 
 [^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
-[^3]: Wudû´
+[^3]: Wudū
 

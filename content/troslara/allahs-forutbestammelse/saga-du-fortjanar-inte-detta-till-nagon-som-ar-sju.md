@@ -1,9 +1,9 @@
 ---
 title: Säga ”du förtjänar inte detta” till någon som är sjuk
-author: Ibn ʿAbdullah Ibn Baz
+author: Ibn ´Abdullah Ibn Baz
 source: Majmū’ Fatāwa a wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh al-‘Allāmah ‘Abd
  al-‘Azīz ibn ‘Abd-Allāh ibn Bāz, vol. 8, s. 421
-categories: – Troslära (ʿAqīdah) – Allāhs förutbestämmelse
+categories: – Troslära (´Aqīdah) – Allāhs förutbestämmelse
 original_id: 538
 description: 'Fråga: Ibland när folk besöker en sjukling säger de till denne: ”Du
  förtjänar inte detta”. Eller när de hör talas om att någon är sjuk säger de: ”Vid

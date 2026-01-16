@@ -1,9 +1,9 @@
 ---
 title: Allāhs den Upphöjdes namn och om de är begränsade till antalet
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 113 s. ISBN 9960-892-66-2'
-categories: – Troslära (ʿAqīdah) – Tawhīd [Monoteism]
+categories: – Troslära (´Aqīdah) – Tawhīd [Monoteism]
 original_id: 1082
 description: 'Fråga: Är Allāhs den Upphöjdes namn begränsade till antalet? Svar: Allāhs
  namn är inte begränsade till ett visst antal. Beviset för detta är ett uttalande

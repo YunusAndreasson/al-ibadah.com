@@ -1,6 +1,6 @@
 ---
 title: Beskrivning av begravningsbönen
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. x s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Begravningsbön
@@ -46,6 +46,6 @@ Här finns det en viktig poäng och den är att många tror att det är att för
 [^1]: Att säga Allahu Akbar.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Du´ā
-[^4]: Tawāf är vandringen sju varv runt Kaʿbah.
+[^4]: Tawāf är vandringen sju varv runt Ka´bah.
 [^5]: Den avslutande hälsningen i bönen.
 

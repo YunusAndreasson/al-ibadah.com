@@ -1,9 +1,9 @@
 ---
 title: Kvinnor som besöker gravar
-author: Ibn ʿAbdullah Ibn Bāz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ´Abdullah Ibn Bāz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 167 s. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Gravdyrkan
+categories: – Troslära (´Aqīdah) – Gravdyrkan
 original_id: 81
 description: 'Fråga: Vilket är utlåtandet om kvinnor som besöker gravar? Svar: Kvinnor
  får inte besöka gravar. Profeten – över honom vare Allāhs frid och välsignelser – förbannade kvinnor som besökte gravar...'

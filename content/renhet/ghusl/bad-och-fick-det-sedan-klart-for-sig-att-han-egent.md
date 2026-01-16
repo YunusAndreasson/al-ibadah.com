@@ -1,6 +1,6 @@
 ---
 title: Bad och fick det sedan klart för sig att han egentligen hade behövt göra ghusl
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 446 s. ISBN 9960-892-66-2'
 categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]

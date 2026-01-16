@@ -1,7 +1,7 @@
 ---
 title: Träda in i ihrām i Jiddah för den som kommer med flygplan
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 91 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – al-Mawaqit
 original_id: 736

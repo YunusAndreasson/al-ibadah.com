@@ -1,6 +1,6 @@
 ---
 title: Plåster och liknande
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 338 s. ISBN 9960-892-66-2'
 categories: – Renhet (Tahārah) – Stryka över sockar

@@ -1,5 +1,6 @@
 import { createFileRoute, Link, notFound } from '@tanstack/react-router'
 import { createServerFn } from '@tanstack/react-start'
+import { Breadcrumbs } from '~/components/layout/Breadcrumbs'
 import { Footer } from '~/components/layout/Footer'
 import { Header } from '~/components/layout/Header'
 import { getCategoryInfo } from '~/lib/content'
@@ -18,6 +19,9 @@ export const Route = createFileRoute('/$category/')({
   loader: async ({ params }) => {
     return getCategoryData({ data: params.category })
   },
+  head: ({ loaderData }) => ({
+    meta: [{ title: `${loaderData?.name} - al-Ibadah` }],
+  }),
   component: CategoryPage,
 })
 
@@ -30,7 +34,13 @@ function CategoryPage() {
       <Header />
 
       <main id="main" className="w-full max-w-3xl mx-auto px-4 py-8 flex-1">
-        <h1 className="page-title mb-8">{data.name}</h1>
+        <Breadcrumbs
+          items={[
+            { label: 'Hem', href: '/' },
+          ]}
+        />
+
+        <h1 className="page-title mb-8 mt-8">{data.name}</h1>
 
         {data.subcategories.length > 0 ? (
           <div className="grid gap-3">
@@ -38,9 +48,9 @@ function CategoryPage() {
               <Link
                 key={sub.slug}
                 to={`/${category}/${sub.slug}`}
-                className="group flex items-center justify-between p-4 sm:p-5 border border-border rounded-lg hover-border"
+                className="card flex items-center justify-between"
               >
-                <span className="font-medium group-hover:text-foreground">{sub.name}</span>
+                <span className="font-medium text-foreground">{sub.name}</span>
                 <span className="text-sm text-muted-foreground">
                   {sub.articleCount} {sub.articleCount === 1 ? 'artikel' : 'artiklar'}
                 </span>

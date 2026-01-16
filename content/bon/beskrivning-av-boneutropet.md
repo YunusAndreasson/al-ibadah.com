@@ -13,7 +13,7 @@ description: 'Fråga: Hur ropar man ut till bön? Svar: Flera versioner av böne
 
 **Svar:** Flera versioner av böneutropet har återberättats i fullgoda rapporter från profeten. För att sätta hela hans *sunnah[^1]* i bruk och för att få ett slut på de dispyter och meningsskiljaktigheter som väcks av de okunniga eller de som blint följer sin egen rättsskola är det *sunnah[^1]* att använda alla versioner som har berättats ifrån honom.
 
-Shaykh Ibn ʿUthaymīn har sagt:
+Shaykh Ibn ´Uthaymīn har sagt:
 
 > "Allting som finns återberättat om böneutropet i profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* är tillåtet. Det som bör göras är att en version reciteras vid vissa tillfällen och en annan vid andra tillfällen. Detta så länge det inte skapar någon förvirring eller *fitnah[^2]*.
 > 
@@ -60,7 +60,7 @@ Beviset för Abū Hanīfahs och Ahmads åsikt: Det har berättats att 'Abd-Allā
 > 
 > 
 > 
-> Den påföljande morgonen gick jag till Allāhs sändebud – över honom vare Allāhs frid och välsignelser – och berättade för honom om vad jag hade sett. Han svarade: 'Detta är en sann dröm, om Allāh vill. Gå upp med Bilal och lär honom det du såg, för han har en mer välklingande röst än du.' Så jag gick upp med Bilal och lärde honom, och han gjorde böneutropet. ʿUmar ibn al-Khattāb hörde detta i sitt hem och han kom ut, dragandes sina kläder efter sig, och han sade: 'Vid Den som sände dig med sanningen, Allāhs sändebud, jag såg samma sak som han såg!' Allāhs sändebud sade: 'All lovprisan tillhör Allāh.'”
+> Den påföljande morgonen gick jag till Allāhs sändebud – över honom vare Allāhs frid och välsignelser – och berättade för honom om vad jag hade sett. Han svarade: 'Detta är en sann dröm, om Allāh vill. Gå upp med Bilal och lär honom det du såg, för han har en mer välklingande röst än du.' Så jag gick upp med Bilal och lärde honom, och han gjorde böneutropet. ´Umar ibn al-Khattāb hörde detta i sitt hem och han kom ut, dragandes sina kläder efter sig, och han sade: 'Vid Den som sände dig med sanningen, Allāhs sändebud, jag såg samma sak som han såg!' Allāhs sändebud sade: 'All lovprisan tillhör Allāh.'”
 
 Återberättad av Abū Dawūd 499 och klassad som *sahīh* av Ibn Khuzaymah 1/191 och Ibn Hibbān 4/572. al-Tirmithi har berättat att imam al-Bukhārī ansåg att den var *sahīh*, se *Sunan al-Bayhaqi* 1/390.
 

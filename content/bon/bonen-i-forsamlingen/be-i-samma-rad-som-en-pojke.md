@@ -1,7 +1,7 @@
 ---
 title: Be i samma rad som en pojke
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 209 s. ISBN saknas'
 categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 225

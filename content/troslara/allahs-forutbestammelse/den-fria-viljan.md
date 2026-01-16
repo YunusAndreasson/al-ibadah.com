@@ -1,9 +1,9 @@
 ---
 title: Den fria viljan
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Majmū Fatāwa al-shaykh Ibn ‘Uthaymīn, vol. 2. Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Allāhs förutbestämmelse
+categories: – Troslära (´Aqīdah) – Allāhs förutbestämmelse
 original_id: 528
 description: 'Fråga: Har människan en fri vilja eller följer vi en väg som Allāh
  har stakat ut? Svar: Frågeställaren bör fråga sig om någon tvingade honom att

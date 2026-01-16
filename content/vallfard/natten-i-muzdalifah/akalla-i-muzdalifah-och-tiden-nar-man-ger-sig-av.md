@@ -1,7 +1,7 @@
 ---
 title: Åkalla i Muzdalifah och tiden när man ger sig av
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 219 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Natten i Muzdalifah
 original_id: 839

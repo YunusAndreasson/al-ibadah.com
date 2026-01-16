@@ -1,10 +1,10 @@
 ---
 title: Nedfalla vid gravar samt att offra till de döda
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 3x s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Gravdyrkan
+categories: – Troslära (´Aqīdah) – Gravdyrkan
 original_id: 31
 description: 'Fråga: Vilket är utlåtandet om att nedfalla vid gravar samt att offra
  till de som ligger begravda i dem? Svar: Att nedfalla vid gravar och att offra
@@ -26,7 +26,7 @@ Det finns andra verser som visar att nedfallan och offer är dyrkan och att till
 
 Det råder ingen tvekan om att besök vid gravar för att nedfalla och offra till de döda som har begravts i dem innebär att man visar vördnad för dem genom att göra detta.
 
-Imam Muslim har återgivit en lång *hadīth[^3]* med titeln ”Förbudet mot att offra till någon annan än Allāh, och att förbanna dem som gör så”. ʿAlī bin Abi Tālib sade:
+Imam Muslim har återgivit en lång *hadīth[^3]* med titeln ”Förbudet mot att offra till någon annan än Allāh, och att förbanna dem som gör så”. ´Alī bin Abi Tālib sade:
 
 > 'Allāhs sändebud lärde mig följande: ”Allāh förbannar den som offrar till andra än Honom, Allāh förbannar den som förbannar sina egna föräldrar, Allāh förbannar den som hyser en innovatör, och Allāh förbannar dem som ändrar ett landmärke.” [*Muslim* 1978 och *an-Nasā’i* 4427]
 

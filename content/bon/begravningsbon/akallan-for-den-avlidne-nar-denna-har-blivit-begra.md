@@ -1,7 +1,7 @@
 ---
 title: Åkallan för den avlidne när denna har blivit begravd
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 87 s. ISBN saknas'
 categories: – Bön (Salāh) – Begravningsbön
 original_id: 393

@@ -1,6 +1,6 @@
 ---
 title: Om månadsblödningen fortsätter under en längre tid
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: Fatāwa al-Marah
 categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 1370

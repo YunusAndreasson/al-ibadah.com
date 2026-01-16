@@ -1,6 +1,6 @@
 ---
 title: Det första som man ska kalla till
-categories: – Troslära (ʿAqīdah) – Tawhīd [Monoteism]
+categories: – Troslära (´Aqīdah) – Tawhīd [Monoteism]
 original_id: 1647
 description: 'Fråga: Om någon vill bjuda in någon annan, vad bör han börja med och
  vad bör han säga? Svar: Frågeställaren verkar vilja veta hur man ska bjuda in

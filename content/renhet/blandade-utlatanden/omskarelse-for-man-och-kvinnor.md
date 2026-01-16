@@ -1,6 +1,6 @@
 ---
 title: Omskärelse för män och kvinnor
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 315 s. ISBN 9960-892-66-2'
 categories: – Renhet (Tahārah) – Blandade utlåtanden

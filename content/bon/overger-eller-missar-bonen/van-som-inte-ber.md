@@ -1,7 +1,7 @@
 ---
 title: Vän som inte ber
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories: – Bön (Salāh) – Överger eller missar bönen
 original_id: 1697
@@ -16,7 +16,7 @@ description: 'Fråga: Jag har en vän som är mig mycket kär och som har en myc
 
 I en *hadīth[^1]* återberättad av Jabir säger profeten – över honom vare Allāhs frid och välsignelser: ”Mellan en man och otro och månggudadyrkan finns övergivandet av bönen.” [Muslim 82]
 
-ʿAbdullah bin Shaqīq al-'Uqayli, en betrodd *tabi'i*, har bekräftat att profetens följeslagare inte ansåg övergivandet av någon handling utom bönen vara otro. Detta är anledningen till att ett antal lärde anser att otron som övergivandet utgör är stor otro, även om man inte avvisar att den är obligatorisk.
+´Abdullah bin Shaqīq al-'Uqayli, en betrodd *tabi'i*, har bekräftat att profetens följeslagare inte ansåg övergivandet av någon handling utom bönen vara otro. Detta är anledningen till att ett antal lärde anser att otron som övergivandet utgör är stor otro, även om man inte avvisar att den är obligatorisk.
 
 Detta är på grund av de tidigare *ahādīth[^1]* och andra rapporter med samma innebörd. Detta är sanningen som det inte finns någon tvekan kring. Andra säger att hans otro är av den mindre sorten men att hans brott är större än otukt eller att stjäla. Alla de lärda är dock eniga om att avvisandet av dess skyldighet är otro.
 

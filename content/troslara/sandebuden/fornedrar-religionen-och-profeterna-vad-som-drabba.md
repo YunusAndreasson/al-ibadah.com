@@ -2,7 +2,7 @@
 title: Förnedrar religionen och profeterna – vad som drabbar den personen
 source: 'Fatāwa Manār al-Islām – fråga 8, sida 25 Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Sändebuden
+categories: – Troslära (´Aqīdah) – Sändebuden
 original_id: 586
 description: 'Fråga: Vad gäller någon som förnedrar religionen eller någon av profeterna? Svar: Den
  som förnedrar religionen, Allāh eller Hans sändebud, är en icke-troende som står

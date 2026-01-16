@@ -1,9 +1,9 @@
 ---
 title: Be profeten om hjälp efter hans död är en sorts större shirk
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 278 s. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Shirk [Att sätta något vid Allāhs sida]
+categories: – Troslära (´Aqīdah) – Shirk [Att sätta något vid Allāhs sida]
 original_id: 120
 description: 'Fråga: Är det en sorts shirk att under svåra tider be profeten – över honom vare Allāhs frid och välsignelser – om hjälp, oavsett om man är
  nära eller långt bort från hans grav? Svar: A...'

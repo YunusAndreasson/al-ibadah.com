@@ -1,7 +1,7 @@
 ---
 title: Vallfärd för sin moders eller faders räkning
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: Fatāwa Ibn ʿUthaymīn 21/134
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: Fatāwa Ibn ´Uthaymīn 21/134
 categories: – Vallfärd (Hajj) – Utse någon annan som vallfärdar
 original_id: 891
 description: 'Fråga: [Skall man börja med att vallfärda för modern om man har både

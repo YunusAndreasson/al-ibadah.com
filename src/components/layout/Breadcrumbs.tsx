@@ -17,13 +17,13 @@ export function Breadcrumbs({ items }: BreadcrumbsProps) {
           <li key={item.href ?? item.label} className="flex items-center gap-1.5">
             {index > 0 && (
               <span aria-hidden="true" className="text-muted-foreground/50 select-none">
-                /
+                ›
               </span>
             )}
             {item.href ? (
               <Link
                 to={item.href}
-                className="text-muted-foreground hover:text-foreground transition-colors"
+                className="nav-link"
               >
                 {item.label}
               </Link>

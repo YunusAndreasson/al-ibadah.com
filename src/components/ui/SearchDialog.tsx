@@ -93,10 +93,10 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
 
       <div className="min-h-full flex items-start justify-center p-4 pt-20 sm:pt-24">
         <div
-          className="relative w-full max-w-lg bg-background border border-border rounded-lg shadow-2xl overflow-hidden animate-dialog-content"
+          className="relative w-full max-w-lg bg-background rounded-lg shadow-2xl overflow-hidden animate-dialog-content"
           onClick={(e) => e.stopPropagation()}
         >
-          <div className="flex items-center gap-3 border-b border-border px-4 py-4">
+          <div className="flex items-center gap-3 px-4 py-4">
             <SearchIcon className="text-muted-foreground shrink-0" aria-hidden="true" />
             <input
               ref={inputRef}
@@ -129,7 +129,7 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
                         type="button"
                         onClick={() => handleSelect(item)}
                         onMouseEnter={() => setSelectedIndex(index)}
-                        className={`w-full text-left px-3 py-2.5 rounded-md transition-colors ${
+                        className={`w-full text-left px-3 py-2.5 rounded-md hover-bg ${
                           index === selectedIndex ? 'bg-muted' : ''
                         }`}
                       >
@@ -138,7 +138,7 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
                         </p>
                         <p className="text-xs text-muted-foreground mt-0.5">
                           {item.category}
-                          {item.subcategory && ` / ${item.subcategory}`}
+                          {item.subcategory && ` › ${item.subcategory}`}
                         </p>
                       </button>
                     </li>

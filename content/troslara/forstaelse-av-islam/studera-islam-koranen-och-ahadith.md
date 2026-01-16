@@ -2,7 +2,7 @@
 title: Studera islam – Koranen och ahādīth
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwā al-Lajnah al-Da’imah, 12/110
-categories: – Troslära (ʿAqīdah) – Förståelse av islam
+categories: – Troslära (´Aqīdah) – Förståelse av islam
 original_id: 490
 description: 'Fråga: Jag memorerar lite av Koranen och jag hoppas kunna memorera
  hela för att – med Allāhs hjälp – fortsätta och memorera ahādīth från sändebudet – över honom vare Allāhs frid och välsignelser...'

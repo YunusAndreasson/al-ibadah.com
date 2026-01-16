@@ -1,8 +1,8 @@
 ---
 title: Vallfärda åt sin mor eller hyra någon till att göra det
-author: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 76 s. ISBN saknas'
-source: Ibn ʿAbdullah Ibn Baz
+source: Ibn ´Abdullah Ibn Baz
 categories: – Vallfärd (Hajj) – Vallfärda för någon annan
 original_id: 729
 description: 'Fråga: Min mor avled då jag var mycket ung och jag har hyrt en pålitlig

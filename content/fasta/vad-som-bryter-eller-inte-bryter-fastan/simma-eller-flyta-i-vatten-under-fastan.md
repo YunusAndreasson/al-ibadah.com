@@ -1,6 +1,6 @@
 ---
 title: Simma eller flyta i vatten under fastan
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa Ramadan – Volym 2, sida 525, fatwa 491
 categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 903

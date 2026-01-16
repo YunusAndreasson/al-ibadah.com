@@ -1,10 +1,10 @@
 ---
 title: Avvisar tron på Nästa liv och påstår att det är en vidskepelse från förr
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 159 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Paradiset och Helvetet
+categories: – Troslära (´Aqīdah) – Paradiset och Helvetet
 original_id: 1578
 description: 'Fråga: Vilket är utlåtandet om någon som avvisar det kommande livet
  och påstår att det är en vidskepelse från förr? Hur kan vi övertyga dessa avvisare? Svar: Den

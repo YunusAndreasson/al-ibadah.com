@@ -1,9 +1,9 @@
 ---
 title: Fördelning i Helvetet
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 179 s. ISBN 9960-892-66-2'
-categories: – Troslära (ʿAqīdah) – Paradiset och Helvetet
+categories: – Troslära (´Aqīdah) – Paradiset och Helvetet
 original_id: 1579
 description: 'Fråga: Är det sant vad som sagts, att de flesta i Elden kommer att
  vara kvinnor? Svar: Detta är sant. Under en predikan sade profeten: ” Kvinnor!

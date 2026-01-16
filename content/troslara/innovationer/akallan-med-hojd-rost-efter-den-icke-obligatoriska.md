@@ -1,9 +1,9 @@
 ---
 title: Åkallan med höjd röst efter den icke-obligatoriska bönen och andra böner
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 262 s. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Innovationer
+categories: – Troslära (´Aqīdah) – Innovationer
 original_id: 268
 description: 'Fråga: Efter bönen åkallar vissa högt och ofta åkallar de med höjd
  röst och sång. De säger att de som inte gör så begår otro. Likaså efter sunnah

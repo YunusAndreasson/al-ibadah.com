@@ -1,7 +1,7 @@
 ---
 title: Muhrim som tappar hår
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 138 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Förbjudna saker under ihrām
 original_id: 772
@@ -19,6 +19,6 @@ På samma sätt får en kvinna inte avsiktligen klippa något [från håret elle
 Och Allāh vet bäst.
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^2]: Wudû´
+[^2]: Wudū
 [^3]: Någon som har trätt in i ihrām.
 

@@ -1,6 +1,6 @@
 ---
 title: Min man behandlar mig inte på ett bra sätt
-author: Ibn ʿAbdullah Ibn Baz
+author: Ibn ´Abdullah Ibn Baz
 source: Fatāwa al-Marah
 categories: – Blandat – Äktenskap
 original_id: 1707

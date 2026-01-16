@@ -1,7 +1,7 @@
 ---
 title: Fastan för en kvinna som blöder efter graviditeten
-author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ´Abdur-Rahman al-Jibrīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 298 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 450

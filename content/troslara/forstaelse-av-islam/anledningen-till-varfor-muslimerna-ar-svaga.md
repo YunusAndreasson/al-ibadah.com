@@ -1,10 +1,10 @@
 ---
 title: Anledningen till varför muslimerna är svaga
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 282 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Förståelse av islam
+categories: – Troslära (´Aqīdah) – Förståelse av islam
 original_id: 1202
 description: 'Fråga: Ärade shaykh, somliga påstår att anledningen till muslimers
  bakåtsträvande är att de håller fast vid religionen. Argumentet som de lägger fram
@@ -39,7 +39,7 @@ Det finns fler verser som tydligt säger att människan får göra vinster och a
 
 Även om ”bokens folk” [judarna och de kristna] till en viss grad står över de andra icke-troende är de i det Nästkommande likvärdiga med andra som inte tror. Därför lovade profeten – över honom vare Allāhs frid och välsignelser – att det inte finns någon jude eller kristen som hör honom och som sedan inte följer budskapet han lade fram utan att denne är en av Eldens invånare. De är från början icke-troende, oavsett om de följer judendomen, kristendomen eller ingen religion alls.
 
-Regnet och annat som de får är en prövning från Allāh den Upphöjde då Han har gett dem bra saker i denna värld. När ʿUmar bin al-Khattab såg märken som profeten – över honom vare Allāhs frid och välsignelser – fått från en matta under hans sömn så grät han och sade: ”*Allāhs sändebud! Persien och Rom lever i prakt och du befinner dig i denna situation?*” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Umar! Dessa människor får det som är bra när de lever i denna värld. Är du inte glad över att de får livet i denna värld och att vi får det Nästkommande?*” [*al-Bukhārī* 2428 och *Muslim* 1479]
+Regnet och annat som de får är en prövning från Allāh den Upphöjde då Han har gett dem bra saker i denna värld. När ´Umar bin al-Khattab såg märken som profeten – över honom vare Allāhs frid och välsignelser – fått från en matta under hans sömn så grät han och sade: ”*Allāhs sändebud! Persien och Rom lever i prakt och du befinner dig i denna situation?*” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Umar! Dessa människor får det som är bra när de lever i denna värld. Är du inte glad över att de får livet i denna värld och att vi får det Nästkommande?*” [*al-Bukhārī* 2428 och *Muslim* 1479]
 
 Dessutom drabbas de av torka, katastrofer, jordbävningar och förödande stormar. Detta är välkänt och det rapporteras ständigt om detta i radio, tidningar och annan media. Den som har ställt denna fråga är dock blind. Allāh har tagit dennes syn och därför vet denne inte vad som verkligen pågår.
 

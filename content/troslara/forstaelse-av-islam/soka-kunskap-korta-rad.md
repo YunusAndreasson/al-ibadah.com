@@ -1,8 +1,8 @@
 ---
 title: Söka kunskap – korta råd
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: Kitābul-ʿilm – sida 119, fråga 17
-categories: – Troslära (ʿAqīdah) – Förståelse av islam
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: Kitābul-´ilm – sida 119, fråga 17
+categories: – Troslära (´Aqīdah) – Förståelse av islam
 original_id: 599
 description: 'Fråga. I korta drag – hur gör man för att söka kunskap? Må Allāh belöna
  dig med det bästa. Svar: För att fatta mig kort – och enligt min åsikt – är

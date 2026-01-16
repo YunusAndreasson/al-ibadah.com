@@ -1,7 +1,7 @@
 ---
 title: Torka sig efter tvagningen
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 80 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Tvagning
 original_id: 163
@@ -16,7 +16,7 @@ description: 'Fråga: Är det tillåtet att torka sina händer och fötter och s
 
 Den *hadīth[^3]* från Maimunah som säger att hon tog med sig en handduk till Allāhs sändebud – över honom vare Allāhs frid och välsignelser – när han hade gjort *ghusl[^2]* och att han inte ville ha den, för att i stället stryka undan vattnet med händerna, så visar inte hans avvisande av handuken att han inte gillade den. Detta beror på att det är en specifik fråga och det är möjligt att det fanns något på handduken som profeten – över honom vare Allāhs frid och välsignelser – ogillade och därför inte ville torka sig med den utan i stället strök undan vattnet med händerna. Det kan sägas att då Maimunah gav honom en handduk så visar det att de ansåg att detta vara tillåtet och vanligt. Hade det inte varit så, då hade det inte funnits någon anledning för henne att ta med sig handduken. Det som är viktigast är att känna till den grundläggande principen om att allt är tillåtet utom om det finns något som bevisar ett förbud [i dyrkan är ju allt förbjudet].
 
-[^1]: Wudû´
+[^1]: Wudū
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

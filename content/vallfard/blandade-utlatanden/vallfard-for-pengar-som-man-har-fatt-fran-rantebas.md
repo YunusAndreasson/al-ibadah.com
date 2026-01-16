@@ -1,6 +1,6 @@
 ---
 title: Vallfärd för pengar som man har fått från räntebaserade tillgångar
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa Ibn ‘Uthaymīn, 21/105
 categories: – Vallfärd (Hajj) – Blandade utlåtanden
 original_id: 893

@@ -1,10 +1,10 @@
 ---
 title: Återvänder livet till den döde i graven?
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 117 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Livet i graven
+categories: – Troslära (´Aqīdah) – Livet i graven
 original_id: 72
 description: 'Fråga: Jag har hört att de lärde säger att den som har avlidit kommer
  att återfå livet i graven, att de får besvara frågor från änglar och att om det

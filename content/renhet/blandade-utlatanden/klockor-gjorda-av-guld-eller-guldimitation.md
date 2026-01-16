@@ -1,6 +1,6 @@
 ---
 title: Klockor gjorda av guld eller guldimitation
-author: Ibn ʿAbdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Baz
 source: Majmū’ Fatāwa al-Maqālāt Mutanawwi’ah li Samāhat al-shaykh al-‘Allāmah ‘Abd
  al-‘Azīz ibn Bāz, s. 99
 categories: – Renhet (Tahārah) – Blandade utlåtanden

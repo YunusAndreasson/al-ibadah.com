@@ -1,17 +1,17 @@
 ---
 title: Gick in i ihrām sedan inträffade något
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 163 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Vallfärd (Hajj) – Hindras i sin vallfärd eller ʿumrah
+categories: – Vallfärd (Hajj) – Hindras i sin vallfärd eller ´umrah
 original_id: 1559
 description: 'Fråga: Vilket är utlåtandet om den som gick in i ihrām för vallfärden
  eller ‘umrah vid mīqāt och som sedan hindrades från att utföra tawāf och sa’ī
 ? Svar: Han stannar kvar i ihrām ...'
 ---
 
-**Fråga:** Vilket är utlåtandet om den som gick in i *ihrām[^1]* för vallfärden eller *'umrah[^2]* vid *mīqāt[^3]* och som sedan hindrades från att utföra *tawāf[^4]* och *sa’ī[^5]*?
+**Fråga:** Vilket är utlåtandet om den som gick in i *ihrām[^1]* för vallfärden eller *´umrah[^2]* vid *mīqāt[^3]* och som sedan hindrades från att utföra *tawāf[^4]* och *sa’ī[^5]*?
 
 **Svar:** Han stannar kvar i *ihrām[^1]* om han hoppas på att det som hänt honom enbart är något tillfälligt. Det kan vara en översvämning eller fiende [som han har möjlighet att förhandla med] som hindrar honom från att komma in [i Mecka] för att utföra *tawāf[^4]* och *sa’ī[^5]*. I detta fall bör han inte ha för bråttom med att träda ur sin *ihrām[^1]*. Detta inträffade profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare när de uppehöll sig en dag i al-Hudaibiyyah för att förhandla med Meckaborna för att de utan strid skulle kunna få tillträde att göra *‘umrah[^2]*. När de fann att frågan inte skulle blir lättlöst [de fick inte komma in] utom genom strid, och folket hade bestämt sig för att hindra dem, då offrade profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare ett djur, rakade sina huvuden och trädde ur sin *ihrām[^1]*.
 

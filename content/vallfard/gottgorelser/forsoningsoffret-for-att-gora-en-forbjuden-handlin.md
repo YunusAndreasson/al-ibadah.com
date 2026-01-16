@@ -1,8 +1,8 @@
 ---
 title: Försoningsoffret för att göra en förbjuden handling, dess typer och upprepande
  av en förbjuden handling
-author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ´Abdur-Rahman al-Jibrīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 259 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Gottgörelser
 original_id: 861
@@ -17,7 +17,7 @@ description: 'Fråga: Vilket är försoningsoffret vallfärden? Vilka typer finn
 
 Den andra typen är en kompensation för att ha jagat vilt. Man ges då möjligheten att välja mellan att slakta ett boskapsdjur. Man kan även uppskatta dess värde i mat och ge mängden mat i välgörenhet eller kan man fasta vad som är likvärdigt i antal dagar. Fastan sker genom att man fastar en dag för varje *mudd* [två fulla händer] i mat.
 
-Den tredje typen är lösen för *hajjul-tamattu'*[^2] och *hajjul-qirān[^3]* [för att slå ihop vallfärden med *‘umrah[^4]*]. Detta kräver att man slaktar ett djur om man har möjlighet. Om man inte har möjlighet, då måste man fasta tio dagar [tre dagar i Mecka och sju dagar när man återvänder till hemlandet].
+Den tredje typen är lösen för *hajjul-tamattu´*[^2] och *hajjul-qirān[^3]* [för att slå ihop vallfärden med *‘umrah[^4]*]. Detta kräver att man slaktar ett djur om man har möjlighet. Om man inte har möjlighet, då måste man fasta tio dagar [tre dagar i Mecka och sju dagar när man återvänder till hemlandet].
 
 Den fjärde typen är att man slaktar ett djur som kompensation om man har utelämnat något i de obligatoriska delarna för vallfärden [spendera natten i Muzdalifah[^5], kasta sten på pelarna, raka huvudet, göra *tawaful-wada*[^6] och träda in i *ihrām[^1]* vid *mīqāt[^7]*]. Den som utelämnar något av detta måste slakta ett djur till de fattiga vid Helgedomen.
 

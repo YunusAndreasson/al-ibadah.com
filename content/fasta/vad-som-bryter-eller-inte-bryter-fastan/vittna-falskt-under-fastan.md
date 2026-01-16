@@ -1,6 +1,6 @@
 ---
 title: Vittna falskt under fastan
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa Ramadan – Volym 2, sida 518, fatwa 482
 categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
 original_id: 901

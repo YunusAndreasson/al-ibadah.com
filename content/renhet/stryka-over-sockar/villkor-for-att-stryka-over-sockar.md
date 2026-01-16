@@ -1,6 +1,6 @@
 ---
 title: Villkor för att stryka över sockar
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: I’lām al-Musāfirīn bi Ba’d Ādāb wa Ahkām al-Safar wa mā yakhuss al-Mallāhīn
  al-Jawwiyyīn, s 44.
 categories: – Renhet (Tahārah) – Stryka över sockar
@@ -27,5 +27,5 @@ Detta är villkoren för att stryka över lädersockar. Det finns andra villkor 
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^3]: Fajr
 [^4]: Isha
-[^5]: Wudû´
+[^5]: Wudū
 

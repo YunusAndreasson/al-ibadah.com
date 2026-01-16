@@ -1,6 +1,6 @@
 ---
 title: Någon som talar illa om följeslagarna
-author: Ibn ʿAbdur-Rahman al-Jibrīn
+author: Ibn ´Abdur-Rahman al-Jibrīn
 source: al-Lu’lu’ al-Makīn min Fatāwa Fadīlat al-shaykh Ibn Jibrīn, s. 39
 categories: – Allmosa (Zakāh) – De som får ta emot allmosa
 original_id: 546

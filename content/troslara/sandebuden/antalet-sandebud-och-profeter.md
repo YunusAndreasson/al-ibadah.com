@@ -1,10 +1,10 @@
 ---
 title: Antalet sändebud och profeter
-author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ´Abdur-Rahman al-Jibrīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 70 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Sändebuden
+categories: – Troslära (´Aqīdah) – Sändebuden
 original_id: 53
 description: 'Fråga: Hur många sändebud och profeter finns det? Och om vi inte tror
  på några av dem, då vi inte känner dem, är det då otro? Hur många böcker har Allāh

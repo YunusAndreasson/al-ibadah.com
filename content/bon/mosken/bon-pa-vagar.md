@@ -1,7 +1,7 @@
 ---
 title: Bön på vägar
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 33 s. ISBN saknas'
 categories: – Bön (Salāh) – Moskén
 original_id: 377
@@ -14,7 +14,7 @@ description: 'Fråga: Inkluderas vägar bland de platser där det är förbjudet
 
 > ”Jorden har gjorts till en moské [plats för bön] och som ett medel för rening.”
 
-**Svar:** Ja, mitten på vägen där människor går inkluderas bland de sju platser som profeten – över honom vare Allāhs frid och välsignelser – har berättat att det är förbjudet att be på. Ibn Mājah har i sin Sunan återgivit från Ibn ʿUmar att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
+**Svar:** Ja, mitten på vägen där människor går inkluderas bland de sju platser som profeten – över honom vare Allāhs frid och välsignelser – har berättat att det är förbjudet att be på. Ibn Mājah har i sin Sunan återgivit från Ibn ´Umar att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Det är inte tillåtet att be på sju platser: Ovanpå Allāhs Hus [Ka’bah], gravplatser, gödselstackar [soptippar], slakthus, toaletter, viloplatser för kameler och på vägens mitt.” [*at-Tirmithi* 346 och *Ibn Mājah* 747]
 

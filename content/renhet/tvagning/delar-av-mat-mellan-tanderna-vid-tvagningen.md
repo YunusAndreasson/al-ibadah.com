@@ -1,7 +1,7 @@
 ---
 title: Delar av mat mellan tänderna vid tvagningen
-author: Muḥammad bin Salih al-ʿUthaymin
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muḥammad bin Salih al-´Uthaymin
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 83 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Tvagning
 original_id: 1435
@@ -20,6 +20,6 @@ Detta är ett bevis för att munnen bör rengöras med en *miswāk[^2]* när den
 
 Och Allāh vet bäst.
 
-[^1]: Wudû´
+[^1]: Wudū
 [^2]: Kan liknas vid en tandborste. Gjord av Arak-trädets rötter.
 

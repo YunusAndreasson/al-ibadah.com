@@ -1,7 +1,7 @@
 ---
 title: Perioden för blödningar efter graviditeten
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 120 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Blödning efter graviditeten
 original_id: 174

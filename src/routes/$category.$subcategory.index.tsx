@@ -21,6 +21,9 @@ export const Route = createFileRoute('/$category/$subcategory/')({
       data: { category: params.category, subcategory: params.subcategory },
     })
   },
+  head: ({ loaderData }) => ({
+    meta: [{ title: `${loaderData?.subcategoryName} - al-Ibadah` }],
+  }),
   component: SubcategoryPage,
 })
 
@@ -48,9 +51,9 @@ function SubcategoryPage() {
               <Link
                 key={article.slug}
                 to={`/${category}/${subcategory}/${article.slug}`}
-                className="group block p-4 sm:p-5 border border-border rounded-lg hover-border"
+                className="card block"
               >
-                <h2 className="font-medium mb-1 group-hover:text-foreground">{article.title}</h2>
+                <h2 className="font-medium mb-1 text-foreground">{article.title}</h2>
                 {article.author && (
                   <p className="text-sm text-muted-foreground">{article.author}</p>
                 )}

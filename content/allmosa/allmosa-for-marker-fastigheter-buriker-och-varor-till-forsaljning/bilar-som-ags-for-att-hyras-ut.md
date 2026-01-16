@@ -1,7 +1,7 @@
 ---
 title: Bilar som ägs för att hyras ut
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 172 s. ISBN saknas'
 categories: – Allmosa (Zakāh) – Allmosa för marker, fastigheter, buriker och varor till försäljning
 original_id: 616

@@ -1,9 +1,9 @@
 ---
 title: Skaka hand med imamen efter de fem obligatoriska bönerna
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 267 s. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Innovationer
+categories: – Troslära (´Aqīdah) – Innovationer
 original_id: 1500
 description: 'Fråga: Vilket är utlåtandet om att alltid skaka hand med imamen och
  de som sitter till höger och vänster om en? Detta görs efter varje obligatorisk

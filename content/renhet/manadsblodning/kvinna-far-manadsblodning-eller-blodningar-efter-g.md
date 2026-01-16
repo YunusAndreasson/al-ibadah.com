@@ -1,8 +1,8 @@
 ---
 title: Kvinna får månadsblödning eller blödningar efter graviditet när hon har trätt
  in i ihrām
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 153 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 779

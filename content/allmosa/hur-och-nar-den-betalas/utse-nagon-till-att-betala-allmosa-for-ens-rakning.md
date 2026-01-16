@@ -1,7 +1,7 @@
 ---
 title: Utse någon till att betala allmosa för ens räkning
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 200 s. ISBN saknas'
 categories: – Allmosa (Zakāh) – Hur och när den betalas
 original_id: 648
@@ -12,7 +12,7 @@ description: 'Fråga: Jag äger en del boskap i Egypten. Ger jag allmosa för de
 
 **Fråga:** Jag äger en del boskap i Egypten. Ger jag allmosa för dem när jag befinner mig här i Irak eller väntar jag tills jag återvänder till mitt land?
 
-**Svar:** Det är din skyldighet att betala allmosa för dem för varje år som går. Därmed bör du utse någon i Egypten som ger den. Att utse någon som ger allmosan är tillåtet. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – brukade sända folk som var anställda till att samla in allmosa. De tog den då från folket och gav den till Allāhs sändebud. Man har även bekräftat att han utsåg ʿAlī bin Abi Tālib till att slakta vad som återstod av hans offerdjur under hans sista pilgrimsfärd.
+**Svar:** Det är din skyldighet att betala allmosa för dem för varje år som går. Därmed bör du utse någon i Egypten som ger den. Att utse någon som ger allmosan är tillåtet. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – brukade sända folk som var anställda till att samla in allmosa. De tog den då från folket och gav den till Allāhs sändebud. Man har även bekräftat att han utsåg ´Alī bin Abi Tālib till att slakta vad som återstod av hans offerdjur under hans sista pilgrimsfärd.
 
 Därför bör du utse någon som du litar på i Egypten som ger allmosa för denna boskap. Du får inte skjuta upp detta tills du återvänder. När du skjuter upp på detta sätt får inte folket allmosan i rätt tid.
 

@@ -1,8 +1,8 @@
 ---
 title: Insisterar på att fira profetens – över honom vare Allāhs frid och välsignelser – födelsedag
-author: Dr. Sālih Ibn Fowzān Ibn ʿAbdullāh Ibn Fowzān
+author: Dr. Sālih Ibn Fowzān Ibn ´Abdullāh Ibn Fowzān
 source: Fatāwa tata'allāq bil-Mawlid an-Nabawī – sida 49, fråga 11
-categories: – Troslära (ʿAqīdah) – Innovationer
+categories: – Troslära (´Aqīdah) – Innovationer
 original_id: 563
 description: 'Fråga: En man på vår arbetsplats både godkänner och propagerar för
  firandet av profetens – över honom vare Allāhs frid och välsignelser – födelsedag.

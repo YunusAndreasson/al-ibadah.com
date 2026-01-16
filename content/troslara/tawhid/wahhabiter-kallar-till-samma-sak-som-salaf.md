@@ -1,16 +1,16 @@
 ---
 title: ”Wahhabiter” kallar till samma sak som salaf
-author: Ibn ʿAbdullah Ibn Bāz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ´Abdullah Ibn Bāz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 328 s. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Tawhīd [Monoteism]
+categories: – Troslära (´Aqīdah) – Tawhīd [Monoteism]
 original_id: 134
-description: 'Fråga: Är historien som säger att Muḥammad bin ʿAbdul-Wahhābs följeslagare
+description: 'Fråga: Är historien som säger att Muḥammad bin ´Abdul-Wahhābs följeslagare
  band deras hästar i ar-Rawdah sann? Svar: Denna historia saknar grund, faktum
  är att den är en lögn och en vanställ...'
 ---
 
-**Fråga:** Är historien som säger att Muḥammad bin ʿAbdul-Wahhābs följeslagare band sina hästar i *ar-Rawdah[^1]* sann?
+**Fråga:** Är historien som säger att Muḥammad bin ´Abdul-Wahhābs följeslagare band sina hästar i *ar-Rawdah[^1]* sann?
 
 **Svar:** Denna historia saknar grund, faktum är att den är en lögn och en vanställning av sanningen. Det vi känner till om dem är att de spred *salaf[^2] s* kall och lärde ut sanningen om *tawhīd[^3]* när de hade erövrat Medina. Detta var samma *tawhīd[^3]* som Allāh sände Sin profet Muḥammad och de andra sändebuden med. Under denna tid var *shirk[^4]* vida spritt. Folket sökte hjälp från Budbärarna, följeslagarna, *ahlul-bait* och andra rättfärdiga personer vid gravplatsen al-Baqi' [till exempel Hamza och martyrerna vid Uhud].
 

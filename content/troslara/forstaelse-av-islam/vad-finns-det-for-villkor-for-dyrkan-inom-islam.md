@@ -1,9 +1,9 @@
 ---
 title: Vad finns det för villkor för dyrkan inom islam?
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius.
  ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Förståelse av islam
+categories: – Troslära (´Aqīdah) – Förståelse av islam
 original_id: 514
 description: 'Fråga: Vad finns det för villkor för dyrkan inom islam? Svar: För
  det första: dyrkan måste vara enligt den islamiska lagen och dess syften. Den som
@@ -57,7 +57,7 @@ Med dessa sex anledningar som grund är en dyrkan inte giltig om den inte fören
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
 [^3]: Rakah.
 [^4]: Dhuhr
-[^5]: Wudû´
+[^5]: Wudū
 [^6]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^7]: Den tionde månaden i det islamiska året. Under denna månad är det rekommenderat att fasta sex dagar frivillig fasta.
 [^8]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.

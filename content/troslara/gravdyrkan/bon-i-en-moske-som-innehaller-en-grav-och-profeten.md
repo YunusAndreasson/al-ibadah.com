@@ -2,10 +2,10 @@
 title: Bön i en moské som innehåller en grav och profetens – över honom vare Allāhs
  frid och välsignelser – grav i moskén
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 54 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Gravdyrkan
+categories: – Troslära (´Aqīdah) – Gravdyrkan
 original_id: 43
 description: 'Fråga: Jag har frågor om det är tillåtet att be i en moské som innehåller
  en grav. Några lärde säger att det inte är tillåtet att be i dem. De säger att
@@ -16,7 +16,7 @@ description: 'Fråga: Jag har frågor om det är tillåtet att be i en moské so
 
 Några lärde säger att det inte är tillåtet att be i dem. De säger att om det inte finns någon annan moské i staden, då ska du be i ditt hem, vilket är bättre när det kommer till belöningar.
 
-Andra säger att det är tillåtet att be i dem då sändebudets och hans båda följeslagares [Abū Bakr och ʿUmar] gravar finns i hans moské. Jag har inget bevis för endera åsikten. Då jag bor på landet i Senegal skickar jag detta brev till dig för att få reda på sanningen och bevisen. I vår stad har vi en moské som det finns fyra gravar i. Tre ligger längs med väggen – exakt i riktning mot *qiblah[^1]*. Den fjärde finns inuti moskén.
+Andra säger att det är tillåtet att be i dem då sändebudets och hans båda följeslagares [Abū Bakr och ´Umar] gravar finns i hans moské. Jag har inget bevis för endera åsikten. Då jag bor på landet i Senegal skickar jag detta brev till dig för att få reda på sanningen och bevisen. I vår stad har vi en moské som det finns fyra gravar i. Tre ligger längs med väggen – exakt i riktning mot *qiblah[^1]*. Den fjärde finns inuti moskén.
 
 **Svar:** Det är inte tillåtet att bygga moskéer över gravar, ej heller är det tillåtet att be i sådana moskéer.
 
@@ -24,7 +24,7 @@ Andra säger att det är tillåtet att be i dem då sändebudets och hans båda 
 
 > ”När profeten var på väg att dö täckte han sitt ansikte med en bit tyg och när han kände smärta avtäckte han sitt ansikte och sade: 'Allāhs förbannelse vilar över judarna och de kristna som gjorde om deras profeters gravar till platser för bön.' Han sade detta för att varna muslimer för att göra så. Hade det inte varit för detta hade han beordrat att hans grav skulle resas över marken, men han var rädd för att den skulle ha omvandlats till en moské.” [*al-Bukhārī* 1330, *Muslim* 529, *an-Nasā’i* 704, *Ahmad* 5:204 och *al-Muwatta* 85]
 
-Jundub bin ʿAbdullāh har sagt:
+Jundub bin ´Abdullāh har sagt:
 
 > ”Fem dagar före sin död hörde jag profeten säga: 'Jag klargör inför Allāh att inte ha tagit någon vän från dig, för Allāh har tagit mig som en älskad, som Han tog Abraham som en älskad. Skulle jag ha tagit en vän från mitt samfund, då hade jag tagit Abū Bakr som en vän. Var varse! Dem som levde före er brukade omvandlade deras profeters och rättfärdigas gravar till moskéer. Var varse! Gör aldrig om gravar till moskéer, jag förbjuder er att göra så.” [*Muslim* 532]
 

@@ -1,6 +1,6 @@
 ---
 title: Arafat-dagen – frivillig fasta för de som inte vallfärdar
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Majmoo’ Fatāwa Ibn ‘Uthaymīn (20/404)
 categories: – Fasta (Sawm) – Frivillig fasta (Shawwal, ashura-dagen, m.m.)
 original_id: 1611

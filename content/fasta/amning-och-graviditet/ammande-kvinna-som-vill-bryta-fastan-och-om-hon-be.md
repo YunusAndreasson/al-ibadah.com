@@ -1,6 +1,6 @@
 ---
 title: Ammande kvinna som vill bryta fastan och om hon behöver ta igen den
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 643 s. ISBN 9960-892-66-2'
 categories: – Fasta (Sawm) – Amning och graviditet

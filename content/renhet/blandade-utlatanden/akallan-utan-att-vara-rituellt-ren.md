@@ -1,7 +1,7 @@
 ---
 title: Åkallan utan att vara rituellt ren
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 280 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Blandade utlåtanden
 original_id: 687
@@ -19,6 +19,6 @@ Icke desto mindre är det mer troligt att din åkallan[^1] besvaras om du befinn
 Profeten har sagt: ”*Tjänaren är närmast sin Herre när han nedfaller[^3], så åkalla ofta där*.” [*Muslim* 482]
 
 [^1]: Du´ā
-[^2]: Wudû´
+[^2]: Wudū
 [^3]: sujūd, nedfallandet när pannan läggs mot marken.
 

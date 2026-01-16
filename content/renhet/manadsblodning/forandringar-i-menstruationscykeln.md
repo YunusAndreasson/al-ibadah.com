@@ -1,7 +1,7 @@
 ---
 title: Förändringar i menstruationscykeln
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 113 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 170

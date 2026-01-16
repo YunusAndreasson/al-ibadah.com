@@ -1,6 +1,6 @@
 ---
 title: Bygga en moské för allmosa
-author: Ibn ʿAbdullah Ibn Baz
+author: Ibn ´Abdullah Ibn Baz
 source: Fatāwa al-Mara Majmū' Fatāwā wa Maqālāt Mutanawwi'ah – volym 14, sida 294.
 categories: – Allmosa (Zakāh) – De som får ta emot allmosa
 original_id: 553

@@ -1,7 +1,7 @@
 ---
 title: Pendla mellan at-Ta'if och Jiddah i arbetet och inte träda in i ihrām
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 91 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – al-Mawaqit
 original_id: 737

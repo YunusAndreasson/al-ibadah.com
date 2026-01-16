@@ -1,6 +1,6 @@
 ---
 title: Sålde guld före allmosan betalades för det
-author: Ibn ʿAbdullah Ibn Baz
+author: Ibn ´Abdullah Ibn Baz
 source: Fatāwa al-Marah
 categories: – Allmosa (Zakāh) – Allmosa för smycken
 original_id: 554

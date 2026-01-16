@@ -1,9 +1,9 @@
 ---
 title: Påbörja ett projekt genom att klippa ett band
-author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ´Abdur-Rahman al-Jibrīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 267 s. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Innovationer
+categories: – Troslära (´Aqīdah) – Innovationer
 original_id: 114
 description: 'Fråga: När utställningar hålls eller när projekt påbörjas så finns
  det folk som har för vana att fira det med att hänga upp band som sedan klipps.

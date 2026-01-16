@@ -44,11 +44,11 @@ export function Header() {
         Hoppa till huvudinnehåll
       </a>
 
-      <header className="border-b border-border">
+      <header>
         <div className="max-w-3xl mx-auto px-4 h-14 flex items-center justify-between">
           <Link
             to="/"
-            className="font-semibold tracking-tight hover:text-muted-foreground transition-colors"
+            className="font-semibold tracking-tight text-foreground"
           >
             al-Ibadah
           </Link>
@@ -83,8 +83,8 @@ export function Header() {
                 <li key={link.to}>
                   <Link
                     to={link.to}
-                    className="block px-3 py-2.5 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors"
-                    activeProps={{ className: 'text-foreground bg-muted' }}
+                    className="nav-link block px-3 py-2.5 rounded-lg hover-bg"
+                    activeProps={{ className: 'active bg-muted' }}
                     onClick={() => setMenuOpen(false)}
                   >
                     {link.label}
@@ -105,8 +105,8 @@ function NavLink({ to, children }: { to: string; children: React.ReactNode }) {
   return (
     <Link
       to={to}
-      className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
-      activeProps={{ className: 'text-foreground' }}
+      className="nav-link text-sm font-medium"
+      activeProps={{ className: 'active' }}
       activeOptions={{ includeSearch: false }}
     >
       {children}
@@ -125,7 +125,7 @@ function SearchButton({ onClick }: { onClick: () => void }) {
     <button
       type="button"
       onClick={onClick}
-      className="flex items-center gap-2 px-2.5 py-1.5 text-sm text-muted-foreground hover:text-foreground border border-border hover:border-muted-foreground/30 rounded-lg transition-colors press-scale"
+      className="nav-link flex items-center gap-2 px-2.5 py-1.5 text-sm border border-border rounded-lg press-scale"
       aria-label="Sök (kortkommando: Ctrl+K)"
     >
       <SearchIcon size={14} />
@@ -141,7 +141,7 @@ function MobileMenuButton({ isOpen, onClick }: { isOpen: boolean; onClick: () =>
   return (
     <button
       type="button"
-      className="md:hidden p-2 -mr-2 hover:bg-muted rounded-lg transition-colors press-scale"
+      className="md:hidden p-2 -mr-2 rounded-lg hover-bg press-scale"
       aria-label={isOpen ? 'Stäng meny' : 'Öppna meny'}
       aria-expanded={isOpen}
       onClick={onClick}

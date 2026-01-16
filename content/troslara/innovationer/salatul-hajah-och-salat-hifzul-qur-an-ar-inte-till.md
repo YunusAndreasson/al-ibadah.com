@@ -1,9 +1,9 @@
 ---
 title: Salatul-hajah och salat hifzul-qur'an är inte tillåtna
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 314 s. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Innovationer
+categories: – Troslära (´Aqīdah) – Innovationer
 original_id: 294
 description: 'Fråga: Jag har hört talas om salatul-hajah och salat hifzul-qur''an
  . Är dessa böner tillåtna? Svar: Dessa båda bönerna är felaktiga. Varken salatul-hajah eller salat

@@ -1,10 +1,10 @@
 ---
 title: Är djävulen en ängel?
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 9x s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Änglarna
+categories: – Troslära (´Aqīdah) – Änglarna
 original_id: 63
 description: 'Fråga: Är djävulen – må Allāh förbanna honom – en ängel eller är han
  något annat? Svar: Vi bör känna till att änglar är Allāhs skapelser. Han skapade

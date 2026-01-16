@@ -1,10 +1,10 @@
 ---
 title: Ovilja inför att studera det förutbestämda på grund av rädsla för att begå
  misstag
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 180 s. ISBN 9960-892-66-2'
-categories: – Troslära (ʿAqīdah) – Allāhs förutbestämmelse
+categories: – Troslära (´Aqīdah) – Allāhs förutbestämmelse
 original_id: 1580
 description: 'Fråga: Vilket råd har ni att ge till den som inte gillar att studeras ‘aqīdah
 , speciellt frågor om det förutbestämda, på grund av rädsla för att begå misstag? Svar: Denna

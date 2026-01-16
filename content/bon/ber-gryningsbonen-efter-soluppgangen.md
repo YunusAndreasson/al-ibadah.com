@@ -1,7 +1,7 @@
 ---
 title: Ber gryningsbönen efter soluppgången
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 353 s. ISBN saknas'
 categories: – Bön (Salāh)
 original_id: 313

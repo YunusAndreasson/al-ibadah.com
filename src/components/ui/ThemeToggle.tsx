@@ -36,7 +36,7 @@ export function ThemeToggle() {
     return (
       <button
         type="button"
-        className="p-2 hover:bg-muted rounded-lg transition-colors press-scale"
+        className="p-2 rounded-lg hover-bg press-scale"
         aria-label="Byt tema"
       >
         <div className="w-[18px] h-[18px]" />
@@ -48,7 +48,7 @@ export function ThemeToggle() {
     <button
       type="button"
       onClick={cycleTheme}
-      className="p-2 hover:bg-muted rounded-lg transition-colors press-scale"
+      className="p-2 rounded-lg hover-bg press-scale"
       aria-label={`Nuvarande tema: ${theme === 'system' ? 'automatiskt' : theme === 'light' ? 'ljust' : 'mörkt'}. Klicka för att byta.`}
     >
       <span key={theme} className="animate-icon-in">

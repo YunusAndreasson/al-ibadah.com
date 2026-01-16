@@ -1,7 +1,7 @@
 ---
 title: Skjuta upp tawāful-ifādhah
-author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ´Abdur-Rahman al-Jibrīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 188 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Tawāf och sa’ī
 original_id: 814
@@ -21,6 +21,6 @@ När det gäller långa uppehåll, som en halvtimme eller mer, då är den korre
 Och Allāh vet bäst.
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
-[^2]: Wudû´
+[^2]: Wudū
 [^3]: Vandringen mellan as-Safa och al-Marwa.
 

@@ -1,7 +1,7 @@
 ---
 title: Skyldigheten i och betydelsen av allmosan
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 148 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Allmosa (Zakāh)
@@ -15,7 +15,7 @@ All lovprisan tillhör Allāh allena och må välsignelser och frid vara över h
 
 Det som har lett till nedtecknandet av detta uttalande är för att ge råd och för att påminna om skyldigheten i allmosan, något om många muslimer har tagit lättvindigt. Därför ger de inte på så vis som är föreskrivet att ge, trots dess höga status och att den är en av islams fem pelare som islams grund inte kan uppresas korrekt utan. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Islam är byggt på fem [pelare]. Vittnesmålet om att ingen har rätten att dyrkas utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av bönen, att betala den obligatoriska allmosan, fastan under ramadan[^1] och pilgrimsfärden till Huset [Kaʿbah].” [*al-Bukhārī* 8 och *Muslim* 16]
+> ”Islam är byggt på fem [pelare]. Vittnesmålet om att ingen har rätten att dyrkas utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av bönen, att betala den obligatoriska allmosan, fastan under ramadan[^1] och pilgrimsfärden till Huset [Ka´bah].” [*al-Bukhārī* 8 och *Muslim* 16]
 
 Denna hadiths äkthet råder det enighet om.
 

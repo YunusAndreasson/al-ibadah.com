@@ -1,10 +1,10 @@
 ---
 title: Stärka sin tro
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muḥammad ibn Sālih al-‘Uthaymīn,
  volym. 1. sida. 49 Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn:
  Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Förståelse av islam
+categories: – Troslära (´Aqīdah) – Förståelse av islam
 original_id: 492
 description: 'Fråga: Hur ska man göra för att stärka sin tro? Svar: All lovprisan
  tillhör Allāh. Det finns flera metoder för att stärka sin tro: Det första sättet

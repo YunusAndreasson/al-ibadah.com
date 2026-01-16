@@ -1,9 +1,9 @@
 ---
 title: Avvisar autentiska ahādīth
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Förståelse av islam
+categories: – Troslära (´Aqīdah) – Förståelse av islam
 original_id: 1685
 description: 'Fråga: Vilket är utlåtandet om de som avvisar autentiska ahādīth som
  nämnts i Sahīh al-Bukhārī och Sahīh Muslim. Ett exempel är ahādīth om straffet

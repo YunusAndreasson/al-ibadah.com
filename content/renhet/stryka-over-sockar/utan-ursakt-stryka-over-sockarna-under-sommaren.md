@@ -1,7 +1,7 @@
 ---
 title: Utan ursäkt stryka över sockarna under sommaren
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 104 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Stryka över sockar
 original_id: 1444
@@ -17,5 +17,5 @@ description: 'Fråga: Jag märker att somliga av Allāhs tjänare stryker över 
 Och Allāh är Den som beviljar framgång.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
-[^2]: Wudû´
+[^2]: Wudū
 

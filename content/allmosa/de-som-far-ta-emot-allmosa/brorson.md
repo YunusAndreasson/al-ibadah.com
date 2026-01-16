@@ -1,6 +1,6 @@
 ---
 title: Brorson
-author: Ibn ʿAbdullah Ibn Baz
+author: Ibn ´Abdullah Ibn Baz
 source: Fatāwa al-Marah
 categories: – Allmosa (Zakāh) – De som får ta emot allmosa
 original_id: 555

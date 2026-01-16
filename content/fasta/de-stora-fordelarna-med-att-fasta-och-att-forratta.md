@@ -1,7 +1,7 @@
 ---
 title: De stora fördelarna med att fasta och att förrätta nattbön under ramadan
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 211 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Fasta (Sawm)
@@ -99,7 +99,7 @@ Sannerligen, autentiska *ahādīth[^4]* från Allāhs sändebud – över honom 
 
 Äktheten i denna *hadīth[^4]* råder det enighet om.
 
-Profeten – över honom vare Allāhs frid och välsignelser – fastslog inte ett visst antal bönecykler[^7], varken under Ramadan eller vid någon annan tidpunkt. Under ʿUmars tid bad följeslagarna därför ibland 23 bönecykler[^7] och ibland elva bönecykler[^7]. Detta har bekräftats från ‘Umar – må Allāh vara nöjd med honom – och följeslagarna under hans tid.
+Profeten – över honom vare Allāhs frid och välsignelser – fastslog inte ett visst antal bönecykler[^7], varken under Ramadan eller vid någon annan tidpunkt. Under ´Umars tid bad följeslagarna därför ibland 23 bönecykler[^7] och ibland elva bönecykler[^7]. Detta har bekräftats från ‘Umar – må Allāh vara nöjd med honom – och följeslagarna under hans tid.
 
 Några av *salaf[^9]* – må Allāh vara nöjda med dem – brukade be 36 bönecykler[^7] under Ramadan för att sedan be tre bönecykler[^7] som witr[^8]. Vissa bad 41 bönecykler[^7]. *Shaykh ul-Islām* ibn Taymiyyah – må Allāh vara honom nådig – berättade detta om dem och han har sagt att denna fråga är flexibel [det är lätt]. Han har även nämnt att det är bättre för den som förlänger sin recitation, sina bugningar och nedfallanden att minska antalet bönecykler[^7]; och den som förkortar recitationen, bugningarna och nedfallanden bör öka antalet bönecykler[^7]. Detta är innebörden av hans uttalande.
 

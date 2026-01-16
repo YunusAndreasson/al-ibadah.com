@@ -1,6 +1,6 @@
 ---
 title: Miswāk och parfym
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 648 s. ISBN 9960-892-66-2'
 categories: – Fasta (Sawm) – Vad som bryter eller inte bryter fastan
@@ -18,5 +18,5 @@ Likaså är parfym under dagens början och slut tillåtet för den fastande oav
 
 [^1]: Kan liknas vid en tandborste. Gjord av Arak-trädets rötter.
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
-[^3]: Wudû´
+[^3]: Wudū
 

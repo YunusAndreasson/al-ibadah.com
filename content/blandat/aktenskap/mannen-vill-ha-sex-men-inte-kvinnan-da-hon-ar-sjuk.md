@@ -1,6 +1,6 @@
 ---
 title: Mannen vill ha sex, men inte kvinnan då hon är sjuk
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa az-Zawāj wa 'Ishratun-Nisā – fråga 72, sida 103
 categories: – Blandat – Äktenskap
 original_id: 1715

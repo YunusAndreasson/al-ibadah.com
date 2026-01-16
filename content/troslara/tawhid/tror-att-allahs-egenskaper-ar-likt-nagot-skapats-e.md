@@ -1,10 +1,10 @@
 ---
 title: Tror att Allāhs egenskaper är likt något skapats egenskaper
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 141 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Tawhīd [Monoteism]
+categories: – Troslära (´Aqīdah) – Tawhīd [Monoteism]
 original_id: 1086
 description: 'Fråga: Vilket är utlåtandet om någon som tror att Skaparens egenskaper
  är likadana som de skapade varelsernas egenskaper? Svar: Den som tror att Skaparens

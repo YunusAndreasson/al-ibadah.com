@@ -1,6 +1,6 @@
 ---
 title: Göra ghusl efter intim samvaro
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: '''Ishratun-Nisā wa Hill al-Kjilāfāt az-Zowjiyyah – sida 58'
 categories: – Renhet (Tahārah) – Ghusl [Den stora tvagningen]
 original_id: 602

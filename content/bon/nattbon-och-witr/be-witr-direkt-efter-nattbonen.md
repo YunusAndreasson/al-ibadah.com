@@ -1,7 +1,7 @@
 ---
 title: Be witr direkt efter nattbönen
-author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdur-Rahman al-Jibrīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 317 s. ISBN saknas'
 categories: – Bön (Salāh) – Nattbön och witr
 original_id: 297

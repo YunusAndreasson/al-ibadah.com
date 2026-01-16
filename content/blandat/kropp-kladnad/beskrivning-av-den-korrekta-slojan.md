@@ -40,7 +40,7 @@ Ibn 'Abd al-Barr sade:
 
 5. Den bör inte vara parfymerad med *bakhūr* eller vällukt. Det finns många ahādīth[^3] som förbjuder kvinnor att bära parfym när de lämnar hemmet. Vi kommer nedan att citera några med autentiska berättarkedjor:
 
-1. Abū Mūsa al-Ashʿari har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: “En kvinna som tar på sig parfym och sedan passerar förbi folk så att de kan känna hennes väldoft är en äktenskapsförbryterska.”
+1. Abū Mūsa al-Ash´ari har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: “En kvinna som tar på sig parfym och sedan passerar förbi folk så att de kan känna hennes väldoft är en äktenskapsförbryterska.”
 2. Zaynab har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: “Om någon av er [kvinnor] går till moskén, rör då ingen parfym.”
 3. Abū Hurairah har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: “Den kvinna som parfymerar sig med bakhūr, låt henne inte medvara vid nattbönen[^4] med oss.”
 4. Mūsa ibn Yassār har berättat att en kvinna gick förbi Abū Hurairah och hennes doft var överväldigande. Han sade då: “Kvinna, slav till al-Jabbār, är du på väg till moskén?” Hon svarade: “Ja.” Han sade: “Och du har parfymerat dig med anledning av det?” Hon svarade: “Ja.” Han sade: “Gå tillbaka och tvätta dig, för jag hörde Allāhs sändebud säga: 'Om en kvinna går till moskén och hennes doft är överväldigande, då kommer Allāh inte att acceptera någon bön ifrån henne innan hon har gått hem och tvättat sig.”
@@ -58,7 +58,7 @@ Ibn Daqīq al-’Eid har sagt:
 1. Abū Hurayrah sade: “Allāhs sändebud förbannade den man som bär en kvinnas kläder och den kvinna som bär en mans kläder.”
 2. 'Abd-Allāh ibn 'Amr har berättat att han hörde Allāhs sändebud – över honom vare Allāhs frid och välsignelser – säga: “De är inte av oss, de kvinnor som imiterar män och de män som imiterar kvinnor.”
 3. Ibn 'Abbās har berättat: ”Profeten förbannade kvinnliga män och manliga kvinnor. Han sade: 'Kasta ut dem ur deras hem.'” Han sade: ”Kasta ut dem ur hemmet.” Han sade: ”Profeten  utestängde den-och-den och ’Umar utestängde den-och-den.” Enligt en annan version: ”Allāhs sändebud förbannade män som imiterar kvinnor och kvinnor som imiterar män.”
-4. ʿAbdullāh ibn 'Amr har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: “Det finns tre som inte kommer att få gå in i Paradiset och Allāh kommer inte ens att titta på dem på Återuppståndelsens Dag: Den som inte lyder sina föräldrar, en kvinna som imiterar män och en *duyūh* [hanrej, en svag man som inte känner någon svartsjuka över sina kvinnor].”
+4. ´Abdullāh ibn 'Amr har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: “Det finns tre som inte kommer att få gå in i Paradiset och Allāh kommer inte ens att titta på dem på Återuppståndelsens Dag: Den som inte lyder sina föräldrar, en kvinna som imiterar män och en *duyūh* [hanrej, en svag man som inte känner någon svartsjuka över sina kvinnor].”
 5. Ibn Abi Malīkah – vars namn var ’Abdullāh ibn ’Ubayd-Allāh – har sagt: ”Det sades till Aisha: ’Om en kvinna bär sandaler som män bär?’ Hon svarade: ’Allāhs sändebud förbannade kvinnor som beter sig som män.’”
 
 Dessa *ahādīth[^3]* visar tydligt att kvinnor inte får imitera män och vice versa. Detta innefattar vanligtvis kläder och annat, utom den första hadithen ovan som enbart gäller klädsel.
@@ -71,7 +71,7 @@ Abū Dawūd har på sidan 261 i *Masā’il al-Imam Ahmad* sagt: “Jag hörde A
 
 Det bör kännas till att det finns gott om autentiska bevis för dessa viktiga utlåtanden i Koranen och profetens *sunnah[^5]*. Bevisen i Koranen förklaras utförligare i profetens *sunnah[^5]*, vilket alltid är fallet.
 
-8. Det bör inte vara ett klädesplagg baserat på mode eller högfärd. Ibn ʿUmar har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: 
+8. Det bör inte vara ett klädesplagg baserat på mode eller högfärd. Ibn ´Umar har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: 
 
 > “Den som bär ett moderiktigt eller högfärdigt klädesplagg i denna värld kommer Allāh att klä i ett förnedrande plagg Återuppståndelsens Dag, sedan kommer Han att få Elden att flamma upp runt denne.”
 

@@ -1,6 +1,6 @@
 ---
 title: Tillstånd som beviljas för en resenär
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 550 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Resenärens bön
@@ -30,5 +30,5 @@ De andra frivilliga bönerna är fortfarande tillåtna [i stället för rekommen
 [^5]: Maghrib
 [^6]: Isha
 [^7]: Fajr
-[^8]: Wudû´
+[^8]: Wudū
 

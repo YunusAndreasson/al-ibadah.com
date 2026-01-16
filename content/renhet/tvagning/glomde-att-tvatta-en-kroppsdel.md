@@ -1,6 +1,6 @@
 ---
 title: Glömde att tvätta en kroppsdel
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 321 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
@@ -23,5 +23,5 @@ Men han bör veta att om han har tvivel [tvivel om han tvättat sin vänstra ell
 
 Och Allāh vet bäst.
 
-[^1]: Wudû´
+[^1]: Wudū
 

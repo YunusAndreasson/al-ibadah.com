@@ -1,6 +1,6 @@
 ---
 title: Television och radio – att be efter en imam genom dessa former av media
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 539 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Bönen i församlingen

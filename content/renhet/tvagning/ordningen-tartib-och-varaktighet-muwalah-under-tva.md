@@ -1,6 +1,6 @@
 ---
 title: Ordningen [tartīb] och varaktighet [muwalah] under tvagningen
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 320 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
@@ -19,7 +19,7 @@ När det gäller varaktighet betyder det att man inte tvättar sig under olika t
 
 Detta bevisar att varaktighet är ett villkor för att tvagningen[^1] ska accepteras. Det är även en skyldighet eftersom tvagningen[^1] är en enskild dyrkan och en sådan enskild handling görs inte ovanpå en annan, även om de utgörs av olika delar. Den korrekta åsikten är att ordning och varaktighet båda är skyldigheter under tvagningen[^1].
 
-[^1]: Wudû´
+[^1]: Wudū
 [^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 [^3]: Vandringen mellan as-Safa och al-Marwa.
 

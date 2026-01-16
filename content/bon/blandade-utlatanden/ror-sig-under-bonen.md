@@ -1,6 +1,6 @@
 ---
 title: Rör sig under bönen
-author: Ibn ʿAbdullah Ibn Baz
+author: Ibn ´Abdullah Ibn Baz
 source: 'Fatāwa ‘Ulama’ al-Balad al-Harām, 162-164 Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories: – Bön (Salāh) – Blandade utlåtanden

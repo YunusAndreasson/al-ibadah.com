@@ -1,7 +1,7 @@
 ---
 title: Raka huvudet eller klippa håret efter det andra stadiet i att avlägsna ihrām
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 211 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Raka huvudet och klippa håret
 original_id: 1356

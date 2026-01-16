@@ -1,7 +1,7 @@
 ---
 title: Tasbih sker endast med den högra handen
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 264 s. ISBN saknas'
 categories: – Blandat – Åminnelse
 original_id: 270

@@ -1,9 +1,9 @@
 ---
 title: Hittade ett papper med märkvärdiga meningar
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 48 s. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Amuletter och talismaner
+categories: – Troslära (´Aqīdah) – Amuletter och talismaner
 original_id: 39
 description: 'Fråga: Min respekterade shaykh, på vägen hittade jag ett papper med
  skrift på och jag ville plocka upp det för att folk inte skulle trampa på det. Jag

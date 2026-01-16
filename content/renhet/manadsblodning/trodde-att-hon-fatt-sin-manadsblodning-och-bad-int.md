@@ -1,6 +1,6 @@
 ---
 title: Trodde att hon fått sin månadsblödning och bad inte
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa al-Haydh wal-Istihādhah wan-Nifās – sida 69, 54
 categories: – Renhet (Tahārah) – Månadsblödning
 original_id: 590

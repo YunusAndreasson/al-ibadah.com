@@ -1,6 +1,6 @@
 ---
 title: Mujāhidin
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 616 s. ISBN 9960-892-66-2'
 categories: – Allmosa (Zakāh) – De som får ta emot allmosa

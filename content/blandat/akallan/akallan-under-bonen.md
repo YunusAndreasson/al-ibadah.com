@@ -1,7 +1,7 @@
 ---
 title: Åkallan under bönen
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 183 s. ISBN saknas'
 categories: – Blandat – Åkallan
 original_id: 1484
@@ -18,7 +18,7 @@ Han har även sagt: ”*Beträffande bugningen[^3], lovprisa din Herre i den; oc
 
 Från Abū Hurairah återges i Muslim att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Tjänaren är närmst sin Herre när han nedfaller, så åkalla mycket*.” [*Muslim* 482]
 
-I *Sahīh Muslim* och *Sahīh al-Bukhārī* har det berättats från ʿAbdullāh bin Mas'ud att när profeten – över honom vare Allāhs frid och välsignelser – lärde honom *tashahhud[^6]* så sade han: ”*Låt honom sedan välja vilken angelägenhet han vill*.” [*Muslim* 402] Och i en annan version: ”*Låt honom sedan välja den åkallan[^1] som gör honom nöjd*.” [*al-Bukhārī* 835]
+I *Sahīh Muslim* och *Sahīh al-Bukhārī* har det berättats från ´Abdullāh bin Mas'ud att när profeten – över honom vare Allāhs frid och välsignelser – lärde honom *tashahhud[^6]* så sade han: ”*Låt honom sedan välja vilken angelägenhet han vill*.” [*Muslim* 402] Och i en annan version: ”*Låt honom sedan välja den åkallan[^1] som gör honom nöjd*.” [*al-Bukhārī* 835]
 
 *Ahādīth[^7]* med denna innebörd är många och de bevisar att det är tillåtet att åkalla i dessa moment. De bevisar också att en muslim för använda vilken åkallan[^1] han vill. Det kan gälla något i detta livet eller i det Nästa. Villkoren är dock att denna åkallan[^1] inte blandar in något syndigt eller att den används för att skära familjeband. Det bästa är att i så stor utsträckning som möjligt använda de åkallan[^1] den som har rapporterats från profeten – över honom vare guds frid och välsignelser.
 

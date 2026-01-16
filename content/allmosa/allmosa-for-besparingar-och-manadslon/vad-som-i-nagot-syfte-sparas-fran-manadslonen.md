@@ -1,6 +1,6 @@
 ---
 title: Vad som i något syfte sparas från månadslönen
-author: Ibn ʿAbdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Baz
 source: Majmoo’ al-Fatawa (14/130)
 categories: – Allmosa (Zakāh) – Allmosa för besparingar och månadslön
 original_id: 1606

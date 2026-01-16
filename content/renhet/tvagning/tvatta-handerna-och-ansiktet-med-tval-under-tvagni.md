@@ -1,7 +1,7 @@
 ---
 title: Tvätta händerna och ansiktet med tvål under tvagningen
-author: Muḥammad bin Salih al-ʿUthaymin
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muḥammad bin Salih al-´Uthaymin
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 81 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Tvagning
 original_id: 1434
@@ -16,5 +16,5 @@ description: 'Fråga: Vilket är utlåtandet om att tvätta händerna och ansikt
 
 Ja, om det bekräftas att det finns smuts på händerna, som inte kan avlägsnas med något annat än tvål, då finns det ingen invändan mot det. Men om det är en vana, då anses användandet av såpa vara överdrivet samt en innovation. Därmed ska det inte invändas.
 
-[^1]: Wudû´
+[^1]: Wudū
 

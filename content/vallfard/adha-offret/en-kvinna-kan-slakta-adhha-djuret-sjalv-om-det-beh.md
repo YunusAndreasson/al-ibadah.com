@@ -1,7 +1,7 @@
 ---
 title: En kvinna kan slakta adhha-djuret själv om det behövs
-author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ´Abdur-Rahman al-Jibrīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 334 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Adha-offret
 original_id: 880

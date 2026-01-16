@@ -1,6 +1,6 @@
 ---
 title: Missar en bönecykel i gryningsbönen och om man då bör recitera högt
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 476 s. ISBN 9960-892-66-2'
 categories: – Bön (Salāh) – Praktiska detaljer i bönen

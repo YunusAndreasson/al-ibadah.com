@@ -1,7 +1,7 @@
 ---
 title: Träda in i ihrām med ett barn
-author: Ibn ʿAbdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ´Abdur-Rahman al-Jibrīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 43 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Barnets vallfärd
 original_id: 707

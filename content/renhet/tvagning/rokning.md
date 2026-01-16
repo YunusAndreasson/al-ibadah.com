@@ -13,5 +13,5 @@ description: 'Fråga: Vilket är utlåtandet om den som säljer olika sorters to
 
 **Svar:** All lovprisan tillhör Allāh. Det är förbjudet att sälja tobak på grund av dess onda natur och dess många skadliga effekter. Den som gör det betraktas som en fāsiq. Du behöver inte upprepa din tvagning[^1] när du har rökt men du bör avlägsna den anstötliga lukten från din mun med någonting som tar bort den. Det är också obligatoriskt att skyndsamt visa ånger inför Allāh på grund av det.
 
-[^1]: Wudû´
+[^1]: Wudū
 

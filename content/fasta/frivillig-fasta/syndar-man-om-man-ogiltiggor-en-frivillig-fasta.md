@@ -1,6 +1,6 @@
 ---
 title: Syndar man om man ogiltigör en frivillig fasta?
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 680 s. ISBN 9960-892-66-2'
 categories: – Fasta (Sawm) – Frivillig fasta (Shawwal, ashura-dagen, m.m.)

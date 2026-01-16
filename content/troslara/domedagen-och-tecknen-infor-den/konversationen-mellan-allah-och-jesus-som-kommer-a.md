@@ -1,9 +1,9 @@
 ---
 title: Konversationen mellan Allāh och Jesus som kommer att hållas under Domedagen
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Domedagen och tecknen inför den
+categories: – Troslära (´Aqīdah) – Domedagen och tecknen inför den
 original_id: 1676
 description: 'Fråga: I Koranen finns en detaljerad diskussion mellan Allāh den Allsmäktige
  och Jesus. Allāh frågar honom: ”Jesus, son av Maria! Är det du som uppmanade människorna
@@ -17,7 +17,7 @@ Utifrån kontexten verkar det vara så att denna frågestund kommer att äga rum
 
 Denna diskussion fortlöper tills Allāh den Allsmäktige säger: ”[På Domens dag] ska Gud säga: 'Denna dag ska de sanningsenliga skörda frukterna av sin kärlek till sanningen.” [Koranen 5:119]
 
-Och som jag sagt, indikerar kontexten att denna frågestund mellan ʿĪsā och Allāh kommer att äga rum i det Nästkommande.
+Och som jag sagt, indikerar kontexten att denna frågestund mellan ´Īsā och Allāh kommer att äga rum i det Nästkommande.
 
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 

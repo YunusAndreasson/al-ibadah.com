@@ -1,7 +1,7 @@
 ---
 title: Tala efter iqāmah inför bönen
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 129 s. ISBN saknas'
 categories: – Bön (Salāh) – Iqāmah [Det andra böneutropet]
 original_id: 178

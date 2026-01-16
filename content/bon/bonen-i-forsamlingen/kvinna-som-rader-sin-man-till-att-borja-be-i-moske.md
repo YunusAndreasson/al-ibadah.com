@@ -1,6 +1,6 @@
 ---
 title: Kvinna som råder sin man till att börja be i moskén
-author: Ibn ʿAbdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Baz
 source: al-Hisbah magazin – Nummer 39, sida 15.
 categories: – Bön (Salāh) – Bönen i församlingen
 original_id: 1290

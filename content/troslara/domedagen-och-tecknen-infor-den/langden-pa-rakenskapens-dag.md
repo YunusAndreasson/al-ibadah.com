@@ -1,9 +1,9 @@
 ---
 title: Längden på Räkenskapens Dag
-author: Muḥammad bin Sālih al-ʿUthaymīn
+author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Majmū’ Fatāwa Ibn ‘Uthaymīn, 2/40 Muhammed Knut Bernström (1421), Koranens
  budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Domedagen och tecknen inför den
+categories: – Troslära (´Aqīdah) – Domedagen och tecknen inför den
 original_id: 526
 description: 'Fråga: Är Räkenskapens Dag en dag? Svar: Räkenskapens Dag är en
  dag men det är en dag vars längd är som 50 000 år. Allāh säger i Koranen: ”En

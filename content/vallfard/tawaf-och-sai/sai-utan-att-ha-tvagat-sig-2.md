@@ -17,6 +17,6 @@ description: 'Fråga: När jag gjorde sa’ī mellan as-Safa och al-Marwah blev 
 Och Allāh är källan till all styrka. Må Allāh sända välsignelser och frid över vår profet Muḥammad.
 
 [^1]: Vandringen mellan as-Safa och al-Marwa.
-[^2]: Wudû´
+[^2]: Wudū
 [^3]: Den sju långa rundar vandringen runt Kabah.
 

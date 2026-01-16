@@ -1,7 +1,7 @@
 ---
 title: Vallfärd utan makens tillstånd
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-ʿilmiyyah wal-Iftā – Volym 11,
+source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-´ilmiyyah wal-Iftā – Volym 11,
  sida 20, fatwa 5866
 categories: – Vallfärd (Hajj) – Kvinnans vallfärd
 original_id: 907

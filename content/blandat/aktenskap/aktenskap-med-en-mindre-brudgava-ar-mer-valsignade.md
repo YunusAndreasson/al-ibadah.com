@@ -1,7 +1,7 @@
 ---
 title: Äktenskap med en mindre brudgåva är mer välsignade
-author: Muḥammad bin Salih al-ʿUthaymin
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muḥammad bin Salih al-´Uthaymin
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
 categories: – Blandat – Äktenskap
 original_id: 1628
@@ -18,5 +18,5 @@ I det flesta fall är detta något som faller på kvinnan därför att det är h
 
 Många kvinnor ådömer detta på sina män och säger: ”Vid dens-och-dens fest hände det-och-det.” Men i frågor som dessa är det obligatoriskt att det sker enligt den islamiska lagen och man bör inte överträda dess gränser och ej heller vara extravagant, därför att Allāh den Högste har förbjudit extravagans när Han sagt: ”*Gud är inte vän av dem som går till överdrift*.” [Koranen 7:31]
 
-”Smekmånader” är ogillat därför att det är en imitation av icke-muslimer och stora summor pengar slösas bort här. Man förlorar även mycket ur en religiös synvinkel, speciellt om man tillbringar sin tid i ett icke-islamiskt land. Man tar med sig många dåliga seder hem som är skadliga för en själv och samhället i stort. Detta är något som leder till bekymmer för det muslimska samhället. Om han reser med sin fru för att utföra ʿumrah eller om de reser till Medina finns det ingen invändan mot det, om Allāh vill.
+”Smekmånader” är ogillat därför att det är en imitation av icke-muslimer och stora summor pengar slösas bort här. Man förlorar även mycket ur en religiös synvinkel, speciellt om man tillbringar sin tid i ett icke-islamiskt land. Man tar med sig många dåliga seder hem som är skadliga för en själv och samhället i stort. Detta är något som leder till bekymmer för det muslimska samhället. Om han reser med sin fru för att utföra ´umrah eller om de reser till Medina finns det ingen invändan mot det, om Allāh vill.
 

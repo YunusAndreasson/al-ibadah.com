@@ -1,10 +1,10 @@
 ---
 title: Livsuppehälle och äktenskap – om det är nedtecknat i al-lawh al-mahfuz
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 190 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
-categories: – Troslära (ʿAqīdah) – Allāhs förutbestämmelse
+categories: – Troslära (´Aqīdah) – Allāhs förutbestämmelse
 original_id: 1184
 description: 'Fråga: Är ens levebröd och äktenskap nedtecknat i al-lawh al-mahfuz
 ? Svar: Allting sedan skapelsen av pennan till Återuppståndelsens dag är nedtecknat

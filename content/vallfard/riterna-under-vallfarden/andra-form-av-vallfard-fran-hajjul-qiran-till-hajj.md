@@ -1,7 +1,7 @@
 ---
 title: Ändra form av vallfärd från hajjul-qirān till hajjul-tamattu’
-author: Ibn ʿAbdullah Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+author: Ibn ´Abdullah Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 104 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Riterna under vallfärden
 original_id: 747
@@ -10,9 +10,9 @@ description: 'Fråga: Vad gäller den som går in i ihrām för vallfärden samt
 ? Svar: Ja, om denne går in i ...'
 ---
 
-**Fråga:** Vad gäller den som går in i *ihrām[^1]* för vallfärden samt *ʿumrah[^2]* som en *qarin* och efter *ʿumrah[^2]* avlägsnar sin *ihrām[^1]*? Anses denne vara en *mutamatti[^3]'*?
+**Fråga:** Vad gäller den som går in i *ihrām[^1]* för vallfärden samt *´umrah[^2]* som en *qarin* och efter *´umrah[^2]* avlägsnar sin *ihrām[^1]*? Anses denne vara en *mutamatti[^3]'*?
 
-**Svar:** Ja, om denne går in i *ihrām[^1]* för vallfärden och *ʿumrah[^2]* som en *qarin* för att sedan utföra *tawāf[^4]* och *sa’ī[^5]*, klippa håret och endast göra en *ʿumrah[^2]*, då kallas denne för *mutamatti[^3]'* och denne måste göra ett offer för *hajjul-tamattu'*[^6].
+**Svar:** Ja, om denne går in i *ihrām[^1]* för vallfärden och *´umrah[^2]* som en *qarin* för att sedan utföra *tawāf[^4]* och *sa’ī[^5]*, klippa håret och endast göra en *´umrah[^2]*, då kallas denne för *mutamatti[^3]'* och denne måste göra ett offer för *hajjul-tamattu´*[^6].
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.

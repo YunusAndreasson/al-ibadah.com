@@ -1,17 +1,17 @@
 ---
 title: Utföra tawāful-ifādhah innan stenarna kastas på pelarna eller innan man stått
  vid Arafat
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 186 s. ISBN saknas'
 categories: – Vallfärd (Hajj) – Stå vid Arafat
 original_id: 1554
 description: 'Fråga: Är det tillåtet att utföra tawāful-ifādhah och sa’ī innan
- man kastar stenarna på den stora pelaren, al-ʿAqabah, eller innan man stått vid
+ man kastar stenarna på den stora pelaren, al-´Aqabah, eller innan man stått vid
  Arafat? Vänligen, hjälp oss med ett svar. Sv...'
 ---
 
-**Fråga:** Är det tillåtet att utföra *tawāf[^1] ul-ifādhah* och *sa’ī[^2]* innan man kastar stenarna på den stora pelaren, al-ʿAqabah, eller innan man stått vid Arafat[^3]? Vänligen, hjälp oss med ett svar.
+**Fråga:** Är det tillåtet att utföra *tawāf[^1] ul-ifādhah* och *sa’ī[^2]* innan man kastar stenarna på den stora pelaren, al-´Aqabah, eller innan man stått vid Arafat[^3]? Vänligen, hjälp oss med ett svar.
 
 **Svar:** Det är tillåtet att utföra *tawāf[^1]* och *sa’ī[^2]* för vallfärden innan man har kastat stenarna på pelarna, men *tawāf[^1]* för vallfärden får man inte utföra före Arafat[^3] eller före midnatt under natten före offerdagen. Om man åker från [Arafat[^3]] och lämnar Muzdalifah[^4] under natten före *‘eid*, då är det tillåtet att utföra *tawāf[^1]* och *sa’ī[^2]* under den sista halvan av natten före offerdagen och under offerdagen innan stenarna kastas. En man sade till profeten: ”*Jag utförde tawāf[^1] ul-ifādhah innan steningen*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Inga problem*.” [*al-Bukhārī* 1722 och *Muslim* 1306]
 

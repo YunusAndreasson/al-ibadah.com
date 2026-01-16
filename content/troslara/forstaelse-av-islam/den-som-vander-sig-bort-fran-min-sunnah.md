@@ -1,9 +1,9 @@
 ---
 title: ”Den som vänder sig bort från min sunnah”
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Förståelse av islam
+categories: – Troslära (´Aqīdah) – Förståelse av islam
 original_id: 1679
 description: 'Fråga: Vilken är innebörden av denna hadīth : ”Den som vänder sig
  bort från min sunnah, då tillhör han inte mig.” [al-Bukhārī 5063 och Muslim 1401]

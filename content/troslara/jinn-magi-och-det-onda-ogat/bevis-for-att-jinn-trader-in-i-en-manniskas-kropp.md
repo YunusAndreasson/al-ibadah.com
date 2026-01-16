@@ -1,9 +1,9 @@
 ---
 title: Bevis för att jinn träder in i en människas kropp
-author: Muḥammad bin Salih al-ʿUthaymin
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
+author: Muḥammad bin Salih al-´Uthaymin
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Jinn, magi och det onda ögat
+categories: – Troslära (´Aqīdah) – Jinn, magi och det onda ögat
 original_id: 1655
 description: 'Fråga: Finns det några bevis som stöder påstående att jinn kan anta
  en mänsklig form? Svar: Ja, det finns bevis i Skriften och i profetens sunnah
@@ -16,9 +16,9 @@ description: 'Fråga: Finns det några bevis som stöder påstående att jinn ka
 
 Bevis från profetens sunnah[^2] finns då han – över honom vare Allāhs frid och välsignelser – sagt: ”*Sannerligen, djävulen flyter genom Adams söner som hans blod flyter*.” [al-Bukhārī 2039 och Muslim 2175]
 
-I *Maqalat ahl as-sunnah[^2] wal-jama'ah* säger al-Ashʿari att de – *ahl as-sunnah[^2]* – säger att jinn[^1] träder in i den besattes kropp på det sätt som bevisats genom den föregående versen.
+I *Maqalat ahl as-sunnah[^2] wal-jama'ah* säger al-Ash´ari att de – *ahl as-sunnah[^2]* – säger att jinn[^1] träder in i den besattes kropp på det sätt som bevisats genom den föregående versen.
 
-ʿAbdullah, imam Ahmads son, har sagt: ”Jag sade till min fader att en grupp påstod att jinn[^1] inte träder in i människors kroppar. Han sade då: 'Min son! De ljuger. Ser du inte att det är de som talar med eras tungor.'”
+´Abdullah, imam Ahmads son, har sagt: ”Jag sade till min fader att en grupp påstod att jinn[^1] inte träder in i människors kroppar. Han sade då: 'Min son! De ljuger. Ser du inte att det är de som talar med eras tungor.'”
 
 I ett antal *ahādīth[^3]* från Allāhs sändebud – över honom vare Guds frid och välsignelser – nedtecknade av imam Ahmad och al-Bayhaqi har det rapporterats att han mötte en pojke som var besatt. Profeten – över honom vare Allāhs frid och välsignelser – började då säga: ”*Allāhs fiende! Kom ut! Allāhs fiende! Kom ut!” [Ibn Majah 3548] I andra versioner säger han: ”Allāhs fiende! Kom ut! Jag är Allāhs sändebud*.” [Ahmad 4:171, 172] Sedan blev pojken frisk och normal.
 

@@ -1,9 +1,9 @@
 ---
 title: Habībullāh – använda detta ord för att beskriva profeten
-author: Muḥammad bin Salih al-ʿUthaymin
+author: Muḥammad bin Salih al-´Uthaymin
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 111 s. ISBN 9960-892-66-2'
-categories: – Troslära (ʿAqīdah) – Sändebuden
+categories: – Troslära (´Aqīdah) – Sändebuden
 original_id: 1174
 description: 'Fråga: Vilket är utlåtandet om att beskriva profeten – över honom vare
  Allāhs frid och välsignelser – med ordet habībullah [Allāhs älskade]? Svar: Utan

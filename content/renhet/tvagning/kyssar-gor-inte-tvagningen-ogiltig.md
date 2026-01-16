@@ -1,7 +1,7 @@
 ---
 title: Kyssar gör inte tvagningen ogiltig
-author: Muḥammad bin Sālih al-ʿUthaymīn
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 79 s. ISBN saknas'
 categories: – Renhet (Tahārah) – Tvagning
 original_id: 162
@@ -18,7 +18,7 @@ Detta betyder att när en man kysser sin fru, rör henne med handen eller kramar
 
 Och Allāh vet bäst.
 
-[^1]: Wudû´
+[^1]: Wudū
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
 

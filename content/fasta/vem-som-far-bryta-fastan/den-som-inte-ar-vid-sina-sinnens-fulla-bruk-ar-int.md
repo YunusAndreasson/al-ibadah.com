@@ -1,7 +1,7 @@
 ---
 title: Den som inte är vid sina sinnens fulla bruk är inte skyldig att fasta
 author: al-Ladjnah ad-Da’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 287 s. ISBN saknas'
 categories: – Fasta (Sawm) – Vem som får bryta fastan
 original_id: 1402

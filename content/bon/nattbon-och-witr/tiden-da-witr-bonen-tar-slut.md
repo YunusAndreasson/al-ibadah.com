@@ -1,7 +1,7 @@
 ---
 title: Tiden då witr-bönen tar slut
-author: Ibn ʿAbdullāh Ibn Baz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+author: Ibn ´Abdullāh Ibn Baz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 305 s. ISBN saknas'
 categories: – Bön (Salāh) – Nattbön och witr
 original_id: 1513

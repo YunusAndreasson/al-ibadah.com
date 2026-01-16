@@ -1,9 +1,9 @@
 ---
 title: Lärare som ställs frågor av studenter
-author: Ibn ʿAbdullah Ibn Bāz
-source: 'Muḥammad bin ʿAbdul-ʿAzīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+author: Ibn ´Abdullah Ibn Bāz
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 368 s. ISBN saknas'
-categories: – Troslära (ʿAqīdah) – Förståelse av islam
+categories: – Troslära (´Aqīdah) – Förståelse av islam
 original_id: 149
 description: 'Fråga: Jag är lärare och har studerat islam och ett antal böcker om
  fiqh. Vad gäller för mig om en elev ställer en fråga till mig och jag svarar, enligt
