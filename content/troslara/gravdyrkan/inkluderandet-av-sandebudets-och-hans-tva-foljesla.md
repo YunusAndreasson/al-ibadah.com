@@ -28,7 +28,7 @@ Jundub bin Abdullāh al-Bajali har sagt:
 
 Muslim har återgivit att Jabir har rapporterat att profeten – över honom vare Allāhs frid och välsignelser – förbjöd resning av gravar, att man sitter på dem eller bygger kammare över dem. [*Muslim* 970] Dessa autentiska traditioner understryker förbudet mot att använda gravar som moskéer. De som gör så är förbannade.
 
-Dessa *ahādīth[^1]* påvisar även att det är förbjudet att bygga statyer eller kupoler över gravar [...] Att göra så anses vara ett medel för *shirk[^2]* samt ett sätt att dyrka den i graven i stället för Allāh.
+Dessa *ahādīth[^1]* påvisar även att det är förbjudet att bygga statyer eller kupoler över gravar […] Att göra så anses vara ett medel för *shirk[^2]* samt ett sätt att dyrka den i graven i stället för Allāh.
 
 Detta har inträffat både förr och nu. Oberoende av var muslimer befinner sig måste de vara medvetna om att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit att gravar konstrueras, att man bygger kupoler över dem, att man murar dem eller lyser upp dem samt andra saker som han har förbjudit. De ska inte låta sig luras av vad den stora massan gör, den troende måste alltid söka sanningen och hålla sig till den var han än finner den. Sanningen kan kännas igen genom bevis från Skriften och profetens – över honom vare Allāhs frid och välsignelser – sunnah[^3], inte genom människors handlande eller åsikter.
 
@@ -38,7 +38,7 @@ Därmed bör inte detta användas som bevis eller argument för att tillåta byg
 
 Det är Allāh som ger framgång.
 
-[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

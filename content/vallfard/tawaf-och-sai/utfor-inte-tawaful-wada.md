@@ -22,6 +22,6 @@ Dessa *ahādīth[^2]* bevisar skyldigheten i *tawāf[^1] ul-wadā*, utom för en
 Kvinnan med månadsblödning och kvinnan med blödningar efter graviditeten är inte skyldiga att utföra *tawāf[^1] ul-wadā*. Anledningen är den *hadīth[^2]* från Ibn ‘Abbās som har nämnts ovan och det som har rapporterats med samma innebörd.
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
-[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

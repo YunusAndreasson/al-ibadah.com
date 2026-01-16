@@ -20,7 +20,7 @@ Följeslagarna har berättat att profeten – över honom vare Allāhs frid och 
 
 [^1]: Rakah.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
-[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
+[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^5]: Den lilla vallfärden.
 

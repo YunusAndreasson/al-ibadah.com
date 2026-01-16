@@ -176,8 +176,8 @@ För att summera denna form av *tawhīd[^1]* – *tawhīd[^1] as-asmā’ was-si
 [^2]: Enheten i Allāhs herravälde.
 [^3]: Att särskilja Allāh i dyrkan.
 [^4]: Tron på Allāhs unika namn och egenskaper.
-[^5]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^5]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^6]: Mushrik.
-[^7]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^7]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^8]: De tre första generationerna i islam.
 

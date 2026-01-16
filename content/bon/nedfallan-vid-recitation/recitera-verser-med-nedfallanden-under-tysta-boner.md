@@ -17,5 +17,5 @@ description: 'Fråga: Vilket är utlåtandet om att i tysta böner recitera en v
 **Svar:** Det är ogillat att imamen i tysta böner reciterar en vers i vilken det finns en nedfallan[^1]. De enda alternativ han har är ju att antingen nedfalla[^1] eller att inte göra det. Om han inte gör det, då överger han en *sunnah[^2]* och om han gör det, då kommer han att skapa förvirring för Allāhs tjänare. Därför är det bättre att under dessa omständigheter undvika vad som kan leda till förvirring. Om han reciterar en sådan vers, då bör han inte nedfalla[^1]. Det leder ju till förvirring.
 
 [^1]: sujūd, nedfallandet när pannan läggs mot marken.
-[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

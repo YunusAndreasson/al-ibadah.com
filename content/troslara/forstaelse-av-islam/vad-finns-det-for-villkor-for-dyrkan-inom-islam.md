@@ -26,7 +26,7 @@ Som jag har sagt till dig är innovationer något mycket allvarligt som har en d
 
 Det är märkligt att vi finner några av de som befattar sig med innovationer mana andra till att följa dem samtidigt som de är okunniga i frågor som är långt nyttigare, sundare och användbara.
 
-Därför säger vi att det är en innovation att fira profetens – över honom vare Allāhs frid och välsignelser – färd till himlen under den 27:e natten i rajab[^1]. Detta gör vi baserat på att det inte finns nämnt i den islamiska lagen.
+Därför säger vi att det är en innovation att fira profetens – över honom vare Allāhs frid och välsignelser – färd till himlen under den 27:e natten i rajab[^1]. Detta gör vi grundat på att det inte finns nämnt i den islamiska lagen.
 
 För det andra: dyrkan måste vara enligt den islamiska lagen i dess typ eller i karaktär. Om någon exempelvis offrar en häst skulle det stå i motsats till den islamiska lagen. Detta beror på att ett offerdjur måste komma ifrån familjen *an'ām*, nämligen: kameler, kor eller får.
 
@@ -56,7 +56,7 @@ Med dessa sex anledningar som grund är en dyrkan inte giltig om den inte fören
 6. Plats
 
 [^1]: Den sjunde månaden i det islamiska året.
-[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Rakah.
 [^4]: Dhuhr
 [^5]: Wudū

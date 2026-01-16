@@ -35,5 +35,5 @@ En *mutamatti[^4]'* måste utföra *tawāf[^9]* och *sa’ī[^10]* för sin vall
 [^8]: Utför vallfärden och ´umrah samtidigt med en intention.
 [^9]: Den sju långa rundar vandringen runt Kabah.
 [^10]: Vandringen mellan as-Safa och al-Marwa.
-[^11]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^11]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

@@ -21,11 +21,11 @@ Andra har sagt att man bör be var för sig och några av dessa är: Sufyan, Ibn
 
 Men dessa personer och de som har hållet med dem har endast gjort så med rädsla för att det skulle leda till splittring och att de som följer en viss sekt kan få en ursäkt för att komma för sent och be tillsammans med en imam som följer deras läror. För att då kunna stänga denna dörr till splittring och hindra medlemmar i sekter från att uppnå deras onda avsikter har de sagt att man inte bör be gemensamt i moskén när församlingen redan har bett med den vanliga imamen.
 
-Den första åsikten är dock den korrekta, baserat på den *hadīth[^1]* som har nämnts tidigare och den generella betydelsen i Allāhs ord: ”*Frukta därför Gud efter måttet av er förmåga*.” [Koranen 64:16]
+Den första åsikten är dock den korrekta, grundat på den *hadīth[^1]* som har nämnts tidigare och den generella betydelsen i Allāhs ord: ”*Frukta därför Gud efter måttet av er förmåga*.” [Koranen 64:16]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har även sagt: ”*Om jag beordrar er att göra någonting, gör det då så mycket som ni har möjlighet till*.” [*Muslim* 1337 och *Ahmad* 2:2 och 508]
 
-Det råder ingen tvekan om att bön i församlingen är en del av att frukta Allāh och en del av vad den islamiska lagen föreskriver. Därför måste man vara noga med att göra det så mycket som möjligt. Det är inte rätt att motsäga sig autentiska *ahādīth[^1]* baserat på åsikter från lärde som ogillar att bönen upprepas i moskén; i stället är det obligatoriskt att handla enligt det som autentiska *ahādīth[^1]* bevisar. Är det känt att en individ eller en grupp avsiktligen kommer försent, eller om det är känt att deras sekt kommer för sent för att be tillsammans, då måste de ansvariga straffa dem på det sätt som känns lämpligt, för att hindra dem från att göra detta.
+Det råder ingen tvekan om att bön i församlingen är en del av att frukta Allāh och en del av vad den islamiska lagen föreskriver. Därför måste man vara noga med att göra det så mycket som möjligt. Det är inte rätt att motsäga sig autentiska *ahādīth[^1]* grundat på åsikter från lärde som ogillar att bönen upprepas i moskén; i stället är det obligatoriskt att handla enligt det som autentiska *ahādīth[^1]* bevisar. Är det känt att en individ eller en grupp avsiktligen kommer försent, eller om det är känt att deras sekt kommer för sent för att be tillsammans, då måste de ansvariga straffa dem på det sätt som känns lämpligt, för att hindra dem från att göra detta.
 
 På detta sätt kommer dörren till splittring att stängas och sekterna uppnår inte deras mål.
 

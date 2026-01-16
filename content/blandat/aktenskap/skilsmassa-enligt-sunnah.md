@@ -20,5 +20,5 @@ Att skilja sig från henne tre gånger är en innovation men enligt en majoritet
 
 Skilsmässa vid vrede räknas enligt en majoritet av de lärda så länge han är vid sina sinnens fulla bruk. Vissa av dem säger att den inte räknas om ilskan var riktigt stark och det finns detaljer beträffande detta som är väl kända.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

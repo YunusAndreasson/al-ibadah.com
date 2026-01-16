@@ -19,5 +19,5 @@ Rökning är förbjudet. Det har bekräftats att det är skadligt för hälsan, 
 
 Om man undviker bön bakom honom och det leder till att man missar fredagsbönen eller den obligatoriska bönen eller någon kontrovers, då är det obligatoriskt att be bakom honom. Gör man på detta sätt undviker man något ännu värre. Men om det inte finns rädsla för att folk som undviker honom ska missa fredagsbönen eller bönen med församlingen och att när folk inte ber bakom honom endast kommer leda till att han blir tillrättavisad och slutar röka, då är det tillåtet att undvika bön bakom honom för att frånhålla honom från vad Allāh har förbjudit.
 
-/.../
+/…/
 

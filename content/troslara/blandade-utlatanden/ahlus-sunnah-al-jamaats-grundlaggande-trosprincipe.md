@@ -26,7 +26,7 @@ description: 'Fråga: Vilka är ahlus-sunnah wal-jamā’ats grundläggande tros
 
 Även om denna sura uppenbarades om fördelning av krigsbyte är den än mer passande i frågor om den islamiska lagen. Under fredagar brukade profeten – över honom vare Allāhs frid och välsignelser – tala till folket och säga:
 
-> ”[...] Det bästa talet är Allāhs skrift och den bästa vägledningen är Muḥammads vägledning. Och det värsta [i religiösa] frågor är vad som nyligen har införts för sannerligen är varje nyinförd fråga är en innovation och varje innovation är en villfarelse och varje villfarelse är i Elden.” [*Muslim* 867]
+> ”[…] Det bästa talet är Allāhs skrift och den bästa vägledningen är Muḥammads vägledning. Och det värsta [i religiösa] frågor är vad som nyligen har införts för sannerligen är varje nyinförd fråga är en innovation och varje innovation är en villfarelse och varje villfarelse är i Elden.” [*Muslim* 867]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har även sagt:
 
@@ -42,6 +42,6 @@ På detta sätt upprätthöll de religionen och de skilde sig inte åt i detta. 
 
 Även om de hade olika åsikter i frågor som det är tillåtet att utöva *ijtihād[^2]* i ledde detta inte till att deras hjärtan skilde sig åt. I stället finner man kärlek mellan dem, trots de meningsskiljaktigheter som uppkom genom *ijtihād[^2]*.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^2]: Den ansträngning en islamskt lärd gör för att lägga fram ett utlåtande som inte är uppenbart.
 

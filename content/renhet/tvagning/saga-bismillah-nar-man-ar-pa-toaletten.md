@@ -19,5 +19,5 @@ description: 'Fråga: Hur kan man säga Bismillah när man är på toaletten? Sv
 [^1]: I Guds namn.
 [^2]: Wudū
 [^3]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
-[^4]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^4]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

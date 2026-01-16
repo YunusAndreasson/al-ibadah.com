@@ -9,11 +9,11 @@ categories:
   - Ånger
 original_id: 660
 description: 'Fråga: En man ber och utför goda handlingar men han har gjort något
- väldigt ont. Efteråt ångrade han sig inför Allāh. Kan han försona sig för denna
+ mycket ont. Efteråt ångrade han sig inför Allāh. Kan han försona sig för denna
  synd så att han kan avlägsna skuldkänslan i sitt...'
 ---
 
-**Fråga:** En man ber och utför goda handlingar men han har gjort något väldigt ont. Efteråt ångrade han sig inför Allāh. Kan han försona sig för denna synd så att han kan avlägsna skuldkänslan i sitt hjärta?
+**Fråga:** En man ber och utför goda handlingar men han har gjort något mycket ont. Efteråt ångrade han sig inför Allāh. Kan han försona sig för denna synd så att han kan avlägsna skuldkänslan i sitt hjärta?
 
 **Svar:** Det finns ingen försoning att utföra då uppriktig ånger stryker ut det som har skett tidigare. Allāh den Allsmäktige säger:
 

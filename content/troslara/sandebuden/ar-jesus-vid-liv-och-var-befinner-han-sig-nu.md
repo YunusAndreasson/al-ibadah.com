@@ -25,9 +25,9 @@ Från Hans ord:
 
 > ”Och för deras ord: 'Vi har dödat Kristus Jesus, Marias son, [som påstod sig vara] Guds sändebud!' Men de dödade honom inte och inte heller korsfäste de honom, fastän det för dem tedde sig så. De som är av annan mening är inte säkra på sin sak; de har ingen [verkligen] kunskap om detta utan stöder sig på antaganden. Det är med visshet så att de inte dödade honom.” [Koranen 4:155 – 158]
 
-... kan vi förstå att han upphöjdes med kropp och själ för att avvisa judarnas påstående om att de hade korsfäst och dödat honom. Detta beror på att det är kroppen som dödas och korsfäst och att endast låta själen upphöjas skulle inte avvisa och svara på deras påståenden om att de hade dödat och korsfäst honom. Namnet Jesus hänvisar även till hans kropp och själ när de är tillsammans, inte endast en av dem, utom om det skulle finnas något bevis för det – och något sådant bevis finns inte.
+… kan vi förstå att han upphöjdes med kropp och själ för att avvisa judarnas påstående om att de hade korsfäst och dödat honom. Detta beror på att det är kroppen som dödas och korsfäst och att endast låta själen upphöjas skulle inte avvisa och svara på deras påståenden om att de hade dödat och korsfäst honom. Namnet Jesus hänvisar även till hans kropp och själ när de är tillsammans, inte endast en av dem, utom om det skulle finnas något bevis för det – och något sådant bevis finns inte.
 
 Att låta honom uppresas med kropp och själ är en nödvändig del av Allāhs kraft, visdom, generositet och hjälp till de Han vill hjälpa bland Hans sändebud, enligt Hans ord i slutet av versen: ”*Gud är allsmäktig, vis*.”
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

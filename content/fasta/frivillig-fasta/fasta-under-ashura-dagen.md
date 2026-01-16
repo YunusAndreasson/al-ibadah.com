@@ -14,5 +14,5 @@ description: 'Fråga: Den som fastar den nionde och tionde och som det sedan bli
 
 **Fråga:** Den som fastar den nionde och tionde och som det sedan blir klart för efteråt att denne har fastat den åttonde och den nionde – vilket är då utlåtandet? Behöver denne ta igen?
 
-**Svar:** Han behöver inte ta igen denna fasta och han får en fullständig belöning, om Allāh vill, baserat på hans avsikt då han enligt kalendern trodde att det var den nionde och den tionde. Därmed får han denna belöning, om Allāh vill. Han behöver inte ta igen fastan och han får belöningen för att ha fastat dessa båda dagar.
+**Svar:** Han behöver inte ta igen denna fasta och han får en fullständig belöning, om Allāh vill, grundat på hans avsikt då han enligt kalendern trodde att det var den nionde och den tionde. Därmed får han denna belöning, om Allāh vill. Han behöver inte ta igen fastan och han får belöningen för att ha fastat dessa båda dagar.
 

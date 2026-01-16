@@ -27,7 +27,7 @@ Det är en del av profetens – över honom vare Allāhs frid och välsignelser 
 
 [^1]: Rakah.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^4]: Dhuhr
 [^5]: Maghrib
 [^6]: Isha

@@ -29,5 +29,5 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 [^2]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
-[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

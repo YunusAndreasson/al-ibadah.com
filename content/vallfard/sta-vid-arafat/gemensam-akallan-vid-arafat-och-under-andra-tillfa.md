@@ -39,7 +39,7 @@ Och Allāh är den som ger framgång.
 [^4]: Dhuhr
 [^5]: Asr
 [^6]: Riktningen mot Kabah i Mecka som bönen utförs mot.
-[^7]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^7]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^8]: Säga Labbayk Allahumma Labbayk under vallfärden.
 [^9]: En åkallan som kan läsas under den nattliga witr-bönen.
 

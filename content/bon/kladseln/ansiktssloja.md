@@ -24,5 +24,5 @@ Ansiktet döljer hon medan hon sitter och står. När hon sedan vill nedfalla[^2
 
 [^1]: Släkting som det inte är tillåtet att gifta sig med.
 [^2]: sujūd, nedfallandet när pannan läggs mot marken.
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

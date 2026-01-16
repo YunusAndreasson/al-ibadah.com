@@ -13,7 +13,7 @@ description: 'Fråga: Hur kan vi få ihop att tron innebär att man tror på All
  goda och det onda i det] med att profeten...'
 ---
 
-**Fråga:** Hur kan vi få ihop att tron innebär att man tror på Allāh, Hans änglar, Hans skrifter, Hans sändebud, den Yttersta dagen och det förutbestämda [det goda och det onda i det] med att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Tron består av mer än 70 olika grenar*...”?
+**Fråga:** Hur kan vi få ihop att tron innebär att man tror på Allāh, Hans änglar, Hans skrifter, Hans sändebud, den Yttersta dagen och det förutbestämda [det goda och det onda i det] med att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Tron består av mer än 70 olika grenar*…”?
 
 **Svar:** Tron, som är trosläran, har sex grundläggande principer som har nämnts i återberättelsen om [ängeln] Gabriel när han frågade profeten – över honom vare Allāhs frid och välsignelser – om tron och sändebudet – över honom vare Allāhs frid och välsignelser – sade: ”*Tron är att tro på Allāh, Hans änglar, Hans skrifter, Hans sändebud, den Yttersta dagen och det förutbestämda, det goda och de dåliga i det*.”
 

@@ -22,6 +22,6 @@ Om någon säger att det har berättats att profeten – över honom vare Allāh
 Detta är den korrekta åsikten, att det som kommer ut från kroppen inte gör tvagningen[^1] ogiltig även om det är mycket och oavsett om det är spyor, saliv, blod, var eller någonting annat såvida det inte är urin eller avföring. Om en öppning görs i kroppen för att släppa ut detta, då blir tvagningen[^1] ogiltig när det kommer ut från den öppningen.
 
 [^1]: Wudū
-[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

@@ -50,7 +50,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 De lärde har olika åsikter om det är tillåtet att bära Koran-amuletter. Det korrekta utlåtandet är att det inte är tillåtet. Detta av två anledningar:
 
 1. Det generella förbudet mot att bära amuletter, oavsett om de innehåller Koran-verser eller ej. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – traditioner.
-2. Inget utrymme ska lämnas för att använda *shirk[^2]*-formler. Om Koran-amuletter var tillåtna, då skulle de kunna blandas ihop med andra amuletter. Detta kommer att hålla dörren till *shirk[^2]* öppen och alla typer av amuletter skulle bäras baserat på det. Det är känt att stänga dörrar till sådant som leder till *shirk[^2]* och onda handlingar är ett av de högsta rättsliga målen.
+2. Inget utrymme ska lämnas för att använda *shirk[^2]*-formler. Om Koran-amuletter var tillåtna, då skulle de kunna blandas ihop med andra amuletter. Detta kommer att hålla dörren till *shirk[^2]* öppen och alla typer av amuletter skulle bäras grundat på det. Det är känt att stänga dörrar till sådant som leder till *shirk[^2]* och onda handlingar är ett av de högsta rättsliga målen.
 
 Det är Allāh som ger framgång.
 

@@ -8,12 +8,12 @@ categories:
   - Blandat
   - Ånger
 original_id: 662
-description: 'Fråga: Jag är en ung man som är 19 år gammal och jag har syndat väldigt
+description: 'Fråga: Jag är en ung man som är 19 år gammal och jag har syndat mycket
  mycket. Jag ber sällan i moskén, jag har aldrig fastat en hel ramadan och jag begår
  många avskyvärda handlingar. Trots att j...'
 ---
 
-**Fråga:** Jag är en ung man som är 19 år gammal och jag har syndat väldigt mycket. Jag ber sällan i moskén, jag har aldrig fastat en hel ramadan[^1] och jag begår många avskyvärda handlingar. Trots att jag ofta tagit beslutet att ångra mig återvänder jag alltid till att synda.
+**Fråga:** Jag är en ung man som är 19 år gammal och jag har syndat mycket mycket. Jag ber sällan i moskén, jag har aldrig fastat en hel ramadan[^1] och jag begår många avskyvärda handlingar. Trots att jag ofta tagit beslutet att ångra mig återvänder jag alltid till att synda.
 
 Jag har två grupper av vänner och ingen av dem är praktiserande muslimer. Dessa är mina grannar och min broders vänner som kommer och hälsar på. Vänligen, visa mig hur jag ska komma närmare Allāh den Allsmäktige och längre från att synda.
 
@@ -21,7 +21,7 @@ Jag har två grupper av vänner och ingen av dem är praktiserande muslimer. Des
 
 > ”Säg [Muḥammad] till Mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [Mina bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet.” [Koranen 39:53]
 
-De lärde är ense om att denna vers uppenbarades för dem som ångrar sig. Allāh den Allsmäktige förlåter alla synder från en person som ångrar sig uppriktigt. Detta baserat på denna förra versen samt:
+De lärde är ense om att denna vers uppenbarades för dem som ångrar sig. Allāh den Allsmäktige förlåter alla synder från en person som ångrar sig uppriktigt. Detta grundat på denna förra versen samt:
 
 > ”Troende! Vänd er i uppriktig ånger [över era synder] till Gud! Kanske ska er Herre ur er [bok] utplåna era dåliga handlingar och föra er till lustgårdar, vattnade av bäckar.” [66:8]
 

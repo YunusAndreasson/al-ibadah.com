@@ -24,5 +24,5 @@ Efter detta håller imamen en predikan. Det är bra om han avsätter en del av p
 
 [^1]: Rakah.
 [^2]: Att säga Allahu Akbar.
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

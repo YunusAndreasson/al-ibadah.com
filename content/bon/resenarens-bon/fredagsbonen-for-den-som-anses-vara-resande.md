@@ -14,7 +14,7 @@ description: 'Fråga: Måste vi be fredagsbönen här i Spanien? Detta i vetskap
 
 **Fråga:** Måste vi be fredagsbönen här i Spanien? Detta i vetskap om att det inte finns någon moské här och att vi kom hit för att studera.
 
-**Svar:** De lärde har skrivit att ni, eller de i er situation, inte behöver be fredagsbönen [...]
+**Svar:** De lärde har skrivit att ni, eller de i er situation, inte behöver be fredagsbönen […]
 
 Ni behöver enbart be middagsbönen[^1]. Ni är i samma situation som de som reser och de som bor i öknen. Fredagsbönen är endast en skyldighet för dem som är hemma. Beviset för detta är att profeten – över honom vare Allāhs frid och välsignelser – inte beordrade resande eller de som bor i öknen att be den. Han gjorde det heller inte när han var på resande fot och ej heller gjorde hans följeslagare det.
 

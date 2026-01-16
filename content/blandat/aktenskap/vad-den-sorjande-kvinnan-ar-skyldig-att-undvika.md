@@ -32,6 +32,6 @@ Det är heller inte tillåtet att någon friar till henne men det finns ingen in
 
 Och Allāh är Beviljaren av framgång.
 
-[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Släkting som det inte är tillåtet att gifta sig med.
 

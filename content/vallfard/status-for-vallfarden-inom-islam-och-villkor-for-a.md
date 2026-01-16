@@ -34,6 +34,6 @@ Villkoren för att vallfärden ska vara obligatoriskt är fem:
 5. Att ha både finansiell och fysisk möjlighet. I en kvinnas fall inkluderar detta att ha en mahram[^3]. Om hon inte har en *mahram[^3]* är hon inte skyldig att vallfärda.
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
-[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^3]: Släkting som det inte är tillåtet att gifta sig med.
 

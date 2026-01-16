@@ -15,7 +15,7 @@ description: 'Fråga: I en hadīth från profeten – över honom vare Allāhs f
 
 **Fråga:** I en *hadīth[^1]* från profeten – över honom vare Allāhs frid och välsignelser – uppges det:
 
-> ”Ni kommer sannerligen att se er Herre på Återuppståndelsens Dag, precis som ni ser månen en natt när den är full... ni kommer inte att ha några problem att se det.” [*al-Bukhārī* 554 och *Muslim* 183]
+> ”Ni kommer sannerligen att se er Herre på Återuppståndelsens Dag, precis som ni ser månen en natt när den är full… ni kommer inte att ha några problem att se det.” [*al-Bukhārī* 554 och *Muslim* 183]
 
 Är det sant att Allāh kommer att ses på Återuppståndelsens Dag? Är den ovan nämnda hadithen autentisk? Kommer alla att se Honom, eller endast de troende?
 

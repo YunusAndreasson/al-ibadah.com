@@ -113,7 +113,7 @@ Må Allāh sända välsignelser och frid över vår profet Muḥammad, hans fami
 [^2]: Säga Labbayk Allahumma Labbayk under vallfärden.
 [^3]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^4]: Den sju långa rundar vandringen runt Kabah.
-[^5]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^5]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^6]: Den lilla vallfärden.
 [^7]: Platsen där pilgrimmen träder in i ihraam.
 [^8]: Dhuhr

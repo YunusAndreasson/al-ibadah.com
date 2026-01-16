@@ -28,5 +28,5 @@ För att ta reda på om välsignelserna är sanna eller falska avgör man detta 
 [^1]: En rituell rening som görs med hjälp av jord/sand då det inte finns vatten tillgängligt.
 [^2]: Kämpa för Allāhs sak.
 [^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
-[^4]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^4]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

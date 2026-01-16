@@ -23,7 +23,7 @@ Allāh den Allsmäktige förlåter en sådan person, för Han har sagt:
 
 > ”Om Gud lät människor drabbas av det onda [de förtjänar] lika snabbt som de hoppas att goda ting [ska komma dem till del], skulle deras tid helt visst vara ute.” [Koranen 10:11]
 
-/.../
+/…/
 
 [^1]: Du´ā
 

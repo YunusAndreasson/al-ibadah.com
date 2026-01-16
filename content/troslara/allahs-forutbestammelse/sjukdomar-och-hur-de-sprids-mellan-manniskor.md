@@ -56,7 +56,7 @@ Det kan finnas en känd orsak bakom en händelse men det kan också vara så att
 
 Man bör sätta sin tro till Allāh och lita till Honom. Det har ju rapporterats att en spetälsk man kom till profeten – över honom vare Allāhs frid och välsignelser – och att han tog denne i handen och bad denne att äta. [*Abū Dawūd* 3925 och *at-Tirmithi* 1817] Detta var från maten som profeten åt och han gjorde så för att han litade till Allāh. […]
 
-Denna metod för att göra *ahādīth[^2]* förenliga är den bästa som har lagts fram för att få ihop *ahādīth[^2]*. Somliga har påstått att några upphäver andra men detta påstående är fel då ett av villkoren för en upphävning är att det inte är möjligt att förena dem. Går det att förena dem är det en skyldighet att göra så, då får man ju med tillämpandet av båda bevisen. En upphävning betyder å andra sidan att man ogiltigör ett av dem. Att implementera båda är bättre än att ogiltigöra ett av dem. På detta sätt accepterar vi båda och anser dem vara bevis.
+Denna metod för att göra *ahādīth[^2]* förenliga är den bästa som har lagts fram för att få ihop *ahādīth[^2]*. Somliga har påstått att några upphäver andra men detta påstående är fel då ett av villkoren för en upphävning är att det inte är möjligt att förena dem. Går det att förena dem är det en skyldighet att göra så, då får man ju med tillämpandet av båda bevisen. En upphävning betyder å andra sidan att man ogiltigör ett av dem. Att tillämpa båda är bättre än att ogiltigöra ett av dem. På detta sätt accepterar vi båda och anser dem vara bevis.
 
 Och Allāh är Beviljaren av framgång.
 

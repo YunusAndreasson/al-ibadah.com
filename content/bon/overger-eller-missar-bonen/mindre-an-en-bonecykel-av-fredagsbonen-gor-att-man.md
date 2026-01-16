@@ -16,7 +16,7 @@ description: 'Fråga: Jag hann inte be hela fredagsbönen med imamen – är bö
 
 **Svar:** Den som har bett mindre än en bönecykel[^1] av fredagsbönen har missat den och måste be middagsbönen[^2] bestående av fyra bönecykler[^1].
 
-/.../
+/…/
 
 [^1]: Rakah.
 [^2]: Dhuhr

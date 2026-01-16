@@ -40,5 +40,5 @@ Det som är obligatoriskt att säga är ”*Subhāna Rabbiy al-A’lā* [Lovpris
 [^4]: Att säga Allahu Akbar.
 [^5]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^6]: Dhikr
-[^7]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^7]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

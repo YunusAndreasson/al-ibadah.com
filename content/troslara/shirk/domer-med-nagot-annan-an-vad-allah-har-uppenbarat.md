@@ -15,7 +15,7 @@ description: 'Fråga: Vilket är utlåtandet om någon som dömer med något ann
 
 **Fråga:** Vilket är utlåtandet om någon som dömer med något annan än vad Allāh har uppenbarat?
 
-**Svar:** Genom Allāh den Upphöjde uppnås framgång och jag ber Honom om vägledning och att Han visar mig sanningen. Att döma enligt vad Allāh den Upphöjde har uppenbarat är en del av *tawhīd[^1] ar-rububiyyah[^2]*. Därför att detta är att tillämpa Allāhs lag vilket Hans herrskap, fullständiga herravälde och bestämmande över alla ting nödvändiggör [...] Allāh den Upphöjde säger:
+**Svar:** Genom Allāh den Upphöjde uppnås framgång och jag ber Honom om vägledning och att Han visar mig sanningen. Att döma enligt vad Allāh den Upphöjde har uppenbarat är en del av *tawhīd[^1] ar-rububiyyah[^2]*. Därför att detta är att tillämpa Allāhs lag vilket Hans herrskap, fullständiga herravälde och bestämmande över alla ting nödvändiggör […] Allāh den Upphöjde säger:
 
 > ”De har tagit sina rabbiner och klosterbröder till herrar och beskyddare i Guds ställe, och [detsamma har de gjort med] Kristus, Marias son, trots att de har förmanats att inte dyrka någon annan än den Ende Guden – det finns ingen gud utom Han; stor är Han i Sin härlighet, fjärran från allt vad de vill sätta vid Hans sida!” [Koranen 9:31]
 
@@ -43,7 +43,7 @@ a] Det första är att man söker domar från Allāhs sändebud – över honom 
 
 b] Det andra är att ens hjärtan är öppet inför denna dom och att man inombords inte hyser någon invändan eller irritation mot den.
 
-c] Det tredje är att de underkastar sig fullständigt genom att acceptera hans dom och implementerar den utan tvekan eller avvikelse.
+c] Det tredje är att de underkastar sig fullständigt genom att acceptera hans dom och tillämpar den utan tvekan eller avvikelse.
 
 Den andra kategorin: Här gäller Allāhs den Upphöjdes ord:
 

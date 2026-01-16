@@ -110,7 +110,7 @@ Den troende måste vara noga med att inte avvisa det som Allāhs skrift, profete
 Må Allāh göra oss till en av dem och må Han ge oss alla nåd. Han är sannerligen Den som ger.
 
 [^1]: De tre första generationerna i islam.
-[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^3]: Något som reciteras för att bota sjukdomar.
 [^4]: Du´ā
 [^5]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

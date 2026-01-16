@@ -73,7 +73,7 @@ Förbud mot att be i riktning mot gravar
 Förbud mot att gå framför någon som ber även om det är i den Heliga Moskén i Mecka
 
 1. Det är inte tillåtet att gå framför någon som ber om det finns en *sutrah[^8]* framför denne [det är inte tillåtet att komma mellan denne och dennes *sutrah[^8]*]. Det spelar ingen roll om detta är i den Heliga Moskén eller i någon annan moské, detsamma gäller alla i fråga om att det inte är tillåtet [att gå framför den som ber]. Detta med anledningen av den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Om den som passerar framför någon som ber visste hur stor denna synd var, att stå i fyrtio [år] skulle vara bättre för denne än att passera framför någon som ber*.” Detta avser att passera mellan denne och platsen för dennes nedfallan[^6]. Den *hadīth[^9]* som talar om profetens – över honom vare Allāhs frid och välsignelser – bön i *Hāshiyat al-Matāf* utan en *sutrah[^8]* och med personer som gick framför honom är inte autentisk, även om den inte säger att de gick mellan honom och platsen för hans nedfallan[^6]. Den som nedfaller måste hindra den som vill passera framför, även om det är i den Heliga Moskén [i Mecka].
-2. Den som ber mot en *sutrah[^8]* får inte låta någon passera framför. Detta med anledning av den *hadīth[^9]* som har citerats ovan: ”*Låt ingen passera framför er*...” Och profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*När en av er ber mot något som är en sutrah[^8] mellan denne och folket och någon vill passera framför, då bör denne trycka till honom i bröstkorgen och avvisa honom så mycket han kan*.” Enligt en annan rapport: ”... *denne bör stoppa honom två gånger men om han insisterar bör denne strida mot honom för han är en djävul*.”
+2. Den som ber mot en *sutrah[^8]* får inte låta någon passera framför. Detta med anledning av den *hadīth[^9]* som har citerats ovan: ”*Låt ingen passera framför er*…” Och profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*När en av er ber mot något som är en sutrah[^8] mellan denne och folket och någon vill passera framför, då bör denne trycka till honom i bröstkorgen och avvisa honom så mycket han kan*.” Enligt en annan rapport: ”… *denne bör stoppa honom två gånger men om han insisterar bör denne strida mot honom för han är en djävul*.”
 
 Stiga fram för att hindra att någon passerar framför
 
@@ -126,14 +126,14 @@ Recitation av Koranen
 
 1. Sedan söker man sin tillflykt hos Allāh. Detta är obligatoriskt och man syndar om man utelämnar det.
 2. Det är *sunnah[^12]* att ibland säga ”*A'ūdhu Billāhi min al-Shaytān il-rajīm, min hamzihi wa nafkhihi wa nafathihi*” [Jag söker tillflykt hos Allāh från den fördömlige djävulen, från hans vansinne, hans arrogans och hans poesi].” Poesin gäller här den klandervärda sorten.
-3. Och att ibland kan man säga: ”*A’ūdhu Billāh il-Samī’ il-A’līm min al-Shaytān*… [Jag söker tillflykt hos Allāh, den Allhörande, den Allvetande, från djävulen...].”
+3. Och att ibland kan man säga: ”*A’ūdhu Billāh il-Samī’ il-A’līm min al-Shaytān*… [Jag söker tillflykt hos Allāh, den Allhörande, den Allvetande, från djävulen…].”
 4. Därefter säger man tyst – oavsett om bönen ska reciteras högt eller lågt – ”*Bismillah[^15] il-Rahmān il-Rahīm* [I Allāhs, den Nåderikes, den Barmhärtiges Namn].”
 
 Recitera al-Fātihah
 
 1. Sedan reciterar man sura al-Fātihah [Koranens första sura] till fullo, inklusive *Basmalah[^16]* [*Bismillāhi il-Rahmān il-Rahīm*]. Detta är en viktig del av bönen, som bönen blir ogiltig utan. De som inte talar arabiska måste memorera denna sura.
 2. De som inte kan komma ihåg den bör säga: ”*Subhān Allāh, wa’l-hamdu-Lillāh, wa Lā ilāha ill-Allāh, wa Allāhu akbar, wa lā hawla wa lā quwwata illa Billāh* [Ärad vare Allāh, lovprisad vare Allāh. Det finns ingen gud utom Allāh. Allāh är den Störste. Det finns ingen styrka eller kraft utom Allāh].”
-3. Det är *sunnah[^12]* att recitera en vers i taget och att pausa i början av varje. Man bör säga: ”*Bismillāh il-Rahmān il-Rahīm* [I Allāhs, den Nåderikes, den Barmhärtiges Namn] och sedan pausa, för att efter pausen säga: ”*al-Hamdu Lillāhi Rabb il-‘Ālāmīn*” [Lovprisad vare Han, Världarnas Skapare [människan, *jinn[^17]* och allt som existerar]] och sedan pausa, för att efter pausen säga: ”*al-Rahmān il-Rahīm*” [den Nåderike, den Barmhärtige] för att sedan pausa... och fortsätta så till slutet på versen.
+3. Det är *sunnah[^12]* att recitera en vers i taget och att pausa i början av varje. Man bör säga: ”*Bismillāh il-Rahmān il-Rahīm* [I Allāhs, den Nåderikes, den Barmhärtiges Namn] och sedan pausa, för att efter pausen säga: ”*al-Hamdu Lillāhi Rabb il-‘Ālāmīn*” [Lovprisad vare Han, Världarnas Skapare [människan, *jinn[^17]* och allt som existerar]] och sedan pausa, för att efter pausen säga: ”*al-Rahmān il-Rahīm*” [den Nåderike, den Barmhärtige] för att sedan pausa… och fortsätta så till slutet på versen.
 
 Så här brukade profeten – över honom vare Allāhs frid och välsignelser – recitera hela suran, med en paus i slutet av varje vers och inte sammanslaget med nästa, även om det var mitt i en mening.
 
@@ -368,7 +368,7 @@ All ära tillhör Allāh, världarnas Herre.
 [^9]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^10]: Dhuhr
 [^11]: Asr
-[^12]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^12]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^13]: Den avslutande hälsningen i bönen.
 [^14]: Du´ā
 [^15]: I Guds namn.

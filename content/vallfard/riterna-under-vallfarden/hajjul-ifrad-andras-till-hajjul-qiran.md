@@ -25,7 +25,7 @@ Och Allāh är den som ger framgång.
 [^6]: Säga Labbayk Allahumma Labbayk under vallfärden.
 [^7]: Den sju långa rundar vandringen runt Kabah.
 [^8]: Vandringen mellan as-Safa och al-Marwa.
-[^9]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^9]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^10]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 [^11]: Den elfte månaden i det islamiska året.
 

@@ -26,5 +26,5 @@ Men bekräftelsen av en egenskap nödvändiggör inte bekräftelsen av ett namn.
 
 Med detta som grund är egenskaperna större till antalet. Varje namn nödvändiggör ju en egenskap men varje egenskap nödvändiggör inte ett namn.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

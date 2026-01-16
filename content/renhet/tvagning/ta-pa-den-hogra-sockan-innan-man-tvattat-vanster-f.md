@@ -22,7 +22,7 @@ I dessa tre *ahādīth[^2]* och andra med samma innebörd blir det tydligt att e
 
 Några lärde anser att det är tillåtet att stryka över [dem] även om man har tagit på sin högra socka innan han har tvättat den vänstra [foten]. De har ju då tagits på direkt efter att fötterna tvättas.
 
-Den säkraste åsikten är den första, den verkar vara bäst baserat på bevisen. Den som har gjort detta tar av den högra socken innan han tvättar den [foten] för att ta på den igen efter att ha tvättat den vänstra. Då slipper han tveksamheter och har säkrat sin religion.
+Den säkraste åsikten är den första, den verkar vara bäst grundat på bevisen. Den som har gjort detta tar av den högra socken innan han tvättar den [foten] för att ta på den igen efter att ha tvättat den vänstra. Då slipper han tveksamheter och har säkrat sin religion.
 
 Och Allāh är Den som beviljar framgång.
 

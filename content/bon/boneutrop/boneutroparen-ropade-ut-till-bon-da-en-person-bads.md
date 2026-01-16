@@ -18,5 +18,5 @@ description: 'Fråga: Jag gick in i moskén vid gryningsbönen och jag bad två 
 
 [^1]: Fajr
 [^2]: Rakah.
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

@@ -20,5 +20,5 @@ En guldring eller klocka av guld är dock förbjudet för män att bära då det
 
 Och hos Allāh finns medlen till att göra vad som är rätt.
 
-[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

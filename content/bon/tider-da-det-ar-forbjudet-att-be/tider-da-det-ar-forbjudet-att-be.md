@@ -12,7 +12,7 @@ description: 'Fråga: Vilka är de tidpunkter då det är förbjudet att be? [..
  att be är följande: Från efter gryni...'
 ---
 
-**Fråga:** Vilka är de tidpunkter då det är förbjudet att be? [...] Ge oss råd och må Allāh belöna er med det goda.
+**Fråga:** Vilka är de tidpunkter då det är förbjudet att be? […] Ge oss råd och må Allāh belöna er med det goda.
 
 **Svar:** De tider då det är förbjudet att be är följande:
 
@@ -20,7 +20,7 @@ description: 'Fråga: Vilka är de tidpunkter då det är förbjudet att be? [..
 2. Omkring tio minuter innan solen når himlens mitt. Detta är omkring tio minuter innan tiden då middagsbönen[^2] börjar.
 3. Från efter eftermiddagsbönen[^3] tills solen har gått ned.
 
-Detta är tidpunkterna då det är förbjudet att be [...]
+Detta är tidpunkterna då det är förbjudet att be […]
 
 [^1]: Fajr
 [^2]: Dhuhr

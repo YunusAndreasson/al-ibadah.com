@@ -16,7 +16,7 @@ description: 'Fråga: Kan straffet i graven mildras för den troende som har syn
 
 **Svar:** Ja, det kan mildras. Profeten – över honom vare Allāhs frid och välsignelser – gick ju förbi två gravar och sade:
 
-> ”De blir straffade [...] En av dem skyddade aldrig sig mot sin urin som stänkte på honom medan den andre gick runt och baktalade [för att skapa fiendskap mellan vänner].” Han tog ett grönt löv från en dadelpalm, delade det i två delar och tryckte ned vart och ett av dem i var grav, samtidigt sade han: ”Jag hoppas att deras straff ska mildras tills [löven] torkar.” [*al-Bukhārī* 1378 och *Muslim* 292]
+> ”De blir straffade […] En av dem skyddade aldrig sig mot sin urin som stänkte på honom medan den andre gick runt och baktalade [för att skapa fiendskap mellan vänner].” Han tog ett grönt löv från en dadelpalm, delade det i två delar och tryckte ned vart och ett av dem i var grav, samtidigt sade han: ”Jag hoppas att deras straff ska mildras tills [löven] torkar.” [*al-Bukhārī* 1378 och *Muslim* 292]
 
 Detta är ett bevis för att straffet i graven kan mildras. Men vilken är relationen mellan löven och straffets mildrande för de båda straffade?
 

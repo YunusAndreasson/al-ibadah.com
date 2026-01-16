@@ -30,5 +30,5 @@ I *Sahīh Muslim* och *Sahīh al-Bukhārī* har det berättats från ´Abdullāh
 [^4]: sujūd, nedfallandet när pannan läggs mot marken.
 [^5]: Den ansträngning en islamskt lärd gör för att lägga fram ett utlåtande som inte är uppenbart.
 [^6]: Vad man läser i den sittande positionen under bönen.
-[^7]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^7]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

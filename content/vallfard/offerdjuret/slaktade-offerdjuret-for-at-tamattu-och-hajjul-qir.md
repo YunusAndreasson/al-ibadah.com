@@ -8,11 +8,11 @@ categories:
   - Offerdjuret
 original_id: 867
 description: 'Fråga: Vad anser ni om den som slaktar ett offerdjur för at-tamattu’ eller hajjul-qirān innan ‘eid
- -dagen? Detta baserat på några åsikter från de lärde och rättskolorna. Svar: Den
+ -dagen? Detta grundat på några åsikter från de lärde och rättskolorna. Svar: Den
  som sla...'
 ---
 
-**Fråga:** Vad anser ni om den som slaktar ett offerdjur för *at-tamattu’* eller *hajjul-qirān[^1]* innan*‘eid*-dagen? Detta baserat på några åsikter från de lärde och rättskolorna.
+**Fråga:** Vad anser ni om den som slaktar ett offerdjur för *at-tamattu’* eller *hajjul-qirān[^1]* innan*‘eid*-dagen? Detta grundat på några åsikter från de lärde och rättskolorna.
 
 **Svar:** Den som slaktar ett offerdjur för *hajjul-tamattu´*[^2] eller *al-qarin* före *‘eid*, blint följande den som har sagt det, då krävs det inget av denne. Men denne bör i framtiden informeras [om att detta är ett misstag].
 

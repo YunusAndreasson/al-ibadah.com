@@ -11,7 +11,7 @@ description: Om månadsblödningen kom efter att tiden för en bön inletts, om 
  efter att din blödning har slutat. ...
 ---
 
-Om månadsblödningen kom efter att tiden för en bön inletts, om du exempelvis fick din månadsblödning en och en halv timme efter middagstid, måste du be den bönen efter att din blödning har slutat. Detta beror på att du var ren när tiden för bönen började. Detta är baserat på Allāhs uttalande:
+Om månadsblödningen kom efter att tiden för en bön inletts, om du exempelvis fick din månadsblödning en och en halv timme efter middagstid, måste du be den bönen efter att din blödning har slutat. Detta beror på att du var ren när tiden för bönen började. Detta är grundat på Allāhs uttalande:
 
 > ”Och minns Gud efter bönens slut – när ni står upp, när ni sitter och när ni lägger er till vila. Och när ni åter är i trygghet, förrätta då bönen [på föreskrivet sätt]. Bönen är alla troende plikt, knuten till bestämda tider.” [Koranen 4:103]
 

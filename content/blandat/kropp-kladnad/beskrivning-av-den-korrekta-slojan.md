@@ -73,7 +73,7 @@ Abū Dawūd har på sidan 261 i *Masā’il al-Imam Ahmad* sagt: “Jag hörde A
 
 Det bör kännas till att det finns gott om autentiska bevis för dessa viktiga utlåtanden i Koranen och profetens *sunnah[^5]*. Bevisen i Koranen förklaras utförligare i profetens *sunnah[^5]*, vilket alltid är fallet.
 
-8. Det bör inte vara ett klädesplagg baserat på mode eller högfärd. Ibn ´Umar har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: 
+8. Det bör inte vara ett klädesplagg grundat på mode eller högfärd. Ibn ´Umar har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: 
 
 > “Den som bär ett moderiktigt eller högfärdigt klädesplagg i denna värld kommer Allāh att klä i ett förnedrande plagg Återuppståndelsens Dag, sedan kommer Han att få Elden att flamma upp runt denne.”
 
@@ -81,5 +81,5 @@ Det bör kännas till att det finns gott om autentiska bevis för dessa viktiga 
 [^2]: Tolkning av Koranen efter givna principer.
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^4]: Isha
-[^5]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^5]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

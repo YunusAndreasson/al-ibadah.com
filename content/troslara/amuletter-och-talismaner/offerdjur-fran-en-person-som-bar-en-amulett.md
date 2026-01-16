@@ -26,12 +26,12 @@ Den som tror att *tamimah* eller något annat har kraft att ge medgång eller sk
 
 Offrar denne ett djur är det inte tillåtet att äta. Men den som tror att de [amuletterna] endast är medel för läkning och att Allāh är den som ger medgång, skyddar mot det skadliga och att Han gör en sådan sak nyttig – då är denne en månggudadyrkare[^3] som begår mindre *shirk[^1]* [sic!]. I verkligheten är dessa amuletter varken tillåtna eller något som normalt sett leder till läkning, de föreställs endast göra så.
 
-Några lärde har exkluderat, och tillåtet, Koran-amuletter. De begränsade *ahādīth[^4]* i vilka profeten – över honom vare Allāhs frid och välsignelser – förbjöd användandet av amuletter till de som innehåller annat än Koranen. Men det rätta utlåtandet är det som inte motsägs av någon *hadīth[^4]* och som inte tillåter amuletter. Tillåts amuletter leder det även till att Koranen inte respekteras.
+Några lärde har uteslutat, och tillåtet, Koran-amuletter. De begränsade *ahādīth[^4]* i vilka profeten – över honom vare Allāhs frid och välsignelser – förbjöd användandet av amuletter till de som innehåller annat än Koranen. Men det rätta utlåtandet är det som inte motsägs av någon *hadīth[^4]* och som inte tillåter amuletter. Tillåts amuletter leder det även till att Koranen inte respekteras.
 
 Ett djur som offras av den som bär en Koran-amulett är tillåtet. Det beror på att denne endast tror att det är Koranen som är verkningsfull. Detta tar inte denne ur islam. Koranen är även Allāhs den Upphöjdes tal, och Hans tal är en av Hans egenskaper.
 
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^2]: En trollformel som används för att skapa kärlek mellan maken och makan.
 [^3]: Mushrik.
-[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

@@ -25,7 +25,7 @@ Några av de lärde anser att det inte är tillåtet att slå ihop middagsbönen
 
 När han hade nämnt åsikterna som stödjer att det är tillåtet att slå ihop middagsbönen[^2] och eftermiddagsbönen[^1] sade han:
 
-> ”Och vi anser att bevisen för att slå ihop bönerna som vi har nämnt – uttalandena från Abū Salamah och konsensus i åsikt – inte har rapporterats utom för kvällsbönen[^4] och nattbönen[^3]. Deras *ahādīth[^6]* är inte autentiska. De nämns inte i böcker om *ahādīth[^6]* eller Sunan som är Sahīh. Att Ahmad har sagt: ”Jag har inte hört talas om det” – bevisar att de inte finns. Det är heller inte rätt att göra en analogi med kvällsbönen[^4] och nattbönen[^3]. I dem finns en större svårighet med anledning av mörker och faror. Det är heller inte rätt att göra en analogi med resande, då svårigheter orsakas av resan och bristen på sällskap... och det existerar inte här.”
+> ”Och vi anser att bevisen för att slå ihop bönerna som vi har nämnt – uttalandena från Abū Salamah och konsensus i åsikt – inte har rapporterats utom för kvällsbönen[^4] och nattbönen[^3]. Deras *ahādīth[^6]* är inte autentiska. De nämns inte i böcker om *ahādīth[^6]* eller Sunan som är Sahīh. Att Ahmad har sagt: ”Jag har inte hört talas om det” – bevisar att de inte finns. Det är heller inte rätt att göra en analogi med kvällsbönen[^4] och nattbönen[^3]. I dem finns en större svårighet med anledning av mörker och faror. Det är heller inte rätt att göra en analogi med resande, då svårigheter orsakas av resan och bristen på sällskap… och det existerar inte här.”
 
 Ett av villkoren för att det ska vara acceptabelt att slå ihop två böner är att det finns någon form av giltighet under den första bönen när den är slutförd, och vid den andra bönen till att göra det. Om giltigheten som fanns när den första bönen började bryts när nästa bön har börjat och under sammanslagningen av de båda bönerna [exempelvis vid slutet av den första bönen och i början av den andra] leder dess frånvarande inte till någon skada under resten av bönerna.
 
@@ -37,6 +37,6 @@ Genom Allāh uppnås framgång. Må frid och välsignelser vara över vår profe
 [^2]: Dhuhr
 [^3]: Isha
 [^4]: Maghrib
-[^5]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
-[^6]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^5]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
+[^6]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

@@ -18,12 +18,12 @@ description: 'Fråga: Jag bad eftermiddagsbönen bakom en imam som missade den s
 
 Detta är välkänt, vilket ”*al-Hamdu Lillāh*” inte är.
 
-/.../
+/…/
 
 [^1]: Asr
 [^2]: Vad man läser i den sittande positionen under bönen.
 [^3]: Den avslutande hälsningen i bönen.
 [^4]: sujūd, nedfallandet när pannan läggs mot marken.
 [^5]: Rakah.
-[^6]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^6]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

@@ -27,7 +27,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har även sagt:
 
 Profeten – över honom vare Allāhs frid och välsignelser – sade även: "Den troende med fullständigast tro är den med bäst karaktär. De bästa av er är de som är bäst mot sina fruar, och jag är den bästa mot min familj."
 
-Det finns fler *ahādīth[^1]* som uppmanar till gott uppförande, bra kommunikation samt att överlag ha goda relationer med andra muslimer [...] Genom att vara tålmodig har du hanterat din mans kyla på ett bra sätt. Jag råder dig att vara ännu tålmodigare och inte lämna hemmet. Med Allāhs tillstånd kommer detta leda till en bra och prisvärd lösning. Allāh har sagt:
+Det finns fler *ahādīth[^1]* som uppmanar till gott uppförande, bra kommunikation samt att överlag ha goda relationer med andra muslimer […] Genom att vara tålmodig har du hanterat din mans kyla på ett bra sätt. Jag råder dig att vara ännu tålmodigare och inte lämna hemmet. Med Allāhs tillstånd kommer detta leda till en bra och prisvärd lösning. Allāh har sagt:
 
 > "Och bete er inte som de som lämnade sina hem i skrytsamt övermod för att ses [och beundras] av människorna. De vill hindra [andra] att följa Guds väg, men Gud håller uppsikt över [dem och] deras företag." [Koranen 8:47]
 

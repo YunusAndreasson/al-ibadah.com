@@ -18,5 +18,5 @@ description: 'Fråga: Brukade profeten lägga den högra handen på den vänstra
 
 Må frid och välsignelser vara över vår profet Muḥammad, hans familj och följeslagare.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

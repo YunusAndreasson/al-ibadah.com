@@ -19,5 +19,5 @@ description: 'Fråga: Vilket är utlåtandet om att recitera Basmalah högt? Sva
 Men det som har bevittnats om profeten – över honom vare Allāhs frid och välsignelser – är att han inte reciterade den högt [*Muslim* 399]. Detta är bäst. Men om man reciterar den med höjd röst för att ena folket vars rättskola är att recitera högt, då hoppas jag att det inte finns någon invändan mot det.
 
 [^1]: Att säga Bismillah.
-[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

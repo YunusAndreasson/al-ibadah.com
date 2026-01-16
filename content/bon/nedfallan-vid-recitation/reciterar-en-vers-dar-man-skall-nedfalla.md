@@ -20,7 +20,7 @@ Det har även rapporterats att Zaid bin Thabit reciterat en vers med nedfallan i
 
 [^1]: sujūd, nedfallandet när pannan läggs mot marken.
 [^2]: När vissa verser i Koranen reciteras kan man nedfalla.
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^4]: Fajr
 [^5]: Asr
 [^6]: Tahiyyatul-Msjid.

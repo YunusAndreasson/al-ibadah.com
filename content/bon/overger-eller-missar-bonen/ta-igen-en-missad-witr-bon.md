@@ -18,11 +18,11 @@ description: 'Fråga: Om jag sover över witr -bönen och inte ber den under nat
 
 Hans *witr[^1]* bestod vanligtvis av elva bönecykler[^3]. Det är *sunnah[^2]* att ta igen detta genom att be ett jämnt antal i enheter om två bönecykler[^3]. Detta grundas på denna ädla *hadīth[^5]* och profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Nattbönen och dagsbönen sker i enheter om två bönecykler[^3]*.” [*Abū Dawūd* 1295]
 
-/.../
+/…/
 
 [^1]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
-[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^3]: Rakah.
 [^4]: Den avslutande hälsningen i bönen.
-[^5]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^5]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

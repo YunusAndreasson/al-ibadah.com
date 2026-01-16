@@ -19,7 +19,7 @@ description: 'Fråga: Hur kan vi jämka samman hadithen från [ängeln] Gabriel 
 
 med hadithen från ´Abdul-Qais-delegationen i vilken profeten – över honom vare Allāhs frid och välsignelser – förklarar tron genom att säga att den innebär:
 
-> ”... att det inte finns någon gudom [värdig dyrkan] förutom Allāh, att Han är en, utan någon medhjälpare vid Sin sida, att be, att betala allmosa och att betala khumus” [*al-Bukhārī* 53 och *Muslim* 17]
+> ”… att det inte finns någon gudom [värdig dyrkan] förutom Allāh, att Han är en, utan någon medhjälpare vid Sin sida, att be, att betala allmosa och att betala khumus” [*al-Bukhārī* 53 och *Muslim* 17]
 
 **Svar:** Innan vi svarar denna fråga skulle jag vilja säga att det aldrig finns några motsägelser mellan Koranen och profetens – över honom vare Allāhs frid och välsignelser – sunnah[^1]. Ingen del av Skriften motsäger någon annan del och ingen del av den autentiska sunan återberättad från profeten – över honom vare Allāhs frid och välsignelser – motsäger sig någon annan del. Och inget vare sig i Koranen eller i profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* motsäger sig odiskutabla faktum. Detta beror på att de är sanna och det kan inte finnas någon motsägelse i sanningen. Förstår du då denna princip kommer många tvivel att skringa sig för dig. Allāh den Upphöjde säger:
 
@@ -39,7 +39,7 @@ I hadithen från ´Abdul-Qais-delegationen nämnde han enbart en kategori, och d
 
 > ”Islam är uppenbar och tron är dold.” Detta beror på att den [tron] finns i hjärtat och därför kan man finna en hycklare som ber, ger i välgörenhet och fastar. Denne ser ut att vara muslim men är inte troende [denne har ingen tro]. Allāh den Upphöjde säger: ”Det finns människor som säger: ’Vi tror på Gud och på den Yttersta dagen’. Medan de [i själva verket] inte tror.” [Koranen 2:8]
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
-[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: De tre första generationerna i islam.
 

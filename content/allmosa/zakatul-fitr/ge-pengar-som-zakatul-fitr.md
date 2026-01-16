@@ -32,5 +32,5 @@ Må Allāh sända frid och välsignelser över vår profet Muḥammad, hans fami
 [^1]: Allmosa som ges före eid-bönen.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
-[^4]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^4]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

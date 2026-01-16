@@ -15,7 +15,7 @@ description: 'Fråga: Allāhs sändebud har sagt att den bankrutta personen är 
 
 **Fråga:** Allāhs sändebud har sagt att den bankrutta personen är den som kommer till Domedagen och har handlat fel mot den och den och som har förbannat den och den. Vilket är då Allāhs utlåtande om den person som ångrar sig men som eftersom han är fattig inte kan återlämna vad han tagit?
 
-**Svar:** [...] Han blir inte fri från ansvar genom att enbart ångra sig. Han måste återlämna vad han tagit från dem som han handlat felaktigt mot eller så måste han be om deras förlåtelse.
+**Svar:** […] Han blir inte fri från ansvar genom att enbart ångra sig. Han måste återlämna vad han tagit från dem som han handlat felaktigt mot eller så måste han be om deras förlåtelse.
 
 Ångrar sig någon uppriktigt inför Allāh den Allsmäktige och inte har möjlighet att betala igen för sitt felaktiga handlande (för att han är fattig), då förlåter Allāh honom och Han kommer på det sätt Han väljer göra de som han handlat felaktigt mot nöjda på Uppståndelsens dag. Detta gäller för någon som inte har möjlighet att reparera sina felaktigheter. Så fort man har möjlighet, måste man återgälda eller be om deras förlåtelse. Ens ånger kommer inte att vara fullständig förrän man följer vad som nämnts här ovan. Anledningen är att Allāh den Allsmäktige har sagt:
 

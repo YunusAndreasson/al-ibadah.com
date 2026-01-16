@@ -25,10 +25,10 @@ Qutādah's *tafsīr[^4]* kan tolkas som att enbart Allāh har kunskap om detta s
 
 > “Ingen vet vad Allāh vill skapa i moderns sköte utom Han, men när Han har bestämt om det ska vara en pojke eller flicka, en dömd eller en välsignad, då får änglarna som har ansvar för denne reda på det och den som Han vill i Hans skapelse.”
 
-/.../
+/…/
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^4]: Tolkning av Koranen efter givna principer.
 

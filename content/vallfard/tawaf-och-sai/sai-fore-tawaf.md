@@ -21,5 +21,5 @@ Detta bevisar att om någon utförde *sa’ī[^1]* först, då är det tillräck
 [^1]: Vandringen mellan as-Safa och al-Marwa.
 [^2]: Den sju långa rundar vandringen runt Kabah.
 [^3]: Den lilla vallfärden.
-[^4]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^4]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

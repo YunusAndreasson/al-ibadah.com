@@ -23,6 +23,6 @@ Autentiska *ahādīth[^2]* understryker att olydiga människor – som tror på 
 
 > ”Den som uppfyller sitt löfte, dennes belöning kommer att finnas hos Allāh. Men den som begår någon av dessa synder, och blir straffad [i denna värld], då kommer dennes straff att vara en gottgörelse. Medan den som begår några av dessa synder, och Allāh döljer dem åt denne, då kommer det att vara upp till Allāh; om Han vill, straffar Han denne och om Han vill, förlåter Han denne.” [*al-Bukhārī* 18, 3892, 3999 och 4894].
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
-[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

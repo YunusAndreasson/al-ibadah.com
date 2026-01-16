@@ -23,7 +23,7 @@ Detta beror även på vad som har bekräftats i autentiska *ahādīth[^1]* som p
 
 Allāh är Givaren av framgång.
 
-[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^3]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 

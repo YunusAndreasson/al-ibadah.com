@@ -21,7 +21,7 @@ description: 'Fråga: Under vilken tidsperiod kan man stryka över sockarna? Sva
 
 När fötterna reciteras som *arjulikum* betyder det att det efterföljer Hans ord: ”*Stryk med [de våta] händerna över huvudet*”. De inräknas då med vad som stryks över huvudet. Den recitation som används [i *mushaf*] *arjulakum* följer Hans ord: ” *då ansikte*”. De medräknas då med det som tvättas. Enligt de båda recitationerna så antingen tvättar eller stryker man över fötterna. profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* klargör när man tvättar dem och när man stryker över dem. De tvättas när de inte är täckta och de stryks över när de är täckta av lädersockar eller något liknande.
 
-Från profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* har det i stor utsträckning rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att han strök över lädersockarna och de lärde har ansett det vara mutawatir [...]
+Från profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* har det i stor utsträckning rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att han strök över lädersockarna och de lärde har ansett det vara mutawatir […]
 
 Att stryka över sockarna har rapporterats i *ahādīth[^2]* som är *mutawatir* från profeten. Att stryka över dem är att föredra över att ta av dem och tvätta fötterna, om man tog på dem när man var rituellt ren. Därför fick al-Mughirah bin Shu'bah höra följande när han ville ta av Allāhs sändebuds lädersockar inför tvagningen[^3]: ”Lämna *dem, för jag satte mina två [fötter] i dem medan de båda var rena*.” Och han strök över dem.
 
@@ -61,8 +61,8 @@ Tar man av dem så består renheten. Det är inte så att renheten upphävs geno
 
 Och Allāh är Beviljaren av framgång.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
-[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Wudū
 [^4]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^5]: Fajr

@@ -14,7 +14,7 @@ description: 'Fråga: Måste den som har förlorat medvetandet praktisera den is
 
 **Fråga:** Måste den som har förlorat medvetandet praktisera den islamiska lagens skyldigheter?
 
-**Svar:** Allāh den Upphöjde har gjort dyrkan till en skyldighet om man har ett sinne som man kan förstå saker genom. Den som inte har det är inte skyldig att praktisera den islamiska lagen. Därför behöver den störde inte praktisera den islamiska lagen. Detta gäller även den som inte är vuxen och den som inte har urskiljningsförmåga [...] Detta är en del av Allāhs nåd.
+**Svar:** Allāh den Upphöjde har gjort dyrkan till en skyldighet om man har ett sinne som man kan förstå saker genom. Den som inte har det är inte skyldig att praktisera den islamiska lagen. Därför behöver den störde inte praktisera den islamiska lagen. Detta gäller även den som inte är vuxen och den som inte har urskiljningsförmåga […] Detta är en del av Allāhs nåd.
 
 Samma gäller den mentalt sjuke vars sinne har rubbats [dock inte till den grad att denne är störd] och den äldre som har tappat minnet. Det är varken en skyldighet för denne att be eller att fasta när denne har tappat minnet och därmed är i samma tillstånd som ett barn som inte kan skilja på saker och ting. Skyldigheterna gäller inte då och det är inte nödvändigt att be dem.
 
@@ -22,7 +22,7 @@ Finansiella plikter är en skyldighet gällande dennes tillgångar även om denn
 
 > ”Tag då emot något av dem som offergåva [Muḥammad]; så renar du dem [från synd] och hjälper dem att växa [i rättfärdighet].” [Koranen 9:103]
 
-Han säger: ” *Tag då emot något av dem som offergåva*...” och Han säger inte: ”Ta från dem.” När profeten – över honom vare Allāhs frid och välsignelser – sände Mu'ath till Jemen sade han till honom:
+Han säger: ” *Tag då emot något av dem som offergåva*…” och Han säger inte: ”Ta från dem.” När profeten – över honom vare Allāhs frid och välsignelser – sände Mu'ath till Jemen sade han till honom:
 
 > ”Informera dem om att Allāh har gjort det till en skyldighet för dem att betala allmosa för deras tillgångar, för att tas från deras rika och ges till deras fattiga.”
 

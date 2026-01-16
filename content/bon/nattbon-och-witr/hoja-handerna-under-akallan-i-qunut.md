@@ -18,7 +18,7 @@ description: 'Fråga: Är det en del av profetens – över honom vare Allāhs f
 
 Att höja händerna när man gör *qunūt[^3]* under *witr[^4]* är en *sunnah[^1]* oavsett om det gäller imamen, de som leds i bön eller den som ber ensam. Höj då därför alltid dina händer när du gör *qunūt[^3]*.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^2]: Du´ā
 [^3]: En åkallan som kan läsas under den nattliga witr-bönen.
 [^4]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.

@@ -1,5 +1,5 @@
 ---
-title: Solen går ned väldigt sent
+title: Solen går ned mycket sent
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 258 s. ISBN saknas'

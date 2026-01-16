@@ -23,5 +23,5 @@ I detta fall måste han slutföra sin bön när resenären gör *taslīm[^5]* ef
 [^3]: Asr
 [^4]: Isha
 [^5]: Den avslutande hälsningen i bönen.
-[^6]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^6]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

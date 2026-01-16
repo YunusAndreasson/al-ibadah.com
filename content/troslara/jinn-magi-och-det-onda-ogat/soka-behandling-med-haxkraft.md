@@ -28,5 +28,5 @@ Den som påstår sig känna till det som är dolt för människor[^2] genom geom
 
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 [^2]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
-[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

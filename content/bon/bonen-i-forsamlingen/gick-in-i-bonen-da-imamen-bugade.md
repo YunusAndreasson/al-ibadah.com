@@ -16,7 +16,7 @@ description: 'Fråga: En troende kom för sent till bönen och fann att imamen b
 
 **Svar:** När tjänaren gör den första *takbīr[^1]* när han står upp, för att sedan buga när imamen bugar, då får han denna bönecykel. Detta enligt en *hadīth[^4]* från Abū Bakrah. Han kom till profeten – över honom vare Allāhs frid och välsignelser – medan han bugade och han bugade tillsammans med honom innan han nådde raden. Senare sade profeten – över honom vare Allāhs frid och välsignelser – till honom: ”*Må Allāh göra dig mer aktsam men gör inte om det*.” [*al-Bukhārī* 783]
 
-Och Abū Dawūd har lagt till: ”... *och han bugade utanför raden, för att sedan gå in i den*.” [*Abū Dawūd* 584] Det finns även en återberättelse från Abū Dawūd i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Den som har hunnit med bugningen, har hunnit med bönecykeln[^2]*.” [*Abū Dawūd* 893]
+Och Abū Dawūd har lagt till: ”… *och han bugade utanför raden, för att sedan gå in i den*.” [*Abū Dawūd* 584] Det finns även en återberättelse från Abū Dawūd i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Den som har hunnit med bugningen, har hunnit med bönecykeln[^2]*.” [*Abū Dawūd* 893]
 
 Må frid och välsignelser vara över Muḥammad, hans familj och följeslagare.
 

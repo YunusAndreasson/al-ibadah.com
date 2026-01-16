@@ -37,7 +37,7 @@ Och Allāh är Beviljaren av framgång.
 [^2]: Den avslutande hälsningen i bönen.
 [^3]: Att upphöja Allāh, Subhan Allāh.
 [^4]: Att säga Allahu Akbar.
-[^5]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^5]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^6]: Fajr
 [^7]: Dhuhr
 [^8]: Asr

@@ -22,5 +22,5 @@ description: 'Fråga. I korta drag – hur gör man för att söka kunskap? Må 
 5. Försök att förstå de grundläggande delarna först, deras regler och begränsningar. Detta har uttrycksfullt förklarats på följande sätt: ”*Den som inte tar sig tid att lära grunderna, har hindrat sig själv från att nå fram till slutsatsen [eller målet]*.”
 6. Diskutera de frågor som uppkommer med din shaykh eller någon annan som är känd för sin kunskap och praktiserar religionen på ett korrekt sätt.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

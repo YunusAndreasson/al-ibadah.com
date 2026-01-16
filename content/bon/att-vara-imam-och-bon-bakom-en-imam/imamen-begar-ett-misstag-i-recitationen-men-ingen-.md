@@ -22,5 +22,5 @@ Allāh är Beviljaren av framgång.
 
 [^1]: Att säga Allahu Akbar.
 [^2]: Rakah.
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

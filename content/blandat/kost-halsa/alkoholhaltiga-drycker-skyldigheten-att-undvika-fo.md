@@ -26,5 +26,5 @@ Muslimer måste hålla sig långt borta från det och varken sälja, köpa, frak
 
 Beträffande frågeställaren som drack alkohol för sista gången, som han säger, när han var på väg till vallfärden – om han ångrar sig och är uppriktigt kommer Allāh den Högste att vända sig till honom i förlåtelse och acceptera hans ånger oberoende av hur stor hans synd är.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

@@ -54,7 +54,7 @@ Det viktiga är att alla hjärtan är i harmoni och att man talar med en röst. 
 
 Därför måste vi utmärka oss med detta, den räddade gruppens karaktärsdrag, som är att man talar med en röst.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^2]: Tron på att det bara finns en Gud.
 [^3]: Den ansträngning en islamskt lärd gör för att lägga fram ett utlåtande som inte är uppenbart.
 [^4]: Wudū

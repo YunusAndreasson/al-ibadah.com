@@ -30,6 +30,6 @@ Det är skillnad mellan den kvinna som lämnar sitt hem för att besöka gravar 
 
 Den första som gick ut från sitt hem för att besöka gravarna har gjort något otillåtet och utsatt sig själv för Allāhs den Allsmäktiges förbannelse medan den andra inte har syndat.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^2]: Du´ā
 

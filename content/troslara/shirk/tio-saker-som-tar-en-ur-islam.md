@@ -33,7 +33,7 @@ Säga att det i dag inte är lämpligt att använda de straff som har Allāh ang
 9. Tro att det för somliga är tillåtet att avvika ifrån den islamiska lagen. Allāh, den Högste, säger: ”Om någon vill anta en religion som inte innebär underkastelse under Guds vilja kommer detta att vägras honom, och i nästa liv ska han stå bland förlorarna.” [Koranen 3:85]
 10. Vända sig bort ifrån Allāhs religion och varken lära sig den eller handla enligt den. Allāh den Högste säger: ”Och vem är mer orättfärdig än den som, när han blir påmind om sin Herres budskap, vänder dem ryggen? [Sådana] syndare ska Vi sannerligen låta känna på Vårt straff.” [Koranen 32:22]
 
-/.../
+/…/
 
 Det är ingen skillnad om dessa snedsteg utförs skämtsamt, på fullaste allvar eller på grund av rädsla – utom om den troende tvingas till det [om han fruktar sitt liv].
 

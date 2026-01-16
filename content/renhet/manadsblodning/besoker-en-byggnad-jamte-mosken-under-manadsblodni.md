@@ -16,7 +16,7 @@ description: 'Fråga: I USA finns det en moské med tre våningar. Den översta 
 
 **Svar:** Om byggnaden som du nämner anses vara en moské och de övre nedre våningarna hör imamens röst, då kommer bönen att accepteras och med månadsblödning skulle då inte få sitta på golvet vid den plats som anses vara en böneplats för kvinnor. Anledningen är att det är en del av moskén och profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Jag tillåter inte att en kvinna med månadsblödning att eller någon som är i den stora rituella orenheten går in i moskén*.” [*Abū Dawūd* 232]
 
-Går hon genom moskén för att hämta något, och hon är försiktig så att det inte droppar något blod, då har hon inte syndat med anledning av det. Detta grundas på profetens – över honom vare Allāhs frid och välsignelser – ord: ”... *eller den som är i den stora rituella orenheten, utom den som passerar genom*.”
+Går hon genom moskén för att hämta något, och hon är försiktig så att det inte droppar något blod, då har hon inte syndat med anledning av det. Detta grundas på profetens – över honom vare Allāhs frid och välsignelser – ord: ”… *eller den som är i den stora rituella orenheten, utom den som passerar genom*.”
 
 Det finns en autentisk *hadīth[^1]* från profeten – över honom vare Allāhs frid och välsignelser – där han beordrar ‘A’ishah – må Allāh vara nöjd med henne – att hämta en bönematta som fanns i moskén. Hon berättar då för honom att hon har sin månadsblödning, men han säger: ”*Blödningen finns inte i dina händer*.” [*Muslim* 298 och *Ahmad* 2:86, 6:45]
 

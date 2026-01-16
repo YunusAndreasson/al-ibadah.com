@@ -26,6 +26,6 @@ Och Allāh är Beviljaren av framgång.
 [^2]: Den sju långa rundar vandringen runt Kabah.
 [^3]: Fajr
 [^4]: Tahiyyatul-Msjid.
-[^5]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^5]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^6]: Rakah.
 

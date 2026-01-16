@@ -21,7 +21,7 @@ profetens – över honom vare Allāhs frid och välsignelser – autentiska *su
 Må frid och välsignelser vara över profeten Muḥammad, hans familj och följeslagare.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^3]: Den ansträngning en islamskt lärd gör för att lägga fram ett utlåtande som inte är uppenbart.
 [^4]: Någon som utöver ijtihad.
 [^5]: Att säga Allahu Akbar.

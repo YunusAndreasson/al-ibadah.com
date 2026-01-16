@@ -18,10 +18,10 @@ description: 'Fråga: Vilket är utlåtandet om att upprepa samma sura i bönen?
 
 **Svar:** Det finns ingen invändan mot att upprepa samma sura inom en bönecykel[^3] men det motsäger sig vad som är passande. Det är bättre att recitera en annan sura, oavsett om det är i samma bönecykel[^3] eller i två olika bönecykler[^3]. Från profetens – över honom vare Allāhs frid och välsignelser – tid till idag har det varit sed att recitera en sura i en bönecykel[^3] eller ett antal verser, sedan i följande bönecykel[^3] en annan sura eller vers. Det finns ingen invändan mot att upprepa dem. Detta baseras på den generella innebörden av Allāhs ord: ”*Läs således ur Koranen vad ni med lätthet kan läsa*.” [Koranen 73:20]
 
-Beträffande bugningar och nedfallanden så får Allāhs tjänare förlänga dem enligt dennes iver, även om det är väldigt mycket. Men för imamen är det minst perfekta att säga: ”*Subhana Rabbial-A’la*” tre gånger och det mest perfekta för honom är att säga det tio gånger. Den som ber bakom imamen bör glorifiera Allāh så länge imamen är kvar i bugningen[^2] eller nedfallandet[^1]. Det är tillåtet att göra somliga bönecykler[^3] längre än andra, men *sunnah[^4]* är att recitationen i den första är längre än i den andra. I bugningen[^2] och nedfallandet[^1] ska bönens pelare vara lika långa.
+Beträffande bugningar och nedfallanden så får Allāhs tjänare förlänga dem enligt dennes iver, även om det är mycket mycket. Men för imamen är det minst perfekta att säga: ”*Subhana Rabbial-A’la*” tre gånger och det mest perfekta för honom är att säga det tio gånger. Den som ber bakom imamen bör glorifiera Allāh så länge imamen är kvar i bugningen[^2] eller nedfallandet[^1]. Det är tillåtet att göra somliga bönecykler[^3] längre än andra, men *sunnah[^4]* är att recitationen i den första är längre än i den andra. I bugningen[^2] och nedfallandet[^1] ska bönens pelare vara lika långa.
 
 [^1]: sujūd, nedfallandet när pannan läggs mot marken.
 [^2]: Ruku, bugningen när ryggen hålls parallell med marken.
 [^3]: Rakah.
-[^4]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^4]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

@@ -42,5 +42,5 @@ Insisterar han på att offra till och åkalla *jinn[^1]* när han behöver någo
 [^3]: Mushrik.
 [^4]: Tron på att det bara finns en Gud.
 [^5]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
-[^6]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^6]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

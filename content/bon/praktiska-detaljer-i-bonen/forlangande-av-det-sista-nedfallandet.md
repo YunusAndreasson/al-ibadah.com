@@ -20,6 +20,6 @@ Att ändra röstens tonläge när man säger *takbīr[^4]* inför en sittning ä
 
 [^1]: sujūd, nedfallandet när pannan läggs mot marken.
 [^2]: Vad man läser i den sittande positionen under bönen.
-[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^4]: Att säga Allahu Akbar.
 

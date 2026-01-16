@@ -27,6 +27,6 @@ Det andra problemet med att lära sig ifrån böcker är att kunskapen ofta blir
 
 Studenten bör prioritera att läsa böcker som summerar kunskapsområden innan denne studerar det på djupet. På detta vis kan utvecklingen att ske stegvis. Denne bör inte fortsätta till nästa nivå förrän denne verkligen har förstått nivån som denne för tillfället befinner sig på. På detta sätt kommer utvecklingen att ske på rätt sätt.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

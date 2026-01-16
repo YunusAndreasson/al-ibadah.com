@@ -28,5 +28,5 @@ Och han har sagt: ”*Islam är byggt på fem [pelare]: vittna om att ingen är 
 De verser och *ahādīth[^2]* som poängterar vikten av bönen, skyldigheten att be den och plikten att upprätthålla den är många.
 
 [^1]: Kämpa för Allāhs sak.
-[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

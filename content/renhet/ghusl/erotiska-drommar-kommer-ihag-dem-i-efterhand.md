@@ -18,7 +18,7 @@ description: 'Fråga: Ibland kommer jag ihåg erotiska drömmar när jag vaknar,
 
 Innebörden är att *ghusl[^1]*-vatten krävs för att rena spermavätskan. Enligt de lärde avser denna *hadīth[^2]* fall där någon har haft en våt dröm.
 
-Men om han har intim samvaro med sin fru, då måste han göra *ghusl[^1]* även om han inte får utlösning. Detta enligt en *hadīth[^2]* där profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Om en mans könsdelar har kontakt med en kvinnas könsdelar så krävs ghusl[^1]*.” [*Muslim* 349] Och han har även sagt: ”*Om han sitter mellan hennes fyra lemmar och kämpar med henne, då måste han utföra ghusl[^1]*.” [*al-Bukhārī* 291 och *Muslim* 348] I Muslims version är ordalydelsen: ”... *även om han inte fick utlösning*.”
+Men om han har intim samvaro med sin fru, då måste han göra *ghusl[^1]* även om han inte får utlösning. Detta enligt en *hadīth[^2]* där profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Om en mans könsdelar har kontakt med en kvinnas könsdelar så krävs ghusl[^1]*.” [*Muslim* 349] Och han har även sagt: ”*Om han sitter mellan hennes fyra lemmar och kämpar med henne, då måste han utföra ghusl[^1]*.” [*al-Bukhārī* 291 och *Muslim* 348] I Muslims version är ordalydelsen: ”… *även om han inte fick utlösning*.”
 
 I *Sahīh al-Bukhārī* och *Sahīh Muslim* berättar Anas att Umm Sulaim [Anas moder] har sagt: ”*Allāhs sändebud! Allāh skäms inte för sanningen, så säg mig, behöver en kvinna göra *ghusl[^1]* om hon har en våt dröm?” profeten – över honom vare Allāhs frid och välsignelser – sade: ”Ja, om hon ser vätska*.” [*al-Bukhārī* 282 och *Muslim* 313]
 

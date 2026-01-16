@@ -25,7 +25,7 @@ Kvinnan syndar inte om hon bär läder- eller tygsockar, hon är ju *‘awrah[^4
 En ansiktsslöja är något som har gjorts för ansiktet, precis som en *burqa'*. Kvinnan bär den inte under *ihrām[^1]*. Hon måste dock täcka ansiktet med något annan än en ansiktsslöja när män som hon inte är släkt med är närvarande. Anledningen är att hennes ansikte är*‘awrah[^4]*. Är hon långt bort från män, då får hon visa ansiktet. Hon får inte bära en ansiktsslöja över ansiktet, ej heller en *burqa'*. Hon får heller inte bära handskar, och de är två saker som gjorts för att täcka händerna. Kvinnan får inte bära dem under *ihrām[^1]* men hon får täcka händerna med något annat.
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^3]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
 [^4]: De delar av kroppen som måste täckas.
 

@@ -37,6 +37,6 @@ Den som gör en handling till en orsak till att uppnå något annat, utan ett go
 
 [^1]: Något som reciteras för att bota sjukdomar.
 [^2]: Du´ā
-[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^4]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

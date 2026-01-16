@@ -23,7 +23,7 @@ De *ahādīth[^5]* som förbjuder bön vid soluppgång, solnedgång, när solen 
 [^2]: Asr
 [^3]: Fajr
 [^4]: Rakah.
-[^5]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^5]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^6]: Maghrib
 [^7]: Den sju långa rundar vandringen runt Kabah.
 

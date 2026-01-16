@@ -20,7 +20,7 @@ description: 'Fråga: Somliga har för vana att svära vid profeten – över ho
 
 I en annan *hadīth[^2]* säger han:
 
-> ”... denne bör inte svära utom vid Allāh, eller så bör denne vara tyst.” [*at-Tirmithi* 1534 och *Abū Dawūd* 3251]
+> ”… denne bör inte svära utom vid Allāh, eller så bör denne vara tyst.” [*at-Tirmithi* 1534 och *Abū Dawūd* 3251]
 
 Abū Dawūd och at-Tirmithi återger med en autentisk kedja att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 

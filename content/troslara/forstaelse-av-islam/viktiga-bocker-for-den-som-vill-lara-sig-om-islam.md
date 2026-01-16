@@ -74,7 +74,7 @@ Allmänna böcker
 
 [^1]: Tron på att det bara finns en Gud.
 [^2]: De tre första generationerna i islam.
-[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^4]: Rättslära.
 [^5]: Tolkning av Koranen efter givna principer.
 

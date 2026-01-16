@@ -82,6 +82,6 @@ Blir metoderna för att göra något otillåtet åtkomliga måste man frukta All
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 [^3]: Du´ā
-[^4]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^4]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^5]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 

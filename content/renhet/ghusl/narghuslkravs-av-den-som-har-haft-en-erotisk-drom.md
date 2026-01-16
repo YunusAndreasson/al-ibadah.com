@@ -18,7 +18,7 @@ description: 'Fråga: En person tror att det som nödvändiggör ghusl för den 
 
 Enligt en *hadīth[^2]* från Umm Salamah i *Sahīh al-Bukhārī* och *Sahīh Muslim* sägs det att Umm Sulaim sade: ”*Allāhs sändebud! Allāh skäms inte för sanningen, så säg mig, behöver en kvinna göra *ghusl[^1]* om hon har en erotisk dröm?*” Profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Ja, om hon ser vätska*.” [*al-Bukhārī* 282 och *Muslim* 313]
 
-Skyldigheten att utföra *ghusl[^1]* är inte begränsad till intim samvaro utan det krävs även med anledning av ejakulering utan intim samvaro. Detta grundas på den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Om du ejakulerar vatten [sperma], gör då ghusl[^1]*...” [*Abū Dawūd* 206, *an-Nasā’i* 193 och *Ahmad* 1:109, 125]
+Skyldigheten att utföra *ghusl[^1]* är inte begränsad till intim samvaro utan det krävs även med anledning av ejakulering utan intim samvaro. Detta grundas på den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Om du ejakulerar vatten [sperma], gör då ghusl[^1]*…” [*Abū Dawūd* 206, *an-Nasā’i* 193 och *Ahmad* 1:109, 125]
 
 Rör könsdelarna varandra under vaket tillstånd, då krävs alltid *ghusl[^1]*. Det spelar ingen roll om ejakulering sker eller inte.
 

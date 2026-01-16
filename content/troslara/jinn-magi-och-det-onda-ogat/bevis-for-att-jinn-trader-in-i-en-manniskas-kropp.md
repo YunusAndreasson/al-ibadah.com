@@ -27,6 +27,6 @@ I ett antal *ahādīth[^3]* från Allāhs sändebud – över honom vare Guds fr
 Här har vi nämnt ett bevis från Koranen och två från profetens – över honom vare Guds frid och välsignelser – *sunnah[^2]*. Vad människor ständigt bevittnar är verkliga bevis, för att inte nämna att detta är åsikten hos *ahl as-sunnah[^2] wal-jama'ah*. Men vi förnekar inte att somliga är galna på grund av några andra defekter i deras sinnen.
 
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
-[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
-[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
+[^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

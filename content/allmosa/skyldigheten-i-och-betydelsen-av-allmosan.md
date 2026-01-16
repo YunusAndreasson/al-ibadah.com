@@ -74,7 +74,7 @@ De papperspengar som man handlar med i dag har samma utlåtande som guld och sil
 
 Sådana smycken som kvinnor bär och som har gjorts speciellt av guld och silver inkluderas bland pengarna. Om de uppnår den lägsta nivån och de har varit i en någons ägo under ett år, då måste man betala allmosa för dem. Enligt den korrekta åsikten av de två åsikter som de lärde har spelar det ingen roll om de används för personligt bruk eller om de har lånats. Anledningen återfinner vi i den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – uttalande:
 
-> ”Det finns ingen som äger guld eller silver och som inte betalar för dessa utan att eldplattor kommer att tillverkas för denne på Återuppståndelsens dag...” [Muslim 987]
+> ”Det finns ingen som äger guld eller silver och som inte betalar för dessa utan att eldplattor kommer att tillverkas för denne på Återuppståndelsens dag…” [Muslim 987]
 
 Till slutet av denna *hadīth[^2]* som vi redan har visat. Detta beror också på vad man har bekräftat från profeten, att han såg två guldarmband på en kvinnas hand och sade: ”*Betalar du allmosa för dessa?*” Kvinnan svarade: ”*Nej*.” Så han sade: ”*Nöjer det dig att Allāh kommer att göra dem till två armband av eld till dig på Återuppståndelsens dag?*” Så hon slet av dem och sade: ”*De är för Allāh och Hans sändebud*.” [*Abū Dawūd* 1563] Abū Dawūd och an-Nasā’i har återgivit denna *hadīth[^2]* med en god berättarkedja. Man har bekräftat att Umm Salamah bar armringar gjorda av guld så hon sade: ”*Allāhs sändebud! Är detta den giriges skatt [kanz]?*” Han svarade då: ”*Den mängd som når nivån för allmosa betalas allmosa för, då är det inte den giriges skatt [kanz]*.” [*Abū Dawūd* 1564]
 

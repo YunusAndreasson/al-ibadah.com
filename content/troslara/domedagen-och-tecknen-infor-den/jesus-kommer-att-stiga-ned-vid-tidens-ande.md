@@ -27,7 +27,7 @@ Denna tolkning är den självklara, orden visar ju tydligt judarnas åsikt i fr�
 
 Enligt ordens uttydelse är det Jesus och då båda pronomen måste förstås som att de avser samma person. I flera autentiska *ahādīth[^1]* från många olika källor bekräftas att Allāh den Upphöjde har tagit upp Jesus till himlen och att han kommer att stiga ned vid tidens ände och döma rättvist samt att han kommer döda den falske Messias.
 
-När shaykh ul-islām Ibn Taymiyyah hade nämnt *ahādīth[^1]* från flera källor om att Jesus kommer att stiga ned vid tidens ände sade han: ”Dessa *ahādīth[^1]* är mutawatir från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – berättade av Abū Hurairah, Ibn Mas'ūd, ‘Uthmān bin Abi al-'As, Abū Umamah, an-Nawas bin Sam'an, ´Abdullāh bin 'Amr Ibn al-'As och Huthaifah bin Usayd – och i dem finns bevis för beskrivningen av hans nedstigning och dess plats...”
+När shaykh ul-islām Ibn Taymiyyah hade nämnt *ahādīth[^1]* från flera källor om att Jesus kommer att stiga ned vid tidens ände sade han: ”Dessa *ahādīth[^1]* är mutawatir från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – berättade av Abū Hurairah, Ibn Mas'ūd, ‘Uthmān bin Abi al-'As, Abū Umamah, an-Nawas bin Sam'an, ´Abdullāh bin 'Amr Ibn al-'As och Huthaifah bin Usayd – och i dem finns bevis för beskrivningen av hans nedstigning och dess plats…”
 
 Bland dessa *ahādīth[^1]* finns den från Abū Hurairah där han rapporterar att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
@@ -49,5 +49,5 @@ Dessa *ahādīth[^1]* visar att han kommer att stiga ned vid tidens ände och at
 
 Det finns ingen motsägelse mellan hans nedstigande och att vår profet Muḥammad är den siste profeten. Jesus kommer ju inte att ha med sig någon ny lag och domen tillhör Allāh, från början till slut. Allāh gör vad Han vill och Han dömer som Han vill och det går inte att överklaga Hans dom. Han är den Allsmäktige, den Vise.
 
-[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

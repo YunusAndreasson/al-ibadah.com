@@ -17,7 +17,7 @@ description: 'Fråga: Är det tillåtet att gå med i frimurarsekten? Svar: Frim
 
 **Svar:** Frimurarrörelsen är ett hemligt sällskap som under vissa tidpunkter döljer sin organisation och vid andra tidpunkter uppenbarar den, enligt de tillstånd som råder på en viss plats under en viss tidpunkt. Men de sanna principerna som denna organisation bygger på är dolda, även för deras medlemmar. Det finns endast ett fåtal utvalda som efter en lång tid når den högsta nivån.
 
-Rörelsen bygger relationer mellan dess medlemmar i alla världens hörn, baserat på en ytlig organisation med syfte att lura godtrogna människor. Det finns ett broderskap mellan organisationens medlemmar, ett broderskap som inte gör någon distinktion mellan trosprinciper eller ideologier.
+Rörelsen bygger relationer mellan dess medlemmar i alla världens hörn, grundat på en ytlig organisation med syfte att lura godtrogna människor. Det finns ett broderskap mellan organisationens medlemmar, ett broderskap som inte gör någon distinktion mellan trosprinciper eller ideologier.
 
 Organisationen attraherar människor som är viktiga för den, genom att fresta dem med löften och personliga vinningar. Varje frimurarbror är bunden till att hjälpa andra bröder i alla världens hörn för att hjälpa honom att uppnå sina mål, lösa sina problem och uppnå eventuella politiska ambitioner.
 

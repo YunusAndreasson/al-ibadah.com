@@ -54,7 +54,7 @@ Vi ber Allāh att Han vägleder oss och dem.
 [^3]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 [^4]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 [^5]: Mushrik.
-[^6]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^6]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^7]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^8]: Profetens – över honom vare Allāhs frid och välsignelser – stam.
 

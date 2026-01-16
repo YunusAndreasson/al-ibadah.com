@@ -20,7 +20,7 @@ När den som gör *iqāmah[^1]* säger: ”*Hayya 'alas-salāh, hayya 'alal-fala
 
 Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om du hör böneutroparen, säg vad han säger*.” [*al-Bukhārī* 611 och *Muslim* 383]
 
-Detta gäller både böneutropet och *iqāmah[^1]*. De kallas ju båda för ”böneutrop”. Sedan sänder man böner över profeten – över honom vare Allāhs frid och välsignelser – när den som läser *iqāmah[^1]* säger: ”*Lā ilaha illallāh*” [ingen är värd att dyrka utom Allāh], genom att säga: ”*Allāhumma Rabba hathihid-da'watit-tammah, was-salatil-qa'imah*...” etcetera. [*al-Bukhārī* 614 och 4719]
+Detta gäller både böneutropet och *iqāmah[^1]*. De kallas ju båda för ”böneutrop”. Sedan sänder man böner över profeten – över honom vare Allāhs frid och välsignelser – när den som läser *iqāmah[^1]* säger: ”*Lā ilaha illallāh*” [ingen är värd att dyrka utom Allāh], genom att säga: ”*Allāhumma Rabba hathihid-da'watit-tammah, was-salatil-qa'imah*…” etcetera. [*al-Bukhārī* 614 och 4719]
 
 Utöver det som vi har nämnt känner vi inte till något autentiskt bevis som påvisar att man bör säga någon åkallan[^2] mellan slutet av *iqāmah[^1]* och den första *takbīr[^5]* i bönen.
 
@@ -28,7 +28,7 @@ Genom Allāh uppnås framgång och må frid och välsignelser vara över vår pr
 
 [^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 [^2]: Du´ā
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^5]: Att säga Allahu Akbar.
 

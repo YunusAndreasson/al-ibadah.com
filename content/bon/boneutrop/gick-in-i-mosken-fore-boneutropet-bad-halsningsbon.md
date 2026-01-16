@@ -20,6 +20,6 @@ description: 'Fråga: Om någon gick in i moskén före böneutropet och bad hä
 [^1]: Tahiyyatul-Msjid.
 [^2]: Fajr
 [^3]: Dhuhr
-[^4]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^4]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^5]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 

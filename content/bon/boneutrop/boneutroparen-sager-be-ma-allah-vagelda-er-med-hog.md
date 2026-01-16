@@ -28,6 +28,6 @@ Därmed är svaret på den ovan nämnda frågan tydligt. Det är att det är nö
 Och Allāh vet bäst.
 
 [^1]: Du´ā
-[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^3]: De tre första generationerna i islam.
 

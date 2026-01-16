@@ -20,5 +20,5 @@ description: 'Fråga: Det finns en kvinna som har lite guld som når nivån då 
 Och Allāh är Givaren av framgång.
 
 [^1]: En vikt likvärdig med ungefär 4.5g.
-[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

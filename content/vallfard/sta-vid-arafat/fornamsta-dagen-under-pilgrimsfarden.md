@@ -24,7 +24,7 @@ Offerdagen kallas för den största dagen under pilgrimsfärden. På kvällen st
 
 Och Allāh är källan till styrka.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^2]: Mushrik.
 [^3]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
 [^4]: Den sju långa rundar vandringen runt Kabah.

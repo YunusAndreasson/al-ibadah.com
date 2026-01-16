@@ -22,5 +22,5 @@ description: 'Fråga: Jag besökte Mecka al-Mukarramah under ramadan. Detta med 
 [^2]: Den lilla vallfärden.
 [^3]: Den sju långa rundar vandringen runt Kabah.
 [^4]: Vandringen mellan as-Safa och al-Marwa.
-[^5]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^5]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

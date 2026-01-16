@@ -19,7 +19,7 @@ description: 'Fråga: Låt oss anta att jag vaknar precis innan soluppgången oc
 
 Det är välkänt att det inte finns någon bön utan rening. Profeten – över honom vare Allāhs frid och välsignelser – har ju sagt: ”*Bön utan tvagning[^4] accepteras inte*.” [*Muslim* 224]
 
-Den som har tillgång till vatten måste rengöra sig med det, men om han inte hittar något, då får han be med *tayammum[^2]*. Detta baserat på vad Allāh har sagt: ”... *och inte kan finna rent vatten, ska ta ren jord och stryka över ansiktet och händer*.” [Koranen 5:6] Denna vers kommer från sura al-Ma´īdah.
+Den som har tillgång till vatten måste rengöra sig med det, men om han inte hittar något, då får han be med *tayammum[^2]*. Detta grundat på vad Allāh har sagt: ”… *och inte kan finna rent vatten, ska ta ren jord och stryka över ansiktet och händer*.” [Koranen 5:6] Denna vers kommer från sura al-Ma´īdah.
 
 Du måste vara mycket noga med dina böner. Ställ en väckarklocka vid ditt huvud eller be en familjemedlem väcka dig då det är dags för bön. Detta beror på att du ska utföra den obligatoriska bönen som Allāh har ålagt dig tillsammans med dina bröder i tron och för att du ska vara säker på att inte behöva jämföras med hycklare som försenar sina böner samt ber dem i lathet.
 

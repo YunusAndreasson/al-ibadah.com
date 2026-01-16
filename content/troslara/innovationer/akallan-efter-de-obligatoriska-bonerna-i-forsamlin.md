@@ -26,7 +26,7 @@ I ljuset av detta kan vi lära oss något om hans vägledning: ”*När han gjor
 
 Det sades till al-Awza'i: ”*Hur ber man om förlåtelse?*” Han svarade: '*Astagfirullāh, Astagfirullāh*.”
 
-Detta är hadithen från Muslim, at-Tirmithi och an-Nasā’i utom att an-Nasā’i sade: ”*Efter att ha avslutat bönen brukade Allāhs sändebud*...” [*an-Nasā’i* 1338] Sedan berättade han denna *hadīth[^4]*. I hadithen från Abū Dawūd sägs det att när Allāhs sändebud hade avslutat bönen brukade han säga ”*astagfirullāh*” tre gånger och sedan säga: ”*Allāhumma, Antas-Salam*.” [*Abū Dawūd* 1513]
+Detta är hadithen från Muslim, at-Tirmithi och an-Nasā’i utom att an-Nasā’i sade: ”*Efter att ha avslutat bönen brukade Allāhs sändebud*…” [*an-Nasā’i* 1338] Sedan berättade han denna *hadīth[^4]*. I hadithen från Abū Dawūd sägs det att när Allāhs sändebud hade avslutat bönen brukade han säga ”*astagfirullāh*” tre gånger och sedan säga: ”*Allāhumma, Antas-Salam*.” [*Abū Dawūd* 1513]
 
 I hadithen från Abū Dawūd och an-Nasā’i berättar ‘A’ishah att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – när han hade gjort *taslīm[^3]* brukade säga: ”*Allāhumma, Antas-Salamu wa minkas-salamu, tabarakta ya Thal-Jalali wal-Ikram*.” [*Abū Dawūd* 1512 och *an-Nasā’i* 1339]
 
@@ -40,7 +40,7 @@ Den som vill ha mer information om åkallan[^2] bör läsa böcker som *Jami'ul-
 
 Må frid och välsignelser vara över vår profet Muḥammad, hans familj och följeslagare.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^2]: Du´ā
 [^3]: Den avslutande hälsningen i bönen.
 [^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

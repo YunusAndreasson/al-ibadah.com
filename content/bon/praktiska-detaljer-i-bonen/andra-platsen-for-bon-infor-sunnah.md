@@ -18,6 +18,6 @@ description: 'Fråga: Har bevis rapporterats för att man ska byta plats mellan 
 
 Från detta har de lärde förstått att ett mellanrum måste göras mellan den obligatoriska bönen och *sunnah[^1]*-bönen, antingen genom att man talar eller byter plats.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

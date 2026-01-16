@@ -15,7 +15,7 @@ description: 'Fråga: Vilket är utlåtandet om att svära vid profeten, Ka’ba
 
 **Svar:** Det är inte tillåtet att svära vid profeten – över honom vare Allāhs frid och välsignelser – sannerligen är det en sorts *shirk[^1]*. Att svära vid Ka’bah är heller inte tillåtet och även det är en sorts *shirk[^1]*. Detta beror på att både profeten – över honom vare Allāhs frid och välsignelser – och Ka’bah är skapade och att svära vid något skapat är en sorts *shirk[^1]*.
 
-Svär man vid adlighet eller ett avtal är det heller inte tillåtet: ”*Den som svor vid något annat än Allāh har handlat med otro eller shirk[^1]*.” [*at-Tirmithi* 1535] Han har även sagt: ”*Svär inte vid era färder. Den som svär, låt denne svära vid Allāh eller vara tyst*.” [*al-Bukhārī* 6108 och *Muslim* 1646] [...]
+Svär man vid adlighet eller ett avtal är det heller inte tillåtet: ”*Den som svor vid något annat än Allāh har handlat med otro eller shirk[^1]*.” [*at-Tirmithi* 1535] Han har även sagt: ”*Svär inte vid era färder. Den som svär, låt denne svära vid Allāh eller vara tyst*.” [*al-Bukhārī* 6108 och *Muslim* 1646] […]
 
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

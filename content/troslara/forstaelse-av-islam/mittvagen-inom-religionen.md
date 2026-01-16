@@ -44,5 +44,5 @@ Ett tredje exempel rör en man som slavar under sin fru. Hon talar till sin man 
 
 Den sistnämnde är balanserad medan den förste är extrem i behandlandet av frun och den andre är otillräcklig. Du bör basera alla dyrkan på detta exempel.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

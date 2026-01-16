@@ -21,7 +21,7 @@ Den korrekta åsikten om det böneutrop som ropas ut i slutet av natten är att 
 På detta sätt är det klart att det görs inför *sahūr* för att väcka de som sover och för att den som står i bön ska kunna återvända, i vetskap om att tiden för *sahūr* är nära och att han måste avsluta sin bön. Här finns inget behov av att nämna att bön är bättre än sömn.
 
 [^1]: Fajr
-[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 [^4]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

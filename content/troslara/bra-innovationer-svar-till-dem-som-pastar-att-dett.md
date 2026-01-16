@@ -11,7 +11,7 @@ description: 'Fråga: Hur svarar vi de innovatörer som för att bevisa deras in
  svarar dem genom att sä...'
 ---
 
-**Fråga:** Hur svarar vi de innovatörer som för att bevisa deras innovationer citerar följande bevis: ”*Den som inför en bra *sunnah[^1]* i islam*...” [*Muslim* 1017]?
+**Fråga:** Hur svarar vi de innovatörer som för att bevisa deras innovationer citerar följande bevis: ”*Den som inför en bra *sunnah[^1]* i islam*…” [*Muslim* 1017]?
 
 **Svar:** Vi svarar dem genom att säga att den som sade: ”*Den som inför en bra *sunnah[^1]* i islam, denne kommer att få belöningen för den och belöningen för dem som handlar enligt den*.” Är densamma som har sagt: ”*Ni måste hålla er till min *sunnah[^1]* och de korrekt vägledda kaliferna som följer mig. Var uppmärksamma på nypåfunna frågor för sannerligen är varje nypåfunnen fråga en innovation och varje innovation är villfarelse och var villfarelse är i Elden*.” [*Abū Dawūd* 4607] Enligt denna *hadīth[^2]* ska orden: ”*Den som inför en bra *sunnah[^1]* i islam*…” förstås i ljuset av denna *hadīth[^2]*.
 
@@ -23,6 +23,6 @@ Likaså kan förståelsen av ”Den som inför en bra *sunnah[^1]*…” vara de
 
 Skulle innebörden av denna *hadīth[^2]* vara att det är tillåtet att föreskriva precis vad man vill, då hade islam varit ofullständig under profetens – över honom vare Allāhs frid och välsignelser – liv. Varje samhälle skulle ha sin egen lag och sitt eget sätt. Tror den som för in något [i religionen] att det är bra, då är dennes tro felaktig då den motsätter sig profeten – över honom vare Allāhs frid och välsignelser – ord: ”*Allt som förs in [i religionen] är villfarelse*.”
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

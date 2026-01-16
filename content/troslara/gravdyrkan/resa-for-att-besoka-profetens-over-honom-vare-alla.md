@@ -26,5 +26,5 @@ När följeslagarna besökte gravar brukade han lära dem att säga:
 
 > ”Må Allāhs frid vara över er, människor i gravarna från de troende och Muslimerna. Och vi ska följa er, om Allāh vill. Vi ber Allāh om välbefinnande för oss och för er.” [*Muslim* 975]
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

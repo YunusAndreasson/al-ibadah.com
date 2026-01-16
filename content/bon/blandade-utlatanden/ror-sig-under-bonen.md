@@ -30,7 +30,7 @@ Beviset för att små rörelser, eller upprepade rörelser som inte är i en fö
 
 I en *hadīth[^4]* från Abū Qatādah bevisas att profeten – över honom vare Allāhs frid och välsignelser – ledde folket i bön en dag när han bar Umāmah, Zaynabs dotter. När han nedföll[^5] satte han ned henne och när han reste sig tog han upp henne.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^2]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 [^3]: Att säga Allahu Akbar.
 [^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

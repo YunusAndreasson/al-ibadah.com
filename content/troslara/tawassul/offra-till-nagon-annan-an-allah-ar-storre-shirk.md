@@ -56,7 +56,7 @@ Det är Allāh som ger framgång.
 
 [^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 [^2]: Du´ā
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^4]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 [^5]: Medel för att tillbe Allāh.
 

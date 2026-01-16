@@ -18,5 +18,5 @@ description: 'Fråga: Om jag inte ber fredagsbönen i församlingen i moskén, b
 
 [^1]: Rakah.
 [^2]: Dhuhr
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

@@ -32,5 +32,5 @@ Och Allāh är Den som ger framgång.
 [^2]: Att säga Allahu Akbar.
 [^3]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
 [^4]: Du´ā
-[^5]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^5]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

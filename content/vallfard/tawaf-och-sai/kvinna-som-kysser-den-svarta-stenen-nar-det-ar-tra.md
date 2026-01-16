@@ -26,5 +26,5 @@ Var därför försiktiga och gör det inte svårt för er, för då kommer Allā
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Den avslutande hälsningen i bönen.
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

@@ -14,7 +14,7 @@ description: 'Fråga: Hur är man plikttrogen mot sina föräldrar? Är det till
 
 **Fråga:** Hur är man plikttrogen mot sina föräldrar? Är det tillåtet att göra *´umrah* för en av dem trots att de redan har gjort det själva?
 
-**Svar:** Att man är plikttrogen mot föräldrarna innebär att man hjälper dem med ens tillgångar, ens ställning, genom fysiska ansträngningar eller genom att vara god mot dem på alla andra tänkbara sätt. Att inte vara plikttrogen mot dem – genom att inte uppfylla deras rättigheter och att inte vara vänlig mot dem – är en stor synd [...]
+**Svar:** Att man är plikttrogen mot föräldrarna innebär att man hjälper dem med ens tillgångar, ens ställning, genom fysiska ansträngningar eller genom att vara god mot dem på alla andra tänkbara sätt. Att inte vara plikttrogen mot dem – genom att inte uppfylla deras rättigheter och att inte vara vänlig mot dem – är en stor synd […]
 
 Efter att de har avlidit kan man vara plikttrogen mot dem genom att åkalla för dem, be Allāh förlåta dem, utföra deras testamente, visa vördnad mot deras vänner och nära relationsband som enbart kommer till en genom dem. Detta är fem sätt för att vara plikttrogen mot ens föräldrar när de har avlidit.
 

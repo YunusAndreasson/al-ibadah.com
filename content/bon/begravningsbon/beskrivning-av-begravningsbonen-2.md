@@ -46,7 +46,7 @@ Om ett antal begravningsböner äger rum är det bra om de är organiserade så 
 Här finns det en viktig poäng och den är att många tror att det är att föredra om den som förde dit den avlidne står med imamen. Somliga tror att det är nödvändigt att en eller flera står med imamen. Detta är dock ett misstag därför att *sunnah[^2]* för imamen är att han är ensam. Om de som för med sig den avlidne inte finner en plats i raderna bör de forma en egen rad mellan imamen och den första raden.
 
 [^1]: Att säga Allahu Akbar.
-[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^3]: Du´ā
 [^4]: Tawāf är vandringen sju varv runt Ka´bah.
 [^5]: Den avslutande hälsningen i bönen.

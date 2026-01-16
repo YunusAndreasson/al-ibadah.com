@@ -18,7 +18,7 @@ description: 'Fråga: En person avsåg att be tre bönecykler som witr men under
 
 [^1]: Rakah.
 [^2]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^4]: Den avslutande hälsningen i bönen.
 [^5]: Att säga Allahu Akbar.
 

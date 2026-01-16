@@ -38,6 +38,6 @@ Dessa är de felaktigheter som vi har uppmärksammat under *tawāf[^1]*. Vi hopp
 [^2]: Den lilla vallfärden.
 [^3]: Olika sorters prövningar och frestelser.
 [^4]: Dhikr
-[^5]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^5]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^6]: Du´ā
 

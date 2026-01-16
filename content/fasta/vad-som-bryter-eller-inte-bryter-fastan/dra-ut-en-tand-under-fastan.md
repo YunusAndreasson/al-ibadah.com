@@ -13,5 +13,5 @@ description: 'Fråga: Kan man dra ut en kind tand om det leder till att blodet b
 
 **Fråga:** Kan man dra ut en kind tand om det leder till att blodet börjar rinna?
 
-**Svar:** Det är inget problem, för anledningen till att han drog ut tanden var inte att blodet skulle börja rinna, utan anledningen var smärtan. Vanligtvis brukar blodet rinna efter att en tand dragits ut, men det är väldigt lite och närmar sig inte den mängd som rinner vid *hijāmah*.
+**Svar:** Det är inget problem, för anledningen till att han drog ut tanden var inte att blodet skulle börja rinna, utan anledningen var smärtan. Vanligtvis brukar blodet rinna efter att en tand dragits ut, men det är mycket lite och närmar sig inte den mängd som rinner vid *hijāmah*.
 

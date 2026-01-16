@@ -24,8 +24,8 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”De
 
 Det har rapporterats att en blind man till profeten – över honom vare Guds frid och välsignelser – sade: ”*Allāhs sändebud! Jag har ingen guide som kan vägleda mig till moskén, har jag tillåtelse att be i mitt hem?*” Allāhs sändebud – över honom vare Allāhs frid och välsignelser – frågade: ”*Hör du böneutropet?*” Han svarade ”*Ja*.” Han svarade: ”*Besvarade det då*.” [*Muslim* 653] *Ahādīth[^2]* som har samma betydelse är många.
 
-/.../
+/…/
 
 [^1]: Du´ā
-[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

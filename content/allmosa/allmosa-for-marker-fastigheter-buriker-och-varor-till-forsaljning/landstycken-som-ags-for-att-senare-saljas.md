@@ -25,5 +25,5 @@ Majoriteten av de lärde har dömt enligt detta och detta är sanningen.
 
 Må Allāh sända välsignelser och frid över profeten Muḥammad.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

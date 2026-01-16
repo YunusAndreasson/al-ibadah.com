@@ -25,5 +25,5 @@ Genom Allāh uppnås framgång. Må frid och välsignelser vara över Muḥammad
 [^1]: Fajr
 [^2]: Wudū
 [^3]: Isha
-[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

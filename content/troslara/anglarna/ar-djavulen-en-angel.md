@@ -21,7 +21,7 @@ description: 'Fråga: Är djävulen – må Allāh förbanna honom – en ängel
 
 I Koranen nämner Allāh vad djävulen sade när Han kommenderade honom att nedfalla inför Adam:
 
-> ”... och hur alla föll ned utom Iblīs; han tillhörde skaran av osynliga väsen och han trotsade sin Herres befallning. Vill ni ta honom och hans anhang till era beskyddare i Mitt ställe, fastän de är era fiender? Då gör de orättfärdiga ett dåligt byte!” [Koranen 18:50]
+> ”… och hur alla föll ned utom Iblīs; han tillhörde skaran av osynliga väsen och han trotsade sin Herres befallning. Vill ni ta honom och hans anhang till era beskyddare i Mitt ställe, fastän de är era fiender? Då gör de orättfärdiga ett dåligt byte!” [Koranen 18:50]
 
 När det gäller undantaget i Hans ord:
 

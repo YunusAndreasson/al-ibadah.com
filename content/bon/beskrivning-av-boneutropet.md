@@ -56,7 +56,7 @@ al-Qādi 'Iyād har sagt:
 
 Beviset för Abū Hanīfahs och Ahmads åsikt: Det har berättats att 'Abd-Allāh ibn Zayd har sagt:
 
-> ”När Allāhs sändebud beordrade att en bjällra skulle göras, för att man skulle slå i den för att kalla folket till bön, gick en man runt mig när jag sov [i en dröm] bärandes en bjällra i sin hand. Jag sade: 'Allāhs tjänare, vill du sälja denna bjällra?' Han frågade: 'Vad vill du göra med den?' Jag svarade: 'Vi kommer att kalla folket till bön.' Han svarade: 'Skall jag inte berätta om något bättre än det?' Jag svarade: 'Ja.' Han sade: 'Säg: *Allāhu akbar, Allāh akbar, Allāhu akbar, Allāh akbar; ash-hadu an lā ilāh ill-Allāh, ash-hadu an lā ilāh ill-Allāh; ash-hadu anna Muḥammadan rasūl-Allāh, ash-hadu anna Muḥammadan rasūl-Allāh; hayya ‘ala al-salāh, hayya ‘ala al-salāh; hayya ‘ala’l-falāh, hayya ‘ala’l-falāh; Allāhu akbar, Allāhu akbar; Lā ilāha ill-Allāh'.*[...]Sedan gick han bort en liten bit ifrån mig och sade*:* 'Och när bönen ska börja*[iqāmah[^5]],* säg*: Allāhu akbar, Allāh akbar; ash-hadu an lā ilāh ill-Allāh; ash-hadu anna Muḥammadan rasūl-Allāh; hayya ‘ala al-salāh, hayya ‘ala’l-falāh; qad qāmat il-salāh, qad qāmat il-salāh; Allāhu akbar, Allāhu akbar; Lā ilāha ill-Allāh*.'
+> ”När Allāhs sändebud beordrade att en bjällra skulle göras, för att man skulle slå i den för att kalla folket till bön, gick en man runt mig när jag sov [i en dröm] bärandes en bjällra i sin hand. Jag sade: 'Allāhs tjänare, vill du sälja denna bjällra?' Han frågade: 'Vad vill du göra med den?' Jag svarade: 'Vi kommer att kalla folket till bön.' Han svarade: 'Skall jag inte berätta om något bättre än det?' Jag svarade: 'Ja.' Han sade: 'Säg: *Allāhu akbar, Allāh akbar, Allāhu akbar, Allāh akbar; ash-hadu an lā ilāh ill-Allāh, ash-hadu an lā ilāh ill-Allāh; ash-hadu anna Muḥammadan rasūl-Allāh, ash-hadu anna Muḥammadan rasūl-Allāh; hayya ‘ala al-salāh, hayya ‘ala al-salāh; hayya ‘ala’l-falāh, hayya ‘ala’l-falāh; Allāhu akbar, Allāhu akbar; Lā ilāha ill-Allāh'.*[…]Sedan gick han bort en liten bit ifrån mig och sade*:* 'Och när bönen ska börja*[iqāmah[^5]],* säg*: Allāhu akbar, Allāh akbar; ash-hadu an lā ilāh ill-Allāh; ash-hadu anna Muḥammadan rasūl-Allāh; hayya ‘ala al-salāh, hayya ‘ala’l-falāh; qad qāmat il-salāh, qad qāmat il-salāh; Allāhu akbar, Allāhu akbar; Lā ilāha ill-Allāh*.'
 > 
 > 
 > 
@@ -74,7 +74,7 @@ Beviset för Abū Hanīfahs och Ahmads åsikt: Det har berättats att 'Abd-Allā
 > 
 > När det gäller *iqāmah[^5]* sade Mālik, al-Shāfa'i och Ahmad att fraserna bör sägas en gång, men Ahmad sade att det var *sunnah[^1]* att säga dem två gånger. Tre av dem: Abū Hanīfah, al-Shāfa’i och Ahmad föredrog att säga *Qad qāmat il-salāh* två gånger, men Mālik gjorde det inte. Och Allāh vet bäst.” [*Majmū’ al-Fatāwa*, 22/66-69]
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^2]: Olika sorters prövningar och frestelser.
 [^3]: Att säga Allahu Akbar.
 [^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

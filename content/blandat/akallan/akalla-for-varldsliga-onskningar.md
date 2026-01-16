@@ -18,7 +18,7 @@ description: 'Fråga: Är det tillåtet för oss att åkalla under bönen för r
 
 [^1]: Vad man läser i den sittande positionen under bönen.
 [^2]: sujūd, nedfallandet när pannan läggs mot marken.
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^4]: Dhikr
 [^5]: Du´ā
 

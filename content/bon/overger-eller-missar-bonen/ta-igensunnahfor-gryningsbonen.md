@@ -17,7 +17,7 @@ description: 'Fråga: Jag går alltid för att be gryningsbönen och jag finner 
 **Svar:** Är det inga problem att be *sunnah[^2]* för gryningsbönen[^1] innan bönen, då kan han välja mellan att be den efter bönen eller att skjuta upp den tills solen har gått upp. Exempel på detta har bekräftats från profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]*. Beträffande att förrätta den efter bönen, då har det bekräftats att han godkände det när någon gjorde det.
 
 [^1]: Fajr
-[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^3]: Den avslutande hälsningen i bönen.
 [^4]: Rakah.
 

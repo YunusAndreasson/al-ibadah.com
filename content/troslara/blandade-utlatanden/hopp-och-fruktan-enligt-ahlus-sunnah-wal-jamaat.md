@@ -24,5 +24,5 @@ Min åsikt är att det varierar efter omständigheterna. Känner man att ens fru
 
 I denna fråga är man i själva verket sin egen själsläkare så länge ens hjärta är vid liv. Men för den vars hjärta är dött, och som varken behandlar det eller bryr sig om dess tillstånd, blir denna fråga oviktig.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

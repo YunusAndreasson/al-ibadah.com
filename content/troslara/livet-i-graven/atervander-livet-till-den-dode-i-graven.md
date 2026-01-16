@@ -73,7 +73,7 @@ Beträffande Allāhs ord:
 
 > ”Gud stärker de troende med det ord vars sanning står fast i denna värld och i evigheten; men de orättfärdiga låter Han gå vilse. – Gud gör vad Han vill.” [Koranen 14:27]
 
-Profeten – över honom vare Allāhs frid och välsignelser – klargjorde att baserat på detta så kommer den troende att hållas stadig [i tron], medan den icke-troende kommer att misslyckas när denne utfrågas i graven. Han förklarade även att den troende kommer att belönas och ro i hans grav för svaren, och den icke-troende kommer att tveka och inte lyckas svara, och då straffas i graven. Detta kommer snart att visas i en *hadīth[^2]* från al-Bara' bin 'Azib. Bland bevisen för straffet i graven finns även hadithen från Ibn ‘Abbās som återberättas i *Sahīh al-Bukhārī* och *Sahīh Muslim*. När profeten – över honom vare Allāhs frid och välsignelser – passerade två gravar sade han:
+Profeten – över honom vare Allāhs frid och välsignelser – klargjorde att grundat på detta så kommer den troende att hållas stadig [i tron], medan den icke-troende kommer att misslyckas när denne utfrågas i graven. Han förklarade även att den troende kommer att belönas och ro i hans grav för svaren, och den icke-troende kommer att tveka och inte lyckas svara, och då straffas i graven. Detta kommer snart att visas i en *hadīth[^2]* från al-Bara' bin 'Azib. Bland bevisen för straffet i graven finns även hadithen från Ibn ‘Abbās som återberättas i *Sahīh al-Bukhārī* och *Sahīh Muslim*. När profeten – över honom vare Allāhs frid och välsignelser – passerade två gravar sade han:
 
 > ”De [som ligger i gravarna] straffas men de straffas inte för en grov synd. När det gäller en av dem, var han inte noga med att hålla sig ren från urin och när det gäller den andre så brukade han berätta historier.”
 
@@ -142,11 +142,11 @@ Utfrågningen och den efterföljande belöningen eller bestraffningen i graven, 
 
 Det är inte bortom tron att änglarna i gravarna ska fråga ut de döda, att de döda kommer att svara dem och att de kommer att få belöningar enligt deras handlingar. Det motsäger heller inte Allāhs magnifika förmåga och undren i Hans universella sunnah[^1], att Han skulle belöna de troende i deras gravar samt straffa de icke-troende i deras. Den som studerar skapelsen kommer tydligt att se det universella i Allāhs vilja och dess implementation, den allgenomträngade naturen i Hans kraft, dess perfektion, excellensen i Hans skapelse, precisionen i Hans organisation, Hans formgivelse av Hans skapelse och hur Han har gjort det lätt för människan att tro på de autentiska haditherna om utfrågningen i gravarna samt den belöningen eller bestraffningen som kommer efter.
 
-Det har även rapporterats att Allāh den Upphöjde kommer att återlämna själen till den avlidne när denne har begravts – ett återlämnande som kommer att lämna honom vid liv, levandes i *al-Barzakh* [...]
+Det har även rapporterats att Allāh den Upphöjde kommer att återlämna själen till den avlidne när denne har begravts – ett återlämnande som kommer att lämna honom vid liv, levandes i *al-Barzakh* […]
 
-Detta liv mellan de båda [livet i denna världen och livet i det Nästa] gör det möjligt för honom att höra frågorna och besvara dem – om Allāh ger honom framgång – och får honom att känna njutningen [av Paradiset] eller plågan [i Helvetet]. Vi har redan nämnt *ahādīth[^2]* om detta [...]
+Detta liv mellan de båda [livet i denna världen och livet i det Nästa] gör det möjligt för honom att höra frågorna och besvara dem – om Allāh ger honom framgång – och får honom att känna njutningen [av Paradiset] eller plågan [i Helvetet]. Vi har redan nämnt *ahādīth[^2]* om detta […]
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
-[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Ett Register där de icke-troendes handlingar nedtecknas.
 

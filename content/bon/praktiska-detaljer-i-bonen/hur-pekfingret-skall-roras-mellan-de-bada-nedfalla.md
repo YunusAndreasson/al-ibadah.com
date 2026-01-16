@@ -16,7 +16,7 @@ description: 'Fråga: Har någon autentisk hadīth rapporterats om hur pekfingre
 
 **Svar:** Ja, en *hadīth[^1]* har återgivits från Ibn ´Umar i *Sahīh Muslim* i vilken han säger att profeten – över honom vare Allāhs frid och välsignelser – satt i bönen och nämnde Allāh. När han gjorde det pekade han med sitt finger [*Muslim* 1:408]. Det finns även en annan version när han satt i *tashahhud[^3]*.
 
-/.../
+/…/
 
 Det finns även en *hadīth[^1]* som imam Ahmad har återgivit i sin *Musnad* med en återberättarekedja som författaren till *al-Fath ar-Rabbani* har kommenterat genom att säga: ”*Dess kedja av rapportörer är hasan*.” [*al-Fath ar-Rabbani* 3:147] En av kommentatorerna till *Zādul-Ma’ād* [*Zādul-Ma’ād* 1:23] har sagt: ”*Dess kedja av rapportörer är autentisk*.”
 

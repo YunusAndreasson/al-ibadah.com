@@ -20,7 +20,7 @@ De svaga kvinnorna, männen och äldre får lämna Muzdalifah[^1] under den sist
 
 [^1]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
 [^2]: Du´ā
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^4]: Fajr
 [^5]: Säga Labbayk Allahumma Labbayk under vallfärden.
 [^6]: Riktningen mot Kabah i Mecka som bönen utförs mot.

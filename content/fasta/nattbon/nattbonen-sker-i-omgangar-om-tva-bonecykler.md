@@ -22,7 +22,7 @@ Och Allāh är Givaren av framgång.
 
 [^1]: Rakah.
 [^2]: Den avslutande hälsningen i bönen.
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^5]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 

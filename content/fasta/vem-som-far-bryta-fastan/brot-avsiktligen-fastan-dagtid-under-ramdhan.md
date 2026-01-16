@@ -19,5 +19,5 @@ description: 'Fråga: En man fastar under ramadan och dennes törst blir svår s
 När det gäller gottgörelse är det inte en skyldighet för någon annan än den som har intim samvaro dagtid under ramadan[^1] och som är skyldig att fasta. Anledningen återfinns i de *ahādīth[^2]* som har återberättats enligt den korrekta åsikten.
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
-[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

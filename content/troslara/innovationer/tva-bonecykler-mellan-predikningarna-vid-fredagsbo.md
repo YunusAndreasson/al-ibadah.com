@@ -23,5 +23,5 @@ Har man suttit ned under en längre tid, då bör man inte be hälsningsbönen t
 [^1]: Rakah.
 [^2]: Du´ā
 [^3]: Tahiyyatul-Msjid.
-[^4]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^4]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

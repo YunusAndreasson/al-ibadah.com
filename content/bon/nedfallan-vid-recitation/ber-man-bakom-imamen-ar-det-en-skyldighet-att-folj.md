@@ -26,6 +26,6 @@ Och Allāh vet bäst.
 [^2]: sujūd, nedfallandet när pannan läggs mot marken.
 [^3]: Dhuhr
 [^4]: Asr
-[^5]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^5]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^6]: Den avslutande hälsningen i bönen.
 

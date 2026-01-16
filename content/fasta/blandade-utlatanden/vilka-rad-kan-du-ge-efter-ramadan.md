@@ -14,7 +14,7 @@ description: All lovprisan tillhör Allāh. Jag undrar om den som fastade fortsa
 
 All lovprisan tillhör Allāh.
 
-Jag undrar om den som fastade fortsatte att vara så som denne var under ramadan[^1], eller är denne ”likt den som trasslar upp tråden när han har spunnit den” [cf. al-Nahl 16:92]? Jag undrar om den som under ramadan[^1] fastade, reciterade och läste Koranen, gav i välgörenhet, bad om natten och åkallade kommer att vara likadan efter ramadan[^1] eller om denne kommer att följa en annan väg... Jag menar djävulens väg, så att denne syndar och gör saker som förargar den Nådrike, den Barmhärtige?
+Jag undrar om den som fastade fortsatte att vara så som denne var under ramadan[^1], eller är denne ”likt den som trasslar upp tråden när han har spunnit den” [cf. al-Nahl 16:92]? Jag undrar om den som under ramadan[^1] fastade, reciterade och läste Koranen, gav i välgörenhet, bad om natten och åkallade kommer att vara likadan efter ramadan[^1] eller om denne kommer att följa en annan väg… Jag menar djävulens väg, så att denne syndar och gör saker som förargar den Nådrike, den Barmhärtige?
 
 Om en muslim fortsätter att med tålamod handla rättfärdigt efter ramadan[^1] är detta ett tecken på att Herren har accepterat dennes fasta. Misslyckas denne med att handla rättfärdigt efter ramadan[^1] – och följer djävulens väg – är detta ett tecken på förödmjukelse, snålhet, låg status samt att vara berövad på Allāhs hjälp. al-Hasan al-Basri har sagt:
 

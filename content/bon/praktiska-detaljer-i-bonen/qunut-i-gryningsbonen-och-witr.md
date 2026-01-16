@@ -31,7 +31,7 @@ När det gäller frågeställarens ord ”likt kvällsbönen[^5]”, då ska man
 [^3]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 [^4]: Rakah.
 [^5]: Maghrib
-[^6]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^6]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^7]: Den avslutande hälsningen i bönen.
 [^8]: Vad man läser i den sittande positionen under bönen.
 

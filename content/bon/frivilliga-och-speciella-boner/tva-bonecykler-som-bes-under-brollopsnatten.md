@@ -19,6 +19,6 @@ description: 'Fråga: Vilket är utlåtandet om att be två bönecykler på brö
 Det är föreskrivet att ta tag i kvinnans lugg och be Allāh om det goda i henne och i den disposition som Han har skänkt henne. Likaså bör man söka sin tillflykt hos Allāh från det onda i henne och det onda som kan komma till en från henne. [*Abū Dawūd* 2160] Om man vid denna tidpunkt är rädd för att kvinnan ska fly från en bör man ta tag i hennes lugg, som om man skulle vilja komma nära henne, och läsa denna åkallan[^3] tyst så att hon inte hör en. Vissa kvinnor kan missförstå mannen om han säger: ”Jag söker min tillflykt hos Dig från det onda som finns i henne och i det onda som kan tänkas komma till mig från henne.” Kvinnan kanske då säger: ”Finns det ont i mig?”
 
 [^1]: Rakah.
-[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^3]: Du´ā
 

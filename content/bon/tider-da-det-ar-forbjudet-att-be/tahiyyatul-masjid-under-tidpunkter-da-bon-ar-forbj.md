@@ -31,5 +31,5 @@ Och Allāh är Beviljaren av framgång.
 [^3]: Asr
 [^4]: Rakah.
 [^5]: Den sju långa rundar vandringen runt Kabah.
-[^6]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^6]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

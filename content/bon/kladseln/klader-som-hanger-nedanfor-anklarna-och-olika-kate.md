@@ -46,5 +46,5 @@ Om den som citerar hadithen från Abū Bakr – må Allāh vara nöjd med honom 
 Allāh vägleder den Han vill till den raka vägen. Vi ber Allāh att Han vägleder och förlåter oss alla.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

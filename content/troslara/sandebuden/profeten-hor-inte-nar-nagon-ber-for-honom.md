@@ -12,7 +12,7 @@ description: 'Fråga: Hör profeten – över honom vare Allāhs frid och välsi
  det sagts: ” Den som sänder välsignelser över...'
 ---
 
-**Fråga:** Hör profeten – över honom vare Allāhs frid och välsignelser – i sin ädla grav dem som ber för honom [speciellt välsignelser]? I en *hadīth[^1]* har det sagts: ”*Den som sänder välsignelser över min grav hör jag*...” Är denna *hadīth[^1]* autentisk?
+**Fråga:** Hör profeten – över honom vare Allāhs frid och välsignelser – i sin ädla grav dem som ber för honom [speciellt välsignelser]? I en *hadīth[^1]* har det sagts: ”*Den som sänder välsignelser över min grav hör jag*…” Är denna *hadīth[^1]* autentisk?
 
 **Svar:** Generellt sett kan de döda inte höra något från Adams söner som lever. De kan heller inte höra deras åkallan[^2]. Allāh den Upphöjde säger:
 
@@ -26,5 +26,5 @@ När det gäller denna *hadīth[^1]*: ”*Den som ber för mig vid min grav hör
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Du´ā
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

@@ -21,6 +21,6 @@ Varken den som utför *tawāf[^3]* eller soldaten för använda denna muta. De m
 Och framgång kommer från Allāh. Må Allāh sända böner av välsignelser och frid över vår profet Muḥammad, hans familj och följeslagare.
 
 [^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 ramadan 1428).
-[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^3]: Den sju långa rundar vandringen runt Kabah.
 

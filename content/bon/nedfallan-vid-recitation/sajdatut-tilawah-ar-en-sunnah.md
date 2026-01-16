@@ -18,5 +18,5 @@ description: 'Fråga: Om jag läser en vers, när jag sitter vid mitt skrivbord 
 
 [^1]: sujūd, nedfallandet när pannan läggs mot marken.
 [^2]: När vissa verser i Koranen reciteras kan man nedfalla.
-[^3]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

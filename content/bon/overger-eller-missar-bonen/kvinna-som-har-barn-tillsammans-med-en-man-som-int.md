@@ -26,5 +26,5 @@ Och Allāh vet bäst.
 
 Må frid och välsignelser vara över vår profet Muḥammad, hans familj och hans följeslagare.
 
-[^1]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

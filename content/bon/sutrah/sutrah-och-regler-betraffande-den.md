@@ -21,7 +21,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – tillfrågades o
 Vi säger att det som är minimum för den är en linje och maximum är bakdelen på ett riddjurs sadel.
 
 [^1]: Ett objekt i form av exempelvis en pinne, stav eller vägg. Skall vara minst en fot hög. Agerar symbolisk skiljelinje mellan den bedjande och de som passerar framför.
-[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^4]: En hadīth som är återberättad i ett antal motsägande former på ett sådant sätt att det är omöjligt att jämka dem samman och säga vilken som är korrekt
 

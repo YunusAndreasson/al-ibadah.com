@@ -26,6 +26,6 @@ Därför är den korrekta åsikten att all mat som människor äter är giltig f
 Med detta som grund: Det är tillåtet att betala *zakātul-fitr[^1]* med ris. Jag anser att ris i dagsläget är bättre än något annat då det medför minst problem. Det är också det som människor vill ha. Men efter att ha sagt detta så skiljer det sig från fall till fall. Det kan vara på så vis att ute på landet kan en viss grupp föredra dadlar och då kan man erbjuda dem dadlar. Men på en annan plats kan det vara russin som föredras och då kan man ge den [*zakātul-fitr[^1]*] som russin. På samma sätt kan ost eller något annat [vara att föredra]. Det bästa är då det som är nyttigast.
 
 [^1]: Allmosa som ges före eid-bönen.
-[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen
+[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
 

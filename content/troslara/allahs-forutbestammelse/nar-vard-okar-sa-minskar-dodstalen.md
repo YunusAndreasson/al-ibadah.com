@@ -52,7 +52,7 @@ Hans profet Hud predikade för sitt folk:
 
 Och Han säger om profeten – över honom vare Allāhs frid och välsignelser – Noa när han predikade för folket:
 
-> ”[Och Noa] sade: ”Jag har kommit, mitt folk, för att varna er klart och entydigt: dyrka Gud och frukta Honom! Och lyd mig! Då ska Gud förlåta er era synder och ge er uppskov till en tid [som Han] har fastställt – när den är inne, kan den inte uppskjutas – om ni [bara] visste...!” [Koranen 71:2 – 4]
+> ”[Och Noa] sade: ”Jag har kommit, mitt folk, för att varna er klart och entydigt: dyrka Gud och frukta Honom! Och lyd mig! Då ska Gud förlåta er era synder och ge er uppskov till en tid [som Han] har fastställt – när den är inne, kan den inte uppskjutas – om ni [bara] visste…!” [Koranen 71:2 – 4]
 
 Och Han den Upphöjde säger om Hans sändebuds predikande inför deras folk att de sade:
 

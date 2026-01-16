@@ -19,7 +19,7 @@ description: 'Fråga: Det finns en imam i en moské och han leder folket i varje
 När ‘Umar – må Allāh vara nöjd med honom – samlade följeslagarna för *tarāwīh*-bönen så bad de tjugo bönecykler[^1] och i varje bönecykel[^1] reciterade de omkring trettio versers från sura al-Baqarah. Detta är närmare fyra eller fem sidor. Således bad de och reciterade sura al-Baqarah i åtta bönecykler[^1] och om de bad medan de reciterade den i tolv bönecykler[^1] ansåg de att han [imamen] har lättat [kortat] bönen. Om imamen kortar ned recitationen ökar han antalet bönecykler[^1] till fyrtioett, vilket några av imamerna har sagt. Om han vill minska antalet till elva eller tretton, då ökar han recitationen och bönens pelare. De finns inte ett begränsat antal i *tarāwīh*-bönen. Vad som begärs är enbart att du ber den på ett sätt så att du når stillsamhet och koncentration. Det bör vara en mängd som inte kommer att ta mindre än en timme, eller nära det. Den som tror att detta är att förlänga bönen har motsatt sig vad som har berättats. Därmed bör man inte lyssna på denne.
 
 [^1]: Rakah.
-[^2]: Väg eller sätt... Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen
+[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^3]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^4]: Fajr
 
