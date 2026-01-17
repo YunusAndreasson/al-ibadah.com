@@ -42,15 +42,18 @@ function SubcategoryPage() {
       <h1 className="page-title mb-8 mt-8">{data.subcategoryName}</h1>
 
       {data.articles.length > 0 ? (
-        <div className="flex flex-col">
-          {data.articles.map((article, index) => (
+        <div className="grid gap-3">
+          {data.articles.map((article) => (
             <Link
               key={article.slug}
               to={`/${category}/${subcategory}/${article.slug}`}
               preload="viewport"
-              className={`nav-link py-3 border-b border-border/50 hover:bg-muted/30 transition-colors ${index === 0 ? 'border-t' : ''}`}
+              className="card block"
             >
-              {article.title}
+              <h2 className="font-medium mb-1 text-foreground">{article.title}</h2>
+              {article.author && (
+                <p className="text-sm text-muted-foreground">{article.author}</p>
+              )}
             </Link>
           ))}
         </div>

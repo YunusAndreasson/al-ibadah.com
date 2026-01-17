@@ -476,6 +476,25 @@ body {
   background-color: var(--color-muted);
 }
 
+/* Card component */
+.card {
+  border: 1px solid var(--color-border);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+
+@media (min-width: 640px) {
+  .card {
+    padding: 1.25rem;
+  }
+}
+
+.card:hover {
+  background-color: color-mix(in oklch, var(--color-muted) 50%, transparent);
+  border-color: var(--color-muted-foreground);
+}
+
 /* Navigation link */
 .nav-link {
   color: var(--color-muted-foreground);
