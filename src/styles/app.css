@@ -216,8 +216,16 @@ body {
 
 /* Q&A labels - Fråga/Svar styling */
 .prose-reading .qa-label {
+  font-family: var(--font-sans);
+  font-size: 0.75em;
   font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
   color: var(--color-muted-foreground);
+  background-color: var(--color-muted);
+  padding: 0.2em 0.5em;
+  border-radius: 0.25em;
+  margin-right: 0.25em;
 }
 
 .prose-reading blockquote {
