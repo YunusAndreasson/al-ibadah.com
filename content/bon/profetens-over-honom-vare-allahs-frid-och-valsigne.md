@@ -89,7 +89,7 @@ Det som bryter bönen
 
 ***Takbīr***
 
-1. Sedan börjar man bönen genom att säga: ”*Allāhu akbar*.” Detta är en väsentlig del av bönen då profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Nyckeln till bönen är att rena sig. Den träds in i genom takbīr[^4] och träds ur genom *taslīm[^13]**”, det vill säga när du säger *takbīr[^4]* blir vissa saker förbjudna och dessa förbud hävs när du säger *taslīm[^13]*.
+1. Sedan börjar man bönen genom att säga: ”*Allāhu akbar*.” Detta är en väsentlig del av bönen då profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Nyckeln till bönen är att rena sig. Den träds in i genom takbīr[^4] och träds ur genom *taslīm[^13]*”, det vill säga när du säger *takbīr[^4]* blir vissa saker förbjudna och dessa förbud hävs när du säger *taslīm[^13]*.
 2. Man bör inte höja sin röst när han säger *takbīr[^4]*, utom om man agerar imam.
 3. Böneutroparen får förmedla *takbīr[^4]* ifrån imamen till folket om det finns ett behov av det, som när imamen är sjuk och dennes röst är svag eller för att det finns många dyrkande bakom.
 4. Den som följer imamen bör inte säga *takbīr[^4]* förrän imamen har avslutat sin *takbīr[^4]*.

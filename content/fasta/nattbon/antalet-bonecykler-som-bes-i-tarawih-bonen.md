@@ -36,7 +36,7 @@ Det råder inga tvivel om att konsensus bland följeslagarna är ett bevis, blan
 
 Du bör känna till att de olika åsikterna om antalet bönecykler[^1] i *tarāwīh* och liknande är frågor i vilka det är tillåtet att utöva *ijtihād[^5]* inte gör det eftersträvansvärt att detta ska vara orsaken till splittringar, speciellt inte då *salaf[^4]* – må Allāh vara nöjda med dem – har haft olika åsikter. Här finns inget som hindrar utövandet av *ijtihād[^5]*.
 
-Hur vackert är inte uttalandet från en av de lärde om när någon skilde sig från honom i hans *ijtihād[^5]* i en fråga där det är tillåtet: ”*Genom att du motsäger dig mig har du blivit enig med mig för vi anser båda att det är obligatoriskt att följa det man anser vara sanningen då det är tillåtet att utöva *ijtihād[^5]**.”
+Hur vackert är inte uttalandet från en av de lärde om när någon skilde sig från honom i hans *ijtihād[^5]* i en fråga där det är tillåtet: ”*Genom att du motsäger dig mig har du blivit enig med mig för vi anser båda att det är obligatoriskt att följa det man anser vara sanningen då det är tillåtet att utöva *ijtihād[^5]*.”
 
 Vi ber Allāh den Upphöjde att Han ger oss alla framgång i att uppnå vad Han älskar och gör Honom nöjd.
 
