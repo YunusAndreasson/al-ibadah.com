@@ -481,7 +481,7 @@ body {
   gap: 1rem;
   padding: 0.875rem 0;
   border-bottom: 1px solid var(--color-border);
-  transition: padding-left 0.15s ease, background-color 0.15s ease;
+  transition: background-color 0.1s ease;
 }
 
 .list-item:first-child {
@@ -489,8 +489,7 @@ body {
 }
 
 .list-item:hover {
-  padding-left: 0.5rem;
-  background-color: color-mix(in oklch, var(--color-muted) 30%, transparent);
+  background-color: var(--color-muted);
 }
 
 .list-item-content {
@@ -508,14 +507,7 @@ body {
 }
 
 .list-item-chevron {
-  opacity: 0;
-  transform: translateX(-4px);
-  transition: opacity 0.15s ease, transform 0.15s ease;
-}
-
-.list-item:hover .list-item-chevron {
-  opacity: 1;
-  transform: translateX(0);
+  color: var(--color-muted-foreground);
 }
 
 /* Legacy card component - keep for backwards compatibility */
