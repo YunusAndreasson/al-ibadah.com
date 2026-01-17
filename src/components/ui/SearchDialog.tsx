@@ -75,7 +75,7 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
       aria-modal="true"
       aria-label="Sök"
     >
-      <div className="fixed inset-0 bg-black/40 animate-dialog-overlay" aria-hidden="true" />
+      <div className="fixed inset-0 bg-foreground/40 animate-dialog-overlay" aria-hidden="true" />
 
       <div className="min-h-full flex items-start justify-center p-4 pt-20 sm:pt-24">
         <div

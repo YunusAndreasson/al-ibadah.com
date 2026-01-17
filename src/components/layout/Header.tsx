@@ -79,7 +79,7 @@ export function Header() {
       {/* Mobile menu */}
       {menuOpen && (
         <div className="md:hidden fixed inset-0 z-40" onClick={() => setMenuOpen(false)}>
-          <div className="fixed inset-0 bg-black/40 animate-dialog-overlay" />
+          <div className="fixed inset-0 bg-foreground/40 animate-dialog-overlay" />
           <nav
             className="fixed top-14 right-0 w-64 max-w-[80vw] h-[calc(100vh-3.5rem)] bg-background border-l border-border p-4 animate-dialog-content overflow-y-auto"
             aria-label="Mobilnavigering"
