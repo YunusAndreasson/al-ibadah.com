@@ -2,8 +2,7 @@ import { createFileRoute, notFound } from '@tanstack/react-router'
 import { createServerFn } from '@tanstack/react-start'
 import { ArticleRenderer } from '~/components/content/ArticleRenderer'
 import { Breadcrumbs } from '~/components/layout/Breadcrumbs'
-import { Footer } from '~/components/layout/Footer'
-import { Header } from '~/components/layout/Header'
+import { PageLayout } from '~/components/layout/PageLayout'
 import { getArticle, getSubcategoryInfo } from '~/lib/content'
 
 const getArticleData = createServerFn({ method: 'GET' })
@@ -52,22 +51,16 @@ function ArticlePage() {
   const { article, categoryName, subcategoryName } = Route.useLoaderData()
 
   return (
-    <div className="min-h-screen flex flex-col">
-      <Header />
+    <PageLayout>
+      <Breadcrumbs
+        items={[
+          { label: 'Hem', href: '/' },
+          { label: categoryName, href: `/${category}` },
+          { label: subcategoryName, href: `/${category}/${subcategory}` },
+        ]}
+      />
 
-      <main id="main" className="w-full max-w-3xl mx-auto px-4 py-8 flex-1">
-        <Breadcrumbs
-          items={[
-            { label: 'Hem', href: '/' },
-            { label: categoryName, href: `/${category}` },
-            { label: subcategoryName, href: `/${category}/${subcategory}` },
-          ]}
-        />
-
-        <ArticleRenderer article={article} />
-      </main>
-
-      <Footer />
-    </div>
+      <ArticleRenderer article={article} />
+    </PageLayout>
   )
 }

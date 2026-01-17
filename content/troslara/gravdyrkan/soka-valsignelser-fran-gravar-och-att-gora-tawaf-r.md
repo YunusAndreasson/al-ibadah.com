@@ -31,7 +31,7 @@ Månggudadyrkarna som begår stor *shirk[^2]* är icke-troende som står utanfö
 
 Svär man vid någon annan än Allāh, och man tror att den som man svär vid har en position likvärdig med Allāhs, då är man en månggudadyrkare[^5] som gör sig skyldig till stor *shirk[^2]*. Om man inte tror det, men det i ens hjärta finns begär att upphöja den man svär vid, och det sker utan att man tror att dennes position är likvärdig med Allāhs, då är man skyldig till mindre *shirk[^2]*. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Den som svär vid något annat än Allāh har begått otro eller shirk[^2]*.” [*al-Bukhārī* 2679]
 
-Dem som söker välsignelser från gravar, åkallar[^4] de avlidna eller svär vid någon annan än Allāh måste tillrättavisas skarpt. Det måste klargöras för denne att ett sådant beteende inte kommer att rädda denne från Allāhs straff enbart eftersom denne säger: ”Detta är något som vi lärt oss från våra förfäder.” Detta argument är detsamma som polyteristerna som motsade sig sändebudet – över honom vare Allāhs frid och välsignelser – lade fram:
+De som söker välsignelser från gravar, åkallar[^4] de avlidna eller svär vid någon annan än Allāh måste tillrättavisas skarpt. Det måste klargöras för denne att ett sådant beteende inte kommer att rädda denne från Allāhs straff enbart eftersom denne säger: ”Detta är något som vi lärt oss från våra förfäder.” Detta argument är detsamma som polyteristerna som motsade sig sändebudet – över honom vare Allāhs frid och välsignelser – lade fram:
 
 > ”Vi har förstått att detta var våra förfäders tro och vi följer deras exempel.” [Koranen 42:23]
 

@@ -21,7 +21,7 @@ Den enda grupp [som kommer att vara säker] är *ahlus-sunnah[^2] wal-jamā’at
 
 > ”En grupp ur mitt samfund kommer att hålla sig stadiga vid sanningen, segerrika, oskadd av dem som motsäger sig dem och inte stödjer dem – tills döden eller tills Återuppståndelsedagen.” [*al-Bukhārī* 71, 3641 och *Muslim* 1920]
 
-Dem vars innovationer tar dem ur islam tillhör innovationens samfund [människosläktet i stort] och inte ”det svarande samfundet”. De ska vara i Helveteselden för evigt. Detta är den starkaste åsikten.
+De vars innovationer tar dem ur islam tillhör innovationens samfund [människosläktet i stort] och inte ”det svarande samfundet”. De ska vara i Helveteselden för evigt. Detta är den starkaste åsikten.
 
 Det har även sagts att termen ”samfund” i denna *hadīth[^1]* avser innovationens samfund, vilket är en generell term som inkluderar dem som profeten – över honom vare Allāhs frid och välsignelser – sändes till [människosläktet]; de som tror och de som inte tror. ”Den räddade gruppen” är ”det svarande samfundet” som enbart gäller dem som uppriktigt tror på profeten – över honom vare Allāhs frid och välsignelser – och dör i detta tillstånd. Detta är gruppen som kommer att räddas från Elden; antingen genom föregående bestraffning eller utan föregående bestraffning och deras slutgiltiga vistelse är i Paradiset.
 

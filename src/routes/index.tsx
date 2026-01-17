@@ -1,6 +1,5 @@
 import { createFileRoute } from '@tanstack/react-router'
-import { Footer } from '~/components/layout/Footer'
-import { Header } from '~/components/layout/Header'
+import { PageLayout } from '~/components/layout/PageLayout'
 
 export const Route = createFileRoute('/')({
   component: HomePage,
@@ -8,11 +7,8 @@ export const Route = createFileRoute('/')({
 
 function HomePage() {
   return (
-    <div className="min-h-screen flex flex-col">
-      <Header />
-
-      <main id="main" className="w-full max-w-3xl mx-auto px-4 py-12 sm:py-16 flex-1">
-        <section>
+    <PageLayout largePadding>
+      <section>
           <div className="prose-reading">
             <p className="text-center mb-6">
               <span className="font-arabic text-xl leading-relaxed">بسم الله الرحمن الرحيم</span>
@@ -65,10 +61,7 @@ function HomePage() {
               följeslagare.
             </p>
           </div>
-        </section>
-      </main>
-
-      <Footer />
-    </div>
+      </section>
+    </PageLayout>
   )
 }

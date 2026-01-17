@@ -28,7 +28,10 @@ export function Breadcrumbs({ items }: BreadcrumbsProps) {
                 {item.label}
               </Link>
             ) : (
-              <span className="text-foreground font-semibold truncate max-w-[200px]">
+              <span
+                className="text-foreground font-medium truncate max-w-[160px] sm:max-w-[280px]"
+                title={item.label}
+              >
                 {item.label}
               </span>
             )}
