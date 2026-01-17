@@ -42,13 +42,13 @@ function SubcategoryPage() {
       <h1 className="page-title mb-8 mt-8">{data.subcategoryName}</h1>
 
       {data.articles.length > 0 ? (
-        <div className="flex flex-col gap-1">
+        <div className="flex flex-col gap-2">
           {data.articles.map((article) => (
             <Link
               key={article.slug}
               to={`/${category}/${subcategory}/${article.slug}`}
               preload="viewport"
-              className="nav-link px-3 py-2.5 -mx-3 rounded-lg hover:bg-muted active:bg-muted transition-colors"
+              className="nav-link px-3 py-2.5 -mx-3 rounded-lg border border-border/50 hover:border-border hover:bg-muted active:bg-muted transition-colors"
             >
               {article.title}
             </Link>
