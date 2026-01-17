@@ -48,9 +48,12 @@ function SubcategoryPage() {
               key={article.slug}
               to={`/${category}/${subcategory}/${article.slug}`}
               preload="viewport"
-              className="py-2 hover:text-muted-foreground transition-colors duration-100"
+              className="nav-link py-2"
             >
-              {article.title}
+              <span className="block">{article.title}</span>
+              {article.author && (
+                <span className="block text-sm text-muted-foreground">{article.author}</span>
+              )}
             </Link>
           ))}
         </div>
