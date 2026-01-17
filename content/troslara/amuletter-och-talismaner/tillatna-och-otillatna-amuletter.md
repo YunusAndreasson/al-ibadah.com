@@ -22,7 +22,7 @@ Hur kan vi få ihop den *hadīth[^3]* som förbjuder med den som tillåter? Vilk
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Det finns inget skadligt i besvärjelser så länge de inte innehåller shirk[^2].” [*Muslim* 2200]
+> ”Det finns inget skadligt i besvärjelser så länge de inte innehåller *shirk[^2]*." [*Muslim* 2200]
 >
 >
 >
@@ -45,7 +45,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 >
 >
 >
-> ”Sannerligen är besvärjelser, amuletter och tiwalah[^1] shirk[^2].” [*Abū Dawūd* 3883, *Ahmad* 1:381 och *al-Hakim* 4:418]
+> ”Sannerligen är besvärjelser, amuletter och tiwalah[^1] *shirk[^2]*." [*Abū Dawūd* 3883, *Ahmad* 1:381 och *al-Hakim* 4:418]
 
 De lärde har olika åsikter om det är tillåtet att bära Koran-amuletter. Det korrekta utlåtandet är att det inte är tillåtet. Detta av två anledningar:
 

@@ -12,7 +12,7 @@ description: 'Fråga: Min mor avled då jag var mycket ung och jag har hyrt en p
  ung. Jag kände ingen av dem. Jag har dock...'
 ---
 
-**Fråga:** Min mor avled då jag var mycket ung och jag har hyrt en pålitlig person till att vallfärda för hennes räkning. Även min far avled då jag var mycket ung. Jag kände ingen av dem. Jag har dock hört från några av mina släktingar att han har utfört gjort. Är det tillåtet att jag hyr någon till att vallfärda för min mor eller behöver jag utföra den själv? Gällande min fader, bör jag vallfärda för honom då jag har hört att han redan har utfört den? Jag hoppas på ett bra svar.
+**Fråga:** Min mor avled då jag var mycket ung och jag har hyrt en pålitlig person till att vallfärda för hennes räkning. Även min far avled då jag var mycket ung. Jag kände ingen av dem. Jag har dock hört från några av mina släktingar att han har utfört det. Är det tillåtet att jag hyr någon till att vallfärda för min mor eller behöver jag utföra den själv? Gällande min fader, bör jag vallfärda för honom då jag har hört att han redan har utfört den? Jag hoppas på ett bra svar.
 
 **Svar:** Om du själv vallfärdar för deras räkning och anstränger dig för att utföra den på det sätt som den islamiska lagen föreskriver, då är det bäst.
 

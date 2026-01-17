@@ -15,7 +15,7 @@ description: 'Fråga: En kvinna säger: ”Min mor befinner sig i Marocko och ja
 
 **Fråga:** En kvinna säger: ”Min mor befinner sig i Marocko och jag jobbar i Saudiarabien. Jag vill att hon ska komma hit för att hon ska kunna göra den obligatoriska vallfärden. Hon har dock ingen mahram[^1] då min far har dött och mina bröder inte har möjlighet att vallfärda.”
 
-**Svar:** Hor får inte vallfärda ensam då profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*En kvinna reser inte utom med hennes mahram[^1]*.”
+**Svar:** Hon får inte vallfärda ensam då profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*En kvinna reser inte utom med sin mahram[^1]*.”
 
 Profeten – över honom vare Allāhs frid och välsignelser – sade detta då han talade till folket. En man stod då upp och sade: ”*Allāhs sändebud! Sannerligen har min fru gett sig av på vallfärd och jag har värvats för den-och-den expeditionen*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Gå då och vallfärda med din fru*.” [*al-Bukhārī* 1862 och *Muslim* 1341]
 

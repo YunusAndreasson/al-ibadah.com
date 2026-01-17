@@ -18,9 +18,9 @@ description: 'Fråga: En man gick in i moskén för att be sunnah -bönen innan 
 
 Vissa lärda anser att han bör fullfölja den snabbt. De baserar det på Allāhs ord: ”*Troende! Lyd Gud och lyd Sändebudet och låt inte era [goda] handlingar gå förlorade!*” [Koranen 47:33]
 
-De tolkar den ovan nämnda hadithen som att den syftar på den som har börjat *sunnah[^1]*-bönen efter *iqāmah[^5]*. Den korrekta åsikten är dock det första uttalandet. Den *hadīth[^6]* som nämnts täcker ju båda situationerna. Andra *ahādīth[^6]* har rapporterats som visar att detta är generellt och att han sade detta då han såg en man be medan böneutroparen ropade ut *iqāmah[^5]*.
+De tolkar den ovan nämnda *hadithen* som att den syftar på den som har börjat *sunnah[^1]*-bönen efter *iqāmah[^5]*. Den korrekta åsikten är dock det första uttalandet. Den *hadīth[^6]* som nämnts täcker ju båda situationerna. Andra *ahādīth[^6]* har rapporterats som visar att detta är generellt och att han sade detta då han såg en man be medan böneutroparen ropade ut *iqāmah[^5]*.
 
-Koranversen är generell och hadithen är specifik. Utan att motsäga det väger det specifika tyngre än det generella, vilket är känt från *usulul-fiqh[^7]* [Grunderna i islamisk rättsvetenskap] och *mustalatul-hadīth[^6]* [Tekniskt språkbruk i *hadīth[^6]*].
+Koranversen är generell och *hadithen* är specifik. Utan att motsäga det väger det specifika tyngre än det generella, vilket är känt från *usulul-fiqh[^7]* [Grunderna i islamisk rättsvetenskap] och *mustalatul-hadīth[^6]* [Tekniskt språkbruk i *hadīth[^6]*].
 
 Men om bönen börjar och man redan har utfört en andra bönecykel, då syndar man inte om man fullföljer den. Bönen är ju nästan över och det återstår endast en liten del av denna bönecykel.
 

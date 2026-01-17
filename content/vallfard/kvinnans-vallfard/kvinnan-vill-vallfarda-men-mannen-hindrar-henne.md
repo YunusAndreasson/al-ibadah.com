@@ -16,7 +16,7 @@ description: 'Fråga: Jag är en äldre förmögen kvinna och jag har mer än en
 
 **Svar:** Då vallfärden är en skyldighet när villkoren för den uppfylls och denna kvinna är tillräknelig samt att hon har en mahram[^1], då måste hon vallfärda så fort som möjligt. Hennes man får inte förbjuda henne utan anledning.
 
-I situationen som har nämnts får hon vallfärda tillsammans med hennes broder, även om maken inte samtycker. Detta beror på att det är en skyldighet, precis om det är skyldighet att be eller fasta. Allāhs rätt förtjänar mer att bli uppfylld först och denne man som, utan anledning, hindrar sin fru från att göra den obligatoriska vallfärden har ingen rätt.
+I situationen som har nämnts får hon vallfärda tillsammans med sin broder, även om maken inte samtycker. Detta beror på att det är en skyldighet, precis om det är skyldighet att be eller fasta. Allāhs rätt förtjänar mer att bli uppfylld först och denne man som, utan anledning, hindrar sin fru från att göra den obligatoriska vallfärden har ingen rätt.
 
 Och Allāh är Den som ger framgång och vägleder till den rätta vägen.
 

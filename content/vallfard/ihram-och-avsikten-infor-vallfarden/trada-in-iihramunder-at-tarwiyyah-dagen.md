@@ -14,7 +14,7 @@ description: 'Fråga: Varifrån träder en pilgrim in i ihrām under at-tarwiyya
 
 **Fråga:** Varifrån träder en pilgrim in i *ihrām[^1]* under *at-tarwiyyah*-dagen?
 
-**Svar:** Han går in i *ihrām[^1]* i sin bostad. På profetens – över honom vare Allāhs frid och välsignelser – order trädde följeslagarna på detta sätt in i *ihrām[^1]* i deras bostäder i al-Abtah. Detta skedde under profetens – över honom vare Allāhs frid och välsignelser – sista vallfärd.
+**Svar:** Han går in i *ihrām[^1]* i sin bostad. På profetens – över honom vare Allāhs frid och välsignelser – order trädde följeslagarna på detta sätt in i *ihrām[^1]* i sina bostäder i al-Abtah. Detta skedde under profetens – över honom vare Allāhs frid och välsignelser – sista vallfärd.
 
 På samma sätt träder den som bor i Mecka in i *ihrām[^1]* i sin bostad. Detta med anledning av den *hadīth[^2]* från Ibn ‘Abbās som har nämnts tidigare där profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Och dem som är inom det [vilket innebär inom gränserna för mawaqit] då är hans plats för att träda in i *ihrām[^1]* hos hans folk [hans hem]. Likaså går invånarna i Mecka in i *ihrām[^1]* i Mecka*.” [*al-Bukhārī* 1526 och *Muslim* 1181]
 

@@ -19,11 +19,11 @@ description: 'Fråga: Att söka Allāhs närhet genom att slakta får vid de rä
 
 > ”Säg: 'Min bön och all min andakt, mitt liv och min död tillhör Gud, världarnas Herre. Han som inte har någon vid Sin sida; till detta har jag kallats och jag är den förste av dem som har underkastat sig Guds vilja.” [Koranen 6:162 – 163]
 
-Allāh den Upphöjde klargör i denna vers att offer till någon annan än Honom är shirk[^1], precis som det är att förrätta bönen för någon annan Honom. Allāh den Upphöjde säger:
+Allāh den Upphöjde klargör i denna vers att offer till någon annan än Honom är *shirk[^1]*, precis som det är att förrätta bönen för någon annan Honom. Allāh den Upphöjde säger:
 
 > ”Vi har sannerligen gett dig det goda i överflöd! Be därför till din Herre och förrätta [ditt] offer!” [Koranen 108:1 – 2]
 
-I denna sura lär Allāh – upphöjd är Han – Sin Profet att [han ska] be och offra till Honom. Detta står i motsats till de som begått shirk[^1], som ber och slaktar för andra än Allāh. Allāh den Upphöjde säger:
+I denna sura lär Allāh – upphöjd är Han – Sin Profet att [han ska] be och offra till Honom. Detta står i motsats till de som begått *shirk[^1]*, som ber och slaktar för andra än Allāh. Allāh den Upphöjde säger:
 
 > ”Er Herre har befallt, att ni inte ska dyrka någon annan än Honom.” [Koranen 17:23]
 >
@@ -36,7 +36,7 @@ Det finns många verser som förmedlar denna mening.
 
 Då offer är en dyrkan så måste den uppriktigt tillägnas Allāh. Imam Muslim återberättar i sin Sahīh att de troendes befälhavare, ´Alī, har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Allāh förbannar den som offrar till andra än Honom*.” [*Muslim* 1978]
 
-När det gäller dem som säger: ”*Jag besvärjer Allāh vid Hans älskade troendes rätt, vid Hans älskade troendes heder, vid profetens – över honom vare Allāhs frid och välsignelser – rätt eller vid hans heder*.” Sådana besvärjelser är inte shirk[^1], men enligt de lärde är det en innovation. De anser också att detta är medel för, därför att en åkallan[^2] är en dyrkan och sättet det bör göras på är inte något som det går att ja olika åsikter om. Det finns inga bevis från profeten – över honom vare Allāhs frid och välsignelser – för att han har tillåtit besvärjelser vid någon människas rätt eller heder.
+När det gäller dem som säger: ”*Jag besvärjer Allāh vid Hans älskade troendes rätt, vid Hans älskade troendes heder, vid profetens – över honom vare Allāhs frid och välsignelser – rätt eller vid hans heder*.” Sådana besvärjelser är inte *shirk[^1]*, men enligt de lärde är det en innovation. De anser också att detta är medel för, därför att en åkallan[^2] är en dyrkan och sättet det bör göras på är inte något som det går att ja olika åsikter om. Det finns inga bevis från profeten – över honom vare Allāhs frid och välsignelser – för att han har tillåtit besvärjelser vid någon människas rätt eller heder.
 
 Därmed får muslimer inte uppfinna en typ av tawassul[^5] som Allāh den Upphöjde inte har tillåtit. Allāh den Upphöjde säger:
 

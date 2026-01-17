@@ -15,5 +15,5 @@ description: 'Fråga: Både min mor och mina båda systrar utsåg mig till att k
 
 **Fråga:** Både min mor och mina båda systrar utsåg mig till att kasta stenarna på pelarna åt dem och anledningen var att de var rädda för trängseln, är detta då korrekt? Må Allāh belöna er med gott.
 
-**Svar:** Att utse någon annan [till att kasta stenarna är giltigt] om kvinnan inte har möjlighet att kasta stenarna, med anledning av trängsel, om hon är sjuk eller om de finns någon annan godkänd och föreskriven anledning.
+**Svar:** Att utse någon annan [till att kasta stenarna är giltigt] om kvinnan inte har möjlighet att kasta stenarna, med anledning av trängsel, om hon är sjuk eller om det finns någon annan godkänd och föreskriven anledning.
 

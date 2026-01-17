@@ -14,7 +14,7 @@ description: 'Fråga: Den troende kommer att ställas till svars på Återuppst�
 
 **Fråga:** Den troende kommer att ställas till svars på Återuppståndelsens Dag; om vad denne har gjort är bra, då får denne ta emot gott och om det är ont, då får denne ta emot ont. Men hur kommer den icke-troende att ställas till svars då denne inte har samma skyldigheter som den troende?
 
-**Svar:** Denna fråga beror på en felaktig förståelse. Den icke-troende har samma skyldigheter som den troende, med den icke-troende följer inte dem i detta livet. Beviset för att den icke-troende ställs till ansvar på samma sätt är Allāhs ord:
+**Svar:** Denna fråga beror på en felaktig förståelse. Den icke-troende har samma skyldigheter som den troende, men den icke-troende följer inte dem i detta livet. Beviset för att den icke-troende ställs till ansvar på samma sätt är Allāhs ord:
 
 > ”[Påminnelsen om domen och helveteselden] är förvisso ett av de mäktiga [varningstecken] som varnar människorna, både dem av er som vill gå i främsta ledet och dem som [tvekar och] blir efter. Var och en ska ställas till svars för vad han har gjort utom de rättfärdiga som hör till den högra sidan [och som där de vilar] i [paradisets] lustgårdar, ska förhöra sig om [de dömda] syndarna [och fråga]: 'Vad förde er till helveteselden?' De ska svara: 'Vi hörde inte till dem som bad och vi gav inte heller den nödställde att äta och vi ägnade oss med [andra] likasinnade åt tomt och respektlöst tal [om höga ting] och påstod att Domens dag var en lögn – till dess vi fick visshet.' Då ska medlarnas förböner inte vara dem till någon nytta.” [Koranen 74:39 – 46]
 

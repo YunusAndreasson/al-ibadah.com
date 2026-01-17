@@ -15,7 +15,7 @@ description: 'Fråga: Hur såg salaf – må Allāh vara nöjda med dem – på 
 
 **Fråga:** Hur såg *salaf[^1]* – må Allāh vara nöjda med dem – på Allāh den Upphöjdes ‘uluww [höghet]? Vilket är utlåtandet om de som säger att Han inte befinner sig inom de sex riktningarna [upp, ned, vänster, höger, bak och fram] och att Han finns i de troendes hjärtan?
 
-**Svar:** Salaf[^1] s tro är att Allāh den Upphöjde är ovan Hans skapelse. Allāh den Upphöjde har sagt:
+**Svar:** *Salaf[^1]*s tro är att Allāh den Upphöjde är ovan Hans skapelse. Allāh den Upphöjde har sagt:
 
 > ”Om ni då råkar i tvist om något, överlåt då avgörandet åt Gud och Sändebudet, om ni tror på Gud och den yttersta dagen. Detta är bäst och det [gynnar] en riktig och lycklig utgång.” [Koranen 4:59]
 >

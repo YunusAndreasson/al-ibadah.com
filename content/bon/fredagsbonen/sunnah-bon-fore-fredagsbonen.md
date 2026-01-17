@@ -12,7 +12,7 @@ description: 'Fråga: Finns det någon sunnah-bön före eller efter fredagsbön
  ingen bön som är fast sunnah för...'
 ---
 
-**Fråga:** Finns det någon sunnah[^1]-bön före eller efter fredagsbönen?
+**Fråga:** Finns det någon *sunnah[^1]*-bön före eller efter fredagsbönen?
 
 **Svar:** All lovprisan tillhör Allāh. Enligt den korrektare av de lärdes båda åsikter finns det ingen bön som är fast *sunnah[^1]* före fredagsbönen. Det är föreskrivet att en muslim ber vad denne kan be när denne kommer till moskén och säger *salām* efter varje två bönecykler[^2]. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Nattens och dagens böner [utöver de obligatoriska bönerna] är två och två*.” [Återberättad av imam Ahmad och författarna av *Sunan* med en berättarkedja som är *hasan*. Originalet finns i *al-Sahīh* men utan att dagen nämns].
 

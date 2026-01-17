@@ -14,7 +14,7 @@ description: '[Vad tar en ur islam?] Sätta medhjälpare vid Allāhs sida [shirk
 
 [Vad tar en ur islam?]
 
-1. Sätta medhjälpare vid Allāhs sida [shirk[^1]]. Allāh den Upphöjde säger: ”Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden ska bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [Koranen 5:72]
+1. Sätta medhjälpare vid Allāhs sida [*shirk[^1]*]. Allāh den Upphöjde säger: ”Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden ska bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [Koranen 5:72]
 
 Att åkalla de döda genom att be dem om hjälp eller ge dem gåvor är *shirk[^1]*.
 2. Sätta upp medlare mellan sig själv och Allāh, åkalla dem och be dem medla inför Allāh.

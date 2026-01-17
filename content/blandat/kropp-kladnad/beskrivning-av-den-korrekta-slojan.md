@@ -36,7 +36,7 @@ Det finns även stöd att hämta i den *hadīth[^3]* i vilken profeten – över
 
 Ibn 'Abd al-Barr sade:
 
-> “Vad profeten – över honom are Allāhs frid och välsignelser – menade var kvinnor som bär kläder gjorda av ett tunt tyg som visar kroppen utan att täcka. De är klädda till ordets betydelse, men egentligen nakna.” [al-Suyūti in Tanwīr al-Hawālik, 3/103.]
+> "Vad profeten – över honom vare Allāhs frid och välsignelser – menade var kvinnor som bär kläder gjorda av ett tunt tyg som visar kroppen utan att täcka. De är klädda till ordets betydelse, men egentligen nakna.” [al-Suyūti in Tanwīr al-Hawālik, 3/103.]
 
 4. Den bör sitta löst och inte åtsittande så att den beskriver någon del av kroppen. Meningen med klädseln är att hindra frestelser. Detta kan endast uppnås om kläderna är vida och löst sittande. Även om åtsittande kläder döljer hudens färg visar de fortfarande både kroppens mått och form. Samtidigt skapar de en levande fantasi hos män. Det fördärv eller den inbjudan till fördärv som här innebor är uppenbar. Således måste kläderna vara vida. Usāmah ibn Zayd har sagt: “Allāhs sändebud gav mig ett kraftigt egyptiskt klädesplagg som han fått i gåva från Duhyat al-Kalbi. Jag gav det till min fru att bära. Han sade: 'Varför ser jag dig inte bära det egyptiska plagget?' Jag svarade: 'Jag gav det till min fru att bära.' Han svarade: 'Säg åt henne att bära en klänning under den, för jag är rädd att den kan visa måtten på hennes ben.'” [al-Adādīth al-Mukhtārah 1/442 och Ahmad]
 

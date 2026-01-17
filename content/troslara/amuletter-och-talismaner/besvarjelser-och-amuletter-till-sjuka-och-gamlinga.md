@@ -22,9 +22,9 @@ De lärde är eniga om att besvärjelser är tillåtna under förutsättning att
 
 Det är i stället *shirk[^3]* enligt en *hadīth[^4]* som imam Ahmad har återberättat, i vilken ’Imrān bin Husain rapporterar att profeten – över honom vare Allāhs frid och välsignelser – såg en man bära en kopparring på sin arm, och han frågade honom: ”*Vad är det?*” Han svarade: ”*Jag bär den mot svaghet*.” Profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Ta bort den! Den kommer enbart att göra dig ännu svagare och om du skulle dö när du bär den, skulle du aldrig bli framgångsrik.*” [*Ibn Mājah* 3351 och *Ahmad* 4:445]
 
-I en annan version återgiven av Ahmad säger profeten: ”*Den som bär en amulett begår shirk[^3]*.” [*Ahmad* 4:154, *Abū Ya'la* 1759 och *al-Hakim* 4:417]
+I en annan version återgiven av Ahmad säger profeten: ”*Den som bär en amulett begår shirk[^3]*." [*Ahmad* 4:154, *Abū Ya'la* 1759 och *al-Hakim* 4:417]
 
-Bland andra Ahmad har också återgivit att Ibn Mas'ūd har sagt: ”*Jag hörde Allāhs sändebud säga: 'Sannerligen är besvärjelser, amuletter och tiwalah[^5] [magi som används för att skapa kärlek] shirk[^3]*.” [*Abū Dawūd* 3883, *Ahmad* 1:381 och *al-Hakim* 4:418]
+Bland andra Ahmad har också återgivit att Ibn Mas'ūd har sagt: ”*Jag hörde Allāhs sändebud säga: 'Sannerligen är besvärjelser, amuletter och tiwalah[^5] [magi som används för att skapa kärlek] shirk[^3]*." [*Abū Dawūd* 3883, *Ahmad* 1:381 och *al-Hakim* 4:418]
 
 Om den burna amuletten innehåller ord från Koranen, då är det förbjudet enligt den starkaste åsikten. Anledningarna till detta är tre:
 

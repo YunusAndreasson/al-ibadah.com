@@ -18,7 +18,7 @@ description: 'Fråga: Vilket är utlåtandet om tarāwīh -bönen och hur många
 
 Antalet bönecykler[^1] är elva enligt vad som har återgivits i *Sahīh al-Bukhārī* och *Sahīh Muslim* från 'A’ishah. Hon fick frågan hur profetens – över honom vare Allāhs frid och välsignelser – bön var under ramadan[^3] och hon sade: ”*Han bad inte mer än elva bönecykler[^1], varken under ramadan[^3] eller under någon annan månad*.” [*al-Bukhārī* 1147]
 
-Om någon ber tretton bönecykler[^1] finns det ingen invändan mot det, enligt vad Ibn ‘Abbās har sagt: ”*profetens – över honom vare Allāhs frid och välsignelser – bön var tretton bönecykler[^1], det gäller nattbönen*.” [*al-Bukhārī* 1138 och *Muslim* 764]
+Om någon ber tretton bönecykler[^1] finns det ingen invändan mot det, enligt vad Ibn 'Abbās har sagt: "*Profetens – över honom vare Allāhs frid och välsignelser – bön var tretton bönecykler[^1], det gäller nattbönen*.” [*al-Bukhārī* 1138 och *Muslim* 764]
 
 Elva bönecykler[^1] har bekräftats från ´Umar bin al-Khattab och återgivits i imam Māliks *al-Muwatta'* med en rapportörskedja som är en av de mest autentiska. [*al-Muwatta'* 280]
 
@@ -28,7 +28,7 @@ Ett antal olika varianter har rapporterats från *salaf[^4]* – må Allāh vara
 
 Det har inte rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att han eller någon av kaliferna bad 23. Det som i stället har bekräftats från ‘Umar – må Allāh vara nöjd med honom – är att han bad elva bönecykler[^1] då han beordrade Ubayy bin Ka'b och Tamin ad-Dari att stå med folket och be elva bönecykler[^1]. [*Mālik* 280]
 
-Detta är vad någon som ‘Umar – må Allāh vara nöjd med honom – har ansett vara rätt. Hans sätt i denna fråga är samma som Allāhs sändebud – över honom vare Allāhs frid.
+Detta är vad någon som ‘Umar – må Allāh vara nöjd med honom – har ansett vara rätt. Hans sätt i denna fråga är samma som Allāhs sändebud – över honom vare Allāhs frid och välsignelser.
 
 Vi känner inte till att några av följeslagarna bad mer än 23 bönecykler[^1] utan det som står klart är motsatsen. Vi har redan nämnt vad ‘A’ishah – må Allāh vara nöjd med henne – sagt: ”*Han bad inte mer än elva bönecykler[^1], varken under ramadan[^3] eller någon annan månad*.”
 

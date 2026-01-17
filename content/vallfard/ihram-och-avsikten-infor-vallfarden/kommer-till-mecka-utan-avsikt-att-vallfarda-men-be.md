@@ -13,7 +13,7 @@ description: 'Fråga: Vad gäller dem som kommer till Mecka för att arbeta elle
  deras bostäder [i Mecka] eller beger de si...'
 ---
 
-**Fråga:** Vad gäller dem som kommer till Mecka för att arbeta eller göra något annat viktigt och sedan får möjlighet att vallfärda? Träder de in i *ihrām[^1]* i deras bostäder [i Mecka] eller beger de sig till området utanför Helgedomen?
+**Fråga:** Vad gäller dem som kommer till Mecka för att arbeta eller göra något annat viktigt och sedan får möjlighet att vallfärda? Träder de in i *ihrām[^1]* i sina bostäder [i Mecka] eller beger de sig till området utanför Helgedomen?
 
 **Svar:** Om han kommer till Mecka och inte avser att utföra vallfärden eller *‘umrah[^2]*, utan endast kommer för att besöka en släkting eller sjukling, men sedan bestämmer sig för att utföra vallfärden eller *´umrah[^2]*, då träder han in i *ihrām[^1]* för vallfärden i bostaden. Det är ingen skillnad om han befinner sig i Mecka eller i dess utkanter.
 

@@ -24,7 +24,7 @@ Den obligatoriska delen av tvagningen[^1]
 
 Det som avses med ”en gång” är att kroppsdelen tvättas grundligt.
 5. Detta måste göras i ordningsfölj så att man tvättar ansiktet först, sedan armarna, sedan stryker över huvudet och sedan tvättar fötterna. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – gjorde tvagningen[^1] på detta sätt.
-6. Allt måste utföras samtidigt, det vill säga. varje kroppsdel måste tvättas en efter en utan några längre avbrott mellan tvätten av varje del.
+6. Allt måste utföras samtidigt, det vill säga att varje kroppsdel måste tvättas en efter en utan några längre avbrott mellan tvätten av varje del.
 
 Detta är de obligatoriska delarna av tvagningen[^1] som måste utföras för att den ska vara fullgod. Bevisen för dessa obligatoriska delar av tvagningen[^1] är koranversen i vilken Allāh säger:
 

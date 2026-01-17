@@ -14,7 +14,7 @@ description: 'Fråga: Vad är föreskrivet för den som vill vallfärda och gör
 
 **Fråga:** Vad är föreskrivet för den som vill vallfärda och göra *‘umrah[^1]*?
 
-**Svar:** Den som bestämmer sig för att ge sig ut på en lång resa för att vallfärda, eller någon annan resa, måste betala av sina nuvarande skulder eller söka tillstånd hos dem som denne är skyldig, om denne vet att de är angelägna och oroliga över att få tillbaka deras pengar.
+**Svar:** Den som bestämmer sig för att ge sig ut på en lång resa för att vallfärda, eller någon annan resa, måste betala av sina nuvarande skulder eller söka tillstånd hos dem som denne är skyldig, om denne vet att de är angelägna och oroliga över att få tillbaka sina pengar.
 
 Sedan bör denne skriva ned sitt testamente, vad än han är ansvarig för och hans tillgångar eller vad han än kan tänkas äga.
 

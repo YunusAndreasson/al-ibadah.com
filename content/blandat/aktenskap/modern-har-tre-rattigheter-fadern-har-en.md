@@ -8,11 +8,11 @@ categories:
   - Äktenskap
 original_id: 1688
 description: 'Fråga: Varför favoriserade Allāh den Allsmäktige modern över fadern
- när Allāhs sändebud – över honom vare Allāh frid och välsignelser – uttryckte hennes
+ när Allāhs sändebud – över honom vare Allāhs frid och välsignelser – uttryckte hennes
  rätt tre gånger men faderns bara en? Svar...'
 ---
 
-**Fråga:** Varför favoriserade Allāh den Allsmäktige modern över fadern när Allāhs sändebud – över honom vare Allāh frid och välsignelser – uttryckte hennes rätt tre gånger men faderns bara en?
+**Fråga:** Varför favoriserade Allāh den Allsmäktige modern över fadern när Allāhs sändebud – över honom vare Allāhs frid och välsignelser – uttryckte hennes rätt tre gånger men faderns bara en?
 
 **Svar:** Det har bekräftats i Sahīh att Abu Hurairah rapporterat att en man en gång kom till Allāhs sändebud – över honom vare Allāhs frid och välsignelser – och sade: ”Vem har störst rätt till att få mitt goda sällskap?” Han svarade: ”Din moder.” Sedan vem?” ”Din moder.” ”Sedan vem?” Profeten svarade igen: ”Din moder.” Mannen frågade en fjärde gång: ”Sedan vem?” Denna gång svarade han: ”Din fader.” [al-Bukhārī 5971 och Muslim 2548]
 

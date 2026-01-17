@@ -14,7 +14,7 @@ description: 'Fråga: Bör Allāhs tjänare lägga armarna på bröstet när de 
 
 **Fråga:** Bör Allāhs tjänare lägga armarna på bröstet när de har rest sig upp från bugningen[^1]? I en viss moské är vi oeniga om detta. Vänligen, ge oss ett korrekt utlåtande.
 
-**Svar:** Autentiska *ahādīth[^2]* från Allāhs sändebud, likt de från Sahl bin Sa'd, Wa'il bin Hujr och andra, visar att Allāhs tjänare får lägga höger hand över den vänstra när han har rest sig upp från bugningen[^1]. Detta gäller både för momenten där han står innan bugningen[^1] och när han har rest sig upp från den. I vissa av haditherna finns det bevis för att det är bättre att lägga dem på bröstet. Enligt de autentiska *ahādīth[^2]* som har nämnts tidigare är detta något som man har valmöjlighet att göra.
+**Svar:** Autentiska *ahādīth[^2]* från Allāhs sändebud, likt de från Sahl bin Sa'd, Wa'il bin Hujr och andra, visar att Allāhs tjänare får lägga höger hand över den vänstra när han har rest sig upp från bugningen[^1]. Detta gäller både för momenten där han står innan bugningen[^1] och när han har rest sig upp från den. I vissa av *hadītherna*[^2] finns det bevis för att det är bättre att lägga dem på bröstet. Enligt de autentiska *ahādīth[^2]* som har nämnts tidigare är detta något som man har valmöjlighet att göra.
 
 Vi känner inte till några bevis som stödjer att man kan hålla ned händerna. Vi har skrivit mycket om detta ämne i tidningar och i andra publikationer. Vi ska dock vara medvetna om att detta inte är en fråga som ska orsaka splittring i det muslimska samfundet.
 

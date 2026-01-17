@@ -23,7 +23,7 @@ Detta är skapade ting.
 
 Skulle frågeställaren fråga mig: Vilken är visdomen i skapelsen av kamelen, hästen, åsnan eller människan i deras specifika former, eller om han skulle fråga: Vilken är visdomen i att Allāh har gjort middagsbönen[^1], eftermiddagsbönen[^2] och kvällsbönen[^3] till fyra böneenheter och liknande frågor – då kan vi inte känna till visdomen i det. En frågeställare skulle kunna fråga: Varför är de inte åtta eller sex? Därmed ser vi att visdomen i många frågor som rör skapade ting och även mycket som har med den islamiska lagen att göra är dolda för oss. När vi har insett detta, då kan vi säga att i försöka förstå visdomen i varje skapelse eller föreskrift – om Allāh låter oss uppnå den – så bör vi anse det som en extra gåva, kunskap och godhet. Om vi inte finner den, då saknar vi ingenting.
 
-För att återvända till frågan om de hedervärda antecknarna som känner till allt som vi gör. Visdomen i detta är att Allāh den Härlige, den Upphöjde har påbjudit alla ting och föreskrivet allting till perfektion, även de hedervärda antecknarna som skriver ned allt som Adams söner gör, även om Han den Härlige, den Upphöjde vet vad de kommer att göra innan de gör det. detta beror på Hans perfekta omtanke och uppmärksamhet över människosläktet.
+För att återvända till frågan om de hedervärda antecknarna som känner till allt som vi gör. Visdomen i detta är att Allāh den Härlige, den Upphöjde har påbjudit alla ting och föreskrivet allting till perfektion, även de hedervärda antecknarna som skriver ned allt som Adams söner gör, även om Han den Härlige, den Upphöjde vet vad de kommer att göra innan de gör det. Detta beror på Hans perfekta omtanke och uppmärksamhet över människosläktet.
 
 Och Allāh vet bäst.
 

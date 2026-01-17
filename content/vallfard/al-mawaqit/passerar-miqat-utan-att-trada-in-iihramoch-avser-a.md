@@ -39,7 +39,7 @@ Anländer denne landvägen bör denne stanna vid dem om denne i sin färdväg pa
 
 Anländer denne sjövägen och om fartyget stannar när det är i linje med *mīqāt[^3]*, då bör denne göra *ghusl[^4]* och ta på sig parfym och *ihrām[^2]*-kläderna när fartyget stannar och innan det åter har startat. Om fartyget inte stannar när det kommer i linje med *mīqāt[^3]* bör denne göra *ghusl[^4]*, ta på sig parfym och plaggen för *ihrām[^2]* och träda in i *ihrām[^2]* när denne kommer i linje med *mīqāt[^3]*.
 
-Anländer denne med flyg bör göra denne *ghusl[^4]* innan ombordstigandet på planet och ta på sig parfym samt plaggen för *ihrām[^2]* innan planet kommer i linje med *mīqāt[^3]*. Denne träder sedan in i *ihrām[^2]* precis innan planet kommer i linje med *mīqāt[^3]*. Denne bör inte vänta tills denne precis är i linje. Planet rör sig ju snabbt och det kommer inte att vara möjlighet. Träder denne in i *ihrām[^2]* innan för att vara på den säkra sidan, då är det inte fel.
+Anländer denne med flyg bör denne göra *ghusl[^4]* innan ombordstigandet på planet och ta på sig parfym samt plaggen för *ihrām[^2]* innan planet kommer i linje med *mīqāt[^3]*. Denne träder sedan in i *ihrām[^2]* precis innan planet kommer i linje med *mīqāt[^3]*. Denne bör inte vänta tills denne precis är i linje. Planet rör sig ju snabbt och det kommer inte att vara möjlighet. Träder denne in i *ihrām[^2]* innan för att vara på den säkra sidan, då är det inte fel.
 
 [^1]: Den lilla vallfärden.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

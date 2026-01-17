@@ -33,7 +33,7 @@ Detta är magi, spådom och förutsägelse. De rena islamiska lagen avvisar dett
 
 > ”Och deras trolldom gjorde sådan verkan att han tyckte sig se att deras rep och stavar verkligen rörde sig.” [Koranen 20:66]
 
-De förenade synderna i magi, trolldom, spådom, större shirk[^7], sökande av hjälp från andra än Honom, påstående om kunskap om det som är dolt för människor[^3] och innehav av kraft över skapelsen. Detta är fyllt med större *shirk[^7]* och tydlig otro, och det är något som trollkarlar gör. Allāh den Allsmäktige har förbjudit detta då de påstår sig känna till det som är dolt för människor[^3] och som ingen känner till utom Allāh. Han den Upphöjde säger:
+De förenade synderna i magi, trolldom, spådom, större *shirk[^7]*, sökande av hjälp från andra än Honom, påstående om kunskap om det som är dolt för människor[^3] och innehav av kraft över skapelsen. Detta är fyllt med större *shirk[^7]* och tydlig otro, och det är något som trollkarlar gör. Allāh den Allsmäktige har förbjudit detta då de påstår sig känna till det som är dolt för människor[^3] och som ingen känner till utom Allāh. Han den Upphöjde säger:
 
 > ”Säg: 'Ingen i himlarna eller på jorden har kunskap om det som är dolt för människor[^3] – [ingen har denna kunskap] utom Gud.'” [Koranen 27:65]
 

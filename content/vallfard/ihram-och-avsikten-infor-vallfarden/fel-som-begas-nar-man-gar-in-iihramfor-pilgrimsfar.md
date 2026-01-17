@@ -21,7 +21,7 @@ Vissa tror att de måste träda in i *ihrām[^1]* vid den Heliga Moskén och du 
 
 Vissa pilgrimer tror att det inte är lämpligt att träda in i *ihrām[^1]* i de klädesplagg som de bar när de gick in i *ihrām[^1]* för *´umrah[^2]* om de inte tvättar dem först. Även detta är ett misstag då plaggen för *ihrām[^1]* varken behöver vara nya eller rena. Det är sant att det är bättre desto renare de är, men att säga att de inte är giltiga för *ihrām[^1]* då de har burits i *ihrām[^1]* under *´umrah[^2]* är inte rätt.
 
-Detta är vad som kan nämnas om de misstag som vissa pilgrimer begår när det går in i *ihrām[^1]* för pilgrimsfärden.
+Detta är vad som kan nämnas om de misstag som vissa pilgrimer begår när de går in i *ihrām[^1]* för pilgrimsfärden.
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.

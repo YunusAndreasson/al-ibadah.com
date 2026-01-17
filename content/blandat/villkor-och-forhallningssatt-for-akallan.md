@@ -19,7 +19,7 @@ Det har rapporterats att Allāhs sändebud sagt att åkallan[^1] är dyrkan och 
 
 Allāh den Allsmäktige glömmer aldrig en person som åkallar[^1] Honom. Dock har åkallan[^1] vissa villkor som måste uppfyllas och vissa förhållningssätt som måste följas. Den som åkallar[^1] måste när han gör det tro att han är i behov av sin Herre och att han själv inte har någon förmåga att orsaka sig själv nytta eller att skada – förutom genom Allāhs vilja. Han måste tro på hans Herres perfekta nåd, välgörande, generositet och vilja. Han får inte tvivla på att han kommer att besvaras utan han måste vara hopp- och tillitsfull om att få ta emot något bra.
 
-Ett annat villkor är att man inte bryter mot åkallan[^1] s gränser och ber Allāh om något som inte är möjligt.
+Ett annat villkor är att man inte bryter mot åkallans gränser och ber Allāh om något som inte är möjligt.
 
 Bland vad som är etikett för åkallan[^1] är att man inte ber om det som inte är tillåtet; den troende ber därför inte om en synd eller om något som förstör vänskapsband.
 

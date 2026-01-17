@@ -14,7 +14,7 @@ description: 'Fråga: Efter fredagsbönen berättade imamen för oss ”att när
 
 **Fråga:** Efter fredagsbönen berättade imamen för oss ”att när vi gjort *iqāmah[^1]* bör vi inte läsa någon åkallan[^2] som inte har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – och det finns ingenting i Allāhs skrift eller i profetens – över honom vare Allāhs frid och välsignelser – sunnah[^3]. När *mu'aththin* nämner Allāh i *iqāmah[^1]*, då bör även du nämna Allāh och vara tyst till imamen säger: ’*Allāhu akbar*’ [tills han börjar bönen].” Nu för tiden har folket struntat i imamens ord. Vi ber om ett snabbt råd för att vi ska bli försäkrade.
 
-**Svar:** profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]* säger att den som hör *iqāmah[^1]* bör säga vad den som gör *iqāmah[^1]* säger. Anledningen är att den är känd som det ”andra böneutropet” och därför bör den besvaras på samma sätt som det första böneutropet.
+**Svar:** Profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]* säger att den som hör *iqāmah[^1]* bör säga vad den som gör *iqāmah[^1]* säger. Anledningen är att den är känd som det ”andra böneutropet” och därför bör den besvaras på samma sätt som det första böneutropet.
 
 När den som gör *iqāmah[^1]* säger: ”*Hayya 'alas-salāh, hayya 'alal-falah*” [skynda till bönen, skynda till framgång], då ska den som lyssnar säga: ”*La hawla wa la quwwata illa Billāh*” [det finns ingen kraft och ingen styrka utom i Allāh]. Och när han [som säger *iqāmah[^1]*] säger: ”*Qad qamatis-salāh, qad-qamatis-salāh*” [bönen börjar, bönen börjar] bör den som lyssnar säga samma sak och inte säga: ”*aqamahAllāh wa adamah*” [Allāh har etablerat den och gjort den evig] då detta grundas på en svag *hadīth[^4]*.
 

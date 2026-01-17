@@ -19,7 +19,7 @@ description: 'Fråga: Jag har sett en del unga muslimer fasta men de ber inte. A
 
 > ”Om de hade satt medhjälpare vid Hans sida skulle helt visst allt vad de åstadkommit ha gått om intet.” [Koranen 6:88]
 
-Denne bör dock inte beordras att överge fastan. Detta beror på att dennes fasta endast kommer att göra honom eller henne bättre och det innebär ett närmande mot religionen. Det finns även hopp om att rädslan i dennes hjärta kommer att leda denne till att denne ber och ångra sig för att ha övergivit den.
+Denne bör dock inte beordras att överge fastan. Detta beror på att dennes fasta endast kommer att göra honom eller henne bättre och det innebär ett närmande mot religionen. Det finns även hopp om att rädslan i dennes hjärta kommer att leda denne till att be och ångra sig för att ha övergivit den.
 
 Och framgång kommer från Allāh. Må Allāh sända välsignelser och frid över vår profet Muḥammad, hans familj och hans följeslagare.
 

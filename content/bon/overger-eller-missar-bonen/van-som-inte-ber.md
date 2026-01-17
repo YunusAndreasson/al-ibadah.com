@@ -14,7 +14,7 @@ description: 'Fråga: Jag har en vän som är mig mycket kär och som har en myc
 
 **Fråga:** Jag har en vän som är mig mycket kär och som har en mycket hög och ädel karaktär. Hans problem är dock att han inte ber. Som jag har sagt älskar jag honom för hans goda sätt. Jag vet inte om jag bör fortsätta min vänskap med honom. Ädle shaykh, jag skulle vilja veta hur jag ska betona bönens vikt för honom. Om han fortsätter att inte be, bör jag då lämna honom?
 
-**Svar:** Bönen är en av islams pelare och den största efter trosbekännelsen. Den som ber kommer att bevara sin religion. Den som överger den kommer lättare att överge andra aspekter av religionen. I en autentisk hadīth[^1] säger profeten: ”Avtalet som skiljer oss och dem är bönen. Den som överger den har inte trott.” [at-Tirmithi 2621 och Ahmad 5:346, 355] Nedtecknad med en autentisk kedja av imam Ahmad och de som nedtecknat *sunan*.
+**Svar:** Bönen är en av islams pelare och den största efter trosbekännelsen. Den som ber kommer att bevara sin religion. Den som överger den kommer lättare att överge andra aspekter av religionen. I en autentisk *hadīth[^1]* säger profeten: ”Avtalet som skiljer oss och dem är bönen. Den som överger den har inte trott.” [at-Tirmithi 2621 och Ahmad 5:346, 355] Nedtecknad med en autentisk kedja av imam Ahmad och de som nedtecknat *sunan*.
 
 I en *hadīth[^1]* återberättad av Jabir säger profeten – över honom vare Allāhs frid och välsignelser: ”Mellan en man och otro och månggudadyrkan finns övergivandet av bönen.” [Muslim 82]
 

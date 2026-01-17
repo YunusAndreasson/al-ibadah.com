@@ -14,7 +14,7 @@ description: 'Fråga: Vilken är den första plikten som åligger skapelsen? Sva
 
 **Fråga:** Vilken är den första plikten som åligger skapelsen?
 
-**Svar:** Den första plikten som åligger skapelsen är det första som de har kallats till. Detta har klargjorts av profeten – över honom vare Allāhs frid och välsignelser – i hans ord till Mu’ādh ibn Jabal när han sände honom till Jemen:
+**Svar:** Den första plikten som åligger skapelsen är det första som de har kallats till. Detta har klargjorts av profeten – över honom vare Allāhs frid och välsignelser – i sina ord till Mu'ādh ibn Jabal när han sände honom till Jemen:
 
 > ”Sannerligen når du ett samhälle av 'bokens folk'. Det första du då ska kalla dem till är vittnesmålet *Lā ilāha illAllāh* [inget har rätt att dyrkas utom Allāh] och att Muḥammad är Hans sändebud…” [*al-Bukhārī* 478]
 

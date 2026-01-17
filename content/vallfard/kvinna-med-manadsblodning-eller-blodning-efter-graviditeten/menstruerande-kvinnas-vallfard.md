@@ -24,7 +24,7 @@ I *Sahīh* rapporteras det från ‘A’ishah – må Allāh vara nöjd med henn
 
 I en annan återberättelse sade hon:
 
-> ”Saffiyah fick sin månadsblödning efter att ha utfört *tawāf[^1] ul-ifādhah*.” Sedan sade ‘A’ishah: ”Jag nämnde hennes månadsblödning för Allāhs sändebud och han sade: 'Kommer hon att försena oss?' Jag sade: 'Allāhs sändebud, hon har kommit tillbaka från Arafat[^8] och utfört *tawāf[^1]* runt Huset [Ka’bah] och sedan fick hon sin månadsblödning efter *tawāf[^1] ul-ifādhah*.' Då sade Allāhs sändebud: 'Då kan hon ge sig av.'” [*Muslim* 1211]
+> ”Saffiyah fick sin månadsblödning efter att ha utfört *tawāf[^1] ul-ifādhah*.” Sedan sade ‘A’ishah: ”Jag nämnde hennes månadsblödning för Allāhs sändebud och han sade: 'Kommer hon att försena oss?' Jag sade: 'Allāhs sändebud, hon har kommit tillbaka från *Arafat[^8]* och utfört *tawāf[^1]* runt Huset [Ka’bah] och sedan fick hon sin månadsblödning efter *tawāf[^1] ul-ifādhah*.' Då sade Allāhs sändebud: 'Då kan hon ge sig av.'” [*Muslim* 1211]
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Vandringen mellan as-Safa och al-Marwa.

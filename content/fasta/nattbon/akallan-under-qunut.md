@@ -12,7 +12,7 @@ description: 'Fråga: Vilket är utlåtandet om att läsa åkallan under qunūt 
  en sunnah i witr -bönen. Om någon utel...'
 ---
 
-**Fråga:** Vilket är utlåtandet om att läsa åkallan[^1] under *qunūt[^2]* i *witr[^3]*-bönen under ramadan[^4] s nätter? Är det tillåtet att utelämna den?
+**Fråga:** Vilket är utlåtandet om att läsa åkallan[^1] under *qunūt[^2]* i *witr[^3]*-bönen under ramadans[^4] nätter? Är det tillåtet att utelämna den?
 
 **Svar:** *Qunūt* är en *sunnah[^5]* i *witr[^3]*-bönen. Om någon utelämnar den ibland är det ingen fara.
 

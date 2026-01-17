@@ -35,7 +35,7 @@ Det som avses här är i dyrkan av Honom. Allāh den Upphöjde säger:
 >
 >
 >
-> ”Gud förlåter inte dem som sätter medhjälpare vid Hans sida, men Han förlåter den Han vill hans mindre synder; den som sätter medhjälpare vid Guds sida sannerligen gjort dig skyldig till en oerhörd synd.” [Koranen 4:48]
+> ”Gud förlåter inte dem som sätter medhjälpare vid Hans sida, men Han förlåter den Han vill hans mindre synder; den som sätter medhjälpare vid Guds sida sannerligen gjort sig skyldig till en oerhörd synd.” [Koranen 4:48]
 >
 >
 >

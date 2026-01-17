@@ -14,7 +14,7 @@ description: 'Fråga: Vilket är utlåtandet om ett offerdjur som någon som bä
 
 **Fråga:** Vilket är utlåtandet om ett offerdjur som någon som bär amuletter, knyter knutar och liknande har avlivat?
 
-**Svar:** En *tamimah* görs av kulor, skal eller medaljonger och bärs runt nacken av barn, djur och kvinnor. De kan även bäras i bälten eller i håret för att skydda mot ont eller för att undvika något skadligt. Detta är förbjudet och en sorts shirk[^1]. Med- och motgång ligger enbart i Allāhs händer.
+**Svar:** En *tamimah* görs av kulor, skal eller medaljonger och bärs runt nacken av barn, djur och kvinnor. De kan även bäras i bälten eller i håret för att skydda mot ont eller för att undvika något skadligt. Detta är förbjudet och en sorts *shirk[^1]*. Med- och motgång ligger enbart i Allāhs händer.
 
 Ibn Mas'ūd hörde profeten – över honom vare Allāhs frid och välsignelser – säga: ”*Sannerligen är besvärjelser, amuletter och tiwalah[^2] shirk[^1]*.” [*Abū Dawūd* 3883, *Ahmad* 1:381 och *al-Hakim* 4:418]
 
@@ -22,7 +22,7 @@ Ibn Mas'ūd hörde profeten – över honom vare Allāhs frid och välsignelser 
 
 I *Sahīh al-Bukhārī* och *Sahīh Muslim* återges att Abū Bashir al-Ansari var med profeten – över honom vare Allāhs frid och välsignelser – när han sände någon för att beordra folket att plocka av alla halsband av snöre ifrån deras djur. [*al-Bukhārī* 3005] Oberoende av om de hänför de till besvärjelser eller inte förbjöd profeten – över honom vare Allāhs frid och välsignelser – i absoluta termer att snörband hängs runt kamelhalsar. Han beordrade även att de skulle klippas av. Före islam brukade man knyta snören runt kamelhalsar och på dem knyta amuletter för att skydda dem emot ”det onda ögat” samt sjukdomar. Profeten – över honom vare Allāhs frid och välsignelser – förbjöd detta och han beordrade att de skulle klippas av.
 
-Den som tror att *tamimah* eller något annat har kraft att ge medgång eller skydda mot något skadligt är en månggudadyrkare[^3] som har begått större shirk[^1]. Detta tar denne ur islam. Vi söker Allāhs skydd ifrån avfällelse.
+Den som tror att *tamimah* eller något annat har kraft att ge medgång eller skydda mot något skadligt är en månggudadyrkare[^3] som har begått större *shirk[^1]*. Detta tar denne ur islam. Vi söker Allāhs skydd ifrån avfällelse.
 
 Offrar denne ett djur är det inte tillåtet att äta. Men den som tror att de [amuletterna] endast är medel för läkning och att Allāh är den som ger medgång, skyddar mot det skadliga och att Han gör en sådan sak nyttig – då är denne en månggudadyrkare[^3] som begår mindre *shirk[^1]* [sic!]. I verkligheten är dessa amuletter varken tillåtna eller något som normalt sett leder till läkning, de föreställs endast göra så.
 

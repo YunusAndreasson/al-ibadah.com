@@ -16,7 +16,7 @@ description: 'Fråga: Vilket är utlåtandet om en fastande som på grund av gl�
 
 **Svar:** Den som ut ur glömska åt eller drack medan denne fastade, dennes fasta är giltig. Men om den fastande kommer ihåg måste denne sluta. Även om det [bara] var en munsbit mat eller dryck i munnen måste detta ut.
 
-Beviset för att fastan är fullständig återfinns i profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Den som glömde medan denne fastade och åt eller drack, denna fullbordar fastan. Det var ju ingen annan än Allāh som närde och gav denne dricka*.” [*al-Bukhārī* 1933 och *Muslim* 1155]
+Beviset för att fastan är fullständig återfinns i profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Den som glömde medan denne fastade och åt eller drack, denne fullbordar fastan. Det var ju ingen annan än Allāh som närde och gav denne dricka*.” [*al-Bukhārī* 1933 och *Muslim* 1155]
 
 Man hålls heller inte ansvarig om man gör något förbjudet på grund av glömska. Detta enligt Allāhs den Upphöjdes ord: ”*Herre! Ställ oss inte till svars för glömska eller oavsiktliga fel*.” [Koranen 2:286] Och Allāh den Upphöjde säger: ”*Jag har gjort så*.”
 

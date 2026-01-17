@@ -14,7 +14,7 @@ description: 'Fråga: Varför kallas Jesus, Marias son, för al-Masih? Svar: Jes
 
 **Fråga:** Varför kallas Jesus, Marias son, för al-Masih?
 
-**Svar:** Jesus, Marias son, kallas för al-Masih därför att han inte rörde någon sjukling eller funktionshindrad utan att de botades, med Allāhs tillstånd. Några av salaf[^1] – må Allāh vara nöjd med dem – har även berättat att han kallades för al-Masih med anledning av hans kontakt med jorden och att han ofta reste över den för att sprida religionen. Enligt dessa båda uttalanden är betydelsen av al-Masih, *māsih* [en som rör].
+**Svar:** Jesus, Marias son, kallas för al-Masih därför att han inte rörde någon sjukling eller funktionshindrad utan att de botades, med Allāhs tillstånd. Några av *salaf[^1]* – må Allāh vara nöjd med dem – har även berättat att han kallades för al-Masih med anledning av hans kontakt med jorden och att han ofta reste över den för att sprida religionen. Enligt dessa båda uttalanden är betydelsen av al-Masih, *māsih* [en som rör].
 
 Det har även sagts att han kallades för al-Masih för att hans fötter var flata [utan någon hålighet], att välsignelser rörde honom eller att han renades från synd och därför var välsignad. I dessa fall är betydelsen av al-Masih, *mamsuh* [en som blivit rörd].
 

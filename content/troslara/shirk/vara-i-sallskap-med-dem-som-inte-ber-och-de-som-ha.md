@@ -27,7 +27,7 @@ Denne bör tas till myndigheternas, om han bor i ett land där den islamiska lag
 
 Denna vers bevisar att den som överger bönen utan att ångra sig inte bör få vara fri, i stället bör han avrättas. Den korrekta åsikten är att han avrättas som en icke-troende, enligt de två tidigare *ahādīth[^1]* och andra utöver dem. Profeten – över honom vare Allāhs frid och välsignelser – har också sagt: ”*Jag har förbjudit att den som ber dödas*.” [*Abū Dawūd* 4928]
 
-Detta bevisar att den som ber inte ber får avrättas. Han måste avrättas om han inte ångrar sig. Detta kommer då att avhålla människor från att begå denna stora synd.
+Detta bevisar att den som inte ber får avrättas. Han måste avrättas om han inte ångrar sig. Detta kommer då att avhålla människor från att begå denna stora synd.
 
 Vi ber Allāh att Han förbättrar vår situation och att Han gör oss stadiga i religionen. Han är Den som hör allt och som är evigt nära.
 

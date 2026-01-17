@@ -10,11 +10,13 @@ description: '"Sedan den dagen jag träffade honom lämnade han aldrig fastan un
 
 "Sedan den dagen jag träffade honom lämnade han aldrig fastan under måndagar och torsdagar om det inte var så att han reste eller var sjuk." [Muhaddith al-´Asr Muḥammad Nāsiruddīn al-Albānī, sida 39]
 
-Han föddes år 1332 AH i Ashkodera som då var huvudstad i Albanien. Familjen var fattig. Hans fader, al-Hāj Nooh Najjātī al-Albānī, hade studerat den islamiska lagen i Istanbul och återvänt som en lärd till Albanien. När ateism intog Albanien emigrerade familjen till Damaskus. Där avslutade al-Albānī sin första utbildning och lärdes då Koranen, tajwīd[^1], arabiska, fiqh[^2], den hanafitiska rättsskolan och andra grenar av religiöst vetande från olika lärde och vänner till fadern.
+Han föddes år 1332 AH i Ashkodera som då var huvudstad i Albanien. Familjen var fattig. Hans fader, al-Hāj Nooh Najjātī al-Albānī, hade studerat den islamiska lagen i Istanbul och återvänt som en lärd till Albanien.
+
+När ateism intog Albanien emigrerade familjen till Damaskus. Där avslutade al-Albānī sin första utbildning och lärdes då Koranen, tajwīd[^1], arabiska, fiqh[^2], den hanafitiska rättsskolan och andra grenar av religiöst vetande från olika lärde och vänner till fadern.
 
 Från fadern lärde han sig också att reparera klockor, något som han blev mycket duktig på och försörjde sig genom. Han började specialisera sig på *hadīth[^3]* och dess olika grenar när han var 20 år. Detta efter att ha influerats av artiklar i tidningen al-Manār.
 
-Han började arbeta med att transkribera al-Hāfiz al-Irāqī's storslagna *al­Mughnī 'an-hamlil-Asfār fil-Asfār fī takhrīj mā fil-lhyā minal-Akhbār* och till den lade han noter.
+Han började arbeta med att transkribera al-Hāfiz al-Irāqīs storslagna *al­Mughnī 'an-hamlil-Asfār fil-Asfār fī takhrīj mā fil-lhyā minal-Akhbār* och till den lade han noter.
 
 Trots faderns invändningar gav han sig ännu djupare in i vetandet om hadīth[^3]. Böckerna som han var i behov av fanns inte att tillgå i faderns bibliotek, som i huvudsak bestod av böcker om hanafī fiqh[^2]. Då han inte hade råd med de flesta böckerna som han behövde så lånade han dem från det kända biblioteket al-Maktabah adth-Dthāhiriyyah.
 

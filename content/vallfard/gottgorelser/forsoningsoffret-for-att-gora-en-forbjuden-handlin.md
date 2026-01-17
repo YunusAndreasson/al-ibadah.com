@@ -8,12 +8,12 @@ categories:
   - Vallfärd (Hajj)
   - Gottgörelser
 original_id: 861
-description: 'Fråga: Vilket är försoningsoffret vallfärden? Vilka typer finns det?
+description: 'Fråga: Vilket är försoningsoffret för vallfärden? Vilka typer finns det?
  Vilket är utlåtandet om den som upprepar en viss förbjuden handling? Svar: Försoningsoffret
  är en lösen för att ha gjort någ...'
 ---
 
-**Fråga:** Vilket är försoningsoffret vallfärden? Vilka typer finns det? Vilket är utlåtandet om den som upprepar en viss förbjuden handling?
+**Fråga:** Vilket är försoningsoffret för vallfärden? Vilka typer finns det? Vilket är utlåtandet om den som upprepar en viss förbjuden handling?
 
 **Svar:** Försoningsoffret är en lösen för att ha gjort något förbjudet under *ihrām[^1]*. Denna lösen är av olika slag. Den första typen är att man har ett val mellan att slakta ett får, att ge sex fattiga människor mat eller att fasta tre dagar. Denna lösen är för att raka håret [även om det enbart är tre hårstrån], klippa naglarna, bära sydda kläder, använda parfym eller täcka huvudet. Den som sonar för sig på något av dessa sätt har gjort tillräckligt.
 

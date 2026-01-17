@@ -15,7 +15,7 @@ description: 'Fråga: Vilka är de största kännetecknen för den räddade grup
 
 **Fråga:** Vilka är de största kännetecknen för den räddade gruppen? Om man brister i vissa aspekter, står man då utanför denna grupp?
 
-**Svar:** De mest utmärkande kännetecknen för den räddade gruppen är lydnad av det som profeten – över honom vare Allāhs frid och välsignelser – följde i trosprinciper, dyrkan, karraktär och uppförande. Vi ser att dessa fyra framträder i dem.
+**Svar:** De mest utmärkande kännetecknen för den räddade gruppen är lydnad av det som profeten – över honom vare Allāhs frid och välsignelser – följde i trosprinciper, dyrkan, karaktär och uppförande. Vi ser att dessa fyra framträder i dem.
 
 I trosprinciper finner man att de håller fast vid det som bevisas genom Allāhs skrift och Hans sändebuds *sunnah[^1]* när de uppriktigt deklarerar Allāhs enhet i frågor om dyrkan, herrskap samt namnen och egenskaperna.
 
@@ -53,7 +53,7 @@ Jag anser att *ahlus-sunnah[^1] wal-jamā’at* måste ena sig även om de är o
 
 Det viktiga är att alla hjärtan är i harmoni och att man talar med en röst. Det råder ju inga tvivel om att muslimernas fiender älskar att se muslimer splittrade. Detta oavsett om de är fiender som öppet visar sin fiendeskap eller om de är fiender som ger intrycket av att vara vänner till muslimer och islam, när de i själva verket inte är det.
 
-Därför måste vi utmärka oss med detta, den räddade gruppens karraktärsdrag, som är att man talar med en röst.
+Därför måste vi utmärka oss med detta, den räddade gruppens karaktärsdrag, som är att man talar med en röst.
 
 [^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^2]: Tron på att det bara finns en Gud.

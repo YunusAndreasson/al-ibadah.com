@@ -20,7 +20,7 @@ Man bör utföra rättfärdiga handlingar för sin egen skull; som *´umrah[^1]*
 
 Notera att han sade: ”*ett rättfärdigt barn som ber för denne*.” Han sade inte: ”eller *ett rättfärdigt barn som reciterar Koranen, ber två bönecykler[^6], utför ‘umrah[^1] samt vallfärdar eller fastar för honom*.” I stället sade han: ”*ett rättfärdigt barn som ber för denne*”, trots att diskussionens sammanhang omfattar rättfärdiga handlingar. Detta bevisar att det är bättre att åkalla för sina föräldrar i stället för att utföra rättfärdiga handlingar som tillägnas dem.
 
-Trots detta är ingen skada skedd om man handlar rättfärdig för en av eller båda föräldrarna. Men när det gäller vallfärden eller *´umrah[^1]*, då kan man inte göra *talbiyyah[^3]* om man avser att handlingen är för båda två.
+Trots detta är ingen skada skedd om man handlar rättfärdigt för en av eller båda föräldrarna. Men när det gäller vallfärden eller *´umrah[^1]*, då kan man inte göra *talbiyyah[^3]* om man avser att handlingen är för båda två.
 
 [^1]: Den lilla vallfärden.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

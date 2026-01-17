@@ -8,11 +8,11 @@ categories:
   - Stenkastningen
 original_id: 857
 description: 'Fråga: En pilgrim kastar från östlig riktning stenar på pelaren al-´Aqabah
- men dennes stenar hamnar inte i sänkan. Vad ska dennes göra då det nu är den trettonde
+ men dennes stenar hamnar inte i sänkan. Vad ska denne göra då det nu är den trettonde
  dagen i thul-hijjah? Svar: ...'
 ---
 
-**Fråga:** En pilgrim kastar från östlig riktning stenar på pelaren al-´Aqabah men dennes stenar hamnar inte i sänkan. Vad ska dennes göra då det nu är den trettonde dagen i *dhul-hijjah[^1]*?
+**Fråga:** En pilgrim kastar från östlig riktning stenar på pelaren al-´Aqabah men dennes stenar hamnar inte i sänkan. Vad ska denne göra då det nu är den trettonde dagen i *dhul-hijjah[^1]*?
 
 **Svar:** Denne behöver inte kasta stenarna igen. Denne behöver enbart upprepa de kasten som inte utförts korrekt. Därmed upprepar denne enbart kasten mot al-´Aqabah och denne gör det korrekt. Stenarna som kastades från den östra sidan är inte tillräckliga. I detta fall hamnar inte stenarna i sänkan, vilket är den korrekta platsen. Om stenarna därför kastas från bron vid den östra sidan, då är det korrekt. Detta beror på att stenarna då hamnar i sänkan.
 

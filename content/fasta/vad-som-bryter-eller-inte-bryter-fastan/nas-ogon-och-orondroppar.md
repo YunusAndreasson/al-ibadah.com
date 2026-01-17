@@ -18,7 +18,7 @@ description: 'Fråga: Vilket är utlåtandet om näs-, ögon- och örondroppar f
 
 Således får den fastande inte ta näsdroppar som når dennes mage. Droppar som inte når magen bryter inte fastan.
 
-Ögondroppar, kohl och örondroppar är jämföra; de leder inte till att fastan bryts. Detta beror på att inget har rapporterats om dem och de liknar heller inte något som det har rapporterats om. Ögat är inte en öppning för mat och dryck, inte heller örat. De är som andra öppningar i kroppen. De lärde har sagt att om någon trampade med sin fotundersida i något och denne kände det i sin hals, då skulle detta inte bryta fastan då det inte är en öppning.
+Ögondroppar, kohl och örondroppar är jämförbara; de leder inte till att fastan bryts. Detta beror på att inget har rapporterats om dem och de liknar heller inte något som det har rapporterats om. Ögat är inte en öppning för mat och dryck, inte heller örat. De är som andra öppningar i kroppen. De lärde har sagt att om någon trampade med sin fotundersida i något och denne kände det i sin hals, då skulle detta inte bryta fastan då det inte är en öppning.
 
 Därför är användandet av kohl, ögondroppar eller örondroppar inte något som bryter fastan även om smaken av dem kan kännas i halsen.
 

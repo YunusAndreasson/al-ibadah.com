@@ -12,7 +12,7 @@ description: 'Fråga: Bör man göra takbīr två gånger om man ber bakom imame
  man öppnings- takbīr . Därefter bugar man sig ...'
 ---
 
-**Fråga:** Bör man göra takbīr[^1] två gånger om man ber bakom imamen och går in i bönen när han bugar?
+**Fråga:** Bör man göra *takbīr[^1]* två gånger om man ber bakom imamen och går in i bönen när han bugar?
 
 **Svar:** Går man in i bönen när imamen bugar, då gör man öppnings-*takbīr[^1]*. Därefter bugar man sig omedelbart för bugningen. Skulle man göra *takbīr[^1]* är det en *sunnah[^2]* men inte en skyldighet. Om man gör *takbīr[^1]* för bugningen är det bättre men om han lämnar den syndar man inte.
 

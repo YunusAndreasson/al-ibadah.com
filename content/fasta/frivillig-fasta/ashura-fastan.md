@@ -16,7 +16,7 @@ description: 'Fråga: Vilket är utlåtandet om att fasta under ‘ashura’ -da
 
 **Svar:** När profeten – över honom vare Allāhs frid och välsignelser – kom till Medina fann han att judarna fastade under den tionde dagen i muharram[^1]. Han sade [då]: ”*Jag är mer berättigad att följa Mose än ni*.” Således fastade han under den dagen och han beordrade att det skulle fastas då. [*al-Bukhārī* 2004 och *Muslim* 1130]
 
-I en *hadīth[^2]* från Ibn ‘Abbās, som al-Bukhārī och Muslim är eniga om, uppges att profeten – över honom vare Allāhs frid och välsignelser – fastade under*‘ashura’*-dagen och att han beordrade att fastan skulle utföras då. När man frågade honom om fördelarna med denna fasta sade han: ”*Jag förväntar mig att Allāh kommer att stryka ut synder från det gångna året och det efterkommande*.” [*Muslim* 1162]
+I en *hadīth[^2]* från Ibn ‘Abbās, som al-Bukhārī och Muslim är eniga om, uppges att profeten – över honom vare Allāhs frid och välsignelser – fastade under *'ashura'*-dagen och att han beordrade att fastan skulle utföras då. När man frågade honom om fördelarna med denna fasta sade han: ”*Jag förväntar mig att Allāh kommer att stryka ut synder från det gångna året och det efterkommande*.” [*Muslim* 1162]
 
 Efter detta kommenderade han dock att muslimer ska skilja sig från judar genom att fasta den tionde och dagen före, som är den nionde, eller en dag efter och det är den elfte.
 

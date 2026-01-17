@@ -16,7 +16,7 @@ description: 'Fråga: Är placerandet av en krans på ”den okände soldatens g
 
 **Svar:** Detta är en innovation samt överdriven vördnad för de döda. Detta är likvärdigt med handlandet hos de som i för stor utsträckning visar vördnad av fromma människor. Det finns en rädsla för att detta kan leda till att kupoler byggs över deras gravar för att söka deras välsignelser samt att de tas som gudar jämte Allāh – upphöjd är Han.
 
-Detta bör stoppas, annars kan det leda till shirk[^2].
+Detta bör stoppas, annars kan det leda till *shirk[^2]*.
 
 [^1]: De som står Allāh nära.
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

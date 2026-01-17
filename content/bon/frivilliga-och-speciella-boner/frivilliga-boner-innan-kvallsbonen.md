@@ -12,7 +12,7 @@ description: 'Fråga: Vilket är utlåtandet om att be hälsningsbönen till mos
  är utlåtandet om att be frivilliga böner ...'
 ---
 
-**Fråga:** Vilket är utlåtandet om att be hälsningsbönen till moskén[^1] efter böneutropet för kvällsbönen[^2] när tiden mellan böneutropet och iqāmah[^3] är kort. Vilket är utlåtandet om att be frivilliga böner utöver *tahiyatul-masjid* innan kvällsbönen[^2]?
+**Fråga:** Vilket är utlåtandet om att be hälsningsbönen till moskén[^1] efter böneutropet för kvällsbönen[^2] när tiden mellan böneutropet och *iqāmah[^3]* är kort. Vilket är utlåtandet om att be frivilliga böner utöver *tahiyatul-masjid* innan kvällsbönen[^2]?
 
 **Svar:** Hälsningsbönen till moskén är en högt rekommenderad *sunnah[^4]* vid alla tidpunkter, även då det är förbjudet att be. Detta enligt den starkaste åsikten av de båda åsikterna som de lärde har. Detta basera på den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Om någon går in i moskén, då bör han inte sitta ned förrän han har bett två bönecykler[^5]*.” [*al-Bukhārī* 1163 och *Muslim* 714]
 

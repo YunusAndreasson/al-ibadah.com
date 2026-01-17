@@ -30,7 +30,7 @@ description: 'Fråga: Hur kan en pilgrim vara uppriktig mot Allāh då denne utf
 
 Enligt en sann *hadīth[^1] qudsi* säger profeten – över honom vare Allāhs frid och välsignelser:
 
-> ”Allāh – må Han var välsignad och upphöjd – säger: 'Jag är Mig Själv så nog att jag inte är i behov av att ha någon medhjälpare. Den som då utför en handling för både någon annans skull och Min, [denne] kommer att få den handlingen avvisad av Mig för vad denne satte vid Min sida.'”
+> ”Allāh – må Han vara välsignad och upphöjd – säger: 'Jag är Mig Själv så nog att jag inte är i behov av att ha någon medhjälpare. Den som då utför en handling för både någon annans skull och Min, [denne] kommer att få den handlingen avvisad av Mig för vad denne satte vid Min sida.'”
 
 Det som avses med uppriktighet mot Allāh i dyrkan är att inget motiverar denne att dyrka utom kärlek och vördnad av Allāh och hopp om Hans belöningar och välbehag. Därför säger Allāh om Muḥammad:
 

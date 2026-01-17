@@ -17,7 +17,7 @@ description: 'Fråga: Är det möjligt att jag utser någon annan som kastar min
 
 **Svar:** Det är inte tillåtet att utse någon annan och resa innan stenkastningen har avslutats. I stället måste denne vänta. Om denne har möjlighet, då måste denne själv kasta stenarna. Om denne inte har möjlighet, då kan denne vänta och utse någon annan. Man bör inte resa förrän den utsedde representanten har kastat stenarna på pelarna. När den som har utsett någon annan till att kasta har utfört avskeds-tawāf[^1] runt Ka’bah, då får denne resa.
 
-Är denne frisk, då får denne inte utse någon annan. I stället måste dennes kasta stenarna själv. Därför när denne går in i *ihrām[^2]* för vallfärden, då blir det obligatoriskt att fullfölja den. Allāh har sagt: ”*Och fullgör vallfärden, såväl den större som den mindre*.” [Koranen 2:196]
+Är denne frisk, då får denne inte utse någon annan. I stället måste denne kasta stenarna själv. Därför när denne går in i *ihrām[^2]* för vallfärden, då blir det obligatoriskt att fullfölja den. Allāh har sagt: ”*Och fullgör vallfärden, såväl den större som den mindre*.” [Koranen 2:196]
 
 Detsamma gäller *‘umrah[^3]*, vilket denna ädla vers nämner. Om den påbörjas, då måste den avslutas. Enligt den korrekta åsikten får man inte utse någon annan som utför vallfärdsriterna när man kan utföra dem själv. Om man reser innan man har kastat stenarna, då måste man offra ett djur och ge mat till de fattiga i Mecka.
 

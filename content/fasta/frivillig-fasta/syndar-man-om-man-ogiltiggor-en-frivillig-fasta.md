@@ -16,7 +16,7 @@ description: 'Fråga: Syndar man om man ogiltigör en frivilliga fasta? Svar: Om
 
 **Svar:** Om man ogiltigör en frivillig fasta eftersom man gör något som bryter den, har man då syndat? Och om man gör den ogiltig genom att ha intim samvaro, måste man då gottgöra sig? Fastar man frivilligt och sedan bryter fastan genom att äta, dricka eller ha intim samvaro så syndar man inte.
 
-Om man börjar en frivillig handling krävs det inte att man fullföljer den så länge det inte rör sig som pilgrimsfärden eller*‘umrah[^1]*. Det är dock bäst att fullfölja den.
+Om man börjar en frivillig handling krävs det inte att man fullföljer den så länge det inte rör sig som pilgrimsfärden eller *'umrah[^1]*. Det är dock bäst att fullfölja den.
 
 I sådant fall syndar man inte om man har intim samvaro med sin fru under en frivillig fasta när man inte är skyldig att fullborda den.
 

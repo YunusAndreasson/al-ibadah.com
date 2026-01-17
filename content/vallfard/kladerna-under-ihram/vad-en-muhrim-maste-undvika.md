@@ -26,7 +26,7 @@ description: 'Fråga: Vilka är de saker som en muhrim måste undvika? Svar: En 
 8. äktenskap och
 9. röra kvinnor lustfyllt.
 
-En *muhrim[^1]* har förbjudits detta tills han träder ur sin *ihrām[^2]*. I det första stadiet där *ihrām[^2]* avlägsnas blir dessa förbjudna saker tillåtna utom intim samvaro. När sedan det andra stadiet är avklarat blir intim samvaro tillåtna.
+En *muhrim[^1]* har förbjudits detta tills han träder ur sin *ihrām[^2]*. I det första stadiet där *ihrām[^2]* avlägsnas blir dessa förbjudna saker tillåtna utom intim samvaro. När sedan det andra stadiet är avklarat blir intim samvaro tillåten.
 
 [^1]: Någon som har trätt in i ihrām.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

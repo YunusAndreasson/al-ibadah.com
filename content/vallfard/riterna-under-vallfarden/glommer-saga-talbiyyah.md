@@ -12,7 +12,7 @@ description: 'Fråga: En pilgrim gick in i ihrām vid mīqāt men i talbiyyah gl
  Din tjänst för att utföra ‘umrah tillsamm...'
 ---
 
-**Fråga:** En pilgrim gick in i *ihrām[^1]* vid *mīqāt[^2]* men i *talbiyyah[^3]* glömde han att säga: ”*Labbayk 'umratan mutamatti[^4]'an biha ilal-hajj*” [Jag är här till Din tjänst för att utföra *´umrah[^5]* tillsammans med vallfärden som *hajjul-tamattu´*[^6]]. Skall han fullfölja riterna för vallfärden och *‘umrah[^5]* som en *mutamatti[^4]*? Vad gäller för honom om han går ur sin *ihrām[^1]* för hans *´umrah[^5]* och sedan går in i *ihrām[^1]* i Mecka?
+**Fråga:** En pilgrim gick in i *ihrām[^1]* vid *mīqāt[^2]* men i *talbiyyah[^3]* glömde han att säga: ”*Labbayk 'umratan mutamatti[^4]'an biha ilal-hajj*” [Jag är här till Din tjänst för att utföra *´umrah[^5]* tillsammans med vallfärden som *hajjul-tamattu´*[^6]]. Skall han fullfölja riterna för vallfärden och *‘umrah[^5]* som en *mutamatti[^4]*? Vad gäller för honom om han går ur sin *ihrām[^1]* för sin *´umrah[^5]* och sedan går in i *ihrām[^1]* i Mecka?
 
 **Svar:** Om han avsåg att utföra *‘umrah[^5]* när han gick in i *ihrām[^1]*, men glömde *talbiyyah[^3]* medan han avsåg *´umrah[^5]*, då är utlåtandet om honom samma som för den som säger *talbiyyah[^3]*. Han utför *tawāf[^7]*, *sa’ī[^8]*, klipper sitt hår och träder ur sin *ihrām[^1]*.
 

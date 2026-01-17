@@ -27,7 +27,7 @@ Utlåtandet om resenären är att denne får välja mellan att fasta och att bry
 2. lättnad, därför när någon fastar tillsammans med andra blir det lättare, och
 3. ett direkt uppfyllande av ens skyldigheter.
 
-Är det svårt för den resande att fasta bör denne inte fasta. Det är inte rättfärdigt att fasta under dessa omständigheter när man är reser. Allāhs sändebud såg en man skuggas medan folket samlades runtikring honom. Han sade: ”Vad är detta?” De sade: ”Han fastade.” Han [Profeten] sade: ”Det är inte rättfärdigt att fasta medan [man] reser.” [*al-Bukhārī* 1946 och *Muslim* 1115]
+Är det svårt för den resande att fasta bör denne inte fasta. Det är inte rättfärdigt att fasta under dessa omständigheter när man reser. Allāhs sändebud såg en man skuggas medan folket samlades runt omkring honom. Han sade: ”Vad är detta?” De sade: ”Han fastade.” Han [Profeten] sade: ”Det är inte rättfärdigt att fasta medan [man] reser.” [*al-Bukhārī* 1946 och *Muslim* 1115]
 
 Detta generella utlåtande gäller för vem som helst i en situation likt den med mannen som fann det svårt att fasta.
 

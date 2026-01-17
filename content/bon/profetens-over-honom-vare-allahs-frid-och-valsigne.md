@@ -186,7 +186,7 @@ Hur man bugar
 2. Man sträcker ut sin rygg och gör den rak; hade vatten hällts på den skulle det ligga kvar [och inte rinna av]. Detta är obligatoriskt.
 3. Man rör inte sitt huvud upp och ned utan man gör det i nivå med sin rygg.
 4. Man håller armbågarna borta från sina sidor.
-5. I bugningen säger man: ”*Subhāna Rabbiy al-‘Azīm* [Lov och pris tillhör Herren, den Allsmäktige] tre gånger eller mer. Det finns fler – långa, medellånga och korta – [^22] åminnelse[^22] r som kan sägas under bugningen. Se *Sifat Salāt al-Nabi*, s. 132, Maktabat al-Ma'ārif upplagan [*The Prophet's Prayer Described*, s. 44]
+5. I bugningen säger man: ”*Subhāna Rabbiy al-‘Azīm* [Lov och pris tillhör Herren, den Allsmäktige] tre gånger eller mer. Det finns fler – långa, medellånga och korta – åminnelser[^22] som kan sägas under bugningen. Se *Sifat Salāt al-Nabi*, s. 132, Maktabat al-Ma'ārif upplagan [*The Prophet's Prayer Described*, s. 44]
 
 Göra bönens väsentliga delar lika till längd
 

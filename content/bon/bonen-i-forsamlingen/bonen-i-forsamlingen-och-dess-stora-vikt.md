@@ -19,9 +19,9 @@ description: 'Fråga: Vilket är utlåtandet om bönen i församlingen? Svar: De
 
 > ”När du befinner dig hos de troende och leder dem i bön, låt då en grupp stå upp tillsammans med dig och låt dem behålla sina vapen. När de har avslutat bönen, låt dem ge er betäckning och låt en annan grupp, som ännu inte har förrättat sin bön, stiga fram och be med dig. Men de bör vara på sin vakt och ha vapnen i beredskap, eftersom förnekarna av tron skulle önska att ni lade ifrån er era vapen och er utrustning för att då rikta ett [förödande] slag mot er. Men ni gör inte fel, om ni lägger av vapnen därför att ni är rädda att de ska skadas genom regn, eller på grund av sjukdom. Men var på er vakt. För dem som förnekar sanningen har Gud i beredskap ett förnedrande straff.” [Koranen 4:102]
 
-I Allāhs sändebuds – över honom vare Allāhs frid och välsignelser – sunnah[^1], bland det stora antal *ahādīth[^2]* som bevisar att det är en skyldighet att be med församlingen, finns följande uttalande:
+I Allāhs sändebuds – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*, bland det stora antal *ahādīth[^2]* som bevisar att det är en skyldighet att be med församlingen, finns följande uttalande:
 
-> ”Jag avsåg att beordra någon att uttala iqāmah[^3] för bönen och sedan beordra någon att leda folket i bön. Därefter avsåg jag att beordra några män med buntar med eldträd gå till dem som inte var närvarande vid bönen [med församlingen] och bränna ned deras hus över dem.” [al-Bukhārī 644]
+> ”Jag avsåg att beordra någon att uttala *iqāmah[^3]* för bönen och sedan beordra någon att leda folket i bön. Därefter avsåg jag att beordra några män med buntar med eldträd gå till dem som inte var närvarande vid bönen [med församlingen] och bränna ned deras hus över dem.” [al-Bukhārī 644]
 
 Han har även sagt:
 

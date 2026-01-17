@@ -5,7 +5,7 @@ description: Frågor och svar om trosbekännelsen, bönen, fastan, allmosan och 
 
 I Allāhs den Barmhärtiges den Nåderikes namn
 
-”Gud vill inte lägga på er tunga bördor, men [Han vill rena er och fullkomna Sin nåd mot er – kanske känner ni tacksamhet.” [Koranen 5:6]
+”Gud vill inte lägga på er tunga bördor, men [Han] vill rena er och fullkomna Sin nåd mot er – kanske känner ni tacksamhet.” [Koranen 5:6]
 
 ”Allāhs sändebud – må Allāhs frid och välsignelser vara över honom – brukade vila mot mitt [‘A’ishah] kjolfång när jag hade min månadsblödning. Han reciterade också Koranen.” [*Sahīh Muslim* 175]
 

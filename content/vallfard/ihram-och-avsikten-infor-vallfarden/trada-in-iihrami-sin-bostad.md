@@ -12,7 +12,7 @@ description: 'Fråga: Förra året åkte jag till Jiddah för att besöka några
  Jag trädda in i ihrām vid Jiddahs mīqāt...'
 ---
 
-**Fråga:** Förra året åkte jag till Jiddah för att besöka några släktingar och efter att ha stannat där några dagar utformade jag avsikten för att vallfärda. Jag trädda in i *ihrām[^1]* vid Jiddahs *mīqāt[^2]* och jag gav mig av på vallfärd. Sedan informerade en av bröderna mig om att jag hade passerat *mīqāt[^2]* och att jag behövde slakta ett djur. Är detta uttalande korrekt, i vetskap om att jag begav mig till Jiddah från Riyadh för ett besöks skull och att jag inte avsåg att vallfärda? Vänligen, ge oss ett utlåtande. Må Allāh belöna er med gott.
+**Fråga:** Förra året åkte jag till Jiddah för att besöka några släktingar och efter att ha stannat där några dagar utformade jag avsikten för att vallfärda. Jag trädde in i *ihrām[^1]* vid Jiddahs *mīqāt[^2]* och jag gav mig av på vallfärd. Sedan informerade en av bröderna mig om att jag hade passerat *mīqāt[^2]* och att jag behövde slakta ett djur. Är detta uttalande korrekt, i vetskap om att jag begav mig till Jiddah från Riyadh för ett besöks skull och att jag inte avsåg att vallfärda? Vänligen, ge oss ett utlåtande. Må Allāh belöna er med gott.
 
 **Svar:** Om du inte avsåg att vallfärda när du kom från Riyadh och du endast utformade avsikten för vallfärden när du befann dig i Jiddah, då är din *ihrām[^1]* giltig. Du behöver inte offra något.
 

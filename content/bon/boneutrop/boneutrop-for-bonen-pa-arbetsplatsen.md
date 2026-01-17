@@ -16,7 +16,7 @@ description: 'Fråga: Om vi befinner oss på arbetsplatsen och det inte är lån
 
 **Svar:** Ni måste be i moskén med församlingen. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som hör kallet till bön och som inte besvarar det, då finns det ingen bön för honom, utom om han har en ursäkt [som sjukdom etcetera.]*” [*Ibn Mājah* 793, *ad-Daraquti* 1:420 och *al-Hakim* 1:245]
 
-Men om ni verkligen är hindrade får ni, grundat på de bevis som finns för detta, ropa ut böneutropet och iqāmah[^1] där ni befinner er.
+Men om ni verkligen är hindrade får ni, grundat på de bevis som finns för detta, ropa ut böneutropet och *iqāmah[^1]* där ni befinner er.
 
 [^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 

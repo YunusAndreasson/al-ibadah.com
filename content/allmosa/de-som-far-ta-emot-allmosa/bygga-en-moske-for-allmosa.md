@@ -11,7 +11,7 @@ description: 'Fråga: Är det tillåtet att använda allmosa för att avslutade 
  resurser. Svar: Det är välkänt bl...'
 ---
 
-**Fråga:** Är det tillåtet att använda allmosa för att avslutade byggandet av en moské som nästan är färdig? Dess konstruktion kan stanna av beroende på bristande resurser.
+**Fråga:** Är det tillåtet att använda allmosa för att avsluta byggandet av en moské som nästan är färdig? Dess konstruktion kan stanna av beroende på bristande resurser.
 
 **Svar:** Det är välkänt bland de lärde – och det gäller en stor majoritet av dem samt det de rättfärdiga föregångarna [så det kan anses vara ijmā'] – att allmosa inte ska användas för att bygga moskéer, köpa böcker eller liknande. Det får endast delas ut till de åtta sorters mottagare som nämns i en av sura at-Towbahs verser. De är följande:
 

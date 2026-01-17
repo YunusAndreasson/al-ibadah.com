@@ -16,7 +16,7 @@ description: 'Fråga: En man hörde att det är tillåtet att utföra sa’ī f�
 
 **Svar:** Den korrekta åsikten är att det inte finns någon skillnaden mellan *‘eid*-dagen och andra dagar om tillåtelsen till att utföra *sa’ī[^1]* före *tawāf[^2]*. Detta även om den utförs efter *‘eid*-dagen. Anledningen är det generella budskapet i den *hadīth[^3]* då en man säger till profeten: ”*Jag utförde sa’ī[^1] innan jag gjorde tawāf[^2]*.” Profeten – över honom vare Allāhs frid och välsignelser – svarade då: ”*Inga problem*.”
 
-Då denna *hadīth[^3]* är generell finns det ingen skillnad mellan den som gör det under eller efter*‘eid*-dagen.
+Då denna *hadīth[^3]* är generell finns det ingen skillnad mellan den som gör det under eller efter *'eid*-dagen.
 
 [^1]: Vandringen mellan as-Safa och al-Marwa.
 [^2]: Den sju långa rundar vandringen runt Kabah.

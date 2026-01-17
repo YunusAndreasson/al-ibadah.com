@@ -12,11 +12,11 @@ description: 'Fråga: Behöver man tvaga sig när man ska göra sujūd al-tilāw
  Är de åkallan som har berättats om...'
 ---
 
-**Fråga:** Behöver man tvaga sig när man ska göra *sujūd al-tilāwah*? Måste vi säga ”*Allāhu akbar*” när vi går ned och upp? Vad ska vi säga under nedfallande[^1] t? Är de åkallan[^2] som har berättats om detta *sahīh*? Är det föreskrivet att säga *salām* efter detta nedfallande[^1] om det görs utanför bönen?
+**Fråga:** Behöver man tvaga sig när man ska göra *sujūd al-tilāwah*? Måste vi säga ”*Allāhu akbar*” när vi går ned och upp? Vad ska vi säga under nedfallandet[^1]? Är de åkallan[^2] som har berättats om detta *sahīh*? Är det föreskrivet att säga *salām* efter detta nedfallande[^1] om det görs utanför bönen?
 
-**Svar:** All lovprisan tillhör Allāh. Enligt den mer korrekta åsikten som de lärde har behövs intetvagning[^3] för *sujūd al-tilāwah*. Det finns heller ingen *salām* eller *takbīr[^4]* när man kommer upp från den, enligt den mest korrekta åsikten av de båda åsikterna. Det är föreskrivet att säga *takbīr[^4]* under nedfallandet[^1]. Bevisen för detta finns i en *hadīth[^5]* från Ibn ’Umar.
+**Svar:** All lovprisan tillhör Allāh. Enligt den mer korrekta åsikten som de lärde har behövs inte tvagning[^3] för *sujūd al-tilāwah*. Det finns heller ingen *salām* eller *takbīr[^4]* när man kommer upp från den, enligt den mest korrekta åsikten av de båda åsikterna. Det är föreskrivet att säga *takbīr[^4]* under nedfallandet[^1]. Bevisen för detta finns i en *hadīth[^5]* från Ibn ’Umar.
 
-Utförs *sujūd al-tilāwah* under bönen är det obligatoriskt att säga *takbīr[^4]* när man går ned och när man kommer upp. Profeten – över honom vare Allāhs frid och välsignelser – brukade ju göra det i varje rörelse i bönen, och han sade: ”*Be som ni har sett mig be*.” [Berättad av al-Bukhāri i hans *Sahīh*, 595]. De[^6] åminnelse[^6] r och åkallan[^2] som är föreskrivna i nedfallandet[^1] under [vanlig] bön är föreskrivna i *sujūd al-tilāwah*. Detta på grund av den generella betydelsen i *ahādīth[^5]* i denna fråga. Bland dessa åkallan[^2] är:
+Utförs *sujūd al-tilāwah* under bönen är det obligatoriskt att säga *takbīr[^4]* när man går ned och när man kommer upp. Profeten – över honom vare Allāhs frid och välsignelser – brukade ju göra det i varje rörelse i bönen, och han sade: ”*Be som ni har sett mig be*.” [Berättad av al-Bukhāri i hans *Sahīh*, 595]. De åminnelser[^6] och åkallan[^2] som är föreskrivna i nedfallandet[^1] under [vanlig] bön är föreskrivna i *sujūd al-tilāwah*. Detta på grund av den generella betydelsen i *ahādīth[^5]* i denna fråga. Bland dessa åkallan[^2] är:
 
 > *Allāhumma laka sajadtu wa bika āmantu wa laka aslamtu, sajada wajhi lilladhi khalaqahu wa sawwarahu wa shaqqa sam’ahu wa basarahu bi hawlihi wa quwwatihi, tabārak Allāhu ahsan al-khāliqīn*
 >

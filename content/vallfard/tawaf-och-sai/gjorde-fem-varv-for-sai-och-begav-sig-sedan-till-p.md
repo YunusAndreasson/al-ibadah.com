@@ -12,7 +12,7 @@ description: 'Fråga: En grupp gjorde sa’ī mellan as-Safa och al-Marwah. De u
  två varven förrän de hade lämnat d...'
 ---
 
-**Fråga:** En grupp gjorde *sa’ī[^1]* mellan as-Safa och al-Marwah. De utförde fem varv. Sedan lämnade de området för *sa’ī[^1]* och de kom inte ihåg att göra de återstående två varven förrän de hade lämnat deras bostäder. Vilket är utlåtandet om detta?
+**Fråga:** En grupp gjorde *sa’ī[^1]* mellan as-Safa och al-Marwah. De utförde fem varv. Sedan lämnade de området för *sa’ī[^1]* och de kom inte ihåg att göra de återstående två varven förrän de hade lämnat sina bostäder. Vilket är utlåtandet om detta?
 
 **Svar:** De som utförde fem varv för *sa’ī[^1]*, begav sig till platsen de bodde på och inte kom ihåg de sista två varven – de måste återvända för att fullfölja de två varven. Det är inget problem med det. Detta är vad som är korrekt, då det inte är ett villkor att de sju varven görs direkt efter varandra. Detta enligt den mest korrekta åsikten.
 

@@ -18,7 +18,7 @@ description: 'Fråga: Under förra ramadan utförde jag riterna för ‘umrah . 
 
 Detta är som någon i bön som är osäker på om han bett tre eller fyra bönecykler[^5]. Han utgår då från vad han är säker på, vilket är det lägre antalet och han utför en fjärde bönecykel[^5] samt en nedfallan för glömska. Han gör detta både om han leder andra i bön och om han ber själv. Men om han leds i bön, då följer han den som leder honom.
 
-Samma gäller i *tawāf[^3]* och *sa’ī[^4]*. Om en person som utför *tawāf[^3]* tvekar över om han gjort sex eller sju varv, då baserar han sitt beslut på det han är säker på, vilket är det lägre antalet. Han utför sedan den sjunde varv och han har inte syndat.
+Samma gäller i *tawāf[^3]* och *sa’ī[^4]*. Om en person som utför *tawāf[^3]* tvekar över om han gjort sex eller sju varv, då baserar han sitt beslut på det han är säker på, vilket är det lägre antalet. Han utför sedan det sjunde varvet och han har inte syndat.
 
 Och Allāh är Den som ger framgång.
 

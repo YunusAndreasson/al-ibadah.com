@@ -22,7 +22,7 @@ Att söka skydd hos honom under hans livstid i frågor där han kunde göra någ
 
 > ”Om någon bland avgudadyrkarna söker skydd hos dig, ge honom då ditt beskydd, så att han får höra Guds ord.” [Koranen 9:6]
 
-Men att söka skydd hos Allāhs sändebud – över honom vare Allāhs frid och välsignelser – efter hans bortgång, det är större *shirk[^1]*. Den som hör någon säga sådant bör ge denne råd. Det kan ju vara så att denne har hört det från någon utan att förstå innebörden. Om du förklarar för denne att det är shirk[^1], då kan Allāh hjälpa denne genom dig.
+Men att söka skydd hos Allāhs sändebud – över honom vare Allāhs frid och välsignelser – efter hans bortgång, det är större *shirk[^1]*. Den som hör någon säga sådant bör ge denne råd. Det kan ju vara så att denne har hört det från någon utan att förstå innebörden. Om du förklarar för denne att det är *shirk[^1]*, då kan Allāh hjälpa denne genom dig.
 
 Och Allāh är källan till all styrka.
 

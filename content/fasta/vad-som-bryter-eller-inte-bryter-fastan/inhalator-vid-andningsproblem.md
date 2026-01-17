@@ -14,5 +14,5 @@ description: 'Fråga: Vilket är utlåtandet om den fastande som på grund av an
 
 **Fråga:** Vilket är utlåtandet om den fastande som på grund av andningsproblem använder en inhalator? Bryter detta fastan?
 
-**Svar:** Denna spray är sönderdelad och når inte magen. I detta fall säger vi att det inte finns någon invändan mot att använda den under fastan. Det leder inte till att fastan bryts då inga partiklar når magen. Då det när något osammanhängande och upplöst som försvinner når inget av det magen och därmed får du använda det när du fastar. Fastan blir inte ogiltig genom detta.
+**Svar:** Denna spray är sönderdelad och når inte magen. I detta fall säger vi att det inte finns någon invändan mot att använda den under fastan. Det leder inte till att fastan bryts då inga partiklar når magen. Då det är något osammanhängande och upplöst som försvinner, når inget av det magen och därmed får du använda det när du fastar. Fastan blir inte ogiltig genom detta.
 

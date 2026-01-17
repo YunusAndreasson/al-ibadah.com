@@ -14,7 +14,7 @@ description: 'Fråga: Vilket är utlåtandet om fastan för en resenär om den b
 
 **Fråga:** Vilket är utlåtandet om fastan för en resenär om den blir svår?
 
-**Svar:** Känner denne att det kan bli för svårt, då är det ogillat att fasta. Profeten – över honom vare Allāhs frid och välsignelser – såg en man som skuggades och som folket samlades runtikring. Han sade: ”*Vad är detta?*” De sade: ”*Han fastade*.” Han [Profeten] sade: ”*Det är inte rättfärdigt att fasta medan [man] reser*.” [*al-Bukhārī* 1946 och *Muslim* 1115]
+**Svar:** Känner denne att det kan bli för svårt, då är det ogillat att fasta. Profeten – över honom vare Allāhs frid och välsignelser – såg en man som skuggades och som folket samlades runt omkring. Han sade: ”*Vad är detta?*” De sade: ”*Han fastade*.” Han [Profeten] sade: ”*Det är inte rättfärdigt att fasta medan [man] reser*.” [*al-Bukhārī* 1946 och *Muslim* 1115]
 
 Men om det är mycket svårt så måste fastan brytas. När folket klagade inför sändebudet om att fastan hade blivit för svår för dem, då bröt han fastan. Han fick sedan veta att några fastade och han sade: ”*Dessa är de olydiga, dessa är de olydiga*.” [*Muslim*]
 

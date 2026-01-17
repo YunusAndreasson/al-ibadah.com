@@ -40,7 +40,7 @@ Ett tredje exempel rör en man som slavar under sin fru. Hon talar till sin man 
 >
 >
 >
-> ”En troende man bör inte hata en troende kvinna. Om det finns något karraktärsdrag i henne som han ogillar återstår där några andra karraktärsdrag i henne som gör honom nöjd.” [*Muslim* 1469]
+> ”En troende man bör inte hata en troende kvinna. Om det finns något karaktärsdrag i henne som han ogillar återstår där några andra karaktärsdrag i henne som gör honom nöjd.” [*Muslim* 1469]
 
 Den sistnämnde är balanserad medan den förste är extrem i behandlandet av frun och den andre är otillräcklig. Du bör basera alla dyrkan på detta exempel.
 

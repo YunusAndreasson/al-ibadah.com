@@ -14,7 +14,7 @@ description: 'Fråga: Vilket är utlåtandet om att åkalla när man har läst u
 
 **Fråga:** Vilket är utlåtandet om att åkalla när man har läst ut Koranen nattetid under ramadan[^1]?
 
-**Svar:** Jag känner inte till någon *sunnah[^2]*, varken från profeten – över honom vare Allāhs frid och välsignelser – eller från hans följeslagare, om att fullfölja recitation av Koranen under ramadan[^1] s nattbön. Det enda som har rapporterats om detta är att när Anas bin Mālik slutförde recitationen av Koranen samlade han sin familj och åkallade, men detta var inte i bönen.
+**Svar:** Jag känner inte till någon *sunnah[^2]*, varken från profeten – över honom vare Allāhs frid och välsignelser – eller från hans följeslagare, om att fullfölja recitation av Koranen under ramadans[^1] nattbön. Det enda som har rapporterats om detta är att när Anas bin Mālik slutförde recitationen av Koranen samlade han sin familj och åkallade, men detta var inte i bönen.
 
 /…/
 

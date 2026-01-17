@@ -14,7 +14,7 @@ description: 'Fråga: Behöver man inte be sunnah -bönerna under en resa och vi
 
 **Fråga:** Behöver man inte be *sunnah[^1]*-bönerna under en resa och vilket är i så fall beviset för det?
 
-**Svar:** Det är föreskrivet att man utelämnar *sunnah[^1]*-bönerna under resa, utom *witr[^2]* och *sunnah[^1]*-bönen vid gryningsbönen[^3]. I en *hadīth[^4]* från bland andra Ibn ´Umar rapporteras profeten – över honom vare Allāhs frid och välsignelser – inte brukade be sunnah[^1]-bönerna, utom *witr[^2]* och *sunnah[^1]* vid gryningsbönen[^3], då han var på resa.
+**Svar:** Det är föreskrivet att man utelämnar *sunnah[^1]*-bönerna under resa, utom *witr[^2]* och *sunnah[^1]*-bönen vid gryningsbönen[^3]. I en *hadīth[^4]* från bland andra Ibn ´Umar rapporteras profeten – över honom vare Allāhs frid och välsignelser – inte brukade be *sunnah[^1]*-bönerna, utom *witr[^2]* och *sunnah[^1]* vid gryningsbönen[^3], då han var på resa.
 
 Frivilliga böner är föreskrivna både när man reser och när man är hemma. Detsamma gäller bönerna som det finns en anledning till som *sunnah[^1]* vidtvagning[^5], *tawāf[^6]*, *dhuhā* och nattbön. Detta baseras på *ahādīth[^4]* som har återberättats om detta.
 

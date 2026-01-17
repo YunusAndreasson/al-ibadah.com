@@ -21,7 +21,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*H
 
 Han har även sagt: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [*al-Bukhārī* 2697 och *Muslim* 1718]
 
-En av de rättfärdiga salaf[^3] – må Allāh vara nöjda med dem – har berättat att han har sagt: ”*Följ mig och för inte in [saker i religionen]. Detta kommer att vara tillräckligt för er*.” Därmed måste en muslim i frågor om dyrkan endast hålla sig till autentiska föreskrifter och inte lägga till något genom att påstå att det är en god handling. Hade det funnits något gott i det, då hade profeten – över honom vare Allāhs frid och välsignelser – informerat oss om det och han hade gjort det själv. Likaså hade hans följeslagare gjort det under och efter hans livstid.
+En av de rättfärdiga *salaf[^3]* – må Allāh vara nöjda med dem – har berättat att han har sagt: ”*Följ mig och för inte in [saker i religionen]. Detta kommer att vara tillräckligt för er*.” Därmed måste en muslim i frågor om dyrkan endast hålla sig till autentiska föreskrifter och inte lägga till något genom att påstå att det är en god handling. Hade det funnits något gott i det, då hade profeten – över honom vare Allāhs frid och välsignelser – informerat oss om det och han hade gjort det själv. Likaså hade hans följeslagare gjort det under och efter hans livstid.
 
 Därmed är svaret på den ovan nämnda frågan tydligt. Det är att det är nödvändigt att begränsa sig till autentiska föreskrifter om böneutropet och att det är en sorts innovation att lägga till något.
 
