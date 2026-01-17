@@ -48,7 +48,7 @@ Den andra innebörden av att glömma är att avsiktligen och med vetskap bortse 
 >
 >
 >
-> ”En gång i tiden] förmanade och varande Vi Adam, men han glömde [snart Våra ord]; och Vi fann hos honom ingen fasthet i föresatsen.” [Koranen 20:115]
+> "[En gång i tiden] förmanade och varande Vi Adam, men han glömde [snart Våra ord]; och Vi fann hos honom ingen fasthet i föresatsen.” [Koranen 20:115]
 
 Detta är enligt den andra åsikten bland de lärda om innebörden av denna vers.
 
