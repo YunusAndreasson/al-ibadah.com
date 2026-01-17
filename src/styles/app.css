@@ -57,6 +57,7 @@
   --color-foreground: oklch(0.25 0.02 55);
   --color-muted: oklch(0.94 0.01 75);
   --color-muted-foreground: oklch(0.55 0.02 55);
+  --color-subtle-foreground: oklch(0.68 0.015 55);
   --color-border: oklch(0.90 0.01 75);
 
   /* Semantic tokens */
@@ -71,6 +72,7 @@
   --color-foreground: oklch(0.88 0.01 75);
   --color-muted: oklch(0.25 0.015 55);
   --color-muted-foreground: oklch(0.58 0.01 55);
+  --color-subtle-foreground: oklch(0.45 0.01 55);
   --color-border: oklch(0.30 0.015 55);
 
   /* Semantic tokens */
@@ -462,6 +464,7 @@ body {
 .text-foreground { color: var(--color-foreground); }
 .bg-muted { background-color: var(--color-muted); }
 .text-muted-foreground { color: var(--color-muted-foreground); }
+.text-subtle-foreground { color: var(--color-subtle-foreground); }
 .border-border { border-color: var(--color-border); }
 
 /* Interactive hover states */
