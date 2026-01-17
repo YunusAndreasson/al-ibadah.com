@@ -53,7 +53,6 @@ interface ArticleFrontmatter {
   author?: string
   source?: string
   categories: string[]
-  original_id?: number
   description?: string
 }
 

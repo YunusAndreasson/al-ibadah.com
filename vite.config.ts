@@ -66,7 +66,11 @@ export default defineConfig({
     tanstackStart({
       srcDirectory: 'src',
     }),
-    viteReact(),
+    viteReact({
+      babel: {
+        plugins: ['babel-plugin-react-compiler'],
+      },
+    }),
     nitro({
       preset: 'cloudflare_pages',
       output: {

@@ -106,7 +106,11 @@ export interface SearchItem {
   subcategory?: string
 }
 
+let searchIndexCache: SearchItem[] | null = null
+
 export function getSearchIndex(): SearchItem[] {
+  if (searchIndexCache) return searchIndexCache
+
   const items: SearchItem[] = []
 
   for (const cat of contentData) {
@@ -129,5 +133,6 @@ export function getSearchIndex(): SearchItem[] {
     }
   }
 
-  return items
+  searchIndexCache = items
+  return searchIndexCache
 }
