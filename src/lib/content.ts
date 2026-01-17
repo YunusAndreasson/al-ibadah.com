@@ -59,12 +59,14 @@ export async function getCategoryInfo(category: string): Promise<{
 
   return {
     name: cat.name,
-    subcategories: cat.subcategories.map((sub) => ({
-      slug: sub.slug,
-      name: sub.name,
-      articleCount: sub.articles.length,
-    })),
-    articles: cat.articles.map(toArticleListItem),
+    subcategories: cat.subcategories
+      .map((sub) => ({
+        slug: sub.slug,
+        name: sub.name,
+        articleCount: sub.articles.length,
+      }))
+      .sort((a, b) => a.name.localeCompare(b.name, 'sv')),
+    articles: cat.articles.map(toArticleListItem).sort((a, b) => a.title.localeCompare(b.title, 'sv')),
   }
 }
 
@@ -85,7 +87,7 @@ export async function getSubcategoryInfo(
   return {
     categoryName: cat.name,
     subcategoryName: sub.name,
-    articles: sub.articles.map(toArticleListItem),
+    articles: sub.articles.map(toArticleListItem).sort((a, b) => a.title.localeCompare(b.title, 'sv')),
   }
 }
 
