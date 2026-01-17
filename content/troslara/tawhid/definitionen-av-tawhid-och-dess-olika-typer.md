@@ -115,7 +115,7 @@ Låt oss anta att någon bekräftar tron på *tawhīd[^1] ar-rububiyyah[^2]* och
 
 Det är välkänt för alla som läser Allāhs den Allsmäktiges skrift att de månggudadyrkare[^6] som profeten – över honom vare Allāhs frid och välsignelser – stred mot – vars blod och egendomar han tillät, samt vars kvinnor och barn han tillät som slavar och vars får han tillät förskansande av från deras jordar – brukade bekräfta att enbart Allāh är Herren och Skaparen. De hade inga tvivel om detta men då de dyrkade andra jämsides med Honom blev de månggudadyrkare[^6] vars blod var tillåtet att spilla och vars egendom var tillåten att ta.
 
-*Tawhīd[^1] [^4] as-asmā’ was-sifāt’[^4]* innebär att man bekräftar enheten i de namn som Allāh har använt om sig Själv och de egenskaper som Han har beskrivit sig Själv med i Sin skrift eller genom Sitt sändebuds tunga [vad profeten – över honom vare Allāhs frid och välsignelser – har sagt]. Detta innebär att man bekräftar vad Allāh har bekräftat men utan att förvrida, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen].
+*Tawhīd[^1] as-asmā' was-sifāt'[^4]* innebär att man bekräftar enheten i de namn som Allāh har använt om sig Själv och de egenskaper som Han har beskrivit sig Själv med i Sin skrift eller genom Sitt sändebuds tunga [vad profeten – över honom vare Allāhs frid och välsignelser – har sagt]. Detta innebär att man bekräftar vad Allāh har bekräftat men utan att förvrida, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen].
 
 Därmed är det viktigt att tro på de namn som Allāh Själv har använt och de egenskaper som han har beskrivit sig Själv med. Man gör detta utan allogier, utan att försöka förklara hur och utan att dra sig till jämförelser.
 
