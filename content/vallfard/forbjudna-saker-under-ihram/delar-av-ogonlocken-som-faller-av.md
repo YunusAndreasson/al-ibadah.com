@@ -12,7 +12,7 @@ description: 'Fråga: Jag utförde den obligatoriska vallfärden för två år s
  denna fantastiska dag, blev mina ögon röda [...'
 ---
 
-**Fråga:** Jag utförde den obligatoriska vallfärden för två år sedan och det var för första gången. På Arafat[^1]-dagen, då jag gjorde åkallan[^2] till Allāh under denna fantastiska dag, blev mina ögon röda [då jag grät]. När jag var klar och torkade tårarna från mitt ansikte föll två hårstrån av från min ögonlock. Det var inte avsiktligt. Var det på något sätt en synd?
+**Fråga:** Jag utförde den obligatoriska vallfärden för två år sedan och det var för första gången. På *Arafat[^1]*-dagen, då jag gjorde åkallan[^2] till Allāh under denna fantastiska dag, blev mina ögon röda [då jag grät]. När jag var klar och torkade tårarna från mitt ansikte föll två hårstrån av från min ögonlock. Det var inte avsiktligt. Var det på något sätt en synd?
 
 **Svar:** Må Allāh acceptera och mångfaldiga dina belöningar och välsignelser för din iver, ödmjukhet och den handling som du har gjort för att komma Allāh nära.
 

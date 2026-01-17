@@ -12,9 +12,9 @@ description: 'Fråga: Vilket är utlåtandet om den som vallfärdade och lämnad
  Arafat innan solnedgången måste offra ett ...'
 ---
 
-**Fråga:** Vilket är utlåtandet om den som vallfärdade och lämnade Arafat[^1] innan solen hade gått ned. Detta berodde på dennes arbete.
+**Fråga:** Vilket är utlåtandet om den som vallfärdade och lämnade *Arafat[^1]* innan solen hade gått ned. Detta berodde på dennes arbete.
 
-**Svar:** Den som lämnar Arafat[^1] innan solnedgången måste offra ett djur [i gottgörelse] enligt de flesta lärde. Återvänder denne innan kvällen behöver denne inte offra något. Offret sker genom att denne slaktar ett djur som sedan delas ut till de fattiga vid Helgedomen.
+**Svar:** Den som lämnar *Arafat[^1]* innan solnedgången måste offra ett djur [i gottgörelse] enligt de flesta lärde. Återvänder denne innan kvällen behöver denne inte offra något. Offret sker genom att denne slaktar ett djur som sedan delas ut till de fattiga vid Helgedomen.
 
 [^1]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
 

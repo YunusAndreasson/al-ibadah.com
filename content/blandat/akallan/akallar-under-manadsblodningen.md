@@ -12,7 +12,7 @@ description: 'Fråga: Får en kvinna med månadsblödning läsa böcker med åka
  månadsblödning eller kvinnan med blödningar ef...'
 ---
 
-**Fråga:** Får en kvinna med månadsblödning läsa böcker med åkallan[^1] under Arafat[^2]-dagen? Detta trots att de innehåller Koran-verser.
+**Fråga:** Får en kvinna med månadsblödning läsa böcker med åkallan[^1] under *Arafat[^2]*-dagen? Detta trots att de innehåller Koran-verser.
 
 **Svar:** Kvinnan med månadsblödning eller kvinnan med blödningar efter graviditeten syndar inte om de läser föreskrivna åkallan[^1] under vallfärdsriterna. Det finns inga invändningar mot detta eller att de reciterar från Koranen. Detta enligt den starkaste åsikten. Anledningen är att det inte finns några tydliga autentiska bevis som förbjuder kvinnan med månadsblödning eller kvinnan med blödningar efter graviditeten att läsa Koranen.
 

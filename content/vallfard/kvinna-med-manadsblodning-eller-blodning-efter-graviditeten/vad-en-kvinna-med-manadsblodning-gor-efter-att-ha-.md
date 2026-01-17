@@ -14,9 +14,9 @@ description: 'Fråga: Om en kvinna som utför hajjul-tamattu´ går in i ihrām,
 
 **Fråga:** Om en kvinna som utför *hajjul-tamattu[^1]'* går in i *ihrām[^2]*, och precis innan hon når Ka’bah får sin månadsblödning, vad bör hon göra då? Bör hon utföra vallfärden innan *‘umrah[^3]*?
 
-**Svar:** Hon stannar kvar i sin *ihrām[^2]* för *‘umrah[^3]*. Om hon blir ren innan den nionde dagen [i thul-hijja] och hon har möjlighet av slutföra sin *‘umrah[^3]*, då bör hon slutföra den. Sedan bör hon träda in i *ihrām[^2]* för vallfärden och bege sig till Arafat[^4] för att klara av resten av vallfärdsriterna.
+**Svar:** Hon stannar kvar i sin *ihrām[^2]* för *‘umrah[^3]*. Om hon blir ren innan den nionde dagen [i thul-hijja] och hon har möjlighet av slutföra sin *‘umrah[^3]*, då bör hon slutföra den. Sedan bör hon träda in i *ihrām[^2]* för vallfärden och bege sig till *Arafat[^4]* för att klara av resten av vallfärdsriterna.
 
-Blir hon inte ren före för Arafat[^4]-dagen, då går hon in i vallfärden tillsammans med hennes*‘umrah[^3]* sägandes: ”*Allāh! Sannerligen har jag trätt in i *ihrām[^2]* för vallfärden med min ‘umrah[^3]*.” I detta fall blir hon någon som gör *hajjul-qirān[^5]* och hon står tillsammans med folket [vid Arafat[^4]] och fullföljer riterna. Hennes *ihrām[^2]* och *tawāf[^6]* [under *‘eid*-dagen [den tionde dhul-hijjah[^7]] eller efter den för *tawāf[^6] uz-ziyarah*] och sa’ī[^8] är tillräckliga för hennes vallfärd och*‘umrah[^3]*.
+Blir hon inte ren före för *Arafat[^4]*-dagen, då går hon in i vallfärden tillsammans med hennes*‘umrah[^3]* sägandes: ”*Allāh! Sannerligen har jag trätt in i *ihrām[^2]* för vallfärden med min ‘umrah[^3]*.” I detta fall blir hon någon som gör *hajjul-qirān[^5]* och hon står tillsammans med folket [vid *Arafat[^4]*] och fullföljer riterna. Hennes *ihrām[^2]* och *tawāf[^6]* [under *‘eid*-dagen [den tionde *dhul-hijjah[^7]*] eller efter den för *tawāf[^6] uz-ziyarah*] och sa’ī[^8] är tillräckliga för hennes vallfärd och*‘umrah[^3]*.
 
 Hon måste offra ett djur för *qirān*, precis som en *mutamatti[^9]'* måste göra.
 

@@ -21,7 +21,7 @@ Den andra typen är en kompensation för att ha jagat vilt. Man ges då möjligh
 
 Den tredje typen är lösen för *hajjul-tamattu´*[^2] och *hajjul-qirān[^3]* [för att slå ihop vallfärden med *‘umrah[^4]*]. Detta kräver att man slaktar ett djur om man har möjlighet. Om man inte har möjlighet, då måste man fasta tio dagar [tre dagar i Mecka och sju dagar när man återvänder till hemlandet].
 
-Den fjärde typen är att man slaktar ett djur som kompensation om man har utelämnat något i de obligatoriska delarna för vallfärden [spendera natten i Muzdalifah[^5], kasta sten på pelarna, raka huvudet, göra *tawaful-wada*[^6] och träda in i *ihrām[^1]* vid *mīqāt[^7]*]. Den som utelämnar något av detta måste slakta ett djur till de fattiga vid Helgedomen.
+Den fjärde typen är att man slaktar ett djur som kompensation om man har utelämnat något i de obligatoriska delarna för vallfärden [spendera natten i *Muzdalifah[^5]*, kasta sten på pelarna, raka huvudet, göra *tawaful-wada*[^6] och träda in i *ihrām[^1]* vid *mīqāt[^7]*]. Den som utelämnar något av detta måste slakta ett djur till de fattiga vid Helgedomen.
 
 Om man upprepar en förbjuden handling av samma typ [mer än en gång], då behöver man endast offra i försoning en gång. Ett exempel på detta är om man rakar sitt huvud varje dag eller täcker det upprepade gånger. Men om han offrar i försoning för den första gången som man handlade felaktigt och man sedan upprepar det igen, då måste man försona sig en andra gång genom ett offer.
 

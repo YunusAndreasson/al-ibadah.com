@@ -12,7 +12,7 @@ description: 'Fråga: Får den som inte har någon ursäkt kasta stenar på pela
  barn och svaga under natten före offerdage...'
 ---
 
-**Fråga:** Får den som inte har någon ursäkt kasta stenar på pelarna nattetid under *at-ayyām at-tashrīq*? Får den som beger sig från Muzdalifah[^1] med kvinnor, barn och svaga under natten före offerdagen kasta stenar på pelaren al-´Aqabah efter midnatt?
+**Fråga:** Får den som inte har någon ursäkt kasta stenar på pelarna nattetid under *at-ayyām at-tashrīq*? Får den som beger sig från *Muzdalifah[^1]* med kvinnor, barn och svaga under natten före offerdagen kasta stenar på pelaren al-´Aqabah efter midnatt?
 
 **Svar:** Enligt den korrekta åsikten är det tillåtet att kasta stenarna efter solnedgången. Det som är *sunnah[^2]* är dock att kasta dem efter middag men innan solnedgången. Detta är bäst om det går bra. Om det inte går bra så får man kasta stenarna efter solnedgången. Detta enligt den korrekta åsikten.
 

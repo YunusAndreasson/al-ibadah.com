@@ -81,7 +81,7 @@ Ber han inte överhuvudtaget, varken i hemmet eller i församlingen, är han en 
 
 Beträffande vad frågeställaren har sagt om att fadern till kvinnan som det har friats till har frågat om honom och den som fadern frågade sade: ”Allāh kommer att vägleda honom.” Här säger vi att enbart Allāh den Upphöjde känner till framtiden och hur det kommer att bli ligger i Hans hand och vi tillfrågas inte om något annat än det vi känner till just nu. Det rådande tillståndet för friaren är otro och han får inte gifta sig med den muslimska kvinnan. Vi ber då Allāh den Upphöjde att Han vägleder honom tillbaka till islam så att han ska kunna gifta sig med denna muslimska kvinna. Detta är inte något som är svårt för Allāh.
 
-Detta svar har givits av en som är i behov av Allāh, Muḥammad Sālih al-'Uthaimīn, och det har nedtecknats med hans hand den artonde dhul-hijjah[^5] 1400 AH.
+Detta svar har givits av en som är i behov av Allāh, Muḥammad Sālih al-'Uthaimīn, och det har nedtecknats med hans hand den artonde *dhul-hijjah[^5]* 1400 AH.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.

@@ -22,7 +22,7 @@ Samma gäller ansiktsslöja, *burqa'* och liknande plagg. Hon bär inte dem öve
 
 Anledningen är en *hadīth[^5]* i vilken ‘A’ishah – må Allāh vara nöjd med henne – säger: ”*Ryttare brukade passera förbi oss när vi var med Allāhs sändebud. När de kom till oss sänkte vi våra Jilbāb från huvudet [med] över ansiktet. När de hade passerat oss avtäckte vi det [ansiktet]*.” [*Abū Dawūd* 1833 och *Ibn Mājah* 2935] Abū Dawūd och Ibn Mājah har återgivit detta.
 
-Enligt den korrekta åsikten får män bära lädersockar även om de inte är avklippta [nedanför vristen]. Majoriteten av de lärde säger att de bör klippas av [nedanför vristen], men den korrekta åsikten är att det inte är nödvändigt att klippa av dem om det inte går att hitta två sandaler. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – predikade för folket vid Arafat[^6] och sade: ”*Den som inte finner ett midjeplagg, låt denne då bära byxor. Och den som inte finner två sandaler, låt denne bära två lädersockar*.” [*al-Bukhārī* 1841, *Muslim* 1178]
+Enligt den korrekta åsikten får män bära lädersockar även om de inte är avklippta [nedanför vristen]. Majoriteten av de lärde säger att de bör klippas av [nedanför vristen], men den korrekta åsikten är att det inte är nödvändigt att klippa av dem om det inte går att hitta två sandaler. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – predikade för folket vid *Arafat[^6]* och sade: ”*Den som inte finner ett midjeplagg, låt denne då bära byxor. Och den som inte finner två sandaler, låt denne bära två lädersockar*.” [*al-Bukhārī* 1841, *Muslim* 1178]
 
 Äktheten i denna *hadīth[^5]* är man enig om. Han beordrade inte att de skulle klippas, detta bevisar att kommenderingen att klippa dem har upphävts.
 

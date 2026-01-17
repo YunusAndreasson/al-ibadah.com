@@ -40,7 +40,7 @@ Utan tvekan är syftet i att Allāh skapade alla att de ska dyrka enbart Honom u
 
 > ”Den som står efter [jordisk] makt och ära [ska veta att] all ära tillhör Gud. De goda orden stiger upp till Honom och Han förhöjer [värdet av] varje god handling. Men de som i tysthet smider onda planer har ett strängt straff att vänta och deras planer ska slå fel.” [Koranen 35:10]
 
-Utan tvekan är rättfärdiga handlingar de handlingar som för en människa närmare Allāh vid alla tidpunkter, och Herren av *ramadan[^1]* är även Herren av jumāda, sha’ban, dhu’l-hijjah, muharram[^2], safar[^3] och andra månader. Detta beror på att den dyrkan som Allāh har påbjudit oss inkluderar fem pelare, varav en är fastan under en angiven tid som har kommit till sitt slut. Men det återstår pelare: pilgrimsfärden, bönen och allmosan som vi är ansvariga för inför Allāh. Vi måste utföra dessa plikter på ett sätt som glädjer Allāh och vi måste kämpa för att uppfylla det syfte som vi har skapats för. Allāh säger:
+Utan tvekan är rättfärdiga handlingar de handlingar som för en människa närmare Allāh vid alla tidpunkter, och Herren av *ramadan[^1]* är även Herren av jumāda, sha’ban, dhu’l-hijjah, *muharram[^2]*, safar[^3] och andra månader. Detta beror på att den dyrkan som Allāh har påbjudit oss inkluderar fem pelare, varav en är fastan under en angiven tid som har kommit till sitt slut. Men det återstår pelare: pilgrimsfärden, bönen och allmosan som vi är ansvariga för inför Allāh. Vi måste utföra dessa plikter på ett sätt som glädjer Allāh och vi måste kämpa för att uppfylla det syfte som vi har skapats för. Allāh säger:
 
 > ”Jag har skapat de osynliga väsendena och människorna enbart för att de ska [känna Mig och] dyrka Mig.” [Koranen 51:56]
 
