@@ -25,7 +25,7 @@ Vilket är det islamiska utlåtandet om välgörenheten som de samlar in och del
 
 **Svar:** Recitation av Koranen är en […] och ett medel för att söka Allāhs närhet. En muslim antas göra detta för Allāhs skull och för Hans belöningar. Man ska inte förvänta sig belöningar eller uppskattning från sina medmänniskor.
 
-Det har aldrig rapporterats att de rättfärdiga föregångarna hyrde någon för att läsa Koranen under deras ”fester”. Det har heller inte rapporterats att de lärde har beordrat eller ens tillåtet detta. Och vidare har det inte rapporterats att någon av dem har tagit betalt för att recitera Koranen under en glädjefull sammankomst eller vid något annat tillfälle. I stället har de läst Allāhs skrift och varit förväntansfulla över vad Han har förberett för dem.
+Det har aldrig rapporterats att de rättfärdiga föregångarna hyrde någon för att läsa Koranen under deras ”fester”. Det har heller inte rapporterats att de lärde har beordrat eller ens tillåtit detta. Och vidare har det inte rapporterats att någon av dem har tagit betalt för att recitera Koranen under en glädjefull sammankomst eller vid något annat tillfälle. I stället har de läst Allāhs skrift och varit förväntansfulla över vad Han har förberett för dem.
 
 Profeten – över honom vare Allāhs frid och välsignelser – har beordrat dem som läser Koranen att be Allāh genom den och varnat dem för att tigga. at-Tirmithi återger i sin *Sunan* att ’Imrān bin Hussain passerade en predikant som började tigga efter att ha avslutat sin predikan. ’Imrān sade:
 
