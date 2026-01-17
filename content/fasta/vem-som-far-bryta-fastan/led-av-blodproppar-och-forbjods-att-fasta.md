@@ -17,9 +17,9 @@ description: 'Fråga: En kvinna led av blodproppar och läkarna förbjöd henne 
 
 **Svar:** Allāh den Upphöjde säger:
 
-> ”För att ge människorna vägledning [inleddes] i månaden ramadan[^1] uppenbarelsen av Koranen i vilken vägledningen klargörs och en måttstock ges med vilken rätt kan mätas och skiljas från orätt. Den av er som ser månens nytändning ska fasta månaden ut. Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarande antal dagar. Gud vill göra det lätt – inte tungt – för er. Håll [fastan under den föreskrivna] perioden och prisa Gud som har väglett er – kanske ska ni visa [Honom] tacksamhet.” [Koranen 2:185]
+> ”För att ge människorna vägledning [inleddes] i månaden *ramadan[^1]* uppenbarelsen av Koranen i vilken vägledningen klargörs och en måttstock ges med vilken rätt kan mätas och skiljas från orätt. Den av er som ser månens nytändning ska fasta månaden ut. Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarande antal dagar. Gud vill göra det lätt – inte tungt – för er. Håll [fastan under den föreskrivna] perioden och prisa Gud som har väglett er – kanske ska ni visa [Honom] tacksamhet.” [Koranen 2:185]
 
-Är någon sjuk och det inte förvänts att denne kommer att tillfriskna, då måste denne föda en fattig för varje dag [under ramadan[^1]]. Sättet den fattige föds på är genom att dela ut mat, som exempelvis ris. Det är bättre om de får det tillsammans med någon annan mat, som kött eller liknande. Det går också bra att bjuda in de fattiga på middag eller lunch. Detta är utlåtandet om en sjukling som inte förväntas tillfriskna. Kvinnan som frågeställaren har nämnt hamnar i denna kategori. Denne måste då föda en fattig för varje dag.
+Är någon sjuk och det inte förvänts att denne kommer att tillfriskna, då måste denne föda en fattig för varje dag [under *ramadan[^1]*]. Sättet den fattige föds på är genom att dela ut mat, som exempelvis ris. Det är bättre om de får det tillsammans med någon annan mat, som kött eller liknande. Det går också bra att bjuda in de fattiga på middag eller lunch. Detta är utlåtandet om en sjukling som inte förväntas tillfriskna. Kvinnan som frågeställaren har nämnt hamnar i denna kategori. Denne måste då föda en fattig för varje dag.
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

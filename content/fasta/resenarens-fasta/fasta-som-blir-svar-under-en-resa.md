@@ -18,7 +18,7 @@ description: 'Fråga: Vilket är utlåtandet om fastan för en resenär om den b
 
 Men om det är mycket svårt så måste fastan brytas. När folket klagade inför sändebudet om att fastan hade blivit för svår för dem, då bröt han fastan. Han fick sedan veta att några fastade och han sade: ”*Dessa är de olydiga, dessa är de olydiga*.” [*Muslim*]
 
-För den som inte finner någon svårighet i fastan är det bättre att fasta. Detta för att följa sändebudets exempel då han brukade fasta. Abū Darda' sade: ”*Vi har tillsammans med Allāhs sändebud under en resa i ramadan[^1]. Det var extremt varmt. Ingen av oss fastade utom Allāhs sändebud och ´Abdullāh bin Rawahah*.” [*al-Bukhārī* 1945 och *Muslim* 1122]
+För den som inte finner någon svårighet i fastan är det bättre att fasta. Detta för att följa sändebudets exempel då han brukade fasta. Abū Darda' sade: ”*Vi har tillsammans med Allāhs sändebud under en resa i *ramadan[^1]*. Det var extremt varmt. Ingen av oss fastade utom Allāhs sändebud och ´Abdullāh bin Rawahah*.” [*al-Bukhārī* 1945 och *Muslim* 1122]
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

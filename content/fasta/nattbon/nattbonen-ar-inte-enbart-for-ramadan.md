@@ -13,13 +13,13 @@ description: 'Fråga: Ber man nattbönen enbart under den välsignade månaden r
  nattbön är sunnah och en ärbar handling som...'
 ---
 
-**Fråga:** Ber man nattbönen enbart under den välsignade månaden ramadan[^1] eller ber man den under alla nätter? När börjar och slutar den?
+**Fråga:** Ber man nattbönen enbart under den välsignade månaden *ramadan[^1]* eller ber man den under alla nätter? När börjar och slutar den?
 
 **Svar:** Att be nattbön är *sunnah[^2]* och en ärbar handling som profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare vara noga med att utföra. Allāh har sagt:
 
 > ”Din Herre vet att du [Muḥammad] vakar [i bön] nästan två tredjedelar av natten eller halva natten eller en tredjedel av den, tillsammans med några av dina följeslagare.” [Koranen 73:20]
 
-Detta gäller inte enbart under ramadan[^1]. Tiden är mellan nattbönen[^3] och gryningsbönen[^4]. Bönen under den sista delen av natten är dock bättre men om han ber under mitten av natten kommer man [också] att belönas. Det är bättre om den bes när man har sovit lite eller under den sista hälften av natten.
+Detta gäller inte enbart under *ramadan[^1]*. Tiden är mellan nattbönen[^3] och gryningsbönen[^4]. Bönen under den sista delen av natten är dock bättre men om han ber under mitten av natten kommer man [också] att belönas. Det är bättre om den bes när man har sovit lite eller under den sista hälften av natten.
 
 Och Allāh vet bäst.
 

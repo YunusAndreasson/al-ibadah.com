@@ -17,7 +17,7 @@ description: 'Fråga: Vilka är de tillstånd som beviljas för en resenär? Sva
 **Svar:** De tillstånd som beviljas för en resenär är fyra:
 
 1. Att bönerna som är fyra bönecykler[^1] kortas ned till två.
-2. Att det blir tillåtet att bryta fastan under ramadan[^2] och ta igen den vid ett senare tillfälle.
+2. Att det blir tillåtet att bryta fastan under *ramadan[^2]* och ta igen den vid ett senare tillfälle.
 3. Att det går bra att stryka över sockarna under tre dagar och tre nätter efter att man har strukit över dem första gången [när man har tvagat sig inför bönen].
 4. De vanliga *sunnah[^3]*-bönerna behöver inte bes vid middagsbönen[^4], kvällsbönen[^5] och nattbönen[^6]. *Sunnah[^3]*-bönen vid gryningsbönen[^7] och de andra frivilliga bönerna är fortfarande tillåtna och föredragna.
 

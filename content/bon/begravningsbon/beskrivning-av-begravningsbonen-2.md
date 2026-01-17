@@ -29,7 +29,7 @@ Sedan gör han den andra *takbīr[^1]* och sänder böner över profeten – öv
 
 Därefter gör man den tredje *takbīr[^1]* och åkallar[^3] med de ord som har rapporterats från profeten:
 
-> ”*Allāhummaghfir lihayyina wa mayyitina, wa shahidina wa gha'ibina, wa saghhīrina wa kabīrina, wa thakarina wa unthana. Allāhumma man ahyaitahu minna fa'ahyihi 'alal-islām, wa man tawāf[^4] faitahu minna fatawāf[^4] fahu 'alal-īman. Allāhummaghfir lahu, warhamhu, wa 'afihi, wa'fu 'anhu, wa akrim nuzulahu, wa wassi' mudkhalahi, waghsilhu bil-ma'i wath-thalji wal-baradi, wa naqqihi minal-khataya kama yunaq-qath-thawbul-abyadhu minad-danas. Allāhumma la tahrimna ajrahu, wa la tudhillana ba'dahu, waghfir lana wa lahu*.” [Muslim]
+> ”*Allāhummaghfir lihayyina wa mayyitina, wa shahidina wa gha'ibina, wa saghhīrina wa kabīrina, wa thakarina wa unthana. Allāhumma man ahyaitahu minna fa'ahyihi 'alal-islām, wa man *tawāf[^4]* faitahu minna fatawāf[^4] fahu 'alal-īman. Allāhummaghfir lahu, warhamhu, wa 'afihi, wa'fu 'anhu, wa akrim nuzulahu, wa wassi' mudkhalahi, waghsilhu bil-ma'i wath-thalji wal-baradi, wa naqqihi minal-khataya kama yunaq-qath-thawbul-abyadhu minad-danas. Allāhumma la tahrimna ajrahu, wa la tudhillana ba'dahu, waghfir lana wa lahu*.” [Muslim]
 
 Det går även bra att välja något annat som har rapporterats från profeten – över honom vare Allāhs frid och välsignelser.
 

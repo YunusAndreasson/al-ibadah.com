@@ -12,7 +12,7 @@ description: 'Fråga: Används utlåtandet om resande om buss- och bilchaufföre
  resenärer tillämpas på dem. De får förkor...'
 ---
 
-**Fråga:** Används utlåtandet om resande om buss- och bilchaufförer eftersom de jobbar utanför staden dagtid under ramadan[^1]?
+**Fråga:** Används utlåtandet om resande om buss- och bilchaufförer eftersom de jobbar utanför staden dagtid under *ramadan[^1]*?
 
 **Svar:** Ja, utlåtandet för resenärer tillämpas på dem. De får förkorta och slå ihop bönerna samt bryta fastan. Om någon säger: ”När fastar de då de jobbar hela tiden?” svarar vi: ”De fastar under vinterdagarna då de är korta och svala.” När det gäller chaufförer som arbetar i städerna gäller inte utlåtandet om resenärer. De måste fasta.
 

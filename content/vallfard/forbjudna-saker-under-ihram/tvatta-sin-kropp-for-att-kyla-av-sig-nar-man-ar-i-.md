@@ -11,7 +11,7 @@ description: 'Fråga: Får en pilgrim tvätta hela sin kropp för att svalka sig
  för att svalka den om den är varm. Detta komm...'
 ---
 
-**Fråga:** Får en pilgrim tvätta hela sin kropp för att svalka sig under ihrām[^1]?
+**Fråga:** Får en pilgrim tvätta hela sin kropp för att svalka sig under *ihrām[^1]*?
 
 **Svar:** All lovprisan tillhör Allāh. En muslim får tvätta hela sin kropp för att svalka den om den är varm. Detta kommer att ge denne mer energi för att utföra denna dyrkan. Denne bör vara varsam under tvätten så att inget hår eller delar av huden faller av när denne tvättar sig.
 

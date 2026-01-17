@@ -16,7 +16,7 @@ description: 'Fråga: Det finns en kvinna som bland annat har blivit mentalt sju
 
 **Fråga:** Det finns en kvinna som bland annat har blivit mentalt sjuk och fått feber. På grund av sjukdomens inverkan har hon inte fastat under ungefär fyra år. Tar hon under dessa omständigheter igen fastan och vilket är utlåtandet?
 
-**Svar:** Om hon har utelämnat fastan eftersom hon inte har kunnat [fasta], då måste hon ta igen det som hon inte har fastat under ramadan[^1] under de fyra år som hon har haft möjlighet att göra det. Allāh säger:
+**Svar:** Om hon har utelämnat fastan eftersom hon inte har kunnat [fasta], då måste hon ta igen det som hon inte har fastat under *ramadan[^1]* under de fyra år som hon har haft möjlighet att göra det. Allāh säger:
 
 > ”Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarande antal dagar. Gud vill göra det lätt – inte tungt – för er. Håll [fastan under den föreskrivna] perioden och prisa Gud som har väglett er – kanske ska ni visa [Honom] tacksamhet.” [Koranen 2:185]
 

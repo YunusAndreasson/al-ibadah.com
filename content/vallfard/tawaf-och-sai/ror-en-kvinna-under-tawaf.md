@@ -23,7 +23,7 @@ Anledningen är att profeten – över honom vare Allāhs frid och välsignelser
 
 Den rätta förklaringen av Allāhs ord: ”*Eller haft beröring med kvinnor*.” [Koranen 5:6] är att de avser intim samvaro. Detsamma gäller ett annat uttalande: ”*eller ni som har rört kvinnor*”. Även detta avser intim samvaro. Ibn ‘Abbās och några lärde har berättat detta. Det betyder inte att man enbart rör en kvinna, som rapporterats från Ibn Mas’ūd. I stället är den korrekta åsikten att det avser intim samvaro, vilket Ibn ‘Abbās och några lärde har sagt.
 
-Genom detta lär vi oss att den som rör en kvinnas kropp under tawāf[^1] fortfarande har en korrekt *tawāf[^1]* och att dennes tvagning[^2] är giltig. Även om denne rör eller kysser sin fru är dennes tvagning[^2] giltig så länge inget kommer ur honom [vätska eller sperma].
+Genom detta lär vi oss att den som rör en kvinnas kropp under *tawāf[^1]* fortfarande har en korrekt *tawāf[^1]* och att dennes tvagning[^2] är giltig. Även om denne rör eller kysser sin fru är dennes tvagning[^2] giltig så länge inget kommer ur honom [vätska eller sperma].
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Wudū

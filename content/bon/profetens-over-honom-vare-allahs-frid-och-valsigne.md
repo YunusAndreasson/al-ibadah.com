@@ -89,7 +89,7 @@ Det som bryter bönen
 
 ***Takbīr***
 
-1. Sedan börjar man bönen genom att säga: ”*Allāhu akbar*.” Detta är en väsentlig del av bönen då profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Nyckeln till bönen är att rena sig. Den träds in i genom takbīr[^4] och träds ur genom taslīm[^13]*”, det vill säga när du säger *takbīr[^4]* blir vissa saker förbjudna och dessa förbud hävs när du säger *taslīm[^13]*.
+1. Sedan börjar man bönen genom att säga: ”*Allāhu akbar*.” Detta är en väsentlig del av bönen då profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Nyckeln till bönen är att rena sig. Den träds in i genom takbīr[^4] och träds ur genom *taslīm[^13]**”, det vill säga när du säger *takbīr[^4]* blir vissa saker förbjudna och dessa förbud hävs när du säger *taslīm[^13]*.
 2. Man bör inte höja sin röst när han säger *takbīr[^4]*, utom om man agerar imam.
 3. Böneutroparen får förmedla *takbīr[^4]* ifrån imamen till folket om det finns ett behov av det, som när imamen är sjuk och dennes röst är svag eller för att det finns många dyrkande bakom.
 4. Den som följer imamen bör inte säga *takbīr[^4]* förrän imamen har avslutat sin *takbīr[^4]*.
@@ -199,7 +199,7 @@ Räta sig upp från bugningen
 2. När man reser sig upp säger man: ”*Sami’a Allāhu liman hamidah* [Allāh hör den som prisar Honom].” Detta är obligatoriskt.
 3. När han rätar upp sig på det sätt som har beskrivits ovan höjer man sina händer.
 4. Därefter står man rakt tills varje ryggkota har återvänt till sin plats. Detta är en väsentlig del av bönen.
-5. När man står säger man: ”*Rabbanā wa laka al-hamd* [vår Herre, lovprisad vare Du].” [Det finns andra former av åminnelse[^22] av Allāh som kan sägas vid denna punkt. Se *Sifat al-Salāh*, s. 135 [*The Prophet's prayer described*, s. 47]. Även om man inte följer en imam är detta obligatoriskt för dem som ber. Det beror på att detta är den åminnelse[^22] av Allāh man gör när man står [rakt upp] efter bugningen. ”*Sami’a Allāhu liman hamidah*” är den åminnelse[^22] av Allāh som man säger när man reser sig upp från bugningen[^5]. Det är inte föreskrivet att placera händerna över varandra när man står så här på grund av det inte har återberättats [från profeten]. För ytterligare detaljer, se *Sifat Salāt al-Nabi*, 1 – Istiqbāl al-qiblah[^3] [*The Prophet's Prayer Described* – Facing the Ka’bah].
+5. När man står säger man: ”*Rabbanā wa laka al-hamd* [vår Herre, lovprisad vare Du].” [Det finns andra former av åminnelse[^22] av Allāh som kan sägas vid denna punkt. Se *Sifat al-Salāh*, s. 135 [*The Prophet's prayer described*, s. 47]. Även om man inte följer en imam är detta obligatoriskt för dem som ber. Det beror på att detta är den åminnelse[^22] av Allāh man gör när man står [rakt upp] efter bugningen. ”*Sami’a Allāhu liman hamidah*” är den åminnelse[^22] av Allāh som man säger när man reser sig upp från bugningen[^5]. Det är inte föreskrivet att placera händerna över varandra när man står så här på grund av det inte har återberättats [från profeten]. För ytterligare detaljer, se *Sifat Salāt al-Nabi*, 1 – Istiqbāl al-*qiblah[^3]* [*The Prophet's Prayer Described* – Facing the Ka’bah].
 6. Detta stående gör man lika långt som bugningen[^5], vilket har berättats om ovan.
 
 **Nedfallan[^1]**

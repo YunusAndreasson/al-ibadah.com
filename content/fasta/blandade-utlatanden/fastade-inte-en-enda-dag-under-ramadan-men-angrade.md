@@ -13,7 +13,7 @@ description: 'Fråga: Vilket är utlåtandet om någon som avsiktligen åt dagti
  dennes ånger accepteras eftersom Allāh ha...'
 ---
 
-**Fråga:** Vilket är utlåtandet om någon som avsiktligen åt dagtid under ramadan[^1] och som sedan ångrade sig inför Allāh? Accepteras dennes ånger?
+**Fråga:** Vilket är utlåtandet om någon som avsiktligen åt dagtid under *ramadan[^1]* och som sedan ångrade sig inför Allāh? Accepteras dennes ånger?
 
 **Svar:** Ja, dennes ånger accepteras eftersom Allāh har sagt:
 

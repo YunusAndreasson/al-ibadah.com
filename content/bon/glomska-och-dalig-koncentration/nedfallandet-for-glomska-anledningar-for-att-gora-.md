@@ -26,7 +26,7 @@ I en *hadīth[^6]* från Ibn Mas’ūd säger han att profeten – över honom v
 
 Beträffande utelämnande, om man utelämnar en av bönens pelare hamnar man i en av följande kategorier:
 
-Man kommer ihåg det innan man når dess plats i den andra bönecykeln[^4]. I det fall måste man gå tillbaka och utföra den pelaren och det som följer efter den. Eller så kommer man inte ihåg förrän man når dess plats i den andra bönecykeln[^4]. I detta fall kommer denna andra bönecykeln[^4] att ersätta den bönecykel[^4] där man utelämnade en pelare. Då blir denna bönecykel[^4] en ersättning för den första. I båda dessa fall måste man nedfalla efter taslīm[^5].
+Man kommer ihåg det innan man når dess plats i den andra bönecykeln[^4]. I det fall måste man gå tillbaka och utföra den pelaren och det som följer efter den. Eller så kommer man inte ihåg förrän man når dess plats i den andra bönecykeln[^4]. I detta fall kommer denna andra bönecykeln[^4] att ersätta den bönecykel[^4] där man utelämnade en pelare. Då blir denna bönecykel[^4] en ersättning för den första. I båda dessa fall måste man nedfalla efter *taslīm[^5]*.
 
 Ett exempel på detta skulle vara om man reste sig upp efter att ha utfört det första nedfallandet i den första bönecykeln[^4] och man varken satt ned eller utförde det andra nedfallandet[^3]. När man sedan börjar recitationen kommer man ihåg att man inte har nedfallt eller suttit mellan de båda nedfallandena[^3]. I detta fall måste man gå tillbaka och sitta mellan de båda nedfallandena[^3], nedfalla och stå upp för att utföra det som återstår av bönen. När man är klar med bönen gör han nedfallandet för glömska efter *taslīm[^5]*.
 

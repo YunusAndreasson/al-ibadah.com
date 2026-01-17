@@ -13,7 +13,7 @@ description: 'Fråga: Somliga manar till att alla ska följa månens siktande i 
  samtidigt. Vad anser ni om detta? Svar: F...'
 ---
 
-**Fråga:** Somliga manar till att alla ska följa månens siktande i Mecka för att det muslimska samfundet under den välsignade ramadan[^1] ska börja fastan samtidigt. Vad anser ni om detta?
+**Fråga:** Somliga manar till att alla ska följa månens siktande i Mecka för att det muslimska samfundet under den välsignade *ramadan[^1]* ska börja fastan samtidigt. Vad anser ni om detta?
 
 **Svar:** Från en astronomisk synvinkel är detta omöjligt därför att nymånens framträdande, vilket *shaykh ul-Islām[^2]* ibn Taymiyyah – må Allāh vara honom nådig – påpekar, skiljer sig [från plats till plats] enligt det konsensus som råder bland kunniga inom detta område. Då det skiljer sig blir det nödvändigt – genom bevisen i Koranen, profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]* och vetenskapen – att varje land måste följa ett eget utlåtande.
 

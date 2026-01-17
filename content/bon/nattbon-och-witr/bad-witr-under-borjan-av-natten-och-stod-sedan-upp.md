@@ -14,7 +14,7 @@ description: 'Fråga: Om jag bad witr i början av natten och jag sedan stod fö
 
 **Fråga:** Om jag bad *witr[^1]* i början av natten och jag sedan stod för att be i slutet av natten – hur ber jag då?
 
-**Svar:** Om du bad *witr[^1]* under början av natten och Allāh sedan gjorde det lätt för dig att gå upp och be under slutet av den, be då vad Allāh gör lätt för dig att be i enheter om två bönecykler[^2] utan *witr[^1]*. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Det kan inte finnas två witr[^1]-böner under en natt*.” [*Abū Dawūd* 1439 och *at-Tirmithi* 470]
+**Svar:** Om du bad *witr[^1]* under början av natten och Allāh sedan gjorde det lätt för dig att gå upp och be under slutet av den, be då vad Allāh gör lätt för dig att be i enheter om två bönecykler[^2] utan *witr[^1]*. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Det kan inte finnas två *witr[^1]*-böner under en natt*.” [*Abū Dawūd* 1439 och *at-Tirmithi* 470]
 
 Det finns även en *hadīth[^3]* rapporterad från ‘A’ishah där hon säger att profeten – över honom vare Allāhs frid och välsignelser – brukade be två bönecykler[^2] efter *witr[^1]* medan han satt. Visdomen i detta – och Allāh vet bäst – var att visa för folket att det är tillåtet att be efter *witr[^1]*.
 

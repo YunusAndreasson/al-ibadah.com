@@ -22,7 +22,7 @@ Vi känner inte till någon *sunnah[^1]* från profeten – över honom vare All
 
 Imamen som åkallar[^2] efter *taslīm[^3]*, och de runt om honom som säger *āmīn* och höjer händerna, de måste lägga fram bevis för detta. Kan de inte det så är handlingen avvisad.
 
-I ljuset av detta kan vi lära oss något om hans vägledning: ”*När han gjorde taslīm[^3], då brukade han be om Allāhs förlåtelse tre gånger och sedan säga: ”'Allāhumma, Antas-Salamu wa minkas-salamu, tabarakta ya Thal-Jalali wal-Ikram*.” [*Muslim* 591]
+I ljuset av detta kan vi lära oss något om hans vägledning: ”*När han gjorde *taslīm[^3]*, då brukade han be om Allāhs förlåtelse tre gånger och sedan säga: ”'Allāhumma, Antas-Salamu wa minkas-salamu, tabarakta ya Thal-Jalali wal-Ikram*.” [*Muslim* 591]
 
 Det sades till al-Awza'i: ”*Hur ber man om förlåtelse?*” Han svarade: '*Astagfirullāh, Astagfirullāh*.”
 

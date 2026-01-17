@@ -13,7 +13,7 @@ description: Har det autentiskt rapporterats att profeten – över honom vare A
  honom vare Allāhs frid och välsignelser – be...
 ---
 
-Har det autentiskt rapporterats att profeten – över honom vare Allāhs frid och välsignelser – mötte jinn[^1]?
+Har det autentiskt rapporterats att profeten – över honom vare Allāhs frid och välsignelser – mötte *jinn[^1]*?
 
 Ja, det har rapporterats att profeten – över honom vare Allāhs frid och välsignelser – berättade om detta för följeslagarna och att han visat dem spår. Läs vad Ibn Kathīr har skrivit i sin Tafsīr som kommentar till sura al-Ahqaf: ”Och se, Vi lät en liten skara av osynliga väsen närma dig [Muḥammad], så att de kunde höra [dig läsa ur] Koranen.” [Koranen 46:29]
 

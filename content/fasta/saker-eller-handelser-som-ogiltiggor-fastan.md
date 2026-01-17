@@ -63,7 +63,7 @@ Intentionen, vilket innebär att den fastande väljer att göra något som gör 
 
 Med detta som grund: Om det kom in damm i den fastandes näsa och denne kändes smaken av det i sin hals, och det fortsatte ned i magen, då skulle det inte leda till att fastan bryts eftersom denne inte avsiktligen avsåg att göra så. Likaledes om den fastande tvingas att bryta fastan och då gjorde det på grund av detta tvång, då är fastan giltig då detta inte skedde avsiktligen. Och på samma sätt om den fastande hade en våt dröm under sömnen, då är fastan giltig då den sovande inte har någon intention. Och åter på samma sätt om en man tvingar sin fru till intim samvaro med honom under hennes fasta, då är hennes fasta giltig då hon inte valde detta själv.
 
-Här föreligger något som vi måste förstå: Om en man bryter fastan, genom att dagtid under ramadan[^4] när fastan är en skyldighet, ha intim samvaro med sin fru, då finns det fem konsekvenser av denna otillåtna intima samvaro:
+Här föreligger något som vi måste förstå: Om en man bryter fastan, genom att dagtid under *ramadan[^4]* när fastan är en skyldighet, ha intim samvaro med sin fru, då finns det fem konsekvenser av denna otillåtna intima samvaro:
 
 1. Synden,
 2. skyldigheten att fasta under återstoden av dagen,
@@ -71,7 +71,7 @@ Här föreligger något som vi måste förstå: Om en man bryter fastan, genom a
 4. skyldigheten att ta igen den och
 5. gottgörelsen.
 
-Det spelar ingen roll om denne kände till vad som krävs efter denna otillåtna intima samvaro eller om denne var okunnig i frågan. Detta betyder att om en man har intim samvaro under ramadan[^4] då fastan är en skyldighet, men denne inte känner till att det finns ett krav i att gottgöra sig, då gäller det tidigare nämnda utlåtandet om intim samvaro för denne. Detta beror på att denne avsåg att göra fastan ogiltig och det som gör fastan ogiltig gör det nödvändigt att utlåtandet tillämpas på denne. Faktum är att det i en *hadīth[^2]* från Abū Hurairah nämns att en man kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: ”*Och vad har förstört dig?*” Han svarade: ”*Under ramadan[^4] hade jag intim samvaro med min fru när jag fastade*.” [*al-Bukhārī* 1936 och *Muslim* 1111] Profeten – över honom vare Allāhs frid och välsignelser – beordrade honom då att gottgöra sig för detta trots att mannen inte kände till att han var skyldig till det […]
+Det spelar ingen roll om denne kände till vad som krävs efter denna otillåtna intima samvaro eller om denne var okunnig i frågan. Detta betyder att om en man har intim samvaro under *ramadan[^4]* då fastan är en skyldighet, men denne inte känner till att det finns ett krav i att gottgöra sig, då gäller det tidigare nämnda utlåtandet om intim samvaro för denne. Detta beror på att denne avsåg att göra fastan ogiltig och det som gör fastan ogiltig gör det nödvändigt att utlåtandet tillämpas på denne. Faktum är att det i en *hadīth[^2]* från Abū Hurairah nämns att en man kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: ”*Och vad har förstört dig?*” Han svarade: ”*Under *ramadan[^4]* hade jag intim samvaro med min fru när jag fastade*.” [*al-Bukhārī* 1936 och *Muslim* 1111] Profeten – över honom vare Allāhs frid och välsignelser – beordrade honom då att gottgöra sig för detta trots att mannen inte kände till att han var skyldig till det […]
 
 [^1]: Hijamah
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

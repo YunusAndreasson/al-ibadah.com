@@ -90,7 +90,7 @@ När det gäller vår ståndpunkt mot de lärda som har gjort *ta’wil* säger 
 
 Det är nödvändigt att skilja mellan ett utlåtande och den som sade det, och mellan en handling och den som utförde den. Har ett felaktigt utlåtande sitt ursprung i *ijtihād[^5]* och goda intentioner skuldbeläggs inte den som sade det. Utan tvekan har denne fått en belöning för sin *ijtihād[^5]*. Profeten sade:
 
-> ”Om en domare utfärdar en dom och denne däri använder *ijtihād[^5]* och denne har rätt, då har denne två belöningar. Men om denne utfärdar en dom och utöver ijtihād[^5] däri och denne har fel, då har denne en belöning.” [*al-Bukhārī* 7352 och *Muslim* 1716]
+> ”Om en domare utfärdar en dom och denne däri använder *ijtihād[^5]* och denne har rätt, då har denne två belöningar. Men om denne utfärdar en dom och utöver *ijtihād[^5]* däri och denne har fel, då har denne en belöning.” [*al-Bukhārī* 7352 och *Muslim* 1716]
 […]
 
 [^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.

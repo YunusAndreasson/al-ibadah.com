@@ -19,7 +19,7 @@ description: 'Fråga: När och hur fastar och ber den resande? Svar: Den resande
 
 Anas bin Mālik sade: ”*Vi gav oss ut på en resa från Medina till Mecka tillsammans med profeten – över honom vare Allāhs frid och välsignelser – och han bad två bönecykler[^1] för varje bön med fyra bönecykler[^1] tills vi återvände till Medina*.” [*al-Bukhārī* 1081 och *Muslim* 693]
 
-Men om man ber tillsammans med en imam som ber en oförkortad bön, då måste man be fyra bönecykler[^1] oavsett om man hinner med bönen från början eller om man missar delar av den. Detta beror på den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: ”*När ni hör iqāmah[^2], gå då fram i lugn och ro. Skynda er inte. Be det som ni har möjlighet att be och fullborda [det som ni har missat]*.” [*al-Bukhārī* 636] Så den generella innebörden av hans ord: ”*Be det som ni har möjlighet att be och fullborda [det som ni har missat]*” inkluderar även den resande som ber bakom en imam som ber fyra bönecykler[^1].
+Men om man ber tillsammans med en imam som ber en oförkortad bön, då måste man be fyra bönecykler[^1] oavsett om man hinner med bönen från början eller om man missar delar av den. Detta beror på den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: ”*När ni hör *iqāmah[^2]*, gå då fram i lugn och ro. Skynda er inte. Be det som ni har möjlighet att be och fullborda [det som ni har missat]*.” [*al-Bukhārī* 636] Så den generella innebörden av hans ord: ”*Be det som ni har möjlighet att be och fullborda [det som ni har missat]*” inkluderar även den resande som ber bakom en imam som ber fyra bönecykler[^1].
 
 Ibn ‘Abbās ställdes frågan: ”*Varför är det så att en resenär ber två bönecykler[^1] om denne ber ensam och fyra om denne leds av en hemmavarande imam?” Han svarade: ”Det är sunnah[^3]*.”
 
@@ -27,7 +27,7 @@ Kravet att be i församlingen gäller fortfarande för resenären. Allāh den Up
 
 > ”När du befinner dig hos de troende och leder dem i bön, låt då en grupp stå upp tillsammans med dig och låt dem behålla sina vapen. När de har avslutat bönen, låt dem ge er betäckning och låt en annan grupp som ännu inte har förrättat sin bön, stiga fram och be med dig.” [Koranen 4:102]
 
-Om en resenär då befann sig i en annan stad eller i ett annat land än sitt eget, då måste denne närvara vid församlingsbönen i moskén om denne hör böneutropet, om denne inte är långt från moskén eller rädd för att tappa bort sitt resesällskap. Detta är enligt det generella i bevisen som visar på skyldigheten att be i församlingen om någon hör böneutropet eller iqāmah[^2].
+Om en resenär då befann sig i en annan stad eller i ett annat land än sitt eget, då måste denne närvara vid församlingsbönen i moskén om denne hör böneutropet, om denne inte är långt från moskén eller rädd för att tappa bort sitt resesällskap. Detta är enligt det generella i bevisen som visar på skyldigheten att be i församlingen om någon hör böneutropet eller *iqāmah[^2]*.
 
 Resenären ber alla frivilliga böner utom *sunnah[^3]* förmiddagsbönen[^4], kvällsbönen[^5] och nattbönen[^6]. Den resande ber *witr[^7]* varje natt, förmiddagsbön, *sunnah[^3]* [innan] gryningsbönen[^8] och andra icke-obligatoriska böner utöver de fasta *sunnah[^3]*-bönerna.
 
@@ -35,7 +35,7 @@ Gällande att slå ihop böner, om den resande befinner sig på vägen är det a
 
 Om resenären har stannat någonstans anses det vara bättre att inte förrätta bönerna tillsammans men om den resande gör så finns det ingen invändan. Dessa båda [tillvägagångssätt] har rapporterats från Allāhs sändebud – över honom vare Allāhs frid och välsignelser.
 
-När det gäller resenärens fasta under ramadan[^10] är det bättre att fasta men om denne bryter fastan finns det ingen invändan mot det. Resenären måste ta igen de dagar som denne inte fastade om det inte är lättare att bryta fastan, för i sådant fall är det bättre att bryta fastan. Allāh älskar att de tillstånd som Han ger tas i bruk.
+När det gäller resenärens fasta under *ramadan[^10]* är det bättre att fasta men om denne bryter fastan finns det ingen invändan mot det. Resenären måste ta igen de dagar som denne inte fastade om det inte är lättare att bryta fastan, för i sådant fall är det bättre att bryta fastan. Allāh älskar att de tillstånd som Han ger tas i bruk.
 
 All lovprisan tillhör Allāh, världarnas Herre.
 

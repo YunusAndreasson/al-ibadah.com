@@ -11,7 +11,7 @@ description: 'Fråga: Bryts fastan om man donerar blod under ramadan? Svar: Ja!
  som hijāmah .'
 ---
 
-**Fråga:** Bryts fastan om man donerar blod under ramadan[^1]?
+**Fråga:** Bryts fastan om man donerar blod under *ramadan[^1]*?
 
 **Svar:** Ja! Om man donerar mycket blod, då bryts fastan och det klassas på ungefär samma sätt som *hijāmah*.
 

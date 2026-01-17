@@ -36,7 +36,7 @@ För det fjärde: dyrkan måste vara enligt den islamiska lagen på det sätt so
 
 Om någon utför en handling på ett sätt som är acceptabelt i förhållande till mängd, typ och anledning men motsäger sig den islamiska lagen i hur handlingen ska utföras – då är den inte giltig. Om någon exempelvis släpper sig och tvagar sig på nytt genom att tvätta fötterna, stryka över sitt huvud, tvätta sina händer och sedan sitt ansikte – är denna tvagning[^5] då giltig? Inte alls, för den har inte utförts enligt den islamiska lagen.
 
-För dem femte: dyrkan måste vara enligt den islamiska lagen med avseende på tidpunkten. Ett exempel är om någon fastar ramadan[^6] under sha’ban eller shawwal[^7], eller ber middagsbönen[^4] före solen har passerat himlens mitt eller när ett föremåls skugga har blivit lika långt som dess längd […]
+För dem femte: dyrkan måste vara enligt den islamiska lagen med avseende på tidpunkten. Ett exempel är om någon fastar *ramadan[^6]* under sha’ban eller shawwal[^7], eller ber middagsbönen[^4] före solen har passerat himlens mitt eller när ett föremåls skugga har blivit lika långt som dess längd […]
 
 Därför säger vi att om någon avsiktligen väntar med att be tills tiden för bönen har gått ut – utan giltig ursäkt – kommer dennes bön inte att accepteras, även om denne ber den tusen gånger. Därför följer vi en viktig princip som säger att all dyrkan måste ske vid ett specifikt tillfälle, och om handlingen inte utförs inom den givna tidsgränsen, då kommer den inte att accepteras utan snarare avvisas.
 

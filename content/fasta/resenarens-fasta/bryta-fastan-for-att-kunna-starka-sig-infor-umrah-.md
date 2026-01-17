@@ -13,7 +13,7 @@ description: 'Fråga: Om en resenär fastar och kommer till Mecka, bör denne f�
 
 **Fråga:** Om en resenär fastar och kommer till Mecka, bör denne få bryta fastan för att få krafter för att göra *‘umrah[^1]*?
 
-**Svar:** Vi säger att profeten – över honom vare Allāhs frid och välsignelser – kom in i Mecka den tolfte ramadan[^2] under året som Mecka erövrades. Han fastade då inte. Han ledde Meckaborna i en bön två bönecykler[^3] lång och han sade till dem: ”*Meckabor! Fullborda er bön [be fyra bönecykler[^3]] för vi är resenärer*.” [*al-Bukhārī* 4275]
+**Svar:** Vi säger att profeten – över honom vare Allāhs frid och välsignelser – kom in i Mecka den tolfte *ramadan[^2]* under året som Mecka erövrades. Han fastade då inte. Han ledde Meckaborna i en bön två bönecykler[^3] lång och han sade till dem: ”*Meckabor! Fullborda er bön [be fyra bönecykler[^3]] för vi är resenärer*.” [*al-Bukhārī* 4275]
 
 I *Sahīh al-Bukhārī* återges att profeten – över honom vare Allāhs frid och välsignelser – inte fastade under återstoden av månaden eftersom han [då] var resenär. Så resan för den som utför *‘umrah[^1]* tar inte slut vid ankomsten till Mecka och resenären är inte skyldig att fasta om denne anländer utanför fastan.
 

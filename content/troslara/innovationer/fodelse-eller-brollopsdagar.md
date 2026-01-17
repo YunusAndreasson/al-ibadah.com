@@ -14,7 +14,7 @@ description: 'Fråga: Vilket är utlåtandet om att ordna födelsedagsfester fö
 
 **Fråga:** Vilket är utlåtandet om att ordna födelsedagsfester för barn och vilket är utlåtandet om att fira bröllopsdagar?
 
-**Svar:** Det finns inga högtider inom islam utom den veckovisa fredagen, den första dagen i shawwal[^1] [*‘eidul-fitr* som följer ramadan[^2]] och den tionde dagen i dhul-hijjah[^3] [*‘eidul-adha*]. Arafat[^4]-dagen kan kallas för en *‘eid* för de som befinner sig vid Arafat[^4] under den dagen. Samma gäller *ayyām at-tashrīq* som följer *‘eidul-adha*.
+**Svar:** Det finns inga högtider inom islam utom den veckovisa fredagen, den första dagen i shawwal[^1] [*‘eidul-fitr* som följer *ramadan[^2]*] och den tionde dagen i dhul-hijjah[^3] [*‘eidul-adha*]. Arafat[^4]-dagen kan kallas för en *‘eid* för de som befinner sig vid Arafat[^4] under den dagen. Samma gäller *ayyām at-tashrīq* som följer *‘eidul-adha*.
 
 Födelsedagsfester, som någon håller själv eller för barnen, och att fira bröllopsdagen är inte föreskrivet. Det är närmare att vara innovationer än att vara tillåtet.
 

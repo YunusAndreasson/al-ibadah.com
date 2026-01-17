@@ -12,7 +12,7 @@ description: 'Fråga: När jag befann mig i Mecka och nyheten om att en kvinnlig
  Ka’bah och jag avsåg att de var för henne....'
 ---
 
-**Fråga:** När jag befann mig i Mecka och nyheten om att en kvinnlig släkting till mig avlidit kom, då gjorde jag tawāf[^1] för henne. Jag gjorde sju rundor runt Ka’bah och jag avsåg att de var för henne. Är det tillåtet?
+**Fråga:** När jag befann mig i Mecka och nyheten om att en kvinnlig släkting till mig avlidit kom, då gjorde jag *tawāf[^1]* för henne. Jag gjorde sju rundor runt Ka’bah och jag avsåg att de var för henne. Är det tillåtet?
 
 **Svar:** Ja, du får göra *tawāf[^1]* med sju varv och avse att belöningen är för den muslim som du vill. Detta är en populär åsikt från imam Ahmads rättskola, att alla handlingar för att komma närmare Allāh [dyrkan] som en muslim gör och avser att belöningen för dem är för en avliden eller levande muslim, då kommer det att göra denne [avlidne] nytta. Det är ingen skillnad om denna dyrkan är en rent fysisk handling, som bönen och *tawāf[^1]*, eller om det är en handling där tillgångar spenderas, som i välgörenhet eller i en kombination av de båda, som då ett djur offras.
 

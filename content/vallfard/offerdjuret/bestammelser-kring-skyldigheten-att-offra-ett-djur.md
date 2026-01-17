@@ -14,7 +14,7 @@ description: 'Fråga: Måste den som inte känner till en regel eller skyldighet
 
 **Fråga:** Måste den som inte känner till en regel eller skyldighet under vallfärden offra ett djur?
 
-**Svar:** Skyldigheten att offra ett djur gäller inte för den som varit okunnig [i *ihrām[^1]*] eller för den som glömde något och utförde en förbjuden handling i ihrām[^1]. Men skyldigheten gäller fortfarande för den som glömt eller inte känt till en skyldighet i vallfärden eller *‘umrah[^2]*.
+**Svar:** Skyldigheten att offra ett djur gäller inte för den som varit okunnig [i *ihrām[^1]*] eller för den som glömde något och utförde en förbjuden handling i *ihrām[^1]*. Men skyldigheten gäller fortfarande för den som glömt eller inte känt till en skyldighet i vallfärden eller *‘umrah[^2]*.
 
 Anledningen är att Ibn ‘Abbās har sagt: ”*Den som utelämnar en vallfärdsrit eller glömmer den, då måste denne slakta ett djur*.” En annan anledning är en *hadīth[^3]* om en man som bar en parfymerad mantel under *‘umrah[^2]*.
 

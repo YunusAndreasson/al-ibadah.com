@@ -20,7 +20,7 @@ al-Bukhārī [369] har återgivit att Abū Hurairah har sagt:
 
 > ”Abū Bakr as-Siddīq sände mig tillsammans med utroparna för att i Mina under offerdagen förkunna: 'Efter detta får ingen månggudadyrkare[^2] utföra pilgrimsfärden eller vandra runt Huset naken.”
 
-Offerdagen kallas för den största dagen under pilgrimsfärden. På kvällen står man vid Arafat[^3], man övernattar i al-Mash´ar al-Harām, under dagen stenar man Jamrah, man offrar djuret, man rakar huvudet och man gör tawāf[^4] samt sā'i. detta är villkor för pilgrimsfärden […] Den största dagen under pilgrimsfärden nämns i Koranen när Allāh säger: ”*Gud och Hans sändebud tillkännager för alla människor på den Stora vallfärdens dag*.” [Koranen 9:3]
+Offerdagen kallas för den största dagen under pilgrimsfärden. På kvällen står man vid Arafat[^3], man övernattar i al-Mash´ar al-Harām, under dagen stenar man Jamrah, man offrar djuret, man rakar huvudet och man gör *tawāf[^4]* samt sā'i. detta är villkor för pilgrimsfärden […] Den största dagen under pilgrimsfärden nämns i Koranen när Allāh säger: ”*Gud och Hans sändebud tillkännager för alla människor på den Stora vallfärdens dag*.” [Koranen 9:3]
 
 Och Allāh är källan till styrka.
 

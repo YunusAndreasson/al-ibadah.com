@@ -38,7 +38,7 @@ I denna *hadīth[^2]* nämns ordet *sayi'ah* [dålig handling] först trots att 
 
 De goda handlingarna bör vara av samma beskaffenhet som de dåliga, för det kommer på ett effektivare sätt att gottgöra för dem. De konsekvenser som uppstår av synder kan strykas ut på flera sätt. Det första är ånger och det andra är att söka förlåtelse [*istighfār*] utan att ångra sig, för Allāh kan förlåta denne som svar på dennes åkallan[^3] även om denne inte har ångrat sig. Det bästa är dock om ånger och sökande efter förlåtelse kombineras. Det tredje sättet är genom att handla rättfärdigt för att gottgöra för synden.
 
-När det gäller specifika gottgörelser – likt de som finns föreskriva för dem som har intim samvaro under ramadan[^4], skiljer sig från deras fruar genom *zihār*, gör något förbjudet under pilgrimsfärden [eller missar någon obligatorisk] eller jagar under pilgrimsfärden – finns det fyra olika metoder för gottgörelse: – offra något, – frigöra en slav, – ge allmosor eller – fasta.
+När det gäller specifika gottgörelser – likt de som finns föreskriva för dem som har intim samvaro under *ramadan[^4]*, skiljer sig från deras fruar genom *zihār*, gör något förbjudet under pilgrimsfärden [eller missar någon obligatorisk] eller jagar under pilgrimsfärden – finns det fyra olika metoder för gottgörelse: – offra något, – frigöra en slav, – ge allmosor eller – fasta.
 
 Om gottgörelser som inte finns definierade sade Hudhayfah till ´Umar:
 

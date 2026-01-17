@@ -71,7 +71,7 @@ Ser du inte hur Allāh förbjöd sabbatsfolket att fånga fisk under sabbaten? A
 
 Se hur Allāh gjorde det lätt för dem att fiska den dag som det var förbjudet men de – må Allāh skydda oss – var inte tålmodiga och därmed fullbordade de denna strategi för att ta sig förbi Allāhs förbud.
 
-Se sedan vad som hände profetens – över honom vare Allāhs frid och välsignelser – följeslagare. Allāh den Upphöjde prövade dem när de inte fick jaga eftersom de befann sig i ihrām[^5]. Villebråd fanns dock tillgängligt men de vågade inte jaga. Allāh den Upphöjde säger:
+Se sedan vad som hände profetens – över honom vare Allāhs frid och välsignelser – följeslagare. Allāh den Upphöjde prövade dem när de inte fick jaga eftersom de befann sig i *ihrām[^5]*. Villebråd fanns dock tillgängligt men de vågade inte jaga. Allāh den Upphöjde säger:
 
 > ”Troende! Gud ska sätta er på prov genom den vilt som ni under jakt kan fånga med era händer och fälla med era spjut, så att [ni får visa] Gud vem som fruktar Honom, trots att Han inte kan ses eller förnimmas. Den som hädanefter bryter mot [detta påbud] har ett plågsamt straff att vänta.” [Koranen 5:94]
 

@@ -14,7 +14,7 @@ description: 'Fråga: Jag gick in i ihrām för ‘umrah och min avsikt var att 
 
 **Fråga:** Jag gick in i *ihrām[^1]* för *‘umrah[^2]* och min avsikt var att utföra *hajjul-tamattu´*[^3]. Efter *´umrah[^2]* begav jag mig till Jiddah. Anses jag vara en *mutamatti[^4]'* om jag återvänder och avslutar min vallfärd?
 
-**Svar:** Den korrekta åsikten är att denne genom sin [resa till Jiddah] inte har lämnat *hajjul-tamattu´*[^3]. Om denne åkte in i Mecka som en *mutamatti[^4]'* efter ramadan[^5], gick in i *ihrām[^1]* för *´umrah[^2]* och avsåg vallfärden tillsammans med den och sedan efter att ha avklarat *‘umrah[^2]* av någon anledning begav sig till at-ta'if eller Jiddah, då är den korrekta åsikten att denne fortsätter att vara en *mutamatti[^4]'*.
+**Svar:** Den korrekta åsikten är att denne genom sin [resa till Jiddah] inte har lämnat *hajjul-tamattu´*[^3]. Om denne åkte in i Mecka som en *mutamatti[^4]'* efter *ramadan[^5]*, gick in i *ihrām[^1]* för *´umrah[^2]* och avsåg vallfärden tillsammans med den och sedan efter att ha avklarat *‘umrah[^2]* av någon anledning begav sig till at-ta'if eller Jiddah, då är den korrekta åsikten att denne fortsätter att vara en *mutamatti[^4]'*.
 
 Några av de lärde har sagt att om denne ger sig av och reser en sträcka som anses vara en resa och denne återvänder för vallfärden och går in i *ihrām[^1]* för den, då har denne på detta sätt brutit sin *hajjul-tamattu´*[^3] och är nu en *mufrid[^6]* [som enbart vallfärdar]. Några av de lärde har sagt detta.
 

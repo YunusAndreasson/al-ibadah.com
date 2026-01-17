@@ -12,7 +12,7 @@ description: 'Fråga: Vilket är utlåtandet om den som tar ett blodprov då den
  som dessa förstör inte fas...'
 ---
 
-**Fråga:** Vilket är utlåtandet om den som tar ett blodprov då denne fastar under ramadan[^1]? Blodet tas från den högra armen. Man tar inte speciellt mycket.
+**Fråga:** Vilket är utlåtandet om den som tar ett blodprov då denne fastar under *ramadan[^1]*? Blodet tas från den högra armen. Man tar inte speciellt mycket.
 
 **Svar:** Blodprov som dessa förstör inte fastan. I stället ursäktas detta då det är något som det finns behov för. Enligt den rena islamiska lagen är detta inget som bryter fastan.
 

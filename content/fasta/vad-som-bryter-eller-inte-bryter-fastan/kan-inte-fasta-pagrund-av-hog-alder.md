@@ -13,7 +13,7 @@ description: 'Fråga: Min mor blev sjuk några dagar innan ramadan. Sjukdomen gj
  dock inte fasta vad som återstår och hon kan i...'
 ---
 
-**Fråga:** Min mor blev sjuk några dagar innan ramadan[^1]. Sjukdomen gjorde henne svag och hon är gammal men hon fastade femton dagar under ramadan[^1]. Hon kan dock inte fasta vad som återstår och hon kan inte ta igen dagarna, kan hon då ge till välgörenhet? Hur mycket daglig välgörenhet skulle vara tillräckligt då det är jag som tar hand om henne? Betalar jag vad som krävs från henne då hon inte har något att ge till välgörenhet?
+**Fråga:** Min mor blev sjuk några dagar innan *ramadan[^1]*. Sjukdomen gjorde henne svag och hon är gammal men hon fastade femton dagar under *ramadan[^1]*. Hon kan dock inte fasta vad som återstår och hon kan inte ta igen dagarna, kan hon då ge till välgörenhet? Hur mycket daglig välgörenhet skulle vara tillräckligt då det är jag som tar hand om henne? Betalar jag vad som krävs från henne då hon inte har något att ge till välgörenhet?
 
 **Svar:** Den som inte kan fasta på grund av hög ålder eller på grund av en sjukdom som denne inte förväntas att tillfriskna från, denne bryter fastan och föder en fattig för varje dag. Allāh säger:
 

@@ -16,9 +16,9 @@ All lovprisan tillhör Allāh och må välsignelser och frid vara över Allāhs 
 
 Detta är en kort utläggning om förtjänsten med att fasta och be under fastemånadens nätter samt förtjänsten med att tävla om att handla gott under den. Här följer även en förklaring av några viktiga regler som människor inte är medvetna om.
 
-Allāhs sändebud – över honom vare Allāhs frid och välsignelser – brukade ge följeslagarna de goda nyheterna om anländandet av ramadan[^1]. Han informerade dem om att detta är månaden då nådens portar och portarna till Paradiset är öppna samt då portarna till Helvetet är stängda. Under denna månad är djävlarna fastkedjade. Han har sagt:
+Allāhs sändebud – över honom vare Allāhs frid och välsignelser – brukade ge följeslagarna de goda nyheterna om anländandet av *ramadan[^1]*. Han informerade dem om att detta är månaden då nådens portar och portarna till Paradiset är öppna samt då portarna till Helvetet är stängda. Under denna månad är djävlarna fastkedjade. Han har sagt:
 
-> ”Under den första natten i ramadan[^1] öppnas portarna till Paradiset och inte en enda av dem är stängda, och portarna till Helvetet är stängda och inte en enda av dem är öppna. Djävularna är fastkedjade och en utropare kallar och säger: 'Du som söker det goda! Kom fram [med ditt goda]. Och du som söker det onda! Avhåll dig själv.' Allāh har människor som Han frigör från Elden och det sker under varje natt [i Ramadan].” [*at-Tirmithi* 682 och *Ibn Mājah* 1642]
+> ”Under den första natten i *ramadan[^1]* öppnas portarna till Paradiset och inte en enda av dem är stängda, och portarna till Helvetet är stängda och inte en enda av dem är öppna. Djävularna är fastkedjade och en utropare kallar och säger: 'Du som söker det goda! Kom fram [med ditt goda]. Och du som söker det onda! Avhåll dig själv.' Allāh har människor som Han frigör från Elden och det sker under varje natt [i Ramadan].” [*at-Tirmithi* 682 och *Ibn Mājah* 1642]
 
 Han har även sagt:
 
@@ -32,9 +32,9 @@ Han har även berättat att Allāh sagt:
 
 > ”Varje [god] handling från Adams söner kommer att belönas tiofaldigt upp till sjuhundrafaldigt, utom fastan. För sannerligen är den för Mig och Jag kommer att ge belöningar för den. Denne [den fastande] lämnar sina begär, sin mat och sin dryck för Min skull.” [Profeten fortsatte:] ”Den fastande har två tidpunkter för glädje. Denne gläds när fastan bryts och denne gläds när denne möter Herren. Och sannerligen är den dåliga lukt från den fastandes mun bättre hos Allāh än doften från mysk.” [*al-Bukhārī* 1904 och *Muslim* 161/1151]
 
-*Ahādīth[^4]* om förtjänsten i fastan och att be under ramadan[^1] är många.
+*Ahādīth[^4]* om förtjänsten i fastan och att be under *ramadan[^1]* är många.
 
-Därför bör en muslim dra nytta av denna möjlighet, som är Allāhs välsignelse över denne genom att låta denna få ta del av ramadan[^1]. Därmed bör denne skynda sig att till att lyda [Allāh] och denne bör undvika de onda handlingarna. Denne bör kämpa hårt för att göra allt som Allāh har gjort obligatoriskt för denne, speciellt de fem bönerna, som är islams pelare. Bönen är den största skyldigheten efter de båda vittnesmål om tro. Därför måste varje muslimsk man och kvinna vara noga med bönerna och med ödmjukhet och lugn be dem i tid.
+Därför bör en muslim dra nytta av denna möjlighet, som är Allāhs välsignelse över denne genom att låta denna få ta del av *ramadan[^1]*. Därmed bör denne skynda sig att till att lyda [Allāh] och denne bör undvika de onda handlingarna. Denne bör kämpa hårt för att göra allt som Allāh har gjort obligatoriskt för denne, speciellt de fem bönerna, som är islams pelare. Bönen är den största skyldigheten efter de båda vittnesmål om tro. Därför måste varje muslimsk man och kvinna vara noga med bönerna och med ödmjukhet och lugn be dem i tid.
 
 En av de viktigaste skyldigheterna för män är att be med församligen i Allāhs Hus [moskén]. Allāh har beordrat att de ska uppresas och att Hans namns ska nämnas [eller åminnas]. Allāh har sagt.
 
@@ -102,7 +102,7 @@ Sannerligen, autentiska *ahādīth[^4]* från Allāhs sändebud – över honom 
 
 Profeten – över honom vare Allāhs frid och välsignelser – fastslog inte ett visst antal bönecykler[^7], varken under Ramadan eller vid någon annan tidpunkt. Under ´Umars tid bad följeslagarna därför ibland 23 bönecykler[^7] och ibland elva bönecykler[^7]. Detta har bekräftats från ‘Umar – må Allāh vara nöjd med honom – och följeslagarna under hans tid.
 
-Några av *salaf[^9]* – må Allāh vara nöjda med dem – brukade be 36 bönecykler[^7] under Ramadan för att sedan be tre bönecykler[^7] som witr[^8]. Vissa bad 41 bönecykler[^7]. *Shaykh ul-Islām* ibn Taymiyyah – må Allāh vara honom nådig – berättade detta om dem och han har sagt att denna fråga är flexibel [det är lätt]. Han har även nämnt att det är bättre för den som förlänger sin recitation, sina bugningar och nedfallanden att minska antalet bönecykler[^7]; och den som förkortar recitationen, bugningarna och nedfallanden bör öka antalet bönecykler[^7]. Detta är innebörden av hans uttalande.
+Några av *salaf[^9]* – må Allāh vara nöjda med dem – brukade be 36 bönecykler[^7] under Ramadan för att sedan be tre bönecykler[^7] som *witr[^8]*. Vissa bad 41 bönecykler[^7]. *Shaykh ul-Islām* ibn Taymiyyah – må Allāh vara honom nådig – berättade detta om dem och han har sagt att denna fråga är flexibel [det är lätt]. Han har även nämnt att det är bättre för den som förlänger sin recitation, sina bugningar och nedfallanden att minska antalet bönecykler[^7]; och den som förkortar recitationen, bugningarna och nedfallanden bör öka antalet bönecykler[^7]. Detta är innebörden av hans uttalande.
 
 Den som lägger vikt vid profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^5]* kommer att förstå att det som är bäst är att be elva eller tretton bönecykler[^7] under Ramadan och andra tidpunkter. Anledningen är att det är enligt profetens – över honom vare Allāhs frid och välsignelser – praktiserande under de flesta situationer [vad han vanligtvis brukade göra]. Ber någon mer, då finns det inget skadligt eller ogillat i det. Detta har nämnts tidigare. Det som är bäst för den som ber med imamen [i moskén] under nätterna i Ramadan är att denne inte slutar att be förrän imamen slutar att be. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
@@ -118,7 +118,7 @@ Han har även sagt:
 
 Anledningen är även vad han har sagt i följande autentiska *hadīth[^4]*:
 
-> ”En *‘umrah[^10]* utförd under ramadan[^1] är likvärdig med en vallfärd, eller så sade han en vallfärd med mig.” [*al-Bukhāri* 1863 och *Muslim* 1256]
+> ”En *‘umrah[^10]* utförd under *ramadan[^1]* är likvärdig med en vallfärd, eller så sade han en vallfärd med mig.” [*al-Bukhāri* 1863 och *Muslim* 1256]
 
 De *ahādīth[^4]* som visar tillåtelse för att tävla och att vara framåt med att utföra olika former av godhet under denna ädla månad är många.
 

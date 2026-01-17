@@ -17,7 +17,7 @@ description: 'Fråga: Vad behöver man inte göra under resor? Svar: Det finns f
 **Svar:** Det finns fyra saker som en resenär tillåts:
 
 1. Be böner med fyra bönecykler[^1] som två.
-2. Bryta fastan under ramadan[^2].
+2. Bryta fastan under *ramadan[^2]*.
 3. Stryka över sockarna under tre dagar och nätter, vid början vid den första strykningen.
 4. Det finns inget behov av att be *sunnah[^3]*-bönerna vid middagsbönen[^4], kvällsbönen[^5] och nattbönen[^6]. *Sunnah[^3]* vid gryningsbönen[^7] och frivilliga böner är fortfarande föreskrivna och föredragna.
 

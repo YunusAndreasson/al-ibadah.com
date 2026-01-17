@@ -14,7 +14,7 @@ description: 'Fråga: Om en kvinna blir ren direkt efter gryningsbönen, håller
 
 **Fråga:** Om en kvinna blir ren direkt efter gryningsbönen[^1], håller hon sig då borta [från mat och dryck] och fastar denna dag som räknas som en dag för henne, eller måste hon ta igen denna dag?
 
-**Svar:** Om blodet upphör att rinna från henne när gryningsbönen[^1] kommer eller lite innan, då är hennes fasta giltig och hon sägs ha uppfyllt skyldigheten även om hon inte badade förrän efter det blev morgon. Men om blodet inte upphörde förrän när morgonen tydligt hade kommit [tiden för gryningsbönen[^1] hade kommit], då avstår hon [från mat och dryck] under den dagen men den accepteras inte från henne [som fasta]. Denna dag tar hon i stället ingen efter ramadan[^2].
+**Svar:** Om blodet upphör att rinna från henne när gryningsbönen[^1] kommer eller lite innan, då är hennes fasta giltig och hon sägs ha uppfyllt skyldigheten även om hon inte badade förrän efter det blev morgon. Men om blodet inte upphörde förrän när morgonen tydligt hade kommit [tiden för gryningsbönen[^1] hade kommit], då avstår hon [från mat och dryck] under den dagen men den accepteras inte från henne [som fasta]. Denna dag tar hon i stället ingen efter *ramadan[^2]*.
 
 Och Allāh vet bäst.
 

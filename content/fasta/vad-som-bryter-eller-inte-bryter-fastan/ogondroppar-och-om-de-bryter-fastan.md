@@ -12,7 +12,7 @@ description: 'Fråga: Bryts fastan om man använder ögondroppar dagtid under ra
  Vissa har sagt att om des...'
 ---
 
-**Fråga:** Bryts fastan om man använder ögondroppar dagtid under ramadan[^1]?
+**Fråga:** Bryts fastan om man använder ögondroppar dagtid under *ramadan[^1]*?
 
 **Svar:** Den korrekta åsikten är att droppar inte bryter fastan även om de lärde har olika åsikter. Vissa har sagt att om dess smak når halsen så bryter det fastan. Den korrekta åsikten är dock att de inte bryter den då ögat inte är en ingång [till kroppen]. Men om man känner smaken i halsen om tar igen fastedagen för att vara på den säkra sidan och för att undvika de olika åsikterna, då är det ingen fara i det. Ja, den korrekta åsikten är att det inte bryter fastan oavsett om dropparna tas i ögat eller i örat.
 
