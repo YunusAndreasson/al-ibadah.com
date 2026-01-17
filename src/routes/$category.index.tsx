@@ -39,16 +39,15 @@ function CategoryPage() {
       <h1 className="page-title mb-8 mt-8">{data.name}</h1>
 
       {data.subcategories.length > 0 ? (
-        <div>
+        <div className="flex flex-col gap-1">
           {data.subcategories.map((sub) => (
             <Link
               key={sub.slug}
               to={`/${category}/${sub.slug}`}
               preload="viewport"
-              className="list-item"
+              className="py-2 hover:text-muted-foreground transition-colors duration-100"
             >
-              <span className="list-item-content">{sub.name}</span>
-              <span className="list-item-meta">{sub.articleCount}</span>
+              {sub.name}
             </Link>
           ))}
         </div>

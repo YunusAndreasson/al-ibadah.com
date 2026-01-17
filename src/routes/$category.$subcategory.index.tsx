@@ -42,20 +42,15 @@ function SubcategoryPage() {
       <h1 className="page-title mb-8 mt-8">{data.subcategoryName}</h1>
 
       {data.articles.length > 0 ? (
-        <div>
+        <div className="flex flex-col gap-1">
           {data.articles.map((article) => (
             <Link
               key={article.slug}
               to={`/${category}/${subcategory}/${article.slug}`}
               preload="viewport"
-              className="list-item"
+              className="py-2 hover:text-muted-foreground transition-colors duration-100"
             >
-              <div className="list-item-content">
-                <span>{article.title}</span>
-                {article.author && (
-                  <p className="text-sm text-muted-foreground">{article.author}</p>
-                )}
-              </div>
+              {article.title}
             </Link>
           ))}
         </div>
