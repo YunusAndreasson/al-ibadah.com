@@ -83,7 +83,7 @@ Den som inte dömer enligt vad Allāh den Upphöjde har uppenbarat men som helle
 
 1. De vet att de [prästerna eller rabbinerna] har ändrat Allāhs religion, de lyder dem [prästerna eller rabbinerna] och de tror att när de [prästerna eller rabbinerna] tillåter det som Allāh inte har tillåtit och när de förbjuder det som har tillåtits, att det är lydnad inför deras ledare även om de vet att detta motsäger sig sändebudens religion. Detta är då en otro som Allāh och Hans sändebud har beskrivit som *shirk[^3]*.
 
-2. De anser att det är att förklara tillåtet vad Allāh har förklarat som förbjudet och att förkla som otillåtet vad Allāh har förklarat som tillåtet, men de lydde dem genom att handla olydigt mot Allāh precis som en muslim syndar i tron om att det är synder. Dessa döms då på samma sätt som syndare.
+2. De anser att det är att förklara tillåtet vad Allāh har förklarat som förbjudet och att förklara som otillåtet vad Allāh har förklarat som tillåtet, men de lydde dem genom att handla olydigt mot Allāh precis som en muslim syndar i tron om att det är synder. Dessa döms då på samma sätt som syndare.
 
 [^1]: Tron på att det bara finns en Gud.
 [^2]: Enheten i Allāhs herravälde.
