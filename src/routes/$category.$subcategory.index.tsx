@@ -42,18 +42,21 @@ function SubcategoryPage() {
       <h1 className="page-title mb-8 mt-8">{data.subcategoryName}</h1>
 
       {data.articles.length > 0 ? (
-        <div className="grid gap-3">
+        <div>
           {data.articles.map((article) => (
             <Link
               key={article.slug}
               to={`/${category}/${subcategory}/${article.slug}`}
               preload="viewport"
-              className="card block"
+              className="list-item"
             >
-              <h2 className="font-medium mb-1 text-foreground">{article.title}</h2>
-              {article.author && (
-                <p className="text-sm text-muted-foreground">{article.author}</p>
-              )}
+              <div className="list-item-content">
+                <span className="font-medium">{article.title}</span>
+                {article.author && (
+                  <p className="text-sm text-muted-foreground mt-0.5">{article.author}</p>
+                )}
+              </div>
+              <span className="list-item-chevron" aria-hidden="true">›</span>
             </Link>
           ))}
         </div>

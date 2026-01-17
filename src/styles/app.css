@@ -473,7 +473,52 @@ body {
   background-color: var(--color-muted);
 }
 
-/* Card component */
+/* List item component - clean divider style */
+.list-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.875rem 0;
+  border-bottom: 1px solid var(--color-border);
+  transition: padding-left 0.15s ease, background-color 0.15s ease;
+}
+
+.list-item:first-child {
+  border-top: 1px solid var(--color-border);
+}
+
+.list-item:hover {
+  padding-left: 0.5rem;
+  background-color: color-mix(in oklch, var(--color-muted) 30%, transparent);
+}
+
+.list-item-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.list-item-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--color-muted-foreground);
+  font-size: 0.875rem;
+  flex-shrink: 0;
+}
+
+.list-item-chevron {
+  opacity: 0;
+  transform: translateX(-4px);
+  transition: opacity 0.15s ease, transform 0.15s ease;
+}
+
+.list-item:hover .list-item-chevron {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+/* Legacy card component - keep for backwards compatibility */
 .card {
   border: 1px solid var(--color-border);
   border-radius: 0.5rem;

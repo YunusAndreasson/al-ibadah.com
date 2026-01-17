@@ -39,17 +39,18 @@ function CategoryPage() {
       <h1 className="page-title mb-8 mt-8">{data.name}</h1>
 
       {data.subcategories.length > 0 ? (
-        <div className="grid gap-3">
+        <div>
           {data.subcategories.map((sub) => (
             <Link
               key={sub.slug}
               to={`/${category}/${sub.slug}`}
               preload="viewport"
-              className="card flex items-center justify-between"
+              className="list-item"
             >
-              <span className="font-medium text-foreground">{sub.name}</span>
-              <span className="text-sm text-muted-foreground">
-                {sub.articleCount} {sub.articleCount === 1 ? 'artikel' : 'artiklar'}
+              <span className="list-item-content font-medium">{sub.name}</span>
+              <span className="list-item-meta">
+                {sub.articleCount}
+                <span className="list-item-chevron" aria-hidden="true">›</span>
               </span>
             </Link>
           ))}
