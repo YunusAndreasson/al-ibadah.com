@@ -14,9 +14,9 @@ description: 'Fråga: Finns det några bevis som stöder påstående att jinn ka
 
 **Fråga:** Finns det några bevis som stöder påstående att jinn[^1] kan anta en mänsklig form?
 
-**Svar:** Ja, det finns bevis i Skriften och i profetens sunnah[^2] för att jinn[^1] träder in i människor. I Koranen säger Allāh den Allsmäktige: ”*De som livnär sig på ocker ska uppstå [till Domen] lika ostadiga på benen som den som Djävulen med sin beröring slagit med vansinne*.” [Koranen 2:275] Ibn Kathīr har kommenterat detta och sagt: ”*De kommer att resa sig från deras gravar likt den som är besatt av djävulen reser sig*.”
+**Svar:** Ja, det finns bevis i Skriften och i profetens *sunnah[^2]* för att jinn[^1] träder in i människor. I Koranen säger Allāh den Allsmäktige: ”*De som livnär sig på ocker ska uppstå [till Domen] lika ostadiga på benen som den som Djävulen med sin beröring slagit med vansinne*.” [Koranen 2:275] Ibn Kathīr har kommenterat detta och sagt: ”*De kommer att resa sig från deras gravar likt den som är besatt av djävulen reser sig*.”
 
-Bevis från profetens sunnah[^2] finns då han – över honom vare Allāhs frid och välsignelser – sagt: ”*Sannerligen, djävulen flyter genom Adams söner som hans blod flyter*.” [al-Bukhārī 2039 och Muslim 2175]
+Bevis från profetens *sunnah[^2]* finns då han – över honom vare Allāhs frid och välsignelser – sagt: ”*Sannerligen, djävulen flyter genom Adams söner som hans blod flyter*.” [al-Bukhārī 2039 och Muslim 2175]
 
 I *Maqalat ahl as-sunnah[^2] wal-jama'ah* säger al-Ash´ari att de – *ahl as-sunnah[^2]* – säger att jinn[^1] träder in i den besattes kropp på det sätt som bevisats genom den föregående versen.
 

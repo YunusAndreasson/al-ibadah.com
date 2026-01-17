@@ -32,7 +32,7 @@ Det finns även stöd att hämta i den *hadīth[^3]* i vilken profeten – över
 
 > “Det finns tre, fråga mig inte om dem: en man som lämnar församlingen, visar olydnad mot sin ledare och dör ohörsam; en manlig eller kvinnlig slav som flyr och sedan dör; och en kvinna vars man är frånvarande och som har lämnat henne med allt hon behöver, och efter att han lämnat henne så visar hon sig på ett lättsinnigt sätt. Fråga inte om dem.” [al-Hākim 1/119, Ahmad 6/19]
 
-3. Den bör vara kraftig och inte genomskinlig, annars täcker den ju inte tillräckligt väl. Transparenta kläder gör en kvinna mer frestande och vacker. Om detta har profeten – över honom vare Allāhs frid och välsignelser – sagt: “Under mitt samfunds sista dagar kommer det att finnas kvinnor som är klädda men ändå nakna med något på deras huvuden som liknar kamelers pucklar. Förbanna dem, för de är förbannade.” Och i en annan hadīth[^3] finns tillägget: “De kommer inte att träda in i Paradiset eller ens känna dess lukt, även om dess lukt kan kännas ifrån den eller den sträckan.” [Muslim]
+3. Den bör vara kraftig och inte genomskinlig, annars täcker den ju inte tillräckligt väl. Transparenta kläder gör en kvinna mer frestande och vacker. Om detta har profeten – över honom vare Allāhs frid och välsignelser – sagt: “Under mitt samfunds sista dagar kommer det att finnas kvinnor som är klädda men ändå nakna med något på deras huvuden som liknar kamelers pucklar. Förbanna dem, för de är förbannade.” Och i en annan *hadīth[^3]* finns tillägget: “De kommer inte att träda in i Paradiset eller ens känna dess lukt, även om dess lukt kan kännas ifrån den eller den sträckan.” [Muslim]
 
 Ibn 'Abd al-Barr sade:
 

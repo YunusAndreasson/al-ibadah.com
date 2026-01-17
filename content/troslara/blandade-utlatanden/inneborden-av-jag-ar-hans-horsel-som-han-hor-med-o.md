@@ -13,7 +13,7 @@ description: 'Fråga: Vilken är innebörden vad Allāh säger i denna heliga ha
  som han ser med, hans hand som slår o...'
 ---
 
-**Fråga:** Vilken är innebörden vad Allāh säger i denna heliga hadīth[^1]:
+**Fråga:** Vilken är innebörden vad Allāh säger i denna heliga *hadīth[^1]*:
 
 > ”Och om jag älskar honom, då kommer jag att vara hans hörsel som han hör med, hans syn som han ser med, hans hand som slår och hans ben som går.”
 
