@@ -1,8 +1,7 @@
 import { createFileRoute, Link, notFound } from '@tanstack/react-router'
 import { createServerFn } from '@tanstack/react-start'
 import { Breadcrumbs } from '~/components/layout/Breadcrumbs'
-import { Footer } from '~/components/layout/Footer'
-import { Header } from '~/components/layout/Header'
+import { PageLayout } from '~/components/layout/PageLayout'
 import { getSubcategoryInfo } from '~/lib/content'
 
 const getSubcategoryData = createServerFn({ method: 'GET' })
@@ -32,40 +31,35 @@ function SubcategoryPage() {
   const data = Route.useLoaderData()
 
   return (
-    <div className="min-h-screen flex flex-col">
-      <Header />
+    <PageLayout>
+      <Breadcrumbs
+        items={[
+          { label: 'Hem', href: '/' },
+          { label: data.categoryName, href: `/${category}` },
+        ]}
+      />
 
-      <main id="main" className="w-full max-w-3xl mx-auto px-4 py-8 flex-1">
-        <Breadcrumbs
-          items={[
-            { label: 'Hem', href: '/' },
-            { label: data.categoryName, href: `/${category}` },
-          ]}
-        />
+      <h1 className="page-title mb-8 mt-8">{data.subcategoryName}</h1>
 
-        <h1 className="page-title mb-8 mt-8">{data.subcategoryName}</h1>
-
-        {data.articles.length > 0 ? (
-          <div className="grid gap-3">
-            {data.articles.map((article) => (
-              <Link
-                key={article.slug}
-                to={`/${category}/${subcategory}/${article.slug}`}
-                className="card block"
-              >
-                <h2 className="font-medium mb-1 text-foreground">{article.title}</h2>
-                {article.author && (
-                  <p className="text-sm text-muted-foreground">{article.author}</p>
-                )}
-              </Link>
-            ))}
-          </div>
-        ) : (
-          <p className="text-muted-foreground">Inga artiklar i denna underkategori än.</p>
-        )}
-      </main>
-
-      <Footer />
-    </div>
+      {data.articles.length > 0 ? (
+        <div className="grid gap-3">
+          {data.articles.map((article) => (
+            <Link
+              key={article.slug}
+              to={`/${category}/${subcategory}/${article.slug}`}
+              preload="viewport"
+              className="card block"
+            >
+              <h2 className="font-medium mb-1 text-foreground">{article.title}</h2>
+              {article.author && (
+                <p className="text-sm text-muted-foreground">{article.author}</p>
+              )}
+            </Link>
+          ))}
+        </div>
+      ) : (
+        <p className="text-muted-foreground">Inga artiklar i denna underkategori än.</p>
+      )}
+    </PageLayout>
   )
 }

@@ -1,8 +1,11 @@
 import { Link } from '@tanstack/react-router'
-import { useEffect, useState } from 'react'
+import { lazy, Suspense, useEffect, useState } from 'react'
 import { SearchIcon } from '~/components/ui/icons'
-import { SearchDialog } from '~/components/ui/SearchDialog'
 import { ThemeToggle } from '~/components/ui/ThemeToggle'
+
+const SearchDialog = lazy(() =>
+  import('~/components/ui/SearchDialog').then((m) => ({ default: m.SearchDialog }))
+)
 
 const navLinks = [
   { to: '/troslara', label: 'Troslära' },
@@ -96,7 +99,11 @@ export function Header() {
         </div>
       )}
 
-      <SearchDialog open={searchOpen} onClose={() => setSearchOpen(false)} />
+      {searchOpen && (
+        <Suspense fallback={null}>
+          <SearchDialog open={searchOpen} onClose={() => setSearchOpen(false)} />
+        </Suspense>
+      )}
     </>
   )
 }
