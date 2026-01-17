@@ -45,7 +45,7 @@ function CategoryPage() {
               key={sub.slug}
               to={`/${category}/${sub.slug}`}
               preload="viewport"
-              className="nav-link py-2"
+              className="nav-link px-3 py-2.5 -mx-3 rounded-lg hover:bg-muted active:bg-muted transition-colors"
             >
               {sub.name}
             </Link>
