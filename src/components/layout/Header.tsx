@@ -21,12 +21,16 @@ export function Header() {
   const [searchOpen, setSearchOpen] = useState(false)
   const [menuOpen, setMenuOpen] = useState(false)
 
+  // Handle Ctrl+K / Cmd+K keyboard shortcut
   useEffect(() => {
-    function handleOpenSearch() {
-      setSearchOpen(true)
+    function handleKeyDown(e: KeyboardEvent) {
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault()
+        setSearchOpen(true)
+      }
     }
-    document.addEventListener('open-search', handleOpenSearch)
-    return () => document.removeEventListener('open-search', handleOpenSearch)
+    document.addEventListener('keydown', handleKeyDown)
+    return () => document.removeEventListener('keydown', handleKeyDown)
   }, [])
 
   // Lock body scroll when menu is open

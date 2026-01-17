@@ -28,20 +28,6 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
     setSelectedIndex(0)
   }, [query])
 
-  useEffect(() => {
-    function handleKeyDown(e: KeyboardEvent) {
-      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
-        e.preventDefault()
-        if (!open) {
-          document.dispatchEvent(new CustomEvent('open-search'))
-        }
-      }
-    }
-
-    document.addEventListener('keydown', handleKeyDown)
-    return () => document.removeEventListener('keydown', handleKeyDown)
-  }, [open])
-
   // Lock body scroll and focus input when open
   useEffect(() => {
     if (open) {
