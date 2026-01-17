@@ -12,13 +12,13 @@ description: '"Sedan den dagen jag träffade honom lämnade han aldrig fastan un
 
 Han föddes år 1332 AH i Ashkodera som då var huvudstad i Albanien. Familjen var fattig. Hans fader, al-Hāj Nooh Najjātī al-Albānī, hade studerat den islamiska lagen i Istanbul och återvänt som en lärd till Albanien.
 
-När ateism intog Albanien emigrerade familjen till Damaskus. Där avslutade al-Albānī sin första utbildning och lärdes då Koranen, tajwīd[^1], arabiska, fiqh[^2], den hanafitiska rättsskolan och andra grenar av religiöst vetande från olika lärde och vänner till fadern.
+När ateism intog Albanien emigrerade familjen till Damaskus. Där avslutade al-Albānī sin första utbildning och lärdes då Koranen, *tajwīd[^1]*, arabiska, *fiqh[^2]*, den hanafitiska rättsskolan och andra grenar av religiöst vetande från olika lärde och vänner till fadern.
 
 Från fadern lärde han sig också att reparera klockor, något som han blev mycket duktig på och försörjde sig genom. Han började specialisera sig på *hadīth[^3]* och dess olika grenar när han var 20 år. Detta efter att ha influerats av artiklar i tidningen al-Manār.
 
 Han började arbeta med att transkribera al-Hāfiz al-Irāqīs storslagna *al­Mughnī 'an-hamlil-Asfār fil-Asfār fī takhrīj mā fil-lhyā minal-Akhbār* och till den lade han noter.
 
-Trots faderns invändningar gav han sig ännu djupare in i vetandet om hadīth[^3]. Böckerna som han var i behov av fanns inte att tillgå i faderns bibliotek, som i huvudsak bestod av böcker om hanafī fiqh[^2]. Då han inte hade råd med de flesta böckerna som han behövde så lånade han dem från det kända biblioteket al-Maktabah adth-Dthāhiriyyah.
+Trots faderns invändningar gav han sig ännu djupare in i vetandet om hadīth[^3]. Böckerna som han var i behov av fanns inte att tillgå i faderns bibliotek, som i huvudsak bestod av böcker om hanafī *fiqh[^2]*. Då han inte hade råd med de flesta böckerna som han behövde så lånade han dem från det kända biblioteket al-Maktabah adth-Dthāhiriyyah.
 
 Han blev så intresserad av *hadīth[^3]* att han ibland stängde sin butik för att vara i biblioteket i tolv timmar. Han tog då endast rast för att be. Maten bestod endast av lätt tilltugg.
 
@@ -26,7 +26,7 @@ Till sist gav de ansvariga för biblioteket honom ett avskilt rum för att stude
 
 Han stötte på mycket motstånd när han förespråkade *tawhīd[^4]* och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^5]* men han bar detta med tålamod. Han uppmuntrades av några av de ädle lärda i Damaskus som tyckte att han skulle fortsätta. Bland dem fanns Shaykh Bahjatul Bayjār, Shaykh ´Abdul-Fattāh och Towfīq al-Barzah – rahimahumullāh.
 
-Efter en tid började han att hålla två lektioner i veckan där de som studerade islam och lärarna vid universitetet deltog. Här lärde han ut från böcker om ´aqīdah, fiqh[^2], usūl och hadīth[^3]. Han började också göra månatliga resor för att göra daw’ah i olika städer i Syrien och Jordanien.
+Efter en tid började han att hålla två lektioner i veckan där de som studerade islam och lärarna vid universitetet deltog. Här lärde han ut från böcker om ´aqīdah, *fiqh[^2]*, usūl och hadīth[^3]. Han började också göra månatliga resor för att göra daw’ah i olika städer i Syrien och Jordanien.
 
 När ett antal av hans arbeten hade tryckts valdes han ut för att lära *hadīth[^3]* vid det nya universitetet i Medina, Saudiarabien, under tre år mellan 1381 och 1383 AH. Där satt han även med i universitetets styrelse.
 

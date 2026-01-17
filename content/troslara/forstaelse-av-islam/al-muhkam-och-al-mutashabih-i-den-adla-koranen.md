@@ -27,7 +27,7 @@ Den tredje beskrivningen av Koranen är att några delar är tydliga medan andra
 
 > ”Det är Han som har uppenbarat för dig denna Skrift, där det finns fast och klart formulerade budskap – de utgör dess kärna – och andra som är framställda i bilder. Men de vilkas hjärtan har farit vilse går efter sådant i Skrifter som har framställts i bild, när de försöker så split och förvirring genom [godtycklig] tolkning av dess innersta mening – dess innersta mening känner ingen utom Gud. – De vilkas kunskap är fast och djupt rotad säger: 'Vi tror på denna [Skrift]; allt är från vår Herre.' Men ingen ägnar eftertanke åt [och tar varning av] detta utom de som har förstånd.” [Koranen 3:7]
 
-Det som här avses med *al-Muhkam* är de verser vars betydelser är klara, Allāh nämner ju deras motsats: ”… *och andra är inte fullt klara*.” Och ett ords betydelse förstås genom dess motsats, vilket är en av reglerna för tafsīir som varje lärd inom tafsīr[^2] måste lyda [att innebörden av ett ord kan bli uppenbart genom att dess motsats nämns]. Allāh säger:
+Det som här avses med *al-Muhkam* är de verser vars betydelser är klara, Allāh nämner ju deras motsats: ”… *och andra är inte fullt klara*.” Och ett ords betydelse förstås genom dess motsats, vilket är en av reglerna för tafsīir som varje lärd inom *tafsīr[^2]* måste lyda [att innebörden av ett ord kan bli uppenbart genom att dess motsats nämns]. Allāh säger:
 
 > ”Troende! Var på er vakt när ni går ut till strid; gå därför i små förband eller i samlad trupp.” [Koranen 4:71]
 

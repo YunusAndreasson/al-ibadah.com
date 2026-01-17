@@ -62,7 +62,7 @@ Dessa båda böcker är mer omfattande än *al-Wāsitiyyah*. Alla är skrivna av
 1. *Tafsīr al-Qur’ān al-‘Azīm* av Ibn Kathīr. Denna bok är bra för *tafsīr[^5]* grundad på rapporter. Den är användbar och pålitlig. Den lägger dock inte så stor vikt vid gramatik och stil.
 2. *Tafsīr al-Karīm al-Rahmān fi Tafsīr Kalām al-Mannān* av shaykh ‘Abd al-Rahmān al-Sa’di. Detta är en bra, lätt och pålitlig bok. Jag rekommenderar den.
 3. *Muqaddimah shaykh al-islām fi’l-Tafsīr*. Detta är en viktig introduktion.
-4. *Adwā’ al-Bayān av al-‘Allāmah Muḥammad al-Shanqīti*. Detta är en omfattande bok som täcker *hadīth[^3], fiqh[^4], tafsīr[^5]* och *usūl al-fiqh[^4]*.
+4. *Adwā’ al-Bayān av al-‘Allāmah Muḥammad al-Shanqīti*. Detta är en omfattande bok som täcker *hadīth[^3], *fiqh[^4]*, *tafsīr[^5]** och *usūl al-fiqh[^4]*.
 
 Allmänna böcker
 

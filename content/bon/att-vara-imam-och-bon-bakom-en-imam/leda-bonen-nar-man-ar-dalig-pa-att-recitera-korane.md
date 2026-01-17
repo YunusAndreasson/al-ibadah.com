@@ -12,7 +12,7 @@ description: 'Fråga: Jag är imam vid en moské i en av Riyadhs förorter. Mitt
  som imam eller ska jag sluta? Svar...'
 ---
 
-**Fråga:** Jag är imam vid en moské i en av Riyadhs förorter. Mitt problem är att min tajwīd[^1] är dålig och under läsning gör jag många misstag. Bör jag fortsätta som imam eller ska jag sluta?
+**Fråga:** Jag är imam vid en moské i en av Riyadhs förorter. Mitt problem är att min *tajwīd[^1]* är dålig och under läsning gör jag många misstag. Bör jag fortsätta som imam eller ska jag sluta?
 
 **Svar:** Du måste anstränga dig mycket för att memorera vad du kan av Koranen, förbättra din *tajwīd[^1]* och vara medveten om det goda Allāh den Allsmäktige skänker om du har en korrekt avsikt och kämpar mycket. Allāh säger:
 
