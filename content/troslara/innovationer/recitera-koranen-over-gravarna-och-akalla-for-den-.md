@@ -18,7 +18,7 @@ description: 'Fråga: Vilket är utlåtandet om att recitera Koranen över grava
 
 Det finns ingen invänan mot att åkalla för den avlidne vid gravens sida. Man kan stå vid graven och åkalla för denne med någon åkallan[^2] som man känner till, som genom att säga: ”*Allāhummaghfir lahu, Allāhummarhamhu, allāhumma ad-khilhul-jannata, allāhummafsah lahu fī qabrihi*.” Det finns även andra åkallan[^2] som går bra.
 
-Men om någon åkallar[^2] för egen räkning vid gravens sida, om denne gör så avsiktligen, då är det en sorts innovation. Man får inte välja någon plats för åkallan[^2] om det inte finns bevis som har rapporterats för det. Har inga bevis rapporterats för det och det inte har nämnts i profetens – över honom vare Allāhs frid och välsignelser – sunnah[^3], då är det en innovation var det än inträffar.
+Men om någon åkallar[^2] för egen räkning vid gravens sida, om denne gör så avsiktligen, då är det en sorts innovation. Man får inte välja någon plats för åkallan[^2] om det inte finns bevis som har rapporterats för det. Har inga bevis rapporterats för det och det inte har nämnts i profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]*, då är det en innovation var det än inträffar.
 
 [^1]: De tre första generationerna i islam.
 [^2]: Du´ā

@@ -47,7 +47,7 @@ Beviset för detta är den *hadīth[^4]* återberättad av Humrān, som var 'Uth
 
 Villkoren för tvagningen[^1] är att man: är muslim, är vid sina sinnens fulla bruk, har nått mogen ålder och har avsikten att tvaga sig. Tvagningen är inte giltig om man är icke-troende, sinnessjuk, ett litet barn som inte har nått mogen ålder eller om man inte har avsikten att tvaga sig [utan avsikten endast är att man vill svalka sig]. Vattnet måste även vara rent då smutsigt vatten inte kan användas för tvagning[^1]. Man måste även avlägsna allt som kan hindra vattnet från att nå huden och naglarna. Nagellack är ett exempel.
 
-Enligt en majoritet av de lärde är det föreskrivet att säga *Bismillah[^3]*, men de är oeniga om det är obligatoriskt eller sunnah[^2]. Om man kommer ihåg att säga det kan man göra det antingen i början av tvagningen[^1] eller undertiden.
+Enligt en majoritet av de lärde är det föreskrivet att säga *Bismillah[^3]*, men de är oeniga om det är obligatoriskt eller *sunnah[^2]*. Om man kommer ihåg att säga det kan man göra det antingen i början av tvagningen[^1] eller undertiden.
 
 Det finns ingen skillnad mellan män och kvinnor gällande tvagning[^1].
 

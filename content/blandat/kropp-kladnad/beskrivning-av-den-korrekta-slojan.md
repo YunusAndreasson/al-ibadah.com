@@ -53,7 +53,7 @@ Anledningen till förbudet är rätt uppenbar då kvinnors väldoft kan framkall
 
 Ibn Daqīq al-’Eid har sagt:
 
-> “Detta visar att en kvinna som vill gå till moskén inte får bära parfym då det framkallar begär hos männen. Detta har al-Manāwi i Fayd al-Qadīr rapporterat som kommentar till Abū Hurairahs första hadīth[^3] ovan.”
+> “Detta visar att en kvinna som vill gå till moskén inte får bära parfym då det framkallar begär hos männen. Detta har al-Manāwi i Fayd al-Qadīr rapporterat som kommentar till Abū Hurairahs första *hadīth[^3]* ovan.”
 
 6. Den bör inte likna mäns klädsel. I en autentiska hadither har det rapporteras att en kvinna som till klädseln och på andra sätt imiterar män är förbannad. Här följer några ahādīth[^3] som vi känner till:
 

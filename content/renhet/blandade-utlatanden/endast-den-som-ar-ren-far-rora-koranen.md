@@ -26,7 +26,7 @@ Det som är korrekt är att det inte hindrar dem från att recitera från minnet
 
 Profeten – över honom vare Allāhs frid och välsignelser – sade något liknande till Asma' bin 'Umays när hon födde Muḥammad bin Abu Bakr vid miqat under avskedspilgrimsfärden. Detta bevisar att hon får recitera utan att röra mushaf.
 
-I en hadīth[^1] om Ibn ´Umar säger profeten: ”*Varken den med månadsblödning eller den i den stora rituella orenheten får recitera något från Koranen*.” [at-Tirmithi 131] Hadithen är svag för att i dess kedja återberättar Ibn 'Ayyash från Musa bin 'Uqbah. De lärde inom *hadīth[^1]* har graderat Ibn 'Ayyash's återberättelser som svaga. De säger att de är bra om han återberättar från invånarna i ash-Sham, som är hans hemland, men de är svaga när han återberättar från al-Hijaz. När denna återberättelse kommer från invånarna i al-Hijaz är den därmed svag.
+I en *hadīth[^1]* om Ibn ´Umar säger profeten: ”*Varken den med månadsblödning eller den i den stora rituella orenheten får recitera något från Koranen*.” [at-Tirmithi 131] Hadithen är svag för att i dess kedja återberättar Ibn 'Ayyash från Musa bin 'Uqbah. De lärde inom *hadīth[^1]* har graderat Ibn 'Ayyash's återberättelser som svaga. De säger att de är bra om han återberättar från invånarna i ash-Sham, som är hans hemland, men de är svaga när han återberättar från al-Hijaz. När denna återberättelse kommer från invånarna i al-Hijaz är den därmed svag.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.

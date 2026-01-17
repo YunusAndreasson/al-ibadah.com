@@ -12,7 +12,7 @@ description: 'Fråga: Efter fredagsbönen berättade imamen för oss ”att när
  vare Allāhs frid och välsignelser ...'
 ---
 
-**Fråga:** Efter fredagsbönen berättade imamen för oss ”att när vi gjort *iqāmah[^1]* bör vi inte läsa någon åkallan[^2] som inte har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – och det finns ingenting i Allāhs skrift eller i profetens – över honom vare Allāhs frid och välsignelser – sunnah[^3]. När *mu'aththin* nämner Allāh i *iqāmah[^1]*, då bör även du nämna Allāh och vara tyst till imamen säger: ’*Allāhu akbar*’ [tills han börjar bönen].” Nu för tiden har folket struntat i imamens ord. Vi ber om ett snabbt råd för att vi ska bli försäkrade.
+**Fråga:** Efter fredagsbönen berättade imamen för oss ”att när vi gjort *iqāmah[^1]* bör vi inte läsa någon åkallan[^2] som inte har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – och det finns ingenting i Allāhs skrift eller i profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]*. När *mu'aththin* nämner Allāh i *iqāmah[^1]*, då bör även du nämna Allāh och vara tyst till imamen säger: ’*Allāhu akbar*’ [tills han börjar bönen].” Nu för tiden har folket struntat i imamens ord. Vi ber om ett snabbt råd för att vi ska bli försäkrade.
 
 **Svar:** Profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]* säger att den som hör *iqāmah[^1]* bör säga vad den som gör *iqāmah[^1]* säger. Anledningen är att den är känd som det ”andra böneutropet” och därför bör den besvaras på samma sätt som det första böneutropet.
 

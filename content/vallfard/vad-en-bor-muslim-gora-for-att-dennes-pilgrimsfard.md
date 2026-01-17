@@ -27,7 +27,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 >
 > ”Den som utför en handling som inte är enligt vår sak [islam] kommer att få den avvisad.”
 
-Detta är det viktigaste som pilgrimer bör söka: uppriktighet i avsikten samt att följa profetens – över honom vare Allāhs frid och välsignelser – sunnah[^1]. Profeten – över honom vare Allāhs frid och välsignelser – brukade under sin vallfärd säga: ”*Lär er era ritualer ifrån mig*.”
+Detta är det viktigaste som pilgrimer bör söka: uppriktighet i avsikten samt att följa profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*. Profeten – över honom vare Allāhs frid och välsignelser – brukade under sin vallfärd säga: ”*Lär er era ritualer ifrån mig*.”
 
 Ett annat villkor är att vallfärden måste utföras med tillgångar som inte är förbjudna. En pilgrimsfärd som utförs med tillgångar som är otillåtna är inte tillåten. Några av de lärde har till och med sagt att pilgrimsfärden inte är giltig i detta fall. En av dem sade:
 
