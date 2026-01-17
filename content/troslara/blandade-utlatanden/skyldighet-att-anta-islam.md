@@ -19,7 +19,7 @@ description: 'Fråga: Måste de som inte tror anta islam? Svar: Det är en skyld
 
 > ”Säg: ’Människor! Jag är Guds Sändebud, [utsänd] till er alla av Honom som äger herraväldet över himlarna och jorden! Det finns ingen gud utom Han – Han som skänker liv och skänker död. Tro därför på Gud och Hans sändebud, den olärde profeten, som tror på Gud och Hans ord, och följ honom så att ni får vägledning.” [Koranen 7:158]
 
-Därmed måste hela människosläktet tro på Allāhs sändebud – över honom vare Allāhs frid. Men då islam har sitt ursprung i Allāhs den Allsmäktiges nåd och visdom har Han tillåtet att de som inte är muslimer stannar kvar i deras religion under villkor att de lyder under muslimskt styre. Allāh den Upphöjde säger ju:
+Därmed måste hela människosläktet tro på Allāhs sändebud – över honom vare Allāhs frid. Men då islam har sitt ursprung i Allāhs den Allsmäktiges nåd och visdom har Han tillåtit att de som inte är muslimer stannar kvar i deras religion under villkor att de lyder under muslimskt styre. Allāh den Upphöjde säger ju:
 
 > ”Kämpa mot dem som, trots att de [förr] fick ta emot en uppenbarad Skrift, varken tror på Gud eller den Yttersta dagen och som inte anser som förbjudet det som Gud och Hans sändebud har förbjudit och inte iakttar den sannan religionens bud – [kämpa mot dem] till dess de erkänner sig besegrade och frivilligt betalar skyddsskatten.” [Koranen 9:29]
 

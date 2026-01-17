@@ -6,12 +6,12 @@ categories:
   - Vallfärd (Hajj)
   - Kläderna under ihrām
 original_id: 1283
-description: 'Fråga: Varför har Allāh förbjudet pilgrimer att bära sydda kläder och
+description: 'Fråga: Varför har Allāh förbjudit pilgrimer att bära sydda kläder och
  vad är anledningen till det? Svar: All lovprisan tillhör Allāh. Allāh har påbjudit
  pilgrimsfärden en gång i livet för dem ...'
 ---
 
-**Fråga:** Varför har Allāh förbjudet pilgrimer att bära sydda kläder och vad är anledningen till det?
+**Fråga:** Varför har Allāh förbjudit pilgrimer att bära sydda kläder och vad är anledningen till det?
 
 **Svar:** All lovprisan tillhör Allāh. Allāh har påbjudit pilgrimsfärden en gång i livet för dem som är skyldiga och som har möjlighet samt resurser till att göra det. Han har även gjort det till en av islams pelare, vilket är välkänt. En muslim måste göra vad Allāh har påbjudit för att göra Honom nöjd, för att lyda Hans beordringar i hopp om Hans belöningar och i fruktan för Hans straff. Detta gör man samtidigt som man litar till att Allāh är vis i Hans lagar, i allt Han gör och att Han är Barmhärtig mot Sina tjänare. Han föreskriver inte något för dem som inte är i deras eget intresse och som inte kommer att vara dem till stor nytta antingen i denna värld eller i den Nästa. Det åligger vår Herre den Allvise att utfärda lagar och det åligger Hans tjänare att lyda och underkasta sig.
 
