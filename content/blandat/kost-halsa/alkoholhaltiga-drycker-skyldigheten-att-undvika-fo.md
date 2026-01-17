@@ -18,7 +18,7 @@ description: 'Fråga: En man som dricker alkoholhaltiga drycker avser att hålla
 
 > ”Troende! Rusdrycker och spel om pengar, alla hedniska bruk och spådomskonst är ingenting annat än Djävulens skamliga påfund; håll er borta från allt sådant, för att det ska gå er väl i händer. Djävulen vill med hjälp av rusdrycker och spel om pengar framkalla fiendskap och hat mellan er och få er att glömma Gud och plikten att förrätta bönen. Vill ni inte upphöra med allt detta]? Lyd Gud och lyd Sändebudet och var på er vakt! Och om ni vänder om [och går en annan väg] ska ni veta att Vårt Sändebuds enda plikt är att klart framföra det budskap [som han anförtrotts].” [Koranen 5:90 – 92]
 
-Det har även bekräftats att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Varje rusmedel är khamr och varje rusmedel är förbjudet*.” [Muslim 2003]
+Det har även bekräftats att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Varje rusmedel är khamr och varje rusmedel är förbjudet*.” [*Muslim* 2003]
 
 Muslimer är helt eniga om förbudet mot alkohol. De lärde har sagt att den som avvisar att alkohol är förbjudet är en icke-troende och avfälling. Men om han är en nybliven muslim och okunnig om förbudet mot alkohol måste han informeras om detta utlåtande. Om han avvisar det är han en avfälling.
 

@@ -15,7 +15,7 @@ description: 'Fråga: Mina småbarn [den äldste har inte fyllt tre ännu] står
 
 **Fråga:** Mina småbarn [den äldste har inte fyllt tre ännu] står bakom mig när jag ber hemma. Jag gör så för att lära dem bönen. Detta sker utan att de har tvagat sig. Är detta tillåtet? Vad bör jag göra med min fru som ibland struntar i att be?
 
-**Svar:** Svaret på den första frågan är att det är tillåtet att lära sina barn att be, både genom ord och genom handling. När en talarstol gjordes till profeten – över honom vare Allāhs frid och välsignelser – så steg han därför upp på den och började be när han ville nedfalla[^1] så steg han ned från den och nedföll[^1] på marken. Efter detta sade han: ”*Detta gjorde jag enbart för att ni ska följa mitt exempel och så att ni lär er min bön*.” [Ahmad 5:399]
+**Svar:** Svaret på den första frågan är att det är tillåtet att lära sina barn att be, både genom ord och genom handling. När en talarstol gjordes till profeten – över honom vare Allāhs frid och välsignelser – så steg han därför upp på den och började be när han ville nedfalla[^1] så steg han ned från den och nedföll[^1] på marken. Efter detta sade han: ”*Detta gjorde jag enbart för att ni ska följa mitt exempel och så att ni lär er min bön*.” [*Ahmad* 5:399]
 
 När de förstår bör han även lära dem hur man gör tvagar sig. Jag tror dock inte att barn i den åldern som nämnts, där den äldsta är tre, förstår vad som krävs. Profeten – över honom vare Allāhs frid och välsignelser – kommenderade oss att beordra barnen att be från sju års ålder och att slå dem om de inte ber i tid vid tio års ålder.
 

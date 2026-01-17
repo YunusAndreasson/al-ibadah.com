@@ -31,13 +31,13 @@ När shaykh ul-islām Ibn Taymiyyah hade nämnt *ahādīth[^1]* från flera käl
 
 Bland dessa *ahādīth[^1]* finns den från Abū Hurairah där han rapporterar att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Vid Honom i vars hand min själ vilar, Jesus [Marias son] kommer snart att stiga ned bland er, styra med rättvisa och han kommer att förstöra korset, döda grisarna samt upplösa skyddsskatten och välstånd kommer att vara så överflödigt att ingen kommer att ta emot det.” [al-Bukhārī 3448, Muslim 155, at-Tirmithi 2233 och Ahmad 2:538]
+> ”Vid Honom i vars hand min själ vilar, Jesus [Marias son] kommer snart att stiga ned bland er, styra med rättvisa och han kommer att förstöra korset, döda grisarna samt upplösa skyddsskatten och välstånd kommer att vara så överflödigt att ingen kommer att ta emot det.” [*al-Bukhārī* 3448, Muslim 155, at-Tirmithi 2233 och Ahmad 2:538]
 
 Abū Hurairah har även sagt: ”Och det finns ingen bland Skriftens folk [judarna och de kristna] som inte kommer att tro på honom [Jesus, Marias son, som Sändebud från människosläktet] före hans bortgång [när dödsängeln visar sig].”
 
 I ännu en återberättelse från honom berättar han att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Vad kommer ni att göra om Marias son stiger ned bland er och er imam är en av er?” [Muslim 155]
+> ”Vad kommer ni att göra om Marias son stiger ned bland er och er imam är en av er?” [*Muslim* 155]
 
 Jabir bin ´Abdullāh har berättat att han hörde profeten – över honom vare Allāhs frid och välsignelser – säga:
 

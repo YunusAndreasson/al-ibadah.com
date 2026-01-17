@@ -21,11 +21,11 @@ description: 'Fråga: Vilket är utlåtandet om bönen i församlingen? Svar: De
 
 I Allāhs sändebuds – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*, bland det stora antal *ahādīth[^2]* som bevisar att det är en skyldighet att be med församlingen, finns följande uttalande:
 
-> ”Jag avsåg att beordra någon att uttala *iqāmah[^3]* för bönen och sedan beordra någon att leda folket i bön. Därefter avsåg jag att beordra några män med buntar med eldträd gå till dem som inte var närvarande vid bönen [med församlingen] och bränna ned deras hus över dem.” [al-Bukhārī 644]
+> ”Jag avsåg att beordra någon att uttala *iqāmah[^3]* för bönen och sedan beordra någon att leda folket i bön. Därefter avsåg jag att beordra några män med buntar med eldträd gå till dem som inte var närvarande vid bönen [med församlingen] och bränna ned deras hus över dem.” [*al-Bukhārī* 644]
 
 Han har även sagt:
 
-> ”Den som hörde kallet [till bön] och inte besvarade det, det finns det ingen bön för denne om denne inte har en ursäkt.” [Ibn Mājah 793]
+> ”Den som hörde kallet [till bön] och inte besvarade det, det finns det ingen bön för denne om denne inte har en ursäkt.” [*Ibn Mājah* 793]
 
 Profeten – över honom vare Allāhs frid och välsignelser – sade även till en blind man som sökte tillstånd för att be i sitt hem: ”*Hör du kallet [till bön]?*” Han svarade: ”*Ja*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Besvara det då*.” [*Muslim* 653] Ibn Mas'ud har sagt:
 

@@ -14,7 +14,7 @@ description: 'Fråga: Vilket är utlåtandet om kvinnornas rader? Är de värsta
 
 **Fråga:** Vilket är utlåtandet om kvinnornas rader? Är de värsta de första och de bästa de sista under alla omständigheter?
 
-**Svar:** Det som avses är att om männen är med kvinnorna på en plats, då är de sista raderna bättre för kvinnorna än de första. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*De bästa av kvinnornas rader är de sista och de värsta är de första*.” [Muslim 440]
+**Svar:** Det som avses är att om männen är med kvinnorna på en plats, då är de sista raderna bättre för kvinnorna än de första. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*De bästa av kvinnornas rader är de sista och de värsta är de första*.” [*Muslim* 440]
 
 Den enda anledningen till detta är eftersom de sista är de som är längst från männen och de första är de som är närmst.
 

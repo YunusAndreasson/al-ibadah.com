@@ -17,7 +17,7 @@ description: 'Fråga: En gång låg jag på sjukhus under tre dagar tillsammans 
 
 **Svart:** Det var din plikt att råda och tillrättavisa dem för denna stora synd som de begick. De övergav ju bönen. Allāh säger: ”*Och blir till en gemenskap av människor som uppmanar varandra att göra gott och anbefaller det som är rätt och förbjuder det som är orätt. Dem ska det gå väl i händer*.” [Koranen 3:104]
 
-Det finns även andra verser med samma innebörd. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om någon av er såg något dåligt, då bör han korrigera det med sin hand; och om han inte har möjlighet att göra det, då med sina ord; och om han inte har möjlighet att göra detta, då i hans hjärta – och detta är den svagaste formen av tro*.” [Muslim 49]
+Det finns även andra verser med samma innebörd. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om någon av er såg något dåligt, då bör han korrigera det med sin hand; och om han inte har möjlighet att göra det, då med sina ord; och om han inte har möjlighet att göra detta, då i hans hjärta – och detta är den svagaste formen av tro*.” [*Muslim* 49]
 
 Då du inte gjorde detta måste du ångra dig uppriktigt för din olydnad. Detta innebär att du ångrar vad du gjort, undviker det bestämmer dig för att inte göra om det. Var uppriktig mot Allāh, prisa Honom och frukta Hans straff. Den som vänder sig till Allāh i ånger kommer Han att förlåta. Detta enligt Hans den Allsmäktiges ord: ”*Men Jag ger förvisso den full förlåtelse som ångrar sig, antar tron och sedan lever ett rättskaffens liv och följer vägledningen*.” [Koranen 20:82]
 

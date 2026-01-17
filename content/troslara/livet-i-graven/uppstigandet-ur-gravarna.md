@@ -39,7 +39,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 >
 >
 >
-> ”Jag kommer att vara den förste som återfår medvetandet.” [al-Bukhārī 2412]
+> ”Jag kommer att vara den förste som återfår medvetandet.” [*al-Bukhārī* 2412]
 
 Du kan få ytterligare detaljer om de två ovan nämnda haditherna i boken *al-’aqīdah at-Tahawiyah* där imam at-Tahawi berättar om folkets tillstånd på Återuppståndelsens Dag.
 

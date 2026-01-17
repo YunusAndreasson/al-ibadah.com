@@ -14,5 +14,5 @@ description: 'Fråga: Är det tillåtet att korta skägget genom att trimma det?
 
 **Fråga:** Är det tillåtet att korta skägget genom att trimma det?
 
-**Svar:** Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har klart och tydligt sagt: ”Klipp era mustascher och odla skäggen.” [Ahmad 2:229] Skägget består av håret som växer på ens kinder och haka men inte av det hår som finns därunder.
+**Svar:** Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har klart och tydligt sagt: ”Klipp era mustascher och odla skäggen.” [*Ahmad* 2:229] Skägget består av håret som växer på ens kinder och haka men inte av det hår som finns därunder.
 
