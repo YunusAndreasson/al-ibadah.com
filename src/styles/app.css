@@ -498,35 +498,9 @@ body {
 }
 
 .list-item-meta {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
   color: var(--color-muted-foreground);
   font-size: 0.875rem;
   flex-shrink: 0;
-}
-
-.list-item-chevron {
-  color: var(--color-muted-foreground);
-}
-
-/* Legacy card component - keep for backwards compatibility */
-.card {
-  border: 1px solid var(--color-border);
-  border-radius: 0.5rem;
-  padding: 1rem;
-  transition: background-color 0.15s ease, border-color 0.15s ease;
-}
-
-@media (min-width: 640px) {
-  .card {
-    padding: 1.25rem;
-  }
-}
-
-.card:hover {
-  background-color: color-mix(in oklch, var(--color-muted) 50%, transparent);
-  border-color: var(--color-muted-foreground);
 }
 
 /* Navigation link */

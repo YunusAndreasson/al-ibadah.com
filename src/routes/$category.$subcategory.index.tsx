@@ -51,12 +51,11 @@ function SubcategoryPage() {
               className="list-item"
             >
               <div className="list-item-content">
-                <span className="font-medium">{article.title}</span>
+                <span>{article.title}</span>
                 {article.author && (
-                  <p className="text-sm text-muted-foreground mt-0.5">{article.author}</p>
+                  <p className="text-sm text-muted-foreground">{article.author}</p>
                 )}
               </div>
-              <span className="list-item-chevron" aria-hidden="true">›</span>
             </Link>
           ))}
         </div>

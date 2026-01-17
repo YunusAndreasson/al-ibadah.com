@@ -47,11 +47,8 @@ function CategoryPage() {
               preload="viewport"
               className="list-item"
             >
-              <span className="list-item-content font-medium">{sub.name}</span>
-              <span className="list-item-meta">
-                {sub.articleCount}
-                <span className="list-item-chevron" aria-hidden="true">›</span>
-              </span>
+              <span className="list-item-content">{sub.name}</span>
+              <span className="list-item-meta">{sub.articleCount}</span>
             </Link>
           ))}
         </div>
