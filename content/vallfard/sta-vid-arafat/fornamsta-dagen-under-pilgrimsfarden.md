@@ -14,7 +14,7 @@ description: 'Fråga: Vilken är innebörden av ”den största dagen under pilg
 
 **Fråga:** Vilken är innebörden av ”den största dagen under pilgrimsfärden” [*yawn al-hajj al-akbar*] och ”den största pilgrimsfärden”? Betyder detsamma sak eller är det olika saker? Återfinns de båda i Koranen och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*?
 
-**Svar:** All lovprisan tillhör Allāh. Den förnämsta dagen under pilgrimsfärden är offerdagen och detta är den tionde dagen i *dhu’l-hijjah*. Abū Dawūd har återberättat från Ibn ´Umar att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – reste sig upp under pilgrimsfärdens offerdag och sade: ”*Vilken dag är detta*?” De svarade: ”*Offerdagen*.” Han svarade: ”*Detta är den största dagen under pilgrimsfärden*.” [*Sunan Abū Dawūd* 1945, klassad som sahīh av al-Albāni i *Sahīh Abū Dawūd* 1700]
+**Svar:** All lovprisan tillhör Allāh. Den förnämsta dagen under pilgrimsfärden är offerdagen och detta är den tionde dagen i *dhu’l-hijjah*. Abū Dawūd har återberättat från Ibn ´Umar att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – reste sig upp under pilgrimsfärdens offerdag och sade: ”*Vilken dag är detta*?” De svarade: ”*Offerdagen*.” Han svarade: ”*Detta är den största dagen under pilgrimsfärden*.” [*Sunan Abū Dawūd* 1945, klassad som *sahīh* av al-Albāni i *Sahīh Abū Dawūd* 1700]
 
 al-Bukhārī [369] har återgivit att Abū Hurairah har sagt:
 
