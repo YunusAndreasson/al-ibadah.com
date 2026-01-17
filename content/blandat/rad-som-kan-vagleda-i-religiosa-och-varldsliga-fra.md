@@ -12,7 +12,7 @@ description: 'Fråga: Kan du ge några råd som kan vägleda oss i religiösa oc
 
 *Shaykh ul-islām* Ibn Taymiyyah ställdes följande fråga:
 
-Jag bad shayken, imamen, åtföljaren av *salaf[^1]* och ledarna i generationerna som följde, den berömdaste man som jag någonsin har träffat i från öst och väst, Taqiy al-Dīn Abu'l-Abbās Ahmad Ibn Taymiyyah att ge mig råd om något som kan vägleda mig i både religiösa och världsliga frågor.
+Jag bad shayken, imamen, åtföljaren av *salaf[^1]* och ledarna i generationerna som följde, den berömdaste man som jag någonsin har träffat ifrån öst och väst, Taqiy al-Dīn Abu'l-Abbās Ahmad Ibn Taymiyyah att ge mig råd om något som kan vägleda mig i både religiösa och världsliga frågor.
 
 **Svar:**   När det kommer till råd känner jag – för dem som förstår och följer dem – inte till något nyttigare än Allāhs och Hans sändebuds: ”*Vi uppmanade dem som fick ta emot Skrifter före er, liksom [Vi uppmanar] er, att frukta Gud*.” [Koranen 4:131]
 
@@ -36,7 +36,7 @@ I *al-Sahīhayn* återfinns en *hadīth[^2]* återberättad av Abū Sa’īd i v
 
 Det finns ytterligare rapporter som bekräftar i form av *ahādīth[^2]* som är hasan och *sahīh*. Detta är något som berör de i samhällets toppskikt som påstår sig vara religiöst medvetna, vilket mer än en av *salaf[^1]* – må Allāh vara nöjda med dem – sagt, inklusive Ibn ’Uyayanah. Flera av de karaktärsdrag som judarna besitter har även de som påstår sig vara kunniga och flera av de karaktärsdrag som de kristna besitter har även de som påstår sig vara religiöst medvetna. Detta är något som är klart för dem som förstår islam som Allāh har sänt Muḥammad med och som sedan försöker förstå människor från islams ljus.
 
-Det nyttigast som både ledarna och vanligt folk bör känna till är det som renar själarna i från dåliga handlingars inverkan – och det är att låta en dålig handling följas av en god. Det goda är det som Allāh har påbjudit oss genom den siste profetens – över honom vare Allāhs frid och välsignelser – läppar i form av: handling, attityd och karaktär. Bland det som undanröjer följderna av synder är de motgångar och olyckor som stryker ut synder; detta gäller alla former av oro, smärta och bekymmer som har att göra med ens heder, kropp och välstånd. Detta ska vara sådant som man inte har ådragit sig genom sina egna handlingar.
+Det nyttigast som både ledarna och vanligt folk bör känna till är det som renar själarna ifrån dåliga handlingars inverkan – och det är att låta en dålig handling följas av en god. Det goda är det som Allāh har påbjudit oss genom den siste profetens – över honom vare Allāhs frid och välsignelser – läppar i form av: handling, attityd och karaktär. Bland det som undanröjer följderna av synder är de motgångar och olyckor som stryker ut synder; detta gäller alla former av oro, smärta och bekymmer som har att göra med ens heder, kropp och välstånd. Detta ska vara sådant som man inte har ådragit sig genom sina egna handlingar.
 
 När profeten – över honom vare Allāhs frid och välsignelser – hade fastställt Allāhs rättigheter om att utföra rättfärdiga handlingar och att ställa dåliga till rätta sade han: ”*och* *behandla folk på ett vänligt sätt*”. Detta avser ens plikter mot andra människor. En bra attityd mot andra människor baseras på att upprätthålla kontakt med den som bryter den; genom att hälsa på denne med *salām*, hedra denne, åkalla för denne, be för dennes förlåtelse, prisa denne och besöka denne. Vissa av dessa frågor är obligatoriska och andra är uppmuntrade.
 
