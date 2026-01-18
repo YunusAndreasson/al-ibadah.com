@@ -19,13 +19,17 @@ description: 'Fråga: Jag hade en viktig plikt att utföra och tiden för bönen
 
 Är det svårt att ta reda på detta, då måste han försöka uppskatta och ta reda på riktningen mot *qiblah[^1]* för att be mot den. Gör han det är det tillräckligt även om det senare blir uppenbart att han har misstagit sig i sin uppskattning. Anledningen är att han ansträngde sig till den grad han kunde och att han fruktade Allāh.
 
-Det är inte tillåtet att be den obligatoriska bönen på ett flygplan eller i öknen utan att anstränga sig för att ta reda på riktningen mot *qiblah[^1]*. Den som inte gör detta måste upprepa bönen. Denne fruktade inte Allāh så mycket som denne borde ha gjort och denne ansträngde sig inte tillräckligt.
+Det är inte tillåtet att be den obligatoriska bönen på ett flygplan eller i öknen utan att anstränga sig för att ta reda på riktningen mot *qiblah[^1]*. Den som inte gör detta måste upprepa bönen.
+
+Denne fruktade inte Allāh så mycket som denne borde ha gjort och denne ansträngde sig inte tillräckligt.
 
 Det finns inge invändan mot att frågeställaren har bett sittande om han inte hade möjlighet att be stående. Detsamma gäller den tjänare som ber på en båt där det inte är möjligt att stå. Beviset för detta är Allāhs ord: ”*Frukta därför Gud efter måttet av er förmåga*.” [Koranen 64:16]
 
 Så länge tiden tillät det finns det ingen invändan mot att han sköt upp bönen tills han lämnat flygplanet.
 
-Detta gäller den obligatoriska bönen. I fråga om de frivilliga, då behöver man inte stå i riktning mot *qiblah[^1]* när man befinner sig i ett plan, på ett fartyg eller på ett riddjur. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – brukade be de icke-obligatoriska bönerna på sin kamel, oberoende av färdvägens riktning. Det är dock att föredra om man är vänd mot *qiblah[^1]* när bönen börjar, för att sedan fortsätta den i den riktning man reser i. Anledningen är att bevis för detta har rapporterats i en *hadīth[^2]* från Anas.
+Detta gäller den obligatoriska bönen. I fråga om de frivilliga, då behöver man inte stå i riktning mot *qiblah[^1]* när man befinner sig i ett plan, på ett fartyg eller på ett riddjur. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – brukade be de icke-obligatoriska bönerna på sin kamel, oberoende av färdvägens riktning.
+
+Det är dock att föredra om man är vänd mot *qiblah[^1]* när bönen börjar, för att sedan fortsätta den i den riktning man reser i. Anledningen är att bevis för detta har rapporterats i en *hadīth[^2]* från Anas.
 
 Och genom Allāh uppnås framgång.
 

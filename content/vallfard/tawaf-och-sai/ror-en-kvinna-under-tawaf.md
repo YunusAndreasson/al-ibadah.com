@@ -19,9 +19,13 @@ description: 'Fråga: En man utförde under väldig trängsel tawāful-ifādhah 
 
 Man har diskuterat om tvagningen[^2] bryts om en kvinna vidrörs och det finns olika uttalanden om det. Det har sagts att det inte bryter tvagningen[^2] alls. Det har sagts att det bryter tvagningen[^2]. Det har även sagts att det bryter tvagningen[^2] om det görs med begär. Den mest korrekta åsikten är dock att det på inget sätt bryter tvagningen[^2], och detta gäller även om en man rör eller kysser en kvinna.
 
-Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – kysste några av sina fruar för att sedan be utan att tvaga sig. Det beror även på att den grundläggande principen är att ens tvagning[^2] och renhet är intakt och att det inte är tillåtet att säga att den bryts genom något, utom om det finns något som bevisar att tvagningen[^2] bryts genom att en kvinna vidrörs.
+Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – kysste några av sina fruar för att sedan be utan att tvaga sig.
 
-Den rätta förklaringen av Allāhs ord: ”*Eller haft beröring med kvinnor*.” [Koranen 5:6] är att de avser intim samvaro. Detsamma gäller ett annat uttalande: ”*eller ni som har rört kvinnor*”. Även detta avser intim samvaro. Ibn ‘Abbās och några lärde har berättat detta. Det betyder inte att man enbart rör en kvinna, som rapporterats från Ibn Mas’ūd. I stället är den korrekta åsikten att det avser intim samvaro, vilket Ibn ‘Abbās och några lärde har sagt.
+Det beror även på att den grundläggande principen är att ens tvagning[^2] och renhet är intakt och att det inte är tillåtet att säga att den bryts genom något, utom om det finns något som bevisar att tvagningen[^2] bryts genom att en kvinna vidrörs.
+
+Den rätta förklaringen av Allāhs ord: "*Eller haft beröring med kvinnor*." [Koranen 5:6] är att de avser intim samvaro. Detsamma gäller ett annat uttalande: "*eller ni som har rört kvinnor*". Även detta avser intim samvaro. Ibn 'Abbās och några lärde har berättat detta.
+
+Det betyder inte att man enbart rör en kvinna, som rapporterats från Ibn Mas'ūd. I stället är den korrekta åsikten att det avser intim samvaro, vilket Ibn 'Abbās och några lärde har sagt.
 
 Genom detta lär vi oss att den som rör en kvinnas kropp under *tawāf[^1]* fortfarande har en korrekt *tawāf[^1]* och att dennes tvagning[^2] är giltig. Även om denne rör eller kysser sin fru är dennes tvagning[^2] giltig så länge inget kommer ur honom [vätska eller sperma].
 

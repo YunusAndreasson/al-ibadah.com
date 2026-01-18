@@ -17,7 +17,9 @@ description: 'Fråga: När jag studerade brukade jag stjäla böcker från skola
 
 **Svar:** För varje sjukdom Allāh har sänt ned har Han även sänt ned ett botemedel. Den sjukdomen du nämnde, som drabbar många då de är unga, har ett botemedel. Du måste ta kontakt med dem som är ansvarig för institutionen du stal från och du måste informera dem om vad du tagit. Sedan kan du komma överens med dem om hur du kan ställa till rätta de fel du begått.
 
-I vissa fall kan någon känna skam då han inte vill möta personen och erkänna att han stulit. Om situationen förhåller sig på detta vis för dig kan du, exempelvis, tala med en vän till skolans rektor och informera dem om vad som inträffat och samtidigt berätta att du ångrat dig inför Allāh den Allsmäktige. Ge sedan denna person den summa du är skyldig och be honom att överlämna den till rektorn eller den ansvarige för skolan. Om du gör detta ska du veta att Allāh den Högste säger:
+I vissa fall kan någon känna skam då han inte vill möta personen och erkänna att han stulit. Om situationen förhåller sig på detta vis för dig kan du, exempelvis, tala med en vän till skolans rektor och informera dem om vad som inträffat och samtidigt berätta att du ångrat dig inför Allāh den Allsmäktige. Ge sedan denna person den summa du är skyldig och be honom att överlämna den till rektorn eller den ansvarige för skolan.
+
+Om du gör detta ska du veta att Allāh den Högste säger:
 
 > ”Gud visar var och en som fruktar Honom en utväg ur [alla svårigheter].” [Koranen 5:2]
 >

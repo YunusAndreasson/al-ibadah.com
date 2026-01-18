@@ -14,7 +14,9 @@ description: 'Fråga: Vilket är utlåtandet om omskärelse för män och kvinno
 
 **Fråga:** Vilket är utlåtandet om omskärelse för män och kvinnor?
 
-**Svar:** Utlåtandet om omskärelse är en fråga i vilken det finns oenighet. Den mest korrekta åsikten är att det är en skyldighet för män och en *sunnah[^1]* för kvinnor [OBS! Detta är inte könsstympning utan ett försköningsingrepp som även utförs av kirurger i Sverige]. Anledningen till skillnaden mellan dem är att det finns en nytta i omskärelse för män som har att göra med om bönen accepteras. Om förhuden finns kvar när urinen kommer ut ur urinöppningen kommer den att samlas under förhuden och det kommer att vara en orsak till brännande och inflammation. Det kan också vara så att när man rör sig rinner lite urin ut och då blir man rituellt oren.
+**Svar:** Utlåtandet om omskärelse är en fråga i vilken det finns oenighet. Den mest korrekta åsikten är att det är en skyldighet för män och en *sunnah[^1]* för kvinnor [OBS! Detta är inte könsstympning utan ett försköningsingrepp som även utförs av kirurger i Sverige].
+
+Anledningen till skillnaden mellan dem är att det finns en nytta i omskärelse för män som har att göra med om bönen accepteras. Om förhuden finns kvar när urinen kommer ut ur urinöppningen kommer den att samlas under förhuden och det kommer att vara en orsak till brännande och inflammation. Det kan också vara så att när man rör sig rinner lite urin ut och då blir man rituellt oren.
 
 Den maximala nyttan det medför kvinnor är att deras lust och begär kommer att reduceras. I detta ligger att uppnå perfektion och det är inte för att ta bort något skadligt.
 

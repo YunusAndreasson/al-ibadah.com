@@ -16,7 +16,9 @@ description: 'Fråga: Får jag ge min mor en summa pengar och anse att den är e
 
 **Svar:** Det är inte tillåtet att du ger din mor allmosa därför att allmosa ska man inte ge till föräldrar. Detta beror också på att hon inte behöver den eftersom din far försörjer henne.
 
-När det gäller din bror är det inte tillåtet att ge honom allmosa så länge han överger bönen. Detta beror på att bönen är den största pelaren efter de båda trosbekännelserna och att avsiktligen överge bönen är stor otro. Då han är stark och har möjlighet att försörja sig bör han inte få allmosa. När det finns ett behov att försörja honom, då ska hans far göra detta då han är ansvarig för honom när det gäller försörjning så länge han har möjlighet.
+När det gäller din bror är det inte tillåtet att ge honom allmosa så länge han överger bönen. Detta beror på att bönen är den största pelaren efter de båda trosbekännelserna och att avsiktligen överge bönen är stor otro.
+
+Då han är stark och har möjlighet att försörja sig bör han inte få allmosa. När det finns ett behov att försörja honom, då ska hans far göra detta då han är ansvarig för honom när det gäller försörjning så länge han har möjlighet.
 
 Må Allāh vägleda brodern till sanningen och skydda honom från det onda i hans inre och hans onda vänner.
 

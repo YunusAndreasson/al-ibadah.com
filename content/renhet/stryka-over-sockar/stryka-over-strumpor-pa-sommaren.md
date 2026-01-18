@@ -15,7 +15,9 @@ description: 'Fråga: Jag ser ofta folk stryka över sina strumpor när de tvaga
 
 **Svar:** All lovprisan tillhör Allāh. Den generella betydelsen av *sahīh ahādīth[^1]* om att det är tillåtet att stryka över lädersockarna eller strumporna visar att det är tillåtet att göra så både på vintern och på sommaren. Jag känner inte till några bevis som visar att det endast är tillåtet på vintern.
 
-Det är inte tillåtet att stryka över strumporna såvida inte villkoren satta av den islamiska lagen möts, såsom villkoren att strumporna måste täcka delen som tvättas under tvagningen[^2], de måste tas på när man har tvagat sig och man måste vara uppmärksam på tiden som det är tillåtet under. Denna tid är en dag och en natt för den som inte reser och tre dagar och tre nätter för en resande, med start vid det första tillfället som man stryker över dem när man har brutit sin tvagning[^2]. Detta enligt den mer korrekta av de lärdas båda åsikter.
+Det är inte tillåtet att stryka över strumporna såvida inte villkoren satta av den islamiska lagen möts, såsom villkoren att strumporna måste täcka delen som tvättas under tvagningen[^2], de måste tas på när man har tvagat sig och man måste vara uppmärksam på tiden som det är tillåtet under.
+
+Denna tid är en dag och en natt för den som inte reser och tre dagar och tre nätter för en resande, med start vid det första tillfället som man stryker över dem när man har brutit sin tvagning[^2]. Detta enligt den mer korrekta av de lärdas båda åsikter.
 
 Och Allāh är källan till all styrka.
 

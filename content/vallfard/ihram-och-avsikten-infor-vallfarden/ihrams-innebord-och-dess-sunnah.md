@@ -18,7 +18,9 @@ description: 'Fråga: Vilken är innebörden med ihrām och vad är sunnah för 
 
 *Ihrām[^1]* är inte enbart att bära en viss sorts kläder, man kan ju utan att ha någon avsikt bära *ihrām[^1]*-kläder när man är hemma. Då kallas man inte för *muhrim[^3]*. En *muhrim[^3]* får även träda in i *ihrām[^1]* med sitt hjärta och lämna sina vanliga kläder på [som en skjorta, turban eller något liknande]. I detta fall får denne som gottgörelse dock göra ett offer.
 
-När man går in i *ihrām[^1]* är det *sunnah[^2]* att ta ett fullständigt bad, om det har gått en tid sedan man sist rengjorde sig och tiden för *ihrām[^1]* är lång. Men om man badade och rengjorde sig en dag tidigare, då behöver man inte bada igen. Det är *sunnah[^2]* att rengöra sig och trimma mustaschen om den är lång, i rädsla för att den ska bli längre och störande under *ihrām[^1]*. Det är även *sunnah[^2]* att parfymera sig före avsikten formas och det är förbjudet att parfymera sig när avsikten för *ihrām[^1]* har formats. Detta är för att man inte ska störas av svett och smuts. Är man inte rädd för detta, då är det inte fel om han lämnar det. Detta är vad som är vanligast då tiden för *ihrām[^1]* under både vallfärden och *‘umrah[^4]* är kort.
+När man går in i *ihrām[^1]* är det *sunnah[^2]* att ta ett fullständigt bad, om det har gått en tid sedan man sist rengjorde sig och tiden för *ihrām[^1]* är lång. Men om man badade och rengjorde sig en dag tidigare, då behöver man inte bada igen.
+
+Det är *sunnah[^2]* att rengöra sig och trimma mustaschen om den är lång, i rädsla för att den ska bli längre och störande under *ihrām[^1]*. Det är även *sunnah[^2]* att parfymera sig före avsikten formas och det är förbjudet att parfymera sig när avsikten för *ihrām[^1]* har formats. Detta är för att man inte ska störas av svett och smuts. Är man inte rädd för detta, då är det inte fel om han lämnar det. Detta är vad som är vanligast då tiden för *ihrām[^1]* under både vallfärden och *'umrah[^4]* är kort.
 
 Och Allāh vet bäst.
 

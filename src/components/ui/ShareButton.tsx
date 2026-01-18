@@ -47,7 +47,7 @@ export function ShareButton({ title, url }: ShareButtonProps) {
     <button
       type="button"
       onClick={handleShare}
-      className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
+      className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors cursor-pointer"
       aria-label={canShare ? 'Dela artikel' : 'Kopiera länk'}
     >
       {copied ? (

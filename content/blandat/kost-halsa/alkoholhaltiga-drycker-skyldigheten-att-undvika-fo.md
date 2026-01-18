@@ -22,7 +22,9 @@ Det har även bekräftats att profeten – över honom vare Allāhs frid och vä
 
 Muslimer är helt eniga om förbudet mot alkohol. De lärde har sagt att den som avvisar att alkohol är förbjudet är en icke-troende och avfälling. Men om han är en nybliven muslim och okunnig om förbudet mot alkohol måste han informeras om detta utlåtande. Om han avvisar det är han en avfälling.
 
-Muslimer måste hålla sig långt borta från det och varken sälja, köpa, frakta, ta emot eller dricka det. Visdomen bakom detta förbud är tydligt för den som har bevittnat de dåliga konsekvenserna intag av alkohol har för en persons kropp och sinne samt hur detta drabbar samhället. Därmed nödvändiggör visdom och logik ett förbud som den islamiska lagen har beordrat.
+Muslimer måste hålla sig långt borta från det och varken sälja, köpa, frakta, ta emot eller dricka det. Visdomen bakom detta förbud är tydligt för den som har bevittnat de dåliga konsekvenserna intag av alkohol har för en persons kropp och sinne samt hur detta drabbar samhället.
+
+Därmed nödvändiggör visdom och logik ett förbud som den islamiska lagen har beordrat.
 
 Beträffande frågeställaren som drack alkohol för sista gången, som han säger, när han var på väg till vallfärden – om han ångrar sig och är uppriktigt kommer Allāh den Högste att vända sig till honom i förlåtelse och acceptera hans ånger oberoende av hur stor hans synd är.
 

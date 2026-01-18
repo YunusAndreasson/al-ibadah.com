@@ -13,5 +13,7 @@ description: 'Fråga: En person betalade inte allmosan under fyra år. Vad måst
 
 **Fråga:** En person betalade inte allmosan under fyra år. Vad måste denne nu göra?
 
-**Svar:** Denne har syndat genom att skjuta upp betalningen av allmosan. Allmosan måste betalas när den blir en skyldighet och den får inte skjutas upp. Detta beror på att den grundläggande principen när det gäller skyldigheter är att de måste uppfyllas direkt. Därför bör denne ångra sig inför Allāh den Allsmäktige då detta är en olydnad. Denne måste betala allmosan för alla tidigare år. Inget utesluts från allmosan utan i stället måste denne ångra sig och skyndsamt betala så att inte synderna ökar genom att skjuta upp ännu mer.
+**Svar:** Denne har syndat genom att skjuta upp betalningen av allmosan. Allmosan måste betalas när den blir en skyldighet och den får inte skjutas upp. Detta beror på att den grundläggande principen när det gäller skyldigheter är att de måste uppfyllas direkt.
+
+Därför bör denne ångra sig inför Allāh den Allsmäktige då detta är en olydnad. Denne måste betala allmosan för alla tidigare år. Inget utesluts från allmosan utan i stället måste denne ångra sig och skyndsamt betala så att inte synderna ökar genom att skjuta upp ännu mer.
 

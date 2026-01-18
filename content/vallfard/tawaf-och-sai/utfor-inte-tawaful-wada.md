@@ -15,9 +15,13 @@ description: 'Fråga: Vilket är utlåtandet om den som inte utför tawāful-wad
 
 **Svar:** Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Ingen bör resa förrän dennes sista handling är vid Huset [Ka’bah]*.” [*Muslim* 1327 och *Ahmad* 1/222]
 
-Detta har Ibn ‘Abbās återberättat och *Muslim* har nedtecknat det i sin *Sahīh*. De båda shaykerna [al-Bukhārī och *Muslim*] har även återgivit att Ibn ‘Abbās har berättat: ”*Folket kommenderades att utföra sin sista handling vid Huset [Ka’bah], men frågan har lindrats för en kvinna med månadsblödning*.” Profeten – över honom vare Allāhs frid och välsignelser – utförde *tawāf[^1] ul-wadā* vid Huset när han ville resa och avsluta riterna under hans sista vallfärd. Och han har sagt: ”*Ta era vallfärdsriter från mig*.” [*Muslim* 1297]
+Detta har Ibn 'Abbās återberättat och *Muslim* har nedtecknat det i sin *Sahīh*. De båda shaykerna [al-Bukhārī och *Muslim*] har även återgivit att Ibn 'Abbās har berättat: "*Folket kommenderades att utföra sin sista handling vid Huset [Ka'bah], men frågan har lindrats för en kvinna med månadsblödning*."
 
-Dessa *ahādīth[^2]* bevisar skyldigheten i *tawāf[^1] ul-wadā*, utom för en kvinna med månadsblödning och en kvinna som har blödningar efter graviditeten. En pilgrim som utelämnar detta måste slakta ett djur, då denne motsatt sig profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]* och lämnat en obligatorisk handling. Detta är den korrekta åsikten av de olika åsikterna som de lärde har. Det har berättats att Ibn ‘Abbās har sagt: ”*Den som lämnar en rit eller glömmer den, då måste denne spilla lite blod [slakta ett djur]*.” Detta anser de flesta lärde.
+Profeten – över honom vare Allāhs frid och välsignelser – utförde *tawāf[^1] ul-wadā* vid Huset när han ville resa och avsluta riterna under hans sista vallfärd. Och han har sagt: "*Ta era vallfärdsriter från mig*." [*Muslim* 1297]
+
+Dessa *ahādīth[^2]* bevisar skyldigheten i *tawāf[^1] ul-wadā*, utom för en kvinna med månadsblödning och en kvinna som har blödningar efter graviditeten. En pilgrim som utelämnar detta måste slakta ett djur, då denne motsatt sig profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]* och lämnat en obligatorisk handling.
+
+Detta är den korrekta åsikten av de olika åsikterna som de lärde har. Det har berättats att Ibn 'Abbās har sagt: "*Den som lämnar en rit eller glömmer den, då måste denne spilla lite blod [slakta ett djur]*." Detta anser de flesta lärde.
 
 Kvinnan med månadsblödning och kvinnan med blödningar efter graviditeten är inte skyldiga att utföra *tawāf[^1] ul-wadā*. Anledningen är den *hadīth[^2]* från Ibn ‘Abbās som har nämnts ovan och det som har rapporterats med samma innebörd.
 

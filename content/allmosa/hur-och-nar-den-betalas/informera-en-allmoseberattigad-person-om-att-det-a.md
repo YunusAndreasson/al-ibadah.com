@@ -15,7 +15,9 @@ description: 'Fråga: Om någon gav sin allmosa till en person som är berättig
 
 **Fråga:** Om någon gav sin allmosa till en person som är berättigad till det, bör denne då informeras om att det är allmosa?
 
-**Svar:** Om någon gav sin allmosa till en person som är berättigad till den, och denne inte vill ta emot allmosan, då måste den som äger allmosan informera om att det är en allmosa så att denne får veta det. Om denne sedan vill går det bra att avböja den och om denne vill går det bra att acceptera den. Är det dennes vana att acceptera allmosa är det bra om denne inte informeras. Detta beror på att genom att informera denne om att det är allmosa kan det vara ett sätt att påminna denne om sin generositet. Allāh den Upphöjde har sagt:
+**Svar:** Om någon gav sin allmosa till en person som är berättigad till den, och denne inte vill ta emot allmosan, då måste den som äger allmosan informera om att det är en allmosa så att denne får veta det. Om denne sedan vill går det bra att avböja den och om denne vill går det bra att acceptera den.
+
+Är det dennes vana att acceptera allmosa är det bra om denne inte informeras. Detta beror på att genom att informera denne om att det är allmosa kan det vara ett sätt att påminna denne om sin generositet. Allāh den Upphöjde har sagt:
 
 > "Troende! Beröva inte era gåvor deras värde genom [tal om] frikostighet eller genom [ord] som sårar." [Koranen 2:264]
 

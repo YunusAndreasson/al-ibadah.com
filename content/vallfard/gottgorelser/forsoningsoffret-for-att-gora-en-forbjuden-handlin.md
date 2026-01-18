@@ -14,7 +14,9 @@ description: 'Fråga: Vilket är försoningsoffret för vallfärden? Vilka typer
 
 **Fråga:** Vilket är försoningsoffret för vallfärden? Vilka typer finns det? Vilket är utlåtandet om den som upprepar en viss förbjuden handling?
 
-**Svar:** Försoningsoffret är en lösen för att ha gjort något förbjudet under *ihrām[^1]*. Denna lösen är av olika slag. Den första typen är att man har ett val mellan att slakta ett får, att ge sex fattiga människor mat eller att fasta tre dagar. Denna lösen är för att raka håret [även om det enbart är tre hårstrån], klippa naglarna, bära sydda kläder, använda parfym eller täcka huvudet. Den som sonar för sig på något av dessa sätt har gjort tillräckligt.
+**Svar:** Försoningsoffret är en lösen för att ha gjort något förbjudet under *ihrām[^1]*. Denna lösen är av olika slag.
+
+Den första typen är att man har ett val mellan att slakta ett får, att ge sex fattiga människor mat eller att fasta tre dagar. Denna lösen är för att raka håret [även om det enbart är tre hårstrån], klippa naglarna, bära sydda kläder, använda parfym eller täcka huvudet. Den som sonar för sig på något av dessa sätt har gjort tillräckligt.
 
 Den andra typen är en kompensation för att ha jagat vilt. Man ges då möjligheten att välja mellan att slakta ett boskapsdjur. Man kan även uppskatta dess värde i mat och ge mängden mat i välgörenhet eller kan man fasta vad som är likvärdigt i antal dagar. Fastan sker genom att man fastar en dag för varje *mudd* [två fulla händer] i mat.
 

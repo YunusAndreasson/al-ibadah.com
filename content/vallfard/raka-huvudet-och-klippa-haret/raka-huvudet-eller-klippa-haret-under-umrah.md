@@ -14,7 +14,9 @@ description: 'Fråga: Vilket är utlåtandet om att raka huvudet eller klippa h�
 
 **Fråga:** Vilket är utlåtandet om att raka huvudet eller klippa håret under *‘umrah[^1]*?
 
-**Svar:** Det är obligatoriskt att raka huvudet eller klippa håret under *´umrah[^1]*. Anledningen är att när profeten – över honom vare Allāhs frid och välsignelser – kom till Mecka under sin sista vallfärd, och han utförde *tawāf[^2]* samt *sa’ī[^3]*, då kommenderade han dem som inte hade tagit med sig ett offerdjur att klippa håret och sedan raka huvudet [under vallfärden]. Då han kommenderade dem att klippa håret, och den grundläggande principen om en kommendering är att det är en skyldighet, bevisar det att håret måste klippas. Något som också hänspelar till detta är att profeten – över honom vare Allāhs frid och välsignelser – kommenderade dem, när de hindrades från att göra *‘umrah[^1]* under expeditionen till al-Hudaibiyyah, att raka sina huvuden.
+**Svar:** Det är obligatoriskt att raka huvudet eller klippa håret under *´umrah[^1]*. Anledningen är att när profeten – över honom vare Allāhs frid och välsignelser – kom till Mecka under sin sista vallfärd, och han utförde *tawāf[^2]* samt *sa'ī[^3]*, då kommenderade han dem som inte hade tagit med sig ett offerdjur att klippa håret och sedan raka huvudet [under vallfärden].
+
+Då han kommenderade dem att klippa håret, och den grundläggande principen om en kommendering är att det är en skyldighet, bevisar det att håret måste klippas. Något som också hänspelar till detta är att profeten – över honom vare Allāhs frid och välsignelser – kommenderade dem, när de hindrades från att göra *'umrah[^1]* under expeditionen till al-Hudaibiyyah, att raka sina huvuden.
 
 I fråga om det är bättre att klippa håret eller att raka det för *´umrah[^1]*, är det bättre att raka huvudet, utom om man utför *hajjul-tamattu´*[^4] och man har kommit sent till Mecka. I detta fall är det bättre att klippa håret, så att man har hår kvar att raka av under vallfärden.
 

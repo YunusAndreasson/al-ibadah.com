@@ -18,7 +18,7 @@ function AboutPage() {
             </span>
           </p>
 
-          <h3>Om webbplatsen</h3>
+          <h3 className="!text-sm font-semibold uppercase tracking-wide text-foreground/70 !mb-3 !mt-8 first:!mt-0">Om webbplatsen</h3>
           <p>
             al-Ibadah samlar religiösa utlåtanden för svensktalande muslimer som vill praktisera
             sin tro i enlighet med Koranen och profetens <em>sunnah</em> – fred och välsignelser
@@ -28,10 +28,10 @@ function AboutPage() {
             rekommenderas <a href="https://islam.se">islam.se</a>.
           </p>
 
-          <h3>Källor</h3>
+          <h3 className="!text-sm font-semibold uppercase tracking-wide text-foreground/70 !mb-3 !mt-8 first:!mt-0">Källor</h3>
           <p>
-            Utlåtandena är hämtade från <em>Fatāwā Islāmiyyah</em> och{' '}
-            <em>Fatāwā Arkān ul-Islām</em> och bygger på texter av erkända sunnitiska lärda:{' '}
+            Utlåtandena är översatta från <em>Fatāwā Islāmiyyah</em> och{' '}
+            <em>Fatāwā Arkān ul-Islām</em>, samlingar av utlåtanden från erkända sunnitiska lärda:{' '}
             <Link to="/biografier/shaykh-abdul-aziz-ibn-abdullah-ibn-abdur-rahman-ib">
               Ibn Bāz
             </Link>
@@ -41,16 +41,16 @@ function AboutPage() {
             <em>rahimahum Allah</em>.
           </p>
 
-          <h3>Att vara muslim i Sverige</h3>
+          <h3 className="!text-sm font-semibold uppercase tracking-wide text-foreground/70 !mb-3 !mt-8 first:!mt-0">Att vara muslim i Sverige</h3>
           <p>
             Utlåtandena är i huvudsak allmängiltiga, men vissa texter berör frågor som kan kräva
             lokalt perspektiv. Läsaren uppmanas att sätta sig in i principerna bakom utlåtandena
             och vid behov rådgöra med kunniga i sin närhet.
           </p>
 
-          <h3>Upphovsrätt</h3>
+          <h3 className="!text-sm font-semibold uppercase tracking-wide text-foreground/70 !mb-3 !mt-8 first:!mt-0">Upphovsrätt</h3>
           <p>
-            Materialet är licensierat under{' '}
+            Översättningarna är licensierade under{' '}
             <a
               href="https://creativecommons.org/licenses/by/4.0/deed.sv"
               target="_blank"
@@ -58,17 +58,15 @@ function AboutPage() {
             >
               CC-BY-4.0
             </a>{' '}
-            och får spridas fritt med källhänvisning till den lärde som avgett utlåtandet.
+            och får spridas fritt med källhänvisning.
           </p>
 
-          <h3>Kontakt</h3>
+          <h3 className="!text-sm font-semibold uppercase tracking-wide text-foreground/70 !mb-3 !mt-8 first:!mt-0">Kontakt</h3>
           <p>
-            Översättning: Yunus Andréasson. Språkliga fel kan rapporteras via e-post. Religiösa
-            frågor besvaras inte.
-            <br />
-            <a href="mailto:yunus@edenmind.com" className="text-muted-foreground">
-              yunus@edenmind.com
-            </a>
+            Webbplatsen översätts och underhålls av{' '}
+            <a href="mailto:yunus@edenmind.com">Yunus Andréasson</a>. Frågor om webbplatsen eller
+            språkliga fel tas gärna emot. För religiösa frågor hänvisas till lokala lärda eller
+            erkända kunskapskällor.
           </p>
 
           <p className="text-muted-foreground">

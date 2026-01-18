@@ -14,7 +14,9 @@ description: 'Fråga: Vilket är utlåtandet om en kvinna som får sin månadsbl
 
 **Fråga:** Vilket är utlåtandet om en kvinna som får sin månadsblödning under vallfärden? Är denna vallfärd tillräcklig för henne?
 
-**Svar:** Om en kvinna får sin månadsblödning under vallfärden, då gör hon precis vad en manlig pilgrim gör, utom att hon inte utför *tawāf[^1]* runt Ka’bah eller *sa’ī[^2]* mellan as-Safa och al-Marwah förrän hon blir ren. När hon sedan blir ren gör hon *ghusl[^3]* och utför *tawāf[^1]* och *sa’ī[^2]*. Om hon råkar få sin månadsblödning och inget återstår för henne [av vallfärdsriterna] utom *tawaful-wada*[^4], då reser hon och inget krävs av henne. Under denna omständighet gäller inte denna skyldighet och hennes vallfärd är giltig.
+**Svar:** Om en kvinna får sin månadsblödning under vallfärden, då gör hon precis vad en manlig pilgrim gör, utom att hon inte utför *tawāf[^1]* runt Ka'bah eller *sa'ī[^2]* mellan as-Safa och al-Marwah förrän hon blir ren. När hon sedan blir ren gör hon *ghusl[^3]* och utför *tawāf[^1]* och *sa'ī[^2]*.
+
+Om hon råkar få sin månadsblödning och inget återstår för henne [av vallfärdsriterna] utom *tawaful-wada*[^4], då reser hon och inget krävs av henne. Under denna omständighet gäller inte denna skyldighet och hennes vallfärd är giltig.
 
 Grunden för detta är vad *at-Tirmithi* och *Abū Dawūd* har återgivit från ´Abdullāh bin ‘Abbās när berättar att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*När kvinnan med blödningar efter graviditeten och kvinnan under månadsblödningen kommer till mīqāt[^5]; då gör de ghusl[^3], går in i *ihrām[^6]* och fullföljer alla vallfärdsriter, utom *tawāf[^1]* runt Huset [Ka’bah]*.” [*Abū Dawūd* 1838]
 

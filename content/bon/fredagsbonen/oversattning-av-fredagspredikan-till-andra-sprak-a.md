@@ -19,15 +19,21 @@ description: 'Fråga: Är det tillåtet att översätta fredagspredikan till and
 
 Några har förbjudit det för att bevara det arabiska språket och för att följa profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagares väg där det inte talas arabiska samt för att uppmuntra människor att lära sig arabiska och att vårda detta språk.
 
-Andra lärda anser att det är tillåtet att översätta predikan till andra språk om alla närvarande, eller de flesta, inte förstår arabiska. Detta beror på syftet med predikan, vilket är att få folket att förstå de lagar som Allāh har föreskrivit för dem, Hans förbud, för att vägleda dem till ett gott beteende samt prisvärda egenskaper och att varna dem från att avvika från detta.
+Andra lärda anser att det är tillåtet att översätta predikan till andra språk om alla närvarande, eller de flesta, inte förstår arabiska.
 
-Det råder ingen tvekan om att innebörden är viktigare än orden, speciellt om de som tilltalas inte förstår arabiska och det som predikanten säger inte får dem till att anstränga sig eller lära sig arabiska. I detta fall har syftet med predikan inte uppnåtts och det som eftersträvades i att bevara det arabiska språket har heller inte uppnåtts. I detta fall är det klart för den som begrundar detta att det är tillåtet att översätta predikan till de språk som församlingen förstår. Detta är bättre och riktigare samt mer eftersträvansvärt, speciellt om det leder till dispyter och argumentation, för det råder inget tvivel om att översättningar vid dessa speciella omständigheter kommer att leda till att målet med fredagspredikan nås och att ondska inte får rota sig.
+Detta beror på syftet med predikan, vilket är att få folket att förstå de lagar som Allāh har föreskrivit för dem, Hans förbud, för att vägleda dem till ett gott beteende samt prisvärda egenskaper och att varna dem från att avvika från detta.
+
+Det råder ingen tvekan om att innebörden är viktigare än orden, speciellt om de som tilltalas inte förstår arabiska och det som predikanten säger inte får dem till att anstränga sig eller lära sig arabiska. I detta fall har syftet med predikan inte uppnåtts och det som eftersträvades i att bevara det arabiska språket har heller inte uppnåtts.
+
+I detta fall är det klart för den som begrundar detta att det är tillåtet att översätta predikan till de språk som församlingen förstår. Detta är bättre och riktigare samt mer eftersträvansvärt, speciellt om det leder till dispyter och argumentation, för det råder inget tvivel om att översättningar vid dessa speciella omständigheter kommer att leda till att målet med fredagspredikan nås och att ondska inte får rota sig.
 
 Om det finns personer i församlingen som förstår arabiska, då är det föreskrivet att predikanten använder båda språken genom att först tala arabiska och sedan upprepa på det andra språket som resten förstår […]
 
 Det finns många bevis i den islamiska lagen för detta, likt de som tidigare har nämnts. Målet med predikan är ju att församling ska dra nytta av den genom att påminnas om Allāhs sanning, kallas till att dyrka Honom och varnas för vad Han har förbjudit. Detta kan enbart uppnås på deras språk.
 
-Allāh har enbart sänt Sändebud som talar sitt folks språk för att på deras språk berätta vad Allāh den Upphöjde kräver av dem. Allāh den Allsmäktige säger:
+Allāh har enbart sänt Sändebud som talar sitt folks språk för att på deras språk berätta vad Allāh den Upphöjde kräver av dem.
+
+Allāh den Allsmäktige säger:
 
 > ”Vi har aldrig sänt ett sändebud som inte talade samma språk som det folk [till vilket hansändes], så att han klart kunde lägga fram [sitt budskap] för dem.” [Koranen 14:4]
 

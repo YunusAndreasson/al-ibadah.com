@@ -14,6 +14,7 @@ import { Route as CategoryRouteImport } from './routes/$category'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as CategoryIndexRouteImport } from './routes/$category.index'
 import { Route as CategorySubcategoryRouteImport } from './routes/$category.$subcategory'
+import { Route as CategorySlugRouteImport } from './routes/$category.$slug'
 import { Route as CategorySubcategoryIndexRouteImport } from './routes/$category.$subcategory.index'
 import { Route as CategorySubcategorySlugRouteImport } from './routes/$category.$subcategory.$slug'
 
@@ -42,6 +43,11 @@ const CategorySubcategoryRoute = CategorySubcategoryRouteImport.update({
   path: '/$subcategory',
   getParentRoute: () => CategoryRoute,
 } as any)
+const CategorySlugRoute = CategorySlugRouteImport.update({
+  id: '/$slug',
+  path: '/$slug',
+  getParentRoute: () => CategoryRoute,
+} as any)
 const CategorySubcategoryIndexRoute =
   CategorySubcategoryIndexRouteImport.update({
     id: '/',
@@ -58,6 +64,7 @@ export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/$category': typeof CategoryRouteWithChildren
   '/om': typeof OmRoute
+  '/$category/$slug': typeof CategorySlugRoute
   '/$category/$subcategory': typeof CategorySubcategoryRouteWithChildren
   '/$category/': typeof CategoryIndexRoute
   '/$category/$subcategory/$slug': typeof CategorySubcategorySlugRoute
@@ -66,6 +73,7 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/om': typeof OmRoute
+  '/$category/$slug': typeof CategorySlugRoute
   '/$category': typeof CategoryIndexRoute
   '/$category/$subcategory/$slug': typeof CategorySubcategorySlugRoute
   '/$category/$subcategory': typeof CategorySubcategoryIndexRoute
@@ -75,6 +83,7 @@ export interface FileRoutesById {
   '/': typeof IndexRoute
   '/$category': typeof CategoryRouteWithChildren
   '/om': typeof OmRoute
+  '/$category/$slug': typeof CategorySlugRoute
   '/$category/$subcategory': typeof CategorySubcategoryRouteWithChildren
   '/$category/': typeof CategoryIndexRoute
   '/$category/$subcategory/$slug': typeof CategorySubcategorySlugRoute
@@ -86,6 +95,7 @@ export interface FileRouteTypes {
     | '/'
     | '/$category'
     | '/om'
+    | '/$category/$slug'
     | '/$category/$subcategory'
     | '/$category/'
     | '/$category/$subcategory/$slug'
@@ -94,6 +104,7 @@ export interface FileRouteTypes {
   to:
     | '/'
     | '/om'
+    | '/$category/$slug'
     | '/$category'
     | '/$category/$subcategory/$slug'
     | '/$category/$subcategory'
@@ -102,6 +113,7 @@ export interface FileRouteTypes {
     | '/'
     | '/$category'
     | '/om'
+    | '/$category/$slug'
     | '/$category/$subcategory'
     | '/$category/'
     | '/$category/$subcategory/$slug'
@@ -151,6 +163,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof CategorySubcategoryRouteImport
       parentRoute: typeof CategoryRoute
     }
+    '/$category/$slug': {
+      id: '/$category/$slug'
+      path: '/$slug'
+      fullPath: '/$category/$slug'
+      preLoaderRoute: typeof CategorySlugRouteImport
+      parentRoute: typeof CategoryRoute
+    }
     '/$category/$subcategory/': {
       id: '/$category/$subcategory/'
       path: '/'
@@ -182,11 +201,13 @@ const CategorySubcategoryRouteWithChildren =
   CategorySubcategoryRoute._addFileChildren(CategorySubcategoryRouteChildren)
 
 interface CategoryRouteChildren {
+  CategorySlugRoute: typeof CategorySlugRoute
   CategorySubcategoryRoute: typeof CategorySubcategoryRouteWithChildren
   CategoryIndexRoute: typeof CategoryIndexRoute
 }
 
 const CategoryRouteChildren: CategoryRouteChildren = {
+  CategorySlugRoute: CategorySlugRoute,
   CategorySubcategoryRoute: CategorySubcategoryRouteWithChildren,
   CategoryIndexRoute: CategoryIndexRoute,
 }

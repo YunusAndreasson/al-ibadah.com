@@ -23,9 +23,13 @@ Har en kvinna nagellack på sina naglar kommer den att hindra vattnet från att 
 
 När det gäller någon som inte ber, som en kvinna med månadsblödning, då syndar hon inte om hon använder det så länge hennes handlande inte anses vara ett karaktärsdrag som tillhör de icke-troende kvinnorna. I detta fall är det inte tillåtet då det anses vara en imitation av dem.
 
-Jag har hört att vissa ger utlåtandet att detta är likvärdigt med att använda sockar och att en kvinna får använda det under en dag och en natt om hon är hemma, och under tre dagar och tre nätter om hon reser. Detta utlåtande stämmer inte, för allt som människor täcker sina kroppar med har inte samma utlåtande som det för sockar. Den islamiska lagen har tillåtit att man stryker över dem [sockarna] eftersom det i de flesta fall finns ett behov av det. Fötterna behöver hållas varma och täckta då de till exempel har kontakt med marken, stenar och kyla. Den islamiska lagen har då valt ut foten för att strykas över.
+Jag har hört att vissa ger utlåtandet att detta är likvärdigt med att använda sockar och att en kvinna får använda det under en dag och en natt om hon är hemma, och under tre dagar och tre nätter om hon reser. Detta utlåtande stämmer inte, för allt som människor täcker sina kroppar med har inte samma utlåtande som det för sockar.
 
-Det kan även jämföras med att bära en turban. Detta är dock inte korrekt då platsen för turbanen är huvudet och skyldigheten för huvudet [under tvagningen[^1]] är inte lika stark då skyldigheten här är att man stryker över det. Detta i motsats till handen som måste tvättas. Därför tillät profeten – över honom vare Allāhs frid och välsignelser – inte att en kvinna strök över sina handskar trots att de är något som täcker handen. Detta bevisar att det inte är tillåtet att jämföra något täckande som hindrar vattnet från att nå huden med en turban eller ett par handskar.
+Den islamiska lagen har tillåtit att man stryker över dem [sockarna] eftersom det i de flesta fall finns ett behov av det. Fötterna behöver hållas varma och täckta då de till exempel har kontakt med marken, stenar och kyla. Den islamiska lagen har då valt ut foten för att strykas över.
+
+Det kan även jämföras med att bära en turban. Detta är dock inte korrekt då platsen för turbanen är huvudet och skyldigheten för huvudet [under tvagningen[^1]] är inte lika stark då skyldigheten här är att man stryker över det. Detta i motsats till handen som måste tvättas.
+
+Därför tillät profeten – över honom vare Allāhs frid och välsignelser – inte att en kvinna strök över sina handskar trots att de är något som täcker handen. Detta bevisar att det inte är tillåtet att jämföra något täckande som hindrar vattnet från att nå huden med en turban eller ett par handskar.
 
 En muslim måste anstränga sig till sitt yttersta för att förvissa sig om sanningen och inte ge ett rättsligt utlåtande utan att veta att Allāh den Upphöjde kommer att fråga honom om det då han har representerat Allāhs den Allsmäktiges lag.
 

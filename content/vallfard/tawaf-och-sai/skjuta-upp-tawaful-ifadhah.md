@@ -14,7 +14,9 @@ description: 'Fråga: Är det tillåtet att skjuta upp tawāful-ifādhah och utf
 
 **Fråga:** Är det tillåtet att skjuta upp *tawāf[^1] ul-ifādhah* och utföra den tillsammans med *tawāf[^1] ul-wadā*? Får en pilgrim under vallfärden göra ett avbrott i det sjunde varvet och dricka vatten eller något annat?
 
-**Svar:** Det är tillåtet att skjuta upp *tawāf[^1] ul-ifādhah* på grund av rädsla för trängsel och liknande saker. Om man gör den när man ger sig av och man avser att den är för *al-ifādhah* och *al-wadā*, då gäller den som båda. Sedan reser man då man uppfyllt villkoret i att ens sista handling ska vara vid Ka’bah. Det är dock bättre om *tawāf[^1] ul-ifādhah* sker under *'eid*-dagen eller under *at-tashrīq*. Man får dock fortfarande skjuta upp till efter detta.
+**Svar:** Det är tillåtet att skjuta upp *tawāf[^1] ul-ifādhah* på grund av rädsla för trängsel och liknande saker. Om man gör den när man ger sig av och man avser att den är för *al-ifādhah* och *al-wadā*, då gäller den som båda. Sedan reser man då man uppfyllt villkoret i att ens sista handling ska vara vid Ka'bah.
+
+Det är dock bättre om *tawāf[^1] ul-ifādhah* sker under *'eid*-dagen eller under *at-tashrīq*. Man får dock fortfarande skjuta upp till efter detta.
 
 Det är tillåtet att göra ett avbrott mellan varven i *tawāf[^1]* om det enbart gäller en kort stund. Det kan vara för att förnya sin tvagning[^2], dricka lite vatten, be den obligatoriska bönen eller begravningsbönen och liknande saker.
 

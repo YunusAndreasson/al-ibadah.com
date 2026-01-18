@@ -14,7 +14,9 @@ description: 'Fråga: Vilket är utlåtandet om tarāwīh -bönen och hur många
 
 **Fråga:** Vilket är utlåtandet om *tarāwīh*-bönen och hur många bönecykler[^1] består den av?
 
-**Svar:** *Tarāwīh*-bönen är en *sunnah[^2]* som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har föreskrivits. Det har återgivits i *Sahīh al-Bukhārī* och *Sahīh Muslim* att 'A’ishah har berättat att profeten – över honom vare Allāhs frid och välsignelser – bad i moskén en natt och några bad med honom. Sedan bad han under nästa natt och då hade det blivit många. De samlades sedan under den tredje och fjärde natten men Allāhs sändebud kom inte ut. Under morgonen sade han: ”*Jag såg vad ni gjorde. Inget hindrade mig från att komma till er utom att jag var rädd för att det skulle bli en skyldighet för er*.” [*al-Bukhārī* 1129]
+**Svar:** *Tarāwīh*-bönen är en *sunnah[^2]* som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har föreskrivits. Det har återgivits i *Sahīh al-Bukhārī* och *Sahīh Muslim* att 'A'ishah har berättat att profeten – över honom vare Allāhs frid och välsignelser – bad i moskén en natt och några bad med honom. Sedan bad han under nästa natt och då hade det blivit många.
+
+De samlades sedan under den tredje och fjärde natten men Allāhs sändebud kom inte ut. Under morgonen sade han: "*Jag såg vad ni gjorde. Inget hindrade mig från att komma till er utom att jag var rädd för att det skulle bli en skyldighet för er*." [*al-Bukhārī* 1129]
 
 Antalet bönecykler[^1] är elva enligt vad som har återgivits i *Sahīh al-Bukhārī* och *Sahīh Muslim* från 'A’ishah. Hon fick frågan hur profetens – över honom vare Allāhs frid och välsignelser – bön var under *ramadan[^3]* och hon sade: ”*Han bad inte mer än elva bönecykler[^1], varken under *ramadan[^3]* eller under någon annan månad*.” [*al-Bukhārī* 1147]
 

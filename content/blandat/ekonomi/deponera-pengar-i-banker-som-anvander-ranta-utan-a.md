@@ -20,7 +20,9 @@ description: 'Fråga: Vilket är det islamiska utlåtandet om de som arbetar i b
 
 Profeten – över honom vare Allāhs frid och välsignelser – har förbannat den som använder, ger, administrerar och bevittnar ränta. När han hade förklarat detta sade han: ”*De är likvärdiga [i synd]*.” [*Muslim* 1598] Detta har *Muslim* återgivit i sin *Sahīh*.
 
-Att placera pengar i banker och på detta sätt få ränta varje månad eller år är något som är förbudet enligt konsensus bland de lärde. När det gäller den som placerar sina pengar [på banken], utan att ta någon ränta, är det säkrare för denne att undvika det utom i fall där det är nödvändigt för denne att ha att göra med räntebanker. Det finns en rädsla för att den som gör detta kommer att anses vara en av dem som hjälper till med synd och överträdelse trots att denne inte avsåg att göra så. Därmed är det en skyldighet att vara uppmärksam på vad Allāh har förbjudit och att söka säkra metoder för att spara och spendera pengar.
+Att placera pengar i banker och på detta sätt få ränta varje månad eller år är något som är förbudet enligt konsensus bland de lärde. När det gäller den som placerar sina pengar [på banken], utan att ta någon ränta, är det säkrare för denne att undvika det utom i fall där det är nödvändigt för denne att ha att göra med räntebanker.
+
+Det finns en rädsla för att den som gör detta kommer att anses vara en av dem som hjälper till med synd och överträdelse trots att denne inte avsåg att göra så. Därmed är det en skyldighet att vara uppmärksam på vad Allāh har förbjudit och att söka säkra metoder för att spara och spendera pengar.
 
 Må Allāh göra det lätt för muslimer att upprätta islamiska banker som är fria från ränta. Sannerligen har Han kontroll över detta och Han är kapabel att göra det.
 

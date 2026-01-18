@@ -26,7 +26,9 @@ Dessa fem saker måste en kvinna tänka på när hennes man har avlidit.
 
 Beträffande vad gemene man kan tro eller innovera; som att hon inte får tala med någon, att hon inte får tala i telefon, att hon bara får tvätta sig en gång i veckan, att hon inte får gå barfota i köket, att hon inte får gå ut i månljus och andra liknande vidskepligheter – det finns ingen grund för detta.
 
-Faktum är att hon får gå både barfota och med skor i sitt hem, göra vad hon behöver i hemmet, tillreda mat till sig själv och gäster, gå ut i månljuset (på taket eller i trädgården), tvätta närhelst hon vill, tala med vem hon vill på ett sätt som inte väcker misstankar och skaka hand med kvinnor och hennes *mahram*[^2]. Men när det gäller dem som inte är hennes *mahram*[^2] får hon inte skaka hand med dem. Hon får ta av sin slöja om det inte finns några män som inte är *mahram[^2]* närvarande. Hon får dock inte använda henna, saffran eller parfym – varken på kläder eller i kaffet. Detta beror på att saffran är en form av parfym.
+Faktum är att hon får gå både barfota och med skor i sitt hem, göra vad hon behöver i hemmet, tillreda mat till sig själv och gäster, gå ut i månljuset (på taket eller i trädgården), tvätta närhelst hon vill, tala med vem hon vill på ett sätt som inte väcker misstankar och skaka hand med kvinnor och hennes *mahram*[^2]. Men när det gäller dem som inte är hennes *mahram*[^2] får hon inte skaka hand med dem. Hon får ta av sin slöja om det inte finns några män som inte är *mahram[^2]* närvarande.
+
+Hon får dock inte använda henna, saffran eller parfym – varken på kläder eller i kaffet. Detta beror på att saffran är en form av parfym.
 
 Det är heller inte tillåtet att någon friar till henne men det finns ingen invändan mot att antyda detta. Beträffande direkta frierier får man inte göra detta.
 

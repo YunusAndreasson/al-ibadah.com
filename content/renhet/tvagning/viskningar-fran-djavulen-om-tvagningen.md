@@ -16,9 +16,11 @@ description: 'Fråga: När jag tvagar mig känner jag ibland att den bryts. Dett
 
 **Svar:** Viskningarna kommer från djävulen; du måste avvisa dem, bortse från dem, göra klar din tvagning[^1] och be. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Man bör inte lämna bönen utom om man hör ett ljud eller känner en lukt*.” [*al-Bukhārī* 177 och *Muslim* 361]
 
-I *Sahīh Muslim* återges från Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om en av er fann något i sin mage och var osäker på om något kommit ut, då bör han inte lämna moskén utom om han hör ett ljud eller känner en lukt*.” [*Muslim* 362]
+I *Sahīh Muslim* återges från Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Om en av er fann något i sin mage och var osäker på om något kommit ut, då bör han inte lämna moskén utom om han hör ett ljud eller känner en lukt*." [*Muslim* 362]
 
-Med bland annat dessa båda *ahādīth[^2]* som grund bör varje troende [man som kvinna] veta att man inte bör lämna bönen eller tvagningen[^1] med anledning av viskningar från djävulen. I stället är det föreskrivet att strunta i dem förutom om man blir säker på att man inte har tvagat sig.
+Med bland annat dessa båda *ahādīth[^2]* som grund bör varje troende [man som kvinna] veta att man inte bör lämna bönen eller tvagningen[^1] med anledning av viskningar från djävulen.
+
+I stället är det föreskrivet att strunta i dem förutom om man blir säker på att man inte har tvagat sig.
 
 Och Allāh är Den som beviljar framgång.
 

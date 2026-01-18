@@ -28,7 +28,11 @@ Han säger: ” *Tag då emot något av dem som offergåva*…” och Han säger
 
 Med detta som grund: Finansiella plikter gäller fortfarande för den som har tappat minnet men de fysiska handlingarna som till exempel bönen, reningen, fastan är inte en skyldighet för denne eftersom denne inte är vid fullt förstånd.
 
-Den som har förlorat förståndet eftersom han förlorat medvetandet på grund av sjukdom eller liknande, denne är inte skyldig att be. Detta enligt den åsikt som majoriteten av de lärde har. Om en sjukling förlorar medvetandet under en dag eller två är denne inte skyldig att ta igen för det eftersom denne inte är vid medvetande. Det går inte att likna denne vid den sovande som profeten – över honom vare Allāhs frid och välsignelser – har talat om: ”*Den som sov över bönen eller glömde den måste be den när denne kommer ihåg den*.” Den som sover kan förstå saker och ting, vilket betyder att denne kan vakna från sömnen, men när det gäller den medvetslöse kan denne inte vakna även om någon försöker att väcka denne. Detta gäller om denne utan någon anledning förlorar medvetenheten. Men när det gäller de som inte är vid medvetande på grund av en anledning, likt den som inte är vid medvetande på grund av narkos eller liknande, denne måste ta igen bönerna som denne har missat under medvetslösheten.
+Den som har förlorat förståndet eftersom han förlorat medvetandet på grund av sjukdom eller liknande, denne är inte skyldig att be. Detta enligt den åsikt som majoriteten av de lärde har. Om en sjukling förlorar medvetandet under en dag eller två är denne inte skyldig att ta igen för det eftersom denne inte är vid medvetande.
+
+Det går inte att likna denne vid den sovande som profeten – över honom vare Allāhs frid och välsignelser – har talat om: "*Den som sov över bönen eller glömde den måste be den när denne kommer ihåg den*." Den som sover kan förstå saker och ting, vilket betyder att denne kan vakna från sömnen, men när det gäller den medvetslöse kan denne inte vakna även om någon försöker att väcka denne.
+
+Detta gäller om denne utan någon anledning förlorar medvetenheten. Men när det gäller de som inte är vid medvetande på grund av en anledning, likt den som inte är vid medvetande på grund av narkos eller liknande, denne måste ta igen bönerna som denne har missat under medvetslösheten.
 
 Och Allāh vet bättre.
 

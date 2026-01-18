@@ -16,7 +16,9 @@ description: 'Fråga: Vilken sorts shirk begick månggudadyrkarna som profetens 
 
 **Svar:** Den *shirk[^1]* månggudadyrkarna som profeten – över honom vare Allāhs frid och välsignelser – sändes till [begick] var inte *shirk[^1]* i *rububiyyah*. Den ädla Koranen bevisar ju att de endast begick *shirk[^1]* i dyrkan.
 
-När det gällde *rububiyyah* brukade de tro att enbart Allāh är Herren, att Han svarar åkallan[^2] från den förtryckte, att det är Han som hindrar ont och liknande ting som Allāh har nämnt att de bekräftade oinskränkbarheten i Allāhs herrskap. Men de satte upp medhjälpare i dyrkan när de dyrkade gudomer jämsides med Allāh, och detta är en sorts *shirk[^1]* som tar en person utanför islam. Detta beror på att *tawhīd[^3]* betyder, med anledning av vad som förstås från ordet, att man bekräftar enheten i något och Allāh den Välsignades, den Upphöjdes har rättigheter som enbart måste bekräftas för Honom. Rättigheterna kan delas in i tre kategorier:
+När det gällde *rububiyyah* brukade de tro att enbart Allāh är Herren, att Han svarar åkallan[^2] från den förtryckte, att det är Han som hindrar ont och liknande ting som Allāh har nämnt att de bekräftade oinskränkbarheten i Allāhs herrskap. Men de satte upp medhjälpare i dyrkan när de dyrkade gudomer jämsides med Allāh, och detta är en sorts *shirk[^1]* som tar en person utanför islam.
+
+Detta beror på att *tawhīd[^3]* betyder, med anledning av vad som förstås från ordet, att man bekräftar enheten i något och Allāh den Välsignades, den Upphöjdes har rättigheter som enbart måste bekräftas för Honom. Rättigheterna kan delas in i tre kategorier:
 
 1. Herraväldets rättigheter,
 2. dyrkans rättigheter och

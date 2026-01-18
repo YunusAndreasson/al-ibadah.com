@@ -28,7 +28,9 @@ Du måste ångra dig för vad du gjort och du måste ångra dig för att du ljug
 
 Din ånger måste dock uppfylla vissa villkor: Du måste hålla dig borta från synden. Du måste känna ånger över att ha begått denna synd. Du måste ta ett fast beslut om att aldrig återvända till synden, frukta Allāhs straff, söka Hans förlåtelse och glorifiera Hans allmakt.
 
-Om du har överträtt en annan människas rättigheter finns det ett fjärde villkor som du måste uppfylla. Du måste söka upprättelse för denna överträdelse genom att återgälda vad du felaktigt tagit eller genom att få förlåtelse från personen som du handlat felaktigt mot. Har du handlat felaktigt genom att baktala någon bakom hans rygg och om du är rädd för att något än värre ska inträffa om du berättar för honom om vad du sagt, då kan du undvika att informera honom. Du måste dock göra följande:
+Om du har överträtt en annan människas rättigheter finns det ett fjärde villkor som du måste uppfylla. Du måste söka upprättelse för denna överträdelse genom att återgälda vad du felaktigt tagit eller genom att få förlåtelse från personen som du handlat felaktigt mot.
+
+Har du handlat felaktigt genom att baktala någon bakom hans rygg och om du är rädd för att något än värre ska inträffa om du berättar för honom om vad du sagt, då kan du undvika att informera honom. Du måste dock göra följande:
 
 1. Be för den personen.
 2. Be Allāh den Allsmäktige att Han förlåter honom.

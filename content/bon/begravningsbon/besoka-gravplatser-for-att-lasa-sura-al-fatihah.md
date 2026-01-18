@@ -14,7 +14,11 @@ description: 'Fråga: Vilket är utlåtandet om att besöka gravplatser för att
 
 **Fråga:** Vilket är utlåtandet om att besöka gravplatser för att recitera al-Fātihah och vad finns det att säga om kvinnor som besöker gravplatser?
 
-**Svar:** Att besöka gravplatser är en *sunnah[^1]* som profeten – över honom vare Allāhs frid och välsignelser – har beordrat efter att tidigare ha förbjudit det, vilket har bekräftats i hans ord: ”*Jag har tidigare förbjudit er att besöka gravar, men nu får ni besöka dem för de kommer att påminna er om det Nästkommande*.” [*Muslim* 977] Att besöka gravar för att påminna [sig själv om det Nästkommande] och ta en varning är *sunnah[^1]*. När man besöker de avlidna i deras gravar, de som var tillsammans med en nyligen på denna jord, ätandes vad man själv äter, drickandes vad som dricks och njutandes av detta livet, har nu blivit beroende av deras handlingar. Om det var bra kommer hans situation att vara bra och om de var onda kommer den att vara ond. Man måste känna sig varnad, ens hjärta måste bli mjukt och man måste vända sig till Allāh den Allsmäktige för att avvisa olydnad av Honom till förmån för lydnad av Honom.
+**Svar:** Att besöka gravplatser är en *sunnah[^1]* som profeten – över honom vare Allāhs frid och välsignelser – har beordrat efter att tidigare ha förbjudit det, vilket har bekräftats i hans ord: "*Jag har tidigare förbjudit er att besöka gravar, men nu får ni besöka dem för de kommer att påminna er om det Nästkommande*." [*Muslim* 977]
+
+Att besöka gravar för att påminna [sig själv om det Nästkommande] och ta en varning är *sunnah[^1]*. När man besöker de avlidna i deras gravar, de som var tillsammans med en nyligen på denna jord, ätandes vad man själv äter, drickandes vad som dricks och njutandes av detta livet, har nu blivit beroende av deras handlingar. Om det var bra kommer hans situation att vara bra och om de var onda kommer den att vara ond.
+
+Man måste känna sig varnad, ens hjärta måste bli mjukt och man måste vända sig till Allāh den Allsmäktige för att avvisa olydnad av Honom till förmån för lydnad av Honom.
 
 Det är önskvärt för den som besöker gravplatser att åkalla med de ord som profeten – över honom vare Allāhs frid och välsignelser – använde och lärde sitt folk:
 

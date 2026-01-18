@@ -14,7 +14,9 @@ description: 'Fråga: Vad finns det att säga om drömtydning och horoskop? Svar
 
 **Fråga:** Vad finns det att säga om drömtydning och horoskop?
 
-**Svar:** Astrologi, horoskop, vidskepelse och att spå in i framtiden tillhör tiden före islam. Islam kom för att visa att detta är falskt och för att förklara att det är *shirk[^1]*. Anledningen är att detta medför beroende av annat än Allāh, tro på att medgång och motgång kommer ifrån något annat än Honom och tro på vad spåmän och siare säger [som felaktigt påstår sig känna till det som är dolt för människor[^2] för att lura folk på deras pengar och vanställa deras trosprinciper].
+**Svar:** Astrologi, horoskop, vidskepelse och att spå in i framtiden tillhör tiden före islam. Islam kom för att visa att detta är falskt och för att förklara att det är *shirk[^1]*.
+
+Anledningen är att detta medför beroende av annat än Allāh, tro på att medgång och motgång kommer ifrån något annat än Honom och tro på vad spåmän och siare säger [som felaktigt påstår sig känna till det som är dolt för människor[^2] för att lura folk på deras pengar och vanställa deras trosprinciper].
 
 Beviset för detta är en *hadīth[^3]* återgiven i Abū Dawūds *Sunan* med en berättarkedja som är *sahīh* från Ibn 'Abbās, i vilken han säger att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som lär sig astrologi har lärt sig en gren av häxkraft [al-sihr]…*” Och al-Bazzār har med en berättarkedja som är *jayyid* berättat ifrån 'Imrān ibn Husayn att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
 
