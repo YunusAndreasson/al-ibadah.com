@@ -83,8 +83,10 @@ function TermsPage() {
             if (!terms || terms.length === 0) return null
 
             return (
-              <section key={categoryKey} className="mb-6">
-                <h3 className="section-label">{categoryNames[categoryKey] || categoryKey}</h3>
+              <section key={categoryKey} className="mb-8">
+                <h2 className="text-lg font-semibold font-sans mb-4 pb-2 border-b border-border">
+                  {categoryNames[categoryKey] || categoryKey}
+                </h2>
                 <dl className="space-y-3">
                   {terms.map((term) => (
                     <div key={term.canonical} className="grid grid-cols-[1fr_2fr] gap-4">
