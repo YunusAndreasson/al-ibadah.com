@@ -1,6 +1,5 @@
 ---
-title: Tror att profeten är ett ljus från Allāh och att han har kunskap om det som
- för människor är dolt
+title: Tro att profeten har kunskap om det dolda
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 111 s. ISBN 9960-892-66-2 Muhammed Knut Bernström

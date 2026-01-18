@@ -20,5 +20,5 @@ Känner du inte honom och därmed har förlorat hoppet om att återfinna honom k
 
 Du bör be Allāh den Allsmäktige om förlåtelse, ångra dig inför Honom och be för personen som du handlat felaktigt mot.
 
-[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramadan* 1428).
+[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 ramadan 1428).
 

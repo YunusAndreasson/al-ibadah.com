@@ -19,7 +19,7 @@ description: 'Fråga: Vilket är utlåtandet om en resenärs fasta i vetskap om 
 
 Följeslagarna gav sig av på en resa i sällskap med profeten. Vissa fastade medan andra inte gjorde det, och inga av dem tillrättavisade de andra.
 
-Profeten – över honom vare Allāhs frid och välsignelser – brukade fasta när han reste. Abū Darda' sade: ”*Vi har tillsammans med Allāhs sändebud under en resa i *ramadan[^1]*. Det var extremt varmt. Ingen av oss fastade utom Allāhs sändebud och ´Abdullāh bin Rawahah*.” [*al-Bukhārī* 1945 och *Muslim* 1122]
+Profeten – över honom vare Allāhs frid och välsignelser – brukade fasta när han reste. Abu Darda' sade: "*Vi reste tillsammans med Allāhs sändebud under en resa i *ramadan*[^1]. Det var extremt varmt. Ingen av oss fastade utom Allāhs sändebud och Abdullah bin Rawahah*." [*al-Bukhārī* 1945 och *Muslim* 1122]
 
 Utlåtandet om resenären är att denne får välja mellan att fasta och att bryta fastan. Är fastan inte svår för denna är det bättre att fasta. I detta finns det tre fördelar:
 
@@ -27,7 +27,7 @@ Utlåtandet om resenären är att denne får välja mellan att fasta och att bry
 2. lättnad, därför när någon fastar tillsammans med andra blir det lättare, och
 3. ett direkt uppfyllande av ens skyldigheter.
 
-Är det svårt för den resande att fasta bör denne inte fasta. Det är inte rättfärdigt att fasta under dessa omständigheter när man reser. Allāhs sändebud såg en man skuggas medan folket samlades runt omkring honom. Han sade: ”Vad är detta?” De sade: ”Han fastade.” Han [Profeten] sade: ”Det är inte rättfärdigt att fasta medan [man] reser.” [*al-Bukhārī* 1946 och *Muslim* 1115]
+Är det svårt för den resande att fasta bör denne inte fasta. Det är inte rättfärdigt att fasta under dessa omständigheter när man reser. Allāhs sändebud såg en man skuggas medan folket samlades runt omkring honom. Han sade: "*Vad är detta?*" De sade: "*Han fastade.*" Han [Profeten] sade: "*Det är inte rättfärdigt att fasta medan [man] reser.*" [*al-Bukhārī* 1946 och *Muslim* 1115]
 
 Detta generella utlåtande gäller för vem som helst i en situation likt den med mannen som fann det svårt att fasta.
 

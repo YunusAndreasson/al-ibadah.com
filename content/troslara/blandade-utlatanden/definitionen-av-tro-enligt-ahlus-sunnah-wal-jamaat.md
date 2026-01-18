@@ -1,6 +1,5 @@
 ---
-title: Definitionen av tro enligt ahlus-sunnah wal-jamā’at och om den minskar och
- ökar
+title: Trons definition - ökar och minskar den?
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 47 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
@@ -14,9 +13,9 @@ description: 'Fråga: Hur definierar ahlus-sunnah wal-jamā’at tron? Ökar och
  tungans yttrande och kroppens handla...'
 ---
 
-**Fråga:** Hur definierar *ahlus-sunnah[^1] wal-jamā’at* tron? Ökar och minskar denna tro?
+**Fråga:** Hur definierar *ahlus-sunnah*[^1] wal-jamā’at* tron? Ökar och minskar denna tro?
 
-**Svar:** Tro är enligt *ahlus-sunnah[^1] wal-jamā’at* att bekräfta med hjärtat, tungans yttrande och kroppens handlande. Den består därmed av tre delar:
+**Svar:** Tro är enligt *ahlus-sunnah*[^1] wal-jamā’at* att bekräfta med hjärtat, tungans yttrande och kroppens handlande. Den består därmed av tre delar:
 
 1. Hjärtats bekräftande,
 2. det talade ordet och
@@ -30,7 +29,7 @@ Tron ökar därmed genom hjärtats bekräftelse, dess lugn och dess stillhet. De
 
 På liknande sätt ökar tron genom tal. Den som nämner Allāhs namn tio gånger är inte likvärdig med den som nämner Hans namn hundra gånger. Den sistnämnda är ju mycket bättre. Och likaså den som dyrkar på ett perfekt sätt, dennes tro är större än någon som utför den på ett bristfälligt sätt.
 
-Samma gäller handlingar. När en person utför en kroppslig handling i större utsträckning än någon annan, då ökar dennes tro mer än för den som är otillräcklig. Detta har nämnts i Koranen och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*. Det jag avser är bekräftelsen av att tron ökar och minskar. Allāh den Upphöjde säger:
+Samma gäller handlingar. När en person utför en kroppslig handling i större utsträckning än någon annan, då ökar dennes tro mer än för den som är otillräcklig. Detta har nämnts i Koranen och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^1]. Det jag avser är bekräftelsen av att tron ökar och minskar. Allāh den Upphöjde säger:
 
 > ”Till Eldens väktare har Vi inte utsett andra än änglarna, och Vi har enbart angett deras antal för att sätta dem som framhärdar i att förneka sanningen på prov, och att de som [i gångna tider] fick del av uppenbarelsen ska få visshet [om sanningen i denna Skrift].” [Koranen 74:31]
 >
@@ -39,7 +38,7 @@ Samma gäller handlingar. När en person utför en kroppslig handling i större 
 >
 > ”När en sura uppenbarades säger några av dessa [hycklare]; ’Vem av er har känt sin tro stärkas genom detta?’ De troende däremot känner sin tro växa och därför gläds de över [varje ny uppenbarelse]. Men de vars hjärtan är sjuka av tvivel drivs av den [nya uppenbarelsen] allt djupare ned i sin smutsiga synd, och de dör som förnekare.” [Koranen 9:124 – 125]
 
-I en autentisk *hadīth[^2]* från profeten – över honom vare Allāhs frid och välsignelser – har det rapporterats att han sade:
+I en autentisk *hadīth*[^2] från profeten – över honom vare Allāhs frid och välsignelser – har det rapporterats att han sade:
 
 > ”Jag har inte sett någon mer bristfällig i intelligens och religion; en aktsam [och] förnuftig man kan ledas vilse genom någon av er.” [*al-Bukhārī* 304]
 

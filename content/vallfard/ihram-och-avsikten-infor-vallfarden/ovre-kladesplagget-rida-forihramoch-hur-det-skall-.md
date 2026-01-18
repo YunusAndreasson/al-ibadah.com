@@ -12,13 +12,13 @@ description: 'Fråga: Är det bättre för en muhrim att täcka de båda axlarna
  att han placerar rida’ över båda ha...'
 ---
 
-**Fråga:** Är det bättre för en *muhrim[^1]* att täcka de båda axlarna eller bör han avtäcka en av dem under *ihrām[^2]*?
+**Fråga:** Är det bättre för en *muhrim*[^1] att täcka de båda axlarna eller bör han avtäcka en av dem under *ihrām*[^2]?
 
-**Svar:** Det som är *sunnah[^3]* för en *muhrim[^1]* är att han placerar *rida'[^4]* över båda sina axlar och dess slut vid bröstet. Detta är *sunnah[^3]* och det är vad profeten – över honom vare Allāhs frid och välsignelser – gjorde. Om denne vill utföra *tawāful-qudum*[^5] då gör denne *al-idhtiba'*. Detta sker genom att han placerar mitten av sin *rida'[^4]* under sin högra armhåla och dess hörn över den vänstra axeln. På detta sätt avtäcker han sin högra axel. Detta gäller enbart *tawāf[^6]* då man anländer, alltså när man kommer till Mecka för vallfärden eller *´umrah*[^7] första gången.
+**Svar:** Det som är *sunnah*[^3] för en *muhrim*[^1] är att han placerar *rida'*[^4] över båda sina axlar och dess slut vid bröstet. Detta är *sunnah*[^3] och det är vad profeten – över honom vare Allāhs frid och välsignelser – gjorde. Om denne vill utföra *tawāful-qudum*[^5] då gör denne *al-idhtiba'*. Detta sker genom att han placerar mitten av sin *rida'*[^4] under sin högra armhåla och dess hörn över den vänstra axeln. På detta sätt avtäcker han sin högra axel. Detta gäller enbart *tawāf*[^6] då man anländer, alltså när man kommer till Mecka för vallfärden eller *´umrah*[^7] första gången.
 
-När han sedan avslutar *tawāf[^6]* justerar han sin *rida’[^4]* och placerar den över båda axlarna och ber två bönecykler[^8] för *tawāf[^6]*. Den som ständigt håller en axel avtäckt motsäger sig profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]* och det är som att låta båda axlarna vara avtäckta. Det som är *sunnah[^3]* är att endast täcka båda med *rida’[^4]* under *ihrām[^2]*.
+När han sedan avslutar *tawāf*[^6] justerar han sin *rida’*[^4] och placerar den över båda axlarna och ber två bönecykler[^8] för *tawāf*[^6]. Den som ständigt håller en axel avtäckt motsäger sig profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^3] och det är som att låta båda axlarna vara avtäckta. Det som är *sunnah*[^3] är att endast täcka båda med *rida’*[^4] under *ihrām*[^2].
 
-Om någon tar av *rida’[^4]* och inte täcker sina axlar medan denne sitter och äter eller samtalar med sina bröder, då är det inget fel med det. Men det som är *sunnah[^3]* är att bära sin *rida’[^4]* över båda axlarna och att dess slut bör vara vid bröstet.
+Om någon tar av *rida’*[^4] och inte täcker sina axlar medan denne sitter och äter eller samtalar med sina bröder, då är det inget fel med det. Men det som är *sunnah*[^3] är att bära sin *rida’*[^4] över båda axlarna och att dess slut bör vara vid bröstet.
 
 [^1]: Någon som har trätt in i *ihrām*.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

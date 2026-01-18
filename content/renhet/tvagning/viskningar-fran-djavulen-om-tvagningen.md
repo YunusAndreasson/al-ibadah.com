@@ -18,7 +18,7 @@ description: 'Fråga: När jag tvagar mig känner jag ibland att den bryts. Dett
 
 I *Sahīh Muslim* återges från Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Om en av er fann något i sin mage och var osäker på om något kommit ut, då bör han inte lämna moskén utom om han hör ett ljud eller känner en lukt*." [*Muslim* 362]
 
-Med bland annat dessa båda *ahādīth[^2]* som grund bör varje troende [man som kvinna] veta att man inte bör lämna bönen eller tvagningen[^1] med anledning av viskningar från djävulen.
+Med bland annat dessa båda *ahādīth*[^2] som grund bör varje troende [man som kvinna] veta att man inte bör lämna bönen eller tvagningen[^1] med anledning av viskningar från djävulen.
 
 I stället är det föreskrivet att strunta i dem förutom om man blir säker på att man inte har tvagat sig.
 

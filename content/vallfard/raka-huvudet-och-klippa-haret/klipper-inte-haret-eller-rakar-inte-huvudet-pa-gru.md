@@ -1,5 +1,5 @@
 ---
-title: Klipper inte håret eller rakar inte huvudet på grund av okunskap
+title: Okunskap om hårklippning eller rakning
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 208 s. ISBN saknas'

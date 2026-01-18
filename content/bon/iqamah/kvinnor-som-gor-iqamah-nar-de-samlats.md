@@ -12,9 +12,9 @@ description: 'Fråga: Finns det någon iqāmah för kvinnor när de samlas för 
  syndat. Anledningen är att böneutr...'
 ---
 
-**Fråga:** Finns det någon *iqāmah[^1]* för kvinnor när de samlas för bön?
+**Fråga:** Finns det någon *iqāmah*[^1] för kvinnor när de samlas för bön?
 
-**Svar:** Om de gör *iqāmah[^1]* finns det ingen invändan mot det och om de lämnar den har de inte syndat. Anledningen är att böneutropet och *iqāmah[^1]* endast är skyldigheter för män.
+**Svar:** Om de gör *iqāmah*[^1] finns det ingen invändan mot det och om de lämnar den har de inte syndat. Anledningen är att böneutropet och *iqāmah*[^1] endast är skyldigheter för män.
 
 [^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 

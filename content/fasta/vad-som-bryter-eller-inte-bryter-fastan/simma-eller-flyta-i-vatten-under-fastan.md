@@ -1,5 +1,5 @@
 ---
-title: Simma eller flyta i vatten under fastan
+title: Simma eller flyta i vatten
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa Ramadan – Volym 2, sida 525, fatwa 491
 categories:

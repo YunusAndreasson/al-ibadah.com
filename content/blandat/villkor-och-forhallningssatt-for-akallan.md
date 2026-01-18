@@ -27,7 +27,7 @@ Man måste även säkerställa att ens mat och kläder är tillåtna då det oti
 
 > ”Sannerligen, Allāh är god och Han accepterar inte något annat än det som är gott.” [*Muslim* 1015]
 
-De tider då man bör vara optimistisk över att ens åkallan[^1] besvaras är under den sista tredjedelen av natten och under tiden mellan böneutropet och *iqāmah[^2]*.
+De tider då man bör vara optimistisk över att ens åkallan[^1] besvaras är under den sista tredjedelen av natten och under tiden mellan böneutropet och *iqāmah*[^2].
 
 Beträffande olika situationer och kroppshållningar är det mer sannolikt att få sin åkallan[^1] besvarad då man nedfaller[^3] då Allāhs sändebud har sagt:
 

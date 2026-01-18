@@ -13,7 +13,7 @@ description: 'Fråga: Är Jesus, Marias son, vid liv? Var befinner han sig om ha
  frid och välsignelser – sunnah? Svar: ...'
 ---
 
-**Fråga:** Är Jesus, Marias son, vid liv? Var befinner han sig om han är vid liv? Vilka bevis finns i Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*?
+**Fråga:** Är Jesus, Marias son, vid liv? Var befinner han sig om han är vid liv? Vilka bevis finns i Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^1]?
 
 **Svar:** Jesus, Marias son, är vid liv. Judarna varken dödade eller korsfäste honom, men de trodde att de gjorde det. Faktum är att Allāh lyfte upp både hans kropp och själ till himlen. Där befinner han sig i dag. Bevisen för detta är Allāhs den Upphöjdes ord när han besvarar judarnas lögner:
 

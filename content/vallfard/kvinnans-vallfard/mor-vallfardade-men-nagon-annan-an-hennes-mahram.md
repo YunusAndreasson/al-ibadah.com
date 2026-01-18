@@ -1,5 +1,5 @@
 ---
-title: Mor vallfärdade men någon annan än hennes mahram
+title: Mor vallfärdade med annan än sin mahram
 author: Dr. Sālih Ibn Fowzan Ibn ´Abdullah Ibn Fowzān
 source: al-Muntaqā min Fatāwa Ibn Fowzān – volym 3, sida168, fatwa 253
 categories:
@@ -11,9 +11,9 @@ description: 'Fråga: Min mor utförde vallfärden då hon var över 60 år gamm
  den på nytt för hennes räkning, då hon nu har döt...'
 ---
 
-**Fråga:** Min mor utförde vallfärden då hon var över 60 år gammal med någon annan än sin *mahram[^1]*. Är hennes vallfärd korrekt eller bör jag utföra den på nytt för hennes räkning, då hon nu har dött? Må Allāh vara henne nådig.
+**Fråga:** Min mor utförde vallfärden då hon var över 60 år gammal med någon annan än sin *mahram*[^1]. Är hennes vallfärd korrekt eller bör jag utföra den på nytt för hennes räkning, då hon nu har dött? Må Allāh vara henne nådig.
 
-**Svar:** Om en kvinna vallfärdade med någon annan än sin *mahram[^1]*, visade hon olydnad mot sin Herre och hon har syndat genom att göra så. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – förbjöd kvinnor att resa utan *mahram[^1]* till vallfärden eller andra platser. När det gäller din moders vallfärd, då är den korrekt, om Allāh vill. Men, den är [utförd] med synd och vi hoppas att Allāh kommer att förlåta henne för detta.
+**Svar:** Om en kvinna vallfärdade med någon annan än sin *mahram*[^1], visade hon olydnad mot sin Herre och hon har syndat genom att göra så. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – förbjöd kvinnor att resa utan *mahram*[^1] till vallfärden eller andra platser. När det gäller din moders vallfärd, då är den korrekt, om Allāh vill. Men, den är [utförd] med synd och vi hoppas att Allāh kommer att förlåta henne för detta.
 
 [^1]: Släkting som det inte är tillåtet att gifta sig med.
 

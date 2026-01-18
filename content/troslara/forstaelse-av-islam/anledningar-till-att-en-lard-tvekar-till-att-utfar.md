@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 372 s. ISBN saknas'
 categories:
   - Troslära (´Aqīdah)
-  - Islamförståelse
+  - Förståelse av islam
 original_id: 153
 description: 'Fråga: Vilka anledningar kan det finnas till att en lärd tvekar över
  att utfärda ett utlåtande? En lärd kan tveka över att utfärda ett utlåtande, [även]

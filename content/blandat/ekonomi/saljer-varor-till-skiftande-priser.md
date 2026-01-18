@@ -15,7 +15,7 @@ description: 'Fråga: Får köpmän sälja samma produkt till olika pris? Någon
 
 **Svar:** Om denna variation i pris beror på ostadigheter på marknaden eller på att priset på produkten går upp en dag för att gå ned nästa, då är det inte fel att sälja den till marknadspris. Beror variationen i pris på försäljarens förmåga att förhandla om pris – vilket innebär att denne höjer priset om köparen inte är en duktig förhandlare och sänker priset om köparen har kunskap om varan – är detta inte tillåtet.
 
-Det är en sorts bedrägeri och falskhet. Tamīm al-Dāri berättar i en *hadīth[^1]* att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "Religionen är uppriktighet." Det sades: "Till vem, Allāhs sändebud?" Han svarade: "Mot Allāh, mot Hans skrift, mot Hans sändebud, mot muslimernas ledare och mot gemene man." [*Muslim* 55]
+Det är en sorts bedrägeri och falskhet. Tamīm al-Dāri berättar i en *hadīth*[^1] att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "Religionen är uppriktighet." Det sades: "Till vem, Allāhs sändebud?" Han svarade: "Mot Allāh, mot Hans skrift, mot Hans sändebud, mot muslimernas ledare och mot gemene man." [*Muslim* 55]
 
 Denne skulle inte önska att någon gjorde så mot honom, så varför gör han det då mot de muslimska bröderna? Man bör sälja enligt det pris som är normalt vid den plats som man gör affärer vid. Man ska inte ge ett pris till en kund och sedan ge ett annat pris till nästa kund för att de är godtrogna.
 

@@ -352,6 +352,8 @@ async function walkDirectory(dir: string): Promise<string[]> {
   for (const entry of entries) {
     const fullPath = path.join(dir, entry.name)
     if (entry.isDirectory()) {
+      // Skip granskning directory (administrative tracking files)
+      if (entry.name === 'granskning') continue
       files.push(...(await walkDirectory(fullPath)))
     } else if (entry.isFile() && entry.name.endsWith('.md')) {
       files.push(fullPath)

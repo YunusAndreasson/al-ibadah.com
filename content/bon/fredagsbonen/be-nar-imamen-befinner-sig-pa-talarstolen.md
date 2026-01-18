@@ -14,7 +14,7 @@ description: 'Fråga: Om jag gick in i moskén en fredag när imamen predikade, 
 
 **Fråga:** Om jag gick in i moskén en fredag när imamen predikade, kan jag då be två bönecykler[^1]?
 
-**Svar:** Det är *sunnah[^2]* och mycket rekommenderat att den som går in i moskén inte sätter sig ned förrän han har bett två bönecykler[^1] som hälsningsbön till moskén[^3]. Detta gäller även om imamen predikar.
+**Svar:** Det är *sunnah*[^2] och mycket rekommenderat att den som går in i moskén inte sätter sig ned förrän han har bett två bönecykler[^1] som hälsningsbön till moskén[^3]. Detta gäller även om imamen predikar.
 
 [^1]: Rakah.
 [^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.

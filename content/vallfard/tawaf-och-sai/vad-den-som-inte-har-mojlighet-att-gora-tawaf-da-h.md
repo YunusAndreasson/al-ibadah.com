@@ -12,13 +12,13 @@ description: 'Fråga: Den som inte kan utföra tawāful-qudum då han inte hann 
  han bege sig direkt till Arafat utan att passera...'
 ---
 
-**Fråga:** Den som inte kan utföra *tawāful-qudum*[^1] då han inte hann nå Mecka innan eftermiddagsbönen[^3] under *Arafat[^4]*-dagen [den nionde *dhul-hijjah[^5]*], bör han bege sig direkt till *Arafat[^4]* utan att passera förbi helgedomen eller vad måste han göra?
+**Fråga:** Den som inte kan utföra *tawāful-qudum*[^1] då han inte hann nå Mecka innan eftermiddagsbönen[^3] under *Arafat*[^4]-dagen [den nionde *dhul-hijjah*[^5]], bör han bege sig direkt till *Arafat*[^4] utan att passera förbi helgedomen eller vad måste han göra?
 
-**Svar:** Han har ett val. Om han vill får han gå in i Mecka och utföra *tawāf[^2]* samt *sa'ī[^6]*, stanna kvar i sin *ihrām[^7]*, bege sig till *Arafat[^4]* och stå där så länge Allāh vill, även om det är nattetid. Sedan får han bege sig till *Muzdalifah[^8]* för att spendera natten där.
+**Svar:** Han har ett val. Om han vill får han gå in i Mecka och utföra *tawāf*[^2] samt *sa'ī*[^6], stanna kvar i sin *ihrām*[^7], bege sig till *Arafat*[^4] och stå där så länge Allāh vill, även om det är nattetid. Sedan får han bege sig till *Muzdalifah*[^8] för att spendera natten där.
 
-Om han vill får han bege sig direkt till *Arafat[^4]* och stå där till solnedgången för att sedan bege sig till *Muzdalifah[^8]* tillsammans med folket, be kvällsbönen[^9] och nattbönen[^10] där och därpå spendera natten där. Sedan får han därefter utföra *tawāf[^2]* och *sa'ī[^6]* under eller efter offerdagen [den tionde *dhul-hijjah[^5]*].
+Om han vill får han bege sig direkt till *Arafat*[^4] och stå där till solnedgången för att sedan bege sig till *Muzdalifah*[^8] tillsammans med folket, be kvällsbönen[^9] och nattbönen[^10] där och därpå spendera natten där. Sedan får han därefter utföra *tawāf*[^2] och *sa'ī*[^6] under eller efter offerdagen [den tionde *dhul-hijjah*[^5]].
 
-Han har inte syndat på grund av detta, ej heller behöver han slakta ett djur om han har trätt in i *ihrām[^7]* enbart för vallfärden. Men om han har trätt in i *ihrām[^7]* för vallfärden och *'umrah[^11]* tillsammans, då måste han offra ett djur för *hajjul-tamattu[^12]'*. Detta är en sjundedel av en kamel, en sjundedel av en ko eller ett två år gammalt får. Han slaktar det i *Mina* eller i Mecka, han äter av det och ger bort en del i välgörenhet.
+Han har inte syndat på grund av detta, ej heller behöver han slakta ett djur om han har trätt in i *ihrām*[^7] enbart för vallfärden. Men om han har trätt in i *ihrām*[^7] för vallfärden och *'umrah*[^11] tillsammans, då måste han offra ett djur för *hajjul-tamattu[^12]'*. Detta är en sjundedel av en kamel, en sjundedel av en ko eller ett två år gammalt får. Han slaktar det i *Mina* eller i Mecka, han äter av det och ger bort en del i välgörenhet.
 
 Anledningen är att Allāh har sagt:
 

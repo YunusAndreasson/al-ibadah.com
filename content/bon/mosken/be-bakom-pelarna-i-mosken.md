@@ -14,7 +14,7 @@ description: 'Fråga: Är det tillåtet att bryta församlingens rader med mosk�
 
 **Fråga:** Är det tillåtet att bryta församlingens rader med moskéns pelare?
 
-**Svar:** Det råder ingen tvekan om att det är fördelaktigt att raderna är stramt formade och att Allāhs tjänare står jämte varandra och inte åtskiljda. Detta är *sunnah[^1]*.
+**Svar:** Det råder ingen tvekan om att det är fördelaktigt att raderna är stramt formade och att Allāhs tjänare står jämte varandra och inte åtskiljda. Detta är *sunnah*[^1].
 
 Profeten – över honom vare Allāhs frid och välsignelser – beordrade dem att formera sig stramt och täcka luckor. Följeslagarna brukade även undvika raderna mellan pelarna. Detta hade ju lett till att raderna hade skiljts från varandra. Men om det som i frågan finns ett behov av detta eftersom moskén är full med folk, då finns det i en sådan situation ingen invändan mot detta. Anledningen är de ovanliga omständigheterna som täcks av speciella regler. Likaså finns det speciella regler vid nödvändighet och behov.
 

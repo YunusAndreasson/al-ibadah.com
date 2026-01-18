@@ -26,7 +26,7 @@ Det andra sättet att göra tvagningen[^1] på är det som är att föredra. Vi 
 
 > ”*Ashhadu anla ilaha illallahu wahdahu la sharīka lahu, wa ashhadu anna Muḥammadan 'abduhu wa rasuluhu. Allāhu-maj'alnī minat-tawwabīna waj'alnī minal-mutahahhirīn*.”
 
-Gör man det kommer Paradisets åtta portar att öppnas och man får träda in genom vilken man vill. Den *hadīth[^3]* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger detta till ´Umar har styrkts. [*Muslim* 234]
+Gör man det kommer Paradisets åtta portar att öppnas och man får träda in genom vilken man vill. Den *hadīth*[^3] i vilken profeten – över honom vare Allāhs frid och välsignelser – säger detta till ´Umar har styrkts. [*Muslim* 234]
 
 [^1]: Wudū
 [^2]: I Guds namn.

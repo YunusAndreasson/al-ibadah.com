@@ -20,7 +20,7 @@ Dessa handlingar är heller inte enligt *tawhids* krav eller ett uppriktigt pris
 
 Somliga okunniga muslimer tar dessa handlingar från de icke-troende och efterliknar deras felaktiga vanor. De går då över gränsen när det kommer till att vörda statsöverhuvuden och andra prominenta personer, döda som levande. Profeten – över honom vare Allāhs frid och välsignelser – förbjöd ett efterliknande av de icke-troende.
 
-Det är välkänt att islam erkänner muslimers rättigheter när det gäller åkallan[^1] till fördel för de avlidna, välgörenhet för deras räkning, ihågkomst av deras goda handlingar, undvikande av att nämna deras brister och flera andra seder. Detta är rättigheter som de som lever är skyldiga deras avlidna bröder.
+Det är välkänt att islam erkänner muslimers rättigheter när det gäller *åkallan*[^1] till fördel för de avlidna, välgörenhet för deras räkning, ihågkomst av deras goda handlingar, undvikande av att nämna deras brister och flera andra seder. Detta är rättigheter som de som lever är skyldiga deras avlidna bröder.
 
 Att stå i tystnad och salutera martyrer eller högt uppsatta personer motsäger sig islams grundläggande läror.
 

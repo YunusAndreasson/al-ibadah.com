@@ -19,7 +19,7 @@ description: 'Fråga: Somliga säger: Även om du inte sökte hjälp från Allā
 
 Ofta kan någon tänkas be om något utan att få det, för att sedan be igen och igen utan att få det. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Ni* *kommer att få er åkallan[^1] besvarad så länge ni inte är otåliga och säger: 'Jag åkallade men jag besvarades inte*.'” [*al-Bukhārī* 2735] Här blir denne bedrövad och överger åkallan[^1], må Allāh skydda oss från det, trots att denne inte åkallar[^1] Allāh med ett enda ord utan att han belönas för det. Detta beror på att åkallan[^1] är en sorts dyrkan och den som gör det får under alla omständigheter något nyttig från det.
 
-I en *hadīth[^2]* från profeten – över honom vare Allāhs frid och välsignelser – har det återberättats att när någon åkallar[^1] Allāh kommer ett av tre ting att hända denne: Åkallan blir besvarad, något värre ont avvärjs eller sparas den till Återuppståndelsens dag. [*at-Tirmithi* 3573]
+I en *hadīth*[^2] från profeten – över honom vare Allāhs frid och välsignelser – har det återberättats att när någon åkallar[^1] Allāh kommer ett av tre ting att hända denne: Åkallan blir besvarad, något värre ont avvärjs eller sparas den till Återuppståndelsens dag. [*at-Tirmithi* 3573]
 
 Jag råder brodern som har sagt detta att vända sig till Allāh den Allsmäktige i ånger. Detta är en allvarlig synd som motsäger sig Allāhs den Upphöjdes kommendering att åkalla Honom. Det är även en överträdelse av de gränser som Allāh har satt.
 

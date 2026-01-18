@@ -14,9 +14,9 @@ description: 'Fråga: Finns det något fördelaktigt med att recitera sura al-Ka
 
 **Fråga:** Finns det något fördelaktigt med att recitera sura al-Kahf under fredagar? Stämmer det att den timme då åkallan[^1] besvaras under fredagar är mellan det första och det andra böneutropet?
 
-**Svar:** En *hadīth[^2]* har återberättats om förtjänsten med att recitera sura al-Kahf under fredagar. Ibn Kathīr nämner den i början av sin *tafsīr[^3]*. Det finns dock några svagheter i den. Många av de lärde inom *fiqh[^4]* har nämnt den i deras böcker och rekommenderat recitation av den.
+**Svar:** En *hadīth*[^2] har återberättats om förtjänsten med att recitera sura al-Kahf under fredagar. Ibn Kathīr nämner den i början av sin *tafsīr*[^3]. Det finns dock några svagheter i den. Många av de lärde inom *fiqh*[^4] har nämnt den i deras böcker och rekommenderat recitation av den.
 
-Beträffande när åkallan[^1] besvaras under fredagar så rapporteras det i en *hadīth[^2]* att det är den sista timmen efter eftermiddagsbönen[^5]. Det har även rapporterats att det är timmen efter fredagsbönen [från när imamen sitter på talarstolen till slutet av bönen]. Det finns många andra uttalanden om detta. Det bästa är att försöka åkalla under hela dagen i hopp om att ”fånga” denna timme.
+Beträffande när åkallan[^1] besvaras under fredagar så rapporteras det i en *hadīth*[^2] att det är den sista timmen efter eftermiddagsbönen[^5]. Det har även rapporterats att det är timmen efter fredagsbönen [från när imamen sitter på talarstolen till slutet av bönen]. Det finns många andra uttalanden om detta. Det bästa är att försöka åkalla under hela dagen i hopp om att ”fånga” denna timme.
 
 [^1]: Du´ā
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

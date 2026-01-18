@@ -13,7 +13,7 @@ description: 'Fråga: Jag är en ung man som är 19 år gammal och jag har synda
  många avskyvärda handlingar. Trots att j...'
 ---
 
-**Fråga:** Jag är en ung man som är 19 år gammal och jag har syndat mycket mycket. Jag ber sällan i moskén, jag har aldrig fastat en hel *ramadan[^1]* och jag begår många avskyvärda handlingar. Trots att jag ofta tagit beslutet att ångra mig återvänder jag alltid till att synda.
+**Fråga:** Jag är en ung man som är 19 år gammal och jag har syndat mycket mycket. Jag ber sällan i moskén, jag har aldrig fastat en hel *ramadan*[^1] och jag begår många avskyvärda handlingar. Trots att jag ofta tagit beslutet att ångra mig återvänder jag alltid till att synda.
 
 Jag har två grupper av vänner och ingen av dem är praktiserande muslimer. Dessa är mina grannar och min broders vänner som kommer och hälsar på. Vänligen, visa mig hur jag ska komma närmare Allāh den Allsmäktige och längre från att synda.
 

@@ -1,5 +1,5 @@
 ---
-title: Bön efter nattbönen [isha] anses vara nattbön [qiyamul-layl]
+title: Bön efter nattbönen anses vara nattbön
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 321 s. ISBN saknas'

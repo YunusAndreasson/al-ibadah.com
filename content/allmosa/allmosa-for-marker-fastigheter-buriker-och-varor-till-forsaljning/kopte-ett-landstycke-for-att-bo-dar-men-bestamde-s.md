@@ -14,5 +14,7 @@ description: 'Fråga: Någon köpte ett stycke land och avsåg att bo på det. M
 
 **Fråga:** Någon köpte ett stycke land och avsåg att bo på det. Men när tre år hade gått avsåg denne [i stället] att använda det för handel. Krävs då allmosa för de gångna åren?
 
-**Svar:** Det krävs ingen allmosa för det. Under de år som har gått avsåg denne enbart att bo därpå. Men från den tidpunkt som denne fått avsikten att handla och göra vinst, då träder *hawl* in. Fullbordas *hawl* efter det måste denne betala allmosa.
+**Svar:** Det krävs ingen allmosa för det. Under de år som har gått avsåg denne enbart att bo därpå. Men från den tidpunkt som denne fått avsikten att handla och göra vinst, då träder *hawl*[^1] in. Fullbordas *hawl* efter det måste denne betala allmosa.
+
+[^1]: Ett helt månår (354 dagar) som måste passera innan allmosa blir obligatorisk.
 

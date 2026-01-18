@@ -1,5 +1,5 @@
 ---
-title: Föräldrar
+title: Allmosa till sina föräldrar
 author: Ibn ´Abdullāh Ibn Bāz
 source: Fatāwa al-Marah
 categories:

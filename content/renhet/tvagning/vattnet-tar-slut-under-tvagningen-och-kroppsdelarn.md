@@ -15,9 +15,9 @@ description: 'Fråga: Om vattnet tar slut när man tvagar sig och det sedan komm
 
 **Fråga:** Om vattnet tar slut när man tvagar sig och det sedan kommer tillbaka när kroppsdelarna har torkat, bör man då fortsätta där man var eller bör man börja om från början?
 
-**Svar:** Detta grundas på innebörd i ordet *muwalah* och om det är villkor för att ens tvagning[^1] ska accepteras. De lärde har två åsikter:
+**Svar:** Detta grundas på innebörd i ordet *muwālah* och om det är villkor för att ens tvagning[^1] ska accepteras. De lärde har två åsikter:
 
-Att *muwalah* är ett villkor och att ens tvagning[^1] inte är giltig utan varaktighet. Om en kroppsdel inte tvättas samtidigt som de andra är den inte giltig. Detta är den starkaste åsikten om tvagningen[^1]. Det är ju en enskild dyrkan och alla delar måste vara sammankopplade. Anser vi att *muwalah* är en skyldighet och ett villkor för att tvagningen[^1] ska vara giltig, vilken är då definitionen av *muwalah*?
+Att *muwālah* är ett villkor och att ens tvagning[^1] inte är giltig utan varaktighet. Om en kroppsdel inte tvättas samtidigt som de andra är den inte giltig. Detta är den starkaste åsikten om tvagningen[^1]. Det är ju en enskild dyrkan och alla delar måste vara sammankopplade. Anser vi att *muwalah* är en skyldighet och ett villkor för att tvagningen[^1] ska vara giltig, vilken är då definitionen av *muwalah*?
 
 Vissa lärde har sagt att *muwalah* är att inte fördröja rengörandet av en led så att det som tvättades innan har torkat på grund av tiden som gått [om anledningen inte har att göra med själva reningen]. Ett exempel på detta är om det finns målarfärg där man ska tvätta sig, man försöker då få bort det och det tar så lång tid att man hinner torka. Då bör utgå från vad som redan har avklarats och fortsätta, även om det har gått en lång stund. Detta beror på att fördröjandet är en del av reningen.
 

@@ -16,13 +16,13 @@ description: 'Fråga: Hur långt måste en resenär färdas för att få förkor
 
 **Svar:** Den sträcka då det blir tillåtet att förkorta bönen har vissa lärde angivit till 83 kilometer. Några har sagt att sträckan är det som vanligtvis uppfattas som en resa, även om sträckan inte är 83 kilometer. Det folk då inte anser är en resa är det heller inte, även om den är 100 kilometer.
 
-Den senare åsikten är den som *shaykh ul-Islām[^1]* ibn Taymiyyah – må Allāh vara honom nådig – föredrar. Detta beror på att varken Allāh den Upphöjde eller profeten – över honom vare Allāhs frid och välsignelser – har angivit en viss sträcka för att få förkorta bönen.
+Den senare åsikten är den som *shaykh ul-Islām*[^1] ibn Taymiyyah – må Allāh vara honom nådig – föredrar. Detta beror på att varken Allāh den Upphöjde eller profeten – över honom vare Allāhs frid och välsignelser – har angivit en viss sträcka för att få förkorta bönen.
 
-Anas bin Mālik har sagt: ”*När profeten reste [ungefär] fem kilometer […] förkortade han sin bön och bad två bönecykler[^2]*.” [*Muslim* 691]
+Anas bin Mālik har sagt: ”*När profeten reste [ungefär] fem kilometer […] förkortade han sin bön och bad två bönecykler*[^2].” [*Muslim* 691]
 
-Den åsikt som *shaykh ul-Islām[^1]* ibn Taymiyyah – må Allāh vara honom nådig – har är den mest korrekta.
+Den åsikt som *shaykh ul-Islām*[^1] ibn Taymiyyah – må Allāh vara honom nådig – har är den mest korrekta.
 
-Det finns ingen synd när det existerar olika åsikter om vad som är en resa om någon handlar efter åsikten att där finns en kortaste sträcka. Detta beror på att de lärde inom *ijtihād[^3]* har sagt detta och de har inte syndat på grund av detta, om Allāh vill. Men så länge frågan är fastslagen är det rätt att hänvisa till det som vanligtvis accepteras.
+Det finns ingen synd när det existerar olika åsikter om vad som är en resa om någon handlar efter åsikten att där finns en kortaste sträcka. Detta beror på att de lärde inom *ijtihād*[^3] har sagt detta och de har inte syndat på grund av detta, om Allāh vill. Men så länge frågan är fastslagen är det rätt att hänvisa till det som vanligtvis accepteras.
 
 Beträffande frågan om det är tillåtet att slå ihop bönerna och när det är tillåtet att förkorta dem säger vi: Att slå ihop bönerna är inte sammankopplat med att förkorta dem. När bönerna slås ihop beror det på ett behov. När någon behöver slå ihop sina böner, oavsett om det är under en resa eller i hemmet, då bör de slås ihop. Därför kan man slå ihop sina böner när det regnar och det blir svårt att gå till moskén.
 

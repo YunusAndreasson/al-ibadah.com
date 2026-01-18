@@ -16,7 +16,7 @@ description: 'Fråga: Får en pilgrim resa till Jiddah utan att utföra tawāful
 
 **Svar:** En pilgrim får inte lämna Mecka efter vallfärden förrän denne har utfört *tawāf[^1] ul-wadā*. Anledning är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Ingen bör ge sig av förrän dennes sista handling är vid Huset [Ka'bah]*." [*Muslim* 1327 och *Ahmad* 1/222] Detta har *Muslim* återgivit.
 
-I *Sahīh al-Bukhārī* och *Sahīh Muslim* finns en *hadīth[^2]* från Ibn 'Abbās i vilken han säger: "*Folket kommenderades att göra sin sista handling vid Huset [Ka'bah], men frågan har lindrats för en kvinna med månadsblödning*."
+I *Sahīh al-Bukhārī* och *Sahīh Muslim* finns en *hadīth*[^2] från Ibn 'Abbās i vilken han säger: "*Folket kommenderades att göra sin sista handling vid Huset [Ka'bah], men frågan har lindrats för en kvinna med månadsblödning*."
 
 Därför får inte invånarna i Jiddah eller at-Ta'if [eller andra] lämna Mecka efter vallfärden förrän de har utfört *tawāf[^1] ul-wadā*. Den som reser före han utfört *tawāf[^1] ul-wadā* måste slakta ett djur. Anledningen är att han lämnat en obligatorisk handling.
 

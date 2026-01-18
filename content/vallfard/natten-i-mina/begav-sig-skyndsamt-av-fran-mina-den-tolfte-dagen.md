@@ -1,5 +1,5 @@
 ---
-title: Begav sig skyndsamt av från Mina den tolfte dagen
+title: Skyndsam avresa från Mina den tolfte dagen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 237 s. ISBN saknas'

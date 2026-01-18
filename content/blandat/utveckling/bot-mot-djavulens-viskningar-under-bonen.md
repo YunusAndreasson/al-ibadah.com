@@ -19,11 +19,11 @@ description: 'Fråga: När jag börjar be så hör jag viskningar och tankarna b
 
 Om viskningarna återkommer, då är det föreskrivet att söka tillflykt hos Allāh från djävulen. Profeten – över honom vare Allāhs frid och välsignelser – beordrade 'Uthmān bin Abi al-'As att göra detta när djävulen hade gjort honom förvirrad under hans bön.
 
-När en av Allāhs tjänare blir osäker på hur många bönecykler[^1] han hade bett, då bör han anta det lägre antalet och basera sin uppskattning på vad han känner sig säker på och sedan be färdigt sin bön. Efteråt gör han två nedfallanden för glömska innan *taslīm[^2]*.
+När en av Allāhs tjänare blir osäker på hur många bönecykler[^1] han hade bett, då bör han anta det lägre antalet och basera sin uppskattning på vad han känner sig säker på och sedan be färdigt sin bön. Efteråt gör han två nedfallanden för glömska innan *taslīm*[^2].
 
 Detta grundas på en återberättelse från Abu Sa´īd där han berättar att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Om någon tvivlar sin bön och inte vet hur mycket han har bett, tre eller fyra bönecykler[^1], låt honom då skjuta detta tvivel åt sidan och utgå från det han är säker på. Nedfall sedan två gånger före *taslīm[^2]*. Har han bett fem, då kommer hans bön att vara en förespråkare för honom, och om han har avslutat sin bön korrekt [som fyra bönecykler[^1]], då kommer det att vara en förnedring för djävulen.” [*Muslim* 571]
+> ”Om någon tvivlar sin bön och inte vet hur mycket han har bett, tre eller fyra bönecykler[^1], låt honom då skjuta detta tvivel åt sidan och utgå från det han är säker på. Nedfall sedan två gånger före *taslīm*[^2]. Har han bett fem, då kommer hans bön att vara en förespråkare för honom, och om han har avslutat sin bön korrekt [som fyra bönecykler[^1]], då kommer det att vara en förnedring för djävulen.” [*Muslim* 571]
 
 [^1]: Rakah.
 [^2]: Den avslutande hälsningen i bönen.

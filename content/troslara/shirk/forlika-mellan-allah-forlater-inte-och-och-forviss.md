@@ -1,6 +1,5 @@
 ---
-title: Förlika mellan ”Allāh förlåter inte” och ”Och Förvisso, jag är sannerligen
- förlåtande”
+title: Förlika mellan "Allāh förlåter inte" och "Jag är förlåtande"
 author: Ibn ´Abdullah Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 149 s. ISBN saknas Muhammed Knut Bernström (1421),
@@ -24,7 +23,7 @@ med:
 
 Finns det några motsägelser mellan dem?
 
-**Svar:** Det finns ingen motsägelse mellan dem. Den första versen gäller den som dör och begår *shirk[^1]* utan att ha vänt sig till Allāh i ånger. För denne finns det ingen förlåtelse och dennes eviga boning är i Elden. Allāh den Upphöjde säger:
+**Svar:** Det finns ingen motsägelse mellan dem. Den första versen gäller den som dör och begår *shirk*[^1] utan att ha vänt sig till Allāh i ånger. För denne finns det ingen förlåtelse och dennes eviga boning är i Elden. Allāh den Upphöjde säger:
 
 > ”De som säger: 'Gud är Kristus, Marias son' förnekar sanningen; Kristus sade [själv]: 'Israeliter! Dyrka Gud, min Herre och er Herre.' Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden ska bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [Koranen 5:72]
 

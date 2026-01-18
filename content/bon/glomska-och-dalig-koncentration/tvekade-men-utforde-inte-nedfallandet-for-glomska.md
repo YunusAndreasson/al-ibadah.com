@@ -16,7 +16,7 @@ description: 'Fråga: Om jag kände tveksamheter i fråga om bönen och jag inte
 
 **Svar:** Det är inte tillåtet att ge uppmärksamhet till återkommande tvivel i bönen. I stället bör Allāhs tjänare be klart enligt vad som gäller i grund och botten – att bönen är korrekt. Han behöver inte utföra nedfallandet för glömska[^1], även om han glömmer eller upplever viskningar – för vem av oss glömmer inte eller upplever viskningar?
 
-Om han utelämnar en obligatorisk handling eller om han tvekar om huruvida han har gjort den eller inte, eller om han gör något extra, eller om han inte gör en obligatorisk handling på grund av glömska, då måste han nedfalla för glömska[^1]. Detta har förklarats i böckerna om *fiqh[^3]*.
+Om han utelämnar en obligatorisk handling eller om han tvekar om huruvida han har gjort den eller inte, eller om han gör något extra, eller om han inte gör en obligatorisk handling på grund av glömska, då måste han nedfalla för glömska[^1]. Detta har förklarats i böckerna om *fiqh*[^3].
 
 [^1]: sujūd as-sahw.
 [^2]: sujūd, nedfallandet när pannan läggs mot marken.

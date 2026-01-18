@@ -13,9 +13,9 @@ description: 'Fråga: En person varken fastar eller ber, offrar till jinn samt t
  skull eller be Allāh förlåta honom? Den...'
 ---
 
-**Fråga:** En person varken fastar eller ber, offrar till *jinn[^1]* samt träd [som om de var gudar] och dör i detta tillstånd. Får en släkting vallfärda för hans skull eller be Allāh förlåta honom?
+**Fråga:** En person varken fastar eller ber, offrar till *jinn*[^1] samt träd [som om de var gudar] och dör i detta tillstånd. Får en släkting vallfärda för hans skull eller be Allāh förlåta honom?
 
-Den som dör i det tillstånd som har beskrivits i frågan anses vara en månggudadyrkare[^2], som har begått större *shirk[^3]*. Det är inte tillåtet att vallfärda för hans räkning eller att be Allāh förlåta honom.
+Den som dör i det tillstånd som har beskrivits i frågan anses vara en månggudadyrkare[^2], som har begått större *shirk*[^3]. Det är inte tillåtet att vallfärda för hans räkning eller att be Allāh förlåta honom.
 
 Allāh den Upphöjde säger:
 

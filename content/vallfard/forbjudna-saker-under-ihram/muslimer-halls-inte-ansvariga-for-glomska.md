@@ -13,7 +13,7 @@ description: 'Fråga: En muslim gick in i ihrām för ‘umrah och han har för 
  i ihrām och lite av hans hår föll av. Måste ...'
 ---
 
-**Fråga:** En muslim gick in i *ihrām[^1]* för *‘umrah[^2]* och han har för vana att leka med sitt hår när han tänker. I glömska gjorde han det då han befann sig i *ihrām[^1]* och lite av hans hår föll av. Måste han gottgöra sig för detta?
+**Fråga:** En muslim gick in i *ihrām*[^1] för *'umrah*[^2] och han har för vana att leka med sitt hår när han tänker. I glömska gjorde han det då han befann sig i *ihrām*[^1] och lite av hans hår föll av. Måste han gottgöra sig för detta?
 
 **Svar:** Han behöver inte göra något då Allāh om de troende har sagt: ”*Herre! Ställ oss inte till svars för glömska eller oavsiktliga fel*.” [Koranen 2:286]
 

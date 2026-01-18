@@ -20,7 +20,7 @@ description: 'Fråga: Även om jag inte förstår innebörden reciterar jag ofta
 
 Man belönas för att recitera den oavsett om man förstår vad man läser eller ej. Det är inte tillåtet för en troende att recitera Koranen och försöka handla enligt den utan att han förstått dess innebörd. Detta precis likt den som studerar medicin inte bör vara okunnig om vad denne läser i böcker om medicin; tvärtom bör den som läser medicin förstå vad denne lär sig så att detta ska kunna tillämpas. Hur bör då inte en troende förhålla sig när denne reciterar Allāhs skrift som är ett botemedel för hjärtan och en förmaning för alla människor. Detta är anledningen till att profetens följeslagare enbart läste tio verser åt gången och inte fortsatte med de tio efterföljande innan de lärt sig deras innebörd och sedan tillämpat dem.
 
-Man belönas då för att recitera Koranen, oavsett om man förstår den eller inte. Dock bör man sträva så mycket man kan för att lära sig dess innebörd och att lära sig från de lärda som är betrodda. Kan man inte finna någon lärd att lära sig från bör man gå till pålitliga böcker om *tafsīr[^1]* – exempelvis Ibn Jarir at-Tarbis *tafsīr[^1]* och Ibn Kathirs *tafsīr[^1]*.
+Man belönas då för att recitera Koranen, oavsett om man förstår den eller inte. Dock bör man sträva så mycket man kan för att lära sig dess innebörd och att lära sig från de lärda som är betrodda. Kan man inte finna någon lärd att lära sig från bör man gå till pålitliga böcker om *tafsīr*[^1] – exempelvis Ibn Jarir at-Tarbis *tafsīr*[^1] och Ibn Kathirs *tafsīr*[^1].
 
 Och Allāh vet bäst.
 

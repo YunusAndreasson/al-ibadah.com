@@ -13,7 +13,7 @@ description: 'Fråga: Ser profeten – över honom vare Allāhs frid och välsig
 
 **Fråga:** Ser profeten – över honom vare Allāhs frid och välsignelser – dem som besöker hans grav?
 
-**Svar:** Det har varken rapporterats i Allāhs skrift eller i profetens – över honom vare Allāhs frid och välsignelser – autentiska *sunnah[^1]* att profeten – över honom vare Allāhs frid och välsignelser – ser dem som besöker hans grav. Trosgrunderna säger att han inte gör det då det inte finns några bevis.
+**Svar:** Det har varken rapporterats i Allāhs skrift eller i profetens – över honom vare Allāhs frid och välsignelser – autentiska *sunnah*[^1] att profeten – över honom vare Allāhs frid och välsignelser – ser dem som besöker hans grav. Trosgrunderna säger att han inte gör det då det inte finns några bevis.
 
 [^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

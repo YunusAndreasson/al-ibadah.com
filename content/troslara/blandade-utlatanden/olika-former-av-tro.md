@@ -17,7 +17,7 @@ description: 'Fråga: Hur ska vi förlika oss med att īmān består av tron på
 
 **Svar:** All lovprisan tillhör Allāh.
 
-Det finns en sorts tro som baseras på sex grunder. Den omnämns i en *hadīth[^1]* om [ängeln] Gabriel i vilken han frågar profeten – över honom vare Allāhs frid och välsignelser – om detta. Profeten – över honom vare Allāhs frid och välsignelser – svarar:
+Det finns en sorts tro som baseras på sex grunder. Den omnämns i en *hadīth*[^1] om [ängeln] Gabriel i vilken han frågar profeten – över honom vare Allāhs frid och välsignelser – om detta. Profeten – över honom vare Allāhs frid och välsignelser – svarar:
 
 > ”*Imān* är att tro på Allāh, Hans änglar, Hans skrifter, Hans sändebud, den Yttersta dagen och det Förutbestämda [både det bra och det dåliga].”
 

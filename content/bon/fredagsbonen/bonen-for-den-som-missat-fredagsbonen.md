@@ -14,9 +14,9 @@ description: 'Fråga: Bör man be två bönecykler om man missar fredagsbönen? 
 
 **Fråga:** Bör man be två bönecykler[^1] om man missar fredagsbönen?
 
-**Svar:** Majoritet av de lärde inom *fiqh[^2]* anser att den som missar fredagsbönen måste be den som middagsbönen[^3] [fyra bönecykler[^1]] och i församling, om det är möjligt. Är det inte möjligt, då ber han den ensam som middagsbönen[^3].
+**Svar:** Majoritet av de lärde inom *fiqh*[^2] anser att den som missar fredagsbönen måste be den som middagsbönen[^3] [fyra bönecykler[^1]] och i församling, om det är möjligt. Är det inte möjligt, då ber han den ensam som middagsbönen[^3].
 
-Detta är den korrekta åsikten och enligt en *hadīth[^4]* från Jabir bin ´Abdullāh som uppger att profeten – över honom vare Allāhs frid och välsignelser – höll en predikan för folket i *Arafat[^5]* under hans sista vallfärd [och detta skedde under en fredag]. Böneutroparen ropade ut och profeten – över honom vare Allāhs frid och välsignelser – stod upp och ledde följeslagarna i middagsbönen[^3]. Sedan ropade böneutroparen ut för eftermiddagsbönen[^6] och profeten – över honom vare Allāhs frid och välsignelser – ledde dem i eftermiddagsbönen[^6]. Däremellan bad han inga böner. Det finns även andra bevis som bekräftar detta.
+Detta är den korrekta åsikten och enligt en *hadīth*[^4] från Jabir bin ´Abdullāh som uppger att profeten – över honom vare Allāhs frid och välsignelser – höll en predikan för folket i *Arafat*[^5] under hans sista vallfärd [och detta skedde under en fredag]. Böneutroparen ropade ut och profeten – över honom vare Allāhs frid och välsignelser – stod upp och ledde följeslagarna i middagsbönen[^3]. Sedan ropade böneutroparen ut för eftermiddagsbönen[^6] och profeten – över honom vare Allāhs frid och välsignelser – ledde dem i eftermiddagsbönen[^6]. Däremellan bad han inga böner. Det finns även andra bevis som bekräftar detta.
 
 Må frid och välsignelser var över vår Profet och över hans familj.
 

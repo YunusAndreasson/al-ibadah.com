@@ -14,7 +14,7 @@ description: 'Fråga: Vilken är islams inställning till dem som använder folk
 
 **Fråga:** Vilken är islams inställning till dem som använder folkmedicin?
 
-**Svar:** I en *hadīth[^1]* rapporteras det:
+**Svar:** I en *hadīth*[^1] rapporteras det:
 
 > ”Allāh har inte sänt ned någon sjukdom utan att Han har sänt ned ett botemedel mot den. Den som känner till det, känner till det och den som inte känner till det, känner inte till det.” [*al-Bukhārī*, 5678]
 

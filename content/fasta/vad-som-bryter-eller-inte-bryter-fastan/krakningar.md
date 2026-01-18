@@ -16,7 +16,7 @@ description: 'Fråga: Bryter kräkningar fastan? Svar: Kräker någon avsiktlige
 
 **Svar:** Kräker någon avsiktligen bryter det fastan men om denne inte gjorde det avsiktligen bryter det inte fastan.
 
-Beviset för detta återfinns i en *hadīth[^1]* från Abū Hurairah i vilken det rapporteras att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som har kräkt avsiktligen måste ta igen [fastan] och den som har kräkt ofrivilligt är inte skyldig att ta igen den*.” [*at-Tirmithi* 720]
+Beviset för detta återfinns i en *hadīth*[^1] från Abū Hurairah i vilken det rapporteras att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som har kräkt avsiktligen måste ta igen [fastan] och den som har kräkt ofrivilligt är inte skyldig att ta igen den*.” [*at-Tirmithi* 720]
 
 Har du då kräkt [ofrivilligt] har din fasta inte brutits. Känner en fastande att dennes mage vänder sig och att innehållet kommer att kräkas upp, då säger vi till denne: Hindra det inte men uppmuntra det [heller] inte utan ta det lugnt. Framkalla inte kräkning men försök [heller] inte att hindra den. Om du framkallar en kräkning har du brutit fastan och om du hindrar den kommer det att skada dig – så ta det lugnt. Kommer det upp utan att du har gjort något så skadar det dig inte och du kommer inte att bryta din fasta.
 

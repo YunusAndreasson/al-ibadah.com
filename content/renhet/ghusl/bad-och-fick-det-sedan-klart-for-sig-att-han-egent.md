@@ -12,7 +12,7 @@ description: 'Fråga: Om någon bad och det sedan blev klart att denne hade bliv
  och efter bönen finner att denne har en större ...'
 ---
 
-**Fråga:** Om någon bad och det sedan blev klart att denne hade blivit oren på ett sätt som kräver *ghusl[^1]*, vad bör denne göra då?
+**Fråga:** Om någon bad och det sedan blev klart att denne hade blivit oren på ett sätt som kräver *ghusl*[^1], vad bör denne göra då?
 
 **Svar:** Den som ber och efter bönen finner att denne har en större eller mindre orenhet måste rena sig från denna orenhet och upprepa bönen. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Allāh accepterar inte böner utan rening*.” [*Muslim*]
 

@@ -1,5 +1,5 @@
 ---
-title: Bror som inte ber
+title: Allmosa till bror som inte ber
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 193 s. ISBN saknas'

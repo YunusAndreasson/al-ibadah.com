@@ -1,5 +1,5 @@
 ---
-title: Āmīn efter *al-Fātihah* – om det är sunnah
+title: Āmīn efter al-Fātihah – om det är sunnah
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 467 s. ISBN 9960-892-66-2'
@@ -12,9 +12,9 @@ description: 'Fråga: Är det sunnah att säga āmīn? Svar: Ja, att säga āmī
  vad som har återgivits i Sahīh al-Bukhārī och ...'
 ---
 
-**Fråga:** Är det *sunnah[^1]* att säga *āmīn*?
+**Fråga:** Är det *sunnah*[^1] att säga *āmīn*?
 
-**Svar:** Ja, att säga āmīn är en högst rekommenderad *sunnah[^1]*, speciellt om imamen säger det. Detta enligt vad som har återgivits i *Sahīh al-Bukhārī* och *Sahīh Muslim* i en *hadīth[^2]* från Abū Hurairah i vilken han rapporterar att Allāhs sändebud har sagt:
+**Svar:** Ja, att säga āmīn är en högst rekommenderad *sunnah*[^1], speciellt om imamen säger det. Detta enligt vad som har återgivits i *Sahīh al-Bukhārī* och *Sahīh Muslim* i en *hadīth*[^2] från Abū Hurairah i vilken han rapporterar att Allāhs sändebud har sagt:
 
 > ”Om imamen säger āmīn, säg då *āmīn*, för om dennes āmīn sammanfaller med änglarnas āmīn [kommer] alla dennes tidigare synder att förlåtas.” [*al-Bukhārī* 782]
 

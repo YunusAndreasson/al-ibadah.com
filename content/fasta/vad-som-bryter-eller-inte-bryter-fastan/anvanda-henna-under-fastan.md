@@ -13,5 +13,7 @@ description: 'Fråga: Är det tillåtet att ta henna i håret när man fastar oc
 
 **Fråga:** Är det tillåtet att ta henna i håret när man fastar och ber? Jag har hört att henna bryter fastan?
 
-**Svar:** Detta är inte rätt då applicerande av henna inte bryter fastan. Den påverkar den inte precis som kol, örondroppar eller ögondroppar heller inte gör det.
+**Svar:** Detta är inte rätt då applicerande av henna inte bryter fastan. Den påverkar den inte precis som *kohl*[^1], örondroppar eller ögondroppar heller inte gör det.
+
+[^1]: Svart pulver av antimon som appliceras runt ögonen.
 

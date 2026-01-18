@@ -12,9 +12,9 @@ description: 'Fråga: En man bad witr och under hans bön ropade böneutroparen 
  om böneutropet ropades ut när han bad wi...'
 ---
 
-**Fråga:** En man bad *witr[^1]* och under hans bön ropade böneutroparen ut för gryningsbönen[^2]. Vilket är utlåtandet om detta? Bör han avsluta bönen?
+**Fråga:** En man bad *witr*[^1] och under hans bön ropade böneutroparen ut för gryningsbönen[^2]. Vilket är utlåtandet om detta? Bör han avsluta bönen?
 
-**Svar:** Ja, om böneutropet ropades ut när han bad *witr[^1]*, då bör han avsluta sin bön. Han har inte syndat med anledning av det.
+**Svar:** Ja, om böneutropet ropades ut när han bad *witr*[^1], då bör han avsluta sin bön. Han har inte syndat med anledning av det.
 
 [^1]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 [^2]: Fajr

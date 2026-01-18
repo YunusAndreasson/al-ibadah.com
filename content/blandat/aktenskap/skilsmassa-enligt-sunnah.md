@@ -12,7 +12,7 @@ description: 'Fråga: Hur går en skilsmässa till? Och vad händer om man skilj
 
 **Fråga:** Hur går en skilsmässa till? Och vad händer om man skiljer sig flera gånger i rad?
 
-**Svar:** Skilsmässa enligt profetens – må Guds frid och välsignelser vara över honom – *sunnah[^1]* är att mannen skiljer sig från sin fru när det är nödvändigt, när hon är ren (efter månadsblödningen) och innan han haft samlag med henne under den perioden av renhet. Skilsmässan är enbart en och hon bör stanna i hans hus under vänteperioden. Detta är enligt Allāhs den Högstes ord: "*Låt [den hustru som inväntar skilsmässa] leva under samma villkor som ni själva inom ramen för era möjligheter*." [Koranen 65:6]
+**Svar:** Skilsmässa enligt profetens – må Guds frid och välsignelser vara över honom – *sunnah*[^1] är att mannen skiljer sig från sin fru när det är nödvändigt, när hon är ren (efter månadsblödningen) och innan han haft samlag med henne under den perioden av renhet. Skilsmässan är enbart en och hon bör stanna i hans hus under vänteperioden. Detta är enligt Allāhs den Högstes ord: "*Låt [den hustru som inväntar skilsmässa] leva under samma villkor som ni själva inom ramen för era möjligheter*." [Koranen 65:6]
 
 När vänteperioden sedan är över och han inte har tagit henne tillbaka bör hon beslöja sig inför honom och ge sig av. Hon blir förbjuden för honom om de inte upprättar ett nytt kontrakt och hon godkänner det.
 

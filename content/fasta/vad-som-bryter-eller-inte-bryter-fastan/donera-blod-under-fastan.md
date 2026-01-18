@@ -11,9 +11,10 @@ description: 'Fråga: Bryts fastan om man donerar blod under ramadan? Svar: Ja!
  som hijāmah .'
 ---
 
-**Fråga:** Bryts fastan om man donerar blod under *ramadan[^1]*?
+**Fråga:** Bryts fastan om man donerar blod under *ramadan*[^1]?
 
-**Svar:** Ja! Om man donerar mycket blod, då bryts fastan och det klassas på ungefär samma sätt som *hijāmah*.
+**Svar:** Ja! Om man donerar mycket blod, då bryts fastan och det klassas på ungefär samma sätt som *hijāmah*[^2].
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
+[^2]: Koppning.
 

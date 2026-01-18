@@ -1,6 +1,5 @@
 ---
-title: Profetens – över honom vare Allāhs frid och välsignelser – giftermål med Zainab
- när Zaid skiljt sig från henne
+title: Profetens giftermål med Zainab efter Zaids skilsmässa
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 272 s. ISBN saknas Muhammed Knut Bernström (1421),

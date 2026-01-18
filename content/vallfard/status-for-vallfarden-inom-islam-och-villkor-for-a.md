@@ -15,9 +15,9 @@ description: 'Fråga: Vilken är pilgrimsfärdens status inom islam och för vil
 
 **Svar:** Pilgrimsfärden till Allāhs heliga hus är en av islams pelare och viktigaste fundament. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Islam är byggt på fem pelare: vittnesmålet om att det inte finns någon gud utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av den obligatoriska bönen, betalning av allmosa, fastan under *ramadan[^1]* och vallfärden till Allāhs Heliga Hus.”
+> ”Islam är byggt på fem pelare: vittnesmålet om att det inte finns någon gud utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av den obligatoriska bönen, betalning av allmosa, fastan under *ramadan*[^1] och vallfärden till Allāhs Heliga Hus.”
 
-Vallfärden är obligatorisk enligt Allāhs skrift, Hans sändebuds *sunnah[^2]* och konsensus bland muslimer. Allāh säger:
+Vallfärden är obligatorisk enligt Allāhs skrift, Hans sändebuds *sunnah*[^2] och konsensus bland muslimer. Allāh säger:
 
 > ”Den förmedlar klara budskap [och där finns] den plats där Abraham en gång stod; den som stiger in där är i trygghet. Vallfärden till denna Helgedom är en plikt mot Gud för var och en som har möjlighet att genomföra den. Och den som förnekar sanningen [ska veta att] Gud är Sig själv nog och inte behöver [någon eller något i] Sin skapelse.” [Koranen 3:97]
 
@@ -35,7 +35,7 @@ Villkoren för att vallfärden ska vara obligatoriskt är fem:
 2. Att man är vuxen. Har någon ännu inte kommit in i puberteten är vallfärden inte obligatoriskt för denne. Vallfärdar denne så räknas den som en frivillig sådan. När denne blir vuxen måste denne utföra den obligatoriska vallfärden. En vallfärd före puberteten uppfyller inte denna skyldighet.
 3. Att vara vid sunda sinnen, vilket är motsatsen till att vara galen. Den som är galen är inte skyldig att vallfärda. Pilgrimsfärden kan heller inte utföras för dennes räkning.
 4. Att vara fri. En slav är inte skyldig att vallfärda men om denne gör det räknas det som en frivillig vallfärd. Släpps slaven fri måste denne utföra den obligatoriska vallfärden. En vallfärd utförd när denne inte var fri uppfyller inte skyldigheten. Vissa lärde har sagt att om en slav vallfärdar med ägarens tillåtelse, då är detta giltigt och den behöver inte upprepas. Denna åsikt är mer korrekt.
-5. Att ha både finansiell och fysisk möjlighet. I en kvinnas fall inkluderar detta att ha en *mahram*[^3]. Om hon inte har en *mahram[^3]* är hon inte skyldig att vallfärda.
+5. Att ha både finansiell och fysisk möjlighet. I en kvinnas fall inkluderar detta att ha en *mahram*[^3]. Om hon inte har en *mahram*[^3] är hon inte skyldig att vallfärda.
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.

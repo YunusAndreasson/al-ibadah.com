@@ -18,10 +18,10 @@ description: 'Fråga: Vilket är utlåtandet om den stora rituella orenheten? Sv
 **Svar:**
 
 1. Är man i ett tillstånd av stor rituell orenhet är det inte tillåtet att vare sig be de obligatoriska eller de frivilliga bönerna, faktiskt inte ens begravningsbönen. Detta beror på att Allāh den Upphöjde säger: ”*Och om ni befinner er i ett tillstånd av stor rituell orenhet, ska ni rena er [genom att skölja hela kroppen]…*” [Koranen 5:6]
-2. Den som är i ett tillstånd av stor rituell orenhet får inte göra *tawāf[^1]* runt Allāhs hus i Mecka. Det innebär ju att man befinner sig Allāhs moské och Han den Upphöjde har sagt: ”*Troende! Gå inte till bön om ni befinner er i omtöcknat tillstånd, [utan vänta] till dess ni vet vad ni säger. [Gör det] inte heller i ett tillstånd av stor rituell orenhet, utan skölj först hela kroppen; undantagna är de som befinner sig på resa.*” [Koranen 4:43]
+2. Den som är i ett tillstånd av stor rituell orenhet får inte göra *tawāf*[^1] runt Allāhs hus i Mecka. Det innebär ju att man befinner sig Allāhs moské och Han den Upphöjde har sagt: ”*Troende! Gå inte till bön om ni befinner er i omtöcknat tillstånd, [utan vänta] till dess ni vet vad ni säger. [Gör det] inte heller i ett tillstånd av stor rituell orenhet, utan skölj först hela kroppen; undantagna är de som befinner sig på resa.*” [Koranen 4:43]
 3. Det är inte tillåtet att röra en kopia av Koranen, enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Ingen bör röra Koranen utom den som är ren*.” [*an-Nasā’i* 5718]
 4. Det är inte tillåtet att vara kvar i moskén utan att ha tvagat sig. Detta enligt Allāhs den Upphöjdes ord: ”*Troende! Gå inte till bön om ni befinner er i omtöcknat tillstånd, [utan vänta] till dess ni vet vad ni säger. [Gör det] inte heller i ett tillstånd av stor rituell orenhet, utan skölj först hela kroppen; undantagna är de som befinner sig på resa*.” [Koranen 4:43]
-5. Det är inte tillåtet att recitera Koranen innan man har gjort *ghusl[^2]*. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – brukade låta följeslagarna recitera så länge de inte var i den stora rituella orenheten.
+5. Det är inte tillåtet att recitera Koranen innan man har gjort *ghusl*[^2]. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – brukade låta följeslagarna recitera så länge de inte var i den stora rituella orenheten.
 
 Detta är de fem utlåtanden som gäller för den som är i den stora rituella orenheten.
 

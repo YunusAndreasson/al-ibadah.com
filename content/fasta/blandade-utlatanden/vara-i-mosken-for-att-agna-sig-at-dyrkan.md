@@ -1,5 +1,5 @@
 ---
-title: Vara i moskén för att ägna sig åt dyrkan
+title: I'tikāf i moskén
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 331 s. ISBN saknas'
@@ -12,9 +12,9 @@ description: 'Fråga: Är det en betonad sunnah att vara i moskén under ramadan
  vara i moskén för att ägna sig åt dyr...'
 ---
 
-**Fråga:** Är det en betonad *sunnah[^1]* att vara i moskén under *ramadan[^2]* för att ägna sig åt dyrkan? Vilka är villkoren för tidpunkter utanför *ramadan[^2]*?
+**Fråga:** Är det en betonad *sunnah*[^1] att vara i moskén under *ramadan*[^2] för att ägna sig åt dyrkan? Vilka är villkoren för tidpunkter utanför *ramadan*[^2]?
 
-**Svar:** Att vara i moskén för att ägna sig åt dyrkan under *ramadan[^2]* är *sunnah[^1]*. Profeten – över honom vare Allāhs frid och välsignelser – gjorde så under sin livstid och hans fruar gjorde det efter hans bortgång. De lärde har nämnt att det råder konsensus bland dem om att det är *sunnah[^1]*.
+**Svar:** Att vara i moskén för att ägna sig åt dyrkan under *ramadan*[^2] är *sunnah*[^1]. Profeten – över honom vare Allāhs frid och välsignelser – gjorde så under sin livstid och hans fruar gjorde det efter hans bortgång. De lärde har nämnt att det råder konsensus bland dem om att det är *sunnah*[^1].
 
 Vistelsen i moskén för att dyrka bör man vara på ett sätt som är enligt syftet i föreskriften. Detta innebär att man håller sig i moskén för att lyda Allāh. Man gör detta genom att lämna världsliga göromål för att lyda Allāh. Man håller sig långt borta från världsliga sysslor och man lyder Allāh genom dyrkan och åminnelse[^3] av Honom. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – brukade vara i moskén för att dyrka medan han försökte finna Allmaktens Natt[^4].
 

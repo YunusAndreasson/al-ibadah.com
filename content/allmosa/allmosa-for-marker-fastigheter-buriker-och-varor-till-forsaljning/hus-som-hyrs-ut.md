@@ -14,7 +14,7 @@ description: 'Fråga: Vilket är utlåtandet om allmosan för ett hyreshus? Svar
 
 **Fråga:** Vilket är utlåtandet om allmosan för ett hyreshus?
 
-**Svar:** Om ett hus hyrs ut mot vinst, då betalar man ingen allmosa för husets värde. Allmosan betalar man enbart för den inkomst som genereras från det när *hawl* har fullbordats räknat från tiden för hyresavtalet. Om *hawl* inte har fullbordats för den räknat från tiden för hyreskontraktet, då krävs heller ingen allmosa.
+**Svar:** Om ett hus hyrs ut mot vinst, då betalar man ingen allmosa för husets värde. Allmosan betalar man enbart för den inkomst som genereras från det när *hawl*[^2] har fullbordats räknat från tiden för hyresavtalet. Om *hawl* inte har fullbordats för den räknat från tiden för hyreskontraktet, då krävs heller ingen allmosa.
 
 Någon hyr exempelvis ut ett hus för 10 000 riyal[^1] och denne får då 5000 vid tidpunkten för överenskommelsen, pengar som denne spenderar. Sedan får denne 5000 under mitten av året och spenderar dem innan året är över. I detta fall krävs då ingen allmosa. Anledningen är att *hawl* inte har fullbordats för dessa pengar.
 
@@ -22,7 +22,9 @@ Men om huset är till försäljning och denne har väntat på att få intäkten,
 
 Den som har tillgångar för att generera en vinst med, ansåg endast dess värde, inte egendomen i sig, och dess värde är i pengar, och det är nödvändigt att betala allmosa för pengar.
 
-Med detta som grund: Den som avsåg att handla och göra en vinst med detta hus, denne måste betala allmosa för husets värde och för inkomsten för hyran om hawl fullbordas räknat från tiden för hyreskontraktet.
+Med detta som grund: Den som avsåg att handla och göra en vinst med detta hus, denne måste betala allmosa för husets värde och för inkomsten för hyran om *hawl* fullbordas räknat från tiden för hyreskontraktet.
 
-[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramadan* 1428).
+[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramadān* 1428).
+
+[^2]: Ett helt månår (354 dagar) som måste passera innan allmosa blir obligatorisk.
 

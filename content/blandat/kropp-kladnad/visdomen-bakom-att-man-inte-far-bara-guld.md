@@ -16,11 +16,11 @@ description: 'Fråga: Vilken är anledningen till att män inte får bära guld?
 
 **Svar:** Du ska veta, kära frågeställare, att anledningen bakom den islamiska lagens utlåtande för varje troende är eftersom Allāh och Hans sändebud har sagt det. Allāh den Allsmäktige säger: "Och när en fråga som rör en troende man eller kvinna har avgjorts av Gud och Hans Sändebud, har dessa inte rätt att själva döma i det som rör dem." [Koranen 33:36]
 
-Om någon då frågar om anledningen för ett visst utlåtande, ger vi enbart visdomen från Skriften och profetens *sunnah[^1]*. Vi säger då att anledningen är att Allāh den Allsmäktige och Hans sändebud – över honom vare Allāhs frid och välsignelser – har sagt så och denna anledning är tillräcklig för varje troende.
+Om någon då frågar om anledningen för ett visst utlåtande, ger vi enbart visdomen från Skriften och profetens *sunnah*[^1]. Vi säger då att anledningen är att Allāh den Allsmäktige och Hans sändebud – över honom vare Allāhs frid och välsignelser – har sagt så och denna anledning är tillräcklig för varje troende.
 
 När 'Ā'ishāh tillfrågades om varför en kvinna med månadsblödning tar igen fastan men inte bönen, sade hon: "När vi led av den beordrades vi att ta igen fastan men vi var inte beordrade att ta igen bönen."
 
-Detta beror på att en text från Allāhs skrift och från Hans sändebuds *sunnah[^1]* är ett tillräckligt bevis för varje troende. Men det finns inget dåligt i att en person försöker att ta reda på visdomen bakom Allāhs domar då det kommer att öka hans lugn och respekt för den islamiska lagen när domarna sammankopplas med deras anledningar. Och när man känner till anledningarna för domen i en bekräftad text blir det möjligt att göra en analogi till en annan fråga som det inte finns någon text för.
+Detta beror på att en text från Allāhs skrift och från Hans sändebuds *sunnah*[^1] är ett tillräckligt bevis för varje troende. Men det finns inget dåligt i att en person försöker att ta reda på visdomen bakom Allāhs domar då det kommer att öka hans lugn och respekt för den islamiska lagen när domarna sammankopplas med deras anledningar. Och när man känner till anledningarna för domen i en bekräftad text blir det möjligt att göra en analogi till en annan fråga som det inte finns någon text för.
 
 Dessa tre fördelar kommer då från att känna till visdomen bakom den islamiska lagen.
 

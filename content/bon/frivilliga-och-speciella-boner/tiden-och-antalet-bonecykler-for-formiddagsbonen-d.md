@@ -14,7 +14,7 @@ description: 'Fråga: Hur många bönecykler består förmiddagsbönen av och n�
 
 **Fråga:** Hur många bönecykler[^1] består förmiddagsbönen[^2] av och när passar det att be den?
 
-**Svar:** Förmiddagsbönen är en högt rekommenderad *sunnah[^3]*. Som minst är den två bönecykler[^1] och som mest tolv. Dess bästa tid är när det börjat bli varmt, vilket har rapporterats i en *hadīth[^4]*: ”*Salatul-awwabin är när sandens hetta bränner kamelunges hovar*." [*Muslim* 784] /…/
+**Svar:** Förmiddagsbönen är en högt rekommenderad *sunnah*[^3]. Som minst är den två bönecykler[^1] och som mest tolv. Dess bästa tid är när det börjat bli varmt, vilket har rapporterats i en *hadīth*[^4]: ”*Salatul-awwabin är när sandens hetta bränner kamelunges hovar*." [*Muslim* 784] /…/
 
 [^1]: Rakah.
 [^2]: Dhuha

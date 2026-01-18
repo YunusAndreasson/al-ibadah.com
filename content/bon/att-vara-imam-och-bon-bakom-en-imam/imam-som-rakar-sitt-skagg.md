@@ -12,7 +12,7 @@ description: 'Fråga: Finns det någon autentisk hadīth som visar att bön bako
  autentiska bevis som visar att bön bakom...'
 ---
 
-**Fråga:** Finns det någon autentisk *hadīth[^1]* som visar att bön bakom någon som rakar sitt skägg är ogiltig?
+**Fråga:** Finns det någon autentisk *hadīth*[^1] som visar att bön bakom någon som rakar sitt skägg är ogiltig?
 
 **Svar:** Enligt vad vi känner till finns det inga autentiska bevis som visar att bön bakom någon som rakar sitt skägg är ogiltig.
 

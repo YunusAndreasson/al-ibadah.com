@@ -11,9 +11,9 @@ description: 'Fråga: Skall man göra ghusl före man går till ´eid -bönen? S
  då det har återberättades att några ...'
 ---
 
-**Fråga:** Skall man göra *ghusl[^1]* före man går till *´eid*-bönen?
+**Fråga:** Skall man göra *ghusl*[^1] före man går till *´eid*-bönen?
 
-**Svar:** Några av de lärde har sagt att det är rekommenderat att göra *ghusl[^1]* inför *´eid*-bönen då det har återberättades att några av följeslagarna gjorde detta. Att göra *ghusl[^1]* inför *´eid*-bönen är rekommenderat på samma sätt som det är föreskrivet inför fredagsbönen då man ska träffa folk. Så om man gör *ghusl[^1]* är det bra.
+**Svar:** Några av de lärde har sagt att det är rekommenderat att göra *ghusl*[^1] inför *´eid*-bönen då det har återberättades att några av följeslagarna gjorde detta. Att göra *ghusl*[^1] inför *´eid*-bönen är rekommenderat på samma sätt som det är föreskrivet inför fredagsbönen då man ska träffa folk. Så om man gör *ghusl*[^1] är det bra.
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 

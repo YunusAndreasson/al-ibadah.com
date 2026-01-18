@@ -1,5 +1,5 @@
 ---
-title: Recitation av *al-Fātihah* vid gravar
+title: Recitation av al-Fatihah vid gravar
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 61 s. ISBN saknas'
@@ -7,7 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 48
-description: 'Fråga: Är det tillåtet att recitera *al-Fātihah*, eller något annat
+description: 'Fråga: Är det tillåtet att recitera al-Fatihah, eller något annat
  stycke i Koranen, för den avlidne när man besöker dennes grav? Kommer detta att
  göra denne någon nytta? Profeten – över honom ...'
 ---

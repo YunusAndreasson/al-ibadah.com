@@ -12,11 +12,11 @@ description: 'Fråga: Vilket är utlåtandet om att träda in i ihrām före mī
  är inte fel att träda in ...'
 ---
 
-**Fråga:** Vilket är utlåtandet om att träda in i *ihrām[^1]* före *mīqāt[^2]* och är *ihrām[^1]* för vallfärden uppfylld om man har trätt in i den före vallfärdsmånaderna?
+**Fråga:** Vilket är utlåtandet om att träda in i *ihrām*[^1] före *mīqāt*[^2] och är *ihrām*[^1] för vallfärden uppfylld om man har trätt in i den före vallfärdsmånaderna?
 
-**Svar:** Det är inte fel att träda in i *ihrām[^1]* innan platsen för *mīqāt[^2]*. Det är som om du går in i *ihrām[^1]* vid at-Ta'if genom att rena dig själv, ta på *ihrām[^1]*-kläder, utforma avsikten och säga *talbiyyah[^3]*. Invånarna i Medina får träda in i *ihrām[^1]* i sina hem. På samma sätt så får invånarna i Egypten, om de avser att resa, träda in i *ihrām[^1]* när de kommer ut från sina hem eller när de befinner sig i flygplanet på väg mot Jiddah. Detta är dock i motsats till det som är att föredra.
+**Svar:** Det är inte fel att träda in i *ihrām*[^1] innan platsen för *mīqāt*[^2]. Det är som om du går in i *ihrām*[^1] vid at-Ta'if genom att rena dig själv, ta på *ihrām*[^1]-kläder, utforma avsikten och säga *talbiyyah*[^3]. Invånarna i Medina får träda in i *ihrām*[^1] i sina hem. På samma sätt så får invånarna i Egypten, om de avser att resa, träda in i *ihrām*[^1] när de kommer ut från sina hem eller när de befinner sig i flygplanet på väg mot Jiddah. Detta är dock i motsats till det som är att föredra.
 
-När det gäller att träda in i *ihrām[^1]* för vallfärden före dess månader, likt den som går in i *ihrām[^1]* för vallfärden under *ramadan[^4]*, då har några av de lärde förbjudit det. De anser att det är *ihrām[^1]* för bönen [öppnande *takbīr[^5]*] före tiden för bönen har trätt in. Att den räknas är dock troligen närmare sanningen, för om något görs tidigt skadar det inte handlingen i sig. Det gör dock saker och ting svårt för den som har trätt in i *ihrām[^1]*. Detta med anledning av tiden för *ihrām[^1]* då denne kommer att befinna sig i *ihrām[^1]* tills *Arafat[^6]*- och Offerdagen. Detta innebär svårigheter.
+När det gäller att träda in i *ihrām*[^1] för vallfärden före dess månader, likt den som går in i *ihrām*[^1] för vallfärden under *ramadan*[^4], då har några av de lärde förbjudit det. De anser att det är *ihrām*[^1] för bönen [öppnande *takbīr*[^5]] före tiden för bönen har trätt in. Att den räknas är dock troligen närmare sanningen, för om något görs tidigt skadar det inte handlingen i sig. Det gör dock saker och ting svårt för den som har trätt in i *ihrām*[^1]. Detta med anledning av tiden för *ihrām*[^1] då denne kommer att befinna sig i *ihrām*[^1] tills *Arafat*[^6]- och Offerdagen. Detta innebär svårigheter.
 
 Och Allāh vet bäst.
 

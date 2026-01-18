@@ -33,7 +33,7 @@ Om det sägs till dem som förnekar: ”Vem är himlarnas och jordens Skaparen?�
 
 Härmed råder det inget tvivel om att den som förnekar Skaparen har en mental defekt, är utan religion och är icke-troende. Ingen bör tveka över att detta är otro.
 
-Detta utlåtande gäller även de som blint följer denna tro och som har levt i islam, därför att islam avvisar med bestämdhet detta. Falskheten i detta tankesätt och i denna ideologi bör vara uppenbar för varje muslim och det finns ingen ursäkt för dem, då det har funnits dem som lärt dem. Om de återvände till sin *fitrah[^1]*, då skulle de finna att kommunismen saknar grund.
+Detta utlåtande gäller även de som blint följer denna tro och som har levt i islam, därför att islam avvisar med bestämdhet detta. Falskheten i detta tankesätt och i denna ideologi bör vara uppenbar för varje muslim och det finns ingen ursäkt för dem, då det har funnits dem som lärt dem. Om de återvände till sin *fitrah*[^1], då skulle de finna att kommunismen saknar grund.
 
 [^1]: Det naturliga tillstånd som människan föds i.
 

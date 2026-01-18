@@ -14,7 +14,7 @@ description: 'Fråga: Vilket är utlåtandet om ‘eid -bönen? Svar: Jag anser 
 
 **Fråga:** Vilket är utlåtandet om *‘eid*-bönen?
 
-**Svar:** Jag anser att *‘eid*-bönen är en skyldighet för varje individ [*fardh 'ain*] och att män inte får utelämna den. I stället behöver de närvara vid den. Profeten – över honom vare Allāhs frid och välsignelser – har kommenderat detta. Han kommenderade även de unga beslöjade kvinnorna att gå till denna bön. Han kommenderade kvinnorna med månadsblödning att gå till den men att hålla sig borta från böneplatsen. Detta bevisar skyldigheten i den. Åsikten som jag har nämnt är den starkaste och det är den som *shaykh ul-Islām[^1]* ibn Taymiyyah – må Allāh vara honom nådig – har valt.
+**Svar:** Jag anser att *‘eid*-bönen är en skyldighet för varje individ [*fardh 'ain*] och att män inte får utelämna den. I stället behöver de närvara vid den. Profeten – över honom vare Allāhs frid och välsignelser – har kommenderat detta. Han kommenderade även de unga beslöjade kvinnorna att gå till denna bön. Han kommenderade kvinnorna med månadsblödning att gå till den men att hålla sig borta från böneplatsen. Detta bevisar skyldigheten i den. Åsikten som jag har nämnt är den starkaste och det är den som *shaykh ul-Islām*[^1] ibn Taymiyyah – må Allāh vara honom nådig – har valt.
 
 Den är likvärdig med fredagsbönen, missar man den så tar man inte igen den då det inte finns några bevis för att det är nödvändigt att ta igen den. Man behöver inte be någon bön i stället för den. Missar man fredagsbönen måste middagsbönen[^2] bes i stället för den då tiden för den är middagsbönen[^2]. Men om man missar *‘eid*-bönen tar man inte igen den.
 

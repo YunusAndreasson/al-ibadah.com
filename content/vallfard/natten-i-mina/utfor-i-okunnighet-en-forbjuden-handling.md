@@ -1,5 +1,5 @@
 ---
-title: Utför i okunnighet en förbjuden handling
+title: Förbjuden handling i okunnighet
 author: Ibn ´Abdur-Rahman al-Jibrin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 135 s. ISBN saknas Muhammed Knut Bernström (1421),
@@ -13,7 +13,7 @@ description: 'Fråga: Vad gäller den som, ovetandes eller på grund av glömska
  klipper sitt hår eller sina naglar har inte s...'
 ---
 
-**Fråga:** Vad gäller den som, ovetandes eller på grund av glömska, utför en av de nio förbjudna handlingarna under *ihrām[^1]*?
+**Fråga:** Vad gäller den som, ovetandes eller på grund av glömska, utför en av de nio förbjudna handlingarna under *ihrām*[^1]?
 
 **Svar:** Den som glömmer och klipper sitt hår eller sina naglar har inte syndat och han behöver inte offra. Detsamma gäller den som i glömska använder parfym, täcker sitt huvud eller bär klädesplagg med sömmar. Allāh håller inte denne ansvarig. Detta eftersom Han har sagt: ”Herre! Ställ oss inte till svars för glömska eller oavsiktliga fel.” [Koranen 2:286]
 
@@ -21,7 +21,7 @@ I *Sahīh* återges att Allāh har sagt [som svar på detta]: ”*Sannerligen, h
 
 Allāh har även sagt: ”*Om ni här begår ett misstag. ska ni inte klandras för detta – nej, [det som är av betydelse är] vad ni innerst inne syftar till*.” [Koranen 33:5]
 
-Och i en *hadīth[^3]* rapporteras det: ”*Mitt samfund har förlåtits för oavsiktliga fel och glömska*.” [*Ibn Mājah* 2045]
+Och i en *hadīth*[^3] rapporteras det: ”*Mitt samfund har förlåtits för oavsiktliga fel och glömska*.” [*Ibn Mājah* 2045]
 
 Beträffande att döda vilt har majoriteten av de lärda dömt enligt dess princip [att man måste offra] och de har inte frågat om man gjorde de avsiktligen eller av misstag. Det som troligen är rätt är att det inte är en synd [att döda vilt, oavsiktligen eller i glömska] och det finns inget offer för den som glömde eller gjorde det på grund av glömska. Detta eftersom Allāh har sagt: ”*Den av er som [då] avsiktligen nedlägger vilt*.” [Koranen 5:95]
 

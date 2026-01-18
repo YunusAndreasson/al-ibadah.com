@@ -1,5 +1,5 @@
 ---
-title: Bygga en moské för allmosa
+title: Bygga moské med allmosa
 author: Ibn ´Abdullāh Ibn Bāz
 source: Fatāwa al-Mara Majmū' Fatāwā wa Maqālāt Mutanawwi'ah – volym 14, sida 294.
 categories:
@@ -24,7 +24,7 @@ description: 'Fråga: Är det tillåtet att använda allmosa för att avslutade 
 7. För Allāhs skull.
 8. Den resande som behöver hjälp.
 
-Frasen ”för Allāhs skull” innebär *djihād[^1]* specifikt.
+Frasen ”för Allāhs skull” innebär *djihād*[^1] specifikt.
 
 Detta är vad som är känt bland de lärde, och byggandet av en moské är inte omnämnt här. Ej heller nämns byggande av skolor, vägar eller liknande ting.
 

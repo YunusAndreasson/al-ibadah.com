@@ -13,7 +13,7 @@ export function ContentSection({ section }: ContentSectionProps) {
   return (
     <section className="mb-12">
       <header className="mb-5 flex items-baseline gap-3 flex-wrap">
-        <h2 className="text-sm font-semibold uppercase tracking-wide text-foreground/70">
+        <h2 className="section-label !mt-0 !mb-0">
           {section.titleSv}
         </h2>
         {section.isUpcoming && section.daysUntil !== undefined && (

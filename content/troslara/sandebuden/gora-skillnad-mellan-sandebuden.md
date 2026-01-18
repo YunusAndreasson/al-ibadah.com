@@ -17,7 +17,7 @@ description: 'Fråga: Hur han vi jämka samman Allāhs den Upphöjdes ord: ” N
 
 **Svar:** Allāhs Ord: ”*Några av dessa sändebud [om vilka Vi har berättat för dig] har Vi gett företräde framför andra*.” [Koranen 2:253] är som Hans ord: ”*Och Vi har givit några profeter företräde framför andra*.” [Koranen 17:55]
 
-Det råder ingen tvekan om att några av profeterna står över de andra. Budbärarna står över profeterna och *´ulul-'azm* står över de andra sändebuden. *´Ulul-'azm* är de fem sändebuden som Allāh den Upphöjde har nämnt i två Koran-verser. En av dem finns i sura al-Ahzab:
+Det råder ingen tvekan om att några av profeterna står över de andra. Budbärarna står över profeterna och *ulul-´azm* står över de andra sändebuden. *Ulul-´azm* är de fem sändebuden som Allāh den Upphöjde har nämnt i två Koran-verser. En av dem finns i sura al-Ahzab:
 
 > ”Och Vi har tagit löfte av profeterna – av dig [Muḥammad] och av Noa och Abraham och Moses och Jesus, Marias son – ja, Vi tog en högtidlig försäkran av dem.” [Koranen 33:7]
 

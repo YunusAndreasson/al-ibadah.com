@@ -1,5 +1,5 @@
 ---
-title: Vara i sällskap med dem som inte ber och de som hånar religionen
+title: Sällskap med dem som inte ber
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 381 s. ISBN saknas Muhammed Knut Bernström (1421),
@@ -25,7 +25,7 @@ Därför måste varje muslim älska för Allāhs skull och hata för Allāhs sku
 
 Denne bör tas till myndigheternas, om han bor i ett land där den islamiska lagen tillämpas, för att han ska kunna uppmanas att ångra sig. Ångrar han sig är allt frid och fröjd men om han inte gör det bör han avrättas [Övers. anm. OBS! Endast i ett muslimskt land]. Straffet för den som överger bönen och inte ångrar sig är döden. Allāh säger: ”*Men om de visar ånger och [villighet att] förrätta bönen och betala allmoseskatten, lämna dem då i fred – Gud är ständigt förlåtande, barmhärtig*.” [Koranen 9:5]
 
-Denna vers bevisar att den som överger bönen utan att ångra sig inte bör få vara fri, i stället bör han avrättas. Den korrekta åsikten är att han avrättas som en icke-troende, enligt de två tidigare *ahādīth[^1]* och andra utöver dem. Profeten – över honom vare Allāhs frid och välsignelser – har också sagt: ”*Jag har förbjudit att den som ber dödas*.” [*Abū Dawūd* 4928]
+Denna vers bevisar att den som överger bönen utan att ångra sig inte bör få vara fri, i stället bör han avrättas. Den korrekta åsikten är att han avrättas som en icke-troende, enligt de två tidigare *ahādīth*[^1] och andra utöver dem. Profeten – över honom vare Allāhs frid och välsignelser – har också sagt: ”*Jag har förbjudit att den som ber dödas*.” [*Abū Dawūd* 4928]
 
 Detta bevisar att den som inte ber får avrättas. Han måste avrättas om han inte ångrar sig. Detta kommer då att avhålla människor från att begå denna stora synd.
 

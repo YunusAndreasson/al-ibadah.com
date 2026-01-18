@@ -12,9 +12,9 @@ description: 'Fråga: Om imamen glömmer delar av en vers vid recitationen och d
  bönecykel eller bör han recitera en annan sura? ...'
 ---
 
-**Fråga:** Om imamen glömmer delar av en vers vid recitationen och det inte finns någon som kan rätta honom, bör han göra *takbīr[^1]* då och avsluta denna bönecykel[^2] eller bör han recitera en annan sura?
+**Fråga:** Om imamen glömmer delar av en vers vid recitationen och det inte finns någon som kan rätta honom, bör han göra *takbīr*[^1] då och avsluta denna bönecykel[^2] eller bör han recitera en annan sura?
 
-**Svar:** Det är upp till honom att välja. Vill han så kan han göra *takbīr[^1]* och avsluta denna bönecykel, eller om han föredrar, då kan han recitera en annan vers eller verser från en annan sura enligt vad profetens – över honom vare Allāhs frid och välsignelser – rena *sunnah[^3]* kräver av honom i bönen som han läser.
+**Svar:** Det är upp till honom att välja. Vill han så kan han göra *takbīr*[^1] och avsluta denna bönecykel, eller om han föredrar, då kan han recitera en annan vers eller verser från en annan sura enligt vad profetens – över honom vare Allāhs frid och välsignelser – rena *sunnah*[^3] kräver av honom i bönen som han läser.
 
 Detta gäller dock inte om misstaget sker i *al-Fātihah*. Här måste hela denna sura reciteras. Anledningen är att recitation av den är en av bönens pelare.
 

@@ -14,7 +14,7 @@ description: 'Fråga: Jag lider ofta av gas i magen. Jag lider ofta av gas i mag
 
 **Fråga:** Jag lider ofta av gas i magen. När jag tvagar mig blir jag till exempel osäker på om jag har släppt mig. Då gör jag om tvagningen[^1] en eller två gånger. Är detta naturligt och vilket är utlåtandet?
 
-**Svar:** Känslan att ha släppt sig under bönen drabbar somliga; ofta är det inte mer än inbillningar och inte äkta. Det sägs i en *hadīth[^2]*: ”*Man bör inte lämna bönen utom om man hör ett ljud eller känner en lukt*.” [*al-Bukhārī* 177 och *Muslim* 361]
+**Svar:** Känslan att ha släppt sig under bönen drabbar somliga; ofta är det inte mer än inbillningar och inte äkta. Det sägs i en *hadīth*[^2]: ”*Man bör inte lämna bönen utom om man hör ett ljud eller känner en lukt*.” [*al-Bukhārī* 177 och *Muslim* 361]
 
 [^1]: Wudū
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

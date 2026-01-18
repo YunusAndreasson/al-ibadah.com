@@ -14,7 +14,7 @@ description: 'Fråga: Brukade profeten lägga den högra handen på den vänstra
 
 **Fråga:** Brukade profeten lägga den högra handen på den vänstra?
 
-**Svar:** Det är *sunnah[^1]* att lägga den högra handen över den vänstra underarmen, handleden eller handen på bröstet vid recitationen, när man står upp samt när man har rest sig upp efter bugningen. Detta är Allāhs sändebuds vägledning och hans handlande.
+**Svar:** Det är *sunnah*[^1] att lägga den högra handen över den vänstra underarmen, handleden eller handen på bröstet vid recitationen, när man står upp samt när man har rest sig upp efter bugningen. Detta är Allāhs sändebuds vägledning och hans handlande.
 
 Må frid och välsignelser vara över vår profet Muḥammad, hans familj och följeslagare.
 

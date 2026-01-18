@@ -14,7 +14,7 @@ description: 'Fråga: När åkallar man för den avlidne? När kistan har sänkt
 
 **Fråga:** När åkallar[^1] man för den avlidne? När kistan har sänkts ned och man har kastat jord över den? Bör den som åkallar[^1] för den avlidne sitta eller stå? Vad är bäst?
 
-**Svar:** Det som är *sunnah[^2]* för den som vill åkalla för den avlidne – när denne har sänkts ned och jord har kastats över denne – är att åkalla ståendes. Grunden för detta är vad *Abū Dawūd* har återgivit med en kedja av återberättare från ‘Uthmān. Han [‘Uthmān] sade:
+**Svar:** Det som är *sunnah*[^2] för den som vill åkalla för den avlidne – när denne har sänkts ned och jord har kastats över denne – är att åkalla ståendes. Grunden för detta är vad *Abū Dawūd* har återgivit med en kedja av återberättare från ‘Uthmān. Han [‘Uthmān] sade:
 
 > ”När Allāhs sändebud begravde ett lik stod han över det och sade: 'Sök förlåtelse för er bror och be för att han ska få ståndaktighet. Sannerligen blir han utfrågad nu.'” [*Abū Dawūd* 3221 och *al-Hakim* 1:370]
 

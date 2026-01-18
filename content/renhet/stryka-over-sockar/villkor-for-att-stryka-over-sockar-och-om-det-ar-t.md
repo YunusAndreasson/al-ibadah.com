@@ -16,7 +16,7 @@ description: 'Fråga: Är strykandet över lädersockar jämförbart med att str
 
 **Svar:** Det är tillåtet att stryka över rena sockar som täcker hela foten. Detta grundas på vad som har rapporterats från ett flertal av profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – om att de strök över sockarna. Skillnaden mellan *jawarib* och *khifaf* är att den senare är gjort av läder och den första är gjord av bomull eller något liknande.
 
-Villkoren för att det ska vara tillåtet att stryka över sockarna eller lädersockarna är att de täcker hela foten, att de tas på under rituell renhet och att strykandet äger rum inom tre dagar och nätter för den som reser samt en dag och natt för den som är hemma. Detta enligt autentiska *ahādīth[^1]* om detta ämne.
+Villkoren för att det ska vara tillåtet att stryka över sockarna eller lädersockarna är att de täcker hela foten, att de tas på under rituell renhet och att strykandet äger rum inom tre dagar och nätter för den som reser samt en dag och natt för den som är hemma. Detta enligt autentiska *ahādīth*[^1] om detta ämne.
 
 Det är tillåtet att be i skor som är fria från smuts [som urin eller avföring]. Profeten – över honom vare Allāhs frid och välsignelser – bad i sina skor. [Återberättad i *al-Bukhārī* och *Muslim*]
 

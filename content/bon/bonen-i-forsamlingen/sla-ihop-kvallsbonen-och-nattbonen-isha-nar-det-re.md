@@ -12,7 +12,7 @@ description: 'Fråga: Efter att ha avslutat kvällsbönen ropade vi direkt ut iq
  jag imamen om denna bön. Han svarade att...'
 ---
 
-**Fråga:** Efter att ha avslutat kvällsbönen[^1] ropade vi direkt ut *iqāmah[^2]* för nattbönen[^3]. Anledningen var att det regnade något. När vi hade bett klart frågade jag imamen om denna bön. Han svarade att anledningen var att underlätta för oss på grund av regnet. Han sade att denna bön var giltig. Baserat på att det regnade och att de som bad inte fick reda på något, är denna bön då giltig?
+**Fråga:** Efter att ha avslutat kvällsbönen[^1] ropade vi direkt ut *iqāmah*[^2] för nattbönen[^3]. Anledningen var att det regnade något. När vi hade bett klart frågade jag imamen om denna bön. Han svarade att anledningen var att underlätta för oss på grund av regnet. Han sade att denna bön var giltig. Baserat på att det regnade och att de som bad inte fick reda på något, är denna bön då giltig?
 
 **Svar:** Att med anledning av ihållande regn som gör kläderna blöta och att det är natt, mörkt samt kallt ute, och det orsakar problem för muslimerna när vägarna blir hala och fulla av lera är det tillåtet att slå ihop böner.
 

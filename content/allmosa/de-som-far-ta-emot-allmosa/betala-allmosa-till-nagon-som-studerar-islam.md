@@ -1,5 +1,5 @@
 ---
-title: Betala allmosa till någon som studerar islam
+title: Allmosa till den som studerar islam
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. x s. ISBN 9960-892-66-2 Muhammed Knut Bernström
@@ -15,7 +15,7 @@ description: 'Fråga: Vilket är utlåtandet om att betala allmosa till den som 
 
 **Fråga:** Vilket är utlåtandet om att betala allmosa till den som studerar islam?
 
-**Svar:** Det är tillåtet att betala allmosa till den som studerar islam även om denne kan vara kapabel till egna förtjänster. Detta beror på att sökandet efter islamisk kunskap är en sorts *djīhad* för Allāhs skull. Han den Härlige, den Upphöjde har förkunnat att *djīhad* för Hans skull är något som förtjänar allmosor:
+**Svar:** Det är tillåtet att betala allmosa till den som studerar islam även om denne kan vara kapabel till egna förtjänster. Detta beror på att sökandet efter islamisk kunskap är en sorts *djihād* för Allāhs skull. Han den Härlige, den Upphöjde har förkunnat att *djihād* för Hans skull är något som förtjänar allmosor:
 
 > ”Offergåvorna är avsedda enbart för de fattiga och de nödställda och för dem som har hand om insamlandet av dem och för att vinna hjärtan [för tron] och för att friköpa människor ur fångenskap och slaveri och [för att äta] de skuldtyngdas [bördor] och för [kampen för] Guds sak och för vandringsmannen. Detta har Gud föreskrivit; Gud är allvetande, vis.” [Koranen 9:60]
 

@@ -16,7 +16,7 @@ description: 'Fråga: Om en man missade fredagsbönen medan han reste, bör han 
 
 **Svar:** Majoriteten av de lärde anser att den som missar bönen i församlingen vid fredagsbönen måste be den som middagsbönen[^2]. Om han är en resenär, som får förkorta bönen, då får han be två bönecykler[^1] med avsikten att den är middagsbönen[^2]. Han reciterar då tyst. Är han inte resande måste han be en fyra bönecykler[^1] lång bön med avsikten att det är middagsbönen[^2]. Han reciterar då tyst i denna bön. Vissa lärde håller dock inte med om detta men den korrekta åsikten är den som majoriteten har.
 
-Under profetens – över honom vare Allāhs frid och välsignelser – sista vallfärd stod han vid *Arafat[^3]* under en fredag och han ledde folket i middagsbönen[^2] men inte i fredagsbönen. Han beordrade heller inte de som bodde ute i öknen att be fredagsbönen.
+Under profetens – över honom vare Allāhs frid och välsignelser – sista vallfärd stod han vid *Arafat*[^3] under en fredag och han ledde folket i middagsbönen[^2] men inte i fredagsbönen. Han beordrade heller inte de som bodde ute i öknen att be fredagsbönen.
 
 Må frid och välsignelser vara över vår profet Muḥammad.
 

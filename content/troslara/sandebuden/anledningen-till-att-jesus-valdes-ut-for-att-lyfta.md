@@ -1,5 +1,5 @@
 ---
-title: Anledningen till att Jesus valdes ut för att lyftas upp till himlen
+title: Varför Jesus lyftes upp till himlen
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 307 s. ISBN saknas'

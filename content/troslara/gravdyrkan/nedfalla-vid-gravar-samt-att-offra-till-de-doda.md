@@ -15,7 +15,7 @@ description: 'Fråga: Vilket är utlåtandet om att nedfalla vid gravar samt att
 
 **Fråga:** Vilket är utlåtandet om att nedfalla vid gravar samt att offra till de som ligger begravda i dem?
 
-**Svar:** Att nedfalla vid gravar och att offra till dem är avgudadyrkan, okunnighet och större *shirk[^1]*. Detta är hängivelse som enbart får tillägnas Allāh. Den som tillägnar dem åt någon annan än Allāh är en månggudadyrkare[^2]. Allāh den Upphöjde säger:
+**Svar:** Att nedfalla vid gravar och att offra till dem är avgudadyrkan, okunnighet och större *shirk*[^1]. Detta är hängivelse som enbart får tillägnas Allāh. Den som tillägnar dem åt någon annan än Allāh är en månggudadyrkare[^2]. Allāh den Upphöjde säger:
 
 > ”Säg: 'Min bön och all min andakt, mitt liv och min död tillhör Gud, världarnas Herre. Han som inte har någon vid Sin sida; till detta har jag kallats och jag är den förste av dem som har underkastat sig Guds vilja.” [Koranen 6:162 – 163]
 >
@@ -24,11 +24,11 @@ description: 'Fråga: Vilket är utlåtandet om att nedfalla vid gravar samt att
 >
 > ”Vi har sannerligen gett dig det goda i överflöd! Be därför till din Herre och förrätta [ditt] offer!” [Koranen 108:1 – 2]
 
-Det finns andra verser som visar att nedfallan och offer är dyrkan och att tillägna dem åt någon annan än Allāh är *shirk[^1]*.
+Det finns andra verser som visar att nedfallan och offer är dyrkan och att tillägna dem åt någon annan än Allāh är *shirk*[^1].
 
 Det råder ingen tvekan om att besök vid gravar för att nedfalla och offra till de döda som har begravts i dem innebär att man visar vördnad för dem genom att göra detta.
 
-Imam *Muslim* har återgivit en lång *hadīth[^3]* med titeln ”Förbudet mot att offra till någon annan än Allāh, och att förbanna dem som gör så”. ´Alī bin Abi Tālib sade:
+Imam *Muslim* har återgivit en lång *hadīth*[^3] med titeln ”Förbudet mot att offra till någon annan än Allāh, och att förbanna dem som gör så”. ´Alī bin Abi Tālib sade:
 
 > 'Allāhs sändebud lärde mig följande: ”Allāh förbannar den som offrar till andra än Honom, Allāh förbannar den som förbannar sina egna föräldrar, Allāh förbannar den som hyser en innovatör, och Allāh förbannar dem som ändrar ett landmärke.” [*Muslim* 1978 och *an-Nasā’i* 4427]
 

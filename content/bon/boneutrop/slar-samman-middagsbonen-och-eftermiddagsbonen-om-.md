@@ -13,11 +13,11 @@ description: 'Fråga: Om någon slår ihop middagsbönen[^1] och eftermiddagsbö
  och en av dem, vilket har rapporterats i en ...'
 ---
 
-**Fråga:** Om någon slår ihop middagsbönen[^1] och eftermiddagsbönen[^2], finns det då en *iqāmah[^3]* för var och en av dem?
+**Fråga:** Om någon slår ihop middagsbönen[^1] och eftermiddagsbönen[^2], finns det då en *iqāmah*[^3] för var och en av dem?
 
-**Svar:** Det finns en *iqāmah[^3]* för var och en av dem, vilket har rapporterats i en *hadīth[^4]* från Jabir i vilken han beskriver profetens – över honom vare Allāhs frid och välsignelser – pilgrimsfärd. Han nämner att profeten – över honom vare Allāhs frid och välsignelser – slog ihop bönerna i *Muzdalifah[^5]*:
+**Svar:** Det finns en *iqāmah*[^3] för var och en av dem, vilket har rapporterats i en *hadīth*[^4] från Jabir i vilken han beskriver profetens – över honom vare Allāhs frid och välsignelser – pilgrimsfärd. Han nämner att profeten – över honom vare Allāhs frid och välsignelser – slog ihop bönerna i *Muzdalifah*[^5]:
 
-> ”Han ropade ut *iqāmah[^3]* och han bad kvällsbönen[^6] och sedan ropade han ut *iqāmah[^3]* och bad nattbönen[^7] och han gjorde inte *tasbih[^8]* mellan dem." [*al-Bukhārī*]
+> ”Han ropade ut *iqāmah*[^3] och han bad kvällsbönen[^6] och sedan ropade han ut *iqāmah*[^3] och bad nattbönen[^7] och han gjorde inte *tasbih*[^8] mellan dem." [*al-Bukhārī*]
 
 De frivilliga bönerna finns det inget böneutrop för.
 

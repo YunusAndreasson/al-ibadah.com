@@ -192,6 +192,22 @@ body {
   text-wrap: balance;
 }
 
+/* Section label style - for about page and similar */
+.section-label {
+  font-family: var(--font-sans);
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  opacity: 0.7;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.section-label:first-child {
+  margin-top: 0;
+}
+
 .prose-reading a {
   text-decoration: underline;
   text-decoration-thickness: 1px;
@@ -283,12 +299,6 @@ body {
 }
 
 /* Arabic text */
-.arabic {
-  font-family: var(--font-arabic);
-  direction: rtl;
-  text-align: right;
-}
-
 .font-arabic {
   font-family: var(--font-arabic);
 }
@@ -472,10 +482,6 @@ body {
 .border-border { border-color: var(--color-border); }
 
 /* Interactive hover states */
-.hover-text:hover {
-  color: var(--color-foreground);
-}
-
 .hover-bg:hover {
   background-color: var(--color-muted);
 }

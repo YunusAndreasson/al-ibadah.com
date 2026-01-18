@@ -1,5 +1,5 @@
 ---
-title: Ta parfym på händerna, ansiktet, kroppen och kläderna
+title: Parfym på händerna, ansiktet och kroppen
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa Ramadan – Volym 2, sida 500, fatwa 455
 categories:

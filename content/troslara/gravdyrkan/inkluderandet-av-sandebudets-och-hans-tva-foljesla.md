@@ -28,13 +28,13 @@ Jundub bin Abdullāh al-Bajali har sagt:
 
 *Muslim* har återgivit att Jabir har rapporterat att profeten – över honom vare Allāhs frid och välsignelser – förbjöd resning av gravar, att man sitter på dem eller bygger kammare över dem. [*Muslim* 970] Dessa autentiska traditioner understryker förbudet mot att använda gravar som moskéer. De som gör så är förbannade.
 
-Dessa *ahādīth[^1]* påvisar även att det är förbjudet att bygga statyer eller kupoler över gravar […] Att göra så anses vara ett medel för *shirk[^2]* samt ett sätt att dyrka den i graven i stället för Allāh.
+Dessa *ahādīth*[^1] påvisar även att det är förbjudet att bygga statyer eller kupoler över gravar […] Att göra så anses vara ett medel för *shirk*[^2] samt ett sätt att dyrka den i graven i stället för Allāh.
 
-Detta har inträffat både förr och nu. Oberoende av var muslimer befinner sig måste de vara medvetna om att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit att gravar konstrueras, att man bygger kupoler över dem, att man murar dem eller lyser upp dem samt andra saker som han har förbjudit. De ska inte låta sig luras av vad den stora massan gör, den troende måste alltid söka sanningen och hålla sig till den var han än finner den. Sanningen kan kännas igen genom bevis från Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^3]*, inte genom människors handlande eller åsikter.
+Detta har inträffat både förr och nu. Oberoende av var muslimer befinner sig måste de vara medvetna om att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit att gravar konstrueras, att man bygger kupoler över dem, att man murar dem eller lyser upp dem samt andra saker som han har förbjudit. De ska inte låta sig luras av vad den stora massan gör, den troende måste alltid söka sanningen och hålla sig till den var han än finner den. Sanningen kan kännas igen genom bevis från Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^3], inte genom människors handlande eller åsikter.
 
 Varken Allāhs sändebud – över honom vare Allāhs frid och välsignelser – eller hans båda följeslagare begravdes inuti moskén [utan i stället] begravdes de i ‘Ā’ishāh – må Allāh vara nöjd med henne – kammare. Men när moskén byggdes ut under al-Walīd bin Abdul-Māliks tid inkluderas kammaren i moskén. Detta ska inte jämföras med att inkludera en grav i moskén därför att varken profeten – över honom vare Allāhs frid och välsignelser – eller hans båda följeslagare flyttades in i moskén. Det var endast kammaren i vilken de begravts som inkluderades i moskén på grund av expansionen.
 
-Därmed bör inte detta användas som bevis eller argument för att tillåta byggen över gravar eller att moskéer byggs och människor begravs i dem. Detta har förbjudits enligt de *ahādīth[^1]* som har nämnts ovan. Vad al-Walīd gjorde är inte ett argument som kan användas mot Allāhs sändebuds *sunnah[^3]*.
+Därmed bör inte detta användas som bevis eller argument för att tillåta byggen över gravar eller att moskéer byggs och människor begravs i dem. Detta har förbjudits enligt de *ahādīth*[^1] som har nämnts ovan. Vad al-Walīd gjorde är inte ett argument som kan användas mot Allāhs sändebuds *sunnah*[^3].
 
 Det är Allāh som ger framgång.
 

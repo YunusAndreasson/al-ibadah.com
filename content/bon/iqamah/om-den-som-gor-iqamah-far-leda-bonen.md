@@ -12,7 +12,7 @@ description: 'Fråga: Får böneutroparen leda tjänarna i bön när han har rop
  har mer kunskap om recitation än de ...'
 ---
 
-**Fråga:** Får böneutroparen leda tjänarna i bön när han har ropat ut *iqāmah[^1]*?
+**Fråga:** Får böneutroparen leda tjänarna i bön när han har ropat ut *iqāmah*[^1]?
 
 **Svar:** Ja, det är tillåtet att vara både böneutropare och imam. Om böneutroparen har mer kunskap om recitation än de andra, då bör han leda församlingen. På samma sätt är det om den vanliga imamen är frånvarande och han utser honom till att ta hans plats, precis som han får vara anställd som vanlig imam.
 

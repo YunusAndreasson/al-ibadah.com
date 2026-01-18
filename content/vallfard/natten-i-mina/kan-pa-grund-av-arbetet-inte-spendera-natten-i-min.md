@@ -1,5 +1,5 @@
 ---
-title: Kan på grund av arbetet inte spendera natten i Mina
+title: Arbete hindrar vistelse i Mina
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 233 s. ISBN saknas'

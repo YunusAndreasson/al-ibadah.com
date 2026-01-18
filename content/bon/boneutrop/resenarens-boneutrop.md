@@ -14,7 +14,7 @@ description: 'Fråga: Vilket är utlåtandet om böneutrop för resenärer? Svar
 
 **Fråga:** Vilket är utlåtandet om böneutrop för resenärer?
 
-**Svar:** De lärde olika åsikter. Den korrekta åsikten är att böneutrop är obligatorisk för resenärer. Detta beror på vad profeten – över honom vare Allāhs frid och välsignelser – sade till Mālik bin al-Huwairith och hans följeslagare: ”*Om tiden för bönen kommer bör en av er ropa till bön*.” [*al-Bukhārī* och *Muslim*] De var en delegation som kom för att besöka profeten – över honom vare Allāhs frid och välsignelser – och de reste för att återvända till deras familjer. Profeten – över honom vare Allāhs frid och välsignelser – övergav heller aldrig böneutropet eller *iqāmah[^1]*, varken när han var hemma eller när han reste. Han brukade ropa till bön när han reste och detta var även något som han beordrade Bilal att göra.
+**Svar:** De lärde olika åsikter. Den korrekta åsikten är att böneutrop är obligatorisk för resenärer. Detta beror på vad profeten – över honom vare Allāhs frid och välsignelser – sade till Mālik bin al-Huwairith och hans följeslagare: ”*Om tiden för bönen kommer bör en av er ropa till bön*.” [*al-Bukhārī* och *Muslim*] De var en delegation som kom för att besöka profeten – över honom vare Allāhs frid och välsignelser – och de reste för att återvända till deras familjer. Profeten – över honom vare Allāhs frid och välsignelser – övergav heller aldrig böneutropet eller *iqāmah*[^1], varken när han var hemma eller när han reste. Han brukade ropa till bön när han reste och detta var även något som han beordrade Bilal att göra.
 
 [^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 

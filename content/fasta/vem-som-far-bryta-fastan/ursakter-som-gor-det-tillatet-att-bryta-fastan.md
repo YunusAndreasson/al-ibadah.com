@@ -26,9 +26,9 @@ Därför stöder vi den starkaste åsikten, vilken är att om en sjukling tillfr
 
 Detta beror på att alla de [uppräknade] har brutit fastan av en giltig anledning. Under dagen i fråga fanns det ingen skyldighet för dem att fasta eftersom fastan då kunde brytas, därför behöver de inte fasta.
 
-Detta står i motsats till det fall i vilket det bekräftas att *ramadan[^2]* har börjat under dagen. I detta fall är det nödvändigt att fasta. Skillnaden mellan dessa båda fall är tydlig. Om bevisen finns där under dagen [för att *ramadan[^2]* har börjat], då har det bekräftats att fastan är en skyldighet under den dagen. Eftersom de inte visste ursäktas de för den tid som har hunnit gå. Detta är anledningen till att om de visste att denna dag var *ramadan[^2]*, då måste de fasta.
+Detta står i motsats till det fall i vilket det bekräftas att *ramadan*[^2] har börjat under dagen. I detta fall är det nödvändigt att fasta. Skillnaden mellan dessa båda fall är tydlig. Om bevisen finns där under dagen [för att *ramadan*[^2] har börjat], då har det bekräftats att fastan är en skyldighet under den dagen. Eftersom de inte visste ursäktas de för den tid som har hunnit gå. Detta är anledningen till att om de visste att denna dag var *ramadan*[^2], då måste de fasta.
 
-Men när det gäller dem som har beskrivits så får de bryta deras fasta även om de känner till [att det är *ramadan[^2]*] och bevisen är tydliga för dem.
+Men när det gäller dem som har beskrivits så får de bryta deras fasta även om de känner till [att det är *ramadan*[^2]] och bevisen är tydliga för dem.
 
 [^1]: Kämpa för Allāhs sak.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.

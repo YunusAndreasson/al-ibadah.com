@@ -1,5 +1,5 @@
 ---
-title: Släktingar
+title: Allmosa till släktingar
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa al-shaykh Muḥammad al-Sālih al-‘Uthaymīn, 1/461
 categories:

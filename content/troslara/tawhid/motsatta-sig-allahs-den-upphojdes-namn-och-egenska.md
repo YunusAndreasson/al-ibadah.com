@@ -1,5 +1,5 @@
 ---
-title: Motsätta sig Allāhs namn och egenskaper
+title: Att motsätta sig Allāhs namn och egenskaper
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 140 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
@@ -17,7 +17,7 @@ description: 'Fråga: Vilket är utlåtandet om att motsätta sig Allāhs den Up
 
 **Svar:** Avvisandet är av två olika typer:
 
-1. Motsättande i form av förnekelse. Detta är utan tvekan otro. Om man förnekar ett namn eller en egenskap som är Allāhs och som bekräftas i Koranen eller [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah[^1]* – som om man säger: ”Allāh har inte en hand” – då är man en icke-troende. Detta är vad samtliga muslimer anser och det beror på att förnekandet av något som Allāh och Hans sändebud har informerat oss om är en handling som innebär otro som tar en ur islam.
+1. Motsättande i form av förnekelse. Detta är utan tvekan otro. Om man förnekar ett namn eller en egenskap som är Allāhs och som bekräftas i Koranen eller [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah*[^1] – som om man säger: ”Allāh har inte en hand” – då är man en icke-troende. Detta är vad samtliga muslimer anser och det beror på att förnekandet av något som Allāh och Hans sändebud har informerat oss om är en handling som innebär otro som tar en ur islam.
 2. Förnekelse genom *ta’wil*. Här förnekar man inte men man ger en viss tolkning. Detta delas i två kategorier:
 
 Första: Denna tolkning är rimlig enligt det arabiska språket och utgör inte otro.

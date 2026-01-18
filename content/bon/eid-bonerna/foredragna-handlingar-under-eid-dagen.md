@@ -16,7 +16,7 @@ description: 'Fråga: Vilka handlingar är att föredra under ‘eid -dagen? Sva
 
 **Svar:** Under *‘eid*-dagen uppvisar muslimerna glädje efter att ha avslutat fastan, nattbönen och all obligatorisk dyrkan. Detta är en av de förnämsta välsignelserna som Allāh har skänkt till Sina tjänare.
 
-Först och främst bör de göra *takbīr[^1]* under *‘eid*-kvällen och *‘eid*-dagen [innan bönen]. När det första ljuset nalkas går de ut för att utföra denna speciella dyrkan som *‘eid*-bönen är. Detta sker på ett speciellt sätt när män och kvinnor går till en plats utanför staden. Likaså äldre och damer i undangömdhet följer med för att få bevittna godhet och muslimers åkallan[^2]. I en *hadīth[^3]* nämns att de bör återvända fyllda med glädje över denna stora välsignelse samt att de bör utbyta hälsningar, gratulera och besöka varandra. De bör även äta lite frukost som ett tecken på att fastan är över.
+Först och främst bör de göra *takbīr*[^1] under *‘eid*-kvällen och *‘eid*-dagen [innan bönen]. När det första ljuset nalkas går de ut för att utföra denna speciella dyrkan som *‘eid*-bönen är. Detta sker på ett speciellt sätt när män och kvinnor går till en plats utanför staden. Likaså äldre och damer i undangömdhet följer med för att få bevittna godhet och muslimers åkallan[^2]. I en *hadīth*[^3] nämns att de bör återvända fyllda med glädje över denna stora välsignelse samt att de bör utbyta hälsningar, gratulera och besöka varandra. De bör även äta lite frukost som ett tecken på att fastan är över.
 
 [^1]: Att säga Allahu Akbar.
 [^2]: Du´ā

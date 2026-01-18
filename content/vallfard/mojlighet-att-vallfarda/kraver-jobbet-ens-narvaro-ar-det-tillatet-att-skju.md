@@ -1,5 +1,5 @@
 ---
-title: Kräver jobbet ens närvaro är det tillåtet att skjuta upp vallfärden
+title: Att skjuta upp vallfärden vid jobbkrav
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 58 s. ISBN saknas'

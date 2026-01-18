@@ -1,6 +1,5 @@
 ---
-title: Att svära vid någonting annat än Allāh såsom sin far eller en ledare, eller
- sin ära och status
+title: Svära vid annat än Allah
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah al-Dā’imah, 1/231
 categories:
@@ -16,7 +15,7 @@ description: 'Fråga: I scoutlöftet säger man: ”Jag svär vid min ära att j
 
 **Svar:** All lovprisan tillhör Allāh.
 
-För det första. Det är förbjudet att svära vid någonting annat än Allāh vare sig det är ens far eller en ledare, eller ens ära och status och så vidare. Anledningen är att det har bevisats att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som svär en ed, låt denne svära vid Allāh eller annars hålla tyst*.” Och han har sagt: ”*Den som svär en ed, låt denne inte svära vid något annat än Allāh*.” Återberättat av an-Nasā´i. Och han har sagt: ”*Den som svär en ed vid någonting annat än Allāh har begått *shirk[^1]*."
+För det första. Det är förbjudet att svära vid någonting annat än Allāh vare sig det är ens far eller en ledare, eller ens ära och status och så vidare. Anledningen är att det har bevisats att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som svär en ed, låt denne svära vid Allāh eller annars hålla tyst*.” Och han har sagt: ”*Den som svär en ed, låt denne inte svära vid något annat än Allāh*.” Återberättat av an-Nasā´i. Och han har sagt: "*Den som svär en ed vid någonting annat än Allāh har begått shirk.*"[^1]
 
 För det andra. En muslim ska inte anse någonting som jämlikt med Allāh såsom dennes hemland, kung eller ledare då denne svär att arbeta för dem. I stället borde denne säga: ”*Jag lovar Allāh att jag ska göra mitt bästa för att göra min plikt för Allāh, därefter ska jag tjäna mitt land och hjälpa muslimerna. Jag kommer att följa de regler som scouterna har, så långt de inte går emot Allāhs lag*.”
 

@@ -19,7 +19,7 @@ Vilket är det islamiska utlåtandet om välgörenheten som de samlar in och del
 
 > ”Den som använder Koranen för att tjäna sitt levebröd kommer på Återuppståndelsens Dag att infinna sig med ett benigt ansikte [inget kött i det].”
 
-Är denna *hadīth[^1]* autentisk? Och vilken är innebörden av följande vers:
+Är denna *hadīth*[^1] autentisk? Och vilken är innebörden av följande vers:
 
 > ”Säg [Muḥammad:] ¨Jag begär ingen lön av er för detta [budskap] och jag är inte en av dem som ger sig ut för att vara vad de inte är.” [Koranen 38:86]
 
@@ -31,11 +31,11 @@ Profeten – över honom vare Allāhs frid och välsignelser – har beordrat de
 
 > ”Jag hörde profeten – över honom vare Allāhs frid och välsignelser – säga: ’Den som reciterar Koranen bör be Allāh genom den, för det kommer att komma ett folk som reciterar Koranen och sedan ber människor om pengar [för det].” [*at-Tirmithi* 2917 och *Ahmad* 4:432]
 
-Enligt autentiska *hadither* är det inte tillåtet att ta betalt för att lära ut eller läsa för sjuka […] En *hadīth[^1]* om detta är den från Abū Sa’id när han tog emot en flock får för att läka någon genom att recitera sura *al-Fātihah*. En annan *hadīth[^1]* är den från Sahl om när profeten – över honom vare Allāhs frid och välsignelser – gifte en man med en kvinna och ansåg att hennes brudgåva var att mannen lärde henne de suror i Koranen som han hade memorerat.
+Enligt autentiska *hadither* är det inte tillåtet att ta betalt för att lära ut eller läsa för sjuka […] En *hadīth*[^1] om detta är den från Abū Sa’id när han tog emot en flock får för att läka någon genom att recitera sura *al-Fātihah*. En annan *hadīth*[^1] är den från Sahl om när profeten – över honom vare Allāhs frid och välsignelser – gifte en man med en kvinna och ansåg att hennes brudgåva var att mannen lärde henne de suror i Koranen som han hade memorerat.
 
 Därför motsätter sig den som tar betalt för att läsa Koranen samt den som hyr någon för att göra det konsensus hos de rättfärdiga föregångarna, må Allāh ge dem nåd.
 
-Koranen är Allāhs tal, dess överlägsenhet över det mänskliga talet är som Allāhs överlägsenhet över Hans skapelser. Det är den bästa formen av åminnelse[^2]. Den som reciterar den måste göra det på rätt sätt; att läsa tyst, begrunda innebörden och inte störa dem som lyssnar. Allāh den Upphöjde säger:
+Koranen är Allāhs tal, dess överlägsenhet över det mänskliga talet är som Allāhs överlägsenhet över Hans skapelser. Det är den bästa formen av *åminnelse*[^2]. Den som reciterar den måste göra det på rätt sätt; att läsa tyst, begrunda innebörden och inte störa dem som lyssnar. Allāh den Upphöjde säger:
 
 > ”Lyssna därför uppmärksamt när högläsning ur Koranen pågår – kanske kommer [Gud] att visa er barmhärtighet. Och – [du som är troende] – åkalla i tysthet din Herre morgon och afton, ödmjukt och med fruktan. Och var inte [som] de tanklösa, de likgiltiga.” [7:204-205]
 
@@ -71,7 +71,7 @@ Abū Hurairah har berättat att profeten – över honom vare Allāhs frid och v
 
 Den som tigger med Koranen som hjälp gäller *hadithen* från 'Imrān bin Husain för, om denne är fattig. Men om denne är rik, då gäller alla hotelser i den ovan nämnda *hadithen*.
 
-Den *hadīth[^1]* som du citerade i din fråga känner vi inte till äktheten i.
+Den *hadīth*[^1] som du citerade i din fråga känner vi inte till äktheten i.
 
 Och Allāh vet bäst.
 

@@ -13,17 +13,17 @@ description: 'Fråga: Vilket är utlåtandet om den som inte kan utföra sa’ī
  honom? Vilket är utlåtandet om han åte...'
 ---
 
-**Fråga:** Vilket är utlåtandet om den som inte kan utföra *sa’ī[^1]* under vallfärden eller *‘umrah[^2]*? Kan han utse en representant som utför *sa’ī[^1]* eller *tawāf[^3]* åt honom? Vilket är utlåtandet om han återhämtar sig [från sjukdomen eller oförmågan] när vallfärdstiden är över?
+**Fråga:** Vilket är utlåtandet om den som inte kan utföra *sa’ī*[^1] under vallfärden eller *‘umrah*[^2]? Kan han utse en representant som utför *sa’ī*[^1] eller *tawāf*[^3] åt honom? Vilket är utlåtandet om han återhämtar sig [från sjukdomen eller oförmågan] när vallfärdstiden är över?
 
-**Svar:** Det är inte rätt att utse någon annan som utför *tawāf[^3]* eller *sa’ī[^1]* åt en. I stället måste man själv utföra *tawāf[^3]* och *sa’ī[^1]*, även om man bärs på en bädd eller vagn.
+**Svar:** Det är inte rätt att utse någon annan som utför *tawāf*[^3] eller *sa’ī*[^1] åt en. I stället måste man själv utföra *tawāf*[^3] och *sa’ī*[^1], även om man bärs på en bädd eller vagn.
 
-Om man inte ens kan göra det [på grund av sjukdom], då stannar man kvar i sin *ihrām[^4]* tills man botats, även om det sker efter flera månader och man förväntas bli bättre. Det är inte tillåtet att man bryter *ihrām[^4]*. Den har ju inte blivit ogiltig genom något som gör den ogiltig.
+Om man inte ens kan göra det [på grund av sjukdom], då stannar man kvar i sin *ihrām*[^4] tills man botats, även om det sker efter flera månader och man förväntas bli bättre. Det är inte tillåtet att man bryter *ihrām*[^4]. Den har ju inte blivit ogiltig genom något som gör den ogiltig.
 
-Har han förlorat hoppet om att sjukdomen ska gå över, då är han likt den som hindrats [från att fullfölja vallfärden eller *‘umrah[^2]*]. Han slaktar då ett får och ger det till de fattiga vid Helgedomen. Därmed träder han ur *ihrām[^4]*. Anledningen är att Allāh har sagt:
+Har han förlorat hoppet om att sjukdomen ska gå över, då är han likt den som hindrats [från att fullfölja vallfärden eller *‘umrah*[^2]]. Han slaktar då ett får och ger det till de fattiga vid Helgedomen. Därmed träder han ur *ihrām*[^4]. Anledningen är att Allāh har sagt:
 
 > ”Men om omständigheterna hindrar er [att fullfölja den], ge då vad ni har möjlighet att ge som offergåva.” [Koranen 2:196]
 
-Om han inte kan betala priset för ett får [att få det slaktat], då fastar han tio dagar och avlägsnar sedan sin *ihrām[^4]*. Om han blir sjuk innan *Arafat[^5]* och han missar att stå [vid *Arafat[^5]*], då har han missat vallfärden och han måste komma ut ur *ihrām[^4]* med endast en *´umrah[^2]*.
+Om han inte kan betala priset för ett får [att få det slaktat], då fastar han tio dagar och avlägsnar sedan sin *ihrām*[^4]. Om han blir sjuk innan *Arafat*[^5] och han missar att stå [vid *Arafat*[^5]], då har han missat vallfärden och han måste komma ut ur *ihrām*[^4] med endast en *´umrah*[^2].
 
 Och Allāh vet bäst.
 

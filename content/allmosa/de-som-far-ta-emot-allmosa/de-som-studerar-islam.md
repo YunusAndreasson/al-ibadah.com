@@ -1,5 +1,5 @@
 ---
-title: De som studerar islam
+title: Allmosa till de som studerar islam
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah ad-Dā’imah, 10/17
 categories:

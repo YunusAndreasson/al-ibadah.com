@@ -13,7 +13,7 @@ description: 'Fråga: Jag är en kvinna som är sjuk och det var några dagar un
  grund av min sjukdom. Vilken är då gottgörel...'
 ---
 
-**Fråga:** Jag är en kvinna som är sjuk och det var några dagar under förra *ramadan[^1]* som jag inte fastade. Jag har inte möjlighet att ta igen dessa dagar på grund av min sjukdom. Vilken är då gottgörelsen för detta? Likaså kommer jag inte att ha möjlighet att fasta under *ramadan[^1]* detta år. Hur gottgör jag mig då för det? Må Allāh belöna er med det goda.
+**Fråga:** Jag är en kvinna som är sjuk och det var några dagar under förra *ramadan*[^1] som jag inte fastade. Jag har inte möjlighet att ta igen dessa dagar på grund av min sjukdom. Vilken är då gottgörelsen för detta? Likaså kommer jag inte att ha möjlighet att fasta under *ramadan*[^1] detta år. Hur gottgör jag mig då för det? Må Allāh belöna er med det goda.
 
 **Svar:** För den sjuke, som fastan är för svår för, är det föreskrivet att bryta den och när Allāh botar honom ta igen det som denne är skyldig att ta igen. Detta beror på att Allāh har sagt:
 

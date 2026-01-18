@@ -1,6 +1,5 @@
 ---
-title: Dyrkar gravar genom att göra tawāf runt dem, åkallar de som är begravda i dem,
- svära eder vid dem och liknande
+title: Dyrka gravar
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 244 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
@@ -14,7 +13,7 @@ description: 'Fråga: Vilket är utlåtandet om någon som dyrkar gravar genom a
  fråga är mycket vik...'
 ---
 
-**Fråga:** Vilket är utlåtandet om någon som dyrkar gravar genom att göra *tawāf[^1]* runt dem, åkalla dem som har begravts i dem, svär eder vid dem och liknande saker?
+**Fråga:** Vilket är utlåtandet om någon som dyrkar gravar genom att göra *tawāf*[^1] runt dem, åkalla dem som har begravts i dem, svär eder vid dem och liknande saker?
 
 **Svar:** Denna fråga är mycket viktig och den kräver med Allāhs den Allsmäktiges hjälp ett detaljerat svar. Vi säger att de som har begravts är av två kategorier:
 
@@ -43,7 +42,7 @@ Jag råder även dem att inte följa någon annan i religiösa frågor än Allā
 >
 > ”Säg [Muḥammad]: ’Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
 
-Muslimer måste noga studera dem som påstår sig vara *awliyā'* med Koranen och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah[^4]* som måttstock. Om det som sker är enligt Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah[^4]* finns det hopp om att denne är en av Allāhs *awliyā'*. Men om det [som sker] motsäger sig Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah[^4]* är denne inte en av Allāhs *awliyā'*. I Sin skrift har Allāh nämnt en rättvis metod som *awliyā'* kan kännas igen genom när Han säger:
+Muslimer måste noga studera dem som påstår sig vara *awliyā'* med Koranen och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah*[^4] som måttstock. Om det som sker är enligt Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah*[^4] finns det hopp om att denne är en av Allāhs *awliyā'*. Men om det [som sker] motsäger sig Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah*[^4] är denne inte en av Allāhs *awliyā'*. I Sin skrift har Allāh nämnt en rättvis metod som *awliyā'* kan kännas igen genom när Han säger:
 
 > ”Helt visst ska de som är nära Gud aldrig känna fruktan och ingen sorg ska tynga dem, de som tror och ständigt har Honom för ögonen.” [Koranen 10:62 – 63]
 
@@ -71,7 +70,7 @@ Ser du inte hur Allāh förbjöd sabbatsfolket att fånga fisk under sabbaten? A
 
 Se hur Allāh gjorde det lätt för dem att fiska den dag som det var förbjudet men de – må Allāh skydda oss – var inte tålmodiga och därmed fullbordade de denna strategi för att ta sig förbi Allāhs förbud.
 
-Se sedan vad som hände profetens – över honom vare Allāhs frid och välsignelser – följeslagare. Allāh den Upphöjde prövade dem när de inte fick jaga eftersom de befann sig i *ihrām[^5]*. Villebråd fanns dock tillgängligt men de vågade inte jaga. Allāh den Upphöjde säger:
+Se sedan vad som hände profetens – över honom vare Allāhs frid och välsignelser – följeslagare. Allāh den Upphöjde prövade dem när de inte fick jaga eftersom de befann sig i *ihrām*[^5]. Villebråd fanns dock tillgängligt men de vågade inte jaga. Allāh den Upphöjde säger:
 
 > ”Troende! Gud ska sätta er på prov genom den vilt som ni under jakt kan fånga med era händer och fälla med era spjut, så att [ni får visa] Gud vem som fruktar Honom, trots att Han inte kan ses eller förnimmas. Den som hädanefter bryter mot [detta påbud] har ett plågsamt straff att vänta.” [Koranen 5:94]
 

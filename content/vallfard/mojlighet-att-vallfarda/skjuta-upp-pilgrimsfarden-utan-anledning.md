@@ -21,11 +21,11 @@ description: 'Fråga: Vilket är utlåtandet om den som utan anledning skjuter u
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> “Islam är byggt på fem pelare: vittnesmålet om att det inte finns någon gud utom Allāh och att Muḥammad är Allāhs sändebud; förrättandet av den obligatoriska bönen; betalning av allmosa; fastan under *ramadan[^1]* och pilgrimsfärden till Huset [Ka’bah].” [*al-Bukhārī* 8 och *Muslim* 16]
+> "Islam är byggt på fem pelare: vittnesmålet om att det inte finns någon gud utom Allāh och att Muḥammad är Allāhs sändebud; förrättandet av den obligatoriska bönen; betalning av allmosa; fastan under *ramadan*[^1] och pilgrimsfärden till Huset [Ka'bah]." [*al-Bukhārī* 8 och *Muslim* 16]
 
 När [ängeln] Gabriel frågade profeten – över honom vare Allāhs frid och välsignelser – om islam så sade han:
 
-> “Det innebär att man vittnar om att det inte finns någon gud utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av den obligatoriska bönen, betalning av allmosa, fasta under *ramadan[^1]* och vallfärda om du har medlen till det.” [*Muslim* 8 i en *hadīth[^2]* från ´Umar ibn al-Khattāb]
+> "Det innebär att man vittnar om att det inte finns någon gud utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av den obligatoriska bönen, betalning av allmosa, fasta under *ramadan*[^1] och vallfärda om du har medlen till det." [*Muslim* 8 i en *hadīth*[^2] från 'Umar ibn al-Khattāb]
 
 Och Allāh är källan till all styrka.
 

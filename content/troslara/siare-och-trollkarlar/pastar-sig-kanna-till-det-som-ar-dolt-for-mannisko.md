@@ -1,5 +1,5 @@
 ---
-title: Påstår sig känna till det som är dolt för människor
+title: Påstår sig känna till det dolda
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 222 s. ISBN saknas Muhammed Knut Bernström (1421),

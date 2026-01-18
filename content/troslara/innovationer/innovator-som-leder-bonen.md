@@ -14,9 +14,9 @@ description: 'Fråga: Är bön bakom en innovatör eller någon som låter kläd
 
 **Fråga:** Är bön bakom en innovatör eller någon som låter klädesplagget falla nedanför vristen giltig?
 
-**Svar:** Ja, bönen är giltig så länge innovationen inte leder till ptro. Om innovationen leder till otro, som för al-Jahmni [En kättersk filosofi döpt efter dess grundare Jahm bin Safwan] och liknande, vars innovation tar dem ur islam – då är bön bakom dem inte giltig. Myndigheterna måste välja en imam som är fri från synd och av god karaktär. Att vara imam är ett stort ansvar och den som tar detta ansvar blir en förebild för muslimer. Därför får inte innovatörer eller syndare ta detta ansvar när det är möjligt att utse någon annan.
+**Svar:** Ja, bönen är giltig så länge innovationen inte leder till otro. Om innovationen leder till otro, som för al-Jahmni [En kättersk filosofi döpt efter dess grundare Jahm bin Safwan] och liknande, vars innovation tar dem ur islam – då är bön bakom dem inte giltig. Myndigheterna måste välja en imam som är fri från synd och av god karaktär. Att vara imam är ett stort ansvar och den som tar detta ansvar blir en förebild för muslimer. Därför får inte innovatörer eller syndare ta detta ansvar när det är möjligt att utse någon annan.
 
-Att låta klädesplagget hänga nedanför vristen är en olydnad som måste överges och varnas för. Detta enligt en *hadīth[^1]* från profeten: ”*Det av izār som hänger nedanför vristen kommer att vara i Elden*.” [*al-Bukhārī* 5787] Samma gäller andra klädesplagg än izār som *qamis*, *sarawil[^2]*, *busht* och liknande.
+Att låta klädesplagget hänga nedanför vristen är en olydnad som måste överges och varnas för. Detta enligt en *hadīth*[^1] från profeten: ”*Det av izār som hänger nedanför vristen kommer att vara i Elden*.” [*al-Bukhārī* 5787] Samma gäller andra klädesplagg än izār som *qamis*, *sarawil*[^2], *busht* och liknande.
 
 Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Det finns tre personer som Allāh inte kommer att tala till, titta på eller gå i god för på Återuppståndelsens Dag, och de kommer att få ett smärtsamt straff: Den som låter sin izār hänga ned, den som talar om det goda han gjort samt den som säljer sina varor genom att svära en lögn*.” [*Muslim* 106]
 

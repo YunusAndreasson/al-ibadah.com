@@ -1,5 +1,5 @@
 ---
-title: Laga moskéns mattor med pengar från allmosor
+title: Moskéreparationer med allmosepengar
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 191 s. ISBN saknas Muhammed Knut Bernström (1421),

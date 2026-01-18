@@ -12,9 +12,9 @@ description: 'Fråga: Bör man läsa efter böneutroparen vad denne säger när 
  böneutroparen säger i iqāmah . Den är dock ...'
 ---
 
-**Fråga:** Bör man läsa efter böneutroparen vad denne säger när denne ropar ut *iqāmah[^1]*?
+**Fråga:** Bör man läsa efter böneutroparen vad denne säger när denne ropar ut *iqāmah*[^1]?
 
-**Svar:** *Abū Dawūd* har rapporterat en *hadīth[^2]* om att upprepa vad böneutroparen säger i *iqāmah[^1]*. Den är dock svag och kan inte användas som bevis. Den starkaste åsikten är att man inte ska upprepa efter.
+**Svar:** *Abū Dawūd* har rapporterat en *hadīth*[^2] om att upprepa vad böneutroparen säger i *iqāmah*[^1]. Den är dock svag och kan inte användas som bevis. Den starkaste åsikten är att man inte ska upprepa efter.
 
 [^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

@@ -1,5 +1,5 @@
 ---
-title: Anledningen till att det är förbjudet att fasta under fredagar
+title: Förbudet mot fasta under fredagar
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 679 s. ISBN 9960-892-66-2'
@@ -16,7 +16,7 @@ description: 'Fråga: Vad är anledningen till att det är förbjudet att fasta 
 
 **Svar:** Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Välj inte ut fredagar speciellt för att fasta, inte heller dess nätter för att stå i bön*.” [*Muslim* 1144]
 
-Visdomen i att det är förbjudet att välja ut fredagar för fasta är att detta är vår veckovisa *'eid* och den är en av de tre föreskrivna *'eid*. Inom islam finns det tre *'eid*: *'eidul-fitr* efter *ramadan[^1]*, *'eidul-adha* och den veckovisa *'eid* som är fredagen.
+Visdomen i att det är förbjudet att välja ut fredagar för fasta är att detta är vår veckovisa *'eid*[^4] och den är en av de tre föreskrivna *'eid*[^4]. Inom islam finns det tre *'eid*[^4]: *'eidul-fitr* efter *ramadan*[^1], *'eidul-adha* och den veckovisa *'eid*[^4] som är fredagen.
 
 Därför är det förbjudet att välja ut den för att fasta. Det beror på att under denna dag måste män komma till fredagsbönen och sysselsätta sig med åkallan[^2] och åminnelse[^3] av Allāh. Det är välkänt att när dyrkan som är möjlig att skjuta upp pockar på uppmärksamhet, då tar det som inte är möjligt att skjuta upp företräde över det som är möjligt att skjuta upp.
 
@@ -29,4 +29,5 @@ När frågeställaren säger: Gäller detta enbart frivillig fasta eller inklude
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Du´ā
 [^3]: Dhikr
+[^4]: Islamisk högtid.
 

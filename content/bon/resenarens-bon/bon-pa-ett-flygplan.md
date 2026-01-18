@@ -15,7 +15,7 @@ description: 'Fråga: Om jag befann mig i ett flygplan och det blev dags för at
 
 **Fråga:** Om jag befann mig i ett flygplan och det blev dags för att be, får jag då be i planet?
 
-**Svar:** Blir det tid för bön och planet fortfarande är i luften, då är de lärde eniga om att det är en skyldighet att be vid bönens angivna tid om man har möjlighet. Man gör då bugningen och nedfallandet i riktning mot *qiblah[^1]*. Detta baseras på vad Allāh den Allsmäktige har sagt: ”*Frukta därför Gud efter måttet av er förmåga*.” [Koranen 64:16]
+**Svar:** Blir det tid för bön och planet fortfarande är i luften, då är de lärde eniga om att det är en skyldighet att be vid bönens angivna tid om man har möjlighet. Man gör då bugningen och nedfallandet i riktning mot *qiblah*[^1]. Detta baseras på vad Allāh den Allsmäktige har sagt: ”*Frukta därför Gud efter måttet av er förmåga*.” [Koranen 64:16]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om jag beordrar er att göra något, gör det då så mycket som ni har möjlighet till*.” [*Muslim* 1337 och *Ahmad* 2:2, 508]
 

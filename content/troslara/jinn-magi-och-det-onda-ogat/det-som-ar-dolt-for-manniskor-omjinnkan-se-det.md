@@ -12,9 +12,9 @@ description: 'Fråga: Kan jinn se det som är dolt för människor? Svar: Jinn k
  känner till det utom Allāh. Läs vad ...'
 ---
 
-**Fråga:** Kan *jinn[^1]* se det som är dolt för människor[^2]?
+**Fråga:** Kan *jinn*[^1] se det som är dolt för människor[^2]?
 
-**Svar:** *Jinn[^1]* känner inte till det som är dolt för människor[^2] – ingen vare sig i himlarna eller på jorden känner till det utom Allāh. Läs vad Han den Upphöjde säger:
+**Svar:** *Jinn*[^1] känner inte till det som är dolt för människor[^2] – ingen vare sig i himlarna eller på jorden känner till det utom Allāh. Läs vad Han den Upphöjde säger:
 
 > ”När Vi hade beslutat om [Salomons] död, antydde ingenting för dem att han var död, utom det att en mask gnagde sönder hans stav. Och [först] när han föll till marken, insåg de osynliga väsendena att om de hade vetat det som är dolt för [alla] skapade varelser hade de inte [behövt] fortsätta sitt förödmjukande straffarbete.” [Koranen 34:14]
 

@@ -20,7 +20,7 @@ Det råder inga tvivel om att det har rapporterats från följeslagarna om att s
 
 Att göra detta har inget syfte i sig själv utan det är något annat [att göra raderna raka], vilket de lärde har sagt. Om raderna är klara och folket står, då måste alla sätta sin ankel mot vännens ankel för att få raka rader. Innebörden av detta är inte att de enträget ska insistera på detta genom att hålla dem samman genom hela bönen.
 
-Detta är då en sorts överdrift, vilket vissa gör. De ställer sig ankel mot ankel mot vännen och särar på benen så att det finns utrymme mellan deras axlar. Därigenom motsäger de sig profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]* och målet är att anklarna ska vara raka.
+Detta är då en sorts överdrift, vilket vissa gör. De ställer sig ankel mot ankel mot vännen och särar på benen så att det finns utrymme mellan deras axlar. Därigenom motsäger de sig profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^1] och målet är att anklarna ska vara raka.
 
 [^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

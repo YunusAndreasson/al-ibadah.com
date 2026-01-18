@@ -12,9 +12,9 @@ description: 'Fråga: Är två bönecykler efter tawāf bakom platsen där Abrah
  är inte obligatoriskt att be dem bakom plats...'
 ---
 
-**Fråga:** Är två bönecykler[^1] efter *tawāf[^2]* bakom platsen där Abraham stod obligatoriska för varje *tawāf[^2]* och vad gäller den som glömmer dem?
+**Fråga:** Är två bönecykler[^1] efter *tawāf*[^2] bakom platsen där Abraham stod obligatoriska för varje *tawāf*[^2] och vad gäller den som glömmer dem?
 
-**Svar:** Det är inte obligatoriskt att be dem bakom platsen där Abraham stod. Två bönecykler[^1] kan bes var som helst i Helgedomen [heliga Moskén]. Glömmer man dem så syndar man inte på grund av det. De är ju *sunnah[^3]* och inte obligatoriska.
+**Svar:** Det är inte obligatoriskt att be dem bakom platsen där Abraham stod. Två bönecykler[^1] kan bes var som helst i Helgedomen [heliga Moskén]. Glömmer man dem så syndar man inte på grund av det. De är ju *sunnah*[^3] och inte obligatoriska.
 
 Och Allāh ger framgång.
 

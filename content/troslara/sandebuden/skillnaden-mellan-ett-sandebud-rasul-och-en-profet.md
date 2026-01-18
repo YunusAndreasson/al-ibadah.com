@@ -1,5 +1,5 @@
 ---
-title: Skillnaden mellan ett sändebud [rasul] och en profet [nabiyy]
+title: Skillnaden mellan ett sändebud och en profet
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 226 s. ISBN saknas Muhammed Knut Bernström (1421),

@@ -14,14 +14,14 @@ description: 'Fråga: Vilket är utlåtandet om den första åkallan som man sä
 
 **Fråga:** Vilket är utlåtandet om den första åkallan[^1] som man säger i inledningen av bönen?
 
-**Svar:** Den åkallan[^1] som inleder är en *sunnah[^2]* och inte en skyldighet, varken i de obligatoriska eller i de frivilliga bönerna.
+**Svar:** Den åkallan[^1] som inleder är en *sunnah*[^2] och inte en skyldighet, varken i de obligatoriska eller i de frivilliga bönerna.
 
-Det bästa är att recitera alla åkallan[^1] som har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – som inledande åkallan[^1]. Vid vissa tillfällen reciterar man en och vid andra en annan. På detta sätt kommer man att utöva profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* i alla dess former. Känner man enbart till en från hans *sunnah[^2]* och håller sig till den, då ligger det ingen synd i det. Detta beror på att det är tydligt att profeten – över honom vare Allāhs frid och välsignelser – brukade variera sin inledande åkallan[^1] likväl som sina *tashahhud[^3]* för att göra de lätt för de troende. Det finns även två fördelar i åminnelsen[^4] efter bönen i att profeten – över honom vare Allāhs frid och välsignelser – varierade:
+Det bästa är att recitera alla åkallan[^1] som har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – som inledande åkallan[^1]. Vid vissa tillfällen reciterar man en och vid andra en annan. På detta sätt kommer man att utöva profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^2] i alla dess former. Känner man enbart till en från hans *sunnah*[^2] och håller sig till den, då ligger det ingen synd i det. Detta beror på att det är tydligt att profeten – över honom vare Allāhs frid och välsignelser – brukade variera sin inledande åkallan[^1] likväl som sina *tashahhud*[^3] för att göra de lätt för de troende. Det finns även två fördelar i åminnelsen[^4] efter bönen i att profeten – över honom vare Allāhs frid och välsignelser – varierade:
 
 1. Att man inte [enbart] håller sig till en. Om man enbart använder en blir recitationen till något man gör på ren rutin. Är man då slarvig reciterar man åminnelser[^4] även om det är utan intention. Detta eftersom det har blivit till en stelnad vana. Men om åminnelserna[^4] varieras kommer man ibland att recitera den ena och ibland den andra. Därmed skulle man recitera med hjärtats närvarande och det skulle vara sannolikare att man förstår vad man säger.
 2. För att göra det lättare för folket, då man ibland kan tänkas recitera den ena och ibland den andra enligt vad som passar en bäst.
 
-På grund av dessa fördelar utförs viss dyrkan på olika sätt, som den inledande *takbīr[^5]*, *tashahhud[^3]* och åminnelse[^4] av Allāh efter bönen.
+På grund av dessa fördelar utförs viss dyrkan på olika sätt, som den inledande *takbīr*[^5], *tashahhud*[^3] och åminnelse[^4] av Allāh efter bönen.
 
 [^1]: Du´ā
 [^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.

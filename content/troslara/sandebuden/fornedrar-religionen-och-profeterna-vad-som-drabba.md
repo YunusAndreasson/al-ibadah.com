@@ -1,5 +1,5 @@
 ---
-title: Förnedrar religionen och profeterna – vad som drabbar den personen
+title: Konsekvensen av att förnedra religionen eller profeterna
 source: 'Fatāwa Manār al-Islām – fråga 8, sida 25 Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:

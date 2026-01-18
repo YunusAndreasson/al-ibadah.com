@@ -12,9 +12,9 @@ description: 'Fråga: Profeten – över honom vare Allāhs frid och välsignels
  Är detta en autentisk hadīth? Om den ...'
 ---
 
-**Fråga:** Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som koppar och den som blir koppad bryter båda fastan*.” [*Abū Dawūd* 2367] Är detta en autentisk *hadīth[^1]*? Om den är autentisk, hur förklaras den då?
+**Fråga:** Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som koppar och den som blir koppad bryter båda fastan*.” [*Abū Dawūd* 2367] Är detta en autentisk *hadīth*[^1]? Om den är autentisk, hur förklaras den då?
 
-**Svar:** Denna *hadīth[^1]* är autentisk. Den har graderats som autentisk av bland andra imam *Ahmad*. Det betyder att om den fastande koppar någon annan så bryter denne fastan och om någon annan koppar den fastande så bryter han fastan. Detta beror på att koppning[^2] omfattar både den som koppar och den som koppas.
+**Svar:** Denna *hadīth*[^1] är autentisk. Den har graderats som autentisk av bland andra imam *Ahmad*. Det betyder att om den fastande koppar någon annan så bryter denne fastan och om någon annan koppar den fastande så bryter han fastan. Detta beror på att koppning[^2] omfattar både den som koppar och den som koppas.
 
 Den som koppas är den som blodet dras från och den som koppar är den som drar ut blodet. Om fastan därmed är en obligatorisk fasta får den som fastar inte låta sig koppas då den medför att dennes obligatoriska fasta bryts. Det enda undantaget är om det finns en nödvändighet som kräver koppning[^2], som om blodet agiterar och det ger denne besvärligheter. I detta fall är det ingen fara om denne koppas och anser sig ha brutit fastan. Denne tar igen denna dag och kan äta och dricka under det som återstår av den, därför den som bryter fastan med en islamiskt föreskriven anledning som tillåter att den bryts är det tillåtet för att äta under resten av dagen. Detta beror på att den dag som Allāh tillåter denne att bryta fastan inte är en dag som denne är skyldig att avstå [mat och dryck] på det sätt som bevisen i den islamiska lagen fordrar.
 

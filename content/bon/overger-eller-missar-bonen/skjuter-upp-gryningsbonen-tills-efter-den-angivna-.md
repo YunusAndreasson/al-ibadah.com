@@ -15,7 +15,7 @@ description: 'Fråga: Vilket är utlåtandet om den som skjuter upp gryningsbön
 
 **Fråga:** Vilket är utlåtandet om den som skjuter upp gryningsbönen[^1] till efter den utsedda tiden?
 
-**Svar:** Den som skjuter upp gryningsbönen[^1] till efter den utsedda tiden, om denne trodde att det är tillåtet att göra så, då är det att otro. Den som tror att det är tillåtet att utan ursäkt skjuta upp bönen till efter den utsedda tiden, denne är en icke-troende då denne motsäger sig Koranen, profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* och samstämmighet bland muslimer.
+**Svar:** Den som skjuter upp gryningsbönen[^1] till efter den utsedda tiden, om denne trodde att det är tillåtet att göra så, då är det att otro. Den som tror att det är tillåtet att utan ursäkt skjuta upp bönen till efter den utsedda tiden, denne är en icke-troende då denne motsäger sig Koranen, profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^2] och samstämmighet bland muslimer.
 
 Men om denne inte anser att det är tillåtet, har vetskap om att det är en synd att skjuta upp bönen och har låtit sig övervinnas av sömn, då måste denne vända sig i ånger till Allāh den Allsmäktige och sluta med detta. Ångerns dörr är öppen även för som verkligen inte har trott, vilket Allāh säger:
 

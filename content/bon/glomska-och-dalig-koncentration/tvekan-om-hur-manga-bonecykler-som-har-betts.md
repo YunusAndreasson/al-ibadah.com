@@ -16,13 +16,13 @@ description: 'Fråga: Jag har i vissa islamiska lagböcker läst att om bönen h
 
 **Svar:** Det som är korrekt är att bönen är giltig. Sådana tvivel kommer ofta utan att man önskar det. Profeten – över honom vare Allāhs frid och välsignelser – har klargjort utlåtandet om den som känner tveksamhet om bönen. Här finns då två kategorier.
 
-Den första kategorin är de som tvekar om hur många bönecykler[^1] de har bett, men som känner sig lite säkrare på ett visst antal. I detta fall bör de utgå från vad de känner sig säkrast på för att sedan avsluta bönen med *taslīm[^3]* och därefter nedfalla för glömska[^4].
+Den första kategorin är de som tvekar om hur många bönecykler[^1] de har bett, men som känner sig lite säkrare på ett visst antal. I detta fall bör de utgå från vad de känner sig säkrast på för att sedan avsluta bönen med *taslīm*[^3] och därefter nedfalla för glömska[^4].
 
-Den andra kategorin är de som tvekar om hur många bönecykler[^1] de har bett men som inte kan komma fram till ett antal som är troligare än det andra. I detta fall måste de utgå från det lägre antalet. De är ju säkra på det och osäkra på det extra. De ber då klart utifrån det lägre antalet. Sedan gör de en nedfallan för glömska[^4] innan *taslīm[^3]*. Bönen kommer då att vara giltig. Detta är utlåtandet om den som tvekar på antalet bönecykler[^1].
+Den andra kategorin är de som tvekar om hur många bönecykler[^1] de har bett men som inte kan komma fram till ett antal som är troligare än det andra. I detta fall måste de utgå från det lägre antalet. De är ju säkra på det och osäkra på det extra. De ber då klart utifrån det lägre antalet. Sedan gör de en nedfallan för glömska[^4] innan *taslīm*[^3]. Bönen kommer då att vara giltig. Detta är utlåtandet om den som tvekar på antalet bönecykler[^1].
 
-På samma sätt om han tvekar om huruvida han har gjort det andra nedfallandet[^2], eller om han har gjort en bugning, om han är säkrare på den ena än på den andra, då ber han färdigt från vad han är säkrare på. Därefter gör han nedfallandet för glömska[^4] efter *taslīm[^3]*.
+På samma sätt om han tvekar om huruvida han har gjort det andra nedfallandet[^2], eller om han har gjort en bugning, om han är säkrare på den ena än på den andra, då ber han färdigt från vad han är säkrare på. Därefter gör han nedfallandet för glömska[^4] efter *taslīm*[^3].
 
-Har han ingen aning om vilket av de båda antalen han har gjort, då bör han fortsätta efter vad som känns säkrast och anta att han inte har gjort bugningen[^5] eller nedfallandet[^2] som han tvekar om. Han gör detta och det som kommer efter, gör färdigt bönen från detta och gör sedan nedfallandet för glömska[^4] innan *taslīm[^3]*.
+Har han ingen aning om vilket av de båda antalen han har gjort, då bör han fortsätta efter vad som känns säkrast och anta att han inte har gjort bugningen[^5] eller nedfallandet[^2] som han tvekar om. Han gör detta och det som kommer efter, gör färdigt bönen från detta och gör sedan nedfallandet för glömska[^4] innan *taslīm*[^3].
 
 Uppstår tvivlet i nästa bönecykel, då anses denna bönecykel[^1] ta den förras plats.
 

@@ -12,7 +12,7 @@ description: 'Fråga: Iqāmah ropades ut för nattbönen[^1] och radens högra s
  jämn på vänster sida.” Men en [annan] troe...'
 ---
 
-**Fråga:** *Iqāmah* ropades ut för nattbönen[^1] och radens högra sida fylldes. På den vänstra sidan fanns det endast ett fåtal personer. Vi sade då: ”Gör raden jämn på vänster sida.” Men en [annan] troende sade då: ”Höger är bättre.” Men han blev rättad med en *hadīth[^2]* av en annan person: ”Den som fyller radens vänstra sida kommer att få två belöningar.” Vänligen, berätta för oss vilken som är den korrekta åsikten.
+**Fråga:** *Iqāmah* ropades ut för nattbönen[^1] och radens högra sida fylldes. På den vänstra sidan fanns det endast ett fåtal personer. Vi sade då: ”Gör raden jämn på vänster sida.” Men en [annan] troende sade då: ”Höger är bättre.” Men han blev rättad med en *hadīth*[^2] av en annan person: ”Den som fyller radens vänstra sida kommer att få två belöningar.” Vänligen, berätta för oss vilken som är den korrekta åsikten.
 
 **Svar:** Bevis har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – som visar att radens högra sida är bättre än den vänstra. Det är inte tillåtet att säga: ”Göra raderna jämna.”
 

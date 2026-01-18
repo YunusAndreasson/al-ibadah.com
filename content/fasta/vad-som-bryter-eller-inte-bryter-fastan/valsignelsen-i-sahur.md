@@ -11,7 +11,9 @@ description: 'Fråga: Sändebudet – över honom vare Allāhs frid och välsign
  välsignelsen i sahūr? Svar: Välsignelsen ...'
 ---
 
-**Fråga:** Sändebudet – över honom vare Allāhs frid och välsignelser – har sagt: ”Ät *sahūr* för sannerligen innehåller sahūr välsignelse.” Vad avses med välsignelsen i *sahūr*?
+**Fråga:** Sändebudet – över honom vare Allāhs frid och välsignelser – har sagt: "Ät *sahūr*[^1] för sannerligen innehåller *sahūr*[^1] välsignelse." Vad avses med välsignelsen i *sahūr*[^1]?
 
-**Svar:** Välsignelsen i *sahūr* avser den islamiska föreskriftens välsignelse och välsignelsen för kroppen. Den islamiska föreskriftens välsignelse innebär den att man följer och utför sändebudets order. Den kroppsliga välsignelsen är något närande för kroppen och något som ger styrka till att fasta.
+**Svar:** Välsignelsen i *sahūr*[^1] avser den islamiska föreskriftens välsignelse och välsignelsen för kroppen. Den islamiska föreskriftens välsignelse innebär den att man följer och utför sändebudets order. Den kroppsliga välsignelsen är något närande för kroppen och något som ger styrka till att fasta.
+
+[^1]: Måltiden som äts innan gryningen för att förbereda sig för fastan.
 

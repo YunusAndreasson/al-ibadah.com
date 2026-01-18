@@ -12,9 +12,9 @@ description: 'Fråga. Min fru har guld som hon bär och som når den lägsta niv
   som ska betala den? Svar: Allmosa är en s...'
 ---
 
-**Fråga.** Min fru har guld som hon bär och som når den lägsta nivån som gör att allmosa krävs. Behöver hon betala allmosa för dem? Är det jag eller hon som ska betala den?
+**Fråga:** Min fru har guld som hon bär och som når den lägsta nivån som gör att allmosa krävs. Behöver hon betala allmosa för dem? Är det jag eller hon som ska betala den?
 
-**Svar:** Allmosa är en skyldighet för smycken som är gjorda av guld eller silver om vikten uppnår den lägsta nivån som gör allmosa till ett krav. Denna nivå är 20 *mithqal*[^1] för guld och 140 *mithqal*[^1] för silver. I nuvarande valuta motsvarar detta 11 3/7 saudiska junahy.
+**Svar:** Allmosa är en skyldighet för smycken som är gjorda av guld eller silver om vikten uppnår den lägsta nivån som gör allmosa till ett krav. Denna nivå är 20 *mithqal*[^1] för guld och 140 *mithqal*[^1] för silver. I nuvarande valuta motsvarar detta 11 3/7 saudiska *junahy*.
 
 Om guldsmycken uppnår eller överstiger denna nivå måste man betala allmosa även om det enda syftet är att de ska bäras. Detta enligt den mest korrekta åsikten bland de lärda.
 

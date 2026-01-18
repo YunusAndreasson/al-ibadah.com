@@ -18,7 +18,7 @@ function AboutPage() {
             </span>
           </p>
 
-          <h3 className="!text-sm font-semibold uppercase tracking-wide text-foreground/70 !mb-3 !mt-8 first:!mt-0">Om webbplatsen</h3>
+          <h3 className="section-label">Om webbplatsen</h3>
           <p>
             al-Ibadah samlar religiösa utlåtanden för svensktalande muslimer som vill praktisera
             sin tro i enlighet med Koranen och profetens <em>sunnah</em> – fred och välsignelser
@@ -28,27 +28,48 @@ function AboutPage() {
             rekommenderas <a href="https://islam.se">islam.se</a>.
           </p>
 
-          <h3 className="!text-sm font-semibold uppercase tracking-wide text-foreground/70 !mb-3 !mt-8 first:!mt-0">Källor</h3>
+          <h3 className="section-label">Källor</h3>
           <p>
             Utlåtandena är översatta från <em>Fatāwā Islāmiyyah</em> och{' '}
             <em>Fatāwā Arkān ul-Islām</em>, samlingar av utlåtanden från erkända sunnitiska lärda:{' '}
-            <Link to="/biografier/shaykh-abdul-aziz-ibn-abdullah-ibn-abdur-rahman-ib">
+            <Link
+              to="/$category/$slug"
+              params={{ category: 'biografier', slug: 'shaykh-abdul-aziz-ibn-abdullah-ibn-abdur-rahman-ib' }}
+            >
               Ibn Bāz
             </Link>
-            , <Link to="/biografier/shaykh-muhammad-ibn-salih-ibn-uthaymin">Ibn Uthaymīn</Link>,{' '}
-            <Link to="/biografier/muhammad-nasir-ud-din-al-albani">al-Albānī</Link> och{' '}
-            <Link to="/biografier/ibn-abdur-rahman-al-jibrin">al-Jibrīn</Link> –{' '}
-            <em>rahimahum Allah</em>.
+            ,{' '}
+            <Link
+              to="/$category/$slug"
+              params={{ category: 'biografier', slug: 'shaykh-muhammad-ibn-salih-ibn-uthaymin' }}
+            >
+              Ibn Uthaymīn
+            </Link>
+            ,{' '}
+            <Link
+              to="/$category/$slug"
+              params={{ category: 'biografier', slug: 'muhammad-nasir-ud-din-al-albani' }}
+            >
+              al-Albānī
+            </Link>{' '}
+            och{' '}
+            <Link
+              to="/$category/$slug"
+              params={{ category: 'biografier', slug: 'ibn-abdur-rahman-al-jibrin' }}
+            >
+              al-Jibrīn
+            </Link>{' '}
+            – <em>rahimahum Allah</em>.
           </p>
 
-          <h3 className="!text-sm font-semibold uppercase tracking-wide text-foreground/70 !mb-3 !mt-8 first:!mt-0">Att vara muslim i Sverige</h3>
+          <h3 className="section-label">Att vara muslim i Sverige</h3>
           <p>
             Utlåtandena är i huvudsak allmängiltiga, men vissa texter berör frågor som kan kräva
             lokalt perspektiv. Läsaren uppmanas att sätta sig in i principerna bakom utlåtandena
             och vid behov rådgöra med kunniga i sin närhet.
           </p>
 
-          <h3 className="!text-sm font-semibold uppercase tracking-wide text-foreground/70 !mb-3 !mt-8 first:!mt-0">Upphovsrätt</h3>
+          <h3 className="section-label">Upphovsrätt</h3>
           <p>
             Översättningarna är licensierade under{' '}
             <a
@@ -61,7 +82,7 @@ function AboutPage() {
             och får spridas fritt med källhänvisning.
           </p>
 
-          <h3 className="!text-sm font-semibold uppercase tracking-wide text-foreground/70 !mb-3 !mt-8 first:!mt-0">Kontakt</h3>
+          <h3 className="section-label">Kontakt</h3>
           <p>
             Webbplatsen översätts och underhålls av{' '}
             <a href="mailto:yunus@edenmind.com">Yunus Andréasson</a>. Frågor om webbplatsen eller

@@ -15,7 +15,7 @@ description: 'Fråga: Är det bäst, när man är ute och reser, att slå ihop b
 
 **Svar:** Det bästa under resa är att slå ihop bönen där det passar en själv bäst. Är det lättare för dig vid den tidigare tidpunkten – så gör det. Är det lättare för dig vid den senare tidpunkten – så gör det.
 
-Båda dessa sätt finns föreskrivna i profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^1]*.
+Båda dessa sätt finns föreskrivna i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^1].
 
 [^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

@@ -11,7 +11,7 @@ description: 'Fråga: Gör kamelkött tvagningen ogiltig? En hadīth har rapport
  om en man som släppte sig. Profeten – över honom vare Allāhs frid och välsignelser – beordrade då honom och alla de som var nä...'
 ---
 
-**Fråga:** Gör kamelkött tvagningen[^1] ogiltig? En *hadīth[^2]* har rapporterats om en man som släppte sig. Profeten – över honom vare Allāhs frid och välsignelser – beordrade då honom och alla de som var närvarande att tvaga sig. I skolan har vi lärt oss att det gör tvagningen[^1] ogiltig.
+**Fråga:** Gör kamelkött tvagningen[^1] ogiltig? En *hadīth*[^2] har rapporterats om en man som släppte sig. Profeten – över honom vare Allāhs frid och välsignelser – beordrade då honom och alla de som var närvarande att tvaga sig. I skolan har vi lärt oss att det gör tvagningen[^1] ogiltig.
 
 **Svar:** Denna historia saknar grund och det är en lögn mot profeten – över honom vare Guds frid och välsignelser. Han hade inga problem att då säga: ”*Den som har släppt dig bör tvaga sig*.”
 

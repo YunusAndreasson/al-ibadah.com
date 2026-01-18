@@ -21,11 +21,11 @@ Muslimer måste vara mycket noga med deras böner, be dem med församligen och i
 
 Han den Upphöjde säger: ”*Förrätta bönen och ge åt de behövande och böj era huvuden med de andra som böjer sina huvuden [i bön]*.” [Koranen 2:43]
 
-Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Huvudfrågan är Islam, dess pelare är bönen och dess höjd är *djihād[^1]* för Allāhs sak.” [*at-Tirmithi* 2616]
+Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Huvudfrågan är Islam, dess pelare är bönen och dess höjd är *djihād*[^1] för Allāhs sak.” [*at-Tirmithi* 2616]
 
 Och han har sagt: ”*Islam är byggt på fem [pelare]: vittna om att ingen är värdig att dyrka utom Allāh och att Muḥammad är Allāhs sändebud, förrätta bönen, betala allmosa, fasta under månaden Ramadan och vallfärda till Allāhs Hus*.” [*al-Bukhārī* 8, 4515 och *Muslim* 16]
 
-De verser och *ahādīth[^2]* som poängterar vikten av bönen, skyldigheten att be den och plikten att upprätthålla den är många.
+De verser och *ahādīth*[^2] som poängterar vikten av bönen, skyldigheten att be den och plikten att upprätthålla den är många.
 
 [^1]: Kämpa för Allāhs sak.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

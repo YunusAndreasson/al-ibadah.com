@@ -33,22 +33,13 @@ Allāhs tjänare är fria att välja enligt de uppenbara fysiska orsaker som All
 
 I ditt exempel där en person syndar och du säger att Allāh bestämmer att denne ska synda, att denne kommer att begå den och att denne inte har något val i det utan att Allāh har lämnat sättet att begå synden och ansatsen upp till denne; i detta fall säger vi detsamma som vi sade när det gäller moskébygget. Allāhs beslut att denne syndar motsätter sig inte att han väljer att begå den [synden]. När denne väljer att begå den vet personen i fråga ju inte vad Allāh den Upphöjde har bestämt för denne. Därför gör denne det av egen fri vilja och denne är omedveten om att någon har tvingat denne att göra det. Men om denne gör det vet vi att Allāh har bestämt att denne gör det och sättet som denne begår synden på skedde genom dennes val. Detta upphäver inte Allāhs den Upphöjdes förutbestämmelse. Anledningen är att Allāh den Upphöjde har bestämt allting, både allmänt och detaljerat, och han har bestämt orsakerna som leder till detta. Inga av Hans handlingar är undantagna detta och inte heller några av människornas som de väljer att göra eller tvingas att göra. Allāh den Upphöjde säger:
 
-> ”Visste du inte att Gud har kännedom om allt i himlen och på jorden? Allt detta är upptecknat och bevarat. Det kostar inte Gud någon möda.” [Koranen 22:70]
+> "Visste du inte att Gud har kännedom om allt i himlen och på jorden? Allt detta är upptecknat och bevarat. Det kostar inte Gud någon möda." [Koranen 22:70]
 >
+> "Så har Vi också låtit varje profet mötas av fiendeskap från de onda krafterna bland människor och osynliga väsen, som viskar fagra ord i varandras öron för att förvirra och vilseleda. Hade det varit din Herres vilja skulle de inte ha gjort detta; låt dem därför hållas med sina påfund!" [Koranen 6:112]
 >
+> "Och av dem som sätter andra gudar vid Guds sida förleds många av [tron på] dessa gudar att se dödandet av sina barn som något förtjänstfullt, och så drivs de mot undergången och deras religiösa begrepp förvirras alltmer för dem." [Koranen 6:137]
 >
->
-> ”Så har Vi också låtit varje profet mötas av fiendeskap från de onda krafterna bland människor och osynliga väsen, som viskar fagra ord i varandras öron för att förvirra och vilseleda. Hade det varit din Herres vilja skulle de inte ha gjort detta; låt dem därför hållas med sina påfund!” [Koranen 6:112]
->
->
->
->
-> ”Och av dem som sätter andra gudar vid Guds sida förleds många av [tron på] dessa gudar att se dödandet av sina barn som något förtjänstfullt, och så drivs de mot undergången och deras religiösa begrepp förvirras alltmer för dem.” [Koranen 6:137]
->
->
->
->
-> ”Om Gud hade velat skulle de släkten som följde dem inte ha stridit med varandra efter att ha nåtts av dessa klara bevis. Men de kom att omfatta skilda meningar – några trodde, andra framhärdade i otro. Om Gud hade velat, skulle de inte ha stridit med varandra; men Gud gör vad Han vill.” [Koranen 2:253]
+> "Om Gud hade velat skulle de släkten som följde dem inte ha stridit med varandra efter att ha nåtts av dessa klara bevis. Men de kom att omfatta skilda meningar – några trodde, andra framhärdade i otro. Om Gud hade velat, skulle de inte ha stridit med varandra; men Gud gör vad Han vill." [Koranen 2:253]
 
 Det är inte passande att grubbla över frågor som dessa själv eller att diskutera dem med andra. Frågor likt dessa skapar förvirring och tvivel och detta står i motsats till föreskriften av det förutbestämda. Följeslagarna gjorde inte så här och de var de mest beslutsamma i att söka sanningen. Likaså befann de sig närmst den första [kunskaps]källan som släckte törst och tillintegjorde oro [Profeten].
 

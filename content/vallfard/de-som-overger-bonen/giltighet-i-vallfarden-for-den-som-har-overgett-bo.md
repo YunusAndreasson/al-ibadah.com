@@ -1,5 +1,5 @@
 ---
-title: Giltighet i vallfärden för den som har övergett bönen
+title: Vallfärdens giltighet för den som övergett bönen
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 50 s. ISBN saknas'
@@ -20,7 +20,7 @@ Om denne överger den på grund av lathet eller att denne inte brydde sig, då h
 
 Det finns även ett uttalande som lyder: ”*Det som står mellan en man och otro samt mångguderi är utelämnandet av bönen*.” [*Muslim* 82]
 
-Detta inkluderar både dem som avvisar att bönen är en skyldighet och dem som inte ber den på grund av lathet.
+Detta inkluderar både de som avvisar att bönen är en skyldighet och de som inte ber den på grund av lathet.
 
 Och Allāh är den som ger framgång.
 

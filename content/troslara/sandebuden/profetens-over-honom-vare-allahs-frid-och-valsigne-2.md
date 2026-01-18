@@ -1,6 +1,5 @@
 ---
-title: profetens – över honom vare Allāhs frid och välsignelser – giftermål med flera
- kvinnor
+title: Profetens giftermål med flera kvinnor
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
  Libanon: Maktaba Dar us-Salam. 296 s. ISBN saknas'
@@ -19,7 +18,7 @@ description: 'Fråga: Varför gifte sig profeten med flera kvinnor? Svar: Den ob
 
 Tillåtelse för att gifta sig med mer än en kvinna är inte något som gäller enbart vår Profet. Jakob hade två fruar och Salomon, Davids son, hade hela 99 fruar. David hade intim samvaro med under en natt i hopp om att Allāh skulle välsigna honom med en son som skulle strida för Allāhs sak.
 
-Då månggifte är tillåtet, rättfärdigat och logiskt enligt *fitrah[^1]* och den islamiska lagen, och då de tidigare profeterna brukade praktisera det – sannerligen kan det då sägas att det under vissa tidpunkter kan vara en skyldighet – och då är det inte märkligt att profeten – över honom vare Allāhs frid och välsignelser – praktiserade det.
+Då månggifte är tillåtet, rättfärdigat och logiskt enligt *fitrah*[^1] och den islamiska lagen, och då de tidigare profeterna brukade praktisera det – sannerligen kan det då sägas att det under vissa tidpunkter kan vara en skyldighet – och då är det inte märkligt att profeten – över honom vare Allāhs frid och välsignelser – praktiserade det.
 
 De lärde har även nämnt andra anledningar till att han gifte sig med flera kvinnor. Han ville stärka banden med några av de arabiska stammarna för att det kunde ge islam styrka och hjälp med att spridas, genom större harmoni. Det kan ha varit för att ge husrum och tröst till änkor när de hade förlorat sina män, i det finns ju en lättnad från svårigheter. Den islamiska lagen har föreskrivit ett sätt för att hjälpa de i samhället som har förlorat sina män i *djihād*[^2] eller under andra omständigheter. Det finns även hopp om ökad avkomma, vilket leder till att en naturlig balans återupprättas när befolkningen ökar och det hjälper dem som vill sprida religionen.
 

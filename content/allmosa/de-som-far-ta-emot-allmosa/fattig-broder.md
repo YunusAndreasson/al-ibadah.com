@@ -1,5 +1,5 @@
 ---
-title: Fattig broder
+title: Allmosa till fattig broder
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 187 s. ISBN saknas Muhammed Knut Bernström (1421),

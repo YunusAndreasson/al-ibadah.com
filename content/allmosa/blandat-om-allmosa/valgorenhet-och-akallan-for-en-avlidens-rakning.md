@@ -18,9 +18,9 @@ Det är tillåtet att ge till välgörenhet för den avlidnes räkning. Det spel
 
 > "När Adams söner dör, dör också hans handlingar utom tre: bestående välgörenhet[^2], nyttig kunskap och ett rättfärdigt barn som ber för honom." [*Muslim* 1631, *Abū Dawūd* 2880 och *at-Tirmithi* 1376]
 
-Den generella betydelsen av denna *hadīth[^3]* är att belöningen för välgörenheten når den avlidne. Profeten – över honom vare Allāhs frid och välsignelser – angav inte om sådan välgörenhet uppgivits i den avlidnes testamente eller inte. Därför gäller denna *hadīth[^3]* i båda fall.
+Den generella betydelsen av denna *hadīth*[^3] är att belöningen för välgörenheten når den avlidne. Profeten – över honom vare Allāhs frid och välsignelser – angav inte om sådan välgörenhet uppgivits i den avlidnes testamente eller inte. Därför gäller denna *hadīth*[^3] i båda fall.
 
-I denna *hadīth[^3]* är ordet "son" inte specifikt. Det finns många autentiska *ahādīth[^3]* som visar att det är tillåtet att åkalla till fördel för någon som har gått bort, precis som begravningsböner och åkallan[^1] för dem är tillåtna då deras gravar besöks. Därför är det ingen skillnad om gåvan till välgörenhet för den avlidnes räkning ges av en nära eller avlägsen släkting.
+I denna *hadīth*[^3] är ordet "son" inte specifikt. Det finns många autentiska *ahādīth*[^3] som visar att det är tillåtet att åkalla till fördel för någon som har gått bort, precis som begravningsböner och åkallan[^1] för dem är tillåtna då deras gravar besöks. Därför är det ingen skillnad om gåvan till välgörenhet för den avlidnes räkning ges av en nära eller avlägsen släkting.
 
 [^1]: Du´ā.
 [^2]: Sadaqah jariyah.

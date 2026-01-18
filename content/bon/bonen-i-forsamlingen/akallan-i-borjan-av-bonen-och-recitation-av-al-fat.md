@@ -1,5 +1,5 @@
 ---
-title: Åkallan i början av bönen och recitation av *al-Fātihah* för den som kommer sent
+title: Åkallan i början av bönen och recitation av al-Fātihah för den som kommer sent
  till bönen
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.

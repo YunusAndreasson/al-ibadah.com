@@ -1,5 +1,5 @@
 ---
-title: Leds i bönen och glömmer att recitera *al-Fātihah*
+title: Leds i bönen och glömmer att recitera al-Fātihah
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 156 s. ISBN saknas'
@@ -12,7 +12,7 @@ description: 'Fråga: Om iqāmah ropas ut för bönen och jag under bönen glöm
  bön giltig då? Behöver jag recitera Skriftens ...'
 ---
 
-**Fråga:** Om *iqāmah[^1]* ropas ut för bönen och jag under bönen glömmer att recitera sura *al-Fātihah* i en eller två bönecykler[^2] när jag leds i bönen, är min bön giltig då? Behöver jag recitera Skriftens öppning? Vad gör jag i denna situation?
+**Fråga:** Om *iqāmah*[^1] ropas ut för bönen och jag under bönen glömmer att recitera sura *al-Fātihah* i en eller två bönecykler[^2] när jag leds i bönen, är min bön giltig då? Behöver jag recitera Skriftens öppning? Vad gör jag i denna situation?
 
 **Svar:** Om den som leds i bön glömmer att recitera *al-Fātihah*, inte känner till att det är en skyldighet eller går in i bönen när imamen bugar, då kommer denna bönecykel[^2] under dessa omständigheter tillräknas honom. Hans bön är då giltig och han behöver inte ta igen denna bönecykel. Han ursäktas ju eftersom han inte kände till, glömskan eller att han kom sent.
 

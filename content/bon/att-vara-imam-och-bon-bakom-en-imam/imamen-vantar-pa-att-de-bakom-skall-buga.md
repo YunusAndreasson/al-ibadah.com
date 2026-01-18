@@ -12,7 +12,7 @@ description: 'Fråga: Måste imamen vänta om han hör några eftersläntrare ko
  är bra om imamen går lugnt till väga på ...'
 ---
 
-**Fråga:** Måste imamen vänta om han hör några eftersläntrare komma springande under bugningen eller *tashahhud[^1]*?
+**Fråga:** Måste imamen vänta om han hör några eftersläntrare komma springande under bugningen eller *tashahhud*[^1]?
 
 **Svar:** Det är bättre att inte brådska. Det är bra om imamen går lugnt till väga på ett sätt som inte leder till svårigheter för Allāhs tjänare. Omtanke om de som leds i bönen och som kom först är viktigare. […] Men om han bara skjuter upp lite så att de som kommer sent kan hinna buga[^2], nedfalla[^3] eller göra *tashahhud*[^1], då är det bättre och att föredra om imamen gör så.
 

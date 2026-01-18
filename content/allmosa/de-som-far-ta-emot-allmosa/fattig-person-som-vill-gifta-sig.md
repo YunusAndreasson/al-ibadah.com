@@ -1,5 +1,5 @@
 ---
-title: Fattig person som vill gifta sig
+title: Allmosa till fattig som vill gifta sig
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 190 s. ISBN saknas'

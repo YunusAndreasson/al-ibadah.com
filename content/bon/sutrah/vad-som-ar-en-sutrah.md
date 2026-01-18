@@ -12,9 +12,9 @@ description: 'Fråga: Är en mattkant en sutrah? Svar: Mattans kanter anses inte
  är något stående, som en kamelsadel eller nå...'
 ---
 
-**Fråga:** Är en mattkant en *sutrah[^1]*?
+**Fråga:** Är en mattkant en *sutrah*[^1]?
 
-**Svar:** Mattans kanter anses inte vara en *sutrah[^1]* för Allāhs tjänare. Det som är *sunnah[^2]* för *sutrah[^1]* är att den är något stående, som en kamelsadel eller något större som en vägg, pelare eller stol. Hittar man inte något sådant, då sätter man en stav eller något liknande i marken framför sig. Det spelar ingen roll om man är imam eller en ensam bedjande. Är man någonstans där man inte kan hitta en *sutrah[^1]* så drar man ett sträck.
+**Svar:** Mattans kanter anses inte vara en *sutrah*[^1] för Allāhs tjänare. Det som är *sunnah*[^2] för *sutrah*[^1] är att den är något stående, som en kamelsadel eller något större som en vägg, pelare eller stol. Hittar man inte något sådant, då sätter man en stav eller något liknande i marken framför sig. Det spelar ingen roll om man är imam eller en ensam bedjande. Är man någonstans där man inte kan hitta en *sutrah*[^1] så drar man ett sträck.
 
 Detta baseras på profetens – över honom vare Allāhs frid och välsignelser – ord: ”*När någon ber, då bör han be mot en sutrah[^1] och stå nära den*.” [*Abū Dawūd* 698] Han har även sagt:
 

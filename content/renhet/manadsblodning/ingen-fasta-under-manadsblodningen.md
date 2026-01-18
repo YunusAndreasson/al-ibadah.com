@@ -12,7 +12,7 @@ description: 'Fråga: Får en kvinna med månadsblödning bryta fastan under ram
  kvinna med månadsblödning har inte en korrekt f...'
 ---
 
-**Fråga:** Får en kvinna med månadsblödning bryta fastan under *ramadan[^1]* och fasta andra dagar i stället för under dagen som hon bröt fastan?
+**Fråga:** Får en kvinna med månadsblödning bryta fastan under *ramadan*[^1] och fasta andra dagar i stället för under dagen som hon bröt fastan?
 
 **Svar:** En kvinna med månadsblödning har inte en korrekt fasta och hon får inte göra så [fasta]. Så om hon får sin månadsblödning bryter hon fastan och fastar under andra dagar i stället för de dagar som hon bröt fastan när hon blivit ren.
 

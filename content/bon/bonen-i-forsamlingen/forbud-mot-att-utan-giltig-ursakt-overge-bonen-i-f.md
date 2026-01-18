@@ -23,7 +23,7 @@ Och Hans ord:
 
 > ”De som, när kallelsen till bön ljuder, hånar och gör narr av den, därför att de är människor som inte använder sitt förstånd.” [Koranen 5:58]
 
-Därmed är det en skyldighet att besvara böneutropet och därför berättar *ahādīth[^1]* om ett hot om bestraffning av den som inte kommer till bönen i form av att hans bön inte kommer att accepteras. I en *hadīth[^1]* sägs det:
+Därmed är det en skyldighet att besvara böneutropet och därför berättar *ahādīth*[^1] om ett hot om bestraffning av den som inte kommer till bönen i form av att hans bön inte kommer att accepteras. I en *hadīth*[^1] sägs det:
 
 > ”Den som hör kallet till bönen och inte besvarar det, det finns ingen bön för denne, utom om han har en ursäkt [sjukdom eller resa].” [*Ibn Mājah* 793, *ad-Daraqutni* 1:420 och *al-Hakim* 1:245]
 

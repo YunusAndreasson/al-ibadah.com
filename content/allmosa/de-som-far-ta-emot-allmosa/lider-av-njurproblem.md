@@ -1,5 +1,5 @@
 ---
-title: Lider av njurproblem
+title: Allmosa till sjuka med njurproblem
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Majmoo’ Fatāwa al-Shaykh Ibn ´Uthaymīn (18/342)
 categories:

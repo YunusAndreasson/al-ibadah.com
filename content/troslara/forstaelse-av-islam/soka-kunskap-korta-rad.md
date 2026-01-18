@@ -16,7 +16,7 @@ description: 'Fråga. I korta drag – hur gör man för att söka kunskap? Må 
 **Svar:** För att fatta mig kort – och enligt min åsikt – är tillvägagångssättet det följande:
 
 1. Skänk lite tid varje dag till att memorera Allāhs Bok, läs och reflektera för att du ska förstå det du läser. Hittar du något extra intressant stycke under din läsning, gör då en markering vid det.
-2. Börja med att memorera det som är lätt för dig ifrån vår profets autentiska *sunnah[^1]*. En bra bok att memorera är 'Umdatul-Ahkām.
+2. Börja med att memorera det som är lätt för dig ifrån vår profets autentiska *sunnah*[^1]. En bra bok att memorera är 'Umdatul-Ahkām.
 3. Var fokuserad och koncentrerad när du studerar och hoppa inte från ämne till ämne då detta enbart tar värdefull tid.
 4. Börja med mindre böcker och studera dem noga, fortsätt sedan med de större så att du lära dig lite åt gången.
 5. Försök att förstå de grundläggande delarna först, deras regler och begränsningar. Detta har uttrycksfullt förklarats på följande sätt: ”*Den som inte tar sig tid att lära grunderna, har hindrat sig själv från att nå fram till slutsatsen [eller målet]*.”

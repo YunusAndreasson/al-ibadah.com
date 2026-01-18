@@ -12,9 +12,9 @@ description: 'Fråga: Hur gör man sajdatut-tilawah och hur många taslīm bör 
  är att föredra att stå rakt för att sedan ne...'
 ---
 
-**Fråga:** Hur gör man *sajdatut-tilawah[^1]* och hur många *taslīm[^2]* bör man recitera i den?
+**Fråga:** Hur gör man *sajdatut-tilawah*[^1] och hur många *taslīm*[^2] bör man recitera i den?
 
-**Svar:** *Sajdatut-tilawah[^1]* är som nedfallandet[^3] under bönen. Det är att föredra att stå rakt för att sedan nedfalla[^3] på sju kroppsdelar [pannan, näsan, händerna, knäna och tårna] och säga: ”*Subhana Rabbial-A’la*” tre gånger följt av:
+**Svar:** *Sajdatut-tilawah*[^1] är som nedfallandet[^3] under bönen. Det är att föredra att stå rakt för att sedan nedfalla[^3] på sju kroppsdelar [pannan, näsan, händerna, knäna och tårna] och säga: ”*Subhana Rabbial-A’la*” tre gånger följt av:
 
 > ”Allāhumma, Inī Laka sajadtu wa bika amantu wa laka aslamtu, wa 'alaika tawakkaltu. Sajada wajhīya lillathī khalaqahu wa sawwarahu wa shaqqa sam'ahu wa basrahu, bihawkihi wa quwwatihi, tabarak Allāhu ahsanul khaliqīn.”
 >

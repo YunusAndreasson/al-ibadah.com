@@ -14,5 +14,9 @@ description: 'Fråga: Är allmosan en skyldighet för bilar som både används s
 
 **Fråga:** Är allmosan en skyldighet för bilar som både används som taxi och i privat syfte?
 
-**Svar:** Bilar som hyrs i transportsyfte eller privata bilar som man själv använder, de kräver ingen allmosa. Allmosa gäller enbart för deras hyra [pengarna som tjänas] om nivån för *nisab* uppnås eller om de gör det tillsammans med andra pengar som denne har, och *hawl* har fullbordats. Egendomar som denne hyr ut kräver [i sig själva] heller inte allmosa, utan den betalas enbart för hyran.
+**Svar:** Bilar som hyrs i transportsyfte eller privata bilar som man själv använder, de kräver ingen allmosa. Allmosa gäller enbart för deras hyra [pengarna som tjänas] om nivån för *nisāb*[^1] uppnås eller om de gör det tillsammans med andra pengar som denne har, och *hawl*[^2] har fullbordats. Egendomar som denne hyr ut kräver [i sig själva] heller inte allmosa, utan den betalas enbart för hyran.
+
+[^1]: Den lägsta nivån av tillgångar som gör allmosa obligatorisk.
+
+[^2]: Ett helt månår (354 dagar) som måste passera innan allmosa blir obligatorisk.
 

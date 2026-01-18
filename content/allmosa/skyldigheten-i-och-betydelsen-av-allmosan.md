@@ -1,5 +1,5 @@
 ---
-title: Skyldigheten i och betydelsen av allmosan
+title: Allmosans skyldighet och betydelse
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 148 s. ISBN saknas Muhammed Knut Bernström (1421),
@@ -16,9 +16,9 @@ All lovprisan tillhör Allāh allena och må välsignelser och frid vara över h
 
 Det som har lett till nedtecknandet av detta uttalande är för att ge råd och för att påminna om skyldigheten i allmosan, något om många muslimer har tagit lättvindigt. Därför ger de inte på så vis som är föreskrivet att ge, trots dess höga status och att den är en av islams fem pelare som islams grund inte kan uppresas korrekt utan. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Islam är byggt på fem [pelare]. Vittnesmålet om att ingen har rätten att dyrkas utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av bönen, att betala den obligatoriska allmosan, fastan under *ramadan[^1]* och pilgrimsfärden till Huset [Ka´bah].” [*al-Bukhārī* 8 och *Muslim* 16]
+> ”Islam är byggt på fem [pelare]. Vittnesmålet om att ingen har rätten att dyrkas utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av bönen, att betala den obligatoriska allmosan, fastan under *ramadan*[^1] och pilgrimsfärden till Huset [Ka´bah].” [*al-Bukhārī* 8 och *Muslim* 16]
 
-Denna hadiths äkthet råder det enighet om.
+Denna *hadīth*s äkthet råder det enighet om.
 
 Skyldigheten att betala allmosa är en av islams mest uppenbara förtjänster och en omtanke om förehavanden för de som antar religionen. Detta beror på dess stora nyttor och fattiga muslimers angelägna behov av den.
 
@@ -34,7 +34,7 @@ Och ytterligare en nytta är att man får välsignelser av välsignelser, ett ö
 
 > ”Säg: ’Min Herre ger den Han vill av Sina tjänare riklig och den [Han vill] knappare utkomst, och Han belönar er för vad det än är som ni ger åt andra.” [Koranen 34:39]
 
-Likaså har profeten – över honom vare Allāhs frid och välsignelser – i en autentisk *hadīth[^2]* sagt:
+Likaså har profeten – över honom vare Allāhs frid och välsignelser – i en autentisk *hadīth*[^2] sagt:
 
 > ”Allāh den Allsmäktige säger: 'Adams söner! Spendera och Allāh kommer att spendera på dig.'” [*al-Bukhārī* 4684. *Muslim* 993 och *Ahmad* 2:242]
 
@@ -42,7 +42,7 @@ Ett allvarligt hot har kommit till den som snålar med allmosan eller som missly
 
 > ”Troende! Många rabbiner och kyrkans lärda män lägger med orätt beslag på [andras] egendom och spärrar Guds väg [för andra]. De som samlar skatter av guld och silver och inte ger av detta för Guds sak, låt dem veta att ett plågsamt straff [väntar dem] den dag då dessa [skatter] ska glödgas i helvetets eld och deras pannor, sidor och ryggar brännmärkas med detta [och en röst säger:] ’Detta är de skatter ni samlade för att ni i ensamhet [ruva över dem]; smaka nu det som ni lade på hög!” [Koranen 9:34 – 35]
 
-Alla former av tillgångar som fordrar allmosa som inte har betalats är den giriges skatt [*kanz*]. Dess ägare kommer att plågas med den på Återuppståndelsens dag på det sätt som det har berättats om i en autentisk *hadīth[^2]* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
+Alla former av tillgångar som fordrar allmosa som inte har betalats är den giriges skatt [*kanz*]. Dess ägare kommer att plågas med den på Återuppståndelsens dag på det sätt som det har berättats om i en autentisk *hadīth*[^2] i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
 
 > ”Det finns ingen som äger guld eller silver och som inte betalar för dessa utan att eldplattor kommer att tillverkas för denne på Återuppståndelsens dag. De kommer att värmas med Helvetets eld. Sedan kommer dennes sidor, panna och rygg att brännas med dem. Varje gång de svalnar återupprepas processen för denne under en dag som kommer att vara femtiotusen år. Detta kommer att fortsätta tills domen har förkunnats bland tjänarna. Då kommer denne att se om dennes väg leder till Paradiset eller Elden.” [*Muslim* 987]
 
@@ -62,11 +62,11 @@ Det som kommer ur marken i form av korn och frukt, betesboskap, guld och silver 
 
 Var och en av dessa fyra kategorier har en angiven lägsta gräns och allmosa är inte obligatorisk för det som understiger denna gräns.
 
-Den lägsta gränsen för korn och frukt är fem *awsuq*. En *wasq* är detsamma som 60 *sa'[^3]* enligt det måttsystem som profeten – över honom vare Allāhs frid och välsignelser – använde. Därmed är den lägsta gränsen för torkade dadlar, russin, vete, ris, korn och liknande varor 300 *sa'[^3]* enligt hur profeten – över honom vare Allāhs frid och välsignelser – vägde. En *sa'[^3]* är det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
+Den lägsta gränsen för korn och frukt är fem *awsuq*. En *wasq* är detsamma som 60 *sa'*[^3] enligt det måttsystem som profeten – över honom vare Allāhs frid och välsignelser – använde. Därmed är den lägsta gränsen för torkade dadlar, russin, vete, ris, korn och liknande varor 300 *sa'*[^3] enligt hur profeten – över honom vare Allāhs frid och välsignelser – vägde. En *sa'*[^3] är det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
 
-När det gäller den lägsta gränsen för betesboskap som kameler, kor och får så förklaras detta i detalj i en autentiska *ahādīth[^2]* från Allāhs sändebud. Den som vill veta kan fråga de lärde om detta. Hade det inte varit för att avsikten med denna text hade varit att den ska vara kort, då hade vi lagt fram det här.
+När det gäller den lägsta gränsen för betesboskap som kameler, kor och får så förklaras detta i detalj i autentiska *ahādīth*[^2] från Allāhs sändebud. Den som vill veta kan fråga de lärde om detta. Hade det inte varit för att avsikten med denna text hade varit att den ska vara kort, då hade vi lagt fram det här.
 
-Den lägsta gränsen för silver är 140 *mithqal[^4]* och dess värde i saudisk valuta är 56 riyal[^5]. Den lägsta gränsen för guld är tjugo *mithqal[^4]* och dess värde i saudiska valuta är 11 3/7 *junayh*.
+Den lägsta gränsen för silver är 140 *mithqal*[^4] och dess värde i saudisk valuta är 56 riyal[^5]. Den lägsta gränsen för guld är tjugo *mithqal*[^4] och dess värde i saudiska valuta är 11 3/7 *junayh*.
 
 Det som man måste betala för dem [guld och silver] är en fyrtiondel, det vill säga 2.5 procent när man äger den minst mängden av något av dessa föremål. De måste också ha varit i ens ägo under ett år [innan allmosan ska betalas]. Får man någon vinst från dem räknas den ihop med ursprungsmängden och det behöver inte gå ett år [innan allmosa krävs på vinsten]. På samma sätt räknas ungdjur i kreatursbesättningen in i ursprungsantalet [när allmosan räknas ut] och det behöver inte gå ett år [innan man måste betala allmosa]. Detta så länge det ursprungliga antalet nådde upp till den lägsta nivån.
 
@@ -76,17 +76,17 @@ Sådana smycken som kvinnor bär och som har gjorts speciellt av guld och silver
 
 > ”Det finns ingen som äger guld eller silver och som inte betalar för dessa utan att eldplattor kommer att tillverkas för denne på Återuppståndelsens dag…” [*Muslim* 987]
 
-Till slutet av denna *hadīth[^2]* som vi redan har visat. Detta beror också på vad man har bekräftat från profeten, att han såg två guldarmband på en kvinnas hand och sade: ”*Betalar du allmosa för dessa?*” Kvinnan svarade: ”*Nej*.” Så han sade: ”*Nöjer det dig att Allāh kommer att göra dem till två armband av eld till dig på Återuppståndelsens dag?*” Så hon slet av dem och sade: ”*De är för Allāh och Hans sändebud*.” [*Abū Dawūd* 1563] Abū Dawūd och an-Nasā’i har återgivit denna *hadīth[^2]* med en god berättarkedja. Man har bekräftat att Umm Salamah bar armringar gjorda av guld så hon sade: ”*Allāhs sändebud! Är detta den giriges skatt [kanz]?*” Han svarade då: ”*Den mängd som når nivån för allmosa betalas allmosa för, då är det inte den giriges skatt [kanz]*.” [*Abū Dawūd* 1564]
+Till slutet av denna *hadīth*[^2] som vi redan har visat. Detta beror också på vad man har bekräftat från profeten, att han såg två guldarmband på en kvinnas hand och sade: ”*Betalar du allmosa för dessa?*” Kvinnan svarade: ”*Nej*.” Så han sade: ”*Nöjer det dig att Allāh kommer att göra dem till två armband av eld till dig på Återuppståndelsens dag?*” Så hon slet av dem och sade: ”*De är för Allāh och Hans sändebud*.” [*Abū Dawūd* 1563] Abū Dawūd och an-Nasā’i har återgivit denna *hadīth*[^2] med en god berättarkedja. Man har bekräftat att Umm Salamah bar armringar gjorda av guld så hon sade: ”*Allāhs sändebud! Är detta den giriges skatt [kanz]?*” Han svarade då: ”*Den mängd som når nivån för allmosa betalas allmosa för, då är det inte den giriges skatt [kanz]*.” [*Abū Dawūd* 1564]
 
-När det gäller handelsvaror är det föremål som anses vara till försäljning. Värdet på dem räknar man ut under årets slut och 2.5 procent av värdet ger man i allmosa. Det spelar ingen roll om deras värde är samma som deras pris, eller mer eller mindre. Detta beror på vad Allāhs sändebud – över honom vare Allāhs frid och välsignelser – säger i en *hadīth[^2]* från Samurah i vilken det berättas att han brukade beordra att välgörenhet ges för allt som anses vara till försäljning. Denna *hadīth[^2]* har *Abū Dawūd* återgivit. Här inkluderas även landstycken, byggnader, bilar, maskiner som hämtar upp vatten och andra föremål som kan tänkas vara till försäljning.
+När det gäller handelsvaror är det föremål som anses vara till försäljning. Värdet på dem räknar man ut under årets slut och 2.5 procent av värdet ger man i allmosa. Det spelar ingen roll om deras värde är samma som deras pris, eller mer eller mindre. Detta beror på vad Allāhs sändebud – över honom vare Allāhs frid och välsignelser – säger i en *hadīth*[^2] från Samurah i vilken det berättas att han brukade beordra att välgörenhet ges för allt som anses vara till försäljning. Denna *hadīth*[^2] har *Abū Dawūd* återgivit. Här inkluderas även landstycken, byggnader, bilar, maskiner som hämtar upp vatten och andra föremål som kan tänkas vara till försäljning.
 
 När det gäller byggnader som hyrs ut men som inte är till försäljning, då räknas allmosan på hyran, om byggnaden har varit i ens ägo under ett år. För byggnaderna i sig krävs det ingen allmosa då de inte har varit till försäljning.
 
-Man behöver heller inte betala allmosa för privatägda eller hyrda bilar då de inte är till försäljning. Ägaren har enbart köpt dem för att använda dem. Om den som äger hyrbilen, eller någon i en liknande situation, får ihop tillräckligt med pengar för att de ska uppnå den längst nivån, då måste denne betala allmosa för dessa pengar om ett år har gått medan de har varit i dennes ägo. Det spelar ingen roll om ägaren behåller pengarna för att spendera dem, att gifta sig, köpa egendom, betala av en skuld eller i något annat syfte. Detta beror på den generella innebörden av de bevisen som bevisar skyldigheten i allmosa för föremål som dessa.
+Man behöver heller inte betala allmosa för privatägda eller hyrda bilar då de inte är till försäljning. Ägaren har enbart köpt dem för att använda dem. Om den som äger hyrbilen, eller någon i en liknande situation, får ihop tillräckligt med pengar för att de ska uppnå den lägsta nivån, då måste denne betala allmosa för dessa pengar om ett år har gått medan de har varit i dennes ägo. Det spelar ingen roll om ägaren behåller pengarna för att spendera dem, att gifta sig, köpa egendom, betala av en skuld eller i något annat syfte. Detta beror på den generella innebörden av de bevisen som bevisar skyldigheten i allmosa för föremål som dessa.
 
 Den korrekta åsikten bland de lärde är att skuld inte hindrar skyldigheten att betala allmosa, på grund av vad som precis har nämnts.
 
-Enligt en majoritet av de lärda krävs allmosa även för den föräldralöses och den förståndshandikappades tillgångar om mängden tillgångar når den lägsta nivån och de har varit i någons ägo under ett år. Skyldigheten att betala allmosan är en plikt för dessas förmyndare och de betalar en gång om året för deras räkning. Anledningen återfinns i de generella innebörderna i bevisen. I en *hadīth[^2]* från Mu'ath finns det exempelvis ett uttalande från profeten – över honom vare Allāhs frid och välsignelser – när han sände honom till jemeniterna:
+Enligt en majoritet av de lärda krävs allmosa även för den föräldralöses och den förståndshandikappades tillgångar om mängden tillgångar når den lägsta nivån och de har varit i någons ägo under ett år. Skyldigheten att betala allmosan är en plikt för dessas förmyndare och de betalar en gång om året för deras räkning. Anledningen återfinns i de generella innebörderna i bevisen. I en *hadīth*[^2] från Mu'ath finns det exempelvis ett uttalande från profeten – över honom vare Allāhs frid och välsignelser – när han sände honom till jemeniterna:
 
 > ”Sannerligen, Allāh har gjort det till en skyldighet för dem att betala allmosa för deras tillgångar. Den tas från deras förmögna och ges till deras fattiga.” [*al-Bukhārī* 1395 och *Muslim* 19]
 

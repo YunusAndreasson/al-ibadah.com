@@ -1,5 +1,5 @@
 ---
-title: Förbud mot att citera något annat än *al-Fātihah* för den som leds i bön med
+title: Förbud mot att citera något annat än al-Fātihah för den som leds i bön med
  hög recitation
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
@@ -22,7 +22,7 @@ Allāh den Upphöjde har sagt: ”*Lyssna därför uppmärksamt när högläsnin
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*När imamen reciterar, var då tyst*.” [*Ibn Mājah* 847]
 
-Det enda undantaget är recitation av *al-Fātihah*, enligt den *hadīth[^1]* som nämnts tidigare och den generella innebörden av orden: ”*Det finns ingen bön för den som inte reciterar Fātihah al-Kitāb*.” [*al-Bukhārī* 756 och *Muslim* 394]
+Det enda undantaget är recitation av *al-Fātihah*, enligt den *hadīth*[^1] som nämnts tidigare och den generella innebörden av orden: ”*Det finns ingen bön för den som inte reciterar Fātihah al-Kitāb*.” [*al-Bukhārī* 756 och *Muslim* 394]
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

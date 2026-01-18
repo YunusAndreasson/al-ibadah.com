@@ -20,7 +20,7 @@ Eller tillämpas inte detta så att de bästa raderna för kvinnor då blir de f
 
 **Svar:** Det är uppenbart att anledning till att de bästa raderna för kvinnorna är de sista är att de inte är i närheten av männen. För sannerligen, desto längre bort kvinnan är från männen, desto säkrare är det för henne. Likaså bevarar det hennes heder och det håller henne borta från en böjelse till liderlighet.
 
-Om kvinnornas böneplats är långt från männens och avskild med en barriär, som en vägg eller ett förhänge, och de enbart lyssnar på imamen genom högtalare, då är den korrekta åsikten att den första raden är den bästa. Detta beror bland annat på att den är långt fram och att den är nära *qiblah[^1]* och liknande.
+Om kvinnornas böneplats är långt från männens och avskild med en barriär, som en vägg eller ett förhänge, och de enbart lyssnar på imamen genom högtalare, då är den korrekta åsikten att den första raden är den bästa. Detta beror bland annat på att den är långt fram och att den är nära *qiblah*[^1] och liknande.
 
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 

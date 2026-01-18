@@ -14,7 +14,7 @@ description: 'Fråga: Är recitation av sura al-Khaf under fredagen en rekommend
 
 **Fråga:** Är recitation av sura al-Khaf under fredagen en rekommenderad handling?
 
-**Svar:** Det finns *ahādīth[^1]* som tillskrivs profeten – över honom vare Allāhs frid och välsignelser – om detta. Var och en av dem stärker varandra vilket bevisar att det är tillåtet att recitera sura al-Kahf under fredagar.
+**Svar:** Det finns *ahādīth*[^1] som tillskrivs profeten – över honom vare Allāhs frid och välsignelser – om detta. Var och en av dem stärker varandra vilket bevisar att det är tillåtet att recitera sura al-Kahf under fredagar.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

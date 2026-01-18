@@ -12,13 +12,13 @@ description: 'Fråga: Vilket är utlåtandet om att be hälsningsbönen till mos
  är utlåtandet om att be frivilliga böner ...'
 ---
 
-**Fråga:** Vilket är utlåtandet om att be hälsningsbönen till moskén[^1] efter böneutropet för kvällsbönen[^2] när tiden mellan böneutropet och *iqāmah[^3]* är kort. Vilket är utlåtandet om att be frivilliga böner utöver *tahiyatul-masjid* innan kvällsbönen[^2]?
+**Fråga:** Vilket är utlåtandet om att be hälsningsbönen till moskén[^1] efter böneutropet för kvällsbönen[^2] när tiden mellan böneutropet och *iqāmah*[^3] är kort. Vilket är utlåtandet om att be frivilliga böner utöver *tahiyatul-masjid* innan kvällsbönen[^2]?
 
-**Svar:** Hälsningsbönen till moskén är en högt rekommenderad *sunnah[^4]* vid alla tidpunkter, även då det är förbjudet att be. Detta enligt den starkaste åsikten av de båda åsikterna som de lärde har. Detta basera på den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Om någon går in i moskén, då bör han inte sitta ned förrän han har bett två bönecykler[^5]*.” [*al-Bukhārī* 1163 och *Muslim* 714]
+**Svar:** Hälsningsbönen till moskén är en högt rekommenderad *sunnah*[^4] vid alla tidpunkter, även då det är förbjudet att be. Detta enligt den starkaste åsikten av de båda åsikterna som de lärde har. Detta basera på den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Om någon går in i moskén, då bör han inte sitta ned förrän han har bett två bönecykler*[^5].” [*al-Bukhārī* 1163 och *Muslim* 714]
 
-Bön mellan böneutropet och *iqāmah[^3]* för kvällsbönen[^2] är en *sunnah[^4]*, enligt en *hadīth[^6]* från profeten – över honom vare Allāhs frid och välsignelser – i vilken han säger: ”*Be innan kvällsbönen[^2]… be innan kvällsbönen[^2]*.” När han sade det den tredje gången lade han till: ”*För den som vill*”. [*al-Bukhārī* 1183 och 7368]
+Bön mellan böneutropet och *iqāmah*[^3] för kvällsbönen[^2] är en *sunnah*[^4], enligt en *hadīth*[^6] från profeten – över honom vare Allāhs frid och välsignelser – i vilken han säger: ”*Be innan kvällsbönen[^2]… be innan kvällsbönen*[^2].” När han sade det den tredje gången lade han till: ”*För den som vill*”. [*al-Bukhārī* 1183 och 7368]
 
-När böneutropet ropades ut för kvällsbönen[^2] brukade följeslagarna snabbt be två bönecykler[^5] innan *iqāmah[^3]*. Profeten – över honom vare Allāhs frid och välsignelser – såg dem då och han förbjöd dem inte att göra så. Faktum är att han beordrade dem till det, något som blir tydligt i den *hadīth[^6]* som nämns ovan.
+När böneutropet ropades ut för kvällsbönen[^2] brukade följeslagarna snabbt be två bönecykler[^5] innan *iqāmah*[^3]. Profeten – över honom vare Allāhs frid och välsignelser – såg dem då och han förbjöd dem inte att göra så. Faktum är att han beordrade dem till det, något som blir tydligt i den *hadīth*[^6] som nämns ovan.
 
 [^1]: Tahiyyatul-Msjid.
 [^2]: Maghrib

@@ -18,9 +18,9 @@ description: 'Fråga: Är det tillåtet att skjuta upp tawāful-ifādhah och utf
 
 Det är dock bättre om *tawāf[^1] ul-ifādhah* sker under *'eid*-dagen eller under *at-tashrīq*. Man får dock fortfarande skjuta upp till efter detta.
 
-Det är tillåtet att göra ett avbrott mellan varven i *tawāf[^1]* om det enbart gäller en kort stund. Det kan vara för att förnya sin tvagning[^2], dricka lite vatten, be den obligatoriska bönen eller begravningsbönen och liknande saker.
+Det är tillåtet att göra ett avbrott mellan varven i *tawāf*[^1] om det enbart gäller en kort stund. Det kan vara för att förnya sin tvagning[^2], dricka lite vatten, be den obligatoriska bönen eller begravningsbönen och liknande saker.
 
-När det gäller långa uppehåll, som en halvtimme eller mer, då är den korrekta åsikten att de tidigare varven blir ogiltiga och att man måste göra om *tawāf[^1]* från början efter detta avbrott. Detsamma sägs om *sa’ī[^3]* mellan as-Safa och al-Marwah.
+När det gäller långa uppehåll, som en halvtimme eller mer, då är den korrekta åsikten att de tidigare varven blir ogiltiga och att man måste göra om *tawāf*[^1] från början efter detta avbrott. Detsamma sägs om *sa’ī*[^3] mellan as-Safa och al-Marwah.
 
 Och Allāh vet bäst.
 

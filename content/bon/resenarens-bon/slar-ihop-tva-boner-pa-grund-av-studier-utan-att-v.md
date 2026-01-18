@@ -16,7 +16,7 @@ Får vi slå ihop två böner när vi bor i Medina när vi har lektioner som vi 
 
 Ni måste be de fem obligatoriska bönerna vid deras angivna tider. Lektioner anses inte vara en ursäkt för att skjuta upp någon av bönerna till efter de tider som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har angivit.
 
-Den *hadīth[^1]* som du nämner motsäger sig vad profetens – över honom vare Allāhs frid och välsignelser – gjorde i de flesta fall. Detta är något som det finns många rapporter som bekräftar. Därför måste du arrangera dina lektioner så att du kan be vid de angivna tiderna.
+Den *hadīth*[^1] som du nämner motsäger sig vad profetens – över honom vare Allāhs frid och välsignelser – gjorde i de flesta fall. Detta är något som det finns många rapporter som bekräftar. Därför måste du arrangera dina lektioner så att du kan be vid de angivna tiderna.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

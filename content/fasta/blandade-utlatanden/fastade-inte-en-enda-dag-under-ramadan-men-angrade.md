@@ -13,13 +13,13 @@ description: 'Fråga: Vilket är utlåtandet om någon som avsiktligen åt dagti
  dennes ånger accepteras eftersom Allāh ha...'
 ---
 
-**Fråga:** Vilket är utlåtandet om någon som avsiktligen åt dagtid under *ramadan[^1]* och som sedan ångrade sig inför Allāh? Accepteras dennes ånger?
+**Fråga:** Vilket är utlåtandet om någon som avsiktligen åt dagtid under *ramadan*[^1] och som sedan ångrade sig inför Allāh? Accepteras dennes ånger?
 
 **Svar:** Ja, dennes ånger accepteras eftersom Allāh har sagt:
 
 > ”Men Jag ger förvisso den full förlåtelse som ångrar sig, antar tron och sedan lever ett rättskaffens liv och följer vägledningen.” [Koranen 20:82]
 
-Och det finns även andra bevis ifrån Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]*.
+Och det finns även andra bevis ifrån Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^2].
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.

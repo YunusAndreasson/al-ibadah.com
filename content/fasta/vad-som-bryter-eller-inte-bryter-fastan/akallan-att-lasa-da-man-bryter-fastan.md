@@ -24,7 +24,7 @@ När profeten – över honom vare Allāhs frid och välsignelser – bröt fast
 > ”*Thahabath-thama'u wabtallatil-'urūqu wa thabatal-arju Inshā'-Allāh*”
 > [Törsten är borta, arterit är fuktiga och belöningen är säker, om Allāh vill.] [*Abū Dawūd* 2357]
 
-Även om det kan finnas svagheter i dessa båda *ahādīth[^2]* har vissa lärde förklarat att de är *hasan*.
+Även om det kan finnas svagheter i dessa båda *ahādīth*[^2] har vissa lärde förklarat att de är *hasan*.
 
 Om du har åkallat med dessa eller några andra ord som har nått ditt hjärta när du bröt fastan, då har de med största sannolikhet besvarats.
 

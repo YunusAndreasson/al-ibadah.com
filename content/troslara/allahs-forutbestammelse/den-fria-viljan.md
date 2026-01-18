@@ -20,22 +20,13 @@ Sedan bör han ställa sig frågan om olyckor inträffar genom hans fria vilja, 
 
 Svaret är att det som den vise gör utan tvekan görs genom dennes eget val. Lyssna på Allāhs ord:
 
-> ”Låt då den som så vill, försöka finna vägen tillbaka till sin Herre [medan det är tid]!” [Koranen 78:39]
+> "Låt då den som så vill, försöka finna vägen tillbaka till sin Herre [medan det är tid]!" [Koranen 78:39]
 >
+> "Det fanns de bland er som inte hade annat än denna världens [goda] för ögonen och det fanns de som såg mot evigheten." [Koranen 3:152]
 >
+> "Men den som har det eviga livet för ögonen och som riktar hela sin strävan mot detta [mål] och som har trons [visshet], sådana [som han ska se] sin strävan uppskattad [till dess fulla värde]." [Koranen 17:19]
 >
->
-> ”Det fanns de bland er som inte hade annat än denna världens [goda] för ögonen och det fanns de som såg mot evigheten.” [Koranen 3:152]
->
->
->
->
-> ”Men den som har det eviga livet för ögonen och som riktar hela sin strävan mot detta [mål] och som har trons [visshet], sådana [som han ska se] sin strävan uppskattad [till dess fulla värde].” [Koranen 17:19]
->
->
->
->
-> ”Men om omständigheterna hindrar er [att fullfölja den], ge då vad ni har möjlighet att ge som offergåva.” [Koranen 2:196]
+> "Men om omständigheterna hindrar er [att fullfölja den], ge då vad ni har möjlighet att ge som offergåva." [Koranen 2:196]
 
 Men om någon vill göra något och sedan gör det, då vet vi att Allāh ville det. Allāh säger:
 

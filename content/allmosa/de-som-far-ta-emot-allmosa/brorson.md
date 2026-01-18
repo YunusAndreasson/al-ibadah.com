@@ -1,5 +1,5 @@
 ---
-title: Brorson
+title: Allmosa till sin brorson
 author: Ibn ´Abdullāh Ibn Bāz
 source: Fatāwa al-Marah
 categories:

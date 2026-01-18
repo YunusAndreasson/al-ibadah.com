@@ -16,7 +16,7 @@ description: 'Fråga: Vilka bevis finns för sändebudens och profeternas upprik
 
 **Svar:** Allāh lade fram bevis för profeternas uppriktighet, stödde dem med mirakel som imponerade på människorna och de var även kända för deras uppriktighet samt goda råd. Deras karaktär var förträfflig, deras handlingar rättfärdiga, deras tungor sanningsenliga, de var pålitliga samt religiösa människor, de var glada och de hade ett glatt uppträdande. Allāh vet bäst var Han ska placera sitt budskap och de var de bästa i Allāhs skapelse. Er Herre skapar och väljer vem Han vill.
 
-Den som vill ha mer information i detta ämne bör läsa böcker om historia, *tafsīr[^1]*, *sīrah* och miraklen samt om bevis för deras profetskap. Dessa böcker har sammanställts av de lärde där de har utvecklat ämnet i detalj.
+Den som vill ha mer information i detta ämne bör läsa böcker om historia, *tafsīr*[^1], *sīrah* och miraklen samt om bevis för deras profetskap. Dessa böcker har sammanställts av de lärde där de har utvecklat ämnet i detalj.
 
 [^1]: Tolkning av Koranen efter givna principer.
 

@@ -14,7 +14,7 @@ description: 'Fråga : Är det tillåtet att be i handskar, speciellt om man är
 
 **Fråga**: Är det tillåtet att be i handskar, speciellt om man är imam?
 
-**Svar**: Män som kvinnor får bära handskar under böner och även utanför den. Detta gäller både imamen och andra. Anledningen är att imamen kan behöva dem på grund av kyla eller något liknande. Inga förbud har rapporterats, utom för kvinnor under *ihrām[^1]*.
+**Svar**: Män som kvinnor får bära handskar under böner och även utanför den. Detta gäller både imamen och andra. Anledningen är att imamen kan behöva dem på grund av kyla eller något liknande. Inga förbud har rapporterats, utom för kvinnor under *ihrām*[^1].
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 

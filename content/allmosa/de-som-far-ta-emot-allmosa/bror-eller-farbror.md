@@ -1,5 +1,5 @@
 ---
-title: Bror eller farbror
+title: Allmosa till bror eller farbror
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 189 s. ISBN saknas'
