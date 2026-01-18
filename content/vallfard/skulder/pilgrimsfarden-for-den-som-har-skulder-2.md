@@ -18,5 +18,5 @@ description: 'Fråga: Jag lånade 251000 riyal från en bank för att köpa en d
 
 Och Allāh är källan till styrka.
 
-[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 ramadan 1428).
+[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramadan* 1428).
 

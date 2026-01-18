@@ -1,5 +1,6 @@
 import { useEffect, useRef } from 'react'
 import type { Article } from '~/lib/markdown'
+import { ShareButton } from '~/components/ui/ShareButton'
 
 interface ArticleRendererProps {
   article: Article
@@ -39,20 +40,23 @@ export function ArticleRenderer({ article }: ArticleRendererProps) {
       <header className="mb-8 sm:mb-10">
         <h1 className="page-title mb-4">{frontmatter.title}</h1>
 
-        {(frontmatter.author || frontmatter.source) && (
-          <div className="text-sm text-muted-foreground space-y-1">
-            {frontmatter.author && (
-              <p>
-                <span className="font-medium">Författare:</span> {frontmatter.author}
-              </p>
-            )}
-            {frontmatter.source && (
-              <p>
-                <span className="font-medium">Källa:</span> {frontmatter.source}
-              </p>
-            )}
-          </div>
-        )}
+        <div className="flex items-start justify-between gap-4">
+          {(frontmatter.author || frontmatter.source) && (
+            <div className="text-sm text-muted-foreground space-y-1">
+              {frontmatter.author && (
+                <p>
+                  <span className="font-medium">Författare:</span> {frontmatter.author}
+                </p>
+              )}
+              {frontmatter.source && (
+                <p>
+                  <span className="font-medium">Källa:</span> {frontmatter.source}
+                </p>
+              )}
+            </div>
+          )}
+          <ShareButton title={frontmatter.title} />
+        </div>
       </header>
 
       <div ref={contentRef} className="prose-reading" dangerouslySetInnerHTML={{ __html: html }} />

@@ -25,7 +25,7 @@ De frivilliga bönerna finns det inget böneutrop för.
 [^2]: Asr
 [^3]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 [^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^5]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
+[^5]: En plats mellan *Mina* och *Arafat* där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
 [^6]: Maghrib
 [^7]: Isha
 [^8]: Att upphöja Allāh, Subhan Allāh.

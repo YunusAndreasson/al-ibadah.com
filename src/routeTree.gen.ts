@@ -9,6 +9,7 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
+import { Route as OmRouteImport } from './routes/om'
 import { Route as CategoryRouteImport } from './routes/$category'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as CategoryIndexRouteImport } from './routes/$category.index'
@@ -16,6 +17,11 @@ import { Route as CategorySubcategoryRouteImport } from './routes/$category.$sub
 import { Route as CategorySubcategoryIndexRouteImport } from './routes/$category.$subcategory.index'
 import { Route as CategorySubcategorySlugRouteImport } from './routes/$category.$subcategory.$slug'
 
+const OmRoute = OmRouteImport.update({
+  id: '/om',
+  path: '/om',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const CategoryRoute = CategoryRouteImport.update({
   id: '/$category',
   path: '/$category',
@@ -51,6 +57,7 @@ const CategorySubcategorySlugRoute = CategorySubcategorySlugRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/$category': typeof CategoryRouteWithChildren
+  '/om': typeof OmRoute
   '/$category/$subcategory': typeof CategorySubcategoryRouteWithChildren
   '/$category/': typeof CategoryIndexRoute
   '/$category/$subcategory/$slug': typeof CategorySubcategorySlugRoute
@@ -58,6 +65,7 @@ export interface FileRoutesByFullPath {
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/om': typeof OmRoute
   '/$category': typeof CategoryIndexRoute
   '/$category/$subcategory/$slug': typeof CategorySubcategorySlugRoute
   '/$category/$subcategory': typeof CategorySubcategoryIndexRoute
@@ -66,6 +74,7 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/$category': typeof CategoryRouteWithChildren
+  '/om': typeof OmRoute
   '/$category/$subcategory': typeof CategorySubcategoryRouteWithChildren
   '/$category/': typeof CategoryIndexRoute
   '/$category/$subcategory/$slug': typeof CategorySubcategorySlugRoute
@@ -76,6 +85,7 @@ export interface FileRouteTypes {
   fullPaths:
     | '/'
     | '/$category'
+    | '/om'
     | '/$category/$subcategory'
     | '/$category/'
     | '/$category/$subcategory/$slug'
@@ -83,6 +93,7 @@ export interface FileRouteTypes {
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
+    | '/om'
     | '/$category'
     | '/$category/$subcategory/$slug'
     | '/$category/$subcategory'
@@ -90,6 +101,7 @@ export interface FileRouteTypes {
     | '__root__'
     | '/'
     | '/$category'
+    | '/om'
     | '/$category/$subcategory'
     | '/$category/'
     | '/$category/$subcategory/$slug'
@@ -99,10 +111,18 @@ export interface FileRouteTypes {
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   CategoryRoute: typeof CategoryRouteWithChildren
+  OmRoute: typeof OmRoute
 }
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
+    '/om': {
+      id: '/om'
+      path: '/om'
+      fullPath: '/om'
+      preLoaderRoute: typeof OmRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/$category': {
       id: '/$category'
       path: '/$category'
@@ -178,6 +198,7 @@ const CategoryRouteWithChildren = CategoryRoute._addFileChildren(
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   CategoryRoute: CategoryRouteWithChildren,
+  OmRoute: OmRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

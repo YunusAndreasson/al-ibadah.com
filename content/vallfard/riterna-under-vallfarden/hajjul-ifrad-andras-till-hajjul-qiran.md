@@ -19,7 +19,7 @@ Och Allāh är den som ger framgång.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Någon som enbart vallfärdar.
-[^3]: Utför vallfärden och ´umrah samtidigt med en intention.
+[^3]: Utför vallfärden och ´*umrah* samtidigt med en intention.
 [^4]: Den lilla vallfärden.
 [^5]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^6]: Säga Labbayk Allahumma Labbayk under vallfärden.

@@ -13,7 +13,7 @@ description: 'Fråga: Är det tillåtet att lämna moskén efter böneutropet? S
 
 **Fråga:** Är det tillåtet att lämna moskén efter böneutropet?
 
-**Svar:** Abū Hurairah såg en man lämna moskén efter att böneutropet hade ropats ut, och han sade om honom: ”*När det gäller denna person har han gått emot Abul-Qāsims läror*.” [Återberättat av Muslim]
+**Svar:** Abū Hurairah såg en man lämna moskén efter att böneutropet hade ropats ut, och han sade om honom: ”*När det gäller denna person har han gått emot Abul-Qāsims läror*.” [Återberättat av *Muslim*]
 
 Att gå emot hans läror är förbjudet då Allāh i Koranen säger:
 

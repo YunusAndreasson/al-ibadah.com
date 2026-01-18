@@ -13,7 +13,7 @@ description: 'Fråga: Vilka misstag brukar pilgrimer begå när de besöker Araf
 
 **Fråga:** Vilka misstag brukar pilgrimer begå när de besöker *Arafat[^1]*?
 
-**Svar:** All lovprisan tillhör Allāh. Shaykh Muḥammad ibn ´Uthaymīn har svarat enligt följande.
+**Svar:** All lovprisan tillhör Allāh. *Shaykh* Muḥammad ibn ´Uthaymīn har svarat enligt följande.
 
 Det har återberättats att profeten – över honom vare Allāhs frid och välsignelser – under *Arafat[^1]*-dagen uppehöll sig i Namirah [en plats nära *Arafat[^1]*] tills solen passerat himlens mitt [vid början förmiddagsbönen[^2]]. Han red sedan iväg för att stanna vid botten i Wadi 'Arnah [som är en dal mellan Namirah och *Arafat[^1]*]. Där bad han middagsbönen[^2] och eftermiddagsbönen[^3] sammanslagna och förkortade till två bönecykler[^4] vid middagsbönen[^2]. Detta gjorde han med ett böneutrop och två *iqāmah[^5]*. Sedan red han till han kom till platsen där man står och där stod han. Han sade: ”*Jag står här men hela *Arafat[^1]* är en plats för att stå*.” Han fortsatte att stå där i riktning mot *qiblah[^6]* med händerna höjda, åminnandes och åkallandes[^7] Allāh. Detta gjorde han tills solen hade gått ned och då begav han sig till *Muzdalifah[^8]*.
 
@@ -36,7 +36,7 @@ Några av de misstag som vissa pilgrimer begår är följande:
 [^5]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 [^6]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 [^7]: Du´ā
-[^8]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
+[^8]: En plats mellan *Mina* och *Arafat* där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
 [^9]: Säga Labbayk Allahumma Labbayk under vallfärden.
 [^10]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^11]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

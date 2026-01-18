@@ -18,7 +18,7 @@ description: 'Fråga: Får en man som har trätt in i ihrām vid mīqāt klippa 
 Och Allāh är källan till all styrka. Må Allāh sända välsignelser och frid över profeten Muḥammad, hans familj och följeslagare.
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^2]: Platsen där pilgrimmen träder in i ihraam.
+[^2]: Platsen där pilgrimmen träder in i ihrām.
 [^3]: Den sju långa rundar vandringen runt Kabah.
 [^4]: Vandringen mellan as-Safa och al-Marwa.
 [^5]: Den lilla vallfärden.

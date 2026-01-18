@@ -37,9 +37,9 @@ Detta bevisar att religionens broderskap inte kan grundas utan att man ber och b
 
 Dessa båda grupper av troende som stred stod inte utanför trons broderskap även om ett dråp av en troende är en handling som innebär otro. *al-Bukhārī* har återgivit från Ibn Mas’ud som har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Att med ord antasta en muslim är olydnad och att strida mot denne är otro*.” [*al-Bukhārī*]
 
-Bevisen från profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* för att den som överger bönen är en icke-troende finns i profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Mellan en man och *shirk[^3]* och *kufr[^4]* är sannerligen övergivandet av bönen*.” [*Muslim*] Detta har Muslim återgivit när Jabir bin ´Abdullāh rapporterar från profeten.
+Bevisen från profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* för att den som överger bönen är en icke-troende finns i profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Mellan en man och *shirk[^3]* och *kufr[^4]* är sannerligen övergivandet av bönen*.” [*Muslim*] Detta har *Muslim* återgivit när Jabir bin ´Abdullāh rapporterar från profeten.
 
-Från Buraidah bin al-Husaib rapporteras det: ”*Jag hörde profeten säga: ’Avtalet som skiljer oss från dem är bönen och den som lämnar den har inte trott.’*” [*Imam Ahmad* 5:346, *at-Tirmithi* 2621 och *an-Nasā’i*] Detta har rapporterats av dem fem; Imam Ahmad och de som sammanställt sunan.
+Från Buraidah bin al-Husaib rapporteras det: ”*Jag hörde profeten säga: ’Avtalet som skiljer oss från dem är bönen och den som lämnar den har inte trott.’*” [*Imam Ahmad* 5:346, *at-Tirmithi* 2621 och *an-Nasā’i*] Detta har rapporterats av dem fem; Imam *Ahmad* och de som sammanställt sunan.
 
 'Ubadah bin as-Samit har rapporterat att de svor en trohetsed till profeten – över honom vare Allāhs frid och välsignelser – om att de aldrig skulle tvista med deras ledare om de inte såg tydlig otro i dem, som det finns bevis från Allāh för. [*al-Bukhārī*] Detta betyder att de inte skulle tvista med dem som Allāh gjorde till ansvariga över dem om de inte såg i dem vad de ansåg vara öppen otro som det finns bevis för från Allāh den Upphöjde. Förstår du detta, notera då även vad som Muslim återger i en *hadīth[^1]* från Umm Salamah i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
 
@@ -51,7 +51,7 @@ Detta är bevis från Allāhs den Upphöjdes Skrift och från Hans sändebuds *s
 
 > ”Allāhs sändebud gav oss råd: 'Sätt inte medhjälpare vid Allāhs sida och överge inte avsiktligen bönen. Den som avsiktligen och medvetet överger den är en icke-troende, och denne är utanför religionen [islam].” [*al-Majma'* 4:216 och *al-Mustadrak* 4:44]
 
-Beträffande *ahādīth[^1]* från följeslagarna har ´Umar bin al-Khattab sagt: ”*Det finns ingen islam, för den som överger bönen*.” [*Abi Shaibah* i *al-iman* 34] ´Abdullāh bin Sahqiq har sagt: ”*profetens – över honom vare Allāhs frid och välsignelser – följeslagare brukade inte anse övergivandet av någon handling som otro utom bönen*.” [*at-Tirmithi*] Beläggen från profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem -bevisar otron för den som överger bönen. Så gör även bevisen från de lärda. Imam Ahmad har sagt:
+Beträffande *ahādīth[^1]* från följeslagarna har ´Umar bin al-Khattab sagt: ”*Det finns ingen islam, för den som överger bönen*.” [*Abi Shaibah* i *al-iman* 34] ´Abdullāh bin Sahqiq har sagt: ”*profetens – över honom vare Allāhs frid och välsignelser – följeslagare brukade inte anse övergivandet av någon handling som otro utom bönen*.” [*at-Tirmithi*] Beläggen från profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem -bevisar otron för den som överger bönen. Så gör även bevisen från de lärda. Imam *Ahmad* har sagt:
 
 > ”De som ser ned på den och förringar dess värde föraktar islam och förringar den. Deras del av islam står i proportion till deras del av bönen och deras kärlek till islam står i proportion till deras kärlek till bönen.”
 

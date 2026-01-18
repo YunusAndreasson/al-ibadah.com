@@ -34,11 +34,11 @@ I denna sura lär Allāh – upphöjd är Han – Sin Profet att [han ska] be oc
 
 Det finns många verser som förmedlar denna mening.
 
-Då offer är en dyrkan så måste den uppriktigt tillägnas Allāh. Imam Muslim återberättar i sin Sahīh att de troendes befälhavare, ´Alī, har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Allāh förbannar den som offrar till andra än Honom*.” [*Muslim* 1978]
+Då offer är en dyrkan så måste den uppriktigt tillägnas Allāh. Imam *Muslim* återberättar i sin *Sahīh* att de troendes befälhavare, ´Alī, har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Allāh förbannar den som offrar till andra än Honom*.” [*Muslim* 1978]
 
 När det gäller dem som säger: ”*Jag besvärjer Allāh vid Hans älskade troendes rätt, vid Hans älskade troendes heder, vid profetens – över honom vare Allāhs frid och välsignelser – rätt eller vid hans heder*.” Sådana besvärjelser är inte *shirk[^1]*, men enligt de lärde är det en innovation. De anser också att detta är medel för, därför att en åkallan[^2] är en dyrkan och sättet det bör göras på är inte något som det går att ja olika åsikter om. Det finns inga bevis från profeten – över honom vare Allāhs frid och välsignelser – för att han har tillåtit besvärjelser vid någon människas rätt eller heder.
 
-Därmed får muslimer inte uppfinna en typ av tawassul[^5] som Allāh den Upphöjde inte har tillåtit. Allāh den Upphöjde säger:
+Därmed får muslimer inte uppfinna en typ av *tawassul*[^5] som Allāh den Upphöjde inte har tillåtit. Allāh den Upphöjde säger:
 
 > ”Har de [satt upp] medhjälpare till [Gud], som utan Guds tillstånd har utfärdat föreskrifter för dem på religionens område?” [Koranen 42:21]
 

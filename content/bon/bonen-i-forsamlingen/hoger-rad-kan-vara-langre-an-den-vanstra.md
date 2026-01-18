@@ -18,7 +18,7 @@ description: 'Fråga: Iqāmah ropades ut för nattbönen[^1] och radens högra s
 
 Det finns ingen invändan mot att höger sida är längre, om det beror på att man vill få Allāhs favörer.
 
-Jag känner inte till något om vad en av de närvarande sade: ”Den som fyller radens vänstra sida kommer att få två belöningar.” [Shaykh Ibn Baz sade senare: ”Senare fann jag att Ibn Mājah har återberättat detta.”]
+Jag känner inte till något om vad en av de närvarande sade: ”Den som fyller radens vänstra sida kommer att få två belöningar.” [*Shaykh* Ibn Baz sade senare: ”Senare fann jag att *Ibn Mājah* har återberättat detta.”]
 
 Troligtvis är detta en fabrikation påhittat av några lata människor som inte bryr sig om att be på radens högra sida eller som inte tävlar med andra för att hamna i den.
 

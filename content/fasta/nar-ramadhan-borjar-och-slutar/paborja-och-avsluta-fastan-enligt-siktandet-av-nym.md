@@ -26,7 +26,7 @@ Det har rapporterats att ´Abdur-Rahmān bin Zaid bin al-Khattab predikade under
 
 > ”Sannerligen satt jag med profetens – över honom vare Allāhs frid och välsignelser – följeslagare och jag frågade dem och de sade till mig att Allāhs sändebud hade sagt: 'Fasta enligt dess [nymånens] siktande och bryt er fasta enligt dess siktande. Och spana ivrigt efter den. Om den är dold bakom moln, fullborda då [månaden som] 30 dagar. Om två vittnen som är muslimer vittnar om att de har sett den, fasta då och bryt fastan [enligt deras vittnesmål].” [*Ahmad* 4:321 och *an-Nasā’i* 2118]
 
-Denna *hadīth[^1]* har Ahmad och an-Nasā’i återgivit utan att ha sagt: ”som är muslim[er]”.
+Denna *hadīth[^1]* har *Ahmad* och an-Nasā’i återgivit utan att ha sagt: ”som är muslim[er]”.
 
 Meckas styresman, al-Harith bin Hatib, har sagt: ”*Allāhs sändebud slöt ett avtal med oss om att vi skulle spana ivrigt efter nymånen. Och om vi inte såg den och enbart två vittnen vittnade om att de hade sett den, då skulle vi uppriktigt följa deras vittnesmål*.” Detta har Abū Dawūd och ad-Daraqutni återgivit och den sistnämnde har sagt: ”*Denna berättarkedja är sammankopplad och autentisk*.”
 

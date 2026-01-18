@@ -78,7 +78,7 @@ Sådana smycken som kvinnor bär och som har gjorts speciellt av guld och silver
 
 Till slutet av denna *hadīth[^2]* som vi redan har visat. Detta beror också på vad man har bekräftat från profeten, att han såg två guldarmband på en kvinnas hand och sade: ”*Betalar du allmosa för dessa?*” Kvinnan svarade: ”*Nej*.” Så han sade: ”*Nöjer det dig att Allāh kommer att göra dem till två armband av eld till dig på Återuppståndelsens dag?*” Så hon slet av dem och sade: ”*De är för Allāh och Hans sändebud*.” [*Abū Dawūd* 1563] Abū Dawūd och an-Nasā’i har återgivit denna *hadīth[^2]* med en god berättarkedja. Man har bekräftat att Umm Salamah bar armringar gjorda av guld så hon sade: ”*Allāhs sändebud! Är detta den giriges skatt [kanz]?*” Han svarade då: ”*Den mängd som når nivån för allmosa betalas allmosa för, då är det inte den giriges skatt [kanz]*.” [*Abū Dawūd* 1564]
 
-När det gäller handelsvaror är det föremål som anses vara till försäljning. Värdet på dem räknar man ut under årets slut och 2.5 procent av värdet ger man i allmosa. Det spelar ingen roll om deras värde är samma som deras pris, eller mer eller mindre. Detta beror på vad Allāhs sändebud – över honom vare Allāhs frid och välsignelser – säger i en *hadīth[^2]* från Samurah i vilken det berättas att han brukade beordra att välgörenhet ges för allt som anses vara till försäljning. Denna *hadīth[^2]* har Abū Dawūd återgivit. Här inkluderas även landstycken, byggnader, bilar, maskiner som hämtar upp vatten och andra föremål som kan tänkas vara till försäljning.
+När det gäller handelsvaror är det föremål som anses vara till försäljning. Värdet på dem räknar man ut under årets slut och 2.5 procent av värdet ger man i allmosa. Det spelar ingen roll om deras värde är samma som deras pris, eller mer eller mindre. Detta beror på vad Allāhs sändebud – över honom vare Allāhs frid och välsignelser – säger i en *hadīth[^2]* från Samurah i vilken det berättas att han brukade beordra att välgörenhet ges för allt som anses vara till försäljning. Denna *hadīth[^2]* har *Abū Dawūd* återgivit. Här inkluderas även landstycken, byggnader, bilar, maskiner som hämtar upp vatten och andra föremål som kan tänkas vara till försäljning.
 
 När det gäller byggnader som hyrs ut men som inte är till försäljning, då räknas allmosan på hyran, om byggnaden har varit i ens ägo under ett år. För byggnaderna i sig krävs det ingen allmosa då de inte har varit till försäljning.
 
@@ -104,5 +104,5 @@ Må Allāh sända välsignelser och frid över Hans tjänare och sändebud Muḥ
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
 [^4]: En vikt likvärdig med ungefär 4.5g.
-[^5]: En saudisk riyal är 1.62 kronor (Forex.se, 25 ramadan 1428).
+[^5]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramadan* 1428).
 

@@ -28,13 +28,13 @@ Detta gäller den som med stolthet drar sina klädesplagg efter sig.
 
 Om den som inte avser att visa stolthet och högmod återges i *Sahīh al-Bukhārī* att Abū Hurairah har rapporterat att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Det som hänger nedanför vristen av izār kommer att vara i Elden.” [*al-Bukhārī*]
+> ”Det som hänger nedanför vristen av *izār* kommer att vara i Elden.” [*al-Bukhārī*]
 
 Han sammankopplade det inte med stolthet och högmod. Enligt den *hadīth[^1]* som har nämnts tidigare är det heller inte rätt att sammankoppla dem. Detta beror på att Abū Sa´īd al-Khudri har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Den troendes *izār* är mitten av dennes smalben och där finns ingen synd [eller sade han: det finns ingen synd för denne] om den faller någonstans däremellan och ankeln. Och det som faller nedanför är i Elden. På Återuppståndelsens dag kommer Allāh inte att titta på den som med stolthet drar sin *izār* på marken.” [*Ahmad* 3:5, *Abū Dawūd* 4093 och *Ibn Mājah* 3573]
 
-Detta har återgivits av Mālik, Abū Dawūd, an-Nasā’i, Ibn Mājah och Ibn Hibban i hans *Sahīh* och det har nämnts i *at-Targhib wat-tahib* i kapitlet ”Rekommendation för att bära *qamis*” [Sida 88, vol. 3]
+Detta har återgivits av Mālik, *Abū Dawūd*, an-Nasā’i, *Ibn Mājah* och Ibn Hibban i hans *Sahīh* och det har nämnts i *at-Targhib wat-tahib* i kapitlet ”Rekommendation för att bära *qamis*” [Sida 88, vol. 3]
 
 Dessa båda handlingar är olika och så är även straffen för dem. När ett utlåtande och en orsak skiljer sig är det inte möjligt att sammankoppla det ovillkorliga med det villkorliga. Detta skulle kräva en motsägelse.
 

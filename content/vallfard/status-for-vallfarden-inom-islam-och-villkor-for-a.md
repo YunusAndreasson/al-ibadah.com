@@ -31,7 +31,7 @@ Villkoren för att vallfärden ska vara obligatoriskt är fem:
 2. Att man är vuxen. Har någon ännu inte kommit in i puberteten är vallfärden inte obligatoriskt för denne. Vallfärdar denne så räknas den som en frivillig sådan. När denne blir vuxen måste denne utföra den obligatoriska vallfärden. En vallfärd före puberteten uppfyller inte denna skyldighet.
 3. Att vara vid sunda sinnen, vilket är motsatsen till att vara galen. Den som är galen är inte skyldig att vallfärda. Pilgrimsfärden kan heller inte utföras för dennes räkning.
 4. Att vara fri. En slav är inte skyldig att vallfärda men om denne gör det räknas det som en frivillig vallfärd. Släpps slaven fri måste denne utföra den obligatoriska vallfärden. En vallfärd utförd när denne inte var fri uppfyller inte skyldigheten. Vissa lärde har sagt att om en slav vallfärdar med ägarens tillåtelse, då är detta giltigt och den behöver inte upprepas. Denna åsikt är mer korrekt.
-5. Att ha både finansiell och fysisk möjlighet. I en kvinnas fall inkluderar detta att ha en mahram[^3]. Om hon inte har en *mahram[^3]* är hon inte skyldig att vallfärda.
+5. Att ha både finansiell och fysisk möjlighet. I en kvinnas fall inkluderar detta att ha en *mahram*[^3]. Om hon inte har en *mahram[^3]* är hon inte skyldig att vallfärda.
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.

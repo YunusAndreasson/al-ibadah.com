@@ -55,7 +55,7 @@ Efter att man har tvagat sig är det rekommenderat att säga: “*Ashhadu an Lā
 
 > ”Det finns ingen bland er som tvagar sig ordentligt och noga, för att sedan säga: ‘*Ashhadu an Lā ilāha ill-Allāh wahdahu lā sharīka lah, wa ashhadu anna Muḥammadan ‘abduhu wa rasūluhu*’, utan att Paradisets portar öppnas för denne och denne får träda in igenom vilken denne vill av dem.” [*Muslim, al-Tahārah*, 345]
 
-I en rapport från al-Tirmithi finns tillägget: ”*Allāhumma ij’alni min al-tawwābīna wa’j’alni min al-mutatahhirīn* [Allāh, gör mig till en av dem som ångrar sig och gör mig till en av dem som renar sig].” [*al-Tahārah*, 50; klassad som Sahīh av al-Albāni i *Sahīh Sunan Abū Dawūd*, 48]
+I en rapport från al-*Tirmithi* finns tillägget: ”*Allāhumma ij’alni min al-tawwābīna wa’j’alni min al-mutatahhirīn* [Allāh, gör mig till en av dem som ångrar sig och gör mig till en av dem som renar sig].” [*al-Tahārah*, 50; klassad som Sahīh av al-Albāni i *Sahīh Sunan Abū Dawūd*, 48]
 
 Se vidare i *al-Mulakhkhas al-Fiqhi* by al-Fawzān, 1/36.
 

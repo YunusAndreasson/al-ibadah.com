@@ -17,7 +17,7 @@ description: 'Fråga: Allāh den Upphöjde säger: ”Vallfärden [ska fullgöra
 
 > ”Vallfärden [ska fullgöras under] de kända månaderna. Den som då beger sig i väg ska så länge vallfärden varar avhålla sig från intim samvaro med kvinnor, grovt tal samt trätor och tvister. Gud vet det goda ni gör.” [Koranen 2:197]
 
-Ädle shaykh, vilken är innebörden av orden *ar-rafth*, *al-fusuq* och *al-jidal* som är förbjudna? Blir vallfärden ogiltig om man grälar eller sysselsätter sig med vardagligheter?
+Ädle *shaykh*, vilken är innebörden av orden *ar-rafth*, *al-fusuq* och *al-jidal* som är förbjudna? Blir vallfärden ogiltig om man grälar eller sysselsätter sig med vardagligheter?
 
 De lärde har beskrivit termen *ar-rafth* som ”intim samvaro” och det som leder till det. Termen *al-fusuq* har de beskrivit med innebörden ”olydnad” [synder]. *al-jidal* har de beskrivit som ”argumentera och bråka utan någon nytta”. Det kan även vara diskussioner om sådant som Allāh har förklarat för tjänarna och som det då inte finns något behov av att argumentera kring. Den argumentation som har förbjudits inkluderar all argumentation som irriterar eller stör pilgrimer. Att argumentera på ett fint sätt för att klargöra sanningen eller ogiltigförklara falskhet, det är föreskrivet och det inkluderas inte i den sorts argumentering som är förbjuden.
 

@@ -12,7 +12,7 @@ description: 'Fråga: Om någon som vill vallfärda kommer till Mina via Mecka d
  gjort något fel om ha...'
 ---
 
-**Fråga:** Om någon som vill vallfärda kommer till Mina via Mecka den åttonde *dhul-hijjah[^1]* och denne gör *ghusl[^2]* i Mina, är det då tillräckligt för denne?
+**Fråga:** Om någon som vill vallfärda kommer till *Mina* via Mecka den åttonde *dhul-hijjah[^1]* och denne gör *ghusl[^2]* i *Mina*, är det då tillräckligt för denne?
 
 **Svar:** Han har inte gjort något fel om han gjorde *ghusl[^2]* i Mina. Men det är bättre att bada i sitt hem eller vid någon annan plats i Mecka före man går in sin *ihrām[^3]*. Sedan bör man i sitt hem träda in i *ihrām[^3]* för vallfärden [i Mecka]. Man behöver inte gå in i den Heliga moskén för att göra *tawāf[^4]*. Den som går till Mina under *tarwiyyah*-dagen behöver inte utföra en *tawāf[^4] ul-wadā*.
 

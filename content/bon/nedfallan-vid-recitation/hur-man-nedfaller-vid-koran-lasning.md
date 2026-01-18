@@ -11,7 +11,7 @@ description: 'Fråga: Hur ska man göra sujūd al-tilāwah? Behöver man tvaga s
  när man läser vissa verser i Koranen]? Måste ...'
 ---
 
-**Fråga:** Hur ska man göra *sujūd al-tilāwah*? Behöver man tvaga sig för det? Behöver man tvaga sig när man ska göra *sujūd al-tilāwah* [nedfallandet när man läser vissa verser i Koranen]? Måste vi säga ”*Allāhu akbar*” när vi går ned och upp? Vad ska vi säga under nedfallandet? Är de åkallan[^1] som har berättats om detta *sahīh*? Är det föreskrivet att säga salām efter detta nedfallande om det görs utanför bönen?
+**Fråga:** Hur ska man göra *sujūd al-tilāwah*? Behöver man tvaga sig för det? Behöver man tvaga sig när man ska göra *sujūd al-tilāwah* [nedfallandet när man läser vissa verser i Koranen]? Måste vi säga ”*Allāhu akbar*” när vi går ned och upp? Vad ska vi säga under nedfallandet? Är de åkallan[^1] som har berättats om detta *sahīh*? Är det föreskrivet att säga *salām* efter detta nedfallande om det görs utanför bönen?
 
 **Svar:** All lovprisan tillhör Allāh. Enligt den mer korrekta åsikten som de lärde har behövs inte tvagning[^2] för *sujūd al-tilāwah*. Det finns heller ingen *salām* eller *takbīr[^3]* när man kommer upp från den, enligt den mest korrekta åsikten av de båda åsikterna. Det är föreskrivet att säga takbīr[^3] under nedfallandet. Bevisen för detta finns i en *hadīth[^4]* från Ibn ’Umar. Utförs *sujūd al-tilāwah* under bönen är det obligatoriskt att säga *takbīr[^3]* när man går ned och när man kommer upp. Profeten – över honom vare Allāhs frid och välsignelser – brukade ju göra det i varje rörelse i bönen, och han sade: ”*Be som ni har sett mig be*.” [Berättad av al-Bukhāri i hans *Sahīh*, 595]. De åminnelser[^5] och åkallan[^1] som är föreskrivna i nedfallandet under [vanlig] bön är föreskrivna i *sujūd al-tilāwah*. Detta på grund av den generella betydelsen i *ahādīth[^4]* i denna fråga. Bland dessa åkallan[^1] är:
 
@@ -19,7 +19,7 @@ description: 'Fråga: Hur ska man göra sujūd al-tilāwah? Behöver man tvaga s
 >
 > [Allāh! Inför Dig har jag nedfallit och på Dig har jag trott, och Dig är jag underkastad. Mitt ansikte har nedfallit inför Honom som skapade det och formade det, och tog fram dess förmågor av hörande och seende med Hans Styrka och Kraft. Välsignad vare Allāh, den Bäste av skapare.]
 
-Detta har Muslim återgivit i sin *Sahīh*, 1290 från profeten; han sade att han brukade säga denna åminnelse[^5] under nedfallandet i bönen, enligt en *hadīth[^4]* från ’Ali.
+Detta har *Muslim* återgivit i sin *Sahīh*, 1290 från profeten; han sade att han brukade säga denna åminnelse[^5] under nedfallandet i bönen, enligt en *hadīth[^4]* från ’Ali.
 
 Vi har ovan nämnt att det är föreskrivet att säga detsamma i *sujūd al-tilāwah* som i nedfallandet i [den vanliga] bönen. Det har berättats att profeten – över honom vare Allāhs frid och välsignelser – brukade åkalla när han gjorde *sujūd al-tilāwah*, och han sade:
 

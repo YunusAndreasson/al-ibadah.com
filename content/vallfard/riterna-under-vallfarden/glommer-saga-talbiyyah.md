@@ -21,11 +21,11 @@ Det är föreskrivet att han säger *talbiyyah[^3]* på vägen till Mecka. Om ha
 I detta fall är utlåtandet för honom samma som utlåtandet om dem som gör *´umrah[^5]* och vallfärden tillsammans som *hajjul-tamattu´*[^6].
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^2]: Platsen där pilgrimmen träder in i ihraam.
+[^2]: Platsen där pilgrimmen träder in i ihrām.
 [^3]: Säga Labbayk Allahumma Labbayk under vallfärden.
-[^4]: Någon som både gör ´umrah och vallfärdar.
+[^4]: Någon som både gör ´*umrah* och vallfärdar.
 [^5]: Den lilla vallfärden.
-[^6]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
+[^6]: När man först gör ´*umrah* och lämnar *ihrām* för att därpå träda in i *ihrām* för vallfärden.
 [^7]: Den sju långa rundar vandringen runt Kabah.
 [^8]: Vandringen mellan as-Safa och al-Marwa.
 [^9]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.

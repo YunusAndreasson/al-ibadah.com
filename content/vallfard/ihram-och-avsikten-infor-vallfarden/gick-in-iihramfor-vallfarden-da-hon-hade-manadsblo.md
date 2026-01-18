@@ -21,6 +21,6 @@ Det är tillåtet att kamma håret om man inte klipper eller parfymerar det. Om 
 Denna försoning är att föda sex fattiga genom att ge var och en av dem en halv *sa'[^3]* av landets mat, att slakta ett får eller att fasta tre dagar för var och en av dessa saker [att håret klippts och att parfym använts].
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^2]: Platsen där pilgrimmen träder in i ihraam.
+[^2]: Platsen där pilgrimmen träder in i ihrām.
 [^3]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
 

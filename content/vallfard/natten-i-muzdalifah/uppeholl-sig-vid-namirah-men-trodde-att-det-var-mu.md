@@ -16,5 +16,5 @@ description: 'Fråga: En pilgrim uppehöll sig i Namirah i tron att det var Muzd
 
 **Svar:** De som är i Namirah i tron att det är *Muzdalifah[^1]*, de måste offra ett djur [som försoning]. Anledningen är att de borde ha frågat. Deras vallfärd är dock giltig.
 
-[^1]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
+[^1]: En plats mellan *Mina* och *Arafat* där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
 

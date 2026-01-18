@@ -53,10 +53,7 @@ export function Header() {
 
       <header>
         <div className="max-w-3xl mx-auto px-4 h-14 flex items-center justify-between">
-          <Link
-            to="/"
-            className="font-semibold tracking-tight text-foreground"
-          >
+          <Link to="/" className="font-semibold tracking-tight text-foreground">
             al-Ibadah
           </Link>
 

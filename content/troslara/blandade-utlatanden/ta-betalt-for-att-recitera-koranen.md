@@ -27,11 +27,11 @@ Vilket är det islamiska utlåtandet om välgörenheten som de samlar in och del
 
 Det har aldrig rapporterats att de rättfärdiga föregångarna hyrde någon för att läsa Koranen under deras ”fester”. Det har heller inte rapporterats att de lärde har beordrat eller ens tillåtit detta. Och vidare har det inte rapporterats att någon av dem har tagit betalt för att recitera Koranen under en glädjefull sammankomst eller vid något annat tillfälle. I stället har de läst Allāhs skrift och varit förväntansfulla över vad Han har förberett för dem.
 
-Profeten – över honom vare Allāhs frid och välsignelser – har beordrat dem som läser Koranen att be Allāh genom den och varnat dem för att tigga. at-Tirmithi återger i sin *Sunan* att ’Imrān bin Hussain passerade en predikant som började tigga efter att ha avslutat sin predikan. ’Imrān sade:
+Profeten – över honom vare Allāhs frid och välsignelser – har beordrat dem som läser Koranen att be Allāh genom den och varnat dem för att tigga. *at-Tirmithi* återger i sin *Sunan* att ’Imrān bin Hussain passerade en predikant som började tigga efter att ha avslutat sin predikan. ’Imrān sade:
 
 > ”Jag hörde profeten – över honom vare Allāhs frid och välsignelser – säga: ’Den som reciterar Koranen bör be Allāh genom den, för det kommer att komma ett folk som reciterar Koranen och sedan ber människor om pengar [för det].” [*at-Tirmithi* 2917 och *Ahmad* 4:432]
 
-Enligt autentiska hadither är det inte tillåtet att ta betalt för att lära ut eller läsa för sjuka […] En *hadīth[^1]* om detta är den från Abū Sa’id när han tog emot en flock får för att läka någon genom att recitera sura al-Fātihah. En annan *hadīth[^1]* är den från Sahl om när profeten – över honom vare Allāhs frid och välsignelser – gifte en man med en kvinna och ansåg att hennes brudgåva var att mannen lärde henne de suror i Koranen som han hade memorerat.
+Enligt autentiska *hadither* är det inte tillåtet att ta betalt för att lära ut eller läsa för sjuka […] En *hadīth[^1]* om detta är den från Abū Sa’id när han tog emot en flock får för att läka någon genom att recitera sura al-Fātihah. En annan *hadīth[^1]* är den från Sahl om när profeten – över honom vare Allāhs frid och välsignelser – gifte en man med en kvinna och ansåg att hennes brudgåva var att mannen lärde henne de suror i Koranen som han hade memorerat.
 
 Därför motsätter sig den som tar betalt för att läsa Koranen samt den som hyr någon för att göra det konsensus hos de rättfärdiga föregångarna, må Allāh ge dem nåd.
 
@@ -69,7 +69,7 @@ Abū Hurairah har berättat att profeten – över honom vare Allāhs frid och v
 
 > ”Den som ber människor om mer tillgångar ber om glödande kol. Så låt denne ta mer eller mindre eld.” [*Muslim* 1041, *Ibn Mājah* 1838 och *Ahmad* 2:231]
 
-Den som tigger med Koranen som hjälp gäller hadithen från ’Imrān bin Husain för, om denne är fattig. Men om denne är rik, då gäller alla hotelser i den ovan nämnda hadithen.
+Den som tigger med Koranen som hjälp gäller *hadithen* från 'Imrān bin Husain för, om denne är fattig. Men om denne är rik, då gäller alla hotelser i den ovan nämnda *hadithen*.
 
 Den *hadīth[^1]* som du citerade i din fråga känner vi inte till äktheten i.
 

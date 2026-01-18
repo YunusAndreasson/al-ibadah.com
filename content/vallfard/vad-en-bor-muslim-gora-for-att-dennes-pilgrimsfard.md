@@ -38,7 +38,7 @@ Ett annat villkor är att man undviker det som Allāh har förbjudit. Allāh sä
 
 Man bör undvika det som Allāh har förbjudit generellt, oavsett om det är under pilgrimsfärden eller under andra tider. Detta kan vara omoraliska [handlingar], synd, tal som är otillåtet eller att lyssna på musik. Man bör också undvika det som Allāh har förbjudit speciellt under pilgrimsfärden som intim samvaro med kvinnor och att raka huvudet. Man bör undvika att bära det som profeten – över honom vare Allāhs frid och välsignelser – har förbjudit oss att bära i *ihrām[^2]*. Generellt sett bör man undvika allt som är förbjudet under *ihrām[^2]*.
 
-Pilgrimen bör även vara vänlig, generös och lättsam med sina tillgångar och handlingar. Man bör behandla sin bror så väl som möjligt. Man måste undvika att irritera och störa muslimer på de heliga platserna, marknadsplatserna eller under de stora folksamlingarna vid matāf [området runt Ka'bah där *tawāf[^3]* utförs], *mas'ā*[platsen där *sā'i *utförs], runt jamarāt och på andra platser.
+Pilgrimen bör även vara vänlig, generös och lättsam med sina tillgångar och handlingar. Man bör behandla sin bror så väl som möjligt. Man måste undvika att irritera och störa muslimer på de heliga platserna, marknadsplatserna eller under de stora folksamlingarna vid matāf [området runt Ka'bah där *tawāf[^3]* utförs], *mas'ā*[platsen där *sā'i* utförs], runt jamarāt och på andra platser.
 
 Detta är det som är obligatoriskt för en pilgrim eller det som denne måste utföra. Det bästa sättet för att uppnå detta är att resa med någon kunnig som kan påminna en om ens religion. Är detta inte möjligt bör man läsa böcker från de lärda innan man börjar vallfärden. Då dyrkar man Allāh med kunskap.
 

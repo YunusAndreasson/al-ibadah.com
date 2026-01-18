@@ -16,7 +16,7 @@ description: 'Fråga: När en ledare eller president dör, då brukar somliga re
 
 **Svar:** Vad somliga gör när de tysta står upp för att sörja martyrer eller prominenta personer för att hedra dem är motbjudande och det är en innovation som varken praktiserades under profetens – över honom vare Allāhs frid och välsignelser – eller under de rättfärdiga efterträdarnas livstid.
 
-Dessa handlingar är heller inte enligt tawhids krav eller ett uppriktigt prisande av Allāh.
+Dessa handlingar är heller inte enligt *tawhids* krav eller ett uppriktigt prisande av Allāh.
 
 Somliga okunniga muslimer tar dessa handlingar från de icke-troende och efterliknar deras felaktiga vanor. De går då över gränsen när det kommer till att vörda statsöverhuvuden och andra prominenta personer, döda som levande. Profeten – över honom vare Allāhs frid och välsignelser – förbjöd ett efterliknande av de icke-troende.
 

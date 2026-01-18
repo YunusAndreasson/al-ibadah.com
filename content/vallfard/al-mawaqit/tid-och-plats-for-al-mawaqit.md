@@ -26,7 +26,7 @@ Den som inte har en *mīqāt[^9]* på sin väg, denne går in i *ihrām[^6]* nä
 
 Och Allāh vet bäst.
 
-[^1]: Platserna för att träda in i ihrām.
+[^1]: Platserna för att träda in i *ihrām*.
 [^2]: Den lilla vallfärden.
 [^3]: Den tionde månaden i det islamiska året. Under denna månad är det rekommenderat att fasta sex dagar frivillig fasta.
 [^4]: Den elfte månaden i det islamiska året.
@@ -34,5 +34,5 @@ Och Allāh vet bäst.
 [^6]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^7]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
 [^8]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
-[^9]: Platsen där pilgrimmen träder in i ihraam.
+[^9]: Platsen där pilgrimmen träder in i ihrām.
 

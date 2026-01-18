@@ -27,7 +27,7 @@ Allāh har inte nämnt något mer än detta.
 Och Allāh vet bäst.
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^2]: Platsen där pilgrimmen träder in i ihraam.
+[^2]: Platsen där pilgrimmen träder in i ihrām.
 [^3]: Den lilla vallfärden.
 [^4]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

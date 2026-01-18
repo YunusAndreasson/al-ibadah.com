@@ -27,10 +27,10 @@ Dessa fyra böcker är skrivna av shaykh al-islām Muḥammad ibn ’Abd al-Wahh
 7. *al-Tadmuriyyah*
 
 Dessa båda böcker är mer omfattande än *al-Wāsitiyyah*. Alla är skrivna av *shaykh al-islām* Ibn Taymiyah.
-8. *al-’aqīdah al-Tahhāwiyyah* av shaykh Abū Ja’far Ahmad ibn Muḥammad al-Tahhāwi
-9. *Sharh al-’aqīdah al-Tahhāwiyyah* av Abu’l-Hasan ‘Ali ibn Abi’l-‘Izz
-10. *al-Durar al-SaNiyyah fi’l-Ajūbah al-Najdiyyah*, sammanställd av shaykh ‘Abd al-Rahmān ibn Qāsim.
-11. *al-Durrah al-Madiyyah fi ‘aqīdah al-Firqah al-Mardiyyah* av Muḥammad ibn Ahmad al-Safārīni al-Hanbali. Denna bok innehåller dock några uttalanden som går emot *salaf[^2]*s rättsskola – exempelvis: ”*Vår Herre är inte något väsen, attribut eller fysiskt begrepp – upphöjd är Han*”. Därför är det bäst att läsa denna bok tillsammans med en *shaykh* som är kunnig om *salaf[^2]*s *‘aqīdah* och som kan förklara de uttalanden i den som går emot den *‘aqīdah* som de rättfärdige *salaf[^2]* – må Allāh vara nöjda med dem – hade.
+8. *al-’aqīdah al-Tahhāwiyyah* av *shaykh* Abū Ja’far *Ahmad* ibn Muḥammad al-Tahhāwi
+9. *Sharh al-’aqīdah al-Tahhāwiyyah* av Abu’l-*Hasan* ‘Ali ibn Abi’l-‘Izz
+10. *al-Durar al-SaNiyyah fi’l-Ajūbah al-Najdiyyah*, sammanställd av *shaykh* ‘Abd al-Rahmān ibn Qāsim.
+11. *al-Durrah al-Madiyyah fi ‘aqīdah al-Firqah al-Mardiyyah* av Muḥammad ibn Ahmad al-Safārīni al-Hanbali. Denna bok innehåller dock några uttalanden som går emot *salaf[^2]*s rättsskola – exempelvis: ”*Vår Herre är inte något väsen, attribut eller fysiskt begrepp – upphöjd är Han*”. Därför är det bäst att läsa denna bok tillsammans med en *shaykh* som är kunnig om *salaf[^2]*s *‘aqīdah* och som kan förklara de uttalanden i den som går emot den *‘aqīdah* som de rättfärdiga *salaf[^2]* – må Allāh vara nöjda med dem – hade.
 
 *Hadīth*
 
@@ -38,7 +38,7 @@ Dessa båda böcker är mer omfattande än *al-Wāsitiyyah*. Alla är skrivna av
 2. *Subul al-Salām Sharh Bulūgh al-Marām* av al-San’āni, och hans
 3. *Jāmi’ bayna al-Hadīth wa’l-Fiqh*.
 4. *Nayl al-Awtār Sharh Muntaqā al-Akhbār* av al-Shawkāni.
-5. *’Umdat al-Ahkām *av al-Maqdisi. Detta är en förkortad bok. De flesta *ahādīth[^3]* finns nedskrivna i *al-Sahīhayn* och därför behöver heller inte deras autencitet kontrolleras.
+5. *'Umdat al-Ahkām* av al-Maqdisi. Detta är en förkortad bok. De flesta *ahādīth[^3]* finns nedskrivna i *al-Sahīhayn* och därför behöver heller inte deras autenticitet kontrolleras.
 6. *al-Arba’īn al-Nawawiyyah* av Abū Zakariyya al-Nawawi. Detta är en bra bok då den tar upp etikett, god metodologi och viktiga grundläggande principer som denna *hadīth[^3]*: ”*En del av att vara en god muslim är att lämna det som inte berör en*.” [Återberättad av imam Ahmad, 1 – 201; al-Tirmithi, 2318; klassad som *hasan* by al-Nawawi i *Riyādh al-Sālihīn*, 73; klassad som Sahīh av Ahmad Shākir i *al-Musnad*, 1737] Denna princip – om man gör den till vägen som man följer – skulle vara tillräcklig. En annan princip läggs fram om när man bör tala: ”*Den som tror på Allāh och den Yttersta dagen, låt denne säga något bra eller vara tyst*.” [*al-Bukhāri, Kitāb al-Adab; Muslim, Kitāb al-Luqtah, Bāb al-Diyāfah*]
 7. *Bulūgh al-Marām* av al-Hāfiz Ibn Hajar al-‘Asqallāni. Detta är en mycket användbar bok, speciellt då den nämner återberättarna och citat från de lärde som har sagt vilka *ahādīth[^3]* som är *sahīh* och vilka som är *da’īf*. Han kommenterar varje *hadīth[^3]* och säger om den är *sahīh* eller *da’īf*.
 8. *Nukhbat al-Fikr* av al-Hāfiz Ibn Hajar al-‘Asqallāni. Detta anses vara ett mycket omfattande verk. Om den islamstudernade förstår det fullt ut kommer denne inte ha något behov av speciellt många andra böcker i vetenskapen om *hadīth[^3]*. Ibn Hajar skriver på ett nyttigt sätt då han undersöker varje fråga i detalj och då han kategoriserar de ämnen som han diskuterar. Om den islamstuderande läser den kommer denne att finna den stimulerande då den får en att tänka. Jag säger: Det är bra för den som studerar islam att memorera den då den innehåller en nyttig sammanställning av vetenskapen om *hadīth[^3]* .
@@ -48,7 +48,7 @@ Dessa båda böcker är mer omfattande än *al-Wāsitiyyah*. Alla är skrivna av
 
 1. *Ādāb al-mashiy ila’l-Salāh* av *shaykh al-islām* Muḥammad ibn ‘Abd al-Wahhāb.
 2. *Zād al-Mustaqni’ fi Ikhtisār al-Muqni’* av al-Hajjāwi. Detta är en av de bästa böckerna om *fiqh[^4]*; en välsignad bok – överskådlig men ändå omfattande. Vår shaykh ‘Abd al-Rahmān al-Sa’di sade åt oss att vi skulle memorera den även om någon hade memorerat texten i *Dalīl al-Tālib*.
-3. *al-Rawd al-Murbi’ Sharh Zād al-Mustaqni’* av shaykh Mansūr al-Bahūti.
+3. *al-Rawd al-Murbi’ Sharh Zād al-Mustaqni’* av *shaykh* Mansūr al-Bahūti.
 4. *‘Umdat al-Fiqh* av Ibn Qudāmah.
 5. *al-Usūl min ‘Ilm al-Usūl*. Detta är en förkortat bok som tjänar som introduktion för den islamstuderande.
 
@@ -59,15 +59,15 @@ Dessa båda böcker är mer omfattande än *al-Wāsitiyyah*. Alla är skrivna av
 
 *Tafsīr*
 
-1. *Tafsīr al-Qur’ān al-‘Azīm* av Ibn Kathīr. Denna bok är bra för *tafsīr[^5]* grundad på rapporter. Den är användbar och pålitlig. Den lägger dock inte så stor vikt vid gramatik och stil.
-2. *Tafsīr al-Karīm al-Rahmān fi Tafsīr Kalām al-Mannān* av shaykh ‘Abd al-Rahmān al-Sa’di. Detta är en bra, lätt och pålitlig bok. Jag rekommenderar den.
+1. *Tafsīr al-Qur’ān al-‘Azīm* av Ibn Kathīr. Denna bok är bra för *tafsīr[^5]* grundad på rapporter. Den är användbar och pålitlig. Den lägger dock inte så stor vikt vid grammatik och stil.
+2. *Tafsīr al-Karīm al-Rahmān fi Tafsīr Kalām al-Mannān* av *shaykh* ‘Abd al-Rahmān al-Sa’di. Detta är en bra, lätt och pålitlig bok. Jag rekommenderar den.
 3. *Muqaddimah shaykh al-islām fi’l-Tafsīr*. Detta är en viktig introduktion.
 4. *Adwā’ al-Bayān av al-‘Allāmah Muḥammad al-Shanqīti*. Detta är en omfattande bok som täcker *hadīth[^3], *fiqh[^4]*, *tafsīr[^5]* och *usūl al-fiqh[^4]*.
 
 Allmänna böcker
 
 1. Arabisk grammatik: *Matn al-Ajrūmiyyah*. Detta är en förkortad bok.
-2. Arabisk grammatik: *Alfiyyah Ibn Mālik*. Detta är en sammanställning over språkkunskap.
+2. Arabisk grammatik: *Alfiyyah Ibn Mālik*. Detta är en sammanställning över språkkunskap.
 3. profetens – över honom vare Allāhs frid och välsignelser – biografi: Den bästa bok som jag har sett är *Zād al-Ma’ād* av Ibn al-Qayyim. Det är en mycket användbar bok i vilken han nämner profetens – över honom vare Allāhs frid och välsignelser – biografi utifrån olika aspekter. Därefter diskuterar han många utlåtanden.
 4. *Rawdat al-‘Uqalā’* av Ibn Hibbān al-Busti. Detta är en användbar bok trots dess korthet. Han har sammanställt en stor mängd användbart material och historier om de lärde, *muhaddithīn* och andra.
 5. *Siyar A’lām al-Nubalā’* av al-Dhahabi. Denna bok är mycket användbar och den islamstuderande bör läsa och hänvisa till den.

@@ -19,7 +19,7 @@ description: 'Fråga: En muslim gick in i ihrām för ‘umrah och han har för 
 
 Allāh har besvarat deras åkallan[^3]. Profeten – över honom vare Allāhs frid och välsignelser – har berättat att Allāh har sagt: ”*Sannerligen har jag gjort så [accepterat denna åkallan[^3]]*.”
 
-Imam Muslim har återgivit detta i sin *Sahīh*.
+Imam *Muslim* har återgivit detta i sin *Sahīh*.
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.

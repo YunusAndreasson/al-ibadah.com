@@ -29,7 +29,7 @@ Han höjer sina händer när han gör åkallan[^7], och han prisar Allāh samt s
 [^7]: Du´ā
 [^8]: Säga Labbayk Allahumma Labbayk under vallfärden.
 [^9]: Riktningen mot Kabah i Mecka som bönen utförs mot.
-[^10]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
+[^10]: En plats mellan *Mina* och *Arafat* där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
 [^11]: Maghrib
 [^12]: Isha
 [^13]: Rakah.

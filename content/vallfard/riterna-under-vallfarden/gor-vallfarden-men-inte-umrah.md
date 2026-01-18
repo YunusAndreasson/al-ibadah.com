@@ -29,9 +29,9 @@ Gällande den som har utfört *‘umrah[^1]* och vallfärden tidigare och sedan 
 [^1]: Den lilla vallfärden.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^4]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
+[^4]: När man först gör ´*umrah* och lämnar *ihrām* för att därpå träda in i *ihrām* för vallfärden.
 [^5]: Någon som enbart vallfärdar.
-[^6]: Platsen där pilgrimmen träder in i ihraam.
+[^6]: Platsen där pilgrimmen träder in i ihrām.
 [^7]: Den sju långa rundar vandringen runt Kabah.
 [^8]: Vandringen mellan as-Safa och al-Marwa.
 

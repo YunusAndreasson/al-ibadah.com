@@ -25,6 +25,6 @@ Om hon får sin månadsblödning efter *tawāf[^2]* och *sa’ī[^4]* men före 
 [^4]: Vandringen mellan as-Safa och al-Marwa.
 [^5]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 [^6]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
-[^7]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
+[^7]: En plats mellan *Mina* och *Arafat* där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
 [^8]: Säga Labbayk Allahumma Labbayk under vallfärden.
 

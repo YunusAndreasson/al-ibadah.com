@@ -21,9 +21,9 @@ När profeten – över honom vare Allāhs frid och välsignelser – såg en ma
 
 > ”Troende! Gå inte till bön om ni befinner er i omtöcknat tillstånd, [utan vänta] till dess ni vet vad ni säger. [Gör det] inte heller i ett tillstånd av stor rituell orenhet, utan skölj först hela kroppen; undantagna är de som befinner sig på resa. Om någon av er är sjuk eller befinner sig på resa eller just har förrättat sina behov eller haft beröring med kvinnor och inte finner vatten, ska han ta ren jord och stryka över ansiktet och händer” [Koranen 4:43]
 
-Ännu en anledning finns även i historien om mannen med en huvudskada. Ibn Mājah återger i en [*hadīth[^4]*] från Ibn ‘Abbās att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om han endast hade tvättat sin kropp och lämnat huvudet när den skadats på detta sätt*.” [*Ibn Mājah* 572]
+Ännu en anledning finns även i historien om mannen med en huvudskada. *Ibn Mājah* återger i en [*hadīth[^4]*] från Ibn ‘Abbās att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om han endast hade tvättat sin kropp och lämnat huvudet när den skadats på detta sätt*.” [*Ibn Mājah* 572]
 
-Och i en återberättelse från Abū Dawūd rapporteras att Jabir har sagt: ”*Det hade räckt om han hade gjort tayammum[^2]*.” [*Abū Dawūd* 336]
+Och i en återberättelse från *Abū Dawūd* rapporteras att Jabir har sagt: ”*Det hade räckt om han hade gjort tayammum[^2]*.” [*Abū Dawūd* 336]
 
 Om personen som diskuteras inte har upprepat sin bön bör han göra det.
 

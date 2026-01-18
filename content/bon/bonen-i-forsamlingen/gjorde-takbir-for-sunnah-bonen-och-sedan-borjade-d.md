@@ -12,7 +12,7 @@ description: 'Fråga: En man gick in i moskén för att be sunnah -bönen innan 
  eller fullfölja den? Jag ber om ett ...'
 ---
 
-**Fråga:** En man gick in i moskén för att be *sunnah[^1]*-bönen innan middagsbönen[^2]. Han gjorde takbīr[^3] men sedan började den obligatoriska bönen. Bör han avbryta bönen eller fullfölja den? Jag ber om ett klargörande om denna fråga.
+**Fråga:** En man gick in i moskén för att be *sunnah[^1]*-bönen innan middagsbönen[^2]. Han gjorde *takbīr*[^3] men sedan började den obligatoriska bönen. Bör han avbryta bönen eller fullfölja den? Jag ber om ett klargörande om denna fråga.
 
 **Svar:** Om den obligatoriska bönen börjar medan en i församlingen ber hälsningsbönen till moskén[^4] eller *sunnah[^1]*-bönen, då bör han avbryta sin bön och förbereda sig för den obligatoriska. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om den obligatoriska bönen börjar så finns det ingen bön utom den obligatoriska*.” [*Muslim* 710]
 

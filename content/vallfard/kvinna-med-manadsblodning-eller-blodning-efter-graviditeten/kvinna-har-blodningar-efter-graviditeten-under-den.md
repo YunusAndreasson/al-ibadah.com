@@ -22,7 +22,7 @@ Hon måste dock anstränga sig för att skydda sig mot blodet genom att använda
 [^2]: Vandringen mellan as-Safa och al-Marwa.
 [^3]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^4]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
-[^5]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
+[^5]: En plats mellan *Mina* och *Arafat* där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
 [^6]: Dhuhr
 [^7]: Asr
 [^8]: Maghrib

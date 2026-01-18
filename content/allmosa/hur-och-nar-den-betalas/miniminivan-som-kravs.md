@@ -16,6 +16,6 @@ description: 'Fråga: Den miniminivå som krävs för att man ska betala allmosa
 
 **Svar:** Den lägsta nivå som krävs för allmosa för silver är 200 dirham. Detta är 56 saudiska riyal[^1] [silvermynt] eller något som är likvärdigt i papperssedlar. Den lägsta nivå som krävs för guld är 20 *mithqal[^2]*, vilket är likvärdigt med 11 3/7 saudiska junahy eller samma summa i pappersvaluta med samma värde som guld.
 
-[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 ramadan 1428).
+[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramadan* 1428).
 [^2]: En vikt likvärdig med ungefär 4.5g.
 

@@ -18,5 +18,5 @@ description: 'Fråga: Det finns en anställd som har bestämt sig för att vallf
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.
-[^3]: Platsen där pilgrimmen träder in i ihraam.
+[^3]: Platsen där pilgrimmen träder in i ihrām.
 

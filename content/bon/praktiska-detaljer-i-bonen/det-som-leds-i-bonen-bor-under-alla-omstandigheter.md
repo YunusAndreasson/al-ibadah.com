@@ -18,5 +18,5 @@ description: 'Fråga: Bör man recitera tillsammans med imamen eller lyssna på 
 
 Den som leds i bönen är olik den ensamma tjänaren. Säger imamen: ”*Sami' Allāhu liman hamidah*” [Allāh hör den som prisar Honom], då säger den som leds i bönen: ”*Rabbana wa lakal-hamd*” [Vår Herre! Lovprisad vare Du]. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Imamen finns där för att följas, så om han säger ”Allāhu akbar” så säger du ”Allāhu akbar” och gör inte så förrän han har gjort det. Och om han bugar, då bugar du, och gör inte så förrän han gör det. Och om han säger ”Sami' Allāhu liman hamidah”, säg då ”Rabbana wa lakal-hamd”. Och om han nedfaller, då nedfaller du, och gör inte så förrän han gör det. Och om han ber stående, då ber du stående. Och om han ber sittande, då ber ni sittande.” [*al-Bukhārī* 722 och 734 samt *Muslim* 414]
+> ”Imamen finns där för att följas, så om han säger ”*Allāhu akbar*” så säger du ”*Allāhu akbar*” och gör inte så förrän han har gjort det. Och om han bugar, då bugar du, och gör inte så förrän han gör det. Och om han säger ”Sami' Allāhu liman hamidah”, säg då ”Rabbana wa lakal-hamd”. Och om han nedfaller, då nedfaller du, och gör inte så förrän han gör det. Och om han ber stående, då ber du stående. Och om han ber sittande, då ber ni sittande.” [*al-Bukhārī* 722 och 734 samt *Muslim* 414]
 

@@ -15,7 +15,7 @@ description: 'Fråga: Vilket är utlåtandet om de som påstår att profeten –
 
 **Fråga:** Vilket är utlåtandet om de som påstår att profeten – över honom vare Allāhs frid och välsignelser – rekommenderade ’Ali som kalif?
 
-**Svar:** Detta påstående är inte känt från någon annan muslimsk sekt än shiiterna. Det är en falsk och grundlös rapport. I motsats till detta finns det många bevis som klargör att Abū Bakr as-Siddīq skulle vara kalif efter profeten.
+**Svar:** Detta påstående är inte känt från någon annan muslimsk sekt än anhängare av shia. Det är en falsk och grundlös rapport. I motsats till detta finns det många bevis som klargör att Abū Bakr as-Siddīq skulle vara kalif efter profeten.
 
 Även om profeten – över honom vare Allāhs frid och välsignelser – inte uttryckligen klargjorde det så utfärdade han en order som visade på detta. Han beordrade Abū Bakr – må Allāh vara nöjd med honom – att leda bönen då han var sjuk och när utfärdandet av kalifatskapet nämndes i hans närvaro, underströk han: ”*Allāh och de troende bifaller inte någon utom Abū Bakr*.” [*al-Bukhārī* 7217]
 
@@ -27,7 +27,7 @@ När ‘Umar – må Allāh vara nöjd med honom – knivhöggs lämnade han bes
 
 Hur kan någon då våga fabricera en lögn om Allāhs sändebud – över honom vare Allāhs frid och välsignelser – och påstå att han rekommenderade ’Ali som ansvarig för kalifatet? Detta när varken ’Ali eller följeslagarna påstod detta. Följeslagarna var i stället eniga om Abū Bakrs, ’Umars och sedan ‘Uthmāns kalifatskap. ’Ali erkände detta och deltog med dem i *djihād[^1]*, rådläggningar och andra plikter. Även muslimerna var eniga om det som följeslagarna var i eniga om.
 
-Därför får inte någon person eller sekt – oavsett om det är shiiterna eller någon annan – påstå att ’Ali rekommenderats som ansvarig för kalifatet samt att de som föregick honom var falska. Det är heller inte tillåtet att påstå att följeslagarna berövade ’Ali hans rättigheter. Ett sådant uttalande är falskt och utgör onda samt sjuka tankar om Allāhs sändebuds följeslagare – inklusive ’Ali.
+Därför får inte någon person eller sekt – oavsett om det är anhängare av shia eller andra – påstå att 'Ali rekommenderats som ansvarig för kalifatet samt att de som föregick honom var falska. Det är heller inte tillåtet att påstå att följeslagarna berövade ’Ali hans rättigheter. Ett sådant uttalande är falskt och utgör onda samt sjuka tankar om Allāhs sändebuds följeslagare – inklusive ’Ali.
 
 Allāh har […] skyddat Muḥammads samfund från att enas om falskhet. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har ett antal gånger sagt: ”*En grupp ur mitt samfund kommer segerrika att hålla sig till sanningen*.” [*at-Tirmithi* 2192 och *Ibn Mājah* 6]
 

@@ -15,7 +15,7 @@ description: 'Fråga: Jag har hört att de lärde säger att den som har avlidit
 
 **Fråga:** Jag har hört att de lärde säger att den som har avlidit kommer att återfå livet i graven, att de får besvara frågor från änglar och att om det från dessa frågor blir klart att denne är en icke-troende som inte praktiserade islam under sitt liv här i denna världen, då kommer denne att straffas. Jag har inte funnit några bevis för detta i den Heliga Koranen som klargör utfrågningen och straffet i graven. Allāh säger:
 
-> ”[Då säger Gud till den rättfärdige:] ”Du själ, som har kommit till ro! Vänd tillbaka till den Herre, tillfredställd [med Hans gåvor och] omsluten av Hans välbehag! Stig in med skaran av Mina tjänare! Stig in i mitt Paradis!” [Koranen 89:27 – 30]
+> ”[Då säger Gud till den rättfärdige:] ”Du själ, som har kommit till ro! Vänd tillbaka till den Herre, tillfredställd [med Hans gåvor och] omsluten av Hans välbehag! Stig in med skaran av *Mina* tjänare! Stig in i mitt Paradis!” [Koranen 89:27 – 30]
 
 Enligt min lilla förståelse kommer själen att återvända till dess Herre när den har lämnat kroppen och jag ser inte att själen kommer att vara med sin kropp i graven, i ett tillstånd av lugn och bekvämlighet. Allāh säger även:
 

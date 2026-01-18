@@ -18,5 +18,5 @@ description: 'Fråga: Vad säger den islamiska lagen om någon som åker från R
 
 [^1]: Den lilla vallfärden.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^3]: Platsen där pilgrimmen träder in i ihraam.
+[^3]: Platsen där pilgrimmen träder in i ihrām.
 

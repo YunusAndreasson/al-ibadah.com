@@ -19,7 +19,7 @@ description: 'Fråga: Somliga utfärdar fatwor till dem som anländer med flyg f
 Denna *hadīth[^4]* finns det samstämmighet kring.
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^2]: Platsen där pilgrimmen träder in i ihraam.
+[^2]: Platsen där pilgrimmen träder in i ihrām.
 [^3]: Den lilla vallfärden.
 [^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

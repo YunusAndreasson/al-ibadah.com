@@ -12,7 +12,7 @@ description: 'Fråga: Under Rajab år 1405 A.H avsåg jag att utföra ‘umrah o
  När en av bröderna mötte mig...'
 ---
 
-**Fråga:** Under Rajab år 1405 A.H avsåg jag att utföra ‘umrah[^1] och utan *ihrām[^2]* passerade jag den *mīqāt[^3]* som kallas för Yalamlam och som är *mīqāt[^3]* för folket från Jemen. När en av bröderna mötte mig – må Allāh belöna honom med gott – berättade han för mig att jag behövde återvända till *mīqāt[^3]* och träda in i *ihrām[^2]* därifrån. Han sade: ”*Du får inte gå in i Mecka i dina vanliga kläder*.” Jag åkte då tillbaka 30 km och jag gick in i *ihrām[^2]* vid *mīqāt[^3]*. Jag skulle vilja att ni ger mig ett bra svar. Hade jag gått in i Mecka utan *ihrām[^2]*, hade jag då behövt offra ett djur? Hade det varit tillåtet för mig att träda in i *ihrām[^2]* från platsen där brodern träffade mig och sade till mig att gå tillbaka eller var det nödvändigt att jag gick tillbaka till *mīqāt[^3]*?
+**Fråga:** Under *Rajab* år 1405 A.H avsåg jag att utföra ‘*umrah*[^1] och utan *ihrām[^2]* passerade jag den *mīqāt[^3]* som kallas för Yalamlam och som är *mīqāt[^3]* för folket från Jemen. När en av bröderna mötte mig – må Allāh belöna honom med gott – berättade han för mig att jag behövde återvända till *mīqāt[^3]* och träda in i *ihrām[^2]* därifrån. Han sade: ”*Du får inte gå in i Mecka i dina vanliga kläder*.” Jag åkte då tillbaka 30 km och jag gick in i *ihrām[^2]* vid *mīqāt[^3]*. Jag skulle vilja att ni ger mig ett bra svar. Hade jag gått in i Mecka utan *ihrām[^2]*, hade jag då behövt offra ett djur? Hade det varit tillåtet för mig att träda in i *ihrām[^2]* från platsen där brodern träffade mig och sade till mig att gå tillbaka eller var det nödvändigt att jag gick tillbaka till *mīqāt[^3]*?
 
 **Svar:** Den som tänker åka till Mecka för att utföra vallfärden eller *‘umrah[^1]* måste träda in i *ihrām[^2]* vid den *mīqāt[^3]* som denne passerar genom. Det är inte tillåtet att denne passerar den utan *ihrām[^2]*. Anledningen är att profeten, då han utsåg *mawaqit*, sade:
 
@@ -28,5 +28,5 @@ Och Allāh är den som ger framgång.
 
 [^1]: Den lilla vallfärden.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^3]: Platsen där pilgrimmen träder in i ihraam.
+[^3]: Platsen där pilgrimmen träder in i ihrām.
 

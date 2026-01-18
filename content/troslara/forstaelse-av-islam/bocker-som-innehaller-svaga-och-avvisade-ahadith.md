@@ -16,7 +16,7 @@ description: 'Fråga: Vänligen, hänvisa mig till en bok som innehåller många
 
 En nybörjare som befinner sig i ett tidigt stadie i sitt kunskapssökande får inte försöka läsa varje sorts bok då han inte kommer att ha möjlighet att förstå allt. Som ett resultat av att han inte förstår kommer han att få tvivel som enbart kommer att vara problematiska för honom i slutändan.
 
-Läs enbart det som är autentiskt och om du önskar läsa så läs då *al-Lu'lu' wal-marjan* som är en bok som innehåller alla *ahādīth[^1]* som al-Bukhārī och Muslim var eniga om. Denna bok innehåller de mest autentiska återberättelserna som har kommit från profeten – över honom vare Allāhs frid och välsignelser – och det är en mycket värdefull och nyttig bok.
+Läs enbart det som är autentiskt och om du önskar läsa så läs då *al-Lu'lu' wal-marjan* som är en bok som innehåller alla *ahādīth[^1]* som al-Bukhārī och *Muslim* var eniga om. Denna bok innehåller de mest autentiska återberättelserna som har kommit från profeten – över honom vare Allāhs frid och välsignelser – och det är en mycket värdefull och nyttig bok.
 
 Och Allāh den Allsmäktige vet bäst.
 

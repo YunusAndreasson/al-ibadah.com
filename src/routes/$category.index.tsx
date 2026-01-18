@@ -30,11 +30,7 @@ function CategoryPage() {
 
   return (
     <PageLayout>
-      <Breadcrumbs
-        items={[
-          { label: 'Hem', href: '/' },
-        ]}
-      />
+      <Breadcrumbs items={[{ label: 'Hem', href: '/' }]} />
 
       <h1 className="page-title mb-8 mt-8">{data.name}</h1>
 
@@ -43,14 +39,13 @@ function CategoryPage() {
           {data.subcategories.map((sub) => (
             <Link
               key={sub.slug}
-              to={`/${category}/${sub.slug}`}
+              to="/$category/$subcategory"
+              params={{ category, subcategory: sub.slug }}
               preload="viewport"
               className="card flex items-center justify-between"
             >
               <span className="font-medium text-foreground">{sub.name}</span>
-              <span className="text-sm text-muted-foreground">
-                {sub.articleCount}
-              </span>
+              <span className="text-sm text-muted-foreground">{sub.articleCount}</span>
             </Link>
           ))}
         </div>

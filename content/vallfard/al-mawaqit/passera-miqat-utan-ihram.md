@@ -22,7 +22,7 @@ Om någon då avser att utföra vallfärden eller *´umrah[^3]*, då måste denn
 
 Om man kommer dit av någon annan anledning [som att besöka släktingar eller vänner, eller handla] och man inte har avsikten att utföra vallfärden eller *´umrah[^3]*, då krävs det inte, enligt den korrekta åsikten, att man går in i *ihrām[^2]*. Man kan resa in i Mecka utan att träda in i *ihrām[^2]*. Detta är den korrekta åsikten av de båda åsikterna som de lärde har. Det är dock bättre att träda in i *ihrām[^2]* för *‘umrah[^3]* och dra fördel av den möjligheten.
 
-[^1]: Platsen där pilgrimmen träder in i ihraam.
+[^1]: Platsen där pilgrimmen träder in i ihrām.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^3]: Den lilla vallfärden.
 [^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

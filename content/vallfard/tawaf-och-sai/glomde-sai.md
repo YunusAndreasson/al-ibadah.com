@@ -18,7 +18,7 @@ description: 'Fråga: Jag utförde min obligatoriska pilgrimsfärd och jag gjord
 
 Och Allāh är källan till alla styrka. Må Allāh sända välsignelser och frid över vår profet Muḥammad.
 
-[^1]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
+[^1]: När man först gör ´*umrah* och lämnar *ihrām* för att därpå träda in i *ihrām* för vallfärden.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^3]: Vandringen mellan as-Safa och al-Marwa.
 [^4]: Den lilla vallfärden.

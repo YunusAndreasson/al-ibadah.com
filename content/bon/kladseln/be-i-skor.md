@@ -18,7 +18,7 @@ description: 'Fråga: Vilket är utlåtandet om att be i skor och vilka bevis fi
 
 Dessa *ahādīth[^1]* skiljer inte mellan att be med skor i moskén eller på andra platser som i öknen, bondgårdar, hus eller liknande. Vissa nämner bön i moskén; som den återgiven av Ahmad och Abū Dawūd i vilken de berättar att Abū Sa´īd al-Khudri berättade att profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Om någon av er kommer till moskén, då bör han se efter, och om han ser någon smuts eller något skadligt under skorna, då stryker han bort det och ber i dem*.” [*Abū Dawūd* 650]
 
-Abū Dawūd har återberättat ännu en *hadīth[^1]* från Abū Hurairah där han rapporterar att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Om *någon bad och tog av sina sandaler, då bör han inte störa någon med dem; låt honom placera dem mellan hans fötter eller be i dem*.” [*Abū Dawūd* 655]
+*Abū Dawūd* har återberättat ännu en *hadīth[^1]* från Abū Hurairah där han rapporterar att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Om *någon bad och tog av sina sandaler, då bör han inte störa någon med dem; låt honom placera dem mellan hans fötter eller be i dem*.” [*Abū Dawūd* 655]
 
 Om denna *hadīth[^1]* har al-'Iraqi sagt: ”*Den har en autentisk berättarkedja*.” Och Abū Dawūd, Ahmad och Ibn Mājah har återberättat från 'Amr bin Shu'aib, från hans fader, från hans farfar att han sagt: ”*Jag såg Allāhs sändebud be barfota och i skor*.” [*Abū Dawūd* 653 och *Ibn Mājah* 1038]
 

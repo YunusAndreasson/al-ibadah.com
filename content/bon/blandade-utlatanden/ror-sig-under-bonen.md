@@ -18,7 +18,7 @@ description: 'Fråga: Blir bönen ogiltig om man rör sig mycket under den? Svar
 
 > ”När du står upp för att be, tvaga dig så noggrant, vänd dig sedan mot *qiblah[^2]* och säg takbīr[^3], och recitera vad du än kan ur Koranen. Buga sedan tills du känner lugn i bugningen. Res sedan ditt huvud tills du står upp rakt. Nedfall därefter tills du känner lugn i din nedfallan. Sätt dig därpå upp tills du sitter upp rakt och känner lugn i ditt sittande. Nedfall därnäst tills du känner lugn i ditt nedfallande. Gå sedan upp tills du står upp rakt. Gör detta därefter genomgående i din bön.” [*Muslim* och *al-Bukhārī*]
 
-Enligt en version återberättad av Abū Dawūd sade han: ”*Recitera sedan Koranens essens [al-Fātihah] och vadhelst Allāh vill*.”
+Enligt en version återberättad av *Abū Dawūd* sade han: ”*Recitera sedan Koranens essens [al-Fātihah] och vadhelst Allāh vill*.”
 
 Denna *hadīth[^4]*, som är *Sahīh*, påvisar att det är en pelare eller väsentlig del av bönen att vara lugn vid nedfallandet, och en viktig skyldighet som bönen inte är giltig utan. Den som håller på och plockar under bönen har ingen bön. *Kushū’* är bönens essens. Det är föreskrivet att den troende lägger vikt vid detta och kämpar för att uppnå det.
 

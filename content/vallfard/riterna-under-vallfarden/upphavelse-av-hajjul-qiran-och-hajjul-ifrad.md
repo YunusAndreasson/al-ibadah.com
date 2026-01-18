@@ -18,8 +18,8 @@ description: 'Fråga: Somliga påstår att hajjul-qirān och hajjul-ifrad har up
 
 Och Allāh är den som ger framgång.
 
-[^1]: Utför vallfärden och ´umrah samtidigt med en intention.
-[^2]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
+[^1]: Utför vallfärden och ´*umrah* samtidigt med en intention.
+[^2]: När man först gör ´*umrah* och lämnar *ihrām* för att därpå träda in i *ihrām* för vallfärden.
 [^3]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^4]: Den lilla vallfärden.
 [^5]: Den sju långa rundar vandringen runt Kabah.

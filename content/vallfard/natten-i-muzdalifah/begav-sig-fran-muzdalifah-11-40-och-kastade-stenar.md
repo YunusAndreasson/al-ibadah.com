@@ -18,5 +18,5 @@ description: 'Fråga: Vi gav oss av från Muzdalifah 11.40 och vi hade barn med 
 
 Må Allāh ge alla framgång med att göra det som gör Honom nöjd och må Han acceptera detta från dig, oss och alla muslimer.
 
-[^1]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
+[^1]: En plats mellan *Mina* och *Arafat* där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
 

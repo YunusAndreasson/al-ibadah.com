@@ -18,7 +18,7 @@ description: 'Fråga: Får den som inte har någon ursäkt kasta stenar på pela
 
 Den som ger sig av tillsammans med svaga och kvinnor [som *mahram[^3]*, förare och andra], då är utlåtandet om denne samma som om dem. Det är då tillräckligt för denne att kasta stenarna i slutet av natten tillsammans med kvinnorna.
 
-[^1]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
+[^1]: En plats mellan *Mina* och *Arafat* där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
 [^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^3]: Släkting som det inte är tillåtet att gifta sig med.
 

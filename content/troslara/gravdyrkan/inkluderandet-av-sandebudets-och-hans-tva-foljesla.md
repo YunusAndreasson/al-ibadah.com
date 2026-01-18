@@ -26,7 +26,7 @@ Jundub bin Abdullāh al-Bajali har sagt:
 
 > ”Allāh har tagit mig som en älskad, såsom Han tog Abraham som en älskad. Skulle jag ha tagit en vän i mitt samfund hade jag tagit Abū Bakr som en vän. Var varse! Dem som levde före er brukade göra om deras profeters och rättfärdigas gravar till moskéer. Var varse! Gör aldrig om gravar till moskéer, jag förbjuder er att göra så.” [*Muslim* 532]
 
-Muslim har återgivit att Jabir har rapporterat att profeten – över honom vare Allāhs frid och välsignelser – förbjöd resning av gravar, att man sitter på dem eller bygger kammare över dem. [*Muslim* 970] Dessa autentiska traditioner understryker förbudet mot att använda gravar som moskéer. De som gör så är förbannade.
+*Muslim* har återgivit att Jabir har rapporterat att profeten – över honom vare Allāhs frid och välsignelser – förbjöd resning av gravar, att man sitter på dem eller bygger kammare över dem. [*Muslim* 970] Dessa autentiska traditioner understryker förbudet mot att använda gravar som moskéer. De som gör så är förbannade.
 
 Dessa *ahādīth[^1]* påvisar även att det är förbjudet att bygga statyer eller kupoler över gravar […] Att göra så anses vara ett medel för *shirk[^2]* samt ett sätt att dyrka den i graven i stället för Allāh.
 

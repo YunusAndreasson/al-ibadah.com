@@ -21,5 +21,5 @@ I fråga om det är bättre att klippa håret eller att raka det för *´umrah[^
 [^1]: Den lilla vallfärden.
 [^2]: Den sju långa rundar vandringen runt Kabah.
 [^3]: Vandringen mellan as-Safa och al-Marwa.
-[^4]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
+[^4]: När man först gör ´*umrah* och lämnar *ihrām* för att därpå träda in i *ihrām* för vallfärden.
 

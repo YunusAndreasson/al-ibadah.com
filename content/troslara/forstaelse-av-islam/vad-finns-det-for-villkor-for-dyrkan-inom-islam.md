@@ -12,7 +12,7 @@ description: 'Fråga: Vad finns det för villkor för dyrkan inom islam? Svar: F
  dyrkar Allāh av en anledning som inte den ...'
 ---
 
-1. **Fråga:** Vad finns det för villkor för dyrkan inom islam?
+**Fråga:** Vad finns det för villkor för dyrkan inom islam?
 
 **Svar:** För det första: dyrkan måste vara enligt den islamiska lagen och dess syften. Den som dyrkar Allāh av en anledning som inte den islamiska lagen bevisar utför en dyrkan som inte kommer att godkännas och som Allāh och Hans sändebud inte har påbjudit. Ett exempel på detta kan vara att fira profetens – över honom vare Allāhs frid och välsignelser – födelsedag eller att fira den 27:e natten under *rajab[^1]* i tron om att profeten – över honom vare Allāhs frid och välsignelser – då fördes upp till himlen. Detta är inte enligt den islamiska lagen – och därmed inte giltigt.
 
@@ -62,6 +62,6 @@ Med dessa sex anledningar som grund är en dyrkan inte giltig om den inte fören
 [^5]: Wudū
 [^6]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^7]: Den tionde månaden i det islamiska året. Under denna månad är det rekommenderat att fasta sex dagar frivillig fasta.
-[^8]: En plats mellan Mina och Arafat där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
+[^8]: En plats mellan *Mina* och *Arafat* där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
 [^9]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
 

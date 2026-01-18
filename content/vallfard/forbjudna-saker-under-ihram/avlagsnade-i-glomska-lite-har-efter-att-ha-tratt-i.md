@@ -25,6 +25,6 @@ Detta beror även på vad som har bekräftats från profeten, att Allāh har bes
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.
-[^3]: Någon som har trätt in i ihrām.
+[^3]: Någon som har trätt in i *ihrām*.
 [^4]: Du´ā
 

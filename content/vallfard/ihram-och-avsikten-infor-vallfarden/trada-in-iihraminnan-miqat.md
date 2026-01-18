@@ -21,7 +21,7 @@ När det gäller att träda in i *ihrām[^1]* för vallfärden före dess månad
 Och Allāh vet bäst.
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^2]: Platsen där pilgrimmen träder in i ihraam.
+[^2]: Platsen där pilgrimmen träder in i ihrām.
 [^3]: Säga Labbayk Allahumma Labbayk under vallfärden.
 [^4]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^5]: Att säga Allahu Akbar.

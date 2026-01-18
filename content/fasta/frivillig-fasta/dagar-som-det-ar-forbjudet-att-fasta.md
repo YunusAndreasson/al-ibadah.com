@@ -19,6 +19,6 @@ description: 'Fråga: Vilka är de dagar som det är ogillat att fasta? Svar: De
 Och Allāh är Givaren av framgång.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^2]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
-[^3]: Utför vallfärden och ´umrah samtidigt med en intention.
+[^2]: När man först gör ´*umrah* och lämnar *ihrām* för att därpå träda in i *ihrām* för vallfärden.
+[^3]: Utför vallfärden och ´*umrah* samtidigt med en intention.
 

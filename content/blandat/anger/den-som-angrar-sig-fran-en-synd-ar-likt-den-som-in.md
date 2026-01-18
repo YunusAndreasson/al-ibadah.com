@@ -13,13 +13,13 @@ description: 'Fråga: Under flera månader bad jag inte. Ramadan kom och gick ut
  mig för alla dessa synder. Nu ber jag, jag fast...'
 ---
 
-**Fråga:** Under flera månader bad jag inte. Ramadan kom och gick utan att jag fastade. Jag rökte även ofta. All lovprisan är för Allāh – jag har ångrat mig för alla dessa synder. Nu ber jag, jag fastar under *ramadan[^1]* och jag har slutat att röka. Min fråga lyder: Måste jag ta igen alla de böner jag missat i det förgångna?
+**Fråga:** Under flera månader bad jag inte. *Ramadan* kom och gick utan att jag fastade. Jag rökte även ofta. All lovprisan är för Allāh – jag har ångrat mig för alla dessa synder. Nu ber jag, jag fastar under *ramadan[^1]* och jag har slutat att röka. Min fråga lyder: Måste jag ta igen alla de böner jag missat i det förgångna?
 
 **Svar:** Då Allāh den Högste beviljat dig ånger och då du nu utför dina obligatoriska islamska plikter, vill jag gratulera dig och jag ber Allāh att Han gör dig stadig längs denna väg, att Han ger dig fler välsignelser, att vi alla får dö med denna tro och att vi uppreses i sällskap med den allra noblaste av människor – Muḥammad.
 
 Din ånger tillintetgör tidigare synder. Detta inkluderar dina böner och att du inte fastade. Allāh den Allsmäktige har sagt:
 
-> ”Säg [Muḥammad] till mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [Mina bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet!” [Koranen 39:53]
+> ”Säg [Muḥammad] till mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [*Mina* bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet!” [Koranen 39:53]
 >
 >
 >

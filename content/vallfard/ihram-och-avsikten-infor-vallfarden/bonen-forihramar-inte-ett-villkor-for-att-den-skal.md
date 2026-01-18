@@ -25,6 +25,6 @@ Detta är profetens – över honom vare Allāhs frid och välsignelser – *tal
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.
 [^3]: Rakah.
-[^4]: Utför vallfärden och ´umrah samtidigt med en intention.
+[^4]: Utför vallfärden och ´*umrah* samtidigt med en intention.
 [^5]: Säga Labbayk Allahumma Labbayk under vallfärden.
 

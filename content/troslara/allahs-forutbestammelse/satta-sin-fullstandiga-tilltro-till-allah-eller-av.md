@@ -13,7 +13,7 @@ description: 'Fråga: Om man gör vad som är nödvändigt för att uppnå någo
  medan andra sade: ”Vi sätter vår tilltro till ...'
 ---
 
-**Fråga:** Om man gör vad som är nödvändigt för att uppnå något, upphäver det då ens tawakkul[^1]? Under Gulfkriget gjorde vissa vad de ansåg vara nödvändigt medan andra sade: ”Vi sätter vår tilltro till Allāh.”
+**Fråga:** Om man gör vad som är nödvändigt för att uppnå något, upphäver det då ens *tawakkul*[^1]? Under Gulfkriget gjorde vissa vad de ansåg vara nödvändigt medan andra sade: ”Vi sätter vår tilltro till Allāh.”
 
 **Svar:** Den troende måste fästa sitt hjärta vid Allāh den Allsmäktige och uppriktigt lita på att Han frambringar det som är nyttigt och att Han avvärjer det som är skadligt. Detta beror på att himlarnas och jordens konungarike enbart är i Allāhs händer och till Honom återvänder allt [för att beslutas]. Allāh den Upphöjde säger:
 

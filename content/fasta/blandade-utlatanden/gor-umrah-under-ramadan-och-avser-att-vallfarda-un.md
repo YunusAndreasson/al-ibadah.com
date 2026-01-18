@@ -28,11 +28,11 @@ En *mutamatti[^4]'* måste utföra *tawāf[^9]* och *sa’ī[^10]* för sin vall
 [^1]: Den lilla vallfärden.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^3]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^4]: Någon som både gör ´umrah och vallfärdar.
+[^4]: Någon som både gör ´*umrah* och vallfärdar.
 [^5]: Den tionde månaden i det islamiska året. Under denna månad är det rekommenderat att fasta sex dagar frivillig fasta.
 [^6]: Den elfte månaden i det islamiska året.
 [^7]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
-[^8]: Utför vallfärden och ´umrah samtidigt med en intention.
+[^8]: Utför vallfärden och ´*umrah* samtidigt med en intention.
 [^9]: Den sju långa rundar vandringen runt Kabah.
 [^10]: Vandringen mellan as-Safa och al-Marwa.
 [^11]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

@@ -19,7 +19,7 @@ Jag har två grupper av vänner och ingen av dem är praktiserande muslimer. Des
 
 **Svar:** Allāh den Högste säger:
 
-> ”Säg [Muḥammad] till Mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [Mina bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet.” [Koranen 39:53]
+> ”Säg [Muḥammad] till *Mina* tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [*Mina* bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet.” [Koranen 39:53]
 
 De lärde är ense om att denna vers uppenbarades för dem som ångrar sig. Allāh den Allsmäktige förlåter alla synder från en person som ångrar sig uppriktigt. Detta grundat på denna förra versen samt:
 
@@ -46,7 +46,7 @@ För att uppnå ånger bör du be Allāh den Allsmäktige att Han vägleder dig,
 >
 >
 >
-> ”När Mina tjänare frågar dig om Mig [svara då att] Jag är nära; Jag besvarar den bedjandes bön, när han ber till Mig.” [Koranen 2:186]
+> ”När *Mina* tjänare frågar dig om Mig [svara då att] Jag är nära; Jag besvarar den bedjandes bön, när han ber till Mig.” [Koranen 2:186]
 
 En annan faktor som inte enbart kan ha inverkan på din ånger, utan även på din förmåga att efteråt hålla dig stadig, är de människor du umgås med. Allāhs sändebud har sagt:
 

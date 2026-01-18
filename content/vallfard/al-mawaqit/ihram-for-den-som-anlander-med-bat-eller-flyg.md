@@ -18,5 +18,5 @@ description: 'Fråga: När träder den in i ihrām som kommer med flyg till vall
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.
-[^3]: Platsen där pilgrimmen träder in i ihraam.
+[^3]: Platsen där pilgrimmen träder in i ihrām.
 

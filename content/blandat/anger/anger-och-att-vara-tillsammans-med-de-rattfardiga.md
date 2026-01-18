@@ -52,9 +52,9 @@ När det gäller böcker ger jag dig rådet att läsa Allāhs skrift; du reciter
 >
 > ”Detta är en välsignad Skrift som Vi har uppenbarat för dig, [Muḥammad]. Människorna bör tänka över dess budskap och lägga dem på minnet, om de har förstånd.” [Koranen 38:29]
 
-Jag råder dig även att läsa följande böcker som är skrivna av sunnahs folk: *Kitab at-Tawhīd[^3]* (av Muḥammad bin ´Abdul Wahhab), *al-'Aqidah al-Wastitiyah* (av *shaykh ul-islām* Ibn Taymiyyah), *Ighathatul-Lahfan* (av Ibn al-Qayyim), *al-Arba'in an-Nawawiyah* (av al-Hafiz Ibn Hajar), *'Umadatul-Hadīth* (av *shaykh* ´Abdul-Ghani bin ´Abdul-Wahid Al-Maqdisi) och *Bulugh al-Maram* (av al-Hafiz Ibn Hajar).
+Jag råder dig även att läsa följande böcker som är skrivna av *sunnahs* folk: *Kitab at-Tawhīd[^3]* (av Muḥammad bin ´Abdul Wahhab), *al-'Aqidah al-Wastitiyah* (av *shaykh ul-islām* Ibn Taymiyyah), *Ighathatul-Lahfan* (av Ibn al-Qayyim), *al-Arba'in an-Nawawiyah* (av al-Hafiz Ibn Hajar), *'Umadatul-Hadīth* (av *shaykh* ´Abdul-Ghani bin ´Abdul-Wahid Al-Maqdisi) och *Bulugh al-Maram* (av al-Hafiz Ibn Hajar).
 
-Dessa böcker är speciellt nyttiga för högskole- och universitetsstudenter. Efter dessa bör en student läsa de båda *Sahīh* och andra böcker från sunnahs folk.
+Dessa böcker är speciellt nyttiga för högskole- och universitetsstudenter. Efter dessa bör en student läsa de båda *Sahīh* och andra böcker från *sunnahs* folk.
 
 Jag ber Allāh den Allsmäktige att Han gör dig stadig vid sanningen och att Han ger dig nyttig kunskap med vägledning för att applicera den. Han är den bäste att fråga vid tider av behov.
 

@@ -24,6 +24,6 @@ Och Allāh vet bäst.
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
-[^3]: Någon som har trätt in i ihrām.
+[^3]: Någon som har trätt in i *ihrām*.
 [^4]: Den lilla vallfärden.
 

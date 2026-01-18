@@ -24,7 +24,7 @@ Detta har al-Bukhārī återgivit i sin *Sahīh*. Om detta är förbjudet för k
 
 Kvinnan måste täcka sitt ansikte med en sjal eller något liknande [i stället för ansiktsslöja] under *ihrām[^1]* när hon är tillsammans med män. Anledningen är vad som har rapporterats från ‘A’ishah – må Allāh vara nöjd med henne – då hon sagt: ”*Ryttare brukade passera förbi oss när vi var med Allāhs sändebud. När de kom till oss sänkte vi våra Jilbāb från huvudet [ned] över ansiktet. När de hade passerat oss avtäckte vi det [ansiktet]*.” [*Abū Dawūd* 1833 och *Ibn Mājah* 2935]
 
-Abū Dawūd och Ibn Mājah har återgivit detta. ad-Daraqutni har återtgivit en liknande *hadīth[^2]* från Umm Salamah.
+*Abū Dawūd* och *Ibn Mājah* har återgivit detta. *ad-Daraqutni* har återtgivit en liknande *hadīth[^2]* från Umm Salamah.
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

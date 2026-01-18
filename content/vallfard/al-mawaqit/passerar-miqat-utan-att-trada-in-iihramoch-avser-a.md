@@ -25,7 +25,7 @@ description: 'Fråga: En man kom från sitt land till Jiddah med avsikt att utf�
 
 I bland annat *al-Sahīhayn* har det återberättats från Ibn 'Abbās att profeten – över honom vare Allāhs frid och välsignelser – utsåg *mīqāt[^3]* för de från Medina till att vara Dhu'l-Hulayfah; al-Jahfah för de från Shām [Syrien]; Qarn al-Manāzil för de från Najd och Yalamlam för de från Jemen. Profeten – över honom vare Allāhs frid och välsignelser – sade då:
 
-> ”Och dessa mīqāt[^3] är för folken vid dessa platser och utöver dem för de som kommer genom dessa platser med avsikten att utföra pilgrimsfärden och ‘umrah[^1]. Den som bor inom dessa gränser kan träda in i *ihrām[^2]* från den plats där denne startar.” [*al-Bukhārī* 1524 och *Muslim* 1181]
+> ”Och dessa *mīqāt*[^3] är för folken vid dessa platser och utöver dem för de som kommer genom dessa platser med avsikten att utföra pilgrimsfärden och ‘*umrah*[^1]. Den som bor inom dessa gränser kan träda in i *ihrām[^2]* från den plats där denne startar.” [*al-Bukhārī* 1524 och *Muslim* 1181]
 
 Det har också återgivits i *al-Sahīhayn* från 'Abd-Allāh ibn ´Umar att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Mīqāt[^3] för de från Medina är Dhu'l-Hulayfah*.” [*Muslim* 1183] Detta är ett uttalande som är en kommendering. Det dyker dock upp i form av ett uttalande för att understryka att detta är sättet som det ska göras på.
 
@@ -43,6 +43,6 @@ Anländer denne med flyg bör denne göra *ghusl[^4]* innan ombordstigandet på 
 
 [^1]: Den lilla vallfärden.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^3]: Platsen där pilgrimmen träder in i ihraam.
+[^3]: Platsen där pilgrimmen träder in i ihrām.
 [^4]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 

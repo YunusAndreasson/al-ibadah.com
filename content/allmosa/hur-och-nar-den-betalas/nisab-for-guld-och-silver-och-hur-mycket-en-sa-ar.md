@@ -16,6 +16,6 @@ description: Nisab för guld är 20 mithqal och det är likvärdigt med 85 gram.
 Profetens – över honom vare Allāhs frid och välsignelser – *sa'[^3]* är två kilogram och 40 gram vete av god kvalitet.
 
 [^1]: En vikt likvärdig med ungefär 4.5g.
-[^2]: En saudisk riyal är 1.62 kronor (Forex.se, 25 ramadan 1428).
+[^2]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramadan* 1428).
 [^3]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
 

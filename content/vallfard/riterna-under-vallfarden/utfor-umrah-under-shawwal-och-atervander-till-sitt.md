@@ -22,7 +22,7 @@ Det verkar vara uppenbart – och Allāh vet bäst – att det som har berättat
 
 [^1]: Den lilla vallfärden.
 [^2]: Den tionde månaden i det islamiska året. Under denna månad är det rekommenderat att fasta sex dagar frivillig fasta.
-[^3]: Någon som både gör ´umrah och vallfärdar.
+[^3]: Någon som både gör ´*umrah* och vallfärdar.
 [^4]: Den elfte månaden i det islamiska året.
 [^5]: Någon som enbart vallfärdar.
 [^6]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.

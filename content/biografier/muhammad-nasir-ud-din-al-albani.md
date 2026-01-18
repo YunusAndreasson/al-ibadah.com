@@ -24,7 +24,7 @@ Han blev så intresserad av *hadīth[^3]* att han ibland stängde sin butik för
 
 Till sist gav de ansvariga för biblioteket honom ett avskilt rum för att studera i och han fick en egen nyckel till biblioteket för att komma in före det öppnade. Ofta var han där från tidig morgon till efter ’ishā. Under denna tid sammanställde han många betydelsefulla arbeten. Flera av dessa har ännu inte tryckts.
 
-Han stötte på mycket motstånd när han förespråkade *tawhīd[^4]* och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^5]* men han bar detta med tålamod. Han uppmuntrades av några av de ädle lärda i Damaskus som tyckte att han skulle fortsätta. Bland dem fanns Shaykh Bahjatul Bayjār, Shaykh ´Abdul-Fattāh och Towfīq al-Barzah – rahimahumullāh.
+Han stötte på mycket motstånd när han förespråkade *tawhīd[^4]* och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^5]* men han bar detta med tålamod. Han uppmuntrades av några av de ädle lärda i Damaskus som tyckte att han skulle fortsätta. Bland dem fanns *Shaykh* Bahjatul Bayjār, *Shaykh* ´Abdul-Fattāh och Towfīq al-Barzah – rahimahumullāh.
 
 Efter en tid började han att hålla två lektioner i veckan där de som studerade islam och lärarna vid universitetet deltog. Här lärde han ut från böcker om ´aqīdah, *fiqh[^2]*, usūl och *hadīth[^3]*. Han började också göra månatliga resor för att göra daw’ah i olika städer i Syrien och Jordanien.
 
@@ -34,7 +34,7 @@ Därefter återvände han till sina tidigare studier och arbete i al-Maktabah ad
 
 Han besökte flera länder för att göra da’wah och för att hålla föreläsningar. Däribland Qatar, Egypten, Kuwait, Emiraterna, Spanien och England. Han tvingades att emigrera ett flertal gånger. Han flyttade från Syrien till Jordanien, sedan Syrien igen, därpå Beirut, sedan Emiraterna och därefter till ’Ammān i Jordanien. Hans arbeten, främst inom *hadīth[^3]* och dess olika grenar, uppgår till över 100.
 
-Han har haft många studenter, exempelvis: Shaykh Hamdī ´Abdul-Majīd, Shaykh Muḥammad ´Īd 'Abbāsī, Dr. ´Umar Sulaymān al-Ashqar, Shaykh Muḥammad lbrahīm Shaqrah, Shaykh Muqbil ibn Hādī al-Wādi'ī, Shaykh 'Alī Khushshān, Shaykh Muḥammad Jamīl Zaynū, Shaykh ´Abdur-Rahmān Abdus-Samad, Shaykh 'Alī Hasan ´Abdul-Hamīd al-Halabī, Shaykh Salīm al-Hilālī.
+Han har haft många studenter, exempelvis: *Shaykh* Hamdī ´Abdul-Majīd, *Shaykh* Muḥammad ´Īd 'Abbāsī, Dr. ´Umar Sulaymān al-Ashqar, *Shaykh* Muḥammad lbrahīm Shaqrah, *Shaykh* Muqbil ibn Hādī al-Wādi'ī, *Shaykh* 'Alī Khushshān, *Shaykh* Muḥammad Jamīl Zaynū, *Shaykh* ´Abdur-Rahmān Abdus-Samad, *Shaykh* 'Alī Hasan ´Abdul-Hamīd al-Halabī, *Shaykh* Salīm al-Hilālī.
 
 Han avled söndagen den 22:e Jumādā ath-Thāniyah 1420 AH. Han var då 87 år gammal. Må Allāh den Högste ha nåd över hans själ. Āmīn.
 

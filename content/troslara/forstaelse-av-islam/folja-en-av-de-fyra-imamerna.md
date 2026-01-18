@@ -11,7 +11,7 @@ description: 'Fråga: Vilket råd kan du ge till en nybörjare som söker kunska
  Ahmad ibn Hanbal]? Bör han lämna dem eller f...'
 ---
 
-**Fråga:** Vilket råd kan du ge till en nybörjare som söker kunskap angående att följa en av de fyra imamerna [Abū Hanīfah, Mālik ibn Anas, ash-Shāfi'ī och Ahmad ibn Hanbal]? Bör han lämna dem eller följa dem?
+**Fråga:** Vilket råd kan du ge till en nybörjare som söker kunskap angående att följa en av de fyra imamerna [Abū Hanīfah, Mālik ibn Anas, ash-Shāfi'ī och *Ahmad* ibn Hanbal]? Bör han lämna dem eller följa dem?
 
 **Svar:** Allāh säger: ”Fråga då dem […] om ni inte vet det.” [Koranen 21:7]
 

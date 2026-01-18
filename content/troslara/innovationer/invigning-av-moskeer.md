@@ -17,7 +17,7 @@ description: 'Fråga: När en ny moské har byggts och gjorts färdig för bön,
 
 > ”Inga resor bör utföras för att besöka någon moské, utom tre moskéer [den Heliga moskén [i Mecka], profetens – över honom vare Allāhs frid och välsignelser – Moské [i Medina] och Klippmoskén [i Jerusalem].” [*al-Bukhārī* 1189]
 
-Om den gör det, vilket är då beviset? Och är hadithen i vilken en av följeslagarna bjöd in profeten – över honom vare Allāhs frid och välsignelser – för att be i en del av hans hem för att utse den som böneplats en tillåtelse för detta? Vänligen, utveckla.
+Om den gör det, vilket är då beviset? Och är *hadithen* i vilken en av följeslagarna bjöd in profeten – över honom vare Allāhs frid och välsignelser – för att be i en del av hans hem för att utse den som böneplats en tillåtelse för detta? Vänligen, utveckla.
 
 Moskéer kan invigas genom att man ber i dem och använder dem för att åminnas Allāh; genom att recitera Koranen, göra åminnelse[^2], studera islamiska vetenskaper och liknande saker som ger moskén dess förtjänta respekt. Allāh den Upphöjde har sagt:
 
@@ -29,7 +29,7 @@ Det har aldrig autentiskt berättats att antingen han, eller de som följde hans
 
 Följaktligen bör inga sådana tillställningar äga rum, en inbjudan till något sådant bör inte besvaras och de bör inte finansieras. Förtjänster kan uppnås endast genom att följa de fromma föregångarna och oförtjänster finns i det som tidigare generationer har fört in.
 
-Den *hadīth[^1]* som berättar om att en plats utses i följeslagarens hus är inte ett bevis för att det som idag kallas för invigningsceremonier är tillåtet. Följeslagaren bjöd inte in profeten – över honom vare Allāhs frid och välsignelser – för att fira, utan i stället bjöd han in honom för att be i hans hem. Profeten – över honom vare Allāhs frid och välsignelser – reste inte heller för att be, utan han gick endast dit för att be. Det är dessutom förbjudet att resa till en invigningsceremoni. Detta understryks i hadithen som förbjuder resor till andra än de tre kända moskéerna som har nämnts ovan.
+Den *hadīth[^1]* som berättar om att en plats utses i följeslagarens hus är inte ett bevis för att det som idag kallas för invigningsceremonier är tillåtet. Följeslagaren bjöd inte in profeten – över honom vare Allāhs frid och välsignelser – för att fira, utan i stället bjöd han in honom för att be i hans hem. Profeten – över honom vare Allāhs frid och välsignelser – reste inte heller för att be, utan han gick endast dit för att be. Det är dessutom förbjudet att resa till en invigningsceremoni. Detta understryks i *hadithen* som förbjuder resor till andra än de tre kända moskéerna som har nämnts ovan.
 
 Införda seder som denna bör undvikas och folk bör nöja sig med profetens – över honom vare Allāhs frid och välsignelser – och hans generations *sunnah[^4]* i fråga om moskéer och andra angelägenheter.
 

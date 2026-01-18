@@ -12,7 +12,7 @@ description: 'Fråga: Min respekterade shaykh, på vägen hittade jag ett papper
  tittade på det för att ta reda på om det inne...'
 ---
 
-**Fråga:** Min respekterade shaykh, på vägen hittade jag ett papper med skrift på och jag ville plocka upp det för att folk inte skulle trampa på det. Jag tittade på det för att ta reda på om det innehöll Koran-verser. Jag fann då följande text. Vänligen, förklara dess mening för mig och om det är tillåtet?
+**Fråga:** Min respekterade *shaykh*, på vägen hittade jag ett papper med skrift på och jag ville plocka upp det för att folk inte skulle trampa på det. Jag tittade på det för att ta reda på om det innehöll Koran-verser. Jag fann då följande text. Vänligen, förklara dess mening för mig och om det är tillåtet?
 
 [Dessa ord bör ingraveras i en guldring, rökas med essens samt bärnsten och bäras under fullständig renhet. Läs efter bönen Allāhs namn 1130 gånger under en veckas tid efter morgonbönen den första fredagen varje månad, och avsluta efter kvällsbönen[^1] på torsdagen. Nämn därefter de två namnen så ofta som möjligt efter varje obligatorisk bön. Denna ritual har fantastiska hemligheter. Det är en ovärderlig handling vars hemlighet du aldrig bör avslöja för din son, för att de inte ska användas felaktigt och skada Allāhs tjänare.]
 

@@ -22,13 +22,13 @@ Hon måste ångra sig inför Allāh för att hon gjorde *tawāf[^5]* när hon ha
 
 Vi ber Allāh att Han accepterar hennes ånger.
 
-[^1]: Platsen där pilgrimmen träder in i ihraam.
+[^1]: Platsen där pilgrimmen träder in i ihrām.
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^3]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^4]: Den lilla vallfärden.
 [^5]: Den sju långa rundar vandringen runt Kabah.
 [^6]: Rakah.
 [^7]: Vandringen mellan as-Safa och al-Marwa.
-[^8]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
-[^9]: Utför vallfärden och ´umrah samtidigt med en intention.
+[^8]: När man först gör ´*umrah* och lämnar *ihrām* för att därpå träda in i *ihrām* för vallfärden.
+[^9]: Utför vallfärden och ´*umrah* samtidigt med en intention.
 

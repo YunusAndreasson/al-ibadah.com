@@ -20,7 +20,7 @@ När han sedan avslutar *tawāf[^6]* justerar han sin *rida’[^4]* och placerar
 
 Om någon tar av *rida’[^4]* och inte täcker sina axlar medan denne sitter och äter eller samtalar med sina bröder, då är det inget fel med det. Men det som är *sunnah[^3]* är att bära sin *rida’[^4]* över båda axlarna och att dess slut bör vara vid bröstet.
 
-[^1]: Någon som har trätt in i ihrām.
+[^1]: Någon som har trätt in i *ihrām*.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^4]: Det övre plagget.

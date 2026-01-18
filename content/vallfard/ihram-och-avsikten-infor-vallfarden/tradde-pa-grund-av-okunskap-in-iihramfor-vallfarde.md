@@ -22,5 +22,5 @@ Må böner med välsignelser och frid vara över vår profet Muḥammad, hans fa
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.
-[^3]: Platsen där pilgrimmen träder in i ihraam.
+[^3]: Platsen där pilgrimmen träder in i ihrām.
 

@@ -18,6 +18,6 @@ description: 'Fråga: För ett år sedan begav jag mig på ‘umrah och jag kän
 
 [^1]: Den lilla vallfärden.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^3]: Platsen där pilgrimmen träder in i ihraam.
+[^3]: Platsen där pilgrimmen träder in i ihrām.
 [^4]: Klädesplagg med sömmar.
 

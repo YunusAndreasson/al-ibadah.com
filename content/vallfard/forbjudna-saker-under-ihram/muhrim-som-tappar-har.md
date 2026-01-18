@@ -22,5 +22,5 @@ Och Allāh vet bäst.
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Wudū
-[^3]: Någon som har trätt in i ihrām.
+[^3]: Någon som har trätt in i *ihrām*.
 

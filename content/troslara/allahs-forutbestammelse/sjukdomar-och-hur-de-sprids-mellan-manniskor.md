@@ -31,7 +31,7 @@ description: 'Fråga: Vi ber er att förklara profetens – över honom vare All
 
 Den starkaste åsikten är att det avser månaden *safar[^1]*. Araberna brukade ju under tiden för islam anse att den var ett dåligt omen. Och årstiderna har ingen inverkan. Allāhs den Allsmäktiges bestämmelse är densamma som under alla andra månader. Både gott och ont bestäms under denna månad.
 
-Somliga antecknar datumet när de har gjort en viss sak den 25:e safar[^1]. De säger: Fullbordat den 25:e safar[^1], den goda månaden. Detta anses som att bota innovation med innovation och okunskap med okunskap. Detta är ju varken är en god eller ond månad.
+Somliga antecknar datumet när de har gjort en viss sak den 25:e *safar*[^1]. De säger: Fullbordat den 25:e *safar*[^1], den goda månaden. Detta anses som att bota innovation med innovation och okunskap med okunskap. Detta är ju varken är en god eller ond månad.
 
 Därför ogillade vissa *salaf[^4]* – må Allāh vara nöjda med dem – de som när de hörde en uggla hoa sade: ”Något bra, om Allāh vill.” Det är inte så att den bär med sig gott eller ont. I stället hoar den precis som andra fåglar gör.
 

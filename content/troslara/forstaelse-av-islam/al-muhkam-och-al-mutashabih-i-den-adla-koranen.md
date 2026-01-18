@@ -17,7 +17,7 @@ description: 'Fråga: Vilka verser i den Ädla Koranen är muhkam och mutashabih
 
 **Svar:** Du bör känna till att Allāh har beskrivit Koranen på tre olika sätt. Han har beskrivit hela som *muhkam[^1]* då Han säger: ”*Detta är budskap ur den uppenbarade Skriften*.” [Koranen 31:2] och i Hans ord: ”*[Detta är] en Skrift, vars budskap har avfattats på ett fast och klart språk och förtydligas på punkt efter punkt*.” [Koranen 11:1]
 
-Han beskriver den som mutashabih när Han säger: ”*Gud har [steg för steg] uppenbarat det skönaste budskap*.” [Koranen 39:23]
+Han beskriver den som *mutashabih* när Han säger: ”*Gud har [steg för steg] uppenbarat det skönaste budskap*.” [Koranen 39:23]
 
 Detta är ett generellt utlåtande om hela Koranen. Det generella utlåtande om hela Koranen är att dess uttalanden är *muhkam[^1]* i regler, ordalydelser och på andra sätt. Betydelsen i att den är *mutashabih* är att dess delar liknar varandra i perfektion, kvalitet samt sanning och att alla delar bekräftar varandra. Därför finner vi inte några motsägelsefulla domar i den och inte heller några felaktiga uttalanden. Tvärtom är det så att varje del bekräftar och styrker de andra. Verserna som kan verka motsägelsefulla behöver djupare studier och eftertanke. Därför säger Allāh:
 
@@ -41,7 +41,7 @@ Detta är enligt hur de som reciterar i en enda mening gör. Bland *salāf* – 
 
 När det gäller frågeställarens fråga: ”*Vilken är visdomen i att Allāh inte säger att hela Koranen är muhkam[^1]*”, då har svaret två vinklingar.
 
-Som vi har nämnt i början av svaret är den första att hela Koranen är muhkam[^1] enligt ordets generella betydelse. Och även i fråga om dessa ädla verser, om vi hänvisar det som är *mutashabih* till det som är *muhkam[^1]*, då blir innebörden i det tydligt och de blir helt muhkam[^1].
+Som vi har nämnt i början av svaret är den första att hela Koranen är *muhkam*[^1] enligt ordets generella betydelse. Och även i fråga om dessa ädla verser, om vi hänvisar det som är *mutashabih* till det som är *muhkam[^1]*, då blir innebörden i det tydligt och de blir helt *muhkam*[^1].
 
 När det gäller den andra vinklingen, kan vi säga att Allāh – den Härlige har skapat *mutashabih* som kräver reflektion, åtanke och förklaring genom *muhkam[^1]*. Han har gjort detta som en prövning då vissa använder de verser som är *mutashabihah* på ett sätt som leder dem till *fitnah[^3]* och får dem att vanära Koranen och tveka över den. På detta sätt blir det en prövning för dem från Allāh. Precis som Allāhs rättsliga domar eller de verser som handlar om föreskrifter i Koranen blir en prövning, blir även Hans allmängiltiga tecken över Hans kraft det. Allāh kan förordna vissa ting för att pröva hur människan utövar Hans Lag. Lägg märke till hur Allāh prövade judarna när Han förbjöd dem att äta fisk på lördagar. Han prövade dem genom att låta fisken visa sig på ytan under lördagar och under andra dagar visade den sig inte. De klarade dock inte testet, utan de använda sig av ett välkänt trick – de lade ut deras nät under fredagen för att fisken skulle fångas i dem och de samlade in dem på söndagar. Allāh den Allsmäktige straffade dem för detta trick. Lägg märke till hur Allāh prövade följeslagarna genom att säga:
 

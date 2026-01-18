@@ -21,15 +21,15 @@ Det har bekräftats från Ibn 'Abbās att profeten – över honom vare Allāhs 
 
 Detta har *al-Bukhārī* och *Muslim* återgivit.
 
-Salim bin ´Abdullāh bin ´Umar hörde sin far [´Abdullāh bin ´Umar] säga: "*Allāhs sändebud trädde inte in i *ihrām[^1]* utom från moskén, vilket innebär moskén i Thul-Hulayfah*." Detta har al-Bukhārī och Muslim återgivit.
+Salim bin ´Abdullāh bin ´Umar hörde sin far [´Abdullāh bin ´Umar] säga: "*Allāhs sändebud trädde inte in i *ihrām[^1]* utom från moskén, vilket innebär moskén i Thul-Hulayfah*." Detta har al-Bukhārī och *Muslim* återgivit.
 
-Profeten – över honom vare Allāhs frid och välsignelser – gjorde *ghusl[^5]* även vid Thul-Hulayfah. Det har rapporterats från Kharijah bin Zaid bin Thabit från hans far [Zaid bin Thabit] att han såg profeten – över honom vare Allāhs frid och välsignelser – ta av kläderna och göra *ghusl[^5]* för att träda in i *ihrām[^1]*. Detta har at-Tirmithi återgivit.
+Profeten – över honom vare Allāhs frid och välsignelser – gjorde *ghusl[^5]* även vid Thul-Hulayfah. Det har rapporterats från Kharijah bin Zaid bin Thabit från hans far [Zaid bin Thabit] att han såg profeten – över honom vare Allāhs frid och välsignelser – ta av kläderna och göra *ghusl[^5]* för att träda in i *ihrām[^1]*. Detta har *at-Tirmithi* återgivit.
 
 Må Allāhs sända välsignelser och frid över vår profet Muḥammad, hans familj och hans följeslagare.
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Säga Labbayk Allahumma Labbayk under vallfärden.
 [^3]: Den lilla vallfärden.
-[^4]: Platsen där pilgrimmen träder in i ihraam.
+[^4]: Platsen där pilgrimmen träder in i ihrām.
 [^5]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 

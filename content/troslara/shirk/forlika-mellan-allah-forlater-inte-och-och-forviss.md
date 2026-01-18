@@ -40,7 +40,7 @@ I den andra versen säger Allāh:
 
 Detta är sanningen om den som vänder sig till Allāh i ånger, och därför säger Allāh:
 
-> ”Säg [Muḥammad] till Mina tjänare: 'Om ni har gjort orätt mot er själva genom att överträda [Mina bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet.'” [Koranen 39:53].
+> ”Säg [Muḥammad] till *Mina* tjänare: 'Om ni har gjort orätt mot er själva genom att överträda [*Mina* bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet.'” [Koranen 39:53].
 
 De lärde är eniga om att dessa verser gäller dem som vänder sig till Allāh i ånger. Och Allāh är den som ger all framgång.
 

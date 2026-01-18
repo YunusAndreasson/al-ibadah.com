@@ -18,6 +18,6 @@ description: 'Fråga: När tar tiden för att slakta offerdjuret för hajjul-tam
 
 Och Allāh vet bäst.
 
-[^1]: När man först gör ´umrah och lämnar ihrām för att därpå träda in i ihrām för vallfärden.
+[^1]: När man först gör ´*umrah* och lämnar *ihrām* för att därpå träda in i *ihrām* för vallfärden.
 [^2]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 

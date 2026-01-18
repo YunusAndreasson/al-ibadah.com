@@ -24,7 +24,7 @@ De awliyā’[^2] som finns kan delas i två kategorier: De som är den Nåderik
 
 Och Allāh den Upphöjde säger: ”Gud är de troendes Beskyddare. Han leder dem ut ur mörkret till ljuset. Men de som förnekar sanningen har onda makter till beskyddare som leder dem ut ur ljuset till mörkret. De har Elden till arvedel och där ska de förbli till evig tid.” [Koranen 2:257]
 
-Abū Hurairah har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Den som är fientlig mot Min walīy – Jag förklarar krig mot denne.” [*al-Bukhārī* 6502 och Ibn Mājah 3989]
+Abū Hurairah har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Den som är fientlig mot Min *walī*y – Jag förklarar krig mot denne.” [*al-Bukhārī* 6502 och *Ibn Mājah* 3989]
 
 På detta sätt klargjorde profeten, med Allāhs den Allsmäktiges ord, att Han förklarar krig mot dem som motsätter sig Hans *awliyā’[^2]*. Allāh den Upphöjde har nämnt djävulens *awliyā’[^2]*, när Han säger: ”När du [vill] läsa Koranen, be då Gud beskydda dig mot djävulen, den utstötte. Han har ingen makt över dem som tror och litar till sin Herre; hans makt är begränsad till dem som ställer sig under hans beskydd och som förleds av honom att tillskriva andra del i Guds makt.” [Koranen 16:98 – 100]
 

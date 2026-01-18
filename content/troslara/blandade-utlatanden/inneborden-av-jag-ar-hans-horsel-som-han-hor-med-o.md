@@ -21,7 +21,7 @@ description: 'Fråga: Vilken är innebörden vad Allāh säger i denna heliga ha
 
 Generellt sett har alla hans inre och yttre handlingar sitt ursprung i Allāhs den Upphöjdes vägledning och kraft.
 
-Därför är det klart att de inte finns något bevis i den ovan nämnda hadithen för att Allāh reinkarneras i Sin skapelse, eller att Han förenas med den. Detta faktum klargörs även i slutet av hadithen ovan då Allāh säger:
+Därför är det klart att de inte finns något bevis i den ovan nämnda *hadithen* för att Allāh reinkarneras i Sin skapelse, eller att Han förenas med den. Detta faktum klargörs även i slutet av *hadithen* ovan då Allāh säger:
 
 > ”… och om han ber Mig, då kommer Jag att ge honom och om han söker Mitt skydd, då kommer Jag att skydda honom.” [*al-Bukhārī* 6502]
 
@@ -31,7 +31,7 @@ I andra versioner nämns att Allāh den Upphöjde har sagt:
 
 Det är uppenbart att uttalandena i början av dessa *ahādīth[^1]* gör tydlig att det finns en som åkallar[^2] och en som åkallas, och en som söker skydd och en som skyddar. Denna *hadīth[^1]* liknar en annan helig *hadīth[^1]* i vilken Allāh den Upphöjde säger:
 
-> ”Mina tjänare! Jag var sjuk men ni besökte Mig inte”. [*Ahmad* 2:404]
+> ”*Mina* tjänare! Jag var sjuk men ni besökte Mig inte”. [*Ahmad* 2:404]
 
 I dessa *ahādīth[^1]* förklaras uttalanden i början av uttalanden som följer efter. De som följer sina egna nycker, de håller sig till allegoriska texter och vänder sig bort från de som förklarar sig själva. På detta sätt viker de av från den raka vägen.
 

@@ -20,11 +20,11 @@ Sedan säger han den föreskrivna *talbiyyah[^5]*, som lyder:
 
 > ”Allāh! Jag är här till Din tjänst. Jag är här till Din tjänst. Jag är här till Din tjänst. Du har ingen medhjälpare. Jag är här till Din tjänst. Sannerligen, all lovprisan och välvilja tillhör Dig, och även enväldigheten. Du har ingen medhjälpare.”
 
-Detta är profetens – över honom vare Allāhs frid och välsignelser – talbiyyah[^5] som bland annat har bekräftats i *Sahīh al-Bukhārī* och *Sahīh Muslim*.
+Detta är profetens – över honom vare Allāhs frid och välsignelser – *talbiyyah*[^5] som bland annat har bekräftats i *Sahīh al-Bukhārī* och *Sahīh Muslim*.
 
 [^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 [^2]: Den lilla vallfärden.
 [^3]: Rakah.
-[^4]: Utför vallfärden och ´umrah samtidigt med en intention.
+[^4]: Utför vallfärden och ´*umrah* samtidigt med en intention.
 [^5]: Säga Labbayk Allahumma Labbayk under vallfärden.
 

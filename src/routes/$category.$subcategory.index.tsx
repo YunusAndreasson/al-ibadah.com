@@ -46,14 +46,13 @@ function SubcategoryPage() {
           {data.articles.map((article) => (
             <Link
               key={article.slug}
-              to={`/${category}/${subcategory}/${article.slug}`}
+              to="/$category/$subcategory/$slug"
+              params={{ category, subcategory, slug: article.slug }}
               preload="viewport"
               className="card block"
             >
               <h2 className="font-medium mb-1 text-foreground">{article.title}</h2>
-              {article.author && (
-                <p className="text-sm text-muted-foreground">{article.author}</p>
-              )}
+              {article.author && <p className="text-sm text-muted-foreground">{article.author}</p>}
             </Link>
           ))}
         </div>

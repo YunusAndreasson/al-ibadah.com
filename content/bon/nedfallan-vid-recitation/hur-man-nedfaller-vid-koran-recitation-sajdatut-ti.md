@@ -23,7 +23,7 @@ description: 'Fråga: Hur gör man sajdatut-tilawah och hur många taslīm bör 
 >
 > ”Allāhumma, uktub lī biha ajran wa dha' 'anī biha wizran waj'alha lī 'indaka thukhran wa taqabbalha minnī kama taqabbaltaha min 'abdika Dawūd ´alaihi wa 'ala nabiyyina afdhalus-salati was-salam.”
 
-Den första delen har Muslim återgivit (771) och at-Tirmithi den andra av (579).
+Den första delen har *Muslim* återgivit (771) och *at-Tirmithi* den andra av (579).
 
 [^1]: När vissa verser i Koranen reciteras kan man nedfalla.
 [^2]: Den avslutande hälsningen i bönen.

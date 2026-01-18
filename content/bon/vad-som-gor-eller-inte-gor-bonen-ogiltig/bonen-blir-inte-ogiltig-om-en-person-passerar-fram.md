@@ -22,7 +22,7 @@ Han har beordrat den som ber mot en *sutrah[^1]* att inte låta folk passera fra
 
 profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* bevisar att Allāhs tjänare bör försöka hejda den som försöker att gå framför honom, även om han inte är en av de tre som tidigare nämnts och oavsett om det är en människa eller ett djur, om tjänaren har förmåga att göra det. Om tjänaren inte lyckas, då skadar det inte bönen.
 
-Det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* att en muslim har något framför sig: en stol, ett spjut som sticks ned i marken, en vägg eller en av moskéns pelare. Om folket sedan går bakom denna *sutrah[^1]*, då kommer det inte skada bönen. Det som är förbjudet är att de passerar mellan den bedjande och hans sutrah[^1].
+Det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* att en muslim har något framför sig: en stol, ett spjut som sticks ned i marken, en vägg eller en av moskéns pelare. Om folket sedan går bakom denna *sutrah[^1]*, då kommer det inte skada bönen. Det som är förbjudet är att de passerar mellan den bedjande och hans *sutrah*[^1].
 
 Om den som passerade framför tjänaren var en kvinna, en åsna eller en svart hund – då bryts bönen. På samma sätt om dessa tre gick nära tjänaren medan denne inte hade en *sutrah[^1]*, närmare än tre alnar, då hade de brutit bönen. Men om de gick långt bort, längre bort än tre alnar, då skulle det inte skada bönen. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – bad vid Ka’bah och han såg till att det fanns tre alnar mellan honom och den västra väggen. De lärde citerar detta som ett bevis för att detta är avståndet för en *sutrah[^1]*.
 

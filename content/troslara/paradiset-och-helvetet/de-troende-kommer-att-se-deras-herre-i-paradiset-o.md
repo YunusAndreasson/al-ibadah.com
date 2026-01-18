@@ -17,7 +17,7 @@ description: 'Fråga: I en hadīth från profeten – över honom vare Allāhs f
 
 > ”Ni kommer sannerligen att se er Herre på Återuppståndelsens Dag, precis som ni ser månen en natt när den är full… ni kommer inte att ha några problem att se det.” [*al-Bukhārī* 554 och *Muslim* 183]
 
-Är det sant att Allāh kommer att ses på Återuppståndelsens Dag? Är den ovan nämnda hadithen autentisk? Kommer alla att se Honom, eller endast de troende?
+Är det sant att Allāh kommer att ses på Återuppståndelsens Dag? Är den ovan nämnda *hadithen* autentisk? Kommer alla att se Honom, eller endast de troende?
 
 Några av dem som har återberättat *ahādīth[^1]* säger att Allāh den Härlige, den Upphöjde stiger ned under den tredje delen av natten till den lägsta himmeln. Är detta korrekt?
 
@@ -25,7 +25,7 @@ Några av dem som har återberättat *ahādīth[^1]* säger att Allāh den Härl
 
 > ”Nej! Denna Dag kommer de förvisso att se sig utestängda från Guds nåd.” [Koranen 83:15]
 
-Flera hadither har återberättats som bekräftar att de troende kommer att se sin Herre i Paradiset. Dessutom bekräftar Koranen det när Allāh säger:
+Flera *hadither* har återberättats som bekräftar att de troende kommer att se sin Herre i Paradiset. Dessutom bekräftar Koranen det när Allāh säger:
 
 > ”Den Dagen ska [någras] ansikten lysas upp av glädje – de får skåda sin Herre – medan mörka skuggor kommer att skymma [andras] ansikten – de grubblar över det lidande som väntar dem.” [Koranen 75:22 – 23]
 

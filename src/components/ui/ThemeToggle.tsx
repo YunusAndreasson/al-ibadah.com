@@ -34,11 +34,7 @@ export function ThemeToggle() {
 
   if (!mounted) {
     return (
-      <button
-        type="button"
-        className="p-2 rounded-lg hover-bg press-scale"
-        aria-label="Byt tema"
-      >
+      <button type="button" className="p-2 rounded-lg hover-bg press-scale" aria-label="Byt tema">
         <div className="w-[18px] h-[18px]" />
       </button>
     )

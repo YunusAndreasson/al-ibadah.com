@@ -14,7 +14,7 @@ description: 'Fråga: Vilket är utlåtandet om att be en obligatorisk bön bako
 
 **Fråga:** Vilket är utlåtandet om att be en obligatorisk bön bakom någon som ber en frivillig, likt någon som ber nattbönen[^1] bakom dem som ber *tarāwīh*?
 
-**Svar:** Det finns ingen invändan mot att be nattbönen[^1] bakom någon som ber *tarāwīh*. Imam Ahmad har fastslagit detta […]
+**Svar:** Det finns ingen invändan mot att be nattbönen[^1] bakom någon som ber *tarāwīh*. Imam *Ahmad* har fastslagit detta […]
 
 [^1]: Isha
 

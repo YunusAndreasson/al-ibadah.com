@@ -6,14 +6,14 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsplikt
 original_id: 885
-description: 'Fråga: Vi är sunniter och lever i en shiitisk stat. Vi vill utföra
+description: 'Fråga: Vi är sunniter och lever i en stat styrd av shia. Vi vill utföra
  den obligatoriska pilgrimsfärden men vi kan inte resa med invånarna i detta land
- då de är shiiter och vi vill undvika att få prob...'
+ då de följer shia och vi vill undvika att få prob...'
 ---
 
-**Fråga:** Vi är sunniter och lever i en shiitisk stat. Vi vill utföra den obligatoriska pilgrimsfärden men vi kan inte resa med invånarna i detta land då de är shiiter och vi vill undvika att få problem på vägen.
+**Fråga:** Vi är sunniter och lever i en stat styrd av shia. Vi vill utföra den obligatoriska pilgrimsfärden men vi kan inte resa med invånarna i detta land då de följer shia och vi vill undvika att få problem på vägen.
 
-**Svar:** All lovprisan tillhör Allāh. Har ni möjlighet måste ni vallfärda även om ni åker tillsammans med shiiter. Samtidigt måste ni vara uppmärksam på deras skenfagra argument och falska sätt. Kan ni råda dem och kalla dem till *ahl al-sunnah[^1] s* väg, då måste ni göra det. Allāh har sagt:
+**Svar:** All lovprisan tillhör Allāh. Har ni möjlighet måste ni vallfärda även om ni åker tillsammans med anhängare av shia. Samtidigt måste ni vara uppmärksam på deras skenfagra argument och falska sätt. Kan ni råda dem och kalla dem till *ahl al-sunnah[^1] s* väg, då måste ni göra det. Allāh har sagt:
 
 > ”Kalla [människorna, Muḥammad] med kloka och goda ord att följa din Herres väg, och lägg fram argumenten på ett måttfullt och försynt sätt.” [Koranen 16:125]
 

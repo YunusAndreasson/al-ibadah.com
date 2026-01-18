@@ -29,7 +29,7 @@ Och framgång kommer från Allāh. Må Allāh sända välsignelser över vår pr
 [^5]: Den sju långa rundar vandringen runt Kabah.
 [^6]: Vandringen mellan as-Safa och al-Marwa.
 [^7]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^8]: Platsen där pilgrimmen träder in i ihraam.
+[^8]: Platsen där pilgrimmen träder in i ihrām.
 [^9]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^10]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
 

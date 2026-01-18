@@ -6,6 +6,7 @@
 import fs from 'node:fs/promises'
 import path from 'node:path'
 import matter from 'gray-matter'
+import type { Element, Root } from 'hast'
 import rehypeRaw from 'rehype-raw'
 import rehypeSlug from 'rehype-slug'
 import rehypeStringify from 'rehype-stringify'
@@ -15,7 +16,6 @@ import remarkRehype from 'remark-rehype'
 import remarkSmartypants from 'remark-smartypants'
 import { unified } from 'unified'
 import { visit } from 'unist-util-visit'
-import type { Root, Element } from 'hast'
 
 /**
  * Rehype plugin to add 'qa-label' class to Fråga:/Svar: labels
@@ -26,17 +26,9 @@ function rehypeQaLabels() {
       if (node.tagName !== 'p') return
 
       const firstChild = node.children[0]
-      if (
-        firstChild &&
-        firstChild.type === 'element' &&
-        firstChild.tagName === 'strong'
-      ) {
+      if (firstChild && firstChild.type === 'element' && firstChild.tagName === 'strong') {
         const textNode = firstChild.children[0]
-        if (
-          textNode &&
-          textNode.type === 'text' &&
-          /^(Fråga|Svar):/.test(textNode.value)
-        ) {
+        if (textNode && textNode.type === 'text' && /^(Fråga|Svar):/.test(textNode.value)) {
           firstChild.properties = firstChild.properties || {}
           firstChild.properties.className = ['qa-label']
         }
@@ -65,6 +57,7 @@ interface ArticleData {
   description?: string
   html: string
   path: string
+  wordCount: number
 }
 
 interface SubcategoryData {
@@ -96,10 +89,10 @@ async function parseMarkdown(content: string): Promise<string> {
     .use(remarkParse)
     .use(remarkGfm)
     .use(remarkSmartypants, {
-      quotes: true,        // "curly quotes"
+      quotes: true, // "curly quotes"
       dashes: 'oldschool', // -- to en-dash, --- to em-dash
-      ellipses: true,      // ... to …
-      backticks: true,     // ``double'' to curly quotes
+      ellipses: true, // ... to …
+      backticks: true, // ``double'' to curly quotes
     })
     .use(remarkRehype, {
       allowDangerousHtml: true,
@@ -121,6 +114,15 @@ function cleanCategoryName(name: string): string {
     .trim()
 }
 
+/**
+ * Calculate word count from HTML content
+ */
+function calculateWordCount(html: string): number {
+  const textContent = html.replace(/<[^>]*>/g, ' ')
+  const words = textContent.split(/\s+/).filter(Boolean)
+  return words.length
+}
+
 async function processArticle(
   filePath: string,
   slug: string,
@@ -132,6 +134,7 @@ async function processArticle(
     const frontmatter = data as ArticleFrontmatter
 
     const html = await parseMarkdown(content)
+    const wordCount = calculateWordCount(html)
 
     return {
       slug,
@@ -142,6 +145,7 @@ async function processArticle(
       description: frontmatter.description,
       html,
       path: articlePath,
+      wordCount,
     }
   } catch (error) {
     console.error(`Error processing article ${filePath}:`, error)
@@ -207,7 +211,9 @@ async function buildContent(): Promise<CategoryData[]> {
           // Split by " – " to get individual category parts
           const categoryParts = Array.isArray(categories)
             ? categories
-            : String(categories).split(/\s*–\s*/).filter(Boolean)
+            : String(categories)
+                .split(/\s*–\s*/)
+                .filter(Boolean)
           if (categoryParts.length >= 2) {
             subcategoryName = cleanCategoryName(categoryParts[1])
           }
@@ -274,6 +280,7 @@ export interface ArticleData {
   description?: string
   html: string
   path: string
+  wordCount: number
 }
 
 export interface SubcategoryData {

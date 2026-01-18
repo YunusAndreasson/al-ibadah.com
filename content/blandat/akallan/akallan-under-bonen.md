@@ -18,7 +18,7 @@ description: 'Fråga: Får Allāhs tjänare åkalla i den obligatoriska bön? Et
 
 Han har även sagt: ”*Beträffande bugningen[^3], lovprisa din Herre i den; och när det gäller nedfallandet[^4], använd din *ijtihād[^5]* i den [åkalla med dina egna ord] och det kan vara värdigt nog att besvaras*.” [*Muslim* 479]
 
-Från Abū Hurairah återges i Muslim att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Tjänaren är närmst sin Herre när han nedfaller, så åkalla mycket*.” [*Muslim* 482]
+Från Abū Hurairah återges i *Muslim* att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Tjänaren är närmst sin Herre när han nedfaller, så åkalla mycket*.” [*Muslim* 482]
 
 I *Sahīh Muslim* och *Sahīh al-Bukhārī* har det berättats från ´Abdullāh bin Mas'ud att när profeten – över honom vare Allāhs frid och välsignelser – lärde honom *tashahhud[^6]* så sade han: ”*Låt honom sedan välja vilken angelägenhet han vill*.” [*Muslim* 402] Och i en annan version: ”*Låt honom sedan välja den åkallan[^1] som gör honom nöjd*.” [*al-Bukhārī* 835]
 

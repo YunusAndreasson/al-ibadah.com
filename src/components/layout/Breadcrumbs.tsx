@@ -21,10 +21,7 @@ export function Breadcrumbs({ items }: BreadcrumbsProps) {
               </span>
             )}
             {item.href ? (
-              <Link
-                to={item.href}
-                className="nav-link"
-              >
+              <Link to={item.href} className="nav-link">
                 {item.label}
               </Link>
             ) : (

@@ -92,7 +92,7 @@ Efter att ha spenderat hela månaden i tro, läsandes Koranen och med annan dyrk
 
 Jag undrar vad meningen med dyrkan i en hel månad är, om den ska följas av en återgång till detta ohedervärda sätt?
 
-Den andra typen är de som känner sig bedrövade vid *ramadan[^1]* s slut, då de smakat sötman i att vara fri ifrån synder och bitterheten av tålamod blev oviktig för dem; därför kom de att inse den sanna naturen i deras svaghet, behovet av deras Herre och behovet av att lyda Honom. De fastade i sann mening och stod av kärlek i bön under nätterna. När de sade farväl till Ramadan rann deras tårar och deras hjärtan brast. De som tyngts med synder hoppas på att frias ifrån dem och få slå följe med den grupp som är accepterad. Fråga dig själv – min bror – vilken av dessa grupper vill du tillhöra?
+Den andra typen är de som känner sig bedrövade vid *ramadan[^1]* s slut, då de smakat sötman i att vara fri ifrån synder och bitterheten av tålamod blev oviktig för dem; därför kom de att inse den sanna naturen i deras svaghet, behovet av deras Herre och behovet av att lyda Honom. De fastade i sann mening och stod av kärlek i bön under nätterna. När de sade farväl till *Ramadan* rann deras tårar och deras hjärtan brast. De som tyngts med synder hoppas på att frias ifrån dem och få slå följe med den grupp som är accepterad. Fråga dig själv – min bror – vilken av dessa grupper vill du tillhöra?
 
 Vid Allāh, är de lika? All lovprisan tillhör Allāh, men de flesta vet inte.
 

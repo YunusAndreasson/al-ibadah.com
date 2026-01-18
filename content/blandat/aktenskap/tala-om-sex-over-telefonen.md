@@ -14,7 +14,7 @@ description: 'Fråga: Får ett gift par att tala om sex över telefonen och hets
 
 **Svar:** All ära tillhör Allāh.
 
-Vi låter shaykh Muḥammad ibn Sālih al-´Uthaymīn svara på denna frågan:
+Vi låter *shaykh* Muḥammad ibn Sālih al-´Uthaymīn svara på denna fråga:
 
 ”Det finns inget fel i det. Ja, det är tillåtet.”
 

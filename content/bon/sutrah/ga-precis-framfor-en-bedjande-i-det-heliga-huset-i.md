@@ -14,7 +14,7 @@ description: 'Fråga: Vilket är utlåtandet om att gå precis framför en bedja
 
 **Fråga:** Vilket är utlåtandet om att gå precis framför en bedjande i det Heliga Huset [i Mecka] och får en tjänare hindra den som försöker passera framför?
 
-**Svar:** Det är inte syndigt om den som är vid det Heliga Huset [den Heliga Moskén] hindrar någon från att gå framför. Anledningen är att de rättfärdige *salaf[^1]*, inklusive as-Zubair, inte hindrade dem som gjorde *tawāf[^2]* eller andra att gå framför dem. En annan anledning är att den Heliga Moskén är en plats där man kan förvänta sig trängsel och svårigheter om någon hindras att gå framför en troende. Därför är det obligatoriskt att vara tålmodig och tolerant.
+**Svar:** Det är inte syndigt om den som är vid det Heliga Huset [den Heliga Moskén] hindrar någon från att gå framför. Anledningen är att de rättfärdiga *salaf[^1]*, inklusive as-Zubair, inte hindrade dem som gjorde *tawāf[^2]* eller andra att gå framför dem. En annan anledning är att den Heliga Moskén är en plats där man kan förvänta sig trängsel och svårigheter om någon hindras att gå framför en troende. Därför är det obligatoriskt att vara tålmodig och tolerant.
 
 [^1]: De tre första generationerna i islam.
 [^2]: Den sju långa rundar vandringen runt Kabah.

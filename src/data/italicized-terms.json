@@ -1,0 +1,669 @@
+{
+  "description": "Kanonisk ordlista over termer som alltid ska kursiveras i innehallsfiler",
+  "categories": {
+    "hadithSources": {
+      "description": "Hadith-kallhanvisningar och samlingar",
+      "terms": [
+        {
+          "canonical": "al-Bukhari",
+          "variants": ["al-Bukhārī", "al-Bukhāri", "Bukhari", "Bukhārī"]
+        },
+        {
+          "canonical": "Muslim",
+          "variants": ["Muslim"]
+        },
+        {
+          "canonical": "Abu Dawud",
+          "variants": ["Abū Dawūd", "Abu Dawud", "Abū Dāwūd"]
+        },
+        {
+          "canonical": "at-Tirmithi",
+          "variants": ["at-Tirmithi", "at-Tirmidhī", "Tirmithi", "Tirmidhī", "al-Tirmithi"]
+        },
+        {
+          "canonical": "an-Nasa'i",
+          "variants": ["an-Nasā'i", "an-Nasā'i", "Nasā'i", "an-Nasa'i"]
+        },
+        {
+          "canonical": "Ibn Majah",
+          "variants": ["Ibn Mājah", "Ibn Majah"]
+        },
+        {
+          "canonical": "Ahmad",
+          "variants": ["Ahmad", "Imām Ahmad", "Imam Ahmad"]
+        },
+        {
+          "canonical": "al-Hakim",
+          "variants": ["al-Hakim", "al-Hākim"]
+        },
+        {
+          "canonical": "ad-Daraqutni",
+          "variants": ["ad-Daraqutni", "ad-Dāraqutnī", "Daraqutni"]
+        },
+        {
+          "canonical": "Ibn Khuzaymah",
+          "variants": ["Ibn Khuzaymah"]
+        },
+        {
+          "canonical": "al-Bayhaqi",
+          "variants": ["al-Bayhaqi", "al-Bayhaqī"]
+        },
+        {
+          "canonical": "at-Tabarani",
+          "variants": ["at-Tabarani", "at-Tabarānī", "Tabarani"]
+        }
+      ]
+    },
+    "hadithBooks": {
+      "description": "Hadith-bocker och verk",
+      "terms": [
+        {
+          "canonical": "Sahih",
+          "variants": ["Sahīh", "sahīh", "Sahih", "sahih"]
+        },
+        {
+          "canonical": "Sahih al-Bukhari",
+          "variants": ["Sahīh al-Bukhārī", "Sahīh al-Bukhāri"]
+        },
+        {
+          "canonical": "Sahih Muslim",
+          "variants": ["Sahīh Muslim"]
+        },
+        {
+          "canonical": "al-Sahihayn",
+          "variants": ["al-Sahīhayn"]
+        },
+        {
+          "canonical": "Sunan",
+          "variants": ["Sunan"]
+        },
+        {
+          "canonical": "Musnad",
+          "variants": ["Musnad"]
+        },
+        {
+          "canonical": "hasan",
+          "variants": ["hasan", "Hasan"]
+        },
+        {
+          "canonical": "Riyad us Salihin",
+          "variants": ["Riyād us Sālihīn"]
+        },
+        {
+          "canonical": "Bulugh al-Maram",
+          "variants": ["Bulugh al-Maram"]
+        },
+        {
+          "canonical": "Zadul-Ma'ad",
+          "variants": ["Zādul-Ma'ād", "Zād ul-Ma'ād"]
+        },
+        {
+          "canonical": "al-Silsilah al-Sahihah",
+          "variants": ["al-Silsilah al-Sahīhah"]
+        },
+        {
+          "canonical": "Sahih al-Jami'",
+          "variants": ["Sahīh al-Jāmi'"]
+        }
+      ]
+    },
+    "coreTerms": {
+      "description": "Grundlaggande islamiska termer",
+      "terms": [
+        {
+          "canonical": "sunnah",
+          "variants": ["sunnah", "Sunnah", "sunnahs"]
+        },
+        {
+          "canonical": "hadith",
+          "variants": ["hadīth", "hadith", "Hadīth", "Hadith", "hadithen", "hadither"]
+        },
+        {
+          "canonical": "ahadith",
+          "variants": ["ahādīth", "ahadith", "Ahādīth"]
+        },
+        {
+          "canonical": "tawhid",
+          "variants": ["tawhīd", "tawhid", "Tawhīd", "Tawhid"]
+        },
+        {
+          "canonical": "shirk",
+          "variants": ["shirk", "Shirk"]
+        },
+        {
+          "canonical": "iman",
+          "variants": ["īmān", "iman", "Īmān"]
+        },
+        {
+          "canonical": "fiqh",
+          "variants": ["fiqh", "Fiqh"]
+        },
+        {
+          "canonical": "salaf",
+          "variants": ["salaf", "Salaf"]
+        },
+        {
+          "canonical": "aqidah",
+          "variants": ["'aqīdah", "aqidah", "'aqīdah", "´aqīdah"]
+        },
+        {
+          "canonical": "tafsir",
+          "variants": ["tafsīr", "tafsir"]
+        },
+        {
+          "canonical": "ijtihad",
+          "variants": ["ijtihād", "ijtihad"]
+        },
+        {
+          "canonical": "ta'wil",
+          "variants": ["ta'wil", "ta'wīl"]
+        },
+        {
+          "canonical": "ikhlas",
+          "variants": ["ikhlas", "ikhlās"]
+        },
+        {
+          "canonical": "tawakkul",
+          "variants": ["tawakkul"]
+        },
+        {
+          "canonical": "taqwa",
+          "variants": ["taqwa", "taqwā"]
+        },
+        {
+          "canonical": "tawbah",
+          "variants": ["tawbah"]
+        },
+        {
+          "canonical": "fitrah",
+          "variants": ["fitrah"]
+        },
+        {
+          "canonical": "fitnah",
+          "variants": ["fitnah"]
+        },
+        {
+          "canonical": "riya'",
+          "variants": ["riya'", "riyā'"]
+        },
+        {
+          "canonical": "tawassul",
+          "variants": ["tawassul"]
+        },
+        {
+          "canonical": "sihr",
+          "variants": ["sihr"]
+        },
+        {
+          "canonical": "ruqyah",
+          "variants": ["ruqyah"]
+        },
+        {
+          "canonical": "jinn",
+          "variants": ["jinn", "Jinn"]
+        },
+        {
+          "canonical": "mushaf",
+          "variants": ["mushaf"]
+        },
+        {
+          "canonical": "wali",
+          "variants": ["walī", "wali"]
+        },
+        {
+          "canonical": "awliya'",
+          "variants": ["awliyā'", "awliya'"]
+        },
+        {
+          "canonical": "djihad",
+          "variants": ["djihād", "djihad", "jihād", "jihad"]
+        },
+        {
+          "canonical": "muhkam",
+          "variants": ["muhkam"]
+        },
+        {
+          "canonical": "mutashabih",
+          "variants": ["mutashabih"]
+        },
+        {
+          "canonical": "istawa",
+          "variants": ["istawa", "istawā"]
+        },
+        {
+          "canonical": "istawla",
+          "variants": ["istawla", "istawlā"]
+        },
+        {
+          "canonical": "'uluww",
+          "variants": ["´uluww", "'uluww", "uluww"]
+        },
+        {
+          "canonical": "'Arsh",
+          "variants": ["'Arsh", "'Arsh"]
+        }
+      ]
+    },
+    "prayerTerms": {
+      "description": "Bonerelaterade termer",
+      "terms": [
+        {
+          "canonical": "salah",
+          "variants": ["salāh", "salah"]
+        },
+        {
+          "canonical": "taslim",
+          "variants": ["taslīm", "taslim"]
+        },
+        {
+          "canonical": "takbir",
+          "variants": ["takbīr", "takbir"]
+        },
+        {
+          "canonical": "tashahhud",
+          "variants": ["tashahhud", "Tashahhud"]
+        },
+        {
+          "canonical": "qiblah",
+          "variants": ["qiblah", "Qiblah"]
+        },
+        {
+          "canonical": "iqamah",
+          "variants": ["iqāmah", "iqamah"]
+        },
+        {
+          "canonical": "qunūt",
+          "variants": ["qunūt", "qunut"]
+        },
+        {
+          "canonical": "sutrah",
+          "variants": ["sutrah"]
+        },
+        {
+          "canonical": "witr",
+          "variants": ["witr", "Witr"]
+        },
+        {
+          "canonical": "tarawih",
+          "variants": ["tarāwīh", "tarawih", "tarāwīh"]
+        },
+        {
+          "canonical": "sujud al-tilawah",
+          "variants": ["sujūd al-tilāwah", "Sujūd al-tilāwah"]
+        },
+        {
+          "canonical": "tasbih",
+          "variants": ["tasbih", "tasbīh"]
+        },
+        {
+          "canonical": "tahmid",
+          "variants": ["tahmid", "tahmīd"]
+        },
+        {
+          "canonical": "tahlil",
+          "variants": ["tahlil", "tahlīl"]
+        },
+        {
+          "canonical": "amin",
+          "variants": ["āmīn", "amin"]
+        },
+        {
+          "canonical": "tajwid",
+          "variants": ["tajwīd", "tajwid"]
+        }
+      ]
+    },
+    "purificationTerms": {
+      "description": "Renhetstermer",
+      "terms": [
+        {
+          "canonical": "ghusl",
+          "variants": ["ghusl", "Ghusl"]
+        },
+        {
+          "canonical": "tayammum",
+          "variants": ["tayammum"]
+        },
+        {
+          "canonical": "wudu",
+          "variants": ["wudū'", "wudu", "wudū"]
+        },
+        {
+          "canonical": "muwalah",
+          "variants": ["muwalah", "muwālah"]
+        },
+        {
+          "canonical": "janabah",
+          "variants": ["janābah", "janabah"]
+        }
+      ]
+    },
+    "fastingTerms": {
+      "description": "Fasta-relaterade termer",
+      "terms": [
+        {
+          "canonical": "ramadan",
+          "variants": ["ramadan", "Ramadan", "Ramadān"]
+        },
+        {
+          "canonical": "sahur",
+          "variants": ["sahūr", "sahur", "suhūr"]
+        },
+        {
+          "canonical": "iftar",
+          "variants": ["iftār", "iftar"]
+        },
+        {
+          "canonical": "i'tikaf",
+          "variants": ["i'tikāf", "i'tikaf", "itikāf"]
+        },
+        {
+          "canonical": "'eid",
+          "variants": ["'eid", "'eid", "eid", "Eid"]
+        },
+        {
+          "canonical": "'eid al-adha",
+          "variants": ["'eid al-adhā", "'eid al-adha"]
+        },
+        {
+          "canonical": "'eid al-fitr",
+          "variants": ["'eid al-fitr"]
+        }
+      ]
+    },
+    "hajjTerms": {
+      "description": "Vallfardstermer",
+      "terms": [
+        {
+          "canonical": "ihram",
+          "variants": ["ihrām", "ihram", "Ihrām"]
+        },
+        {
+          "canonical": "tawaf",
+          "variants": ["tawāf", "tawaf"]
+        },
+        {
+          "canonical": "tawaf ul-wada",
+          "variants": ["tawāf ul-wadā", "tawaful-wada", "tawāf ul-wadā'"]
+        },
+        {
+          "canonical": "tawaf ul-ifadah",
+          "variants": ["tawāf ul-ifādhah", "tawāf ul-ifādah"]
+        },
+        {
+          "canonical": "tawaf uz-ziyarah",
+          "variants": ["tawāf uz-ziyarah"]
+        },
+        {
+          "canonical": "sa'i",
+          "variants": ["sa'ī", "sa'i", "sa'", "sā'i", "sā'"]
+        },
+        {
+          "canonical": "'umrah",
+          "variants": ["'umrah", "'umrah", "´umrah", "'Umrah", "umrah"]
+        },
+        {
+          "canonical": "miqat",
+          "variants": ["mīqāt", "miqat"]
+        },
+        {
+          "canonical": "talbiyyah",
+          "variants": ["talbiyyah"]
+        },
+        {
+          "canonical": "muhrim",
+          "variants": ["muhrim"]
+        },
+        {
+          "canonical": "mutamatti'",
+          "variants": ["mutamatti'", "mutamatti"]
+        },
+        {
+          "canonical": "mufrid",
+          "variants": ["mufrid"]
+        },
+        {
+          "canonical": "qiran",
+          "variants": ["qirān", "qiran"]
+        },
+        {
+          "canonical": "hajjul-tamattu'",
+          "variants": ["hajjul-tamattu´", "hajjul-tamattu'"]
+        },
+        {
+          "canonical": "hajjul-qiran",
+          "variants": ["hajjul-qirān"]
+        },
+        {
+          "canonical": "fidyah",
+          "variants": ["fidyah"]
+        },
+        {
+          "canonical": "izar",
+          "variants": ["izār", "izar"]
+        },
+        {
+          "canonical": "rida'",
+          "variants": ["rida'", "ridā'"]
+        },
+        {
+          "canonical": "al-tarwiyah",
+          "variants": ["al-tarwiyah"]
+        },
+        {
+          "canonical": "tashriq",
+          "variants": ["tashrīq", "tashriq"]
+        }
+      ]
+    },
+    "hajjLocations": {
+      "description": "Vallfardsorter",
+      "terms": [
+        {
+          "canonical": "Arafat",
+          "variants": ["Arafat", "'Arafat", "'Arafāt"]
+        },
+        {
+          "canonical": "Muzdalifah",
+          "variants": ["Muzdalifah"]
+        },
+        {
+          "canonical": "Mina",
+          "variants": ["Minā", "Mina"]
+        }
+      ]
+    },
+    "monthNames": {
+      "description": "Islamiska manader",
+      "terms": [
+        {
+          "canonical": "shawwal",
+          "variants": ["shawwal", "Shawwal", "shawwāl"]
+        },
+        {
+          "canonical": "dhul-hijjah",
+          "variants": ["dhul-hijjah", "Dhul-hijjah", "dhū'l-hijjah"]
+        },
+        {
+          "canonical": "muharram",
+          "variants": ["muharram", "Muharram"]
+        },
+        {
+          "canonical": "safar",
+          "variants": ["safar", "Safar"]
+        },
+        {
+          "canonical": "rajab",
+          "variants": ["rajab", "Rajab"]
+        },
+        {
+          "canonical": "sha'ban",
+          "variants": ["sha'bān", "sha'ban", "Sha'bān"]
+        },
+        {
+          "canonical": "thul-qa'dah",
+          "variants": ["thul-qa'dah"]
+        }
+      ]
+    },
+    "zakatTerms": {
+      "description": "Zakat-termer",
+      "terms": [
+        {
+          "canonical": "zakatul-fitr",
+          "variants": ["zakātul-fitr", "zakatul-fitr"]
+        },
+        {
+          "canonical": "sa'",
+          "variants": ["sā'"]
+        },
+        {
+          "canonical": "mithqal",
+          "variants": ["mithqal", "mithqāl"]
+        },
+        {
+          "canonical": "sadaqah",
+          "variants": ["sadaqah"]
+        }
+      ]
+    },
+    "familyTerms": {
+      "description": "Familje- och aktenskapstermer",
+      "terms": [
+        {
+          "canonical": "mahram",
+          "variants": ["mahram"]
+        },
+        {
+          "canonical": "'awrah",
+          "variants": ["'awrah", "'awrah"]
+        },
+        {
+          "canonical": "'iddah",
+          "variants": ["'iddah", "'iddah"]
+        },
+        {
+          "canonical": "nikah",
+          "variants": ["nikāh", "nikah"]
+        },
+        {
+          "canonical": "zihar",
+          "variants": ["zihār", "zihar"]
+        }
+      ]
+    },
+    "clothingTerms": {
+      "description": "Kladestermer",
+      "terms": [
+        {
+          "canonical": "burqa'",
+          "variants": ["burqa'"]
+        },
+        {
+          "canonical": "niqab",
+          "variants": ["niqāb", "niqab"]
+        },
+        {
+          "canonical": "hijab",
+          "variants": ["hijāb", "hijab"]
+        },
+        {
+          "canonical": "khimar",
+          "variants": ["khimār", "khimar"]
+        },
+        {
+          "canonical": "qamis",
+          "variants": ["qamis", "qamīs"]
+        }
+      ]
+    },
+    "phrases": {
+      "description": "Vanliga fraser",
+      "terms": [
+        {
+          "canonical": "Allahu akbar",
+          "variants": ["Allāhu akbar", "Allāhu Akbar", "Allahu akbar"]
+        },
+        {
+          "canonical": "La ilaha illAllah",
+          "variants": ["Lā ilāha illAllāh"]
+        },
+        {
+          "canonical": "al-Hamdu Lillah",
+          "variants": ["al-Hamdu Lillāh", "al-hamdulillāh"]
+        },
+        {
+          "canonical": "Subhan-Allah",
+          "variants": ["Subhan-Allāh", "Subhān Allāh"]
+        },
+        {
+          "canonical": "salam",
+          "variants": ["salām"]
+        },
+        {
+          "canonical": "Bismillah",
+          "variants": ["Bismillah", "Bismillāh"]
+        }
+      ]
+    },
+    "scholarlyTerms": {
+      "description": "Akademiska/lardomstermer",
+      "terms": [
+        {
+          "canonical": "shaykh ul-islam",
+          "variants": ["shaykh ul-islām", "Shaykh ul-islām", "Shaykh ul-Islām", "shaykh ul-Islām", "shaykh al-islām"]
+        },
+        {
+          "canonical": "shaykh",
+          "variants": ["shaykh", "Shaykh"]
+        },
+        {
+          "canonical": "tabi'in",
+          "variants": ["tabi´in", "tābi'īn"]
+        },
+        {
+          "canonical": "ahlus-sunnah",
+          "variants": ["ahlus-sunnah", "Ahlus-sunnah"]
+        },
+        {
+          "canonical": "ahlus-sunnah wal-jama'at",
+          "variants": ["ahlus-sunnah wal-jamā'at"]
+        },
+        {
+          "canonical": "jahmiyyah",
+          "variants": ["jahmiyyah"]
+        },
+        {
+          "canonical": "rafidi",
+          "variants": ["rāfidi", "rafidi"]
+        }
+      ]
+    },
+    "tawhidTerms": {
+      "description": "Tawhid-kategorier",
+      "terms": [
+        {
+          "canonical": "tawhid ar-rububiyyah",
+          "variants": ["tawhīd ar-rububiyyah"]
+        },
+        {
+          "canonical": "tawhid al-uluhiyyah",
+          "variants": ["tawhīd al-uluhiyyah", "Tawhīd al-uluhiyyah"]
+        },
+        {
+          "canonical": "tawhid as-asma' was-sifat",
+          "variants": ["tawhīd as-asmā' was-sifāt'", "tawhīd as-asmā' was-sifāt"]
+        }
+      ]
+    },
+    "miswakAndOther": {
+      "description": "Ovriga termer",
+      "terms": [
+        {
+          "canonical": "miswak",
+          "variants": ["miswāk", "miswak"]
+        }
+      ]
+    }
+  }
+}

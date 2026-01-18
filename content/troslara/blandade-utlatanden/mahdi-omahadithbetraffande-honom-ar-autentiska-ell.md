@@ -21,7 +21,7 @@ description: 'Fråga: Är ahādīth som berättar om Mahdi autentiska? Ahādīth
 2. Svaga *ahādīth[^1]*.
 3. *Hasan ahādīth[^1]*, men som med anledning av deras antal når nivån för *sahīh* och då anses vara *sahīh li-ghairihi*.
 
-Några lärde säger att det finns *ahādīth[^1]* som [även] ensamma är sahīh. Detta är en fjärde kategori.
+Några lärde säger att det finns *ahādīth[^1]* som [även] ensamma är *sahīh*. Detta är en fjärde kategori.
 
 Men detta är inte den Mahdi som de påstår finnas i en underjordiskt grav i Irak. Det finns ingen grund för detta utan det är enbart en villfarelse utan fakta.
 

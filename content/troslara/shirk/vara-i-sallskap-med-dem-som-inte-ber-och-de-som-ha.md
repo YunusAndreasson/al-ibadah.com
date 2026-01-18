@@ -17,7 +17,7 @@ description: 'Fråga: Får en muslim umgås med en person som oftast inte ber? S
 
 **Svar:** Det är inte tillåtet att umgås med den som vid vissa tillfällen överger bönen. Det han måste göra är att ge honom råd och kritisera honom för hans onda handlingar. Ångrar han sig är allt frid och fröjd, men om han inte gör det bör man undvika honom och inte ha honom som vän. Han bör hatas för Allāhs skull tills han ångrar dessa onda handlingar. Att överge bönen är en handling som innebär stor otro. Profeten – över honom vare Allāhs frid och välsignelser – säger ju: ”*Avtalet som skiljer oss från dem är bönen och den som lämnar den har inte trott*.” [*at-Tirmithi* 2621, *an-Nasā'i* 464 och *Ahmad* 5:346, 355]
 
-Muslim återger i sin *Sahīh* från Jabir att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Det som står mellan en man och otro samt mångguderi är utelämnandet bönen*.” [*Muslim* 82]
+*Muslim* återger i sin *Sahīh* från Jabir att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Det som står mellan en man och otro samt mångguderi är utelämnandet bönen*.” [*Muslim* 82]
 
 Därför måste varje muslim älska för Allāhs skull och hata för Allāhs skull samt visa vänskap för Allāhs skull och visa fiendskap för Allāhs skull. Detta grundas på Allāhs den Upphöjdes ord:
 

@@ -13,7 +13,7 @@ description: 'Fråga: Hur såg salaf – må Allāh vara nöjda med dem – på 
  sig inom de sex riktningarna [upp, ned, vä...'
 ---
 
-**Fråga:** Hur såg *salaf[^1]* – må Allāh vara nöjda med dem – på Allāh den Upphöjdes ‘uluww [höghet]? Vilket är utlåtandet om de som säger att Han inte befinner sig inom de sex riktningarna [upp, ned, vänster, höger, bak och fram] och att Han finns i de troendes hjärtan?
+**Fråga:** Hur såg *salaf[^1]* – må Allāh vara nöjda med dem – på Allāh den Upphöjdes ‘*uluww* [höghet]? Vilket är utlåtandet om de som säger att Han inte befinner sig inom de sex riktningarna [upp, ned, vänster, höger, bak och fram] och att Han finns i de troendes hjärtan?
 
 **Svar:** *Salaf[^1]*s tro är att Allāh den Upphöjde är ovan Hans skapelse. Allāh den Upphöjde har sagt:
 
@@ -54,7 +54,7 @@ Med detta som grund: När man studerar Allāhs den Upphöjdes *´uluww* över Ha
 
 Belägg likt dessa som härstammar från Allāhs den Upphöjdes skrift och Hans sändebuds *sunnah[^2]* är bevis för att Allāh den Upphöjde är ovan Sin skapelse. Det är dock inte möjligt att räkna upp alla bevis här då de är många.
 
-De rättfärdige *salaf[^1]* – må Allāh vara nöjda med dem – är eniga om vad som fordras genom dessa texter. De bekräftar att Allāh är upphöjd och att Han är ovan Sin skapelse. Likaså är de helt eniga om att bekräfta att upphöjdheten avser Honom och att Hans egenskaper är upphöjda. Allāh den Upphöjde säger:
+De rättfärdiga *salaf[^1]* – må Allāh vara nöjda med dem – är eniga om vad som fordras genom dessa texter. De bekräftar att Allāh är upphöjd och att Han är ovan Sin skapelse. Likaså är de helt eniga om att bekräfta att upphöjdheten avser Honom och att Hans egenskaper är upphöjda. Allāh den Upphöjde säger:
 
 > ”Enbart de högsta egenskaperna kan tillskrivas Honom i himlarna och på jorden. Han är den Allsmäktige, den Vise.” [Koranen 30:27]
 >
@@ -83,11 +83,11 @@ Det sägs: Det råder inga tvivel om att höghet är en fulländad egenskap och 
 
 Bevisen genom det naturliga tillstånd som människan skapats i
 
-Den som åkallar[^4] Allāh […] riktar inte sitt hjärta mot någon annan plats än himlen. Därför finner vi att denne höjer händerna mot skyn. Detta är något omedvetet i dennes fitrah[^7].
+Den som åkallar[^4] Allāh […] riktar inte sitt hjärta mot någon annan plats än himlen. Därför finner vi att denne höjer händerna mot skyn. Detta är något omedvetet i dennes *fitrah*[^7].
 
 al-Hamdani sade till Abul-Ma'ali al-Juwaini: ”*Den som är vettig säger aldrig: 'Herre!' utan att denne i sitt hjärta finner att denne ber mot vad som finns ovan*.” Här började al-Juwaini slå sin hand mot huvudet och han sade: ”*al-Hamdani har gjort bort mig! al-Hamdani har gjort bort mig*.” På detta sätt har det berättats från honom och oavsett om det är autentiskt eller inte är detta något som alla känner till.
 
-I Sahīh Muslim återges i en *hadīth[^5]* från Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – berättade om en man som sträckte sin händer mot skyn och sade: ”*Herre!* …” [fram till och med hadithens slut]. [*Muslim* 436]
+I *Sahīh* *Muslim* återges i en *hadīth[^5]* från Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – berättade om en man som sträckte sin händer mot skyn och sade: ”*Herre!* …” [fram till och med hadithens slut]. [*Muslim* 436]
 
 Likaså finner du att ens hjärta är riktat mot himlen när man ber är; speciellt när man nedfaller och säger: ”Härlig är min Herre, den Högste.” Man vet ju att föremålet för dyrkan är ovan himlarna.
 
@@ -99,7 +99,7 @@ Men samtidigt bekräftar vi att Allāh den Upphöjde omfattar allt och att ingen
 
 Likaså säger vi att en troende inte får avvika från vad Koranen och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah[^2]* bevisar till förmån för någon persons åsikt, vem det än kan tänkas vara. Detta är något vi har sagt i [tillsammans med] bevisen som vi nämnde i början av svaret.
 
-Beträffande vad de säger, att Allāh den Upphöjde är i den troendes hjärta, finns det inte några bevis för vare sig i Allāhs skrift, Hans sändebuds *sunnah[^2]* eller uttalanden från de rättfärdige *salaf[^1]* [enligt vad vi känner till]. Detta är fullständigt felaktigt, för om det som avses är att Allāh den Upphöjde finns i de troendes hjärtan är det felaktigt. Detta beror på att Allāh den Upphöjde är större och mäktigare än så. Det är häpnadsväckande att någon flyr från tanken att Allāh den Upphöjde är ovan himlarna [vilket bevisas genom Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]*], till förmån för något som det inte finns några bevis för, att Allāh finns i den troendes hjärta.
+Beträffande vad de säger, att Allāh den Upphöjde är i den troendes hjärta, finns det inte några bevis för vare sig i Allāhs skrift, Hans sändebuds *sunnah[^2]* eller uttalanden från de rättfärdiga *salaf[^1]* [enligt vad vi känner till]. Detta är fullständigt felaktigt, för om det som avses är att Allāh den Upphöjde finns i de troendes hjärtan är det felaktigt. Detta beror på att Allāh den Upphöjde är större och mäktigare än så. Det är häpnadsväckande att någon flyr från tanken att Allāh den Upphöjde är ovan himlarna [vilket bevisas genom Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]*], till förmån för något som det inte finns några bevis för, att Allāh finns i den troendes hjärta.
 
 Men om det som avses med att Allāh den Upphöjde är i den troendes hjärta är att denne alltid åminns sin Herre i hjärtat, då är det sant. Man ska emellertid säga det på ett sätt som visar den sanna innebörden. Ett exempel på detta är om man säger: ”Åminnelse av Allāh finns alltid i den troende tjänarens hjärta.” Men det som är uppenbart när någon säger detta är att denne vill ersätta tron på att Allāh den Upphöjde är ovan himlarna med denna falska tro. Men som vi har sagt är denna innebörd är felaktigt.
 
