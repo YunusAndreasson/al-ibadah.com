@@ -46,6 +46,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.",
     category: "coreTerms",
   },
+  "al-Fatihah": {
+    canonical: "al-Fatihah",
+    variants: ["al-Fātihah","al-Fatihah","Fātihah","Fatihah"],
+    definition: "Koranens första och mest lästa kapitel.",
+    category: "coreTerms",
+  },
   "ahlus-sunnah": {
     canonical: "ahlus-sunnah",
     variants: ["ahlus-sunnah","Ahlus-sunnah"],
@@ -136,6 +142,18 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "När man först gör ´*umrah* och lämnar *ihrām* för att därpå träda in i *ihrām* för vallfärden.",
     category: "hajjTerms",
   },
+  "hajjul-ifrad": {
+    canonical: "hajjul-ifrad",
+    variants: ["hajjul-ifrad","hajjul-ifrād"],
+    definition: "Vallfärd där man endast utför hajj utan 'umrah.",
+    category: "hajjTerms",
+  },
+  "hawl": {
+    canonical: "hawl",
+    variants: ["hawl"],
+    definition: "Ett månår (354 dagar) som måste passera för att allmosa ska bli obligatorisk.",
+    category: "zakatTerms",
+  },
   "i'tikaf": {
     canonical: "i'tikaf",
     variants: ["i'tikāf","i'tikaf","itikāf"],
@@ -166,6 +184,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.",
     category: "prayerTerms",
   },
+  "istikharah": {
+    canonical: "istikharah",
+    variants: ["istikharah","istikhārah"],
+    definition: "Vägledningsbön som bes när man söker Allahs vägledning i ett beslut.",
+    category: "prayerTerms",
+  },
   "janabah": {
     canonical: "janabah",
     variants: ["janābah","janabah"],
@@ -189,6 +213,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     variants: ["mīqāt","miqat"],
     definition: "Platsen där pilgrimen träder in i *ihrām*.",
     category: "hajjTerms",
+  },
+  "Mina": {
+    canonical: "Mina",
+    variants: ["Minā","Mina"],
+    definition: "Plats nära Mecka där pilgrimer stannar under vallfärden och kastar stenar mot pelarna.",
+    category: "hajjLocations",
   },
   "miswak": {
     canonical: "miswak",
@@ -237,6 +267,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     variants: ["Muzdalifah"],
     definition: "En plats mellan *Mina* och *Arafat* där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.",
     category: "hajjLocations",
+  },
+  "nisab": {
+    canonical: "nisab",
+    variants: ["nisāb","nisab"],
+    definition: "Minsta förmögenhetsnivå som gör allmosa obligatorisk.",
+    category: "zakatTerms",
   },
   "qiblah": {
     canonical: "qiblah",
@@ -309,6 +345,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     variants: ["salaf","Salaf"],
     definition: "De tre första generationerna i islam.",
     category: "coreTerms",
+  },
+  "salam": {
+    canonical: "salam",
+    variants: ["salām","salam"],
+    definition: "Fredshälsning.",
+    category: "phrases",
   },
   "sha'ban": {
     canonical: "sha'ban",
