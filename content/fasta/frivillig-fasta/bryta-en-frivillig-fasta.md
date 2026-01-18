@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 338 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+  - Frivillig fasta
 original_id: 483
 description: 'Fråga: Får den fastande bryta en frivillig fasta när denne vill? Svar: Ja,
  denne får göra så. Det är dock att föredra om fastan fullbordas utom om det finns

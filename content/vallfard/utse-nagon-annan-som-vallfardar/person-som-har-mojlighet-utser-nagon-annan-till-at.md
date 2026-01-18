@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 166 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Utse någon annan som vallfärdar
+  - Vallfärdsombud
 original_id: 793
 description: 'Fråga: Om den som är på väg till platsen fastnar i trafiken fram till
  eftermiddagsbönen, är det tillåtet att utse någon till att kasta stenarna på pelarna? Svar: Den

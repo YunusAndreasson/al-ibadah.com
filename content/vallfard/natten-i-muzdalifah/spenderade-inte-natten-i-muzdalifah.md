@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 221 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Natten i Muzdalifah
+  - Muzdalifah-natten
 original_id: 841
 description: 'Fråga: Vilket är utlåtandet om en pilgrim som inte spenderade natten
  före ‘eid [den tionde thul-hijjah ]? Svar: Det är obligatoriskt att tillbringa

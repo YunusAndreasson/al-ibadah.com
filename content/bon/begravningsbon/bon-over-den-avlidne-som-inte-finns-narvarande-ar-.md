@@ -1,16 +1,15 @@
 ---
-title: Bön över den avlidne som inte finns närvarande är inte något specifikt för
- sändebudet
-author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
+title: Begravningsbön över frånvarande person
+author: al-Ladjnah ad-Dā'imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
- Libanon: Maktaba Dar us-Salam. 66 s. ISBN saknas'
+  Libanon: Maktaba Dar us-Salam. 66 s. ISBN saknas'
 categories:
   - Bön (Salāh)
   - Begravningsbön
 original_id: 390
 description: 'Fråga: Får vi be begravningsbön för någon som finns på en annan plats
- på samma sätt som profeten – över honom vare Allāhs frid och välsignelser – gjorde
- med hans älskade an-Najashi? Eller är det n...'
+  på samma sätt som profeten – över honom vare Allāhs frid och välsignelser – gjorde
+  med hans älskade an-Najashi? Eller är det n...'
 ---
 
 **Fråga:** Får vi be begravningsbön för någon som finns på en annan plats på samma sätt som profeten – över honom vare Allāhs frid och välsignelser – gjorde med hans älskade an-Najashi? Eller är det något som gäller enbart honom?

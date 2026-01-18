@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 252 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Vad som gör eller inte gör bönen ogiltig
+  - Bönens giltighet
 original_id: 261
 description: 'Fråga: Om en församling bad mot en annan riktning än qiblah och de
  inte kände till den exakta riktningen, behöver de upprepa bönen då? Svar: Om

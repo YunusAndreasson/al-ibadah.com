@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 256 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Bryta och påbörja fastan
+  - Fastebrytare
 original_id: 410
 description: 'Fråga: Vilket är utlåtandet om fastan för någon som åt eller drack
  samtidigt som denne var osäker på om tiden för gryningsbönen hade börjat eller om

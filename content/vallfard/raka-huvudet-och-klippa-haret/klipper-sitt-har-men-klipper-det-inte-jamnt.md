@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 207 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Raka huvudet och klippa håret
+  - Hårklippning
 original_id: 830
 description: 'Fråga: Om en pilgrim under vallfärden eller ‘umrah endast klipper
  sitt hår på båda sidorna och sedan avlägsnar sin ihrām, utan att klippa håret

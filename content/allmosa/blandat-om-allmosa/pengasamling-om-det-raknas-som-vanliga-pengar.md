@@ -1,11 +1,11 @@
 ---
-title: Pengasamling – om det räknas som vanliga pengar
+title: Myntsamling och allmosa
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 197 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
-  - Blandat om allmosa
+  - Övrigt
 original_id: 644
 description: 'Fråga: Det finns en man som har en hobby i att han samlar mynt, arabiska
  och utländska. Det är enbart en hobby. Här finns pengar som är värdefulla men även

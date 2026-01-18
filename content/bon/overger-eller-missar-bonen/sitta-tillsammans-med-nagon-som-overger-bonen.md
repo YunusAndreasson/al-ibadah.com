@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 373 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1531
 description: 'Fråga. Får man sitta tillsammans med någon som inte ber? Svar: Den
  som avsiktligen överger bönen och förnekar att den är en skyldighet är en icke-troende

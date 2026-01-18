@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 348 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 310
 description: 'Fråga: Det finns några som kommer sent till bönen och bildar en andra
  församling då de missat bönen med den vanliga imamen. Vilket är utlåtandet om detta? Svar: Om

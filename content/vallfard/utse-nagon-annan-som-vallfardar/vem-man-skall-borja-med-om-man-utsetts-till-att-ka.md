@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 168 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Utse någon annan som vallfärdar
+  - Vallfärdsombud
 original_id: 796
 description: 'Fråga: Om en man representerar sin far och mor för att kasta stenarna
  på pelarna [vilket han även själv ska göra], krävs det då att han börjar i någon

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 152 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Kvinna med månadsblödning eller blödning efter graviditeten
+  - Månadsblödning och efterblödning
 original_id: 1344
 description: 'Fråga: Vilket är utlåtandet om en kvinna som får sin månadsblödning
  under vallfärden? Är denna vallfärd tillräcklig för henne? Svar: Om en kvinna

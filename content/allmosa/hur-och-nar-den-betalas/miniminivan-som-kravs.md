@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 162 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
-  - Hur och när den betalas
+  - Betalningstid
 original_id: 609
 description: 'Fråga: Den miniminivå som krävs för att man ska betala allmosa för
  silver är 200 dirham, vilket är likvärdigt med 57 riyal [silvermynt]. Lägstanivån

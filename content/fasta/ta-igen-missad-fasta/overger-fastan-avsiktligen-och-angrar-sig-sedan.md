@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 312 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Ta igen missad fasta
+  - Ikappfasta
 original_id: 466
 description: 'Fråga: Vilket är utlåtandet om den muslim som har låtit flera ramadan
  passera under ett antal år och som inte har fastat även om denne har utför resten

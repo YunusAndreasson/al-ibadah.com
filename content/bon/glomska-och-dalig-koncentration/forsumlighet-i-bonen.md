@@ -4,7 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: al-Lajnah al-Dā’imah li’l-Buhāth al-‘Ilmiyyah wa’l-Iftā’, 7/40
 categories:
   - Bön (Salāh)
-  - Glömska och dålig koncentration
+  - Koncentration i bönen
 original_id: 535
 description: 'Fråga: Vilket är utlåtandet om försumlighet i bönen när ens tankar
  oavsiktligen börjar vandra iväg? Svar: All lovprisan tillhör Allāh. När tiden

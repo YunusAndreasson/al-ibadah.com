@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 381 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1148
 description: 'Fråga: Måste den som har förlorat medvetandet praktisera den islamiska
  lagens skyldigheter? Svar: Allāh den Upphöjde har gjort dyrkan till en skyldighet

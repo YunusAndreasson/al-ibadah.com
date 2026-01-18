@@ -1,11 +1,11 @@
 ---
-title: Frivilliga fastor tar man inte igen
+title: Frivillig fasta behöver inte tas igen
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 339 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Ta igen missad fasta
+  - Ikappfasta
 original_id: 1420
 description: 'Fråga: Jag fastar tre dagar varje månad men under en månad blev jag
  sjuk så jag fastade inte då. Är jag skyldig att ta igen denna fasta eller gottgöra

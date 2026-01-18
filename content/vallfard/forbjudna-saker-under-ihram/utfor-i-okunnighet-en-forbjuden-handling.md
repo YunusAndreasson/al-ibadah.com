@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Vallfärd (Hajj)
-  - Förbjudna saker under ihrām
+  - Ihrām-förbud
 original_id: 1552
 description: 'Fråga: Vad gäller den som, ovetandes eller på grund av glömska, utför
  en av de nio förbjudna handlingarna under ihrām? Svar: Den som glömmer och

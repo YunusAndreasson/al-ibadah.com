@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 287 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Tider då det är förbjudet att be
+  - Förbjudna bönetider
 original_id: 1506
 description: 'Fråga: Det talas mycket om hälsningsbönen till moskén. Vissa säger
  att man inte ska göra den vid de tidpunkter då det är förbjudet att be, som när

@@ -6,7 +6,7 @@ author: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
 source: Muḥammad bin Sālih al-´Uthaymīn
 categories:
   - Vallfärd (Hajj)
-  - Vallfärda för någon annan
+  - Ställföreträdande vallfärd
 original_id: 723
 description: 'Fråga: En kvinna vill utse en man till att vallfärda åt henne. Detta med
  anledning av hans kunskap och att hon litar på att han kommer att utföra vallfärdsriterna

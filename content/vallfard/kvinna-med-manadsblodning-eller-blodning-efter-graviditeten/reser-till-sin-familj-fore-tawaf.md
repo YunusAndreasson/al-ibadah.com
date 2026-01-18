@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 156 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Kvinna med månadsblödning eller blödning efter graviditeten
+  - Månadsblödning och efterblödning
 original_id: 782
 description: 'Fråga: Om en kvinna får sin månadsblödning innan hon utför tawāful-ifādhah
 , får hon då resa med sin familj och senare återvända för tawāful-ifādhah? Eller

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 127 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Ihrām och avsikten inför vallfärden
+  - Ihrām och avsikt
 original_id: 764
 description: 'Fråga: Är det bättre för en muhrim att täcka de båda axlarna eller
  bör han avtäcka en av dem under ihrām? Svar: Det som är sunnah för en muhrim är

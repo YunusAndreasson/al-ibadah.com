@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 1395
 description: 'Fråga: Om den fastande drack när denne hade hört böneutropet för gryningsbönen,
  är fastan då korrekt? Svar: Om den fastande drack efter att ha hört böneutropet

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 114 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Ihrām och avsikten inför vallfärden
+  - Ihrām och avsikt
 original_id: 1335
 description: 'Fråga: Är det tillåtet att uttala avsikten för att utföra ''umrah,
  vallfärden, tawāf och sa''ī vid Ka''bah? Svar: Att avsikten ska uttalas

@@ -5,7 +5,7 @@ source: Majmū’ Fatāwa a wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh al
  al-‘Azīz ibn ‘Abd-Allāh ibn Bāz, vol. 8, s. 421
 categories:
   - Troslära (´Aqīdah)
-  - Allāhs förutbestämmelse
+  - Förutbestämmelsen
 original_id: 538
 description: 'Fråga: Ibland när folk besöker en sjukling säger de till denne: ”Du
  förtjänar inte detta”. Eller när de hör talas om att någon är sjuk säger de: ”Vid

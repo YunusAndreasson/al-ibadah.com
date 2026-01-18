@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa Manār al-Islaām – volym 1, sida 166, fråga 136
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 579
 description: 'Fråga: Under bönerna som består av tre eller fyra bönecykler [middagsbönen,
  eftermiddagsbönen, kvällsbönen och nattbönen[^1]] kan man läsa en sura efter al-Fātihah

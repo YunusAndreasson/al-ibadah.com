@@ -4,7 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Lajnah al-Dā’imah, volym 5, sida 264.
 categories:
   - Renhet (Tahārah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 505
 description: 'Fråga: Bryter jag min tvagning om jag byter kläder? Är det någon skillnad
  i detta utlåtande mellan män och kvinnor? Svar: All lovprisan tillhör Allāh.

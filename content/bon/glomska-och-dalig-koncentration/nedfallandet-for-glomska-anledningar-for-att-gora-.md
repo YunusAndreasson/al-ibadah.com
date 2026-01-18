@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 501 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Glömska och dålig koncentration
+  - Koncentration i bönen
 original_id: 971
 description: 'Fråga: Vad finns det för anledningar till att man gör nedfallandet
  för glömska[^1]? Svar: Anledningarna till att man gör nedfallandet för glömska[^1]

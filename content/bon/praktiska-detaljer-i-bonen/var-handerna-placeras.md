@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 258 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 265
 description: 'Fråga: Brukade profeten lägga den högra handen på den vänstra? Svar: Det
  är sunnah att lägga den högra handen över den vänstra underarmen, handleden eller

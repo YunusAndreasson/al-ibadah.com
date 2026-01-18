@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 58 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Möjlighet att vallfärda
+  - Vallfärdsplikt
 original_id: 716
 description: 'Fråga: Under tre år har jag bett min arbetsgivare om att få utföra
  den obligatoriska vallfärden. Då jobbet har behövt mig har mina förfrågningar dock

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 211 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Raka huvudet och klippa håret
+  - Hårklippning
 original_id: 1356
 description: 'Fråga: Måste man raka huvudet eller klippa håret under det stora avlägsnandet
  av ihrām, när man har klippt eller rakat håret för det mindre avlägsnandet av ihrām [som

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 272 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Glömska och dålig koncentration
+  - Koncentration i bönen
 original_id: 273
 description: 'Fråga: Om imamen gör taslīm och jag tvekar om huruvida jag har reciterat tahiyyat. Svar: Tvivlar
  man efter bönen ska man inte lägga någon vikt vid det. I stället bör du hålla

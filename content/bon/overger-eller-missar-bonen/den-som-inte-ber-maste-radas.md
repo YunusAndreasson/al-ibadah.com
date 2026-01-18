@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1533
 description: 'Fråga: En gång låg jag på sjukhus under tre dagar tillsammans med två
  personer. Under denna tid brukade jag be, men de bad inte trots att de var muslimer

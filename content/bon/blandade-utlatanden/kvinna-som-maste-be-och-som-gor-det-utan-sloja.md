@@ -5,7 +5,7 @@ source: 'Fatāwa al-Marah Muhammed Knut Bernström (1421), Koranens budskap . Si
  Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 577
 description: 'Fråga: Om en kvinna inte bär slöja och behöver be, eller om hennes
  slöja inte är enligt den islamiska lagen [delar av hennes hår syns] – får hon be

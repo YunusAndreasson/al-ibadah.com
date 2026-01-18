@@ -4,7 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwā al-Ladjnah al-Dā’imah, 13/57
 categories:
   - Renhet (Tahārah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 534
 description: 'Fråga: Vilket är utlåtandet om den som säljer olika sorters tobak?
  Jag röker och när jag hör böneutropet, då går jag till moskén. Måste jag upprepa

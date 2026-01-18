@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 421 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 338
 description: 'Fråga: Får en ensam resenär leda de som inte reser i bönen? Hur gör
  de när han förkortar och slår ihop sin bön? Svar: Om resenären är kompetent

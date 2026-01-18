@@ -5,7 +5,7 @@ author: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
 source: Ibn ´Abdullah Ibn Baz
 categories:
   - Vallfärd (Hajj)
-  - Vallfärda för någon annan
+  - Ställföreträdande vallfärd
 original_id: 729
 description: 'Fråga: Min mor avled då jag var mycket ung och jag har hyrt en pålitlig
  person till att vallfärda för hennes räkning. Även min far avled då jag var mycket

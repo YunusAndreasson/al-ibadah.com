@@ -1,12 +1,12 @@
 ---
-title: Sköljer munnen och en del vatten kommer ned i halsen
+title: Vatten i halsen vid munsköljning
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 260 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 416
 description: 'Fråga: Om den fastande sköljer munnen eller rengör näsan med vatten
  och lite av vattnet oavsiktligen kommer ned i halsen, ogiltigör det då fastan? Svar: Om

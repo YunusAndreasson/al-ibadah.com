@@ -4,7 +4,7 @@ author: Ibn ´Abdullāh Ibn Bāz
 source: al-Hisbah magazin – nummer 39, sida 15
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 517
 description: 'Fråga: Om en kvinna råder sin försummande man att han ska be sina
  böner i moskén eller om hon uttrycker sin ilska över att denne inte gör det – kommer

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 70 s. ISBN saknas'
 categories:
   - Renhet (Tahārah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 160
 description: 'Fråga: En man var ute på en lång resa. Han blev rituellt oren [ junub
  ] på vägen och han hade inget vatten som han kunde göra ghusl med. Kan han då

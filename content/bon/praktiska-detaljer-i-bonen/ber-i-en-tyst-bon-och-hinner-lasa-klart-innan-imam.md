@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 534 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 987
 description: 'Fråga: Om en troende i en tyst bön läser klart sura al-Fātihah och
  en annan sura innan imamen gör bugningen[^1], bör denne då vara tyst? Svar: Den

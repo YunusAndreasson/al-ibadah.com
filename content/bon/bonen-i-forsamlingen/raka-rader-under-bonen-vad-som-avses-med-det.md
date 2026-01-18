@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 460 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 947
 description: 'Fråga: Vad är föreskrivet om att göra raderna raka? Är de föreskrivet
  för dem som ber att stå ankel mot ankel? Ge ett utlåtande och må Allāh belöna er. Svar: Den

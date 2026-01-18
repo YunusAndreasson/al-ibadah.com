@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 194 s. ISBN 9960-892-66-2'
 categories:
   - Troslära (´Aqīdah)
-  - Allāhs förutbestämmelse
+  - Förutbestämmelsen
 original_id: 1187
 description: 'Fråga: Vi ber er att förklara profetens – över honom vare Allāhs frid
  och välsignelser – ord: ” Det finns varken ‘Adwa, tiyarah, hamah eller safar .”

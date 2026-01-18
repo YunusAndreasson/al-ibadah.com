@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 297 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 1571
 description: 'Fråga: En man gick in i moskén för att be sunnah -bönen innan middagsbönen.
  Han gjorde takbīr men sedan började den obligatoriska bönen. Bör han avbryta bönen

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 241 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 252
 description: 'Fråga: Om jag missade en bön och jag vill be den tillsammans med en
  annan, exempelvis ber jag middagsbönen tillsammans med eftermiddagsbönen, vilken

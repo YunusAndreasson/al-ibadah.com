@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 195 s. ISBN saknas'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 90
 description: 'Fråga: Jag har läst en hadīth från den hedervärde följeslagaren Abū
  Hurairah i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”Vem

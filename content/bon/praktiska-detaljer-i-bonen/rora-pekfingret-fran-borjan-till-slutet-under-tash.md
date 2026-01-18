@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 484 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 960
 description: 'Fråga: Vilket är utlåtandet om att röra pekfingret under tashahhud från
  början till slutet? Svar: Pekfingret bör endast röras när man åkallar. Inte

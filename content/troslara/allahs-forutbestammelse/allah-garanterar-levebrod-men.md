@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 212 s. ISBN saknas'
 categories:
   - Troslära (´Aqīdah)
-  - Allāhs förutbestämmelse
+  - Förutbestämmelsen
 original_id: 98
 description: 'Fråga: Jag har hört att Allāh den Upphöjde garanterar levebröd till
  den som fruktar Honom och håller sig till den korrekta vägledningen. Denne kommer

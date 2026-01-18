@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 163 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 1475
 description: 'Fråga: Jag stod upp för att be en obligatorisk bön ensam och då kom
  någon och tog mig som imam. Vilket är utlåtandet om att ändra sin avsikt från att

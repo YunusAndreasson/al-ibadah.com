@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 87 s. ISBN saknas'
 categories:
   - Renhet (Tahārah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 164
 description: 'Fråga: Jag hade intim samvaro med min fru. Sedan gick jag upp för att
  göra ghusl och be gryningsbönen. Får jag fortsätta att sova på samma madrass som

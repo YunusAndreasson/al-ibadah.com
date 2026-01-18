@@ -1,11 +1,11 @@
 ---
-title: Dagar som det är förbjudet att fasta
+title: Förbjudna fastedagar
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 340 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+  - Frivillig fasta
 original_id: 1421
 description: 'Fråga: Vilka är de dagar som det är ogillat att fasta? Svar: De
  dagar som det är förbjudet att fasta är fredagar. Det är inte tillåtet att välja

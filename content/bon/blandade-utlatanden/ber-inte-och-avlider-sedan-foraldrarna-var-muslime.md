@@ -4,7 +4,7 @@ author: Ibn ´Abdullāh Ibn Bāz
 source: Fatāwa al-Marah
 categories:
   - Bön (Salāh)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 574
 description: 'Fråga: Vad händer med en person, även om hans föräldrar var muslimer,
  som dör och inte bad? Skall hans kropp tvättas och ska en begravningsceremoni

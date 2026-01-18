@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 226 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Natten i Muzdalifah
+  - Muzdalifah-natten
 original_id: 843
 description: 'Fråga: Vilket är utlåtandet om en pilgrim inte kan finna en plats i
  Muzdalifah för att stanna där natten före ‘eid? Svar: Har någon inte möjlighet

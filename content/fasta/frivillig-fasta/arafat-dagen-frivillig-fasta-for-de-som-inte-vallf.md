@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: Majmoo’ Fatāwa Ibn ‘Uthaymīn (20/404)
 categories:
   - Fasta (Sawm)
-  - Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+  - Frivillig fasta
 original_id: 1611
 description: 'Fråga: Vilket är utlåtandet i fråga om att de som inte vallfärdar fastar
  arafat-dagen? Svar: Att de som inte vallfärdar fastar arafat-dagen är en bekräftad

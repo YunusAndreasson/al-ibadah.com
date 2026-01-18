@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Vallfärd (Hajj)
-  - Hindras i sin vallfärd eller ´umrah
+  - Vallfärdshinder
 original_id: 1559
 description: 'Fråga: Vilket är utlåtandet om den som gick in i ihrām för vallfärden
  eller ‘umrah vid mīqāt och som sedan hindrades från att utföra tawāf och sa’ī

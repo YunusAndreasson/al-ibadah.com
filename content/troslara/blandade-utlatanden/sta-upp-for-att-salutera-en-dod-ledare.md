@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 64 s. ISBN saknas'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 49
 description: 'Fråga: När en ledare eller president dör, då brukar somliga regeringsrepresentanter
  stå upp och sörja den avlidne, och när ett statsöverhuvud i arabländerna dör, då

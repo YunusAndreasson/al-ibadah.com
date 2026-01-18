@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 326 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 306
 description: 'Fråga: När en man leder två eller flera pojkar som ännu inte har blivit
  sju år gamla, var bör han då placera dem? Svar: För den som är över sju år är

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 260 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Vad som gör eller inte gör bönen ogiltig
+  - Bönens giltighet
 original_id: 267
 description: 'Fråga: Om man gäspar under bönen, ska man då lägga höger hand över
  munnen och söka skydd från djävulen den utstötte? Svar: Den som gäspar under

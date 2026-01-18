@@ -4,7 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa Ramadan – Volym 2, sida 544, fatwa 525
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 905
 description: 'Fråga: En imam i en moské sade till mig att en hårtvätt under ramadan
  bryter fastan. Anledning till detta var att vatten rinner in genom hårets rötter.

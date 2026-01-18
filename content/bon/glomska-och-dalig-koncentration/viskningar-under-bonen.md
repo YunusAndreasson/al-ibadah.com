@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 205 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Glömska och dålig koncentration
+  - Koncentration i bönen
 original_id: 221
 description: 'Fråga: Jag är en kvinna som utför den dyrkan som Allāh har föreskrivit
  för mig. Jag är dock mycket glömsk i bönen. När jag ber tänker jag på det som har

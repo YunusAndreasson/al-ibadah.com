@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 432
 description: 'Fråga: Om en man kysser sin fru när han fastar eller om han ser en
  erotisk film och en del prostatavätska kommer ut, behöver denne då ta igen

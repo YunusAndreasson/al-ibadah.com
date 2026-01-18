@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 248 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 406
 description: 'Fråga: Vilket är utlåtandet om att tala med en kvinna eller att röra
  hennes hand dagtid under ramadan om man fastar? Detta i vetskap om att detta inträffar

@@ -1,16 +1,15 @@
 ---
-title: Smycken som har varit i en persons ägo med som denne person inte betalt allmosa
- för
+title: Smycken utan betald allmosa
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
- Libanon: Maktaba Dar us-Salam. 179 s. ISBN saknas'
+  Libanon: Maktaba Dar us-Salam. 179 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
   - Allmosa för smycken
 original_id: 621
 description: 'Fråga: Det finns en kvinna som har lite guld som når nivån då allmosa
- krävs. Men hon visste inte att det är obligatoriskt att betala allmosa för det förrän
- hon hade ägt det under fem år. Därför vi...'
+  krävs. Men hon visste inte att det är obligatoriskt att betala allmosa för det förrän
+  hon hade ägt det under fem år. Därför vi...'
 ---
 
 **Fråga:** Det finns en kvinna som har lite guld som når nivån då allmosa krävs. Men hon visste inte att det är obligatoriskt att betala allmosa för det förrän hon hade ägt det under fem år. Därför vill hon betala allmosa men hon har inget annat än detta guld. Så vad bör hon göra för att betala allmosa för dessa fem år? Bör hon sälja en del av det eller vad bör hon göra? Hur gör hon under de år som kommer? Detta i vetskap om att om hon skulle vilja betala allmosa vid en tidpunkt så skulle hon inte ha möjlighet att göra detta utom genom att sälja en del av det varje år då hon inte har någon inkomst.

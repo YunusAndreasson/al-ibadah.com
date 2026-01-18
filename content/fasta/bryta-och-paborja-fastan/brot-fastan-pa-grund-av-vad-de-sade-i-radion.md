@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 257 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Bryta och påbörja fastan
+  - Fastebrytare
 original_id: 411
 description: 'Fråga: Under en dag i ramadan förkunnande programledaren i radio att
  böneutropet för kvällsbönen skulle komma om två minuter. Samtidigt ropade böneutroparen

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 139 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Vad som gör eller inte gör bönen ogiltig
+  - Bönens giltighet
 original_id: 185
 description: 'Fråga: Vilket är utlåtandet om den som ber en obligatorisk bön bakom
  någon som ber en frivillig? Svar: Utlåtandet är att detta är korrekt. Medan

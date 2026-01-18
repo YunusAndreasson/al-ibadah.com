@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 338 s. ISBN 9960-892-66-2'
 categories:
   - Renhet (Tahārah)
-  - Stryka över sockar
+  - Mash över sockar
 original_id: 1130
 description: 'Fråga: Vilket är utlåtandet om att stryka över al-jabirah? Svar: Först
  och främst måste vi definiera vad som avses med denna term. al-Jabirah är i grund

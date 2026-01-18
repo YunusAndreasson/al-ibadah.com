@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 73 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Vallfärda för någon annan
+  - Ställföreträdande vallfärd
 original_id: 730
 description: 'Fråga: Bör jag vallfärda för mina två föräldrar som avlidit utan att
  ha gjort den obligatoriska vallfärden. Detta med anledning av deras fattigdom. Vad

@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 258 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Utse någon annan som vallfärdar
+  - Vallfärdsombud
 original_id: 860
 description: 'Fråga: Både min mor och mina båda systrar utsåg mig till att kasta
  stenarna på pelarna åt dem och anledningen var att de var rädda för trängseln, är

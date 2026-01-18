@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 280 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 435
 description: 'Fråga: En man har intim samvaro med sin fru dagtid under fastan och
  han tvingade henne till det. De har inte möjlighet att frisläppa en slav eller fasta

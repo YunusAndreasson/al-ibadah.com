@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  2. Libanon: Makbtaba Dar us-Salam. 560 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - '''Eid-bönerna'
+  - Eid-bönerna
 original_id: 1239
 description: 'Fråga: Vilket är utlåtandet om ‘eid -bönen? Svar: Jag anser att ‘eid
  -bönen är en skyldighet för varje individ [ fardh ''ain ] och att män inte får utelämna

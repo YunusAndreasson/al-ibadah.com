@@ -1,6 +1,5 @@
 ---
-title: Hittade inte vatten efter den stora rituella orenheten, gjorde tayammum och
- bad
+title: Tayammum vid vattenbrist
 author: Ibn ´Abdur-Rahman al-Jibrin
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 76 s. ISBN saknas'

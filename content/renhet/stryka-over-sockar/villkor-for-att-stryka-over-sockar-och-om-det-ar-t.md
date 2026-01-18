@@ -1,11 +1,11 @@
 ---
-title: Villkor för att stryka över sockar och om det är tillåtet att be i skor
+title: Villkor för mash och bön i skor
 author: n/a
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. x s. ISBN saknas'
 categories:
   - Renhet (Tahārah)
-  - Stryka över sockar
+  - Mash över sockar
 original_id: 1443
 description: 'Fråga: Är strykandet över lädersockar jämförbart med att stryka över
  bomulls-, ylle-, eller nylonsockar? Vad finns det för villkor för att det ska

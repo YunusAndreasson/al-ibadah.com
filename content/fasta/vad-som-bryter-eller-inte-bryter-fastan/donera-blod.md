@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 275 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 430
 description: 'Fråga: Är det tillåtet att donera blod dagtid under ramadan eller bryter
  det fastan? Svar: Om någon donerar blod och man tar en stor mängd, då ogiltigör

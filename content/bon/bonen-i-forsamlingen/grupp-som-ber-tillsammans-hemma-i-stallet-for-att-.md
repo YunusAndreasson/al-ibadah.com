@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  2. Libanon: Makbtaba Dar us-Salam. 528 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 1233
 description: 'Fråga: Ett antal personer bor på en plats. Får de då be i församling
  där [i hemmet] eller måste de gå till moskén? Svar: De måste be i moskén. Den

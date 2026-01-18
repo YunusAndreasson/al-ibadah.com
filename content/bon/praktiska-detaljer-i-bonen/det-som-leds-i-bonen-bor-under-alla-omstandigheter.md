@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 206 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 1490
 description: 'Fråga: Bör man recitera tillsammans med imamen eller lyssna på hans
  recitation? Svar: Den som leds i bönen måste alltid recitera al-Fātihah – både

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 59 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Möjlighet att vallfärda
+  - Vallfärdsplikt
 original_id: 717
 description: 'Fråga: Får en polisofficer vallfärda utan myndigheternas tillstånd? Svar: Det
  finns absolut ingen vallfärd för en anställd eller polisofficer som inte får tillstånd

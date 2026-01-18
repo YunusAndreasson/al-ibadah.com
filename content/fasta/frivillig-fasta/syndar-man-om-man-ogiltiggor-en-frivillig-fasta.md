@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 680 s. ISBN 9960-892-66-2'
 categories:
   - Fasta (Sawm)
-  - Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+  - Frivillig fasta
 original_id: 1064
 description: 'Fråga: Syndar man om man ogiltigör en frivilliga fasta? Svar: Om
  man ogiltigör en frivillig fasta eftersom man gör något som bryter den, har man

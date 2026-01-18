@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 938
 description: 'Fråga: Vilket är utlåtandet om bönen för en församling som ber mot
  en annan riktning än qiblah? Svar: I denna fråga gäller enbart två möjligheter: De

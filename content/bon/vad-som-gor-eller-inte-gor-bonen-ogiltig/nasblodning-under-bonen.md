@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . V
  1. Libanon: Makbtaba Dar us-Salam. 447 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Vad som gör eller inte gör bönen ogiltig
+  - Bönens giltighet
 original_id: 934
 description: 'Fråga: Vad gör den som fick näsblod medan denne bad? Blir kläderna
  orena? Svar: En näsblödning gör inte tvagningen ogiltig oavsett om det

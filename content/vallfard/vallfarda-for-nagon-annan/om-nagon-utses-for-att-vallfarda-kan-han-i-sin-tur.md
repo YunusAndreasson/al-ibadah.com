@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Vallfärd (Hajj)
-  - Vallfärda för någon annan
+  - Ställföreträdande vallfärd
 original_id: 732
 description: 'Fråga: För fyra år sedan mottog en person en del pengar från en pilgrimsguide
  för att vallfärda för någon i ett främmande land [utanför Saudiarabien]. Han har

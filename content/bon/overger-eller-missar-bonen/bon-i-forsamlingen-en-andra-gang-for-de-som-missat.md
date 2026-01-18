@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1520
 description: 'Fråga: Får de som kommer sent till bönen i församlingen, och som finner
  att bönen redan är över, forma en andra församling? Svar: Den som kom till moskén

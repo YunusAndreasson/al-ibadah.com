@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 65 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
-  - Blandat om allmosa
+  - Övrigt
 original_id: 50
 description: 'Fråga: Vilken sorts belöning får en avliden om det ges till välgörenhet
  för hans räkning? Läggs sådana donationer till hans goda handlingar? Det är tillåtet

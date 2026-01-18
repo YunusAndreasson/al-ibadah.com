@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 414 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 334
 description: 'Fråga: Blir bönen ogiltig om man ber bakom en imam som inte reciterar
  al-Fātihah rätt? Svar: Om imamen reciterar al-Fātihah dåligt och detta leder

@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  2. Libanon: Makbtaba Dar us-Salam. 601 s. ISBN 9960-892-66-2'
 categories:
   - Allmosa (Zakāh)
-  - Hur och när den betalas
+  - Betalningstid
 original_id: 1250
 description: Nisab för guld är 20 mithqal och det är likvärdigt med 85 gram. Nisab för
  silver är 140 mithqal . Det är i saudiska silverdirhamer likvärdigt med 56 riyal. Profetens – över honom vare Allāh...

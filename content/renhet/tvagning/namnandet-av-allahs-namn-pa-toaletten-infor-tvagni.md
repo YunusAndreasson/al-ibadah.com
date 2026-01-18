@@ -1,5 +1,5 @@
 ---
-title: Nämnandet av Allāhs namn på toaletten inför tvagningen görs i hjärtat
+title: Bismillah på toaletten vid tvagning
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 74 s. ISBN saknas'

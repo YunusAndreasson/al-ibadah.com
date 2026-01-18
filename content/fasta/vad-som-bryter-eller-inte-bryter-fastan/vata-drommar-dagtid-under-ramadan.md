@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 279 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 433
 description: 'Fråga: Om den som fastar har en våt dröm dagtid under ramadan, bryter
  det fastan då? Är denne skyldig att ta ett fullständigt bad direkt efteråt? Svar: Våta

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 117 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Ihrām och avsikten inför vallfärden
+  - Ihrām och avsikt
 original_id: 1336
 description: 'Fråga: Är två bönecykler ett villkor för ihrām? Svar: Det är inte
  ett villkor. De lärde skiljer sig endast åt om det är rekommenderat. Majoriteten

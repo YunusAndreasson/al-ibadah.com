@@ -1,12 +1,12 @@
 ---
-title: Sköljer munnen eller näsan med vatten och vattnet därigenom når magen
+title: Vatten i magen vid munsköljning
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 664 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 1056
 description: 'Fråga: Om den fastande sköljer sin mun eller drar in vatten i näsan,
  och vattnet därigenom når magen, bryts då fastan på grund av det? Svar: Om någon

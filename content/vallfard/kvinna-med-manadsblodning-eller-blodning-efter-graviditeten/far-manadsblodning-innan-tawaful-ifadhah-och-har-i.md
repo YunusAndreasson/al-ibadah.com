@@ -7,7 +7,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Vallfärd (Hajj)
-  - Kvinna med månadsblödning eller blödning efter graviditeten
+  - Månadsblödning och efterblödning
 original_id: 783
 description: 'Fråga: En kvinna får sin månadsblödning och hon utför inte tawāful-ifādhah
  . Hon bor utanför Saudiarabien och tiden för avresa kommer. Hon har inte möjlighet

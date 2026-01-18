@@ -1,5 +1,5 @@
 ---
-title: Smycken som inte enbart består av guld
+title: Smycken med guld och ädelstenar
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 181 s. ISBN saknas'

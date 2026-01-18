@@ -1,12 +1,11 @@
 ---
-title: Tar av sockarna i ett tillstånd av renhet och byter dem innan tvagningen blivit
- ogiltig
+title: Byta sockar under giltigt renhetstillstånd
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 342 s. ISBN 9960-892-66-2'
 categories:
   - Renhet (Tahārah)
-  - Stryka över sockar
+  - Mash över sockar
 original_id: 1133
 description: 'Fråga: Om man tar av sina sockar medan man fortfarande är rituellt
  ren och byter dem [mot ett annat par] innan ens tvagning blir ogiltig – kan man

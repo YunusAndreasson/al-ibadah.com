@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 476 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 955
 description: 'Fråga: Jag läste i en bok om profetens – över honom vare Allāhs frid
  och välsignelser – bön att det är en innovation att placera händerna på bröstet

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 162 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Kvinna med månadsblödning eller blödning efter graviditeten
+  - Månadsblödning och efterblödning
 original_id: 788
 description: 'Fråga: Får en kvinna med månadsblödning sitta vid platsen för sa’ī
 ? Svar: Ja, en kvinna som har månadsblödning får sitta vid platsen för sa’ī

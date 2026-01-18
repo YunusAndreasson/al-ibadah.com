@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 375 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 317
 description: 'Fråga: En man avled när han hade några obligatoriska böner att ta igen
  som han inte hade bett då han var sjuk och medvetslös. Behöver hans släktingar,

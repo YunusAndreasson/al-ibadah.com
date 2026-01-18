@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap'
 categories:
   - Bön (Salāh)
-  - Vad som gör eller inte gör bönen ogiltig
+  - Bönens giltighet
 original_id: 937
 description: 'Fråga: Bör den troende upprepa bönen om det blev klart att han vänt
  sig bort från qiblah? Svar: Om denne enbart avvek lite grann är det ingen fara.

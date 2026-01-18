@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1070
 description: 'Fråga: Hur kan vi få ihop att tron innebär att man tror på Allāh, Hans
  änglar, Hans skrifter, Hans sändebud, den Yttersta dagen och det förutbestämda [det

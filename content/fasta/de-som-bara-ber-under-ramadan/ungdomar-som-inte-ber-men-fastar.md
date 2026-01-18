@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - De som bara ber under ramadan
+  - Ramadanbedjare
 original_id: 404
 description: 'Fråga: Jag har sett en del unga muslimer fasta men de ber inte. Accepteras
  fastan från den som fastar utan att be? Jag har hört en del predikanter säga till

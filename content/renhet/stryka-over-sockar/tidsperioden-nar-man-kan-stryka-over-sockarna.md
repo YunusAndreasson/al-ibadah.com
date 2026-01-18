@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Renhet (Tahārah)
-  - Stryka över sockar
+  - Mash över sockar
 original_id: 1210
 description: 'Fråga: Under vilken tidsperiod kan man stryka över sockarna? Svar: Denna
  fråga är mycket viktig och något människor behöver få svar på. Därför ska vi göra

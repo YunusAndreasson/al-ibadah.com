@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Liba
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
   - Renhet (Tahārah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1675
 description: 'Fråga: Är det tillåtet att ta med sig Koranen in på toaletten? Svar: De
  lärde säger att det inte är tillåtet att ta med mushaf in på toaletten därför

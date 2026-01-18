@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 55
 description: 'Fråga: Några som har memorerat Koranen i Marocko livnär sig på att
  recitera den. Så fort det finns en stor middag så kommer de till den för att läsa

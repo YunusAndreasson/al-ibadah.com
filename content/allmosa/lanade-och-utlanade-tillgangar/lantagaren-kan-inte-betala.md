@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 185 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
-  - Lånade och utlånade tillgångar
+  - Tillgångar
 original_id: 630
 description: 'Fråga: Jag lånade ut en summa pengar till en person och ett år gick
  utan att denne betalade tillbaka lånet. Bör jag betala allmosa för dem eller bör

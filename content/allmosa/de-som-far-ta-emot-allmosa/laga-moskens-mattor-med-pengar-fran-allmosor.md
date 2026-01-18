@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Allmosa (Zakāh)
-  - De som får ta emot allmosa
+  - Mottagare
 original_id: 639
 description: 'Fråga: Är det tillåtet att spendera på moskén för att laga den och
  dess mattor och liknande genom pengar från allmosor. Detta eftersom moskén inte

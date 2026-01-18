@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 142 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 187
 description: 'Fråga : Varför reciterar man med höjd röst under kvällsbönen, nattbönen[^1]
  och gryningsbönen men inte under de andra bönerna? Vilket är beviset för detta? Svar: Allāh

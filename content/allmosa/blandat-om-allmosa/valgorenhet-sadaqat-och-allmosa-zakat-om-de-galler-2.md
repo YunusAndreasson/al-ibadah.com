@@ -1,11 +1,11 @@
 ---
-title: Välgörenhet [sadaqat] och allmosa [zakāt] – om de gäller speciellt under ramadan
+title: Välgörenhet och allmosa under ramadan
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 619 s. ISBN 9960-892-66-2'
 categories:
   - Allmosa (Zakāh)
-  - Blandat om allmosa
+  - Övrigt
 original_id: 1613
 description: 'Fråga: Är välgörenhet och allmosa något som gäller speciellt för ramadan? Svar: Välgörenhet
  är inte specifikt för ramadan. Den är rekommenderad och föreskriven vid alla tidpunkter.

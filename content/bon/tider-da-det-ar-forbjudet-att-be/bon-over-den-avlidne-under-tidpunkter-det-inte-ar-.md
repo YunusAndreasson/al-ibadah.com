@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 62 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Tider då det är förbjudet att be
+  - Förbjudna bönetider
 original_id: 387
 description: 'Fråga: Är det tillåtet att be begravningsbön över den avliden under
  tidpunkter då bön är förbjuden? Svar: Det är tillåtet att be begravningsbönen

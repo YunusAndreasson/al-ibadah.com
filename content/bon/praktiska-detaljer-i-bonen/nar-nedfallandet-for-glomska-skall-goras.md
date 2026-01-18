@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 272 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 1503
 description: 'Fråga: Om man ber och glömmer hur många bönecykler man har bett – vad
  gör man då? Svar: Då måste man utgå från vad man är säker på – vilket är det

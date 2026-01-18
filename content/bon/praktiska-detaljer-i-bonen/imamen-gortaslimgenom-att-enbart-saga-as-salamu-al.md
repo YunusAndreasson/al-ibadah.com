@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 489 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 963
 description: 'Fråga: En imam gör taslīm genom att säga as-salamu ''alaykum enbart
  en gång, är det då tillräckligt att nöja sig själv med enbart en hälsning? Ge oss

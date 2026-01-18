@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 212 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Raka huvudet och klippa håret
+  - Hårklippning
 original_id: 835
 description: 'Fråga: Vilket är utlåtandet om att raka huvudet eller klippa håret
  under ‘umrah? Svar: Det är obligatoriskt att raka huvudet eller klippa håret

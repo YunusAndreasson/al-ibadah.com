@@ -1,5 +1,5 @@
 ---
-title: Allāhs den Upphöjdes namn och om de är begränsade till antalet
+title: Allāhs namns antal
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 113 s. ISBN 9960-892-66-2'

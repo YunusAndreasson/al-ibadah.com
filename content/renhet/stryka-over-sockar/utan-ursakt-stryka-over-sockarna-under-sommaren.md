@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 104 s. ISBN saknas'
 categories:
   - Renhet (Tahārah)
-  - Stryka över sockar
+  - Mash över sockar
 original_id: 1444
 description: 'Fråga: Jag märker att somliga av Allāhs tjänare stryker över sina
  sockar även under sommaren när de tvagar sig! Vänligen, ge mig ett utlåtande om

@@ -4,7 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Lajnah, 11/178
 categories:
   - Vallfärd (Hajj)
-  - Förbjudna saker under ihrām
+  - Ihrām-förbud
 original_id: 1296
 description: 'Fråga: Får en man som har trätt in i ihrām vid mīqāt klippa sina
  naglar eller är det inte tillåtet förrän denne har offrat djuret? Svar: All

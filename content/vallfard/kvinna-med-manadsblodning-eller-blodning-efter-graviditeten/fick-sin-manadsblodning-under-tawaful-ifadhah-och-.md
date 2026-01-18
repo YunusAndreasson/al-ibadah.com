@@ -1,12 +1,11 @@
 ---
-title: Fick sin månadsblödning under tawāful-ifādhah och fullföljde den på grund av
- blyghet
+title: Tawāf vid oväntad månadsblödning
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 160 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Kvinna med månadsblödning eller blödning efter graviditeten
+  - Månadsblödning och efterblödning
 original_id: 786
 description: 'Fråga: En kvinna reste för att vallfärda och hon fick sin månadsblödning
  fem dagar innan datumet för hennes resa. När hon nådde mīqāt gjorde hon ghusl och
@@ -15,9 +14,9 @@ description: 'Fråga: En kvinna reste för att vallfärda och hon fick sin måna
 
 **Fråga:** En kvinna reste för att vallfärda och hon fick sin månadsblödning fem dagar innan datumet för hennes resa. När hon nådde *mīqāt[^1]* gjorde hon *ghusl[^2]* och gick in i *ihrām[^3]* utan att hon hade blivit ren efter månadsblödningen. När hon sedan nådde Mecka så stannade hon utanför helgedomen och hon utförde inte några av riterna som tillhör vallfärden och *´umrah[^4]*. Därefter var hon i Mina två dagar; hon blev ren, gjorde *ghusl[^2]* och utförde i rent tillstånd alla riter för *´umrah[^4]*. Sedan återkom hennes blödning då hon utförde *tawāf[^5] ul-ifādhah* för vallfärden. Men hon kände sig blyg och hon fullföljde vallfärdsriterna. Hon berättade inte för sin förmyndare förrän de hade kommit hem. Vad gäller i detta fall?
 
-**Svar:** Gick det till som frågeställaren beskriver måste kvinnan bege sig till Mecka och utföra *tawāf[^5]* vid Ka’bah; sju varv med avsikten att det är för hennes vallfärd. På detta sätt tar hon igen den *tawāf[^5]* som hon gjorde då hon inte var ren. Efter *tawāf[^5]* ber hon två bönecykler[^6] bakom platsen där Abraham stod, eller vid någon annan plats i helgedomen. Med detta är hennes vallfärd fullständig.
+**Svar:** Gick det till som frågeställaren beskriver måste kvinnan bege sig till Mecka och utföra *tawāf[^5]* vid Ka'bah; sju varv med avsikten att det är för hennes vallfärd. På detta sätt tar hon igen den *tawāf[^5]* som hon gjorde då hon inte var ren. Efter *tawāf[^5]* ber hon två bönecykler[^6] bakom platsen där Abraham stod, eller vid någon annan plats i helgedomen. Med detta är hennes vallfärd fullständig.
 
-Hon måste offra ett djur i Mecka till de fattiga om hon har en man som har haft intim samvaro med henne efter vallfärden. Anledningen är att en kvinna i *ihrām[^3]* inte är tillåten för sin man att ha intim samvaro med förrän efter *tawāf[^5] ul-ifādhah*, pelarna har stenats under *‘eid* och håret har klippts. Hon måste även göra *sa’ī[^7]* mellan as-Safa och al-Marwah om hon inte har utfört *sa’ī[^7]* och hon vallfärdar *hajjul-tamattu´*[^8] [*‘umrah[^4]* före vallfärden]. Men om hon gör *hajjul-qirān[^9]* eller *hajjul-ifrad*, då behöver hon inte utföra *sa’ī[^7]* en andra gång om hon redan har utfört *sa’ī[^7]* tillsammans med sin *tawāf[^5]* då hon anländande.
+Hon måste offra ett djur i Mecka till de fattiga om hon har en man som har haft intim samvaro med henne efter vallfärden. Anledningen är att en kvinna i *ihrām[^3]* inte är tillåten för sin man att ha intim samvaro med förrän efter *tawāf[^5] ul-ifādhah*, pelarna har stenats under *'eid* och håret har klippts. Hon måste även göra *sa'ī[^7]* mellan as-Safa och al-Marwah om hon inte har utfört *sa'ī[^7]* och hon vallfärdar *hajjul-tamattu´*[^8] [*'umrah[^4]* före vallfärden]. Men om hon gör *hajjul-qirān[^9]* eller *hajjul-ifrad*, då behöver hon inte utföra *sa'ī[^7]* en andra gång om hon redan har utfört *sa'ī[^7]* tillsammans med sin *tawāf[^5]* då hon anländande.
 
 Hon måste ångra sig inför Allāh för att hon gjorde *tawāf[^5]* när hon hade sin månadsblödning, att hon lämnade Mecka innan hon hade gjort *tawāf[^5]* [*ul-Ifādhah*] och att hon har försenat *tawāf[^5]* så här länge.
 

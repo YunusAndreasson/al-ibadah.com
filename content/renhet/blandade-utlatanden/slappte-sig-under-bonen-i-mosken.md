@@ -5,7 +5,7 @@ author: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
 source: Ibn ´Abdur-Rahman al-Jibrīn
 categories:
   - Renhet (Tahārah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 237
 description: 'Fråga: Om en man kom till bönen och han släppte sig under bönen, bör
  han då avvika eller vänta tills bönen är klar och sedan upprepa den trots att det

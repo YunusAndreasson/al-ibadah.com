@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 208 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Raka huvudet och klippa håret
+  - Hårklippning
 original_id: 831
 description: 'Fråga: En pilgrim kom under vallfärden och vallfärdade hajjul-tamattu’
  . När han hade utfört tawāf och sa’ī tog han på sig sina vanliga kläder men

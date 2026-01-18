@@ -5,7 +5,7 @@ author: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
 source: Ibn ´Abdullah Ibn Baz
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 195
 description: 'Fråga: Vad gäller den som har gått in i moskén och inte funnit någon
  plats i den första raden? Får denne dra bak någon från den första raden? Svar: Om

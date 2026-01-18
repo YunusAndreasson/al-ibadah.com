@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Vallfärd (Hajj)
-  - Vallfärda för någon annan
+  - Ställföreträdande vallfärd
 original_id: 731
 description: 'Fråga: En man har för avsikt att vallfärda och han har även tidigare
  vallfärdat. När han befinner sig vid Arafat slår det honom att han ska ändra sin

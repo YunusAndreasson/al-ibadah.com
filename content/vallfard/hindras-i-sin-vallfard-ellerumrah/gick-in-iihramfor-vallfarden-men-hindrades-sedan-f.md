@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 266 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Hindras i sin vallfärd eller ´umrah
+  - Vallfärdshinder
 original_id: 864
 description: 'Fråga: En person gick in i ihrām för vallfärden vid mīqāt, sedan
  färdades han tills han kom nära Mecka. Där hindras han av en polisinspektion, då

@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - Ta igen missad fasta
+  - Ikappfasta
 original_id: 460
 description: 'Fråga: En man bröt fastan under två dagar under ramadan år 1395 AH.
  Sedan kom nästa ramadan år 1396 AH men han hade inte tagit igen dessa båda fastedagar.

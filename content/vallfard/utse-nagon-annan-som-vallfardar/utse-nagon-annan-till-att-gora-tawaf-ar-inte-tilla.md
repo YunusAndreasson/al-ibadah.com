@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Vallfärd (Hajj)
-  - Utse någon annan som vallfärdar
+  - Vallfärdsombud
 original_id: 795
 description: 'Fråga: Min mor åkte tillsammans med min far på vallfärd. Tillsammans
  med dem fanns det tre män i gruppen. Männen hade sina fruar med sig för att de

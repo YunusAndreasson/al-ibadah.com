@@ -1,11 +1,11 @@
 ---
-title: Landstycken som ägs för att bygga något på dem
+title: Landstycken för byggande
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 166 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
-  - Allmosa för marker, fastigheter, buriker och varor till försäljning
+  - Handelsvaror och fastigheter
 original_id: 612
 description: 'Fråga: Jag hade ett landstycke som jag köpte i avsikt att bygga något
  på. När en tid hade gått behövde jag sälja det, så jag sålde det. Behöver jag betala

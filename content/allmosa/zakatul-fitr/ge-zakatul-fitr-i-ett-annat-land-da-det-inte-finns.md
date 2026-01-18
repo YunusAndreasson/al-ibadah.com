@@ -1,5 +1,5 @@
 ---
-title: Ge zakātul-fitr i ett annat land då det inte finns några fattiga i ens eget
+title: Zakātul-fitr till annat land
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Majmoo’ Fatāwa al-´Uthaymīn, 18/fråga 102
 categories:

@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Livet i graven
+  - Gravlivet
 original_id: 1178
 description: 'Fråga: Har man bekräftat straffet i graven? Svar: Straffet har
  entydigt bekräftats genom tydliga bevis i [profetens – över honom vare Allāhs frid

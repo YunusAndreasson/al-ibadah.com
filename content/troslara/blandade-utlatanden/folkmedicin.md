@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 214 s. ISBN saknas'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 99
 description: 'Fråga: Vilken är islams inställning till dem som använder folkmedicin? Svar: I
  en hadīth rapporteras det: ”Allāh har inte sänt ned någon sjukdom utan att

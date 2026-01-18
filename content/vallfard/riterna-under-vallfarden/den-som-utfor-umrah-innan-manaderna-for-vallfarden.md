@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 96 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Riterna under vallfärden
+  - Vallfärdsriter
 original_id: 741
 description: 'Fråga: Om en muslim med avsikt att vallfärda kommer till Mecka före
  vallfärdsmånaderna, utför ‘umrah och stannar i Mecka tills tiden för vallfärden

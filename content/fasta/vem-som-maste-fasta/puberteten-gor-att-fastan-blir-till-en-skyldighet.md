@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 241 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Vem som måste fasta
+  - Fasteplikt
 original_id: 399
 description: 'Fråga: Jag är en ung man som har hunnit bli 23 år gammal, Min far började
  uppmuntra mig att fasta när jag var femton år gammal. Då brukade jag fasta vissa

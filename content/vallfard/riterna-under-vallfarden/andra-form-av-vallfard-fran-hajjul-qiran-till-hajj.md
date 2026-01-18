@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 104 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Riterna under vallfärden
+  - Vallfärdsriter
 original_id: 747
 description: 'Fråga: Vad gäller den som går in i ihrām för vallfärden samt ‘umrah som
  en qarin och efter ‘umrah avlägsnar sin ihrām? Anses denne vara en mutamatti''

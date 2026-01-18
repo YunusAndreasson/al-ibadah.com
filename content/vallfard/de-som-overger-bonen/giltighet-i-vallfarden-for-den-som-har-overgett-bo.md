@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 50 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - De som överger bönen
+  - Överger bönen
 original_id: 1320
 description: 'Fråga: Vad finns det att säga om vallfärden för den som har övergett
  bönen, antingen avsiktligen eller på grund av lathet? Gäller dennes vallfärd då

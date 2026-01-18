@@ -4,7 +4,7 @@ author: Ibn ´Abdullāh Ibn Bāz
 source: Fatāwa al-Marah
 categories:
   - Bön (Salāh)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 573
 description: 'Fråga: Om jag ber och det ringer på dörrklockan när ingen annan än
  jag är hemma. Vad ska jag göra då? Svar: Om bönen är frivillig – är detta

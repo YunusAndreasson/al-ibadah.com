@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 156 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Glömska och dålig koncentration
+  - Koncentration i bönen
 original_id: 1472
 description: 'Fråga: Om iqāmah ropas ut för bönen och jag under bönen glömmer att
  recitera sura al-Fātihah i en eller två bönecykler när jag leds i bönen, är min

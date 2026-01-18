@@ -1,11 +1,11 @@
 ---
-title: Bor utanför sitt hemland – hur man då betalar allmosa
+title: Allmosa utanför hemlandet
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 199 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
-  - Betala allmosan i ett annat land
+  - Betalning utomlands
 original_id: 646
 description: 'Fråga: Det finns en man som bor utanför sitt hemland. Hur betalar denne
  man då sin allmosa? Skickar han hem den till sitt land, ger han den i landet han

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 222 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 234
 description: 'Fråga: Är det tillåtet att slå ihop middagsbönen och eftermiddagsbönen
  varje dag? Svar: Det är inte tillåtet att slå ihop eftermiddags- eller kvällsbönerna

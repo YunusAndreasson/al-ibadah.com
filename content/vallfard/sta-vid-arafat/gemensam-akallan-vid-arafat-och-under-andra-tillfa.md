@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Vallfärd (Hajj)
-  - Stå vid Arafat
+  - Arafat
 original_id: 1357
 description: 'Fråga: Vilket är utlåtandet om att samlas för åkallan under Arafat-dagen,
  oavsett om det är just där eller vid någon annan plats? Svar: Under denna

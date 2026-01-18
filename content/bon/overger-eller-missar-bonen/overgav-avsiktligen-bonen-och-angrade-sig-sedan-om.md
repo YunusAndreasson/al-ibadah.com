@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 402 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1153
 description: 'Fråga: Om någon avsiktligen övergav bönen och sedan ångrade sig, bör
  denne då ta igen de missade bönerna? Svar: De lärde har olika åsikter om någon

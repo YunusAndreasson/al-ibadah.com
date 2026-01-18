@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 454 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 939
 description: 'Fråga: Vilket är utlåtandet om att uttala avsikten [för att be]? Svar: Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ” Handlingen är enligt
  avsikten och var och en ska ...'

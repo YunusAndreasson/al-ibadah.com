@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa al-shaykh Muḥammad al-‘Uthaymīn, 1/425
 categories:
   - Bön (Salāh)
-  - Glömska och dålig koncentration
+  - Koncentration i bönen
 original_id: 1297
 description: 'Fråga: Ibland, eller rättare sagt ofta, gör jag misstag under min bön.
  Antingen så glömmer jag hur många bönecykler jag har bett eller så är det något

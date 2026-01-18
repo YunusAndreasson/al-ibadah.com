@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 1223
 description: 'Fråga: Vilket är utlåtandet om att recitera sura al-Fātihah i bönen? Svar: De
  lärde har olika åsikter om recitation av sura al-Fātihah: Att denna sura

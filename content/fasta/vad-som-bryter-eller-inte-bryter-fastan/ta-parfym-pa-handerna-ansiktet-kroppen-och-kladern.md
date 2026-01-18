@@ -4,7 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa Ramadan – Volym 2, sida 500, fatwa 455
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 900
 description: 'Fråga: Blir fastan ogiltig om man använder en vätskebaserad parfym
  ifrån en flaska på händerna, ansiktet, kroppen och kläderna? Svar: Att använda

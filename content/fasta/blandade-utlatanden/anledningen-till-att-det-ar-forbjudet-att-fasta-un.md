@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  2. Libanon: Makbtaba Dar us-Salam. 679 s. ISBN 9960-892-66-2'
 categories:
   - Fasta (Sawm)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1271
 description: 'Fråga: Vad är anledningen till att det är förbjudet att fasta under
  fredagar? Går det heller inte att fasta under fredagar när man har fasta att ta

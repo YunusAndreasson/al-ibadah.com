@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 53 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - De som överger bönen
+  - Överger bönen
 original_id: 1322
 description: 'Fråga: Jag hade en släkting som avled under ramadan och före hans död
  var han inte noga med att be eller betala allmosa. Är det då tillåtet att vallfärda

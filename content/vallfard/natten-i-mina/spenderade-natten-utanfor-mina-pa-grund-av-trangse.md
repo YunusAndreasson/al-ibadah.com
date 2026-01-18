@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 229 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Natten i Mina
+  - Mina-natten
 original_id: 848
 description: 'Fråga: Om en pilgrim inte hittar en plats för att spendera natten i
  Mina, vad gör denne då? Har denne syndat om denne tillbringar natten utanför Mina? Svar: Om

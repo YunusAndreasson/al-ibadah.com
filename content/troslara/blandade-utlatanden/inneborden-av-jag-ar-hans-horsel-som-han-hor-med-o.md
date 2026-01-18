@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 60 s. ISBN saknas'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 47
 description: 'Fråga: Vilken är innebörden vad Allāh säger i denna heliga hadīth: ”Och
  om jag älskar honom, då kommer jag att vara hans hörsel som han hör med, hans syn

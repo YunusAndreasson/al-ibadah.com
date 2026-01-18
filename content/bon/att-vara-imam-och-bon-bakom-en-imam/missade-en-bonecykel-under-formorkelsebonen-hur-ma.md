@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  2. Libanon: Makbtaba Dar us-Salam. 566 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 1240
 description: 'Fråga: Om någon missar en bönecykel av förmörkelsebönen, hur tar man
  då igen den? Svar: Om någon missar en bönecykel av förmörkelsebönen så har profeten – över honom vare Allāhs frid och välsi...'

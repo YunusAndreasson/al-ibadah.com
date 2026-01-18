@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Liba
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1623
 description: 'Fråga: Vilket ansvar har en man om han inte väcker sin fru för att
  be gryningsbönen? Är det en ursäkt om han efter många försök inte lyckas väcka henne

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 108 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Riterna under vallfärden
+  - Vallfärdsriter
 original_id: 750
 description: 'Fråga: I böcker med hadīth nämns att en pilgrim som är mufrid inte
  får byta från hajjul-ifrad till hajjul-qirān. Är detta korrekt? Svar: Profeten – över honom vare Allāhs frid och välsig...'

@@ -6,7 +6,7 @@ source: 'Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muḥammad ibn Sāli
  ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Allāhs förutbestämmelse
+  - Förutbestämmelsen
 original_id: 1276
 description: 'Fråga: Hur kan vi förlika att doktorer kan ta reda på om fostret är
  en flicka eller pojke med versen: “ som vet vad som ligger gömt i moderlivet .”

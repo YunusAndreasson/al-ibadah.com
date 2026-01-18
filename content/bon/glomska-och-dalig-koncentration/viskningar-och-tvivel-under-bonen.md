@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Glömska och dålig koncentration
+  - Koncentration i bönen
 original_id: 1502
 description: 'Fråga: Jag känner ofta tvivel om hur många bönecykler jag har bett.
  Även när jag reciterat med höjd röst så att jag kommer ihåg vad jag har reciterat

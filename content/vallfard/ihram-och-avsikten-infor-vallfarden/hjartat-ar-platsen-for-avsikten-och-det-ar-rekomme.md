@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 114 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Ihrām och avsikten inför vallfärden
+  - Ihrām och avsikt
 original_id: 754
 description: 'Fråga: Uttalas avsikten för ihrām muntligt med tungan? Hur utförs
  den om pilgrimen vallfärdar för en annan persons räkning? Svar: Platsen för

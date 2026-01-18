@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - När ramadan börjar och slutar
+  - Ramadans datum
 original_id: 395
 description: 'Fråga: Det varierar mellan olika länder när nymånen visar sig under
  ramadan och shawwal. Fastar muslimer då när den siktas i ett av dessa länder? Svar: De

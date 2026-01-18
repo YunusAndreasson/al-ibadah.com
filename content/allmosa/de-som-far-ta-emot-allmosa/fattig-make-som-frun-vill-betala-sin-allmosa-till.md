@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Allmosa (Zakāh)
-  - De som får ta emot allmosa
+  - Mottagare
 original_id: 638
 description: 'Fråga: Får en kvinna betala allmosa till sin make om denne är fattig? Svar: En
  kvinna får betala allmosa till maken om denne är fattig. Detta beror på den generella

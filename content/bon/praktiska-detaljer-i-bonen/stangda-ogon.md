@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 497 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 968
 description: 'Fråga: Vilket är utlåtandet om att ha stängda ögon under bönen? Svar: Att
  stänga ögonen under bönen är ogillat då det motsäger sig profetens – över honom

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 234 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - När ramadan börjar och slutar
+  - Ramadans datum
 original_id: 397
 description: 'Fråga: Vi började fasta i Saudiarabien. Därefter reste vi till Ostasien
  under ramadan. Där ligger den islamiska hijri -månaden en dag back. Bör vi då fasta

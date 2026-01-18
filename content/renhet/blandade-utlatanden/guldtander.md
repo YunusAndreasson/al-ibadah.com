@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 311 s. ISBN 9960-892-66-2'
 categories:
   - Renhet (Tahārah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1206
 description: 'Fråga: Vilket är utlåtandet om att ha guldtänder? Svar: Män får
  inte ha tänder av guld om det inte är nödvändigt. Detta beror på att män inte får

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 180 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Glömska och dålig koncentration
+  - Koncentration i bönen
 original_id: 208
 description: 'Fråga: Vi var fyra personer som befann oss ute i öknen och när det
  blev tid för kvällsbönen ropade en av oss ut böneutropet och iqāmah för bönen.

@@ -1,10 +1,10 @@
 ---
-title: Ge allmosan till en organisation som fördelar den till behövande
+title: Allmosa via välgörenhetsorganisation
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah ad-Dā’imah, 9/457
 categories:
   - Allmosa (Zakāh)
-  - Hur och när den betalas
+  - Betalningstid
 original_id: 1598
 description: 'Fråga: Är det tillåtet att ge vår allmosa till en känd organisation
  som tar emot allmosa för att hjälpa behövande? Vi vet inte hur den kommer att spenderas. Svar: Om

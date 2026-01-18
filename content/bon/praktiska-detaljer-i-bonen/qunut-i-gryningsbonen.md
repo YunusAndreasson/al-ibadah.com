@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 246
 description: 'Fråga: Jag är en muslimsk tjej som har bott i Saudiarabien i omkring
  sex år. I vårt land så reciterar vi qunūt när vi ber gryningsbönen. Här har jag

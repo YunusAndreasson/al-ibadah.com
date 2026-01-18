@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Vad som gör eller inte gör bönen ogiltig
+  - Bönens giltighet
 original_id: 228
 description: 'Fråga: Jag ser att somliga går in i moskén för att be när de har cigaretter
  på sig. Syndar de genom detta? Svar: De syndar inte i fråga om bönen. Att de

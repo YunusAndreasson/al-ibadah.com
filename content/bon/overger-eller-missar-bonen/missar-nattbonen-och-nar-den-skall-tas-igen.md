@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 219
 description: 'Fråga: När bör nattbönen[^1] tas igen av någon som har försovit sig och
  missat den och inte kommit ihåg den förrän efter gryningsbönen? Bör han be den vid

@@ -4,7 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Lajnah 11/179
 categories:
   - Vallfärd (Hajj)
-  - Kläderna under ihrām
+  - Ihrām-kläder
 original_id: 1283
 description: 'Fråga: Varför har Allāh förbjudit pilgrimer att bära sydda kläder och
  vad är anledningen till det? Svar: All lovprisan tillhör Allāh. Allāh har påbjudit

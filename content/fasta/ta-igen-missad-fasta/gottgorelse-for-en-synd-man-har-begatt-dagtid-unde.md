@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 259 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Ta igen missad fasta
+  - Ikappfasta
 original_id: 414
 description: 'Fråga: Jag skulle vilja fråga dig om hur man gottgör sig för att ha
  masturberat dagtid under ramadan. Jag vet att det inte är tillåtet men finns det

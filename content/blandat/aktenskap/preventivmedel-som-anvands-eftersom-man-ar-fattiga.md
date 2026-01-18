@@ -1,6 +1,5 @@
 ---
-title: Preventivmedel som används eftersom man är fattiga och inte vill ha
- fler barn
+title: Preventivmedel vid fattigdom
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'

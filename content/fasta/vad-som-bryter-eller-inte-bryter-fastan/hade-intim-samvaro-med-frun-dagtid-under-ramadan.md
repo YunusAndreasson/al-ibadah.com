@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 279 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 434
 description: 'Fråga: Vilket är utlåtandet om den som fastade och gjorde något förbjudet
  under ramadan? Om det var natt? Vilken är gottgörelsen? Svar: Den som hade intim

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 224 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Vad som gör eller inte gör bönen ogiltig
+  - Bönens giltighet
 original_id: 239
 description: 'Fråga: Är det tillåtet att slå ihop kvällsbönen och nattbönen[^1] under
  regniga kvällar när det finns mycket lera på vägen till moskén? Får en affärsman

@@ -4,7 +4,7 @@ author: Ibn ´Abdullaah Ibn Baz
 source: Majmū’ah Fatāwa al-shaykh ‘Abd al-‘Azīz ibn Bāz, 10/386
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1272
 description: 'Fråga: Denna fråga gäller tiden för nattbönen[^1]. Det finns olika åsikter
  om när tiden för att be nattbönen[^1] går ut. Några säger att man kan be nattbönen[^1]

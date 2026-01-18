@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 116 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Ihrām och avsikten inför vallfärden
+  - Ihrām och avsikt
 original_id: 755
 description: 'Fråga: Kan man träda in i ihrām för två vallfärder eller två ‘umrah
 ? Svar: Det är inte rätt om man går in i ihrām för två vallfärder under ett

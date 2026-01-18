@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+  - Frivillig fasta
 original_id: 457
 description: 'Fråga: Jag blev sjuk och det var plågsamt. Min mor tog mig till sjukhuset
  i Mecka. När jag hade lagts in på sjukhuset gick två ramadan och jag var fortfarande

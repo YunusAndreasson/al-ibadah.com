@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - Bryta och påbörja fastan
+  - Fastebrytare
 original_id: 403
 description: 'Fråga: Blir belöningen för fastan mindre om man gör i ordning överdrivet
  mycket mat inför brytandet av fastan? Svar: Belöningen blir inte mindre men

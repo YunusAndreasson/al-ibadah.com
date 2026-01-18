@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 320
 description: 'Fråga: Jag ber alltid mina böner vid deras fastslagna tider men jag
  går inte till moskén för att be. I stället ber jag dem hemma tillsammans med mina

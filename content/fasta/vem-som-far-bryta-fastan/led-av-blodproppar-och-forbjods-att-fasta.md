@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - Vem som får bryta fastan
+  - Undantag från fasta
 original_id: 1037
 description: 'Fråga: En kvinna led av blodproppar och läkarna förbjöd henne att fasta.
  Vilket är utlåtandet om detta? Svar: Allāh den Upphöjde säger: ”För att

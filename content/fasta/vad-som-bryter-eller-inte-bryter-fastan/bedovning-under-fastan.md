@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa Ramadan – volym 2, sida 525, fatwa 492
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 899
 description: 'Fråga: Leder en bedövning av kroppen till att fastan bryts? Och på
  samma sätt blodet som rinner när en tand har dragits ut? Svar: Inget av dessa

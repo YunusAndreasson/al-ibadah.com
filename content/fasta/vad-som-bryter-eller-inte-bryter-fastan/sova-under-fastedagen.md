@@ -4,7 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa Ramadan – Volym 2, sida 522, fatwa 488
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 902
 description: 'Fråga: Om man under ramadan måste äta sahūr och be gryningsbönen, för
  att sedan sova till middagstid och då be middagsbönen, för att sedan sova till eftermiddagsbönen

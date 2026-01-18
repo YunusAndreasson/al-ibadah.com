@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 475
 description: 'Fråga: Vilket är utlåtandet om någon som avsiktligen åt dagtid under
  ramadan och som sedan ångrade sig inför Allāh? Accepteras dennes ånger? Svar: Ja,

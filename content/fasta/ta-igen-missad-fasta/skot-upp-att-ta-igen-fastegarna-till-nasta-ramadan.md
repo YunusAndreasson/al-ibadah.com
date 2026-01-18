@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 309 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Ta igen missad fasta
+  - Ikappfasta
 original_id: 462
 description: 'Fråga: Vilket är utlåtandet om någon som inte fastar en enda dag under
  ramadan på grund av en godtagbar ursäkt och denne inte tar igen den innan nästa

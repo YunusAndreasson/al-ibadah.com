@@ -1,11 +1,11 @@
 ---
-title: Tyst paus mellan recitationen av sura al-Fātihah och suran som kommer efter
+title: Tyst paus efter al-Fātihah
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 475 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 953
 description: 'Fråga: Har det rapporterats att profeten – över honom vare Allāhs frid
  och välsignelser – brukade vara tyst mellan recitationen av sura al-Fātihah och

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 433 s. ISBN saknas'
 categories:
   - Renhet (Tahārah)
-  - Stryka över sockar
+  - Mash över sockar
 original_id: 345
 description: 'Fråga: Vad behöver man inte göra under resor? Svar: Det finns fyra
  saker som en resenär tillåts: Be böner med fyra bönecykler som två. Bryta

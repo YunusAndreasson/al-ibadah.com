@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Vallfärd (Hajj)
-  - Natten i Muzdalifah
+  - Muzdalifah-natten
 original_id: 1555
 description: 'Fråga: Vilket är utlåtandet om någon som bad kvällsbönen och nattbönen[^1]
  sammanslagna och förkortade [vid nattbönen[^1]] innan denne kom till Muzdalifah? Anledningen

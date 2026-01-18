@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 121 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Ihrām och avsikten inför vallfärden
+  - Ihrām och avsikt
 original_id: 1339
 description: 'Fråga: Somliga ger fatwa till dem som kommer med flygplan för att vallfärda.
  De säger att de får träda in i ihrām i Jiddah. Samtidigt är andra emot det. Vilken

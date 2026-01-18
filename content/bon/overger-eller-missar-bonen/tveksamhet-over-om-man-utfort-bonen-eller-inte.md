@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1471
 description: 'Fråga: Vad gör man om man tvekar över om man har bett? Svar: Om
  en muslim tvekar över om han har bett en av de obligatoriska bönerna, då måste han

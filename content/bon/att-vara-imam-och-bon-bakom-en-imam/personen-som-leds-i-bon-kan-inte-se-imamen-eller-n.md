@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 24 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 373
 description: 'Fråga: Vilket är utlåtandet om en bön i en moskés källare om den som
  leds i bön inte kan se imamen eller någon av dem som ber bakom honom? Denne hör

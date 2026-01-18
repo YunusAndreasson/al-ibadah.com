@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 662 s. ISBN 9960-892-66-2'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 1053
 description: 'Fråga: Vilket är utlåtandet om näs-, ögon- och örondroppar för den
  som fastar? Svar: Näsdroppar bryter fastan om de når magen, enligt vad som har

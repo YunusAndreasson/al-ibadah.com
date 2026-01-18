@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 158 s. ISBN 9960-892-66-2'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1091
 description: 'Fråga: Varför har vi varnats för Dajjal? Svar: Den största prövning
  på jordens yta sedan Adam skapades tills Timmen börjar är prövningen i Dajjāl, vilket

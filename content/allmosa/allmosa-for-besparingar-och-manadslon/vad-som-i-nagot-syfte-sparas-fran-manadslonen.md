@@ -1,10 +1,10 @@
 ---
-title: Vad som i något syfte sparas från månadslönen
+title: Sparande från månadslönen
 author: Ibn ´Abdullāh Ibn Bāz
 source: Majmoo’ al-Fatawa (14/130)
 categories:
   - Allmosa (Zakāh)
-  - Allmosa för besparingar och månadslön
+  - Besparingar och lön
 original_id: 1606
 description: 'Fråga: Jag sparar en del från min månadslön. Behöver jag betala allmosa
  för dessa pengar? Jag sparar dem för att bygga ett hus och för att betala för ett

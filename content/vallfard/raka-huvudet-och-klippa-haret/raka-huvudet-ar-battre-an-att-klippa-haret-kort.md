@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 207 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Raka huvudet och klippa håret
+  - Hårklippning
 original_id: 829
 description: 'Fråga: Vad är bäst när man utfört riterna under vallfärden eller ‘umrah
  : att raka huvudet eller att klippa håret kort? Och är det tillräckligt att enbart

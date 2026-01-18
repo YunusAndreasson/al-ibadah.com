@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 306 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Ta igen missad fasta
+  - Ikappfasta
 original_id: 459
 description: 'Fråga: En man avled under ‘eidul-fitr . Under den första eller andra
  dagen i fastmånaden blev han sjuk. Hela ramadan gick och han fastade inte. Behöver

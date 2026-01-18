@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 151 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 1469
 description: 'Fråga: Om de slog ihop eftermiddagsbönen och middagsbönen och bad dem
  vid middagsbönen, och de även utförde nattbönen[^1] och kvällsbönen på ett liknande

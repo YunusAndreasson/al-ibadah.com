@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 678 s. ISBN 9960-892-66-2'
 categories:
   - Fasta (Sawm)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1063
 description: 'Fråga: Vad är sawm al-wisal? Är det föreskrivet? Svar: Sawm
  al-wisal betyder att man inte bryter fastan under två dagar. Man fastar då hela

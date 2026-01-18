@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 328 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Vem som måste fasta
+  - Fasteplikt
 original_id: 478
 description: 'Fråga: Vad finns det för villkor för att ett barns fasta ska vara
  korrekt? Är det sant att barnets fasta är för föräldrarna? Svar: Det är föreskrivet

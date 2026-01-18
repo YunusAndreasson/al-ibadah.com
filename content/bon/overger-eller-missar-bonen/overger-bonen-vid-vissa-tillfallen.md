@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 374 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 316
 description: 'Fråga: En man ber två eller tre obligatoriska böner och slutar sedan
  att be under fyra eller fem dagar, eller liknande, och detta är hans situation.

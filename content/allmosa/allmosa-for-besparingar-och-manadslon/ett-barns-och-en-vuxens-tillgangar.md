@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 47 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
-  - Allmosa för besparingar och månadslön
+  - Besparingar och lön
 original_id: 603
 description: 'Fråga: Jag är en ung man, sjutton år gammal. Jag bor tillsammans med
  min familj och min far försörjer mig. Jag har en del pengar sparade i en islamisk

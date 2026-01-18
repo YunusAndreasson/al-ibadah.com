@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 174 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 1479
 description: 'Fråga: Får den som redan har bett en obligatorisk bön leda församlingen
  i samma bön? Svar: De lärde har olika åsikter om det är tillåtet. För oss verkar

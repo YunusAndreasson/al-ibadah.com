@@ -5,7 +5,7 @@ author: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
 source: Muḥammad bin Sālih al-´Uthaymīn
 categories:
   - Allmosa (Zakāh)
-  - Allmosa för besparingar och månadslön
+  - Besparingar och lön
 original_id: 608
 description: 'Fråga: Krävs allmosa för de pengar som man sparar från månadslönen
  och som man har haft under ett år? Detta även om det inte är för en investering.

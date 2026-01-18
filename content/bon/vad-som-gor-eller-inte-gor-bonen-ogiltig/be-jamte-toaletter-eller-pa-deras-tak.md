@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 169 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Vad som gör eller inte gör bönen ogiltig
+  - Bönens giltighet
 original_id: 198
 description: 'Fråga: Får man be på en plats där den finns en toalett framför? Det
  enda som separerar är en vägg. Är det kanske bättre att be någon annanstans? Svar: Så

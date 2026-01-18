@@ -1,5 +1,5 @@
 ---
-title: Allmaktens Natt och om den inträffar under olika nätter varje år
+title: Allmaktens Natt – samma eller olika datum varje år?
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 512 s. ISBN 9960-892-66-2 Muhammed Knut Bernström

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 409 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 1538
 description: 'Fråga: Vilket är utlåtandet om en imam som rakar sitt skägg, som röker,
  som är okunnig eller inte förstår Koranen? Svar: Imamtjänsten för den som röker

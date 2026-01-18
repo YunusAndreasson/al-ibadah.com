@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa al-shaykh Ibn ‘Uthaymīn 1/172-174
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1300
 description: 'Fråga: Kan Allāh beskrivas som glömmande? Svar: Att glömma kan
  innebära två olika saker: Förbise något som är känt, som i versen: ”Herre!

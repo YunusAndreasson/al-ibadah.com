@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 411 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 330
 description: 'Fråga: Jag bad i moskén men jag hann inte be med församlingen, därför
  bad jag med en andra församling och imamen där var inte saudier. Efter bönen satt

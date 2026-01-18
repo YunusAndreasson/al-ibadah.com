@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 244 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 254
 description: 'Fråga: Är det tillåtet att inte recitera med höjd röst under till exempel
  nattbönen[^1]? Svar: Under nattbönen[^1] är recitation med höjd röst föreskriven för

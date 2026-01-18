@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  2. Libanon: Makbtaba Dar us-Salam. 632 s. ISBN 9960-892-66-2'
 categories:
   - Fasta (Sawm)
-  - Vem som får bryta fastan
+  - Undantag från fasta
 original_id: 1259
 description: 'Fråga: Vilka är de ursäkter som gör det tillåtet att bryta fastan? Svar: De
  ursäkter som gör det tillåtet att bryta fastan är sjukdom och resa, vilket nämns

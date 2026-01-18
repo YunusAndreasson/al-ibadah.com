@@ -1,12 +1,12 @@
 ---
-title: Hade några fastedagar att ta igen men tog inte igen dem innan nästa ramadan
+title: Ikappfasta efter nästa ramadan
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 673 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - Ta igen missad fasta
+  - Ikappfasta
 original_id: 1267
 description: 'Fråga: Om någon fortfarande hade dagar att ta igen från ramadan och
  denne inte tog igen dem innan nästa ramadan, vad bör denne göra då? Svar: Det

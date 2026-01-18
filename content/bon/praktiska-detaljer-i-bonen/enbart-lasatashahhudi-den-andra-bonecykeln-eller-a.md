@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 487 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 961
 description: 'Fråga: Bör man nöja sig med att enbart läsa tashahhud i den första tashahhud eller
  bör han även ”sända välsignelserna”? Svar: Den första tashahhud i bönerna

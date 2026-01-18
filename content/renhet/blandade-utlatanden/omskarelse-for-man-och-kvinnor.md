@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 315 s. ISBN 9960-892-66-2'
 categories:
   - Renhet (Tahārah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1207
 description: 'Fråga: Vilket är utlåtandet om omskärelse för män och kvinnor? Svar: Utlåtandet
  om omskärelse är en fråga i vilken det finns oenighet. Den mest korrekta åsikten

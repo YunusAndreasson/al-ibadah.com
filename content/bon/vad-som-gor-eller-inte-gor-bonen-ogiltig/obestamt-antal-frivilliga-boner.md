@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 321 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Vad som gör eller inte gör bönen ogiltig
+  - Bönens giltighet
 original_id: 304
 description: 'Fråga: Är det tillåtet att be ett obestämt antal frivilliga böner? Svar: Utlåtandet
  om detta är att man inte har frihet att välja ett visst antal bönecykler efter egna

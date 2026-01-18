@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 397 s. ISBN saknas'
 categories:
   - Renhet (Tahārah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 326
 description: 'Fråga: På arbetsplatsen [en bilverkstad] har jag en kollega som jag
  uppmanar att be, men han vägrar och påstår att hans kläder inte är rena, att det

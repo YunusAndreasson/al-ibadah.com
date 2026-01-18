@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 158 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Vad som gör eller inte gör bönen ogiltig
+  - Bönens giltighet
 original_id: 1473
 description: 'Fråga: Blir bönen ogiltig om någon går framför? Svar: En person
  som passerar precis framför en [annan] troende som ber gör inte dennes bön ogiltig.

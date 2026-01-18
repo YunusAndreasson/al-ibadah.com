@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 329 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1414
 description: 'Fråga: Vad är en fortlöpande fasta för något och är det sunnah? Svar: En
  fortlöpande fasta är när någon inte bryter fastan under två dagar. Således fortsätter

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 208 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 224
 description: 'Fråga: Jag har hört att om man lägger tummen mot mittfingret och sträcker
  ut pekfingret så är det jobbigare för djävulen än att bli slagen med järn. I vilken

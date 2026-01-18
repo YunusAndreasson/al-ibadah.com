@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 258 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Bryta och påbörja fastan
+  - Fastebrytare
 original_id: 412
 description: 'Fråga: Vi befinner oss i ett land där solen inte går ned förrän 21.30
  eller 22.00. När bryter vi då fastan? Svar: Ni bryter fastan när solen går ned.

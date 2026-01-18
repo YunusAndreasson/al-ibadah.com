@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 410 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 329
 description: 'Fråga: Det finns en imam med dåligt grammatiskt uttal. Ibland missar
  eller lägger han till bokstäver när han reciterar Koranen. Vilket är utlåtandet

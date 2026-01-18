@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 163 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Utse någon annan som vallfärdar
+  - Vallfärdsombud
 original_id: 789
 description: 'Fråga: När är det tillåtet att utse någon som kastar stenar på pelarna
  och finns det någon restriktion om vilka dagar det är tillåtet att utse någon? Svar: Det

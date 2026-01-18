@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  2. Libanon: Makbtaba Dar us-Salam. 619 s. ISBN 9960-892-66-2'
 categories:
   - Allmosa (Zakāh)
-  - Blandat om allmosa
+  - Övrigt
 original_id: 1256
 description: 'Fråga: Är välgörenhet och allmosa något som gäller speciellt för ramadan? Svar: Välgörenhet
  är inte något specifikt för ramadan. Den är rekommenderad och föreskrivet vid alla

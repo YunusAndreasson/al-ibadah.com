@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 138 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Förbjudna saker under ihrām
+  - Ihrām-förbud
 original_id: 772
 description: 'Fråga: Vad bör en kvinna göra under ihrām om lite av hennes hår faller
  av mot hennes vilja? Svar: Om man tappar hår under ihrām – oavsett om

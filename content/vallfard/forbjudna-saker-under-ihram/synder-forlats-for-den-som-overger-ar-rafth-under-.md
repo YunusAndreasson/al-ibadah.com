@@ -6,7 +6,7 @@ source: "Muḥammad bin ´Abdul-´Azīz \nal-Musnad (1422), Fatawa Islamiyah . \
  \ (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8"
 categories:
   - Vallfärd (Hajj)
-  - Förbjudna saker under ihrām
+  - Ihrām-förbud
 original_id: 1317
 description: 'Fråga: En hadīth som lyder enligt följande har rapporterats: ” Den
  som vallfärdar för Allāhs skull och som inte har intim samvaro [med sin fru] eller

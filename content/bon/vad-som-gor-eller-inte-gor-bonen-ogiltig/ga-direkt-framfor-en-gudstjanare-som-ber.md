@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 188 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Vad som gör eller inte gör bönen ogiltig
+  - Bönens giltighet
 original_id: 1486
 description: 'Fråga: Är det tillåtet att gå direkt framför den som ber i moskén? Svar: Oberoende
  av om han tagit en sutrah eller inte är det förbjudet att gå direkt framför den

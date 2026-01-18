@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: Dalīl al-Akhta’ allati yaqa’ fiha al-Hāj wa’l-Mu’tamir
 categories:
   - Vallfärd (Hajj)
-  - Natten i Muzdalifah
+  - Muzdalifah-natten
 original_id: 1306
 description: 'Fråga: Vilka är de fel på vägen till Muzdalifah som du råder oss att
  undvika? Svar: All lovprisan tillhör Allāh. Shaykh Muḥammad ibn ´Uthaymīn har

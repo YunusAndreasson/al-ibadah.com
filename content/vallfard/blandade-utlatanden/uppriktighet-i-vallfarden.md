@@ -5,7 +5,7 @@ source: 'Fatāwa Ibn ´Uthaymīn 21/18 Muhammed Knut Bernström (1421), Koranens
  . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Vallfärd (Hajj)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 895
 description: 'Fråga: Hur kan en pilgrim vara uppriktig mot Allāh då denne utför ritualerna?
  Om denne vill göra affärer för att tjäna sitt levebröd samtidigt som denne vallfärdar,

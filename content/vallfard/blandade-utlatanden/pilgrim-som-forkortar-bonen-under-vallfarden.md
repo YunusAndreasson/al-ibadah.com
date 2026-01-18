@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 429 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 344
 description: 'Fråga: Vilket är utlåtandet om en pilgrim som förkortar bönen under
  vallfärden när han vistas i Mecka under mer än fyra dagar? Svar: Bor pilgrimen

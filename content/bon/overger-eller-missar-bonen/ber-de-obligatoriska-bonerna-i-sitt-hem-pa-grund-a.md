@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1536
 description: 'Fråga: Jag ber hemma eftersom jag är extremt blyg. Jag ber dock många
  frivilliga böner, åkallar och lovprisar Allāh. Accepteras den bön som jag ber hemma? Svar: Du

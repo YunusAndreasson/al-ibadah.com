@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 181 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 209
 description: 'Fråga: Efter att ha avslutat kvällsbönen ropade vi direkt ut iqāmah för
  nattbönen[^1]. Anledningen var att det regnade något. När vi hade bett klart frågade

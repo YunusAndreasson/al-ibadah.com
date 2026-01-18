@@ -4,7 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: al-Ladjnah ad-Dā’imah 10/140
 categories:
   - Fasta (Sawm)
-  - De som bara ber under ramadan
+  - Ramadanbedjare
 original_id: 501
 description: 'Fråga: Om någon fastar och ber enbart under ramadan, men slutar att
  be så fort ramadan är över, är dennes fasta då giltig? Svar: All lovprisan tillhör

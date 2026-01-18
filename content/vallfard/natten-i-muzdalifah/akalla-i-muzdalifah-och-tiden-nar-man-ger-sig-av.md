@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 219 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Natten i Muzdalifah
+  - Muzdalifah-natten
 original_id: 839
 description: 'Fråga: Vilket är utlåtandet om att stå i Muzdalifah [för åkallan] och
  att spendera natten där? Hur länge ska man stanna där och när ger sig pilgrimen

@@ -7,7 +7,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 245
 description: 'Fråga: Vilket är utlåtandet om att upprepa samma sura i bönen? Vilket
  är utlåtandet om att förlänga nedfallandet[^1] mer än bugningen[^1]? Vilket är utlåtandet

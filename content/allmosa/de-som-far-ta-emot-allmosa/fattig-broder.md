@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Allmosa (Zakāh)
-  - De som får ta emot allmosa
+  - Mottagare
 original_id: 633
 description: 'Fråga: Jag har en bror som är gift och fattig, och han är skyldig en
  skuld. Jag har även en syster som är gift med en fattig man som är skyldig en skuld.

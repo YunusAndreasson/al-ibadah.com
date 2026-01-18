@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 144 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Kläderna under ihrām
+  - Ihrām-kläder
 original_id: 1343
 description: 'Fråga: Om en man eller kvinna bär sandaler eller sockar under ihrām
 , oavsett om denne kände till det eller inte, gör detta då ihrām ogiltig? Svar: Det

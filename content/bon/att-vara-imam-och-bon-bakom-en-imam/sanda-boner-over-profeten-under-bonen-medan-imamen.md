@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 1492
 description: 'Fråga: Är det tillåtet att sända böner över profeten – över honom vare
  Allāhs frid och välsignelser – när imamen reciterar: ” Gud och Hans änglar välsignar

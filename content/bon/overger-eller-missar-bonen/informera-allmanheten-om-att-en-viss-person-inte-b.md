@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 357 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 314
 description: 'Fråga: Om jag känner till att någon varken ber eller nämner Allāhs
  namn och att han utöver detta gör sig skyldig till onda handlingar som leder till

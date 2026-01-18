@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 190 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 213
 description: 'Fråga: Jag bad i moskén men hann inte be med församlingen. Jag började
  då be tillsammans med några andra som hade missat bönen. Imamen reciterade då ”

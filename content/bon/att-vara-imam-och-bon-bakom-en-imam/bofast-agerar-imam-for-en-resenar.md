@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 422 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 340
 description: 'Fråga: Får en resenär ledas i bön av någon som inte reser? Får han
  när han har bett färdigt slå ihop de böner som det är tillåtet för honom att slå

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 301 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Amning och graviditet
+  - Graviditet och amning
 original_id: 455
 description: 'Fråga: Jag var gravid under ramadan så jag bröt min fasta och jag fastade
  andra dagar i stället för dessa för att uppfylla vad som krävs av mig. Jag gav också

@@ -1,11 +1,11 @@
 ---
-title: Den som hinner be gryningsbönen i Muzdalifah har inte syndat
+title: Gryningsbön i Muzdalifah vid försening
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. x s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Natten i Muzdalifah
+  - Muzdalifah-natten
 original_id: 842
 description: 'Fråga: En karavan lämnade Arafat efter solnedgången och de råkade gå
  vilse. De gick då i riktning mot Mecka och polisen hjälpte dem tillbaka till Arafat.

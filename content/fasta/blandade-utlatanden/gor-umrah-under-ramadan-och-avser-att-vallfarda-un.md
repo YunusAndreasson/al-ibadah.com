@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 740
 description: 'Fråga: Vad anser du om någon som utförde ‘umrah under den välsignade
  månaden ramadan och som sedan avsåg att vallfärda under samma år? Måste han offra

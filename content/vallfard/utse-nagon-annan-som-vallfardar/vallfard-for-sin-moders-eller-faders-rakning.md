@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa Ibn ´Uthaymīn 21/134
 categories:
   - Vallfärd (Hajj)
-  - Utse någon annan som vallfärdar
+  - Vallfärdsombud
 original_id: 891
 description: 'Fråga: [Skall man börja med att vallfärda för modern om man har både
  en fader och moder och man har vallfärdat själv?] Svar: Vallfärda först för

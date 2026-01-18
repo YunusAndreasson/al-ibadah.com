@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Vallfärd (Hajj)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 705
 description: 'Fråga: Vissa tränger sig avsiktligen när de utför vissa riter under
  vallfärden. Är deras vallfärd korrekt? Svar: Deras vallfärd blir inte ogiltig

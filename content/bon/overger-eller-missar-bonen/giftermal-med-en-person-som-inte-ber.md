@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1219
 description: 'Fråga: En man friade till en annan mans dotter men när de förhörde
  sig om honom blev det uppenbart att han inte bad. Får dottern gifta sig med denne

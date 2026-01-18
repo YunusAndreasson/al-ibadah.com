@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 150 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Förbjudna saker under ihrām
+  - Ihrām-förbud
 original_id: 778
 description: 'Fråga: Jag utförde den obligatoriska vallfärden och under en natt i
  Mina hade jag en våt dröm och jag kunde inte ta ett bad. Har jag då syndat? Svar: Den

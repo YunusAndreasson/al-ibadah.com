@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa al-Marah
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 592
 description: 'Fråga: Jag har mött många motgångar i detta liv, vilket har fått mig
  att hata det. Varje gång jag vänder mig till Allāh, ber jag Honom att han ska

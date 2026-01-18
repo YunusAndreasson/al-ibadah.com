@@ -2,7 +2,7 @@
 title: Bygga moskéer för allmosepengar
 categories:
   - Allmosa (Zakāh)
-  - De som får ta emot allmosa
+  - Mottagare
 original_id: 1028
 description: 'Fråga: Gäller Allāh den Upphöjdes ord: ” Och för Guds sak .” [Koranen
  9:60] om man spenderar allmosan på att bygga moskéer? Svar: Att bygga moskéer

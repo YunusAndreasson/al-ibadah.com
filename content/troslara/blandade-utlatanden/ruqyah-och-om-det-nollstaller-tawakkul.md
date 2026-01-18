@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 99 s. ISBN 9960-892-66-2'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1078
 description: 'Fråga: Gör ruqyah ens tawakkul ogiltig? Svar: Tawakkul är
  att ha en uppriktig tilltro till att Allāh den Allsmäktige hjälper en och skyddar

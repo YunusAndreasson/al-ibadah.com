@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 266 s. ISBN 9960-892-66-2'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1201
 description: 'Fråga: En man bodde i ett hus och han led av sjukdomar och olyckor.
  Detta fick till följd att han och hans familj kände att huset var fullt av dåliga

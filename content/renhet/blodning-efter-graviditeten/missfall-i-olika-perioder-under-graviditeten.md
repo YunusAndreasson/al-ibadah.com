@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 118 s. ISBN saknas'
 categories:
   - Renhet (Tahārah)
-  - Blödning efter graviditeten
+  - Efterblödning
 original_id: 173
 description: 'Fråga: En del kvinnor får missfall under graviditeten; vissa när fostret
  är fullt utvecklat och andra när det inte är det. Jag ber om ett klargörande om

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 265 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 423
 description: 'Fråga: Får en kock smaka sin mat för att säkerställa att den smakar
  rätt? Detta samtidigt som kocken fastar. Svar: Det är ingen fara att smaka maten

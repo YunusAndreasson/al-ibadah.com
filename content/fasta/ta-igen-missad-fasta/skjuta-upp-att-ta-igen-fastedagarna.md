@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 310 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Ta igen missad fasta
+  - Ikappfasta
 original_id: 463
 description: 'Fråga: Jag drabbades av en allvarlig sjukdom för ungefär fem år sedan
  och det inträffade under den välsignade månaden ramadan. Därmed hade jag inte möjlighet

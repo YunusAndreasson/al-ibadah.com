@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 337 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 307
 description: 'Fråga: Iqāmah ropades ut för nattbönen[^1] och radens högra sida fylldes.
  På den vänstra sidan fanns det endast ett fåtal personer. Vi sade då: ”Gör raden

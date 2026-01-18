@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Liba
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1678
 description: 'Fråga: Vänligen, förklara innebörden i denna vers: ” Om du frågade
  [dem vad de menade med vad de sade] skulle det säkert svara: ”Vi bara skämtade.”

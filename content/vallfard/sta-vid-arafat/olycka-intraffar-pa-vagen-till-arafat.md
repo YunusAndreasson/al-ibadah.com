@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 267 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Stå vid Arafat
+  - Arafat
 original_id: 865
 description: 'Fråga: Den sjunde i thul-hijjah begav jag mig till Huset och jag
  utförde riterna för ‘umrah . Sedan begav jag mig till Mina och vi bad de fem obligatoriska

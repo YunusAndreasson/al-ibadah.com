@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 213 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Stå vid Arafat
+  - Arafat
 original_id: 836
 description: 'Fråga: När beger sig en pilgrim [under vallfärden] till Arafat och
  när beger han sig därifrån? Svar: Det är föreskrivet att bege sig dit efter

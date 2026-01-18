@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 53 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 1071
 description: 'Fråga: Bevisas en mans tro genom att han besöker moskén? Detta ska
  ha nämnts i en hadīth . Svar: Ja, det råder inga tvivel om att någons närvaro

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 242 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Vem som måste fasta
+  - Fasteplikt
 original_id: 400
 description: 'Fråga: Det finns en ung flicka som är tolv eller tretton år gammal.
  Den välsignade ramadan har gått till sin ända men hon har inte fastat. Har hon eller

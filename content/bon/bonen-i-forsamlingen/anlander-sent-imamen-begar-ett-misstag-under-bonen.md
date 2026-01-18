@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 187 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 210
 description: 'Fråga: Om en muslim kommer när imamen bad och han lyckades göra den
  andra bönecykeln med imamen, men imamen sedan begick ett misstag i bönen och han

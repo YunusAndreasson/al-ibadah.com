@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 228 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Natten i Mina
+  - Mina-natten
 original_id: 847
 description: 'Fråga: Om en pilgrim inte kan finna en plats under dagarna och nätterna
  för at-Tashr i Mina, vilket är då utlåtandet? Svar: Om de inte kunde finna en

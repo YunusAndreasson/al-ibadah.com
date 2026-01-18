@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 281 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Vem som får bryta fastan
+  - Undantag från fasta
 original_id: 437
 description: 'Fråga: Det finns en person som lider av tuberkulos och det är svårt
  för honom att fasta under ramadan. Förra ramadan fastade han inte och undrar nu

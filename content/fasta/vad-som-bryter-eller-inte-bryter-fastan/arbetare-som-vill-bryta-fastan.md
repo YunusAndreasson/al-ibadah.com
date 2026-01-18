@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 288 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 442
 description: 'Fråga: Under den välsignade fastemånaden hörde jag en fredagspredikant
  i moskén ge tillstånd till de anställda som har ett ansträngande arbete och som

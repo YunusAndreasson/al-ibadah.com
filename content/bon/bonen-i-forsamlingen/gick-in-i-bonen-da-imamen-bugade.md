@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 196 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 1488
 description: 'Fråga: En troende kom för sent till bönen och fann att imamen bugade.
  Han gjorde då takbīr och bugade tillsammans med honom innan imamen rest sig upp

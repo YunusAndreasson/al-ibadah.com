@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 460 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1546
 description: 'Fråga: Jag hann inte be hela fredagsbönen med imamen – är bönen giltig
  då? Svar: Den som har bett mindre än en bönecykel av fredagsbönen har missat

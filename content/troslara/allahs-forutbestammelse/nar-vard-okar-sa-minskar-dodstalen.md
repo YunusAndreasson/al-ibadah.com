@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Allāhs förutbestämmelse
+  - Förutbestämmelsen
 original_id: 61
 description: 'Fråga: I en artikel publicerad i ett magasin har jag läst följande
  uttalande: "Det råder inga tvivel om, vilket har förklarats tidigare, att desto

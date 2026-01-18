@@ -4,7 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah, 11/171
 categories:
   - Vallfärd (Hajj)
-  - Kläderna under ihrām
+  - Ihrām-kläder
 original_id: 510
 description: 'Fråga: Varför bär en pilgrim särskilda kläder under pilgrimsfärden? Svar: All
  lovprisan tillhör Allāh. Allāh har genom Sin profets läppar kommenderat oss att

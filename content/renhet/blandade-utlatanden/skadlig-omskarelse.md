@@ -5,7 +5,7 @@ source: Kitāb Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shay
  ‘Abd al-‘Azīz ibn ‘Abd-Allāh ibn Bāz
 categories:
   - Renhet (Tahārah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1282
 description: 'Fråga: Vilket är utlåtandet om omskärelse? Vad finns det att säga om
  dem som flår hela mannens könsorgan? Svar: Omskärelse är ett av karaktärsdragen

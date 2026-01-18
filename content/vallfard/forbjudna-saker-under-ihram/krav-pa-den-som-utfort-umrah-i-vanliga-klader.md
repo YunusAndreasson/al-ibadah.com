@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 143 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Förbjudna saker under ihrām
+  - Ihrām-förbud
 original_id: 776
 description: 'Fråga: Jag utförde ‘umrah under början av ramadan detta år. Jag stannade
  i ungefär femton dagar och sedan utförde jag en ‘umrah till i mina vanliga kläder.

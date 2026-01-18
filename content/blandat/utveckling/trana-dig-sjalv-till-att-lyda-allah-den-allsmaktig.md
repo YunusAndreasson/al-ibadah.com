@@ -1,6 +1,5 @@
 ---
-title: Träna dig själv till att lyda Allāh den Allsmäktige och straffet för att inte
- be
+title: Träning i lydnad och bönens vikt
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
  Libanon: Maktaba Dar us-Salam. 264 s. ISBN saknas'

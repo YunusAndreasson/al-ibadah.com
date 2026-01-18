@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 120 s. ISBN saknas'
 categories:
   - Renhet (Tahārah)
-  - Blödning efter graviditeten
+  - Efterblödning
 original_id: 1454
 description: 'Fråga: Vad gäller om en kvinnas normala månadsblödning är sju eller
  åtta dagar och den ibland fortsätter ännu längre än detta? Svar: Om en kvinnas

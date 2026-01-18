@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 275 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Glömska och dålig koncentration
+  - Koncentration i bönen
 original_id: 274
 description: 'Fråga: Jag har i vissa islamiska lagböcker läst att om bönen har förrättats
  och tjänaren tvekar om antalet bönecykler, då är bönen ogiltig. I andra böcker står

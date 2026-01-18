@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 389 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 322
 description: 'Fråga: Får den som inte har bett under flera år ta igen bönerna? Hur
  gör han när han ska ta igen dem? Svar: När någon överger bönen under ett antal

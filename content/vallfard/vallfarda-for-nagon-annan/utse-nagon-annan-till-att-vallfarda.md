@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 69 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Vallfärda för någon annan
+  - Ställföreträdande vallfärd
 original_id: 725
 description: 'Fråga: En man bestämde sig för att spendera i välgörenhet och vallfärda
  för sin mor och fader. Sedan gav han pengarna, som skulle vara för faderns vallfärd,

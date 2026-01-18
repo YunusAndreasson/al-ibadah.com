@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1066
 description: 'Fråga: Vilka är ahlus-sunnah wal-jamā’ats grundläggande trosprinciper? Svar: Ahlus-sunnah
  wal-jamā’ats grundsats när det gäller trosprincipiella frågor, och andra frågor

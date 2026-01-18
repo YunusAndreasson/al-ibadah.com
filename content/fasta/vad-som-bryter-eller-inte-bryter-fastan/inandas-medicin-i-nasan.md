@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 269 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 1398
 description: 'Fråga: Det finns en medicin som de med astma tar genom inhalering.
  Bryter detta fastan? Svar: Medicinen för astma som sjuka använder genom inhalering

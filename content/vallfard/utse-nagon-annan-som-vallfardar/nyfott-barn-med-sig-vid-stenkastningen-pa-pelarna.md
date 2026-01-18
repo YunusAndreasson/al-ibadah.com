@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 165 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Utse någon annan som vallfärdar
+  - Vallfärdsombud
 original_id: 792
 description: 'Fråga: En kvinna vallfärdade och klarade av alla riterna, utom att
  kasta sten på pelarna. Då hon hade ett nyfött barn med sig utsåg hon någon till

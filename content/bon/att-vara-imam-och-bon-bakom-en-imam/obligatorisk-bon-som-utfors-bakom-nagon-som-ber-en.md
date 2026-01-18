@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 455 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 940
 description: 'Fråga: Vilket är utlåtandet om att be en obligatorisk bön bakom någon
  som ber en frivillig, likt någon som ber nattbönen[^1] bakom dem som ber tarāwīh? Svar: Det

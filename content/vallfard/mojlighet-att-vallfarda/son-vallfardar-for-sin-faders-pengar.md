@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 57 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Möjlighet att vallfärda
+  - Vallfärdsplikt
 original_id: 714
 description: 'Fråga: Jag har en son som är runt tjugo år gammal. Jag har en bil men
  jag kan inte köra och min son är den som kör. Jag skulle vilja vallfärda med min

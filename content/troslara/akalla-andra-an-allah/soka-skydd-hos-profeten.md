@@ -5,7 +5,7 @@ source: 'Majmū’ Fatāwa al-shaykh Muḥammad ibn ‘Uthaymīn, 3/70 Muhammed 
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Åkalla andra än Allāh
+  - Gravdyrkan
 original_id: 532
 description: 'Fråga: Vilken är er åsikt om den som säger: ”Jag tror på Allāh. Jag
  sätter min tillit till Allāh. Jag litar på Allāh. Jag söker Allāhs sändebuds skydd”? Svar: Om

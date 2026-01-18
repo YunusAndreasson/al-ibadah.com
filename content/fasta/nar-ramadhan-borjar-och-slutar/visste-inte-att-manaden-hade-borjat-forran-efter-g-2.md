@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 239 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - När ramadan börjar och slutar
+  - Ramadans datum
 original_id: 1392
 description: 'Fråga: Vilket är utlåtandet om fastan för den som inte fick reda på
  att ramadan hade börjat förrän efter gryningsbönen? Detta på grund av sömn eller

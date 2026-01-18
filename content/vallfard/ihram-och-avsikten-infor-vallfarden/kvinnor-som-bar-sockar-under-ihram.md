@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 131 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Ihrām och avsikten inför vallfärden
+  - Ihrām och avsikt
 original_id: 767
 description: 'Fråga: Jag bär svarta sockar i ihrām för att mina fötter ska vara
  täckta. Jag utför tawāf och ber i dem. Det har sagts till mig att detta gör min ihrām ogiltig

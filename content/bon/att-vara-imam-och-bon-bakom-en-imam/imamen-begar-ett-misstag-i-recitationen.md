@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 420 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 336
 description: 'Fråga: Om imamen begår ett misstag i bönen som är med höjd röst – han
  kanske glömmer en vers eller kastar om några ord av misstag – bör de som han leder

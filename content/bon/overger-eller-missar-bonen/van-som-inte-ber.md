@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Liba
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1697
 description: 'Fråga: Jag har en vän som är mig mycket kär och som har en mycket hög
  och ädel karaktär. Hans problem är dock att han inte ber. Som jag har sagt älskar

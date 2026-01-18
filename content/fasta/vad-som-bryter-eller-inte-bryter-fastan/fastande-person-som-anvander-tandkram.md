@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 262 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 1397
 description: 'Fråga: Får den fastande använda tandkräm dagtid medan denne fastar
  under ramadan? Svar: Det är ingen fara så länge man är noggrann med att inte

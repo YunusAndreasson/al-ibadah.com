@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 385 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1218
 description: 'Fråga: Någon stannar uppe under natten och lyckas inte att be gryningsbönen
  förrän efter den utsedda tiden. Accepteras detta från denne? Svar: Skjuter han

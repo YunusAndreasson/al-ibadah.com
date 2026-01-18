@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Allāhs förutbestämmelse
+  - Förutbestämmelsen
 original_id: 1581
 description: 'Fråga: Kan ni förklara det förutbestämda? […] Svar: Det förutbestämda
  har varit en källa till tvister under en lång tid. Därför har människor delat sig

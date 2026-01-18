@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  2. Libanon: Makbtaba Dar us-Salam. 464 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 1222
 description: 'Fråga: Vilket är utlåtandet om att placera den högra handen över den
  vänstra, på bröstet eller över hjärtat? Vilket är utlåtandet om att placera händerna

@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Allāhs förutbestämmelse
+  - Förutbestämmelsen
 original_id: 85
 description: 'Fråga: Varför tynger Allāh de troende som strävar i dyrkan med sjukdomar
  och prövningar, medan de olydiga njuter av livets goda? Svar: Det finns två

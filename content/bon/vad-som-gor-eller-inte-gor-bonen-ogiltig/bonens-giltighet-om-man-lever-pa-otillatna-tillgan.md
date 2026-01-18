@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Vad som gör eller inte gör bönen ogiltig
+  - Bönens giltighet
 original_id: 192
 description: 'Fråga: Jag är en ung arbetslös muslimsk man och min familj betalar
  mina omkostnader, men detta sker från otillåtna källor. Accepteras min bön då? Svar: Du

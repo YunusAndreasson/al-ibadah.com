@@ -1,12 +1,12 @@
 ---
-title: Fastande som är lat med att utföra bönen
+title: Lathet med bönen och fastan
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 245 s. ISBN saknas Muhammed Knut Bernström (1421),
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - De som bara ber under ramadan
+  - Ramadanbedjare
 original_id: 1575
 description: 'Fråga: En del unga män – må Allāh vägleda dem – latar sig med bönen,
  både under ramadan och under andra tillfällen. Däremot är de mycket noga med fastan.

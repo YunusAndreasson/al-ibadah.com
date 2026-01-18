@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  2. Libanon: Makbtaba Dar us-Salam. 670 s. ISBN 9960-892-66-2'
 categories:
   - Fasta (Sawm)
-  - Bryta och påbörja fastan
+  - Fastebrytare
 original_id: 1266
 description: Fråga. Finns det någon åkallan rapporterad från profeten – över honom
  vare Allāhs frid och välsignelser – och följeslagarna som man kan läsa när man bryter

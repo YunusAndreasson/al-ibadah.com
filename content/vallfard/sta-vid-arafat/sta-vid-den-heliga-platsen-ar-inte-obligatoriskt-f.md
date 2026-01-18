@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 226 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Stå vid Arafat
+  - Arafat
 original_id: 845
 description: 'Fråga: Efter Arafat under min vallfärd detta år så begav jag mig till
  Muzdalifah och spenderade natten där. Jag glömde dock att gå till al-Mash''aril-Harām.

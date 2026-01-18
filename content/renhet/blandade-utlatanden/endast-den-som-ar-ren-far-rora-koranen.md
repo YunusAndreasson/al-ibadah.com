@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Liba
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
   - Renhet (Tahārah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1667
 description: 'Fråga: Vilket är utlåtandet om någon som rör mushaf utan att ha tvagat
  sig för att läsa den eller flytta den till en annan plats? Min fråga gäller

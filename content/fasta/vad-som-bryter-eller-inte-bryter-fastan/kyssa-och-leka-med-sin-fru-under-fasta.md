@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa Ramadan – Volume 2, Page 454, Fatwa No.383
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 1375
 description: 'Fråga: Får den som fastar kyssa sin fru och leka med henne i sängen
  under ramadan? Svar: Ja, den som fastar får kyssa sin fru och leka med henne

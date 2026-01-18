@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 78 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Vallfärda för någon annan
+  - Ställföreträdande vallfärd
 original_id: 1327
 description: 'Fråga: All lovprisan tillhör Allāh. Vi beger oss till Mecka varje år
  för att utföra ‘umrah under den välsignade månaden ramadan. När vi ger oss av

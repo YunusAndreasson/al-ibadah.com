@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 335 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+  - Frivillig fasta
 original_id: 1417
 description: 'Fråga: Behöver man fasta de sex dagarna i shawwal i rad? Svar: Sexdagarsfastan
  under shawwal är en bekräftad sunnah från Allāhs sändebud. Det är tillåtet att

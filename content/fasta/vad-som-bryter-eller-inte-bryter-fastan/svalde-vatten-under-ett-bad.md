@@ -5,7 +5,7 @@ source: Majmū' Fatāwa ash-shaykh ´Abdul-´Azīz bin ´Abdullāh bin Bāz – 
  252
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 1378
 description: 'Fråga: En man som fastade tog ett bad och med anledning av det starka
  trycket under vatten slutade det med att han svalde vatten, men han hade inte avsikten

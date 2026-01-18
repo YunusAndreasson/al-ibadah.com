@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 128 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Kläderna under ihrām
+  - Ihrām-kläder
 original_id: 766
 description: 'Fråga: Är det tillåtet att byta klädesplagg för ihrām för att tvätta
  dem? Svar: Det finns inget skadligt i att tvätta ihrām -kläderna och det finns

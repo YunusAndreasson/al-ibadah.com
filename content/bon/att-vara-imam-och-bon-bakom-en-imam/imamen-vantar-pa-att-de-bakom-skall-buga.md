@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 325 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 305
 description: 'Fråga: Måste imamen vänta om han hör några eftersläntrare komma springande
  under bugningen eller tashahhud? Svar: Det är bättre att inte brådska. Det

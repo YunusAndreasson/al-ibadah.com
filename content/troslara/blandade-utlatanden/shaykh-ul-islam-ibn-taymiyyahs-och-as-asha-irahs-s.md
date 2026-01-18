@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1173
 description: 'Fråga: I vissa länder lär sig eleverna i de islamiska skolorna att ahlus-sunnah
  wal-jamā’ats synsätt är: Att tro på Allāhs den Upphöjdes namn och egenskaper utan

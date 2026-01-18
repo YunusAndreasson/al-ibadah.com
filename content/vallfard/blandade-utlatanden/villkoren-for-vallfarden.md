@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 35 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 701
 description: 'Fråga: Vad finns det för villkor för vallfärden? Svar: Villkoren
  för att vallfärden ska vara en skyldighet är fem: islam, mental

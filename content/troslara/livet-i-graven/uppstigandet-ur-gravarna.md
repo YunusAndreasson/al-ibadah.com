@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Livet i graven
+  - Gravlivet
 original_id: 26
 description: 'Fråga: Hur ska människor komma upp ur deras gravar på Återuppståndelsens
  Dag? Vem kommer att vara den förste som kläs? Svar: Allāh den Upphöjde kommer

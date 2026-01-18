@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  2. Libanon: Makbtaba Dar us-Salam. 534 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 1235
 description: 'Fråga: Vilket är utlåtandet om att röra sig före imamen? Svar: Det
  är inte tillåtet att röra sig före imamen, enligt profetens – över honom vare Allāhs

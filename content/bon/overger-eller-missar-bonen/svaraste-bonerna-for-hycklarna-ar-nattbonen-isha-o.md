@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1518
 description: 'Fråga: Går det bra att sova över gryningsbönen och bör man be den när
  man vaknar, enligt Sändebudets ord: ” Den som sover över en bön eller glömmer den

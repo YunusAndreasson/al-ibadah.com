@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 170 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Riterna under vallfärden
+  - Vallfärdsriter
 original_id: 1347
 description: 'Fråga: Vad är bäst för en pilgrim under vallfärden i fråga om vad denne
  ska göra under offerdagen [ ‘eid den tionde i thul-hijjah]? Är det tillåtet att

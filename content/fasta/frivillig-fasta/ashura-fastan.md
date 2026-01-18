@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  2. Libanon: Makbtaba Dar us-Salam. 676 s. ISBN 9960-892-66-2'
 categories:
   - Fasta (Sawm)
-  - Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+  - Frivillig fasta
 original_id: 1269
 description: 'Fråga: Vilket är utlåtandet om att fasta under ‘ashura’ -dagen? Svar: När
  profeten – över honom vare Allāhs frid och välsignelser – kom till Medina fann han

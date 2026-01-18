@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 133 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Kläderna under ihrām
+  - Ihrām-kläder
 original_id: 769
 description: 'Fråga: Vilka är de saker som en muhrim måste undvika? Svar: En muhrim måste
  undvika nio förbjudna saker som de lärde har förklarat. De är: klippa håret, klippa

@@ -4,7 +4,7 @@ author: Dr. Salih Ibn Fowzan Ibn ´Abdullah Ibn Fowzan
 source: Fatāwa Ramadan – volym 2, sida 467, fatwa 405
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 1372
 description: 'Fråga: Bryts fastan om man donerar blod under ramadan? Svar: Ja!
  Om man donerar mycket blod, då bryts fastan och det klassas på ungefär samma sätt

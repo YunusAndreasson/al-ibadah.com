@@ -1,5 +1,5 @@
 ---
-title: Månadsblödningen brukade vara under sex dagar men ökade sedan
+title: Förlängd menstruationsperiod
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 370 s. ISBN 9960-892-66-2 Muhammed Knut Bernström

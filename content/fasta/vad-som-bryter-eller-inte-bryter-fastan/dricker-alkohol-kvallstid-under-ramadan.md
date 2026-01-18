@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 407
 description: 'Fråga: Det finns en person som har prövats genom alkohol. Detta till
  den grad att denne till och med dricker under ramadan. Vilket är utlåtandet om dennes

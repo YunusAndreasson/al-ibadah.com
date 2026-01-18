@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 477 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 956
 description: 'Fråga: Somliga lägger till orden ” wash-shukr ” efter att ha sagt ”
  Rabbana wa lakal-hamd ”. Vilken är er åsikt i denna fråga? Svar: Det råder inga

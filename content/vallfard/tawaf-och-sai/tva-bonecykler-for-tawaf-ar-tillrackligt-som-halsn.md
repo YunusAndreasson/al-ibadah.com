@@ -1,5 +1,5 @@
 ---
-title: Två bönecykler för tawāf är tillräckligt som hälsningsbönen till moskén
+title: Tawāf-bönen som hälsningsbön
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
  Libanon: Maktaba Dar us-Salam. 173 s. ISBN saknas'

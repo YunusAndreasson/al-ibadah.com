@@ -7,7 +7,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 1491
 description: 'Fråga: När imamen har reciterat al-Fātihah i bön med höjd röst hör
  jag att vissa recitera al-Fātihah. Men jag hör också att de reciterar ännu en kort

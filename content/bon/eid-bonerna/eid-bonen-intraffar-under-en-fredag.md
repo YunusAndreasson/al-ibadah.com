@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 453 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - '''Eid-bönerna'
+  - Eid-bönerna
 original_id: 353
 description: 'Fråga: Två ‘eid inträffar under samma dag – fredag och ‘eid al-adhā
  . Vad gör man i så fall? Svar: Den som bad ‘eid under fredagen behöver inte

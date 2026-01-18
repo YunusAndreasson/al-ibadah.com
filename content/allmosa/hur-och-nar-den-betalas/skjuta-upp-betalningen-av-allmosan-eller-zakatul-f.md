@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 205 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
-  - Hur och när den betalas
+  - Betalningstid
 original_id: 652
 description: 'Fråga: Är det tillåtet att behålla ens allmosa eller zakātul-fitr för
  att betala dem till någon fattig som man inte har haft möjlighet att komma i kontakt

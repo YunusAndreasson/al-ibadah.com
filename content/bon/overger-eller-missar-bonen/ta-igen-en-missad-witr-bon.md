@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 315 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1516
 description: 'Fråga: Om jag sover över witr -bönen och inte ber den under natten,
  kan jag då ta igen den och när gör jag i så fall det? Svar: Sunnah är att

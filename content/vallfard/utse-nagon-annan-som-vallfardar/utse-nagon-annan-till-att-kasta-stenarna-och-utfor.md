@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 166 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Utse någon annan som vallfärdar
+  - Vallfärdsombud
 original_id: 794
 description: 'Fråga: Vilket är utlåtandet om en person som utser någon annan som
  kastar sten på pelarna under den andra dagen [under ayyām at-tashrīq ]? Vilket

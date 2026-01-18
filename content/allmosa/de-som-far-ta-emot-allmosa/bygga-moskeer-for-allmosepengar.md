@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Allmosa (Zakāh)
-  - De som får ta emot allmosa
+  - Mottagare
 original_id: 1017
 description: 'Fråga: Vilket är utlåtandet om att betala allmosa för att bygga moskéer?
  Vem är faqir? Svar: Det är inte tillåtet att använda allmosa till något annat

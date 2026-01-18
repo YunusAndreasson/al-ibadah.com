@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 346 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Vad som gör eller inte gör bönen ogiltig
+  - Bönens giltighet
 original_id: 1527
 description: 'Fråga: Vilket är utlåtandet om att be i trädgårdar? Svar: Så länge
  det kommer en dålig lukt från dem, då är bön i dem inte giltig. En av grunderna

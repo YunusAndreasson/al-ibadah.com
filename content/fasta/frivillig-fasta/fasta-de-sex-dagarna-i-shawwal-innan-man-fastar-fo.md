@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 338 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+  - Frivillig fasta
 original_id: 482
 description: 'Fråga: En man behövde fasta två på varandra efterföljande månader för
  att gottgöra sig och han ville [även] fasta de sex dagarna under shawwal. Kan han

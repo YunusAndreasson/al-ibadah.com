@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 663 s. ISBN 9960-892-66-2'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 1054
 description: 'Fråga: Om en fastande har en våt dröm under fastan, är den giltig då? Svar: Ja,
  fastan är giltig. En våt dröm gör den inte ogiltig. Anledningen är att detta inträffar

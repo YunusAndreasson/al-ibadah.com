@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 163 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 1474
 description: 'Fråga: Får man börja be tillsammans med någon som ber ensam? Svar: Ja,
  det är tillåtet. Detta grundas på en återberättelse från Ibn ‘Abbās i vilken han

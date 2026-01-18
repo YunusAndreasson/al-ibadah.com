@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 276 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 1400
 description: 'Fråga: Om en ung eller gammal man kysser sin fru medan denne fastar,
  har denne då syndat? Svar: Den fastande har inte syndat genom att kyssa sin

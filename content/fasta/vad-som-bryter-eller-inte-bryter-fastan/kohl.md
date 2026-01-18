@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 647 s. ISBN 9960-892-66-2'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 1044
 description: 'Fråga: Vilket är utlåtandet om att en fastande använder kohl? Svar: Det
  finns ingen invändan mot att en fastande använder kohl, ögondroppar eller näsdroppar. Även

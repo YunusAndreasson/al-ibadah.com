@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 118 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Ihrām och avsikten inför vallfärden
+  - Ihrām och avsikt
 original_id: 758
 description: 'Fråga: Vilket är utlåtandet om att träda in i ihrām före mīqāt och
  är ihrām för vallfärden uppfylld om man har trätt in i den före vallfärdsmånaderna? Svar: Det

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 258 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Bryta och påbörja fastan
+  - Fastebrytare
 original_id: 413
 description: 'Fråga: I Skandinavien och norrut så får muslimerna där problem när
  nätterna och dagarna är mycket långa eller mycket korta. Ibland varar dagen under

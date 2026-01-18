@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1523
 description: 'Fråga: Det finns en muslim som ber i sitt hem. Han påstår att hans
  tro är stark men han går endast till moskén på fredagar. Skall de i moskén be begravningsbönen

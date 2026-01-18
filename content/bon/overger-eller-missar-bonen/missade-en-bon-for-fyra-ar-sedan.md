@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 376 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1532
 description: 'Fråga: För fyra år sedan var vi på en nöjesresa och jag missade en
  bön. Antingen var det middagsbönen eller eftermiddagsbönen – jag kommer inte ihåg

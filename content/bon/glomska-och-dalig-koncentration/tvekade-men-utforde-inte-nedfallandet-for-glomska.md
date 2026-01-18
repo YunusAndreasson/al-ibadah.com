@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 278 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Glömska och dålig koncentration
+  - Koncentration i bönen
 original_id: 276
 description: 'Fråga: Om jag kände tveksamheter i fråga om bönen och jag inte gjorde
  nedfallandet för glömska[^1], är min bön då ogiltig? Detta med vetskap om att jag inte

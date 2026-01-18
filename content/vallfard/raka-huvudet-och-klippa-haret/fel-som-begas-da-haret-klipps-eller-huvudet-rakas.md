@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: Dalīl al-Akhta’ allati yaqa’ fiha al-Hāj wa’l-Mu’tamir
 categories:
   - Vallfärd (Hajj)
-  - Raka huvudet och klippa håret
+  - Hårklippning
 original_id: 1303
 description: 'Fråga: Vilka är de misstag som begås när pilgrimer rakar huvudet eller
  klipper håret? Svar: All lovprisan tillhör Allāh. Bland de misstag som begås

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 108 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Riterna under vallfärden
+  - Vallfärdsriter
 original_id: 751
 description: 'Fråga: Jag utförde den obligatoriska vallfärden men jag gjorde inte ‘umrah tillsammans
  med den. Har jag då syndat? Och den som utför ‘umrah tillsammans med vallfärden,

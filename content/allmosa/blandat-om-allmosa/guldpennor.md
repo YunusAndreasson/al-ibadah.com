@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 202 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
-  - Blandat om allmosa
+  - Övrigt
 original_id: 649
 description: 'Fråga: En gåva kom till mig i form av en guldpenna. Vilket är utlåtandet
  om att använda den? Skall man betala allmosa för pennor? Vänligen, hjälp mig med

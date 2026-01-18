@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 224 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - När ramadan börjar och slutar
+  - Ramadans datum
 original_id: 1390
 description: 'All lovprisan tillhör Allāh och må välsignelser och frid vara över Allāhs
  sändebud, hans familj och hans följeslagare och de som följer hans vägledning. Vidare: Många

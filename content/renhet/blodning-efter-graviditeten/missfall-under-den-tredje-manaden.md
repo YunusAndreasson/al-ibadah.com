@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Renhet (Tahārah)
-  - Blödning efter graviditeten
+  - Efterblödning
 original_id: 1456
 description: 'Fråga: Jag är en kvinna som för ett år sedan fick missfall i den tredje
  månaden. Jag bad inte förrän jag hade blivit ren, men det har sagts till mig att

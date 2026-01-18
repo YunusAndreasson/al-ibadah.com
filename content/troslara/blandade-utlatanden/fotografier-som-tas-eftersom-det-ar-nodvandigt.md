@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Liba
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1648
 description: 'Fråga: Vilket är utlåtandet om fotografier som används på grund av
  att det är nödvändigt? Svar: Bilder av vad som är levande (människor och djur)

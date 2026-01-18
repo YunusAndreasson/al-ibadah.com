@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 476 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 954
 description: 'Fråga: Om man missar en bönecykel i gryningsbönen, bör man då slutföra
  den genom att recitera med höjd röst? Svar: Man avgör själv. Det är dock bättre

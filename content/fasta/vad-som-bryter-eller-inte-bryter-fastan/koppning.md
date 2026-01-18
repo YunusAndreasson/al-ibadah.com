@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 273 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 1399
 description: 'Fråga: Profeten – över honom vare Allāhs frid och välsignelser – har
  sagt: ” Den som koppar och den som blir koppad bryter båda fastan .” [ Abū Dawūd 2367]

@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 321
 description: 'Fråga: Allāh den Upphöjde säger: ” Troende! Gå inte till bön om ni
  befinner er i omtöcknat tillstånd, [utan vänta] till dess ni vet vad ni säger .”

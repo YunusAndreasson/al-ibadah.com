@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 190 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
-  - De som får ta emot allmosa
+  - Mottagare
 original_id: 636
 description: 'Fråga: Jag har en syster som är gift och hon är en bra kvinna. Får
  jag ge en del av min allmosa till henne för att göra det bättre för henne och hennes

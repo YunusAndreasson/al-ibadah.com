@@ -5,7 +5,7 @@ source: I’lām al-Musāfirīn bi Ba’d Ādāb wa Ahkām al-Safar wa mā yakhu
  al-Jawwiyyīn av shaykh Muḥammad ibn Sālih al-‘Uthaymīn, s. 14
 categories:
   - Renhet (Tahārah)
-  - Stryka över sockar
+  - Mash över sockar
 original_id: 1313
 description: 'Fråga: Vad finns det för villkor för att stryka över strumporna? Var
  snäll och ge bevisen för det. Svar: All lovprisan tillhör Allāh. Fyra villkor

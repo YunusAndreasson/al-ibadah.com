@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa Ibn ´Uthaymīn 21/13
 categories:
   - Vallfärd (Hajj)
-  - Möjlighet att vallfärda
+  - Vallfärdsplikt
 original_id: 888
 description: 'Fråga: Innebär kommenderingen att vallfärda att man måste göra det
  direkt eller kan man göra det när man har tillfälle? Svar: Den korrekta åsikten

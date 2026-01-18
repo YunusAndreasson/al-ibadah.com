@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 312 s. ISBN 9960-892-66-2'
 categories:
   - Renhet (Tahārah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1117
 description: 'Fråga: Vilket är utlåtandet om att urinera ståendes? Svar: Att
  urinera ståendes är tillåtet under två villkor: Att man inte riskerar att

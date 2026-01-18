@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 291 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Tider då det är förbjudet att be
+  - Förbjudna bönetider
 original_id: 284
 description: 'Fråga: Under vilka tidpunkter är det förbjudet att be? Svar: Tiderna
  då det är förbjudet att be är: då soluppgången har börjat tills solen har stigit

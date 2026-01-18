@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 338 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 308
 description: 'Fråga: Skall raderna börja bakom imamen eller till höger? Svar: Den
  första raden börjar bakom imamen och fylls sedan till höger och vänster, inte längst

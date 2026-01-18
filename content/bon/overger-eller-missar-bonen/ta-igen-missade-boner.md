@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 140 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 186
 description: 'Fråga: Hur tar man igen missade böner? Svar: Har du med en giltig
  ursäkt missat några böner, som sjukdom eller medvetslöshet, då måste du ta igen

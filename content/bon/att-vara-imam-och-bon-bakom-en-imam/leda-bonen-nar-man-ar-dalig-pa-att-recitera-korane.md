@@ -5,7 +5,7 @@ source: 'Majmū al-Fatāqa wal-Maqālāt al-Mutanawwi''ah – volym 12, sida 96 
  Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 580
 description: 'Fråga: Jag är imam vid en moské i en av Riyadhs förorter. Mitt problem
  är att min tajwīd är dålig och under läsning gör jag många misstag. Bör jag fortsätta

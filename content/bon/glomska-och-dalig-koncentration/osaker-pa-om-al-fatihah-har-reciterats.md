@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 270 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Glömska och dålig koncentration
+  - Koncentration i bönen
 original_id: 272
 description: 'Fråga: Under min bön glömde jag om jag hade reciterat al-Fātihah. Bör
  jag nedfalla för glömska[^1] då? Vad reciterar man under denna nedfallan[^1]? Om jag är

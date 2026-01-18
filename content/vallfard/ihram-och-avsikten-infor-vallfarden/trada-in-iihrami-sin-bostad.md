@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 124 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Ihrām och avsikten inför vallfärden
+  - Ihrām och avsikt
 original_id: 1340
 description: 'Fråga: Förra året åkte jag till Jiddah för att besöka några släktingar
  och efter att ha stannat där några dagar utformade jag avsikten för att vallfärda.

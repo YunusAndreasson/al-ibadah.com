@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 64 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Vallfärda för någon annan
+  - Ställföreträdande vallfärd
 original_id: 1324
 description: 'Fråga: Det finns en frisk man som har utsett en annan man till att
  vallfärda för honom. Är denna vallfärd giltig? Svar: För den som kan vallfärda

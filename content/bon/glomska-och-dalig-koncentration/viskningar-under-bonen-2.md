@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 189 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Glömska och dålig koncentration
+  - Koncentration i bönen
 original_id: 211
 description: 'Fråga: Mitt problem är att när jag går in i moskén och vänder mig mot qiblah
 , för att sedan göra öppnings- takbīr, då går jag tillbaka i mina tankar och blir

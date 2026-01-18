@@ -1,5 +1,5 @@
 ---
-title: Antalet bönecykler som bes i tarāwīh-bönen
+title: Antalet bönecykler i tarāwīh-bönen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 509 s. ISBN 9960-892-66-2'

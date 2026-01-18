@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 379 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1530
 description: 'Fråga: Mitt problem kan sammanfattas på följande sätt: Min man är alkoholist
  och varken ber eller fastar under ramadan. Han varit arbetslös under flera år. Jag

@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 311 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Ta igen missad fasta
+  - Ikappfasta
 original_id: 464
 description: 'Fråga: En kvinna fastade inte under ramadan år 1382 AH och hon hade
  en riktig ursäkt som var att hon ammade ett spädbarn. Nu har barnet vuxit upp och

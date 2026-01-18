@@ -5,7 +5,7 @@ source: 'Majmū Fatāwa al-shaykh Ibn ‘Uthaymīn, vol. 2. Muhammed Knut Bernst
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Allāhs förutbestämmelse
+  - Förutbestämmelsen
 original_id: 528
 description: 'Fråga: Har människan en fri vilja eller följer vi en väg som Allāh
  har stakat ut? Svar: Frågeställaren bör fråga sig om någon tvingade honom att

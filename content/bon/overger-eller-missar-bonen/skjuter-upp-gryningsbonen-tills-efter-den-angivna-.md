@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1151
 description: 'Fråga: Vilket är utlåtandet om den som skjuter upp gryningsbönen till
  efter den utsedda tiden? Svar: Den som skjuter upp gryningsbönen till efter

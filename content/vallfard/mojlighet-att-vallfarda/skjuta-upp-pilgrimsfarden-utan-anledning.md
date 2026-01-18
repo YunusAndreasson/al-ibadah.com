@@ -6,7 +6,7 @@ source: 'Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh ‘
  ISBN 91-7118-887-8'
 categories:
   - Vallfärd (Hajj)
-  - Möjlighet att vallfärda
+  - Vallfärdsplikt
 original_id: 523
 description: 'Fråga: Vilket är utlåtandet om den som utan anledning skjuter upp pilgrimsfärden?
  Denne har möjlighet att utföra den. Svar: All lovprisan tillhör Allāh och må

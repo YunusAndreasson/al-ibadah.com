@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 240 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 251
 description: 'Fråga: Jag är en ung tjej som med anledning av sömn ofta missar kvällsbönen.
  Jag tar i igen den senare. Vilket är utlåtandet om detta? Svar: Utlåtandet är

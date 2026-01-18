@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 225 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 240
 description: 'Fråga: Om jag ser ett hål i raden framför mig, kan jag då röra mig
  framåt för att täppa till hålet? Detta i vetskap om att jag redan har gjort öppnings-

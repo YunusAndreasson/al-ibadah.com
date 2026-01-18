@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Vad som gör eller inte gör bönen ogiltig
+  - Bönens giltighet
 original_id: 1149
 description: 'Fråga: Är det tillåtet att skjuta upp bönen för att uppfylla ett av
  dess villkor? Detta kan vara att man behöver ordna vatten. Svar: Den korrekta

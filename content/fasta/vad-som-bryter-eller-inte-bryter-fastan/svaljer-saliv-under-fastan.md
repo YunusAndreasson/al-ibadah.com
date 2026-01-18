@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 260 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 415
 description: 'Fråga: Vilket är utlåtandet om att svälja saliv när man fastar? Svar: Saliv
  skadar inte fastan då det endast är spott. Om man sväljer den är det ingen fara

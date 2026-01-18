@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Glömska och dålig koncentration
+  - Koncentration i bönen
 original_id: 1168
 description: 'Fråga: Det finns en man som lider av djävulens viskningar. Djävulen
  viskar saker till honom som är stora synder beträffande Allāh den Allsmäktige. Han

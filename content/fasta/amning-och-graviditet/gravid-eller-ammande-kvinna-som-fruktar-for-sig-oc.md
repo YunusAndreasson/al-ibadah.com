@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - Amning och graviditet
+  - Graviditet och amning
 original_id: 454
 description: 'Fråga: Om en gravid eller ammande kvinna under ramadan är rädd för
  sin egens eller för barnets skull och hon bryter fastan, vad är hon då skyldig att

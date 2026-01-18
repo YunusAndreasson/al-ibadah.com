@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 73
 description: 'Fråga: Allāh den Upphöjde har sagt: ”Om någon vill anta en religion
  som inte innebär underkastelse under Guds vilja kommer detta att vägras honom, och

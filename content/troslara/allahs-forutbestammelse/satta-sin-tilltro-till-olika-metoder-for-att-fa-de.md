@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Allāhs förutbestämmelse
+  - Förutbestämmelsen
 original_id: 1077
 description: 'Fråga: Vilket är utlåtandet om att tro att en metod kan hjälpa en att
  uppnå det man vill ha? Svar: Att sätta sin tilltro till olika metoder delas

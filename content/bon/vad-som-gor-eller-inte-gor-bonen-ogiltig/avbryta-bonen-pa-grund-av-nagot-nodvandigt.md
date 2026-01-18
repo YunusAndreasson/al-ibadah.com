@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 246 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Vad som gör eller inte gör bönen ogiltig
+  - Bönens giltighet
 original_id: 256
 description: 'Fråga: Jag bad förmiddagsbönen i mitt hem och när jag hade gjort öppnings-
  takbīr och reciterat al-Fātihah knackade någon på dörren. Jag gjorde då taslīm och

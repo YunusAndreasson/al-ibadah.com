@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 173 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 200
 description: 'Fråga: Om en troende [som ber bakom en imam] anländer i slutet av imamens
  recitation men innan bugningen, bör han då börja bönen med att läsa åkallan i bönens

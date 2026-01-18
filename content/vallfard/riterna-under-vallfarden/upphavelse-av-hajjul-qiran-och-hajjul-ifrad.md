@@ -5,7 +5,7 @@ author: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
 source: Ibn ´Abdullah Ibn Baz
 categories:
   - Vallfärd (Hajj)
-  - Riterna under vallfärden
+  - Vallfärdsriter
 original_id: 748
 description: 'Fråga: Somliga påstår att hajjul-qirān och hajjul-ifrad har upphävts
  genom profetens – över honom vare Allāhs frid och välsignelser – kommendering till

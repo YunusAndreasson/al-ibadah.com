@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 339 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1525
 description: 'Fråga: Ibland känner jag mig trött så jag sover. Jag har då inte möjlighet
  att be gryningsbönen utom i mitt hem. Kan jag göra så här? Svar: Den som är

@@ -1,16 +1,15 @@
 ---
-title: Befinner sig i Mecka men familjen finns i Riyadh – går det då att betala zakātul-fitr
- för dem i Mecka?
+title: Zakātul-fitr när familjen är i annan stad
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 610 s. ISBN 9960-892-66-2'
+  1. Libanon: Makbtaba Dar us-Salam. 610 s. ISBN 9960-892-66-2'
 categories:
   - Allmosa (Zakāh)
-  - Betala allmosan i ett annat land
+  - Betalning utomlands
 original_id: 1024
 description: 'Fråga: Befinner sig i Mecka men familjen finns i Riyadh – går det då
- att betala zakātul-fitr för dem i Mecka? Svar: Denne får betala zakātul-fitr för
- familjen om de inte finns i samma stad...'
+  att betala zakātul-fitr för dem i Mecka? Svar: Denne får betala zakātul-fitr för
+  familjen om de inte finns i samma stad...'
 ---
 
 **Fråga:** Befinner sig i Mecka men familjen finns i Riyadh – går det då att betala *zakātul-fitr[^1]* för dem i Mecka?

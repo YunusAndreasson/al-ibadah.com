@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 408 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 328
 description: 'Fråga: Finns det någon autentisk hadīth som visar att bön bakom någon
  som rakar sitt skägg är ogiltig? Svar: Enligt vad vi känner till finns det inga

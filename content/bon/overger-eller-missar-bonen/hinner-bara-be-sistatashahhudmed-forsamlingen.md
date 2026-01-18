@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 334 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1522
 description: 'Fråga: Om en troende når församlingen i den sista tashahhud, får
  han då belöningen för att ha bett med församlingen? Svar: Man har inte bett

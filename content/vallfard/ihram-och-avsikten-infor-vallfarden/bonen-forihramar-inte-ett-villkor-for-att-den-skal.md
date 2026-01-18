@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 117 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Ihrām och avsikten inför vallfärden
+  - Ihrām och avsikt
 original_id: 756
 description: 'Fråga: Är en muslims ihrām för vallfärden eller ‘umrah giltig även
  om denne inte ber två bönecykler för den? Är ett muntligt uttalande av avsikten

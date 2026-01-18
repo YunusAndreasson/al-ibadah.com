@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1534
 description: 'Fråga: En ung och mentalt frisk muslim brukade be innan han började
  på universitet. Men under den fyra år långa universitetstiden övergav han bönen.

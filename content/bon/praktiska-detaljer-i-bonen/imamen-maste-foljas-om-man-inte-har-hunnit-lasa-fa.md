@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 198 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 216
 description: 'Fråga: Jag bad middagsbönen bakom en imam men i de sista två bönecyklerna
  hade jag inte möjlighet att recitera färdigt Fātihah al-Kitāb . Hade jag slutfört

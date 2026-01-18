@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 121 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Ihrām och avsikten inför vallfärden
+  - Ihrām och avsikt
 original_id: 760
 description: 'Fråga: När träder en pilgrim eller den som kommer till ‘umrah in
  i ihrām? Svar: Den som kommer med flyg eller båt går in i ihrām när denne

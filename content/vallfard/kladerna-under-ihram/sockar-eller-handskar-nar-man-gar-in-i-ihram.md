@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 130 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Kläderna under ihrām
+  - Ihrām-kläder
 original_id: 1341
 description: 'Fråga: Vilket är utlåtandet om att träda in i ihrām medan man bär
  sockar eller handskar och vilka är bevisen? Svar: En man får inte träda in i ihrām bärandes

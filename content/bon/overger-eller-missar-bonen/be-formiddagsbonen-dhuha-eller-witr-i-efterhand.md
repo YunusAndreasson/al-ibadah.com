@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 519 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 981
 description: 'Fråga: Om man har missat förmiddagsbönen, kan man då be den i efterhand? Svar: Har
  man missat tiden för förmiddagsbönen, då har man missat den bönen. Detta beror på

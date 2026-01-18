@@ -4,7 +4,7 @@ author: Ibn ´Abdur-Rahman al-Jibrin
 source: al-Lu’lu’ al-Makīn min Fatāwa Fadīlat al-shaykh Ibn Jibrīn, s. 39
 categories:
   - Allmosa (Zakāh)
-  - De som får ta emot allmosa
+  - Mottagare
 original_id: 1315
 description: 'Fråga: Vilket är utlåtandet om en sunni som betalar allmosa till fattiga rāfidi
 ? Om en muslim som är skyldig att betala allmosa ger den till en fattig rāfidi

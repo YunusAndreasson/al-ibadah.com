@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 173 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Vad som gör eller inte gör bönen ogiltig
+  - Bönens giltighet
 original_id: 201
 description: 'Fråga: Är det tillåtet att täcka ansiktet under bönen och är det tillåtet
  att luta sig mot en vägg, pelare eller något liknande? Svar: Det är ogillat

@@ -1,5 +1,5 @@
 ---
-title: Betalar inte zakātul-fitr även om han har möjlighet
+title: Utelämna zakātul-fitr trots möjlighet
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 categories:
   - Allmosa (Zakāh)

@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Vallfärd (Hajj)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1561
 description: 'Fråga: Varför kallas Ka’bah för ”Allāhs heliga hus”? Svar: Ka’bah
  döptes till Allāhs Hus då det är en plats för att upphöja Allāh den Allsmäktige

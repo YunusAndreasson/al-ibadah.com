@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 490 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 964
 description: 'Fråga: Är det mer passande för imamen att lämna böneplatsen direkt
  efter bönen eller bör han stanna kvar en stund? Svar: Det är bättre om imamen

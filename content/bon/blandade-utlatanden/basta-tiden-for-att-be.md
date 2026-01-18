@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . V
  1. Libanon: Makbtaba Dar us-Salam. 431 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 926
 description: 'Fråga: Vilken är den bästa tiden för att be? Är det bäst vid början
  eller vid slutet av den föreskrivna tiden? Svar: Den fullkomligaste bönen är

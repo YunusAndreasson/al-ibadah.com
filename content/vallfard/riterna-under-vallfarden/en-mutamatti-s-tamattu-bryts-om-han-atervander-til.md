@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 100 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Riterna under vallfärden
+  - Vallfärdsriter
 original_id: 745
 description: 'Fråga: Jag hörde att om en mutamatti´ återvänder till sitt land,
  då bryts dennes hajjul-tamattu´. Får denne vallfärda som en mufrid och är denne

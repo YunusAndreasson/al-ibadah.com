@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 263 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 419
 description: 'Fråga: Är den kräm som fuktar huden skadlig för fastan om det är den
  sorten som hindrar vatten från att nå huden? Svar: Om det finns ett behov är

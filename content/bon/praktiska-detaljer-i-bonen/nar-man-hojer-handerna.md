@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 226 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 242
 description: 'Fråga: Vilket är utlåtandet om att höja händerna under bönen och när
  bör det göras? Svar: Händerna bör höjas vid fyra tillfällen under bönen: när

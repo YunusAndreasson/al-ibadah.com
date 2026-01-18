@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 187 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
-  - Betala allmosan i ett annat land
+  - Betalning utomlands
 original_id: 632
 description: 'Fråga: Är det tillåtet att betala allmosa och sända den till de behövande?
  Jag menar då att jag ska skicka dem till mitt land, ursprungligen kommer jag ju

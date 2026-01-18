@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 111 s. ISBN saknas'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 67
 description: 'Fråga: En av mina släktingar avled och även om han bad så var han en
  orättfärdig man genom hela sitt liv. Är det tillåtet att åkalla Allāhs nåd över

@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 91 s. ISBN 9960-892-66-2'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1075
 description: 'Fråga: Hur ser ahlus-sunnah wal-jamā’at på hopp och fruktan? Svar: De
  lärde har olika åsikter om man bör sätta hopp eller fruktan först. Imam Ahmad har

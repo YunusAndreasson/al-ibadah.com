@@ -1,5 +1,5 @@
 ---
-title: Tvagning ombord på ett plan där det inte finns vatten
+title: Tvagning på flygplan utan vatten
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'I’lām al-Musāfirīn bi Ba’d Ādāb al-Safr wa ma yakhuss al-Mallāhīn al-Jawwiyyīn,
  av shaykh Muḥammad ibn Sālih al-‘Uthaymīn, sida. 11 Muhammed Knut Bernström (1421),

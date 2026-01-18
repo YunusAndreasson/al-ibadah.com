@@ -1,5 +1,5 @@
 ---
-title: Vad den fastande bör göra och vad som är en skyldighet för denne
+title: Fastandets plikter och rekommendationer
 author: Muḥammad bin Sālih al-´Uthaymīn
 categories:
   - Fasta (Sawm)

@@ -7,7 +7,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1166
 description: 'Fråga: Hur definierar ahlus-sunnah wal-jamā’at tron? Ökar och minskar
  denna tro? Svar: Tro är enligt ahlus-sunnah wal-jamā’at att bekräfta med hjärtat,

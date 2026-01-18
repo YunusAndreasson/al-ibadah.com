@@ -5,7 +5,7 @@ source: al-Ladjnah al-Dā’imah li’l-Buhoūth al-‘Ilmiyyah wa’l-Iftā’ 
  11/228.
 categories:
   - Vallfärd (Hajj)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 513
 description: 'Fråga: Det har återberättats att ‘Umar – må Allāh vara nöjd med honom – kysste den svarta stenen och sade: ”Jag vet att du endast är en sten och
  att du varken kan ge med- eller motgång. H...'

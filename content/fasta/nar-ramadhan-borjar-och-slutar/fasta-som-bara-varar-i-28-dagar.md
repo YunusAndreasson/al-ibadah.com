@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 234 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - När ramadan börjar och slutar
+  - Ramadans datum
 original_id: 396
 description: 'Fråga: Är det tillåtet att enbart fasta 28 dagar under ramadan? Svar: I
  en utförlig autentisk hadīth från Allāhs sändebud – över honom vare Allāhs frid

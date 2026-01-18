@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 261 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 417
 description: 'Fråga: Somliga undviker att använda miswāk under ramadan då de är
  rädda för att det ska skada fastan. Är detta korrekt? Vilken är tidpunkten då

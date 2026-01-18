@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 317 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Nattbön och witr
+  - Witr
 original_id: 297
 description: 'Fråga: Jag bemödar mig stort med Koran-läsning, åminnelse och de rekommenderade
  bönerna som witr . Många gånger finner jag dock att witr är en börda, speciellt

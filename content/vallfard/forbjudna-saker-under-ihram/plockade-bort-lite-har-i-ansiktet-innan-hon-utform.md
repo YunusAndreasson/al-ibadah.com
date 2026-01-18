@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 136 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Förbjudna saker under ihrām
+  - Ihrām-förbud
 original_id: 770
 description: 'Fråga: Min fru gick in i ihrām för ‘umrah och innan hon kom ut
  från badrummet och tog på ihrām -kläderna klippte hon lite av sitt hår. Vad är

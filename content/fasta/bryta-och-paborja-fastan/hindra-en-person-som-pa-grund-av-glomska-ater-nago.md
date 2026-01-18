@@ -1,11 +1,11 @@
 ---
-title: Hindra en person som på grund av glömska äter något under ramadan
+title: Påminna fastande som glömskt äter
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 327 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Bryta och påbörja fastan
+  - Fastebrytare
 original_id: 1413
 description: 'Fråga: Om jag ser någon som fastar men som äter eller dricker dagtid
  under ramadan, är jag då skyldig att påminna denne? Jag frågar för jag hör vissa

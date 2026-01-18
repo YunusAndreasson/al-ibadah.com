@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 231 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Natten i Mina
+  - Mina-natten
 original_id: 850
 description: 'Fråga: Allāh har gett mig framgång och jag vallfärdade tillsammans
  med min fru. Under de tre at-ayyām at-tashrīq stannade vi endast i Mina fram till

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 345 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+  - Frivillig fasta
 original_id: 485
 description: 'Fråga: Den som fastar den nionde och tionde och som det sedan blir
  klart för efteråt att denne har fastat den åttonde och den nionde – vilket är då

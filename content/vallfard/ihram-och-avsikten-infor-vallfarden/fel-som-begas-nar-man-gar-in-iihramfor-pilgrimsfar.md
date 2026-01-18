@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: Dalīl al-Akhta’ allati yaqa’ fiha al-Hāj wa’l-Mu’tamir
 categories:
   - Vallfärd (Hajj)
-  - Ihrām och avsikten inför vallfärden
+  - Ihrām och avsikt
 original_id: 1299
 description: 'Fråga: Under den åttonde dagen i dhu’l-hijjah [ yawm al-tarwiyah ]
  lade vi märke till två saker som somliga gjorde: 1] de gick in i ihrām för pilgrimsfärden

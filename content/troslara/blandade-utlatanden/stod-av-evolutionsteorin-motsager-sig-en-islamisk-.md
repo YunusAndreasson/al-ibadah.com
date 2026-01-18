@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 143
 description: 'Fråga: I dag finner vi evolutionsteorin överallt; i våra marockanska
  högskolor, i böcker och i tidningar. Det är som om denna teori är ett odiskutabelt

@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - Ta igen missad fasta
+  - Ikappfasta
 original_id: 458
 description: 'Fråga: För ett antal år sedan bröt jag min fasta under hela ramadan.
  På sjukhuset kom jag till sömns genom sömnpiller och läkarna förbjöd mig att fasta.

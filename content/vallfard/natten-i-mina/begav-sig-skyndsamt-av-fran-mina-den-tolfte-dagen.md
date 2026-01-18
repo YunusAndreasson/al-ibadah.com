@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 237 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Natten i Mina
+  - Mina-natten
 original_id: 852
 description: 'Fråga: Om en pilgrim lämnar Mina före solnedgången den tolfte dagen
  med avsikten att skyndsamt ge sig av och denne har en del arbete i Mina som denne

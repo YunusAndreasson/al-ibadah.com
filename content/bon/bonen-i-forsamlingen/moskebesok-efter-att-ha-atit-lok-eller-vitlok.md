@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 338 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 1524
 description: 'Fråga: Det finns en hadīth från Allāhs sändebud – över honom vare
  Allāhs frid och välsignelser – i vilken han säger: ” Den som åt lök, vitlök eller

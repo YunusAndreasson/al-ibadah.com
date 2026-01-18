@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 439
 description: 'Fråga: Min mor blev sjuk några dagar innan ramadan. Sjukdomen gjorde
  henne svag och hon är gammal men hon fastade femton dagar under ramadan. Hon kan

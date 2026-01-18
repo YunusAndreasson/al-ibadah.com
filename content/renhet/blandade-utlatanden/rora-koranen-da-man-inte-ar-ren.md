@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Liba
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
   - Renhet (Tahārah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1669
 description: 'Fråga: Många studenter håller Koranen när de har uträttat sina behov.
  Detta är en vana i många skolor. Men Allāh den Allsmäktige säger: ” Som inga andra

@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Livet i graven
+  - Gravlivet
 original_id: 72
 description: 'Fråga: Jag har hört att de lärde säger att den som har avlidit kommer
  att återfå livet i graven, att de får besvara frågor från änglar och att om det

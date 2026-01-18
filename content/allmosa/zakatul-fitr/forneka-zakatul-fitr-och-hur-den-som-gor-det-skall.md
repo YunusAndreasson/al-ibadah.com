@@ -1,5 +1,5 @@
 ---
-title: Förneka zakātul-fitr och hur den som gör det ska behandlas
+title: Förneka zakātul-fitr
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fiqh al-Ibādāt libni ´Uthaymīn – sida 213
 categories:

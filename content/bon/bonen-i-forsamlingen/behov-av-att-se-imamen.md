@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 349 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 311
 description: 'Fråga: Den finns en moské nära oss och norr om den finns ett område
  som vi skulle vilja göra till böneplats för kvinnor under ramadan. Är detta tillåtet

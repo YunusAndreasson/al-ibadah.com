@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 209 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Raka huvudet och klippa håret
+  - Hårklippning
 original_id: 833
 description: 'Fråga: En kvinna vallfärdade och hon utförde alla vallfärdsriter, utom
  att hon inte klippte sitt hår förrän nu. Detta med anledning av okunskap eller glömska.

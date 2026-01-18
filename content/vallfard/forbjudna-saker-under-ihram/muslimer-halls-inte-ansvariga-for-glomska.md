@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Vallfärd (Hajj)
-  - Förbjudna saker under ihrām
+  - Ihrām-förbud
 original_id: 774
 description: 'Fråga: En muslim gick in i ihrām för ‘umrah och han har för vana
  att leka med sitt hår när han tänker. I glömska gjorde han det då han befann sig

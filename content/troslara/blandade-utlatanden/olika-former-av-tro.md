@@ -6,7 +6,7 @@ source: 'Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muḥammad ibn Sāli
  Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 486
 description: 'Fråga: Hur ska vi förlika oss med att īmān består av tron på: Allāh,
  Hans änglar, Hans skrifter, Hans sändebud, den Yttersta dagen, det Förutbestämda

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 165 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Utse någon annan som vallfärdar
+  - Vallfärdsombud
 original_id: 791
 description: 'Fråga: Får en kvinna utse någon som kastar stenarna på pelarna åt henne?
  Hon är rädd för trängseln. Hennes vallfärd är den obligatoriska. Måste hon kasta

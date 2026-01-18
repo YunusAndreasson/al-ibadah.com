@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Vallfärd (Hajj)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 704
 description: 'Fråga: Allāh den Upphöjde säger: ”Vallfärden [ska fullgöras
  under] de kända månaderna. Den som då beger sig i väg ska så länge vallfärden

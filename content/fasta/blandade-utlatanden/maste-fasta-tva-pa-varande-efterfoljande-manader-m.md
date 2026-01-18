@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 333 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 481
 description: 'Fråga: Jag behövde gottgöra mig genom att fasta två på varandra efterföljande
  månader och jag fastade dem, alhamdulillah . Men jag fastade hela den första månaden,

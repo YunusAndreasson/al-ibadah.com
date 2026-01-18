@@ -4,7 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: al-Ladjnah 10/413
 categories:
   - Fasta (Sawm)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 530
 description: 'Fråga: Vad bör vi göra under Allmaktens Natt? Ber vi, läser vi Koranen
  eller profetens – över honom vare Allāhs frid och välsignelser – biografi, lyssnar

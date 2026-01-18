@@ -5,7 +5,7 @@ author: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
 source: Ibn ´Abdullāh Ibn Baz
 categories:
   - Vallfärd (Hajj)
-  - Vallfärda för någon annan
+  - Ställföreträdande vallfärd
 original_id: 1326
 description: 'Fråga: Om en man avled utan att ha utsett någon till att vallfärda
  åt honom, är då denna skyldighet avklarad för honom om hans son vallfärdar för hans

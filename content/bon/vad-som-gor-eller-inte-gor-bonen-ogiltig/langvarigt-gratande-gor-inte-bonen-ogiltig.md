@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Vad som gör eller inte gör bönen ogiltig
+  - Bönens giltighet
 original_id: 190
 description: 'Fråga: Under kvällsbönen i den tredje bönecykeln tänkte jag på straffet
  i graven; dess skräck, plåga och vedermöda, så mina tårar rann och jag började gråta

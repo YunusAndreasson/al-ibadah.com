@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 395 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 325
 description: 'Fråga: Jag är muslim – och all lovprisan och ära tillhör Allāh. Jag
  ber regelbundet i moskén, utom att jag ofta är sen till gryningsbönen. Jag är mycket

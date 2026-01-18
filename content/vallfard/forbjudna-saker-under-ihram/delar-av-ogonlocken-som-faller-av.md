@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 138 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Förbjudna saker under ihrām
+  - Ihrām-förbud
 original_id: 773
 description: 'Fråga: Jag utförde den obligatoriska vallfärden för två år sedan och
  det var för första gången. På Arafat-dagen, då jag gjorde åkallan till Allāh under

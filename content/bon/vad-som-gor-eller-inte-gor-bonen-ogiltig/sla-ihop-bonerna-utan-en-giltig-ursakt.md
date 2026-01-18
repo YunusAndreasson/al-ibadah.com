@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Vad som gör eller inte gör bönen ogiltig
+  - Bönens giltighet
 original_id: 1496
 description: 'Fråga: Är det tillåtet att slå ihop bönerna utan en giltig ursäkt? Svar: Det
  är inte tillåtet att slå ihop bönerna utan en giltig ursäkt. Detta baseras på Allāhs

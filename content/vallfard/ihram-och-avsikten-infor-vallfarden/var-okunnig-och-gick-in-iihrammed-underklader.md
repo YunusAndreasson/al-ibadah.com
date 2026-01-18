@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 141 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Ihrām och avsikten inför vallfärden
+  - Ihrām och avsikt
 original_id: 775
 description: 'Fråga: För ett år sedan begav jag mig på ‘umrah och jag kände inte
  till vissa villkor. När jag gick in i ihrām vid mīqāt bar jag korta byxor under

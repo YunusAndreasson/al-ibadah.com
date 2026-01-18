@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 190 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
-  - De som får ta emot allmosa
+  - Mottagare
 original_id: 637
 description: 'Fråga: Det finns en religiös ung man som vill gifta sig och det råder
  inga tvivel om att han behöver hjälp för att göra det. Får jag ge honom allmosa

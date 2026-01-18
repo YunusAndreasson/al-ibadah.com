@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 327
 description: Är det tillåtet att be bakom en imam som röker? Rökning är förbjudet.
  Det har bekräftats att det är skadligt för hälsan, tillhör al-khab'ith och är

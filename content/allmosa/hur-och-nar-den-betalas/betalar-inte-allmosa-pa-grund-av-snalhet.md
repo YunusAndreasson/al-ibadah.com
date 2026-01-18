@@ -4,7 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwā al-Ladjnah ad-Dā’imah, 9/184
 categories:
   - Allmosa (Zakāh)
-  - Hur och när den betalas
+  - Betalningstid
 original_id: 1600
 description: 'Fråga: Vilket är utlåtandet om den som vittnar om att det inte finns
  någon gud utom Allāh och ber den obligatoriska bönen men som varken betalar allmosa

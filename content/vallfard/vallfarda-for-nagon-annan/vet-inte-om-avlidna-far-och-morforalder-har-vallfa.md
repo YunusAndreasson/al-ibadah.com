@@ -5,7 +5,7 @@ source: Fatāwa al-Ladjnah ad-Dāimah lil-Buhooth al-´ilmiyyah wal-Iftā – Vo
  sida 107, fatwa 6505
 categories:
   - Vallfärd (Hajj)
-  - Vallfärda för någon annan
+  - Ställföreträdande vallfärd
 original_id: 911
 description: 'Fråga: Mina far- och morföräldrar har dött och jag vet inte om de har
  fullföljt sina skyldigheter i att vallfärda. Vilar det på mig att se till att någon

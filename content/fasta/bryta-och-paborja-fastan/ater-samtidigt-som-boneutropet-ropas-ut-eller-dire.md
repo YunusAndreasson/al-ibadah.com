@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - Bryta och påbörja fastan
+  - Fastebrytare
 original_id: 409
 description: 'Fråga: Allāh den Upphöjde har sagt: ” Och ni får äta och dricka till
  dess den vita strimman av gryningsljuset kan urskiljas mot nattens mörker .” [Koranen

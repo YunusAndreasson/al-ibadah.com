@@ -1,5 +1,5 @@
 ---
-title: Reser till Riyadh under en fredag för att studera och återvänder under måndagseftermiddagen
+title: Veckovisa studieresor och resenärsstatus
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 545 s. ISBN 9960-892-66-2 Muhammed Knut Bernström

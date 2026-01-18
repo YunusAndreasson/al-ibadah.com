@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Vallfärd (Hajj)
-  - Utse någon annan som vallfärdar
+  - Vallfärdsombud
 original_id: 797
 description: 'Fråga: Vilket är utlåtandet om den som inte kan utföra sa’ī under
  vallfärden eller ‘umrah? Kan han utse en representant som utför sa’ī eller tawāf åt

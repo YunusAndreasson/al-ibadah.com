@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1181
 description: 'Fråga: Vad är ash-Shafa''ah och vilka olika kategorier finns det? Svar: ash-Shafa''ah har
  sin rot i ordet ash-shaf'' [jämn] och det är motsatsen till al-witr [udda]. al-Witr görs

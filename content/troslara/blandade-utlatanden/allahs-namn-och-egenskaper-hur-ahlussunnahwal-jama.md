@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 111 s. ISBN 9960-892-66-2'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1081
 description: 'Fråga: Hur ser ahlus-sunnah wal-jamā’at på Allāhs namn och egenskaper?
  Vad är skillnaden mellan ett namn och en egenskap? Fordrar bekräftelsen av ett namn

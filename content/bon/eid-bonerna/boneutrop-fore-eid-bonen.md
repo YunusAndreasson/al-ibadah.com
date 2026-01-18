@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: Majmoo’ Fatāwa Ibn ‘Uthaymīn, 16/237
 categories:
   - Bön (Salāh)
-  - '''Eid-bönerna'
+  - Eid-bönerna
 original_id: 1588
 description: 'Fråga: Finns det böneutrop eller iqāmah före ‘eid -bönen? Svar: Det
  finns inget böneutrop eller någon iqāmah före ‘eid -bönen, vilket profetens sunnah bevisar.

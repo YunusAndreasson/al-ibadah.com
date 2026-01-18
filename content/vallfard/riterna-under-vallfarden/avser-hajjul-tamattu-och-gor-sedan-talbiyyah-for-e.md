@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 106 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Riterna under vallfärden
+  - Vallfärdsriter
 original_id: 749
 description: 'Fråga: Vad gäller den som avser att vallfärda som en mutamatti'' och
  efter mīqāt ändrar sig och säger talbiyyah för vallfärden som en mufrid? Måste

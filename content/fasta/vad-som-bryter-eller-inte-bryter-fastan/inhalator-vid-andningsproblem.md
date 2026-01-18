@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 658 s. ISBN 9960-892-66-2'
 categories:
   - Fasta (Sawm)
-  - Vad som bryter eller inte bryter fastan
+  - Fastebrytare
 original_id: 1045
 description: 'Fråga: Vilket är utlåtandet om den fastande som på grund av andningsproblem
  använder en inhalator? Bryter detta fastan? Svar: Denna spray är sönderdelad

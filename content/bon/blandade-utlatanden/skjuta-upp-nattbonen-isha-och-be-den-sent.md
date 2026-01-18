@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: Fatāwa al-Marah
 categories:
   - Bön (Salāh)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 570
 description: 'Fråga: Är det tillåtet att be nattbönen[^1] mycket sent? Svar: När
  det gäller nattbönen[^1] är det bäst att be den så sent som möjligt. Detta gäller i

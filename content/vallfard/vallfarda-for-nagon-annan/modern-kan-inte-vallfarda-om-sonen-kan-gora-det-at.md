@@ -5,7 +5,7 @@ author: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
 source: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 categories:
   - Vallfärd (Hajj)
-  - Vallfärda för någon annan
+  - Ställföreträdande vallfärd
 original_id: 728
 description: 'Fråga: Jag är en man som har en mor som är mycket gammal. Hon är runt
  70 år och hon är rädd för att åka bil, även om det är korta sträckor. Åker honom

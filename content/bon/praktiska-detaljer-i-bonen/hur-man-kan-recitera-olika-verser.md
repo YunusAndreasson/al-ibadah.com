@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 214
 description: 'Fråga: Är det tillåtet att recitera vissa verser från en sura i bönens
  första bönecykel och att sedan recitera verser från någon annan sura i nästa bönecykel

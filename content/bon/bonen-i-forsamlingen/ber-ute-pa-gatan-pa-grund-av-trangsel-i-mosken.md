@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 33 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 376
 description: 'Fråga: Anses den som ber fredagsbönen utanför moskén – exempelvis på
  gatorna – vara närvarande vid bönen trots att änglarna som nedtecknar vilka som

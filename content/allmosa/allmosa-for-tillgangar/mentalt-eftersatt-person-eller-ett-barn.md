@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Allmosa (Zakāh)
-  - Allmosa för tillgångar
+  - Tillgångar
 original_id: 1612
 description: 'Fråga: Är det en skyldighet att betala allmosa för tillgångar som tillhör
  ett barn eller en mentalt eftersatt? Svar: Denna fråga är de lärde oeniga om.

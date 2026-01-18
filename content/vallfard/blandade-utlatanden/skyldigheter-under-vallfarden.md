@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Vallfärd (Hajj)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 703
 description: 'Fråga: Vilka skyldigheter har en muslim när denne utför den obligatoriska
  vallfärden? Är det tillåtet att sysselsätta sig med saker som inte har med att tjäna

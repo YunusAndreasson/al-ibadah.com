@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 596 s. ISBN 9960-892-66-2'
 categories:
   - Allmosa (Zakāh)
-  - Den skuldsattes skyldighet
+  - Skulder
 original_id: 1013
 description: 'Fråga: Bör den avlidnes skulder betalas om denne inte har lämnat allmosa? Svar: Ibn
  ´Abdul-Barr och Abū ''Ubaid har sagt att den avlidens skuld inte får betalas genom

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 200 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
-  - Hur och när den betalas
+  - Betalningstid
 original_id: 648
 description: 'Fråga: Jag äger en del boskap i Egypten. Ger jag allmosa för dem när
  jag befinner mig här i Irak eller väntar jag tills jag återvänder till mitt land? Svar: Det

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 334 s. ISBN saknas'
 categories:
   - Fasta (Sawm)
-  - Frivillig fasta (Shawwal, ashura-dagen, m.m.)
+  - Frivillig fasta
 original_id: 1416
 description: 'Fråga: Vad anser ni om att fasta sex dagar efter ramadan under shawwal?
  Sannerligen står det i Māliks Muwatta att imam Mālik bin Anas har sagt att han inte

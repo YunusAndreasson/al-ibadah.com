@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Allāhs förutbestämmelse
+  - Förutbestämmelsen
 original_id: 1241
 description: 'Fråga: Somliga säger: Även om du inte sökte hjälp från Allāh skulle
  det regna. Vilken är din åsikt om detta? Svar: Jag säger att jag fruktar en

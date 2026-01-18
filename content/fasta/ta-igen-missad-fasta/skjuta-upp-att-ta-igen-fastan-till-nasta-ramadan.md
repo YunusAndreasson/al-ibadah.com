@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - Ta igen missad fasta
+  - Ikappfasta
 original_id: 461
 description: 'Fråga: Vilket är den islamiska lagens utlåtande om en man som skjuter
  upp att ta igen fastan från ramadan till efter nästa ramadan och han har en ursäkt

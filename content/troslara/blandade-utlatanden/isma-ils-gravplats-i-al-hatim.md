@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 56 s. ISBN saknas'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 45
 description: 'Fråga: I biografier rapporteras att Isma''il begravdes i al-Hatim i
  Mecka. Om detta är sant, hur kan det då vara tillåtet att be vid denna plats? Svar: Påståendet

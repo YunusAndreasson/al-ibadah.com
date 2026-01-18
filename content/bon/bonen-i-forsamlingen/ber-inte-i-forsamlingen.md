@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 1529
 description: 'Fråga: Vilket är utlåtandet om den som lämnar bönen och vilket är utlåtandet
  om att be dem med församlingen? Svar: Bönen är den största pelaren inom islam

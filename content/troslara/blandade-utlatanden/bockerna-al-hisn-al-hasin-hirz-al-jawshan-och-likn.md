@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 51 s. ISBN saknas'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 42
 description: 'Fråga: Vilket är utlåtandet om besvärjelser och talismaner om de kommer
  från Koranen? Vilket är utlåtandet om att bära med sig böckerna al-Hisn al-Hasin

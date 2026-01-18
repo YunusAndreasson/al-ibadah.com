@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1090
 description: 'Fråga: Är ahādīth som berättar om Mahdi autentiska? Ahādīth om
  Mahdi kan delas in i tre kategorier: Påhittade ahādīth . Svaga ahādīth

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 191 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1487
 description: 'Fråga: Om någon försov sig och missade gryningsbönen, kommer Allāh
  då att belöna honom för de resterande bönerna under den dagen? Kommer den att accepteras

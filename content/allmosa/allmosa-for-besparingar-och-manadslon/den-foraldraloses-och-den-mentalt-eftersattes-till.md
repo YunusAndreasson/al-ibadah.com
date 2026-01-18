@@ -1,11 +1,11 @@
 ---
-title: Den föräldralöses och den mentalt eftersattes tillgångar
+title: Föräldralösas och mentalt eftersattas tillgångar
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 157 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
-  - Allmosa för besparingar och månadslön
+  - Besparingar och lön
 original_id: 604
 description: 'Fråga: Är det en skyldighet att betala allmosa för föräldralösas och
  den mentalt eftersattes tillgångar? Svar: Allmosa måste betalas för båda dessas

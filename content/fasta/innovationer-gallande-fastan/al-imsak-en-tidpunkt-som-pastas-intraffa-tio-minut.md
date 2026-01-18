@@ -1,11 +1,11 @@
 ---
-title: al-Imsak – en tidpunkt som påstås inträffa tio minuter innan gryningsbönen
+title: al-Imsak före gryningsbönen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 656 s. ISBN 9960-892-66-2'
 categories:
   - Fasta (Sawm)
-  - Innovationer gällande fastan
+  - Fasteinnovationer
 original_id: 1265
 description: 'Fråga: I vissa kalendrar har vi sett att under ramadan finns det en
  sektion som kallas för al-imsak . Den är placerad omkring tio till femton minuter

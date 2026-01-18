@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 112
 description: 'Fråga: Får en muslim ge en del kött från ett slaktat djur till en granne
  som inte är troende? Svar: En muslim får ge en del av köttet från en slakt till

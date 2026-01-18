@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 460 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 945
 description: 'Fråga: Vilket är utlåtandet om kvinnornas rader? Är de värsta de första
  och de bästa de sista under alla omständigheter? Svar: Det som avses är att

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 296 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 1510
 description: 'Fråga: Jag går alltid för att be gryningsbönen och jag finner att bönen
  har börjat och jag har ännu inte hunnit be sunnah för gryningsbönen, får jag då

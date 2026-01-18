@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 42 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Ihrām och avsikten inför vallfärden
+  - Ihrām och avsikt
 original_id: 706
 description: 'Fråga: Om någon som har trätt in i ihrām är rädd för att på grund
  av sjukdom eller rädsla inte kunna utföra alla riterna, vad ska denne göra då? Svar: När

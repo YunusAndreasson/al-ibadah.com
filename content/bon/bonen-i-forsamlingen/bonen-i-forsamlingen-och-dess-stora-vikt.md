@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 1232
 description: 'Fråga: Vilket är utlåtandet om bönen i församlingen? Svar: De lärde
  är eniga om att detta är en av de största handlingarna av lydnad, en av de mest

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 207 s. ISBN saknas'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 94
 description: 'Fråga: Är det tillåtet att beskriva någon som ”den förlåtne” eller
  ”över den som det vilar nåd”? Svar: I tidningar har det dykt upp dödsannonser.

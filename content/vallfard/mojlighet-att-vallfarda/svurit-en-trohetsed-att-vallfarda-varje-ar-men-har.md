@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Vallfärd (Hajj)
-  - Möjlighet att vallfärda
+  - Vallfärdsplikt
 original_id: 715
 description: 'Fråga: Jag har svurit en trohetsed till Allāh om att jag ska vallfärda
  varje år. Tidigare var jag inte anställd men nu har omständigheter tvingat mig att

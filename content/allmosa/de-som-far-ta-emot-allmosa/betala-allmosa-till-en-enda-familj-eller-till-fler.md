@@ -1,11 +1,11 @@
 ---
-title: Betala allmosa till en enda familj eller till flera om det är en liten summa
+title: Liten allmosa till en eller flera familjer
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
  Libanon: Maktaba Dar us-Salam. 193 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
-  - De som får ta emot allmosa
+  - Mottagare
 original_id: 641
 description: 'Fråga: Om man enbart ger en liten allmosa, exempelvis 200 riyal,
  är det då bättre om man ger den till en behövande familj eller bör man dela allmosan

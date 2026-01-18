@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 480 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 958
 description: 'Fråga: Har det rapporterats att märket i pannan efter nedfallan[^1] skulle
  vara ett tecken på rättfärdighet? Svar: Detta är inte ett tecken på rättfärdighet.

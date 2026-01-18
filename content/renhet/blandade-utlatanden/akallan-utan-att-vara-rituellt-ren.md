@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 280 s. ISBN saknas'
 categories:
   - Renhet (Tahārah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 687
 description: 'Fråga: Ibland när jag vaknar klockan två på natten, åkallar jag tyst
  till Allāh den Allsmäktige men jag gör så utan att ha tvagat mig. Jag ber heller

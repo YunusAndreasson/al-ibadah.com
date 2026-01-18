@@ -1,11 +1,11 @@
 ---
-title: ”Allāh förbjude” – ett utlåtande beträffande detta uttryck
+title: Uttrycket 'Allāh förbjude'
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 302 s. ISBN 9960-892-66-2'
 categories:
   - Troslära (´Aqīdah)
-  - Allāhs förutbestämmelse
+  - Förutbestämmelsen
 original_id: 1205
 description: 'Fråga: Vilken är din åsikt om uttrycket ”Allāh förbjude”? Svar: Jag
  ogillar att man säger ”Allāh förbjude”. Det kan förstås som att någon tvingar Allāh

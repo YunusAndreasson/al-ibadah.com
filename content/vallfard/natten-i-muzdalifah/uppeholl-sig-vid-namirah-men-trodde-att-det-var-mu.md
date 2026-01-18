@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 226 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Natten i Muzdalifah
+  - Muzdalifah-natten
 original_id: 844
 description: 'Fråga: En pilgrim uppehöll sig i Namirah i tron att det var Muzdalifah.
  Vilket är utlåtandet om dennes vallfärd? Svar: De som är i Namirah i tron om

@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Fasta (Sawm)
-  - Vem som får bryta fastan
+  - Undantag från fasta
 original_id: 438
 description: 'Fråga: Jag är en kvinna som är sjuk och det var några dagar under förra
  ramadan som jag inte fastade. Jag har inte möjlighet att ta igen dessa dagar på

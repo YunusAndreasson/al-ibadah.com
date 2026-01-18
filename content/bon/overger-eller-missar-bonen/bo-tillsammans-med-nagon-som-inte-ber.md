@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 373 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Överger eller missar bönen
+  - Missad bön
 original_id: 315
 description: 'Fråga: Vi har många kollegor som inte ber, kanske ber de enbart när
  de är tillsammans med familjen. När har de sett den amerikanska livsstilen överger

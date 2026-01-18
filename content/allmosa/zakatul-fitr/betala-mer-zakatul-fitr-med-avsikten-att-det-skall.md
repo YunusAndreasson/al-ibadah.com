@@ -1,5 +1,5 @@
 ---
-title: Betala mer zakātul-fitr med avsikten att det ska vara frivillig välgörenhet
+title: Betala extra zakātul-fitr som välgörenhet
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 606 s. ISBN 9960-892-66-2'

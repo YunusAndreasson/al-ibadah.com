@@ -5,7 +5,7 @@ source: 'Fatāwa ‘Ulama’ al-Balad al-Harām, 162-164 Muhammed Knut Bernströ
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 502
 description: 'Fråga: Blir bönen ogiltig om man rör sig mycket under den? Svar: Det
  är sunnah att fokusera på sin bön med passande ödmjukhet, kropp och själ oberoende

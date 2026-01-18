@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  2. Libanon: Makbtaba Dar us-Salam. 533 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Att vara imam och bön bakom en imam
+  - Imamskap
 original_id: 1234
 description: 'Fråga: Om någon som leds i bön börjar be när imamen befinner sig i
  nedfallan, bör denne då vänta tills han [imamen] står upp eller ska denne nedfalla

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 126 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)
-  - Kläderna under ihrām
+  - Ihrām-kläder
 original_id: 763
 description: 'Fråga: Vilket är utlåtandet om att ta parfym på ihrām -kläderna innan
  man utformar avsikten och säger talbiyyah? Svar: Man bör inte parfymera det

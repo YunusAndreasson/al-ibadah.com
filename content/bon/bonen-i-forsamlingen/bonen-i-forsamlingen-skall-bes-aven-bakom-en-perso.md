@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Bön (Salāh)
-  - Bönen i församlingen
+  - Församlingsbön
 original_id: 323
 description: 'Fråga: Jag gick in i moskén för att be men fann en imam som jag inte
  gillar att be bakom. Vad gör jag då för att få belöningen för att be i församlingen? Svar: Om

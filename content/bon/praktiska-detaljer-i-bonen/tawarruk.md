@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 488 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 962
 description: 'Fråga: Vilket är utlåtandet om tawarruk i bönen? Gäller det för både
  män och kvinnor? Ge oss råd och må Allāh belöna er med det goda. Svar: Tawarruk i

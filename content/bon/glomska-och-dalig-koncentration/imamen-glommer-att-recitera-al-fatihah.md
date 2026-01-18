@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 278 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Glömska och dålig koncentration
+  - Koncentration i bönen
 original_id: 275
 description: 'Fråga: Om imamen glömmer att recitera al-Fātihah i den sista bönecykeln
  och han inte kommer på detta förrän efter den andra bugningen[^1] – vad gör han då? Svar: Han

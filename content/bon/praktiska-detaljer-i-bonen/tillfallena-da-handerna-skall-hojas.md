@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 143 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Praktiska detaljer i bönen
+  - Bönens praktik
 original_id: 188
 description: 'Fråga: I vår stad finns de två grupper. En grupp hämtar bevis från
  en ädel hadīth och den andra följer Mālikis rättsskola i all dyrkan. Ett exempel

@@ -1,16 +1,15 @@
 ---
-title: Fredagsbön som kombineras med eftermiddagsbönen och om det är tillåtet att
- kombinera böner om man är utanför sin stad
+title: Fredagsbönen och ihopslagning av böner
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 546 s. ISBN 9960-892-66-2'
+  1. Libanon: Makbtaba Dar us-Salam. 546 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 996
 description: 'Fråga: Vilket är utlåtandet om att slå ihop eftermiddagsbönen med fredagsbönen?
- Får den som befinner sig utanför sin stad slå ihop böner? Svar: Eftermiddagsbönen
- och fredagsbönen får inte slås...'
+  Får den som befinner sig utanför sin stad slå ihop böner? Svar: Eftermiddagsbönen
+  och fredagsbönen får inte slås...'
 ---
 
 **Fråga:** Vilket är utlåtandet om att slå ihop eftermiddagsbönen[^1] med fredagsbönen? Får den som befinner sig utanför sin stad slå ihop böner?

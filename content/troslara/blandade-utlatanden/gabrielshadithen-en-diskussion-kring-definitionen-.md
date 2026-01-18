@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Blandade utlåtanden
+  - Övrigt
 original_id: 1167
 description: 'Fråga: Hur kan vi jämka samman hadithen från [ängeln] Gabriel i vilken
  profeten – över honom vare Allāhs frid och välsignelser – förklarar att tron innebär: ”Att

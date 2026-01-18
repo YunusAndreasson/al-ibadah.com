@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Åkalla andra än Allāh
+  - Gravdyrkan
 original_id: 920
 description: 'Fråga: Hör profeten dem som åkallar honom vid hans grav, eller de hälsningar
  som denna hadīth antyder: ” Den som åkallar mig vid min grav hör jag ” [al-Bayhaqi
