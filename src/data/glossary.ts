@@ -190,6 +190,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "Vägledningsbön som bes när man söker Allahs vägledning i ett beslut.",
     category: "prayerTerms",
   },
+  "'iddah": {
+    canonical: "'iddah",
+    variants: ["'iddah","'iddah","iddah"],
+    definition: "Väntetid för en kvinna efter skilsmässa eller makens död innan hon får gifta om sig.",
+    category: "familyTerms",
+  },
   "janabah": {
     canonical: "janabah",
     variants: ["janābah","janabah"],
