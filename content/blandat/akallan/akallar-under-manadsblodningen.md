@@ -1,15 +1,17 @@
 ---
 title: Åkallar under månadsblödningen
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
- Libanon: Maktaba Dar us-Salam. 110 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Libanon: Maktaba Dar us-Salam. 110 s. ISBN saknas
 categories:
   - Blandat
   - Åkallan
 original_id: 1446
-description: 'Fråga: Får en kvinna med månadsblödning läsa böcker med åkallan under
- Arafat-dagen? Detta trots att de innehåller Koran-verser. Svar: Kvinnan med
- månadsblödning eller kvinnan med blödningar ef...'
+description: >-
+  Fråga: Får en kvinna med månadsblödning läsa böcker med åkallan under
+  Arafat-dagen? Detta trots att de innehåller Koran-verser. Svar: Kvinnan med
+  månadsblödning eller kvinnan med blödningar ef...
 ---
 
 **Fråga:** Får en kvinna med månadsblödning läsa böcker med åkallan[^1] under *Arafat*[^2]-dagen? Detta trots att de innehåller Koran-verser.
@@ -18,7 +20,7 @@ description: 'Fråga: Får en kvinna med månadsblödning läsa böcker med åka
 
 Det har endast rapporterats att den som är i den stora rituella orenheten inte läser Koranen i detta tillstånd. Detta baseras på en *hadīth*[^3] från Ali.
 
-Om kvinnan med månadsblödning eller blödning efter graviditeten har följande rapporterats om från Ibn ´Umar: ”*Kvinnan med månadsblödning och den som är i den stora rituella orenheten läser inte Koranen*.” [*at-Tirmithi* 131 och *Ibn Mājah* 595, 596] Denna *hadīth*[^3] är dock svag då den innehåller Isma'il bin 'Ayyash som rapporterar från de i Hijaz. Han är svag när han rapporterar från dem.
+Om kvinnan med månadsblödning eller blödning efter graviditeten har följande rapporterats om från Ibn ´Umar: ”*Kvinnan med månadsblödning och den som är i den stora rituella orenheten läser inte Koranen*.” [^6] Denna *hadīth*[^3] är dock svag då den innehåller Isma'il bin 'Ayyash som rapporterar från de i Hijaz. Han är svag när han rapporterar från dem.
 
 Recitationen måste dock ske från minnet utan att Skriften rörs. Den som befinner sig i den stora rituella orenheten får inte recitera Koranen – varken direkt från den eller från minnet. Detta gäller tills han har gjort *ghusl*[^4].
 
@@ -32,3 +34,4 @@ Kvinnan med månadsblödning och kvinnan med blödningar efter graviditeten kan 
 [^4]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^5]: En rituell rening som görs med hjälp av jord/sand då det inte finns vatten tillgängligt.
 
+[^6]: *at-Tirmithi* 131 och *Ibn Mājah* 595, 596

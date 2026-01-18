@@ -1,16 +1,20 @@
 ---
-title: Söka profetens – över honom vare Allāhs frid och välsignelser – hjälp och åkalla
- honom, och hans liv i graven
+title: >-
+  Söka profetens – över honom vare Allāhs frid och välsignelser – hjälp och
+  åkalla honom, och hans liv i graven
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
- Libanon: Maktaba Dar us-Salam. 103 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Libanon: Maktaba Dar us-Salam. 103 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Gravlivet
 original_id: 919
-description: 'Fråga: Är profetens – över honom vare Allāhs frid och välsignelser – vid liv i sin grav, levandes ett kroppsligt liv eller det på gränsen mellan detta
- livet och det Nästkommande fritt från plikter...'
+description: >-
+  Fråga: Är profetens – över honom vare Allāhs frid och välsignelser – vid liv i
+  sin grav, levandes ett kroppsligt liv eller det på gränsen mellan detta livet
+  och det Nästkommande fritt från plikter...
 ---
 
 **Fråga:** Är profetens – över honom vare Allāhs frid och välsignelser – vid liv i sin grav, levandes ett kroppsligt liv eller det på gränsen mellan detta livet och det Nästkommande fritt från plikter och funktioner i detta livet? […]
@@ -20,15 +24,9 @@ description: 'Fråga: Är profetens – över honom vare Allāhs frid och välsi
 Därmed vet vi att han gick bort precis som de andra profeterna gjorde och andra människor som gått bort före honom. Allāh den Upphöjde säger:
 
 > ”Vi har inte skänkt evigt liv åt någon människa före dig [Muḥammad]; om du måste dö, skulle de då få leva för evigt?” [Koranen 21:34]
->
->
->
->
+
 > ”Allt på jorden ska förgå; men din Herre förblir i evighet i Sitt majestät och Sin härlighet.” [Koranen 55:26 – 27]
->
->
->
->
+
 > ”Du ska dö [Muḥammad], och de ska dö.” [Koranen 39:30]
 
 Allt detta och många andra bevis visar på att profeten är död – må Allāhs frid och välsignelser vara över honom. Därutöver så tvättade hans följeslagare honom, de bad begravningsbönen och de begravde honom. Hade han varit vid liv precis som oss hade de inte begravt honom på så vis som andra människor begravs.

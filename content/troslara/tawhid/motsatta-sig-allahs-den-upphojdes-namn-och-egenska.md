@@ -1,16 +1,18 @@
 ---
 title: Att motsätta sig Allāhs namn och egenskaper
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 140 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 140 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - Tawhīd [Monoteism]
+  - 'Tawhīd [Monoteism]'
 original_id: 1085
-description: 'Fråga: Vilket är utlåtandet om att motsätta sig Allāhs den Upphöjdes
- namn och egenskaper? Svar: Avvisandet är av två olika typer: Motsättande
- i form av förnekelse. Detta är utan tvekan...'
+description: >-
+  Fråga: Vilket är utlåtandet om att motsätta sig Allāhs den Upphöjdes namn och
+  egenskaper? Svar: Avvisandet är av två olika typer: Motsättande i form av
+  förnekelse. Detta är utan tvekan...
 ---
 
 **Fråga:** Vilket är utlåtandet om att motsätta sig Allāhs den Upphöjdes namn och egenskaper?
@@ -24,7 +26,8 @@ Första: Denna tolkning är rimlig enligt det arabiska språket och utgör inte 
 
 Andra: Denna tolkning är inte möjlig inom det arabiska språket och utgör otro.
 
-Är den inte rimlig är den ju en förnekelse och det är otro. Ett exempel är om någon säger: ”Allāh har inte en riktig hand och den har heller inte innebörden nåd eller kraft.” Denne är då icke-troende på grund av det fullständiga avvisandet. När Allāh den Upphöjdes säger: ”*Nej, Hans händer är tvärtom utsträckta*” [Koranen 5:64] och någon menar att innebörden av Hans händer är himlarna och jorden, då är denne en icke-troende då detta inte är giltigt enligt det arabiska språket. Och det är det arabiska språkets innebörd som krävs i tillämpandet av den islamiska lagen. Därför är denne en avvisare som har hädat. Men om det sägs att handens innebörd är nåd eller kraft innebär det inte otro. Detta beror på att ordet hand i det arabiska språket även kan betyda nåd. En poet har en gång sagt: ”*Och hur mycket av Din nåd finns där i nattens mörker. Detta förtäljer att Manawiyyah ljuger*.” Hand betyder här nåd, därför att *al-Manawiyyah* säger att mörkret inte för något gott med sig utan att det enbart kommer ont därifrån.
+Är den inte rimlig är den ju en förnekelse och det är otro. Ett exempel är om någon säger: ”Allāh har inte en riktig hand och den har heller inte innebörden nåd eller kraft.” Denne är då icke-troende på grund av det fullständiga avvisandet. När Allāh den Upphöjdes säger: ”*Nej, Hans händer är tvärtom utsträckta*” [^2] och någon menar att innebörden av Hans händer är himlarna och jorden, då är denne en icke-troende då detta inte är giltigt enligt det arabiska språket. Och det är det arabiska språkets innebörd som krävs i tillämpandet av den islamiska lagen. Därför är denne en avvisare som har hädat. Men om det sägs att handens innebörd är nåd eller kraft innebär det inte otro. Detta beror på att ordet hand i det arabiska språket även kan betyda nåd. En poet har en gång sagt: ”*Och hur mycket av Din nåd finns där i nattens mörker. Detta förtäljer att Manawiyyah ljuger*.” Hand betyder här nåd, därför att *al-Manawiyyah* säger att mörkret inte för något gott med sig utan att det enbart kommer ont därifrån.
 
 [^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 
+[^2]: Koranen 5:64

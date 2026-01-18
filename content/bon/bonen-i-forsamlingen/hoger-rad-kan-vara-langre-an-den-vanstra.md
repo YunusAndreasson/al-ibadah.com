@@ -1,15 +1,17 @@
 ---
 title: Höger rad kan vara längre än den vänstra
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
- Libanon: Maktaba Dar us-Salam. 337 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Libanon: Maktaba Dar us-Salam. 337 s. ISBN saknas
 categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 307
-description: 'Fråga: Iqāmah ropades ut för nattbönen[^1] och radens högra sida fylldes.
- På den vänstra sidan fanns det endast ett fåtal personer. Vi sade då: ”Gör raden
- jämn på vänster sida.” Men en [annan] troe...'
+description: >-
+  Fråga: Iqāmah ropades ut för nattbönen[^1] och radens högra sida fylldes. På
+  den vänstra sidan fanns det endast ett fåtal personer. Vi sade då: ”Gör raden
+  jämn på vänster sida.” Men en [annan] troe...
 ---
 
 **Fråga:** *Iqāmah* ropades ut för nattbönen[^1] och radens högra sida fylldes. På den vänstra sidan fanns det endast ett fåtal personer. Vi sade då: ”Gör raden jämn på vänster sida.” Men en [annan] troende sade då: ”Höger är bättre.” Men han blev rättad med en *hadīth*[^2] av en annan person: ”Den som fyller radens vänstra sida kommer att få två belöningar.” Vänligen, berätta för oss vilken som är den korrekta åsikten.
@@ -18,7 +20,7 @@ description: 'Fråga: Iqāmah ropades ut för nattbönen[^1] och radens högra s
 
 Det finns ingen invändan mot att höger sida är längre, om det beror på att man vill få Allāhs favörer.
 
-Jag känner inte till något om vad en av de närvarande sade: ”Den som fyller radens vänstra sida kommer att få två belöningar.” [*Shaykh* Ibn Baz sade senare: ”Senare fann jag att *Ibn Mājah* har återberättat detta.”]
+Jag känner inte till något om vad en av de närvarande sade: ”Den som fyller radens vänstra sida kommer att få två belöningar.” [^3]
 
 Troligtvis är detta en fabrikation påhittat av några lata människor som inte bryr sig om att be på radens högra sida eller som inte tävlar med andra för att hamna i den.
 
@@ -27,3 +29,4 @@ Och Allāh är Den som vägleder till den raka vägen.
 [^1]: Isha
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
+[^3]: *Shaykh* Ibn Baz sade senare: ”Senare fann jag att *Ibn Mājah* har återberättat detta.”

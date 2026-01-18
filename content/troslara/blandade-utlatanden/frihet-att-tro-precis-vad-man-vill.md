@@ -1,16 +1,18 @@
 ---
 title: Frihet att tro precis vad man vill
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 291 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 291 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1111
-description: 'Fråga: Vi hör ofta talas om uttrycket tankefrihet. Det är ett kall
- till att få tro på vad man vill. Vilka är dina kommentarer till detta? Svar: Vår
- kommentar är att den som säger att det är ti...'
+description: >-
+  Fråga: Vi hör ofta talas om uttrycket tankefrihet. Det är ett kall till att få
+  tro på vad man vill. Vilka är dina kommentarer till detta? Svar: Vår kommentar
+  är att den som säger att det är ti...
 ---
 
 **Fråga:** Vi hör ofta talas om uttrycket tankefrihet. Det är ett kall till att få tro på vad man vill. Vilka är dina kommentarer till detta?
@@ -22,10 +24,7 @@ Religioner är inte koncept utan de är uppenbarelser från Allāh den Allsmäkt
 Den som tror att det är tillåtet att följa vilken religion man vill, denne är inte någon som tror på Allāh den Allsmäktige. Detta beror på att Han den Upphöjde säger:
 
 > ”Om någon vill anta en religion som inte innebär underkastelse under Guds vilja kommer detta att vägras honom, och i nästa liv ska han stå bland förlorarna.” [Koranen 3:85]
->
->
->
->
+
 > ”För Gud är [den sanna] religionen underkastelse under Hans vilja.” [Koranen 3:19]
 
 Det är då inte tillåtet att tro att en annan religion än islam är godkänd och att det är tillåtet att dyrka genom den. Om någon tror det, då har de lärde förklarat att denne är en icke-troende som står utanför islam.

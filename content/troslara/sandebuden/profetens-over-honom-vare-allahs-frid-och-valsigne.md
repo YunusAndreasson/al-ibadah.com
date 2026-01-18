@@ -1,21 +1,23 @@
 ---
 title: Profetens giftermål med Zainab efter Zaids skilsmässa
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
- Libanon: Maktaba Dar us-Salam. 272 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Libanon: Maktaba Dar us-Salam. 272 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 115
-description: 'Fråga: Hur lyder historien om Zaid bin Harithah och hans giftermål
- med Zainab, som profeten – över honom vare Allāhs frid och välsignelser – sedan
- gifte sig med efter honom? Hur började och slutad...'
+description: >-
+  Fråga: Hur lyder historien om Zaid bin Harithah och hans giftermål med Zainab,
+  som profeten – över honom vare Allāhs frid och välsignelser – sedan gifte sig
+  med efter honom? Hur började och slutad...
 ---
 
 **Fråga:** Hur lyder historien om Zaid bin Harithah och hans giftermål med Zainab, som profeten – över honom vare Allāhs frid och välsignelser – sedan gifte sig med efter honom? Hur började och slutade deras giftermål? Vi frågar då vi har hört att somliga i arabländer påstår att profeten – över honom vare Allāhs frid och välsignelser – var förälskad i Zainab och även andra historier som jag inte kan förmå mig själv att berätta. Vänligen, klargör detta för mig.
 
-**Svar:** Zaid, som var son till Harithah bin Sharahil al-Kalbi, var Allāhs sändebuds slav som han hade släppt fri och tagit som son. Han kallades för Zaid bin Muḥammad tills Allāh uppenbarade följande: ”*Ge [de barn som ni adopterar] det namn som deras fäder bar*.” [Koranen 33:5]
+**Svar:** Zaid, som var son till Harithah bin Sharahil al-Kalbi, var Allāhs sändebuds slav som han hade släppt fri och tagit som son. Han kallades för Zaid bin Muḥammad tills Allāh uppenbarade följande: ”*Ge [de barn som ni adopterar] det namn som deras fäder bar*.” [^1]
 
 De kallade honom då för Zaid bin Harithah.
 
@@ -31,7 +33,7 @@ Hon svarade i lydnad till Allāh och i uppfyllnad av Hans sändebuds önskemål.
 
 Detta betyder – och Allāh vet bäst – att du inom dig gömmer det som Allāh har informerat dig om, att Zaid kommer att skilja sig från sin fru [Zainab] och att du kommer att gifta dig med henne – för att sätta Allāhs påbud i bruk och bekräfta Hans visdom – och du är rädd för folks skvaller och deras anklaganden mot dig. Allāh har större rätt att fruktas av dig, så berätta vad Han har uppenbarat till dig om detaljerna i denna fråga utan att tänka på vad folk anklagar dig för.
 
-När det gäller profetens – över honom vare Allāhs frid och välsignelser – giftermål med Zainab så friade han till henne när hennes vänteperiod hade gått ut efter skilsmässan från Zaid. Sedan lät Allāh honom gifta sig med henne, utan någon förmyndare eller något vittne. Profeten – över honom vare Allāhs frid och välsignelser – var ju en förmyndare för alla de troende. Sannerligen har han mer rätt över dem än vad de har över sig själva. Allāh den Upphöjde säger: ”*Profeten är närmare de troende än de är sig själva*.” [Koranen 33:6]
+När det gäller profetens – över honom vare Allāhs frid och välsignelser – giftermål med Zainab så friade han till henne när hennes vänteperiod hade gått ut efter skilsmässan från Zaid. Sedan lät Allāh honom gifta sig med henne, utan någon förmyndare eller något vittne. Profeten – över honom vare Allāhs frid och välsignelser – var ju en förmyndare för alla de troende. Sannerligen har han mer rätt över dem än vad de har över sig själva. Allāh den Upphöjde säger: ”*Profeten är närmare de troende än de är sig själva*.” [^2]
 
 Det som har rapporterats om att profeten – över honom vare Allāhs frid och välsignelser – såg Zainab bakom ett skynke och att hans hjärta fattade tycke för henne, att Zaid fick reda på detta och blev arg på henne och att han skiljde sig för att profeten – över honom vare Allāhs frid och välsignelser – skulle få gifta sig med henne – inget av detta har rapporterats autentiskt.
 
@@ -41,3 +43,6 @@ Profeterna är för ädla i karaktär, osjälviska, […] och höga i grad för 
 
 Må Allāhs frid och välsignelser vara över vår Profet Muḥammad, hans familj och följeslagare.
 
+
+[^1]: Koranen 33:5
+[^2]: Koranen 33:6

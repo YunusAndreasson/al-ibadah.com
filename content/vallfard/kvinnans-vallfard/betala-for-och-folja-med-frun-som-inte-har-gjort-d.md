@@ -1,20 +1,24 @@
 ---
-title: Betala för och följa med frun som inte har gjort den obligatoriska pilgrimsfärden
+title: >-
+  Betala för och följa med frun som inte har gjort den obligatoriska
+  pilgrimsfärden
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fatāwa Ibn Uthaymīn 21/114 Muhammed Knut Bernström (1421), Koranens budskap
- . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fatāwa Ibn Uthaymīn 21/114 Muhammed Knut Bernström (1421), Koranens budskap .
+  Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Vallfärd (Hajj)
   - Kvinnans vallfärd
 original_id: 889
-description: 'Fråga: Min fru har inte utfört den obligatoriska pilgrimsfärden. Måste
- jag då vallfärda tillsammans med henne och betala för den? Svar: All lovprisan
- tillhör Allāh. Om frun i äktenskapskontrak...'
+description: >-
+  Fråga: Min fru har inte utfört den obligatoriska pilgrimsfärden. Måste jag då
+  vallfärda tillsammans med henne och betala för den? Svar: All lovprisan
+  tillhör Allāh. Om frun i äktenskapskontrak...
 ---
 
 **Fråga:** Min fru har inte utfört den obligatoriska pilgrimsfärden. Måste jag då vallfärda tillsammans med henne och betala för den?
 
-**Svar:** All lovprisan tillhör Allāh. Om frun i äktenskapskontraktet har ställt som krav att han måste vallfärda med henne, då måste han uppfylla detta villkor och ta henne på vallfärden. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*De villkor som till störst grad förtjänar att bli uppfyllda är de genom vilka intimitet blir tillåtet för er*.” Och Allāh säger: ”*Troende! Fullgör [era förpliktelser enligt] de avtal som ni har ingått!*” [Koranen 5:1] ”*Och håller vad ni lovar; ni kommer att ställas till svars för [era] löften*.” [Koranen 17:34]
+**Svar:** All lovprisan tillhör Allāh. Om frun i äktenskapskontraktet har ställt som krav att han måste vallfärda med henne, då måste han uppfylla detta villkor och ta henne på vallfärden. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*De villkor som till störst grad förtjänar att bli uppfyllda är de genom vilka intimitet blir tillåtet för er*.” Och Allāh säger: ”*Troende! Fullgör [era förpliktelser enligt] de avtal som ni har ingått!*” [^1] ”*Och håller vad ni lovar; ni kommer att ställas till svars för [era] löften*.” [^2]
 
 Har hon inte angivit ett villkor, då behöver han inte vallfärda med henne, men av ett antal olika anledningar råder jag honom att vallfärda med henne:
 
@@ -24,3 +28,6 @@ Har hon inte angivit ett villkor, då behöver han inte vallfärda med henne, me
 
 Låt honom söka Allāhs hjälp och ta med frun på pilgrimsfärden oavsett om hon har ställt som krav att han ska göra det eller inte. Har hon stipulerat det, då är han skyldig att uppfylla det.
 
+
+[^1]: Koranen 5:1
+[^2]: Koranen 17:34

@@ -1,15 +1,17 @@
 ---
 title: Miqat för umrah för Meckabor
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
- Libanon: Maktaba Dar us-Salam. 81 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Libanon: Maktaba Dar us-Salam. 81 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
   - al-Mawaqit
 original_id: 1329
-description: 'Fråga: Var är mīqāt för ‘umrah för den som bor i Mecka? Svar: Mīqāt för ‘umrah för
- den som befinner sig i Mecka är platsen utanför det Heliga området i staden. Därför
- när ‘A’ishah – må...'
+description: >-
+  Fråga: Var är mīqāt för ‘umrah för den som bor i Mecka? Svar: Mīqāt för ‘umrah
+  för den som befinner sig i Mecka är platsen utanför det Heliga området i
+  staden. Därför när ‘A’ishah – må...
 ---
 
 **Fråga:** Var är *mīqāt*[^1] för *‘umrah*[^2] för den som bor i Mecka?
@@ -24,5 +26,4 @@ description: 'Fråga: Var är mīqāt för ‘umrah för den som bor i Mecka? Sv
 [^2]: Den lilla vallfärden.
 [^3]: Utför vallfärden och *'umrah* samtidigt med en intention.
 [^4]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
-[^5]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

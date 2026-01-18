@@ -1,21 +1,23 @@
 ---
 title: Qunūt i gryningsbönen
 author: Ibn ´Abdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
- Libanon: Maktaba Dar us-Salam. 236 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Libanon: Maktaba Dar us-Salam. 236 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 246
-description: 'Fråga: Jag är en muslimsk tjej som har bott i Saudiarabien i omkring
- sex år. I vårt land så reciterar vi qunūt när vi ber gryningsbönen. Här har jag
- sett att de ber gryningsbönen utan qunūt . V...'
+description: >-
+  Fråga: Jag är en muslimsk tjej som har bott i Saudiarabien i omkring sex år. I
+  vårt land så reciterar vi qunūt när vi ber gryningsbönen. Här har jag sett att
+  de ber gryningsbönen utan qunūt . V...
 ---
 
 **Fråga:** Jag är en muslimsk tjej som har bott i Saudiarabien i omkring sex år. I vårt land så reciterar vi *qunūt*[^1] när vi ber gryningsbönen[^2]. Här har jag sett att de ber gryningsbönen[^2] utan *qunūt*[^1]. Vilket är utlåtandet om att recitera *qunūt*[^1] i gryningsbönen[^2]?
 
-**Svar:** Shafi'i anser att det är fördelaktigt att alltid recitera *qunūt*[^1] i den andra bönecykeln[^3] i gryningsbönen[^2]. Detta görs när man har rest sig upp från bugningen[^4]. Som bevis för detta citerar de en *hadīth*[^5] i vilken det rapporteras att profeten – över honom vare Allāhs frid och välsignelser – fortsatte att recitera *qunūt*[^1] i gryningsbönen[^2] fram tills han lämnade detta jordeliv [*Ahmad* 3:162]. Då ingen rapport nått dem om vad han brukade recitera i *qunūt*[^1] så använde de en *hasan hadīth*[^5] där det rapporteras att han i *qunūt*[^1] i *witr*[^6] brukade säga: ”*Allāh! Vägled mig bland dem som du har väglett…*” [*Abū Dawūd* 1425, 1426; *at-Tirmithi* 464 och *Ahmad* 1:119, 200]
+**Svar:** Shafi'i anser att det är fördelaktigt att alltid recitera *qunūt*[^1] i den andra bönecykeln[^3] i gryningsbönen[^2]. Detta görs när man har rest sig upp från bugningen[^4]. Som bevis för detta citerar de en *hadīth*[^5] i vilken det rapporteras att profeten – över honom vare Allāhs frid och välsignelser – fortsatte att recitera *qunūt*[^1] i gryningsbönen[^2] fram tills han lämnade detta jordeliv [^7]. Då ingen rapport nått dem om vad han brukade recitera i *qunūt*[^1] så använde de en *hasan hadīth*[^5] där det rapporteras att han i *qunūt*[^1] i *witr*[^6] brukade säga: ”*Allāh! Vägled mig bland dem som du har väglett…*” [^8]
 
 Imam *Ahmad* med flera ansåg att *qunūt*[^1] inte är föreskriven i gryningsbönen[^2], utom om någon stor olycka har drabbat muslimerna, som en fiende har attackerat dem, rädsla för något, sjukdom eller liknande. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – gjorde *qunūt*[^1] under en månad och då åkallade han Allāh mot några arabstammar som hade dödat några av följeslagarna. Sedan slutade han. De sade att vad han fortsatte att göra var att under långa perioder stå i bön, som i Allāhs ord:
 
@@ -32,3 +34,5 @@ Och Allāh vet bäst.
 [^5]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^6]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 
+[^7]: *Ahmad* 3:162
+[^8]: *Abū Dawūd* 1425, 1426; *at-Tirmithi* 464 och *Ahmad* 1:119, 200

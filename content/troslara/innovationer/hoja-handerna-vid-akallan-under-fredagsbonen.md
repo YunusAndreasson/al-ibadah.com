@@ -1,16 +1,18 @@
 ---
 title: Höja händerna vid åkallan under fredagsbönen
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
- Libanon: Maktaba Dar us-Salam. 476 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Libanon: Maktaba Dar us-Salam. 476 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 368
-description: 'Fråga: Vilket är utlåtandet om att en av Allāhs tjänare höjer händerna
- när han säger āmīn under åkallan med imamen under predikan? Vilket är utlåtandet
- om att höja rösten när man säger āmīn? ...'
+description: >-
+  Fråga: Vilket är utlåtandet om att en av Allāhs tjänare höjer händerna när han
+  säger āmīn under åkallan med imamen under predikan? Vilket är utlåtandet om
+  att höja rösten när man säger āmīn? ...
 ---
 
 **Fråga:** Vilket är utlåtandet om att en av Allāhs tjänare höjer händerna när han säger *āmīn* under åkallan[^1] med imamen under predikan? Vilket är utlåtandet om att höja rösten när man säger *āmīn*?
@@ -19,7 +21,7 @@ description: 'Fråga: Vilket är utlåtandet om att en av Allāhs tjänare höje
 
 Men om imamen ber om regn under fredagspredikan, då är det föreskrivet att han och Allāhs tjänare höjer händerna. När profeten – över honom vare Allāhs frid och välsignelser – bad om regn, då höjde han och folket händerna.
 
-Allāh den Upphöjde har sagt: ”*I Guds Sändebud har ni ett gott föredöme*.” [Koranen 33:21]
+Allāh den Upphöjde har sagt: ”*I Guds Sändebud har ni ett gott föredöme*.” [^2]
 
 Jag känner inte till någon invändan mot att säga *āmīn* under imamens predikan så länge rösten inte höjs.
 
@@ -27,3 +29,4 @@ Genom Allāhs uppnås framgång.
 
 [^1]: Du´ā
 
+[^2]: Koranen 33:21

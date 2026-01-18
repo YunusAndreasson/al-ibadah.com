@@ -1,15 +1,17 @@
 ---
 title: Utlåtande om ‘eid-bönen
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 2. Libanon: Makbtaba Dar us-Salam. 560 s. ISBN 9960-892-66-2'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
+  Libanon: Makbtaba Dar us-Salam. 560 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
   - Eid-bönerna
 original_id: 1239
-description: 'Fråga: Vilket är utlåtandet om ‘eid -bönen? Svar: Jag anser att ‘eid
- -bönen är en skyldighet för varje individ [ fardh ''ain ] och att män inte får utelämna
- den. I stället behöver de närvara ...'
+description: >-
+  Fråga: Vilket är utlåtandet om ‘eid -bönen? Svar: Jag anser att ‘eid -bönen är
+  en skyldighet för varje individ [ fardh 'ain ] och att män inte får utelämna
+  den. I stället behöver de närvara ...
 ---
 
 **Fråga:** Vilket är utlåtandet om *‘eid*-bönen?
@@ -22,7 +24,7 @@ Mitt råd till mina muslimska bröder är att frukta Allāh den Allsmäktige och
 
 När kvinnor lämnar sina hem så får de inte vara i närheten av män och de måste vara i en hörna i moskén som är långt bort från männen. De går inte ut vackra med doft av parfym och prydda för att visa sin skönhet.
 
-När profeten – över honom vare Allāhs frid och välsignelser – beordrade kvinnorna att gå ut så frågade de honom därför: ”*Allāhs sändebud! Om en av oss inte har en jilbāb?*” Han sade då: ”*Hennes syster bör täcka henne med sin jilbāb*.” [*al-Bukhārī* 324 och *Muslim* 890] En *jilbāb* är ett tygstycke eller något som liknar en *'aba'ah*. [En kåpa som kvinnor bär för att täcka deras huvuden och resten av kroppen] Detta bevisar att en kvinna måste gå ut täckt i en *jilbāb*. Profeten sade ju: ”*Hennes syster bör täcka henne med sin jilbāb*.”
+När profeten – över honom vare Allāhs frid och välsignelser – beordrade kvinnorna att gå ut så frågade de honom därför: ”*Allāhs sändebud! Om en av oss inte har en jilbāb?*” Han sade då: ”*Hennes syster bör täcka henne med sin jilbāb*.” [^4] En *jilbāb* är ett tygstycke eller något som liknar en *'aba'ah*. [En kåpa som kvinnor bär för att täcka deras huvuden och resten av kroppen] Detta bevisar att en kvinna måste gå ut täckt i en *jilbāb*. Profeten sade ju: ”*Hennes syster bör täcka henne med sin jilbāb*.”
 
 Imamen som leder bönen vid *'eid* måste även hålla en speciell predikan för kvinnorna när denne håller en predikan för männen, om de inte kan höra männens. Men om de kan höra männens är det tillräckligt.
 
@@ -32,3 +34,4 @@ Det är dock att föredra om imamen avslutar sin predikan med att nämna utlåta
 [^2]: Dhuhr
 [^3]: Du´ā
 
+[^4]: *al-Bukhārī* 324 och *Muslim* 890

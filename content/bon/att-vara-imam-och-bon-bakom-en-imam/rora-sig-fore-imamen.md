@@ -1,20 +1,22 @@
 ---
 title: Röra sig före imamen
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 2. Libanon: Makbtaba Dar us-Salam. 534 s. ISBN 9960-892-66-2'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
+  Libanon: Makbtaba Dar us-Salam. 534 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 1235
-description: 'Fråga: Vilket är utlåtandet om att röra sig före imamen? Svar: Det
- är inte tillåtet att röra sig före imamen, enligt profetens – över honom vare Allāhs
- frid och välsignelser – ord: ” Fruktar i...'
+description: >-
+  Fråga: Vilket är utlåtandet om att röra sig före imamen? Svar: Det är inte
+  tillåtet att röra sig före imamen, enligt profetens – över honom vare Allāhs
+  frid och välsignelser – ord: ” Fruktar i...
 ---
 
 **Fråga:** Vilket är utlåtandet om att röra sig före imamen?
 
-**Svar:** Det är inte tillåtet att röra sig före imamen, enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Fruktar inte den som höjer sitt huvud före imamen att Allāh kommer att omvandla dennes huvud till en åsnas huvud eller att Han ska omvandla dennes form till en åsnas.*” [*al-Bukhārī* 691 och *Muslim* 427] Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Imamen har placerats [där] enbart för att han ska följas. Om han säger 'Allāhu akbar' säger ni 'Allāhu akbar' och gör inte takbīr[^1] förrän han gör takbīr[^1]. Om han bugar, då bugar ni och buga inte förrän han bugar*.” [*al-Bukhārī* 1114]
+**Svar:** Det är inte tillåtet att röra sig före imamen, enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Fruktar inte den som höjer sitt huvud före imamen att Allāh kommer att omvandla dennes huvud till en åsnas huvud eller att Han ska omvandla dennes form till en åsnas.*” [^2] Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Imamen har placerats [där] enbart för att han ska följas. Om han säger 'Allāhu akbar' säger ni 'Allāhu akbar' och gör inte takbīr[^1] förrän han gör takbīr[^1]. Om han bugar, då bugar ni och buga inte förrän han bugar*.” [^3]
 
 Jag skulle vilja ta detta tillfälle i akt och säga att den som leds i bön av en imam hamnar i en av fyra kategorier:
 
@@ -33,3 +35,5 @@ I efterhand: Att man ligger efter imamen så mycket att man inte anses följa ho
 
 [^1]: Att säga Allahu Akbar.
 
+[^2]: *al-Bukhārī* 691 och *Muslim* 427
+[^3]: *al-Bukhārī* 1114

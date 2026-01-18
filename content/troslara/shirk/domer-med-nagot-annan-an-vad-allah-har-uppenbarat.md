@@ -1,16 +1,18 @@
 ---
 title: Döma med annat än vad Allāh uppenbarat
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 217 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 217 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - Shirk [Att sätta något vid Allāhs sida]
+  - 'Shirk [Att sätta något vid Allāhs sida]'
 original_id: 1096
-description: 'Fråga: Vilket är utlåtandet om någon som dömer med något annan än vad
- Allāh har uppenbarat? Svar: Genom Allāh den Upphöjde uppnås framgång och jag
- ber Honom om vägledning och att Han visar mig...'
+description: >-
+  Fråga: Vilket är utlåtandet om någon som dömer med något annan än vad Allāh
+  har uppenbarat? Svar: Genom Allāh den Upphöjde uppnås framgång och jag ber
+  Honom om vägledning och att Han visar mig...
 ---
 
 **Fråga:** Vilket är utlåtandet om någon som dömer med något annan än vad Allāh har uppenbarat?
@@ -21,7 +23,7 @@ description: 'Fråga: Vilket är utlåtandet om någon som dömer med något ann
 
 Allāh den Upphöjde kallar de som lyds jämte honom för herrar då de har tagits som laggivare jämsides Honom den Upphöjde. Han kallar de som lyder dem för slavar då de underkastar sig och lyder dem genom att motsäga sig Allāhs den Härliges, den Upphöjdes domslut.
 
-'Adi bin Hatim sade till Allāhs sändebud: ”*De dyrkar dem inte*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Men de förbjöd dem det som är tillåtet och tillät dem det som är otillåtet, och de lydde dem. Detta är deras dyrkan av dem*.” [*at-Tirmithi* 3095]
+'Adi bin Hatim sade till Allāhs sändebud: ”*De dyrkar dem inte*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Men de förbjöd dem det som är tillåtet och tillät dem det som är otillåtet, och de lydde dem. Detta är deras dyrkan av dem*.” [^4]
 
 Förstår du detta, då ska du veta att den som dömer med något annat än vad Allāh har uppenbarat och söker domslut från andra än Allāh och Hans sändebud, denne har en vers uppenbarats om som upphäver dennes tro. Likaså talar andra verser om dennes otro, onda handlande och synd.
 
@@ -48,25 +50,13 @@ c] Det tredje är att de underkastar sig fullständigt genom att acceptera hans 
 Den andra kategorin: Här gäller Allāhs den Upphöjdes ord:
 
 > ”De som inte dömer enligt vad Gud har uppenbarat, de är [i sanning] förnekare.” [Koranen 5:44]
->
->
->
->
+
 > ”Ja, de som inte dömer enligt vad Gud har uppenbarat begår orätt mot sig själva.” [Koranen 5:45]
->
->
->
->
+
 > ”Låt därför dem som följer Evangeliet döma enligt vad Gud där har uppenbarat; de som inte dömer enligt vad Gud har uppenbarat är syndare som trotsar Gud.” [Koranen 5:47]
->
->
->
->
+
 > Tillämpas dessa tre kännetecken på en person? Med innebörden att alla som dömer med något annat än vad Allāh har uppenbarat är icke-troende, sådana som handlar felaktigt och överträder gränser? Allāh den Upphöjde har beskrivit de icke-troende som personer som handlar felaktigt och överträder gränser. Han den Upphöjde säger: ”De som förnekar sanningen är svåra syndare.” [Koranen 2:254]
->
->
->
->
+
 > ”De förnekade Gud och Hans Sändebud och de avled med [hyckleriet i hjärtat och] trots i sinnet.” [Koranen 9:84]
 
 Varje icke-troende är därmed någon som handlar felaktigt och överträder gränser. Eller är det så att dessa kännetecken tillämpas på ett antal personer från vilken avsikt de hade när de inte dömde enligt vad Allāh har uppenbarat? Detta är, enligt min åsikt, det som är närmst sanningen. Och Allāh vet bäst.
@@ -89,3 +79,4 @@ Den som inte dömer enligt vad Allāh den Upphöjde har uppenbarat men som helle
 [^2]: Enheten i Allāhs herravälde.
 [^3]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 
+[^4]: *at-Tirmithi* 3095

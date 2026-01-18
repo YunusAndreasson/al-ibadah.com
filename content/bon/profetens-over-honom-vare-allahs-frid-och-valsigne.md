@@ -1,14 +1,17 @@
 ---
 title: Profetens – över honom vare Allāhs frid och välsignelser – bön
 author: Shaykh Muḥammad Nāsir al-Dīn al-Albāni
-source: 'Talkhīs Sifat Salāt al-Nabi min al-takbīr ila al-Taslīm ka annaka turāhā
- Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Talkhīs Sifat Salāt al-Nabi min al-takbīr ila al-Taslīm ka annaka turāhā
+  Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN
+  91-7118-887-8
 categories:
   - Bön (Salāh)
 original_id: 1159
-description: 'Fråga: Hur bad profeten? Svar: Vända sig i riktning mot Ka’bah Klädseln När
- du står upp för att be, vänd dig i riktning mot Ka’bah var du än befinner dig, både
- i den obliga...'
+description: >-
+  Fråga: Hur bad profeten? Svar: Vända sig i riktning mot Ka’bah Klädseln När du
+  står upp för att be, vänd dig i riktning mot Ka’bah var du än befinner dig,
+  både i den obliga...
 ---
 
 **Fråga:** Hur bad profeten?
@@ -199,7 +202,7 @@ Räta sig upp från bugningen
 2. När man reser sig upp säger man: ”*Sami’a Allāhu liman hamidah* [Allāh hör den som prisar Honom].” Detta är obligatoriskt.
 3. När han rätar upp sig på det sätt som har beskrivits ovan höjer man sina händer.
 4. Därefter står man rakt tills varje ryggkota har återvänt till sin plats. Detta är en väsentlig del av bönen.
-5. När man står säger man: ”*Rabbanā wa laka al-hamd* [vår Herre, lovprisad vare Du].” [Det finns andra former av åminnelse[^22] av Allāh som kan sägas vid denna punkt. Se *Sifat al-Salāh*, s. 135 [*The Prophet's prayer described*, s. 47]. Även om man inte följer en imam är detta obligatoriskt för dem som ber. Det beror på att detta är den åminnelse[^22] av Allāh man gör när man står [rakt upp] efter bugningen. ”*Sami’a Allāhu liman hamidah*” är den åminnelse[^22] av Allāh som man säger när man reser sig upp från bugningen[^5]. Det är inte föreskrivet att placera händerna över varandra när man står så här på grund av det inte har återberättats [från profeten]. För ytterligare detaljer, se *Sifat Salāt al-Nabi*, 1 – Istiqbāl al-*qiblah*[^3] [*The Prophet's Prayer Described* – Facing the Ka’bah].
+5. När man står säger man: ”*Rabbanā wa laka al-hamd* [vår Herre, lovprisad vare Du].” [Det finns andra former av åminnelse[^22] av Allāh som kan sägas vid denna punkt. Se *Sifat al-Salāh*, s. 135 [*The Prophet's prayer described*, s. 47]. Även om man inte följer en imam är detta obligatoriskt för dem som ber. Det beror på att detta är den åminnelse[^22] av Allāh man gör när man står [rakt upp] efter bugningen. ”*Sami’a Allāhu liman hamidah*” är den åminnelse[^22] av Allāh som man säger när man reser sig upp från bugningen[^5]. Det är inte föreskrivet att placera händerna över varandra när man står så här på grund av det inte har återberättats [från profeten]. För ytterligare detaljer, se *Sifat Salāt al-Nabi*, 1 – Istiqbāl al-*qiblah*[^3] [^25].
 6. Detta stående gör man lika långt som bugningen[^5], vilket har berättats om ovan.
 
 **Nedfallan**[^1]
@@ -227,7 +230,7 @@ Lugn i nedfallan
 
 1. I nedfallan[^6] är man avslappnad med sin vikt likvärdigt fördelad över alla kroppsdelar som ska vara i kontakt med marken under nedfallan. Dessa är: näsan, pannan, handflatorna, knäna och tårna.
 2. Den som på detta sätt finner lugn i sin nedfallan[^6] har gjort rätt. Att vara avslappnad är en väsentlig del av bönen.
-3. I nedfallan[^6] säger man: ”*Subhāna Rabbiy al-‘A’lā* [Ärad vare min Herre, den Högste]” tre gånger eller mer. [Det finns även andra former av åminnelse[^22] av Allāh, se *Sifat Salāt al-Nabi*, s. 145 [*The Prophet's Prayer* described, s. 55]]
+3. I nedfallan[^6] säger man: ”*Subhāna Rabbiy al-‘A’lā* [Ärad vare min Herre, den Högste]” tre gånger eller mer. [Det finns även andra former av åminnelse[^22] av Allāh, se *Sifat Salāt al-Nabi*, s. 145 [^26]]
 4. Det är rekommenderat att göra mycket åkallan[^14] under nedfallan[^6] då detta är tidpunkten då det är sannolikast att åkallan[^14] besvaras.
 5. Som beskrivits ovan gör man nedfallan[^6] nästan lika lång som bugningen[^5].
 6. Det är tillåtet att nedfalla[^6] på bar mark eller på något som täcker marken som ett klädesplagg, en större matta eller en mindre matta.
@@ -235,7 +238,7 @@ Lugn i nedfallan
 
 *Iftirāsh* och *iq'ā'* mellan de båda nedfallandena
 
-[*Iftirāsh* innebär att man sitter på det vänstra låret med den högra foten uppåt och dess tår pekandes i riktning mot *qiblah*[^3]. *Iq'ā'* innebär att man vilar på både hälarna och fötterna]
+[^27]. *Iq'ā'* innebär att man vilar på både hälarna och fötterna]
 
 1. Sedan reser man sitt huvud sägandes *takbīr*[^4]. Detta är obligatoriskt.
 2. Man höjer händerna ibland
@@ -351,9 +354,9 @@ Olika former av *taslīm*[^13] [säga *salām*]
 
 Min muslimska broder, detta är vad jag har kunnat sammanställa från *Sifat Salāt al-Nabi* [*The Prophet's Prayer Described*] i ett försök att göra den mer lättillgänglig för dig [och] för att den ska bli tydlig för dig, som om jag såg dig med mina egna ögon. Om du ber på det sätt som beskrivits för dig om hur profeten – över honom vare Allāhs frid och välsignelser – bad, då hoppas jag att Allāh kommer att acceptera detta ifrån dig, för genom att göra på detta sätt har du sannerligen satt profetens – över honom vare Allāhs frid och välsignelser – ord i praktik: ”*Be som ni har sett mig be*.”
 
-Vidare får du inte glömma vikten av sinnets närvaro och ödmjukhet i bönen. Detta är ju det yttersta syftet med att stå upp inför Allāh i bön. Desto mer du kan utveckla en ödmjuk attityd av och underkastelse i bönen som beskrivits för dig i profetens – över honom vare Allāhs frid och välsignelser – bön, desto mer behållning kommer du att skörda. Vår Herre har visat på detta när Han sagt: ”*Bönen avhåller [den bedjande] från skamlösa handlingar och allt som strider mot rimlighet och förnuft*.” [Koranen 29:45]
+Vidare får du inte glömma vikten av sinnets närvaro och ödmjukhet i bönen. Detta är ju det yttersta syftet med att stå upp inför Allāh i bön. Desto mer du kan utveckla en ödmjuk attityd av och underkastelse i bönen som beskrivits för dig i profetens – över honom vare Allāhs frid och välsignelser – bön, desto mer behållning kommer du att skörda. Vår Herre har visat på detta när Han sagt: ”*Bönen avhåller [den bedjande] från skamlösa handlingar och allt som strider mot rimlighet och förnuft*.” [^28]
 
-Slutligen ber jag Allāh att Han accepterar vår bön och alla våra goda handlingar, och att Han sparar deras belöningar fram till den Dag när vi kommer att möta Honom: ”*Den Dag då varken rikedom eller söners [mångfald] ska vara till gagn*.” [Koranen 26:88]
+Slutligen ber jag Allāh att Han accepterar vår bön och alla våra goda handlingar, och att Han sparar deras belöningar fram till den Dag när vi kommer att möta Honom: ”*Den Dag då varken rikedom eller söners [mångfald] ska vara till gagn*.” [^29]
 
 All ära tillhör Allāh, världarnas Herre.
 
@@ -382,3 +385,8 @@ All ära tillhör Allāh, världarnas Herre.
 [^23]: Vad man läser i den sittande positionen under bönen.
 [^24]: En åkallan som kan läsas under den nattliga witr-bönen.
 
+[^25]: *The Prophet's Prayer Described* – Facing the Ka’bah
+[^26]: *The Prophet's Prayer* described, s. 55
+[^27]: *Iftirāsh* innebär att man sitter på det vänstra låret med den högra foten uppåt och dess tår pekandes i riktning mot *qiblah*[^3
+[^28]: Koranen 29:45
+[^29]: Koranen 26:88

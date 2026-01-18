@@ -1,16 +1,18 @@
 ---
 title: Skyldighet att anta islam
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 60 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 60 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1577
-description: 'Fråga: Måste de som inte tror anta islam? Svar: Det är en skyldighet
- för dem som inte tror att anta islam. Även om de är kristna eller judar gäller detta,
- och det beror på att Allāh den Upphöj...'
+description: >-
+  Fråga: Måste de som inte tror anta islam? Svar: Det är en skyldighet för dem
+  som inte tror att anta islam. Även om de är kristna eller judar gäller detta,
+  och det beror på att Allāh den Upphöj...
 ---
 
 **Fråga:** Måste de som inte tror anta islam?
@@ -23,7 +25,7 @@ Därmed måste hela människosläktet tro på Allāhs sändebud – över honom 
 
 > ”Kämpa mot dem som, trots att de [förr] fick ta emot en uppenbarad Skrift, varken tror på Gud eller den Yttersta dagen och som inte anser som förbjudet det som Gud och Hans sändebud har förbjudit och inte iakttar den sannan religionens bud – [kämpa mot dem] till dess de erkänner sig besegrade och frivilligt betalar skyddsskatten.” [Koranen 9:29]
 
-I *Sahīh Muslim* återges i en *hadīth*[^1] från Buraidah att när profeten – över honom vare Allāhs frid och välsignelser – utsåg en ledare för en arme eller expedition beordrade han denne att frukta Allāh och att behandla muslimerna i dennes följe väl: ”*Bjud inte dem till tre saker. Om de svarar på någon av dessa, acceptera det från dem och se till att inte ställa till med något skadligt för dem*.” [*Muslim* 1730] En av dessa saker är att de ska betala skyddskatten. Detta är orsaken till att den starkaste åsikten bland de lärda är att skyddskatt accepteras från andra än judar och de kristna.
+I *Sahīh Muslim* återges i en *hadīth*[^1] från Buraidah att när profeten – över honom vare Allāhs frid och välsignelser – utsåg en ledare för en arme eller expedition beordrade han denne att frukta Allāh och att behandla muslimerna i dennes följe väl: ”*Bjud inte dem till tre saker. Om de svarar på någon av dessa, acceptera det från dem och se till att inte ställa till med något skadligt för dem*.” [^2] En av dessa saker är att de ska betala skyddskatten. Detta är orsaken till att den starkaste åsikten bland de lärda är att skyddskatt accepteras från andra än judar och de kristna.
 
 Kortfattat måste de som inte är muslimer antingen anta islam eller leva under islamiskt styre.
 
@@ -31,3 +33,4 @@ Och Allāh är Beviljaren av framgång.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
+[^2]: *Muslim* 1730

@@ -3,9 +3,10 @@ title: Råd som kan vägleda i religiösa och världsliga frågor
 categories:
   - Blandat
 original_id: 1289
-description: 'Fråga: Kan du ge några råd som kan vägleda oss i religiösa och världsliga
- frågor? Shaykh ul-islām Ibn Taymiyyah ställdes följande fråga: Jag bad shayken,
- imamen, åtföljaren av salaf och leda...'
+description: >-
+  Fråga: Kan du ge några råd som kan vägleda oss i religiösa och världsliga
+  frågor? Shaykh ul-islām Ibn Taymiyyah ställdes följande fråga: Jag bad
+  shayken, imamen, åtföljaren av salaf och leda...
 ---
 
 **Fråga:** Kan du ge några råd som kan vägleda oss i religiösa och världsliga frågor?
@@ -14,7 +15,7 @@ description: 'Fråga: Kan du ge några råd som kan vägleda oss i religiösa oc
 
 Jag bad shayken, imamen, åtföljaren av *salaf*[^1] och ledarna i generationerna som följde, den berömdaste man som jag någonsin har träffat ifrån öst och väst, Taqiy al-Dīn Abu'l-Abbās *Ahmad* Ibn Taymiyyah att ge mig råd om något som kan vägleda mig i både religiösa och världsliga frågor.
 
-**Svar:**   När det kommer till råd känner jag – för dem som förstår och följer dem – inte till något nyttigare än Allāhs och Hans sändebuds: ”*Vi uppmanade dem som fick ta emot Skrifter före er, liksom [Vi uppmanar] er, att frukta Gud*.” [Koranen 4:131]
+**Svar:**   När det kommer till råd känner jag – för dem som förstår och följer dem – inte till något nyttigare än Allāhs och Hans sändebuds: ”*Vi uppmanade dem som fick ta emot Skrifter före er, liksom [Vi uppmanar] er, att frukta Gud*.” [^6]
 
 Profeten – över honom vare Allāhs frid och välsignelser – gav följande råd till Mu'ādh när han åkte till Jemen: ”*Mu'ādh, frukta Allāh var du än befinner dig, låt en dålig handling följas av en god för att gottgöra den och behandla folket på ett vänligt sätt*.” Profeten – över honom vare Allāhs frid och välsignelser – satte stort värde i Mu'ādh och han sade till honom: ”*Mu'ādh, vid Allāh – jag älskar dig*.” Han brukade även låta Mu'ādh rida bakom honom. Det har berättats att han [Mu'ādh] var kunnigast i detta samfund om vad som är tillåtet och förbjudet samt att han på Domedagen kommer att hamna ett steg före de lärda. Vad som är en av hans dygder är att profeten – över honom vare Allāhs frid och välsignelser – sände honom till Jemen för att förmedla hans [profetens – över honom vare Allāhs frid och välsignelser – ] budskap samt för att axla rollen som kallare till islam, mufti och domare för jemeniterna. Han brukade även likna honom vid Abraham som var hela mänsklighetens ledare.
 
@@ -32,7 +33,7 @@ När det gäller specifika gottgörelser – likt de som finns föreskriva för 
 
 Det bör anmärkas att lägga vikt vid sådana frågor är något som vi är i största behov av. När någon kommer in i puberteten, speciellt nu för tiden och under tider som påminner om den före islam på så många sätt, kan den som växer upp bland de som är kunniga och religiösa påverkas av hednisk okunnighet – så hur är det då inte med andra?
 
-I *al-Sahīhayn* återfinns en *hadīth*[^2] återberättad av Abū Sa’īd i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Ni kommer att följa samma väg som dem som levde före er, steg för steg, även om de gick in i ett hål med ödlor skulle ni också gå in*.” De sade: ”*Allāhs sändebud, menar du de kristna och judarna?*” Han svarade: ”*Vilka annars?*” Denna rapport bekräftas av följande vers: ”*Och ni har fått njuta er del [av denna världs goda], liksom de fick som levde före er. Liksom de ägnar ni er åt tomt och meningslöst prat*.” [Koranen 9:69]
+I *al-Sahīhayn* återfinns en *hadīth*[^2] återberättad av Abū Sa’īd i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Ni kommer att följa samma väg som dem som levde före er, steg för steg, även om de gick in i ett hål med ödlor skulle ni också gå in*.” De sade: ”*Allāhs sändebud, menar du de kristna och judarna?*” Han svarade: ”*Vilka annars?*” Denna rapport bekräftas av följande vers: ”*Och ni har fått njuta er del [av denna världs goda], liksom de fick som levde före er. Liksom de ägnar ni er åt tomt och meningslöst prat*.” [^7]
 
 Det finns ytterligare rapporter som bekräftar i form av *ahādīth*[^2] som är hasan och *sahīh*. Detta är något som berör de i samhällets toppskikt som påstår sig vara religiöst medvetna, vilket mer än en av *salaf*[^1] – må Allāh vara nöjda med dem – sagt, inklusive Ibn ’Uyayanah. Flera av de karaktärsdrag som judarna besitter har även de som påstår sig vara kunniga och flera av de karaktärsdrag som de kristna besitter har även de som påstår sig vara religiöst medvetna. Detta är något som är klart för dem som förstår islam som Allāh har sänt Muḥammad med och som sedan försöker förstå människor från islams ljus.
 
@@ -40,11 +41,11 @@ Det nyttigaste som både ledarna och vanligt folk bör känna till är det som r
 
 När profeten – över honom vare Allāhs frid och välsignelser – hade fastställt Allāhs rättigheter om att utföra rättfärdiga handlingar och att ställa dåliga till rätta sade han: ”*och* *behandla folk på ett vänligt sätt*”. Detta avser ens plikter mot andra människor. En bra attityd mot andra människor baseras på att upprätthålla kontakt med den som bryter den; genom att hälsa på denne med *salām*, hedra denne, åkalla för denne, be för dennes förlåtelse, prisa denne och besöka denne. Vissa av dessa frågor är obligatoriska och andra är uppmuntrade.
 
-Det ”*lysande exempel*” [Koranen 68:4] som Allāh har beskrivit Muḥammad med är den religion som består av allt som Allāh har påbjudit. Följaktligen har Mujāhid sagt att han var en uttolkare av Koranen, för ‘A’ishah – må Allāh vara nöjd med henne – har sagt: ”*Hans karaktär var Koranen*.” Grunden för denna karaktär var att han med skyndsamhet, vilja och ett öppet hjärta gjorde vad Allāh älskar. Detta kan summeras i ordet taqwa [fruktan av Allāh] som innefattar att man gör allt som Allāh har påbjudit oavsett om det är obligatoriskt eller rekommenderat och att man undviker allt som han har förbjudit oavsett om det är förbjudet eller ogillat. Detta för samma både plikter mot Allāh och plikter mot andra människor. Men taqwa kan ibland också avse fruktan för det straff som gör att man avstår det som är förbjudet. Detta har förklarats i en *hadīth*[^2] om Mu’ādh. På samma sätt i en *hadīth*[^2] från Abū Hurairah som har återberättats och klassats som *sahīh* av *at-Tirmithi*: ”Det sades: ’Allāhs sändebud! Vad är det som oftast tar människor till Paradiset?’ Han svarade: ’Fruktan av Allāh och ett bra sätt.” Det sades: ’Och vad är det som vanligtvis tar människor till Helvetet?’ Han svarade: ’De två håliga sakerna: munnen och könsdelarna.’”
+Det ”*lysande exempel*” [^8] som Allāh har beskrivit Muḥammad med är den religion som består av allt som Allāh har påbjudit. Följaktligen har Mujāhid sagt att han var en uttolkare av Koranen, för ‘A’ishah – må Allāh vara nöjd med henne – har sagt: ”*Hans karaktär var Koranen*.” Grunden för denna karaktär var att han med skyndsamhet, vilja och ett öppet hjärta gjorde vad Allāh älskar. Detta kan summeras i ordet taqwa [fruktan av Allāh] som innefattar att man gör allt som Allāh har påbjudit oavsett om det är obligatoriskt eller rekommenderat och att man undviker allt som han har förbjudit oavsett om det är förbjudet eller ogillat. Detta för samma både plikter mot Allāh och plikter mot andra människor. Men taqwa kan ibland också avse fruktan för det straff som gör att man avstår det som är förbjudet. Detta har förklarats i en *hadīth*[^2] om Mu’ādh. På samma sätt i en *hadīth*[^2] från Abū Hurairah som har återberättats och klassats som *sahīh* av *at-Tirmithi*: ”Det sades: ’Allāhs sändebud! Vad är det som oftast tar människor till Paradiset?’ Han svarade: ’Fruktan av Allāh och ett bra sätt.” Det sades: ’Och vad är det som vanligtvis tar människor till Helvetet?’ Han svarade: ’De två håliga sakerna: munnen och könsdelarna.’”
 
 I *al-Sahīh* berättar 'Abd-Allāh ibn ´Umar att profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Den bäste i tro bland muslimer är den som har bäst attityd*.” Han kopplade därmed ihop perfektion i tron med en god attityd. Det är välkänt att tro är fruktan av Allāh. Detta är dock inte rätt plats för att diskutera de grundläggande principerna och finare detaljerna i det. Detta är religionen i sin helhet men godhetens källor är ett uppriktigt engagemang från tjänaren mot dennes Herre; dyrkandes endast Honom och sökandes endast Hans hjälp, som versen i Koranen säger:
 
-”*Dig tillber vi; Dig anropar vi om hjälp*.” [Koranen 1:5] ”*Dyrka Honom därför och förlita dig på Honom*.” [Koranen 11:123] ”Till *Honom litar jag och till Honom vänder jag alltid i ånger [över mina synder]*.”[Koranen 11:88] ”*Be därför Gud om er försörjning, dyrka Honom och tacka Honom; det är till Honom ni ska föras åter*.” [Koranen 29:17]
+”*Dig tillber vi; Dig anropar vi om hjälp*.” [^9] ”*Dyrka Honom därför och förlita dig på Honom*.” [^10] ”Till *Honom litar jag och till Honom vänder jag alltid i ånger [över mina synder]*.”[^11] ”*Be därför Gud om er försörjning, dyrka Honom och tacka Honom; det är till Honom ni ska föras åter*.” [^12]
 
 [^1]: De tre första generationerna i islam.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
@@ -52,3 +53,10 @@ I *al-Sahīh* berättar 'Abd-Allāh ibn ´Umar att profeten – över honom vare
 [^4]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^5]: Olika sorters prövningar och frestelser.
 
+[^6]: Koranen 4:131
+[^7]: Koranen 9:69
+[^8]: Koranen 68:4
+[^9]: Koranen 1:5
+[^10]: Koranen 11:123
+[^11]: Koranen 11:88
+[^12]: Koranen 29:17

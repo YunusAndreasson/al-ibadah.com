@@ -1,16 +1,18 @@
 ---
 title: Göra både bra och dåliga handlingar
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
- Libanon: Maktaba Dar us-Salam. 269 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+  Libanon: Maktaba Dar us-Salam. 269 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Blandat
   - Ånger
 original_id: 678
-description: 'Fråga: En ung man utför alla de obligatoriska plikterna – islams fem
- pelare. Samtidigt begår han vissa synder. Vilket är det islamska utlåtandet om en
- person som gör både bra och dåligt? Svar: ...'
+description: >-
+  Fråga: En ung man utför alla de obligatoriska plikterna – islams fem pelare.
+  Samtidigt begår han vissa synder. Vilket är det islamska utlåtandet om en
+  person som gör både bra och dåligt? Svar: ...
 ---
 
 **Fråga:** En ung man utför alla de obligatoriska plikterna – islams fem pelare. Samtidigt begår han vissa synder. Vilket är det islamska utlåtandet om en person som gör både bra och dåligt?
@@ -24,10 +26,7 @@ description: 'Fråga: En ung man utför alla de obligatoriska plikterna – isla
 När en muslim ångrar sig på detta sätt stryker Allāh ut hans tidigare synder. Han säger:
 
 > ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå i händer!” [Koranen 24:31]
->
->
->
->
+
 > ”Men Jag ger förvisso den full förlåtelse som ångrar sig, antar tron och sedan lever ett rättskaffens liv och följer vägledningen.” [Koranen 20:82]
 
 Profeten har sagt:

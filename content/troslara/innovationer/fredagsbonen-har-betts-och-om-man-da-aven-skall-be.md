@@ -1,16 +1,18 @@
 ---
 title: Fredagsbönen har betts och om man då även ska be middagsbönen
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 553 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 553 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 999
-description: 'Fråga: Om någon har bett fredagsbönen, bör denne då även be middagsbönen? Svar: Om
- någon har bett fredagsbönen är detta den obligatoriska bönen vid denna tidpunkt
- [middagsbönen]. Följaktligen ...'
+description: >-
+  Fråga: Om någon har bett fredagsbönen, bör denne då även be middagsbönen?
+  Svar: Om någon har bett fredagsbönen är detta den obligatoriska bönen vid
+  denna tidpunkt [middagsbönen]. Följaktligen ...
 ---
 
 **Fråga:** Om någon har bett fredagsbönen, bör denne då även be middagsbönen[^1]?
@@ -19,7 +21,7 @@ description: 'Fråga: Om någon har bett fredagsbönen, bör denne då även be 
 
 Vissa menar att om fredagsbönen bes i ett antal moskéer, då är det fredagsbönen i den moské som började som gäller och bönerna i de andra är ogiltiga. De menar att man bör be middagsbönen[^1] efteråt i detta fall. Till dem säger vi: Hur kan ni lägga fram detta som bevis eller rättfärdigande? Är det grundat på profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^2] eller någon korrekt åsikt? Svaret är: Nej.
 
-Vi säger att om fredagsbönen bes på många platser på grund av behov, då är varje bön giltig. Detta enligt Allāhs den Upphöjdes ord: ”*Frukta därför Gud efter måttet av er förmåga*.” [Koranen 64:16]
+Vi säger att om fredagsbönen bes på många platser på grund av behov, då är varje bön giltig. Detta enligt Allāhs den Upphöjdes ord: ”*Frukta därför Gud efter måttet av er förmåga*.” [^3]
 
 Om stadens hörn är långt från varandra eller om moskéerna inte räcker till för fredagsbönerna, då har de fruktat Allāh så mycket de kunnat och de som gör det har gjort det som är en skyldighet för dem. Hur kan någon då säga att den är ogiltig och att en annan bön måste bes i dess ställe, som då skulle vara middagsbönen[^1] i stället för fredagsbönen?
 
@@ -38,3 +40,4 @@ Den årsvisa samlingen är *‘eid*-bönen. Detta är samlingen som görs varje 
 [^1]: Dhuhr
 [^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 
+[^3]: Koranen 64:16

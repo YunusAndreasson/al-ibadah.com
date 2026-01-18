@@ -1,20 +1,22 @@
 ---
 title: Röra pekfingret från början till slutet under tashahhud
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 484 s. ISBN 9960-892-66-2'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 484 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 960
-description: 'Fråga: Vilket är utlåtandet om att röra pekfingret under tashahhud från
- början till slutet? Svar: Pekfingret bör endast röras när man åkallar. Inte
- under hela tashahhud . Profeten – över ho...'
+description: >-
+  Fråga: Vilket är utlåtandet om att röra pekfingret under tashahhud från början
+  till slutet? Svar: Pekfingret bör endast röras när man åkallar. Inte under
+  hela tashahhud . Profeten – över ho...
 ---
 
 **Fråga:** Vilket är utlåtandet om att röra pekfingret under *tashahhud*[^1] från början till slutet?
 
-**Svar:** Pekfingret bör endast röras när man åkallar[^2]. Inte under hela *tashahhud*[^1]. Profeten – över honom vare Allāhs frid och välsignelser – brukade röra det när han åkallade, vilket har rapporterats i en *hadīth*[^3] om detta, att han rörde det och åkallade med det. [*al-Fath ar-Rabbani* 147:3] Innebörden av detta är att den som åkallar[^2] enbart åkallar[^2] Allāh den Allsmäktige. Allāh den Härlige, den Upphöjde är ovan himlarna, enligt Hans den Upphöjdes ord:
+**Svar:** Pekfingret bör endast röras när man åkallar[^2]. Inte under hela *tashahhud*[^1]. Profeten – över honom vare Allāhs frid och välsignelser – brukade röra det när han åkallade, vilket har rapporterats i en *hadīth*[^3] om detta, att han rörde det och åkallade med det. [^4] Innebörden av detta är att den som åkallar[^2] enbart åkallar[^2] Allāh den Allsmäktige. Allāh den Härlige, den Upphöjde är ovan himlarna, enligt Hans den Upphöjdes ord:
 
 > ”Kan ni vara säkra på att Han, som är i himlen, inte låter jorden [rämna under er och] uppsluka er? Se hur den [redan] skälver och skakar! Eller kan ni vara säkra på att Han, som är i himlen, inte släpper lös en storm över er, så våldsam att ni förstår [allvaret i] Min varning?” [Koranen 67:16 – 17]
 
@@ -34,3 +36,4 @@ På dessa åtta platser bör man röra fingret mot himlen. Åkallar man med andr
 [^2]: Du´ā
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
+[^4]: *al-Fath ar-Rabbani* 147:3

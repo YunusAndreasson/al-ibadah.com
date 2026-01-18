@@ -1,16 +1,20 @@
 ---
-title: Shaykh ul-Islām ibn Taymiyyahs och as-Asha'irahs syn på Allāhs namn och egenskaper
+title: >-
+  Shaykh ul-Islām ibn Taymiyyahs och as-Asha'irahs syn på Allāhs namn och
+  egenskaper
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 102 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 102 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1173
-description: 'Fråga: I vissa länder lär sig eleverna i de islamiska skolorna att ahlus-sunnah
- wal-jamā’ats synsätt är: Att tro på Allāhs den Upphöjdes namn och egenskaper utan
- att förvrida, förneka, försöka f...'
+description: >-
+  Fråga: I vissa länder lär sig eleverna i de islamiska skolorna att
+  ahlus-sunnah wal-jamā’ats synsätt är: Att tro på Allāhs den Upphöjdes namn och
+  egenskaper utan att förvrida, förneka, försöka f...
 ---
 
 **Fråga:** I vissa länder lär sig eleverna i de islamiska skolorna att *ahlus-sunnah*[^1] wal-jamā’ats* synsätt är: Att tro på Allāhs den Upphöjdes namn och egenskaper utan att förvrida, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen]. Kan man dela in *ahlus-sunnah*[^1] wal-jamā’at* i dessa kategorier:
@@ -29,7 +33,7 @@ Den andra var Asha'irahs och Maturidiyyahs skola som kräver att Allāhs namn oc
 
 Det är välkänt att mellan dessa båda skolor så finns det en tydlig skiljelinje mellan deras sätt att förstå Allāhs namn och egenskaper. Den första skolans lärare bekräftar skyldigheten att förstå bevisen enligt deras uppenbara mening i frågor som har att göra med Allāhs namn och egenskaper. Detta samtidigt som man nekar vad som måste nekas i fråga om Allāh – som jämförelser och att förklara hur. Den andra skolans lärare bekräftar skyldigheten att ändra innebörden av Allāhs namn och egenskaper.
 
-Dessa båda synsätt skiljer sig åt total och skillnaden blir tydlig med utgångspunkt i följande exempel. Allāh den Upphöjde säger: ”*Nej, Hans händer är tvärtom utsträckta. Han fördelar [Sina gåvor] som Han vil *l.” [Koranen 5:46] Och Han säger när Han rapporterar om Sitt tillrättavisande av djävulen när denne vägrade att nedfalla inför Adam efter att Han kommenderat honom: ”*[Gud] sade: ’Iblis! Vad avhöll dig från att falla ned inför den som Jag har skapat med Mina händer?’*” [Koranen 38:75]
+Dessa båda synsätt skiljer sig åt total och skillnaden blir tydlig med utgångspunkt i följande exempel. Allāh den Upphöjde säger: ”*Nej, Hans händer är tvärtom utsträckta. Han fördelar [Sina gåvor] som Han vil *l.” [^6] Och Han säger när Han rapporterar om Sitt tillrättavisande av djävulen när denne vägrade att nedfalla inför Adam efter att Han kommenderat honom: ”*[Gud] sade: ’Iblis! Vad avhöll dig från att falla ned inför den som Jag har skapat med Mina händer?’*” [^7]
 
 De båda skolornas lärare skiljs åt om innebörden av de två händer som Allāh den Upphöjde har bekräftat att Han har.
 
@@ -48,10 +52,7 @@ Påstående som den andra skolan [de som gör *ta’wil*] lägger fram, att det 
 Att enbart ändra orden från deras uppenbara mening, utan några giltiga bevis, motsäger sig bevisen och att göra så är att tala om Allāh den Upphöjde utan kunskap. Allāh den Upphöjde har förbjudit detta när Han sagt:
 
 > ”Säg: ’Min Herre förbjuder ingenting annat än skamlösa handlingar, både det som sker öppet och det som sker i hemlighet och [all annan] synd och orättmätigt våld. Och [Han förbjuder er] att sätta vid Guds sida det som Han aldrig gett bemyndigande till och att påstå om Gud det ni inte kan veta.” [Koranen 7:33]
->
->
->
->
+
 > ”Befatta dig inte med det som du inte riktigt vet; ditt öra och ditt öga och ditt hjärta ska [alla en Dag] tillfrågas om detta.” [Koranen 17:36]
 
 De som förvrider innebörden av Allāhs den Upphöjdes namn och egenskaper har inte tagit emot någon kunskap om det vars mening de ändrar. Någon förnuftig teori har de heller inte, utom de tvivel som de lägger fram som bevis. Vissa bevis motsäger sig andra och gör det till en nödvändighet att ofullkomlighet tillräknas Allāhs natur, namn och egenskaper samt uppenbarelse. Dessa ofullkomligheter är värre än de som påstår vara ett resultat av att bekräfta dem [egenskaperna] i deras uppenbara mening. Men detta är inte platsen för en lång utläggning om detta.
@@ -60,13 +61,13 @@ Det enda som avses är att klargöra att en beskrivning som *ahlus-sunnah*[^1] i
 
 Om att använda Ibn al-Jawzis ord som bevis i detta ämne säger vi: Uttalanden från de lärda kan läggas fram som bevis eller kan bevis läggas fram mot dem, och ett uttalande från en lärd är inte ett bevis mot de andra.
 
-De påstår att imam *Ahmad* gjorde *ta’wil* om följande *ahādīth*[^3]: ”*Adams söners hjärtan är sannerligen mellan två av den Nåderikes fingrar*” och ”*Den svarta stenen är Allāhs högra hand på jorden*” och Allāhs den Upphöjdes ord: ”*Han är med er, var ni än befinner er, och Gud ser allt vad ni gör*.” [Koranen 57:4] Vi säger att detta inte har rapporterats autentiskt från imam *Ahmad*, att han gjorde *ta’wil* om de båda ovan nämnda *ahādīth*[^3].
+De påstår att imam *Ahmad* gjorde *ta’wil* om följande *ahādīth*[^3]: ”*Adams söners hjärtan är sannerligen mellan två av den Nåderikes fingrar*” och ”*Den svarta stenen är Allāhs högra hand på jorden*” och Allāhs den Upphöjdes ord: ”*Han är med er, var ni än befinner er, och Gud ser allt vad ni gör*.” [^8] Vi säger att detta inte har rapporterats autentiskt från imam *Ahmad*, att han gjorde *ta’wil* om de båda ovan nämnda *ahādīth*[^3].
 
-*Shaykh ul-Islām* ibn Taymiyyah – må Allāh vara honom nådig – säger i al-Fatāwa [Koranen 5:398] i samlingen från Ibn Qasim:
+*Shaykh ul-Islām* ibn Taymiyyah – må Allāh vara honom nådig – säger i al-Fatāwa [^9] i samlingen från Ibn Qasim:
 
 > ”Det som har rapporterats från Abū Hamid al-Ghazali, att imam *Ahmad* inte gjorde ta’wil utom i tre fall: 'Den svarta stenen är Allāhs högra hand på jorden' och 'Adams söners hjärtan är sannerligen mellan två av den Nåderikes fingrar' och 'Jag finner sannerligen den Nåderikes ande i riktning mot Jemen.' Denna rapport är en lögn om *Ahmad*. Ingen har med en autentisk rapportörskedja berättat detta från honom och det är inte känt att någon av hans följeslagare har berättat detta från honom.”
 
-Imam *Ahmad* gjorde inte *ta’wil* med Allāhs den Upphöjdes ord: ”*Han är med er, var ni än befinner er, och Gud ser allt vad ni gör*.” [Koranen 57:4] Han tolkade dem enbart genom en av deras grundläggande egenskaper, som är kunskap, i ett svar till *jahmiyyah* [Grupp namngiven efter dess grundare Jahm bin Safwan vars rörelse förnekade alla Allāhs namn och egenskaper] som förklarade dem på ett sätt som motsäger sig deras sanna innebörd. De [*jahmiyyah*] påstod att orden fordrar att Allāh den Upphöjde i Sin person befinner sig överallt – men upphöjd är Han över vad de påstår. Imam *Ahmad* förklarade att Allāhs varande med dem här betyder att Han omsluter skapelsen med Hans kunskap om den. Detta beror på att vara med någon eller något inte nödvändiggör en fysisk närvaro eller beblandning. I stället måste det på var plats förstås i sitt sammanhang. Därför säger vi: '”Han gav mig mjölk [blandat] med vatten att dricka.” Och det sägs: ”Jag bad med församlingen.” Och det sägs: ”En mans fru är med honom.” I det första exemplet förstås med nödvändighet förening och i det andra exemplet [förstås] att dela samma plats och samma handling [utan beblandning] och i det tredje fallet måste sällskap förstås även om de inte delar samma plats eller [utför samma] handling.
+Imam *Ahmad* gjorde inte *ta’wil* med Allāhs den Upphöjdes ord: ”*Han är med er, var ni än befinner er, och Gud ser allt vad ni gör*.” [^10] Han tolkade dem enbart genom en av deras grundläggande egenskaper, som är kunskap, i ett svar till *jahmiyyah* [Grupp namngiven efter dess grundare Jahm bin Safwan vars rörelse förnekade alla Allāhs namn och egenskaper] som förklarade dem på ett sätt som motsäger sig deras sanna innebörd. De [*jahmiyyah*] påstod att orden fordrar att Allāh den Upphöjde i Sin person befinner sig överallt – men upphöjd är Han över vad de påstår. Imam *Ahmad* förklarade att Allāhs varande med dem här betyder att Han omsluter skapelsen med Hans kunskap om den. Detta beror på att vara med någon eller något inte nödvändiggör en fysisk närvaro eller beblandning. I stället måste det på var plats förstås i sitt sammanhang. Därför säger vi: '”Han gav mig mjölk [blandat] med vatten att dricka.” Och det sägs: ”Jag bad med församlingen.” Och det sägs: ”En mans fru är med honom.” I det första exemplet förstås med nödvändighet förening och i det andra exemplet [förstås] att dela samma plats och samma handling [utan beblandning] och i det tredje fallet måste sällskap förstås även om de inte delar samma plats eller [utför samma] handling.
 
 Således är det klart att innebörden av att vara med någon eller något skiljer sig åt enligt vad som är förknippas med det och det går inte att säga att det fordrar förening eller att dela samma plats. Detta beror på att det är omöjligt att tillräkna Allāh detta eftersom Han inte på något sätt är likvärdig med dem och att Han befinner sig långt ovan dem. Därmed är Han med oss och Han befinner sig över Sin tron ovan himlarna. Han omfattar ju oss med Sin kunskap, Sin allsmakt, Sin auktoritet, Sitt hörande, Sitt seende, Sitt styrande av skapelsens ordning och sådant som Hans herrskap nödvändiggör.
 
@@ -76,7 +77,7 @@ Detta avseende vad som berättats från imam *Ahmad* om en antagen ta’wil med 
 
 Tittar vi på texterna själva, då har vi ovan nämnt att det inte finns någon *ta’wil* i den ädla versen om en uttolkare säger att den betyder kunskap. Detta beror på att det är något som med nödvändighet måste förstås från den. Det är inte att förvrida den innebörd som måste förstå genom den.
 
-”*Adams söners hjärtan är sannerligen mellan två av den Nåderikes fingrar som ett hjärta och Han styr dem som Han vill*.” Denna *hadīth*[^3] har Muslim återgivit i sin *Sahīh* i kapitlet om det förutbestämda [*Muslim* 2045]. Enligt *ahl as-sunnah[^1] wal-jamā’at* finns det ingen *ta’wil* i denna återberättelse då den bekräftar tron på Allāhs den Upphöjdes fingrar på ett sätt som passar Honom. Att våra hjärtan är mellan två fingrar fordrar inte att de vidrör våra hjärtan. Molnen befinner sig ju mellan himlen och jorden och de vidrör varken himlen eller jorden. På samma sätt befinner sig Adams söners hjärtan mellan två av den Nåderikes fingrar. Det nödvändiggör inte att det vidrörs av dem.
+”*Adams söners hjärtan är sannerligen mellan två av den Nåderikes fingrar som ett hjärta och Han styr dem som Han vill*.” Denna *hadīth*[^3] har Muslim återgivit i sin *Sahīh* i kapitlet om det förutbestämda [^11]. Enligt *ahl as-sunnah[^1] wal-jamā’at* finns det ingen *ta’wil* i denna återberättelse då den bekräftar tron på Allāhs den Upphöjdes fingrar på ett sätt som passar Honom. Att våra hjärtan är mellan två fingrar fordrar inte att de vidrör våra hjärtan. Molnen befinner sig ju mellan himlen och jorden och de vidrör varken himlen eller jorden. På samma sätt befinner sig Adams söners hjärtan mellan två av den Nåderikes fingrar. Det nödvändiggör inte att det vidrörs av dem.
 
 ”*Den svarta stenen är Allāhs högra hand på jorden*.” *Shaykh ul-Islām* ibn Taymiyyah – må Allāh vara honom nådig – sade om denna *hadīth*[^3] i *al-Fatāwa* [6:397] i Ibn Qasims sammanställning:
 
@@ -99,3 +100,9 @@ Det är nödvändigt att skilja mellan ett utlåtande och den som sade det, och 
 [^4]: En hederstitel som givits till vissa lärde.
 [^5]: Den ansträngning en islamskt lärd gör för att lägga fram ett utlåtande som inte är uppenbart.
 
+[^6]: Koranen 5:46
+[^7]: Koranen 38:75
+[^8]: Koranen 57:4
+[^9]: Koranen 5:398
+[^10]: Koranen 57:4
+[^11]: *Muslim* 2045

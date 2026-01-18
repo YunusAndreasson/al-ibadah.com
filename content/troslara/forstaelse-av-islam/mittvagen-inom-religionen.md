@@ -1,16 +1,18 @@
 ---
 title: Mittvägen inom religionen
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 44 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 44 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 1165
-description: 'Fråga: Vad avser man med medelvägen i frågor som rör religionen? Svar: En
- medelväg i frågor som rör religionen betyder att man inte bör överdriva, inte överträda
- Allāhs gränser och inte vara o...'
+description: >-
+  Fråga: Vad avser man med medelvägen i frågor som rör religionen? Svar: En
+  medelväg i frågor som rör religionen betyder att man inte bör överdriva, inte
+  överträda Allāhs gränser och inte vara o...
 ---
 
 **Fråga:** Vad avser man med medelvägen i frågor som rör religionen?
@@ -44,10 +46,7 @@ En annan man är förtryckande och arrogant och anser sig själv vara sin fru ö
 En tredje man är balanserad och han behandlar henne som Allāh och profeten – över honom vare Allāhs frid och välsignelser – har påbjudit honom att göra:
 
 > ”Hustrun har, som sig bör, rättigheter [mot mannen] motsvarande [dem han har] mot henne; hans [rätt] ligger dock ett steg framför hennes. Gud är allsmäktig, vis.” [Koranen 2:228]
->
->
->
->
+
 > ”En troende man bör inte hata en troende kvinna. Om det finns något karaktärsdrag i henne som han ogillar återstår där några andra karaktärsdrag i henne som gör honom nöjd.” [*Muslim* 1469]
 
 Den sistnämnde är balanserad medan den förste är extrem i behandlandet av frun och den andre är otillräcklig. Du bör basera alla dyrkan på detta exempel.

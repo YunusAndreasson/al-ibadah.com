@@ -1,16 +1,18 @@
 ---
 title: Stal men ångrade sig
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
- Libanon: Maktaba Dar us-Salam. 264 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+  Libanon: Maktaba Dar us-Salam. 264 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Blandat
   - Ånger
 original_id: 672
-description: 'Fråga: När jag studerade brukade jag stjäla böcker från skolans förråd.
- Jag studerar fortfarande men Allāh har väglett mig. Vad bör jag göra? Må Allāh belöna
- er. Svar: För varje sjukdom Allāh ...'
+description: >-
+  Fråga: När jag studerade brukade jag stjäla böcker från skolans förråd. Jag
+  studerar fortfarande men Allāh har väglett mig. Vad bör jag göra? Må Allāh
+  belöna er. Svar: För varje sjukdom Allāh ...
 ---
 
 **Fråga:** När jag studerade brukade jag stjäla böcker från skolans förråd. Jag studerar fortfarande men Allāh har väglett mig. Vad bör jag göra? Må Allāh belöna er.
@@ -22,10 +24,7 @@ I vissa fall kan någon känna skam då han inte vill möta personen och erkänn
 Om du gör detta ska du veta att Allāh den Högste säger:
 
 > ”Gud visar var och en som fruktar Honom en utväg ur [alla svårigheter].” [Koranen 5:2]
->
->
->
->
+
 > ”Och för var och en som fruktar Honom gör Gud uppgiften lätt.” [Koranen 65:4]
 
 Anta att du inte vet vem det är du stulit från eller att du vet vem det är men inte var han befinner sig, då är detta än lättare. Du kan ge i välgörenhet en summa likvärdig med vad du stulit, i avsikt att det ska vara för den personen som du stulit från. Därigenom är du frigjord från ditt ansvar.

@@ -1,16 +1,18 @@
 ---
 title: Hur en som har begått otukt ångrar sig
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
- Libanon: Maktaba Dar us-Salam. 253 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+  Libanon: Maktaba Dar us-Salam. 253 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Blandat
   - Ånger
 original_id: 665
-description: 'Fråga: Trots att jag vet hur stor synden är och trots att jag vet att
- djävulen frestade mig till att göra det begick jag otukt. Vid denna tidpunkt sade
- jag till mig själv att jag skulle göra det o...'
+description: >-
+  Fråga: Trots att jag vet hur stor synden är och trots att jag vet att djävulen
+  frestade mig till att göra det begick jag otukt. Vid denna tidpunkt sade jag
+  till mig själv att jag skulle göra det o...
 ---
 
 **Fråga:** Trots att jag vet hur stor synden är och trots att jag vet att djävulen frestade mig till att göra det begick jag otukt. Vid denna tidpunkt sade jag till mig själv att jag skulle göra det och ångra mig sedan. Nu inser jag hur stort mitt misstag var och jag önskar ångra mig. Kommer Allāh den Allsmäktige att förlåta mig? Hur ångrar jag mig?
@@ -26,15 +28,9 @@ Men ångern har sina villkor:
 Kom ihåg att Allāh den Allsmäktige säger:
 
 > ”Troende! Vänd er i uppriktig ånger [över era synder] till Gud!” [Koranen 66:8]
->
->
->
->
+
 > ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå i händer!” [Koranen 24:31]
->
->
->
->
+
 > ”Säg [Muḥammad] till mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [*Mina* bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet!” [39:53]
 
 De lärde är eniga om att denna vers uppenbarades för den tålmodige; den som önskar att ångra sig. Om din synd involverar en människas rätt måste vi lägga till ett fjärde villkor: Du måste återgälda deras rättigheter till dem. Detta oavsett om det är tillgångar eller något annat. I andra fall måste du be om deras förlåtelse.
@@ -50,15 +46,9 @@ Han får inte vara belåten med djävulen med intentionen att han kommer ångra 
 Allāh den Allsmäktige säger:
 
 > ”Och stå i bävan inför Mig!” [Koranen 2:40]
->
->
->
->
+
 > ”Gud uppmanar er att inte ta lätt på Hans varningar.” [Koranen 3:28]
->
->
->
->
+
 > ”Människor! Guds löfte är sanning. Låt er då inte förledas av jordelivets [lockelser] och låt inte Djävulen föra er bakom ljuset vad Guds [dom] beträffar. Djävulen är er fiende; behandla honom därför som en fiende! När han kallar sina anhängare är det hans enda avsikt att [förmå dem att slå in på] vägen som leder rätt in i den flammande Elden.” [Koranen 35:5 – 6]
 
 Det finns många verser med en liknande innebörd.

@@ -6,16 +6,17 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 562
-description: 'Fråga: Är det tillåtet att fira födelsedagar? Svar: Att fira födelsedagar
- har inga som helst källor i den rena islamiska lagen och det är en innovation, då
- profeten – över honom vare Allāhs fr...'
+description: >-
+  Fråga: Är det tillåtet att fira födelsedagar? Svar: Att fira födelsedagar har
+  inga som helst källor i den rena islamiska lagen och det är en innovation, då
+  profeten – över honom vare Allāhs fr...
 ---
 
 **Fråga:** Är det tillåtet att fira födelsedagar?
 
-**Svar:** Att fira födelsedagar har inga som helst källor i den rena islamiska lagen och det är en innovation, då profeten – över honom vare Allāhs frid och välsignelser – sagt: ”*Den som introducerar något i denna religion som inte hör hit, kommer att få det avvisat*.” [*al-Bukhārī* och *Muslim*]
+**Svar:** Att fira födelsedagar har inga som helst källor i den rena islamiska lagen och det är en innovation, då profeten – över honom vare Allāhs frid och välsignelser – sagt: ”*Den som introducerar något i denna religion som inte hör hit, kommer att få det avvisat*.” [^2]
 
-Profeten – över honom vare Allāhs frid och välsignelser – har även sagt: ”*Den som utför en handling som inte är enligt denna religion, denna handling är avvisad*.” [*al-Bukhārī* och *Muslim*]
+Profeten – över honom vare Allāhs frid och välsignelser – har även sagt: ”*Den som utför en handling som inte är enligt denna religion, denna handling är avvisad*.” [^3]
 
 Det är välkänt att profeten – över honom vare Allāhs frid och välsignelser – under sin livstid inte firade någon födelsedag. Han beordrade inte heller följeslagarna att göra detta och därför firade inte de första fyra korrekt vägledda kaliferna eller hans följeslagare – må Allāh vara nöjd med dem. Och dessa personer är de med störst kunskaper om profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^1] och profeten. Dessa människor var också de som var mest intresserade av att följa det han kom med. Hade det därför varit meningen att vi skull firat hans födelsedag, hade det då gjorts på deras tid.
 
@@ -27,3 +28,5 @@ Vi ber Allāh, för vår egen räkning och alla muslimer, att Han håller oss st
 
 [^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 
+[^2]: *al-Bukhārī* och *Muslim*
+[^3]: *al-Bukhārī* och *Muslim*

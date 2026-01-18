@@ -1,16 +1,18 @@
 ---
 title: Bönen i församlingen och dess stora vikt
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 2. Libanon: Makbtaba Dar us-Salam. 525 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
+  Libanon: Makbtaba Dar us-Salam. 525 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 1232
-description: 'Fråga: Vilket är utlåtandet om bönen i församlingen? Svar: De lärde
- är eniga om att detta är en av de största handlingarna av lydnad, en av de mest
- bekräftade och en av de bästa. Allāh den Upp...'
+description: >-
+  Fråga: Vilket är utlåtandet om bönen i församlingen? Svar: De lärde är eniga
+  om att detta är en av de största handlingarna av lydnad, en av de mest
+  bekräftade och en av de bästa. Allāh den Upp...
 ---
 
 **Fråga:** Vilket är utlåtandet om bönen i församlingen?
@@ -27,7 +29,7 @@ Han har även sagt:
 
 > ”Den som hörde kallet [till bön] och inte besvarade det, det finns det ingen bön för denne om denne inte har en ursäkt.” [*Ibn Mājah* 793]
 
-Profeten – över honom vare Allāhs frid och välsignelser – sade även till en blind man som sökte tillstånd för att be i sitt hem: ”*Hör du kallet [till bön]?*” Han svarade: ”*Ja*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Besvara det då*.” [*Muslim* 653] Ibn Mas'ud har sagt:
+Profeten – över honom vare Allāhs frid och välsignelser – sade även till en blind man som sökte tillstånd för att be i sitt hem: ”*Hör du kallet [till bön]?*” Han svarade: ”*Ja*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Besvara det då*.” [^4] Ibn Mas'ud har sagt:
 
 > ”Ni har sett oss [följeslagarna] med Allāhs sändebud. Ingen undviker den [bönen i församlingen] utom en hycklare, vars hyckleri är välkänt, eller en invalid. En man skulle föras fram stödd av två män för att få denne att stå i raden.” [*Muslim* 654]
 
@@ -35,7 +37,7 @@ Den korrekta åsikten fordrar att det är en skyldighet. Detta beror på att det
 
 De lärde skiljs åt efter att ha enats om att den är den mest bekräftade formen av dyrkan och den största handlingen av lydnad. De har olika åsikter om det är ett villkor för bönens giltighet eller om bönen är giltig utan den, även om det är en synd. Och det finns även andra meningsskiljaktigheter.
 
-Den korrekta åsikten är att den är en skyldighet men inte ett villkor för att den ska vara giltig. Men den som överger den är en syndare om det inte finns någon laga ursäkt för denne. Bevisen för att den inte är ett villkor för att bönen ska vara giltig är att profeten – över honom vare Allāhs frid och välsignelser – förklarade att bön i församlingen är bättre än bön ensam [*Muslim* 654]. Att bön i församling är bättre än bön ensam är ett bevis för att det finns förtjänst [även] i bön ensam. Så skulle det inte vara utom om den bönen var giltig.
+Den korrekta åsikten är att den är en skyldighet men inte ett villkor för att den ska vara giltig. Men den som överger den är en syndare om det inte finns någon laga ursäkt för denne. Bevisen för att den inte är ett villkor för att bönen ska vara giltig är att profeten – över honom vare Allāhs frid och välsignelser – förklarade att bön i församlingen är bättre än bön ensam [^5]. Att bön i församling är bättre än bön ensam är ett bevis för att det finns förtjänst [även] i bön ensam. Så skulle det inte vara utom om den bönen var giltig.
 
 I vilket fall som helst måste varje förståndig vuxen muslimsk man närvara vid bönen i församlingen, oavsett om denne är på resa eller hemma.
 
@@ -43,3 +45,5 @@ I vilket fall som helst måste varje förståndig vuxen muslimsk man närvara vi
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 
+[^4]: *Muslim* 653
+[^5]: *Muslim* 654

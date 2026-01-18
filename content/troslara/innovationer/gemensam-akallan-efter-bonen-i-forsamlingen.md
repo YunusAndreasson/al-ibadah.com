@@ -1,22 +1,24 @@
 ---
 title: Gemensam åkallan efter bönen i församlingen
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
- Libanon: Maktaba Dar us-Salam. 261 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Libanon: Maktaba Dar us-Salam. 261 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 1498
-description: 'Fråga: I vår by finns det två församlingar. Båda påstår sig följa den
- rätta vägen. Vid slutet av bönen finner vi att en församling höjer händerna och
- åkallar gemensamt på följande sätt: ” Allāh! S...'
+description: >-
+  Fråga: I vår by finns det två församlingar. Båda påstår sig följa den rätta
+  vägen. Vid slutet av bönen finner vi att en församling höjer händerna och
+  åkallar gemensamt på följande sätt: ” Allāh! S...
 ---
 
 **Fråga:** I vår by finns det två församlingar. Båda påstår sig följa den rätta vägen. Vid slutet av bönen finner vi att en församling höjer händerna och åkallar[^1] gemensamt på följande sätt: ”*Allāh! Sänd välsignelser och frid över Muḥammad, Din tjänare och Din Budbärare, den illitterate profeten – över honom vare Allāhs frid och välsignelser – och över hans familj, och följeslagare och sänd de bästa hälsningarna till honom*.” Det finns även en annan åkallan[^1] som de kallar al-Fatih.
 
 Den andra församlingen vill inte göra detta när imamen har sagt *taslīm*[^2].
 
-Frågar vi den första församlingen, säger de att denna åkallan[^1] gör bönen fullständig och att det inte finns något annat än gott i den. Den andra församlingen säger att detta är en innovation som inte har rapporterats från profeten. Som bevis använder de hans ord: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [*Muslim* 1718] Det finns även andra *ahādīth*[^3] som de citerar som bevis. Vi unga män vet inte var sanningen finns. Vi ber att ni gör detta klart för oss.
+Frågar vi den första församlingen, säger de att denna åkallan[^1] gör bönen fullständig och att det inte finns något annat än gott i den. Den andra församlingen säger att detta är en innovation som inte har rapporterats från profeten. Som bevis använder de hans ord: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [^5] Det finns även andra *ahādīth*[^3] som de citerar som bevis. Vi unga män vet inte var sanningen finns. Vi ber att ni gör detta klart för oss.
 
 **Svar:** Vi känner inte till något som tillåter gemensam åkallan[^1] efter imamens *taslīm*[^2]. En fatwa om detta har redan utfärdats av den Permanenta Kommittén.
 
@@ -31,3 +33,4 @@ Och genom Allāh uppnås framgång. Må frid vara över vår profet Muḥammad, 
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^4]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 
+[^5]: *Muslim* 1718

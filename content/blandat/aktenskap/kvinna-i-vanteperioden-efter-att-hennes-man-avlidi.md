@@ -1,22 +1,21 @@
 ---
 title: Kvinna i vänteperioden efter att hennes man avlidit
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
- Maktaba Dar us-Salam. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon: Maktaba
+  Dar us-Salam. ISBN saknas
 categories:
   - Blandat
   - Äktenskap
 original_id: 1630
-description: 'Fråga:   Behöver en kvinna bära svart under vänteperioden efter hennes
- mans bortgång? Svar: En kvinna vars man har avlidit måste sörja genom hela vänteperioden.
- Denna period avgörs efter tid och...'
+description: "Fråga: \_ Behöver en kvinna bära svart under vänteperioden efter hennes mans bortgång? Svar: En kvinna vars man har avlidit måste sörja genom hela vänteperioden. Denna period avgörs efter tid och..."
 ---
 
 **Fråga:** Behöver en kvinna bära svart under vänteperioden efter hennes mans bortgång?
 
 **Svar:** En kvinna vars man har avlidit måste sörja genom hela vänteperioden. Denna period avgörs efter tid och vissa omständigheter. Om en kvinna som blivit änka hade månadsblödning och hon inte var gravid, då är hennes vänteperiod fyra månader och tio dagar från hennes mans bortgång. Detta gäller oavsett om hon kände till att han avlidit eller om hon fick reda på det senare. Början på vänteperioden är därmed vid bortgången. Om det då inträffar att han avlider och hon inte får reda på detta förrän två månader har passerat, då återstår bara två månader och tio dagar. Vänteperioden för en kvinna med månadsblödning avgörs eller bestäms av en given tid, och denna är fyra månader och tio dagar efter hans bortgång.
 
-Den gravida kvinnans vänteperiod varar tills hon fött barnet, oberoende av hur lång denna period är. Vänteperioden kan vara en timme eller två och den kan vara ett eller två år. Detta enligt Allāhs ord om den första: "*När någon av er dör och efterlämnar hustrur, ska de iaktta en vänteperiod av fyra månader och tio dagar [innan de får ingå nytt äktenskap].*" [Koranen 2:234] Och beträffande den senare har Han sagt: ”*Och de som är havande ska invänta barnets födelse. Och för var och en som fruktar Honom gör Gud uppgiften lätt*." [Koranen 65:4]
+Den gravida kvinnans vänteperiod varar tills hon fött barnet, oberoende av hur lång denna period är. Vänteperioden kan vara en timme eller två och den kan vara ett eller två år. Detta enligt Allāhs ord om den första: "*När någon av er dör och efterlämnar hustrur, ska de iaktta en vänteperiod av fyra månader och tio dagar [innan de får ingå nytt äktenskap].*" [^2] Och beträffande den senare har Han sagt: ”*Och de som är havande ska invänta barnets födelse. Och för var och en som fruktar Honom gör Gud uppgiften lätt*." [^3]
 
 I *Sahīh al-Bukhārī* och *Sahīh Muslim* berättas att Subai'ah al-Aslamiyyah födde några nätter efter att hennes man gått bort och sändebudet – över honom vare Allāhs frid och välsignelser – tillät henne att gifta sig. Under vänteperioden efter dödsfall är det tvunget att kvinnan sörjer. Sörjandet består utav fler element:
 
@@ -32,3 +31,5 @@ En sörjande kvinna som talar med män är precis likvärdig med en kvinna som i
 
 [^1]: Släkting som det inte är tillåtet att gifta sig med.
 
+[^2]: Koranen 2:234
+[^3]: Koranen 65:4

@@ -1,15 +1,17 @@
 ---
 title: Allmosans skyldighet och betydelse
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
- Libanon: Maktaba Dar us-Salam. 148 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Libanon: Maktaba Dar us-Salam. 148 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Allmosa (Zakāh)
 original_id: 1382
-description: 'All lovprisan tillhör Allāh allena och må välsignelser och frid vara
- över honom som det inte kommer någon profet efter [profeten Muḥammad] och över hans
- familj och hans följeslagare. Vidare: Det ...'
+description: >-
+  All lovprisan tillhör Allāh allena och må välsignelser och frid vara över
+  honom som det inte kommer någon profet efter [profeten Muḥammad] och över hans
+  familj och hans följeslagare. Vidare: Det ...
 ---
 
 All lovprisan tillhör Allāh allena och må välsignelser och frid vara över honom som det inte kommer någon profet efter [profeten Muḥammad] och över hans familj och hans följeslagare. Vidare:
@@ -76,7 +78,7 @@ Sådana smycken som kvinnor bär och som har gjorts speciellt av guld och silver
 
 > ”Det finns ingen som äger guld eller silver och som inte betalar för dessa utan att eldplattor kommer att tillverkas för denne på Återuppståndelsens dag…” [*Muslim* 987]
 
-Till slutet av denna *hadīth*[^2] som vi redan har visat. Detta beror också på vad man har bekräftat från profeten, att han såg två guldarmband på en kvinnas hand och sade: ”*Betalar du allmosa för dessa?*” Kvinnan svarade: ”*Nej*.” Så han sade: ”*Nöjer det dig att Allāh kommer att göra dem till två armband av eld till dig på Återuppståndelsens dag?*” Så hon slet av dem och sade: ”*De är för Allāh och Hans sändebud*.” [*Abū Dawūd* 1563] Abū Dawūd och an-Nasā’i har återgivit denna *hadīth*[^2] med en god berättarkedja. Man har bekräftat att Umm Salamah bar armringar gjorda av guld så hon sade: ”*Allāhs sändebud! Är detta den giriges skatt [kanz]?*” Han svarade då: ”*Den mängd som når nivån för allmosa betalas allmosa för, då är det inte den giriges skatt [kanz]*.” [*Abū Dawūd* 1564]
+Till slutet av denna *hadīth*[^2] som vi redan har visat. Detta beror också på vad man har bekräftat från profeten, att han såg två guldarmband på en kvinnas hand och sade: ”*Betalar du allmosa för dessa?*” Kvinnan svarade: ”*Nej*.” Så han sade: ”*Nöjer det dig att Allāh kommer att göra dem till två armband av eld till dig på Återuppståndelsens dag?*” Så hon slet av dem och sade: ”*De är för Allāh och Hans sändebud*.” [^6] Abū Dawūd och an-Nasā’i har återgivit denna *hadīth*[^2] med en god berättarkedja. Man har bekräftat att Umm Salamah bar armringar gjorda av guld så hon sade: ”*Allāhs sändebud! Är detta den giriges skatt [kanz]?*” Han svarade då: ”*Den mängd som når nivån för allmosa betalas allmosa för, då är det inte den giriges skatt [kanz]*.” [^7]
 
 När det gäller handelsvaror är det föremål som anses vara till försäljning. Värdet på dem räknar man ut under årets slut och 2.5 procent av värdet ger man i allmosa. Det spelar ingen roll om deras värde är samma som deras pris, eller mer eller mindre. Detta beror på vad Allāhs sändebud – över honom vare Allāhs frid och välsignelser – säger i en *hadīth*[^2] från Samurah i vilken det berättas att han brukade beordra att välgörenhet ges för allt som anses vara till försäljning. Denna *hadīth*[^2] har *Abū Dawūd* återgivit. Här inkluderas även landstycken, byggnader, bilar, maskiner som hämtar upp vatten och andra föremål som kan tänkas vara till försäljning.
 
@@ -106,3 +108,5 @@ Må Allāh sända välsignelser och frid över Hans tjänare och sändebud Muḥ
 [^4]: En vikt likvärdig med ungefär 4.5g.
 [^5]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramadan* 1428).
 
+[^6]: *Abū Dawūd* 1563
+[^7]: *Abū Dawūd* 1564

@@ -1,15 +1,18 @@
 ---
 title: Formen av shirk hos månggudadyrkarna
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 32 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 32 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - Shirk [Att sätta något vid Allāhs sida]
+  - 'Shirk [Att sätta något vid Allāhs sida]'
 original_id: 1163
-description: 'Fråga: Vilken sorts shirk begick månggudadyrkarna som profetens – över honom vare Allāhs frid och välsignelser – sändes till? Svar: Den shirk månggudadyrkarna
- som profeten – över honom var...'
+description: >-
+  Fråga: Vilken sorts shirk begick månggudadyrkarna som profetens – över honom
+  vare Allāhs frid och välsignelser – sändes till? Svar: Den shirk
+  månggudadyrkarna som profeten – över honom var...
 ---
 
 **Fråga:** Vilken sorts *shirk*[^1] begick månggudadyrkarna som profetens – över honom vare Allāhs frid och välsignelser – sändes till?
@@ -33,22 +36,16 @@ Månggudadyrkarna brukade dyrka andra jämsides med Allāh. Han den Välsignades
 Det som avses här är i dyrkan av Honom. Allāh den Upphöjde säger:
 
 > ”Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden ska bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [Koranen 5:72]
->
->
->
->
+
 > ”Gud förlåter inte dem som sätter medhjälpare vid Hans sida, men Han förlåter den Han vill hans mindre synder; den som sätter medhjälpare vid Guds sida sannerligen gjort sig skyldig till en oerhörd synd.” [Koranen 4:48]
->
->
->
->
+
 > ”Er Herre säger: ’Be till Mig, så ska Jag besvara er [bön]. De som håller sig för goda för att tjäna Mig ska gå med böjt huvud in i helvetet.” [Koranen 40:60]
 
 I sura *al-Ikhlas* säger Allāh den Upphöjde:
 
 > "Säg: 'Ni som förnekar sanningen! Jag dyrkar inte vad ni dyrkar. Inte heller dyrkar ni vad jag dyrkar. Och jag kommer aldrig att dyrka vad ni dyrkar, och ni kommer heller aldrig att dyrka vad jag dyrkar. Ni har er tro - och jag har min tro!" [Koranen 109]
 
-Och när jag säger sura *al-Ikhlas* avser jag *ikhlas*[^7] i handlingar, för detta är suran om *ikhlas* när det gäller handlingar, även om den kallas för sura *al-Kafirūn*. Precis som en sura om *ikhlas* i handlingar som sura: "Säg: 'Han är Gud - En, Gud." [Koranen 112:1] är det en sura om *ikhlas* i kunskap och tro.
+Och när jag säger sura *al-Ikhlas* avser jag *ikhlas*[^7] i handlingar, för detta är suran om *ikhlas* när det gäller handlingar, även om den kallas för sura *al-Kafirūn*. Precis som en sura om *ikhlas* i handlingar som sura: "Säg: 'Han är Gud - En, Gud." [^8] är det en sura om *ikhlas* i kunskap och tro.
 
 Och Allāh är Beviljaren av framgång.
 
@@ -60,3 +57,4 @@ Och Allāh är Beviljaren av framgång.
 [^6]: Att särskilja Allāh i dyrkan.
 [^7]: Uppriktighet.
 
+[^8]: Koranen 112:1

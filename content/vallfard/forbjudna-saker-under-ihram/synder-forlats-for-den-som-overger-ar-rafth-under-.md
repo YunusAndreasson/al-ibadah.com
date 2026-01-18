@@ -1,19 +1,28 @@
 ---
 title: Synder förlåts vid övergivande av ar-rafth under vallfärden
 author: Ibn ´Abdullāh Ibn Bāz
-source: "Muḥammad bin ´Abdul-´Azīz \nal-Musnad (1422), Fatawa Islamiyah . \nVolym\
- \ 4. Libanon: Maktaba \nDar us-Salam. 23 s. ISBN \nsaknas Muhammed Knut Bernström\
- \ (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8"
+source: >-
+  Muḥammad bin ´Abdul-´Azīz 
+
+  al-Musnad (1422), Fatawa Islamiyah . 
+
+  Volym 4. Libanon: Maktaba 
+
+  Dar us-Salam. 23 s. ISBN 
+
+  saknas Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn:
+  Proprius. ISBN 91-7118-887-8
 categories:
   - Vallfärd (Hajj)
   - Ihrām-förbud
 original_id: 1317
-description: 'Fråga: En hadīth som lyder enligt följande har rapporterats: ” Den
- som vallfärdar för Allāhs skull och som inte har intim samvaro [med sin fru] eller
- syndar, denne kommer att återvända [efter va...'
+description: >-
+  Fråga: En hadīth som lyder enligt följande har rapporterats: ” Den som
+  vallfärdar för Allāhs skull och som inte har intim samvaro [med sin fru] eller
+  syndar, denne kommer att återvända [efter va...
 ---
 
-**Fråga:** En *hadīth*[^1] som lyder enligt följande har rapporterats: ”*Den som vallfärdar för Allāhs skull och som inte har intim samvaro [med sin fru] eller syndar, denne kommer att återvända [efter vallfärden] som [denne var] den dagen som dennes mor födde denne [utan synd]*.” [*al-Bukhārī* 1521 och *Muslim* 1350]
+**Fråga:** En *hadīth*[^1] som lyder enligt följande har rapporterats: ”*Den som vallfärdar för Allāhs skull och som inte har intim samvaro [med sin fru] eller syndar, denne kommer att återvända [efter vallfärden] som [denne var] den dagen som dennes mor födde denne [utan synd]*.” [^3]
 
 Anses en vallfärd, grundat på denna *hadīth*[^1], vara en gottgörelse för alla synder och onda handlingar som har begåtts tidigare?
 
@@ -23,13 +32,13 @@ Anses en vallfärd, grundat på denna *hadīth*[^1], vara en gottgörelse för a
 
 *al-Fusuq* inkluderar även att fortsätta med sina synder. Den som fortsätter i sin synd har inte övergivit *al-Fusuq*. Därför uppfylls inte detta löfte för denne.
 
-Hadithen ovan har samma betydelse som följande *hadīth*[^1]: ”*En mabrur-hajj har inte någon annan belöning än Paradiset*.” [*al-Bukhārī* 1773 och *Muslim* 1349]
+Hadithen ovan har samma betydelse som följande *hadīth*[^1]: ”*En mabrur-hajj har inte någon annan belöning än Paradiset*.” [^4]
 
 Den är *marbur* när man utför skyldigheterna på ett perfekt sätt, överger syndfulla och olydiga handlingar utan att fortsätta med några av dem. Därmed måste den troende, oavsett om denne är pilgrim eller inte, undvika alla syndiga handlingar och, med anledning av dem, skynda sig att ångra sig inför Allāh. Denne måste överge dem och vara uppriktigt bestämd att inte fortsätta med dem. Detta för att hedra Allāh och i längtan efter att nå det som finns hos Honom.
 
-En perfekt ånger, om det rör en rätt som tillhör någon eller något i skapelsen, sker när denna eller detta får sin rätt [av den som har överträtt denna rätt] eller ber om att få bli befriad från den. Allāh säger: ”*Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå er väl i händer!*” [Koranen 24:31]
+En perfekt ånger, om det rör en rätt som tillhör någon eller något i skapelsen, sker när denna eller detta får sin rätt [av den som har överträtt denna rätt] eller ber om att få bli befriad från den. Allāh säger: ”*Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå er väl i händer!*” [^5]
 
-Och Han säger: ”*Troende! Vänd er i uppriktig ånger [över era synder] till Gud! Kanske ska er Herre ur er [bok] utplåna era dåliga handlingar och föra er till lustgårdar*.” [Koranen 66:8]
+Och Han säger: ”*Troende! Vänd er i uppriktig ånger [över era synder] till Gud! Kanske ska er Herre ur er [bok] utplåna era dåliga handlingar och föra er till lustgårdar*.” [^6]
 
 Den som ångrar sig uppriktigt har då nått framgång och Allāh kommer att skriva av dennes synder och låta denne träda in i Paradiset.
 
@@ -38,3 +47,7 @@ Vi ber Allāh att Han hjälper de muslimska pilgrimerna, och även andra, med at
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 
+[^3]: *al-Bukhārī* 1521 och *Muslim* 1350
+[^4]: *al-Bukhārī* 1773 och *Muslim* 1349
+[^5]: Koranen 24:31
+[^6]: Koranen 66:8

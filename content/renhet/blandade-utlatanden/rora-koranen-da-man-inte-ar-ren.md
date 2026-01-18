@@ -1,18 +1,20 @@
 ---
 title: Röra Koranen då man inte är ren
 author: Ibn ´Abdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
- Maktaba Dar us-Salam. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon: Maktaba
+  Dar us-Salam. ISBN saknas
 categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 1669
-description: 'Fråga: Många studenter håller Koranen när de har uträttat sina behov.
- Detta är en vana i många skolor. Men Allāh den Allsmäktige säger: ” Som inga andra
- än de rena ska röra .” [Koranen 56:79] L...'
+description: >-
+  Fråga: Många studenter håller Koranen när de har uträttat sina behov. Detta är
+  en vana i många skolor. Men Allāh den Allsmäktige säger: ” Som inga andra än
+  de rena ska röra .” [Koranen 56:79] L...
 ---
 
-**Fråga:** Många studenter håller Koranen när de har uträttat sina behov. Detta är en vana i många skolor. Men Allāh den Allsmäktige säger: ”*Som inga andra än de rena ska röra*.” [Koranen 56:79] Likaså har Allāhs sändebud – över honom vare Allāhs frid och välsignelser – sagt: ”*Ingen utom den rene kan röra Koranen*.” [Ibn Hibban 793 och *ad-Daraqutni*] Vilket är utlåtandet? Syndar man om man rör Koranen utan att vara ren?
+**Fråga:** Många studenter håller Koranen när de har uträttat sina behov. Detta är en vana i många skolor. Men Allāh den Allsmäktige säger: ”*Som inga andra än de rena ska röra*.” [^1] Likaså har Allāhs sändebud – över honom vare Allāhs frid och välsignelser – sagt: ”*Ingen utom den rene kan röra Koranen*.” [Ibn Hibban 793 och *ad-Daraqutni*] Vilket är utlåtandet? Syndar man om man rör Koranen utan att vara ren?
 
 **Svar:** Lärare och föräldrar måste lära barnen skyldigheterna i dyrkan. Att recitera Koranen från *mushaf* är en del av detta och här krävs fullständig renhet.
 
@@ -26,3 +28,5 @@ Om det som avses i dessa verser är den Skrift som finns hos Allāh den Allsmäk
 
 Och Allāh den Allsmäktige vet bäst.
 
+
+[^1]: Koranen 56:79

@@ -1,16 +1,18 @@
 ---
 title: Den som ångrar sig från sina synder
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
- Libanon: Maktaba Dar us-Salam. 268 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+  Libanon: Maktaba Dar us-Salam. 268 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Blandat
   - Ånger
 original_id: 677
-description: 'Fråga: Vilken, ädle shaykh, är din åsikt om någon som avsiktligen övergav
- bönen och fastan men som senare inte bara ångrade sig och grät på grund av överträdelsen,
- utan hela tiden även utfört de o...'
+description: >-
+  Fråga: Vilken, ädle shaykh, är din åsikt om någon som avsiktligen övergav
+  bönen och fastan men som senare inte bara ångrade sig och grät på grund av
+  överträdelsen, utan hela tiden även utfört de o...
 ---
 
 **Fråga:** Vilken, ädle *shaykh*, är din åsikt om någon som avsiktligen övergav bönen och fastan men som senare inte bara ångrade sig och grät på grund av överträdelsen, utan hela tiden även utfört de obligatoriska handlingarna av dyrkan? Är denna ånger tillräcklig för honom eller måste han ta igen de förlorade bönerna och fastan?
@@ -28,10 +30,7 @@ Allāhs sändebud har sagt:
 Det finns många bevis för detta, exempelvis har Allāh sagt:
 
 > ”Men Jag ger förvisso den full förlåtelse som ångrar sig, antar tron och sedan lever ett rättskaffens liv och följer vägledningen.” [Koranen 20:82]
->
->
->
->
+
 > ”Troende! Vänd er i uppriktig ånger [över era synder] till Gud! Kanske ska er Herre ur er [bok] utplåna era dåliga handlingar och föra er till lustgårdar, vattnade av bäckar.” [Koranen 66:8]
 
 Profeten har även sagt:

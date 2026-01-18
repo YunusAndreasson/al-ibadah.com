@@ -1,22 +1,24 @@
 ---
 title: Vad den sörjande kvinnan är skyldig att undvika
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
- Maktaba Dar us-Salam. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon: Maktaba
+  Dar us-Salam. ISBN saknas
 categories:
   - Blandat
   - Äktenskap
 original_id: 1631
-description: 'Fråga: Vad måste en kvinna göra när hennes man avlider? Svar: Vad
- den sörjande kvinnan måste undvika har nämnts i ahādīth. Det krävs att hon gör fem
- saker: Hon måste stanna i hemmet so...'
+description: >-
+  Fråga: Vad måste en kvinna göra när hennes man avlider? Svar: Vad den sörjande
+  kvinnan måste undvika har nämnts i ahādīth. Det krävs att hon gör fem saker:
+  Hon måste stanna i hemmet so...
 ---
 
 **Fråga:** Vad måste en kvinna göra när hennes man avlider?
 
 **Svar:** Vad den sörjande kvinnan måste undvika har nämnts i *ahādīth*[^1]. Det krävs att hon gör fem saker:
 
-1. Hon måste stanna i hemmet som hon bodde i när hennes man avled.  Hon stannar där tills vänteperioden är över, det vill säga. fyra månader och tio dagar. Detta gäller dock inte om hon är gravid för då är hennes vänteperiod över när hon föder barnet. Allāh den Härlige, den Högste har sagt: ”*Och de som är havande ska invänta barnets födelse. Och för var och en som fruktar Honom gör Gud uppgiften lätt*." [Koranen 65:4] Hon får inte ge sig ut utom om hon har något behov eller det uppstår en nödsituation, som att hon behöver besöka sjukhuset när hon är sjuk eller för att köpa vad hon behöver på marknadsplatsen som mat eller liknande. Detta gäller om hon inte har någon som kan göra det åt henne. På samma sätt, om hemmet är förstört, då kan hon lämna det och bege sig till ett annat eller om hon inte har någon som kan ta hand om henne och hon fruktar för sin säkerhet, då finns det ingen invändan mot detta på grund av behovet.
+1. Hon måste stanna i hemmet som hon bodde i när hennes man avled.  Hon stannar där tills vänteperioden är över, det vill säga. fyra månader och tio dagar. Detta gäller dock inte om hon är gravid för då är hennes vänteperiod över när hon föder barnet. Allāh den Härlige, den Högste har sagt: ”*Och de som är havande ska invänta barnets födelse. Och för var och en som fruktar Honom gör Gud uppgiften lätt*." [^3] Hon får inte ge sig ut utom om hon har något behov eller det uppstår en nödsituation, som att hon behöver besöka sjukhuset när hon är sjuk eller för att köpa vad hon behöver på marknadsplatsen som mat eller liknande. Detta gäller om hon inte har någon som kan göra det åt henne. På samma sätt, om hemmet är förstört, då kan hon lämna det och bege sig till ett annat eller om hon inte har någon som kan ta hand om henne och hon fruktar för sin säkerhet, då finns det ingen invändan mot detta på grund av behovet.
 2. Hon får inte bära vackra kläder, varken gula eller gröna eller några andra. I stället måste hon bära enkla kläder, vilket profeten – över honom vare Allāhs frid och välsignelser – har beordrat.
 3. Hon måste undvika smycken som guld, silver, diamanter, pärlor och liknande. Detta gäller oavsett om det är halsband, armband, ringar eller något annat. Tiden för detta är fram tills vänteperioden är över.
 4. Hon måste undvika att använda parfymer. Hon får varken använda rökelser eller någon annan form av doft, förutom när hon blivit ren efter sin månadsblödning för då finns det ingen invändan mot att hon använder det.
@@ -37,3 +39,4 @@ Och Allāh är Beviljaren av framgång.
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Släkting som det inte är tillåtet att gifta sig med.
 
+[^3]: Koranen 65:4

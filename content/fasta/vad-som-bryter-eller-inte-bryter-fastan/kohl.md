@@ -1,15 +1,17 @@
 ---
 title: Kohl
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 647 s. ISBN 9960-892-66-2'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 647 s. ISBN 9960-892-66-2
 categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1044
-description: 'Fråga: Vilket är utlåtandet om att en fastande använder kohl? Svar: Det
- finns ingen invändan mot att en fastande använder kohl, ögondroppar eller näsdroppar. Även
- om smaken känns i halsen b...'
+description: >-
+  Fråga: Vilket är utlåtandet om att en fastande använder kohl? Svar: Det finns
+  ingen invändan mot att en fastande använder kohl, ögondroppar eller
+  näsdroppar. Även om smaken känns i halsen b...
 ---
 
 **Fråga:** Vilket är utlåtandet om att en fastande använder *kohl*[^1]?
@@ -22,8 +24,9 @@ Vad jag har nämnt är den åsikt som *Shaykhul-Islām* Ibn Taymiyyah – må Al
 
 Men om den fastande tar dropparna i näsan och de når magen, då bryts fastan om detta gjordes avsiktligen.
 
-Profeten – över honom vare Allāhs frid och välsignelser – sade: "*Överdriv indraget av vatten i näsan [under tvagningen[^2]] utom när ni är fastande*." [*Abū Dawūd* 142, *at-Tirmithi* 38, *an-Nasā'i* 87 och *Ibn Mājah* 448]
+Profeten – över honom vare Allāhs frid och välsignelser – sade: "*Överdriv indraget av vatten i näsan [under tvagningen[^2]] utom när ni är fastande*." [^3]
 
 [^1]: Svart pulver av antimon som appliceras runt ögonen.
 [^2]: Wudū
 
+[^3]: *Abū Dawūd* 142, *at-Tirmithi* 38, *an-Nasā'i* 87 och *Ibn Mājah* 448

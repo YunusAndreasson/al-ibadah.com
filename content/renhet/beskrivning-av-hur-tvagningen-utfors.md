@@ -1,15 +1,17 @@
 ---
 title: Beskrivning av hur tvagningen utförs
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 326 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 326 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Renhet (Tahārah)
 original_id: 1128
-description: 'Fråga: Vilken är beskrivningen av hur tvagningen ska göras enligt
- islam? Svar: Enligt islam är beskrivning av hur tvagningen ska göras följande: Den
- obligatoriska formen som tvagningen...'
+description: >-
+  Fråga: Vilken är beskrivningen av hur tvagningen ska göras enligt islam? Svar:
+  Enligt islam är beskrivning av hur tvagningen ska göras följande: Den
+  obligatoriska formen som tvagningen...
 ---
 
 **Fråga:** Vilken är beskrivningen av hur tvagningen[^1] ska göras enligt islam?
@@ -26,9 +28,10 @@ Det andra sättet att göra tvagningen[^1] på är det som är att föredra. Vi 
 
 > ”*Ashhadu anla ilaha illallahu wahdahu la sharīka lahu, wa ashhadu anna Muḥammadan 'abduhu wa rasuluhu. Allāhu-maj'alnī minat-tawwabīna waj'alnī minal-mutahahhirīn*.”
 
-Gör man det kommer Paradisets åtta portar att öppnas och man får träda in genom vilken man vill. Den *hadīth*[^3] i vilken profeten – över honom vare Allāhs frid och välsignelser – säger detta till ´Umar har styrkts. [*Muslim* 234]
+Gör man det kommer Paradisets åtta portar att öppnas och man får träda in genom vilken man vill. Den *hadīth*[^3] i vilken profeten – över honom vare Allāhs frid och välsignelser – säger detta till ´Umar har styrkts. [^4]
 
 [^1]: Wudū
 [^2]: I Guds namn.
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
+[^4]: *Muslim* 234

@@ -1,16 +1,18 @@
 ---
 title: Ta betalt för att recitera Koranen
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
- Libanon: Maktaba Dar us-Salam. 73 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Libanon: Maktaba Dar us-Salam. 73 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 55
-description: 'Fråga: Några som har memorerat Koranen i Marocko livnär sig på att
- recitera den. Så fort det finns en stor middag så kommer de till den för att läsa
- Koranen, utan att begrunda dess mening eller at...'
+description: >-
+  Fråga: Några som har memorerat Koranen i Marocko livnär sig på att recitera
+  den. Så fort det finns en stor middag så kommer de till den för att läsa
+  Koranen, utan att begrunda dess mening eller at...
 ---
 
 **Fråga:** Några som har memorerat Koranen i Marocko livnär sig på att recitera den. Så fort det finns en stor middag så kommer de till den för att läsa Koranen, utan att begrunda dess mening eller att respektera hur den ska reciteras. De närvar vid sådana fester endast för att tjäna pengar och få gåvor från de som söker välsignelser. När de har samlat in dessa gåvor delar de dem mellan sig själva, men fattiga får inget.
@@ -47,7 +49,7 @@ Har man efter att ha gjort sitt bästa inte förmåga att förstå Koranen, då 
 
 Den fattige får ta emot välgörenhet för att det ska täcka dennes behov, men om denne tar betalt för att läsa Koranen eller för att predika, då är de inte tillåtet. Det är heller inte tillåtet att ge sådana pengar i hopp om att få välsignelser eller för att någon ska åkalla för en. Muslimerna under det tre första generationerna vars förträfflighet profeten – över honom vare Allāhs frid och välsignelser – har gått i god för gjorde inte så här.
 
-Innebörden av: ”*Jag begär ingen lön av er för detta [budskap]*.” [Koranen 38:86]
+Innebörden av: ”*Jag begär ingen lön av er för detta [budskap]*.” [^3]
 
 Allāh den Upphöjde kommenderar Sitt sändebud Muḥammad att berätta för folket att han inte söker belöningar eller pengar för att förmedla till dem det som uppenbarats för honom från Herren. Profeten – över honom vare Allāhs frid och välsignelser – kallar dem till att dyrka enbart Allāh och han kallar dem till de islamiska lagarna. Profeten – över honom vare Allāhs frid och välsignelser – har anförtrotts att leverera och tydliggöra åtlydandet av hans Herre, för att få Hans tillfredsställelse och belöningar enbart från Honom.
 
@@ -78,3 +80,4 @@ Och Allāh vet bäst.
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Dhikr
 
+[^3]: Koranen 38:86

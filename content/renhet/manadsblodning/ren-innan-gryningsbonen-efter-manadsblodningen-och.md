@@ -1,15 +1,19 @@
 ---
-title: Ren innan gryningsbönen efter månadsblödningen och gör ghusl efter gryningsbönen
+title: >-
+  Ren innan gryningsbönen efter månadsblödningen och gör ghusl efter
+  gryningsbönen
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 659 s. ISBN 9960-892-66-2'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 659 s. ISBN 9960-892-66-2
 categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 1048
-description: 'Fråga: Om en kvinna med månadsblödning blir ren innan gryningsbönen
- och hon gör ghusl när den [gryningsbönen] har börjat, vilket är då utlåtandet
- om hennes fasta? Svar: Fastan är giltig om h...'
+description: >-
+  Fråga: Om en kvinna med månadsblödning blir ren innan gryningsbönen och hon
+  gör ghusl när den [gryningsbönen] har börjat, vilket är då utlåtandet om
+  hennes fasta? Svar: Fastan är giltig om h...
 ---
 
 **Fråga:** Om en kvinna med månadsblödning blir ren innan gryningsbönen[^1] och hon gör *ghusl*[^2] när den [gryningsbönen[^1]] har börjat, vilket är då utlåtandet om hennes fasta?
@@ -22,7 +26,7 @@ Det har kommit till vår kännedom att vissa kvinnor blir rena när gryningsbön
 
 Det är hennes skyldighet att skyndsamt göra *ghusl*[^2] för att be vid den angivna tiden. Hon kan begränsa sig själv till en [minimal] obligatorisk *ghusl*[^2] för att be. Vill hon sedan rena sig ännu mer efter solens uppgång så syndar hon inte. En kvinna med månadsblödning går att likna vid någon som befinner sig i ett tillstånd av stor rituell orenhet och som inte har utfört *ghusl*[^2] innan gryningsbönen[^1]. Hon har inte syndat och hennes fasta är giltig.
 
-På samma sätt om man var rituell oren och inte gjorde *ghusl*[^2] förrän efter gryningsbönen[^1] inträtt, då syndar man inte. Från profeten – över honom vare Allāhs frid och välsignelser – har man bekräftat att gryningsbönen[^1] började medan han var rituellt oren efter att ha haft intim samvaro med sin fru. Han fastade då och gjorde *ghusl*[^2] efter gryningsbönen[^1]. [*al-Bukhārī* 1930 och *Muslim* 1109]
+På samma sätt om man var rituell oren och inte gjorde *ghusl*[^2] förrän efter gryningsbönen[^1] inträtt, då syndar man inte. Från profeten – över honom vare Allāhs frid och välsignelser – har man bekräftat att gryningsbönen[^1] började medan han var rituellt oren efter att ha haft intim samvaro med sin fru. Han fastade då och gjorde *ghusl*[^2] efter gryningsbönen[^1]. [^4]
 
 Och Allāh vet bättre.
 
@@ -30,3 +34,4 @@ Och Allāh vet bättre.
 [^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^3]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 
+[^4]: *al-Bukhārī* 1930 och *Muslim* 1109

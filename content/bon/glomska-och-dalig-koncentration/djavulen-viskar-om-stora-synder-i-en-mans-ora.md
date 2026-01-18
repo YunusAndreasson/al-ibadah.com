@@ -1,16 +1,18 @@
 ---
 title: Djävulen viskar om stora synder i en mans öra
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 55 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 55 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 1168
-description: 'Fråga: Det finns en man som lider av djävulens viskningar. Djävulen
- viskar saker till honom som är stora synder beträffande Allāh den Allsmäktige. Han
- är mycket rädd för detta. Vilket är ert råd? ...'
+description: >-
+  Fråga: Det finns en man som lider av djävulens viskningar. Djävulen viskar
+  saker till honom som är stora synder beträffande Allāh den Allsmäktige. Han är
+  mycket rädd för detta. Vilket är ert råd? ...
 ---
 
 **Fråga:** Det finns en man som lider av djävulens viskningar. Djävulen viskar saker till honom som är stora synder beträffande Allāh den Allsmäktige. Han är mycket rädd för detta. Vilket är ert råd?
@@ -19,13 +21,13 @@ description: 'Fråga: Det finns en man som lider av djävulens viskningar. Djäv
 
 Han är inte den förste och inte heller den siste vars tro har ställts inför denna situation. Detta kommer att fortsätta så länge det finns troende i denna värld och detta drabbade även profetens – över honom vare Allāhs frid och välsignelser – följeslagare. Från Abū Hurairah har det rapporterats att han har sagt: ”
 
-Några av profetens – över honom vare Allāhs frid och välsignelser – följeslagare kom till profeten – över honom vare Allāhs frid och välsignelser – och de sade till honom: 'I våra inre upplever vi saker som vi alla anser vara för allvarliga för att tala om.' Han sade: 'Upplever ni det verkligen?' De svarade: 'Ja.' Då svarade han: 'Detta är sann tro.'” [*Muslim* 132]
+Några av profetens – över honom vare Allāhs frid och välsignelser – följeslagare kom till profeten – över honom vare Allāhs frid och välsignelser – och de sade till honom: 'I våra inre upplever vi saker som vi alla anser vara för allvarliga för att tala om.' Han sade: 'Upplever ni det verkligen?' De svarade: 'Ja.' Då svarade han: 'Detta är sann tro.'” [^3]
 
 I *Sahīh al-Bukhārī* och *Sahīh Muslim* har det även återgivits från Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – sade: ”Djävulen kommer till var och en av er och säger:
 
 > 'Vem skapade detta?' 'Vem skapade detta?' tills han säger: 'Vem skapade er Herre?' När han uppmuntrar till en sådan fråga bör man söka till tillflykt hos Allāh och ge upp sådana tankar.” [*al-Bukhārī* 3276 *Muslim* 134]
 
-Det har rapporterats från Ibn ‘Abbās att en man kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: ”Allāhs *sändebud! En av oss har sådana tankar att han hellre skulle förvandlas till träkol än att tala om dem*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*All lovprisan tillhör Allāh som har begränsat detta för honom [djävulens list] till [onda] viskningar*.” [*Abū Dawūd* 5112 och *al-Musnad* 1:340]
+Det har rapporterats från Ibn ‘Abbās att en man kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: ”Allāhs *sändebud! En av oss har sådana tankar att han hellre skulle förvandlas till träkol än att tala om dem*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*All lovprisan tillhör Allāh som har begränsat detta för honom [djävulens list] till [onda] viskningar*.” [^4]
 
 *Shaykh ul-Islām* ibn Taymiyah säger i sin bok om *īmān*:
 
@@ -57,3 +59,5 @@ Jag ber Allāh den Upphöjde att han ger dig säkerhet och skydd från allt ont 
 [^1]: Kämpa för Allāhs sak.
 [^2]: Dhikr
 
+[^3]: *Muslim* 132
+[^4]: *Abū Dawūd* 5112 och *al-Musnad* 1:340

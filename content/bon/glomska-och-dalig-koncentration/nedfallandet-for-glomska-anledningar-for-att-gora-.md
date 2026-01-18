@@ -1,15 +1,17 @@
 ---
 title: Nedfallandet för glömska – anledningar för att göra det
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 501 s. ISBN 9960-892-66-2'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 501 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 971
-description: 'Fråga: Vad finns det för anledningar till att man gör nedfallandet
- för glömska[^1]? Svar: Anledningarna till att man gör nedfallandet för glömska[^1]
- är tre: Överskridande : Som när någon ...'
+description: >-
+  Fråga: Vad finns det för anledningar till att man gör nedfallandet för
+  glömska[^1]? Svar: Anledningarna till att man gör nedfallandet för glömska[^1]
+  är tre: Överskridande : Som när någon ...
 ---
 
 **Fråga:** Vad finns det för anledningar till att man gör nedfallandet för glömska[^1]?
@@ -20,11 +22,11 @@ description: 'Fråga: Vad finns det för anledningar till att man gör nedfallan
 2. Utelämnande: Som när någon utelämnar en av bönens obligatoriska pelare.
 3. Tvivel: Osäker på hur många bönecykler[^4] man har förrättat, har man bett tre eller fyra?
 
-Beträffande överskridande, om man avsiktligen gör en extra bugning[^2], nedfallan[^3] eller sittning blir bönen ogiltig. Detta beror på att man har överskridit i bönen när man utfört den på ett annat sätt än det som Allāh den Upphöjde och Hans sändebud har kommenderat. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Den som utför en handling som inte tillhör denna vår fråga [religionen] kommer att få den avvisad*." [*Muslim* och *al-Bukhārī*]
+Beträffande överskridande, om man avsiktligen gör en extra bugning[^2], nedfallan[^3] eller sittning blir bönen ogiltig. Detta beror på att man har överskridit i bönen när man utfört den på ett annat sätt än det som Allāh den Upphöjde och Hans sändebud har kommenderat. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Den som utför en handling som inte tillhör denna vår fråga [religionen] kommer att få den avvisad*." [^11]
 
-Men om man på grund av glömska lade till något blir bönen inte ogiltig. I stället måste man nedfalla för glömska[^1] efter att ha gjort *taslīm*[^5]. Beviset för detta är en *hadīth*[^6] från Abū Hurairah om när profeten – över honom vare Allāhs frid och välsignelser – gjorde *taslīm*[^5] efter två bönecykler[^4] i en av eftermiddagsbönerna, antingen middagsbönen[^7] eller eftermiddagsbönen[^8]. När de påminde honom bad han det som återstod av bönen för att sedan göra *taslīm*[^5]. Därefter gjorde han två nedfallanden[^3]. [*al-Bukhārī* och *Muslim*]
+Men om man på grund av glömska lade till något blir bönen inte ogiltig. I stället måste man nedfalla för glömska[^1] efter att ha gjort *taslīm*[^5]. Beviset för detta är en *hadīth*[^6] från Abū Hurairah om när profeten – över honom vare Allāhs frid och välsignelser – gjorde *taslīm*[^5] efter två bönecykler[^4] i en av eftermiddagsbönerna, antingen middagsbönen[^7] eller eftermiddagsbönen[^8]. När de påminde honom bad han det som återstod av bönen för att sedan göra *taslīm*[^5]. Därefter gjorde han två nedfallanden[^3]. [^12]
 
-I en *hadīth*[^6] från Ibn Mas’ūd säger han att profeten – över honom vare Allāhs frid och välsignelser – bad fem bönecykler[^4] medan han ledde dem i bön och när han var färdig frågade de honom: ”Har bönen utökats?” Han svarade då: ”Och varför frågar ni det?” De svarade då: ”Du bad fem [bönecykler[^4]].” Han böjde då sina ben, riktade sig mot *qiblah*[^9] och gjorde två nedfallanden[^3]. [*al-Bukhārī* och *Muslim*]
+I en *hadīth*[^6] från Ibn Mas’ūd säger han att profeten – över honom vare Allāhs frid och välsignelser – bad fem bönecykler[^4] medan han ledde dem i bön och när han var färdig frågade de honom: ”Har bönen utökats?” Han svarade då: ”Och varför frågar ni det?” De svarade då: ”Du bad fem [bönecykler[^4]].” Han böjde då sina ben, riktade sig mot *qiblah*[^9] och gjorde två nedfallanden[^3]. [^13]
 
 Beträffande utelämnande, om man utelämnar en av bönens pelare hamnar man i en av följande kategorier:
 
@@ -34,7 +36,7 @@ Ett exempel på detta skulle vara om man reste sig upp efter att ha utfört det 
 
 Ett annat exempel skulle vara om man inte kom ihåg förrän när man nått dess plats i den andra bönecykeln[^4]. Man kommer då på att man stod upp efter det första nedfallandet[^3] i den första bönecykeln[^4], att man varken utförde det andra nedfallandet[^3] eller satt mellan de båda nedfallandena[^3]. Man insåg inte detta förrän man satt mellan de två nedfallandena[^3] i den andra bönecykeln[^4]. I detta fall skulle den andra bönecykeln[^4] vara den första. Man lägger då till en extra bönecykel[^4] till sin bön och gör *taslīm*[^5] efter att ha utfört nedfallandet för glömska[^1].
 
-Beträffande att utelämna en obligatorisk handling, om man utelämnade den och rörde sig från dess plats till den nästa, som om man glömde att säga: *Subhana rabbial a’la* [Glorifierad är min Herre, den Högste] och man inte kom ihåg det förrän man höjt huvudet från nedfallandet[^3], då har man utelämnat en av de obligatoriska handlingarna i bönen. I detta fall måste man fortsätta i sin bön och göra nedfallandet för glömska[^1] innan man gör *taslīm*[^5]. När profeten – över honom vare Allāhs frid och välsignelser – utelämnade den första *tashahhud*[^10] fortsatte han därför med sin bön utan att gå tillbaka. Han gjorde sen nedfallandet för glömska[^1] innan han gjorde *taslīm*[^5]. [*al-Bukhārī* 829 och *Muslim* 570]
+Beträffande att utelämna en obligatorisk handling, om man utelämnade den och rörde sig från dess plats till den nästa, som om man glömde att säga: *Subhana rabbial a’la* [Glorifierad är min Herre, den Högste] och man inte kom ihåg det förrän man höjt huvudet från nedfallandet[^3], då har man utelämnat en av de obligatoriska handlingarna i bönen. I detta fall måste man fortsätta i sin bön och göra nedfallandet för glömska[^1] innan man gör *taslīm*[^5]. När profeten – över honom vare Allāhs frid och välsignelser – utelämnade den första *tashahhud*[^10] fortsatte han därför med sin bön utan att gå tillbaka. Han gjorde sen nedfallandet för glömska[^1] innan han gjorde *taslīm*[^5]. [^14]
 
 Tvivel är när man är osäker på om man har gjort för mycket eller för lite, som när man är osäker på om man har bett tre eller fyra bönecykler[^4]. I detta fall gäller en av följande två möjligheter:
 
@@ -55,3 +57,7 @@ Därmed är det klart att nedfallandet för glömska[^1] kommer innan *taslīm*[
 [^9]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 [^10]: Vad man läser i den sittande positionen under bönen.
 
+[^11]: *Muslim* och *al-Bukhārī*
+[^12]: *al-Bukhārī* och *Muslim*
+[^13]: *al-Bukhārī* och *Muslim*
+[^14]: *al-Bukhārī* 829 och *Muslim* 570

@@ -15,6 +15,12 @@
     "lint": "biome check .",
     "lint:fix": "biome check --write .",
     "format": "biome format --write .",
+    "migrate:citations": "tsx scripts/migrate-citations.ts",
+    "migrate:citations:dry": "tsx scripts/migrate-citations.ts --dry-run",
+    "fix:blockquotes": "tsx scripts/fix-blockquotes.ts",
+    "fix:blockquotes:dry": "tsx scripts/fix-blockquotes.ts --dry-run",
+    "fix:footnotes": "tsx scripts/fix-footnotes.ts",
+    "fix:footnotes:dry": "tsx scripts/fix-footnotes.ts --dry-run",
     "deploy": "pnpm build && wrangler pages deploy .output"
   },
   "dependencies": {

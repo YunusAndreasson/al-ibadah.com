@@ -1,22 +1,24 @@
 ---
 title: Gjorde takbīr för sunnah-bönen och sedan började den obligatoriska
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
- Libanon: Maktaba Dar us-Salam. 297 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Libanon: Maktaba Dar us-Salam. 297 s. ISBN saknas
 categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 1571
-description: 'Fråga: En man gick in i moskén för att be sunnah -bönen innan middagsbönen.
- Han gjorde takbīr men sedan började den obligatoriska bönen. Bör han avbryta bönen
- eller fullfölja den? Jag ber om ett ...'
+description: >-
+  Fråga: En man gick in i moskén för att be sunnah -bönen innan middagsbönen.
+  Han gjorde takbīr men sedan började den obligatoriska bönen. Bör han avbryta
+  bönen eller fullfölja den? Jag ber om ett ...
 ---
 
 **Fråga:** En man gick in i moskén för att be *sunnah*[^1]-bönen innan middagsbönen[^2]. Han gjorde *takbīr*[^3] men sedan började den obligatoriska bönen. Bör han avbryta bönen eller fullfölja den? Jag ber om ett klargörande om denna fråga.
 
-**Svar:** Om den obligatoriska bönen börjar medan en i församlingen ber hälsningsbönen till moskén[^4] eller *sunnah*[^1]-bönen, då bör han avbryta sin bön och förbereda sig för den obligatoriska. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om den obligatoriska bönen börjar så finns det ingen bön utom den obligatoriska*.” [*Muslim* 710]
+**Svar:** Om den obligatoriska bönen börjar medan en i församlingen ber hälsningsbönen till moskén[^4] eller *sunnah*[^1]-bönen, då bör han avbryta sin bön och förbereda sig för den obligatoriska. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om den obligatoriska bönen börjar så finns det ingen bön utom den obligatoriska*.” [^8]
 
-Vissa lärda anser att han bör fullfölja den snabbt. De baserar det på Allāhs ord: ”*Troende! Lyd Gud och lyd Sändebudet och låt inte era [goda] handlingar gå förlorade!*” [Koranen 47:33]
+Vissa lärda anser att han bör fullfölja den snabbt. De baserar det på Allāhs ord: ”*Troende! Lyd Gud och lyd Sändebudet och låt inte era [goda] handlingar gå förlorade!*” [^9]
 
 De tolkar den ovan nämnda *hadithen* som att den syftar på den som har börjat *sunnah*[^1]-bönen efter *iqāmah*[^5]. Den korrekta åsikten är dock det första uttalandet. Den *hadīth*[^6] som nämnts täcker ju båda situationerna. Andra *ahādīth*[^6] har rapporterats som visar att detta är generellt och att han sade detta då han såg en man be medan böneutroparen ropade ut *iqāmah*[^5].
 
@@ -34,3 +36,5 @@ Och Allāh är Beviljaren av framgång.
 [^6]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^7]: Rättslära.
 
+[^8]: *Muslim* 710
+[^9]: Koranen 47:33

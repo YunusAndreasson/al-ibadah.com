@@ -1,25 +1,27 @@
 ---
 title: Resenärens bön och fasta – hur de utförs
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 2. Libanon: Makbtaba Dar us-Salam. 636 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
+  Libanon: Makbtaba Dar us-Salam. 636 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Fasta (Sawm)
   - Resenärens fasta
 original_id: 1260
-description: 'Fråga: När och hur fastar och ber den resande? Svar: Den resandes
- bön är två bönecykler från den tidpunkt som denne lämnar sin hemstad tills denne
- återvänder. Detta är enligt ett uttalande frå...'
+description: >-
+  Fråga: När och hur fastar och ber den resande? Svar: Den resandes bön är två
+  bönecykler från den tidpunkt som denne lämnar sin hemstad tills denne
+  återvänder. Detta är enligt ett uttalande frå...
 ---
 
 **Fråga:** När och hur fastar och ber den resande?
 
-**Svar:** Den resandes bön är två bönecykler[^1] från den tidpunkt som denne lämnar sin hemstad tills denne återvänder. Detta är enligt ett uttalande från ‘A’ishah: ”När *bönen först påbjöds var den två bönecykler[^1]. Senare behölls resebönerna som de var men de hemmavarandes fullbordades*.” I en annan version sägs det: ”*Bönerna för de hemmavarande ökades*.” [*al-Bukhārī* 1090 och *Muslim* 685]
+**Svar:** Den resandes bön är två bönecykler[^1] från den tidpunkt som denne lämnar sin hemstad tills denne återvänder. Detta är enligt ett uttalande från ‘A’ishah: ”När *bönen först påbjöds var den två bönecykler[^1]. Senare behölls resebönerna som de var men de hemmavarandes fullbordades*.” I en annan version sägs det: ”*Bönerna för de hemmavarande ökades*.” [^11]
 
-Anas bin Mālik sade: ”*Vi gav oss ut på en resa från Medina till Mecka tillsammans med profeten – över honom vare Allāhs frid och välsignelser – och han bad två bönecykler[^1] för varje bön med fyra bönecykler[^1] tills vi återvände till Medina*.” [*al-Bukhārī* 1081 och *Muslim* 693]
+Anas bin Mālik sade: ”*Vi gav oss ut på en resa från Medina till Mecka tillsammans med profeten – över honom vare Allāhs frid och välsignelser – och han bad två bönecykler[^1] för varje bön med fyra bönecykler[^1] tills vi återvände till Medina*.” [^12]
 
-Men om man ber tillsammans med en imam som ber en oförkortad bön, då måste man be fyra bönecykler[^1] oavsett om man hinner med bönen från början eller om man missar delar av den. Detta beror på den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*När ni hör *iqamah*[^2], gå då fram i lugn och ro. Skynda er inte. Be det som ni har möjlighet att be och fullborda [det som ni har missat]*." [*al-Bukhārī* 636] Så den generella innebörden av hans ord: "*Be det som ni har möjlighet att be och fullborda [det som ni har missat]*" inkluderar även den resande som ber bakom en imam som ber fyra bönecykler[^1].
+Men om man ber tillsammans med en imam som ber en oförkortad bön, då måste man be fyra bönecykler[^1] oavsett om man hinner med bönen från början eller om man missar delar av den. Detta beror på den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*När ni hör *iqamah*[^2], gå då fram i lugn och ro. Skynda er inte. Be det som ni har möjlighet att be och fullborda [det som ni har missat]*." [^13] Så den generella innebörden av hans ord: "*Be det som ni har möjlighet att be och fullborda [det som ni har missat]*" inkluderar även den resande som ber bakom en imam som ber fyra bönecykler[^1].
 
 Ibn 'Abbas ställdes frågan: "*Varför är det så att en resenär ber två bönecykler[^1] om denne ber ensam och fyra om denne leds av en hemmavarande imam?" Han svarade: "Det är *sunnah*[^3]."
 
@@ -50,3 +52,6 @@ All lovprisan tillhör Allāh, världarnas Herre.
 [^9]: Asr
 [^10]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 
+[^11]: *al-Bukhārī* 1090 och *Muslim* 685
+[^12]: *al-Bukhārī* 1081 och *Muslim* 693
+[^13]: *al-Bukhārī* 636

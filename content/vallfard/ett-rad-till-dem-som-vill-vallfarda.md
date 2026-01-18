@@ -1,15 +1,17 @@
 ---
 title: Ett råd till dem som vill vallfärda
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
- Libanon: Maktaba Dar us-Salam. 21 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Libanon: Maktaba Dar us-Salam. 21 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Vallfärd (Hajj)
 original_id: 700
-description: 'Fråga: All lovprisan tillhör Allāh ensam och må böner med välsignelser
- och frid vara över Hans tjänare och Budbärare, vår profet Muḥammad, och hans följeslagare
- och alla de som följer dem i rättfä...'
+description: >-
+  Fråga: All lovprisan tillhör Allāh ensam och må böner med välsignelser och
+  frid vara över Hans tjänare och Budbärare, vår profet Muḥammad, och hans
+  följeslagare och alla de som följer dem i rättfä...
 ---
 
 **Fråga:** All lovprisan tillhör Allāh ensam och må böner med välsignelser och frid vara över Hans tjänare och Budbärare, vår profet Muḥammad, och hans följeslagare och alla de som följer dem i rättfärdighet fram till Domens Dag.
@@ -26,7 +28,7 @@ Och när Han har tilltalat profeten – över honom vare Allāhs frid och välsi
 
 > ”Men det har uppenbarats för dig liksom för dina föregångare att om någon sätter medhjälpare vid Guds sida ska allt vad han har åstadkommit [i denna värld] gå om intet och [i nästa liv] ska han höra till förlorarna.” [Koranen 39:65]
 
-Ni som ska vallfärda till Allāhs heliga hus! Sannerligen, vår profet – över honom vare Allāhs frid och välsignelser – vallfärdade inte mer än en gång efter hans utvandring till Medina. Det var hans sista vallfärd och den skedde under slutet av hans livstid. Genom ord och handling lärde han här folket vallfärdsriterna. Han sade till dem: ”*Ta era vallfärdsriter från mig*.” [*al-Bayhaqi* 5:121]
+Ni som ska vallfärda till Allāhs heliga hus! Sannerligen, vår profet – över honom vare Allāhs frid och välsignelser – vallfärdade inte mer än en gång efter hans utvandring till Medina. Det var hans sista vallfärd och den skedde under slutet av hans livstid. Genom ord och handling lärde han här folket vallfärdsriterna. Han sade till dem: ”*Ta era vallfärdsriter från mig*.” [^25]
 
 Därmed måste alla muslimer följa honom i detta och vallfärda på det sätt som har angivits för dem. Detta eftersom han är den vägledande läraren och Allāh har sänt honom som en nåd till alla världar och som en slutgiltighet för Hans tjänare. Därmed har Allāh kommenderat tjänarna att lyda honom [Profeten] och Han har klargjort att det är en anledning för att träda in i Paradiset och räddas från Elden om man följer honom. Han har förklarat att profeten – över honom vare Allāhs frid och välsignelser – är ett bevis för tjänarnas sanna kärlek till Herren och att det är Allāhs kärlek till Hans tjänare. Allāh har sagt:
 
@@ -35,20 +37,11 @@ Därmed måste alla muslimer följa honom i detta och vallfärda på det sätt s
 Och Han har sagt:
 
 > ”Förrätta bönen och ge åt de behövande och lyd Sändebudet – kanske ska [Gud] visa er barmhärtighet.” [Koranen 24:56]
->
->
->
->
+
 > ”I Guds sändebud har ni ett gott föredöme för alla som [med bävan och hopp] ser fram emot [mötet med] Gud och den Yttersta dagen och som ständigt har Gud för ögonen.” [Koranen 33:21]
->
->
->
->
+
 > ”Dessa är de gränser som Gud [har fastställt]. Gud ska föra den som lyder Honom och Hans sändebud till lustgårdar, vattnade av bäckar, där han ska förbli till evig tid. Detta är den stora, den lysande segern. Men den som trotsar Gud och Hans Sändebud och överträder de gränser Han [har fastställt] ska föras till Elden och förbli där till evig tid – ett förnedrande straff väntar honom.” [Koranen 4:13 – 14] Och Han har sagt: ”Säg: ’Människor! Jag är Guds Sändebud, [utsänd] till er alla av Honom som äger herraväldet över himlarna och jorden! Det finns ingen gud utom Han – Han som skänker liv och skänker död. Tro därför på Gud och Hans Sändebud, den olärde Profeten, som tror på Gud och Hans ord, och följ honom så att ni får vägledning.” [Koranen 7:158]
->
->
->
->
+
 > ”Säg [Muḥammad]: ’Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.’” [Koranen 3:31]
 
 Verserna med denna innebörd är många.
@@ -75,9 +68,9 @@ Profeten – över honom vare Allāhs frid och välsignelser – har berättat a
 
 > ”Se på *Mina* tjänare. De har kommit till Mig, ovårdade och dammiga, för att få Min Nåd. Jag ber er att vittna om att jag sannerligen har förlåtit dem.” [*Ibn Khuzaymah* 2840 och *Ibn Hibban* 1006]
 
-Han har även sagt: ”*Jag har stått här och hela *Arafat*[^14] är en plats att stå vid*.” [*Muslim* 1218]
+Han har även sagt: ”*Jag har stått här och hela *Arafat*[^14] är en plats att stå vid*.” [^26]
 
-Efter solnedgången begav sig Allāhs sändebud – över honom vare Allāhs frid och välsignelser – till *Muzdalifah*[^19] samtidigt som han läste *talbiyyah*[^2]. Han bad kvällsbönen[^10] med tre bönecykler[^13] och nattbönen[^11] med två bönecykler[^13] [i *Muzdalifah*[^19]]. Detta gjordes med ett böneutrop och två *iqāmah*[^15]. Sedan spenderade han natten där och han bad gryningsbönen[^12] där tillsammans med dess *sunnah*[^5]-bön [före den]. Detta gjorde han med ett böneutrop och en *iqāmah*[^15]. Sedan begav han sig till det Heliga området och åmindes Allāh där, förkunnade Hans Storhet och Hans Enhet och åkallade medan han höjde händerna. Han sade: ”Jag har stått där och hela Jam' [Muzdalifah[^19]] är en plats för att stå.” [*Muslim* 1218]
+Efter solnedgången begav sig Allāhs sändebud – över honom vare Allāhs frid och välsignelser – till *Muzdalifah*[^19] samtidigt som han läste *talbiyyah*[^2]. Han bad kvällsbönen[^10] med tre bönecykler[^13] och nattbönen[^11] med två bönecykler[^13] [i *Muzdalifah*[^19]]. Detta gjordes med ett böneutrop och två *iqāmah*[^15]. Sedan spenderade han natten där och han bad gryningsbönen[^12] där tillsammans med dess *sunnah*[^5]-bön [före den]. Detta gjorde han med ett böneutrop och en *iqāmah*[^15]. Sedan begav han sig till det Heliga området och åmindes Allāh där, förkunnade Hans Storhet och Hans Enhet och åkallade medan han höjde händerna. Han sade: ”Jag har stått där och hela Jam' [Muzdalifah[^19]] är en plats för att stå.” [^27]
 
 Detta bevisar att hela *Muzdalifah*[^19] är en plats att stå på för en pilgrim. Varje pilgrim spenderar natten vid sin plats, åminns Allāh och söker hans förlåtelse här. Det finns inget behov av att bege sig till platsen där profeten – över honom vare Allāhs frid och välsignelser – stod.
 
@@ -134,3 +127,6 @@ Må Allāh sända välsignelser och frid över vår profet Muḥammad, hans fami
 [^23]: Utför vallfärden och ´*umrah* samtidigt med en intention.
 [^24]: Rundvandringen runt Kabah före avfärden från Mecka.
 
+[^25]: *al-Bayhaqi* 5:121
+[^26]: *Muslim* 1218
+[^27]: *Muslim* 1218

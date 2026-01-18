@@ -1,22 +1,24 @@
 ---
 title: Anledningen till att kvinnor inte får besöka gravar
 author: Ibn ´Abdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
- Libanon: Maktaba Dar us-Salam. 172 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Libanon: Maktaba Dar us-Salam. 172 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
 original_id: 83
-description: 'Fråga: Varför får kvinnor inte besöka gravar? Svar: Ett starkt
- förbud mot detta har rapporterats då profeten – över honom vare Allāhs frid och
- välsignelser – säger: ” Allāh förbannar de kvinno...'
+description: >-
+  Fråga: Varför får kvinnor inte besöka gravar? Svar: Ett starkt förbud mot
+  detta har rapporterats då profeten – över honom vare Allāhs frid och
+  välsignelser – säger: ” Allāh förbannar de kvinno...
 ---
 
 **Fråga:** Varför får kvinnor inte besöka gravar?
 
-**Svar:** Ett starkt förbud mot detta har rapporterats då profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Allāh förbannar de kvinnor som besöker gravar*.” [*at-Tirmithi* 320 och *al-Bayhaqi* 4:78]
+**Svar:** Ett starkt förbud mot detta har rapporterats då profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Allāh förbannar de kvinnor som besöker gravar*.” [^2]
 
-När Fatimah hade avlagt visit för att beklaga sorgen efter ett dödsfall så sade han till henne: ”*Skulle du slå följe med dem till gravarna skulle du inte se Paradiset…*” [*Abū Dawūd* 3123, *an-Nasā'i* 1881 och *Ahmad* 2:168-169]
+När Fatimah hade avlagt visit för att beklaga sorgen efter ett dödsfall så sade han till henne: ”*Skulle du slå följe med dem till gravarna skulle du inte se Paradiset…*” [^3]
 
 Anledningen har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – när han sade till en kvinna som följde ett begravningståg:
 
@@ -26,3 +28,5 @@ Så han klargjorde att det finns två anledningar till detta förbud mot att bes
 
 [^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 
+[^2]: *at-Tirmithi* 320 och *al-Bayhaqi* 4:78
+[^3]: *Abū Dawūd* 3123, *an-Nasā'i* 1881 och *Ahmad* 2:168-169

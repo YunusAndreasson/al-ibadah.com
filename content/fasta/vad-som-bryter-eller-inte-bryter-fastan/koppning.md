@@ -1,18 +1,20 @@
 ---
 title: Koppning
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
- Libanon: Maktaba Dar us-Salam. 273 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Libanon: Maktaba Dar us-Salam. 273 s. ISBN saknas
 categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1399
-description: 'Fråga: Profeten – över honom vare Allāhs frid och välsignelser – har
- sagt: ” Den som koppar och den som blir koppad bryter båda fastan .” [ Abū Dawūd 2367]
- Är detta en autentisk hadīth? Om den ...'
+description: >-
+  Fråga: Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”
+  Den som koppar och den som blir koppad bryter båda fastan .” [ Abū Dawūd 2367]
+  Är detta en autentisk hadīth? Om den ...
 ---
 
-**Fråga:** Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som koppar och den som blir koppad bryter båda fastan*.” [*Abū Dawūd* 2367] Är detta en autentisk *hadīth*[^1]? Om den är autentisk, hur förklaras den då?
+**Fråga:** Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som koppar och den som blir koppad bryter båda fastan*.” [^3] Är detta en autentisk *hadīth*[^1]? Om den är autentisk, hur förklaras den då?
 
 **Svar:** Denna *hadīth*[^1] är autentisk. Den har graderats som autentisk av bland andra imam *Ahmad*. Det betyder att om den fastande koppar någon annan så bryter denne fastan och om någon annan koppar den fastande så bryter han fastan. Detta beror på att koppning[^2] omfattar både den som koppar och den som koppas.
 
@@ -25,3 +27,4 @@ Och Allāh är Givaren av framgång.
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Hijamah
 
+[^3]: *Abū Dawūd* 2367

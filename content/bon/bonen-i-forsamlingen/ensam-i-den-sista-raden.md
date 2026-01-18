@@ -1,15 +1,17 @@
 ---
 title: Ensam i den sista raden
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 536 s. ISBN 9960-892-66-2'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 536 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 990
-description: 'Fråga: Är det tillåtet att be ensam i den sista raden eller bör man
- dra bak någon i raden framför? Svar: Om någon kommer och finner att raderna
- är fulla, då finns det tre olika alternativ: D...'
+description: >-
+  Fråga: Är det tillåtet att be ensam i den sista raden eller bör man dra bak
+  någon i raden framför? Svar: Om någon kommer och finner att raderna är fulla,
+  då finns det tre olika alternativ: D...
 ---
 
 **Fråga:** Är det tillåtet att be ensam i den sista raden eller bör man dra bak någon i raden framför?
@@ -20,7 +22,7 @@ Denne kan be ensam bakom en rad eller så drar denne någon från raden framför
 
 Det man bör välja av dessa fyra alternativ är att man själv formar en rad bakom raderna och ber med imamen. Detta beror på att det som är obligatoriskt är bön i församlingen och i en rad. Detta är skyldigheter och om man inte har möjlighet att göra en av dem, och det är att stå i raden, då är den andra fortfarande en skyldighet [bön i församlingen].
 
-I detta fallet säger vi: Be då med församlingen bakom en rad för att få förtjänsten i bön med församlingen. Att stå i raden är inte en skyldighet för dig i detta fall då du inte har möjlighet att göra det. Allāh den Härlige, den Upphöjde säger: ”Frukta *därför Gud efter måttet av er förmåga, lyssna på och lyd [Hans ord]*.” [Koranen 64:16] Vad som stödjer detta är att en kvinna står ensam bakom raden om det inte finns några kvinnor tillsammans med henne. Detta beror på att det inte finns någon godkänd plats för henne i männens rader, hon kan ju inte be på ett tillåtet sätt med dem. Så hon ber ensam.
+I detta fallet säger vi: Be då med församlingen bakom en rad för att få förtjänsten i bön med församlingen. Att stå i raden är inte en skyldighet för dig i detta fall då du inte har möjlighet att göra det. Allāh den Härlige, den Upphöjde säger: ”Frukta *därför Gud efter måttet av er förmåga, lyssna på och lyd [Hans ord]*.” [^4] Vad som stödjer detta är att en kvinna står ensam bakom raden om det inte finns några kvinnor tillsammans med henne. Detta beror på att det inte finns någon godkänd plats för henne i männens rader, hon kan ju inte be på ett tillåtet sätt med dem. Så hon ber ensam.
 
 Beträffande mannen som kom till moskén och fann att raderna var fulla och som det inte fanns någon möjlighet för att be i en rad, under dessa omständigheter gäller då inte skyldigheten men denne är skyldig att be i församlingen, så denne måste be bakom raderna.
 
@@ -38,3 +40,4 @@ Det fjärde sättet är att man lämnar församlingen. Detta är dock inte ett a
 [^2]: Ruku, bugningen när ryggen hålls parallell med marken.
 [^3]: sujūd, nedfallandet när pannan läggs mot marken.
 
+[^4]: Koranen 64:16

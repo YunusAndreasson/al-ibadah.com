@@ -1,16 +1,18 @@
 ---
 title: Dyrka gravar
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 244 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 244 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Eder
 original_id: 1100
-description: 'Fråga: Vilket är utlåtandet om någon som dyrkar gravar genom att göra tawāf runt
- dem, åkalla dem som har begravts i dem, svär eder vid dem och liknande saker? Svar: Denna
- fråga är mycket vik...'
+description: >-
+  Fråga: Vilket är utlåtandet om någon som dyrkar gravar genom att göra tawāf
+  runt dem, åkalla dem som har begravts i dem, svär eder vid dem och liknande
+  saker? Svar: Denna fråga är mycket vik...
 ---
 
 **Fråga:** Vilket är utlåtandet om någon som dyrkar gravar genom att göra *tawāf*[^1] runt dem, åkalla dem som har begravts i dem, svär eder vid dem och liknande saker?
@@ -36,10 +38,7 @@ Jag varnar mina muslimska bröder för att vara beroende av någon annan än All
 Jag råder även dem att inte följa någon annan i religiösa frågor än Allāhs sändebud, [och det gör jag] med Allāhs den Upphöjdes ord:
 
 > ”I Guds Sändebud har ni ett gott föredöme för alla som [med bävan och hopp] ser fram emot [mötet med] Gud och den Yttersta dagen och som ständigt har Gud för ögonen.” [Koranen 33:21]
->
->
->
->
+
 > ”Säg [Muḥammad]: ’Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
 
 Muslimer måste noga studera dem som påstår sig vara *awliyā'* med Koranen och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah*[^4] som måttstock. Om det som sker är enligt Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah*[^4] finns det hopp om att denne är en av Allāhs *awliyā'*. Men om det [som sker] motsäger sig Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah*[^4] är denne inte en av Allāhs *awliyā'*. I Sin skrift har Allāh nämnt en rättvis metod som *awliyā'* kan kännas igen genom när Han säger:
@@ -51,10 +50,7 @@ Den som är en from troende är således en *walī* till Allāh och den som inte
 Det bör vara känt att Allāh den Allsmäktige kan pröva någon på detta sätt. En person kan komma an på en grav och åkalla den som ligger begravd i den. Denne kan också ta lite jord från den för att få välsignelser – och [faktiskt] få vad denne ber om. Detta är då en prövning från Allāh den Allsmäktige för denne. Vi vet ju att graven inte svarar åkallan[^3] och att jorden inte är ett sätt för att skydda mot ont eller hjälpa. Vi vet detta då Allāh den Upphöjde säger:
 
 > ”Och vem begår ett större misstag än den som i Guds ställe anropar dem, som inte kan svara honom förrän på Uppståndelsens dag och som inte ens är medvetna om att de anropas? När människor samlas [inför Domen] ska de bli [sina tillbedjares] fiender och ta avstånd från deras dyrkan.” [Koranen 46:5 – 6]
->
->
->
->
+
 > ”De som de anropar vid sidan av Gud skapar ingenting – de är ju [själva] skapade. Döda, livlösa, vet de inte när de ska uppväckas till liv.” [Koranen 16:20 – 21]
 
 Verserna med denna innebörd är många och de bevisar att de som åkallar[^3] någon annan än Allāh inte kommer att bli besvarade. Det som eftersträvas och åkallas för kan dock uppnås ändå, om någon annan än Allāh åkallas, men detta är då en prövning. Vi säger då att han fick detta från åkallan[^3] vid denna tidpunkt, när han åkallade någon annan än Allāh, inte för att han åkallade det [som han åkallade]. Det är skillnad mellan att få något på grund av något och att få något vid tidpunkten för något. Vi är säkra på att det inte är ett sätt för att uppnå något bra eller för att skydda mot ont om man åkallar[^3] någon annan än Allāh. Vi känner till detta genom det flertalet verser i Koranen i vilka Allāh den Allsmäktige har nämnt detta. Man kan dock tänka sig att detta uppnås efter åkallan[^3] som en prövning. Allāh den Härlige, den Upphöjde kan pröva någon genom synder för att Han den Härlige, den Upphöjde ska kunna veta vem som tjänar Honom och vem som tjänar sina egna nycker.
@@ -62,10 +58,7 @@ Verserna med denna innebörd är många och de bevisar att de som åkallar[^3] n
 Ser du inte hur Allāh förbjöd sabbatsfolket att fånga fisk under sabbaten? Allāh den Allsmäktige prövade dem när fisk kom i stora mängder under sabbaten medan det under andra dagar var få. Detta inträffade under en lång tid och de sade: ”Hur kan vi förbjuda oss själva att fånga dessa fiskar?” De tänkte, planerade, konspirerade och sade sedan: ”Låt oss göra ett nät och lägga ut det på fredagar för att sedan hämta in fisken på söndagar.” De gjorde detta, och det var ett trick för att kringgå Allāhs förbud. Allāh förvandlade dem då till apor, föraktade och avvisade. Allāh den Upphöjde säger:
 
 > ”Och fråga dem om staden som låg vid havet och vars invånare inte iakttog sabbatsbudet: på sabbaten gick fisken nämligen till i vattenbrynet, medan de andra dagar inte syntes till. På detta sätt prövade Vi dem på grund av deras överträdelser av [Guds bud].” [Koranen 7:163]
->
->
->
->
+
 > ”Ni vet att det bland er fanns sådana som kränkte sabbatshelgden och att Vi uttalade [denna dom] över dem: ’Bli [som] apor, föremål för [allas] hån och förakt!’ Vi gjorde detta för att ge ett varnande exempel för samtid och eftervärld och en allvarlig erinran till de gudfruktiga.” [Koranen 2:65 – 66]
 
 Se hur Allāh gjorde det lätt för dem att fiska den dag som det var förbjudet men de – må Allāh skydda oss – var inte tålmodiga och därmed fullbordade de denna strategi för att ta sig förbi Allāhs förbud.

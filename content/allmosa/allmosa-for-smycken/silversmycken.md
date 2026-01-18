@@ -1,15 +1,17 @@
 ---
 title: Silversmycken
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
- Libanon: Maktaba Dar us-Salam. 176 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Libanon: Maktaba Dar us-Salam. 176 s. ISBN saknas
 categories:
   - Allmosa (Zakāh)
   - Allmosa för smycken
 original_id: 1383
-description: 'Fråga: Jag har en del silver i form av smycken som bärs runt halsen,
- händerna, på huvudet och på ett bälte. Jag har bett min man så många gånger att
- han ska sälja dem och betala allmosa för dem ...'
+description: >-
+  Fråga: Jag har en del silver i form av smycken som bärs runt halsen, händerna,
+  på huvudet och på ett bälte. Jag har bett min man så många gånger att han ska
+  sälja dem och betala allmosa för dem ...
 ---
 
 **Fråga:** Jag har en del silver i form av smycken som bärs runt halsen, händerna, på huvudet och på ett bälte. Jag har bett min man så många gånger att han ska sälja dem och betala allmosa för dem men han säger att de inte har nått miniminivån som krävs för allmosa. Jag har haft dem under ungefär 23 år och jag har inte betalat allmosa för dem. Vad måste jag nu göra?
@@ -24,7 +26,7 @@ Detta beror på att profeten – över honom vare Allāhs frid och välsignelser
 
 Denna *hadīth*[^3] har Muslim återgivit i sin *Sahīh*.
 
-I en *hadīth*[^3] återberättad av ´Abdullāh bin 'Amr bin al-'Ās säger profeten – över honom vare Allāhs frid och välsignelser – till en kvinna som kom fram till honom med hennes dotter som bar två armringar av guld: ”*Betalar du allmosa för dessa?*” Kvinnan svarade: ”*Nej*.” Så han sade: ”*Nöjer det dig att Allāh kommer att göra dem till två armringar av eld till dig på Återuppståndelsens dag?*” Så hon slet av dem och sade: ”*De är för Allāh och Hans sändebud*.” [*Abū Dawūd* 1563] Denna *hadīth*[^3] har Abū Dawūd och an-Nasā’i återgivit med en autentisk berättarkedja. *Ahādīth*[^3] med samma innebörd är många.
+I en *hadīth*[^3] återberättad av ´Abdullāh bin 'Amr bin al-'Ās säger profeten – över honom vare Allāhs frid och välsignelser – till en kvinna som kom fram till honom med hennes dotter som bar två armringar av guld: ”*Betalar du allmosa för dessa?*” Kvinnan svarade: ”*Nej*.” Så han sade: ”*Nöjer det dig att Allāh kommer att göra dem till två armringar av eld till dig på Återuppståndelsens dag?*” Så hon slet av dem och sade: ”*De är för Allāh och Hans sändebud*.” [^4] Denna *hadīth*[^3] har Abū Dawūd och an-Nasā’i återgivit med en autentisk berättarkedja. *Ahādīth*[^3] med samma innebörd är många.
 
 Och Allāh är Givaren av framgång.
 
@@ -32,3 +34,4 @@ Och Allāh är Givaren av framgång.
 [^2]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramadan* 1428).
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
+[^4]: *Abū Dawūd* 1563

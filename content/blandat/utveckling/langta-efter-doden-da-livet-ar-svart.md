@@ -4,9 +4,10 @@ categories:
   - Blandat
   - Utveckling
 original_id: 1714
-description: 'Fråga: Jag har mött många motgångar i detta liv, vilket har fått mig
- att hata det. Varje gång jag vänder mig till Allāh, ber jag Honom att han ska
- ta mitt liv i nästa andetag. Detta är min önskn...'
+description: >-
+  Fråga: Jag har mött många motgångar i detta liv, vilket har fått mig att hata
+  det. Varje gång jag vänder mig till Allāh, ber jag Honom att han ska ta mitt
+  liv i nästa andetag. Detta är min önskn...
 ---
 
 **Fråga:** Jag har mött många motgångar i detta liv, vilket har fått mig att hata det. Varje gång jag vänder mig till Allāh, ber jag Honom att han ska ta mitt liv i nästa andetag. Detta är min önskning, då jag inte ser någon annan utväg från mina problem än döden. Är dessa tankar tillåtna?
@@ -25,7 +26,9 @@ Kvinnan som ställer frågan känner att det inte finns någon annan lösning ä
 
 Hur många människor dör inte, när de har det svårt i livet, samtidigt som de handlar felaktigt mot sig själva, syndar och inte riktar sin ånger mot Allāh. Om en människa dör i detta tillstånd är tiden till straffet bara än närmre. Om han i stället varit vid liv, skulle kanske Allāh ha väglett honom mot ångerfullhet, sökande efter förlåtelse, tålmodighet och att möta problemen med hopp om lättnad. Allt detta skulle vara bra för honom.
 
-Därför bör du som frågar vara tålmodig och förvänta dig lättnad ifrån Allāh. Han säger i Sin Bok: "På prövning följer lättnad! [Ja,] på prövning följer lättnad!" [Koranen 94:5 – 6]
+Därför bör du som frågar vara tålmodig och förvänta dig lättnad ifrån Allāh. Han säger i Sin Bok: "På prövning följer lättnad! [Ja,] på prövning följer lättnad!" [^1]
 
 Och profeten – över honom vare Allāhs frid och välsignelser – har i ett autentiskt uttalande sagt: ”Var medveten om att segern kommer med tålamod, lättnad efter nöd, och lugn efter vedermödor.”
 
+
+[^1]: Koranen 94:5 – 6

@@ -1,14 +1,15 @@
 ---
 title: Fuska i skolan
 author: al-Ladjnah ad-Dā'imah (Den Permanenta Fatwa-kommittén)
-source: Fatāwa al-Lajnah al-Dā'imah, 12/200
+source: 'Fatāwa al-Lajnah al-Dā''imah, 12/200'
 categories:
   - Blandat
   - Uppförande
 original_id: 1702
-description: 'Fråga: Får elever fuska i skolan? Svar: Hadīthen: "Den som fuskar
-  tillhör inte oss" är autentisk och generell i sin betydelse. Detta inkluderar fusk
-  vid köp och försäljning, rådgivning, löften ...'
+description: >-
+  Fråga: Får elever fuska i skolan? Svar: Hadīthen: "Den som fuskar tillhör inte
+  oss" är autentisk och generell i sin betydelse. Detta inkluderar fusk vid köp
+  och försäljning, rådgivning, löften ...
 ---
 
 **Fråga:** Får elever fuska i skolan?
@@ -17,4 +18,3 @@ description: 'Fråga: Får elever fuska i skolan? Svar: Hadīthen: "Den som fusk
 
 Och Allāh är källan till all styrka.
 
-[^1]: Avser oftast ett uttalande från profeten - över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

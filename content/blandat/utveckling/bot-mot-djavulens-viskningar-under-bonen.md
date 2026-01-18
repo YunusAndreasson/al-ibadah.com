@@ -1,21 +1,23 @@
 ---
 title: Bot mot djävulens viskningar under bönen
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
- Libanon: Maktaba Dar us-Salam. 182 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Libanon: Maktaba Dar us-Salam. 182 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Blandat
   - Utveckling
 original_id: 1483
-description: 'Fråga: När jag börjar be så hör jag viskningar och tankarna börjar
- irra. Ibland vet jag inte vad jag reciterat eller hur många bönecykler jag har bett.
- Vänligen, berätta för mig vad jag bör göra. ...'
+description: >-
+  Fråga: När jag börjar be så hör jag viskningar och tankarna börjar irra.
+  Ibland vet jag inte vad jag reciterat eller hur många bönecykler jag har bett.
+  Vänligen, berätta för mig vad jag bör göra. ...
 ---
 
 **Fråga:** När jag börjar be så hör jag viskningar och tankarna börjar irra. Ibland vet jag inte vad jag reciterat eller hur många bönecykler[^1] jag har bett. Vänligen, berätta för mig vad jag bör göra.
 
-**Svar:** Det är föreskrivet att troende – män som kvinnor – närmar sig bönen med ödmjukhet inför Allāh och tänker på att de står inför Herren. Syftet är att djävulen ska undvika dem och viskningarna minska. Gör man så sätter man Allāhs ord i bruk: "*Det ska gå de troende väl i händer; de som ber med ödmjukt sinne*." [Koranen 23:1 – 2]
+**Svar:** Det är föreskrivet att troende – män som kvinnor – närmar sig bönen med ödmjukhet inför Allāh och tänker på att de står inför Herren. Syftet är att djävulen ska undvika dem och viskningarna minska. Gör man så sätter man Allāhs ord i bruk: "*Det ska gå de troende väl i händer; de som ber med ödmjukt sinne*." [^3]
 
 Om viskningarna återkommer, då är det föreskrivet att söka tillflykt hos Allāh från djävulen. Profeten – över honom vare Allāhs frid och välsignelser – beordrade 'Uthmān bin Abi al-'As att göra detta när djävulen hade gjort honom förvirrad under hans bön.
 
@@ -28,3 +30,4 @@ Detta grundas på en återberättelse från Abu Sa´īd där han berättar att p
 [^1]: Rakah.
 [^2]: Den avslutande hälsningen i bönen.
 
+[^3]: Koranen 23:1 – 2

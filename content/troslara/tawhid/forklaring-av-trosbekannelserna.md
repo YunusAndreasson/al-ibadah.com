@@ -1,20 +1,23 @@
 ---
 title: Förklaring av trosbekännelserna
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 72 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 72 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - Tawhīd [Monoteism]
+  - 'Tawhīd [Monoteism]'
 original_id: 1073
-description: 'Fråga: Hur kan man förklara trosbekännelserna? Svar: Trosbekännelserna
- är nycklarna till islam och det går inte att träda in i islam utan dem. När profeten – över honom vare Allāhs frid och vä...'
+description: >-
+  Fråga: Hur kan man förklara trosbekännelserna? Svar: Trosbekännelserna är
+  nycklarna till islam och det går inte att träda in i islam utan dem. När
+  profeten – över honom vare Allāhs frid och vä...
 ---
 
 **Fråga:** Hur kan man förklara trosbekännelserna?
 
-**Svar:** Trosbekännelserna är nycklarna till islam och det går inte att träda in i islam utan dem. När profeten – över honom vare Allāhs frid och välsignelser – sände Mu'ath bin Jabal till Jemen beordrade han honom därför att först kalla dem [jemeniterna] till att vittna om att det inte finns någon gudom värdig att dyrka utom Allāh och att Muḥammad är Allāhs sändebud. [*al-Bukhārī* 4347 och *Muslim* 19]
+**Svar:** Trosbekännelserna är nycklarna till islam och det går inte att träda in i islam utan dem. När profeten – över honom vare Allāhs frid och välsignelser – sände Mu'ath bin Jabal till Jemen beordrade han honom därför att först kalla dem [jemeniterna] till att vittna om att det inte finns någon gudom värdig att dyrka utom Allāh och att Muḥammad är Allāhs sändebud. [^3]
 
 Det första yttrandet, vittnesmålet om att det inte finns någon gudom värdig att dyrka utom Allāh, innebär att man genom det talade ordet och sitt hjärta bekräftar att ingen har rätt att dyrkas utom Allāh den Allsmäktige. Detta beror på att ordet *ilah* avser något som dyrkas.
 
@@ -80,3 +83,4 @@ Sändebudets rättighet är att tilldela honom den status som Allāh den Upphöj
 [^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 [^2]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 
+[^3]: *al-Bukhārī* 4347 och *Muslim* 19

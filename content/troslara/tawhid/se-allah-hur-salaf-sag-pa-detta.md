@@ -1,16 +1,18 @@
 ---
 title: Se Allāh – hur salaf såg på detta
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 145 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 145 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - Tawhīd [Monoteism]
+  - 'Tawhīd [Monoteism]'
 original_id: 1087
-description: 'Fråga: Ansåg salaf – må Allāh vara nöjda med dem – att man kan se
- Allāh? Vilket är utlåtandet om den som påstår att det mänskliga ögat Allāh inte
- kan uppfatta Allāh? Svar: Allāh den Allsmäk...'
+description: >-
+  Fråga: Ansåg salaf – må Allāh vara nöjda med dem – att man kan se Allāh?
+  Vilket är utlåtandet om den som påstår att det mänskliga ögat Allāh inte kan
+  uppfatta Allāh? Svar: Allāh den Allsmäk...
 ---
 
 **Fråga:** Ansåg *salaf*[^1] – må Allāh vara nöjda med dem – att man kan se Allāh? Vilket är utlåtandet om den som påstår att det mänskliga ögat inte kan uppfatta Allāh?
@@ -29,7 +31,7 @@ Vi kan då inte omfatta Honom med vår kunskap, och att omfatta med kunskap är 
 
 Även om synen kan uppfatta Honom kan den inte förstå Honom. Allāh den Allsmäktige ses i verkligheten av ögat men det går inte att förstå Honom genom denna syn. Detta beror på att Han den Allsmäktige är för väldig för att förstås genom den.
 
-Detta är *salaf*[^1]s tro och de anser att den största välsignelsen som människan har skänkts är att få betrakta Allāhs den Allsmäktiges anlete. Därför var en av profetens – över honom vare Allāhs frid och välsignelser – åkallan[^2]: ”*Jag ber dig om njutningen i att [få] betrakta Ditt anlete*.” [*an-Nasā’i* 1304 och *Ahmad* 5:191] Han sade: ”*Njutningen i att [få] betrakta*.” I detta finns en stor njutning som ingen kan uppnå utom dem som uppnår den genom Allāhs välsignelse och gåva. Och jag ber Allāh den Upphöjde att göra oss till dem. På detta sätt har *salaf*[^1] – må Allāh vara nöjda med dem – förstått denna syn.
+Detta är *salaf*[^1]s tro och de anser att den största välsignelsen som människan har skänkts är att få betrakta Allāhs den Allsmäktiges anlete. Därför var en av profetens – över honom vare Allāhs frid och välsignelser – åkallan[^2]: ”*Jag ber dig om njutningen i att [få] betrakta Ditt anlete*.” [^2] Han sade: ”*Njutningen i att [få] betrakta*.” I detta finns en stor njutning som ingen kan uppnå utom dem som uppnår den genom Allāhs välsignelse och gåva. Och jag ber Allāh den Upphöjde att göra oss till dem. På detta sätt har *salaf*[^1] – må Allāh vara nöjda med dem – förstått denna syn.
 
 Den som påstår att Allāh inte uppfattas genom det mänskliga ögat och att *ar-ru'yah* betyder fullständig och perfekt visshet har en felaktig åsikt. Denna åsikt motsäger sig bevis och fakta, därför att fullständig och perfekt visshet finns även i denna värld. För att förklara ihsan har profeten – över honom vare Allāhs frid och välsignelser – sagt:
 
@@ -40,5 +42,5 @@ Att dyrka Allāh som om man ser Honom är fullständig och perfekt visshet. Där
 Och Allāh är den vars hjälp vi söker.
 
 [^1]: De tre första generationerna i islam.
-[^2]: Du´ā
 
+[^2]: *an-Nasā’i* 1304 och *Ahmad* 5:191

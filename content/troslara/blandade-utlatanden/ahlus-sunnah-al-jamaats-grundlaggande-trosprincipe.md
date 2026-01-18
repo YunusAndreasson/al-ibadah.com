@@ -1,16 +1,18 @@
 ---
 title: Ahlus-sunnah al-jamā’ats grundläggande trosprinciper
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 35 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 35 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1066
-description: 'Fråga: Vilka är ahlus-sunnah wal-jamā’ats grundläggande trosprinciper? Svar: Ahlus-sunnah
- wal-jamā’ats grundsats när det gäller trosprincipiella frågor, och andra frågor
- som rör religionen...'
+description: >-
+  Fråga: Vilka är ahlus-sunnah wal-jamā’ats grundläggande trosprinciper? Svar:
+  Ahlus-sunnah wal-jamā’ats grundsats när det gäller trosprincipiella frågor,
+  och andra frågor som rör religionen...
 ---
 
 **Fråga:** Vilka är *ahlus-sunnah[^1] wal-jamā’ats* grundläggande trosprinciper?
@@ -18,10 +20,7 @@ description: 'Fråga: Vilka är ahlus-sunnah wal-jamā’ats grundläggande tros
 **Svar:** *Ahlus-sunnah[^1] wal-jamā’ats* grundsats när det gäller trosprincipiella frågor, och andra frågor som rör religionen, är att följa Allāhs skrift, Hans sändebuds – över honom vare Allāhs frid och välsignelser – *sunnah*[^1] och vägledning samt den *sunnah*[^1] som de rättfärdiga kaliferna följde. Detta är enligt Allāhs den Upphöjdes ord:
 
 > ”Säg [Muḥammad]: ’Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
->
->
->
->
+
 > ”Den som lyder Sändebudet lyder Gud; och den som vänder honom ryggen [bör veta att] du inte är sänd att vaka över dem.” [Koranen 4:80] ”Tag alltså emot vad [Hans] Sändebud ger er [av detta] och avstå [villigt] från det som han nekar er; och frukta Gud; Gud straffar med stränghet.” [Koranen 59:7]
 
 Även om denna sura uppenbarades om fördelning av krigsbyte är den än mer passande i frågor om den islamiska lagen. Under fredagar brukade profeten – över honom vare Allāhs frid och välsignelser – tala till folket och säga:

@@ -1,19 +1,21 @@
 ---
 title: Bön är åminnelse av Allāh
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
- Libanon: Maktaba Dar us-Salam. 342 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Libanon: Maktaba Dar us-Salam. 342 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 140
-description: 'Fråga: Somliga sufier säger att åminnelse är bättre än den obligatoriska
- bönen och de citerar följande vers som bevis: ” Men först och störst är åkallandet
- av Guds namn .” [Koranen 29:45] Är åminn...'
+description: >-
+  Fråga: Somliga sufier säger att åminnelse är bättre än den obligatoriska bönen
+  och de citerar följande vers som bevis: ” Men först och störst är åkallandet
+  av Guds namn .” [Koranen 29:45] Är åminn...
 ---
 
-**Fråga:** Somliga sufier säger att åminnelse[^1] är bättre än den obligatoriska bönen och de citerar följande vers som bevis: ”*Men först och störst är åkallan[^2] det av Guds namn*.” [Koranen 29:45] Är åminnelse[^1] av Allāh bättre än bön, som de säger?
+**Fråga:** Somliga sufier säger att åminnelse[^1] är bättre än den obligatoriska bönen och de citerar följande vers som bevis: ”*Men först och störst är åkallan[^2] det av Guds namn*.” [^9] Är åminnelse[^1] av Allāh bättre än bön, som de säger?
 
 **Svar:** Allāh har kommenderat oss att nämna Hans namn ofta. Han säger:
 
@@ -29,9 +31,9 @@ Det råder ingen tvekan om att bön innehåller de bästa åminnelserna[^1]; rec
 
 Om större vikt läggs vid åminnelse[^1] än vid bön, då är det att lägga större vikt vid någon som inte är lika bra – och det är inte rätt.
 
-Innebörden av Allāhs ord: "*Läs vad som har uppenbarats för dig av denna Skrift och förrätta bönen*" [Koranen 29:45] är att förrättandet av de obligatoriska bönerna vid deras korrekta tider på det sätt som Allāh har föreskrivit och som Hans sändebud har förklarat, inskjuter mellan honom och alla onda handlingar. Genom bönen avhåller Allāh honom från otro, polyteism, etcetera.
+Innebörden av Allāhs ord: "*Läs vad som har uppenbarats för dig av denna Skrift och förrätta bönen*" [^10] är att förrättandet av de obligatoriska bönerna vid deras korrekta tider på det sätt som Allāh har föreskrivit och som Hans sändebud har förklarat, inskjuter mellan honom och alla onda handlingar. Genom bönen avhåller Allāh honom från otro, polyteism, etcetera.
 
-Att Allāh kommer ihåg dig är större i lön och belöning än din åminnelse av Allāh, vilket Allāh säger: "*Och bevara Mig i minnet, så ska Jag minnas er; var Mig tacksam och förneka Mig inte!*" [Koranen 2:152]
+Att Allāh kommer ihåg dig är större i lön och belöning än din åminnelse av Allāh, vilket Allāh säger: "*Och bevara Mig i minnet, så ska Jag minnas er; var Mig tacksam och förneka Mig inte!*" [^11]
 
 Ibn Jarīr at-Tabarī föredrog denna förklaring i sin *tafsīr*[^6] och ett antal andra lärda inom *tafsīr*[^6] håller med honom om detta, grundat på de *ahādīth*[^7] som har kommit från många av följeslagarna och *tabi´in*[^8].
 
@@ -44,3 +46,6 @@ Ibn Jarīr at-Tabarī föredrog denna förklaring i sin *tafsīr*[^6] och ett an
 [^7]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^8]: Generationen som kom efter följeslagarna.
 
+[^9]: Koranen 29:45
+[^10]: Koranen 29:45
+[^11]: Koranen 2:152

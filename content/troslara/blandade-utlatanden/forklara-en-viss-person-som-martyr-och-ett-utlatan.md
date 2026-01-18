@@ -1,15 +1,17 @@
 ---
 title: Att förklara en person som martyr
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
- Libanon: Maktaba Dar us-Salam. 195 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Libanon: Maktaba Dar us-Salam. 195 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 90
-description: 'Fråga: Jag har läst en hadīth från den hedervärde följeslagaren Abū
- Hurairah i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”Vem
- anser ni vara martyr?” De svarade...'
+description: >-
+  Fråga: Jag har läst en hadīth från den hedervärde följeslagaren Abū Hurairah i
+  vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”Vem
+  anser ni vara martyr?” De svarade...
 ---
 
 **Fråga:** Jag har läst en *hadīth*[^1] från den hedervärde följeslagaren Abū Hurairah i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
@@ -19,13 +21,13 @@ Så kommer den som drunknar var onykter att nedtecknas som en martyr, då denne 
 
 Innan jag svarar på frågan skulle jag vilja påpeka att i dessa dagar används ordet martyr alldeles för lättvindigt av många. Det kan innebära att även de som inte kan förklaras som martyrer kallas för det. Detta är förbjudet. Det är inte tillåtet att tillskriva någon martyrskap, utom om profeten – över honom vare Allāhs frid och välsignelser – har bekräftat det.
 
-Profetens – över honom vare Allāhs frid och välsignelser – vittnesmål om någons martyrskap kan delas i två kategorier. Den första är när han beskriver en viss person som martyr, som i den autentiska *hadīth*[^1] i vilken han klättrar upp på Uhud-berget tillsammans med Abū Bakr, ´Umar och ‘Uthmān. När de befinner sig uppe på berget skakar det, så profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Stå stadigt, Uhud, för på dig finns en Profet, en siddīq och två martyrer*.” [*al-Bukhārī* 3675, *Abū Dawūd* 4651 och *Ahmad* 5:331, 338]
+Profetens – över honom vare Allāhs frid och välsignelser – vittnesmål om någons martyrskap kan delas i två kategorier. Den första är när han beskriver en viss person som martyr, som i den autentiska *hadīth*[^1] i vilken han klättrar upp på Uhud-berget tillsammans med Abū Bakr, ´Umar och ‘Uthmān. När de befinner sig uppe på berget skakar det, så profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Stå stadigt, Uhud, för på dig finns en Profet, en siddīq och två martyrer*.” [^3]
 
 Vi tror på Allāhs sändebuds vittnesmål och den vars martyrskap han har berättat om bekräftar vi.
 
 Den andra kategorin är de vars martyrskap profeten – över honom vare Allāhs frid och välsignelser – har vittnat om i generella termer, som i den *hadīth*[^1] som frågeställaren nämner. Han säger här att den som dödas eller dör för Allāhs sak är en martyr. Även den som dör av pest, magsjukdom, drunkning och andra former av martyrskap som i generella termer bekräftats i *ahādīth*[^1]. Denna kategori är det inte tillåten att foga in på en viss person. Vi kan endast säga: Den som är beskriven på det sättet är en martyr, men vi kallar inte någon viss person för martyr. Den generella beskrivningen av en martyr är olik martyrskapets tillskrivelse för en viss person. al-Bukhārī har förklarat detta i sin Sahīh när han säger: ”*Det bör det inte sägas martyr om någon*.” Som bevis för detta citerar han profetens – över honom vare Allāhs frid och välsignelser – uttalande: ”*Allāh vet bäst vem som är en mujāhid för Hans sak*.” [al-Bukhārī i boken om *djihād*[^2], kapitel 77] Och hans ord: ”*Och Allāh vet bäst vem som har skadats för Hans sak*.” [al-Bukhārī i boken om *djihād*[^2], kapitel 77]
 
-Återberättat under denna rubrik finns en välkänd *hadīth*[^1] som berättar historien om en man som var tillsammans med profeten – över honom vare Allāhs frid och välsignelser – under ett slag. Denne man var modig och avancerade framåt, utan att lämna någon fiende ensam utan att jaga honom och nedgöra honom med sitt svärd. Följeslagarna prisade honom framför profeten. Sedan berättar al-Bukhārī den *hadīth*[^1] i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Någon utför handlingar som för folket verkar vara handlingar som passar för en invånare i Paradiset, men faktum är att denne är en av Helvetets invånare*.” [*al-Bukhārī* 2898] De bevis som al-Bukhārī citerar i sin förklaring är tydliga bevis för hans ord: ”*Allāh vet bäst vem som är en mujāhid för Hans sak.*” [al-Bukhārī i boken om *djihād*[^2], kapitel 77]
+Återberättat under denna rubrik finns en välkänd *hadīth*[^1] som berättar historien om en man som var tillsammans med profeten – över honom vare Allāhs frid och välsignelser – under ett slag. Denne man var modig och avancerade framåt, utan att lämna någon fiende ensam utan att jaga honom och nedgöra honom med sitt svärd. Följeslagarna prisade honom framför profeten. Sedan berättar al-Bukhārī den *hadīth*[^1] i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Någon utför handlingar som för folket verkar vara handlingar som passar för en invånare i Paradiset, men faktum är att denne är en av Helvetets invånare*.” [^4] De bevis som al-Bukhārī citerar i sin förklaring är tydliga bevis för hans ord: ”*Allāh vet bäst vem som är en mujāhid för Hans sak.*” [al-Bukhārī i boken om *djihād*[^2], kapitel 77]
 
 Detta bevisar att det som kan se uppenbart ut är förrädiskt och att domen inför Nästa Liv kommer att baseras på sanning och inte på det som sett uppenbart ut. Historien om denne man som al-Bukhārī återger verkar mycket tydlig eftersom följeslagarna prisade honom enligt vad som var uppenbart från hans handlingar, men profeten – över honom vare Allāhs frid och välsignelser – sade till dem: ”*Han är en av Helvetets folk*.”
 
@@ -40,3 +42,5 @@ Vi ber Allāh den Upphöjde att stärka oss med stadiga ord och [att Han] förä
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Kämpa för Allāhs sak.
 
+[^3]: *al-Bukhārī* 3675, *Abū Dawūd* 4651 och *Ahmad* 5:331, 338
+[^4]: *al-Bukhārī* 2898

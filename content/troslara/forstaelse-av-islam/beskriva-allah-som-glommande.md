@@ -1,15 +1,17 @@
 ---
 title: Beskriva Allāh som glömmande
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fatāwa al-shaykh Ibn ‘Uthaymīn 1/172-174 Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fatāwa al-shaykh Ibn ‘Uthaymīn 1/172-174 Muhammed Knut Bernström (1421),
+  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 527
-description: 'Fråga: Kan Allāh beskrivas som glömmande? Svar: Att glömma kan
- innebära två olika saker: Förbise något som är känt, som i versen: ”Herre!
- Ställ oss inte tills vars för glömska eller oavsi...'
+description: >-
+  Fråga: Kan Allāh beskrivas som glömmande? Svar: Att glömma kan innebära två
+  olika saker: Förbise något som är känt, som i versen: ”Herre! Ställ oss inte
+  tills vars för glömska eller oavsi...
 ---
 
 **Fråga:** Kan Allāh beskrivas som glömmande?
@@ -17,10 +19,7 @@ description: 'Fråga: Kan Allāh beskrivas som glömmande? Svar: Att glömma kan
 **Svar:** Att glömma kan innebära två olika saker: Förbise något som är känt, som i versen:
 
 > ”Herre! Ställ oss inte tills vars för glömska eller oavsiktliga fel.” [Koranen 2:286]
->
->
->
->
+
 > ”[En gång i tiden] förmanade och varande Vi Adam, men han glömde [snart Våra ord]; och Vi fann hos honom ingen fasthet i föresatsen.” [Koranen 20:115]
 
 Detta enligt en av de två åsikterna hos de lärde. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
@@ -44,10 +43,7 @@ Därmed är det inte tillåtet att under några omständigheter beskriva Allāh 
 Den andra innebörden av att glömma är att avsiktligen och med vetskap bortse från något, som i versen:
 
 > ”Och när de inte längre mindes läxan som de fått, öppnade Vi portarna till allt [livets goda] för dem.” [Koranen 6:44]
->
->
->
->
+
 > "[En gång i tiden] förmanade och varande Vi Adam, men han glömde [snart Våra ord]; och Vi fann hos honom ingen fasthet i föresatsen.” [Koranen 20:115]
 
 Detta är enligt den andra åsikten bland de lärda om innebörden av denna vers.
@@ -71,15 +67,9 @@ Och i *Sahīh Muslim* [Kitāb al-Zuhd wa’l-Raqā’iq] återges att Abū Hurai
 Allāhs lämnande eller glömmande av någonting är en av Hans handlingar som sker genom Hans vilja och enligt Hans visdom. Allāh säger:
 
 > ”… och lämnar dem i mörker så att de ingenting kan se.” [Koranen 2:17 – 18]
->
->
->
->
+
 > ”Vi ska låta [människomassorna svalla] och bryta sig mot varandra som bränningar.” [Koranen 18:99]
->
->
->
->
+
 > ”Och av [detta straff] har Vi efterlämnat spår som ett tydligt tecken.” [Koranen 29:35]
 
 Det finns många välkända texter som bekräftar att Allāh lämnar eller överger saker. Texterna bekräftar även Hans andra handlingar som har att göra med Hans vilja. Detta vittnar om perfektionen i Hans kraft och makt. Det sätt som Han utför dessa handlingar på är inte på det sätt som Hans skapelse gör, även om de delar samma grundläggande mening. Detta är välkänt bland *ahl al-sunnah*[^2].

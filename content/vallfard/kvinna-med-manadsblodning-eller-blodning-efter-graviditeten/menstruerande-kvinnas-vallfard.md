@@ -1,15 +1,17 @@
 ---
 title: Menstruerande kvinnas vallfärd
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
- Libanon: Maktaba Dar us-Salam. 152 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Libanon: Maktaba Dar us-Salam. 152 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
   - Månadsblödning och efterblödning
 original_id: 1344
-description: 'Fråga: Vilket är utlåtandet om en kvinna som får sin månadsblödning
- under vallfärden? Är denna vallfärd tillräcklig för henne? Svar: Om en kvinna
- får sin månadsblödning under vallfärden, då gö...'
+description: >-
+  Fråga: Vilket är utlåtandet om en kvinna som får sin månadsblödning under
+  vallfärden? Är denna vallfärd tillräcklig för henne? Svar: Om en kvinna får
+  sin månadsblödning under vallfärden, då gö...
 ---
 
 **Fråga:** Vilket är utlåtandet om en kvinna som får sin månadsblödning under vallfärden? Är denna vallfärd tillräcklig för henne?
@@ -18,7 +20,7 @@ description: 'Fråga: Vilket är utlåtandet om en kvinna som får sin månadsbl
 
 Om hon råkar få sin månadsblödning och inget återstår för henne [av vallfärdsriterna] utom *tawāful-wadā*[^4], då reser hon och inget krävs av henne. Under denna omständighet gäller inte denna skyldighet och hennes vallfärd är giltig.
 
-Grunden för detta är vad *at-Tirmidhi* och *Abū Dawūd* har återgivit från 'Abdullāh bin 'Abbās när han berättar att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: "*När kvinnan med blödningar efter graviditeten och kvinnan under månadsblödningen kommer till mīqāt*[^5]; *då gör de ghusl*[^3], *går in i ihrām*[^6] *och fullföljer alla vallfärdsriter, utom tawāf runt Huset [Ka'bah].*" [*Abū Dawūd* 1838]
+Grunden för detta är vad *at-Tirmidhi* och *Abū Dawūd* har återgivit från 'Abdullāh bin 'Abbās när han berättar att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: "*När kvinnan med blödningar efter graviditeten och kvinnan under månadsblödningen kommer till mīqāt*[^5]; *då gör de ghusl*[^3], *går in i ihrām*[^6] *och fullföljer alla vallfärdsriter, utom tawāf runt Huset [Ka'bah].*" [^9]
 
 I *Sahīh* rapporteras det från 'A'ishah – må Allāh vara nöjd med henne – att hon fick sin månadsblödning innan hon utförde riterna för *'umrah*[^7]. Profeten – över honom vare Allāhs frid och välsignelser – beordrade henne då att träda in i *ihrām*[^6] för vallfärden och inte utföra *tawāf*[^1] runt Huset [Ka'bah] förrän hon blivit ren. Han beordrade henne även att göra allt som pilgrimerna gjorde. al-Bukhārī har även återgivit från 'A'ishah – må Allāh vara nöjd med henne – att hon sagt:
 
@@ -37,3 +39,4 @@ I en annan återberättelse sade hon:
 [^7]: Den lilla vallfärden.
 [^8]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
 
+[^9]: *Abū Dawūd* 1838

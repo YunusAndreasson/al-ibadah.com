@@ -1,20 +1,22 @@
 ---
-title: Näs-, ögon- och örondroppar
+title: 'Näs-, ögon- och örondroppar'
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 662 s. ISBN 9960-892-66-2'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 662 s. ISBN 9960-892-66-2
 categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1053
-description: 'Fråga: Vilket är utlåtandet om näs-, ögon- och örondroppar för den
- som fastar? Svar: Näsdroppar bryter fastan om de når magen, enligt vad som har
- rapporterats i en hadīth från Laqit bin Sabi...'
+description: >-
+  Fråga: Vilket är utlåtandet om näs-, ögon- och örondroppar för den som fastar?
+  Svar: Näsdroppar bryter fastan om de når magen, enligt vad som har
+  rapporterats i en hadīth från Laqit bin Sabi...
 ---
 
 **Fråga:** Vilket är utlåtandet om näs-, ögon- och örondroppar för den som fastar?
 
-**Svar:** Näsdroppar bryter fastan om de når magen, enligt vad som har rapporterats i en *hadīth*[^1] från Laqit bin Sabirah. Profeten – över honom vare Allāhs frid och välsignelser – säger här till honom: "*Överdriv indraget av vatten i näsan [under tvagningen[^2]] utom när ni fastar*." [*Abū Dawūd* 142, *at-Tirmithi* 38, *an-Nasā'i* 87 och *Ibn Mājah* 448]
+**Svar:** Näsdroppar bryter fastan om de når magen, enligt vad som har rapporterats i en *hadīth*[^1] från Laqit bin Sabirah. Profeten – över honom vare Allāhs frid och välsignelser – säger här till honom: "*Överdriv indraget av vatten i näsan [under tvagningen[^2]] utom när ni fastar*." [^4]
 
 Således får den fastande inte ta näsdroppar som når dennes mage. Droppar som inte når magen bryter inte fastan.
 
@@ -30,3 +32,4 @@ Och på samma sätt om den fastande inte kan andas och använder en inhalator so
 [^2]: Wudū
 [^3]: Svart ögonkräm som används för att måla runt ögonen.
 
+[^4]: *Abū Dawūd* 142, *at-Tirmithi* 38, *an-Nasā'i* 87 och *Ibn Mājah* 448

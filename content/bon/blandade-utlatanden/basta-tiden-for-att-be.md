@@ -1,20 +1,22 @@
 ---
 title: Bästa tiden för att be
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 431 s. ISBN 9960-892-66-2'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 431 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
   - Övrigt
 original_id: 926
-description: 'Fråga: Vilken är den bästa tiden för att be? Är det bäst vid början
- eller vid slutet av den föreskrivna tiden? Svar: Den fullkomligaste bönen är
- den som bes vid den tid som den islamiska lagen...'
+description: >-
+  Fråga: Vilken är den bästa tiden för att be? Är det bäst vid början eller vid
+  slutet av den föreskrivna tiden? Svar: Den fullkomligaste bönen är den som bes
+  vid den tid som den islamiska lagen...
 ---
 
 **Fråga:** Vilken är den bästa tiden för att be? Är det bäst vid början eller vid slutet av den föreskrivna tiden?
 
-**Svar:** Den fullkomligaste bönen är den som bes vid den tid som den islamiska lagen kräver. När profeten – över honom vare Allāhs frid och välsignelser – tillfrågades om vilken handling som Allāh den Allsmäktige älskar mest svarade han: ”*Bön vid den angivna tiden*.” [*al-Bukhārī* och *Muslim*] Han sade inte: ”Bön vid början av den angivna tiden.” Detta beror på att det är föreskrivet att några bes tidigare och att några bes senare. Exempelvis är det föreskrivet att skjuta upp nattbönen[^1] tills ungefär en tredjedel av natten har gått.
+**Svar:** Den fullkomligaste bönen är den som bes vid den tid som den islamiska lagen kräver. När profeten – över honom vare Allāhs frid och välsignelser – tillfrågades om vilken handling som Allāh den Allsmäktige älskar mest svarade han: ”*Bön vid den angivna tiden*.” [^5] Han sade inte: ”Bön vid början av den angivna tiden.” Detta beror på att det är föreskrivet att några bes tidigare och att några bes senare. Exempelvis är det föreskrivet att skjuta upp nattbönen[^1] tills ungefär en tredjedel av natten har gått.
 
 Om en kvinna då befinner sig i hemmet och frågar: "Vad är bäst för mig, att förrätta nattbönen[^1] när böneutropet för nattbönen[^1] ropas ut eller att skjuta upp den tills en tredjedel av natten har gått? Då säger vi: Det är bättre att skjuta upp den tills en tredjedel av natten har gått.
 
@@ -28,7 +30,7 @@ De andra bönerna bör bes vid början av tiden om det inte finns någon anledni
 
 Dessa anledningar är: Om det blir mycket varmt är det bättre att be middagsbönen[^2] senare då det har svalnat, det vill säga närmare eftermiddagsbönen[^3]. Temperaturen är lägre närmare eftermiddagsbönen[^3] så om det är mycket varmt är det bättre att vänta tills det blir svalare.
 
-Detta är enligt profetens – över honom vare Allāhs frid och välsignelser – förklaring: "*Om det blir mycket varmt, be då middagsbönen[^2] när det blir lite svalare. Intensiteten i värmen kommer från Helveteseldens raseri*." [*al-Bukhārī* och *Muslim*]
+Detta är enligt profetens – över honom vare Allāhs frid och välsignelser – förklaring: "*Om det blir mycket varmt, be då middagsbönen[^2] när det blir lite svalare. Intensiteten i värmen kommer från Helveteseldens raseri*." [^6]
 
 Profeten – över honom vare Allāhs frid och välsignelser – var på resande fot och Bilal gick upp för att ropa ut böneutropet förmiddagsbönen[^2] men han sade till honom: ”*Skjut upp det tills det är svalare*.” Sedan gick Bilal återigen upp för böneutropet men profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Skjut upp det tills det är svalare*.” Sedan gick Bilal upp igen för att ropa ut böneutropet och profeten – över honom vare Allāhs frid och välsignelser – tillät honom att göra det. [*al-Bukhārī*]
 
@@ -41,3 +43,5 @@ En annan anledning till att skjuta upp är om det finns en församling vid slute
 [^3]: Asr
 [^4]: Maghrib
 
+[^5]: *al-Bukhārī* och *Muslim*
+[^6]: *al-Bukhārī* och *Muslim*

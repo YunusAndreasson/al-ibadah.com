@@ -1,14 +1,15 @@
 ---
 title: Viktiga böcker för den som vill lära sig om islam
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: Fatāwa al-shaykh Muḥammad ibn Sālih al-‘Uthaymīn, Kitāb al-‘Ilm, s. 92
+source: 'Fatāwa al-shaykh Muḥammad ibn Sālih al-‘Uthaymīn, Kitāb al-‘Ilm, s. 92'
 categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 504
-description: 'Fråga: Vi skulle vilja ha råd om vilka böcker om islamisk kunskap som
- är nyttiga. Svar: ‘Aqīdah Thalāthat al-Usūl al-Qawā’id
- al-Arba’ah Kashf al-Shubahāt ...'
+description: >-
+  Fråga: Vi skulle vilja ha råd om vilka böcker om islamisk kunskap som är
+  nyttiga. Svar: ‘Aqīdah Thalāthat al-Usūl al-Qawā’id al-Arba’ah Kashf
+  al-Shubahāt ...
 ---
 
 **Fråga:** Vi skulle vilja ha råd om vilka böcker om islamisk kunskap som är nyttiga.
@@ -42,7 +43,7 @@ Dessa båda böcker är mer omfattande än *al-Wāsitiyyah*. Alla är skrivna av
 6. *al-Arba’īn al-Nawawiyyah* av Abū Zakariyya al-Nawawi. Detta är en bra bok då den tar upp etikett, god metodologi och viktiga grundläggande principer som denna *hadīth*[^3]: ”*En del av att vara en god muslim är att lämna det som inte berör en*.” [Återberättad av imam Ahmad, 1 – 201; al-Tirmithi, 2318; klassad som *hasan* by al-Nawawi i *Riyādh al-Sālihīn*, 73; klassad som Sahīh av Ahmad Shākir i *al-Musnad*, 1737] Denna princip – om man gör den till vägen som man följer – skulle vara tillräcklig. En annan princip läggs fram om när man bör tala: ”*Den som tror på Allāh och den Yttersta dagen, låt denne säga något bra eller vara tyst*.” [*al-Bukhāri, Kitāb al-Adab; Muslim, Kitāb al-Luqtah, Bāb al-Diyāfah*]
 7. *Bulūgh al-Marām* av al-Hāfiz Ibn Hajar al-‘Asqallāni. Detta är en mycket användbar bok, speciellt då den nämner återberättarna och citat från de lärde som har sagt vilka *ahādīth*[^3] som är *sahīh* och vilka som är *da’īf*. Han kommenterar varje *hadīth*[^3] och säger om den är *sahīh* eller *da’īf*.
 8. *Nukhbat al-Fikr* av al-Hāfiz Ibn Hajar al-‘Asqallāni. Detta anses vara ett mycket omfattande verk. Om den islamstudernade förstår det fullt ut kommer denne inte ha något behov av speciellt många andra böcker i vetenskapen om *hadīth*[^3]. Ibn Hajar skriver på ett nyttigt sätt då han undersöker varje fråga i detalj och då han kategoriserar de ämnen som han diskuterar. Om den islamstuderande läser den kommer denne att finna den stimulerande då den får en att tänka. Jag säger: Det är bra för den som studerar islam att memorera den då den innehåller en nyttig sammanställning av vetenskapen om *hadīth*[^3] .
-9. De Sex Böckerna [*Sahīh al-Bukhāri, Muslim, al-Nasā’i, Abū Dawūd, Ibn Mājah* och *al-Tirmithi*]. Jag rekommenderar alla studenter att läsa dem ofta. Det tjänar två syften: Påminnelse om islams huvudkällor om påminnelse om de som har återberättat *ahādīth*[^3] . Går du ofta igenom namnen på de som har återberättat *ahādīth*[^3] kommer du att när du ser namnet på någon återberättar hos al-Bukhārī i en berättarkedja, då vet du att det är en av al-Bukhārīs återberättare. På detta sätt kommer du att ha nytta av denna kunskap om *hadīth*[^3].
+9. De Sex Böckerna [^6]. Jag rekommenderar alla studenter att läsa dem ofta. Det tjänar två syften: Påminnelse om islams huvudkällor om påminnelse om de som har återberättat *ahādīth*[^3] . Går du ofta igenom namnen på de som har återberättat *ahādīth*[^3] kommer du att när du ser namnet på någon återberättar hos al-Bukhārī i en berättarkedja, då vet du att det är en av al-Bukhārīs återberättare. På detta sätt kommer du att ha nytta av denna kunskap om *hadīth*[^3].
 
 *Fiqh*
 
@@ -78,3 +79,4 @@ Allmänna böcker
 [^4]: Rättslära.
 [^5]: Tolkning av Koranen efter givna principer.
 
+[^6]: *Sahīh al-Bukhāri, Muslim, al-Nasā’i, Abū Dawūd, Ibn Mājah* och *al-Tirmithi*

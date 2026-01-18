@@ -1,20 +1,22 @@
 ---
 title: Förbudet mot fasta under fredagar
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 2. Libanon: Makbtaba Dar us-Salam. 679 s. ISBN 9960-892-66-2'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
+  Libanon: Makbtaba Dar us-Salam. 679 s. ISBN 9960-892-66-2
 categories:
   - Fasta (Sawm)
   - Övrigt
 original_id: 1271
-description: 'Fråga: Vad är anledningen till att det är förbjudet att fasta under
- fredagar? Går det heller inte att fasta under fredagar när man har fasta att ta
- igen? Svar: Profeten – över honom vare Allāh...'
+description: >-
+  Fråga: Vad är anledningen till att det är förbjudet att fasta under fredagar?
+  Går det heller inte att fasta under fredagar när man har fasta att ta igen?
+  Svar: Profeten – över honom vare Allāh...
 ---
 
 **Fråga:** Vad är anledningen till att det är förbjudet att fasta under fredagar? Går det heller inte att fasta under fredagar när man har fasta att ta igen?
 
-**Svar:** Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Välj inte ut fredagar speciellt för att fasta, inte heller dess nätter för att stå i bön*.” [*Muslim* 1144]
+**Svar:** Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Välj inte ut fredagar speciellt för att fasta, inte heller dess nätter för att stå i bön*.” [^5]
 
 Visdomen i att det är förbjudet att välja ut fredagar för fasta är att detta är vår veckovisa *'eid*[^4] och den är en av de tre föreskrivna *'eid*[^4]. Inom islam finns det tre *'eid*[^4]: *'eidul-fitr* efter *ramadan*[^1], *'eidul-adha* och den veckovisa *'eid*[^4] som är fredagen.
 
@@ -31,3 +33,4 @@ När frågeställaren säger: Gäller detta enbart frivillig fasta eller inklude
 [^3]: Dhikr
 [^4]: Islamisk högtid.
 
+[^5]: *Muslim* 1144

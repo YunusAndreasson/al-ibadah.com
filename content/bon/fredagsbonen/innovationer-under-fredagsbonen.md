@@ -1,22 +1,24 @@
 ---
 title: Innovationer under fredagsbönen
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
- Libanon: Maktaba Dar us-Salam. 445 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Libanon: Maktaba Dar us-Salam. 445 s. ISBN saknas
 categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 1542
-description: 'Fråga: [I den långa frågan diskuteras ett antal olika innovationer.] Svar: Nashīd före
- böneutropet under fredagsbönen har inte bekräftats vara tillåtet, därmed är det
- en innovation. Fredagar...'
+description: >-
+  Fråga: [I den långa frågan diskuteras ett antal olika innovationer.] Svar:
+  Nashīd före böneutropet under fredagsbönen har inte bekräftats vara tillåtet,
+  därmed är det en innovation. Fredagar...
 ---
 
 **Fråga:** [I den långa frågan diskuteras ett antal olika innovationer.]
 
 **Svar:** *Nashīd* före böneutropet under fredagsbönen har inte bekräftats vara tillåtet, därmed är det en innovation. Fredagar bör inte väljas ut för koranrecitation genom högtalare eller på annat sätt – varken före böneutropet eller efter bönen – och recitationen är inte specifik för fredagar, utan recitationen är för varje dag. Därmed är det en innovation att göra det till något särskilt för fredagar. profetens – över honom vare Allāhs frid och välsignelser – bekräftade *sunnah*[^1] är att begränsa sig till böneutropet för den.
 
-Recitation av as-Samadiyyah eller något annat från Koranen eller åminnelse[^2] innan predikan börjar är inte obligatoriskt, faktum är att det är en innovation. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [*al-Bukhārī* 2697 och *Muslim* 1718]
+Recitation av as-Samadiyyah eller något annat från Koranen eller åminnelse[^2] innan predikan börjar är inte obligatoriskt, faktum är att det är en innovation. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [^4]
 
 Då det inte finns några bevis som förbjuder det är det inte fel att hålla föreläsningar under fredagar.
 
@@ -28,3 +30,4 @@ Den islamiska lagen uppmuntrar till att böner sänds över profeten – över h
 [^2]: Dhikr
 [^3]: Tahiyyatul-Msjid.
 
+[^4]: *al-Bukhārī* 2697 och *Muslim* 1718

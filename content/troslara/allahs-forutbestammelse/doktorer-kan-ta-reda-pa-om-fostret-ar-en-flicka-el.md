@@ -1,19 +1,21 @@
 ---
 title: Doktorer kan ta reda på om fostret är en flicka eller pojke
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muḥammad ibn Sālih al-‘Uthaymīn,
- volym 1, 68-70. Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius.
- ISBN 91-7118-887-8'
+source: >-
+  Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muḥammad ibn Sālih al-‘Uthaymīn,
+  volym 1, 68-70. Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn:
+  Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 1276
-description: 'Fråga: Hur kan vi förlika att doktorer kan ta reda på om fostret är
- en flicka eller pojke med versen: “ som vet vad som ligger gömt i moderlivet .”
- [Koranen 31:24] Och det som har återberättats i ...'
+description: >-
+  Fråga: Hur kan vi förlika att doktorer kan ta reda på om fostret är en flicka
+  eller pojke med versen: “ som vet vad som ligger gömt i moderlivet .” [Koranen
+  31:24] Och det som har återberättats i ...
 ---
 
-**Fråga:** Hur kan vi förlika att doktorer kan ta reda på om fostret är en flicka eller pojke med versen: “*som vet vad som ligger gömt i moderlivet*.” [Koranen 31:24] Och det som har återberättats i *Tafsīr Ibn Jarīr* från Mujāhid om en man som frågade profeten – över honom vare Allāhs frid och välsignelser – vad hans fru skulle föda och Allāh då uppenbarade denna vers. Och det som har återberättats från Qutādah? Finns det någon annan vers eller *hadīth*[^1] om detta som är specifikare?
+**Fråga:** Hur kan vi förlika att doktorer kan ta reda på om fostret är en flicka eller pojke med versen: “*som vet vad som ligger gömt i moderlivet*.” [^5] Och det som har återberättats i *Tafsīr Ibn Jarīr* från Mujāhid om en man som frågade profeten – över honom vare Allāhs frid och välsignelser – vad hans fru skulle föda och Allāh då uppenbarade denna vers. Och det som har återberättats från Qutādah? Finns det någon annan vers eller *hadīth*[^1] om detta som är specifikare?
 
 **Svar:** All lovprisan tillhör Allāh. Innan jag diskuterar denna fråga skulle jag vilja klargöra att det aldrig kan finnas en motsägelse mellan ett tydligt uttalande i Koranen och verkligheten. Ser det ut som att verkligheten motsägs beror det antingen på att det som vi tror är verklighet i själva verket är ett grundlöst påstående, eller att texten i Koranen inte motsäger sig denna verklighet på ett klart och definitivt sätt. Tydliga påstående i Koranen och verkligheten är båda definitiva faktum, och två definitiva fakta kan aldrig motsäga sig varandra.
 
@@ -32,3 +34,4 @@ Qutādah's *tafsīr*[^4] kan tolkas som att enbart Allāh har kunskap om detta s
 [^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^4]: Tolkning av Koranen efter givna principer.
 
+[^5]: Koranen 31:24

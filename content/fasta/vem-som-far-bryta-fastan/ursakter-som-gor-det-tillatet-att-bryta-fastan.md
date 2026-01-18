@@ -1,15 +1,17 @@
 ---
 title: Ursäkter som gör det tillåtet att bryta fastan
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 2. Libanon: Makbtaba Dar us-Salam. 632 s. ISBN 9960-892-66-2'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
+  Libanon: Makbtaba Dar us-Salam. 632 s. ISBN 9960-892-66-2
 categories:
   - Fasta (Sawm)
   - Undantag från fasta
 original_id: 1259
-description: 'Fråga: Vilka är de ursäkter som gör det tillåtet att bryta fastan? Svar: De
- ursäkter som gör det tillåtet att bryta fastan är sjukdom och resa, vilket nämns
- i Koranen. Andra ursäkter är om en ...'
+description: >-
+  Fråga: Vilka är de ursäkter som gör det tillåtet att bryta fastan? Svar: De
+  ursäkter som gör det tillåtet att bryta fastan är sjukdom och resa, vilket
+  nämns i Koranen. Andra ursäkter är om en ...
 ---
 
 **Fråga:** Vilka är de ursäkter som gör det tillåtet att bryta fastan?
@@ -18,7 +20,7 @@ description: 'Fråga: Vilka är de ursäkter som gör det tillåtet att bryta fa
 
 Och ytterligare en ursäkt är om någon behöver bryta fastan för att rädda ett liv. Detta skulle kunna vara om man ser en person i havet eller någon som har omringats av en brand och man behöver bryta fastan för att rädda denne. I detta fall kan man bryta fastan och rädda denne person.
 
-Ytterligare ett fall skulle vara om någon behöver bryta fastan för att stärka sig själv inför *djihād*[^1] för Allāhs skull. Detta skulle också vara en tillåten ursäkt för att bryta fastan. Profeten – över honom vare Allāhs frid och välsignelser – sade till följeslagarna: "*Ni kommer att möta en arme imorgon, så att bryta fastan kommer att vara stärkande för er, så bryt er fasta*." [*Muslim* 1120]
+Ytterligare ett fall skulle vara om någon behöver bryta fastan för att stärka sig själv inför *djihād*[^1] för Allāhs skull. Detta skulle också vara en tillåten ursäkt för att bryta fastan. Profeten – över honom vare Allāhs frid och välsignelser – sade till följeslagarna: "*Ni kommer att möta en arme imorgon, så att bryta fastan kommer att vara stärkande för er, så bryt er fasta*." [^3]
 
 Finns det en giltig ursäkt för att bryta fastan, och om någon bryter fastan på grund av den, då behöver denne inte fasta återstoden av dagen. Om det då inträffar att någon har brutit fastan för att rädda ett liv, då bör denne fortsätta med att äta och dricka även efter att ha räddat denne person. Detta beror på att fastan har brutits av en tillåten anledning. Då är det inte nödvändigt att man fastar. Förbudet mot att bryta fastan den dagen gäller inte längre på grund av orsaken som gjorde det tillåtet att bryta den.
 
@@ -33,3 +35,4 @@ Men när det gäller dem som har beskrivits så får de bryta deras fasta även 
 [^1]: Kämpa för Allāhs sak.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 
+[^3]: *Muslim* 1120

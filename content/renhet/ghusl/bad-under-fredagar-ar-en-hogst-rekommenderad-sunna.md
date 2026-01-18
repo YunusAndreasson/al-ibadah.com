@@ -1,22 +1,24 @@
 ---
 title: Bad under fredagar är en högst rekommenderad sunnah
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
- Libanon: Maktaba Dar us-Salam. 464 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Libanon: Maktaba Dar us-Salam. 464 s. ISBN saknas
 categories:
   - Renhet (Tahārah)
-  - Ghusl [Den stora tvagningen]
+  - 'Ghusl [Den stora tvagningen]'
 original_id: 1547
-description: 'Fråga: Är det obligatoriskt eller enbart fördelaktigt att göra ghusl under
- fredagar? Svar: Att göra ghusl under fredagar är en högst rekommenderad sunnah
- . Detta enligt autentiska ahādīt...'
+description: >-
+  Fråga: Är det obligatoriskt eller enbart fördelaktigt att göra ghusl under
+  fredagar? Svar: Att göra ghusl under fredagar är en högst rekommenderad sunnah
+  . Detta enligt autentiska ahādīt...
 ---
 
 **Fråga:** Är det obligatoriskt eller enbart fördelaktigt att göra *ghusl*[^1] under fredagar?
 
-**Svar:** Att göra *ghusl*[^1] under fredagar är en högst rekommenderad *sunnah*[^2]. Detta enligt autentiska *ahādīth*[^3] som har återberättats från profeten – över honom vare Allāhs frid och välsignelser – där han säger: ”*Varje vuxen man måste ta ett bad och han bör använda en miswāk[^4] samt parfymera sig*.” [*al-Bukhārī* 880 och *Muslim* 846] Och han har sagt: ”*Den som gjorde *ghusl*[^1] under fredagen, begav sig till fredagsbönen, bad vad som nedtecknats för honom, höll sig tyst när imamen höll sin predikan och sedan bad med honom – kommer att få sina synder sedan förra fredagen – plus tre dagar – förlåtna*.” [*Muslim* 857]
+**Svar:** Att göra *ghusl*[^1] under fredagar är en högst rekommenderad *sunnah*[^2]. Detta enligt autentiska *ahādīth*[^3] som har återberättats från profeten – över honom vare Allāhs frid och välsignelser – där han säger: ”*Varje vuxen man måste ta ett bad och han bör använda en miswāk[^4] samt parfymera sig*.” [^6] Och han har sagt: ”*Den som gjorde *ghusl*[^1] under fredagen, begav sig till fredagsbönen, bad vad som nedtecknats för honom, höll sig tyst när imamen höll sin predikan och sedan bad med honom – kommer att få sina synder sedan förra fredagen – plus tre dagar – förlåtna*.” [^7]
 
-I en annan återberättelse i *Muslim*: ”*Den som tvagade[^5] sig väl, gick till fredagsbönen, lyssnade till predikan och höll sig tyst – kommer att få sina synder sedan den förra fredagen förlåtna, utöver det tre dagar extra och den som så mycket som rör en sten har gjort sin bön ogiltig*.” [*Muslim* 857]
+I en annan återberättelse i *Muslim*: ”*Den som tvagade[^5] sig väl, gick till fredagsbönen, lyssnade till predikan och höll sig tyst – kommer att få sina synder sedan den förra fredagen förlåtna, utöver det tre dagar extra och den som så mycket som rör en sten har gjort sin bön ogiltig*.” [^8]
 
 Det finns många *ahādīth*[^3] om detta.
 
@@ -28,3 +30,6 @@ Hans ord: ”… *obligatoriskt för varje vuxen man*” betyder enligt en major
 [^4]: Kan liknas vid en tandborste. Gjord av Arak-trädets rötter.
 [^5]: Wudū
 
+[^6]: *al-Bukhārī* 880 och *Muslim* 846
+[^7]: *Muslim* 857
+[^8]: *Muslim* 857

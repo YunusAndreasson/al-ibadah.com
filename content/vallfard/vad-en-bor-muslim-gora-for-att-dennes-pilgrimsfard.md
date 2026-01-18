@@ -1,14 +1,16 @@
 ---
 title: Villkor för accepterad pilgrimsfärd
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fatāwa Ibn ´Uthaymīn, 21/20 Muhammed Knut Bernström (1421), Koranens budskap
- . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fatāwa Ibn ´Uthaymīn, 21/20 Muhammed Knut Bernström (1421), Koranens budskap .
+  Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Vallfärd (Hajj)
 original_id: 890
-description: 'Fråga: Vad en bör muslim göra för att dennes pilgrimsfärd ska accepteras,
- om Allāh vill? Svar: All lovprisan tillhör Allāh. Det en muslim bör göra för
- att dennes pilgrimsfärd ska acceptera...'
+description: >-
+  Fråga: Vad en bör muslim göra för att dennes pilgrimsfärd ska accepteras, om
+  Allāh vill? Svar: All lovprisan tillhör Allāh. Det en muslim bör göra för att
+  dennes pilgrimsfärd ska acceptera...
 ---
 
 **Fråga:** Vad en bör muslim göra för att dennes pilgrimsfärd ska accepteras, om Allāh vill?
@@ -22,10 +24,7 @@ Ingen rättfärdig handling kommer att accepteras om den inte uppfyller dessa tv
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > "Handlingar döms efter avsikten. Var man kommer att få vad denne har avsett."
->
->
->
->
+
 > "Den som utför en handling som inte är enligt vår sak [islam] kommer att få den avvisad."
 
 Detta är det viktigaste som pilgrimer bör söka: uppriktighet i avsikten samt att följa profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^1]. Profeten – över honom vare Allāhs frid och välsignelser – brukade under sin vallfärd säga: "*Lär er era ritualer ifrån mig*."

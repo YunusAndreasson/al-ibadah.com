@@ -1,16 +1,18 @@
 ---
 title: Allmosa till den som studerar islam
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. x s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. x s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 1026
-description: 'Fråga: Vilket är utlåtandet om att betala allmosa till den som studerar
- islam? Svar: Det är tillåtet att betala allmosa till den som studerar islam
- även om denne kan vara kapabel till egna fört...'
+description: >-
+  Fråga: Vilket är utlåtandet om att betala allmosa till den som studerar islam?
+  Svar: Det är tillåtet att betala allmosa till den som studerar islam även om
+  denne kan vara kapabel till egna fört...
 ---
 
 **Fråga:** Vilket är utlåtandet om att betala allmosa till den som studerar islam?
@@ -31,5 +33,7 @@ Här uppkommer en fråga: En man har ett antal söner och några har blivit gift
 
 Svaret är att det inte är tillåtet för denne man, om han gift bort de äldre sönerna, att testamentera brudgåvan till de yngre sönerna. Men det är en skyldighet för honom, om någon av dem uppnår giftasvuxen ålder, att gifta bort dem på samma sätt som han gifte bort de andra. Men att testamentera något efter sin bortgång är inte tillåtet.
 
-Beviset för detta finns i profetens – över honom vare Allāhs frid och välsignelser – ord: "*Allāh har sannerligen skänkt varje fattig dennes rätt, så det finns inget legat för en arvtagare*." [*Abū Dawūd* och *at-Tirmithi*]
+Beviset för detta finns i profetens – över honom vare Allāhs frid och välsignelser – ord: "*Allāh har sannerligen skänkt varje fattig dennes rätt, så det finns inget legat för en arvtagare*." [^1]
 
+
+[^1]: *Abū Dawūd* och *at-Tirmithi*

@@ -1,16 +1,18 @@
 ---
 title: Har vallfärdat och överger sedan bönen efter detta
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
- Libanon: Maktaba Dar us-Salam. 51 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Libanon: Maktaba Dar us-Salam. 51 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1321
-description: 'Fråga: Ädle shaykh! Med anledning av svåra omständigheter och mot min
- vilja reste jag till ett främmande land under mitten av ramadan och i mitt land
- fastade jag under den första halvan. När jag s...'
+description: >-
+  Fråga: Ädle shaykh! Med anledning av svåra omständigheter och mot min vilja
+  reste jag till ett främmande land under mitten av ramadan och i mitt land
+  fastade jag under den första halvan. När jag s...
 ---
 
 **Fråga:** Ädle *shaykh*! Med anledning av svåra omständigheter och mot min vilja reste jag till ett främmande land under mitten av *ramadan*[^1] och i mitt land fastade jag under den första halvan. När jag sedan reste, slutade jag att fasta och be under femton dagar, vilket var den tid som jag befann mig i landet. Under den tiden sade jag att dessa människor var orena och att det inte var tillåtet att använda deras köksredskap. Jag visste inte heller riktningen mot *qiblah*[^2] och jag åt eller drack inte något av vad de hade. Min fråga är om mitt övergivande av bönen och fastan har någon inverkan på den obligatoriska vallfärd som jag gjort för många år sedan? Finns det något utlåtande eller någon lösen som jag kan ge Allāh för att Han ska förlåta mina synder? Vänligen, ge mig ett svar och må Allāh välsigna er.
@@ -30,10 +32,7 @@ Det enda som du behöver göra är att ta igen de dagar som du har missat att fa
 Anledningen som du uppgav för att lämna bönen – att du inte kände till riktningen mot *qiblah*[^2] – och att du inte åt eller drack deras mat, den är inte korrekt. För det är obligatoriskt för dig att be enligt din bästa förmåga och göra det så gott du kan. Anledningen är att Allāh har sagt:
 
 > ”Gud lägger inte på någon en tyngre börda än han kan bära.” [Koranen 2:286]
->
->
->
->
+
 > ”Frukta därför Gud efter måttet av er förmåga.” [Koranen 64:16]
 
 Och profeten – över honom vare Allāhs frid och välsignelser – har sagt:

@@ -1,31 +1,33 @@
 ---
 title: Giftermål med en person som inte ber
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 387 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 387 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1219
-description: 'Fråga: En man friade till en annan mans dotter men när de förhörde
- sig om honom blev det uppenbart att han inte bad. Får dottern gifta sig med denne
- man? Svar: Om den som friade inte ber med f...'
+description: >-
+  Fråga: En man friade till en annan mans dotter men när de förhörde sig om
+  honom blev det uppenbart att han inte bad. Får dottern gifta sig med denne
+  man? Svar: Om den som friade inte ber med f...
 ---
 
 **Fråga:** En man friade till en annan mans dotter men när de förhörde sig om honom blev det uppenbart att han inte bad. Får dottern gifta sig med denne man?
 
-**Svar:** Om den som friade inte ber med församlingen i moskén är denne en syndare som inte lyder Allāh och Hans sändebud. Denne motsäger sig vad alla muslimer är eniga om då bönen i församlingen är en av de bästa formerna av dyrkan. *Shaykh ul-Islām* ibn Taymiyyah [*Majmu' al-Fatāwa* 23:223] har sagt:
+**Svar:** Om den som friade inte ber med församlingen i moskén är denne en syndare som inte lyder Allāh och Hans sändebud. Denne motsäger sig vad alla muslimer är eniga om då bönen i församlingen är en av de bästa formerna av dyrkan. *Shaykh ul-Islām* ibn Taymiyyah [^6] har sagt:
 
 > ”De lärde är eniga om att bönen är en av de mest rekommenderade formerna av dyrkan och den mest enastående formen av lydnad och den största av de islamiska riterna.”
 
 Detta tar dock inte denne ur islam. Därmed är det tillåtet att gifta den muslimska kvinnan med honom. Någon annan som verkligen praktiserar skulle dock vara mer värdig än honom, även om denne inte är lika rik eller tillhör en mindre ädel familj.
 
-Detta enligt vad som återberättats i en *hadīth*[^1]: "*Om någon vars religion och karaktär gör dig nöjd kommer till dig, gift dig då med denne*." De sade: "*Allāhs sändebud! Även om det finns någon brist i denne?*" Han svarade tre gånger: "*Om någon vars religion och karaktär gör dig nöjd kommer till dig, gift dig då med denne*." [*at-Tirmithi* 1085 och *Ibn Mājah* 1967]
+Detta enligt vad som återberättats i en *hadīth*[^1]: "*Om någon vars religion och karaktär gör dig nöjd kommer till dig, gift dig då med denne*." De sade: "*Allāhs sändebud! Även om det finns någon brist i denne?*" Han svarade tre gånger: "*Om någon vars religion och karaktär gör dig nöjd kommer till dig, gift dig då med denne*." [^7]
 
 I bland annat *Sahīh al-Bukhārī* och *Sahīh Muslim* återges en *hadīth*[^1] från Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*En kvinna gifts av fyra anledningar: För hennes tillgångar, för hennes ädla börd, för hennes skönhet och för hennes religion. Välj den som är religiös, må era händer gnidas i jord [må ni få framgång]!*" I dessa båda *ahādīth*[^1] finns bevis för att det som förtjänar mest uppmärksamhet är en mans eller kvinnas religion och karaktär.
 
-Det är mest passande för en målsman som fruktar Allāh den Upphöjde och som tänker på sitt ansvar att bry sig om vad profeten – över honom vare Allāhs frid och välsignelser – har sagt då han kommer att tillfrågas om det på Återuppståndelsens dag. Allāh den Upphöjde säger: ”*Och den Dag då han kallar fram dem och frågar: ’Vilket svar gav ni sändebuden?’*” [Koranen 28:65] ”*Vi ska förvisso förhöra mottagarna av Vårt budskap, och Vi ska förhöra sändebuden och Vi ska med [fullständig] kunskap underrätta dem och [allt]; ingenting har gått Oss förbi*.” [Koranen 7:6 – 7]
+Det är mest passande för en målsman som fruktar Allāh den Upphöjde och som tänker på sitt ansvar att bry sig om vad profeten – över honom vare Allāhs frid och välsignelser – har sagt då han kommer att tillfrågas om det på Återuppståndelsens dag. Allāh den Upphöjde säger: ”*Och den Dag då han kallar fram dem och frågar: ’Vilket svar gav ni sändebuden?’*” [^8] ”*Vi ska förvisso förhöra mottagarna av Vårt budskap, och Vi ska förhöra sändebuden och Vi ska med [fullständig] kunskap underrätta dem och [allt]; ingenting har gått Oss förbi*.” [^9]
 
 Om friaren inte ber alls, varken med församlingen eller ensam, anses denne vara icke-troende som står utanför islam. Denne måste uppmanas till att ångra sig. Vänder denne sig då till Allāh i ånger och ber, då kommer Allāh att vända sig till honom med förlåtelse – om dennes ånger är ren och uppriktig för Allāh. Men om denne inte ångrar sig måste denne avrättas som en avfälling och begravas utanför muslimernas gravplats. Denne ska då inte tvättas, svepas eller få någon begravningsbön förrättad för sig. Bevisen för dennes otro finns i Allāhs den Upphöjdes Skrift och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^2]. Bevisen från Skriften finns i Allāhs den Upphöjdes ord:
 
@@ -43,7 +45,7 @@ Dessa båda grupper av troende som stred stod inte utanför trons broderskap äv
 
 Bevisen från profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^2] för att den som överger bönen är en icke-troende finns i profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Mellan en man och *shirk*[^3] och *kufr*[^4] är sannerligen övergivandet av bönen*.” [*Muslim*] Detta har *Muslim* återgivit när Jabir bin ´Abdullāh rapporterar från profeten.
 
-Från Buraidah bin al-Husaib rapporteras det: ”*Jag hörde profeten säga: ’Avtalet som skiljer oss från dem är bönen och den som lämnar den har inte trott.’*” [*Imam Ahmad* 5:346, *at-Tirmithi* 2621 och *an-Nasā’i*] Detta har rapporterats av dem fem; Imam *Ahmad* och de som sammanställt sunan.
+Från Buraidah bin al-Husaib rapporteras det: ”*Jag hörde profeten säga: ’Avtalet som skiljer oss från dem är bönen och den som lämnar den har inte trott.’*” [^10] Detta har rapporterats av dem fem; Imam *Ahmad* och de som sammanställt sunan.
 
 'Ubadah bin as-Samit har rapporterat att de svor en trohetsed till profeten – över honom vare Allāhs frid och välsignelser – om att de aldrig skulle tvista med deras ledare om de inte såg tydlig otro i dem, som det finns bevis från Allāh för. [*al-Bukhārī*] Detta betyder att de inte skulle tvista med dem som Allāh gjorde till ansvariga över dem om de inte såg i dem vad de ansåg vara öppen otro som det finns bevis för från Allāh den Upphöjde. Förstår du detta, notera då även vad som Muslim återger i en *hadīth*[^1] från Umm Salamah i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
 
@@ -55,7 +57,7 @@ Detta är bevis från Allāhs den Upphöjdes Skrift och från Hans sändebuds *s
 
 > ”Allāhs sändebud gav oss råd: 'Sätt inte medhjälpare vid Allāhs sida och överge inte avsiktligen bönen. Den som avsiktligen och medvetet överger den är en icke-troende, och denne är utanför religionen [islam].” [*al-Majma'* 4:216 och *al-Mustadrak* 4:44]
 
-Beträffande *ahādīth*[^1] från följeslagarna har ´Umar bin al-Khattab sagt: ”*Det finns ingen islam, för den som överger bönen*.” [*Abi Shaibah* i *al-iman* 34] ´Abdullāh bin Sahqiq har sagt: ”*profetens – över honom vare Allāhs frid och välsignelser – följeslagare brukade inte anse övergivandet av någon handling som otro utom bönen*.” [*at-Tirmithi*] Beläggen från profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem -bevisar otron för den som överger bönen. Så gör även bevisen från de lärda. Imam *Ahmad* har sagt:
+Beträffande *ahādīth*[^1] från följeslagarna har ´Umar bin al-Khattab sagt: ”*Det finns ingen islam, för den som överger bönen*.” [^11] ´Abdullāh bin Sahqiq har sagt: ”*profetens – över honom vare Allāhs frid och välsignelser – följeslagare brukade inte anse övergivandet av någon handling som otro utom bönen*.” [*at-Tirmithi*] Beläggen från profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem -bevisar otron för den som överger bönen. Så gör även bevisen från de lärda. Imam *Ahmad* har sagt:
 
 > ”De som ser ned på den och förringar dess värde föraktar islam och förringar den. Deras del av islam står i proportion till deras del av bönen och deras kärlek till islam står i proportion till deras kärlek till bönen.”
 
@@ -93,3 +95,9 @@ Detta svar har givits av en som är i behov av Allāh, Muḥammad Sālih al-'Uth
 [^4]: Otro.
 [^5]: Den tolfte månaden i det islamiska året. Under denna månaden utför vallfärdsriterna.
 
+[^6]: *Majmu' al-Fatāwa* 23:223
+[^7]: *at-Tirmithi* 1085 och *Ibn Mājah* 1967
+[^8]: Koranen 28:65
+[^9]: Koranen 7:6 – 7
+[^10]: *Imam Ahmad* 5:346, *at-Tirmithi* 2621 och *an-Nasā’i*
+[^11]: *Abi Shaibah* i *al-iman* 34

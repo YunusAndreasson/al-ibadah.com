@@ -1,24 +1,26 @@
 ---
 title: Bönen blir inte ogiltig om en person passerar framför en
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
- Libanon: Maktaba Dar us-Salam. 158 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Libanon: Maktaba Dar us-Salam. 158 s. ISBN saknas
 categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 1473
-description: 'Fråga: Blir bönen ogiltig om någon går framför? Svar: En person
- som passerar precis framför en [annan] troende som ber gör inte dennes bön ogiltig.
- Endast tre saker gör den ogiltig [enligt den...'
+description: >-
+  Fråga: Blir bönen ogiltig om någon går framför? Svar: En person som passerar
+  precis framför en [annan] troende som ber gör inte dennes bön ogiltig. Endast
+  tre saker gör den ogiltig [enligt den...
 ---
 
 **Fråga:** Blir bönen ogiltig om någon går framför?
 
-**Svar:** En person som passerar precis framför en [annan] troende som ber gör inte dennes bön ogiltig. Endast tre saker gör den ogiltig [enligt den mest korrekta åsikten bland de lärde]: en vuxen kvinna, en svart hund och en åsna. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*En muslimsk mans bön bryts om han inte har något framför sig som en kamelsadel av: en kvinna, en åsna och en svart hund*.” Det sades: ”*Allāhs sändebud! Varför en svart hund och inte en röd eller gul?*” Han sade: ”*Den svarta hunden är en djävul*.” [*Muslim* 510, *Abū Dawūd* 702, *at-Tirmithi* 338 och *Ibn Mājah* 952]
+**Svar:** En person som passerar precis framför en [annan] troende som ber gör inte dennes bön ogiltig. Endast tre saker gör den ogiltig [enligt den mest korrekta åsikten bland de lärde]: en vuxen kvinna, en svart hund och en åsna. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*En muslimsk mans bön bryts om han inte har något framför sig som en kamelsadel av: en kvinna, en åsna och en svart hund*.” Det sades: ”*Allāhs sändebud! Varför en svart hund och inte en röd eller gul?*” Han sade: ”*Den svarta hunden är en djävul*.” [^3]
 
-Enligt den mest korrekta åsikten bland de lärde är innebörden att dessa tre bryter bönen. Om någon passerar framför så tömmer det inte belöningen. Är det möjligt bör därför Allāhs tjänare hindra honom att passera framför. Det är inte tillåtet att gå framför den som ber. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit det, genom att säga: ”*Om den som går framför en troende som ber kände till synden som han begick, då skulle han vänta i 40 år. Det skulle vara bättre för honom än att han gick framför Allāhs tjänare som ber*.” [*al-Bukhārī* 510, *Muslim* 507 och *Abū Dawūd* 701]
+Enligt den mest korrekta åsikten bland de lärde är innebörden att dessa tre bryter bönen. Om någon passerar framför så tömmer det inte belöningen. Är det möjligt bör därför Allāhs tjänare hindra honom att passera framför. Det är inte tillåtet att gå framför den som ber. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit det, genom att säga: ”*Om den som går framför en troende som ber kände till synden som han begick, då skulle han vänta i 40 år. Det skulle vara bättre för honom än att han gick framför Allāhs tjänare som ber*.” [^4]
 
-Han har beordrat den som ber mot en *sutrah*[^1] att inte låta folk passera framför. I stället ska de hindras: ”*Om någon ber mot något som skärmar av honom från folket [en sutrah[^1]] och någon önskade gå framför er, då bör ni hindra honom, men om han vägrar, då bör ni strida mot honom. Han är en djävul*.” [*al-Bukhārī* 509 och *Muslim* 505]
+Han har beordrat den som ber mot en *sutrah*[^1] att inte låta folk passera framför. I stället ska de hindras: ”*Om någon ber mot något som skärmar av honom från folket [en sutrah[^1]] och någon önskade gå framför er, då bör ni hindra honom, men om han vägrar, då bör ni strida mot honom. Han är en djävul*.” [^5]
 
 profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^2] bevisar att Allāhs tjänare bör försöka hejda den som försöker att gå framför honom, även om han inte är en av de tre som tidigare nämnts och oavsett om det är en människa eller ett djur, om tjänaren har förmåga att göra det. Om tjänaren inte lyckas, då skadar det inte bönen.
 
@@ -33,3 +35,6 @@ Och genom Allāh uppnås framgång.
 [^1]: Ett objekt i form av exempelvis en pinne, stav eller vägg. Skall vara minst en fot hög. Agerar symbolisk skiljelinje mellan den bedjande och de som passerar framför.
 [^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 
+[^3]: *Muslim* 510, *Abū Dawūd* 702, *at-Tirmithi* 338 och *Ibn Mājah* 952
+[^4]: *al-Bukhārī* 510, *Muslim* 507 och *Abū Dawūd* 701
+[^5]: *al-Bukhārī* 509 och *Muslim* 505

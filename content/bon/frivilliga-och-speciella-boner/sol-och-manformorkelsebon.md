@@ -1,15 +1,17 @@
 ---
 title: Sol- och månförmörkelsebön
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 565 s. ISBN 9960-892-66-2'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 565 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
   - Frivilliga och speciella böner
 original_id: 1010
-description: 'Fråga: Vilket är utlåtandet om bönen vid sol- och månförmörkelse? Svar: Bön
- vid sol- och månförmörkelse är högt rekommenderade sunnor. Enligt majoriteten av
- de lärde är de dock inte obligatori...'
+description: >-
+  Fråga: Vilket är utlåtandet om bönen vid sol- och månförmörkelse? Svar: Bön
+  vid sol- och månförmörkelse är högt rekommenderade sunnor. Enligt majoriteten
+  av de lärde är de dock inte obligatori...
 ---
 
 **Fråga:** Vilket är utlåtandet om bönen vid sol- och månförmörkelse?
@@ -22,7 +24,7 @@ Vissa lärde har sagt att de är obligatoriska, antingen för varje individ elle
 
 Det råder inga tvivel om att denna åsikt är stark och att den har bevis från *ahādīth*[^1] och sunt förnuft. Det minsta man kan säga är att det är en skyldighet för samhället. Detta är vår åsikt.
 
-Majoriteten har inga bevis för att det inte är en skyldighet, utom ett uttalande från profeten – över honom vare Allāhs frid och välsignelser – riktat mot en man som frågade honom: "*'Finns det några andra än dem [de fem dagliga bönerna] som åligger mig?' Han sade då: 'Nej, om du inte vill göra så frivilligt*.'" [*al-Bukhārī* 46 och *Muslim* 11]
+Majoriteten har inga bevis för att det inte är en skyldighet, utom ett uttalande från profeten – över honom vare Allāhs frid och välsignelser – riktat mot en man som frågade honom: "*'Finns det några andra än dem [de fem dagliga bönerna] som åligger mig?' Han sade då: 'Nej, om du inte vill göra så frivilligt*.'" [^3]
 
 Detta upphäver dock inte möjligheten att andra böner än de fem dagliga är obligatoriska, om någon anledning till att de finns existerar. [I detta fall] skulle innebörden av upphävandet i profetens – över honom vare Allāhs frid och välsignelser – ord "nej" vara en upphävelse av skyldigheten i de fasta [*sunnah*[^2]] bönerna som upprepas varje dag och natt. Men när de gäller de böner som är knutna till en viss orsak, då upphäver denna *hadīth*[^1] inte att de är obligatoriska.
 
@@ -31,3 +33,4 @@ Kortfattat anser vi att förmörkelsebönen antingen är obligatorisk, antingen 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 
+[^3]: *al-Bukhārī* 46 och *Muslim* 11

@@ -1,16 +1,19 @@
 ---
-title: Ovilja inför att studera det förutbestämda på grund av rädsla för att begå
- misstag
+title: >-
+  Ovilja inför att studera det förutbestämda på grund av rädsla för att begå
+  misstag
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 180 s. ISBN 9960-892-66-2'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 180 s. ISBN 9960-892-66-2
 categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 1580
-description: 'Fråga: Vilket råd har ni att ge till den som inte gillar att studeras ‘aqīdah
-, speciellt frågor om det förutbestämda, på grund av rädsla för att begå misstag? Svar: Denna
- fråga är för honom ...'
+description: >-
+  Fråga: Vilket råd har ni att ge till den som inte gillar att studeras ‘aqīdah
+  , speciellt frågor om det förutbestämda, på grund av rädsla för att begå
+  misstag? Svar: Denna fråga är för honom ...
 ---
 
 **Fråga:** Vilket råd har ni att ge till den som inte gillar att studeras *‘aqīdah*, speciellt frågor om det förutbestämda, på grund av rädsla för att begå misstag?
@@ -27,7 +30,7 @@ Men båda dessa ämnen måste ges likvärdig uppmärksamhet för att uppnå de r
 
 Kortfattat är svaret att det är en skyldighet att studera *tawhīd*[^2] och *‘aqīdah* för att ha kunskap om Allāh och hur man dyrkar Honom den Allsmäktige […] Detta gör man för att man inte ska gå vilse eller leda andra vilse.
 
-Kunskap om *tawhīd*[^2] är den ädlaste formen av lärande och det beror på detta ämnes stora vikt. Därför har de lärde kallat den för *al-fiqh al-akbar*[^3] [Den största kunskapen]. Likaså har profeten – över honom vare Allāhs frid och välsignelser – sagt: ”*När Allāh vill skänka en person godhet välsignar Han honom med förståelse av religionen*.” [*al-Bukhārī* 71 och *Muslim* 1037] Det första och det viktigaste som inkluderas i detta är *tawhīd*[^2] och *‘aqīdah* men det är även en skyldighet att sträva efter att förvissa sig om hur man ska kunna skaffa sig denna kunskap och från vilka källor som man kan få den. När man har källorna tar man den kunskap som är tydlig och fri från oklarhet.
+Kunskap om *tawhīd*[^2] är den ädlaste formen av lärande och det beror på detta ämnes stora vikt. Därför har de lärde kallat den för *al-fiqh al-akbar*[^3] [Den största kunskapen]. Likaså har profeten – över honom vare Allāhs frid och välsignelser – sagt: ”*När Allāh vill skänka en person godhet välsignar Han honom med förståelse av religionen*.” [^6] Det första och det viktigaste som inkluderas i detta är *tawhīd*[^2] och *‘aqīdah* men det är även en skyldighet att sträva efter att förvissa sig om hur man ska kunna skaffa sig denna kunskap och från vilka källor som man kan få den. När man har källorna tar man den kunskap som är tydlig och fri från oklarhet.
 
 Fortsätt sedan och ta en titt på de innovationer och oklara frågor som har dykt upp. Detta för att få dem förklarade genom den kunskap som tidigare har inhämtats från den *'aqīdah* som är ren. Källorna måste vara Allāhs skrift och Hans sändebuds *sunnah*[^4]. Efter dessa källor tar man följeslagarnas uttalanden, imamerna från *tabi'un* som efterföljde dem och åsikterna från de lärda vars kunskap och pålitlighet är bekräftad. Detta gäller speciellt *shaykh ul-Islam*[^5] ibn Taymiyyah och hans elev Ibn al-Qayyim. Må de få ta emot rikliga välsignelser.
 
@@ -37,3 +40,4 @@ Fortsätt sedan och ta en titt på de innovationer och oklara frågor som har dy
 [^4]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^5]: En hederstitel som givits till vissa lärde.
 
+[^6]: *al-Bukhārī* 71 och *Muslim* 1037

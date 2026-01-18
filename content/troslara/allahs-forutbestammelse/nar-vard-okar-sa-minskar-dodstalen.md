@@ -1,16 +1,18 @@
 ---
 title: ”När vård ökar så minskar dödstalen”
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
- Libanon: Maktaba Dar us-Salam. 85 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Libanon: Maktaba Dar us-Salam. 85 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 61
-description: 'Fråga: I en artikel publicerad i ett magasin har jag läst följande
- uttalande: "Det råder inga tvivel om, vilket har förklarats tidigare, att desto
- bättre medicinsk vård blir, desto lägre blir...'
+description: >-
+  Fråga: I en artikel publicerad i ett magasin har jag läst följande uttalande:
+  "Det råder inga tvivel om, vilket har förklarats tidigare, att desto bättre
+  medicinsk vård blir, desto lägre blir...
 ---
 
 **Fråga:** I en artikel publicerad i ett magasin har jag läst följande uttalande:
@@ -26,11 +28,11 @@ Därför skulle jag vilja veta om medicinsk vård ökar den tid som människan l
 Allāh har redan förordnat principen om orsak och verkan för Hans skapelser, genom att göra en sak till resultatet av en annan. Exempel på detta är att födslar är ett resultat av intim samvaro och att grödor är ett resultat av ett frö som har planterats och vattnas. Allāh den Upphöjde säger:
 
 > "Och [vet de inte] att Vi har låtit allt liv uppstå ur vatten?" [Koranen 21:30]
->
+
 > "Och vi pressar vattnet ur regnmolnen i rikliga flöden och frambringar därmed säd och [annan] växtlighet och rikt blommande trädgårdar." [Koranen 78:14 – 16]
->
+
 > "Har de aldrig begett sig ut i världen och sett [spåren som visar] hur slutet blev för dem som levde före deras tid [och som förnekade sanningen]? De var mäktigare än sina [sentida efterföljare] och brukade jorden bättre och byggde upp ett större [välstånd] än [efterföljarna]. Sändebud kom [också] till dem med klara vittnesbörd om sanningen. Men när de drabbades av Guds straff] var det inte Han som gjorde dem orätt – det var de som hade gjort orätt mot sig själva. Dessa förövare av det onda drabbades till sist av det svåraste av alla straff [- helvetets eld -] därför att de kallade Våra budskap för lögn och gjorde sig lustiga över dem. Gud inleder skapelsen och ska när tiden kommer förnya den och till sist ska ni föras åter till Honom." [Koranen 30:9 – 11]
->
+
 > "[Minns hur] Han ingav er ett stort lugn och en känsla av trygghet och lät regn falla från himlen för att rena er och lossa djävulens smutsiga [grepp] om era [sinnen], stärka ert mod göra er stadiga på foten." [Koranen 8:11]
 
 Dessa och liknande verser nämner fysiska orsaker tillsammans med fysisk och immateriell verkan som Allāh har bundit samman; den förstnämnda har orsakat den sistnämnda. Detta tillhör Allāhs skapelse, genom verkan av Hans dekret och förutbestämmelse. Här resulteras immateriella ting från dem, även om Han kan skapa sådana resultat utan orsak. Det är Hans sätt – att skapa det senare från det förra. Visdomen i detta känner enbart Han till. Han den Upphöjde säger:

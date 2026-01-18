@@ -1,16 +1,18 @@
 ---
 title: Kännetecknen för den räddade gruppen och om vissa brister tar en ut från den
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 39 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 39 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 1164
-description: 'Fråga: Vilka är de största kännetecknen för den räddade gruppen? Om
- man brister i vissa aspekter, står man då utanför denna grupp? Svar: De mest
- utmärkande kännetecknen för den räddade gruppen...'
+description: >-
+  Fråga: Vilka är de största kännetecknen för den räddade gruppen? Om man
+  brister i vissa aspekter, står man då utanför denna grupp? Svar: De mest
+  utmärkande kännetecknen för den räddade gruppen...
 ---
 
 **Fråga:** Vilka är de största kännetecknen för den räddade gruppen? Om man brister i vissa aspekter, står man då utanför denna grupp?
@@ -45,7 +47,7 @@ Detta beror på att de anser att skilda åsikter som beror på *ijtihād*[^3], i
 
 De meningsskiljaktigheter som uppstod mellan profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – i frågor som dessa, det känner många av de lärde väl till. Detta inträffade även under profetens – över honom vare Allāhs frid och välsignelser – tid men han tillrättavisade dem inte på grund av det.
 
-När han [profeten] återvände från slaget vid al-Ahzab befallde [ängeln] Gabriel honom att attackera Banu Quraizah som hade brutit ett avtal. Profeten – över honom vare Allāhs frid och välsignelser – kommenderade följeslagarna genom att säga: ”*Ingen bör be eftermiddagsbönen[^5] utom vid Banu Quraizah*.” [*al-Bukhārī* 946 och *Muslim* 1770] De begav sig då från Medina och det blev tid för eftermiddagsbönen[^5]. Vissa sköt upp eftermiddagsbönen[^5] tills de nådde Banu Quraizah och då hade bönens tid hunnit gå ut. De gjorde så för att profeten – över honom vare Allāhs frid och välsignelser – hade sagt: ”*Ingen bör be eftermiddagsbönen[^5] utom vid Banu Quraizah*.” Några andra av dem bad vid den angivna tiden och de sade: ”*Profeten ville att vi skulle bege oss av tidigt mot Banu Quraizah och han ville inte att vi skulle skjuta upp bönen över den angivna tiden*.” De [den sista gruppen hade] rätt men trots detta tillrättavisade profeten – över honom vare Allāhs frid och välsignelser – ingen av de båda grupperna. Ingen av de båda grupperna hyste heller någon fiendeskap eller illvilja mot varandra på grund av deras olika förståelser av vad han hade sagt.
+När han [profeten] återvände från slaget vid al-Ahzab befallde [ängeln] Gabriel honom att attackera Banu Quraizah som hade brutit ett avtal. Profeten – över honom vare Allāhs frid och välsignelser – kommenderade följeslagarna genom att säga: ”*Ingen bör be eftermiddagsbönen[^5] utom vid Banu Quraizah*.” [^6] De begav sig då från Medina och det blev tid för eftermiddagsbönen[^5]. Vissa sköt upp eftermiddagsbönen[^5] tills de nådde Banu Quraizah och då hade bönens tid hunnit gå ut. De gjorde så för att profeten – över honom vare Allāhs frid och välsignelser – hade sagt: ”*Ingen bör be eftermiddagsbönen[^5] utom vid Banu Quraizah*.” Några andra av dem bad vid den angivna tiden och de sade: ”*Profeten ville att vi skulle bege oss av tidigt mot Banu Quraizah och han ville inte att vi skulle skjuta upp bönen över den angivna tiden*.” De [den sista gruppen hade] rätt men trots detta tillrättavisade profeten – över honom vare Allāhs frid och välsignelser – ingen av de båda grupperna. Ingen av de båda grupperna hyste heller någon fiendeskap eller illvilja mot varandra på grund av deras olika förståelser av vad han hade sagt.
 
 Därför anser jag det vara en skyldighet, för muslimer som påstår sig följa [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah*[^1], att vara en enhet och att inte dela sig i fraktioner – där den ena tillhör en grupp och där den andra tillhör en annan grupp – vilket får dem att attackera varandra med fientliga ord och hysa fiendeskap och hat mot varandra på grund av meningsskiljaktigheter i frågor där det är tillåtet att utöva *ijtihād*[^3]. Det finns inget behov av att urskilja varje fraktion med ett namn men den vise förstår och frågan blir klar för denne.
 
@@ -61,3 +63,4 @@ Därför måste vi utmärka oss med detta, den räddade gruppens karaktärsdrag,
 [^4]: Wudū
 [^5]: Asr
 
+[^6]: *al-Bukhārī* 946 och *Muslim* 1770

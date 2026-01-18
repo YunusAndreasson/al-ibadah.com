@@ -1,16 +1,18 @@
 ---
 title: Vägen till ånger
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
- Libanon: Maktaba Dar us-Salam. 246 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+  Libanon: Maktaba Dar us-Salam. 246 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Blandat
   - Ånger
 original_id: 662
-description: 'Fråga: Jag är en ung man som är 19 år gammal och jag har syndat mycket
- mycket. Jag ber sällan i moskén, jag har aldrig fastat en hel ramadan och jag begår
- många avskyvärda handlingar. Trots att j...'
+description: >-
+  Fråga: Jag är en ung man som är 19 år gammal och jag har syndat mycket mycket.
+  Jag ber sällan i moskén, jag har aldrig fastat en hel ramadan och jag begår
+  många avskyvärda handlingar. Trots att j...
 ---
 
 **Fråga:** Jag är en ung man som är 19 år gammal och jag har syndat mycket mycket. Jag ber sällan i moskén, jag har aldrig fastat en hel *ramadan*[^1] och jag begår många avskyvärda handlingar. Trots att jag ofta tagit beslutet att ångra mig återvänder jag alltid till att synda.
@@ -42,10 +44,7 @@ I denna vers gör Allāh den Allsmäktige framgång beroende av ånger. Detta vi
 För att uppnå ånger bör du be Allāh den Allsmäktige att Han vägleder dig, att Han gör dig framgångsrik och att Han beviljar dig uppriktig ånger:
 
 > ”Er Herre säger: ’Be till Mig, så ska Jag besvara er [bön]. De som håller sig för goda för att tjäna Mig ska gå med böjt huvud in i helvetet.” [40:60]
->
->
->
->
+
 > ”När *Mina* tjänare frågar dig om Mig [svara då att] Jag är nära; Jag besvarar den bedjandes bön, när han ber till Mig.” [Koranen 2:186]
 
 En annan faktor som inte enbart kan ha inverkan på din ånger, utan även på din förmåga att efteråt hålla dig stadig, är de människor du umgås med. Allāhs sändebud har sagt:

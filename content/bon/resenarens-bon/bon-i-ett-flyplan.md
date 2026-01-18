@@ -1,16 +1,18 @@
 ---
 title: Bön i ett flyplan
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
- Libanon: Maktaba Dar us-Salam. 173 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Libanon: Maktaba Dar us-Salam. 173 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 199
-description: 'Fråga: Jag hade en viktig plikt att utföra och tiden för bönen kom
- då jag befann mig ombord på ett flygplan. Jag bad då sittandes i ett säte, genom
- att jag bugade huvudet utan att veta i vilken ri...'
+description: >-
+  Fråga: Jag hade en viktig plikt att utföra och tiden för bönen kom då jag
+  befann mig ombord på ett flygplan. Jag bad då sittandes i ett säte, genom att
+  jag bugade huvudet utan att veta i vilken ri...
 ---
 
 **Fråga:** Jag hade en viktig plikt att utföra och tiden för bönen kom då jag befann mig ombord på ett flygplan. Jag bad då sittandes i ett säte, genom att jag bugade huvudet utan att veta i vilken riktning jag var vänd mot. Jag undrar om min bön är giltig och om jag borde ha skjutit upp den?
@@ -23,7 +25,7 @@ Det är inte tillåtet att be den obligatoriska bönen på ett flygplan eller i 
 
 Denne fruktade inte Allāh så mycket som denne borde ha gjort och denne ansträngde sig inte tillräckligt.
 
-Det finns inge invändan mot att frågeställaren har bett sittande om han inte hade möjlighet att be stående. Detsamma gäller den tjänare som ber på en båt där det inte är möjligt att stå. Beviset för detta är Allāhs ord: ”*Frukta därför Gud efter måttet av er förmåga*.” [Koranen 64:16]
+Det finns inge invändan mot att frågeställaren har bett sittande om han inte hade möjlighet att be stående. Detsamma gäller den tjänare som ber på en båt där det inte är möjligt att stå. Beviset för detta är Allāhs ord: ”*Frukta därför Gud efter måttet av er förmåga*.” [^3]
 
 Så länge tiden tillät det finns det ingen invändan mot att han sköt upp bönen tills han lämnat flygplanet.
 
@@ -36,3 +38,4 @@ Och genom Allāh uppnås framgång.
 [^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
+[^3]: Koranen 64:16

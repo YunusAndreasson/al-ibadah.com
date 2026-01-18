@@ -1,24 +1,28 @@
 ---
 title: Ghusl utan att skölja munnen eller näsan
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 359 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 359 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Renhet (Tahārah)
-  - Ghusl [Den stora tvagningen]
+  - 'Ghusl [Den stora tvagningen]'
 original_id: 1136
-description: 'Fråga: Om någon gör ghusl utan att skölja munnen eller dra in vatten
- i näsan, är denna ghusl då korrekt? Svar: Ghusl är inte giltig utan att
- munnen sköljs och att vatten dras in i näsan....'
+description: >-
+  Fråga: Om någon gör ghusl utan att skölja munnen eller dra in vatten i näsan,
+  är denna ghusl då korrekt? Svar: Ghusl är inte giltig utan att munnen sköljs
+  och att vatten dras in i näsan....
 ---
 
 **Fråga:** Om någon gör *ghusl*[^1] utan att skölja munnen eller dra in vatten i näsan, är denna *ghusl*[^1] då korrekt?
 
-**Svar:** *Ghusl*[^1] är inte giltig utan att munnen sköljs och att vatten dras in i näsan. Detta beror på att Allāh den Upphöjde har sagt: ”*Och om ni befinner er i ett tillstånd av stor rituell orenhet, ska ni rena er [genom att skölja hela kroppen].*” [Koranen 5:6] Detta inbegriper hela kroppen, även insidan av munnen och näsan. Därför beordrade profeten – över honom vare Allāhs frid och välsignelser – att munnen ska sköljas och att vatten ska dras in i näsan under tvagningen[^2] då de inkluderas i Allāh den Upphöjdes ord: ”*Och om ni befinner er i ett tillstånd av stor rituell orenhet, ska ni rena er [genom att skölja hela kroppen]*.” [Koranen 5:6]
+**Svar:** *Ghusl*[^1] är inte giltig utan att munnen sköljs och att vatten dras in i näsan. Detta beror på att Allāh den Upphöjde har sagt: ”*Och om ni befinner er i ett tillstånd av stor rituell orenhet, ska ni rena er [genom att skölja hela kroppen].*” [^3] Detta inbegriper hela kroppen, även insidan av munnen och näsan. Därför beordrade profeten – över honom vare Allāhs frid och välsignelser – att munnen ska sköljas och att vatten ska dras in i näsan under tvagningen[^2] då de inkluderas i Allāh den Upphöjdes ord: ”*Och om ni befinner er i ett tillstånd av stor rituell orenhet, ska ni rena er [genom att skölja hela kroppen]*.” [^4]
 
 Om de inbegrips i rengöringen av ansiktet och ansiktet är en del av kroppen som måste renas under den stora rengörningen, då är det nödvändigt att den som gör *ghusl*[^1] på grund av den stora rituella orenheten sköljer munnen och drar in vatten i näsan.
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 [^2]: Wudū
 
+[^3]: Koranen 5:6
+[^4]: Koranen 5:6

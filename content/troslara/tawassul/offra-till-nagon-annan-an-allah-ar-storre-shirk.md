@@ -1,16 +1,18 @@
 ---
 title: Offra till någon annan än Allāh är större shirk
 author: Ibn ´Abdullah Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
- Libanon: Maktaba Dar us-Salam. 40 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Libanon: Maktaba Dar us-Salam. 40 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - Tawassul [Medel för att åkalla Allāh]
+  - 'Tawassul [Medel för att åkalla Allāh]'
 original_id: 34
-description: 'Fråga: Att söka Allāhs närhet genom att slakta får vid de rättfärdigas
- gravar är vanligt bland mitt folk. Jag motsade mig det, men de blev ännu orubbligare.
- Jag sade: ”Detta är shirk .” De sade: ...'
+description: >-
+  Fråga: Att söka Allāhs närhet genom att slakta får vid de rättfärdigas gravar
+  är vanligt bland mitt folk. Jag motsade mig det, men de blev ännu orubbligare.
+  Jag sade: ”Detta är shirk .” De sade: ...
 ---
 
 **Fråga:** Att söka Allāhs närhet genom att slakta får vid de rättfärdigas gravar är vanligt bland mitt folk. Jag motsade mig det, men de blev ännu orubbligare. Jag sade: ”Detta är *shirk*[^1].” De sade: ”Vi dyrkar Allāh på bästa sätt! Vad är fel med att besöka Allāhs *awliyā* och i vår åkallan[^2] säga: 'Allāh, vi ber Dig vid Din fromme tjänares rätt. Bota oss, eller undsätt oss från den-och-den olyckan.'” Jag sade till dem: ”Det finns inget rum för medlare i vår religion.” De sade: ”Lämna oss i fred!” Min fråga är: Vilket tror du att botemedlet är för dessa människor? Vad kan jag göra för dem? Hur kan jag bekämpa denna innovation?
@@ -31,7 +33,7 @@ I denna sura lär Allāh – upphöjd är Han – Sin Profet att [han ska] be oc
 
 Det finns många verser som förmedlar denna mening.
 
-Då offer är en dyrkan så måste den uppriktigt tillägnas Allāh. Imam *Muslim* återberättar i sin *Sahīh* att de troendes befälhavare, ´Alī, har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Allāh förbannar den som offrar till andra än Honom*.” [*Muslim* 1978]
+Då offer är en dyrkan så måste den uppriktigt tillägnas Allāh. Imam *Muslim* återberättar i sin *Sahīh* att de troendes befälhavare, ´Alī, har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Allāh förbannar den som offrar till andra än Honom*.” [^6]
 
 När det gäller dem som säger: ”*Jag besvärjer Allāh vid Hans älskade troendes rätt, vid Hans älskade troendes heder, vid profetens – över honom vare Allāhs frid och välsignelser – rätt eller vid hans heder*.” Sådana besvärjelser är inte *shirk*[^1], men enligt de lärde är det en innovation. De anser också att detta är medel för, därför att en åkallan[^2] är en dyrkan och sättet det bör göras på är inte något som det går att ja olika åsikter om. Det finns inga bevis från profeten – över honom vare Allāhs frid och välsignelser – för att han har tillåtit besvärjelser vid någon människas rätt eller heder.
 
@@ -57,3 +59,4 @@ Det är Allāh som ger framgång.
 [^4]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
 [^5]: Medel för att tillbe Allāh.
 
+[^6]: *Muslim* 1978

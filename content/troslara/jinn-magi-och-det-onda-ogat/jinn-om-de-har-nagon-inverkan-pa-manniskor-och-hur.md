@@ -1,23 +1,25 @@
 ---
 title: Jinn – om de har någon inverkan på människor och hur man skyddar sig mot dem
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 147 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 147 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - Jinn, magi och det onda ögat
+  - 'Jinn, magi och det onda ögat'
 original_id: 1088
-description: 'Fråga: Har jinn någon inverkan på människan och hur skyddar man sig
- mot dem? Svar: Det råder inga tvivel om att jinn kan verka skadligt på
- människor, till den grad att död...'
+description: >-
+  Fråga: Har jinn någon inverkan på människan och hur skyddar man sig mot dem?
+  Svar: Det råder inga tvivel om att jinn kan verka skadligt på människor, till
+  den grad att död...
 ---
 
 **Fråga:** Har *jinn*[^1] någon inverkan på människan och hur skyddar man sig mot dem?
 
 **Svar:** Det råder inga tvivel om att *jinn*[^1] kan verka skadligt på människor, till den grad att dödsfall inträffar. De kan skada en genom att kasta stenar, de kan var orsak till rädsla och de kan göra andra saker som profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^2] och verkligheten bekräftar.
 
-Allāhs sändebud – över honom vare Allāhs frid och välsignelser – tillät en av följeslagarna att gå till dennes fru under ett av slagen – jag tror det var under slaget vid diket – och denne var nygift. När följeslagaren kom till sitt hem fann han att frun stod vid dörren och han gillade inte det men hon sade till honom: ”Stig in”. Han gick in och fann en orm i sängen och han slog med ett spjut han hade med sig tills ormen dog. Precis då avled [också] mannen och ingen visste vem som hade dött först – ormen eller mannen. När profeten – över honom vare Allāhs frid och välsignelser – informerades om detta förbjöd han att man dödar *jinn*[^1] som bor i hus, utom *al-abtar* och *thatut-tufyatain*. [*Muslim* och *Ahmad*]
+Allāhs sändebud – över honom vare Allāhs frid och välsignelser – tillät en av följeslagarna att gå till dennes fru under ett av slagen – jag tror det var under slaget vid diket – och denne var nygift. När följeslagaren kom till sitt hem fann han att frun stod vid dörren och han gillade inte det men hon sade till honom: ”Stig in”. Han gick in och fann en orm i sängen och han slog med ett spjut han hade med sig tills ormen dog. Precis då avled [också] mannen och ingen visste vem som hade dött först – ormen eller mannen. När profeten – över honom vare Allāhs frid och välsignelser – informerades om detta förbjöd han att man dödar *jinn*[^1] som bor i hus, utom *al-abtar* och *thatut-tufyatain*. [^5]
 
 Detta är ett bevis för att *jinn*[^1] kan visa fiendskap mot människor och att de kan vara skadliga. Detta är ett bevisat faktum.
 
@@ -38,3 +40,4 @@ Och Allāh är Beskyddaren.
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^4]: Allāhs fotpall.
 
+[^5]: *Muslim* och *Ahmad*

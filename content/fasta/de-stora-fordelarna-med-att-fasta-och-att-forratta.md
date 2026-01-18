@@ -1,15 +1,17 @@
 ---
 title: Fördelar med fasta och nattbön under ramadan
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
- Libanon: Maktaba Dar us-Salam. 211 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Libanon: Maktaba Dar us-Salam. 211 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Fasta (Sawm)
 original_id: 1387
-description: All lovprisan tillhör Allāh och må välsignelser och frid vara över Allāhs
- sändebud, hans familj, hans följeslagare och dem som följer hans vägledning. Detta
- är en kort utläggning om förtjänsten me...
+description: >-
+  All lovprisan tillhör Allāh och må välsignelser och frid vara över Allāhs
+  sändebud, hans familj, hans följeslagare och dem som följer hans vägledning.
+  Detta är en kort utläggning om förtjänsten me...
 ---
 
 All lovprisan tillhör Allāh och må välsignelser och frid vara över Allāhs sändebud, hans familj, hans följeslagare och dem som följer hans vägledning.
@@ -94,7 +96,7 @@ En annan fråga är det som händer den fastande som skjuter upp badet efter sex
 
 Något som inte ogiltigör fastan är blodprov eller injektioner, så länge syftet inte är att få näring. Om det går är det dock bättre och säkrare att skjuta upp detta till kvällstid.
 
-Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Lämna det som gör er tveksama till förmån för det som inte gör er tveksamma*." [*al-Bukhāri* 2518] Han har även sagt: "*Den som undviker de tveksamma frågorna har sannerligen gjort sin religion och heder fri [från klander]*." [*al-Bukhāri* 52 och *Muslim* 1599]
+Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Lämna det som gör er tveksama till förmån för det som inte gör er tveksamma*." [^12] Han har även sagt: "*Den som undviker de tveksamma frågorna har sannerligen gjort sin religion och heder fri [från klander]*." [^13]
 
 En av de frågor som människor inte är medvetna om är avsaknandet av lugn i bönen, oavsett om det är en obligatorisk eller frivillig bön. Autentiska *ahādīth*[^4] från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – bevisar att lugn i bönen är en av bönens pelare. Bönen är inte giltig utan det. Detta betyder att man har stillhet och ödmjukhet och inte skyndar sig i bönen. På detta sätt återvänder varje led [till sin plats].
 
@@ -150,3 +152,5 @@ Sannerligen, Han är Den som skyddar detta och Den som är kapabel att göra det
 [^10]: Den lilla vallfärden.
 [^11]: Frivilliga nattböner som bes under ramadan.
 
+[^12]: *al-Bukhāri* 2518
+[^13]: *al-Bukhāri* 52 och *Muslim* 1599

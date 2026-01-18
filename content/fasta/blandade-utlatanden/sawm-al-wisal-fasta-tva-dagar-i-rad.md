@@ -1,24 +1,29 @@
 ---
 title: Sawm al-wisal – fasta två dagar i rad
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 678 s. ISBN 9960-892-66-2'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 678 s. ISBN 9960-892-66-2
 categories:
   - Fasta (Sawm)
   - Övrigt
 original_id: 1063
-description: 'Fråga: Vad är sawm al-wisal? Är det föreskrivet? Svar: Sawm
- al-wisal betyder att man inte bryter fastan under två dagar. Man fastar då hela
- tiden under två på varandra efterföljande dagar....'
+description: >-
+  Fråga: Vad är sawm al-wisal? Är det föreskrivet? Svar: Sawm al-wisal betyder
+  att man inte bryter fastan under två dagar. Man fastar då hela tiden under två
+  på varandra efterföljande dagar....
 ---
 
 **Fråga:** Vad är *sawm al-wisal*? Är det föreskrivet?
 
-**Svar:** *Sawm al-wisal* betyder att man inte bryter fastan under två dagar. Man fastar då hela tiden under två på varandra efterföljande dagar. Profeten – över honom vare Allāhs frid och välsignelser – förbjöd detta när han sade: "*Fasta inte hela tiden [al-wisal] och om ni tänker förlänga fastan, fortsätt då bara med den till sahūr*." [*al-Bukhārī* 1967]
+**Svar:** *Sawm al-wisal* betyder att man inte bryter fastan under två dagar. Man fastar då hela tiden under två på varandra efterföljande dagar. Profeten – över honom vare Allāhs frid och välsignelser – förbjöd detta när han sade: "*Fasta inte hela tiden [al-wisal] och om ni tänker förlänga fastan, fortsätt då bara med den till sahūr*." [^2]
 
-*Wisal* fram till *sahūr*[^1] är tillåtet, men inte föreskrivet. Sändebudet – över honom vare Allāhs frid och välsignelser – har uppmuntrat oss att skyndsamt bryta fastan. Han har sagt: ”*Folket kommer att fortsätta att ha det bra så länge de skyndar sig att bryta fastan*.” [*al-Bukhārī* 1957]
+*Wisal* fram till *sahūr*[^1] är tillåtet, men inte föreskrivet. Sändebudet – över honom vare Allāhs frid och välsignelser – har uppmuntrat oss att skyndsamt bryta fastan. Han har sagt: ”*Folket kommer att fortsätta att ha det bra så länge de skyndar sig att bryta fastan*.” [^3]
 
-Vi har enbart blivit tillåtna att fortsätta med vår fasta fram till *sahūr*[^1], för när de sade: "*Allāhs sändebud! Du utövar ju al-wisal*", svarade han: "Jag *är inte som ni*." [*al-Bukhārī* och *Muslim* 1102]
+Vi har enbart blivit tillåtna att fortsätta med vår fasta fram till *sahūr*[^1], för när de sade: "*Allāhs sändebud! Du utövar ju al-wisal*", svarade han: "Jag *är inte som ni*." [^4]
 
 [^1]: Måltiden som äts sent på natten innan gryningen under fastemånaden.
 
+[^2]: *al-Bukhārī* 1967
+[^3]: *al-Bukhārī* 1957
+[^4]: *al-Bukhārī* och *Muslim* 1102

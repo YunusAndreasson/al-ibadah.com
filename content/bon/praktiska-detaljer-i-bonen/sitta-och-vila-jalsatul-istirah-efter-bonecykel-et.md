@@ -1,15 +1,17 @@
 ---
-title: Sitta och vila [jalsatul-istirāh] efter bönecykel ett och tre
+title: 'Sitta och vila [jalsatul-istirāh] efter bönecykel ett och tre'
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
- Libanon: Maktaba Dar us-Salam. 166 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Libanon: Maktaba Dar us-Salam. 166 s. ISBN saknas
 categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 1477
-description: 'Fråga: Är det obligatoriskt eller är det en betonad sunnah att sitta
- [innan man reser sig] efter den första och tredje bönecykeln? Svar: De lärde
- är eniga om att ”sittpausen” när man har res...'
+description: >-
+  Fråga: Är det obligatoriskt eller är det en betonad sunnah att sitta [innan
+  man reser sig] efter den första och tredje bönecykeln? Svar: De lärde är eniga
+  om att ”sittpausen” när man har res...
 ---
 
 **Fråga:** Är det obligatoriskt eller är det en betonad *sunnah*[^1] att sitta [innan man reser sig] efter den första och tredje bönecykeln[^2]?
@@ -18,7 +20,7 @@ description: 'Fråga: Är det obligatoriskt eller är det en betonad sunnah att 
 
 De är oeniga om det enbart är en *sunnah*[^1], en del av bönen överhuvudtaget eller om endast den som behöver göra det ska göra det [på grund av svaghet, ålderdom, sjukdom eller övervikt].
 
-ash-Shafi'i och ett antal lärde inom *hadīth*[^3] har sagt att det är *sunnah*[^1]. Det är en av de båda *hadītherna*[^3] från imam Ahmad, grundat på vad al-Bukhārī och de som har sammanställt *Sunan* har återberättat från Mālik bin al-Huwairith, att han såg profeten – över honom vare Allāhs frid och välsignelser – be och när han bad *witr*[^4]-bönen, då reste han sig inte förrän han hade funnit ro i den sittande positionen. [*al-Bukhārī* 823]
+ash-Shafi'i och ett antal lärde inom *hadīth*[^3] har sagt att det är *sunnah*[^1]. Det är en av de båda *hadītherna*[^3] från imam Ahmad, grundat på vad al-Bukhārī och de som har sammanställt *Sunan* har återberättat från Mālik bin al-Huwairith, att han såg profeten – över honom vare Allāhs frid och välsignelser – be och när han bad *witr*[^4]-bönen, då reste han sig inte förrän han hade funnit ro i den sittande positionen. [^5]
 
 Majoriteten av de lärde, inklusive Abū Hanifah och Mālik, är dock inte av denna åsikt. Detta är även fallet i andra rapporter från *Ahmad*. Inga andra *ahādīth*[^3] nämner ju denna ”sittpaus”. Möjligen är det så att det som nämns i *hadithen* från Mālik bin al-Huwairith är denna ”sittpaus” något från slutet av profetens – över honom vare Allāhs frid och välsignelser – liv då hans kropp blivit tung eller av någon annan orsak.
 
@@ -33,3 +35,4 @@ Den rekommenderade åsikten stärks på två sätt: Det första är den grundlä
 [^3]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^4]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 
+[^5]: *al-Bukhārī* 823

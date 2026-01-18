@@ -1,20 +1,22 @@
 ---
 title: Se profeten i sina drömmar
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
- Maktaba Dar us-Salam. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon: Maktaba
+  Dar us-Salam. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1680
-description: 'Fråga: Hur korrekt är följande hadīth från profeten: ”Den som ser
- mig [i hans drömmar], då har han sett mig”? I en annan hadīth säger han: ”Den som
- ser mig [i hans drömmar], då är Elden förbjude...'
+description: >-
+  Fråga: Hur korrekt är följande hadīth från profeten: ”Den som ser mig [i hans
+  drömmar], då har han sett mig”? I en annan hadīth säger han: ”Den som ser mig
+  [i hans drömmar], då är Elden förbjude...
 ---
 
 **Fråga:** Hur korrekt är följande *hadīth*[^1] från profeten: ”Den som ser mig [i hans drömmar], då har han sett mig”? I en annan *hadīth*[^1] säger han: ”Den som ser mig [i hans drömmar], då är Elden förbjuden för honom.” Vad säger de?
 
-**Svar:** Den första *hadithen* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”Den som ser mig [i hans drömmar], då har han sett mig” [*al-Bukhārī* 6996 och Muslim 2267] är autentisk och den finns i olika ordalydelser. I en version sägs det: ”Den som ser mig i sin sömn har sannerligen sett mig då djävulen inte kan ta min gestalt.” [*al-Bukhārī* 110] Och i ännu en annan version: ”Den som ser mig i sin sömn har sett mig för djävulen kan inte föreställa mig.” [*Ahmad* 2:261]
+**Svar:** Den första *hadithen* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”Den som ser mig [i hans drömmar], då har han sett mig” [^2] är autentisk och den finns i olika ordalydelser. I en version sägs det: ”Den som ser mig i sin sömn har sannerligen sett mig då djävulen inte kan ta min gestalt.” [^3] Och i ännu en annan version: ”Den som ser mig i sin sömn har sett mig för djävulen kan inte föreställa mig.” [^4]
 
 Det finns flera olika ordalydelser av denna *hadīth*[^1] och alla bekräftar att djävulen, Allāhs fiende, inte kan anta profetens – över honom vare Allāhs frid och välsignelser – skepnad och när en person då drömmer om profeten – över honom vare Allāhs frid och välsignelser – har han sett honom i sin dröm.
 
@@ -24,3 +26,6 @@ Beträffande den andra *hadithen*: "Den som ser mig [i hans dröm], då är Elde
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
+[^2]: *al-Bukhārī* 6996 och Muslim 2267
+[^3]: *al-Bukhārī* 110
+[^4]: *Ahmad* 2:261

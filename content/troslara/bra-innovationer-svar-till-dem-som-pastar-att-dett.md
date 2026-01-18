@@ -1,19 +1,21 @@
 ---
 title: Svar till dem som påstår att bra innovationer finns
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 259 s. ISBN 9960-892-66-2'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 259 s. ISBN 9960-892-66-2
 categories:
   - Troslära (´Aqīdah)
 original_id: 1106
-description: 'Fråga: Hur svarar vi de innovatörer som för att bevisa deras innovationer
- citerar följande bevis: ” Den som inför en bra sunnah i islam ...” [ Muslim 1017]? Svar: Vi
- svarar dem genom att sä...'
+description: >-
+  Fråga: Hur svarar vi de innovatörer som för att bevisa deras innovationer
+  citerar följande bevis: ” Den som inför en bra sunnah i islam ...” [ Muslim
+  1017]? Svar: Vi svarar dem genom att sä...
 ---
 
-**Fråga:** Hur svarar vi de innovatörer som för att bevisa deras innovationer citerar följande bevis: "*Den som inför en bra sunnah*[^1] *i islam...*" [*Muslim* 1017]?
+**Fråga:** Hur svarar vi de innovatörer som för att bevisa deras innovationer citerar följande bevis: "*Den som inför en bra sunnah*[^1] *i islam...*" [^3]?
 
-**Svar:** Vi svarar dem genom att säga att den som sade: "*Den som inför en bra sunnah*[^1] *i islam, denne kommer att få belöningen för den och belöningen för dem som handlar enligt den.*" Är densamma som har sagt: "*Ni måste hålla er till min sunnah*[^1] *och de korrekt vägledda kaliferna som följer mig. Var uppmärksamma på nypåfunna frågor för sannerligen är varje nypåfunnen fråga en innovation och varje innovation är villfarelse och var villfarelse är i Elden.*" [*Abū Dawūd* 4607] Enligt denna *hadīth*[^2] ska orden: "*Den som inför en bra sunnah*[^1] *i islam...*" förstås i ljuset av denna *hadīth*[^2].
+**Svar:** Vi svarar dem genom att säga att den som sade: "*Den som inför en bra sunnah*[^1] *i islam, denne kommer att få belöningen för den och belöningen för dem som handlar enligt den.*" Är densamma som har sagt: "*Ni måste hålla er till min sunnah*[^1] *och de korrekt vägledda kaliferna som följer mig. Var uppmärksamma på nypåfunna frågor för sannerligen är varje nypåfunnen fråga en innovation och varje innovation är villfarelse och var villfarelse är i Elden.*" [^4] Enligt denna *hadīth*[^2] ska orden: "*Den som inför en bra sunnah*[^1] *i islam...*" förstås i ljuset av denna *hadīth*[^2].
 
 Profeten – över honom vare Allāhs frid och välsignelser – uppmuntrade folket att ge välgörenhet till dem som kom från Mudar då de var fattiga. En man kom då med en påse silver och lade den framför profeten, som då sade: "*Den som inför en bra sunnah*[^1] *i islam, denne kommer att få belöningen för den och belöningen för dem som handlar enligt den till Återuppståndelsens dag.*"
 
@@ -26,3 +28,5 @@ Skulle innebörden av denna *hadīth*[^2] vara att det är tillåtet att föresk
 [^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
+[^3]: *Muslim* 1017
+[^4]: *Abū Dawūd* 4607

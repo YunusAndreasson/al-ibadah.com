@@ -1,19 +1,20 @@
 ---
-title: Be nattbönen [isha] före dess tid
+title: 'Be nattbönen [isha] före dess tid'
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: al-Sharh al-Mumti’, 2/88
+source: 'al-Sharh al-Mumti’, 2/88'
 categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1285
-description: 'Fråga: Är det tillåtet att be nattbönen[^1] precis före vi går och lägger
- oss, i stället för att be den på utsatt tid? Svar: All lovprisan tillhör Allāh.
- Allāh säger: ” Bönen är alla troendes pli...'
+description: >-
+  Fråga: Är det tillåtet att be nattbönen[^1] precis före vi går och lägger oss,
+  i stället för att be den på utsatt tid? Svar: All lovprisan tillhör Allāh.
+  Allāh säger: ” Bönen är alla troendes pli...
 ---
 
 **Fråga:** Är det tillåtet att be nattbönen[^1] precis före vi går och lägger oss, i stället för att be den på utsatt tid?
 
-**Svar:** All lovprisan tillhör Allāh. Allāh säger: ”*Bönen är alla troendes plikt, knuten till bestämda tider*.” [Koranen 4:103]
+**Svar:** All lovprisan tillhör Allāh. Allāh säger: ”*Bönen är alla troendes plikt, knuten till bestämda tider*.” [^2]
 
 Bön som bes före angiven tid är enligt konsensus bland muslimer inte giltig. Om någon ber före tiden är inne:
 
@@ -22,3 +23,4 @@ Bön som bes före angiven tid är enligt konsensus bland muslimer inte giltig. 
 
 [^1]: Isha
 
+[^2]: Koranen 4:103

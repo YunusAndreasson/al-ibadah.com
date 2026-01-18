@@ -1,15 +1,17 @@
 ---
 title: Åkallan att läsa då man bryter fastan
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 2. Libanon: Makbtaba Dar us-Salam. 670 s. ISBN 9960-892-66-2'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
+  Libanon: Makbtaba Dar us-Salam. 670 s. ISBN 9960-892-66-2
 categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1266
-description: Fråga. Finns det någon åkallan rapporterad från profeten – över honom
- vare Allāhs frid och välsignelser – och följeslagarna som man kan läsa när man bryter
- fastan? Bör den fastande läsa efter vad ...
+description: >-
+  Fråga. Finns det någon åkallan rapporterad från profeten – över honom vare
+  Allāhs frid och välsignelser – och följeslagarna som man kan läsa när man
+  bryter fastan? Bör den fastande läsa efter vad ...
 ---
 
 **Fråga.** Finns det någon åkallan[^1] rapporterad från profeten – över honom vare Allāhs frid och välsignelser – och följeslagarna som man kan läsa när man bryter fastan? Bör den fastande läsa efter vad böneutroparen säger eller fortsätta med att bryta fastan?
@@ -28,8 +30,9 @@ När profeten – över honom vare Allāhs frid och välsignelser – bröt fast
 
 Om du har åkallat med dessa eller några andra ord som har nått ditt hjärta när du bröt fastan, då har de med största sannolikhet besvarats.
 
-Att svara böneutroparen när man bryter fastan är tillåtet. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om du hör böneutroparen, säg då vad denne säger*.” [*al-Bukhārī* 611 och *Muslim* 384] Detta gäller under alla omständigheter så länge det inte finns bevis för något annat.
+Att svara böneutroparen när man bryter fastan är tillåtet. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om du hör böneutroparen, säg då vad denne säger*.” [^3] Detta gäller under alla omständigheter så länge det inte finns bevis för något annat.
 
 [^1]: Du´ā
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
+[^3]: *al-Bukhārī* 611 och *Muslim* 384

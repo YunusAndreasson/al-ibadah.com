@@ -152,15 +152,16 @@ function validateMarkdown(content: string, relativePath: string, frontmatterLine
     // === MISMATCHED EMPHASIS ===
     // Opening with * but text followed by ** or vice versa
     // Pattern: *word** or **word*
-    if (line.match(/(?<!\*)\*[^*\s][^*]*\*\*(?!\*)/)) {
+    // Use [^*\s]* to only match within a single word (no spaces) to avoid false positives
+    // when bold and italic appear on the same line
+    if (line.match(/(?<!\*)\*[^*\s][^*\s]*\*\*(?!\*)/)) {
       errors.push({
         file: relativePath,
         error: `Mismatched emphasis: opens with * but closes with **`,
         line: lineNum,
       })
     }
-    if (line.match(/\*\*[^*\s][^*]*(?<!\*)\*(?!\*)/)) {
-      // This is trickier - need to avoid matching **word* where * is part of next word
+    if (line.match(/\*\*[^*\s][^*\s]*(?<!\*)\*(?!\*)/)) {
       warnings.push({
         file: relativePath,
         message: `Possible mismatched emphasis: opens with ** but closes with *`,

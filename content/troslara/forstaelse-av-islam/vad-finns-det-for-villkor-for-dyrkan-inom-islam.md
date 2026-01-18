@@ -1,15 +1,17 @@
 ---
 title: Vad finns det för villkor för dyrkan inom islam?
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius.
- ISBN 91-7118-887-8'
+source: >-
+  Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN
+  91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 514
-description: 'Fråga: Vad finns det för villkor för dyrkan inom islam? Svar: För
- det första: dyrkan måste vara enligt den islamiska lagen och dess syften. Den som
- dyrkar Allāh av en anledning som inte den ...'
+description: >-
+  Fråga: Vad finns det för villkor för dyrkan inom islam? Svar: För det första:
+  dyrkan måste vara enligt den islamiska lagen och dess syften. Den som dyrkar
+  Allāh av en anledning som inte den ...
 ---
 
 **Fråga:** Vad finns det för villkor för dyrkan inom islam?
@@ -18,7 +20,7 @@ description: 'Fråga: Vad finns det för villkor för dyrkan inom islam? Svar: F
 
 Det finns inga historiska bevis för att profetens – över honom vare Allāhs frid och välsignelser – himmelsfärd ägde rum under den 27:e natten i *rajab*[^1]. De böcker med *ahādīth*[^2] som vi har att tillgå innehåller inte en enda stavelse som antyder att detta skulle ha ägt rum denna natt. Det är känt att denna form av information inte kan accepteras utan en godkänd berättarkedja.
 
-Även om det skulle bevisas, har vi då rätt att introducera någon festlighet den dagen? Nej, inte alls. Profeten – över honom vare Allāhs frid och välsignelser – kom till Medina och såg att *ansār* hade två dagar för förströelse sade han: ”*Allāh har ersatt dessa för er med något som är bättre*”. Han nämnde då *‘eid al-fitr* och *‘eid al-adhā*. Detta antyder att profeten – över honom vare Allāhs frid och välsignelser – ogillade alla former av innoverade högtidligheter, utom de islamiska som det finns tre utav: de två årliga *‘eid* [*‘eid al-fitr* och *‘eid al-adhā*] samt den veckovisa fredagen. Även om det skulle bevisas att profeten – över honom vare Allāhs frid och välsignelser – togs upp till himlen den 27:e *rajab*[^1] – vilket är omöjligt att bevisa – skulle vi ändå inte ha kunnat innovera något vid detta tillfälle utan tillstånd ifrån Laggivaren.
+Även om det skulle bevisas, har vi då rätt att introducera någon festlighet den dagen? Nej, inte alls. Profeten – över honom vare Allāhs frid och välsignelser – kom till Medina och såg att *ansār* hade två dagar för förströelse sade han: ”*Allāh har ersatt dessa för er med något som är bättre*”. Han nämnde då *‘eid al-fitr* och *‘eid al-adhā*. Detta antyder att profeten – över honom vare Allāhs frid och välsignelser – ogillade alla former av innoverade högtidligheter, utom de islamiska som det finns tre utav: de två årliga *‘eid* [^10] samt den veckovisa fredagen. Även om det skulle bevisas att profeten – över honom vare Allāhs frid och välsignelser – togs upp till himlen den 27:e *rajab*[^1] – vilket är omöjligt att bevisa – skulle vi ändå inte ha kunnat innovera något vid detta tillfälle utan tillstånd ifrån Laggivaren.
 
 Som jag har sagt till dig är innovationer något mycket allvarligt som har en dålig inverkan på hjärtat – även om man känner att det mjuknar just vid det tillfället. Sedan kommer motsatsen att uppnås; om hjärtat gläder sig åt falskhet, kommer den glädjen inte att vara, utan den kommer i stället att efterföljas av smärta och ånger. innovationer är något allvarligt då den antyder en kritik mot profeten – över honom vare Allāhs frid och välsignelser – i den formen att han inte skulle ha fört med sig en komplett islamisk lag – trots att Allāh har sagt:
 
@@ -65,3 +67,4 @@ Med dessa sex anledningar som grund är en dyrkan inte giltig om den inte fören
 [^8]: En plats mellan *Mina* och *Arafat* där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i dhul-hijjah.
 [^9]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
 
+[^10]: *‘eid al-fitr* och *‘eid al-adhā*
