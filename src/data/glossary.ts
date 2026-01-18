@@ -192,7 +192,7 @@ export const glossary: Record<string, GlossaryTerm> = {
   },
   "'iddah": {
     canonical: "'iddah",
-    variants: ["'iddah","'iddah","iddah"],
+    variants: ["'iddah","'iddah","iddah","'iddah"],
     definition: "Väntetid för en kvinna efter skilsmässa eller makens död innan hon får gifta om sig.",
     category: "familyTerms",
   },
