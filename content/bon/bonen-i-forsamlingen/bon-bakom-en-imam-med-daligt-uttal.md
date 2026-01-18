@@ -14,7 +14,7 @@ description: 'Fråga: Det finns en imam med dåligt grammatiskt uttal. Ibland mi
 
 **Fråga:** Det finns en imam med dåligt grammatiskt uttal. Ibland missar eller lägger han till bokstäver när han reciterar Koranen. Vilket är utlåtandet om bön bakom honom?
 
-**Svar:** Om det felaktiga uttalet inte förändrar innebörden, då finns det ingen invändan mot att be bakom honom. Detta skulle kunna vara om han säger ”*Rabba*” eller ”*Rabbu*” i versen: ”*al-Hamdu lillahi Rabbil-'alāmīn*” [al-Fātihah 1:2] eller om han säger ”*ar-Rahmāna*” eller ”*ar-Rahmānu*”.
+**Svar:** Om det felaktiga uttalet inte förändrar innebörden, då finns det ingen invändan mot att be bakom honom. Detta skulle kunna vara om han säger ”*Rabba*” eller ”*Rabbu*” i versen: ”*al-Hamdu lillahi Rabbil-'alāmīn*” [*al-Fātihah* 1:2] eller om han säger ”*ar-Rahmāna*” eller ”*ar-Rahmānu*”.
 
 Men om innebörden förändras bör du inte be bakom honom om han inte drar nytta av det som du lär honom. Meningar som förändras kan vara om han säger ”*iyyaki*” i stället för ”*iyyaka*” eller som han säger ”*an'amti*” eller ”*an'amtu*” i stället för ”*an'amta*”. Om han accepterar det som du vill lära honom och han förbättrar sin recitation när han har korrigerats, då är hans bön och recitation giltig.
 

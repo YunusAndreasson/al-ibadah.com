@@ -1,5 +1,5 @@
 ---
-title: Āmīn efter al-Fātihah – om det är sunnah
+title: Āmīn efter *al-Fātihah* – om det är sunnah
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  1. Libanon: Makbtaba Dar us-Salam. 467 s. ISBN 9960-892-66-2'

@@ -1,5 +1,5 @@
 ---
-title: Imamen glömmer att recitera al-Fātihah
+title: Imamen glömmer att recitera *al-Fātihah*
 author: Ibn ´Abdullāh Ibn Bāz
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 278 s. ISBN saknas'
@@ -7,14 +7,14 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 275
-description: 'Fråga: Om imamen glömmer att recitera al-Fātihah i den sista bönecykeln
+description: 'Fråga: Om imamen glömmer att recitera *al-Fātihah* i den sista bönecykeln
  och han inte kommer på detta förrän efter den andra bugningen[^1] – vad gör han då? Svar: Han
  måste göra en bönecykel till ...'
 ---
 
-**Fråga:** Om imamen glömmer att recitera al-Fātihah i den sista bönecykeln[^1] och han inte kommer på detta förrän efter den andra bugningen[^2] – vad gör han då?
+**Fråga:** Om imamen glömmer att recitera *al-Fātihah* i den sista bönecykeln[^1] och han inte kommer på detta förrän efter den andra bugningen[^2] – vad gör han då?
 
-**Svar:** Han måste göra en bönecykel[^1] till för att upprepa den som han glömde al-Fātihah i. Han gör sedan nedfallandet för glömska[^3] innan *taslīm[^4]* och de bakom bör följa honom.
+**Svar:** Han måste göra en bönecykel[^1] till för att upprepa den som han glömde *al-Fātihah* i. Han gör sedan nedfallandet för glömska[^3] innan *taslīm[^4]* och de bakom bör följa honom.
 
 Och genom Allāh uppnås framgång.
 

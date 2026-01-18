@@ -8,11 +8,11 @@ categories:
   - Bönens praktik
 original_id: 263
 description: 'Fråga: Vilket är utlåtandet om att recitera ” Bismillāh ” högt i sura
- al-Fātihah och andra suror? Svar: De lärde är oense. Några anser att det är
+ *al-Fātihah* och andra suror? Svar: De lärde är oense. Några anser att det är
  bäst att recitera högt, medan andra säger att ...'
 ---
 
-**Fråga:** Vilket är utlåtandet om att recitera ”*Bismillāh*” högt i sura al-Fātihah och andra suror?
+**Fråga:** Vilket är utlåtandet om att recitera ”*Bismillāh*” högt i sura *al-Fātihah* och andra suror?
 
 **Svar:** De lärde är oense. Några anser att det är bäst att recitera högt, medan andra säger att det är ogillat och att det är bättre att recitera lågt. Den sistnämnda åsikten är den starkaste och mest föredragna. Anledningen är en *hadīth[^1]* i vilken Anas säger: ”Profeten, Abū Bakr och ´Umar brukade inte säga: *'Bismillah[^2] ir-Rahmānir-Rahīm*' högt.” [*an-Nasā’i* 907-909 och *Ibn Khuzaymah* 496, 497]
 

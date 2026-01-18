@@ -129,9 +129,9 @@ Recitation av Koranen
 3. Och att ibland kan man säga: ”*A’ūdhu Billāh il-Samī’ il-A’līm min al-Shaytān*… [Jag söker tillflykt hos Allāh, den Allhörande, den Allvetande, från djävulen…].”
 4. Därefter säger man tyst – oavsett om bönen ska reciteras högt eller lågt – ”*Bismillah[^15] il-Rahmān il-Rahīm* [I Allāhs, den Nåderikes, den Barmhärtiges Namn].”
 
-Recitera al-Fātihah
+Recitera *al-Fātihah*
 
-1. Sedan reciterar man sura al-Fātihah [Koranens första sura] till fullo, inklusive *Basmalah[^16]* [*Bismillāhi il-Rahmān il-Rahīm*]. Detta är en viktig del av bönen, som bönen blir ogiltig utan. De som inte talar arabiska måste memorera denna sura.
+1. Sedan reciterar man sura *al-Fātihah* [Koranens första sura] till fullo, inklusive *Basmalah[^16]* [*Bismillāhi il-Rahmān il-Rahīm*]. Detta är en viktig del av bönen, som bönen blir ogiltig utan. De som inte talar arabiska måste memorera denna sura.
 2. De som inte kan komma ihåg den bör säga: ”*Subhān Allāh, wa’l-hamdu-Lillāh, wa Lā ilāha ill-Allāh, wa Allāhu akbar, wa lā hawla wa lā quwwata illa Billāh* [Ärad vare Allāh, lovprisad vare Allāh. Det finns ingen gud utom Allāh. Allāh är den Störste. Det finns ingen styrka eller kraft utom Allāh].”
 3. Det är *sunnah[^12]* att recitera en vers i taget och att pausa i början av varje. Man bör säga: ”*Bismillāh il-Rahmān il-Rahīm* [I Allāhs, den Nåderikes, den Barmhärtiges Namn] och sedan pausa, för att efter pausen säga: ”*al-Hamdu Lillāhi Rabb il-‘Ālāmīn*” [Lovprisad vare Han, Världarnas Skapare [människan, *jinn[^17]* och allt som existerar]] och sedan pausa, för att efter pausen säga: ”*al-Rahmān il-Rahīm*” [den Nåderike, den Barmhärtige] för att sedan pausa… och fortsätta så till slutet på versen.
 
@@ -143,18 +143,18 @@ Hur den som ber bakom imamen bör recitera den
 
 1. I bön bakom imamen bör man recitera den i de böner där Koranen reciteras tyst och i böner där den reciteras med höjd röst om man inte kan höra imamens recitation eller om han [imamen] pausar efter att ha slutfört den för att de som ber bakom ska kunna recitera den. Vi anser att denna paus inte finns bevisad i profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^12]*. Jag har nämnt de bevis de som tror att denna paus är tillåten har och avvisat dem i Silsilat al-*Ahādīth*[^9] al-Da'īfah no. 546, 547; del 2, s. 24 – 26, Dar al-Ma'ārif upplagan.
 
-Recitation efter al-Fātihah
+Recitation efter *al-Fātihah*
 
-1. Det är *sunnah[^12]* att recitera en annan sura eller några verser i de första två bönecyklerna[^7] efter al-Fātihah. Detta gäller även i begravningsbönen.
+1. Det är *sunnah[^12]* att recitera en annan sura eller några verser i de första två bönecyklerna[^7] efter *al-Fātihah*. Detta gäller även i begravningsbönen.
 2. Recitationen kan ibland vara lång och ibland vara kort av anledningar som resa, hosta, sjukdom eller att ett spädbarn gråter.
 3. Recitationen varierar enligt bönerna. Recitationen i gryningsbönen[^18] är längre än vad den är i de andra bönerna. Näst längst är middagsbönen[^10], sedan eftermiddagsbönen[^11], sedan nattbönen[^19], sedan kvällsbönen[^20] – vanligtvis.
 4. Recitationen i nattbönen är längre än alla dessa.
 5. Det är *sunnah[^12]* att göra recitationen längre i den första bönecykeln[^7] än i den andra.
 6. I de sista två gör man recitationen kortare än i de första två; halva längden. Om du vill ha mer detaljer i detta ämne, se då *Sifat al-Salāh* s. 102 [arabiskt original].
 
-Recitera al-Fātihah i varje bönecykel
+Recitera *al-Fātihah* i varje bönecykel
 
-1. Det är obligatoriskt att recitera al-Fātihah i varje bönecykel.
+1. Det är obligatoriskt att recitera *al-Fātihah* i varje bönecykel.
 2. Det är *sunnah[^12]* att lägga till något till den även i de två sista bönecyklerna[^7].
 3. Det är inte tillåtet att imamen gör sin recitation längre än vad som finns beskrivet i profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^12]*, därför då blir det svårt för dem som ber bakom. Detta kan vara äldre, sjuka, ammande mödrar eller de som har andra bestyr.
 
@@ -301,7 +301,7 @@ Den tredje och fjärde bönecykeln[^7]
 4. Vill man resa sig upp för den fjärde bönecykeln[^7] gör man på samma sätt.
 5. Men innan man reser sig upp sitter man rakt upp genom att justera sitt vänstra ben tills varje ben är på rätt plats.
 6. Därefter går man upp genom att stödja sig på sina händer. Precis som man gjorde när man gick upp för den andra bönecykeln[^7].
-7. I den tredje och den fjärde bönecykeln[^7] reciterar man al-Fātihah. Detta är obligatoriskt.
+7. I den tredje och den fjärde bönecykeln[^7] reciterar man *al-Fātihah*. Detta är obligatoriskt.
 8. Vid vissa tillfällen kan man lägga till en vers eller mer.
 
 Recitera *qunūt[^24]* under stora svårigheter

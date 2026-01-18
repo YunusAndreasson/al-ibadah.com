@@ -137,6 +137,110 @@ function validateMarkdown(content: string, relativePath: string, frontmatterLine
         line: lineNum,
       })
     }
+
+    // === EMPTY EMPHASIS ===
+    // Check for empty bold **  ** or italic *  *
+    // Avoid matching ***text*** **text** (valid bold+italic followed by bold)
+    if (line.match(/\*\*\s+\*\*/) && !line.match(/\*\*\*[^*]+\*\*\*\s+\*\*/)) {
+      errors.push({
+        file: relativePath,
+        error: `Empty bold markers (** **)`,
+        line: lineNum,
+      })
+    }
+
+    // === MISMATCHED EMPHASIS ===
+    // Opening with * but text followed by ** or vice versa
+    // Pattern: *word** or **word*
+    if (line.match(/(?<!\*)\*[^*\s][^*]*\*\*(?!\*)/)) {
+      errors.push({
+        file: relativePath,
+        error: `Mismatched emphasis: opens with * but closes with **`,
+        line: lineNum,
+      })
+    }
+    if (line.match(/\*\*[^*\s][^*]*(?<!\*)\*(?!\*)/)) {
+      // This is trickier - need to avoid matching **word* where * is part of next word
+      warnings.push({
+        file: relativePath,
+        message: `Possible mismatched emphasis: opens with ** but closes with *`,
+        line: lineNum,
+      })
+    }
+  }
+
+  // === BLOCKQUOTE CHECKS ===
+  // Check for empty blockquotes (lines with only > and whitespace)
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i]
+    const lineNum = frontmatterLines + i + 1
+
+    // Empty blockquote line (just > or > with spaces)
+    if (line.match(/^>\s*$/) && i > 0 && i < lines.length - 1) {
+      const prevLine = lines[i - 1]
+      const nextLine = lines[i + 1]
+      // Only warn if surrounded by other blockquote lines (creates merged blockquotes)
+      if (prevLine.startsWith('>') && nextLine.startsWith('>')) {
+        warnings.push({
+          file: relativePath,
+          message: `Empty blockquote line - may merge separate quotes into one`,
+          line: lineNum,
+        })
+      }
+    }
+  }
+
+  // === FOOTNOTE CHECKS ===
+  const footnoteRefs = new Set<string>()
+  const footnoteDefs = new Set<string>()
+  const footnoteDefLines = new Map<string, number>()
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i]
+    const lineNum = frontmatterLines + i + 1
+
+    // Find footnote references [^1], [^2], etc.
+    const refs = line.matchAll(/\[\^(\d+)\](?!:)/g)
+    for (const ref of refs) {
+      footnoteRefs.add(ref[1])
+    }
+
+    // Find footnote definitions [^1]:, [^2]:, etc.
+    const defMatch = line.match(/^\[\^(\d+)\]:/)
+    if (defMatch) {
+      const id = defMatch[1]
+      if (footnoteDefs.has(id)) {
+        errors.push({
+          file: relativePath,
+          error: `Duplicate footnote definition: [^${id}]`,
+          line: lineNum,
+          details: `First defined at line ${footnoteDefLines.get(id)}`,
+        })
+      } else {
+        footnoteDefs.add(id)
+        footnoteDefLines.set(id, lineNum)
+      }
+    }
+  }
+
+  // Check for missing footnote definitions
+  for (const ref of footnoteRefs) {
+    if (!footnoteDefs.has(ref)) {
+      warnings.push({
+        file: relativePath,
+        message: `Footnote reference [^${ref}] has no definition`,
+      })
+    }
+  }
+
+  // Check for unused footnote definitions
+  for (const def of footnoteDefs) {
+    if (!footnoteRefs.has(def)) {
+      warnings.push({
+        file: relativePath,
+        message: `Footnote definition [^${def}]: is never referenced`,
+      })
+    }
   }
 }
 

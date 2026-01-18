@@ -18,7 +18,7 @@ description: 'Fråga: Bör man göra takbīr två gånger om man ber bakom imame
 
 När man har gjort det kommer man att befinna sig i en av de tre följande situationerna:
 
-1. Att man är säker på att man nådde bugningen innan imamen reste sig från den. I detta fall har man hunnit med denna bönecykel[^3] och det krävs då inte att man reciterar sura al-Fātihah.
+1. Att man är säker på att man nådde bugningen innan imamen reste sig från den. I detta fall har man hunnit med denna bönecykel[^3] och det krävs då inte att man reciterar sura *al-Fātihah*.
 2. Att man är säker på att imamen har rest sig upp från bugningen innan man nådde den. I detta fall har man missat denna bönecykel[^3] och man måste ta igen den.
 3. Att man är osäker på om man hann med imamen medan denne bugade eller om imamen hade rest sig upp före. I detta fall bör man utgå från det sannolikaste. Verkar det vara troligare att man gjorde bugningen med imamen, då har man hunnit med denna bönecykel. Verkar det vara troligare att man inte hann med imamen i bugningen, då har man missat denna bönecykel.
 

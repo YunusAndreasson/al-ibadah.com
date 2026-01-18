@@ -16,7 +16,7 @@ description: 'Fråga: Vilket är det rätta sättet att be begravningsbönen på
 
 **Svar:** Man placerar den avlidne framför imamen. Han bör stå vid den avlidnes huvud. Detta oavsett om den avlidne är gammal eller ung.
 
-Imamen gör den första *takbīr[^1]* och reciterar sedan sura al-Fātihah. Om han reciterar en annan kort sura tillsammans med den finns det ingen invändan mot det. Vissa lärde anser att det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* att göra så.
+Imamen gör den första *takbīr[^1]* och reciterar sedan sura *al-Fātihah*. Om han reciterar en annan kort sura tillsammans med den finns det ingen invändan mot det. Vissa lärde anser att det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah[^2]* att göra så.
 
 Sedan gör han den andra *takbīr[^1]* och sänder böner över profeten – över honom vare Allāhs frid och välsignelser – genom att säga:
 

@@ -1,5 +1,5 @@
 ---
-title: Besöka gravplatser för att läsa sura al-Fātihah
+title: Besöka gravplatser för att läsa sura *al-Fātihah*
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
  2. Libanon: Makbtaba Dar us-Salam. 584 s. ISBN 9960-892-66-2'
@@ -8,11 +8,11 @@ categories:
   - Begravningsbön
 original_id: 1249
 description: 'Fråga: Vilket är utlåtandet om att besöka gravplatser för att recitera
- al-Fātihah och vad finns det att säga om kvinnor som besöker gravplatser? Svar: Att
+ *al-Fātihah* och vad finns det att säga om kvinnor som besöker gravplatser? Svar: Att
  besöka gravplatser är en sunnah som...'
 ---
 
-**Fråga:** Vilket är utlåtandet om att besöka gravplatser för att recitera al-Fātihah och vad finns det att säga om kvinnor som besöker gravplatser?
+**Fråga:** Vilket är utlåtandet om att besöka gravplatser för att recitera *al-Fātihah* och vad finns det att säga om kvinnor som besöker gravplatser?
 
 **Svar:** Att besöka gravplatser är en *sunnah[^1]* som profeten – över honom vare Allāhs frid och välsignelser – har beordrat efter att tidigare ha förbjudit det, vilket har bekräftats i hans ord: "*Jag har tidigare förbjudit er att besöka gravar, men nu får ni besöka dem för de kommer att påminna er om det Nästkommande*." [*Muslim* 977]
 
@@ -24,7 +24,7 @@ Det är önskvärt för den som besöker gravplatser att åkalla med de ord som 
 
 > ”*as-Salamu 'alaykum dara qawmim mu'minīn, wa inna in aha' allāhu bikum lahiqūn. Yarhammulahul-mustaqdimīna minna wal-musta'khirīn. Nas-alullaha lana wa lakulmul-'afiyata. Allāhumma la tahrimna ajrahum, wa la taftinna ba'dahum, waghfir lana wa lahum*.”
 
-Det har inte rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att han reciterade sura al-Fātihah när han besökte gravarna. Därför motsäger sig recitation av denna sura det som profeten – över honom vare Allāhs frid och välsignelser – har föreskrivit.
+Det har inte rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att han reciterade sura *al-Fātihah* när han besökte gravarna. Därför motsäger sig recitation av denna sura det som profeten – över honom vare Allāhs frid och välsignelser – har föreskrivit.
 
 Kvinnor får inte besöka gravplatser. Profeten – över honom vare Allāhs frid och välsignelser – har förbannat kvinnor som besöker gravar, de som tar dem till platser för dyrkan och de som ljussätter dem. [*Abū Dawūd* 3236, *at-Tirmithi* 320, *an-Nasā’i* 2042 och *Ibn Mājah* 1575]
 
