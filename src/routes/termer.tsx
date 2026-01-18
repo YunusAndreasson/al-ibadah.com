@@ -47,22 +47,22 @@ const categoryOrder = [
 
 // Swedish category names
 const categoryNames: Record<string, string> = {
-  coreTerms: 'Grundlaggande termer',
-  prayerTerms: 'Bonetermer',
-  purificationTerms: 'Renhetstermer',
-  fastingTerms: 'Fastetermer',
-  hajjTerms: 'Vallfardstermer',
-  hajjLocations: 'Vallfardsorter',
-  zakatTerms: 'Allmosetermer',
-  monthNames: 'Manader',
-  familyTerms: 'Familj och aktenskap',
-  clothingTerms: 'Kladsel',
-  hadithSources: 'Hadith-kallor',
-  hadithBooks: 'Hadith-bocker',
-  scholarlyTerms: 'Lardomstermer',
+  coreTerms: 'Grundläggande',
+  prayerTerms: 'Bön',
+  purificationTerms: 'Renhet',
+  fastingTerms: 'Fasta',
+  hajjTerms: 'Vallfärd',
+  hajjLocations: 'Vallfärdsorter',
+  zakatTerms: 'Allmosa',
+  monthNames: 'Månader',
+  familyTerms: 'Familj och äktenskap',
+  clothingTerms: 'Klädsel',
+  hadithSources: 'Hadith-källor',
+  hadithBooks: 'Hadith-böcker',
+  scholarlyTerms: 'Lärdom',
   tawhidTerms: 'Tawhid-kategorier',
   phrases: 'Fraser',
-  miswakAndOther: 'Ovrigt',
+  miswakAndOther: 'Övrigt',
 }
 
 function TermsPage() {
@@ -75,7 +75,7 @@ function TermsPage() {
         <div className="prose-reading">
           <h1 className="page-title mb-4">Ordlista</h1>
           <p className="text-muted-foreground mb-8">
-            Arabiska termer som forekommmer i texterna. {termCount} termer med definitioner.
+            Arabiska termer som förekommer i texterna. {termCount} termer med definitioner.
           </p>
 
           {categoryOrder.map((categoryKey) => {
