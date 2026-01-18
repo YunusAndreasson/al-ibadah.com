@@ -14,17 +14,16 @@ description: >-
   giltig då? Behöver jag recitera Skriftens ...
 ---
 
-**Fråga:** Om *iqāmah*[^1] ropas ut för bönen och jag under bönen glömmer att recitera sura *al-Fātihah* i en eller två bönecykler[^2] när jag leds i bönen, är min bön giltig då? Behöver jag recitera Skriftens öppning? Vad gör jag i denna situation?
+**Fråga:** Om *iqāmah* ropas ut för bönen och jag under bönen glömmer att recitera sura *al-Fātihah* i en eller två bönecykler[^1] när jag leds i bönen, är min bön giltig då? Behöver jag recitera Skriftens öppning? Vad gör jag i denna situation?
 
-**Svar:** Om den som leds i bön glömmer att recitera *al-Fātihah*, inte känner till att det är en skyldighet eller går in i bönen när imamen bugar, då kommer denna bönecykel[^2] under dessa omständigheter tillräknas honom. Hans bön är då giltig och han behöver inte ta igen denna bönecykel. Han ursäktas ju eftersom han inte kände till, glömskan eller att han kom sent.
+**Svar:** Om den som leds i bön glömmer att recitera *al-Fātihah*, inte känner till att det är en skyldighet eller går in i bönen när imamen bugar, då kommer denna bönecykel[^1] under dessa omständigheter tillräknas honom. Hans bön är då giltig och han behöver inte ta igen denna bönecykel. Han ursäktas ju eftersom han inte kände till, glömskan eller att han kom sent.
 
-Detta anser en majoritet av de lärde och det grundas på vad al-Bukhārī har återgivit i hans *Sahīh*. Abū Bakrah berättade att han började be tillsammans med profeten – över honom vare Allāhs frid och välsignelser – i en bön medan han bugade och han bugade bakom en rad, sedan gick han in i raden och profeten – över honom vare Allāhs frid och välsignelser – sade till honom: ”*Må Allāh göra dig mer aktsam men gör inte om det*” [^3]
+Detta anser en majoritet av de lärde och det grundas på vad al-Bukhārī har återgivit i hans *Sahīh*. Abū Bakrah berättade att han började be tillsammans med profeten – över honom vare Allāhs frid och välsignelser – i en bön medan han bugade och han bugade bakom en rad, sedan gick han in i raden och profeten – över honom vare Allāhs frid och välsignelser – sade till honom: ”*Må Allāh göra dig mer aktsam men gör inte om det*” [^2]
 
 Han beordrade inte honom att ta igen den utan han sade endast att han inte skulle buga utanför raden.
 
 Och Allāh är Beviljaren av framgång.
 
-[^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
-[^2]: Rakah.
+[^1]: Rakah.
 
-[^3]: *al-Bukhārī* 783
+[^2]: *al-Bukhārī* 783

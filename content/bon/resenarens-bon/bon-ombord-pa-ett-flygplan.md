@@ -1,15 +1,17 @@
 ---
 title: Bön ombord på ett flygplan
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 541 s. ISBN 9960-892-66-2'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 541 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 994
-description: 'Fråga: När blir bönen ombord på ett flygplan obligatorisk? Hur ber
- man den obligatoriska bönen ombord på ett flygplan? Hur ber man en frivillig bön? Svar: Bön
- ombord på ett flygplan blir oblig...'
+description: >-
+  Fråga: När blir bönen ombord på ett flygplan obligatorisk? Hur ber man den
+  obligatoriska bönen ombord på ett flygplan? Hur ber man en frivillig bön?
+  Svar: Bön ombord på ett flygplan blir oblig...
 ---
 
 **Fråga:** När blir bönen ombord på ett flygplan obligatorisk? Hur ber man den obligatoriska bönen ombord på ett flygplan? Hur ber man en frivillig bön?
@@ -20,19 +22,17 @@ Om flygplanet exempelvis lyfter från Jiddah precis före solnedgången och sole
 
 Är man rädd för att tiden ska gå ut, då bör man ha avsikten att slå ihop den med nattbönen[^2] och skjuta på den till nattbönen[^2]. Man ber dem då när man landar. Men om flygningen är lång och nattbönen[^2] kommer att gå ut, och det är vid midnatt, då bör man be dem i planet före tiden går ut.
 
-Sättet som man ber den obligatoriska bönen på i flygplanet är att man står i riktning mot *qiblah*[^3] och gör *takbīr*[^4], reciterar sura *al-Fātihah* och det som är föreskrivet att recitera före den som första åkallan[^5] och därefter från Koranen.
+Sättet som man ber den obligatoriska bönen på i flygplanet är att man står i riktning mot *qiblah* och gör *takbīr*, reciterar sura *al-Fātihah* och det som är föreskrivet att recitera före den som första åkallan[^3] och därefter från Koranen.
 
-Sedan bugar[^6] man, rätar sig upp från bugningen[^6] och nedfaller[^7]. Går det att nedfalla[^7] bör man sitta och antyda nedfallan[^7] [genom att luta huvudet] i en sittande position och man gör på samma sätt i slutet av bönen. Hela tiden är man riktad mot *qiblah*[^3].
+Sedan bugar[^4] man, rätar sig upp från bugningen[^4] och nedfaller[^5]. Går det att nedfalla[^5] bör man sitta och antyda nedfallan[^5] [genom att luta huvudet] i en sittande position och man gör på samma sätt i slutet av bönen. Hela tiden är man riktad mot *qiblah*.
 
-En frivillig bön i ett flygplan ber man sittandes i sätet och man lutar huvudet i bugningen[^6] och nedfallan[^7]. Nedfallan[^1] ska vara lägre än bugningen[^6].
+En frivillig bön i ett flygplan ber man sittandes i sätet och man lutar huvudet i bugningen[^4] och nedfallan[^5]. Nedfallan[^1] ska vara lägre än bugningen[^4].
 
 Och Allāh är Beviljaren av framgång.
 
 [^1]: Maghrib
 [^2]: Isha
-[^3]: Riktningen mot Kabah i Mecka som bönen utförs mot.
-[^4]: Att säga Allahu Akbar.
-[^5]: Du´ā
-[^6]: Ruku, bugningen när ryggen hålls parallell med marken.
-[^7]: sujūd, nedfallandet när pannan läggs mot marken.
+[^3]: Du´ā
+[^4]: Ruku, bugningen när ryggen hålls parallell med marken.
+[^5]: sujūd, nedfallandet när pannan läggs mot marken.
 

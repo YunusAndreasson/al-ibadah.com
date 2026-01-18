@@ -14,17 +14,16 @@ description: >-
   som kommer sent inte hinner med något a...
 ---
 
-**Fråga:** Om jag gick in i moskén när imamen bad fredagsbönen och han satt i *tashahhud*[^1], bör jag då be den som fredagsbön eller middagsbönen[^2]?
+**Fråga:** Om jag gick in i moskén när imamen bad fredagsbönen och han satt i *tashahhud*, bör jag då be den som fredagsbön eller middagsbönen[^1]?
 
-**Svar:** Om den som kommer sent inte hinner med något av fredagsbönen utöver nedfallandet och *tashahhud*[^1], då bör han be den som middagsbönen[^2] och inte som en fredagsbön. Bönen blir endast giltig om man har bett en bönecykel. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Den som har hunnit med en bönecykel[^3] av bönen har hunnit med bönen*.” [^4] Han har också sagt: ”*Den som fick en bönecykel[^3] av fredagsbönen bör lägga till en extra till den och hans bön kommer att vara fullständig*.” [^5]
+**Svar:** Om den som kommer sent inte hinner med något av fredagsbönen utöver nedfallandet och *tashahhud*, då bör han be den som middagsbönen[^1] och inte som en fredagsbön. Bönen blir endast giltig om man har bett en bönecykel. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Den som har hunnit med en bönecykel[^2] av bönen har hunnit med bönen*.” [^3] Han har också sagt: ”*Den som fick en bönecykel[^2] av fredagsbönen bör lägga till en extra till den och hans bön kommer att vara fullständig*.” [^4]
 
-Genom dessa båda *hadither* blir det tydligt att den som inte hann med två bönecykler[^3] av fredagsbönen har missat bönen och bör be den som middagsbönen[^2].
+Genom dessa båda *hadither* blir det tydligt att den som inte hann med två bönecykler[^2] av fredagsbönen har missat bönen och bör be den som middagsbönen[^1].
 
 Allāh är Beviljaren av framgång.
 
-[^1]: Vad man läser i den sittande positionen under bönen.
-[^2]: Dhuhr
-[^3]: Rakah.
+[^1]: Dhuhr
+[^2]: Rakah.
 
-[^4]: *Muslim* 607
-[^5]: *ad-Darimi* 2:10, 11 och 13
+[^3]: *Muslim* 607
+[^4]: *ad-Darimi* 2:10, 11 och 13

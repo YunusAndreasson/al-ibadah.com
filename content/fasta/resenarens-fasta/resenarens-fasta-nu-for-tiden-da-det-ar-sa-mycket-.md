@@ -17,11 +17,11 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om en resenärs fasta i vetskap om att det i dagsläget inte är svårt för den fastande när det finns moderna transportmedel?
 
-**Svar:** Resenären får fasta, likväl som denne får bryta fastan. Detta enligt Allāhs den Upphöjdes ord: ”*Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarade antal dagar*.” [^2]
+**Svar:** Resenären får fasta, likväl som denne får bryta fastan. Detta enligt Allāhs den Upphöjdes ord: ”*Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarade antal dagar*.” [^1]
 
 Följeslagarna gav sig av på en resa i sällskap med profeten. Vissa fastade medan andra inte gjorde det, och inga av dem tillrättavisade de andra.
 
-Profeten – över honom vare Allāhs frid och välsignelser – brukade fasta när han reste. Abu Darda' sade: "*Vi reste tillsammans med Allāhs sändebud under en resa i *ramadan*[^1]. Det var extremt varmt. Ingen av oss fastade utom Allāhs sändebud och Abdullah bin Rawahah*." [^3]
+Profeten – över honom vare Allāhs frid och välsignelser – brukade fasta när han reste. Abu Darda' sade: "*Vi reste tillsammans med Allāhs sändebud under en resa i *ramadan*. Det var extremt varmt. Ingen av oss fastade utom Allāhs sändebud och Abdullah bin Rawahah*." [^2]
 
 Utlåtandet om resenären är att denne får välja mellan att fasta och att bryta fastan. Är fastan inte svår för denna är det bättre att fasta. I detta finns det tre fördelar:
 
@@ -29,14 +29,13 @@ Utlåtandet om resenären är att denne får välja mellan att fasta och att bry
 2. lättnad, därför när någon fastar tillsammans med andra blir det lättare, och
 3. ett direkt uppfyllande av ens skyldigheter.
 
-Är det svårt för den resande att fasta bör denne inte fasta. Det är inte rättfärdigt att fasta under dessa omständigheter när man reser. Allāhs sändebud såg en man skuggas medan folket samlades runt omkring honom. Han sade: "*Vad är detta?*" De sade: "*Han fastade.*" Han [Profeten] sade: "*Det är inte rättfärdigt att fasta medan [man] reser.*" [^4]
+Är det svårt för den resande att fasta bör denne inte fasta. Det är inte rättfärdigt att fasta under dessa omständigheter när man reser. Allāhs sändebud såg en man skuggas medan folket samlades runt omkring honom. Han sade: "*Vad är detta?*" De sade: "*Han fastade.*" Han [Profeten] sade: "*Det är inte rättfärdigt att fasta medan [man] reser.*" [^3]
 
 Detta generella utlåtande gäller för vem som helst i en situation likt den med mannen som fann det svårt att fasta.
 
 Därför säger vi att i dagsläget är det lätt att resa, vilket frågeställaren har sagt, och det är i de flesta fall inte svårt att fasta medan man reser. Så om det inte är svårt att fasta, då är det bättre om man fastar.
 
-[^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 
-[^2]: Koranen 2:185
-[^3]: *al-Bukhārī* 1945 och *Muslim* 1122
-[^4]: *al-Bukhārī* 1946 och *Muslim* 1115
+[^1]: Koranen 2:185
+[^2]: *al-Bukhārī* 1945 och *Muslim* 1122
+[^3]: *al-Bukhārī* 1946 och *Muslim* 1115

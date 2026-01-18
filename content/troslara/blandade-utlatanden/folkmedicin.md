@@ -1,20 +1,22 @@
 ---
 title: Folkmedicin
 author: Ibn ´Abdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
- Libanon: Maktaba Dar us-Salam. 214 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Libanon: Maktaba Dar us-Salam. 214 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 99
-description: 'Fråga: Vilken är islams inställning till dem som använder folkmedicin? Svar: I
- en hadīth rapporteras det: ”Allāh har inte sänt ned någon sjukdom utan att
- Han har sänt ned ett botemedel ...'
+description: >-
+  Fråga: Vilken är islams inställning till dem som använder folkmedicin? Svar: I
+  en hadīth rapporteras det: ”Allāh har inte sänt ned någon sjukdom utan att Han
+  har sänt ned ett botemedel ...
 ---
 
 **Fråga:** Vilken är islams inställning till dem som använder folkmedicin?
 
-**Svar:** I en *hadīth*[^1] rapporteras det:
+**Svar:** I en *hadīth* rapporteras det:
 
 > ”Allāh har inte sänt ned någon sjukdom utan att Han har sänt ned ett botemedel mot den. Den som känner till det, känner till det och den som inte känner till det, känner inte till det.” [*al-Bukhārī*, 5678]
 
@@ -22,5 +24,4 @@ De som använder folkmedicin har lärt sig dessa mediciner genom erfarenhet och 
 
 Därmed finns det ingen invändan mot att lära sig om denna form av medicin, eller att låta sig behandlas med den. Frågeställaren bör läsa boken *at-Tibb an-Nabawi* av Ibn al-Qayyim, en annan bok med samma titel från ath-Thahabi, *al-Adab ash-Shar'iah* av Ibn Muflih samt *Tashīlul-Manafi*.
 
-[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

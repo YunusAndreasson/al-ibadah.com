@@ -18,10 +18,9 @@ description: >-
 
 **Svar:** Den starkaste åsikten av de lärdas uttalanden är att det inte är tillåtet att be begravningsbönen utom för den som ingen har bett över. Exempel på detta kan vara om någon avlider i ett icke-troende land och ingen bad över denne eller om denne drunknade i havet, i en flod eller i en ravin och kroppen inte återfanns. I dessa fall är det obligatoriskt att be för denne.
 
-Men den som muslimerna har bett över är det enligt den korrekta åsikten inte tillåtet att be över. Detta beror på att det inte har rapporterats i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^1] utom i en historia från an-Najashi som ingen hade bett över där han bodde. Därför bad profeten – över honom vare Allāhs frid och välsignelser – över honom i Medina. [^2]
+Men den som muslimerna har bett över är det enligt den korrekta åsikten inte tillåtet att be över. Detta beror på att det inte har rapporterats i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* utom i en historia från an-Najashi som ingen hade bett över där han bodde. Därför bad profeten – över honom vare Allāhs frid och välsignelser – över honom i Medina. [^1]
 
 Mäktiga män och ledare avled under profetens – över honom vare Allāhs frid och välsignelser – tid och ingen har berättat att han bad över dem. Vissa lärde har sagt: Om det fanns någon som hjälpte folket genom tillgångar, handlingar eller kunskap bör man be begravningsbönen över denne i dennes frånvaro. Men den som denna beskrivning inte gäller bör man inte be för. Andra lärde har sagt: Den som inte finns på plats får man be för under alla omständigheter. Detta är dock den svagaste åsikten.
 
-[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 
-[^2]: *al-Bukhārī* 6:65 och *Muslim* 2:656
+[^1]: *al-Bukhārī* 6:65 och *Muslim* 2:656

@@ -5,9 +5,10 @@ source: al-Wasiyyah al-Jāmi’ah li Khayr al-Dunyā wa’l-Ākhirah
 categories:
   - Blandat
 original_id: 511
-description: 'Fråga: Vilka är de bästa handlingarna efter de obligatoriska? Följande
- fråga ställdes till shaykh ul-islām ibn Taymiyyah: Jag bad shaykhen, som går i
- de tidiga generationernas fotsteg som var ...'
+description: >-
+  Fråga: Vilka är de bästa handlingarna efter de obligatoriska? Följande fråga
+  ställdes till shaykh ul-islām ibn Taymiyyah: Jag bad shaykhen, som går i de
+  tidiga generationernas fotsteg som var ...
 ---
 
 **Fråga:** Vilka är de bästa handlingarna efter de obligatoriska?
@@ -24,11 +25,10 @@ Så generellt sett bör man sträva efter att åminnas Allāh och det bästa sä
 
 Det kan finnas vissa tillfällen då vissa former av åminnelse[^1] är att föredra, som att säga: ”*Subhāna Allāh wa’l-hamdu-Lillāh wa Allāhu akbar wa lā hawla wa lā quwwata illa Billāh*.”
 
-Vidare bör man inse att allt som tungan yttrar eller hjärtat föreställer sig som kan föra en närmare Allāh – såsom att söka kunskap, att lära ut eller att påbjuda det goda samt förbjuda det onda – är en sorts åminnelse[^1] av Allāh. Därför utför den som – efter de obligatoriska handlingarna är gjorda – en av de bästa formerna av åminnelse[^1] när denne studerar eller sitter i en samling för att lära sig eller lära ut något om Allāh. Detta har Allāh och Hans sändebud kallat för *fiqh*[^3] eller förståelse.
+Vidare bör man inse att allt som tungan yttrar eller hjärtat föreställer sig som kan föra en närmare Allāh – såsom att söka kunskap, att lära ut eller att påbjuda det goda samt förbjuda det onda – är en sorts åminnelse[^1] av Allāh. Därför utför den som – efter de obligatoriska handlingarna är gjorda – en av de bästa formerna av åminnelse[^1] när denne studerar eller sitter i en samling för att lära sig eller lära ut något om Allāh. Detta har Allāh och Hans sändebud kallat för *fiqh* eller förståelse.
 
 Tänker du på saken kommer du inte att finna några större meningsskiljaktigheter bland de tidigaste generationerna om vilka som är de bästa handlingarna. När man känner sig osäker bör man be istikhārah som den har föreskrivits i den islamiska lagen. Den som ber till Allāh och frågar vad som är bäst, istikhārah, kommer inte att känna någon ånger. Denne bör göra det ofta och åkalla mycket, för det är nyckeln till det goda. Denne bör ha tålamod och inte säga: ”Jag bad men jag fick inget svar.” Denne bör söka efter speciellt välsignade tider såsom slutet av natten, direkt efter den föreskrivna bönen, under böneutropet och när det regnar.
 
 [^1]: Dhikr
 [^2]: Någon som enbart vallfärdar.
-[^3]: Rättslära.
 

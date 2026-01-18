@@ -15,11 +15,11 @@ description: >-
   det vill säga att göra något t...
 ---
 
-**Fråga:** Hur definieras *tawhīd*[^1] och vilka olika typer finns det?
+**Fråga:** Hur definieras *tawhīd* och vilka olika typer finns det?
 
-**Svar:** Språkligt sett är *tawhīd*[^1] infinitiv av verbet *wahhada* [dåtid] [och *yuwahhidu* [nutid]], det vill säga att göra något till ett. Detta uppnås inte utom genom att negera och bekräfta: Negerande av denna regel [om *tawhīd*[^1]] för allting utom det som kungörs vara ett [det vill säga Gud den ende], och bekräftelse av det för denna sak.
+**Svar:** Språkligt sett är *tawhīd* infinitiv av verbet *wahhada* [dåtid] [och *yuwahhidu* [nutid]], det vill säga att göra något till ett. Detta uppnås inte utom genom att negera och bekräfta: Negerande av denna regel [om *tawhīd*] för allting utom det som kungörs vara ett [det vill säga Gud den ende], och bekräftelse av det för denna sak.
 
-Således säger vi: Man uppnår inte *tawhīd*[^1] före man:
+Således säger vi: Man uppnår inte *tawhīd* före man:
 
 1. Vittnar om att ingen är värdig att dyrka utom Allāh,
 2. avvisar andras rätt att dyrkas vid sidan av Honom den Allsmäktige och
@@ -27,15 +27,15 @@ Således säger vi: Man uppnår inte *tawhīd*[^1] före man:
 
 Säger du exempelvis: ”En viss person står”, då har du bekräftat att denne står men du har inte sagt att denne är den ende som står. Det skulle du ha gjort om du hade sagt: ”Det finns ingen som står utom Zaid.” Då förklarar du att Zaid är den ende som står, för du nekar ju att något står vid hans sida.
 
-Detta är att uppnå sann *tawhīd*[^1], vilket innebär att vi säger att *tawhīd*[^1] inte är *tawhīd*[^1] om den inte inkluderar både förnekelse och bekräftelse.
+Detta är att uppnå sann *tawhīd*, vilket innebär att vi säger att *tawhīd* inte är *tawhīd* om den inte inkluderar både förnekelse och bekräftelse.
 
-Kategorierna av *tawhīd*[^1] i fråga om Allāh den Allsmäktige inkluderas alla i den allmänna definitionen. Denna definition avser det som är unikt för Honom den Allsmäktige. De lärde har här nämnt tre kategorier:
+Kategorierna av *tawhīd* i fråga om Allāh den Allsmäktige inkluderas alla i den allmänna definitionen. Denna definition avser det som är unikt för Honom den Allsmäktige. De lärde har här nämnt tre kategorier:
 
 1. *Tawhīd[^1] ar-rububiyyah*[^2]
 2. *Tawhīd[^1] al-uluhiyyah*[^3]
 3. *Tawhīd[^1] as-asmā’ was-sifāt’*[^4]
 
-De lärde har kommit fram till detta genom studier av *ahādīth*[^5] och Koran-verser. De har funnit att *tawhīd*[^1] inte hamnar utanför dessa tre kategorier. Därför har de gjort denna indelning.
+De lärde har kommit fram till detta genom studier av *ahādīth* och Koran-verser. De har funnit att *tawhīd* inte hamnar utanför dessa tre kategorier. Därför har de gjort denna indelning.
 
 *Tawhīd[^1] ar-rububiyyah*[^2] innebär att man bekräftar Allāhs den Härliges, den Upphöjdes enhet i skapelse, herravälde och organisation [av vad som sker i detta universum]. Den detaljerade förklaringen är följande:
 
@@ -101,21 +101,21 @@ Därmed blir det uppenbart att det är rätt och riktigt när vi säger att *taw
 
 *Tawhīd[^1] al-uluhiyyah*[^3] innebär att man bekräftar Allāhs den Välsignades, den Upphöjdes enhet i sådant som rör dyrkan. Detta innebär att man inte får dyrka eller försöka att komma närmare någon annan än Allāh på det vis som man dyrkar eller försöker att komma närmare Honom den Upphöjde.
 
-Det var i denna kategori av *tawhīd*[^1] som månggudadyrkarna gick vilse och det var dessa som profeten – över honom vare Allāhs frid och välsignelser – stred mot. Deras liv var tillåtna för honom och han fick ta deras egendomar, jordytor och hem. Likaså fick han tillfångata deras kvinnor och barn. Detta [*tawhīd[^1] al-uluhiyyah*[^3]] är vad alla sändebud har sänts med och vad som har uppenbarats i alla Skrifter tillsammans med de andra båda formerna som är *tawhīd[^1] ar-rububiyyah*[^2] och *tawhīd[^1] as-asmā' was-sifāt'*[^4]. I de flesta fall var sändebuden sysselsatta med att reformera deras folk i denna form av *tawhīd*[^1] – *tawhīd[^1] al-uluhiyyah*[^3]. Detta beror på att människan inte får rikta [sin] dyrkan mot någon annan än Allāh som mot en ängel nära Honom, ett sändebud som Han har sänt, mot en rättfärdig *walī* eller mot något annat skapat. Dyrkan är enbart giltig om den är för Allāh den Allsmäktige. Den som bryter mot denna *tawhīd*[^1] är en månggudadyrkare[^6]. Denne är en icke-troende även om denne bekräftar *tawhīd[^1] ar-rububiyyah*[^2] och *tawhīd[^1] as-asmā' was-sifāt'*[^4].
+Det var i denna kategori av *tawhīd* som månggudadyrkarna gick vilse och det var dessa som profeten – över honom vare Allāhs frid och välsignelser – stred mot. Deras liv var tillåtna för honom och han fick ta deras egendomar, jordytor och hem. Likaså fick han tillfångata deras kvinnor och barn. Detta [*tawhīd[^1] al-uluhiyyah*[^3]] är vad alla sändebud har sänts med och vad som har uppenbarats i alla Skrifter tillsammans med de andra båda formerna som är *tawhīd[^1] ar-rububiyyah*[^2] och *tawhīd[^1] as-asmā' was-sifāt'*[^4]. I de flesta fall var sändebuden sysselsatta med att reformera deras folk i denna form av *tawhīd* – *tawhīd[^1] al-uluhiyyah*[^3]. Detta beror på att människan inte får rikta [sin] dyrkan mot någon annan än Allāh som mot en ängel nära Honom, ett sändebud som Han har sänt, mot en rättfärdig *walī* eller mot något annat skapat. Dyrkan är enbart giltig om den är för Allāh den Allsmäktige. Den som bryter mot denna *tawhīd* är en månggudadyrkare[^5]. Denne är en icke-troende även om denne bekräftar *tawhīd[^1] ar-rububiyyah*[^2] och *tawhīd[^1] as-asmā' was-sifāt'*[^4].
 
 Tror man således på att Allāh är Skaparen, den ende Ägaren och Den som styr skapelsens ordning samt att Han ensam har rätten till Sina namn och egenskaper men man dyrkar någon annan jämsides Honom, då är ens bekräftelse av *tawhīd[^1] ar-rububiyyah*[^2] och *as-asmā’ was-sifāt’*[^4] inte till någon nytta.
 
-Låt oss anta att någon bekräftar tron på *tawhīd[^1] ar-rububiyyah*[^2] och *tawhīd[^1] as-asmā' was-sifāt'*[^4] men går till en grav och dyrkar den som ligger begravd i den eller svär en ed vid den begravde för att komma närmare denne, då är han en månggudadyrkare[^6] och icke-troende. Förhåller det sig så är hans vistelse för evigt i Helvetet. Allāh den Välsignades, den Upphöjdes säger:
+Låt oss anta att någon bekräftar tron på *tawhīd[^1] ar-rububiyyah*[^2] och *tawhīd[^1] as-asmā' was-sifāt'*[^4] men går till en grav och dyrkar den som ligger begravd i den eller svär en ed vid den begravde för att komma närmare denne, då är han en månggudadyrkare[^5] och icke-troende. Förhåller det sig så är hans vistelse för evigt i Helvetet. Allāh den Välsignades, den Upphöjdes säger:
 
 > ”Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden ska bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [Koranen 5:72]
 
-Det är välkänt för alla som läser Allāhs den Allsmäktiges skrift att de månggudadyrkare[^6] som profeten – över honom vare Allāhs frid och välsignelser – stred mot – vars blod och egendomar han tillät, samt vars kvinnor och barn han tillät som slavar och vars får han tillät förskansande av från deras jordar – brukade bekräfta att enbart Allāh är Herren och Skaparen. De hade inga tvivel om detta men då de dyrkade andra jämsides med Honom blev de månggudadyrkare[^6] vars blod var tillåtet att spilla och vars egendom var tillåten att ta.
+Det är välkänt för alla som läser Allāhs den Allsmäktiges skrift att de månggudadyrkare[^5] som profeten – över honom vare Allāhs frid och välsignelser – stred mot – vars blod och egendomar han tillät, samt vars kvinnor och barn han tillät som slavar och vars får han tillät förskansande av från deras jordar – brukade bekräfta att enbart Allāh är Herren och Skaparen. De hade inga tvivel om detta men då de dyrkade andra jämsides med Honom blev de månggudadyrkare[^5] vars blod var tillåtet att spilla och vars egendom var tillåten att ta.
 
 *Tawhīd[^1] as-asmā' was-sifāt'*[^4] innebär att man bekräftar enheten i de namn som Allāh har använt om sig Själv och de egenskaper som Han har beskrivit sig Själv med i Sin skrift eller genom Sitt sändebuds tunga [vad profeten – över honom vare Allāhs frid och välsignelser – har sagt]. Detta innebär att man bekräftar vad Allāh har bekräftat men utan att förvrida, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen].
 
 Därmed är det viktigt att tro på de namn som Allāh Själv har använt och de egenskaper som han har beskrivit sig Själv med. Man gör detta utan allogier, utan att försöka förklara hur och utan att dra sig till jämförelser.
 
-Det är i denna form av *tawhīd*[^1] som grupper i det muslimska samfundet, som påstår sig ha lojalitet till islam, på flera sätt har gått vilse. Här finns de som har överdrivit i sitt förnekande av *tanzih* på ett sätt som tar dem ur islam. Några är måttfulla och nära *ahlus-sunnah*[^7]. Men enligt *salaf*[^8]s förståelse innebär denna form av *tawhīd*[^1] att man namnger Allāh med de namn som Han har namngivit sig Själv med och att man beskriver Honom som Han beskrivit sig Själv. Man gör det på det rätta sättet utan att förvrida innebörden, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen].
+Det är i denna form av *tawhīd* som grupper i det muslimska samfundet, som påstår sig ha lojalitet till islam, på flera sätt har gått vilse. Här finns de som har överdrivit i sitt förnekande av *tanzih* på ett sätt som tar dem ur islam. Några är måttfulla och nära *ahlus-sunnah*. Men enligt *salaf*s förståelse innebär denna form av *tawhīd* att man namnger Allāh med de namn som Han har namngivit sig Själv med och att man beskriver Honom som Han beskrivit sig Själv. Man gör det på det rätta sättet utan att förvrida innebörden, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen].
 
 Ett exempel på detta är att Allāh den Härlige, den Upphöjde har beskrivit sig Själv som al-Hayy [Den som lever och aldrig dör], al-Qayyun [Den som försörjer och skyddar]. Därmed måste vi tro att al-Hayy är ett av Allāhs den Upphöjdes namn och vi måste tro på vad som förstås genom detta namn. Det som förstås är egenskapen ”fullständigt liv” som inte har föregåtts av tomrum och som inte efterföljs av ett försvinnande.
 
@@ -133,9 +133,9 @@ Och här säger Allāh:
 
 > "Befatta dig inte med det som du inte riktigt vet; ditt öra och ditt öga och ditt hjärta ska [alla en Dag] tillfrågas om detta." [Koranen 17:36]
 
-Den som då jämför dessa båda händer med de skapade varelsernas händer har motsatt sig Allāhs den Upphöjdes ord: ”*Ingenting är som Han*.” [^9] Denne har inte lytt Allāhs den Upphöjdes ord: ”*Och gör inte Gud till föremål för jämförelser!*” [^10] Den som beskriver dem och säger att de är på ett visst sätt, på vilket sätt det än må vara, har sagt något om Allāh som denne inte har någon kunskap om.
+Den som då jämför dessa båda händer med de skapade varelsernas händer har motsatt sig Allāhs den Upphöjdes ord: ”*Ingenting är som Han*.” [^6] Denne har inte lytt Allāhs den Upphöjdes ord: ”*Och gör inte Gud till föremål för jämförelser!*” [^7] Den som beskriver dem och säger att de är på ett visst sätt, på vilket sätt det än må vara, har sagt något om Allāh som denne inte har någon kunskap om.
 
-Vi lägger fram ytterligare ett exempel om egenskaperna. Detta exempel rör Allāhs *istawa* över Hans tron. Allāh den Upphöjdes har bekräftat att Han har rest sig över tronen. Detta gör Han på sju platser i Koranen och alla gånger använder Han ordet ”*istawa*” och orden ”över tronen”. Går vi till det arabiska språket ser vi att när *istawa* nämns med *'ala* förstås enbart resning och upphöjelse. Innebörden av Hans den Upphöjdes ord: ”*Den Nåderike har rest Sig över Tronen*.” [^11] och liknande är att Han har rest sig över Sin tron på ett visst sätt – olik vanlig upphöjelse – över hela skapelsen. Denna upphöjelse har bekräftats för Allāh den Upphöjde och Han befinner Sig ovan Sin tron på ett sätt som passar Honom.
+Vi lägger fram ytterligare ett exempel om egenskaperna. Detta exempel rör Allāhs *istawa* över Hans tron. Allāh den Upphöjdes har bekräftat att Han har rest sig över tronen. Detta gör Han på sju platser i Koranen och alla gånger använder Han ordet ”*istawa*” och orden ”över tronen”. Går vi till det arabiska språket ser vi att när *istawa* nämns med *'ala* förstås enbart resning och upphöjelse. Innebörden av Hans den Upphöjdes ord: ”*Den Nåderike har rest Sig över Tronen*.” [^8] och liknande är att Han har rest sig över Sin tron på ett visst sätt – olik vanlig upphöjelse – över hela skapelsen. Denna upphöjelse har bekräftats för Allāh den Upphöjde och Han befinner Sig ovan Sin tron på ett sätt som passar Honom.
 
 Detta liknar inte hur en människa reser sig upp från sin säng, hur hon stiger upp på ett djur eller hur hon går ombord på ett fartyg. Allāh har nämnt detta när Han sagt:
 
@@ -143,36 +143,33 @@ Detta liknar inte hur en människa reser sig upp från sin säng, hur hon stiger
 
 De skapade varelsernas *istawa* kan därmed inte liknas vid Allāhs *istawa* över Hans tron. Det finns ju inget likt Allāh.
 
-De som har sagt att innebörden av ”*Istawa över Tronen*.” [^12] är *istawla* över tronen har mycket fel. Detta är en förvrängning av Hans ord från deras rätta innebörd och det motsäger sig även vad profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – och de som troget efterföljde dem var eniga om. Därutöver nödvändiggör ett sådant påstående idéer som är falska och en troende kan inte säga något om Allāh som grundas på ett felaktigt antagande. Den ädla Koranen har utan tvivel uppenbarats på det arabiska språket. Allāh den Härlige, den Upphöjde har ju sagt:
+De som har sagt att innebörden av ”*Istawa över Tronen*.” [^9] är *istawla* över tronen har mycket fel. Detta är en förvrängning av Hans ord från deras rätta innebörd och det motsäger sig även vad profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – och de som troget efterföljde dem var eniga om. Därutöver nödvändiggör ett sådant påstående idéer som är falska och en troende kan inte säga något om Allāh som grundas på ett felaktigt antagande. Den ädla Koranen har utan tvivel uppenbarats på det arabiska språket. Allāh den Härlige, den Upphöjde har ju sagt:
 
 > ”Vi har utformat den som en förkunnelse på det arabiska språket för att ni helt och fullt ska förstå [dess budskap].” [Koranen 43:3]
 
 *Istawa* över något nödvändiggör på det arabiska språket innebörden ”reste och upprättade över”; innebörden stämmer sannerligen överens med orden. Betydelsen av *istawa* över tronen är då att Han reste Sig över den på ett speciellt sätt passande Hans allmakt och storhet. Om *istawa* förklaras med betydelsen *istawla* skulle det förvränga ordets innebörd och ändra betydelsen, som är resning och som bevisas genom Koranens språk. Koranen bekräftar även att alla andra innebörder är ogiltiga.
 
-*Salaf*[^8] – må Allāh vara nöjda med dem – och de som troget följde dem är eniga om denna innebörd. Inte en enda stavelse har nått oss från dem som motsäger sig denna betydelse. När en formulering har rapporterats i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^7] och ingen förklaring som motsäger sig den uppenbara innebörden har rapporterats från *salaf*[^8], då är den grundläggande principen att de lät den [formuleringen] vara med dess uppenbara mening och att de trodde på vad den bevisar.
+*Salaf* – må Allāh vara nöjda med dem – och de som troget följde dem är eniga om denna innebörd. Inte en enda stavelse har nått oss från dem som motsäger sig denna betydelse. När en formulering har rapporterats i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och ingen förklaring som motsäger sig den uppenbara innebörden har rapporterats från *salaf*, då är den grundläggande principen att de lät den [formuleringen] vara med dess uppenbara mening och att de trodde på vad den bevisar.
 
-Om någon säger: Har något tydligt rapporterats från *salaf*[^8] – må Allāh vara nöjda med dem – som visar att de har förklarat att *istawa* betyder resning? Då säger vi: Ja, det har rapporterats från *salaf*[^8] – må Allāh vara nöjda med dem – men även om vi antar att inga tydliga uttalanden hade rapporterats från dem är den grundläggande principen den som bevisas genom formuleringen i den ädla Koranen och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^7], att det som gäller är innebörden som det arabiska språket fordrar. Därmed kommer *salaf*[^8]s bekräftelse att vara i överensstämmelse med denna innebörd.
+Om någon säger: Har något tydligt rapporterats från *salaf* – må Allāh vara nöjda med dem – som visar att de har förklarat att *istawa* betyder resning? Då säger vi: Ja, det har rapporterats från *salaf* – må Allāh vara nöjda med dem – men även om vi antar att inga tydliga uttalanden hade rapporterats från dem är den grundläggande principen den som bevisas genom formuleringen i den ädla Koranen och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*, att det som gäller är innebörden som det arabiska språket fordrar. Därmed kommer *salaf*s bekräftelse att vara i överensstämmelse med denna innebörd.
 
 Falska antaganden som blir nödvändiga om man menar att *istawa* betyder *istawla* är:
 
-1. Att tronen innan skapelsen av himlarna och jorden inte var i Allāhs besittning. Allāh den Upphöjde säger ju: ”*Sannerligen är Allāh er Herre, som har skapat himlarna och jorden på sex dagar, sedan reste Han sig över Tronen*.” [^13] Enligt denna åsikt skulle inte Allāh ha ägt tronen innan skapelsen av himlarna och jorden, och inte heller vid den tidpunkt då himlarna och jorden skapades.
+1. Att tronen innan skapelsen av himlarna och jorden inte var i Allāhs besittning. Allāh den Upphöjde säger ju: ”*Sannerligen är Allāh er Herre, som har skapat himlarna och jorden på sex dagar, sedan reste Han sig över Tronen*.” [^10] Enligt denna åsikt skulle inte Allāh ha ägt tronen innan skapelsen av himlarna och jorden, och inte heller vid den tidpunkt då himlarna och jorden skapades.
 2. Att tolkningen av vad vi säger är korrekt, att Allāh reste Sig över jorden och att Han reste Sig över något annat i Hans skapelser [i stället för tronen] och detta är utan tvekan en falsk betydelse som inte passar Allāh den Allsmäktige.
 3. Att det är en förvrängning av ordets innebörd.
-4. Att det motsäger sig vad de rättfärdiga *salaf*[^8] – må Allāh vara nöjda med dem – var eniga om.
+4. Att det motsäger sig vad de rättfärdiga *salaf* – må Allāh vara nöjda med dem – var eniga om.
 
-För att summera denna form av *tawhīd*[^1] – *tawhīd[^1] as-asmā’ was-sifāt’*[^4] – är det skyldighet att vi bekräftar Allāhs namn och egenskaper på samma sätt som Han eller Hans sändebud bekräftat dem. Vi gör det utan att förvrida innebörden, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen].
+För att summera denna form av *tawhīd* – *tawhīd[^1] as-asmā’ was-sifāt’*[^4] – är det skyldighet att vi bekräftar Allāhs namn och egenskaper på samma sätt som Han eller Hans sändebud bekräftat dem. Vi gör det utan att förvrida innebörden, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen].
 
 [^1]: Tron på att det bara finns en Gud.
 [^2]: Enheten i Allāhs herravälde.
 [^3]: Att särskilja Allāh i dyrkan.
 [^4]: Tron på Allāhs unika namn och egenskaper.
-[^5]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^6]: Mushrik.
-[^7]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
-[^8]: De tre första generationerna i islam.
+[^5]: Mushrik.
 
-[^9]: Koranen 42:11
-[^10]: Koranen 16:74
-[^11]: Koranen 20:5
-[^12]: Koranen 7:54
-[^13]: Koranen 7:54
+[^6]: Koranen 42:11
+[^7]: Koranen 16:74
+[^8]: Koranen 20:5
+[^9]: Koranen 7:54
+[^10]: Koranen 7:54

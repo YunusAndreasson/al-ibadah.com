@@ -1,24 +1,27 @@
 ---
-title: Bön i en moské som innehåller en grav och profetens – över honom vare Allāhs
- frid och välsignelser – grav i moskén
+title: >-
+  Bön i en moské som innehåller en grav och profetens – över honom vare Allāhs
+  frid och välsignelser – grav i moskén
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
- Libanon: Maktaba Dar us-Salam. 54 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Libanon: Maktaba Dar us-Salam. 54 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
 original_id: 43
-description: 'Fråga: Jag har frågor om det är tillåtet att be i en moské som innehåller
- en grav. Några lärde säger att det inte är tillåtet att be i dem. De säger att
- om det inte finns någon annan moské i sta...'
+description: >-
+  Fråga: Jag har frågor om det är tillåtet att be i en moské som innehåller en
+  grav. Några lärde säger att det inte är tillåtet att be i dem. De säger att om
+  det inte finns någon annan moské i sta...
 ---
 
 **Fråga:** Jag har frågor om det är tillåtet att be i en moské som innehåller en grav.
 
 Några lärde säger att det inte är tillåtet att be i dem. De säger att om det inte finns någon annan moské i staden, då ska du be i ditt hem, vilket är bättre när det kommer till belöningar.
 
-Andra säger att det är tillåtet att be i dem då sändebudets och hans båda följeslagares [Abū Bakr och ´Umar] gravar finns i hans moské. Jag har inget bevis för endera åsikten. Då jag bor på landet i Senegal skickar jag detta brev till dig för att få reda på sanningen och bevisen. I vår stad har vi en moské som det finns fyra gravar i. Tre ligger längs med väggen – exakt i riktning mot *qiblah*[^1]. Den fjärde finns inuti moskén.
+Andra säger att det är tillåtet att be i dem då sändebudets och hans båda följeslagares [Abū Bakr och ´Umar] gravar finns i hans moské. Jag har inget bevis för endera åsikten. Då jag bor på landet i Senegal skickar jag detta brev till dig för att få reda på sanningen och bevisen. I vår stad har vi en moské som det finns fyra gravar i. Tre ligger längs med väggen – exakt i riktning mot *qiblah*. Den fjärde finns inuti moskén.
 
 **Svar:** Det är inte tillåtet att bygga moskéer över gravar, ej heller är det tillåtet att be i sådana moskéer.
 
@@ -32,7 +35,7 @@ Jundub bin ´Abdullāh har sagt:
 
 Profeten – över honom vare Allāhs frid och välsignelser – förbjöd att moskéer byggs över gravar och han förbannade dem som gör så. Detta visar att det är en stor synd att bygga moskéer över gravar. Må Allāh skydda oss från det. Därför säger ‘Ā’ishāh – må Allāh vara nöjd med henne – i den ovan nämnda *hadithen*: ”*Hade det inte varit för detta, då hade han beordrat att hans grav skulle resas över marken, men han var rädd för att den skulle omvandlas till en moské*.”
 
-Om en moské har byggts på en eller flera gravar måste den rivas. Den är ju byggd på annat än vad Allāh har tillåtit. Att behålla en sådan moské och att be i den är att fortsätta på synden som upprättandet av den utgjorde samt en överdrift i religionen i att upphöja den som graven har byggts för. Detta skulle vara att främja *shirk*[^2]. Må Allāh skydda oss. Allāh den Upphöjde har sagt:
+Om en moské har byggts på en eller flera gravar måste den rivas. Den är ju byggd på annat än vad Allāh har tillåtit. Att behålla en sådan moské och att be i den är att fortsätta på synden som upprättandet av den utgjorde samt en överdrift i religionen i att upphöja den som graven har byggts för. Detta skulle vara att främja *shirk*. Må Allāh skydda oss. Allāh den Upphöjde har sagt:
 
 > ”Efterföljare av tidigare uppenbarelser! Gå inte till överdrift i [utövningen av] er religion.” [Koranen 4:171]
 
@@ -50,6 +53,4 @@ Du bör inte be de obligatoriska bönerna hemma. I stället bör du be med dina 
 
 Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muḥammad samt göra honom, hans hushåll och följeslagare säkra från ont.
 
-[^1]: Riktningen mot Kabah i Mecka som bönen utförs mot.
-[^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

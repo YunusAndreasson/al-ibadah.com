@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om att svära vid profeten, Ka’bah, adlighet, ett avtal eller sitt ord?
 
-**Svar:** Det är inte tillåtet att svära vid profeten – över honom vare Allāhs frid och välsignelser – sannerligen är det en sorts *shirk*[^1]. Att svära vid Ka’bah är heller inte tillåtet och även det är en sorts *shirk*[^1]. Detta beror på att både profeten – över honom vare Allāhs frid och välsignelser – och Ka’bah är skapade och att svära vid något skapat är en sorts *shirk*[^1].
+**Svar:** Det är inte tillåtet att svära vid profeten – över honom vare Allāhs frid och välsignelser – sannerligen är det en sorts *shirk*. Att svära vid Ka’bah är heller inte tillåtet och även det är en sorts *shirk*. Detta beror på att både profeten – över honom vare Allāhs frid och välsignelser – och Ka’bah är skapade och att svära vid något skapat är en sorts *shirk*.
 
 Svär man vid adlighet eller ett avtal är det heller inte tillåtet: ”*Den som svor vid något annat än Allāh har handlat med otro eller shirk*[^1].” [^2] Han har även sagt: ”*Svär inte vid era färder. Den som svär, låt denne svära vid Allāh eller vara tyst*.” [^3] […]
 

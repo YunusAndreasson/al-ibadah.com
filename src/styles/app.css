@@ -571,3 +571,44 @@ body {
   transform: scale(0.97);
 }
 
+/* Glossary terms - hover tooltips for Arabic terminology */
+.prose-reading em.glossary-term {
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: var(--color-muted-foreground);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  cursor: help;
+  font-style: italic;
+}
+
+/* Tooltip on hover - desktop only */
+@media (hover: hover) {
+  .prose-reading em.glossary-term {
+    position: relative;
+  }
+
+  .prose-reading em.glossary-term:hover::after {
+    content: attr(data-definition);
+    position: absolute;
+    bottom: 100%;
+    left: 0;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem 0.75rem;
+    max-width: min(280px, 80vw);
+    width: max-content;
+    font-family: var(--font-sans);
+    font-size: 0.8125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    color: var(--color-foreground);
+    background-color: var(--color-background);
+    border: 1px solid var(--color-border);
+    border-radius: 0.375rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    white-space: normal;
+    z-index: 10;
+  }
+}
+

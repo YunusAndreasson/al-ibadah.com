@@ -26,13 +26,12 @@ När profeten – över honom vare Allāhs frid och välsignelser – bröt fast
 > ”*Thahabath-thama'u wabtallatil-'urūqu wa thabatal-arju Inshā'-Allāh*”
 > [Törsten är borta, arterit är fuktiga och belöningen är säker, om Allāh vill.] [*Abū Dawūd* 2357]
 
-Även om det kan finnas svagheter i dessa båda *ahādīth*[^2] har vissa lärde förklarat att de är *hasan*.
+Även om det kan finnas svagheter i dessa båda *ahādīth* har vissa lärde förklarat att de är *hasan*.
 
 Om du har åkallat med dessa eller några andra ord som har nått ditt hjärta när du bröt fastan, då har de med största sannolikhet besvarats.
 
-Att svara böneutroparen när man bryter fastan är tillåtet. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om du hör böneutroparen, säg då vad denne säger*.” [^3] Detta gäller under alla omständigheter så länge det inte finns bevis för något annat.
+Att svara böneutroparen när man bryter fastan är tillåtet. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om du hör böneutroparen, säg då vad denne säger*.” [^2] Detta gäller under alla omständigheter så länge det inte finns bevis för något annat.
 
 [^1]: Du´ā
-[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
-[^3]: *al-Bukhārī* 611 och *Muslim* 384
+[^2]: *al-Bukhārī* 611 och *Muslim* 384

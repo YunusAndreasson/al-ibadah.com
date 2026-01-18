@@ -6,14 +6,14 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1379
-description: 'Fråga: Om man klipper håret eller naglarna under ramadan – bryter det
- då fastan? Svar: Att klippa håret och naglarna samt att plocka bort håret under
- armarna eller könsområdet – bryter inte fa...'
+description: >-
+  Fråga: Om man klipper håret eller naglarna under ramadan – bryter det då
+  fastan? Svar: Att klippa håret och naglarna samt att plocka bort håret under
+  armarna eller könsområdet – bryter inte fa...
 ---
 
-**Fråga:** Om man klipper håret eller naglarna under *ramadan*[^1] – bryter det då fastan?
+**Fråga:** Om man klipper håret eller naglarna under *ramadan* – bryter det då fastan?
 
 **Svar:** Att klippa håret och naglarna samt att plocka bort håret under armarna eller könsområdet – bryter inte fastan.
 
-[^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

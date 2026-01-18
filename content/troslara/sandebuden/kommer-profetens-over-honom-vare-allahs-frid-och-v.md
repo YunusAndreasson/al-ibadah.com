@@ -1,14 +1,18 @@
 ---
 title: Kommer profetens ljus från Allāhs Ljus?
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
- Libanon: Maktaba Dar us-Salam. 286 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Libanon: Maktaba Dar us-Salam. 286 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 124
-description: 'Fråga: Kom profetens – över honom vare Allāhs frid och välsignelser – ljus från Allāhs ljus eller kom det från något annat ljus? Svar: profetens – över honom vare Allāhs frid och välsignelser ...'
+description: >-
+  Fråga: Kom profetens – över honom vare Allāhs frid och välsignelser – ljus
+  från Allāhs ljus eller kom det från något annat ljus? Svar: profetens – över
+  honom vare Allāhs frid och välsignelser ...
 ---
 
 **Fråga:** Kom profetens – över honom vare Allāhs frid och välsignelser – ljus från Allāhs ljus eller kom det från något annat ljus?
@@ -19,9 +23,8 @@ description: 'Fråga: Kom profetens – över honom vare Allāhs frid och välsi
 
 Men detta ljus är inte en del av profetskapets sigill vilket somliga panteister påstår, för han var av blod, kött och ben.
 
-Han skapades från en fader och moder, och han skapades inte före sin födsel. När de gäller de *ahādīth*[^1] som påstår att Allāh skapade profeten Muḥammads ljus, eller att Allāh fyllde Sin hand med Sitt anletes ljus och att denna handfull ljus var Muḥammad, eller att Han tittade på det och det blev droppar av ljus, där varje droppe sedan blev en profet, eller att Han skapade hela skapelsen från Sitt ljus – dessa och liknande *ahādīth*[^1] kan inte sägas komma från profeten.
+Han skapades från en fader och moder, och han skapades inte före sin födsel. När de gäller de *ahādīth* som påstår att Allāh skapade profeten Muḥammads ljus, eller att Allāh fyllde Sin hand med Sitt anletes ljus och att denna handfull ljus var Muḥammad, eller att Han tittade på det och det blev droppar av ljus, där varje droppe sedan blev en profet, eller att Han skapade hela skapelsen från Sitt ljus – dessa och liknande *ahādīth* kan inte sägas komma från profeten.
 
 Må frid och välsignelser vara över vår mästare Muḥammad, över hans familj och följeslagare.
 
-[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

@@ -16,8 +16,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om att bära en guldring som vanligtvis brukar kallas för vigselring?
 
-**Svar:** Män får inte bära guldringar, varken före eller efter de gift sig. Detta beror på att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i autentisk *hadīth*[^1] förbjudit att de bärs. Och när han såg en guldring på en mans hand tog han bort den och begravde den i jorden. Han sade: ”En av er tar ett glödande kolstycke ur Elden och sätter den på sin hand!” [^2] Detta visar på att det är absolut förbjudet för män att bära ringar av guld även om det är en vigselring.
+**Svar:** Män får inte bära guldringar, varken före eller efter de gift sig. Detta beror på att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i autentisk *hadīth* förbjudit att de bärs. Och när han såg en guldring på en mans hand tog han bort den och begravde den i jorden. Han sade: ”En av er tar ett glödande kolstycke ur Elden och sätter den på sin hand!” [^1] Detta visar på att det är absolut förbjudet för män att bära ringar av guld även om det är en vigselring.
 
-[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
-[^2]: *Muslim* 2090
+[^1]: *Muslim* 2090

@@ -14,11 +14,11 @@ description: >-
   stående, som en kamelsadel eller nå...
 ---
 
-**Fråga:** Är en mattkant en *sutrah*[^1]?
+**Fråga:** Är en mattkant en *sutrah*?
 
-**Svar:** Mattans kanter anses inte vara en *sutrah*[^1] för Allāhs tjänare. Det som är *sunnah*[^2] för *sutrah*[^1] är att den är något stående, som en kamelsadel eller något större som en vägg, pelare eller stol. Hittar man inte något sådant, då sätter man en stav eller något liknande i marken framför sig. Det spelar ingen roll om man är imam eller en ensam bedjande. Är man någonstans där man inte kan hitta en *sutrah*[^1] så drar man ett sträck.
+**Svar:** Mattans kanter anses inte vara en *sutrah* för Allāhs tjänare. Det som är *sunnah* för *sutrah* är att den är något stående, som en kamelsadel eller något större som en vägg, pelare eller stol. Hittar man inte något sådant, då sätter man en stav eller något liknande i marken framför sig. Det spelar ingen roll om man är imam eller en ensam bedjande. Är man någonstans där man inte kan hitta en *sutrah* så drar man ett sträck.
 
-Detta baseras på profetens – över honom vare Allāhs frid och välsignelser – ord: ”*När någon ber, då bör han be mot en sutrah[^1] och stå nära den*.” [^3] Han har även sagt:
+Detta baseras på profetens – över honom vare Allāhs frid och välsignelser – ord: ”*När någon ber, då bör han be mot en sutrah[^1] och stå nära den*.” [^2] Han har även sagt:
 
 > ”En muslimsk mans bön bryts av en kvinna, en åsna och en svart hund om han inte har något som en kamelsadel framför sig.” [*Muslim* 510, *Abū Dawūd* 702 och *Ahmad* 1:247, 347]
 
@@ -33,6 +33,5 @@ I*Bulugh al-Maram* Ibn Hajar har sagt:
 Och Allāh är Beviljaren av framgång.
 
 [^1]: Ett objekt i form av exempelvis en pinne, stav eller vägg. Skall vara minst en fot hög. Agerar symbolisk skiljelinje mellan den bedjande och de som passerar framför.
-[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 
-[^3]: *Abū Dawūd* 698
+[^2]: *Abū Dawūd* 698

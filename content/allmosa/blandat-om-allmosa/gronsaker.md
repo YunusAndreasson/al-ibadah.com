@@ -16,8 +16,7 @@ description: >-
 
 **Fråga:** Är det en skyldighet att betala allmosa för grönsaker som tomater, potatis, lök och liknande?
 
-**Svar:** Allmosa är en skyldighet för korn och all frukt som vägs och förvars. Grönsaker krävs det ingen allmosa för. Detta beror på vad profeten – över honom vare Allāhs frid och välsignelser – säger i en *hadīth*[^1] som ´Alī har rapporterat och som ad-Daraqutni har återgivit: ”*Det finns ingen allmosa för grönsaker*.” [^2]
+**Svar:** Allmosa är en skyldighet för korn och all frukt som vägs och förvars. Grönsaker krävs det ingen allmosa för. Detta beror på vad profeten – över honom vare Allāhs frid och välsignelser – säger i en *hadīth* som ´Alī har rapporterat och som ad-Daraqutni har återgivit: ”*Det finns ingen allmosa för grönsaker*.” [^1]
 
-[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
-[^2]: *ad-Daraqutni* 1890
+[^1]: *ad-Daraqutni* 1890

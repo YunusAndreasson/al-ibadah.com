@@ -1,16 +1,18 @@
 ---
 title: Skyldigheter under vallfärden
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
- Libanon: Maktaba Dar us-Salam. 37 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Libanon: Maktaba Dar us-Salam. 37 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Vallfärd (Hajj)
   - Övrigt
 original_id: 703
-description: 'Fråga: Vilka skyldigheter har en muslim när denne utför den obligatoriska
- vallfärden? Är det tillåtet att sysselsätta sig med saker som inte har med att tjäna
- Allāh att göra? Svar: Denne måste...'
+description: >-
+  Fråga: Vilka skyldigheter har en muslim när denne utför den obligatoriska
+  vallfärden? Är det tillåtet att sysselsätta sig med saker som inte har med att
+  tjäna Allāh att göra? Svar: Denne måste...
 ---
 
 **Fråga:** Vilka skyldigheter har en muslim när denne utför den obligatoriska vallfärden? Är det tillåtet att sysselsätta sig med saker som inte har med att tjäna Allāh att göra?
@@ -23,7 +25,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Den som vallfärdar och inte har intim samvaro [med sin fru] eller begår synder, denne kommer att återvända [efter vallfärden] som denne var den dag som dennes mor födde denne [utan synd].” [*al-Bukhārī* 1521 och *Muslim* 1350]
 
-Ordet "*rafth*" avser att ha intim samvaro under *ihrām*[^1] samt sådant som kan leda till det i form av tal och handling. Ordet "*fusuq*" avser alla olydiga handlingar.
+Ordet "*rafth*" avser att ha intim samvaro under *ihrām* samt sådant som kan leda till det i form av tal och handling. Ordet "*fusuq*" avser alla olydiga handlingar.
 
 Detta beror också på att muslimer, vid alla tidpunkter och på alla platser, är skyldiga att frukta Allāh och att noga iaktta det som Allāh har gjort obligatoriskt samt undvika det som Han har förbjudit. Om en muslim då befinner sig i Allāhs heliga land och utför vallfärdsriterna, då är denna skyldighet ännu viktigare och strängare. Dennes synd, i att göra det som Allāh har förbjudit, är än större och allvarligare.
 
@@ -35,5 +37,4 @@ Ibn ‘Abbās med flera har förklarat denna vers när de sagt: ”*Detta avser 
 
 Och Allāh är Givaren av framgång.
 
-[^1]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 

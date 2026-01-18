@@ -33,7 +33,7 @@ Profeten har sagt:
 
 > ”Den som har handlat felaktigt mot sin broders heder eller något annat, låt honom söka förlåtelse från honom idag så länge det finns saker som dinar och dirham (det vill säga, innan Domedagen). Om den som handlat felaktigt har goda gärningar kommer den han behandlat felaktigt mot få dem enligt det onda han gjort mot denna person. Har den som gjort fel inte några goda handlingar kommer han ta från sin partners synder och bära den bördan.” [*al-Bukhārī* 2449]
 
-Nedtecknad av al-Bukhārī i hans *Sahīh*. Verserna och *ahādīth*[^1] med samma innebörd är många.
+Nedtecknad av al-Bukhārī i hans *Sahīh*. Verserna och *ahādīth* med samma innebörd är många.
 
 Jag råder dig inte enbart till att försöka följa med de rättfärdiga, utan att du även håller dig fast vid dem. Undvik också samröre med dåligt folk.
 
@@ -45,12 +45,11 @@ När det gäller böcker ger jag dig rådet att läsa Allāhs skrift; du reciter
 
 > ”Detta är en välsignad Skrift som Vi har uppenbarat för dig, [Muḥammad]. Människorna bör tänka över dess budskap och lägga dem på minnet, om de har förstånd.” [Koranen 38:29]
 
-Jag råder dig även att läsa följande böcker som är skrivna av *sunnahs* folk: *Kitab at-Tawhīd*[^2] (av Muḥammad bin ´Abdul Wahhab), *al-'Aqidah al-Wastitiyah* (av *shaykh ul-islām* Ibn Taymiyyah), *Ighathatul-Lahfan* (av Ibn al-Qayyim), *al-Arba'in an-Nawawiyah* (av al-Hafiz Ibn Hajar), *'Umadatul-Hadīth* (av *shaykh* ´Abdul-Ghani bin ´Abdul-Wahid Al-Maqdisi) och *Bulugh al-Maram* (av al-Hafiz Ibn Hajar).
+Jag råder dig även att läsa följande böcker som är skrivna av *sunnahs* folk: *Kitab at-Tawhīd*[^1] (av Muḥammad bin ´Abdul Wahhab), *al-'Aqidah al-Wastitiyah* (av *shaykh ul-islām* Ibn Taymiyyah), *Ighathatul-Lahfan* (av Ibn al-Qayyim), *al-Arba'in an-Nawawiyah* (av al-Hafiz Ibn Hajar), *'Umadatul-Hadīth* (av *shaykh* ´Abdul-Ghani bin ´Abdul-Wahid Al-Maqdisi) och *Bulugh al-Maram* (av al-Hafiz Ibn Hajar).
 
 Dessa böcker är speciellt nyttiga för högskole- och universitetsstudenter. Efter dessa bör en student läsa de båda *Sahīh* och andra böcker från *sunnahs* folk.
 
 Jag ber Allāh den Allsmäktige att Han gör dig stadig vid sanningen och att Han ger dig nyttig kunskap med vägledning för att applicera den. Han är den bäste att fråga vid tider av behov.
 
-[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^2]: Tron på att det bara finns en Gud.
+[^1]: Tron på att det bara finns en Gud.
 

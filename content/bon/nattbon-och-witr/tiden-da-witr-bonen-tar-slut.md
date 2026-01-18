@@ -14,7 +14,7 @@ description: >-
   nattens slut innan gryningsbönen börjar: ”N ...
 ---
 
-**Fråga:** Vilken är den senaste tidpunkten för att be *witr*[^1]?
+**Fråga:** Vilken är den senaste tidpunkten för att be *witr*?
 
 **Svar:** Enligt profetens – över honom vare Allāhs frid och välsignelser – ord är det under nattens slut innan gryningsbönen[^2] börjar: ”*Nattbönen och dagsbönen är två följt av två… så om någon är rädd för att morgonen är nära, då bör han be en bönecykel[^3] som kommer att vara witr[^1] för det som han redan har bett*.” [^4]
 

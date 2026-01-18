@@ -15,24 +15,22 @@ description: >-
   de ber gryningsbönen utan qunūt . V...
 ---
 
-**Fråga:** Jag är en muslimsk tjej som har bott i Saudiarabien i omkring sex år. I vårt land så reciterar vi *qunūt*[^1] när vi ber gryningsbönen[^2]. Här har jag sett att de ber gryningsbönen[^2] utan *qunūt*[^1]. Vilket är utlåtandet om att recitera *qunūt*[^1] i gryningsbönen[^2]?
+**Fråga:** Jag är en muslimsk tjej som har bott i Saudiarabien i omkring sex år. I vårt land så reciterar vi *qunūt* när vi ber gryningsbönen[^1]. Här har jag sett att de ber gryningsbönen[^1] utan *qunūt*. Vilket är utlåtandet om att recitera *qunūt* i gryningsbönen[^1]?
 
-**Svar:** Shafi'i anser att det är fördelaktigt att alltid recitera *qunūt*[^1] i den andra bönecykeln[^3] i gryningsbönen[^2]. Detta görs när man har rest sig upp från bugningen[^4]. Som bevis för detta citerar de en *hadīth*[^5] i vilken det rapporteras att profeten – över honom vare Allāhs frid och välsignelser – fortsatte att recitera *qunūt*[^1] i gryningsbönen[^2] fram tills han lämnade detta jordeliv [^7]. Då ingen rapport nått dem om vad han brukade recitera i *qunūt*[^1] så använde de en *hasan hadīth*[^5] där det rapporteras att han i *qunūt*[^1] i *witr*[^6] brukade säga: ”*Allāh! Vägled mig bland dem som du har väglett…*” [^8]
+**Svar:** Shafi'i anser att det är fördelaktigt att alltid recitera *qunūt* i den andra bönecykeln[^2] i gryningsbönen[^1]. Detta görs när man har rest sig upp från bugningen[^3]. Som bevis för detta citerar de en *hadīth* i vilken det rapporteras att profeten – över honom vare Allāhs frid och välsignelser – fortsatte att recitera *qunūt* i gryningsbönen[^1] fram tills han lämnade detta jordeliv [^5]. Då ingen rapport nått dem om vad han brukade recitera i *qunūt* så använde de en *hasan hadīth*[^4] där det rapporteras att han i *qunūt* i *witr* brukade säga: ”*Allāh! Vägled mig bland dem som du har väglett…*” [^6]
 
-Imam *Ahmad* med flera ansåg att *qunūt*[^1] inte är föreskriven i gryningsbönen[^2], utom om någon stor olycka har drabbat muslimerna, som en fiende har attackerat dem, rädsla för något, sjukdom eller liknande. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – gjorde *qunūt*[^1] under en månad och då åkallade han Allāh mot några arabstammar som hade dödat några av följeslagarna. Sedan slutade han. De sade att vad han fortsatte att göra var att under långa perioder stå i bön, som i Allāhs ord:
+Imam *Ahmad* med flera ansåg att *qunūt* inte är föreskriven i gryningsbönen[^1], utom om någon stor olycka har drabbat muslimerna, som en fiende har attackerat dem, rädsla för något, sjukdom eller liknande. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – gjorde *qunūt* under en månad och då åkallade han Allāh mot några arabstammar som hade dödat några av följeslagarna. Sedan slutade han. De sade att vad han fortsatte att göra var att under långa perioder stå i bön, som i Allāhs ord:
 
 > ”Förrätta regelbundet [de dagliga] bönerna och [särskilt] den bön som har en central plats och res er i from ödmjukhet inför Gud.” [Koranen 2:238]
 
-Den som alltid gör *qunūt*[^1] och följer shafi'i-skolan bör inte kritiseras, trots att den korrekta åsikten är att det inte är föreskrivet och att det inte har bekräftats att profeten – över honom vare Allāhs frid och välsignelser – gjorde. Därför verkar det vara ogillat om det görs utan anledning.
+Den som alltid gör *qunūt* och följer shafi'i-skolan bör inte kritiseras, trots att den korrekta åsikten är att det inte är föreskrivet och att det inte har bekräftats att profeten – över honom vare Allāhs frid och välsignelser – gjorde. Därför verkar det vara ogillat om det görs utan anledning.
 
 Och Allāh vet bäst.
 
-[^1]: En åkallan som kan läsas under den nattliga witr-bönen.
-[^2]: Fajr
-[^3]: Rakah.
-[^4]: Ruku, bugningen när ryggen hålls parallell med marken.
-[^5]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^6]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
+[^1]: Fajr
+[^2]: Rakah.
+[^3]: Ruku, bugningen när ryggen hålls parallell med marken.
+[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
-[^7]: *Ahmad* 3:162
-[^8]: *Abū Dawūd* 1425, 1426; *at-Tirmithi* 464 och *Ahmad* 1:119, 200
+[^5]: *Ahmad* 3:162
+[^6]: *Abū Dawūd* 1425, 1426; *at-Tirmithi* 464 och *Ahmad* 1:119, 200

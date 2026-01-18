@@ -20,11 +20,10 @@ description: >-
 
 > “Vallfärden till denna Helgedom är en plikt mot Gud för var och en som har möjlighet att genomföra den. Och den som förnekar sanningen [ska veta att] Gud är Sig själv nog och inte behöver [något eller något i] Sin skapelse.” [Koranen 3:97]
 
-Profeten – över honom vare Allāhs frid och välsignelser – har sagt: “*Islam är byggt på fem pelare: vittnesmålet om att det inte finns någon gud utom Allāh och att Muḥammad är Allāhs sändebud; förrättandet av den obligatoriska bönen; betalning av allmosa; fastan under *ramadan*[^1] och pilgrimsfärden till Huset [Ka’bah]*.” [^2] När [ängeln] Gabriel frågade profeten – över honom vare Allāhs frid och välsignelser – om islam så sade han: “*Det innebär att man vittnar om att det inte finns någon gud utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av den obligatoriska bönen, betalning av allmosa, fasta under *ramadan*[^1] och vallfärda om du har medlen till det*.” [^3] från ´Umar ibn al-Khattāb]
+Profeten – över honom vare Allāhs frid och välsignelser – har sagt: “*Islam är byggt på fem pelare: vittnesmålet om att det inte finns någon gud utom Allāh och att Muḥammad är Allāhs sändebud; förrättandet av den obligatoriska bönen; betalning av allmosa; fastan under *ramadan* och pilgrimsfärden till Huset [Ka’bah]*.” [^1] När [ängeln] Gabriel frågade profeten – över honom vare Allāhs frid och välsignelser – om islam så sade han: “*Det innebär att man vittnar om att det inte finns någon gud utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av den obligatoriska bönen, betalning av allmosa, fasta under *ramadan* och vallfärda om du har medlen till det*.” [^2] från ´Umar ibn al-Khattāb]
 
 Och Allāh är källan till all styrka.
 
-[^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 
-[^2]: *al-Bukhārī* 8 och *Muslim* 16
-[^3]: *Muslim* 8 i en *hadīth*[^2
+[^1]: *al-Bukhārī* 8 och *Muslim* 16
+[^2]: *Muslim* 8 i en *hadīth*[^2

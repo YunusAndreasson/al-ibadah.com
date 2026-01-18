@@ -1,22 +1,24 @@
 ---
 title: Förmågan att kunna vallfärda
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
- Libanon: Maktaba Dar us-Salam. 55 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Libanon: Maktaba Dar us-Salam. 55 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
   - Vallfärdsplikt
 original_id: 713
-description: 'Fråga: Vilken är den ”förmåga” som man talar om då vallfärden diskuteras? Den
- ”förmåga” som man talar om när det gäller vallfärden är en persons hälsa och att
- denne har de transportmedel som kr...'
+description: >-
+  Fråga: Vilken är den ”förmåga” som man talar om då vallfärden diskuteras? Den
+  ”förmåga” som man talar om när det gäller vallfärden är en persons hälsa och
+  att denne har de transportmedel som kr...
 ---
 
 **Fråga:** Vilken är den ”förmåga” som man talar om då vallfärden diskuteras?
 
 Den "förmåga" som man talar om när det gäller vallfärden är en persons hälsa och att denne har de transportmedel som krävs för att ta sig till Allāhs heliga hus. Transportmedlet kan vara ett flygplan, en bil, ett djur eller en taxi. Detta beror på vilken situation som denne befinner sig i.
 
-Detta innebär även att denne har tillgångar som är tillräckliga för att ta sig dit och sedan tillbaka. Denne måste även ha lite extra tillgångar som denne, till hemkomsten från vallfärden, ger dem som denne är skyldig att ta hand om. Det innebär även att kvinnan har sin man eller *mahram*[^1] med sig under resan till vallfärden eller *'umrah*[^2].
+Detta innebär även att denne har tillgångar som är tillräckliga för att ta sig dit och sedan tillbaka. Denne måste även ha lite extra tillgångar som denne, till hemkomsten från vallfärden, ger dem som denne är skyldig att ta hand om. Det innebär även att kvinnan har sin man eller *mahram* med sig under resan till vallfärden eller *'umrah*.
 
 När det gäller belöningarna för ens vallfärd beror detta på ens grad av uppriktighet mot Allāh, vilka riter som utförs under vallfärden, hur man undvikt det som motsäger sig en perfekt vallfärden, vad man spenderar av sina tillgångar och den grad av ansträngning som tålmodigt har burits. Det spelar ingen roll om man återvänder, stannar i Saudiarabien eller avlider före [eller efter] ens vallfärd är slutförd. Allāh känner bäst till ens situation och Han är Den som styr över ens belöningar.
 
@@ -26,6 +28,4 @@ Man bör inte försöka att fundera över det som är upp till Allāh. Sannerlig
 
 Och Allāh är den som ger framgång.
 
-[^1]: Släkting som det inte är tillåtet att gifta sig med.
-[^2]: Den lilla vallfärden.
 

@@ -1,14 +1,16 @@
 ---
 title: Villkor och förhållningssätt för åkallan
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
- Libanon: Maktaba Dar us-Salam. 273 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+  Libanon: Maktaba Dar us-Salam. 273 s. ISBN saknas
 categories:
   - Blandat
 original_id: 681
-description: 'Fråga: Vad hindrar att ens åkallan besvaras och vilka är tidpunkterna
- då man kan få svar? Svar: Först och främst bör vi känna till att åkallan är
- dyrkan som för en närmare Allāh. Anledningen t...'
+description: >-
+  Fråga: Vad hindrar att ens åkallan besvaras och vilka är tidpunkterna då man
+  kan få svar? Svar: Först och främst bör vi känna till att åkallan är dyrkan
+  som för en närmare Allāh. Anledningen t...
 ---
 
 **Fråga:** Vad hindrar att ens åkallan[^1] besvaras och vilka är tidpunkterna då man kan få svar?
@@ -27,13 +29,12 @@ Man måste även säkerställa att ens mat och kläder är tillåtna då det oti
 
 > ”Sannerligen, Allāh är god och Han accepterar inte något annat än det som är gott.” [*Muslim* 1015]
 
-De tider då man bör vara optimistisk över att ens åkallan[^1] besvaras är under den sista tredjedelen av natten och under tiden mellan böneutropet och *iqāmah*[^2].
+De tider då man bör vara optimistisk över att ens åkallan[^1] besvaras är under den sista tredjedelen av natten och under tiden mellan böneutropet och *iqāmah*.
 
-Beträffande olika situationer och kroppshållningar är det mer sannolikt att få sin åkallan[^1] besvarad då man nedfaller[^3] då Allāhs sändebud har sagt:
+Beträffande olika situationer och kroppshållningar är det mer sannolikt att få sin åkallan[^1] besvarad då man nedfaller[^2] då Allāhs sändebud har sagt:
 
-> ”Närmast är man sin Herre då man nedfaller[^3].” [*Muslim* 482]
+> ”Närmast är man sin Herre då man nedfaller[^2].” [*Muslim* 482]
 
 [^1]: Du´ā
-[^2]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
-[^3]: sujūd, nedfallandet när pannan läggs mot marken.
+[^2]: sujūd, nedfallandet när pannan läggs mot marken.
 

@@ -1,19 +1,21 @@
 ---
 title: Sätta sin fullständiga tilltro till Allāh eller även anstränga sig själv
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 92 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 92 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 1076
-description: 'Fråga: Om man gör vad som är nödvändigt för att uppnå något, upphäver
- det då ens tawakkul? Under Gulfkriget gjorde vissa vad de ansåg vara nödvändigt
- medan andra sade: ”Vi sätter vår tilltro till ...'
+description: >-
+  Fråga: Om man gör vad som är nödvändigt för att uppnå något, upphäver det då
+  ens tawakkul? Under Gulfkriget gjorde vissa vad de ansåg vara nödvändigt medan
+  andra sade: ”Vi sätter vår tilltro till ...
 ---
 
-**Fråga:** Om man gör vad som är nödvändigt för att uppnå något, upphäver det då ens *tawakkul*[^1]? Under Gulfkriget gjorde vissa vad de ansåg vara nödvändigt medan andra sade: ”Vi sätter vår tilltro till Allāh.”
+**Fråga:** Om man gör vad som är nödvändigt för att uppnå något, upphäver det då ens *tawakkul*? Under Gulfkriget gjorde vissa vad de ansåg vara nödvändigt medan andra sade: ”Vi sätter vår tilltro till Allāh.”
 
 **Svar:** Den troende måste fästa sitt hjärta vid Allāh den Allsmäktige och uppriktigt lita på att Han frambringar det som är nyttigt och att Han avvärjer det som är skadligt. Detta beror på att himlarnas och jordens konungarike enbart är i Allāhs händer och till Honom återvänder allt [för att beslutas]. Allāh den Upphöjde säger:
 
@@ -29,7 +31,7 @@ Allāh den Upphöjde säger:
 
 Därför måste den troende lita till sin Herre, som är himlarnas och jordens Herre, och tro gott om Honom.
 
-Man bör vidta de åtgärder som den islamiska lagen påkallar[^2], genom tron på Allāhs förutbestämmelse och genom de nödvändiga praktiska åtgärder som Allāh den Upphöjde har kommenderat. Använder man ett medel för att uppnå gott och skydda sig mot ont är det ju en del av att tro på Allāh den Upphöjde och Hans visdom. Detta är inte något som ogiltigör ens hoppfullhet till Honom.
+Man bör vidta de åtgärder som den islamiska lagen påkallar[^1], genom tron på Allāhs förutbestämmelse och genom de nödvändiga praktiska åtgärder som Allāh den Upphöjde har kommenderat. Använder man ett medel för att uppnå gott och skydda sig mot ont är det ju en del av att tro på Allāh den Upphöjde och Hans visdom. Detta är inte något som ogiltigör ens hoppfullhet till Honom.
 
 Se på den som var bäst på att sätta sin tilltro till Allāh – Muḥammad. Han brukade vidta de åtgärder som fordras genom den islamiska lagen och tron på Allāhs förutbestämmelse. Han sökte skydd innan han lade sig för att sova genom att läsa sura al-Ikhlas och *mu’awwidhāt*, han brukade bära sin rustning i strid och han grävde en skyttegrav framför Medina som skydd när brottsliga hedningar samlade sig runt staden. Allāh den Upphöjde har förklarat att det som en tjänare söker sin tillflykt hos Honom med från det onda i krig är några av Hans välsignelser som Han förtjänar att tackas för. Allāh har berättat att Hans profet David sade:
 
@@ -45,6 +47,5 @@ Vid Allāh, jag ber att Han skyddar oss alla från orsakerna till prövningar oc
 
 Må frid och välsignelser vara över profeten Muḥammad, hans familj och hans följeslagare.
 
-[^1]: Hoppfullhet till Allāh.
-[^2]: Du´ā
+[^1]: Du´ā
 

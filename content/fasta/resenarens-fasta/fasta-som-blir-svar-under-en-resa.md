@@ -16,13 +16,12 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om fastan för en resenär om den blir svår?
 
-**Svar:** Känner denne att det kan bli för svårt, då är det ogillat att fasta. Profeten – över honom vare Allāhs frid och välsignelser – såg en man som skuggades och som folket samlades runt omkring. Han sade: ”*Vad är detta?*” De sade: ”*Han fastade*.” Han [Profeten] sade: ”*Det är inte rättfärdigt att fasta medan [man] reser*.” [^2]
+**Svar:** Känner denne att det kan bli för svårt, då är det ogillat att fasta. Profeten – över honom vare Allāhs frid och välsignelser – såg en man som skuggades och som folket samlades runt omkring. Han sade: ”*Vad är detta?*” De sade: ”*Han fastade*.” Han [Profeten] sade: ”*Det är inte rättfärdigt att fasta medan [man] reser*.” [^1]
 
 Men om det är mycket svårt så måste fastan brytas. När folket klagade inför sändebudet om att fastan hade blivit för svår för dem, då bröt han fastan. Han fick sedan veta att några fastade och han sade: ”*Dessa är de olydiga, dessa är de olydiga*.” [*Muslim*]
 
-För den som inte finner någon svårighet i fastan är det bättre att fasta. Detta för att följa sändebudets exempel då han brukade fasta. Abu Darda' sade: "*Vi reste tillsammans med Allāhs sändebud under en resa i *ramadan*[^1]. Det var extremt varmt. Ingen av oss fastade utom Allāhs sändebud och Abdullah bin Rawahah*." [^3]
+För den som inte finner någon svårighet i fastan är det bättre att fasta. Detta för att följa sändebudets exempel då han brukade fasta. Abu Darda' sade: "*Vi reste tillsammans med Allāhs sändebud under en resa i *ramadan*. Det var extremt varmt. Ingen av oss fastade utom Allāhs sändebud och Abdullah bin Rawahah*." [^2]
 
-[^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 
-[^2]: *al-Bukhārī* 1946 och *Muslim* 1115
-[^3]: *al-Bukhārī* 1945 och *Muslim* 1122
+[^1]: *al-Bukhārī* 1946 och *Muslim* 1115
+[^2]: *al-Bukhārī* 1945 och *Muslim* 1122

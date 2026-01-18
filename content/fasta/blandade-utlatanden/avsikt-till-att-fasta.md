@@ -14,10 +14,8 @@ description: >-
   under natten? Svar: Avsikten är att h...
 ---
 
-**Fråga:** Vad avses med denna *hadīth*[^1]: ”*Det finns ingen fasta för den som inte utformar intentionen under natten [före fastan]*.” Hur utformar man avsikten under natten?
+**Fråga:** Vad avses med denna *hadīth*: ”*Det finns ingen fasta för den som inte utformar intentionen under natten [före fastan]*.” Hur utformar man avsikten under natten?
 
-**Svar:** Avsikten är att hjärtat bestämmer sig för att fasta. Detta är nödvändigt för varje muslim som vet att Allāh har gjort fastan under *ramadan*[^1] till en skyldighet. För den som vet att detta är en skyldighet att hålla sig till är det tillräckligt att utforma avsikten under natten. Det är också tillräckligt att inombords säga att man kommer att fasta nästa dag om det inte finns någon ursäkt för att inte göra det. Likaså är det tillräckligt att äta *sahūr*[^2] med denna intention. Denne behöver inte med ord uttala avsikten inför fastan eller inför någon annan dyrkan. Platsen för avsikten är i hjärtat. Ackompanjemang av dess utlåtande är obligatoriskt under hela dagen genom att man inte har avsikten att bryta eller ogiltigöra fastan.
+**Svar:** Avsikten är att hjärtat bestämmer sig för att fasta. Detta är nödvändigt för varje muslim som vet att Allāh har gjort fastan under *ramadan* till en skyldighet. För den som vet att detta är en skyldighet att hålla sig till är det tillräckligt att utforma avsikten under natten. Det är också tillräckligt att inombords säga att man kommer att fasta nästa dag om det inte finns någon ursäkt för att inte göra det. Likaså är det tillräckligt att äta *sahūr* med denna intention. Denne behöver inte med ord uttala avsikten inför fastan eller inför någon annan dyrkan. Platsen för avsikten är i hjärtat. Ackompanjemang av dess utlåtande är obligatoriskt under hela dagen genom att man inte har avsikten att bryta eller ogiltigöra fastan.
 
-[^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
-[^2]: Måltiden som äts sent på natten innan gryningen under fastemånaden.
 

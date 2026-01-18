@@ -20,13 +20,12 @@ description: >-
 
 Undantaget för detta är tre tillfällen då det inte är tillåtet att begrava: Från soluppgången tills solen har stigit så mycket att den kastar en skugga på ett spjut lika lång som spjutets längd, när den befinner sig vid himlens mitt tills den börjat röra sig nedåt [ungefär tio minuter före den har passerat himlens mitt] och från den tiden då solen börjar gå ned i väst till efter solnedgången. När den börjar gå ned i väst är när det återstår omkring en spjutlängd mellan den och dess nedgång.
 
-Under dessa tre tidpunkter är det inte tillåtet att begrava. Detta är ett absolut förbud enligt en *hadīth*[^1] från 'Uqbah bin 'Amir i vilken han säger: "*Allāhs sändebud förbjöd oss att be och begrava våra avlidna under tre tidpunkter*." [^2]
+Under dessa tre tidpunkter är det inte tillåtet att begrava. Detta är ett absolut förbud enligt en *hadīth* från 'Uqbah bin 'Amir i vilken han säger: "*Allāhs sändebud förbjöd oss att be och begrava våra avlidna under tre tidpunkter*." [^1]
 
 Det finns inget angivet antal muslimer som ska närvara. Faktum är att om enbart en ber över den avlidne är det tillräckligt.
 
-Det är tillåtet att be på gravplatsen och det är anledningen till varför de lärde har undantagit det från förbudet mot att be på gravplatser. Det är också tillåtet att be över graven för det har rapporterats att profeten – över honom vare Allāhs frid och välsignelser – bad över en grav tillhörande en kvinna som brukade städa moskén. Hon hade avlidit en natt och följeslagarna hade begravt henne. Profeten – över honom vare Allāhs frid och välsignelser – frågade då: ”*Visa mig till hennes grav*.” De visade honom dit och han bad över henne. [^3]
+Det är tillåtet att be på gravplatsen och det är anledningen till varför de lärde har undantagit det från förbudet mot att be på gravplatser. Det är också tillåtet att be över graven för det har rapporterats att profeten – över honom vare Allāhs frid och välsignelser – bad över en grav tillhörande en kvinna som brukade städa moskén. Hon hade avlidit en natt och följeslagarna hade begravt henne. Profeten – över honom vare Allāhs frid och välsignelser – frågade då: ”*Visa mig till hennes grav*.” De visade honom dit och han bad över henne. [^2]
 
-[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
-[^2]: *Muslim* 1:568
-[^3]: *al-Bukhārī* 1337 och *Muslim* 956
+[^1]: *Muslim* 1:568
+[^2]: *al-Bukhārī* 1337 och *Muslim* 956

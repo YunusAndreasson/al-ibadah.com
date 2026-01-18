@@ -1,19 +1,22 @@
 ---
-title: 'Innebörden av: ”Jag är hans hörsel som han hör med och hans syn som han ser
- med.”'
+title: >-
+  Innebörden av: ”Jag är hans hörsel som han hör med och hans syn som han ser
+  med.”
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
- Libanon: Maktaba Dar us-Salam. 60 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Libanon: Maktaba Dar us-Salam. 60 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 47
-description: 'Fråga: Vilken är innebörden vad Allāh säger i denna heliga hadīth: ”Och
- om jag älskar honom, då kommer jag att vara hans hörsel som han hör med, hans syn
- som han ser med, hans hand som slår o...'
+description: >-
+  Fråga: Vilken är innebörden vad Allāh säger i denna heliga hadīth: ”Och om jag
+  älskar honom, då kommer jag att vara hans hörsel som han hör med, hans syn som
+  han ser med, hans hand som slår o...
 ---
 
-**Fråga:** Vilken är innebörden vad Allāh säger i denna heliga *hadīth*[^1]:
+**Fråga:** Vilken är innebörden vad Allāh säger i denna heliga *hadīth*:
 
 > ”Och om jag älskar honom, då kommer jag att vara hans hörsel som han hör med, hans syn som han ser med, hans hand som slår och hans ben som går.”
 
@@ -29,14 +32,13 @@ I andra versioner nämns att Allāh den Upphöjde har sagt:
 
 > ”Så genom Mig hör han och genom Mig ser han.” [Se: *Fathul-Bāri* 11:418]
 
-Det är uppenbart att uttalandena i början av dessa *ahādīth*[^1] gör tydlig att det finns en som *åkallar*[^2] och en som åkallas, och en som söker skydd och en som skyddar. Denna *hadīth*[^1] liknar en annan helig *hadīth*[^1] i vilken Allāh den Upphöjde säger:
+Det är uppenbart att uttalandena i början av dessa *ahādīth* gör tydlig att det finns en som *åkallar*[^1] och en som åkallas, och en som söker skydd och en som skyddar. Denna *hadīth* liknar en annan helig *hadīth* i vilken Allāh den Upphöjde säger:
 
 > ”*Mina* tjänare! Jag var sjuk men ni besökte Mig inte”. [*Ahmad* 2:404]
 
-I dessa *ahādīth*[^1] förklaras uttalanden i början av uttalanden som följer efter. De som följer sina egna nycker, de håller sig till allegoriska texter och vänder sig bort från de som förklarar sig själva. På detta sätt viker de av från den raka vägen.
+I dessa *ahādīth* förklaras uttalanden i början av uttalanden som följer efter. De som följer sina egna nycker, de håller sig till allegoriska texter och vänder sig bort från de som förklarar sig själva. På detta sätt viker de av från den raka vägen.
 
 Allāh är den som ger framgång.
 
-[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^2]: Du´ā
+[^1]: Du´ā
 

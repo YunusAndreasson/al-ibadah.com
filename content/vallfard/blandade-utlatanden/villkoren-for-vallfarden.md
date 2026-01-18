@@ -1,15 +1,17 @@
 ---
 title: Villkoren för vallfärden
 author: Ibn ´Abdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
- Libanon: Maktaba Dar us-Salam. 35 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Libanon: Maktaba Dar us-Salam. 35 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
   - Övrigt
 original_id: 701
-description: 'Fråga: Vad finns det för villkor för vallfärden? Svar: Villkoren
- för att vallfärden ska vara en skyldighet är fem: islam, mental
- hälsa, könsmognad, frihet och ...'
+description: >-
+  Fråga: Vad finns det för villkor för vallfärden? Svar: Villkoren för att
+  vallfärden ska vara en skyldighet är fem: islam, mental hälsa, könsmognad,
+  frihet och ...
 ---
 
 **Fråga:** Vad finns det för villkor för vallfärden?
@@ -32,7 +34,6 @@ När det gäller förmåga har Allāh endast gjort vallfärden obligatorisk för
 
 Det finns ett sjätte villkor som vissa lärda har lagt till, vilket är att vägen dit ska vara säker. Detta kan dock troligen räknas in i villkoret att ha möjlighet.
 
-Det finns ytterligare ett villkor som enbart gäller kvinnor, vilket är att en av kvinnans *mahram*[^1] ska vara närvarande.
+Det finns ytterligare ett villkor som enbart gäller kvinnor, vilket är att en av kvinnans *mahram* ska vara närvarande.
 
-[^1]: Släkting som det inte är tillåtet att gifta sig med.
 

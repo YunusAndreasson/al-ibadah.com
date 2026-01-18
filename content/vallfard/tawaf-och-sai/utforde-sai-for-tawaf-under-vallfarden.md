@@ -1,18 +1,20 @@
 ---
 title: Utförde sa’ī för tawāf under vallfärden
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
- Libanon: Maktaba Dar us-Salam. 204 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Libanon: Maktaba Dar us-Salam. 204 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
   - Tawāf och sa’ī
 original_id: 826
-description: 'Fråga: En man som gjorde ‘umrah hade ingen kunskap och han utförde sa’ī före tawāf
- . När han upprepat om tawāf, måste han utföra sa’ī en andra gång? Svar: Han
- behöver inte upprepa sa...'
+description: >-
+  Fråga: En man som gjorde ‘umrah hade ingen kunskap och han utförde sa’ī före
+  tawāf . När han upprepat om tawāf, måste han utföra sa’ī en andra gång? Svar:
+  Han behöver inte upprepa sa...
 ---
 
-**Fråga:** En man som gjorde *‘umrah*[^1] hade ingen kunskap och han utförde *sa’ī*[^2] före *tawāf*[^3]. När han upprepat om *tawāf*[^3], måste han utföra *sa’ī*[^2] en andra gång?
+**Fråga:** En man som gjorde *‘umrah*[^1] hade ingen kunskap och han utförde *sa’ī*[^2] före *tawāf*. När han upprepat om *tawāf*, måste han utföra *sa’ī*[^2] en andra gång?
 
 **Svar:** Han behöver inte upprepa *sa’ī*[^2]. Detta med anledning av vad Abū Dawūd återger i sin *Sunan* med en autentisk berättarkedja ned till Usamah bin Shurayk som säger:
 

@@ -1,16 +1,18 @@
 ---
 title: Den som antar kommunism har avfallit från islam
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
- Libanon: Maktaba Dar us-Salam. 363 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Libanon: Maktaba Dar us-Salam. 363 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - Shirk [Att sätta något vid Allāhs sida]
+  - 'Shirk [Att sätta något vid Allāhs sida]'
 original_id: 146
-description: 'Fråga: Kommunism är en ideologi som förnekar Skaparen den Allsmäktige
- och den förespråkar tro på materialism samt att livets ursprung finns i naturen.
- Är dessa unga män i vår islamiska värld som o...'
+description: >-
+  Fråga: Kommunism är en ideologi som förnekar Skaparen den Allsmäktige och den
+  förespråkar tro på materialism samt att livets ursprung finns i naturen. Är
+  dessa unga män i vår islamiska värld som o...
 ---
 
 **Fråga:** Kommunism är en ideologi som förnekar Skaparen den Allsmäktige och den förespråkar tro på materialism samt att livets ursprung finns i naturen. Är dessa unga män i vår islamiska värld som omfamnar den kommunistiska ideologin, och speciellt de som tror på den, avfällingar?
@@ -33,7 +35,6 @@ Om det sägs till dem som förnekar: ”Vem är himlarnas och jordens Skaparen?�
 
 Härmed råder det inget tvivel om att den som förnekar Skaparen har en mental defekt, är utan religion och är icke-troende. Ingen bör tveka över att detta är otro.
 
-Detta utlåtande gäller även de som blint följer denna tro och som har levt i islam, därför att islam avvisar med bestämdhet detta. Falskheten i detta tankesätt och i denna ideologi bör vara uppenbar för varje muslim och det finns ingen ursäkt för dem, då det har funnits dem som lärt dem. Om de återvände till sin *fitrah*[^1], då skulle de finna att kommunismen saknar grund.
+Detta utlåtande gäller även de som blint följer denna tro och som har levt i islam, därför att islam avvisar med bestämdhet detta. Falskheten i detta tankesätt och i denna ideologi bör vara uppenbar för varje muslim och det finns ingen ursäkt för dem, då det har funnits dem som lärt dem. Om de återvände till sin *fitrah*, då skulle de finna att kommunismen saknar grund.
 
-[^1]: Det naturliga tillstånd som människan föds i.
 

@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Vilka är *ahlus-sunnah[^1] wal-jamā’ats* grundläggande trosprinciper?
 
-**Svar:** *Ahlus-sunnah[^1] wal-jamā’ats* grundsats när det gäller trosprincipiella frågor, och andra frågor som rör religionen, är att följa Allāhs skrift, Hans sändebuds – över honom vare Allāhs frid och välsignelser – *sunnah*[^1] och vägledning samt den *sunnah*[^1] som de rättfärdiga kaliferna följde. Detta är enligt Allāhs den Upphöjdes ord:
+**Svar:** *Ahlus-sunnah[^1] wal-jamā’ats* grundsats när det gäller trosprincipiella frågor, och andra frågor som rör religionen, är att följa Allāhs skrift, Hans sändebuds – över honom vare Allāhs frid och välsignelser – *sunnah* och vägledning samt den *sunnah* som de rättfärdiga kaliferna följde. Detta är enligt Allāhs den Upphöjdes ord:
 
 > ”Säg [Muḥammad]: ’Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
 
@@ -29,18 +29,17 @@ description: >-
 
 Profeten – över honom vare Allāhs frid och välsignelser – har även sagt:
 
-> ”Håll fast vid min *sunnah*[^1] och likaså de efter mig korrekt vägledda kalifernas *sunnah*[^1]. Bit tag i den med kindtänderna. Och håll er borta från nyinförda frågor, för sannerligen är varje nyinförd fråga en innovation och varje innovation är villfarelse.” [*Abū Dawūd* 4607]
+> ”Håll fast vid min *sunnah* och likaså de efter mig korrekt vägledda kalifernas *sunnah*. Bit tag i den med kindtänderna. Och håll er borta från nyinförda frågor, för sannerligen är varje nyinförd fråga en innovation och varje innovation är villfarelse.” [*Abū Dawūd* 4607]
 
 Bevisen för detta är många.
 
-*Ahlus-sunnah[^1] wal-jamā’ats* sätt är därmed att fullständigt hålla sig till Allāhs skrift, Hans sändebuds *sunnah*[^1] och de rättfärdiga kalifernas *sunnah*[^1].
+*Ahlus-sunnah[^1] wal-jamā’ats* sätt är därmed att fullständigt hålla sig till Allāhs skrift, Hans sändebuds *sunnah* och de rättfärdiga kalifernas *sunnah*.
 
 På detta sätt upprätthöll de religionen och de skilde sig inte åt i detta. Detta i lydnad av Allāhs den Upphöjdes ord:
 
 > ”Han har föreskrivit för er samma [regel för] tron som Han anbefallde Noa – detta har Vi uppenbarat för dig [Muḥammad] – och som Vi anbefallde Abraham och Moses och Jesus, nämligen att hålla fast vid [den sanna] trons [principer] och att aldrig tillåta söndring.” [Koranen 42:13]
 
-Även om de hade olika åsikter i frågor som det är tillåtet att utöva *ijtihād*[^2] i ledde detta inte till att deras hjärtan skilde sig åt. I stället finner man kärlek mellan dem, trots de meningsskiljaktigheter som uppkom genom *ijtihād*[^2].
+Även om de hade olika åsikter i frågor som det är tillåtet att utöva *ijtihād* i ledde detta inte till att deras hjärtan skilde sig åt. I stället finner man kärlek mellan dem, trots de meningsskiljaktigheter som uppkom genom *ijtihād*.
 
 [^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
-[^2]: Den ansträngning en islamskt lärd gör för att lägga fram ett utlåtande som inte är uppenbart.
 

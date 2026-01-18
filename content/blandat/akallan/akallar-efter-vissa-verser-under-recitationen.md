@@ -17,12 +17,11 @@ description: >-
 
 **Fråga:** Jag har hört att somliga avbryter sin koranrecitation under bönen för att åkalla på passande sätt. De säger [när Paradiset nämns]: ”Allāh! Jag ber Dig om Paradiset” och när Helvetet nämns säger de: ”Allāh! Skydda mig från Elden.” Tillåter den islamiska lagen detta?
 
-**Svar:** När man reciterar Koranen är det *sunnah*[^1], i bönen och vid andra tillfällen, att be Allāh den Upphöjde om Hans frikostighet när han kommer till en vers som nämner Allāhs nåd, och när man läser en vers där Allāhs straff nämns söka sin tillflykt hos Honom från det. Läser man en vers som avvisar något nedsättande om Allāh, då bör man säga: ”*Subhanahu wa Ta'ala*” eller något liknande. Det är även föredraget för den som reciterar: ”*Är inte Gud den visaste av domare?*” [^3] att säga: ”*Sannerligen! Och jag är ett av vittnena till detta.” Om man reciterar: ”Skulle då denne [Skapare] inte ha makt att uppväcka de döda till nytt liv?*” [^4] säger man: ”*Sannerligen! Jag vittnar om det.” Och om man reciterar: ”På vilket budskap ska de hädanefter tro?*” [^5] så säger man: ”Jag har trott på Allāh.” Och om man reciterar: ”*Vilket av er [allsmäktige] Herres verk vill ni båda då förneka?*” [^6] då säger man: ”Vi förnekar inga av Allāhs tecken.” Och om man då säger man: ”Lovprisad var min Herre, den Högste.” Detta är att föredra [både] för imamen, de som han leder och en ensam tjänare. Anledningen är att detta är en åkallan[^2] som tamim [att säga āmīn]. Utlåtandet om recitation av dessa verser utanför bönen är detsamma.
+**Svar:** När man reciterar Koranen är det *sunnah*, i bönen och vid andra tillfällen, att be Allāh den Upphöjde om Hans frikostighet när han kommer till en vers som nämner Allāhs nåd, och när man läser en vers där Allāhs straff nämns söka sin tillflykt hos Honom från det. Läser man en vers som avvisar något nedsättande om Allāh, då bör man säga: ”*Subhanahu wa Ta'ala*” eller något liknande. Det är även föredraget för den som reciterar: ”*Är inte Gud den visaste av domare?*” [^2] att säga: ”*Sannerligen! Och jag är ett av vittnena till detta.” Om man reciterar: ”Skulle då denne [Skapare] inte ha makt att uppväcka de döda till nytt liv?*” [^3] säger man: ”*Sannerligen! Jag vittnar om det.” Och om man reciterar: ”På vilket budskap ska de hädanefter tro?*” [^4] så säger man: ”Jag har trott på Allāh.” Och om man reciterar: ”*Vilket av er [allsmäktige] Herres verk vill ni båda då förneka?*” [^5] då säger man: ”Vi förnekar inga av Allāhs tecken.” Och om man då säger man: ”Lovprisad var min Herre, den Högste.” Detta är att föredra [både] för imamen, de som han leder och en ensam tjänare. Anledningen är att detta är en åkallan[^1] som tamim [att säga āmīn]. Utlåtandet om recitation av dessa verser utanför bönen är detsamma.
 
-[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
-[^2]: Du´ā
+[^1]: Du´ā
 
-[^3]: Koranen 95:8
-[^4]: Koranen 75:40
-[^5]: Koranen 7:185
-[^6]: Koranen 55:13
+[^2]: Koranen 95:8
+[^3]: Koranen 75:40
+[^4]: Koranen 7:185
+[^5]: Koranen 55:13

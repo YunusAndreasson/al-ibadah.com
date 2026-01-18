@@ -1,15 +1,17 @@
 ---
 title: Avlidens skuld och allmosa
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 596 s. ISBN 9960-892-66-2'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 596 s. ISBN 9960-892-66-2
 categories:
   - Allmosa (Zakāh)
   - Skulder
 original_id: 1013
-description: 'Fråga: Bör den avlidnes skulder betalas om denne inte har lämnat allmosa? Svar: Ibn
- ´Abdul-Barr och Abū ''Ubaid har sagt att den avlidens skuld inte får betalas genom
- allmosa, enligt konsensus ...'
+description: >-
+  Fråga: Bör den avlidnes skulder betalas om denne inte har lämnat allmosa?
+  Svar: Ibn ´Abdul-Barr och Abū 'Ubaid har sagt att den avlidens skuld inte får
+  betalas genom allmosa, enligt konsensus ...
 ---
 
 **Fråga:** Bör den avlidnes skulder betalas om denne inte har lämnat allmosa?
@@ -20,9 +22,8 @@ Profeten – över honom vare Allāhs frid och välsignelser – brukade inte be
 
 Det sägs också att om den avlidne brukade ta folkets tillgångar och denne avsåg att lämna tillbaka dem, då kommer Allāh att betala för denne genom Hans välsignelse och generositet. Men om denne tog dem och avsåg att slösa bort dem, då har denne begått en orätt mot sig själv. Skulden kvarstår då för denne och den kommer att drivas in på Återuppståndelsens dag.
 
-Enligt mig är den mest korrekta åsikten att en skuld som tillhör en avliden kan betalas med den [allmosan]. Det kan sägas att det är skillnad mellan när de vid liv är i behov av allmosa på grund av fattigdom, *djihād*[^1], en skuld eller något annat och när de vid liv inte är i behov av den.
+Enligt mig är den mest korrekta åsikten att en skuld som tillhör en avliden kan betalas med den [allmosan]. Det kan sägas att det är skillnad mellan när de vid liv är i behov av allmosa på grund av fattigdom, *djihād*, en skuld eller något annat och när de vid liv inte är i behov av den.
 
 De vid liv har företräde över de bortgångna i det sista fallet men när de som är vid liv inte är i behov av den [allmosan] begås ingen synd om den används för att betala av skulden som tillhör en avliden som inte har lämnat några pengar efter sig. Det kan vara så att denna åsikt är en medelväg mellan det två [tidigare nämnda] åsikterna.
 
-[^1]: Kämpa för Allāhs sak.
 

@@ -14,12 +14,11 @@ description: >-
   ett bevis för dennes tro. Anledn...
 ---
 
-**Fråga:** Bevisas en mans tro genom att han besöker moskén? Detta ska ha nämnts i en *hadīth*[^1].
+**Fråga:** Bevisas en mans tro genom att han besöker moskén? Detta ska ha nämnts i en *hadīth*.
 
 **Svar:** Ja, det råder inga tvivel om att någons närvaro i moskén är ett bevis för dennes tro. Anledningen är att inget tvingar denne att lämna sitt hus och gå till moskén utom tron på Allāh den Allsmäktige.
 
-Frågeställaren säger att det har nämnts i en *hadīth*[^1] att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om du ser en man som ofta besöker moskén, vittna då om dennes tro*.” [^2] Denna *hadīth*[^1] är falsk och den har inte autentiskt rapporterats från honom [profeten].
+Frågeställaren säger att det har nämnts i en *hadīth* att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om du ser en man som ofta besöker moskén, vittna då om dennes tro*.” [^1] Denna *hadīth* är falsk och den har inte autentiskt rapporterats från honom [profeten].
 
-[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
-[^2]: *at-Tirmithi* 2617
+[^1]: *at-Tirmithi* 2617

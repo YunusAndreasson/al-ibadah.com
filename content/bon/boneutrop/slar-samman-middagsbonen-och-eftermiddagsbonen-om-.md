@@ -16,19 +16,16 @@ description: >-
   dem, vilket har rapporterats i en ...
 ---
 
-**Fråga:** Om någon slår ihop middagsbönen[^1] och eftermiddagsbönen[^2], finns det då en *iqāmah*[^3] för var och en av dem?
+**Fråga:** Om någon slår ihop middagsbönen[^1] och eftermiddagsbönen[^2], finns det då en *iqāmah* för var och en av dem?
 
-**Svar:** Det finns en *iqāmah*[^3] för var och en av dem, vilket har rapporterats i en *hadīth*[^4] från Jabir i vilken han beskriver profetens – över honom vare Allāhs frid och välsignelser – pilgrimsfärd. Han nämner att profeten – över honom vare Allāhs frid och välsignelser – slog ihop bönerna i *Muzdalifah*[^5]:
+**Svar:** Det finns en *iqāmah* för var och en av dem, vilket har rapporterats i en *hadīth* från Jabir i vilken han beskriver profetens – över honom vare Allāhs frid och välsignelser – pilgrimsfärd. Han nämner att profeten – över honom vare Allāhs frid och välsignelser – slog ihop bönerna i *Muzdalifah*[^5]:
 
-> ”Han ropade ut *iqāmah*[^3] och han bad kvällsbönen[^5] och sedan ropade han ut *iqāmah*[^3] och bad nattbönen[^6] och han gjorde inte *tasbih*[^7] mellan dem." [*al-Bukhārī*]
+> ”Han ropade ut *iqāmah* och han bad kvällsbönen[^3] och sedan ropade han ut *iqāmah* och bad nattbönen[^4] och han gjorde inte *tasbih* mellan dem." [*al-Bukhārī*]
 
 De frivilliga bönerna finns det inget böneutrop för.
 
 [^1]: Dhuhr
 [^2]: Asr
-[^3]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
-[^4]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^5]: Maghrib
-[^6]: Isha
-[^7]: Att upphöja Allāh, Subhan Allāh.
+[^3]: Maghrib
+[^4]: Isha
 

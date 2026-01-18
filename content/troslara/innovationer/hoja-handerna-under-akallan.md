@@ -1,19 +1,21 @@
 ---
 title: Höja händerna under åkallan
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
- Libanon: Maktaba Dar us-Salam. 277 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+  Libanon: Maktaba Dar us-Salam. 277 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 686
-description: 'Fråga: Jag ser vissa människor höja deras händer när imamen åkallar
- under fredagsbönen. Jag ser andra höja deras händer när de åkallar efter sunnah-bönen
- och under qunūt i witr . Samtidigt finn...'
+description: >-
+  Fråga: Jag ser vissa människor höja deras händer när imamen åkallar under
+  fredagsbönen. Jag ser andra höja deras händer när de åkallar efter
+  sunnah-bönen och under qunūt i witr . Samtidigt finn...
 ---
 
-**Fråga:** Jag ser vissa människor höja deras händer när imamen åkallar[^1] under fredagsbönen. Jag ser andra höja deras händer när de åkallar[^1] efter *sunnah*[^2]-bönen och under *qunūt*[^3] i *witr*[^4]. Samtidigt finns det även dem som inte gör det alls. Vänligen, berätta för mig om det är *sunnah*[^2] att göra på detta vis. *Sunnah*[^2] är att höja händerna då du åkallar[^1] och att du gör så talar för att din åkallan[^1] bör blir besvarad. Profeten har sagt:
+**Fråga:** Jag ser vissa människor höja deras händer när imamen åkallar[^1] under fredagsbönen. Jag ser andra höja deras händer när de åkallar[^1] efter *sunnah*-bönen och under *qunūt* i *witr*. Samtidigt finns det även dem som inte gör det alls. Vänligen, berätta för mig om det är *sunnah* att göra på detta vis. *Sunnah* är att höja händerna då du åkallar[^1] och att du gör så talar för att din åkallan[^1] bör blir besvarad. Profeten har sagt:
 
 > ”Sannerligen, er Herre är *hayiy* och Generös: Han är blyg inför att för Sin tjänare, när han höjer händerna mot Honom, återlämna dem tomma.” [*Abū Dawūd* 1488, *at-Tirmithi* 3556, *Ibn Majah* 3866]
 
@@ -34,7 +36,4 @@ Anledningen till detta är att vi inte har några rapporter från Allāhs sände
 Allāh den Allsmäktige säger: ”*I Guds Sändebud har ni ett gott föredöme*.” [33:21]
 
 [^1]: Du´ā
-[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
-[^3]: En åkallan som kan läsas under den nattliga witr-bönen.
-[^4]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 

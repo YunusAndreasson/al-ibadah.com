@@ -1,16 +1,18 @@
 ---
 title: Islams position mot kristendomen
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
- Libanon: Maktaba Dar us-Salam. 131 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Libanon: Maktaba Dar us-Salam. 131 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 73
-description: 'Fråga: Allāh den Upphöjde har sagt: ”Om någon vill anta en religion
- som inte innebär underkastelse under Guds vilja kommer detta att vägras honom, och
- i nästa liv ska han stå bland förlorar...'
+description: >-
+  Fråga: Allāh den Upphöjde har sagt: ”Om någon vill anta en religion som inte
+  innebär underkastelse under Guds vilja kommer detta att vägras honom, och i
+  nästa liv ska han stå bland förlorar...
 ---
 
 **Fråga:** Allāh den Upphöjde har sagt:
@@ -87,7 +89,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Profeterna är bröder, deras religion är en och deras mödrar är olika.” [*al-Bukhārī* 3433 och *Muslim* 2365]
 
-Därmed kan vi säga att dem som trodde på grunderna i lagarna som gavs till profeterna och sändebuden kommer Allāh att vara nöjd med Han kommer att ge dem lycka och framgång. Det är dem som Allāh prisar i Sin skrift och som vår profet Muḥammad – över honom vare Allāhs frid och välsignelser – lovordar i sin *sunnah*[^1]. Den som trodde på några av grunderna som de förde med sig från Allāh, men som inte trodde på andra, de tror sannerligen inte på någon av dem. Det är nödvändigt att acceptera grundernas enhet och tro på dem alla. Allāh har förberett en hemvist i Helvetesleden för dem […] Det är dem som Allāh tillrättavisar i Sin skrift och Hans sändebud tillrättavisar dem i sin *sunnah*[^1].
+Därmed kan vi säga att dem som trodde på grunderna i lagarna som gavs till profeterna och sändebuden kommer Allāh att vara nöjd med Han kommer att ge dem lycka och framgång. Det är dem som Allāh prisar i Sin skrift och som vår profet Muḥammad – över honom vare Allāhs frid och välsignelser – lovordar i sin *sunnah*. Den som trodde på några av grunderna som de förde med sig från Allāh, men som inte trodde på andra, de tror sannerligen inte på någon av dem. Det är nödvändigt att acceptera grundernas enhet och tro på dem alla. Allāh har förberett en hemvist i Helvetesleden för dem […] Det är dem som Allāh tillrättavisar i Sin skrift och Hans sändebud tillrättavisar dem i sin *sunnah*.
 
 Allāh den Upphöjde säger:
 
@@ -133,7 +135,7 @@ Han tillrättavisar de som dödade profeterna samt de rättfärdiga utan rätt o
 
 Det finns andra verser där Han beskriver en grupp bland judarna och de kristna och säger att de förtjänar beröm, framgång, lycka och evig salighet [i Nästa Liv]. Han kritiserar en annan grupp bland dem och beskriver dem med egenskaper som förtjänar Hans vrede, förbannelse och smärtsamma straff.
 
-Därmed är det tydligt att den islamiska åsikten i fråga om judarna och de kristna är rättvis. Den motsäger sig inte den information som finns i Koranen eller i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^1] när det gäller de två grupperna, där de både fördöms och prisas. Sannerligen är dem Han prisar totalt olika dem som Han tillrättavisar. Det är de som följer profeten. Profeten – över honom vare Allāhs frid och välsignelser – som varken kan läsa eller skriva och som de finner information om i Toran och Evangeliet. Han kommenderar dem att göra det goda och förbjuder dem att begå det onda. Han tillåter dem goda saker och han förbjuder *al-khaba'ith*[allt som är otillåtet när det kommer till handlingar, tro, personer, mat, etcetera]. Han löser dem från deras tunga börda och de bojor som tyngde dem. Detta i lydnad till Allāhs den Upphöjdes Ord:
+Därmed är det tydligt att den islamiska åsikten i fråga om judarna och de kristna är rättvis. Den motsäger sig inte den information som finns i Koranen eller i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* när det gäller de två grupperna, där de både fördöms och prisas. Sannerligen är dem Han prisar totalt olika dem som Han tillrättavisar. Det är de som följer profeten. Profeten – över honom vare Allāhs frid och välsignelser – som varken kan läsa eller skriva och som de finner information om i Toran och Evangeliet. Han kommenderar dem att göra det goda och förbjuder dem att begå det onda. Han tillåter dem goda saker och han förbjuder *al-khaba'ith*[allt som är otillåtet när det kommer till handlingar, tro, personer, mat, etcetera]. Han löser dem från deras tunga börda och de bojor som tyngde dem. Detta i lydnad till Allāhs den Upphöjdes Ord:
 
 > ”Troende! Håll [fast vid] er tro på Gud och på Hans Sändebud och på den Skrift som Han har uppenbarat för Sitt Sändebud och på det som uppenbarades i äldre tid.” [Koranen 4:136]
 
@@ -141,10 +143,8 @@ Det är dessa som Allāhs nåd omsluter och som förtjänar Hans prisande – de
 
 /…/
 
-Om någon vill studera denna fråga vidare, då bör denne vända sig till Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^1]. Den som begrundar Koranens verser och de autentiska *ahādīth*[^2] från profeten, och som studerar det som autentisk har nedtecknats i historien – utan att vara vinklat – och som inte förlitar sig på ytlig spekulation, denne kommer då att tydligt se sanningen och vägledas till den raka vägen.
+Om någon vill studera denna fråga vidare, då bör denne vända sig till Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Den som begrundar Koranens verser och de autentiska *ahādīth* från profeten, och som studerar det som autentisk har nedtecknats i historien – utan att vara vinklat – och som inte förlitar sig på ytlig spekulation, denne kommer då att tydligt se sanningen och vägledas till den raka vägen.
 
 Må frid och välsignelser vara över Muḥammad, hans familj och hans följeslagare.
 
-[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
-[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

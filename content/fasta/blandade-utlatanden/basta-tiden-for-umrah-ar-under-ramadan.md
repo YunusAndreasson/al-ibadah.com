@@ -15,21 +15,19 @@ description: >-
   bästa tiden för ‘umrah är under ramadan....
 ---
 
-**Fråga:** Finns det någon specifik fördel som om att utföra *´umrah*[^1] under vallfärdsmånaderna, som är olika dess fördelar under andra månader?
+**Fråga:** Finns det någon specifik fördel som om att utföra *´umrah* under vallfärdsmånaderna, som är olika dess fördelar under andra månader?
 
-**Svar:** Den bästa tiden för *´umrah*[^1] är under *ramadan*[^2]. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*En ´umrah[^1] under Ramadan är likvärdig med en vallfärd*." [^4]
+**Svar:** Den bästa tiden för *´umrah* är under *ramadan*. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*En ´umrah[^1] under Ramadan är likvärdig med en vallfärd*." [^2]
 
-Denna *hadīth*s äkthet finns det konsensus om och i en annan återberättelse med *al-Bukhārī*s ord sägs det: "*Är likvärdig med en vallfärd [utförd] med mig*." [^5] Och i Muslim finns en version som lyder: "*Är likvärdig med en vallfärd eller en vallfärd [utförd] med mig*." [^6]
+Denna *hadīth*s äkthet finns det konsensus om och i en annan återberättelse med *al-Bukhārī*s ord sägs det: "*Är likvärdig med en vallfärd [utförd] med mig*." [^3] Och i Muslim finns en version som lyder: "*Är likvärdig med en vallfärd eller en vallfärd [utförd] med mig*." [^4]
 
-Det har rapporterats så här med tveksamhet. Detta betyder en vallfärd utförd med honom. Därefter en *´umrah*[^1] utförd i *thul-qa'dah*[^3], då profeten – över honom vare Allāhs frid och välsignelser – alltid gjorde *´umrah*[^1] i *thul-qa'dah*[^3]. Allāh har sagt: ”*I Guds Sändebud har ni ett gott föredöme för alla som [med bävan och hopp] ser fram emot [mötet med] Gud och den Yttersta dagen och som ständigt har Gud för ögonen*.” [^7]
+Det har rapporterats så här med tveksamhet. Detta betyder en vallfärd utförd med honom. Därefter en *´umrah* utförd i *thul-qa'dah*, då profeten – över honom vare Allāhs frid och välsignelser – alltid gjorde *´umrah* i *thul-qa'dah*. Allāh har sagt: ”*I Guds Sändebud har ni ett gott föredöme för alla som [med bävan och hopp] ser fram emot [mötet med] Gud och den Yttersta dagen och som ständigt har Gud för ögonen*.” [^5]
 
 Och framgång kommer från Allāh.
 
 [^1]: Den lilla vallfärden.
-[^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
-[^3]: Den elfte månaden i det islamiska året.
 
-[^4]: *at-Tirmithi* 939 och *Ibn Mājah* 2994
-[^5]: *Muslim* 1256
-[^6]: *al-Bukhārī* 1863 och *Muslim* 1256
-[^7]: Koranen 33:21
+[^2]: *at-Tirmithi* 939 och *Ibn Mājah* 2994
+[^3]: *Muslim* 1256
+[^4]: *al-Bukhārī* 1863 och *Muslim* 1256
+[^5]: Koranen 33:21

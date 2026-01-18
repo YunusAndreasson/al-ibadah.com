@@ -15,7 +15,7 @@ description: >-
   många avskyvärda handlingar. Trots att j...
 ---
 
-**Fråga:** Jag är en ung man som är 19 år gammal och jag har syndat mycket mycket. Jag ber sällan i moskén, jag har aldrig fastat en hel *ramadan*[^1] och jag begår många avskyvärda handlingar. Trots att jag ofta tagit beslutet att ångra mig återvänder jag alltid till att synda.
+**Fråga:** Jag är en ung man som är 19 år gammal och jag har syndat mycket mycket. Jag ber sällan i moskén, jag har aldrig fastat en hel *ramadan* och jag begår många avskyvärda handlingar. Trots att jag ofta tagit beslutet att ångra mig återvänder jag alltid till att synda.
 
 Jag har två grupper av vänner och ingen av dem är praktiserande muslimer. Dessa är mina grannar och min broders vänner som kommer och hälsar på. Vänligen, visa mig hur jag ska komma närmare Allāh den Allsmäktige och längre från att synda.
 
@@ -55,5 +55,4 @@ Han har även sagt:
 
 > ”Exemplet med en rättskaffens följeslagare är likt det med en parfymförsäljare: Antingen ger han parfym till dig som en gåva, du köper parfym från honom eller finner du en väldoft strömma från honom. Exemplet med en ond följeslagare är likt den med en smed: Antingen bränner han dina kläder eller finner du en vedervärdig odör komma från honom.” [*al-Bukhārī* 5534 och *Muslim* 2628]
 
-[^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

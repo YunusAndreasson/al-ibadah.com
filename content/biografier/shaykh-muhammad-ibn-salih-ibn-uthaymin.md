@@ -3,9 +3,10 @@ title: Shaykh Muḥammad Ibn Sālih Ibn ´Uthaymīn
 categories:
   - Biografier
 original_id: 9
-description: “En gång besökte jag Ibn ´Uthaymīn i Mecka där han bodde under vallfärden
- och jag fann att han satt med en nål i sin hand och sydde sin egen skjorta.” [Ibn
- ´Uthaymīn, al-Imām az-Zāhid, 163] Abu '...
+description: >-
+  “En gång besökte jag Ibn ´Uthaymīn i Mecka där han bodde under vallfärden och
+  jag fann att han satt med en nål i sin hand och sydde sin egen skjorta.” [Ibn
+  ´Uthaymīn, al-Imām az-Zāhid, 163] Abu '...
 ---
 
 “En gång besökte jag Ibn ´Uthaymīn i Mecka där han bodde under vallfärden och jag fann att han satt med en nål i sin hand och sydde sin egen skjorta.” [Ibn ´Uthaymīn, al-Imām az-Zāhid, 163]
@@ -18,11 +19,10 @@ Ett stort antal studenter, ifrån både Saudiarabien och andra länder, drog myc
 
 Han var en av de lärda som tjänade islam utan några sorters prejudiceringar och han höll sig även borta ifrån de begränsningar som blint följande av en ideologi eller person kan leda till.
 
-När han gav fatwor var de, likt *Shaykh* ibn Bāz, baserade på bevis ifrån Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^1]. Antalet böcker som han skrev uppgår till runt 50. Han lärde ut religionens fundament vid fakulteten för islamiska lag vid imam Muḥammad ibn Sa'ūds islamiska universitet. Han var även medlem i Det högsta rådet för islamiskt lärda i Saudiarabien, samt imam och fredagspredikant vid den stora moskén i Unayzah.
+När han gav fatwor var de, likt *Shaykh* ibn Bāz, baserade på bevis ifrån Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Antalet böcker som han skrev uppgår till runt 50. Han lärde ut religionens fundament vid fakulteten för islamiska lag vid imam Muḥammad ibn Sa'ūds islamiska universitet. Han var även medlem i Det högsta rådet för islamiskt lärda i Saudiarabien, samt imam och fredagspredikant vid den stora moskén i Unayzah.
 
 Han avled onsdagen den 15:e shawwāl 1421 AH och var då 74 år gammal.
 
 Må Allāh vara honom nådig.
 
-[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

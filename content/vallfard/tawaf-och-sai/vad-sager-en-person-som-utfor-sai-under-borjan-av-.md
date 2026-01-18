@@ -18,11 +18,10 @@ description: >-
 
 **Svar:** Det som är föreskrivet att säga vid början av det första varvet för *sa’ī*[^1] är: ”*Sannerligen, as-Safa och al-Marwah tillhör Allāhs symboler*.” Detta gjorde profeten. Vi känner inte till något som visar att det är en rekommendation att upprepa det. Det är även föreskrivet för den som utför *sa’ī*[^1] att göra mycket åminnelse[^2] av Allāh, åkallan[^3], glorifiering, lovprisan, deklarerande av att Han är den ende sanna guden, upphöjelse av Hans storhet och sökande av Hans förlåtelse.
 
-Detsamma gäller *tawāf*[^4]. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Sannerligen, *tawāf*[^4] runt Huset, och sa’ī[^1] mellan as-Safa och al-Marwah, och stenandet av pelarna är endast för att etablera åminnelse[^2] av Allāh*.” [^5]. Detta har *Ahmad* och *Abū Dawūd* återgivit med en god kedja av återberättare.
+Detsamma gäller *tawāf*. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Sannerligen, *tawāf* runt Huset, och sa’ī[^1] mellan as-Safa och al-Marwah, och stenandet av pelarna är endast för att etablera åminnelse[^2] av Allāh*.” [^4]. Detta har *Ahmad* och *Abū Dawūd* återgivit med en god kedja av återberättare.
 
 [^1]: Vandringen mellan as-Safa och al-Marwa.
 [^2]: Dhikr
 [^3]: Du´ā
-[^4]: Den sju långa rundar vandringen runt Kabah.
 
-[^5]: *Abū Dawūd* 1888 och *Ahmad* 6/64, 75
+[^4]: *Abū Dawūd* 1888 och *Ahmad* 6/64, 75

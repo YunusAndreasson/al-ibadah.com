@@ -16,15 +16,15 @@ description: >-
 
 **Fråga:** Det talas mycket om hälsningsbönen till moskén[^1]. Vissa säger att man inte ska göra den vid de tidpunkter då det är förbjudet att be, som när solen går upp och ned. Andra säger att det är tillåtet då anledningarna till det inte har begränsats genom tidpunkter och att den bör göras även om solen är halvt nere. Jag ber om en detaljerad förklaring till detta.
 
-**Svar:** Det finns vissa oenigheter bland de lärde. Den korrekta åsikten är dock att hälsningsbönen till moskén[^1] är tillåten vid alla tidpunkter, även efter gryningsbönen[^2] och eftermiddagsbönen[^3]. Detta baseras på den generella betydelsen i profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Om någon går in i moskén, då bör han inte sätta sig förrän han har bett två bönecykler*[^4].” [^7]
+**Svar:** Det finns vissa oenigheter bland de lärde. Den korrekta åsikten är dock att hälsningsbönen till moskén[^1] är tillåten vid alla tidpunkter, även efter gryningsbönen[^2] och eftermiddagsbönen[^3]. Detta baseras på den generella betydelsen i profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Om någon går in i moskén, då bör han inte sätta sig förrän han har bett två bönecykler*[^4].” [^5]
 
-Detta är även en bön som det finns anledningar till att be, som bönen efter *tawāf*[^5] [En två bönecykler[^4] lång bön som utförs när man har gått runt Ka’bah] och förmörkelsebönen [En bön vid sol eller månförmörkelse]. Denna korrekta åsikten om dessa böner är att de bör bes vid alla tidpunkter då bönen normalt sett är förbjuden. Detsamma gäller om man tar igen en obligatorisk bön som man har missat. Detta baseras på vad profeten – över honom vare Allāhs frid och välsignelser – har sagt om bönen efter *tawāf*[^5]: ”*Ni från 'Abdi Manaf! Hindra inte någon att göra *tawāf*[^5] runt detta Hus och att be under vilken tid av dagen eller natten han önskar*.” [^8]
+Detta är även en bön som det finns anledningar till att be, som bönen efter *tawāf* [En två bönecykler[^4] lång bön som utförs när man har gått runt Ka’bah] och förmörkelsebönen [En bön vid sol eller månförmörkelse]. Denna korrekta åsikten om dessa böner är att de bör bes vid alla tidpunkter då bönen normalt sett är förbjuden. Detsamma gäller om man tar igen en obligatorisk bön som man har missat. Detta baseras på vad profeten – över honom vare Allāhs frid och välsignelser – har sagt om bönen efter *tawāf*: ”*Ni från 'Abdi Manaf! Hindra inte någon att göra *tawāf* runt detta Hus och att be under vilken tid av dagen eller natten han önskar*.” [^6]
 
-Om förmörkelsebönen har han sagt: ”*Sannerligen är månen och solen två av Allāhs tecken, de förmörkas inte för att någon människa har avlidit eller fötts, så om du ser dem, be och åkalla tills det du lider av har försvunnit*.” [^9]
+Om förmörkelsebönen har han sagt: ”*Sannerligen är månen och solen två av Allāhs tecken, de förmörkas inte för att någon människa har avlidit eller fötts, så om du ser dem, be och åkalla tills det du lider av har försvunnit*.” [^7]
 
-Han har sagt: ”*Den som har sovit över en bön eller glömt den måste ta igen den så fort han kommer ihåg den. Det krävs ingen gottgörelse utöver detta*.” [^10]
+Han har sagt: ”*Den som har sovit över en bön eller glömt den måste ta igen den så fort han kommer ihåg den. Det krävs ingen gottgörelse utöver detta*.” [^8]
 
-Dessa *ahādīth*[^6] sträcker sig till att räkna in de tidpunkter då det är förbjudet att be. *Shaykh ul-islām* Ibn Taimiyyah och hans student Ibn al-Qayyim – må Allāh vara dem nådig – föredrog denna åsikt.
+Dessa *ahādīth* sträcker sig till att räkna in de tidpunkter då det är förbjudet att be. *Shaykh ul-islām* Ibn Taimiyyah och hans student Ibn al-Qayyim – må Allāh vara dem nådig – föredrog denna åsikt.
 
 Och Allāh är Beviljaren av framgång.
 
@@ -32,10 +32,8 @@ Och Allāh är Beviljaren av framgång.
 [^2]: Fajr
 [^3]: Asr
 [^4]: Rakah.
-[^5]: Den sju långa rundar vandringen runt Kabah.
-[^6]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
-[^7]: *al-Bukhārī* 1163 och *Muslim* 714
-[^8]: *Abū Dawūd* 1894, *at-Tirmithi* 868 och *Ahmad* 4:81
-[^9]: *al-Bukhārī* 1040 och *Muslim* 901
-[^10]: *al-Bukhārī* 597 och *Muslim* 684
+[^5]: *al-Bukhārī* 1163 och *Muslim* 714
+[^6]: *Abū Dawūd* 1894, *at-Tirmithi* 868 och *Ahmad* 4:81
+[^7]: *al-Bukhārī* 1040 och *Muslim* 901
+[^8]: *al-Bukhārī* 597 och *Muslim* 684

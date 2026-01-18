@@ -16,6 +16,7 @@ import remarkRehype from 'remark-rehype'
 import remarkSmartypants from 'remark-smartypants'
 import { unified } from 'unified'
 import { visit } from 'unist-util-visit'
+import { remarkGlossaryTerms } from './remark-glossary-terms.js'
 
 /**
  * Rehype plugin to add 'qa-label' class to Fråga:/Svar: labels
@@ -94,6 +95,7 @@ async function parseMarkdown(content: string): Promise<string> {
       ellipses: true, // ... to …
       backticks: true, // ``double'' to curly quotes
     })
+    .use(remarkGlossaryTerms)
     .use(remarkRehype, {
       allowDangerousHtml: true,
       footnoteLabel: undefined,

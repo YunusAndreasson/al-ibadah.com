@@ -14,17 +14,16 @@ description: >-
   anställning hos räntebanker i de ädla ahādīth ...
 ---
 
-**Fråga:** Jag är precis på väg att ta examen och min avsikt är att arbeta för en bank som finns i min hemstad. Vilken är er åsikt om detta? Inkluderas anställning hos räntebanker i de ädla *ahādīth*[^1] om ränta?
+**Fråga:** Jag är precis på väg att ta examen och min avsikt är att arbeta för en bank som finns i min hemstad. Vilken är er åsikt om detta? Inkluderas anställning hos räntebanker i de ädla *ahādīth* om ränta?
 
-**Svar:** Jag råder dig att inte jobba för en räntebank. Det innebär ju att du hjälper bankens ägare med vad Allāh har förbjudit. Han har sagt: ”*Samarbeta för att befrämja fromhet och gudsfruktan, och slut er inte samman för att befrämja synd och fiendskap*.” [^2]
+**Svar:** Jag råder dig att inte jobba för en räntebank. Det innebär ju att du hjälper bankens ägare med vad Allāh har förbjudit. Han har sagt: ”*Samarbeta för att befrämja fromhet och gudsfruktan, och slut er inte samman för att befrämja synd och fiendskap*.” [^1]
 
-Detta beror även på att profeten – över honom vare Allāhs frid och välsignelser – har förbannat den som använder, ger, administrerar eller bevittnar ränta. När han hade gjort detta sade han: ”*De är de likvärdiga [i synd]*.” [^3] *Muslim* har återgivit detta från Jabir bin ´Abdullāh i sin *Sahīh*.
+Detta beror även på att profeten – över honom vare Allāhs frid och välsignelser – har förbannat den som använder, ger, administrerar eller bevittnar ränta. När han hade gjort detta sade han: ”*De är de likvärdiga [i synd]*.” [^2] *Muslim* har återgivit detta från Jabir bin ´Abdullāh i sin *Sahīh*.
 
 Jag ber Allāh att han hjälper de som är ansvariga för bankerna med att hålla sig till den islamiska lagen och att lämna ränta som Allāh har förbjudit för dem. Jag ber Honom även att hjälpa myndigheterna med att hindra dem att använda detta [ränta] så att bankmännen kan hålla sig till Allāhs lag och undvika det som motsätter sig den.
 
 Sannerligen är Han den Bäste att fråga.
 
-[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
-[^2]: Koranen 5:2
-[^3]: *Muslim* 1598
+[^1]: Koranen 5:2
+[^2]: *Muslim* 1598

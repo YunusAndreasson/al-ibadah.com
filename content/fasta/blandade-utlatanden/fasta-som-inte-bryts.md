@@ -14,16 +14,15 @@ description: >-
   fortsätter denne att fasta under två på va...
 ---
 
-**Fråga:** Vad är en fortlöpande fasta för något och är det *sunnah*[^1]?
+**Fråga:** Vad är en fortlöpande fasta för något och är det *sunnah*?
 
-**Svar:** En fortlöpande fasta är när någon inte bryter fastan under två dagar. Således fortsätter denne att fasta under två på varandra efterföljande dagar. Sannerligen har profeten – över honom vare Allāhs frid och välsignelser – förbjudit detta och sagt: "*Den som vill fortsätta att fasta [efter solnedgången], låt denne fortsätta [enbart] till sen natt precis före gryningen*." [^2]
+**Svar:** En fortlöpande fasta är när någon inte bryter fastan under två dagar. Således fortsätter denne att fasta under två på varandra efterföljande dagar. Sannerligen har profeten – över honom vare Allāhs frid och välsignelser – förbjudit detta och sagt: "*Den som vill fortsätta att fasta [efter solnedgången], låt denne fortsätta [enbart] till sen natt precis före gryningen*." [^1]
 
-Därför är en fortlöpande fasta till sen natt innan gryningen något som anses tillåtet men den anses inte vara föreskriven. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har uppmuntrat att skyndsamt bryta fastan. Han har sagt: "*Folket kommer inte att sluta med att hålla sig till gott så länge de skyndar sig till att bryta fastan*." [^3]
+Därför är en fortlöpande fasta till sen natt innan gryningen något som anses tillåtet men den anses inte vara föreskriven. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har uppmuntrat att skyndsamt bryta fastan. Han har sagt: "*Folket kommer inte att sluta med att hålla sig till gott så länge de skyndar sig till att bryta fastan*." [^2]
 
-Han tillät dock att de fortsatte att fasta till sen natt innan gryningen. När de sade: "*Allāhs sändebud! Sannerligen praktiserar du fortlöpande fasta*", svarade han: "*Sannerligen, jag är inte som ni*." [^4]
+Han tillät dock att de fortsatte att fasta till sen natt innan gryningen. När de sade: "*Allāhs sändebud! Sannerligen praktiserar du fortlöpande fasta*", svarade han: "*Sannerligen, jag är inte som ni*." [^3]
 
-[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 
-[^2]: *al-Bukhārī* 1967
-[^3]: *al-Bukhārī* 1957
-[^4]: *Muslim* 218
+[^1]: *al-Bukhārī* 1967
+[^2]: *al-Bukhārī* 1957
+[^3]: *Muslim* 218

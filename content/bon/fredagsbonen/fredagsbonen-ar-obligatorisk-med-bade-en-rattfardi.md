@@ -1,15 +1,17 @@
 ---
 title: Fredagsbönen är obligatorisk med både en rättfärdig och syndig imam
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
- Libanon: Maktaba Dar us-Salam. 458 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Libanon: Maktaba Dar us-Salam. 458 s. ISBN saknas
 categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 358
-description: 'Fråga: Vilket är utlåtandet om de som inte ber fredagsbönen med ursäkten
- att den inte är giltig utom bakom en rättvis imam? Svar: Allāh den Upphöjde
- har gjort förrättandet av fredagsbönen till...'
+description: >-
+  Fråga: Vilket är utlåtandet om de som inte ber fredagsbönen med ursäkten att
+  den inte är giltig utom bakom en rättvis imam? Svar: Allāh den Upphöjde har
+  gjort förrättandet av fredagsbönen till...
 ---
 
 **Fråga:** Vilket är utlåtandet om de som inte ber fredagsbönen med ursäkten att den inte är giltig utom bakom en rättvis imam?
@@ -24,7 +26,6 @@ Fredagsbönen bads när de första muslimerna flyttade till Medina. Då var det 
 
 Under hans livstid bads den även i Bahrain i en by med namnet Juwatha. De lärde kritiserade inte detta.
 
-Kortfattat kan vi säga att det är obligatoriskt att be fredagsbönen i byar och städer, enligt bevis från Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^1] och för att uppnå de stora fördelar som folk får när de till exempel varnas för synder, påminns om Allāh, får lära sig om det som är till nytta för dem och de får samarbeta i rättfärdighet.
+Kortfattat kan vi säga att det är obligatoriskt att be fredagsbönen i byar och städer, enligt bevis från Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och för att uppnå de stora fördelar som folk får när de till exempel varnas för synder, påminns om Allāh, får lära sig om det som är till nytta för dem och de får samarbeta i rättfärdighet.
 
-[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

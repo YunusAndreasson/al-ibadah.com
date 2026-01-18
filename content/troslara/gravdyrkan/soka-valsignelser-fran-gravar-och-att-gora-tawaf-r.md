@@ -17,21 +17,21 @@ description: >-
   som ligger begravd däri? Vilket är utlåt...
 ---
 
-**Fråga:** Vilket är utlåtandet om att söka välsignelser från gravar och att göra *tawāf*[^1] runt dem för att få ens behov uppfyllda och för att komma närmare den som ligger begravd däri? Vilket är utlåtandet om att svära vid någon annan än Allāh?
+**Fråga:** Vilket är utlåtandet om att söka välsignelser från gravar och att göra *tawāf* runt dem för att få ens behov uppfyllda och för att komma närmare den som ligger begravd däri? Vilket är utlåtandet om att svära vid någon annan än Allāh?
 
-**Svar:** Att söka välsignelser från gravar är inte tillåtet och det är en sorts *shirk*[^2]. Detta beror på att detta gör gällande att det finns en inverkan från något som Allāh inte har gett någon auktoritet för. Det var inte de rättfärdiga *salaf*[^3]s tradition att söka välsignelser på detta sätt, och då är det dessutom en innovation. Trodde den som sökte välsignelser att gravens invånare hade någon inverkan eller förmåga att skydda mot ont eller ge något gott, då är det stor *shirk*[^2] om denne åkallade dem i något av dessa syften. Det är också stor *shirk*[^2] om den som residerar i graven dyrkas genom bugningar, nedfallanden eller slakt av ett djur för att komma närmare och visa vördnad för denne. Allāh den Upphöjde säger:
+**Svar:** Att söka välsignelser från gravar är inte tillåtet och det är en sorts *shirk*. Detta beror på att detta gör gällande att det finns en inverkan från något som Allāh inte har gett någon auktoritet för. Det var inte de rättfärdiga *salaf*s tradition att söka välsignelser på detta sätt, och då är det dessutom en innovation. Trodde den som sökte välsignelser att gravens invånare hade någon inverkan eller förmåga att skydda mot ont eller ge något gott, då är det stor *shirk* om denne åkallade dem i något av dessa syften. Det är också stor *shirk* om den som residerar i graven dyrkas genom bugningar, nedfallanden eller slakt av ett djur för att komma närmare och visa vördnad för denne. Allāh den Upphöjde säger:
 
-> ”Den som vid sidan av Gud åkallar[^4] en annan gudom – för vars [existens] han saknar bevis – ska stå till svars enbart inför sin Herre. Det ska inte gå dem väl som förnekar sanningen!” [Koranen 23:117]
+> ”Den som vid sidan av Gud åkallar[^2] en annan gudom – för vars [existens] han saknar bevis – ska stå till svars enbart inför sin Herre. Det ska inte gå dem väl som förnekar sanningen!” [Koranen 23:117]
 
 > ”Var och en som med hopp ser fram mot mötet med sin Herre ska [sträva efter att] leva ett gott och rättskaffens liv och inte göra någon delaktig av den dyrkan som han ägnar sin Herre!” [Koranen 18:110]
 
-Månggudadyrkarna som begår stor *shirk*[^2] är icke-troende som står utanför islam. De kommer att för evigt uppehålla sig i Elden och Paradiset är förbjudet. Detta enligt Allāh den Upphöjdes ord:
+Månggudadyrkarna som begår stor *shirk* är icke-troende som står utanför islam. De kommer att för evigt uppehålla sig i Elden och Paradiset är förbjudet. Detta enligt Allāh den Upphöjdes ord:
 
 > ”Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden ska bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [Koranen 5:72]
 
-Svär man vid någon annan än Allāh, och man tror att den som man svär vid har en position likvärdig med Allāhs, då är man en månggudadyrkare[^5] som gör sig skyldig till stor *shirk*[^2]. Om man inte tror det, men det i ens hjärta finns begär att upphöja den man svär vid, och det sker utan att man tror att dennes position är likvärdig med Allāhs, då är man skyldig till mindre *shirk*[^2]. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Den som svär vid något annat än Allāh har begått otro eller shirk*[^2].” [^6]
+Svär man vid någon annan än Allāh, och man tror att den som man svär vid har en position likvärdig med Allāhs, då är man en månggudadyrkare[^3] som gör sig skyldig till stor *shirk*. Om man inte tror det, men det i ens hjärta finns begär att upphöja den man svär vid, och det sker utan att man tror att dennes position är likvärdig med Allāhs, då är man skyldig till mindre *shirk*. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Den som svär vid något annat än Allāh har begått otro eller shirk*[^1].” [^4]
 
-De som söker välsignelser från gravar, åkallar[^4] de avlidna eller svär vid någon annan än Allāh måste tillrättavisas skarpt. Det måste klargöras för denne att ett sådant beteende inte kommer att rädda denne från Allāhs straff enbart eftersom denne säger: ”Detta är något som vi lärt oss från våra förfäder.” Detta argument är detsamma som polyteristerna som motsade sig sändebudet – över honom vare Allāhs frid och välsignelser – lade fram:
+De som söker välsignelser från gravar, åkallar[^2] de avlidna eller svär vid någon annan än Allāh måste tillrättavisas skarpt. Det måste klargöras för denne att ett sådant beteende inte kommer att rädda denne från Allāhs straff enbart eftersom denne säger: ”Detta är något som vi lärt oss från våra förfäder.” Detta argument är detsamma som polyteristerna som motsade sig sändebudet – över honom vare Allāhs frid och välsignelser – lade fram:
 
 > ”Vi har förstått att detta var våra förfäders tro och vi följer deras exempel.” [Koranen 42:23]
 
@@ -47,10 +47,8 @@ Det är inte tillåtet att som bevis för denna felaktiga handling säga att fö
 
 Må Allāh ge oss framgång med att uppnå det som gör Honom nöjd och må Han skydda oss från allt som orsakar Hans vrede och straff.
 
-[^1]: Den sju långa rundar vandringen runt Kabah.
-[^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
-[^3]: De tre första generationerna i islam.
-[^4]: Du´ā
-[^5]: Mushrik.
+[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
+[^2]: Du´ā
+[^3]: Mushrik.
 
-[^6]: *al-Bukhārī* 2679
+[^4]: *al-Bukhārī* 2679

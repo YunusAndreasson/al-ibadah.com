@@ -1,25 +1,27 @@
 ---
 title: Nagellack
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 324 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 324 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1127
-description: 'Fråga: Vilket är utlåtandet om tvagningen för en kvinna om hon har
- täckt sina naglar med nagellack? Svar: Nagellack är en substans som kvinnor
- tar på deras naglar. Den formar ett ytskikt och e...'
+description: >-
+  Fråga: Vilket är utlåtandet om tvagningen för en kvinna om hon har täckt sina
+  naglar med nagellack? Svar: Nagellack är en substans som kvinnor tar på deras
+  naglar. Den formar ett ytskikt och e...
 ---
 
 **Fråga:** Vilket är utlåtandet om tvagningen[^1] för en kvinna om hon har täckt sina naglar med nagellack?
 
-**Svar:** Nagellack är en substans som kvinnor tar på sina naglar. Den formar ett ytskikt och en kvinna får inte använda den om hon ber. Detta beror på att den hindrar vattnet från att nå naglarna vid tvagningen[^1]. Att använda något som hindrar vattnet från att nå huden är inte tillåtet när man tvagar sig eller gör *ghusl*[^2]. Detta beror på att Allāh säger:
+**Svar:** Nagellack är en substans som kvinnor tar på sina naglar. Den formar ett ytskikt och en kvinna får inte använda den om hon ber. Detta beror på att den hindrar vattnet från att nå naglarna vid tvagningen[^1]. Att använda något som hindrar vattnet från att nå huden är inte tillåtet när man tvagar sig eller gör *ghusl*. Detta beror på att Allāh säger:
 
 > ”När ni går till bön, två då ansikte och händer samt armarna upp till armbågarna och stryk med [de våta] händerna över huvudet och [två] fötterna upp till fotkölarna.” [Koranen 5:6]
 
-Har en kvinna nagellack på sina naglar kommer den att hindra vattnet från att nå dem och då kan det inte sägas att hon har tvättat sina händer. Hon har då utelämnat en obligatorisk del av tvagningen[^1] eller *ghusl*[^2].
+Har en kvinna nagellack på sina naglar kommer den att hindra vattnet från att nå dem och då kan det inte sägas att hon har tvättat sina händer. Hon har då utelämnat en obligatorisk del av tvagningen[^1] eller *ghusl*.
 
 När det gäller någon som inte ber, som en kvinna med månadsblödning, då syndar hon inte om hon använder det så länge hennes handlande inte anses vara ett karaktärsdrag som tillhör de icke-troende kvinnorna. I detta fall är det inte tillåtet då det anses vara en imitation av dem.
 
@@ -36,5 +38,4 @@ En muslim måste anstränga sig till sitt yttersta för att förvissa sig om san
 Och Allāh är Beviljaren av framgång och Vägledaren till den raka vägen.
 
 [^1]: Wudū
-[^2]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 

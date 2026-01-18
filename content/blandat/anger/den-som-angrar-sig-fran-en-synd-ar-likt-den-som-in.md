@@ -15,7 +15,7 @@ description: >-
   för alla dessa synder. Nu ber jag, jag fast...
 ---
 
-**Fråga:** Under flera månader bad jag inte. *Ramadan*[^1] kom och gick utan att jag fastade. Jag rökte även ofta. All lovprisan är för Allāh – jag har ångrat mig för alla dessa synder. Nu ber jag, jag fastar under *ramadan*[^1] och jag har slutat att röka. Min fråga lyder: Måste jag ta igen alla de böner jag missat i det förgångna?
+**Fråga:** Under flera månader bad jag inte. *Ramadan* kom och gick utan att jag fastade. Jag rökte även ofta. All lovprisan är för Allāh – jag har ångrat mig för alla dessa synder. Nu ber jag, jag fastar under *ramadan* och jag har slutat att röka. Min fråga lyder: Måste jag ta igen alla de böner jag missat i det förgångna?
 
 **Svar:** Då Allāh den Högste beviljat dig ånger och då du nu utför dina obligatoriska islamska plikter, vill jag gratulera dig och jag ber Allāh att Han gör dig stadig längs denna väg, att Han ger dig fler välsignelser, att vi alla får dö med denna tro och att vi uppreses i sällskap med den allra noblaste av människor – Muḥammad.
 
@@ -29,5 +29,4 @@ Allāh den Allsmäktige har sagt:
 
 Baserat på utlåtandet i denna vers behöver du inte ta igen de böner och den fasta du tidigare inte utfört. Men fortsätt att ångra dig, be Allāh om förlåtelse och utför goda handlingar. Allāh den Allsmäktige förlåter de som ångrar sig.
 
-[^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

@@ -1,21 +1,23 @@
 ---
 title: Goda handlingar för den som offrar till jinn
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
- Libanon: Maktaba Dar us-Salam. 17 s. ISBN saknas. Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Libanon: Maktaba Dar us-Salam. 17 s. ISBN saknas. Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Offer till andra än Allāh
 original_id: 22
-description: 'Fråga: Några som studerar islam har berättat för oss att den som offrar
- till jinn varken får sin bön eller vallfärd accepterad. När jag hörde detta ångrade
- jag mig inför Allāh då jag brukade gör...'
+description: >-
+  Fråga: Några som studerar islam har berättat för oss att den som offrar till
+  jinn varken får sin bön eller vallfärd accepterad. När jag hörde detta ångrade
+  jag mig inför Allāh då jag brukade gör...
 ---
 
-**Fråga:** Några som studerar islam har berättat för oss att den som offrar till *jinn*[^1] varken får sin bön eller vallfärd accepterad. När jag hörde detta ångrade jag mig inför Allāh då jag brukade göra detta. Jag har vallfärdat men de sade att min vallfärd är ogiltig. Är det sant att min vallfärd är ogiltig? Om det är så, måste jag då vallfärda igen?
+**Fråga:** Några som studerar islam har berättat för oss att den som offrar till *jinn* varken får sin bön eller vallfärd accepterad. När jag hörde detta ångrade jag mig inför Allāh då jag brukade göra detta. Jag har vallfärdat men de sade att min vallfärd är ogiltig. Är det sant att min vallfärd är ogiltig? Om det är så, måste jag då vallfärda igen?
 
-**Svar:** Att offra djur till *jinn*[^1] är *shirk*[^2]. Den som gör detta och dör före denne har ångrat sig kommer att vara i Helveteselden för evigt. Goda handlingar accepteras inte tillsammans med *shirk*[^2]. Allāh säger:
+**Svar:** Att offra djur till *jinn* är *shirk*. Den som gör detta och dör före denne har ångrat sig kommer att vara i Helveteselden för evigt. Goda handlingar accepteras inte tillsammans med *shirk*. Allāh säger:
 
 > ”Om de hade satt medhjälpare vid Hans sida skulle helt visst allt vad de åstadkommit ha gått om intet.” [Koranen 6:88]
 
@@ -25,6 +27,4 @@ All lovprisan tillhör Allāh som har hjälpt dig att ångra dig för denna grov
 
 Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muḥammad samt göra honom, hans hushåll och följeslagare säkra från ont.
 
-[^1]: Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.
-[^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 

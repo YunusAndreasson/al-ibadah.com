@@ -1,23 +1,25 @@
 ---
 title: Stöd av evolutionsteorin motsäger sig en islamisk tro
 author: Ibn ´Abdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
- Libanon: Maktaba Dar us-Salam. 359 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Libanon: Maktaba Dar us-Salam. 359 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 143
-description: 'Fråga: I dag finner vi evolutionsteorin överallt; i våra marockanska
- högskolor, i böcker och i tidningar. Det är som om denna teori är ett odiskutabelt
- faktum. Jag studerar biologi och i ämnet ”ko...'
+description: >-
+  Fråga: I dag finner vi evolutionsteorin överallt; i våra marockanska
+  högskolor, i böcker och i tidningar. Det är som om denna teori är ett
+  odiskutabelt faktum. Jag studerar biologi och i ämnet ”ko...
 ---
 
 **Fråga:** I dag finner vi evolutionsteorin överallt; i våra marockanska högskolor, i böcker och i tidningar. Det är som om denna teori är ett odiskutabelt faktum. Jag studerar biologi och i ämnet ”komparativ anatomi” lär vi oss att arter utvecklats från tidigare arter.
 
-Jag vill veta vad Koranen och ädla *ahādīth*[^1] säger samt vad du tycker?  
+Jag vill veta vad Koranen och ädla *ahādīth* säger samt vad du tycker?  
 
-**Svar:** Evolutionsteorin kommer utan tvekan från *dahris*[^2] och deras anhängare som exempelvis extrema filosofer och *at-Raba'i'i* [De som tror på naturen och att allting sker av sig själv utan en skapare]. Detta är en farlig tro, utan några bevis, som är resultatet av antaganden och gissningar. De påstår även att världen har existerat sedan evig tid och de avvisar tron på skapelsens början samt Återuppståndelsens Dag.
+**Svar:** Evolutionsteorin kommer utan tvekan från *dahris*[^1] och deras anhängare som exempelvis extrema filosofer och *at-Raba'i'i* [De som tror på naturen och att allting sker av sig själv utan en skapare]. Detta är en farlig tro, utan några bevis, som är resultatet av antaganden och gissningar. De påstår även att världen har existerat sedan evig tid och de avvisar tron på skapelsens början samt Återuppståndelsens Dag.
 
 Det råder inga tvivel om att detta är klar otro då de inte tror på vad Allāh den Upphöjde och Hans ädle profeter har berättat för oss.
 
@@ -51,6 +53,5 @@ Därför måste vi acceptera att vi är Allāhs skapelser och under Hans herrav�
 
 Och Allāh är den som ger all framgång.
 
-[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^2]: En materialistisk och ateistisk doktrin som påstår att denna världen har existerat för evigt och som avvisar tron på Nästa Liv.
+[^1]: En materialistisk och ateistisk doktrin som påstår att denna världen har existerat för evigt och som avvisar tron på Nästa Liv.
 

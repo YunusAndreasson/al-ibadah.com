@@ -9,6 +9,7 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
+import { Route as TermerRouteImport } from './routes/termer'
 import { Route as OmRouteImport } from './routes/om'
 import { Route as CategoryRouteImport } from './routes/$category'
 import { Route as IndexRouteImport } from './routes/index'
@@ -18,6 +19,11 @@ import { Route as CategorySlugRouteImport } from './routes/$category.$slug'
 import { Route as CategorySubcategoryIndexRouteImport } from './routes/$category.$subcategory.index'
 import { Route as CategorySubcategorySlugRouteImport } from './routes/$category.$subcategory.$slug'
 
+const TermerRoute = TermerRouteImport.update({
+  id: '/termer',
+  path: '/termer',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const OmRoute = OmRouteImport.update({
   id: '/om',
   path: '/om',
@@ -64,6 +70,7 @@ export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/$category': typeof CategoryRouteWithChildren
   '/om': typeof OmRoute
+  '/termer': typeof TermerRoute
   '/$category/$slug': typeof CategorySlugRoute
   '/$category/$subcategory': typeof CategorySubcategoryRouteWithChildren
   '/$category/': typeof CategoryIndexRoute
@@ -73,6 +80,7 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/om': typeof OmRoute
+  '/termer': typeof TermerRoute
   '/$category/$slug': typeof CategorySlugRoute
   '/$category': typeof CategoryIndexRoute
   '/$category/$subcategory/$slug': typeof CategorySubcategorySlugRoute
@@ -83,6 +91,7 @@ export interface FileRoutesById {
   '/': typeof IndexRoute
   '/$category': typeof CategoryRouteWithChildren
   '/om': typeof OmRoute
+  '/termer': typeof TermerRoute
   '/$category/$slug': typeof CategorySlugRoute
   '/$category/$subcategory': typeof CategorySubcategoryRouteWithChildren
   '/$category/': typeof CategoryIndexRoute
@@ -95,6 +104,7 @@ export interface FileRouteTypes {
     | '/'
     | '/$category'
     | '/om'
+    | '/termer'
     | '/$category/$slug'
     | '/$category/$subcategory'
     | '/$category/'
@@ -104,6 +114,7 @@ export interface FileRouteTypes {
   to:
     | '/'
     | '/om'
+    | '/termer'
     | '/$category/$slug'
     | '/$category'
     | '/$category/$subcategory/$slug'
@@ -113,6 +124,7 @@ export interface FileRouteTypes {
     | '/'
     | '/$category'
     | '/om'
+    | '/termer'
     | '/$category/$slug'
     | '/$category/$subcategory'
     | '/$category/'
@@ -124,10 +136,18 @@ export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   CategoryRoute: typeof CategoryRouteWithChildren
   OmRoute: typeof OmRoute
+  TermerRoute: typeof TermerRoute
 }
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
+    '/termer': {
+      id: '/termer'
+      path: '/termer'
+      fullPath: '/termer'
+      preLoaderRoute: typeof TermerRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/om': {
       id: '/om'
       path: '/om'
@@ -220,6 +240,7 @@ const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   CategoryRoute: CategoryRouteWithChildren,
   OmRoute: OmRoute,
+  TermerRoute: TermerRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

@@ -14,20 +14,18 @@ description: >-
   eller sömn. De inkluderas i den g...
 ---
 
-**Fråga:** Bör man ta igen *sunnah*[^1]-bönerna om tiden för dem har gått ut?
+**Fråga:** Bör man ta igen *sunnah*-bönerna om tiden för dem har gått ut?
 
-**Svar:** Ja, *sunnah*[^1]-bönerna kan tas igen om tiden för dem har gått ut på grund av glömska eller sömn. De inkluderas i den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord:
+**Svar:** Ja, *sunnah*-bönerna kan tas igen om tiden för dem har gått ut på grund av glömska eller sömn. De inkluderas i den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord:
 
 > ”Den som har sovit över en bön eller glömt den måste ta igen den så fort han kommer ihåg den. Det krävs ingen gottgörelse utöver detta.” [*al-Bukhārī* 597]
 
-Det finns också en *hadīth*[^2] från Umm Salmah i vilken hon berättar att profeten – över honom vare Allāhs frid och välsignelser – inte hade möjlighet att be de båda bönecyklerna[^3] eftermiddagsbönen[^4]. Han tog då igen dem efter eftermiddagsbönen[^5]. [^6]
+Det finns också en *hadīth* från Umm Salmah i vilken hon berättar att profeten – över honom vare Allāhs frid och välsignelser – inte hade möjlighet att be de båda bönecyklerna[^1] eftermiddagsbönen[^2]. Han tog då igen dem efter eftermiddagsbönen[^3]. [^4]
 
-Men om man avsiktligen övergav dem tills tiden gick ut, då bör man inte ta igen dem därför att *sunnah*[^1]-bönerna är dyrkan som utförs vid angivna tider. Om man avsiktligen utför dem utanför den föreskrivna tiden, då kommer de inte att accepteras.
+Men om man avsiktligen övergav dem tills tiden gick ut, då bör man inte ta igen dem därför att *sunnah*-bönerna är dyrkan som utförs vid angivna tider. Om man avsiktligen utför dem utanför den föreskrivna tiden, då kommer de inte att accepteras.
 
-[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
-[^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^3]: Rakah.
-[^4]: Dhuhr
-[^5]: Asr
+[^1]: Rakah.
+[^2]: Dhuhr
+[^3]: Asr
 
-[^6]: *al-Bukhārī* 1176 och *Muslim* 834
+[^4]: *al-Bukhārī* 1176 och *Muslim* 834

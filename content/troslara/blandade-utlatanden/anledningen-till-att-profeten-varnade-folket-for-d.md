@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Varför har vi varnats för *Dajjāl*?
 
-**Svar:** Den största prövning på jordens yta sedan Adam skapades tills Timmen börjar är prövningen i *Dajjāl*, vilket är något profeten – över honom vare Allāhs frid och välsignelser – har berättat om. Därför har profeterna – från Noa till Muḥammad – för att understryka vikten av denna fråga varnat människorna för honom [^2].
+**Svar:** Den största prövning på jordens yta sedan Adam skapades tills Timmen börjar är prövningen i *Dajjāl*, vilket är något profeten – över honom vare Allāhs frid och välsignelser – har berättat om. Därför har profeterna – från Noa till Muḥammad – för att understryka vikten av denna fråga varnat människorna för honom [^1].
 
 Allāh vet att han inte kommer att dyka upp innan tidens ände men Han har kommenderat sändebuden att varna deras folk om honom så att vikten. Allvarligheten i detta ska vara uppenbar. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
@@ -24,10 +24,9 @@ Allāh vet att han inte kommer att dyka upp innan tidens ände men Han har komme
 
 Vår Herre den Allsmäktige är den bäste *khalīfah*.
 
-Frågan som rör *Dajjāl* är därmed mycket viktig. Sannerligen är detta den största prövningen från skapelsen av Adam tills Timmen börjar. Detta har omtalats i *ahādīth*[^1]. Denna prövning var värdig nog att väljas ut bland prövningarna i detta liv för att sökas skydd mot under bönen: ”Jag söker min tillflykt hos Allāh från straffet i Helveteselden, från straffet i graven, från livets och dödens prövningar och från prövningen i den falske Messias]."
+Frågan som rör *Dajjāl* är därmed mycket viktig. Sannerligen är detta den största prövningen från skapelsen av Adam tills Timmen börjar. Detta har omtalats i *ahādīth*. Denna prövning var värdig nog att väljas ut bland prövningarna i detta liv för att sökas skydd mot under bönen: ”Jag söker min tillflykt hos Allāh från straffet i Helveteselden, från straffet i graven, från livets och dödens prövningar och från prövningen i den falske Messias]."
 
 Ordet *Dajjāl* härleds från ordet *dajl* som betyder "bedrägeri", och han är en bedragare. [Ja,] han är den störste bedragaren och lögnaren av alla människor.
 
-[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
-[^2]: *al-Bukhārī* 7127
+[^1]: *al-Bukhārī* 7127

@@ -1,19 +1,19 @@
 ---
 title: Olje- och vätskebaserade parfymer
 author: Ibn ´Abdullāh Ibn Bāz
-source: Fatāwa a Ramadan – Volume 2, Page 499, Fatwa No.451
+source: 'Fatāwa a Ramadan – Volume 2, Page 499, Fatwa No.451'
 categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1376
-description: 'Fråga: Är det tillåtet att använda parfymer som till exempel. oljebaserade
- odörer samt cologner och essenser under Ramadan? Svar: Ja, det är tillåtet
- att använda dem, under förutsättning att ...'
+description: >-
+  Fråga: Är det tillåtet att använda parfymer som till exempel. oljebaserade
+  odörer samt cologner och essenser under Ramadan? Svar: Ja, det är tillåtet att
+  använda dem, under förutsättning att ...
 ---
 
-**Fråga:** Är det tillåtet att använda parfymer som till exempel oljebaserade odörer samt cologner och essenser under *ramadan*[^1]?
+**Fråga:** Är det tillåtet att använda parfymer som till exempel oljebaserade odörer samt cologner och essenser under *ramadan*?
 
 **Svar:** Ja, det är tillåtet att använda dem, under förutsättning att essensen inte inandas.
 
-[^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

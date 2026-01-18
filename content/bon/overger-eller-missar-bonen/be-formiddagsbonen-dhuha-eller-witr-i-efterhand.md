@@ -16,11 +16,9 @@ description: >-
 
 **Fråga:** Om man har missat förmiddagsbönen[^1], kan man då be den i efterhand?
 
-**Svar:** Har man missat tiden för förmiddagsbönen[^1], då har man missat den bönen. Detta beror på att förmiddagsbönen[^1] är begränsad till sin tid. De vanliga *sunnah*[^2]-bönerna som följer en obligatorisk bön kan dock tas igen och det beror just på att de följer en bön som är obligatorisk. Samma gäller för *witr*[^3]. Detta beror på att det har bekräftats i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^2] att när han sov över sig eller var sjuk, då bad han tolv bönecykler[^4] under dagen. [^5] *Witr* går då också att ta igen.
+**Svar:** Har man missat tiden för förmiddagsbönen[^1], då har man missat den bönen. Detta beror på att förmiddagsbönen[^1] är begränsad till sin tid. De vanliga *sunnah*-bönerna som följer en obligatorisk bön kan dock tas igen och det beror just på att de följer en bön som är obligatorisk. Samma gäller för *witr*. Detta beror på att det har bekräftats i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* att när han sov över sig eller var sjuk, då bad han tolv bönecykler[^2] under dagen. [^3] *Witr* går då också att ta igen.
 
 [^1]: Dhuha
-[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
-[^3]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
-[^4]: Rakah.
+[^2]: Rakah.
 
-[^5]: *Muslim* 139
+[^3]: *Muslim* 139

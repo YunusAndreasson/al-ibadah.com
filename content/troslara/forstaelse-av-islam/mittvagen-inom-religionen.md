@@ -25,9 +25,9 @@ Ett exempel på detta är en man som säger: "Jag vill stå i nattbön och jag k
 
 Något liknande inträffade under profetens – över honom vare Allāhs frid och välsignelser – livstid när ett antal personer träffades och en av dem sade: "Jag står i bön och jag sover inte." En annan sade: "Jag fastar och jag bryter inte min fasta." Och en tredje sade: "Jag gifter mig inte med kvinnor." Profeten – över honom vare Allāhs frid och välsignelser – informerades om detta och han sade:
 
-> ”Vad är det för fel med människor som säger så här? Jag fastar och jag bryter min fasta. Jag står i bön och jag sover och jag gifter mig med kvinnor. Den som då ogillar min *sunnah*[^1] tillhör inte mig.” [*al-Bukhārī* 6101 och *Muslim* 1401]
+> ”Vad är det för fel med människor som säger så här? Jag fastar och jag bryter min fasta. Jag står i bön och jag sover och jag gifter mig med kvinnor. Den som då ogillar min *sunnah* tillhör inte mig.” [*al-Bukhārī* 6101 och *Muslim* 1401]
 
-Dessa avsåg att överdriva i religionen och sändebudet – över honom vare Allāhs frid och välsignelser – förklarade att han var oskyldig till detta. De uttryckte ju överdrivenhet av hans *sunnah*[^1] som inkluderar fasta samt att bryta fastan, bön, sömn och giftermål med kvinnor.
+Dessa avsåg att överdriva i religionen och sändebudet – över honom vare Allāhs frid och välsignelser – förklarade att han var oskyldig till detta. De uttryckte ju överdrivenhet av hans *sunnah* som inkluderar fasta samt att bryta fastan, bön, sömn och giftermål med kvinnor.
 
 Den som är otillräcklig är den som säger: ”Det finns inget behov av att jag utför frivillig dyrkan. Därför ska jag heller inte göra det. Jag gör enbart obligatoriska handlingar.” Denne kan till och med tänkas vara otillräcklig när det gäller obligatoriska handlingar. Detta är den otillräcklige.
 
@@ -51,5 +51,4 @@ En tredje man är balanserad och han behandlar henne som Allāh och profeten –
 
 Den sistnämnde är balanserad medan den förste är extrem i behandlandet av frun och den andre är otillräcklig. Du bör basera alla dyrkan på detta exempel.
 
-[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

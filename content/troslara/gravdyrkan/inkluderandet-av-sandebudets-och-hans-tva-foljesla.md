@@ -28,20 +28,17 @@ Jundub bin Abdullāh al-Bajali har sagt:
 
 > ”Allāh har tagit mig som en älskad, såsom Han tog Abraham som en älskad. Skulle jag ha tagit en vän i mitt samfund hade jag tagit Abū Bakr som en vän. Var varse! Dem som levde före er brukade göra om deras profeters och rättfärdigas gravar till moskéer. Var varse! Gör aldrig om gravar till moskéer, jag förbjuder er att göra så.” [*Muslim* 532]
 
-*Muslim* har återgivit att Jabir har rapporterat att profeten – över honom vare Allāhs frid och välsignelser – förbjöd resning av gravar, att man sitter på dem eller bygger kammare över dem. [^4] Dessa autentiska traditioner understryker förbudet mot att använda gravar som moskéer. De som gör så är förbannade.
+*Muslim* har återgivit att Jabir har rapporterat att profeten – över honom vare Allāhs frid och välsignelser – förbjöd resning av gravar, att man sitter på dem eller bygger kammare över dem. [^1] Dessa autentiska traditioner understryker förbudet mot att använda gravar som moskéer. De som gör så är förbannade.
 
-Dessa *ahādīth*[^1] påvisar även att det är förbjudet att bygga statyer eller kupoler över gravar […] Att göra så anses vara ett medel för *shirk*[^2] samt ett sätt att dyrka den i graven i stället för Allāh.
+Dessa *ahādīth* påvisar även att det är förbjudet att bygga statyer eller kupoler över gravar […] Att göra så anses vara ett medel för *shirk* samt ett sätt att dyrka den i graven i stället för Allāh.
 
-Detta har inträffat både förr och nu. Oberoende av var muslimer befinner sig måste de vara medvetna om att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit att gravar konstrueras, att man bygger kupoler över dem, att man murar dem eller lyser upp dem samt andra saker som han har förbjudit. De ska inte låta sig luras av vad den stora massan gör, den troende måste alltid söka sanningen och hålla sig till den var han än finner den. Sanningen kan kännas igen genom bevis från Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^3], inte genom människors handlande eller åsikter.
+Detta har inträffat både förr och nu. Oberoende av var muslimer befinner sig måste de vara medvetna om att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit att gravar konstrueras, att man bygger kupoler över dem, att man murar dem eller lyser upp dem samt andra saker som han har förbjudit. De ska inte låta sig luras av vad den stora massan gör, den troende måste alltid söka sanningen och hålla sig till den var han än finner den. Sanningen kan kännas igen genom bevis från Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*, inte genom människors handlande eller åsikter.
 
 Varken Allāhs sändebud – över honom vare Allāhs frid och välsignelser – eller hans båda följeslagare begravdes inuti moskén [utan i stället] begravdes de i ‘Ā’ishāh – må Allāh vara nöjd med henne – kammare. Men när moskén byggdes ut under al-Walīd bin Abdul-Māliks tid inkluderas kammaren i moskén. Detta ska inte jämföras med att inkludera en grav i moskén därför att varken profeten – över honom vare Allāhs frid och välsignelser – eller hans båda följeslagare flyttades in i moskén. Det var endast kammaren i vilken de begravts som inkluderades i moskén på grund av expansionen.
 
-Därmed bör inte detta användas som bevis eller argument för att tillåta byggen över gravar eller att moskéer byggs och människor begravs i dem. Detta har förbjudits enligt de *ahādīth*[^1] som har nämnts ovan. Vad al-Walīd gjorde är inte ett argument som kan användas mot Allāhs sändebuds *sunnah*[^3].
+Därmed bör inte detta användas som bevis eller argument för att tillåta byggen över gravar eller att moskéer byggs och människor begravs i dem. Detta har förbjudits enligt de *ahādīth* som har nämnts ovan. Vad al-Walīd gjorde är inte ett argument som kan användas mot Allāhs sändebuds *sunnah*.
 
 Det är Allāh som ger framgång.
 
-[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
-[^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
-[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 
-[^4]: *Muslim* 970
+[^1]: *Muslim* 970

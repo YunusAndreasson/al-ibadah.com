@@ -1,19 +1,21 @@
 ---
 title: Är Jesus vid liv och var befinner han sig nu?
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
- Libanon: Maktaba Dar us-Salam. 302 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Libanon: Maktaba Dar us-Salam. 302 s. ISBN saknas Muhammed Knut Bernström
+  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 129
-description: 'Fråga: Är Jesus, Marias son, vid liv? Var befinner han sig om han är
- vid liv? Vilka bevis finns i Allāhs skrift och profetens – över honom vare Allāhs
- frid och välsignelser – sunnah? Svar: ...'
+description: >-
+  Fråga: Är Jesus, Marias son, vid liv? Var befinner han sig om han är vid liv?
+  Vilka bevis finns i Allāhs skrift och profetens – över honom vare Allāhs frid
+  och välsignelser – sunnah? Svar: ...
 ---
 
-**Fråga:** Är Jesus, Marias son, vid liv? Var befinner han sig om han är vid liv? Vilka bevis finns i Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^1]?
+**Fråga:** Är Jesus, Marias son, vid liv? Var befinner han sig om han är vid liv? Vilka bevis finns i Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*?
 
 **Svar:** Jesus, Marias son, är vid liv. Judarna varken dödade eller korsfäste honom, men de trodde att de gjorde det. Faktum är att Allāh lyfte upp både hans kropp och själ till himlen. Där befinner han sig i dag. Bevisen för detta är Allāhs den Upphöjdes ord när han besvarar judarnas lögner:
 
@@ -29,5 +31,4 @@ Från Hans ord:
 
 Att låta honom uppresas med kropp och själ är en nödvändig del av Allāhs kraft, visdom, generositet och hjälp till de Han vill hjälpa bland Hans sändebud, enligt Hans ord i slutet av versen: ”*Gud är allsmäktig, vis*.”
 
-[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

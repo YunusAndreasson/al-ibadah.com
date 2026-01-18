@@ -6,14 +6,14 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 560
-description: 'Fråga: Kan man säga ”Allāh, stärk vår ställning inför dig” [ Allāhumma
- ahsin wuqūfanā bayna yadayka ] efter iqāmah? Svar: Det finns ingen grund för
- att säga detta: ”Allāh, stärk vår ställnin...'
+description: >-
+  Fråga: Kan man säga ”Allāh, stärk vår ställning inför dig” [ Allāhumma ahsin
+  wuqūfanā bayna yadayka ] efter iqāmah? Svar: Det finns ingen grund för att
+  säga detta: ”Allāh, stärk vår ställnin...
 ---
 
-**Fråga:** Kan man säga ”Allāh, stärk vår ställning inför dig” [*Allāhumma ahsin wuqūfanā bayna yadayka*] efter *iqāmah*[^1]?
+**Fråga:** Kan man säga ”Allāh, stärk vår ställning inför dig” [*Allāhumma ahsin wuqūfanā bayna yadayka*] efter *iqāmah*?
 
-**Svar:** Det finns ingen grund för att säga detta: ”Allāh, stärk vår ställning inför dig” [*Allāhumma ahsin wuqūfanā bayna yadayka*] efter *iqāmah*[^1].
+**Svar:** Det finns ingen grund för att säga detta: ”Allāh, stärk vår ställning inför dig” [*Allāhumma ahsin wuqūfanā bayna yadayka*] efter *iqāmah*.
 
-[^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
 

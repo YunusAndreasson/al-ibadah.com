@@ -16,9 +16,9 @@ description: >-
 
 [Vad tar en ur islam?]
 
-1. Sätta medhjälpare vid Allāhs sida [*shirk*[^1]]. Allāh den Upphöjde säger: ”Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden ska bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [^2]
+1. Sätta medhjälpare vid Allāhs sida [*shirk*]. Allāh den Upphöjde säger: ”Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden ska bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [^1]
 
-Att åkalla de döda genom att be dem om hjälp eller ge dem gåvor är *shirk*[^1].
+Att åkalla de döda genom att be dem om hjälp eller ge dem gåvor är *shirk*.
 2. Sätta upp medlare mellan sig själv och Allāh, åkalla dem och be dem medla inför Allāh.
 3. Inte tro att månggudadyrkarna är icke-troende, att ha tvivel angående deras otro eller att anse att deras väg är korrekt. Denne är själv en icke-troende.
 4. Tro att någon annans vägledning eller beslut är bättre än profetens – över honom vare Allāhs frid och välsignelser. Detta gäller dem som föredrar ett orättfärdigt ledarskap framför profetens – över honom vare Allāhs frid och välsignelser. Exempel på detta är:
@@ -28,12 +28,12 @@ Tro att system och lagar som skapats av människor är bättre än den islamiska
 Säga att det i dag inte är lämpligt att använda de straff som har Allāh angivit, exempelvis stympning efter stöld och stening efter äktenskapsbrott.
 
 […]Tro att det är tillåtet att förklara det som Allāh gjort förbjudet för att vara tillåtet såsom äktenskapsbrott, alkohol och ocker. Enligt konsensus bland de lärde är en person som anser detta vara tillåtet en icke-troende.
-5. Hata någon del av det Allāhs sändebud förklarat som lagligt, även om man handlar enligt det. Allāh, Den Högste, säger: ”Därför att de känner motvilja mot det som Gud har uppenbarat – och så [låter Han] alla deras företag gå om intet.” [^3]
-6. Någon som förlöjligar sig över någon aspekt av islam, dess belöningar eller bestraffningar. ”Säg: 'Då var era skämt alltså riktade mot Gud, Hans budskap och Hans Sändebud?' Kom inte nu med [tomma] ursäkter! Ni har förnekat den tro som ni förut bekände.” [^4]
-7. Praktisera magi och detta kan bland annat innefatta att skapa osämja mellan en make och maka eller fresta en person till vissa handlingar genom svartkonst. Den som sysselsätter sig med detta hamnar utanför islam. Allāh den Högste säger i Koranen: ”Men dessa två [Hārūt och Mārūt] undervisade inte utan att först säga: 'Vi är bara en prövning och en frestelse; förneka därför inte [Guds välhandlingar]!” [^5]
-8. Stödja någon av månggudadyrkarna mot muslimerna. Allāh den Upphöjde säger: ”Troende! Välj inte judar och kristna till era bundsförvanter – de stöder och skyddar varandra – och den av er som söker deras stöd och skydd blir en av dem. Gud vägleder inte de orättfärdiga.” [^6]
-9. Tro att det för somliga är tillåtet att avvika ifrån den islamiska lagen. Allāh, den Högste, säger: ”Om någon vill anta en religion som inte innebär underkastelse under Guds vilja kommer detta att vägras honom, och i nästa liv ska han stå bland förlorarna.” [^7]
-10. Vända sig bort ifrån Allāhs religion och varken lära sig den eller handla enligt den. Allāh den Högste säger: ”Och vem är mer orättfärdig än den som, när han blir påmind om sin Herres budskap, vänder dem ryggen? [Sådana] syndare ska Vi sannerligen låta känna på Vårt straff.” [^8]
+5. Hata någon del av det Allāhs sändebud förklarat som lagligt, även om man handlar enligt det. Allāh, Den Högste, säger: ”Därför att de känner motvilja mot det som Gud har uppenbarat – och så [låter Han] alla deras företag gå om intet.” [^2]
+6. Någon som förlöjligar sig över någon aspekt av islam, dess belöningar eller bestraffningar. ”Säg: 'Då var era skämt alltså riktade mot Gud, Hans budskap och Hans Sändebud?' Kom inte nu med [tomma] ursäkter! Ni har förnekat den tro som ni förut bekände.” [^3]
+7. Praktisera magi och detta kan bland annat innefatta att skapa osämja mellan en make och maka eller fresta en person till vissa handlingar genom svartkonst. Den som sysselsätter sig med detta hamnar utanför islam. Allāh den Högste säger i Koranen: ”Men dessa två [Hārūt och Mārūt] undervisade inte utan att först säga: 'Vi är bara en prövning och en frestelse; förneka därför inte [Guds välhandlingar]!” [^4]
+8. Stödja någon av månggudadyrkarna mot muslimerna. Allāh den Upphöjde säger: ”Troende! Välj inte judar och kristna till era bundsförvanter – de stöder och skyddar varandra – och den av er som söker deras stöd och skydd blir en av dem. Gud vägleder inte de orättfärdiga.” [^5]
+9. Tro att det för somliga är tillåtet att avvika ifrån den islamiska lagen. Allāh, den Högste, säger: ”Om någon vill anta en religion som inte innebär underkastelse under Guds vilja kommer detta att vägras honom, och i nästa liv ska han stå bland förlorarna.” [^6]
+10. Vända sig bort ifrån Allāhs religion och varken lära sig den eller handla enligt den. Allāh den Högste säger: ”Och vem är mer orättfärdig än den som, när han blir påmind om sin Herres budskap, vänder dem ryggen? [Sådana] syndare ska Vi sannerligen låta känna på Vårt straff.” [^7]
 
 /…/
 
@@ -41,12 +41,11 @@ Det är ingen skillnad om dessa snedsteg utförs skämtsamt, på fullaste allvar
 
 Vi söker vår tillflykt hos Allāh från dessa handlingar som medför Hans vrede och stränga straff.
 
-[^1]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 
-[^2]: Koranen 5:72
-[^3]: Koranen 47:9
-[^4]: Koranen 9:65 – 66
-[^5]: Koranen 2:102
-[^6]: Koranen 5:51
-[^7]: Koranen 3:85
-[^8]: Koranen 32:22
+[^1]: Koranen 5:72
+[^2]: Koranen 47:9
+[^3]: Koranen 9:65 – 66
+[^4]: Koranen 2:102
+[^5]: Koranen 5:51
+[^6]: Koranen 3:85
+[^7]: Koranen 32:22

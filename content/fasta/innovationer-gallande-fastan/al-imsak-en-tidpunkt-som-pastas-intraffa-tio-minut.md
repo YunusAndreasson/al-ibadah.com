@@ -14,18 +14,16 @@ description: >-
   innan gryningsbönen. Finns någon grund för de...
 ---
 
-**Fråga:** I vissa kalendrar har vi sett att under *ramadan*[^1] finns det en sektion som kallas för *al-imsak*. Den är placerad omkring tio till femton minuter innan gryningsbönen[^2]. Finns någon grund för detta i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^3] eller är det en innovation? Lämna ett rättsligt utlåtande. Må Allāh belöna er med det goda.
+**Fråga:** I vissa kalendrar har vi sett att under *ramadan* finns det en sektion som kallas för *al-imsak*. Den är placerad omkring tio till femton minuter innan gryningsbönen[^1]. Finns någon grund för detta i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* eller är det en innovation? Lämna ett rättsligt utlåtande. Må Allāh belöna er med det goda.
 
-**Svar:** Detta är en sorts innovation som det inte finns någon grund för i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^3]. Profetens – över honom vare Allāhs frid och välsignelser – *sunnah*[^3] motsäger sig detta därför att Allāh säger i Sin skrift: "*Och ni får äta och dricka till dess den vita strimman av gryningsljuset kan urskiljas mot nattens mörker*." [^4]
+**Svar:** Detta är en sorts innovation som det inte finns någon grund för i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Profetens – över honom vare Allāhs frid och välsignelser – *sunnah* motsäger sig detta därför att Allāh säger i Sin skrift: "*Och ni får äta och dricka till dess den vita strimman av gryningsljuset kan urskiljas mot nattens mörker*." [^2]
 
-Profeten – över honom vare Allāhs frid och välsignelser – har också sagt: "*Bilal gör böneutropet under natten, så ät och drick tills ni hör Ibn Umm Maktums böneutrop. Han ropar inte ut förrän gryningsbönen[^2] börjar*." [^5]
+Profeten – över honom vare Allāhs frid och välsignelser – har också sagt: "*Bilal gör böneutropet under natten, så ät och drick tills ni hör Ibn Umm Maktums böneutrop. Han ropar inte ut förrän gryningsbönen[^1] börjar*." [^3]
 
-Denna *imsak* [tiden för att sluta att äta och dricka] vilken somliga har inrättat är ett tillägg till vad Allāh den Allsmäktige har påbjudit. Därmed är den ogiltig och den är något överdrivet. Profeten – över honom vare Allāhs frid och välsignelser – sade: "*Förgjord är den som befattar sig med extremism, förgjord är den som befattar sig med extremism, förgjord är den som befattar sig med extremism*." [^6]
+Denna *imsak* [tiden för att sluta att äta och dricka] vilken somliga har inrättat är ett tillägg till vad Allāh den Allsmäktige har påbjudit. Därmed är den ogiltig och den är något överdrivet. Profeten – över honom vare Allāhs frid och välsignelser – sade: "*Förgjord är den som befattar sig med extremism, förgjord är den som befattar sig med extremism, förgjord är den som befattar sig med extremism*." [^4]
 
-[^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
-[^2]: Fajr
-[^3]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
+[^1]: Fajr
 
-[^4]: Koranen 2:187
-[^5]: *al-Bukhārī* 1918 och *Muslim* 1092
-[^6]: *Muslim* 2670
+[^2]: Koranen 2:187
+[^3]: *al-Bukhārī* 1918 och *Muslim* 1092
+[^4]: *Muslim* 2670

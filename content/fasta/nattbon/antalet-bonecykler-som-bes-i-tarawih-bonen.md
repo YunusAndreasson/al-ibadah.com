@@ -16,21 +16,21 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om *tarāwīh*-bönen och hur många bönecykler[^1] består den av?
 
-**Svar:** *Tarāwīh*-bönen är en *sunnah*[^2] som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har föreskrivits. Det har återgivits i *Sahīh al-Bukhārī* och *Sahīh Muslim* att 'A'ishah har berättat att profeten – över honom vare Allāhs frid och välsignelser – bad i moskén en natt och några bad med honom. Sedan bad han under nästa natt och då hade det blivit många.
+**Svar:** *Tarāwīh*-bönen är en *sunnah* som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har föreskrivits. Det har återgivits i *Sahīh al-Bukhārī* och *Sahīh Muslim* att 'A'ishah har berättat att profeten – över honom vare Allāhs frid och välsignelser – bad i moskén en natt och några bad med honom. Sedan bad han under nästa natt och då hade det blivit många.
 
-De samlades sedan under den tredje och fjärde natten men Allāhs sändebud kom inte ut. Under morgonen sade han: "*Jag såg vad ni gjorde. Inget hindrade mig från att komma till er utom att jag var rädd för att det skulle bli en skyldighet för er*." [^6]
+De samlades sedan under den tredje och fjärde natten men Allāhs sändebud kom inte ut. Under morgonen sade han: "*Jag såg vad ni gjorde. Inget hindrade mig från att komma till er utom att jag var rädd för att det skulle bli en skyldighet för er*." [^2]
 
-Antalet bönecykler[^1] är elva enligt vad som har återgivits i *Sahīh al-Bukhārī* och *Sahīh Muslim* från 'A’ishah. Hon fick frågan hur profetens – över honom vare Allāhs frid och välsignelser – bön var under *ramadan*[^3] och hon sade: ”*Han bad inte mer än elva bönecykler[^1], varken under ramadan eller under någon annan månad*." [^7]
+Antalet bönecykler[^1] är elva enligt vad som har återgivits i *Sahīh al-Bukhārī* och *Sahīh Muslim* från 'A’ishah. Hon fick frågan hur profetens – över honom vare Allāhs frid och välsignelser – bön var under *ramadan* och hon sade: ”*Han bad inte mer än elva bönecykler[^1], varken under ramadan eller under någon annan månad*." [^3]
 
-Om någon ber tretton bönecykler[^1] finns det ingen invändan mot det, enligt vad Ibn 'Abbās har sagt: "*Profetens – över honom vare Allāhs frid och välsignelser – bön var tretton bönecykler[^1], det gäller nattbönen*.” [^8]
+Om någon ber tretton bönecykler[^1] finns det ingen invändan mot det, enligt vad Ibn 'Abbās har sagt: "*Profetens – över honom vare Allāhs frid och välsignelser – bön var tretton bönecykler[^1], det gäller nattbönen*.” [^4]
 
-Elva bönecykler[^1] har bekräftats från ´Umar bin al-Khattab och återgivits i imam Māliks *al-Muwatta'* med en rapportörskedja som är en av de mest autentiska. [^9]
+Elva bönecykler[^1] har bekräftats från ´Umar bin al-Khattab och återgivits i imam Māliks *al-Muwatta'* med en rapportörskedja som är en av de mest autentiska. [^5]
 
-Om någon bad mer finns det ingen invändan mot det, enligt vad profeten – över honom vare Allāhs frid och välsignelser – sade när han blev tillfrågad om nattbönen och sade: ”*Två åt gången*.” [^10] Han angav inte ett antal.
+Om någon bad mer finns det ingen invändan mot det, enligt vad profeten – över honom vare Allāhs frid och välsignelser – sade när han blev tillfrågad om nattbönen och sade: ”*Två åt gången*.” [^6] Han angav inte ett antal.
 
-Ett antal olika varianter har rapporterats från *salaf*[^4] – må Allāh vara nöjda med dem – och det finns rum för egna val. Det är dock bäst att begränsa sig till det som har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – och det är elva eller tretton bönecykler[^1].
+Ett antal olika varianter har rapporterats från *salaf* – må Allāh vara nöjda med dem – och det finns rum för egna val. Det är dock bäst att begränsa sig till det som har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – och det är elva eller tretton bönecykler[^1].
 
-Det har inte rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att han eller någon av kaliferna bad 23. Det som i stället har bekräftats från ‘Umar – må Allāh vara nöjd med honom – är att han bad elva bönecykler[^1] då han beordrade Ubayy bin Ka'b och Tamin ad-Dari att stå med folket och be elva bönecykler[^1]. [^11]
+Det har inte rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att han eller någon av kaliferna bad 23. Det som i stället har bekräftats från ‘Umar – må Allāh vara nöjd med honom – är att han bad elva bönecykler[^1] då han beordrade Ubayy bin Ka'b och Tamin ad-Dari att stå med folket och be elva bönecykler[^1]. [^7]
 
 Detta är vad någon som ‘Umar – må Allāh vara nöjd med honom – har ansett vara rätt. Hans sätt i denna fråga är samma som Allāhs sändebud – över honom vare Allāhs frid och välsignelser.
 
@@ -38,21 +38,17 @@ Vi känner inte till att några av följeslagarna bad mer än 23 bönecykler[^1]
 
 Det råder inga tvivel om att konsensus bland följeslagarna är ett bevis, bland dem fanns ju de rättfärdiga kaliferna som profeten – över honom vare Allāhs frid och välsignelser – har beordrat oss att följa och de är de bästa i vårt samfund.
 
-Du bör känna till att de olika åsikterna om antalet bönecykler[^1] i *tarāwīh* och liknande är frågor i vilka det är tillåtet att utöva *ijtihād*[^5] inte gör det eftersträvansvärt att detta ska vara orsaken till splittringar, speciellt inte då *salaf*[^4] – må Allāh vara nöjda med dem – har haft olika åsikter. Här finns inget som hindrar utövandet av *ijtihād*[^5].
+Du bör känna till att de olika åsikterna om antalet bönecykler[^1] i *tarāwīh* och liknande är frågor i vilka det är tillåtet att utöva *ijtihād* inte gör det eftersträvansvärt att detta ska vara orsaken till splittringar, speciellt inte då *salaf* – må Allāh vara nöjda med dem – har haft olika åsikter. Här finns inget som hindrar utövandet av *ijtihād*.
 
-Hur vackert är inte uttalandet från en av de lärde om när någon skilde sig från honom i hans *ijtihād*[^5] i en fråga där det är tillåtet: ”*Genom att du motsäger dig mig har du blivit enig med mig för vi anser båda att det är obligatoriskt att följa det man anser vara sanningen då det är tillåtet att utöva ijtihād*."
+Hur vackert är inte uttalandet från en av de lärde om när någon skilde sig från honom i hans *ijtihād* i en fråga där det är tillåtet: ”*Genom att du motsäger dig mig har du blivit enig med mig för vi anser båda att det är obligatoriskt att följa det man anser vara sanningen då det är tillåtet att utöva ijtihād*."
 
 Vi ber Allāh den Upphöjde att Han ger oss alla framgång i att uppnå vad Han älskar och gör Honom nöjd.
 
 [^1]: Rakah.
-[^2]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
-[^3]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
-[^4]: De tre första generationerna i islam.
-[^5]: Den ansträngning en islamskt lärd gör för att lägga fram ett utlåtande som inte är uppenbart.
 
-[^6]: *al-Bukhārī* 1129
-[^7]: *al-Bukhārī* 1147
-[^8]: *al-Bukhārī* 1138 och *Muslim* 764
-[^9]: *al-Muwatta'* 280
-[^10]: *al-Bukhārī* 990 och *Muslim* 145
-[^11]: *Mālik* 280
+[^2]: *al-Bukhārī* 1129
+[^3]: *al-Bukhārī* 1147
+[^4]: *al-Bukhārī* 1138 och *Muslim* 764
+[^5]: *al-Muwatta'* 280
+[^6]: *al-Bukhārī* 990 och *Muslim* 145
+[^7]: *Mālik* 280

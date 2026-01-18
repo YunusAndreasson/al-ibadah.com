@@ -16,7 +16,7 @@ description: >-
   Herre]. De anser att han är deras herre och...
 ---
 
-**Fråga:** Det finns en sekt som kallas *ash-shathliyyah*. De varken ber, fastar eller betalar allmosa och det finns en person som de kallar ”Sayyidunna” [Vår Herre]. De anser att han är deras herre och att han kommer att representera dem på Domedagen. Han förlåter dem för allt som de gör i detta liv. De möts varje fredags- och måndagsmorgon. Min far har tvingat mig att gå med i denna sekt. Han blir arg när han ser mig fasta eller be och han säger då till mig: ”Vår Herre kommer att förlåta oss för allt och skydda oss från Elden [de kommer att träda in i Paradiset].” Hans ord är felaktiga, för han [deras ”Herre”] är ju endast en människa likt dem. Vad ska jag göra? Snälla, vägled mig. Jag vet att Allāh är min Herre och att Muḥammad är Allāhs profet och sändebud och att min religion är islam och jag praktiserar de fem pelarna. Bör jag lyda min far när det samtidigt innebär olydnad mot Skaparen? Allāh säger i Sin skrift: ”*Tillrättavisa dem inte, och tala alltid hövligt och vänligt till dem*.” [^2]
+**Fråga:** Det finns en sekt som kallas *ash-shathliyyah*. De varken ber, fastar eller betalar allmosa och det finns en person som de kallar ”Sayyidunna” [Vår Herre]. De anser att han är deras herre och att han kommer att representera dem på Domedagen. Han förlåter dem för allt som de gör i detta liv. De möts varje fredags- och måndagsmorgon. Min far har tvingat mig att gå med i denna sekt. Han blir arg när han ser mig fasta eller be och han säger då till mig: ”Vår Herre kommer att förlåta oss för allt och skydda oss från Elden [de kommer att träda in i Paradiset].” Hans ord är felaktiga, för han [deras ”Herre”] är ju endast en människa likt dem. Vad ska jag göra? Snälla, vägled mig. Jag vet att Allāh är min Herre och att Muḥammad är Allāhs profet och sändebud och att min religion är islam och jag praktiserar de fem pelarna. Bör jag lyda min far när det samtidigt innebär olydnad mot Skaparen? Allāh säger i Sin skrift: ”*Tillrättavisa dem inte, och tala alltid hövligt och vänligt till dem*.” [^1]
 
 Om jag inte lyder honom, då kommer han alltid att vara arg på mig och argumentera för att jag ska gå med i denna sekt. Ta hänsyn till att jag inte kan försörja mig själv och att det inte finns någon i familjen som kommer att stödja mig, utom min moder. Vad kan jag göra? Vänligen, vägled mig till det som kommer att göra Allāh nöjd och som kommer att leda mig bort från min faders vrede, min far som varken tror på bönen, fastan eller den sanna islamiska religionen.
 
@@ -24,12 +24,11 @@ Om jag inte lyder honom, då kommer han alltid att vara arg på mig och argument
 
 > ”Gud har anbefallt människan [att visa] godhet mot sina föräldrar; [hon bör tänka på att] modern har burit sitt barn genom det ena svaghetstillståndet efter det andra, [fött det] och ammat det under två år. Tacka Mig och dina föräldrar [och minns att] Jag är målet för er färd! Men om de vill förmå dig att sätta vid Min sida något som du står främmande för, ska du inte lyda dem. Omge dem i detta liv som sig bör [med dina ömma omsorger], och följ samma väg som de som vänder tillbaka till mig i ånger [över sina synder]. Till Mig ska ni föras åter och Jag ska låta er veta vad era handlingar [var värda].” [Koranen 31:14 – 15]
 
-Var med de troende, de som är uppriktiga i sin tro, som Allāh har föreskrivit och som Hans sändebud förkunnade för oss, för att handla enligt Allāhs skrift och Hans sändebuds *sunnah*[^1]. Försök att bära den svårighet som kan komma då du följer Allāhs väg. Det är bättre för din slutliga vistelse […] att hålla sig till den väg de som vänder sig till Allāh i ånger följer. Du måste lämna dem så att de inte leder dig vilse.
+Var med de troende, de som är uppriktiga i sin tro, som Allāh har föreskrivit och som Hans sändebud förkunnade för oss, för att handla enligt Allāhs skrift och Hans sändebuds *sunnah*. Försök att bära den svårighet som kan komma då du följer Allāhs väg. Det är bättre för din slutliga vistelse […] att hålla sig till den väg de som vänder sig till Allāh i ånger följer. Du måste lämna dem så att de inte leder dig vilse.
 
 Vi hoppas att Allāh kommer att göra en väg för dig till levebröd. Allt levebröd ligger i Allāhs händer, inte i din faders eller någon annan skapad varelses.
 
 Må Allāhs frid och välsignelser vara över vår profet Muḥammad, hans familj och hans följeslagare.
 
-[^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 
-[^2]: Koranen 17:23
+[^1]: Koranen 17:23
