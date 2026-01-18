@@ -8,6 +8,7 @@ import type { OccasionType } from '~/lib/hijri'
 export interface SelectionOptions {
   maxCount: number
   minWordCount?: number
+  maxQuestionLength?: number
   excludePaths?: Set<string>
   seed?: number
 }

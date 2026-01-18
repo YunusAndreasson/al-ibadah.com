@@ -9,6 +9,26 @@ import { getNextUpcomingOccasion, type OccasionType } from '~/lib/hijri'
 import { getDailyRotationSeed, selectWithRotation } from './rotation'
 import type { SectionContent, SelectionOptions } from './types'
 
+/** Default max question length for startpage cards */
+const DEFAULT_MAX_QUESTION_LENGTH = 400
+
+/**
+ * Extract the question text from article HTML (everything between "Fråga:" and "Svar:")
+ */
+function extractQuestionText(html: string): string | undefined {
+  const match = html.match(
+    /<strong[^>]*>Fråga:<\/strong>\s*([\s\S]*?)(?=<strong[^>]*>Svar:<\/strong>|$)/i
+  )
+  if (match?.[1]) {
+    return match[1]
+      .replace(/<sup[^>]*>.*?<\/sup>/gi, '')
+      .replace(/<[^>]*>/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim()
+  }
+  return undefined
+}
+
 /**
  * Get all articles from the content data as a flat array
  */
@@ -91,8 +111,9 @@ export function selectArticlesForSection(
   const config = OCCASION_CONTENT_CONFIG[type]
   if (!config) return null
 
-  const { maxCount, minWordCount, excludePaths, seed } = options
+  const { maxCount, minWordCount, maxQuestionLength, excludePaths, seed } = options
   const effectiveMinWordCount = minWordCount ?? config.minWordCount ?? 0
+  const effectiveMaxQuestionLength = maxQuestionLength ?? DEFAULT_MAX_QUESTION_LENGTH
   const effectiveSeed = seed ?? getDailyRotationSeed()
 
   // Collect all matching articles from content sources
@@ -107,6 +128,12 @@ export function selectArticlesForSection(
 
       // Filter by word count if specified
       if (effectiveMinWordCount > 0 && article.wordCount < effectiveMinWordCount) {
+        continue
+      }
+
+      // Filter by question length to ensure questions fit in featured cards
+      const questionText = extractQuestionText(article.html)
+      if (questionText && questionText.length > effectiveMaxQuestionLength) {
         continue
       }
 

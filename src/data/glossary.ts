@@ -16,6 +16,18 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "Allāhs tron.",
     category: "coreTerms",
   },
+  "amin": {
+    canonical: "amin",
+    variants: ["āmīn", "amin", "Āmīn", "Amin"],
+    definition: "Amen, en bön om att Allāh ska besvara det som sagts.",
+    category: "phrases",
+  },
+  "aqiqah": {
+    canonical: "aqiqah",
+    variants: ["aqīqah", "aqiqah", "'aqīqah", "'aqiqah"],
+    definition: "Offer som slaktas för ett nyfött barn.",
+    category: "coreTerms",
+  },
   "'awrah": {
     canonical: "'awrah",
     variants: ["'awrah","'awrah"],
@@ -81,6 +93,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     variants: ["Bismillah","Bismillāh"],
     definition: "I Guds namn.",
     category: "phrases",
+  },
+  "Dajjal": {
+    canonical: "Dajjal",
+    variants: ["Dajjāl", "Dajjal", "ad-Dajjāl", "ad-Dajjal"],
+    definition: "Den falske messias som kommer att framträda före den yttersta dagen.",
+    category: "coreTerms",
   },
   "dhul-hijjah": {
     canonical: "dhul-hijjah",
@@ -166,6 +184,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "Ett speciellt rituellt tillstånd som den vallfärdande träder in i.",
     category: "hajjTerms",
   },
+  "iman": {
+    canonical: "iman",
+    variants: ["īmān", "iman", "Īmān", "Iman"],
+    definition: "Tro, den inre övertygelsen om islams sanningar.",
+    category: "coreTerms",
+  },
   "ijtihad": {
     canonical: "ijtihad",
     variants: ["ijtihād","ijtihad"],
@@ -196,6 +220,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "Väntetid för en kvinna efter skilsmässa eller makens död innan hon får gifta om sig.",
     category: "familyTerms",
   },
+  "izar": {
+    canonical: "izar",
+    variants: ["izār", "izar"],
+    definition: "Det nedre plagget som täcker underkroppen.",
+    category: "hajjTerms",
+  },
   "janabah": {
     canonical: "janabah",
     variants: ["janābah","janabah"],
@@ -208,11 +238,35 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "Levande väsen skapade av eld. De kan se oss men vi människor kan inte se dem.",
     category: "coreTerms",
   },
+  "junub": {
+    canonical: "junub",
+    variants: ["junub"],
+    definition: "Den som befinner sig i ett tillstånd av stor rituell orenhet.",
+    category: "purificationTerms",
+  },
+  "kufr": {
+    canonical: "kufr",
+    variants: ["kufr"],
+    definition: "Otro, att förneka tron.",
+    category: "coreTerms",
+  },
+  "madhi": {
+    canonical: "madhi",
+    variants: ["madhi", "madhī", "Madhi"],
+    definition: "Tunn vätska som utsöndras vid sexuell upphetsning.",
+    category: "purificationTerms",
+  },
   "mahram": {
     canonical: "mahram",
     variants: ["mahram"],
     definition: "Släkting som det inte är tillåtet att gifta sig med.",
     category: "familyTerms",
+  },
+  "mani": {
+    canonical: "mani",
+    variants: ["mani", "manī"],
+    definition: "Sädesvätska.",
+    category: "purificationTerms",
   },
   "miqat": {
     canonical: "miqat",
@@ -250,10 +304,22 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "Den första månaden på det islamiska året. Under denna månaden kan man fasta den 9:e och 10:e dagen eller den 10:e och 11:e.",
     category: "monthNames",
   },
+  "mushaf": {
+    canonical: "mushaf",
+    variants: ["mushaf", "muṣḥaf", "Mushaf"],
+    definition: "En fysisk kopia av Koranen.",
+    category: "coreTerms",
+  },
   "muhkam": {
     canonical: "muhkam",
     variants: ["muhkam"],
     definition: "Klara och precisa.",
+    category: "coreTerms",
+  },
+  "mutashabih": {
+    canonical: "mutashabih",
+    variants: ["mutashābih", "mutashabih", "mutashābihāt", "mutashabihat"],
+    definition: "Tvetydiga eller oklara, i motsats till muhkam.",
     category: "coreTerms",
   },
   "muhrim": {
@@ -279,6 +345,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     variants: ["nisāb","nisab"],
     definition: "Minsta förmögenhetsnivå som gör allmosa obligatorisk.",
     category: "zakatTerms",
+  },
+  "qarin": {
+    canonical: "qarin",
+    variants: ["qarin", "qarīn"],
+    definition: "En följeslagande jinn som varje människa har.",
+    category: "coreTerms",
   },
   "qiblah": {
     canonical: "qiblah",
@@ -309,6 +381,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     variants: ["rida'","ridā'"],
     definition: "Det övre plagget.",
     category: "hajjTerms",
+  },
+  "riya": {
+    canonical: "riya",
+    variants: ["riyā'", "riya'", "riya", "riyā"],
+    definition: "Att göra goda handlingar för att bli sedd av andra, skryt.",
+    category: "coreTerms",
   },
   "ruqyah": {
     canonical: "ruqyah",
@@ -388,6 +466,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.",
     category: "coreTerms",
   },
+  "sihr": {
+    canonical: "sihr",
+    variants: ["sihr", "siḥr"],
+    definition: "Magi eller trolldom.",
+    category: "coreTerms",
+  },
   "Sunan": {
     canonical: "Sunan",
     variants: ["Sunan"],
@@ -416,6 +500,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     canonical: "tafsir",
     variants: ["tafsīr","tafsir"],
     definition: "Tolkning av Koranen efter givna principer.",
+    category: "coreTerms",
+  },
+  "taqwa": {
+    canonical: "taqwa",
+    variants: ["taqwā", "taqwa"],
+    definition: "Gudsfruktan, att vara medveten om Allāh.",
     category: "coreTerms",
   },
   "tahlil": {
@@ -496,6 +586,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "Medel för att tillbe Allāh.",
     category: "coreTerms",
   },
+  "tilawah": {
+    canonical: "tilawah",
+    variants: ["tilāwah", "tilawah"],
+    definition: "Recitation av Koranen.",
+    category: "prayerTerms",
+  },
   "tawhid": {
     canonical: "tawhid",
     variants: ["tawhīd","tawhid","Tawhīd","Tawhid"],
@@ -532,6 +628,18 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "Den elfte månaden i det islamiska året.",
     category: "monthNames",
   },
+  "wadi": {
+    canonical: "wadi",
+    variants: ["wadi", "wadī", "Wadi"],
+    definition: "Tjock vit vätska som kan utsöndras efter urinering.",
+    category: "purificationTerms",
+  },
+  "wali": {
+    canonical: "wali",
+    variants: ["walī", "wali"],
+    definition: "Förmyndare, särskilt en kvinnas manliga förmyndare vid giftermål.",
+    category: "familyTerms",
+  },
   "witr": {
     canonical: "witr",
     variants: ["witr","Witr"],
@@ -543,6 +651,73 @@ export const glossary: Record<string, GlossaryTerm> = {
     variants: ["zakātul-fitr","zakatul-fitr"],
     definition: "Allmosa som ges före eid-bönen.",
     category: "zakatTerms",
+  },
+  // Swedish terms with Arabic equivalents
+  "åkallan": {
+    canonical: "åkallan",
+    variants: ["åkallan","åkallar","Åkallan"],
+    definition: "du'ā",
+    category: "swedishTerms",
+  },
+  "bönecykel": {
+    canonical: "bönecykel",
+    variants: ["bönecykel","bönecykeln","bönecykler","bönecyklerna"],
+    definition: "rak'ah",
+    category: "swedishTerms",
+  },
+  "bugning": {
+    canonical: "bugning",
+    variants: ["bugning","bugningen","bugar"],
+    definition: "rukū'",
+    category: "swedishTerms",
+  },
+  "nedfallan": {
+    canonical: "nedfallan",
+    variants: ["nedfallan","nedfallandet","nedfallanden","nedfaller","nedfalla","nedföll"],
+    definition: "sujūd",
+    category: "swedishTerms",
+  },
+  "tvagning": {
+    canonical: "tvagning",
+    variants: ["tvagning","tvagningen"],
+    definition: "wudu'",
+    category: "swedishTerms",
+  },
+  "åminnelse": {
+    canonical: "åminnelse",
+    variants: ["åminnelse","åminnelser","Åminnelse"],
+    definition: "dhikr",
+    category: "swedishTerms",
+  },
+  "gryningsbön": {
+    canonical: "gryningsbön",
+    variants: ["gryningsbönen","gryningsbön"],
+    definition: "fajr",
+    category: "swedishTerms",
+  },
+  "middagsbön": {
+    canonical: "middagsbön",
+    variants: ["middagsbönen","middagsbön"],
+    definition: "dhuhr",
+    category: "swedishTerms",
+  },
+  "eftermiddagsbön": {
+    canonical: "eftermiddagsbön",
+    variants: ["eftermiddagsbönen","eftermiddagsbön"],
+    definition: "'asr",
+    category: "swedishTerms",
+  },
+  "kvällsbön": {
+    canonical: "kvällsbön",
+    variants: ["kvällsbönen","kvällsbön"],
+    definition: "maghrib",
+    category: "swedishTerms",
+  },
+  "nattbön": {
+    canonical: "nattbön",
+    variants: ["nattbönen","nattbön"],
+    definition: "'ishā'",
+    category: "swedishTerms",
   }
 }
 
@@ -562,20 +737,21 @@ export function findGlossaryTerm(text: string): GlossaryTerm | undefined {
 
 // Category descriptions for display
 export const categoryDescriptions: Record<string, string> = {
-  hadithSources: 'Hadith-kallhanvisningar och samlingar',
-  hadithBooks: 'Hadith-bocker och verk',
-  coreTerms: 'Grundlaggande islamiska termer',
-  prayerTerms: 'Bonerelaterade termer',
+  hadithSources: 'Hadith-källhänvisningar och samlingar',
+  hadithBooks: 'Hadith-böcker och verk',
+  coreTerms: 'Grundläggande islamiska termer',
+  prayerTerms: 'Bönerelaterade termer',
   purificationTerms: 'Renhetstermer',
   fastingTerms: 'Fasta-relaterade termer',
-  hajjTerms: 'Vallfardstermer',
-  hajjLocations: 'Vallfardsorter',
-  monthNames: 'Islamiska manader',
+  hajjTerms: 'Vallfärdstermer',
+  hajjLocations: 'Vallfärdsorter',
+  monthNames: 'Islamiska månader',
   zakatTerms: 'Zakat-termer',
-  familyTerms: 'Familje- och aktenskapstermer',
-  clothingTerms: 'Kladestermer',
+  familyTerms: 'Familje- och äktenskapstermer',
+  clothingTerms: 'Klädestermer',
   phrases: 'Vanliga fraser',
-  scholarlyTerms: 'Akademiska/lardomstermer',
+  scholarlyTerms: 'Akademiska/lärddomstermer',
   tawhidTerms: 'Tawhid-kategorier',
-  miswakAndOther: 'Ovriga termer',
+  miswakAndOther: 'Övriga termer',
+  swedishTerms: 'Svenska termer med arabiska',
 }
