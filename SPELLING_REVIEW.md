@@ -8,9 +8,9 @@
 | renhet   | 148   | 148      | 0         |
 | fasta    | 205   | 205      | 0         |
 | vallfard | 284   | 284      | 0         |
-| troslara | 320   | 0        | 320       |
+| troslara | 320   | 320      | 0         |
 | bon      | 464   | 0        | 464       |
-| **Total**| **1548** | **764** | **784** |
+| **Total**| **1548** | **1084** | **464** |
 
 ---
 
@@ -100,6 +100,35 @@
   - umrah (4 files)
   - utse-nagon-annan-som-vallfardar (13 files)
   - vallfarda-for-nagon-annan (17 files)
+
+### 2026-01-19 - Session 5
+- Category: troslara
+- Files reviewed: 320
+- Corrections: 1 grammatical error
+  - `blandade-utlatanden/de-som-hanar-religionen.md`: "skulle det säkert svara" → "skulle de säkert svara" (3 occurrences - subject-verb agreement in Quran quotation)
+- Subcategories completed:
+  - root files (4 files)
+  - trosbekannelsen (1 file)
+  - tawassul (3 files)
+  - anglarna (3 files)
+  - akalla-andra-an-allah (4 files)
+  - offer-till-andra-an-allah (5 files)
+  - siare-och-trollkarlar (5 files)
+  - eder (6 files)
+  - livet-i-graven (7 files)
+  - domedagen-och-tecknen-infor-den (8 files)
+  - paradiset-och-helvetet (10 files)
+  - amuletter-och-talismaner (11 files)
+  - jinn-magi-och-det-onda-ogat (11 files)
+  - sekter-rorelser-och-den-ratta-vagen (16 files)
+  - tawhid (17 files)
+  - gravdyrkan (17 files)
+  - shirk (19 files)
+  - allahs-forutbestammelse (20 files)
+  - sandebuden (25 files)
+  - forstaelse-av-islam (35 files)
+  - blandade-utlatanden (46 files)
+  - innovationer (47 files)
 
 ---
 
@@ -270,6 +299,10 @@ All 127 files reviewed - no spelling or grammatical errors found. Files are well
 
 ### vallfard
 284 files reviewed - no spelling or grammatical errors found. Files are well-written with correct Swedish spelling and grammar. Arabic/Islamic terms are properly preserved in italics.
+
+### troslara
+320 files reviewed - 1 grammatical error found and corrected:
+- `blandade-utlatanden/de-som-hanar-religionen.md`: "skulle det säkert svara" → "skulle de säkert svara" (3 occurrences - subject-verb agreement in Quran quotation)
 
 ---
 
@@ -473,10 +506,24 @@ All 284 files reviewed - no corrections needed. Subcategories:
 
 ---
 
-## Next Categories (Pending)
+### troslara (320 files) - COMPLETED
 
-### troslara (320 files)
-- [ ] Pending review
+320 files reviewed - 1 correction made. Subcategories:
+- root files (4), trosbekannelsen (1), tawassul (3)
+- anglarna (3), akalla-andra-an-allah (4)
+- offer-till-andra-an-allah (5), siare-och-trollkarlar (5)
+- eder (6), livet-i-graven (7)
+- domedagen-och-tecknen-infor-den (8), paradiset-och-helvetet (10)
+- amuletter-och-talismaner (11), jinn-magi-och-det-onda-ogat (11)
+- sekter-rorelser-och-den-ratta-vagen (16), tawhid (17)
+- gravdyrkan (17), shirk (19)
+- allahs-forutbestammelse (20), sandebuden (25)
+- forstaelse-av-islam (35), blandade-utlatanden (46)
+- innovationer (47)
+
+---
+
+## Next Categories (Pending)
 
 ### bon (464 files)
 - [ ] Pending review
