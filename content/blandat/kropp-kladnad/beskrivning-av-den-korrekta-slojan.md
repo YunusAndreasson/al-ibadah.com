@@ -25,7 +25,7 @@ al-Hāfiz ibn Kathīr säger i sin *tafsīr*:
 
 > “Detta betyder att de inte bör visa någon del av sin prydnad för män som inte är *mahram*, utom det som är omöjligt att dölja. Ibn Mas'ūd har sagt: 'Likt de kappor som de arabiska kvinnorna brukade bära, det vill säga ett yttre klädesplagg som täcker det kvinnorna bar under det yttre plagget, förutom det som syntes under det yttre plagget. Kvinnan syndar inte då det är omöjligt att dölja det.'”
 
-2. Den bör inte vara en prydnad i sig. Allāh säger: “och inte visa mera av sina behag än vad som [anständigtvis] kan vara synligt.” [^2] Den generella innebörden inkluderar här det yttre plagget, är det dekorerat kommer det ju att dra mäns uppmärksamhet till sig. Detta stöds av versen i sura al-Ahzāb:
+2. Den bör inte vara en prydnad i sig. Allāh säger: “och inte visa mera av sina behag än vad som [anständigtvis] kan vara synligt.” [^1] Den generella innebörden inkluderar här det yttre plagget, är det dekorerat kommer det ju att dra mäns uppmärksamhet till sig. Detta stöds av versen i sura al-Ahzāb:
 
 > “Och stanna i ert hem. Men [om ni måste lämna det] försök inte dra uppmärksamheten till era yttre företräden på det sätt som var vanligt under den hedniska tiden.” [Koranen 33:33]
 
@@ -45,7 +45,7 @@ Ibn 'Abd al-Barr sade:
 
 1. Abū Mūsa al-Ash´ari har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: “En kvinna som tar på sig parfym och sedan passerar förbi folk så att de kan känna hennes väldoft är en äktenskapsförbryterska.”
 2. Zaynab har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: “Om någon av er [kvinnor] går till moskén, rör då ingen parfym.”
-3. Abū Hurairah har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: “Den kvinna som parfymerar sig med bakhūr, låt henne inte medvara vid nattbönen[^1] med oss.”
+3. Abū Hurairah har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: “Den kvinna som parfymerar sig med bakhūr, låt henne inte medvara vid nattbönen med oss.”
 4. Mūsa ibn Yassār har berättat att en kvinna gick förbi Abū Hurairah och hennes doft var överväldigande. Han sade då: “Kvinna, slav till al-Jabbār, är du på väg till moskén?” Hon svarade: “Ja.” Han sade: “Och du har parfymerat dig med anledning av det?” Hon svarade: “Ja.” Han sade: “Gå tillbaka och tvätta dig, för jag hörde Allāhs sändebud säga: 'Om en kvinna går till moskén och hennes doft är överväldigande, då kommer Allāh inte att acceptera någon bön ifrån henne innan hon har gått hem och tvättat sig.”
 
 Dessa *ahādīth* är generella i deras betydelser. Precis som förbudet täcker parfym ansatt på kroppen, täcker det även parfym ansatt på kläderna; detta speciellt i den tredje *hadithen* där bakhūr nämns. Detta beror på att bakhūr ofta används just på kläder.
@@ -78,6 +78,5 @@ Det bör kännas till att det finns gott om autentiska bevis för dessa viktiga 
 
 > “Den som bär ett moderiktigt eller högfärdigt klädesplagg i denna värld kommer Allāh att klä i ett förnedrande plagg Återuppståndelsens Dag, sedan kommer Han att få Elden att flamma upp runt denne.”
 
-[^1]: Isha
 
-[^2]: Koranen 24:31
+[^1]: Koranen 24:31

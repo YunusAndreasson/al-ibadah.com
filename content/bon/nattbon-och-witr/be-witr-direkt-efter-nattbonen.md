@@ -14,10 +14,8 @@ description: >-
   börda, speciellt om jag inte ber den efter nattbön...
 ---
 
-**Fråga:** Jag bemödar mig stort med Koran-läsning, åminnelse[^1] och de rekommenderade bönerna som *witr*. Många gånger finner jag dock att *witr* är en börda, speciellt om jag inte ber den efter nattbönen[^2]. Kan jag be den direkt efter nattbönen[^2] eller måste jag skjuta upp den tills innan jag lägger mig?
+**Fråga:** Jag bemödar mig stort med Koran-läsning, åminnelse och de rekommenderade bönerna som *witr*. Många gånger finner jag dock att *witr* är en börda, speciellt om jag inte ber den efter nattbönen. Kan jag be den direkt efter nattbönen eller måste jag skjuta upp den tills innan jag lägger mig?
 
-**Svar:** Det är inte att föredra att skjuta upp *witr* till innan man lägger sig om det då leder till att man glömmer bort att be den, om det blir en börda eller om det leder till att man slarvar med den. I detta fall är det bättre att be direkt efter nattbönen[^2]. Är du säker på att du kan be *witr* i slutet av natten, då är det bättre att skjuta upp den. Är du rädd för att du ska sova över dig eller slarva med bönen, då är det säkrare om du ber den tidigare.
+**Svar:** Det är inte att föredra att skjuta upp *witr* till innan man lägger sig om det då leder till att man glömmer bort att be den, om det blir en börda eller om det leder till att man slarvar med den. I detta fall är det bättre att be direkt efter nattbönen. Är du säker på att du kan be *witr* i slutet av natten, då är det bättre att skjuta upp den. Är du rädd för att du ska sova över dig eller slarva med bönen, då är det säkrare om du ber den tidigare.
 
-[^1]: Dhikr
-[^2]: Isha
 

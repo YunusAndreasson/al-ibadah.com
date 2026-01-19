@@ -17,11 +17,10 @@ description: >-
 
 **Fråga:** Om någon gör *ghusl* utan att skölja munnen eller dra in vatten i näsan, är denna *ghusl* då korrekt?
 
-**Svar:** *Ghusl* är inte giltig utan att munnen sköljs och att vatten dras in i näsan. Detta beror på att Allāh den Upphöjde har sagt: ”*Och om ni befinner er i ett tillstånd av stor rituell orenhet, ska ni rena er [genom att skölja hela kroppen].*” [^2] Detta inbegriper hela kroppen, även insidan av munnen och näsan. Därför beordrade profeten – över honom vare Allāhs frid och välsignelser – att munnen ska sköljas och att vatten ska dras in i näsan under tvagningen[^1] då de inkluderas i Allāh den Upphöjdes ord: ”*Och om ni befinner er i ett tillstånd av stor rituell orenhet, ska ni rena er [genom att skölja hela kroppen]*.” [^3]
+**Svar:** *Ghusl* är inte giltig utan att munnen sköljs och att vatten dras in i näsan. Detta beror på att Allāh den Upphöjde har sagt: ”*Och om ni befinner er i ett tillstånd av stor rituell orenhet, ska ni rena er [genom att skölja hela kroppen].*” [^1] Detta inbegriper hela kroppen, även insidan av munnen och näsan. Därför beordrade profeten – över honom vare Allāhs frid och välsignelser – att munnen ska sköljas och att vatten ska dras in i näsan under tvagningen då de inkluderas i Allāh den Upphöjdes ord: ”*Och om ni befinner er i ett tillstånd av stor rituell orenhet, ska ni rena er [genom att skölja hela kroppen]*.” [^2]
 
 Om de inbegrips i rengöringen av ansiktet och ansiktet är en del av kroppen som måste renas under den stora rengörningen, då är det nödvändigt att den som gör *ghusl* på grund av den stora rituella orenheten sköljer munnen och drar in vatten i näsan.
 
-[^1]: Wudū
 
+[^1]: Koranen 5:6
 [^2]: Koranen 5:6
-[^3]: Koranen 5:6

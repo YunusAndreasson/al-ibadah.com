@@ -15,7 +15,7 @@ description: >-
   Jag sade: ”Detta är shirk .” De sade: ...
 ---
 
-**Fråga:** Att söka Allāhs närhet genom att slakta får vid de rättfärdigas gravar är vanligt bland mitt folk. Jag motsade mig det, men de blev ännu orubbligare. Jag sade: ”Detta är *shirk*.” De sade: ”Vi dyrkar Allāh på bästa sätt! Vad är fel med att besöka Allāhs *awliyā* och i vår åkallan[^1] säga: 'Allāh, vi ber Dig vid Din fromme tjänares rätt. Bota oss, eller undsätt oss från den-och-den olyckan.'” Jag sade till dem: ”Det finns inget rum för medlare i vår religion.” De sade: ”Lämna oss i fred!” Min fråga är: Vilket tror du att botemedlet är för dessa människor? Vad kan jag göra för dem? Hur kan jag bekämpa denna innovation?
+**Fråga:** Att söka Allāhs närhet genom att slakta får vid de rättfärdigas gravar är vanligt bland mitt folk. Jag motsade mig det, men de blev ännu orubbligare. Jag sade: ”Detta är *shirk*.” De sade: ”Vi dyrkar Allāh på bästa sätt! Vad är fel med att besöka Allāhs *awliyā* och i vår åkallan säga: 'Allāh, vi ber Dig vid Din fromme tjänares rätt. Bota oss, eller undsätt oss från den-och-den olyckan.'” Jag sade till dem: ”Det finns inget rum för medlare i vår religion.” De sade: ”Lämna oss i fred!” Min fråga är: Vilket tror du att botemedlet är för dessa människor? Vad kan jag göra för dem? Hur kan jag bekämpa denna innovation?
 
 **Svar:** Från bevisen i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* är det känt att det är *shirk* att söka närhet genom att slakta för någon annan än Allāh som fromma människor, *jinn*, avgudar eller något annat skapat. Detta gjorde hedningarna före islam. Allāh den Upphöjde säger:
 
@@ -33,9 +33,9 @@ I denna sura lär Allāh – upphöjd är Han – Sin Profet att [han ska] be oc
 
 Det finns många verser som förmedlar denna mening.
 
-Då offer är en dyrkan så måste den uppriktigt tillägnas Allāh. Imam *Muslim* återberättar i sin *Sahīh* att de troendes befälhavare, ´Alī, har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Allāh förbannar den som offrar till andra än Honom*.” [^2]
+Då offer är en dyrkan så måste den uppriktigt tillägnas Allāh. Imam *Muslim* återberättar i sin *Sahīh* att de troendes befälhavare, ´Alī, har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Allāh förbannar den som offrar till andra än Honom*.” [^1]
 
-När det gäller dem som säger: ”*Jag besvärjer Allāh vid Hans älskade troendes rätt, vid Hans älskade troendes heder, vid profetens – över honom vare Allāhs frid och välsignelser – rätt eller vid hans heder*.” Sådana besvärjelser är inte *shirk*, men enligt de lärde är det en innovation. De anser också att detta är medel för, därför att en åkallan[^1] är en dyrkan och sättet det bör göras på är inte något som det går att ja olika åsikter om. Det finns inga bevis från profeten – över honom vare Allāhs frid och välsignelser – för att han har tillåtit besvärjelser vid någon människas rätt eller heder.
+När det gäller dem som säger: ”*Jag besvärjer Allāh vid Hans älskade troendes rätt, vid Hans älskade troendes heder, vid profetens – över honom vare Allāhs frid och välsignelser – rätt eller vid hans heder*.” Sådana besvärjelser är inte *shirk*, men enligt de lärde är det en innovation. De anser också att detta är medel för, därför att en åkallan är en dyrkan och sättet det bör göras på är inte något som det går att ja olika åsikter om. Det finns inga bevis från profeten – över honom vare Allāhs frid och välsignelser – för att han har tillåtit besvärjelser vid någon människas rätt eller heder.
 
 Därmed får muslimer inte uppfinna en typ av *tawassul* som Allāh den Upphöjde inte har tillåtit. Allāh den Upphöjde säger:
 
@@ -53,6 +53,5 @@ Tillåten *tawassul* är att åkalla Allāh genom Hans namn och egenskaper. Dett
 
 Det är Allāh som ger framgång.
 
-[^1]: Du´ā
 
-[^2]: *Muslim* 1978
+[^1]: *Muslim* 1978

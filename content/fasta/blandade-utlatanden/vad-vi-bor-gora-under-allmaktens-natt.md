@@ -18,7 +18,7 @@ description: >-
 
 Profeten – över honom vare Allāhs frid och välsignelser – påbjöd att man ska stanna uppe och be under Allmaktens Natt[^1] ut ur tro och med hopp om belöningar. Abū Hurairah har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som stannar uppe under Allmaktens Natt[^1] ut ur tro och med hopp om belöningar, dennes tidigare synder kommer att förlåtas*.” Denna *hadīth* finns det samstämmighet om. Den visar även att det är föreskrivet att iaktta Allmaktens Natt[^1] genom att spendera natten i bön.
 
-En bra åkallan[^3] som kan reciteras under Allmaktens Natt[^1] är den som profeten – över honom vare Allāhs frid och välsignelser – lärde ‘A’ishah. *at-Tirmithi* har återgivit och klassat som *sahīh* att ‘A’ishah – må Allāh vara nöjd med henne – har sagt:
+En bra åkallan som kan reciteras under Allmaktens Natt[^1] är den som profeten – över honom vare Allāhs frid och välsignelser – lärde ‘A’ishah. *at-Tirmithi* har återgivit och klassat som *sahīh* att ‘A’ishah – må Allāh vara nöjd med henne – har sagt:
 
 > ”Jag sade: 'Allāhs sändebud, om jag vet vilken natt som är Allmaktens Natt[^1], vad bör jag säga under den natten?' Han sade: 'Säg: *Allāhumma inaka 'afuwwun tuhibb al-'afwa fa'affu 'anni* [Allāh, Du är förlåtande och Du älskar förlåtelse, så förlåt mig].’”
 
@@ -32,5 +32,4 @@ Och Allāh är källan till all styrka. Må Allāh sända välsignelser och frid
 
 [^1]: Laylatul-Qadr. En av de sista tio nätterna under fastemånaden. Bön under den natten är likvärdig med bön under 1000 månader.
 [^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
-[^3]: Du´ā
 

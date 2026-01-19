@@ -12,15 +12,10 @@ description: >-
   *al-Fātihah* under bönecykeln efter den första ...
 ---
 
-**Fråga:** Under bönerna som består av tre eller fyra bönecykler[^1] [middagsbönen, eftermiddagsbönen[^2], kvällsbönen[^3] och nattbönen[^4]] kan man läsa en sura efter *al-Fātihah* under bönecykeln[^1] efter den första *tashahhud* [den tredje eller fjärde] – är detta tillåtet?
+**Fråga:** Under bönerna som består av tre eller fyra bönecykler [middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen] kan man läsa en sura efter *al-Fātihah* under bönecykeln efter den första *tashahhud* [den tredje eller fjärde] – är detta tillåtet?
 
-**Svar:** Det korrekta är att i bönerna med tre eller fyra bönecykler[^1] läsa sura *al-Fātihah* följt av en annan sura – i de två första bönecyklerna[^1]. Det är inget fel med att ibland – men inte alltid – läsa en extra sura under middagsbönen[^5] och eftermiddagsbönen[^2]. Det bästa är att oftast endast läsa sura *al-Fātihah* efter den första *tashahhud* [den tredje eller fjärde bönecykeln[^1]].
+**Svar:** Det korrekta är att i bönerna med tre eller fyra bönecykler läsa sura *al-Fātihah* följt av en annan sura – i de två första bönecyklerna. Det är inget fel med att ibland – men inte alltid – läsa en extra sura under middagsbönen och eftermiddagsbönen. Det bästa är att oftast endast läsa sura *al-Fātihah* efter den första *tashahhud* [den tredje eller fjärde bönecykeln].
 
 Och hos Allāh vilar all framgång.
 
-[^1]: Rakah.
-[^2]: Asr
-[^3]: Maghrib
-[^4]: Isha
-[^5]: Dhuhr
 

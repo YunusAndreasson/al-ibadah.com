@@ -20,7 +20,6 @@ description: >-
 
 **Svar:** Dessa utlåtanden gäller enbart för män. Det är de som är närvarande vid fredagsbönen och det är de som måste pryda sig själva innan de lämnar hemmet. Detta är inte föreskrivet för kvinnor. Men var och en måste avlägsna smuts om han eller hon ser det på sig själv. Detta är en prisvärd handling som ingen bör missa.
 
-Att göra *ghusl* för fredagsbönen en eller två dagar innan är inte till någon nytta. De *ahādīth* som har rapporterats nämner fredagen specifikt. Tiden är då från gryningsbönen[^1] till fredagsbönen. Det är under denna tidpunkt man bör bada. Gör man det en eller två dagar innan, då finns det ingen nytta i det och det går inte att räkna som *ghusl* för fredagsbönen.
+Att göra *ghusl* för fredagsbönen en eller två dagar innan är inte till någon nytta. De *ahādīth* som har rapporterats nämner fredagen specifikt. Tiden är då från gryningsbönen till fredagsbönen. Det är under denna tidpunkt man bör bada. Gör man det en eller två dagar innan, då finns det ingen nytta i det och det går inte att räkna som *ghusl* för fredagsbönen.
 
-[^1]: Fajr
 

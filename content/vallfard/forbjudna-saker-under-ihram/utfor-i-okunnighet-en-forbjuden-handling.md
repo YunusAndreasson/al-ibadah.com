@@ -17,15 +17,15 @@ description: >-
 
 **Fråga:** Vad gäller den som, ovetandes eller på grund av glömska, utför en av de nio förbjudna handlingarna under *ihrām*?
 
-**Svar:** Den som glömmer och klipper sitt hår eller sina naglar har inte syndat och han behöver inte offra. Detsamma gäller den som i glömska använder parfym, täcker sitt huvud eller bär klädesplagg med sömmar. Allāh håller inte denne ansvarig. Detta eftersom Han har sagt: ”*Herre! Ställ oss inte till svars för glömska eller oavsiktliga fel*.” [^2]
+**Svar:** Den som glömmer och klipper sitt hår eller sina naglar har inte syndat och han behöver inte offra. Detsamma gäller den som i glömska använder parfym, täcker sitt huvud eller bär klädesplagg med sömmar. Allāh håller inte denne ansvarig. Detta eftersom Han har sagt: ”*Herre! Ställ oss inte till svars för glömska eller oavsiktliga fel*.” [^1]
 
-I *Sahīh* återges att Allāh har sagt [som svar på detta]: ”*Sannerligen, har jag gjort så [accepterat denna åkallan[^1]]*.”
+I *Sahīh* återges att Allāh har sagt [som svar på detta]: ”*Sannerligen, har jag gjort så [accepterat denna åkallan]*.”
 
-Allāh har även sagt: ”*Om ni här begår ett misstag. ska ni inte klandras för detta – nej, [det som är av betydelse är] vad ni innerst inne syftar till*.” [^3]
+Allāh har även sagt: ”*Om ni här begår ett misstag. ska ni inte klandras för detta – nej, [det som är av betydelse är] vad ni innerst inne syftar till*.” [^2]
 
-Och i en *hadīth* rapporteras det: ”*Mitt samfund har förlåtits för oavsiktliga fel och glömska*.” [^4]
+Och i en *hadīth* rapporteras det: ”*Mitt samfund har förlåtits för oavsiktliga fel och glömska*.” [^3]
 
-Beträffande att döda vilt har majoriteten av de lärda dömt enligt dess princip [att man måste offra] och de har inte frågat om man gjorde de avsiktligen eller av misstag. Det som troligen är rätt är att det inte är en synd [att döda vilt, oavsiktligen eller i glömska] och det finns inget offer för den som glömde eller gjorde det på grund av glömska. Detta eftersom Allāh har sagt: ”*Den av er som [då] avsiktligen nedlägger vilt*.” [^5]
+Beträffande att döda vilt har majoriteten av de lärda dömt enligt dess princip [att man måste offra] och de har inte frågat om man gjorde de avsiktligen eller av misstag. Det som troligen är rätt är att det inte är en synd [att döda vilt, oavsiktligen eller i glömska] och det finns inget offer för den som glömde eller gjorde det på grund av glömska. Detta eftersom Allāh har sagt: ”*Den av er som [då] avsiktligen nedlägger vilt*.” [^4]
 
 Ett äktenskapskontrakt är inte giltigt även om det upprättades på grund av okunskap, och det krävs inget offer för det.
 
@@ -33,9 +33,8 @@ När det gäller intim samvaro och ett lustfyllt vidrörande, då krävs ett off
 
 Och Allāh vet bäst.
 
-[^1]: Du´ā
 
-[^2]: Koranen 2:286
-[^3]: Koranen 33:5
-[^4]: *Ibn Mājah* 2045
-[^5]: Koranen 5:95
+[^1]: Koranen 2:286
+[^2]: Koranen 33:5
+[^3]: *Ibn Mājah* 2045
+[^4]: Koranen 5:95

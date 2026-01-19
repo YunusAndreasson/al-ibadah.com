@@ -20,7 +20,6 @@ description: >-
 
 > ”Den som badar på fredagen [genom att] göra *ghusl* för janabah och sedan går [till moskén] i den första timmen, denne är lik en som har gett en kamel som offer. Och den som kommer i den andra timmen är lik en som offrar en ko. Och den som kommer i den tredje timmen är lik en som offrat en bagge med horn. Och den som kommer i den fjärde timmen är lik en som har offrat en höna. Och den som kommer i den femte timmen är lik en som har offrat ett ägg.” [*al-Bukhārī* 881 och *Muslim* 850]
 
-Han har då delat tiden från soluppgången tills imamen anländer i fem delar. Varje del kan vara likvärdig med en timme [60 minuter] men den kan också vara längre då tiden ändras så att timmarna är fem mellan soluppgången och tidpunkten då imamen kommer till bönen. De börjar vid soluppgången även om det har sagts att början är gryningsbönen[^1]. Det förra är dock sannolikare då gryningsbönen[^1] är före soluppgången.
+Han har då delat tiden från soluppgången tills imamen anländer i fem delar. Varje del kan vara likvärdig med en timme [60 minuter] men den kan också vara längre då tiden ändras så att timmarna är fem mellan soluppgången och tidpunkten då imamen kommer till bönen. De börjar vid soluppgången även om det har sagts att början är gryningsbönen. Det förra är dock sannolikare då gryningsbönen är före soluppgången.
 
-[^1]: Fajr
 

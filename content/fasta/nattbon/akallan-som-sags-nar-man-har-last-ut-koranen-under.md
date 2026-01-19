@@ -20,10 +20,9 @@ description: >-
 
 /…/
 
-Vissa lärde har dock sagt att det är rekommenderat att avsluta recitationen av Koranen med denna åkallan[^2].
+Vissa lärde har dock sagt att det är rekommenderat att avsluta recitationen av Koranen med denna åkallan.
 
-Om imamen åkallar[^2] så här under den sista delen av natten och han gör det i *qunūt* under *witr*, då skulle det inte finnas någon invändan mot det då *qunūt* är föreskrivet.
+Om imamen åkallar så här under den sista delen av natten och han gör det i *qunūt* under *witr*, då skulle det inte finnas någon invändan mot det då *qunūt* är föreskrivet.
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
-[^2]: Du´ā
 

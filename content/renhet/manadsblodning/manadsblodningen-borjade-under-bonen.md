@@ -16,15 +16,14 @@ description: >-
 
 **Fråga:** Vad gör jag om min månadsblödning började under bönen? Tar jag igen bönen efter perioden?
 
-**Svar:** Låt oss säga att perioden började när tiden för bönen var inne, exempelvis en halvtimme efter solens nedgång. När hon har blivit ren måste hon då ta igen denna bön då den inträtt när hon fortfarande var ren. Detta är enligt Allāhs den Upphöjdes ord: ”*Bönen är alla troendes plikt, knuten till bestämda tider*.” [^3]
+**Svar:** Låt oss säga att perioden började när tiden för bönen var inne, exempelvis en halvtimme efter solens nedgång. När hon har blivit ren måste hon då ta igen denna bön då den inträtt när hon fortfarande var ren. Detta är enligt Allāhs den Upphöjdes ord: ”*Bönen är alla troendes plikt, knuten till bestämda tider*.” [^2]
 
-Hon behöver dock inte ta igen bönerna som hon missade under månadsblödningen. Detta enligt vad profeten – över honom vare Allāhs frid och välsignelser – har sagt i en lång *hadīth*[^1]: ”*Är det inte så att en kvinna varken ber eller fastar under hennes månadsblödning*?” [^4]
+Hon behöver dock inte ta igen bönerna som hon missade under månadsblödningen. Detta enligt vad profeten – över honom vare Allāhs frid och välsignelser – har sagt i en lång *hadīth*[^1]: ”*Är det inte så att en kvinna varken ber eller fastar under hennes månadsblödning*?” [^3]
 
-Det råder konsensus bland de lärde om att hon inte behöver ta igen de böner som hon missade under hennes månadsblödning. Men om hon blev ren och där återstod en bönecykel[^1] eller mer i tid, då bör hon be när hon blir ren. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som hinner med en bönecykel[^1] vid eftermiddagsbönen[^2] innan solen går ned, han har hunnit med eftermiddagsbönen*[^2].” [^5]
+Det råder konsensus bland de lärde om att hon inte behöver ta igen de böner som hon missade under hennes månadsblödning. Men om hon blev ren och där återstod en bönecykel eller mer i tid, då bör hon be när hon blir ren. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som hinner med en bönecykel vid eftermiddagsbönen innan solen går ned, han har hunnit med eftermiddagsbönen*[^1].” [^4]
 
-[^1]: Rakah.
-[^2]: Asr
+[^1]: Asr
 
-[^3]: Koranen 4:103
-[^4]: *al-Bukhārī* 304, 956, 1462, 1951 och 2658
-[^5]: *Muslim* 608, *Abū Dawūd* 412 och *Ahmad* 2:254, 282
+[^2]: Koranen 4:103
+[^3]: *al-Bukhārī* 304, 956, 1462, 1951 och 2658
+[^4]: *Muslim* 608, *Abū Dawūd* 412 och *Ahmad* 2:254, 282

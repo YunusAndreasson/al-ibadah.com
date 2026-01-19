@@ -14,14 +14,13 @@ description: >-
   Resenären får inte förkorta bönen ...
 ---
 
-**Fråga:** Om en resenär han med de båda sista bönecyklerna[^1] med en imam som inte ber som gäst, kan denne då göra *taslīm* med honom för att förkorta bönen?
+**Fråga:** Om en resenär han med de båda sista bönecyklerna med en imam som inte ber som gäst, kan denne då göra *taslīm* med honom för att förkorta bönen?
 
-**Svar:** Resenären får inte förkorta bönen om denne fullföljer med en imam. Detta enligt den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*Be det som du hinner med av bönen och fullfölj det som du har missat*." [^2]
+**Svar:** Resenären får inte förkorta bönen om denne fullföljer med en imam. Detta enligt den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*Be det som du hinner med av bönen och fullfölj det som du har missat*." [^1]
 
-Med detta som grund: Om resenären han med de två sista bönecyklerna[^1] av bönen med imamen som inte bad som gäst, då måste denne be två bönecykler[^1] efter imamens *taslīm*. Denne får inte göra *taslīm* med imamen genom att korta den till två bönecykler[^1].
+Med detta som grund: Om resenären han med de två sista bönecyklerna av bönen med imamen som inte bad som gäst, då måste denne be två bönecykler efter imamens *taslīm*. Denne får inte göra *taslīm* med imamen genom att korta den till två bönecykler.
 
 Och Allāh vet bäst.
 
-[^1]: Rakah.
 
-[^2]: *al-Bukhārī* 636 och *Muslim* 151
+[^1]: *al-Bukhārī* 636 och *Muslim* 151

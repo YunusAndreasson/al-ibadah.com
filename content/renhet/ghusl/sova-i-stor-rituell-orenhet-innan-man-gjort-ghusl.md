@@ -20,9 +20,8 @@ description: >-
 
 Därmed är det inte en synd att sova innan *ghusl* även om man inte har tvagat sig. Anledningen är att det har rapporterats att profeten – över honom vare Allāhs frid och välsignelser – ibland brukade sova utan att tvaga sig då han befann sig i den stora rituella orenheten.
 
-Men det är ogillat att inte tvaga sig innan man sover. Det är ju så att tvagningen[^1] minskar den stora rituella orenheten [alltså, man är inte lika oren]. Gör man *ghusl* innan man sover så är det bäst.
+Men det är ogillat att inte tvaga sig innan man sover. Det är ju så att tvagningen minskar den stora rituella orenheten [alltså, man är inte lika oren]. Gör man *ghusl* innan man sover så är det bäst.
 
 Och Allāh vet bäst.
 
-[^1]: Wudū
 

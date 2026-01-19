@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Hur gör man *sajdatut-tilawah*[^1] och hur många *taslīm* bör man recitera i den?
 
-**Svar:** *Sajdatut-tilawah*[^1] är som nedfallandet[^2] under bönen. Det är att föredra att stå rakt för att sedan nedfalla[^2] på sju kroppsdelar [pannan, näsan, händerna, knäna och tårna] och säga: ”*Subhana Rabbial-A’la*” tre gånger följt av:
+**Svar:** *Sajdatut-tilawah*[^1] är som nedfallandet under bönen. Det är att föredra att stå rakt för att sedan nedfalla på sju kroppsdelar [pannan, näsan, händerna, knäna och tårna] och säga: ”*Subhana Rabbial-A’la*” tre gånger följt av:
 
 > ”Allāhumma, Inī Laka sajadtu wa bika amantu wa laka aslamtu, wa 'alaika tawakkaltu. Sajada wajhīya lillathī khalaqahu wa sawwarahu wa shaqqa sam'ahu wa basrahu, bihawkihi wa quwwatihi, tabarak Allāhu ahsanul khaliqīn.”
 
@@ -25,5 +25,4 @@ description: >-
 Den första delen har *Muslim* återgivit (771) och *at-Tirmithi* den andra av (579).
 
 [^1]: När vissa verser i Koranen reciteras kan man nedfalla.
-[^2]: sujūd, nedfallandet när pannan läggs mot marken.
 

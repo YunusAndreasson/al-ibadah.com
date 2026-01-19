@@ -14,7 +14,7 @@ description: >-
   är bäst? Svar: Det som är sunnah ...
 ---
 
-**Fråga:** När åkallar[^1] man för den avlidne? När kistan har sänkts ned och man har kastat jord över den? Bör den som åkallar[^1] för den avlidne sitta eller stå? Vad är bäst?
+**Fråga:** När åkallar man för den avlidne? När kistan har sänkts ned och man har kastat jord över den? Bör den som åkallar för den avlidne sitta eller stå? Vad är bäst?
 
 **Svar:** Det som är *sunnah* för den som vill åkalla för den avlidne – när denne har sänkts ned och jord har kastats över denne – är att åkalla ståendes. Grunden för detta är vad *Abū Dawūd* har återgivit med en kedja av återberättare från ‘Uthmān. Han [‘Uthmān] sade:
 
@@ -24,5 +24,4 @@ description: >-
 
 Framgång kommer från Allāh. Må Allāh sända välsignelser och frid över vår profet Muḥammad, hans familj och hans följeslagare.
 
-[^1]: Du´ā
 

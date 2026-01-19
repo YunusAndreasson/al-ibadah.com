@@ -14,7 +14,7 @@ description: >-
   jag hade intim samvaro på med min fru samt ...
 ---
 
-**Fråga:** Jag hade intim samvaro med min fru. Sedan gick jag upp för att göra *ghusl* och be gryningsbönen[^1]. Får jag fortsätta att sova på samma madrass som jag hade intim samvaro på med min fru samt att täcka mig med samma täcke?
+**Fråga:** Jag hade intim samvaro med min fru. Sedan gick jag upp för att göra *ghusl* och be gryningsbönen. Får jag fortsätta att sova på samma madrass som jag hade intim samvaro på med min fru samt att täcka mig med samma täcke?
 
 **Svar:** Det gör inte personen ifråga eller dennes madrass oren. ‘A’ishah – må Allāh vara nöjd med henne – har sagt: ”*Jag brukade torka det från profetens – över honom vare Allāhs frid och välsignelser – kläder, sedan bad han i dem*.”
 
@@ -22,5 +22,4 @@ Detta gäller om sperman har kommit ut efter att man har tvättat sina könsdela
 
 Då sperma är rent får en man sova på en madrass och täcka sig med det täcke som han har haft intim samvaro med sin fru under. Det finns inget skadligt i detta.
 
-[^1]: Fajr
 

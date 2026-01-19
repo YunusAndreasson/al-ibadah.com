@@ -14,9 +14,8 @@ description: >-
   be witr som tre bönecykler med tv...
 ---
 
-**Fråga:** En person avsåg att be tre bönecykler[^1] som *witr* men under bönen kände han att han ville be mer än så, får han göra det då?
+**Fråga:** En person avsåg att be tre bönecykler som *witr* men under bönen kände han att han ville be mer än så, får han göra det då?
 
-**Svar:** Det är *sunnah* att be *witr* som tre bönecykler[^1] med två *taslīm*. Vill man be mer än tre, då är det fördelaktigt att be elva. Ber man elva gör man *taslīm* efter varannan bönecykel. Avsåg man att be tre bönecykler[^1], men efter öppnings-*takbīr* ville be mer, då är det tillåtet. Detta gäller även om man befinner sig i den tredje bönecykeln[^1] och man har bestämt sig för att be en fjärde och sedan be *witr* efter den. Detta är inga problem, om Allāh vill.
+**Svar:** Det är *sunnah* att be *witr* som tre bönecykler med två *taslīm*. Vill man be mer än tre, då är det fördelaktigt att be elva. Ber man elva gör man *taslīm* efter varannan bönecykel. Avsåg man att be tre bönecykler, men efter öppnings-*takbīr* ville be mer, då är det tillåtet. Detta gäller även om man befinner sig i den tredje bönecykeln och man har bestämt sig för att be en fjärde och sedan be *witr* efter den. Detta är inga problem, om Allāh vill.
 
-[^1]: Rakah.
 

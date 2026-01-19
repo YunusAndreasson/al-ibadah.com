@@ -24,14 +24,13 @@ När det gäller hörnet mot Jemen finns det, enligt vad vi känner till, inget 
 
 Men om det medför svårigheter, då är det inte föreskrivet att röra det och man fortsätter sin *tawāf* utan att vinka mot det eller säga *takbīr*. Det finns ju inte något rapporterat om detta från profeten – över honom vare Allāhs frid och välsignelser – eller hans följeslagare. Detta har jag klargjort i min bok *at-Tahqiq wal-eidhah li-kathīr min masa'[^1] ilil-hajj wal-'umrah was-ziyrarah*.
 
-När det gäller *takbīr* så sägs den endast vid ett tillfälle. Jag känner inte till något som bevisar att det är föreskrivet att säga det mer än en gång. Under hela *tawāf* åkallar[^2] och åminns man Allāh på ett sätt som är lätt för en.
+När det gäller *takbīr* så sägs den endast vid ett tillfälle. Jag känner inte till något som bevisar att det är föreskrivet att säga det mer än en gång. Under hela *tawāf* åkallar och åminns man Allāh på ett sätt som är lätt för en.
 
-Man avslutar varje varv med vad profeten – över honom vare Allāhs frid och välsignelser – brukade avsluta varje varv med. Detta är den kända åkallan[^2] som lyder: ”*Rabbana ātina fid-dunyā hasanatan wa fil-ākhirati hasanatan wa qina 'athābannār* [Vår Herre, ge oss gott i detta liv och gott i det Nästa och skydda oss från plågan i Elden].”
+Man avslutar varje varv med vad profeten – över honom vare Allāhs frid och välsignelser – brukade avsluta varje varv med. Detta är den kända åkallan som lyder: ”*Rabbana ātina fid-dunyā hasanatan wa fil-ākhirati hasanatan wa qina 'athābannār* [Vår Herre, ge oss gott i detta liv och gott i det Nästa och skydda oss från plågan i Elden].”
 
-Åminnelse av Allāh och åkallan[^2] är *sunnah* under *tawāf*, de är inte obligatoriska.
+Åminnelse av Allāh och åkallan är *sunnah* under *tawāf*, de är inte obligatoriska.
 
 Och Allāh är Den som ger framgång.
 
 [^1]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
-[^2]: Du´ā
 

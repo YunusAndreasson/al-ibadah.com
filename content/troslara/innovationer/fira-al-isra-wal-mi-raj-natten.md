@@ -14,7 +14,7 @@ description: >-
   den 27:e natten i rajab saknar g...
 ---
 
-**Fråga:** Vilket är utlåtandet om att fira *al-isrā’ wal-mi'raj* med åminnelse[^1] av Allāh?
+**Fråga:** Vilket är utlåtandet om att fira *al-isrā’ wal-mi'raj* med åminnelse av Allāh?
 
 **Svara:** Att fira *al-isrā’ wal-mi'raj*-natten, vilket somliga gör, under den 27:e natten i *rajab* saknar grund. Datumet för denna natt har inte bevarats, sannerligen har vi låtits glömma bort det. Det är inte känt om det skedde under *rajab*. Om det hade varit känt – att det skedde under *rajab*, *sha'ban*, *shawwal* eller någon annan månad – då hade det ändå inte varit föreskrivet för oss att fira det. Anledningen är att något tillskrivs Sändebud som varken han eller hans följeslagare gjorde. Därför bör vi försöka efterlikna dem och följa vad de gjorde och inte föra in saker som de inte gjorde.
 
@@ -36,5 +36,4 @@ Dessa *ahādīth* klargör förbudet mot innovationer, deras fara och onda konse
 
 Allāh är den som ger framgång.
 
-[^1]: Dhikr
 

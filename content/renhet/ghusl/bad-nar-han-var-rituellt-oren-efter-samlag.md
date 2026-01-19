@@ -14,13 +14,8 @@ description: >-
   ihåg att jag var rituellt oren [ junub ]. Jag...
 ---
 
-**Fråga:** Jag var rituellt oren efter intim samvaro. Jag bad då gryningsbönen[^1], middagsbönen[^2], eftermiddagsbönen[^3], kvällsbönen[^4] och nattbönen[^5] utan att komma ihåg att jag var rituellt oren [*junub*]. Jag kom inte på det förrän dagen efter. Bör jag upprepa min bön eller var den giltig med anledning av min glömska?
+**Fråga:** Jag var rituellt oren efter intim samvaro. Jag bad då gryningsbönen, middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen utan att komma ihåg att jag var rituellt oren [*junub*]. Jag kom inte på det förrän dagen efter. Bör jag upprepa min bön eller var den giltig med anledning av min glömska?
 
 **Svar:** Du måste upprepa bönerna. Den som ber med en mindre eller större rituell orenhet har inte en giltig bön. Detta trots att det skedde på grund av glömska. Anledningen är att han slarvade med bönen. ´Umar bin al-Khattab upprepade sin bön när han kom på att han hade haft en våt dröm utan att göra *ghusl*.
 
-[^1]: Fajr
-[^2]: Dhuhr
-[^3]: Asr
-[^4]: Maghrib
-[^5]: Isha
 

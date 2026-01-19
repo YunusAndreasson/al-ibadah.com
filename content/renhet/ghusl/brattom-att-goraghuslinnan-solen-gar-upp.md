@@ -17,11 +17,11 @@ description: >-
 
 **Fråga:** Låt oss anta att jag vaknar precis innan soluppgången och finner att jag är i ett tillstånd av stor rituell orenhet. Om jag gör *ghusl*, då kommer solen hinna stiga. Bör jag då göra *tayammum* eller *ghusl* och sedan be?
 
-**Svar:** Du måste göra *ghusl*, göra klart din rening och sedan be. Du får inte göra *tayammum* i den situation som du har beskrivit. Den som glömmer och den som har sovit över sig är beordrad att be så fort som möjligt. Detta beror på att de ska avklara skyldigheten när de kommer ihåg eller vaknar. Beviset för detta är en *hadīth* där profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Den som sover över bönen eller glömmer den, denne måste be den så fort denne kommer ihåg, och det finns inget sonande för det utöver detta*.” [^2]
+**Svar:** Du måste göra *ghusl*, göra klart din rening och sedan be. Du får inte göra *tayammum* i den situation som du har beskrivit. Den som glömmer och den som har sovit över sig är beordrad att be så fort som möjligt. Detta beror på att de ska avklara skyldigheten när de kommer ihåg eller vaknar. Beviset för detta är en *hadīth* där profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Den som sover över bönen eller glömmer den, denne måste be den så fort denne kommer ihåg, och det finns inget sonande för det utöver detta*.” [^1]
 
-Det är välkänt att det inte finns någon bön utan rening. Profeten – över honom vare Allāhs frid och välsignelser – har ju sagt: ”*Bön utan tvagning[^1] accepteras inte*.” [^3]
+Det är välkänt att det inte finns någon bön utan rening. Profeten – över honom vare Allāhs frid och välsignelser – har ju sagt: ”*Bön utan tvagning accepteras inte*.” [^2]
 
-Den som har tillgång till vatten måste rengöra sig med det, men om han inte hittar något, då får han be med *tayammum*. Detta grundat på vad Allāh har sagt: ”… *och inte kan finna rent vatten, ska ta ren jord och stryka över ansiktet och händer*.” [^4] Denna vers kommer från sura al-Ma´īdah.
+Den som har tillgång till vatten måste rengöra sig med det, men om han inte hittar något, då får han be med *tayammum*. Detta grundat på vad Allāh har sagt: ”… *och inte kan finna rent vatten, ska ta ren jord och stryka över ansiktet och händer*.” [^3] Denna vers kommer från sura al-Ma´īdah.
 
 Du måste vara mycket noga med dina böner. Ställ en väckarklocka vid ditt huvud eller be en familjemedlem väcka dig då det är dags för bön. Detta beror på att du ska utföra den obligatoriska bönen som Allāh har ålagt dig tillsammans med dina bröder i tron och för att du ska vara säker på att inte behöva jämföras med hycklare som försenar sina böner samt ber dem i lathet.
 
@@ -29,8 +29,7 @@ Må Allāh skydda oss, dig och alla muslimer från deras sätt och karaktärer.
 
 Allāh är Den som ger framgång.
 
-[^1]: Wudū
 
-[^2]: *al-Bukhārī* 597 och *Muslim* 684
-[^3]: *Muslim* 224
-[^4]: Koranen 5:6
+[^1]: *al-Bukhārī* 597 och *Muslim* 684
+[^2]: *Muslim* 224
+[^3]: Koranen 5:6

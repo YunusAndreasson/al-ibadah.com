@@ -18,20 +18,13 @@ description: >-
 
 **Svar:** De tillstånd som beviljas för en resenär är fyra:
 
-1. Att bönerna som är fyra bönecykler[^1] kortas ned till två.
+1. Att bönerna som är fyra bönecykler kortas ned till två.
 2. Att det blir tillåtet att bryta fastan under *ramadan* och ta igen den vid ett senare tillfälle.
 3. Att det går bra att stryka över sockarna under tre dagar och tre nätter efter att man har strukit över dem första gången [när man har tvagat sig inför bönen].
-4. De vanliga *sunnah*-bönerna behöver inte bes vid middagsbönen[^2], kvällsbönen[^3] och nattbönen[^4]. *Sunnah*-bönen vid gryningsbönen[^5] och de andra frivilliga bönerna är fortfarande tillåtna och föredragna.
+4. De vanliga *sunnah*-bönerna behöver inte bes vid middagsbönen, kvällsbönen och nattbönen. *Sunnah*-bönen vid gryningsbönen och de andra frivilliga bönerna är fortfarande tillåtna och föredragna.
 
-Resenär bör då be nattbönen, *sunnah* för gryningsbönen[^5], två bönecykler[^1] som förmiddagsbön, *sunnah* vidtvagning[^6], två bönecykler[^1] vid inträde i moskén och två bönecykler[^1] vid hemkomst från resan [det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah* att den som kommer hem från en resa ber två bönecykler[^1] i moskén innan denne går till i sitt hem [^7]]
+Resenär bör då be nattbönen, *sunnah* för gryningsbönen, två bönecykler som förmiddagsbön, *sunnah* vid tvagning, två bönecykler vid inträde i moskén och två bönecykler vid hemkomst från resan [det är en del av Profetens – över honom vare Allāhs frid och välsignelser – *sunnah* att den som kommer hem från en resa ber två bönecykler i moskén innan denne går till i sitt hem.[^1]]
 
-De andra frivilliga bönerna är fortfarande tillåtna [i stället för rekommenderade] för resenären utom de som jag har nämnt tidigare: *sunnah* förmiddagsbönen[^2], kvällsbönen[^3] och nattbönen[^4]. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – inte bad dessa tre *sunnah*-böner medan han reste.
+De andra frivilliga bönerna är fortfarande tillåtna [i stället för rekommenderade] för resenären utom de som jag har nämnt tidigare: *sunnah* för middagsbönen, kvällsbönen och nattbönen. Detta beror på att Profeten – över honom vare Allāhs frid och välsignelser – inte bad dessa tre *sunnah*-böner medan han reste.
 
-[^1]: Rakah.
-[^2]: Dhuhr
-[^3]: Maghrib
-[^4]: Isha
-[^5]: Fajr
-[^6]: Wudū
-
-[^7]: *al-Bukhārī* 4418
+[^1]: *al-Bukhārī* 4418

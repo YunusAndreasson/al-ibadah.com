@@ -18,19 +18,14 @@ description: >-
 
 **Svar:** Det finns fyra saker som en resenär tillåts:
 
-1. Be böner med fyra bönecykler[^1] som två.
+1. Be böner med fyra bönecykler som två.
 2. Bryta fastan under *ramadan*.
 3. Stryka över sockarna under tre dagar och nätter, vid början vid den första strykningen.
-4. Det finns inget behov av att be *sunnah*-bönerna vid middagsbönen[^2], kvällsbönen[^3] och nattbönen[^4]. *Sunnah* vid gryningsbönen[^5] och frivilliga böner är fortfarande föreskrivna och föredragna.
+4. Det finns inget behov av att be *sunnah*-bönerna vid middagsbönen, kvällsbönen och nattbönen. *Sunnah* vid gryningsbönen och frivilliga böner är fortfarande föreskrivna och föredragna.
 
-En resenär bör därmed be nattbön, *sunnah* för gryningsbönen[^5], två bönecykler[^1] förmiddagsbön, *sunnah* vid tvagning[^6], två bönecykler[^1] för att hälsa på moskén[^1] och två bönecykler[^1] vid hemkomst från resan.
+En resenär bör därmed be nattbön, *sunnah* för gryningsbönen, två bönecykler förmiddagsbön, *sunnah* vid tvagning, två bönecykler för att hälsa på moskén[^1] och två bönecykler vid hemkomst från resan.
 
-Det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah* att be två bönecykler[^1] i moskén innan man går in i sitt hem. Frivilliga böner är fortfarande föreskrivna för resenären, utom de som har nämnts tidigare [middagsbönen, kvällsbönen[^3] och nattbönen[^4]].
+Det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah* att be två bönecykler i moskén innan man går in i sitt hem. Frivilliga böner är fortfarande föreskrivna för resenären, utom de som har nämnts tidigare [middagsbönen, kvällsbönen och nattbönen].
 
 [^1]: Rakah.
-[^2]: Dhuhr
-[^3]: Maghrib
-[^4]: Isha
-[^5]: Fajr
-[^6]: Wudū
 

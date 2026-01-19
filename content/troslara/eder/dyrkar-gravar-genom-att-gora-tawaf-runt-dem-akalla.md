@@ -31,7 +31,7 @@ Någon vars handlingar som har lett denne till synder som tar denne ur islam. De
 
 De kan varken skada eller göra någon nytta och det är inte tillåtet att sätta sin tilltro till dem. Skulle det inträffa att någon såg ett mirakel [komma] från dem, som om det skulle verka finnas ljus runt deras gravar eller om en väldoft strömmade från dem när man vet att de avled som icke-troende, då är detta ett bedrägeri och trick från djävulen vars mål är att leda dessa människor på avvägar genom dem som ligger i gravarna.
 
-Jag varnar mina muslimska bröder för att vara beroende av någon annan än Allāh. Han den Härlige, den Upphöjde har himlarnas och jordens herravälde i Sin hand och [till Honom] ska allt återvända. Ingen svarar en åkallan[^2] från den förtryckte utom Allāh och ingen kan skydda mot ont utom Han. Allāh den Upphöjde säger:
+Jag varnar mina muslimska bröder för att vara beroende av någon annan än Allāh. Han den Härlige, den Upphöjde har himlarnas och jordens herravälde i Sin hand och [till Honom] ska allt återvända. Ingen svarar en åkallan från den förtryckte utom Allāh och ingen kan skydda mot ont utom Han. Allāh den Upphöjde säger:
 
 > ”Inget gott kommer er till del som inte är från Gud. Och när ett ont drabbar er är det Honom ni anropar om hjälp.” [Koranen 16:53]
 
@@ -47,13 +47,13 @@ Muslimer måste noga studera dem som påstår sig vara *awliyā'* med Koranen oc
 
 Den som är en from troende är således en *walī* till Allāh och den som inte är det, är inte en *walī* till Allāh. Har denne någon tro och fruktan av Allāh, då har denne ett visst mått av *wilayah* i sig men vi säger inte något om en viss person utan vi säger att generellt sett så är en from troende Allāhs *walī*.
 
-Det bör vara känt att Allāh den Allsmäktige kan pröva någon på detta sätt. En person kan komma an på en grav och åkalla den som ligger begravd i den. Denne kan också ta lite jord från den för att få välsignelser – och [faktiskt] få vad denne ber om. Detta är då en prövning från Allāh den Allsmäktige för denne. Vi vet ju att graven inte svarar åkallan[^2] och att jorden inte är ett sätt för att skydda mot ont eller hjälpa. Vi vet detta då Allāh den Upphöjde säger:
+Det bör vara känt att Allāh den Allsmäktige kan pröva någon på detta sätt. En person kan komma an på en grav och åkalla den som ligger begravd i den. Denne kan också ta lite jord från den för att få välsignelser – och [faktiskt] få vad denne ber om. Detta är då en prövning från Allāh den Allsmäktige för denne. Vi vet ju att graven inte svarar åkallan och att jorden inte är ett sätt för att skydda mot ont eller hjälpa. Vi vet detta då Allāh den Upphöjde säger:
 
 > ”Och vem begår ett större misstag än den som i Guds ställe anropar dem, som inte kan svara honom förrän på Uppståndelsens dag och som inte ens är medvetna om att de anropas? När människor samlas [inför Domen] ska de bli [sina tillbedjares] fiender och ta avstånd från deras dyrkan.” [Koranen 46:5 – 6]
 
 > ”De som de anropar vid sidan av Gud skapar ingenting – de är ju [själva] skapade. Döda, livlösa, vet de inte när de ska uppväckas till liv.” [Koranen 16:20 – 21]
 
-Verserna med denna innebörd är många och de bevisar att de som åkallar[^2] någon annan än Allāh inte kommer att bli besvarade. Det som eftersträvas och åkallas för kan dock uppnås ändå, om någon annan än Allāh åkallas, men detta är då en prövning. Vi säger då att han fick detta från åkallan[^2] vid denna tidpunkt, när han åkallade någon annan än Allāh, inte för att han åkallade det [som han åkallade]. Det är skillnad mellan att få något på grund av något och att få något vid tidpunkten för något. Vi är säkra på att det inte är ett sätt för att uppnå något bra eller för att skydda mot ont om man åkallar[^2] någon annan än Allāh. Vi känner till detta genom det flertalet verser i Koranen i vilka Allāh den Allsmäktige har nämnt detta. Man kan dock tänka sig att detta uppnås efter åkallan[^2] som en prövning. Allāh den Härlige, den Upphöjde kan pröva någon genom synder för att Han den Härlige, den Upphöjde ska kunna veta vem som tjänar Honom och vem som tjänar sina egna nycker.
+Verserna med denna innebörd är många och de bevisar att de som åkallar någon annan än Allāh inte kommer att bli besvarade. Det som eftersträvas och åkallas för kan dock uppnås ändå, om någon annan än Allāh åkallas, men detta är då en prövning. Vi säger då att han fick detta från åkallan vid denna tidpunkt, när han åkallade någon annan än Allāh, inte för att han åkallade det [som han åkallade]. Det är skillnad mellan att få något på grund av något och att få något vid tidpunkten för något. Vi är säkra på att det inte är ett sätt för att uppnå något bra eller för att skydda mot ont om man åkallar någon annan än Allāh. Vi känner till detta genom det flertalet verser i Koranen i vilka Allāh den Allsmäktige har nämnt detta. Man kan dock tänka sig att detta uppnås efter åkallan som en prövning. Allāh den Härlige, den Upphöjde kan pröva någon genom synder för att Han den Härlige, den Upphöjde ska kunna veta vem som tjänar Honom och vem som tjänar sina egna nycker.
 
 Ser du inte hur Allāh förbjöd sabbatsfolket att fånga fisk under sabbaten? Allāh den Allsmäktige prövade dem när fisk kom i stora mängder under sabbaten medan det under andra dagar var få. Detta inträffade under en lång tid och de sade: ”Hur kan vi förbjuda oss själva att fånga dessa fiskar?” De tänkte, planerade, konspirerade och sade sedan: ”Låt oss göra ett nät och lägga ut det på fredagar för att sedan hämta in fisken på söndagar.” De gjorde detta, och det var ett trick för att kringgå Allāhs förbud. Allāh förvandlade dem då till apor, föraktade och avvisade. Allāh den Upphöjde säger:
 
@@ -72,5 +72,4 @@ Villebrådet var tillgängligt för dem och de kunde ha fångat djuren med deras
 Blir metoderna för att göra något otillåtet åtkomliga måste man frukta Allāh den Allsmäktige och inte göra denna förbjudna sak. Man bör veta att när det blir lättare att göra någonting så är det en prövning. Då måste man avstå och vara tålmodig. Det lyckliga slutet tillhör ju de fromma.
 
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
-[^2]: Du´ā
 

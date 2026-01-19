@@ -1,6 +1,8 @@
 /**
  * Migration script to remove footnote references after glossary terms.
- * Transforms: *term*[^n] -> *term* (when term is in glossary)
+ * Transforms:
+ *   *term*[^n] -> *term* (Arabic terms in italics)
+ *   term[^n] -> term (Swedish terms in plain text)
  *
  * Run with: pnpm tsx scripts/migrate-glossary-terms.ts
  * Dry run:  pnpm tsx scripts/migrate-glossary-terms.ts --dry-run
@@ -9,7 +11,21 @@
 import fs from 'node:fs/promises'
 import path from 'node:path'
 import matter from 'gray-matter'
-import { findGlossaryTerm } from '../src/data/glossary.js'
+import { findGlossaryTerm, glossary } from '../src/data/glossary.js'
+
+// Build list of Swedish terms for matching
+const swedishTerms = Object.values(glossary)
+  .filter((term) => term.category === 'swedishTerms')
+  .flatMap((term) => term.variants)
+  .sort((a, b) => b.length - a.length) // Longer terms first
+
+function escapeRegex(str: string): string {
+  return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+}
+
+// Word boundary pattern that works with Swedish characters
+const wordBoundaryStart = '(?<![a-zåäöA-ZÅÄÖ])'
+const wordBoundaryEnd = '(?![a-zåäöA-ZÅÄÖ])'
 
 const CONTENT_DIR = path.join(process.cwd(), 'content')
 
@@ -56,14 +72,16 @@ interface FootnoteRef {
   footnoteId: string
   fullMatch: string
   index: number
+  isItalic: boolean
 }
 
 function findGlossaryFootnoteRefs(content: string): FootnoteRef[] {
   const refs: FootnoteRef[] = []
-  // Match *term*[^n] where term might be a glossary term
-  const pattern = /\*([^*]+)\*\[\^(\d+)\]/g
 
-  for (const match of content.matchAll(pattern)) {
+  // Match *term*[^n] where term might be a glossary term (Arabic/italic terms)
+  const italicPattern = /\*([^*]+)\*\[\^(\d+)\]/g
+
+  for (const match of content.matchAll(italicPattern)) {
     const term = match[1]
     const glossaryTerm = findGlossaryTerm(term)
 
@@ -73,9 +91,36 @@ function findGlossaryFootnoteRefs(content: string): FootnoteRef[] {
         footnoteId: match[2],
         fullMatch: match[0],
         index: match.index ?? 0,
+        isItalic: true,
       })
     }
   }
+
+  // Match Swedish terms with footnotes (non-italic)
+  if (swedishTerms.length > 0) {
+    const swedishPattern = new RegExp(
+      `${wordBoundaryStart}(${swedishTerms.map((t) => escapeRegex(t)).join('|')})\\[\\^(\\d+)\\]`,
+      'gi'
+    )
+
+    for (const match of content.matchAll(swedishPattern)) {
+      const term = match[1]
+      const glossaryTerm = findGlossaryTerm(term)
+
+      if (glossaryTerm && glossaryTerm.category === 'swedishTerms') {
+        refs.push({
+          term: term,
+          footnoteId: match[2],
+          fullMatch: match[0],
+          index: match.index ?? 0,
+          isItalic: false,
+        })
+      }
+    }
+  }
+
+  // Sort by index for consistent processing
+  refs.sort((a, b) => a.index - b.index)
 
   return refs
 }
@@ -86,7 +131,7 @@ function getFootnoteDefinition(content: string, footnoteId: string): string | nu
   return match ? match[1].trim() : null
 }
 
-function isDefinitionFootnote(definition: string | null): boolean {
+function isDefinitionFootnote(definition: string | null, isSwedishTerm: boolean): boolean {
   if (!definition) return false
 
   // Check if it's a hadith reference (not a definition)
@@ -101,7 +146,12 @@ function isDefinitionFootnote(definition: string | null): boolean {
     return false
   }
 
-  // Must have some explanatory text (10+ chars)
+  // For Swedish terms, accept short Arabic transliterations (e.g., "wuḍū'", "du'ā")
+  if (isSwedishTerm) {
+    return definition.length >= 3
+  }
+
+  // For Arabic terms, must have some explanatory text (10+ chars)
   return definition.length >= 10
 }
 
@@ -123,18 +173,25 @@ function migrateContent(
     const definition = getFootnoteDefinition(newContent, ref.footnoteId)
 
     // Only remove if this footnote is a definition (not a hadith reference)
-    if (isDefinitionFootnote(definition)) {
-      // Replace *term*[^n] with just *term*
+    // Swedish terms (non-italic) can have short definitions like "wuḍū'"
+    if (isDefinitionFootnote(definition, !ref.isItalic)) {
       const before = newContent.substring(0, ref.index)
       const after = newContent.substring(ref.index + ref.fullMatch.length)
-      newContent = `${before}*${ref.term}*${after}`
+
+      if (ref.isItalic) {
+        // Replace *term*[^n] with just *term*
+        newContent = `${before}*${ref.term}*${after}`
+      } else {
+        // Replace term[^n] with just term (Swedish terms)
+        newContent = `${before}${ref.term}${after}`
+      }
 
       removedFootnoteIds.add(ref.footnoteId)
       modifiedTerms.push(ref.term)
       removedRefs++
 
       if (options.verbose) {
-        console.log(`    Removed [^${ref.footnoteId}] after "${ref.term}"`)
+        console.log(`    Removed [^${ref.footnoteId}] after "${ref.term}" (${ref.isItalic ? 'italic' : 'plain'})`)
       }
     }
   }

@@ -39,10 +39,9 @@ På vilket sätt de kommer att se Honom känner vi inte till, även om det är s
 
 Autentiska *hadīth* har rapporterats om nedstigandet, som när profeten – över honom vare Allāhs frid och välsignelser – säger:
 
-> ”Vår Herre stiger ned till den lägsta himmeln och Han säger: ”Finns det någon som gör åkallan[^1] till mig så att Jag kan besvara denne. Finns det någon som söker förlåtelse så att Jag kan förlåta denne. Finns det någon som vänder sig [till Mig] i ånger så att Jag kan vända mig till denne i förlåtelse.” [*al-Bukhārī* 1145, 6321, 7494 och *Muslim* 758]
+> ”Vår Herre stiger ned till den lägsta himmeln och Han säger: ”Finns det någon som gör åkallan till mig så att Jag kan besvara denne. Finns det någon som söker förlåtelse så att Jag kan förlåta denne. Finns det någon som vänder sig [till Mig] i ånger så att Jag kan vända mig till denne i förlåtelse.” [*al-Bukhārī* 1145, 6321, 7494 och *Muslim* 758]
 
-Detta nedstigande hör dock till det som är dolt för människor[^2]; vi accepterar det, men vi försöker inte förklara hur det går till. Vi drar endast nytta av frikostigheten under den sista delen av natten och förtjänsten i bönen, åkallan[^1] av Allāh och sökandet av förlåtelse.
+Detta nedstigande hör dock till det som är dolt för människor[^1]; vi accepterar det, men vi försöker inte förklara hur det går till. Vi drar endast nytta av frikostigheten under den sista delen av natten och förtjänsten i bönen, åkallan av Allāh och sökandet av förlåtelse.
 
-[^1]: Du´ā
-[^2]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
+[^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 

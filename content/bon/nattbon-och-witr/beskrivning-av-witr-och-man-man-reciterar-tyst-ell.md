@@ -16,11 +16,10 @@ description: >-
 
 **Fråga:** Hur ber man *witr* och reciterar man högt?
 
-**Svar:** Det är att föredra att be tretton eller elva bönecykler[^1] och att göra *taslīm* för varannan bönecykel. Efter *al-Fātihah* i varje bönecykel[^1] kan man recitera vad man vill. Det är tillåtet att be nio bönecykler[^1] och göra *taslīm* efter varannan, eller att be åtta bönecykler[^1] och sedan göra *tashahhud* efter dem samt avsluta med en nionde som man gör *taslīm* efter.
+**Svar:** Det är att föredra att be tretton eller elva bönecykler och att göra *taslīm* för varannan bönecykel. Efter *al-Fātihah* i varje bönecykel kan man recitera vad man vill. Det är tillåtet att be nio bönecykler och göra *taslīm* efter varannan, eller att be åtta bönecykler och sedan göra *tashahhud* efter dem samt avsluta med en nionde som man gör *taslīm* efter.
 
-Det är även tillåtet att be sju bönecykler[^1] med en enda *taslīm* eller fem bönecykler[^1] med en *taslīm*. Det är dock att föredra om *witr* inte är färre än tre bönecykler[^1], att man reciterar sura al-A’la i den första och i den tredje, sura al-Kafirūn och sura al-Ikhlas. Skulle man recitera något annat än detta finns det ingen invändan mot det. Det är att föredra om de tre bönecyklerna[^1] [i *witr*] bes med två *taslīm*, men om de utförs med en *taslīm*, då är det tillåtet, om Allāh vill.
+Det är även tillåtet att be sju bönecykler med en enda *taslīm* eller fem bönecykler med en *taslīm*. Det är dock att föredra om *witr* inte är färre än tre bönecykler, att man reciterar sura al-A’la i den första och i den tredje, sura al-Kafirūn och sura al-Ikhlas. Skulle man recitera något annat än detta finns det ingen invändan mot det. Det är att föredra om de tre bönecyklerna [i *witr*] bes med två *taslīm*, men om de utförs med en *taslīm*, då är det tillåtet, om Allāh vill.
 
 Det finns inget behov av att recitera med höjd röst när man ber ensam. Syftet med höjd recitation i nattbönen är ju att de som leds i bönen ska höra den och dra nytta av den. Den som ber ensam hör sig själv oavsett om denne reciterar tyst eller med höjd röst.
 
-[^1]: Rakah.
 

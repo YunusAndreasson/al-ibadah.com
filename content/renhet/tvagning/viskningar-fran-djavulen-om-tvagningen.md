@@ -14,19 +14,18 @@ description: >-
   djävulen. Därför upprepar jag tvagningen många...
 ---
 
-**Fråga:** När jag tvagar mig känner jag ibland att den bryts. Detta händer även under bönen. Jag vet inte om det är sant eller om det är viskningar från djävulen. Därför upprepar jag tvagningen[^1] många gånger och det kan ibland leda till att jag missar bönen i församlingen och att jag tänker för mycket under bönen. Vänligen, ge mig råd och du kommer att belönas, om Allāh vill.
+**Fråga:** När jag tvagar mig känner jag ibland att den bryts. Detta händer även under bönen. Jag vet inte om det är sant eller om det är viskningar från djävulen. Därför upprepar jag tvagningen många gånger och det kan ibland leda till att jag missar bönen i församlingen och att jag tänker för mycket under bönen. Vänligen, ge mig råd och du kommer att belönas, om Allāh vill.
 
-**Svar:** Viskningarna kommer från djävulen; du måste avvisa dem, bortse från dem, göra klar din tvagning[^1] och be. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Man bör inte lämna bönen utom om man hör ett ljud eller känner en lukt*.” [^2]
+**Svar:** Viskningarna kommer från djävulen; du måste avvisa dem, bortse från dem, göra klar din tvagning och be. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Man bör inte lämna bönen utom om man hör ett ljud eller känner en lukt*.” [^1]
 
-I *Sahīh Muslim* återges från Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Om en av er fann något i sin mage och var osäker på om något kommit ut, då bör han inte lämna moskén utom om han hör ett ljud eller känner en lukt*." [^3]
+I *Sahīh Muslim* återges från Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Om en av er fann något i sin mage och var osäker på om något kommit ut, då bör han inte lämna moskén utom om han hör ett ljud eller känner en lukt*." [^2]
 
-Med bland annat dessa båda *ahādīth* som grund bör varje troende [man som kvinna] veta att man inte bör lämna bönen eller tvagningen[^1] med anledning av viskningar från djävulen.
+Med bland annat dessa båda *ahādīth* som grund bör varje troende [man som kvinna] veta att man inte bör lämna bönen eller tvagningen med anledning av viskningar från djävulen.
 
 I stället är det föreskrivet att strunta i dem förutom om man blir säker på att man inte har tvagat sig.
 
 Och Allāh är Den som beviljar framgång.
 
-[^1]: Wudū
 
-[^2]: *al-Bukhārī* 177 och *Muslim* 361
-[^3]: *Muslim* 362
+[^1]: *al-Bukhārī* 177 och *Muslim* 361
+[^2]: *Muslim* 362

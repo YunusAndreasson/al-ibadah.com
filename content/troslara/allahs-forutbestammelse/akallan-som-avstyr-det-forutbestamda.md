@@ -15,16 +15,15 @@ description: >-
   besvara er [bön] .” [40:60] Han har även sag...
 ---
 
-**Fråga:** Kan åkallan[^1] avstyra det som är förutbestämt?
+**Fråga:** Kan åkallan avstyra det som är förutbestämt?
 
-**Svar:** Allāh den Allsmäktige har föreskrivit och beordrat åkallan[^1]: ”*Be till Mig, så ska Jag besvara er [bön]*.” [40:60]
+**Svar:** Allāh den Allsmäktige har föreskrivit och beordrat åkallan: ”*Be till Mig, så ska Jag besvara er [bön]*.” [40:60]
 
 Han har även sagt: ”*När mina tjänare frågar dig om Mig [svara då att] Jag är nära; Jag besvarar den bedjandes bön, när Han ber till Mig*.” [2:186]
 
-När en av Hans tjänare gör vad som är föreskrivet för att uppnå sitt mål, i detta fall att åkalla, gör tjänare något som är förutbestämt. Därför, om Allāh vill, kan något förutbestämt (att han åkallar[^1]) driva tillbaka något annat som är förutbestämt (vad han ber om inte ska inträffa).
+När en av Hans tjänare gör vad som är föreskrivet för att uppnå sitt mål, i detta fall att åkalla, gör tjänare något som är förutbestämt. Därför, om Allāh vill, kan något förutbestämt (att han åkallar) driva tillbaka något annat som är förutbestämt (vad han ber om inte ska inträffa).
 
-Allāhs sändebud har sagt: ”En tjänare är avskuren från levebröd för en synd han begått. Inget avvärjer det förutbestämda utom åkallan[^1] och ingenting ökar livslängden för någon utom vänliga och välgörande handlingar.” [^2]
+Allāhs sändebud har sagt: ”En tjänare är avskuren från levebröd för en synd han begått. Inget avvärjer det förutbestämda utom åkallan och ingenting ökar livslängden för någon utom vänliga och välgörande handlingar.” [^1]
 
-[^1]: Du´ā
 
-[^2]: *Ahmad* 5:277, 280, 282; *at-Tirmithi* 2139 och *Ibn Majah* 90
+[^1]: *Ahmad* 5:277, 280, 282; *at-Tirmithi* 2139 och *Ibn Majah* 90

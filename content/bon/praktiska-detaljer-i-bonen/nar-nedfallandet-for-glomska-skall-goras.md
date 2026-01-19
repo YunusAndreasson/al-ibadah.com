@@ -14,13 +14,12 @@ description: >-
   antalet – och sedan avsluta bönen samt ...
 ---
 
-**Fråga:** Om man ber och glömmer hur många bönecykler[^1] man har bett – vad gör man då?
+**Fråga:** Om man ber och glömmer hur många bönecykler man har bett – vad gör man då?
 
 **Svar:** Då måste man utgå från vad man är säker på – vilket är det lägre antalet – och sedan avsluta bönen samt nedfalla två gånger innan *taslīm*. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord:
 
-> ”Om någon tvivlar sin bön och inte vet hur mycket han har bett, tre eller fyra bönecykler[^1], låt honom då skjuta detta tvivel åt sidan och utgå från det han är säker på. Nedfall sedan två gånger före *taslīm*. Har han bett fem, då kommer hans bön att vara en förespråkare för honom, och om han har avslutat sin bön korrekt [som fyra bönecykler[^1]], då kommer det att vara en förnedring för djävulen.” [*Muslim* 571]
+> ”Om någon tvivlar sin bön och inte vet hur mycket han har bett, tre eller fyra bönecykler, låt honom då skjuta detta tvivel åt sidan och utgå från det han är säker på. Nedfall sedan två gånger före *taslīm*. Har han bett fem, då kommer hans bön att vara en förespråkare för honom, och om han har avslutat sin bön korrekt [som fyra bönecykler], då kommer det att vara en förnedring för djävulen.” [*Muslim* 571]
 
 Och genom Allāh uppnås framgång.
 
-[^1]: Rakah.
 

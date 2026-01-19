@@ -15,7 +15,7 @@ description: >-
   samt åkallar dem när han behöver hjälp? Ha...
 ---
 
-**Fråga:** Vilket är utlåtandet om någon som växer upp utan att känna till något mer än bönen och de fem pelarna, och som fullgör dem, men offrar till *jinn* samt åkallar[^1] dem när han behöver hjälp? Han känner inte till att islam förbjuder detta. Ursäktas han på grund av hans okunskap? Kan det sägas att han är en månggudadyrkare[^2] innan frågan är klar för honom?
+**Fråga:** Vilket är utlåtandet om någon som växer upp utan att känna till något mer än bönen och de fem pelarna, och som fullgör dem, men offrar till *jinn* samt åkallar dem när han behöver hjälp? Han känner inte till att islam förbjuder detta. Ursäktas han på grund av hans okunskap? Kan det sägas att han är en månggudadyrkare[^1] innan frågan är klar för honom?
 
 **Svar:** De som är insatta i kunskapen om *tawhīd* måste klargöra för honom att det är en sorts större *shirk* att offra till någon annan än Allāh, som *jinn*, samt att detta tar en ur islam. Det är också en sorts större *shirk* att åkalla dem för att de ska uppfylla ens behov. Även detta tar honom ur islam.
 
@@ -37,8 +37,7 @@ Och profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Allāhs förbannelse vilar över dem som offrar till annat än Allāh.” [*Muslim* 1978]
 
-Insisterar han på att offra till och åkalla *jinn* när han behöver något kommer han att vara en månggudadyrkare[^2] som är skyldig till större *shirk*. Det kommer inte att finnas någon ursäkt för honom då bevis från Allāhs skrift och från profetens – över honom vare Allāhs frid och välsignelser – *sunnah* har visats för honom. Det kommer att sägas till honom: ”Du är en icke-troende, månggudadyrkare[^2], skyldig till större *shirk*.”
+Insisterar han på att offra till och åkalla *jinn* när han behöver något kommer han att vara en månggudadyrkare[^1] som är skyldig till större *shirk*. Det kommer inte att finnas någon ursäkt för honom då bevis från Allāhs skrift och från profetens – över honom vare Allāhs frid och välsignelser – *sunnah* har visats för honom. Det kommer att sägas till honom: ”Du är en icke-troende, månggudadyrkare[^1], skyldig till större *shirk*.”
 
-[^1]: Du´ā
-[^2]: Mushrik.
+[^1]: Mushrik.
 

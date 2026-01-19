@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Under vissa högtidligheter, som *‘eidul-fitr*, brukar moskén göras vacker med olika sorters färger, ljus och blommor. Tillåter islam detta? Vilka bevis finns för att det skulle vara tillåtet?
 
-**Svar:** Moskéerna är Allāhs hus och de är de bästa platserna på jorden. Allāh har beordrat att de ska äras och hedras med Hans *tawhīd*, åminnelse[^1] av Honom och att bönen ska bes i dem. I dem lär sig folk även religionen och de vägleds till vad islam innehåller i form av lycka och rättfärdighet i detta och Nästa liv.
+**Svar:** Moskéerna är Allāhs hus och de är de bästa platserna på jorden. Allāh har beordrat att de ska äras och hedras med Hans *tawhīd*, åminnelse av Honom och att bönen ska bes i dem. I dem lär sig folk även religionen och de vägleds till vad islam innehåller i form av lycka och rättfärdighet i detta och Nästa liv.
 
 Han har beordrat att de ska rensas från ohedersamma saker, avgudabilder, *shirk*, innovationer och vidskeplighet. Han har också beordrat att de ska skyddas från lättsinnighet, lek, oljud och höjda röster. Det är till och med förbjudet att ropa ut om ett förlorat föremål som har upphittats, fråga om förlorade föremål och göra annat som får dem till att likna en marknadsplats. Detta är förbjudet.
 
@@ -28,5 +28,4 @@ Det har inte bekräftats att profeten – över honom vare Allāhs frid och väl
 
 Att ljussätta moskén och att hänga upp elektriska lampor ovanför dem eller runt deras minareter, att hänga flaggor och att placera blommor i dem under *‘eid* och andra speciella tillfällen, det är en imitation av de som inte tror. Detta är att imitera dem i vad de gör med deras synagogor och kyrkor. Profeten – över honom vare Allāhs frid och välsignelser – har förbjudit att vi imiterar deras dyrkan.
 
-[^1]: Dhikr
 

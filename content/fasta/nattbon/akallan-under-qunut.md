@@ -14,10 +14,9 @@ description: >-
   sunnah i witr -bönen. Om någon utel...
 ---
 
-**Fråga:** Vilket är utlåtandet om att läsa åkallan[^1] under *qunūt* i *witr*-bönen under *ramadans*[^2] nätter? Är det tillåtet att utelämna den?
+**Fråga:** Vilket är utlåtandet om att läsa åkallan under *qunūt* i *witr*-bönen under *ramadans*[^1] nätter? Är det tillåtet att utelämna den?
 
 **Svar:** *Qunūt* är en *sunnah* i *witr*-bönen. Om någon utelämnar den ibland är det ingen fara.
 
-[^1]: Du´ā
-[^2]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
+[^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

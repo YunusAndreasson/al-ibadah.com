@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Det du gjorde var bra och det var din skyldighet. Den som har tvivel om antalet utförda varv under *tawāf* eller *sa’ī*[^2] måste utgå från vad denne är säker på, och det är att välja det lägre antalet.
 
-Detta är som någon i bön som är osäker på om han bett tre eller fyra bönecykler[^3]. Han utgår då från vad han är säker på, vilket är det lägre antalet och han utför en fjärde bönecykel[^3] samt en nedfallan för glömska. Han gör detta både om han leder andra i bön och om han ber själv. Men om han leds i bön, då följer han den som leder honom.
+Detta är som någon i bön som är osäker på om han bett tre eller fyra bönecykler. Han utgår då från vad han är säker på, vilket är det lägre antalet och han utför en fjärde bönecykel samt en nedfallan för glömska. Han gör detta både om han leder andra i bön och om han ber själv. Men om han leds i bön, då följer han den som leder honom.
 
 Samma gäller i *tawāf* och *sa’ī*[^2]. Om en person som utför *tawāf* tvekar över om han gjort sex eller sju varv, då baserar han sitt beslut på det han är säker på, vilket är det lägre antalet. Han utför sedan det sjunde varvet och han har inte syndat.
 
@@ -26,5 +26,4 @@ Och Allāh är Den som ger framgång.
 
 [^1]: Den lilla vallfärden.
 [^2]: Vandringen mellan as-Safa och al-Marwa.
-[^3]: Rakah.
 

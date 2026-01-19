@@ -14,9 +14,9 @@ description: >-
   bryter fastan? Bör den fastande läsa efter vad ...
 ---
 
-**Fråga.** Finns det någon åkallan[^1] rapporterad från profeten – över honom vare Allāhs frid och välsignelser – och följeslagarna som man kan läsa när man bryter fastan? Bör den fastande läsa efter vad böneutroparen säger eller fortsätta med att bryta fastan?
+**Fråga.** Finns det någon åkallan rapporterad från profeten – över honom vare Allāhs frid och välsignelser – och följeslagarna som man kan läsa när man bryter fastan? Bör den fastande läsa efter vad böneutroparen säger eller fortsätta med att bryta fastan?
 
-**Svar:** Med största sannolikhet kommer denna åkallan[^1] när man bryter fastan att besvaras. Detta beror på att den sker vid slutet av en dyrkan och i de flesta fall är man svag precis innan man bryter fastan. Desto fysiskt svagare och ömmare man är, desto större är ens ånger och ödmjukhet inte Allāh den Allsmäktige. Den åkallan[^1] som har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – är följande:
+**Svar:** Med största sannolikhet kommer denna åkallan när man bryter fastan att besvaras. Detta beror på att den sker vid slutet av en dyrkan och i de flesta fall är man svag precis innan man bryter fastan. Desto fysiskt svagare och ömmare man är, desto större är ens ånger och ödmjukhet inte Allāh den Allsmäktige. Den åkallan som har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – är följande:
 
 > ”*Allāhumma laka sumto wa 'ala rizqika afartu*”
 > [O, Allāh! För Din skull har jag fastat och med Ditt stöd har jag brutit min fasta.” [*Abū Dawūd*]
@@ -30,8 +30,7 @@ När profeten – över honom vare Allāhs frid och välsignelser – bröt fast
 
 Om du har åkallat med dessa eller några andra ord som har nått ditt hjärta när du bröt fastan, då har de med största sannolikhet besvarats.
 
-Att svara böneutroparen när man bryter fastan är tillåtet. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om du hör böneutroparen, säg då vad denne säger*.” [^2] Detta gäller under alla omständigheter så länge det inte finns bevis för något annat.
+Att svara böneutroparen när man bryter fastan är tillåtet. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om du hör böneutroparen, säg då vad denne säger*.” [^1] Detta gäller under alla omständigheter så länge det inte finns bevis för något annat.
 
-[^1]: Du´ā
 
-[^2]: *al-Bukhārī* 611 och *Muslim* 384
+[^1]: *al-Bukhārī* 611 och *Muslim* 384

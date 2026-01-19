@@ -16,10 +16,9 @@ description: >-
 
 **Fråga:** Om en troende når församlingen i den sista *tashahhud*, får han då belöningen för att ha bett med församlingen?
 
-**Svar:** Man har inte bett bönen i församlingen om man inte har hunnit att be en bönecykel. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Den som har bett en bönecykel[^1] har fått bönen*.” [al*-Bukhārī* 580 och *Muslim* 607]
+**Svar:** Man har inte bett bönen i församlingen om man inte har hunnit att be en bönecykel. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Den som har bett en bönecykel har fått bönen*.” [al*-Bukhārī* 580 och *Muslim* 607]
 
-Men den som kom sent med giltig ursäkt, som sjukdom eller något liknande, kommer att få belöningen för bönen i församlingen. Detta enligt en *hadīth* från profeten: ”*Om en man blir sjuk under en resa kommer Allāh att nedteckna belöningen för honom som han hade fått om han hade varit frisk och hemma*.” [^2]
+Men den som kom sent med giltig ursäkt, som sjukdom eller något liknande, kommer att få belöningen för bönen i församlingen. Detta enligt en *hadīth* från profeten: ”*Om en man blir sjuk under en resa kommer Allāh att nedteckna belöningen för honom som han hade fått om han hade varit frisk och hemma*.” [^1]
 
-[^1]: Rakah.
 
-[^2]: *al-Bukhārī* 2996 och *Ahmad* 4:410
+[^1]: *al-Bukhārī* 2996 och *Ahmad* 4:410

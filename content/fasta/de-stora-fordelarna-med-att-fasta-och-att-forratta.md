@@ -24,11 +24,11 @@ Allāhs sändebud – över honom vare Allāhs frid och välsignelser – brukad
 
 Han har även sagt:
 
-> ”Månaden *Ramadan* har kommit till er alla. Det är en månad med välsignelser. Allāh täcker er under den. Han sänder ned nåd, stryker ut synd och besvarar åkallan[^1]. Allāh ser hur ni tävlar i gott under den och Han berättar stolt för änglarna om er alla. Visa därför Allāh godhet från er själva. För sannerligen är den olycklige den som är eftersatt från Allāhs nåd under den [*Ramadan*].” [*Majma'us-Zawa* 3:142]
+> ”Månaden *Ramadan* har kommit till er alla. Det är en månad med välsignelser. Allāh täcker er under den. Han sänder ned nåd, stryker ut synd och besvarar åkallan. Allāh ser hur ni tävlar i gott under den och Han berättar stolt för änglarna om er alla. Visa därför Allāh godhet från er själva. För sannerligen är den olycklige den som är eftersatt från Allāhs nåd under den [*Ramadan*].” [*Majma'us-Zawa* 3:142]
 
 Han har även sagt:
 
-> ”Den som fastar med tro och hopp om belöningar, denne kommer att förlåtas för alla sina tidigare synder. Den som står upp [för bön under natten] under *Ramadan* med tro och hopp om belöningar, denne kommer att förlåtas för alla sina tidigare synder. Den som står upp [för bön under natten] under Allmaktens Natt[^2] med tro och hopp om belöningar, denne kommer att förlåtas alla sina tidigare synder.” [*al-Bukhāri* 2014 och *Muslim* 759 – 760]
+> ”Den som fastar med tro och hopp om belöningar, denne kommer att förlåtas för alla sina tidigare synder. Den som står upp [för bön under natten] under *Ramadan* med tro och hopp om belöningar, denne kommer att förlåtas för alla sina tidigare synder. Den som står upp [för bön under natten] under Allmaktens Natt[^1] med tro och hopp om belöningar, denne kommer att förlåtas alla sina tidigare synder.” [*al-Bukhāri* 2014 och *Muslim* 759 – 760]
 
 Han har även berättat att Allāh sagt:
 
@@ -86,41 +86,41 @@ Frågor som folk inte är medvetna om
 
 En muslim måste fasta med tro och hopp om att belönas och inte för att ses eller höras av folket eller för att följa folkets, familjens eller landets vanor. I stället är det obligatoriskt för denne att det som får denne till att fasta är dennes tro på att Allāh har gjort detta till en plikt för denne. Denne bör fasta i hopp om att Herren ska belöna för detta. När denne ber under natten är det även då en skyldighet att göra det med tro och hopp om belöningar, inte av någon annan anledning. Därför har profeten – över honom vare Allāhs frid och välsignelser – sagt:
 
-> ”Den som fastar under *Ramadan* med tro och hopp om belöningar, denne kommer att förlåtas för alla dennes tidigare synder. Och den som ber [under natten] i *Ramadan* med tro och hopp om belöningar, denne kommer att förlåtas för alla dennes tidigare synder. Och den som ber [nattetid] under Allmaktens Natt[^2] med tro och hopp om belöningar, denne kommer att förlåtas för alla sina tidigare synder.” [*al-Bukhārī* 2014 och *Muslim* 759 – 760]
+> ”Den som fastar under *Ramadan* med tro och hopp om belöningar, denne kommer att förlåtas för alla dennes tidigare synder. Och den som ber [under natten] i *Ramadan* med tro och hopp om belöningar, denne kommer att förlåtas för alla dennes tidigare synder. Och den som ber [nattetid] under Allmaktens Natt[^1] med tro och hopp om belöningar, denne kommer att förlåtas för alla sina tidigare synder.” [*al-Bukhārī* 2014 och *Muslim* 759 – 760]
 
 En av de frågor som människor inte är medvetna om är utlåtande om den fastande som råkar skada sig, får näsblod eller om vatten och ånga oavsiktligen rinner genom dennes hals. Inga av detta bryter fastan. Men den som avsiktligen spyr bryter fastan. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Den som råkar spy, denne behöver inte ta igen fastan för den dagen. Och den som får sig själv att spy, denne måste ta igen fastan för den dagen.” [*Abū Dawūd* 2380]
 
-En annan fråga är det som händer den fastande som skjuter upp badet efter sexuell orenhet tills då gryningsbönen[^3] börjar och vad vissa kvinnor gör när de skjuter upp badet efter månadsblödningen eller blödningen efter graviditeten till då gryningsbönen[^3] börjar, om hon tror att hon är ren innan gryningsbönen[^3]. Hon är då fortfarande skyldig att fasta och att hon skjuter upp badet till efter gryningsbönen[^3] har börjat hindrar henne inte från att fasta. Hon bör dock inte skjuta upp badet till soluppgången utan i stället måste hon bada och be innan solen har gått upp. I stället bör hon bada och be gryningsbönen[^3] före soluppgången. Detsamma gäller den sexuellt orene. Denne måste bada och be gryningsbönen[^3] innan solen har gått upp. Man måste skynda sig att göra detta för att be gryningsbönen[^3] med församligen.
+En annan fråga är det som händer den fastande som skjuter upp badet efter sexuell orenhet tills då gryningsbönen börjar och vad vissa kvinnor gör när de skjuter upp badet efter månadsblödningen eller blödningen efter graviditeten till då gryningsbönen börjar, om hon tror att hon är ren innan gryningsbönen. Hon är då fortfarande skyldig att fasta och att hon skjuter upp badet till efter gryningsbönen har börjat hindrar henne inte från att fasta. Hon bör dock inte skjuta upp badet till soluppgången utan i stället måste hon bada och be innan solen har gått upp. I stället bör hon bada och be gryningsbönen före soluppgången. Detsamma gäller den sexuellt orene. Denne måste bada och be gryningsbönen innan solen har gått upp. Man måste skynda sig att göra detta för att be gryningsbönen med församligen.
 
 Något som inte ogiltigör fastan är blodprov eller injektioner, så länge syftet inte är att få näring. Om det går är det dock bättre och säkrare att skjuta upp detta till kvällstid.
 
-Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Lämna det som gör er tveksama till förmån för det som inte gör er tveksamma*." [^6] Han har även sagt: "*Den som undviker de tveksamma frågorna har sannerligen gjort sin religion och heder fri [från klander]*." [^7]
+Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Lämna det som gör er tveksama till förmån för det som inte gör er tveksamma*." [^3] Han har även sagt: "*Den som undviker de tveksamma frågorna har sannerligen gjort sin religion och heder fri [från klander]*." [^4]
 
 En av de frågor som människor inte är medvetna om är avsaknandet av lugn i bönen, oavsett om det är en obligatorisk eller frivillig bön. Autentiska *ahādīth* från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – bevisar att lugn i bönen är en av bönens pelare. Bönen är inte giltig utan det. Detta betyder att man har stillhet och ödmjukhet och inte skyndar sig i bönen. På detta sätt återvänder varje led [till sin plats].
 
 Många ber *tarāwīh* under *Ramadan* på ett sätt så att de inte förstår den [recitationen] och de har heller inte lugn i den. I stället hackar de den som en kycklinghackar. Bön som bes på detta sätt är inte giltig och den som ber på detta sätt är en syndare som inte kommer att belönas.
 
-Somliga tror att det inte är tillåtet att be mindre än tjugo bönecykler[^4] under *tarāwīh*. Av misstag tror likaså vissa att det inte är tillåtet att be mer än elva eller tretton bönecykler[^4] under *tarāwīh*. Detta är ett felaktigt tankesätt och det är ett misstag som motsäger sig bevisen.
+Somliga tror att det inte är tillåtet att be mindre än tjugo bönecykler under *tarāwīh*. Av misstag tror likaså vissa att det inte är tillåtet att be mer än elva eller tretton bönecykler under *tarāwīh*. Detta är ett felaktigt tankesätt och det är ett misstag som motsäger sig bevisen.
 
-Sannerligen, autentiska *ahādīth* från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – visar att nattbönen är en ledig fråga. Det finns ingen orörlig gräns som det inte är tillåtet att överträda. I stället är det bekräftat från profeten – över honom vare Allāhs frid och välsignelser – att han brukade be elva och ibland tretton bönecykler[^4] under natten. Ibland brukade han be mindre än det, både under *Ramadan* och vid andra tidpunkter. När han tillfrågades om nattbönen sade han:
+Sannerligen, autentiska *ahādīth* från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – visar att nattbönen är en ledig fråga. Det finns ingen orörlig gräns som det inte är tillåtet att överträda. I stället är det bekräftat från profeten – över honom vare Allāhs frid och välsignelser – att han brukade be elva och ibland tretton bönecykler under natten. Ibland brukade han be mindre än det, både under *Ramadan* och vid andra tidpunkter. När han tillfrågades om nattbönen sade han:
 
-> ”I grupper om två, i grupper om två. När en av er sedan fruktar att morgonen kommer ber denne en bönecykel[^4] som kommer att vara *witr* för det som denne har bett.” [*al-Bukhāri* 990 och *Muslim* 749]
+> ”I grupper om två, i grupper om två. När en av er sedan fruktar att morgonen kommer ber denne en bönecykel som kommer att vara *witr* för det som denne har bett.” [*al-Bukhāri* 990 och *Muslim* 749]
 
 Äktheten i denna *hadīth* råder det enighet om.
 
-Profeten – över honom vare Allāhs frid och välsignelser – fastslog inte ett visst antal bönecykler[^4], varken under *Ramadan* eller vid någon annan tidpunkt. Under ´Umars tid bad följeslagarna därför ibland 23 bönecykler[^4] och ibland elva bönecykler[^4]. Detta har bekräftats från ‘Umar – må Allāh vara nöjd med honom – och följeslagarna under hans tid.
+Profeten – över honom vare Allāhs frid och välsignelser – fastslog inte ett visst antal bönecykler, varken under *Ramadan* eller vid någon annan tidpunkt. Under ´Umars tid bad följeslagarna därför ibland 23 bönecykler och ibland elva bönecykler. Detta har bekräftats från ‘Umar – må Allāh vara nöjd med honom – och följeslagarna under hans tid.
 
-Några av *salaf* – må Allāh vara nöjda med dem – brukade be 36 bönecykler[^4] under Ramadan för att sedan be tre bönecykler[^4] som *witr*. Vissa bad 41 bönecykler[^4]. *Shaykh ul-Islām* ibn Taymiyyah – må Allāh vara honom nådig – berättade detta om dem och han har sagt att denna fråga är flexibel [det är lätt]. Han har även nämnt att det är bättre för den som förlänger sin recitation, sina bugningar och nedfallanden att minska antalet bönecykler[^4]; och den som förkortar recitationen, bugningarna och nedfallanden bör öka antalet bönecykler[^4]. Detta är innebörden av hans uttalande.
+Några av *salaf* – må Allāh vara nöjda med dem – brukade be 36 bönecykler under Ramadan för att sedan be tre bönecykler som *witr*. Vissa bad 41 bönecykler. *Shaykh ul-Islām* ibn Taymiyyah – må Allāh vara honom nådig – berättade detta om dem och han har sagt att denna fråga är flexibel [det är lätt]. Han har även nämnt att det är bättre för den som förlänger sin recitation, sina bugningar och nedfallanden att minska antalet bönecykler; och den som förkortar recitationen, bugningarna och nedfallanden bör öka antalet bönecykler. Detta är innebörden av hans uttalande.
 
-Den som lägger vikt vid profetens – över honom vare Allāhs frid och välsignelser – *sunnah* kommer att förstå att det som är bäst är att be elva eller tretton bönecykler[^4] under *Ramadan* och andra tidpunkter. Anledningen är att det är enligt profetens – över honom vare Allāhs frid och välsignelser – praktiserande under de flesta situationer [vad han vanligtvis brukade göra]. Ber någon mer, då finns det inget skadligt eller ogillat i det. Detta har nämnts tidigare.
+Den som lägger vikt vid profetens – över honom vare Allāhs frid och välsignelser – *sunnah* kommer att förstå att det som är bäst är att be elva eller tretton bönecykler under *Ramadan* och andra tidpunkter. Anledningen är att det är enligt profetens – över honom vare Allāhs frid och välsignelser – praktiserande under de flesta situationer [vad han vanligtvis brukade göra]. Ber någon mer, då finns det inget skadligt eller ogillat i det. Detta har nämnts tidigare.
 
 Det som är bäst för den som ber med imamen [i moskén] under nätterna i *Ramadan* är att denne inte slutar att be förrän imamen slutar att be. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Sannerligen, om en man står i nattbön med imamen tills denne avslutar; Allāh kommer att skriva ned [belöningen för att] ha stått hela natten [i bön].” [*Abū Dawūd* 1375, *at-Tirmithi* 806, *Ibn Mājah* 1327 och *Ahmad* 5:159]
 
-Det är föreskrivet att alla muslimer strävar hårt i olika former av dyrkan under denna ädla månad. De bör kämpa för att be frivilliga böner och recitera Koranen med reflektion och eftertanke. De bör öka sitt lovprisande av Allāh, kungöra Hans rätt att dyrkas ensam, prisa Honom, kungöra Hans storhet och söka Hans förlåtelse. De bör recitera föreskriven åkallan[^1], påbjuda det goda, förbjuda det onda, bjuda in till Allāh, vara generösa mot de fattiga och behövande, kämpa för att vara vänlig mot föräldrar, hålla goda familjeband, hedra grannen, besöka den sjuke och andra goda handlingar. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – i den tidigare nämna *hadithen* har sagt:
+Det är föreskrivet att alla muslimer strävar hårt i olika former av dyrkan under denna ädla månad. De bör kämpa för att be frivilliga böner och recitera Koranen med reflektion och eftertanke. De bör öka sitt lovprisande av Allāh, kungöra Hans rätt att dyrkas ensam, prisa Honom, kungöra Hans storhet och söka Hans förlåtelse. De bör recitera föreskriven åkallan, påbjuda det goda, förbjuda det onda, bjuda in till Allāh, vara generösa mot de fattiga och behövande, kämpa för att vara vänlig mot föräldrar, hålla goda familjeband, hedra grannen, besöka den sjuke och andra goda handlingar. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – i den tidigare nämna *hadithen* har sagt:
 
 > ”Allāh ser hur ni tävlar i gott under den och Han berättar stolt för änglarna om er. Visa därför Allāh godhet från er själva. För sannerligen är den olycklige den som är eftersatt från Allāhs nåd under den [*Ramadan*].” [*Majma'us-Zawa* 3:142]
 
@@ -130,7 +130,7 @@ Han har även sagt:
 
 Anledningen är även vad han har sagt i följande autentiska *hadīth*:
 
-> ”En *‘umrah*[^5] utförd under *ramadan* är likvärdig med en vallfärd, eller så sade han en vallfärd med mig.” [*al-Bukhāri* 1863 och *Muslim* 1256]
+> ”En *‘umrah*[^2] utförd under *ramadan* är likvärdig med en vallfärd, eller så sade han en vallfärd med mig.” [*al-Bukhāri* 1863 och *Muslim* 1256]
 
 De *ahādīth* som visar tillåtelse för att tävla och att vara framåt med att utföra olika former av godhet under denna ädla månad är många.
 
@@ -140,11 +140,8 @@ Sannerligen, Han är Den som skyddar detta och Den som är kapabel att göra det
 
 *as-Salamu 'Alaykum a Rahmatullāhi wa Barakatuhu*
 
-[^1]: Du´ā
-[^2]: Laylatul-Qadr. En av de sista tio nätterna under fastemånaden. Bön under den natten är likvärdig med bön under 1000 månader.
-[^3]: Fajr
-[^4]: Rakah.
-[^5]: Den lilla vallfärden.
+[^1]: Laylatul-Qadr. En av de sista tio nätterna under fastemånaden. Bön under den natten är likvärdig med bön under 1000 månader.
+[^2]: Den lilla vallfärden.
 
-[^6]: *al-Bukhāri* 2518
-[^7]: *al-Bukhāri* 52 och *Muslim* 1599
+[^3]: *al-Bukhāri* 2518
+[^4]: *al-Bukhāri* 52 och *Muslim* 1599

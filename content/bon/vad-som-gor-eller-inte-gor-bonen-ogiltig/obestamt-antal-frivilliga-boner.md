@@ -16,12 +16,11 @@ description: >-
 
 **Fråga:** Är det tillåtet att be ett obestämt antal frivilliga böner?
 
-**Svar:** Utlåtandet om detta är att man inte har frihet att välja ett visst antal bönecykler[^1] efter egna önskemål. Anledningen är att man är bunden till vad den islamiska lagen säger och vad profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Nattbönen och dagsbönen är två följt av två*…” [^2]
+**Svar:** Utlåtandet om detta är att man inte har frihet att välja ett visst antal bönecykler efter egna önskemål. Anledningen är att man är bunden till vad den islamiska lagen säger och vad profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Nattbönen och dagsbönen är två följt av två*…” [^1]
 
 Det är därför föreskrivet att be två följt av två under natten och dagen. Man bör inte be fyra, sex, åtta eller något liknande tillsammans.
 
-Undantaget är att det är tillåtet att be tre bönecykler[^1] som *witr* med en *tashahhud* tillsammans. /…/
+Undantaget är att det är tillåtet att be tre bönecykler som *witr* med en *tashahhud* tillsammans. /…/
 
-[^1]: Rakah.
 
-[^2]: *Abū Dawūd* 1295
+[^1]: *Abū Dawūd* 1295

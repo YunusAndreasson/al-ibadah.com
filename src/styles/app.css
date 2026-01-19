@@ -571,24 +571,27 @@ body {
   transform: scale(0.97);
 }
 
-/* Glossary terms - hover tooltips for Arabic terminology */
-.prose-reading em.glossary-term {
+/* Glossary terms - hover tooltips for terminology */
+.prose-reading .glossary-term {
   text-decoration: underline;
   text-decoration-style: wavy;
   text-decoration-color: var(--color-muted-foreground);
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
   cursor: help;
+}
+
+.prose-reading em.glossary-term {
   font-style: italic;
 }
 
 /* Tooltip on hover - desktop only */
 @media (hover: hover) {
-  .prose-reading em.glossary-term {
+  .prose-reading .glossary-term {
     position: relative;
   }
 
-  .prose-reading em.glossary-term:hover::after {
+  .prose-reading .glossary-term:hover::after {
     content: attr(data-definition);
     position: absolute;
     bottom: 100%;

@@ -20,7 +20,7 @@ description: >-
 
 Den senare åsikten är den som *shaykh ul-Islām* ibn Taymiyyah – må Allāh vara honom nådig – föredrar. Detta beror på att varken Allāh den Upphöjde eller profeten – över honom vare Allāhs frid och välsignelser – har angivit en viss sträcka för att få förkorta bönen.
 
-Anas bin Mālik har sagt: ”*När profeten reste [ungefär] fem kilometer […] förkortade han sin bön och bad två bönecykler*[^1].” [^6]
+Anas bin Mālik har sagt: ”*När profeten reste [ungefär] fem kilometer […] förkortade han sin bön och bad två bönecykler*[^1].” [^2]
 
 Den åsikt som *shaykh ul-Islām* ibn Taymiyyah – må Allāh vara honom nådig – har är den mest korrekta.
 
@@ -28,17 +28,13 @@ Det finns ingen synd när det existerar olika åsikter om vad som är en resa om
 
 Beträffande frågan om det är tillåtet att slå ihop bönerna och när det är tillåtet att förkorta dem säger vi: Att slå ihop bönerna är inte sammankopplat med att förkorta dem. När bönerna slås ihop beror det på ett behov. När någon behöver slå ihop sina böner, oavsett om det är under en resa eller i hemmet, då bör de slås ihop. Därför kan man slå ihop sina böner när det regnar och det blir svårt att gå till moskén.
 
-Man slår ihop bönen om det blåser en kall och hård vintervind som skulle göra det svårt för en att gå till moskén. Man får slå ihop bönen om det finns rädsla för att egendomen ska gå förlorad, skadas eller något liknande. I *Sahīh Muslim* återges att ´Abdullāh bin ‘Abbās har sagt: ”*Profeten slog ihop middagsbönen[^2] och eftermiddagsbönen[^3], och kvällsbönen[^4] och nattbönen[^5] utan att han var rädd eller att det regnade*.” [^7] De sade: ”*Och vad avsåg han [därigenom]?*” Han sade: ”*Han avsåg att folket inte skulle utsättas för svårigheter*.” Detta avser att de inte skulle utsättas för svårigheter genom att inte slå ihop bönerna.
+Man slår ihop bönen om det blåser en kall och hård vintervind som skulle göra det svårt för en att gå till moskén. Man får slå ihop bönen om det finns rädsla för att egendomen ska gå förlorad, skadas eller något liknande. I *Sahīh Muslim* återges att ´Abdullāh bin ‘Abbās har sagt: ”*Profeten slog ihop middagsbönen och eftermiddagsbönen, och kvällsbönen och nattbönen utan att han var rädd eller att det regnade*.” [^3] De sade: ”*Och vad avsåg han [därigenom]?*” Han sade: ”*Han avsåg att folket inte skulle utsättas för svårigheter*.” Detta avser att de inte skulle utsättas för svårigheter genom att inte slå ihop bönerna.
 
 Detta är rättesnöret. När någon person får svårigheter genom att inte slå ihop bönerna så får denne slå ihop dem. Finns det ingen svårighet för denne, då får denne inte slå ihop dem. Men svårigheter förväntas om man inte slår ihop bönerna när man reser. Därför får resenären slå ihop bönerna oavsett om denne reser eller har stannat på vägen [går ett uppehåll under resan]. Men om denne reser är det bäst att slå ihop bönerna och om denne har stannat någonstans på vägen är det bäst att inte slå ihop dem.
 
 Ett undantag gäller den som uppehåller sig i en stad där församlingsbönen hålls. I detta fall får denne inte slå ihop dem och inte heller förkorta dem. Men om denne missade en församlingsbön så får han förkorta dem utan att slå ihop dem, utom om denne behöver slå ihop dem.
 
 [^1]: Rakah.
-[^2]: Dhuhr
-[^3]: Asr
-[^4]: Maghrib
-[^5]: Isha
 
-[^6]: *Muslim* 691
-[^7]: *Muslim* 703
+[^2]: *Muslim* 691
+[^3]: *Muslim* 703

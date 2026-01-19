@@ -16,16 +16,14 @@ description: >-
   bett kvällsbönen. Vilket är utlåtandet om dett...
 ---
 
-**Fråga:** Vi glömde att be eftermiddagsbönen[^1] och vi kom inte på det förrän vi hörde böneutropet för kvällsbönen[^2]. Vi bad då eftermiddagsbönen[^1] när vi hade bett kvällsbönen[^2]. Vilket är utlåtandet om detta?
+**Fråga:** Vi glömde att be eftermiddagsbönen och vi kom inte på det förrän vi hörde böneutropet för kvällsbönen. Vi bad då eftermiddagsbönen när vi hade bett kvällsbönen. Vilket är utlåtandet om detta?
 
-**Svar:** Om någon har glömt att be en bön, eller om någon har försovit sig och det inte har funnits någon där för att påminna denne innan tiden gick ut, då gör denne som profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Han måste ta igen den så fort som han kommer ihåg den och det finns ingen gottgörelse utöver detta*.” [^3]
+**Svar:** Om någon har glömt att be en bön, eller om någon har försovit sig och det inte har funnits någon där för att påminna denne innan tiden gick ut, då gör denne som profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Han måste ta igen den så fort som han kommer ihåg den och det finns ingen gottgörelse utöver detta*.” [^1]
 
-Under en sådan omständighet som frågeställaren har råkat ut för bör han börja med eftermiddagsbönen[^1] och sedan kvällsbönen[^2]. På detta sätt upprätthålls den korrekta ordningen som Allāh den Allsmäktige har föreskrivit. Anledningen är att när profeten – över honom vare Allāhs frid och välsignelser – missade böner under en av dagarna vid slaget om diket, då tog han igen dem i ordning. Han har också sagt: ”*Be som ni har sett mig be*.” [^4]
+Under en sådan omständighet som frågeställaren har råkat ut för bör han börja med eftermiddagsbönen och sedan kvällsbönen. På detta sätt upprätthålls den korrekta ordningen som Allāh den Allsmäktige har föreskrivit. Anledningen är att när profeten – över honom vare Allāhs frid och välsignelser – missade böner under en av dagarna vid slaget om diket, då tog han igen dem i ordning. Han har också sagt: ”*Be som ni har sett mig be*.” [^2]
 
-Med detta som grund: När du kom till moskén och folket bad kvällsbönen[^2], då borde du ha förenat dig med dem med avsikten att be eftermiddagsbönen[^1]. När imamen sedan gjorde *taslīm* för kvällsbönen[^2], då skulle du ha stått upp och avslutat det som återstod av eftermiddagsbönen[^1]. Då hade bönen varit kvällsbönen[^2] för församlingen men eftermiddagsbönen[^1] för dig. Det finns ingen skadligt i detta [då menar jag skillnaden i avsikt mellan imamen och tjänaren]. Rörelserna är ju samma. Den skillnad som profeten – över honom vare Allāhs frid och välsignelser – har förbjudit mellan imamen och tjänarna var i rörelserna och inte i intentionen. Men då du gjorde detta utan vetskap, bad kvällsbönen[^2] före eftermiddagsbönen[^1], då finns det inget skadligt i det.
+Med detta som grund: När du kom till moskén och folket bad kvällsbönen, då borde du ha förenat dig med dem med avsikten att be eftermiddagsbönen. När imamen sedan gjorde *taslīm* för kvällsbönen, då skulle du ha stått upp och avslutat det som återstod av eftermiddagsbönen. Då hade bönen varit kvällsbönen för församlingen men eftermiddagsbönen för dig. Det finns ingen skadligt i detta [då menar jag skillnaden i avsikt mellan imamen och tjänaren]. Rörelserna är ju samma. Den skillnad som profeten – över honom vare Allāhs frid och välsignelser – har förbjudit mellan imamen och tjänarna var i rörelserna och inte i intentionen. Men då du gjorde detta utan vetskap, bad kvällsbönen före eftermiddagsbönen, då finns det inget skadligt i det.
 
-[^1]: Asr
-[^2]: Maghrib
 
-[^3]: *al-Bukhārī* 597 och *Muslim* 684
-[^4]: *al-Bukhārī* 631
+[^1]: *al-Bukhārī* 597 och *Muslim* 684
+[^2]: *al-Bukhārī* 631

@@ -20,8 +20,6 @@ description: >-
 
 **Svar:** Du har inte syndat om du spenderade natten någonstans i *Muzdalifah* och det är ingen fara om du inte gick till al-Mash´aril-Harām [det Heliga området]. Profeten – över honom vare Allāhs frid och välsignelser – har stått vid al-Mash´aril-Harām och sagt: ”*Jag har stått här och hela Jam' är en plats att stå vid*.”
 
-Ordet *jam'* avser *Muzdalifah*. Stod du vid någon plats här under natten så är det tillräckligt. Det som verkar vara uppenbart i profeten – över honom vare Allāhs frid och välsignelser – uttalande: ”*Jag har stått här och hela jam' är en plats att stå vid*” är att det inte är nödvändigt att börda sig och gå igenom svårigheter för att nå just den platsen. I stället kan han stå vid platsen som man befinner sig på, be gryningsbönen[^1], åkallar[^2] och sedan bege sig till *Mina*.
+Ordet *jam'* avser *Muzdalifah*. Stod du vid någon plats här under natten så är det tillräckligt. Det som verkar vara uppenbart i profeten – över honom vare Allāhs frid och välsignelser – uttalande: ”*Jag har stått här och hela jam' är en plats att stå vid*” är att det inte är nödvändigt att börda sig och gå igenom svårigheter för att nå just den platsen. I stället kan han stå vid platsen som man befinner sig på, be gryningsbönen, åkallar och sedan bege sig till *Mina*.
 
-[^1]: Fajr
-[^2]: Du´ā
 

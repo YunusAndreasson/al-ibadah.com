@@ -24,10 +24,9 @@ Det som är föreskrivet är att imamerna reciterar med långsam rytm och ödmju
 
 Imamerna och de som leds i bön måste sända välsignelser över profeten – över honom vare Allāhs frid och välsignelser – med Abrahams bön efter de båda vittnesmålen men innan *taslīm*. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har kommenderat detta. Några lärde anser att det är en skyldighet. Därmed får imamen och de som leds i bön inte motsätta sig den rena islamiska lagen, varken i bönen eller vid någon annan tidpunkt.
 
-Det är föreskrivet att de som ber – oavsett om det är en imam, någon som leds eller någon som ber själv – söker tillflykt hos Allāh från plågan i Helvetet, plågan i graven, prövningarna i livet och döden och prövningen i den falske Messias. Detta säger man efter att ha sänt böner över profeten – över honom vare Allāhs frid och välsignelser – och innan *taslīm*. Detta beror på att sändebudet – över honom vare Allāhs frid och välsignelser – brukade göra så och han beordrade sitt samfund att säga denna åkallan[^1].
+Det är föreskrivet att de som ber – oavsett om det är en imam, någon som leds eller någon som ber själv – söker tillflykt hos Allāh från plågan i Helvetet, plågan i graven, prövningarna i livet och döden och prövningen i den falske Messias. Detta säger man efter att ha sänt böner över profeten – över honom vare Allāhs frid och välsignelser – och innan *taslīm*. Detta beror på att sändebudet – över honom vare Allāhs frid och välsignelser – brukade göra så och han beordrade sitt samfund att säga denna åkallan.
 
-Det är rekommenderat att åkalla mer innan man bryter bönen med fridshälsningen. Ett exempel är en känd åkallan[^1] som profeten – över honom vare Allāhs frid och välsignelser – rådde Mu'ath bin Jabal att säga vid slutet av varje bön: "*Allāh! Hjälp mig att komma ihåg Dig, att vara dig tacksam och att dyrka Dig perfekt*." [^2]
+Det är rekommenderat att åkalla mer innan man bryter bönen med fridshälsningen. Ett exempel är en känd åkallan som profeten – över honom vare Allāhs frid och välsignelser – rådde Mu'ath bin Jabal att säga vid slutet av varje bön: "*Allāh! Hjälp mig att komma ihåg Dig, att vara dig tacksam och att dyrka Dig perfekt*." [^1]
 
-[^1]: Du´ā
 
-[^2]: *Abū Dawūd* 1522
+[^1]: *Abū Dawūd* 1522

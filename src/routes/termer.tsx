@@ -43,6 +43,7 @@ const categoryOrder = [
   'tawhidTerms',
   'phrases',
   'miswakAndOther',
+  'swedishTerms',
 ]
 
 // Swedish category names
@@ -63,6 +64,7 @@ const categoryNames: Record<string, string> = {
   tawhidTerms: 'Tawhid-kategorier',
   phrases: 'Fraser',
   miswakAndOther: 'Övrigt',
+  swedishTerms: 'Svenska ord',
 }
 
 function TermsPage() {

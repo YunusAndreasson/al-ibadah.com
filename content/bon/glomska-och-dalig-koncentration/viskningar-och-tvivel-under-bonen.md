@@ -15,18 +15,16 @@ description: >-
   jag tvivel. När jag har avslutat bönen kän...
 ---
 
-**Fråga:** Jag känner ofta tvivel om hur många bönecykler[^1] jag har bett. Även när jag reciterat med höjd röst så att jag kommer ihåg vad jag har reciterat får jag tvivel. När jag har avslutat bönen känner jag att jag har glömt en bönecykel, nedfallan eller att sitta vid *tashahhud*. Detta sker trots att jag är mycket noggrann med att inte börja tvivla på min bön. Vad kan ni råda mig till?
+**Fråga:** Jag känner ofta tvivel om hur många bönecykler jag har bett. Även när jag reciterat med höjd röst så att jag kommer ihåg vad jag har reciterat får jag tvivel. När jag har avslutat bönen känner jag att jag har glömt en bönecykel, nedfallan eller att sitta vid *tashahhud*. Detta sker trots att jag är mycket noggrann med att inte börja tvivla på min bön. Vad kan ni råda mig till?
 
-**Svar:** Du måste kämpa mot dessa viskningar, vidta försiktighetsåtgärder mot dem och söka din tillflykt hos Allāh från den utstötte djävulen. Detta enligt Allāhs den Upphöjdes ord: ”*Säg: ”Jag söker skydd hos människornas Herre, människornas Konung, människornas Gud, mot det onda som den förrädiske frestaren viskar i människors hjärtan, [viskar] genom [onda] osynliga väsen och [deras likar bland] människorna*.” [^3]
+**Svar:** Du måste kämpa mot dessa viskningar, vidta försiktighetsåtgärder mot dem och söka din tillflykt hos Allāh från den utstötte djävulen. Detta enligt Allāhs den Upphöjdes ord: ”*Säg: ”Jag söker skydd hos människornas Herre, människornas Konung, människornas Gud, mot det onda som den förrädiske frestaren viskar i människors hjärtan, [viskar] genom [onda] osynliga väsen och [deras likar bland] människorna*.” [^1]
 
-Och Hans ord: ”*Och om djävulen får din [vrede] att blossa upp, be då Gud beskydda dig; Han hör allt, vet allt*.” [^4]
+Och Hans ord: ”*Och om djävulen får din [vrede] att blossa upp, be då Gud beskydda dig; Han hör allt, vet allt*.” [^2]
 
-Om du avslutar bönen eller tvagningen[^2] och får tvivel, undvik dem då och ge dem ingen uppmärksamhet. Anse att din bön eller tvagning[^2] är giltig. Dyker tvivlet upp under bönen om huruvida du har bett tre eller fyra bönecykler[^1], anta då att du har bett tre och be klart bönen. Nedfall sedan två gånger för glömska innan *taslīm*. Profeten – över honom vare Allāhs frid och välsignelser – har sagt att den som glömmer ska göra så här.
+Om du avslutar bönen eller tvagningen och får tvivel, undvik dem då och ge dem ingen uppmärksamhet. Anse att din bön eller tvagning är giltig. Dyker tvivlet upp under bönen om huruvida du har bett tre eller fyra bönecykler, anta då att du har bett tre och be klart bönen. Nedfall sedan två gånger för glömska innan *taslīm*. Profeten – över honom vare Allāhs frid och välsignelser – har sagt att den som glömmer ska göra så här.
 
 Må Allāh skydda oss från djävulen.
 
-[^1]: Rakah.
-[^2]: Wudū
 
-[^3]: Koranen 114:1 – 5
-[^4]: Koranen 7:200
+[^1]: Koranen 114:1 – 5
+[^2]: Koranen 7:200

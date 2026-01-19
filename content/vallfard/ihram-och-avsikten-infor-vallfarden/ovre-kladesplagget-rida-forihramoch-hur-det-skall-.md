@@ -18,11 +18,10 @@ description: >-
 
 **Svar:** Det som är *sunnah* för en *muhrim* är att han placerar *rida'* över båda sina axlar och dess slut vid bröstet. Detta är *sunnah* och det är vad profeten – över honom vare Allāhs frid och välsignelser – gjorde. Om denne vill utföra *tawāful-qudum*[^2] då gör denne *al-idhtiba'*. Detta sker genom att han placerar mitten av sin *rida'* under sin högra armhåla och dess hörn över den vänstra axeln. På detta sätt avtäcker han sin högra axel. Detta gäller enbart *tawāf* då man anländer, alltså när man kommer till Mecka för vallfärden eller *´umrah* första gången.
 
-När han sedan avslutar *tawāf* justerar han sin *rida’*[^1] och placerar den över båda axlarna och ber två bönecykler[^3] för *tawāf*. Den som ständigt håller en axel avtäckt motsäger sig profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och det är som att låta båda axlarna vara avtäckta. Det som är *sunnah* är att endast täcka båda med *rida’*[^1] under *ihrām*.
+När han sedan avslutar *tawāf* justerar han sin *rida’*[^1] och placerar den över båda axlarna och ber två bönecykler för *tawāf*. Den som ständigt håller en axel avtäckt motsäger sig profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och det är som att låta båda axlarna vara avtäckta. Det som är *sunnah* är att endast täcka båda med *rida’*[^1] under *ihrām*.
 
 Om någon tar av *rida’*[^1] och inte täcker sina axlar medan denne sitter och äter eller samtalar med sina bröder, då är det inget fel med det. Men det som är *sunnah* är att bära sin *rida’*[^1] över båda axlarna och att dess slut bör vara vid bröstet.
 
 [^1]: Det övre plagget.
 [^2]: Tawāf då man kommer till Mecka.
-[^3]: Rakah.
 

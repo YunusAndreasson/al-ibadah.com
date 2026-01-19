@@ -17,13 +17,13 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om någon som dömer med något annan än vad Allāh har uppenbarat?
 
-**Svar:** Genom Allāh den Upphöjde uppnås framgång och jag ber Honom om vägledning och att Han visar mig sanningen. Att döma enligt vad Allāh den Upphöjde har uppenbarat är en del av *tawhīd ar-rububiyyah*[^1]. Därför att detta är att tillämpa Allāhs lag vilket Hans herrskap, fullständiga herravälde och bestämmande över alla ting nödvändiggör […] Allāh den Upphöjde säger:
+**Svar:** Genom Allāh den Upphöjde uppnås framgång och jag ber Honom om vägledning och att Han visar mig sanningen. Att döma enligt vad Allāh den Upphöjde har uppenbarat är en del av *tawhīd ar-rububiyyah*. Därför att detta är att tillämpa Allāhs lag vilket Hans herrskap, fullständiga herravälde och bestämmande över alla ting nödvändiggör […] Allāh den Upphöjde säger:
 
 > ”De har tagit sina rabbiner och klosterbröder till herrar och beskyddare i Guds ställe, och [detsamma har de gjort med] Kristus, Marias son, trots att de har förmanats att inte dyrka någon annan än den Ende Guden – det finns ingen gud utom Han; stor är Han i Sin härlighet, fjärran från allt vad de vill sätta vid Hans sida!” [Koranen 9:31]
 
 Allāh den Upphöjde kallar de som lyds jämte honom för herrar då de har tagits som laggivare jämsides Honom den Upphöjde. Han kallar de som lyder dem för slavar då de underkastar sig och lyder dem genom att motsäga sig Allāhs den Härliges, den Upphöjdes domslut.
 
-'Adi bin Hatim sade till Allāhs sändebud: ”*De dyrkar dem inte*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Men de förbjöd dem det som är tillåtet och tillät dem det som är otillåtet, och de lydde dem. Detta är deras dyrkan av dem*.” [^2]
+'Adi bin Hatim sade till Allāhs sändebud: ”*De dyrkar dem inte*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Men de förbjöd dem det som är tillåtet och tillät dem det som är otillåtet, och de lydde dem. Detta är deras dyrkan av dem*.” [^1]
 
 Förstår du detta, då ska du veta att den som dömer med något annat än vad Allāh har uppenbarat och söker domslut från andra än Allāh och Hans sändebud, denne har en vers uppenbarats om som upphäver dennes tro. Likaså talar andra verser om dennes otro, onda handlande och synd.
 
@@ -75,6 +75,5 @@ Den som inte dömer enligt vad Allāh den Upphöjde har uppenbarat men som helle
 
 2. De anser att det är att förklara tillåtet vad Allāh har förklarat som förbjudet och att förklara som otillåtet vad Allāh har förklarat som tillåtet, men de lydde dem genom att handla olydigt mot Allāh precis som en muslim syndar i tron om att det är synder. Dessa döms då på samma sätt som syndare.
 
-[^1]: Enheten i Allāhs herravälde.
 
-[^2]: *at-Tirmithi* 3095
+[^1]: *at-Tirmithi* 3095

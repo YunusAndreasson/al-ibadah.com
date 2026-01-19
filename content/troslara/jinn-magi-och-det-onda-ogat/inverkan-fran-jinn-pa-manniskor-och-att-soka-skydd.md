@@ -24,10 +24,9 @@ Detta bevisar att *jinn* kan attackera människor. Ibland går en person till en
 
 > ”De som livnär sig på ocker ska uppstå [till Domen] lika ostadiga på benen som den som Djävulen med sin beröring slagit med vansinne.” [Koranen 2:275]
 
-För att skydda oss själva mot onda *jinn* bör vi läsa åkallan[^1] som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – lärde oss att läsa, som *al-Kursi*[^2]-versen, för när man läser denna vers under natten skyddas man mot djävulen som inte kommer nära en förrän under morgonen.
+För att skydda oss själva mot onda *jinn* bör vi läsa åkallan som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – lärde oss att läsa, som *al-Kursi*[^1]-versen, för när man läser denna vers under natten skyddas man mot djävulen som inte kommer nära en förrän under morgonen.
 
 Och Allāh den Allsmäktige är den som skyddar oss.
 
-[^1]: Du´ā
-[^2]: Allāhs fotpall.
+[^1]: Allāhs fotpall.
 

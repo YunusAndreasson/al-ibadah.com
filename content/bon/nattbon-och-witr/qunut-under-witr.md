@@ -14,13 +14,12 @@ description: >-
   någon speciellt för den. Är det föreskrivet...
 ---
 
-**Fråga:** Vi ber er att beskriva profetens – över honom vare Allāhs frid och välsignelser – *sunnah* för åkallan[^1] i *qunūt* och berätta för oss om det finns någon speciellt för den. Är det föreskrivet att göra den lång i *witr*-bönen?
+**Fråga:** Vi ber er att beskriva profetens – över honom vare Allāhs frid och välsignelser – *sunnah* för åkallan i *qunūt* och berätta för oss om det finns någon speciellt för den. Är det föreskrivet att göra den lång i *witr*-bönen?
 
-**Svar:** Inkluderat i åkallan[^1] för *qunūt* finns det som profeten – över honom vare Allāhs frid och välsignelser – lärde Hasan bin ´Alī bin Abū Talib: ”*Allāhummahdini fīman hadait, wa 'afini fīman 'afait*.” [^2] Fram till och med slutet på denna välkända åkallan[^1] när imamen säger *allāhummahdina* i första persons plural när han åkallar[^1] för sig själv och de om står bakom honom.
+**Svar:** Inkluderat i åkallan för *qunūt* finns det som profeten – över honom vare Allāhs frid och välsignelser – lärde Hasan bin ´Alī bin Abū Talib: ”*Allāhummahdini fīman hadait, wa 'afini fīman 'afait*.” [^1] Fram till och med slutet på denna välkända åkallan när imamen säger *allāhummahdina* i första persons plural när han åkallar för sig själv och de om står bakom honom.
 
-Om han säger något passande är det inte syndigt men det är inte lämpligt att han drar ut på denna åkallan[^1] till den grad att det blir svårt för dem som leds i bön eller gör dem uttråkade. Profeten – över honom vare Allāhs frid och välsignelser – blev arg på Mu'ath när han drog ut på bönen och sade då: ”*Mu'ath, är det du som är orsaken till denna prövning?*” [^3]
+Om han säger något passande är det inte syndigt men det är inte lämpligt att han drar ut på denna åkallan till den grad att det blir svårt för dem som leds i bön eller gör dem uttråkade. Profeten – över honom vare Allāhs frid och välsignelser – blev arg på Mu'ath när han drog ut på bönen och sade då: ”*Mu'ath, är det du som är orsaken till denna prövning?*” [^2]
 
-[^1]: Du´ā
 
-[^2]: *at-Tirmithi* 464
-[^3]: *al-Bukhārī* 705
+[^1]: *at-Tirmithi* 464
+[^2]: *al-Bukhārī* 705

@@ -16,7 +16,6 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om att förkorta bönen under vallfärden för en pilgrim som stannar i Mecka under fler än fyra dagar?
 
-**Svar:** Om en pilgrim stannar i Mecka under fyra dagar eller mindre än det, då är det *sunnah* för honom att be de fyra bönecykler[^1] långa bönerna som två bönecykler[^1]. Anledningen är hur profeten – över honom vare Allāhs frid och välsignelser – handlade under sin sista vallfärd. Men om han har bestämt sig för att stanna under mer än fyra dagar, då är det säkrare att be de förkortade bönerna som fyra bönecykler[^1]. Detta är en åsikt som de flesta lärde har.
+**Svar:** Om en pilgrim stannar i Mecka under fyra dagar eller mindre än det, då är det *sunnah* för honom att be de fyra bönecykler långa bönerna som två bönecykler. Anledningen är hur profeten – över honom vare Allāhs frid och välsignelser – handlade under sin sista vallfärd. Men om han har bestämt sig för att stanna under mer än fyra dagar, då är det säkrare att be de förkortade bönerna som fyra bönecykler. Detta är en åsikt som de flesta lärde har.
 
-[^1]: Rakah.
 

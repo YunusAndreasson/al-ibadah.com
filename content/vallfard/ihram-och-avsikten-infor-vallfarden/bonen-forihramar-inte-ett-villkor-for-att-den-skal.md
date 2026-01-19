@@ -14,7 +14,7 @@ description: >-
   villkor för att ihrām ska vara giltig...
 ---
 
-**Fråga:** Är en muslims *ihrām* för vallfärden eller *‘umrah*[^1] giltig även om denne inte ber två bönecykler[^2] för den? Är ett muntligt uttalande av avsikten ett villkor för att *ihrām* ska vara giltig?
+**Fråga:** Är en muslims *ihrām* för vallfärden eller *‘umrah*[^1] giltig även om denne inte ber två bönecykler för den? Är ett muntligt uttalande av avsikten ett villkor för att *ihrām* ska vara giltig?
 
 **Svar:** Det är inte ett villkor för *ihrām* att man ber före den. Det är endast, enligt de flesta lärda, rekommenderat. Det som är föreskrivet är att man i sitt hjärta avser vad man vill [vallfärd eller *‘umrah*[^1]]. Man uttalar detta genom att säga: "Allāh! Jag är här till Din tjänst för att utföra *'umrah*", eller ”Allāh jag är här till Din tjänst för att vallfärda.” Man kan även säga det tillsammans om han vill göra *hajjul-qirān*, vilket profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare gjorde. Att uttala avsikten är inte ett villkor; avsikten i hjärtat är tillräcklig.
 
@@ -25,5 +25,4 @@ Sedan säger han den föreskrivna *talbiyyah*, som lyder:
 Detta är profetens – över honom vare Allāhs frid och välsignelser – *talbiyyah* som bland annat har bekräftats i *Sahīh al-Bukhārī* och *Sahīh Muslim*.
 
 [^1]: Den lilla vallfärden.
-[^2]: Rakah.
 

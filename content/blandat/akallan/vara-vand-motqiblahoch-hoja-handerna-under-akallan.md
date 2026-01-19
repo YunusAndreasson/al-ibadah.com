@@ -16,7 +16,6 @@ description: >-
 
 **Fråga:** Är det ett krav för att ens bön ska besvaras att man höjer händerna och är vänd mot *qiblah*?
 
-**Svar:** Att höja händerna under åkallan[^1] och att vara riktad mot *qiblah* – den ädlaste av alla riktningar – är en betonad *sunnah*. Det är dock inte ett villkor för att bönen ska accepteras. För sannerligen accepterar Allāh åkallan[^1] från en uppriktig muslim även om han inte höjer händerna och är riktad mot *qiblah* när han åkallar[^1]. Det är inte nödvändigt att man höjer sina händer under åkallan[^1] för att Allāh ska acceptera den. Det kan finnas andra faktorer som gör att ens åkallan[^1] inte accepteras, trots att ens händer är höjda.
+**Svar:** Att höja händerna under åkallan och att vara riktad mot *qiblah* – den ädlaste av alla riktningar – är en betonad *sunnah*. Det är dock inte ett villkor för att bönen ska accepteras. För sannerligen accepterar Allāh åkallan från en uppriktig muslim även om han inte höjer händerna och är riktad mot *qiblah* när han åkallar. Det är inte nödvändigt att man höjer sina händer under åkallan för att Allāh ska acceptera den. Det kan finnas andra faktorer som gör att ens åkallan inte accepteras, trots att ens händer är höjda.
 
-[^1]: Du´ā
 

@@ -16,13 +16,12 @@ description: >-
   sig detta förbudet mot bön efter gryningsbön...
 ---
 
-**Fråga:** Vilket är utlåtandet om att ta igen *sunnah* för gryningsbönen[^1] efter gryningsbönen[^1] om man inte har haft möjlighet att be den före bönen? Motsäger sig detta förbudet mot bön efter gryningsbönen[^1]?
+**Fråga:** Vilket är utlåtandet om att ta igen *sunnah* för gryningsbönen efter gryningsbönen om man inte har haft möjlighet att be den före bönen? Motsäger sig detta förbudet mot bön efter gryningsbönen?
 
-**Svar:** Enligt den starkaste åsikten finns det ingen invändan mot att man tar igen *sunnah* för gryningsbönen[^1] efter gryningsbönen[^1].
+**Svar:** Enligt den starkaste åsikten finns det ingen invändan mot att man tar igen *sunnah* för gryningsbönen efter gryningsbönen.
 
 Detta motsäger sig inte den *hadīth* som förbjuder att man ber. Det som är förbjudet är att man ber utan anledning.
 
 Men om man skjuter upp den till efter soluppgången och man inte är rädd för att man ska vara för upptagen för att be den, då är detta att föredra.
 
-[^1]: Fajr
 

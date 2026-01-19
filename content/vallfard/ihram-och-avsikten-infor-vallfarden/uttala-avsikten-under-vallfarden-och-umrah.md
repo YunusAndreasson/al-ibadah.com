@@ -16,15 +16,14 @@ description: >-
 
 **Fråga:** Är det tillåtet att uttala avsikten för att utföra *'umrah*, vallfärden, *tawāf* och *sa'ī* vid Ka'bah?
 
-**Svar:** Att avsikten ska uttalas har inte rapporterats från profeten – över honom vare Allāhs frid och välsignelser – i fråga om bönen, tvagningen[^2], fastan eller någon annan dyrkan. Inte heller för vallfärden eller *'umrah* sade profeten: ”*Sannerligen avser jag det och det*.” Detta har inte bekräftats från honom och han beordrade heller ingen av följeslagarna att göra det.
+**Svar:** Att avsikten ska uttalas har inte rapporterats från profeten – över honom vare Allāhs frid och välsignelser – i fråga om bönen, tvagningen, fastan eller någon annan dyrkan. Inte heller för vallfärden eller *'umrah* sade profeten: ”*Sannerligen avser jag det och det*.” Detta har inte bekräftats från honom och han beordrade heller ingen av följeslagarna att göra det.
 
-Det mesta som har rapporterats är att Dhuba'ah bint Zubair, när hon var sjuk, klagade inför honom om att hon ville vallfärda. Profeten – över honom vare Allāhs frid och välsignelser – sade därför: ”*Vallfärda och ange ett villkor [genom att säga]: 'Min plats för att träda ur *ihrām* är där Du stoppar mig.' För sannerligen kommer du få från din Herre vad du gjorde som ett undantag*.” [^3]
+Det mesta som har rapporterats är att Dhuba'ah bint Zubair, när hon var sjuk, klagade inför honom om att hon ville vallfärda. Profeten – över honom vare Allāhs frid och välsignelser – sade därför: ”*Vallfärda och ange ett villkor [genom att säga]: 'Min plats för att träda ur *ihrām* är där Du stoppar mig.' För sannerligen kommer du få från din Herre vad du gjorde som ett undantag*.” [^2]
 
 Här sker uttalandet med tungan enbart för att avsikten om att vallfärda har samma status som en ed, och en ed utförs med tungan. Anledningen är att om man avser att svära en ed i sitt hjärta, då anses det inte vara en ed […]
 
 I en *hadīth* som har rapporterats från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – säger han: ”*[Ängeln] Gabriel kom till mig och sade: 'Be i denna välsignade dal och säg: 'En ‘umrah[^1] i en vallfärd' [eller sade han: 'En ‘umrah[^1] och en vallfärd']*.” Detta betyder inte att han uttalade avsikten muntligt. I stället betyder det att han nämnde denna form av vallfärd i sin *talbiyyah*. Utöver detta har inte profeten – över honom vare Allāhs frid och välsignelser – uttalat sin avsikt muntligt.
 
 [^1]: Den lilla vallfärden.
-[^2]: Wudū
 
-[^3]: *al-Bukhārī* 5089, *Muslim* 1207 och *an-Nasā’i* 2769
+[^2]: *al-Bukhārī* 5089, *Muslim* 1207 och *an-Nasā’i* 2769

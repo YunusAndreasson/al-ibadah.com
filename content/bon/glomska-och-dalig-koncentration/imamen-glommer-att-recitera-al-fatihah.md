@@ -14,13 +14,11 @@ description: >-
   då? Svar: Han måste göra en bönecykel till ...
 ---
 
-**Fråga:** Om imamen glömmer att recitera *al-Fātihah* i den sista bönecykeln[^1] och han inte kommer på detta förrän efter den andra bugningen[^2] – vad gör han då?
+**Fråga:** Om imamen glömmer att recitera *al-Fātihah* i den sista bönecykeln och han inte kommer på detta förrän efter den andra bugningen – vad gör han då?
 
-**Svar:** Han måste göra en bönecykel[^1] till för att upprepa den som han glömde *al-Fātihah* i. Han gör sedan nedfallandet för glömska[^3] innan *taslīm* och de bakom bör följa honom.
+**Svar:** Han måste göra en bönecykel till för att upprepa den som han glömde *al-Fātihah* i. Han gör sedan nedfallandet för glömska[^1] innan *taslīm* och de bakom bör följa honom.
 
 Och genom Allāh uppnås framgång.
 
-[^1]: Rakah.
-[^2]: Ruku, bugningen när ryggen hålls parallell med marken.
-[^3]: sujūd as-sahw.
+[^1]: sujūd as-sahw.
 

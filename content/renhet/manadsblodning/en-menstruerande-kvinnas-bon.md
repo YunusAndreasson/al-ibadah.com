@@ -18,11 +18,9 @@ Om månadsblödningen kom efter att tiden för en bön inletts, om du exempelvis
 
 Du ska dock inte ta igen bönerna som du missade under din månadsblödning. Detta baseras på en långt *hadīth* där profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Är det inte så att när ni har mens, så ber eller fastar ni inte?*”
 
-Det råder konsensus bland de lärde om att missade böner under månadsblödningen inte ska tas igen. Men om hon blir ren [blödningen slutar] och hon har tillräckligt med tid för att be en bönecykel[^1] eller mer av bönen, då måste hon be den bönen som var aktuell när hon blev ren. Detta baseras på profetens – över honom vare Allāhs frid och välsignelser – uttalande: ”*Den som lyckas be en bönecykel[^1] av eftermiddagsbönen[^2] före solnedgången har lyckats med eftermiddagsbönen*[^2].”
+Det råder konsensus bland de lärde om att missade böner under månadsblödningen inte ska tas igen. Men om hon blir ren [blödningen slutar] och hon har tillräckligt med tid för att be en bönecykel eller mer av bönen, då måste hon be den bönen som var aktuell när hon blev ren. Detta baseras på profetens – över honom vare Allāhs frid och välsignelser – uttalande: ”*Den som lyckas be en bönecykel av eftermiddagsbönen före solnedgången har lyckats med eftermiddagsbönen*[^1].”
 
-Om kvinnan blir ren under eftermiddagsbönen[^2] eller före soluppgången och det finns tillräckligt med tid innan solnedgången eller soluppgången för att be en bönecykel, ber hon i det första fallet eftermiddagsbönen[^2] och i det andra gryningsbönen[^3].
+Om kvinnan blir ren under eftermiddagsbönen eller före soluppgången och det finns tillräckligt med tid innan solnedgången eller soluppgången för att be en bönecykel, ber hon i det första fallet eftermiddagsbönen och i det andra gryningsbönen.
 
-[^1]: Rakah.
-[^2]: Asr
-[^3]: Fajr
+[^1]: Asr
 

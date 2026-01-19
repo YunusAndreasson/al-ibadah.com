@@ -14,10 +14,8 @@ description: >-
   jag be den som fyra bönecykler med avsik...
 ---
 
-**Fråga:** Om jag inte ber fredagsbönen i församlingen i moskén, bör jag då be den i mitt hem som två bönecykler[^1] med avsikten att det är fredagsbönen eller bör jag be den som fyra bönecykler[^1] med avsikten att det är middagsbönen[^2]?
+**Fråga:** Om jag inte ber fredagsbönen i församlingen i moskén, bör jag då be den i mitt hem som två bönecykler med avsikten att det är fredagsbönen eller bör jag be den som fyra bönecykler med avsikten att det är middagsbönen?
 
-**Svar:** Den som med giltig ursäkt, sjukdom eller liknande, inte var närvarande vid fredagsbönen ber den som middagsbönen[^2]. På samma sätt gör en kvinna, en resenär och de som bor i öknen. Profetens – över honom vare Allāhs frid och välsignelser – *sunnah* bevisar detta och det anser en majoritet av de lärde. Ingen vikt bör läggas vid dem som avviker från dem.
+**Svar:** Den som med giltig ursäkt, sjukdom eller liknande, inte var närvarande vid fredagsbönen ber den som middagsbönen. På samma sätt gör en kvinna, en resenär och de som bor i öknen. Profetens – över honom vare Allāhs frid och välsignelser – *sunnah* bevisar detta och det anser en majoritet av de lärde. Ingen vikt bör läggas vid dem som avviker från dem.
 
-[^1]: Rakah.
-[^2]: Dhuhr
 

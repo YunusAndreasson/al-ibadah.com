@@ -1,20 +1,22 @@
 ---
 title: Recitation av al-Fatihah vid gravar
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
- Libanon: Maktaba Dar us-Salam. 61 s. ISBN saknas'
+source: >-
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Libanon: Maktaba Dar us-Salam. 61 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 48
-description: 'Fråga: Är det tillåtet att recitera al-Fatihah, eller något annat
- stycke i Koranen, för den avlidne när man besöker dennes grav? Kommer detta att
- göra denne någon nytta? Profeten – över honom ...'
+description: >-
+  Fråga: Är det tillåtet att recitera al-Fatihah, eller något annat stycke i
+  Koranen, för den avlidne när man besöker dennes grav? Kommer detta att göra
+  denne någon nytta? Profeten – över honom ...
 ---
 
 **Fråga:** Är det tillåtet att recitera *al-Fātihah*, eller något annat stycke i Koranen, för den avlidne när man besöker dennes grav? Kommer detta att göra denne någon nytta?
 
-Profeten – över honom vare Allāhs frid och välsignelser – brukade besöka gravar och be för de döda med en åkallan[^1] som han lärde följeslagarna. En sådan åkallan[^1] kan vara:
+Profeten – över honom vare Allāhs frid och välsignelser – brukade besöka gravar och be för de döda med en åkallan som han lärde följeslagarna. En sådan åkallan kan vara:
 
 > ”*as-Salamu Alaikum*, människor vid denna plats, troende och Muslimer, och vi kommer – om Allāh vill – att följa er. Vi ber Allāh om säkerhet för oss själva och för er.” [*Muslim* 975]
 
@@ -26,5 +28,4 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Den som för in något i vår fråga [islam] som inte tillhör den, det ska avvisas.” [*al-Bukhārī* 2697 och *Muslim* 1718]
 
-[^1]: Du´ā
 

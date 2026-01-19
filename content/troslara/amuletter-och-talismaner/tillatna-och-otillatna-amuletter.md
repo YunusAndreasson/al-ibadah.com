@@ -14,13 +14,13 @@ description: >-
   3883, Ahmad 1:381 och al-Hakim 4:418] Jabir h...
 ---
 
-**Fråga:** ´Abdullāh bin Mas'ūd har sagt: ”*Jag hörde Allāhs sändebud säga: 'Sannerligen är besvärjelser, amuletter och tiwalah[^1] shirk*[^2].'” [^4] Jabir har sagt:
+**Fråga:** ´Abdullāh bin Mas'ūd har sagt: ”*Jag hörde Allāhs sändebud säga: 'Sannerligen är besvärjelser, amuletter och tiwalah[^1] shirk*[^2].'” [^3] Jabir har sagt:
 
 > ”Jag hade en farbror som brukade behandla folk med besvärjelser efter skorpionstick. När profeten förbjöd besvärjelser gick han till honom och frågade: 'Allāhs sändebud, du har förbjudit besvärjelser och jag behandlar dem som har stuckits av skorpioner med besvärjelser.' Han svarade: 'Den som kan hjälpa sin broder, låt denne göra så.'” [*Muslim* 2199]
 
 Hur kan vi få ihop den *hadīth* som förbjuder med den som tillåter? Vilket är utlåtandet om att den som har stuckits bär Koran-amuletter?
 
-**Svar:** De besvärjelser som är förbjudna är de som innehåller: *shirk*, åkallan[^3] av andra än Allāh eller meningslösa ord. Besvärjelser som är fria ifrån detta är tillåtna och det är ett av de förnämsta medlen för läkande.
+**Svar:** De besvärjelser som är förbjudna är de som innehåller: *shirk*, åkallan av andra än Allāh eller meningslösa ord. Besvärjelser som är fria ifrån detta är tillåtna och det är ett av de förnämsta medlen för läkande.
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
@@ -49,6 +49,5 @@ Det är Allāh som ger framgång.
 
 [^1]: En trollformel som används för att skapa kärlek mellan maken och makan.
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
-[^3]: Du´ā
 
-[^4]: *Abū Dawūd* 3883, *Ahmad* 1:381 och *al-Hakim* 4:418
+[^3]: *Abū Dawūd* 3883, *Ahmad* 1:381 och *al-Hakim* 4:418

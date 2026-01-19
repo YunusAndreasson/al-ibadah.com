@@ -18,10 +18,9 @@ description: >-
 
 Muslimer måste känna till de islamiska utlåtandena i Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah*, konsensus och det som grundas på sådant som nutida jämförelser och så vidare. Detta gäller om han har förmåga att undersöka och göra *ijtihād*. Om han inte har det, då bör han fråga de som han litar till bland de lärde och följa dem utan fanatism mot en specifik *mujtahid*[^1] [som praktiserar *ijtihād*].
 
-profetens – över honom vare Allāhs frid och välsignelser – autentiska *sunnah* visar att det är tillåtet att höja händerna under den första *takbīr*, när man bugar och reser sig från den och när man står upp för den tredje bönecykeln[^2]. Det är inte tillåtet att motsäga sig profetens – över honom vare Allāhs frid och välsignelser – *sunnah* med folks uttalanden.
+profetens – över honom vare Allāhs frid och välsignelser – autentiska *sunnah* visar att det är tillåtet att höja händerna under den första *takbīr*, när man bugar och reser sig från den och när man står upp för den tredje bönecykeln. Det är inte tillåtet att motsäga sig profetens – över honom vare Allāhs frid och välsignelser – *sunnah* med folks uttalanden.
 
 Må frid och välsignelser vara över profeten Muḥammad, hans familj och följeslagare.
 
 [^1]: Någon som utöver *ijtihad*.
-[^2]: Rakah.
 

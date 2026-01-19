@@ -14,11 +14,10 @@ description: >-
   av detta. Jag vet inte hur många bö...
 ---
 
-**Fråga:** Jag brukade onanera och jag gjorde då inte *ghusl*. Jag bad och fastade därmed utan *ghusl*, då jag inte kände till att jag behövde göra *ghusl* på grund av detta. Jag vet inte hur många bönecykler[^1] som jag har bett i detta tillstånd.
+**Fråga:** Jag brukade onanera och jag gjorde då inte *ghusl*. Jag bad och fastade därmed utan *ghusl*, då jag inte kände till att jag behövde göra *ghusl* på grund av detta. Jag vet inte hur många bönecykler som jag har bett i detta tillstånd.
 
 **Svar:** Du har begått ett allvarligt misstag. Onani är förbjudet trots att vissa lärde har tillåtit det på grund av rädsla för otukt. Du har även begått ett misstag då du inte har frågat om utlåtandet om detta. Du är dock förlåten eftersom du har varit förbiseende, den tid som har gått och att det skulle vara svårt för dig att ta igen så många böner. Du bör dock be många frivilliga böner och sysselsätta dig med så mycket dyrkan som möjligt. Allāh kommer att förlåta det som har skett.
 
 Och Allāh vet bäst.
 
-[^1]: Rakah.
 

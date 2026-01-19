@@ -20,7 +20,6 @@ description: >-
 
 För att rengöra orenheter [verklig smuts] kan man inte använda sig av *tayammum*, oavsett om det är på kroppen, kläderna eller marken. Syftet med att rengöra sig från orenheter är att få bort något smutsigt, det är inte ett villkor att det är en dyrkan.
 
-Detta är anledningen till att om det smutsiga oavsiktligen avlägsnas från personen eller platsen, då har renhet uppnåtts. Faller regn på den smutsiga platsen eller det smutsiga plagget och smutsen försvinner på detta sätt, då rengörs det även om man inte är medveten om det. Detta är inte fallet vid en rituell rening [som tvagning[^1] eller *tayammum*] då det är en dyrkan som för en närmare Allāh den Allsmäktige. Då krävs en avsikt och ett syfte.
+Detta är anledningen till att om det smutsiga oavsiktligen avlägsnas från personen eller platsen, då har renhet uppnåtts. Faller regn på den smutsiga platsen eller det smutsiga plagget och smutsen försvinner på detta sätt, då rengörs det även om man inte är medveten om det. Detta är inte fallet vid en rituell rening [som tvagning eller *tayammum*] då det är en dyrkan som för en närmare Allāh den Allsmäktige. Då krävs en avsikt och ett syfte.
 
-[^1]: Wudū
 

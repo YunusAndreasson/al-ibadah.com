@@ -162,6 +162,7 @@ async function buildContent(): Promise<CategoryData[]> {
 
   for (const categoryEntry of categoryEntries) {
     if (!categoryEntry.isDirectory()) continue
+    if (categoryEntry.name === 'granskning') continue // Skip review folder
 
     const categorySlug = categoryEntry.name
     const categoryPath = path.join(CONTENT_DIR, categorySlug)

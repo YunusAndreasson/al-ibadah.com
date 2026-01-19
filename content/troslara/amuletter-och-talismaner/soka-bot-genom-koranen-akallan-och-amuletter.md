@@ -14,7 +14,7 @@ description: >-
   återberättat är det tillåtet att söka bot genom Ko...
 ---
 
-**Fråga:** Vilket är utlåtandet om att söka bot genom Koranen, åkallan[^1] och amuletter?
+**Fråga:** Vilket är utlåtandet om att söka bot genom Koranen, åkallan och amuletter?
 
 **Svar:** Enligt följande *hadīth* som Abū Sa´īd al-Khudri har återberättat är det tillåtet att söka bot genom Koranen:
 
@@ -24,5 +24,4 @@ Denna *hadīth* understryker att det är tillåtet att söka bot genom Koranen. 
 
 Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muḥammad samt göra honom, hans hushåll och följeslagare säkra från ont.
 
-[^1]: Du´ā
 

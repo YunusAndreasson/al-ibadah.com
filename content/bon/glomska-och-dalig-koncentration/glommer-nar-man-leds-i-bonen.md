@@ -14,10 +14,9 @@ description: >-
   Svar: Du behöver inte nedfalla för glöms...
 ---
 
-**Fråga:** Jag bad bakom en imam och jag glömde att säga *tasbih* under det första nedfallandet[^1]. Vad gör jag då? Bör jag nedfalla[^1] efter imamens *taslīm*?
+**Fråga:** Jag bad bakom en imam och jag glömde att säga *tasbih* under det första nedfallandet. Vad gör jag då? Bör jag nedfalla efter imamens *taslīm*?
 
-**Svar:** Du behöver inte nedfalla för glömska[^2]; varken före eller efter imamens *taslīm*. Imamen bär bördan för glömskan och inget krävs av de som ber bakom honom.
+**Svar:** Du behöver inte nedfalla för glömska[^1]; varken före eller efter imamens *taslīm*. Imamen bär bördan för glömskan och inget krävs av de som ber bakom honom.
 
-[^1]: sujūd, nedfallandet när pannan läggs mot marken.
-[^2]: sujūd as-sahw.
+[^1]: sujūd as-sahw.
 

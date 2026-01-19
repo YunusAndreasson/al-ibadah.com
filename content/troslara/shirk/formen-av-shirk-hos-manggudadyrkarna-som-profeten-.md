@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Den *shirk* månggudadyrkarna som profeten – över honom vare Allāhs frid och välsignelser – sändes till [begick] var inte *shirk* i *rububiyyah*. Den ädla Koranen bevisar ju att de endast begick *shirk* i dyrkan.
 
-När det gällde *rububiyyah* brukade de tro att enbart Allāh är Herren, att Han svarar åkallan[^1] från den förtryckte, att det är Han som hindrar ont och liknande ting som Allāh har nämnt att de bekräftade oinskränkbarheten i Allāhs herrskap. Men de satte upp medhjälpare i dyrkan när de dyrkade gudomer jämsides med Allāh, och detta är en sorts *shirk* som tar en person utanför islam.
+När det gällde *rububiyyah* brukade de tro att enbart Allāh är Herren, att Han svarar åkallan från den förtryckte, att det är Han som hindrar ont och liknande ting som Allāh har nämnt att de bekräftade oinskränkbarheten i Allāhs herrskap. Men de satte upp medhjälpare i dyrkan när de dyrkade gudomer jämsides med Allāh, och detta är en sorts *shirk* som tar en person utanför islam.
 
 Detta beror på att *tawhīd* betyder, med anledning av vad som förstås från ordet, att man bekräftar enheten i något och Allāh den Välsignades, den Upphöjdes har rättigheter som enbart måste bekräftas för Honom. Rättigheterna kan delas in i tre kategorier:
 
@@ -45,10 +45,9 @@ I sura *al-Ikhlas* säger Allāh den Upphöjde:
 
 > "Säg: 'Ni som förnekar sanningen! Jag dyrkar inte vad ni dyrkar. Inte heller dyrkar ni vad jag dyrkar. Och jag kommer aldrig att dyrka vad ni dyrkar, och ni kommer heller aldrig att dyrka vad jag dyrkar. Ni har er tro - och jag har min tro!" [Koranen 109]
 
-Och när jag säger sura *al-Ikhlas* avser jag *ikhlas* i handlingar, för detta är suran om *ikhlas* när det gäller handlingar, även om den kallas för sura *al-Kafirūn*. Precis som en sura om *ikhlas* i handlingar som sura: "Säg: 'Han är Gud - En, Gud." [^2] är det en sura om *ikhlas* i kunskap och tro.
+Och när jag säger sura *al-Ikhlas* avser jag *ikhlas* i handlingar, för detta är suran om *ikhlas* när det gäller handlingar, även om den kallas för sura *al-Kafirūn*. Precis som en sura om *ikhlas* i handlingar som sura: "Säg: 'Han är Gud - En, Gud." [^1] är det en sura om *ikhlas* i kunskap och tro.
 
 Och Allāh är Beviljaren av framgång.
 
-[^1]: Du´ā
 
-[^2]: Koranen 112:1
+[^1]: Koranen 112:1

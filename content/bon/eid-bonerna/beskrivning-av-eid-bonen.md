@@ -16,9 +16,9 @@ description: >-
 
 **Fråga:** Vilket är det rätta sättet att be *'eid*-bönen på?
 
-**Svar:** Det korrekta sättet för att be de två *'eid*-bönerna är att imamen närvar och leder folket i en bön som är två bönecykler[^1] lång. I den första med en öppnings-*takbīr* och sedan *takbīr* sex gånger efter den. Sedan reciterar han sura *al-Fātihah* och sura Qaf i den första bönecykeln[^1].
+**Svar:** Det korrekta sättet för att be de två *'eid*-bönerna är att imamen närvar och leder folket i en bön som är två bönecykler lång. I den första med en öppnings-*takbīr* och sedan *takbīr* sex gånger efter den. Sedan reciterar han sura *al-Fātihah* och sura Qaf i den första bönecykeln.
 
-När han står upp i den andra bönecykeln[^1] gör han *takbīr* och när han har stått färdigt gör han *takbīr* fem gånger. Därefter reciterar han sura *al-Fātihah* och sura al-Qamar. Profeten – över honom vare Allāhs frid och välsignelser – brukade recitera dessa båda surorna i *'eid*-bönerna. [^2] Ibland reciterade han sura al-A'la i den första och sura al-Ghashiyah i den andra. [^3]
+När han står upp i den andra bönecykeln gör han *takbīr* och när han har stått färdigt gör han *takbīr* fem gånger. Därefter reciterar han sura *al-Fātihah* och sura al-Qamar. Profeten – över honom vare Allāhs frid och välsignelser – brukade recitera dessa båda surorna i *'eid*-bönerna. [^1] Ibland reciterade han sura al-A'la i den första och sura al-Ghashiyah i den andra. [^2]
 
 Du bör känna till att fredagsbönen och *‘eid*-bönerna delar två suror och skiljer sig i två suror. Surorna som de delar är surorna al-A’la och al-Ghashiyah. Surorna som de skiljer sig åt i och som finns i ‘eid-bönerna är surorna Qaf och al-Qamar, och i fredagsbönen surorna al-Jumu’ah och al-Munafiqun.
 
@@ -26,7 +26,6 @@ Imamen måste återuppliva denna *sunnah* genom att recitera dessa båda suror s
 
 Efter detta håller imamen en predikan. Det är bra om han avsätter en del av predikan för kvinnorna och beordrar dem att göra vad de bör göra och förbjuder dem att göra vad de bör undvika. Detta är vad profeten – över honom vare Allāhs frid och välsignelser – brukade göra.
 
-[^1]: Rakah.
 
-[^2]: *Muslim* 607
-[^3]: *Muslim* 598
+[^1]: *Muslim* 607
+[^2]: *Muslim* 598

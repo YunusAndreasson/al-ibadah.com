@@ -20,10 +20,9 @@ description: >-
 
 En annan fara med dessa tabletter är att de gör kvinnor konfunderade över deras perioder och det leder till att de ändras. Hon blir då orolig över bönen, intim samvaro med mannen och andra frågor. Därför säger jag inte att de är otillåtna men jag tycker inte om att kvinnor använder dem eftersom det kan vara skadligt för dem.
 
-Jag säger: Kvinnan måste acceptera vad Allāh har bestämt för henne. Under året då profeten – över honom vare Allāhs frid och välsignelser – gjorde sin sista pilgrimsfärd gick han in i de troendes moders, Aishas, rum då hon grät. Hon hade gått in i det rituellt helgade tillståndet för *'umrah*. Han sade då till henne: "*Hur är det fatt? Kanske har din månadsblödning börjat?*" Hon svarade: "*Ja*." Han sade då: "*Detta är något som Allāh har nedtecknat för Adams döttrar*." [^2]
+Jag säger: Kvinnan måste acceptera vad Allāh har bestämt för henne. Under året då profeten – över honom vare Allāhs frid och välsignelser – gjorde sin sista pilgrimsfärd gick han in i de troendes moders, Aishas, rum då hon grät. Hon hade gått in i det rituellt helgade tillståndet för *'umrah*. Han sade då till henne: "*Hur är det fatt? Kanske har din månadsblödning börjat?*" Hon svarade: "*Ja*." Han sade då: "*Detta är något som Allāh har nedtecknat för Adams döttrar*." [^1]
 
-Det är då kvinnans skyldighet att vara tålmodig och hoppas på en belöning från Allāh. Har hon inte möjlighet att fasta eller be på grund av månadsblödningen, då är dörren till åminnelse[^1] av Allāh öppen och all lovprisan och tacksamhet tillhör Honom. Hon kan nämna och glorifiera Honom den Härlige, den Upphöjde ge till välgörenhet och vara vänlig mot folk genom ord och handling. Detta är bland det bästa man kan göra.
+Det är då kvinnans skyldighet att vara tålmodig och hoppas på en belöning från Allāh. Har hon inte möjlighet att fasta eller be på grund av månadsblödningen, då är dörren till åminnelse av Allāh öppen och all lovprisan och tacksamhet tillhör Honom. Hon kan nämna och glorifiera Honom den Härlige, den Upphöjde ge till välgörenhet och vara vänlig mot folk genom ord och handling. Detta är bland det bästa man kan göra.
 
-[^1]: Dhikr
 
-[^2]: *al-Bukhārī* 294 och *Muslim* 1211
+[^1]: *al-Bukhārī* 294 och *Muslim* 1211

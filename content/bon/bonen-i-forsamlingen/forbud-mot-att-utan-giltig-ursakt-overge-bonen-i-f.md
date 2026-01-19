@@ -29,7 +29,6 @@ Därmed är det en skyldighet att besvara böneutropet och därför berättar *a
 
 > ”Den som hör kallet till bönen och inte besvarar det, det finns ingen bön för denne, utom om han har en ursäkt [sjukdom eller resa].” [*Ibn Mājah* 793, *ad-Daraqutni* 1:420 och *al-Hakim* 1:245]
 
-Hade det varit tillåtet att be hemma hade profeten – över honom vare Allāhs frid och välsignelser – tillåtet den blinde mannen vars hem låg långt från moskén [som det fanns dadelpalmer och en ravin mellan] och som inte hade någon att leda honom. De som inte var närvarande vid bönen hotades med att deras hem skulle tändas fyr på, utom om det fanns kvinnor eller barn i dem. Bönen i församlingen är anledningen till att moskén existerar, de är husen för åminnelse[^1] av Allāh och en religiös samlingsplats i de muslimska länderna. Allāh har tillåtit att de byggs för att åminnas Hans namn och här prisar män honom från morgon till kväll utan att några affärsverksamheter tar deras uppmärksamhet.
+Hade det varit tillåtet att be hemma hade profeten – över honom vare Allāhs frid och välsignelser – tillåtet den blinde mannen vars hem låg långt från moskén [som det fanns dadelpalmer och en ravin mellan] och som inte hade någon att leda honom. De som inte var närvarande vid bönen hotades med att deras hem skulle tändas fyr på, utom om det fanns kvinnor eller barn i dem. Bönen i församlingen är anledningen till att moskén existerar, de är husen för åminnelse av Allāh och en religiös samlingsplats i de muslimska länderna. Allāh har tillåtit att de byggs för att åminnas Hans namn och här prisar män honom från morgon till kväll utan att några affärsverksamheter tar deras uppmärksamhet.
 
-[^1]: Dhikr
 

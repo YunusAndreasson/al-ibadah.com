@@ -18,10 +18,9 @@ description: >-
 
 **Svar:** *Witr* är en understruken *sunnah* både under *ramadan* och vid andra tidpunkter. Detta till den grad att bland andra imam Ahmad sagt: ”*Den som överger witr[^1] är en dålig man och dennes vittnesmål bör inte accepteras*.”
 
-Det är då en betonad *sunnah* och det är inte passande att en muslim överger den, varken under *ramadan* eller under någon annan tidpunkt. *Witr* är att försegla nattbönen med en enskild bönecykel. Det är inte, vilket somliga tror, *qunūt*. Faktum är att *witr* är en sak och *qunūt* är något annat. *Witr* är vad som förseglar nattbönen med en enda bönecykel[^2] eller tre tillsammans.
+Det är då en betonad *sunnah* och det är inte passande att en muslim överger den, varken under *ramadan* eller under någon annan tidpunkt. *Witr* är att försegla nattbönen med en enskild bönecykel. Det är inte, vilket somliga tror, *qunūt*. Faktum är att *witr* är en sak och *qunūt* är något annat. *Witr* är vad som förseglar nattbönen med en enda bönecykel eller tre tillsammans.
 
 I vilket fall som helst är *witr* en betonad *sunnah* både under *ramadan* och under andra månader. Det är då inte passande att en muslim överger den.
 
 [^1]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
-[^2]: Rakah.
 

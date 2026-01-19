@@ -18,15 +18,14 @@ description: >-
 
 **Svar:** Jag skulle vilja klargöra att magi är en av de stora synderna. Det är otro om magikern söker hjälp från djävlarna och på detta sätt begår *shirk*. Det är också otro att lära ut magi. Man måste akta sig för det så att man inte drabbas av denna form av otro som tar en ur islam.
 
-Avlägsnandet av en trollformel från den som har drabbats av magi kan delas i två kategorier. Den första kategorin är genom att använda tillåten åkallan[^1] från Koranen. Detta är tillåtet och det finns ingen invändan mot detta. Något av det bästa som kan reciteras mot magi är surorna al-Falaq och an-Nas
+Avlägsnandet av en trollformel från den som har drabbats av magi kan delas i två kategorier. Den första kategorin är genom att använda tillåten åkallan från Koranen. Detta är tillåtet och det finns ingen invändan mot detta. Något av det bästa som kan reciteras mot magi är surorna al-Falaq och an-Nas
 
-Den andra kategorin är att bota magi med magi. I denna fråga finns det olika åsikter, både bland dåtida och nutida lärda. Somliga tillåter eftersom något ont avlägsnas genom det [den magi som har drabbat personen] och andra har förbjudit. Profeten – över honom vare Allāhs frid och välsignelser – tillfrågades om *an-nushrah*[^2] och han sade: ”*Det är djävulens hantverk*.” [^3]
+Den andra kategorin är att bota magi med magi. I denna fråga finns det olika åsikter, både bland dåtida och nutida lärda. Somliga tillåter eftersom något ont avlägsnas genom det [den magi som har drabbat personen] och andra har förbjudit. Profeten – över honom vare Allāhs frid och välsignelser – tillfrågades om *an-nushrah*[^1] och han sade: ”*Det är djävulens hantverk*.” [^2]
 
-Djävulens hantverk är sådant som består av magi. Det finns ingen invändan mot tillåten åkallan[^1].
+Djävulens hantverk är sådant som består av magi. Det finns ingen invändan mot tillåten åkallan.
 
 När det gäller tron på magi, då är den av två typer. Den första är att man tror att den har en inverkan, och det finns ingen invändan mot det, då det är ett faktum. Den andra typen är att tro på och acceptera den, vilket är förbjudet.
 
-[^1]: Du´ā
-[^2]: Behandling av magi, som ofta består av mot-magi.
+[^1]: Behandling av magi, som ofta består av mot-magi.
 
-[^3]: *Abū Dawūd* 3868
+[^2]: *Abū Dawūd* 3868

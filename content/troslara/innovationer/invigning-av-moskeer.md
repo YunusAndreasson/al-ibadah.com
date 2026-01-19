@@ -21,9 +21,9 @@ description: >-
 
 Om den gör det, vilket är då beviset? Och är *hadithen* i vilken en av följeslagarna bjöd in profeten – över honom vare Allāhs frid och välsignelser – för att be i en del av hans hem för att utse den som böneplats en tillåtelse för detta? Vänligen, utveckla.
 
-Moskéer kan invigas genom att man ber i dem och använder dem för att åminnas Allāh; genom att recitera Koranen, göra åminnelse[^1], studera islamiska vetenskaper och liknande saker som ger moskén dess förtjänta respekt. Allāh den Upphöjde har sagt:
+Moskéer kan invigas genom att man ber i dem och använder dem för att åminnas Allāh; genom att recitera Koranen, göra åminnelse, studera islamiska vetenskaper och liknande saker som ger moskén dess förtjänta respekt. Allāh den Upphöjde har sagt:
 
-> ”I de hus som Gud har befallt ska uppföras för att Hans namn där ska ljuda högt, prisas Han morgon och afton av dem, vilkas tankar varken handel eller köpenskap kan avvända från åkallan[^2] av Gud och förrättandet av bönen och plikten att hjälpa de behövande; [människor] som fruktar den Dag då [det kommer att kännas som om] hjärtan ville sprängas och då ögonen ska stirra [med tom blick]; de [som hoppas] att Gud ska belöna dem för det bästa som de har gjort och i Sin godhet ge dem mer [än de förtjänar] – Gud skänker Sitt goda i överflöd till den Han vill.” [Koranen 24:36 – 28]
+> ”I de hus som Gud har befallt ska uppföras för att Hans namn där ska ljuda högt, prisas Han morgon och afton av dem, vilkas tankar varken handel eller köpenskap kan avvända från åkallan av Gud och förrättandet av bönen och plikten att hjälpa de behövande; [människor] som fruktar den Dag då [det kommer att kännas som om] hjärtan ville sprängas och då ögonen ska stirra [med tom blick]; de [som hoppas] att Gud ska belöna dem för det bästa som de har gjort och i Sin godhet ge dem mer [än de förtjänar] – Gud skänker Sitt goda i överflöd till den Han vill.” [Koranen 24:36 – 28]
 
 På detta sätt använde profeten – över honom vare Allāhs frid och välsignelser – moskén. Han efterföljdes i detta av de korrekt vägledda kaliferna, resten av hans följeslagare – må Allāh vara nöjd med dem – och de vägledda imamerna efter honom. Må Allāh vara nöjd med dem och ge dem nåd. Det bästa sättet är att följa dem och endast göra vad de gjorde när de invigde moskéer, genom att använda dem för dyrkan och liknande islamiska ritualer.
 
@@ -37,6 +37,4 @@ Införda seder som denna bör undvikas och folk bör nöja sig med profetens –
 
 Må Allāh ge dem nåd och må Allāh upphöja omnämnandet av vår Profet Muḥammad, hans familj samt följeslagare – må Allāh vara nöjd med dem – och gör dem säkra från allt ont.
 
-[^1]: Dhikr
-[^2]: Du´ā
 

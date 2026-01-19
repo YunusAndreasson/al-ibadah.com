@@ -14,9 +14,8 @@ description: >-
   om böneutropet ropades ut när han bad wi...
 ---
 
-**Fråga:** En man bad *witr* och under hans bön ropade böneutroparen ut för gryningsbönen[^1]. Vilket är utlåtandet om detta? Bör han avsluta bönen?
+**Fråga:** En man bad *witr* och under hans bön ropade böneutroparen ut för gryningsbönen. Vilket är utlåtandet om detta? Bör han avsluta bönen?
 
 **Svar:** Ja, om böneutropet ropades ut när han bad *witr*, då bör han avsluta sin bön. Han har inte syndat med anledning av det.
 
-[^1]: Fajr
 

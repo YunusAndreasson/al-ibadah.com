@@ -14,15 +14,13 @@ description: >-
   bör överges. Kommer man till en vers i vilk...
 ---
 
-**Fråga:** Behöver jag nedfalla[^1] om jag reciterar en vers i vilken det finns ett nedfallande[^1]?
+**Fråga:** Behöver jag nedfalla om jag reciterar en vers i vilken det finns ett nedfallande[^1]?
 
-**Svar:** Sajdatut-tilawah[^2] är en bekräftad *sunnah* som inte bör överges. Kommer man till en vers i vilken det finns ett nedfallande, då bör man nedfalla. Detta gäller oavsett om man reciterar från Skriften, hjärtat eller i en bön. Detta är dock inte obligatoriskt och man syndar inte om man inte gör det. Anledningen är att de troendes ledare, ´Umar bin al-Khattab, reciterade en vers med nedfallan i sura an-Nahl från talastolen. Han steg då ned och nedföll[^1]. Nästa fredag reciterade han samma vers och då nedföll[^1] han inte. Efter detta sade han: ”Allāh har inte gjort nedfallandet till en skyldighet för oss, utom om vi vill.” Detta inträffade då följeslagarna var närvarande.
+**Svar:** Sajdatut-tilawah[^2] är en bekräftad *sunnah* som inte bör överges. Kommer man till en vers i vilken det finns ett nedfallande, då bör man nedfalla. Detta gäller oavsett om man reciterar från Skriften, hjärtat eller i en bön. Detta är dock inte obligatoriskt och man syndar inte om man inte gör det. Anledningen är att de troendes ledare, ´Umar bin al-Khattab, reciterade en vers med nedfallan i sura an-Nahl från talastolen. Han steg då ned och nedföll. Nästa fredag reciterade han samma vers och då nedföll han inte. Efter detta sade han: ”Allāh har inte gjort nedfallandet till en skyldighet för oss, utom om vi vill.” Detta inträffade då följeslagarna var närvarande.
 
-Det har även rapporterats att Zaid bin Thabit reciterat en vers med nedfallan i sura an-Najm för profeten – över honom vare Allāhs frid och välsignelser – och han nedföll[^1] inte. Hade det varit obligatoriskt hade han beordrats att göra det. Därför är det en föredragen *sunnah* som är bäst att inte bortse från, även om det sker när det är förbjudet att be, som efter gryningsbönen[^3] eller eftermiddagsbönen[^4] exempelvis. Här finns ju en anledning till detta nedfallande. Detsamma gäller alla böner som det finns en anledning till [som *sajdatut-tilawah*[^2], hälsningsbönen till moskén[^5] och liknande]. De ska göras även om det sker när det vanligtvis är förbjudet.
+Det har även rapporterats att Zaid bin Thabit reciterat en vers med nedfallan i sura an-Najm för profeten – över honom vare Allāhs frid och välsignelser – och han nedföll inte. Hade det varit obligatoriskt hade han beordrats att göra det. Därför är det en föredragen *sunnah* som är bäst att inte bortse från, även om det sker när det är förbjudet att be, som efter gryningsbönen eller eftermiddagsbönen exempelvis. Här finns ju en anledning till detta nedfallande. Detsamma gäller alla böner som det finns en anledning till [som *sajdatut-tilawah*[^2], hälsningsbönen till moskén[^3] och liknande]. De ska göras även om det sker när det vanligtvis är förbjudet.
 
 [^1]: sujūd, nedfallandet när pannan läggs mot marken.
 [^2]: När vissa verser i Koranen reciteras kan man nedfalla.
-[^3]: Fajr
-[^4]: Asr
-[^5]: Tahiyyatul-Msjid.
+[^3]: Tahiyyatul-Msjid.
 

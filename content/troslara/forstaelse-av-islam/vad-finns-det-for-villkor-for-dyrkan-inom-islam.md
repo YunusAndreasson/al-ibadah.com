@@ -20,7 +20,7 @@ description: >-
 
 Det finns inga historiska bevis för att profetens – över honom vare Allāhs frid och välsignelser – himmelsfärd ägde rum under den 27:e natten i *rajab*. De böcker med *ahādīth* som vi har att tillgå innehåller inte en enda stavelse som antyder att detta skulle ha ägt rum denna natt. Det är känt att denna form av information inte kan accepteras utan en godkänd berättarkedja.
 
-Även om det skulle bevisas, har vi då rätt att introducera någon festlighet den dagen? Nej, inte alls. Profeten – över honom vare Allāhs frid och välsignelser – kom till Medina och såg att *ansār* hade två dagar för förströelse sade han: ”*Allāh har ersatt dessa för er med något som är bättre*”. Han nämnde då *‘eid al-fitr* och *‘eid al-adhā*. Detta antyder att profeten – över honom vare Allāhs frid och välsignelser – ogillade alla former av innoverade högtidligheter, utom de islamiska som det finns tre utav: de två årliga *‘eid* [^4] samt den veckovisa fredagen. Även om det skulle bevisas att profeten – över honom vare Allāhs frid och välsignelser – togs upp till himlen den 27:e *rajab* – vilket är omöjligt att bevisa – skulle vi ändå inte ha kunnat innovera något vid detta tillfälle utan tillstånd ifrån Laggivaren.
+Även om det skulle bevisas, har vi då rätt att introducera någon festlighet den dagen? Nej, inte alls. Profeten – över honom vare Allāhs frid och välsignelser – kom till Medina och såg att *ansār* hade två dagar för förströelse sade han: ”*Allāh har ersatt dessa för er med något som är bättre*”. Han nämnde då *‘eid al-fitr* och *‘eid al-adhā*. Detta antyder att profeten – över honom vare Allāhs frid och välsignelser – ogillade alla former av innoverade högtidligheter, utom de islamiska som det finns tre utav: de två årliga *‘eid* [^1] samt den veckovisa fredagen. Även om det skulle bevisas att profeten – över honom vare Allāhs frid och välsignelser – togs upp till himlen den 27:e *rajab* – vilket är omöjligt att bevisa – skulle vi ändå inte ha kunnat innovera något vid detta tillfälle utan tillstånd ifrån Laggivaren.
 
 Som jag har sagt till dig är innovationer något mycket allvarligt som har en dålig inverkan på hjärtat – även om man känner att det mjuknar just vid det tillfället. Sedan kommer motsatsen att uppnås; om hjärtat gläder sig åt falskhet, kommer den glädjen inte att vara, utan den kommer i stället att efterföljas av smärta och ånger. innovationer är något allvarligt då den antyder en kritik mot profeten – över honom vare Allāhs frid och välsignelser – i den formen att han inte skulle ha fört med sig en komplett islamisk lag – trots att Allāh har sagt:
 
@@ -32,13 +32,13 @@ Därför säger vi att det är en innovation att fira profetens – över honom 
 
 För det andra: dyrkan måste vara enligt den islamiska lagen i dess typ eller i karaktär. Om någon exempelvis offrar en häst skulle det stå i motsats till den islamiska lagen. Detta beror på att ett offerdjur måste komma ifrån familjen *an'ām*, nämligen: kameler, kor eller får.
 
-För det tredje: dyrkan måste vara in enlighet med den islamiska lagen i dess omfattning. Om någon säger att han ber sex bönecykler[^1] under middagsbönen[^2], skulle detta då vara enligt den islamiska lagen? Inte alls då antalet är felaktigt. Om någon skulle säga *Subhān Allāh, al-Hamdu Lillāh* och *Allāhu akbar* 35 gånger efter varje obligatorisk bön, skulle detta då vara korrekt? Svaret är att om dennes mål var att dyrka Allāh genom att säga dessa ord detta antal gånger för att denne tror att det är korrekt, då har denne misstagit sig. Om denne avsiktligen adderade något till vad Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har föreskrivit, men samtidigt trodde att det korrekta antalet enligt islam är 33, då går det extra antalet bra. Denne anser ju inte att det högre numret är det rätta.
+För det tredje: dyrkan måste vara in enlighet med den islamiska lagen i dess omfattning. Om någon säger att han ber sex bönecykler under middagsbönen, skulle detta då vara enligt den islamiska lagen? Inte alls då antalet är felaktigt. Om någon skulle säga *Subhān Allāh, al-Hamdu Lillāh* och *Allāhu akbar* 35 gånger efter varje obligatorisk bön, skulle detta då vara korrekt? Svaret är att om dennes mål var att dyrka Allāh genom att säga dessa ord detta antal gånger för att denne tror att det är korrekt, då har denne misstagit sig. Om denne avsiktligen adderade något till vad Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har föreskrivit, men samtidigt trodde att det korrekta antalet enligt islam är 33, då går det extra antalet bra. Denne anser ju inte att det högre numret är det rätta.
 
 För det fjärde: dyrkan måste vara enligt den islamiska lagen på det sätt som den utförs.
 
-Om någon utför en handling på ett sätt som är acceptabelt i förhållande till mängd, typ och anledning men motsäger sig den islamiska lagen i hur handlingen ska utföras – då är den inte giltig. Om någon exempelvis släpper sig och tvagar sig på nytt genom att tvätta fötterna, stryka över sitt huvud, tvätta sina händer och sedan sitt ansikte – är denna tvagning[^3] då giltig? Inte alls, för den har inte utförts enligt den islamiska lagen.
+Om någon utför en handling på ett sätt som är acceptabelt i förhållande till mängd, typ och anledning men motsäger sig den islamiska lagen i hur handlingen ska utföras – då är den inte giltig. Om någon exempelvis släpper sig och tvagar sig på nytt genom att tvätta fötterna, stryka över sitt huvud, tvätta sina händer och sedan sitt ansikte – är denna tvagning då giltig? Inte alls, för den har inte utförts enligt den islamiska lagen.
 
-För dem femte: dyrkan måste vara enligt den islamiska lagen med avseende på tidpunkten. Ett exempel är om någon fastar *ramadan* under sha’ban eller *shawwal*, eller ber middagsbönen[^2] före solen har passerat himlens mitt eller när ett föremåls skugga har blivit lika långt som dess längd […]
+För dem femte: dyrkan måste vara enligt den islamiska lagen med avseende på tidpunkten. Ett exempel är om någon fastar *ramadan* under sha’ban eller *shawwal*, eller ber middagsbönen före solen har passerat himlens mitt eller när ett föremåls skugga har blivit lika långt som dess längd […]
 
 Därför säger vi att om någon avsiktligen väntar med att be tills tiden för bönen har gått ut – utan giltig ursäkt – kommer dennes bön inte att accepteras, även om denne ber den tusen gånger. Därför följer vi en viktig princip som säger att all dyrkan måste ske vid ett specifikt tillfälle, och om handlingen inte utförs inom den givna tidsgränsen, då kommer den inte att accepteras utan snarare avvisas.
 
@@ -57,8 +57,5 @@ Med dessa sex anledningar som grund är en dyrkan inte giltig om den inte fören
 5. Tidpunkt
 6. Plats
 
-[^1]: Rakah.
-[^2]: Dhuhr
-[^3]: Wudū
 
-[^4]: *‘eid al-fitr* och *‘eid al-adhā*
+[^1]: *‘eid al-fitr* och *‘eid al-adhā*

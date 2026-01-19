@@ -1,16 +1,18 @@
 ---
 title: Veckovisa studieresor och resenärsstatus
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
- 1. Libanon: Makbtaba Dar us-Salam. 545 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+source: >-
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Libanon: Makbtaba Dar us-Salam. 545 s. ISBN 9960-892-66-2 Muhammed Knut
+  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 995
-description: 'Fråga: En man reser till Riyadh under en fredag för att studera och
- han återvänder under måndagseftermiddagen. Räknas han som en resenär? Svar: Det
- råder inga tvivel om att han är en resenär d...'
+description: >-
+  Fråga: En man reser till Riyadh under en fredag för att studera och han
+  återvänder under måndagseftermiddagen. Räknas han som en resenär? Svar: Det
+  råder inga tvivel om att han är en resenär d...
 ---
 
 **Fråga:** En man reser till Riyadh under en fredag för att studera och han återvänder under måndagseftermiddagen. Räknas han som en resenär?
@@ -23,7 +25,6 @@ Enligt Allāhs den Upphöjdes ord är fredagsbönen en skyldighet för alla som 
 
 > ”Troende! När böneutroparen kallar till fredagsbönen, lämna då handel och köpenskap och skynda er dit där Guds namn åkallas.” [Koranen 62:9]
 
-Men om du missade bönen där eller om du befann dig på en plats långt från moskén, då får du be de böner som är fyra bönecykler[^1] som två.
+Men om du missade bönen där eller om du befann dig på en plats långt från moskén, då får du be de böner som är fyra bönecykler som två.
 
-[^1]: Rakah.
 

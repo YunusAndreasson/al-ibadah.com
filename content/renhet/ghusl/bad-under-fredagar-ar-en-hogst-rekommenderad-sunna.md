@@ -22,7 +22,7 @@ I en annan återberättelse i *Muslim*: ”*Den som tvagade[^2] sig väl, gick t
 
 Det finns många *ahādīth* om detta.
 
-Hans ord: ”… *obligatoriskt för varje vuxen man*” betyder enligt en majoritet av de lärde att det är rekommenderat, som araberna säger: ”*‘iddah* *är en skuld och din rättighet är en skyldighet för mig*.” Vad som bevisar detta är att profeten – över honom vare Allāhs frid och välsignelser – enligt vissa *ahādīth* själv nöjde sig med tvagning[^2]. Detsamma gäller parfym, *miswāk*, att bära sina bästa kläder och att gå tidigt till fredagsbönen. Detta är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och inget av det är obligatoriskt.
+Hans ord: ”… *obligatoriskt för varje vuxen man*” betyder enligt en majoritet av de lärde att det är rekommenderat, som araberna säger: ”*‘iddah* *är en skuld och din rättighet är en skyldighet för mig*.” Vad som bevisar detta är att profeten – över honom vare Allāhs frid och välsignelser – enligt vissa *ahādīth* själv nöjde sig med tvagning. Detsamma gäller parfym, *miswāk*, att bära sina bästa kläder och att gå tidigt till fredagsbönen. Detta är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och inget av det är obligatoriskt.
 
 [^1]: Kan liknas vid en tandborste. Gjord av Arak-trädets rötter.
 [^2]: Wudū

@@ -21,10 +21,8 @@ description: >-
 
 > ”Din Herre vet att du [Muḥammad] vakar [i bön] nästan två tredjedelar av natten eller halva natten eller en tredjedel av den, tillsammans med några av dina följeslagare.” [Koranen 73:20]
 
-Detta gäller inte enbart under *ramadan*. Tiden är mellan nattbönen[^1] och gryningsbönen[^2]. Bönen under den sista delen av natten är dock bättre men om han ber under mitten av natten kommer man [också] att belönas. Det är bättre om den bes när man har sovit lite eller under den sista hälften av natten.
+Detta gäller inte enbart under *ramadan*. Tiden är mellan nattbönen och gryningsbönen. Bönen under den sista delen av natten är dock bättre men om han ber under mitten av natten kommer man [också] att belönas. Det är bättre om den bes när man har sovit lite eller under den sista hälften av natten.
 
 Och Allāh vet bäst.
 
-[^1]: Isha
-[^2]: Fajr
 

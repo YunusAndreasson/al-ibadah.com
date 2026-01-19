@@ -16,11 +16,8 @@ description: >-
   sura *al-Fātihah* när denne tar igen vad denne har missat...
 ---
 
-**Fråga:** Om någon missade den första eller den andra bönecykeln[^1] med församlingen, bör den som tar igen denna bön då recitera en annan sura med sura *al-Fātihah* när denne tar igen vad denne har missat eller bör denne nöja sig själv med att recitera sura *al-Fātihah*?
+**Fråga:** Om någon missade den första eller den andra bönecykeln med församlingen, bör den som tar igen denna bön då recitera en annan sura med sura *al-Fātihah* när denne tar igen vad denne har missat eller bör denne nöja sig själv med att recitera sura *al-Fātihah*?
 
-**Svar:** Den korrekta åsikten är att vad den som leds i bön tar igen efter imamens *taslīm* är slutet på dennes bön. Därmed bör denne inte recitera något annat än sura *al-Fātihah* i den om vad denne missade var två bönecykler[^1], en bönecykel[^1] från en bön med fyra bönecykler[^1] eller en bönecykel[^1] från kvällsbönen[^2]. Men när det gäller gryningsbönen[^3] reciterar denne sura *al-Fātihah* och en annan sura, därför att sura *al-Fātihah* och en annan sura reciteras i båda bönecykler[^1] na.
+**Svar:** Den korrekta åsikten är att vad den som leds i bön tar igen efter imamens *taslīm* är slutet på dennes bön. Därmed bör denne inte recitera något annat än sura *al-Fātihah* i den om vad denne missade var två bönecykler, en bönecykel från en bön med fyra bönecykler eller en bönecykel från kvällsbönen. Men när det gäller gryningsbönen reciterar denne sura *al-Fātihah* och en annan sura, därför att sura *al-Fātihah* och en annan sura reciteras i båda bönecykler na.
 
-[^1]: Rakah.
-[^2]: Maghrib
-[^3]: Fajr
 

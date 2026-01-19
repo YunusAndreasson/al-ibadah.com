@@ -20,13 +20,12 @@ description: >-
 
 Det är dock bättre om *tawāf[^1] ul-ifādhah* sker under *'eid*-dagen eller under *at-tashrīq*. Man får dock fortfarande skjuta upp till efter detta.
 
-Det är tillåtet att göra ett avbrott mellan varven i *tawāf* om det enbart gäller en kort stund. Det kan vara för att förnya sin tvagning[^2], dricka lite vatten, be den obligatoriska bönen eller begravningsbönen och liknande saker.
+Det är tillåtet att göra ett avbrott mellan varven i *tawāf* om det enbart gäller en kort stund. Det kan vara för att förnya sin tvagning, dricka lite vatten, be den obligatoriska bönen eller begravningsbönen och liknande saker.
 
-När det gäller långa uppehåll, som en halvtimme eller mer, då är den korrekta åsikten att de tidigare varven blir ogiltiga och att man måste göra om *tawāf* från början efter detta avbrott. Detsamma sägs om *sa’ī*[^3] mellan as-Safa och al-Marwah.
+När det gäller långa uppehåll, som en halvtimme eller mer, då är den korrekta åsikten att de tidigare varven blir ogiltiga och att man måste göra om *tawāf* från början efter detta avbrott. Detsamma sägs om *sa’ī*[^2] mellan as-Safa och al-Marwah.
 
 Och Allāh vet bäst.
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
-[^2]: Wudū
-[^3]: Vandringen mellan as-Safa och al-Marwa.
+[^2]: Vandringen mellan as-Safa och al-Marwa.
 

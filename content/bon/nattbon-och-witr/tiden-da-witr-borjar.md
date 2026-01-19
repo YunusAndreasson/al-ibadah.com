@@ -16,8 +16,6 @@ description: >-
 
 **Fråga:** När börjar tiden för *witr*?
 
-**Svar:** Tiden för *witr* är mellan nattbönen[^1] och gryningsbönen[^2]. För dem som har möjlighet att gå upp och be är den bästa tiden den senare delen av natten. De som är rädda för att de kommer att missa bönen på grund av sömn bör be den innan de går och lägger sig.
+**Svar:** Tiden för *witr* är mellan nattbönen och gryningsbönen. För dem som har möjlighet att gå upp och be är den bästa tiden den senare delen av natten. De som är rädda för att de kommer att missa bönen på grund av sömn bör be den innan de går och lägger sig.
 
-[^1]: Isha
-[^2]: Fajr
 

@@ -24,9 +24,8 @@ Vad jag har nämnt är den åsikt som *Shaykhul-Islām* Ibn Taymiyyah – må Al
 
 Men om den fastande tar dropparna i näsan och de når magen, då bryts fastan om detta gjordes avsiktligen.
 
-Profeten – över honom vare Allāhs frid och välsignelser – sade: "*Överdriv indraget av vatten i näsan [under tvagningen[^2]] utom när ni är fastande*." [^3]
+Profeten – över honom vare Allāhs frid och välsignelser – sade: "*Överdriv indraget av vatten i näsan [under tvagningen] utom när ni är fastande*." [^2]
 
 [^1]: Svart pulver av antimon som appliceras runt ögonen.
-[^2]: Wudū
 
-[^3]: *Abū Dawūd* 142, *at-Tirmithi* 38, *an-Nasā'i* 87 och *Ibn Mājah* 448
+[^2]: *Abū Dawūd* 142, *at-Tirmithi* 38, *an-Nasā'i* 87 och *Ibn Mājah* 448

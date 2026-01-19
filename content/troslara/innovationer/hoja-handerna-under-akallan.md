@@ -15,7 +15,7 @@ description: >-
   sunnah-bönen och under qunūt i witr . Samtidigt finn...
 ---
 
-**Fråga:** Jag ser vissa människor höja deras händer när imamen åkallar[^1] under fredagsbönen. Jag ser andra höja deras händer när de åkallar[^1] efter *sunnah*-bönen och under *qunūt* i *witr*. Samtidigt finns det även dem som inte gör det alls. Vänligen, berätta för mig om det är *sunnah* att göra på detta vis. *Sunnah* är att höja händerna då du åkallar[^1] och att du gör så talar för att din åkallan[^1] bör blir besvarad. Profeten har sagt:
+**Fråga:** Jag ser vissa människor höja deras händer när imamen åkallar under fredagsbönen. Jag ser andra höja deras händer när de åkallar efter *sunnah*-bönen och under *qunūt* i *witr*. Samtidigt finns det även dem som inte gör det alls. Vänligen, berätta för mig om det är *sunnah* att göra på detta vis. *Sunnah* är att höja händerna då du åkallar och att du gör så talar för att din åkallan bör blir besvarad. Profeten har sagt:
 
 > ”Sannerligen, er Herre är *hayiy* och Generös: Han är blyg inför att för Sin tjänare, när han höjer händerna mot Honom, återlämna dem tomma.” [*Abū Dawūd* 1488, *at-Tirmithi* 3556, *Ibn Majah* 3866]
 
@@ -29,11 +29,10 @@ Allāhs sändebud informerade oss om den okammade och smutsiga resenären, som h
 
 Det finns många autentiska återberättelser i vilka profeten – över honom vare Guds frid och välsignelser – höjer sina händer. Under predikan för regnbönen, under *tashrīq*-dagarna vid *Jamarāt* under hans sista vallfärd och vid många fler tillfällen.
 
-Icke desto mindre bör vi inte höja våra händer vid dessa tillfällen där vi inte har några belägg för att Allāhs sändebud höjde sina händer. Därför bör vi följa profeten och inte höja våra händer under fredagsbönen, *'eid*, åkallan[^1] mellan de båda nedfallanden[^1] i bönen, åkallan[^1] under slutet av bönen och i åkallan[^1] efter de fem obligatoriska bönerna.
+Icke desto mindre bör vi inte höja våra händer vid dessa tillfällen där vi inte har några belägg för att Allāhs sändebud höjde sina händer. Därför bör vi följa profeten och inte höja våra händer under fredagsbönen, *'eid*, åkallan mellan de båda nedfallanden i bönen, åkallan under slutet av bönen och i åkallan efter de fem obligatoriska bönerna.
 
 Anledningen till detta är att vi inte har några rapporter från Allāhs sändebud om att han höjde händerna under dessa tillfällen. Vi följer honom där han höjde sina händer och vi följer honom där han inte gjorde det.
 
 Allāh den Allsmäktige säger: ”*I Guds Sändebud har ni ett gott föredöme*.” [33:21]
 
-[^1]: Du´ā
 

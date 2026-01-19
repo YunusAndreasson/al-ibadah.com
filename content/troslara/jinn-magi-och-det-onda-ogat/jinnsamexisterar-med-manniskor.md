@@ -14,10 +14,9 @@ description: >-
   Svar: Ja, jinn blandar sig med människo...
 ---
 
-**Fråga:** Hör *jinn* när vi skriver eller talar om dem? Finns det någon åkallan[^1] eller några ord för att söka skydd som kan sägas när man har gjort detta?
+**Fråga:** Hör *jinn* när vi skriver eller talar om dem? Finns det någon åkallan eller några ord för att söka skydd som kan sägas när man har gjort detta?
 
-**Svar:** Ja, *jinn* blandar sig med människor och hör deras ord och de kan ta över våra kroppar när de övermannar oss, något som bevisats genom ett flertal händelser. Men det finns åkallan[^1] och verser som kan reciteras som ett skydd för oss mot deras ondska. Dessa är *al-Mu'awwithatain*, *al-Kursi*[^2]-versen och liknande.
+**Svar:** Ja, *jinn* blandar sig med människor och hör deras ord och de kan ta över våra kroppar när de övermannar oss, något som bevisats genom ett flertal händelser. Men det finns åkallan och verser som kan reciteras som ett skydd för oss mot deras ondska. Dessa är *al-Mu'awwithatain*, *al-Kursi*[^1]-versen och liknande.
 
-[^1]: Du´ā
-[^2]: Allāhs fotpall.
+[^1]: Allāhs fotpall.
 

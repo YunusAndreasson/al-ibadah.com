@@ -14,10 +14,9 @@ description: >-
   in i moskén inte sätter sig ned förr...
 ---
 
-**Fråga:** Om jag gick in i moskén en fredag när imamen predikade, kan jag då be två bönecykler[^1]?
+**Fråga:** Om jag gick in i moskén en fredag när imamen predikade, kan jag då be två bönecykler?
 
-**Svar:** Det är *sunnah* och mycket rekommenderat att den som går in i moskén inte sätter sig ned förrän han har bett två bönecykler[^1] som hälsningsbön till moskén[^2]. Detta gäller även om imamen predikar.
+**Svar:** Det är *sunnah* och mycket rekommenderat att den som går in i moskén inte sätter sig ned förrän han har bett två bönecykler som hälsningsbön till moskén[^1]. Detta gäller även om imamen predikar.
 
-[^1]: Rakah.
-[^2]: Tahiyyatul-Msjid.
+[^1]: Tahiyyatul-Msjid.
 

@@ -14,7 +14,7 @@ description: >-
   från bugningen. Behöver han ta igen denna bö...
 ---
 
-**Fråga:** En troende kom för sent till bönen och fann att imamen bugade. Han gjorde då *takbīr* och bugade tillsammans med honom innan imamen rest sig upp från bugningen. Behöver han ta igen denna bönecykel[^1] när imamen har gjort *taslīm*?
+**Fråga:** En troende kom för sent till bönen och fann att imamen bugade. Han gjorde då *takbīr* och bugade tillsammans med honom innan imamen rest sig upp från bugningen. Behöver han ta igen denna bönecykel när imamen har gjort *taslīm*?
 
 **Svar:** När tjänaren gör den första *takbīr* när han står upp, för att sedan buga när imamen bugar, då får han denna bönecykel. Detta enligt en *hadīth* från Abū Bakrah. Han kom till profeten – över honom vare Allāhs frid och välsignelser – medan han bugade och han bugade tillsammans med honom innan han nådde raden. Senare sade profeten – över honom vare Allāhs frid och välsignelser – till honom: ”*Må Allāh göra dig mer aktsam men gör inte om det*.” [^2]
 

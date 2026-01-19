@@ -16,13 +16,12 @@ description: >-
 
 **Fråga:** Får den som redan har bett en obligatorisk bön leda församlingen i samma bön?
 
-**Svar:** De lärde har olika åsikter om det är tillåtet. För oss verkar det dock vara troligast att den som ber den obligatoriska bönen får leda de som redan har bett den och för någon som redan har bett den att leda de som inte har bett den. Anledningen är att Mu'ath brukade be med profeten – över honom vare Allāhs frid och välsignelser – för att sedan återvända till sitt folk och be samma bön med dem. [^3]
+**Svar:** De lärde har olika åsikter om det är tillåtet. För oss verkar det dock vara troligast att den som ber den obligatoriska bönen får leda de som redan har bett den och för någon som redan har bett den att leda de som inte har bett den. Anledningen är att Mu'ath brukade be med profeten – över honom vare Allāhs frid och välsignelser – för att sedan återvända till sitt folk och be samma bön med dem. [^2]
 
-*Abū Dawūd* har i sin *Sunan* återgivit att profeten – över honom vare Allāhs frid och välsignelser – ledde ett antal följeslagare – må Allāh vara nöjd med dem – i rädslebönen[^1] som bestod av två bönecykler[^2]. Sedan bad han två bönecykler[^2] med en annan grupp och därefter gjorde han *taslīm*. Detta är en av imam Ahmads båda åsikter och detta ansåg även 'Ata', al-Awza'i, ash-Shafi'i och Ibn al-Munthir.
+*Abū Dawūd* har i sin *Sunan* återgivit att profeten – över honom vare Allāhs frid och välsignelser – ledde ett antal följeslagare – må Allāh vara nöjd med dem – i rädslebönen[^1] som bestod av två bönecykler. Sedan bad han två bönecykler med en annan grupp och därefter gjorde han *taslīm*. Detta är en av imam Ahmads båda åsikter och detta ansåg även 'Ata', al-Awza'i, ash-Shafi'i och Ibn al-Munthir.
 
 Och Allāh vet bäst.
 
 [^1]: salatul-khawf
-[^2]: Rakah.
 
-[^3]: *al-Bukhārī* 700
+[^2]: *al-Bukhārī* 700

@@ -20,9 +20,8 @@ description: >-
 
 Man kastar stenarna en åt gången och man säger "*Allāhu akbar*" för var och en av dem. Under *at-ayyām at-tashrīq* kastar man stenarna på pelarna när solen har passerat dess högsta punkt [efter middag]. Man stenar den första pelaren, som ligger närmst Masjidul-Khayf, med sju stenar och man säger "*Allāhu akbar*" för var och en av stenarna. Sedan stenar han den mittersta pelaren med sju stenar och sedan den sista pelaren med sju stenar. Detta görs under den elfte, tolfte och trettonde dagen, för den som inte har bråttom att ge sig av.
 
-Det är *sunnah* att stå efter den första och den andra pelaren. När man har kastat sten på den första pelaren, då står man kvar i riktning mot *qiblah* med pelaren vid sin vänstra sida samtidigt som man länge åkallar[^1] sin Herre. Efter att ha kastat sten på den andra pelaren står man med pelaren på sin högra sida samtidigt som han riktar sig mot *qiblah* och under en lång stund åkallar[^1] sin Herre. Detta görs den elfte och tolfte dagen samt även den trettonde för den som inte har bråttom att ge sig av.
+Det är *sunnah* att stå efter den första och den andra pelaren. När man har kastat sten på den första pelaren, då står man kvar i riktning mot *qiblah* med pelaren vid sin vänstra sida samtidigt som man länge åkallar sin Herre. Efter att ha kastat sten på den andra pelaren står man med pelaren på sin högra sida samtidigt som han riktar sig mot *qiblah* och under en lång stund åkallar sin Herre. Detta görs den elfte och tolfte dagen samt även den trettonde för den som inte har bråttom att ge sig av.
 
 Den sista pelaren, som ligger närmst Mecka, kastar man sten på men man står inte kvar vid den. Anledningen är att sändebudet kastade sten på den utan att stå kvar vid den.
 
-[^1]: Du´ā
 

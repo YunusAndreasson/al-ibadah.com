@@ -18,11 +18,10 @@ description: >-
 
 **Svar:** Det råder inga tvivel om att profetens – över honom vare Allāhs frid och välsignelser – *sunnah* är att ge *zakātul-fitr* före *'eid*-bönen. Den ädle profeten – över honom vare Allāhs frid och välsignelser – har beordrat detta. Men du har inte syndat genom var du har gjort. Att ge den efter bönen är tillräckligt, *alhamdulillah*, även om det har nämnts i en *hadīth* att det [då] är en välgörenhet [*sadaqah*]. Detta hindrar dock inte att den är acceptabel och att den hamnar på rätt plats.
 
-Vi hoppas på att den accepteras och att den kommer att anses vara en fullständig allmosa då du inte sköt upp den avsiktligen. Du sköt enbart upp den på grund av glömska. Utan tvekan har Allāh i Sin skrift sagt: "*Gud lägger inte på någon en tyngre börda än han kan bära*." [^2] Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Allāh den Allsmäktige säger: 'Sannerligen har Jag gjort så [accepterat er bön]*.'" [^3]
+Vi hoppas på att den accepteras och att den kommer att anses vara en fullständig allmosa då du inte sköt upp den avsiktligen. Du sköt enbart upp den på grund av glömska. Utan tvekan har Allāh i Sin skrift sagt: "*Gud lägger inte på någon en tyngre börda än han kan bära*." [^1] Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Allāh den Allsmäktige säger: 'Sannerligen har Jag gjort så [accepterat er bön]*.'" [^2]
 
-Därmed har Han besvarat denna åkallan[^1] från Sina troende tjänare och inte straffat dem för glömska.
+Därmed har Han besvarat denna åkallan från Sina troende tjänare och inte straffat dem för glömska.
 
-[^1]: Du´ā
 
-[^2]: Koranen 2:286
-[^3]: *Muslim* 126
+[^1]: Koranen 2:286
+[^2]: *Muslim* 126
