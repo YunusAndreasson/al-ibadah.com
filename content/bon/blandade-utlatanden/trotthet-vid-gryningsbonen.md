@@ -15,10 +15,9 @@ description: >-
   4:43] Gäller denna vers de bröder som k...
 ---
 
-**Fråga:** Allāh den Upphöjde säger: ”*Troende! Gå inte till bön om ni befinner er i omtöcknat tillstånd, [utan vänta] till dess ni vet vad ni säger*.” [^2] Gäller denna vers de bröder som kommer till gryningsbönen[^1] när de fortfarande är sömndruckna? Vilket råd kan du ge till dessa bröder?
+**Fråga:** Allāh den Upphöjde säger: ”*Troende! Gå inte till bön om ni befinner er i omtöcknat tillstånd, [utan vänta] till dess ni vet vad ni säger*.” [^1] Gäller denna vers de bröder som kommer till gryningsbönen när de fortfarande är sömndruckna? Vilket råd kan du ge till dessa bröder?
 
-**Svar:** Jag råder bröderna som kommer till gryningsbönen[^1] när de är mycket sömndruckna att gå till sängs tidigare. Går de och lägger sig tidigare kommer de att vara så trötta att det inte vet vad de säger. Detta är lösningen på problemet.
+**Svar:** Jag råder bröderna som kommer till gryningsbönen när de är mycket sömndruckna att gå till sängs tidigare. Går de och lägger sig tidigare kommer de att vara så trötta att de inte vet vad de säger. Detta är lösningen på problemet.
 
-[^1]: Fajr
 
-[^2]: Koranen 4:43
+[^1]: Koranen 4:43

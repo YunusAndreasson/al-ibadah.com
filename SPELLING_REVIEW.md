@@ -9,8 +9,8 @@
 | fasta    | 205   | 205      | 0         |
 | vallfard | 284   | 284      | 0         |
 | troslara | 320   | 320      | 0         |
-| bon      | 464   | 0        | 464       |
-| **Total**| **1548** | **1084** | **464** |
+| bon      | 464   | 464      | 0         |
+| **Total**| **1548** | **1548** | **0** |
 
 ---
 
@@ -129,6 +129,38 @@
   - forstaelse-av-islam (35 files)
   - blandade-utlatanden (46 files)
   - innovationer (47 files)
+
+### 2026-01-19 - Session 6
+- Category: bon
+- Files reviewed: 464
+- Corrections: 3 errors
+  - `blandade-utlatanden/trotthet-vid-gryningsbonen.md`: "att det inte vet" → "att de inte vet" (pronoun agreement)
+  - `nattbon-och-witr/recitation-av-sura-al-ikhlas-i-witr-ar-inte-obliga.md`: "för att ska accepteras" → "för att *witr* ska accepteras" (missing word)
+  - `overger-eller-missar-bonen/skjuta-upp-gryningsbonenbonen-till-tva-timmar-inna.md`: "innanmiddagsbönen" → "innan middagsbönen" (missing space)
+- Subcategories completed:
+  - root files (8 files)
+  - sjuklingens-bon (2 files)
+  - sutrah (4 files)
+  - koranrecitation (5 files)
+  - tider-da-det-ar-forbjudet-att-be (5 files)
+  - frivilliga-och-speciella-boner (8 files)
+  - nedfallan-vid-recitation (8 files)
+  - iqamah (10 files)
+  - blandade-utlatanden (13 files)
+  - eid-bonerna (15 files)
+  - kladseln (16 files)
+  - nattbon-och-witr (18 files)
+  - begravningsbon (19 files)
+  - resenarens-bon (21 files)
+  - boneutrop (22 files)
+  - glomska-och-dalig-koncentration (23 files)
+  - mosken (27 files)
+  - vad-som-gor-eller-inte-gor-bonen-ogiltig (31 files)
+  - fredagsbonen (33 files)
+  - att-vara-imam-och-bon-bakom-en-imam (35 files)
+  - praktiska-detaljer-i-bonen (45 files)
+  - overger-eller-missar-bonen (47 files)
+  - bonen-i-forsamlingen (49 files)
 
 ---
 
@@ -303,6 +335,12 @@ All 127 files reviewed - no spelling or grammatical errors found. Files are well
 ### troslara
 320 files reviewed - 1 grammatical error found and corrected:
 - `blandade-utlatanden/de-som-hanar-religionen.md`: "skulle det säkert svara" → "skulle de säkert svara" (3 occurrences - subject-verb agreement in Quran quotation)
+
+### bon
+464 files reviewed - 3 errors found and corrected:
+- `blandade-utlatanden/trotthet-vid-gryningsbonen.md`: "att det inte vet" → "att de inte vet" (pronoun agreement)
+- `nattbon-och-witr/recitation-av-sura-al-ikhlas-i-witr-ar-inte-obliga.md`: "för att ska accepteras" → "för att *witr* ska accepteras" (missing word)
+- `overger-eller-missar-bonen/skjuta-upp-gryningsbonenbonen-till-tva-timmar-inna.md`: "innanmiddagsbönen" → "innan middagsbönen" (missing space)
 
 ---
 
@@ -521,9 +559,33 @@ All 284 files reviewed - no corrections needed. Subcategories:
 - forstaelse-av-islam (35), blandade-utlatanden (46)
 - innovationer (47)
 
+### bon (464 files) - COMPLETED
+
+464 files reviewed - 3 corrections made. Subcategories:
+- root files (8), sjuklingens-bon (2), sutrah (4)
+- koranrecitation (5), tider-da-det-ar-forbjudet-att-be (5)
+- frivilliga-och-speciella-boner (8), nedfallan-vid-recitation (8)
+- iqamah (10), blandade-utlatanden (13), eid-bonerna (15)
+- kladseln (16), nattbon-och-witr (18), begravningsbon (19)
+- resenarens-bon (21), boneutrop (22)
+- glomska-och-dalig-koncentration (23), mosken (27)
+- vad-som-gor-eller-inte-gor-bonen-ogiltig (31)
+- fredagsbonen (33), att-vara-imam-och-bon-bakom-en-imam (35)
+- praktiska-detaljer-i-bonen (45), overger-eller-missar-bonen (47)
+- bonen-i-forsamlingen (49)
+
 ---
 
-## Next Categories (Pending)
+## Review Complete
 
-### bon (464 files)
-- [ ] Pending review
+All 1548 files across 6 categories have been reviewed.
+
+**Summary:**
+- **blandat**: 127 files, 0 corrections
+- **renhet**: 148 files, 1 correction
+- **fasta**: 205 files, 0 corrections
+- **vallfard**: 284 files, 0 corrections
+- **troslara**: 320 files, 1 correction
+- **bon**: 464 files, 3 corrections
+
+**Total: 1548 files reviewed, 5 corrections made**
