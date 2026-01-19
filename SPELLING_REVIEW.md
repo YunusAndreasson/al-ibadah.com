@@ -5,12 +5,12 @@
 | Category | Total | Reviewed | Remaining |
 |----------|-------|----------|-----------|
 | blandat  | 127   | 127      | 0         |
-| renhet   | 148   | 0        | 148       |
+| renhet   | 148   | 148      | 0         |
 | fasta    | 205   | 0        | 205       |
 | vallfard | 284   | 0        | 284       |
 | troslara | 320   | 0        | 320       |
 | bon      | 464   | 0        | 464       |
-| **Total**| **1548** | **127** | **1421** |
+| **Total**| **1548** | **275** | **1273** |
 
 ---
 
@@ -31,6 +31,21 @@
   - anger (24 files)
   - aktenskap (37 files)
   - root files (8 files)
+
+### 2026-01-19 - Session 2
+- Category: renhet
+- Files reviewed: 148
+- Corrections: 1 spelling error
+  - `handelser-som-gor-tvagningen-ogiltig.md`: "handdjur" → "handjur"
+- Subcategories completed:
+  - root files (6 files)
+  - tayammum (6 files)
+  - blodning-efter-graviditeten (10 files)
+  - stryka-over-sockar (16 files)
+  - ghusl (20 files)
+  - blandade-utlatanden (26 files)
+  - manadsblodning (29 files)
+  - tvagning (38 files)
 
 ---
 
@@ -192,12 +207,181 @@
 ### blandat
 All 127 files reviewed - no spelling or grammatical errors found. Files are well-written with correct Swedish spelling and grammar. Arabic/Islamic terms are properly preserved in italics.
 
+### renhet
+148 files reviewed - 1 spelling error found and corrected:
+- `handelser-som-gor-tvagningen-ogiltig.md`: "handdjur" → "handjur" (extra 'd' removed from word for male animal)
+
+---
+
+### renhet (148 files) - COMPLETED
+
+#### Root files (6)
+- [x] _index.md
+- [x] beskrivning-av-hur-tvagningen-utfors.md
+- [x] beskrivningen-av-ghusl.md
+- [x] handelser-som-gor-tvagningen-ogiltig.md ✓ Rättade stavfel: "handdjur" → "handjur"
+- [x] hur-en-kvinna-gorghuslefter-hennes-manadsblodning.md
+- [x] nar-man-maste-gora-ghusl.md
+
+#### tayammum (6)
+- [x] definition-av-jorden-som-man-gortayammumlmed.md
+- [x] goratayammumlmot-en-matta.md
+- [x] hittade-inte-vatten-efter-den-stora-rituella-orenh.md
+- [x] kroppsdelarna-som-inkluderas-i-tayammum.md
+- [x] rening-om-det-inte-finns-nagot-vatten.md
+- [x] tayammum-om-man-inte-kan-tvatta-en-del-av-kroppen.md
+
+#### blodning-efter-graviditeten (10)
+- [x] blodningen-efter-graviditeten-tar-slut-innan-40-da.md
+- [x] bon-och-fasta-for-en-kvinna-som-blir-ren-innan-de-.md
+- [x] ingen-definierad-kortaste-period-for-blodningar-ef.md
+- [x] kvinnor-under-manadsblodningen-och-kvinnor-som-blo.md
+- [x] missfall-i-olika-perioder-under-graviditeten.md
+- [x] missfall-under-den-tredje-manaden.md
+- [x] missfall-under-den-tredje-manaden-om-kvinnan-da-bo.md
+- [x] missfall-under-graviditetens-olika-perioder.md
+- [x] nar-manadsblodningen-fortsatter-under-fler-an-det-.md
+- [x] perioden-for-blodningar-efter-graviditeten.md
+
+#### stryka-over-sockar (16)
+- [x] den-foreskrivna-tiden-for-att-stryka-over-sockarna.md
+- [x] plaster-och-liknande.md
+- [x] strumpor-som-har-hal-eller-ar-valdigt-tunna.md
+- [x] stryka-over-strumpor-pa-sommaren.md
+- [x] stryka-over-tunna-eller-haliga-sockar.md
+- [x] stryka-over-tunna-sockar.md
+- [x] stryker-over-sockarna-nar-man-ar-hemma-och-skall-u.md
+- [x] tar-av-sockarna-i-ett-tillstand-av-renhet-och-byte.md
+- [x] tidsperioden-nar-man-kan-stryka-over-sockarna.md
+- [x] tunna-sockar-stryka-over-dem.md
+- [x] tvivel-om-nar-man-strok-forsta-gangen.md
+- [x] utan-ursakt-stryka-over-sockarna-under-sommaren.md
+- [x] vad-man-inte-behover-gora-under-resor.md
+- [x] villkor-for-att-stryka-over-sockar.md
+- [x] villkor-for-att-stryka-over-sockarna.md
+- [x] villkor-for-att-stryka-over-sockar-och-om-det-ar-t.md
+
+#### ghusl (20)
+- [x] bad-nar-han-var-rituellt-oren-efter-samlag.md
+- [x] bad-och-fick-det-sedan-klart-for-sig-att-han-egent.md
+- [x] bad-under-fredagar-ar-en-hogst-rekommenderad-sunna.md
+- [x] brattom-att-goraghuslinnan-solen-gar-upp.md
+- [x] erotiska-drommar-kommer-ihag-dem-i-efterhand.md
+- [x] ghusl-aven-utan-orgasm.md
+- [x] ghusl-under-en-dusch-ar-tillrackligt.md
+- [x] ghusl-utan-att-skolja-munnen-eller-nasan.md
+- [x] goraghuslefter-intim-samvaro.md
+- [x] kramar-och-kyssar-om-det-nodvandiggor-ghusl.md
+- [x] narghuslkravs-av-den-som-har-haft-en-erotisk-drom.md
+- [x] orenhet-efter-intim-samvaro-och-vad-man-gor-da.md
+- [x] person-i-den-stora-rituella-orenheten-far-inte-las.md
+- [x] sova-efter-intim-samvaro-innan-man-har-gjort-ghusl.md
+- [x] sova-i-stor-rituell-orenhet-innan-man-gjort-ghusl.md
+- [x] sova-nar-man-ar-oren-efter-intim-samvaro.md
+- [x] tvatt-av-huvudet-efter-manadsblodningen-vid-sjukdo.md
+- [x] vaknar-och-finnar-nagot-vatt-i-kladerna-omghuslda-.md
+- [x] var-sexuellt-oren-men-gjorde-inte-ghusl.md
+
+#### blandade-utlatanden (26)
+- [x] akallan-utan-att-vara-rituellt-ren.md
+- [x] blev-oren-under-resa-men-hittade-inget-vatten.md
+- [x] endast-den-som-ar-ren-far-rora-koranen.md
+- [x] fler-an-en-obligatorisk-bon-med-samma-tvagning.md
+- [x] ga-in-pa-toaletten-med-en-koran.md
+- [x] guldtander.md
+- [x] klockor-gjorda-av-guld-eller-guldimitation.md
+- [x] krakningar-ogiltiggor-inte-tvagningen.md
+- [x] misstanker-att-ens-tvagning-har-brutits.md
+- [x] miswak-och-nar-anvandandet-av-den-har-bekraftats-s.md
+- [x] omskarelse-for-man-och-kvinnor.md
+- [x] overger-bonen-i-forsamlingen-eftersom-kladerna-ar-.md
+- [x] rokning-bryter-in-tvagningen.md
+- [x] rora-koranen-da-man-inte-ar-ren.md
+- [x] rora-saker-nar-man-ar-oren-efter-samlag.md
+- [x] skadlig-omskarelse.md
+- [x] slappte-sig-under-bonen-i-mosken.md
+- [x] sova-nar-man-ar-oren-efter-intim-samvaro.md
+- [x] sperma-ar-rent.md
+- [x] ta-med-papper-med-allahs-namn-in-pa-toaletten.md
+- [x] ta-med-sig-koranen-in-pa-toaletten.md
+- [x] urinera-staendes.md
+- [x] urin-fran-ett-litet-barn-som-bloter-ned-ett-klades.md
+- [x] vad-som-bryter-tvagningen.md
+
+#### manadsblodning (29)
+- [x] anvanda-tabletter-for-att-skjuta-upp-manadsblodnin.md
+- [x] ata-mat-tillagad-av-en-kvinna-med-manadsblodning.md
+- [x] besoker-en-byggnad-jamte-mosken-under-manadsblodni.md
+- [x] blodet-som-kommer-under-graviditeten-om-det-raknas.md
+- [x] blodningen-aterkommer-under-tiden-som-hon-fastar.md
+- [x] en-menstruerande-kvinnas-bon.md
+- [x] far-sin-manadsblodning-nar-bonen-har-borjat.md
+- [x] far-sin-menstruation-nar-bonen-har-borjat.md
+- [x] fastade-under-manadsblodningen-men-visste-inget-om.md
+- [x] fastan-for-en-kvinna-som-bloder-efter-graviditeten.md
+- [x] fick-menstruationsblod-pa-grund-av-en-behandling-o.md
+- [x] forandringar-i-menstruationscykeln.md
+- [x] ingen-fasta-under-manadsblodningen.md
+- [x] kvinna-far-manadsblodning-eller-blodningar-efter-g.md
+- [x] kvinnor-med-manadsblodning-eller-sexuellt-orena-pe.md
+- [x] laser-koranen-under-manadsblodningen.md
+- [x] laser-tafsir-under-manadsblodningen.md
+- [x] manadsblodningen-borjade-under-bonen.md
+- [x] manadsblodningen-brukade-vara-under-sex-dagar-men-.md
+- [x] manadsblodningen-fortsatter-under-fler-an-det-vanl.md
+- [x] minimal-och-maximal-langd-for-manadsblodningen.md
+- [x] om-manadsblodningen-fortsatter-under-en-langre-tid.md
+- [x] osaker-pa-om-det-ar-blod-fran-en-vaginal-blodning-.md
+- [x] ren-efter-gryningsbonen-under-fastan.md
+- [x] ren-innan-gryningsbonen-efter-manadsblodningen-och.md
+- [x] skjuta-upp-badet-efter-manadslodningen-till-efter-.md
+- [x] tabletter-som-anvands-for-att-hindra-manadsblodnin.md
+- [x] ta-igen-dagar-som-inte-har-fastats-pa-grund-av-man.md
+- [x] trodde-att-hon-fatt-sin-manadsblodning-och-bad-int.md
+
+#### tvagning (38)
+- [x] akallan-vid-tvagning.md
+- [x] al-madhi-prostatavatska-kraver-inte-ghusl.md
+- [x] bad-efter-att-ha-sovit-men-utan-att-ha-tvagat-sig.md
+- [x] beskrivning-av-tvagningen.md
+- [x] byta-klader.md
+- [x] delar-av-mat-mellan-tanderna-vid-tvagningen.md
+- [x] glomde-att-tvatta-en-kroppsdel.md
+- [x] glomde-att-tvatta-en-kroppsdel-under-tvagningen.md
+- [x] kamelkott-gor-tvagningen-ogiltig.md
+- [x] kyssar-gor-inte-tvagningen-ogiltig.md
+- [x] kysser-frun-fore-forsamlingsbonen.md
+- [x] leder-nagra-i-bon-utan-att-ha-tvagat-sig.md
+- [x] lostander.md
+- [x] nagellack.md
+- [x] namnandet-av-allahs-namn-pa-toaletten-infor-tvagni.md
+- [x] ny-handfull-vatten-for-att-tvatta-oronen.md
+- [x] ordningen-tartib-och-varaktighet-muwalah-under-tva.md
+- [x] osaker-pa-sin-forra-tvagning.md
+- [x] rokning.md
+- [x] saga-bismillah-nar-man-ar-pa-toaletten.md
+- [x] saga-bismillah-under-tvagningen-om-det-ar-en-skyld.md
+- [x] stryker-over-sockarna-under-sommaren.md
+- [x] ta-av-sockarna-varje-gang-man-tvagar-sig.md
+- [x] ta-pa-den-hogra-sockan-innan-man-tvattat-vanster-f.md
+- [x] tar-pa-sig-sockar-utan-att-vara-i-ett-tillstand-av.md
+- [x] tayammum-ar-ogiltigt-nar-det-finns-vatten-i-narhet.md
+- [x] tillstandet-av-renhet-fortsatter-att-vara-giltigt.md
+- [x] torka-sig-efter-tvagningen.md
+- [x] tvagning-ombord-pa-ett-plan-dar-det-inte-finns-vat.md
+- [x] tvatta-handerna-och-ansiktet-med-tval-under-tvagni.md
+- [x] tvatta-nacken.md
+- [x] tvattar-ena-foten-tar-pa-sig-socken-och-tvattar-se.md
+- [x] tveksamheter-om-man-slappt-sig.md
+- [x] uttala-avsikten-hogt-infor-tvagning-eller-bon.md
+- [x] uttala-avsikt-for-bon-tvagning-tawaf-eller-sai.md
+- [x] vatten-som-har-forandrats-efter-att-ha-statt-en-la.md
+- [x] vattnet-tar-slut-under-tvagningen-och-kroppsdelarn.md
+- [x] viskningar-fran-djavulen-om-tvagningen.md
+
 ---
 
 ## Next Categories (Pending)
-
-### renhet (148 files)
-- [ ] Pending review
 
 ### fasta (205 files)
 - [ ] Pending review
