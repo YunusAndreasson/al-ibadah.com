@@ -1,5 +1,5 @@
 ---
-title: Recitation av al-Fatihah vid gravar
+title: Läsning av al-Fatihah vid gravar
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.

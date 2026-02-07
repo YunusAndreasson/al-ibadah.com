@@ -32,7 +32,7 @@ Han har också sagt:
 
 > ”Den som svor vid *al-amanah*, denne tillhör inte oss.” [*Abū Dawūd* 3253]
 
-*Ahādīth* i detta ämne är många och välkända. Muslimer får endast svära vid Allāh då det inte är tillåtet att svära vid något annat än Honom – vem eller vad det än må vara. Detta baseras på den ovan nämnda *hadithen* såväl som andra. Dem som har denna vana måste vara varse om den och förbjuda familjen, vännerna och andra från att göra så. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
+*Ahādīth* i detta ämne är många och välkända. Muslimer får endast svära vid Allāh då det inte är tillåtet att svära vid något annat än Honom – vem eller vad det än må vara. Detta grundas på den ovan nämnda *hadithen* såväl som andra. Dem som har denna vana måste vara varse om den och förbjuda familjen, vännerna och andra från att göra så. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Om någon av er ser något ont bör han ställa det tillrätta med sin hand, är han inte förmögen att göra det, bör han göra det med sin tunga, och om han inte är förmögen att göra det, bör han hata det i sitt hjärta – och det är den lägsta formen av tro.” [*Muslim* 49, *at-Tirmithi* 2172, *Ahmad* 3:49, 52-54 och *an-Nasā’i* 5011]
 

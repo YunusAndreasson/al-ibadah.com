@@ -23,7 +23,7 @@ description: >-
 
 När det gäller icke-troende som har uppfostrats av föräldrar som inte är muslimer är den mest korrekta åsikten att Allāh vet bäst vad de skulle ha gjort.
 
-I detta liv gäller samma utlåtande som för föräldrarna. Men när det gäller utlåtandet i det Nästkommande vet Allāh den Upphöjde bäst vad de skulle ha gjort. Detta är något som profeten – över honom vare Allāhs frid och välsignelser – har talat om [^2]. Allāh vet bäst vilken som är deras destination. Faktum är att detta inte är något som är av vikt för oss. Det viktiga för oss är utlåtandet om dem i detta liv. Utlåtande om dem – jag menar barnen till månggudadyrkarna – är att de är som dem. De tvättas, kläs och sveps inte. Ingen bön bes över dem och de begravs inte på en muslimsk gravplats.
+I detta liv gäller samma utlåtande som för föräldrarna. Men när det gäller utlåtandet i det Nästkommande vet Allāh den Upphöjde bäst vad de skulle ha gjort. Detta är något som profeten – över honom vare Allāhs frid och välsignelser – har talat om [^2]. Allāh vet bäst vilken som är deras destination. Saken är den att detta inte är något som är av vikt för oss. Det viktiga för oss är utlåtandet om dem i detta liv. Utlåtande om dem – jag menar barnen till månggudadyrkarna – är att de är som dem. De tvättas, kläs och sveps inte. Ingen bön bes över dem och de begravs inte på en muslimsk gravplats.
 
 Och Allāh vet bäst.
 

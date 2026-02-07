@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Denna fråga består av två delar. Den första är frågan om *qunūt* i gryningsbönen. Här finns olika åsikter bland de lärde. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – reciterade *qunūt* när han åkallade Allāh för eller emot olika människor. Han åkallade Allāh för den svage och hjälplöse bland de troende i Mecka och under en månad åkallade han Allāh mot dem som dödade Koran-recitatörerna bland hans följeslagare.
 
-Den som uppmärksamt studerar sändebudets *sunnah* kommer att finna att det inte finns någon *qunūt* i den obligatoriska bönen, utom om någon katastrof eller olycka har drabbat muslimer och det krävs att Allāh åkallas. I detta fall bör *qunūt* reciteras. Det är klart från bevisen att *qunūt* inte ska reciteras i gryningsbönen enbart när någon katastrof drabbar muslimer. Detta är generellt för alla böner.
+Den som uppmärksamt studerar sändebudets *sunnah* kommer att finna att det inte finns någon *qunūt* i den obligatoriska bönen, utom om någon katastrof eller olycka har drabbat muslimer och det krävs att Allāh åkallas. I detta fall bör *qunūt* reciteras. Det är klart från bevisen att *qunūt* inte ska reciteras i gryningsbönen enbart när någon katastrof drabbar muslimer. Detta är allmänt för alla böner.
 
 Med detta som grund: Om *qunūt* reciteras i böner med höjd röst, då ska den reciteras högt och om den reciteras i tysta böner, då ska den reciteras tyst.
 

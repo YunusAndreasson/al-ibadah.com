@@ -1,8 +1,2 @@
-/**
- * Content Selection Module
- * Provides intelligent content selection for the startpage
- */
-
-export * from './rotation'
-export * from './selector'
-export * from './types'
+export { getStartpageSections } from './selector'
+export type { CompactArticle, SectionContent } from './types'

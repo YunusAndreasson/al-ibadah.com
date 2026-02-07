@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Denna fråga är mycket viktig och den kräver med Allāhs den Allsmäktiges hjälp ett detaljerat svar. Vi säger att de som har begravts är av två kategorier:
 
-Någon som avled som muslim och som folket prisade. Denne hoppas vi får gott, men denne är i behov av att de muslimska bröderna ber Allāh om att denne ska förlåtas och visas nåd. Denne inkluderas generellt sett i Allāhs den Upphöjdes ord:
+Någon som avled som muslim och som folket prisade. Denne hoppas vi får gott, men denne är i behov av att de muslimska bröderna ber Allāh om att denne ska förlåtas och visas nåd. Denne innefattas överlag i Allāhs den Upphöjdes ord:
 
 > ”De som kommer efter dem ber: ’Herre, Ge oss Din förlåtelse och förlåt våra bröder som gått före oss i tron, och låt inte ovilja mot [någon] troende bli kvar i våra hjärtan! Herre! Du ömmar, full av barmhärtighet, [för Dina tjänare]!’” [Koranen 59:10]
 
@@ -45,7 +45,7 @@ Muslimer måste noga studera dem som påstår sig vara *awliyā'* med Koranen oc
 
 > ”Helt visst ska de som är nära Gud aldrig känna fruktan och ingen sorg ska tynga dem, de som tror och ständigt har Honom för ögonen.” [Koranen 10:62 – 63]
 
-Den som är en from troende är således en *walī* till Allāh och den som inte är det, är inte en *walī* till Allāh. Har denne någon tro och fruktan av Allāh, då har denne ett visst mått av *wilayah* i sig men vi säger inte något om en viss person utan vi säger att generellt sett så är en from troende Allāhs *walī*.
+Den som är en from troende är således en *walī* till Allāh och den som inte är det, är inte en *walī* till Allāh. Har denne någon tro och fruktan av Allāh, då har denne ett visst mått av *wilayah* i sig men vi säger inte något om en viss person utan vi säger att överlag så är en from troende Allāhs *walī*.
 
 Det bör vara känt att Allāh den Allsmäktige kan pröva någon på detta sätt. En person kan komma an på en grav och åkalla den som ligger begravd i den. Denne kan också ta lite jord från den för att få välsignelser – och [faktiskt] få vad denne ber om. Detta är då en prövning från Allāh den Allsmäktige för denne. Vi vet ju att graven inte svarar åkallan och att jorden inte är ett sätt för att skydda mot ont eller hjälpa. Vi vet detta då Allāh den Upphöjde säger:
 

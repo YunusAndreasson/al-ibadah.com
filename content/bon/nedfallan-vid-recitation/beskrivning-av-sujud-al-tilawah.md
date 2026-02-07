@@ -22,7 +22,7 @@ Det är föreskrivet att säga *takbīr* under nedfallandet. Bevisen för detta 
 
 Utförs *sujūd al-tilāwah* under bönen är det obligatoriskt att säga *takbīr* när man går ned och när man kommer upp. Profeten – över honom vare Allāhs frid och välsignelser – brukade ju göra det i varje rörelse i bönen, och han sade: "*Be som ni har sett mig be*." [Berättad av al-Bukhāri i hans *Sahīh*, 595].
 
-De åminnelser och åkallan som är föreskrivna i nedfallandet under [vanlig] bön är föreskrivna i *sujūd al-tilāwah*. Detta på grund av den generella betydelsen i *ahādīth* i denna fråga. Bland dessa åkallan är:
+De åminnelser och åkallan som är föreskrivna i nedfallandet under [vanlig] bön är föreskrivna i *sujūd al-tilāwah*. Detta på grund av den allmänna betydelsen i *ahādīth* i denna fråga. Bland dessa åkallan är:
 
 > *Allāhumma laka sajadtu wa bika āmantu wa laka aslamtu, sajada wajhi lilladhi khalaqahu wa sawwarahu wa shaqqa sam’ahu wa basarahu bi hawlihi wa quwwatihi, tabārak Allāhu ahsan al-khāliqīn*
 

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Liba
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
   - Blandat
-  - Kost & hälsa
+  - Kost och hälsa
 original_id: 1636
 description: 'Fråga: Jag har lärt mig något om dygdigheten hos imamerna i frågor
  om mat, som när det gäller imam ash-Shafi''i. Imam Ahmad ville heller inte ta emot

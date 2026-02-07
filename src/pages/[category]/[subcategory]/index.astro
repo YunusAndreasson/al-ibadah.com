@@ -1,0 +1,85 @@
+---
+import { getCollection } from 'astro:content'
+import BaseLayout from '~/layouts/BaseLayout.astro'
+import PageLayout from '~/components/layout/PageLayout.astro'
+import Breadcrumbs from '~/components/layout/Breadcrumbs.astro'
+import { CATEGORY_NAMES, deriveSubcategoryName } from '~/lib/content-utils'
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles')
+
+  // Group articles by category/subcategory
+  const subcategoryMap = new Map<string, {
+    category: string
+    subcategory: string
+    categoryName: string
+    subcategoryName: string
+    articles: Array<{ slug: string; title: string; author?: string }>
+  }>()
+
+  for (const article of articles) {
+    const segments = article.id.split('/')
+    if (segments.length !== 3) continue
+
+    const [category, subcategory, slug] = segments
+    const key = `${category}/${subcategory}`
+
+    if (!subcategoryMap.has(key)) {
+      subcategoryMap.set(key, {
+        category,
+        subcategory,
+        categoryName: CATEGORY_NAMES[category] || category,
+        subcategoryName: deriveSubcategoryName(article.data.categories, subcategory),
+        articles: [],
+      })
+    }
+
+    subcategoryMap.get(key)!.articles.push({
+      slug,
+      title: article.data.title,
+      author: article.data.author,
+    })
+  }
+
+  return Array.from(subcategoryMap.values()).map((data) => ({
+    params: { category: data.category, subcategory: data.subcategory },
+    props: {
+      categoryName: data.categoryName,
+      subcategoryName: data.subcategoryName,
+      articles: data.articles.sort((a, b) => a.title.localeCompare(b.title, 'sv')),
+    },
+  }))
+}
+
+const { category, subcategory } = Astro.params
+const { categoryName, subcategoryName, articles } = Astro.props
+---
+
+<BaseLayout title={`${subcategoryName} - al-Ibadah`}>
+  <PageLayout>
+    <Breadcrumbs
+      items={[
+        { label: 'Hem', href: '/' },
+        { label: categoryName, href: `/${category}` },
+      ]}
+    />
+
+    <h1 class="page-title mb-8 mt-8">{subcategoryName}</h1>
+
+    {articles.length > 0 ? (
+      <div class="grid gap-3">
+        {articles.map((article: { slug: string; title: string; author?: string }) => (
+          <a
+            href={`/${category}/${subcategory}/${article.slug}`}
+            class="card block"
+          >
+            <h2 class="font-medium mb-1 text-foreground">{article.title}</h2>
+            {article.author && <p class="text-sm text-muted-foreground">{article.author}</p>}
+          </a>
+        ))}
+      </div>
+    ) : (
+      <p class="text-muted-foreground">Inga artiklar i denna underkategori än.</p>
+    )}
+  </PageLayout>
+</BaseLayout>

@@ -6,7 +6,7 @@ source: >-
   Dar us-Salam. ISBN saknas
 categories:
   - Bön (Salāh)
-  - Koranrecitation
+  - Koranläsning
 original_id: 1661
 description: >-
   Fråga: Jag och mina kollegor samlas en gång i veckan för att läsa några verser

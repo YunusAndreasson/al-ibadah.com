@@ -1,0 +1,74 @@
+---
+import { getCollection } from 'astro:content'
+import BaseLayout from '~/layouts/BaseLayout.astro'
+import PageLayout from '~/components/layout/PageLayout.astro'
+import Breadcrumbs from '~/components/layout/Breadcrumbs.astro'
+import { CATEGORY_NAMES, deriveSubcategoryName } from '~/lib/content-utils'
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles')
+
+  // Get unique categories
+  const categoryMap = new Map<string, {
+    subcategories: Map<string, { name: string; articleCount: number }>
+  }>()
+
+  for (const article of articles) {
+    const segments = article.id.split('/')
+    const category = segments[0]
+
+    if (!categoryMap.has(category)) {
+      categoryMap.set(category, { subcategories: new Map() })
+    }
+
+    if (segments.length === 3) {
+      const subcategory = segments[1]
+      const catData = categoryMap.get(category)!
+      if (!catData.subcategories.has(subcategory)) {
+        catData.subcategories.set(subcategory, {
+          name: deriveSubcategoryName(article.data.categories, subcategory),
+          articleCount: 0,
+        })
+      }
+      catData.subcategories.get(subcategory)!.articleCount++
+    }
+  }
+
+  return Array.from(categoryMap.entries()).map(([category, data]) => ({
+    params: { category },
+    props: {
+      categoryName: CATEGORY_NAMES[category] || category,
+      subcategories: Array.from(data.subcategories.entries())
+        .map(([slug, info]) => ({ slug, name: info.name, articleCount: info.articleCount }))
+        .sort((a, b) => a.name.localeCompare(b.name, 'sv')),
+    },
+  }))
+}
+
+const { category } = Astro.params
+const { categoryName, subcategories } = Astro.props
+---
+
+<BaseLayout title={`${categoryName} - al-Ibadah`}>
+  <PageLayout>
+    <Breadcrumbs items={[{ label: 'Hem', href: '/' }]} />
+
+    <h1 class="page-title mb-8 mt-8">{categoryName}</h1>
+
+    {subcategories.length > 0 ? (
+      <div class="grid gap-3">
+        {subcategories.map((sub: { slug: string; name: string; articleCount: number }) => (
+          <a
+            href={`/${category}/${sub.slug}`}
+            class="card flex items-center justify-between"
+          >
+            <span class="font-medium text-foreground">{sub.name}</span>
+            <span class="text-sm text-muted-foreground">{sub.articleCount}</span>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <p class="text-muted-foreground">Inga underkategorier i denna kategori än.</p>
+    )}
+  </PageLayout>
+</BaseLayout>

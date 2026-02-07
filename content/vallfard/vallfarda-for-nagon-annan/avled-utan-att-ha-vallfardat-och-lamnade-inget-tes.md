@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Om en man avled utan att ha utsett någon till att vallfärda åt honom, är då denna skyldighet avklarad för honom om hans son vallfärdar för hans räkning?
 
-**Svar:** Om hans son, som är muslim, redan har vallfärdat själv och vallfärdar för hans räkning, då är faderns skyldighet avklarad. Detsamma gäller om någon annan muslim [som redan har vallfärdat] än hans son vallfärdar åt honom. Detta baseras på vad som har återgivits från Ibn ‘Abbās i *Sahīh al-Bukhārī* och *Sahīh Muslim* när en kvinna sade: ”*Allāhs sändebud! Sannerligen har Allāhs skyldigheter över Hans tjänare gällt för min far och han är en extremt gammal. Han är inte kapabel att vallfärda eller att mäkta med resan. Skall jag vallfärda för hans räkning?*” Profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Ja, vallfärda för honom*.” [^1]
+**Svar:** Om hans son, som är muslim, redan har vallfärdat själv och vallfärdar för hans räkning, då är faderns skyldighet avklarad. Detsamma gäller om någon annan muslim [som redan har vallfärdat] än hans son vallfärdar åt honom. Detta grundas på vad som har återgivits från Ibn 'Abbās i *Sahīh al-Bukhārī* och *Sahīh Muslim* när en kvinna sade: ”*Allāhs sändebud! Sannerligen har Allāhs skyldigheter över Hans tjänare gällt för min far och han är en extremt gammal. Han är inte kapabel att vallfärda eller att mäkta med resan. Skall jag vallfärda för hans räkning?*” Profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Ja, vallfärda för honom*.” [^1]
 
 Beträffande detta ämne finns det andra *ahādīth* som bevisar det vi har nämnt.
 

@@ -24,7 +24,7 @@ Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sa
 
 Om han låter sitt klädesplagg hänga ned på grund av stolthet och arrogans, då är hans synd ännu värre och mer förtjänt av ett straff. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som låter sitt klädesplagg hänga dem på grund av arrogans, Allāh kommer inte att titta på Honom på Återuppståndelsens Dag*.” [^4]
 
-Muslimer måste känna till vad Allāh har förbjudit, vilket inkluderar att låta *izār* hänga nedanför vristen och andra synder, precis som det är en skyldighet att känna till alla innovationer. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [^5] Detta återger Muslim i sin *Sahīh*.
+Muslimer måste känna till vad Allāh har förbjudit, vilket innefattar att låta *izār* hänga nedanför vristen och andra synder, precis som det är en skyldighet att känna till alla innovationer. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [^5] Detta återger Muslim i sin *Sahīh*.
 
 Han har även sagt: ”*Det bästa talet är Allāhs skrift och den bästa vägledning är Muḥammads och det värsta inom religiösa frågor är nya innovationer och varje innovation är villfarelse*.” [^6]
 

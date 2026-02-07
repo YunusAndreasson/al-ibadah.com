@@ -1,7 +1,16 @@
-import { useNavigate } from '@tanstack/react-router'
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { SearchIcon } from '~/components/ui/icons'
-import { getSearchIndex, type SearchItem } from '~/lib/content'
+
+interface SearchItem {
+  title: string
+  path: string
+  category: string
+  subcategory?: string
+}
+
+const indexPromise: Promise<SearchItem[]> = fetch('/search-index.json')
+  .then((r) => r.json())
+  .catch((): SearchItem[] => [])
 
 interface SearchDialogProps {
   open: boolean
@@ -11,10 +20,12 @@ interface SearchDialogProps {
 export function SearchDialog({ open, onClose }: SearchDialogProps) {
   const [query, setQuery] = useState('')
   const [selectedIndex, setSelectedIndex] = useState(0)
+  const [searchIndex, setSearchIndex] = useState<SearchItem[]>([])
   const inputRef = useRef<HTMLInputElement>(null)
-  const navigate = useNavigate()
 
-  const searchIndex = useMemo(() => getSearchIndex(), [])
+  useEffect(() => {
+    indexPromise.then(setSearchIndex)
+  }, [])
 
   const results = useMemo(() => {
     if (!query.trim()) return []
@@ -53,14 +64,20 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
       setSelectedIndex((i) => Math.max(i - 1, 0))
     } else if (e.key === 'Enter' && results[selectedIndex]) {
       e.preventDefault()
-      navigate({ to: results[selectedIndex].path })
-      onClose()
+      navigateTo(results[selectedIndex].path)
     }
   }
 
-  function handleSelect(item: SearchItem) {
-    navigate({ to: item.path })
+  function navigateTo(path: string) {
     onClose()
+    // Use Astro's navigate for view-transition-aware navigation
+    import('astro:transitions/client').then(({ navigate }) => navigate(path)).catch(() => {
+      window.location.href = path
+    })
+  }
+
+  function handleSelect(item: SearchItem) {
+    navigateTo(item.path)
   }
 
   if (!open) {
@@ -105,7 +122,7 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
             <div id="search-results" className="max-h-80 overflow-y-auto p-2">
               {results.length === 0 ? (
                 <p className="px-3 py-8 text-center text-sm text-muted-foreground">
-                  Inga resultat för "{query}"
+                  Inga träffar för &quot;{query}&quot;
                 </p>
               ) : (
                 <ul role="listbox" aria-label="Sökresultat">
@@ -136,7 +153,9 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
 
           {!query.trim() && (
             <div className="px-3 py-8 text-center text-sm text-muted-foreground">
-              Börja skriva för att söka bland {searchIndex.length} artiklar
+              {searchIndex.length > 0
+                ? `Börja skriva för att söka bland ${searchIndex.length} artiklar`
+                : 'Laddar\u2026'}
             </div>
           )}
         </div>

@@ -5,6 +5,9 @@ node_modules/
 .output/
 dist/
 
+# Astro
+.astro/
+
 # Vite
 *.local
 
@@ -34,22 +37,3 @@ pnpm-debug.log*
 .env.*
 !.env.example
 
-# Temporary/old files
-app.config.timestamp_*.js
-*.old
-assets.old/
-index.html.old
-
-# Python
-__pycache__/
-*.py
-requirements.txt
-
-# Prerendered HTML (generated during build)
-1-troslara/
-2-renhet/
-3-bon/
-4-allmosa/
-5-fasta/
-6-vallfard/
-7-blandat/

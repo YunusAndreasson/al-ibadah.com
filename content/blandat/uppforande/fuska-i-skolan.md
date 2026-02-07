@@ -8,13 +8,13 @@ categories:
 original_id: 1702
 description: >-
   Fråga: Får elever fuska i skolan? Svar: Hadīthen: "Den som fuskar tillhör inte
-  oss" är autentisk och generell i sin betydelse. Detta inkluderar fusk vid köp
+  oss" är autentisk och allmän i sin betydelse. Detta omfattar fusk vid köp
   och försäljning, rådgivning, löften ...
 ---
 
 **Fråga:** Får elever fuska i skolan?
 
-**Svar:** *Hadīthen*[^1]: "Den som fuskar tillhör inte oss" är autentisk och generell i sin betydelse. Detta inkluderar fusk vid köp och försäljning, rådgivning, löften samt avtal och prov i skolan. Här inräknas att man kopierar material från böcker, att man tar svar från andra elever och att man ger dem svar, oavsett om man berättar det eller skriver det på ett papper.
+**Svar:** *Hadīthen*[^1]: "Den som fuskar tillhör inte oss" är autentisk och allmän i sin betydelse. Detta omfattar fusk vid köp och försäljning, rådgivning, löften samt avtal och prov i skolan. Här inräknas att man kopierar material från böcker, att man tar svar från andra elever och att man ger dem svar, oavsett om man berättar det eller skriver det på ett papper.
 
 Och Allāh är källan till all styrka.
 

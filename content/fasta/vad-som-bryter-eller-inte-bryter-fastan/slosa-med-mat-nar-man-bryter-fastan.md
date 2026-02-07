@@ -15,7 +15,7 @@ description: 'Fråga: Blir belöningen för fastan mindre om man gör i ordning 
 
 **Fråga:** Blir belöningen för fastan mindre om man gör i ordning överdrivet mycket mat inför brytandet av fastan?
 
-**Svar:** Belöningen blir inte mindre men det är förbjudet att göra så när man har fastat. Det minskar inte belöningen men inkluderas när Allāh den Upphöjde säger:
+**Svar:** Belöningen blir inte mindre men det är förbjudet att göra så när man har fastat. Det minskar inte belöningen men innefattas när Allāh den Upphöjde säger:
 
 > ”Söner av Adam! Anlägg vårdad klädsel var gång ni går till bön – och ät och drick [det som är gott och hälsosamt], men visa måtta [i allt]; Gud är inte vän av dem som går till överdrift.” [Koranen 7:31]
 

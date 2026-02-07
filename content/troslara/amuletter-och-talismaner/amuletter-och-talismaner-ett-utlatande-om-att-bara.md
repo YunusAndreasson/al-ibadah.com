@@ -17,7 +17,7 @@ description: 'Fråga: Vilket är utlåtandet om att bära amuletter och talisman
 
 **Svar:** Frågan om att bära talismaner och amuletter delas i två kategorier:
 
-Det som bärs kommer från Koranen. De lärde har, både i tidiga och sena generationer, varit oeniga om detta. En del har godkänt och ansett att detta inkluderas i Allāh den Upphöjdes ord:
+Det som bärs kommer från Koranen. De lärde har, både i tidiga och sena generationer, varit oeniga om detta. En del har godkänt och ansett att detta innefattas i Allāh den Upphöjdes ord:
 
 > "Med Koranen uppenbarar Vi det som är läkedom och nåd för de troende, men för syndarnas del [påskyndar det] bara deras marsch mot undergången." [Koranen 17:82]
 

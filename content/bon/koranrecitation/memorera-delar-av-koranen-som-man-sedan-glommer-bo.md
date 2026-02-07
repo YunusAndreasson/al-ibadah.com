@@ -6,7 +6,7 @@ source: >-
   Dar us-Salam. ISBN saknas
 categories:
   - Bön (Salāh)
-  - Koranrecitation
+  - Koranläsning
 original_id: 1666
 description: >-
   Fråga: Från Allāhs sändebud – över honom vare Allāhs frid och välsignelser –

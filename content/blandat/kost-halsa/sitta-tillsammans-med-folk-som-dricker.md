@@ -6,7 +6,7 @@ source: >-
   Dar us-Salam. ISBN saknas
 categories:
   - Blandat
-  - Kost & hälsa
+  - Kost och hälsa
 original_id: 1638
 description: >-
   Fråga: Jag studerar vid ett universitet i Japan och ett antal föreningar och

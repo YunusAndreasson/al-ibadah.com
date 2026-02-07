@@ -61,7 +61,7 @@ Och Han den Upphöjde säger:
 
 > ”Vi har aldrig sänt en profet före dig utan att uppenbara för honom: 'Det finns ingen annan gud än Jag – tillbe Mig!'” [Koranen 21:25]
 
-Det finns även andra verser – både generella och specifika – som bevisar att lagarna som profeterna förde med sig hade samma grund. De innefattar att endast dyrka Allāh, tron på Honom, Hans skrifter, Hans sändebud, den Yttersta Dagen, Hans förordnande och Hans vilja, den grundläggande bönen, allmosan och fastan. Allāh säger om Sin profet Abraham:
+Det finns även andra verser – både allmänna och särskilda – som bevisar att lagarna som profeterna förde med sig hade samma grund. De innefattar att endast dyrka Allāh, tron på Honom, Hans skrifter, Hans sändebud, den Yttersta Dagen, Hans förordnande och Hans vilja, den grundläggande bönen, allmosan och fastan. Allāh säger om Sin profet Abraham:
 
 > ”Herre! Jag har låtit några av de mina bosätta sig i en dal, som inte är lämpad för jordbruk, nära Ditt heliga hus, Herre, och där ska de förrätta regelbunden bön. Låt människornas hjärtan fyllas av tillgivenhet för dem [och av längtan att besöka dem] så att det kan få [hjälp av dem till] sin försörjning och därför känna tacksamhet [mot Dig]. Herre! Du vet vad vi håller hemligt och vad vi öppet tillkännager – ingenting kan förbli dolt för Gud, som på min ålders höst har gett mig Ismael och Isak! Min Herre här sannerligen [människornas] bön. Herre! Gör mig [stark] så att jag förrättar bönen utan att förtröttas och gör att några bland mina efterkommande [likaså är uthålliga i bönen]! Herre, hör min bön.” [Koranen 14:37 – 40]
 

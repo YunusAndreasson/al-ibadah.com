@@ -36,7 +36,7 @@ I samma journal [tredje volymen] sägs det: "Mirza är profeten Muḥammad." Han
 
 Kommittén har även undersökt vad pålitliga lärde samt författare har skrivit och publicerat om Qadyani Ahmadiyah. Det klargörs att de helt står utanför islam.
 
-Baserat på detta tillkännagav Parlimentary Terrirorial Committee i Pakistan 1974, i total enighet bland dess medlemmar, att Qadyanisekten var en icke-muslimsk minoritet i Pakistan. Nationalrådet för den pakistanska nationen var även enigt om att Qadyani var en icke-muslimsk minoritet.
+Grundat på detta tillkännagav Parlimentary Terrirorial Committee i Pakistan 1974, i total enighet bland dess medlemmar, att Qadyanisekten var en icke-muslimsk minoritet i Pakistan. Nationalrådet för den pakistanska nationen var även enigt om att Qadyani var en icke-muslimsk minoritet.
 
 Det har även framkommit från vad Mirza Ghulam Ahmad själv har skrivit i ett stort antal brev till den engelska regeringen i Indien att han stödde dem och att han förklarade att *djihād* var förbjudet. Syftet var att få muslimerna lojala mot den engelska kolonialmakten i Indien. Han påstod att *djihād*, som några okunniga muslimer erkänner, hindrade att de visade lojalitet mot engelsmännen. I boken *Shahadah al-Qur'an* [sjätte upplagan, sida 17] skriver han:
 
@@ -44,7 +44,7 @@ Det har även framkommit från vad Mirza Ghulam Ahmad själv har skrivit i ett s
 
 [Se Professor an-Nadawis avhandling som Muslim World League har publicerat, sida 25].
 
-Efter att ha studerat dessa och andra dokument – vilket inkluderat ett stort antal manuskript som klargör Qadyanis trosprinciper, dess grundare, dess farliga mål, förstörandet av den korrekta islamiska tron och vilseledningen av muslimer – har *fiqh*-akademin[^1] i total enighet kommit fram till att Qadanis trosprinciper är oislamiska och att dess anhängares presentation av sig själva som muslimer endast är ett sätt att vilseleda än mer. *Fiqh*-kommittén tillkännager därmed att alla muslimer, regeringar, lärda, författare, tänkare, predikanter och andra över hela världen måste motsätta sig denna vilseledda sekt och dess anhängare.
+Efter att ha studerat dessa och andra dokument – vilket innefattat ett stort antal manuskript som klargör Qadyanis trosprinciper, dess grundare, dess farliga mål, förstörandet av den korrekta islamiska tron och vilseledningen av muslimer – har *fiqh*-akademin[^1] i total enighet kommit fram till att Qadanis trosprinciper är oislamiska och att dess anhängares presentation av sig själva som muslimer endast är ett sätt att vilseleda än mer. *Fiqh*-kommittén tillkännager därmed att alla muslimer, regeringar, lärda, författare, tänkare, predikanter och andra över hela världen måste motsätta sig denna vilseledda sekt och dess anhängare.
 
 Och framgång kommer från Allāh.
 

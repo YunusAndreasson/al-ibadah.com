@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Bör den avlidnes skulder betalas om denne inte har lämnat allmosa?
 
-**Svar:** Ibn ´Abdul-Barr och Abū 'Ubaid har sagt att den avlidens skuld inte får betalas genom allmosa, enligt konsensus bland de lärda. Men faktum är att de lärde är oeniga om denna fråga, även om majoriteten av dem säger: Den avlidnes skuld får inte betalas med allmosan. Den avlidne har gått till det Nästkommande och vanäran och förödmjukelsen i skulden som denne är skyldig, den följer inte denne, vilket den gör när det gäller de vid liv.
+**Svar:** Ibn ´Abdul-Barr och Abū 'Ubaid har sagt att den avlidens skuld inte får betalas genom allmosa, enligt konsensus bland de lärda. Men saken är den att de lärde är oeniga om denna fråga, även om majoriteten av dem säger: Den avlidnes skuld får inte betalas med allmosan. Den avlidne har gått till det Nästkommande och vanäran och förödmjukelsen i skulden som denne är skyldig, den följer inte denne, vilket den gör när det gäller de vid liv.
 
 Profeten – över honom vare Allāhs frid och välsignelser – brukade inte betala de avlidnes skulder med allmosa. I stället betalade han skulderna med krigsbyte när Allāh gav dem segern. Detta bevisar att det inte är rätt att betala den avlidnes skuld med allmosa.
 

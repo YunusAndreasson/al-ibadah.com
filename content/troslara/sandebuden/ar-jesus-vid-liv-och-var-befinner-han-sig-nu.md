@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Är Jesus, Marias son, vid liv? Var befinner han sig om han är vid liv? Vilka bevis finns i Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*?
 
-**Svar:** Jesus, Marias son, är vid liv. Judarna varken dödade eller korsfäste honom, men de trodde att de gjorde det. Faktum är att Allāh lyfte upp både hans kropp och själ till himlen. Där befinner han sig i dag. Bevisen för detta är Allāhs den Upphöjdes ord när han besvarar judarnas lögner:
+**Svar:** Jesus, Marias son, är vid liv. Judarna varken dödade eller korsfäste honom, men de trodde att de gjorde det. Saken är den att Allāh lyfte upp både hans kropp och själ till himlen. Där befinner han sig i dag. Bevisen för detta är Allāhs den Upphöjdes ord när han besvarar judarnas lögner:
 
 > ”[Men Vi straffade dem] därför att de bröt sitt löfte och förnekade Guds budskap och dödade profeterna mot all rätt, och på grund av deras [självbelåtna] ord 'våra hjärtan är tillslutna' – nej, det är Gud som har förseglat deras hjärtan till följd av deras ständiga förnekande av tron; de tror bara på få ting – och [Vi straffade dem] för deras förnekelse och de oerhörda, kränkande lögner som de yttrade om Maria, och för deras ord: 'Vi har dödat Kristus Jesus, Marias son, [som påstod sig vara] Guds sändebud!' Men de dödade honom inte och inte heller korsfäste de honom, fastän det för dem tedde sig så. De som är av annan mening är inte säkra på sin sak; de har ingen [verkligen] kunskap om detta utan stöder sig på antaganden. Det är med visshet så att de inte dödade honom. Nej, Gud upphöjde honom till Sin [härlighet]; Gud är allsmäktig, vis.” [Koranen 4:155 – 158]
 

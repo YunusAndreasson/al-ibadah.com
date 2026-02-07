@@ -25,7 +25,7 @@ Allāh den Upphöjde har sagt: ”*Lyssna därför uppmärksamt när högläsnin
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*När imamen reciterar, var då tyst*.” [^3]
 
-Det enda undantaget är recitation av *al-Fātihah*, enligt den *hadīth* som nämnts tidigare och den generella innebörden av orden: ”*Det finns ingen bön för den som inte reciterar Fātihah al-Kitāb*.” [^4]
+Det enda undantaget är recitation av *al-Fātihah*, enligt den *hadīth* som nämnts tidigare och den allmänna innebörden av orden: "*Det finns ingen bön för den som inte reciterar Fātihah al-Kitāb*.” [^4]
 
 
 [^1]: *Abū Dawūd* 823

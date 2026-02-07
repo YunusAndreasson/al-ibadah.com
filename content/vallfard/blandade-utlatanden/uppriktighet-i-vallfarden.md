@@ -40,7 +40,7 @@ Det finns inget felaktigt i om någon som söker Allāhs gåvor gör affärer me
 
 > ”Om ni [under vallfärden] önskar med er Herres nåd uppnå någon fördel, kan ni inte klandras för detta.” [Koranen 2:198]
 
-Det som motsäger sig uppriktighet är om någons enda avsikt är att göra affärer och tjäna pengar. Detta är någon som söker världsliga förtjänster genom att utföra handlingar som har att göra med Nästa Liv. Detta betyder att dyrkan är ogiltig eller bristfällig till högsta grad. Allāh säger:
+Det som motsäger sig uppriktighet är om någons enda avsikt är att göra affärer och tjäna pengar. Detta är någon som söker världsliga förtjänster genom att utföra handlingar som rör Nästa Liv. Detta betyder att dyrkan är ogiltig eller bristfällig till högsta grad. Allāh säger:
 
 > ”Den som vill [så för att] skörda i evigheten ska Vi ge riklig skörd; och den som vill [så för att] skörda i denna värld ska Vi ge något av det han strävat efter, men i evigheten blir han lottlös.” [Koranen 42:20]
 

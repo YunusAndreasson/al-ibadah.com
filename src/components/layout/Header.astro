@@ -1,0 +1,46 @@
+---
+import { ThemeToggle } from '~/components/ui/ThemeToggle'
+import { SearchIsland } from '~/components/ui/SearchIsland'
+import { MobileMenu } from '~/components/ui/MobileMenu'
+
+const navLinks = [
+  { href: '/troslara', label: 'Troslära' },
+  { href: '/renhet', label: 'Renhet' },
+  { href: '/bon', label: 'Bön' },
+  { href: '/allmosa', label: 'Allmosa' },
+  { href: '/fasta', label: 'Fasta' },
+  { href: '/vallfard', label: 'Vallfärd' },
+  { href: '/blandat', label: 'Blandat' },
+]
+
+const currentPath = Astro.url.pathname
+---
+
+<a href="#main" class="skip-link">
+  Hoppa till huvudinnehåll
+</a>
+
+<header>
+  <div class="max-w-3xl mx-auto px-4 h-14 flex items-center justify-between">
+    <a href="/" class="font-semibold tracking-tight text-foreground">
+      al-Ibadah
+    </a>
+
+    <nav class="hidden md:flex items-center gap-4" aria-label="Huvudnavigering">
+      {navLinks.map((link) => (
+        <a
+          href={link.href}
+          class:list={['nav-link text-sm font-medium', { active: currentPath.startsWith(link.href) }]}
+        >
+          {link.label}
+        </a>
+      ))}
+    </nav>
+
+    <div class="flex items-center gap-2">
+      <SearchIsland client:load transition:persist />
+      <ThemeToggle client:load transition:persist />
+      <MobileMenu client:load navLinks={navLinks} currentPath={currentPath} />
+    </div>
+  </div>
+</header>

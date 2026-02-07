@@ -37,9 +37,9 @@ Ett annat villkor är att man undviker det som Allāh har förbjudit. Allāh sä
 
 > "Vallfärden [ska fullgöras under] de kända månaderna. Den som då beger sig i väg ska så länge vallfärden varar avhålla sig från intim samvaro med kvinnor, grovt tal samt trätor och tvister. Gud vet det goda ni gör." [Koranen 2:197]
 
-Man bör undvika det som Allāh har förbjudit generellt, oavsett om det är under pilgrimsfärden eller under andra tider. Detta kan vara omoraliska [handlingar], synd, tal som är otillåtet eller att lyssna på musik.
+Man bör undvika det som Allāh har förbjudit överlag, oavsett om det är under pilgrimsfärden eller under andra tider. Detta kan vara omoraliska [handlingar], synd, tal som är otillåtet eller att lyssna på musik.
 
-Man bör också undvika det som Allāh har förbjudit speciellt under pilgrimsfärden som intim samvaro med kvinnor och att raka huvudet. Man bör undvika att bära det som profeten – över honom vare Allāhs frid och välsignelser – har förbjudit oss att bära i *ihrām*. Generellt sett bör man undvika allt som är förbjudet under *ihrām*.
+Man bör också undvika det som Allāh har förbjudit speciellt under pilgrimsfärden som intim samvaro med kvinnor och att raka huvudet. Man bör undvika att bära det som profeten – över honom vare Allāhs frid och välsignelser – har förbjudit oss att bära i *ihrām*. Överlag bör man undvika allt som är förbjudet under *ihrām*.
 
 Pilgrimen bör även vara vänlig, generös och lättsam med sina tillgångar och handlingar. Man bör behandla sin bror så väl som möjligt.
 

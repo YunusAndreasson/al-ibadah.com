@@ -6,7 +6,7 @@ source: >-
   Dar us-Salam. ISBN saknas
 categories:
   - Bön (Salāh)
-  - Koranrecitation
+  - Koranläsning
 original_id: 1677
 description: >-
   Fråga: Varför har inte denna vers skrivits på böcker med tafsīr? ” Som inga

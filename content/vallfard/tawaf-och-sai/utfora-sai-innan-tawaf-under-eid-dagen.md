@@ -16,9 +16,9 @@ description: >-
 
 **Fråga:** En man hörde att det är tillåtet att utföra *sa’ī*[^1] före *tawāf*, så han utförde *sa’ī*[^1] och sedan *tawāf* under den tolfte och den trettonde dagen. Sedan sades det till honom att detta enbart gäller *‘eid*-dagen. Vilket är utlåtandet?
 
-**Svar:** Den korrekta åsikten är att det inte finns någon skillnaden mellan *‘eid*-dagen och andra dagar om tillåtelsen till att utföra *sa’ī*[^1] före *tawāf*. Detta även om den utförs efter *‘eid*-dagen. Anledningen är det generella budskapet i den *hadīth* då en man säger till profeten: ”*Jag utförde sa'ī[^1] innan jag gjorde *tawāf*.” Profeten – över honom vare Allāhs frid och välsignelser – svarade då: ”*Inga problem*.”
+**Svar:** Den korrekta åsikten är att det inte finns någon skillnaden mellan *‘eid*-dagen och andra dagar om tillåtelsen till att utföra *sa’ī*[^1] före *tawāf*. Detta även om den utförs efter *‘eid*-dagen. Anledningen är det allmänna budskapet i den *hadīth* då en man säger till profeten: ”*Jag utförde sa'ī[^1] innan jag gjorde *tawāf*.” Profeten – över honom vare Allāhs frid och välsignelser – svarade då: ”*Inga problem*.”
 
-Då denna *hadīth* är generell finns det ingen skillnad mellan den som gör det under eller efter *'eid*-dagen.
+Då denna *hadīth* är allmän finns det ingen skillnad mellan den som gör det under eller efter *'eid*-dagen.
 
 [^1]: Vandringen mellan as-Safa och al-Marwa.
 

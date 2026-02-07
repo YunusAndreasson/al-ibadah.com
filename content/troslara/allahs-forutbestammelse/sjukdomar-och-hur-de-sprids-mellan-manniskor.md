@@ -16,19 +16,19 @@ description: >-
 
 **Fråga:** Vi ber er att förklara profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Det finns varken 'Adwa, tiyarah, hamah eller safar*[^1].” [^2] Vilken sorts förbud finns i denna *hadīth* och hur får vi ihop den med denna *hadīth*: ”*Fly från spetälska som du skulle fly från lejon*.”? [^3]
 
-**Svar:** *‘Adwa* är när en sjukdom sprids från en sjuk person till en frisk person. Detta gäller både för sjukdomar som har med moral och andlighet att göra och sjukdomar som har med hälsa att göra. Därför har profeten – över honom vare Allāhs frid och välsignelser – informerat oss om att ha följe med en ond person är som att sitta tillsammans med en smed: Antingen bränner du dina kläder, eller kommer du i varje fall att få en dålig lukt från denne. ‘Adwa inkluderar då både fysiska och andliga sjukdomar.
+**Svar:** *‘Adwa* är när en sjukdom sprids från en sjuk person till en frisk person. Detta gäller både för sjukdomar som har med moral och andlighet att göra och sjukdomar som har med hälsa att göra. Därför har profeten – över honom vare Allāhs frid och välsignelser – informerat oss om att ha följe med en ond person är som att sitta tillsammans med en smed: Antingen bränner du dina kläder, eller kommer du i varje fall att få en dålig lukt från denne. 'Adwa innefattar då både fysiska och andliga sjukdomar.
 
 *Tiyarah* är när man bli pessimistisk på grund av något man har sett, hört eller fått reda på [tron på onda omen].
 
 *Hamah* har förklarats på två sätt:
 
-1. En sjukdom som drabbar någon och som sprider sig till andra. Enligt denna förklaring är det en specificering av en generell term när den nämns efter *‘Adwa*.
+1. En sjukdom som drabbar någon och som sprider sig till andra. Enligt denna förklaring är det en specificering av en allmän term när den nämns efter *‘Adwa*.
 2. En välkänd fågel som araberna påstod skulle komma till en familj i vilken någon hade bragts om livet. Fågeln skulle då skrika över deras huvuden tills de hade hämnats den mördade. Vissa trodde att det möjligen var den dräptes själ som hade tagit formen av hamah. Detta är en sorts fågel som liknar en uggla. De säger också att det är en uggla som irriterar den dräptes familj med dess skrik tills de hämnas denne. De anser att detta är ett dåligt omen, så om den landar på ett av deras hem och där skrek, då skulle de säga att den skrek för dennes död och de skulle tro att dennes bortgång var nära. Detta är falskt.
 
 *Safar* har förklarats på ett antal sätt:
 
 1. Att det är den välkända månaden *safar* och araberna anser att detta är ett dåligt omen.
-2. Att det är en magsjukdom som drabbar kameler och att den sprider sig från den ene till den andre. Att den nämns efter *‘Adwa* skulle då vara en specificering av en generell term.
+2. Att det är en magsjukdom som drabbar kameler och att den sprider sig från den ene till den andre. Att den nämns efter *‘Adwa* skulle då vara en specificering av en allmän term.
 3. Senareläggandet av månaden *safar*, med innebörden att det är det senareläggande genom vilket de icke-troende gick vilse när de sköt upp strid under månaden *muharram* till *safar*. De gjorde den tillåten [att strida under] ett år men helig ett annat.
 
 Den starkaste åsikten är att det avser månaden *safar*. Araberna brukade ju under tiden för islam anse att den var ett dåligt omen. Och årstiderna har ingen inverkan. Allāhs den Allsmäktiges bestämmelse är densamma som under alla andra månader. Både gott och ont bestäms under denna månad.
@@ -44,7 +44,7 @@ Lägger en muslim någon vikt vid dessa händelser kommer denne att svara på et
 1. Att reagera på dem genom att antingen agera eller inte agera efter dem. Vad muslimen än gör kommer denne att ha handlat beroende av något som inte har någon sanning i sig.
 2. Att reagera genom att inte agera efter dem och inte lägga någon vikt vid dem, men ändå känna en viss oro. Även om detta är ett mindre ont än det första bör inte dessa antydningar besvaras och man bör sätta sin tro till Allāh den Allsmäktige.
 
-Det finns sådana som kan tänkas öppna Koranen och söka efter ett omen genom den. Ser de att något nämnas om Elden säger de: ”Detta är ett dåligt omen.” Ser de att något nämnas om Paradiset säger de: ”Detta är ett bra omen.” Faktum är att detta är precis vad man gjorde under tiden före islam när man använde slagrutor för att bestämma vad man skulle göra.
+Det finns sådana som kan tänkas öppna Koranen och söka efter ett omen genom den. Ser de att något nämnas om Elden säger de: ”Detta är ett dåligt omen.” Ser de att något nämnas om Paradiset säger de: ”Detta är ett bra omen.” Saken är den att detta är precis vad man gjorde under tiden före islam när man använde slagrutor för att bestämma vad man skulle göra.
 
 Ett förnekande av dessa fyra företeelser är inte en förnekelse av att de existerar, för det gör de. I stället är det en förnekelse av att de har en inverkan. Detta beror på att det är Allāh som får saker och ting att inträffa och om det finns någon känd orsak är det den sanna orsaken men en orsak som är föreställd, den är falsk. Detta förnekande är därmed en förnekelse av dess inverkan och kausialtitet.
 

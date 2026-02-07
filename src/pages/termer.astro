@@ -1,0 +1,102 @@
+---
+import BaseLayout from '~/layouts/BaseLayout.astro'
+import PageLayout from '~/components/layout/PageLayout.astro'
+import { type GlossaryTerm, glossary } from '~/data/glossary'
+
+// Group terms by category
+function groupTermsByCategory(terms: Record<string, GlossaryTerm>) {
+  const groups: Record<string, GlossaryTerm[]> = {}
+
+  for (const term of Object.values(terms)) {
+    if (!groups[term.category]) {
+      groups[term.category] = []
+    }
+    groups[term.category].push(term)
+  }
+
+  for (const category of Object.keys(groups)) {
+    groups[category].sort((a, b) => a.canonical.localeCompare(b.canonical, 'sv'))
+  }
+
+  return groups
+}
+
+const categoryOrder = [
+  'coreTerms',
+  'prayerTerms',
+  'purificationTerms',
+  'fastingTerms',
+  'hajjTerms',
+  'hajjLocations',
+  'zakatTerms',
+  'monthNames',
+  'familyTerms',
+  'clothingTerms',
+  'hadithSources',
+  'hadithBooks',
+  'scholarlyTerms',
+  'tawhidTerms',
+  'phrases',
+  'miswakAndOther',
+  'swedishTerms',
+]
+
+const categoryNames: Record<string, string> = {
+  coreTerms: 'Grundläggande',
+  prayerTerms: 'Bön',
+  purificationTerms: 'Renhet',
+  fastingTerms: 'Fasta',
+  hajjTerms: 'Vallfärd',
+  hajjLocations: 'Vallfärdsorter',
+  zakatTerms: 'Allmosa',
+  monthNames: 'Månader',
+  familyTerms: 'Familj och äktenskap',
+  clothingTerms: 'Klädsel',
+  hadithSources: 'Hadith-källor',
+  hadithBooks: 'Hadith-böcker',
+  scholarlyTerms: 'Lärdom',
+  tawhidTerms: 'Tawhid-former',
+  phrases: 'Fraser',
+  miswakAndOther: 'Övrigt',
+  swedishTerms: 'Svenska ord',
+}
+
+const groupedTerms = groupTermsByCategory(glossary)
+const termCount = Object.keys(glossary).length
+---
+
+<BaseLayout title="Ordlista - al-Ibadah">
+  <PageLayout largePadding>
+    <section>
+      <div class="prose-reading">
+        <h1 class="page-title mb-4">Ordlista</h1>
+        <p class="text-muted-foreground mb-8">
+          Arabiska termer som förekommer i texterna. {termCount} termer med definitioner.
+        </p>
+
+        {categoryOrder.map((categoryKey) => {
+          const terms = groupedTerms[categoryKey]
+          if (!terms || terms.length === 0) return null
+
+          return (
+            <section class="mb-8">
+              <h2>
+                {categoryNames[categoryKey] || categoryKey}
+              </h2>
+              <dl class="space-y-3">
+                {terms.map((term) => (
+                  <div class="grid grid-cols-[1fr_2fr] gap-4">
+                    <dt class="font-medium">
+                      <em>{term.canonical}</em>
+                    </dt>
+                    <dd class="text-muted-foreground">{term.definition}</dd>
+                  </div>
+                ))}
+              </dl>
+            </section>
+          )
+        })}
+      </div>
+    </section>
+  </PageLayout>
+</BaseLayout>

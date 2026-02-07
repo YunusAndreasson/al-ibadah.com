@@ -1,5 +1,5 @@
 ---
-title: Sju personer som Allāh kommer att skugga – om det gäller specifikt för män
+title: Sju personer som Allāh kommer att skugga – om det gäller särskilt för män
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon: Maktaba
@@ -10,15 +10,15 @@ categories:
 original_id: 1683
 description: >-
   Fråga: Hadithen om de sju som Allāh kommer att skugga den dag som det inte
-  kommer att finnas någon annan skugga än Hans – gäller den specifikt män eller
+  kommer att finnas någon annan skugga än Hans – gäller den särskilt män eller
   kommer kvinnor att få de belöningar som näm...
 ---
 
-**Fråga:** Hadithen om de sju som Allāh kommer att skugga den dag som det inte kommer att finnas någon annan skugga än Hans – gäller den specifikt män eller kommer kvinnor att få de belöningar som nämns om de utför exakt samma handlingar?
+**Fråga:** Hadithen om de sju som Allāh kommer att skugga den dag som det inte kommer att finnas någon annan skugga än Hans – gäller den särskilt män eller kommer kvinnor att få de belöningar som nämns om de utför exakt samma handlingar?
 
-**Svar:** Den belöning som nämns i denna *hadīth* är inte specifik för män utan här inkluderas både män och kvinnor. Hadithen gäller, exempelvis, för en ung tjej som växer upp och dyrkar Allāh den Allsmäktige. På samma sätt gäller den kvinnor som älskar varandra för Allāhs skull, eller för en kvinna som när hon blir förförd av en stilig man av god position säger: ”Sannerligen, jag fruktar Allāh.” Den gäller även en kvinna som ger i välgörenhet från goda och hederligt intjänade tillgångar utan att hennes vänstra hand vet vad den högra har gett. Det gäller även den kvinna som åminns Allāh när hon är ensam.
+**Svar:** Den belöning som nämns i denna *hadīth* är inte särskild för män utan här innefattas både män och kvinnor. Hadithen gäller, exempelvis, för en ung tjej som växer upp och dyrkar Allāh den Allsmäktige. På samma sätt gäller den kvinnor som älskar varandra för Allāhs skull, eller för en kvinna som när hon blir förförd av en stilig man av god position säger: ”Sannerligen, jag fruktar Allāh.” Den gäller även en kvinna som ger i välgörenhet från goda och hederligt intjänade tillgångar utan att hennes vänstra hand vet vad den högra har gett. Det gäller även den kvinna som åminns Allāh när hon är ensam.
 
-Beträffande att vara en rättvis imam eller fäst vid en moské är dessa båda specifika för män. Detta beror på att en kvinnas bön är bättre för henne om den utförs i hemmet; ett faktum som har återberättats i autentiska *ahādīth* från Allāhs sändebud – över honom vare Guds frid och välsignelser.
+Beträffande att vara en rättvis imam eller fäst vid en moské är dessa båda särskilda för män. Detta beror på att en kvinnas bön är bättre för henne om den utförs i hemmet; ett faktum som har återberättats i autentiska *ahādīth* från Allāhs sändebud – över honom vare Guds frid och välsignelser.
 
 Och hos Allāh finns medlen för att göra vad som är rätt.
 

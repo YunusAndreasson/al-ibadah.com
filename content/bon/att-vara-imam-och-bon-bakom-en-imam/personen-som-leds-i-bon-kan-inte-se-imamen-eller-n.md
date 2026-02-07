@@ -15,5 +15,5 @@ description: 'Fråga: Vilket är utlåtandet om en bön i en moskés källare om
 
 **Fråga:** Vilket är utlåtandet om en bön i en moskés källare om den som leds i bön inte kan se imamen eller någon av dem som ber bakom honom? Denne hör endast rösten från imamen genom högtalare.
 
-**Svar:** I enlighet med den generella innebörden av bevisen är det inga problem om källaren är i förening med moskén.
+**Svar:** I enlighet med den allmänna innebörden av bevisen är det inga problem om källaren är i förening med moskén.
 

@@ -11,12 +11,12 @@ original_id: 1229
 description: >-
   Fråga: Bör man ta igen sunnah -bönerna om tiden för dem har gått ut? Svar: Ja,
   sunnah -bönerna kan tas igen om tiden för dem har gått ut på grund av glömska
-  eller sömn. De inkluderas i den g...
+  eller sömn. De innefattas i den g...
 ---
 
 **Fråga:** Bör man ta igen *sunnah*-bönerna om tiden för dem har gått ut?
 
-**Svar:** Ja, *sunnah*-bönerna kan tas igen om tiden för dem har gått ut på grund av glömska eller sömn. De inkluderas i den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord:
+**Svar:** Ja, *sunnah*-bönerna kan tas igen om tiden för dem har gått ut på grund av glömska eller sömn. De innefattas i den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord:
 
 > ”Den som har sovit över en bön eller glömt den måste ta igen den så fort han kommer ihåg den. Det krävs ingen gottgörelse utöver detta.” [*al-Bukhārī* 597]
 

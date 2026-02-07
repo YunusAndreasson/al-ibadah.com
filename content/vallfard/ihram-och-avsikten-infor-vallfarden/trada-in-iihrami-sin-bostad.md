@@ -20,7 +20,7 @@ description: >-
 
 Anledningen är att profeten, då han utsåg *muwaqit*, sade: ”*De är för dem [som bor där] och dem som passerar förbi utöver de som bor där som avser att utföra vallfärden och ‘umrah[^1] Den som är närmare [Mecka] än det, då är hans plats för *ihrām* där denne påbörjade sin resa. Även folket från Mecka går in i *ihrām* i Mecka*.” [^2] Denna *hadīth* är man enig om.
 
-Invånarna i Jiddah, Ummus-Salam, Bahrah och dem som bor utanför helgedomen [men innanför gränserna för mawaqit] inkluderas i denna *hadīth*. När de avser att utföra vallfärden eller *'umrah*, då träder de in i *ihrām* i sina hem.
+Invånarna i Jiddah, Ummus-Salam, Bahrah och dem som bor utanför helgedomen [men innanför gränserna för mawaqit] innefattas i denna *hadīth*. När de avser att utföra vallfärden eller *'umrah*, då träder de in i *ihrām* i sina hem.
 
 Och framgång kommer från Allāh.
 

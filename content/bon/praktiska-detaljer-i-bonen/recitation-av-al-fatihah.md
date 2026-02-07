@@ -1,5 +1,5 @@
 ---
-title: Recitation av al-Fātihah
+title: Läsning av al-Fātihah
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
@@ -26,7 +26,7 @@ description: >-
 
 Enligt mig är den mest korrekta åsikten att recitation av sura *al-Fātihah* är en av bönens pelare för imamen, den som leds i bön och den som ber ensam. Detta både i tysta böner och i böner med [höjd] recitation. Detta gäller dock inte den som kommer sent om denne hinner göra bugningen med imamen. I detta fall krävs ingen recitation av sura *al-Fātihah*.
 
-Beviset för detta är den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*Det finns ingen bön för den som inte reciterar Skriftens inledning*." [^3] Han har även sagt: "*Den som bad och inte reciterade Ummul-Qur'ān [sura *al-Fātihah*], det är khidaj*." [^4] Detta innebär att den är fördärvad och detta är generellt.
+Beviset för detta är den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*Det finns ingen bön för den som inte reciterar Skriftens inledning*." [^3] Han har även sagt: "*Den som bad och inte reciterade Ummul-Qur'ān [sura *al-Fātihah*], det är khidaj*." [^4] Detta innebär att den är fördärvad och detta är allmänt.
 
 Vad som även bevisar detta är en *hadīth* från 'Ubadah bin as-Samit i vilken han berättar att profeten – över honom vare Allāhs frid och välsignelser – gick ut för att be gryningsbönen och sade till följeslagarna: "*Kanske reciterade ni bakom imamen? De svarade: "Ja, Allāhs sändebud!" Han svarade: "Gör inte så utom Ummul-Qur'ān, för det finns ingen bön för den som inte reciterar den*." [^5] Detta har återberättats om böner i vilka recitationen är med höjd röst.
 

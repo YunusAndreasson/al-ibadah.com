@@ -10,12 +10,12 @@ categories:
   - Övrigt
 original_id: 1560
 description: >-
-  Fråga: Finns det någon specifik fördel som om att utföra ‘umrah under
+  Fråga: Finns det någon särskild fördel som om att utföra ‘umrah under
   vallfärdsmånaderna, som är olika dess fördelar under andra månader? Svar: Den
   bästa tiden för ‘umrah är under ramadan....
 ---
 
-**Fråga:** Finns det någon specifik fördel som om att utföra *´umrah* under vallfärdsmånaderna, som är olika dess fördelar under andra månader?
+**Fråga:** Finns det någon särskild fördel som om att utföra *´umrah* under vallfärdsmånaderna, som är olika dess fördelar under andra månader?
 
 **Svar:** Den bästa tiden för *´umrah* är under *ramadan*. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*En ´umrah[^1] under Ramadan är likvärdig med en vallfärd*." [^2]
 

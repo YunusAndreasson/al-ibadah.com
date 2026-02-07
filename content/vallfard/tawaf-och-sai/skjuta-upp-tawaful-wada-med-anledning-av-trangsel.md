@@ -24,7 +24,7 @@ Om man ger sig av och inte tar farväl av Huset [Ka’bah], då måste han [enli
 
 Detta innebär att *tawāf[^1] ul-wadā* är en obligatorisk rit, enligt den mest korrekta åsikten av de åsikter som de lärde har. Ibn 'Abbās har sagt: "*Den som lämnar en rit eller glömmer den, låt denne då spilla lite blod [offra ett djur]*."
 
-Och *tawāf[^1] ul-wadā* är en rit som avsiktligen utelämnades. Därför måste lite blod spillas genom att ett djur offras i Mecka till de fattiga och behövande. Att han återvände [för att göra det], upphäver inte hans skyldighet att offra. Detta är generellt sett den föredragna åsikten och det är åsikten som jag föredrar.
+Och *tawāf[^1] ul-wadā* är en rit som avsiktligen utelämnades. Därför måste lite blod spillas genom att ett djur offras i Mecka till de fattiga och behövande. Att han återvände [för att göra det], upphäver inte hans skyldighet att offra. Detta är överlag den föredragna åsikten och det är åsikten som jag föredrar.
 
 Och Allāh vet bäst.
 

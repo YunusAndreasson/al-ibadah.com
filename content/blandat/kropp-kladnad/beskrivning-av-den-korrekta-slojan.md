@@ -4,7 +4,7 @@ author: Shaykh al-Albāni
 source: 'Hijāb al-Mar’ah al-Muslimah, sidan 54-67'
 categories:
   - Blandat
-  - Kropp & klädnad
+  - Kropp och klädnad
 original_id: 1701
 description: >-
   Fråga: Jag vill veta hur en korrekt slöja ska se ut? Svar: Shaykh al-Albāni
@@ -25,7 +25,7 @@ al-Hāfiz ibn Kathīr säger i sin *tafsīr*:
 
 > “Detta betyder att de inte bör visa någon del av sin prydnad för män som inte är *mahram*, utom det som är omöjligt att dölja. Ibn Mas'ūd har sagt: 'Likt de kappor som de arabiska kvinnorna brukade bära, det vill säga ett yttre klädesplagg som täcker det kvinnorna bar under det yttre plagget, förutom det som syntes under det yttre plagget. Kvinnan syndar inte då det är omöjligt att dölja det.'”
 
-2. Den bör inte vara en prydnad i sig. Allāh säger: “och inte visa mera av sina behag än vad som [anständigtvis] kan vara synligt.” [^1] Den generella innebörden inkluderar här det yttre plagget, är det dekorerat kommer det ju att dra mäns uppmärksamhet till sig. Detta stöds av versen i sura al-Ahzāb:
+2. Den bör inte vara en prydnad i sig. Allāh säger: “och inte visa mera av sina behag än vad som [anständigtvis] kan vara synligt.” [^1] Den allmänna innebörden omfattar här det yttre plagget, är det dekorerat kommer det ju att dra mäns uppmärksamhet till sig. Detta stöds av versen i sura al-Ahzāb:
 
 > “Och stanna i ert hem. Men [om ni måste lämna det] försök inte dra uppmärksamheten till era yttre företräden på det sätt som var vanligt under den hedniska tiden.” [Koranen 33:33]
 
@@ -48,9 +48,9 @@ Ibn 'Abd al-Barr sade:
 3. Abū Hurairah har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: “Den kvinna som parfymerar sig med bakhūr, låt henne inte medvara vid nattbönen med oss.”
 4. Mūsa ibn Yassār har berättat att en kvinna gick förbi Abū Hurairah och hennes doft var överväldigande. Han sade då: “Kvinna, slav till al-Jabbār, är du på väg till moskén?” Hon svarade: “Ja.” Han sade: “Och du har parfymerat dig med anledning av det?” Hon svarade: “Ja.” Han sade: “Gå tillbaka och tvätta dig, för jag hörde Allāhs sändebud säga: 'Om en kvinna går till moskén och hennes doft är överväldigande, då kommer Allāh inte att acceptera någon bön ifrån henne innan hon har gått hem och tvättat sig.”
 
-Dessa *ahādīth* är generella i deras betydelser. Precis som förbudet täcker parfym ansatt på kroppen, täcker det även parfym ansatt på kläderna; detta speciellt i den tredje *hadithen* där bakhūr nämns. Detta beror på att bakhūr ofta används just på kläder.
+Dessa *ahādīth* är allmänna i deras betydelser. Precis som förbudet täcker parfym ansatt på kroppen, täcker det även parfym ansatt på kläderna; detta speciellt i den tredje *hadithen* där bakhūr nämns. Detta beror på att bakhūr ofta används just på kläder.
 
-Anledningen till förbudet är rätt uppenbar då kvinnors väldoft kan framkalla oönskade begär. De lärde har även inkluderat andra saker under denna rubrik som bör undvikas av kvinnor som går till moskén. Detta kan vara: vackra kläder, synliga juveler, överdrivna utsmyckelser och beblandning med män.
+Anledningen till förbudet är rätt uppenbar då kvinnors väldoft kan framkalla oönskade begär. De lärde har även innefattat andra saker under denna rubrik som bör undvikas av kvinnor som går till moskén. Detta kan vara: vackra kläder, synliga juveler, överdrivna utsmyckelser och beblandning med män.
 
 Ibn Daqīq al-’*Eid* har sagt:
 
@@ -68,7 +68,7 @@ Dessa *ahādīth* visar tydligt att kvinnor inte får imitera män och vice vers
 
 *Abū Dawūd* har på sidan 261 i *Masā’il al-Imam Ahmad* sagt: “Jag hörde *Ahmad* tillfrågas om en man som klädde sin kvinnliga slav i en tunika. Han svarade: 'Klä henne inte i mäns kläder, gör inte så att hon liknar en man.'” *Abū Dawūd* sade: ”Jag sade till *Ahmad*: ’Kan jag ge henne manssandaler som hon kan bära?’ Han svarade: ’Nej, utom om hon bär dem för att tvaga sig.’ Jag sade: ’Hur är det med hennes skönhet?’ Han svarade: ’Nej.’ Jag sade: ’Kan jag klippa hennes hår kort?” Han svarade: ’Nej.’”
 
-7. I den islamiska lagen har det klargjorts att muslimer – män som kvinnor – inte bör efterlikna de icke-troende i deras dyrkan, högtider eller klädsel som uttryckligen är deras. Detta är en viktig islamisk princip som många muslimer nu för tiden tyvärr försummar, även dem som bryr sig om religionen och kallar andra till den. Detta beror på deras okunskap om religionen, att de följer deras nycker och begär eller avvikelse kombinerat med de icke-troendes seder i Europa. Detta är en av orsakerna till att muslimer har blivit svagare och som har lett till att de har kunnat övermannas och koloniseras:
+7. I den islamiska lagen har det klargjorts att muslimer – män som kvinnor – inte bör efterlikna de icke-troende i deras dyrkan, högtider eller klädsel som uttryckligen är deras. Detta är en viktig islamisk princip som många muslimer nu för tiden tyvärr försummar, även dem som bryr sig om religionen och kallar andra till den. Detta beror på deras okunskap om religionen, att de följer deras nycker och begär eller avvikelse förenat med de icke-troendes seder i Europa. Detta är en av orsakerna till att muslimer har blivit svagare och som har lett till att de har kunnat övermannas och koloniseras:
 
 > ”Gud förändrar inte människor villkor, förrän de ändrar sitt sinnelag; och om det är Guds vilja att ett folk drabbas av olyckor kan ingen avvärja det och ingen utom Gud kan hjälpa dem.” [Koranen 13:11] Om de bara visste.
 

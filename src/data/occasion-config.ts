@@ -10,7 +10,7 @@ export interface ContentSource {
   value: string
 }
 
-export interface OccasionContentConfig {
+interface OccasionContentConfig {
   titleSv: string
   titleAr: string
   contentSources: ContentSource[]
@@ -59,7 +59,7 @@ export const OCCASION_CONTENT_CONFIG: Record<
 
   // Hajj season content
   'hajj-season': {
-    titleSv: 'Hajj-säsongen',
+    titleSv: 'Hajj-tiden',
     titleAr: 'موسم الحج',
     contentSources: [
       { type: 'subcategory', value: 'vallfard/riterna-under-vallfarden' },
@@ -141,7 +141,7 @@ export const OCCASION_CONTENT_CONFIG: Record<
 
   // Deep reads - long-form spiritual content (800+ words)
   'deep-reads': {
-    titleSv: 'Djupdykningar',
+    titleSv: 'Fördjupningar',
     titleAr: 'قراءات عميقة',
     minWordCount: 800,
     contentSources: [
@@ -167,13 +167,4 @@ export const OCCASION_CONTENT_CONFIG: Record<
       { type: 'subcategory', value: 'blandat/anger' },
     ],
   },
-}
-
-/**
- * Get content config for an occasion type
- */
-export function getOccasionContentConfig(
-  type: OccasionType | 'deep-reads' | 'important-questions'
-): OccasionContentConfig | undefined {
-  return OCCASION_CONTENT_CONFIG[type]
 }

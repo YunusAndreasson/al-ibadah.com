@@ -15,7 +15,7 @@ description: >-
   och sedan en gång ensam. Under en period...
 ---
 
-**Fråga:** Född och uppfostrad som muslim har jag aldrig lämnat bönen förrän vid ett tillfälle då ödet ville det. Jag reste utomlands två gånger med min familj och sedan en gång ensam. Under en period av fyra år övergav jag helt bönen och jag begick många synder. Jag fastade inte och hade dagtid samlag med min fru under *ramadan*. Jag anser att min degradering främst har att göra med dåligt sällskap. Men nu känner jag mig ångerfull över mina synder och jag ber antingen själv eller med församlingen. Vänligen, berätta för mig vad jag bör göra.
+**Fråga:** Född och uppfostrad som muslim har jag aldrig lämnat bönen förrän vid ett tillfälle då ödet ville det. Jag reste utomlands två gånger med min familj och sedan en gång ensam. Under en period av fyra år övergav jag helt bönen och jag begick många synder. Jag fastade inte och hade dagtid samlag med min fru under *ramadan*. Jag anser att min degradering främst beror på dåligt sällskap. Men nu känner jag mig ångerfull över mina synder och jag ber antingen själv eller med församlingen. Vänligen, berätta för mig vad jag bör göra.
 
 **Svar:** Ånger är tillräckligt för dig. Du behöver varken ta igen bönerna eller fastan och det finns ingen gottgörelse för dig. Anledningen är att utelämnandet av den obligatoriska bönen är att inte tro, även om du inte förnekade att den är obligatorisk. Detta enligt den mest korrekta åsikten som de lärde har. Men om en person förnekar att den är obligatorisk finns det konsensus om att han inte tror. När den icke-troende accepterar islam behöver han inte ta igen några obligatoriska rättigheter om de är Allāhs. Detta för att Han i Koranen säger:
 

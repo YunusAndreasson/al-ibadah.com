@@ -20,7 +20,7 @@ description: >-
 
 Det är också rekommenderat att särskilt kyssa och röra den Svarta Stenen under varje varv, även i det sista varvet om det sker utan några svårigheter. Men är svårt att göra så här, då är det ogillat att skapa trängsel. Det är föreskrivet att peka mot den Svarta Stenen med ens hand eller med en stav och säga ”*Allāhu akbar*”.
 
-När det gäller hörnet mot Jemen finns det, enligt vad vi känner till, inget specifikt rapporterat som visar att man ska peka mot det. Man rör det enbart om han har möjlighet och det inte medför svårigheter. Det bör inte kyssas. Man bör säga "*Bismillāh, wAllāhu akbar*" eller: "*Allāhu akbar*".
+När det gäller hörnet mot Jemen finns det, enligt vad vi känner till, inget särskilt rapporterat som visar att man ska peka mot det. Man rör det enbart om han har möjlighet och det inte medför svårigheter. Det bör inte kyssas. Man bör säga "*Bismillāh, wAllāhu akbar*" eller: "*Allāhu akbar*".
 
 Men om det medför svårigheter, då är det inte föreskrivet att röra det och man fortsätter sin *tawāf* utan att vinka mot det eller säga *takbīr*. Det finns ju inte något rapporterat om detta från profeten – över honom vare Allāhs frid och välsignelser – eller hans följeslagare. Detta har jag klargjort i min bok *at-Tahqiq wal-eidhah li-kathīr min masa'[^1] ilil-hajj wal-'umrah was-ziyrarah*.
 

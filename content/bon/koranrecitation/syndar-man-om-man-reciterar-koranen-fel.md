@@ -6,7 +6,7 @@ source: >-
   Dar us-Salam. ISBN saknas
 categories:
   - Bön (Salāh)
-  - Koranrecitation
+  - Koranläsning
 original_id: 1664
 description: >-
   Fråga: Jag läser ofta Koranen men jag känner inte till mycket om

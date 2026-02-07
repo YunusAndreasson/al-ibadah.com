@@ -35,9 +35,9 @@ I *hadithen* från [ängeln] Gabriel har profeten – över honom vare Allāhs f
 2. imān och
 3. ihsan.
 
-I *hadithen* från ´Abdul-Qais-delegationen nämnde han enbart en kategori, och den var islam. Tron är utan några oenigheter inkluderad i islam. Det är ju omöjligt att någon utför riterna om denne inte har tron. När islam nämns ensamt inkluderas tron och om enbart tron nämns inkluderas islam i den. När de nämns tillsammans har tron att göra med [tron] i hjärtat, medan islam har att göra med vad kroppen gör. För den som studerar den islamiska vetenskapen är detta något som är nyttigt att förstå.
+I *hadithen* från ´Abdul-Qais-delegationen nämnde han enbart en kategori, och den var islam. Tron är utan några oenigheter innefattad i islam. Det är ju omöjligt att någon utför riterna om denne inte har tron. När islam nämns ensamt innefattas tron och om enbart tron nämns innefattas islam i den. När de nämns tillsammans rör tron [tron] i hjärtat, medan islam rör vad kroppen gör. För den som studerar den islamiska vetenskapen är detta något som är nyttigt att förstå.
 
-[Som vi sagt tidigare], när islam nämns inkluderas tron i den. Allāh den Upphöjde säger: ”*För Gud är [den sanna] religionen underkastelse under Hans vilja*.” [^1] Det är välkänt att islam är trosprinciper, tro och riter. När enbart tron nämns inkluderas islam i den. Nämns de båda tillsammans avser tron den tro som finns i hjärtat och innebörden av islam avser kroppens handlingar. Därför har vissa *salaf* – må Allāh vara nöjda med dem – sagt:
+[Som vi sagt tidigare], när islam nämns innefattas tron i den. Allāh den Upphöjde säger: "*För Gud är [den sanna] religionen underkastelse under Hans vilja*." [^1] Det är välkänt att islam är trosprinciper, tro och riter. När enbart tron nämns innefattas islam i den. Nämns de båda tillsammans avser tron den tro som finns i hjärtat och innebörden av islam avser kroppens handlingar. Därför har vissa *salaf* – må Allāh vara nöjda med dem – sagt:
 
 > ”Islam är uppenbar och tron är dold.” Detta beror på att den [tron] finns i hjärtat och därför kan man finna en hycklare som ber, ger i välgörenhet och fastar. Denne ser ut att vara muslim men är inte troende [denne har ingen tro]. Allāh den Upphöjde säger: ”Det finns människor som säger: ’Vi tror på Gud och på den Yttersta dagen’. Medan de [i själva verket] inte tror.” [Koranen 2:8]
 

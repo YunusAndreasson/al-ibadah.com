@@ -21,7 +21,7 @@ description: >-
 
 Anas bin Mālik sade: ”*Vi gav oss ut på en resa från Medina till Mecka tillsammans med profeten – över honom vare Allāhs frid och välsignelser – och han bad två bönecykler för varje bön med fyra bönecykler tills vi återvände till Medina*.” [^3]
 
-Men om man ber tillsammans med en imam som ber en oförkortad bön, då måste man be fyra bönecykler oavsett om man hinner med bönen från början eller om man missar delar av den. Detta beror på den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*När ni hör *iqamah*, gå då fram i lugn och ro. Skynda er inte. Be det som ni har möjlighet att be och fullborda [det som ni har missat]*." [^4] Så den generella innebörden av hans ord: "*Be det som ni har möjlighet att be och fullborda [det som ni har missat]*" inkluderar även den resande som ber bakom en imam som ber fyra bönecykler.
+Men om man ber tillsammans med en imam som ber en oförkortad bön, då måste man be fyra bönecykler oavsett om man hinner med bönen från början eller om man missar delar av den. Detta beror på den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*När ni hör *iqamah*, gå då fram i lugn och ro. Skynda er inte. Be det som ni har möjlighet att be och fullborda [det som ni har missat]*." [^4] Så den allmänna innebörden av hans ord: "*Be det som ni har möjlighet att be och fullborda [det som ni har missat]*" innefattar även den resande som ber bakom en imam som ber fyra bönecykler.
 
 Ibn 'Abbas ställdes frågan: "*Varför är det så att en resenär ber två bönecykler om denne ber ensam och fyra om denne leds av en hemmavarande imam?" Han svarade: "Det är *sunnah*."
 
@@ -29,7 +29,7 @@ Kravet att be i församlingen gäller fortfarande för resenären. Allāh den Up
 
 > ”När du befinner dig hos de troende och leder dem i bön, låt då en grupp stå upp tillsammans med dig och låt dem behålla sina vapen. När de har avslutat bönen, låt dem ge er betäckning och låt en annan grupp som ännu inte har förrättat sin bön, stiga fram och be med dig.” [Koranen 4:102]
 
-Om en resenär då befann sig i en annan stad eller i ett annat land än sitt eget, då måste denne närvara vid församlingsbönen i moskén om denne hör böneutropet, om denne inte är långt från moskén eller rädd för att tappa bort sitt resesällskap. Detta är enligt det generella i bevisen som visar på skyldigheten att be i församlingen om någon hör böneutropet eller *iqamah*.
+Om en resenär då befann sig i en annan stad eller i ett annat land än sitt eget, då måste denne närvara vid församlingsbönen i moskén om denne hör böneutropet, om denne inte är långt från moskén eller rädd för att tappa bort sitt resesällskap. Detta är enligt det allmänna i bevisen som visar på skyldigheten att be i församlingen om någon hör böneutropet eller *iqamah*.
 
 Resenären ber alla frivilliga böner utom *sunnah* förmiddagsbönen[^1], kvällsbönen och nattbönen. Den resande ber *witr* varje natt, förmiddagsbön, *sunnah* [innan] gryningsbönen och andra icke-obligatoriska böner utöver de fasta *sunnah*-bönerna.
 

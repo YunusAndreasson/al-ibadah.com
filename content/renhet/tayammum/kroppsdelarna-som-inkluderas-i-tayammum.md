@@ -1,5 +1,5 @@
 ---
-title: Kroppsdelarna som inkluderas i tayammum
+title: Kroppsdelarna som innefattas i tayammum
 author: Ibn ´Abdur-Rahman al-Jibrin
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
@@ -11,11 +11,11 @@ categories:
 original_id: 1569
 description: >-
   Fråga: Är det tillåtet att tvaga sig med en sten som inte lämnar
-  stoftpartiklar i handen? Vilka är de kroppsdelar som inkluderas i tayammum?
+  stoftpartiklar i handen? Vilka är de kroppsdelar som innefattas i tayammum?
   Hur många böner får bes med en tayammum? Svar: ...
 ---
 
-**Fråga:** Är det tillåtet att tvaga sig med en sten som inte lämnar stoftpartiklar i handen? Vilka är de kroppsdelar som inkluderas i *tayammum*? Hur många böner får bes med en *tayammum*?
+**Fråga:** Är det tillåtet att tvaga sig med en sten som inte lämnar stoftpartiklar i handen? Vilka är de kroppsdelar som innefattas i *tayammum*? Hur många böner får bes med en *tayammum*?
 
 **Svar:** Vissa lärda anser att det är ett villkor för *tayammum* att det finns jord med stoftpartiklar som fastnar på händerna. Som bevis för detta har de citerat Allāhs den Upphöjdes Ord:
 

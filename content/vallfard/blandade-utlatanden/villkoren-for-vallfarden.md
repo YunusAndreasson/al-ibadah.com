@@ -30,7 +30,7 @@ När det gäller barn som inte har uppnått könsmognad är deras vallfärd gilt
 
 En ägd slav behöver inte vallfärda även om det är en obligatorisk vallfärd. Detta beror på att denne är sysselsatt med att tjäna sin herre. Utförs den är den dock giltig och slaven belönas för den.
 
-När det gäller förmåga har Allāh endast gjort vallfärden obligatorisk för dem som har möjlighet att utföra den. "Förmåga" har förklarats som att man har tillgångar och transportmedel som är lämpliga. Detta gäller när man har uppfyllt sina egna och familjens grundläggande behov tills man återvänder från vallfärden. Detta är de generella villkoren.
+När det gäller förmåga har Allāh endast gjort vallfärden obligatorisk för dem som har möjlighet att utföra den. "Förmåga" har förklarats som att man har tillgångar och transportmedel som är lämpliga. Detta gäller när man har uppfyllt sina egna och familjens grundläggande behov tills man återvänder från vallfärden. Detta är de allmänna villkoren.
 
 Det finns ett sjätte villkor som vissa lärda har lagt till, vilket är att vägen dit ska vara säker. Detta kan dock troligen räknas in i villkoret att ha möjlighet.
 

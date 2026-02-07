@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Är det ett villkor att jorden som man gör *tayammum* med innehåller verkliga stoftpartiklar?
 
-**Svar:** Den starkaste åsikten säger att det inte är ett villkor för *tayammum* att det finns stoftpartiklar i den. Faktum är att om man gör *tayammum* mot marken så är det tillräckligt oavsett om där finns stoftpartiklar eller ej. Regnar det så stryker man marken med sina händer och sedan stryker man över ansiktet och händerna. Detta [gäller] även om det inte finns några stoftpartiklar på marken. Allāh den Upphöjde säger:
+**Svar:** Den starkaste åsikten säger att det inte är ett villkor för *tayammum* att det finns stoftpartiklar i den. Saken är den att om man gör *tayammum* mot marken så är det tillräckligt oavsett om där finns stoftpartiklar eller ej. Regnar det så stryker man marken med sina händer och sedan stryker man över ansiktet och händerna. Detta [gäller] även om det inte finns några stoftpartiklar på marken. Allāh den Upphöjde säger:
 
 > ”Och om ni befinner er i ett tillstånd av stor rituell orenhet, ska ni rena er [genom att skölja hela kroppen].” [Koranen 5:6]
 

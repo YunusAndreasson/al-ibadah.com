@@ -19,7 +19,7 @@ description: >-
 
 En dag, efter ett bråk ägt rum mellan henne och hennes styvfader, återvände hon till lägenheten i ett eländigt tillstånd med anledning av de problem hon hade och avståndet till barnen. Hon tog en flaska piller från kylen och svalde alla för att ta sitt liv. Jag tog henne till sjukhuset och hon gavs behandling under några dagar men det var redan för sent. Innan hon dog, i vetskap om att hennes tid på jorden var kort, ångrade hon sig hela tiden och bad Allāh den Allsmäktige att förlåta henne för vad hon gjort. Hon bad även oss att be Allāh den Allsmäktige att förlåta henne. Vilken är hennes position nu? Får jag ge i välgörenhet och vallförda för hennes räkning?
 
-**Svar:** Så länge din syster ångrade sig innan hon avled hoppas vi att hon förlåts. Ånger nollställer allt som hänt tidigare och en person som ångrar sig för sina synder är som en person som inte har några synder. Detta baseras på en *hadīth* från profeten. Om du ger i välgörenhet för hennes räkning eller om du ber för henne kommer hon dra nytta av det och du kommer att bli belönad.
+**Svar:** Så länge din syster ångrade sig innan hon avled hoppas vi att hon förlåts. Ånger nollställer allt som hänt tidigare och en person som ångrar sig för sina synder är som en person som inte har några synder. Detta grundas på en *hadīth* från profeten. Om du ger i välgörenhet för hennes räkning eller om du ber för henne kommer hon dra nytta av det och du kommer att bli belönad.
 
 Du bör även uppfylla alla dina plikter då Allāh den Allsmäktige prisar dem som uppfyller dem.
 

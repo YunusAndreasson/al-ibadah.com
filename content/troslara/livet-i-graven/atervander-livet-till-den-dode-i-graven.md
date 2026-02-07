@@ -15,7 +15,7 @@ description: >-
   från dessa frågor blir klart att denne är en i...
 ---
 
-**Fråga:** Jag har hört att de lärde säger att den som har avlidit kommer att återfå livet i graven, att de får besvara frågor från änglar och att om det från dessa frågor blir klart att denne är en icke-troende som inte praktiserade islam under sitt liv här i denna världen, då kommer denne att straffas. Jag har inte funnit några bevis för detta i den Heliga Koranen som klargör utfrågningen och straffet i graven. Allāh säger:
+**Fråga:** Jag har hört att de lärde säger att den som har avlidit kommer att återfå livet i graven, att de får besvara frågor från änglar och att om det från dessa frågor blir klart att denne är en icke-troende som inte utövade islam under sitt liv här i denna världen, då kommer denne att straffas. Jag har inte funnit några bevis för detta i den Heliga Koranen som klargör utfrågningen och straffet i graven. Allāh säger:
 
 > ”[Då säger Gud till den rättfärdige:] ”Du själ, som har kommit till ro! Vänd tillbaka till den Herre, tillfredställd [med Hans gåvor och] omsluten av Hans välbehag! Stig in med skaran av *Mina* tjänare! Stig in i mitt Paradis!” [Koranen 89:27 – 30]
 
@@ -31,7 +31,7 @@ Detta bevisar att de icke-troende sover och sömn i graven omöjliggör ett stra
 
 Slutligen hoppas jag på ett tillfredställande svar från er, vilket era svar alltid har varit.
 
-**Svar:** Precis som utlåtanden hämtas från Koranen, hämtas de även från profetens – över honom vare Allāhs frid och välsignelser – *sunnah*; hans ord, handlingar och sådant som han godkände. Detta baserar på den generella innebörden av Allāhs ord:
+**Svar:** Precis som utlåtanden hämtas från Koranen, hämtas de även från profetens – över honom vare Allāhs frid och välsignelser – *sunnah*; hans ord, handlingar och sådant som han godkände. Detta grundas på den allmänna innebörden av Allāhs ord:
 
 > ”Tag alltså emot vad [Hans] Sändebud ger er [av detta] och avstå [villigt] från det som han nekar er; och frukta Gud; Gud straffar med stränghet.” [Koranen 59:7]
 
@@ -39,7 +39,7 @@ Detta beror på att han inte talar från sina egna åsikter utan han föreskrive
 
 > ”Och han talar inte av egen drift – nej, [det är] uppenbarelsens ord, som en av de allra mäktigaste lär honom.” [Koranen 53:3 – 5]
 
-Generellt sett är lydnaden mot honom och den lag som han förde med sig ett bevis för ens tro och kärlek till Allāh. Resultaten av detta är Allāhs kärlek i retur och förlåtelse från Honom för dem som lyder. Allāh säger:
+I allmänhet är lydnaden mot honom och den lag som han förde med sig ett bevis för ens tro och kärlek till Allāh. Resultaten av detta är Allāhs kärlek i retur och förlåtelse från Honom för dem som lyder. Allāh säger:
 
 > ”Säg [Muḥammad]: 'Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
 
@@ -69,7 +69,7 @@ Detta visar att det finns ett straff innan Timmen kommer, vilket innebär att de
 
 > ”Låt dem därför vara till dess de får se den Dag vars [fasor] kommer att driva dem från vettet, den Dag då deras list inte ska vara dem till någon nytta och de inte finner hjälp någonstans. De som ständigt begår orätt [ska straffas] redan innan [den Dagen kommer], men de flesta av dem är ovetande [om detta].” [Koranen 52:45 – 47]
 
-Detta bevisar att de icke-troende kommer att få lida av ett straff innan Timmen börjar. Detta är generellt och täcker de straff som Allāh kan tillfoga dem i detta livet samt det straff som Han kommer att tillfoga dem i deras gravar, innan de återuppväcks för det stora straffet. Autentiska *ahādīth* bekräftar att profeten – över honom vare Allāhs frid och välsignelser – brukade söka skydd hos Allāh från straffet i graven och han beordrade följeslagarna att göra samma sak. Det har även bekräftats att han brukade rikta sig till folket efter solförmörkelsebönen och beordra dem att söka sin tillflykt hos Allāh från straffet i graven. Han gjorde samma sak tre gånger vid gravplatsen i Gharqad medan han grävde en grav för en av hans avlidna följeslagare. Om inte straffet i graven hade varit ett faktum hade han inte sökt skydd hos Allāh från det och han hade heller inte beordrat följeslagarna att göra så.
+Detta bevisar att de icke-troende kommer att få lida av ett straff innan Timmen börjar. Detta är allmänt och täcker de straff som Allāh kan tillfoga dem i detta livet samt det straff som Han kommer att tillfoga dem i deras gravar, innan de återuppväcks för det stora straffet. Autentiska *ahādīth* bekräftar att profeten – över honom vare Allāhs frid och välsignelser – brukade söka skydd hos Allāh från straffet i graven och han beordrade följeslagarna att göra samma sak. Det har även bekräftats att han brukade rikta sig till folket efter solförmörkelsebönen och beordra dem att söka sin tillflykt hos Allāh från straffet i graven. Han gjorde samma sak tre gånger vid gravplatsen i Gharqad medan han grävde en grav för en av hans avlidna följeslagare. Om inte straffet i graven hade varit ett faktum hade han inte sökt skydd hos Allāh från det och han hade heller inte beordrat följeslagarna att göra så.
 
 Beträffande Allāhs ord:
 

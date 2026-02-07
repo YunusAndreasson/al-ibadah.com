@@ -20,5 +20,5 @@ Dessa speciella förtjänster betyder nödvändigtvis inte överlägsenhet. Att 
 
 För att fatta oss kort så är det Allāh som bestämmer allt. Han arrangerar allt som Han vill och Han tillfrågas inte om vad Han gör. Han har ju en perfekt visdom och kunskap.
 
-Denna fråga är dessutom inte i linje med en stadig tro. Sannerligen kan den som fokuserar på dessa frågor bli förvirrad och börja grubbla för mycket. Den troende är skyldig att acceptera alla frågor där beslutet tillhör Allāh, och att vara ihärdig i de frågor som utgår från tjänaren, båda i tro och handling. Detta är enligt Profeternas, Budbärarnas, de ädla kalifernas och de korrekt vägledda första generationernas sätt.
+Denna fråga är dessutom inte i linje med en stadig tro. Sannerligen kan den som uppehåller sig vid dessa frågor bli förvirrad och börja grubbla för mycket. Den troende är skyldig att acceptera alla frågor där beslutet tillhör Allāh, och att vara ihärdig i de frågor som utgår från tjänaren, båda i tro och handling. Detta är enligt Profeternas, Budbärarnas, de ädla kalifernas och de korrekt vägledda första generationernas sätt.
 

@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Om en resenär han med de båda sista bönecyklerna med en imam som inte ber som gäst, kan denne då göra *taslīm* med honom för att förkorta bönen?
 
-**Svar:** Resenären får inte förkorta bönen om denne fullföljer med en imam. Detta enligt den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*Be det som du hinner med av bönen och fullfölj det som du har missat*." [^1]
+**Svar:** Resenären får inte förkorta bönen om denne fullföljer med en imam. Detta enligt den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*Be det som du hinner med av bönen och fullfölj det som du har missat*." [^1]
 
 Med detta som grund: Om resenären han med de två sista bönecyklerna av bönen med imamen som inte bad som gäst, då måste denne be två bönecykler efter imamens *taslīm*. Denne får inte göra *taslīm* med imamen genom att korta den till två bönecykler.
 

@@ -1,27 +1,9 @@
 @import "tailwindcss";
 
-/* View Transitions API - smooth page navigation */
-@view-transition {
-  navigation: auto;
-}
-
-/* Subtle crossfade animation */
-::view-transition-old(root) {
-  animation: fade-out 0.15s ease-out;
-}
-
+/* Disable view transition animations - let ClientRouter handle instant swaps */
+::view-transition-old(root),
 ::view-transition-new(root) {
-  animation: fade-in 0.15s ease-in;
-}
-
-@keyframes fade-out {
-  from { opacity: 1; }
-  to { opacity: 0; }
-}
-
-@keyframes fade-in {
-  from { opacity: 0; }
-  to { opacity: 1; }
+  animation: none;
 }
 
 /* Disable view transitions for reduced motion preference */
@@ -33,9 +15,9 @@
 
 /* Design System Tokens */
 @theme {
-  /* Font Families - modern browsers only, simplified stacks */
-  --font-sans: 'Inter', system-ui, sans-serif;
-  --font-serif: 'Source Serif 4', Charter, 'Bitstream Charter', Georgia, serif;
+  /* Font Families - self-hosted via fontsource */
+  --font-sans: 'Inter Variable', system-ui, sans-serif;
+  --font-serif: 'Source Serif 4 Variable', Charter, 'Bitstream Charter', Georgia, serif;
   --font-arabic: 'Amiri', serif;
 
   /* Typography Scale (Minor Third 1.2) */
@@ -64,6 +46,7 @@
   --color-primary: oklch(0.25 0.02 55);
   --color-primary-foreground: oklch(0.97 0.01 75);
   --color-ring: oklch(0.55 0.02 55);
+  --color-blockquote: var(--color-muted-foreground);
 }
 
 /* Dark mode - warm charcoal palette */
@@ -79,6 +62,7 @@
   --color-primary: oklch(0.88 0.01 75);
   --color-primary-foreground: oklch(0.20 0.015 55);
   --color-ring: oklch(0.58 0.01 55);
+  --color-blockquote: oklch(0.72 0.01 55);
 }
 
 /* Base styles */
@@ -90,7 +74,6 @@ html {
   font-optical-sizing: auto;
   text-size-adjust: none;
   scroll-behavior: smooth;
-  color-scheme: light dark;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -110,7 +93,6 @@ html {
 body {
   background-color: var(--color-background);
   color: var(--color-foreground);
-  transition: background-color 0.3s ease, color 0.3s ease;
   overflow-wrap: break-word;
 }
 
@@ -200,12 +182,6 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.05em;
   opacity: 0.7;
-  margin-top: 2rem;
-  margin-bottom: 0.75rem;
-}
-
-.section-label:first-child {
-  margin-top: 0;
 }
 
 .prose-reading a {
@@ -247,7 +223,7 @@ body {
   border-left: 3px solid var(--color-muted-foreground);
   padding-left: 1.25rem;
   margin: 1.5em 0;
-  color: var(--color-muted-foreground);
+  color: var(--color-blockquote);
 }
 
 .prose-reading blockquote p:last-child {
@@ -256,10 +232,6 @@ body {
 
 .prose-reading blockquote + blockquote {
   margin-top: 1.5em;
-}
-
-.dark .prose-reading blockquote {
-  color: oklch(0.72 0.01 55);
 }
 
 .prose-reading ul,
@@ -393,14 +365,15 @@ body {
   margin: -0.2em;
 }
 
-/* Footnote tooltip - desktop only */
+/* Hover tooltips - footnotes and glossary terms (desktop only) */
 @media (hover: hover) {
-  .prose-reading sup a[data-footnote-ref][data-tooltip] {
+  .prose-reading sup a[data-footnote-ref][data-tooltip],
+  .prose-reading .glossary-term {
     position: relative;
   }
 
-  .prose-reading sup a[data-footnote-ref][data-tooltip]:hover::after {
-    content: attr(data-tooltip);
+  .prose-reading sup a[data-footnote-ref][data-tooltip]:hover::after,
+  .prose-reading .glossary-term:hover::after {
     position: absolute;
     bottom: 100%;
     left: 0;
@@ -420,6 +393,14 @@ body {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     white-space: normal;
     z-index: 10;
+  }
+
+  .prose-reading sup a[data-footnote-ref][data-tooltip]:hover::after {
+    content: attr(data-tooltip);
+  }
+
+  .prose-reading .glossary-term:hover::after {
+    content: attr(data-definition);
   }
 }
 
@@ -585,33 +566,4 @@ body {
   font-style: italic;
 }
 
-/* Tooltip on hover - desktop only */
-@media (hover: hover) {
-  .prose-reading .glossary-term {
-    position: relative;
-  }
-
-  .prose-reading .glossary-term:hover::after {
-    content: attr(data-definition);
-    position: absolute;
-    bottom: 100%;
-    left: 0;
-    margin-bottom: 0.5rem;
-    padding: 0.5rem 0.75rem;
-    max-width: min(280px, 80vw);
-    width: max-content;
-    font-family: var(--font-sans);
-    font-size: 0.8125rem;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5;
-    color: var(--color-foreground);
-    background-color: var(--color-background);
-    border: 1px solid var(--color-border);
-    border-radius: 0.375rem;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-    white-space: normal;
-    z-index: 10;
-  }
-}
 

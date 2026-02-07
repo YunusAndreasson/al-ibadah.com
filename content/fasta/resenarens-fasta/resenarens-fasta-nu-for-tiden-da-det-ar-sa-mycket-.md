@@ -31,7 +31,7 @@ Utlåtandet om resenären är att denne får välja mellan att fasta och att bry
 
 Är det svårt för den resande att fasta bör denne inte fasta. Det är inte rättfärdigt att fasta under dessa omständigheter när man reser. Allāhs sändebud såg en man skuggas medan folket samlades runt omkring honom. Han sade: "*Vad är detta?*" De sade: "*Han fastade.*" Han [Profeten] sade: "*Det är inte rättfärdigt att fasta medan [man] reser.*" [^3]
 
-Detta generella utlåtande gäller för vem som helst i en situation likt den med mannen som fann det svårt att fasta.
+Detta allmänna utlåtande gäller för vem som helst i en situation likt den med mannen som fann det svårt att fasta.
 
 Därför säger vi att i dagsläget är det lätt att resa, vilket frågeställaren har sagt, och det är i de flesta fall inte svårt att fasta medan man reser. Så om det inte är svårt att fasta, då är det bättre om man fastar.
 

@@ -2,8 +2,16 @@
  * Content Selection Types
  */
 
-import type { ArticleData } from '~/generated/content-data'
 import type { OccasionType } from '~/lib/hijri'
+
+export interface CompactArticle {
+  id: string
+  title: string
+  author?: string
+  description?: string
+  wordCount: number
+  questionText?: string
+}
 
 export interface SelectionOptions {
   maxCount: number
@@ -17,7 +25,7 @@ export interface SectionContent {
   type: OccasionType | 'deep-reads' | 'important-questions'
   titleSv: string
   titleAr: string
-  articles: ArticleData[]
+  articles: CompactArticle[]
   isUpcoming?: boolean
   daysUntil?: number
 }

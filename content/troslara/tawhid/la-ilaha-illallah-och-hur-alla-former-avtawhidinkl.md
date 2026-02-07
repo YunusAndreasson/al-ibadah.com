@@ -1,5 +1,5 @@
 ---
-title: Hur alla former av tawhid inkluderas i trosbekännelsen
+title: Hur alla former av tawhid innefattas i trosbekännelsen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
@@ -11,13 +11,13 @@ categories:
 original_id: 1074
 description: >-
   Fråga: På vilket sätt täcker vittnesmålet Lā ilāha illAllāh alla former av
-  tawhīd? Svar: Det inkluderar alla former av tawhīd, antingen underförstått
+  tawhīd? Svar: Det innefattar alla former av tawhīd, antingen underförstått
   eller som ett öppet krav. När någon ...
 ---
 
 **Fråga:** På vilket sätt täcker vittnesmålet *Lā ilāha illAllāh* alla former av *tawhīd*?
 
-**Svar:** Det inkluderar alla former av *tawhīd*, antingen underförstått eller som ett öppet krav. När någon säger: ”Jag vittnar om att ingen är värdig att dyrkas utom Allāh” slår det ju en direkt att det som avses är att man bekräftar Allāhs ensamrätt att dyrkas. *Tawhīd[^1] al-uluhiyyah*[^2] kallas detta för och här underförstås [även] *tawhīd[^1] ar-rububiyyah*[^3]. Detta beror på att den som enbart dyrkar Allāh inte skulle göra det om denne inte bekräftar Hans enhet i frågan om herrskap. På samma sätt underförstås här *tawhīd[^1] as-asmā' was-sifāt'*[^4]. Man dyrkar ju inte någon utom Den som man vet har rätten att dyrkas på grund av de namn och egenskaper som tillhör Honom [objektet som dyrkas]. Abraham sade till sin fader:
+**Svar:** Det innefattar alla former av *tawhīd*, antingen underförstått eller som ett öppet krav. När någon säger: ”Jag vittnar om att ingen är värdig att dyrkas utom Allāh” slår det ju en direkt att det som avses är att man bekräftar Allāhs ensamrätt att dyrkas. *Tawhīd[^1] al-uluhiyyah*[^2] kallas detta för och här underförstås [även] *tawhīd[^1] ar-rububiyyah*[^3]. Detta beror på att den som enbart dyrkar Allāh inte skulle göra det om denne inte bekräftar Hans enhet i frågan om herrskap. På samma sätt underförstås här *tawhīd[^1] as-asmā' was-sifāt'*[^4]. Man dyrkar ju inte någon utom Den som man vet har rätten att dyrkas på grund av de namn och egenskaper som tillhör Honom [objektet som dyrkas]. Abraham sade till sin fader:
 
 > ”Fader! Varför tillber du [stenar] som varken kan höra eller se och som är dig till ingen nytta?” [Koranen 19:42]
 

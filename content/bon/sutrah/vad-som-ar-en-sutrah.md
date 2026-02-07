@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Mattans kanter anses inte vara en *sutrah* för Allāhs tjänare. Det som är *sunnah* för *sutrah* är att den är något stående, som en kamelsadel eller något större som en vägg, pelare eller stol. Hittar man inte något sådant, då sätter man en stav eller något liknande i marken framför sig. Det spelar ingen roll om man är imam eller en ensam bedjande. Är man någonstans där man inte kan hitta en *sutrah* så drar man ett sträck.
 
-Detta baseras på profetens – över honom vare Allāhs frid och välsignelser – ord: ”*När någon ber, då bör han be mot en sutrah[^1] och stå nära den*.” [^2] Han har även sagt:
+Detta grundas på profetens – över honom vare Allāhs frid och välsignelser – ord: "*När någon ber, då bör han be mot en sutrah[^1] och stå nära den*.” [^2] Han har även sagt:
 
 > ”En muslimsk mans bön bryts av en kvinna, en åsna och en svart hund om han inte har något som en kamelsadel framför sig.” [*Muslim* 510, *Abū Dawūd* 702 och *Ahmad* 1:247, 347]
 

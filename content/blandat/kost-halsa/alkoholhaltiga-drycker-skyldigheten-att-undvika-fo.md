@@ -8,7 +8,7 @@ source: >-
   Dar us-Salam. ISBN saknas
 categories:
   - Blandat
-  - Kost & hälsa
+  - Kost och hälsa
 original_id: 1632
 description: >-
   Fråga: En man som dricker alkoholhaltiga drycker avser att hålla sig borta

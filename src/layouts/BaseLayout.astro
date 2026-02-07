@@ -1,0 +1,69 @@
+---
+import { ClientRouter } from 'astro:transitions'
+import '@fontsource-variable/inter'
+import '@fontsource-variable/source-serif-4'
+import '@fontsource-variable/source-serif-4/wght-italic.css'
+import '@fontsource/amiri/400.css'
+import '@fontsource/amiri/400-italic.css'
+import '@fontsource/amiri/700.css'
+import '~/styles/app.css'
+
+interface Props {
+  title?: string
+  description?: string
+  article?: boolean
+}
+
+const {
+  title = 'al-Ibadah - Islamisk kunskapssamling',
+  description = 'En kunskapssamling om islamisk dyrkan och teologi på svenska.',
+  article = false,
+} = Astro.props
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site)
+---
+
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+
+    <link rel="canonical" href={canonicalURL} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="alternate" type="application/rss+xml" title="al-Ibadah" href="/rss.xml" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content={article ? 'article' : 'website'} />
+    <meta property="og:locale" content="sv_SE" />
+    <meta property="og:site_name" content="al-Ibadah" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalURL} />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+
+    <script is:inline>
+      (function(){
+        var t=localStorage.getItem("theme")||"system",d=t==="dark"||t==="system"&&matchMedia("(prefers-color-scheme:dark)").matches;
+        document.documentElement.classList.toggle("dark",d);
+        document.documentElement.style.colorScheme=d?"dark":"light";
+        document.addEventListener("astro:before-swap",function(e){
+          var t=localStorage.getItem("theme")||"system",d=t==="dark"||t==="system"&&matchMedia("(prefers-color-scheme:dark)").matches;
+          e.newDocument.documentElement.classList.toggle("dark",d);
+          e.newDocument.documentElement.style.colorScheme=d?"dark":"light";
+        })
+      })()
+    </script>
+
+    <ClientRouter />
+  </head>
+  <body class="bg-background text-foreground antialiased min-h-screen">
+    <slot />
+  </body>
+</html>

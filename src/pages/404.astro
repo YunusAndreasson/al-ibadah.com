@@ -1,0 +1,16 @@
+---
+import BaseLayout from '~/layouts/BaseLayout.astro'
+import PageLayout from '~/components/layout/PageLayout.astro'
+---
+
+<BaseLayout title="Sidan hittades inte - al-Ibadah">
+  <PageLayout>
+    <div class="flex min-h-[50vh] flex-col items-center justify-center">
+      <h1 class="text-2xl font-bold text-foreground">Sidan hittades inte</h1>
+      <p class="mt-2 text-muted-foreground">Sidan du söker finns inte eller har flyttats.</p>
+      <a href="/" class="mt-4 text-primary hover:underline">
+        Tillbaka till startsidan
+      </a>
+    </div>
+  </PageLayout>
+</BaseLayout>

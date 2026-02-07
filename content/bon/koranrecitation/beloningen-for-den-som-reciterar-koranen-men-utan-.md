@@ -6,7 +6,7 @@ source: >-
   Dar us-Salam. ISBN saknas
 categories:
   - Bön (Salāh)
-  - Koranrecitation
+  - Koranläsning
 original_id: 1663
 description: >-
   Fråga: Även om jag inte förstår innebörden reciterar jag ofta Koranen. Belönar

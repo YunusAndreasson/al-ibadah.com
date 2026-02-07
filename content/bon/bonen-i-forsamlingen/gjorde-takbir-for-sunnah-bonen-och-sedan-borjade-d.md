@@ -20,9 +20,9 @@ description: >-
 
 Vissa lärda anser att han bör fullfölja den snabbt. De baserar det på Allāhs ord: ”*Troende! Lyd Gud och lyd Sändebudet och låt inte era [goda] handlingar gå förlorade!*” [^5]
 
-De tolkar den ovan nämnda *hadithen* som att den syftar på den som har börjat *sunnah*-bönen efter *iqāmah*. Den korrekta åsikten är dock det första uttalandet. Den *hadīth* som nämnts täcker ju båda situationerna. Andra *ahādīth* har rapporterats som visar att detta är generellt och att han sade detta då han såg en man be medan böneutroparen ropade ut *iqāmah*.
+De tolkar den ovan nämnda *hadithen* som att den syftar på den som har börjat *sunnah*-bönen efter *iqāmah*. Den korrekta åsikten är dock det första uttalandet. Den *hadīth* som nämnts täcker ju båda situationerna. Andra *ahādīth* har rapporterats som visar att detta är allmänt och att han sade detta då han såg en man be medan böneutroparen ropade ut *iqāmah*.
 
-Koranversen är generell och *hadithen* är specifik. Utan att motsäga det väger det specifika tyngre än det generella, vilket är känt från *usulul-fiqh*[^3] [Grunderna i islamisk rättsvetenskap] och *mustalatul-hadīth*[^2] [Tekniskt språkbruk i *hadīth*].
+Koranversen är allmän och *hadithen* är särskild. Utan att motsäga det väger det särskilda tyngre än det allmänna, vilket är känt från *usulul-fiqh*[^3] [Grunderna i islamisk rättsvetenskap] och *mustalatul-hadīth*[^2] [Tekniskt språkbruk i *hadīth*].
 
 Men om bönen börjar och man redan har utfört en andra bönecykel, då syndar man inte om man fullföljer den. Bönen är ju nästan över och det återstår endast en liten del av denna bönecykel.
 

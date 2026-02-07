@@ -22,7 +22,7 @@ En bra åkallan som kan reciteras under Allmaktens Natt[^1] är den som profeten
 
 > ”Jag sade: 'Allāhs sändebud, om jag vet vilken natt som är Allmaktens Natt[^1], vad bör jag säga under den natten?' Han sade: 'Säg: *Allāhumma inaka 'afuwwun tuhibb al-'afwa fa'affu 'anni* [Allāh, Du är förlåtande och Du älskar förlåtelse, så förlåt mig].’”
 
-Beträffande att ange vilken natt under *ramadan* som är Allmaktens Natt[^1], då behöver detta specifika bevis. Nätterna med udda nummer under de sista tio nätterna är dock troligare än andra och den 27:e är troligast Allmaktens Natt[^1]. Anledningen är att den har omnämnts i *ahādīth*.
+Beträffande att ange vilken natt under *ramadan* som är Allmaktens Natt[^1], då behöver detta särskilda bevis. Nätterna med udda nummer under de sista tio nätterna är dock troligare än andra och den 27:e är troligast Allmaktens Natt[^1]. Anledningen är att den har omnämnts i *ahādīth*.
 
 Innovationer är varken tillåtna under *ramadan* eller vid andra tidpunkter. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som för in något i denna våra fråga [islām] som inte är en del av den kommer att få det avvisat*.” Enligt en annan rapport: ”*Den som utför en handling som inte är en del av denna vår fråga [islam] kommer att få den avvisad*.”
 

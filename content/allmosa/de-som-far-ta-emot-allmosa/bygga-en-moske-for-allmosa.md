@@ -25,7 +25,7 @@ description: >-
 7. För Allāhs skull.
 8. Den resande som behöver hjälp.
 
-Frasen ”för Allāhs skull” innebär *djihād* specifikt.
+Frasen ”för Allāhs skull” innebär *djihād* särskilt.
 
 Detta är vad som är känt bland de lärde, och byggandet av en moské är inte omnämnt här. Ej heller nämns byggande av skolor, vägar eller liknande ting.
 

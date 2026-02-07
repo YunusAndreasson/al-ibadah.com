@@ -1,5 +1,5 @@
 ---
-title: Recitation med höjd röst när man ber ensam
+title: Läsning med höjd röst när man ber ensam
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.

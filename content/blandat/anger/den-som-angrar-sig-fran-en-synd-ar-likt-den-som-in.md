@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Då Allāh den Högste beviljat dig ånger och då du nu utför dina obligatoriska islamska plikter, vill jag gratulera dig och jag ber Allāh att Han gör dig stadig längs denna väg, att Han ger dig fler välsignelser, att vi alla får dö med denna tro och att vi uppreses i sällskap med den allra noblaste av människor – Muḥammad.
 
-Din ånger tillintetgör tidigare synder. Detta inkluderar dina böner och att du inte fastade.
+Din ånger tillintetgör tidigare synder. Detta innefattar dina böner och att du inte fastade.
 
 Allāh den Allsmäktige har sagt:
 
@@ -27,6 +27,6 @@ Allāh den Allsmäktige har sagt:
 
 > ”De som, om de begår en skamlös handling eller [på annat sätt] tillfogat sig själv orätt, minns Gud och ber Honom om förlåtelse för sina synder – vem kan förlåta synderna utom Gud? – och som inte fortsätter att begå sådana handlingar mot bättre vetande. Den lön [som väntar] dem ska förbli till evig tid – en härlig belöning för dem som arbetat och strävat!” [Koranen 3:135 – 136]
 
-Baserat på utlåtandet i denna vers behöver du inte ta igen de böner och den fasta du tidigare inte utfört. Men fortsätt att ångra dig, be Allāh om förlåtelse och utför goda handlingar. Allāh den Allsmäktige förlåter de som ångrar sig.
+Grundat på utlåtandet i denna vers behöver du inte ta igen de böner och den fasta du tidigare inte utfört. Men fortsätt att ångra dig, be Allāh om förlåtelse och utför goda handlingar. Allāh den Allsmäktige förlåter de som ångrar sig.
 
 

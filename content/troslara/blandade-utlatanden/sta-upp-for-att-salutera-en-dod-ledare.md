@@ -14,7 +14,7 @@ description: 'Fråga: När en ledare eller president dör, då brukar somliga re
 
 **Fråga:** När en ledare eller president dör, då brukar somliga regeringsrepresentanter stå upp och sörja den avlidne, och när ett statsöverhuvud i arabländerna dör, då brukar somliga muslimska stater stänga affärerna och hissa ned flaggorna från flaggstängerna under den dagen. Är detta tillåtet, i vetskap om att högljutt klagande över den avlidne inte är tillåtet och vad de gör är än värre?
 
-**Svar:** Vad somliga gör när de tysta står upp för att sörja martyrer eller prominenta personer för att hedra dem är motbjudande och det är en innovation som varken praktiserades under profetens – över honom vare Allāhs frid och välsignelser – eller under de rättfärdiga efterträdarnas livstid.
+**Svar:** Vad somliga gör när de tysta står upp för att sörja martyrer eller prominenta personer för att hedra dem är motbjudande och det är en innovation som varken utövades under profetens – över honom vare Allāhs frid och välsignelser – eller under de rättfärdiga efterträdarnas livstid.
 
 Dessa handlingar är heller inte enligt *tawhids* krav eller ett uppriktigt prisande av Allāh.
 

@@ -26,7 +26,7 @@ Om någon säger: Denna anledning, att det är den veckovisa *'eid*, gör det n�
 
 Fastar man dagen före vet vi dock att avsikten inte var att välja ut just fredagen för fasta när man har fastat den föregående dagen, som var en torsdag, eller dagen efter, som var en lördag.
 
-När frågeställaren säger: Gäller detta enbart frivillig fasta eller inkluderas även när man tar igen fastedagar som man är skyldig? Från bevisen ser det ut som att det är generellt och att det är ogillat att välja ut just fredagar för att fasta, oavsett om det är en obligatorisk eller frivillig fasta, om det inte är så att man har ett arbete som man enbart är fri från under fredagar. I detta fall skulle det vara tillåtet att välja ut just fredagen när man har ett behov av det.
+När frågeställaren säger: Gäller detta enbart frivillig fasta eller innefattas även när man tar igen fastedagar som man är skyldig? Från bevisen ser det ut som att det är allmänt och att det är ogillat att välja ut just fredagar för att fasta, oavsett om det är en obligatorisk eller frivillig fasta, om det inte är så att man har ett arbete som man enbart är fri från under fredagar. I detta fall skulle det vara tillåtet att välja ut just fredagen när man har ett behov av det.
 
 
 [^1]: *Muslim* 1144

@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Är det tillåtet för en kvinna att tillsammans med män be över den avlidne?
 
-**Svar:** Den grundläggande princip som rör den dyrkan som Allāh har föreskrivit i Hans skrift och som Hans sändebud har förklarat i sin *sunnah* är att den räknar in både män och kvinnor. Detta gäller så länge det inte finns något som bevisar att något gäller specifikt för män eller kvinnor.
+**Svar:** Den grundläggande princip som rör den dyrkan som Allāh har föreskrivit i Hans skrift och som Hans sändebud har förklarat i sin *sunnah* är att den räknar in både män och kvinnor. Detta gäller så länge det inte finns något som bevisar att något gäller särskilt för män eller kvinnor.
 
 Begravningsbönen är en dyrkan som Allāh och Hans sändebud har föreskrivit och instruktionerna för hur den utförs är riktade till både män och kvinnor. Det är dock sannolikare att män utför den då kvinnor vanligtvis stannar i deras hem. Därmed får kvinnor be över den avlidne och uppfylla skyldigheten om ingen annan än de är närvarande.
 

@@ -20,7 +20,7 @@ description: >-
 
 Därför är en fortlöpande fasta till sen natt innan gryningen något som anses tillåtet men den anses inte vara föreskriven. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har uppmuntrat att skyndsamt bryta fastan. Han har sagt: "*Folket kommer inte att sluta med att hålla sig till gott så länge de skyndar sig till att bryta fastan*." [^2]
 
-Han tillät dock att de fortsatte att fasta till sen natt innan gryningen. När de sade: "*Allāhs sändebud! Sannerligen praktiserar du fortlöpande fasta*", svarade han: "*Sannerligen, jag är inte som ni*." [^3]
+Han tillät dock att de fortsatte att fasta till sen natt innan gryningen. När de sade: "*Allāhs sändebud! Sannerligen utövar du fortlöpande fasta*", svarade han: "*Sannerligen, jag är inte som ni*." [^3]
 
 
 [^1]: *al-Bukhārī* 1967

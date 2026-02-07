@@ -22,7 +22,7 @@ description: >-
 
 **Svar:** När en muslim uppfyller sina plikter och anstränger sig med frivillig lydnad och fortsätter att göra så, då kommer Allāh den Upphöjde att älska honom och stödja honom i allt han gör. När han hör kommer Allāh att hjälpa honom att endast höra det bästa, endast acceptera sanningen och hålla borta det falska. När han ser med ögonen eller sitt hjärta, då ser han genom Allāh ljus, för att därmed bli vägledd av Allāh med genomborrande insikt. Han ser sanningen som sanning och lögnen som lögn. När han slår, då slår han med Allāhs kraft för att stödja sanningen. När han går, då är hans gång endast i lydnad av Allāh, för att söka kunskap eller för att strida för Allāh.
 
-Generellt sett har alla hans inre och yttre handlingar sitt ursprung i Allāhs den Upphöjdes vägledning och kraft.
+I allmänhet har alla hans inre och yttre handlingar sitt ursprung i Allāhs den Upphöjdes vägledning och kraft.
 
 Därför är det klart att de inte finns något bevis i den ovan nämnda *hadithen* för att Allāh reinkarneras i Sin skapelse, eller att Han förenas med den. Detta faktum klargörs även i slutet av *hadithen* ovan då Allāh säger:
 

@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Jag är en ung man som är 19 år gammal och jag har syndat mycket mycket. Jag ber sällan i moskén, jag har aldrig fastat en hel *ramadan* och jag begår många avskyvärda handlingar. Trots att jag ofta tagit beslutet att ångra mig återvänder jag alltid till att synda.
 
-Jag har två grupper av vänner och ingen av dem är praktiserande muslimer. Dessa är mina grannar och min broders vänner som kommer och hälsar på. Vänligen, visa mig hur jag ska komma närmare Allāh den Allsmäktige och längre från att synda.
+Jag har två grupper av vänner och ingen av dem är utövande muslimer. Dessa är mina grannar och min broders vänner som kommer och hälsar på. Vänligen, visa mig hur jag ska komma närmare Allāh den Allsmäktige och längre från att synda.
 
 **Svar:** Allāh den Högste säger:
 
@@ -27,13 +27,13 @@ De lärde är ense om att denna vers uppenbarades för dem som ångrar sig. All�
 
 > ”Troende! Vänd er i uppriktig ånger [över era synder] till Gud! Kanske ska er Herre ur er [bok] utplåna era dåliga handlingar och föra er till lustgårdar, vattnade av bäckar.” [66:8]
 
-Allāh den Allsmäktige nämner här att uppriktig ånger är ett villkor för att gottgöra för ens synder. Men vad är uppriktig ånger? Det är en där du kombinerar följande element:
+Allāh den Allsmäktige nämner här att uppriktig ånger är ett villkor för att gottgöra för ens synder. Men vad är uppriktig ånger? Det är en där du förenar följande element:
 
 1. Du måste låta bli synden och hålla dig borta från den.
 2. Du måste känna ånger över att ha begått den.
 3. Du måste bestämma dig för att inte återvända till dessa synder då du uppmärksammar Allāhs Allsmäktighet, söker Hans belöning och flyr från Hans straff.
 
-Om din synd involverar någons liv, tillgångar eller heder (det vill säga, andra människor rättigheter) finns det ett fjärde villkor. Du måste söka upprättelse för det felaktiga du gjort genom att återgälda vad du felaktigt tagit eller genom att du blir förlåten av dem du handlat felaktigt mot. Om detta är en fråga om heder, som du inte kan ställa till rätta, be då för din broder och nämn honom alltid på bästa sätt, speciellt där du handlat fel mot honom. Anledningen är att goda handlingar stryker ut dåliga:
+Om din synd berör någons liv, tillgångar eller heder (det vill säga, andra människor rättigheter) finns det ett fjärde villkor. Du måste söka upprättelse för det felaktiga du gjort genom att återgälda vad du felaktigt tagit eller genom att du blir förlåten av dem du handlat felaktigt mot. Om detta är en fråga om heder, som du inte kan ställa till rätta, be då för din broder och nämn honom alltid på bästa sätt, speciellt där du handlat fel mot honom. Anledningen är att goda handlingar stryker ut dåliga:
 
 > ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå er väl i händer.” [Koranen 24:31]
 

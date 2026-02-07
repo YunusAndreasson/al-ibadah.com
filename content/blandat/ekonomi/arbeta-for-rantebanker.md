@@ -10,11 +10,11 @@ categories:
 original_id: 1617
 description: >-
   Fråga: Jag är precis på väg att ta examen och min avsikt är att arbeta för en
-  bank som finns i min hemstad. Vilken är er åsikt om detta? Inkluderas
+  bank som finns i min hemstad. Vilken är er åsikt om detta? Inräknas
   anställning hos räntebanker i de ädla ahādīth ...
 ---
 
-**Fråga:** Jag är precis på väg att ta examen och min avsikt är att arbeta för en bank som finns i min hemstad. Vilken är er åsikt om detta? Inkluderas anställning hos räntebanker i de ädla *ahādīth* om ränta?
+**Fråga:** Jag är precis på väg att ta examen och min avsikt är att arbeta för en bank som finns i min hemstad. Vilken är er åsikt om detta? Inräknas anställning hos räntebanker i de ädla *ahādīth* om ränta?
 
 **Svar:** Jag råder dig att inte jobba för en räntebank. Det innebär ju att du hjälper bankens ägare med vad Allāh har förbjudit. Han har sagt: ”*Samarbeta för att befrämja fromhet och gudsfruktan, och slut er inte samman för att befrämja synd och fiendskap*.” [^1]
 

@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Den korrekta åsikten från de lärde – som vi känner till – är att den som avsiktligen överger bönen inte tar igen det som han har missat.
 
-Detta baseras på vad Allāh den Upphöjde har sagt: "*Bönen är alla troendes plikt, knuten till bestämda tider*." [^1]
+Detta grundas på vad Allāh den Upphöjde har sagt: "*Bönen är alla troendes plikt, knuten till bestämda tider*." [^1]
 
 Allāh den Allsmäktige har sagt att den obligatoriska bönen är påbjuden vid speciella tider och att [ängeln] Gabriel klargjorde dessa tider för profeten – över honom vare Allāhs frid och välsignelser – under *al-Mi'raj* [profetens – över honom vare Allāhs frid och välsignelser – resa till himlen]. Profeten – över honom vare Allāhs frid och välsignelser – har sedan inrättat dessa tider för samfundet genom ord och handling.
 

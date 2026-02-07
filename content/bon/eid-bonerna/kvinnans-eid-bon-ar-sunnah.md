@@ -30,7 +30,7 @@ Enligt en annan rapport återberättad av al-Nasā’i har Hafsah bin Sirīn sag
 
 Återberättad av al-Bukhārī [1:84]
 
-Baserat på detta är det tydligt att det är en bekräftad *sunnah* att kvinnorna går ut till och närvar vid *‘eid*-bönen. Detta sker dock under villkor att de inte går ut obeslöjade och visar sig på ett oanständigt sätt. Detta lär vi oss från bevisen.
+Grundat på detta är det tydligt att det är en bekräftad *sunnah* att kvinnorna går ut till och närvar vid *‘eid*-bönen. Detta sker dock under villkor att de inte går ut obeslöjade och visar sig på ett oanständigt sätt. Detta lär vi oss från bevisen.
 
 I fråga om pojkar som uppnått mogen ålder och som går till *‘eid*-bönen, fredagsbönen och så vidare är detta något som är välkänt och föreskrivet inom islam då det finns en stor del bevis för detta.
 

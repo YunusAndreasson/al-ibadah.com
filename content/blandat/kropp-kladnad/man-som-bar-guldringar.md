@@ -6,7 +6,7 @@ source: >-
   Dar us-Salam. ISBN saknas
 categories:
   - Blandat
-  - Kropp & klädnad
+  - Kropp och klädnad
 original_id: 1698
 description: >-
   Fråga: Vilket är utlåtandet om att bära en guldring som vanligtvis brukar

@@ -7,7 +7,6 @@
  * For plain text terms (Swedish) found in the glossary, transforms:
  *   term -> <span class="glossary-term" data-definition="...">term</span>
  *
- * Used during the build process in build-content.ts
  */
 
 import type { Emphasis, Parent, Root, Text } from 'mdast'
@@ -140,4 +139,3 @@ export function remarkGlossaryTerms() {
   }
 }
 
-export default remarkGlossaryTerms

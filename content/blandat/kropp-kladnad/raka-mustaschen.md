@@ -4,7 +4,7 @@ author: Ibn ´Abdullāh Ibn Bāz
 source: Fatāwa al-Lajnah ad-Dā'imah lil-Buhūth al-Ilmiyyah wal-Iftā – fatwā 7293
 categories:
   - Blandat
-  - Kropp & klädnad
+  - Kropp och klädnad
 original_id: 1710
 description: >-
   Fråga: Om en man rakar sin mustasch och låter skägget växa – finns det då

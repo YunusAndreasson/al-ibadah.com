@@ -20,7 +20,7 @@ description: >-
 
 Och han hade inte beordrat hela samlingen att göra det enbart för att han inte kände till personens identitet.
 
-Den korrekta åsikten är att det är obligatoriskt att tvaga sig när man har ätit kamelkött. Det spelar ingen roll om det är lite eller mycket, rått eller kokat och varifrån det har tagits. Detta baseras på profetens – över honom vare Allāhs frid och välsignelser – ord: "*Tvaga efter att ha ätit kamelkött*." [^1]
+Den korrekta åsikten är att det är obligatoriskt att tvaga sig när man har ätit kamelkött. Det spelar ingen roll om det är lite eller mycket, rått eller kokat och varifrån det har tagits. Detta grundas på profetens – över honom vare Allāhs frid och välsignelser – ord: "*Tvaga efter att ha ätit kamelkött*." [^1]
 
 Och en man frågade honom: "*Allāhs sändebud! Bör vi tvaga oss efter att ha ätit get?*" Han svarade: "*Om ni vill*." Han sade: "*Bör vi tvaga oss när vi har ätit kamelkött?*" Han svarade: "*Ja*." [^2]
 

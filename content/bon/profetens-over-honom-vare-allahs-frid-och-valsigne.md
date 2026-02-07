@@ -59,7 +59,7 @@ Be på talarstolen
 
 Det är obligatoriskt att be i riktning mot och vara nära en *sutrah*
 
-1. Det är obligatoriskt att be i riktning mot en *sutrah*. Det är ingen skillnad om det är i en moské eller någon annanstans, och det spelar ingen roll om moskén är stor eller liten. Detta med anledning av den generella innebörden av en *hadīth* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Be inte utan att vara vänd mot en sutrah[^5] och låt ingen passera framför dig. Om han insisterar så strid mot honom för han har en följeslagare [som är djävulen] med sig*.”
+1. Det är obligatoriskt att be i riktning mot en *sutrah*. Det är ingen skillnad om det är i en moské eller någon annanstans, och det spelar ingen roll om moskén är stor eller liten. Detta med anledning av den allmänna innebörden av en *hadīth* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Be inte utan att vara vänd mot en sutrah[^5] och låt ingen passera framför dig. Om han insisterar så strid mot honom för han har en följeslagare [som är djävulen] med sig*.”
 2. Det är obligatoriskt att vara nära en *sutrah* då detta är vad profeten – över honom vare Allāhs frid och välsignelser – har kommenderat.
 3. Mellan platsen där profeten – över honom vare Allāhs frid och välsignelser – nedföll och väggen fanns det en yta nästan stor nog för ett får att passera genom. Den som gör detta är enligt vad som krävs tillräckligt nära [*sutrah*]. Från detta vet vi att vad folk gör i alla moskéer som jag har sett i Syrien och på andra platser, genom att be i mitten av moskén långt ifrån någon vägg eller pelare, endast är försumlighet mot kommenderingen och profetens – över honom vare Allāhs frid och välsignelser – handlande.
 
@@ -75,7 +75,7 @@ Förbud mot att be i riktning mot gravar
 
 Förbud mot att gå framför någon som ber även om det är i den Heliga Moskén i Mecka
 
-1. Det är inte tillåtet att gå framför någon som ber om det finns en *sutrah* framför denne [det är inte tillåtet att komma mellan denne och dennes *sutrah*]. Det spelar ingen roll om detta är i den Heliga Moskén eller i någon annan moské, detsamma gäller alla i fråga om att det inte är tillåtet [att gå framför den som ber]. Detta med anledning av den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Om den som passerar framför någon som ber visste hur stor denna synd var, att stå i fyrtio [år] skulle vara bättre för denne än att passera framför någon som ber*.” Detta avser att passera mellan denne och platsen för dennes nedfallan. Den *hadīth* som talar om profetens – över honom vare Allāhs frid och välsignelser – bön i *Hāshiyat al-Matāf* utan en *sutrah* och med personer som gick framför honom är inte autentisk, även om den inte säger att de gick mellan honom och platsen för hans nedfallan. Den som nedfaller måste hindra den som vill passera framför, även om det är i den Heliga Moskén [i Mecka].
+1. Det är inte tillåtet att gå framför någon som ber om det finns en *sutrah* framför denne [det är inte tillåtet att komma mellan denne och dennes *sutrah*]. Det spelar ingen roll om detta är i den Heliga Moskén eller i någon annan moské, detsamma gäller alla i fråga om att det inte är tillåtet [att gå framför den som ber]. Detta med anledning av den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*Om den som passerar framför någon som ber visste hur stor denna synd var, att stå i fyrtio [år] skulle vara bättre för denne än att passera framför någon som ber*.” Detta avser att passera mellan denne och platsen för dennes nedfallan. Den *hadīth* som talar om profetens – över honom vare Allāhs frid och välsignelser – bön i *Hāshiyat al-Matāf* utan en *sutrah* och med personer som gick framför honom är inte autentisk, även om den inte säger att de gick mellan honom och platsen för hans nedfallan. Den som nedfaller måste hindra den som vill passera framför, även om det är i den Heliga Moskén [i Mecka].
 2. Den som ber mot en *sutrah* får inte låta någon passera framför. Detta med anledning av den *hadīth* som har citerats ovan: ”*Låt ingen passera framför er*…” Och profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*När en av er ber mot något som är en sutrah[^5] mellan denne och folket och någon vill passera framför, då bör denne trycka till honom i bröstkorgen och avvisa honom så mycket han kan*.” Enligt en annan rapport: ”… *denne bör stoppa honom två gånger men om han insisterar bör denne strida mot honom för han är en djävul*.”
 
 Stiga fram för att hindra att någon passerar framför
@@ -88,7 +88,7 @@ Det som bryter bönen
 
 ***Niyyah*** **[intention]**
 
-1. Den som ber måste ha avsikt att be bönen som denne står [för att be]. Denne måste ha avsikt i sitt hjärta för att förrätta en specifik bön, som den obligatoriska bönen förmiddagsbönen[^6] eller för eftermiddagsbönen; eller *sunnah* för dessa böner. Detta är ett krav eller en pelare [väsentlig del] i bönen. Att uttala avsikten med ord är dock en innovation som går emot profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Detta har inte föreslagits av någon av imamerna som vi följer.
+1. Den som ber måste ha avsikt att be bönen som denne står [för att be]. Denne måste ha avsikt i sitt hjärta för att förrätta en bestämd bön, som den obligatoriska bönen förmiddagsbönen[^6] eller för eftermiddagsbönen; eller *sunnah* för dessa böner. Detta är ett krav eller en pelare [väsentlig del] i bönen. Att uttala avsikten med ord är dock en innovation som går emot profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Detta har inte föreslagits av någon av imamerna som vi följer.
 
 ***Takbīr***
 
@@ -101,7 +101,7 @@ Hur man höjer sina händer
 
 1. Man bör höja sina händer före, efter eller när man säger *takbīr*. Dessa sätt finns det bevis för i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*.
 2. Man bör höja dem med sina fingrar utsträckta.
-3. Man bör höja dem i nivå med sina axlar eller ibland tills dem är i nivå med örsnibbarna. Att röra örsnibbarna med tummarna finns det ingen grund för i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Enligt min mening har detta i stället att göra med *waswās*.
+3. Man bör höja dem i nivå med sina axlar eller ibland tills dem är i nivå med örsnibbarna. Att röra örsnibbarna med tummarna finns det ingen grund för i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Enligt min mening beror detta i stället på *waswās*.
 
 Var händerna ska placeras
 
@@ -311,7 +311,7 @@ Recitera *qunūt* under stora svårigheter
 
 1. Det är *sunnah* att recitera *qunūt* och be för muslimerna när någon katastrof drabbar dem.
 2. *Qunūt* reciterar man när man har rest sig upp från bugningen sägandes ”*Rabbanā wa laka’l-hamd* [vår Herre, lovprisad vare Du].”
-3. Det finns ingen specifik åkallan som vanligtvis bör reciteras i *qunūt*, i stället reciterar man något som är lämpligt när stora svårigheter inträffar.
+3. Det finns ingen bestämd åkallan som vanligtvis bör reciteras i *qunūt*, i stället reciterar man något som är lämpligt när stora svårigheter inträffar.
 4. När man reciterar denna åkallan höjer man sina händer.
 5. Är man imam reciterar man den högt.
 6. De som ber bakom säger ”*āmīn*” för denna åkallan.

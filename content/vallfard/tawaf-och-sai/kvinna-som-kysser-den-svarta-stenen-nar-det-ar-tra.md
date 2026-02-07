@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Jag såg någon utföra *tawāf* och han tryckte fram sina kvinnor [fruar och döttrar] för att de skulle kyssa Stenen. Vilken av dessa handlingar är bäst – att kyssa stenen eller att undvika trängsel tillsammans med män?
 
-**Svar:** Om frågeställaren såg denna häpnadsväckande händelse, då har jag sett något ännu otroligare. Jag såg någon ställa sig upp innan han hade gjort *taslīm* för att avsluta den obligatoriska bönen i församlingen, för att han med kraft skulle kunna springa framåt för att kyssa Stenen! Han gjorde på så sätt den obligatoriska bönen [som är en av islams pelare] ogiltig för att han skulle kunna göra detta som varken är obligatoriskt eller föreskrivet [utom om den kombineras med *tawāf*].
+**Svar:** Om frågeställaren såg denna häpnadsväckande händelse, då har jag sett något ännu otroligare. Jag såg någon ställa sig upp innan han hade gjort *taslīm* för att avsluta den obligatoriska bönen i församlingen, för att han med kraft skulle kunna springa framåt för att kyssa Stenen! Han gjorde på så sätt den obligatoriska bönen [som är en av islams pelare] ogiltig för att han skulle kunna göra detta som varken är obligatoriskt eller föreskrivet [utom om den förenas med *tawāf*].
 
 Detta har sitt ursprung i folkets okunskap, det är okunskap som får en att känna sig ledsen.
 

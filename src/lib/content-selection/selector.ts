@@ -4,71 +4,30 @@
  */
 
 import { type ContentSource, OCCASION_CONTENT_CONFIG } from '~/data/occasion-config'
-import { type ArticleData, contentData } from '~/generated/content-data'
 import { getNextUpcomingOccasion, type OccasionType } from '~/lib/hijri'
 import { getDailyRotationSeed, selectWithRotation } from './rotation'
-import type { SectionContent, SelectionOptions } from './types'
+import type { CompactArticle, SectionContent, SelectionOptions } from './types'
 
 /** Default max question length for startpage cards */
 const DEFAULT_MAX_QUESTION_LENGTH = 400
 
 /**
- * Extract the question text from article HTML (everything between "Fråga:" and "Svar:")
- */
-function extractQuestionText(html: string): string | undefined {
-  const match = html.match(
-    /<strong[^>]*>Fråga:<\/strong>\s*([\s\S]*?)(?=<strong[^>]*>Svar:<\/strong>|$)/i
-  )
-  if (match?.[1]) {
-    return match[1]
-      .replace(/<sup[^>]*>.*?<\/sup>/gi, '')
-      .replace(/<[^>]*>/g, ' ')
-      .replace(/\s+/g, ' ')
-      .trim()
-  }
-  return undefined
-}
-
-/**
- * Get all articles from the content data as a flat array
- */
-function getAllArticles(): ArticleData[] {
-  const articles: ArticleData[] = []
-
-  for (const category of contentData) {
-    articles.push(...category.articles)
-    for (const subcategory of category.subcategories) {
-      articles.push(...subcategory.articles)
-    }
-  }
-
-  return articles
-}
-
-/**
  * Get articles from a specific subcategory path
- * e.g., "fasta/nattbon" -> articles in /fasta/nattbon/*
+ * e.g., "fasta/nattbon" -> articles whose id starts with "fasta/nattbon/"
  */
-function getArticlesBySubcategory(subcategoryPath: string): ArticleData[] {
-  const [categorySlug, subcategorySlug] = subcategoryPath.split('/')
-
-  const category = contentData.find((c) => c.slug === categorySlug)
-  if (!category) return []
-
-  const subcategory = category.subcategories.find((s) => s.slug === subcategorySlug)
-  if (!subcategory) return []
-
-  return subcategory.articles
+function getArticlesBySubcategory(
+  articles: CompactArticle[],
+  subcategoryPath: string
+): CompactArticle[] {
+  return articles.filter((a) => a.id.startsWith(subcategoryPath + '/'))
 }
 
 /**
  * Get articles by keyword match (in title or description)
  */
-function getArticlesByKeyword(keyword: string): ArticleData[] {
-  const allArticles = getAllArticles()
+function getArticlesByKeyword(articles: CompactArticle[], keyword: string): CompactArticle[] {
   const lowerKeyword = keyword.toLowerCase()
-
-  return allArticles.filter((article) => {
+  return articles.filter((article) => {
     const titleMatch = article.title.toLowerCase().includes(lowerKeyword)
     const descMatch = article.description?.toLowerCase().includes(lowerKeyword)
     return titleMatch || descMatch
@@ -78,22 +37,21 @@ function getArticlesByKeyword(keyword: string): ArticleData[] {
 /**
  * Get article by exact path
  */
-function getArticleByPath(path: string): ArticleData | undefined {
-  const allArticles = getAllArticles()
-  return allArticles.find((article) => article.path === path)
+function getArticleByPath(articles: CompactArticle[], path: string): CompactArticle | undefined {
+  return articles.find((article) => '/' + article.id === path)
 }
 
 /**
  * Get articles for a content source
  */
-function getArticlesForSource(source: ContentSource): ArticleData[] {
+function getArticlesForSource(articles: CompactArticle[], source: ContentSource): CompactArticle[] {
   switch (source.type) {
     case 'subcategory':
-      return getArticlesBySubcategory(source.value)
+      return getArticlesBySubcategory(articles, source.value)
     case 'keyword':
-      return getArticlesByKeyword(source.value)
+      return getArticlesByKeyword(articles, source.value)
     case 'path': {
-      const article = getArticleByPath(source.value)
+      const article = getArticleByPath(articles, source.value)
       return article ? [article] : []
     }
     default:
@@ -104,8 +62,9 @@ function getArticlesForSource(source: ContentSource): ArticleData[] {
 /**
  * Select articles for a specific occasion or section type
  */
-export function selectArticlesForSection(
+function selectArticlesForSection(
   type: OccasionType | 'deep-reads' | 'important-questions',
+  articles: CompactArticle[],
   options: SelectionOptions = { maxCount: 5 }
 ): SectionContent | null {
   const config = OCCASION_CONTENT_CONFIG[type]
@@ -117,14 +76,14 @@ export function selectArticlesForSection(
   const effectiveSeed = seed ?? getDailyRotationSeed()
 
   // Collect all matching articles from content sources
-  const matchingArticles = new Map<string, ArticleData>()
+  const matchingArticles = new Map<string, CompactArticle>()
 
   for (const source of config.contentSources) {
-    const articles = getArticlesForSource(source)
-    for (const article of articles) {
+    const sourceArticles = getArticlesForSource(articles, source)
+    for (const article of sourceArticles) {
       // Skip if already seen or excluded
-      if (matchingArticles.has(article.path)) continue
-      if (excludePaths?.has(article.path)) continue
+      if (matchingArticles.has(article.id)) continue
+      if (excludePaths?.has(article.id)) continue
 
       // Filter by word count if specified
       if (effectiveMinWordCount > 0 && article.wordCount < effectiveMinWordCount) {
@@ -132,12 +91,11 @@ export function selectArticlesForSection(
       }
 
       // Filter by question length to ensure questions fit in featured cards
-      const questionText = extractQuestionText(article.html)
-      if (questionText && questionText.length > effectiveMaxQuestionLength) {
+      if (article.questionText && article.questionText.length > effectiveMaxQuestionLength) {
         continue
       }
 
-      matchingArticles.set(article.path, article)
+      matchingArticles.set(article.id, article)
     }
   }
 
@@ -165,6 +123,7 @@ export function selectArticlesForSection(
  */
 export function getStartpageSections(
   occasions: OccasionType[],
+  articles: CompactArticle[],
   date: Date = new Date()
 ): SectionContent[] {
   const sections: SectionContent[] = []
@@ -174,7 +133,7 @@ export function getStartpageSections(
   // Add seasonal sections based on active occasions (max 3)
   const occasionsToShow = occasions.slice(0, 3)
   for (const occasionType of occasionsToShow) {
-    const section = selectArticlesForSection(occasionType, {
+    const section = selectArticlesForSection(occasionType, articles, {
       maxCount: 5,
       excludePaths: usedPaths,
       seed,
@@ -183,7 +142,7 @@ export function getStartpageSections(
     if (section && section.articles.length > 0) {
       sections.push(section)
       for (const article of section.articles) {
-        usedPaths.add(article.path)
+        usedPaths.add(article.id)
       }
     }
   }
@@ -192,7 +151,7 @@ export function getStartpageSections(
   if (sections.length === 0) {
     const upcoming = getNextUpcomingOccasion()
     if (upcoming) {
-      const section = selectArticlesForSection(upcoming.type, {
+      const section = selectArticlesForSection(upcoming.type, articles, {
         maxCount: 5,
         excludePaths: usedPaths,
         seed,
@@ -206,14 +165,14 @@ export function getStartpageSections(
           daysUntil: upcoming.daysUntil,
         })
         for (const article of section.articles) {
-          usedPaths.add(article.path)
+          usedPaths.add(article.id)
         }
       }
     }
   }
 
   // Always add Deep Reads section
-  const deepReads = selectArticlesForSection('deep-reads', {
+  const deepReads = selectArticlesForSection('deep-reads', articles, {
     maxCount: 5,
     minWordCount: 800,
     excludePaths: usedPaths,
@@ -223,12 +182,12 @@ export function getStartpageSections(
   if (deepReads && deepReads.articles.length > 0) {
     sections.push(deepReads)
     for (const article of deepReads.articles) {
-      usedPaths.add(article.path)
+      usedPaths.add(article.id)
     }
   }
 
   // Always add Important Questions section
-  const importantQuestions = selectArticlesForSection('important-questions', {
+  const importantQuestions = selectArticlesForSection('important-questions', articles, {
     maxCount: 5,
     excludePaths: usedPaths,
     seed,

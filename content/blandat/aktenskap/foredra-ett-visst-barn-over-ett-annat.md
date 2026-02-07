@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Föräldern måste behandla dem likvärdigt utan att ge någon av dem företräde, varken i form av pengar eller i form av gåvor. Anledningen till detta är ett uttalande från profeten – över honom vare Allāhs frid och välsignelser: ”Frukta Allāh och var rättvis mot era barn.” [^2] Han sade även till en man: ”Vill du att de alla ska vara dig lika plikttrogna, dela då ut likvärdigt mellan dem.”
 
-De stora lärde har rekommenderat att man är rättvis, att man hälsar dem alla med leenden på samma sätt och att man rättvist följer kommenderingen i den tidigare *hadīthen*[^1]. Ibland är det dock tillåtet för fadern att föredra ett sjukt barn eller det yngsta om omständigheterna manar på extra omtanke och kärlek. Men den generella regeln kvarstår – att föräldrarna behandlar barnen likvärdigt i alla frågor, speciellt om de är lika plikttrogna och lydiga.
+De stora lärde har rekommenderat att man är rättvis, att man hälsar dem alla med leenden på samma sätt och att man rättvist följer kommenderingen i den tidigare *hadīthen*[^1]. Ibland är det dock tillåtet för fadern att föredra ett sjukt barn eller det yngsta om omständigheterna manar på extra omtanke och kärlek. Men den allmänna regeln kvarstår – att föräldrarna behandlar barnen likvärdigt i alla frågor, speciellt om de är lika plikttrogna och lydiga.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

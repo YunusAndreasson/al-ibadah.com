@@ -16,7 +16,7 @@ description: 'Fråga: Vilket är utlåtandet om att hålla en fredagspredikan p�
 
 **Svar:** Den korrekta åsikten är den som håller fredagspredikan inte får göra det på ett språk som de närvarande inte förstår. Om folket inte är araber, och inte förstår det arabiska språket, då bör denne hålla predikan på deras språk.
 
-Detta beror på att det är metoden för att kommunicera med dem och poängen med föreläsningen är att förmana, vägleda och förklara gränserna som Allāh den Härlige, den Upphöjde har satt för Hans tjänare. Men Koran-verserna som denne reciterar på arabiska kan denne sedan förklara på det språk som folket förstår.
+Detta beror på att det är metoden för att kommunicera med dem och syftet med föreläsningen är att förmana, vägleda och förklara gränserna som Allāh den Härlige, den Upphöjde har satt för Hans tjänare. Men Koran-verserna som denne reciterar på arabiska kan denne sedan förklara på det språk som folket förstår.
 
 Bevis för att predikan bör hållas på det språk som folk förstår finns i Allāhs den Upphöjdes ord:
 

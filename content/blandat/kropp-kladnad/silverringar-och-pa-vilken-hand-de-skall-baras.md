@@ -6,7 +6,7 @@ source: >-
   Dar us-Salam. ISBN saknas
 categories:
   - Blandat
-  - Kropp & klädnad
+  - Kropp och klädnad
 original_id: 1700
 description: >-
   Fråga: Vilket är utlåtandet om att bära en silverring och på vilken hand bör

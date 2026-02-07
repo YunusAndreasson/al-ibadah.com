@@ -30,7 +30,7 @@ Tillåtna rörelser är begränsade och görs på grund av behov, eller upprepad
 
 Det råder ingen tvekan om att den som ber gåendes rör sig, men är det nödvändigt är det tillåtet. Det gör inte bönen ogiltig.
 
-De ogillade rörelserna är de som är utöver de rörelser som vi har nämnt tidigare. Detta är det generella utlåtandet om bönen.
+De ogillade rörelserna är de som är utöver de rörelser som vi har nämnt tidigare. Detta är det allmänna utlåtandet om bönen.
 
 Därmed säger vi till dem som brodern med frågan har bevittnat: Detta är ogillat, det gör er bön mindre värd.
 

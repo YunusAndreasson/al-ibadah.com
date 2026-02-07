@@ -30,7 +30,7 @@ Anses en vallfärd, grundat på denna *hadīth*, vara en gottgörelse för alla 
 
 *ar-Rafth* är intim samvaro och de handlingar samt tal som leder till det under *ihrām*. *al-Fusuq* är alla former av olydnad [synder]. Den som under vallfärden då överger *ar-rafth* och all form av syndfull olydnad kommer att få sina synder förlåtna.
 
-*al-Fusuq* inkluderar även att fortsätta med sina synder. Den som fortsätter i sin synd har inte övergivit *al-Fusuq*. Därför uppfylls inte detta löfte för denne.
+*al-Fusuq* innefattar även att fortsätta med sina synder. Den som fortsätter i sin synd har inte övergivit *al-Fusuq*. Därför uppfylls inte detta löfte för denne.
 
 Hadithen ovan har samma betydelse som följande *hadīth*: ”*En mabrur-hajj har inte någon annan belöning än Paradiset*.” [^2]
 

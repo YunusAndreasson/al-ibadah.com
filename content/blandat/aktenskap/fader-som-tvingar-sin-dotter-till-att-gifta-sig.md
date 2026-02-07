@@ -18,11 +18,11 @@ description: >-
 
 **Svar:** Om systern var oskuld och hennes fader tvingade henne till att gifta sig med denna man anser vissa av de lärde att detta äktenskap är giltigt. De är av åsikten att en fader får tvinga sin dotter till att gifta sig med en man som hon inte vill ha, om han är passande.
 
-Den starkare åsikten i denna fråga är dock att fadern, eller någon annan, inte får tvinga en kvinna till att gifta sig med någon hon inte vill ha, även om han är passande. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*En oskuld får inte ges i giftermål innan hennes tillstånd har sökts*.” [^1] Detta gäller generellt så ingen förmyndare är undantagen från det. Faktum är att det i *Sahīh Muslim* har rapporterats: ”*Fadern måste söka oskuldens tillstånd.*” [^2] Oskulden och fadern har då specificerats. Detta gäller i fall av oenighet och man måste handla enligt detta.
+Den starkare åsikten i denna fråga är dock att fadern, eller någon annan, inte får tvinga en kvinna till att gifta sig med någon hon inte vill ha, även om han är passande. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*En oskuld får inte ges i giftermål innan hennes tillstånd har sökts*.” [^1] Detta gäller allmänt så ingen förmyndare är undantagen från det. Saken är den att det i *Sahīh Muslim* har rapporterats: ”*Fadern måste söka oskuldens tillstånd.*” [^2] Oskulden och fadern har då specificerats. Detta gäller i fall av oenighet och man måste handla enligt detta.
 
 Grundat på detta: En man som tvingar sin dotter till att gifta sig med en man som hon inte vill ha är förbjudet.
 
-Laggivaren (det vill säga. Allāh) har förbjudit det så Han vill inte att det muslimska samhället ska göra detta. Om vi säger att det är giltigt innebär det att vi är inblandade i det, att vi praktiserar det och att vi ger samma status som de kontrakt Laggivaren har tillåtit. Detta är något som inte kan inträffa.
+Laggivaren (det vill säga. Allāh) har förbjudit det så Han vill inte att det muslimska samhället ska göra detta. Om vi säger att det är giltigt innebär det att vi är inblandade i det, att vi tillämpar det och att vi ger samma status som de kontrakt Laggivaren har tillåtit. Detta är något som inte kan inträffa.
 
 Den starkaste åsikten är därför att när din fader gett din hand till en man som du inte vill ha är detta ett otillåtet äktenskap och kontraktet gäller inte. Detta måste därmed undersökas av rätten.
 

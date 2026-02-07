@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Kvinnan med månadsblödning eller kvinnan med blödningar efter graviditeten syndar inte om de läser föreskrivna åkallan under vallfärdsriterna. Det finns inga invändningar mot detta eller att de reciterar från Koranen. Detta enligt den starkaste åsikten. Anledningen är att det inte finns några tydliga autentiska bevis som förbjuder kvinnan med månadsblödning eller kvinnan med blödningar efter graviditeten att läsa Koranen.
 
-Det har endast rapporterats att den som är i den stora rituella orenheten inte läser Koranen i detta tillstånd. Detta baseras på en *hadīth* från Ali.
+Det har endast rapporterats att den som är i den stora rituella orenheten inte läser Koranen i detta tillstånd. Detta grundas på en *hadīth* från Ali.
 
 Om kvinnan med månadsblödning eller blödning efter graviditeten har följande rapporterats om från Ibn ´Umar: ”*Kvinnan med månadsblödning och den som är i den stora rituella orenheten läser inte Koranen*.” [^1] Denna *hadīth* är dock svag då den innehåller Isma'il bin 'Ayyash som rapporterar från de i Hijaz. Han är svag när han rapporterar från dem.
 

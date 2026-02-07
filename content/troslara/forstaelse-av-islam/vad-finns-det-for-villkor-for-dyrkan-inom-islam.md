@@ -40,7 +40,7 @@ Om någon utför en handling på ett sätt som är acceptabelt i förhållande t
 
 För dem femte: dyrkan måste vara enligt den islamiska lagen med avseende på tidpunkten. Ett exempel är om någon fastar *ramadan* under sha’ban eller *shawwal*, eller ber middagsbönen före solen har passerat himlens mitt eller när ett föremåls skugga har blivit lika långt som dess längd […]
 
-Därför säger vi att om någon avsiktligen väntar med att be tills tiden för bönen har gått ut – utan giltig ursäkt – kommer dennes bön inte att accepteras, även om denne ber den tusen gånger. Därför följer vi en viktig princip som säger att all dyrkan måste ske vid ett specifikt tillfälle, och om handlingen inte utförs inom den givna tidsgränsen, då kommer den inte att accepteras utan snarare avvisas.
+Därför säger vi att om någon avsiktligen väntar med att be tills tiden för bönen har gått ut – utan giltig ursäkt – kommer dennes bön inte att accepteras, även om denne ber den tusen gånger. Därför följer vi en viktig princip som säger att all dyrkan måste ske vid ett bestämt tillfälle, och om handlingen inte utförs inom den givna tidsgränsen, då kommer den inte att accepteras utan snarare avvisas.
 
 Beviset för detta finns i en *hadīth* i vilken ‘A’ishah berättar att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som utför en handling som inte är enligt denna vår fråga [islam] kommer att få den avvisad*.”
 

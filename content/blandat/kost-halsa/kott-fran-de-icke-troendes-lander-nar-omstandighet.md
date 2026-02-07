@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Liba
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
   - Blandat
-  - Kost & hälsa
+  - Kost och hälsa
 original_id: 1635
 description: 'Fråga: Här i USA säljs fruset kött men vi vet inte vem som slaktade
  det och ej heller vet vi hur det slaktades. Får vi äta det? Svar: Om området

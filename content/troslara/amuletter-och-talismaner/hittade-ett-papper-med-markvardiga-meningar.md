@@ -18,7 +18,7 @@ description: >-
 
 [Dessa ord bör ingraveras i en guldring, rökas med essens samt bärnsten och bäras under fullständig renhet. Läs efter bönen Allāhs namn 1130 gånger under en veckas tid efter morgonbönen den första fredagen varje månad, och avsluta efter kvällsbönen på torsdagen. Nämn därefter de två namnen så ofta som möjligt efter varje obligatorisk bön. Denna ritual har fantastiska hemligheter. Det är en ovärderlig handling vars hemlighet du aldrig bör avslöja för din son, för att de inte ska användas felaktigt och skada Allāhs tjänare.]
 
-**Svar:** Allt som nämns i frågan är otillåtet och bör inte användas på en amulett. Det är heller inte tillåtet att följa instruktionerna som nämns i detta papper, för det innehåller obskyra inskriptioner. Det kan innehålla månggudaaktiga formler, och det innehåller otillåtna åminnelser under en specifik tidsperiod som den islamiska lagen inte godkänner. Det nämns även två okända namn. Detta är otillåtet och den som råkar bära en sådan ring bör göra sig av med den och ta bort inskriptionerna på ringen, som inte bör rökas med en essens.
+**Svar:** Allt som nämns i frågan är otillåtet och bör inte användas på en amulett. Det är heller inte tillåtet att följa instruktionerna som nämns i detta papper, för det innehåller obskyra inskriptioner. Det kan innehålla månggudaaktiga formler, och det innehåller otillåtna åminnelser under en bestämd tidsperiod som den islamiska lagen inte godkänner. Det nämns även två okända namn. Detta är otillåtet och den som råkar bära en sådan ring bör göra sig av med den och ta bort inskriptionerna på ringen, som inte bör rökas med en essens.
 
 Denne bör ångra sig inför Allāh för detta.
 

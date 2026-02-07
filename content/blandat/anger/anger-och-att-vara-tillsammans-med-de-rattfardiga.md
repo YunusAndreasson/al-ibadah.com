@@ -37,7 +37,7 @@ Nedtecknad av al-Bukhārī i hans *Sahīh*. Verserna och *ahādīth* med samma i
 
 Jag råder dig inte enbart till att försöka följa med de rättfärdiga, utan att du även håller dig fast vid dem. Undvik också samröre med dåligt folk.
 
-När det gäller böcker ger jag dig rådet att läsa Allāhs skrift; du reciterar, reflekterar över och tillämpar den. Allāhs skrift är den noblaste och förnämsta av alla böcker. Inga krokigheter kommer nära denna Bok och det är en uppenbarelse från den Mest Vise, Den som förtjänar all lovprisan. Det är den nyttigaste skriften ur den aspekten att den innehåller botemedel för ett sjukt hjärta. Allāh den Allsmäktige – säger:
+När det gäller böcker ger jag dig rådet att läsa Allāhs skrift; du reciterar, begrundar och tillämpar den. Allāhs skrift är den noblaste och förnämsta av alla böcker. Inga krokigheter kommer nära denna Bok och det är en uppenbarelse från den Mest Vise, Den som förtjänar all lovprisan. Det är den nyttigaste skriften ur den aspekten att den innehåller botemedel för ett sjukt hjärta. Allāh den Allsmäktige – säger:
 
 > ”Denna Koran leder [människan] till den rätta, den raka vägen.” [Koranen 17:9]
 

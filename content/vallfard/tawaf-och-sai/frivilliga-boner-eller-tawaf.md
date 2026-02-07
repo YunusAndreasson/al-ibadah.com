@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Är det bättre att hela tiden göra *tawāf* eller att be frivilliga böner?
 
-**Svar:** Det finns olika åsikter om vilken av dessa båda handlingar som är bäst. Det som är bäst är dock att kombinera dessa båda handlingar. Man bör alltså öka antalet böner och utföra *tawāf*, för att man ska kunna kombinera båda formerna av gott.
+**Svar:** Det finns olika åsikter om vilken av dessa båda handlingar som är bäst. Det som är bäst är dock att förena dessa båda handlingar. Man bör alltså öka antalet böner och utföra *tawāf*, för att man ska kunna förena båda formerna av gott.
 
 Några av de lärde har föredragit *tawāf* för dem som är främlingar [inte bor i Mecka] då Ka'bah inte finns i deras länder. Därför är det rekommenderat att de ökar antalet *tawāf* som de utför då de befinner sig i Mecka. Somliga föredrar bönen då den är bättre i Mecka.
 

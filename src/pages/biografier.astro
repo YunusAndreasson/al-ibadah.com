@@ -1,0 +1,47 @@
+---
+import BaseLayout from '~/layouts/BaseLayout.astro'
+import PageLayout from '~/components/layout/PageLayout.astro'
+import Breadcrumbs from '~/components/layout/Breadcrumbs.astro'
+
+const scholars = [
+  {
+    name: "Shaykh ´Abdul-´Azīz Ibn ´Abdullāh Ibn ´Abdur-Rahmān Ibn Bāz",
+    slug: "shaykh-abdul-aziz-ibn-abdullah-ibn-abdur-rahman-ib",
+  },
+  {
+    name: "Shaykh Muḥammad Ibn Sālih Ibn ´Uthaymīn",
+    slug: "shaykh-muhammad-ibn-salih-ibn-uthaymin",
+  },
+  {
+    name: "Muḥammad Nāsir-ud-Dīn al-Albānī",
+    slug: "muhammad-nasir-ud-din-al-albani",
+  },
+  {
+    name: "Ibn ´Abdur-Rahman al-Jibrīn",
+    slug: "ibn-abdur-rahman-al-jibrin",
+  },
+]
+---
+
+<BaseLayout title="Biografier - al-Ibadah">
+  <PageLayout>
+    <Breadcrumbs items={[{ label: 'Hem', href: '/' }]} />
+
+    <h1 class="page-title mb-4 mt-8">Biografier</h1>
+    <p class="text-muted-foreground mb-8">
+      Utlåtandena på denna webbplats är huvudsakligen hämtade från följande lärda
+      – <em>rahimahum Allāh</em>.
+    </p>
+
+    <div class="grid gap-3">
+      {scholars.map((scholar) => (
+        <a
+          href={`/biografier/${scholar.slug}`}
+          class="card flex items-center"
+        >
+          <span class="font-medium text-foreground">{scholar.name}</span>
+        </a>
+      ))}
+    </div>
+  </PageLayout>
+</BaseLayout>

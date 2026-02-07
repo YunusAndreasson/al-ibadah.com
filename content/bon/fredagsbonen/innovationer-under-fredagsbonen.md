@@ -16,9 +16,9 @@ description: >-
 
 **Fråga:** [I den långa frågan diskuteras ett antal olika innovationer.]
 
-**Svar:** *Nashīd* före böneutropet under fredagsbönen har inte bekräftats vara tillåtet, därmed är det en innovation. Fredagar bör inte väljas ut för koranrecitation genom högtalare eller på annat sätt – varken före böneutropet eller efter bönen – och recitationen är inte specifik för fredagar, utan recitationen är för varje dag. Därmed är det en innovation att göra det till något särskilt för fredagar. profetens – över honom vare Allāhs frid och välsignelser – bekräftade *sunnah* är att begränsa sig till böneutropet för den.
+**Svar:** *Nashīd* före böneutropet under fredagsbönen har inte bekräftats vara tillåtet, därmed är det en innovation. Fredagar bör inte väljas ut för koranrecitation genom högtalare eller på annat sätt – varken före böneutropet eller efter bönen – och recitationen är inte särskild för fredagar, utan recitationen är för varje dag. Därmed är det en innovation att göra det till något särskilt för fredagar. profetens – över honom vare Allāhs frid och välsignelser – bekräftade *sunnah* är att begränsa sig till böneutropet för den.
 
-Recitation av as-Samadiyyah eller något annat från Koranen eller åminnelse innan predikan börjar är inte obligatoriskt, faktum är att det är en innovation. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [^2]
+Recitation av as-Samadiyyah eller något annat från Koranen eller åminnelse innan predikan börjar är inte obligatoriskt, saken är den att det är en innovation. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [^2]
 
 Då det inte finns några bevis som förbjuder det är det inte fel att hålla föreläsningar under fredagar.
 

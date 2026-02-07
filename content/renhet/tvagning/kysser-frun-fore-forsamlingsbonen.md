@@ -20,7 +20,7 @@ En man kan alltså kyssa, röra och omfamna sin fru utan att han eller hennes tv
 
 Detta beror på att principen om tvagning är att den fortsätter att vara giltig, tills det finns bevis för att den har brutits. Det finns inget bevis – varken i Koranen eller profetens – över honom vare Allāhs frid och välsignelser – *sunnah* – som visar att vidrörandet av kvinnan bryter tvagningen.
 
-Baserat på detta, om en person rör en kvinna – även om det inte finns något mellan deras hud och även om det sker på ett lustfyllt sätt som genom kyssar eller kramar – så bryts inte tvagningen.
+Grundat på detta, om en person rör en kvinna – även om det inte finns något mellan deras hud och även om det sker på ett lustfyllt sätt som genom kyssar eller kramar – så bryts inte tvagningen.
 
 Och Allāh vet bäst.
 

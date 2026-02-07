@@ -16,6 +16,6 @@ description: >-
 
 **Fråga:** Det finns en man som har en hobby i att han samlar mynt, arabiska och utländska. Det är enbart en hobby. Här finns pengar som är värdefulla men även de som inte är det. Behöver han betala allmosa för dem om han har dem under ett år? Hjälp mig med ett svar och må Allāh belöna er med gott.
 
-**Svar:** Denne man måste betala allmosa om han har dem under ett år och de når den lägsta nivån som gör det till en skyldighet att betala allmosa. Detta beror på den generella innebörden av bevisen från Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Utlåtandet är detsamma som för pengar. Detsamma gäller som för papperspengar.
+**Svar:** Denne man måste betala allmosa om han har dem under ett år och de når den lägsta nivån som gör det till en skyldighet att betala allmosa. Detta beror på den allmänna innebörden av bevisen från Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Utlåtandet är detsamma som för pengar. Detsamma gäller som för papperspengar.
 
 

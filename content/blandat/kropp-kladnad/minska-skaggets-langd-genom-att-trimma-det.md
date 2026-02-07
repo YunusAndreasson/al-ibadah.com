@@ -6,7 +6,7 @@ source: >-
   Dar us-Salam. ISBN saknas
 categories:
   - Blandat
-  - Kropp & klädnad
+  - Kropp och klädnad
 original_id: 1651
 description: >-
   Fråga: Är det tillåtet att korta skägget genom att trimma det? Svar: Allāhs

@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Det finns ingen invändan mot att en fastande använder *kohl*[^1], ögondroppar eller näsdroppar.
 
-Även om smaken känns i halsen bryts inte fastan då det inte är mat eller dryck och det har inte samma egenskaper som dessa. Det finns enbart bevis för ett förbud mot mat och dryck. Det som inte har samma egenskaper inkluderas inte.
+Även om smaken känns i halsen bryts inte fastan då det inte är mat eller dryck och det har inte samma egenskaper som dessa. Det finns enbart bevis för ett förbud mot mat och dryck. Det som inte har samma egenskaper innefattas inte.
 
 Vad jag har nämnt är den åsikt som *Shaykhul-Islām* Ibn Taymiyyah – må Allāh vara honom nådig – har valt. Detta är den korrekta åsikten.
 

@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Är denna *hadīth* autentisk: ”Olika åsikter i min nation är en nåd.”? [^1]
 
-**Svar:** Nej, den är inte autentisk. Den har avvisats av vissa *salaf* och faktum är att det inte ens är en *hadīth*.
+**Svar:** Nej, den är inte autentisk. Den har avvisats av vissa *salaf* och saken är den att det inte ens är en *hadīth*.
 
 
 [^1]: *Kanzul-'Ummal* 28686 och *Ittihaf-us-sunniyah* 1:204,205

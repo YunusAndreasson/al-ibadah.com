@@ -15,7 +15,7 @@ description: >-
   31:24] Och det som har återberättats i ...
 ---
 
-**Fråga:** Hur kan vi förlika att doktorer kan ta reda på om fostret är en flicka eller pojke med versen: “*som vet vad som ligger gömt i moderlivet*.” [^2] Och det som har återberättats i *Tafsīr Ibn Jarīr* från Mujāhid om en man som frågade profeten – över honom vare Allāhs frid och välsignelser – vad hans fru skulle föda och Allāh då uppenbarade denna vers. Och det som har återberättats från Qutādah? Finns det någon annan vers eller *hadīth* om detta som är specifikare?
+**Fråga:** Hur kan vi förlika att doktorer kan ta reda på om fostret är en flicka eller pojke med versen: “*som vet vad som ligger gömt i moderlivet*.” [^2] Och det som har återberättats i *Tafsīr Ibn Jarīr* från Mujāhid om en man som frågade profeten – över honom vare Allāhs frid och välsignelser – vad hans fru skulle föda och Allāh då uppenbarade denna vers. Och det som har återberättats från Qutādah? Finns det någon annan vers eller *hadīth* om detta som är mer särskild?
 
 **Svar:** All lovprisan tillhör Allāh. Innan jag diskuterar denna fråga skulle jag vilja klargöra att det aldrig kan finnas en motsägelse mellan ett tydligt uttalande i Koranen och verkligheten. Ser det ut som att verkligheten motsägs beror det antingen på att det som vi tror är verklighet i själva verket är ett grundlöst påstående, eller att texten i Koranen inte motsäger sig denna verklighet på ett klart och definitivt sätt. Tydliga påstående i Koranen och verkligheten är båda definitiva faktum, och två definitiva fakta kan aldrig motsäga sig varandra.
 

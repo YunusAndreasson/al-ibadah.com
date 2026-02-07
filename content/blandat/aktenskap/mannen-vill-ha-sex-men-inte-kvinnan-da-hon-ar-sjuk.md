@@ -15,5 +15,5 @@ description: 'Fråga: Syndar kvinnan om hon vägrar att ha sex med sin man, om h
 
 **Svar:** Det är obligatoriskt för kvinnan att, när han kallar på henne, svara till sin mans önskemål. Det är dock inte tillåtet för mannen att kräva detta av henne om hon mår dåligt. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – sagt: ”Det ska inte finnas något skadligt, eller något som orsakar skada.”
 
-Det är därför upp till mannen att praktisera avhållsamhet, eller vara tillsammans med sin fru på ett sätt som inte orsakar henne något obehag.
+Det är därför upp till mannen att utöva avhållsamhet, eller vara tillsammans med sin fru på ett sätt som inte orsakar henne något obehag.
 

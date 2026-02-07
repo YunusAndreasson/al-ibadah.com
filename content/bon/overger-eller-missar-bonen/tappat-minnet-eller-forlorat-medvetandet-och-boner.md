@@ -7,14 +7,14 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1148
-description: 'Fråga: Måste den som har förlorat medvetandet praktisera den islamiska
+description: 'Fråga: Måste den som har förlorat medvetandet utöva den islamiska
  lagens skyldigheter? Svar: Allāh den Upphöjde har gjort dyrkan till en skyldighet
  om man har ett sinne som man kan förstå...'
 ---
 
-**Fråga:** Måste den som har förlorat medvetandet praktisera den islamiska lagens skyldigheter?
+**Fråga:** Måste den som har förlorat medvetandet utöva den islamiska lagens skyldigheter?
 
-**Svar:** Allāh den Upphöjde har gjort dyrkan till en skyldighet om man har ett sinne som man kan förstå saker genom. Den som inte har det är inte skyldig att praktisera den islamiska lagen. Därför behöver den störde inte praktisera den islamiska lagen. Detta gäller även den som inte är vuxen och den som inte har urskiljningsförmåga […] Detta är en del av Allāhs nåd.
+**Svar:** Allāh den Upphöjde har gjort dyrkan till en skyldighet om man har ett sinne som man kan förstå saker genom. Den som inte har det är inte skyldig att utöva den islamiska lagen. Därför behöver den störde inte utöva den islamiska lagen. Detta gäller även den som inte är vuxen och den som inte har urskiljningsförmåga […] Detta är en del av Allāhs nåd.
 
 Samma gäller den mentalt sjuke vars sinne har rubbats [dock inte till den grad att denne är störd] och den äldre som har tappat minnet. Det är varken en skyldighet för denne att be eller att fasta när denne har tappat minnet och därmed är i samma tillstånd som ett barn som inte kan skilja på saker och ting. Skyldigheterna gäller inte då och det är inte nödvändigt att be dem.
 

@@ -1,4 +1,4 @@
-import type { SectionContent } from '~/lib/content-selection'
+import type { SectionContent } from '~/lib/content-selection/types'
 import { ContentCard } from './ContentCard'
 
 interface ContentSectionProps {
@@ -13,7 +13,7 @@ export function ContentSection({ section }: ContentSectionProps) {
   return (
     <section className="mb-12">
       <header className="mb-5 flex items-baseline gap-3 flex-wrap">
-        <h2 className="section-label !mt-0 !mb-0">
+        <h2 className="section-label">
           {section.titleSv}
         </h2>
         {section.isUpcoming && section.daysUntil !== undefined && (
@@ -24,7 +24,7 @@ export function ContentSection({ section }: ContentSectionProps) {
       </header>
       <div className="grid gap-3 sm:grid-cols-2">
         {section.articles.map((article, index) => (
-          <ContentCard key={article.path} article={article} featured={index === 0} />
+          <ContentCard key={article.id} article={article} featured={index === 0} />
         ))}
       </div>
     </section>

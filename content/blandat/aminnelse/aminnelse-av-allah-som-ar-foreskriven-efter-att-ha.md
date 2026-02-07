@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Vilka är de former av åminnelse av Allāh som är föreskrivna efter att ha gjort *taslīm* i bönen?
 
-**Svar:** Nämnandet av Allāh den Upphöjde kommenderas när Han säger: ”*Och minns Gud efter bönens slut – när ni står upp, när ni sitter och när ni lägger er att vila.*” [^1] De åminnelser som Allāh har kommenderat är generella men profeten – över honom vare Allāhs frid och välsignelser – har klargjort dem:
+**Svar:** Nämnandet av Allāh den Upphöjde kommenderas när Han säger: ”*Och minns Gud efter bönens slut – när ni står upp, när ni sitter och när ni lägger er att vila.*” [^1] De åminnelser som Allāh har kommenderat är allmänna men profeten – över honom vare Allāhs frid och välsignelser – har klargjort dem:
 
 > ”När ni har gjort *taslīm*, sök förlåtelse från Allāh tre gånger. [Säg:] *Allāhumma antas-salamu wa minkas-salamu, tabarakta ya thal-jalali wal-ikram. Lā ilāha illAllāhu wahdahu la sharīka lahu, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadīr. Allāhumma la mani'a lima a'taita wa la mu'tiya lima mana'ta wa la yanfa'u thal-jaddi minkal-jadd. Lā ilāha illAllāhu wa la na'budu illa iyyahu, lahun-ni'matu wa lahul-fadhlu wa lahuth-thana ul-hasan. La hawla wa la quwwata illa billahi, Lā ilāha illAllāhu wa la na'budu illa iyya mukhlisīna lahud-dīnu wa law karihal-Kafirūn*.” [*Muslim* 594]
 

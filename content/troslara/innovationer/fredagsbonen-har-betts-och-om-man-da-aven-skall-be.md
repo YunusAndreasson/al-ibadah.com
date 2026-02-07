@@ -27,7 +27,7 @@ Om stadens hörn är långt från varandra eller om moskéerna inte räcker till
 
 Men om fredagsbönen bes utan behov på ett antal olika platser, då råder det inga tvivel om att det motsäger sig vad som är *sunnah* och profetens – över honom vare Allāhs frid och välsignelser – samt de rättfärdiga kaliferna handlande. Enligt majoriteten av de lärde är detta inte tillåtet. Trots detta säger vi inte att denna dyrkan är ogiltig. Ansvaret ligger ju här inte på gemene man utan på dem som är ansvariga för att ha tillåtet att ett antal fredagsböner bes utan behov.
 
-Med detta som grund säger vi: Myndigheterna som är ansvariga för moskéerna får inte tillåta flera fredagsböner, om det inte finns ett behov av det. Detta beror på att Laggivaren håller högt att folket samlas för att dyrka. Anledningen är att det ska resultera i harmoni, kärlek, att de som inte kan lär sig och andra stora fördelar.
+Med detta som grund säger vi: Myndigheterna som är ansvariga för moskéerna får inte tillåta flera fredagsböner, om det inte finns ett behov av det. Detta beror på att Laggivaren håller högt att folket samlas för att dyrka. Anledningen är att det ska leda till harmoni, kärlek, att de som inte kan lär sig och andra stora fördelar.
 
 De föreskrivna samlingarna är antingen varje vecka, år eller dag. Detta är välkänt. De dagliga samlingarna äger rum i den närbelägna moskén. Hade Laggivaren påbjudit folket att de skulle samlas fem gånger på en plats, då skulle det vara en börda för dem. Därför har Han underlättat och varje samling sker då i den närbelägna moskén.
 

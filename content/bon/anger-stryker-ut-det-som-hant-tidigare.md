@@ -15,5 +15,5 @@ description: 'Fråga: Jag är en ung man som tidigare har varit slarvig med den 
 
 **Svar:** Du måste visa tacksamhet mot Allāh den Allsmäktige för denna välgärning Han gjort för dig. Du måste lovprisa Honom för att Han väglett dig till ånger. Det krävs ingen kompensation från dig, då ånger stryker ut allt som hänt tidigare. Profeten har berättat om detta. Det som krävs av dig är uppriktig ånger och att du håller dig till den. Be Allāh den Allsmäktige om hjälp för att göra vad som är rätt, om vägledning och att du får göra fler rättfärdiga handlingar. Då kommer gott att komma till dig genom Allāhs vilja.
 
-Det som hänt i det förgångna stryks ut genom uppriktig ånger. Detta inkluderar att du sörjer över vad du gjort tidigare, att du upphör med handlingar av olydnad och att du verkligen beslutar dig för att inte återvända till dem. Detta är din skyldighet och all lovprisan tillhör Allāh.
+Det som hänt i det förgångna stryks ut genom uppriktig ånger. Detta innefattar att du sörjer över vad du gjort tidigare, att du upphör med handlingar av olydnad och att du verkligen beslutar dig för att inte återvända till dem. Detta är din skyldighet och all lovprisan tillhör Allāh.
 

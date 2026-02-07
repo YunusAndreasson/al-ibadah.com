@@ -13,7 +13,7 @@ description: 'Fråga: Vilket är utlåtandet om den som vittnar om att det inte 
 
 **Fråga:** Vilket är utlåtandet om den som vittnar om att det inte finns någon gud utom Allāh och ber den obligatoriska bönen men som varken betalar allmosa eller accepterar den? Vilket är det islamiska utlåtandet om en sådan person om han dör? Kan begravningsbönen bes för honom?
 
-**Svar:** All lovprisan tillhör Allāh. Allmosan är en av islams pelare. Om någon inte praktiserar den för att han inte tror att den är obligatorisk bör utlåtandet förklaras för honom och om han fortsätter [att inte tror att den är obligatorisk] är han en icke-troende. Då hålls inte begravningsbönen och han begravs inte där muslimerna begravs.
+**Svar:** All lovprisan tillhör Allāh. Allmosan är en av islams pelare. Om någon inte utövar den för att han inte tror att den är obligatorisk bör utlåtandet förklaras för honom och om han fortsätter [att inte tror att den är obligatorisk] är han en icke-troende. Då hålls inte begravningsbönen och han begravs inte där muslimerna begravs.
 
 Men om han inte betalar allmosa på grund av snålhet, men anser att den är obligatorisk, är han en syndare skyldig till stor synd och han är likaså någon som handlar felaktigt. Han är dock inte en icke-troende.
 

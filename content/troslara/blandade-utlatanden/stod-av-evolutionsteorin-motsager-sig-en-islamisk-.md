@@ -23,7 +23,7 @@ Jag vill veta vad Koranen och ädla *ahādīth* säger samt vad du tycker?  
 
 Det råder inga tvivel om att detta är klar otro då de inte tror på vad Allāh den Upphöjde och Hans ädle profeter har berättat för oss.
 
-När det gäller muslimers tro så anser vi att Allāh har skapat allting, vilket Han förklarar i Sin skrift. Detta inkluderar alla djur på land och alla djur i havet. Vi tror att Allāh den Upphöjde har skapat dem i deras nuvarande form och gjort dem till ett tecken för Hans allmakt och herrskap. Allāh den Upphöjde säger:
+När det gäller muslimers tro så anser vi att Allāh har skapat allting, vilket Han förklarar i Sin skrift. Detta innefattar alla djur på land och alla djur i havet. Vi tror att Allāh den Upphöjde har skapat dem i deras nuvarande form och gjort dem till ett tecken för Hans allmakt och herrskap. Allāh den Upphöjde säger:
 
 > ”I regnet som Gud sänder ned och därmed ger nytt liv åt den jord som varit död och låter djur av alla de slag befolka den.” [Koranen 2:164]
 
@@ -43,13 +43,13 @@ Allāh den Upphöjde har informerat oss om att Han skapat dessa varelser av vatt
 
 > ”Och vi har skapat alla levande varelser av vatten; bland dem finns de som krälar på sin buk, de som går på två ben och de som går på fyra. Gud skapar vad Han vill – Gud har allt i Sin makt.” [Koranen 24:45]
 
-Detta är några exempel, men det finns också de som har sex ben eller fler än så. Då Allāh den Upphöjde har skapat alla har Han skapat dem olika; deras uppehälle och storlek. Han har skapat dem alla. Sedan har Han väglett allt det som Han har skapat till allt som det behöver för ett fullständigt liv samt för att arten ska överleva. De fortplanterar sig, växer, tar hand om sin avkomma och drar nytta av den försörjning som avsetts för dem. Detta sker utan att de behöver lära sig; det kommer från den innersta natur som Allāh har skänkt dem. Han har gjort människosläktet till förmyndare över dem. De har ju skapats för att komma människan till nytta och för att hon ska reflektera över de gåvor som hennes Herre har gett henne, som hennes intellekt och uppfattningsförmåga.
+Detta är några exempel, men det finns också de som har sex ben eller fler än så. Då Allāh den Upphöjde har skapat alla har Han skapat dem olika; deras uppehälle och storlek. Han har skapat dem alla. Sedan har Han väglett allt det som Han har skapat till allt som det behöver för ett fullständigt liv samt för att arten ska överleva. De fortplanterar sig, växer, tar hand om sin avkomma och drar nytta av den försörjning som avsetts för dem. Detta sker utan att de behöver lära sig; det kommer från den innersta natur som Allāh har skänkt dem. Han har gjort människosläktet till förmyndare över dem. De har ju skapats för att komma människan till nytta och för att hon ska begrunda de gåvor som hennes Herre har gett henne, som hennes intellekt och uppfattningsförmåga.
 
 Allāh säger:
 
 > ”Som åt allt vad Han skapar ger en fulländad [form].” [Koranen 32:7]
 
-Därför måste vi acceptera att vi är Allāhs skapelser och under Hans herravälde samt att Han har skapat allting i universum för oss för att vi ska dra nytta av det och reflektera över det.
+Därför måste vi acceptera att vi är Allāhs skapelser och under Hans herravälde samt att Han har skapat allting i universum för oss för att vi ska dra nytta av det och begrunda det.
 
 Och Allāh är den som ger all framgång.
 

@@ -1,0 +1,58 @@
+---
+import { ShareButton } from '~/components/ui/ShareButton'
+
+interface Props {
+  title: string
+  author?: string
+  source?: string
+}
+
+const { title, author, source } = Astro.props
+---
+
+<article class="mt-8 max-w-[65ch]">
+  <header class="mb-10 sm:mb-12">
+    <h1 class="page-title mb-5">{title}</h1>
+
+    {(author || source) && (
+      <div class="space-y-1 mb-3">
+        {author && <p class="text-sm font-medium text-muted-foreground">{author}</p>}
+        {source && <p class="text-xs text-subtle-foreground">{source}</p>}
+      </div>
+    )}
+    <ShareButton title={title} client:idle />
+  </header>
+
+  <div class="prose-reading">
+    <slot />
+  </div>
+</article>
+
+<script>
+  function initFootnoteTooltips() {
+    const container = document.querySelector('.prose-reading')
+    if (!container) return
+
+    const footnoteRefs = container.querySelectorAll('a[data-footnote-ref]')
+    if (footnoteRefs.length === 0) return
+
+    const footnoteTexts = new Map<string, string>()
+    container.querySelectorAll('li[id^="user-content-fn-"]').forEach((li) => {
+      const clone = li.cloneNode(true) as HTMLElement
+      clone.querySelectorAll('a[data-footnote-backref]').forEach((el) => el.remove())
+      footnoteTexts.set(li.id, clone.textContent?.trim() || '')
+    })
+
+    footnoteRefs.forEach((ref) => {
+      const href = ref.getAttribute('href')
+      if (!href) return
+      const footnoteId = href.replace('#', '')
+      const text = footnoteTexts.get(footnoteId)
+      if (text) ref.setAttribute('data-tooltip', text)
+    })
+  }
+
+  // Run on initial load and after client-side navigation
+  initFootnoteTooltips()
+  document.addEventListener('astro:after-swap', initFootnoteTooltips)
+</script>

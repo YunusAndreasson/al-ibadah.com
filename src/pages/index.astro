@@ -1,0 +1,44 @@
+---
+import { getCollection } from 'astro:content'
+import BaseLayout from '~/layouts/BaseLayout.astro'
+import PageLayout from '~/components/layout/PageLayout.astro'
+import { HomepageIsland } from '~/components/startpage/HomepageIsland'
+
+/**
+ * Extract question text from markdown content (between "Fråga:" and "Svar:")
+ */
+function extractQuestionFromMarkdown(body: string | undefined): string | undefined {
+  if (!body) return undefined
+
+  // Look for **Fråga:** pattern in markdown
+  const match = body.match(
+    /\*\*Fråga:\*\*\s*([\s\S]*?)(?=\*\*Svar:\*\*|$)/i
+  )
+  if (match?.[1]) {
+    return match[1]
+      .replace(/\[\^[\w-]+\]/g, '') // Remove footnote refs
+      .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // Remove links
+      .replace(/(\*\*|__)(.*?)\1/g, '$2') // Remove bold
+      .replace(/(\*|_)(.*?)\1/g, '$2') // Remove italic
+      .replace(/\s+/g, ' ')
+      .trim() || undefined
+  }
+  return undefined
+}
+
+const articles = await getCollection('articles')
+const articleData = articles.map((a) => ({
+  id: a.id,
+  title: a.data.title,
+  author: a.data.author,
+  description: a.data.description,
+  wordCount: a.body ? a.body.split(/\s+/).filter(Boolean).length : 0,
+  questionText: extractQuestionFromMarkdown(a.body),
+}))
+---
+
+<BaseLayout>
+  <PageLayout>
+    <HomepageIsland articleData={articleData} client:load />
+  </PageLayout>
+</BaseLayout>

@@ -21,7 +21,7 @@ description: >-
 
 > ”De lärde är eniga om att bönen är en av de mest rekommenderade formerna av dyrkan och den mest enastående formen av lydnad och den största av de islamiska riterna.”
 
-Detta tar dock inte denne ur islam. Därmed är det tillåtet att gifta den muslimska kvinnan med honom. Någon annan som verkligen praktiserar skulle dock vara mer värdig än honom, även om denne inte är lika rik eller tillhör en mindre ädel familj.
+Detta tar dock inte denne ur islam. Därmed är det tillåtet att gifta den muslimska kvinnan med honom. Någon annan som verkligen utövar skulle dock vara mer värdig än honom, även om denne inte är lika rik eller tillhör en mindre ädel familj.
 
 Detta enligt vad som återberättats i en *hadīth*: "*Om någon vars religion och karaktär gör dig nöjd kommer till dig, gift dig då med denne*." De sade: "*Allāhs sändebud! Även om det finns någon brist i denne?*" Han svarade tre gånger: "*Om någon vars religion och karaktär gör dig nöjd kommer till dig, gift dig då med denne*." [^3]
 

@@ -23,7 +23,7 @@ Somliga har försökt att räkna upp dessa 73 grupper, där en följer sanningen
 
 Andra anser att det är mer passande att avstå från att räkna dem då dessa grupper inte är de enda som har gått vilse. Utan tvekan har människor gått vilse än mer än vad de gjort tidigare och detta inträffande när dessa grupper hade uppnått 72. De säger att antalet enbart kommer att öka och att det inte är möjligt att känna till det slutgiltiga, utom när Timmen börjar.
 
-Således är det mer passande att behandla som generellt vad profeten – över honom vare Allāhs frid och välsignelser – behandlat som generellt. Vi säger därför att detta samhälle kommer att delas i 72 grupper varav alla kommer att vara i Elden utom en. Likaså kan vi säga att alla som motsäger sig vad profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare följde inkluderas bland dessa grupper.
+Således är det mer passande att behandla som allmänt vad profeten – över honom vare Allāhs frid och välsignelser – behandlat som allmänt. Vi säger därför att detta samhälle kommer att delas i 72 grupper varav alla kommer att vara i Elden utom en. Likaså kan vi säga att alla som motsäger sig vad profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare följde inräknas bland dessa grupper.
 
 Det kan vara så att sändebudet – över honom vare Allāhs frid och välsignelser – refererade till element som vi nu inte känner till fler än tio. Det kan även vara så att han hänvisade till element som består av grenar så som vissa personer anser men kunskapen om detta finns endast hos Allāh den Väldige den allsmäktige.
 

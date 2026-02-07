@@ -11,13 +11,13 @@ categories:
 original_id: 1496
 description: >-
   Fråga: Är det tillåtet att slå ihop bönerna utan en giltig ursäkt? Svar: Det
-  är inte tillåtet att slå ihop bönerna utan en giltig ursäkt. Detta baseras på
+  är inte tillåtet att slå ihop bönerna utan en giltig ursäkt. Detta grundas på
   Allāhs ord: ” Och när ni åter är i tr...
 ---
 
 **Fråga:** Är det tillåtet att slå ihop bönerna utan en giltig ursäkt?
 
-**Svar:** Det är inte tillåtet att slå ihop bönerna utan en giltig ursäkt. Detta baseras på Allāhs ord: ”*Och när ni åter är i trygghet, förrätta då bönen [på föreskrivet sätt]. Bönen är alla troendes plikt, knuten till bestämda tider*.” [^1]
+**Svar:** Det är inte tillåtet att slå ihop bönerna utan en giltig ursäkt. Detta grundas på Allāhs ord: "*Och när ni åter är i trygghet, förrätta då bönen [på föreskrivet sätt]. Bönen är alla troendes plikt, knuten till bestämda tider*.” [^1]
 
 Och profeten – över honom vare Allāhs frid och välsignelser – bestämde bönetiderna och fastslog en tid för varje bön. Därför överträder man Allāhs gränser om man ber en bön för tidigt eller om man skjuter upp den. Allāh den Upphöjde har sagt: ”*Överträd inte de gränser som Gud [har fastställt] – de som överträder de av Gud [fastställda] gränserna syndar*.” [^2] och ”*Och den som överträder dessa av Gud [givna] regler har begått orätt mot sig själv*.” [^3]
 

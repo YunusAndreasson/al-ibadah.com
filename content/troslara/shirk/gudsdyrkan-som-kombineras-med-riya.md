@@ -1,5 +1,5 @@
 ---
-title: Gudsdyrkan som kombineras med riya'
+title: Gudsdyrkan som förenas med riya'
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.

@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** En invånare i Jiddah [eller en liknande plats] får inte ge sig av från vallfärden förrän denne har utfört *tawāf[^1] ul-wadā*. Detsamma gäller invånarna i at-Ta'if och liknande platser.
 
-Anledningen är den generella innebörden av profetens – över honom vare Allāhs frid och välsignelser – uttalande när han tilltalade pilgrimerna under vallfärden och sade: "*Ingen bör ge sig av förrän dennes sista handling är vid Huset [Ka'bah]*." [^2] Detta har Muslim återgivit i sin *Sahīh*.
+Anledningen är den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – uttalande när han tilltalade pilgrimerna under vallfärden och sade: "*Ingen bör ge sig av förrän dennes sista handling är vid Huset [Ka'bah]*." [^2] Detta har Muslim återgivit i sin *Sahīh*.
 
 I *Sahīh al-Bukhārī* och *Sahīh Muslim* återges också en *hadīth* från Ibn 'Abbās i vilken han säger: "*Folket kommenderades till att utföra sin sista handling vid Huset [Ka'bah], men frågan har lindrats för kvinnan med månadsblödning*."
 

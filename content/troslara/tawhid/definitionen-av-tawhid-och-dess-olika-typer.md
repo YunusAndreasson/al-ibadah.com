@@ -27,9 +27,9 @@ Således säger vi: Man uppnår inte *tawhīd* före man:
 
 Säger du exempelvis: ”En viss person står”, då har du bekräftat att denne står men du har inte sagt att denne är den ende som står. Det skulle du ha gjort om du hade sagt: ”Det finns ingen som står utom Zaid.” Då förklarar du att Zaid är den ende som står, för du nekar ju att något står vid hans sida.
 
-Detta är att uppnå sann *tawhīd*, vilket innebär att vi säger att *tawhīd* inte är *tawhīd* om den inte inkluderar både förnekelse och bekräftelse.
+Detta är att uppnå sann *tawhīd*, vilket innebär att vi säger att *tawhīd* inte är *tawhīd* om den inte innefattar både förnekelse och bekräftelse.
 
-Kategorierna av *tawhīd* i fråga om Allāh den Allsmäktige inkluderas alla i den allmänna definitionen. Denna definition avser det som är unikt för Honom den Allsmäktige. De lärde har här nämnt tre kategorier:
+Kategorierna av *tawhīd* i fråga om Allāh den Allsmäktige innefattas alla i den allmänna definitionen. Denna definition avser det som är unikt för Honom den Allsmäktige. De lärde har här nämnt tre kategorier:
 
 1. *Tawhīd[^1] ar-rububiyyah*[^2]
 2. *Tawhīd[^1] al-uluhiyyah*[^3]

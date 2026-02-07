@@ -16,7 +16,7 @@ description: 'Fråga: En anställd sparar varierande summor från sin månadslö
 
 En annan anställd tar emot en månadslön och förvarar allt på en säker plats. Denne spenderar från dessa besparingar varje dag. Detta inträffar rätt ofta, som när denne betalar för sitt hus och andra personliga omkostnader beroende på vad denne behöver. Hur räknar denne ut hur mycket som denne har sparat under året och hur betalar denne allmosan under dessa omständigheter? Detta i vetskap om att dennes besparingar inte fullständigt är i dennes ägo under ett år.
 
-**Svar:** Då båda frågorna har samma innebörd har kommittén bestämt sig för att svara med ett allomfattande svar som inkluderar båda dessa omständigheter.
+**Svar:** Då båda frågorna har samma innebörd har kommittén bestämt sig för att svara med ett allomfattande svar som innefattar båda dessa omständigheter.
 
 Svaret är enligt följande: En person äger den minsta mängd tillgångar [som skyldiggör att denne betalar allmosa] och får sedan under olika tidpunkter mer pengar och dessa nya intäkter härrör inte från den första summan, i stället är den oberoende. Detta kan vara vad en anställd sparar från sin lön varje månad. Det kan exempelvis också komma i form av ett arv, en gåva eller utbetald hyra för en egendom.
 

@@ -14,7 +14,7 @@ description: >-
 
 **Fråga:** Är det obligatorisk, för ett gift par, att göra *ghusl* även om de inte fick någon orgasm?
 
-**Svar:** Ja, det är obligatoriskt för dem att göra *ghusl*, även om de inte fick någon orgasm. Detta baseras på en *hadīth* rapporterad ifrån Abū Hurairah där profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Om mannen sitter mitt mellan kvinnans fyra delar, för att sedan ha intim samvaro med henne blir det obligatoriskt med ghusl*[^1].” Denna *hadīth* finns återberättad i både *Sahīh Bukhārī* och *Sahīh Muslim*. Och i imam Muslims version finns även tilläget: ”*Även om han inte fick någon orgasm*".
+**Svar:** Ja, det är obligatoriskt för dem att göra *ghusl*, även om de inte fick någon orgasm. Detta grundas på en *hadīth* rapporterad ifrån Abū Hurairah där profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Om mannen sitter mitt mellan kvinnans fyra delar, för att sedan ha intim samvaro med henne blir det obligatoriskt med ghusl*[^1].” Denna *hadīth* finns återberättad i både *Sahīh Bukhārī* och *Sahīh Muslim*. Och i imam Muslims version finns även tilläget: ”*Även om han inte fick någon orgasm*".
 
 I denna *hadīth* klargörs det tydligt att *ghusl* måste utföras även utan orgasm och detta är något som få känner till.
 

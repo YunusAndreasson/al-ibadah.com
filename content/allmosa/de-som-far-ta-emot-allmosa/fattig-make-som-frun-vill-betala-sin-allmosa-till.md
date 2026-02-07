@@ -12,12 +12,12 @@ original_id: 638
 description: >-
   Fråga: Får en kvinna betala allmosa till sin make om denne är fattig? Svar: En
   kvinna får betala allmosa till maken om denne är fattig. Detta beror på den
-  generella innebörden av Allāh ord: ”O...
+  allmänna innebörden av Allāh ord: ”O...
 ---
 
 **Fråga:** Får en kvinna betala allmosa till sin make om denne är fattig?
 
-**Svar:** En kvinna får betala allmosa till maken om denne är fattig. Detta beror på den generella innebörden av Allāh ord: ”Offergåvorna är avsedda enbart för de fattiga och de nödställda och dem som har hand om insamlandet av dem...” [^1] Syftet är att få slut på makens fattigdom.
+**Svar:** En kvinna får betala allmosa till maken om denne är fattig. Detta beror på den allmänna innebörden av Allāh ord: "Offergåvorna är avsedda enbart för de fattiga och de nödställda och dem som har hand om insamlandet av dem...” [^1] Syftet är att få slut på makens fattigdom.
 
 
 [^1]: Koranen 9:60

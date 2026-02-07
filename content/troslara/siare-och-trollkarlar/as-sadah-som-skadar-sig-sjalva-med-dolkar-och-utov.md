@@ -31,7 +31,7 @@ Och i en annan version:
 
 När det gäller deras åkallan till andra än Allāh när de söker hjälp från andra än Honom och påstår att deras fäder och förfäder styr skapelsens ordning eller att de kan bota den sjuke eller besvara åkallan [även om de är döda eller frånvarande] är att inte tro på Allāh den Allsmäktige. Detta är vad månggudadyrkare[^3] brukar göra. Det är obligatoriskt att avvisa, undvika och inte fråga dem om någonting eller att tro på dem. Detta beror på att de genom deras handlingar gör det som spåmän och siare gör. Likaså är deras handlingar månggudaaktiga när de dyrkar andra än Allāh och söker hjälp från andra än Honom [som *jinn* och människor som har gått bort].
 
-Detta är magi, spådom och förutsägelse. De rena islamiska lagen avvisar detta. När det gäller deras onda handlingar – som att skada sig med dolkar eller att klippa tungorna – då är detta olika trick som de praktiserar inför folket, något som det varnas för i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Ingen rationellt tänkande person bör låta sig luras av detta. Det är vad Allāh den Allsmäktige pekar på när Han talar om Faraos magiker:
+Detta är magi, spådom och förutsägelse. De rena islamiska lagen avvisar detta. När det gäller deras onda handlingar – som att skada sig med dolkar eller att klippa tungorna – då är detta olika trick som de utövar inför folket, något som det varnas för i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Ingen rationellt tänkande person bör låta sig luras av detta. Det är vad Allāh den Allsmäktige pekar på när Han talar om Faraos magiker:
 
 > ”Och deras trolldom gjorde sådan verkan att han tyckte sig se att deras rep och stavar verkligen rörde sig.” [Koranen 20:66]
 
@@ -39,7 +39,7 @@ De förenade synderna i magi, trolldom, spådom, större *shirk*, sökande av hj
 
 > ”Säg: 'Ingen i himlarna eller på jorden har kunskap om det som är dolt för människor[^2] – [ingen har denna kunskap] utom Gud.'” [Koranen 27:65]
 
-Muslimer som känner till deras sanna position måste avsäga sig dem för att göra det onda i deras beteende klart. Vad de gör involverar *shirk*, otro, magi, siande om framtiden och förutsägelser. De påstår sig också ha kunskap om det som är dolt för människor[^2]. Detta är villfarelse och otro. De måste undvikas.
+Muslimer som känner till deras sanna position måste avsäga sig dem för att göra det onda i deras beteende klart. Vad de gör inbegriper *shirk*, otro, magi, siande om framtiden och förutsägelser. De påstår sig också ha kunskap om det som är dolt för människor[^2]. Detta är villfarelse och otro. De måste undvikas.
 
 När de inte tillåter att deras döttrar gifter sig med andra än dem, medan de tillåter sig att gifta sig med andra, då är detta en sorts okunskap och villfarelse som det inte finns något bevis eller någon grund för i Lagen. Allāh – den Härlige säger:
 

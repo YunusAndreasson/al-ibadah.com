@@ -1,8 +1,2 @@
-/**
- * Hijri Calendar Module
- * Provides Islamic calendar utilities and occasion detection
- */
-
-export * from './calendar'
-export * from './occasions'
-export * from './types'
+export { detectOccasions, getNextUpcomingOccasion } from './occasions'
+export type { OccasionType } from './types'

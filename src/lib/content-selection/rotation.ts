@@ -30,7 +30,7 @@ function mulberry32(initialSeed: number): () => number {
  * Seeded shuffle using Fisher-Yates algorithm
  * Same seed = same shuffle result
  */
-export function seededShuffle<T>(array: T[], seed: number): T[] {
+function seededShuffle<T>(array: T[], seed: number): T[] {
   const result = [...array]
   const random = mulberry32(seed)
 

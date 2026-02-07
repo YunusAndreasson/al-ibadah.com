@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Någon berättade för mig att man inte får ta på sig höger sock innan man har tvättat vänster fot under tvagningen. För länge sedan har jag läst i en bok [jag kommer inte ihåg namnet] att det i detta ämne finns olika åsikter bland de lärde och att den starkaste åsikten är att det inte är tillåtet. Vilken är din åsikt?
 
-**Svar:** Det bästa är att inte ta på sig socken innan man har tvättat vänster fot. Detta baseras på profetens – över honom vare Allāhs frid och välsignelser – ord: ”*När någon tvagar sig för att sedan ta på sig lädersockar, han bör stryka över dem och be i dem och han behöver inte ta av dem om han inte vill, utom med anledning av stor rituell renhet*.” [^1]
+**Svar:** Det bästa är att inte ta på sig socken innan man har tvättat vänster fot. Detta grundas på profetens – över honom vare Allāhs frid och välsignelser – ord: "*När någon tvagar sig för att sedan ta på sig lädersockar, han bör stryka över dem och be i dem och han behöver inte ta av dem om han inte vill, utom med anledning av stor rituell renhet*.” [^1]
 
 Det har återberättats av *ad-Daraqutni* och *al-Hakim*, som klassat den som *sahīh* genom en *hadīth* från Anas och en *hadīth* från Abū Bakrah Ath-ThaQafi som rapporterat att profeten – över honom vare Allāhs frid och välsignelser – tillät resenärer att tvaga sig och sedan bära sina sockar och sedan stryka över dem under tre dagar och nätter och för en fast bosatt en natt. [^2] al-Mughirah bin Shu'bah har berättat att han såg profeten – över honom vare Allāhs frid och välsignelser – tvaga sig och han försökte ta av hans lädersockar men profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Lämna dem. Jag tog ju på dem då jag var rituellt ren*.” [^3]
 

@@ -23,5 +23,5 @@ Profeten har informerat oss om att Allāh den Allsmäktige är lika nöjd när n
 
 Allāh den Allsmäktige älskar att en person ångrar sig inför Honom och att de söker Hans förlåtelse. Han har därför i ett antal Koran-verser beordrat oss att söka Hans förlåtelse.
 
-*Istighfār*, att söka förlåtelse, innebär att man söker *al-maghfirah* som betyder att synder täcks. Detta ord kommer från *al-mighfar*, vilket är något som täcker och skyddar en persons huvud under strid. Roten till ordet kombinerar innebörden av täcke och skydd. På ett liknande vis kombinerar *al-maghfirah* båda meningarna; synden täcks och den som utfört dem skyddas från straffet.
+*Istighfār*, att söka förlåtelse, innebär att man söker *al-maghfirah* som betyder att synder täcks. Detta ord kommer från *al-mighfar*, vilket är något som täcker och skyddar en persons huvud under strid. Roten till ordet förenar innebörden av täcke och skydd. På ett liknande vis förenar *al-maghfirah* båda meningarna; synden täcks och den som utfört dem skyddas från straffet.
 

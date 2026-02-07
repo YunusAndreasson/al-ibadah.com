@@ -19,11 +19,11 @@ description: >-
 
 **Svar:** All lovprisan tillhör Allāh.
 
-Det finns en sorts tro som baseras på sex grunder. Den omnämns i en *hadīth* om [ängeln] Gabriel i vilken han frågar profeten – över honom vare Allāhs frid och välsignelser – om detta. Profeten – över honom vare Allāhs frid och välsignelser – svarar:
+Det finns en sorts tro som grundas på sex grunder. Den omnämns i en *hadīth* om [ängeln] Gabriel i vilken han frågar profeten – över honom vare Allāhs frid och välsignelser – om detta. Profeten – över honom vare Allāhs frid och välsignelser – svarar:
 
 > ”*Imān* är att tro på Allāh, Hans änglar, Hans skrifter, Hans sändebud, den Yttersta dagen och det Förutbestämda [både det bra och det dåliga].”
 
-Den tro som inkluderar goda handlingar är av olika slag och består av 70 nivåer. Därför har Allāh i en Koran-vers kallat bönen för *īmān*:
+Den tro som innefattar goda handlingar är av olika slag och består av 70 nivåer. Därför har Allāh i en Koran-vers kallat bönen för *īmān*:
 
 > “Det är rätt och rimligt att Gud inte låter er tro bli utan belöning: Gud är barmhärtig och ömmar för människorna.” [Koranen 2:143]
 

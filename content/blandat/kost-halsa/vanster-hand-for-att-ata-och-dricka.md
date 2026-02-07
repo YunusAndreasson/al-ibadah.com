@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Liba
  Maktaba Dar us-Salam. ISBN saknas'
 categories:
   - Blandat
-  - Kost & hälsa
+  - Kost och hälsa
 original_id: 1639
 description: 'Fråga: Är det tillåtet att hålla bröd i den vänstra handen? Jag har
  märkt att nästan 99 % fortfarande tar brödet i sin vänstra hand för att bryta det

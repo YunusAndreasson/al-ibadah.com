@@ -10,11 +10,11 @@ categories:
 original_id: 33
 description: >-
   Fråga: Det finns somliga som gör amuletter till sjuka, galningar och
-  psykiatripatienter och i dem inkluderas delar av Koranen och profetens – över
+  psykiatripatienter och i dem innefattas delar av Koranen och profetens – över
   honom vare Allāhs frid och välsignelser – sunnah...
 ---
 
-**Fråga:** Det finns somliga som gör amuletter till sjuka, galningar och psykiatripatienter och i dem inkluderas delar av Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Vi går aldrig i godo för att de har sunda trosprinciper. Vi rådde dem att inte göra så men de lyssnade inte utan sade: ”Vi skriver endast vad som finns i Allāhs skrift och i Hans sändebuds *sunnah*, vilket inte är förbjudet.” Några av dessa amuletter bärs av patienterna själva, en oren kvinna som har månadsblödning, en kvinna i hennes blödningar efter graviditeten, en galning och ett underårigt barn som inte kan rengöra sig. Är detta tillåtet?
+**Fråga:** Det finns somliga som gör amuletter till sjuka, galningar och psykiatripatienter och i dem innefattas delar av Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Vi går aldrig i godo för att de har sunda trosprinciper. Vi rådde dem att inte göra så men de lyssnade inte utan sade: ”Vi skriver endast vad som finns i Allāhs skrift och i Hans sändebuds *sunnah*, vilket inte är förbjudet.” Några av dessa amuletter bärs av patienterna själva, en oren kvinna som har månadsblödning, en kvinna i hennes blödningar efter graviditeten, en galning och ett underårigt barn som inte kan rengöra sig. Är detta tillåtet?
 
 **Svar:** Profeten – över honom vare Allāhs frid och välsignelser – tillät besvärjelser med recitation ifrån Koranen samt åkallan – så länge de inte innehöll *shirk* eller meningslösa ord. Muslim återger i sin *Sahīh* att Auf bin Mālik har sagt:
 
@@ -30,13 +30,13 @@ Bland andra *Ahmad* har också återgivit att Ibn Mas'ūd har sagt: ”*Jag hör
 
 Om den burna amuletten innehåller ord från Koranen, då är det förbjudet enligt den starkaste åsikten. Anledningarna till detta är tre:
 
-1. Det generella och undantagslösa förbudet mor att bära några former av amuletter, enligt profetens – över honom vare Allāhs frid och välsignelser – traditioner.
+1. Det allmänna och undantagslösa förbudet mor att bära några former av amuletter, enligt profetens – över honom vare Allāhs frid och välsignelser – traditioner.
 2. Inga ursäkter lämnas för att bära amuletter som innehåller något annat än Koranen.
 3. Amuletter som bärs utsätts ofta för dålig behandling när de tas med in i badrum eller då de bärs under intim samvaro eller liknande.
 
 När det gäller att skriva en sura eller en vers på en tavla eller ett blad, tvätta det skrivna med vatten och saffran för att dricka vattnet i hopp om att få välsignelser, kunskap, välstånd, god hälsa, eller något liknande – då har vi aldrig hört att profeten – över honom vare Allāhs frid och välsignelser – gjorde något sådant för sig själv eller för någon annan. Han tillät inte att följeslagarna gjorde så och ej heller tillät han samfundet att göra så, även om det finns behov för detta.
 
-Baserat på det som har nämts ovan är det bättre att undvika att göra detta och att vara nöjd med vad som autentiskt godkänts i form av besvärjelser i Koran-recitation, Allāhs vackra namn, autentisk åkallan eller liknande vars meningar innebörd är klar och fri från *shirk*.
+Grundat på det som har nämts ovan är det bättre att undvika att göra detta och att vara nöjd med vad som autentiskt godkänts i form av besvärjelser i Koran-recitation, Allāhs vackra namn, autentisk åkallan eller liknande vars meningar innebörd är klar och fri från *shirk*.
 
 Allāh bör endast sökas genom sådant som är tillåtet i hopp om att få belöningar, lättnad och nyttig kunskap. Detta bör vara tillräckligt och den som är nöjd med vad Allāh har tillåtit, denne gör Allāh fri från behov av någon annan.
 

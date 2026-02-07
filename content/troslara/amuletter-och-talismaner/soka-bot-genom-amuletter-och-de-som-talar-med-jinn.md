@@ -32,7 +32,7 @@ Därför bör det kännas till att botemedel mot alla krämpor och epileptiska t
 
 > ”Allāhs tjänare! Sök medicinsk hjälp, men använd aldrig ett otillåtet ting som botemedel.” [*Abū Dawūd* 3874]
 
-När det gäller att skriva verser och tillåtna åkallelser med saffran på en ren platta eller ett rent papper, som sedan tvättas och patienten dricker det, då finns det inget skadligt i det. Flera av de fromma föregångarna gjorde så, vilket Ibn al-Qayyim – må Allāh vara honom nådig – berättar om i sin bok *Zādul-Ma’ād* och andra arbeten. Detta sker dock under förutsättning att den som gör det är känd för att vara en god praktiserande muslim.
+När det gäller att skriva verser och tillåtna åkallelser med saffran på en ren platta eller ett rent papper, som sedan tvättas och patienten dricker det, då finns det inget skadligt i det. Flera av de fromma föregångarna gjorde så, vilket Ibn al-Qayyim – må Allāh vara honom nådig – berättar om i sin bok *Zādul-Ma’ād* och andra arbeten. Detta sker dock under förutsättning att den som gör det är känd för att vara en god utövande muslim.
 
 Det är Allāh som ger framgång.
 

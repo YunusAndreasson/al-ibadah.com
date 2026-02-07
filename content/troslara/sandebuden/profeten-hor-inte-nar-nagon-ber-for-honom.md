@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Hör profeten – över honom vare Allāhs frid och välsignelser – i sin ädla grav dem som ber för honom [speciellt välsignelser]? I en *hadīth* har det sagts: ”*Den som sänder välsignelser över min grav hör jag*…” Är denna *hadīth* autentisk?
 
-**Svar:** Generellt sett kan de döda inte höra något från Adams söner som lever. De kan heller inte höra deras åkallan. Allāh den Upphöjde säger:
+**Svar:** I allmänhet kan de döda inte höra något från Adams söner som lever. De kan heller inte höra deras åkallan. Allāh den Upphöjde säger:
 
 > ”[Muḥammad!] Gud förmår den Han vill att lyssna, men du kan inte förmå dem att lyssna som är [andligen döda och] begravda.” [Koranen 35:22]
 

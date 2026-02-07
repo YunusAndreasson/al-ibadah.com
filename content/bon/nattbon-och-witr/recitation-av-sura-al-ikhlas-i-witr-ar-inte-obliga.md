@@ -1,5 +1,5 @@
 ---
-title: Recitation av sura al-Ikhlas i witr är inte obligatoriskt
+title: Läsning av sura al-Ikhlas i witr är inte obligatoriskt
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.

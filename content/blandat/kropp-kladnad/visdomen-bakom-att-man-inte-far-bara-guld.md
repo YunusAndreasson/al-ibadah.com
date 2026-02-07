@@ -6,7 +6,7 @@ source: >-
   Dar us-Salam. ISBN saknas
 categories:
   - Blandat
-  - Kropp & klädnad
+  - Kropp och klädnad
 original_id: 1699
 description: >-
   Fråga: Vilken är anledningen till att män inte får bära guld? Vi känner till

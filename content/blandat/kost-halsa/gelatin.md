@@ -6,7 +6,7 @@ source: >-
   Dar us-Salam. ISBN saknas
 categories:
   - Blandat
-  - Kost & hälsa
+  - Kost och hälsa
 original_id: 1637
 description: >-
   Fråga: Är gelatin förbjudet? Svar: Om gelatin framställs utifrån något
@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Om gelatin framställs utifrån något förbjudet – som gris eller någon del av den som huden, dess ben och liknande – är det förbjudet eftersom Allāh den Högste säger: ”*Förbjudet för er är kött av självdöda djur och blod och svinkött*.” [^1]
 
-De lärde är eniga om att grisfett inkluderas i detta förbud. Men om det inte finns något under produktionen av gelatin eller i dess innehåll som är förbjudet finns det ingen invändan mot det.
+De lärde är eniga om att grisfett innefattas i detta förbud. Men om det inte finns något under produktionen av gelatin eller i dess innehåll som är förbjudet finns det ingen invändan mot det.
 
 Allāh är Beviljaren av framgång.
 

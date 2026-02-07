@@ -22,7 +22,7 @@ Om denne överger den på grund av lathet eller att denne inte brydde sig, då h
 
 Det finns även ett uttalande som lyder: ”*Det som står mellan en man och otro samt mångguderi är utelämnandet av bönen*.” [^2]
 
-Detta inkluderar både de som avvisar att bönen är en skyldighet och de som inte ber den på grund av lathet.
+Detta omfattar både de som avvisar att bönen är en skyldighet och de som inte ber den på grund av lathet.
 
 Och Allāh är den som ger framgång.
 

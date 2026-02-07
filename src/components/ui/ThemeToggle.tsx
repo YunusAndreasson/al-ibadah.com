@@ -1,30 +1,30 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 
 type Theme = 'light' | 'dark' | 'system'
 
+function getStoredTheme(): Theme {
+  try {
+    const stored = localStorage.getItem('theme')
+    if (stored === 'light' || stored === 'dark' || stored === 'system') return stored
+  } catch {}
+  return 'system'
+}
+
 export function ThemeToggle() {
-  const [theme, setTheme] = useState<Theme>('system')
-  const [mounted, setMounted] = useState(false)
+  const [theme, setTheme] = useState<Theme>(getStoredTheme)
+  const hasInteracted = useRef(false)
 
   useEffect(() => {
-    setMounted(true)
-    const savedTheme = localStorage.getItem('theme') as Theme | null
-    if (savedTheme) {
-      setTheme(savedTheme)
-    }
-  }, [])
-
-  useEffect(() => {
-    if (!mounted) return
-
     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches
     const isDark = theme === 'dark' || (theme === 'system' && prefersDark)
 
     document.documentElement.classList.toggle('dark', isDark)
+    document.documentElement.style.colorScheme = isDark ? 'dark' : 'light'
     localStorage.setItem('theme', theme)
-  }, [theme, mounted])
+  }, [theme])
 
   const cycleTheme = () => {
+    hasInteracted.current = true
     setTheme((current) => {
       if (current === 'system') return 'light'
       if (current === 'light') return 'dark'
@@ -32,22 +32,14 @@ export function ThemeToggle() {
     })
   }
 
-  if (!mounted) {
-    return (
-      <button type="button" className="p-2 rounded-lg hover-bg press-scale" aria-label="Byt tema">
-        <div className="w-[18px] h-[18px]" />
-      </button>
-    )
-  }
-
   return (
     <button
       type="button"
       onClick={cycleTheme}
-      className="p-2 rounded-lg hover-bg press-scale"
+      className="nav-link p-2 rounded-lg hover-bg press-scale"
       aria-label={`Nuvarande tema: ${theme === 'system' ? 'automatiskt' : theme === 'light' ? 'ljust' : 'mörkt'}. Klicka för att byta.`}
     >
-      <span key={theme} className="animate-icon-in">
+      <span key={theme} className={`block ${hasInteracted.current ? 'animate-icon-in' : ''}`}>
         {theme === 'system' && <SystemIcon />}
         {theme === 'light' && <SunIcon />}
         {theme === 'dark' && <MoonIcon />}

@@ -2,5 +2,5 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "al-ibadah",
   "compatibility_date": "2025-01-01",
-  "pages_build_output_dir": ".output/public"
+  "pages_build_output_dir": "dist"
 }

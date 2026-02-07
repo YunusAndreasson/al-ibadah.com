@@ -27,7 +27,7 @@ Andra har sagt att man bör be var för sig och några av dessa är: Sufyan, Ibn
 
 Men dessa personer och de som har hållet med dem har endast gjort så med rädsla för att det skulle leda till splittring och att de som följer en viss sekt kan få en ursäkt för att komma för sent och be tillsammans med en imam som följer deras läror. För att då kunna stänga denna dörr till splittring och hindra medlemmar i sekter från att uppnå deras onda avsikter har de sagt att man inte bör be gemensamt i moskén när församlingen redan har bett med den vanliga imamen.
 
-Den första åsikten är dock den korrekta, grundat på den *hadīth* som har nämnts tidigare och den generella betydelsen i Allāhs ord: ”*Frukta därför Gud efter måttet av er förmåga*.” [^3]
+Den första åsikten är dock den korrekta, grundat på den *hadīth* som har nämnts tidigare och den allmänna betydelsen i Allāhs ord: ”*Frukta därför Gud efter måttet av er förmåga*.” [^3]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har även sagt: ”*Om jag beordrar er att göra någonting, gör det då så mycket som ni har möjlighet till*.” [^4]
 
