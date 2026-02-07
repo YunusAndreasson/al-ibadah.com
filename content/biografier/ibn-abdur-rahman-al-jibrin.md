@@ -1,9 +1,9 @@
 ---
-title: Ibn ´Abdur-Rahman al-Jibrīn
+title: Ibn ´Abdur-Raḥmān al-Jibrīn
 categories:
   - Biografier
 original_id: 10
-description: Hans fullständiga namn och titel är Shaykh Dr. ´Abdullāh Ibn ´Abdur-Rahmān
+description: Hans fullständiga namn och titel är S̲hayk̲h Dr. ´Abdullāh Ibn ´Abdur-Raḥmān
  Jibrīn. Han föddes i Miz'al i staden al-Quway'iyyah strax väster om Riyadh år
  1349 enligt den islamiska kalendern eller...
 ---

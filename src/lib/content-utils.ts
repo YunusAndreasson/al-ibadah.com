@@ -25,42 +25,53 @@ function cleanCategoryName(name: string): string {
  */
 export const ARABIC_TERMS: Record<string, string> = {
   // troslära
-  'Monoteism': 'tawhīd',
-  'Avgudadyrkan': 'shirk',
-  'Innovationer': 'bid\u00B4ah',
-  'Gravlivet': 'barzakh',
-  'Trosbekännelsen': 'shahādah',
+  'Monoteism': 'tawḥīd',
+  'Avgudadyrkan': 's̲hirk',
+  'Innovationer': 'bid´ah',
+  'Gravlivet': 'barzak̲h',
+  'Trosbekännelsen': 's̲hahādah',
   'Medel för åkallan': 'tawassul',
   'Förutbestämmelsen': 'qadar',
   // renhet
-  'Den stora tvagningen': 'ghusl',
+  'Den stora tvagningen': 'g̲husl',
   'Tvagning utan vatten': 'tayammum',
-  'Tvagning': 'wudū\u2019',
-  'Månadsblödning': 'hayd',
+  'Tvagning': 'wuḍū\u2019',
+  'Månadsblödning': 'ḥayḍ',
   'Efterblödning': 'nifās',
-  'Strykning över strumpor': 'mash',
+  'Strykning över strumpor': 'mas̲h',
   // bön
-  'Böneutrop': 'adhān',
+  'Böneutrop': 'ad̲hān',
   'Det andra böneutropet': 'iqāmah',
-  'Koncentration i bönen': 'khushū\u00B4',
+  'Koncentration i bönen': 'k̲hus̲hū´',
   'Nattbön': 'qiyām al-layl',
   'Avskärmning i bönen': 'sutrah',
-  'Begravningsbön': 'salāt al-janāzah',
-  'Fredagsbönen': 'salāt al-jumu\u00B4ah',
-  'Eid-bönen': 'salāt al-\u00B4īd',
+  'Begravningsbön': 'ṣalāt al-janāzah',
+  'Fredagsbönen': 'ṣalāt al-jumu´ah',
+  'Eid-bönen': 'ṣalāt al-´īd',
   // allmosa
-  'Fasteallmosa': 'zakāt al-fitr',
+  'Fasteallmosa': 'zakātul-fiṭr',
   // fasta
   'Allmaktens Natt': 'laylat al-qadr',
-  'Ramadanens nattbön': 'tarāwīh',
+  'Ramadanens nattbön': 'tarāwīḥ',
   // vallfärd
   'Vallfärdens stationer': 'mawāqīt',
-  'Rundvandring och löpning': 'tawāf & sa\u00B4ī',
-  'Förbud i helgtillståndet': 'ihrām',
-  'Pilgrimskläder': 'ihrām',
-  'Helgtillståndet och avsikt': 'ihrām',
-  'Mindre vallfärd': '\u00B4umrah',
-  'Högtidsoffret': 'udhiyah',
+  'Rundvandring och löpning': 'ṭawāf & sa´ī',
+  'Förbud i helgtillståndet': 'iḥrām',
+  'Pilgrimskläder': 'iḥrām',
+  'Helgtillståndet och avsikt': 'iḥrām',
+  'Mindre vallfärd': '´umrah',
+  'Högtidsoffret': 'uḍḥiyah',
+}
+
+export const CATEGORY_DESCRIPTIONS: Record<string, string> = {
+  troslara: 'Utlatanden och svar om islamisk troslära, monoteism, avgudadyrkan, innovationer och trosbekännelsen.',
+  renhet: 'Utlatanden och svar om rituell renhet, tvagning, den stora tvagningen (ghusl), tayammum och månadsblödning.',
+  bon: 'Utlatanden och svar om den islamiska bönen, böneutrop, fredagsbönen, nattbönen och begravningsbönen.',
+  allmosa: 'Utlatanden och svar om allmosan (zakāt), fasteallmosan (zakātul-fiṭr) och välgörenhet.',
+  fasta: 'Utlatanden och svar om fastan under Ramadan, frivillig fasta, resenärens fasta och Allmaktens Natt.',
+  vallfard: 'Utlatanden och svar om vallfärden (ḥajj), den mindre vallfärden (´umrah) och högtidsoffret.',
+  blandat: 'Utlatanden och svar om blandade ämnen som åkallan, äktenskap, ekonomi, klädsel och ånger.',
+  biografier: 'Biografier om framstående islamiska lärda.',
 }
 
 export function getArabicTerm(name: string): string | undefined {

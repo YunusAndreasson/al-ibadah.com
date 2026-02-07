@@ -3,8 +3,9 @@ import { getCollection } from 'astro:content'
 import BaseLayout from '~/layouts/BaseLayout.astro'
 import PageLayout from '~/components/layout/PageLayout.astro'
 import Breadcrumbs from '~/components/layout/Breadcrumbs.astro'
-import { CATEGORY_NAMES, deriveSubcategoryName } from '~/lib/content-utils'
+import { CATEGORY_NAMES, CATEGORY_DESCRIPTIONS, deriveSubcategoryName } from '~/lib/content-utils'
 import SubcategoryName from '~/components/ui/SubcategoryName.astro'
+import { buildBreadcrumbSchema, buildCollectionPageSchema } from '~/lib/structured-data'
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles')
@@ -48,9 +49,24 @@ export async function getStaticPaths() {
 
 const { category } = Astro.params
 const { categoryName, subcategories } = Astro.props
+const categoryDescription = CATEGORY_DESCRIPTIONS[category!]
+const totalArticles = subcategories.reduce((sum: number, s: { articleCount: number }) => sum + s.articleCount, 0)
+const breadcrumbItems = [
+  { label: 'Hem', href: '/' },
+  { label: categoryName, href: `/${category}` },
+]
+const jsonLd = [
+  buildBreadcrumbSchema(breadcrumbItems),
+  buildCollectionPageSchema({
+    title: categoryName,
+    description: categoryDescription,
+    url: `/${category}`,
+    itemCount: totalArticles,
+  }),
+]
 ---
 
-<BaseLayout title={`${categoryName} - al-Ibadah`}>
+<BaseLayout title={`${categoryName} - al-Ibadah`} description={categoryDescription} jsonLd={jsonLd}>
   <PageLayout>
     <Breadcrumbs items={[{ label: 'Hem', href: '/' }]} />
 

@@ -1,5 +1,5 @@
 ---
-title: Shaykh ´Abdul-´Azīz Ibn ´Abdullāh Ibn ´Abdur-Rahmān Ibn Bāz
+title: S̲hayk̲h ´Abdul-´Azīz Ibn ´Abdullāh Ibn ´Abdur-Raḥmān Ibn Bāz
 categories:
   - Biografier
 original_id: 8

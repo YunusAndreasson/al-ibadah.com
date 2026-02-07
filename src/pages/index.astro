@@ -3,6 +3,8 @@ import { getCollection } from 'astro:content'
 import BaseLayout from '~/layouts/BaseLayout.astro'
 import PageLayout from '~/components/layout/PageLayout.astro'
 import { HomepageIsland } from '~/components/startpage/HomepageIsland'
+import { renderTitle } from '~/lib/render-title'
+import { buildWebSiteSchema } from '~/lib/structured-data'
 
 /**
  * Extract question text from markdown content (between "Fråga:" and "Svar:")
@@ -30,6 +32,7 @@ const articles = await getCollection('articles')
 const articleData = articles.map((a) => ({
   id: a.id,
   title: a.data.title,
+  titleHtml: renderTitle(a.data.title),
   author: a.data.author,
   description: a.data.description,
   wordCount: a.body ? a.body.split(/\s+/).filter(Boolean).length : 0,
@@ -37,7 +40,7 @@ const articleData = articles.map((a) => ({
 }))
 ---
 
-<BaseLayout>
+<BaseLayout jsonLd={buildWebSiteSchema()}>
   <PageLayout>
     <HomepageIsland articleData={articleData} client:load />
   </PageLayout>

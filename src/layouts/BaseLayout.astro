@@ -7,20 +7,26 @@ import '@fontsource/amiri/400.css'
 import '@fontsource/amiri/400-italic.css'
 import '@fontsource/amiri/700.css'
 import '~/styles/app.css'
+import JsonLd from '~/components/seo/JsonLd.astro'
 
 interface Props {
   title?: string
   description?: string
   article?: boolean
+  author?: string
+  jsonLd?: Record<string, unknown> | Array<Record<string, unknown>>
 }
 
 const {
   title = 'al-Ibadah - Islamisk kunskapssamling',
   description = 'En kunskapssamling om islamisk dyrkan och teologi på svenska.',
   article = false,
+  author,
+  jsonLd,
 } = Astro.props
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site)
+const ogImageURL = new URL('/og-image.png', Astro.site)
 ---
 
 <html lang="sv">
@@ -35,6 +41,12 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site)
     <link rel="alternate" type="application/rss+xml" title="al-Ibadah" href="/rss.xml" />
     <link rel="sitemap" href="/sitemap-index.xml" />
 
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0a0a0a" media="(prefers-color-scheme: dark)" />
+
+    {author && <meta name="author" content={author} />}
+    {author && <meta property="article:author" content={author} />}
+
     <!-- Open Graph -->
     <meta property="og:type" content={article ? 'article' : 'website'} />
     <meta property="og:locale" content="sv_SE" />
@@ -42,11 +54,17 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site)
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalURL} />
+    <meta property="og:image" content={ogImageURL} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
 
     <!-- Twitter -->
-    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageURL} />
+
+    {jsonLd && <JsonLd data={jsonLd} />}
 
     <script is:inline>
       (function(){

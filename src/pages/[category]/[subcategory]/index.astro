@@ -4,7 +4,9 @@ import BaseLayout from '~/layouts/BaseLayout.astro'
 import PageLayout from '~/components/layout/PageLayout.astro'
 import Breadcrumbs from '~/components/layout/Breadcrumbs.astro'
 import { CATEGORY_NAMES, deriveSubcategoryName } from '~/lib/content-utils'
+import { renderTitle } from '~/lib/render-title'
 import SubcategoryName from '~/components/ui/SubcategoryName.astro'
+import { buildBreadcrumbSchema, buildCollectionPageSchema } from '~/lib/structured-data'
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles')
@@ -54,9 +56,24 @@ export async function getStaticPaths() {
 
 const { category, subcategory } = Astro.params
 const { categoryName, subcategoryName, articles } = Astro.props
+const subcategoryDescription = `${articles.length} utlatanden om ${subcategoryName.toLowerCase()} inom ${categoryName.toLowerCase()}.`
+const breadcrumbItems = [
+  { label: 'Hem', href: '/' },
+  { label: categoryName, href: `/${category}` },
+  { label: subcategoryName, href: `/${category}/${subcategory}` },
+]
+const jsonLd = [
+  buildBreadcrumbSchema(breadcrumbItems),
+  buildCollectionPageSchema({
+    title: subcategoryName,
+    description: subcategoryDescription,
+    url: `/${category}/${subcategory}`,
+    itemCount: articles.length,
+  }),
+]
 ---
 
-<BaseLayout title={`${subcategoryName} - al-Ibadah`}>
+<BaseLayout title={`${subcategoryName} - al-Ibadah`} description={subcategoryDescription} jsonLd={jsonLd}>
   <PageLayout>
     <Breadcrumbs
       items={[
@@ -74,7 +91,7 @@ const { categoryName, subcategoryName, articles } = Astro.props
             href={`/${category}/${subcategory}/${article.slug}`}
             class="card block"
           >
-            <h2 class="font-medium mb-1 text-foreground">{article.title}</h2>
+            <h2 class="font-medium mb-1 text-foreground" set:html={renderTitle(article.title)} />
             {article.author && <p class="text-sm text-muted-foreground">{article.author}</p>}
           </a>
         ))}

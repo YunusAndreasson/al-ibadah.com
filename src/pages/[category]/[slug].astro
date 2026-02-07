@@ -5,6 +5,12 @@ import PageLayout from '~/components/layout/PageLayout.astro'
 import Breadcrumbs from '~/components/layout/Breadcrumbs.astro'
 import ArticleRenderer from '~/components/content/ArticleRenderer.astro'
 import { CATEGORY_NAMES } from '~/lib/content-utils'
+import {
+  buildBreadcrumbSchema,
+  buildFAQPageSchema,
+  buildArticleSchema,
+  extractQA,
+} from '~/lib/structured-data'
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles')
@@ -23,12 +29,37 @@ const { category } = Astro.params
 const { article } = Astro.props
 const { Content } = await render(article)
 const categoryName = CATEGORY_NAMES[category!] || category
+const pageUrl = `/${category}/${Astro.params.slug}`
+const breadcrumbItems = [
+  { label: 'Hem', href: '/' },
+  { label: categoryName!, href: `/${category}` },
+  { label: article.data.title, href: pageUrl },
+]
+const qa = extractQA(article.body)
+const articleSchema = qa
+  ? buildFAQPageSchema({
+      title: article.data.title,
+      description: article.data.description,
+      url: pageUrl,
+      question: qa.question,
+      answer: qa.answer,
+      author: article.data.author,
+    })
+  : buildArticleSchema({
+      title: article.data.title,
+      description: article.data.description,
+      url: pageUrl,
+      author: article.data.author,
+    })
+const jsonLd = [buildBreadcrumbSchema(breadcrumbItems), articleSchema]
 ---
 
 <BaseLayout
   title={`${article.data.title} - al-Ibadah`}
   description={article.data.description}
   article
+  author={article.data.author}
+  jsonLd={jsonLd}
 >
   <PageLayout>
     <Breadcrumbs
