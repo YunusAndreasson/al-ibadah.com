@@ -20,7 +20,7 @@ description: >-
 
 Den starkare åsikten i denna fråga är dock att fadern, eller någon annan, inte får tvinga en kvinna till att gifta sig med någon hon inte vill ha, även om han är passande. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*En oskuld får inte ges i giftermål innan hennes tillstånd har sökts*." [^1] Detta gäller allmänt så ingen förmyndare är undantagen från det.
 
-Saken är den att det i *Sahīh Muslim* har rapporterats: "*Fadern måste söka oskuldens tillstånd.*" [^2] Oskulden och fadern har då specificerats. Detta gäller i fall av oenighet och man måste handla enligt detta.
+Saken är den att det i *Ṣaḥīḥ Muslim* har rapporterats: "*Fadern måste söka oskuldens tillstånd.*" [^2] Oskulden och fadern har då specificerats. Detta gäller i fall av oenighet och man måste handla enligt detta.
 
 Grundat på detta: En man som tvingar sin dotter till att gifta sig med en man som hon inte vill ha är förbjudet.
 
@@ -33,6 +33,6 @@ Den man som vittnar falskt har begått en stor synd, vilket profeten – över h
 De som vittnat falskt måste därför vända sig till Allāh i ånger och dra tillbaka sina vittnesmål. Samma gäller för modern då hon på ett felaktigt sätt skrivit under för dottern. Hon har genom detta syndat och hon måste vända dig till Allāh i ånger och hon får inte göra så igen.
 
 
-[^1]: *al-Bukhārī* 5136 och *Muslim* 1419
+[^1]: *al-Buk̲hārī* 5136 och *Muslim* 1419
 [^2]: *Muslim* 1421
 [^3]: *at-Tirmithi* 2301

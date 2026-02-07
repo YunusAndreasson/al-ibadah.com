@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 138 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - Ihrām-förbud
+  - Förbud i helgtillståndet
 original_id: 773
 description: >-
   Fråga: Jag utförde den obligatoriska vallfärden för två år sedan och det var
@@ -14,7 +14,7 @@ description: >-
   denna fantastiska dag, blev mina ögon röda [...
 ---
 
-**Fråga:** Jag utförde den obligatoriska vallfärden för två år sedan och det var för första gången. På *Arafat*-dagen, då jag gjorde åkallan till Allāh under denna fantastiska dag, blev mina ögon röda [då jag grät]. När jag var klar och torkade tårarna från mitt ansikte föll två hårstrån av från min ögonlock. Det var inte avsiktligt. Var det på något sätt en synd?
+**Fråga:** Jag utförde den obligatoriska vallfärden för två år sedan och det var för första gången. På *´Arafāt*-dagen, då jag gjorde åkallan till Allāh under denna fantastiska dag, blev mina ögon röda [då jag grät]. När jag var klar och torkade tårarna från mitt ansikte föll två hårstrån av från min ögonlock. Det var inte avsiktligt. Var det på något sätt en synd?
 
 **Svar:** Må Allāh acceptera och mångfaldiga dina belöningar och välsignelser för din iver, ödmjukhet och den handling som du har gjort för att komma Allāh nära.
 

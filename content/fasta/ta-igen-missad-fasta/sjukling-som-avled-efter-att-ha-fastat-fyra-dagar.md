@@ -15,11 +15,11 @@ description: >-
   sjukling? Svar: Om sjukdomen som drabbad...
 ---
 
-**Fråga:** En sjukling fastade under *ramadan*. Fyra dagar efter att månaden hade börjat avled denne. Bör man ta igen återstoden av månaden för denne avlidne sjukling?
+**Fråga:** En sjukling fastade under *ramaḍān*. Fyra dagar efter att månaden hade börjat avled denne. Bör man ta igen återstoden av månaden för denne avlidne sjukling?
 
 **Svar:** Om sjukdomen som drabbade denne kom plötsligt och den varade fram till denne gick bort, då är det inte nödvändigt att ta igen [fastan] för dennes räkning. Detta beror på att Allāh den Upphöjde säger: "*Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarande antal dagar*." [^1]
 
-För den sjuke är det en skyldighet att fasta ett antal andra dagar. Om denne avled innan denne haft möjlighet att göra det, då gäller inte skyldigheten längre då denne inte levde till tidpunkten då fastan vad obligatorisk. Denne går då att likna vid någon som avled under *sha'ban*, denne är inte skyldig att fasta den väntande *ramadan*.
+För den sjuke är det en skyldighet att fasta ett antal andra dagar. Om denne avled innan denne haft möjlighet att göra det, då gäller inte skyldigheten längre då denne inte levde till tidpunkten då fastan vad obligatorisk. Denne går då att likna vid någon som avled under *s̲ha´bān*, denne är inte skyldig att fasta den väntande *ramaḍān*.
 
 Men om sjukdomen var av sådan art att denne inte förväntades att tillfriskna, då är den grundläggande principen att denne är skyldig att ge en fattig mat för varje dag.
 

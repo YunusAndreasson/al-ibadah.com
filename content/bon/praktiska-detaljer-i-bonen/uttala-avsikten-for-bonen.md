@@ -27,4 +27,4 @@ Skulle detta ha varit föreskrivet skulle profeten – över honom vare Allāhs 
 Och Allāh är Beviljaren av framgång.
 
 
-[^1]: *al-Bukhārī* och *Muslim* 1907
+[^1]: *al-Buk̲hārī* och *Muslim* 1907

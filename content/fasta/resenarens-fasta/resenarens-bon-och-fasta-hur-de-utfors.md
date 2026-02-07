@@ -31,7 +31,7 @@ Kravet att be i församlingen gäller fortfarande för resenären. Allāh den Up
 
 > ”När du befinner dig hos de troende och leder dem i bön, låt då en grupp stå upp tillsammans med dig och låt dem behålla sina vapen. När de har avslutat bönen, låt dem ge er betäckning och låt en annan grupp som ännu inte har förrättat sin bön, stiga fram och be med dig.” [Koranen 4:102]
 
-Om en resenär då befann sig i en annan stad eller i ett annat land än sitt eget, då måste denne närvara vid församlingsbönen i moskén om denne hör böneutropet, om denne inte är långt från moskén eller rädd för att tappa bort sitt resesällskap. Detta är enligt det allmänna i bevisen som visar på skyldigheten att be i församlingen om någon hör böneutropet eller *iqamah*.
+Om en resenär då befann sig i en annan stad eller i ett annat land än sitt eget, då måste denne närvara vid församlingsbönen i moskén om denne hör böneutropet, om denne inte är långt från moskén eller rädd för att tappa bort sitt resesällskap. Detta är enligt det allmänna i bevisen som visar på skyldigheten att be i församlingen om någon hör böneutropet eller *iqāmah*.
 
 Resenären ber alla frivilliga böner utom *sunnah* förmiddagsbönen[^1], kvällsbönen och nattbönen. Den resande ber *witr* varje natt, förmiddagsbön, *sunnah* [innan] gryningsbönen och andra icke-obligatoriska böner utöver de fasta *sunnah*-bönerna.
 
@@ -39,12 +39,12 @@ Gällande att slå ihop böner, om den resande befinner sig på vägen är det a
 
 Om resenären har stannat någonstans anses det vara bättre att inte förrätta bönerna tillsammans men om den resande gör så finns det ingen invändan. Dessa båda [tillvägagångssätt] har rapporterats från Allāhs sändebud – över honom vare Allāhs frid och välsignelser.
 
-När det gäller resenärens fasta under *ramadan* är det bättre att fasta men om denne bryter fastan finns det ingen invändan mot det. Resenären måste ta igen de dagar som denne inte fastade om det inte är lättare att bryta fastan, för i sådant fall är det bättre att bryta fastan. Allāh älskar att de tillstånd som Han ger tas i bruk.
+När det gäller resenärens fasta under *ramaḍān* är det bättre att fasta men om denne bryter fastan finns det ingen invändan mot det. Resenären måste ta igen de dagar som denne inte fastade om det inte är lättare att bryta fastan, för i sådant fall är det bättre att bryta fastan. Allāh älskar att de tillstånd som Han ger tas i bruk.
 
 All lovprisan tillhör Allāh, världarnas Herre.
 
 [^1]: Dhuhr
 
-[^2]: *al-Bukhārī* 1090 och *Muslim* 685
-[^3]: *al-Bukhārī* 1081 och *Muslim* 693
-[^4]: *al-Bukhārī* 636
+[^2]: *al-Buk̲hārī* 1090 och *Muslim* 685
+[^3]: *al-Buk̲hārī* 1081 och *Muslim* 693
+[^4]: *al-Buk̲hārī* 636

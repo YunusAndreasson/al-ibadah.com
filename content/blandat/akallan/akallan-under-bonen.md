@@ -22,12 +22,12 @@ Han har även sagt: "*Beträffande bugningen, lovprisa din Herre i den; och när
 
 Från Abū Hurairah återges i *Muslim* att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Tjänaren är närmst sin Herre när han nedfaller, så åkalla mycket*.” [^2]
 
-I *Sahīh Muslim* och *Sahīh al-Bukhārī* har det berättats från ´Abdullāh bin Mas'ud att när profeten – över honom vare Allāhs frid och välsignelser – lärde honom *tashahhud* så sade han: ”*Låt honom sedan välja vilken angelägenhet han vill*.” [^3] Och i en annan version: ”*Låt honom sedan välja den åkallan som gör honom nöjd*.” [^4]
+I *Ṣaḥīḥ Muslim* och *Ṣaḥīḥ al-Buk̲hārī* har det berättats från ´Abdullāh bin Mas'ud att när profeten – över honom vare Allāhs frid och välsignelser – lärde honom *tas̲hahhud* så sade han: ”*Låt honom sedan välja vilken angelägenhet han vill*.” [^3] Och i en annan version: ”*Låt honom sedan välja den åkallan som gör honom nöjd*.” [^4]
 
-*Ahādīth* med denna innebörd är många och de bevisar att det är tillåtet att åkalla i dessa moment. De bevisar också att en muslim för använda vilken åkallan han vill. Det kan gälla något i detta livet eller i det Nästa. Villkoren är dock att denna åkallan inte blandar in något syndigt eller att den används för att skära familjeband. Det bästa är att i så stor utsträckning som möjligt använda de åkallan den som har rapporterats från profeten – över honom vare guds frid och välsignelser.
+*aḥādīt̲h* med denna innebörd är många och de bevisar att det är tillåtet att åkalla i dessa moment. De bevisar också att en muslim för använda vilken åkallan han vill. Det kan gälla något i detta livet eller i det Nästa. Villkoren är dock att denna åkallan inte blandar in något syndigt eller att den används för att skära familjeband. Det bästa är att i så stor utsträckning som möjligt använda de åkallan den som har rapporterats från profeten – över honom vare guds frid och välsignelser.
 
 
 [^1]: *Muslim* 479
 [^2]: *Muslim* 482
 [^3]: *Muslim* 402
-[^4]: *al-Bukhārī* 835
+[^4]: *al-Buk̲hārī* 835

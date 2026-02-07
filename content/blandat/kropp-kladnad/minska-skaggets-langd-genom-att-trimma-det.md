@@ -19,4 +19,4 @@ description: >-
 **Svar:** Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har klart och tydligt sagt: ”Klipp era mustascher och odla skäggen.” [^1] Skägget består av håret som växer på ens kinder och haka men inte av det hår som finns därunder.
 
 
-[^1]: *Ahmad* 2:229
+[^1]: *Aḥmad* 2:229

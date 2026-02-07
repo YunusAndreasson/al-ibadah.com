@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 305 s. ISBN saknas
 categories:
   - Bön (Salāh)
-  - Nattbön och witr
+  - Nattbön
 original_id: 1513
 description: >-
   Fråga: Vilken är den senaste tidpunkten för att be witr? Svar: Enligt
@@ -20,4 +20,4 @@ description: >-
 
 [^1]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 
-[^2]: *al-Bukhārī* 990 och *Muslim* 749
+[^2]: *al-Buk̲hārī* 990 och *Muslim* 749

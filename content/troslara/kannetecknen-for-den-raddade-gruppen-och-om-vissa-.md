@@ -26,9 +26,9 @@ I karaktär finner vi också att de utmärker sig från andra genom deras finna 
 
 I uppförande finner vi dem behandla människor med ärlighet och öppenhet. Dessa både särdrag har profeten – över honom vare Allāhs frid och välsignelser – talat om när han sade:
 
-> ”Båda parter i en affärsuppgörelse har rätt att upplösa den så länge de inte skiljs åt och om de talar sanning och gör allting klart och tydligt kommer de att välsignas i sina affärer, men om de ljuger eller döljer någonting kommer välsignelsen i deras uppgörelse att suddas ut.” [*al-Bukhārī* 2097]
+> ”Båda parter i en affärsuppgörelse har rätt att upplösa den så länge de inte skiljs åt och om de talar sanning och gör allting klart och tydligt kommer de att välsignas i sina affärer, men om de ljuger eller döljer någonting kommer välsignelsen i deras uppgörelse att suddas ut.” [*al-Buk̲hārī* 2097]
 
-En bristfällighet i dessa egenskaper hindrar inte att en person tillhör den räddade gruppen men var och en kommer att vara i nivå med sina handlingar. Bristfälligheter i *tawhīd* kan tänkas ta en person ur den räddade gruppen. Detta kan bero på en felaktig uppriktighet [att någon inte handlar enbart för Allāh] eller på de innovationer någon tar sig för. Innovationer kan vara av den grad att de leder till utträde ur den räddade gruppen.
+En bristfällighet i dessa egenskaper hindrar inte att en person tillhör den räddade gruppen men var och en kommer att vara i nivå med sina handlingar. Bristfälligheter i *tawḥīd* kan tänkas ta en person ur den räddade gruppen. Detta kan bero på en felaktig uppriktighet [att någon inte handlar enbart för Allāh] eller på de innovationer någon tar sig för. Innovationer kan vara av den grad att de leder till utträde ur den räddade gruppen.
 
 Bristfälligheter i karaktär eller beteende tar en inte ur den räddade gruppen, även om det kan minska ens status.
 
@@ -40,7 +40,7 @@ Han har även informerat oss om att Muḥammad är oskyldig till att människor 
 
 > ”Du har inte ansvar för dem som ger upphov till splittring i sin religion och bildar sekter. Ingen utom Gud ska döma dem, och då ska Han låta dem veta vad deras handlingar [var värda].” [Koranen 6:159]
 
-Således är en enad röst och harmoni hjärtan emellan bland de mest särskiljande karaktärsdragen för den räddade gruppen – *ahlus-sunnah wal-jamā'at*. När oenigheter uppstår mellan dem – som beror på *ijtihād* i frågor som det är tillåtet att utöva *ijtihād* i – ger de inte plats åt bitterhet, fiendskap eller hat mot varandra. Även om detta skulle inträffa känner de att de är bröder.
+Således är en enad röst och harmoni hjärtan emellan bland de mest särskiljande karaktärsdragen för den räddade gruppen – *ahlus-sunnah wal-jamā´at*. När oenigheter uppstår mellan dem – som beror på *ijtihād* i frågor som det är tillåtet att utöva *ijtihād* i – ger de inte plats åt bitterhet, fiendskap eller hat mot varandra. Även om detta skulle inträffa känner de att de är bröder.
 
 Detta gör de till den grad att en av dem ber bakom en imam som denne inte anser vara rituellt ren, medan imamen anser att han är det. När någon av dem, exempelvis, ber bakom en imam som har ätit kamelkött och denne imam inte anser att det gör tvagningen ogiltig, men den som leds i bön anser att den blir det, är han [som leds] ändå av åsikten att hans bön bakom denne imam är giltig även om han inte hade gjort så om han hade bett själv.
 
@@ -58,11 +58,11 @@ Därför anser jag det vara en skyldighet, för muslimer som påstår sig följa
 
 Det finns inget behov av att urskilja varje fraktion med ett namn men den vise förstår och frågan blir klar för denne.
 
-Jag anser att *ahlus-sunnah wal-jamā'at* måste ena sig även om de är oeniga i vissa frågor eftersom de har förstått bevisen på olika sätt. Detta beror på att det finns rum för ömsesidiga eftergifter i dessa frågor, och all lovprisan samt tacksamhet tillhör Allāh.
+Jag anser att *ahlus-sunnah wal-jamā´at* måste ena sig även om de är oeniga i vissa frågor eftersom de har förstått bevisen på olika sätt. Detta beror på att det finns rum för ömsesidiga eftergifter i dessa frågor, och all lovprisan samt tacksamhet tillhör Allāh.
 
 Det viktiga är att alla hjärtan är i harmoni och att man talar med en röst. Det råder ju inga tvivel om att muslimernas fiender älskar att se muslimer splittrade. Detta oavsett om de är fiender som öppet visar sin fiendskap eller om de är fiender som ger intrycket av att vara vänner till muslimer och islam, när de i själva verket inte är det.
 
 Därför måste vi utmärka oss med detta, den räddade gruppens karaktärsdrag, som är att man talar med en röst.
 
 
-[^1]: *al-Bukhārī* 946 och *Muslim* 1770
+[^1]: *al-Buk̲hārī* 946 och *Muslim* 1770

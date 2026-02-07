@@ -24,7 +24,7 @@ I fråga om imamtjänsten för en okunnig eller dåraktig person så återger *M
 
 Och i en annan version: ”*som antog islam först*.” ”*En man får inte leda en annan person i dennes hem, ej heller bör han utan tillstånd sitta i hans hem då han är gäst*.” [^2]
 
-Därmed är det inte rätt om en okunnig person som inte är duktig på att recitera *al-Fātihah* agerar imam, utom om han leder sådana som han själv och det inte finns någon annan bland dem som förtjänar att vara imam.
+Därmed är det inte rätt om en okunnig person som inte är duktig på att recitera *al-Fātiḥah* agerar imam, utom om han leder sådana som han själv och det inte finns någon annan bland dem som förtjänar att vara imam.
 
 [^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

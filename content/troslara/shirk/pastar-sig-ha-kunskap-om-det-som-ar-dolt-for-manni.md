@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Shirk [Att sätta något vid Allāhs sida]
+  - Avgudadyrkan
 original_id: 1072
 description: 'Fråga: Vilket är utlåtandet om någon som påstår sig ha kunskap om det
  som är dolt för människor? Svar: Utlåtandet om en person som påstår sig ha kunskap

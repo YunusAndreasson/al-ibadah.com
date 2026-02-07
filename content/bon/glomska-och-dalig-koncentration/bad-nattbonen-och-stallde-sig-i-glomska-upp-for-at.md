@@ -18,7 +18,7 @@ description: >-
 
 **Fråga:** En man bad nattbönen som bes genom att be två bönecykler åt gången men han glömde bort sig och reste sig upp för att be en tredje bönecykel. Vad bör han göra då?
 
-**Svar:** Han skulle ha suttit ned i *tashahhud* när han kom på att han felaktigt hade börjat på en tredje bönecykel. Om han inte sitter ned skulle det anses som att han avsiktligen utökade bönen. Hans bön skulle då vara ogiltig.
+**Svar:** Han skulle ha suttit ned i *tas̲hahhud* när han kom på att han felaktigt hade börjat på en tredje bönecykel. Om han inte sitter ned skulle det anses som att han avsiktligen utökade bönen. Hans bön skulle då vara ogiltig.
 
 I fråga om detta har imam Ahmad skrivit att om han reste sig upp i nattbönen för en tredje bönecykel, då är det likvärdigt med att han skulle stå upp för att be en tredje bönecykel i gryningsbönen. Detta innebär att om han inte går tillbaka skulle hans bön vara ogiltig. Undantaget från denna regel är *witr* då det är det tillåtet att be mer än två bönecykler [i den]. Om någon då gör *witr* som tre bönecykler skulle det vara tillåtet.
 

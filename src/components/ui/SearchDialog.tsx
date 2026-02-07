@@ -6,6 +6,7 @@ interface SearchItem {
   path: string
   category: string
   subcategory?: string
+  arabicTerm?: string
 }
 
 const indexPromise: Promise<SearchItem[]> = fetch('/search-index.json')
@@ -31,7 +32,13 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
     if (!query.trim()) return []
 
     const q = query.toLowerCase()
-    return searchIndex.filter((item) => item.title.toLowerCase().includes(q)).slice(0, 10)
+    return searchIndex
+      .filter(
+        (item) =>
+          item.title.toLowerCase().includes(q) ||
+          (item.arabicTerm && item.arabicTerm.toLowerCase().includes(q)),
+      )
+      .slice(0, 10)
   }, [query, searchIndex])
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: intentionally reset selection when query changes

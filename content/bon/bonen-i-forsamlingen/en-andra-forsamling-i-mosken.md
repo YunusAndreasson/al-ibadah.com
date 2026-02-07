@@ -19,4 +19,4 @@ description: >-
 **Svar:** Om några kommer sent när imamen har gjort *taslīm* och de ber i församling en gång till, då har de inte syndat enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Vem kommer att ge till välgörenhet till denne man genom att be med honom*.” [^1]
 
 
-[^1]: *Ahmad* 3:45
+[^1]: *Aḥmad* 3:45

@@ -6,7 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Gravdyrkan
+  - Åkallan av döda
 original_id: 28
 description: 'Fråga: Kan Ali hjälpa någon under tider av svårigheter? Svar: Ali
  mördades utan att vara medveten om sin mördares planer, ej heller kunde han skydda

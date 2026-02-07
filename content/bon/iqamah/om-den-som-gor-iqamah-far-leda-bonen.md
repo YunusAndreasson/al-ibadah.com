@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 130 s. ISBN saknas
 categories:
   - Bön (Salāh)
-  - 'Iqāmah [Det andra böneutropet]'
+  - Det andra böneutropet
 original_id: 180
 description: >-
   Fråga: Får böneutroparen leda tjänarna i bön när han har ropat ut iqāmah ?

@@ -18,9 +18,9 @@ description: >-
 
 **Svar:** Genom att ta någon annans pengar som fanns i din hand bröt du ett förtroende du hade, oavsett om du hade tänkt lämna tillbaka pengarna eller inte. Du tog pengarna från dess ägare som kunde ha investerat dem och gjort en vinst. Utöver detta mer eller mindre vanhedrade du dig själv och befläckade din heder.
 
-Åtminstone återlämnade du pengarna och du känner ånger för vad du gjort. Men du måste göra än mer: Du måste besluta dig för att inte återvända till denna synd och du måste be ägaren till pengarna om förlåtelse. Detta för att din ånger ska accepteras. Du måste även göra mer goda gärningar, enligt *hadīthen*[^1]: "*Följ en synd med en god handling och den senare kommer att stryka ut den tidigare*." [^1]
+Åtminstone återlämnade du pengarna och du känner ånger för vad du gjort. Men du måste göra än mer: Du måste besluta dig för att inte återvända till denna synd och du måste be ägaren till pengarna om förlåtelse. Detta för att din ånger ska accepteras. Du måste även göra mer goda gärningar, enligt *ḥadīt̲h*[^1]: "*Följ en synd med en god handling och den senare kommer att stryka ut den tidigare*." [^1]
 
 Ha hopp om att Allāh den Allsmäktige kommer att förlåta dig och skydda dig från onda handlingar.
 
 
-[^1]: *Ahmad* 5:153, 158, 228 och 236
+[^1]: *Aḥmad* 5:153, 158, 228 och 236

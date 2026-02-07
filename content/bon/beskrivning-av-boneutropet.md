@@ -15,11 +15,11 @@ description: >-
 
 **Svar:** Flera versioner av böneutropet har återberättats i fullgoda rapporter från profeten. För att sätta hela hans *sunnah* i bruk och för att få ett slut på de dispyter och meningsskiljaktigheter som väcks av de okunniga eller de som blint följer sin egen rättsskola är det *sunnah* att använda alla versioner som har berättats ifrån honom.
 
-*Shaykh* Ibn ´Uthaymīn har sagt:
+*s̲hayk̲h* Ibn ´Uthaymīn har sagt:
 
 > "Allting som finns återberättat om böneutropet i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* är tillåtet. Det som bör göras är att en version reciteras vid vissa tillfällen och en annan vid andra tillfällen. Detta så länge det inte skapar någon förvirring eller *fitnah*.
 
-> Mālik har återberättat sjutton olika fraser som ska läsas. Man börjar med att säga ’*Allāhu Akbar*’ två gånger. Därefter läser böneutroparen trosbekännelsen först för sig själv för att sedan läsa den högt och fortsätta med böneutrop.
+> Mālik har återberättat sjutton olika fraser som ska läsas. Man börjar med att säga ’*Allāhu akbar*’ två gånger. Därefter läser böneutroparen trosbekännelsen först för sig själv för att sedan läsa den högt och fortsätta med böneutrop.
 
 > Enligt al-Shāfa'i finns det nitton olika fraser med *takbīr* fyra gånger i början. Därefter läser böneutroparen själv först trosbekännelsen för att sedan säga den högt och fortsätta med böneutropet.
 
@@ -33,15 +33,15 @@ Det bevis som Mālik och al-Shāfa'i stödjer sig på är:
 
 > '*Allāhu akbar, Allāhu akbar, ash-hadu an lā ilāh ill-Allāh, ash-hadu an lā ilāh ill-Allāh, ash-hadu anna Muḥammadan rasūl-Allāh, ash-hadu anna Muḥammadan rasūl-Allāh. Sedan bör han läsa efter, ash-hadu an lā ilāh ill-Allāh, ash-hadu an lā ilāh ill-Allāh, ash-hadu anna Muḥammadan rasūl-Allāh, ash-hadu anna Muḥammadan rasūl-Allāh. Hayya ‘ala al-salāh* – två gånger; *hayya ‘ala’l-falāh* – två gånger; *Allāhu akbar, Allāhu akbar, Lā ilāha ill-Allāh*.'” [*Muslim* 379]
 
-Denna *hadīth* citeras som bevis för Māliks och al-Shāfa'is åsikt då den beskriver två sätt för att recitera *takbīr* i början av böneutropet – två gånger enligt Mālik och fyra gånger enligt al-Shāfa'i.
+Denna *ḥadīt̲h* citeras som bevis för Māliks och al-Shāfa'is åsikt då den beskriver två sätt för att recitera *takbīr* i början av böneutropet – två gånger enligt Mālik och fyra gånger enligt al-Shāfa'i.
 
 al-Nawawi har sagt:
 
-> "Denna *hadīth* i *Sahīh Muslim* nämner att ’*Allāhu Akbar*’ endast ska sägas två gånger i början. I andra källor än i *Muslim* står det att ’*Allāhu Akbar*’ ska sägas fyra gånger.”
+> "Denna *ḥadīt̲h* i *Ṣaḥīḥ Muslim* nämner att ’*Allāhu akbar*’ endast ska sägas två gånger i början. I andra källor än i *Muslim* står det att ’*Allāhu akbar*’ ska sägas fyra gånger.”
 
 al-Qādi 'Iyād har sagt:
 
-> "I några rapporter i *Sahīh Muslim* nämns det att det ska sägas fyra gånger. al-Shāfa'i, Abū Hanīfah, Ahmad och en majoritet av de lärda har sagt att det ska upprepas fyra gånger. Mālik har sagt att det ska upprepas två gånger och han citerade denna *hadīth* som bevis.”
+> "I några rapporter i *Ṣaḥīḥ Muslim* nämns det att det ska sägas fyra gånger. al-Shāfa'i, Abū Hanīfah, Ahmad och en majoritet av de lärda har sagt att det ska upprepas fyra gånger. Mālik har sagt att det ska upprepas två gånger och han citerade denna *ḥadīt̲h* som bevis.”
 
 Beviset för Abū Hanīfahs och Ahmads åsikt: Det har berättats att 'Abd-Allāh ibn Zayd har sagt:
 
@@ -49,11 +49,11 @@ Beviset för Abū Hanīfahs och Ahmads åsikt: Det har berättats att 'Abd-Allā
 
 > Den påföljande morgonen gick jag till Allāhs sändebud – över honom vare Allāhs frid och välsignelser – och berättade för honom om vad jag hade sett. Han svarade: 'Detta är en sann dröm, om Allāh vill. Gå upp med Bilal och lär honom det du såg, för han har en mer välklingande röst än du.' Så jag gick upp med Bilal och lärde honom, och han gjorde böneutropet. ´Umar ibn al-Khattāb hörde detta i sitt hem och han kom ut, dragandes sina kläder efter sig, och han sade: 'Vid Den som sände dig med sanningen, Allāhs sändebud, jag såg samma sak som han såg!' Allāhs sändebud sade: 'All lovprisan tillhör Allāh.'”
 
-Återberättad av *Abū Dawūd* 499 och klassad som *sahīh* av Ibn Khuzaymah 1/191 och Ibn Hibbān 4/572. al-Tirmithi har berättat att imam al-Bukhārī ansåg att den var *sahīh*, se *Sunan al-Bayhaqi* 1/390.
+Återberättad av *Abū Dāwūd* 499 och klassad som *Ṣaḥīḥ* av Ibn Khuzaymah 1/191 och Ibn Hibbān 4/572. al-Tirmithi har berättat att imam al-Bukhārī ansåg att den var *Ṣaḥīḥ*, se *Sunan al-Bayhaqi* 1/390.
 
-*Shaykh ul-islām* Ibn Taymiyah har sagt:
+*s̲hayk̲h ul-islām* Ibn Taymiyah har sagt:
 
-> ”Då så är fallet är den korrekta åsikten *ahl al-hadīths*[^1] och dem som är eniga med dem. Den är att acceptera allt som har återberättats ifrån profeten – över honom vare Allāhs frid och välsignelser – och inte sätta sig emot några av dessa *ahādīth*. Skillnaderna i böneutropet och *iqāmah* är som skillnaderna vid recitationen av *tashahhud*. Ingen får motsätta sig något som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har ålagt för sitt samfund. De som för dispyter och delar sig i denna fråga till den grad att de ser människor som vänner eller fiender, eller strider i frågor där Allāh har godkänt olika åsikter, som några av de i öst gör, det är de som har splittrat deras religion och blivit sekter [de uppfann nya saker i religionen och följde sina fåfänga begär]. För att följa profetens – över honom vare Allāhs frid och välsignelser – *sunnah* fullt ut bör vi tillämpa den på ett sätt den ena gången och på ett annat sätt den andra gången; på ett sätt vid en plats och på ett annat sätt vid en annan plats – därför att överge det som har återberättats ifrån hans *sunnah* och att följa något annat kan leda till att något som är *sunnah* ses som innovation och att något som är rekommenderat ses som obligatoriskt. Detta leder i sin tur till uppdelning och dispyter om andra gör på ett annat sätt. Muslimer bör därför uppmärksamma de grundläggande principer som kallar till ett efterföljande av profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och *jamā'ah* [majoriteten av muslimer]. Detta speciellt gällande bönen i församlingen. Att säga trosbekännelsen två gånger med en låg röst och sedan upprepa den högt var den åsikt som Mālik och al-Shāfa'i föredrog, men Mālik ansåg att *takbīr* borde sägas två gånger och al-Shāfa'i ansåg att den borde sägas fyra gånger. Abū Hanīfah ansåg att trosbekännelsen inte borde sägas med en låg röst under böneutropet. Ahmad har sagt att båda sätten är *sunnah* men han föredrog att inte göra det då detta var Bilals böneutrop.
+> ”Då så är fallet är den korrekta åsikten *ahl al-hadīths*[^1] och dem som är eniga med dem. Den är att acceptera allt som har återberättats ifrån profeten – över honom vare Allāhs frid och välsignelser – och inte sätta sig emot några av dessa *aḥādīt̲h*. Skillnaderna i böneutropet och *iqāmah* är som skillnaderna vid recitationen av *tas̲hahhud*. Ingen får motsätta sig något som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har ålagt för sitt samfund. De som för dispyter och delar sig i denna fråga till den grad att de ser människor som vänner eller fiender, eller strider i frågor där Allāh har godkänt olika åsikter, som några av de i öst gör, det är de som har splittrat deras religion och blivit sekter [de uppfann nya saker i religionen och följde sina fåfänga begär]. För att följa profetens – över honom vare Allāhs frid och välsignelser – *sunnah* fullt ut bör vi tillämpa den på ett sätt den ena gången och på ett annat sätt den andra gången; på ett sätt vid en plats och på ett annat sätt vid en annan plats – därför att överge det som har återberättats ifrån hans *sunnah* och att följa något annat kan leda till att något som är *sunnah* ses som innovation och att något som är rekommenderat ses som obligatoriskt. Detta leder i sin tur till uppdelning och dispyter om andra gör på ett annat sätt. Muslimer bör därför uppmärksamma de grundläggande principer som kallar till ett efterföljande av profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och *jamā'ah* [majoriteten av muslimer]. Detta speciellt gällande bönen i församlingen. Att säga trosbekännelsen två gånger med en låg röst och sedan upprepa den högt var den åsikt som Mālik och al-Shāfa'i föredrog, men Mālik ansåg att *takbīr* borde sägas två gånger och al-Shāfa'i ansåg att den borde sägas fyra gånger. Abū Hanīfah ansåg att trosbekännelsen inte borde sägas med en låg röst under böneutropet. Ahmad har sagt att båda sätten är *sunnah* men han föredrog att inte göra det då detta var Bilals böneutrop.
 
 > När det gäller *iqāmah* sade Mālik, al-Shāfa'i och Ahmad att fraserna bör sägas en gång, men Ahmad sade att det var *sunnah* att säga dem två gånger. Tre av dem: Abū Hanīfah, al-Shāfa’i och Ahmad föredrog att säga *Qad qāmat il-salāh* två gånger, men Mālik gjorde det inte. Och Allāh vet bäst.” [*Majmū’ al-Fatāwa*, 22/66-69]
 

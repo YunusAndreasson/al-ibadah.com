@@ -28,4 +28,4 @@ Profeten – över honom vare Allāhs frid och välsignelser – sade: "*Överdr
 
 [^1]: Svart pulver av antimon som appliceras runt ögonen.
 
-[^2]: *Abū Dawūd* 142, *at-Tirmithi* 38, *an-Nasā'i* 87 och *Ibn Mājah* 448
+[^2]: *Abū Dāwūd* 142, *at-Tirmithi* 38, *an-Nasā’ī* 87 och *Ibn Mājah* 448

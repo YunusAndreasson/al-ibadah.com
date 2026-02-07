@@ -18,7 +18,7 @@ description: >-
 
 Så vad bör hon göra för att betala allmosa för dessa fem år? Bör hon sälja en del av det eller vad bör hon göra? Hur gör hon under de år som kommer? Detta i vetskap om att om hon skulle vilja betala allmosa vid en tidpunkt så skulle hon inte ha möjlighet att göra detta utom genom att sälja en del av det varje år då hon inte har någon inkomst.
 
-**Svar:** För smycken måste hon betala allmosa varje år om de uppnår den lägsta nivån som gör det till ett krav. Den lägsta nivån är 20 *mithqal* [för guld] eller 11 3/7 saudiska *junahy*. Detta är detsamma som 92 gram. Hon måste betala allmosa även om det sker genom att hon säljer en del guld eller något annat som hon äger.
+**Svar:** För smycken måste hon betala allmosa varje år om de uppnår den lägsta nivån som gör det till ett krav. Den lägsta nivån är 20 *mit̲hqāl* [för guld] eller 11 3/7 saudiska *junahy*. Detta är detsamma som 92 gram. Hon måste betala allmosa även om det sker genom att hon säljer en del guld eller något annat som hon äger.
 
 Om hennes make eller någon annan betalar för hennes räkning och med hennes tillstånd så går det bra. Går det inte så återstår allmosan som en skuld som hon är ansvarig för tills hon har betalat den.
 

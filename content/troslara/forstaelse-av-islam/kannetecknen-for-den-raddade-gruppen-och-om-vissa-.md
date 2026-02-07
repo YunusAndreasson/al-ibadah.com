@@ -27,9 +27,9 @@ I karaktär finner vi också att de utmärker sig från andra genom deras finna 
 
 I uppförande finner vi dem behandla människor med ärlighet och öppenhet. Dessa både särdrag har profeten – över honom vare Allāhs frid och välsignelser – talat om när han sade:
 
-> ”Båda parter i en affärsuppgörelse har rätt att upplösa den så länge de inte skiljs åt och om de talar sanning och gör allting klart och tydligt kommer de att välsignas i sina affärer, men om de ljuger eller döljer någonting kommer välsignelsen i deras uppgörelse att suddas ut.” [*al-Bukhārī* 2097]
+> ”Båda parter i en affärsuppgörelse har rätt att upplösa den så länge de inte skiljs åt och om de talar sanning och gör allting klart och tydligt kommer de att välsignas i sina affärer, men om de ljuger eller döljer någonting kommer välsignelsen i deras uppgörelse att suddas ut.” [*al-Buk̲hārī* 2097]
 
-En bristfällighet i dessa egenskaper hindrar inte att en person tillhör den räddade gruppen men var och en kommer att vara i nivå med sina handlingar. Bristfälligheter i *tawhīd* kan tänkas ta en person ur den räddade gruppen. Detta kan bero på en felaktig uppriktighet [att någon inte handlar enbart för Allāh] eller på de innovationer någon tar sig för. Innovationer kan vara av den grad att de leder till utträde ur den räddade gruppen.
+En bristfällighet i dessa egenskaper hindrar inte att en person tillhör den räddade gruppen men var och en kommer att vara i nivå med sina handlingar. Bristfälligheter i *tawḥīd* kan tänkas ta en person ur den räddade gruppen. Detta kan bero på en felaktig uppriktighet [att någon inte handlar enbart för Allāh] eller på de innovationer någon tar sig för. Innovationer kan vara av den grad att de leder till utträde ur den räddade gruppen.
 
 Bristfälligheter i karaktär eller beteende tar en inte ur den räddade gruppen, även om det kan minska ens status.
 
@@ -67,4 +67,4 @@ Därför måste vi utmärka oss med detta, den räddade gruppens karaktärsdrag,
 
 [^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 
-[^2]: *al-Bukhārī* 946 och *Muslim* 1770
+[^2]: *al-Buk̲hārī* 946 och *Muslim* 1770

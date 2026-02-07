@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Får jag ge till välgörenhet för min mors räkning? Kommer belöningen för den att nå min mor?
 
-**Svar:** Ja, du kan ge till välgörenhet för en avliden förälder och belöningen kommer att nå fram. Beviset för detta är vad som har rapporterats i *Sahīh al-Bukhārī* om en man som kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: ”Min moder avled oväntat och jag tror att om hon hade levt längre skulle hon ha givit i välgörenhet. Får jag ge i välgörenhet för hennes räkning?” Han svarade: ”Ja.”
+**Svar:** Ja, du kan ge till välgörenhet för en avliden förälder och belöningen kommer att nå fram. Beviset för detta är vad som har rapporterats i *Ṣaḥīḥ al-Buk̲hārī* om en man som kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: ”Min moder avled oväntat och jag tror att om hon hade levt längre skulle hon ha givit i välgörenhet. Får jag ge i välgörenhet för hennes räkning?” Han svarade: ”Ja.”
 
 På samma vis tillät profeten – över honom vare Allāhs frid och välsignelser – Sa'd bin 'Ubadah att donera hans dadelträd i Medina för hans mors räkning som hade avlidit.
 

@@ -16,7 +16,7 @@ description: >-
   [vilken är hans födelsedag]? Detta unde...
 ---
 
-**Fråga:** Får muslimer fira *‘eid* i moskén och minnas profetens – över honom vare Allāhs frid och välsignelser – biografi den tolfte natten i *rabi’ al-awwal*[^1] [vilken är hans födelsedag]? Detta under förutsättning att det inte stör arbetet. Vi har olika åsikter om detta; somliga har sagt att det är en dålig innovation och andra har sagt att det är en bra innovation.
+**Fråga:** Får muslimer fira *´eid* i moskén och minnas profetens – över honom vare Allāhs frid och välsignelser – biografi den tolfte natten i *rabi’ al-awwal*[^1] [vilken är hans födelsedag]? Detta under förutsättning att det inte stör arbetet. Vi har olika åsikter om detta; somliga har sagt att det är en dålig innovation och andra har sagt att det är en bra innovation.
 
 **Svar:** Muslimer får varken fira profetens – över honom vare Allāhs frid och välsignelser – födelsedag under natten den tolfte *rabi’ al-awwal*[^1] eller vid någon annan tidpunkt. Anledningen är att detta är en innovation. Profeten – över honom vare Allāhs frid och välsignelser – firande aldrig sin födelsedag under sin livstid och det var han som förmedlade denna religion samt dessa lagar till oss. Han beordrade aldrig någon att göra detta och det gjorde heller inte de korrekt vägledda kaliferna, hans följeslagare eller de som trofast följde dem under de rättfärdiga generationerna.
 
@@ -33,4 +33,4 @@ Denna födelsedag bör ersättas av studier i moskéerna och i skolorna om händ
 [^1]: Den tredje månaden i det islamiska året.
 
 [^2]: *Muslim* 1718
-[^3]: *an-Nasā’i* 1579
+[^3]: *an-Nasā’ī* 1579

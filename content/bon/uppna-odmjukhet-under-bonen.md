@@ -17,9 +17,9 @@ description: >-
 
 **Svar:** Ödmjukhet är bönens innersta mening och själ. Innebörden av den är närvarande och att den troendes hjärta inte vandrar åt endera hållet. Känner man att något avleder ens uppmärksamhet från ödmjukheten, då söker man sin tillflykt hos Allāh från den utstötte djävulen. Detta är något som profeten – över honom vare Allāhs frid och välsignelser – har påbjudit. [^1] Det råder inga tvivel om att djävulen kämpar för att förstöra all dyrkan. Detta gäller speciellt bönen som är den bästa dyrkan efter trosbekännelsen.
 
-När Allāhs tjänare ber kommer djävulen och säger: Har du tänkt på det? Har du tänkt på det? [Detta är en del av en *hadīth* från Abū Hurairah som återfinns i *al-Bukhārī* och *Muslim*] Han får denne att fundera över meningslösa saker i vilka det inte finns någon nytta. Det enda denne då tänker på är att avsluta bönen.
+När Allāhs tjänare ber kommer djävulen och säger: Har du tänkt på det? Har du tänkt på det? [Detta är en del av en *ḥadīt̲h* från Abū Hurairah som återfinns i *al-Buk̲hārī* och *Muslim*] Han får denne att fundera över meningslösa saker i vilka det inte finns någon nytta. Det enda denne då tänker på är att avsluta bönen.
 
-Det är därmed en skyldighet att vara ytterst medveten när man närmar sig Allāh den Allsmäktige. Om man känner några av dessa tomma tankar och viskningar, då söker man sin tillflykt hos Allāh från den utstötte djävulen. Detta oavsett om man är i bugningen, *tashahhud* eller någon annan av bönens positioner.
+Det är därmed en skyldighet att vara ytterst medveten när man närmar sig Allāh den Allsmäktige. Om man känner några av dessa tomma tankar och viskningar, då söker man sin tillflykt hos Allāh från den utstötte djävulen. Detta oavsett om man är i bugningen, *tas̲hahhud* eller någon annan av bönens positioner.
 
 Ett av de bästa sätten för att hjälpa en att uppnå ödmjukhet i bönen är att komma ihåg att man står inför Allāh och att man är nära sin Herre den Allsmäktige.
 

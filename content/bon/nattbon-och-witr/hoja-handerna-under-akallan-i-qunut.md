@@ -6,7 +6,7 @@ source: >-
   Libanon: Makbtaba Dar us-Salam. 508 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
-  - Nattbön och witr
+  - Nattbön
 original_id: 976
 description: >-
   Fråga: Är det en del av profetens – över honom vare Allāhs frid och

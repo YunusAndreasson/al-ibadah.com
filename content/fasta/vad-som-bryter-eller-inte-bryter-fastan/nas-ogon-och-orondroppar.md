@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om näs-, ögon- och örondroppar för den som fastar?
 
-**Svar:** Näsdroppar bryter fastan om de når magen, enligt vad som har rapporterats i en *hadīth* från Laqit bin Sabirah. Profeten – över honom vare Allāhs frid och välsignelser – säger här till honom: "*Överdriv indraget av vatten i näsan [under tvagningen] utom när ni fastar*." [^2]
+**Svar:** Näsdroppar bryter fastan om de når magen, enligt vad som har rapporterats i en *ḥadīt̲h* från Laqit bin Sabirah. Profeten – över honom vare Allāhs frid och välsignelser – säger här till honom: "*Överdriv indraget av vatten i näsan [under tvagningen] utom när ni fastar*." [^2]
 
 Således får den fastande inte ta näsdroppar som når dennes mage. Droppar som inte når magen bryter inte fastan.
 
@@ -30,4 +30,4 @@ Och på samma sätt om den fastande inte kan andas och använder en inhalator so
 
 [^1]: Svart ögonkräm som används för att måla runt ögonen.
 
-[^2]: *Abū Dawūd* 142, *at-Tirmithi* 38, *an-Nasā'i* 87 och *Ibn Mājah* 448
+[^2]: *Abū Dāwūd* 142, *at-Tirmithi* 38, *an-Nasā’ī* 87 och *Ibn Mājah* 448

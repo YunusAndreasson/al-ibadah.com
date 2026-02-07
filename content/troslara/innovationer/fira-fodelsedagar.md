@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** I vår stad i Egypten är det sed att hålla en fest när någon fyller år. På denna fest brukar man till exempel blåsa ut tårtljus. Jag har nyligen hört att detta inte är tillåtet inom islam samt att det inte är tillåtet att besöka dessa fester om man bjuds in. Vänligen, ge oss råd.
 
-**Svar:** Denna sed är en vedervärdig innovation som Allāh inte har godkänt. I *ahādīth* rapporteras att folket i Medina brukade fira två högtider under den förislamiska tiden, sedan ersatte Allāh dessa med två tillåtna högtider. Inget har nämnts i Allāhs lag om födelsedagar och ingen av följeslagarna eller någon i de tidigare rättfärdiga generationerna brukade göra så.
+**Svar:** Denna sed är en vedervärdig innovation som Allāh inte har godkänt. I *aḥādīt̲h* rapporteras att folket i Medina brukade fira två högtider under den förislamiska tiden, sedan ersatte Allāh dessa med två tillåtna högtider. Inget har nämnts i Allāhs lag om födelsedagar och ingen av följeslagarna eller någon i de tidigare rättfärdiga generationerna brukade göra så.
 
 Detta beror på att det enligt den islamiska lagen inte är tillåtet att fira eller närvara vid dessa högtider. Det är heller inte tillåtet att uppmuntra sin familj till detta firande eller att gratulera någon, vilket skulle antyda att man stödjer denna vedervärdiga handling.
 

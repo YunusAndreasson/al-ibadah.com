@@ -6,7 +6,7 @@ source: >-
   Libanon: Makbtaba Dar us-Salam. 355 s. ISBN 9960-892-66-2
 categories:
   - Renhet (Tahārah)
-  - 'Ghusl [Den stora tvagningen]'
+  - Den stora tvagningen
 original_id: 1214
 description: >-
   Fråga: Måste man göra ghusl om man vaknar och finner något vått i ens kläder?
@@ -14,13 +14,13 @@ description: >-
   kategorier: Helt säker på ...
 ---
 
-**Fråga:** Måste man göra *ghusl* om man vaknar och finner något vått i ens kläder?
+**Fråga:** Måste man göra *g̲husl* om man vaknar och finner något vått i ens kläder?
 
 **Svar:** Vaknar någon och finner något vått i kläderna, då gäller en av följande kategorier:
 
-1. Helt säker på att det är sädesvätska. I detta fall är det tvunget att han gör *ghusl*, oavsett om han kommer ihåg att han har haft en erotisk dröm eller ej.
-2. Helt säker på att det inte är sädesvätska. I detta fall är det inte tvunget att han gör *ghusl*. Han måste dock tvätta bort det våta då utlåtandet är samma som för urin.
-3. Känner inte till om det är sädesvätska. Detta fall kräver en längre förklaring: Kommer han ihåg att han har haft en erotisk dröm medan han sov, då måste han anse att det är sädesvätska och göra *ghusl*. Detta enligt en *hadīth* i vilken Umm Salamah frågar profeten – över honom vare Allāhs frid och välsignelser – om vad en kvinna ska göra om hon i en dröm ser vad en man ser [intim samvaro] – bör hon göra då *ghusl*? Han svarade: ”*Ja, om hon ser vätska*.” [^1] Såg han inte något i sin sömn och om han tänkte på intim samvaro innan han somnade, då bör han anse att det är prostatavätska. Tänkte han inte på intim samvaro innan han somnade finns det olika åsikter: Det har sagts att han måste göra *ghusl* för att vara på den säkra sidan men det har också sagts att det inte är nödvändigt att han gör det. Detta är den korrekta åsikten, den grundläggande principen är ju ansvarsfrihet.
+1. Helt säker på att det är sädesvätska. I detta fall är det tvunget att han gör *g̲husl*, oavsett om han kommer ihåg att han har haft en erotisk dröm eller ej.
+2. Helt säker på att det inte är sädesvätska. I detta fall är det inte tvunget att han gör *g̲husl*. Han måste dock tvätta bort det våta då utlåtandet är samma som för urin.
+3. Känner inte till om det är sädesvätska. Detta fall kräver en längre förklaring: Kommer han ihåg att han har haft en erotisk dröm medan han sov, då måste han anse att det är sädesvätska och göra *g̲husl*. Detta enligt en *ḥadīt̲h* i vilken Umm Salamah frågar profeten – över honom vare Allāhs frid och välsignelser – om vad en kvinna ska göra om hon i en dröm ser vad en man ser [intim samvaro] – bör hon göra då *g̲husl*? Han svarade: ”*Ja, om hon ser vätska*.” [^1] Såg han inte något i sin sömn och om han tänkte på intim samvaro innan han somnade, då bör han anse att det är prostatavätska. Tänkte han inte på intim samvaro innan han somnade finns det olika åsikter: Det har sagts att han måste göra *g̲husl* för att vara på den säkra sidan men det har också sagts att det inte är nödvändigt att han gör det. Detta är den korrekta åsikten, den grundläggande principen är ju ansvarsfrihet.
 
 
 [^1]: *Muslim* 311

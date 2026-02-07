@@ -23,7 +23,7 @@ Den islamiska innebörden är att man medlar för någon annan för att uppnå n
 
 Det finns olika former av *shafa'ah*:
 
-*Bekräftad och autentisk medling.* [Denna medling] har Allāh den Upphöjde bekräftat i Sin skrift och [likaså] har Hans sändebud bekräftat den. Denna [medling] gäller enbart för dem som utövar *tawhīd* och har en ren tro [*ikhlas*]. Skälet till detta är att Abū Hurairah sade: ”*Allāhs sändebud! Vilka kommer att vara de lyckligaste människorna på grund av din medling?*” Han svarade: ”*De som från deras hjärtan uppriktigt säger: 'Lā ilāha illAllāh [ingen har rätt att dyrkas utom Allāh]*.'” [^3] Denna medling har tre villkor:
+*Bekräftad och autentisk medling.* [Denna medling] har Allāh den Upphöjde bekräftat i Sin skrift och [likaså] har Hans sändebud bekräftat den. Denna [medling] gäller enbart för dem som utövar *tawḥīd* och har en ren tro [*ik̲hlāṣ*]. Skälet till detta är att Abū Hurairah sade: ”*Allāhs sändebud! Vilka kommer att vara de lyckligaste människorna på grund av din medling?*” Han svarade: ”*De som från deras hjärtan uppriktigt säger: 'Lā ilāha illAllāh [ingen har rätt att dyrkas utom Allāh]*.'” [^3] Denna medling har tre villkor:
 
 1. Allāh är nöjd med medlaren,
 2. Allāh är nöjd med den som det medlas för och
@@ -49,7 +49,7 @@ Den tilltro som månggudadyrkarna sätter till deras gudomar när de säger: "*D
 [^1]: Ett udda antal böne-enheter som utförs någon gång mellan natt-bönen och grynings-bönen.
 [^2]: Du´ā
 
-[^3]: *al-Bukhārī* 99
+[^3]: *al-Buk̲hārī* 99
 [^4]: Koranen 53:26
 [^5]: Koranen 2:255
 [^6]: Koranen 20:109

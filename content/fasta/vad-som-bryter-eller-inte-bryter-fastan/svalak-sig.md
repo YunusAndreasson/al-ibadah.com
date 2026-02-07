@@ -19,4 +19,4 @@ description: >-
 **Svar:** Den fastande får svalka sig. Det finns ingen invändan mot detta då sändebudet – över honom vare Allāhs frid och välsignelser – under tiden han fastade brukade hälla vatten över sitt huvud på grund av hetta eller törst [^1]. Även Ibn ´Umar brukade blöta sina kläder när han fastade för att lindra den värsta värmen och törsten. Fukt har ingen inverkan då detta vatten inte når magen.
 
 
-[^1]: *Abū Dawūd* 2365
+[^1]: *Abū Dāwūd* 2365

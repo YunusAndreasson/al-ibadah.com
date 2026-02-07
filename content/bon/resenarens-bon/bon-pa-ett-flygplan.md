@@ -25,4 +25,4 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*O
 
 
 [^1]: Koranen 64:16
-[^2]: *Muslim* 1337 och *Ahmad* 2:2, 508
+[^2]: *Muslim* 1337 och *Aḥmad* 2:2, 508

@@ -10,11 +10,11 @@ categories:
 original_id: 1249
 description: >-
   Fråga: Vilket är utlåtandet om att besöka gravplatser för att recitera
-  *al-Fātihah* och vad finns det att säga om kvinnor som besöker gravplatser?
+  *al-Fātiḥah* och vad finns det att säga om kvinnor som besöker gravplatser?
   Svar: Att besöka gravplatser är en sunnah som...
 ---
 
-**Fråga:** Vilket är utlåtandet om att besöka gravplatser för att recitera *al-Fātihah* och vad finns det att säga om kvinnor som besöker gravplatser?
+**Fråga:** Vilket är utlåtandet om att besöka gravplatser för att recitera *al-Fātiḥah* och vad finns det att säga om kvinnor som besöker gravplatser?
 
 **Svar:** Att besöka gravplatser är en *sunnah* som profeten – över honom vare Allāhs frid och välsignelser – har beordrat efter att tidigare ha förbjudit det, vilket har bekräftats i hans ord: "*Jag har tidigare förbjudit er att besöka gravar, men nu får ni besöka dem för de kommer att påminna er om det Nästkommande*." [^1]
 
@@ -26,7 +26,7 @@ Det är önskvärt för den som besöker gravplatser att åkalla med de ord som 
 
 > ”*as-Salamu 'alaykum dara qawmim mu'minīn, wa inna in aha' allāhu bikum lahiqūn. Yarhammulahul-mustaqdimīna minna wal-musta'khirīn. Nas-alullaha lana wa lakulmul-'afiyata. Allāhumma la tahrimna ajrahum, wa la taftinna ba'dahum, waghfir lana wa lahum*.”
 
-Det har inte rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att han reciterade sura *al-Fātihah* när han besökte gravarna. Därför motsäger sig recitation av denna sura det som profeten – över honom vare Allāhs frid och välsignelser – har föreskrivit.
+Det har inte rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att han reciterade sura *al-Fātiḥah* när han besökte gravarna. Därför motsäger sig recitation av denna sura det som profeten – över honom vare Allāhs frid och välsignelser – har föreskrivit.
 
 Kvinnor får inte besöka gravplatser. Profeten – över honom vare Allāhs frid och välsignelser – har förbannat kvinnor som besöker gravar, de som tar dem till platser för dyrkan och de som ljussätter dem. [^2]
 
@@ -38,4 +38,4 @@ Den första som gick ut från sitt hem för att besöka gravarna har gjort någo
 
 
 [^1]: *Muslim* 977
-[^2]: *Abū Dawūd* 3236, *at-Tirmithi* 320, *an-Nasā’i* 2042 och *Ibn Mājah* 1575
+[^2]: *Abū Dāwūd* 3236, *at-Tirmithi* 320, *an-Nasā’ī* 2042 och *Ibn Mājah* 1575

@@ -454,6 +454,21 @@ body {
   text-wrap: balance;
 }
 
+/* Arabic term annotations */
+.arabic-subtitle {
+  font-size: var(--font-size-sm);
+  color: var(--color-subtle-foreground);
+  font-weight: 400;
+  margin-top: 0.5rem;
+}
+
+.arabic-inline {
+  font-size: 0.85em;
+  color: var(--color-subtle-foreground);
+  font-weight: 400;
+  margin-left: 0.5em;
+}
+
 /* Utility classes */
 .bg-background { background-color: var(--color-background); }
 .text-foreground { color: var(--color-foreground); }

@@ -23,5 +23,5 @@ I detta fall måste han slutföra sin bön när resenären gör *taslīm* efter 
 Men om resenären ber en bön som är obligatorisk för båda två bakom den som inte reser, då måste han be fyra bönecykler. Detta enligt den starkaste åsikten bland de lärde som grundas på en återberättelse från imam Ahmad och Muslim. I den uppges att Ibn 'Abbās tillfrågades om en resenär som ber fyra bönecykler bakom en imam och två bönecykler med sina följeslagare under resan – och han säger: "*Det är *sunnah*." [^1] Ett bevis är även den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – uttalande: "*Imamen finns där för att följas, så gå inte emot honom*." [^2]
 
 
-[^1]: *Muslim* 688 och *Ahmad* 1:216
-[^2]: *al-Bukhārī* 722, 734 och *Muslim* 414
+[^1]: *Muslim* 688 och *Aḥmad* 1:216
+[^2]: *al-Buk̲hārī* 722, 734 och *Muslim* 414

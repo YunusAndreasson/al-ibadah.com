@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 314 s. ISBN saknas
 categories:
   - Fasta (Sawm)
-  - Nattbön (tarawih)
+  - Ramadanens nattbön
 original_id: 1408
 description: >-
   Fråga: Är tarāwīh -bönen enbart sunnah eller är den sunnat mu'kkadah ? Hur
@@ -14,7 +14,7 @@ description: >-
   frid och välsignelser – har uppmun...
 ---
 
-**Fråga:** Är *tarāwīh*-bönen enbart *sunnah* eller är den *sunnat mu'kkadah*? Hur utförs den?
+**Fråga:** Är *tarāwīḥ*-bönen enbart *sunnah* eller är den *sunnat mu'kkadah*? Hur utförs den?
 
 **Svar:** Den är *sunnat mu'kkadah*. Profeten – över honom vare Allāhs frid och välsignelser – har uppmuntrat till den genom att säga: "*Den som står i bön [nattetid] under ramadan med tro och för att få belöningar, denne kommer att förlåtas dennes tidigare synder*." [^1] Man har bekräftat att han bad med följeslagarna under ett antal nätter. Sedan fruktade han att den skulle bli en skyldighet för dem och han uppmuntrade dem att be var för sig. Då bad vissa hemma, andra bad två och två och andra tre och tre i grupp.
 
@@ -23,4 +23,4 @@ Sedan bestämde 'Umar – må Allāh vara nöjd med honom – att de skulle saml
 Då profeten – över honom vare Allāhs frid och välsignelser – inte har angivit någon definitiv gräns för ett visst antal är denna fråga [om antalet bönecykler] flexibel. Om någon vill kan denne minska antalet bönecykler och dra ut på pelarna [positionerna i bönen] och om någon vill kan denne öka antalet bönecykler.
 
 
-[^1]: *al-Bukhārī* 2009 och *Muslim* 759
+[^1]: *al-Buk̲hārī* 2009 och *Muslim* 759

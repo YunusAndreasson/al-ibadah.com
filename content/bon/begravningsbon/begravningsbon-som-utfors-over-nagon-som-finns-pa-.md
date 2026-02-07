@@ -23,4 +23,4 @@ Men den som muslimerna har bett över är det enligt den korrekta åsikten inte 
 Mäktiga män och ledare avled under profetens – över honom vare Allāhs frid och välsignelser – tid och ingen har berättat att han bad över dem. Vissa lärde har sagt: Om det fanns någon som hjälpte folket genom tillgångar, handlingar eller kunskap bör man be begravningsbönen över denne i dennes frånvaro. Men den som denna beskrivning inte gäller bör man inte be för. Andra lärde har sagt: Den som inte finns på plats får man be för under alla omständigheter. Detta är dock den svagaste åsikten.
 
 
-[^1]: *al-Bukhārī* 6:65 och *Muslim* 2:656
+[^1]: *al-Buk̲hārī* 6:65 och *Muslim* 2:656

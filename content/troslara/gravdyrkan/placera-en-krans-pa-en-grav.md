@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Detta är en innovation samt överdriven vördnad för de döda. Detta är likvärdigt med handlandet hos de som i för stor utsträckning visar vördnad av fromma människor. Det finns en rädsla för att detta kan leda till att kupoler byggs över deras gravar för att söka deras välsignelser samt att de tas som gudar jämte Allāh – upphöjd är Han.
 
-Detta bör stoppas, annars kan det leda till *shirk*.
+Detta bör stoppas, annars kan det leda till *s̲hirk*.
 
 [^1]: De som står Allāh nära.
 

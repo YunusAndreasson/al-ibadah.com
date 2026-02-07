@@ -21,4 +21,4 @@ Från Abu'l-'Alā' ibn al-Shukhayr har det berättats att 'Uthmān har sagt: "*A
 
 Och Allāh är källan till all styrka. Må Allāh välsigna vår profet Muhammed, hans familj och följeslagare, och ge dem frid.
 
-[^1]: *Ahmad* 4/216, *Muslim* 4/1728–1729, *'Abd al-Razzāq* 2/85, 499, 2582, 4220, *Ibn Abi Shaybah* 7/419, 10/353 och *Ibn al-Sunni* i *'Aml al-Yawm wa'l-Laylah* s. 272, 577.
+[^1]: *Aḥmad* 4/216, *Muslim* 4/1728–1729, *'Abd al-Razzāq* 2/85, 499, 2582, 4220, *Ibn Abi Shaybah* 7/419, 10/353 och *Ibn al-Sunni* i *'Aml al-Yawm wa'l-Laylah* s. 272, 577.

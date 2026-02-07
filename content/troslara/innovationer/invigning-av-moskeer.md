@@ -15,11 +15,11 @@ description: >-
   Vilket är utlåtandet om att närvara vid en såda...
 ---
 
-**Fråga:** När en ny moské har byggts och gjorts färdig för bön, då bjuds människor från olika länder in för att fira. Det kallas för en moskéinvigning. Vilket är utlåtandet om att närvara vid en sådan händelse? Är denna *hadīth* ett förbud:
+**Fråga:** När en ny moské har byggts och gjorts färdig för bön, då bjuds människor från olika länder in för att fira. Det kallas för en moskéinvigning. Vilket är utlåtandet om att närvara vid en sådan händelse? Är denna *ḥadīt̲h* ett förbud:
 
-> ”Inga resor bör utföras för att besöka någon moské, utom tre moskéer [den Heliga moskén [i Mecka], profetens – över honom vare Allāhs frid och välsignelser – Moské [i Medina] och Klippmoskén [i Jerusalem].” [*al-Bukhārī* 1189]
+> ”Inga resor bör utföras för att besöka någon moské, utom tre moskéer [den Heliga moskén [i Mecka], profetens – över honom vare Allāhs frid och välsignelser – Moské [i Medina] och Klippmoskén [i Jerusalem].” [*al-Buk̲hārī* 1189]
 
-Om den gör det, vilket är då beviset? Och är *hadithen* i vilken en av följeslagarna bjöd in profeten – över honom vare Allāhs frid och välsignelser – för att be i en del av hans hem för att utse den som böneplats en tillåtelse för detta? Vänligen, utveckla.
+Om den gör det, vilket är då beviset? Och är *ḥadīt̲h* i vilken en av följeslagarna bjöd in profeten – över honom vare Allāhs frid och välsignelser – för att be i en del av hans hem för att utse den som böneplats en tillåtelse för detta? Vänligen, utveckla.
 
 Moskéer kan invigas genom att man ber i dem och använder dem för att åminnas Allāh; genom att recitera Koranen, göra åminnelse, studera islamiska vetenskaper och liknande saker som ger moskén dess förtjänta respekt. Allāh den Upphöjde har sagt:
 
@@ -33,9 +33,9 @@ Hade sådana fester varit prisvärda, då hade Allāhs sändebud – över honom
 
 Följaktligen bör inga sådana tillställningar äga rum, en inbjudan till något sådant bör inte besvaras och de bör inte finansieras. Förtjänster kan uppnås endast genom att följa de fromma föregångarna och oförtjänster finns i det som tidigare generationer har fört in.
 
-Den *hadīth* som berättar om att en plats utses i följeslagarens hus är inte ett bevis för att det som idag kallas för invigningsceremonier är tillåtet. Följeslagaren bjöd inte in profeten – över honom vare Allāhs frid och välsignelser – för att fira, utan i stället bjöd han in honom för att be i hans hem.
+Den *ḥadīt̲h* som berättar om att en plats utses i följeslagarens hus är inte ett bevis för att det som idag kallas för invigningsceremonier är tillåtet. Följeslagaren bjöd inte in profeten – över honom vare Allāhs frid och välsignelser – för att fira, utan i stället bjöd han in honom för att be i hans hem.
 
-Profeten – över honom vare Allāhs frid och välsignelser – reste inte heller för att be, utan han gick endast dit för att be. Det är dessutom förbjudet att resa till en invigningsceremoni. Detta understryks i *hadithen* som förbjuder resor till andra än de tre kända moskéerna som har nämnts ovan.
+Profeten – över honom vare Allāhs frid och välsignelser – reste inte heller för att be, utan han gick endast dit för att be. Det är dessutom förbjudet att resa till en invigningsceremoni. Detta understryks i *ḥadīt̲h* som förbjuder resor till andra än de tre kända moskéerna som har nämnts ovan.
 
 Införda seder som denna bör undvikas och folk bör nöja sig med profetens – över honom vare Allāhs frid och välsignelser – och hans generations *sunnah* i fråga om moskéer och andra angelägenheter.
 

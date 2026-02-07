@@ -16,7 +16,7 @@ description: 'Fråga: Vissa män gifter sig med fler än en kvinna utav stolthet
 
 **Svar:** Att gifta sig med mer än en är något eftersträvansvärt under villkoret att mannen har de finansiella medlen och den fysiska förmågan till att vara rättvis mellan fruarna. Detta beror på att genom månggifte uppnås gott. Exempel på detta kan vara skydd mot förbjudna intima umgängen, att människor förenas och att antalet födslar ökar vilket Profeten – över honom vare Allāhs frid och välsignelser – har visat på genom hans ord: "*Gift [er] med produktiva älskvärda kvinnor därför att jag kommer att ha det största antalet följeslagare på Återuppståndelsens dag.*"[^1] Detta för med sig många fördelar.
 
-[^1]: *Abū Dawūd* 2050, *an-Nasā'i* 3229, *Ahmad* 3:158, 245 och *Ibn Hibbān* 4028
+[^1]: *Abū Dāwūd* 2050, *an-Nasā’ī* 3229, *Aḥmad* 3:158, 245 och *Ibn Hibbān* 4028
 
 Att gifta sig med mer än en fru på grund av stolthet och för att tävla är något som sorteras in under kategorin av slöseri och det är inte tillåtet. Allāh den Högste säger:
 

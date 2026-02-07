@@ -7,7 +7,7 @@ source: >-
   (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - 'Shirk [Att sätta något vid Allāhs sida]'
+  - Avgudadyrkan
 original_id: 1535
 description: >-
   Fråga: Får en muslim umgås med en person som oftast inte ber? Svar: Det är
@@ -21,7 +21,7 @@ description: >-
 
 Att överge bönen är en handling som innebär stor otro. Profeten – över honom vare Allāhs frid och välsignelser – säger ju: ”*Avtalet som skiljer oss från dem är bönen och den som lämnar den har inte trott*.” [^1]
 
-*Muslim* återger i sin *Sahīh* från Jabir att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Det som står mellan en man och otro samt mångguderi är utelämnandet bönen*.” [^2]
+*Muslim* återger i sin *Ṣaḥīḥ* från Jabir att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Det som står mellan en man och otro samt mångguderi är utelämnandet bönen*.” [^2]
 
 Därför måste varje muslim älska för Allāhs skull och hata för Allāhs skull samt visa vänskap för Allāhs skull och visa fiendskap för Allāhs skull. Detta grundas på Allāhs den Upphöjdes ord:
 
@@ -29,14 +29,14 @@ Därför måste varje muslim älska för Allāhs skull och hata för Allāhs sku
 
 Denne bör tas till myndigheternas, om han bor i ett land där den islamiska lagen tillämpas, för att han ska kunna uppmanas att ångra sig. Ångrar han sig är allt frid och fröjd men om han inte gör det bör han avrättas [Övers. anm. OBS! Endast i ett muslimskt land]. Straffet för den som överger bönen och inte ångrar sig är döden. Allāh säger: ”*Men om de visar ånger och [villighet att] förrätta bönen och betala allmoseskatten, lämna dem då i fred – Gud är ständigt förlåtande, barmhärtig*.” [^3]
 
-Denna vers bevisar att den som överger bönen utan att ångra sig inte bör få vara fri, i stället bör han avrättas. Den korrekta åsikten är att han avrättas som en icke-troende, enligt de två tidigare *ahādīth* och andra utöver dem. Profeten – över honom vare Allāhs frid och välsignelser – har också sagt: ”*Jag har förbjudit att den som ber dödas*.” [^4]
+Denna vers bevisar att den som överger bönen utan att ångra sig inte bör få vara fri, i stället bör han avrättas. Den korrekta åsikten är att han avrättas som en icke-troende, enligt de två tidigare *aḥādīt̲h* och andra utöver dem. Profeten – över honom vare Allāhs frid och välsignelser – har också sagt: ”*Jag har förbjudit att den som ber dödas*.” [^4]
 
 Detta bevisar att den som inte ber får avrättas. Han måste avrättas om han inte ångrar sig. Detta kommer då att avhålla människor från att begå denna stora synd.
 
 Vi ber Allāh att Han förbättrar vår situation och att Han gör oss stadiga i religionen. Han är Den som hör allt och som är evigt nära.
 
 
-[^1]: *at-Tirmithi* 2621, *an-Nasā'i* 464 och *Ahmad* 5:346, 355
+[^1]: *at-Tirmithi* 2621, *an-Nasā’ī* 464 och *Aḥmad* 5:346, 355
 [^2]: *Muslim* 82
 [^3]: Koranen 9:5
-[^4]: *Abū Dawūd* 4928
+[^4]: *Abū Dāwūd* 4928

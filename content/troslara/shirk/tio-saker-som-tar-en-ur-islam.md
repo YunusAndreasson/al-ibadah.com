@@ -6,7 +6,7 @@ source: >-
   Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - 'Shirk [Att sätta något vid Allāhs sida]'
+  - Avgudadyrkan
 original_id: 585
 description: >-
   [Vad tar en ur islam?] Sätta medhjälpare vid Allāhs sida [shirk]. Allāh den
@@ -16,9 +16,9 @@ description: >-
 
 [Vad tar en ur islam?]
 
-1. Sätta medhjälpare vid Allāhs sida [*shirk*]. Allāh den Upphöjde säger: ”Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden ska bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [^1]
+1. Sätta medhjälpare vid Allāhs sida [*s̲hirk*]. Allāh den Upphöjde säger: ”Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden ska bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [^1]
 
-Att åkalla de döda genom att be dem om hjälp eller ge dem gåvor är *shirk*.
+Att åkalla de döda genom att be dem om hjälp eller ge dem gåvor är *s̲hirk*.
 2. Sätta upp medlare mellan sig själv och Allāh, åkalla dem och be dem medla inför Allāh.
 3. Inte tro att månggudadyrkarna är icke-troende, att ha tvivel angående deras otro eller att anse att deras väg är korrekt. Denne är själv en icke-troende.
 4. Tro att någon annans vägledning eller beslut är bättre än profetens – över honom vare Allāhs frid och välsignelser. Detta gäller dem som föredrar ett orättfärdigt ledarskap framför profetens – över honom vare Allāhs frid och välsignelser. Exempel på detta är:

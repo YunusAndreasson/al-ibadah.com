@@ -16,9 +16,9 @@ description: >-
   tillåtet att resa för att besöka profetens – ...
 ---
 
-**Fråga:** Vilket är utlåtandet om att besöka profetens – över honom vare Allāhs frid och välsignelser –, *awliyā* och de rättfärdigas gravar? Det är inte tillåtet att resa för att besöka profetens – över honom vare Allāhs frid och välsignelser – eller någon annans grav. Detta enligt den mest korrekta åsikten bland de lärda som grundas på profetens – över honom vare Allāhs frid och välsignelser – ord:
+**Fråga:** Vilket är utlåtandet om att besöka profetens – över honom vare Allāhs frid och välsignelser –, *awliyā’* och de rättfärdigas gravar? Det är inte tillåtet att resa för att besöka profetens – över honom vare Allāhs frid och välsignelser – eller någon annans grav. Detta enligt den mest korrekta åsikten bland de lärda som grundas på profetens – över honom vare Allāhs frid och välsignelser – ord:
 
-> ”Sadla inte era riddjur utom för att besöka tre moskéer: den heliga Moskén, min Moské i Medina och Klippmoskén i Jerusalem. [*al-Bukhārī* 1197, 1995 och *Muslim* 1338 och 1397]
+> ”Sadla inte era riddjur utom för att besöka tre moskéer: den heliga Moskén, min Moské i Medina och Klippmoskén i Jerusalem. [*al-Buk̲hārī* 1197, 1995 och *Muslim* 1338 och 1397]
 
 Den som vill besöka profetens – över honom vare Allāhs frid och välsignelser – grav, men som bor långt från Medina, får utforma sin avsikt för att besöka profetens – över honom vare Allāhs frid och välsignelser – Moské som innefattar gravarna i vilken profeten, Abū Bakr och ´Umar ligger samt martyrerna och de som är begravda i al-Baqi'.
 

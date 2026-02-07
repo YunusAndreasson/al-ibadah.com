@@ -14,9 +14,9 @@ description: >-
   Om en pilgrim under vallfärden anst...
 ---
 
-**Fråga:** Om en pilgrim inte hittar en plats för att spendera natten i *Mina*, vad gör denne då? Har denne syndat om denne tillbringar natten utanför *Mina*?
+**Fråga:** Om en pilgrim inte hittar en plats för att spendera natten i *Minā*, vad gör denne då? Har denne syndat om denne tillbringar natten utanför *Minā*?
 
-**Svar:** Om en pilgrim under vallfärden anstränger sig mycket för att hitta en plats i *Mina* för att spendera natten där och denne inte hittar en plats, då har denne inte syndat om denne spenderar natten utanför. Anledningen är att Allāh har sagt: ”*Frukta därför Gud efter måttet av er förmåga*.” [^1]
+**Svar:** Om en pilgrim under vallfärden anstränger sig mycket för att hitta en plats i *Minā* för att spendera natten där och denne inte hittar en plats, då har denne inte syndat om denne spenderar natten utanför. Anledningen är att Allāh har sagt: ”*Frukta därför Gud efter måttet av er förmåga*.” [^1]
 
 Det finns inget försoningsoffer för denne för att inte ha varit där. Detta eftersom denne inte hade möjlighet.
 

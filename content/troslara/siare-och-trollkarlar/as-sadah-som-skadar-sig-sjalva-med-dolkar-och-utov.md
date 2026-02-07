@@ -21,11 +21,11 @@ Förr i tiden brukade folk prisa dem och anse att de var speciella människor oc
 
 **Svar:** Dessa människor, och deras likar bland sufierna som gör sådant som är förbjudet, tillhör dem som profeten – över honom vare Allāhs frid och välsignelser – uttalade sig om när han sade:
 
-> ”Den som besöker en spåman och tror på honom, ingen bön kommer accepteras från denne under 40 dagar.” [*Muslim* 2230, *Ahmad* 4;68 och 5:380]
+> ”Den som besöker en spåman och tror på honom, ingen bön kommer accepteras från denne under 40 dagar.” [*Muslim* 2230, *Aḥmad* 4;68 och 5:380]
 
 Detta eftersom de påstår sig känna till det som är dolt för människor[^2] och för att de tjänar *jinn*. Därför är det inte tillåtet att rådfråga dem. Profeten – över honom vare Allāhs frid och välsignelser – har på likande sätt sagt:
 
-> ”Den som besöker en teckentydare eller siare och tror på honom, har sannerligen förnekat vad som har uppenbarats för Muḥammad.” [*Abū Dawūd* 3904, *at-Tirmithi* 135, *Ibn Mājah* 639 och *Ahmad* 2:408 och 476]
+> ”Den som besöker en teckentydare eller siare och tror på honom, har sannerligen förnekat vad som har uppenbarats för Muḥammad.” [*Abū Dāwūd* 3904, *at-Tirmithi* 135, *Ibn Mājah* 639 och *Aḥmad* 2:408 och 476]
 
 Och i en annan version:
 
@@ -39,11 +39,11 @@ Detta är magi, spådom och förutsägelse. De rena islamiska lagen avvisar dett
 
 > ”Och deras trolldom gjorde sådan verkan att han tyckte sig se att deras rep och stavar verkligen rörde sig.” [Koranen 20:66]
 
-De förenade synderna i magi, trolldom, spådom, större *shirk*, sökande av hjälp från andra än Honom, påstående om kunskap om det som är dolt för människor[^2] och innehav av kraft över skapelsen. Detta är fyllt med större *shirk* och tydlig otro, och det är något som trollkarlar gör. Allāh den Allsmäktige har förbjudit detta då de påstår sig känna till det som är dolt för människor[^2] och som ingen känner till utom Allāh. Han den Upphöjde säger:
+De förenade synderna i magi, trolldom, spådom, större *s̲hirk*, sökande av hjälp från andra än Honom, påstående om kunskap om det som är dolt för människor[^2] och innehav av kraft över skapelsen. Detta är fyllt med större *s̲hirk* och tydlig otro, och det är något som trollkarlar gör. Allāh den Allsmäktige har förbjudit detta då de påstår sig känna till det som är dolt för människor[^2] och som ingen känner till utom Allāh. Han den Upphöjde säger:
 
 > ”Säg: 'Ingen i himlarna eller på jorden har kunskap om det som är dolt för människor[^2] – [ingen har denna kunskap] utom Gud.'” [Koranen 27:65]
 
-Muslimer som känner till deras sanna position måste avsäga sig dem för att göra det onda i deras beteende klart. Vad de gör inbegriper *shirk*, otro, magi, siande om framtiden och förutsägelser. De påstår sig också ha kunskap om det som är dolt för människor[^2]. Detta är villfarelse och otro. De måste undvikas.
+Muslimer som känner till deras sanna position måste avsäga sig dem för att göra det onda i deras beteende klart. Vad de gör inbegriper *s̲hirk*, otro, magi, siande om framtiden och förutsägelser. De påstår sig också ha kunskap om det som är dolt för människor[^2]. Detta är villfarelse och otro. De måste undvikas.
 
 När de inte tillåter att deras döttrar gifter sig med andra än dem, medan de tillåter sig att gifta sig med andra, då är detta en sorts okunskap och villfarelse som det inte finns något bevis eller någon grund för i Lagen. Allāh – den Härlige säger:
 

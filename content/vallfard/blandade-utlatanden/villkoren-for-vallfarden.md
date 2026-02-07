@@ -34,6 +34,6 @@ När det gäller förmåga har Allāh endast gjort vallfärden obligatorisk för
 
 Det finns ett sjätte villkor som vissa lärda har lagt till, vilket är att vägen dit ska vara säker. Detta kan dock troligen räknas in i villkoret att ha möjlighet.
 
-Det finns ytterligare ett villkor som enbart gäller kvinnor, vilket är att en av kvinnans *mahram* ska vara närvarande.
+Det finns ytterligare ett villkor som enbart gäller kvinnor, vilket är att en av kvinnans *maḥram* ska vara närvarande.
 
 

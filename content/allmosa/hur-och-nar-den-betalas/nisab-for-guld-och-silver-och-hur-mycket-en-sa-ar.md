@@ -14,9 +14,9 @@ description: >-
   riyal. Profetens – över honom vare Allāh...
 ---
 
-*Nisab* för guld är 20 *mithqal* och det är likvärdigt med 85 gram. *Nisab* för silver är 140 *mithqal*. Det är i saudiska silverdirhamer likvärdigt med 56 riyal[^1].
+*niṣāb* för guld är 20 *mit̲hqāl* och det är likvärdigt med 85 gram. *niṣāb* för silver är 140 *mit̲hqāl*. Det är i saudiska silverdirhamer likvärdigt med 56 riyal[^1].
 
-Profetens – över honom vare Allāhs frid och välsignelser – *sa'* är två kilogram och 40 gram vete av god kvalitet.
+Profetens – över honom vare Allāhs frid och välsignelser – *ṣā´* är två kilogram och 40 gram vete av god kvalitet.
 
-[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramadan* 1428).
+[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramaḍān* 1428).
 

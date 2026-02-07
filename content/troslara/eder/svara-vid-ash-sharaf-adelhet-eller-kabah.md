@@ -16,8 +16,8 @@ description: >-
 
 **Fråga:** Är det tillåtet att svära vid *ash-Sharaf* eller vid Ka’bah?
 
-**Svar:** Det är inte tillåtet att svära vid något eller någon annan än Allāh – sannerligen är det *shirk*. När man svär vid något annat så upphöjer man det och det är inte tillåtet att upphöja ett skapat ting. Under islams tidiga dagar brukade följeslagarna svära vid Ka’bah, men profeten – över honom vare Allāhs frid och välsignelser – beordrade dem att säga: ”Vid Ka’bahs Herre…” När det gäller *ash-sharaf*, *an-nasab* [släktträd], *al-adab* [gott uppförande] och liknande så är det att svära vid något annat än Allāh. Ibn ‘Abbās sade:
+**Svar:** Det är inte tillåtet att svära vid något eller någon annan än Allāh – sannerligen är det *s̲hirk*. När man svär vid något annat så upphöjer man det och det är inte tillåtet att upphöja ett skapat ting. Under islams tidiga dagar brukade följeslagarna svära vid Ka’bah, men profeten – över honom vare Allāhs frid och välsignelser – beordrade dem att säga: ”Vid Ka’bahs Herre…” När det gäller *ash-sharaf*, *an-nasab* [släktträd], *al-adab* [gott uppförande] och liknande så är det att svära vid något annat än Allāh. Ibn ‘Abbās sade:
 
-> "I detta samfund är *shirk* mindre synligt än en svart myra på en svart sten under en mörk natt."
+> "I detta samfund är *s̲hirk* mindre synligt än en svart myra på en svart sten under en mörk natt."
 
 

@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 314 s. ISBN saknas
 categories:
   - Bön (Salāh)
-  - Nattbön och witr
+  - Nattbön
 original_id: 295
 description: >-
   Fråga: En man bad witr och under hans bön ropade böneutroparen ut för

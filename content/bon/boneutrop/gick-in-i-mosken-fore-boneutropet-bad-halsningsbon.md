@@ -24,4 +24,4 @@ description: >-
 [^2]: Dhuhr
 
 [^3]: *adhān* och *iqāmah*[^5
-[^4]: *al-Bukhārī* 627
+[^4]: *al-Buk̲hārī* 627

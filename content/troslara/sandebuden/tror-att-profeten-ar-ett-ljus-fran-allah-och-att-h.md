@@ -43,5 +43,5 @@ Det är inte tillåtet att be bakom sådana som denne. Bön accepteras inte bako
 
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 
-[^2]: *al-Bukhārī* 401 och *Muslim* 572
-[^3]: *al-Bukhārī* 2753
+[^2]: *al-Buk̲hārī* 401 och *Muslim* 572
+[^3]: *al-Buk̲hārī* 2753

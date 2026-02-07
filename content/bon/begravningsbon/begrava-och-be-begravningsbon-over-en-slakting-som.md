@@ -16,13 +16,13 @@ description: >-
 
 **Fråga:** Min far har dött och han var icke-troende. Vad har jag för ansvar mot honom? Skall jag begrava honom och arrangera hans begravning? Skall jag tvätta och svepa honom? Finns det några rättigheter som min far har över mig vad gäller detta?
 
-**Svar:** All lovprisan tillhör Allāh. I en autentisk *hadīth* har det har berättats att Nājiyah ibn Ka’b har sagt att ‘Ali ibn Abi Tālib – må Allāh vara nöjd med honom – har sagt:
+**Svar:** All lovprisan tillhör Allāh. I en autentisk *ḥadīt̲h* har det har berättats att Nājiyah ibn Ka’b har sagt att ‘Ali ibn Abi Tālib – må Allāh vara nöjd med honom – har sagt:
 
 > “Jag sade till profeten: ’Din gamle vilseledde farbror har dött [han avsåg sin far Abū Tālib]. Vem ska begrava honom?’ Han sade: ’Gå och begrav din far.’ Jag sade: ’Jag vill inte begrava honom för han avled som en månggudadyrkare[^1].’ Han sade: ’Gå och begrav honom och gör sedan ingenting förrän du kommer till mig.’ Så jag gick och begravde honom. Sedan kom jag till honom med spår av damm och jord på mig. Han sade till mig att tvätta mig. Därefter åkallade han för mig med ord som var kärare för mig än allt annat på jorden.” [*al-Silsilah al-Sahīhah*, av al-Albāni, nr. 161]
 
-Shaykhen sade som kommentar till denna *hadīth*:
+Shaykhen sade som kommentar till denna *ḥadīt̲h*:
 
-En muslim får ta hand om begravningar av släktingar som har varit månggudadyrkare[^1]. Detta tar inte bort dennes motvilja mot deras *shirk*. Ser ni inte att ’Ali i början vägrade att begrava sin far av den orsaken. Han sade: ”*Han avled som en månggudadyrkare*[^1].” Han tänkte att om han begravde honom när så var fallet skulle det räknas in i den förbjudna sortens vänskap som det refereras till i denna vers:
+En muslim får ta hand om begravningar av släktingar som har varit månggudadyrkare[^1]. Detta tar inte bort dennes motvilja mot deras *s̲hirk*. Ser ni inte att ’Ali i början vägrade att begrava sin far av den orsaken. Han sade: ”*Han avled som en månggudadyrkare*[^1].” Han tänkte att om han begravde honom när så var fallet skulle det räknas in i den förbjudna sortens vänskap som det refereras till i denna vers:
 
 > ”Troende! Sök inte vänskap och skydd hos dem som har drabbats av Guds vrede! De hoppas inte på det eviga livet, liksom de som [helt] förnekar sanningen inte hoppas [få återse] dem som de har följt till graven.” [Koranen 60:13]
 

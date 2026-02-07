@@ -24,7 +24,7 @@ Det går även att läsa annan åkallan som profeten – över honom vare Allāh
 
 När profeten – över honom vare Allāhs frid och välsignelser – begravde en avliden, då brukade han stå upp vid dennes grav och säga:
 
-> ”Be Allāh om förlåtelse för er broder, och be Honom att ge honom ett klart svar, för just nu blir han utfrågad.” [*Abū Dawūd* 3221, *al-Hakim* 1:370 och *al-Bayhaqi* 4:56]
+> ”Be Allāh om förlåtelse för er broder, och be Honom att ge honom ett klart svar, för just nu blir han utfrågad.” [*Abū Dāwūd* 3221, *al-Ḥākim* 1:370 och *al-Bayhaqī* 4:56]
 
 
 [^1]: *Muslim* 975

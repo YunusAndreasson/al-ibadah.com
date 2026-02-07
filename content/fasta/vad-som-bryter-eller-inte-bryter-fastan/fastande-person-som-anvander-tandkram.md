@@ -14,14 +14,14 @@ description: >-
   det. Det är även föreskrivet för den fast...
 ---
 
-**Fråga:** Får den fastande använda tandkräm dagtid medan denne fastar under *ramadan*?
+**Fråga:** Får den fastande använda tandkräm dagtid medan denne fastar under *ramaḍān*?
 
 **Svar:** Det är ingen fara så länge man är noggrann med att inte svälja det. Det är även föreskrivet för den fastande att använda en *miswāk* vid dagens början och slut. Vissa lärde har haft åsikten att användandet av *miswāk* är ogillat efter middag, men denna åsikt är inte rätt. Vad som är korrekt är att det inte är ogillat.
 
-Detta på grund av den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*Miswāk är renande för munnen och behagande för Herren*." [^1] Denna *hadīth* har an-Nasā'i återgivit med en autentisk berättarkedja från 'A'ishah. Det beror även på följande uttalande: "*Han det inte varit för att jag hade skapat en svårighet för mitt samfund hade jag beordrat dem att använda *miswāk* inför varje bön*." [^2] Denna *hadīth* är al-Bukhārī och *Muslim* eniga om. Här innefattas då middagsbönen och eftermiddagsbönen som båda kommer efter middagen.
+Detta på grund av den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*Miswāk är renande för munnen och behagande för Herren*." [^1] Denna *ḥadīt̲h* har an-Nasā'i återgivit med en autentisk berättarkedja från 'A'ishah. Det beror även på följande uttalande: "*Han det inte varit för att jag hade skapat en svårighet för mitt samfund hade jag beordrat dem att använda *miswāk* inför varje bön*." [^2] Denna *ḥadīt̲h* är al-Bukhārī och *Muslim* eniga om. Här innefattas då middagsbönen och eftermiddagsbönen som båda kommer efter middagen.
 
 Och Allāh är Beviljaren av framgång.
 
 
-[^1]: *an-Nasā’i* 5
-[^2]: *al-Bukhārī* 887 och *Muslim* 252
+[^1]: *an-Nasā’ī* 5
+[^2]: *al-Buk̲hārī* 887 och *Muslim* 252

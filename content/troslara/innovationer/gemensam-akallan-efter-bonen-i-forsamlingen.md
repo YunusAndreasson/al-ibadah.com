@@ -18,13 +18,13 @@ description: >-
 
 Den andra församlingen vill inte göra detta när imamen har sagt *taslīm*.
 
-Frågar vi den första församlingen, säger de att denna åkallan gör bönen fullständig och att det inte finns något annat än gott i den. Den andra församlingen säger att detta är en innovation som inte har rapporterats från profeten. Som bevis använder de hans ord: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [^1] Det finns även andra *ahādīth* som de citerar som bevis. Vi unga män vet inte var sanningen finns. Vi ber att ni gör detta klart för oss.
+Frågar vi den första församlingen, säger de att denna åkallan gör bönen fullständig och att det inte finns något annat än gott i den. Den andra församlingen säger att detta är en innovation som inte har rapporterats från profeten. Som bevis använder de hans ord: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [^1] Det finns även andra *aḥādīt̲h* som de citerar som bevis. Vi unga män vet inte var sanningen finns. Vi ber att ni gör detta klart för oss.
 
 **Svar:** Vi känner inte till något som tillåter gemensam åkallan efter imamens *taslīm*. En fatwa om detta har redan utfärdats av den Permanenta Kommittén.
 
 Den lyder enligt följande:
 
-> Gemensam åkallan efter den obligatoriska bönen är inte en *sunnah* om den innebär att händerna höjs. Det spelar ingen roll om det är imamen själv, den som leds i bön eller båda två. Detta är en innovation. Detta har inte rapporterats från profeten – över honom vare Allāhs frid och välsignelser – eller hans följeslagare. Det finns inga invändningar mot att höja händerna. Vissa *ahādīth* har rapporterats om detta.
+> Gemensam åkallan efter den obligatoriska bönen är inte en *sunnah* om den innebär att händerna höjs. Det spelar ingen roll om det är imamen själv, den som leds i bön eller båda två. Detta är en innovation. Detta har inte rapporterats från profeten – över honom vare Allāhs frid och välsignelser – eller hans följeslagare. Det finns inga invändningar mot att höja händerna. Vissa *aḥādīt̲h* har rapporterats om detta.
 
 Och genom Allāh uppnås framgång. Må frid vara över vår profet Muḥammad, hans familj och följeslagare.
 

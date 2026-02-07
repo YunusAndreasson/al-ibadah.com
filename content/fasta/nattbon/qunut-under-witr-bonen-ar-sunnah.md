@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 322 s. ISBN saknas
 categories:
   - Fasta (Sawm)
-  - Nattbön (tarawih)
+  - Ramadanens nattbön
 original_id: 472
 description: >-
   Fråga: Somliga imamer gör hela tiden, varje kväll, qunūt under witr -bönen.

@@ -16,7 +16,7 @@ description: >-
   han ser med, hans hand som slår o...
 ---
 
-**Fråga:** Vilken är innebörden vad Allāh säger i denna heliga *hadīth*:
+**Fråga:** Vilken är innebörden vad Allāh säger i denna heliga *ḥadīt̲h*:
 
 > ”Och om jag älskar honom, då kommer jag att vara hans hörsel som han hör med, hans syn som han ser med, hans hand som slår och hans ben som går.”
 
@@ -26,19 +26,19 @@ När han slår, då slår han med Allāhs kraft för att stödja sanningen. När
 
 I allmänhet har alla hans inre och yttre handlingar sitt ursprung i Allāhs den Upphöjdes vägledning och kraft.
 
-Därför är det klart att de inte finns något bevis i den ovan nämnda *hadithen* för att Allāh reinkarneras i Sin skapelse, eller att Han förenas med den. Detta faktum klargörs även i slutet av *hadithen* ovan då Allāh säger:
+Därför är det klart att de inte finns något bevis i den ovan nämnda *ḥadīt̲h* för att Allāh reinkarneras i Sin skapelse, eller att Han förenas med den. Detta faktum klargörs även i slutet av *ḥadīt̲h* ovan då Allāh säger:
 
-> ”… och om han ber Mig, då kommer Jag att ge honom och om han söker Mitt skydd, då kommer Jag att skydda honom.” [*al-Bukhārī* 6502]
+> ”… och om han ber Mig, då kommer Jag att ge honom och om han söker Mitt skydd, då kommer Jag att skydda honom.” [*al-Buk̲hārī* 6502]
 
 I andra versioner nämns att Allāh den Upphöjde har sagt:
 
 > ”Så genom Mig hör han och genom Mig ser han.” [Se: *Fathul-Bāri* 11:418]
 
-Det är uppenbart att uttalandena i början av dessa *ahādīth* gör tydlig att det finns en som *åkallar*[^1] och en som åkallas, och en som söker skydd och en som skyddar. Denna *hadīth* liknar en annan helig *hadīth* i vilken Allāh den Upphöjde säger:
+Det är uppenbart att uttalandena i början av dessa *aḥādīt̲h* gör tydlig att det finns en som *åkallar*[^1] och en som åkallas, och en som söker skydd och en som skyddar. Denna *ḥadīt̲h* liknar en annan helig *ḥadīt̲h* i vilken Allāh den Upphöjde säger:
 
-> ”*Mina* tjänare! Jag var sjuk men ni besökte Mig inte”. [*Ahmad* 2:404]
+> ”*Minā* tjänare! Jag var sjuk men ni besökte Mig inte”. [*Aḥmad* 2:404]
 
-I dessa *ahādīth* förklaras uttalanden i början av uttalanden som följer efter. De som följer sina egna nycker, de håller sig till allegoriska texter och vänder sig bort från de som förklarar sig själva. På detta sätt viker de av från den raka vägen.
+I dessa *aḥādīt̲h* förklaras uttalanden i början av uttalanden som följer efter. De som följer sina egna nycker, de håller sig till allegoriska texter och vänder sig bort från de som förklarar sig själva. På detta sätt viker de av från den raka vägen.
 
 Allāh är den som ger framgång.
 

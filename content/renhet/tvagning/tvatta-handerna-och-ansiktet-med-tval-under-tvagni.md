@@ -21,4 +21,4 @@ description: >-
 Ja, om det bekräftas att det finns smuts på händerna, som inte kan avlägsnas med något annat än tvål, då finns det ingen invändan mot det. Men om det är en vana, då anses användandet av såpa vara överdrivet samt en innovation. Därmed ska det inte invändas.
 
 
-[^1]: *Muslim* 2670, *Abū Dawūd* 4607 och *Ahmad* 1:386
+[^1]: *Muslim* 2670, *Abū Dāwūd* 4607 och *Aḥmad* 1:386

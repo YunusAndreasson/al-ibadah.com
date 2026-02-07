@@ -57,7 +57,7 @@ Och Han säger:
 
 Och Han den Upphöjde säger:
 
-> ”Och [minns] Jesus, Marias son, som sade: 'Israeliter! Jag är sänd till er av Gud för att bekräfta vad som ännu består av Tora och för att förkunna för er det glada budskapet att ett sändebud ska komma efter mig vars namn ska vara *Ahmad*.' Men när han kom till dem med klara tecken och vittnesbörd, sade de: 'Detta är uppenbart vältalighet som bländar och förhäxar!'” [Koranen 61:6]
+> ”Och [minns] Jesus, Marias son, som sade: 'Israeliter! Jag är sänd till er av Gud för att bekräfta vad som ännu består av Tora och för att förkunna för er det glada budskapet att ett sändebud ska komma efter mig vars namn ska vara *Aḥmad*.' Men när han kom till dem med klara tecken och vittnesbörd, sade de: 'Detta är uppenbart vältalighet som bländar och förhäxar!'” [Koranen 61:6]
 
 Och Han den Upphöjde säger:
 
@@ -89,7 +89,7 @@ Men de skiljs åt i utförande, detaljer och regler. Allāh säger:
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Profeterna är bröder, deras religion är en och deras mödrar är olika.” [*al-Bukhārī* 3433 och *Muslim* 2365]
+> ”Profeterna är bröder, deras religion är en och deras mödrar är olika.” [*al-Buk̲hārī* 3433 och *Muslim* 2365]
 
 Därmed kan vi säga att dem som trodde på grunderna i lagarna som gavs till profeterna och sändebuden kommer Allāh att vara nöjd med Han kommer att ge dem lycka och framgång. Det är dem som Allāh prisar i Sin skrift och som vår profet Muḥammad – över honom vare Allāhs frid och välsignelser – lovordar i sin *sunnah*. 
 
@@ -125,7 +125,7 @@ Och Allāh den Upphöjde säger:
 
 Och Allāh den Upphöjde säger:
 
-> ”Gud tog [också] löften av Israels barn, då Vi sände ut deras tolv huvudmän och sade: 'Jag ska vara med er; om ni förrättar bönen och hjälper de behövande, tror på *Mina* sändebud och håller dem i ära och ger Gud ett lån av goda handlingar, ska Jag helt visst förlåta era dåliga handlingar och föra er till lustgårdar, vattnade av bäckar. Men den av er som efter detta förnekar sanningen har helt förlorat den raka vägen ur sikte.' När de sedan svek sina löften, fördömde Vi dem och lät deras hjärtan hårdna. De förvränger [uppenbarelsens] ord och bryter ut dem ur deras sammanhang och de har glömt en del av det som de förmanades att lägga på minnet. Och du kommer om och om igen att möta trolöshet och svek från deras sida, utom hos ett fåtal, men förlåt dem och glöm [vad de gjort]. Gud älskar dem som gör gott [mot andra]. [I Vårt förbund] med den som säger: ' Vi är kristna' tig Vi löften [också] av dem och även de har glömt en del av det som de förmanades att lägga på minnet. Därför har Vi låtit fiendskap och hat uppstå bland dem [och så ska det fortgå] till Uppståndelsens dag. Gud ska [en gång] låta dem veta vad deras handlingar [var värda].” [Koranen 5:12 – 14]
+> ”Gud tog [också] löften av Israels barn, då Vi sände ut deras tolv huvudmän och sade: 'Jag ska vara med er; om ni förrättar bönen och hjälper de behövande, tror på *Minā* sändebud och håller dem i ära och ger Gud ett lån av goda handlingar, ska Jag helt visst förlåta era dåliga handlingar och föra er till lustgårdar, vattnade av bäckar. Men den av er som efter detta förnekar sanningen har helt förlorat den raka vägen ur sikte.' När de sedan svek sina löften, fördömde Vi dem och lät deras hjärtan hårdna. De förvränger [uppenbarelsens] ord och bryter ut dem ur deras sammanhang och de har glömt en del av det som de förmanades att lägga på minnet. Och du kommer om och om igen att möta trolöshet och svek från deras sida, utom hos ett fåtal, men förlåt dem och glöm [vad de gjort]. Gud älskar dem som gör gott [mot andra]. [I Vårt förbund] med den som säger: ' Vi är kristna' tig Vi löften [också] av dem och även de har glömt en del av det som de förmanades att lägga på minnet. Därför har Vi låtit fiendskap och hat uppstå bland dem [och så ska det fortgå] till Uppståndelsens dag. Gud ska [en gång] låta dem veta vad deras handlingar [var värda].” [Koranen 5:12 – 14]
 
 Allāh fördömer även dem som säger att Han har tagit en son och dem som tog deras rabbiner samt munkar till herrar i stället för Allāh. Han avvisar deras förtal genom att säga:
 
@@ -149,7 +149,7 @@ Det är dessa som Allāhs nåd omsluter och som förtjänar Hans prisande – de
 
 /…/
 
-Om någon vill studera denna fråga vidare, då bör denne vända sig till Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Den som begrundar Koranens verser och de autentiska *ahādīth* från profeten, och som studerar det som autentisk har nedtecknats i historien – utan att vara vinklat – och som inte förlitar sig på ytlig spekulation, denne kommer då att tydligt se sanningen och vägledas till den raka vägen.
+Om någon vill studera denna fråga vidare, då bör denne vända sig till Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Den som begrundar Koranens verser och de autentiska *aḥādīt̲h* från profeten, och som studerar det som autentisk har nedtecknats i historien – utan att vara vinklat – och som inte förlitar sig på ytlig spekulation, denne kommer då att tydligt se sanningen och vägledas till den raka vägen.
 
 Må frid och välsignelser vara över Muḥammad, hans familj och hans följeslagare.
 

@@ -20,6 +20,6 @@ description: >-
 
 **Svar:** Om någon som ber bakom en imam anländer vid bugningen, då måste han buga med honom utan att läsa åkallan i början av bönen ' eller att recitera något. Han säger då enbart ”*Allāhu akbar*” och bugar.
 
-Men om tiden tillåter och imamen fortfarande står, då bör han läsa åkallan i början av bönen och sedan recitera *al-Fātihah*. Detta gör han även under de böner när man läser högt, om imamen är tyst en stund [efter att själv ha läst *al-Fātihah*]. Blir det ingen tyst period, då bör han recitera mellan imamens recitation. Efter detta lyssnar han till imamens recitation. Men om han kommer sent, under bugningen, då säger han: ”*Allāhu akbar*” och förenar sig med de andra, utan att läsa *al-Fātihah* då det inte är något han behöver göra i detta läge.
+Men om tiden tillåter och imamen fortfarande står, då bör han läsa åkallan i början av bönen och sedan recitera *al-Fātiḥah*. Detta gör han även under de böner när man läser högt, om imamen är tyst en stund [efter att själv ha läst *al-Fātiḥah*]. Blir det ingen tyst period, då bör han recitera mellan imamens recitation. Efter detta lyssnar han till imamens recitation. Men om han kommer sent, under bugningen, då säger han: ”*Allāhu akbar*” och förenar sig med de andra, utan att läsa *al-Fātiḥah* då det inte är något han behöver göra i detta läge.
 
 

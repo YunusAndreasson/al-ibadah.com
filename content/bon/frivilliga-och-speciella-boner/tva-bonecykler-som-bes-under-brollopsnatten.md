@@ -24,4 +24,4 @@ Om man vid denna tidpunkt är rädd för att kvinnan ska fly från en bör man t
 
 
 [^1]: *al-Musannaf* av ´Abdur-Razzaq 6:191
-[^2]: *Abū Dawūd* 2160
+[^2]: *Abū Dāwūd* 2160

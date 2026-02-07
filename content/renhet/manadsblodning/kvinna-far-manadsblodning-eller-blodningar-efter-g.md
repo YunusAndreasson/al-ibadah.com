@@ -16,13 +16,13 @@ description: >-
   tawāf runt Huset [Ka’bah]? Behöver hon utför...
 ---
 
-**Fråga:** Om en kvinna får sin månadsblödning, eller har blödningar efter graviditeten, efter att ha trätt in i *ihrām*, är det då rätt att hon gör *tawāf* runt Huset [Ka'bah]? Behöver hon utföra *tawāf[^1] ul-wadā*?
+**Fråga:** Om en kvinna får sin månadsblödning, eller har blödningar efter graviditeten, efter att ha trätt in i *iḥrām*, är det då rätt att hon gör *ṭawāf* runt Huset [Ka'bah]? Behöver hon utföra *tawāf[^1] ul-wadā*?
 
-**Svar:** Om hon har blödningar efter graviditeten eller om hon får sin månadsblödning när hon kommer för att göra *'umrah*, då avstår hon från det [*tawāf*] tills hon blir ren. När hon sedan blir ren utför hon *tawāf*, *sa'ī*, klipper håret och avslutar sin *'umrah*.
+**Svar:** Om hon har blödningar efter graviditeten eller om hon får sin månadsblödning när hon kommer för att göra *´umrah*, då avstår hon från det [*ṭawāf*] tills hon blir ren. När hon sedan blir ren utför hon *ṭawāf*, *sa´ī*, klipper håret och avslutar sin *´umrah*.
 
-Om detta inträffade efter *'umrah* eller när hon har trätt in i *ihrām* för vallfärden den åttonde i *dhul-hijjah*, då gör hon vallfärdsriterna; står vid *Arafat*, uppehåller sig i *Muzdalifah*, kastar stenar på pelarna, säger *talbiyyah*, åminns Allāh och andra saker. När hon sedan blir ren, då utför hon *tawāf* och *sa'ī* för vallfärden, och all ära tillhör Allāh.
+Om detta inträffade efter *´umrah* eller när hon har trätt in i *iḥrām* för vallfärden den åttonde i *d̲hul-ḥijjah*, då gör hon vallfärdsriterna; står vid *´Arafāt*, uppehåller sig i *Muzdalifah*, kastar stenar på pelarna, säger *talbiyyah*, åminns Allāh och andra saker. När hon sedan blir ren, då utför hon *ṭawāf* och *sa´ī* för vallfärden, och all ära tillhör Allāh.
 
-Om hon får sin månadsblödning efter *tawāf* och *sa’ī*[^2] men före *tawāf[^1] ul-wadā*, då behöver hon inte utföra *tawāf[^1] ul-wadā*. En kvinna med månadsblödning eller blödningar efter graviditeten behöver inte göra detta.
+Om hon får sin månadsblödning efter *ṭawāf* och *sa´ī*[^2] men före *tawāf[^1] ul-wadā*, då behöver hon inte utföra *tawāf[^1] ul-wadā*. En kvinna med månadsblödning eller blödningar efter graviditeten behöver inte göra detta.
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 [^2]: Vandringen mellan as-Safa och al-Marwa.

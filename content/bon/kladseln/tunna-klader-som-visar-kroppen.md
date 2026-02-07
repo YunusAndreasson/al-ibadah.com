@@ -7,7 +7,7 @@ source: >-
   Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Bön (Salāh)
-  - Klädseln
+  - Klädsel i bönen
 original_id: 928
 description: >-
   Fråga: Många ber i tunna klädesplaggs som visar huden under. De bär korta

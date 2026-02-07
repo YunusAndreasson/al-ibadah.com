@@ -14,7 +14,7 @@ description: >-
   muslimer gör detta och säger Bismillah oc...
 ---
 
-**Fråga:** När utställningar hålls eller när projekt påbörjas så finns det folk som har för vana att fira det med att hänga upp band som sedan klipps. Vissa muslimer gör detta och säger *Bismillah* och de ber Allāh om välsignelser för projektet. Har denna sed någon sammankoppling med gamla vanor hos muslimer eller är det helt enkelt en imitation av dem som inte är muslimer?
+**Fråga:** När utställningar hålls eller när projekt påbörjas så finns det folk som har för vana att fira det med att hänga upp band som sedan klipps. Vissa muslimer gör detta och säger *Bismillāh* och de ber Allāh om välsignelser för projektet. Har denna sed någon sammankoppling med gamla vanor hos muslimer eller är det helt enkelt en imitation av dem som inte är muslimer?
 
 **Svar:** Jag känner inte till någon grund för eller nytta med denna sed, ej heller är det något som muslimerna har gjort tidigare. Det är inget annat än en imitation av dem som inte är muslimer. Allt som är känt från islam innan man ska göra något är istikharah[^1]-bönen. Man ber då Allāh den Upphöjde – om välsignelser, godhet och välstånd för att projektet ska bli framgångsrikt och ge något gott.
 

@@ -27,4 +27,4 @@ Men tyvärr så ser många fastande ingen skillnad mellan dagar som de fastar oc
 
 
 [^1]: Koranen 2:183
-[^2]: *al-Bukhārī* 1903
+[^2]: *al-Buk̲hārī* 1903

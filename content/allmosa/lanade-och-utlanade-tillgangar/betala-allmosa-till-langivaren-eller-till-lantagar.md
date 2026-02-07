@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  2. Libanon: Makbtaba Dar us-Salam. 610 s. ISBN 9960-892-66-2'
 categories:
   - Allmosa (Zakāh)
-  - Tillgångar
+  - Lånade tillgångar
 original_id: 1254
 description: 'Fråga: Är det bättre för låntagaren om denne får allmosan för att betala
  sina skulder eller bör den som ger allmosan gå till långivaren och ge den till honom? Svar: Det

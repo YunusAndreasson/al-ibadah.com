@@ -25,4 +25,4 @@ Att göra detta har inget syfte i sig själv utan det är något annat [att gör
 Detta är då en sorts överdrift, vilket vissa gör. De ställer sig ankel mot ankel mot vännen och särar på benen så att det finns utrymme mellan deras axlar. Därigenom motsäger de sig profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och målet är att anklarna ska vara raka.
 
 
-[^1]: *al-Bukhārī* 725
+[^1]: *al-Buk̲hārī* 725

@@ -31,15 +31,15 @@ Kom ihåg att Allāh den Allsmäktige säger:
 
 > ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå i händer!” [Koranen 24:31]
 
-> ”Säg [Muḥammad] till mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [*Mina* bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet!” [39:53]
+> ”Säg [Muḥammad] till mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [*Minā* bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet!” [39:53]
 
 De lärde är eniga om att denna vers uppenbarades för den tålmodige; den som önskar att ångra sig. Om din synd berör en människas rätt måste vi lägga till ett fjärde villkor: Du måste återgälda deras rättigheter till dem. Detta oavsett om det är tillgångar eller något annat. I andra fall måste du be om deras förlåtelse.
 
 Allāhs sändebud har sagt:
 
-> ”Den som har handlat felaktigt mot sin broders heder eller något annat, låt honom söka förlåtelse från honom idag så länge det finns saker som dinar och dirham (det vill säga, innan Domedagen). Om den som handlat felaktigt har goda handlingar kommer den som behandlats felaktigt att få dem enligt det onda som gjorts mot honom. Men om personen som gjort fel inte har några goda gärningar, då kommer han ta från sin partners synder och bära den bördan.” [*al-Bukhārī* 2449]
+> ”Den som har handlat felaktigt mot sin broders heder eller något annat, låt honom söka förlåtelse från honom idag så länge det finns saker som dinar och dirham (det vill säga, innan Domedagen). Om den som handlat felaktigt har goda handlingar kommer den som behandlats felaktigt att få dem enligt det onda som gjorts mot honom. Men om personen som gjort fel inte har några goda gärningar, då kommer han ta från sin partners synder och bära den bördan.” [*al-Buk̲hārī* 2449]
 
-En muslim måste inte enbart vara rädd för *shirk* och vad som leder till det, utan även över alla andra synder, för han vet inte med säkerhet om han kommer vägledas till ånger eller om han kommer att ges tillfället att ångra sig. Därmed bör han undvika alla synder och be sin Herre att Han skyddar honom från dem.
+En muslim måste inte enbart vara rädd för *s̲hirk* och vad som leder till det, utan även över alla andra synder, för han vet inte med säkerhet om han kommer vägledas till ånger eller om han kommer att ges tillfället att ångra sig. Därmed bör han undvika alla synder och be sin Herre att Han skyddar honom från dem.
 
 Han får inte vara belåten med djävulen med intentionen att han kommer ångra sig efter att han syndat. Det råder ingen tvekan om att denna attityd är ett av djävulens trick som han använder för att fånga människor och för att fresta dem. Ibland kan en person hindras från att ångra sig medan han är vid liv; ett slag som definitivt kommer få honom att känna ånger vid en tid då det inte finns någon ånger för honom.
 

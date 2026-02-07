@@ -16,7 +16,7 @@ description: >-
 
 **Svar:** All ära tillhör Allāh.
 
-Profetens *sunnah* är att trimma mustaschen och inte att ta bort den. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "Trimma mustaschen och lämna skägget att växa och skilj er ifrån månggudadyrkarna." al-Bukhārī och Muslim är eniga om äktheten i denna *hadīth*.
+Profetens *sunnah* är att trimma mustaschen och inte att ta bort den. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "Trimma mustaschen och lämna skägget att växa och skilj er ifrån månggudadyrkarna." al-Bukhārī och Muslim är eniga om äktheten i denna *ḥadīt̲h*.
 
 Om han har rakat av den, är det ingen synd i det. När det gäller skägget är det obligatoriskt att låta det växa. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "Trimma mustaschen och lämna skägget att växa och skilj er ifrån månggudadyrkarna."
 

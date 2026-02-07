@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 318 s. ISBN saknas
 categories:
   - Bön (Salāh)
-  - Nattbön och witr
+  - Nattbön
 original_id: 298
 description: >-
   Fråga: Jag är en kvinna som sover mycket djupt. Kan jag be witr innan jag
@@ -21,4 +21,4 @@ description: >-
 Be bönen som Allāh har förpliktigat dig. Be sedan *witr* innan du går till sängs. Om du har möjlighet att vakna innan böneutropet för gryningsbönen och du vill be frivilliga böner, då syndar du inte om du ber i enheter om två utan att upprepa *witr*.
 
 
-[^1]: *Abū Dawūd* 1432 – 1433 och *Ahmad* 2:229
+[^1]: *Abū Dāwūd* 1432 – 1433 och *Aḥmad* 2:229

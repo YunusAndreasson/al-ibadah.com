@@ -18,8 +18,8 @@ description: >-
 
 **Svar:** Från ett antal följeslagare har det rapporterats att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Det finns ingen bön efter eftermiddagsbönen tills solen har gått ned och det finns ingen bön efter gryningsbönen tills solen har gått upp*.” [^2]
 
-De lärde har sagt att anledningen med största sannolikhet är att det är ett förbud mot att imitera månggudadyrkare[^1] som nedfaller inför solen då den går upp och ned. Därför är frivilliga [böner] förbjudna under dessa tidpunkter. Det finns ju ingen anledning till dem och det finns rädsla för att tjänarens nedfallan ska vara för solen. Förbudet mot bön under denna långa period har gjorts allmänt för att motverka *shirk* och allting som kan leda till det.
+De lärde har sagt att anledningen med största sannolikhet är att det är ett förbud mot att imitera månggudadyrkare[^1] som nedfaller inför solen då den går upp och ned. Därför är frivilliga [böner] förbjudna under dessa tidpunkter. Det finns ju ingen anledning till dem och det finns rädsla för att tjänarens nedfallan ska vara för solen. Förbudet mot bön under denna långa period har gjorts allmänt för att motverka *s̲hirk* och allting som kan leda till det.
 
 [^1]: Mushrik.
 
-[^2]: *al-Bukhārī* 586 och *Muslim* 827
+[^2]: *al-Buk̲hārī* 586 och *Muslim* 827

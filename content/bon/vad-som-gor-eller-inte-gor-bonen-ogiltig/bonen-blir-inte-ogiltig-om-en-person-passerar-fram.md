@@ -38,6 +38,6 @@ Och genom Allāh uppnås framgång.
 
 [^1]: Ett objekt i form av exempelvis en pinne, stav eller vägg. Skall vara minst en fot hög. Agerar symbolisk skiljelinje mellan den bedjande och de som passerar framför.
 
-[^2]: *Muslim* 510, *Abū Dawūd* 702, *at-Tirmithi* 338 och *Ibn Mājah* 952
-[^3]: *al-Bukhārī* 510, *Muslim* 507 och *Abū Dawūd* 701
-[^4]: *al-Bukhārī* 509 och *Muslim* 505
+[^2]: *Muslim* 510, *Abū Dāwūd* 702, *at-Tirmithi* 338 och *Ibn Mājah* 952
+[^3]: *al-Buk̲hārī* 510, *Muslim* 507 och *Abū Dāwūd* 701
+[^4]: *al-Buk̲hārī* 509 och *Muslim* 505

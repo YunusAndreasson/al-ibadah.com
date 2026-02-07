@@ -32,4 +32,4 @@ I en annan återberättelse säger han: ”*Den som för in något i denna vår 
 
 [^1]: Koranen 40:60
 [^2]: *Muslim* 18/1718
-[^3]: *al-Bukhārī* 2697 och *Muslim* 18/1718
+[^3]: *al-Buk̲hārī* 2697 och *Muslim* 18/1718

@@ -18,9 +18,9 @@ description: >-
 
 **Svar:** Att göra bilder av något som inte innehåller en själ är tillåtet, men att be på en matta som innehåller bilder som inte har någon själ är dock ogillat. Anledningen är att tjänaren störs i bönen.
 
-Bönen är dock fortfarande giltig enligt en återberättelse från *Ahmad* och *Abū Dawūd* i vilken 'Uthmān bin Talhah berättar att profeten – över honom vare Allāhs frid och välsignelser – kallade honom till sig när han hade gått in i Ka'bah. Han sade: "*Jag såg en vädurs horn då jag gick in i huset och jag glömde att beordra dig att täcka dem, så täck dem, då det inte passar att det finns något i huset som stör tjänaren*." [^1]
+Bönen är dock fortfarande giltig enligt en återberättelse från *Aḥmad* och *Abū Dāwūd* i vilken 'Uthmān bin Talhah berättar att profeten – över honom vare Allāhs frid och välsignelser – kallade honom till sig när han hade gått in i Ka'bah. Han sade: "*Jag såg en vädurs horn då jag gick in i huset och jag glömde att beordra dig att täcka dem, så täck dem, då det inte passar att det finns något i huset som stör tjänaren*." [^1]
 
-*Ahmad* och al-Bukhārī har också återgivit från Anas att han sagt: *”‘A’ishah hade en filt som täckte en av husets väggar och profeten – över honom vare Allāhs frid och välsignelser – sade till henne: ”Ta bort filten från vårt hus, dess bilder slutade inte att störa mig under bönen*.” [^2]
+*Aḥmad* och al-Bukhārī har också återgivit från Anas att han sagt: *”‘A’ishah hade en filt som täckte en av husets väggar och profeten – över honom vare Allāhs frid och välsignelser – sade till henne: ”Ta bort filten från vårt hus, dess bilder slutade inte att störa mig under bönen*.” [^2]
 
 Han beordrade att hornen skulle täckas och att filten skulle tas bort. Här blir det klart och tydligt att de stör en tjänare under bönen. Det har dock inte rapporterats att profeten – över honom vare Allāhs frid och välsignelser – avbröt sin bön på grund av detta.
 
@@ -31,6 +31,6 @@ Här finns en varning från honom för sådant som stör tjänaren under bönen.
 Må frid och välsignelser vara över vår profet Muḥammad, hans familj och följeslagare.
 
 
-[^1]: *Ahmad* 4:68 och 5:380
-[^2]: *al-Bukhārī* 374 och 5959
-[^3]: *al-Bukhārī* 373, 752, 5817 och *Muslim* 556
+[^1]: *Aḥmad* 4:68 och 5:380
+[^2]: *al-Buk̲hārī* 374 och 5959
+[^3]: *al-Buk̲hārī* 373, 752, 5817 och *Muslim* 556

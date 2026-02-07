@@ -22,11 +22,11 @@ När Fatimah hade avlagt visit för att beklaga sorgen efter ett dödsfall så s
 
 Anledningen har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – när han sade till en kvinna som följde ett begravningståg:
 
-> ”Vänd tillbaka, täckta kvinna, som inte kommer att få någon belöning. Du är ju en prövning för de levande och en skada för de bortgångna.” [*Ibn Mājah* 1578, *al-Bayhaqi* 4:77 och *Sharh as-sunnah*[^1] 5:465]
+> ”Vänd tillbaka, täckta kvinna, som inte kommer att få någon belöning. Du är ju en prövning för de levande och en skada för de bortgångna.” [*Ibn Mājah* 1578, *al-Bayhaqī* 4:77 och *Sharh as-sunnah*[^1] 5:465]
 
 Så han klargjorde att det finns två anledningar till detta förbud mot att besöka gravar. Det beror på att de är en prövning för de levande, då en kvinna är svag och hennes närvaro framför män som hon inte är släkt med leder till lockelser och synder. På samma sätt skadar hon de avlidna då hon har lite tålamod och är svag i sitt hjärta. Hon kan inte hantera katastrofer och hon kan inte avhålla sig från klagande, gråtande och jämmer över den avlidnes goda egenskaper. Detta är förbjudet enligt den islamiska lagen.
 
 [^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 
-[^2]: *at-Tirmithi* 320 och *al-Bayhaqi* 4:78
-[^3]: *Abū Dawūd* 3123, *an-Nasā'i* 1881 och *Ahmad* 2:168-169
+[^2]: *at-Tirmithi* 320 och *al-Bayhaqī* 4:78
+[^3]: *Abū Dāwūd* 3123, *an-Nasā’ī* 1881 och *Aḥmad* 2:168-169

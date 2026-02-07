@@ -20,7 +20,7 @@ description: >-
 
 Går hon genom moskén för att hämta något, och hon är försiktig så att det inte droppar något blod, då har hon inte syndat med anledning av det. Detta grundas på profetens – över honom vare Allāhs frid och välsignelser – ord: "… *eller den som är i den stora rituella orenheten, utom den som passerar genom*."
 
-Det finns en autentisk *hadīth* från profeten – över honom vare Allāhs frid och välsignelser – där han beordrar 'A'ishah – må Allāh vara nöjd med henne – att hämta en bönematta som fanns i moskén. Hon berättar då för honom att hon har sin månadsblödning, men han säger: "*Blödningen finns inte i dina händer*." [^2]
+Det finns en autentisk *ḥadīt̲h* från profeten – över honom vare Allāhs frid och välsignelser – där han beordrar 'A'ishah – må Allāh vara nöjd med henne – att hämta en bönematta som fanns i moskén. Hon berättar då för honom att hon har sin månadsblödning, men han säger: "*Blödningen finns inte i dina händer*." [^2]
 
 Men om den nedre våningen inte är avsedd som en del av moskén, utan endast som en lagringsplats, då anses den inte vara en moské och kvinnan med månadsblödning samt den som är i den stora rituella orenheten får sitta där. Det finns heller ingen invändan mot att be vid dessa rena platser som inte är delar av en toalett.
 
@@ -31,5 +31,5 @@ Pelare som delar raderna skadar de inte bönen, men om det är möjligt att plac
 Och Allāh är Den som ger framgång.
 
 
-[^1]: *Abū Dawūd* 232
-[^2]: *Muslim* 298 och *Ahmad* 2:86, 6:45
+[^1]: *Abū Dāwūd* 232
+[^2]: *Muslim* 298 och *Aḥmad* 2:86, 6:45

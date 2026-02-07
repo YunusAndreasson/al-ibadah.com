@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 182 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - Tawāf och sa’ī
+  - Rundvandring och löpning
 original_id: 807
 description: >-
   Fråga: Vilket är utlåtandet om bönen börjar och en pilgrim [under vallfärden
@@ -14,9 +14,9 @@ description: >-
   och fullföljer sedan sin tawāf e...
 ---
 
-**Fråga:** Vilket är utlåtandet om bönen börjar och en pilgrim [under vallfärden eller *´umrah*] inte har avslutat *tawāf* eller *sa’ī*[^1]?
+**Fråga:** Vilket är utlåtandet om bönen börjar och en pilgrim [under vallfärden eller *´umrah*] inte har avslutat *ṭawāf* eller *sa´ī*[^1]?
 
-**Svar:** Han ber med folket och fullföljer sedan sin *tawāf* eller *sa’ī*[^1] därifrån han avbröts. Han börjar där han slutade.
+**Svar:** Han ber med folket och fullföljer sedan sin *ṭawāf* eller *sa´ī*[^1] därifrån han avbröts. Han börjar där han slutade.
 
 [^1]: Vandringen mellan as-Safa och al-Marwa.
 

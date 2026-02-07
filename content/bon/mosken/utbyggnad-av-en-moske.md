@@ -10,7 +10,7 @@ categories:
 original_id: 384
 description: >-
   Fråga: Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”
-  En enda bön i min Moské är värd tusen böner .” [*Ahmad* 2:397 och 528] Gäller
+  En enda bön i min Moské är värd tusen böner .” [*Aḥmad* 2:397 och 528] Gäller
   detta moskéns gränser som de såg ut under h...
 ---
 
@@ -19,4 +19,4 @@ description: >-
 **Svar:** Hans moské var mindre än vad den är nu och likaså var den Heliga [Moskén i Mecka]. De korrekt vägledda kaliferna byggde dock ut de båda moskéerna och likaså gjorde de som efterträdde dem. Utlåtandet om utbyggnaden är samma utlåtanden som för det som har byggts ut.
 
 
-[^1]: *Ahmad* 2:397 och 528
+[^1]: *Aḥmad* 2:397 och 528

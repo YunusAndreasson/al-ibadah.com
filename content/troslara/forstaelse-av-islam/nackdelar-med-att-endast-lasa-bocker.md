@@ -16,13 +16,13 @@ description: >-
 
 **Svar:** Det finns två sätt att inhämta kunskap på.
 
-**Inhämta den från pålitliga böcker** som har skrivits av lärde som är kända för deras kunskap och pålitlighet och vars *‘aqīdah* är känd för att vara fri från innovationer och myter.
+**Inhämta den från pålitliga böcker** som har skrivits av lärde som är kända för deras kunskap och pålitlighet och vars *´aqīdah* är känd för att vara fri från innovationer och myter.
 
 Genom böcker går det att nå upp till en viss nivå men därefter uppstår två problem:
 
 Det första problemet är att det tar lång tid, då mycket energi behöver läggas under lång tid för att uppnå det eftersträvade målet. Många kanske inte lyckas med att komma över denna tröskel, då de ser människor i sin omgivning som har kämpat länge utan att uppnå så mycket. Därför blir de uttråkade och tröttnar, utan att få vad de ville ha.
 
-Det andra problemet med att lära sig ifrån böcker är att kunskapen ofta blir svag då den inte byggs på en stadig grund. Därmed kan vi finna många misstag från dem som endast har läst böcker då de inte har någon vägledning eller några principer för att hantera mindre frågor i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Vi har sett personer som har funnit en *hadīth* – ej nämnd i pålitliga *hadīth* böcker – och byggt sin tro på den. Detta går emot principerna som de lärde följer.
+Det andra problemet med att lära sig ifrån böcker är att kunskapen ofta blir svag då den inte byggs på en stadig grund. Därmed kan vi finna många misstag från dem som endast har läst böcker då de inte har någon vägledning eller några principer för att hantera mindre frågor i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Vi har sett personer som har funnit en *ḥadīt̲h* – ej nämnd i pålitliga *ḥadīt̲h* böcker – och byggt sin tro på den. Detta går emot principerna som de lärde följer.
 
 Detta är utan tvekan fel därför att Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* har principer som de mindre frågorna kretsar kring och om det finns något som motsäger sig dessa principer och som inte kan förlikas med dem, då bör det överges.
 

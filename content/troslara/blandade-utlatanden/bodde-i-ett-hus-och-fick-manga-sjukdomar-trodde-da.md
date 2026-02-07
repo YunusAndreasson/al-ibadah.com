@@ -25,4 +25,4 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*O
 Och Allāh vet bäst.
 
 
-[^1]: *al-Bukhārī* 2858
+[^1]: *al-Buk̲hārī* 2858

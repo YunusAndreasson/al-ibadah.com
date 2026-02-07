@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Det är upp till honom att välja. Vill han så kan han göra *takbīr* och avsluta denna bönecykel, eller om han föredrar, då kan han recitera en annan vers eller verser från en annan sura enligt vad profetens – över honom vare Allāhs frid och välsignelser – rena *sunnah* kräver av honom i bönen som han läser.
 
-Detta gäller dock inte om misstaget sker i *al-Fātihah*. Här måste hela denna sura reciteras. Anledningen är att recitation av den är en av bönens pelare.
+Detta gäller dock inte om misstaget sker i *al-Fātiḥah*. Här måste hela denna sura reciteras. Anledningen är att recitation av den är en av bönens pelare.
 
 Allāh är Beviljaren av framgång.
 

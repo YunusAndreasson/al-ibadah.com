@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 121 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - Ihrām och avsikt
+  - Helgtillståndet och avsikt
 original_id: 760
 description: >-
   Fråga: När träder en pilgrim eller den som kommer till ‘umrah in i ihrām?
@@ -14,9 +14,9 @@ description: >-
   med mīqāt, precis som den som k...
 ---
 
-**Fråga:** När träder en pilgrim eller den som kommer till *'umrah* in i *ihrām*?
+**Fråga:** När träder en pilgrim eller den som kommer till *´umrah* in i *iḥrām*?
 
-**Svar:** Den som kommer med flyg eller båt går in i *ihrām* när denne är i jämnhöjd med *mīqāt*, precis som den som kommer landvägen. När han når den punkt som är i jämnhöjd med *ihrām*, då träder han in i *ihrām* i luften eller på havet, eller strax innan, om han vill vara på den säkra sidan med anledning av fartygets eller planets hastighet.
+**Svar:** Den som kommer med flyg eller båt går in i *iḥrām* när denne är i jämnhöjd med *mīqāt*, precis som den som kommer landvägen. När han når den punkt som är i jämnhöjd med *iḥrām*, då träder han in i *iḥrām* i luften eller på havet, eller strax innan, om han vill vara på den säkra sidan med anledning av fartygets eller planets hastighet.
 
 Och framgång kommer från Allāh.
 

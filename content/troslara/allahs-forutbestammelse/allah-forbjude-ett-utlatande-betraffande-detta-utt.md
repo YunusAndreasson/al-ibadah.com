@@ -22,4 +22,4 @@ Han har även sagt: "Ingen bör säga: 'Allāh! Förlåt mig om du vill. Allāh!
 Det är bättre att säga: "Må Allāh inte bestämma det" i stället för "Allāh förbjude" för det är mindre sannolikt att någon kommer att förstå det som något som inte är tillåtet i fråga om Allāh den Upphöjde.
 
 
-[^1]: *al-Bukhārī* i boken om innovationer
+[^1]: *al-Buk̲hārī* i boken om innovationer

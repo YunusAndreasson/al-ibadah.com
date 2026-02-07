@@ -20,7 +20,7 @@ description: >-
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Den som utfört en handling som inte tillhör denna vår fråga [islam], kommer att få den avvisad*." [*Muslim*] Den som utan en ursäkt avsiktligen skjuter upp bönen från den avsedda tiden har handlat på ett sätt som inte är enligt Allāhs och Hans sändebuds religion. Därför kommer den inte att accepteras från honom.
 
-Någon kan tänkas säga: "Jag sover och profeten – över honom vare Allāhs frid och välsignelser – har sagt: 'Den *som sover över bönen eller glömmer den måste be när denne kommer ihåg den och det finns ingen bot utom detta.'*" [*al-Bukhārī*]
+Någon kan tänkas säga: "Jag sover och profeten – över honom vare Allāhs frid och välsignelser – har sagt: 'Den *som sover över bönen eller glömmer den måste be när denne kommer ihåg den och det finns ingen bot utom detta.'*" [*al-Buk̲hārī*]
 
 Då svarar vi: Kan han lägga sig tidigt så att han vaknar i tid eller kan han placera en väckarklocka som väcker honom eller ger någon i uppdrag att väcka honom – då anses hans försenande av bönen, när han inte går upp, att avsiktligen vara att skjuta upp bönen till efter den utsedda tiden. Därför accepteras den inte från honom.
 

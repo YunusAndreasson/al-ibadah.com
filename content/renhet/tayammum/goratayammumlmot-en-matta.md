@@ -7,7 +7,7 @@ source: >-
   (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Renhet (Tahārah)
-  - 'Tayammum [Tvagning utan vatten]'
+  - Tvagning utan vatten
 original_id: 158
 description: >-
   Fråga: En person befann sig på sjukhus och kunde inte tvaga sig. Han gjorde

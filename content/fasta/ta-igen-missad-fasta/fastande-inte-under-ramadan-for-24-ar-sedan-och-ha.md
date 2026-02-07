@@ -16,9 +16,9 @@ description: >-
   dag 24 år gammalt men kvinnan har ännu in...
 ---
 
-**Fråga:** En kvinna fastade inte under *ramadan* år 1382 AH och hon hade en riktig ursäkt som var att hon ammade ett spädbarn. Nu har barnet vuxit upp och är i dag 24 år gammalt men kvinnan har ännu inte tagit igen denna månad. Vid Allāh den Allsmäktige detta skedde endast på grund av hennes okunskap och inte avsiktligen eller med slapphet från hennes sida. Jag hoppas att du kan hjälpa oss med ett svar.
+**Fråga:** En kvinna fastade inte under *ramaḍān* år 1382 AH och hon hade en riktig ursäkt som var att hon ammade ett spädbarn. Nu har barnet vuxit upp och är i dag 24 år gammalt men kvinnan har ännu inte tagit igen denna månad. Vid Allāh den Allsmäktige detta skedde endast på grund av hennes okunskap och inte avsiktligen eller med slapphet från hennes sida. Jag hoppas att du kan hjälpa oss med ett svar.
 
-**Svar:** Hon måste skyndsamt ta igen denna månad. Hon bör fasta den även om hon gör så under separata dagar som sammantaget blir lika många som muslimer fastade under det året. Tillsammans med fastan måste hon som en gottgörelse för hennes försening ge till välgörenhet genom att ge en fattig mat för varje dag. Sannerligen, den som skjuter upp att ta igen fastan till nästa *ramadan* är skyldig att gottgöra sig tillsammans med att ta igen fastan. För hela månaden är det tillräckligt att ge bort en säck ris på 45 kg.
+**Svar:** Hon måste skyndsamt ta igen denna månad. Hon bör fasta den även om hon gör så under separata dagar som sammantaget blir lika många som muslimer fastade under det året. Tillsammans med fastan måste hon som en gottgörelse för hennes försening ge till välgörenhet genom att ge en fattig mat för varje dag. Sannerligen, den som skjuter upp att ta igen fastan till nästa *ramaḍān* är skyldig att gottgöra sig tillsammans med att ta igen fastan. För hela månaden är det tillräckligt att ge bort en säck ris på 45 kg.
 
 Det var hennes skyldighet att undersöka denna fråga inom religionen. För sannerligen, detta är något välkänt och vanligt bland somliga – att den som bryter fastan med en ursäkt är skyldig att ta igen den så fort som möjligt och att det inte är tillåtet att skjuta upp den utan en ursäkt.
 

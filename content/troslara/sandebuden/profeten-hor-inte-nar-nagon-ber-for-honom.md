@@ -15,7 +15,7 @@ description: >-
   sagts: ” Den som sänder välsignelser över...
 ---
 
-**Fråga:** Hör profeten – över honom vare Allāhs frid och välsignelser – i sin ädla grav dem som ber för honom [speciellt välsignelser]? I en *hadīth* har det sagts: ”*Den som sänder välsignelser över min grav hör jag*…” Är denna *hadīth* autentisk?
+**Fråga:** Hör profeten – över honom vare Allāhs frid och välsignelser – i sin ädla grav dem som ber för honom [speciellt välsignelser]? I en *ḥadīt̲h* har det sagts: ”*Den som sänder välsignelser över min grav hör jag*…” Är denna *ḥadīt̲h* autentisk?
 
 **Svar:** I allmänhet kan de döda inte höra något från Adams söner som lever. De kan heller inte höra deras åkallan. Allāh den Upphöjde säger:
 
@@ -25,9 +25,9 @@ Varken Allāhs skrift eller profetens – över honom vare Allāhs frid och väl
 
 Detta bevisas i en återberättelse från ´Alī bin al-Husain bin ´Alī i vilken det berättas att han såg en man gå till en lucka vid profetens – över honom vare Allāhs frid och välsignelser – grav, träda in i den och åkalla. Han hindrade honom från att göra så med orden:
 
-> ”Skall jag inte berätta för dig om en *hadīth* som jag hörde från min fader, återberättad av min farfader, från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – som sade: 'Använd inte min grav som en plats för festligheter, och inte era hem som gravar, utan sänd hälsningar över mig. Sannerligen förmedlas era hälsningar till mig var ni än befinner er.” [*Ahmad* 2:367]
+> ”Skall jag inte berätta för dig om en *ḥadīt̲h* som jag hörde från min fader, återberättad av min farfader, från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – som sade: 'Använd inte min grav som en plats för festligheter, och inte era hem som gravar, utan sänd hälsningar över mig. Sannerligen förmedlas era hälsningar till mig var ni än befinner er.” [*Aḥmad* 2:367]
 
-När det gäller denna *hadīth*: "*Den som ber för mig vid min grav hör jag, och den som ber för mig långt bort kommer jag att nå*" – den är svag enligt de lärde.
+När det gäller denna *ḥadīt̲h*: "*Den som ber för mig vid min grav hör jag, och den som ber för mig långt bort kommer jag att nå*" – den är svag enligt de lärde.
 
 Beträffande vad Abū Dawūd har återberättat, med en kedja av berättare som är *ḥasan*, från Abū Hurairah som säger att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*När någon sänder fridshälsningar över mig så återlämnar Allāh min själ så att jag kan återsända hälsningen till honom*” – så betyder det inte att han hör en muslims hälsning. I stället är det troligare att han svarar när änglarna förmedlar hälsningen till honom. Även om vi säger att han hör hälsningen så innebär det inte att han hör något annat.
 

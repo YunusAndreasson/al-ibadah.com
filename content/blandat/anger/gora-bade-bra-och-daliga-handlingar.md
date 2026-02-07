@@ -35,7 +35,7 @@ Profeten har sagt:
 
 Har han syndat mot en annan person måste han antingen återlämna deras egendom eller söka deras förlåtelse. Allāhs sändebud har sagt:
 
-> ”Den som har handlat felaktigt mot sin broders heder eller något annat, låt honom söka förlåtelse från honom idag så länge det finns saker som dinar och dirham (det vill säga, innan Domedagen). Om den som handlat felaktigt har goda handlingar, då kommer den som behandlats felaktigt få dem enligt det onda som gjorts mot honom. Men om den som gjort fel inte har några goda handlingar, då kommer han ta från sin partners synder och bära den bördan.” [*al-Bukhārī* 2449]
+> ”Den som har handlat felaktigt mot sin broders heder eller något annat, låt honom söka förlåtelse från honom idag så länge det finns saker som dinar och dirham (det vill säga, innan Domedagen). Om den som handlat felaktigt har goda handlingar, då kommer den som behandlats felaktigt få dem enligt det onda som gjorts mot honom. Men om den som gjort fel inte har några goda handlingar, då kommer han ta från sin partners synder och bära den bördan.” [*al-Buk̲hārī* 2449]
 
 Det finns flera verser i Koranen och uttalanden från profeten som har en liknande innebörd.
 

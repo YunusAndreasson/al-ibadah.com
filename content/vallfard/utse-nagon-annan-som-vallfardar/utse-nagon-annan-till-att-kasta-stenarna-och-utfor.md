@@ -20,7 +20,7 @@ description: >-
 
 Den utsedde kastar först de egna stenarna och sedan för den som utsett honom. Men om personen som har utsett själv kan kasta stenarna eller om den utsedde inte är en tillräknelig vuxen eller om denne inte vallfärdar, då är det inte rätt att utse någon annan som kastar stenarna. Den som har utsett honom måste då slakta ett djur [som försoning].
 
-Det är inte rätt att utse någon till att utföra *tawaful-wada* eller någon annan *tawāf* runt Ka’bah. Den som utser någon till att utföra *tawaful-wada* och som inte utför *tawāf* själv, denne har syndat. Denne måste slakta ett djur vid helgedomen för att ha utelämnat avskeds-*tawāf*. Djuret slaktas vid Helgedomen. Den som utser någon till att kasta stenarna får heller inte bege sig av innan den utsedde har kastat stenarna. Då utför denne *tawaful-wada* själv när stenarna har kastats.
+Det är inte rätt att utse någon till att utföra *ṭawāf ul-wadā’* eller någon annan *ṭawāf* runt Ka’bah. Den som utser någon till att utföra *ṭawāf ul-wadā’* och som inte utför *ṭawāf* själv, denne har syndat. Denne måste slakta ett djur vid helgedomen för att ha utelämnat avskeds-*ṭawāf*. Djuret slaktas vid Helgedomen. Den som utser någon till att kasta stenarna får heller inte bege sig av innan den utsedde har kastat stenarna. Då utför denne *ṭawāf ul-wadā’* själv när stenarna har kastats.
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 

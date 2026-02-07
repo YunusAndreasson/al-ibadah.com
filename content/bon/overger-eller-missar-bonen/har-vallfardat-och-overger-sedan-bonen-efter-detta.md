@@ -15,7 +15,7 @@ description: >-
   fastade jag under den första halvan. När jag s...
 ---
 
-**Fråga:** Ädle *shaykh*! Med anledning av svåra omständigheter och mot min vilja reste jag till ett främmande land under mitten av *ramadan* och i mitt land fastade jag under den första halvan. När jag sedan reste, slutade jag att fasta och be under femton dagar, vilket var den tid som jag befann mig i landet. Under den tiden sade jag att dessa människor var orena och att det inte var tillåtet att använda deras köksredskap. Jag visste inte heller riktningen mot *qiblah* och jag åt eller drack inte något av vad de hade. Min fråga är om mitt övergivande av bönen och fastan har någon inverkan på den obligatoriska vallfärd som jag gjort för många år sedan? Finns det något utlåtande eller någon lösen som jag kan ge Allāh för att Han ska förlåta mina synder? Vänligen, ge mig ett svar och må Allāh välsigna er.
+**Fråga:** Ädle *s̲hayk̲h*! Med anledning av svåra omständigheter och mot min vilja reste jag till ett främmande land under mitten av *ramaḍān* och i mitt land fastade jag under den första halvan. När jag sedan reste, slutade jag att fasta och be under femton dagar, vilket var den tid som jag befann mig i landet. Under den tiden sade jag att dessa människor var orena och att det inte var tillåtet att använda deras köksredskap. Jag visste inte heller riktningen mot *qiblah* och jag åt eller drack inte något av vad de hade. Min fråga är om mitt övergivande av bönen och fastan har någon inverkan på den obligatoriska vallfärd som jag gjort för många år sedan? Finns det något utlåtande eller någon lösen som jag kan ge Allāh för att Han ska förlåta mina synder? Vänligen, ge mig ett svar och må Allāh välsigna er.
 
 **Svar:** Att du under denna tid övergav bönen och fastan påverkar inte den obligatoriska vallfärd som du utfört tidigare. Detta beror på att det som tillintetgör tidigare rättfärdiga handlingar är ett utträde ur islam som man dör med. Detta beror på att Allāh har sagt:
 
@@ -37,7 +37,7 @@ Anledningen som du uppgav för att lämna bönen – att du inte kände till rik
 
 Och profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Om jag kommenderar er att göra något, gör då så mycket som ni kan av det.” [*al-Bukhārī* 7288 och *Muslim* 1337]
+> ”Om jag kommenderar er att göra något, gör då så mycket som ni kan av det.” [*al-Buk̲hārī* 7288 och *Muslim* 1337]
 
 Om någon då befinner sig någonstans och inte känner till riktningen mot *qiblah*, och det inte finns någon som denne litar på och kan fråga, då ber denne efter att ha försökt ta reda på den troligaste riktningen. Denne behöver inte ta igen den bönen efteråt.
 

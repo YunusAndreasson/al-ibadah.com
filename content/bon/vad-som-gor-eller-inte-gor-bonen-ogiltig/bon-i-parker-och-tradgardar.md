@@ -24,10 +24,10 @@ En muslim får dock inte be i trädgårdar, även om det sker på ett tjock och 
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Den *som hörde böneutropet och inte besvarade det, då finns ingen bön för denne, utom om han har en ursäkt [som sjukdom eller resa].*” [^1]
 
-Det har rapporterats att en blind man till profeten – över honom vare Guds frid och välsignelser – sade: ”*Allāhs sändebud! Jag har ingen guide som kan vägleda mig till moskén, har jag tillåtelse att be i mitt hem?*” Allāhs sändebud – över honom vare Allāhs frid och välsignelser – frågade: ”*Hör du böneutropet?*” Han svarade ”*Ja*.” Han svarade: ”*Besvarade det då*.” [^2] *Ahādīth* som har samma betydelse är många.
+Det har rapporterats att en blind man till profeten – över honom vare Guds frid och välsignelser – sade: ”*Allāhs sändebud! Jag har ingen guide som kan vägleda mig till moskén, har jag tillåtelse att be i mitt hem?*” Allāhs sändebud – över honom vare Allāhs frid och välsignelser – frågade: ”*Hör du böneutropet?*” Han svarade ”*Ja*.” Han svarade: ”*Besvarade det då*.” [^2] *aḥādīt̲h* som har samma betydelse är många.
 
 /…/
 
 
-[^1]: *Ibn Mājah* 793, *ad-Daraqutni* 1:420 och *al-Hakim* 1:245
+[^1]: *Ibn Mājah* 793, *ad-Dāraquṭnī* 1:420 och *al-Ḥākim* 1:245
 [^2]: *Muslim* 653

@@ -23,4 +23,4 @@ Men kan du inte gå till moskén och du då ber i ditt hem, då har du inte synd
 
 
 [^1]: Koranen 64:16
-[^2]: *Muslim* 1337 och *Ahmad* 2:2 och 508
+[^2]: *Muslim* 1337 och *Aḥmad* 2:2 och 508

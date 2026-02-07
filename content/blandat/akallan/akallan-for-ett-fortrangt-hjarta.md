@@ -18,6 +18,6 @@ description: >-
 
 **Svar:** Att undanröja vedermödor och öppna en människas bröst ligger i Allāhs den Allsmäktiges händer allena. Om du är olycklig på grund av en vedermöda, om du känner dig själv hämmad, vänd dig då till Allāh den Allsmäktige och be Honom undanröja din vedermöda. Gör vad Allāhs sändebud brukade göra när vedermödor drabbade honom. Han brukade be och när han kände sig plågad brukade han säga:
 
-> ”Ingen har rätten till att dyrkas förutom Allāh, den Magnifike, den Tålmodige. Ingen har rätten att bli dyrkad förutom Allāh, Herren över den Magnifika tronen. Ingen har rätten att bli dyrkad förutom Allāh, himlarnas Herre, jordens Herre och Herren över den ädla tronen.” [*al-Bukhārī* 6346 och *Muslim* 2730]
+> ”Ingen har rätten till att dyrkas förutom Allāh, den Magnifike, den Tålmodige. Ingen har rätten att bli dyrkad förutom Allāh, Herren över den Magnifika tronen. Ingen har rätten att bli dyrkad förutom Allāh, himlarnas Herre, jordens Herre och Herren över den ädla tronen.” [*al-Buk̲hārī* 6346 och *Muslim* 2730]
 
 

@@ -18,19 +18,19 @@ description: >-
 
 **Svar:** Profeten – över honom vare Allāhs frid och välsignelser – har beordrat muslimerna att de bör: "*Fasta när nymånen har siktats och bryta fastan när den har siktats. Och om den är dold för dem [på grund av moln] fullgör då 30 [dagar].*" [^1]
 
-Denna *hadīth* är *al-Bukhārī* och *Muslim* eniga om. Profeten – över honom vare Allāhs frid och välsignelser – har även sagt:
+Denna *ḥadīt̲h* är *al-Buk̲hārī* och *Muslim* eniga om. Profeten – över honom vare Allāhs frid och välsignelser – har även sagt:
 
-> "Vi är sannerligen ett samfund utan läs- och skrivkunnighet. Vi varken skriver eller kalkylerar. Månaderna är så här och så här och så här', och han drog sin tumme mot det tredje [fingret] [Vilket betyder 30-1]. Sedan sade han: 'Månaderna är så här och så här och så här' och han höll upp alla hans fingrar, vilket betydde att månaderna är 29 och 30 dagar." [*al-Bukhārī* 1913 och *Muslim* 1080]
+> "Vi är sannerligen ett samfund utan läs- och skrivkunnighet. Vi varken skriver eller kalkylerar. Månaderna är så här och så här och så här', och han drog sin tumme mot det tredje [fingret] [Vilket betyder 30-1]. Sedan sade han: 'Månaderna är så här och så här och så här' och han höll upp alla hans fingrar, vilket betydde att månaderna är 29 och 30 dagar." [*al-Buk̲hārī* 1913 och *Muslim* 1080]
 
-I *Sahīh al-Bukhārī* har det bekräftats från Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Fasta enligt dens [nymånens] siktande och bryt fastan enligt dens siktande. Om den är dold för er genom moln, fullgör då antalet [dagar i] sha'ban som 30*.” [^2] Och han har sagt: ”*Fasta* *inte förrän ni ser nymånen eller ni har räknat [30 dagar i sha'ban] och bryt inte er fasta förrän ni ser nymånen eller ni har räknat antalet [av 30 dagar i ramadan]*.” [^3]
+I *Ṣaḥīḥ al-Buk̲hārī* har det bekräftats från Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Fasta enligt dens [nymånens] siktande och bryt fastan enligt dens siktande. Om den är dold för er genom moln, fullgör då antalet [dagar i] sha'ban som 30*.” [^2] Och han har sagt: ”*Fasta* *inte förrän ni ser nymånen eller ni har räknat [30 dagar i sha'ban] och bryt inte er fasta förrän ni ser nymånen eller ni har räknat antalet [av 30 dagar i ramadan]*.” [^3]
 
-*Ahādīth* om detta är många och de bevisar alla att det är obligatoriskt att utgå från siktandet av månen eller efter antalet dagar om den inte kan ses. Likaså bevisar de att det inte är tillåtet att här lita på kalkyleringar.
+*aḥādīt̲h* om detta är många och de bevisar alla att det är obligatoriskt att utgå från siktandet av månen eller efter antalet dagar om den inte kan ses. Likaså bevisar de att det inte är tillåtet att här lita på kalkyleringar.
 
-*Shaykh ul-Islām* Ibn Taymiyyah har nämnt att det råder konsensus bland de lärda om att det inte är tillåtet att lita på kalkyleringar för att bekräfta den nya månen. Detta är sanningen som det inte finns något tvivel om.
+*s̲hayk̲h ul-islām* Ibn Taymiyyah har nämnt att det råder konsensus bland de lärda om att det inte är tillåtet att lita på kalkyleringar för att bekräfta den nya månen. Detta är sanningen som det inte finns något tvivel om.
 
 Och Allāh är Beviljaren av framgång.
 
 
-[^1]: *al-Bukhārī* 1909 och *Muslim* 1081
-[^2]: *al-Bukhārī* 1909 och *Muslim* 1081
-[^3]: *al-Bukhārī* 1080
+[^1]: *al-Buk̲hārī* 1909 och *Muslim* 1081
+[^2]: *al-Buk̲hārī* 1909 och *Muslim* 1081
+[^3]: *al-Buk̲hārī* 1080

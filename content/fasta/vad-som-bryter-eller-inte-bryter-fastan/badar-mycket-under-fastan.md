@@ -14,7 +14,7 @@ description: >-
   under fastan då det kommer en del fukt fr...
 ---
 
-**Fråga:** Vilket är utlåtandet om att dagtid under *ramadan* bada mycket, mer än en gång? Vilket är utlåtandet om att sitta vid luftkonditioneringen hela tiden under fastan då det kommer en del fukt från den?
+**Fråga:** Vilket är utlåtandet om att dagtid under *ramaḍān* bada mycket, mer än en gång? Vilket är utlåtandet om att sitta vid luftkonditioneringen hela tiden under fastan då det kommer en del fukt från den?
 
 **Svar:** Sannerligen är det tillåtet och det är ingen fara. Utan tvekan brukade sändebudet – över honom vare Allāhs frid och välsignelser – hälla vatten över sitt huvud på grund av värme eller törst då han fastade. Ibn ´Umar brukade blöta sitt klädesplagg med vatten för att lätta på intensiteten i hettan eller törsten medan han fastade. Fukt har ingen inverkan på fastan då det inte är vatten som når magen.
 

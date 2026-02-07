@@ -18,16 +18,16 @@ description: >-
 
 **Svar:** Profetens – över honom vare Allāhs frid och välsignelser – *sunnah* säger att den som hör *iqāmah* bör säga vad den som gör *iqāmah* säger. Anledningen är att den är känd som det ”andra böneutropet” och därför bör den besvaras på samma sätt som det första böneutropet.
 
-När den som gör *iqāmah* säger: ”*Hayya 'alas-salāh, hayya 'alal-falah*” [skynda till bönen, skynda till framgång], då ska den som lyssnar säga: ”*La hawla wa la quwwata illa Billāh*” [det finns ingen kraft och ingen styrka utom i Allāh]. Och när han [som säger *iqāmah*] säger: "*Qad qamatis-salāh, qad-qamatis-salāh*" [bönen börjar, bönen börjar] bör den som lyssnar säga samma sak och inte säga: "*aqamahAllāh wa adamah*" [Allāh har etablerat den och gjort den evig] då detta grundas på en svag *hadīth*.
+När den som gör *iqāmah* säger: ”*Hayya 'alas-salāh, hayya 'alal-falah*” [skynda till bönen, skynda till framgång], då ska den som lyssnar säga: ”*La hawla wa la quwwata illa Billāh*” [det finns ingen kraft och ingen styrka utom i Allāh]. Och när han [som säger *iqāmah*] säger: "*Qad qamatis-salāh, qad-qamatis-salāh*" [bönen börjar, bönen börjar] bör den som lyssnar säga samma sak och inte säga: "*aqamahAllāh wa adamah*" [Allāh har etablerat den och gjort den evig] då detta grundas på en svag *ḥadīt̲h*.
 
 Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om du hör böneutroparen, säg vad han säger*.” [^1]
 
-Detta gäller både böneutropet och *iqāmah*. De kallas ju båda för ”böneutrop”. Sedan sänder man böner över profeten – över honom vare Allāhs frid och välsignelser – när den som läser *iqāmah* säger: ”*Lā ilaha illallāh*” [ingen är värd att dyrka utom Allāh], genom att säga: ”*Allāhumma Rabba hathihid-da'watit-tammah, was-salatil-qa'imah*…” etcetera. [^2]
+Detta gäller både böneutropet och *iqāmah*. De kallas ju båda för ”böneutrop”. Sedan sänder man böner över profeten – över honom vare Allāhs frid och välsignelser – när den som läser *iqāmah* säger: ”*Lā ilāha illAllāh*” [ingen är värd att dyrka utom Allāh], genom att säga: ”*Allāhumma Rabba hathihid-da'watit-tammah, was-salatil-qa'imah*…” etcetera. [^2]
 
 Utöver det som vi har nämnt känner vi inte till något autentiskt bevis som påvisar att man bör säga någon åkallan mellan slutet av *iqāmah* och den första *takbīr* i bönen.
 
 Genom Allāh uppnås framgång och må frid och välsignelser vara över vår profet Muḥammad, hans familj och följeslagare.
 
 
-[^1]: *al-Bukhārī* 611 och *Muslim* 383
-[^2]: *al-Bukhārī* 614 och 4719
+[^1]: *al-Buk̲hārī* 611 och *Muslim* 383
+[^2]: *al-Buk̲hārī* 614 och 4719

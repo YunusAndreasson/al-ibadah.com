@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Ska män be hälsningsbönen till moskén[^1] när de går in i moskén under predikan? De som följer imam Māliks rättsskola säger att man inte ska göra det.
 
-**Svar:** *Sunnah* när man går in i moskén är att be två bönecykler, som en hälsning till moskén, även om imamen håller predikan. Detta grundas på profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Om någon går in i moskén, då bör han inte sitta förrän han har bett två bönecykler*[^2].” [^3] al-Bukhārī och Muslim har återgivit denna *hadīth* i deras *Sahīh*.
+**Svar:** *sunnah* när man går in i moskén är att be två bönecykler, som en hälsning till moskén, även om imamen håller predikan. Detta grundas på profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Om någon går in i moskén, då bör han inte sitta förrän han har bett två bönecykler*[^2].” [^3] al-Bukhārī och Muslim har återgivit denna *ḥadīt̲h* i deras *Ṣaḥīḥ*.
 
 Muslim har även återgivit från Jabir att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om någon kom till moskén och imamen höll predikan, då bör han be två korta bönecykler*[^2].” [^4]
 
@@ -32,7 +32,7 @@ Och Allāh är Beviljaren av framgång.
 [^1]: Tahiyyatul-Msjid.
 [^2]: Rakah.
 
-[^3]: *al-Bukhārī* 1163 och *Muslim* 714
+[^3]: *al-Buk̲hārī* 1163 och *Muslim* 714
 [^4]: *Muslim* 875
 [^5]: Koranen 4:59
 [^6]: Koranen 4:59

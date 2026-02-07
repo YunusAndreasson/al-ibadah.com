@@ -12,7 +12,7 @@ description: >-
   honom vare Allāhs frid och välsignelser...
 ---
 
-**Fråga:** Jag memorerar lite av Koranen och jag hoppas kunna memorera hela för att – med Allāhs hjälp – fortsätta och memorera *ahādīth* från sändebudet – över honom vare Allāhs frid och välsignelser – som finns återgivna i *al-Sahīhayn*. Är denna metod bra eller bör jag jobba med att memorera båda samtidigt?
+**Fråga:** Jag memorerar lite av Koranen och jag hoppas kunna memorera hela för att – med Allāhs hjälp – fortsätta och memorera *aḥādīt̲h* från sändebudet – över honom vare Allāhs frid och välsignelser – som finns återgivna i *al-Sahīhayn*. Är denna metod bra eller bör jag jobba med att memorera båda samtidigt?
 
 **Svar:** All lovprisan tillhör Allāh.
 

@@ -29,7 +29,7 @@ description: >-
 
 Profeten – över honom vare Allāhs frid och välsignelser – har även sagt:
 
-> ”Håll fast vid min *sunnah* och likaså de efter mig korrekt vägledda kalifernas *sunnah*. Bit tag i den med kindtänderna. Och håll er borta från nyinförda frågor, för sannerligen är varje nyinförd fråga en innovation och varje innovation är villfarelse.” [*Abū Dawūd* 4607]
+> ”Håll fast vid min *sunnah* och likaså de efter mig korrekt vägledda kalifernas *sunnah*. Bit tag i den med kindtänderna. Och håll er borta från nyinförda frågor, för sannerligen är varje nyinförd fråga en innovation och varje innovation är villfarelse.” [*Abū Dāwūd* 4607]
 
 Bevisen för detta är många.
 

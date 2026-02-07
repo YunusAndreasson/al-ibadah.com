@@ -15,13 +15,13 @@ description: >-
   på grund av min sjukdom. Vilken är då gottgörel...
 ---
 
-**Fråga:** Jag är en kvinna som är sjuk och det var några dagar under förra *ramadan* som jag inte fastade. Jag har inte möjlighet att ta igen dessa dagar på grund av min sjukdom. Vilken är då gottgörelsen för detta? Likaså kommer jag inte att ha möjlighet att fasta under *ramadan* detta år. Hur gottgör jag mig då för det? Må Allāh belöna er med det goda.
+**Fråga:** Jag är en kvinna som är sjuk och det var några dagar under förra *ramaḍān* som jag inte fastade. Jag har inte möjlighet att ta igen dessa dagar på grund av min sjukdom. Vilken är då gottgörelsen för detta? Likaså kommer jag inte att ha möjlighet att fasta under *ramaḍān* detta år. Hur gottgör jag mig då för det? Må Allāh belöna er med det goda.
 
 **Svar:** För den sjuke, som fastan är för svår för, är det föreskrivet att bryta den och när Allāh botar honom ta igen det som denne är skyldig att ta igen. Detta beror på att Allāh har sagt:
 
 > ”Men den av er som är sjuk eller på resa [ska fasta senare] under motsvarande antal dagar och de som har möjlighet ska som offer ge en nödställd att äta.” [Koranen 2:184]
 
-Du har inte syndat genom att bryta din fasta under denna månad [*ramadan*] så länge sjukdomen kvarstår. Detta beror på att brytandet av fastan är en lättelse från Allāh för den sjuke och den resande och Allāh älskar att man utnyttjar medgivande precis som Han hatar att man inte lyder Honom. Det finns ingen gottgörelse för dig men när Allāh botar dig måste du ta igen dessa dagar.
+Du har inte syndat genom att bryta din fasta under denna månad [*ramaḍān*] så länge sjukdomen kvarstår. Detta beror på att brytandet av fastan är en lättelse från Allāh för den sjuke och den resande och Allāh älskar att man utnyttjar medgivande precis som Han hatar att man inte lyder Honom. Det finns ingen gottgörelse för dig men när Allāh botar dig måste du ta igen dessa dagar.
 
 Må Allāh bota dig från allt ont och sona dina och allas våra synder.
 

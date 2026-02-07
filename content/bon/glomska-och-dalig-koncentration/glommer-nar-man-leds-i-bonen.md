@@ -14,7 +14,7 @@ description: >-
   Svar: Du behöver inte nedfalla för glöms...
 ---
 
-**Fråga:** Jag bad bakom en imam och jag glömde att säga *tasbih* under det första nedfallandet. Vad gör jag då? Bör jag nedfalla efter imamens *taslīm*?
+**Fråga:** Jag bad bakom en imam och jag glömde att säga *tasbīḥ* under det första nedfallandet. Vad gör jag då? Bör jag nedfalla efter imamens *taslīm*?
 
 **Svar:** Du behöver inte nedfalla för glömska[^1]; varken före eller efter imamens *taslīm*. Imamen bär bördan för glömskan och inget krävs av de som ber bakom honom.
 

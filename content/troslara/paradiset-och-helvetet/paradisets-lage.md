@@ -24,12 +24,12 @@ Koranen bekräftar att Paradisets vidd är vidden av himlarna och jorden. I en v
 
 Utan tvekan är detta sanningen. En gång frågade en jude profeten – över honom vare Allāhs frid och välsignelser – om denna vers: ”Var finns Elden om Paradisets vidd är som himlarnas och jordens?” Profeten – över honom vare Allāhs frid och välsignelser – svarade: ”När natten kommer – var finns då dagen?” [^3]
 
-Det som frågeställaren menar när han säger att skapelsen inte innehåller något annat än himlarna och jorden stämmer inte. I denna skapelse finns himlarna, jorden, *Kursi*[^1] och *'Arsh*. När profeten – över honom vare Allāhs frid och välsignelser – hade rätat sig från bugningen i bönen brukade han säga: ”*Som fyller himlen, som fyller jorden och som fyller vad helst du avser*.” [^4]
+Det som frågeställaren menar när han säger att skapelsen inte innehåller något annat än himlarna och jorden stämmer inte. I denna skapelse finns himlarna, jorden, *Kursi*[^1] och *´Ars̲h*. När profeten – över honom vare Allāhs frid och välsignelser – hade rätat sig från bugningen i bönen brukade han säga: ”*Som fyller himlen, som fyller jorden och som fyller vad helst du avser*.” [^4]
 
-Utöver himlarna och jorden finns en värld som endast Allāh känner till. Vi känner även till vad Han den Upphöjde har lärt oss, som *'Arsh* och *Kursi*[^1]; och *'Arsh* är det högsta av alla skapade ting. Allāh den Upphöjde reste sig över *'Arsh* på ett sätt som passar Hans Majestät och Hans Storhet.
+Utöver himlarna och jorden finns en värld som endast Allāh känner till. Vi känner även till vad Han den Upphöjde har lärt oss, som *´Ars̲h* och *Kursi*[^1]; och *´Ars̲h* är det högsta av alla skapade ting. Allāh den Upphöjde reste sig över *´Ars̲h* på ett sätt som passar Hans Majestät och Hans Storhet.
 
 [^1]: Allāhs fotpall.
 
 [^2]: Koranen 3:133
-[^3]: *Ahmad* 4:75 och *al-Hakim* 1:114
+[^3]: *Aḥmad* 4:75 och *al-Ḥākim* 1:114
 [^4]: *Muslim* 476 och *at-Tirmithi* 3423

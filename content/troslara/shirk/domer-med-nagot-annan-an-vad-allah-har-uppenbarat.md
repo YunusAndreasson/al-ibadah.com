@@ -7,7 +7,7 @@ source: >-
   Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - 'Shirk [Att sätta något vid Allāhs sida]'
+  - Avgudadyrkan
 original_id: 1096
 description: >-
   Fråga: Vilket är utlåtandet om någon som dömer med något annan än vad Allāh
@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om någon som dömer med något annan än vad Allāh har uppenbarat?
 
-**Svar:** Genom Allāh den Upphöjde uppnås framgång och jag ber Honom om vägledning och att Han visar mig sanningen. Att döma enligt vad Allāh den Upphöjde har uppenbarat är en del av *tawhīd ar-rububiyyah*. Därför att detta är att tillämpa Allāhs lag vilket Hans herrskap, fullständiga herravälde och bestämmande över alla ting nödvändiggör […] Allāh den Upphöjde säger:
+**Svar:** Genom Allāh den Upphöjde uppnås framgång och jag ber Honom om vägledning och att Han visar mig sanningen. Att döma enligt vad Allāh den Upphöjde har uppenbarat är en del av *tawḥīd ar-rubūbiyyah*. Därför att detta är att tillämpa Allāhs lag vilket Hans herrskap, fullständiga herravälde och bestämmande över alla ting nödvändiggör […] Allāh den Upphöjde säger:
 
 > ”De har tagit sina rabbiner och klosterbröder till herrar och beskyddare i Guds ställe, och [detsamma har de gjort med] Kristus, Marias son, trots att de har förmanats att inte dyrka någon annan än den Ende Guden – det finns ingen gud utom Han; stor är Han i Sin härlighet, fjärran från allt vad de vill sätta vid Hans sida!” [Koranen 9:31]
 
@@ -73,9 +73,9 @@ Den som inte dömer enligt vad Allāh den Upphöjde har uppenbarat men som helle
 
 Den som inte dömer enligt vad Allāh den Upphöjde har uppenbarat men som heller inte förringar, hånar och tror att något annat är bättre än Allāhs dom, utan enbart dömer enligt detta för att göra den som döms nöjd, eftersom denne har blivit mutad eller något annat, denne är då någon som överträder gränser utan att vara icke-troende. Nivån av dennes överträdelse är enligt dennes domslut och metoder för att döma.
 
-*Shaykh ul-islām* Ibn Taymiyyah har sagt att de som tog deras präster och rabbiner till herrar jämsides med Allāh är av två olika typer:
+*s̲hayk̲h ul-islām* Ibn Taymiyyah har sagt att de som tog deras präster och rabbiner till herrar jämsides med Allāh är av två olika typer:
 
-1. De vet att de [prästerna eller rabbinerna] har ändrat Allāhs religion, de lyder dem [prästerna eller rabbinerna] och de tror att när de [prästerna eller rabbinerna] tillåter det som Allāh inte har tillåtit och när de förbjuder det som har tillåtits, att det är lydnad inför deras ledare även om de vet att detta motsäger sig sändebudens religion. Detta är då en otro som Allāh och Hans sändebud har beskrivit som *shirk*.
+1. De vet att de [prästerna eller rabbinerna] har ändrat Allāhs religion, de lyder dem [prästerna eller rabbinerna] och de tror att när de [prästerna eller rabbinerna] tillåter det som Allāh inte har tillåtit och när de förbjuder det som har tillåtits, att det är lydnad inför deras ledare även om de vet att detta motsäger sig sändebudens religion. Detta är då en otro som Allāh och Hans sändebud har beskrivit som *s̲hirk*.
 
 2. De anser att det är att förklara tillåtet vad Allāh har förklarat som förbjudet och att förklara som otillåtet vad Allāh har förklarat som tillåtet, men de lydde dem genom att handla olydigt mot Allāh precis som en muslim syndar i tron om att det är synder. Dessa döms då på samma sätt som syndare.
 

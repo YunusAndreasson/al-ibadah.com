@@ -25,7 +25,7 @@ Så länge det skadliga [blodet] finns där är det inte tillåtet med intim sam
 
 Intim samvaro är tillåtet för hennes man men det är om han är tålmodig tills de 40 dagarna är över. Detta för att blödningen inte ska återvända till henne på grund av den intima samvaron. Men om han har intim samvaro med henne innan det syndar han inte.
 
-Om hon ser blod efter 40 dagar och hon blivit ren anses det vara menstruationsblod och inte en blödning efter graviditeten. Menstruationsblodet är något kvinnor känner väl så när hon känner det, är det också det. Om det fortsätter och enbart upphör en kort stund anses hon lida av en vaginal blödning. I detta fall återvänder hon till sitt normala menstruationsmönster och väntar [utan att be, fasta eller ha intim samvaro]. Det som sedan är utöver hennes normala period, där gör hon *ghusl* och ber.
+Om hon ser blod efter 40 dagar och hon blivit ren anses det vara menstruationsblod och inte en blödning efter graviditeten. Menstruationsblodet är något kvinnor känner väl så när hon känner det, är det också det. Om det fortsätter och enbart upphör en kort stund anses hon lida av en vaginal blödning. I detta fall återvänder hon till sitt normala menstruationsmönster och väntar [utan att be, fasta eller ha intim samvaro]. Det som sedan är utöver hennes normala period, där gör hon *g̲husl* och ber.
 
 Och Allāh vet bäst.
 

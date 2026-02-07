@@ -14,7 +14,7 @@ description: >-
   jag hade intim samvaro på med min fru samt ...
 ---
 
-**Fråga:** Jag hade intim samvaro med min fru. Sedan gick jag upp för att göra *ghusl* och be gryningsbönen. Får jag fortsätta att sova på samma madrass som jag hade intim samvaro på med min fru samt att täcka mig med samma täcke?
+**Fråga:** Jag hade intim samvaro med min fru. Sedan gick jag upp för att göra *g̲husl* och be gryningsbönen. Får jag fortsätta att sova på samma madrass som jag hade intim samvaro på med min fru samt att täcka mig med samma täcke?
 
 **Svar:** Det gör inte personen ifråga eller dennes madrass oren. ‘A’ishah – må Allāh vara nöjd med henne – har sagt: ”*Jag brukade torka det från profetens – över honom vare Allāhs frid och välsignelser – kläder, sedan bad han i dem*.”
 

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 101 s. ISBN saknas'
 categories:
   - Renhet (Tahārah)
-  - Mash över sockar
+  - Strykning över strumpor
 original_id: 1442
 description: 'Fråga: Vilket är utlåtandet om att stryka över tunna sockar? Svar: Ett
  av villkoren för att det ska vara tillåtet att stryka över sockarna är att de

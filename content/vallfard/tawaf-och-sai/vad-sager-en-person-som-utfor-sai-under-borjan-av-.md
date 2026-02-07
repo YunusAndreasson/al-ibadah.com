@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 201 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - Tawāf och sa’ī
+  - Rundvandring och löpning
 original_id: 1355
 description: >-
   Fråga: Får jag i början av varje varv under sa’ī säga: ” I Guds Namn, vi
@@ -14,12 +14,12 @@ description: >-
   al-Marwah tillhör Allāhs symboler .” Är detta...
 ---
 
-**Fråga:** Får jag i början av varje varv under *sa’ī*[^1] säga: ”*I Guds Namn, vi börjar med det Allāh och Hans sändebud började med. Sannerligen as-Safa och al-Marwah tillhör Allāhs symboler*.” Är detta kanske något som är en innovation?
+**Fråga:** Får jag i början av varje varv under *sa´ī*[^1] säga: ”*I Guds Namn, vi börjar med det Allāh och Hans sändebud började med. Sannerligen as-Safa och al-Marwah tillhör Allāhs symboler*.” Är detta kanske något som är en innovation?
 
-**Svar:** Det som är föreskrivet att säga vid början av det första varvet för *sa’ī*[^1] är: ”*Sannerligen, as-Safa och al-Marwah tillhör Allāhs symboler*.” Detta gjorde profeten. Vi känner inte till något som visar att det är en rekommendation att upprepa det. Det är även föreskrivet för den som utför *sa’ī*[^1] att göra mycket åminnelse av Allāh, åkallan, glorifiering, lovprisan, deklarerande av att Han är den ende sanna guden, upphöjelse av Hans storhet och sökande av Hans förlåtelse.
+**Svar:** Det som är föreskrivet att säga vid början av det första varvet för *sa´ī*[^1] är: ”*Sannerligen, as-Safa och al-Marwah tillhör Allāhs symboler*.” Detta gjorde profeten. Vi känner inte till något som visar att det är en rekommendation att upprepa det. Det är även föreskrivet för den som utför *sa´ī*[^1] att göra mycket åminnelse av Allāh, åkallan, glorifiering, lovprisan, deklarerande av att Han är den ende sanna guden, upphöjelse av Hans storhet och sökande av Hans förlåtelse.
 
-Detsamma gäller *tawāf*. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Sannerligen, *tawāf* runt Huset, och sa’ī[^1] mellan as-Safa och al-Marwah, och stenandet av pelarna är endast för att etablera åminnelse av Allāh*.” [^2]. Detta har *Ahmad* och *Abū Dawūd* återgivit med en god kedja av återberättare.
+Detsamma gäller *ṭawāf*. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Sannerligen, *tawāf* runt Huset, och sa’ī[^1] mellan as-Safa och al-Marwah, och stenandet av pelarna är endast för att etablera åminnelse av Allāh*.” [^2]. Detta har *Aḥmad* och *Abū Dāwūd* återgivit med en god kedja av återberättare.
 
 [^1]: Vandringen mellan as-Safa och al-Marwa.
 
-[^2]: *Abū Dawūd* 1888 och *Ahmad* 6/64, 75
+[^2]: *Abū Dāwūd* 1888 och *Aḥmad* 6/64, 75

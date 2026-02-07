@@ -19,8 +19,8 @@ description: >-
 
 Att skjuta upp bönen till efter soluppgången är enligt ett antal lärde en handling med otro om det görs avsiktligen. Detta grundas på profetens – över honom vare Allāhs frid och välsignelser – ord: "*Mellan en man och att inte tro och *shirk* är att han lämnar bönen*" [^1] och "*Förbundet mellan oss och dem är bönen och den som lämnar den har inte trott*." [^2]
 
-Det finns andra *ahādīth* från följeslagarna om detta. De bevisar att den som avsiktligen och utan någon giltig anledning skjuter upp bönen till efter dess utsedda tid är en icke-troende.
+Det finns andra *aḥādīt̲h* från följeslagarna om detta. De bevisar att den som avsiktligen och utan någon giltig anledning skjuter upp bönen till efter dess utsedda tid är en icke-troende.
 
 
 [^1]: *Muslim* 81
-[^2]: *at-Tirmithi* 2621, *an-Nasā’i* 464 och *Ahmad* 5:346, 355
+[^2]: *at-Tirmithi* 2621, *an-Nasā’ī* 464 och *Aḥmad* 5:346, 355

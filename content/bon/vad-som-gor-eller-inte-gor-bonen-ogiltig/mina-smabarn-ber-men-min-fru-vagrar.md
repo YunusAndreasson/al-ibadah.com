@@ -15,7 +15,7 @@ description: >-
   tvagat sig. Är detta tillåtet? Vad bör jag ...
 ---
 
-**Fråga:** *Mina* småbarn [den äldste har inte fyllt tre ännu] står bakom mig när jag ber hemma. Jag gör så för att lära dem bönen. Detta sker utan att de har tvagat sig. Är detta tillåtet? Vad bör jag göra med min fru som ibland struntar i att be?
+**Fråga:** *Minā* småbarn [den äldste har inte fyllt tre ännu] står bakom mig när jag ber hemma. Jag gör så för att lära dem bönen. Detta sker utan att de har tvagat sig. Är detta tillåtet? Vad bör jag göra med min fru som ibland struntar i att be?
 
 **Svar:** Svaret på den första frågan är att det är tillåtet att lära sina barn att be, både genom ord och genom handling. När en talarstol gjordes till profeten – över honom vare Allāhs frid och välsignelser – så steg han därför upp på den och började be när han ville nedfalla så steg han ned från den och nedföll på marken. Efter detta sade han: ”*Detta gjorde jag enbart för att ni ska följa mitt exempel och så att ni lär er min bön*.” [^1]
 
@@ -28,4 +28,4 @@ Svaret på den andra frågan, där frun inte ber, är att det är upp till manne
 En muslim får inte gifta sig med någon som inte tror och som har lämnat islam. Om detta utträde äger rum efter äktenskapet, då upphävs det. Om hon sedan återvänder till islam efter hennes vänteperiod har gått ut, då är hon fortfarande hans fru, men om hon inte gör det, då måste hon skilja sig från honom.
 
 
-[^1]: *Ahmad* 5:399
+[^1]: *Aḥmad* 5:399

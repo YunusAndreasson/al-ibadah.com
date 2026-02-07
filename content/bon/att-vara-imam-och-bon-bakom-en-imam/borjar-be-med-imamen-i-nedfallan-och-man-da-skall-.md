@@ -19,4 +19,4 @@ description: >-
 **Svar:** Det är bäst att inte vänta och [i stället] börja be med imamen i vilken position man än finner honom. Detta enligt den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*Det du får, be det*." [^1]
 
 
-[^1]: *al-Bukhārī* 636
+[^1]: *al-Buk̲hārī* 636

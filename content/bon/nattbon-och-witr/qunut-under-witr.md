@@ -6,7 +6,7 @@ source: >-
   Libanon: Makbtaba Dar us-Salam. 507 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
-  - Nattbön och witr
+  - Nattbön
 original_id: 975
 description: >-
   Fråga: Vi ber er att beskriva profetens – över honom vare Allāhs frid och
@@ -22,4 +22,4 @@ Om han säger något passande är det inte syndigt men det är inte lämpligt at
 
 
 [^1]: *at-Tirmithi* 464
-[^2]: *al-Bukhārī* 705
+[^2]: *al-Buk̲hārī* 705

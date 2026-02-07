@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 362 s. ISBN saknas'
 categories:
   - Troslära (´Aqīdah)
-  - Sekter, rörelser och den rätta vägen
+  - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 144
 description: 'Fråga: Vilken är er åsikt om förespråkandet för nationalism, som säger

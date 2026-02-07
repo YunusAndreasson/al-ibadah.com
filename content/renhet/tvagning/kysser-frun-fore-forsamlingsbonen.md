@@ -14,7 +14,7 @@ description: >-
 
 **Fråga:** Min man kyssar mig alltid innan han lämnar huset, även om han lämnar det för att be i moskén. Ibland känner jag att han kysser mig på ett lustfyllt sätt. Vad gäller för tvagningen i detta fall?
 
-**Svar:** 'Ā’ishāh har berättat att profeten – över honom vare Allāhs frid och välsignelser – kysste en av sina fruar och gick för att be utan att tvaga sig. Denna *hadīth* klargör frågan och att röra eller kyssa en kvinna: gör detta tvagningen ogiltig? De lärde har olika åsikter här. Några anser att den gör tvagningen ogiltig i samtliga fall om man vidrör en kvinna. Några säger att om han rör kvinnan på ett lustfyllt sätt så bryts tvagningen – annars inte. Somliga säger att det aldrig bryter tvagningen. Den sista åsikten är den starkaste.
+**Svar:** 'Ā’ishāh har berättat att profeten – över honom vare Allāhs frid och välsignelser – kysste en av sina fruar och gick för att be utan att tvaga sig. Denna *ḥadīt̲h* klargör frågan och att röra eller kyssa en kvinna: gör detta tvagningen ogiltig? De lärde har olika åsikter här. Några anser att den gör tvagningen ogiltig i samtliga fall om man vidrör en kvinna. Några säger att om han rör kvinnan på ett lustfyllt sätt så bryts tvagningen – annars inte. Somliga säger att det aldrig bryter tvagningen. Den sista åsikten är den starkaste.
 
 En man kan alltså kyssa, röra och omfamna sin fru utan att han eller hennes tvagning bryts. Detta så länge ingen av dem får en orgasm eller vätska rinner ur dem.
 

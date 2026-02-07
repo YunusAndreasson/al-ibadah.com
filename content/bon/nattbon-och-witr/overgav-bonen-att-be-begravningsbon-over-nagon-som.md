@@ -6,7 +6,7 @@ source: >-
   Libanon: Makbtaba Dar us-Salam. 579 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
-  - Nattbön och witr
+  - Nattbön
 original_id: 1011
 description: >-
   Fråga: Vilket är utlåtandet om bön över den avlidne om denne övergav bönen

@@ -12,7 +12,7 @@ description: >-
   använda dem, under förutsättning att ...
 ---
 
-**Fråga:** Är det tillåtet att använda parfymer som till exempel oljebaserade odörer samt cologner och essenser under *ramadan*?
+**Fråga:** Är det tillåtet att använda parfymer som till exempel oljebaserade odörer samt cologner och essenser under *ramaḍān*?
 
 **Svar:** Ja, det är tillåtet att använda dem, under förutsättning att essensen inte inandas.
 

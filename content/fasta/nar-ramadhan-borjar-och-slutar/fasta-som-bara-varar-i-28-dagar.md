@@ -14,8 +14,8 @@ description: >-
   och välsignelser – har man bekräftat a...
 ---
 
-**Fråga:** Är det tillåtet att enbart fasta 28 dagar under *ramadan*?
+**Fråga:** Är det tillåtet att enbart fasta 28 dagar under *ramaḍān*?
 
-**Svar:** I en utförlig autentisk *hadīth* från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har man bekräftat att månaden inte är kortare än 29 dagar. När det har bekräftats med islamiskt giltiga bevis att *shawwal* har kommit när muslimerna enbart har fastat 28 dagar, då betyder detta att de inte fastade den första dagen under *ramadan*. Därför måste de ta igen då det inte är möjligt att månaden är 28 dagar. Månaden är enbart 29 eller 30 dagar.
+**Svar:** I en utförlig autentisk *ḥadīt̲h* från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har man bekräftat att månaden inte är kortare än 29 dagar. När det har bekräftats med islamiskt giltiga bevis att *s̲hawwāl* har kommit när muslimerna enbart har fastat 28 dagar, då betyder detta att de inte fastade den första dagen under *ramaḍān*. Därför måste de ta igen då det inte är möjligt att månaden är 28 dagar. Månaden är enbart 29 eller 30 dagar.
 
 

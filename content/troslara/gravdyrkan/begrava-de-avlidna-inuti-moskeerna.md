@@ -23,10 +23,10 @@ Det är förbjudet eftersom det är en väg som leder till att man sätter medhj
 
 Inträffar detta kommer folket att tro att de som vilar i dessa gravar kan vara dem till nytta eller att de kan skada dem, och att de besitter speciella kvaliteter. Detta leder i själva verket till att folk försöker komma dem nära genom att rikta dyrkan mot dem i stället för Allāh den Upphöjde, den Härlige.
 
-Därför måste muslimer undvika detta farliga fenomen, hålla moskéerna fria från gravar och bygga dem med utgångspunkt i *tawhīd* och en korrekt *'aqīdah*. Allāh den Upphöjde säger: ”*All dyrkan tillkommer Gud; anropa därför ingen vid sidan av Honom!*” [^2] Moskéerna måste vara för Allāh den Härlige, den Upphöjde och hållas fria från uttryck för *shirk*. Dyrkan av Allāh – utan medhjälpare – måste utföras i dem. Detta är en skyldighet för muslimer.
+Därför måste muslimer undvika detta farliga fenomen, hålla moskéerna fria från gravar och bygga dem med utgångspunkt i *tawḥīd* och en korrekt *´aqīdah*. Allāh den Upphöjde säger: ”*All dyrkan tillkommer Gud; anropa därför ingen vid sidan av Honom!*” [^2] Moskéerna måste vara för Allāh den Härlige, den Upphöjde och hållas fria från uttryck för *s̲hirk*. Dyrkan av Allāh – utan medhjälpare – måste utföras i dem. Detta är en skyldighet för muslimer.
 
 Och Allāh är Beviljaren av framgång.
 
 
-[^1]: *al-Bukhārī* 408 och *Muslim* 376
+[^1]: *al-Buk̲hārī* 408 och *Muslim* 376
 [^2]: Koranen 72:18

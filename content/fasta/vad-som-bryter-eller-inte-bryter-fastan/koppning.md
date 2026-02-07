@@ -14,9 +14,9 @@ description: >-
   Är detta en autentisk hadīth? Om den ...
 ---
 
-**Fråga:** Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som koppar och den som blir koppad bryter båda fastan*.” [^2] Är detta en autentisk *hadīth*? Om den är autentisk, hur förklaras den då?
+**Fråga:** Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som koppar och den som blir koppad bryter båda fastan*.” [^2] Är detta en autentisk *ḥadīt̲h*? Om den är autentisk, hur förklaras den då?
 
-**Svar:** Denna *hadīth* är autentisk. Den har graderats som autentisk av bland andra imam *Ahmad*. Det betyder att om den fastande koppar någon annan så bryter denne fastan och om någon annan koppar den fastande så bryter han fastan. Detta beror på att koppning[^1] omfattar både den som koppar och den som koppas.
+**Svar:** Denna *ḥadīt̲h* är autentisk. Den har graderats som autentisk av bland andra imam *Aḥmad*. Det betyder att om den fastande koppar någon annan så bryter denne fastan och om någon annan koppar den fastande så bryter han fastan. Detta beror på att koppning[^1] omfattar både den som koppar och den som koppas.
 
 Den som koppas är den som blodet dras från och den som koppar är den som drar ut blodet. Om fastan därmed är en obligatorisk fasta får den som fastar inte låta sig koppas då den medför att dennes obligatoriska fasta bryts.
 
@@ -30,4 +30,4 @@ Och Allāh är Givaren av framgång.
 
 [^1]: Hijamah
 
-[^2]: *Abū Dawūd* 2367
+[^2]: *Abū Dāwūd* 2367

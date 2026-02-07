@@ -37,5 +37,5 @@ Därför säger vi att i dagsläget är det lätt att resa, vilket frågeställa
 
 
 [^1]: Koranen 2:185
-[^2]: *al-Bukhārī* 1945 och *Muslim* 1122
-[^3]: *al-Bukhārī* 1946 och *Muslim* 1115
+[^2]: *al-Buk̲hārī* 1945 och *Muslim* 1122
+[^3]: *al-Buk̲hārī* 1946 och *Muslim* 1115

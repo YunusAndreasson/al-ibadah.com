@@ -23,5 +23,5 @@ Men om det är mycket svårt så måste fastan brytas. När folket klagade infö
 För den som inte finner någon svårighet i fastan är det bättre att fasta. Detta för att följa sändebudets exempel då han brukade fasta. Abu Darda' sade: "*Vi reste tillsammans med Allāhs sändebud under en resa i *ramadan*. Det var extremt varmt. Ingen av oss fastade utom Allāhs sändebud och Abdullah bin Rawahah*." [^2]
 
 
-[^1]: *al-Bukhārī* 1946 och *Muslim* 1115
-[^2]: *al-Bukhārī* 1945 och *Muslim* 1122
+[^1]: *al-Buk̲hārī* 1946 och *Muslim* 1115
+[^2]: *al-Buk̲hārī* 1945 och *Muslim* 1122

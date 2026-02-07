@@ -14,11 +14,11 @@ description: >-
   ihrām [som sker när man har kastat s...
 ---
 
-**Fråga:** Måste man raka huvudet eller klippa håret under det stora avlägsnandet av *ihrām*, när man har klippt eller rakat håret för det mindre avlägsnandet av *ihrām* [som sker när man har kastat sten på pelarna]?
+**Fråga:** Måste man raka huvudet eller klippa håret under det stora avlägsnandet av *iḥrām*, när man har klippt eller rakat håret för det mindre avlägsnandet av *iḥrām* [som sker när man har kastat sten på pelarna]?
 
-**Svar:** Det är inte obligatoriskt och ej heller är det rekommenderat att raka huvudet eller klippa håret efter det stora avlägsnandet av *ihrām*. Håret har ju rakats eller klippts vid det mindre utträdet ur *ihrām* [som sker när man har kastat stenarna på pelarna]. Anledningen är att det är en vallfärdsrit och därför är det en dyrkan, och dyrkan grundas på strikta bestämmelser från texterna.
+**Svar:** Det är inte obligatoriskt och ej heller är det rekommenderat att raka huvudet eller klippa håret efter det stora avlägsnandet av *iḥrām*. Håret har ju rakats eller klippts vid det mindre utträdet ur *iḥrām* [som sker när man har kastat stenarna på pelarna]. Anledningen är att det är en vallfärdsrit och därför är det en dyrkan, och dyrkan grundas på strikta bestämmelser från texterna.
 
-Det har inte bekräftats att profeten – över honom vare Allāhs frid och välsignelser – rakade sitt huvud eller klippte sitt hår efter det stora utträdet ur *ihrām*. I stället gjorde han endast det vid det mindre utträdet ur *ihrām*. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Ta era vallfärdsriter från mig*." [^1]
+Det har inte bekräftats att profeten – över honom vare Allāhs frid och välsignelser – rakade sitt huvud eller klippte sitt hår efter det stora utträdet ur *iḥrām*. I stället gjorde han endast det vid det mindre utträdet ur *iḥrām*. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Ta era vallfärdsriter från mig*." [^1]
 
 
-[^1]: *Muslim* 1297 och *al-Bayhaqi* 5/125
+[^1]: *Muslim* 1297 och *al-Bayhaqī* 5/125

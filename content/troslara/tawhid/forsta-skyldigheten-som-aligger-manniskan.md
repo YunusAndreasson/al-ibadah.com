@@ -6,7 +6,7 @@ source: >-
   budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - 'Tawhīd [Monoteism]'
+  - Monoteism
 original_id: 914
 description: >-
   Fråga: Vilken är den första plikten som åligger skapelsen? Svar: Den första
@@ -18,10 +18,10 @@ description: >-
 
 **Svar:** Den första plikten som åligger skapelsen är det första som de har kallats till. Detta har klargjorts av profeten – över honom vare Allāhs frid och välsignelser – i sina ord till Mu'ādh ibn Jabal när han sände honom till Jemen:
 
-> ”Sannerligen når du ett samhälle av 'bokens folk'. Det första du då ska kalla dem till är vittnesmålet *Lā ilāha illAllāh* [inget har rätt att dyrkas utom Allāh] och att Muḥammad är Hans sändebud…” [*al-Bukhārī* 478]
+> ”Sannerligen når du ett samhälle av 'bokens folk'. Det första du då ska kalla dem till är vittnesmålet *Lā ilāha illAllāh* [inget har rätt att dyrkas utom Allāh] och att Muḥammad är Hans sändebud…” [*al-Buk̲hārī* 478]
 
 Detta är då den första skyldigheten för tjänaren, att de vittnar om Allāhs den Allsmäktiges enhet och att Muḥammad är Hans sändebud.
 
-Det är genom Allāhs enhet och vittnesmålet om att Muḥammad är Hans sändebud som uppriktighet och efterföljande av sändebudet, som är ett förkrav för att dyrkan ska accepteras, kommer att förverkligas. Detta är då den första skyldigheten för tjänarna i att de måste särskilja Allāh som den ende sanne guden att dyrka och att vittna om att Muḥammad är Hans sändebud. Därmed omfattar vittnesmålet – *Lā ilāha illAllāh* – hela *tawhīd*.
+Det är genom Allāhs enhet och vittnesmålet om att Muḥammad är Hans sändebud som uppriktighet och efterföljande av sändebudet, som är ett förkrav för att dyrkan ska accepteras, kommer att förverkligas. Detta är då den första skyldigheten för tjänarna i att de måste särskilja Allāh som den ende sanne guden att dyrka och att vittna om att Muḥammad är Hans sändebud. Därmed omfattar vittnesmålet – *Lā ilāha illAllāh* – hela *tawḥīd*.
 
 

@@ -16,7 +16,7 @@ description: 'Fråga: Krävs det allmosa för fordon som används för att köra
 
 **Svar:** Det krävs ingen allmosa för fordon och kameler som ägs för att transportera korn, förnödenheter och liknande från ett land till ett annat. Detta beror på att de inte ägs i försäljningssyfte utan enbart för att transportera.
 
-Men om fordonen [eller om det är en kamel, åsna, ko eller något annat djur som är tillåtet att sälja] ägs i försäljningssyfte, då måste allmosan betalas för dem. Detta beror på vad bland andra *Abū Dawūd* har nedtecknat från Samurah bin Jundub: "*Allāhs sändebud kommenderade oss att ge till välgörenhet för allt som vi ägde som var till försäljning*."
+Men om fordonen [eller om det är en kamel, åsna, ko eller något annat djur som är tillåtet att sälja] ägs i försäljningssyfte, då måste allmosan betalas för dem. Detta beror på vad bland andra *Abū Dāwūd* har nedtecknat från Samurah bin Jundub: "*Allāhs sändebud kommenderade oss att ge till välgörenhet för allt som vi ägde som var till försäljning*."
 
 Detta är den åsikt som majoriteten av de lärda har och imam Abū Bakr bin al-Munthir har nämnt den.
 

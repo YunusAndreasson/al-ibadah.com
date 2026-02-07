@@ -16,7 +16,7 @@ description: 'Fråga: På arbetsplatsen [en bilverkstad] har jag en kollega som 
 
 **Svar:** Kollegan som du har nämnt måste be med församlingen. Det är inte tillåtet att skjuta upp bönen tills han kommer hem. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord:
 
-> ”Den som har hört böneutropet och inte besvarat det, där finns ingen bön för honom, utom om han har en ursäkt.” [*Ibn Mājah* 793, *ad-Daraqutni* 1:420 och *al-Hakim* 1:245]
+> ”Den som har hört böneutropet och inte besvarat det, där finns ingen bön för honom, utom om han har en ursäkt.” [*Ibn Mājah* 793, *ad-Dāraquṭnī* 1:420 och *al-Ḥākim* 1:245]
 
 Sjukdom eller liknande skulle vara ursäkter. Smutsiga kläder är inte en ursäkt. Men om det finns lite orenheter på dem, då måste han rengöra dem eller byta till andra kläder. Vi ber Allāh att Han vägleder oss alla.
 

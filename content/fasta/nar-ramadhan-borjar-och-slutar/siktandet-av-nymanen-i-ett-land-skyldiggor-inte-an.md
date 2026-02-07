@@ -15,25 +15,25 @@ description: >-
   lärde har olika åsikter om nymånen. D...
 ---
 
-**Fråga:** Det varierar mellan olika länder när nymånen visar sig under *ramadan* och *shawwal*. Fastar muslimer då när den siktas i ett av dessa länder?
+**Fråga:** Det varierar mellan olika länder när nymånen visar sig under *ramaḍān* och *s̲hawwāl*. Fastar muslimer då när den siktas i ett av dessa länder?
 
-**Svar:** De lärde har olika åsikter om nymånen. Det finns de som anser att om siktandet av nymånen under *ramadan* bekräftas på en plats och på ett enligt islam godkänt sätt, då måste alla muslimer fasta. De säger även att om man har siktat nymånen under *shawwal* [på någon plats], då är alla muslimer skyldiga att bryta fastan.
+**Svar:** De lärde har olika åsikter om nymånen. Det finns de som anser att om siktandet av nymånen under *ramaḍān* bekräftas på en plats och på ett enligt islam godkänt sätt, då måste alla muslimer fasta. De säger även att om man har siktat nymånen under *s̲hawwāl* [på någon plats], då är alla muslimer skyldiga att bryta fastan.
 
-Detta är den välkända åsikten från imam Ahmads rättsskola. Med detta som grund: Om nymånen siktas i Saudiarabien, exempelvis, måste alla muslimer i alla länder utgå från detta, när de börjar fastan under *ramadan* och när de bryter den i *shawwal*.
+Detta är den välkända åsikten från imam Ahmads rättsskola. Med detta som grund: Om nymånen siktas i Saudiarabien, exempelvis, måste alla muslimer i alla länder utgå från detta, när de börjar fastan under *ramaḍān* och när de bryter den i *s̲hawwāl*.
 
 Beviset som de använder för denna åsikt är den allmänna innebörden av Allāhs den Upphöjdes ord: "*Den av er som ser månens nytändning ska fasta månaden ut*." [^2] De använder även den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*När ni ser den [nymånen under ramadan], fasta då och när ni ser den [nymånen under shawwal], bryt då er fasta*." [^3]
 
-Bland de lärde finns även dem som säger att det inte är obligatoriskt att börja fasta med *ramadans*[^1] nymåne och att det inte är obligatoriskt att bryta fastan i *shawwal* utom för den som ser nymånen eller som befinner sig i samma zon [i samma område som den siktas] som den som såg den. Om zonerna då är olika är det obligatoriskt att varje land dömer enligt sin egen zon, och länderna som finns i samma zon bör följa det. Om ett land inte ligger i samma zon bör det inte följa ett annat lands siktande.
+Bland de lärde finns även dem som säger att det inte är obligatoriskt att börja fasta med *ramadans*[^1] nymåne och att det inte är obligatoriskt att bryta fastan i *s̲hawwāl* utom för den som ser nymånen eller som befinner sig i samma zon [i samma område som den siktas] som den som såg den. Om zonerna då är olika är det obligatoriskt att varje land dömer enligt sin egen zon, och länderna som finns i samma zon bör följa det. Om ett land inte ligger i samma zon bör det inte följa ett annat lands siktande.
 
-Detta uttalande är det som *shaykh ul-islām* ibn Taymiyyah – må Allāh vara honom nådig – har valt. Hans bevis för detta finns i Allāhs den Upphöjdes uttalande: "Den *av er som ser månens nytändning ska fasta månaden ut*." [^4] Han har även grundat detta på profetens – över honom vare Allāhs frid och välsignelser – uttalande: "*När ni ser den [ramadans nymåne], fasta då och när ni ser den [shawwals nymåne], bryt då er fasta*." [^5] Med andra ord så använder han samma bevis som de som anser att det finns en allmän och allomfattande skyldighet om utlåtandet för nymånen.
+Detta uttalande är det som *s̲hayk̲h ul-islām* ibn Taymiyyah – må Allāh vara honom nådig – har valt. Hans bevis för detta finns i Allāhs den Upphöjdes uttalande: "Den *av er som ser månens nytändning ska fasta månaden ut*." [^4] Han har även grundat detta på profetens – över honom vare Allāhs frid och välsignelser – uttalande: "*När ni ser den [ramadans nymåne], fasta då och när ni ser den [shawwals nymåne], bryt då er fasta*." [^5] Med andra ord så använder han samma bevis som de som anser att det finns en allmän och allomfattande skyldighet om utlåtandet för nymånen.
 
-Men sättet som *shaykh ul-islām* ibn Taymiyyah – må Allāh vara honom nådig – bevisar med denna vers och *hadīth* är annorlunda [då han hade åsikten] att utlåtandet gäller den som ser månen. Detta påbjuder att den som inte ser den inte är skyldig att följa detta. Om tidszonerna därför skiljer sig, då bekräftas inte nymånen genom ett generaliserande.
+Men sättet som *s̲hayk̲h ul-islām* ibn Taymiyyah – må Allāh vara honom nådig – bevisar med denna vers och *ḥadīt̲h* är annorlunda [då han hade åsikten] att utlåtandet gäller den som ser månen. Detta påbjuder att den som inte ser den inte är skyldig att följa detta. Om tidszonerna därför skiljer sig, då bekräftas inte nymånen genom ett generaliserande.
 
 Det råder inga tvivel om att detta är en stark åsikt och detta stöds genom undersökningar och analogi.
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 
 [^2]: Koranen 2:185
-[^3]: *al-Bukhārī* 1906
+[^3]: *al-Buk̲hārī* 1906
 [^4]: Koranen 2:185
-[^5]: *al-Bukhārī* 1900 och *Muslim* 1080
+[^5]: *al-Buk̲hārī* 1900 och *Muslim* 1080

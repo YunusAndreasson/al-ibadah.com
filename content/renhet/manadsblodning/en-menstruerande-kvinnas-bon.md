@@ -16,7 +16,7 @@ Om månadsblödningen kom efter att tiden för en bön inletts, om du exempelvis
 
 > ”Och minns Gud efter bönens slut – när ni står upp, när ni sitter och när ni lägger er till vila. Och när ni åter är i trygghet, förrätta då bönen [på föreskrivet sätt]. Bönen är alla troende plikt, knuten till bestämda tider.” [Koranen 4:103]
 
-Du ska dock inte ta igen bönerna som du missade under din månadsblödning. Detta grundas på en långt *hadīth* där profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Är det inte så att när ni har mens, så ber eller fastar ni inte?*”
+Du ska dock inte ta igen bönerna som du missade under din månadsblödning. Detta grundas på en långt *ḥadīt̲h* där profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Är det inte så att när ni har mens, så ber eller fastar ni inte?*”
 
 Det råder konsensus bland de lärde om att missade böner under månadsblödningen inte ska tas igen. Men om hon blir ren [blödningen slutar] och hon har tillräckligt med tid för att be en bönecykel eller mer av bönen, då måste hon be den bönen som var aktuell när hon blev ren. Detta grundas på profetens – över honom vare Allāhs frid och välsignelser – uttalande: "*Den som lyckas be en bönecykel av eftermiddagsbönen före solnedgången har lyckats med eftermiddagsbönen*[^1].”
 

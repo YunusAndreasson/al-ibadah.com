@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 129 s. ISBN saknas
 categories:
   - Bön (Salāh)
-  - 'Iqāmah [Det andra böneutropet]'
+  - Det andra böneutropet
 original_id: 177
 description: >-
   Fråga: Får en kvinna göra iqāmah för bönen? Får hon be utan den? Svar:

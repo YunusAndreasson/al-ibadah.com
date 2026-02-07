@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 325 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
-  - 'Sekter, rörelser och den rätta vägen'
+  - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 133
 description: >-

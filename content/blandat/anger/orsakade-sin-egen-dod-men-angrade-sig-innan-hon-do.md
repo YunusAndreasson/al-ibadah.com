@@ -21,7 +21,7 @@ En dag, efter ett bråk ägt rum mellan henne och hennes styvfader, återvände 
 
 Innan hon dog, i vetskap om att hennes tid på jorden var kort, ångrade hon sig hela tiden och bad Allāh den Allsmäktige att förlåta henne för vad hon gjort. Hon bad även oss att be Allāh den Allsmäktige att förlåta henne. Vilken är hennes position nu? Får jag ge i välgörenhet och vallförda för hennes räkning?
 
-**Svar:** Så länge din syster ångrade sig innan hon avled hoppas vi att hon förlåts. Ånger nollställer allt som hänt tidigare och en person som ångrar sig för sina synder är som en person som inte har några synder. Detta grundas på en *hadīth* från profeten. Om du ger i välgörenhet för hennes räkning eller om du ber för henne kommer hon dra nytta av det och du kommer att bli belönad.
+**Svar:** Så länge din syster ångrade sig innan hon avled hoppas vi att hon förlåts. Ånger nollställer allt som hänt tidigare och en person som ångrar sig för sina synder är som en person som inte har några synder. Detta grundas på en *ḥadīt̲h* från profeten. Om du ger i välgörenhet för hennes räkning eller om du ber för henne kommer hon dra nytta av det och du kommer att bli belönad.
 
 Du bör även uppfylla alla dina plikter då Allāh den Allsmäktige prisar dem som uppfyller dem.
 
@@ -29,6 +29,6 @@ Du bör även uppfylla alla dina plikter då Allāh den Allsmäktige prisar dem 
 
 Profeten har sagt:
 
-> ”Den som svär att lyda Allāh bör lyda Honom. Den som svär att inte lyda Allāh bör inte vara olydig mot Honom.” [*al-Bukhārī* 6700]
+> ”Den som svär att lyda Allāh bör lyda Honom. Den som svär att inte lyda Allāh bör inte vara olydig mot Honom.” [*al-Buk̲hārī* 6700]
 
 

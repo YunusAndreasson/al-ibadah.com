@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Om jag kommer till bönen i församlingen i moskén medan de ber och de bugar, bör jag då förena mig med dem genom att göra den första *takbīr* och sedan *takbīr* för bugningen? Och bör jag läsa den första åkallan i början?
 
-**Svar:** När en muslim går in i moskén och imamen bugar, då är det föreskrivet att förena sig med honom genom att säga två *takbīr* [den första när han står och den andra när han böjer sig ned för att buga]. Det är inte tillåtet att samtidigt läsa den första åkallan eller *al-Fātihah*. Detta eftersom tiden är så kort.
+**Svar:** När en muslim går in i moskén och imamen bugar, då är det föreskrivet att förena sig med honom genom att säga två *takbīr* [den första när han står och den andra när han böjer sig ned för att buga]. Det är inte tillåtet att samtidigt läsa den första åkallan eller *al-Fātiḥah*. Detta eftersom tiden är så kort.
 
 Enligt vad al-Bukhārī har rapporterat från Abū Bakrah ath-Thaqafi tillräknas denna bönecykel honom. Han rapporterar att han en dag gick in i moskén och såg att profeten – över honom vare Allāhs frid och välsignelser – bugade. Han bugade då bakom raden, för att sedan gå in i den. Profeten – över honom vare Allāhs frid och välsignelser – sade till honom: ”*Må Allāh öka dig i strävan, men upprepa det inte*.” [I en fotnot i *Fatāwa Islamiyah* påpekas att detta är en svag åsikt.]
 

@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 173 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - Tawāf och sa’ī
+  - Rundvandring och löpning
 original_id: 800
 description: >-
   Fråga: Vilket är utlåtandet om att göra tawāf bakom platsen där Abraham stod
@@ -14,8 +14,8 @@ description: >-
   gjorde tawāf i det områden med m...
 ---
 
-**Fråga:** Vilket är utlåtandet om att göra *tawāf* bakom platsen där Abraham stod eller bakom *zamzam*-brunnen?
+**Fråga:** Vilket är utlåtandet om att göra *ṭawāf* bakom platsen där Abraham stod eller bakom *zamzam*-brunnen?
 
-**Svar:** Det finns inget skadligt i det. Även denne gjorde *tawāf* i det området med markiserna i moskén är det tillräckligt. Men desto närmare man befinner sig Ka’bah, desto bättre. Om det finns utrymme där och det inte är trängsel, då bör han komma nära Ka’bah. Det är bättre. Om det är svårt för en, då bör man göra *tawāf* på avstånd. Det är inget problem.
+**Svar:** Det finns inget skadligt i det. Även denne gjorde *ṭawāf* i det området med markiserna i moskén är det tillräckligt. Men desto närmare man befinner sig Ka’bah, desto bättre. Om det finns utrymme där och det inte är trängsel, då bör han komma nära Ka’bah. Det är bättre. Om det är svårt för en, då bör man göra *ṭawāf* på avstånd. Det är inget problem.
 
 

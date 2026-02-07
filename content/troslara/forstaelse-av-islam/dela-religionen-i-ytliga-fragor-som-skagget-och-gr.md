@@ -23,7 +23,7 @@ Gör någon detta för att komma närmare Allāh den Allsmäktige och i lydnad a
 
 De som propagerar för detta måste noga tänka sig för så att de förstår vad som är sant och vad som är den korrekta åsikten. När de har kommit fram till den bör de följa den och överge uttalanden som dessa. Det är sant att det finns frågor av stor vikt i den islamiska religionen, som de fem pelarna, och detta är något som profeten – över honom vare Allāhs frid och välsignelser – har klargjort när han sade:
 
-> ”Islam är byggt på fem [pelare]: Att vittna om att ingen har rätt att dyrkas utom Allāh och att Muḥammad är Allāhs sändebud, att be, att betala allmosa, att fasta under *ramadan* och att vallfärda till det heliga Huset [i Mecka].” [*al-Bukhārī* 8 och *Muslim* 16]
+> ”Islam är byggt på fem [pelare]: Att vittna om att ingen har rätt att dyrkas utom Allāh och att Muḥammad är Allāhs sändebud, att be, att betala allmosa, att fasta under *ramaḍān* och att vallfärda till det heliga Huset [i Mecka].” [*al-Buk̲hārī* 8 och *Muslim* 16]
 
 Detta finns sådant som är av mindre vikt än detta men det finns inga ytliga frågor, som man inte får någon nytta av eller som man kan lägga åt sidan och avvisa.
 

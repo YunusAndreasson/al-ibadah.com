@@ -7,7 +7,7 @@ source: >-
   (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - 'Shirk [Att sätta något vid Allāhs sida]'
+  - Avgudadyrkan
 original_id: 146
 description: >-
   Fråga: Kommunism är en ideologi som förnekar Skaparen den Allsmäktige och den
@@ -41,6 +41,6 @@ Hur är det då inte med himlarna, jorden, planeterna och stjärnorna som rör s
 
 Härmed råder det inget tvivel om att den som förnekar Skaparen har en mental defekt, är utan religion och är icke-troende. Ingen bör tveka över att detta är otro.
 
-Detta utlåtande gäller även de som blint följer denna tro och som har levt i islam, därför att islam avvisar med bestämdhet detta. Falskheten i detta tankesätt och i denna ideologi bör vara uppenbar för varje muslim och det finns ingen ursäkt för dem, då det har funnits dem som lärt dem. Om de återvände till sin *fitrah*, då skulle de finna att kommunismen saknar grund.
+Detta utlåtande gäller även de som blint följer denna tro och som har levt i islam, därför att islam avvisar med bestämdhet detta. Falskheten i detta tankesätt och i denna ideologi bör vara uppenbar för varje muslim och det finns ingen ursäkt för dem, då det har funnits dem som lärt dem. Om de återvände till sin *fiṭrah*, då skulle de finna att kommunismen saknar grund.
 
 

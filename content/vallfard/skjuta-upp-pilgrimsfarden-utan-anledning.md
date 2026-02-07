@@ -25,5 +25,5 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt: “*I
 Och Allāh är källan till all styrka.
 
 
-[^1]: *al-Bukhārī* 8 och *Muslim* 16
-[^2]: *Muslim* 8 i en *hadīth*[^2
+[^1]: *al-Buk̲hārī* 8 och *Muslim* 16
+[^2]: *Muslim* 8 i en *ḥadīt̲h*[^2

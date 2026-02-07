@@ -16,7 +16,7 @@ description: >-
 
 **Svar:** All lovprisan tillhör Allāh. Hon får bära parfym om hon går till en kvinnosamling och hon inte kommer att passera förbi några män på vägen. Men att gå ut parfymerad till marknadsplatser där det finns män är inte tillåtet.
 
-Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "En kvinna som har använt parfym ska inte närvara vid nattbönen med oss." Det finns även andra *ahādīth* i detta ämne. Om hon går ut parfymerad till platser där män går eller platser där män samlas, som i moskén, orsakar det frestelse för dem.
+Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "En kvinna som har använt parfym ska inte närvara vid nattbönen med oss." Det finns även andra *aḥādīt̲h* i detta ämne. Om hon går ut parfymerad till platser där män går eller platser där män samlas, som i moskén, orsakar det frestelse för dem.
 
 Hon måste även täcka sig och undvika att visa sig på ett oanständigt sätt. Allāh säger: "Och stanna i ert hem. Men [om ni måste lämna det] försök inte dra uppmärksamhet till era yttre företräden på det sätt som var vanligt under den hedniska tiden." [^1]
 

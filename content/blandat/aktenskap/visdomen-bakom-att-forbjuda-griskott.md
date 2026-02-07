@@ -24,7 +24,7 @@ Allāh den Härlige, den Högste har förklarat visdomen i förbudet och denna v
 
 När Allāh säger till oss att Han har förbjudit gris därför att den är oren vet vi att denna orenhet är skadlig för oss i vår religion och får våra kroppar. I detta fall säger vi till alla som frågar om visdomen bakom förbudet av fläsk att det är på grund av rijs, det vill säga att det är orent och skadligt för kroppen och religion.
 
-Det har sagts att detta orena djur har lite svartsjuka. Om en person då äter det kan hans svartsjuka gentemot hans *mahram* och hans fru försvinna. Detta beror på att en person kan påverkas av vad han äter.
+Det har sagts att detta orena djur har lite svartsjuka. Om en person då äter det kan hans svartsjuka gentemot hans *maḥram* och hans fru försvinna. Detta beror på att en person kan påverkas av vad han äter.
 
 Har du inte lagt märke till att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit att vi äter alla rovdjur med rovdjurständer och alla fåglar med klor? Detta beror på att fiendskap och aggression är en del av dessa rovdjurs och fåglars natur. Det finns därför en fruktan för att om en person äter dem kommer han att få något av deras karaktärsdrag.
 

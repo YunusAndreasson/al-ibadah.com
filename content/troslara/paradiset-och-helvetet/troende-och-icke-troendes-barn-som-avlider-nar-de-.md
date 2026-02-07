@@ -31,4 +31,4 @@ Och Allāh vet bäst.
 
 
 [^1]: Koranen 52:21
-[^2]: *al-Bukhārī* 1384
+[^2]: *al-Buk̲hārī* 1384

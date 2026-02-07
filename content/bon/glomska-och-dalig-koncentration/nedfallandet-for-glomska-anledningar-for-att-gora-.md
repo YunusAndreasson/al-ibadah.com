@@ -24,9 +24,9 @@ description: >-
 
 Beträffande överskridande, om man avsiktligen gör en extra bugning, nedfallan eller sittning blir bönen ogiltig. Detta beror på att man har överskridit i bönen när man utfört den på ett annat sätt än det som Allāh den Upphöjde och Hans sändebud har kommenderat. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Den som utför en handling som inte tillhör denna vår fråga [religionen] kommer att få den avvisad*." [^3]
 
-Men om man på grund av glömska lade till något blir bönen inte ogiltig. I stället måste man nedfalla för glömska[^1] efter att ha gjort *taslīm*. Beviset för detta är en *hadīth* från Abū Hurairah om när profeten – över honom vare Allāhs frid och välsignelser – gjorde *taslīm* efter två bönecykler i en av eftermiddagsbönerna, antingen middagsbönen eller eftermiddagsbönen. När de påminde honom bad han det som återstod av bönen för att sedan göra *taslīm*. Därefter gjorde han två nedfallanden. [^4]
+Men om man på grund av glömska lade till något blir bönen inte ogiltig. I stället måste man nedfalla för glömska[^1] efter att ha gjort *taslīm*. Beviset för detta är en *ḥadīt̲h* från Abū Hurairah om när profeten – över honom vare Allāhs frid och välsignelser – gjorde *taslīm* efter två bönecykler i en av eftermiddagsbönerna, antingen middagsbönen eller eftermiddagsbönen. När de påminde honom bad han det som återstod av bönen för att sedan göra *taslīm*. Därefter gjorde han två nedfallanden. [^4]
 
-I en *hadīth* från Ibn Mas’ūd säger han att profeten – över honom vare Allāhs frid och välsignelser – bad fem bönecykler medan han ledde dem i bön och när han var färdig frågade de honom: ”Har bönen utökats?” Han svarade då: ”Och varför frågar ni det?” De svarade då: ”Du bad fem [bönecykler].” Han böjde då sina ben, riktade sig mot *qiblah* och gjorde två nedfallanden. [^5]
+I en *ḥadīt̲h* från Ibn Mas’ūd säger han att profeten – över honom vare Allāhs frid och välsignelser – bad fem bönecykler medan han ledde dem i bön och när han var färdig frågade de honom: ”Har bönen utökats?” Han svarade då: ”Och varför frågar ni det?” De svarade då: ”Du bad fem [bönecykler].” Han böjde då sina ben, riktade sig mot *qiblah* och gjorde två nedfallanden. [^5]
 
 Beträffande utelämnande, om man utelämnar en av bönens pelare hamnar man i en av följande kategorier:
 
@@ -38,7 +38,7 @@ Ett annat exempel skulle vara om man inte kom ihåg förrän när man nått dess
 
 Beträffande att utelämna en obligatorisk handling, om man utelämnade den och rörde sig från dess plats till den nästa, som om man glömde att säga: *Subhana rabbial a'la* [Glorifierad är min Herre, den Högste] och man inte kom ihåg det förrän man höjt huvudet från nedfallandet, då har man utelämnat en av de obligatoriska handlingarna i bönen. I detta fall måste man fortsätta i sin bön och göra nedfallandet för glömska[^1] innan man gör *taslīm*.
 
-När profeten – över honom vare Allāhs frid och välsignelser – utelämnade den första *tashahhud* fortsatte han därför med sin bön utan att gå tillbaka. Han gjorde sen nedfallandet för glömska[^1] innan han gjorde *taslīm*. [^6]
+När profeten – över honom vare Allāhs frid och välsignelser – utelämnade den första *tas̲hahhud* fortsatte han därför med sin bön utan att gå tillbaka. Han gjorde sen nedfallandet för glömska[^1] innan han gjorde *taslīm*. [^6]
 
 Tvivel är när man är osäker på om man har gjort för mycket eller för lite, som när man är osäker på om man har bett tre eller fyra bönecykler. I detta fall gäller en av följande två möjligheter:
 
@@ -53,7 +53,7 @@ Därmed är det klart att nedfallandet för glömska[^1] kommer innan *taslīm* 
 [^1]: sujūd as-sahw.
 [^2]: sujūd, nedfallandet när pannan läggs mot marken.
 
-[^3]: *Muslim* och *al-Bukhārī*
-[^4]: *al-Bukhārī* och *Muslim*
-[^5]: *al-Bukhārī* och *Muslim*
-[^6]: *al-Bukhārī* 829 och *Muslim* 570
+[^3]: *Muslim* och *al-Buk̲hārī*
+[^4]: *al-Buk̲hārī* och *Muslim*
+[^5]: *al-Buk̲hārī* och *Muslim*
+[^6]: *al-Buk̲hārī* 829 och *Muslim* 570

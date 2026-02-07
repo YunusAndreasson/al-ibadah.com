@@ -18,6 +18,6 @@ description: >-
 
 **Svar:** Ja, fastan är giltig. En våt dröm gör den inte ogiltig. Anledningen är att detta inträffar utan att den fastande har valt det. Pennan har lyfts medan man sover.
 
-Men det är på sin plats att här rikta uppmärksamhet mot något som många gör i dagsläget. De stannar uppe nattetid under *ramadan*. Möjligen är de vakna för att göra något som inte kommer dem till nytta, eller något som är skadligt för dem. När dagen sedan gryr spenderas den genom att sova. Detta är inte passande. Vad man bör göra är att utnyttja fastan till att lyda och åminnas Allāh, recitera Koranen och [att utföra] andra handlingar som för en närmare Allāh – den Välsignade, den Högste.
+Men det är på sin plats att här rikta uppmärksamhet mot något som många gör i dagsläget. De stannar uppe nattetid under *ramaḍān*. Möjligen är de vakna för att göra något som inte kommer dem till nytta, eller något som är skadligt för dem. När dagen sedan gryr spenderas den genom att sova. Detta är inte passande. Vad man bör göra är att utnyttja fastan till att lyda och åminnas Allāh, recitera Koranen och [att utföra] andra handlingar som för en närmare Allāh – den Välsignade, den Högste.
 
 

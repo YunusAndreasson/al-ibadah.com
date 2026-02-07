@@ -5,7 +5,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  1. Libanon: Makbtaba Dar us-Salam. 38 s. ISBN 9960-892-66-2'
 categories:
   - Troslära (´Aqīdah)
-  - Sekter, rörelser och den rätta vägen
+  - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 1068
 description: 'Fråga: Profeten – över honom vare Allāhs frid och välsignelser – har

@@ -14,17 +14,17 @@ description: >-
   grad att ‘A’ishah – må Allāh vara nöjd m...
 ---
 
-**Fråga:** Vilket är utlåtandet om att fasta under *sha'ban*?
+**Fråga:** Vilket är utlåtandet om att fasta under *s̲ha´bān*?
 
-**Svar:** Fastan under *sha'ban* är *sunnah*. Att fasta den ofta är också en *sunnah*. Detta till den grad att 'A'ishah – må Allāh vara nöjd med henne – sade: "*Jag såg honom inte fasta mer under någon annan månad än sha'ban*." [^1]
+**Svar:** Fastan under *s̲ha´bān* är *sunnah*. Att fasta den ofta är också en *sunnah*. Detta till den grad att 'A'ishah – må Allāh vara nöjd med henne – sade: "*Jag såg honom inte fasta mer under någon annan månad än sha'ban*." [^1]
 
-Med denna *hadīth* som grund är det bra att fasta mycket under *sha'ban*.
+Med denna *ḥadīt̲h* som grund är det bra att fasta mycket under *s̲ha´bān*.
 
-De lärde har sagt att fastan under *sha'ban* är likvärdig med relationen mellan de obligatoriska bönerna och de fasta *sunnah*-bönerna. Det är som om den vore en introduktion till *ramadan*, det vill säga som om den vore en *sunnah* för fastmånaden.
+De lärde har sagt att fastan under *s̲ha´bān* är likvärdig med relationen mellan de obligatoriska bönerna och de fasta *sunnah*-bönerna. Det är som om den vore en introduktion till *ramaḍān*, det vill säga som om den vore en *sunnah* för fastmånaden.
 
-Därför har fastan under *sha'ban* och sexdagarsfastan under *shawwal* föreskrivits. Precis som de fasta *sunnah*-bönerna före och efter den obligatoriska bönen.
+Därför har fastan under *s̲ha´bān* och sexdagarsfastan under *s̲hawwāl* föreskrivits. Precis som de fasta *sunnah*-bönerna före och efter den obligatoriska bönen.
 
-Det finns en annan nytta med att fasta under *sha'ban*. Den är att man förbereder och ställer in sig själv inför *ramadan*. Då blir det lättare att utföra den.
+Det finns en annan nytta med att fasta under *s̲ha´bān*. Den är att man förbereder och ställer in sig själv inför *ramaḍān*. Då blir det lättare att utföra den.
 
 
-[^1]: *al-Bukhārī* 1969
+[^1]: *al-Buk̲hārī* 1969

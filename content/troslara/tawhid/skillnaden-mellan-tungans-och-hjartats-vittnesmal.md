@@ -6,7 +6,7 @@ source: >-
   budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - 'Tawhīd [Monoteism]'
+  - Monoteism
 original_id: 916
 description: >-
   Fråga: Vad är skillnaden mellan vittnesmålet om tro med hjärtat och

@@ -24,13 +24,13 @@ Den obligatoriska formen som tvagningen är ogiltig utan som beskrivs av Allāh 
 
 Detta innebär att man tvättar ansiktet en gång, vilket innefattar att man sköljer munnen, drar upp vatten i näsan och tvättar händerna från fingertopparna till armbågarna. Under tvagningen måste man komma ihåg händerna när man tvättar sina armar, de måste tvättas tillsammans med armarna. Somliga bryr sig inte riktigt om detta och de tvättar enbart armarna. Detta är ett misstag. Sedan stryker man över huvudet en gång och här innefattas även öronen. Sedan tvättar man fötterna upp till vristerna en gång. Detta är beskrivningen av den obligatoriska tvagningen som måste göras.
 
-Det andra sättet att göra tvagningen på är det som är att föredra. Vi ska nu med Allāhs hjälp beskriva hur det går till. Enligt denna metod säger man först *Bismillah* när man börjar sin tvagning. Man tvättar händerna tre gånger, sköljer munnen och drar upp vatten i näsan tre gånger med tre händer fulla med vatten. Sedan tvättar man ansiktet tre gånger och från händerna upp till armbågarna tre gånger [börjar med den högra och sedan den vänstra].
+Det andra sättet att göra tvagningen på är det som är att föredra. Vi ska nu med Allāhs hjälp beskriva hur det går till. Enligt denna metod säger man först *Bismillāh* när man börjar sin tvagning. Man tvättar händerna tre gånger, sköljer munnen och drar upp vatten i näsan tre gånger med tre händer fulla med vatten. Sedan tvättar man ansiktet tre gånger och från händerna upp till armbågarna tre gånger [börjar med den högra och sedan den vänstra].
 
 Sedan stryker man över huvudet en gång efter att ha blött händerna. Man drar dem framifrån och bakåt och sedan bakifrån och fram igen. Sedan stryker man öronen genom att sätta pekfingret i varje öra och stryka utanför dem med tummarna. Sedan tvättar man fötterna upp till anklarna tre gånger och man börjar med den högra och sedan den vänstra. När man är klar säger man:
 
 > ”*Ashhadu anla ilaha illallahu wahdahu la sharīka lahu, wa ashhadu anna Muḥammadan 'abduhu wa rasuluhu. Allāhu-maj'alnī minat-tawwabīna waj'alnī minal-mutahahhirīn*.”
 
-Gör man det kommer Paradisets åtta portar att öppnas och man får träda in genom vilken man vill. Den *hadīth* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger detta till ´Umar har styrkts. [^1]
+Gör man det kommer Paradisets åtta portar att öppnas och man får träda in genom vilken man vill. Den *ḥadīt̲h* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger detta till ´Umar har styrkts. [^1]
 
 
 [^1]: *Muslim* 234

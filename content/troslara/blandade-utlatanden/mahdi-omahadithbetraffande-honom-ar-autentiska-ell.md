@@ -15,23 +15,23 @@ description: >-
   som med ...
 ---
 
-**Fråga:** Är *ahādīth* som berättar om Mahdi autentiska?
+**Fråga:** Är *aḥādīt̲h* som berättar om Mahdi autentiska?
 
-*Ahādīth* om Mahdi kan delas in i tre kategorier:
+*aḥādīt̲h* om Mahdi kan delas in i tre kategorier:
 
-1. Påhittade *ahādīth*.
-2. Svaga *ahādīth*.
-3. *Hasan ahādīth*[^1], men som med anledning av deras antal når nivån för *sahīh* och då anses vara *sahīh li-ghairihi*.
+1. Påhittade *aḥādīt̲h*.
+2. Svaga *aḥādīt̲h*.
+3. *Hasan ahādīth*[^1], men som med anledning av deras antal når nivån för *Ṣaḥīḥ* och då anses vara *sahīh li-ghairihi*.
 
-Några lärde säger att det finns *ahādīth* som [även] ensamma är *sahīh*. Detta är en fjärde kategori.
+Några lärde säger att det finns *aḥādīt̲h* som [även] ensamma är *Ṣaḥīḥ*. Detta är en fjärde kategori.
 
 Men detta är inte den Mahdi som de påstår finnas i en underjordiskt grav i Irak. Det finns ingen grund för detta utan det är enbart en villfarelse utan fakta.
 
-Den Mahdi vars existens har bekräftats genom autentiska *ahādīth* är en människa som alla andra människor. Han är skapad, han kommer att födas under sin egen tidsperiod och han kommer att visa sig för folket under sin egen tidsperiod. Detta är historien om Mahdi och att fullständigt välja att inte tro på honom är fel men att fullständigt tro på hans mytologiska person är också det fel. 
+Den Mahdi vars existens har bekräftats genom autentiska *aḥādīt̲h* är en människa som alla andra människor. Han är skapad, han kommer att födas under sin egen tidsperiod och han kommer att visa sig för folket under sin egen tidsperiod. Detta är historien om Mahdi och att fullständigt välja att inte tro på honom är fel men att fullständigt tro på hans mytologiska person är också det fel. 
 
 Att bekräfta honom på ett sätt som inbegriper den väntade Mahdi som påstås befinna sig i en underjordiskgrav i Irak, det är fel. Tron på denne dolde Mahdi är vansinne och en villfarelse bort från den islamiska lagen. Detta saknar helt någon grund.
 
-Men att bekräfta den Mahdi som profeten – över honom vare Allāhs frid och välsignelser – har berättat om för oss, som antalet *ahādīth* är flertaliga om och som kommer att födas och dyka upp under sin egen tidsperiod – det är rätt.
+Men att bekräfta den Mahdi som profeten – över honom vare Allāhs frid och välsignelser – har berättat om för oss, som antalet *aḥādīt̲h* är flertaliga om och som kommer att födas och dyka upp under sin egen tidsperiod – det är rätt.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

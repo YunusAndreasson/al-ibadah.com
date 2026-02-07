@@ -10,11 +10,11 @@ categories:
 original_id: 256
 description: >-
   Fråga: Jag bad förmiddagsbönen i mitt hem och när jag hade gjort öppnings-
-  takbīr och reciterat *al-Fātihah* knackade någon på dörren. Jag gjorde då
+  takbīr och reciterat *al-Fātiḥah* knackade någon på dörren. Jag gjorde då
   taslīm och öppnade dörren. Sedan återvände jag...
 ---
 
-**Fråga:** Jag bad förmiddagsbönen[^1] i mitt hem och när jag hade gjort öppnings-*takbīr* och reciterat *al-Fātihah* knackade någon på dörren. Jag gjorde då *taslīm* och öppnade dörren. Sedan återvände jag, gjorde *takbīr* och började om från början. Skall jag gottgöra för detta på något sätt?
+**Fråga:** Jag bad förmiddagsbönen[^1] i mitt hem och när jag hade gjort öppnings-*takbīr* och reciterat *al-Fātiḥah* knackade någon på dörren. Jag gjorde då *taslīm* och öppnade dörren. Sedan återvände jag, gjorde *takbīr* och började om från början. Skall jag gottgöra för detta på något sätt?
 
 **Svar:** Det finns ingen invändan mot att avbryta bönen – även om det skulle vara en obligatorisk bön – på grund av något nödvändigt som du har nämnt. Personen som knackar på dörren kan höja sin röst, knacka högre eller till och med banka på dörren. Detta kan orsaka irritation och göra så att man inte ber på det sätt som krävs.
 

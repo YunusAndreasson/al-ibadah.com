@@ -14,7 +14,7 @@ description: >-
   också till välgörenhet. Sedan var jag gravi...
 ---
 
-**Fråga:** Jag var gravid under *ramadan* så jag bröt min fasta och jag fastade andra dagar i stället för dessa för att uppfylla vad som krävs av mig. Jag gav också till välgörenhet. Sedan var jag gravid en andra gång under *ramadan* så jag bröt min fasta och fastade under en annan månad andra dagar i stället för dessa. Jag tog igen fastan genom att fasta varannan dag under två månader. Jag gav dock inte i välgörenhet. Finns det något som under dessa omständigheter gör det till en skyldighet för mig att ge till välgörenhet?
+**Fråga:** Jag var gravid under *ramaḍān* så jag bröt min fasta och jag fastade andra dagar i stället för dessa för att uppfylla vad som krävs av mig. Jag gav också till välgörenhet. Sedan var jag gravid en andra gång under *ramaḍān* så jag bröt min fasta och fastade under en annan månad andra dagar i stället för dessa. Jag tog igen fastan genom att fasta varannan dag under två månader. Jag gav dock inte i välgörenhet. Finns det något som under dessa omständigheter gör det till en skyldighet för mig att ge till välgörenhet?
 
 **Svar:** Om en gravid kvinna på grund av fastan fruktar för sig själv eller för sitt barn i skötet, då bryter hon fastan och hon är enbart skyldig att ta igen den. Hennes situation går att likna vid den sjukes som inte är stark nog för att fasta eller som fruktar för sig själv på grund av fastan. Allāh säger:
 

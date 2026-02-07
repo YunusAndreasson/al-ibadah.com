@@ -25,11 +25,11 @@ Ofta kan någon tänkas be om något utan att få det, för att sedan be igen oc
 
 Detta beror på att åkallan är en sorts dyrkan och den som gör det får under alla omständigheter något nyttig från det.
 
-I en *hadīth* från profeten – över honom vare Allāhs frid och välsignelser – har det återberättats att när någon åkallar Allāh kommer ett av tre ting att hända denne: Åkallan blir besvarad, något värre ont avvärjs eller sparas den till Återuppståndelsens dag. [^3]
+I en *ḥadīt̲h* från profeten – över honom vare Allāhs frid och välsignelser – har det återberättats att när någon åkallar Allāh kommer ett av tre ting att hända denne: Åkallan blir besvarad, något värre ont avvärjs eller sparas den till Återuppståndelsens dag. [^3]
 
 Jag råder brodern som har sagt detta att vända sig till Allāh den Allsmäktige i ånger. Detta är en allvarlig synd som motsäger sig Allāhs den Upphöjdes kommendering att åkalla Honom. Det är även en överträdelse av de gränser som Allāh har satt.
 
 
 [^1]: Koranen 40:60
-[^2]: *al-Bukhārī* 2735
+[^2]: *al-Buk̲hārī* 2735
 [^3]: *at-Tirmithi* 3573

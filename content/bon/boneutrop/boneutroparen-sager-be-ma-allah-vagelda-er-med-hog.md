@@ -33,5 +33,5 @@ Och Allāh vet bäst.
 
 
 [^1]: Koranen 5:3
-[^2]: *Ahmad* 1:126 och 127
-[^3]: *al-Bukhārī* 2697 och *Muslim* 1718
+[^2]: *Aḥmad* 1:126 och 127
+[^3]: *al-Buk̲hārī* 2697 och *Muslim* 1718

@@ -22,11 +22,11 @@ description: >-
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”De svåraste bönerna för hycklarna är nattbönen och gryningsbönen. Om de visste vilken förtjänst som fanns i dem hade de kommit krypande.” [*al-Bukhārī* 657 och *Muslim* 651]
+> ”De svåraste bönerna för hycklarna är nattbönen och gryningsbönen. Om de visste vilken förtjänst som fanns i dem hade de kommit krypande.” [*al-Buk̲hārī* 657 och *Muslim* 651]
 
 Han har även sagt:
 
-> ”Den som hör böneutropet och inte besvarar det, där finns ingen bön för honom, utom om han har en ursäkt.” [*Ibn Mājah* 793, *ad-Daraqutni* 1:420 och *al-Hakim* 1:245]
+> ”Den som hör böneutropet och inte besvarar det, där finns ingen bön för honom, utom om han har en ursäkt.” [*Ibn Mājah* 793, *ad-Dāraquṭnī* 1:420 och *al-Ḥākim* 1:245]
 
 En blind man sade till profeten: ”*Allāhs sändebud! Jag har ingen guide som kan vägleda mig till moskén, kan jag be i mitt hem?*” Allāhs sändebud – över honom vare Allāhs frid och välsignelser – frågade: ”*Hör du böneutropet?*” Han svarade ”*Ja*.” Han svarade: ”*Besvarade då det*.” [^1]
 

@@ -18,9 +18,9 @@ description: >-
 
 **Svar:** Det är tillåtet att du vallfärdar för dina båda föräldrar, eller att du utser någon annan gör det. Detta under villkor att du, eller den som du utser, har klarat av den obligatoriska vallfärden själv.
 
-Anledningen är att *Abū Dawūd* i sin *Sunan* har återgivit från ´Abdullāh bin 'Abbās att profeten – över honom vare Allāhs frid och välsignelser – hörde en man säga: "*Labbayk [Jag är här till din tjänst] för Shubrumah*." Profeten – över honom vare Allāhs frid och välsignelser – sade: "*Vem är Shubrumah?*" Mannen sade: "*Han är min bror*", eller sade han: "*Han är en släkting*." Profeten – över honom vare Allāhs frid och välsignelser – sade: "*Har du vallfärdat själv*?" Mannen svarade: "*Nej*." Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Vallfärda då själv, [och] vallfärda sedan för Shubrumah*." [^1]
+Anledningen är att *Abū Dāwūd* i sin *Sunan* har återgivit från ´Abdullāh bin 'Abbās att profeten – över honom vare Allāhs frid och välsignelser – hörde en man säga: "*Labbayk [Jag är här till din tjänst] för Shubrumah*." Profeten – över honom vare Allāhs frid och välsignelser – sade: "*Vem är Shubrumah?*" Mannen sade: "*Han är min bror*", eller sade han: "*Han är en släkting*." Profeten – över honom vare Allāhs frid och välsignelser – sade: "*Har du vallfärdat själv*?" Mannen svarade: "*Nej*." Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Vallfärda då själv, [och] vallfärda sedan för Shubrumah*." [^1]
 
-*Ibn Mājah* har återgivit detta och *al-Bayhaqi* har sagt: ”*Denna kedja av återberättare är autentisk och det finns inget mer autentiskt i detta ämne*.”
+*Ibn Mājah* har återgivit detta och *al-Bayhaqī* har sagt: ”*Denna kedja av återberättare är autentisk och det finns inget mer autentiskt i detta ämne*.”
 
 
-[^1]: *Abū Dawūd* 1811 och *al-Bayhaqi* 4:336
+[^1]: *Abū Dāwūd* 1811 och *al-Bayhaqī* 4:336

@@ -14,8 +14,8 @@ description: >-
   ] men på grund av okunskap slaktade han inte...
 ---
 
-**Fråga:** En man vallfärdade och *'umrah* tillsammans och han utförde alla vallfärdsriter. Under dagarna i Mina slaktade han *adhha*-offret [*‘eidul-adhha*] men på grund av okunskap slaktade han inte ett offerdjur för vallfärden förrän dagarna i Mina hade tagit slut. Måste han slakta ett *hady*-djur [för vallfärden]?
+**Fråga:** En man vallfärdade och *´umrah* tillsammans och han utförde alla vallfärdsriter. Under dagarna i Mina slaktade han *adhha*-offret [*‘eidul-adhha*] men på grund av okunskap slaktade han inte ett offerdjur för vallfärden förrän dagarna i Mina hade tagit slut. Måste han slakta ett *hady*-djur [för vallfärden]?
 
-**Svar:** Om det förhåller sig som du har beskrivit, då måste han slakta ett djur för *hajjul-qirān* i Mecka. Han kan äta från det och han får utse en pålitlig person till att slakta det åt honom i Mecka. Det som han slaktade med avsikt för att vara *adhha*-offer, det är inte tillräckligt.
+**Svar:** Om det förhåller sig som du har beskrivit, då måste han slakta ett djur för *ḥajjul-qirān* i Mecka. Han kan äta från det och han får utse en pålitlig person till att slakta det åt honom i Mecka. Det som han slaktade med avsikt för att vara *adhha*-offer, det är inte tillräckligt.
 
 

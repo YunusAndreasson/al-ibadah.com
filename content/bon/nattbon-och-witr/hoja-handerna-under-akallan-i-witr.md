@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 319 s. ISBN saknas
 categories:
   - Bön (Salāh)
-  - Nattbön och witr
+  - Nattbön
 original_id: 299
 description: >-
   Vilket är utlåtandet om att höja händerna under witr? Det är tillåtet att höja
@@ -19,4 +19,4 @@ Vilket är utlåtandet om att höja händerna under *witr*?
 Det är tillåtet att höja händerna under *qunūt* i *witr*. Detta hamnar i samma kategori som *qunūt* vid katastrofer. Profeten – över honom vare Allāhs frid och välsignelser – brukade höja händerna när han åkallade i *qunūt* vid stora svårigheter. [^1]
 
 
-[^1]: *al-Bayhaqi* 3229
+[^1]: *al-Bayhaqī* 3229

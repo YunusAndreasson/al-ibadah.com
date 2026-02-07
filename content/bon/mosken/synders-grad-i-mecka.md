@@ -21,7 +21,7 @@ description: >-
 
 > ”Den som [på Räkenskapens dag] för med sig en god handling ska belönas tiofalt, men den som för med sig en dålig handling ska bara straffas med vad som motsvarar denna handling och ingen orätt ska tillfogas dem.” [Koranen 6:160]
 
-Detta beror även på vad som har bekräftats i autentiska *ahādīth* som pekar på samma innebörd. Onda handlingar varierar i deras syndfullhet enligt hur stora eller små de är, vid vilken tid de begås [som under *ramadan* och de tio dagarna i *dhul-hijjah*], vid vilken plats de begås [som Mecka och Medina] och på grund av andra anledningar.
+Detta beror även på vad som har bekräftats i autentiska *aḥādīt̲h* som pekar på samma innebörd. Onda handlingar varierar i deras syndfullhet enligt hur stora eller små de är, vid vilken tid de begås [som under *ramaḍān* och de tio dagarna i *d̲hul-ḥijjah*], vid vilken plats de begås [som Mecka och Medina] och på grund av andra anledningar.
 
 Allāh är Givaren av framgång.
 

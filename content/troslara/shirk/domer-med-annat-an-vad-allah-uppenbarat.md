@@ -7,7 +7,7 @@ source: >-
   (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - 'Shirk [Att sätta något vid Allāhs sida]'
+  - Avgudadyrkan
 original_id: 69
 description: >-
   Fråga: Anses de som dömer med något annat än vad Allāh har uppenbarat vara

@@ -14,7 +14,7 @@ description: >-
   denne någon nytta? Profeten – över honom ...
 ---
 
-**Fråga:** Är det tillåtet att recitera *al-Fātihah*, eller något annat stycke i Koranen, för den avlidne när man besöker dennes grav? Kommer detta att göra denne någon nytta?
+**Fråga:** Är det tillåtet att recitera *al-Fātiḥah*, eller något annat stycke i Koranen, för den avlidne när man besöker dennes grav? Kommer detta att göra denne någon nytta?
 
 Profeten – över honom vare Allāhs frid och välsignelser – brukade besöka gravar och be för de döda med en åkallan som han lärde följeslagarna. En sådan åkallan kan vara:
 
@@ -26,6 +26,6 @@ Då han inte gjorde det, när det fanns en anledning för honom att göra det, d
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Den som för in något i vår fråga [islam] som inte tillhör den, det ska avvisas.” [*al-Bukhārī* 2697 och *Muslim* 1718]
+> ”Den som för in något i vår fråga [islam] som inte tillhör den, det ska avvisas.” [*al-Buk̲hārī* 2697 och *Muslim* 1718]
 
 

@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: '''Ishratun-Nisā wa Hill al-Khilāfāt az-Zowjiyyah – Page 59'
 categories:
   - Renhet (Tahārah)
-  - 'Ghusl [Den stora tvagningen]'
+  - Den stora tvagningen
 original_id: 601
 description: >-
   Fråga: Är detta tillåtet att sova om man är oren efter intim samvaro? Svar:

@@ -7,7 +7,7 @@ source: >-
   (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Renhet (Tahārah)
-  - 'Ghusl [Den stora tvagningen]'
+  - Den stora tvagningen
 original_id: 1426
 description: >-
   Fråga: Låt oss anta att jag vaknar precis innan soluppgången och finner att
@@ -15,11 +15,11 @@ description: >-
   solen hinna stiga. Bör jag då göra tayamm...
 ---
 
-**Fråga:** Låt oss anta att jag vaknar precis innan soluppgången och finner att jag är i ett tillstånd av stor rituell orenhet. Om jag gör *ghusl*, då kommer solen hinna stiga. Bör jag då göra *tayammum* eller *ghusl* och sedan be?
+**Fråga:** Låt oss anta att jag vaknar precis innan soluppgången och finner att jag är i ett tillstånd av stor rituell orenhet. Om jag gör *g̲husl*, då kommer solen hinna stiga. Bör jag då göra *tayammum* eller *g̲husl* och sedan be?
 
-**Svar:** Du måste göra *ghusl*, göra klart din rening och sedan be. Du får inte göra *tayammum* i den situation som du har beskrivit. Den som glömmer och den som har sovit över sig är beordrad att be så fort som möjligt.
+**Svar:** Du måste göra *g̲husl*, göra klart din rening och sedan be. Du får inte göra *tayammum* i den situation som du har beskrivit. Den som glömmer och den som har sovit över sig är beordrad att be så fort som möjligt.
 
-Detta beror på att de ska avklara skyldigheten när de kommer ihåg eller vaknar. Beviset för detta är en *hadīth* där profeten – över honom vare Allāhs frid och välsignelser – säger: "*Den som sover över bönen eller glömmer den, denne måste be den så fort denne kommer ihåg, och det finns inget sonande för det utöver detta*." [^1]
+Detta beror på att de ska avklara skyldigheten när de kommer ihåg eller vaknar. Beviset för detta är en *ḥadīt̲h* där profeten – över honom vare Allāhs frid och välsignelser – säger: "*Den som sover över bönen eller glömmer den, denne måste be den så fort denne kommer ihåg, och det finns inget sonande för det utöver detta*." [^1]
 
 Det är välkänt att det inte finns någon bön utan rening. Profeten – över honom vare Allāhs frid och välsignelser – har ju sagt: ”*Bön utan tvagning accepteras inte*.” [^2]
 
@@ -32,6 +32,6 @@ Må Allāh skydda oss, dig och alla muslimer från deras sätt och karaktärer.
 Allāh är Den som ger framgång.
 
 
-[^1]: *al-Bukhārī* 597 och *Muslim* 684
+[^1]: *al-Buk̲hārī* 597 och *Muslim* 684
 [^2]: *Muslim* 224
 [^3]: Koranen 5:6

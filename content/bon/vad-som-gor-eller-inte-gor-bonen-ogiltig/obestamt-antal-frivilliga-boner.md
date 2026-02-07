@@ -20,7 +20,7 @@ description: >-
 
 Det är därför föreskrivet att be två följt av två under natten och dagen. Man bör inte be fyra, sex, åtta eller något liknande tillsammans.
 
-Undantaget är att det är tillåtet att be tre bönecykler som *witr* med en *tashahhud* tillsammans. /…/
+Undantaget är att det är tillåtet att be tre bönecykler som *witr* med en *tas̲hahhud* tillsammans. /…/
 
 
-[^1]: *Abū Dawūd* 1295
+[^1]: *Abū Dāwūd* 1295

@@ -19,6 +19,6 @@ description: >-
 
 Om denne man som utövar skickliga handtrick och använder talismaner säger vi: Han gör två saker – använder talismaner och handtricken. Det sistnämnda är utan tvekan förbjudet med anledning av bedrägligheten i det. Det kan även nå en sådan nivå att det tar en ur islam, som när de åkallar djävularna och de drar sig nära dem genom att offra till och åkalla dem.
 
-Talismaner, om de kommer från Koranen eller tillåten åkallan, då är de lärde oeniga om detta. Somliga har tillåtit det, medan andra har förbjudit det. Det är dock inte ogillat att be bakom en imam som använder dem. Men om talismanerna är dragna mot *shirk* eller innovation, då är det inte tillåtet att använda dem. Detta finns det enighet om och denne måste vända sig till Allāh den Upphöjde i ånger över vad han har gjort och undvika att göra det igen.
+Talismaner, om de kommer från Koranen eller tillåten åkallan, då är de lärde oeniga om detta. Somliga har tillåtit det, medan andra har förbjudit det. Det är dock inte ogillat att be bakom en imam som använder dem. Men om talismanerna är dragna mot *s̲hirk* eller innovation, då är det inte tillåtet att använda dem. Detta finns det enighet om och denne måste vända sig till Allāh den Upphöjde i ånger över vad han har gjort och undvika att göra det igen.
 
 

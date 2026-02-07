@@ -27,5 +27,5 @@ Detta trots att dessa kan ha bett i deras egna hem.
 Denna grupp måste då be med församlingen om de inte befinner sig långt bort från den och det skulle vara en svårighet för dem att komma dit.
 
 
-[^1]: *al-Bukhārī* 644
+[^1]: *al-Buk̲hārī* 644
 [^2]: *Ibn Mājah* 793

@@ -16,5 +16,5 @@ description: 'Fråga: Ibland när en person distribuerar välgörenhet och folke
 
 **Svar:** Att åkalla för honom på detta sätt bör inte göras då det är en innovation. Att be för den som ger i välgörenhet utan alla dessa ritualer – som att lägga händerna på det han skänker, samlas runt honom och höja rösterna – är föreskrivet då profeten har sagt:
 
-> ”Vem som än gör en god gärning, återgälda då honom med en lika god. Om du inte finner något att betala igen honom med, åkalla då för honom tills du känner att du betalat igen honom.” [*Abū Dawūd* 1672 och *an-Nasā’i* 2568]
+> ”Vem som än gör en god gärning, återgälda då honom med en lika god. Om du inte finner något att betala igen honom med, åkalla då för honom tills du känner att du betalat igen honom.” [*Abū Dāwūd* 1672 och *an-Nasā’ī* 2568]
 

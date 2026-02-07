@@ -27,5 +27,5 @@ Detta omfattar både de som avvisar att bönen är en skyldighet och de som inte
 Och Allāh är den som ger framgång.
 
 
-[^1]: *at-Tirmithi* 2621 och *Ahmad* 5:346
+[^1]: *at-Tirmithi* 2621 och *Aḥmad* 5:346
 [^2]: *Muslim* 82

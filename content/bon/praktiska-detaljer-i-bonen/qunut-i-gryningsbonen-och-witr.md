@@ -26,6 +26,6 @@ Vår åsikt är att när någon stor katastrof inträffar, då bör *qunūt* rec
 
 Den andra delen är *qunūt* under *witr*. Det är *sunnah* men det är inte *sunnah* att alltid recitera den. Men om man reciterar *qunūt* ibland, då är det något bra. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – lärde sitt barnbarn al-Hasan bin ´Alī bin Abi Tālib detta.
 
-När det gäller frågeställarens ord ”likt kvällsbönen”, då ska man inte säga så. Anledningen är att när man ber en tre bönecykler lång *witr*-bön, då väljer man om man vill be den med två *taslīm* [man ber då två bönecykler och gör sedan *taslīm*, för att sedan be en tredje] eller om man vill be den med en *tashahhud* efterföljd av en *taslīm*. Ber man den med två *tashahhud*, då skulle den likna kvällsbönen och profeten – över honom vare Allāhs frid och välsignelser – förbjöd detta.
+När det gäller frågeställarens ord ”likt kvällsbönen”, då ska man inte säga så. Anledningen är att när man ber en tre bönecykler lång *witr*-bön, då väljer man om man vill be den med två *taslīm* [man ber då två bönecykler och gör sedan *taslīm*, för att sedan be en tredje] eller om man vill be den med en *tas̲hahhud* efterföljd av en *taslīm*. Ber man den med två *tas̲hahhud*, då skulle den likna kvällsbönen och profeten – över honom vare Allāhs frid och välsignelser – förbjöd detta.
 
 

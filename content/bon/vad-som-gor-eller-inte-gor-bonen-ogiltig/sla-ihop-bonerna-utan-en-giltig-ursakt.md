@@ -31,5 +31,5 @@ Detta är vad som är obligatoriskt. När man slår ihop två böner utan en gil
 [^1]: Koranen 4:103
 [^2]: Koranen 2:229
 [^3]: Koranen 65:1
-[^4]: *an-Nasā’i* 603
+[^4]: *an-Nasā’ī* 603
 [^5]: *Muslim* 1718

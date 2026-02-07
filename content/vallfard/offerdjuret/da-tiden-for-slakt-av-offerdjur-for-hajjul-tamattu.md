@@ -14,9 +14,9 @@ description: >-
   slakta offerdjuret för hajjul-tama...
 ---
 
-**Fråga:** När tar tiden för att slakta offerdjuret för *hajjul-tamattu´* slut och finns det någon skillnad i åsikten om att begränsa tiden?
+**Fråga:** När tar tiden för att slakta offerdjuret för *ḥajjul-tamattu´* slut och finns det någon skillnad i åsikten om att begränsa tiden?
 
-**Svar:** Tiden för att slakta offerdjuret för *hajjul-tamattu´* tar slut vid solnedgången den trettonde dagen i *dhul-hijjah* och den börjar när tiden då bönen kan utföras under *'eid*-dagen när solen har stigit till ett spjuts höjd. I fråga om det finns olika åsikter – ja, då finns det olika åsikter. Den mest korrekta är dock den som vi har nämnt.
+**Svar:** Tiden för att slakta offerdjuret för *ḥajjul-tamattu´* tar slut vid solnedgången den trettonde dagen i *d̲hul-ḥijjah* och den börjar när tiden då bönen kan utföras under *´eid*-dagen när solen har stigit till ett spjuts höjd. I fråga om det finns olika åsikter – ja, då finns det olika åsikter. Den mest korrekta är dock den som vi har nämnt.
 
 Och Allāh vet bäst.
 

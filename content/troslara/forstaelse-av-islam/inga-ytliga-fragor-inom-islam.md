@@ -27,19 +27,19 @@ Abū Muḥammad Ibn Hazm har nämnt att de lärde är eniga om att det är en sk
 
 Det är också en skyldighet att ha sina byxor ovan anklarna och det grundas på profetens – över honom vare Allāhs frid och välsignelser – ord:
 
-> ”Det av *izār* som hänger nedan för anklarna kommer att vara i Elden.” [*al-Bukhārī* 5787]
+> ”Det av *izār* som hänger nedan för anklarna kommer att vara i Elden.” [*al-Buk̲hārī* 5787]
 
 Han har även sagt:
 
-> ”Det finns tre personer som Allāh inte kommer att tala till, titta på eller rena från synd på Återuppståndelsens Dag, och de kommer att få ett smärtsamt straff: Den som låter sin *izār* hänga ned, den som ger bort det som har givits till honom samt den som säljer sina varor genom att svära en lögn.” [*Muslim* 106, *Abū Dawūd* 4087]
+> ”Det finns tre personer som Allāh inte kommer att tala till, titta på eller rena från synd på Återuppståndelsens Dag, och de kommer att få ett smärtsamt straff: Den som låter sin *izār* hänga ned, den som ger bort det som har givits till honom samt den som säljer sina varor genom att svära en lögn.” [*Muslim* 106, *Abū Dāwūd* 4087]
 
 Han har även sagt:
 
-> ”Allāh kommer inte att titta på den som har låtit sitt klädesplagg hänga ned av stolthet.” [*al-Bukhārī* 5783]
+> ”Allāh kommer inte att titta på den som har låtit sitt klädesplagg hänga ned av stolthet.” [*al-Buk̲hārī* 5783]
 
-Därför måste en muslimsk man frukta Allāh och korta sina klädesplagg, oavsett om det är en *qamīs*, en *izār*, byxor eller en rock och inte låta dem hänga nedanför anklarna. Det är bäst om de är mellan vadens mitt och vristen. Om anledningen till att de hänger ned är stolthet, då är synden ännu större. Om det beror på okunskap, i stället för stolthet, då är det avskyvärt och den som gör det är en syndare, men dennes synd innefattar inte synden i stolthet, även om den som gör det påstår att det inte görs av stolthet.
+Därför måste en muslimsk man frukta Allāh och korta sina klädesplagg, oavsett om det är en *qamīṣ*, en *izār*, byxor eller en rock och inte låta dem hänga nedanför anklarna. Det är bäst om de är mellan vadens mitt och vristen. Om anledningen till att de hänger ned är stolthet, då är synden ännu större. Om det beror på okunskap, i stället för stolthet, då är det avskyvärt och den som gör det är en syndare, men dennes synd innefattar inte synden i stolthet, även om den som gör det påstår att det inte görs av stolthet.
 
-Då varningen i *hadithen* är allmän är det inte tillåtet att vara förbiseende.
+Då varningen i *ḥadīt̲h* är allmän är det inte tillåtet att vara förbiseende.
 
 När det gäller historien om Abū Bakr as-Siddīq och hans ord till profeten: ”*Min izār hänger ned, utom om jag är försiktig med den*.” Profeten – över honom vare Allāhs frid och välsignelser – sade till honom: ”*Du är inte en av dem som gör det av stolthet*.” [^1] Detta är sanningen om den vars situation liknar Abū Bakrs när klädesplagget hänger ned utan stolthet och som tar hand om det och anstränger sig för att hålla det uppe. När det gäller den som avsiktligen låter klädesplagget hänga ned, då innefattar varningen om straff denne men inte as-Siddīq.
 
@@ -48,4 +48,4 @@ Utöver det som har nämnts är det även slöseri att bära långa hängande kl
 Allāh är Den som ger framgång och vägleder till den rätta vägen.
 
 
-[^1]: *Abū Dawūd* 4085
+[^1]: *Abū Dāwūd* 4085

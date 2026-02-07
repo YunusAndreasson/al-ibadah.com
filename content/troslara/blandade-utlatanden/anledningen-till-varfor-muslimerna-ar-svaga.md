@@ -15,7 +15,7 @@ description: >-
   fram är att när Västvärlden övergav och frigjorde s...
 ---
 
-**Fråga:** Ärade *shaykh*, somliga påstår att anledningen till muslimers bakåtsträvande är att de håller fast vid religionen. Argumentet som de lägger fram är att när Västvärlden övergav och frigjorde sig från religionen så nådde de sin nuvarande nivå av civilisation. De stöder också detta missvisande argument genom att visa på att det ofta regnar hos dem och jordbruket som de har. Vilken är er åsikt?
+**Fråga:** Ärade *s̲hayk̲h*, somliga påstår att anledningen till muslimers bakåtsträvande är att de håller fast vid religionen. Argumentet som de lägger fram är att när Västvärlden övergav och frigjorde sig från religionen så nådde de sin nuvarande nivå av civilisation. De stöder också detta missvisande argument genom att visa på att det ofta regnar hos dem och jordbruket som de har. Vilken är er åsikt?
 
 **Svar:** Sådant kommer från någon vars tro är förlorad eller svag, som är okunnig inom historia och som inte vet något om orsakerna till varför man får Allāhs hjälp.
 
@@ -56,5 +56,5 @@ Jag ber Allāh, för den som denna fråga kom ifrån, att Han vägleder och ger 
 Han är den Givmilde, den Vänlige.
 
 
-[^1]: *al-Bukhārī* i kapitlet som skapelsen
-[^2]: *al-Bukhārī* 2428 och *Muslim* 1479
+[^1]: *al-Buk̲hārī* i kapitlet som skapelsen
+[^2]: *al-Buk̲hārī* 2428 och *Muslim* 1479

@@ -7,7 +7,7 @@ source: >-
   Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - 'Shirk [Att sätta något vid Allāhs sida]'
+  - Avgudadyrkan
 original_id: 1163
 description: >-
   Fråga: Vilken sorts shirk begick månggudadyrkarna som profetens – över honom
@@ -15,19 +15,19 @@ description: >-
   månggudadyrkarna som profeten – över honom var...
 ---
 
-**Fråga:** Vilken sorts *shirk* begick månggudadyrkarna som profetens – över honom vare Allāhs frid och välsignelser – sändes till?
+**Fråga:** Vilken sorts *s̲hirk* begick månggudadyrkarna som profetens – över honom vare Allāhs frid och välsignelser – sändes till?
 
-**Svar:** Den *shirk* månggudadyrkarna som profeten – över honom vare Allāhs frid och välsignelser – sändes till [begick] var inte *shirk* i *rububiyyah*. Den ädla Koranen bevisar ju att de endast begick *shirk* i dyrkan.
+**Svar:** Den *s̲hirk* månggudadyrkarna som profeten – över honom vare Allāhs frid och välsignelser – sändes till [begick] var inte *s̲hirk* i *rububiyyah*. Den ädla Koranen bevisar ju att de endast begick *s̲hirk* i dyrkan.
 
-När det gällde *rububiyyah* brukade de tro att enbart Allāh är Herren, att Han svarar åkallan från den förtryckte, att det är Han som hindrar ont och liknande ting som Allāh har nämnt att de bekräftade oinskränkbarheten i Allāhs herrskap. Men de satte upp medhjälpare i dyrkan när de dyrkade gudomer jämsides med Allāh, och detta är en sorts *shirk* som tar en person utanför islam.
+När det gällde *rububiyyah* brukade de tro att enbart Allāh är Herren, att Han svarar åkallan från den förtryckte, att det är Han som hindrar ont och liknande ting som Allāh har nämnt att de bekräftade oinskränkbarheten i Allāhs herrskap. Men de satte upp medhjälpare i dyrkan när de dyrkade gudomer jämsides med Allāh, och detta är en sorts *s̲hirk* som tar en person utanför islam.
 
-Detta beror på att *tawhīd* betyder, med anledning av vad som förstås från ordet, att man bekräftar enheten i något och Allāh den Välsignades, den Upphöjdes har rättigheter som enbart måste bekräftas för Honom. Rättigheterna kan delas in i tre kategorier:
+Detta beror på att *tawḥīd* betyder, med anledning av vad som förstås från ordet, att man bekräftar enheten i något och Allāh den Välsignades, den Upphöjdes har rättigheter som enbart måste bekräftas för Honom. Rättigheterna kan delas in i tre kategorier:
 
 1. Herraväldets rättigheter,
 2. dyrkans rättigheter och
 3. namnen samt egenskapernas rättigheter.
 
-Därför har de lärde delat in *tawhīd* i tre kategorier: *tawhīd ar-rububiyyah*, *tawhīd as-asmā' was-sifāt'* och *tawhīd al-'ibadah* [*tawhīd al-uluhiyyah*].
+Därför har de lärde delat in *tawḥīd* i tre kategorier: *tawḥīd ar-rubūbiyyah*, *tawhīd as-asmā' was-sifāt'* och *tawhīd al-'ibadah* [*tawḥīd al-ulūhiyyah*].
 
 Månggudadyrkarna brukade dyrka andra jämsides med Allāh. Han den Välsignades, den Upphöjdes har sagt:
 
@@ -45,7 +45,7 @@ I sura *al-Ikhlas* säger Allāh den Upphöjde:
 
 > "Säg: 'Ni som förnekar sanningen! Jag dyrkar inte vad ni dyrkar. Inte heller dyrkar ni vad jag dyrkar. Och jag kommer aldrig att dyrka vad ni dyrkar, och ni kommer heller aldrig att dyrka vad jag dyrkar. Ni har er tro - och jag har min tro!" [Koranen 109]
 
-Och när jag säger sura *al-Ikhlas* avser jag *ikhlas* i handlingar, för detta är suran om *ikhlas* när det gäller handlingar, även om den kallas för sura *al-Kafirūn*. Precis som en sura om *ikhlas* i handlingar som sura: "Säg: 'Han är Gud - En, Gud." [^1] är det en sura om *ikhlas* i kunskap och tro.
+Och när jag säger sura *al-Ikhlas* avser jag *ik̲hlāṣ* i handlingar, för detta är suran om *ik̲hlāṣ* när det gäller handlingar, även om den kallas för sura *al-Kafirūn*. Precis som en sura om *ik̲hlāṣ* i handlingar som sura: "Säg: 'Han är Gud - En, Gud." [^1] är det en sura om *ik̲hlāṣ* i kunskap och tro.
 
 Och Allāh är Beviljaren av framgång.
 

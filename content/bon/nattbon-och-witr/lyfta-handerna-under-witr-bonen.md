@@ -4,7 +4,7 @@ author: Ibn ´Abdullāh Ibn Bāz
 source: Fatāwa al-Marah
 categories:
   - Bön (Salāh)
-  - Nattbön och witr
+  - Nattbön
 original_id: 581
 description: >-
   Fråga: Är det tillåtet att lyfta händerna under witr -bönen? Svar: Det är

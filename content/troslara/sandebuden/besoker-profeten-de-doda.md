@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Att profeten, eller någon annan som har återvänt till sin Herre, gör besök är något som tillhör det som är dolt för människor[^1]. Vi känner inte till något utöver det som har uppenbarats och förmedlats till Hans skapelser. Därför ska ingen fördjupa sig i detta ämne, om det som är dolt för människor[^1], utom enligt de uppenbarade texterna [Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*].
 
-Varken i Koranen eller i *ahādīth* finns bevis för att han besöker de döda, varken personligen eller som en avbild. Han kommer endast att förena sig med människorna under Återuppståndelsens Dag, när de ber honom medla för dem inför deras Herre för att undsätta dem från den situation som de befinner sig i. Det som har rapporterats om honom gäller enbart Uppståndelsens Dag.
+Varken i Koranen eller i *aḥādīt̲h* finns bevis för att han besöker de döda, varken personligen eller som en avbild. Han kommer endast att förena sig med människorna under Återuppståndelsens Dag, när de ber honom medla för dem inför deras Herre för att undsätta dem från den situation som de befinner sig i. Det som har rapporterats om honom gäller enbart Uppståndelsens Dag.
 
 Och Allāh ger all framgång.
 

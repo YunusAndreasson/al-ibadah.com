@@ -15,7 +15,7 @@ description: >-
   fortfarande på samma sjukhus. Därefter flyttades ...
 ---
 
-**Fråga:** Jag blev sjuk och det var plågsamt. Min mor tog mig till sjukhuset i Mecka. När jag hade lagts in på sjukhuset gick två *ramadan* och jag var fortfarande på samma sjukhus. Därefter flyttades jag till Riyadh och jag blev inlagd på sjukhus en andra gång. *Ramadan* kom och jag mådde bättre än innan så jag fastade. Inget återstod utom de två första månaderna [av fasta]. Frågan är: Är jag skyldig att fasta för dessa två månader i vetskap om att jag då fastar tre dagar varje månad eller är jag skyldig att ge till välgörenhet? […]
+**Fråga:** Jag blev sjuk och det var plågsamt. Min mor tog mig till sjukhuset i Mecka. När jag hade lagts in på sjukhuset gick två *ramaḍān* och jag var fortfarande på samma sjukhus. Därefter flyttades jag till Riyadh och jag blev inlagd på sjukhus en andra gång. *ramaḍān* kom och jag mådde bättre än innan så jag fastade. Inget återstod utom de två första månaderna [av fasta]. Frågan är: Är jag skyldig att fasta för dessa två månader i vetskap om att jag då fastar tre dagar varje månad eller är jag skyldig att ge till välgörenhet? […]
 
 **Svar:** Frågeställaren måste ta igen fastan från de båda omnämnda månaderna. Detta beror på den allmänna innebörden av Allāhs den Upphöjdes ord: "*Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarande antal dagar*." [^1]
 

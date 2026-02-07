@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 150 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - Ihrām-förbud
+  - Förbud i helgtillståndet
 original_id: 778
 description: >-
   Fråga: Jag utförde den obligatoriska vallfärden och under en natt i Mina hade
@@ -14,8 +14,8 @@ description: >-
   som bär ihrām och har en våt dröm un...
 ---
 
-**Fråga:** Jag utförde den obligatoriska vallfärden och under en natt i *Mina* hade jag en våt dröm och jag kunde inte ta ett bad. Har jag då syndat?
+**Fråga:** Jag utförde den obligatoriska vallfärden och under en natt i *Minā* hade jag en våt dröm och jag kunde inte ta ett bad. Har jag då syndat?
 
-**Svar:** Den som bär *ihrām* och har en våt dröm under vallfärden eller *´umrah*, det har ingen inverkan på dem. Därför blir de inte ogiltiga. Inträffar detta bör denne, när denne har vaknat och ser sperma, ta ett fullständigt bad som efter sexuell orenhet. Det finns ingen försoningslösen då en våt dröm inte sker med vilje.
+**Svar:** Den som bär *iḥrām* och har en våt dröm under vallfärden eller *´umrah*, det har ingen inverkan på dem. Därför blir de inte ogiltiga. Inträffar detta bör denne, när denne har vaknat och ser sperma, ta ett fullständigt bad som efter sexuell orenhet. Det finns ingen försoningslösen då en våt dröm inte sker med vilje.
 
 

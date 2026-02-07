@@ -20,7 +20,7 @@ Sedan finns det dem som bara hänger upp dessa verser som en påminnelse för at
 
 **Svar:** När syftet i vad frågeställaren har nämnt är att påminna folket och att lära dem vad som är nyttigt, då är det ingen fara. Är syftet att dra till sig välsignelser eller att stöta bort djävulen och *jinn*, då känner jag inte till någon grund för detta i den islamiska lagen.
 
-Det samma gäller att lägga *mushaf* i bilen för att söka välsignelser. För detta saknas grund och det har inte tillåtits. Men om man lägger en Koran i sin bil så att medpassagerare ska kunna recitera från den då är detta utan tvekan något bra som inte skadar.
+Det samma gäller att lägga *muṣḥaf* i bilen för att söka välsignelser. För detta saknas grund och det har inte tillåtits. Men om man lägger en Koran i sin bil så att medpassagerare ska kunna recitera från den då är detta utan tvekan något bra som inte skadar.
 
 Och hos Allāh finns medlen till att göra vad som är rätt.
 

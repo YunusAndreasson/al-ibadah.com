@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 97 s. ISBN saknas
 categories:
   - Renhet (Tahārah)
-  - 'Ghusl [Den stora tvagningen]'
+  - Den stora tvagningen
 original_id: 166
 description: >-
   Fråga: Jag hade intim samvaro och efter det lade jag mig för att sova. Det
@@ -20,9 +20,9 @@ description: >-
 
 'Umar – må Allāh vara nöjd med honom – har sagt: "*Allāhs sändebud! Får någon av oss sova i den stora rituella orenheten*?" Han svarade: "*Ja, om denne tvagar sig*."
 
-Därmed är det inte en synd att sova innan *ghusl* även om man inte har tvagat sig. Anledningen är att det har rapporterats att profeten – över honom vare Allāhs frid och välsignelser – ibland brukade sova utan att tvaga sig då han befann sig i den stora rituella orenheten.
+Därmed är det inte en synd att sova innan *g̲husl* även om man inte har tvagat sig. Anledningen är att det har rapporterats att profeten – över honom vare Allāhs frid och välsignelser – ibland brukade sova utan att tvaga sig då han befann sig i den stora rituella orenheten.
 
-Men det är ogillat att inte tvaga sig innan man sover. Det är ju så att tvagningen minskar *janābah* [man är inte lika oren]. Gör man *ghusl* innan man sover så är det bäst.
+Men det är ogillat att inte tvaga sig innan man sover. Det är ju så att tvagningen minskar *janābah* [man är inte lika oren]. Gör man *g̲husl* innan man sover så är det bäst.
 
 Och Allāh vet bäst.
 

@@ -15,7 +15,7 @@ description: >-
   saker? Svar: Denna fråga är mycket vik...
 ---
 
-**Fråga:** Vilket är utlåtandet om någon som dyrkar gravar genom att göra *tawāf* runt dem, åkalla dem som har begravts i dem, svär eder vid dem och liknande saker?
+**Fråga:** Vilket är utlåtandet om någon som dyrkar gravar genom att göra *ṭawāf* runt dem, åkalla dem som har begravts i dem, svär eder vid dem och liknande saker?
 
 **Svar:** Denna fråga är mycket viktig och den kräver med Allāhs den Allsmäktiges hjälp ett detaljerat svar. Vi säger att de som har begravts är av två kategorier:
 
@@ -25,7 +25,7 @@ Någon som avled som muslim och som folket prisade. Denne hoppas vi får gott, m
 
 Denne är dock själv inte till någon mer nytta. Denne är en död kropp som varken kan skydda sig själv eller någon annan mot ont. Likaså kan denne varken hjälpa sig själv eller andra. I stället behöver denne tjänster från bröderna, men denne kan själv inte ge dem någonting.
 
-Någon vars handlingar som har lett denne till synder som tar denne ur islam. Detta kan vara sådana som påstår att de är *awliyā'*, att de har kunskap om det som är dolt för människor[^1], att de kan bota de sjuka och att de kan hjälpa människor genom okända eller otillåtna metoder som inte är enligt den islamiska lagen. Det är inte tillåtet att åkalla för dem som har avlidit som icke-troende. Och likaså är det inte tillåtet att visa kärlek eller respekt för dem. Detta enligt Allāhs den Upphöjdes ord:
+Någon vars handlingar som har lett denne till synder som tar denne ur islam. Detta kan vara sådana som påstår att de är *awliyā’*, att de har kunskap om det som är dolt för människor[^1], att de kan bota de sjuka och att de kan hjälpa människor genom okända eller otillåtna metoder som inte är enligt den islamiska lagen. Det är inte tillåtet att åkalla för dem som har avlidit som icke-troende. Och likaså är det inte tillåtet att visa kärlek eller respekt för dem. Detta enligt Allāhs den Upphöjdes ord:
 
 > ”Det anstår inte profeten och inte heller de troende att be om syndernas förlåtelse för avgudadyrkare, även om de hörde till deras nära anförvanter, sedan det klargjorts för dem att elden är sådana [människors] arvedel. Och Abrahams bön att hans far skulle förlåtas var ingenting annat än uppfyllelsen av ett löfte till denne, men när det blev klart för honom att fadern var en fiende till Gud, tog han avstånd från honom. Abraham var en ömsint och fördragsam [människa].” [Koranen 9:113 – 114]
 
@@ -41,9 +41,9 @@ Jag råder även dem att inte följa någon annan i religiösa frågor än Allā
 
 > ”Säg [Muḥammad]: ’Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
 
-Muslimer måste noga studera dem som påstår sig vara *awliyā'* med Koranen och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* som måttstock. Om det som sker är enligt Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* finns det hopp om att denne är en av Allāhs *awliyā'*. Men om det [som sker] motsäger sig Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* är denne inte en av Allāhs *awliyā'*.
+Muslimer måste noga studera dem som påstår sig vara *awliyā’* med Koranen och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* som måttstock. Om det som sker är enligt Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* finns det hopp om att denne är en av Allāhs *awliyā’*. Men om det [som sker] motsäger sig Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* är denne inte en av Allāhs *awliyā’*.
 
-I Sin skrift har Allāh nämnt en rättvis metod som *awliyā'* kan kännas igen genom när Han säger:
+I Sin skrift har Allāh nämnt en rättvis metod som *awliyā’* kan kännas igen genom när Han säger:
 
 > ”Helt visst ska de som är nära Gud aldrig känna fruktan och ingen sorg ska tynga dem, de som tror och ständigt har Honom för ögonen.” [Koranen 10:62 – 63]
 
@@ -69,7 +69,7 @@ De tänkte, planerade, konspirerade och sade sedan: "Låt oss göra ett nät och
 
 Se hur Allāh gjorde det lätt för dem att fiska den dag som det var förbjudet men de – må Allāh skydda oss – var inte tålmodiga och därmed fullbordade de denna strategi för att ta sig förbi Allāhs förbud.
 
-Se sedan vad som hände profetens – över honom vare Allāhs frid och välsignelser – följeslagare. Allāh den Upphöjde prövade dem när de inte fick jaga eftersom de befann sig i *ihrām*. Villebråd fanns dock tillgängligt men de vågade inte jaga. Allāh den Upphöjde säger:
+Se sedan vad som hände profetens – över honom vare Allāhs frid och välsignelser – följeslagare. Allāh den Upphöjde prövade dem när de inte fick jaga eftersom de befann sig i *iḥrām*. Villebråd fanns dock tillgängligt men de vågade inte jaga. Allāh den Upphöjde säger:
 
 > ”Troende! Gud ska sätta er på prov genom den vilt som ni under jakt kan fånga med era händer och fälla med era spjut, så att [ni får visa] Gud vem som fruktar Honom, trots att Han inte kan ses eller förnimmas. Den som hädanefter bryter mot [detta påbud] har ett plågsamt straff att vänta.” [Koranen 5:94]
 

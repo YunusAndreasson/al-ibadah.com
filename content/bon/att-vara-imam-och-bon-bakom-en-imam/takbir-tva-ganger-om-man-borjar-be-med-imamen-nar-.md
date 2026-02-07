@@ -20,7 +20,7 @@ description: >-
 
 När man har gjort det kommer man att befinna sig i en av de tre följande situationerna:
 
-1. Att man är säker på att man nådde bugningen innan imamen reste sig från den. I detta fall har man hunnit med denna bönecykel och det krävs då inte att man reciterar sura *al-Fātihah*.
+1. Att man är säker på att man nådde bugningen innan imamen reste sig från den. I detta fall har man hunnit med denna bönecykel och det krävs då inte att man reciterar sura *al-Fātiḥah*.
 2. Att man är säker på att imamen har rest sig upp från bugningen innan man nådde den. I detta fall har man missat denna bönecykel och man måste ta igen den.
 3. Att man är osäker på om man hann med imamen medan denne bugade eller om imamen hade rest sig upp före. I detta fall bör man utgå från det sannolikaste. Verkar det vara troligare att man gjorde bugningen med imamen, då har man hunnit med denna bönecykel. Verkar det vara troligare att man inte hann med imamen i bugningen, då har man missat denna bönecykel.
 
@@ -33,4 +33,4 @@ Det finns ännu en fråga som jag skulle vilja diskutera här. Många som går i
 Det finns människor som när de går in i moskén medan imamen bugar skyndar sig på det mest opassande sätt. Profeten – över honom vare Allāhs frid och välsignelser – har förbjudit detta genom att säga: "*När ni kommer till bönen, gå och ni måste vara lugna och samlade. Och det som ni hinner med, be det; och det som ni missar, ta igen det*." [^1]
 
 
-[^1]: *al-Bukhārī* 636
+[^1]: *al-Buk̲hārī* 636

@@ -4,7 +4,7 @@ author: Ibn ´Abdullāh Ibn Bāz
 source: 'Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh Ibn Bāz, 10/113.'
 categories:
   - Renhet (Tahārah)
-  - Mash över sockar
+  - Strykning över strumpor
 original_id: 548
 description: >-
   Fråga: Jag ser ofta folk stryka över sina strumpor när de tvagar sig, till och

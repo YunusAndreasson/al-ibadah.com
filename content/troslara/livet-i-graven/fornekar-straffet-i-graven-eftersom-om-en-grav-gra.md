@@ -31,4 +31,4 @@ I frågor som dessa måste man säga: Vi hör, lyder och tror.
 
 [^2]: Koranen 40:46
 [^3]: *Muslim* 2867
-[^4]: *al-Bukhārī* 1374 och *Muslim* 2870
+[^4]: *al-Buk̲hārī* 1374 och *Muslim* 2870

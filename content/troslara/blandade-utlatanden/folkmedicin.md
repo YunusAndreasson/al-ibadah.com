@@ -16,9 +16,9 @@ description: >-
 
 **Fråga:** Vilken är islams inställning till dem som använder folkmedicin?
 
-**Svar:** I en *hadīth* rapporteras det:
+**Svar:** I en *ḥadīt̲h* rapporteras det:
 
-> ”Allāh har inte sänt ned någon sjukdom utan att Han har sänt ned ett botemedel mot den. Den som känner till det, känner till det och den som inte känner till det, känner inte till det.” [*al-Bukhārī*, 5678]
+> ”Allāh har inte sänt ned någon sjukdom utan att Han har sänt ned ett botemedel mot den. Den som känner till det, känner till det och den som inte känner till det, känner inte till det.” [*al-Buk̲hārī*, 5678]
 
 De som använder folkmedicin har lärt sig dessa mediciner genom erfarenhet och från av böcker som har sammanställts av de lärda som har haft kunskap om detta. Detta är en av de många vetenskaperna från profeternas tid. Somliga har specialiserat sig och lärt sig om sammanställning av mediciner samt varje medicins egenskap och användningsområde. De tror att detta är ett sätt för att bota den sjuke och att det är Allāh som åstadkommer resultatet.
 

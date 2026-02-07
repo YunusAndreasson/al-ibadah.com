@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Får en kvinna som har blödningar efter graviditeten be och fasta om hon blir ren innan de 40 dagarna [har gått]?
 
-**Svar:** Om en kvinna med blödningar efter graviditeten blir ren innan de 40 dagarna [har gått] så måste hon göra *ghusl*, be och fasta under *ramadan*. Hennes man får också ha intim samvaro med henne. Detta enligt konsensus som finns bland de lärde. Det finns ingen angiven minsta tid för blödningar efter graviditeten.
+**Svar:** Om en kvinna med blödningar efter graviditeten blir ren innan de 40 dagarna [har gått] så måste hon göra *g̲husl*, be och fasta under *ramaḍān*. Hennes man får också ha intim samvaro med henne. Detta enligt konsensus som finns bland de lärde. Det finns ingen angiven minsta tid för blödningar efter graviditeten.
 
 Och Allāh är Den som ger framgång.
 

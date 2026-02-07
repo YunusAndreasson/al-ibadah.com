@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 199 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - Tawāf och sa’ī
+  - Rundvandring och löpning
 original_id: 821
 description: >-
   Fråga: En man kom med sin mor för att hon skulle få kyssa den Svarta Stenen
@@ -20,9 +20,9 @@ description: >-
 
 Att kyssa den Svarta Stenen är *sunnah* men det är inte en av vallfärdens pelare, ej heller är det en skyldighet. Den som kan röra och kyssa den utan att det skadar någon annan kan göra det och det är rekommenderat. Om man inte kan röra och kyssa den, då rör man den med en stav och kysser den [staven]. Om man inte kan röra den med sin hand eller med en stav, då pekar man mot den när man passerar förbi och man säger: "*Allāhu akbar*". Detta är *sunnah*.
 
-Varken den som utför *tawāf* eller soldaten för använda denna muta. De måste båda ångra sig inför Allāh.
+Varken den som utför *ṭawāf* eller soldaten för använda denna muta. De måste båda ångra sig inför Allāh.
 
 Och framgång kommer från Allāh. Må Allāh sända böner av välsignelser och frid över vår profet Muḥammad, hans familj och följeslagare.
 
-[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramadan* 1428).
+[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramaḍān* 1428).
 

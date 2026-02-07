@@ -20,5 +20,5 @@ description: 'Fråga: Är det tillåtet att säga ” Audhū Billāhi minash-sha
 
 Och i en annan version:
 
-> ”Den som introducerar något i religionen, som inte är ifrån den, kommer att få det avvisat.” [*Sahīh al-Bukhārī* 2697 och *Sahīh Muslim* 1718]
+> ”Den som introducerar något i religionen, som inte är ifrån den, kommer att få det avvisat.” [*Ṣaḥīḥ al-Buk̲hārī* 2697 och *Ṣaḥīḥ Muslim* 1718]
 

@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Det är inte tillåtet att jobba för banker som använder ränta då det innebär att man hjälper dem med synd och överträdelse. Allāh har sagt: ”*Samarbeta för att befrämja fromhet och gudsfruktan, och slut er inte samman för att befrämja synd och fiendskap*.” [^1]
 
-Det har autentiskt återberättats från profeten – över honom vare Allāhs frid och välsignelser – att han har förbannat den som använder, ger, administrerar och bevittnar ränta. Efter att han gjort detta sade han: ”*De är likvärdiga [i synd]*.” [^2] Detta har Muslim återgivit i sin *Sahīh*.
+Det har autentiskt återberättats från profeten – över honom vare Allāhs frid och välsignelser – att han har förbannat den som använder, ger, administrerar och bevittnar ränta. Efter att han gjort detta sade han: ”*De är likvärdiga [i synd]*.” [^2] Detta har Muslim återgivit i sin *Ṣaḥīḥ*.
 
 
 [^1]: Koranen 5:2

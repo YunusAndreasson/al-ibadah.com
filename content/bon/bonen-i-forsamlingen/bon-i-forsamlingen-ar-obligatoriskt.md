@@ -20,13 +20,13 @@ description: >-
 
 Och profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om någon av er såg något avskyvärt, då bör han korrigera det med sin hand; och om han inte har möjlighet att göra det, då med sina ord; och om han inte har möjlighet att göra detta, då i hans hjärta – och detta är den svagaste formen av tro*.” [^2]
 
-Han har även sagt: ”*Religionen är att ge råd*.” Det sades då: ”*Till vem? Allāhs sändebud.*” Han svarade: ”*För Allāh, Hans skrift, Hans sändebud, muslimernas ledare och muslimerna i allmänhet*.” [^3] Båda dessa *ahādīth* återger Muslim i sin *Sahīh*.
+Han har även sagt: ”*Religionen är att ge råd*.” Det sades då: ”*Till vem? Allāhs sändebud.*” Han svarade: ”*För Allāh, Hans skrift, Hans sändebud, muslimernas ledare och muslimerna i allmänhet*.” [^3] Båda dessa *aḥādīt̲h* återger Muslim i sin *Ṣaḥīḥ*.
 
-Det råder inget tvivel om att det är ett ont beteende om man utan ursäkt överger bönen i församlingen. Detta bör fördömas. Enligt ett flertal *ahādīth* måste män be de fem bönerna i moskén. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som hör böneutropet utan att besvara det finns det ingen bön för honom, utom om han har en ursäkt [som sjukdom eller resa]*.” [^4]
+Det råder inget tvivel om att det är ett ont beteende om man utan ursäkt överger bönen i församlingen. Detta bör fördömas. Enligt ett flertal *aḥādīt̲h* måste män be de fem bönerna i moskén. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som hör böneutropet utan att besvara det finns det ingen bön för honom, utom om han har en ursäkt [som sjukdom eller resa]*.” [^4]
 
 En blind man sade till profeten: ”*Allāhs sändebud! Jag har ingen guide som kan vägleda mig till moskén. Får jag be i mitt hem?*” Allāhs sändebud – över honom vare Allāhs frid och välsignelser – frågade: ”*Hör du böneutropet?*” Han svarade ”*Ja*.” Han svarade: ”*Besvara det då*.” [^5]
 
-*Ahādīth* med samma betydelse är många. Därför är detta en skyldighet för varje muslim. När hans bror fördömer något felaktigt beteende, då bör han inte bli arg och inte svara med något annat än goda ord. Sannerligen måste han tacka och be att Allāh belönar denne med gott. Denne har ju bjudit in honom till att lyda Allāh och påmint honom om en skyldighet.
+*aḥādīt̲h* med samma betydelse är många. Därför är detta en skyldighet för varje muslim. När hans bror fördömer något felaktigt beteende, då bör han inte bli arg och inte svara med något annat än goda ord. Sannerligen måste han tacka och be att Allāh belönar denne med gott. Denne har ju bjudit in honom till att lyda Allāh och påmint honom om en skyldighet.
 
 Det är då inte tillåtet att bete sig arrogant mot den som har bjudit in honom till sanningen. Allāh har sagt: ”*Och när någon uppmanar honom att frukta Gud, driver hans högmod honom ut i ytterligare synd. Helvetet är gott nog för honom – detta eländiga vilorum!*” [^6]
 
@@ -34,6 +34,6 @@ Det är då inte tillåtet att bete sig arrogant mot den som har bjudit in honom
 [^1]: Koranen 9:71
 [^2]: *Muslim* 49
 [^3]: *Muslim* 55
-[^4]: *Ibn Mājah* 293, *ad-Daraqutni* 1:420 och *al-Hakim* 1:245
+[^4]: *Ibn Mājah* 293, *ad-Dāraquṭnī* 1:420 och *al-Ḥākim* 1:245
 [^5]: *Muslim* 653
 [^6]: Koranen 2:206

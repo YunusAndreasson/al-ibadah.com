@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Pilgrimsfärden till Allāhs heliga hus är en av islams pelare och viktigaste fundament. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Islam är byggt på fem pelare: vittnesmålet om att det inte finns någon gud utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av den obligatoriska bönen, betalning av allmosa, fastan under *ramadan* och vallfärden till Allāhs Heliga Hus.”
+> ”Islam är byggt på fem pelare: vittnesmålet om att det inte finns någon gud utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av den obligatoriska bönen, betalning av allmosa, fastan under *ramaḍān* och vallfärden till Allāhs Heliga Hus.”
 
 Vallfärden är obligatorisk enligt Allāhs skrift, Hans sändebuds *sunnah* och konsensus bland muslimer. Allāh säger:
 
@@ -31,7 +31,7 @@ Den som förnekar att den är en skyldighet och som lever tillsammans med muslim
 
 Den som på grund av försummelse inte lyckas med att utföra den är i stor fara. Några av de lärda har sagt att denne är en icke-troende. Denna åsikt har berättats i en rapport från Ahmad, men den korrekta ståndpunkten är att utelämnandet av en handling inte gör någon till en icke-troende, utom när det gäller bönen.
 
-'Abd-Allāh ibn Shaqīq – som var en av *tābi'īn* – har sagt: "*Allāhs sändebuds följeslagare ansåg inte att utelämnandet av någon handling utgör otro utom bönen*." Den som har struntat i att vallfärda innan denne dör är inte en icke-troende enligt den korrekta åsikten, men denne är i stor fara.
+'Abd-Allāh ibn Shaqīq – som var en av *tābi’īn* – har sagt: "*Allāhs sändebuds följeslagare ansåg inte att utelämnandet av någon handling utgör otro utom bönen*." Den som har struntat i att vallfärda innan denne dör är inte en icke-troende enligt den korrekta åsikten, men denne är i stor fara.
 
 En muslim måste frukta Allāh och skynda sig att vallfärda så fort denne uppfyller villkoren för att den ska vara obligatoriskt. Vi måste skynda oss att utföra alla obligatoriska plikter utom när det finns bevis för motsatsen.
 
@@ -43,6 +43,6 @@ Villkoren för att vallfärden ska vara obligatoriskt är fem:
 2. Att man är vuxen. Har någon ännu inte kommit in i puberteten är vallfärden inte obligatoriskt för denne. Vallfärdar denne så räknas den som en frivillig sådan. När denne blir vuxen måste denne utföra den obligatoriska vallfärden. En vallfärd före puberteten uppfyller inte denna skyldighet.
 3. Att vara vid sunda sinnen, vilket är motsatsen till att vara galen. Den som är galen är inte skyldig att vallfärda. Pilgrimsfärden kan heller inte utföras för dennes räkning.
 4. Att vara fri. En slav är inte skyldig att vallfärda men om denne gör det räknas det som en frivillig vallfärd. Släpps slaven fri måste denne utföra den obligatoriska vallfärden. En vallfärd utförd när denne inte var fri uppfyller inte skyldigheten. Vissa lärde har sagt att om en slav vallfärdar med ägarens tillåtelse, då är detta giltigt och den behöver inte upprepas. Denna åsikt är mer korrekt.
-5. Att ha både finansiell och fysisk möjlighet. I en kvinnas fall innefattar detta att ha en *mahram*. Om hon inte har en *mahram* är hon inte skyldig att vallfärda.
+5. Att ha både finansiell och fysisk möjlighet. I en kvinnas fall innefattar detta att ha en *maḥram*. Om hon inte har en *maḥram* är hon inte skyldig att vallfärda.
 
 

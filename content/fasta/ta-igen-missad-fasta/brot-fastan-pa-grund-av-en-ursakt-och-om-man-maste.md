@@ -15,11 +15,11 @@ description: >-
   Sedan bröt han fastan tre dagar under ram...
 ---
 
-**Fråga:** En man bröt fastan under två dagar under *ramadan* år 1395 AH. Sedan kom nästa *ramadan* år 1396 AH men han hade inte tagit igen dessa båda fastedagar. Sedan bröt han fastan tre dagar under *ramadan* 1396 AH. Han tog igen dessa dagar i följd under *muharram* 1397 AH. Behöver han betala någon form av kompensation då?
+**Fråga:** En man bröt fastan under två dagar under *ramaḍān* år 1395 AH. Sedan kom nästa *ramaḍān* år 1396 AH men han hade inte tagit igen dessa båda fastedagar. Sedan bröt han fastan tre dagar under *ramaḍān* 1396 AH. Han tog igen dessa dagar i följd under *muḥarram* 1397 AH. Behöver han betala någon form av kompensation då?
 
-**Svar:** Om den som du har nämnt hade en ursäkt och bröt fastan, då krävs inget annat av honom än att han tar igen dagarna på det sätt som han har gjort. Detta beror på att Allāh har sagt: "*Men den av er som är sjuk eller på resa [ska fasta senare] under motsvarande dagar*." [^1] Om fastan bröts utan ursäkt måste han utöver att ta igen dagarna ångra sig. Detta beror på att det inte är tillåtet att bryta fastan under *ramadan* utom med en ursäkt.
+**Svar:** Om den som du har nämnt hade en ursäkt och bröt fastan, då krävs inget annat av honom än att han tar igen dagarna på det sätt som han har gjort. Detta beror på att Allāh har sagt: "*Men den av er som är sjuk eller på resa [ska fasta senare] under motsvarande dagar*." [^1] Om fastan bröts utan ursäkt måste han utöver att ta igen dagarna ångra sig. Detta beror på att det inte är tillåtet att bryta fastan under *ramaḍān* utom med en ursäkt.
 
-Det krävs ingen gottgörelse från dig för de tre dagar som du inte fastade under *ramadan* år 1396 AH. Men när det gäller de två dagar som du inte fastade under *ramadan* år 1395 AH måste du, utöver att du tar igen dagarna, ge en fattig mat för varje dag om du har skjutit upp att ta igen dem till *ramadan* 1396 AH utan en föreskriven ursäkt. Mängden mat som ska ges till varje fattig är en halv *sa'* av den mat som finns i landet.
+Det krävs ingen gottgörelse från dig för de tre dagar som du inte fastade under *ramaḍān* år 1396 AH. Men när det gäller de två dagar som du inte fastade under *ramaḍān* år 1395 AH måste du, utöver att du tar igen dagarna, ge en fattig mat för varje dag om du har skjutit upp att ta igen dem till *ramaḍān* 1396 AH utan en föreskriven ursäkt. Mängden mat som ska ges till varje fattig är en halv *ṣā´* av den mat som finns i landet.
 
 Detta gäller om du har brutit fastan genom något annat än intim samvaro. Men om du bröt fastan genom intim samvaro måste du gottgöra dig tillsammans med att du tar igen varje dag som du har brutit fastan under på grund av intim samvaro. Detta sker genom att du frisläpper en troende slav. Om du inte kan finna en troende slav att släppa fri måste du fasta två på varandra efterföljande månader. Har du inte möjlighet att göra det måste du ge 60 fattiga mat.
 

@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 78 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
-  - 'Sekter, rörelser och den rätta vägen'
+  - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 56
 description: >-
@@ -23,7 +23,7 @@ description: >-
 
 Detta var anledningen till att följeslagarna – inklusive ’Ali – var nöjda gav Abū Bakr löfte om lojalitet när profeten – över honom vare Allāhs frid och välsignelser – hade avlidit. De var eniga om att Abū Bakr var den bäste.
 
-'Abdullāh bin 'Umar har berättat att följeslagarna under profetens – över honom vare Allāhs frid och välsignelser – livstid brukade säga: ”*De bästa i detta samfund efter dess Profet är Abū Bakr, ’Umar och sedan ‘Uthmān*.” [^2] profeten – över honom vare Allāhs frid och välsignelser – godkände detta. ’Ali brukade också säga: ”*De bästa i detta samfund efter dess profet är Abū Bakr och sedan ’Umar*.” [^3] Han har även sagt: ”*Den som föredrar mig över dem ska jag prygla och anse som en baktalare*.”
+´Abdullāh bin 'Umar har berättat att följeslagarna under profetens – över honom vare Allāhs frid och välsignelser – livstid brukade säga: ”*De bästa i detta samfund efter dess Profet är Abū Bakr, ’Umar och sedan ‘Uthmān*.” [^2] profeten – över honom vare Allāhs frid och välsignelser – godkände detta. ’Ali brukade också säga: ”*De bästa i detta samfund efter dess profet är Abū Bakr och sedan ’Umar*.” [^3] Han har även sagt: ”*Den som föredrar mig över dem ska jag prygla och anse som en baktalare*.”
 
 ’Ali påstod aldrig att han var den bäste i detta samfund. Han påstod heller inte att profeten – över honom vare Allāhs frid och välsignelser – rekommenderade honom som ansvarig för kalifatet eller att följeslagarna hade tagit denna rättighet ifrån honom. När Fatimah avled gav ’Ali sitt löfte till Abū Bakr en andra gång, för att understryka det första. Han ville även bevisa för folket att han var med muslimernas sällskap och att han inte hyste någon avund mot Abū Bakr.
 
@@ -38,7 +38,7 @@ Allāh har skyddat Muḥammads samfund från att enas om falskhet. Allāhs sänd
 Det är omöjligt att den bästa och den mest hedervärda generationen i detta samfund skulle vara eniga om något falskt; vilket i detta fall är att Abū Bakrs, ’Umars och ‘Uthmāns kalifat var ogiltiga. Ingen som tror på Allāh och Återuppståndelsens Dag skulle göra ett sådant påstående och ej heller skulle någon med minsta lilla förståelse av islam göra det.
 
 
-[^1]: *al-Bukhārī* 7217
-[^2]: *al-Bukhārī* 3655
-[^3]: *al-Bukhārī* 3671
+[^1]: *al-Buk̲hārī* 7217
+[^2]: *al-Buk̲hārī* 3655
+[^3]: *al-Buk̲hārī* 3671
 [^4]: *at-Tirmithi* 2192 och *Ibn Mājah* 6

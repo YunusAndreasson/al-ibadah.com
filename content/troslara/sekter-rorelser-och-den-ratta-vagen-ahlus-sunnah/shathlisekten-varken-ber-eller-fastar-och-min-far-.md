@@ -7,7 +7,7 @@ source: >-
   (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - 'Sekter, rörelser och den rätta vägen'
+  - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 138
 description: >-
@@ -24,7 +24,7 @@ Snälla, vägled mig. Jag vet att Allāh är min Herre och att Muḥammad är Al
 
 Om jag inte lyder honom, då kommer han alltid att vara arg på mig och argumentera för att jag ska gå med i denna sekt. Ta hänsyn till att jag inte kan försörja mig själv och att det inte finns någon i familjen som kommer att stödja mig, utom min moder. Vad kan jag göra? Vänligen, vägled mig till det som kommer att göra Allāh nöjd och som kommer att leda mig bort från min faders vrede, min far som varken tror på bönen, fastan eller den sanna islamiska religionen.
 
-**Svar:** Förhåller det sig på så vis som du har beskrivit, att din far och de i sekten varken ber eller fastar och tror att deras *shaykh* är deras herre, som garanterar dem Paradiset och förlåter dem alla deras onda handlingar, då är de icke-troende.
+**Svar:** Förhåller det sig på så vis som du har beskrivit, att din far och de i sekten varken ber eller fastar och tror att deras *s̲hayk̲h* är deras herre, som garanterar dem Paradiset och förlåter dem alla deras onda handlingar, då är de icke-troende.
 
 Om din far beordrar dig att bli en av dem och förbjuder att du ber och fastar, lyd då inte honom. Det finns ingen lydnad till någon skapad varelse om det innebär olydnad mot Skaparen. Gör det som Allāh har kommenderat och håll dig borta från det som Han har förbjudit. Behandla dina föräldrar med rättvisa för att uppfylla Allāhs den Upphöjdes Ord:
 

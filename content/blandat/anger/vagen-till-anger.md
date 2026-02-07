@@ -15,13 +15,13 @@ description: >-
   många avskyvärda handlingar. Trots att j...
 ---
 
-**Fråga:** Jag är en ung man som är 19 år gammal och jag har syndat mycket mycket. Jag ber sällan i moskén, jag har aldrig fastat en hel *ramadan* och jag begår många avskyvärda handlingar. Trots att jag ofta tagit beslutet att ångra mig återvänder jag alltid till att synda.
+**Fråga:** Jag är en ung man som är 19 år gammal och jag har syndat mycket mycket. Jag ber sällan i moskén, jag har aldrig fastat en hel *ramaḍān* och jag begår många avskyvärda handlingar. Trots att jag ofta tagit beslutet att ångra mig återvänder jag alltid till att synda.
 
 Jag har två grupper av vänner och ingen av dem är utövande muslimer. Dessa är mina grannar och min broders vänner som kommer och hälsar på. Vänligen, visa mig hur jag ska komma närmare Allāh den Allsmäktige och längre från att synda.
 
 **Svar:** Allāh den Högste säger:
 
-> ”Säg [Muḥammad] till *Mina* tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [*Mina* bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet.” [Koranen 39:53]
+> ”Säg [Muḥammad] till *Minā* tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [*Minā* bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet.” [Koranen 39:53]
 
 De lärde är ense om att denna vers uppenbarades för dem som ångrar sig. Allāh den Allsmäktige förlåter alla synder från en person som ångrar sig uppriktigt. Detta grundat på denna förra versen samt:
 
@@ -45,14 +45,14 @@ För att uppnå ånger bör du be Allāh den Allsmäktige att Han vägleder dig,
 
 > ”Er Herre säger: ’Be till Mig, så ska Jag besvara er [bön]. De som håller sig för goda för att tjäna Mig ska gå med böjt huvud in i helvetet.” [40:60]
 
-> ”När *Mina* tjänare frågar dig om Mig [svara då att] Jag är nära; Jag besvarar den bedjandes bön, när han ber till Mig.” [Koranen 2:186]
+> ”När *Minā* tjänare frågar dig om Mig [svara då att] Jag är nära; Jag besvarar den bedjandes bön, när han ber till Mig.” [Koranen 2:186]
 
 En annan faktor som inte enbart kan ha inverkan på din ånger, utan även på din förmåga att efteråt hålla dig stadig, är de människor du umgås med. Allāhs sändebud har sagt:
 
-> ”En person håller sig till sina närmsta vänners religion, så låt var och en av er se vilka han tar som nära vänner.” [*at-Tirmithi* 2378 och *Ahmad* 2:303, 334]
+> ”En person håller sig till sina närmsta vänners religion, så låt var och en av er se vilka han tar som nära vänner.” [*at-Tirmithi* 2378 och *Aḥmad* 2:303, 334]
 
 Han har även sagt:
 
-> ”Exemplet med en rättskaffens följeslagare är likt det med en parfymförsäljare: Antingen ger han parfym till dig som en gåva, du köper parfym från honom eller finner du en väldoft strömma från honom. Exemplet med en ond följeslagare är likt den med en smed: Antingen bränner han dina kläder eller finner du en vedervärdig odör komma från honom.” [*al-Bukhārī* 5534 och *Muslim* 2628]
+> ”Exemplet med en rättskaffens följeslagare är likt det med en parfymförsäljare: Antingen ger han parfym till dig som en gåva, du köper parfym från honom eller finner du en väldoft strömma från honom. Exemplet med en ond följeslagare är likt den med en smed: Antingen bränner han dina kläder eller finner du en vedervärdig odör komma från honom.” [*al-Buk̲hārī* 5534 och *Muslim* 2628]
 
 

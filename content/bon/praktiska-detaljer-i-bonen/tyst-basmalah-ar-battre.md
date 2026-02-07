@@ -10,18 +10,18 @@ categories:
 original_id: 263
 description: >-
   Fråga: Vilket är utlåtandet om att recitera ” Bismillāh ” högt i sura
-  *al-Fātihah* och andra suror? Svar: De lärde är oense. Några anser att det är
+  *al-Fātiḥah* och andra suror? Svar: De lärde är oense. Några anser att det är
   bäst att recitera högt, medan andra säger att ...
 ---
 
-**Fråga:** Vilket är utlåtandet om att recitera ”*Bismillāh*” högt i sura *al-Fātihah* och andra suror?
+**Fråga:** Vilket är utlåtandet om att recitera ”*Bismillāh*” högt i sura *al-Fātiḥah* och andra suror?
 
-**Svar:** De lärde är oense. Några anser att det är bäst att recitera högt, medan andra säger att det är ogillat och att det är bättre att recitera lågt. Den sistnämnda åsikten är den starkaste och mest föredragna. Anledningen är en *hadīth* i vilken Anas säger: ”Profeten, Abū Bakr och ´Umar brukade inte säga: *'Bismillah[^1] ir-Rahmānir-Rahīm*' högt.” [^2]
+**Svar:** De lärde är oense. Några anser att det är bäst att recitera högt, medan andra säger att det är ogillat och att det är bättre att recitera lågt. Den sistnämnda åsikten är den starkaste och mest föredragna. Anledningen är en *ḥadīt̲h* i vilken Anas säger: ”Profeten, Abū Bakr och ´Umar brukade inte säga: *'Bismillah[^1] ir-Rahmānir-Rahīm*' högt.” [^2]
 
-Ett flertal andra *ahādīth* med samma innebörd har rapporterats. I några *ahādīth* rapporteras att det är fördelaktigt att säga det högt. Dessa *ahādīth* är dock svaga. Vi känner inte till några klara *ahādīth* som stödjer att man ska säga ”*Bismillāh*” högt.
+Ett flertal andra *aḥādīt̲h* med samma innebörd har rapporterats. I några *aḥādīt̲h* rapporteras att det är fördelaktigt att säga det högt. Dessa *aḥādīt̲h* är dock svaga. Vi känner inte till några klara *aḥādīt̲h* som stödjer att man ska säga ”*Bismillāh*” högt.
 
-Det finns dock utrymme för flexibilitet och detta ska inte leda till dispyter. Om imamen ibland reciterar högt för att Allāhs tjänare ska höra honom, då finns det ingen invändan mot det även om grundregeln är att detta ska läsas tyst. Allt enligt autentiska *ahādīth*.
+Det finns dock utrymme för flexibilitet och detta ska inte leda till dispyter. Om imamen ibland reciterar högt för att Allāhs tjänare ska höra honom, då finns det ingen invändan mot det även om grundregeln är att detta ska läsas tyst. Allt enligt autentiska *aḥādīt̲h*.
 
 [^1]: I Guds namn.
 
-[^2]: *an-Nasā’i* 907-909 och *Ibn Khuzaymah* 496, 497
+[^2]: *an-Nasā’ī* 907-909 och *Ibn K̲huzaymah* 496, 497

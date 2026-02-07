@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 62 s. ISBN saknas
 categories:
   - Renhet (Tahārah)
-  - 'Ghusl [Den stora tvagningen]'
+  - Den stora tvagningen
 original_id: 1427
 description: >-
   Fråga: Ibland kommer jag ihåg erotiska drömmar när jag vaknar, men jag ser
@@ -14,15 +14,15 @@ description: >-
   utlåtande. Må Allāh belöna dig. Svar: Den som...
 ---
 
-**Fråga:** Ibland kommer jag ihåg erotiska drömmar när jag vaknar, men jag ser inga spår av utlösning. Måste jag göra *ghusl* då? Vänligen, ge mig ett utlåtande. Må Allāh belöna dig.
+**Fråga:** Ibland kommer jag ihåg erotiska drömmar när jag vaknar, men jag ser inga spår av utlösning. Måste jag göra *g̲husl* då? Vänligen, ge mig ett utlåtande. Må Allāh belöna dig.
 
-**Svar:** Den som har haft en erotisk dröm behöver inte göra *ghusl* utom om denne finner vätska som är sperma. Detta grundas på vad profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Vatten kommer endast från vatten*." [^2]
+**Svar:** Den som har haft en erotisk dröm behöver inte göra *g̲husl* utom om denne finner vätska som är sperma. Detta grundas på vad profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Vatten kommer endast från vatten*." [^2]
 
-Innebörden är att *ghusl*-vatten krävs för att rena spermavätskan. Enligt de lärde avser denna *hadīth* fall där någon har haft en våt dröm.
+Innebörden är att *g̲husl*-vatten krävs för att rena spermavätskan. Enligt de lärde avser denna *ḥadīt̲h* fall där någon har haft en våt dröm.
 
-Men om han har intim samvaro med sin fru, då måste han göra *ghusl* även om han inte får utlösning. Detta enligt en *hadīth* där profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Om en mans könsdelar har kontakt med en kvinnas könsdelar så krävs ghusl*[^1].” [^3] Och han har även sagt: ”*Om han sitter mellan hennes fyra lemmar och kämpar med henne, då måste han utföra ghusl*[^1].” [^4] I Muslims version är ordalydelsen: ”… *även om han inte fick utlösning*.”
+Men om han har intim samvaro med sin fru, då måste han göra *g̲husl* även om han inte får utlösning. Detta enligt en *ḥadīt̲h* där profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Om en mans könsdelar har kontakt med en kvinnas könsdelar så krävs ghusl*[^1].” [^3] Och han har även sagt: ”*Om han sitter mellan hennes fyra lemmar och kämpar med henne, då måste han utföra ghusl*[^1].” [^4] I Muslims version är ordalydelsen: ”… *även om han inte fick utlösning*.”
 
-I *Sahīh al-Bukhārī* och *Sahīh Muslim* berättar Anas att Umm Sulaim [Anas moder] har sagt: "*Allāhs sändebud! Allāh skäms inte för sanningen, så säg mig, behöver en kvinna göra ghusl om hon har en våt dröm?*" Profeten – över honom vare Allāhs frid och välsignelser – sade: "*Ja, om hon ser vätska*." [^5]
+I *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* berättar Anas att Umm Sulaim [Anas moder] har sagt: "*Allāhs sändebud! Allāh skäms inte för sanningen, så säg mig, behöver en kvinna göra ghusl om hon har en våt dröm?*" Profeten – över honom vare Allāhs frid och välsignelser – sade: "*Ja, om hon ser vätska*." [^5]
 
 Alla lärde ger detta utlåtande och det gäller både män och kvinnor.
 
@@ -32,5 +32,5 @@ Allāh är Den som beviljar framgång.
 
 [^2]: *Muslim* 343
 [^3]: *Muslim* 349
-[^4]: *al-Bukhārī* 291 och *Muslim* 348
-[^5]: *al-Bukhārī* 282 och *Muslim* 313
+[^4]: *al-Buk̲hārī* 291 och *Muslim* 348
+[^5]: *al-Buk̲hārī* 282 och *Muslim* 313

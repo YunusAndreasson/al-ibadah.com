@@ -15,7 +15,7 @@ description: 'Fråga: Är det tillåtet att översätta fredagspredikan till and
 
 **Fråga:** Är det tillåtet att översätta fredagspredikan till andra språk än arabiska?
 
-**Svar:** De lärde är oeniga om det är tillåtet att översätta fredagspredikan från talarstolen under fredagar och de båda *‘eid* till andra språk.
+**Svar:** De lärde är oeniga om det är tillåtet att översätta fredagspredikan från talarstolen under fredagar och de båda *´eid* till andra språk.
 
 Några har förbjudit det för att bevara det arabiska språket och för att följa profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagares väg där det inte talas arabiska samt för att uppmuntra människor att lära sig arabiska och att vårda detta språk.
 

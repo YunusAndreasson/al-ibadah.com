@@ -25,5 +25,5 @@ Har man suttit ned under en längre tid, då bör man inte be hälsningsbönen t
 [^1]: Rakah.
 [^2]: Tahiyyatul-Msjid.
 
-[^3]: *al-Bukhārī* 935 och *Muslim* 852
-[^4]: *al-Bukhārī* 930 – 931 och *Muslim* 875
+[^3]: *al-Buk̲hārī* 935 och *Muslim* 852
+[^4]: *al-Buk̲hārī* 930 – 931 och *Muslim* 875

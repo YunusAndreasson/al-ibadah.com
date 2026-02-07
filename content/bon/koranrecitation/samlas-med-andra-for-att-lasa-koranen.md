@@ -20,7 +20,7 @@ description: >-
 
 > "Ingen grupp människor samlas i Allāhs hus för att recitera Allāhs skrift och för att tillsammans studera den utan att lugn sänker sig över dem, nåd omsluter dem och änglarna omringar sig dem och att Allāh nämner dem för de som är tillsammans med Honom." [*Muslim* 2699]
 
-Imam *Muslim* har återgivit denna *hadīth* i sin *Sahīh*. Likaså har man bekräftat att profeten – över honom vare Allāhs frid och välsignelser – reciterade Koranen för Gabriel och varje natt under fastemånaden studerade de den tillsammans. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – satt ofta tillsammans med sina följeslagare, reciterade Koranen för dem och påminde dem om Allāh den Allsmäktige. Stundom beordrade han följeslagarna att recitera Koranen för honom. Dessa bevis visar tydligt att det är tillåtet att samlas för att recitera eller studera Koranen.
+Imam *Muslim* har återgivit denna *ḥadīt̲h* i sin *Ṣaḥīḥ*. Likaså har man bekräftat att profeten – över honom vare Allāhs frid och välsignelser – reciterade Koranen för Gabriel och varje natt under fastemånaden studerade de den tillsammans. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – satt ofta tillsammans med sina följeslagare, reciterade Koranen för dem och påminde dem om Allāh den Allsmäktige. Stundom beordrade han följeslagarna att recitera Koranen för honom. Dessa bevis visar tydligt att det är tillåtet att samlas för att recitera eller studera Koranen.
 
 Och hos Allāh finns medlen till att göra vad som är rätt.
 

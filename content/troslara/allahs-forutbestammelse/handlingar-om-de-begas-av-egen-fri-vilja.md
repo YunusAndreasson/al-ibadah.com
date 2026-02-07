@@ -53,7 +53,7 @@ Men om denne gör det vet vi att Allāh har bestämt att denne gör det och sät
 
 Det är inte passande att grubbla över frågor som dessa själv eller att diskutera dem med andra. Frågor likt dessa skapar förvirring och tvivel och detta står i motsats till föreskriften av det förutbestämda. Följeslagarna gjorde inte så här och de var de mest beslutsamma i att söka sanningen. Likaså befann de sig närmst den första [kunskaps]källan som släckte törst och tillintegjorde oro [Profeten].
 
-I *Sahīh al-Bukhārī* återges från 'Abi bin Abi Tālib att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Det finns ingen vars plats inte har skrivits ned, antingen i Paradiset eller i Helvetet*.” De sade: ”*Allāhs sändebud! Skall vi bero till det?*” och i en annan version: ”Skall *vi inte bero till vad som har skrivits ned för oss och överge handlingar?*” Han svarade: "*Nej, handla, för allting görs lätt*." [^1]
+I *Ṣaḥīḥ al-Buk̲hārī* återges från 'Abi bin Abi Tālib att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Det finns ingen vars plats inte har skrivits ned, antingen i Paradiset eller i Helvetet*.” De sade: ”*Allāhs sändebud! Skall vi bero till det?*” och i en annan version: ”Skall *vi inte bero till vad som har skrivits ned för oss och överge handlingar?*” Han svarade: "*Nej, handla, för allting görs lätt*." [^1]
 
 I en annan version: "*Handla, därför att alla kommer att finna det lätt [att utföra] sådana handlingar som leder denne till den angivna platsen. Den som tillhör det lyckliga folket kommer det att göras lätt för att utföra det lyckliga folkets handlingar. Men den som tillhör det skändliga folket kommer det att göras lätt för att handla skändligt*.” [^2] Sedan reciterade Han: ”*För den som villigt ger [av sina ägodelar] och fruktar Gud och som tror på det högsta goda, ska Vi göra det lätt [att följa religionenes bud] Men den som håller hårt om penningpåsen och som [därför att han är rik] tror sig vara fri från allt bereonde och förnekar det högsta goda, [för honom] ska Vi göra det tungt och svårt*.” [^3]
 
@@ -65,5 +65,5 @@ Jag ber Allāh den Upphöjde att ge oss framgång i att handla rättfärdigt, at
 
 
 [^1]: *Muslim* 2647
-[^2]: *al-Bukhārī* 1362
+[^2]: *al-Buk̲hārī* 1362
 [^3]: Koranen 92:5 – 10

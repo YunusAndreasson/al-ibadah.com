@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om fastan för den som hörde böneutropet för gryningsbönen och sedan fortsatte att äta eller dricka?
 
-**Svar:** Den troende måste avstå från det som bryter fastan, som bland annat mat och dryck, när det blir klart att tiden för gryningsbönen har kommit och fastan har blivit obligatorisk, som under *ramadan* eller vid fastan för en ed eller en bot. Detta beror på att Allāh den Allsmäktige har sagt: "*Och ni får äta och dricka till dess den vita strimman av gryningsljuset kan urskiljas mot nattens mörker*." [^1]
+**Svar:** Den troende måste avstå från det som bryter fastan, som bland annat mat och dryck, när det blir klart att tiden för gryningsbönen har kommit och fastan har blivit obligatorisk, som under *ramaḍān* eller vid fastan för en ed eller en bot. Detta beror på att Allāh den Allsmäktige har sagt: "*Och ni får äta och dricka till dess den vita strimman av gryningsljuset kan urskiljas mot nattens mörker*." [^1]
 
 När man då hör böneutropet och man vet att den ropas ut för gryningsbönen, då är det tvunget att man avstår [från sådant som bryter fastan]. Om den som gör böneutropet ropar ut det innan gryningsbönen har kommit, då är det inte en skyldighet att avstå [från sådant som bryter fastan] och det är tillåtet att äta och dricka tills det blir klart att det är tid för gryningsbönen.
 
@@ -32,4 +32,4 @@ Och Allāh är Givaren av framgång.
 
 [^1]: Koranen 2:187
 [^2]: *at-Tirmithi* 2518
-[^3]: *al-Bukhārī* 52
+[^3]: *al-Buk̲hārī* 52

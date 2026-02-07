@@ -17,7 +17,7 @@ description: 'Fråga: Är det rätt att använda uttrycken al-masīhiyyah om kri
 
 **Svar:** De kristna säger att de följer Messias [även] efter profetens – över honom vare Allāhs frid och välsignelser – ankomst. Det råder inga tvivel om att detta är felaktigt. Hade de gjort så hade de trott på Muḥammad. Att tro på honom är ju att tro på Messias [Jesus, son till Maria]. Allāh den Upphöjde säger:
 
-> ”Och [minns] Jesus, Marias son, som sade: ’Israeliter! Jag är sänd av er Gud för att bekräfta vad som ännu består av Tora och för att förkunna för er det glada budskapet att ett sändebud ska komma efter mig vars namn ska vara *Ahmad*. Men när han kom till dem med klara tecken och vittnesbörd, sade de: ’Detta är uppenbart vältalighet som bländar och förhäxat!’” [Koranen 61:6]
+> ”Och [minns] Jesus, Marias son, som sade: ’Israeliter! Jag är sänd av er Gud för att bekräfta vad som ännu består av Tora och för att förkunna för er det glada budskapet att ett sändebud ska komma efter mig vars namn ska vara *Aḥmad*. Men när han kom till dem med klara tecken och vittnesbörd, sade de: ’Detta är uppenbart vältalighet som bländar och förhäxat!’” [Koranen 61:6]
 
 Messias [Jesus, Marias son] gav dem inte det glada budskapet om Muḥammad utan att de skulle följa budskapet som han kom med. Att ge glada budskap om något som inte är nyttigt är ju tomt prat som inte kan komma ens från en person med den minsta lilla intelligens, och absolut inte från en ädel sändebud som Jesus.
 

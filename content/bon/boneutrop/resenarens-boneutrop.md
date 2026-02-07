@@ -21,4 +21,4 @@ description: >-
 Profeten – över honom vare Allāhs frid och välsignelser – övergav heller aldrig böneutropet eller *iqāmah*, varken när han var hemma eller när han reste. Han brukade ropa till bön när han reste och detta var även något som han beordrade Bilal att göra.
 
 
-[^1]: *al-Bukhārī* och *Muslim*
+[^1]: *al-Buk̲hārī* och *Muslim*

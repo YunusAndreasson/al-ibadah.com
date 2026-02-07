@@ -20,9 +20,9 @@ description: >-
 
 Detta är alla de lärde eniga om. Den som bär dem utan renhet och stryker över dem, för denne är utlåtandet att ha bett utan renhet. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Bön utan tvagning eller välgörenhet från en fifflare accepteras inte*" [^2]
 
-I *Sahīh al-Bukhārī* och *Sahīh Muslim* finns en *hadīth* från Abū Hurairah i vilken det rapporteras att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Bönen accepteras inte för den som släpper sig förrän denne har tvagat sig*.” [^3]
+I *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* finns en *ḥadīt̲h* från Abū Hurairah i vilken det rapporteras att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Bönen accepteras inte för den som släpper sig förrän denne har tvagat sig*.” [^3]
 
-I *Sahīh al-Bukhārī* och *Sahīh Muslim* berättas att al-Mughirah bin Shu'bah hade följe med profeten – över honom vare Allāhs frid och välsignelser – under en resa och att han gick för att urinera, kom tillbaka och tvagade[^1] sig och al-Mughirah hällde vatten åt honom. Han strök över sitt huvud och al-Mughirah gick för att ta av sig sina lädersockar, men profeten – över honom vare Allāhs frid och välsignelser – sade: "*Lämna dem. Jag tog ju på dem då de [fötterna] var rena*." [^4] Sedan strök han över dem. *Ahādīth* som behandlar detta ämne är många.
+I *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* berättas att al-Mughirah bin Shu'bah hade följe med profeten – över honom vare Allāhs frid och välsignelser – under en resa och att han gick för att urinera, kom tillbaka och tvagade[^1] sig och al-Mughirah hällde vatten åt honom. Han strök över sitt huvud och al-Mughirah gick för att ta av sig sina lädersockar, men profeten – över honom vare Allāhs frid och välsignelser – sade: "*Lämna dem. Jag tog ju på dem då de [fötterna] var rena*." [^4] Sedan strök han över dem. *aḥādīt̲h* som behandlar detta ämne är många.
 
 Därmed måste du som har ställt frågan upprepa dessa fyra böner – middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen. Du har inte syndat på grund av detta. Allāh den Upphöjde har ju sagt: "*Herre! Ställ oss inte till svars för glömska eller oavsiktliga fel*." [^5]
 
@@ -33,7 +33,7 @@ Detta betyder att Han den Upphöjde har besvarat denna åkallan från Hans tjän
 [^1]: Wudū
 
 [^2]: *Muslim* 224
-[^3]: *al-Bukhārī* 135, 6954 och *Muslim* 225
-[^4]: *al-Bukhārī* 206
+[^3]: *al-Buk̲hārī* 135, 6954 och *Muslim* 225
+[^4]: *al-Buk̲hārī* 206
 [^5]: Koranen 2:286
 [^6]: *Muslim* 126

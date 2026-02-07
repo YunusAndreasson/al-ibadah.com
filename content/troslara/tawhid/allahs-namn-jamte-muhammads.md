@@ -6,7 +6,7 @@ source: >-
   Libanon: Makbtaba Dar us-Salam. 287 s. ISBN 9960-892-66-2
 categories:
   - Troslära (´Aqīdah)
-  - 'Tawhīd [Monoteism]'
+  - Monoteism
 original_id: 1110
 description: >-
   Fråga: Vi ser ofta Allāhs namn skrivit på väggar och jämte det finns Muḥammads

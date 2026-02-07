@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. x s. ISBN saknas
 categories:
   - Renhet (Tahārah)
-  - Mash över sockar
+  - Strykning över strumpor
 original_id: 1443
 description: >-
   Fråga: Är strykandet över lädersockar jämförbart med att stryka över bomulls-,
@@ -18,9 +18,9 @@ description: >-
 
 **Svar:** Det är tillåtet att stryka över rena sockar som täcker hela foten. Detta grundas på vad som har rapporterats från ett flertal av profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – om att de strök över sockarna. Skillnaden mellan *jawarib* och *khifaf* är att den senare är gjort av läder och den första är gjord av bomull eller något liknande.
 
-Villkoren för att det ska vara tillåtet att stryka över sockarna eller lädersockarna är att de täcker hela foten, att de tas på under rituell renhet och att strykandet äger rum inom tre dagar och nätter för den som reser samt en dag och natt för den som är hemma. Detta enligt autentiska *ahādīth* om detta ämne.
+Villkoren för att det ska vara tillåtet att stryka över sockarna eller lädersockarna är att de täcker hela foten, att de tas på under rituell renhet och att strykandet äger rum inom tre dagar och nätter för den som reser samt en dag och natt för den som är hemma. Detta enligt autentiska *aḥādīt̲h* om detta ämne.
 
-Det är tillåtet att be i skor som är fria från smuts [som urin eller avföring]. Profeten – över honom vare Allāhs frid och välsignelser – bad i sina skor. [Återberättad i *al-Bukhārī* och *Muslim*]
+Det är tillåtet att be i skor som är fria från smuts [som urin eller avföring]. Profeten – över honom vare Allāhs frid och välsignelser – bad i sina skor. [Återberättad i *al-Buk̲hārī* och *Muslim*]
 
 Abū Sa´īd har rapporterat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om någon av er kommer till moskén, då bör han se efter, och om han ser någon smuts eller något skadligt under skorna, då stryker han bort det och ber i dem*.” [^1]
 
@@ -29,4 +29,4 @@ Har moskén mattor är det bättre att ställa dem på ett lämpligt ställe ell
 Och Allāh är Den som ger framgång.
 
 
-[^1]: *Abū Dawūd* 650
+[^1]: *Abū Dāwūd* 650

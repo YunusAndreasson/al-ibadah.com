@@ -16,11 +16,11 @@ description: >-
 
 **Fråga:** Är det *sunnah* att säga *āmīn*?
 
-**Svar:** Ja, att säga āmīn är en högst rekommenderad *sunnah*, speciellt om imamen säger det. Detta enligt vad som har återgivits i *Sahīh al-Bukhārī* och *Sahīh Muslim* i en *hadīth* från Abū Hurairah i vilken han rapporterar att Allāhs sändebud har sagt:
+**Svar:** Ja, att säga āmīn är en högst rekommenderad *sunnah*, speciellt om imamen säger det. Detta enligt vad som har återgivits i *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* i en *ḥadīt̲h* från Abū Hurairah i vilken han rapporterar att Allāhs sändebud har sagt:
 
-> ”Om imamen säger āmīn, säg då *āmīn*, för om dennes āmīn sammanfaller med änglarnas āmīn [kommer] alla dennes tidigare synder att förlåtas.” [*al-Bukhārī* 782]
+> ”Om imamen säger āmīn, säg då *āmīn*, för om dennes āmīn sammanfaller med änglarnas āmīn [kommer] alla dennes tidigare synder att förlåtas.” [*al-Buk̲hārī* 782]
 
 Imamen och de som ber bakom ska säga *āmīn* samtidigt. Detta är enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Om imamen säger: '… inte de som har gått vilse!*” [^1]
 
 
-[^1]: *al-Bukhārī* 782
+[^1]: *al-Buk̲hārī* 782

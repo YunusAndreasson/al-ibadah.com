@@ -15,7 +15,7 @@ description: >-
 
 När det gäller mig, ser jag enbart hårdhet och förakt. Detta smärtar mig djupt och jag lider verkligen av det. Många gånger har jag tänkt på att helt enkelt bara lämna hemmet.
 
-Jag är en kvinna – och all tacksamhet tillhör Allāh – med en grundläggande utbildning och jag uppfyller de krav som Allāh ställer på mig. Kära *shaykh*, om jag lämnar hemmet för att uppfostra barnen på egen hand, är jag då syndfull? Eller bör jag stanna med honom, i denna situation, och endast sluta tala med honom eller spendera någon tid med honom?
+Jag är en kvinna – och all tacksamhet tillhör Allāh – med en grundläggande utbildning och jag uppfyller de krav som Allāh ställer på mig. Kära *s̲hayk̲h*, om jag lämnar hemmet för att uppfostra barnen på egen hand, är jag då syndfull? Eller bör jag stanna med honom, i denna situation, och endast sluta tala med honom eller spendera någon tid med honom?
 
 **Svar:** Det råder inga tvivel om att det äkta paret måste behandla varandra på ett vänligt och respektfullt sätt. De bör ge varandra kärlek och leva tillsammans på ett fint sätt. Allāh har sagt:
 
@@ -25,11 +25,11 @@ Och vidare:
 
 > "Hustrun har, som sig bör, rättigheter [mot mannen] motsvarande [dem han har] mot henne; hans [rätt] ligger dock ett steg framför hennes. Gud är allsmäktig, vis." [Koranen 2:228]
 
-Profeten – över honom vare Allāhs frid och välsignelser – har även sagt: "Fromhet är gott uppförande." Och i en annan *hadīth* säger profeten – över honom vare Allāhs frid och välsignelser – "Nedvärdera inte någon god handling, inte ens att hälsa på sin bror med ett leende ansikte." Båda *ahādīth* återgivna av *Muslim*.
+Profeten – över honom vare Allāhs frid och välsignelser – har även sagt: "Fromhet är gott uppförande." Och i en annan *ḥadīt̲h* säger profeten – över honom vare Allāhs frid och välsignelser – "Nedvärdera inte någon god handling, inte ens att hälsa på sin bror med ett leende ansikte." Båda *aḥādīt̲h* återgivna av *Muslim*.
 
 Profeten – över honom vare Allāhs frid och välsignelser – sade även: "Den troende med fullständigast tro är den med bäst karaktär. De bästa av er är de som är bäst mot sina fruar, och jag är den bästa mot min familj."
 
-Det finns fler *ahādīth* som uppmanar till gott uppförande, bra kommunikation samt att överlag ha goda relationer med andra muslimer […] Genom att vara tålmodig har du hanterat din mans kyla på ett bra sätt. Jag råder dig att vara ännu tålmodigare och inte lämna hemmet. Med Allāhs tillstånd kommer detta leda till en bra och prisvärd lösning. Allāh har sagt:
+Det finns fler *aḥādīt̲h* som uppmanar till gott uppförande, bra kommunikation samt att överlag ha goda relationer med andra muslimer […] Genom att vara tålmodig har du hanterat din mans kyla på ett bra sätt. Jag råder dig att vara ännu tålmodigare och inte lämna hemmet. Med Allāhs tillstånd kommer detta leda till en bra och prisvärd lösning. Allāh har sagt:
 
 > "Och bete er inte som de som lämnade sina hem i skrytsamt övermod för att ses [och beundras] av människorna. De vill hindra [andra] att följa Guds väg, men Gud håller uppsikt över [dem och] deras företag." [Koranen 8:47]
 
@@ -39,7 +39,7 @@ Allāh säger även:
 
 Och vidare:
 
-> "Säg [Muḥammad] till *Mina* troende tjänare: 'Frukta er Herre! De som gör det goda i denna värld har gott att vänta [i nästa liv]. Guds jord är så vid [att ni kan lämna ondskans rike för att få dyrka Gud i frihet]. Bara de som håller ut ska få sin [fulla] lön och mer därtill." [Koranen 39:10]
+> "Säg [Muḥammad] till *Minā* troende tjänare: 'Frukta er Herre! De som gör det goda i denna värld har gott att vänta [i nästa liv]. Guds jord är så vid [att ni kan lämna ondskans rike för att få dyrka Gud i frihet]. Bara de som håller ut ska få sin [fulla] lön och mer därtill." [Koranen 39:10]
 
 Och till sist i en annan vers:
 

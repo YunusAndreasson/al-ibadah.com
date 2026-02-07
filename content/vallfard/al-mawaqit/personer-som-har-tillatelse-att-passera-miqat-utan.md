@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 85 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - al-Mawaqit
+  - Vallfärdens stationer
 original_id: 1332
 description: >-
   Fråga: Vem får passera mīqāt utan ihrām och vem får inte? Vad måste den som
@@ -14,14 +14,14 @@ description: >-
   Allāhs sändebud – över honom var...
 ---
 
-**Fråga:** Vem får passera *mīqāt* utan *ihrām* och vem får inte? Vad måste den som passerar *mīqāt* utan *ihrām* göra?
+**Fråga:** Vem får passera *mīqāt* utan *iḥrām* och vem får inte? Vad måste den som passerar *mīqāt* utan *iḥrām* göra?
 
-**Svar:** I *Sahīh* återges från Ibn ‘Abbās att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – som *mīqāt* utsåg Thul-Hulayfah för invånarna i Medina, al-Juhfah för invånarna i ash-Sham, Qarnul-Manazil för invånarna Najd i och Yalamlam för invånarna i Jemen. Därefter sade han: ”De *är för dem [som bor där] och dem som passerar förbi utöver de som bor där som avser att utföra vallfärden och ‘umrah*[^1].” [^2]
+**Svar:** I *Ṣaḥīḥ* återges från Ibn ‘Abbās att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – som *mīqāt* utsåg Thul-Hulayfah för invånarna i Medina, al-Juhfah för invånarna i ash-Sham, Qarnul-Manazil för invånarna Najd i och Yalamlam för invånarna i Jemen. Därefter sade han: ”De *är för dem [som bor där] och dem som passerar förbi utöver de som bor där som avser att utföra vallfärden och ‘umrah*[^1].” [^2]
 
-Denna *hadīth* är ett bevis för att den som passerar denna *mawaqit*, med avsikt att resa till Mecka för att utföra vallfärden eller *´umrah*, måste träda in i *ihrām*. Om denne inte har någon önskan eller avsikt, utan endast planerar att bege sig till Mecka för att besöka en släkting eller göra något annat, då är det tillåtet att passera *mīqāt* [om denne ofta passerar därigenom]. Detta kan vara en trädröjare, brevbärare, chaufför eller någon liknande.
+Denna *ḥadīt̲h* är ett bevis för att den som passerar denna *mawāqīt*, med avsikt att resa till Mecka för att utföra vallfärden eller *´umrah*, måste träda in i *iḥrām*. Om denne inte har någon önskan eller avsikt, utan endast planerar att bege sig till Mecka för att besöka en släkting eller göra något annat, då är det tillåtet att passera *mīqāt* [om denne ofta passerar därigenom]. Detta kan vara en trädröjare, brevbärare, chaufför eller någon liknande.
 
-Under alla omständigheter krävs *ihrām* endast för den som passerar *mīqāt* med avsikt att resa till Mecka för vallfärden eller *‘umrah*[^1]. Den som passerar *mīqāt* utan att träda in i *ihrām* måste återvända till *mīqāt* och träda in i *ihrām* därifrån. Om någon landar med flygplan i Jiddah, då färdas denne med bil till *mīqāt* för invånarna i Najd och denne går in i *ihrām* därifrån. Om denne går in i *ihrām* i Jiddah medan denne avser att utföra vallfärden och *‘umrah*[^1], då måste denne slakta ett djur i gottgörelse för att ha passerat *mīqāt* [utan *ihrām*].
+Under alla omständigheter krävs *iḥrām* endast för den som passerar *mīqāt* med avsikt att resa till Mecka för vallfärden eller *´umrah*[^1]. Den som passerar *mīqāt* utan att träda in i *iḥrām* måste återvända till *mīqāt* och träda in i *iḥrām* därifrån. Om någon landar med flygplan i Jiddah, då färdas denne med bil till *mīqāt* för invånarna i Najd och denne går in i *iḥrām* därifrån. Om denne går in i *iḥrām* i Jiddah medan denne avser att utföra vallfärden och *´umrah*[^1], då måste denne slakta ett djur i gottgörelse för att ha passerat *mīqāt* [utan *iḥrām*].
 
 [^1]: Den lilla vallfärden.
 
-[^2]: *al-Bukhārī* 1524 och *Muslim* 1181
+[^2]: *al-Buk̲hārī* 1524 och *Muslim* 1181

@@ -16,10 +16,10 @@ description: >-
   utlåtanden gäller enbart för män. Det...
 ---
 
-**Fråga:** Behöver både män och kvinnor göra *ghusl* samt pryda sig under fredagen? Och vilket är utlåtandet om att bada en eller två dagar innan?
+**Fråga:** Behöver både män och kvinnor göra *g̲husl* samt pryda sig under fredagen? Och vilket är utlåtandet om att bada en eller två dagar innan?
 
 **Svar:** Dessa utlåtanden gäller enbart för män. Det är de som är närvarande vid fredagsbönen och det är de som måste pryda sig själva innan de lämnar hemmet. Detta är inte föreskrivet för kvinnor. Men var och en måste avlägsna smuts om han eller hon ser det på sig själv. Detta är en prisvärd handling som ingen bör missa.
 
-Att göra *ghusl* för fredagsbönen en eller två dagar innan är inte till någon nytta. De *ahādīth* som har rapporterats nämner fredagen särskilt. Tiden är då från gryningsbönen till fredagsbönen. Det är under denna tidpunkt man bör bada. Gör man det en eller två dagar innan, då finns det ingen nytta i det och det går inte att räkna som *ghusl* för fredagsbönen.
+Att göra *g̲husl* för fredagsbönen en eller två dagar innan är inte till någon nytta. De *aḥādīt̲h* som har rapporterats nämner fredagen särskilt. Tiden är då från gryningsbönen till fredagsbönen. Det är under denna tidpunkt man bör bada. Gör man det en eller två dagar innan, då finns det ingen nytta i det och det går inte att räkna som *g̲husl* för fredagsbönen.
 
 

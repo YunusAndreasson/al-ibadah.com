@@ -16,13 +16,13 @@ description: >-
 
 **Fråga:** En man byggde en moské och han beordrade sin familj att placera hans grav inuti moskén [efter hans död]. Sedan avled han och han begravdes i moskén framför *qiblah*. Avståndet mellan graven och de som ber är endast en meter. Jag ber om ert råd.
 
-**Svar:** Denna grav måste avlägsnas från moskén och placeras långt från den på den lokala gravplatsen. Dess närvaro i moskén är en drivkraft till att begå *shirk*. Eftersom den befinner sig i riktning mot *qiblah* blir detta förbud ännu skarpare. Då detta är än närmre att sätta medhjälpare vid Allāhs sida genom att dyrka gravens invånare. Utlåtandet om detta har klargjorts i en *hadīth* från Abū Hurairah återberättad av *Muslim* och al-Bukhārī:
+**Svar:** Denna grav måste avlägsnas från moskén och placeras långt från den på den lokala gravplatsen. Dess närvaro i moskén är en drivkraft till att begå *s̲hirk*. Eftersom den befinner sig i riktning mot *qiblah* blir detta förbud ännu skarpare. Då detta är än närmre att sätta medhjälpare vid Allāhs sida genom att dyrka gravens invånare. Utlåtandet om detta har klargjorts i en *ḥadīt̲h* från Abū Hurairah återberättad av *Muslim* och al-Bukhārī:
 
-> ”Må Allāh förgöra judarna och de kristna; de tog deras profeters gravar till platser för dyrkan.” [*al-Bukhārī* 437 och *Muslim* 530]
+> ”Må Allāh förgöra judarna och de kristna; de tog deras profeters gravar till platser för dyrkan.” [*al-Buk̲hārī* 437 och *Muslim* 530]
 
 *Muslim* har återgivit från profeten:
 
-> ”Sitt inte på gravar och be inte i riktning mot dem.” [*Muslim* 972 och *Abū Dawūd* 3229]
+> ”Sitt inte på gravar och be inte i riktning mot dem.” [*Muslim* 972 och *Abū Dāwūd* 3229]
 
 *Muslim* har även återgivit att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 

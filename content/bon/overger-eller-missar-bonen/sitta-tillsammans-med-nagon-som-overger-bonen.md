@@ -20,9 +20,9 @@ description: >-
 
 Därmed är det inte tillåtet att sitta tillsammans med dem. I stället är det en skyldighet att undvika dem och säga upp bekantskapen med dem, när man har förklarat att den som överger bönen inte är en troende, om de inte känner till detta.
 
-Profeten – över honom vare Allāhs frid och välsignelser – sagt: "*Avtalet som skiljer oss från dem är bönen och den som lämnar den har inte trott*." [^1] Denna *hadīth* gäller både den som avvisar att den är en skyldighet och den som överger den på grund av lathet.
+Profeten – över honom vare Allāhs frid och välsignelser – sagt: "*Avtalet som skiljer oss från dem är bönen och den som lämnar den har inte trott*." [^1] Denna *ḥadīt̲h* gäller både den som avvisar att den är en skyldighet och den som överger den på grund av lathet.
 
 Genom Allāh uppnås framgång. Må frid och välsignelser vara över profeten Muḥammad och hans familj.
 
 
-[^1]: *at-Tirmithi* 2621, *an-Nasā'i* 464 och *Ahmad* 5:346, 355
+[^1]: *at-Tirmithi* 2621, *an-Nasā’ī* 464 och *Aḥmad* 5:346, 355

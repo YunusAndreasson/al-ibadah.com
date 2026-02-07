@@ -23,4 +23,4 @@ Profeten – över honom vare Allāhs frid och välsignelser – sade om kvinnan
 Det finns då ingen invändan mot att informera folket om någons bortgång för att många ska be över denne. Detta är enligt vad som har rapporterats i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Det finns heller ingen synd i att informera familjen och vännerna som skulle vilja samlas för att be över denne.
 
 
-[^1]: *al-Bukhārī* 1337 och *Muslim* 956
+[^1]: *al-Buk̲hārī* 1337 och *Muslim* 956

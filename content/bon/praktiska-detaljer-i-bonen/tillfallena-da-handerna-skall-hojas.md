@@ -14,7 +14,7 @@ description: >-
   några som höjer deras händer när de bugar o...
 ---
 
-**Fråga:** I vår stad finns de två grupper. En grupp hämtar bevis från en ädel *hadīth* och den andra följer Mālikis rättsskola i all dyrkan. Ett exempel är några som höjer sina händer när de bugar och när de reser sig från bugningen. Som bevis för detta citerar den en ädel *hadīth* från profeten. Den andra gruppen gör inte detta och de säger: ”Imam Mālik gjorde inte det, är ni lika kunniga som imamen från landet av hijrah [Medina]?” Vilken är er åsikt om detta?
+**Fråga:** I vår stad finns de två grupper. En grupp hämtar bevis från en ädel *ḥadīt̲h* och den andra följer Mālikis rättsskola i all dyrkan. Ett exempel är några som höjer sina händer när de bugar och när de reser sig från bugningen. Som bevis för detta citerar den en ädel *ḥadīt̲h* från profeten. Den andra gruppen gör inte detta och de säger: ”Imam Mālik gjorde inte det, är ni lika kunniga som imamen från landet av hijrah [Medina]?” Vilken är er åsikt om detta?
 
 Muslimer måste känna till de islamiska utlåtandena i Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah*, konsensus och det som grundas på sådant som nutida jämförelser och så vidare. Detta gäller om han har förmåga att undersöka och göra *ijtihād*. Om han inte har det, då bör han fråga de som han litar till bland de lärde och följa dem utan fanatism mot en bestämd *mujtahid*[^1] [som utövar *ijtihād*].
 
@@ -22,5 +22,5 @@ profetens – över honom vare Allāhs frid och välsignelser – autentiska *su
 
 Må frid och välsignelser vara över profeten Muḥammad, hans familj och följeslagare.
 
-[^1]: Någon som utöver *ijtihad*.
+[^1]: Någon som utöver *ijtihād*.
 

@@ -20,5 +20,5 @@ Sådant som den islamiska lagen uppmuntrar till men som den fruktar kommer att m
 
 Profeten – över honom vare Allāhs frid och välsignelser – ville jämna Ka’bah med marken och återuppbygga den på Abrahams fundament men då folket nyligen hade övergett otron lämnade han denna rekommenderade handling på grund av rädslan för att det skulle leda till något skadligt. Han sade till 'A’ishah:
 
-> ”Hade det inte varit för att ert folk nyligen hade övergett otro hade jag jämnat Ka’bah med marken och återuppbyggt den på Abrahams fundament och gjort två dörrar till den: En dörr för folket att gå in genom och en för dem att gå ut genom.” [*al-Bukhārī*]
+> ”Hade det inte varit för att ert folk nyligen hade övergett otro hade jag jämnat Ka’bah med marken och återuppbyggt den på Abrahams fundament och gjort två dörrar till den: En dörr för folket att gå in genom och en för dem att gå ut genom.” [*al-Buk̲hārī*]
 

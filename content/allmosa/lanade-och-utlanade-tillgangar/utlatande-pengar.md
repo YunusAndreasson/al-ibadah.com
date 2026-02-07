@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 185 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
-  - Tillgångar
+  - Lånade tillgångar
 original_id: 629
 description: 'Fråga: En bror är skyldig mig pengar. Är jag skyldig att betala allmosa
  för den? Svar: Om lånet är till välbärgade personer som skulle kunna betala

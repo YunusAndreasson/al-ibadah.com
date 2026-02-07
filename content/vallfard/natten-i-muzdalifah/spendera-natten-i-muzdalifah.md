@@ -16,6 +16,6 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om att spendera natten i *Muzdalifah*?
 
-**Svar:** Pilgrim måste spendera natten före den tionde *dhul-hijjah* i *Muzdalifah*. Han gör det fram till gryningsbönen om han inte har en ursäkt, som sjukdom eller något liknande. För en sådan person och den som är ansvarig för honom är det tillåtet att resa till *Mina* efter mitten av natten. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – under sin vallfärd spenderade natten där [i *Muzdalifah*] till gryningsbönen. Han tillät att de som hade en ursäkt gav sig av från *Muzdalifah* till *Mina* efter midnatt.
+**Svar:** Pilgrim måste spendera natten före den tionde *d̲hul-ḥijjah* i *Muzdalifah*. Han gör det fram till gryningsbönen om han inte har en ursäkt, som sjukdom eller något liknande. För en sådan person och den som är ansvarig för honom är det tillåtet att resa till *Minā* efter mitten av natten. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – under sin vallfärd spenderade natten där [i *Muzdalifah*] till gryningsbönen. Han tillät att de som hade en ursäkt gav sig av från *Muzdalifah* till *Minā* efter midnatt.
 
 

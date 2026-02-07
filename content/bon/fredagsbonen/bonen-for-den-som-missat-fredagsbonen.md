@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Majoritet av de lärde inom *fiqh* anser att den som missar fredagsbönen måste be den som middagsbönen [fyra bönecykler] och i församling, om det är möjligt. Är det inte möjligt, då ber han den ensam som middagsbönen.
 
-Detta är den korrekta åsikten och enligt en *hadīth* från Jabir bin ´Abdullāh som uppger att profeten – över honom vare Allāhs frid och välsignelser – höll en predikan för folket i *Arafat* under hans sista vallfärd [och detta skedde under en fredag]. Böneutroparen ropade ut och profeten – över honom vare Allāhs frid och välsignelser – stod upp och ledde följeslagarna i middagsbönen. Sedan ropade böneutroparen ut för eftermiddagsbönen och profeten – över honom vare Allāhs frid och välsignelser – ledde dem i eftermiddagsbönen. Däremellan bad han inga böner. Det finns även andra bevis som bekräftar detta.
+Detta är den korrekta åsikten och enligt en *ḥadīt̲h* från Jabir bin ´Abdullāh som uppger att profeten – över honom vare Allāhs frid och välsignelser – höll en predikan för folket i *´Arafāt* under hans sista vallfärd [och detta skedde under en fredag]. Böneutroparen ropade ut och profeten – över honom vare Allāhs frid och välsignelser – stod upp och ledde följeslagarna i middagsbönen. Sedan ropade böneutroparen ut för eftermiddagsbönen och profeten – över honom vare Allāhs frid och välsignelser – ledde dem i eftermiddagsbönen. Däremellan bad han inga böner. Det finns även andra bevis som bekräftar detta.
 
 Må frid och välsignelser var över vår Profet och över hans familj.
 

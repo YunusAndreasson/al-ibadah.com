@@ -25,4 +25,4 @@ Allāhs sändebud – över honom vare Allāhs frid och välsignelser – förbj
 
 
 [^1]: Koranen 2:195
-[^2]: *al-Bukhārī* 853 och *Muslim* 564
+[^2]: *al-Buk̲hārī* 853 och *Muslim* 564

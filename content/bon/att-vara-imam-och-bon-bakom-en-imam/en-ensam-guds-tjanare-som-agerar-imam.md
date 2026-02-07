@@ -21,4 +21,4 @@ description: >-
 I grunden i dessa frågor finns det ingen skillnad mellan en frivillig och en obligatorisk bön.
 
 
-[^1]: *al-Bukhārī* 698
+[^1]: *al-Buk̲hārī* 698

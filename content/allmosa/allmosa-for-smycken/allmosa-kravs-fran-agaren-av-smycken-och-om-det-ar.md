@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Min fru har guld som hon bär och som når den lägsta nivån som gör att allmosa krävs. Behöver hon betala allmosa för dem? Är det jag eller hon som ska betala den?
 
-**Svar:** Allmosa är en skyldighet för smycken som är gjorda av guld eller silver om vikten uppnår den lägsta nivån som gör allmosa till ett krav. Denna nivå är 20 *mithqal* för guld och 140 *mithqal* för silver. I nuvarande valuta motsvarar detta 11 3/7 saudiska *junahy*.
+**Svar:** Allmosa är en skyldighet för smycken som är gjorda av guld eller silver om vikten uppnår den lägsta nivån som gör allmosa till ett krav. Denna nivå är 20 *mit̲hqāl* för guld och 140 *mit̲hqāl* för silver. I nuvarande valuta motsvarar detta 11 3/7 saudiska *junahy*.
 
 Om guldsmycken uppnår eller överstiger denna nivå måste man betala allmosa även om det enda syftet är att de ska bäras. Detta enligt den mest korrekta åsikten bland de lärda.
 
@@ -26,5 +26,5 @@ Allmosan krävs från kvinnan som äger smyckena. Om hennes make eller någon an
 
 Och Allāh är Givaren av framgång.
 
-[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramadan* 1428).
+[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramaḍān* 1428).
 

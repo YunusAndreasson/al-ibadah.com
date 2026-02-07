@@ -21,6 +21,6 @@ description: >-
 3. Var uppmärksam och koncentrerad när du studerar och hoppa inte från ämne till ämne då detta enbart tar värdefull tid.
 4. Börja med mindre böcker och studera dem noga, fortsätt sedan med de större så att du lära dig lite åt gången.
 5. Försök att förstå de grundläggande delarna först, deras regler och begränsningar. Detta har uttrycksfullt förklarats på följande sätt: ”*Den som inte tar sig tid att lära grunderna, har hindrat sig själv från att nå fram till slutsatsen [eller målet]*.”
-6. Diskutera de frågor som uppkommer med din *shaykh* eller någon annan som är känd för sin kunskap och utövar religionen på ett korrekt sätt.
+6. Diskutera de frågor som uppkommer med din *s̲hayk̲h* eller någon annan som är känd för sin kunskap och utövar religionen på ett korrekt sätt.
 
 

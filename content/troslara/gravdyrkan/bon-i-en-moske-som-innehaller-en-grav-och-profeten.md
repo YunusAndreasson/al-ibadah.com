@@ -27,21 +27,21 @@ Andra säger att det är tillåtet att be i dem då sändebudets och hans båda 
 
 ‘Ā’ishāh – må Allāh vara nöjd med henne – har sagt:
 
-> ”När profeten var på väg att dö täckte han sitt ansikte med en bit tyg och när han kände smärta avtäckte han sitt ansikte och sade: 'Allāhs förbannelse vilar över judarna och de kristna som gjorde om deras profeters gravar till platser för bön.' Han sade detta för att varna muslimer för att göra så. Hade det inte varit för detta hade han beordrat att hans grav skulle resas över marken, men han var rädd för att den skulle ha omvandlats till en moské.” [*al-Bukhārī* 1330, *Muslim* 529, *an-Nasā’i* 704, *Ahmad* 5:204 och *al-Muwatta* 85]
+> ”När profeten var på väg att dö täckte han sitt ansikte med en bit tyg och när han kände smärta avtäckte han sitt ansikte och sade: 'Allāhs förbannelse vilar över judarna och de kristna som gjorde om deras profeters gravar till platser för bön.' Han sade detta för att varna muslimer för att göra så. Hade det inte varit för detta hade han beordrat att hans grav skulle resas över marken, men han var rädd för att den skulle ha omvandlats till en moské.” [*al-Buk̲hārī* 1330, *Muslim* 529, *an-Nasā’ī* 704, *Aḥmad* 5:204 och *al-Muwatta* 85]
 
 Jundub bin ´Abdullāh har sagt:
 
 > ”Fem dagar före sin död hörde jag profeten säga: 'Jag klargör inför Allāh att inte ha tagit någon vän från dig, för Allāh har tagit mig som en älskad, som Han tog Abraham som en älskad. Skulle jag ha tagit en vän från mitt samfund, då hade jag tagit Abū Bakr som en vän. Var varse! Dem som levde före er brukade omvandlade deras profeters och rättfärdigas gravar till moskéer. Var varse! Gör aldrig om gravar till moskéer, jag förbjuder er att göra så.” [*Muslim* 532]
 
-Profeten – över honom vare Allāhs frid och välsignelser – förbjöd att moskéer byggs över gravar och han förbannade dem som gör så. Detta visar att det är en stor synd att bygga moskéer över gravar. Må Allāh skydda oss från det. Därför säger ‘Ā’ishāh – må Allāh vara nöjd med henne – i den ovan nämnda *hadithen*: ”*Hade det inte varit för detta, då hade han beordrat att hans grav skulle resas över marken, men han var rädd för att den skulle omvandlas till en moské*.”
+Profeten – över honom vare Allāhs frid och välsignelser – förbjöd att moskéer byggs över gravar och han förbannade dem som gör så. Detta visar att det är en stor synd att bygga moskéer över gravar. Må Allāh skydda oss från det. Därför säger ‘Ā’ishāh – må Allāh vara nöjd med henne – i den ovan nämnda *ḥadīt̲h*: ”*Hade det inte varit för detta, då hade han beordrat att hans grav skulle resas över marken, men han var rädd för att den skulle omvandlas till en moské*.”
 
-Om en moské har byggts på en eller flera gravar måste den rivas. Den är ju byggd på annat än vad Allāh har tillåtit. Att behålla en sådan moské och att be i den är att fortsätta på synden som upprättandet av den utgjorde samt en överdrift i religionen i att upphöja den som graven har byggts för. Detta skulle vara att främja *shirk*. Må Allāh skydda oss. Allāh den Upphöjde har sagt:
+Om en moské har byggts på en eller flera gravar måste den rivas. Den är ju byggd på annat än vad Allāh har tillåtit. Att behålla en sådan moské och att be i den är att fortsätta på synden som upprättandet av den utgjorde samt en överdrift i religionen i att upphöja den som graven har byggts för. Detta skulle vara att främja *s̲hirk*. Må Allāh skydda oss. Allāh den Upphöjde har sagt:
 
 > ”Efterföljare av tidigare uppenbarelser! Gå inte till överdrift i [utövningen av] er religion.” [Koranen 4:171]
 
 Och profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Akta er för överdrifter, dem som levde före er förgjordes genom överdrifter.” [*Ahmad* 1:347, *al-Hakim* 1:466 och *Ibn Mājah* 3029]
+> ”Akta er för överdrifter, dem som levde före er förgjordes genom överdrifter.” [*Aḥmad* 1:347, *al-Ḥākim* 1:466 och *Ibn Mājah* 3029]
 
 Men om en moské byggs utan att det finns någon grav i den och någon sedan begravs i den, då behöver den inte rivas. I stället bör den [graven] grävs upp och kroppen flyttas och grävas ned på muslimernas gravplats. Det är vidrigt att begrava folk i moskén och det måste överges genom att graven avlägsnas från moskén.
 

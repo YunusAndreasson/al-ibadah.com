@@ -47,6 +47,6 @@ Han brukade stöta till deras bröst samt deras axlar och säga: "*Skilj er inte
 Det viktigaste är att raderna måste göras raka. Detta är imamens och tjänarnas ansvar. Imamen måste granska raderna och göra dem raka. Likaså måste tjänarna själva göra dem raka och stå tätt tillsammans.
 
 
-[^1]: *Abū Dawūd* 650
-[^2]: *al-Bukhārī* 698 och 699
-[^3]: *al-Bukhārī* 717 och *Muslim* 436
+[^1]: *Abū Dāwūd* 650
+[^2]: *al-Buk̲hārī* 698 och 699
+[^3]: *al-Buk̲hārī* 717 och *Muslim* 436

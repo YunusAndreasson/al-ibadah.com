@@ -17,11 +17,11 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om tvagningen för en kvinna om hon har täckt sina naglar med nagellack?
 
-**Svar:** Nagellack är en substans som kvinnor tar på sina naglar. Den formar ett ytskikt och en kvinna får inte använda den om hon ber. Detta beror på att den hindrar vattnet från att nå naglarna vid tvagningen. Att använda något som hindrar vattnet från att nå huden är inte tillåtet när man tvagar sig eller gör *ghusl*. Detta beror på att Allāh säger:
+**Svar:** Nagellack är en substans som kvinnor tar på sina naglar. Den formar ett ytskikt och en kvinna får inte använda den om hon ber. Detta beror på att den hindrar vattnet från att nå naglarna vid tvagningen. Att använda något som hindrar vattnet från att nå huden är inte tillåtet när man tvagar sig eller gör *g̲husl*. Detta beror på att Allāh säger:
 
 > ”När ni går till bön, två då ansikte och händer samt armarna upp till armbågarna och stryk med [de våta] händerna över huvudet och [två] fötterna upp till fotkölarna.” [Koranen 5:6]
 
-Har en kvinna nagellack på sina naglar kommer den att hindra vattnet från att nå dem och då kan det inte sägas att hon har tvättat sina händer. Hon har då utelämnat en obligatorisk del av tvagningen eller *ghusl*.
+Har en kvinna nagellack på sina naglar kommer den att hindra vattnet från att nå dem och då kan det inte sägas att hon har tvättat sina händer. Hon har då utelämnat en obligatorisk del av tvagningen eller *g̲husl*.
 
 När det gäller någon som inte ber, som en kvinna med månadsblödning, då syndar hon inte om hon använder det så länge hennes handlande inte anses vara ett karaktärsdrag som tillhör de icke-troende kvinnorna. I detta fall är det inte tillåtet då det anses vara en imitation av dem.
 

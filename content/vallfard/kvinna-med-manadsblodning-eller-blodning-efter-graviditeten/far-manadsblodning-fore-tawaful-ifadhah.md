@@ -14,8 +14,8 @@ description: >-
   ren och därefter gör tawāf? Eller kan hon...
 ---
 
-**Fråga:** Behöver en kvinna som får sin månadsblödning eller blödning efter graviditeten innan hon gör *tawāf* *ul-ifādhah* stanna kvar i Mecka tills hon blir ren och därefter gör *tawāf*? Eller kan hon resa till Jiddah [eller en annan plats], återvända och göra *tawāf* när hon blir ren?
+**Fråga:** Behöver en kvinna som får sin månadsblödning eller blödning efter graviditeten innan hon gör *ṭawāf* *ul-ifādhah* stanna kvar i Mecka tills hon blir ren och därefter gör *ṭawāf*? Eller kan hon resa till Jiddah [eller en annan plats], återvända och göra *ṭawāf* när hon blir ren?
 
-**Svar:** Har hon möjlighet att stanna kvar i Mecka, då måste hon stanna kvar i Mecka tills hon blir ren och avslutar sin vallfärd. Har hon inte möjlighet att göra det, då är det ingen fara om hon reser med sin *mahram* till Jiddah, at-Ta'if eller någon liknande plats, för att sedan när hon har blivit ren återvända med sin *mahram* och avsluta vallfärdsriterna.
+**Svar:** Har hon möjlighet att stanna kvar i Mecka, då måste hon stanna kvar i Mecka tills hon blir ren och avslutar sin vallfärd. Har hon inte möjlighet att göra det, då är det ingen fara om hon reser med sin *maḥram* till Jiddah, at-Ta'if eller någon liknande plats, för att sedan när hon har blivit ren återvända med sin *maḥram* och avsluta vallfärdsriterna.
 
 

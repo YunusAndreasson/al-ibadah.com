@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 182 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - Tawāf och sa’ī
+  - Rundvandring och löpning
 original_id: 808
 description: >-
   Fråga: Vad gör man om man påbörjade tawāf runt Ka’bah och hunnit utföra tre
@@ -14,9 +14,9 @@ description: >-
   fullföljas? Om man avbryter, ska man då b...
 ---
 
-**Fråga:** Vad gör man om man påbörjade *tawāf* runt Ka’bah och hunnit utföra tre eller fyra varv när bönen börjar? Avbryter man sin *tawāf* eller ska den fullföljas? Om man avbryter, ska man då börja om från början eller fortsätta där den avbröts?
+**Fråga:** Vad gör man om man påbörjade *ṭawāf* runt Ka’bah och hunnit utföra tre eller fyra varv när bönen börjar? Avbryter man sin *ṭawāf* eller ska den fullföljas? Om man avbryter, ska man då börja om från början eller fortsätta där den avbröts?
 
-**Svar:** Om bönen börjar medan han utför *tawāf*, då ber han. När han sedan avslutat bönen, då fullföljer han det som återstår av hans *tawāf*.
+**Svar:** Om bönen börjar medan han utför *ṭawāf*, då ber han. När han sedan avslutat bönen, då fullföljer han det som återstår av hans *ṭawāf*.
 
 Han räknar dock inte det sista varvet som han gjorde innan bönen började, om det varvet inte var komplett. Ett avklarat varv är det som gjorts från Svarta Stenen. Om det inte är fullständigt, då måste han börja om igen från Svarta Stenen. På detta sätt är han på den säkra sidan, då det finns olika synpunkter.
 

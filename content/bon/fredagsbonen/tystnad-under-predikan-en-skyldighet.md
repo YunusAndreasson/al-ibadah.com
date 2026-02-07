@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Det är obligatoriskt att vara tyst under fredagspredikan för att man ska lyssna på och närvara vid den. Det är förbjudet att tala då, även om man gör det för att beordra det goda. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om du sade: 'Var tyst' till din vän under fredagen när imamen höll predikan, då har du gjort din bön ogiltig*.” [^1]
 
-Det är också förbjudet att platta till marken eller mattan. I en *hadīth* rapporteras: ”*Den [som så mycket som] rörde en sten har gjort sin [bön] ogiltig*.” [^2]
+Det är också förbjudet att platta till marken eller mattan. I en *ḥadīt̲h* rapporteras: ”*Den [som så mycket som] rörde en sten har gjort sin [bön] ogiltig*.” [^2]
 
 Imamen är undantagen detta. Han får tilltala de närvarande och de får tilltala honom om det behövs. Utöver detta är det förbjudet. Om någon hälsar på dig med fridshälsningen, svara då endast med ett tecken. Barn ska tystas på samma sätt, utan att tala.
 
@@ -27,5 +27,5 @@ Talar någon och denne är ovetande [om att man inte får tala], då är denne u
 Och Allāh vet bäst.
 
 
-[^1]: *al-Bukhārī* 934 och *Muslim* 851
+[^1]: *al-Buk̲hārī* 934 och *Muslim* 851
 [^2]: *Muslim* 851

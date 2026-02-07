@@ -20,13 +20,13 @@ Nu har jag en del smycken och jag har hört att allmosan måste betalas för gul
 
 **Svar:** Allmosa blir en skyldighet för dig vid den tidpunkt som du fick veta att det var en skyldighet för dig att betala allmosa för smycken. Det som har inträffat innan du hade vetskap om detta behöver du inte betala allmosa för. Detta beror på att de islamiska lagarna enbart blir obligatorisk när de är kända.
 
-Den andel som måste betalas är 2.5 procent om smyckena når den lägsta gräns som gör att allmosa krävs. Denna gräns är 20 *mithqal* [för guld]. Detta är likvärdigt med 11,5 saudiska *junahy*. Om guldet uppnår eller överskrider detta värde blir allmosan en skyldighet. För varje 1000 *junahy* betalar man 25 *junahy*.
+Den andel som måste betalas är 2.5 procent om smyckena når den lägsta gräns som gör att allmosa krävs. Denna gräns är 20 *mit̲hqāl* [för guld]. Detta är likvärdigt med 11,5 saudiska *junahy*. Om guldet uppnår eller överskrider detta värde blir allmosan en skyldighet. För varje 1000 *junahy* betalar man 25 *junahy*.
 
-När det gäller silver är den lägsta nivån för allmosa 140 *mithqal*. Det är likvärdigt med 56 silverriyal[^1] eller samma värde i mynt. Den andel som måste betalas är 2.5 procent, precis som för guld.
+När det gäller silver är den lägsta nivån för allmosa 140 *mit̲hqāl*. Det är likvärdigt med 56 silverriyal[^1] eller samma värde i mynt. Den andel som måste betalas är 2.5 procent, precis som för guld.
 
 När det gäller diamanter och andra stenar krävs ingen allmosa för dem om de är till för att bäras. Men om de ska säljas blir det en skyldighet enligt deras värde i guld och silver om de når den lägsta nivån som krävs för allmosa.
 
 Och Allāh är Givaren av framgång.
 
-[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramadan* 1428).
+[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramaḍān* 1428).
 

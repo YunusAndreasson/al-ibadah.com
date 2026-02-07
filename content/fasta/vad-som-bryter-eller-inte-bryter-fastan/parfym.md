@@ -14,8 +14,8 @@ description: >-
   under ramadan, utom när det gäller rökel...
 ---
 
-**Fråga:** Vilket är utlåtandet om den fastande som dagtid använder parfym under *ramadan*?
+**Fråga:** Vilket är utlåtandet om den fastande som dagtid använder parfym under *ramaḍān*?
 
-**Svar:** Det är ingen fara om man använder eller andas in dem dagtid under *ramadan*, utom när det gäller rökelser. Den troende bör inte inandas dem då det finns en substans i dem som når magen. Detta är rök.
+**Svar:** Det är ingen fara om man använder eller andas in dem dagtid under *ramaḍān*, utom när det gäller rökelser. Den troende bör inte inandas dem då det finns en substans i dem som når magen. Detta är rök.
 
 

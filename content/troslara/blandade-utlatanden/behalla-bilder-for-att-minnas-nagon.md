@@ -10,13 +10,13 @@ categories:
 original_id: 1649
 description: >-
   Fråga: Kan en person ta sin egen bild och sedan sända den till sin familj
-  under 'eid eller vid något annat tillfälle? Svar: Det finns många ahādīth som
+  under ´eid eller vid något annat tillfälle? Svar: Det finns många ahādīth som
   nämner att Allāhs sändebud – över honom...
 ---
 
-**Fråga:** Kan en person ta sin egen bild och sedan sända den till sin familj under '*eid* eller vid något annat tillfälle?
+**Fråga:** Kan en person ta sin egen bild och sedan sända den till sin familj under '*´eid* eller vid något annat tillfälle?
 
-**Svar:** Det finns många *ahādīth* som nämner att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – förbjöd bilder, att han förbannade personerna som tog dem och att han varnade dem för olika former av straff.
+**Svar:** Det finns många *aḥādīt̲h* som nämner att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – förbjöd bilder, att han förbannade personerna som tog dem och att han varnade dem för olika former av straff.
 
 Av denna anledning får en muslim inte fotografera sig själv eller någon annan om det inte är nödvändigt. Vad som är nödvändigt kan innefatta passfoton, id-kort och liknande.
 

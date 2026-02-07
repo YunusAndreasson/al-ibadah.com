@@ -25,5 +25,5 @@ Det finns dock föreskrivet att böneutroparen efter böneutropet tyst [för sig
 Enligt profetens – över honom vare Allāhs frid och välsignelser – *sunnah* bör dem som hör böneutropet läsa efter böneutroparen, utom då han säger "*Hayya 'alas-Salāh*" och "*Hayya 'alal-Falāh*". Då säger man i stället "*Lā Hawla wa lā Quwwata illa Billah*". Efter detta sänder man sina välsignelser över profeten – över honom vare Allāhs frid och välsignelser – och ber om Allāhs medling.
 
 
-[^1]: *Sahīh al-Bukhārī* 2697 och *Sahīh Muslim* 1718
-[^2]: *Sahīh Muslim* 1718
+[^1]: *Ṣaḥīḥ al-Buk̲hārī* 2697 och *Ṣaḥīḥ Muslim* 1718
+[^2]: *Ṣaḥīḥ Muslim* 1718

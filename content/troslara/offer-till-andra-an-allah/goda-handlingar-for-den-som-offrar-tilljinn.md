@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Några som studerar islam har berättat för oss att den som offrar till *jinn* varken får sin bön eller vallfärd accepterad. När jag hörde detta ångrade jag mig inför Allāh då jag brukade göra detta. Jag har vallfärdat men de sade att min vallfärd är ogiltig. Är det sant att min vallfärd är ogiltig? Om det är så, måste jag då vallfärda igen?
 
-**Svar:** Att offra djur till *jinn* är *shirk*. Den som gör detta och dör före denne har ångrat sig kommer att vara i Helveteselden för evigt. Goda handlingar accepteras inte tillsammans med *shirk*. Allāh säger:
+**Svar:** Att offra djur till *jinn* är *s̲hirk*. Den som gör detta och dör före denne har ångrat sig kommer att vara i Helveteselden för evigt. Goda handlingar accepteras inte tillsammans med *s̲hirk*. Allāh säger:
 
 > ”Om de hade satt medhjälpare vid Hans sida skulle helt visst allt vad de åstadkommit ha gått om intet.” [Koranen 6:88]
 

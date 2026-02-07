@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 207 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Klädseln
+  - Klädsel i bönen
 original_id: 222
 description: 'Fråga: Om jag glömde och bad i ett klädesplagg som det fanns lite smuts
  på och sedan kom ihåg det under bönen, kan jag då avbryta bönen och byta plagg?

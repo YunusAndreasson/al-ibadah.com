@@ -1,0 +1,23 @@
+---
+import { getArabicTerm } from '~/lib/content-utils'
+
+interface Props {
+  name: string
+  variant?: 'inline' | 'title'
+}
+
+const { name, variant = 'inline' } = Astro.props
+const arabicTerm = getArabicTerm(name)
+---
+
+{variant === 'title' ? (
+  <div class="mt-8 mb-8">
+    <h1 class="page-title">{name}</h1>
+    {arabicTerm && <p class="arabic-subtitle">{arabicTerm}</p>}
+  </div>
+) : (
+  <span class="font-medium text-foreground">
+    {name}
+    {arabicTerm && <span class="arabic-inline">{arabicTerm}</span>}
+  </span>
+)}

@@ -32,4 +32,4 @@ Må Allāh sända frid och välsignelser över vår profet Muḥammad, hans fami
 
 [^1]: Svart pulver av antimon som appliceras runt ögonen.
 
-[^2]: *Abū Dawūd* 2366, *at-Tirmithi* 788 och *Ibn Mājah* 407
+[^2]: *Abū Dāwūd* 2366, *at-Tirmithi* 788 och *Ibn Mājah* 407

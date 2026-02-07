@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 320 s. ISBN saknas
 categories:
   - Bön (Salāh)
-  - Nattbön och witr
+  - Nattbön
 original_id: 302
 description: >-
   Fråga: När börjar tiden för witr? Svar: Tiden för witr är mellan nattbönen[^1]

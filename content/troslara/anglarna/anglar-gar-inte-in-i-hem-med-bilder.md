@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Är det sant att änglar inte går in i ett rum som det finns bilder i?
 
-**Svar:** I en autentisk *hadīth* rapporteras att änglar inte går in i ett hem som det finns en hund i eller som det hänger bilder i [^1]. Samtidigt har det i vissa *ahādīth* rapporterats att bilder tryckta på kläder accepteras. [^2] Profeten – över honom vare Allāhs frid och välsignelser – gick in i hemmet där ‘Ā’ishāh – må Allāh vara nöjd med henne – var och hon hade hängt upp gardiner för att göra en vestibul i hemmet och på gardinerna fanns det bilder.
+**Svar:** I en autentisk *ḥadīt̲h* rapporteras att änglar inte går in i ett hem som det finns en hund i eller som det hänger bilder i [^1]. Samtidigt har det i vissa *aḥādīt̲h* rapporterats att bilder tryckta på kläder accepteras. [^2] Profeten – över honom vare Allāhs frid och välsignelser – gick in i hemmet där ‘Ā’ishāh – må Allāh vara nöjd med henne – var och hon hade hängt upp gardiner för att göra en vestibul i hemmet och på gardinerna fanns det bilder.
 
 Profeten – över honom vare Allāhs frid och välsignelser – blev arg och han gick inte in förrän hon hade plockat bort detta och gjort om det till en eller två kuddar. [^3]
 
@@ -25,6 +25,6 @@ Därmed kan vi dra slutsatsen att det som klippts upp, trampas eller sitts på �
 Detta beror antingen på att det i bilderna finns imitationer av Allāhs skapelse eller på rädslan för att dessa bilder, eller deras skapare, ska bli till objekt som vördas överdrivet mycket.
 
 
-[^1]: *al-Bukhārī* 3224 och *Muslim* 2106
-[^2]: *al-Bukhārī* 5958
-[^3]: *al-Bukhārī* 5954
+[^1]: *al-Buk̲hārī* 3224 och *Muslim* 2106
+[^2]: *al-Buk̲hārī* 5958
+[^3]: *al-Buk̲hārī* 5954

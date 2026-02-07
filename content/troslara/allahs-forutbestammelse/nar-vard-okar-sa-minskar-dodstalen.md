@@ -63,7 +63,7 @@ Så Han har gjort det klart att det är garanterat att livet kommer att tagas oc
 
 Profeten – över honom vare Allāhs frid och välsignelser – har också sagt:
 
-> "*Den som vill att hans levebröd ska utökas för honom eller att hans ålder ska utökas, då bör han bevara skötet [familjeband]*." [*al-Bukhārī* 5985, *Muslim* 2557 och *Abū Dawūd* 1693]
+> "*Den som vill att hans levebröd ska utökas för honom eller att hans ålder ska utökas, då bör han bevara skötet [familjeband]*." [*al-Buk̲hārī* 5985, *Muslim* 2557 och *Abū Dāwūd* 1693]
 
 Därmed säger vi: Medicinsk vård är en orsak till fysisk hälsa och behandling. Detta är precis vad frågeställaren säger, men allt sker genom Allāhs tillstånd och inom Hans vetskap. Han har gjort vården till en orsak som producerar en verkan, och Han har organiserat dess verkan genom Hans kommendering och dekrets verkan enligt Hans vetskap.
 

@@ -14,11 +14,11 @@ description: >-
   dem och bryta fastan? Detta i vetskap ...
 ---
 
-**Fråga:** En fastande reser från ett islamiskt land till ett annat. I det första landet tillkännagavs det att nymånen i *shawwal* hade siktats. Bör han då följa dem och bryta fastan? Detta i vetskap om att nymånen i *shawwal* inte har siktats i det andra landet?
+**Fråga:** En fastande reser från ett islamiskt land till ett annat. I det första landet tillkännagavs det att nymånen i *s̲hawwāl* hade siktats. Bör han då följa dem och bryta fastan? Detta i vetskap om att nymånen i *s̲hawwāl* inte har siktats i det andra landet?
 
 **Svar:** Om någon reser från ett islamiskt land till ett annat land och fastan bryts senare i landet som han rest till, då bör han fortsätta [att fasta] med dem tills de bryter fastan. Detta beror på att man fastar när folket fastar och man bryter fastan när folket bryter fastan.
 
-*‘Eid al-adhā* är den dag när djuren offras, även om det betyder att det blir en dag till eller ännu mer.
+*´eid al-aḍḥā* är den dag när djuren offras, även om det betyder att det blir en dag till eller ännu mer.
 
 Detsamma gäller om han reser till ett land där solen går ned senare. Här blir ju dagen två till tre timmar längre eller ännu mer om denne reser till ett annat land. Nymånen har ännu inte siktats där och profeten – över honom vare Allāhs frid och välsignelser – har beordrat oss att inte fasta om vi inte ser nymånen. Han har även sagt: ”*Bryt er fasta när ni ser den*.”
 
@@ -28,6 +28,6 @@ I det andra fallet säger vi att denne tar igen [dagen som denne har missat], d�
 
 Vi säger även: Bryt din fasta även om du inte har genomfört 29 dagar. Nymånen har siktats och när den har siktats måste du bryta din fasta.
 
-Då du har fastat mindre än 29 [dagar], på grund av att det inte är möjligt att en månad har mindre än 29 [dagar], måste du fullborda 29 dagar vilket står i motsats till den första situationen för du bryter inte fastan förrän nymånen har siktats och om den inte har siktats är det fortfarande *ramadan*. Hur kan du då bryta din fasta, för du måste fasta, även om din månad har blivit längre är det enbart detsamma som när det blir fler dagstimmar.
+Då du har fastat mindre än 29 [dagar], på grund av att det inte är möjligt att en månad har mindre än 29 [dagar], måste du fullborda 29 dagar vilket står i motsats till den första situationen för du bryter inte fastan förrän nymånen har siktats och om den inte har siktats är det fortfarande *ramaḍān*. Hur kan du då bryta din fasta, för du måste fasta, även om din månad har blivit längre är det enbart detsamma som när det blir fler dagstimmar.
 
 

@@ -29,5 +29,5 @@ Med anledning av bevis är det tydligt att dessa högtider inte är ifrån den l
 Vi ber Allāh, för vår egen räkning och alla muslimer, att Han håller oss stadigt vid sanningen och låter oss undvika allt som skiljer sig ifrån Hans rena lag. Han är den mest Generöse och Ädle.
 
 
-[^1]: *al-Bukhārī* och *Muslim*
-[^2]: *al-Bukhārī* och *Muslim*
+[^1]: *al-Buk̲hārī* och *Muslim*
+[^2]: *al-Buk̲hārī* och *Muslim*

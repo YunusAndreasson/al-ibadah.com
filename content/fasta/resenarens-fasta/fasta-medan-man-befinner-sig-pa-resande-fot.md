@@ -25,5 +25,5 @@ Den som fastar syndar inte om fastan inte är svår för denne. Om fastan är sv
 Och Allāh är Givaren av framgång.
 
 
-[^1]: *al-Bukhārī* 1946
-[^2]: *Ahmad* 2:108
+[^1]: *al-Buk̲hārī* 1946
+[^2]: *Aḥmad* 2:108

@@ -20,7 +20,7 @@ description: >-
 
 Har den avlidne testamenterat något kommer det att vara en bestående välgörenhet. Likaså om denne har donerat något, då kommer det att vara en bestående välgörenhet då människor kommer att fortsätta att få nytta av det efter dennes bortgång. Likaså kunskap då det är något som kommer från dennes handlingar. Och om sonen åkallar för denne så kommer det att vara en bestående välgörenhet.
 
-Om det därför sägs till oss: Är det bättre att be två bönecykler för min far eller att be två bönecykler för min egen skull och åkalla för fadern under dem? Då svarar vi: Det är bättre om du ber två bönecykler själv och åkallar för din far under dem. Detta var profetens – över honom vare Allāhs frid och välsignelser – vägledning när han sade: "*eller en rättfärdig son som åkallar för denne*." Han sade inte: "den som ber [*salāh*] för honom", eller något annat.
+Om det därför sägs till oss: Är det bättre att be två bönecykler för min far eller att be två bönecykler för min egen skull och åkalla för fadern under dem? Då svarar vi: Det är bättre om du ber två bönecykler själv och åkallar för din far under dem. Detta var profetens – över honom vare Allāhs frid och välsignelser – vägledning när han sade: "*eller en rättfärdig son som åkallar för denne*." Han sade inte: "den som ber [*ṣalāh*] för honom", eller något annat.
 
 [^1]: Sadaqah jariyah.
 

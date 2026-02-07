@@ -15,7 +15,7 @@ description: >-
   31:24] Och det som har återberättats i ...
 ---
 
-**Fråga:** Hur kan vi förlika att doktorer kan ta reda på om fostret är en flicka eller pojke med versen: “*som vet vad som ligger gömt i moderlivet*.” [^2] Och det som har återberättats i *Tafsīr Ibn Jarīr* från Mujāhid om en man som frågade profeten – över honom vare Allāhs frid och välsignelser – vad hans fru skulle föda och Allāh då uppenbarade denna vers. Och det som har återberättats från Qutādah? Finns det någon annan vers eller *hadīth* om detta som är mer särskild?
+**Fråga:** Hur kan vi förlika att doktorer kan ta reda på om fostret är en flicka eller pojke med versen: “*som vet vad som ligger gömt i moderlivet*.” [^2] Och det som har återberättats i *Tafsīr Ibn Jarīr* från Mujāhid om en man som frågade profeten – över honom vare Allāhs frid och välsignelser – vad hans fru skulle föda och Allāh då uppenbarade denna vers. Och det som har återberättats från Qutādah? Finns det någon annan vers eller *ḥadīt̲h* om detta som är mer särskild?
 
 **Svar:** All lovprisan tillhör Allāh. Innan jag diskuterar denna fråga skulle jag vilja klargöra att det aldrig kan finnas en motsägelse mellan ett tydligt uttalande i Koranen och verkligheten. Ser det ut som att verkligheten motsägs beror det antingen på att det som vi tror är verklighet i själva verket är ett grundlöst påstående, eller att texten i Koranen inte motsäger sig denna verklighet på ett klart och definitivt sätt. Tydliga påstående i Koranen och verkligheten är båda definitiva faktum, och två definitiva fakta kan aldrig motsäga sig varandra.
 
@@ -25,7 +25,7 @@ Därmed kan det sägas att doktorer i dag har möjlighet att genom precisa instr
 
 Däremot stannar det kvar i tre lager av mörker och om de förflyttas, då skulle dess kön komma till kännedom. Det är inte långsökt att tro att det bland de ting som Allāh har skapat finns kraftfulla strålar som kan tränga igenom dessa tre lager av mörker, så att det blir tydligt om fostret är en pojke eller flicka. Denna vers hänvisar inte tydligt till vetskapen om fostret är en pojke eller flicka, likaså gör inte profetens – över honom vare Allāhs frid och välsignelser – *sunnah* det.
 
-När det gäller frågeställarens hänvisning till vad Ibn Jarīr har citerat ifrån Mujāhid om en man som frågade profeten – över honom vare Allāhs frid och välsignelser – vad dennes fru skulle föda och att Allāh uppenbarade denna vers, då är denna berättelse *munqati'*, då Mujāhid var en av *tābi'īn*.
+När det gäller frågeställarens hänvisning till vad Ibn Jarīr har citerat ifrån Mujāhid om en man som frågade profeten – över honom vare Allāhs frid och välsignelser – vad dennes fru skulle föda och att Allāh uppenbarade denna vers, då är denna berättelse *munqati'*, då Mujāhid var en av *tābi’īn*.
 
 Qutādah's *tafsīr* kan tolkas som att enbart Allāh har kunskap om detta så länge det inte har utformats fullt. Men när fostret har utformats, då har andra kunskap om det. Ibn Kathīr säger i sin *tafsīr* om versen i sura Luqmān:
 

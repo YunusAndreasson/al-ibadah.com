@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Man placerar den avlidne framför imamen. Han bör stå vid den avlidnes huvud. Detta oavsett om den avlidne är gammal eller ung.
 
-Imamen gör den första *takbīr* och reciterar sedan sura *al-Fātihah*. Om han reciterar en annan kort sura tillsammans med den finns det ingen invändan mot det. Vissa lärde anser att det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah* att göra så.
+Imamen gör den första *takbīr* och reciterar sedan sura *al-Fātiḥah*. Om han reciterar en annan kort sura tillsammans med den finns det ingen invändan mot det. Vissa lärde anser att det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah* att göra så.
 
 Sedan gör han den andra *takbīr* och sänder böner över profeten – över honom vare Allāhs frid och välsignelser – genom att säga:
 

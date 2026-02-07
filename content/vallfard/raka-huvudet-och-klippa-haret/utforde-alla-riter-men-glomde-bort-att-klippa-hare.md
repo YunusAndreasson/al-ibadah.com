@@ -14,7 +14,7 @@ description: >-
   glömska. Hon kom till sitt hemland och hon gjo...
 ---
 
-**Fråga:** En kvinna vallfärdade och hon utförde alla vallfärdsriter, utom att hon inte klippte sitt hår förrän nu. Detta med anledning av okunskap eller glömska. Hon kom till sitt hemland och hon gjorde allt som är förbjudet i *ihrām*. Hon frågar nu vad hon måste göra?
+**Fråga:** En kvinna vallfärdade och hon utförde alla vallfärdsriter, utom att hon inte klippte sitt hår förrän nu. Detta med anledning av okunskap eller glömska. Hon kom till sitt hemland och hon gjorde allt som är förbjudet i *iḥrām*. Hon frågar nu vad hon måste göra?
 
 **Svar:** Om det förhåller sig som frågeställaren har beskrivit, att hon gjorde allt utom att klippa håret [med anledning av glömska eller okunskap], då måste hon i sitt hemland klippa håret och inget krävs av henne. Anledningen är att hon sköt upp det på grund av okunskap eller glömska, samtidigt som hon hade avsikten att fullfölja vallfärden. Vi ber Allāh att han ger alla framgång och godtagande.
 

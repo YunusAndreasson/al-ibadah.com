@@ -12,7 +12,7 @@ description: >-
   armarna eller könsområdet – bryter inte fa...
 ---
 
-**Fråga:** Om man klipper håret eller naglarna under *ramadan* – bryter det då fastan?
+**Fråga:** Om man klipper håret eller naglarna under *ramaḍān* – bryter det då fastan?
 
 **Svar:** Att klippa håret och naglarna samt att plocka bort håret under armarna eller könsområdet – bryter inte fastan.
 

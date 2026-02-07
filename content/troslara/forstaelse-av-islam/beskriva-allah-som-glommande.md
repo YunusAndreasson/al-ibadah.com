@@ -60,9 +60,9 @@ Och Allāh säger om hycklarna:
 
 > ”De glömmer Gud och då ska Vi glömma dem. De har sannerligen, dessa hycklare, förhärdat sig i trots och synd.” [Koranen 9:67]
 
-Och i *Sahīh Muslim* [Kitāb al-Zuhd wa’l-Raqā’iq] återges att Abū Hurairah har sagt:
+Och i *Ṣaḥīḥ Muslim* [Kitāb al-Zuhd wa’l-Raqā’iq] återges att Abū Hurairah har sagt:
 
-> ”De sade: 'Allāhs sändebud, kommer vi att få se vår Herre på Återuppståndelsens Dag?'” … och i denna *hadīth* sägs de: ”Allāh kommer att möta Sin [icke-troende] tjänare och säga: 'Trodde du att du skulle möta Mig?' Denne kommer att säga: 'Nej.' Han säger då: 'Jag kommer att glömma dig som du glömde Mig.'”
+> ”De sade: 'Allāhs sändebud, kommer vi att få se vår Herre på Återuppståndelsens Dag?'” … och i denna *ḥadīt̲h* sägs de: ”Allāh kommer att möta Sin [icke-troende] tjänare och säga: 'Trodde du att du skulle möta Mig?' Denne kommer att säga: 'Nej.' Han säger då: 'Jag kommer att glömma dig som du glömde Mig.'”
 
 Allāhs lämnande eller glömmande av någonting är en av Hans handlingar som sker genom Hans vilja och enligt Hans visdom. Allāh säger:
 

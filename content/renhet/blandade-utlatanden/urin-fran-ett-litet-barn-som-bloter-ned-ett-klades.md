@@ -21,4 +21,4 @@ description: >-
 Men när det gäller en flicka måste urinen tvättas därför att den grundläggande principen säger att urin är orent och måste tvättas. Ett gossebarn är undantaget från denna princip enligt bevisen från profetens – över honom vare Allāhs frid och välsignelser – *sunnah*.
 
 
-[^1]: *al-Bukhārī* 223 och *Muslim* 286
+[^1]: *al-Buk̲hārī* 223 och *Muslim* 286

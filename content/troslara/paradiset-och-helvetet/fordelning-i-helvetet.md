@@ -21,4 +21,4 @@ description: >-
 Profeten – över honom vare Allāhs frid och välsignelser – har här klargjort anledningen till varför de är majoriteten av Eldens invånare. Detta beror på att de ofta baktalar, förbannar och skymfar. Likaså är de otacksamma mot deras män. Av dessa anledningar är de majoriteten av Eldens invånare.
 
 
-[^1]: *al-Bukhārī* 304 och *Muslim* 79
+[^1]: *al-Buk̲hārī* 304 och *Muslim* 79

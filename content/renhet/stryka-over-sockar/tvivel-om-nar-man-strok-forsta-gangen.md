@@ -6,7 +6,7 @@ source: >-
   Libanon: Makbtaba Dar us-Salam. 341 s. ISBN 9960-892-66-2
 categories:
   - Renhet (Tahārah)
-  - Mash över sockar
+  - Strykning över strumpor
 original_id: 1211
 description: >-
   Fråga: Vad gör man om man har tvivel om när man strök [över sockarna] första
@@ -21,4 +21,4 @@ description: >-
 Den grundläggande principen är att man inte har strukit. En man klagade inför profeten – över honom vare Allāhs frid och välsignelser – om att han föreställde sig att han förlorat sin renhet under bönen. Han sade då: "*Han bör inte lämna [bönen] förrän han hör ett ljud eller känner en lukt*." [^1]
 
 
-[^1]: *al-Bukhārī* 137
+[^1]: *al-Buk̲hārī* 137

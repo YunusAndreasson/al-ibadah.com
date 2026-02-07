@@ -27,5 +27,5 @@ Med detta som grund: När du kom till moskén och folket bad kvällsbönen, då 
 Det finns ingen skadligt i detta [då menar jag skillnaden i avsikt mellan imamen och tjänaren]. Rörelserna är ju samma. Den skillnad som profeten – över honom vare Allāhs frid och välsignelser – har förbjudit mellan imamen och tjänarna var i rörelserna och inte i intentionen. Men då du gjorde detta utan vetskap, bad kvällsbönen före eftermiddagsbönen, då finns det inget skadligt i det.
 
 
-[^1]: *al-Bukhārī* 597 och *Muslim* 684
-[^2]: *al-Bukhārī* 631
+[^1]: *al-Buk̲hārī* 597 och *Muslim* 684
+[^2]: *al-Buk̲hārī* 631

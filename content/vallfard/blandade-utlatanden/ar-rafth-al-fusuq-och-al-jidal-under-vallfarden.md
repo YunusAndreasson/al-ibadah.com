@@ -19,14 +19,14 @@ description: >-
 
 > ”Vallfärden [ska fullgöras under] de kända månaderna. Den som då beger sig i väg ska så länge vallfärden varar avhålla sig från intim samvaro med kvinnor, grovt tal samt trätor och tvister. Gud vet det goda ni gör.” [Koranen 2:197]
 
-Ädle *shaykh*, vilken är innebörden av orden *ar-rafth*, *al-fusuq* och *al-jidal* som är förbjudna? Blir vallfärden ogiltig om man grälar eller sysselsätter sig med vardagligheter?
+Ädle *s̲hayk̲h*, vilken är innebörden av orden *ar-rafth*, *al-fusuq* och *al-jidal* som är förbjudna? Blir vallfärden ogiltig om man grälar eller sysselsätter sig med vardagligheter?
 
 De lärde har beskrivit termen *ar-rafth* som "intim samvaro" och det som leder till det. Termen *al-fusuq* har de beskrivit med innebörden "olydnad" [synder]. *al-jidal* har de beskrivit som "argumentera och bråka utan någon nytta". Det kan även vara diskussioner om sådant som Allāh har förklarat för tjänarna och som det då inte finns något behov av att argumentera kring.
 
 Den argumentation som har förbjudits omfattar all argumentation som irriterar eller stör pilgrimer. Att argumentera på ett fint sätt för att klargöra sanningen eller ogiltigförklara falskhet, det är föreskrivet och det innefattas inte i den sorts argumentering som är förbjuden.
 
-Ingen av dessa tre handlingar gör vallfärden ogiltig, utom om det gäller intim samvaro som inträffar före det första stadiet innan *ihrām* träds ur. Detta minskar dock dennes vallfärd och dess belöningar på samma sätt som de minskar tron och försvagar den.
+Ingen av dessa tre handlingar gör vallfärden ogiltig, utom om det gäller intim samvaro som inträffar före det första stadiet innan *iḥrām* träds ur. Detta minskar dock dennes vallfärd och dess belöningar på samma sätt som de minskar tron och försvagar den.
 
-Under vallfärden och *'umrah* måste pilgrimen därför i lydnad av Allāh och i vilja att göra en perfekt vallfärd samt *'umrah* undvika detta.
+Under vallfärden och *´umrah* måste pilgrimen därför i lydnad av Allāh och i vilja att göra en perfekt vallfärd samt *´umrah* undvika detta.
 
 

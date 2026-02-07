@@ -14,9 +14,9 @@ description: >-
   frid och välsignelser – brukade gör...
 ---
 
-**Fråga:** Vilken hand är bäst för *tasbih*, den högra eller den vänstra?
+**Fråga:** Vilken hand är bäst för *tasbīḥ*, den högra eller den vänstra?
 
-**Svar:** Det är bäst att göra det med den högra handen. Profeten – över honom vare Allāhs frid och välsignelser – brukade göra *tasbih* med höger hand. Detta är även enligt den allmänna innebörden i en *hadīth* där ‘A’ishah säger att profeten – över honom vare Allāhs frid och välsignelser – brukade föredra att börja från höger när han tog på sina skor, när han kammade sitt hår, när han tvagade[^1] sig och i allting annat. Enligt de *ahādīth* som har återberättats om detta är det tillåtet med båda händerna.
+**Svar:** Det är bäst att göra det med den högra handen. Profeten – över honom vare Allāhs frid och välsignelser – brukade göra *tasbīḥ* med höger hand. Detta är även enligt den allmänna innebörden i en *ḥadīt̲h* där ‘A’ishah säger att profeten – över honom vare Allāhs frid och välsignelser – brukade föredra att börja från höger när han tog på sina skor, när han kammade sitt hår, när han tvagade[^1] sig och i allting annat. Enligt de *aḥādīt̲h* som har återberättats om detta är det tillåtet med båda händerna.
 
 [^1]: Wudū
 

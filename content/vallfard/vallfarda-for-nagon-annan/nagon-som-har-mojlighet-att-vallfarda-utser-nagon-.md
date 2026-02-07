@@ -27,5 +27,5 @@ Bin Baz ställdes frågan: "Får den som har utfört den obligatoriska vallfärd
 Han svarade genom att säga: "De lärde har olika åsikter. Det som verkar vara mest uppenbart är att det inte är tillåtet, då tillåtelse för detta endast har rapporterats för den som har avlidit, en extremt gammal person och den som inte har möjlighet. Samma regel gäller den som är sjuk som inte förväntas att tillfriskna. Den grundläggande principen är att inte utse någon annan till att utföra dyrkan. Därför är det en skyldighet att hålla sig till detta. Och Allāh är Givaren av framgång."
 
 
-[^1]: *al-Bukhārī* 2697 och *Muslim* 1718
+[^1]: *al-Buk̲hārī* 2697 och *Muslim* 1718
 [^2]: *Muslim* 1718

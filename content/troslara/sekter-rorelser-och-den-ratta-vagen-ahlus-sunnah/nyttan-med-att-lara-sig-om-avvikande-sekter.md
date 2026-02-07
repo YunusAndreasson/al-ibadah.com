@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: Kitābul-’Ilm – sida 128, fråga 25
 categories:
   - Troslära (´Aqīdah)
-  - Sekter, rörelser och den rätta vägen
+  - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 591
 description: 'Fråga: Vilken är nyttan med att studera avvikande sekter som mu’tazilah,

@@ -21,4 +21,4 @@ description: >-
 Men om ni verkligen är hindrade får ni, grundat på de bevis som finns för detta, ropa ut böneutropet och *iqāmah* där ni befinner er.
 
 
-[^1]: *Ibn Mājah* 793, *ad-Daraquti* 1:420 och *al-Hakim* 1:245
+[^1]: *Ibn Mājah* 793, *ad-Daraquti* 1:420 och *al-Ḥākim* 1:245

@@ -23,6 +23,6 @@ Därför är en fortlöpande fasta till sen natt innan gryningen något som anse
 Han tillät dock att de fortsatte att fasta till sen natt innan gryningen. När de sade: "*Allāhs sändebud! Sannerligen utövar du fortlöpande fasta*", svarade han: "*Sannerligen, jag är inte som ni*." [^3]
 
 
-[^1]: *al-Bukhārī* 1967
-[^2]: *al-Bukhārī* 1957
+[^1]: *al-Buk̲hārī* 1967
+[^2]: *al-Buk̲hārī* 1957
 [^3]: *Muslim* 218

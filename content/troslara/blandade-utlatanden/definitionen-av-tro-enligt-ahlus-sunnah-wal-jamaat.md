@@ -37,9 +37,9 @@ Samma gäller handlingar. När en person utför en kroppslig handling i större 
 
 > ”När en sura uppenbarades säger några av dessa [hycklare]; ’Vem av er har känt sin tro stärkas genom detta?’ De troende däremot känner sin tro växa och därför gläds de över [varje ny uppenbarelse]. Men de vars hjärtan är sjuka av tvivel drivs av den [nya uppenbarelsen] allt djupare ned i sin smutsiga synd, och de dör som förnekare.” [Koranen 9:124 – 125]
 
-I en autentisk *hadīth* från profeten – över honom vare Allāhs frid och välsignelser – har det rapporterats att han sade:
+I en autentisk *ḥadīt̲h* från profeten – över honom vare Allāhs frid och välsignelser – har det rapporterats att han sade:
 
-> ”Jag har inte sett någon mer bristfällig i intelligens och religion; en aktsam [och] förnuftig man kan ledas vilse genom någon av er.” [*al-Bukhārī* 304]
+> ”Jag har inte sett någon mer bristfällig i intelligens och religion; en aktsam [och] förnuftig man kan ledas vilse genom någon av er.” [*al-Buk̲hārī* 304]
 
 Således både ökar och minskar tron.
 
@@ -58,4 +58,4 @@ Orsakerna som ligger bakom svagheter i tron är de motsatta:
 
 
 [^1]: Koranen 51:20 – 21
-[^2]: *al-Bukhārī* 6772
+[^2]: *al-Buk̲hārī* 6772

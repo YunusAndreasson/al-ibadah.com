@@ -21,4 +21,4 @@ description: >-
 En utlöpare till denna fråga är ett annat problem som orsakar ännu mer förvirring för många och det berör den som har missat den första bugningen i en bönecykel. Den som har missat den första bugningen i en bönecykel har missat denna bönecykel. Så när imamen har gjort *taslīm* tar denne igen hela denna bönecykel där denne har missat den första bugningen. Detta är enligt den allmänna betydelsen i profetens – över honom vare Allāhs frid och välsignelser – ord: ”… *och fullfölj [det du har missat]*.”
 
 
-[^1]: *al-Bukhārī* 636 och *Muslim* 602
+[^1]: *al-Buk̲hārī* 636 och *Muslim* 602

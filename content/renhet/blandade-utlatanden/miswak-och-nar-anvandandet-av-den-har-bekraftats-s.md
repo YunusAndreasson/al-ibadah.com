@@ -14,8 +14,8 @@ description: >-
   har bekräftats när man vaknar, ...
 ---
 
-**Fråga:** När har användandet av *miswak* bekräftats? Vilket är utlåtandet om att använda *miswak* när man väntar på fredagspredikan?
+**Fråga:** När har användandet av *miswāk* bekräftats? Vilket är utlåtandet om att använda *miswāk* när man väntar på fredagspredikan?
 
-**Svar:** Användandet av *miswak* har bekräftats när man vaknar, går in i ett hus, har tvagat sig och innan bönen. Det finns ingen invändan mot att använda *miswak* när man väntar på att bönen ska börja. Men under predikan bör man inte använda den eftersom det är störande. Känner man sig sömnig kan man dock använda den för att försöka hejda tröttheten.
+**Svar:** Användandet av *miswāk* har bekräftats när man vaknar, går in i ett hus, har tvagat sig och innan bönen. Det finns ingen invändan mot att använda *miswāk* när man väntar på att bönen ska börja. Men under predikan bör man inte använda den eftersom det är störande. Känner man sig sömnig kan man dock använda den för att försöka hejda tröttheten.
 
 

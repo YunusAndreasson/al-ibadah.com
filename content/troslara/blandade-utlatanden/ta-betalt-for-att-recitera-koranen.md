@@ -21,7 +21,7 @@ Vilket är det islamiska utlåtandet om välgörenheten som de samlar in och del
 
 > ”Den som använder Koranen för att tjäna sitt levebröd kommer på Återuppståndelsens Dag att infinna sig med ett benigt ansikte [inget kött i det].”
 
-Är denna *hadīth* autentisk? Och vilken är innebörden av följande vers:
+Är denna *ḥadīt̲h* autentisk? Och vilken är innebörden av följande vers:
 
 > ”Säg [Muḥammad:] ¨Jag begär ingen lön av er för detta [budskap] och jag är inte en av dem som ger sig ut för att vara vad de inte är.” [Koranen 38:86]
 
@@ -31,9 +31,9 @@ Det har aldrig rapporterats att de rättfärdiga föregångarna hyrde någon fö
 
 Profeten – över honom vare Allāhs frid och välsignelser – har beordrat dem som läser Koranen att be Allāh genom den och varnat dem för att tigga. *at-Tirmithi* återger i sin *Sunan* att ’Imrān bin Hussain passerade en predikant som började tigga efter att ha avslutat sin predikan. ’Imrān sade:
 
-> ”Jag hörde profeten – över honom vare Allāhs frid och välsignelser – säga: ’Den som reciterar Koranen bör be Allāh genom den, för det kommer att komma ett folk som reciterar Koranen och sedan ber människor om pengar [för det].” [*at-Tirmithi* 2917 och *Ahmad* 4:432]
+> ”Jag hörde profeten – över honom vare Allāhs frid och välsignelser – säga: ’Den som reciterar Koranen bör be Allāh genom den, för det kommer att komma ett folk som reciterar Koranen och sedan ber människor om pengar [för det].” [*at-Tirmithi* 2917 och *Aḥmad* 4:432]
 
-Enligt autentiska *hadither* är det inte tillåtet att ta betalt för att lära ut eller läsa för sjuka […] En *hadīth* om detta är den från Abū Sa’id när han tog emot en flock får för att läka någon genom att recitera sura *al-Fātihah*. En annan *hadīth* är den från Sahl om när profeten – över honom vare Allāhs frid och välsignelser – gifte en man med en kvinna och ansåg att hennes brudgåva var att mannen lärde henne de suror i Koranen som han hade memorerat.
+Enligt autentiska *ḥadīt̲h* är det inte tillåtet att ta betalt för att lära ut eller läsa för sjuka […] En *ḥadīt̲h* om detta är den från Abū Sa’id när han tog emot en flock får för att läka någon genom att recitera sura *al-Fātiḥah*. En annan *ḥadīt̲h* är den från Sahl om när profeten – över honom vare Allāhs frid och välsignelser – gifte en man med en kvinna och ansåg att hennes brudgåva var att mannen lärde henne de suror i Koranen som han hade memorerat.
 
 Därför motsätter sig den som tar betalt för att läsa Koranen samt den som hyr någon för att göra det konsensus hos de rättfärdiga föregångarna, må Allāh ge dem nåd.
 
@@ -45,7 +45,7 @@ Människor har olika nivå när det kommer till förståelse och intellekt. Varj
 
 Har man efter att ha gjort sitt bästa inte förmåga att förstå Koranen, då bör man inte sluta läsa den, för det ligger ingen skuld på en då. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Den som är duktig på att läsa Koranen kommer att vara i följe med hedervärda och lydiga änglar, medan den som läser den med svårighet kommer att få dubbla belöningar.” [*Muslim* 798, *Ibn Mājah* 3779 och *Ahmad* 6:98, 170 och 266]
+> ”Den som är duktig på att läsa Koranen kommer att vara i följe med hedervärda och lydiga änglar, medan den som läser den med svårighet kommer att få dubbla belöningar.” [*Muslim* 798, *Ibn Mājah* 3779 och *Aḥmad* 6:98, 170 och 266]
 
 Den fattige får ta emot välgörenhet för att det ska täcka dennes behov, men om denne tar betalt för att läsa Koranen eller för att predika, då är de inte tillåtet. Det är heller inte tillåtet att ge sådana pengar i hopp om att få välsignelser eller för att någon ska åkalla för en. Muslimerna under det tre första generationerna vars förträfflighet profeten – över honom vare Allāhs frid och välsignelser – har gått i god för gjorde inte så här.
 
@@ -59,21 +59,21 @@ Sändebuden var på detta vis. De bad aldrig folket om belöningar för att de s
 
 En varning för att tjäna sitt levebröd genom Koranen har redan nämnts i de första paragraferna i detta svar.
 
-Beträffande bestraffningar för att göra detta, då kommer en sådan person på Återuppståndelsen Dag att komma utan kött i ansiktet. Detta är sannerligen ett skarpt hot riktat mot den som tigger utan någon giltig anledning, oavsett om detta sker genom läsning av Koranen eller på något annat sätt. ’Abdullāh bin ’Umar rapporterar att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
+Beträffande bestraffningar för att göra detta, då kommer en sådan person på Återuppståndelsen Dag att komma utan kött i ansiktet. Detta är sannerligen ett skarpt hot riktat mot den som tigger utan någon giltig anledning, oavsett om detta sker genom läsning av Koranen eller på något annat sätt. ´Abdullāh bin ’Umar rapporterar att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”En av er kommer att fortsätta tigga tills denne möter Allāh utan något kött i sitt ansikte.” [*Muslim* 1040 och *Ahmad* 2:15, 88]
+> ”En av er kommer att fortsätta tigga tills denne möter Allāh utan något kött i sitt ansikte.” [*Muslim* 1040 och *Aḥmad* 2:15, 88]
 
 I en annan version sade han:
 
-> ”En av er kommer att fortsätta att tigga för att på Återuppståndelsens Dag komma utan något kött i sitt ansikte.” [*al-Bukhārī* 1474 och *Muslim* 1040]
+> ”En av er kommer att fortsätta att tigga för att på Återuppståndelsens Dag komma utan något kött i sitt ansikte.” [*al-Buk̲hārī* 1474 och *Muslim* 1040]
 
 Abū Hurairah har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Den som ber människor om mer tillgångar ber om glödande kol. Så låt denne ta mer eller mindre eld.” [*Muslim* 1041, *Ibn Mājah* 1838 och *Ahmad* 2:231]
+> ”Den som ber människor om mer tillgångar ber om glödande kol. Så låt denne ta mer eller mindre eld.” [*Muslim* 1041, *Ibn Mājah* 1838 och *Aḥmad* 2:231]
 
-Den som tigger med Koranen som hjälp gäller *hadithen* från 'Imrān bin Husain för, om denne är fattig. Men om denne är rik, då gäller alla hotelser i den ovan nämnda *hadithen*.
+Den som tigger med Koranen som hjälp gäller *ḥadīt̲h* från 'Imrān bin Husain för, om denne är fattig. Men om denne är rik, då gäller alla hotelser i den ovan nämnda *ḥadīt̲h*.
 
-Den *hadīth* som du citerade i din fråga känner vi inte till äktheten i.
+Den *ḥadīt̲h* som du citerade i din fråga känner vi inte till äktheten i.
 
 Och Allāh vet bäst.
 

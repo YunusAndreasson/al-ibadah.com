@@ -12,7 +12,7 @@ description: 'Fråga: Är det islamiskt sett tillåtet att jag sätter in mina t
  att dessa banker använder ränta innebär e...'
 ---
 
-**Fråga:** Är det islamiskt sett tillåtet att jag sätter in mina tillgångar på en bank, tar räntan och sedan ger den till *mujāhidin*?
+**Fråga:** Är det islamiskt sett tillåtet att jag sätter in mina tillgångar på en bank, tar räntan och sedan ger den till *mujāhidīn*?
 
 **Svar:** Då det är känt att dessa banker använder ränta innebär en insättning av tillgångar i dem att man hjälper dem med synd och överträdelse. Vi ger rådet att det inte ska finnas något samröre med dessa banker.
 

@@ -22,13 +22,13 @@ Detta kommer att leda till att människor märker varandra som innovatörer i fr
 
 Därför säger jag: Att beskriva den som efter bugningen placerar händerna på bröstet som en innovatör är mycket hårt mot denne. Det är inte passande att bröderna beskriver denne person så.
 
-Den korrekta åsikten är att det är *sunnah* att placera den högra handen över den vänstra efter att ha rest sig upp från bugningen. Beviset för detta har bekräftats i *Sahīh al-Bukhārī* i en *hadīth* från Sahl bin Sa'd i vilken han säger: "*Folket beordrades att placera höger hand över den vänstra underarmen i bönen*."
+Den korrekta åsikten är att det är *sunnah* att placera den högra handen över den vänstra efter att ha rest sig upp från bugningen. Beviset för detta har bekräftats i *Ṣaḥīḥ al-Buk̲hārī* i en *ḥadīt̲h* från Sahl bin Sa'd i vilken han säger: "*Folket beordrades att placera höger hand över den vänstra underarmen i bönen*."
 
-Vi förstår denna *hadīth* genom att studera den, för vi säger: Var placeras händerna under nedfallandet? Svaret är: På marken. Vi säger: Var placeras de under bugningen? Svaret är: På knäna. Vi säger: Var placeras händerna när man sitter? Svaret är: På låren. Då täcks situationen då man står av Sahls ord: " Folket beordrades att de i bönen skulle placera höger hand över den vänster underarm."
+Vi förstår denna *ḥadīt̲h* genom att studera den, för vi säger: Var placeras händerna under nedfallandet? Svaret är: På marken. Vi säger: Var placeras de under bugningen? Svaret är: På knäna. Vi säger: Var placeras händerna när man sitter? Svaret är: På låren. Då täcks situationen då man står av Sahls ord: " Folket beordrades att de i bönen skulle placera höger hand över den vänster underarm."
 
-Därför bevisar denna *hadīth* att den högra handen placeras över den vänstra när man står, både före och efter bugningen. Detta är den sanning som profetens – över honom vare Allāhs frid och välsignelser – *sunnah* bevisar. Svaret på denna fråga består då av två delar:
+Därför bevisar denna *ḥadīt̲h* att den högra handen placeras över den vänstra när man står, både före och efter bugningen. Detta är den sanning som profetens – över honom vare Allāhs frid och välsignelser – *sunnah* bevisar. Svaret på denna fråga består då av två delar:
 
 1. Det är inte passande för oss att vara oförsiktiga med att använda ordet ”innovatör” om en handling när det finns rum för *ijtihād*.
-2. Den korrekta åsikten är att det är *sunnah* att placera den högra handen över den vänstra efter att ha rest sig från bugningen. Det är inte en innovation, vilket bevisas genom den *hadīth* från Sahl bin Sa'd som vi har nämnt. Den är allmän men bugningen, nedfallandet och sittningen uteslutas då profetens – över honom vare Allāhs frid och välsignelser – *sunnah* har avgjort en bestämd plats för händerna i dessa positioner.
+2. Den korrekta åsikten är att det är *sunnah* att placera den högra handen över den vänstra efter att ha rest sig från bugningen. Det är inte en innovation, vilket bevisas genom den *ḥadīt̲h* från Sahl bin Sa'd som vi har nämnt. Den är allmän men bugningen, nedfallandet och sittningen uteslutas då profetens – över honom vare Allāhs frid och välsignelser – *sunnah* har avgjort en bestämd plats för händerna i dessa positioner.
 
 

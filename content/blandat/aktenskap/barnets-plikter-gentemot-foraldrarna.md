@@ -20,7 +20,7 @@ description: >-
 
 Det är hennes rätt att du gör vad hon instruerat i testamentet om hon har ett islamiskt testamente som hon har lämnat dig. Du bör även hedra hennes vänner och stärka relationen mellan dig och de som stod henne nära som dina morbröder och deras barn, exempelvis.
 
-Detta utifrån vad som har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – när en man frågade honom: "Finns det någon plikt mot mina föräldrar att utföra efter att de avlidit?" Allāhs sändebud sade: "Ja, be för dem, be att Allāh förlåter dem, utför deras sista instruktioner, hedra deras vänner och håll goda relationer som enbart kommit genom dem." [Abu Dawūd 5142 och *Ibn Majah* 3664]
+Detta utifrån vad som har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – när en man frågade honom: "Finns det någon plikt mot mina föräldrar att utföra efter att de avlidit?" Allāhs sändebud sade: "Ja, be för dem, be att Allāh förlåter dem, utför deras sista instruktioner, hedra deras vänner och håll goda relationer som enbart kommit genom dem." [Abu Dawūd 5142 och *Ibn Mājah* 3664]
 
 Och må Allāh vägleda oss.
 

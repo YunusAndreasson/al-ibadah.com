@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Majmoo’ Fatāwa al-´Uthaymīn, 16/216-223'
 categories:
   - Bön (Salāh)
-  - Eid-bönerna
+  - Eid-bönen
 original_id: 1595
 description: >-
   Fråga: Skall man ta en annan väg tillbaka på väg hem från ´eid -bönen? Svar:

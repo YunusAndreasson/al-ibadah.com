@@ -38,4 +38,4 @@ Svaret är att det inte är tillåtet för denne man, om han gift bort de äldre
 Beviset för detta finns i profetens – över honom vare Allāhs frid och välsignelser – ord: "*Allāh har sannerligen skänkt varje fattig dennes rätt, så det finns inget legat för en arvtagare*." [^1]
 
 
-[^1]: *Abū Dawūd* och *at-Tirmithi*
+[^1]: *Abū Dāwūd* och *at-Tirmithi*

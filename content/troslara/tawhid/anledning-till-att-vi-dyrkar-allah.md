@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 205 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
-  - 'Tawhīd [Monoteism]'
+  - Monoteism
 original_id: 93
 description: >-
   Fråga: Varför dyrkar vi Allāh? Svar: I vissa ahādīth rapporteras att när
@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Varför dyrkar vi Allāh?
 
-**Svar:** I vissa *ahādīth* rapporteras att när räkenskapens stund inträffar i Nästa Liv, då kommer Allāh att föra fram tjänaren och fråga: ”Varför dyrkade du Mig?” Tjänaren kommer att svara: ”Jag hörde talas om skapelsen av Paradiset och den bestående njutning som det innehåller, så jag höll mig vaken under natten [i bön] och kämpade under dagarna [med att handla rättfärdigt]. Jag törstade efter att tillåtas Paradiset och jag längtade efter det – för att jag skulle få njuta av lycksaligheten och den stora belöningen.” Allāh kommer att säga till honom: ”Detta är Paradiset, så träd in i det och du kommer att få vad du har önskat.”
+**Svar:** I vissa *aḥādīt̲h* rapporteras att när räkenskapens stund inträffar i Nästa Liv, då kommer Allāh att föra fram tjänaren och fråga: ”Varför dyrkade du Mig?” Tjänaren kommer att svara: ”Jag hörde talas om skapelsen av Paradiset och den bestående njutning som det innehåller, så jag höll mig vaken under natten [i bön] och kämpade under dagarna [med att handla rättfärdigt]. Jag törstade efter att tillåtas Paradiset och jag längtade efter det – för att jag skulle få njuta av lycksaligheten och den stora belöningen.” Allāh kommer att säga till honom: ”Detta är Paradiset, så träd in i det och du kommer att få vad du har önskat.”
 
 Sedan kommer Han att föra fram en annan tjänare och fråga: ”Varför dyrkade du Mig?” Tjänaren kommer att svara: ”Jag hörde talas om skapelsen av Elden; dess straff, plåga, ondska, bojor och den smärta som den innehåller – så jag höll mig vaken och bad under natten och kämpade under dagen [med att handla rättfärdigt] av rädsla för Elden, dess skräck, smärta och bestraffning.” Allāh den Upphöjde kommer att säga: ”Du är säker från Elden. Träd in i Paradiset där du kommer att finna det du önskade.”
 

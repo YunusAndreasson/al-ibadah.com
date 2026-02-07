@@ -14,8 +14,8 @@ description: >-
   behöver hon vänta tills hon blir ren ...
 ---
 
-**Fråga:** Om en kvinna får sin månadsblödning innan hon utför *tawāf* *ul-ifādhah*, får hon då resa med sin familj och senare återvända för *tawāf* *ul-ifādhah*? Eller behöver hon vänta tills hon blir ren och då utföra *tawāf*?
+**Fråga:** Om en kvinna får sin månadsblödning innan hon utför *ṭawāf* *ul-ifādhah*, får hon då resa med sin familj och senare återvända för *ṭawāf* *ul-ifādhah*? Eller behöver hon vänta tills hon blir ren och då utföra *ṭawāf*?
 
-**Svar:** Om en kvinna får sin månadsblödning innan *tawāf* *ul-ifādhah*, då väntar hennes *mahram* på henne tills hon blir ren. Är det inte möjligt får hon resa och när hon blir ren återvänder hon för att avsluta sin vallfärd. Under denna tid bör inte hennes man komma nära henne [för att ha intim samvaro]. Har hon inte möjlighet att återvända, kanske hon bor i ett avlägset land, då kan hon försöka hålla tillbaka blödningen och utföra *tawāf* [eftersom det är nödvändigt].
+**Svar:** Om en kvinna får sin månadsblödning innan *ṭawāf* *ul-ifādhah*, då väntar hennes *maḥram* på henne tills hon blir ren. Är det inte möjligt får hon resa och när hon blir ren återvänder hon för att avsluta sin vallfärd. Under denna tid bör inte hennes man komma nära henne [för att ha intim samvaro]. Har hon inte möjlighet att återvända, kanske hon bor i ett avlägset land, då kan hon försöka hålla tillbaka blödningen och utföra *ṭawāf* [eftersom det är nödvändigt].
 
 

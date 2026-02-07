@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** 'A'ishah – må Allāh vara nöjd med henne – har rapporterat att profeten – över honom vare Allāhs frid och välsignelser – kysste en av hans fruar för att sedan gå och be utan att tvaga sig.
 
-Denna *hadīth* klargör utlåtandet om att röra kvinnor: Gör det tvagningen ogiltig? De lärde är oeniga om denna fråga. Några säger att beröringen alltid gör tvagningen ogiltig, andra har sagt att en beröring med begär gör den ogiltig och att den inte gör det om det inte finns begär, och ännu en grupp har sagt att den aldrig bryts. Den sistnämnda åsikten är starkast.
+Denna *ḥadīt̲h* klargör utlåtandet om att röra kvinnor: Gör det tvagningen ogiltig? De lärde är oeniga om denna fråga. Några säger att beröringen alltid gör tvagningen ogiltig, andra har sagt att en beröring med begär gör den ogiltig och att den inte gör det om det inte finns begär, och ännu en grupp har sagt att den aldrig bryts. Den sistnämnda åsikten är starkast.
 
 Detta betyder att när en man kysser sin fru, rör henne med handen eller kramar henne [utan att det kommer någon vätska], då blir varken hans eller fruns tvagning ogiltig. Detta beror på att den grundläggande principen är att tvagningen, tills något bevis har lagts fram, består som den var [den bryts inte].
 

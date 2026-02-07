@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 321 s. ISBN saknas
 categories:
   - Fasta (Sawm)
-  - Nattbön (tarawih)
+  - Ramadanens nattbön
 original_id: 471
 description: >-
   Fråga: Vilket är utlåtandet om att läsa åkallan under qunūt i witr -bönen
@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om att läsa åkallan under *qunūt* i *witr*-bönen under *ramadans*[^1] nätter? Är det tillåtet att utelämna den?
 
-**Svar:** *Qunūt* är en *sunnah* i *witr*-bönen. Om någon utelämnar den ibland är det ingen fara.
+**Svar:** *qunūt* är en *sunnah* i *witr*-bönen. Om någon utelämnar den ibland är det ingen fara.
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 

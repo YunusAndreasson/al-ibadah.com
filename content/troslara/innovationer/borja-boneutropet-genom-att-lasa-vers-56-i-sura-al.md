@@ -15,5 +15,5 @@ description: 'Fråga: Är det bekräftat att profeten – över honom vare Allā
 
 **Svar:** Detta har inte bekräftats att profeten – över honom vare Allāhs frid och välsignelser – gjorde detta under sin livstid. Inte heller de rättfärdiga kaliferna [gjorde detta]. I stället är det en innovation då profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Den som introducerar något i denna religion, som inte är ifrån den, kommer att få det avvisat.” [*Sahīh al-Bukhārī* 2697 och *Sahīh Muslim* 1718]
+> ”Den som introducerar något i denna religion, som inte är ifrån den, kommer att få det avvisat.” [*Ṣaḥīḥ al-Buk̲hārī* 2697 och *Ṣaḥīḥ Muslim* 1718]
 

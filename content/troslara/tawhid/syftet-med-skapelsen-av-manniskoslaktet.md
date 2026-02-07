@@ -6,7 +6,7 @@ source: >-
   budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - 'Tawhīd [Monoteism]'
+  - Monoteism
 original_id: 913
 description: >-
   Fråga: Vilket är syftet med skapelsen av människan? Svar: I Allāhs den

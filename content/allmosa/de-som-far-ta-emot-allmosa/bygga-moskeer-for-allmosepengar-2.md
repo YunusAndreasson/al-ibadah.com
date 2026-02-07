@@ -12,7 +12,7 @@ description: >-
 
 **Fråga:** Gäller Allāh den Upphöjdes ord: ”*Och för Guds sak*.” [^1] om man spenderar allmosan på att bygga moskéer?
 
-**Svar:** Att bygga moskéer innefattas inte i Allāhs den Upphöjdes ord: "*Och för Guds sak*." [^2] De lärde inom *tafsīr* har förklarat att innebörden av "*Och för Guds sak*." [^3] är: *Djihād* för Allāhs skull. Hade vi sagt att innebörden av "och för Guds sak" omfattar all form av bra arbete, då hade det inte funnits någon poäng med att begränsa Hans ord: "Offergåvorna är avsedda enbart för de fattiga." [^4]
+**Svar:** Att bygga moskéer innefattas inte i Allāhs den Upphöjdes ord: "*Och för Guds sak*." [^2] De lärde inom *tafsīr* har förklarat att innebörden av "*Och för Guds sak*." [^3] är: *djihād* för Allāhs skull. Hade vi sagt att innebörden av "och för Guds sak" omfattar all form av bra arbete, då hade det inte funnits någon poäng med att begränsa Hans ord: "Offergåvorna är avsedda enbart för de fattiga." [^4]
 
 Något som är välkänt är att en begränsning bekräftar utlåtandet om vad som har nämnts och upphäver det för allting annat. Så om vi säger att "och för Guds sak" är alla sorters bra arbete, då har versen ingen nytta med tanke på att inledningen innefattar partikeln innama [enbart] som bevisar en begränsning.
 

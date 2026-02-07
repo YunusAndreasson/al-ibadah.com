@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 158 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
-  - 'Sekter, rörelser och den rätta vägen'
+  - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 77
 description: >-
@@ -15,7 +15,7 @@ description: >-
   svaret – och Allāh vet bäst – är at...
 ---
 
-**Fråga:** Är det tillåtet att be bakom någon vars trosprinciper står i motsats till *ahlus-sunnah wal-jamā'at*? Ett exempel kan vara *ash'ari*.
+**Fråga:** Är det tillåtet att be bakom någon vars trosprinciper står i motsats till *ahlus-sunnah wal-jamā´at*? Ett exempel kan vara *ash'ari*.
 
 **Svar:** Det bästa svaret – och Allāh vet bäst – är att det är tillåtet att be bakom den som anses vara muslim och att det är förbjudet att be bakom den som inte anses vara det. Detta har ett antal lärde sagt och det är det mest korrekta. Dem som säger att bönen inte accepteras bakom en syndare avvisas. 
 

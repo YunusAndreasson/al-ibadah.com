@@ -37,5 +37,5 @@ Om du gav den som bad dig och det sedan uppdagades att denne var förmögen, och
 
 [^1]: *Muslim* 1040
 [^2]: *Muslim* 1041
-[^3]: *al-Bukhārī* 1427 och *Muslim* 1053
-[^4]: *al-Bukhārī* 1421 och *Muslim* 1022
+[^3]: *al-Buk̲hārī* 1427 och *Muslim* 1053
+[^4]: *al-Buk̲hārī* 1421 och *Muslim* 1022

@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 327 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - Adha-offret
+  - Högtidsoffret
 original_id: 879
 description: >-
   Fråga: Vilket är utlåtandet om den som rakade sitt hår under dagen för
@@ -14,9 +14,9 @@ description: >-
   göra detta, men han rakade sig ändå innan böne...
 ---
 
-**Fråga:** Vilket är utlåtandet om den som rakade sitt hår under dagen för *'eidul-adha* före han gick till bönen? Detta i vetskap om han råddes att inte göra detta, men han rakade sig ändå innan bönen.
+**Fråga:** Vilket är utlåtandet om den som rakade sitt hår under dagen för *´eidul-adha* före han gick till bönen? Detta i vetskap om han råddes att inte göra detta, men han rakade sig ändå innan bönen.
 
-**Svar:** Den som vill utföra *adhha*-offret får inte raka huvudet eller klippa naglarna under de tio första dagarna i *dhul-hijjah* innan han utfört offret. Men om han rakade huvudet eller klippte naglarna, då gör det inte hans offer ogiltigt och han behöver inte offra någon försoningslösen. Han har gjort fel i sitt handlande, men han bör inte utelämna offret.
+**Svar:** Den som vill utföra *adhha*-offret får inte raka huvudet eller klippa naglarna under de tio första dagarna i *d̲hul-ḥijjah* innan han utfört offret. Men om han rakade huvudet eller klippte naglarna, då gör det inte hans offer ogiltigt och han behöver inte offra någon försoningslösen. Han har gjort fel i sitt handlande, men han bör inte utelämna offret.
 
 Och Allāh är Den som ger framgång.
 

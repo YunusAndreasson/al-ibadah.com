@@ -23,13 +23,13 @@ Han är inte den förste och inte heller den siste vars tro har ställts inför 
 
 Några av profetens – över honom vare Allāhs frid och välsignelser – följeslagare kom till profeten – över honom vare Allāhs frid och välsignelser – och de sade till honom: 'I våra inre upplever vi saker som vi alla anser vara för allvarliga för att tala om.' Han sade: 'Upplever ni det verkligen?' De svarade: 'Ja.' Då svarade han: 'Detta är sann tro.'” [^2]
 
-I *Sahīh al-Bukhārī* och *Sahīh Muslim* har det även återgivits från Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – sade: ”Djävulen kommer till var och en av er och säger:
+I *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* har det även återgivits från Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – sade: ”Djävulen kommer till var och en av er och säger:
 
-> 'Vem skapade detta?' 'Vem skapade detta?' tills han säger: 'Vem skapade er Herre?' När han uppmuntrar till en sådan fråga bör man söka till tillflykt hos Allāh och ge upp sådana tankar.” [*al-Bukhārī* 3276 *Muslim* 134]
+> 'Vem skapade detta?' 'Vem skapade detta?' tills han säger: 'Vem skapade er Herre?' När han uppmuntrar till en sådan fråga bör man söka till tillflykt hos Allāh och ge upp sådana tankar.” [*al-Buk̲hārī* 3276 *Muslim* 134]
 
 Det har rapporterats från Ibn ‘Abbās att en man kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: ”Allāhs *sändebud! En av oss har sådana tankar att han hellre skulle förvandlas till träkol än att tala om dem*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*All lovprisan tillhör Allāh som har begränsat detta för honom [djävulens list] till [onda] viskningar*.” [^3]
 
-*Shaykh ul-Islām* ibn Taymiyah säger i sin bok om *īmān*:
+*s̲hayk̲h ul-islām* ibn Taymiyah säger i sin bok om *īmān*:
 
 > ”En troende sätts på prov genom viskningar från djävulen, viskningar om otro som ger honom bekymmer. Detta är något som profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem -har talat om när de sade: *'Allāhs sändebud! En av oss har sådana tankar i sitt inre att han hellre skulle falla ned från himlen än att tala om dem*.' Profeten – över honom vare Allāhs frid och välsignelser – sade då: *'Detta är sann tro*.' I en annan version: *'Han anser det för allvarligt att uttrycka*.' Han sade: 'All lovprisan tillhör Allāh som har begränsat detta [djävulens list] till [onda] viskningar.' Detta gäller när viskningar inträffar tillsammans med stor avsky över dem och när man driver tillbaka dem från hjärtat, då är det en del av sann tro. Detta är som när någon krigar för Allāhs skull och han möter en fiende och strider till dess att han övervunnit honom, för detta är en stor *djihād*", upp till hans ord: Detta är anledningen till att en sökare av kunskap och dyrkan är drabbas av viskningar och osäkerhet som inte påverkar varandra, därför att han [det vill säga. den andre] inte följer Allāhs lag utan följer i stället sina egna begär och försummar åminnelsen[^1] av sin Herre och detta är djävulens stora mål. Detta står i motsats till dem som vänder sig till sin Herre med kunskap och dyrkan, för djävulen är deras fiende och han försöker hindra dem från att dyrka Allāh den Upphöjde.”
 
@@ -37,7 +37,7 @@ Detta har nämnts på sidan 147 i den indiska utgåvan.
 
 Jag säger då till denna frågeställare: När det är klart för dig att detta är viskningar från djävulen, då måste du kämpa och stå emot. Du ska veta att de aldrig kommer att kunna skada dig så länge du anstränger dig tillräckligt, avvisar dem och slutar att tänka på dem. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Allāh har förlåtit vad som viskas i mina anhängares hjärtan, så länge de inte sätter dem i verket eller uttalar det.” [*al-Bukhārī* 2528 och *Muslim* 127]
+> ”Allāh har förlåtit vad som viskas i mina anhängares hjärtan, så länge de inte sätter dem i verket eller uttalar det.” [*al-Buk̲hārī* 2528 och *Muslim* 127]
 
 Om det sägs till dig: Tror du på det som viskas? Tror du att det är sant? Är det möjligt att beskriva Allāh – den Härlige på så sätt? Då säger du: Detta är inget som vi ska tala om – prisad är Du, O Allāh – detta är en stor lögn! Du avvisar det med ditt hjärta och med dina ord och du är den som skulle fly längst bort från detta.
 
@@ -65,4 +65,4 @@ Jag ber Allāh den Upphöjde att han ger dig säkerhet och skydd från allt ont 
 [^1]: Dhikr
 
 [^2]: *Muslim* 132
-[^3]: *Abū Dawūd* 5112 och *al-Musnad* 1:340
+[^3]: *Abū Dāwūd* 5112 och *al-Musnad* 1:340

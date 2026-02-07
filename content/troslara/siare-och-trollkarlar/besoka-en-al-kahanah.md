@@ -22,8 +22,8 @@ Folket sökte även kunskap om framtiden hos dem och därför säger vi att en *
 
 Det finns tre olika sorters folk som går till siare:
 
-1. Sådana som går till siaren för att fråga om något men som inte tror på denne. Detta är inte tillåtet och straffet för den som gör det är att bönen inte accepteras under 40 dagar. Detta bekräftas i *Sahīh al-Bukhārī* när profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Den som gick till en siare och frågade honom om något, dennes bön kommer inte att accepteras under 40 dagar eller 40 nätter*.” [^2]
-2. De som går till siaren för att fråga denne om något och som tror på denne. Detta är en handling sprungen ur att inte tro på Allāh den Allsmäktige när denne har trott på siarens påstående om att ha kunskap om det som är dolt för människor[^1]. Tror man på en person som påstår sig ha kunskap om detta avvisar man Allāhs ord: ”*Säg: ’Ingen i himlarna eller på jorden har kunskap om det som är dolt för människor[^1] – [ingen har denna kunskap] utom Gud*.” [^3] I en *hadīth* har det då rapporterats: ”*Den som går till en siare och som tror på vad denne [siaren] sade har inte trott på det som har uppenbarats för Muḥammad*.” [^4]
+1. Sådana som går till siaren för att fråga om något men som inte tror på denne. Detta är inte tillåtet och straffet för den som gör det är att bönen inte accepteras under 40 dagar. Detta bekräftas i *Ṣaḥīḥ al-Buk̲hārī* när profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Den som gick till en siare och frågade honom om något, dennes bön kommer inte att accepteras under 40 dagar eller 40 nätter*.” [^2]
+2. De som går till siaren för att fråga denne om något och som tror på denne. Detta är en handling sprungen ur att inte tro på Allāh den Allsmäktige när denne har trott på siarens påstående om att ha kunskap om det som är dolt för människor[^1]. Tror man på en person som påstår sig ha kunskap om detta avvisar man Allāhs ord: ”*Säg: ’Ingen i himlarna eller på jorden har kunskap om det som är dolt för människor[^1] – [ingen har denna kunskap] utom Gud*.” [^3] I en *ḥadīt̲h* har det då rapporterats: ”*Den som går till en siare och som tror på vad denne [siaren] sade har inte trott på det som har uppenbarats för Muḥammad*.” [^4]
 3. Sådana som går till siaren för att fråga denne om något för att avslöja denne inför folket så att folket ska få veta att siaren leder dem vilse genom sin spådomskonst. Det finns ingen invändan mot detta och beviset är att när Ibn Sayyad kom till profeten – över honom vare Allāhs frid och välsignelser – så fick han höra: ”*Jag har hållt något [i mina tankar] för dig, [kan du säga mig vad det är?]*” Ibn Sayyad sade: ”*Det är ad-dukh [rök]*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Må du skämmas. Du kan inte överträda dina gränser*.” [^5]
 
 Dessa är då de tre möjligheterna den som besöker en siare:
@@ -37,4 +37,4 @@ Dessa är då de tre möjligheterna den som besöker en siare:
 [^2]: *Muslim* 2230
 [^3]: Koranen 27:65
 [^4]: *at-Tirmithi* 135 och *Ibn Mājah* 639
-[^5]: *al-Bukhārī* 1354 och *Muslim* 2924
+[^5]: *al-Buk̲hārī* 1354 och *Muslim* 2924

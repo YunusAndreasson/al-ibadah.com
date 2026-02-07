@@ -25,13 +25,13 @@ När det gäller den som fastar frivilligt, dennes fasta är inte fullständig o
 
 Men den som fastar frivilligt skiljer sig från den som fastar en obligatorisk fasta i det hänseende att denne får påbörja fastan under dagen om denne inte har gjort något efter gryningsbönen som kan bryta fastan. Belöningen för fastan nedtecknas för denne från den tiden avsikten för att fasta formades.
 
-Detta beror på att 'A'ishah – må Allāh vara nöjd med henne – sagt: "Allāhs sändebud kom till oss en dag och sade: 'Har ni något [att äta]?' Vi svarade: 'Nej.' Då sade han: 'Då är jag sannerligen fastande.' Sedan kom han till oss en annan dag och vi sade: 'Vi har fått några hais [en blandning av dadlar och skirat smör] i gåva.' Han sade då: 'Visa dem för mig, för sannerligen har jag fastat sedan morgonen.' Sedan åt han dem." Denna *hadīth* har Muslim återgivit. Det finns även ett annat uttalande: "Månaden är 29 dagar så fasta inte förrän ni ser den [nya månen]. Om moln döljer den för er, räkna då antalet [dagar] till 30." [^3]
+Detta beror på att 'A'ishah – må Allāh vara nöjd med henne – sagt: "Allāhs sändebud kom till oss en dag och sade: 'Har ni något [att äta]?' Vi svarade: 'Nej.' Då sade han: 'Då är jag sannerligen fastande.' Sedan kom han till oss en annan dag och vi sade: 'Vi har fått några hais [en blandning av dadlar och skirat smör] i gåva.' Han sade då: 'Visa dem för mig, för sannerligen har jag fastat sedan morgonen.' Sedan åt han dem." Denna *ḥadīt̲h* har Muslim återgivit. Det finns även ett annat uttalande: "Månaden är 29 dagar så fasta inte förrän ni ser den [nya månen]. Om moln döljer den för er, räkna då antalet [dagar] till 30." [^3]
 
-Denna *hadīth* råder det enighet om.
+Denna *ḥadīt̲h* råder det enighet om.
 
 Och framgång kommer från Allāh.
 
 
 [^1]: Koranen 2:187
-[^2]: *al-Bukhārī* 617
-[^3]: *al-Bukhārī* 1 och *Muslim* 1907
+[^2]: *al-Buk̲hārī* 617
+[^3]: *al-Buk̲hārī* 1 och *Muslim* 1907

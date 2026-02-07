@@ -22,4 +22,4 @@ Gällande det som rinner från någon utan att det var dennes avsikt – som gen
 
 [^1]: Hijamah
 
-[^2]: *Abū Dawūd* 2367
+[^2]: *Abū Dāwūd* 2367

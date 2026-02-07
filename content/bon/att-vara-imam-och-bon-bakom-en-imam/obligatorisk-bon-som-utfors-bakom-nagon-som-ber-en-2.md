@@ -16,8 +16,8 @@ description: >-
 
 **Fråga:** Får den som ber en obligatorisk bön göra det bakom någon som ber en frivillig? Och den som ber en frivillig, är det tillåtet att göra det bakom någon som ber en obligatorisk?
 
-**Svar:** Det är tillåtet att göra det, precis som det är tillåtet att be middagsbönen bakom en imam som ber eftermiddagsbönen och att be eftermiddagsbönen bakom en imam som ber middagsbönen. Detta beror på att varje person ska få vad denne avsåg. Därför har imam *Ahmad* sagt:
+**Svar:** Det är tillåtet att göra det, precis som det är tillåtet att be middagsbönen bakom en imam som ber eftermiddagsbönen och att be eftermiddagsbönen bakom en imam som ber middagsbönen. Detta beror på att varje person ska få vad denne avsåg. Därför har imam *Aḥmad* sagt:
 
-> ”Om du gick in i [moskén] medan imamen bad *tarāwīh* och du inte hade bett nattbönen, be då bakom honom för det kommer att vara en obligatorisk bön för dig och en frivillig för honom.”
+> ”Om du gick in i [moskén] medan imamen bad *tarāwīḥ* och du inte hade bett nattbönen, be då bakom honom för det kommer att vara en obligatorisk bön för dig och en frivillig för honom.”
 
 

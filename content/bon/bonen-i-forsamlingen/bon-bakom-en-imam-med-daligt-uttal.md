@@ -23,4 +23,4 @@ Men om innebörden förändras bör du inte be bakom honom om han inte drar nytt
 För en muslim är det alltid föreskrivet att lära sin bror – både i och utanför bönen. Muslimer är varandras bröder och de bör vägleda varandra om de gör misstag, lära varandra om någon är okunnig och korrigera misstag i Koran-läsning om det är svårt för någon.
 
 
-[^1]: *al-Fātihah* 1:2
+[^1]: *al-Fātiḥah* 1:2

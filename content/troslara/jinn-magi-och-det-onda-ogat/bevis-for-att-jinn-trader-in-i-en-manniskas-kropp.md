@@ -24,12 +24,12 @@ I *Maqalat ahl as-sunnah[^1] wal-jama'ah* säger al-Ash´ari att de – *ahl as-
 
 ´Abdullah, imam Ahmads son, har sagt: ”Jag sade till min fader att en grupp påstod att *jinn* inte träder in i människors kroppar. Han sade då: 'Min son! De ljuger. Ser du inte att det är de som talar med eras tungor.'”
 
-I ett antal *ahādīth* från Allāhs sändebud – över honom vare Guds frid och välsignelser – nedtecknade av imam Ahmad och al-Bayhaqi har det rapporterats att han mötte en pojke som var besatt. Profeten – över honom vare Allāhs frid och välsignelser – började då säga: ”*Allāhs fiende! Kom ut! Allāhs fiende! Kom ut!” [Ibn Majah 3548] I andra versioner säger han: ”Allāhs fiende! Kom ut! Jag är Allāhs sändebud*.” [^4] Sedan blev pojken frisk och normal.
+I ett antal *aḥādīt̲h* från Allāhs sändebud – över honom vare Guds frid och välsignelser – nedtecknade av imam Ahmad och al-Bayhaqi har det rapporterats att han mötte en pojke som var besatt. Profeten – över honom vare Allāhs frid och välsignelser – började då säga: ”*Allāhs fiende! Kom ut! Allāhs fiende! Kom ut!” [Ibn Majah 3548] I andra versioner säger han: ”Allāhs fiende! Kom ut! Jag är Allāhs sändebud*.” [^4] Sedan blev pojken frisk och normal.
 
 Här har vi nämnt ett bevis från Koranen och två från profetens – över honom vare Guds frid och välsignelser – *sunnah*. Vad människor ständigt bevittnar är verkliga bevis, för att inte nämna att detta är åsikten hos *ahl as-sunnah[^1] wal-jama'ah*. Men vi förnekar inte att somliga är galna på grund av några andra defekter i deras sinnen.
 
 [^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 
 [^2]: Koranen 2:275
-[^3]: *al-Bukhārī* 2039 och *Muslim* 2175
-[^4]: *Ahmad* 4:171, 172
+[^3]: *al-Buk̲hārī* 2039 och *Muslim* 2175
+[^4]: *Aḥmad* 4:171, 172

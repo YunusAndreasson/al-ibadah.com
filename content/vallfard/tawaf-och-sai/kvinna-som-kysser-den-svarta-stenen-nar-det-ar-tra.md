@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 177 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - Tawāf och sa’ī
+  - Rundvandring och löpning
 original_id: 802
 description: >-
   Fråga: Jag såg någon utföra tawāf och han tryckte fram sina kvinnor [fruar och
@@ -14,15 +14,15 @@ description: >-
   att kyssa stenen eller att undvika tr...
 ---
 
-**Fråga:** Jag såg någon utföra *tawāf* och han tryckte fram sina kvinnor [fruar och döttrar] för att de skulle kyssa Stenen. Vilken av dessa handlingar är bäst – att kyssa stenen eller att undvika trängsel tillsammans med män?
+**Fråga:** Jag såg någon utföra *ṭawāf* och han tryckte fram sina kvinnor [fruar och döttrar] för att de skulle kyssa Stenen. Vilken av dessa handlingar är bäst – att kyssa stenen eller att undvika trängsel tillsammans med män?
 
-**Svar:** Om frågeställaren såg denna häpnadsväckande händelse, då har jag sett något ännu otroligare. Jag såg någon ställa sig upp innan han hade gjort *taslīm* för att avsluta den obligatoriska bönen i församlingen, för att han med kraft skulle kunna springa framåt för att kyssa Stenen! Han gjorde på så sätt den obligatoriska bönen [som är en av islams pelare] ogiltig för att han skulle kunna göra detta som varken är obligatoriskt eller föreskrivet [utom om den förenas med *tawāf*].
+**Svar:** Om frågeställaren såg denna häpnadsväckande händelse, då har jag sett något ännu otroligare. Jag såg någon ställa sig upp innan han hade gjort *taslīm* för att avsluta den obligatoriska bönen i församlingen, för att han med kraft skulle kunna springa framåt för att kyssa Stenen! Han gjorde på så sätt den obligatoriska bönen [som är en av islams pelare] ogiltig för att han skulle kunna göra detta som varken är obligatoriskt eller föreskrivet [utom om den förenas med *ṭawāf*].
 
 Detta har sitt ursprung i folkets okunskap, det är okunskap som får en att känna sig ledsen.
 
-Det är inte *sunnah* att kyssa eller röra stenen, utom om det görs tillsammans med *tawāf*. Jag känner inte till att det är *sunnah* att röra den utanför *tawāf*. Och jag säger att jag inte känner till det och jag hoppas att den som har kunskap som motsäger sig vad jag vet informerar oss om det och må Allāh belöna denne med gott. Detta är då något som är *sunnah* under *tawāf*.
+Det är inte *sunnah* att kyssa eller röra stenen, utom om det görs tillsammans med *ṭawāf*. Jag känner inte till att det är *sunnah* att röra den utanför *ṭawāf*. Och jag säger att jag inte känner till det och jag hoppas att den som har kunskap som motsäger sig vad jag vet informerar oss om det och må Allāh belöna denne med gott. Detta är då något som är *sunnah* under *ṭawāf*.
 
-Det är då endast *sunnah* om det inte för sig något skadligt för en själv eller för någon annan. Om det finns något skadligt i det, för den som gör *tawāf* eller för andra, då rör vi oss till den andra nivån som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har föreskrivit för oss och det är att röra stenen med en hand och sedan kyssa handen.
+Det är då endast *sunnah* om det inte för sig något skadligt för en själv eller för någon annan. Om det finns något skadligt i det, för den som gör *ṭawāf* eller för andra, då rör vi oss till den andra nivån som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har föreskrivit för oss och det är att röra stenen med en hand och sedan kyssa handen.
 
 Om detta heller inte är möjligt, utan genom att orsaka andra skada, då rör vi oss till den tredje nivån som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har föreskrivit för oss, vilken är att peka mot den. På detta sätt pekar vi mot den med vår hand, inte med båda händerna utan endast med den högra. Vi pekar mot den men vi kysser den inte. Detta var Sändebudets *sunnah*.
 

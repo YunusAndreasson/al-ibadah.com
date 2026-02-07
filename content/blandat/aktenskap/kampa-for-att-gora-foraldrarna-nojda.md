@@ -20,7 +20,7 @@ description: >-
 
 Det har även bekräftats att när profeten – över honom vare Allāhs frid och välsignelser – tillfrågades: "Vilken handling är den bästa?" Han svarade: "Bön i tid." "Sedan?" "Plikttrogenhet mot föräldrarna." "Sedan?" "Strida för Allāhs sak." [^3]
 
-*Ahādīth* om att vara plikttrogen mot föräldrar finns det många. Det är obligatoriskt för barn, både söner och döttrar, att kämpa för att vara plikttrogna mot sina föräldrar och att hålla sig borta från vad som leder till deras ilska. De ska lyssna till och lyda dem i allt som är bra och det är inte tillåtet för dem att inte vara lydiga även om de behandlas barskt.
+*aḥādīt̲h* om att vara plikttrogen mot föräldrar finns det många. Det är obligatoriskt för barn, både söner och döttrar, att kämpa för att vara plikttrogna mot sina föräldrar och att hålla sig borta från vad som leder till deras ilska. De ska lyssna till och lyda dem i allt som är bra och det är inte tillåtet för dem att inte vara lydiga även om de behandlas barskt.
 
 Samtidigt är det obligatoriskt för föräldrar att vara varsamma mot sina barn och behandla dem vänligt på ett sådant sätt att det förhindrar dem från att vara olydiga. Allāh den Allsmäktige säger: ”Samarbeta för att befrämja fromhet och gudsfruktan, och slut er inte samman för att befrämja synd och fiendskap.” [^4]
 
@@ -31,5 +31,5 @@ Och hos Allāh finns medlen till vad som är rätt.
 
 [^1]: Koranen 17:23
 [^2]: Koranen 31:14
-[^3]: *al-Bukhārī* 5970 och *Muslim* 85
+[^3]: *al-Buk̲hārī* 5970 och *Muslim* 85
 [^4]: Koranen 5:2

@@ -22,11 +22,11 @@ Allāh vet att han inte kommer att dyka upp innan tidens ände men Han har komme
 
 Vår Herre den Allsmäktige är den bäste *khalīfah*.
 
-Frågan som rör *Dajjāl* är därmed mycket viktig. Sannerligen är detta den största prövningen från skapelsen av Adam tills Timmen börjar. Detta har omtalats i *ahādīth*. Denna prövning var värdig nog att väljas ut bland prövningarna i detta liv för att sökas skydd mot under bönen:
+Frågan som rör *Dajjāl* är därmed mycket viktig. Sannerligen är detta den största prövningen från skapelsen av Adam tills Timmen börjar. Detta har omtalats i *aḥādīt̲h*. Denna prövning var värdig nog att väljas ut bland prövningarna i detta liv för att sökas skydd mot under bönen:
 
 > ”Jag söker min tillflykt hos Allāh från straffet i Helveteselden, från straffet i graven, från livets och dödens prövningar och från prövningen i al-Masīh ad-Dajjāl [den falske Messias].”
 
 Ordet *Dajjāl* härleds från ordet *dajl* som betyder "bedrägeri", och han är en bedragare. [Ja,] han är den störste bedragaren och lögnaren av alla människor.
 
 
-[^1]: *al-Bukhārī* 7127
+[^1]: *al-Buk̲hārī* 7127

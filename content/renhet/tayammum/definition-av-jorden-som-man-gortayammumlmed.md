@@ -7,7 +7,7 @@ source: >-
   Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Renhet (Tahārah)
-  - 'Tayammum [Tvagning utan vatten]'
+  - Tvagning utan vatten
 original_id: 1137
 description: >-
   Fråga: Är det ett villkor att jorden som man gör tayammum med innehåller

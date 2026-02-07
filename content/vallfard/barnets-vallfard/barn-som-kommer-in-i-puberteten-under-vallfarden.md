@@ -14,9 +14,9 @@ description: >-
   mig nya kläder för ihrām och fullfölj...
 ---
 
-**Fråga:** Då jag var barn vallfärdade jag med min familj. Under den åttonde dagen i *dhul-hijjah* hade jag en våt dröm. Jag tog då ett fullständigt bad, tog på mig nya kläder för *ihrām* och fullföljde min vallfärd. Efter sju år ställde jag en fråga om denna vallfärd och jag fick höra att den inte var tillräcklig. Jag skulle vilja vallfärda för min bortgångna mors räkning. Hon har enbart vallfärdat en gång. Kommer den vallfärd som jag gör för henne att accepteras, eller måste jag vallfärda själv först?
+**Fråga:** Då jag var barn vallfärdade jag med min familj. Under den åttonde dagen i *d̲hul-ḥijjah* hade jag en våt dröm. Jag tog då ett fullständigt bad, tog på mig nya kläder för *iḥrām* och fullföljde min vallfärd. Efter sju år ställde jag en fråga om denna vallfärd och jag fick höra att den inte var tillräcklig. Jag skulle vilja vallfärda för min bortgångna mors räkning. Hon har enbart vallfärdat en gång. Kommer den vallfärd som jag gör för henne att accepteras, eller måste jag vallfärda själv först?
 
-**Svar:** Kommer barnet in i puberteten under vallfärden – vid eller före *Arafat*; och under *'umrah*, före dess *tawāf* – då är detta tillräckligt för att skyldigheten ska vara uppfylld. Då frågeställaren hade en våt dröm under den åttonde dagen, gick in i *ihrām* och därpå stod vid *Arafat* – då är denna vallfärd tillräcklig för att ha uppfyllt skyldigheten. Anledningen är att han nådde *Arafat* när han hade kommit in i puberteten.
+**Svar:** Kommer barnet in i puberteten under vallfärden – vid eller före *´Arafāt*; och under *´umrah*, före dess *ṭawāf* – då är detta tillräckligt för att skyldigheten ska vara uppfylld. Då frågeställaren hade en våt dröm under den åttonde dagen, gick in i *iḥrām* och därpå stod vid *´Arafāt* – då är denna vallfärd tillräcklig för att ha uppfyllt skyldigheten. Anledningen är att han nådde *´Arafāt* när han hade kommit in i puberteten.
 
 Denna vallfärd räknas och han kan vallfärda för sin mor eller någon annan. Detta accepteras då från honom. Han kan – om Allāh vill – efteråt göra om vallfärden själv, för sina föräldrar eller för vem han än vill.
 

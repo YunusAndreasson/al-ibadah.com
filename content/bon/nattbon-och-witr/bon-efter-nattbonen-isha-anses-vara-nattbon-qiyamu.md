@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 321 s. ISBN saknas
 categories:
   - Bön (Salāh)
-  - Nattbön och witr
+  - Nattbön
 original_id: 303
 description: >-
   Fråga: Anses det vara nattbön om man ber elva bönecykler direkt efter

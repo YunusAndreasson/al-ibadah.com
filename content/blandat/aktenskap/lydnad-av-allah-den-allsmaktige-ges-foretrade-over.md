@@ -30,4 +30,4 @@ För att summera: Frågeställaren måste täcka sitt ansikte för hennes mans b
 
 
 [^1]: Koranen 4:59
-[^2]: *al-Bukhārī* 5232 och *Muslim* 2172
+[^2]: *al-Buk̲hārī* 5232 och *Muslim* 2172

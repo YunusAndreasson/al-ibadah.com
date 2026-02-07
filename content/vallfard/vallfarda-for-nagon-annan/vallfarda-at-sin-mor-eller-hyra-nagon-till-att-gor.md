@@ -18,7 +18,7 @@ description: 'Fråga: Min mor avled då jag var mycket ung och jag har hyrt en p
 
 Om du hyr någon religiös och pålitlig person som vallfärdar för dem, då är det ingen skada skedd i det.
 
-Det är dock bäst om du själv utför vallfärden och *‘umrah*[^1] för dem. Utser du någon till att göra detta, då är det föreskrivet att du kommenderar denne att både utföra vallfärden och *‘umrah*[^1] för dem.
+Det är dock bäst om du själv utför vallfärden och *´umrah*[^1] för dem. Utser du någon till att göra detta, då är det föreskrivet att du kommenderar denne att både utföra vallfärden och *´umrah*[^1] för dem.
 
 Gör du detta visar du vänlighet mot dem och du behandlar dem på ett fint sätt. Må Allāh acceptera detta från dig och från oss.
 

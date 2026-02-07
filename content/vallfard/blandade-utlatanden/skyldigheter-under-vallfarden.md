@@ -23,9 +23,9 @@ description: >-
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Den som vallfärdar och inte har intim samvaro [med sin fru] eller begår synder, denne kommer att återvända [efter vallfärden] som denne var den dag som dennes mor födde denne [utan synd].” [*al-Bukhārī* 1521 och *Muslim* 1350]
+> ”Den som vallfärdar och inte har intim samvaro [med sin fru] eller begår synder, denne kommer att återvända [efter vallfärden] som denne var den dag som dennes mor födde denne [utan synd].” [*al-Buk̲hārī* 1521 och *Muslim* 1350]
 
-Ordet "*rafth*" avser att ha intim samvaro under *ihrām* samt sådant som kan leda till det i form av tal och handling. Ordet "*fusuq*" avser alla olydiga handlingar.
+Ordet "*rafth*" avser att ha intim samvaro under *iḥrām* samt sådant som kan leda till det i form av tal och handling. Ordet "*fusuq*" avser alla olydiga handlingar.
 
 Detta beror också på att muslimer, vid alla tidpunkter och på alla platser, är skyldiga att frukta Allāh och att noga iaktta det som Allāh har gjort obligatoriskt samt undvika det som Han har förbjudit. Om en muslim då befinner sig i Allāhs heliga land och utför vallfärdsriterna, då är denna skyldighet ännu viktigare och strängare. Dennes synd, i att göra det som Allāh har förbjudit, är än större och allvarligare.
 

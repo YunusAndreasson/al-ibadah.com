@@ -14,8 +14,8 @@ description: >-
   Arafat innan solnedgången måste offra ett ...
 ---
 
-**Fråga:** Vilket är utlåtandet om den som vallfärdade och lämnade *Arafat* innan solen hade gått ned. Detta berodde på dennes arbete.
+**Fråga:** Vilket är utlåtandet om den som vallfärdade och lämnade *´Arafāt* innan solen hade gått ned. Detta berodde på dennes arbete.
 
-**Svar:** Den som lämnar *Arafat* innan solnedgången måste offra ett djur [i gottgörelse] enligt de flesta lärde. Återvänder denne innan kvällen behöver denne inte offra något. Offret sker genom att denne slaktar ett djur som sedan delas ut till de fattiga vid Helgedomen.
+**Svar:** Den som lämnar *´Arafāt* innan solnedgången måste offra ett djur [i gottgörelse] enligt de flesta lärde. Återvänder denne innan kvällen behöver denne inte offra något. Offret sker genom att denne slaktar ett djur som sedan delas ut till de fattiga vid Helgedomen.
 
 

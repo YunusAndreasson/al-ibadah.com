@@ -21,4 +21,4 @@ description: >-
 Profeten – över honom vare Allāhs frid och välsignelser – frågade om de troende vid gryningsbönen: ”*Är den och den närvarande? Är den och den närvarande?*” [^1]
 
 
-[^1]: *Abū Dawūd* 554, *an-Nasā’i* 844 och *Ahmad* 5:140
+[^1]: *Abū Dāwūd* 554, *an-Nasā’ī* 844 och *Aḥmad* 5:140

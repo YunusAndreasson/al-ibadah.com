@@ -30,4 +30,4 @@ För den som hör böneutropet är det *sunnah* att upprepa efter, och när bön
 
 [^1]: Tahiyyatul-Msjid.
 
-[^2]: *al-Bukhārī* 2697 och *Muslim* 1718
+[^2]: *al-Buk̲hārī* 2697 och *Muslim* 1718

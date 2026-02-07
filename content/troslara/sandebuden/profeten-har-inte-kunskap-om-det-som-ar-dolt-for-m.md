@@ -33,17 +33,17 @@ Och Han den Upphöjde säger:
 
 > ”Säg: 'Jag är inte den förste av [Guds] sändebud och jag vet inte vad som ska ske med mig och med er. Jag följer bara det som uppenbarats för mig; jag är ingenting annat än en varnare, [som varnar] klart och entydigt.” [Koranen 46:9]
 
-Umm 'Alai säger i en lång och autentisk *hadīth*:
+Umm 'Alai säger i en lång och autentisk *ḥadīt̲h*:
 
-> ”Allāhs nåd vilar över dig, Abū as-Sa'ib. Jag vittnar om att Allāh den Allsmäktige har hedrat dig.” Allāhs sändebud – över honom vare Allāhs frid och välsignelser – sade: ”Vem har informerat dig om att Allāh har hedrat honom?” Hon sade: ”Jag vet inte, må min far och mor ges som lösen för dig.” Han sade: ”När det gäller honom, så har visshet kommit till honom från hans Herre och jag hoppas att godhet kommer till honom, men vid Allāh, jag vet inte – och jag är Allāhs sändebud – vad som kommer att hända med honom.” Hon sade: ”Vid Allāh, jag kommer aldrig att vittna för någon efter detta.” [*al-Bukhārī* 1243, 2687, 3929 och 7003]
+> ”Allāhs nåd vilar över dig, Abū as-Sa'ib. Jag vittnar om att Allāh den Allsmäktige har hedrat dig.” Allāhs sändebud – över honom vare Allāhs frid och välsignelser – sade: ”Vem har informerat dig om att Allāh har hedrat honom?” Hon sade: ”Jag vet inte, må min far och mor ges som lösen för dig.” Han sade: ”När det gäller honom, så har visshet kommit till honom från hans Herre och jag hoppas att godhet kommer till honom, men vid Allāh, jag vet inte – och jag är Allāhs sändebud – vad som kommer att hända med honom.” Hon sade: ”Vid Allāh, jag kommer aldrig att vittna för någon efter detta.” [*al-Buk̲hārī* 1243, 2687, 3929 och 7003]
 
-Återgiven av *Ahmad* och al-Bukhārī i boken om begravningar i hans *Sahīh*. En annan version lyder:
+Återgiven av *Aḥmad* och al-Bukhārī i boken om begravningar i hans *Ṣaḥīḥ*. En annan version lyder:
 
-> ”Jag vet inte – och jag är Allāhs sändebud – vad som kommer att hända med honom.” [*al-Bukhārī* 3929]
+> ”Jag vet inte – och jag är Allāhs sändebud – vad som kommer att hända med honom.” [*al-Buk̲hārī* 3929]
 
-I många *ahādīth* rapporterats att Allāh har informerat profeten – över honom vare Allāhs frid och välsignelser – om vilket som skulle bli slutet för somliga av hans följeslagare, och han gav dem det glada budskapet om Paradiset. I en *hadīth* som al-Bukhārī och *Muslim* har återgivit från ´Umar bin al-Khattab berättas att Gabriel frågade profeten – över honom vare Allāhs frid och välsignelser – om Timmens tidpunkt, och han svarade:
+I många *aḥādīt̲h* rapporterats att Allāh har informerat profeten – över honom vare Allāhs frid och välsignelser – om vilket som skulle bli slutet för somliga av hans följeslagare, och han gav dem det glada budskapet om Paradiset. I en *ḥadīt̲h* som al-Bukhārī och *Muslim* har återgivit från ´Umar bin al-Khattab berättas att Gabriel frågade profeten – över honom vare Allāhs frid och välsignelser – om Timmens tidpunkt, och han svarade:
 
-> ”Den som tillfrågas vet inte mer än den som frågar.” [*al-Bukhārī* 50 och *Muslim*, kap. 8]
+> ”Den som tillfrågas vet inte mer än den som frågar.” [*al-Buk̲hārī* 50 och *Muslim*, kap. 8]
 
 Han tillade inte något utom att nämna några tecken inför Timmen, vilket bevisar att han endast kände till det som Allāh hade informerat honom om, om det som är dolt för människor[^1]. Han kände dock inte till allt, utan endast det Allāh hade berättat om.
 

@@ -22,11 +22,11 @@ Vissa lärde anser dock att det endast är tillåtet i den icke-obligatoriska b�
 
 Det har rapporterats att han bad ensam nattetid i Maimunahs hem [Ibn ‘Abbās moster] och att Ibn ‘Abbās stod upp, tvagade[^1] sig och ställde sig vid hans högra sida. Profeten – över honom vare Allāhs frid och välsignelser – flyttade dock honom, ställde honom vid hans högra sida och ledde honom i bönen… [^2]
 
-*Muslim* har i sin *Sahīh* återgivet att profeten – över honom vare Allāhs frid och välsignelser – att bad ensam och att Jabir samt Jabbar kom och bad vid hand högra och vänstra sida, men han placerade dem båda bakom sig och ledde dem i bönen. [^3]
+*Muslim* har i sin *Ṣaḥīḥ* återgivet att profeten – över honom vare Allāhs frid och välsignelser – att bad ensam och att Jabir samt Jabbar kom och bad vid hand högra och vänstra sida, men han placerade dem båda bakom sig och ledde dem i bönen. [^3]
 
-Dessa båda *ahādīth* bevisar vad vi har nämnt tidigare. De bevisar också att man bör stå vid imamens högra sida samt att två eller fler bör stå bakom honom.
+Dessa båda *aḥādīt̲h* bevisar vad vi har nämnt tidigare. De bevisar också att man bör stå vid imamens högra sida samt att två eller fler bör stå bakom honom.
 
 [^1]: Wudū
 
-[^2]: *al-Bukhārī* 698 och 699
+[^2]: *al-Buk̲hārī* 698 och 699
 [^3]: *Muslim* 3010

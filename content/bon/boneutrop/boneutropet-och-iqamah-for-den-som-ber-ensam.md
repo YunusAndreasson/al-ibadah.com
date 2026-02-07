@@ -18,9 +18,9 @@ description: >-
 
 **Svar:** Böneutropet och *iqāmah* är *sunnah* för den som ber ensam, inte en skyldighet. Detta beror på att det inte finns någon tillsammans med denne att kalla till bön genom böneutropet. Man måste dock ha i åtanke att böneutropet är *åminnelse*[^1] av Allāh den Allsmäktige ett glorifierande av Honom och att det är att kalla sig själv till bön och framgång. Precis som *iqāmah* är det *sunnah*.
 
-Vad som bevisar att det är högst föredraget att ropa ut till bön är en *hadīth* från 'Uqbah bin 'Amir i vilken han säger:
+Vad som bevisar att det är högst föredraget att ropa ut till bön är en *ḥadīt̲h* från 'Uqbah bin 'Amir i vilken han säger:
 
-> ”Jag hörde Allāhs sändebud säga: 'Allāh är nöjd med en fåraherde som ropar ut till bön från bergets topp. Allāh säger: 'Se på Min tjänare. Han kallar till bön och ber den och fruktar Mig. Så Jag förlåter honom och tillåter honom Paradiset.'” [Imam *Ahmad* 4:145,157]
+> ”Jag hörde Allāhs sändebud säga: 'Allāh är nöjd med en fåraherde som ropar ut till bön från bergets topp. Allāh säger: 'Se på Min tjänare. Han kallar till bön och ber den och fruktar Mig. Så Jag förlåter honom och tillåter honom Paradiset.'” [Imam *Aḥmad* 4:145,157]
 
 [^1]: Dhikr
 

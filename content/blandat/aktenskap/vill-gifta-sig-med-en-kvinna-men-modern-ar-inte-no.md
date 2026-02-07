@@ -25,4 +25,4 @@ Utan tvekan är det en del av att ha frukta Allāh och i att uppfylla Hans krav 
 Må Allāh vägleda oss alla till vad som gör Honom nöjd. Och må Allāh underlätta för dig vad som är i ditt intresse när det gäller trygghet, religion och denna världs förehavanden.
 
 
-[^1]: *al-Bukhārī* 7257 och *Muslim* 1840
+[^1]: *al-Buk̲hārī* 7257 och *Muslim* 1840

@@ -18,6 +18,6 @@ description: >-
 
 **Svar:** Den som hugger ned ett stort träd i Helgedomen i Mecka måste slakta en kamel. Den som hugger ned ett litet träd måste slakta ett får. Skär man av gräs måste man ge dess värde [i välgörenhet]. Det är tillåtet att klippa grenar som sträcker sig ut på vägen och stör dem som passerar förbi samt att klippa det som människor har odlat.
 
-Helgedomen i Mecka har kända gränser. Vid dess slut, längs vägen, har tydliga tecken satts upp. Ett finns till exempel mellan *Muzdalifah* och *Arafat* och ett annat på vägen mot Jiddah nära ash-Shumayai.
+Helgedomen i Mecka har kända gränser. Vid dess slut, längs vägen, har tydliga tecken satts upp. Ett finns till exempel mellan *Muzdalifah* och *´Arafāt* och ett annat på vägen mot Jiddah nära ash-Shumayai.
 
 

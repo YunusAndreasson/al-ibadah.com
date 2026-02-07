@@ -18,11 +18,11 @@ description: >-
 
 **Svar:** Ja, *sunnah*-bönerna kan tas igen om tiden för dem har gått ut på grund av glömska eller sömn. De innefattas i den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord:
 
-> ”Den som har sovit över en bön eller glömt den måste ta igen den så fort han kommer ihåg den. Det krävs ingen gottgörelse utöver detta.” [*al-Bukhārī* 597]
+> ”Den som har sovit över en bön eller glömt den måste ta igen den så fort han kommer ihåg den. Det krävs ingen gottgörelse utöver detta.” [*al-Buk̲hārī* 597]
 
-Det finns också en *hadīth* från Umm Salmah i vilken hon berättar att profeten – över honom vare Allāhs frid och välsignelser – inte hade möjlighet att be de båda bönecyklerna eftermiddagsbönen. Han tog då igen dem efter eftermiddagsbönen. [^1]
+Det finns också en *ḥadīt̲h* från Umm Salmah i vilken hon berättar att profeten – över honom vare Allāhs frid och välsignelser – inte hade möjlighet att be de båda bönecyklerna eftermiddagsbönen. Han tog då igen dem efter eftermiddagsbönen. [^1]
 
 Men om man avsiktligen övergav dem tills tiden gick ut, då bör man inte ta igen dem därför att *sunnah*-bönerna är dyrkan som utförs vid angivna tider. Om man avsiktligen utför dem utanför den föreskrivna tiden, då kommer de inte att accepteras.
 
 
-[^1]: *al-Bukhārī* 1176 och *Muslim* 834
+[^1]: *al-Buk̲hārī* 1176 och *Muslim* 834

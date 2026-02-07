@@ -18,9 +18,9 @@ description: >-
 
 **Svar:** Bönen är giltig och detta skadar dem inte – om Allāh vill – om de tvingades till att be på denna plats och det inte fanns någon moské i närheten.
 
-Det är dock mycket viktigt att de diskuterar detta med sin chef för att de ska kunna plocka bort bilderna ifrån böneplatsen, alternativt anordna en ny böneplats utan bilder. Detta är viktigt då bön framför bilder är en slags imitation av statydyrkare och det finns ett antal *ahādīth* där imitation av Allāhs fiender förbjuds och order om att skilja sig från dem.
+Det är dock mycket viktigt att de diskuterar detta med sin chef för att de ska kunna plocka bort bilderna ifrån böneplatsen, alternativt anordna en ny böneplats utan bilder. Detta är viktigt då bön framför bilder är en slags imitation av statydyrkare och det finns ett antal *aḥādīt̲h* där imitation av Allāhs fiender förbjuds och order om att skilja sig från dem.
 
-Det bör också påpekas att det inte är tillåtet att hänga upp en bild med något som har en själ, då detta är något ifrån gränslandet till *shirk*. Speciellt när det är bilder på högt uppskattade personer.
+Det bör också påpekas att det inte är tillåtet att hänga upp en bild med något som har en själ, då detta är något ifrån gränslandet till *s̲hirk*. Speciellt när det är bilder på högt uppskattade personer.
 
 Och vi ber Allāh ge oss framgång och vägledning.
 

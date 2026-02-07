@@ -4,7 +4,7 @@ author: Ibn ´Abdullāh Ibn Bāz
 source: Fatāwa al-Marah
 categories:
   - Bön (Salāh)
-  - Nattbön och witr
+  - Nattbön
 original_id: 571
 description: >-
   Fråga: Om jag bad witr under första delen av natten och sedan gick upp under

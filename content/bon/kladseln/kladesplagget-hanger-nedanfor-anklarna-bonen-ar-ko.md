@@ -8,7 +8,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 227 s. ISBN saknas
 categories:
   - Bön (Salāh)
-  - Klädseln
+  - Klädsel i bönen
 original_id: 1494
 description: >-
   Fråga: Vilket är utlåtandet om att be i ett klädesplagg som täcker anklarna?
@@ -16,7 +16,7 @@ description: >-
   personen känner till den hadīth som förbj...
 ---
 
-**Fråga:** Vilket är utlåtandet om att be i ett klädesplagg som täcker anklarna? Är bönen bakom någon som bär ett sådant klädesplagg giltig? Detta trots att personen känner till den *hadīth* som förbjuder det. Vanligen informera oss. Må Allāh belöna er med gott.
+**Fråga:** Vilket är utlåtandet om att be i ett klädesplagg som täcker anklarna? Är bönen bakom någon som bär ett sådant klädesplagg giltig? Detta trots att personen känner till den *ḥadīt̲h* som förbjuder det. Vanligen informera oss. Må Allāh belöna er med gott.
 
 **Svar:** Bönen för den vars kläder hänger nedanför anklarna är giltig. Denne syndar dock och måste rådas och varnas för det som Allāh har förbjudit.
 
@@ -29,5 +29,5 @@ Kvinnor måste täcka deras fötter med sockar eller långa och luftiga klännin
 Och genom Allāh uppnås framgång.
 
 
-[^1]: *al-Bukhārī* 5787
+[^1]: *al-Buk̲hārī* 5787
 [^2]: *Muslim* 106

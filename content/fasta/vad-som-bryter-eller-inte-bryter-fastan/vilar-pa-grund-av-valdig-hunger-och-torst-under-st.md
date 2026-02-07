@@ -21,4 +21,4 @@ description: >-
 Så desto svårare man har att lyda Allāh, desto större blir ens belöning. Den fastande är också tillåten att göra allt som gör fastan lättare, som att svalka sig själv med vatten eller att sitta på en sval plats.
 
 
-[^1]: *al-Bukhārī* 1787 och *Muslim* 1211
+[^1]: *al-Buk̲hārī* 1787 och *Muslim* 1211

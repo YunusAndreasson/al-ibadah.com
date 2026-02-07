@@ -23,4 +23,4 @@ Med detta som grund: Om resenären han med de två sista bönecyklerna av bönen
 Och Allāh vet bäst.
 
 
-[^1]: *al-Bukhārī* 636 och *Muslim* 151
+[^1]: *al-Buk̲hārī* 636 och *Muslim* 151

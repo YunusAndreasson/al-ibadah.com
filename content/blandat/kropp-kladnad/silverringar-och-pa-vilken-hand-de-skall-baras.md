@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Det finns inget skadligt i att bära en silverring, varken för en man eller för en kvinna. Det är även tillåtet att bära det på vilken hand man vill, även om den högra handen är bättre och mer hedervärd. Profeten – må Allāhs frid och välsignelser vara över honom – brukade bära en ring på sin högra hand. Han bar den även ibland på den vänstra och han är det bästa exemplet.
 
-En guldring eller klocka av guld är dock förbjudet för män att bära då det finns många *ahādīth* som nämner detta. Det är enbart kvinnor som är tillåtna att bära guld och silke.
+En guldring eller klocka av guld är dock förbjudet för män att bära då det finns många *aḥādīt̲h* som nämner detta. Det är enbart kvinnor som är tillåtna att bära guld och silke.
 
 Och hos Allāh finns medlen till att göra vad som är rätt.
 

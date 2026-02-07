@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 81 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - al-Mawaqit
+  - Vallfärdens stationer
 original_id: 1329
 description: >-
   Fråga: Var är mīqāt för ‘umrah för den som bor i Mecka? Svar: Mīqāt för ‘umrah
@@ -14,15 +14,15 @@ description: >-
   staden. Därför när ‘A’ishah – må...
 ---
 
-**Fråga:** Var är *mīqāt* för *‘umrah*[^1] för den som bor i Mecka?
+**Fråga:** Var är *mīqāt* för *´umrah*[^1] för den som bor i Mecka?
 
-**Svar:** *Mīqāt* för *'umrah*[^1] för den som befinner sig i Mecka är platsen utanför det Heliga området i staden. Därför när 'A'ishah – må Allāh vara nöjd med henne – bad om profetens – över honom vare Allāhs frid och välsignelser – tillstånd för att utföra en enda *'umrah* när hon hade utfört vallfärden som *hajjul-qiran* med honom, då beordrade han hennes bror ´Abdur-Raham att följa med henne till at-Tan'im för att hon skulle träda in i *ihrām* för *'umrah*[^1] därifrån. at-Tan'im är den plats som ligger närmst det Heliga området i Mecka. Detta inträffade nattetid.
+**Svar:** *mīqāt* för *´umrah*[^1] för den som befinner sig i Mecka är platsen utanför det Heliga området i staden. Därför när 'A'ishah – må Allāh vara nöjd med henne – bad om profetens – över honom vare Allāhs frid och välsignelser – tillstånd för att utföra en enda *´umrah* när hon hade utfört vallfärden som *ḥajjul-qirān* med honom, då beordrade han hennes bror ´Abdur-Raham att följa med henne till at-Tan'im för att hon skulle träda in i *iḥrām* för *´umrah*[^1] därifrån. at-Tan'im är den plats som ligger närmst det Heliga området i Mecka. Detta inträffade nattetid.
 
-Hade *ihrām* för *'umrah*[^1] varit tillåtet i Mecka, eller någon annan plats i det Heliga området, då hade inte profeten – över honom vare Allāhs frid och välsignelser – lagt denna börda på sig, 'A'ishah – må Allāh vara nöjd med henne – och hennes bror genom att beordra brodern att ta henne till at-Tan'im för att träda in i *ihrām* för *´umrah*. Detta skedde under natten och de reste, vilket innebar att han behövde vänta på henne. Hade det varit tillåtet hade han låtet henne träda in i *ihrām* där de befann sig [dalen i Mecka] och handlat efter den enkelhet som finns i den islamiska lagen.
+Hade *iḥrām* för *´umrah*[^1] varit tillåtet i Mecka, eller någon annan plats i det Heliga området, då hade inte profeten – över honom vare Allāhs frid och välsignelser – lagt denna börda på sig, 'A'ishah – må Allāh vara nöjd med henne – och hennes bror genom att beordra brodern att ta henne till at-Tan'im för att träda in i *iḥrām* för *´umrah*. Detta skedde under natten och de reste, vilket innebar att han behövde vänta på henne. Hade det varit tillåtet hade han låtet henne träda in i *iḥrām* där de befann sig [dalen i Mecka] och handlat efter den enkelhet som finns i den islamiska lagen.
 
-Även det faktum att han inte gavs valet mellan två ting utan att han valde det lättaste, så länge det inte var en synd, visar på detta. Om det var en synd var han den som var längst från det. Han tillät henne inte att träda in i *ihrām* för *'umrah* i dalen i Mecka vilket bevisar att det Heliga området i Mecka inte är en *miqat* för *ihrām* under *'umrah*. Detta förklarar denna *hadīth*[^5]:
+Även det faktum att han inte gavs valet mellan två ting utan att han valde det lättaste, så länge det inte var en synd, visar på detta. Om det var en synd var han den som var längst från det. Han tillät henne inte att träda in i *iḥrām* för *´umrah* i dalen i Mecka vilket bevisar att det Heliga området i Mecka inte är en *mīqāt* för *iḥrām* under *´umrah*. Detta förklarar denna *ḥadīt̲h*[^5]:
 
-> ”Allāhs sändebud utsåg *mīqāt* för folket från Medina till att vara Thul-Hulayfah, för de från ash-Sham till att vara al-Juhfah, för folket från Jemen till att vara Yalamlam och han sade: ”De är för dem [som bor där] och dem som passerar förbi utöver de som bor där som avser att utföra vallfärden och *´umrah* Den som är närmare [Mecka] än det, då är hans plats för *ihrām* där denne påbörjade sin resa. Även folket från Mecka går in i *ihrām* i Mecka.” [*Muslim* 1181]
+> ”Allāhs sändebud utsåg *mīqāt* för folket från Medina till att vara Thul-Hulayfah, för de från ash-Sham till att vara al-Juhfah, för folket från Jemen till att vara Yalamlam och han sade: ”De är för dem [som bor där] och dem som passerar förbi utöver de som bor där som avser att utföra vallfärden och *´umrah* Den som är närmare [Mecka] än det, då är hans plats för *iḥrām* där denne påbörjade sin resa. Även folket från Mecka går in i *iḥrām* i Mecka.” [*Muslim* 1181]
 
 [^1]: Den lilla vallfärden.
 

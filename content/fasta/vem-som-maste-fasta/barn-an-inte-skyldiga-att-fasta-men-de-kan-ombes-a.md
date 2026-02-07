@@ -14,7 +14,7 @@ description: >-
   vara hård mot honom och tvinga honom att bry...
 ---
 
-**Fråga:** Mitt lilla barn fastar hela tiden under *ramadan* trots att fastan är skadlig för honom på grund av hans låga ålder och hans dåliga hälsa. Bör jag vara hård mot honom och tvinga honom att bryta fastan?
+**Fråga:** Mitt lilla barn fastar hela tiden under *ramaḍān* trots att fastan är skadlig för honom på grund av hans låga ålder och hans dåliga hälsa. Bör jag vara hård mot honom och tvinga honom att bryta fastan?
 
 **Svar:** Om han är barn och inte har kommit in i puberteten är han inte skyldig att fasta. Men om han kan fasta utan svårighet bör han ombes att göra det. Följeslagarna brukade se till att deras barn fastade. De gjorde det till den grad att om deras barn började gråta så gav de barnen leksaker för att avleda uppmärksamhet [bort från att tänka på maten].
 

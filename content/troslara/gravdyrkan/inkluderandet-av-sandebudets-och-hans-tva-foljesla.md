@@ -18,11 +18,11 @@ description: >-
 
 **Svar:** Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Allāhs förbannelse vilar över judarna och de kristna som gjorde om deras profeters gravar till platser för bön.” [*al-Bukhārī* 1330, *Muslim* 529, *an-Nasā’i* 704, *Ahmad* 5:204 och *al-Muwatta* 85]
+> ”Allāhs förbannelse vilar över judarna och de kristna som gjorde om deras profeters gravar till platser för bön.” [*al-Buk̲hārī* 1330, *Muslim* 529, *an-Nasā’ī* 704, *Aḥmad* 5:204 och *al-Muwatta* 85]
 
 ‘Ā’ishāh – må Allāh vara nöjd med henne – har nämnt att både Umm Habihah och Umm Salamah berättade för profeten – över honom vare Allāhs frid och välsignelser – om en kyrka med avbilder som de hade sett i Etiopien. Profeten – över honom vare Allāhs frid och välsignelser – sade:
 
-> ”De byggde en plats för bön över graven så fort en from person gick bort och där placerade de dennes avbilder. Inför Allāh är de ondast i skapelsen.” [*al-Bukhārī* 427, 434, 1341; *Muslim* 328; *an-Nasā’i* 705 och *Ahmad* 6:51]
+> ”De byggde en plats för bön över graven så fort en from person gick bort och där placerade de dennes avbilder. Inför Allāh är de ondast i skapelsen.” [*al-Buk̲hārī* 427, 434, 1341; *Muslim* 328; *an-Nasā’ī* 705 och *Aḥmad* 6:51]
 
 Jundub bin Abdullāh al-Bajali har sagt:
 
@@ -30,7 +30,7 @@ Jundub bin Abdullāh al-Bajali har sagt:
 
 *Muslim* har återgivit att Jabir har rapporterat att profeten – över honom vare Allāhs frid och välsignelser – förbjöd resning av gravar, att man sitter på dem eller bygger kammare över dem. [^1] Dessa autentiska traditioner understryker förbudet mot att använda gravar som moskéer. De som gör så är förbannade.
 
-Dessa *ahādīth* påvisar även att det är förbjudet att bygga statyer eller kupoler över gravar […] Att göra så anses vara ett medel för *shirk* samt ett sätt att dyrka den i graven i stället för Allāh.
+Dessa *aḥādīt̲h* påvisar även att det är förbjudet att bygga statyer eller kupoler över gravar […] Att göra så anses vara ett medel för *s̲hirk* samt ett sätt att dyrka den i graven i stället för Allāh.
 
 Detta har inträffat både förr och nu. Oberoende av var muslimer befinner sig måste de vara medvetna om att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit att gravar konstrueras, att man bygger kupoler över dem, att man murar dem eller lyser upp dem samt andra saker som han har förbjudit. 
 
@@ -38,7 +38,7 @@ De ska inte låta sig luras av vad den stora massan gör, den troende måste all
 
 Varken Allāhs sändebud – över honom vare Allāhs frid och välsignelser – eller hans båda följeslagare begravdes inuti moskén [utan i stället] begravdes de i ‘Ā’ishāh – må Allāh vara nöjd med henne – kammare. Men när moskén byggdes ut under al-Walīd bin Abdul-Māliks tid innefattades kammaren i moskén. Detta ska inte jämföras med att innefatta en grav i moskén därför att varken profeten – över honom vare Allāhs frid och välsignelser – eller hans båda följeslagare flyttades in i moskén. Det var endast kammaren i vilken de begravts som innefattades i moskén på grund av expansionen.
 
-Därmed bör inte detta användas som bevis eller argument för att tillåta byggen över gravar eller att moskéer byggs och människor begravs i dem. Detta har förbjudits enligt de *ahādīth* som har nämnts ovan. Vad al-Walīd gjorde är inte ett argument som kan användas mot Allāhs sändebuds *sunnah*.
+Därmed bör inte detta användas som bevis eller argument för att tillåta byggen över gravar eller att moskéer byggs och människor begravs i dem. Detta har förbjudits enligt de *aḥādīt̲h* som har nämnts ovan. Vad al-Walīd gjorde är inte ett argument som kan användas mot Allāhs sändebuds *sunnah*.
 
 Det är Allāh som ger framgång.
 

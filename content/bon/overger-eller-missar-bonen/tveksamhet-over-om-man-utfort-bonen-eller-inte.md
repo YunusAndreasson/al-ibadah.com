@@ -27,11 +27,11 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Hu
 
 Och han har sagt: ”*Islam är byggt på fem [pelare]: vittna om att ingen är värdig att dyrka utom Allāh och att Muḥammad är Allāhs sändebud, förrätta bönen, betala allmosa, fasta under månaden Ramadan och vallfärda till Allāhs Hus*.” [^5]
 
-De verser och *ahādīth* som poängterar vikten av bönen, skyldigheten att be den och plikten att upprätthålla den är många.
+De verser och *aḥādīt̲h* som poängterar vikten av bönen, skyldigheten att be den och plikten att upprätthålla den är många.
 
 
-[^1]: *al-Bukhārī* 597 och *Muslim* 684
+[^1]: *al-Buk̲hārī* 597 och *Muslim* 684
 [^2]: Koranen 2:238
 [^3]: Koranen 2:43
 [^4]: *at-Tirmithi* 2616
-[^5]: *al-Bukhārī* 8, 4515 och *Muslim* 16
+[^5]: *al-Buk̲hārī* 8, 4515 och *Muslim* 16

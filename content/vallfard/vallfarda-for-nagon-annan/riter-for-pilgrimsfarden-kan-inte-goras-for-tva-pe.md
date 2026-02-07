@@ -14,7 +14,7 @@ description: >-
   jag avsikten att göra ‘umrah för min...
 ---
 
-**Fråga:** All lovprisan tillhör Allāh. Vi beger oss till Mecka varje år för att utföra *´umrah* under den välsignade månaden *ramadan*. När vi ger oss av utformar jag avsikten att göra *‘umrah*[^1] för min far och nästa gång utformar jag avsikten för att utföra den för min moder. Förra gången vi gav oss av utformade jag dock avsikten för båda två. När jag sedan tillfrågades om denna *‘umrah*[^1] sades det till mig att den räknades för mig och inte för dem. Är detta korrekt?
+**Fråga:** All lovprisan tillhör Allāh. Vi beger oss till Mecka varje år för att utföra *´umrah* under den välsignade månaden *ramaḍān*. När vi ger oss av utformar jag avsikten att göra *´umrah*[^1] för min far och nästa gång utformar jag avsikten för att utföra den för min moder. Förra gången vi gav oss av utformade jag dock avsikten för båda två. När jag sedan tillfrågades om denna *´umrah*[^1] sades det till mig att den räknades för mig och inte för dem. Är detta korrekt?
 
 **Svar:** Ja, det är korrekt enligt de lärda. De säger att de heliga [vallfärds]riterna inte kan utföras för två personer. De heliga riterna kan endast utföras för en person. Antingen är det för personen som utför den, dennes fader, dennes mor eller någon annan. Det går inte att säga *talbiyyah* [för att avse vallfärden eller *´umrah*] för två personer. Görs detta är den inte giltig för dem och pilgrimsfärden gäller honom [personen som utformade avsikten].
 

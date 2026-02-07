@@ -19,9 +19,9 @@ description: >-
 
 **Svar:** Om du befinner dig bakom imamen i bönen och han reciterar med höjd röst, då måste du vara tyst, lyssna på hans recitation och inte tala medan han reciterar. Detta även om Allāh nämns eller åkallas. Anledningen är att Allāh har sagt: ”*Lyssna därför uppmärksamt när högläsning ur Koranen pågår – kanske kommer [Gud] att visa er barmhärtighet*.” [^2] De lärde är eniga om att denna vers avser bönen.
 
-I en *hadīth* rapporteras det: ”*När imamen säger 'Allāhu akbar' säg då 'Allāhu akbar' och var tyst när han reciterar*.” [^3]
+I en *ḥadīt̲h* rapporteras det: ”*När imamen säger 'Allāhu akbar' säg då 'Allāhu akbar' och var tyst när han reciterar*.” [^3]
 
-Men om imamen reciterar denna vers under fredagspredikan, *‘eid*, eller om du hör någon recitera den utanför bönen, eller du reciterar den själv, då får du bekräfta den genom att sända böner över profeten, precis som det är tillåtet under andra tidpunkter. Här finns en stor förtjänst.
+Men om imamen reciterar denna vers under fredagspredikan, *´eid*, eller om du hör någon recitera den utanför bönen, eller du reciterar den själv, då får du bekräfta den genom att sända böner över profeten, precis som det är tillåtet under andra tidpunkter. Här finns en stor förtjänst.
 
 
 [^1]: Koranen 33:56

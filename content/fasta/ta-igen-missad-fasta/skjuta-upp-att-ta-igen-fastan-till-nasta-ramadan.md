@@ -15,11 +15,11 @@ description: >-
   det? Och vad gäller en man som skjuter ...
 ---
 
-**Fråga:** Vilket är den islamiska lagens utlåtande om en man som skjuter upp att ta igen fastan från *ramadan* till efter nästa *ramadan* och han har en ursäkt för det? Och vad gäller en man som skjuter upp utan ursäkt?
+**Fråga:** Vilket är den islamiska lagens utlåtande om en man som skjuter upp att ta igen fastan från *ramaḍān* till efter nästa *ramaḍān* och han har en ursäkt för det? Och vad gäller en man som skjuter upp utan ursäkt?
 
 **Svar:** Den som skjuter upp dem med en föreskriven ursäkt, som sjukdom eller liknande, har inte syndat. Detta beror på att Allāh har sagt: "*Men den som är sjuk eller [ska fasta därefter] under motsvarande dagar*." [^1] Och: "*Frukta därför Gud efter måttet av er förmåga*." [^2]
 
-När det gäller den som utan ursäkt har skjutit upp [att ta igen fastan före nästa *ramadan*], då har denne inte lytt sin Herre. Denne måste då ångra sig för detta samtidigt som denne tar igen fastan och ger en fattig mat för varje dag. Mängden mat som denne måste ge är en halv *sa'* av den mat som finns i landet, som ris eller något liknande. Detta ska väga ungefär 1,5 kg. Före eller efter fastan ger denne detta till några av de fattiga, även om det enbart är en person.
+När det gäller den som utan ursäkt har skjutit upp [att ta igen fastan före nästa *ramaḍān*], då har denne inte lytt sin Herre. Denne måste då ångra sig för detta samtidigt som denne tar igen fastan och ger en fattig mat för varje dag. Mängden mat som denne måste ge är en halv *ṣā´* av den mat som finns i landet, som ris eller något liknande. Detta ska väga ungefär 1,5 kg. Före eller efter fastan ger denne detta till några av de fattiga, även om det enbart är en person.
 
 Och Allāh är Givaren av framgång.
 

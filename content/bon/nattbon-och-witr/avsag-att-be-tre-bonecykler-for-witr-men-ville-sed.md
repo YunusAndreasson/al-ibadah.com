@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 303 s. ISBN saknas
 categories:
   - Bön (Salāh)
-  - Nattbön och witr
+  - Nattbön
 original_id: 290
 description: >-
   Fråga: En person avsåg att be tre bönecykler som witr men under bönen kände

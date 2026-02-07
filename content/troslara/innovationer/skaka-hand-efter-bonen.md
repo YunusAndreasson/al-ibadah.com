@@ -20,4 +20,4 @@ description: >-
 
 
 [^1]: *Muslim* 1718
-[^2]: *al-Bukhārī* 2697 och *Muslim* 1718
+[^2]: *al-Buk̲hārī* 2697 och *Muslim* 1718

@@ -18,6 +18,6 @@ description: >-
 
 **Svar:** När fastan blir för svår för dig och den förvärrar sjukdomen och en muslimsk doktor som är känd för att ha rätt informerar dig om att fastan är skadlig för din hälsa, att smärtan kommer att öka och att du utsätter dig själv för fara, då får du bryta fastan. Du måste då föda en fattig för varje dag och du behöver inte ta igen fastan då du inte kan göra det.
 
-Men om det är bestämt att sjukdomen kommer att gå över och du blir bra och din hälsa återvänder, då måste du fasta nästan månad [*ramadan*] som alla andra. Du behöver inte ta igen de tidigare åren som du inte har fastat och som du har sonat för att ha brutit fastan.
+Men om det är bestämt att sjukdomen kommer att gå över och du blir bra och din hälsa återvänder, då måste du fasta nästan månad [*ramaḍān*] som alla andra. Du behöver inte ta igen de tidigare åren som du inte har fastat och som du har sonat för att ha brutit fastan.
 
 

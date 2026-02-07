@@ -18,7 +18,7 @@ description: >-
 
 **Fråga:** När tar tiden för att kasta sten på pelaren al-´Aqabah slut och när tar tiden för att ta igen detta slut [om man missar]?
 
-**Svar:** När det gäller att kasta sten på al-´Aqabah under *'eid*-dagen, då tar tiden slut vid gryningsbönen under den elfte dagen och den börjar vid slutet av natten innan offerdagen för de svaga som inte klarar av den stora folksamlingen.
+**Svar:** När det gäller att kasta sten på al-´Aqabah under *´eid*-dagen, då tar tiden slut vid gryningsbönen under den elfte dagen och den börjar vid slutet av natten innan offerdagen för de svaga som inte klarar av den stora folksamlingen.
 
 När det gäller att kasta sten på den under *at-tashrīq* är det precis som för de andra pelarna. Stenkastningen börjar vid middag och slutar när gryningsbönen börjar från natten som följde dagen för stening, utom om det är den sista dagen i *at-tashrīq* [den trettonde]. Under den sista dagen tar tiden för att kasta stenarna slut då solen går ned.
 

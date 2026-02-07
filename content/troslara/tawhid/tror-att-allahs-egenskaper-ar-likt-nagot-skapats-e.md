@@ -6,7 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Vo
  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
-  - Tawhīd [Monoteism]
+  - Monoteism
 original_id: 1086
 description: 'Fråga: Vilket är utlåtandet om någon som tror att Skaparens egenskaper
  är likadana som de skapade varelsernas egenskaper? Svar: Den som tror att Skaparens

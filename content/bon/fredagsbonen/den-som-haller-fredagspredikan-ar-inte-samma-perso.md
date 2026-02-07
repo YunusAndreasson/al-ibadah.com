@@ -24,5 +24,5 @@ Det är dock tillåtet att en man leder bönen och att en annan håller predikan
 
 [^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 
-[^2]: *al-Bukhārī* 631
-[^3]: *Ahmad* 4:126 och 127
+[^2]: *al-Buk̲hārī* 631
+[^3]: *Aḥmad* 4:126 och 127

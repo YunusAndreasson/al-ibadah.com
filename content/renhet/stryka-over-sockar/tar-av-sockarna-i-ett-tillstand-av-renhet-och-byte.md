@@ -6,7 +6,7 @@ source: >-
   Libanon: Makbtaba Dar us-Salam. 342 s. ISBN 9960-892-66-2
 categories:
   - Renhet (Tahārah)
-  - Mash över sockar
+  - Strykning över strumpor
 original_id: 1133
 description: >-
   Fråga: Om man tar av sina sockar medan man fortfarande är rituellt ren och

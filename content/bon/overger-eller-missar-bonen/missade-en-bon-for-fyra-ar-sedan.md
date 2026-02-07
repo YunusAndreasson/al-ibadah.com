@@ -20,5 +20,5 @@ description: >-
 
 [^1]: Dhuhr
 
-[^2]: *at-Tirmithi* 2621, *an-Nasā’i* 464 och *Ahmad* 5:346, 355
+[^2]: *at-Tirmithi* 2621, *an-Nasā’ī* 464 och *Aḥmad* 5:346, 355
 [^3]: *Muslim* 82

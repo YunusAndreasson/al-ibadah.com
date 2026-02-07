@@ -33,4 +33,4 @@ Genom Allāh uppnås framgång. Må frid och välsignelser vara över profeten M
 
 
 [^1]: Koranen 4:103
-[^2]: *al-Bukhārī* 597 och *Muslim* 684
+[^2]: *al-Buk̲hārī* 597 och *Muslim* 684

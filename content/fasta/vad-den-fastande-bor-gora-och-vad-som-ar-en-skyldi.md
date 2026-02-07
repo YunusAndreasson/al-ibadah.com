@@ -17,4 +17,4 @@ description: >-
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som inte överger falskt tal, handlar bedrägligt och beter sig okunnigt, då har Allāh inget behov av att denne överger sin mat och dryck*.” [^1]
 
 
-[^1]: *al-Bukhārī* 1903
+[^1]: *al-Buk̲hārī* 1903

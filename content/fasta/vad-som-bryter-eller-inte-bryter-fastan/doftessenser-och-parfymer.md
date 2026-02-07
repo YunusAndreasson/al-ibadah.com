@@ -14,7 +14,7 @@ description: >-
   villkor att rökelsens rök inte andas in.
 ---
 
-**Fråga:** Är det tillåtet att använda parfym som 'uud-olja, cologne och vällukt dagtid under *ramadan*?
+**Fråga:** Är det tillåtet att använda parfym som 'uud-olja, cologne och vällukt dagtid under *ramaḍān*?
 
 **Svar:** Ja, det är tillåtet att använda detta under villkor att rökelsens rök inte andas in.
 

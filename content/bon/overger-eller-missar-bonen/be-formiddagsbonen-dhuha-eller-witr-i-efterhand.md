@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Om man har missat förmiddagsbönen[^1], kan man då be den i efterhand?
 
-**Svar:** Har man missat tiden för förmiddagsbönen[^1], då har man missat den bönen. Detta beror på att förmiddagsbönen[^1] är begränsad till sin tid. De vanliga *sunnah*-bönerna som följer en obligatorisk bön kan dock tas igen och det beror just på att de följer en bön som är obligatorisk. Samma gäller för *witr*. Detta beror på att det har bekräftats i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* att när han sov över sig eller var sjuk, då bad han tolv bönecykler under dagen. [^2] *Witr* går då också att ta igen.
+**Svar:** Har man missat tiden för förmiddagsbönen[^1], då har man missat den bönen. Detta beror på att förmiddagsbönen[^1] är begränsad till sin tid. De vanliga *sunnah*-bönerna som följer en obligatorisk bön kan dock tas igen och det beror just på att de följer en bön som är obligatorisk. Samma gäller för *witr*. Detta beror på att det har bekräftats i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* att när han sov över sig eller var sjuk, då bad han tolv bönecykler under dagen. [^2] *witr* går då också att ta igen.
 
 [^1]: Dhuha
 

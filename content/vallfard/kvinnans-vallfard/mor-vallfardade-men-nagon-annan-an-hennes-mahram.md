@@ -12,8 +12,8 @@ description: >-
   för hennes räkning, då hon nu har döt...
 ---
 
-**Fråga:** Min mor utförde vallfärden då hon var över 60 år gammal med någon annan än sin *mahram*. Är hennes vallfärd korrekt eller bör jag utföra den på nytt för hennes räkning, då hon nu har dött? Må Allāh vara henne nådig.
+**Fråga:** Min mor utförde vallfärden då hon var över 60 år gammal med någon annan än sin *maḥram*. Är hennes vallfärd korrekt eller bör jag utföra den på nytt för hennes räkning, då hon nu har dött? Må Allāh vara henne nådig.
 
-**Svar:** Om en kvinna vallfärdade med någon annan än sin *mahram*, visade hon olydnad mot sin Herre och hon har syndat genom att göra så. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – förbjöd kvinnor att resa utan *mahram* till vallfärden eller andra platser. När det gäller din moders vallfärd, då är den korrekt, om Allāh vill. Men, den är [utförd] med synd och vi hoppas att Allāh kommer att förlåta henne för detta.
+**Svar:** Om en kvinna vallfärdade med någon annan än sin *maḥram*, visade hon olydnad mot sin Herre och hon har syndat genom att göra så. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – förbjöd kvinnor att resa utan *maḥram* till vallfärden eller andra platser. När det gäller din moders vallfärd, då är den korrekt, om Allāh vill. Men, den är [utförd] med synd och vi hoppas att Allāh kommer att förlåta henne för detta.
 
 

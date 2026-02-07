@@ -28,4 +28,4 @@ Sedan torkar och sveper man denne person.
 
 [^1]: Lotuslöv
 
-[^2]: *al-Bukhārī* 1253
+[^2]: *al-Buk̲hārī* 1253

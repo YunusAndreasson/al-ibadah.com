@@ -16,6 +16,6 @@ description: >-
 
 **Fråga:** Vilken är den metod som bekräftar varje månad?
 
-**Svar:** Autentiska *ahādīth* från profeten – över honom vare Allāhs frid och välsignelser – bevisar att ny månad är när en pålitlig person ser den [månen] efter solnedgången under natten till den 30:e *sha'ban* eller när två pålitliga personer ser den under den 30:e natten i *ramadan*. Då anses den ha skådats. På detta sätt blir början på månaden känd utan att man behöver tänka på hur länge månen har varit synlig efter solnedgången. Det spelar ingen roll om den [månen] var där under tjugo minuter, mer eller mindre, då det inte finns någon autentisk *hadīth* som bevisar att antalet minuter är specificerade för månens försvinnande efter solnedgången.
+**Svar:** Autentiska *aḥādīt̲h* från profeten – över honom vare Allāhs frid och välsignelser – bevisar att ny månad är när en pålitlig person ser den [månen] efter solnedgången under natten till den 30:e *s̲ha´bān* eller när två pålitliga personer ser den under den 30:e natten i *ramaḍān*. Då anses den ha skådats. På detta sätt blir början på månaden känd utan att man behöver tänka på hur länge månen har varit synlig efter solnedgången. Det spelar ingen roll om den [månen] var där under tjugo minuter, mer eller mindre, då det inte finns någon autentisk *ḥadīt̲h* som bevisar att antalet minuter är specificerade för månens försvinnande efter solnedgången.
 
 

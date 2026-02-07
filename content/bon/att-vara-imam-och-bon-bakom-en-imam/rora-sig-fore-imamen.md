@@ -37,5 +37,5 @@ I efterhand: Att man ligger efter imamen så mycket att man inte anses följa ho
 
 [^1]: Att säga Allahu Akbar.
 
-[^2]: *al-Bukhārī* 691 och *Muslim* 427
-[^3]: *al-Bukhārī* 1114
+[^2]: *al-Buk̲hārī* 691 och *Muslim* 427
+[^3]: *al-Buk̲hārī* 1114

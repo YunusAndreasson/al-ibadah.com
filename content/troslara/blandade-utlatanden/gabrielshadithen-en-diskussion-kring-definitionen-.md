@@ -15,13 +15,13 @@ description: >-
   innebär: ”Att tro på Allāh, Hans änglar, Ha...
 ---
 
-**Fråga:** Hur kan vi jämka samman *hadithen* från [ängeln] Gabriel i vilken profeten – över honom vare Allāhs frid och välsignelser – förklarar att tron innebär:
+**Fråga:** Hur kan vi jämka samman *ḥadīt̲h* från [ängeln] Gabriel i vilken profeten – över honom vare Allāhs frid och välsignelser – förklarar att tron innebär:
 
 > ”Att tro på Allāh, Hans änglar, Hans skrifter, Hans sändebud, den Yttersta dagen och det förutbestämda [både det onda och det goda i det]”
 
-med *hadithen* från ´Abdul-Qais-delegationen i vilken profeten – över honom vare Allāhs frid och välsignelser – förklarar tron genom att säga att den innebär:
+med *ḥadīt̲h* från ´Abdul-Qais-delegationen i vilken profeten – över honom vare Allāhs frid och välsignelser – förklarar tron genom att säga att den innebär:
 
-> ”… att det inte finns någon gudom [värdig dyrkan] förutom Allāh, att Han är en, utan någon medhjälpare vid Sin sida, att be, att betala allmosa och att betala khumus” [*al-Bukhārī* 53 och *Muslim* 17]
+> ”… att det inte finns någon gudom [värdig dyrkan] förutom Allāh, att Han är en, utan någon medhjälpare vid Sin sida, att be, att betala allmosa och att betala khumus” [*al-Buk̲hārī* 53 och *Muslim* 17]
 
 **Svar:** Innan vi svarar denna fråga skulle jag vilja säga att det aldrig finns några motsägelser mellan Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Ingen del av Skriften motsäger någon annan del och ingen del av den autentiska sunan återberättad från profeten – över honom vare Allāhs frid och välsignelser – motsäger sig någon annan del.
 
@@ -31,15 +31,15 @@ Förstår du då denna princip kommer många tvivel att skringa sig för dig. Al
 
 > ”Ägnar de ingen eftertanke åt det som Koranen [innehåller]? De skulle säker ha funnit många motsägelser i den, om den inte varit från Gud.” [Koranen 4:82]
 
-Efter att ha förstått detta är det inte möjligt att *ahādīth* från profeten – över honom vare Allāhs frid och välsignelser – skulle motsäga sig varandra. Har profeten – över honom vare Allāhs frid och välsignelser – förklarat tron på ett visst sätt på en plats och han på en annan plats på ett annat sätt, som motsäger sig det första sättet, enligt vad du anser, om du då tittar noggrant kommer du se att det inte finns någon motsägelse.
+Efter att ha förstått detta är det inte möjligt att *aḥādīt̲h* från profeten – över honom vare Allāhs frid och välsignelser – skulle motsäga sig varandra. Har profeten – över honom vare Allāhs frid och välsignelser – förklarat tron på ett visst sätt på en plats och han på en annan plats på ett annat sätt, som motsäger sig det första sättet, enligt vad du anser, om du då tittar noggrant kommer du se att det inte finns någon motsägelse.
 
-I *hadithen* från [ängeln] Gabriel har profeten – över honom vare Allāhs frid och välsignelser – delat religionen i tre kategorier:
+I *ḥadīt̲h* från [ängeln] Gabriel har profeten – över honom vare Allāhs frid och välsignelser – delat religionen i tre kategorier:
 
 1. Islam,
 2. imān och
 3. ihsan.
 
-I *hadithen* från ´Abdul-Qais-delegationen nämnde han enbart en kategori, och den var islam. Tron är utan några oenigheter innefattad i islam. Det är ju omöjligt att någon utför riterna om denne inte har tron. När islam nämns ensamt innefattas tron och om enbart tron nämns innefattas islam i den. När de nämns tillsammans rör tron [tron] i hjärtat, medan islam rör vad kroppen gör. För den som studerar den islamiska vetenskapen är detta något som är nyttigt att förstå.
+I *ḥadīt̲h* från ´Abdul-Qais-delegationen nämnde han enbart en kategori, och den var islam. Tron är utan några oenigheter innefattad i islam. Det är ju omöjligt att någon utför riterna om denne inte har tron. När islam nämns ensamt innefattas tron och om enbart tron nämns innefattas islam i den. När de nämns tillsammans rör tron [tron] i hjärtat, medan islam rör vad kroppen gör. För den som studerar den islamiska vetenskapen är detta något som är nyttigt att förstå.
 
 [Som vi sagt tidigare], när islam nämns innefattas tron i den. Allāh den Upphöjde säger: "*För Gud är [den sanna] religionen underkastelse under Hans vilja*." [^1] Det är välkänt att islam är trosprinciper, tro och riter. När enbart tron nämns innefattas islam i den. Nämns de båda tillsammans avser tron den tro som finns i hjärtat och innebörden av islam avser kroppens handlingar. Därför har vissa *salaf* – må Allāh vara nöjda med dem – sagt:
 

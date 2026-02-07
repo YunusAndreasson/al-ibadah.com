@@ -14,8 +14,8 @@ description: >-
   måste ge mat då man nu vet att han bedöms...
 ---
 
-**Fråga:** Det finns en person som lider av tuberkulos och det är svårt för honom att fasta under *ramadan*. Förra *ramadan* fastade han inte och undrar nu om han måste ge mat då man nu vet att han bedöms tillfriskna från detta sjukdomstillstånd?
+**Fråga:** Det finns en person som lider av tuberkulos och det är svårt för honom att fasta under *ramaḍān*. Förra *ramaḍān* fastade han inte och undrar nu om han måste ge mat då man nu vet att han bedöms tillfriskna från detta sjukdomstillstånd?
 
-**Svar:** Om den sjuke inte är stark nog för att fasta under *ramadan* och denne inte förväntas tillfriskna från sjukdomen, då är denne inte skyldig att fasta. I stället måste denne föda en fattig för varje dag som denne inte fastar. Har han möjlighet ger han den fattige en halv *sa'* vete, torkade dadlar, ris eller något liknande av den mat som är vanlig i landet. Detta går att likna vid en extremt gammal man eller kvinna som fastan är för svår för.
+**Svar:** Om den sjuke inte är stark nog för att fasta under *ramaḍān* och denne inte förväntas tillfriskna från sjukdomen, då är denne inte skyldig att fasta. I stället måste denne föda en fattig för varje dag som denne inte fastar. Har han möjlighet ger han den fattige en halv *ṣā´* vete, torkade dadlar, ris eller något liknande av den mat som är vanlig i landet. Detta går att likna vid en extremt gammal man eller kvinna som fastan är för svår för.
 
 

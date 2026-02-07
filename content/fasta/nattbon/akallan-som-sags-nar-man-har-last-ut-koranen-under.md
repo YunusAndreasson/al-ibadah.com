@@ -6,7 +6,7 @@ source: >-
   Libanon: Makbtaba Dar us-Salam. 512 s. ISBN 9960-892-66-2
 categories:
   - Fasta (Sawm)
-  - Nattbön (tarawih)
+  - Ramadanens nattbön
 original_id: 978
 description: >-
   Fråga: Vilket är utlåtandet om att åkalla när man har läst ut Koranen nattetid
@@ -14,7 +14,7 @@ description: >-
   över honom vare Allāhs frid och ...
 ---
 
-**Fråga:** Vilket är utlåtandet om att åkalla när man har läst ut Koranen nattetid under *ramadan*?
+**Fråga:** Vilket är utlåtandet om att åkalla när man har läst ut Koranen nattetid under *ramaḍān*?
 
 **Svar:** Jag känner inte till någon *sunnah*, varken från profeten – över honom vare Allāhs frid och välsignelser – eller från hans följeslagare, om att fullfölja recitation av Koranen under *ramadans*[^1] nattbön. Det enda som har rapporterats om detta är att när Anas bin Mālik slutförde recitationen av Koranen samlade han sin familj och åkallade, men detta var inte i bönen.
 

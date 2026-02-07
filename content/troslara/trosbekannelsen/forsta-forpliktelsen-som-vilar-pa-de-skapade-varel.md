@@ -24,6 +24,6 @@ Genom att endast rikta sin dyrkan mot Allāh och vittna om att Hans sändebud f�
 
 Detta är då den första skyldigheten för tjänaren, att han enbart dyrkar Allāh och vittnar om alla Hans sändebud som har kommit med samma budskap.
 
-Att vittna om att det inte finns någon gud utom Allāh täcker tron på *tawhīd* i dess helhet.
+Att vittna om att det inte finns någon gud utom Allāh täcker tron på *tawḥīd* i dess helhet.
 
 

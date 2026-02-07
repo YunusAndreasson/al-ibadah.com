@@ -21,6 +21,6 @@ description: >-
 
 > ”Och de frågar dig om [kvinnans] månadsblödning. Säg: ’Detta är ett ömtåligt och smärtsamt tillstånd. Håll er därför borta från kvinnorna under deras period.” [Koranen 2:222]
 
-Så länge blodet finns kvar har hon fortfarande sin månadsblödning tills hon blir ren och gör *ghusl*. Får hon därefter sin månadsblödning följande månad och perioden då är kortare, då gör hon *ghusl* när hon blir ren även om perioden inte var lika lång som den förra. Det som är viktigt är att när hon har sin månadsblödning får hon inte be, oavsett om månadsblödningen är i lika lång som, längre än eller kortare än den tidigare. Om hon blir ren bör hon be.
+Så länge blodet finns kvar har hon fortfarande sin månadsblödning tills hon blir ren och gör *g̲husl*. Får hon därefter sin månadsblödning följande månad och perioden då är kortare, då gör hon *g̲husl* när hon blir ren även om perioden inte var lika lång som den förra. Det som är viktigt är att när hon har sin månadsblödning får hon inte be, oavsett om månadsblödningen är i lika lång som, längre än eller kortare än den tidigare. Om hon blir ren bör hon be.
 
 

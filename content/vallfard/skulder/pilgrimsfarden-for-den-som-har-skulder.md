@@ -20,6 +20,6 @@ description: >-
 
 Och Allāh är källan till styrka.
 
-[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramadan* 1428).
+[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramaḍān* 1428).
 
 [^2]: Koranen 3:97

@@ -132,9 +132,9 @@
 - [x] allmosa-under-ramadan.md ✓
 - [x] betala-allmosa-i-forskott.md ✓
 - [x] betalade-inte-allmosan-under-fyra-ar.md ✓
-- [x] glomde-att-ge-zakatul-fitr-innan-eid-bonen.md ✓ La till fotnoter för sadaqah och 'eid
+- [x] glomde-att-ge-zakatul-fitr-innan-eid-bonen.md ✓ La till fotnoter för sadaqah och ´eid
 - [x] hur-man-betalar-allmosa.md ✓
 - [x] manadslonen.md ✓
 - [x] skyldigheten-i-och-betydelsen-av-allmosan.md ✓ Förbättrade titel, grammatikrättningar
 - [x] var-okunnig-om-allmosan-och-betalade-inte-under-fe.md ✓
-- [x] zakatul-fitr-hur-mycket-man-skall-ge-och-om-det-ar.md ✓ La till fotnot för 'eid
+- [x] zakatul-fitr-hur-mycket-man-skall-ge-och-om-det-ar.md ✓ La till fotnot för ´eid

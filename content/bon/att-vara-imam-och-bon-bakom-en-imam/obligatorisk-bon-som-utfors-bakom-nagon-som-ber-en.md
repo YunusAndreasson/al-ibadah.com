@@ -14,8 +14,8 @@ description: >-
   Svar: Det finns ingen invändan mot att be...
 ---
 
-**Fråga:** Vilket är utlåtandet om att be en obligatorisk bön bakom någon som ber en frivillig, likt någon som ber nattbönen bakom dem som ber *tarāwīh*?
+**Fråga:** Vilket är utlåtandet om att be en obligatorisk bön bakom någon som ber en frivillig, likt någon som ber nattbönen bakom dem som ber *tarāwīḥ*?
 
-**Svar:** Det finns ingen invändan mot att be nattbönen bakom någon som ber *tarāwīh*. Imam *Ahmad* har fastslagit detta […]
+**Svar:** Det finns ingen invändan mot att be nattbönen bakom någon som ber *tarāwīḥ*. Imam *Aḥmad* har fastslagit detta […]
 
 

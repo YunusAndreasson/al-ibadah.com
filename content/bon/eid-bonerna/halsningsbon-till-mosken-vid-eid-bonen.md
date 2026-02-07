@@ -4,7 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'al-Ladjnah ad-Dā’imah Li’l-Buhooth al-‘Ilmiyyah wa’l-Iftā’, 7/274'
 categories:
   - Bön (Salāh)
-  - Eid-bönerna
+  - Eid-bönen
 original_id: 1591
 description: >-
   Fråga: Det har bevisats att Allāhs sändebud – må Allāhs frid och välsignelser
@@ -12,9 +12,9 @@ description: >-
   vanliga moskén utan vid en plats utsedd ...
 ---
 
-**Fråga:** Det har bevisats att Allāhs sändebud – må Allāhs frid och välsignelser vara över honom – gick ut för att be *‘eid*-bönen vid böneplatsen [inte i den vanliga moskén utan vid en plats utsedd för *‘eid*-bön]. Både män och kvinnor gick ut för att be med honom. Alla följeslagare fortsatte med detta efter hans bortgång. Får den som går till *‘eid*-bönen be två bönecykler som hälsningsbön till moskén[^1]?
+**Fråga:** Det har bevisats att Allāhs sändebud – må Allāhs frid och välsignelser vara över honom – gick ut för att be *´eid*-bönen vid böneplatsen [inte i den vanliga moskén utan vid en plats utsedd för *´eid*-bön]. Både män och kvinnor gick ut för att be med honom. Alla följeslagare fortsatte med detta efter hans bortgång. Får den som går till *´eid*-bönen be två bönecykler som hälsningsbön till moskén[^1]?
 
-**Svar:** All lovprisan tillhör Allāh. Den som kommer till böneplatsen för att be *‘eid*-bönen bör inte be hälsningsbönen till moskén[^1] före denne sätter sig ned då detta skiljer sig mot hur profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare brukade göra. Och Allāh är källan till all styrka.
+**Svar:** All lovprisan tillhör Allāh. Den som kommer till böneplatsen för att be *´eid*-bönen bör inte be hälsningsbönen till moskén[^1] före denne sätter sig ned då detta skiljer sig mot hur profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare brukade göra. Och Allāh är källan till all styrka.
 
 Må Allāh välsigna vår profet Muḥammad, hans familj och följeslagare.
 

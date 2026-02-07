@@ -6,7 +6,7 @@ source: >-
   Libanon: Makbtaba Dar us-Salam. 360 s. ISBN 9960-892-66-2
 categories:
   - Renhet (Tahārah)
-  - 'Tayammum [Tvagning utan vatten]'
+  - Tvagning utan vatten
 original_id: 1161
 description: >-
   Fråga: Hur kan man rena sig om det är omöjligt att använda vatten? Svar: Är

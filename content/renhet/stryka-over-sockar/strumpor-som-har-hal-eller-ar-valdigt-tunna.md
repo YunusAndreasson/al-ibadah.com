@@ -4,7 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: Fatāwa al-Ladjnah al-Dā’imah, 5/246
 categories:
   - Renhet (Tahārah)
-  - Mash över sockar
+  - Strykning över strumpor
 original_id: 515
 description: 'Fråga: Vilket är utlåtandet om att stryka över sina strumpor om de
  har hål eller är mycket tunna? All lovprisan tillhör Allāh. Svar: Det är tillåtet

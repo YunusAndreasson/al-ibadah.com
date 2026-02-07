@@ -14,7 +14,7 @@ description: >-
   det fastan genom en analogi med koppni...
 ---
 
-**Fråga:** Är det tillåtet att donera blod dagtid under *ramadan* eller bryter det fastan?
+**Fråga:** Är det tillåtet att donera blod dagtid under *ramaḍān* eller bryter det fastan?
 
 **Svar:** Om någon donerar blod och man tar en stor mängd, då ogiltigör det fastan genom en analogi med koppning[^1]. Detta sker genom att man tar blod från denne för att rädda en sjukling eller för att spara blod till nödfall. Men om man enbart tar en liten mängd bryter det inte fastan. Detta kan vara den mängd som man tar genom nålar under blodprov.
 

@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Vilka är *ahlus-sunnah[^1] wal-jamā’at*?
 
-**Svar:** *Ahlus-sunnah[^1] wal-jamā’at* är dem som vänder sig till och förenar sig kring profetens – över honom vare Allāhs frid och välsignelser – *sunnah* utan att ta åsikter från annat håll. Detta gäller i frågor om *‘aqīdah* och handlingar som döms enligt utlåtanden från den islamiska lagen. Följaktligen kallas de för *ahlus-sunnah* då de håller sig till profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Och de kallas *al-jamā’at* för att de är enade om att följa den.
+**Svar:** *Ahlus-sunnah[^1] wal-jamā’at* är dem som vänder sig till och förenar sig kring profetens – över honom vare Allāhs frid och välsignelser – *sunnah* utan att ta åsikter från annat håll. Detta gäller i frågor om *´aqīdah* och handlingar som döms enligt utlåtanden från den islamiska lagen. Följaktligen kallas de för *ahlus-sunnah* då de håller sig till profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Och de kallas *al-jamā’at* för att de är enade om att följa den.
 
 Studerar du dem som följer innovationer, då kommer du att finna att de skiljer sig åt i vad de följer i frågor om tro, metodologi och praktiskt utövande. Detta tyder på att de är långt ifrån profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och hur långt de är ifrån den är enligt hur mycket nytt de har introducerat i religionen.
 

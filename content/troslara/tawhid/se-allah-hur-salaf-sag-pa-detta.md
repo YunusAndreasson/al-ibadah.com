@@ -7,7 +7,7 @@ source: >-
   Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - 'Tawhīd [Monoteism]'
+  - Monoteism
 original_id: 1087
 description: >-
   Fråga: Ansåg salaf – må Allāh vara nöjda med dem – att man kan se Allāh?
@@ -44,4 +44,4 @@ Att dyrka Allāh som om man ser Honom är fullständig och perfekt visshet. Där
 Och Allāh är den vars hjälp vi söker.
 
 
-[^1]: *an-Nasā’i* 1304 och *Ahmad* 5:191
+[^1]: *an-Nasā’ī* 1304 och *Aḥmad* 5:191

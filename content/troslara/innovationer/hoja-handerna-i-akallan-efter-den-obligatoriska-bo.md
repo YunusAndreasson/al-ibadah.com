@@ -22,4 +22,4 @@ Han har även sagt: ”*Den som påbörjar något i denna vår fråga [religione
 
 
 [^1]: *Muslim* 1718
-[^2]: *al-Bukhārī* 2697 och *Muslim* 1718
+[^2]: *al-Buk̲hārī* 2697 och *Muslim* 1718

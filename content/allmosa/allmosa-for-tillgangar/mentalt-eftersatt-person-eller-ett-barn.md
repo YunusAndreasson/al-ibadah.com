@@ -7,7 +7,7 @@ source: >-
   Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Allmosa (Zakāh)
-  - Tillgångar
+  - Allmosa för tillgångar
 original_id: 1612
 description: >-
   Fråga: Är det en skyldighet att betala allmosa för tillgångar som tillhör ett
@@ -27,4 +27,4 @@ Därför är allmosan en skyldighet för barnets och den mentalt eftersattes til
 
 
 [^1]: Koranen 9:103
-[^2]: *al-Bukhārī* 1395 och *Muslim* 19
+[^2]: *al-Buk̲hārī* 1395 och *Muslim* 19

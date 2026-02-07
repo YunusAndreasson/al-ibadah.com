@@ -15,15 +15,15 @@ description: >-
   hår eller sina naglar har inte s...
 ---
 
-**Fråga:** Vad gäller den som, ovetandes eller på grund av glömska, utför en av de nio förbjudna handlingarna under *ihrām*?
+**Fråga:** Vad gäller den som, ovetandes eller på grund av glömska, utför en av de nio förbjudna handlingarna under *iḥrām*?
 
 **Svar:** Den som glömmer och klipper sitt hår eller sina naglar har inte syndat och han behöver inte offra. Detsamma gäller den som i glömska använder parfym, täcker sitt huvud eller bär klädesplagg med sömmar. Allāh håller inte denne ansvarig. Detta eftersom Han har sagt: ”Herre! Ställ oss inte till svars för glömska eller oavsiktliga fel.” [^1]
 
-I *Sahīh* återges att Allāh har sagt [som svar på detta]: ”*Sannerligen, har jag gjort så [accepterat denna åkallan]*.”
+I *Ṣaḥīḥ* återges att Allāh har sagt [som svar på detta]: ”*Sannerligen, har jag gjort så [accepterat denna åkallan]*.”
 
 Allāh har även sagt: ”*Om ni här begår ett misstag. ska ni inte klandras för detta – nej, [det som är av betydelse är] vad ni innerst inne syftar till*.” [^2]
 
-Och i en *hadīth* rapporteras det: ”*Mitt samfund har förlåtits för oavsiktliga fel och glömska*.” [^3]
+Och i en *ḥadīt̲h* rapporteras det: ”*Mitt samfund har förlåtits för oavsiktliga fel och glömska*.” [^3]
 
 Beträffande att döda vilt har majoriteten av de lärda dömt enligt dess princip [att man måste offra] och de har inte frågat om man gjorde de avsiktligen eller av misstag. Det som troligen är rätt är att det inte är en synd [att döda vilt, oavsiktligen eller i glömska] och det finns inget offer för den som glömde eller gjorde det på grund av glömska. Detta eftersom Allāh har sagt: ”*Den av er som [då] avsiktligen nedlägger vilt*.” [^4]
 

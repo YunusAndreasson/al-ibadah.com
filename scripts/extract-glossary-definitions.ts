@@ -8,6 +8,7 @@
 import fs from 'node:fs/promises'
 import path from 'node:path'
 import matter from 'gray-matter'
+import { normalizeArabic } from '../src/lib/normalize-arabic.js'
 
 const CONTENT_DIR = path.join(process.cwd(), 'content')
 const TERMS_FILE = path.join(process.cwd(), 'src', 'data', 'italicized-terms.json')
@@ -16,6 +17,7 @@ const OUTPUT_FILE = path.join(process.cwd(), 'src', 'data', 'glossary.ts')
 interface TermEntry {
   canonical: string
   variants: string[]
+  definition?: string
 }
 
 interface TermCategory {
@@ -35,6 +37,10 @@ interface GlossaryTerm {
   category: string
 }
 
+/**
+ * Build a term map using normalized keys for fuzzy matching.
+ * Maps normalized form → { canonical, category }
+ */
 async function loadTerms(): Promise<Map<string, { canonical: string; category: string }>> {
   const content = await fs.readFile(TERMS_FILE, 'utf-8')
   const data: TermsData = JSON.parse(content)
@@ -43,17 +49,14 @@ async function loadTerms(): Promise<Map<string, { canonical: string; category: s
 
   for (const [categoryKey, category] of Object.entries(data.categories)) {
     for (const term of category.terms) {
-      // Map canonical name
-      termMap.set(term.canonical.toLowerCase(), {
-        canonical: term.canonical,
-        category: categoryKey,
-      })
-      // Map all variants
+      const entry = { canonical: term.canonical, category: categoryKey }
+
+      // Map normalized canonical
+      termMap.set(normalizeArabic(term.canonical), entry)
+
+      // Map normalized variants
       for (const variant of term.variants) {
-        termMap.set(variant.toLowerCase(), {
-          canonical: term.canonical,
-          category: categoryKey,
-        })
+        termMap.set(normalizeArabic(variant), entry)
       }
     }
   }
@@ -114,21 +117,16 @@ function extractFootnoteDefinitions(content: string): Map<string, string> {
 
 function isDefinitionNotReference(definition: string): boolean {
   // Filter out definitions that are just references (citations)
-  // Definitions typically explain what a term means, not cite sources
-
-  // Check if it's mostly a hadith reference like "*an-Nasā'i* 1304 och *Ahmad* 5:191"
   const hadithRefPattern =
     /^\*?[a-zA-ZāīūĀĪŪ'-]+\*?\s*\d+[:/]?\d*(\s*(och|and|,)\s*\*?[a-zA-ZāīūĀĪŪ'-]+\*?\s*\d+[:/]?\d*)*$/i
   if (hadithRefPattern.test(definition)) {
     return false
   }
 
-  // Check if it's a short reference-like text
   if (definition.length < 15 && /^\d/.test(definition)) {
     return false
   }
 
-  // Definition should have some explanatory text
   return definition.length >= 10
 }
 
@@ -147,8 +145,9 @@ async function extractDefinitions(): Promise<Map<string, Map<string, number>>> {
     const footnotes = extractFootnoteDefinitions(content)
 
     for (const ref of termRefs) {
-      const termLower = ref.term.toLowerCase()
-      const termInfo = termMap.get(termLower)
+      // Use normalized matching
+      const normalized = normalizeArabic(ref.term)
+      const termInfo = termMap.get(normalized)
 
       if (!termInfo) continue // Not a known glossary term
 
@@ -174,7 +173,6 @@ async function extractDefinitions(): Promise<Map<string, Map<string, number>>> {
 function selectBestDefinition(definitions: Map<string, number>): string | null {
   if (definitions.size === 0) return null
 
-  // Sort by count (descending), then by length (prefer shorter, cleaner definitions)
   const sorted = [...definitions.entries()].sort((a, b) => {
     if (b[1] !== a[1]) return b[1] - a[1] // Higher count first
     return a[0].length - b[0].length // Shorter definition first
@@ -199,8 +197,15 @@ async function generateGlossary(): Promise<void> {
   // Process each category
   for (const [categoryKey, category] of Object.entries(termsData.categories)) {
     for (const term of category.terms) {
-      const definitions = definitionCounts.get(term.canonical)
-      const bestDefinition = definitions ? selectBestDefinition(definitions) : null
+      // Check for pre-defined definition (e.g. Swedish terms)
+      let bestDefinition: string | null = null
+
+      if (term.definition) {
+        bestDefinition = term.definition
+      } else {
+        const definitions = definitionCounts.get(term.canonical)
+        bestDefinition = definitions ? selectBestDefinition(definitions) : null
+      }
 
       if (bestDefinition) {
         glossaryTerms.push({
@@ -224,6 +229,8 @@ async function generateGlossary(): Promise<void> {
 // Generated at: ${new Date().toISOString()}
 // Run: pnpm tsx scripts/extract-glossary-definitions.ts
 
+import { normalizeArabic } from '../lib/normalize-arabic'
+
 export interface GlossaryTerm {
   canonical: string
   variants: string[]
@@ -244,38 +251,39 @@ ${glossaryTerms
   .join(',\n')}
 }
 
-// Helper to find term by any variant
+// Build variant map using normalization for fuzzy matching
 const variantMap = new Map<string, string>()
 for (const [canonical, term] of Object.entries(glossary)) {
-  variantMap.set(canonical.toLowerCase(), canonical)
+  variantMap.set(normalizeArabic(canonical), canonical)
   for (const variant of term.variants) {
-    variantMap.set(variant.toLowerCase(), canonical)
+    variantMap.set(normalizeArabic(variant), canonical)
   }
 }
 
 export function findGlossaryTerm(text: string): GlossaryTerm | undefined {
-  const canonical = variantMap.get(text.toLowerCase())
+  const canonical = variantMap.get(normalizeArabic(text))
   return canonical ? glossary[canonical] : undefined
 }
 
 // Category descriptions for display
 export const categoryDescriptions: Record<string, string> = {
-  hadithSources: 'Hadith-kallhanvisningar och samlingar',
-  hadithBooks: 'Hadith-bocker och verk',
-  coreTerms: 'Grundlaggande islamiska termer',
-  prayerTerms: 'Bonerelaterade termer',
+  hadithSources: 'Hadith-källhänvisningar och samlingar',
+  hadithBooks: 'Hadith-böcker och verk',
+  coreTerms: 'Grundläggande islamiska termer',
+  prayerTerms: 'Bönerelaterade termer',
   purificationTerms: 'Renhetstermer',
   fastingTerms: 'Fasta-relaterade termer',
-  hajjTerms: 'Vallfardstermer',
-  hajjLocations: 'Vallfardsorter',
-  monthNames: 'Islamiska manader',
+  hajjTerms: 'Vallfärdstermer',
+  hajjLocations: 'Vallfärdsorter',
+  monthNames: 'Islamiska månader',
   zakatTerms: 'Zakat-termer',
-  familyTerms: 'Familje- och aktenskapstermer',
-  clothingTerms: 'Kladestermer',
+  familyTerms: 'Familje- och äktenskapstermer',
+  clothingTerms: 'Klädestermer',
   phrases: 'Vanliga fraser',
-  scholarlyTerms: 'Akademiska/lardomstermer',
-  tawhidTerms: 'Tawhid-kategorier',
-  miswakAndOther: 'Ovriga termer',
+  scholarlyTerms: 'Akademiska/lärdomstermer',
+  tawhidTerms: 'Tawhīd-kategorier',
+  miswakAndOther: 'Övriga termer',
+  swedishTerms: 'Svenska termer med arabisk motsvarighet',
 }
 `
 
@@ -289,7 +297,7 @@ export const categoryDescriptions: Record<string, string> = {
   console.log(`Terms without definitions: ${termsWithoutDefinitions.length}`)
   console.log(`\nOutput written to: ${OUTPUT_FILE}`)
 
-  if (termsWithoutDefinitions.length > 0 && termsWithoutDefinitions.length <= 30) {
+  if (termsWithoutDefinitions.length > 0) {
     console.log('\nTerms without definitions:')
     for (const term of termsWithoutDefinitions.slice(0, 30)) {
       console.log(`  - ${term}`)

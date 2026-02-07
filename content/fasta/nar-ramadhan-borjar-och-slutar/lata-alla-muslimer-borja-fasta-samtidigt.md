@@ -15,9 +15,9 @@ description: >-
   samtidigt. Vad anser ni om detta? Svar: F...
 ---
 
-**Fråga:** Somliga manar till att alla ska följa månens siktande i Mecka för att det muslimska samfundet under den välsignade *ramadan* ska börja fastan samtidigt. Vad anser ni om detta?
+**Fråga:** Somliga manar till att alla ska följa månens siktande i Mecka för att det muslimska samfundet under den välsignade *ramaḍān* ska börja fastan samtidigt. Vad anser ni om detta?
 
-**Svar:** Från en astronomisk synvinkel är detta omöjligt därför att nymånens framträdande, vilket *shaykh ul-islām* ibn Taymiyyah – må Allāh vara honom nådig – påpekar, skiljer sig [från plats till plats] enligt det konsensus som råder bland kunniga inom detta område.
+**Svar:** Från en astronomisk synvinkel är detta omöjligt därför att nymånens framträdande, vilket *s̲hayk̲h ul-islām* ibn Taymiyyah – må Allāh vara honom nådig – påpekar, skiljer sig [från plats till plats] enligt det konsensus som råder bland kunniga inom detta område.
 
 Då det skiljer sig blir det nödvändigt – genom bevisen i Koranen, profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och vetenskapen – att varje land måste följa ett eget utlåtande.
 
@@ -35,5 +35,5 @@ Det som fordras genom bevisen i Koranen och profetens – över honom vare Allā
 
 
 [^1]: Koranen 2:185
-[^2]: *al-Bukhārī* 1909 och *Muslim* 1081
+[^2]: *al-Buk̲hārī* 1909 och *Muslim* 1081
 [^3]: Koranen 2:185

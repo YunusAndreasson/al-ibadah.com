@@ -23,7 +23,7 @@ description: >-
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Den som är främst i Koranen kommer att vara den ädlaste och mest rättfärdiga värd, och den som läser Koranen stammandes för att försöka lära sig den kommer att få två belöningar.” [*al-Bukhārī*]
+> ”Den som är främst i Koranen kommer att vara den ädlaste och mest rättfärdiga värd, och den som läser Koranen stammandes för att försöka lära sig den kommer att få två belöningar.” [*al-Buk̲hārī*]
 
 Därför, råder vi dig inte att ge upp din tjänst som imam; tvärtom råder vi dig att fortsätta kämpa samt ha tålamod och uppriktighet tills du är framgångsrik i din inlärning av *tajwīd* och memorerat den. Må Allāh acceptera dina ansträngningar och underlätta för dig.
 

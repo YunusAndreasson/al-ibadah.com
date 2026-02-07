@@ -18,7 +18,7 @@ description: >-
 
 Om studenten är en nybörjare och därmed inte vet hur bevis ska hämtas ifrån källorna, finns det inget annat val för honom än att följa en av de fyra imamerna eller någon av de respekterade lärde av i dag. Detta är det bästa.
 
-Skulle han finna att något uttalande ifrån imamerna är felaktigt, och stå i kontrast till autentiska *ahādīth*, är det obligatoriskt för honom att följa denna *hadīth*.
+Skulle han finna att något uttalande ifrån imamerna är felaktigt, och stå i kontrast till autentiska *aḥādīt̲h*, är det obligatoriskt för honom att följa denna *ḥadīt̲h*.
 
 
 [^1]: Koranen 21:7

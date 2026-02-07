@@ -12,7 +12,7 @@ description: >-
   hijāmah .
 ---
 
-**Fråga:** Bryts fastan om man donerar blod under *ramadan*?
+**Fråga:** Bryts fastan om man donerar blod under *ramaḍān*?
 
 **Svar:** Ja! Om man donerar mycket blod, då bryts fastan och det klassas på ungefär samma sätt som *hijāmah*[^1].
 

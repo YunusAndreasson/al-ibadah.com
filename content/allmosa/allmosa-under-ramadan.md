@@ -13,10 +13,10 @@ description: >-
   till en skyldighet och föremålet har varit...
 ---
 
-**Fråga:** Är allmosan ädlare under *ramadan* […]?
+**Fråga:** Är allmosan ädlare under *ramaḍān* […]?
 
-**Svar:** Allmosa är som alla former av gott handlande ädlare under ädla tidpunkter. Men när allmosan blir till en skyldighet och föremålet har varit i ens ägo under ett år, då måste allmosan betalas. Den bör inte skjutas upp till *ramadan*.
+**Svar:** Allmosa är som alla former av gott handlande ädlare under ädla tidpunkter. Men när allmosan blir till en skyldighet och föremålet har varit i ens ägo under ett år, då måste allmosan betalas. Den bör inte skjutas upp till *ramaḍān*.
 
-Om året då har gått för ens tillgångar och det är *rajab*, då väntar man inte med att betala till *ramadan*. I stället betalar man under *rajab*. Om ett år har gått för ens tillgångar under *muharram*, då måste man betala under *muharram* och man väntar inte till *ramadan*. Men om tiden för allmosan är under *ramadan*, då betalar man under *ramadan*.
+Om året då har gått för ens tillgångar och det är *rajab*, då väntar man inte med att betala till *ramaḍān*. I stället betalar man under *rajab*. Om ett år har gått för ens tillgångar under *muḥarram*, då måste man betala under *muḥarram* och man väntar inte till *ramaḍān*. Men om tiden för allmosan är under *ramaḍān*, då betalar man under *ramaḍān*.
 
 

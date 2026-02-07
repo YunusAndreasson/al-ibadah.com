@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om att höja händerna under bönen och när bör det göras?
 
-**Svar:** Händerna bör höjas vid fyra tillfällen under bönen: när man gör öppnings-*takbīr*, när man bugar, när man rätar sig från bugningen och när man står upp efter den första *tashahhud*.
+**Svar:** Händerna bör höjas vid fyra tillfällen under bönen: när man gör öppnings-*takbīr*, när man bugar, när man rätar sig från bugningen och när man står upp efter den första *tas̲hahhud*.
 
 När man höjer händerna bör det sammanfalla med början av att man säger "*Allāhu akbar*". Det går även bra att höja dem och sedan säga "*Allāhu akbar*", eller att säga "*Allāhu akbar*" och sedan höja dem.
 

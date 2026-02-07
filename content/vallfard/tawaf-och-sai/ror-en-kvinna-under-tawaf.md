@@ -7,7 +7,7 @@ source: >-
   (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Vallfärd (Hajj)
-  - Tawāf och sa’ī
+  - Rundvandring och löpning
 original_id: 805
 description: >-
   Fråga: En man utförde under väldig trängsel tawāful-ifādhah och han rörde en
@@ -15,9 +15,9 @@ description: >-
   ogiltig, så att han bör göra om den med ...
 ---
 
-**Fråga:** En man utförde under väldig trängsel *tawāf[^1] ul-ifādhah* och han rörde en kvinnas kropp. Denna kvinna var inte släkt med honom. Gör detta hans *tawāf* ogiltig, så att han bör göra om den med tanke på tvagningen?
+**Fråga:** En man utförde under väldig trängsel *tawāf[^1] ul-ifādhah* och han rörde en kvinnas kropp. Denna kvinna var inte släkt med honom. Gör detta hans *ṭawāf* ogiltig, så att han bör göra om den med tanke på tvagningen?
 
-**Svar:** En man som rör en kvinnas kropp under hans *tawāf*, eller i folksamlingar vid någon annan plats, får inte sin *tawāf* eller tvagning förstörd. Detta enligt den mest korrekta åsikten bland de lärde.
+**Svar:** En man som rör en kvinnas kropp under hans *ṭawāf*, eller i folksamlingar vid någon annan plats, får inte sin *ṭawāf* eller tvagning förstörd. Detta enligt den mest korrekta åsikten bland de lärde.
 
 Man har diskuterat om tvagningen bryts om en kvinna vidrörs och det finns olika uttalanden om det. Det har sagts att det inte bryter tvagningen alls. Det har sagts att det bryter tvagningen. Det har även sagts att det bryter tvagningen om det görs med begär. Den mest korrekta åsikten är dock att det på inget sätt bryter tvagningen, och detta gäller även om en man rör eller kysser en kvinna.
 
@@ -29,7 +29,7 @@ Den rätta förklaringen av Allāhs ord: "*Eller haft beröring med kvinnor*." [
 
 Det betyder inte att man enbart rör en kvinna, som rapporterats från Ibn Mas'ūd. I stället är den korrekta åsikten att det avser intim samvaro, vilket Ibn 'Abbās och några lärde har sagt.
 
-Genom detta lär vi oss att den som rör en kvinnas kropp under *tawāf* fortfarande har en korrekt *tawāf* och att dennes tvagning är giltig. Även om denne rör eller kysser sin fru är dennes tvagning giltig så länge inget kommer ur honom [vätska eller sperma].
+Genom detta lär vi oss att den som rör en kvinnas kropp under *ṭawāf* fortfarande har en korrekt *ṭawāf* och att dennes tvagning är giltig. Även om denne rör eller kysser sin fru är dennes tvagning giltig så länge inget kommer ur honom [vätska eller sperma].
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 

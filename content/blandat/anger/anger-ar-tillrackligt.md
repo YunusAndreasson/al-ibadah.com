@@ -29,7 +29,7 @@ Profeten har sagt:
 
 > ”Islam stryker ut allt som kommit innan det, och ånger avlägsnar det som kommit före det.” [*Muslim* 121]
 
-> ”Den person som ångrar sig för sin synd är som en person som inte har någon synd.” [*Ibn Majah* 4250]
+> ”Den person som ångrar sig för sin synd är som en person som inte har någon synd.” [*Ibn Mājah* 4250]
 
 Det finns många verser och uttalanden från profeten som visar på detta.
 

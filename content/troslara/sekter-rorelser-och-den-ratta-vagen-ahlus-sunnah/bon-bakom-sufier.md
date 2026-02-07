@@ -3,7 +3,7 @@ title: Bön bakom sufier
 author: Ibn ´Abdur-Rahman al-Jibrīn
 categories:
   - Troslära (´Aqīdah)
-  - Sekter, rörelser och den rätta vägen
+  - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 145
 description: 'Fråga: Är det tillåtet att be bakom sufier? Svar: Sufier var först

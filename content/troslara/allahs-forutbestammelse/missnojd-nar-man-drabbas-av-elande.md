@@ -34,4 +34,4 @@ Tacksamhet, och detta är den högsta nivån. Detta sker genom att man tackar Al
 
 [^1]: Koranen 22:11
 [^2]: Koranen 8:46
-[^3]: *al-Bukhārī* 5640 och *Muslim* 2572
+[^3]: *al-Buk̲hārī* 5640 och *Muslim* 2572

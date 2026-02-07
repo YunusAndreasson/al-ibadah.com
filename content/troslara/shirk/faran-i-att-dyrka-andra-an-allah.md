@@ -6,7 +6,7 @@ source: >-
   budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - 'Shirk [Att sätta något vid Allāhs sida]'
+  - Avgudadyrkan
 original_id: 915
 description: >-
   Fråga: Vilket är utlåtandet om att rikta någon form av dyrkan mot andra än
@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om att rikta någon form av dyrkan mot andra än Allāh – fri från brister?
 
-**Svar:** Svaret kan förstås från vad som har föregåtts när vi sade att *tawhīd* i dyrkan är att särskilja Allāh med all dyrkan. Detta betyder att ingen bör ge någon del av [sin] dyrkan till någon annan än Allāh den Upphöjde.
+**Svar:** Svaret kan förstås från vad som har föregåtts när vi sade att *tawḥīd* i dyrkan är att särskilja Allāh med all dyrkan. Detta betyder att ingen bör ge någon del av [sin] dyrkan till någon annan än Allāh den Upphöjde.
 
 Det är känt att offer är ett sätt för att komma närmare Allāh. Han har kommenderat det när Han sagt: ”*Be därför till din Herre och förrätta [ditt] offer!*” [^3]
 

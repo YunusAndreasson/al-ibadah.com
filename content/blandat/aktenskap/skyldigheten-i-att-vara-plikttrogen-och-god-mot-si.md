@@ -14,7 +14,7 @@ description: >-
   har dålig syn. Vänligen, klargör för dem oc...
 ---
 
-**Fråga:** Ädle *shaykh*, mina barn lyder mig inte och de utför inte ens de minsta plikterna gentemot mig eller sin moder. Detta trots att hon är gammal och har dålig syn. Vänligen, klargör för dem och ge dem råd om deras föräldrars rättigheter.
+**Fråga:** Ädle *s̲hayk̲h*, mina barn lyder mig inte och de utför inte ens de minsta plikterna gentemot mig eller sin moder. Detta trots att hon är gammal och har dålig syn. Vänligen, klargör för dem och ge dem råd om deras föräldrars rättigheter.
 
 **Svar:** Barn måste lyda sina föräldrar i vad som är bra, vara vänliga och plikttrogna mot dem och undvika att inte lyda dem i vad som inte motsäger sig den islamiska lagen.
 
@@ -31,5 +31,5 @@ Och må Allāh vägleda oss alla till sanningen.
 
 [^1]: Koranen 17:23
 [^2]: Koranen 31:14
-[^3]: *al-Bukhārī* 5970 och *Muslim* 85
-[^4]: *al-Bukhārī* 5976 och *Muslim* 87
+[^3]: *al-Buk̲hārī* 5970 och *Muslim* 85
+[^4]: *al-Buk̲hārī* 5976 och *Muslim* 87

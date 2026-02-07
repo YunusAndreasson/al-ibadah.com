@@ -15,7 +15,7 @@ description: >-
   jag tvivel. När jag har avslutat bönen kän...
 ---
 
-**Fråga:** Jag känner ofta tvivel om hur många bönecykler jag har bett. Även när jag reciterat med höjd röst så att jag kommer ihåg vad jag har reciterat får jag tvivel. När jag har avslutat bönen känner jag att jag har glömt en bönecykel, nedfallan eller att sitta vid *tashahhud*. Detta sker trots att jag är mycket noggrann med att inte börja tvivla på min bön. Vad kan ni råda mig till?
+**Fråga:** Jag känner ofta tvivel om hur många bönecykler jag har bett. Även när jag reciterat med höjd röst så att jag kommer ihåg vad jag har reciterat får jag tvivel. När jag har avslutat bönen känner jag att jag har glömt en bönecykel, nedfallan eller att sitta vid *tas̲hahhud*. Detta sker trots att jag är mycket noggrann med att inte börja tvivla på min bön. Vad kan ni råda mig till?
 
 **Svar:** Du måste kämpa mot dessa viskningar, vidta försiktighetsåtgärder mot dem och söka din tillflykt hos Allāh från den utstötte djävulen. Detta enligt Allāhs den Upphöjdes ord: ”*Säg: ”Jag söker skydd hos människornas Herre, människornas Konung, människornas Gud, mot det onda som den förrädiske frestaren viskar i människors hjärtan, [viskar] genom [onda] osynliga väsen och [deras likar bland] människorna*.” [^1]
 

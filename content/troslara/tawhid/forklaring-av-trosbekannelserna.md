@@ -7,7 +7,7 @@ source: >-
   Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - 'Tawhīd [Monoteism]'
+  - Monoteism
 original_id: 1073
 description: >-
   Fråga: Hur kan man förklara trosbekännelserna? Svar: Trosbekännelserna är
@@ -82,4 +82,4 @@ Sändebudets rättighet är att tilldela honom den status som Allāh den Upphöj
 
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 
-[^2]: *al-Bukhārī* 4347 och *Muslim* 19
+[^2]: *al-Buk̲hārī* 4347 och *Muslim* 19

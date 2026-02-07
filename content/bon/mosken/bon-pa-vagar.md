@@ -22,11 +22,11 @@ description: >-
 
 > ”Det är inte tillåtet att be på sju platser: Ovanpå Allāhs Hus [Ka’bah], gravplatser, gödselstackar [soptippar], slakthus, toaletter, viloplatser för kameler och på vägens mitt.” [*at-Tirmithi* 346 och *Ibn Mājah* 747]
 
-Även om rapportörskedjan är svag finns det andra *ahādīth* som har rapporterats som förklarar de platser som det är förbjudet att be på. Dessa *ahādīth* förenas med denna *hadīth* från Jabir bin ’Abdullāh som har sagt att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
+Även om rapportörskedjan är svag finns det andra *aḥādīt̲h* som har rapporterats som förklarar de platser som det är förbjudet att be på. Dessa *aḥādīt̲h* förenas med denna *ḥadīt̲h* från Jabir bin ´Abdullāh som har sagt att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Jorden har gjorts till en moské [plats för bön] och som ett medel för rening för mig. Så den som det blir dags att be för, låt denne be oberoende av var denne befinner sig.”
 
-Detta har imam *Ahmad*, al-Bukhārī och *Muslim* återgivit. Den sammanslagna förståelsen mellan *hadithen* från Jabir och den *hadīth* som tillåter bön på vilken plats som helst är att den sistnämnda är allmän och att den förstnämda, som förbjuder bön på vissa ställen, är särskild. Således specificerar dessa *ahādīth* den allmänna innebörden av de *ahādīth* som tillåter bön på alla platser. Detta är ett användande som kommer från välkända principer när vi befattar oss med *ahādīth* som verkar motsägelsefulla.
+Detta har imam *Aḥmad*, al-Bukhārī och *Muslim* återgivit. Den sammanslagna förståelsen mellan *ḥadīt̲h* från Jabir och den *ḥadīt̲h* som tillåter bön på vilken plats som helst är att den sistnämnda är allmän och att den förstnämda, som förbjuder bön på vissa ställen, är särskild. Således specificerar dessa *aḥādīt̲h* den allmänna innebörden av de *aḥādīt̲h* som tillåter bön på alla platser. Detta är ett användande som kommer från välkända principer när vi befattar oss med *aḥādīt̲h* som verkar motsägelsefulla.
 
 Men om det finns ett behov eller en nödvändighet som påtvingar att man behöver be vid en förbjuden plats, då är det tillåtet att göra så.
 

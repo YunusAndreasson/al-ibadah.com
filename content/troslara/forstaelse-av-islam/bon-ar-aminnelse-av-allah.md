@@ -35,7 +35,7 @@ Innebörden av Allāhs ord: "*Läs vad som har uppenbarats för dig av denna Skr
 
 Att Allāh kommer ihåg dig är större i lön och belöning än din åminnelse av Allāh, vilket Allāh säger: "*Och bevara Mig i minnet, så ska Jag minnas er; var Mig tacksam och förneka Mig inte!*" [^5]
 
-Ibn Jarīr at-Tabarī föredrog denna förklaring i sin *tafsīr* och ett antal andra lärda inom *tafsīr* håller med honom om detta, grundat på de *ahādīth* som har kommit från många av följeslagarna och *tabi´in*.
+Ibn Jarīr at-Tabarī föredrog denna förklaring i sin *tafsīr* och ett antal andra lärda inom *tafsīr* håller med honom om detta, grundat på de *aḥādīt̲h* som har kommit från många av följeslagarna och *tābi’īn*.
 
 [^1]: Dhikr
 [^2]: Säga: Att all lovprisan tillhör Allāh, al-Hamdulillah.

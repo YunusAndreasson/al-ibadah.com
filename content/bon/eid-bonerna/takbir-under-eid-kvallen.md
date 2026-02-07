@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Majmoo’ Fatāwa al-´Uthaymīn, 16/216-223'
 categories:
   - Bön (Salāh)
-  - Eid-bönerna
+  - Eid-bönen
 original_id: 1596
 description: >-
   Fråga: Hur gör man takbīr under ´eid -kvällen? Svar: Det är rekommenderat att

@@ -27,6 +27,6 @@ Ses denne är det en skyldighet att påminna. Detta är ju en del av att rätta 
 Det råder inga tvivel om att när en fastande äter eller dricker, när denne antas fasta, då är det något felaktigt. Men denne ursäktas för det när det sker på grund av glömska, då straffas denne inte för det. Men ser någon detta, då finns det ingen ursäkt för att inte kritisera.
 
 
-[^1]: *al-Bukhārī* 1933 och *Muslim* 1155
+[^1]: *al-Buk̲hārī* 1933 och *Muslim* 1155
 [^2]: Koranen 2:286
 [^3]: *Muslim* 49

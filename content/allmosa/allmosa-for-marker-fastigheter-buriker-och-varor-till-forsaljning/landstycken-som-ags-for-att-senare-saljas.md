@@ -21,7 +21,7 @@ description: >-
 
 > ”Tag då emot något av dem som offergåva [Muḥammad]; så renar du dem [från synd] och hjälper dem att växa [i rättfärdighet].” [Koranen 9:103]
 
-*Abū Dawūd* har med en god berättarkedja återgivit från Samurah bin Jundub att han har sagt: ”Allāhs sändebud har kommenderat oss att ge till välgörenhet för allt som vi hade till försäljning.”
+*Abū Dāwūd* har med en god berättarkedja återgivit från Samurah bin Jundub att han har sagt: ”Allāhs sändebud har kommenderat oss att ge till välgörenhet för allt som vi hade till försäljning.”
 
 Majoriteten av de lärde har dömt enligt detta och detta är sanningen.
 

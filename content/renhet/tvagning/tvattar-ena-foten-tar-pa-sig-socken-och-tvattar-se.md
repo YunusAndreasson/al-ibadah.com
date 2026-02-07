@@ -20,6 +20,6 @@ description: >-
 
 Detta beror på att man inte har satt sin högra fot i socken förrän den blivit ren, och på samma sätt gällande den vänstra. Det är då sant om man säger att han tog på dem då han varit rituellt ren.
 
-Det finns en *hadīth* som ad-Daraqutni har rapporterat [al-Hakim har autenticierat den] i vilken han berättar att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om någon tvagar sig och sedan tar på sina lädersockar*.” Hans ord: ”*Om någon tvagar sig*” kan tänkas ge övervikt för den första åsikten. Den som inte har tvättat sin vänstra fot kan ju uppriktigt sagt inte påstås ha tvagat sig. Med detta som grund är detta den starkare åsikten.
+Det finns en *ḥadīt̲h* som ad-Daraqutni har rapporterat [al-Hakim har autenticierat den] i vilken han berättar att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om någon tvagar sig och sedan tar på sina lädersockar*.” Hans ord: ”*Om någon tvagar sig*” kan tänkas ge övervikt för den första åsikten. Den som inte har tvättat sin vänstra fot kan ju uppriktigt sagt inte påstås ha tvagat sig. Med detta som grund är detta den starkare åsikten.
 
 

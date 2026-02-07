@@ -6,7 +6,7 @@ source: >-
   Libanon: Makbtaba Dar us-Salam. 113 s. ISBN 9960-892-66-2
 categories:
   - Troslära (´Aqīdah)
-  - 'Tawhīd [Monoteism]'
+  - Monoteism
 original_id: 1082
 description: >-
   Fråga: Är Allāhs den Upphöjdes namn begränsade till antalet? Svar: Allāhs namn
@@ -16,9 +16,9 @@ description: >-
 
 **Fråga:** Är Allāhs den Upphöjdes namn begränsade till antalet?
 
-**Svar:** Allāhs namn är inte begränsade till ett visst antal. Beviset för detta är ett uttalande i en *hadīth* i vilken profeten – över honom vare Allāhs frid och välsignelser – sade:
+**Svar:** Allāhs namn är inte begränsade till ett visst antal. Beviset för detta är ett uttalande i en *ḥadīt̲h* i vilken profeten – över honom vare Allāhs frid och välsignelser – sade:
 
-> ”Allāh! Jag är Din tjänare och sonen till Din manlige och kvinnliga tjänare…” fram till och med orden ”Jag ber Dig vid varje namn som är Ditt, genom vilka du har beskrivit Dig själv, eller som du har uppenbarat i Din skrift, eller som du lärt en av Dina skapade varelser, eller som du har dolt i *al-ghayb* som finns hos Dig.” [*Ahmad* 1:391]
+> ”Allāh! Jag är Din tjänare och sonen till Din manlige och kvinnliga tjänare…” fram till och med orden ”Jag ber Dig vid varje namn som är Ditt, genom vilka du har beskrivit Dig själv, eller som du har uppenbarat i Din skrift, eller som du lärt en av Dina skapade varelser, eller som du har dolt i *al-ghayb* som finns hos Dig.” [*Aḥmad* 1:391]
 
 Det som Allāh har dolt i *al-ghayb* finns det ingen vetskap om, och det som inte är känt är inte begränsat.
 
@@ -26,13 +26,13 @@ Profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Allā
 
 ”*Den som räknar upp [och tror på] dem*”, är slutet på den första meningen och inte början på en ny. Liktydigt med detta är när araberna säger: ”Jag har 100 hästar. Jag har förberett dem för *djihād* för Allāhs skull.” Innebörden av detta är inte att denne inte har några andra hästar utöver dessa 100, utan i stället är det dessa 100 som denne har förberett.
 
-*Shaykh ul-islām* ibn Taymiyyah – må Allāh vara honom nådig – har rapporterat att det finns samstämmighet bland lärde inom *hadīth* om att det inte har rapporterats autentiskt att profeten – över honom vare Allāhs frid och välsignelser – har berättat om dem.
+*s̲hayk̲h ul-islām* ibn Taymiyyah – må Allāh vara honom nådig – har rapporterat att det finns samstämmighet bland lärde inom *ḥadīt̲h* om att det inte har rapporterats autentiskt att profeten – över honom vare Allāhs frid och välsignelser – har berättat om dem.
 
 Han har sagt sanningen och beviset för detta är de många olika åsikter som finns om dessa namn.
 
-De som har försökt att autenticiera *hadithen* har sagt att detta är en viktig fråga. De [namnen] leder ju till Paradiset och därmed skulle inte [profetens – över honom vare Allāhs frid och välsignelser – ] följeslagarna ha kunnat undgå att be honom att peka ut dem. Detta skulle då bevisa att han har pekat ut dem.
+De som har försökt att autenticiera *ḥadīt̲h* har sagt att detta är en viktig fråga. De [namnen] leder ju till Paradiset och därmed skulle inte [profetens – över honom vare Allāhs frid och välsignelser – ] följeslagarna ha kunnat undgå att be honom att peka ut dem. Detta skulle då bevisa att han har pekat ut dem.
 
-Men svaret på detta är att det inte nödvändigtvis förhåller sig så. Vore det så skulle dessa 99 namn ha varit välkändare än solen och de skulle ha återgivits i *Sahīh al-Bukhārī*, *Sahīh Muslim* och i andra samlingar med *hadīth*. Det finns ju ett behov av detta och bevarandet av dem är nödvändigt. Så varför har de då inte återgivits annat än med svaga berättarkedjor och i olika former?
+Men svaret på detta är att det inte nödvändigtvis förhåller sig så. Vore det så skulle dessa 99 namn ha varit välkändare än solen och de skulle ha återgivits i *Ṣaḥīḥ al-Buk̲hārī*, *Ṣaḥīḥ Muslim* och i andra samlingar med *ḥadīt̲h*. Det finns ju ett behov av detta och bevarandet av dem är nödvändigt. Så varför har de då inte återgivits annat än med svaga berättarkedjor och i olika former?
 
 Svaret på detta är att profeten – över honom vare Allāhs frid och välsignelser – av en mycket djupsinnig anledning inte pekade ut dem. Denna anledning är att man ska försöka finna dem i Allāhs skrift och i Hans sändebuds *sunnah*, så att de som ivrigt anstränger sig tydligt ska kunna skiljas från dem som inte gör det.
 
@@ -49,5 +49,5 @@ b) Att i ens dyrkan tillämpa vad dessa namn fordrar. Genom namnet ar-Rahīm [de
 Detta är innebörden av att räkna upp dem, och när det förhåller sig på detta sätt är det något som gör en värdig ett inträde i Paradiset.
 
 
-[^1]: *al-Bukhārī* 2736 och *Muslim* 2677
+[^1]: *al-Buk̲hārī* 2736 och *Muslim* 2677
 [^2]: Koranen 7:180

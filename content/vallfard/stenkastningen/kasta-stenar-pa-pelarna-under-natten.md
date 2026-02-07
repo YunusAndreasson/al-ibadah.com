@@ -18,6 +18,6 @@ description: >-
 
 **Svar:** Enligt den korrekta åsikten är det tillåtet att kasta stenarna efter solnedgången. Det som är *sunnah* är dock att kasta dem efter middag men innan solnedgången. Detta är bäst om det går bra. Om det inte går bra så får man kasta stenarna efter solnedgången. Detta enligt den korrekta åsikten.
 
-Den som ger sig av tillsammans med svaga och kvinnor [som *mahram*, förare och andra], då är utlåtandet om denne samma som om dem. Det är då tillräckligt för denne att kasta stenarna i slutet av natten tillsammans med kvinnorna.
+Den som ger sig av tillsammans med svaga och kvinnor [som *maḥram*, förare och andra], då är utlåtandet om denne samma som om dem. Det är då tillräckligt för denne att kasta stenarna i slutet av natten tillsammans med kvinnorna.
 
 

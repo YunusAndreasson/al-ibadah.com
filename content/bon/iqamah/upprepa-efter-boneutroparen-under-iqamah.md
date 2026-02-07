@@ -6,7 +6,7 @@ source: >-
   Libanon: Makbtaba Dar us-Salam. 431 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
-  - 'Iqāmah [Det andra böneutropet]'
+  - Det andra böneutropet
 original_id: 924
 description: >-
   Fråga: Bör man läsa efter böneutroparen vad denne säger när denne ropar ut
@@ -16,6 +16,6 @@ description: >-
 
 **Fråga:** Bör man läsa efter böneutroparen vad denne säger när denne ropar ut *iqāmah*?
 
-**Svar:** *Abū Dawūd* har rapporterat en *hadīth* om att upprepa vad böneutroparen säger i *iqāmah*. Den är dock svag och kan inte användas som bevis. Den starkaste åsikten är att man inte ska upprepa efter.
+**Svar:** *Abū Dāwūd* har rapporterat en *ḥadīt̲h* om att upprepa vad böneutroparen säger i *iqāmah*. Den är dock svag och kan inte användas som bevis. Den starkaste åsikten är att man inte ska upprepa efter.
 
 

@@ -25,7 +25,7 @@ Ett exempel på detta är en man som säger: "Jag vill stå i nattbön och jag k
 
 Något liknande inträffade under profetens – över honom vare Allāhs frid och välsignelser – livstid när ett antal personer träffades och en av dem sade: "Jag står i bön och jag sover inte." En annan sade: "Jag fastar och jag bryter inte min fasta." Och en tredje sade: "Jag gifter mig inte med kvinnor." Profeten – över honom vare Allāhs frid och välsignelser – informerades om detta och han sade:
 
-> ”Vad är det för fel med människor som säger så här? Jag fastar och jag bryter min fasta. Jag står i bön och jag sover och jag gifter mig med kvinnor. Den som då ogillar min *sunnah* tillhör inte mig.” [*al-Bukhārī* 6101 och *Muslim* 1401]
+> ”Vad är det för fel med människor som säger så här? Jag fastar och jag bryter min fasta. Jag står i bön och jag sover och jag gifter mig med kvinnor. Den som då ogillar min *sunnah* tillhör inte mig.” [*al-Buk̲hārī* 6101 och *Muslim* 1401]
 
 Dessa avsåg att överdriva i religionen och sändebudet – över honom vare Allāhs frid och välsignelser – förklarade att han var oskyldig till detta. De uttryckte ju överdrivenhet av hans *sunnah* som innefattar fasta samt att bryta fastan, bön, sömn och giftermål med kvinnor.
 

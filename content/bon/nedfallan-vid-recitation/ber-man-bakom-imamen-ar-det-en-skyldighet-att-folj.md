@@ -14,7 +14,7 @@ description: >-
   Den som leds i bön måste följa i...
 ---
 
-**Fråga:** Får man göra *sajdatut-tilawah*[^1] bakom imamen, om imamen reciterar en vers i vilken det finns *sajdatut-tilawah*[^1] och imamen själv inte nedfaller?
+**Fråga:** Får man göra *sujūd at-tilāwah*[^1] bakom imamen, om imamen reciterar en vers i vilken det finns *sujūd at-tilāwah*[^1] och imamen själv inte nedfaller?
 
 **Svar:** Den som leds i bön måste följa imamens rörelser. Nedfaller imamen, då gör han likadant och nedfaller inte imamen, då gör han det inte heller.
 

@@ -14,7 +14,7 @@ description: >-
   det då en skyldighet att fasta dem varje å...
 ---
 
-**Fråga:** Är det tillåtet att välja de dagar som man vill fasta under *shawwal* eller är det bestämda dagar som gäller? Om en muslim fastar dessa dagar, blir det då en skyldighet att fasta dem varje år?
+**Fråga:** Är det tillåtet att välja de dagar som man vill fasta under *s̲hawwāl* eller är det bestämda dagar som gäller? Om en muslim fastar dessa dagar, blir det då en skyldighet att fasta dem varje år?
 
 **Svar:** Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: "*Den som fastade *ramadan*, [och] sedan följde den med sex dagar från *shawwal*, det skulle vara som om denne hade fastat konstant*." [^1] Dessa sex dagar är inte angivna, tvärtom kan den troende välja [vilka] dagar [som helst] under månaden. Om denne vill går det bra att fasta dem vid månadens början, under månaden, under slutet av månaden eller separat. Det finns rum för anpassning, och all lovprisan tillhör Allāh.
 

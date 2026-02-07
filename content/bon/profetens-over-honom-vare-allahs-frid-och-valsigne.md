@@ -59,13 +59,13 @@ Be på talarstolen
 
 Det är obligatoriskt att be i riktning mot och vara nära en *sutrah*
 
-1. Det är obligatoriskt att be i riktning mot en *sutrah*. Det är ingen skillnad om det är i en moské eller någon annanstans, och det spelar ingen roll om moskén är stor eller liten. Detta med anledning av den allmänna innebörden av en *hadīth* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Be inte utan att vara vänd mot en sutrah[^5] och låt ingen passera framför dig. Om han insisterar så strid mot honom för han har en följeslagare [som är djävulen] med sig*.”
+1. Det är obligatoriskt att be i riktning mot en *sutrah*. Det är ingen skillnad om det är i en moské eller någon annanstans, och det spelar ingen roll om moskén är stor eller liten. Detta med anledning av den allmänna innebörden av en *ḥadīt̲h* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Be inte utan att vara vänd mot en sutrah[^5] och låt ingen passera framför dig. Om han insisterar så strid mot honom för han har en följeslagare [som är djävulen] med sig*.”
 2. Det är obligatoriskt att vara nära en *sutrah* då detta är vad profeten – över honom vare Allāhs frid och välsignelser – har kommenderat.
 3. Mellan platsen där profeten – över honom vare Allāhs frid och välsignelser – nedföll och väggen fanns det en yta nästan stor nog för ett får att passera genom. Den som gör detta är enligt vad som krävs tillräckligt nära [*sutrah*]. Från detta vet vi att vad folk gör i alla moskéer som jag har sett i Syrien och på andra platser, genom att be i mitten av moskén långt ifrån någon vägg eller pelare, endast är försumlighet mot kommenderingen och profetens – över honom vare Allāhs frid och välsignelser – handlande.
 
 Hur hög bör en *sutrah* vara?
 
-1. En *sutrah* bör vara ungefär en hand eller två ovan marken. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*När någon placerar något som pinnen vid sadelns slut framför sig bör denne be och inte oroa sig om någon som passerar framför den*.” Denna *hadīth* visar att en linje på marken inte är tillräckligt och den *hadīth* som har återberättats om det är svag.
+1. En *sutrah* bör vara ungefär en hand eller två ovan marken. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*När någon placerar något som pinnen vid sadelns slut framför sig bör denne be och inte oroa sig om någon som passerar framför den*.” Denna *ḥadīt̲h* visar att en linje på marken inte är tillräckligt och den *ḥadīt̲h* som har återberättats om det är svag.
 2. Man bör rikta sig direkt mot sin *sutrah* då detta är kommenderingens uppenbara innebörd, att man ska be mot sin *sutrah*. Det är fel att gå lite till höger eller till vänster så att man inte är direkt riktad mot den.
 3. Det är tillåtet att be i riktning mot en stav eller något liknande nedstucket i marken, eller ett träd, en pelare, ens fru som ligger ned i sängen under ett täcke eller ett djur, även om det är en kamel.
 
@@ -75,8 +75,8 @@ Förbud mot att be i riktning mot gravar
 
 Förbud mot att gå framför någon som ber även om det är i den Heliga Moskén i Mecka
 
-1. Det är inte tillåtet att gå framför någon som ber om det finns en *sutrah* framför denne [det är inte tillåtet att komma mellan denne och dennes *sutrah*]. Det spelar ingen roll om detta är i den Heliga Moskén eller i någon annan moské, detsamma gäller alla i fråga om att det inte är tillåtet [att gå framför den som ber]. Detta med anledning av den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*Om den som passerar framför någon som ber visste hur stor denna synd var, att stå i fyrtio [år] skulle vara bättre för denne än att passera framför någon som ber*.” Detta avser att passera mellan denne och platsen för dennes nedfallan. Den *hadīth* som talar om profetens – över honom vare Allāhs frid och välsignelser – bön i *Hāshiyat al-Matāf* utan en *sutrah* och med personer som gick framför honom är inte autentisk, även om den inte säger att de gick mellan honom och platsen för hans nedfallan. Den som nedfaller måste hindra den som vill passera framför, även om det är i den Heliga Moskén [i Mecka].
-2. Den som ber mot en *sutrah* får inte låta någon passera framför. Detta med anledning av den *hadīth* som har citerats ovan: ”*Låt ingen passera framför er*…” Och profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*När en av er ber mot något som är en sutrah[^5] mellan denne och folket och någon vill passera framför, då bör denne trycka till honom i bröstkorgen och avvisa honom så mycket han kan*.” Enligt en annan rapport: ”… *denne bör stoppa honom två gånger men om han insisterar bör denne strida mot honom för han är en djävul*.”
+1. Det är inte tillåtet att gå framför någon som ber om det finns en *sutrah* framför denne [det är inte tillåtet att komma mellan denne och dennes *sutrah*]. Det spelar ingen roll om detta är i den Heliga Moskén eller i någon annan moské, detsamma gäller alla i fråga om att det inte är tillåtet [att gå framför den som ber]. Detta med anledning av den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*Om den som passerar framför någon som ber visste hur stor denna synd var, att stå i fyrtio [år] skulle vara bättre för denne än att passera framför någon som ber*.” Detta avser att passera mellan denne och platsen för dennes nedfallan. Den *ḥadīt̲h* som talar om profetens – över honom vare Allāhs frid och välsignelser – bön i *Hāshiyat al-Matāf* utan en *sutrah* och med personer som gick framför honom är inte autentisk, även om den inte säger att de gick mellan honom och platsen för hans nedfallan. Den som nedfaller måste hindra den som vill passera framför, även om det är i den Heliga Moskén [i Mecka].
+2. Den som ber mot en *sutrah* får inte låta någon passera framför. Detta med anledning av den *ḥadīt̲h* som har citerats ovan: ”*Låt ingen passera framför er*…” Och profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*När en av er ber mot något som är en sutrah[^5] mellan denne och folket och någon vill passera framför, då bör denne trycka till honom i bröstkorgen och avvisa honom så mycket han kan*.” Enligt en annan rapport: ”… *denne bör stoppa honom två gånger men om han insisterar bör denne strida mot honom för han är en djävul*.”
 
 Stiga fram för att hindra att någon passerar framför
 
@@ -123,7 +123,7 @@ Var de ska placeras
 
 *Du'ā' al-Istiftāh* [åkallan i början av bönen]
 
-1. Sedan börjar man bönen med några av de åkallan den som finns återberättade från profeten. Det finns flera och den kändaste är: ”*Subhānaka Allāhumma wa bihamdika, wa tabāraka ismuka wa ta’āla jadduka, wa Lā ilāha ghayruka*” [Allāh vare lovad och prisad. Välsignat vare Ditt namn och upphöjd vare Din Majestät. Det finns ingen gud utom Du.” Kommenderingen att göra detta är bevisad så vi bör hålla oss till den. Den som vill använda andra åkallan hänvisas till *Sifat al-Salāh* s. 91 – 95, Maktabat al-Ma'ārif, Riyadh. [På engelska, se: *The Prophets Prayer described *av *shaykh* al-Albāni, al-Hanīf Publications, s. 14 – 19]
+1. Sedan börjar man bönen med några av de åkallan den som finns återberättade från profeten. Det finns flera och den kändaste är: ”*Subhānaka Allāhumma wa bihamdika, wa tabāraka ismuka wa ta’āla jadduka, wa Lā ilāha ghayruka*” [Allāh vare lovad och prisad. Välsignat vare Ditt namn och upphöjd vare Din Majestät. Det finns ingen gud utom Du.” Kommenderingen att göra detta är bevisad så vi bör hålla oss till den. Den som vill använda andra åkallan hänvisas till *Sifat al-Salāh* s. 91 – 95, Maktabat al-Ma'ārif, Riyadh. [På engelska, se: *The Prophets Prayer described *av *s̲hayk̲h* al-Albāni, al-Hanīf Publications, s. 14 – 19]
 
 Recitation av Koranen
 
@@ -132,9 +132,9 @@ Recitation av Koranen
 3. Och att ibland kan man säga: ”*A’ūdhu Billāh il-Samī’ il-A’līm min al-Shaytān*… [Jag söker tillflykt hos Allāh, den Allhörande, den Allvetande, från djävulen…].”
 4. Därefter säger man tyst – oavsett om bönen ska reciteras högt eller lågt – ”*Bismillah[^7] il-Rahmān il-Rahīm* [I Allāhs, den Nåderikes, den Barmhärtiges Namn].”
 
-Recitera *al-Fātihah*
+Recitera *al-Fātiḥah*
 
-1. Sedan reciterar man sura *al-Fātihah* [Koranens första sura] till fullo, inklusive *Basmalah*[^8] [*Bismillāhi il-Rahmān il-Rahīm*]. Detta är en viktig del av bönen, som bönen blir ogiltig utan. De som inte talar arabiska måste memorera denna sura.
+1. Sedan reciterar man sura *al-Fātiḥah* [Koranens första sura] till fullo, inklusive *Basmalah*[^8] [*Bismillāhi il-Rahmān il-Rahīm*]. Detta är en viktig del av bönen, som bönen blir ogiltig utan. De som inte talar arabiska måste memorera denna sura.
 2. De som inte kan komma ihåg den bör säga: ”*Subhān Allāh, wa’l-hamdu-Lillāh, wa Lā ilāha ill-Allāh, wa Allāhu akbar, wa lā hawla wa lā quwwata illa Billāh* [Ärad vare Allāh, lovprisad vare Allāh. Det finns ingen gud utom Allāh. Allāh är den Störste. Det finns ingen styrka eller kraft utom Allāh].”
 3. Det är *sunnah* att recitera en vers i taget och att pausa i början av varje. Man bör säga: ”*Bismillāh il-Rahmān il-Rahīm* [I Allāhs, den Nåderikes, den Barmhärtiges Namn] och sedan pausa, för att efter pausen säga: ”*al-Hamdu Lillāhi Rabb il-‘Ālāmīn*” [Lovprisad vare Han, Världarnas Skapare [människan, *jinn* och allt som existerar]] och sedan pausa, för att efter pausen säga: ”*al-Rahmān il-Rahīm*” [den Nåderike, den Barmhärtige] för att sedan pausa… och fortsätta så till slutet på versen.
 
@@ -144,26 +144,26 @@ Så här brukade profeten – över honom vare Allāhs frid och välsignelser �
 
 Hur den som ber bakom imamen bör recitera den
 
-1. I bön bakom imamen bör man recitera den i de böner där Koranen reciteras tyst och i böner där den reciteras med höjd röst om man inte kan höra imamens recitation eller om han [imamen] pausar efter att ha slutfört den för att de som ber bakom ska kunna recitera den. Vi anser att denna paus inte finns bevisad i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Jag har nämnt de bevis de som tror att denna paus är tillåten har och avvisat dem i Silsilat al-*Ahādīth* al-Da'īfah no. 546, 547; del 2, s. 24 – 26, Dar al-Ma'ārif upplagan.
+1. I bön bakom imamen bör man recitera den i de böner där Koranen reciteras tyst och i böner där den reciteras med höjd röst om man inte kan höra imamens recitation eller om han [imamen] pausar efter att ha slutfört den för att de som ber bakom ska kunna recitera den. Vi anser att denna paus inte finns bevisad i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Jag har nämnt de bevis de som tror att denna paus är tillåten har och avvisat dem i Silsilat al-*aḥādīt̲h* al-Da'īfah no. 546, 547; del 2, s. 24 – 26, Dar al-Ma'ārif upplagan.
 
-Recitation efter *al-Fātihah*
+Recitation efter *al-Fātiḥah*
 
-1. Det är *sunnah* att recitera en annan sura eller några verser i de första två bönecyklerna efter *al-Fātihah*. Detta gäller även i begravningsbönen.
+1. Det är *sunnah* att recitera en annan sura eller några verser i de första två bönecyklerna efter *al-Fātiḥah*. Detta gäller även i begravningsbönen.
 2. Recitationen kan ibland vara lång och ibland vara kort av anledningar som resa, hosta, sjukdom eller att ett spädbarn gråter.
 3. Recitationen varierar enligt bönerna. Recitationen i gryningsbönen är längre än vad den är i de andra bönerna. Näst längst är middagsbönen, sedan eftermiddagsbönen, sedan nattbönen, sedan kvällsbönen – vanligtvis.
 4. Recitationen i nattbönen är längre än alla dessa.
 5. Det är *sunnah* att göra recitationen längre i den första bönecykeln än i den andra.
 6. I de sista två gör man recitationen kortare än i de första två; halva längden. Om du vill ha mer detaljer i detta ämne, se då *Sifat al-Salāh* s. 102 [arabiskt original].
 
-Recitera *al-Fātihah* i varje bönecykel
+Recitera *al-Fātiḥah* i varje bönecykel
 
-1. Det är obligatoriskt att recitera *al-Fātihah* i varje bönecykel.
+1. Det är obligatoriskt att recitera *al-Fātiḥah* i varje bönecykel.
 2. Det är *sunnah* att lägga till något till den även i de två sista bönecyklerna.
 3. Det är inte tillåtet att imamen gör sin recitation längre än vad som finns beskrivet i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*, därför då blir det svårt för dem som ber bakom. Detta kan vara äldre, sjuka, ammande mödrar eller de som har andra bestyr.
 
 Tyst och höjd recitation
 
-1. Koranen reciteras med höjd röst vid gryningsbönen, fredagsbönen, *‘eid*-bönen, regnbönen, solförmörkelsebönen och i de första två bönecyklerna i kvällsbönen och nattbönen.
+1. Koranen reciteras med höjd röst vid gryningsbönen, fredagsbönen, *´eid*-bönen, regnbönen, solförmörkelsebönen och i de första två bönecyklerna i kvällsbönen och nattbönen.
 2. Man reciterar tyst i de första två bönecyklerna i middagsbönen och eftermiddagsbönen, i den tredje bönecykeln i kvällsbönen och i de sista två bönecyklerna i nattbönen.
 3. Imamen får ibland göra en vers med höjd röst i böner där recitationen ska vara tyst.
 4. I *witr*- och nattbön bör man recitera tyst ibland och med höjd röst ibland. Man bör vara balanserad i att höja sin röst.
@@ -268,9 +268,9 @@ Den andra bönecykeln
 3. Utom att man inte reciterar någon åkallan som i bönens inledning.
 4. Man bör göra den kortare än den första bönecykeln.
 
-*Tashahhud*
+*tas̲hahhud*
 
-1. När man har utfört den andra bönecykeln bör man sitta i *tashahhud*. Detta är obligatoriskt.
+1. När man har utfört den andra bönecykeln bör man sitta i *tas̲hahhud*. Detta är obligatoriskt.
 2. Man sitter i *iftirāsh* på så vis som har beskrivits ovan för sittandet mellan de båda nedfallandena[^4].
 3. Det är här inte tillåtet att sitta i *iq’ā’*.
 4. Man placerar sin högra hand på det högra låret och knäet, med slutet på av den högra armbågen nära låret till.
@@ -283,18 +283,18 @@ Röra fingret och titta på det
 2. Ibland formar man en cirkel med dem.
 3. Pekfinger pekar man mot *qiblah*.
 4. Man tittar mot det.
-5. Man rör det, åkallar med det, från början till slutet av *tashahhud*.
+5. Man rör det, åkallar med det, från början till slutet av *tas̲hahhud*.
 6. Man pekar inte med vänstra handens finger.
-7. Detta gör man i varje *tashahhud*.
+7. Detta gör man i varje *tas̲hahhud*.
 
-Hur man säger *tashahhud* och den efterföljande åkallan
+Hur man säger *tas̲hahhud* och den efterföljande åkallan
 
-1. *Tashahhud* är obligatorisk och om man glömmer den måste man nedfalla två gånger för glömska.
+1. *tas̲hahhud* är obligatorisk och om man glömmer den måste man nedfalla två gånger för glömska.
 2. Man läser den tyst.
-3. *Tashahhud* är enligt följande: ”*al-tahiyyātu Lillāhi wa’l-salāwātu wa’l-tayyibāt. al-salāmu ‘alayka ayyuha’l-Nabiyyu wa rahmat-Allāhi wa barakātuhu. al-salāmu ‘alayna wa ‘ala ‘ibād-Illāh il-sālihīn. ash-hadu an Lā ilāha ill-Allāh wa ash-hadu anna Muḥammadan ‘abduhu wa rasūluhu*.” [Andra versioner finns omnämnda i *Sifat Salāt al-Nabi* [*The Prophet's Prayer Described*, men den som har nämnts här är den bästa]. Sända *salām* över profeten: detta har föreskrivits efter profetens – över honom vare Allāhs frid och välsignelser – död och det har återberättats om det i Ibn Mas'ūds, 'A'ishas och Ibn al-Zubayrs *tashahhud*. För ytterligare detaljer, se *Sifat Salāt al-Nabi*, s. 161, Maktabat al-Ma'ārif, Riyadh upplagan [*The Prophet's Prayer Described*, s. 67].
+3. *tas̲hahhud* är enligt följande: ”*al-tahiyyātu Lillāhi wa’l-salāwātu wa’l-tayyibāt. al-salāmu ‘alayka ayyuha’l-Nabiyyu wa rahmat-Allāhi wa barakātuhu. al-salāmu ‘alayna wa ‘ala ‘ibād-Illāh il-sālihīn. ash-hadu an Lā ilāha ill-Allāh wa ash-hadu anna Muḥammadan ‘abduhu wa rasūluhu*.” [Andra versioner finns omnämnda i *Sifat Salāt al-Nabi* [*The Prophet's Prayer Described*, men den som har nämnts här är den bästa]. Sända *salām* över profeten: detta har föreskrivits efter profetens – över honom vare Allāhs frid och välsignelser – död och det har återberättats om det i Ibn Mas'ūds, 'A'ishas och Ibn al-Zubayrs *tas̲hahhud*. För ytterligare detaljer, se *Sifat Salāt al-Nabi*, s. 161, Maktabat al-Ma'ārif, Riyadh upplagan [*The Prophet's Prayer Described*, s. 67].
 4. Sedan sänder man böner över profeten – över honom vare Allāhs frid och välsignelser – genom att säga: ”*Allāhumma salli ‘ala Muḥammad wa ‘ala āli Muḥammad kama salayta ‘ala Ibrāhīm wa ‘ala āli Ibrāhīm, innaka hamīdun majīd. Allāhumma bārik ‘ala Muḥammad wa ‘ala āli Muḥammad kama bārakta ‘ala Ibrāhīm wa ‘ala āli Ibrāhīm, innak hamīdun majīd*.”
 5. Om man vill så kan man korta ned den och säga: ”*Allāhumma salli ‘ala Muḥammad wa ‘ala āli Muḥammad, wa bārik ‘ala Muḥammad wa ‘ala āli Muḥammad, kama salayta wa bārakta ‘ala Ibrāhīm wa ‘ala āli Ibrāhīm, innaka hāmedun majīd*.”
-6. I denna *tashahhud* kan man sedan välja vilken åkallan som man vill av dem som har återberättats och åkalla Allāh genom att använda orden i den.
+6. I denna *tas̲hahhud* kan man sedan välja vilken åkallan som man vill av dem som har återberättats och åkalla Allāh genom att använda orden i den.
 
 Den tredje och fjärde bönecykeln
 
@@ -304,13 +304,13 @@ Den tredje och fjärde bönecykeln
 4. Vill man resa sig upp för den fjärde bönecykeln gör man på samma sätt.
 5. Men innan man reser sig upp sitter man rakt upp genom att justera sitt vänstra ben tills varje ben är på rätt plats.
 6. Därefter går man upp genom att stödja sig på sina händer. Precis som man gjorde när man gick upp för den andra bönecykeln.
-7. I den tredje och den fjärde bönecykeln reciterar man *al-Fātihah*. Detta är obligatoriskt.
+7. I den tredje och den fjärde bönecykeln reciterar man *al-Fātiḥah*. Detta är obligatoriskt.
 8. Vid vissa tillfällen kan man lägga till en vers eller mer.
 
 Recitera *qunūt* under stora svårigheter
 
 1. Det är *sunnah* att recitera *qunūt* och be för muslimerna när någon katastrof drabbar dem.
-2. *Qunūt* reciterar man när man har rest sig upp från bugningen sägandes ”*Rabbanā wa laka’l-hamd* [vår Herre, lovprisad vare Du].”
+2. *qunūt* reciterar man när man har rest sig upp från bugningen sägandes ”*Rabbanā wa laka’l-hamd* [vår Herre, lovprisad vare Du].”
 3. Det finns ingen bestämd åkallan som vanligtvis bör reciteras i *qunūt*, i stället reciterar man något som är lämpligt när stora svårigheter inträffar.
 4. När man reciterar denna åkallan höjer man sina händer.
 5. Är man imam reciterar man den högt.
@@ -319,16 +319,16 @@ Recitera *qunūt* under stora svårigheter
 
 *Qunūt al-witr*[^2] – när den ska reciteras och vad den bör innehålla
 
-1. *Qunūt* i *witr* är föreskriven någon gång då och då.
+1. *qunūt* i *witr* är föreskriven någon gång då och då.
 2. Den reciteras före bugningen, olikt *qunūt* som reciteras under stora svårigheter.
 3. Recitationen kan innehålla följande: “*Allāhumma ihdini fīman hadayta, wa ‘āfini fīman ‘āfayta, wa tawallani fīman tawallayta, wa bārik li fīma a’tayta, wa qini sharra ma qadayta, fa innaka taqdi wa lā yuqdā ‘alayk, wa innahu lā yadhillu man walayta, wa lā ya’izzu man ‘ādayta, tabārakta rabbana wa ta’ālayta, wa lā manjā minka illa ilayk.* [Allāh, vägled mig bland dem som Du har väglett; förlåt mig bland dem som Du har förlåtit; vänd [Dig] mot mig i vänskap bland dem som Du har vänt dig mot i vänskap; välsigna mig i vad Du har tilldelat; rädda mig från det onda i vad Du har förordnat; för sannerligen Du förordnar och ingen kan påverka Dig; och den är inte förnedrad som Du har blivit vän med; inte heller är den hedrad som Du har tagit som fiende. Herre, välsignad och upphöjd är Du. Det finns ingen säker plats från Dig utom hos Dig.]”
 4. Denna åkallan har Allāhs sändebud – över honom vare Allāhs frid och välsignelser – lärt ut så den är tillåten då den har återberättats från hans följeslagare.
 5. Sedan bugar man och nedfaller två gånger som tidigare.
 
-Den sista *tashahhud* och placerandet av den vänstra foten under det högra benet
+Den sista *tas̲hahhud* och placerandet av den vänstra foten under det högra benet
 
-1. Sedan sitter man för den sista *tashahhud*.
-2. Man gör på samma sätt som i den första *tashahhud*.
+1. Sedan sitter man för den sista *tas̲hahhud*.
+2. Man gör på samma sätt som i den första *tas̲hahhud*.
 3. Men man sitter *mutawarikan*, vilket innebär att man placerar den vänstra foten under det högra benet.
 4. Höger fot har man upprätt.
 5. Det är även tillåtet att lägga den högra foten längs marken ibland.
@@ -336,7 +336,7 @@ Den sista *tashahhud* och placerandet av den vänstra foten under det högra ben
 
 Skyldigheten att sända böner över profeten – över honom vare Allāhs frid och välsignelser – och att söka skydd hos Allāh ifrån fyra saker
 
-1. I denna *tashahhud* måste man sända välsignelser över profeten. Några versioner har vi citerat ovan när vi diskuterade den första *tashahhud*.
+1. I denna *tas̲hahhud* måste man sända välsignelser över profeten. Några versioner har vi citerat ovan när vi diskuterade den första *tas̲hahhud*.
 2. Man söker sin tillflykt hos Allāh från fyra saker genom att säga: ”*Allāhumma inni a’ūdhu bika min ‘adhāb Jahannam wa min ‘adhāb al-qabri wa min fitnat il-mahyā wa’l-mamāt, wa min sharri fitnat il-masīh al-Dajjāl* [Allāh, jag söker tillflykt hos Dig från Helvetets plåga, från gravens plåga, från prövningarna i livet och döden och från den onda prövningen i Dajjāl].”
 
 Livets prövningar avser lockelser och begär som man möter i denna värld. Prövningarna i graven avser gravens plåga och de båda änglarnas utfrågning. Prövningen från Dajjāl avser de extraordinära bedrifter som hans hand kommer att utföra, som människor kommer att ledas vilse genom. De kommer att följa honom och tro på hans påstående om att vara gudomlig.
@@ -369,7 +369,7 @@ All ära tillhör Allāh, världarnas Herre.
 [^5]: Ett objekt i form av exempelvis en pinne, stav eller vägg. Skall vara minst en fot hög. Agerar symbolisk skiljelinje mellan den bedjande och de som passerar framför.
 [^6]: Dhuhr
 [^7]: I Guds namn.
-[^8]: Att säga *Bismillah*.
+[^8]: Att säga *Bismillāh*.
 
 [^9]: *The Prophet's Prayer Described* – Facing the Ka’bah
 [^10]: *The Prophet's Prayer* described, s. 55

@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 330 s. ISBN saknas'
 categories:
   - Troslära (´Aqīdah)
-  - Sekter, rörelser och den rätta vägen
+  - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 135
 description: 'Fråga: Har buddisterna en Skrift? Svar: Vi känner inte till att

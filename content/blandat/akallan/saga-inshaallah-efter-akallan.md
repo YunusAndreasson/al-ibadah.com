@@ -23,9 +23,9 @@ Då Han lovar att besvara en åkallan finns det inget behov av att säga ”*ins
 
 Profeten har sagt:
 
-> "Låt ingen av er säga: 'Allāh! Förlåt mig om Du vill; Allāh! Ha nåd över mig om Du vill.' Utan var resolut i er åkallan och starka i era hopp, för ingen kan tvinga Allāh.” [*al-Bukhārī* 6339, 7477 och *Muslim* 2679]
+> "Låt ingen av er säga: 'Allāh! Förlåt mig om Du vill; Allāh! Ha nåd över mig om Du vill.' Utan var resolut i er åkallan och starka i era hopp, för ingen kan tvinga Allāh.” [*al-Buk̲hārī* 6339, 7477 och *Muslim* 2679]
 
 Någon kan tänkas säga: ”Brukade inte Allāhs sändebud till den sjuke säga: ’*Det finns inget skadligt. (Det är endast) en rening, om Allāh vill*.’” [^1] Vi svarar: Ja, han brukade säga detta men det är uppenbart att han inte sade det i form av en åkallan utan i stället som ett medel för att ge nyheter eller hopp till den sjuke. Att vara resolut är då metoden för att åkalla.
 
 
-[^1]: *al-Bukhārī* 5656
+[^1]: *al-Buk̲hārī* 5656

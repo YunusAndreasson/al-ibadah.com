@@ -12,8 +12,8 @@ description: >-
   eftermiddagsbönen och då be eftermiddagsbönen, ...
 ---
 
-**Fråga:** Om man under *ramadan* måste äta *sahūr* och be gryningsbönen, för att sedan sova till middagstid och då be middagsbönen, för att sedan sova till eftermiddagsbönen och då be eftermiddagsbönen, och för att sedan, återigen, sova till fastan bryts vid kvällsbönen – är fastan då korrekt?
+**Fråga:** Om man under *ramaḍān* måste äta *saḥūr* och be gryningsbönen, för att sedan sova till middagstid och då be middagsbönen, för att sedan sova till eftermiddagsbönen och då be eftermiddagsbönen, och för att sedan, återigen, sova till fastan bryts vid kvällsbönen – är fastan då korrekt?
 
-**Svar:** Förhåller det sig på så vis som du har nämnt är fastan giltig. Men att fortsätta så här under dagen [att sova] är ett slöseri med tid ifrån hans sida, speciellt då *ramadan* är en välsignad månad. För en muslim är det passande att söka nytta ifrån det som kan hjälpa honom; genom att läsa Koranen mycket, jobba [på ett sätt som är tillåtet] och att söka kunskap.
+**Svar:** Förhåller det sig på så vis som du har nämnt är fastan giltig. Men att fortsätta så här under dagen [att sova] är ett slöseri med tid ifrån hans sida, speciellt då *ramaḍān* är en välsignad månad. För en muslim är det passande att söka nytta ifrån det som kan hjälpa honom; genom att läsa Koranen mycket, jobba [på ett sätt som är tillåtet] och att söka kunskap.
 
 

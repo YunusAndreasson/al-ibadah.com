@@ -21,6 +21,6 @@ description: >-
 
 > ”Vallfärden till denna Helgedom är en plikt mot Gud för var och en som har möjlighet att genomföra den.” [Koranen 3:97]
 
-Har du inte möjlighet att få fram pengar till vallfärden, samtidigt som du betalar av skulden, då är du inte skyldig att vallfärda. Detta med anledning av denna ädla vers och innebörden av *ahādīth* som har berättats från Allāhs sändebud.
+Har du inte möjlighet att få fram pengar till vallfärden, samtidigt som du betalar av skulden, då är du inte skyldig att vallfärda. Detta med anledning av denna ädla vers och innebörden av *aḥādīt̲h* som har berättats från Allāhs sändebud.
 
 

@@ -25,4 +25,4 @@ Därför måste de som ropar ut till bön anstränga sig för att vara exakta me
 
 
 [^1]: Koranen 2:187
-[^2]: *al-Bukhārī* 617
+[^2]: *al-Buk̲hārī* 617

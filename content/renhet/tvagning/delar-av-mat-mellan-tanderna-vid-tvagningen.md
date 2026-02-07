@@ -25,4 +25,4 @@ Detta är ett bevis för att munnen bör rengöras med en *miswāk* när den beh
 Och Allāh vet bäst.
 
 
-[^1]: *an-Nasā’i* 5
+[^1]: *an-Nasā’ī* 5

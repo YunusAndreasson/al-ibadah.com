@@ -5,7 +5,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Vol
  Libanon: Maktaba Dar us-Salam. 161 s. ISBN saknas'
 categories:
   - Bön (Salāh)
-  - Klädseln
+  - Klädsel i bönen
 original_id: 193
 description: 'Fråga: Imamen är osäker på om det finns smuts på mattan, men han lämnade
  inte bönen då det enbart var en misstanke, men efter bönen upptäcker han att det

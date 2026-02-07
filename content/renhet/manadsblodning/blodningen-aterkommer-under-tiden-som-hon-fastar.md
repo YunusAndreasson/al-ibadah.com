@@ -14,7 +14,7 @@ description: >-
   blödningen sedan återvänder, bryter ho...
 ---
 
-**Fråga:** Om en kvinna med blödning efter graviditeten blir ren inom en vecka och hon fastar tillsammans med muslimerna under *ramadan* under ett antal dagar, men blödningen sedan återvänder, bryter hon då fastan i detta läge? Behöver hon ta igen dagarna som hon har fastat och de dagar som hon har brutit fastan?
+**Fråga:** Om en kvinna med blödning efter graviditeten blir ren inom en vecka och hon fastar tillsammans med muslimerna under *ramaḍān* under ett antal dagar, men blödningen sedan återvänder, bryter hon då fastan i detta läge? Behöver hon ta igen dagarna som hon har fastat och de dagar som hon har brutit fastan?
 
 **Svar:** Om en kvinna med blödning efter graviditeten blir ren inom 40 dagar och hon fastar några dagar för att sedan återfå blödningen under de 40 dagarna, då är hennes fasta giltig. Hon måste lämna bönen och fastan under de dagar som hennes blödning återvände – då det är en blödning efter graviditeten – tills hon blir ren och fullbordar de 40 dagarna.
 

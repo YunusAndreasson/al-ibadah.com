@@ -15,7 +15,7 @@ description: >-
 
 Följande fråga ställdes till shaykh ul-islām ibn Taymiyyah:
 
-Jag bad shaykhen, som går i de tidiga generationernas fotsteg som var ett exempel för de efterkommande, den kunnigaste man jag träffat ifrån öst och väst, Taqiy al-Dīn Abu’l-’Abbās *Ahmad* ibn Taymiyyah, att berätta för mig vilka som är de bästa handlingarna efter de obligatoriska. Han svarade enligt följande:
+Jag bad shaykhen, som går i de tidiga generationernas fotsteg som var ett exempel för de efterkommande, den kunnigaste man jag träffat ifrån öst och väst, Taqiy al-Dīn Abu’l-’Abbās *Aḥmad* ibn Taymiyyah, att berätta för mig vilka som är de bästa handlingarna efter de obligatoriska. Han svarade enligt följande:
 
 **Svar:** Det du har frågat om, vilka som är de bästa handlingarna efter de obligatoriska, varierar från den ena individen till den andra beroende på vad denne förmår att utföra och vad som är bäst vid en given tidpunkt. Därför är det inte möjligt att ge ett uttömmande och detaljerat svar som passar alla. Men vad de med kunskap om Allāh och Hans kommenderingar är eniga om är att konstant åminnelse av Allāh överlag är det bästa som man kan sysselsätta sig med.
 
@@ -25,7 +25,7 @@ Och Abū Dawūd återger ifrån Abu'l-Dardā' att profeten – över honom vare 
 
 Det finns en uppsjö med bevis ifrån Koranen för att stödja detta. Det minsta man kan göra är att åminnas Allāh som finns återberättade från läraren i det goda och ledaren för de rättfärdiga [profeten]. Detta kan vara åminnelser som reciteras vid speciella tillfällen: under dagens början och slut, när man lägger sig, när man vaknar, efter de föreskrivna bönerna.
 
-Sedan finns det adhkār för speciella tillfällen som man säger när man äter, när man klär sig, före samlag, när man lämnar eller kommer in i hemmet, vid moskébesök, när man går in på toaletten, när det åskar och regnar och så vidare. Böcker inom detta område kallas för *‘Aml al-Yawm wa’l-Laylah* [Handlingar för dagen och natten]. En av de bästa böcker som skrivits i detta ämne är en liten bok med namnet *Sahīh al-Kalim al-Tayyib* som är sammanställd ifrån *shaykh ul-islām* ibn Taymiyyahs bok *al-Kalim al-Tayyib*. Denna bok har *al-‘Allāmah* al-Albāni redigerat.
+Sedan finns det adhkār för speciella tillfällen som man säger när man äter, när man klär sig, före samlag, när man lämnar eller kommer in i hemmet, vid moskébesök, när man går in på toaletten, när det åskar och regnar och så vidare. Böcker inom detta område kallas för *‘Aml al-Yawm wa’l-Laylah* [Handlingar för dagen och natten]. En av de bästa böcker som skrivits i detta ämne är en liten bok med namnet *Sahīh al-Kalim al-Tayyib* som är sammanställd ifrån *s̲hayk̲h ul-islām* ibn Taymiyyahs bok *al-Kalim al-Tayyib*. Denna bok har *al-‘Allāmah* al-Albāni redigerat.
 
 Så överlag bör man sträva efter att åminnas Allāh och det bästa sättet är *Lā ilāha illAllāh*.
 

@@ -14,9 +14,9 @@ description: >-
   ”Detta är profetens – över honom vare All...
 ---
 
-**Fråga:** En ung man ledde oss i bön och efter bönen började han att göra *tasbih* med sin högra hand. Några blev överraskade och frågade om detta. Han sade: ”Detta är profetens – över honom vare Allāhs frid och välsignelser – *sunnah*.” Jag ber att ni förklarar för oss vad som är rätt.
+**Fråga:** En ung man ledde oss i bön och efter bönen började han att göra *tasbīḥ* med sin högra hand. Några blev överraskade och frågade om detta. Han sade: ”Detta är profetens – över honom vare Allāhs frid och välsignelser – *sunnah*.” Jag ber att ni förklarar för oss vad som är rätt.
 
-**Svar:** Det som imamen gjorde var rätt. Profeten – över honom vare Allāhs frid och välsignelser – brukade göra *tasbih* med sin högra hand. Men om någon gjorde *tasbih* med båda händerna, då finns det ingen invändan mot det. Detta i enlighet med den allmänna innebörden av de flesta *ahādīth*. *Tasbih* med den högra handen är dock bättre för att handla enligt profetens – över honom vare Allāhs frid och välsignelser – bekräftade *sunnah*.
+**Svar:** Det som imamen gjorde var rätt. Profeten – över honom vare Allāhs frid och välsignelser – brukade göra *tasbīḥ* med sin högra hand. Men om någon gjorde *tasbīḥ* med båda händerna, då finns det ingen invändan mot det. Detta i enlighet med den allmänna innebörden av de flesta *aḥādīt̲h*. *tasbīḥ* med den högra handen är dock bättre för att handla enligt profetens – över honom vare Allāhs frid och välsignelser – bekräftade *sunnah*.
 
 Och Allāh är Beviljaren av framgång.
 

@@ -22,7 +22,7 @@ Anledningen är att de troendes ledare, ´Umar bin al-Khattab, reciterade en ver
 
 Det har även rapporterats att Zaid bin Thabit reciterat en vers med nedfallan i sura an-Najm för profeten – över honom vare Allāhs frid och välsignelser – och han nedföll inte. Hade det varit obligatoriskt hade han beordrats att göra det.
 
-Därför är det en föredragen *sunnah* som är bäst att inte bortse från, även om det sker när det är förbjudet att be, som efter gryningsbönen eller eftermiddagsbönen exempelvis. Här finns ju en anledning till detta nedfallande. Detsamma gäller alla böner som det finns en anledning till [som *sajdatut-tilawah*[^2], hälsningsbönen till moskén[^3] och liknande]. De ska göras även om det sker när det vanligtvis är förbjudet.
+Därför är det en föredragen *sunnah* som är bäst att inte bortse från, även om det sker när det är förbjudet att be, som efter gryningsbönen eller eftermiddagsbönen exempelvis. Här finns ju en anledning till detta nedfallande. Detsamma gäller alla böner som det finns en anledning till [som *sujūd at-tilāwah*[^2], hälsningsbönen till moskén[^3] och liknande]. De ska göras även om det sker när det vanligtvis är förbjudet.
 
 [^1]: sujūd, nedfallandet när pannan läggs mot marken.
 [^2]: När vissa verser i Koranen reciteras kan man nedfalla.

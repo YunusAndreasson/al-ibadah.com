@@ -40,7 +40,7 @@ Precis som bevisen från Koranen och profetens – över honom vare Allāhs frid
 
 Är detta klart för dig, då kommer du se att den icke-troende måste hållas ansvarig för sina handlingar på Återuppståndelsens Dag. Men räkenskap för den icke-troende enligt hans handlingar är inte som räkenskapen för den troende. Den som tror kommer att få en lätt räkenskap. Hans Herre den Allsmäktige kommer att ta honom åt sidan och visa honom hans synder och han kommer att erkänna dem, sedan kommer Han den Upphöjde säga till honom:
 
-> ”Jag hade överseende med dem i det världsliga livet och i dag förlåter jag dem.” [*al-Bukhārī* 6070]
+> ”Jag hade överseende med dem i det världsliga livet och i dag förlåter jag dem.” [*al-Buk̲hārī* 6070]
 
 När det gäller den icke-troende – må Allāh ge oss skydd – kommer hans räkenskap gå till så att hans synder kommer att visas för honom och han kommer att förnedras av dem, då alla får se dem. Ett vittne kommer att säga:
 

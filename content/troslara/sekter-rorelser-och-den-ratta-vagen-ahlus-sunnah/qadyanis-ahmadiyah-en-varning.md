@@ -9,7 +9,7 @@ source: >-
   (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - 'Sekter, rörelser och den rätta vägen'
+  - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 142
 description: >-
@@ -22,7 +22,7 @@ description: >-
 
 **Svar:** All lovprisan tillhör Allāh och må Hans frid och välsignelser vara över Hans profet, hans familj samt följeslagare och de som följer hans vägledning.
 
-Kommittén för forskning i *fiqh* har undersökt frågan om Qadyani som först dök upp i Indien under det sista århundradet [enligt kristen tideräkning] och som även är känd under namnet Ahmadiyah. *Fiqh*-akademin har studerat deras trosprinciper som sektens grundare Mirza Ghulam Ahmad [f. 1876 e.Kr] propagerade. Han påstod att han hade fått ta emot en uppenbarelse, att han var den utlovade Messias och att vår profet, Muḥammad bin ´Abdullāh, inte var den siste profeten.
+Kommittén för forskning i *fiqh* har undersökt frågan om Qadyani som först dök upp i Indien under det sista århundradet [enligt kristen tideräkning] och som även är känd under namnet Ahmadiyah. *fiqh*-akademin har studerat deras trosprinciper som sektens grundare Mirza Ghulam Ahmad [f. 1876 e.Kr] propagerade. Han påstod att han hade fått ta emot en uppenbarelse, att han var den utlovade Messias och att vår profet, Muḥammad bin ´Abdullāh, inte var den siste profeten.
 
 Han påstod att han var gudomligt inspirerad, att mer än 10 000 verser hade uppenbarats till honom, att den som inte tror på honom är en icke-troende och att muslimerna är skyldiga att vallfärda till Qadyan [då han påstod att det var en helig stad likt Mecka och att det är staden som kallas för al-Masjid al-Aqsa]. Detta finns förklarat i hans bok som har publicerats under namnet Barahīn Ahmadiyah samt i en avhandling som har publicerats under namnet at-Tablīgh.
 
@@ -46,7 +46,7 @@ Det har även framkommit från vad Mirza Ghulam Ahmad själv har skrivit i ett s
 
 [Se Professor an-Nadawis avhandling som Muslim World League har publicerat, sida 25].
 
-Efter att ha studerat dessa och andra dokument – vilket innefattat ett stort antal manuskript som klargör Qadyanis trosprinciper, dess grundare, dess farliga mål, förstörandet av den korrekta islamiska tron och vilseledningen av muslimer – har *fiqh*-akademin[^1] i total enighet kommit fram till att Qadanis trosprinciper är oislamiska och att dess anhängares presentation av sig själva som muslimer endast är ett sätt att vilseleda än mer. *Fiqh*-kommittén tillkännager därmed att alla muslimer, regeringar, lärda, författare, tänkare, predikanter och andra över hela världen måste motsätta sig denna vilseledda sekt och dess anhängare.
+Efter att ha studerat dessa och andra dokument – vilket innefattat ett stort antal manuskript som klargör Qadyanis trosprinciper, dess grundare, dess farliga mål, förstörandet av den korrekta islamiska tron och vilseledningen av muslimer – har *fiqh*-akademin[^1] i total enighet kommit fram till att Qadanis trosprinciper är oislamiska och att dess anhängares presentation av sig själva som muslimer endast är ett sätt att vilseleda än mer. *fiqh*-kommittén tillkännager därmed att alla muslimer, regeringar, lärda, författare, tänkare, predikanter och andra över hela världen måste motsätta sig denna vilseledda sekt och dess anhängare.
 
 Och framgång kommer från Allāh.
 

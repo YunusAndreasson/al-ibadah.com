@@ -6,7 +6,7 @@ source: >-
   Libanon: Makbtaba Dar us-Salam. 111 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
-  - Klädseln
+  - Klädsel i bönen
 original_id: 932
 description: >-
   Fråga: Vilket är straffet för att låta ens klädesplagg hänga nedanför anklarna
@@ -24,25 +24,25 @@ Den som inte avsåg att visa högmod, dennes straff är att det som hänger neda
 
 Profeten – över honom vare Allāhs frid och välsignelser – har även sagt:
 
-> ”Den som av stolthet och högmod drar sitt klädesplagg på marken kommer Allāh inte att titta åt på Återuppståndelsens dag.” [*al-Bukhārī* och *Muslim*]
+> ”Den som av stolthet och högmod drar sitt klädesplagg på marken kommer Allāh inte att titta åt på Återuppståndelsens dag.” [*al-Buk̲hārī* och *Muslim*]
 
 Detta gäller den som med stolthet drar sina klädesplagg efter sig.
 
-Om den som inte avser att visa stolthet och högmod återges i *Sahīh al-Bukhārī* att Abū Hurairah har rapporterat att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
+Om den som inte avser att visa stolthet och högmod återges i *Ṣaḥīḥ al-Buk̲hārī* att Abū Hurairah har rapporterat att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Det som hänger nedanför vristen av *izār* kommer att vara i Elden.” [*al-Bukhārī*]
+> ”Det som hänger nedanför vristen av *izār* kommer att vara i Elden.” [*al-Buk̲hārī*]
 
-Han sammankopplade det inte med stolthet och högmod. Enligt den *hadīth* som har nämnts tidigare är det heller inte rätt att sammankoppla dem. Detta beror på att Abū Sa´īd al-Khudri har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
+Han sammankopplade det inte med stolthet och högmod. Enligt den *ḥadīt̲h* som har nämnts tidigare är det heller inte rätt att sammankoppla dem. Detta beror på att Abū Sa´īd al-Khudri har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Den troendes *izār* är mitten av dennes smalben och där finns ingen synd [eller sade han: det finns ingen synd för denne] om den faller någonstans däremellan och ankeln. Och det som faller nedanför är i Elden. På Återuppståndelsens dag kommer Allāh inte att titta på den som med stolthet drar sin *izār* på marken.” [*Ahmad* 3:5, *Abū Dawūd* 4093 och *Ibn Mājah* 3573]
+> ”Den troendes *izār* är mitten av dennes smalben och där finns ingen synd [eller sade han: det finns ingen synd för denne] om den faller någonstans däremellan och ankeln. Och det som faller nedanför är i Elden. På Återuppståndelsens dag kommer Allāh inte att titta på den som med stolthet drar sin *izār* på marken.” [*Aḥmad* 3:5, *Abū Dāwūd* 4093 och *Ibn Mājah* 3573]
 
-Detta har återgivits av Mālik, *Abū Dawūd*, an-Nasā’i, *Ibn Mājah* och Ibn Hibban i hans *Sahīh* och det har nämnts i *at-Targhib wat-tahib* i kapitlet ”Rekommendation för att bära *qamis*” [Sida 88, vol. 3]
+Detta har återgivits av Mālik, *Abū Dāwūd*, an-Nasā’i, *Ibn Mājah* och Ibn Hibban i hans *Ṣaḥīḥ* och det har nämnts i *at-Targhib wat-tahib* i kapitlet ”Rekommendation för att bära *qamīṣ*” [Sida 88, vol. 3]
 
 Dessa båda handlingar är olika och så är även straffen för dem. När ett utlåtande och en orsak skiljer sig är det inte möjligt att sammankoppla det ovillkorliga med det villkorliga. Detta skulle kräva en motsägelse.
 
-Om den som citerar *hadithen* från Abū Bakr – må Allāh vara nöjd med honom – som bevis mot oss säger vi: Av två anledningar finns det inga bevis i den:
+Om den som citerar *ḥadīt̲h* från Abū Bakr – må Allāh vara nöjd med honom – som bevis mot oss säger vi: Av två anledningar finns det inga bevis i den:
 
-1. Abū Bakr – må Allāh vara nöjd med honom – sade: "*En sida av min izār hänger ned om jag inte tar hand om den*." [*al-Bukhārī*] Men Abū Bakr lät inte sin *izār* hänga ned av egen fri vilja. I stället hängde den ned av sig själv och trots detta tog han hand om den.
+1. Abū Bakr – må Allāh vara nöjd med honom – sade: "*En sida av min izār hänger ned om jag inte tar hand om den*." [*al-Buk̲hārī*] Men Abū Bakr lät inte sin *izār* hänga ned av egen fri vilja. I stället hängde den ned av sig själv och trots detta tog han hand om den.
 
 De som påstår att de inte avser att visa stolthet eller högmod genom att göra så, och då avsiktligen låter deras klädesplagg hänga ned, till dem säger vi: Om du avser att ha plagget nedanför ankeln utan att visa stolthet eller högmod, då kommer du att straffas i Elden för det som hänger nedanför den.
 

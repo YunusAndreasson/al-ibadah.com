@@ -22,4 +22,4 @@ description: >-
 
 [^1]: salatul-khawf
 
-[^2]: *al-Bukhārī* 700
+[^2]: *al-Buk̲hārī* 700

@@ -19,5 +19,5 @@ Om du då sparar en summa från din lön varje månad är det både säkrare och
 
 Och Allāh är givaren av framgång.
 
-[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramadan* 1428).
+[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramaḍān* 1428).
 

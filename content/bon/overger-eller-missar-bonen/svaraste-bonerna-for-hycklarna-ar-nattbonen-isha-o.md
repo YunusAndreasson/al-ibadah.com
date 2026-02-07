@@ -21,13 +21,13 @@ description: >-
 
 Allāh den Upphöjde har sagt: ”*Och [förrätta] gryningsbönen med läsning [av Koranen]; läsning i daggryningen sker inför vittnen*.” [^2]
 
-I en *hadīth* rapporterass att det är änglarna som bevittnar den. Detta är både nattens och dagens änglar som samlas där. Imam ash-Shafi'i anser att den mittersta bönen [som Allāh nämner i Koranen] är gryningsbönen. Som bevis för detta har han citerat Allāhs den Upphöjdes ord: ”*Förrätta regelbundet [de dagliga] bönerna och [särskilt] den bön som har en central plats och res er i from ödmjukhet inför Gud*.” [^3]
+I en *ḥadīt̲h* rapporterass att det är änglarna som bevittnar den. Detta är både nattens och dagens änglar som samlas där. Imam ash-Shafi'i anser att den mittersta bönen [som Allāh nämner i Koranen] är gryningsbönen. Som bevis för detta har han citerat Allāhs den Upphöjdes ord: ”*Förrätta regelbundet [de dagliga] bönerna och [särskilt] den bön som har en central plats och res er i from ödmjukhet inför Gud*.” [^3]
 
 Det är endast gryningsbönen som man står länge i. Därför måste man vara nog med den. Du måste vidta de åtgärder som hjälper dig att be den i rätt tid tillsammans med församlingen. Du kan uppnå detta genom att gå och lägga dig tidigare och inte vara uppe så sent, vilket kan leda till att du missar att be den i rätt tid. Du måste även anstränga dig för att vakna när du hör böneutropet [eller strax innan], utse någon som väcker dig eller placera en väckarklocka nära dig så att du vaknar vid böneutropet.
 
 När man vänjer sig vid att vakna övervinner man tröttheten. Det blir lättare och man börjar njuta av den. Hjärtat koncentrerar sig och hör vad som sägs i den.
 
 
-[^1]: *al-Bukhārī* 657 och *Muslim* 651
+[^1]: *al-Buk̲hārī* 657 och *Muslim* 651
 [^2]: Koranen 17:78
 [^3]: Koranen 2:238

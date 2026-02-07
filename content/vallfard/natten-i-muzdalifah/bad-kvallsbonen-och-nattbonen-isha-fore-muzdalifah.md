@@ -21,11 +21,11 @@ description: >-
 
 Det som är föreskrivet för pilgrimen är att denne, om det är möjligt, före midnatt ber kvällsbönen och nattbönen tillsammans i *Muzdalifah*. Om denne inte kan detta, på grund av trängsel eller någon annan anledning, då ber denne där denne befinner sig. Det är inte tillåtet att skjuta upp dessa böner till efter midnatt. Anledningen är att Allāh har sagt: ”*Bönen är alla troende plikt, knuten till bestämda tider*. ” [^2]
 
-Detta betyder att det är obligatoriskt att be dem vid deras [angivna] tider. En anledning är också att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Tiden *för nattbönen är fram till och med mitten av natten*.” [^3] Detta har Muslim återgivit i en *hadīth* från ´Abdullāh bin 'Amr bin al-'Ās.
+Detta betyder att det är obligatoriskt att be dem vid deras [angivna] tider. En anledning är också att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Tiden *för nattbönen är fram till och med mitten av natten*.” [^3] Detta har Muslim återgivit i en *ḥadīt̲h* från ´Abdullāh bin 'Amr bin al-'Ās.
 
 Och Allāh vet bäst.
 
 
-[^1]: *al-Bukhārī* 438 och *Muslim* 521
+[^1]: *al-Buk̲hārī* 438 och *Muslim* 521
 [^2]: Koranen 4:103
 [^3]: *Muslim* 612

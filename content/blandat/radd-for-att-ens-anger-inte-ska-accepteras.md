@@ -20,7 +20,7 @@ description: >-
 
 Han vill att du ska känna dig förträngd och han vill att du ska vara eländig. Ta honom för den han är – en riktig fiende. Han hatar att se dig älska att göra det som är rätt. Var därför olydig mot honom och håll dig borta från vad han beordrar dig till.
 
-Sök frid hos din Herre och vet att din ånger är tillräcklig. Även om en synd är större än alla andra synder står ånger inför Allāh över detta. Det finns ingen större synd än *shirk*, men även om någon sätter medhjälpare vid Allāhs sida och ångrar sig, kommer Han att förlåta honom.
+Sök frid hos din Herre och vet att din ånger är tillräcklig. Även om en synd är större än alla andra synder står ånger inför Allāh över detta. Det finns ingen större synd än *s̲hirk*, men även om någon sätter medhjälpare vid Allāhs sida och ångrar sig, kommer Han att förlåta honom.
 
 Det krävs av dig att du ångrar dig för vad du har gjort och efter ångern måste du sluta med dessa handlingar. Det krävs inte att du lyssnar på viskningar eller att du följer Allāhs fiender genom dessa viskningar som skadar dig. Var varse om att tack vare Allāh har du tagit stora steg framåt genom att du ångrat dig uppriktigt. Allāh den Allsmäktige säger:
 

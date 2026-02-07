@@ -14,5 +14,5 @@ description: 'Fråga: Är det tillåtet att ta med sig Koranen in på toaletten?
 
 **Fråga:** Är det tillåtet att ta med sig Koranen in på toaletten?
 
-**Svar:** De lärde säger att det inte är tillåtet att ta med *mushaf* in på toaletten därför att Koranen förtjänar vördnad och respekt. Och som alla känner till utgör det inte respekt eller vördnad att ta den med in dit.
+**Svar:** De lärde säger att det inte är tillåtet att ta med *muṣḥaf* in på toaletten därför att Koranen förtjänar vördnad och respekt. Och som alla känner till utgör det inte respekt eller vördnad att ta den med in dit.
 

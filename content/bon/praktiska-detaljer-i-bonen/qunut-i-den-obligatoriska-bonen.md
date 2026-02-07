@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om *qunūt* i den obligatoriska bönen? Vilket är utlåtandet om muslimer drabbas av stora svårigheter?
 
-**Svar:** *Qunūt* under den obligatoriska bönen är inte föreskrivet. Det är inte eftersträvansvärt att göra den. Men om imamen gör den bör du följa honom då osämja är något ont.
+**Svar:** *qunūt* under den obligatoriska bönen är inte föreskrivet. Det är inte eftersträvansvärt att göra den. Men om imamen gör den bör du följa honom då osämja är något ont.
 
 Om muslimer drabbas av stora svårigheter finns det ingen invändan mot att de gör *qunūt* för att be Allāh den Upphöjde att avvärja det.
 

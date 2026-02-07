@@ -7,7 +7,7 @@ source: >-
   Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - 'Tawhīd [Monoteism]'
+  - Monoteism
 original_id: 1085
 description: >-
   Fråga: Vilket är utlåtandet om att motsätta sig Allāhs den Upphöjdes namn och
@@ -20,7 +20,7 @@ description: >-
 **Svar:** Avvisandet är av två olika typer:
 
 1. Motsättande i form av förnekelse. Detta är utan tvekan otro. Om man förnekar ett namn eller en egenskap som är Allāhs och som bekräftas i Koranen eller [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* – som om man säger: ”Allāh har inte en hand” – då är man en icke-troende. Detta är vad samtliga muslimer anser och det beror på att förnekandet av något som Allāh och Hans sändebud har informerat oss om är en handling som innebär otro som tar en ur islam.
-2. Förnekelse genom *ta’wil*. Här förnekar man inte men man ger en viss tolkning. Detta delas i två kategorier:
+2. Förnekelse genom *ta’wīl*. Här förnekar man inte men man ger en viss tolkning. Detta delas i två kategorier:
 
 Första: Denna tolkning är rimlig enligt det arabiska språket och utgör inte otro.
 

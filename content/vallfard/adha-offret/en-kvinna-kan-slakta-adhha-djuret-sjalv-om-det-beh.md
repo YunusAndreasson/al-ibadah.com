@@ -6,7 +6,7 @@ source: >-
   Libanon: Maktaba Dar us-Salam. 334 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - Adha-offret
+  - Högtidsoffret
 original_id: 880
 description: >-
   Fråga: Om det blir dags för att offra och det inte finns någon man i hushållet

@@ -21,5 +21,5 @@ description: >-
 När det gäller vad som har återberättats om allmosa, om dessa pennor själva når den lägsta nivån som krävs eller om de tillsammans med annat guld som ägaren har uppnår den lägsta nivån, då krävs allmosa om de har varit i dennes ägo under ett år. Detsamma gäller om denne har silver eller säljer varor genom vilka den lägsta nivån uppnås, då blir allmosa en skyldighet enligt den mest korrekta åsikten bland de lärda[…]
 
 
-[^1]: *an-Nasā’i* 5151
-[^2]: *an-Nasā’i* 5147-5150 och *Ibn Mājah* 3595-3597
+[^1]: *an-Nasā’ī* 5151
+[^2]: *an-Nasā’ī* 5147-5150 och *Ibn Mājah* 3595-3597

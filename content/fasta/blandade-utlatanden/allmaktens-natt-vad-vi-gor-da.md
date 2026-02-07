@@ -22,15 +22,15 @@ Profeten – över honom vare Allāhs frid och välsignelser – påbjöd att ma
 
 > ”Den som stannar uppe under Allmaktens Natt[^1] ut ur tro och med hopp om belöningar, dennes tidigare synder kommer att förlåtas.”
 
-Denna *hadīth* finns det samstämmighet om. Den visar även att det är föreskrivet att iaktta Allmaktens Natt[^1] genom att spendera natten i bön.
+Denna *ḥadīt̲h* finns det samstämmighet om. Den visar även att det är föreskrivet att iaktta Allmaktens Natt[^1] genom att spendera natten i bön.
 
-En bra åkallan som kan reciteras under Allmaktens Natt[^1] är den som profeten – över honom vare Allāhs frid och välsignelser – lärde ‘A’ishah. *at-Tirmithi* har återgivit och klassat som *Sahīh* att ‘A’ishah – må Allāh vara nöjd med henne – har sagt:
+En bra åkallan som kan reciteras under Allmaktens Natt[^1] är den som profeten – över honom vare Allāhs frid och välsignelser – lärde ‘A’ishah. *at-Tirmithi* har återgivit och klassat som *Ṣaḥīḥ* att ‘A’ishah – må Allāh vara nöjd med henne – har sagt:
 
 > ”Jag sade: 'Allāhs sändebud, om jag vet vilken natt som är Allmaktens Natt[^1], vad bör jag säga under den natten?' Han sade: 'Säg: Allāhumma inaka 'afuwwun tuhibb al-'afwa fa'affu 'anni [Allāh, Du är förlåtande och Du älskar förlåtelse, så förlåt mig].’”
 
-Beträffande att ange vilken natt under *ramadan* som är Allmaktens Natt[^1], då behöver detta särskilda bevis. Nätterna med udda nummer under de sista tio nätterna är dock troligare än andra och den 27:e är troligast Allmaktens Natt[^1]. Anledningen är att den har omnämnts i *ahādīth*.
+Beträffande att ange vilken natt under *ramaḍān* som är Allmaktens Natt[^1], då behöver detta särskilda bevis. Nätterna med udda nummer under de sista tio nätterna är dock troligare än andra och den 27:e är troligast Allmaktens Natt[^1]. Anledningen är att den har omnämnts i *aḥādīt̲h*.
 
-Innovationer är varken tillåtna under *ramadan* eller vid andra tidpunkter. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
+Innovationer är varken tillåtna under *ramaḍān* eller vid andra tidpunkter. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Den som för in något i denna våra fråga [islām] som inte är en del av den kommer att få det avvisat.”
 
@@ -38,7 +38,7 @@ Enligt en annan rapport:
 
 > ”Den som utför en handling som inte är en del av denna vår fråga [islam] kommer att få den avvisad.”
 
-Vi känner inte till någon grund för att man ska fira vissa nätter under *ramadan*. Den bästa vägledning är Muḥammads vägledning och det värsta är innovationer.
+Vi känner inte till någon grund för att man ska fira vissa nätter under *ramaḍān*. Den bästa vägledning är Muḥammads vägledning och det värsta är innovationer.
 
 Och Allāh är källan till all styrka. Må Allāh sända välsignelser och frid över profeten Muḥammad, hans familj och följeslagare.
 

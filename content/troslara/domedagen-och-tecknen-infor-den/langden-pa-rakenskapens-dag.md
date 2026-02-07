@@ -22,7 +22,7 @@ description: >-
 
 Denna plåga kommer att drabba de icke-troende under en dag vars längd är lika lång som 50 000 år.
 
-I *Sahīh Muslim* finns en *hadīth* återgiven av Abū Hurairah i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
+I *Ṣaḥīḥ Muslim* finns en *ḥadīt̲h* återgiven av Abū Hurairah i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
 
 > ”Det finns ingen ägare av guld eller silver som inte betalar vad denne ska för dem [allmosa] utan att när Återuppståndelsens Dag kommer så kommer plattor av eld kommer att förberedas för denne [för att] märka dennes panna, sidor och rygg. Varje gång de svalnar kommer de att hettas upp på nytt, under en Dag vars längd är lika lång som 50 000 år, tills domen avkunnats bland folket.”
 
@@ -42,7 +42,7 @@ Våra plikter i frågor om det som är dolt för människor[^1] är att underkas
 
 Och Allāh säger i en *qudsi-hadīth*[^1]:
 
-> ”Jag har förberett för *Mina* rättfärdiga tjänare vad inget öga har sett, inget öra har hört och som heller inte har trängt in i någon mans hjärta.”
+> ”Jag har förberett för *Minā* rättfärdiga tjänare vad inget öga har sett, inget öra har hört och som heller inte har trängt in i någon mans hjärta.”
 
 Det finns saker i denna värld med samma namn som de välsignelser i Paradiset som har nämnts här, men att de har samma namn betyder inte att vinet i Paradiset är som vinet i denna värld eller att frukterna i Paradiset är så som frukterna här, och så vidare.
 

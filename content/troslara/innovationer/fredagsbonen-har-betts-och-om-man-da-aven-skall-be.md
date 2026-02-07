@@ -35,7 +35,7 @@ De veckovisa samlingarna inträffar på fredagarna. Därför fordrar profetens �
 
 För folket finns det också en stor nytta i den. De samlas kring en imam och en predikant som vägleder dem med en enda vägledning. Då går de därifrån efter att ha fått en påminnelse samt ha bett en bön.
 
-Den årsvisa samlingen är *‘eid*-bönen. Detta är samlingen som görs varje år och även den är för hela staden. Den bes därför inte i varje moské om det inte finns ett behov av det, precis som i fallet med moskéerna under fredagsbönen.
+Den årsvisa samlingen är *´eid*-bönen. Detta är samlingen som görs varje år och även den är för hela staden. Den bes därför inte i varje moské om det inte finns ett behov av det, precis som i fallet med moskéerna under fredagsbönen.
 
 
 [^1]: Koranen 64:16

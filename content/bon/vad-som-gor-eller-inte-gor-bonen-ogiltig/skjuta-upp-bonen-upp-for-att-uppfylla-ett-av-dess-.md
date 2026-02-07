@@ -21,7 +21,7 @@ description: >-
 
 Detta enligt Allāhs den Upphöjdes ord: "*Bönen är alla troendes plikt, knuten till bestämda tider*." [^1] Profeten – över honom vare Allāhs frid och välsignelser – har också angivet tiderna för bönerna och det gör det till en skyldighet att be dem vid de angivna tiderna. Vore det tillåtet att vänta för att ett villkor ska uppfyllas, då vore det inte rätt att föreskriva *tayammum*, då det är möjligt att få tag på vatten efter tiden [för bönen].
 
-Det finns ingen skillnad mellan att skjuta upp den en lång eller kort tid. Anledningen är att det i båda fallen innebär att man försenar bönen till efter den avsedda tiden. Detta är den åsikt som *shaykh ul-islām* ibn Taymiyyah – må Allāh vara honom nådig – föredrog.
+Det finns ingen skillnad mellan att skjuta upp den en lång eller kort tid. Anledningen är att det i båda fallen innebär att man försenar bönen till efter den avsedda tiden. Detta är den åsikt som *s̲hayk̲h ul-islām* ibn Taymiyyah – må Allāh vara honom nådig – föredrog.
 
 
 [^1]: Koranen 4:103

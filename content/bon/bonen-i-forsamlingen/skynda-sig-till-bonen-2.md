@@ -21,5 +21,5 @@ description: >-
 Det är *sunnah* att närma sig bönen lugnt och stilla, i normalt tempo, med ödmjukhet, utan att hasta tills man når en rad. Detta är profetens – över honom vare Allāhs frid och välsignelser – *sunnah*.
 
 
-[^1]: *al-Bukhārī* 635 – 636 och *Muslim* 602
+[^1]: *al-Buk̲hārī* 635 – 636 och *Muslim* 602
 [^2]: *Muslim* 602

@@ -6,7 +6,7 @@ source: >-
   Libanon: Makbtaba Dar us-Salam. 37 s. ISBN 9960-892-66-2
 categories:
   - Troslära (´Aqīdah)
-  - 'Sekter, rörelser och den rätta vägen'
+  - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 1067
 description: >-
@@ -15,9 +15,9 @@ description: >-
   sunnah . De är eniga om den u...
 ---
 
-**Fråga:** Vilka är *ahlus-sunnah wal-jamā'at*?
+**Fråga:** Vilka är *ahlus-sunnah wal-jamā´at*?
 
-**Svar:** *Ahlus-sunnah wal-jamā'at* är de som håller fast vid profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. De är eniga om den utan att lägga vikt vid något annat, varken i frågor om kunskap, religion eller tillåtelse för handlingar. Att de håller fast vid den är anledningen till att de är kända som *ahlus-sunnah*. Och de kallas för *ahlul-jamā'at* eftersom de är eniga om den.
+**Svar:** *ahlus-sunnah wal-jamā´at* är de som håller fast vid profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. De är eniga om den utan att lägga vikt vid något annat, varken i frågor om kunskap, religion eller tillåtelse för handlingar. Att de håller fast vid den är anledningen till att de är kända som *ahlus-sunnah*. Och de kallas för *ahlul-jamā'at* eftersom de är eniga om den.
 
 Studerar man däremot *ahlul-bid'ah* finner man att de är oeniga om vad de följer, oavsett om det gäller religiösa trosprinciper eller hur de utövar. Oenigheterna bevisar, i takt med vad de för in [i religionen], att de är långt från profetens – över honom vare Allāhs frid och välsignelser – *sunnah*.
 

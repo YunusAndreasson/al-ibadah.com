@@ -23,5 +23,5 @@ Det är då inte eftersträvansvärt att begravningen av den avlidne skjuts upp,
 Detta gjorde profeten – över honom vare Allāhs frid och välsignelser – när han gick till graven och bad över en kvinna som brukade städa moskén när de inte hade informerat honom om att hon hade avlidit. Han sade då: "*Visa mig till hennes grav*." De visade honom till hennes grav och han bad för henne. [^2]
 
 
-[^1]: *al-Bukhārī* 1315 och *Muslim* 944
-[^2]: *al-Bukhārī* 1337 och *Muslim* 956
+[^1]: *al-Buk̲hārī* 1315 och *Muslim* 944
+[^2]: *al-Buk̲hārī* 1337 och *Muslim* 956

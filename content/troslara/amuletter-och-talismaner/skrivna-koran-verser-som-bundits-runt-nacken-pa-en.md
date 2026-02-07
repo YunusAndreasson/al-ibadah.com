@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Det finns ingen synd i *ruqyah* för en sjukling som drabbats av häxkraft om denna ruqyah[^1] kommer från den ädla Koranen eller från tillåtna åkallan. Man har bekräftat att profeten – över honom vare Allāhs frid och välsignelser – brukade läsa *ruqyah* över hans följeslagare. En av de *ruqyah* som han brukade använda är:
 
-> ”Vår Herre, Allāh, som är i [ovan] himlen, helgat vare Ditt namn, Din kommendering råder över himlarna och jorden. Som Din nåd är i himlen, låt Din nåd vara så på jorden. Sänd ned nåd från Din nåd och en bot från Din bot över denna sjukdom.” [*Abū Dawūd* 3892]
+> ”Vår Herre, Allāh, som är i [ovan] himlen, helgat vare Ditt namn, Din kommendering råder över himlarna och jorden. Som Din nåd är i himlen, låt Din nåd vara så på jorden. Sänd ned nåd från Din nåd och en bot från Din bot över denna sjukdom.” [*Abū Dāwūd* 3892]
 
 Personen som fick detta läst över sig tillfrisknade då.
 
@@ -31,11 +31,11 @@ Man kan också lägga sin hand där det gör ont och säga:
 
 > ”Jag söker min tillflykt hos Allāh och [hos] Hans makt från det onda jag finner och det jag fruktar.” [*Muslim* 2202]
 
-De lärde har nämnt fler andra åkallan [hämtade] från de *ahādīth* som har återberättats från sändebudet – över honom vare Allāhs frid och välsignelser.
+De lärde har nämnt fler andra åkallan [hämtade] från de *aḥādīt̲h* som har återberättats från sändebudet – över honom vare Allāhs frid och välsignelser.
 
 De lärde har olika åsikter om att skriva besvärjelser och binda dem runt halsen. Vissa har tillåtit det medan andra har förbjudit det. Anledningen är att detta inte har rapporterats från profeten. Det har enbart rapporterats att han brukade recitera över sjuklingar. Att binda verser runt den sjukes hals eller att lägga dem i dennes hand, under kudden eller liknande är förbjudet enligt den starkaste åsikten. Detta eftersom det inte har rapporterats [från profeten].
 
-Den som gör en handling till en orsak till att uppnå något annat, utan ett godkännande från den islamiska lagen, har gjort något som är en sorts *shirk* då den bekräftar ett medel som Allāh inte har föreskrivit som ett medel.
+Den som gör en handling till en orsak till att uppnå något annat, utan ett godkännande från den islamiska lagen, har gjort något som är en sorts *s̲hirk* då den bekräftar ett medel som Allāh inte har föreskrivit som ett medel.
 
 [^1]: Något som reciteras för att bota sjukdomar.
 

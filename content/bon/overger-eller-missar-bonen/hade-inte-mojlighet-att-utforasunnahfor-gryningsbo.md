@@ -20,7 +20,7 @@ description: >-
 
 **Svar:** Enligt den starkaste åsikten finns det ingen invändan mot att man tar igen *sunnah* för gryningsbönen efter gryningsbönen.
 
-Detta motsäger sig inte den *hadīth* som förbjuder att man ber. Det som är förbjudet är att man ber utan anledning.
+Detta motsäger sig inte den *ḥadīt̲h* som förbjuder att man ber. Det som är förbjudet är att man ber utan anledning.
 
 Men om man skjuter upp den till efter soluppgången och man inte är rädd för att man ska vara för upptagen för att be den, då är detta att föredra.
 

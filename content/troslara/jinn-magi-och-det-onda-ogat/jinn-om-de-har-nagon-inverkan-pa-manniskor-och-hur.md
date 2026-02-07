@@ -27,9 +27,9 @@ När profeten – över honom vare Allāhs frid och välsignelser – informerad
 
 Detta är ett bevis för att *jinn* kan visa fiendskap mot människor och att de kan vara skadliga. Detta är ett bevisat faktum.
 
-De *ahādīth* som beskriver detta är många. Vi får bland annat veta att någon kan komma till en förfallen byggnad och där få stenar kastade på sig, även om det inte syns till någon där. Röster och prasslande ljud som påminner om hur träd prasslar [i vinden] kan uppfattas. Detta kan oroa och skada honom.
+De *aḥādīt̲h* som beskriver detta är många. Vi får bland annat veta att någon kan komma till en förfallen byggnad och där få stenar kastade på sig, även om det inte syns till någon där. Röster och prasslande ljud som påminner om hur träd prasslar [i vinden] kan uppfattas. Detta kan oroa och skada honom.
 
-*Jinn* kan även på grund av kärlek komma in i en människas kropp för att till exempel skada. Detta visar Allāhs den Upphöjdes ord:
+*jinn* kan även på grund av kärlek komma in i en människas kropp för att till exempel skada. Detta visar Allāhs den Upphöjdes ord:
 
 > ”De som livnär sig på ocker ska uppstå [till Domen] lika ostadiga på benen som den som djävulen med sin beröring slagit med vansinne.” [Koranen 2:275]
 
@@ -41,4 +41,4 @@ Och Allāh är Beskyddaren.
 
 [^1]: Allāhs fotpall.
 
-[^2]: *Muslim* och *Ahmad*
+[^2]: *Muslim* och *Aḥmad*

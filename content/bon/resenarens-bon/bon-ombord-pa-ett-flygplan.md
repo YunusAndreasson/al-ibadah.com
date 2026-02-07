@@ -22,7 +22,7 @@ Om flygplanet exempelvis lyfter från Jiddah precis före solnedgången och sole
 
 Är man rädd för att tiden ska gå ut, då bör man ha avsikten att slå ihop den med nattbönen och skjuta på den till nattbönen. Man ber dem då när man landar. Men om flygningen är lång och nattbönen kommer att gå ut, och det är vid midnatt, då bör man be dem i planet före tiden går ut.
 
-Sättet som man ber den obligatoriska bönen på i flygplanet är att man står i riktning mot *qiblah* och gör *takbīr*, reciterar sura *al-Fātihah* och det som är föreskrivet att recitera före den som första åkallan och därefter från Koranen.
+Sättet som man ber den obligatoriska bönen på i flygplanet är att man står i riktning mot *qiblah* och gör *takbīr*, reciterar sura *al-Fātiḥah* och det som är föreskrivet att recitera före den som första åkallan och därefter från Koranen.
 
 Sedan bugar man, rätar sig upp från bugningen och nedfaller. Går det att nedfalla bör man sitta och antyda nedfallan [genom att luta huvudet] i en sittande position och man gör på samma sätt i slutet av bönen. Hela tiden är man riktad mot *qiblah*.
 

@@ -41,7 +41,7 @@ Det femte som ogiltigör fastan är det som liknar mat och dryck. Här innefatta
 
 Detta betyder att kroppens överlevnad är beroende av dessa injektioner. Kroppen får då näring på detta sätt även om den inte får näring genom något annat. Injektioner som inte är närande och som inte ersätter mat och dryck, de bryter inte fastan oavsett om den fastande får dem intravenöst, in i en muskel eller genom någon annan kroppsdel.
 
-Det sjätte som bryter fastan är avsiktliga kräkningar, det vill säga att den fastande stöter upp det som finns i dennes mage så att det passerar genom munnen. Detta grundas på en *hadīth* från Abū Hurairah i vilken han uppger att profeten – över honom vare Allāhs frid och välsignelser – sade: "*Den som avsiktligen har kräkt måste ta igen [fastan] och den som ofrivilligt har kräkt är inte skyldig att ta igen den*." [^5]
+Det sjätte som bryter fastan är avsiktliga kräkningar, det vill säga att den fastande stöter upp det som finns i dennes mage så att det passerar genom munnen. Detta grundas på en *ḥadīt̲h* från Abū Hurairah i vilken han uppger att profeten – över honom vare Allāhs frid och välsignelser – sade: "*Den som avsiktligen har kräkt måste ta igen [fastan] och den som ofrivilligt har kräkt är inte skyldig att ta igen den*." [^5]
 
 Visdomen här är att om denne kräker så töms magen på mat och kroppen kräver då att den ersätts. Därför säger vi att om fastan var obligatorisk, då får den fastande inte framtvinga en kräkning. Om denne gör så blir den obligatoriska fastan ogiltig.
 
@@ -57,11 +57,11 @@ Att den fastande känner till det laga utlåtandet och denne känner till omstä
 
 Dessa båda bevis är allmänna.
 
-Och [dennes fasta är giltig] enligt uttryckliga bevis som bekräftas om fastan i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. I *Sahīh al-Bukhārī* återges i en *hadīth* från 'Adi bin Hatim att han fastade och att han lade två *'iqal* under sin kudde. En *'iqal* är ett rep som används för att binda kamelens ben. Det ena var svart och det andra var vitt. Han åt och drack tills det vita kunde skiljas från den svarta. Därefter fastade han.
+Och [dennes fasta är giltig] enligt uttryckliga bevis som bekräftas om fastan i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. I *Ṣaḥīḥ al-Buk̲hārī* återges i en *ḥadīt̲h* från 'Adi bin Hatim att han fastade och att han lade två *'iqal* under sin kudde. En *'iqal* är ett rep som används för att binda kamelens ben. Det ena var svart och det andra var vitt. Han åt och drack tills det vita kunde skiljas från den svarta. Därefter fastade han.
 
 Under morgonen gick han till profeten – över honom vare Allāhs frid och välsignelser – och informerade honom om detta. Han [Profeten] förklarade för honom att innebörden av den vita och den svarta tråden i versen inte är vanliga trådar. Det som i stället avses med den vita tråden är dagsljusets vithet och den svarta tråden är nattens svarthet. Profeten – över honom vare Allāhs frid och välsignelser – kommenderade honom dock inte att ta igen fastan då han inte kände till utlåtandet; han trodde ju att detta var innebörden av denna ädla vers. [^10]
 
-När det gäller okunskap om tiden återger al-Bukhārī i sin *Sahīh* med Asma' bint Abū Bakr – må Allāh vara nöjd med henne – som källa att hon sade: "*Under profetens – över honom vare Allāhs frid och välsignelser – tid bröt vi vår fasta under en molnig dag men sedan tittade solen fram*." [^11]
+När det gäller okunskap om tiden återger al-Bukhārī i sin *Ṣaḥīḥ* med Asma' bint Abū Bakr – må Allāh vara nöjd med henne – som källa att hon sade: "*Under profetens – över honom vare Allāhs frid och välsignelser – tid bröt vi vår fasta under en molnig dag men sedan tittade solen fram*." [^11]
 
 Profeten beordrade dem inte att ta igen fastan. Hade det varit en skyldighet att ta igen den hade han beordrat dem att göra det. Folket hade då fått reda på det. Allāh den Upphöjde har sagt: "*Det är Vi som har uppenbarat denna Koran steg för steg och Vi ska helt visst slå vakt om den*." [^12]
 
@@ -69,7 +69,7 @@ Då vi inte har fått det berättat för oss, trots att behovet för att det sku
 
 Detta är när någon kommer ihåg, och motsatsen till att komma ihåg är att glömma. Om någon då åt eller drack ut ur glömska är dennes fasta giltig och den behöver inte tas igen, enligt Allāhs den Upphöjdes ord: "*Herre! Ställ oss inte till svars för glömska eller oavsiktliga fel*." [^13] Allāh den Upphöjde har sagt: "*Jag har gjort så*."
 
-Enligt en *hadīth* från Abū Hurairah har Allāhs sändebud – över honom vare Allāhs frid och välsignelser sagt: "*Den som glömde medan denne fastade och åt eller drack, denne fullbordar fastan. Det var ju ingen annan än Allāh som livnärde denne och gav denne dricka*." [^14]
+Enligt en *ḥadīt̲h* från Abū Hurairah har Allāhs sändebud – över honom vare Allāhs frid och välsignelser sagt: "*Den som glömde medan denne fastade och åt eller drack, denne fullbordar fastan. Det var ju ingen annan än Allāh som livnärde denne och gav denne dricka*." [^14]
 
 Intentionen, vilket innebär att den fastande väljer att göra något som gör fastan ogiltig. Om denne inte valde att göra det, då är dennes fasta giltig, oavsett om det förekom tvång eller ej. Detta grundas på Allāhs den Upphöjdes ord om den som tvingas:
 
@@ -79,7 +79,7 @@ Med detta som grund: Om det kom in damm i den fastandes näsa och denne kändes 
 
 Likaledes om den fastande tvingas att bryta fastan och då gjorde det på grund av detta tvång, då är fastan giltig då detta inte skedde avsiktligen. Och på samma sätt om den fastande hade en våt dröm under sömnen, då är fastan giltig då den sovande inte har någon intention. Och åter på samma sätt om en man tvingar sin fru till intim samvaro med honom under hennes fasta, då är hennes fasta giltig då hon inte valde detta själv.
 
-Här föreligger något som vi måste förstå: Om en man bryter fastan, genom att dagtid under *ramadan* när fastan är en skyldighet, ha intim samvaro med sin fru, då finns det fem konsekvenser av denna otillåtna intima samvaro:
+Här föreligger något som vi måste förstå: Om en man bryter fastan, genom att dagtid under *ramaḍān* när fastan är en skyldighet, ha intim samvaro med sin fru, då finns det fem konsekvenser av denna otillåtna intima samvaro:
 
 1. Synden,
 2. skyldigheten att fasta under återstoden av dagen,
@@ -87,9 +87,9 @@ Här föreligger något som vi måste förstå: Om en man bryter fastan, genom a
 4. skyldigheten att ta igen den och
 5. gottgörelsen.
 
-Det spelar ingen roll om denne kände till vad som krävs efter denna otillåtna intima samvaro eller om denne var okunnig i frågan. Detta betyder att om en man har intim samvaro under *ramadan* då fastan är en skyldighet, men denne inte känner till att det finns ett krav i att gottgöra sig, då gäller det tidigare nämnda utlåtandet om intim samvaro för denne. Detta beror på att denne avsåg att göra fastan ogiltig och det som gör fastan ogiltig gör det nödvändigt att utlåtandet tillämpas på denne.
+Det spelar ingen roll om denne kände till vad som krävs efter denna otillåtna intima samvaro eller om denne var okunnig i frågan. Detta betyder att om en man har intim samvaro under *ramaḍān* då fastan är en skyldighet, men denne inte känner till att det finns ett krav i att gottgöra sig, då gäller det tidigare nämnda utlåtandet om intim samvaro för denne. Detta beror på att denne avsåg att göra fastan ogiltig och det som gör fastan ogiltig gör det nödvändigt att utlåtandet tillämpas på denne.
 
-Saken är den att det i en *hadīth* från Abū Hurairah nämns att en man kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: "*Och vad har förstört dig?*" Han svarade: "*Under *ramadan* hade jag intim samvaro med min fru när jag fastade*." [^15] Profeten – över honom vare Allāhs frid och välsignelser – beordrade honom då att gottgöra sig för detta trots att mannen inte kände till att han var skyldig till det […]
+Saken är den att det i en *ḥadīt̲h* från Abū Hurairah nämns att en man kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: "*Och vad har förstört dig?*" Han svarade: "*Under *ramadan* hade jag intim samvaro med min fru när jag fastade*." [^15] Profeten – över honom vare Allāhs frid och välsignelser – beordrade honom då att gottgöra sig för detta trots att mannen inte kände till att han var skyldig till det […]
 
 [^1]: Hijamah
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
@@ -97,13 +97,13 @@ Saken är den att det i en *hadīth* från Abū Hurairah nämns att en man kom t
 [^3]: *Ibn Mājah* 1638
 [^4]: *Muslim* 1006
 [^5]: *at-Tirmithi* 720
-[^6]: *al-Bukhārī* 774
-[^7]: *al-Bukhārī* 304 och *Muslim* 79
+[^6]: *al-Buk̲hārī* 774
+[^7]: *al-Buk̲hārī* 304 och *Muslim* 79
 [^8]: Koranen 2:286
 [^9]: Koranen 33:5
-[^10]: *al-Bukhārī* 1916 och *Muslim* 1090
-[^11]: *al-Bukhārī* 1959
+[^10]: *al-Buk̲hārī* 1916 och *Muslim* 1090
+[^11]: *al-Buk̲hārī* 1959
 [^12]: Koranen 15:9
 [^13]: Koranen 2:286
-[^14]: *al-Bukhārī* 1933 och *Muslim* 1155
-[^15]: *al-Bukhārī* 1936 och *Muslim* 1111
+[^14]: *al-Buk̲hārī* 1933 och *Muslim* 1155
+[^15]: *al-Buk̲hārī* 1936 och *Muslim* 1111

@@ -20,7 +20,7 @@ description: >-
 
 > ”Samarbeta för att befrämja fromhet och gudsfruktan, och slut er inte samman för att befrämja synd och fiendskap. Och frukta Gud! Gud straffar med stränghet.” [Koranen 5:2]
 
-Profeten – över honom vare Allāhs frid och välsignelser – har förbannat den som använder, ger, administrerar och bevittnar ränta. När han hade förklarat detta sade han: ”*De är likvärdiga [i synd]*.” [^1] Detta har *Muslim* återgivit i sin *Sahīh*.
+Profeten – över honom vare Allāhs frid och välsignelser – har förbannat den som använder, ger, administrerar och bevittnar ränta. När han hade förklarat detta sade han: ”*De är likvärdiga [i synd]*.” [^1] Detta har *Muslim* återgivit i sin *Ṣaḥīḥ*.
 
 Att placera pengar i banker och på detta sätt få ränta varje månad eller år är något som är förbudet enligt konsensus bland de lärde. När det gäller den som placerar sina pengar [på banken], utan att ta någon ränta, är det säkrare för denne att undvika det utom i fall där det är nödvändigt för denne att befatta sig med räntebanker.
 

@@ -22,7 +22,7 @@ description: >-
 
 > ”Om någon tvivlar sin bön och inte vet hur mycket han har bett, tre eller fyra bönecykler, låt honom då skjuta detta tvivel åt sidan och utgå från det han är säker på. Nedfall sedan två gånger före *taslīm*. Har han bett fem, då kommer hans bön att vara en förespråkare för honom, och om han har avslutat sin bön korrekt [som fyra bönecykler], då kommer det att vara en förnedring för djävulen.” [*Muslim* 571]
 
-Men om han gjorde *taslīm* efter tre, och han sedan informeras om detta, då bör han stå upp för en fjärde bönecykel och sedan sitta ned i *tashahhud*. När han har slutfört *tashahhud*, sänt böner över profeten – över honom vare Allāhs frid och välsignelser – och åkallat, då bör han säga *taslīm*, nedfalla för glömska och sedan *taslīm* igen.
+Men om han gjorde *taslīm* efter tre, och han sedan informeras om detta, då bör han stå upp för en fjärde bönecykel och sedan sitta ned i *tas̲hahhud*. När han har slutfört *tas̲hahhud*, sänt böner över profeten – över honom vare Allāhs frid och välsignelser – och åkallat, då bör han säga *taslīm*, nedfalla för glömska och sedan *taslīm* igen.
 
 Det har rapporterats att profeten – över honom vare Allāhs frid och välsignelser – gjorde *taslīm* när han hade bett tre bönecykler under middagsbönen eller eftermiddagsbönen. Thul-Yadain informerade honom om detta, han stod då upp för att avsluta sin bön, för att sedan göra *taslīm*, nedfallandet för glömska och sedan *taslīm* igen.
 

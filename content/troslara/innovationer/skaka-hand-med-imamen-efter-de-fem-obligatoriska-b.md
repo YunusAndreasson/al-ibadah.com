@@ -25,5 +25,5 @@ Han har även sagt: ”*Den som påbörjar något i denna vår fråga [religione
 Må frid och välsignelser vara över vår profet Muḥammad, hans familj och följeslagare.
 
 
-[^1]: *al-Bukhārī* 2697 och *Muslim* 1718
+[^1]: *al-Buk̲hārī* 2697 och *Muslim* 1718
 [^2]: *Muslim* 1718

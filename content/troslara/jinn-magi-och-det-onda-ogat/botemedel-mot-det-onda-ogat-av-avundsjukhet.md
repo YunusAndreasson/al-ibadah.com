@@ -29,11 +29,11 @@ Profeten – över honom vare Allāhs frid och välsignelser – bad då om vatt
 Verkliga bevis vittnar om detta, och det är inte något som går att förneka. Inträffar det bör de föreskrivna behandlingarna användas. De är:
 
 1. Recitation. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Det finns ingen ruqyah[^1], utom som ett botemedel mot det onda ögat eller feber*.” [^5] [ängeln] Gabriel reciterade en *ruqyah* över profeten – över honom vare Allāhs frid och välsignelser – genom att säga: ”*I Allāhs namn, jag uttalar denna ruqyah[^1] för dig mot allt som är skadligt för dig. Från det onda i varje själ och från det onda ögat. Må Allāh bota dig. I Allāhs namn, jag uttalar denna ruqyah[^1] för dig.*” [^6]
-2. Ta ett bad. Profeten – över honom vare Allāhs frid och välsignelser – beordrade 'Amir bin Rabi'ah att göra så i den nyss nämnda *hadithen*. Efteråt ska vatten hällas över den drabbade.
+2. Ta ett bad. Profeten – över honom vare Allāhs frid och välsignelser – beordrade 'Amir bin Rabi'ah att göra så i den nyss nämnda *ḥadīt̲h*. Efteråt ska vatten hällas över den drabbade.
 
 Att ta något från dennes exkret, som urinen eller avföringen, är grundlöst. Samma gäller för att ta något från dennes *athar* [hår, naglar och liknande]. Det enda som har rapporterats är vad vi har nämnt om att tvätta dennes leder, innanför dennes *izār* och möjligtvis även innanför dennes huvudbonad och kläder. Allāh vet bäst.
 
-Det finns ingen invändan mot att vara försiktig och skydda sig själv mot det onda ögat. Detta omintetgör inte ens *tawakkul*. *Tawakkul* innebär ju att man sätter sin tilltro till Allāh – den Härlige samtidigt som man vidtar de nödvändiga åtgärder som Han har tillåtit och kommenderat.
+Det finns ingen invändan mot att vara försiktig och skydda sig själv mot det onda ögat. Detta omintetgör inte ens *tawakkul*. *tawakkul* innebär ju att man sätter sin tilltro till Allāh – den Härlige samtidigt som man vidtar de nödvändiga åtgärder som Han har tillåtit och kommenderat.
 
 Profeten – över honom vare Allāhs frid och välsignelser – brukade söka skydd för al-Hasan och al-Husain genom att säga: "*Genom Allāhs perfekta ord söker jag skydd för er båda mot varje ont och mot varje giftig varelse och mot varje avundsjukt ont öga*." [^7] Han brukade säg att Abraham ofta sökte skydd för Ishaq och Isma'il på detta sätt.
 
@@ -42,6 +42,6 @@ Profeten – över honom vare Allāhs frid och välsignelser – brukade söka s
 [^2]: Koranen 68:51
 [^3]: *Muslim* 2188
 [^4]: *Ibn Mājah* 3509
-[^5]: *al-Bukhārī* 5704 och *Muslim* 216
+[^5]: *al-Buk̲hārī* 5704 och *Muslim* 216
 [^6]: *Muslim* 2186
-[^7]: *al-Bukhārī* 3371
+[^7]: *al-Buk̲hārī* 3371

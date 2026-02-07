@@ -16,6 +16,6 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om att be bakom en imam som tror att en rättfärdig gravinvånare har krafter som kan åstadkomma gott eller ont?
 
-**Svar:** Det är inte tillåtet att be bakom honom. Bönen kommer inte att vara giltig. Anledningen är att det är större *shirk* i fråga om Herrskap att tro att en avliden kan åstadkomma gott eller ont. Att åkalla dem, söka deras hjälp, svära eder vid dem och offra till dem är större *shirk* i dyrkan.
+**Svar:** Det är inte tillåtet att be bakom honom. Bönen kommer inte att vara giltig. Anledningen är att det är större *s̲hirk* i fråga om Herrskap att tro att en avliden kan åstadkomma gott eller ont. Att åkalla dem, söka deras hjälp, svära eder vid dem och offra till dem är större *s̲hirk* i dyrkan.
 
 
