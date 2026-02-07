@@ -25,7 +25,7 @@ med:
 
 Finns det några motsägelser mellan dem?
 
-**Svar:** Det finns ingen motsägelse mellan dem. Den första versen gäller den som dör och begår *s̲hirk* utan att ha vänt sig till Allāh i ånger. För denne finns det ingen förlåtelse och dennes eviga boning är i Elden. Allāh den Upphöjde säger:
+**Svar:** Det finns ingen motsägelse mellan dem. Den första versen gäller den som dör och begår *s̲hirk* utan att ha vänt sig till Allāh i ånger. För personen finns det ingen förlåtelse och personens eviga boning är i Elden. Allāh den Upphöjde säger:
 
 > ”De som säger: 'Gud är Kristus, Marias son' förnekar sanningen; Kristus sade [själv]: 'Israeliter! Dyrka Gud, min Herre och er Herre.' Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden ska bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [Koranen 5:72]
 

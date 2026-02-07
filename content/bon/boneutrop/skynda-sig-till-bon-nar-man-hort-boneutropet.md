@@ -16,7 +16,7 @@ description: >-
 
 **Svar:** All lovprisan tillhör Allāh. Det är bättre för muslimer att skynda sig att be när de hör böneutropet. Böneutroparen säger ju: “*Hayya ala al-salāh*” [Kom till bön]. Tvekande kommer att leda till att man missar bönen.
 
-När det gäller arbetstagaren som ber frivilliga böner efter bönen, utöver de vanliga *sunnah*-bönerna, är det inte tillåtet. Dennes tid tillhör ju enligt arbetskontraktet någon annan. De vanliga *sunnah*-bönerna är det inte fel att förrätta för chefer och arbetsledare tillåter vanligtvis det.
+När det gäller arbetstagaren som ber frivilliga böner efter bönen, utöver de vanliga *sunnah*-bönerna, är det inte tillåtet. Personens tid tillhör ju enligt arbetskontraktet någon annan. De vanliga *sunnah*-bönerna är det inte fel att förrätta för chefer och arbetsledare tillåter vanligtvis det.
 
 Och Allāh är källan till styrka.
 

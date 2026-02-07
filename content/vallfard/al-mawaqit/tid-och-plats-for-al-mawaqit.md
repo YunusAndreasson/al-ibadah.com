@@ -1,5 +1,5 @@
 ---
-title: Tid och plats för mawaqit
+title: Tid och plats för mawāqīt
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -20,7 +20,7 @@ description: >-
 
 > ”Vallfärden [ska fullgöras under] de kända månaderna. Den som då beger sig iväg ska så länge vallfärden varar avhålla sig från intim samvaro med kvinnor, grovt tal samt trätor och tvister.” [Koranen 2:197]
 
-Den som då går in i *iḥrām* för vallfärden under denna tid, dennes *iḥrām* är korrekt. Denne måste dock vara kvar i *iḥrām* tills denne står vid *´Arafāt* under *´Arafāt*-dagen [den nionde *d̲hul-ḥijjah*].
+Den som då går in i *iḥrām* för vallfärden under denna tid, personens *iḥrām* är korrekt. Personen måste dock vara kvar i *iḥrām* tills personen står vid *´Arafāt* under *´Arafāt*-dagen [den nionde *d̲hul-ḥijjah*].
 
 *´umrah* finns det ingen viss tid för. Tvärtom går det bra att utföra den under hela året. Den *´umrah* som är bäst är den som utförs under *ramaḍān* då den [i belöningar] är likvärdig en vallfärd.
 
@@ -32,9 +32,9 @@ Den tredje är Qarnul-Manazil som ligger en två dagars resa [med kamel] från M
 
 Den fjärde är Yalamlam som ligger en två dagars resa [eller mer] [med kamel] från Mecka. Numera är platsen känd som as-Sa'diyyah. Folket från Jemen och de som passerar förbi går in i *iḥrām* där.
 
-Den som inte har en *mīqāt* på sin väg, denne går in i *iḥrām* när denne befinner sig i höjd med den *mīqāt* som är närmst. Det spelar ingen roll om rutten går via land, hav eller skyn.
+Den som inte har en *mīqāt* på sin väg, personen går in i *iḥrām* när personen befinner sig i höjd med den *mīqāt* som är närmst. Det spelar ingen roll om rutten går via land, hav eller skyn.
 
-Den som färdas med flygplan går in i *iḥrām* när denne når *mīqāt*-området, eller något innan, för att vara säker på att denne inte passerar det före denne har trätt in i *iḥrām*. Den som går in i *iḥrām* efter att ha passerat *mīqāt* måste offra ett djur som gottgörelse för detta misstag.
+Den som färdas med flygplan går in i *iḥrām* när personen når *mīqāt*-området, eller något innan, för att vara säker på att personen inte passerar det före personen har trätt in i *iḥrām*. Den som går in i *iḥrām* efter att ha passerat *mīqāt* måste offra ett djur som gottgörelse för detta misstag.
 
 Och Allāh vet bäst.
 

@@ -1,5 +1,5 @@
 ---
-title: Läsa sura al-Fatihah och annan åminnelse av Allāh högt efter bönen
+title: Läsa sura al-Fātiḥah och annan åminnelse av Allāh högt efter bönen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.

@@ -31,5 +31,5 @@ Du som frågeställare bör känna till att du måste råda och varna denna pers
 Vi ber Allāh den Allsmäktige att hålla dig, oss och alla muslimer säkra från Hans vrede. Han är den bäste att fråga.
 
 
-[^1]: *at-Tirmithi* 2621 och Ahmad 5:346, 355
+[^1]: *at-Tirmid̲hī* 2621 och Ahmad 5:346, 355
 [^2]: *Muslim* 82

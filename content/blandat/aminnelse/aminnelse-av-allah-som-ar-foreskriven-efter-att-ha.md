@@ -37,5 +37,5 @@ Och Allāh är Beviljaren av framgång.
 
 
 [^1]: Koranen 4:103
-[^2]: *Abū Dāwūd* 5065 och *at-Tirmithi* 3410
-[^3]: *at-Tirmithi* 3413 och *an-Nasā’ī* 1349
+[^2]: *Abū Dāwūd* 5065 och *at-Tirmid̲hī* 3410
+[^3]: *at-Tirmid̲hī* 3413 och *an-Nasā’ī* 1349

@@ -25,7 +25,7 @@ Därmed måste hela människosläktet tro på Allāhs sändebud – över honom 
 
 > ”Kämpa mot dem som, trots att de [förr] fick ta emot en uppenbarad Skrift, varken tror på Gud eller den Yttersta dagen och som inte anser som förbjudet det som Gud och Hans sändebud har förbjudit och inte iakttar den sannan religionens bud – [kämpa mot dem] till dess de erkänner sig besegrade och frivilligt betalar skyddsskatten.” [Koranen 9:29]
 
-I *Ṣaḥīḥ Muslim* återges i en *ḥadīt̲h* från Buraidah att när profeten – över honom vare Allāhs frid och välsignelser – utsåg en ledare för en arme eller expedition beordrade han denne att frukta Allāh och att behandla muslimerna i dennes följe väl: ”*Bjud inte dem till tre saker. Om de svarar på någon av dessa, acceptera det från dem och se till att inte ställa till med något skadligt för dem*.” [^1] 
+I *Ṣaḥīḥ Muslim* återges i en *ḥadīt̲h* från Buraidah att när profeten – över honom vare Allāhs frid och välsignelser – utsåg en ledare för en arme eller expedition beordrade han personen att frukta Allāh och att behandla muslimerna i personens följe väl: ”*Bjud inte dem till tre saker. Om de svarar på någon av dessa, acceptera det från dem och se till att inte ställa till med något skadligt för dem*.” [^1] 
 
 En av dessa saker är att de ska betala skyddskatten. Detta är orsaken till att den starkaste åsikten bland de lärda är att skyddskatt accepteras från andra än judar och de kristna.
 

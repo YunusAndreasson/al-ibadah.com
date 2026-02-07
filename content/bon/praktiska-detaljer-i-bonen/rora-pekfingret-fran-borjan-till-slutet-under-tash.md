@@ -1,5 +1,5 @@
 ---
-title: Röra pekfingret från början till slutet under tashahhud
+title: Röra pekfingret från början till slutet under tas̲hahhud
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.

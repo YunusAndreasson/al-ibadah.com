@@ -25,4 +25,4 @@ Profeten – över honom vare Allāhs frid och välsignelser – sagt: "*Avtalet
 Genom Allāh uppnås framgång. Må frid och välsignelser vara över profeten Muḥammad och hans familj.
 
 
-[^1]: *at-Tirmithi* 2621, *an-Nasā’ī* 464 och *Aḥmad* 5:346, 355
+[^1]: *at-Tirmid̲hī* 2621, *an-Nasā’ī* 464 och *Aḥmad* 5:346, 355

@@ -1,5 +1,5 @@
 ---
-title: Tawāf för föräldrar och släktingar
+title: Ṭawāf för föräldrar och släktingar
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -16,7 +16,6 @@ description: >-
 
 **Fråga:** Får en man göra *ṭawāf* för sina föräldrars eller en av sina avlidna släktingars räkning?
 
-**Svar:** Det är inte fel om en man utför vallfärden eller *´umrah*[^1] för någon av ens föräldrar eller en släkting. Det är heller ingen fara, om Allāh vill, att man utför *ṭawāf* för dem. Man utför sju varv och avser att belöningen ska vara för en av ens föräldrar eller släktingar.
+**Svar:** Det är inte fel om en man utför vallfärden eller *´umrah* för någon av ens föräldrar eller en släkting. Det är heller ingen fara, om Allāh vill, att man utför *ṭawāf* för dem. Man utför sju varv och avser att belöningen ska vara för en av ens föräldrar eller släktingar.
 
-[^1]: Den lilla vallfärden.
 

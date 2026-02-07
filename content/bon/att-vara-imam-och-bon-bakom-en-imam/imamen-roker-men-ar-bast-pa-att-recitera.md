@@ -20,7 +20,7 @@ description: >-
 
 Rådet har redan utfärdat ett utlåtande om detta och texten är följande:
 
-> ”Den som är imam vid fredagsbönen och den gemensamma bönen, och som röker eller rakar sitt skägg, denne måste rådas och kritiseras. Accepterar han inte rådet måste han avsättas om det är möjligt utan att det leder till splittringar. I detta fall är det tillåtet att be bakom någon annan av de rättfärdiga för att kritisera och tillrättavisa honom. Det får dock inte leda till splittring. Är det inte möjligt att be bakom någon annan, då är det tillåtet att be bakom honom för att få belöningen för att ha bett i församlingen.
+> ”Den som är imam vid fredagsbönen och den gemensamma bönen, och som röker eller rakar sitt skägg, personen måste rådas och kritiseras. Accepterar han inte rådet måste han avsättas om det är möjligt utan att det leder till splittringar. I detta fall är det tillåtet att be bakom någon annan av de rättfärdiga för att kritisera och tillrättavisa honom. Det får dock inte leda till splittring. Är det inte möjligt att be bakom någon annan, då är det tillåtet att be bakom honom för att få belöningen för att ha bett i församlingen.
 
 > Om det fruktas att bön bakom någon annan kommer att orsaka splittring, då bör de be bakom honom för att hindra uppdelningar och för att begränsa sig till det som är mindre ont. Ibn ´Umar och några till bad bakom al-Hajjaj bin Yusuf som var en mycket orättvis person. Detta gjorde de för att upprätthåla enighet och undvika splittring.”
 

@@ -1,5 +1,5 @@
 ---
-title: 'Be förmiddagsbönen [dhuhā] eller witr i efterhand'
+title: 'Be förmiddagsbönen [d̲huhā] eller witr i efterhand'
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.

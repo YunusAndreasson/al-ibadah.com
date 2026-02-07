@@ -9,12 +9,12 @@ categories:
   - Fasteinnovationer
 original_id: 385
 description: >-
-  Fråga: Under vissa högtidligheter, som ‘eidul-fitr, brukar moskén göras vacker
+  Fråga: Under vissa högtidligheter, som ´eidul-fiṭr, brukar moskén göras vacker
   med olika sorters färger, ljus och blommor. Tillåter islam detta? Vilka bevis
   finns för att det skulle vara tillåte...
 ---
 
-**Fråga:** Under vissa högtidligheter, som *‘eidul-fitr*, brukar moskén göras vacker med olika sorters färger, ljus och blommor. Tillåter islam detta? Vilka bevis finns för att det skulle vara tillåtet?
+**Fråga:** Under vissa högtidligheter, som *´eidul-fiṭr*, brukar moskén göras vacker med olika sorters färger, ljus och blommor. Tillåter islam detta? Vilka bevis finns för att det skulle vara tillåtet?
 
 **Svar:** Moskéerna är Allāhs hus och de är de bästa platserna på jorden. Allāh har beordrat att de ska äras och hedras med Hans *tawḥīd*, åminnelse av Honom och att bönen ska bes i dem. I dem lär sig folk även religionen och de vägleds till vad islam innehåller i form av lycka och rättfärdighet i detta och Nästa liv.
 

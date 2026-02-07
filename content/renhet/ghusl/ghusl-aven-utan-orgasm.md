@@ -1,5 +1,5 @@
 ---
-title: Ghusl även utan orgasm
+title: G̲husl även utan orgasm
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: '''Ishratun-Nisā wa Hill al-Khilāfāt az-Zowjiyyah – sida 54'
 categories:

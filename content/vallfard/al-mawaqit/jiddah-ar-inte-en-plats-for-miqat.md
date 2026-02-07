@@ -1,5 +1,5 @@
 ---
-title: Jiddah är ingen miqat-plats
+title: Jiddah är ingen mīqāt-plats
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.

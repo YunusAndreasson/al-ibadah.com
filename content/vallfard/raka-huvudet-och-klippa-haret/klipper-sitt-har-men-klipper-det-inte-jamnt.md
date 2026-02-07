@@ -11,12 +11,11 @@ original_id: 830
 description: >-
   Fråga: Om en pilgrim under vallfärden eller ‘umrah endast klipper sitt hår på
   båda sidorna och sedan avlägsnar sin ihrām, utan att klippa håret jämnt – vad
-  gäller då? Svar: Om denne vallfä...
+  gäller då? Svar: Om personen vallfä...
 ---
 
-**Fråga:** Om en pilgrim under vallfärden eller *´umrah*[^1] endast klipper sitt hår på båda sidorna och sedan avlägsnar sin *iḥrām*, utan att klippa håret jämnt – vad gäller då?
+**Fråga:** Om en pilgrim under vallfärden eller *´umrah* endast klipper sitt hår på båda sidorna och sedan avlägsnar sin *iḥrām*, utan att klippa håret jämnt – vad gäller då?
 
-**Svar:** Om denne vallfärdar och har utfört *ṭawāf* och kastat sten på pelarna, då är utlåtandet att denne bör ha på sig sina [vanliga] kläder och fullfölja rakningen av huvudet eller klippningen av håret. Om denne utför *´umrah*[^1], då måste denne ta av sina vanliga klädesplagg och återigen ta på plaggen för *iḥrām*. Sedan måste denne raka huvudet eller klippa håret då denne befinner sig i *iḥrām*, vilket innebär att denne bär plaggen för *iḥrām*.
+**Svar:** Om personen vallfärdar och har utfört *ṭawāf* och kastat sten på pelarna, då är utlåtandet att personen bör ha på sig sina [vanliga] kläder och fullfölja rakningen av huvudet eller klippningen av håret. Om personen utför *´umrah*, då måste personen ta av sina vanliga klädesplagg och återigen ta på plaggen för *iḥrām*. Sedan måste personen raka huvudet eller klippa håret då personen befinner sig i *iḥrām*, vilket innebär att personen bär plaggen för *iḥrām*.
 
-[^1]: Den lilla vallfärden.
 

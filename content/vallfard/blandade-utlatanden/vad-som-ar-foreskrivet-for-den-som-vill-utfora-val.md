@@ -16,27 +16,27 @@ description: >-
 
 **Fråga:** Vad är föreskrivet för den som vill vallfärda och göra *´umrah*?
 
-**Svar:** Den som bestämmer sig för att ge sig ut på en lång resa för att vallfärda, eller någon annan resa, måste betala av sina nuvarande skulder eller söka tillstånd hos dem som denne är skyldig, om denne vet att de är angelägna och oroliga över att få tillbaka sina pengar.
+**Svar:** Den som bestämmer sig för att ge sig ut på en lång resa för att vallfärda, eller någon annan resa, måste betala av sina nuvarande skulder eller söka tillstånd hos dem som personen är skyldig, om personen vet att de är angelägna och oroliga över att få tillbaka sina pengar.
 
-Sedan bör denne skriva ned sitt testamente, vad än han är ansvarig för och hans tillgångar eller vad han än kan tänkas äga.
+Sedan bör personen skriva ned sitt testamente, vad än han är ansvarig för och hans tillgångar eller vad han än kan tänkas äga.
 
-Därpå ber denne istikharah[^1]-bönen och ber sin Herre om att Han väljer det som är bäst för honom. Efter att ha gjort detta fortsätter denne i den riktning som dennes hjärta känner sig bekvämt.
+Därpå ber personen istikharah[^1]-bönen och ber sin Herre om att Han väljer det som är bäst för honom. Efter att ha gjort detta fortsätter personen i den riktning som personens hjärta känner sig bekvämt.
 
-Denne bör välja ett rättfärdigt resesällskap med människor som har kunskap och religion [för att resa med]. Likaså bör denne ta med sig islamiska böcker som denne kan ha nytta av när det gäller vallfärden och andra ting. Detta kommer även att vara nyttigt för dennes bröder.
+Personen bör välja ett rättfärdigt resesällskap med människor som har kunskap och religion [för att resa med]. Likaså bör personen ta med sig islamiska böcker som personen kan ha nytta av när det gäller vallfärden och andra ting. Detta kommer även att vara nyttigt för personens bröder.
 
-Denne bör samla en stor mängd pengar och förnödenheter för att denne ska kunna klara sig och hjälpa sina bröder om de behöver något.
+Personen bör samla en stor mängd pengar och förnödenheter för att personen ska kunna klara sig och hjälpa sina bröder om de behöver något.
 
-Denne bör ta farväl av sin familj och sina vänner när denne ger sig av på resan. Var och en av dem bör säg: ”Jag anförtror din religion, din tillit och dina slutgiltiga handlingar i Allāhs vård.”
+Personen bör ta farväl av sin familj och sina vänner när personen ger sig av på resan. Var och en av dem bör säg: ”Jag anförtror din religion, din tillit och dina slutgiltiga handlingar i Allāhs vård.”
 
-Denne bör sträva efter att enbart handla för Allāh. Denne bör inte önska något annat från sin vallfärd eller *´umrah* än Allāhs anlete. På detta sätt kommer denne inte att skadas av någon som prisar eller tillrättavisar denne.
+Personen bör sträva efter att enbart handla för Allāh. Personen bör inte önska något annat från sin vallfärd eller *´umrah* än Allāhs anlete. På detta sätt kommer personen inte att skadas av någon som prisar eller tillrättavisar personen.
 
-Sedan bör denne sträva efter att vara säker på att dennes utgifter betalas med tillåtna inkomster.
+Sedan bör personen sträva efter att vara säker på att personens utgifter betalas med tillåtna inkomster.
 
-Under resan, både på hem- och tillbakavägen, bör denne kämpa för att utföra frivillig dyrkan samt att utföra det som är en skyldighet i religionen.
+Under resan, både på hem- och tillbakavägen, bör personen kämpa för att utföra frivillig dyrkan samt att utföra det som är en skyldighet i religionen.
 
-Denne bör vara nyttig för sina bröder och denne bör dra nytta av dem med kunskap.
+Personen bör vara nyttig för sina bröder och personen bör dra nytta av dem med kunskap.
 
-Denne bör kämpa för att fullfölja de obligatoriska delarna av vallfärden och *´umrah* samt de delar från profetens – över honom vare Allāhs frid och välsignelser – *sunnah* som denne har möjlighet till. Denne bör också göra rättfärdiga handlingar. Detta bör göras i hopp om att handlingarna ska flerfaldigas [deras välsignelser].
+Personen bör kämpa för att fullfölja de obligatoriska delarna av vallfärden och *´umrah* samt de delar från profetens – över honom vare Allāhs frid och välsignelser – *sunnah* som personen har möjlighet till. Personen bör också göra rättfärdiga handlingar. Detta bör göras i hopp om att handlingarna ska flerfaldigas [deras välsignelser].
 
 Och Allāh vet bäst.
 

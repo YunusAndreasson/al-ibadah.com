@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Vissa tränger sig avsiktligen när de utför vissa riter under vallfärden. Är deras vallfärd korrekt?
 
-**Svar:** Deras vallfärd blir inte ogiltig för att de tränger sig samman, de gör dock något syndigt om de gör så utan anledning. Detta beror på att det [trängsel] leder till mycket problem för dem som vallfärdar och att de känner en motvilja mot att vallfärda. Om någon tvingas att tränga sig mot sin vilja, för att andra tränger sig, då har denne inte syndat, om Allāh vill. Detta beror på att Allāh har sagt: ”*Frukta därför Gud efter måttet av er förmåga*.” [^1]
+**Svar:** Deras vallfärd blir inte ogiltig för att de tränger sig samman, de gör dock något syndigt om de gör så utan anledning. Detta beror på att det [trängsel] leder till mycket problem för dem som vallfärdar och att de känner en motvilja mot att vallfärda. Om någon tvingas att tränga sig mot sin vilja, för att andra tränger sig, då har personen inte syndat, om Allāh vill. Detta beror på att Allāh har sagt: ”*Frukta därför Gud efter måttet av er förmåga*.” [^1]
 
 […]
 

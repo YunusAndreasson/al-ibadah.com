@@ -20,25 +20,25 @@ description: >-
 
 I *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* kan vi läsa att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Allāh förbjuder sannerligen att ni svär vid era fäder, så den som svär bör svära vid Allāh eller vara tyst.” [*Muslim* 1646, *at-Tirmithi* 1534 och *Aḥmad* 2:7]
+> ”Allāh förbjuder sannerligen att ni svär vid era fäder, så den som svär bör svära vid Allāh eller vara tyst.” [*Muslim* 1646, *at-Tirmid̲hī* 1534 och *Aḥmad* 2:7]
 
 I en annan *ḥadīt̲h* säger han:
 
-> ”… denne bör inte svära utom vid Allāh, eller så bör denne vara tyst.” [*at-Tirmithi* 1534 och *Abū Dāwūd* 3251]
+> ”… personen bör inte svära utom vid Allāh, eller så bör personen vara tyst.” [*at-Tirmid̲hī* 1534 och *Abū Dāwūd* 3251]
 
-*Abū Dāwūd* och *at-Tirmithi* återger med en autentisk kedja att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
+*Abū Dāwūd* och *at-Tirmid̲hī* återger med en autentisk kedja att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Den som svär vid något annat än Allāh har begått en handling av otro eller *s̲hirk*." [*Abū Dāwūd* 3251]
 
 Han har också sagt:
 
-> ”Den som svor vid *al-amanah*, denne tillhör inte oss.” [*Abū Dāwūd* 3253]
+> ”Den som svor vid *al-amanah*, personen tillhör inte oss.” [*Abū Dāwūd* 3253]
 
 *aḥādīt̲h* i detta ämne är många och välkända. Muslimer får endast svära vid Allāh då det inte är tillåtet att svära vid något annat än Honom – vem eller vad det än må vara. Detta grundas på den ovan nämnda *ḥadīt̲h* såväl som andra. Dem som har denna vana måste vara varse om den och förbjuda familjen, vännerna och andra från att göra så. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Om någon av er ser något ont bör han ställa det tillrätta med sin hand, är han inte förmögen att göra det, bör han göra det med sin tunga, och om han inte är förmögen att göra det, bör han hata det i sitt hjärta – och det är den lägsta formen av tro.” [*Muslim* 49, *at-Tirmithi* 2172, *Aḥmad* 3:49, 52-54 och *an-Nasā’ī* 5011]
+> ”Om någon av er ser något ont bör han ställa det tillrätta med sin hand, är han inte förmögen att göra det, bör han göra det med sin tunga, och om han inte är förmögen att göra det, bör han hata det i sitt hjärta – och det är den lägsta formen av tro.” [*Muslim* 49, *at-Tirmid̲hī* 2172, *Aḥmad* 3:49, 52-54 och *an-Nasā’ī* 5011]
 
-Att svära vid någon annan eller något annat än Allāh är, enligt de förra haditherna, en sorts mindre *s̲hirk*. Det kan dock vara en sorts större *s̲hirk* om den som svär i sitt hjärta tror att den skapade varelse som denne svär vid får glorifieras på det sätt som endast Allāh har rätt till. Det kan även vara en sorts större *s̲hirk* om denne tror att det är tillåtet att dyrka honom i stället för Allāh, eller någon annan liknande form av avgudatro.
+Att svära vid någon annan eller något annat än Allāh är, enligt de förra haditherna, en sorts mindre *s̲hirk*. Det kan dock vara en sorts större *s̲hirk* om den som svär i sitt hjärta tror att den skapade varelse som personen svär vid får glorifieras på det sätt som endast Allāh har rätt till. Det kan även vara en sorts större *s̲hirk* om personen tror att det är tillåtet att dyrka honom i stället för Allāh, eller någon annan liknande form av avgudatro.
 
 Vi ber Allāh att Han skyddar muslimerna mot detta och att Han ger dem kunskap om deras religion samt säkerhet mot det som gör Honom arg. Han är Den som hör allt och som alltid är nära.
 

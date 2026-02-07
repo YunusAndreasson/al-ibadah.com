@@ -37,13 +37,13 @@ Det finns fler verser som tydligt säger att människan får göra vinster och a
 
 > ”Om någon vill anta en religion som inte innebär underkastelse under Guds vilja kommer detta att vägras honom.” [Koranen 3:85]
 
-Även om ”bokens folk” [judarna och de kristna] till en viss grad står över de andra icke-troende är de i det Nästkommande likvärdiga med andra som inte tror. Därför lovade profeten – över honom vare Allāhs frid och välsignelser – att det inte finns någon jude eller kristen som hör honom och som sedan inte följer budskapet han lade fram utan att denne är en av Eldens invånare. De är från början icke-troende, oavsett om de följer judendomen, kristendomen eller ingen religion alls.
+Även om ”bokens folk” [judarna och de kristna] till en viss grad står över de andra icke-troende är de i det Nästkommande likvärdiga med andra som inte tror. Därför lovade profeten – över honom vare Allāhs frid och välsignelser – att det inte finns någon jude eller kristen som hör honom och som sedan inte följer budskapet han lade fram utan att personen är en av Eldens invånare. De är från början icke-troende, oavsett om de följer judendomen, kristendomen eller ingen religion alls.
 
 Regnet och annat som de får är en prövning från Allāh den Upphöjde då Han har gett dem bra saker i denna värld. När ´Umar bin al-Khattab såg märken som profeten – över honom vare Allāhs frid och välsignelser – fått från en matta under hans sömn så grät han och sade: "*Allāhs sändebud! Persien och Rom lever i prakt och du befinner dig i denna situation?*"
 
 Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Umar! Dessa människor får det som är bra när de lever i denna värld. Är du inte glad över att de får livet i denna värld och att vi får det Nästkommande?*" [^2]
 
-Dessutom drabbas de av torka, katastrofer, jordbävningar och förödande stormar. Detta är välkänt och det rapporteras ständigt om detta i radio, tidningar och annan media. Den som har ställt denna fråga är dock blind. Allāh har tagit dennes syn och därför vet denne inte vad som verkligen pågår.
+Dessutom drabbas de av torka, katastrofer, jordbävningar och förödande stormar. Detta är välkänt och det rapporteras ständigt om detta i radio, tidningar och annan media. Den som har ställt denna fråga är dock blind. Allāh har tagit personens syn och därför vet personen inte vad som verkligen pågår.
 
 Mitt rått till honom är att återvända till Allāh den Allsmäktige i ånger över dessa idéer innan döden kommer och tar honom tillbaka till hans Herre. Han bör känna till att det varken finns någon makt, prestige eller seger för oss utom om vi återvänder till islam på ett korrekt sätt som bekräftas genom ord och handling.
 

@@ -1,5 +1,5 @@
 ---
-title: Gottgörelser efter misstag i ihrām
+title: Gottgörelser efter misstag i iḥrām
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fatāwa al-shaykh Ibn ‘Uthaymīn, 22/205-206'
 categories:
@@ -8,21 +8,21 @@ categories:
 original_id: 1309
 description: >-
   Fråga: Somliga tror att om någon utför en handling som är förbjuden i ihrām så
-  har denne en valmöjlighet mellan att offra ett djur, fasta under tre dagar
+  har personen en valmöjlighet mellan att offra ett djur, fasta under tre dagar
   eller föda sex fattiga personer. Stämmer...
 ---
 
-**Fråga:** Somliga tror att om någon utför en handling som är förbjuden i *iḥrām* så har denne en valmöjlighet mellan att offra ett djur, fasta under tre dagar eller föda sex fattiga personer. Stämmer detta?
+**Fråga:** Somliga tror att om någon utför en handling som är förbjuden i *iḥrām* så har personen en valmöjlighet mellan att offra ett djur, fasta under tre dagar eller föda sex fattiga personer. Stämmer detta?
 
 **Svar:** All lovprisan tillhör Allāh. Det är otillåtet för en pilgrim som befinner sig i *iḥrām* under vallfärden eller *´umrah* att raka sitt huvud, klippa sina naglar, täcka sitt huvud med något som fästs på det, bära sydda kläder [gäller män], bära ansiktsslöja och handskar [gäller kvinnor], parfymera kläderna eller kroppen, jaga villebråd, upprätta äktenskapskontrakt och ha intim samvaro samt förspel.
 
 Om en pilgrim under *iḥrām* gör något som är förbjudet, då gäller ett av följande scenarion:
 
-1. Denne gjorde det på grund av glömska, okunskap om utlåtandet, tvång eller eftersom denne sov. I dessa fall behöver denne inte göra något [*fidyah*]
+1. Personen gjorde det på grund av glömska, okunskap om utlåtandet, tvång eller eftersom personen sov. I dessa fall behöver personen inte göra något [*fidyah*]
 
-2. Denne gjorde det avsiktligen men med en ursäkt som gör det tillåtet att göra något som vanligtvis är förbjudet. Då har denne inte syndat men denne måste offra *fidyah* på grund av det. Vi kommer att förklara detta i detalj nedan.
+2. Personen gjorde det avsiktligen men med en ursäkt som gör det tillåtet att göra något som vanligtvis är förbjudet. Då har personen inte syndat men personen måste offra *fidyah* på grund av det. Vi kommer att förklara detta i detalj nedan.
 
-3. Denne gjorde det avsiktligen och utan någon ursäkt. Då har denne syndat och måste därmed offra *fidyah*. Här finns tre olika typer:
+3. Personen gjorde det avsiktligen och utan någon ursäkt. Då har personen syndat och måste därmed offra *fidyah*. Här finns tre olika typer:
 
 1. Där det inte finns någon *fidyah*, som när man har upprättat ett äktenskapskontrakt.
 2. Där *fidyah* är att man offrar en kamel, som när man har haft intim samvaro innan det första stadiet av utträdet ur *iḥrām*.

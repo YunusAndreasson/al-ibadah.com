@@ -21,4 +21,4 @@ description: >-
 Det finns även en *ḥadīt̲h* rapporterad från ‘A’ishah där hon säger att profeten – över honom vare Allāhs frid och välsignelser – brukade be två bönecykler efter *witr* medan han satt. Visdomen i detta – och Allāh vet bäst – var att visa för folket att det är tillåtet att be efter *witr*.
 
 
-[^1]: *Abū Dāwūd* 1439 och *at-Tirmithi* 470
+[^1]: *Abū Dāwūd* 1439 och *at-Tirmid̲hī* 470

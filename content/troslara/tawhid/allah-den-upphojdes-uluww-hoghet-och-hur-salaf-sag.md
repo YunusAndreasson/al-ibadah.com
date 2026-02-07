@@ -60,13 +60,13 @@ Precis som Allāhs den Upphöjdes höghet bevisas genom texter i Hans skrift, [p
 
 Bevisen genom logiskt resonemang
 
-Det sägs: Det råder inga tvivel om att höghet är en fulländad egenskap och att motsatsen är en ofullständig egenskap. Allāhs egenskaper är fulländade och därför är det nödvändigt att bekräfta att höghet är en av Hans egenskaper. Att man bekräftar denna [egenskap] påfordrar inte en ofullständighet. Vi säger därmed att Hans höghet inte medför att någon del av Hans skapelse innesluter Honom. Den som tror att ett bekräftelsen av Hans höghet medför detta, denne har bedragit sig själv genom en sådan ide och gått vilse i sitt förnuft.
+Det sägs: Det råder inga tvivel om att höghet är en fulländad egenskap och att motsatsen är en ofullständig egenskap. Allāhs egenskaper är fulländade och därför är det nödvändigt att bekräfta att höghet är en av Hans egenskaper. Att man bekräftar denna [egenskap] påfordrar inte en ofullständighet. Vi säger därmed att Hans höghet inte medför att någon del av Hans skapelse innesluter Honom. Den som tror att ett bekräftelsen av Hans höghet medför detta, personen har bedragit sig själv genom en sådan ide och gått vilse i sitt förnuft.
 
 Bevisen genom det naturliga tillstånd som människan skapats i
 
-Den som åkallar Allāh […] riktar inte sitt hjärta mot någon annan plats än himlen. Därför finner vi att denne höjer händerna mot skyn. Detta är något omedvetet i dennes *fiṭrah*.
+Den som åkallar Allāh […] riktar inte sitt hjärta mot någon annan plats än himlen. Därför finner vi att personen höjer händerna mot skyn. Detta är något omedvetet i personens *fiṭrah*.
 
-al-Hamdani sade till Abul-Ma'ali al-Juwaini: ”*Den som är vettig säger aldrig: 'Herre!' utan att denne i sitt hjärta finner att denne ber mot vad som finns ovan*.” Här började al-Juwaini slå sin hand mot huvudet och han sade: ”*al-Hamdani har gjort bort mig! al-Hamdani har gjort bort mig*.” På detta sätt har det berättats från honom och oavsett om det är autentiskt eller inte är detta något som alla känner till.
+al-Hamdani sade till Abul-Ma'ali al-Juwaini: ”*Den som är vettig säger aldrig: 'Herre!' utan att personen i sitt hjärta finner att personen ber mot vad som finns ovan*.” Här började al-Juwaini slå sin hand mot huvudet och han sade: ”*al-Hamdani har gjort bort mig! al-Hamdani har gjort bort mig*.” På detta sätt har det berättats från honom och oavsett om det är autentiskt eller inte är detta något som alla känner till.
 
 I *Ṣaḥīḥ* *Muslim* återges i en *ḥadīt̲h* från Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – berättade om en man som sträckte sin händer mot skyn och sade: ”*Herre!* …” [fram till och med hadithens slut]. [^18]
 
@@ -86,7 +86,7 @@ Beträffande vad de säger, att Allāh den Upphöjde är i den troendes hjärta,
 
 Det är häpnadsväckande att någon flyr från tanken att Allāh den Upphöjde är ovan himlarna [vilket bevisas genom Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*], till förmån för något som det inte finns några bevis för, att Allāh finns i den troendes hjärta.
 
-Men om det som avses med att Allāh den Upphöjde är i den troendes hjärta är att denne alltid åminns sin Herre i hjärtat, då är det sant. Man ska emellertid säga det på ett sätt som visar den sanna innebörden. Ett exempel på detta är om man säger: ”Åminnelse av Allāh finns alltid i den troende tjänarens hjärta.” Men det som är uppenbart när någon säger detta är att denne vill ersätta tron på att Allāh den Upphöjde är ovan himlarna med denna falska tro. Men som vi har sagt är denna innebörd är felaktigt.
+Men om det som avses med att Allāh den Upphöjde är i den troendes hjärta är att personen alltid åminns sin Herre i hjärtat, då är det sant. Man ska emellertid säga det på ett sätt som visar den sanna innebörden. Ett exempel på detta är om man säger: ”Åminnelse av Allāh finns alltid i den troende tjänarens hjärta.” Men det som är uppenbart när någon säger detta är att personen vill ersätta tron på att Allāh den Upphöjde är ovan himlarna med denna falska tro. Men som vi har sagt är denna innebörd är felaktigt.
 
 Den troende måste vara noga med att inte avvisa det som Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och vad *salaf* – må Allāh vara nöjda med dem – var eniga bevisar till förmån för allmänna och tvivelaktiga tolkningar som kan rymma både korrekta och felaktiga förstålelser. Man måste hålla fast vid de främste av dem som antog islam bland *muhajirun* och *ansār*. Detta för att man ska räknas in i Allāhs den Upphöjdes ord:
 
@@ -110,6 +110,6 @@ Må Allāh göra oss till en av dem och må Han ge oss alla nåd. Han är sanner
 [^13]: *al-Buk̲hārī* 6313
 [^14]: Koranen 87:1
 [^15]: Koranen 2:255
-[^16]: *Abū Dāwūd* 871, *at-Tirmithi* 262 och *an-Nasā’ī* 1007
+[^16]: *Abū Dāwūd* 871, *at-Tirmid̲hī* 262 och *an-Nasā’ī* 1007
 [^17]: *Muslim* 1218
 [^18]: *Muslim* 436

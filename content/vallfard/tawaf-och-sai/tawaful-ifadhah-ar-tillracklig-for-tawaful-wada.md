@@ -1,5 +1,5 @@
 ---
-title: Tawāful-ifādhah är tillräcklig för tawāful-wadā
+title: Ṭawāful-ifāḍah är tillräcklig för ṭawāf ul-wadā´
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -9,16 +9,14 @@ categories:
   - Rundvandring och löpning
 original_id: 815
 description: >-
-  Fråga: Vilket är utlåtandet om den som skjuter upp tawāful-ifādhah till
-  tawāful-wadā och gör dem till en tawāf men avsikten att tawāful-ifādhah och
-  tawāful-wadā är tillsammans? Får man u...
+  Fråga: Vilket är utlåtandet om den som skjuter upp ṭawāful-ifāḍah till
+  ṭawāful-wadā och gör dem till en tawāf men avsikten att ṭawāful-ifāḍah och
+  ṭawāful-wadā är tillsammans? Får man u...
 ---
 
-**Fråga:** Vilket är utlåtandet om den som skjuter upp *tawāf[^1] ul-ifādhah* till *tawāf[^1] ul-wadā* och gör dem till en *ṭawāf* men avsikten att *tawāf[^1] ul-ifādhah* och *tawāf[^1] ul-wadā* är tillsammans? Får man utföra *tawāf[^1] ul-ifādhah* nattetid?
+**Fråga:** Vilket är utlåtandet om den som skjuter upp *ṭawāf ul-ifāḍah* till *ṭawāf ul-wadā´* och gör dem till en *ṭawāf* men avsikten att *ṭawāf ul-ifāḍah* och *ṭawāf ul-wadā´* är tillsammans? Får man utföra *ṭawāf ul-ifāḍah* nattetid?
 
-**Svar:** Det är inga problem om man utför *ṭawāf* när man är redo att ge sig av efter att ha utfört vallfärdsriterna. *Tawāful-ifādhah* är tillräcklig som *tawāf[^1] ul-ifādhah*, oavsett om man avser *tawāf[^1] ul-wadā* tillsammans med *tawāf[^1] ul-ifādhah* eller inte. Det som avses är att *tawāf[^1] ul-ifādhah* ensam är tillräcklig som *tawāf[^1] ul-wadā* om den utförs när man lämnar Mecka. Om man avser dem tillsammans, då är det inte några problem med det.
+**Svar:** Det är inga problem om man utför *ṭawāf* när man är redo att ge sig av efter att ha utfört vallfärdsriterna. *ṭawāful-ifāḍah* är tillräcklig som *ṭawāf ul-ifāḍah*, oavsett om man avser *ṭawāf ul-wadā´* tillsammans med *ṭawāf ul-ifāḍah* eller inte. Det som avses är att *ṭawāf ul-ifāḍah* ensam är tillräcklig som *ṭawāf ul-wadā´* om den utförs när man lämnar Mecka. Om man avser dem tillsammans, då är det inte några problem med det.
 
-Det är tillåtet att utföra *tawāf[^1] ul-ifādhah* och *tawāf[^1] ul-wadā* både under natten och under dagen.
-
-[^1]: Den sju långa rundar vandringen runt Kabah.
+Det är tillåtet att utföra *ṭawāf ul-ifāḍah* och *ṭawāf ul-wadā´* både under natten och under dagen.
 

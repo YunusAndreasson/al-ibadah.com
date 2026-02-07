@@ -21,4 +21,4 @@ description: >-
 Men har du inte fastat 29 dagar, då måste du fullborda [det antalet fastedagar]. Detta beror på att månaden inte är kortare än 29 dagar.
 
 
-[^1]: *at-Tirmithi* 697
+[^1]: *at-Tirmid̲hī* 697

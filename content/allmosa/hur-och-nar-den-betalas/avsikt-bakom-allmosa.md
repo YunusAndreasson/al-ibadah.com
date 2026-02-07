@@ -14,5 +14,5 @@ description: 'Fråga: Kan jag ge en del pengar i välgörenhet till någon som �
 
 **Fråga:** Kan jag ge en del pengar i välgörenhet till någon som är i behov när jag anser att detta är allmosa?
 
-**Svar:** Om du gav delar av dina tillgångar till en fattig med avsikten att det skulle vara allmosa för dina pengar när du gav dem till denne, då uppfyller det allmoseplikten.
+**Svar:** Om du gav delar av dina tillgångar till en fattig med avsikten att det skulle vara allmosa för dina pengar när du gav dem till personen, då uppfyller det allmoseplikten.
 

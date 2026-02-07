@@ -1,5 +1,5 @@
 ---
-title: Var sexuellt oren men gjorde inte ghusl
+title: Var sexuellt oren men gjorde inte g̲husl
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.

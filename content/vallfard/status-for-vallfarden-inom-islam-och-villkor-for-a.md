@@ -29,20 +29,20 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*All
 
 Den som förnekar att den är en skyldighet och som lever tillsammans med muslimer – är en icke-troende.
 
-Den som på grund av försummelse inte lyckas med att utföra den är i stor fara. Några av de lärda har sagt att denne är en icke-troende. Denna åsikt har berättats i en rapport från Ahmad, men den korrekta ståndpunkten är att utelämnandet av en handling inte gör någon till en icke-troende, utom när det gäller bönen.
+Den som på grund av försummelse inte lyckas med att utföra den är i stor fara. Några av de lärda har sagt att personen är en icke-troende. Denna åsikt har berättats i en rapport från Ahmad, men den korrekta ståndpunkten är att utelämnandet av en handling inte gör någon till en icke-troende, utom när det gäller bönen.
 
-'Abd-Allāh ibn Shaqīq – som var en av *tābi’īn* – har sagt: "*Allāhs sändebuds följeslagare ansåg inte att utelämnandet av någon handling utgör otro utom bönen*." Den som har struntat i att vallfärda innan denne dör är inte en icke-troende enligt den korrekta åsikten, men denne är i stor fara.
+'Abd-Allāh ibn Shaqīq – som var en av *tābi´īn* – har sagt: "*Allāhs sändebuds följeslagare ansåg inte att utelämnandet av någon handling utgör otro utom bönen*." Den som har struntat i att vallfärda innan personen dör är inte en icke-troende enligt den korrekta åsikten, men personen är i stor fara.
 
-En muslim måste frukta Allāh och skynda sig att vallfärda så fort denne uppfyller villkoren för att den ska vara obligatoriskt. Vi måste skynda oss att utföra alla obligatoriska plikter utom när det finns bevis för motsatsen.
+En muslim måste frukta Allāh och skynda sig att vallfärda så fort personen uppfyller villkoren för att den ska vara obligatoriskt. Vi måste skynda oss att utföra alla obligatoriska plikter utom när det finns bevis för motsatsen.
 
-Hur kan en muslim acceptera att avstå från att bege sig till Allāhs heliga hus när denne har möjlighet och det är lätt för denne att ta sig dit? Hur kan denne skjuta upp detta då denne inte vet om denne kommer att ha möjlighet att bege sig dit nästa år? Det kan bli omöjligt för denne att bege sig dit efter att ha haft möjligheten, eller kan denne bli fattig efter att ha varit rik, eller kan denne dö när pilgrimsfärden var obligatoriskt och arvtagarna kanske då inte vallfärdar för denne.
+Hur kan en muslim acceptera att avstå från att bege sig till Allāhs heliga hus när personen har möjlighet och det är lätt för personen att ta sig dit? Hur kan personen skjuta upp detta då personen inte vet om personen kommer att ha möjlighet att bege sig dit nästa år? Det kan bli omöjligt för personen att bege sig dit efter att ha haft möjligheten, eller kan personen bli fattig efter att ha varit rik, eller kan personen dö när pilgrimsfärden var obligatoriskt och arvtagarna kanske då inte vallfärdar för personen.
 
 Villkoren för att vallfärden ska vara obligatoriskt är fem:
 
-1. Att man är muslim, vilket är motsatsen till att vara icke-troende. En icke-troende är inte skyldig att vallfärda. Skulle denne person vallfärda så skulle den inte accepteras.
-2. Att man är vuxen. Har någon ännu inte kommit in i puberteten är vallfärden inte obligatoriskt för denne. Vallfärdar denne så räknas den som en frivillig sådan. När denne blir vuxen måste denne utföra den obligatoriska vallfärden. En vallfärd före puberteten uppfyller inte denna skyldighet.
-3. Att vara vid sunda sinnen, vilket är motsatsen till att vara galen. Den som är galen är inte skyldig att vallfärda. Pilgrimsfärden kan heller inte utföras för dennes räkning.
-4. Att vara fri. En slav är inte skyldig att vallfärda men om denne gör det räknas det som en frivillig vallfärd. Släpps slaven fri måste denne utföra den obligatoriska vallfärden. En vallfärd utförd när denne inte var fri uppfyller inte skyldigheten. Vissa lärde har sagt att om en slav vallfärdar med ägarens tillåtelse, då är detta giltigt och den behöver inte upprepas. Denna åsikt är mer korrekt.
+1. Att man är muslim, vilket är motsatsen till att vara icke-troende. En icke-troende är inte skyldig att vallfärda. Skulle personen vallfärda så skulle den inte accepteras.
+2. Att man är vuxen. Har någon ännu inte kommit in i puberteten är vallfärden inte obligatoriskt för personen. Vallfärdar personen så räknas den som en frivillig sådan. När personen blir vuxen måste personen utföra den obligatoriska vallfärden. En vallfärd före puberteten uppfyller inte denna skyldighet.
+3. Att vara vid sunda sinnen, vilket är motsatsen till att vara galen. Den som är galen är inte skyldig att vallfärda. Pilgrimsfärden kan heller inte utföras för personens räkning.
+4. Att vara fri. En slav är inte skyldig att vallfärda men om personen gör det räknas det som en frivillig vallfärd. Släpps slaven fri måste personen utföra den obligatoriska vallfärden. En vallfärd utförd när personen inte var fri uppfyller inte skyldigheten. Vissa lärde har sagt att om en slav vallfärdar med ägarens tillåtelse, då är detta giltigt och den behöver inte upprepas. Denna åsikt är mer korrekt.
 5. Att ha både finansiell och fysisk möjlighet. I en kvinnas fall innefattar detta att ha en *maḥram*. Om hon inte har en *maḥram* är hon inte skyldig att vallfärda.
 
 

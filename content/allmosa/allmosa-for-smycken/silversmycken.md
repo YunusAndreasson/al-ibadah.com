@@ -22,7 +22,7 @@ När det gäller guld är den lägsta nivån 20 *mit̲hqāl* och det är 11 ½ s
 
 Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Det finns ingen som äger guld eller silver och som inte betalar för dessa utan att eldplattor kommer att tillverkas för denne på Återuppståndelsens dag. De kommer att värmas med Helvetets eld. Sedan kommer dennes sidor, panna och rygg att brännas med dem. Varje gång de svalnar återupprepas processen för denne under en dag som kommer att vara femtiotusen år. Detta kommer att fortsätta tills domen har förkunnats bland tjänarna. Då kommer denne att se om dennes väg leder till Paradiset eller Elden.” [*Muslim* 987]
+> ”Det finns ingen som äger guld eller silver och som inte betalar för dessa utan att eldplattor kommer att tillverkas för personen på Återuppståndelsens dag. De kommer att värmas med Helvetets eld. Sedan kommer personens sidor, panna och rygg att brännas med dem. Varje gång de svalnar återupprepas processen för personen under en dag som kommer att vara femtiotusen år. Detta kommer att fortsätta tills domen har förkunnats bland tjänarna. Då kommer personen att se om personens väg leder till Paradiset eller Elden.” [*Muslim* 987]
 
 Denna *ḥadīt̲h* har Muslim återgivit i sin *Ṣaḥīḥ*.
 

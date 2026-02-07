@@ -8,14 +8,14 @@ categories:
   - Vallfärd (Hajj)
 original_id: 890
 description: >-
-  Fråga: Vad en bör muslim göra för att dennes pilgrimsfärd ska accepteras, om
+  Fråga: Vad en bör muslim göra för att personens pilgrimsfärd ska accepteras, om
   Allāh vill? Svar: All lovprisan tillhör Allāh. Det en muslim bör göra för att
-  dennes pilgrimsfärd ska acceptera...
+  personens pilgrimsfärd ska acceptera...
 ---
 
-**Fråga:** Vad en bör muslim göra för att dennes pilgrimsfärd ska accepteras, om Allāh vill?
+**Fråga:** Vad en bör muslim göra för att personens pilgrimsfärd ska accepteras, om Allāh vill?
 
-**Svar:** All lovprisan tillhör Allāh. Det en muslim bör göra för att dennes pilgrimsfärd ska accepteras är: Denne bör ha avsikten att vallfärda för Allāhs skull. Detta är uppriktighet i avsikten [*ik̲hlāṣ*]. I sin vallfärd bör denne följa Allāhs sändebuds tillvägagångssätt när han vallfärdade. Detta är att följa profetens – över honom vare Allāhs frid och välsignelser – *sunnah*.
+**Svar:** All lovprisan tillhör Allāh. Det en muslim bör göra för att personens pilgrimsfärd ska accepteras är: Personen bör ha avsikten att vallfärda för Allāhs skull. Detta är uppriktighet i avsikten [*ik̲hlāṣ*]. I sin vallfärd bör personen följa Allāhs sändebuds tillvägagångssätt när han vallfärdade. Detta är att följa profetens – över honom vare Allāhs frid och välsignelser – *sunnah*.
 
 Ingen rättfärdig handling kommer att accepteras om den inte uppfyller dessa två grundläggande villkor: uppriktighet i avsikt och att den följer profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Detta beror på att Allāh har sagt:
 
@@ -23,7 +23,7 @@ Ingen rättfärdig handling kommer att accepteras om den inte uppfyller dessa tv
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> "Handlingar döms efter avsikten. Var man kommer att få vad denne har avsett."
+> "Handlingar döms efter avsikten. Var man kommer att få vad personen har avsett."
 
 > "Den som utför en handling som inte är enligt vår sak [islam] kommer att få den avvisad."
 
@@ -45,6 +45,6 @@ Pilgrimen bör även vara vänlig, generös och lättsam med sina tillgångar oc
 
 Man måste undvika att irritera och störa muslimer på de heliga platserna, marknadsplatserna eller under de stora folksamlingarna vid matāf [området runt Ka'bah där *ṭawāf* utförs], *mas'ā*[platsen där *sa´ī* utförs], runt jamarāt och på andra platser.
 
-Detta är det som är obligatoriskt för en pilgrim eller det som denne måste utföra. Det bästa sättet för att uppnå detta är att resa med någon kunnig som kan påminna en om ens religion. Är detta inte möjligt bör man läsa böcker från de lärda innan man börjar vallfärden. Då dyrkar man Allāh med kunskap.
+Detta är det som är obligatoriskt för en pilgrim eller det som personen måste utföra. Det bästa sättet för att uppnå detta är att resa med någon kunnig som kan påminna en om ens religion. Är detta inte möjligt bör man läsa böcker från de lärda innan man börjar vallfärden. Då dyrkar man Allāh med kunskap.
 
 

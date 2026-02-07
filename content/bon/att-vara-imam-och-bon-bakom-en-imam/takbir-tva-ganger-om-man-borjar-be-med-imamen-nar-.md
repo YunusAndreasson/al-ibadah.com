@@ -22,7 +22,7 @@ När man har gjort det kommer man att befinna sig i en av de tre följande situa
 
 1. Att man är säker på att man nådde bugningen innan imamen reste sig från den. I detta fall har man hunnit med denna bönecykel och det krävs då inte att man reciterar sura *al-Fātiḥah*.
 2. Att man är säker på att imamen har rest sig upp från bugningen innan man nådde den. I detta fall har man missat denna bönecykel och man måste ta igen den.
-3. Att man är osäker på om man hann med imamen medan denne bugade eller om imamen hade rest sig upp före. I detta fall bör man utgå från det sannolikaste. Verkar det vara troligare att man gjorde bugningen med imamen, då har man hunnit med denna bönecykel. Verkar det vara troligare att man inte hann med imamen i bugningen, då har man missat denna bönecykel.
+3. Att man är osäker på om man hann med imamen medan personen bugade eller om imamen hade rest sig upp före. I detta fall bör man utgå från det sannolikaste. Verkar det vara troligare att man gjorde bugningen med imamen, då har man hunnit med denna bönecykel. Verkar det vara troligare att man inte hann med imamen i bugningen, då har man missat denna bönecykel.
 
 Om man i denna situation har missat något i bönen, då måste man nedfalla för glömska efter att ha gjort *taslīm*. Missade man inte något av bönen, som om den bönecykel som man kände tvivel om var den första och man trodde att det var sannolikare att man hunnit med den, då är nedfallandet för glömska i detta fall inte nödvändig. Detta eftersom bönen är bunden till imamens. Det är imamen som tar ansvar för nedfallandet för glömska för den som leds i bönen, så länge man inte missade något av den.
 

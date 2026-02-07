@@ -23,9 +23,8 @@ export function ContentCard({ article, featured }: ContentCardProps) {
         className={`font-sans font-semibold leading-snug mb-2 group-hover:text-foreground transition-colors ${
           featured ? 'text-lg' : 'text-base'
         }`}
-      >
-        {article.title}
-      </h3>
+        dangerouslySetInnerHTML={{ __html: article.titleHtml || article.title }}
+      />
       {description && (
         <p
           className={`text-muted-foreground ${featured ? 'text-base' : 'text-sm line-clamp-2'}`}

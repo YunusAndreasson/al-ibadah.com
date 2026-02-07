@@ -16,14 +16,14 @@ description: >-
 
 **Fråga:** Vi ber er att förklara profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Det finns varken 'Adwa, tiyarah, hamah eller safar*[^1].” [^2] Vilken sorts förbud finns i denna *ḥadīt̲h* och hur får vi ihop den med denna *ḥadīt̲h*: ”*Fly från spetälska som du skulle fly från lejon*.”? [^3]
 
-**Svar:** *‘Adwa* är när en sjukdom sprids från en sjuk person till en frisk person. Detta gäller både för sjukdomar som har med moral och andlighet att göra och sjukdomar som har med hälsa att göra. Därför har profeten – över honom vare Allāhs frid och välsignelser – informerat oss om att ha följe med en ond person är som att sitta tillsammans med en smed: Antingen bränner du dina kläder, eller kommer du i varje fall att få en dålig lukt från denne. 'Adwa innefattar då både fysiska och andliga sjukdomar.
+**Svar:** *‘Adwa* är när en sjukdom sprids från en sjuk person till en frisk person. Detta gäller både för sjukdomar som har med moral och andlighet att göra och sjukdomar som har med hälsa att göra. Därför har profeten – över honom vare Allāhs frid och välsignelser – informerat oss om att ha följe med en ond person är som att sitta tillsammans med en smed: Antingen bränner du dina kläder, eller kommer du i varje fall att få en dålig lukt från personen. 'Adwa innefattar då både fysiska och andliga sjukdomar.
 
 *Tiyarah* är när man bli pessimistisk på grund av något man har sett, hört eller fått reda på [tron på onda omen].
 
 *Hamah* har förklarats på två sätt:
 
 1. En sjukdom som drabbar någon och som sprider sig till andra. Enligt denna förklaring är det en specificering av en allmän term när den nämns efter *‘Adwa*.
-2. En välkänd fågel som araberna påstod skulle komma till en familj i vilken någon hade bragts om livet. Fågeln skulle då skrika över deras huvuden tills de hade hämnats den mördade. Vissa trodde att det möjligen var den dräptes själ som hade tagit formen av hamah. Detta är en sorts fågel som liknar en uggla. De säger också att det är en uggla som irriterar den dräptes familj med dess skrik tills de hämnas denne. De anser att detta är ett dåligt omen, så om den landar på ett av deras hem och där skrek, då skulle de säga att den skrek för dennes död och de skulle tro att dennes bortgång var nära. Detta är falskt.
+2. En välkänd fågel som araberna påstod skulle komma till en familj i vilken någon hade bragts om livet. Fågeln skulle då skrika över deras huvuden tills de hade hämnats den mördade. Vissa trodde att det möjligen var den dräptes själ som hade tagit formen av hamah. Detta är en sorts fågel som liknar en uggla. De säger också att det är en uggla som irriterar den dräptes familj med dess skrik tills de hämnas personen. De anser att detta är ett dåligt omen, så om den landar på ett av deras hem och där skrek, då skulle de säga att den skrek för personens död och de skulle tro att personens bortgång var nära. Detta är falskt.
 
 *ṣafar* har förklarats på ett antal sätt:
 
@@ -37,11 +37,11 @@ Somliga antecknar datumet när de har gjort en viss sak den 25:e *ṣafar*. De s
 
 Därför ogillade vissa *salaf* – må Allāh vara nöjda med dem – de som när de hörde en uggla hoa sade: ”Något bra, om Allāh vill.” Det är inte så att den bär med sig gott eller ont. I stället hoar den precis som andra fåglar gör.
 
-Dessa fyra företeelser som sändebudet – över honom vare Allāhs frid och välsignelser – har motsatt sig att man måste sätta sin tilltro till Allāh, att ha en uppriktig avsikt och att en muslim inte bör vara svag när denne konfronteras med dessa händelser.
+Dessa fyra företeelser som sändebudet – över honom vare Allāhs frid och välsignelser – har motsatt sig att man måste sätta sin tilltro till Allāh, att ha en uppriktig avsikt och att en muslim inte bör vara svag när personen konfronteras med dessa händelser.
 
-Lägger en muslim någon vikt vid dessa händelser kommer denne att svara på ett av följande sätt:
+Lägger en muslim någon vikt vid dessa händelser kommer personen att svara på ett av följande sätt:
 
-1. Att reagera på dem genom att antingen agera eller inte agera efter dem. Vad muslimen än gör kommer denne att ha handlat beroende av något som inte har någon sanning i sig.
+1. Att reagera på dem genom att antingen agera eller inte agera efter dem. Vad muslimen än gör kommer personen att ha handlat beroende av något som inte har någon sanning i sig.
 2. Att reagera genom att inte agera efter dem och inte lägga någon vikt vid dem, men ändå känna en viss oro. Även om detta är ett mindre ont än det första bör inte dessa antydningar besvaras och man bör sätta sin tro till Allāh den Allsmäktige.
 
 Det finns sådana som kan tänkas öppna Koranen och söka efter ett omen genom den. Ser de att något nämnas om Elden säger de: ”Detta är ett dåligt omen.” Ser de att något nämnas om Paradiset säger de: ”Detta är ett bra omen.” Saken är den att detta är precis vad man gjorde under tiden före islam när man använde slagrutor för att bestämma vad man skulle göra.
@@ -64,7 +64,7 @@ Det kan finnas en känd orsak bakom en händelse men det kan också vara så att
 
 Därför drabbas kameler ibland av skabb som sedan går över utan att kamelen avlider. På samma sätt är pest och kolera smittosamma sjukdomar som kan komma in i ett hem och drabba vissa av dem som bor i det så att de avlider, medan andra håller sig friska utan att drabbas.
 
-Man bör sätta sin tro till Allāh och lita till Honom. Det har ju rapporterats att en spetälsk man kom till profeten – över honom vare Allāhs frid och välsignelser – och att han tog denne i handen och bad denne att äta. [^7] Detta var från maten som profeten åt och han gjorde så för att han litade till Allāh. […]
+Man bör sätta sin tro till Allāh och lita till Honom. Det har ju rapporterats att en spetälsk man kom till profeten – över honom vare Allāhs frid och välsignelser – och att han tog personen i handen och bad personen att äta. [^7] Detta var från maten som profeten åt och han gjorde så för att han litade till Allāh. […]
 
 Denna metod för att göra *aḥādīt̲h* förenliga är den bästa som har lagts fram för att få ihop *aḥādīt̲h*. Somliga har påstått att några upphäver andra men detta påstående är fel då ett av villkoren för en upphävning är att det inte är möjligt att förena dem. Går det att förena dem är det en skyldighet att göra så, då får man ju med tillämpandet av båda bevisen.
 
@@ -79,4 +79,4 @@ Och Allāh är Beviljaren av framgång.
 [^4]: *al-Buk̲hārī* 5771 och *Muslim* 2221
 [^5]: *al-Buk̲hārī* 5707
 [^6]: Koranen 2:195
-[^7]: *Abū Dāwūd* 3925 och *at-Tirmithi* 1817
+[^7]: *Abū Dāwūd* 3925 och *at-Tirmid̲hī* 1817

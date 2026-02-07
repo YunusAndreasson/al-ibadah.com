@@ -1,5 +1,5 @@
 ---
-title: Föredragna handlingar under ‘eid-dagen
+title: Föredragna handlingar under ´eid-dagen
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.

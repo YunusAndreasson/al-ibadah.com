@@ -1,5 +1,5 @@
 ---
-title: Råd efter ramadan
+title: Råd efter ramaḍān
 author: al-Da’wah magazine
 source: >-
   al-Da’wah magazine, nummer 1774, sida 12 Muhammed Knut Bernström (1421),
@@ -10,25 +10,25 @@ categories:
 original_id: 1273
 description: >-
   All lovprisan tillhör Allāh. Jag undrar om den som fastade fortsatte att vara
-  så som denne var under ramadan, eller är denne ”likt den som trasslar upp
+  så som personen var under ramadan, eller är personen ”likt den som trasslar upp
   tråden när han har spunnit den” [cf. al-Nah...
 ---
 
 All lovprisan tillhör Allāh.
 
-Jag undrar om den som fastade fortsatte att vara så som denne var under *ramaḍān*, eller är denne ”likt den som trasslar upp tråden när han har spunnit den” [cf. al-Nahl 16:92]? Jag undrar om den som under *ramaḍān* fastade, reciterade och läste Koranen, gav i välgörenhet, bad om natten och åkallade kommer att vara likadan efter *ramaḍān* eller om denne kommer att följa en annan väg… Jag menar djävulens väg, så att denne syndar och gör saker som förargar den Nådrike, den Barmhärtige?
+Jag undrar om den som fastade fortsatte att vara så som personen var under *ramaḍān*, eller är personen ”likt den som trasslar upp tråden när han har spunnit den” [cf. al-Nahl 16:92]? Jag undrar om den som under *ramaḍān* fastade, reciterade och läste Koranen, gav i välgörenhet, bad om natten och åkallade kommer att vara likadan efter *ramaḍān* eller om personen kommer att följa en annan väg… Jag menar djävulens väg, så att personen syndar och gör saker som förargar den Nådrike, den Barmhärtige?
 
-Om en muslim fortsätter att med tålamod handla rättfärdigt efter *ramaḍān* är detta ett tecken på att Herren har accepterat dennes fasta. Misslyckas denne med att handla rättfärdigt efter *ramaḍān* – och följer djävulens väg – är detta ett tecken på förödmjukelse, snålhet, låg status samt att vara berövad på Allāhs hjälp. al-Hasan al-Basri har sagt:
+Om en muslim fortsätter att med tålamod handla rättfärdigt efter *ramaḍān* är detta ett tecken på att Herren har accepterat personens fasta. Misslyckas personen med att handla rättfärdigt efter *ramaḍān* – och följer djävulens väg – är detta ett tecken på förödmjukelse, snålhet, låg status samt att vara berövad på Allāhs hjälp. al-Hasan al-Basri har sagt:
 
-> ”De var inte längre av någon betydelse för Allāh, så de syndade. Om de hade spelat någon roll för Honom hade Han skyddat dem.” När någon blir oviktig för Allāh kommer Han inte längre att hedra denne. Allāh säger:
+> ”De var inte längre av någon betydelse för Allāh, så de syndade. Om de hade spelat någon roll för Honom hade Han skyddat dem.” När någon blir oviktig för Allāh kommer Han inte längre att hedra personen. Allāh säger:
 
-”Och den som Gud har förnedrat ska ingen hedra. Gud gör som Han vill.” [^4]
+”Och den som Gud har förnedrat ska ingen hedra. Gud gör som Han vill.” [^3]
 
 Det som är häpnadsväckande är att du under *ramaḍān* kan se människor som fastar och ber under natten, som ger i välgörenhet och dyrkar världarnas Herre, men precis när månaden kommit till sin ända förändras de totalt – och de börjar ha en dålig attityd mot deras Herre. Du ser dem strunta i bönen och undvika rättfärdiga handlingar, begå synder och vara olydiga mot Allāh på många olika sätt.
 
 Vid Allāh – hur hemskt är inte detta när människor enbart vill kännas vid Honom under *ramaḍān*.
 
-En muslim bör göra *ramaḍān* till en möjlighet att vända ett nytt blad, genom att ångra sig och vända sig till Allāh, hålla fast vid dyrkandet av Honom och alltid vara medveten om att Allāh hela tiden ser en. Så efter *ramaḍān* bör en muslim fortsätta att lyda Allāh, undvika synd och onda handlingar, som en fortsättning på hur denne var under *ramaḍān* och på vad denne gjorde för att komma närmare skapelsens Herre.
+En muslim bör göra *ramaḍān* till en möjlighet att vända ett nytt blad, genom att ångra sig och vända sig till Allāh, hålla fast vid dyrkandet av Honom och alltid vara medveten om att Allāh hela tiden ser en. Så efter *ramaḍān* bör en muslim fortsätta att lyda Allāh, undvika synd och onda handlingar, som en fortsättning på hur personen var under *ramaḍān* och på vad personen gjorde för att komma närmare skapelsens Herre.
 
 Allāh säger:
 
@@ -52,17 +52,17 @@ Men det återstår pelare: pilgrimsfärden, bönen och allmosan som vi är ansva
 
 Profeten – över honom vare Allāhs frid och välsignelser – lärde följeslagarna att tävla i goda handlingar och han sade:
 
-> ”En dirham kan väga mer hos Allāh än en dinar och den bästa välgörenhet är den som en man ger när denne är rik.”
+> ”En dirham kan väga mer hos Allāh än en dinar och den bästa välgörenhet är den som en man ger när personen är rik.”
 
-Han förklarade att om någon ger till välgörenhet när denne är obenägen att göra det och vid god hälsa men fruktar fattigdom, då kommer denna välgörenhet att väga tungt hos Allāh i vågen som väger handlingar. Den som skjuter upp det och först börjar spenderar här och där när denne blir sjuk med rädsla för att dennes goda handlingar ska avvisas – här finns en fara att detta inte kommer att accepteras. Vi söker vår tillflykt hos Honom. Allāh säger:
+Han förklarade att om någon ger till välgörenhet när personen är obenägen att göra det och vid god hälsa men fruktar fattigdom, då kommer denna välgörenhet att väga tungt hos Allāh i vågen som väger handlingar. Den som skjuter upp det och först börjar spenderar här och där när personen blir sjuk med rädsla för att personens goda handlingar ska avvisas – här finns en fara att detta inte kommer att accepteras. Vi söker vår tillflykt hos Honom. Allāh säger:
 
 > ”Ångerns väg är inte öppen för den som [ständigt] begår dåliga handlingar och först då döden når honom säger: 'Nu känner jag ånger', och inte heller för dem som dör som förnekare av sanningen; för dem har Vi ett plågsamt straff i beredskap.” [Koranen 4:17 – 18]
 
-Den troende som är from och uppriktig, denne bör frukta Allāh och kämpa för att alltid lyda Honom, hålla ut i sin fruktan av Allāh, alltid kämpa för att göra gott, kalla andra människor till Allāh och påbjuda det goda samt förbjuda det onda.
+Den troende som är from och uppriktig, personen bör frukta Allāh och kämpa för att alltid lyda Honom, hålla ut i sin fruktan av Allāh, alltid kämpa för att göra gott, kalla andra människor till Allāh och påbjuda det goda samt förbjuda det onda.
 
-För den troende är dennes dagar och nätter i denna värld ett lagerhus, så låt oss se vad denne kan lagra där. Lagrar denne goda handlingar kommer det att vittna till dennes fördel inför Herren på Återuppståndelsens Dag. Lagrar denne motsatsen kommer det att vara en katastrof för denne. Vi ber Allāh att Han räddar oss ifrån denna förlust.
+För den troende är personens dagar och nätter i denna värld ett lagerhus, så låt oss se vad personen kan lagra där. Lagrar personen goda handlingar kommer det att vittna till personens fördel inför Herren på Återuppståndelsens Dag. Lagrar personen motsatsen kommer det att vara en katastrof för personen. Vi ber Allāh att Han räddar oss ifrån denna förlust.
 
-De lärde har sagt: ”Ett tecken på accepterande [utav goda handlingar] är att Allāh låter en god handling följas av en annan, för [den första] goda handlingen säger: ”Min syster, min syster!” En ond handling säger även den: ”Min syster, min syster!” – vi söker vår tillflykt hos Allāh. Om Allāh har accepterat någons *ramaḍān* och om denne har dragit nytta av denna period av andlig träning och hållit sig stadig i att lyda Allāh, då har denne slagit följe med dem som håller sig stadiga och som svarar till Allāh. Allāh säger:
+De lärde har sagt: ”Ett tecken på accepterande [utav goda handlingar] är att Allāh låter en god handling följas av en annan, för [den första] goda handlingen säger: ”Min syster, min syster!” En ond handling säger även den: ”Min syster, min syster!” – vi söker vår tillflykt hos Allāh. Om Allāh har accepterat någons *ramaḍān* och om personen har dragit nytta av denna period av andlig träning och hållit sig stadig i att lyda Allāh, då har personen slagit följe med dem som håller sig stadiga och som svarar till Allāh. Allāh säger:
 
 > ”De som säger: ’Gud är vår Herre’ och som vill följa den raka vägen, till dem stiger änglarna ned [med hälsningen]: ’Ni ska inte känna någon fruktan och ingen sorg ska tunga er! Tag emot det glada budskapet att paradiset som ni har blivit lovade [väntar er]. Vi är hos er och vakar över er i detta liv och i detta liv som ska komma; och där ska allt som era själar längtar efter vara ert och det ni ber om ska ni få.” [Koranen 41:30 – 31]
 
@@ -78,25 +78,25 @@ Och Allāh säger:
 
 > ”Om ni, som ni befalls, undviker de svåraste synderna ska Vi utplåna era dåliga handlingar och föra er in [i evigheten] genom en äreport.” [Koranen 4:31]
 
-Den troende bör slå följe med dem som står stadigt och borda frälsningens skepp, ifrån det att denne uppnår mogen ålder tills denne drar sitt sista andetag. Denne bör hålla sig i skuggan av "*Lā ilāha illAllāh*" och njuta av Allāhs välsignelser. Denna religion är sanningen och det sätt som vi stadigt håller oss till den under *ramaḍān* är det som varigenom Allāh hedrar oss i Hans givande, välsignelser och stora favörer för att vi kanske ska fortsätta med att be nattbön och dyrka Honom efter *ramaḍān*.
+Den troende bör slå följe med dem som står stadigt och borda frälsningens skepp, ifrån det att personen uppnår mogen ålder tills personen drar sitt sista andetag. Personen bör hålla sig i skuggan av "*Lā ilāha illAllāh*" och njuta av Allāhs välsignelser. Denna religion är sanningen och det sätt som vi stadigt håller oss till den under *ramaḍān* är det som varigenom Allāh hedrar oss i Hans givande, välsignelser och stora favörer för att vi kanske ska fortsätta med att be nattbön och dyrka Honom efter *ramaḍān*.
 
-Glöm inte – min bror – att Allāh har välsignat dig med *i’tikāf*, Allāh har välsignat dig med att ge till välgörenhet, Allāh har välsignat dig med fastan och Allāh har välsignat dig med åkallan som har accepterats. Glöm inte – min bror – att ta till vara på dessa goda handlingar och detta stöd ifrån Allāh och låt dem inte strykas ut av dåliga handlingar. Kämpa för att så godhet och lycka i din väg, för att vara i följe med dem som håller sig stadiga i islam och som söker Allāh och boningen i det Nästkommande.
+Glöm inte – min bror – att Allāh har välsignat dig med *i´tikāf*, Allāh har välsignat dig med att ge till välgörenhet, Allāh har välsignat dig med fastan och Allāh har välsignat dig med åkallan som har accepterats. Glöm inte – min bror – att ta till vara på dessa goda handlingar och detta stöd ifrån Allāh och låt dem inte strykas ut av dåliga handlingar. Kämpa för att så godhet och lycka i din väg, för att vara i följe med dem som håller sig stadiga i islam och som söker Allāh och boningen i det Nästkommande.
 
-Där kommer det att sägas till dig: "Ta emot budskapet om Paradiset utsträckt som himlarna och jorden, förberett för den fromma för att du svarade till Allāhs kall. Du som söker det goda – fortsätt – för Allāh har några människor som kommer att frias från Helvetet. Du som söker det onda – låt bli att göra detta. Och ni svarade till profetens – över honom vare Allāhs frid och välsignelser – ord: 'Den som ber nattetid under *ramaḍān* av tro och hopp om belöningar, dennes tidigare synder kommer att förlåtas. Och den som ber under Allmaktens Natt[^2] i tro och hopp om belöningar, dennes tidigare synder kommer att förlåtas.'"
+Där kommer det att sägas till dig: "Ta emot budskapet om Paradiset utsträckt som himlarna och jorden, förberett för den fromma för att du svarade till Allāhs kall. Du som söker det goda – fortsätt – för Allāh har några människor som kommer att frias från Helvetet. Du som söker det onda – låt bli att göra detta. Och ni svarade till profetens – över honom vare Allāhs frid och välsignelser – ord: 'Den som ber nattetid under *ramaḍān* av tro och hopp om belöningar, personens tidigare synder kommer att förlåtas. Och den som ber under Allmaktens Natt[^2] i tro och hopp om belöningar, personens tidigare synder kommer att förlåtas.'"
 
-Jag ber Allāh som har välsignat oss med fastan, *i’tikāf*, *´umrah*[^3] och välgörenhet att välsigna oss med vägledning, fromhet och acceptans av våra goda handlingar. Må Han hjälpa oss att fortsätta handla gott och att hålla oss stadiga, för vidhållande i goda handlingar är ett av de största medlen för att närma sig Allāh.
+Jag ber Allāh som har välsignat oss med fastan, *i´tikāf*, *´umrah* och välgörenhet att välsigna oss med vägledning, fromhet och acceptans av våra goda handlingar. Må Han hjälpa oss att fortsätta handla gott och att hålla oss stadiga, för vidhållande i goda handlingar är ett av de största medlen för att närma sig Allāh.
 
-En man kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: "*Ge mig råd*." Han svarade: "*Säg: 'Jag tror på Allāh' och håll dig stadig*." [^5] Enligt en rapport återberättad av Ahmad sade han: "*Säg: 'Jag tror på Allāh', håll dig sedan stadig*." [Mannen] sade: "*Allāhs sändebud, alla människor säger det*." Han svarade: "*Några av de som kom före dig sade det, men de höll sig inte stadiga*." Så den troende måste hela tiden vara stadig i sin lydnad av Allāh:
+En man kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: "*Ge mig råd*." Han svarade: "*Säg: 'Jag tror på Allāh' och håll dig stadig*." [^4] Enligt en rapport återberättad av Ahmad sade han: "*Säg: 'Jag tror på Allāh', håll dig sedan stadig*." [Mannen] sade: "*Allāhs sändebud, alla människor säger det*." Han svarade: "*Några av de som kom före dig sade det, men de höll sig inte stadiga*." Så den troende måste hela tiden vara stadig i sin lydnad av Allāh:
 
 > ”Gud stärker de troende med det ord vars sanning står fast i denna värld och i evigheten; men de orättfärdiga låter Han gå vilse. – Gud gör vad Han vill.” [Koranen 14:27]
 
-Den som är stadig i sin lydnad av Allāh är den vars åkallan kommer att besvaras, den åkallan som han upprepar mer än 25 gånger: "*Led oss på den Raka Vägen*" [^6], som vi säger i *al-Fātiḥah*. Varför är det så att vi säger och starkt tror att om vi är stadiga så kommer Allāh att förlåta oss, men att vi är för lata för att tillämpa detta i praktiken?
+Den som är stadig i sin lydnad av Allāh är den vars åkallan kommer att besvaras, den åkallan som han upprepar mer än 25 gånger: "*Led oss på den Raka Vägen*" [^5], som vi säger i *al-Fātiḥah*. Varför är det så att vi säger och starkt tror att om vi är stadiga så kommer Allāh att förlåta oss, men att vi är för lata för att tillämpa detta i praktiken?
 
-Vi bör frukta Allāh och tillämpa detta i handling, tanke och ord. Vi bör sträva i "*ihdinā al-sirāt al-mustaqīm* [led oss på den raka vägen] och vi bör resa på vägen av "*iyāka na'budu wa iyyāka nasta'īn* [Dig tillber vi; Dig anropar vi om hjälp.]" [^7], i skuggan av "*ihdinā al-sirāt al-mustaqīm*" [led oss på den raka vägen], följandes den väg som kommer att leda oss till Paradiset med en vidd av himlarna och jorden och vars nyckel är "*Lā ilāha illAllāh*". Jag ber Allāh tilldela oss och dig ett gott slut.
+Vi bör frukta Allāh och tillämpa detta i handling, tanke och ord. Vi bör sträva i "*ihdinā al-sirāt al-mustaqīm* [led oss på den raka vägen] och vi bör resa på vägen av "*iyāka na'budu wa iyyāka nasta'īn* [Dig tillber vi; Dig anropar vi om hjälp.]" [^6], i skuggan av "*ihdinā al-sirāt al-mustaqīm*" [led oss på den raka vägen], följandes den väg som kommer att leda oss till Paradiset med en vidd av himlarna och jorden och vars nyckel är "*Lā ilāha illAllāh*". Jag ber Allāh tilldela oss och dig ett gott slut.
 
 När *ramaḍān* har gått till ända delas folket i olika grupper. Två av de mest framstående kommer jag att beskriva här.
 
-Den första typen är de som du i dyrkan ser kämpa hårt under *ramaḍān*. Du ser dem aldrig, men de nedfaller, står i bönen, läser Koranen eller gråter så mycket att de påminner om några av *salaf*, och du känner en medkänsla för dem på grund av deras ansträngningar. Men månaden har knappt tagit slut, innan de går tillbaka till försumlighet och synd, som om de vore fångar i denna dyrkan. De riktar deras uppmärksamhet mot deras begär och begår synder som de tror ska få deras nöd och bedrövelse att försvinna. Men dessa stackare glömmer att synder är en orsak till dom, för synder är som krigsskador – en kan visa sig vara dödlig. Hur ofta har inte synd hindrat en människa ifrån att säga "*Lā ilāha illAllāh*" när denne ligger inför döden.
+Den första typen är de som du i dyrkan ser kämpa hårt under *ramaḍān*. Du ser dem aldrig, men de nedfaller, står i bönen, läser Koranen eller gråter så mycket att de påminner om några av *salaf*, och du känner en medkänsla för dem på grund av deras ansträngningar. Men månaden har knappt tagit slut, innan de går tillbaka till försumlighet och synd, som om de vore fångar i denna dyrkan. De riktar deras uppmärksamhet mot deras begär och begår synder som de tror ska få deras nöd och bedrövelse att försvinna. Men dessa stackare glömmer att synder är en orsak till dom, för synder är som krigsskador – en kan visa sig vara dödlig. Hur ofta har inte synd hindrat en människa ifrån att säga "*Lā ilāha illAllāh*" när personen ligger inför döden.
 
 Efter att ha spenderat hela månaden i tro, läsandes Koranen och med annan dyrkan – faller de tillbaka, *lā hawla wa lā quwwata illa Billāh*. Detta är spontant dyrkande som endast erkänner Allāh vid speciella tillfällen eller vid svårigheter, men därpå finns det ingen lydnad eller dyrkan. Detta är en dålig vana.
 
@@ -120,9 +120,8 @@ Må Allāh välsigna vår profet Muhammed, hans familj och följeslagare – och
 
 [^1]: Den nionde månaden i det islamiska året. Under denna månaden fastar muslimer som inte är för svaga eller resande.
 [^2]: Laylatul-Qadr. En av de sista tio nätterna under fastemånaden. Bön under den natten är likvärdig med bön under 1000 månader.
-[^3]: Den lilla vallfärden.
 
-[^4]: Koranen 22:18
-[^5]: *Muslim* och *al-Buk̲hārī*
-[^6]: Koranen 1:6
-[^7]: Koranen 1:5
+[^3]: Koranen 22:18
+[^4]: *Muslim* och *al-Buk̲hārī*
+[^5]: Koranen 1:6
+[^6]: Koranen 1:5

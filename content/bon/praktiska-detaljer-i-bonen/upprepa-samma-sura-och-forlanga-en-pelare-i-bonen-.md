@@ -23,7 +23,7 @@ description: >-
 
 Det finns ingen invändan mot att upprepa dem. Detta grundas på den allmänna innebörden av Allāhs ord: "*Läs således ur Koranen vad ni med lätthet kan läsa*.” [^1]
 
-Beträffande bugningar och nedfallanden så får Allāhs tjänare förlänga dem enligt dennes iver, även om det är mycket mycket. Men för imamen är det minst perfekta att säga: ”*Subhana Rabbial-A’la*” tre gånger och det mest perfekta för honom är att säga det tio gånger. Den som ber bakom imamen bör glorifiera Allāh så länge imamen är kvar i bugningen eller nedfallandet. Det är tillåtet att göra somliga bönecykler längre än andra, men *sunnah* är att recitationen i den första är längre än i den andra. I bugningen och nedfallandet ska bönens pelare vara lika långa.
+Beträffande bugningar och nedfallanden så får Allāhs tjänare förlänga dem enligt personens iver, även om det är mycket mycket. Men för imamen är det minst perfekta att säga: ”*Subhana Rabbial-A’la*” tre gånger och det mest perfekta för honom är att säga det tio gånger. Den som ber bakom imamen bör glorifiera Allāh så länge imamen är kvar i bugningen eller nedfallandet. Det är tillåtet att göra somliga bönecykler längre än andra, men *sunnah* är att recitationen i den första är längre än i den andra. I bugningen och nedfallandet ska bönens pelare vara lika långa.
 
 
 [^1]: Koranen 73:20

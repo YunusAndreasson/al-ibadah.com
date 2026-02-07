@@ -21,15 +21,15 @@ description: >-
 
 Om folket åkallar Honom och regnet inte kommer till dem, då har Allāh den Upphöjde någon visdom i det och Han den Härlige, den Upphöjde vet bättre och är visare och mer barmhärtig mot de skapade varelserna än vad de är mot sig själva.
 
-Ofta kan någon tänkas be om något utan att få det, för att sedan be igen och igen utan att få det. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Ni* *kommer att få er åkallan besvarad så länge ni inte är otåliga och säger: 'Jag åkallade men jag besvarades inte*.'” [^2] Här blir denne bedrövad och överger åkallan, må Allāh skydda oss från det, trots att denne inte åkallar Allāh med ett enda ord utan att han belönas för det.
+Ofta kan någon tänkas be om något utan att få det, för att sedan be igen och igen utan att få det. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Ni* *kommer att få er åkallan besvarad så länge ni inte är otåliga och säger: 'Jag åkallade men jag besvarades inte*.'” [^2] Här blir personen bedrövad och överger åkallan, må Allāh skydda oss från det, trots att personen inte åkallar Allāh med ett enda ord utan att han belönas för det.
 
 Detta beror på att åkallan är en sorts dyrkan och den som gör det får under alla omständigheter något nyttig från det.
 
-I en *ḥadīt̲h* från profeten – över honom vare Allāhs frid och välsignelser – har det återberättats att när någon åkallar Allāh kommer ett av tre ting att hända denne: Åkallan blir besvarad, något värre ont avvärjs eller sparas den till Återuppståndelsens dag. [^3]
+I en *ḥadīt̲h* från profeten – över honom vare Allāhs frid och välsignelser – har det återberättats att när någon åkallar Allāh kommer ett av tre ting att hända personen: Åkallan blir besvarad, något värre ont avvärjs eller sparas den till Återuppståndelsens dag. [^3]
 
 Jag råder brodern som har sagt detta att vända sig till Allāh den Allsmäktige i ånger. Detta är en allvarlig synd som motsäger sig Allāhs den Upphöjdes kommendering att åkalla Honom. Det är även en överträdelse av de gränser som Allāh har satt.
 
 
 [^1]: Koranen 40:60
 [^2]: *al-Buk̲hārī* 2735
-[^3]: *at-Tirmithi* 3573
+[^3]: *at-Tirmid̲hī* 3573

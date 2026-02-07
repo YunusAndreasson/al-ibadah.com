@@ -20,7 +20,7 @@ description: >-
 
 Den korrekta åsikten är dock att församlingsbönen måste bes i moskén. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: "*Jag avsåg att beordra någon att uttala *iqāmah* för bönen och sedan beordra någon att leda folket i bön. Därefter avsåg jag att beordra några män att med buntar med eldträd gå till dem som inte var närvarande vid bönen och bränna ned deras hus över dem*." [^1]
 
-Han har även sagt: ”*Den som hörde kallet [till bön] och inte besvarade det, då finns det ingen bön för denne om denne inte har en ursäkt*.” [^2]
+Han har även sagt: ”*Den som hörde kallet [till bön] och inte besvarade det, då finns det ingen bön för personen om personen inte har en ursäkt*.” [^2]
 
 Detta trots att dessa kan ha bett i deras egna hem.
 

@@ -15,7 +15,7 @@ description: 'Fråga: Har buddisterna en Skrift? Svar: Vi känner inte till att
 
 **Fråga:** Har buddisterna en Skrift?
 
-**Svar:** Vi känner inte till att de har en uppenbarad skrift. Utlåtandet om dem är att de dyrkar avgudar och skulle någon av dem byta till den judiska eller kristna religionen, då skulle utlåtandet om denne vara enligt de två sistnämnda religionerna.
+**Svar:** Vi känner inte till att de har en uppenbarad skrift. Utlåtandet om dem är att de dyrkar avgudar och skulle någon av dem byta till den judiska eller kristna religionen, då skulle utlåtandet om personen vara enligt de två sistnämnda religionerna.
 
 Och Allāh ger all framgång.
 

@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Finns det en angiven tid för begravningsbönen? Är det tillåtet att begrava den avlidne nattetid? Skall där vara ett visst antal muslimer närvarande? Är det tillåtet att be på gravplatser och vid gravsidorna?
 
-**Svar:** Det finns ingen angiven tid för begravningsbönen då det inte finns någon angiven tid för döden. När någon avlider bör denne tvättas och svepas. Man ber över denne under vilken tid som helst under dagen eller natten. Kroppen kan även begravas under vilken tid som helst under dagen eller natten.
+**Svar:** Det finns ingen angiven tid för begravningsbönen då det inte finns någon angiven tid för döden. När någon avlider bör personen tvättas och svepas. Man ber över personen under vilken tid som helst under dagen eller natten. Kroppen kan även begravas under vilken tid som helst under dagen eller natten.
 
 Undantaget för detta är tre tillfällen då det inte är tillåtet att begrava: Från soluppgången tills solen har stigit så mycket att den kastar en skugga på ett spjut lika lång som spjutets längd, när den befinner sig vid himlens mitt tills den börjat röra sig nedåt [ungefär tio minuter före den har passerat himlens mitt] och från den tiden då solen börjar gå ned i väst till efter solnedgången. När den börjar gå ned i väst är när det återstår omkring en spjutlängd mellan den och dess nedgång.
 

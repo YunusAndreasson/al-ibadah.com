@@ -16,6 +16,6 @@ description: >-
 
 **Fråga:** Om någon fastar och ber under *ramaḍān* men sedan lämnar bönen när *ramaḍān* är över, är fastan då giltig?
 
-**Svar:** Bönen är en av islams pelare och den är den viktigaste pelaren efter de båda trosbekännelserna. Den är en obligatorisk skyldighet och den som överger den och samtidigt avvisar att den är en skyldighet eller som överger den på grund av lathet, denne har inte trott. De som fastar under *ramaḍān* och som enbart ber under denna månad försöker att bedra Allāh. Hur onda är inte dessa människor som enbart tänker på Allāh under *ramaḍān*. Deras fasta accepteras därmed inte när de överger bönen utanför *ramaḍān*.
+**Svar:** Bönen är en av islams pelare och den är den viktigaste pelaren efter de båda trosbekännelserna. Den är en obligatorisk skyldighet och den som överger den och samtidigt avvisar att den är en skyldighet eller som överger den på grund av lathet, personen har inte trott. De som fastar under *ramaḍān* och som enbart ber under denna månad försöker att bedra Allāh. Hur onda är inte dessa människor som enbart tänker på Allāh under *ramaḍān*. Deras fasta accepteras därmed inte när de överger bönen utanför *ramaḍān*.
 
 

@@ -16,6 +16,6 @@ description: >-
 
 **Fråga:** Kräver varje fastedag en avsikt eller är det tillräckligt att utforma en avsikt för hela månaden?
 
-**Svar:** Det är tillräckligt att utforma avsikten under början av *ramaḍān*. Detta beror på att även om den fastande inte utformade en avsikt för varje dag under natten som föregick så var detta dennes avsikt under början av månaden. Men om fastan bryts under månaden på grund av en resa, sjukdom eller något liknande – då måste den fastande utforma en ny avsikt då den brutits genom att fastan övergetts på grund av resa, sjukdom eller liknande.
+**Svar:** Det är tillräckligt att utforma avsikten under början av *ramaḍān*. Detta beror på att även om den fastande inte utformade en avsikt för varje dag under natten som föregick så var detta personens avsikt under början av månaden. Men om fastan bryts under månaden på grund av en resa, sjukdom eller något liknande – då måste den fastande utforma en ny avsikt då den brutits genom att fastan övergetts på grund av resa, sjukdom eller liknande.
 
 

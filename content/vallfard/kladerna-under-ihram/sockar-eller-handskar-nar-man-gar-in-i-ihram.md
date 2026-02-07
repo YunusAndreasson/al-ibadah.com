@@ -1,5 +1,5 @@
 ---
-title: Sockar eller handskar när man går in i ihrām
+title: Sockar eller handskar när man går in i iḥrām
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om att träda in i *iḥrām* medan man bär sockar eller handskar och vilka är bevisen?
 
-**Svar:** En man får inte träda in i *iḥrām* bärandes tyg- eller lädersockar om han inte kan finna två sandaler. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Och den som inte finner två sandaler, låt denne bära två lädersockar. Och den som inte kan finna ett undre midjeplagg, låt denne bära byxor*." [^3] Denna *ḥadīt̲h* är autentisk och man är eniga om den.
+**Svar:** En man får inte träda in i *iḥrām* bärandes tyg- eller lädersockar om han inte kan finna två sandaler. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Och den som inte finner två sandaler, låt personen bära två lädersockar. Och den som inte kan finna ett undre midjeplagg, låt personen bära byxor*." [^3] Denna *ḥadīt̲h* är autentisk och man är eniga om den.
 
 När det gäller en kvinna är det inga problem om hon bär lädersockar under *iḥrām*. Hon är ju *´awrah* [det som bör döljas] och att bära dem är mer täckande för henne. Om hon låter sitt klädesplagg hänga ned så att det täcker hennes fötter, då är det bra och det är tillräckligt utan att hon behöver bära sockar eller lädersockar i bönen eller vid andra tidpunkter.
 

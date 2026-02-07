@@ -1,5 +1,5 @@
 ---
-title: Byta klädesplaggen för ihrām
+title: Byta klädesplaggen för iḥrām
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.

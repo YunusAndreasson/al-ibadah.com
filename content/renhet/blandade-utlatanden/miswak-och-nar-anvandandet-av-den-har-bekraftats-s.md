@@ -1,5 +1,5 @@
 ---
-title: Miswak-användning och bekräftade tillfällen
+title: Miswāk-användning och bekräftade tillfällen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.

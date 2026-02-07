@@ -29,7 +29,7 @@ Bevisen för att det är en skyldighet för män är följande:
 1. Ett antal *aḥādīt̲h* har återberättats i vilka profeten – över honom vare Allāhs frid och välsignelser – beordrar de som antagit islam att omskära sig. [^1] Den grundläggande principen när det gäller en order är att den är en skyldighet.
 2. Omskärelse är något som särskiljer muslimer från kristna till den grad att muslimerna kunde identifiera deras stupade eftersom de var omskurna, och de sade att omskärelse är en skiljande markering. Då det är ett skiljande tecken är det obligatoriskt för muslimer att vara olika de icke-troende. Därför är det förbjudet att imitera de som inte tror, enligt profetens – över honom vare Allāhs frid och välsignelser – uttalande: ”*Den som imiterar ett folk är en av dem*.” [^2]
 3. Omskärelse är att skära bort något från kroppen. Att skära bort något från kroppen är inte tillåtet och det otillåtna blir inte tillåtet utom genom något som är obligatoriskt. Med detta som grund är omskärelse obligatoriskt.
-4. Ansvaret för att omskära den föräldralöse faller på dennes målsman och detta är ett intrång på den föräldralöses tillgångar Den som utför detta [ingreppet] kommer ju att få betalt. Om det inte vore en skyldighet skulle det inte vara tillåtet [för målsmannen] att ta något från [den föräldralöses] tillgångarna eller kroppen.
+4. Ansvaret för att omskära den föräldralöse faller på personens målsman och detta är ett intrång på den föräldralöses tillgångar Den som utför detta [ingreppet] kommer ju att få betalt. Om det inte vore en skyldighet skulle det inte vara tillåtet [för målsmannen] att ta något från [den föräldralöses] tillgångarna eller kroppen.
 
 Stöden från *aḥādīt̲h* och ett sunt förnuft bevisar att män måste omskära sig.
 

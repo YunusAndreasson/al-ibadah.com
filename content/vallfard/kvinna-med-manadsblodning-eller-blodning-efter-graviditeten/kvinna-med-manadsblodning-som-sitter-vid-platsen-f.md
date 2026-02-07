@@ -1,5 +1,5 @@
 ---
-title: Kvinna med månadsblödning som sitter vid platsen för sa’ī
+title: Kvinna med månadsblödning som sitter vid platsen för sa´ī
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.

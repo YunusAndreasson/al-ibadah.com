@@ -22,7 +22,7 @@ Det är också förbjudet att platta till marken eller mattan. I en *ḥadīt̲h
 
 Imamen är undantagen detta. Han får tilltala de närvarande och de får tilltala honom om det behövs. Utöver detta är det förbjudet. Om någon hälsar på dig med fridshälsningen, svara då endast med ett tecken. Barn ska tystas på samma sätt, utan att tala.
 
-Talar någon och denne är ovetande [om att man inte får tala], då är denne ursäktad. Insisterar denne även om denne känner till straffet för att göra det, då har denne gjort sig skyldig till ett fel. Bönen behöver dock inte upprepas.
+Talar någon och personen är ovetande [om att man inte får tala], då är personen ursäktad. Insisterar personen även om personen känner till straffet för att göra det, då har personen gjort sig skyldig till ett fel. Bönen behöver dock inte upprepas.
 
 Och Allāh vet bäst.
 

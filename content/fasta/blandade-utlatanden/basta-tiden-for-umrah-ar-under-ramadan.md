@@ -1,5 +1,5 @@
 ---
-title: Bästa tiden för ´umrah under ramadan
+title: Bästa tiden för ´umrah under ramaḍān
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Källa: Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -27,7 +27,7 @@ Och framgång kommer från Allāh.
 
 [^1]: Den lilla vallfärden.
 
-[^2]: *at-Tirmithi* 939 och *Ibn Mājah* 2994
+[^2]: *at-Tirmid̲hī* 939 och *Ibn Mājah* 2994
 [^3]: *Muslim* 1256
 [^4]: *al-Buk̲hārī* 1863 och *Muslim* 1256
 [^5]: Koranen 33:21

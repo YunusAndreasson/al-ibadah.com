@@ -10,20 +10,20 @@ categories:
   - Klädsel i bönen
 original_id: 931
 description: >-
-  Fråga: Vilket är utlåtandet om den som ber i orena klädesplagg när denne inte
+  Fråga: Vilket är utlåtandet om den som ber i orena klädesplagg när personen inte
   känner till det? Svar: Ber man i orena klädesplagg och man inte fick reda på
   att de var smutsiga förrän efter böne...
 ---
 
-**Fråga:** Vilket är utlåtandet om den som ber i orena klädesplagg när denne inte känner till det?
+**Fråga:** Vilket är utlåtandet om den som ber i orena klädesplagg när personen inte känner till det?
 
-**Svar:** Ber man i orena klädesplagg och man inte fick reda på att de var smutsiga förrän efter bönen, då är bönen giltig och man behöver inte upprepa den. Detta beror på att man gjorde denna förbjudna sak ovetandes eller i glömska. Allāh den Välsignades, den Upphöjdes säger: ”*Herre! Ställ oss inte till svars för glömska eller oavsiktliga fel*.” [^2] Och Han den Upphöjde har sagt: ”*Jag har gjort så*.” [*Muslim*]
+**Svar:** Ber man i orena klädesplagg och man inte fick reda på att de var smutsiga förrän efter bönen, då är bönen giltig och man behöver inte upprepa den. Detta beror på att man gjorde denna förbjudna sak ovetandes eller i glömska. Allāh den Välsignades, den Upphöjdes säger: ”*Herre! Ställ oss inte till svars för glömska eller oavsiktliga fel*.” [^1] Och Han den Upphöjde har sagt: ”*Jag har gjort så*.” [*Muslim*]
 
 Allāhs sändebud – över honom vare Allāhs frid och välsignelser – bad en dag i sina skor och det fanns lite smuts på dem. Under bönen kom [ängeln] Gabriel och informerade honom om det. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – tog då av dem under bönen [*al-Buk̲hārī*] utan att upprepa den.
 
-Detta bevisar att den som fick kännedom om orenheter under bönen, denne kan ta bort dem även om det sker under bönen. Denne fortsätter med bönen om dennes *´awrah*[^1] kan vara täckt när denne har tagit bort det. Den som på samma sätt glömde och sedan kom ihåg det under bönen, denne tar av sitt smutsiga klädesplagg om dennes *´awrah*[^1] då fortfarande är täckt. Men om denne har slutfört sin bön och sedan kommit ihåg det när den är över, då behöver denne inte upprepa bönen och den är giltig.
+Detta bevisar att den som fick kännedom om orenheter under bönen, personen kan ta bort dem även om det sker under bönen. Personen fortsätter med bönen om personens *´awrah* kan vara täckt när personen har tagit bort det. Den som på samma sätt glömde och sedan kom ihåg det under bönen, personen tar av sitt smutsiga klädesplagg om personens *´awrah* då fortfarande är täckt. Men om personen har slutfört sin bön och sedan kommit ihåg det när den är över, då behöver personen inte upprepa bönen och den är giltig.
 
-Detta står i motsats till den som bad och glömde att tvaga sig. Om denne exempelvis har släppt sig och glömt att tvaga sig för att sedan be och efter bönen kommer ihåg att denne inte hade tvagat sig, i detta fall måste denne upprepa bönen. Samma gäller om denne var sexuellt oren och inte kände till det. Detta kan vara någon som hade en våt dröm och bad gryningsbönen utan att göra *g̲husl* eftersom denne inte kände till detta. Om denne sedan under dagen ser sädesvätska på sina klädesplagg, då måste denne göra *g̲husl* och upprepa bönen.
+Detta står i motsats till den som bad och glömde att tvaga sig. Om personen exempelvis har släppt sig och glömt att tvaga sig för att sedan be och efter bönen kommer ihåg att personen inte hade tvagat sig, i detta fall måste personen upprepa bönen. Samma gäller om personen var sexuellt oren och inte kände till det. Detta kan vara någon som hade en våt dröm och bad gryningsbönen utan att göra *g̲husl* eftersom personen inte kände till detta. Om personen sedan under dagen ser sädesvätska på sina klädesplagg, då måste personen göra *g̲husl* och upprepa bönen.
 
 Skillnaden mellan detta och det första exemplet om orenheter är att det sistnämnda tillhör kategorin att lämna det som är förbjudet medan tvagningen och *g̲husl* tillhör kategorin att göra det som är kommenderat. Att göra det som är kommenderat är obligatoriskt, något man måste göra och som dyrkan inte är fullständig utan.
 
@@ -31,6 +31,5 @@ Men att ta bort något smutsigt är något som rör det som inte bör finnas. Om
 
 Och Allāh vet bäst.
 
-[^1]: De delar av kroppen som måste täckas.
 
-[^2]: Koranen 2:286
+[^1]: Koranen 2:286

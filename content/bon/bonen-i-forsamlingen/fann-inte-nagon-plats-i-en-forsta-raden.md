@@ -10,11 +10,11 @@ categories:
 original_id: 195
 description: >-
   Fråga: Vad gäller den som har gått in i moskén och inte funnit någon plats i
-  den första raden? Får denne dra bak någon från den första raden? Svar: Om en
+  den första raden? Får personen dra bak någon från den första raden? Svar: Om en
   man gick in i moskén, fann att raden v...
 ---
 
-**Fråga:** Vad gäller den som har gått in i moskén och inte funnit någon plats i den första raden? Får denne dra bak någon från den första raden?
+**Fråga:** Vad gäller den som har gått in i moskén och inte funnit någon plats i den första raden? Får personen dra bak någon från den första raden?
 
 **Svar:** Om en man gick in i moskén, fann att raden var full och inte kunde hitta någon plats i den, då måste han vänta tills han finner en plats eller någon annan dyker upp som han kan be med. Han kan även stå till höger om imamen. Han får inte dra någon bakåt. Den *ḥadīt̲h* som säger det är svag. Drar man bort någon från en rad skulle det även leda till att det blir ett hål i den. Profeten – över honom vare Allāhs frid och välsignelser – har ju beordrat oss att göra raderna hela.
 

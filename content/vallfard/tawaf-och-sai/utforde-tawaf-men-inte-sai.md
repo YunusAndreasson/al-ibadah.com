@@ -1,5 +1,5 @@
 ---
-title: Utförde tawāf men inte sa’ī
+title: Utförde ṭawāf men inte sa´ī
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -14,11 +14,10 @@ description: >-
   sa’ī utan att först utföra tawāf...
 ---
 
-**Fråga:** Om någon som behövde utföra *sa´ī*[^1] gjorde *ṭawāf* och utelämnade *sa´ī*[^1] och efter fem dagar informerades om att han behövde utföra *sa´ī*[^1], får han utföra *sa´ī*[^1] utan att först utföra *ṭawāf*?
+**Fråga:** Om någon som behövde utföra *sa´ī* gjorde *ṭawāf* och utelämnade *sa´ī* och efter fem dagar informerades om att han behövde utföra *sa´ī*, får han utföra *sa´ī* utan att först utföra *ṭawāf*?
 
-**Svar:** Om någon utför *ṭawāf* men tror att denne inte behöver utföra *sa´ī*[^1], för att sedan informeras om att man måste utföra *sa´ī*[^1], då måste denne endast göra *sa´ī*[^1]. Denne behöver inte göra *ṭawāf*.
+**Svar:** Om någon utför *ṭawāf* men tror att personen inte behöver utföra *sa´ī*, för att sedan informeras om att man måste utföra *sa´ī*, då måste personen endast göra *sa´ī*. Personen behöver inte göra *ṭawāf*.
 
-Anledningen är att sammanhållning utan avbrott mellan *ṭawāf* och *sa´ī*[^1] inte är ett villkor. Även om mannen lämnade det avsiktligen, att han försenade *sa´ī*[^1] efter *ṭawāf* avsiktligen, då har han inte syndat. Det är dock bättre om *sa´ī*[^1] görs direkt efter *ṭawāf*.
+Anledningen är att sammanhållning utan avbrott mellan *ṭawāf* och *sa´ī* inte är ett villkor. Även om mannen lämnade det avsiktligen, att han försenade *sa´ī* efter *ṭawāf* avsiktligen, då har han inte syndat. Det är dock bättre om *sa´ī* görs direkt efter *ṭawāf*.
 
-[^1]: Vandringen mellan as-Safa och al-Marwa.
 

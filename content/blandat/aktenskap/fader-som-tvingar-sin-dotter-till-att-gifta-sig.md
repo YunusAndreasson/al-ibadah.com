@@ -35,4 +35,4 @@ De som vittnat falskt måste därför vända sig till Allāh i ånger och dra ti
 
 [^1]: *al-Buk̲hārī* 5136 och *Muslim* 1419
 [^2]: *Muslim* 1421
-[^3]: *at-Tirmithi* 2301
+[^3]: *at-Tirmid̲hī* 2301

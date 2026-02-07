@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** De har inte syndat då de hann be gryningsbönen i *Muzdalifah* när de gick in vid böneutropet och bad gryningsbönen medan det fortfarande var mörkt. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Den som är närvarande vid denna bön och står med oss tills vi ger oss av, och innan detta har stått vid *´Arafāt* under natten och dagen, då har denne fullföljt sin vallfärd och de bestämda plikterna.” [*at-Tirmithi* 891]
+> ”Den som är närvarande vid denna bön och står med oss tills vi ger oss av, och innan detta har stått vid *´Arafāt* under natten och dagen, då har personen fullföljt sin vallfärd och de bestämda plikterna.” [*at-Tirmid̲hī* 891]
 
 De gjorde dock fel när de sköt upp bönen till efter midnatt. Tiden för nattbönen är ju fram till midnatt. Detta har bekräftats i *Ṣaḥīḥ Muslim* i en *ḥadīt̲h* från ´Abdullāh bin 'Amr bin al-'Ās.
 

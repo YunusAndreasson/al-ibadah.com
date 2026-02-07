@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Är det mer passande för imamen att lämna böneplatsen direkt efter bönen eller bör han stanna kvar en stund?
 
-**Svar:** Det är bättre om imamen väntar i riktning mot *qiblah* under den tid det tar att söka Allāhs förlåtelse tre gånger och säga: ”*Allāhumma antas-salamu wa minkas-salamu, tabarakta ya thal-jalali wal-ikram*.” Sedan bör denne vända sig i riktning mot dem som denne har lett i bön. [^1]
+**Svar:** Det är bättre om imamen väntar i riktning mot *qiblah* under den tid det tar att söka Allāhs förlåtelse tre gånger och säga: ”*Allāhumma antas-salamu wa minkas-salamu, tabarakta ya thal-jalali wal-ikram*.” Sedan bör personen vända sig i riktning mot dem som personen har lett i bön. [^1]
 
 Att stanna kvar på platsen: Om han reser sig och det innebär att han kliver över dem som har bett bakom, då är det bättre att han stannar kvar tills det finns utrymme för att lämna.
 

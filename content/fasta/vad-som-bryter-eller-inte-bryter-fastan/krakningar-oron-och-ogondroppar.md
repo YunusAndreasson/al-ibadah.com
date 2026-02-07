@@ -21,8 +21,8 @@ description: >-
 
 Likaså har den som kräks inte fått fastan förstörd. Detta beror på att Allāh inte prövar en själ med mer än vad den kan bära och den islamiska lagen är grundad på att underlätta.
 
-Detta beror på att Allāh den Upphöjde har sagt: ”*Och Han har inte lagt på er svåra eller tunga plikter i [utövningen av er] religion*.” [^1] Utöver detta finns det även andra bevis. Och det beror även på att sändebudet – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som tvingas att kräka, denne behöver inte ta igen fastan och den som får sig själv att kräka, denne måste ta igen fastan*.” [^2]
+Detta beror på att Allāh den Upphöjde har sagt: ”*Och Han har inte lagt på er svåra eller tunga plikter i [utövningen av er] religion*.” [^1] Utöver detta finns det även andra bevis. Och det beror även på att sändebudet – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som tvingas att kräka, personen behöver inte ta igen fastan och den som får sig själv att kräka, personen måste ta igen fastan*.” [^2]
 
 
 [^1]: Koranen 22:78
-[^2]: *Abū Dāwūd* 2380, *at-Tirmithi* 720 och *Ibn Mājah* 2366
+[^2]: *Abū Dāwūd* 2380, *at-Tirmid̲hī* 720 och *Ibn Mājah* 2366

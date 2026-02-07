@@ -20,7 +20,7 @@ description: >-
 
 De nödvändiga rörelserna är de som krävs för att bönen ska vara giltig. Detta kan vara om man ser smuts på ett klädesplagg och det därmed blir obligatoriskt att röra sig för att ta bort det. Anledningen är att när Jibrīl kom till profeten – över honom vare Allāhs frid och välsignelser – medan han ledde folket i bön och informerade honom om att det fanns något skadligt på hand sko, då tog han bort det när han bad. [^1]
 
-Ett annat exempel är om någon informerar en person som ber om att denne inte står i riktning mot *qiblah*, då måste dennes röra sig tills denne är vänd mot *qiblah*.
+Ett annat exempel är om någon informerar en person som ber om att personen inte står i riktning mot *qiblah*, då måste personens röra sig tills personen är vänd mot *qiblah*.
 
 Förbjudna rörelser är upprepade och onödig rörelser. Anledningen är att dessa rörelser gör bönen ogiltig som gör bönen ogiltig är förbjudet. Detta beror på är att det är en sorts hån mot Allāhs verser.
 

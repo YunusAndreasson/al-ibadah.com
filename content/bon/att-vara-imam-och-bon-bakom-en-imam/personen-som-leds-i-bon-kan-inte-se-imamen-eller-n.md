@@ -9,11 +9,11 @@ categories:
   - Imamskap
 original_id: 373
 description: 'Fråga: Vilket är utlåtandet om en bön i en moskés källare om den som
- leds i bön inte kan se imamen eller någon av dem som ber bakom honom? Denne hör
+ leds i bön inte kan se imamen eller någon av dem som ber bakom honom? Personen hör
  endast rösten från imamen genom högtalare. S...'
 ---
 
-**Fråga:** Vilket är utlåtandet om en bön i en moskés källare om den som leds i bön inte kan se imamen eller någon av dem som ber bakom honom? Denne hör endast rösten från imamen genom högtalare.
+**Fråga:** Vilket är utlåtandet om en bön i en moskés källare om den som leds i bön inte kan se imamen eller någon av dem som ber bakom honom? Personen hör endast rösten från imamen genom högtalare.
 
 **Svar:** I enlighet med den allmänna innebörden av bevisen är det inga problem om källaren är i förening med moskén.
 

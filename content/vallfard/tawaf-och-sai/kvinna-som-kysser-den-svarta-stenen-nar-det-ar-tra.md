@@ -20,7 +20,7 @@ description: >-
 
 Detta har sitt ursprung i folkets okunskap, det är okunskap som får en att känna sig ledsen.
 
-Det är inte *sunnah* att kyssa eller röra stenen, utom om det görs tillsammans med *ṭawāf*. Jag känner inte till att det är *sunnah* att röra den utanför *ṭawāf*. Och jag säger att jag inte känner till det och jag hoppas att den som har kunskap som motsäger sig vad jag vet informerar oss om det och må Allāh belöna denne med gott. Detta är då något som är *sunnah* under *ṭawāf*.
+Det är inte *sunnah* att kyssa eller röra stenen, utom om det görs tillsammans med *ṭawāf*. Jag känner inte till att det är *sunnah* att röra den utanför *ṭawāf*. Och jag säger att jag inte känner till det och jag hoppas att den som har kunskap som motsäger sig vad jag vet informerar oss om det och må Allāh belöna personen med gott. Detta är då något som är *sunnah* under *ṭawāf*.
 
 Det är då endast *sunnah* om det inte för sig något skadligt för en själv eller för någon annan. Om det finns något skadligt i det, för den som gör *ṭawāf* eller för andra, då rör vi oss till den andra nivån som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har föreskrivit för oss och det är att röra stenen med en hand och sedan kyssa handen.
 

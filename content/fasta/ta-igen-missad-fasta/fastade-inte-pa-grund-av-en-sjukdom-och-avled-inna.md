@@ -9,7 +9,7 @@ categories:
   - Ikappfasta
 original_id: 459
 description: >-
-  Fråga: En man avled under ‘eidul-fitr . Under den första eller andra dagen i
+  Fråga: En man avled under ‘eidul-fiṭr . Under den första eller andra dagen i
   fastmånaden blev han sjuk. Hela ramadan gick och han fastade inte. Behöver
   hans arvtagare då fasta för hans räkning ef...
 ---

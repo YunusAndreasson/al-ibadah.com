@@ -25,7 +25,7 @@ De lärde har beskrivit termen *ar-rafth* som "intim samvaro" och det som leder 
 
 Den argumentation som har förbjudits omfattar all argumentation som irriterar eller stör pilgrimer. Att argumentera på ett fint sätt för att klargöra sanningen eller ogiltigförklara falskhet, det är föreskrivet och det innefattas inte i den sorts argumentering som är förbjuden.
 
-Ingen av dessa tre handlingar gör vallfärden ogiltig, utom om det gäller intim samvaro som inträffar före det första stadiet innan *iḥrām* träds ur. Detta minskar dock dennes vallfärd och dess belöningar på samma sätt som de minskar tron och försvagar den.
+Ingen av dessa tre handlingar gör vallfärden ogiltig, utom om det gäller intim samvaro som inträffar före det första stadiet innan *iḥrām* träds ur. Detta minskar dock personens vallfärd och dess belöningar på samma sätt som de minskar tron och försvagar den.
 
 Under vallfärden och *´umrah* måste pilgrimen därför i lydnad av Allāh och i vilja att göra en perfekt vallfärd samt *´umrah* undvika detta.
 

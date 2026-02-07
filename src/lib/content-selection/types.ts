@@ -7,6 +7,7 @@ import type { OccasionType } from '~/lib/hijri'
 export interface CompactArticle {
   id: string
   title: string
+  titleHtml?: string
   author?: string
   description?: string
   wordCount: number

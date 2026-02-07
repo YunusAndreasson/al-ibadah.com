@@ -27,9 +27,9 @@ Allāh den Allsmäktige är visare, större, kraftfullare och förmögnare; där
 
 Den andra aspekten är en fråga om vägledning som svar på denna fråga: Den troende prövas och prövningen från Allāh, som prövar honom genom skada, har två syften. Det är en prövning av ens tro – är den stadig eller ostadig. Den sanna troende accepterar och förstår Allāhs beslut och vilja.
 
-Denne hoppas på att belönas för det och det blir då lätt för denne. Det har sagts att en troende kvinna ådrog sig en fingerskada, men hon kände ingen smärta och hon visade heller inte några tecken på bryderi. Hon tillfrågades om detta och sade: "Belönings sötma fick mig att glömma smärtans bitterhet." Den troende hoppas på belöningar från Allāh den Upphöjde och underkastar sig med total övertygelse.
+Personen hoppas på att belönas för det och det blir då lätt för personen. Det har sagts att en troende kvinna ådrog sig en fingerskada, men hon kände ingen smärta och hon visade heller inte några tecken på bryderi. Hon tillfrågades om detta och sade: "Belönings sötma fick mig att glömma smärtans bitterhet." Den troende hoppas på belöningar från Allāh den Upphöjde och underkastar sig med total övertygelse.
 
-Detta är ett syfte; när det gäller det andra, sannerligen, Allāh prisar de som tålmodigt uthärdar med stort samtycke och Han informerar dem om att Han är med dem och Han ger dem räkenskap utan någon redogörelse. Tålamod är en hög rang som ingen kan nå utom de som prövas i frågor där de behöver visa tålamodighet och uthållighet. Om man gör så, då uppnår man denna höga grad där det finns stora belöningar. Därutav gör Allāhs prövningar av den troende, genom det som skadar, det möjligt för denne att uppnå de tålmodigas grad.
+Detta är ett syfte; när det gäller det andra, sannerligen, Allāh prisar de som tålmodigt uthärdar med stort samtycke och Han informerar dem om att Han är med dem och Han ger dem räkenskap utan någon redogörelse. Tålamod är en hög rang som ingen kan nå utom de som prövas i frågor där de behöver visa tålamodighet och uthållighet. Om man gör så, då uppnår man denna höga grad där det finns stora belöningar. Därutav gör Allāhs prövningar av den troende, genom det som skadar, det möjligt för personen att uppnå de tålmodigas grad.
 
 Detta är anledningen till att profeten – som var den bäste i människosläktet i tro, fromhet och fruktan av Allāh – led av sjukdomar för två och det var extremt svårt för honom när dödens plågor kom. Detta var för att han skulle kunna nå perfektion i tålamod; och sannerligen var han den mest tålmodige av de tålmodiga. Här kan du då se visdomen i att Allāh prövar de troende med dessa svårigheter.
 
@@ -41,7 +41,7 @@ De får goda ting som en förtida kompensation för deras goda i detta livet, me
 
 I korthet: Denna världen är för de icke-troende, som de lockas in i undergång genom. När de lämnar detta livet, som de är välsignade i, för det nästa finner de bestraffning – vi söker skydd hos Allāh från detta. Straffet kommer att vara värre för dem då de där finner lidande utöver att de kommer att lida av förlusten av de saker som var dem kära i detta livet – dess välsignelser och luxuösa levande.
 
-Detta är ett tredje syfte som vi kan lägga till de två ovan nämnda, om de plågor och sjukdomar som de troende uthärdar, denne lämnar denna världen till förmån för en godhetens viloplats. Denne går från en plågad situation till en med bekvämlighet och dennes lycka över njutningen som har skänkts honom kommer att fördubblas. Denne har ju funnit bekvämlighet i stället för den smärta och svårighet som denne tidigare lidit av.
+Detta är ett tredje syfte som vi kan lägga till de två ovan nämnda, om de plågor och sjukdomar som de troende uthärdar, personen lämnar denna världen till förmån för en godhetens viloplats. Personen går från en plågad situation till en med bekvämlighet och personens lycka över njutningen som har skänkts honom kommer att fördubblas. Personen har ju funnit bekvämlighet i stället för den smärta och svårighet som personen tidigare lidit av.
 
 
 [^1]: *Muslim* 2956

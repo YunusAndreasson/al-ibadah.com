@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Om en kroppsdel som han normalt sett måste tvätta under tvagningen är skadad och han inte hade möjlighet att tvätta den eller stryka över den, då det skulle förvärra skadan eller skjuta upp läkningsprocessen, då måste han göra *tayammum* över denna kroppsdel.
 
-Och den som lämnade en skadad kroppsdel under tvagningen för att sedan be och under bönen kom ihåg att han inte gjorde *tayammum*, denne måste börja om sin bön. Detta beror på att han redan bett innan *tayammum* och den delen, inklusive *takbīr*, var inte korrekt. Det var inte rätt av honom att i första skedet, då det är ett villkor för bönen att man är ren och att lämna en del av de kroppsdelar som måste tvättas under tvagningen [eller att lämna en del av dem otvättade], betyder att tvagningen inte är korrekt.
+Och den som lämnade en skadad kroppsdel under tvagningen för att sedan be och under bönen kom ihåg att han inte gjorde *tayammum*, personen måste börja om sin bön. Detta beror på att han redan bett innan *tayammum* och den delen, inklusive *takbīr*, var inte korrekt. Det var inte rätt av honom att i första skedet, då det är ett villkor för bönen att man är ren och att lämna en del av de kroppsdelar som måste tvättas under tvagningen [eller att lämna en del av dem otvättade], betyder att tvagningen inte är korrekt.
 
 När profeten – över honom vare Allāhs frid och välsignelser – såg en man på vars fot det fanns en del som var lika stor som en dirham som vattnet inte hade nått, då beordrade han honom att göra om tvagningen. [^3] I frågeställarens fall går det inte att tvätta eller stryka över detta område. Det som krävs är att han utför det som ersätter tvagningen, och det är *tayammum*. Anledningen är den allmänna betydelsen i Allāhs ord:
 

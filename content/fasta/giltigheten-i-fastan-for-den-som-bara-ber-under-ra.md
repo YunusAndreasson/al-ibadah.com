@@ -1,22 +1,22 @@
 ---
-title: Fastans giltighet för den som bara ber under ramadan
+title: Fastans giltighet för den som bara ber under ramaḍān
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 categories:
   - Fasta (Sawm)
 original_id: 1277
 description: >-
   Fråga: Om någon fastar och ber enbart under ramadan, men slutar att be så fort
-  ramadan är över, är dennes fasta då giltig? Svar: All lovprisan tillhör Allāh.
+  ramadan är över, är personens fasta då giltig? Svar: All lovprisan tillhör Allāh.
   Bönen är en av islams pelare och d...
 ---
 
-**Fråga:** Om någon fastar och ber enbart under *ramaḍān*, men slutar att be så fort *ramaḍān* är över, är dennes fasta då giltig?
+**Fråga:** Om någon fastar och ber enbart under *ramaḍān*, men slutar att be så fort *ramaḍān* är över, är personens fasta då giltig?
 
-**Svar:** All lovprisan tillhör Allāh. Bönen är en av islams pelare och det är den viktigaste pelaren efter trosbekännelsen. Den är även en individuell skyldighet. Den som inte ber för att denne förnekar att den är obligatoriskt eller om denne inte ber för att denne är lat och dumdristig, då är denne en icke-troende.
+**Svar:** All lovprisan tillhör Allāh. Bönen är en av islams pelare och det är den viktigaste pelaren efter trosbekännelsen. Den är även en individuell skyldighet. Den som inte ber för att personen förnekar att den är obligatoriskt eller om personen inte ber för att personen är lat och dumdristig, då är personen en icke-troende.
 
 Dem som endast fastar och ber under *ramaḍān* försöker att lura Allāh. Hur dåliga är inte de som endast erkänner Allāh under *ramaḍān*. Deras fasta är inte giltig om de endast ber under *ramaḍān*. Genom att göra detta är de i stället icke-troende som gör sig skyldiga till stor otro, även om de inte förnekar att bönen är obligatorisk. Detta är enligt den mer korrekta av de båda åsikterna som de lärde har.
 
-Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Förbundet som skiljer oss från dem är bönen. Den som inte ber är en icke-troende.” [Återberättad av imam Ahmad 22428, at-Tirmithi 2621, an-Nasā’i 431, Ibn Mājah 1079 – med en berättarkedja som är *Ṣaḥīḥ* från Buraydah al-Aslami] Och profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Huvudfrågan är islam, dess pelare är bönen och dess höjd är djihād[^1] för Allāhs sak*.” [Imam at-Tirmithi 2616 med en berättarkedja som är *Ṣaḥīḥ* från Mu'ādh ibn Jabal] Och profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Mellan en människa och otro samt *shirk* står dennes övergivande av bönen*.” [Återberättad av imam Muslim i hans *Ṣaḥīḥ* [82] från Jābir ibn 'Abd-Allāh al-Ansāri] Det finns flera liknande *aḥādīt̲h*.
+Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Förbundet som skiljer oss från dem är bönen. Den som inte ber är en icke-troende.” [Återberättad av imam Ahmad 22428, at-Tirmithi 2621, an-Nasā’i 431, Ibn Mājah 1079 – med en berättarkedja som är *Ṣaḥīḥ* från Buraydah al-Aslami] Och profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Huvudfrågan är islam, dess pelare är bönen och dess höjd är djihād[^1] för Allāhs sak*.” [Imam at-Tirmithi 2616 med en berättarkedja som är *Ṣaḥīḥ* från Mu'ādh ibn Jabal] Och profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Mellan en människa och otro samt *shirk* står personens övergivande av bönen*.” [Återberättad av imam Muslim i hans *Ṣaḥīḥ* [82] från Jābir ibn 'Abd-Allāh al-Ansāri] Det finns flera liknande *aḥādīt̲h*.
 
 Och Allāh är källan till all styrka. Må Allāh sända välsignelser och frid över vår profet Muḥammad, hans familj och följeslagare.
 

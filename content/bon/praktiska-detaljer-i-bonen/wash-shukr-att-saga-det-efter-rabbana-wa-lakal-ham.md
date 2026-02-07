@@ -1,5 +1,5 @@
 ---
-title: ”Wash-shukr” – att säga det efter ”Rabbana wa lakal-hamd”
+title: '"Was̲h-s̲hukr" – att säga det efter "Rabbana wa lakal-ḥamd"'
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.

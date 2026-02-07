@@ -1,5 +1,5 @@
 ---
-title: Fasta de sex dagarna i shawwal innan man fastar för en gottgörelse
+title: Fasta de sex dagarna i s̲hawwāl innan man fastar för en gottgörelse
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.

@@ -1,5 +1,5 @@
 ---
-title: Sova efter intim samvaro innan man har gjort ghusl
+title: Sova efter intim samvaro innan man har gjort g̲husl
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
@@ -11,14 +11,14 @@ original_id: 166
 description: >-
   Fråga: Jag hade intim samvaro och efter det lade jag mig för att sova. Det
   sades sedan till mig att den som har haft intim samvaro i varje fall måste
-  tvaga sig om denne vill sova eller äta. Andra ...
+  tvaga sig om personen vill sova eller äta. Andra ...
 ---
 
-**Fråga:** Jag hade intim samvaro och efter det lade jag mig för att sova. Det sades sedan till mig att den som har haft intim samvaro i varje fall måste tvaga sig om denne vill sova eller äta. Andra har sagt att det inte är obligatoriskt men att föredra. Vänligen, ge mig ett utlåtande. Må Allāh belöna er.
+**Fråga:** Jag hade intim samvaro och efter det lade jag mig för att sova. Det sades sedan till mig att den som har haft intim samvaro i varje fall måste tvaga sig om personen vill sova eller äta. Andra har sagt att det inte är obligatoriskt men att föredra. Vänligen, ge mig ett utlåtande. Må Allāh belöna er.
 
-**Svar:** För den som befinner sig i den stora rituella orenheten är det *sunnah* att tvätta könsdelarna och tvaga sig innan denne sover, äter eller har intim samvaro igen. Det är inte en skyldighet, även om det är rekommenderat, innan man sover.
+**Svar:** För den som befinner sig i den stora rituella orenheten är det *sunnah* att tvätta könsdelarna och tvaga sig innan personen sover, äter eller har intim samvaro igen. Det är inte en skyldighet, även om det är rekommenderat, innan man sover.
 
-'Umar – må Allāh vara nöjd med honom – har sagt: "*Allāhs sändebud! Får någon av oss sova i den stora rituella orenheten*?" Han svarade: "*Ja, om denne tvagar sig*."
+'Umar – må Allāh vara nöjd med honom – har sagt: "*Allāhs sändebud! Får någon av oss sova i den stora rituella orenheten*?" Han svarade: "*Ja, om personen tvagar sig*."
 
 Därmed är det inte en synd att sova innan *g̲husl* även om man inte har tvagat sig. Anledningen är att det har rapporterats att profeten – över honom vare Allāhs frid och välsignelser – ibland brukade sova utan att tvaga sig då han befann sig i den stora rituella orenheten.
 

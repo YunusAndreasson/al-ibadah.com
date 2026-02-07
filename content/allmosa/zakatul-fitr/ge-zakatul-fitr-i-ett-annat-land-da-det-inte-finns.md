@@ -1,5 +1,5 @@
 ---
-title: Zakātul-fitr till annat land
+title: Zakātul-fiṭr till annat land
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Majmoo’ Fatāwa al-´Uthaymīn, 18/fråga 102'
 categories:

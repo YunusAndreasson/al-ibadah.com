@@ -10,11 +10,11 @@ categories:
 original_id: 84
 description: >-
   Fråga: Den troende kommer att ställas till svars på Återuppståndelsens Dag; om
-  vad denne har gjort är bra, då får denne ta emot gott och om det är ont, då
-  får denne ta emot ont. Men hur kommer den...
+  vad personen har gjort är bra, då får personen ta emot gott och om det är ont, då
+  får personen ta emot ont. Men hur kommer den...
 ---
 
-**Fråga:** Den troende kommer att ställas till svars på Återuppståndelsens Dag; om vad denne har gjort är bra, då får denne ta emot gott och om det är ont, då får denne ta emot ont. Men hur kommer den icke-troende att ställas till svars då denne inte har samma skyldigheter som den troende?
+**Fråga:** Den troende kommer att ställas till svars på Återuppståndelsens Dag; om vad personen har gjort är bra, då får personen ta emot gott och om det är ont, då får personen ta emot ont. Men hur kommer den icke-troende att ställas till svars då personen inte har samma skyldigheter som den troende?
 
 **Svar:** Denna fråga beror på en felaktig förståelse. Den icke-troende har samma skyldigheter som den troende, men den icke-troende följer inte dem i detta livet. Beviset för att den icke-troende ställs till ansvar på samma sätt är Allāhs ord:
 
@@ -22,7 +22,7 @@ description: >-
 
 Hade de inte varit påverkade av deras okunskap om bönen och att ge till de fattiga, då hade de inte nämnt det. Detta är ett bevis för att de kommer att straffas då de inte har utövat islam. På samma sätt som bevis från Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* kräver detta gör även sunt förnuft det. 
 
-Om Allāh den Upphöjde straffar den troende tjänaren för att denne har misslyckats med att uppfylla sina skyldigheter i religionen – varför skulle Han då inte straffa den icke-troende? Sannerligen ska jag gå ännu längre: Den icke-troende kommer att straffas för sitt misslyckande med det som Allāh har välsignat honom med i form av mat, dryck och andra saker.
+Om Allāh den Upphöjde straffar den troende tjänaren för att personen har misslyckats med att uppfylla sina skyldigheter i religionen – varför skulle Han då inte straffa den icke-troende? Sannerligen ska jag gå ännu längre: Den icke-troende kommer att straffas för sitt misslyckande med det som Allāh har välsignat honom med i form av mat, dryck och andra saker.
 
 Allāh den Upphöjde säger:
 
@@ -32,9 +32,9 @@ Texten i denna vers klargör att den troende inte har någon skuld i fråga om v
 
 > ”Säg: 'Vem har förbjudit de sköna ting som Gud har skänkt Sina tjänare och allt det goda som Han har gett dem för deras försörjning?' Säg: 'Allt detta tillkommer i detta liv dem som tror, och på Uppståndelsens dag ska det vara dem [ensamma] förbehåller.' Så framställer Vi [Våra] budskap fast och klart för alla insiktsfulla människor.” [Koranen 7:32]
 
-Han säger: ”*Säg: 'Allt detta tillkommer i detta liv dem som tror*…” Detta är ett bevis för att den icke-troende inte har rätt att njuta av dem. Jag säger: Denne har ingen laga rätt.
+Han säger: ”*Säg: 'Allt detta tillkommer i detta liv dem som tror*…” Detta är ett bevis för att den icke-troende inte har rätt att njuta av dem. Jag säger: Personen har ingen laga rätt.
 
-I fråga om rätten avseende sakers universella ordning så har Allāh skapat dem och den icke-troende drar nytta av dem och ingen motsäger sig detta. Detta är bevis för att den icke-troende också kommer att hållas ansvarig för de tillåtna saker som denne äter och bär.
+I fråga om rätten avseende sakers universella ordning så har Allāh skapat dem och den icke-troende drar nytta av dem och ingen motsäger sig detta. Detta är bevis för att den icke-troende också kommer att hållas ansvarig för de tillåtna saker som personen äter och bär.
 
 Precis som bevisen från Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* gör detta till en nödvändighet gör även det sunda förnuftet det eftersom – rent logiskt – hur skulle den icke-troende som inte lyder Allāh och som inte tror på Honom få njuta av det som Allāh har skapat och skänkt Hans tjänare?
 

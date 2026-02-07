@@ -149,7 +149,7 @@ Det är dessa som Allāhs nåd omsluter och som förtjänar Hans prisande – de
 
 /…/
 
-Om någon vill studera denna fråga vidare, då bör denne vända sig till Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Den som begrundar Koranens verser och de autentiska *aḥādīt̲h* från profeten, och som studerar det som autentisk har nedtecknats i historien – utan att vara vinklat – och som inte förlitar sig på ytlig spekulation, denne kommer då att tydligt se sanningen och vägledas till den raka vägen.
+Om någon vill studera denna fråga vidare, då bör personen vända sig till Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Den som begrundar Koranens verser och de autentiska *aḥādīt̲h* från profeten, och som studerar det som autentisk har nedtecknats i historien – utan att vara vinklat – och som inte förlitar sig på ytlig spekulation, personen kommer då att tydligt se sanningen och vägledas till den raka vägen.
 
 Må frid och välsignelser vara över Muḥammad, hans familj och hans följeslagare.
 

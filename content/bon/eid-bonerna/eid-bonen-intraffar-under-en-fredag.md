@@ -1,5 +1,5 @@
 ---
-title: ‘Eid-bönen inträffar under en fredag
+title: ´Eid-bönen inträffar under en fredag
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Den som bad *´eid* under fredagen behöver inte närvara vid fredagsbönen den dagen. Detta gäller dock inte imamen som måste be den med dem som vill närvara, både de som bad *´eid*-bönen och de som inte gjorde det. Är ingen närvarande vid fredagsbönen behöver han inte be den och han kan då be middagsbönen. Som bevis för detta citerar de lärde en återberättelse i Abū Dawūds *Sunan* från Abi Ramlah ash-Shami där han säger:
 
-> ”Jag såg när Mu'awiyah bin Abi Sufyan fråga från Zaid bin Arqam: 'Bevittnade du med Allāhs sändebud – över honom vare Allāhs frid och välsignelser – när två ‘*´eid* inträffade under samma dag.' Han svarade: 'Ja.” Han frågade: 'Och vad gjorde han?' Han svarade: 'Han bad ‘*´eid*. Sedan gav han tillåtelse för dem som ville be fredagsbönen att göra det, genom att säga: 'Den som vill be, låt denne be.'” [*Abū Dāwūd* 1070]
+> ”Jag såg när Mu'awiyah bin Abi Sufyan fråga från Zaid bin Arqam: 'Bevittnade du med Allāhs sändebud – över honom vare Allāhs frid och välsignelser – när två ‘*´eid* inträffade under samma dag.' Han svarade: 'Ja.” Han frågade: 'Och vad gjorde han?' Han svarade: 'Han bad ‘*´eid*. Sedan gav han tillåtelse för dem som ville be fredagsbönen att göra det, genom att säga: 'Den som vill be, låt personen be.'” [*Abū Dāwūd* 1070]
 
 Som bevis citeras även en annan återberättelse från *Abū Dāwūd* i hans *Sunan* där Abū Hurairah berättar att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
 

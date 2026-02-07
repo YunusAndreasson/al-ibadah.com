@@ -1,5 +1,6 @@
 ---
 import { ShareButton } from '~/components/ui/ShareButton'
+import { renderTitle } from '~/lib/render-title'
 
 interface Props {
   title: string
@@ -12,7 +13,7 @@ const { title, author, source } = Astro.props
 
 <article class="mt-8 max-w-[65ch]">
   <header class="mb-10 sm:mb-12">
-    <h1 class="page-title mb-5">{title}</h1>
+    <h1 class="page-title mb-5" set:html={renderTitle(title)} />
 
     {(author || source) && (
       <div class="space-y-1 mb-3">

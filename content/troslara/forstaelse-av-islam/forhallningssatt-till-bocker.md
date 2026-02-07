@@ -8,7 +8,7 @@ categories:
 original_id: 487
 description: >-
   Fråga: Hur bör en muslim hantera böcker om islam? Svar: All lovprisan tillhör
-  Allāh. Hur denne bör förhålla sig till boken Detta innefattar flera saker:
+  Allāh. Hur personen bör förhålla sig till boken Detta innefattar flera saker:
   Känna till bokens ämne f...
 ---
 
@@ -16,7 +16,7 @@ description: >-
 
 **Svar:** All lovprisan tillhör Allāh.
 
-Hur denne bör förhålla sig till boken
+Hur personen bör förhålla sig till boken
 
 Detta innefattar flera saker:
 
@@ -24,7 +24,7 @@ Detta innefattar flera saker:
 2. Känna till bokens terminologi. Kunskap om detta betyder att du sparar mycket tid. Detta är vad de islamiskt lärde gör i introduktionerna till deras böcker. Vi vet exempelvis att när författaren till *Bulūg̲h al-Marām* säger ”samstämmighet” betyder det att en *ḥadīt̲h* har återberättats av al-Bukhārī och Muslim. al-Muntaqās författare har dock använt denna fras på ett annat sätt. När han säger ”samstämmighet” avser han att en *ḥadīt̲h* har återberättats av imam Ahmad, al-Bukhārī och Muslim. Detsamma gäller böcker om *fiqh*. Här använder de lärde ord som *qawlayn*, *wajhayn*, *riwāyatayn* och *ihtimālayn* på olika sätt. *Riwāyatayn* betyder två rapporter från imamen, *wajhayn* betyder två åsikter bland följeslagarna [följeslagarna till ledaren för aktuell *madhhab*] och *ihtimālayn* används i fall där det är osäkert om vilken åsikt som är den korrekta.
 3. Vi måste även känna till vad författaren menar när han skriver *ijmā'* eller *wifāq*. Om författaren säger att *ijmā'* avses konsensus i samfundet och om han säger *wifāq* avses samstämmighet med de tre imamerna. På detta sätt använder författarna termen i *al-Furū'* som handlar om den hanbalitiska rättsskolan. Samtidigt har följeslagarna av varje rättsskola deras egna terminologier. Därför är det viktigt att känna till hur författaren använder dem.
 4. Känna till stilen och fraserna som används i boken. När du då läser en bok för första gången, speciellt akademiska böcker med mycket information, kommer du att märka att det finns fraser vars mening du måste begrunda då du inte känner till dem. Men läser du boken igen, då kommer du att bli bekant med den.
-5. Man måste även marginalanteckna vid bladets sida eller fot. Detta måste den som söker kunskap verkligen utnyttja till fullo. Stöter denne person på någonting som kräver en utförligare förklaring eller bevis, och denne är rädd för att glömma bort det, då kan denne göra en anteckning. Många missar ofta denna fördel [som marginalanteckningar medför] då de inte tar sig tid att göra dessa noteringar. När denne sedan återkommer så kan denne ha glömt bort det.
+5. Man måste även marginalanteckna vid bladets sida eller fot. Detta måste den som söker kunskap verkligen utnyttja till fullo. Stöter personen på någonting som kräver en utförligare förklaring eller bevis, och personen är rädd för att glömma bort det, då kan personen göra en anteckning. Många missar ofta denna fördel [som marginalanteckningar medför] då de inte tar sig tid att göra dessa noteringar. När personen sedan återkommer så kan personen ha glömt bort det.
 6. Detta är extra viktigt vid studier av *fiqh*-böcker då ett utlåtande eller en förklaring kan skapa funderingar eller tvivel. Studerar du den bestämda frågan vidare i en mer omfattande bok, och finner ett svar där, då bör du göra en anteckning för att referera till den utan att behöva slå upp i boken som du har citerat från vid nästa tillfälle du läser detta. Detta sparar tid.
 
 Två läsmetoder

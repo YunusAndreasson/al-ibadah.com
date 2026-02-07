@@ -8,11 +8,11 @@ categories:
   - Besparingar och lön
 original_id: 607
 description: 'Fråga: En person har sparat en summa pengar från egna förtjänster.
- Den största delen har denne haft i sin ägo under ett år men han har spenderat dem
+ Den största delen har personen haft i sin ägo under ett år men han har spenderat dem
  på vissa saker som kan ge nytta. Därför ställer...'
 ---
 
-**Fråga:** En person har sparat en summa pengar från egna förtjänster. Den största delen har denne haft i sin ägo under ett år men han har spenderat dem på vissa saker som kan ge nytta. Därför ställer nu denne frågan om allmosan måste betalas för denna summa.
+**Fråga:** En person har sparat en summa pengar från egna förtjänster. Den största delen har personen haft i sin ägo under ett år men han har spenderat dem på vissa saker som kan ge nytta. Därför ställer nu personen frågan om allmosan måste betalas för denna summa.
 
-**Svar:** De egendomar som denne har sparat och ägt under ett år, medan de har nått det lägsta beloppet, krävs det allmosa för. Så är fallet även om denne efteråt har spenderat en del på giftermål eller något liknande. Om denne inte har betalat den allmosa som tillgångarna har krävt, då är det fortfarande ett krav och denne har detta ansvar. Denne måste betala detta. Men om denne inte har haft tillgångarna under ett år, eftersom denne har spenderat dem före ett års tid, då krävs ingen allmosa för dem.
+**Svar:** De egendomar som personen har sparat och ägt under ett år, medan de har nått det lägsta beloppet, krävs det allmosa för. Så är fallet även om personen efteråt har spenderat en del på giftermål eller något liknande. Om personen inte har betalat den allmosa som tillgångarna har krävt, då är det fortfarande ett krav och personen har detta ansvar. Personen måste betala detta. Men om personen inte har haft tillgångarna under ett år, eftersom personen har spenderat dem före ett års tid, då krävs ingen allmosa för dem.
 

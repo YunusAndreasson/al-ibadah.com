@@ -14,13 +14,13 @@ description: >-
   näsdroppar. Även om smaken känns i halsen b...
 ---
 
-**Fråga:** Vilket är utlåtandet om att en fastande använder *kohl*[^1]?
+**Fråga:** Vilket är utlåtandet om att en fastande använder *kuḥl*[^1]?
 
-**Svar:** Det finns ingen invändan mot att en fastande använder *kohl*[^1], ögondroppar eller näsdroppar.
+**Svar:** Det finns ingen invändan mot att en fastande använder *kuḥl*[^1], ögondroppar eller näsdroppar.
 
 Även om smaken känns i halsen bryts inte fastan då det inte är mat eller dryck och det har inte samma egenskaper som dessa. Det finns enbart bevis för ett förbud mot mat och dryck. Det som inte har samma egenskaper innefattas inte.
 
-Vad jag har nämnt är den åsikt som *Shaykhul-Islām* Ibn Taymiyyah – må Allāh vara honom nådig – har valt. Detta är den korrekta åsikten.
+Vad jag har nämnt är den åsikt som *s̲hayk̲h ul-islām* Ibn Taymiyyah – må Allāh vara honom nådig – har valt. Detta är den korrekta åsikten.
 
 Men om den fastande tar dropparna i näsan och de når magen, då bryts fastan om detta gjordes avsiktligen.
 
@@ -28,4 +28,4 @@ Profeten – över honom vare Allāhs frid och välsignelser – sade: "*Överdr
 
 [^1]: Svart pulver av antimon som appliceras runt ögonen.
 
-[^2]: *Abū Dāwūd* 142, *at-Tirmithi* 38, *an-Nasā’ī* 87 och *Ibn Mājah* 448
+[^2]: *Abū Dāwūd* 142, *at-Tirmid̲hī* 38, *an-Nasā’ī* 87 och *Ibn Mājah* 448

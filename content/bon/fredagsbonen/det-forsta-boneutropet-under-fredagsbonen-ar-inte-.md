@@ -20,7 +20,7 @@ description: >-
 
 Under profetens – över honom vare Allāhs frid och välsignelser –, Abū Bakrs och ´Umars tid brukade böneutropet vid fredagsbönen göras när imamen satt i talarstolen.
 
-Under ‘Uthmāns kalifat, när människorna hade blivit långt fler, då beordrade han att ett andra böneutrop skulle ropas ut vid fredagsbönen. Detta är inte en innovation. Vi har ju beordrats att följa de korrekt vägledda kalifernas *sunnah*. Grunden för detta har al-Bukhārī, an-Nasā’i, *at-Tirmithi*, *Ibn Mājah* och *Abū Dāwūd* [och orden är hans] återgivit från Ibn Shiba:
+Under ‘Uthmāns kalifat, när människorna hade blivit långt fler, då beordrade han att ett andra böneutrop skulle ropas ut vid fredagsbönen. Detta är inte en innovation. Vi har ju beordrats att följa de korrekt vägledda kalifernas *sunnah*. Grunden för detta har al-Bukhārī, an-Nasā’i, *at-Tirmid̲hī*, *Ibn Mājah* och *Abū Dāwūd* [och orden är hans] återgivit från Ibn Shiba:
 
 > ”as-Sa'ib bin Yazid informerade mig om att först brukade böneutropet ske när imamen satte sig i talarstolen under fredagen under profetens – över honom vare Allāhs frid och välsignelser – och Abū Bakrs tid. När sedan människor blev fler under ‘Uthmāns tid beordrade ‘Uthmān att ett tredje böneutrop skulle ropas ut under fredagen och det ropades ut vid az-Zawra' [En plats vid marknaden i Medina] och frågan fortsätter så.” [*al-Buk̲hārī* 912, 913, 915, 916]
 

@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Jag läser ofta Koranen men jag känner inte till mycket om recitationsregler och därmed begår jag många fel när jag reciterar. Syndar jag?
 
-**Svar:** Varje muslim måste lära sig hur man ska recitera Koranen korrekt. Man reciterar då som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – gjorde och som Allāh den Allsmäktige uppenbarade för Hans sändebud. I denna fråga bör man sträva så mycket som möjlighet. Kan man enbart uppnå ett korrekt uttal genom repetition och svårighet, då kommer man att få två belöningar för Allāhs sändebud har sagt: ”*En person som stammar när denne läser Koranen och finner det svårt har två belöningar*.” [^1]
+**Svar:** Varje muslim måste lära sig hur man ska recitera Koranen korrekt. Man reciterar då som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – gjorde och som Allāh den Allsmäktige uppenbarade för Hans sändebud. I denna fråga bör man sträva så mycket som möjlighet. Kan man enbart uppnå ett korrekt uttal genom repetition och svårighet, då kommer man att få två belöningar för Allāhs sändebud har sagt: ”*En person som stammar när personen läser Koranen och finner det svårt har två belöningar*.” [^1]
 
 Var därmed tålmodig broder. Upprepa varje ord igen och igen tills du har uttalat det korrekt även om det är svårt för dig. Därför att om du följer detta råd kommer du bli väl belönad. Och var medveten om att haka fram orden och att inte bry sig om misstag i uttal, genom att göra så förringar du Koranen, som vi vet är Allāhs tal. Efter att ha tagit emot Koranen från Allāh den Allsmäktige lärde Gabriel Muhammed – över honom vare Allāhs frid och välsignelser – den precis som han hade lärde sig den från Allāh den Allsmäktige:
 

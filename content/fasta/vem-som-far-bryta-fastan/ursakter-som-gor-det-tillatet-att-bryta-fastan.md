@@ -18,13 +18,13 @@ description: >-
 
 **Svar:** De ursäkter som gör det tillåtet att bryta fastan är sjukdom och resa, vilket nämns i Koranen. Andra ursäkter är om en kvinna är gravid och hon är ängslig för sin egen eller för barnets skull. Ännu en ursäkt är om en kvinna ammar och hon är ängslig för sin egen skull eller för barnet som hon ammar.
 
-Och ytterligare en ursäkt är om någon behöver bryta fastan för att rädda ett liv. Detta skulle kunna vara om man ser en person i havet eller någon som har omringats av en brand och man behöver bryta fastan för att rädda denne. I detta fall kan man bryta fastan och rädda denne person.
+Och ytterligare en ursäkt är om någon behöver bryta fastan för att rädda ett liv. Detta skulle kunna vara om man ser en person i havet eller någon som har omringats av en brand och man behöver bryta fastan för att rädda personen. I detta fall kan man bryta fastan och rädda personen.
 
 Ytterligare ett fall skulle vara om någon behöver bryta fastan för att stärka sig själv inför *djihād* för Allāhs skull. Detta skulle också vara en tillåten ursäkt för att bryta fastan. Profeten – över honom vare Allāhs frid och välsignelser – sade till följeslagarna: "*Ni kommer att möta en arme imorgon, så att bryta fastan kommer att vara stärkande för er, så bryt er fasta*." [^1]
 
-Finns det en giltig ursäkt för att bryta fastan, och om någon bryter fastan på grund av den, då behöver denne inte fasta återstoden av dagen. Om det då inträffar att någon har brutit fastan för att rädda ett liv, då bör denne fortsätta med att äta och dricka även efter att ha räddat denne person. Detta beror på att fastan har brutits av en tillåten anledning. Då är det inte nödvändigt att man fastar. Förbudet mot att bryta fastan den dagen gäller inte längre på grund av orsaken som gjorde det tillåtet att bryta den.
+Finns det en giltig ursäkt för att bryta fastan, och om någon bryter fastan på grund av den, då behöver personen inte fasta återstoden av dagen. Om det då inträffar att någon har brutit fastan för att rädda ett liv, då bör personen fortsätta med att äta och dricka även efter att ha räddat personen. Detta beror på att fastan har brutits av en tillåten anledning. Då är det inte nödvändigt att man fastar. Förbudet mot att bryta fastan den dagen gäller inte längre på grund av orsaken som gjorde det tillåtet att bryta den.
 
-Därför stöder vi den starkaste åsikten, vilken är att om en sjukling tillfrisknar under den dag som denne inte fastar, då behöver denne inte fasta. Och om en resenär kommer hem under dagen och denne inte har fastat, då är det inte nödvändigt att denne fastar. Och om en kvinna med månadsblödning blir ren under dagen, då är det inte nödvändigt att hon fastar.
+Därför stöder vi den starkaste åsikten, vilken är att om en sjukling tillfrisknar under den dag som personen inte fastar, då behöver personen inte fasta. Och om en resenär kommer hem under dagen och personen inte har fastat, då är det inte nödvändigt att personen fastar. Och om en kvinna med månadsblödning blir ren under dagen, då är det inte nödvändigt att hon fastar.
 
 Detta beror på att alla de [uppräknade] har brutit fastan av en giltig anledning. Under dagen i fråga fanns det ingen skyldighet för dem att fasta eftersom fastan då kunde brytas, därför behöver de inte fasta.
 

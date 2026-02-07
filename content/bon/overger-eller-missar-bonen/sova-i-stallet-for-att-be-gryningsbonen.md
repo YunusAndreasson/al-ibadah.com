@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Ibland känner jag mig trött så jag sover. Jag har då inte möjlighet att be gryningsbönen utom i mitt hem. Kan jag göra så här?
 
-**Svar:** Den som är skyldig att följa religionens läror måste be de fem bönerna i moskén tillsammans med de muslimska bröderna. Denne får inte slarva med detta. Att inte närvara vid gryningsbönen eller någon annan bön är en av egenskaperna för hyckleri. Allāh den Upphöjde har sagt:
+**Svar:** Den som är skyldig att följa religionens läror måste be de fem bönerna i moskén tillsammans med de muslimska bröderna. Personen får inte slarva med detta. Att inte närvara vid gryningsbönen eller någon annan bön är en av egenskaperna för hyckleri. Allāh den Upphöjde har sagt:
 
 > ”Hycklarna tror sig överlista Gud, men det är Han som överlistar dem. Och då de reser sig för att be, reser de sig i sakta mak för att ses och berömmas av människorna men har sällan Gud i tankarna.” [Koranen 4:142]
 

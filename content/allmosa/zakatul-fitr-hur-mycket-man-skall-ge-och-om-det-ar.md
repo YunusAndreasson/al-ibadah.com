@@ -1,5 +1,5 @@
 ---
-title: Zakātul-fitr – hur mycket man ska ge och om det är obligatoriskt
+title: Zakātul-fiṭr – hur mycket man ska ge och om det är obligatoriskt
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.

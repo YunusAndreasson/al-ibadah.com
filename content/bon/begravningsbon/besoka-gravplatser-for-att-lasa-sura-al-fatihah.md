@@ -1,5 +1,5 @@
 ---
-title: Besöka gravplatser för att läsa sura al-Fātihah
+title: Besöka gravplatser för att läsa sura al-Fātiḥah
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
@@ -38,4 +38,4 @@ Den första som gick ut från sitt hem för att besöka gravarna har gjort någo
 
 
 [^1]: *Muslim* 977
-[^2]: *Abū Dāwūd* 3236, *at-Tirmithi* 320, *an-Nasā’ī* 2042 och *Ibn Mājah* 1575
+[^2]: *Abū Dāwūd* 3236, *at-Tirmid̲hī* 320, *an-Nasā’ī* 2042 och *Ibn Mājah* 1575

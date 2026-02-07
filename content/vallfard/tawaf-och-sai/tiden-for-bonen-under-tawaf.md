@@ -1,5 +1,5 @@
 ---
-title: Tiden för bönen under tawāf
+title: Tiden för bönen under ṭawāf
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -14,9 +14,8 @@ description: >-
   och fullföljer sedan sin tawāf e...
 ---
 
-**Fråga:** Vilket är utlåtandet om bönen börjar och en pilgrim [under vallfärden eller *´umrah*] inte har avslutat *ṭawāf* eller *sa´ī*[^1]?
+**Fråga:** Vilket är utlåtandet om bönen börjar och en pilgrim [under vallfärden eller *´umrah*] inte har avslutat *ṭawāf* eller *sa´ī*?
 
-**Svar:** Han ber med folket och fullföljer sedan sin *ṭawāf* eller *sa´ī*[^1] därifrån han avbröts. Han börjar där han slutade.
+**Svar:** Han ber med folket och fullföljer sedan sin *ṭawāf* eller *sa´ī* därifrån han avbröts. Han börjar där han slutade.
 
-[^1]: Vandringen mellan as-Safa och al-Marwa.
 

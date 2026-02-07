@@ -32,7 +32,7 @@ Det finns många andra verser som pekar på att Allāh den Upphöjde har den dju
 
 Och dyrkan är ödmjuka sig inför Allāh den Allsmäktige med kärlek och vördnad genom att göra det som Han har beordrat oss och att undvika det som Han har förbjudit, och att göra det enligt vad som har föreskrivits i den islamiska lagen. Allāh den Upphöjde säger: ”*Men inga andra påbud gavs dem än att dyrka Gud med ren och uppriktig tro*.” [^6] Detta är visdomen i skapelsen av människan och *jinn*.
 
-Den som då gör uppror mot sin Herre och inte nedlåter sig att dyrka Honom överger denna visdom som Allāh har skapat tjänaren. Dennes handling vittnar om att Allāh sammanställde skapelsen utan mål och syfte. Även om denne inte tillkännager det öppet nödvändiggörs det genom dennes avvisande av lydnad av Herren.
+Den som då gör uppror mot sin Herre och inte nedlåter sig att dyrka Honom överger denna visdom som Allāh har skapat tjänaren. Personens handling vittnar om att Allāh sammanställde skapelsen utan mål och syfte. Även om personen inte tillkännager det öppet nödvändiggörs det genom personens avvisande av lydnad av Herren.
 
 
 [^1]: Koranen 66:2

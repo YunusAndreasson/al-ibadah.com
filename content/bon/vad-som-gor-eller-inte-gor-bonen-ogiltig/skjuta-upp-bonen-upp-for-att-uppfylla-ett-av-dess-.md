@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Är det tillåtet att skjuta upp bönen för att uppfylla ett av dess villkor? Detta kan vara att man behöver ordna vatten.
 
-**Svar:** Den korrekta åsikten är att det inte under några omständigheter är tillåtet att skjuta upp bönen till efter den utsatta tiden. Om någon är rädd för att tiden ska passera bör denne be i det tillstånd som denne befinner sig i även om det är möjligt att villkoret snart kommer att uppfyllas.
+**Svar:** Den korrekta åsikten är att det inte under några omständigheter är tillåtet att skjuta upp bönen till efter den utsatta tiden. Om någon är rädd för att tiden ska passera bör personen be i det tillstånd som personen befinner sig i även om det är möjligt att villkoret snart kommer att uppfyllas.
 
 Detta enligt Allāhs den Upphöjdes ord: "*Bönen är alla troendes plikt, knuten till bestämda tider*." [^1] Profeten – över honom vare Allāhs frid och välsignelser – har också angivet tiderna för bönerna och det gör det till en skyldighet att be dem vid de angivna tiderna. Vore det tillåtet att vänta för att ett villkor ska uppfyllas, då vore det inte rätt att föreskriva *tayammum*, då det är möjligt att få tag på vatten efter tiden [för bönen].
 

@@ -1,5 +1,5 @@
 ---
-title: Salatul-hajah och salat hifzul-qur'an är inte tillåtna
+title: Ṣalātul-ḥājah och ṣalāt ḥifẓul-qur'ān är inte tillåtna
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 314 s. ISBN saknas'

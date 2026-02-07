@@ -1,5 +1,5 @@
 ---
-title: Böneutrop före ‘eid-bönen
+title: Böneutrop före ´eid-bönen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Majmoo’ Fatāwa Ibn ‘Uthaymīn, 16/237'
 categories:

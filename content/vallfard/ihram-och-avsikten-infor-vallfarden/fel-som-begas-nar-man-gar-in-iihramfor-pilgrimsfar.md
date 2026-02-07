@@ -20,11 +20,11 @@ description: >-
 
 Vissa av de misstag som begås under *al-tarwiyah*-dagen då pilgrimer går in i *iḥrām* för pilgrimsfärden är bland annat följande:
 
-Vissa tror att de måste träda in i *iḥrām* vid den Heliga Moskén och du ser dem därmed utstå svårigheter för att ta sig till moskén och sedan träda in i *iḥrām* där. Detta är ett misstag då det inte är obligatoriskt att träda in i *iḥrām* vid den Heliga Moskén. I stället är det *sunnah* för pilgrimen att träda in i *iḥrām* vid den plats där denne bor.
+Vissa tror att de måste träda in i *iḥrām* vid den Heliga Moskén och du ser dem därmed utstå svårigheter för att ta sig till moskén och sedan träda in i *iḥrām* där. Detta är ett misstag då det inte är obligatoriskt att träda in i *iḥrām* vid den Heliga Moskén. I stället är det *sunnah* för pilgrimen att träda in i *iḥrām* vid den plats där personen bor.
 
 Detta beror på att de följeslagare till profeten – över honom vare Allāhs frid och välsignelser – som hade trätt ur *iḥrām* för *´umrah* [enligt profetens – över honom vare Allāhs frid och välsignelser – kommendering] och som sedan gick in *iḥrām* för pilgrimsfärden under *al-tarwiyah*-dagen inte begav sig till den Heliga Moskén för att träda in i *iḥrām* därifrån. I stället trädde de in i *iḥrām* på de platser de befann sig på. Detta skedde under profetens – över honom vare Allāhs frid och välsignelser – tid och därmed är det *sunnah*.
 
-Därför är det *sunnah* för den som vill träda in i *iḥrām* för pilgrimsfärden att träda in i *iḥrām* vid den plats där denne uppehåller sig, oavsett om denne befinner sig i Mecka eller i *Minā*, vilket somliga gör nu för tiden när de beger sig till *Minā* och uppehåller sig där.
+Därför är det *sunnah* för den som vill träda in i *iḥrām* för pilgrimsfärden att träda in i *iḥrām* vid den plats där personen uppehåller sig, oavsett om personen befinner sig i Mecka eller i *Minā*, vilket somliga gör nu för tiden när de beger sig till *Minā* och uppehåller sig där.
 
 Vissa pilgrimer tror att det inte är lämpligt att träda in i *iḥrām* i de klädesplagg som de bar när de gick in i *iḥrām* för *´umrah* om de inte tvättar dem först. Även detta är ett misstag då plaggen för *iḥrām* varken behöver vara nya eller rena. Det är sant att det är bättre desto renare de är, men att säga att de inte är giltiga för *iḥrām* då de har burits i *iḥrām* under *´umrah* är inte rätt.
 

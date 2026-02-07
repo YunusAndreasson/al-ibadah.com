@@ -1,5 +1,5 @@
 ---
-title: Olycka inträffar på vägen till Arafat
+title: Olycka inträffar på vägen till ´Arafāt
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -14,7 +14,7 @@ description: >-
   obligatoriska bönerna där. Sedan begav vi oss till ...
 ---
 
-**Fråga:** Den sjunde i *d̲hul-ḥijjah* begav jag mig till Huset och jag utförde riterna för *´umrah*[^1]. Sedan begav jag mig till Mina och vi bad de fem obligatoriska bönerna där. Sedan begav vi oss till *´Arafāt* men vår bil voltade. Vi skadades svårt i skadan. Jag hade en man med mig som vallfärdade för hans mor och han avled i olyckan. Vad krävs nu av oss?
+**Fråga:** Den sjunde i *d̲hul-ḥijjah* begav jag mig till Huset och jag utförde riterna för *´umrah*. Sedan begav jag mig till Mina och vi bad de fem obligatoriska bönerna där. Sedan begav vi oss till *´Arafāt* men vår bil voltade. Vi skadades svårt i skadan. Jag hade en man med mig som vallfärdade för hans mor och han avled i olyckan. Vad krävs nu av oss?
 
 **Svar:** Det som är er skyldighet, då ni trätt in i *iḥrām* för vallfärden, är att ni är kvar i den tills ni har avslutat alla riter. Ni bör inte överge den på grund av olyckan – som Allāh räddade er från – eller någonting liknande. Detta är inte en ursäkt för att överge vallfärden.
 
@@ -22,5 +22,4 @@ Så länge du återvänt [till ditt land] innan du stått vi *´Arafāt*, gjort 
 
 Och framgång kommer från Allāh. Må Allāh sända välsignelser och frid över Muḥammad och hans familj.
 
-[^1]: Den lilla vallfärden.
 

@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Om någon kommer och finner att raderna är fulla, då finns det tre olika alternativ:
 
-Denne kan be ensam bakom en rad eller så drar denne någon från raden framför bakåt för att be med denne eller så går denne fram och ber vid imamens högra sida. Dessa tre möjligheter gäller om denne just går in i bönen, denne kan ju även lämna församlingen. Vilken av dessa fyra möjligheter bör man då välja?
+Personen kan be ensam bakom en rad eller så drar personen någon från raden framför bakåt för att be med personen eller så går personen fram och ber vid imamens högra sida. Dessa tre möjligheter gäller om personen just går in i bönen, personen kan ju även lämna församlingen. Vilken av dessa fyra möjligheter bör man då välja?
 
 Det man bör välja av dessa fyra alternativ är att man själv formar en rad bakom raderna och ber med imamen. Detta beror på att det som är obligatoriskt är bön i församlingen och i en rad. Detta är skyldigheter och om man inte har möjlighet att göra en av dem, och det är att stå i raden, då är den andra fortfarande en skyldighet [bön i församlingen].
 
@@ -26,13 +26,13 @@ I detta fallet säger vi: Be då med församlingen bakom en rad för att få fö
 
 Vad som stödjer detta är att en kvinna står ensam bakom raden om det inte finns några kvinnor tillsammans med henne. Detta beror på att det inte finns någon godkänd plats för henne i männens rader, hon kan ju inte be på ett tillåtet sätt med dem. Så hon ber ensam.
 
-Beträffande mannen som kom till moskén och fann att raderna var fulla och som det inte fanns någon möjlighet för att be i en rad, under dessa omständigheter gäller då inte skyldigheten men denne är skyldig att be i församlingen, så denne måste be bakom raderna.
+Beträffande mannen som kom till moskén och fann att raderna var fulla och som det inte fanns någon möjlighet för att be i en rad, under dessa omständigheter gäller då inte skyldigheten men personen är skyldig att be i församlingen, så personen måste be bakom raderna.
 
 Man bör inte dra någon i raden framför bakåt för att be med en. Detta medför tre synder:
 
 1. Det öppnas ett hål i raden. Detta motsäger vad profeten – över honom vare Allāhs frid och välsignelser – har påbjudit när han sade att man ska stå tätt tillsammans och täppa till hålen i raderna.
-2. Personen framför får flytta sig till en sämre plats. Detta är en sorts oförrätt mot denne.
-3. Personen framför störs i bönen därför att om denne blir utdragen måste det leda till att denne störs. Även detta är en oförrätt mot denne.
+2. Personen framför får flytta sig till en sämre plats. Detta är en sorts oförrätt mot personen.
+3. Personen framför störs i bönen därför att om personen blir utdragen måste det leda till att personen störs. Även detta är en oförrätt mot personen.
 
 Det tredje sättet är att man står jämte imamen. Detta är dock inte rätt då imamen måste särskiljas från dem som leds i bön genom sin position, precis som han särskiljs från dem då han leder dem i rörelser och ord. Han gör *takbīr*, bugar och nedfaller före dem. Därför måste hans position särskiljas från deras. Detta är profetens – över honom vare Allāhs frid och välsignelser – vägledning, att imamen bör stå framför dem som leds i bön.
 

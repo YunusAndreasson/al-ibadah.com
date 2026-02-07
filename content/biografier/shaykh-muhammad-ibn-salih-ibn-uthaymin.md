@@ -1,5 +1,5 @@
 ---
-title: Shaykh Muḥammad Ibn Sālih Ibn ´Uthaymīn
+title: S̲hayk̲h Muḥammad Ibn Sālih Ibn ´Uthaymīn
 categories:
   - Biografier
 original_id: 9

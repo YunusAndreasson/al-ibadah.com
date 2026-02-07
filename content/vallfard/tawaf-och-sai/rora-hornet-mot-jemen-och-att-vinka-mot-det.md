@@ -32,5 +32,5 @@ Man avslutar varje varv med vad profeten – över honom vare Allāhs frid och v
 
 Och Allāh är Den som ger framgång.
 
-[^1]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
+[^1]: Det mått som fyller en normalbyggd mans båda händer när personen kupar dem tillsammans.
 

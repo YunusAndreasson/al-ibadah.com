@@ -1,5 +1,5 @@
 ---
-title: Kvinnan går in i ihrām i vilka kläder hon vill
+title: Kvinnan går in i iḥrām i vilka kläder hon vill
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.

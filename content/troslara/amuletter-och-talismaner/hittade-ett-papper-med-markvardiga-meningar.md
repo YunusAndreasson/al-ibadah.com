@@ -20,7 +20,7 @@ description: >-
 
 **Svar:** Allt som nämns i frågan är otillåtet och bör inte användas på en amulett. Det är heller inte tillåtet att följa instruktionerna som nämns i detta papper, för det innehåller obskyra inskriptioner. Det kan innehålla månggudaaktiga formler, och det innehåller otillåtna åminnelser under en bestämd tidsperiod som den islamiska lagen inte godkänner. Det nämns även två okända namn. Detta är otillåtet och den som råkar bära en sådan ring bör göra sig av med den och ta bort inskriptionerna på ringen, som inte bör rökas med en essens.
 
-Denne bör ångra sig inför Allāh för detta.
+Personen bör ångra sig inför Allāh för detta.
 
 Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muḥammad samt göra honom, hans hushåll och följeslagare säkra från ont.
 

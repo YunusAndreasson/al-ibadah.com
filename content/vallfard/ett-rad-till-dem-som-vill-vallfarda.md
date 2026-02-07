@@ -52,9 +52,9 @@ Verserna med denna innebörd är många.
 
 Därför är mitt råd till er och till mig själv att ni alltid fruktar Allāh och att ni uppriktigt följer Hans profet Muḥammad i vad han gjorde och i vad han sade. Syftet är att ni ska bli lyckliga och uppnå frälsning i detta livet och det Nästa.
 
-Ni som ska vallfärda till Allāhs heliga hus! Sannerligen, när det var den åttonde *d̲hul-ḥijjah* begav sig vår profet Muḥammad av från Mecka till Mina samtidigt som han läste *talbiyyah*. Han beordrade följeslagarna att träda in i *iḥrām* med avsikt för vallfärden i sina hem [i Mecka] och ge sig av mot Mina. Han kommenderade dem inte att göra *ṭawāf* när de lämnade Mecka [*tawāf[^1] ul-wadā*].
+Ni som ska vallfärda till Allāhs heliga hus! Sannerligen, när det var den åttonde *d̲hul-ḥijjah* begav sig vår profet Muḥammad av från Mecka till Mina samtidigt som han läste *talbiyyah*. Han beordrade följeslagarna att träda in i *iḥrām* med avsikt för vallfärden i sina hem [i Mecka] och ge sig av mot Mina. Han kommenderade dem inte att göra *ṭawāf* när de lämnade Mecka [*ṭawāf ul-wadā´*[^1]].
 
-Detta bevisar att det som är *sunnah* för dem som bor i Mecka och de som har trätt ur *iḥrām* efter *´umrah*[^2] och som vill vallfärda att ge sig av mot Mina den åttonde dagen samtidigt som de läser *talbiyyah* för vallfärden. När de lämnar Mecka behöver de inte bege sig till det heliga Huset för att göra *ṭawāf* runt Ka'bah [*tawāf[^1] ul-wadā*].
+Detta bevisar att det som är *sunnah* för dem som bor i Mecka och de som har trätt ur *iḥrām* efter *´umrah*[^2] och som vill vallfärda att ge sig av mot Mina den åttonde dagen samtidigt som de läser *talbiyyah* för vallfärden. När de lämnar Mecka behöver de inte bege sig till det heliga Huset för att göra *ṭawāf* runt Ka'bah [*ṭawāf ul-wadā´*[^1]].
 
 När man går in i *iḥrām* för vallfärden är det rekommenderat att göra vad man gör vid mīqāt[^3] när man går in i *iḥrām*; som att bada, ta på parfym och rengöra sig.
 
@@ -92,21 +92,21 @@ De får även kasta sina småstenar på stenpelaren under natten, vilket har bek
 
 Därefter, när det var tillräckligt ljust, rörde han sig mot *Minā* och Jamratul-´Aqabah [den största stenpelaren] medan han läste *talbiyyah*. Han kastade sju stenar på den samtidigt som han förkunnade Allāhs storhet [säga 'Allāhu akbar'] tillsammans med varje sten. Sedan offrade han sitt djur, rakade huvudet och ‘A’ishah – må Allāh vara nöjd med henne – gav honom parfym. Därpå begav han sig mot Huset [Ka’bah] och gjorde *ṭawāf* runt det.
 
-Profeten – över honom vare Allāhs frid och välsignelser – tillfrågades under offerdagen [den tionde *d̲hul-ḥijjah*] om den som slaktade före denne hade kastat sten på pelaren, om den som rakar huvudet före slakten och om den som gör *ṭawāf* runt Huset innan steningen. Han svarade då [om dem alla]: ”*Inga problem*.” Återberättaren av denna *ḥadīt̲h* har sagt att han inte tillfrågades om att något annat görs denna dag, tidigt eller sent, utan att han sade: ”*Gör det och det finns inget skadligt [i det]*.”
+Profeten – över honom vare Allāhs frid och välsignelser – tillfrågades under offerdagen [den tionde *d̲hul-ḥijjah*] om den som slaktade före personen hade kastat sten på pelaren, om den som rakar huvudet före slakten och om den som gör *ṭawāf* runt Huset innan steningen. Han svarade då [om dem alla]: ”*Inga problem*.” Återberättaren av denna *ḥadīt̲h* har sagt att han inte tillfrågades om att något annat görs denna dag, tidigt eller sent, utan att han sade: ”*Gör det och det finns inget skadligt [i det]*.”
 
 En man frågade honom: "*Allāhs sändebud, jag gjorde sa'ī[^5] innan jag gjorde *tawāf*." Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Inga problem*.”
 
 Genom detta lär vi oss att det som är *sunnah* för en pilgrim under vallfärden är att börja med att kasta stenarna på pelarna under *´eid*-dagen, offra djuret om de är skyldiga till det och sedan raka huvudet eller klippa håret. Det är bättre att raka huvudet än att klippa håret. Profeten – över honom vare Allāhs frid och välsignelser – har ju bett om förlåtelse och nåd tre gånger för dem som rakar huvudet. Men han bad enbart en gång för de som [enbart] klipper håret.
 
-Genom detta har pilgrimen uppnått det första stadiet i att lämna *iḥrām*. Därmed bär denne sydda plagg, tar på parfym och allt som var förbjudet under *iḥrām* är nu tillåtet för honom, utom att ha intim samvaro med kvinnor. Sedan beger denne sig till Huset [Ka'bah] och gör *ṭawāf* runt det, antingen under eller efter *´eid*-dagen. Denne gör även *sa´ī*[^5] mellan as-Safa och al-Marwah om denne gör en *[^6] hajjul-tamattu[^6]'*. Härmed blir allting som var förbjudet under *iḥrām* tillåtet för denne, även att ha intim samvaro med kvinnor.
+Genom detta har pilgrimen uppnått det första stadiet i att lämna *iḥrām*. Därmed bär personen sydda plagg, tar på parfym och allt som var förbjudet under *iḥrām* är nu tillåtet för honom, utom att ha intim samvaro med kvinnor. Sedan beger personen sig till Huset [Ka'bah] och gör *ṭawāf* runt det, antingen under eller efter *´eid*-dagen. Personen gör även *sa´ī*[^5] mellan as-Safa och al-Marwah om personen gör en *[^6] hajjul-tamattu[^6]'*. Härmed blir allting som var förbjudet under *iḥrām* tillåtet för personen, även att ha intim samvaro med kvinnor.
 
-Men om denne gör en *ḥajjul-ifrād* eller *ḥajjul-qirān* är dennes första *sa´ī*[^5], som gjordes tillsammans med *ṭawāf* vid ankomsten, tillräcklig. Om denne inte gjorde *sa´ī*[^5] tillsammans med den *ṭawāf* som denne gjorde vid ankomsten, då måste denne göra *sa´ī*[^5] tillsammans med *tawāf[^1] ul-ifādhah*.
+Men om personen gör en *ḥajjul-ifrād* eller *ḥajjul-qirān* är personens första *sa´ī*[^5], som gjordes tillsammans med *ṭawāf* vid ankomsten, tillräcklig. Om personen inte gjorde *sa´ī*[^5] tillsammans med den *ṭawāf* som personen gjorde vid ankomsten, då måste personen göra *sa´ī*[^5] tillsammans med *ṭawāf ul-ifāḍah*[^1].
 
-Sedan begav han sig tillbaka till *Minā* och han stannade där under resten av *´eid*-dagen, den tionde, den tolfte och den trettonde i *d̲hul-ḥijjah*. Han kastade stenarna på stenpelarna varje dag under *at-ayyām at-tashrīq* [den elfte, tolfte och trettonde i *d̲hul-ḥijjah*] när solen vid middagstid hade sjunkit under dess högsta punkt. Han kastade sju småstenar på varje stenpelare samtidigt som han kungjorde Allāhs [*Allāhu akbar*] storhet varje gång som han kastade en sten.
+Sedan begav han sig tillbaka till *Minā* och han stannade där under resten av *´eid*-dagen, den tionde, den tolfte och den trettonde i *d̲hul-ḥijjah*. Han kastade stenarna på stenpelarna varje dag under *at-ayyām at-tas̲hrīq* [den elfte, tolfte och trettonde i *d̲hul-ḥijjah*] när solen vid middagstid hade sjunkit under dess högsta punkt. Han kastade sju småstenar på varje stenpelare samtidigt som han kungjorde Allāhs [*Allāhu akbar*] storhet varje gång som han kastade en sten.
 
 Han åkallade med höjda händer när han hade kastat stenarna på den första och den andra pelaren. Han hade då den första pelaren till vänster och den andra till höger [när han åkallade]. Han åkallade dock inte vid den tredje pelaren.
 
-Sedan, under den trettonde *d̲hul-ḥijjah* efter att ha kastat stenar på pelarna begav han sig av [mot *Minā*] och slog sig ned vid al-Abtah. Där bad han middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen. Därefter slog han sig ned i Mecka under nattens slut och han ledde folket i gryningsbönen. Han gjorde sedan [^7] tawaful-wada[^7] och begav sig mot Medina efter att ha bett under morgonen den fjortonde *d̲hul-ḥijjah*. Må de bästa välsignelse- och fridsbönerna från hans Herre vara över honom.
+Sedan, under den trettonde *d̲hul-ḥijjah* efter att ha kastat stenar på pelarna begav han sig av [mot *Minā*] och slog sig ned vid al-Abtah. Där bad han middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen. Därefter slog han sig ned i Mecka under nattens slut och han ledde folket i gryningsbönen. Han gjorde sedan *ṭawāful-wadā´*[^7] och begav sig mot Medina efter att ha bett under morgonen den fjortonde *d̲hul-ḥijjah*. Må de bästa välsignelse- och fridsbönerna från hans Herre vara över honom.
 
 Härifrån vet vi att det som är *sunnah* för en pilgrim är att göra samma saker som profeten – över honom vare Allāhs frid och välsignelser – gjorde under dagarna i *Minā*. Därmed bör man kasta stenarna på de tre pelarna varje dag efter att solen har sjunkit från dess högsta punkt under middagen. Man kastar sju stenar på varje pelare och förkunnar Allāhs storhet varje gång för varje sten.
 
@@ -118,17 +118,17 @@ Den som vill ge sig av under den tolfte dagen efter att ha kastat sten på pelar
 
 För pilgrimen är det *sunnah* att spendera nätterna den elfte och den tolfte *d̲hul-ḥijjah* i *Minā*. Enligt många av de lärde är det obligatoriskt att spendera nätterna där. Det är tillräckligt att spendera större delen av natten där [i *Minā*], om det inte är för svårt. De som har en islamiskt giltig ursäkt – som brevbärare, fåraherdar och liknande – behöver inte spendera natten där.
 
-Pilgrimen behöver inte spendera natten den trettonde i *Minā* om denne har bråttom att ge sig och de ger sig av innan solnedgången. Men om kvällen har hunnit komma till *Minā*, då måste de spendera den trettonde natten där och kasta stenarna efter middag den trettonde. Därefter kan de ge sig av. Ingen är skyldig att stena pelarna efter den trettonde, även om de är i *Minā*.
+Pilgrimen behöver inte spendera natten den trettonde i *Minā* om personen har bråttom att ge sig och de ger sig av innan solnedgången. Men om kvällen har hunnit komma till *Minā*, då måste de spendera den trettonde natten där och kasta stenarna efter middag den trettonde. Därefter kan de ge sig av. Ingen är skyldig att stena pelarna efter den trettonde, även om de är i *Minā*.
 
-När pilgrimen vill ge sig av till sitt hemland måste denne göra *ṭawāf* runt Huset [Ka’bah]. Denne gör sju rundor runt Ka’bah. Anledningen är vad profeten – över honom vare Allāhs frid och välsignelser – har sagt:
+När pilgrimen vill ge sig av till sitt hemland måste personen göra *ṭawāf* runt Huset [Ka’bah]. Personen gör sju rundor runt Ka’bah. Anledningen är vad profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Ingen bör ge sig av förrän denne utfört sin sista handling vid Huset [Tawāf vi Ka’bah].” [*Muslim* 1327]
+> ”Ingen bör ge sig av förrän personen utfört sin sista handling vid Huset [Tawāf vi Ka’bah].” [*Muslim* 1327]
 
-Men kvinnor med månadsblödning och kvinnor med blödningar efter graviditeten är inte skyldiga att göra [^7] tawaful-wada[^7]. Anledningen är vad Ibn ‘Abbās har sagt:
+Men kvinnor med månadsblödning och kvinnor med blödningar efter graviditeten är inte skyldiga att göra *ṭawāful-wadā´*[^7]. Anledningen är vad Ibn ‘Abbās har sagt:
 
 > ”Folket beordrades till att deras sista handling skulle vara vid Huset [*ṭawāf*], men frågan lindrades för en kvinna med månadsblödning.”
 
-Skjuter man upp *tawāf[^1] al-ifādhah* och utför den när man är redo för att ge sig av, då är det tillräckligt som *al-wadā*. Anledningen är den allmänna innebörden av de två nämnda haditherna.
+Skjuter man upp *ṭawāf ul-ifāḍah*[^1] och utför den när man är redo för att ge sig av, då är det tillräckligt som *al-wadā´*. Anledningen är den allmänna innebörden av de två nämnda haditherna.
 
 Jag ber Allāh att Han hjälper alla med att göra vad som gör Honom nöjd och att Han accepterar vår vallfärd. Jag ber Honom att Han gör oss till dem som frias från Elden. Sannerligen, Han bestämmer över det och är kapabel att göra det.
 

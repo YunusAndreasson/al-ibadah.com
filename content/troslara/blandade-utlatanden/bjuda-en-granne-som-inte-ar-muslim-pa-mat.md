@@ -15,7 +15,7 @@ description: 'Fråga: Får en muslim ge en del kött från ett slaktat djur till
 
 **Fråga:** Får en muslim ge en del kött från ett slaktat djur till en granne som inte är troende?
 
-**Svar:** En muslim får ge en del av köttet från en slakt till en granne som inte är troende för att göra dennes hjärta mjukt och uppfylla sina skyldigheter mot grannen. Detta beror på att det inte finns några bevis för att detta är förbjudet samt den allmänna innebörden av Allāhs ord:
+**Svar:** En muslim får ge en del av köttet från en slakt till en granne som inte är troende för att göra personens hjärta mjukt och uppfylla sina skyldigheter mot grannen. Detta beror på att det inte finns några bevis för att detta är förbjudet samt den allmänna innebörden av Allāhs ord:
 
 > ”Gud förbjuder er inte att visa godhet mot dem som inte bekämpar er på grund av [er] tro och inte driver ut er ur era hem, och [Han förbjuder er inte] att bemöta dem med rättvisa och opartiskhet – Gud älskar de opartiska.” [Koranen 60:8]
 

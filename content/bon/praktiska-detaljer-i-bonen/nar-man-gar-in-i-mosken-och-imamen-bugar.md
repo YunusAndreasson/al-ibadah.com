@@ -20,7 +20,7 @@ description: >-
 
 Enligt vad al-Bukhārī har rapporterat från Abū Bakrah ath-Thaqafi tillräknas denna bönecykel honom. Han rapporterar att han en dag gick in i moskén och såg att profeten – över honom vare Allāhs frid och välsignelser – bugade. Han bugade då bakom raden, för att sedan gå in i den. Profeten – över honom vare Allāhs frid och välsignelser – sade till honom: ”*Må Allāh öka dig i strävan, men upprepa det inte*.” [I en fotnot i *Fatāwa Islamiyah* påpekas att detta är en svag åsikt.]
 
-Han beordrade honom inte att ta igen den vilket bevisar att det var tillräckligt samt att den som kommer in och finner att folket bugar måste gå in i en rad och inte buga bakom raden, även om denne skulle missa en bönecykel. Anledningen återfinns i profetens – över honom vare Allāhs frid och välsignelser – ord till Abū Bakrah: ”*Må Allāh öka dig i strävan, men upprepa det inte*.”
+Han beordrade honom inte att ta igen den vilket bevisar att det var tillräckligt samt att den som kommer in och finner att folket bugar måste gå in i en rad och inte buga bakom raden, även om personen skulle missa en bönecykel. Anledningen återfinns i profetens – över honom vare Allāhs frid och välsignelser – ord till Abū Bakrah: ”*Må Allāh öka dig i strävan, men upprepa det inte*.”
 
 Och Allāh är Beviljaren av framgång.
 

@@ -18,9 +18,9 @@ description: >-
 
 **Fråga:** Bör man säga *as-salatu khairun minan-nawm* [bön är bättre än sömn] i det första eller andra böneutropet?
 
-**Svar:** Man bör säga *as-salatu khairun minan-nawm* [bön är bättre än sömn] i det första böneutropet, vilket har rapporterats i en *ḥadīt̲h*[^1]: "Om *du ropar ut det första böneutropet för gryningsbönen, säg: 'as-salatu khairun minan-nawm*.'” [Imam Ahmad 3:408] Det är då i den första och inte i den andra.
+**Svar:** Man bör säga *as-salatu khairun minan-nawm* [bön är bättre än sömn] i det första böneutropet, vilket har rapporterats i en *ḥadīt̲h*: "Om *du ropar ut det första böneutropet för gryningsbönen, säg: 'as-salatu khairun minan-nawm*.'” [Imam Ahmad 3:408] Det är då i den första och inte i den andra.
 
-Det bör kännas till att det första böneutropet som avses i *ḥadīt̲h* är det böneutrop som ropas ut efter bönetidens början och det andra böneutropet är *iqāmah*. Detta beror på att även *iqāmah* kallas för böneutrop. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Mellan *två böneutrop finns det en bön*.” [*al-Buk̲hārī*] Vad som avses med två böneutrop här är *adhān* och *iqāmah*.
+Det bör kännas till att det första böneutropet som avses i *ḥadīt̲h* är det böneutrop som ropas ut efter bönetidens början och det andra böneutropet är *iqāmah*. Detta beror på att även *iqāmah* kallas för böneutrop. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Mellan *två böneutrop finns det en bön*.” [*al-Buk̲hārī*] Vad som avses med två böneutrop här är *ad̲hān* och *iqāmah*.
 
 I *Ṣaḥīḥ al-Buk̲hārī* återges att de troendes ledare, ‘Uthmān bin 'Affan, lagt till ett tredje böneutrop vid fredagsbönen.
 

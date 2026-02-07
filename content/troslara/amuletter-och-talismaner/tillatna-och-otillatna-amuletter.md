@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** ´Abdullāh bin Mas'ūd har sagt: ”*Jag hörde Allāhs sändebud säga: 'Sannerligen är besvärjelser, amuletter och tiwalah[^1] shirk*[^2].'” [^3] Jabir har sagt:
 
-> ”Jag hade en farbror som brukade behandla folk med besvärjelser efter skorpionstick. När profeten förbjöd besvärjelser gick han till honom och frågade: 'Allāhs sändebud, du har förbjudit besvärjelser och jag behandlar dem som har stuckits av skorpioner med besvärjelser.' Han svarade: 'Den som kan hjälpa sin broder, låt denne göra så.'” [*Muslim* 2199]
+> ”Jag hade en farbror som brukade behandla folk med besvärjelser efter skorpionstick. När profeten förbjöd besvärjelser gick han till honom och frågade: 'Allāhs sändebud, du har förbjudit besvärjelser och jag behandlar dem som har stuckits av skorpioner med besvärjelser.' Han svarade: 'Den som kan hjälpa sin broder, låt personen göra så.'” [*Muslim* 2199]
 
 Hur kan vi få ihop den *ḥadīt̲h* som förbjuder med den som tillåter? Vilket är utlåtandet om att den som har stuckits bär Koran-amuletter?
 
@@ -26,7 +26,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Det finns inget skadligt i besvärjelser så länge de inte innehåller *s̲hirk*." [*Muslim* 2200]
 
-> ”Den som kan hjälpa sin broder, låt denne göra så.” [*Muslim* 2200]
+> ”Den som kan hjälpa sin broder, låt personen göra så.” [*Muslim* 2200]
 
 > ”Inga besvärjelser för något annat än det 'onda ögat' eller giftiga stick.” [*al-Buk̲hārī* 5705, *Muslim* 220]
 

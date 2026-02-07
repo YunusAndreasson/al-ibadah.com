@@ -1,5 +1,5 @@
 ---
-title: Betala extra zakātul-fitr som välgörenhet
+title: Betala extra zakātul-fiṭr som välgörenhet
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.

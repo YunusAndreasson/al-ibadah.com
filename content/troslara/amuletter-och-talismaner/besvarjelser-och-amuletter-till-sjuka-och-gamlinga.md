@@ -40,7 +40,7 @@ När det gäller att skriva en sura eller en vers på en tavla eller ett blad, t
 
 Grundat på det som har nämts ovan är det bättre att undvika att göra detta och att vara nöjd med vad som autentiskt godkänts i form av besvärjelser i Koran-recitation, Allāhs vackra namn, autentisk åkallan eller liknande vars meningar innebörd är klar och fri från *s̲hirk*.
 
-Allāh bör endast sökas genom sådant som är tillåtet i hopp om att få belöningar, lättnad och nyttig kunskap. Detta bör vara tillräckligt och den som är nöjd med vad Allāh har tillåtit, denne gör Allāh fri från behov av någon annan.
+Allāh bör endast sökas genom sådant som är tillåtet i hopp om att få belöningar, lättnad och nyttig kunskap. Detta bör vara tillräckligt och den som är nöjd med vad Allāh har tillåtit, personen gör Allāh fri från behov av någon annan.
 
 Det är endast Allāh som ger framgång.
 

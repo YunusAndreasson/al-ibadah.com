@@ -1,5 +1,5 @@
 ---
-title: Hur en kvinna gör ghusl efter hennes månadsblödning
+title: Hur en kvinna gör g̲husl efter hennes månadsblödning
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
@@ -29,5 +29,5 @@ Må Allāhs frid och välsignelser vara över profet Muḥammad, hans familj och
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 
-[^2]: *Muslim* 330, *Abū Dāwūd* 251 och *at-Tirmithi* 105
-[^3]: *Muslim* 330, *Abū Dāwūd* 251 och *at-Tirmithi* 105
+[^2]: *Muslim* 330, *Abū Dāwūd* 251 och *at-Tirmid̲hī* 105
+[^3]: *Muslim* 330, *Abū Dāwūd* 251 och *at-Tirmid̲hī* 105

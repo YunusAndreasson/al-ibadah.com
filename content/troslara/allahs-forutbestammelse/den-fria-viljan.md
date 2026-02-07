@@ -20,7 +20,7 @@ description: >-
 
 Sedan bör han ställa sig frågan om olyckor inträffar genom hans fria vilja, om han blir sjuk av egen fri vilja, om han dör av egen fri vilja och liknande frågor. Då blir svaret klart för honom om han följer en väg som Allāh har valt eller om han har frihet att välja själva.
 
-Svaret är att det som den vise gör utan tvekan görs genom dennes eget val. Lyssna på Allāhs ord:
+Svaret är att det som den vise gör utan tvekan görs genom personens eget val. Lyssna på Allāhs ord:
 
 > "Låt då den som så vill, försöka finna vägen tillbaka till sin Herre [medan det är tid]!" [Koranen 78:39]
 
@@ -36,7 +36,7 @@ Men om någon vill göra något och sedan gör det, då vet vi att Allāh ville 
 
 Då Hans herravälde [*rubūbiyyah*] är komplett och perfekt kan ingenting inträffa i himlarna eller på jorden utom om det inträffar genom Hans vilja.
 
-Det som inträffar en person eller det som denne gör utan att välja det såsom sjukdom, död och olycka – det är ren gudomlig vilja. Denne har inget val och ingen vilja i dessa fall.
+Det som inträffar en person eller det som personen gör utan att välja det såsom sjukdom, död och olycka – det är ren gudomlig vilja. Personen har inget val och ingen vilja i dessa fall.
 
 Och Allāh är källan till all styrka.
 

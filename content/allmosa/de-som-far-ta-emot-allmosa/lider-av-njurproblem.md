@@ -13,5 +13,5 @@ description: 'Fråga: Är det tillåtet att ge allmosa till någon som lider av 
 
 **Fråga:** Är det tillåtet att ge allmosa till någon som lider av njurproblem?
 
-**Svar:** All lovprisan tillhör Allāh. Behovet av medicinsk vård är ett verkligt behov så om vi finner någon som behöver medicinsk behandling men som inte har tillräckligt med pengar för att betala för vården är det inte fel att ge denne allmosa. Syftet med allmosa är ju att möta folks behov.
+**Svar:** All lovprisan tillhör Allāh. Behovet av medicinsk vård är ett verkligt behov så om vi finner någon som behöver medicinsk behandling men som inte har tillräckligt med pengar för att betala för vården är det inte fel att ge personen allmosa. Syftet med allmosa är ju att möta folks behov.
 

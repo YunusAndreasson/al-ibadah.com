@@ -1,5 +1,5 @@
 ---
-title: Krav på den som utfört umrah i vanliga kläder
+title: Krav på den som utfört ´umrah i vanliga kläder
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.

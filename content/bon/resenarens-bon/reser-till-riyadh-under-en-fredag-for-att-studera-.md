@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Det råder inga tvivel om att han är en resenär då han inte har tagit staden som han studerar i till sitt hem och han har inte avsett att stanna där under en obestämd tid. I stället uppehåller han sig där i ett syfte. Men om han befinner sig i en stad där det finns församlingsbön måste han närvara vid bönen i församlingen.
 
-Vad som har blivit vida accepterat bland somliga, att resenären inte behöver be med församlingen eller närvara vid fredagsbönen, finns det ingen grund för. Bönen i församlingen är en skyldighet för resenären även om denne befinner sig i strid. Detta är något som förklaras i Allāhs den Upphöjdes ord:
+Vad som har blivit vida accepterat bland somliga, att resenären inte behöver be med församlingen eller närvara vid fredagsbönen, finns det ingen grund för. Bönen i församlingen är en skyldighet för resenären även om personen befinner sig i strid. Detta är något som förklaras i Allāhs den Upphöjdes ord:
 
 > ”När du befinner dig hos de troende och leder dem i bön, låt då en grupp stå upp tillsammans med dig och låt dem behålla sina vapen.” [Koranen 4:102]
 

@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Det finns två sorters amuletter: De som innehåller Koranen och de som innehåller något annat än Koranen.
 
-Den första sorten är tillåten att bära. Detta ansåg Ibn Mas'ūd och Ibn ‘Abbās, och det verkar även vara vad Huthayfah, 'Uqbah bin 'Amr och Ibn 'Ukaym ansåg. Det anser även ett antal *tābi’īn*, bland dem finns Ibn Mas'ūds följeslagarna. *Aḥmad* hade denna åsikt och att de flesta av dem som följde honom delade den. De senare generationerna av dem är fasta vid den. 
+Den första sorten är tillåten att bära. Detta ansåg Ibn Mas'ūd och Ibn ‘Abbās, och det verkar även vara vad Huthayfah, 'Uqbah bin 'Amr och Ibn 'Ukaym ansåg. Det anser även ett antal *tābi´īn*, bland dem finns Ibn Mas'ūds följeslagarna. *Aḥmad* hade denna åsikt och att de flesta av dem som följde honom delade den. De senare generationerna av dem är fasta vid den. 
 
 Denna åsikt grundas på vad bland andra imam *Aḥmad* och Abū Dawūd har återberättat om att Ibn Mas'ūd har sagt att han hörde profeten – över honom vare Allāhs frid och välsignelser – säga: ”*Sannerligen är besvärjelser, amuletter och tiwalah[^1] shirk*[^2]." [^3]
 

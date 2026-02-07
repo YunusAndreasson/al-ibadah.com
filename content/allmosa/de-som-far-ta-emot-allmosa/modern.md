@@ -9,12 +9,12 @@ categories:
 original_id: 634
 description: 'Fråga: Är det tillåtet att betala allmosa till sin mor? Svar: En
  muslim får inte betala sin allmosa till föräldrarna eller barnen. I stället ska
- de försörjas genom dennes tillgångar om de be...'
+ de försörjas genom personens tillgångar om de be...'
 ---
 
 **Fråga:** Är det tillåtet att betala allmosa till sin mor?
 
-**Svar:** En muslim får inte betala sin allmosa till föräldrarna eller barnen. I stället ska de försörjas genom dennes tillgångar om de behöver något och denne har möjlighet att försörja dem.
+**Svar:** En muslim får inte betala sin allmosa till föräldrarna eller barnen. I stället ska de försörjas genom personens tillgångar om de behöver något och personen har möjlighet att försörja dem.
 
 Och framgång kommer från Allāh.
 

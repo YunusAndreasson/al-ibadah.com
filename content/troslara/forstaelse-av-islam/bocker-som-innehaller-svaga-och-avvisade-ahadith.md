@@ -1,5 +1,5 @@
 ---
-title: Böcker som innehåller svaga och avvisade ahādīth
+title: Böcker som innehåller svaga och avvisade aḥādīt̲h
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon: Maktaba

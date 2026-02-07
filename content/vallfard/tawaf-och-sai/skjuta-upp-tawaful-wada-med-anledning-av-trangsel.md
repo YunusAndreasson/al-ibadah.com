@@ -1,5 +1,5 @@
 ---
-title: Skjuta upp tawāful-wadā med anledning av trängsel
+title: Skjuta upp ṭawāf ul-wadā´ med anledning av trängsel
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -10,21 +10,21 @@ categories:
 original_id: 818
 description: >-
   Fråga: Vi bor i Jiddah och förra året gav vi oss iväg för att vallfärda. Vi
-  avslutade alla vallfärdsriter, utom tawāful-wadā, som vi sköt upp till slutet
+  avslutade alla vallfärdsriter, utom ṭawāful-wadā, som vi sköt upp till slutet
   av thul-hijjah . När folksamlingen hade...
 ---
 
-**Fråga:** Vi bor i Jiddah och förra året gav vi oss iväg för att vallfärda. Vi avslutade alla vallfärdsriter, utom *tawāf[^1] ul-wadā*, som vi sköt upp till slutet av *d̲hul-ḥijjah*. När folksamlingen hade blivit mindre återvände vi till Mecka för att utföra *tawāf[^1] ul-wadā*. Är vår vallfärd giltig?
+**Fråga:** Vi bor i Jiddah och förra året gav vi oss iväg för att vallfärda. Vi avslutade alla vallfärdsriter, utom *ṭawāf ul-wadā´*, som vi sköt upp till slutet av *d̲hul-ḥijjah*. När folksamlingen hade blivit mindre återvände vi till Mecka för att utföra *ṭawāf ul-wadā´*. Är vår vallfärd giltig?
 
-**Svar:** Om man vallfärdar och skjuter upp *tawāf[^1] ul-wadā* till en annan tidpunkt, då är ens vallfärd giltig och man måste utföra *tawāf[^1] ul-wadā* när man lämnar Mecka.
+**Svar:** Om man vallfärdar och skjuter upp *ṭawāf ul-wadā´* till en annan tidpunkt, då är ens vallfärd giltig och man måste utföra *ṭawāf ul-wadā´* när man lämnar Mecka.
 
-Om man befinner sig utanför Mecka, som invånarna i Jiddah, at-Ta'if och Medina, med flera, då får man inte ge sig av förrän man har tagit farväl av Huset [Ka'bah]. Detta sker genom att han utför en *ṭawāf* i sju varv runt Ka'bah. Det finns ingen *sa´ī* i den. *ṭawāf ul-wadā’* innehåller ingen *sa´ī*, i stället är det endast en *ṭawāf*.
+Om man befinner sig utanför Mecka, som invånarna i Jiddah, at-Ta'if och Medina, med flera, då får man inte ge sig av förrän man har tagit farväl av Huset [Ka'bah]. Detta sker genom att han utför en *ṭawāf* i sju varv runt Ka'bah. Det finns ingen *sa´ī* i den. *ṭawāf ul-wadā´* innehåller ingen *sa´ī*, i stället är det endast en *ṭawāf*.
 
 Om man ger sig av och inte tar farväl av Huset [Ka’bah], då måste han [enligt en majoritet av de lärda] slakta ett djur. Det bör slaktas i Mecka och delas ut till de fattiga och behövande där. Vallfärden är giltig, vilket vi har nämnt tidigare. Detta är åsikten som majoriteten av de lärda har.
 
-Detta innebär att *tawāf[^1] ul-wadā* är en obligatorisk rit, enligt den mest korrekta åsikten av de åsikter som de lärde har. Ibn 'Abbās har sagt: "*Den som lämnar en rit eller glömmer den, låt denne då spilla lite blod [offra ett djur]*."
+Detta innebär att *ṭawāf ul-wadā´* är en obligatorisk rit, enligt den mest korrekta åsikten av de åsikter som de lärde har. Ibn 'Abbās har sagt: "*Den som lämnar en rit eller glömmer den, låt personen då spilla lite blod [offra ett djur]*."
 
-Och *tawāf[^1] ul-wadā* är en rit som avsiktligen utelämnades. Därför måste lite blod spillas genom att ett djur offras i Mecka till de fattiga och behövande. Att han återvände [för att göra det], upphäver inte hans skyldighet att offra. Detta är överlag den föredragna åsikten och det är åsikten som jag föredrar.
+Och *ṭawāf ul-wadā´* är en rit som avsiktligen utelämnades. Därför måste lite blod spillas genom att ett djur offras i Mecka till de fattiga och behövande. Att han återvände [för att göra det], upphäver inte hans skyldighet att offra. Detta är överlag den föredragna åsikten och det är åsikten som jag föredrar.
 
 Och Allāh vet bäst.
 

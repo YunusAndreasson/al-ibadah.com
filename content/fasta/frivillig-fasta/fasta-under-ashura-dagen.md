@@ -8,11 +8,11 @@ categories:
   - Frivillig fasta
 original_id: 485
 description: 'Fråga: Den som fastar den nionde och tionde och som det sedan blir
- klart för efteråt att denne har fastat den åttonde och den nionde – vilket är då
- utlåtandet? Behöver denne ta igen? Svar: Han...'
+ klart för efteråt att personen har fastat den åttonde och den nionde – vilket är då
+ utlåtandet? Behöver personen ta igen? Svar: Han...'
 ---
 
-**Fråga:** Den som fastar den nionde och tionde och som det sedan blir klart för efteråt att denne har fastat den åttonde och den nionde – vilket är då utlåtandet? Behöver denne ta igen?
+**Fråga:** Den som fastar den nionde och tionde och som det sedan blir klart för efteråt att personen har fastat den åttonde och den nionde – vilket är då utlåtandet? Behöver personen ta igen?
 
 **Svar:** Han behöver inte ta igen denna fasta och han får en fullständig belöning, om Allāh vill, grundat på hans avsikt då han enligt kalendern trodde att det var den nionde och den tionde. Därmed får han denna belöning, om Allāh vill. Han behöver inte ta igen fastan och han får belöningen för att ha fastat dessa båda dagar.
 

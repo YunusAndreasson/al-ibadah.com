@@ -1,5 +1,5 @@
 ---
-title: Fasta under sha'ban
+title: Fasta under s̲ha´bān
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.

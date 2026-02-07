@@ -1,5 +1,5 @@
 ---
-title: Mor vallfärdade med annan än sin mahram
+title: Mor vallfärdade med annan än sin maḥram
 author: Dr. Sālih Ibn Fowzan Ibn ´Abdullah Ibn Fowzān
 source: 'al-Muntaqā min Fatāwa Ibn Fowzān – volym 3, sida168, fatwa 253'
 categories:

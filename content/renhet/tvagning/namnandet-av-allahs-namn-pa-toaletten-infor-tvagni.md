@@ -1,5 +1,5 @@
 ---
-title: Bismillah på toaletten vid tvagning
+title: Bismillāh på toaletten vid tvagning
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.

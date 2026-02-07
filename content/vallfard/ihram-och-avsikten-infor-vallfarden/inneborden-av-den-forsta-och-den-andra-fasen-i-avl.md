@@ -1,5 +1,5 @@
 ---
-title: Innebörden av den första och den andra fasen i avlägsnandet av ihrām
+title: Innebörden av den första och den andra fasen i avlägsnandet av iḥrām
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.

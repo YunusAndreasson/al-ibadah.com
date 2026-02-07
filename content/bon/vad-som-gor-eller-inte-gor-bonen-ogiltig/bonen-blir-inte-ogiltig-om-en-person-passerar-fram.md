@@ -10,13 +10,13 @@ categories:
 original_id: 1473
 description: >-
   Fråga: Blir bönen ogiltig om någon går framför? Svar: En person som passerar
-  precis framför en [annan] troende som ber gör inte dennes bön ogiltig. Endast
+  precis framför en [annan] troende som ber gör inte personens bön ogiltig. Endast
   tre saker gör den ogiltig [enligt den...
 ---
 
 **Fråga:** Blir bönen ogiltig om någon går framför?
 
-**Svar:** En person som passerar precis framför en [annan] troende som ber gör inte dennes bön ogiltig. Endast tre saker gör den ogiltig [enligt den mest korrekta åsikten bland de lärde]: en vuxen kvinna, en svart hund och en åsna. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*En muslimsk mans bön bryts om han inte har något framför sig som en kamelsadel av: en kvinna, en åsna och en svart hund*.” Det sades: ”*Allāhs sändebud! Varför en svart hund och inte en röd eller gul?*” Han sade: ”*Den svarta hunden är en djävul*.” [^2]
+**Svar:** En person som passerar precis framför en [annan] troende som ber gör inte personens bön ogiltig. Endast tre saker gör den ogiltig [enligt den mest korrekta åsikten bland de lärde]: en vuxen kvinna, en svart hund och en åsna. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*En muslimsk mans bön bryts om han inte har något framför sig som en kamelsadel av: en kvinna, en åsna och en svart hund*.” Det sades: ”*Allāhs sändebud! Varför en svart hund och inte en röd eller gul?*” Han sade: ”*Den svarta hunden är en djävul*.” [^2]
 
 Enligt den mest korrekta åsikten bland de lärde är innebörden att dessa tre bryter bönen. Om någon passerar framför så tömmer det inte belöningen. Är det möjligt bör därför Allāhs tjänare hindra honom att passera framför. Det är inte tillåtet att gå framför den som ber.
 
@@ -28,7 +28,7 @@ profetens – över honom vare Allāhs frid och välsignelser – *sunnah* bevis
 
 Det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah* att en muslim har något framför sig: en stol, ett spjut som sticks ned i marken, en vägg eller en av moskéns pelare. Om folket sedan går bakom denna *sutrah*, då kommer det inte skada bönen. Det som är förbjudet är att de passerar mellan den bedjande och hans *sutrah*.
 
-Om den som passerade framför tjänaren var en kvinna, en åsna eller en svart hund – då bryts bönen. På samma sätt om dessa tre gick nära tjänaren medan denne inte hade en *sutrah*, närmare än tre alnar, då hade de brutit bönen. Men om de gick långt bort, längre bort än tre alnar, då skulle det inte skada bönen.
+Om den som passerade framför tjänaren var en kvinna, en åsna eller en svart hund – då bryts bönen. På samma sätt om dessa tre gick nära tjänaren medan personen inte hade en *sutrah*, närmare än tre alnar, då hade de brutit bönen. Men om de gick långt bort, längre bort än tre alnar, då skulle det inte skada bönen.
 
 Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – bad vid Ka'bah och han såg till att det fanns tre alnar mellan honom och den västra väggen. De lärde citerar detta som ett bevis för att detta är avståndet för en *sutrah*.
 
@@ -38,6 +38,6 @@ Och genom Allāh uppnås framgång.
 
 [^1]: Ett objekt i form av exempelvis en pinne, stav eller vägg. Skall vara minst en fot hög. Agerar symbolisk skiljelinje mellan den bedjande och de som passerar framför.
 
-[^2]: *Muslim* 510, *Abū Dāwūd* 702, *at-Tirmithi* 338 och *Ibn Mājah* 952
+[^2]: *Muslim* 510, *Abū Dāwūd* 702, *at-Tirmid̲hī* 338 och *Ibn Mājah* 952
 [^3]: *al-Buk̲hārī* 510, *Muslim* 507 och *Abū Dāwūd* 701
 [^4]: *al-Buk̲hārī* 509 och *Muslim* 505

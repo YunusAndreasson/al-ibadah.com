@@ -32,4 +32,4 @@ Utöver himlarna och jorden finns en värld som endast Allāh känner till. Vi k
 
 [^2]: Koranen 3:133
 [^3]: *Aḥmad* 4:75 och *al-Ḥākim* 1:114
-[^4]: *Muslim* 476 och *at-Tirmithi* 3423
+[^4]: *Muslim* 476 och *at-Tirmid̲hī* 3423

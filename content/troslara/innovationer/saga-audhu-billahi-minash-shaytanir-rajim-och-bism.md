@@ -1,5 +1,5 @@
 ---
-title: Säga ”Audhū Billāhi minash-shaytānir-rajīm” och ”Bismillāhir-Rahmānir-Rahīm”
+title: Säga "Aud̲hū Billāhi minas̲h-s̲haytānir-rajīm" och "Bismillāhir-Raḥmānir-Raḥīm"
  före böneutropet
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: a-Bid'u wal-Muhdathāt wa mā lā asla lahu – sida 190

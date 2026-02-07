@@ -15,11 +15,11 @@ description: >-
   har kunskap om det som är dolt för människor och där...
 ---
 
-**Fråga:** Om någon tror att profeten – över honom vare Allāhs frid och välsignelser – är ett ljus från Allāh, att han inte är mänsklig och att han har kunskap om det som är dolt för människor[^1] och därmed söker hjälp från honom i tron om att han har makt att skydda mot ont – vilket är utlåtandet om detta? Får man be bakom denne? Ge oss råd och må Allāh belöna er med det goda.
+**Fråga:** Om någon tror att profeten – över honom vare Allāhs frid och välsignelser – är ett ljus från Allāh, att han inte är mänsklig och att han har kunskap om det som är dolt för människor[^1] och därmed söker hjälp från honom i tron om att han har makt att skydda mot ont – vilket är utlåtandet om detta? Får man be bakom personen? Ge oss råd och må Allāh belöna er med det goda.
 
-**Svar:** Den som tror att profeten – över honom vare Allāhs frid och välsignelser – är ett ljus från Allāh, att han inte är mänsklig och att han känner till det som är dolt för människor[^1] – denne tror inte på Allāh och Hans sändebud. Denne är en fiende till dem och denne är inte deras vän. Detta beror på att dennes ord motsäger sig Allāhs och profetens – över honom vare Allāhs frid och välsignelser – och den som motsäger sig Allāh och profeten – över honom vare Allāhs frid och välsignelser – är en icke-troende.
+**Svar:** Den som tror att profeten – över honom vare Allāhs frid och välsignelser – är ett ljus från Allāh, att han inte är mänsklig och att han känner till det som är dolt för människor[^1] – personen tror inte på Allāh och Hans sändebud. Personen är en fiende till dem och personen är inte deras vän. Detta beror på att personens ord motsäger sig Allāhs och profetens – över honom vare Allāhs frid och välsignelser – och den som motsäger sig Allāh och profeten – över honom vare Allāhs frid och välsignelser – är en icke-troende.
 
-Beviset för att dennes ord strider mot Allāhs och profetens – över honom vare Allāhs frid och välsignelser – återfinns i Allāhs den Upphöjdes ord:
+Beviset för att personens ord strider mot Allāhs och profetens – över honom vare Allāhs frid och välsignelser – återfinns i Allāhs den Upphöjdes ord:
 
 > ”Säg: ’Jag är bara en vanlig människa som ni.*’*” [Koranen 18:110]
 
@@ -31,7 +31,7 @@ Beviset för att dennes ord strider mot Allāhs och profetens – över honom va
 
 Profeten – över honom vare Allāhs frid och välsignelser – har också sagt: ”*Jag är inte mer än en människa som er. Jag glömmer som ni glömmer så påminn mig om jag glömmer*." [^2]
 
-Den som har sökt hjälp från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i tron om att han har makt att hjälpa eller att skydda denne mot ont, är en icke-troende. Denne har då motsagt sig Allāh den Upphöjde och satt medhjälpare vid Hans sida. Allāh den Upphöjde säger ju:
+Den som har sökt hjälp från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i tron om att han har makt att hjälpa eller att skydda personen mot ont, är en icke-troende. Personen har då motsagt sig Allāh den Upphöjde och satt medhjälpare vid Hans sida. Allāh den Upphöjde säger ju:
 
 > ”Er Herre säger: ’Be till Mig, så ska Jag besvara er [bön]. De som håller sig för goda för att tjäna Mig ska gå med böjt huvud in i helvetet.” [Koranen 40:60]
 
@@ -39,7 +39,7 @@ Den som har sökt hjälp från Allāhs sändebud – över honom vare Allāhs fr
 
 Profeten – över honom vare Allāhs frid och välsignelser – sade till sina släktingar: ”*Jag kan på intet sätt hjälpa er mot Allāh*.” [^3] Detta sade han till Fatimah och Safiyyah som var profetens – över honom vare Allāhs frid och välsignelser – moster.
 
-Det är inte tillåtet att be bakom sådana som denne. Bön accepteras inte bakom dem och det är inte tillåtet att utse dem till imamer över muslimer.
+Det är inte tillåtet att be bakom sådana som personen. Bön accepteras inte bakom dem och det är inte tillåtet att utse dem till imamer över muslimer.
 
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 

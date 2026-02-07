@@ -46,13 +46,13 @@ Ett allvarligt hot har kommit till den som snålar med allmosan eller som missly
 
 Alla former av tillgångar som fordrar allmosa som inte har betalats är den giriges skatt [*kanz*]. Dess ägare kommer att plågas med den på Återuppståndelsens dag på det sätt som det har berättats om i en autentisk *ḥadīt̲h* i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
 
-> ”Det finns ingen som äger guld eller silver och som inte betalar för dessa utan att eldplattor kommer att tillverkas för denne på Återuppståndelsens dag. De kommer att värmas med Helvetets eld. Sedan kommer dennes sidor, panna och rygg att brännas med dem. Varje gång de svalnar återupprepas processen för denne under en dag som kommer att vara femtiotusen år. Detta kommer att fortsätta tills domen har förkunnats bland tjänarna. Då kommer denne att se om dennes väg leder till Paradiset eller Elden.” [*Muslim* 987]
+> ”Det finns ingen som äger guld eller silver och som inte betalar för dessa utan att eldplattor kommer att tillverkas för personen på Återuppståndelsens dag. De kommer att värmas med Helvetets eld. Sedan kommer personens sidor, panna och rygg att brännas med dem. Varje gång de svalnar återupprepas processen för personen under en dag som kommer att vara femtiotusen år. Detta kommer att fortsätta tills domen har förkunnats bland tjänarna. Då kommer personen att se om personens väg leder till Paradiset eller Elden.” [*Muslim* 987]
 
 Sedan nämnde profeten – över honom vare Allāhs frid och välsignelser – de som äger kameler, kor och får och som inte har betalat allmosa. Han informerade om att de kommer att plågas av dem på Återuppståndelsens dag.
 
 Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Den som Allāh ger tillgångar och som inte betalar dess allmosa, på Återuppståndelsens dag kommer dennes tillgångar att göras till en skallig [och] giftig ormhane med två svarta fläckar över dess ögon som kommer att ringla sig runt dennes hals. Sedan kommer den [ormen] att ta tag om dennes käke och säga: 'Jag är dina tillgångar, jag är din giriga skatt.'” [*al-Buk̲hārī* 1403]
+> ”Den som Allāh ger tillgångar och som inte betalar dess allmosa, på Återuppståndelsens dag kommer personens tillgångar att göras till en skallig [och] giftig ormhane med två svarta fläckar över dess ögon som kommer att ringla sig runt personens hals. Sedan kommer den [ormen] att ta tag om personens käke och säga: 'Jag är dina tillgångar, jag är din giriga skatt.'” [*al-Buk̲hārī* 1403]
 
 Sedan reciterade profeten – över honom vare Allāhs frid och välsignelser – denna vers:
 
@@ -64,7 +64,7 @@ Det som kommer ur marken i form av korn och frukt, betesboskap, guld och silver 
 
 Var och en av dessa fyra kategorier har en angiven lägsta gräns och allmosa är inte obligatorisk för det som understiger denna gräns.
 
-Den lägsta gränsen för korn och frukt är fem *awsuq*. En *wasq* är detsamma som 60 *ṣā´* enligt det måttsystem som profeten – över honom vare Allāhs frid och välsignelser – använde. Därmed är den lägsta gränsen för torkade dadlar, russin, vete, ris, korn och liknande varor 300 *ṣā´* enligt hur profeten – över honom vare Allāhs frid och välsignelser – vägde. En *ṣā´* är det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
+Den lägsta gränsen för korn och frukt är fem *awsuq*. En *wasq* är detsamma som 60 *ṣā´* enligt det måttsystem som profeten – över honom vare Allāhs frid och välsignelser – använde. Därmed är den lägsta gränsen för torkade dadlar, russin, vete, ris, korn och liknande varor 300 *ṣā´* enligt hur profeten – över honom vare Allāhs frid och välsignelser – vägde. En *ṣā´* är det mått som fyller en normalbyggd mans båda händer när personen kupar dem tillsammans.
 
 När det gäller den lägsta gränsen för betesboskap som kameler, kor och får så förklaras detta i detalj i autentiska *aḥādīt̲h* från Allāhs sändebud. Den som vill veta kan fråga de lärde om detta. Hade det inte varit för att avsikten med denna text hade varit att den ska vara kort, då hade vi lagt fram det här.
 
@@ -78,7 +78,7 @@ De papperspengar som man handlar med i dag har samma utlåtande som guld och sil
 
 Sådana smycken som kvinnor bär och som har gjorts speciellt av guld och silver inräknas bland pengarna. Om de uppnår den lägsta nivån och de har varit i en någons ägo under ett år, då måste man betala allmosa för dem. Enligt den korrekta åsikten av de två åsikter som de lärde har spelar det ingen roll om de används för personligt bruk eller om de har lånats. Anledningen återfinner vi i den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – uttalande:
 
-> ”Det finns ingen som äger guld eller silver och som inte betalar för dessa utan att eldplattor kommer att tillverkas för denne på Återuppståndelsens dag…” [*Muslim* 987]
+> ”Det finns ingen som äger guld eller silver och som inte betalar för dessa utan att eldplattor kommer att tillverkas för personen på Återuppståndelsens dag…” [*Muslim* 987]
 
 Till slutet av denna *ḥadīt̲h* som vi redan har visat. Detta beror också på vad man har bekräftat från profeten, att han såg två guldarmband på en kvinnas hand och sade: "*Betalar du allmosa för dessa?*" Kvinnan svarade: "*Nej*." Så han sade: "*Nöjer det dig att Allāh kommer att göra dem till två armband av eld till dig på Återuppståndelsens dag?*" Så hon slet av dem och sade: "*De är för Allāh och Hans sändebud*." [^2] Abū Dawūd och an-Nasā'i har återgivit denna *ḥadīt̲h* med en god berättarkedja.
 
@@ -92,7 +92,7 @@ När det gäller byggnader som hyrs ut men som inte är till försäljning, då 
 
 Man behöver heller inte betala allmosa för privatägda eller hyrda bilar då de inte är till försäljning. Ägaren har enbart köpt dem för att använda dem.
 
-Om den som äger hyrbilen, eller någon i en liknande situation, får ihop tillräckligt med pengar för att de ska uppnå den lägsta nivån, då måste denne betala allmosa för dessa pengar om ett år har gått medan de har varit i dennes ägo. Det spelar ingen roll om ägaren behåller pengarna för att spendera dem, att gifta sig, köpa egendom, betala av en skuld eller i något annat syfte. Detta beror på den allmänna innebörden av de bevisen som bevisar skyldigheten i allmosa för föremål som dessa.
+Om den som äger hyrbilen, eller någon i en liknande situation, får ihop tillräckligt med pengar för att de ska uppnå den lägsta nivån, då måste personen betala allmosa för dessa pengar om ett år har gått medan de har varit i personens ägo. Det spelar ingen roll om ägaren behåller pengarna för att spendera dem, att gifta sig, köpa egendom, betala av en skuld eller i något annat syfte. Detta beror på den allmänna innebörden av de bevisen som bevisar skyldigheten i allmosa för föremål som dessa.
 
 Den korrekta åsikten bland de lärde är att skuld inte hindrar skyldigheten att betala allmosa, på grund av vad som precis har nämnts.
 
@@ -102,7 +102,7 @@ Enligt en majoritet av de lärda krävs allmosa även för den föräldralöses 
 
 Allmosan är Allāhs rätt. Därför är det inte tillåtet att ge företräde till någon som inte förtjänar den. Allmosan bör inte användas för att uppnå personliga vinster eller för att undsätta sig någon fara. Den bör heller inte användas för att skydda de egna tillgångarna eller för att försvara sig mot kritik.
 
-I stället måste en muslim dela ut sin allmosa till dem som har rätt till den. De förtjänar ju den mest. Den bör inte ges i något annat syfte. Den bör ges i vänlig anda och med avsikten att den enbart är för Allāhs skull. Den som ger allmosa kommer då att vara fri från detta ansvar [om att betala den] och förtjäna fantastiska belöningar som en ersättning för vad denne gav.
+I stället måste en muslim dela ut sin allmosa till dem som har rätt till den. De förtjänar ju den mest. Den bör inte ges i något annat syfte. Den bör ges i vänlig anda och med avsikten att den enbart är för Allāhs skull. Den som ger allmosa kommer då att vara fri från detta ansvar [om att betala den] och förtjäna fantastiska belöningar som en ersättning för vad personen gav.
 
 Utan tvekan har Allāh i Sin ädla skrift klargjort de kategorier av människor som är berättigade till att ta emot allmosa. Allāh säger:
 

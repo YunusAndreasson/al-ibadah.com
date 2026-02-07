@@ -22,15 +22,15 @@ description: >-
 
 Dessa mutawatir *aḥādīt̲h* från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – klargör att han är den siste profeten. Alla muslimer är eniga om detta.
 
-De awliyā'[^1] som finns kan delas i två kategorier: De som är den Nåderikes *awliyā’*[^1] och de som är djävulens awliyā'[^1]. I Skriften och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* har Allāh den Upphöjde klargjort att han har *awliyā’*[^1] bland människorna och att även djävularna har *awliyā’*[^1].
+De awliyā'[^1] som finns kan delas i två kategorier: De som är den Nåderikes *awliyā’* och de som är djävulens awliyā'[^1]. I Skriften och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* har Allāh den Upphöjde klargjort att han har *awliyā’* bland människorna och att även djävularna har *awliyā’*.
 
-Han förklarar att det finns en skillnad mellan Hans *awliyā’*[^1] och djävulens *awliyā’*[^1] när Han säger: ”Helt visst ska de som är nära Gud aldrig känna fruktan och ingen sorg ska tynga dem, de som tror och ständigt har Honom för ögonen. Till dem är budskapet [om lycka] i detta liv och evig salighet riktat. Ingenting kan rubba Guda löfte. Detta är den stora, den lysande segern.” [^3]
+Han förklarar att det finns en skillnad mellan Hans *awliyā’* och djävulens *awliyā’* när Han säger: ”Helt visst ska de som är nära Gud aldrig känna fruktan och ingen sorg ska tynga dem, de som tror och ständigt har Honom för ögonen. Till dem är budskapet [om lycka] i detta liv och evig salighet riktat. Ingenting kan rubba Guda löfte. Detta är den stora, den lysande segern.” [^3]
 
 Och Allāh den Upphöjde säger: ”Gud är de troendes Beskyddare. Han leder dem ut ur mörkret till ljuset. Men de som förnekar sanningen har onda makter till beskyddare som leder dem ut ur ljuset till mörkret. De har Elden till arvedel och där ska de förbli till evig tid.” [^4]
 
-Abū Hurairah har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Den som är fientlig mot Min *walī*y – Jag förklarar krig mot denne.” [^5]
+Abū Hurairah har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Den som är fientlig mot Min *walī*y – Jag förklarar krig mot personen.” [^5]
 
-På detta sätt klargjorde profeten, med Allāhs den Allsmäktiges ord, att Han förklarar krig mot dem som motsätter sig Hans *awliyā’*[^1]. Allāh den Upphöjde har nämnt djävulens *awliyā’*[^1], när Han säger: ”När du [vill] läsa Koranen, be då Gud beskydda dig mot djävulen, den utstötte. Han har ingen makt över dem som tror och litar till sin Herre; hans makt är begränsad till dem som ställer sig under hans beskydd och som förleds av honom att tillskriva andra del i Guds makt.” [^6]
+På detta sätt klargjorde profeten, med Allāhs den Allsmäktiges ord, att Han förklarar krig mot dem som motsätter sig Hans *awliyā’*. Allāh den Upphöjde har nämnt djävulens *awliyā’*, när Han säger: ”När du [vill] läsa Koranen, be då Gud beskydda dig mot djävulen, den utstötte. Han har ingen makt över dem som tror och litar till sin Herre; hans makt är begränsad till dem som ställer sig under hans beskydd och som förleds av honom att tillskriva andra del i Guds makt.” [^6]
 
 Och Han den Upphöjde säger: ”Den som väljer djävulen till beskyddare i Guds ställe har gjort en uppenbar förlust.” [^7]
 

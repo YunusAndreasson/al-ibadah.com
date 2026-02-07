@@ -1,5 +1,5 @@
 ---
-title: Betydelsen av ahlus-sunnah wal-jamā’at
+title: Betydelsen av ahlus-sunnah wal-jamā´at
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Majmū’ Fatāwa wa Rasā’il Fadīlat al-shaykh Muḥammad ibn Sālih al-‘Uthaymīn,

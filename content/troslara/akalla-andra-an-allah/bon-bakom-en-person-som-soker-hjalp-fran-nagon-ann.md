@@ -23,12 +23,12 @@ description: >-
 
 Finner du ingen muslimsk imam som du kan be bakom, då får du be hemma. Kan du finna en församling att be med i moskén, antingen före eller när imamen som utövar *s̲hirk* har bett, då bör du be med dem. 
 
-Har muslimerna möjlighet att få denne imam som utövar *s̲hirk* avsatt och ersätt med en muslimsk imam som kan leda folket i bön, då måste de göra så då detta är en del av att påbjuda det goda och att förbjuda det onda – om det är möjligt att göra så utan att skapa konflikter. Det är även ett verkställande av Allāhs lag på jorden. Allāh säger:
+Har muslimerna möjlighet att få imamen som utövar *s̲hirk* avsatt och ersätt med en muslimsk imam som kan leda folket i bön, då måste de göra så då detta är en del av att påbjuda det goda och att förbjuda det onda – om det är möjligt att göra så utan att skapa konflikter. Det är även ett verkställande av Allāhs lag på jorden. Allāh säger:
 
 > ”Men de troende, männen såväl som kvinnorna är, varandras [sanna] vänner och fasta stöd; de anbefaller det som är rätt och förbjuder det som är orätt och förrättar bönen och betalar allmoseskatten och de lyder Gud och Hans Sändebud. Dem ska Gud visa barmhärtighet. Gud är allsmäktig, vis.” [Koranen 9:71]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Om någon av er ser något ont bör han ställa det tillrätta med sin hand, är han inte förmögen att göra det, bör han göra det med sin tunga, och om han inte är förmögen att göra det, bör han hata det i sitt hjärta – och det är den lägsta formen av tro.” [*Muslim* 49, *at-Tirmithi* 2172, *Aḥmad* 3:49, 52-54 och *an-Nasā’ī* 5011]
+> ”Om någon av er ser något ont bör han ställa det tillrätta med sin hand, är han inte förmögen att göra det, bör han göra det med sin tunga, och om han inte är förmögen att göra det, bör han hata det i sitt hjärta – och det är den lägsta formen av tro.” [*Muslim* 49, *at-Tirmid̲hī* 2172, *Aḥmad* 3:49, 52-54 och *an-Nasā’ī* 5011]
 
 

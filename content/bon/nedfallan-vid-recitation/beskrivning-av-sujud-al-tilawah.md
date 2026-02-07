@@ -1,5 +1,5 @@
 ---
-title: Beskrivning av sujūd al-tilāwah
+title: Beskrivning av sujūd at-tilāwah
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Majmū’ Fatāwa wa Maqālāt Samāhat al-shaykh Ibn Bāz, 11/406 Muhammed Knut

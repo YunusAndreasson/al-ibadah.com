@@ -1,5 +1,5 @@
 ---
-title: 'Tiden och antalet bönecykler för förmiddagsbönen [dhuhā]'
+title: 'Tiden och antalet bönecykler för förmiddagsbönen [d̲huhā]'
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.

@@ -25,7 +25,7 @@ Och han har sagt: "*Den som är rädd för att han inte ska [kunna] gå upp unde
 Är det inte en svårighet för en att be nattbönen i slutet av natten, då bör han försegla sin bön med en bönecykel som *witr*. Den som tycker att detta är svårt ber *witr* vid början av natten. Gör Allāh det lätt för honom att gå upp och be, då bör han be vad han kan i enheter om två bönecykler och han behöver inte upprepa den första *witr*. Den är tillräcklig för honom enligt den *ḥadīt̲h* som har nämnts tidigare: "*Det kan inte finnas två witr-böner under en natt.*" [^4]
 
 
-[^1]: *Abū Dāwūd* 1439 och *at-Tirmithi* 470
+[^1]: *Abū Dāwūd* 1439 och *at-Tirmid̲hī* 470
 [^2]: *al-Buk̲hārī* 990 och *Muslim* 151, 751
 [^3]: *Muslim* 755
-[^4]: *Abū Dāwūd* 1439 och *at-Tirmithi* 470
+[^4]: *Abū Dāwūd* 1439 och *at-Tirmid̲hī* 470

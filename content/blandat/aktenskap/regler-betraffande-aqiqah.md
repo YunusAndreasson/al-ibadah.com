@@ -24,4 +24,4 @@ Den grundläggande principen är att *´aqīqah* är obligatoriskt för fadern o
 Det som är *sunnah* är att personen utför offret, äter en tredjedel av det, ger bort en tredjedel som gåva till vännerna och ger en tredjedel i välgörenhet till muslimerna. Han får bjuda in vänner och släktingar för att äta det eller ge bort allt i välgörenhet.
 
 
-[^1]: *Abū Dāwūd* 2837 och *at-Tirmithi* 1522
+[^1]: *Abū Dāwūd* 2837 och *at-Tirmid̲hī* 1522

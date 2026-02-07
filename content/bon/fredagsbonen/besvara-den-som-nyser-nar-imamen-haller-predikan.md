@@ -14,7 +14,7 @@ description: 'Fråga : Vilket är utlåtandet om att besvara den som nyser medan
 
 **Fråga**: Vilket är utlåtandet om att besvara den som nyser medan imamen håller fredagspredikan?
 
-**Svar**: Då man måste vara tyst är det inte tillåtet. På samma sätt som den som nyser inte besvaras i bönen, besvaras denne heller inte under predikan.
+**Svar**: Då man måste vara tyst är det inte tillåtet. På samma sätt som den som nyser inte besvaras i bönen, besvaras personen heller inte under predikan.
 
 Allāh är Beviljaren av framgång.
 

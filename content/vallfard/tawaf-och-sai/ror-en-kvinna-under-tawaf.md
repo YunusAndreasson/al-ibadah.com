@@ -1,5 +1,5 @@
 ---
-title: Rör en kvinna under tawāf
+title: Rör en kvinna under ṭawāf
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -10,12 +10,12 @@ categories:
   - Rundvandring och löpning
 original_id: 805
 description: >-
-  Fråga: En man utförde under väldig trängsel tawāful-ifādhah och han rörde en
+  Fråga: En man utförde under väldig trängsel ṭawāful-ifāḍah och han rörde en
   kvinnas kropp. Denna kvinna var inte släkt med honom. Gör detta hans tawāf
   ogiltig, så att han bör göra om den med ...
 ---
 
-**Fråga:** En man utförde under väldig trängsel *tawāf[^1] ul-ifādhah* och han rörde en kvinnas kropp. Denna kvinna var inte släkt med honom. Gör detta hans *ṭawāf* ogiltig, så att han bör göra om den med tanke på tvagningen?
+**Fråga:** En man utförde under väldig trängsel *ṭawāf ul-ifāḍah* och han rörde en kvinnas kropp. Denna kvinna var inte släkt med honom. Gör detta hans *ṭawāf* ogiltig, så att han bör göra om den med tanke på tvagningen?
 
 **Svar:** En man som rör en kvinnas kropp under hans *ṭawāf*, eller i folksamlingar vid någon annan plats, får inte sin *ṭawāf* eller tvagning förstörd. Detta enligt den mest korrekta åsikten bland de lärde.
 
@@ -29,7 +29,7 @@ Den rätta förklaringen av Allāhs ord: "*Eller haft beröring med kvinnor*." [
 
 Det betyder inte att man enbart rör en kvinna, som rapporterats från Ibn Mas'ūd. I stället är den korrekta åsikten att det avser intim samvaro, vilket Ibn 'Abbās och några lärde har sagt.
 
-Genom detta lär vi oss att den som rör en kvinnas kropp under *ṭawāf* fortfarande har en korrekt *ṭawāf* och att dennes tvagning är giltig. Även om denne rör eller kysser sin fru är dennes tvagning giltig så länge inget kommer ur honom [vätska eller sperma].
+Genom detta lär vi oss att den som rör en kvinnas kropp under *ṭawāf* fortfarande har en korrekt *ṭawāf* och att personens tvagning är giltig. Även om personen rör eller kysser sin fru är personens tvagning giltig så länge inget kommer ur honom [vätska eller sperma].
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 

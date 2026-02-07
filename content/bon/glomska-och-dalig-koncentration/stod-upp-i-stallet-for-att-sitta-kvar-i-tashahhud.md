@@ -1,5 +1,5 @@
 ---
-title: Stod upp i stället för att sitta kvar i tashahhud
+title: Stod upp i stället för att sitta kvar i tas̲hahhud
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.

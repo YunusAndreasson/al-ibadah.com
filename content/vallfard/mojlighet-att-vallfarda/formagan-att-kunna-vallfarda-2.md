@@ -11,12 +11,12 @@ original_id: 1323
 description: >-
   Fråga: Vilken är den ”förmåga” som man talar om då vallfärden diskuteras?
   Svar: Den ”förmåga” som man talar om när det gäller vallfärden är en persons
-  hälsa och att denne har de transportmede...
+  hälsa och att personen har de transportmede...
 ---
 
 **Fråga:** Vilken är den ”förmåga” som man talar om då vallfärden diskuteras?
 
-**Svar:** Den ”förmåga” som man talar om när det gäller vallfärden är en persons hälsa och att denne har de transportmedel som krävs för att ta sig till Allāhs heliga hus. Transportmedlet kan vara ett flygplan, en bil, ett djur eller en taxi. Detta beror på vilken situation som denne befinner sig i. Detta innebär även att denne har tillgångar som är tillräckliga för att ta sig dit och sedan tillbaka. Denne måste även ha lite extra tillgångar som denne, till hemkomsten från vallfärden, ger dem som denne är skyldig att ta hand om. Det innebär även att kvinnan har sin man eller *maḥram* med sig under resan till vallfärden eller *´umrah*.
+**Svar:** Den ”förmåga” som man talar om när det gäller vallfärden är en persons hälsa och att personen har de transportmedel som krävs för att ta sig till Allāhs heliga hus. Transportmedlet kan vara ett flygplan, en bil, ett djur eller en taxi. Detta beror på vilken situation som personen befinner sig i. Detta innebär även att personen har tillgångar som är tillräckliga för att ta sig dit och sedan tillbaka. Personen måste även ha lite extra tillgångar som personen, till hemkomsten från vallfärden, ger dem som personen är skyldig att ta hand om. Det innebär även att kvinnan har sin man eller *maḥram* med sig under resan till vallfärden eller *´umrah*.
 
 När det gäller belöningarna för ens vallfärd beror detta på ens grad av uppriktighet mot Allāh, vilka riter som utförs under vallfärden, hur man undvikt det som motsäger sig en perfekt vallfärden, vad man spenderar av sina tillgångar och den grad av ansträngning som tålmodigt har burits. Det spelar ingen roll om man återvänder, stannar i Saudiarabien eller avlider före [eller efter] ens vallfärd är slutförd. Allāh känner bäst till ens situation och Han är Den som styr över ens belöningar.
 

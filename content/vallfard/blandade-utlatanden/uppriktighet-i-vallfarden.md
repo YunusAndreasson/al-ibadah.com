@@ -9,12 +9,12 @@ categories:
   - Övrigt
 original_id: 895
 description: >-
-  Fråga: Hur kan en pilgrim vara uppriktig mot Allāh då denne utför ritualerna?
-  Om denne vill göra affärer för att tjäna sitt levebröd samtidigt som denne
-  vallfärdar, betyder det att denne inte är u...
+  Fråga: Hur kan en pilgrim vara uppriktig mot Allāh då personen utför ritualerna?
+  Om personen vill göra affärer för att tjäna sitt levebröd samtidigt som personen
+  vallfärdar, betyder det att personen inte är u...
 ---
 
-**Fråga:** Hur kan en pilgrim vara uppriktig mot Allāh då denne utför ritualerna? Om denne vill göra affärer för att tjäna sitt levebröd samtidigt som denne vallfärdar, betyder det att denne inte är uppriktig mot Allāh?
+**Fråga:** Hur kan en pilgrim vara uppriktig mot Allāh då personen utför ritualerna? Om personen vill göra affärer för att tjäna sitt levebröd samtidigt som personen vallfärdar, betyder det att personen inte är uppriktig mot Allāh?
 
 **Svar:** All lovprisan tillhör Allāh. Uppriktighet är ett nödvändigt villkor i all dyrkan och ingen dyrkan är giltig om någon eller något sätts vid sidan av Allāh. Han säger:
 
@@ -26,17 +26,17 @@ description: >-
 
 Enligt en sann *hadīth qudsi*[^1] säger profeten – över honom vare Allāhs frid och välsignelser:
 
-> ”Allāh – må Han vara välsignad och upphöjd – säger: 'Jag är Mig Själv så nog att jag inte är i behov av att ha någon medhjälpare. Den som då utför en handling för både någon annans skull och Min, [denne] kommer att få den handlingen avvisad av Mig för vad denne satte vid Min sida.'”
+> ”Allāh – må Han vara välsignad och upphöjd – säger: 'Jag är Mig Själv så nog att jag inte är i behov av att ha någon medhjälpare. Den som då utför en handling för både någon annans skull och Min, [personen] kommer att få den handlingen avvisad av Mig för vad personen satte vid Min sida.'”
 
-Det som avses med uppriktighet mot Allāh i dyrkan är att inget motiverar denne att dyrka utom kärlek och vördnad av Allāh och hopp om Hans belöningar och välbehag. Därför säger Allāh om Muḥammad:
+Det som avses med uppriktighet mot Allāh i dyrkan är att inget motiverar personen att dyrka utom kärlek och vördnad av Allāh och hopp om Hans belöningar och välbehag. Därför säger Allāh om Muḥammad:
 
 > ”Muḥammad är Guds Sändebud. De som följer honom är oböjligt fasta mot dem som förnekar sanningen, men sinsemellan fulla av värme och vänskap. Du ser hur de böjer ryggen och faller ned inför Gud i tillbedjan och säker Hans nåd och Hans välbehag; i sina ansikten bär de spåren av [de många] nedfallen under bönen.” [Koranen 48:29]
 
-Ingen dyrkan, oavsett om det är vallfärden eller något annat, kommer att accepteras om denne gör det för att imponera på andra människor eller för att andra människor ska se och säga: ”Så ädel den och den är, så mycket denne dyrkar Allāh”.
+Ingen dyrkan, oavsett om det är vallfärden eller något annat, kommer att accepteras om personen gör det för att imponera på andra människor eller för att andra människor ska se och säga: ”Så ädel den och den är, så mycket personen dyrkar Allāh”.
 
-Ingen dyrkan kommer att accepteras om motivationen bakom den är att se platser eller att träffa människor, eller andra saker som står i motsats till uppriktighet. Därför måste en pilgrim som beger sig till det Heliga Huset ha en uppriktig avsikt för Allāhs skull och inte avse att se den muslimska världen, att göra affärer eller för att det ska sägas att denne vallfärdar varje år.
+Ingen dyrkan kommer att accepteras om motivationen bakom den är att se platser eller att träffa människor, eller andra saker som står i motsats till uppriktighet. Därför måste en pilgrim som beger sig till det Heliga Huset ha en uppriktig avsikt för Allāhs skull och inte avse att se den muslimska världen, att göra affärer eller för att det ska sägas att personen vallfärdar varje år.
 
-Det finns inget felaktigt i om någon som söker Allāhs gåvor gör affärer medan denne reser till det Heliga Huset. Allāh säger:
+Det finns inget felaktigt i om någon som söker Allāhs gåvor gör affärer medan personen reser till det Heliga Huset. Allāh säger:
 
 > ”Om ni [under vallfärden] önskar med er Herres nåd uppnå någon fördel, kan ni inte klandras för detta.” [Koranen 2:198]
 

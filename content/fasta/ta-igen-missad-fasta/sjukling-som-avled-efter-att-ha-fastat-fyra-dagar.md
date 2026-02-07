@@ -11,17 +11,17 @@ categories:
 original_id: 1060
 description: >-
   Fråga: En sjukling fastade under ramadan. Fyra dagar efter att månaden hade
-  börjat avled denne. Bör man ta igen återstoden av månaden för denne avlidne
+  börjat avled personen. Bör man ta igen återstoden av månaden för personen avlidne
   sjukling? Svar: Om sjukdomen som drabbad...
 ---
 
-**Fråga:** En sjukling fastade under *ramaḍān*. Fyra dagar efter att månaden hade börjat avled denne. Bör man ta igen återstoden av månaden för denne avlidne sjukling?
+**Fråga:** En sjukling fastade under *ramaḍān*. Fyra dagar efter att månaden hade börjat avled personen. Bör man ta igen återstoden av månaden för personen avlidne sjukling?
 
-**Svar:** Om sjukdomen som drabbade denne kom plötsligt och den varade fram till denne gick bort, då är det inte nödvändigt att ta igen [fastan] för dennes räkning. Detta beror på att Allāh den Upphöjde säger: "*Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarande antal dagar*." [^1]
+**Svar:** Om sjukdomen som drabbade personen kom plötsligt och den varade fram till personen gick bort, då är det inte nödvändigt att ta igen [fastan] för personens räkning. Detta beror på att Allāh den Upphöjde säger: "*Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarande antal dagar*." [^1]
 
-För den sjuke är det en skyldighet att fasta ett antal andra dagar. Om denne avled innan denne haft möjlighet att göra det, då gäller inte skyldigheten längre då denne inte levde till tidpunkten då fastan vad obligatorisk. Denne går då att likna vid någon som avled under *s̲ha´bān*, denne är inte skyldig att fasta den väntande *ramaḍān*.
+För den sjuke är det en skyldighet att fasta ett antal andra dagar. Om personen avled innan personen haft möjlighet att göra det, då gäller inte skyldigheten längre då personen inte levde till tidpunkten då fastan vad obligatorisk. Personen går då att likna vid någon som avled under *s̲ha´bān*, personen är inte skyldig att fasta den väntande *ramaḍān*.
 
-Men om sjukdomen var av sådan art att denne inte förväntades att tillfriskna, då är den grundläggande principen att denne är skyldig att ge en fattig mat för varje dag.
+Men om sjukdomen var av sådan art att personen inte förväntades att tillfriskna, då är den grundläggande principen att personen är skyldig att ge en fattig mat för varje dag.
 
 
 [^1]: Koranen 2:185

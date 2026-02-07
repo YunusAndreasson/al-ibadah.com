@@ -1,5 +1,5 @@
 ---
-title: Träda in i ihrām innan mīqāt
+title: Träda in i iḥrām innan mīqāt
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -22,7 +22,7 @@ Invånarna i Medina får träda in i *iḥrām* i sina hem. På samma sätt så 
 
 När det gäller att träda in i *iḥrām* för vallfärden före dess månader, likt den som går in i *iḥrām* för vallfärden under *ramaḍān*, då har några av de lärde förbjudit det. De anser att det är *iḥrām* för bönen [öppnande *takbīr*] före tiden för bönen har trätt in.
 
-Att den räknas är dock troligen närmare sanningen, för om något görs tidigt skadar det inte handlingen i sig. Det gör dock saker och ting svårt för den som har trätt in i *iḥrām*. Detta med anledning av tiden för *iḥrām* då denne kommer att befinna sig i *iḥrām* tills *´Arafāt*- och Offerdagen. Detta innebär svårigheter.
+Att den räknas är dock troligen närmare sanningen, för om något görs tidigt skadar det inte handlingen i sig. Det gör dock saker och ting svårt för den som har trätt in i *iḥrām*. Detta med anledning av tiden för *iḥrām* då personen kommer att befinna sig i *iḥrām* tills *´Arafāt*- och Offerdagen. Detta innebär svårigheter.
 
 Och Allāh vet bäst.
 

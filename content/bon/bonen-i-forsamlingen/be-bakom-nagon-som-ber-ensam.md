@@ -7,11 +7,11 @@ categories:
   - Församlingsbön
 original_id: 547
 description: 'Fråga: Om en muslim börjar be själv, och någon annan kommer, går det
- då bra om denne följer den första personen i hans bön, eller ska denne undvika
+ då bra om personen följer den första personen i hans bön, eller ska personen undvika
  honom eftersom han började sin bön ensam? S...'
 ---
 
-**Fråga:** Om en muslim börjar be själv, och någon annan kommer, går det då bra om denne följer den första personen i hans bön, eller ska denne undvika honom eftersom han började sin bön ensam?
+**Fråga:** Om en muslim börjar be själv, och någon annan kommer, går det då bra om personen följer den första personen i hans bön, eller ska personen undvika honom eftersom han började sin bön ensam?
 
 **Svar:** All lovprisan tillhör Allāh. Det är inte fel enligt den mer korrekta av de lärdes båda åsikter. Det finns olika åsikter i detta ämne men den korrekta åsikten är att det är tillåtet.
 

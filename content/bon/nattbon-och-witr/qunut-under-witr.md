@@ -21,5 +21,5 @@ description: >-
 Om han säger något passande är det inte syndigt men det är inte lämpligt att han drar ut på denna åkallan till den grad att det blir svårt för dem som leds i bön eller gör dem uttråkade. Profeten – över honom vare Allāhs frid och välsignelser – blev arg på Mu'ath när han drog ut på bönen och sade då: ”*Mu'ath, är det du som är orsaken till denna prövning?*” [^2]
 
 
-[^1]: *at-Tirmithi* 464
+[^1]: *at-Tirmid̲hī* 464
 [^2]: *al-Buk̲hārī* 705

@@ -10,24 +10,24 @@ categories:
   - Övrigt
 original_id: 703
 description: >-
-  Fråga: Vilka skyldigheter har en muslim när denne utför den obligatoriska
+  Fråga: Vilka skyldigheter har en muslim när personen utför den obligatoriska
   vallfärden? Är det tillåtet att sysselsätta sig med saker som inte har med att
-  tjäna Allāh att göra? Svar: Denne måste...
+  tjäna Allāh att göra? Svar: Personen måste...
 ---
 
-**Fråga:** Vilka skyldigheter har en muslim när denne utför den obligatoriska vallfärden? Är det tillåtet att sysselsätta sig med saker som inte har med att tjäna Allāh att göra?
+**Fråga:** Vilka skyldigheter har en muslim när personen utför den obligatoriska vallfärden? Är det tillåtet att sysselsätta sig med saker som inte har med att tjäna Allāh att göra?
 
-**Svar:** Denne måste ha sådant i tankarna som Allāh har gjort obligatoriskt. Detta innefattar att förrätta bönen noga vid deras givna tider i församlingen, att påbjuda det goda och förbjuda det onda, att kalla till Allāh med visdom samt gott tal och att undvika det som Allāh har förbjudit. Detta med anledning av vad Allāh har sagt:
+**Svar:** Personen måste ha sådant i tankarna som Allāh har gjort obligatoriskt. Detta innefattar att förrätta bönen noga vid deras givna tider i församlingen, att påbjuda det goda och förbjuda det onda, att kalla till Allāh med visdom samt gott tal och att undvika det som Allāh har förbjudit. Detta med anledning av vad Allāh har sagt:
 
 > ”Den som då beger sig i väg ska så länge vallfärden varar avhålla sig från intim samvaro med kvinnor, grovt tal samt trätor och tvister. Gud vet det goda ni gör.” [Koranen 2:197]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Den som vallfärdar och inte har intim samvaro [med sin fru] eller begår synder, denne kommer att återvända [efter vallfärden] som denne var den dag som dennes mor födde denne [utan synd].” [*al-Buk̲hārī* 1521 och *Muslim* 1350]
+> ”Den som vallfärdar och inte har intim samvaro [med sin fru] eller begår synder, personen kommer att återvända [efter vallfärden] som personen var den dag som personens mor födde personen [utan synd].” [*al-Buk̲hārī* 1521 och *Muslim* 1350]
 
 Ordet "*rafth*" avser att ha intim samvaro under *iḥrām* samt sådant som kan leda till det i form av tal och handling. Ordet "*fusuq*" avser alla olydiga handlingar.
 
-Detta beror också på att muslimer, vid alla tidpunkter och på alla platser, är skyldiga att frukta Allāh och att noga iaktta det som Allāh har gjort obligatoriskt samt undvika det som Han har förbjudit. Om en muslim då befinner sig i Allāhs heliga land och utför vallfärdsriterna, då är denna skyldighet ännu viktigare och strängare. Dennes synd, i att göra det som Allāh har förbjudit, är än större och allvarligare.
+Detta beror också på att muslimer, vid alla tidpunkter och på alla platser, är skyldiga att frukta Allāh och att noga iaktta det som Allāh har gjort obligatoriskt samt undvika det som Han har förbjudit. Om en muslim då befinner sig i Allāhs heliga land och utför vallfärdsriterna, då är denna skyldighet ännu viktigare och strängare. Personens synd, i att göra det som Allāh har förbjudit, är än större och allvarligare.
 
 Det är tillåtet att köpa och sälja, samt att göra andra saker som Allāh har tillåtit i form av ord och handling. Detta beror på att Allāh har sagt:
 

@@ -1,5 +1,5 @@
 ---
-title: Imamen glömmer bort att recitera sura al-Fātihah
+title: Imamen glömmer bort att recitera sura al-Fātiḥah
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.

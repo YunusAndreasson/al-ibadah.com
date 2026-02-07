@@ -24,7 +24,7 @@ Sedan kommer Allāh att föra fram en tredje man och fråga honom: ”Varför dy
 
 Allāh den Upphöjde kommer att säga till honom: "Här är jag, så se på mig! Jag har tillåtit Min belöning för dig och gett dig allt som du önskade.”
 
-För att sammanfatta så hade alla rätt men den som dyrkar Allāh för att han känner till att det är Hans rätt att dyrkas, att Han förtjänar att fruktas, att Han äger all förlåtelse, att Han är den som har skapat den som dyrkar, att Han är den som sänder Sina välhandlingar över honom samt att all nåd, frikostighet, lovprisan och godhet tillhör Honom – för denne finns det en större belöning.
+För att sammanfatta så hade alla rätt men den som dyrkar Allāh för att han känner till att det är Hans rätt att dyrkas, att Han förtjänar att fruktas, att Han äger all förlåtelse, att Han är den som har skapat den som dyrkar, att Han är den som sänder Sina välhandlingar över honom samt att all nåd, frikostighet, lovprisan och godhet tillhör Honom – för personen finns det en större belöning.
 
 Och Allāh vet bäst.
 

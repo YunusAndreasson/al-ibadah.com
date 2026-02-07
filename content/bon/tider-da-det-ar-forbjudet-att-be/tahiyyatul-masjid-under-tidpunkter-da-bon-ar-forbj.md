@@ -34,6 +34,6 @@ Och Allāh är Beviljaren av framgång.
 [^2]: Rakah.
 
 [^3]: *al-Buk̲hārī* 1163 och *Muslim* 714
-[^4]: *Abū Dāwūd* 1894, *at-Tirmithi* 868 och *Aḥmad* 4:81
+[^4]: *Abū Dāwūd* 1894, *at-Tirmid̲hī* 868 och *Aḥmad* 4:81
 [^5]: *al-Buk̲hārī* 1040 och *Muslim* 901
 [^6]: *al-Buk̲hārī* 597 och *Muslim* 684

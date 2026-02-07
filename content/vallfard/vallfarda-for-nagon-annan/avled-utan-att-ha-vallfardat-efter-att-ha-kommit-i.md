@@ -14,5 +14,5 @@ description: 'Fråga: Min son avled när jag var sexton år gammal och han hade 
 
 **Fråga:** Min son avled när jag var sexton år gammal och han hade inte vallfärdat. Krävs det av mig att jag vallfärdar för honom?
 
-**Svar:** Om pojken eller flickan har uppnått pubertetsåldern eller om de har blivit femton år gamla [vad som kommer först], då måste de vallfärda om de har möjlighet. Om någon vallfärdar före puberteten, då räknas inte den [som den obligatoriska vallfärden]. Om någon avled efter att ha kommit in i puberteten och denne hade möjlighet att vallfärda, då bör vallfärden utföras för dennes räkning med dennes pengar eller så bör dennes förmyndare vallfärda för dennes räkning.
+**Svar:** Om pojken eller flickan har uppnått pubertetsåldern eller om de har blivit femton år gamla [vad som kommer först], då måste de vallfärda om de har möjlighet. Om någon vallfärdar före puberteten, då räknas inte den [som den obligatoriska vallfärden]. Om någon avled efter att ha kommit in i puberteten och personen hade möjlighet att vallfärda, då bör vallfärden utföras för personens räkning med personens pengar eller så bör personens förmyndare vallfärda för personens räkning.
 

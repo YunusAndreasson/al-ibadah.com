@@ -1,5 +1,5 @@
 ---
-title: Avvisar autentiska ahādīth
+title: Avvisar autentiska aḥādīt̲h
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon: Maktaba

@@ -22,7 +22,7 @@ Det har återberättats av *ad-Dāraquṭnī* och *al-Ḥākim*, som klassat den
 
 al-Mughirah bin Shu'bah har berättat att han såg profeten – över honom vare Allāhs frid och välsignelser – tvaga sig och han försökte ta av hans lädersockar men profeten – över honom vare Allāhs frid och välsignelser – sade: "*Lämna dem. Jag tog ju på dem då jag var rituellt ren*." [^3]
 
-I dessa tre *aḥādīt̲h* och andra med samma innebörd blir det tydligt att en muslim inte får stryka över sockarna utom om han tog på dem under rituell renhet; och den som har tagit på sin högra sock innan han tvättat den vänstra, denne har inte hunnit bli rituell ren.
+I dessa tre *aḥādīt̲h* och andra med samma innebörd blir det tydligt att en muslim inte får stryka över sockarna utom om han tog på dem under rituell renhet; och den som har tagit på sin högra sock innan han tvättat den vänstra, personen har inte hunnit bli rituell ren.
 
 Några lärde anser att det är tillåtet att stryka över [dem] även om man har tagit på sin högra socka innan han har tvättat den vänstra [foten]. De har ju då tagits på direkt efter att fötterna tvättas.
 

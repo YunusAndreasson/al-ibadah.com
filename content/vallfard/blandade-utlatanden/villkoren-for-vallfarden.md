@@ -24,11 +24,11 @@ description: >-
 4. frihet och
 5. att man har möjlighet.
 
-Därför är det inte rätt om någon som inte tror vallfärdar. Dennes vallfärd accepteras inte då ett villkor saknas. Ett villkor för all dyrkan är att det finns islam. Den som inte är mentalt frisk behöver heller inte vallfärda och dennes vallfärd räknas inte för denne.
+Därför är det inte rätt om någon som inte tror vallfärdar. Personens vallfärd accepteras inte då ett villkor saknas. Ett villkor för all dyrkan är att det finns islam. Den som inte är mentalt frisk behöver heller inte vallfärda och personens vallfärd räknas inte för personen.
 
 När det gäller barn som inte har uppnått könsmognad är deras vallfärd giltig och förmyndaren belönas för den. Därför, får han belöningen för den. Denna vallfärd räknas dock inte som att ha uppfyllt den obligatoriska vallfärden. Barnet måste vallfärda även efter puberteten.
 
-En ägd slav behöver inte vallfärda även om det är en obligatorisk vallfärd. Detta beror på att denne är sysselsatt med att tjäna sin herre. Utförs den är den dock giltig och slaven belönas för den.
+En ägd slav behöver inte vallfärda även om det är en obligatorisk vallfärd. Detta beror på att personen är sysselsatt med att tjäna sin herre. Utförs den är den dock giltig och slaven belönas för den.
 
 När det gäller förmåga har Allāh endast gjort vallfärden obligatorisk för dem som har möjlighet att utföra den. "Förmåga" har förklarats som att man har tillgångar och transportmedel som är lämpliga. Detta gäller när man har uppfyllt sina egna och familjens grundläggande behov tills man återvänder från vallfärden. Detta är de allmänna villkoren.
 

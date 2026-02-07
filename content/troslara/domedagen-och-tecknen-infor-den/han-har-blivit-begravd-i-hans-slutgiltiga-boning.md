@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om att säga: ”Han har blivit begravd i hans slutliga boning”?
 
-**Svar:** När någon säger: ” Han har blivit begravd i hans slutliga boning” är det inte tillåtet därför att om du säger ”i hans slutliga boning” kräver det att graven är det slutliga för denne. I detta underförstås ett avvisande av Återuppståndelsen. Det är välkänt bland de flesta muslimer, utom för dem som inte tror på den Yttersta dagen, att graven inte är det slutliga. För dem är graven det slutliga men för en muslim är graven inte det sista.
+**Svar:** När någon säger: ” Han har blivit begravd i hans slutliga boning” är det inte tillåtet därför att om du säger ”i hans slutliga boning” kräver det att graven är det slutliga för personen. I detta underförstås ett avvisande av Återuppståndelsen. Det är välkänt bland de flesta muslimer, utom för dem som inte tror på den Yttersta dagen, att graven inte är det slutliga. För dem är graven det slutliga men för en muslim är graven inte det sista.
 
 En beduin hörde en man recitera Allāhs den Upphöjdes ord: ”*Ni finner ert nöje i att överglänsa varandra i rikedom och världsliga framgångar ända till dess ni står vid gravens rand*.” [^1] Han sade då: ”Vid Allāh, besökaren är inte bosatt [på platsen].” Den som besöker olika platser lämnar dem också och då måste det finnas en Återuppståndelse. Detta är korrekt.
 

@@ -17,7 +17,7 @@ description: 'Fråga: En man bad i profetens – över honom vare Allāhs frid o
 
 Då det är avskyvärt måste Allāhs hus [moskéerna] skyddas från det. Att bära med sig dem in i moskén står i motsats till vad som innebär att hedra och respektera dem. Därför är det inte tillåtet att göra så.
 
-Men om avsikten med frågan är utlåtandet om handlingen – vilket avser bönen – och om cigaretterna som föll ur fickan ogiltigör eller fördärvar bönen, då är bönen för denne korrekt.
+Men om avsikten med frågan är utlåtandet om handlingen – vilket avser bönen – och om cigaretterna som föll ur fickan ogiltigör eller fördärvar bönen, då är bönen för personen korrekt.
 
 Må Allāh sända välsignelser och frid över vår profet Muḥammad.
 

@@ -16,9 +16,9 @@ description: >-
 
 **Fråga:** Vilket är straffet för att låta ens klädesplagg hänga nedanför anklarna om man avsåg att visa högmod och vilket är straffet om man inte avsåg att visa högmod och stolthet genom att göra så? Hur bör vi besvara dem som talar om att Abū Bakr – må Allāh vara nöjd med honom – gjorde detta?
 
-**Svar:** Om någon avser att visa stolthet och högmod genom att låta klädesplagget hänga nedanför fotknölen är straffet att Allāh den Upphöjde på Återuppståndelsens dag inte kommer att titta på, tala till eller förlåta denne. Det kommer att finnas ett smärtsamt straff för denne.
+**Svar:** Om någon avser att visa stolthet och högmod genom att låta klädesplagget hänga nedanför fotknölen är straffet att Allāh den Upphöjde på Återuppståndelsens dag inte kommer att titta på, tala till eller förlåta personen. Det kommer att finnas ett smärtsamt straff för personen.
 
-Den som inte avsåg att visa högmod, dennes straff är att det som hänger nedanför ankeln kommer att straffas i Elden. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
+Den som inte avsåg att visa högmod, personens straff är att det som hänger nedanför ankeln kommer att straffas i Elden. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Det finns tre personer som Allāh inte kommer att titta på, ej heller kommer Han tala till dem, ej heller kommer Han att förlåta dem och för dem finns ett smärtsamt straff: Den vars klädesplagg hänger ned, den som utför goda handlingar och nämner dem ofta samt den som svär falskt för att sälja sina varor.” [*Muslim*]
 
@@ -34,7 +34,7 @@ Om den som inte avser att visa stolthet och högmod återges i *Ṣaḥīḥ al-
 
 Han sammankopplade det inte med stolthet och högmod. Enligt den *ḥadīt̲h* som har nämnts tidigare är det heller inte rätt att sammankoppla dem. Detta beror på att Abū Sa´īd al-Khudri har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Den troendes *izār* är mitten av dennes smalben och där finns ingen synd [eller sade han: det finns ingen synd för denne] om den faller någonstans däremellan och ankeln. Och det som faller nedanför är i Elden. På Återuppståndelsens dag kommer Allāh inte att titta på den som med stolthet drar sin *izār* på marken.” [*Aḥmad* 3:5, *Abū Dāwūd* 4093 och *Ibn Mājah* 3573]
+> ”Den troendes *izār* är mitten av personens smalben och där finns ingen synd [eller sade han: det finns ingen synd för personen] om den faller någonstans däremellan och ankeln. Och det som faller nedanför är i Elden. På Återuppståndelsens dag kommer Allāh inte att titta på den som med stolthet drar sin *izār* på marken.” [*Aḥmad* 3:5, *Abū Dāwūd* 4093 och *Ibn Mājah* 3573]
 
 Detta har återgivits av Mālik, *Abū Dāwūd*, an-Nasā’i, *Ibn Mājah* och Ibn Hibban i hans *Ṣaḥīḥ* och det har nämnts i *at-Targhib wat-tahib* i kapitlet ”Rekommendation för att bära *qamīṣ*” [Sida 88, vol. 3]
 

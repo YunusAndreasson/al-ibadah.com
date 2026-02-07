@@ -23,4 +23,4 @@ Enligt en *ḥadīt̲h* återberättad av bland andra at-Tirmithi har den nedkom
 Och Allāh är källan till all styrka. Må Allāh sända frid och välsignelser över vår profet Muḥammad, hans familj och följeslagare.
 
 
-[^1]: *at-Tirmithi* har återberättat den och al-Albāni har klassat den som *Ṣaḥīḥ* i *Sahīh at-Tirmithi*, 695
+[^1]: *at-Tirmid̲hī* har återberättat den och al-Albāni har klassat den som *Ṣaḥīḥ* i *Sahīh at-Tirmithi*, 695

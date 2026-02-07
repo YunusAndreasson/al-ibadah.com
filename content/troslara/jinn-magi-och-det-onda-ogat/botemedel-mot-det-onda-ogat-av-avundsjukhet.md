@@ -20,9 +20,9 @@ description: >-
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Det onda ögat är ett faktum. Hade något föregått det förutbestämda hade det varit det onda ögats inverkan och när ni ombeds att ta ett bad [som ett botemedel mot det onda ögat], bör ni ta ett bad*." [^3]
 
-Ett annat exempel är en återberättelse från an-Nasā'i och *Ibn Mājah* i vilken det uppges att 'Amir bin Rabi'ah gick förbi Sahl bin Hunaif medan denne tvättade sig och han sade då: "*Jag har inte sett en så vit hud som du har ens på en kvinna*." När han hade sagt det föll han [Sahl] till marken. Han togs då till Allāhs sändebud – över honom vare Allāhs frid och välsignelser – och man sade till honom: "*Han blev medvetslös*." Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Vem misstänker ni [är orsaken till detta]?*" De sade: "'Amir bin Rab'iah."
+Ett annat exempel är en återberättelse från an-Nasā'i och *Ibn Mājah* i vilken det uppges att 'Amir bin Rabi'ah gick förbi Sahl bin Hunaif medan personen tvättade sig och han sade då: "*Jag har inte sett en så vit hud som du har ens på en kvinna*." När han hade sagt det föll han [Sahl] till marken. Han togs då till Allāhs sändebud – över honom vare Allāhs frid och välsignelser – och man sade till honom: "*Han blev medvetslös*." Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Vem misstänker ni [är orsaken till detta]?*" De sade: "'Amir bin Rab'iah."
 
-Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Av vilken anledning dödar någon av ser sin broder? Ser någon av er något i er bror som ni gillar bör ni be om Allāhs välsignelser för denne*." [^4]
+Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Av vilken anledning dödar någon av ser sin broder? Ser någon av er något i er bror som ni gillar bör ni be om Allāhs välsignelser för personen*." [^4]
 
 Profeten – över honom vare Allāhs frid och välsignelser – bad då om vatten och beordrade 'Amir att göra tvaga genom att tvätta hans ansikte, händerna upp till armbågarna, knäna och under hans *izār*. Profeten – över honom vare Allāhs frid och välsignelser – beordrade även att vattnet skulle hällas över honom. I en annan återberättelse sägs att behållaren vändes upp och ned över honom bakifrån.
 
@@ -31,7 +31,7 @@ Verkliga bevis vittnar om detta, och det är inte något som går att förneka. 
 1. Recitation. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Det finns ingen ruqyah[^1], utom som ett botemedel mot det onda ögat eller feber*.” [^5] [ängeln] Gabriel reciterade en *ruqyah* över profeten – över honom vare Allāhs frid och välsignelser – genom att säga: ”*I Allāhs namn, jag uttalar denna ruqyah[^1] för dig mot allt som är skadligt för dig. Från det onda i varje själ och från det onda ögat. Må Allāh bota dig. I Allāhs namn, jag uttalar denna ruqyah[^1] för dig.*” [^6]
 2. Ta ett bad. Profeten – över honom vare Allāhs frid och välsignelser – beordrade 'Amir bin Rabi'ah att göra så i den nyss nämnda *ḥadīt̲h*. Efteråt ska vatten hällas över den drabbade.
 
-Att ta något från dennes exkret, som urinen eller avföringen, är grundlöst. Samma gäller för att ta något från dennes *athar* [hår, naglar och liknande]. Det enda som har rapporterats är vad vi har nämnt om att tvätta dennes leder, innanför dennes *izār* och möjligtvis även innanför dennes huvudbonad och kläder. Allāh vet bäst.
+Att ta något från personens exkret, som urinen eller avföringen, är grundlöst. Samma gäller för att ta något från personens *athar* [hår, naglar och liknande]. Det enda som har rapporterats är vad vi har nämnt om att tvätta personens leder, innanför personens *izār* och möjligtvis även innanför personens huvudbonad och kläder. Allāh vet bäst.
 
 Det finns ingen invändan mot att vara försiktig och skydda sig själv mot det onda ögat. Detta omintetgör inte ens *tawakkul*. *tawakkul* innebär ju att man sätter sin tilltro till Allāh – den Härlige samtidigt som man vidtar de nödvändiga åtgärder som Han har tillåtit och kommenderat.
 

@@ -16,6 +16,6 @@ description: >-
 
 **Fråga:** Om den som är på väg till platsen fastnar i trafiken fram till eftermiddagsbönen, är det tillåtet att utse någon till att kasta stenarna på pelarna?
 
-**Svar:** Den omnämnda personen måste själv kasta stenarna om denne har möjlighet att göra det. Denne har själv valt att hamna i trafikstockningen. Denne hade möjligheten att kasta stenarna och sedan köra. Fortfarande finns det möjlighet att kasta dem mellan eftermiddagsbönen och kvällsbönen, vilket är en lång tid.
+**Svar:** Den omnämnda personen måste själv kasta stenarna om personen har möjlighet att göra det. Personen har själv valt att hamna i trafikstockningen. Personen hade möjligheten att kasta stenarna och sedan köra. Fortfarande finns det möjlighet att kasta dem mellan eftermiddagsbönen och kvällsbönen, vilket är en lång tid.
 
 

@@ -76,7 +76,7 @@ Det bör kännas till att det finns gott om autentiska bevis för dessa viktiga 
 
 8. Det bör inte vara ett klädesplagg grundat på mode eller högfärd. Ibn ´Umar har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> “Den som bär ett moderiktigt eller högfärdigt klädesplagg i denna värld kommer Allāh att klä i ett förnedrande plagg Återuppståndelsens Dag, sedan kommer Han att få Elden att flamma upp runt denne.”
+> “Den som bär ett moderiktigt eller högfärdigt klädesplagg i denna värld kommer Allāh att klä i ett förnedrande plagg Återuppståndelsens Dag, sedan kommer Han att få Elden att flamma upp runt personen.”
 
 
 [^1]: Koranen 24:31

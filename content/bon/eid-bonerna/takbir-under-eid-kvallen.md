@@ -1,5 +1,5 @@
 ---
-title: Takbīr under ‘eid-kvällen
+title: Takbīr under ´eid-kvällen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Majmoo’ Fatāwa al-´Uthaymīn, 16/216-223'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: Vad en kvinna med månadsblödning gör efter att ha trätt in i ihrām för ´umrah
+title: Vad en kvinna med månadsblödning gör efter att ha trätt in i iḥrām för ´umrah
 author: Ibn ´Abdur-Rahman al-Jibrin
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.

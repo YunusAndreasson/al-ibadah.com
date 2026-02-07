@@ -1,5 +1,5 @@
 ---
-title: Bönen för ihrām är inte ett villkor för att den ska vara korrekt
+title: Bönen för iḥrām är inte ett villkor för att den ska vara korrekt
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -9,12 +9,12 @@ categories:
   - Helgtillståndet och avsikt
 original_id: 757
 description: >-
-  Fråga: Är en muslims ihrām för vallfärden eller ‘umrah giltig även om denne
+  Fråga: Är en muslims ihrām för vallfärden eller ‘umrah giltig även om personen
   inte ber två bönecykler för den? Är ett muntligt uttalande av avsikten ett
   villkor för att ihrām ska vara giltig...
 ---
 
-**Fråga:** Är en muslims *iḥrām* för vallfärden eller *´umrah* giltig även om denne inte ber två bönecykler för den? Är ett muntligt uttalande av avsikten ett villkor för att *iḥrām* ska vara giltig?
+**Fråga:** Är en muslims *iḥrām* för vallfärden eller *´umrah* giltig även om personen inte ber två bönecykler för den? Är ett muntligt uttalande av avsikten ett villkor för att *iḥrām* ska vara giltig?
 
 **Svar:** Det är inte ett villkor för *iḥrām* att man ber före den. Det är endast, enligt de flesta lärda, rekommenderat. Det som är föreskrivet är att man i sitt hjärta avser vad man vill [vallfärd eller *´umrah*].
 

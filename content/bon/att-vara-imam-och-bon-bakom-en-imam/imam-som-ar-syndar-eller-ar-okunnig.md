@@ -22,7 +22,7 @@ Går det inte eftersom det inte finns någon bättre person eller eftersom split
 
 I fråga om imamtjänsten för en okunnig eller dåraktig person så återger *Muslim* från Abū Mas'ud al-Badri att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som är bäst på att recitera Allāhs skrift bör leda folket. Är de likvärdiga i recitation, då bör den kunnigaste inom profetens – över honom vare Allāhs frid och välsignelser – *sunnah* leda dem. Kan de lika mycket om al-sunnah[^1], då är det den som utvandrade [till Medina] först. Är de likvärdiga i detta, då är det den äldste av dem*."
 
-Och i en annan version: ”*som antog islam först*.” ”*En man får inte leda en annan person i dennes hem, ej heller bör han utan tillstånd sitta i hans hem då han är gäst*.” [^2]
+Och i en annan version: ”*som antog islam först*.” ”*En man får inte leda en annan person i personens hem, ej heller bör han utan tillstånd sitta i hans hem då han är gäst*.” [^2]
 
 Därmed är det inte rätt om en okunnig person som inte är duktig på att recitera *al-Fātiḥah* agerar imam, utom om han leder sådana som han själv och det inte finns någon annan bland dem som förtjänar att vara imam.
 

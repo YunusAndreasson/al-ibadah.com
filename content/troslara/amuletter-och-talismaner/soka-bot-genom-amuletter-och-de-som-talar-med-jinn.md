@@ -9,20 +9,20 @@ categories:
   - Amuletter och talismaner
 original_id: 40
 description: >-
-  Fråga: När någon lider av epilepsi går denne till någon arabisk helare som
+  Fråga: När någon lider av epilepsi går personen till någon arabisk helare som
   talar med jinn och gör märkliga rörelser. Han ger patienten amuletter under en
-  tidsperiod och säger att denne är besatt...
+  tidsperiod och säger att personen är besatt...
 ---
 
-**Fråga:** När någon lider av epilepsi går denne till någon arabisk helare som talar med *jinn* och gör märkliga rörelser. Han ger patienten amuletter under en tidsperiod och säger att denne är besatt, förtrollad eller något liknande. Sådana helare behandlar patienten och helar denne, men de tar emot pengar för detta. Vilket är utlåtandet om dessa handlingar? Och vilket är utlåtandet om att söka bot genom Koran-amuletter som sedan dränks i vatten för att drickas?
+**Fråga:** När någon lider av epilepsi går personen till någon arabisk helare som talar med *jinn* och gör märkliga rörelser. Han ger patienten amuletter under en tidsperiod och säger att personen är besatt, förtrollad eller något liknande. Sådana helare behandlar patienten och helar personen, men de tar emot pengar för detta. Vilket är utlåtandet om dessa handlingar? Och vilket är utlåtandet om att söka bot genom Koran-amuletter som sedan dränks i vatten för att drickas?
 
 **Svar:** Det är inte farligt att behandla en epileptisk eller besatt person med Koran-verser och tillåtna mediciner, om den som behandlar patienterna är känd för att ha sunda trosprinciper samt att vara en hängiven troende. När det gäller att söka hjälp från dem som påstår sig känna till det som är dolt för människor[^1], de som kommunicerar med *jinn*, de charlataner som är okunniga samt okända och de vars metoder för att läka är obskyra – då är det varken tillåtet att rådfråga dem eller söka deras hjälp. 
 
 Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Den som besöker en spåman och rådfrågar denne, ingen bön kommer att accepteras från denne under 40 dagar.” [*Muslim* 2230 och *Aḥmad* 4:68, 5:380]
+> ”Den som besöker en spåman och rådfrågar personen, ingen bön kommer att accepteras från personen under 40 dagar.” [*Muslim* 2230 och *Aḥmad* 4:68, 5:380]
 
-> ”Den som besöker en teckentydare eller siare och tror på honom, har sannerligen förnekat vad som har uppenbarats för Muḥammad.” [*Abū Dāwūd* 3904, *at-Tirmithi* 135, 639; *Aḥmad* 2:408 och 476.]
+> ”Den som besöker en teckentydare eller siare och tror på honom, har sannerligen förnekat vad som har uppenbarats för Muḥammad.” [*Abū Dāwūd* 3904, *at-Tirmid̲hī* 135, 639; *Aḥmad* 2:408 och 476.]
 
 Andra *aḥādīt̲h* av vikt i denna fråga understryker att det är förbjudet att rådfråga siare samt slagrutemän. Det är dem som påstår sig känna till det som är dolt för människor[^1], söker hjälp från *jinn* eller vars beteende påvisar detta. Det är dessa människor vars hantverk profeten – över honom vare Allāhs frid och välsignelser – beskrev som djävulens hantverk då han sade: ”*Det [an-nushrah[^2]] är djävulens hantverk*.” [^3]
 

@@ -24,9 +24,9 @@ Har man den lilla orenheten kan man recitera Koranen från minnet eller recitera
 
 Ahmad har nedtecknat en god berättarkedja ned till 'A'ishah om att efter profeten – över honom vare Allāhs frid och välsignelser – uträttat sina behov, då reciterade han något från Koranen och sade sedan: "Detta gäller någon som inte är i den stora rituella orenheten. När det gäller den som är i den stora rituella orenheten, så nej, inte ens en endaste vers." [^1]
 
-Poängen här är att den som är i den stora rituella orenheten varken får röra eller recitera från *muṣḥaf* förrän denne har gjort *g̲husl*, för då är denne inte längre i den stora rituella orenheten.
+Poängen här är att den som är i den stora rituella orenheten varken får röra eller recitera från *muṣḥaf* förrän personen har gjort *g̲husl*, för då är personen inte längre i den stora rituella orenheten.
 
-Här finns även en annan relaterad fråga, om det är tillåtet för en kvinna under hennes månadsblödning eller under blödningen efter graviditeten. De lärde är oeniga i denna fråga. Vissa säger att hon inte får läsa medan andra säger att hon kan läsa från minnet men utan att vidröra Koranen.  De som har den senare åsikten menar att månadsblödningen och blödningen efter graviditeten varar under långa perioder medan någon som har den stora orenheten enbart behöver göra *g̲husl*, och sedan kan denne recitera.
+Här finns även en annan relaterad fråga, om det är tillåtet för en kvinna under hennes månadsblödning eller under blödningen efter graviditeten. De lärde är oeniga i denna fråga. Vissa säger att hon inte får läsa medan andra säger att hon kan läsa från minnet men utan att vidröra Koranen.  De som har den senare åsikten menar att månadsblödningen och blödningen efter graviditeten varar under långa perioder medan någon som har den stora orenheten enbart behöver göra *g̲husl*, och sedan kan personen recitera.
 
 Det som är korrekt är att det inte hindrar dem från att recitera från minnet och detta är den föredragna åsikten då det i *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* rapporterats att profeten – över honom vare Allāhs frid och välsignelser – sagt till 'A'ishah då hon fick sin månadsblödning under pilgrimsfärden: "*Gör vad pilgrimerna gör förutom att gå runt huset [det vill säga. Ka'bah] förrän du blir ren*." [^2]
 
@@ -39,4 +39,4 @@ I en *ḥadīt̲h* om Ibn ´Umar säger profeten: ”*Varken den med månadsblö
 
 [^1]: *Aḥmad* 1:110
 [^2]: *al-Buk̲hārī* 305 och *Muslim* 1211
-[^3]: *at-Tirmithi* 131
+[^3]: *at-Tirmid̲hī* 131

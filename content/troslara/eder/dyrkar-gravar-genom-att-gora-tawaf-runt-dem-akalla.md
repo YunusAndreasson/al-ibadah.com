@@ -19,15 +19,15 @@ description: >-
 
 **Svar:** Denna fråga är mycket viktig och den kräver med Allāhs den Allsmäktiges hjälp ett detaljerat svar. Vi säger att de som har begravts är av två kategorier:
 
-Någon som avled som muslim och som folket prisade. Denne hoppas vi får gott, men denne är i behov av att de muslimska bröderna ber Allāh om att denne ska förlåtas och visas nåd. Denne innefattas överlag i Allāhs den Upphöjdes ord:
+Någon som avled som muslim och som folket prisade. Personen hoppas vi får gott, men personen är i behov av att de muslimska bröderna ber Allāh om att personen ska förlåtas och visas nåd. Personen innefattas överlag i Allāhs den Upphöjdes ord:
 
 > ”De som kommer efter dem ber: ’Herre, Ge oss Din förlåtelse och förlåt våra bröder som gått före oss i tron, och låt inte ovilja mot [någon] troende bli kvar i våra hjärtan! Herre! Du ömmar, full av barmhärtighet, [för Dina tjänare]!’” [Koranen 59:10]
 
-Denne är dock själv inte till någon mer nytta. Denne är en död kropp som varken kan skydda sig själv eller någon annan mot ont. Likaså kan denne varken hjälpa sig själv eller andra. I stället behöver denne tjänster från bröderna, men denne kan själv inte ge dem någonting.
+Personen är dock själv inte till någon mer nytta. Personen är en död kropp som varken kan skydda sig själv eller någon annan mot ont. Likaså kan personen varken hjälpa sig själv eller andra. I stället behöver personen tjänster från bröderna, men personen kan själv inte ge dem någonting.
 
-Någon vars handlingar som har lett denne till synder som tar denne ur islam. Detta kan vara sådana som påstår att de är *awliyā’*, att de har kunskap om det som är dolt för människor[^1], att de kan bota de sjuka och att de kan hjälpa människor genom okända eller otillåtna metoder som inte är enligt den islamiska lagen. Det är inte tillåtet att åkalla för dem som har avlidit som icke-troende. Och likaså är det inte tillåtet att visa kärlek eller respekt för dem. Detta enligt Allāhs den Upphöjdes ord:
+Någon vars handlingar som har lett personen till synder som tar personen ur islam. Detta kan vara sådana som påstår att de är *awliyā’*, att de har kunskap om det som är dolt för människor[^1], att de kan bota de sjuka och att de kan hjälpa människor genom okända eller otillåtna metoder som inte är enligt den islamiska lagen. Det är inte tillåtet att åkalla för dem som har avlidit som icke-troende. Och likaså är det inte tillåtet att visa kärlek eller respekt för dem. Detta enligt Allāhs den Upphöjdes ord:
 
-> ”Det anstår inte profeten och inte heller de troende att be om syndernas förlåtelse för avgudadyrkare, även om de hörde till deras nära anförvanter, sedan det klargjorts för dem att elden är sådana [människors] arvedel. Och Abrahams bön att hans far skulle förlåtas var ingenting annat än uppfyllelsen av ett löfte till denne, men när det blev klart för honom att fadern var en fiende till Gud, tog han avstånd från honom. Abraham var en ömsint och fördragsam [människa].” [Koranen 9:113 – 114]
+> ”Det anstår inte profeten och inte heller de troende att be om syndernas förlåtelse för avgudadyrkare, även om de hörde till deras nära anförvanter, sedan det klargjorts för dem att elden är sådana [människors] arvedel. Och Abrahams bön att hans far skulle förlåtas var ingenting annat än uppfyllelsen av ett löfte till personen, men när det blev klart för honom att fadern var en fiende till Gud, tog han avstånd från honom. Abraham var en ömsint och fördragsam [människa].” [Koranen 9:113 – 114]
 
 De kan varken skada eller göra någon nytta och det är inte tillåtet att sätta sin tilltro till dem. Skulle det inträffa att någon såg ett mirakel [komma] från dem, som om det skulle verka finnas ljus runt deras gravar eller om en väldoft strömmade från dem när man vet att de avled som icke-troende, då är detta ett bedrägeri och trick från djävulen vars mål är att leda dessa människor på avvägar genom dem som ligger i gravarna.
 
@@ -41,15 +41,15 @@ Jag råder även dem att inte följa någon annan i religiösa frågor än Allā
 
 > ”Säg [Muḥammad]: ’Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
 
-Muslimer måste noga studera dem som påstår sig vara *awliyā’* med Koranen och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* som måttstock. Om det som sker är enligt Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* finns det hopp om att denne är en av Allāhs *awliyā’*. Men om det [som sker] motsäger sig Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* är denne inte en av Allāhs *awliyā’*.
+Muslimer måste noga studera dem som påstår sig vara *awliyā’* med Koranen och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* som måttstock. Om det som sker är enligt Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* finns det hopp om att personen är en av Allāhs *awliyā’*. Men om det [som sker] motsäger sig Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* är personen inte en av Allāhs *awliyā’*.
 
 I Sin skrift har Allāh nämnt en rättvis metod som *awliyā’* kan kännas igen genom när Han säger:
 
 > ”Helt visst ska de som är nära Gud aldrig känna fruktan och ingen sorg ska tynga dem, de som tror och ständigt har Honom för ögonen.” [Koranen 10:62 – 63]
 
-Den som är en from troende är således en *walī* till Allāh och den som inte är det, är inte en *walī* till Allāh. Har denne någon tro och fruktan av Allāh, då har denne ett visst mått av *wilayah* i sig men vi säger inte något om en viss person utan vi säger att överlag så är en from troende Allāhs *walī*.
+Den som är en from troende är således en *walī* till Allāh och den som inte är det, är inte en *walī* till Allāh. Har personen någon tro och fruktan av Allāh, då har personen ett visst mått av *wilayah* i sig men vi säger inte något om en viss person utan vi säger att överlag så är en from troende Allāhs *walī*.
 
-Det bör vara känt att Allāh den Allsmäktige kan pröva någon på detta sätt. En person kan komma an på en grav och åkalla den som ligger begravd i den. Denne kan också ta lite jord från den för att få välsignelser – och [faktiskt] få vad denne ber om. Detta är då en prövning från Allāh den Allsmäktige för denne. Vi vet ju att graven inte svarar åkallan och att jorden inte är ett sätt för att skydda mot ont eller hjälpa. Vi vet detta då Allāh den Upphöjde säger:
+Det bör vara känt att Allāh den Allsmäktige kan pröva någon på detta sätt. En person kan komma an på en grav och åkalla den som ligger begravd i den. Personen kan också ta lite jord från den för att få välsignelser – och [faktiskt] få vad personen ber om. Detta är då en prövning från Allāh den Allsmäktige för personen. Vi vet ju att graven inte svarar åkallan och att jorden inte är ett sätt för att skydda mot ont eller hjälpa. Vi vet detta då Allāh den Upphöjde säger:
 
 > ”Och vem begår ett större misstag än den som i Guds ställe anropar dem, som inte kan svara honom förrän på Uppståndelsens dag och som inte ens är medvetna om att de anropas? När människor samlas [inför Domen] ska de bli [sina tillbedjares] fiender och ta avstånd från deras dyrkan.” [Koranen 46:5 – 6]
 

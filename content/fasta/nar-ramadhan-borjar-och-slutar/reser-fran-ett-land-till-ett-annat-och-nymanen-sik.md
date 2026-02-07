@@ -20,11 +20,11 @@ description: >-
 
 *´eid al-aḍḥā* är den dag när djuren offras, även om det betyder att det blir en dag till eller ännu mer.
 
-Detsamma gäller om han reser till ett land där solen går ned senare. Här blir ju dagen två till tre timmar längre eller ännu mer om denne reser till ett annat land. Nymånen har ännu inte siktats där och profeten – över honom vare Allāhs frid och välsignelser – har beordrat oss att inte fasta om vi inte ser nymånen. Han har även sagt: ”*Bryt er fasta när ni ser den*.”
+Detsamma gäller om han reser till ett land där solen går ned senare. Här blir ju dagen två till tre timmar längre eller ännu mer om personen reser till ett annat land. Nymånen har ännu inte siktats där och profeten – över honom vare Allāhs frid och välsignelser – har beordrat oss att inte fasta om vi inte ser nymånen. Han har även sagt: ”*Bryt er fasta när ni ser den*.”
 
-När det gäller motsatsen, som när denne reser från ett land där månaden har börjat senare till ett land där månaden har börjat, då bryter denne fastan tillsammans med dem och tar vid senare tillfälle igen det som denne har missat att fasta. Missar denne person en dag, då måste denne ta igen den dagen. Om denne missar två dagar, då måste denne ta igen två dagar.
+När det gäller motsatsen, som när personen reser från ett land där månaden har börjat senare till ett land där månaden har börjat, då bryter personen fastan tillsammans med dem och tar vid senare tillfälle igen det som personen har missat att fasta. Missar personen en dag, då måste personen ta igen den dagen. Om personen missar två dagar, då måste personen ta igen två dagar.
 
-I det andra fallet säger vi att denne tar igen [dagen som denne har missat], därför att det varken är möjligt att månaden är kortare än 29 dagar eller längre än 30 dagar.
+I det andra fallet säger vi att personen tar igen [dagen som personen har missat], därför att det varken är möjligt att månaden är kortare än 29 dagar eller längre än 30 dagar.
 
 Vi säger även: Bryt din fasta även om du inte har genomfört 29 dagar. Nymånen har siktats och när den har siktats måste du bryta din fasta.
 

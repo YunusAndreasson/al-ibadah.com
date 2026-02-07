@@ -22,7 +22,7 @@ Det går även att läsa annan åkallan som profeten – över honom vare Allāh
 
 Åkallan är dyrkan som enbart får tillägnas Allāh. Det finns dock inget skadligt i att stå eller sitta vid graven då åkallan läses, men man ska inte stå där för att söka välsignelser eller för att vila. Gravplatser är inte platser att sitta och vila på. Det är tillåtet att stå vid graven efter begravningen och åkalla för den begravne för att Allāh ska acceptera och förlåta den avlidne.
 
-När profeten – över honom vare Allāhs frid och välsignelser – begravde en avliden, då brukade han stå upp vid dennes grav och säga:
+När profeten – över honom vare Allāhs frid och välsignelser – begravde en avliden, då brukade han stå upp vid personens grav och säga:
 
 > ”Be Allāh om förlåtelse för er broder, och be Honom att ge honom ett klart svar, för just nu blir han utfrågad.” [*Abū Dāwūd* 3221, *al-Ḥākim* 1:370 och *al-Bayhaqī* 4:56]
 

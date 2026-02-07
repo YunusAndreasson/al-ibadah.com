@@ -1,5 +1,5 @@
 ---
-title: Försoningsoffrets typer vid ihrām-brott
+title: Försoningsoffrets typer vid iḥrām-brott
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -24,7 +24,7 @@ Den andra typen är en kompensation för att ha jagat vilt. Man ges då möjligh
 
 Den tredje typen är lösen för *ḥajjul-tamattu´* och *ḥajjul-qirān* [för att slå ihop vallfärden med *´umrah*]. Detta kräver att man slaktar ett djur om man har möjlighet. Om man inte har möjlighet, då måste man fasta tio dagar [tre dagar i Mecka och sju dagar när man återvänder till hemlandet].
 
-Den fjärde typen är att man slaktar ett djur som kompensation om man har utelämnat något i de obligatoriska delarna för vallfärden [spendera natten i *Muzdalifah*, kasta sten på pelarna, raka huvudet, göra *ṭawāf ul-wadā’* och träda in i *iḥrām* vid *mīqāt*]. Den som utelämnar något av detta måste slakta ett djur till de fattiga vid Helgedomen.
+Den fjärde typen är att man slaktar ett djur som kompensation om man har utelämnat något i de obligatoriska delarna för vallfärden [spendera natten i *Muzdalifah*, kasta sten på pelarna, raka huvudet, göra *ṭawāf ul-wadā´* och träda in i *iḥrām* vid *mīqāt*]. Den som utelämnar något av detta måste slakta ett djur till de fattiga vid Helgedomen.
 
 Om man upprepar en förbjuden handling av samma typ [mer än en gång], då behöver man endast offra i försoning en gång. Ett exempel på detta är om man rakar sitt huvud varje dag eller täcker det upprepade gånger. Men om han offrar i försoning för den första gången som man handlade felaktigt och man sedan upprepar det igen, då måste man försona sig en andra gång genom ett offer.
 

@@ -1,5 +1,5 @@
 ---
-title: Matsorter som är tillåtna att ge som zakātul-fitr
+title: Matsorter som är tillåtna att ge som zakātul-fiṭr
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.

@@ -8,14 +8,14 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 1025
-description: 'Fråga: Bör den som är svag i tron få ta emot allmosa för att dennes
- tro ska stärkas, även om denne inte är en av folkets ledare? Svar: Denna fråga
+description: 'Fråga: Bör den som är svag i tron få ta emot allmosa för att personens
+ tro ska stärkas, även om personen inte är en av folkets ledare? Svar: Denna fråga
  är de lärde oeniga om. Enligt vad jag anser...'
 ---
 
-**Fråga:** Bör den som är svag i tron få ta emot allmosa för att dennes tro ska stärkas, även om denne inte är en av folkets ledare?
+**Fråga:** Bör den som är svag i tron få ta emot allmosa för att personens tro ska stärkas, även om personen inte är en av folkets ledare?
 
-**Svar:** Denna fråga är de lärde oeniga om. Enligt vad jag anser är den starkaste åsikten att det inte finns någon invändan mot att denne person får något för att dennes hjärta ska dras mot islam genom att dennes tro ökar. Detta gäller oavsett om den som får allmosan är en person med eller utan auktoritet. Allāh den Upphöjde säger:"…*Och för att vinna hjärtan [för tron]*."
+**Svar:** Denna fråga är de lärde oeniga om. Enligt vad jag anser är den starkaste åsikten att det inte finns någon invändan mot att personen får något för att personens hjärta ska dras mot islam genom att personens tro ökar. Detta gäller oavsett om den som får allmosan är en person med eller utan auktoritet. Allāh den Upphöjde säger:"…*Och för att vinna hjärtan [för tron]*."
 
-Vi får ge till en fattig på grund av dennes fysiska behov, då är det ännu värdigare att betala allmosan till den med svag tro. Att stärka tron är viktigare än att nära kroppen.
+Vi får ge till en fattig på grund av personens fysiska behov, då är det ännu värdigare att betala allmosan till den med svag tro. Att stärka tron är viktigare än att nära kroppen.
 

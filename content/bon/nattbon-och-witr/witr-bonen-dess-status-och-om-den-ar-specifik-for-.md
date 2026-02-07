@@ -1,5 +1,5 @@
 ---
-title: 'Witr-bönen, dess status och om den är särskild för ramadan'
+title: 'Witr-bönen, dess status och om den är särskild för ramaḍān'
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om *witr* och är den särskild för *ramaḍān*?
 
-**Svar:** *witr* är en understruken *sunnah* både under *ramaḍān* och vid andra tidpunkter. Detta till den grad att bland andra imam Ahmad sagt: ”*Den som överger witr[^1] är en dålig man och dennes vittnesmål bör inte accepteras*.”
+**Svar:** *witr* är en understruken *sunnah* både under *ramaḍān* och vid andra tidpunkter. Detta till den grad att bland andra imam Ahmad sagt: ”*Den som överger witr[^1] är en dålig man och personens vittnesmål bör inte accepteras*.”
 
 Det är då en betonad *sunnah* och det är inte passande att en muslim överger den, varken under *ramaḍān* eller under någon annan tidpunkt. *witr* är att försegla nattbönen med en enskild bönecykel. Det är inte, vilket somliga tror, *qunūt*. Saken är den att *witr* är en sak och *qunūt* är något annat. *witr* är vad som förseglar nattbönen med en enda bönecykel eller tre tillsammans.
 

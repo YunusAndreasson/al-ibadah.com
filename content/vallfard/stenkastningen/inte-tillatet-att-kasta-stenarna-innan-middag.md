@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Under de sista dagarna av vallfärden kastade jag stenarna femton minuter innan böneutropet för middagsbönen. Är detta tiden för middag och finns det något jag behöver göra?
 
-**Svar:** Du måste slakta ett djur i Mecka och ge det till de fattiga. Detta beror på att man endast får kasta stenarna på pelarna efter middag under *at-ayyām at-tashrīq*. Det är inte tillräckligt om man har gjort det innan dess. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – kastade stenarna efter middag under *at-ayyām at-tashrīq*, och han sade: ”*Ta era vallfärdsriter från mig*.” [^1]
+**Svar:** Du måste slakta ett djur i Mecka och ge det till de fattiga. Detta beror på att man endast får kasta stenarna på pelarna efter middag under *at-ayyām at-tas̲hrīq*. Det är inte tillräckligt om man har gjort det innan dess. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – kastade stenarna efter middag under *at-ayyām at-tas̲hrīq*, och han sade: ”*Ta era vallfärdsriter från mig*.” [^1]
 
 Därmed måste en muslim följa honom i det. Må hans Herres bästa välsignelser och frid vara över honom.
 

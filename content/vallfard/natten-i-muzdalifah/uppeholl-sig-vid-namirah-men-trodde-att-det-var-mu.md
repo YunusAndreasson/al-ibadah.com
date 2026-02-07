@@ -10,11 +10,11 @@ categories:
 original_id: 844
 description: >-
   Fråga: En pilgrim uppehöll sig i Namirah i tron att det var Muzdalifah. Vilket
-  är utlåtandet om dennes vallfärd? Svar: De som är i Namirah i tron om att det
+  är utlåtandet om personens vallfärd? Svar: De som är i Namirah i tron om att det
   är Muzdalifah, de måste offra ett dj...
 ---
 
-**Fråga:** En pilgrim uppehöll sig i *Namirah* i tron att det var *Muzdalifah*. Vilket är utlåtandet om dennes vallfärd?
+**Fråga:** En pilgrim uppehöll sig i *Namirah* i tron att det var *Muzdalifah*. Vilket är utlåtandet om personens vallfärd?
 
 **Svar:** De som är i *Namirah* i tron att det är *Muzdalifah*, de måste offra ett djur [som försoning]. Anledningen är att de borde ha frågat. Deras vallfärd är dock giltig.
 

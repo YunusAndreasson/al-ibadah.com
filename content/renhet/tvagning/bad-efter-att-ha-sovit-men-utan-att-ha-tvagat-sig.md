@@ -27,4 +27,4 @@ Genom Allāh uppnås framgång. Må frid och välsignelser vara över Muḥammad
 
 [^1]: *Abū Dāwūd* 203, *Ibn Mājah* 477 och *Aḥmad* 1:111
 [^2]: *Abū Dāwūd* 200
-[^3]: *at-Tirmithi* 96 och *an-Nasā’ī* 127
+[^3]: *at-Tirmid̲hī* 96 och *an-Nasā’ī* 127

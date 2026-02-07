@@ -16,9 +16,9 @@ description: >-
 
 **Fråga:** Vilken är innebörden med *iḥrām* och vad är *sunnah* för en *muḥrim* i fråga om den?
 
-**Svar:** *iḥrām* är avsikten för vallfärdsformen och det är hjärtats kontrakt för att träda in i vallfärdens eller ´umrahs[^1] heliga riter. Detta innebär att när någon går in i den, då håller denne sig borta från det förbjudna som inte är tillåtet för en *muḥrim*.
+**Svar:** *iḥrām* är avsikten för vallfärdsformen och det är hjärtats kontrakt för att träda in i vallfärdens eller ´umrahs[^1] heliga riter. Detta innebär att när någon går in i den, då håller personen sig borta från det förbjudna som inte är tillåtet för en *muḥrim*.
 
-*iḥrām* är inte enbart att bära en viss sorts kläder, man kan ju utan att ha någon avsikt bära *iḥrām*-kläder när man är hemma. Då kallas man inte för *muḥrim*. En *muḥrim* får även träda in i *iḥrām* med sitt hjärta och lämna sina vanliga kläder på [som en skjorta, turban eller något liknande]. I detta fall får denne som gottgörelse dock göra ett offer.
+*iḥrām* är inte enbart att bära en viss sorts kläder, man kan ju utan att ha någon avsikt bära *iḥrām*-kläder när man är hemma. Då kallas man inte för *muḥrim*. En *muḥrim* får även träda in i *iḥrām* med sitt hjärta och lämna sina vanliga kläder på [som en skjorta, turban eller något liknande]. I detta fall får personen som gottgörelse dock göra ett offer.
 
 När man går in i *iḥrām* är det *sunnah* att ta ett fullständigt bad, om det har gått en tid sedan man sist rengjorde sig och tiden för *iḥrām* är lång. Men om man badade och rengjorde sig en dag tidigare, då behöver man inte bada igen.
 

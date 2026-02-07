@@ -27,6 +27,6 @@ Men om fördröjandet skedde eftersom vatten skulle hämtas, som fallet var i fr
 
 Grunden till detta är att bland de lärda som säger att *muwālāh* är en skyldighet och ett villkor för giltigheten, så har vissa åsikten att *muwālāh* inte avgörs genom att kroppen har torkat, utan enligt vad som är sed. Därför anses det som vanligtvis är ett avbrott vara ett avbrott, och det som inte anses vara ett avbrott är det inte.
 
-Ett exempel på detta är den som väntar på vatten när tillförseln bryts. Man menar nu att denne är sysselsatt med att få tag på vatten och det anses inte vara en paus under tvagningen. Denne baserar sin handling på vad som har föregått om det inte drar ut på tiden till den grad att det tar längre tid än vad som anses vara normalt. I detta fall måste de börja från början. Och det är inga problem att göra det.
+Ett exempel på detta är den som väntar på vatten när tillförseln bryts. Man menar nu att personen är sysselsatt med att få tag på vatten och det anses inte vara en paus under tvagningen. Personen baserar sin handling på vad som har föregått om det inte drar ut på tiden till den grad att det tar längre tid än vad som anses vara normalt. I detta fall måste de börja från början. Och det är inga problem att göra det.
 
 

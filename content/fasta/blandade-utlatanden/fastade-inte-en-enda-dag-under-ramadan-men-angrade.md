@@ -1,5 +1,5 @@
 ---
-title: Fastade inte en enda dag under ramadan men ångrade sig sedan
+title: Fastade inte en enda dag under ramaḍān men ångrade sig sedan
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
@@ -11,13 +11,13 @@ categories:
 original_id: 475
 description: >-
   Fråga: Vilket är utlåtandet om någon som avsiktligen åt dagtid under ramadan
-  och som sedan ångrade sig inför Allāh? Accepteras dennes ånger? Svar: Ja,
-  dennes ånger accepteras eftersom Allāh ha...
+  och som sedan ångrade sig inför Allāh? Accepteras personens ånger? Svar: Ja,
+  personens ånger accepteras eftersom Allāh ha...
 ---
 
-**Fråga:** Vilket är utlåtandet om någon som avsiktligen åt dagtid under *ramaḍān* och som sedan ångrade sig inför Allāh? Accepteras dennes ånger?
+**Fråga:** Vilket är utlåtandet om någon som avsiktligen åt dagtid under *ramaḍān* och som sedan ångrade sig inför Allāh? Accepteras personens ånger?
 
-**Svar:** Ja, dennes ånger accepteras eftersom Allāh har sagt:
+**Svar:** Ja, personens ånger accepteras eftersom Allāh har sagt:
 
 > ”Men Jag ger förvisso den full förlåtelse som ångrar sig, antar tron och sedan lever ett rättskaffens liv och följer vägledningen.” [Koranen 20:82]
 

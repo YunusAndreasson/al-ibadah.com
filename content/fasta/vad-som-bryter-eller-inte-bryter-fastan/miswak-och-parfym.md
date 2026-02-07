@@ -22,4 +22,4 @@ Likaså är parfym under dagens början och slut tillåtet för den fastande oav
 
 
 [^1]: *al-Buk̲hārī* 252
-[^2]: *Abū Dāwūd* 142, *at-Tirmithi* 38, *an-Nasā’ī* 87 och *Ibn Mājah* 448
+[^2]: *Abū Dāwūd* 142, *at-Tirmid̲hī* 38, *an-Nasā’ī* 87 och *Ibn Mājah* 448

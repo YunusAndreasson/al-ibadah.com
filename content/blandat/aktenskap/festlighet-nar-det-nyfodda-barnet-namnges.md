@@ -18,11 +18,10 @@ description: >-
 
 **Svar:** Att anordna en festlighet för det nyfödda barnet är inte från profetens – över honom vare Guds frid och välsignelser – *sunnah* och det inträffade inte under hans tid eller under följeslagarnas. Den som gör det i tron om att det är en islamisk *sunnah*, då har han introducerat något i religionen som inte är en del av den.
 
-Därmed är detta en innovation från honom och den är avvisad. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat.*" [^2]
+Därmed är detta en innovation från honom och den är avvisad. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat.*" [^1]
 
-Detta är dock inte otro. Beträffande den som gör det av glädje eller för att dela maten från *´aqīqah* utan att tro att det är en *sunnah*, då finns det inget dåligt i det. Det har bekräftats från profeten – över honom vare Allāhs frid och välsignelser – att det är föreskrivet att slakta *´aqīqah*[^1]-djuret och namnge barnet på den sjunde dagen.
-
-[^1]: Det djur som slaktas för ett nyfött barn på den sjunde dagen.
+Detta är dock inte otro. Beträffande den som gör det av glädje eller för att dela maten från *´aqīqah* utan att tro att det är en *sunnah*, då finns det inget dåligt i det. Det har bekräftats från profeten – över honom vare Allāhs frid och välsignelser – att det är föreskrivet att slakta *´aqīqah*-djuret och namnge barnet på den sjunde dagen.
 
 
-[^2]: *Muslim* 1718
+
+[^1]: *Muslim* 1718

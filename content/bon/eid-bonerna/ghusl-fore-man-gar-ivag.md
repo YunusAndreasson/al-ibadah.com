@@ -1,5 +1,5 @@
 ---
-title: Ghusl före man går iväg
+title: G̲husl före man går iväg
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Majmoo’ Fatāwa al-´Uthaymīn, 16/216-223'
 categories:

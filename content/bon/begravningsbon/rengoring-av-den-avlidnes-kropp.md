@@ -24,7 +24,7 @@ Vid den sista tvätten tar man på kamfer. Detta är en välkänd parfym. De lä
 
 Om kroppen är mycket smutsig bör man tvätta den noggrannare, enligt vad profeten – över honom vare Allāhs frid och välsignelser – sade till kvinnan som tvättade hans dotter: ”*Tvätta henne tre gånger, eller fem gånger eller mer om du anser att det är nödvändigt*.” [^2]
 
-Sedan torkar och sveper man denne person.
+Sedan torkar och sveper man personen.
 
 [^1]: Lotuslöv
 

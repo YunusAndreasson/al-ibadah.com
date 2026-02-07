@@ -1,5 +1,5 @@
 ---
-title: Imamen glömmer att recitera al-Fātihah
+title: Imamen glömmer att recitera al-Fātiḥah
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.

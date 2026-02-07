@@ -1,5 +1,5 @@
 ---
-title: Hur alla former av tawhid innefattas i trosbekännelsen
+title: Hur alla former av tawḥīd innefattas i trosbekännelsen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** På vilket sätt täcker vittnesmålet *Lā ilāha illAllāh* alla former av *tawḥīd*?
 
-**Svar:** Det innefattar alla former av *tawḥīd*, antingen underförstått eller som ett öppet krav. När någon säger: ”Jag vittnar om att ingen är värdig att dyrkas utom Allāh” slår det ju en direkt att det som avses är att man bekräftar Allāhs ensamrätt att dyrkas. *Tawhīd[^1] al-uluhiyyah*[^2] kallas detta för och här underförstås [även] *tawhīd[^1] ar-rububiyyah*[^3]. Detta beror på att den som enbart dyrkar Allāh inte skulle göra det om denne inte bekräftar Hans enhet i frågan om herrskap.
+**Svar:** Det innefattar alla former av *tawḥīd*, antingen underförstått eller som ett öppet krav. När någon säger: ”Jag vittnar om att ingen är värdig att dyrkas utom Allāh” slår det ju en direkt att det som avses är att man bekräftar Allāhs ensamrätt att dyrkas. *Tawhīd[^1] al-uluhiyyah*[^2] kallas detta för och här underförstås [även] *tawhīd[^1] ar-rububiyyah*[^3]. Detta beror på att den som enbart dyrkar Allāh inte skulle göra det om personen inte bekräftar Hans enhet i frågan om herrskap.
 
 På samma sätt underförstås här *tawhīd[^1] as-asmā' was-sifāt'*[^4]. Man dyrkar ju inte någon utom Den som man vet har rätten att dyrkas på grund av de namn och egenskaper som tillhör Honom [objektet som dyrkas]. Abraham sade till sin fader:
 

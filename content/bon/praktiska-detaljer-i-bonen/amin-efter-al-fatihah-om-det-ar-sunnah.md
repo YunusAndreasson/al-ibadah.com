@@ -1,5 +1,5 @@
 ---
-title: Āmīn efter al-Fātihah – om det är sunnah
+title: Āmīn efter al-Fātiḥah – om det är sunnah
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Ja, att säga āmīn är en högst rekommenderad *sunnah*, speciellt om imamen säger det. Detta enligt vad som har återgivits i *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* i en *ḥadīt̲h* från Abū Hurairah i vilken han rapporterar att Allāhs sändebud har sagt:
 
-> ”Om imamen säger āmīn, säg då *āmīn*, för om dennes āmīn sammanfaller med änglarnas āmīn [kommer] alla dennes tidigare synder att förlåtas.” [*al-Buk̲hārī* 782]
+> ”Om imamen säger āmīn, säg då *āmīn*, för om personens āmīn sammanfaller med änglarnas āmīn [kommer] alla personens tidigare synder att förlåtas.” [*al-Buk̲hārī* 782]
 
 Imamen och de som ber bakom ska säga *āmīn* samtidigt. Detta är enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Om imamen säger: '… inte de som har gått vilse!*” [^1]
 

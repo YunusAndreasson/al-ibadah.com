@@ -18,9 +18,9 @@ description: >-
 
 al-Bukhārī och Muslim har återgivit från ‘A’ishah – må Allāh vara nöjd med henne – att när *ramadans*[^2] tio sista dagar kom, då stannade profeten – över honom vare Allāhs frid och välsignelser – uppe under natten, väckte sin familj och höll sig borta från äktenskapliga relationer. Ahmad och Muslim återger att han brukade sträva hårt i dyrkan under *ramadans*[^2] tio sista dagar – hårdare än någonsin.
 
-Profeten – över honom vare Allāhs frid och välsignelser – påbjöd att man ska stanna uppe och be under Allmaktens Natt[^1] ut ur tro och med hopp om belöningar. Abū Hurairah har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som stannar uppe under Allmaktens Natt[^1] ut ur tro och med hopp om belöningar, dennes tidigare synder kommer att förlåtas*.” Denna *ḥadīt̲h* finns det samstämmighet om. Den visar även att det är föreskrivet att iaktta Allmaktens Natt[^1] genom att spendera natten i bön.
+Profeten – över honom vare Allāhs frid och välsignelser – påbjöd att man ska stanna uppe och be under Allmaktens Natt[^1] ut ur tro och med hopp om belöningar. Abū Hurairah har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som stannar uppe under Allmaktens Natt[^1] ut ur tro och med hopp om belöningar, personens tidigare synder kommer att förlåtas*.” Denna *ḥadīt̲h* finns det samstämmighet om. Den visar även att det är föreskrivet att iaktta Allmaktens Natt[^1] genom att spendera natten i bön.
 
-En bra åkallan som kan reciteras under Allmaktens Natt[^1] är den som profeten – över honom vare Allāhs frid och välsignelser – lärde ‘A’ishah. *at-Tirmithi* har återgivit och klassat som *Ṣaḥīḥ* att ‘A’ishah – må Allāh vara nöjd med henne – har sagt:
+En bra åkallan som kan reciteras under Allmaktens Natt[^1] är den som profeten – över honom vare Allāhs frid och välsignelser – lärde ‘A’ishah. *at-Tirmid̲hī* har återgivit och klassat som *Ṣaḥīḥ* att ‘A’ishah – må Allāh vara nöjd med henne – har sagt:
 
 > ”Jag sade: 'Allāhs sändebud, om jag vet vilken natt som är Allmaktens Natt[^1], vad bör jag säga under den natten?' Han sade: 'Säg: *Allāhumma inaka 'afuwwun tuhibb al-'afwa fa'affu 'anni* [Allāh, Du är förlåtande och Du älskar förlåtelse, så förlåt mig].’”
 

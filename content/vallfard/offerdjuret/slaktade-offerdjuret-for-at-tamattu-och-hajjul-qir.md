@@ -16,6 +16,6 @@ description: >-
 
 **Fråga:** Vad anser ni om den som slaktar ett offerdjur för *at-tamattu’* eller *ḥajjul-qirān* innan *´eid*-dagen? Detta grundat på några åsikter från de lärde och rättskolorna.
 
-**Svar:** Den som slaktar ett offerdjur för *ḥajjul-tamattu´* eller *al-qarin* före *´eid*, blint följande den som har sagt det, då krävs det inget av denne. Men denne bör i framtiden informeras [om att detta är ett misstag].
+**Svar:** Den som slaktar ett offerdjur för *ḥajjul-tamattu´* eller *al-qarin* före *´eid*, blint följande den som har sagt det, då krävs det inget av personen. Men personen bör i framtiden informeras [om att detta är ett misstag].
 
 

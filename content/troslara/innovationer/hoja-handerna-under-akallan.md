@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Jag ser vissa människor höja deras händer när imamen åkallar under fredagsbönen. Jag ser andra höja deras händer när de åkallar efter *sunnah*-bönen och under *qunūt* i *witr*. Samtidigt finns det även dem som inte gör det alls. Vänligen, berätta för mig om det är *sunnah* att göra på detta vis. *sunnah* är att höja händerna då du åkallar och att du gör så talar för att din åkallan bör blir besvarad. Profeten har sagt:
 
-> ”Sannerligen, er Herre är *hayiy* och Generös: Han är blyg inför att för Sin tjänare, när han höjer händerna mot Honom, återlämna dem tomma.” [*Abū Dāwūd* 1488, *at-Tirmithi* 3556, *Ibn Mājah* 3866]
+> ”Sannerligen, er Herre är *hayiy* och Generös: Han är blyg inför att för Sin tjänare, när han höjer händerna mot Honom, återlämna dem tomma.” [*Abū Dāwūd* 1488, *at-Tirmid̲hī* 3556, *Ibn Mājah* 3866]
 
 **Svar:** Enligt vad som nedtecknats av *Muslim* i hans *Ṣaḥīḥ* från Abū Hurairah, har profeten sagt: ”*Sannerligen, Allāh är god och Han accepterar inte något annat än det som är gott.*”
 

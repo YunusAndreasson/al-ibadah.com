@@ -20,7 +20,7 @@ description: >-
 
 **Svar:** All lovprisan tillhör Allāh. I fallet som du beskriver är tvagning inte möjligt, eller mycket svårt. Allāh säger: ”*Han har inte lagt på er svårigheter eller tunga plikter*.” [^1]
 
-Så passageraren gör *tayammum* genom att använda flygplanets stolar, om det finns stoftpartiklar där. Om det inte finns stoftpartiklar bör denne be även om denne inte är rituellt ren. Denne har ju inte möjlighet att rena sig. Allāh säger: ”*Frukta därför Gud efter måttet av er förmåga; lyssna på och lyd [Hans ord]*.” [^2]
+Så passageraren gör *tayammum* genom att använda flygplanets stolar, om det finns stoftpartiklar där. Om det inte finns stoftpartiklar bör personen be även om personen inte är rituellt ren. Personen har ju inte möjlighet att rena sig. Allāh säger: ”*Frukta därför Gud efter måttet av er förmåga; lyssna på och lyd [Hans ord]*.” [^2]
 
 Om det är möjligt att du landar på flygplatsen före tiden har gått ut för den andra av de två bönerna som får slås ihop, då bör du skjuta upp den [det vill säga att ha avsikten att slå ihop bönerna och be dem vid ett senare tillfälle]. Sedan ber du de båda bönerna när du har landat på flygplatsen.
 

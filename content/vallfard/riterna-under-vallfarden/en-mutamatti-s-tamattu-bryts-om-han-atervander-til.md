@@ -10,17 +10,16 @@ categories:
 original_id: 745
 description: >-
   Fråga: Jag hörde att om en mutamatti´ återvänder till sitt land, då bryts
-  dennes hajjul-tamattu´. Får denne vallfärda som en mufrid och är denne inte
+  personens hajjul-tamattu´. Får personen vallfärda som en mufrid och är personen inte
   skyldig att offra ett djur? Svar: Ja...
 ---
 
-**Fråga:** Jag hörde att om en *mutamatti[^1]'* återvänder till sitt land, då bryts dennes *hajjul-tamattu[^2]'*. Får denne vallfärda som en *mufrid* och är denne inte skyldig att offra ett djur?
+**Fråga:** Jag hörde att om en *mutamatti[^1]'* återvänder till sitt land, då bryts personens *hajjul-tamattu[^2]'*. Får personen vallfärda som en *mufrid* och är personen inte skyldig att offra ett djur?
 
-**Svar:** Ja, om en *mutamatti[^1]'* återvänder till sitt land och sedan ger sig av för att vallfärda, då är denne en *mufrid*. Anledningen är avbrottet mellan *´umrah*[^3] och vallfärden då denne återvänder till familjen.
+**Svar:** Ja, om en *mutamatti[^1]'* återvänder till sitt land och sedan ger sig av för att vallfärda, då är personen en *mufrid*. Anledningen är avbrottet mellan *´umrah* och vallfärden då personen återvänder till familjen.
 
-Att denne påbörjar sin resa [från sitt land igen] innebär att en ny vallfärd påbörjas, och därför är dennes vallfärdar *ifrad*. Därför är denne i detta fall inte skyldig att offra ett djur för *ḥajjul-tamattu´*. Men om han gjorde detta på ett bedrägligt sätt, för att undvika offret, då måste han ändå göra det. Anledningen är att bedrägeri i att försöka undkomma en skyldighet inte gör att man kommer undan den, precis som att bedrägeri i att göra någon förbjudet inte gör att det är tillåtet.
+Att personen påbörjar sin resa [från sitt land igen] innebär att en ny vallfärd påbörjas, och därför är personens vallfärdar *ifrad*. Därför är personen i detta fall inte skyldig att offra ett djur för *ḥajjul-tamattu´*. Men om han gjorde detta på ett bedrägligt sätt, för att undvika offret, då måste han ändå göra det. Anledningen är att bedrägeri i att försöka undkomma en skyldighet inte gör att man kommer undan den, precis som att bedrägeri i att göra någon förbjudet inte gör att det är tillåtet.
 
 [^1]: Någon som både gör ´*´umrah* och vallfärdar.
 [^2]: När man först gör ´*´umrah* och lämnar *iḥrām* för att därpå träda in i *iḥrām* för vallfärden.
-[^3]: Den lilla vallfärden.
 

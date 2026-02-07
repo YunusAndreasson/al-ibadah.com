@@ -23,4 +23,4 @@ Det finns andra *aḥādīt̲h* från följeslagarna om detta. De bevisar att de
 
 
 [^1]: *Muslim* 81
-[^2]: *at-Tirmithi* 2621, *an-Nasā’ī* 464 och *Aḥmad* 5:346, 355
+[^2]: *at-Tirmid̲hī* 2621, *an-Nasā’ī* 464 och *Aḥmad* 5:346, 355

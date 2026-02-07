@@ -1,5 +1,5 @@
 ---
-title: Menstruerande kvinnan går in i ihrām utan att be
+title: Menstruerande kvinnan går in i iḥrām utan att be
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.

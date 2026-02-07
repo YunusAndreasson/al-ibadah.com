@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Är allmosan en skyldighet för bilar som både används som taxi och i privat syfte?
 
-**Svar:** Bilar som hyrs i transportsyfte eller privata bilar som man själv använder, de kräver ingen allmosa. Allmosa gäller enbart för deras hyra [pengarna som tjänas] om nivån för *niṣāb* uppnås eller om de gör det tillsammans med andra pengar som denne har, och *ḥawl* har fullbordats. Egendomar som denne hyr ut kräver [i sig själva] heller inte allmosa, utan den betalas enbart för hyran.
+**Svar:** Bilar som hyrs i transportsyfte eller privata bilar som man själv använder, de kräver ingen allmosa. Allmosa gäller enbart för deras hyra [pengarna som tjänas] om nivån för *niṣāb* uppnås eller om de gör det tillsammans med andra pengar som personen har, och *ḥawl* har fullbordats. Egendomar som personen hyr ut kräver [i sig själva] heller inte allmosa, utan den betalas enbart för hyran.
 
 
 

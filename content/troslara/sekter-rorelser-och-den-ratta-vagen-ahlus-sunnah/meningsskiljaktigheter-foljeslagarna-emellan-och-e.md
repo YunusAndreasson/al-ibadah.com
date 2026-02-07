@@ -19,7 +19,7 @@ description: >-
 
 *ahlus-sunnah wal-jamā´at* undviker att kommentera meningsskiljaktigheter mellan följeslagarna. De säger att var och en av dem var en *mujtahid*[^2], och den som nådde ett korrekt beslut har två belöningar medan den som misstog sig fick en belöning för sin *ijtihād* och förlåts för sitt misstag. Koranen och sunan talar om deras dygd och de prisas däri. Därför anser vi att de är rättvisa och rättskaffens samt ber om Allāhs välbehag för dem.
 
-Vi tar avstånd från *rafidah* som smädar eller förbannar dem. Den som skymfar någon av dem eller påstår att det är tillåtet att förbanna någon av dem, denne är vilse och en källa till villfarelse.
+Vi tar avstånd från *rafidah* som smädar eller förbannar dem. Den som skymfar någon av dem eller påstår att det är tillåtet att förbanna någon av dem, personen är vilse och en källa till villfarelse.
 
 Vi söker vår tillflykt hos Allāh från denna åsikt.
 

@@ -25,7 +25,7 @@ Allāh den Upphöjde kallar de som lyds jämte honom för herrar då de har tagi
 
 'Adi bin Hatim sade till Allāhs sändebud: ”*De dyrkar dem inte*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Men de förbjöd dem det som är tillåtet och tillät dem det som är otillåtet, och de lydde dem. Detta är deras dyrkan av dem*.” [^1]
 
-Förstår du detta, då ska du veta att den som dömer med något annat än vad Allāh har uppenbarat och söker domslut från andra än Allāh och Hans sändebud, denne har en vers uppenbarats om som upphäver dennes tro. Likaså talar andra verser om dennes otro, onda handlande och synd.
+Förstår du detta, då ska du veta att den som dömer med något annat än vad Allāh har uppenbarat och söker domslut från andra än Allāh och Hans sändebud, personen har en vers uppenbarats om som upphäver personens tro. Likaså talar andra verser om personens otro, onda handlande och synd.
 
 Den första kategorin. Här gäller Allāhs den Upphöjdes ord:
 
@@ -43,7 +43,7 @@ iii] När de på grund av vad de har gjort drabbas av olycka, som när de blir p
 
 Allāh varnar sedan de som påstår sig vara troende som besitter dessa kännemärken. Han den Upphöjde vet vad som finns i deras hjärtan och vilka tankar de hyser som motsäger sig vad de säger. Han befallde Sin profet att varna dem och att tala till dem på ett verkningsfullt sätt för att nå deras inre.
 
-Sedan klargjorde Han att visdomen i att sända profeten – över honom vare Allāhs frid och välsignelser – var att han skulle lydas och följas, vilket inte gäller någon annan, hur starka dennes idéer eller hur stor dennes intelligens än är. Allāh den Upphöjde svär sedan vid Sitt herravälde […] Han svär vid det en bekräftelseed om att tro utan tre ting är värdelöst.
+Sedan klargjorde Han att visdomen i att sända profeten – över honom vare Allāhs frid och välsignelser – var att han skulle lydas och följas, vilket inte gäller någon annan, hur starka personens idéer eller hur stor personens intelligens än är. Allāh den Upphöjde svär sedan vid Sitt herravälde […] Han svär vid det en bekräftelseed om att tro utan tre ting är värdelöst.
 
 a] Det första är att man söker domar från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i varje dispyt.
 
@@ -65,13 +65,13 @@ Den andra kategorin: Här gäller Allāhs den Upphöjdes ord:
 
 Varje icke-troende är därmed någon som handlar felaktigt och överträder gränser. Eller är det så att dessa kännetecken tillämpas på ett antal personer från vilken avsikt de hade när de inte dömde enligt vad Allāh har uppenbarat? Detta är, enligt min åsikt, det som är närmst sanningen. Och Allāh vet bäst.
 
-Vi säger därmed: Den som inte dömer enligt vad Allāh har uppenbarat, som förringade och hånade det, eller som trodde att något annat är bättre och mer passande för människor, denne är en icke-troende vars otro tar denne utanför islam.
+Vi säger därmed: Den som inte dömer enligt vad Allāh har uppenbarat, som förringade och hånade det, eller som trodde att något annat är bättre och mer passande för människor, personen är en icke-troende vars otro tar personen utanför islam.
 
 Här finns de som skapar lagar [för att det ska bli ett system som folket följer] som motsäger sig islam. De utformar inte dessa lagar utan att tro att de är bättre och mer passande för oss. Det är enbart sunt förnuft och naturligt att man inte vänder sig från ett system till ett annat, utan att man anser att systemet som man vänder sig till är bättre än det som man har vänder sig bort från.
 
-Den som inte dömer enligt vad Allāh den Upphöjde har uppenbarat men som heller inte förringar, hånar eller tror att något annat är bättre än Allāhs domar, utan han enbart dömer enligt något annat för att kontrollera sina undersåtar eller hämnas någon, denne är någon som handlar felaktigt utan att vara icke-troende. Graden av dennes felaktiga handlande skiljer sig åt enligt dennes domslut och metoder för att döma.
+Den som inte dömer enligt vad Allāh den Upphöjde har uppenbarat men som heller inte förringar, hånar eller tror att något annat är bättre än Allāhs domar, utan han enbart dömer enligt något annat för att kontrollera sina undersåtar eller hämnas någon, personen är någon som handlar felaktigt utan att vara icke-troende. Graden av personens felaktiga handlande skiljer sig åt enligt personens domslut och metoder för att döma.
 
-Den som inte dömer enligt vad Allāh den Upphöjde har uppenbarat men som heller inte förringar, hånar och tror att något annat är bättre än Allāhs dom, utan enbart dömer enligt detta för att göra den som döms nöjd, eftersom denne har blivit mutad eller något annat, denne är då någon som överträder gränser utan att vara icke-troende. Nivån av dennes överträdelse är enligt dennes domslut och metoder för att döma.
+Den som inte dömer enligt vad Allāh den Upphöjde har uppenbarat men som heller inte förringar, hånar och tror att något annat är bättre än Allāhs dom, utan enbart dömer enligt detta för att göra den som döms nöjd, eftersom personen har blivit mutad eller något annat, personen är då någon som överträder gränser utan att vara icke-troende. Nivån av personens överträdelse är enligt personens domslut och metoder för att döma.
 
 *s̲hayk̲h ul-islām* Ibn Taymiyyah har sagt att de som tog deras präster och rabbiner till herrar jämsides med Allāh är av två olika typer:
 
@@ -80,4 +80,4 @@ Den som inte dömer enligt vad Allāh den Upphöjde har uppenbarat men som helle
 2. De anser att det är att förklara tillåtet vad Allāh har förklarat som förbjudet och att förklara som otillåtet vad Allāh har förklarat som tillåtet, men de lydde dem genom att handla olydigt mot Allāh precis som en muslim syndar i tron om att det är synder. Dessa döms då på samma sätt som syndare.
 
 
-[^1]: *at-Tirmithi* 3095
+[^1]: *at-Tirmid̲hī* 3095

@@ -11,31 +11,31 @@ categories:
 original_id: 1219
 description: >-
   Fråga: En man friade till en annan mans dotter men när de förhörde sig om
-  honom blev det uppenbart att han inte bad. Får dottern gifta sig med denne
+  honom blev det uppenbart att han inte bad. Får dottern gifta sig med personen
   man? Svar: Om den som friade inte ber med f...
 ---
 
-**Fråga:** En man friade till en annan mans dotter men när de förhörde sig om honom blev det uppenbart att han inte bad. Får dottern gifta sig med denne man?
+**Fråga:** En man friade till en annan mans dotter men när de förhörde sig om honom blev det uppenbart att han inte bad. Får dottern gifta sig med mannen?
 
-**Svar:** Om den som friade inte ber med församlingen i moskén är denne en syndare som inte lyder Allāh och Hans sändebud. Denne motsäger sig vad alla muslimer är eniga om då bönen i församlingen är en av de bästa formerna av dyrkan. *s̲hayk̲h ul-islām* ibn Taymiyyah [^2] har sagt:
+**Svar:** Om den som friade inte ber med församlingen i moskén är personen en syndare som inte lyder Allāh och Hans sändebud. Personen motsäger sig vad alla muslimer är eniga om då bönen i församlingen är en av de bästa formerna av dyrkan. *s̲hayk̲h ul-islām* ibn Taymiyyah [^2] har sagt:
 
 > ”De lärde är eniga om att bönen är en av de mest rekommenderade formerna av dyrkan och den mest enastående formen av lydnad och den största av de islamiska riterna.”
 
-Detta tar dock inte denne ur islam. Därmed är det tillåtet att gifta den muslimska kvinnan med honom. Någon annan som verkligen utövar skulle dock vara mer värdig än honom, även om denne inte är lika rik eller tillhör en mindre ädel familj.
+Detta tar dock inte personen ur islam. Därmed är det tillåtet att gifta den muslimska kvinnan med honom. Någon annan som verkligen utövar skulle dock vara mer värdig än honom, även om personen inte är lika rik eller tillhör en mindre ädel familj.
 
-Detta enligt vad som återberättats i en *ḥadīt̲h*: "*Om någon vars religion och karaktär gör dig nöjd kommer till dig, gift dig då med denne*." De sade: "*Allāhs sändebud! Även om det finns någon brist i denne?*" Han svarade tre gånger: "*Om någon vars religion och karaktär gör dig nöjd kommer till dig, gift dig då med denne*." [^3]
+Detta enligt vad som återberättats i en *ḥadīt̲h*: "*Om någon vars religion och karaktär gör dig nöjd kommer till dig, gift dig då med personen*." De sade: "*Allāhs sändebud! Även om det finns någon brist i personen?*" Han svarade tre gånger: "*Om någon vars religion och karaktär gör dig nöjd kommer till dig, gift dig då med personen*." [^3]
 
 I bland annat *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* återges en *ḥadīt̲h* från Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*En kvinna gifts av fyra anledningar: För hennes tillgångar, för hennes ädla börd, för hennes skönhet och för hennes religion. Välj den som är religiös, må era händer gnidas i jord [må ni få framgång]!*" I dessa båda *aḥādīt̲h* finns bevis för att det som förtjänar mest uppmärksamhet är en mans eller kvinnas religion och karaktär.
 
 Det är mest passande för en målsman som fruktar Allāh den Upphöjde och som tänker på sitt ansvar att bry sig om vad profeten – över honom vare Allāhs frid och välsignelser – har sagt då han kommer att tillfrågas om det på Återuppståndelsens dag. Allāh den Upphöjde säger: ”*Och den Dag då han kallar fram dem och frågar: ’Vilket svar gav ni sändebuden?’*” [^4] ”*Vi ska förvisso förhöra mottagarna av Vårt budskap, och Vi ska förhöra sändebuden och Vi ska med [fullständig] kunskap underrätta dem och [allt]; ingenting har gått Oss förbi*.” [^5]
 
-Om friaren inte ber alls, varken med församlingen eller ensam, anses denne vara icke-troende som står utanför islam. Denne måste uppmanas till att ångra sig. Vänder denne sig då till Allāh i ånger och ber, då kommer Allāh att vända sig till honom med förlåtelse – om dennes ånger är ren och uppriktig för Allāh. Men om denne inte ångrar sig måste denne avrättas som en avfälling och begravas utanför muslimernas gravplats. Denne ska då inte tvättas, svepas eller få någon begravningsbön förrättad för sig.
+Om friaren inte ber alls, varken med församlingen eller ensam, anses personen vara icke-troende som står utanför islam. Personen måste uppmanas till att ångra sig. Vänder personen sig då till Allāh i ånger och ber, då kommer Allāh att vända sig till honom med förlåtelse – om personens ånger är ren och uppriktig för Allāh. Men om personen inte ångrar sig måste personen avrättas som en avfälling och begravas utanför muslimernas gravplats. Personen ska då inte tvättas, svepas eller få någon begravningsbön förrättad för sig.
 
-Bevisen för dennes otro finns i Allāhs den Upphöjdes Skrift och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Bevisen från Skriften finns i Allāhs den Upphöjdes ord:
+Bevisen för personens otro finns i Allāhs den Upphöjdes Skrift och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Bevisen från Skriften finns i Allāhs den Upphöjdes ord:
 
 > ”Men efter dem kom människor av sämre halt. De lät bönen falla i glömska och gick dit deras passioner drev dem; de ska drabbas av bitter besvikelse. Det gäller inte dem som visar ånger och blir troende och lever ett rättskaffens liv.” [Koranen 19:59 – 60]
 
-Hans ord: ”*Det gäller inte dem*…” bevisar att när denne överger bönen och följer sina tomma begär är denne inte troende. Allāh den Upphöjde säger:
+Hans ord: ”*Det gäller inte dem*…” bevisar att när personen överger bönen och följer sina tomma begär är personen inte troende. Allāh den Upphöjde säger:
 
 > ”Men om de visar ånger och [vilja att] förrätta bönen och betala allmoseskatten, då är de era bröder i tron.” [Koranen 9:11]
 
@@ -45,7 +45,7 @@ Detta fordrar att om man överger den så är det en handling som innebär otro 
 
 > ”De troende är bröder. Försona därför två bröder [som är oense] och frukta Gud – kanske ska ni erfara barmhärtighet.” [Koranen 49:10]
 
-Dessa båda grupper av troende som stred stod inte utanför trons broderskap även om ett dråp av en troende är en handling som innebär otro. *al-Buk̲hārī* har återgivit från Ibn Mas’ud som har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Att med ord antasta en muslim är olydnad och att strida mot denne är otro*.” [*al-Buk̲hārī*]
+Dessa båda grupper av troende som stred stod inte utanför trons broderskap även om ett dråp av en troende är en handling som innebär otro. *al-Buk̲hārī* har återgivit från Ibn Mas’ud som har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Att med ord antasta en muslim är olydnad och att strida mot personen är otro*.” [*al-Buk̲hārī*]
 
 Bevisen från profetens – över honom vare Allāhs frid och välsignelser – *sunnah* för att den som överger bönen är en icke-troende finns i profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Mellan en man och *shirk* och *kufr*[^1] är sannerligen övergivandet av bönen*.” [*Muslim*] Detta har *Muslim* återgivit när Jabir bin ´Abdullāh rapporterar från profeten.
 
@@ -59,11 +59,11 @@ Förstår du detta, notera då även vad som Muslim återger i en *ḥadīt̲h* 
 
 De sade: ”*Skall vi inte strida mot dem?*” Han svarade: ”*Nej, så länge de ber*.” [*Muslim*] Med utgångspunkt i denna *ḥadīt̲h* förstår vi att om de inte ber ska de stridas mot och *ḥadīt̲h* från 'Ubadah bevisar att man inte bör tvista med dem. Därför är det en större anledning till att de inte ska stridas mot, om det inte sker på grund av tydlig otro som det finns bevis från Allāh för. Från dessa båda *aḥādīt̲h* kan det bevisas att övergivandet av bönen är tydlig otro som det finns bevis från Allāh för.
 
-Detta är bevis från Allāhs den Upphöjdes Skrift och från Hans sändebuds *sunnah* för att den som överger bönen är en icke-troende vars otro tar denne ur islam. Detta blir klart och tydligt i en återberättelse från Ibn Abi Hatim i hans *Sunan* i vilken det återges från 'Ubadah bin as-Samit att han sagt:
+Detta är bevis från Allāhs den Upphöjdes Skrift och från Hans sändebuds *sunnah* för att den som överger bönen är en icke-troende vars otro tar personen ur islam. Detta blir klart och tydligt i en återberättelse från Ibn Abi Hatim i hans *Sunan* i vilken det återges från 'Ubadah bin as-Samit att han sagt:
 
-> ”Allāhs sändebud gav oss råd: 'Sätt inte medhjälpare vid Allāhs sida och överge inte avsiktligen bönen. Den som avsiktligen och medvetet överger den är en icke-troende, och denne är utanför religionen [islam].” [*al-Majma'* 4:216 och *al-Mustadrak* 4:44]
+> ”Allāhs sändebud gav oss råd: 'Sätt inte medhjälpare vid Allāhs sida och överge inte avsiktligen bönen. Den som avsiktligen och medvetet överger den är en icke-troende, och personen är utanför religionen [islam].” [*al-Majma'* 4:216 och *al-Mustadrak* 4:44]
 
-Beträffande *aḥādīt̲h* från följeslagarna har ´Umar bin al-Khattab sagt: ”*Det finns ingen islam, för den som överger bönen*.” [^7] ´Abdullāh bin Sahqiq har sagt: ”*profetens – över honom vare Allāhs frid och välsignelser – följeslagare brukade inte anse övergivandet av någon handling som otro utom bönen*.” [*at-Tirmithi*] Beläggen från profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem -bevisar otron för den som överger bönen. Så gör även bevisen från de lärda. Imam *Aḥmad* har sagt:
+Beträffande *aḥādīt̲h* från följeslagarna har ´Umar bin al-Khattab sagt: ”*Det finns ingen islam, för den som överger bönen*.” [^7] ´Abdullāh bin Sahqiq har sagt: ”*profetens – över honom vare Allāhs frid och välsignelser – följeslagare brukade inte anse övergivandet av någon handling som otro utom bönen*.” [*at-Tirmid̲hī*] Beläggen från profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem -bevisar otron för den som överger bönen. Så gör även bevisen från de lärda. Imam *Aḥmad* har sagt:
 
 > ”De som ser ned på den och förringar dess värde föraktar islam och förringar den. Deras del av islam står i proportion till deras del av bönen och deras kärlek till islam står i proportion till deras kärlek till bönen.”
 
@@ -71,9 +71,9 @@ Ibn al-Qayyim – må Allāh vara honom nådig – säger i sin bok *as-Salāh* 
 
 > ”Ingen som tror på att Allāh har kommenderat den bestämmer sig för att med en fast övertygelse överge bönen. Detta beror på att det är omöjligt, enligt vad som uppfattas vara normalt och naturligt, för någon att bestämt tro att Allāh har påbjudit fem böner varje dag och natt och att Han kommer att straffa en om man överger dem med det strängaste straff, samtidigt som man bestämt överger dem. Detta är något som är helt omöjligt. Ingen som tror på skyldigheten i bönen kan fortsätta med att överge den, ens tro kommenderar ju en till att förrätta den. Då finns det ingen tro i ens hjärta. Och lyssna inte till vad de som inte har någon kunskap om hjärtat och dess handlingar säger.”
 
-Här har han sagt sanningen. Det är ju omöjligt att någon överger bönen när det är så enkelt att förrätta den, belöningen för den är så stor och så även straffet för att överge den, samtidigt som det finns en strimma tro i dennes hjärta.
+Här har han sagt sanningen. Det är ju omöjligt att någon överger bönen när det är så enkelt att förrätta den, belöningen för den är så stor och så även straffet för att överge den, samtidigt som det finns en strimma tro i personens hjärta.
 
-Då det är klart och tydligt, från bevisen i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*, att den som överger bönen är en icke-troende vars otro tar denne ur islam, då är det inte tillåtet för denne att vara gift med en muslimsk kvinna. Detta enligt bevisen i Koranen, profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och muslimers samstämmighet. Allāh den Upphöjde säger:
+Då det är klart och tydligt, från bevisen i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*, att den som överger bönen är en icke-troende vars otro tar personen ur islam, då är det inte tillåtet för personen att vara gift med en muslimsk kvinna. Detta enligt bevisen i Koranen, profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och muslimers samstämmighet. Allāh den Upphöjde säger:
 
 > ”Tag inte till hustrur kvinnor som dyrkar avgudar förrän de blivit troende – en troende [Guds] tjänarinna är helt visst bättre än en som dyrkar avgudar, hur tilldragande ni än finner henne.” [Koranen 2:221]
 
@@ -83,9 +83,9 @@ Och Han den Upphöjde säger om *muhajirat* [kvinnliga emigranter från Mecka]:
 
 Muslimer är fullständigt eniga om vad som bevisas genom dessa båda verser om förbudet i att en muslimsk kvinna gifter sig med en icke-troende.
 
-Med detta som grund: Om en man gifter bort en kvinna som är under dennes förmyndarskap, oavsett om det är dennes dotter eller någon annan, med en man som inte ber, är det inte giltigt att denne ger bort henne i äktenskap och kvinnan skulle inte vara tillåten för honom genom detta kontrakt.
+Med detta som grund: Om en man gifter bort en kvinna som är under personens förmyndarskap, oavsett om det är personens dotter eller någon annan, med en man som inte ber, är det inte giltigt att personen ger bort henne i äktenskap och kvinnan skulle inte vara tillåten för honom genom detta kontrakt.
 
-Detta beror på att det är ett kontrakt som inte är enligt Allāhs den Upphöjdes eller Hans profets kommendering. I en *ḥadīt̲h* från 'A'ishah – må Allāh vara nöjd med henne – rapporteras det att han sagt: "*Den som utför en handling som inte är enligt denna vår fråga [islam], denne kommer att få den avvisad*." [*Muslim*] Detta innebär att det inte kommer att accepteras från denne.
+Detta beror på att det är ett kontrakt som inte är enligt Allāhs den Upphöjdes eller Hans profets kommendering. I en *ḥadīt̲h* från 'A'ishah – må Allāh vara nöjd med henne – rapporteras det att han sagt: "*Den som utför en handling som inte är enligt denna vår fråga [islam], personen kommer att få den avvisad*." [*Muslim*] Detta innebär att det inte kommer att accepteras från personen.
 
 Då äktenskapet blir ogiltigt om mannen överger bönen och om han inte ångrar sig samt återvänder till islam genom att förrätta den – vad tror du då om den som vill gifta sig och från allra första början inte ber?
 
@@ -102,8 +102,8 @@ Detta svar har givits av en som är i behov av Allāh, Muḥammad Sālih al-'Uth
 [^1]: Otro.
 
 [^2]: *Majmu' al-Fatāwa* 23:223
-[^3]: *at-Tirmithi* 1085 och *Ibn Mājah* 1967
+[^3]: *at-Tirmid̲hī* 1085 och *Ibn Mājah* 1967
 [^4]: Koranen 28:65
 [^5]: Koranen 7:6 – 7
-[^6]: *Aḥmad* 5:346, *at-Tirmithi* 2621 och *an-Nasā’ī*
+[^6]: *Aḥmad* 5:346, *at-Tirmid̲hī* 2621 och *an-Nasā’ī*
 [^7]: *Abi Shaibah* i *al-iman* 34

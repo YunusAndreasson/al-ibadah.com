@@ -1,5 +1,5 @@
 ---
-title: Formen av shirk hos månggudadyrkarna
+title: Formen av s̲hirk hos månggudadyrkarna
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.

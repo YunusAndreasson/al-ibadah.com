@@ -1,5 +1,5 @@
 ---
-title: Kvinnans ‘eid-bön är sunnah
+title: Kvinnans ´eid-bön är sunnah
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: al-Ladjnah ad-Dā’imah 8/284-286
 categories:
@@ -18,7 +18,7 @@ description: >-
 
 I bland annat *Muslim* och al-Bukhārī har det berättats att Umm ‘Atiyah – må Allāh vara nöjd med henne – har sagt: ”*Vi kommenderades att till ‘eid-bönerna ta ut: unga kvinnor som precis mognat och kvinnor i undanskymdhet. Han kommenderade likaså kvinnorna med månadsblödning att inte närvara vid böneplatsen*.” Återberättad av al-Bukhārī [1:93] och *Muslim* [890]
 
-Enligt en rapport from *at-Tirmithi*:
+Enligt en rapport from *at-Tirmid̲hī*:
 
 > “Allāhs sändebud – över honom vare Allāhs frid och välsignelser – brukade ta ut; oskulder, kvinnor som precis mognat, kvinnor i undanskymdhet och kvinnor med månadsblödning till de båda *´eid*. Men kvinnorna med månadsblödning skulle hålla sig borta från förrättandet av bönen och bevittna när muslimerna samlades. En av dem sade: ’Allāhs sändebud, en av oss har ingen *djilbāb’*. Då sade han: ’Då får hennes syster ge henne en *djilbāb*’”.
 

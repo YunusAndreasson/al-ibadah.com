@@ -10,13 +10,13 @@ categories:
 original_id: 1403
 description: >-
   Fråga: Är det ett villkor för att den som reser ska få medgivande att bryta
-  fastan under ramadan att dennes resa är till fots eller med djur, eller är det
+  fastan under ramadan att personens resa är till fots eller med djur, eller är det
   ingen skillnad om resan är till fots, m...
 ---
 
-**Fråga:** Är det ett villkor för att den som reser ska få medgivande att bryta fastan under *ramaḍān* att dennes resa är till fots eller med djur, eller är det ingen skillnad om resan är till fots, med riddjur, med bil eller med flygplan? Är det ett villkor att resan måste vara tröttsam till den grad att den fastande inte kan klara fastan? Är det bättre för resenären att fasta om denne har möjlighet eller är det bättre att inte fasta?
+**Fråga:** Är det ett villkor för att den som reser ska få medgivande att bryta fastan under *ramaḍān* att personens resa är till fots eller med djur, eller är det ingen skillnad om resan är till fots, med riddjur, med bil eller med flygplan? Är det ett villkor att resan måste vara tröttsam till den grad att den fastande inte kan klara fastan? Är det bättre för resenären att fasta om personen har möjlighet eller är det bättre att inte fasta?
 
-**Svar:** Den resenär som reser, när denne får korta ned bönen, får bryta fastan under resan. Det spelar ingen roll om denne går eller rider, och det spelar ingen roll om denne åker med bil, flygplan eller något annat. Det spelar heller ingen roll om denne under resan blir utmattad till den grad att denne inte kan klara fastan, eller om denne inte blir utmattad. Det spelar ingen roll om denne lider av hunger och törst eller om denne inte lider av det.
+**Svar:** Den resenär som reser, när personen får korta ned bönen, får bryta fastan under resan. Det spelar ingen roll om personen går eller rider, och det spelar ingen roll om personen åker med bil, flygplan eller något annat. Det spelar heller ingen roll om personen under resan blir utmattad till den grad att personen inte kan klara fastan, eller om personen inte blir utmattad. Det spelar ingen roll om personen lider av hunger och törst eller om personen inte lider av det.
 
 Detta beror på att den islamiska lagen utan villkor har gett resenären som är ute på en resa, där det är tillåtet att korta bönen, tillstånd att bryta fastan. Den islamiska lagen har inte begränsats till något transportmedel och den har heller inte begränsats till rädsla för utmattning, hunger eller törst.
 

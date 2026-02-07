@@ -1,5 +1,5 @@
 ---
-title: Utförde sa’ī för tawāf under vallfärden
+title: Utförde sa´ī för ṭawāf under vallfärden
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -14,13 +14,11 @@ description: >-
   Han behöver inte upprepa sa...
 ---
 
-**Fråga:** En man som gjorde *´umrah*[^1] hade ingen kunskap och han utförde *sa´ī*[^2] före *ṭawāf*. När han upprepat om *ṭawāf*, måste han utföra *sa´ī*[^2] en andra gång?
+**Fråga:** En man som gjorde *´umrah* hade ingen kunskap och han utförde *sa´ī* före *ṭawāf*. När han upprepat om *ṭawāf*, måste han utföra *sa´ī* en andra gång?
 
-**Svar:** Han behöver inte upprepa *sa´ī*[^2]. Detta med anledning av vad Abū Dawūd återger i sin *Sunan* med en autentisk berättarkedja ned till Usamah bin Shurayk som säger:
+**Svar:** Han behöver inte upprepa *sa´ī*. Detta med anledning av vad Abū Dawūd återger i sin *Sunan* med en autentisk berättarkedja ned till Usamah bin Shurayk som säger:
 
-> ”Jag begav mig ut med profeten för att vallfärda och folket kom till honom. Då kom en man och sade: 'Allāhs sändebud, jag utförde *sa´ī*[^2] före jag gjorde *tawāf[^3]'*, eller sade han: 'Jag gjorde något först och något [annat] senare.' Profeten – över honom vare Allāhs frid och välsignelser – sade då: 'Inga problem, utom för en man som skymfar en muslims heder och uppträder felaktigt. Detta är den som har problem och denne är tillintetgjord.'" [*Abū Dāwūd* 2015]
+> ”Jag begav mig ut med profeten för att vallfärda och folket kom till honom. Då kom en man och sade: 'Allāhs sändebud, jag utförde *sa´ī* före jag gjorde *ṭawāf*[^1]', eller sade han: 'Jag gjorde något först och något [annat] senare.' Profeten – över honom vare Allāhs frid och välsignelser – sade då: 'Inga problem, utom för en man som skymfar en muslims heder och uppträder felaktigt. Detta är den som har problem och personen är tillintetgjord.'" [*Abū Dāwūd* 2015]
 
-[^1]: Den lilla vallfärden.
-[^2]: Vandringen mellan as-Safa och al-Marwa.
-[^3]: Den sju långa rundar vandringen runt Kabah.
+[^1]: Den sju långa rundar vandringen runt Kabah.
 

@@ -24,7 +24,7 @@ Denna plåga kommer att drabba de icke-troende under en dag vars längd är lika
 
 I *Ṣaḥīḥ Muslim* finns en *ḥadīt̲h* återgiven av Abū Hurairah i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
 
-> ”Det finns ingen ägare av guld eller silver som inte betalar vad denne ska för dem [allmosa] utan att när Återuppståndelsens Dag kommer så kommer plattor av eld kommer att förberedas för denne [för att] märka dennes panna, sidor och rygg. Varje gång de svalnar kommer de att hettas upp på nytt, under en Dag vars längd är lika lång som 50 000 år, tills domen avkunnats bland folket.”
+> ”Det finns ingen ägare av guld eller silver som inte betalar vad personen ska för dem [allmosa] utan att när Återuppståndelsens Dag kommer så kommer plattor av eld kommer att förberedas för personen [för att] märka personens panna, sidor och rygg. Varje gång de svalnar kommer de att hettas upp på nytt, under en Dag vars längd är lika lång som 50 000 år, tills domen avkunnats bland folket.”
 
 Denna långa dag kommer att vara svår för de icke-troende. Allāh säger:
 

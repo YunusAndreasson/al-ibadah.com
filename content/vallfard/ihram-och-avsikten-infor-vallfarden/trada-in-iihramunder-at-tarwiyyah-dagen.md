@@ -1,5 +1,5 @@
 ---
-title: Träda in i ihrām under at-tarwiyyah-dagen
+title: Träda in i iḥrām under at-tarwiyyah-dagen
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.

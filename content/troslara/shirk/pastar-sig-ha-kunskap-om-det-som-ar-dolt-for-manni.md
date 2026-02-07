@@ -15,7 +15,7 @@ description: 'Fråga: Vilket är utlåtandet om någon som påstår sig ha kunsk
 
 **Fråga:** Vilket är utlåtandet om någon som påstår sig ha kunskap om det som är dolt för människor[^1]?
 
-**Svar:** Utlåtandet om en person som påstår sig ha kunskap om det som är dolt för människor[^1] är att denne är en icke-troende. Detta beror på att denne har motsagt sig Allāh den Allsmäktige. Han den Upphöjde säger:
+**Svar:** Utlåtandet om en person som påstår sig ha kunskap om det som är dolt för människor[^1] är att personen är en icke-troende. Detta beror på att personen har motsagt sig Allāh den Allsmäktige. Han den Upphöjde säger:
 
 > ”Säg: ’Ingen i himlarna eller på jorden har kunskap om det som är dolt för människor[^1] – [ingen har denna kunskap] utom Gud.” [Koranen 27:65]
 

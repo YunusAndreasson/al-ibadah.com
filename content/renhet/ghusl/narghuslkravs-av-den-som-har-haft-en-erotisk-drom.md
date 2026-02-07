@@ -1,5 +1,5 @@
 ---
-title: När ghusl krävs av den som har haft en erotisk dröm
+title: När g̲husl krävs av den som har haft en erotisk dröm
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.

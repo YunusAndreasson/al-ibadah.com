@@ -30,7 +30,7 @@ När profeten – över honom vare Allāhs frid och välsignelser – bröt fast
 
 Om du har åkallat med dessa eller några andra ord som har nått ditt hjärta när du bröt fastan, då har de med största sannolikhet besvarats.
 
-Att svara böneutroparen när man bryter fastan är tillåtet. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om du hör böneutroparen, säg då vad denne säger*.” [^1] Detta gäller under alla omständigheter så länge det inte finns bevis för något annat.
+Att svara böneutroparen när man bryter fastan är tillåtet. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om du hör böneutroparen, säg då vad personen säger*.” [^1] Detta gäller under alla omständigheter så länge det inte finns bevis för något annat.
 
 
 [^1]: *al-Buk̲hārī* 611 och *Muslim* 384

@@ -8,13 +8,13 @@ categories:
   - Bönens giltighet
 original_id: 988
 description: 'Fråga: Är bön bakom en syndare giltig? Svar: Även om en muslim
- begår vissa synder är bön bakom denne tillåten och giltig enligt den starkaste åsikten.
+ begår vissa synder är bön bakom personen tillåten och giltig enligt den starkaste åsikten.
  Utan tvekan är dock bön bakom den som är ...'
 ---
 
 **Fråga:** Är bön bakom en syndare giltig?
 
-**Svar:** Även om en muslim begår vissa synder är bön bakom denne tillåten och giltig enligt den starkaste åsikten. Utan tvekan är dock bön bakom den som är rättfärdig att föredra.
+**Svar:** Även om en muslim begår vissa synder är bön bakom personen tillåten och giltig enligt den starkaste åsikten. Utan tvekan är dock bön bakom den som är rättfärdig att föredra.
 
-Men om denne gör sådant som tar denne ur islam, då är det inte tillåtet att be bakom denne. Detta beror på att dennes bön inte är giltig eftersom denne inte är muslim. Om imamens bön är ogiltig är det inte möjligt att följa denne. Detta beror på att man följer någon som inte är imam och att man utformar avsikten för att be bakom en imam utan en imam.
+Men om personen gör sådant som tar personen ur islam, då är det inte tillåtet att be bakom personen. Detta beror på att personens bön inte är giltig eftersom personen inte är muslim. Om imamens bön är ogiltig är det inte möjligt att följa personen. Detta beror på att man följer någon som inte är imam och att man utformar avsikten för att be bakom en imam utan en imam.
 

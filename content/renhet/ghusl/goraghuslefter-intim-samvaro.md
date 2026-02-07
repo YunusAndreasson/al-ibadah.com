@@ -1,5 +1,5 @@
 ---
-title: Göra ghusl efter intim samvaro
+title: Göra g̲husl efter intim samvaro
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: '''Ishratun-Nisā wa Hill al-Kjilāfāt az-Zowjiyyah – sida 58'
 categories:

@@ -9,12 +9,12 @@ categories:
   - Fastebrytare
 original_id: 1397
 description: >-
-  Fråga: Får den fastande använda tandkräm dagtid medan denne fastar under
+  Fråga: Får den fastande använda tandkräm dagtid medan personen fastar under
   ramadan? Svar: Det är ingen fara så länge man är noggrann med att inte svälja
   det. Det är även föreskrivet för den fast...
 ---
 
-**Fråga:** Får den fastande använda tandkräm dagtid medan denne fastar under *ramaḍān*?
+**Fråga:** Får den fastande använda tandkräm dagtid medan personen fastar under *ramaḍān*?
 
 **Svar:** Det är ingen fara så länge man är noggrann med att inte svälja det. Det är även föreskrivet för den fastande att använda en *miswāk* vid dagens början och slut. Vissa lärde har haft åsikten att användandet av *miswāk* är ogillat efter middag, men denna åsikt är inte rätt. Vad som är korrekt är att det inte är ogillat.
 

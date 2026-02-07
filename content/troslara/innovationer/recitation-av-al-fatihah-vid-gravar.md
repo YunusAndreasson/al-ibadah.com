@@ -1,5 +1,5 @@
 ---
-title: Läsning av al-Fatihah vid gravar
+title: Läsning av al-Fātiḥah vid gravar
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
@@ -10,11 +10,11 @@ categories:
 original_id: 48
 description: >-
   Fråga: Är det tillåtet att recitera al-Fatihah, eller något annat stycke i
-  Koranen, för den avlidne när man besöker dennes grav? Kommer detta att göra
-  denne någon nytta? Profeten – över honom ...
+  Koranen, för den avlidne när man besöker personens grav? Kommer detta att göra
+  personen någon nytta? Profeten – över honom ...
 ---
 
-**Fråga:** Är det tillåtet att recitera *al-Fātiḥah*, eller något annat stycke i Koranen, för den avlidne när man besöker dennes grav? Kommer detta att göra denne någon nytta?
+**Fråga:** Är det tillåtet att recitera *al-Fātiḥah*, eller något annat stycke i Koranen, för den avlidne när man besöker personens grav? Kommer detta att göra personen någon nytta?
 
 Profeten – över honom vare Allāhs frid och välsignelser – brukade besöka gravar och be för de döda med en åkallan som han lärde följeslagarna. En sådan åkallan kan vara:
 

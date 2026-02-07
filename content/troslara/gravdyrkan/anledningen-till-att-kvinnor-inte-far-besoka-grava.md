@@ -28,5 +28,5 @@ Så han klargjorde att det finns två anledningar till detta förbud mot att bes
 
 [^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 
-[^2]: *at-Tirmithi* 320 och *al-Bayhaqī* 4:78
+[^2]: *at-Tirmid̲hī* 320 och *al-Bayhaqī* 4:78
 [^3]: *Abū Dāwūd* 3123, *an-Nasā’ī* 1881 och *Aḥmad* 2:168-169

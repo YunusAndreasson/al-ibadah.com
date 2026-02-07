@@ -1,5 +1,5 @@
 ---
-title: Zakātul-fitr i form av ris
+title: Zakātul-fiṭr i form av ris
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
@@ -33,6 +33,6 @@ Med detta som grund: Det är tillåtet att betala *zakātul-fiṭr* med ris. Jag
 Men efter att ha sagt detta så skiljer det sig från fall till fall. Det kan vara på så vis att ute på landet kan en viss grupp föredra dadlar och då kan man erbjuda dem dadlar. Men på en annan plats kan det vara russin som föredras och då kan man ge den [*zakātul-fiṭr*] som russin. På samma sätt kan ost eller något annat [vara att föredra]. Det bästa är då det som är nyttigast.
 
 [^1]: Allmosa som ges före eid-bönen.
-[^2]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
+[^2]: Det mått som fyller en normalbyggd mans båda händer när personen kupar dem tillsammans.
 
 [^3]: *al-Buk̲hārī* 1506

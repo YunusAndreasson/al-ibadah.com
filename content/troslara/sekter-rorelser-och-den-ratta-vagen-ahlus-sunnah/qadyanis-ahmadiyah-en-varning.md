@@ -26,7 +26,7 @@ Kommittén för forskning i *fiqh* har undersökt frågan om Qadyani som först 
 
 Han påstod att han var gudomligt inspirerad, att mer än 10 000 verser hade uppenbarats till honom, att den som inte tror på honom är en icke-troende och att muslimerna är skyldiga att vallfärda till Qadyan [då han påstod att det var en helig stad likt Mecka och att det är staden som kallas för al-Masjid al-Aqsa]. Detta finns förklarat i hans bok som har publicerats under namnet Barahīn Ahmadiyah samt i en avhandling som har publicerats under namnet at-Tablīgh.
 
-Den akademiska kommittén har även undersökt uttalanden från Mirza Bashir ad-Dīn, son till Ghulam Ahmad al-Qadyani och hans efterträdare. Ett uttalande hämtas från boken *Aynat Sadaqat*: "Den muslim som inte svär en trohetsed till den utlovade Messias [hans fader, Mirza Ghulam Ahmad], oavsett om denne hört hans namn eller inte, är en icke-troende som står utanför islam." [Sida 35]
+Den akademiska kommittén har även undersökt uttalanden från Mirza Bashir ad-Dīn, son till Ghulam Ahmad al-Qadyani och hans efterträdare. Ett uttalande hämtas från boken *Aynat Sadaqat*: "Den muslim som inte svär en trohetsed till den utlovade Messias [hans fader, Mirza Ghulam Ahmad], oavsett om personen hört hans namn eller inte, är en icke-troende som står utanför islam." [Sida 35]
 
 I journalen *al-Fadhl* berättar han att hans fader, Ghulam Ahmad, har sagt:
 

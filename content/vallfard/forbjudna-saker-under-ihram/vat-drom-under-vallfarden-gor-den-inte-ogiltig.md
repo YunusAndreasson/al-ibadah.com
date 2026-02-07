@@ -16,6 +16,6 @@ description: >-
 
 **Fråga:** Jag utförde den obligatoriska vallfärden och under en natt i *Minā* hade jag en våt dröm och jag kunde inte ta ett bad. Har jag då syndat?
 
-**Svar:** Den som bär *iḥrām* och har en våt dröm under vallfärden eller *´umrah*, det har ingen inverkan på dem. Därför blir de inte ogiltiga. Inträffar detta bör denne, när denne har vaknat och ser sperma, ta ett fullständigt bad som efter sexuell orenhet. Det finns ingen försoningslösen då en våt dröm inte sker med vilje.
+**Svar:** Den som bär *iḥrām* och har en våt dröm under vallfärden eller *´umrah*, det har ingen inverkan på dem. Därför blir de inte ogiltiga. Inträffar detta bör personen, när personen har vaknat och ser sperma, ta ett fullständigt bad som efter sexuell orenhet. Det finns ingen försoningslösen då en våt dröm inte sker med vilje.
 
 

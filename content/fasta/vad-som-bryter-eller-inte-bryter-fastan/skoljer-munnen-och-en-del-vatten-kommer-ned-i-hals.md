@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Om den fastande sköljer munnen eller rengör näsan med vatten och lite av vattnet oavsiktligen kommer ned i halsen, ogiltigör det då fastan?
 
-**Svar:** Om den fastande sköljer munnen eller näsan med vatten och vattnet kommer in i kroppen, då bryter detta inte fastan då denne inte gjorde det avsiktligen. Detta beror på att Allāh har sagt: ”*[Det som är av betydelse är] vad ni innerst syftar till*.” [^1]
+**Svar:** Om den fastande sköljer munnen eller näsan med vatten och vattnet kommer in i kroppen, då bryter detta inte fastan då personen inte gjorde det avsiktligen. Detta beror på att Allāh har sagt: ”*[Det som är av betydelse är] vad ni innerst syftar till*.” [^1]
 
 
 [^1]: Koranen 33:5

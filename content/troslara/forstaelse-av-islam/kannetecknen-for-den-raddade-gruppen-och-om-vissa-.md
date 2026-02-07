@@ -43,11 +43,11 @@ Han har även informerat oss om att Muḥammad är oskyldig till att människor 
 
 Således är en enad röst och harmoni hjärtan emellan bland de mest särskiljande karaktärsdragen för den räddade gruppen – *ahlus-sunnah[^1] wal-jamā'at*. När oenigheter uppstår mellan dem – som beror på *ijtihād* i frågor som det är tillåtet att utöva *ijtihād* i – ger de inte plats åt bittherhet, fiendskap eller hat mot varandra. Även om detta skulle inträffa känner de att de är bröder.
 
-Detta gör de till den grad att en av dem förättar bön bakom en imam som denne inte anser vara rituellt ren, medan imamen anser att han är det. När någon av dem, exempelvis, ber bakom en imam som har ätit kamelkött och denne imam inte anser att det gör tvagningen ogiltig, men den som leds i bön anser att den blir det, är han [som leds] ändå av åsikten att hans bön bakom denne imam är giltig även om han inte hade gjort så om han hade bett själv.
+Detta gör de till den grad att en av dem förättar bön bakom en imam som personen inte anser vara rituellt ren, medan imamen anser att han är det. När någon av dem, exempelvis, ber bakom en imam som har ätit kamelkött och imamen inte anser att det gör tvagningen ogiltig, men den som leds i bön anser att den blir det, är han [som leds] ändå av åsikten att hans bön bakom imamen är giltig även om han inte hade gjort så om han hade bett själv.
 
 Detta beror på att de anser att skilda åsikter som beror på *ijtihād*, i frågor där det är tillåtet att utöva *ijtihād*, inte är sanna meningsskiljaktigheter. Anledningen är att de som är oeniga har följt de bevis som de är skyldiga att följa – bevis som det inte är tillåtet att förneka.
 
-De anser att då deras broder, om brodern inte håller med om något och följer ett visst bevis, faktiskt inte har en avvikande åsikt. Detta beror på att de kallar till att följa bevisen, vad det än må vara. Är brodern inte enig med dem, på grund av något bevis som denne har, då är brodern egentligen enig med dem. Brodern handlar ju enligt vad de kallar och vägleder till – att döma enligt Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*.
+De anser att då deras broder, om brodern inte håller med om något och följer ett visst bevis, faktiskt inte har en avvikande åsikt. Detta beror på att de kallar till att följa bevisen, vad det än må vara. Är brodern inte enig med dem, på grund av något bevis som personen har, då är brodern egentligen enig med dem. Brodern handlar ju enligt vad de kallar och vägleder till – att döma enligt Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*.
 
 De meningsskiljaktigheter som uppstod mellan profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – i frågor som dessa, det känner många av de lärde väl till. Detta inträffade även under profetens – över honom vare Allāhs frid och välsignelser – tid men han tillrättavisade dem inte på grund av det.
 
@@ -57,7 +57,7 @@ Några andra av dem bad vid den angivna tiden och de sade: ”*Profeten ville at
 
 Därför anser jag det vara en skyldighet, för muslimer som påstår sig följa [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah*, att vara en enhet och att inte dela sig i fraktioner – där den ena tillhör en grupp och där den andra tillhör en annan grupp – vilket får dem att attackera varandra med fientliga ord och hysa fiendeskap och hat mot varandra på grund av meningsskiljaktigheter i frågor där det är tillåtet att utöva *ijtihād*.
 
-Det finns inget behov av att urskilja varje fraktion med ett namn men den vise förstår och frågan blir klar för denne.
+Det finns inget behov av att urskilja varje fraktion med ett namn men den vise förstår och frågan blir klar för personen.
 
 Jag anser att *ahlus-sunnah[^1] wal-jamā’at* måste ena sig även om de är oeniga i vissa frågor eftersom de har förstått bevisen på olika sätt. Detta beror på att det finns rum för ömsesidiga eftergifter i dessa frågor, och all lovprisan samt tacksamhet tillhör Allāh.
 

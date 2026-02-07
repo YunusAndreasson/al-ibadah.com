@@ -19,7 +19,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om en kvinna som fortsätter att vara gift med en man som inte ber och som har barn tillsammans med henne? Vilket är utlåtandet om att gifta sig med någon som inte ber?
 
-**Svar:** Om en kvinna har varit gift med en man som varken ber i församlingen eller i sitt hem är äktenskapet inte giltigt. Detta beror på att den som överger bönen är en icke-troende. Detta är något som Koranen, profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och uttalanden från följeslagarna bevisar. ´Abdullāh bin Shaqiq har sagt: ”*profetens – över honom vare Allāhs frid och välsignelser – följeslagare brukade inte anse övergivandet av någon handling som otro utom bönen*.” [*at-Tirmithi*]
+**Svar:** Om en kvinna har varit gift med en man som varken ber i församlingen eller i sitt hem är äktenskapet inte giltigt. Detta beror på att den som överger bönen är en icke-troende. Detta är något som Koranen, profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och uttalanden från följeslagarna bevisar. ´Abdullāh bin Shaqiq har sagt: ”*profetens – över honom vare Allāhs frid och välsignelser – följeslagare brukade inte anse övergivandet av någon handling som otro utom bönen*.” [*at-Tirmid̲hī*]
 
 En icke-troende får inte gifta sig med en troende kvinna, vilket Allāh säger: "*Men om ni har övertygat er om att de är troende, sänd då inte tillbaka dem till förnekarna av sanningen; deras män har inte [längre] rätt att leva med dem och de har inte längre rätt att leva med sina män*." [^1]
 

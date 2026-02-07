@@ -1,5 +1,5 @@
 ---
-title: Ihrām för boende inom mawaqits gränser
+title: Iḥrām för boende inom mawaqits gränser
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Den som befinner sig inom gränserna för *mawāqīt*, som invånarna i Ummus-Salam och Bahrah, de går in i *iḥrām* på den plats där de bor. Likaså går invånarna i Jiddah in i *iḥrām* på detta sätt.
 
-Anledningen är vad profeten – över honom vare Allāhs frid och välsignelser – har sagt i en *ḥadīt̲h* återberättad av Ibn ‘Abbās: ”*Den som befinner sig inom den [vilket betyder gränserna för mawaqit], då är dennes plats för att träda in i *ihrām* var denne än börjar*.” [^1] I en annan version säger han: ”*Då är dennes plats för att träda in i *ihrām* med dennes folk [i dennes hem]. Likaså går invånarna i Mecka in i *ihrām* därifrån*.” [^2]
+Anledningen är vad profeten – över honom vare Allāhs frid och välsignelser – har sagt i en *ḥadīt̲h* återberättad av Ibn ‘Abbās: ”*Den som befinner sig inom den [vilket betyder gränserna för mawaqit], då är personens plats för att träda in i *ihrām* var personen än börjar*.” [^1] I en annan version säger han: ”*Då är personens plats för att träda in i *ihrām* med personens folk [i personens hem]. Likaså går invånarna i Mecka in i *ihrām* därifrån*.” [^2]
 
 
 [^1]: *al-Buk̲hārī* 1523 och *Muslim* 1181

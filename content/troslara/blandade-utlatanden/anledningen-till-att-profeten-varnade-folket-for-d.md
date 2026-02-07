@@ -20,7 +20,7 @@ description: >-
 
 Allāh vet att han inte kommer att dyka upp innan tidens ände men Han har kommenderat sändebuden att varna deras folk om honom så att vikten. Allvarligheten i detta ska vara uppenbar. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Om han dyker upp när jag är ibland er kommer jag att strida mot honom för er räkning men om han dyker upp när jag inte är ibland er måste var och en strida för sin egen räkning och Allāh kommer att var där i stället för mig [i mitt ställe ta hand om] varje muslim [och skydda denne mot hans onda].” [*Muslim* 2937]
+> ”Om han dyker upp när jag är ibland er kommer jag att strida mot honom för er räkning men om han dyker upp när jag inte är ibland er måste var och en strida för sin egen räkning och Allāh kommer att var där i stället för mig [i mitt ställe ta hand om] varje muslim [och skydda personen mot hans onda].” [*Muslim* 2937]
 
 Vår Herre den Allsmäktige är den bäste *khalīfah*.
 

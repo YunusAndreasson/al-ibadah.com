@@ -12,10 +12,10 @@ original_id: 72
 description: >-
   Fråga: Jag har hört att de lärde säger att den som har avlidit kommer att
   återfå livet i graven, att de får besvara frågor från änglar och att om det
-  från dessa frågor blir klart att denne är en i...
+  från dessa frågor blir klart att personen är en i...
 ---
 
-**Fråga:** Jag har hört att de lärde säger att den som har avlidit kommer att återfå livet i graven, att de får besvara frågor från änglar och att om det från dessa frågor blir klart att denne är en icke-troende som inte utövade islam under sitt liv här i denna världen, då kommer denne att straffas. Jag har inte funnit några bevis för detta i den Heliga Koranen som klargör utfrågningen och straffet i graven. Allāh säger:
+**Fråga:** Jag har hört att de lärde säger att den som har avlidit kommer att återfå livet i graven, att de får besvara frågor från änglar och att om det från dessa frågor blir klart att personen är en icke-troende som inte utövade islam under sitt liv här i denna världen, då kommer personen att straffas. Jag har inte funnit några bevis för detta i den Heliga Koranen som klargör utfrågningen och straffet i graven. Allāh säger:
 
 > ”[Då säger Gud till den rättfärdige:] ”Du själ, som har kommit till ro! Vänd tillbaka till den Herre, tillfredställd [med Hans gåvor och] omsluten av Hans välbehag! Stig in med skaran av *Minā* tjänare! Stig in i mitt Paradis!” [Koranen 89:27 – 30]
 
@@ -79,7 +79,7 @@ Beträffande Allāhs ord:
 
 > ”Gud stärker de troende med det ord vars sanning står fast i denna värld och i evigheten; men de orättfärdiga låter Han gå vilse. – Gud gör vad Han vill.” [Koranen 14:27]
 
-Profeten – över honom vare Allāhs frid och välsignelser – klargjorde att grundat på detta så kommer den troende att hållas stadig [i tron], medan den icke-troende kommer att misslyckas när denne utfrågas i graven. Han förklarade även att den troende kommer att belönas och ro i hans grav för svaren, och den icke-troende kommer att tveka och inte lyckas svara, och då straffas i graven. Detta kommer snart att visas i en *ḥadīt̲h* från al-Bara' bin 'Azib. Bland bevisen för straffet i graven finns även hadithen från Ibn 'Abbās som återberättas i *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim*.
+Profeten – över honom vare Allāhs frid och välsignelser – klargjorde att grundat på detta så kommer den troende att hållas stadig [i tron], medan den icke-troende kommer att misslyckas när personen utfrågas i graven. Han förklarade även att den troende kommer att belönas och ro i hans grav för svaren, och den icke-troende kommer att tveka och inte lyckas svara, och då straffas i graven. Detta kommer snart att visas i en *ḥadīt̲h* från al-Bara' bin 'Azib. Bland bevisen för straffet i graven finns även hadithen från Ibn 'Abbās som återberättas i *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim*.
 
 När profeten – över honom vare Allāhs frid och välsignelser – passerade två gravar sade han:
 
@@ -87,7 +87,7 @@ När profeten – över honom vare Allāhs frid och välsignelser – passerade 
 
 Han bad sedan om ett färskt palmlöv, delade det i två delar, planterade ett på varje grav och sade:
 
-> ”Kanske kommer deras straff att lindras så länge de håller sig färska.” [*al-Buk̲hārī* 218, *at-Tirmithi* 70, *Ibn Mājah* 347/349]
+> ”Kanske kommer deras straff att lindras så länge de håller sig färska.” [*al-Buk̲hārī* 218, *at-Tirmid̲hī* 70, *Ibn Mājah* 347/349]
 
 Utfrågningen och den efterföljande belöningen eller bestraffningen i graven, enligt dess invånares tro och handlingar, har det rapporterats från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i så stor omfattning att det inte är möjligt att förneka detta. Ingen dispyt är känd bland följeslagarna i denna fråga och därför bekräftar *ahlus-sunnah[^1] wal-jamā’at* det. Bland de återgivelser som bekräftar det finns de från imam Ahmad i hans *Musnad*, Abū Dawūd i hans *Sunan*, al-Hakim samt Abū 'Awanah al-Asfara'īni i deras *Ṣaḥīḥ*. De rapporterar från al-Bara' bin 'Azib att han har sagt:
 
@@ -97,13 +97,13 @@ Utfrågningen och den efterföljande belöningen eller bestraffningen i graven, 
 
 > Han sade: 'Sedan tar de upp med den och de passerar inte förbi en enda grupp änglar utan att de frågar: 'Vems är denna vackra själ?' De kommer att svara: 'Det är den-och-dens, sonen till den-och-den.' Tills de når himmeln kommer de att kalla på honom med de vackraste namnen som han kallades för i denna världen. Sedan kommer de att be om tillstånd för den att få träda in och himmeln öppnas för den [själen] och invånarna i varje himmel tar den till nästa himmel, tills de når himmlen som är Allāhs. Då kommer Allāh den Allsmäktige att säga: 'Skriv Min tjänares handlingar i *'illiyyin*[Ett Register där de rättfärdigas handlingar nedtecknas], lämna sedan honom åter till jorden, för Jag skapade honom från den och till den återlämnar Jag dem och från den kommer Jag att låta dem stiga upp en gång till.'
 
-> Han sade: 'Sedan återlämnas själen till dess kropp och de två änglarna kommer till honom, de sätter sig jämte honom och säger: 'Vem är din Herre?' Han svarar: 'Min Herre är Allāh.' Sedan säger de till honom: 'Vilken är din religion?' Och han svarar: 'Min religion är islam.' Sedan frågar de honom: 'Vem är denne man som har sänts till dig?' Han svarar: 'Han är Allāhs sändebud.' Sedan säger de till honom: 'Vilken är din kunskap?' Han säger: 'Jag har läst Allāhs skrift och jag tror på den.' Sedan ropar en röst från himmeln och säger: 'Min tjänare har sagt sanningen, så förse honom från Paradiset och öppna en dörr till Paradiset.'
+> Han sade: 'Sedan återlämnas själen till dess kropp och de två änglarna kommer till honom, de sätter sig jämte honom och säger: 'Vem är din Herre?' Han svarar: 'Min Herre är Allāh.' Sedan säger de till honom: 'Vilken är din religion?' Och han svarar: 'Min religion är islam.' Sedan frågar de honom: 'Vem är mannen som har sänts till dig?' Han svarar: 'Han är Allāhs sändebud.' Sedan säger de till honom: 'Vilken är din kunskap?' Han säger: 'Jag har läst Allāhs skrift och jag tror på den.' Sedan ropar en röst från himmeln och säger: 'Min tjänare har sagt sanningen, så förse honom från Paradiset och öppna en dörr till Paradiset.'
 
 > Han sade: 'Sedan kommer luften och dess väldoft till honom och hans grav vidgas för honom så långt han kan se.'
 
 > Han sade: 'Sedan kommer en vacker man till honom, prydd med fina kläder och en angenäm doft, och han säger till honom: 'Gläd dig åt vad som tillfredställer dig. Detta är din dag, som du har utlovats.' Han kommer att fråga mannen: ”Vem är du? Ditt ansikte är som hos den som har med sig det goda.' Han kommer att svara: 'Jag är dina rättfärdiga handlingar.' Han kommer att säga: 'Min Herre! Inled Timmen för att jag ska få återvända till min familj och min egendom.'
 
-> Han sade: 'Och sannerligen, den icke-troende, då denne är nära det Nästkommande och på väg att lämna livet i denna världen, kommer änglarna ned till honom från himmeln, deras ansikten är svarta, med dem finns en grov bit av en […] och de sitter inom hans åsyn. Sedan kommer dödsängeln, sätter sig nära hans huvud och säger: ”Du ondskefulla själ! Kom ut till Allāhs vrede och ilska!'
+> Han sade: 'Och sannerligen, den icke-troende, då personen är nära det Nästkommande och på väg att lämna livet i denna världen, kommer änglarna ned till honom från himmeln, deras ansikten är svarta, med dem finns en grov bit av en […] och de sitter inom hans åsyn. Sedan kommer dödsängeln, sätter sig nära hans huvud och säger: ”Du ondskefulla själ! Kom ut till Allāhs vrede och ilska!'
 
 > Han sade: 'Och den [dödsängeln] börjar sprida sig inuti hans kropp och han drar ut den [själen], som en järnstång dras ut från våt ull. Han tar den, och när han tar den lämnar de inte den i hans hand under mer än ett ögonblick innan de lägger den i säcken och den värsta lukt som finns på jordens yta flödar ut från den. Sedan stiger de upp med den och de passerar inte förbi en enda grupp av änglar utan att de frågar: 'Vems är denna onda själ?' De svarar: 'Det är den-och-dens, sonen till den-och-den' och de kallar honom för de värsta namn som han var känd med under hans liv i denna världen, tills de når den lägsta delen av himmeln med den. Sedan ber de om tillstånd för honom att få träda in, men den öppnas inte för honom.'
 
@@ -121,7 +121,7 @@ Den som studerar skapelsen kommer tydligt att se det universella i Allāhs vilja
 
 
 
-Det har även rapporterats att Allāh den Upphöjde kommer att återlämna själen till den avlidne när denne har begravts – ett återlämnande som kommer att lämna honom vid liv, levandes i *al-Barzakh* […]
+Det har även rapporterats att Allāh den Upphöjde kommer att återlämna själen till den avlidne när personen har begravts – ett återlämnande som kommer att lämna honom vid liv, levandes i *al-Barzakh* […]
 
 Detta liv mellan de båda [livet i denna världen och livet i det Nästa] gör det möjligt för honom att höra frågorna och besvara dem – om Allāh ger honom framgång – och får honom att känna njutningen [av Paradiset] eller plågan [i Helvetet]. Vi har redan nämnt *aḥādīt̲h* om detta […]
 

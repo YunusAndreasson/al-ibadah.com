@@ -1,5 +1,5 @@
 ---
-title: Vallfärdar med sina kvinnor och ytterligare en kvinna utan mahram följer med
+title: Vallfärdar med sina kvinnor och ytterligare en kvinna utan maḥram följer med
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.

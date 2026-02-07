@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Vi ser ofta Allāhs namn skrivit på väggar och jämte det finns Muḥammads namn. Är det rätt att placera dem så?
 
-**Svar:** Att placera dem så är inte rätt då detta sätter profeten – över honom vare Allāhs frid och välsignelser – som en konkurrent till Allāh, en likvärdig med Honom. Såg någon detta och denne inte visste bättre skulle denne övertygas om att de är likvärdiga. Därför bör man ta bort Allāhs sändebuds – över honom vare Allāhs frid och välsignelser – namn.
+**Svar:** Att placera dem så är inte rätt då detta sätter profeten – över honom vare Allāhs frid och välsignelser – som en konkurrent till Allāh, en likvärdig med Honom. Såg någon detta och personen inte visste bättre skulle personen övertygas om att de är likvärdiga. Därför bör man ta bort Allāhs sändebuds – över honom vare Allāhs frid och välsignelser – namn.
 
 Det återstår fortfarande tvivel om att enbart skriva Allāh då sufier uttalar detta ord. De säger det i stället för åminnelse[^1]: Allāh, Allāh, Allāh… Därför bör även det plockas bort. Man bör inte skriva Allāh eller Muḥammad på väggar, papper eller något annat.
 

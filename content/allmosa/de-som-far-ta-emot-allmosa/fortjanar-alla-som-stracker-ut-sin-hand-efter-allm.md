@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Alla som sträcker fram händerna efter allmosa förtjänar den inte. Det finns människor som sträcker fram händerna efter pengar medan de [redan] är förmögna. De kommer på Återuppståndelsens dag att komma med ansikten utan kött [^1] – må Allāh skydda oss från detta. De kommer att komma på Återuppståndelsens dag, under den dag när vittnena kommer att stå [upp], och benen i deras ansikten kommer att vara synliga – må Allāh skydda oss från detta.
 
-Profeten – över honom vare Allāhs frid och välsignelser – har också sagt: "*Den som tigger om andras rikedom för att bygga upp sin egen ber enbart om brinnande kol [i det Nästkommande], så låt denne be om lite eller mycket*." [^2]
+Profeten – över honom vare Allāhs frid och välsignelser – har också sagt: "*Den som tigger om andras rikedom för att bygga upp sin egen ber enbart om brinnande kol [i det Nästkommande], så låt personen be om lite eller mycket*." [^2]
 
 Jag skulle vilja ta detta tillfälle i akt och varna dem som ber andra om hjälp i en viktig fråga när dem [själva] har egendom. Jag varnar alla som tar emot allmosa när de inte är berättigade till den. Jag säger till dem: Om du tog allmosa som du inte är berättigad till, då använder du enbart orättmätiga vinster – må Allāh skydda oss från det.
 
@@ -32,7 +32,7 @@ Sedan sades det till honom [det vara en ängel som talade]: "Din välgörenhet h
 
 Min bror, se till den ärliga intentionen, vilken är dess inverkan?
 
-Om du gav den som bad dig och det sedan uppdagades att denne var förmögen, och du gav denne i tron att denne var fattig, då behöver du inte betala allmosan en gång till.
+Om du gav den som bad dig och det sedan uppdagades att personen var förmögen, och du gav personen i tron att personen var fattig, då behöver du inte betala allmosan en gång till.
 
 
 [^1]: *Muslim* 1040

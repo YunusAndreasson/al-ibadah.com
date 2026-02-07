@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Min mor blev sjuk några dagar innan *ramaḍān*. Sjukdomen gjorde henne svag och hon är gammal men hon fastade femton dagar under *ramaḍān*. Hon kan dock inte fasta vad som återstår och hon kan inte ta igen dagarna, kan hon då ge till välgörenhet? Hur mycket daglig välgörenhet skulle vara tillräckligt då det är jag som tar hand om henne? Betalar jag vad som krävs från henne då hon inte har något att ge till välgörenhet?
 
-**Svar:** Den som inte kan fasta på grund av hög ålder eller på grund av en sjukdom som denne inte förväntas att tillfriskna från, denne bryter fastan och föder en fattig för varje dag. Allāh säger:
+**Svar:** Den som inte kan fasta på grund av hög ålder eller på grund av en sjukdom som personen inte förväntas att tillfriskna från, personen bryter fastan och föder en fattig för varje dag. Allāh säger:
 
 > ”Men den av er som är sjuk eller på resa [ska fasta senare] under motsvarande antal dagar.” [Koranen 2:184]
 

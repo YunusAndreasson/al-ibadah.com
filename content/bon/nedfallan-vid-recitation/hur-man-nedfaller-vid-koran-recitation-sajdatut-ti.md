@@ -14,15 +14,14 @@ description: >-
   föredra att stå rakt för att sedan ne...
 ---
 
-**Fråga:** Hur gör man *sujūd at-tilāwah*[^1] och hur många *taslīm* bör man recitera i den?
+**Fråga:** Hur gör man *sujūd at-tilāwah* och hur många *taslīm* bör man recitera i den?
 
-**Svar:** *sujūd at-tilāwah*[^1] är som nedfallandet under bönen. Det är att föredra att stå rakt för att sedan nedfalla på sju kroppsdelar [pannan, näsan, händerna, knäna och tårna] och säga: ”*Subhana Rabbial-A’la*” tre gånger följt av:
+**Svar:** *sujūd at-tilāwah* är som nedfallandet under bönen. Det är att föredra att stå rakt för att sedan nedfalla på sju kroppsdelar [pannan, näsan, händerna, knäna och tårna] och säga: ”*Subhana Rabbial-A’la*” tre gånger följt av:
 
 > ”Allāhumma, Inī Laka sajadtu wa bika amantu wa laka aslamtu, wa 'alaika tawakkaltu. Sajada wajhīya lillathī khalaqahu wa sawwarahu wa shaqqa sam'ahu wa basrahu, bihawkihi wa quwwatihi, tabarak Allāhu ahsanul khaliqīn.”
 
 > ”Allāhumma, uktub lī biha ajran wa dha' 'anī biha wizran waj'alha lī 'indaka thukhran wa taqabbalha minnī kama taqabbaltaha min 'abdika Dawūd ´alaihi wa 'ala nabiyyina afdhalus-salati was-salam.”
 
-Den första delen har *Muslim* återgivit (771) och *at-Tirmithi* den andra av (579).
+Den första delen har *Muslim* återgivit (771) och *at-Tirmid̲hī* den andra av (579).
 
-[^1]: När vissa verser i Koranen reciteras kan man nedfalla.
 

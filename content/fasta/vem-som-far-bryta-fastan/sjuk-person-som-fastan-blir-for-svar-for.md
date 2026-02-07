@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Jag är en kvinna som är sjuk och det var några dagar under förra *ramaḍān* som jag inte fastade. Jag har inte möjlighet att ta igen dessa dagar på grund av min sjukdom. Vilken är då gottgörelsen för detta? Likaså kommer jag inte att ha möjlighet att fasta under *ramaḍān* detta år. Hur gottgör jag mig då för det? Må Allāh belöna er med det goda.
 
-**Svar:** För den sjuke, som fastan är för svår för, är det föreskrivet att bryta den och när Allāh botar honom ta igen det som denne är skyldig att ta igen. Detta beror på att Allāh har sagt:
+**Svar:** För den sjuke, som fastan är för svår för, är det föreskrivet att bryta den och när Allāh botar honom ta igen det som personen är skyldig att ta igen. Detta beror på att Allāh har sagt:
 
 > ”Men den av er som är sjuk eller på resa [ska fasta senare] under motsvarande antal dagar och de som har möjlighet ska som offer ge en nödställd att äta.” [Koranen 2:184]
 

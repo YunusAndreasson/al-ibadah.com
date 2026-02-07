@@ -1,5 +1,5 @@
 ---
-title: Arafat-dagen – frivillig fasta för de som inte vallfärdar
+title: ´Arafāt-dagen – frivillig fasta för de som inte vallfärdar
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Majmoo’ Fatāwa Ibn ‘Uthaymīn (20/404)
 categories:

@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Att dela religionen i ytliga och grundläggande frågor är fel. Hela religionen är av elementär vikt. Allting är nyttigt för Allāhs tjänare och allt för dem närmare Honom den Allsmäktige. Man belönas för allt och man drar nytta av den i form av en stärkt tro och en ökad ödmjukhet inför ens Herre den Allsmäktige. Detta gäller även i frågor om kläder, utseende och liknande.
 
-Gör någon detta för att komma närmare Allāh den Allsmäktige och i lydnad av Hans sändebud, då blir denne belönad för det. Ytliga frågor är, enligt vad vi känner till, inte nyttiga och de kan bortses ifrån. Något sådant finns inte i den islamiska lagen. Tvärtom är hela den islamiska lagen av vikt och man drar nytta av den om ens avsikt är ren och uppriktig för Allāh och om man lyder Allāhs sändebud – över honom vare Allāhs frid och välsignelser – med *ihsan*.
+Gör någon detta för att komma närmare Allāh den Allsmäktige och i lydnad av Hans sändebud, då blir personen belönad för det. Ytliga frågor är, enligt vad vi känner till, inte nyttiga och de kan bortses ifrån. Något sådant finns inte i den islamiska lagen. Tvärtom är hela den islamiska lagen av vikt och man drar nytta av den om ens avsikt är ren och uppriktig för Allāh och om man lyder Allāhs sändebud – över honom vare Allāhs frid och välsignelser – med *ihsan*.
 
 De som propagerar för detta måste noga tänka sig för så att de förstår vad som är sant och vad som är den korrekta åsikten. När de har kommit fram till den bör de följa den och överge uttalanden som dessa. Det är sant att det finns frågor av stor vikt i den islamiska religionen, som de fem pelarna, och detta är något som profeten – över honom vare Allāhs frid och välsignelser – har klargjort när han sade:
 

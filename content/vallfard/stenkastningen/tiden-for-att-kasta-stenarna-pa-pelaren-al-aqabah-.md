@@ -20,7 +20,7 @@ description: >-
 
 **Svar:** När det gäller att kasta sten på al-´Aqabah under *´eid*-dagen, då tar tiden slut vid gryningsbönen under den elfte dagen och den börjar vid slutet av natten innan offerdagen för de svaga som inte klarar av den stora folksamlingen.
 
-När det gäller att kasta sten på den under *at-tashrīq* är det precis som för de andra pelarna. Stenkastningen börjar vid middag och slutar när gryningsbönen börjar från natten som följde dagen för stening, utom om det är den sista dagen i *at-tashrīq* [den trettonde]. Under den sista dagen tar tiden för att kasta stenarna slut då solen går ned.
+När det gäller att kasta sten på den under *at-tas̲hrīq* är det precis som för de andra pelarna. Stenkastningen börjar vid middag och slutar när gryningsbönen börjar från natten som följde dagen för stening, utom om det är den sista dagen i *at-tas̲hrīq* [den trettonde]. Under den sista dagen tar tiden för att kasta stenarna slut då solen går ned.
 
 Det är bättre att kasta stenarna under dagen. Undantaget är om man med anledning av de många pilgrimerna, trängseln och extrema svårigheterna är rädd för att skadas eller dö. Då kan man kasta stenarna under natten. Även om man kastar stenarna under natten, utan att vara rädd för detta, har man inte syndat. Det är dock bättre om han är uppmärksam på vad som är säkrast och att man inte kastar stenar under natten, utom om det finns ett behov.
 

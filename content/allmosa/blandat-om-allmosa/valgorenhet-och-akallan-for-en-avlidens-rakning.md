@@ -18,7 +18,7 @@ description: >-
 
 Det är tillåtet att ge till välgörenhet för den avlidnes räkning. Det spelar ingen roll om välgörenheten är i form av pengar, vänlighet eller åkallan. Abū Hurairah har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> "När Adams söner dör, dör också hans handlingar utom tre: bestående välgörenhet[^1], nyttig kunskap och ett rättfärdigt barn som ber för honom." [*Muslim* 1631, *Abū Dāwūd* 2880 och *at-Tirmithi* 1376]
+> "När Adams söner dör, dör också hans handlingar utom tre: bestående välgörenhet[^1], nyttig kunskap och ett rättfärdigt barn som ber för honom." [*Muslim* 1631, *Abū Dāwūd* 2880 och *at-Tirmid̲hī* 1376]
 
 Den allmänna betydelsen av denna *ḥadīt̲h* är att belöningen för välgörenheten når den avlidne. Profeten – över honom vare Allāhs frid och välsignelser – angav inte om sådan välgörenhet uppgivits i den avlidnes testamente eller inte. Därför gäller denna *ḥadīt̲h* i båda fall.
 

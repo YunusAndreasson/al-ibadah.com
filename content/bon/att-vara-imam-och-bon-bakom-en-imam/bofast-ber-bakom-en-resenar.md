@@ -10,11 +10,11 @@ categories:
 original_id: 1470
 description: >-
   Fråga: En person begav sig ut på en resa och han ville be middagsbönen i
-  församling. Han fann någon som redan hade bett middagsbönen men denne var inte
+  församling. Han fann någon som redan hade bett middagsbönen men personen var inte
   resenär. Får den som inte reser be med en re...
 ---
 
-**Fråga:** En person begav sig ut på en resa och han ville be middagsbönen i församling. Han fann någon som redan hade bett middagsbönen men denne var inte resenär. Får den som inte reser be med en resenär och bör han förkorta sin bön eller be hela?
+**Fråga:** En person begav sig ut på en resa och han ville be middagsbönen i församling. Han fann någon som redan hade bett middagsbönen men personen var inte resenär. Får den som inte reser be med en resenär och bör han förkorta sin bön eller be hela?
 
 **Svar:** Om den som inte reser ber bakom en resenär för att få belöningen för att be med församlingen om han redan har bett den obligatoriska bönen, då bör han be två bönecykler med resenären. Det anses vara en frivillig bön för honom. Men om den som inte reser ber bakom resenären och han ber en obligatorisk bön som middagsbönen, eftermiddagsbönen eller nattbönen, då bör han be fyra bönecykler.
 

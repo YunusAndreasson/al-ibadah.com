@@ -23,7 +23,7 @@ De kom till profeten – över honom vare Allāhs frid och välsignelser – och
 
 *Rububiyyah*, budskapet och uppenbarelsen är frågor som man ska visa respekt för. Det är förbjudet att inte ta dem på allvar, oavsett om det sker genom hån, att få människor att skratta eller att göra sig löjlig.
 
-Gör någon så här är denne en icke-troende då det visar att denne hyser förakt mot Allāh, Hans sändebud, Hans skrifter och Hans lag. Den som gör så måste i ånger vända sig till Honom, be om Hans förlåtelse, förändra sitt beteende och ingjuta fruktan av Allāh i sitt hjärta. Denne måste dessutom lovprisa, visa vördnad för och älska Honom.
+Gör någon så här är personen en icke-troende då det visar att personen hyser förakt mot Allāh, Hans sändebud, Hans skrifter och Hans lag. Den som gör så måste i ånger vända sig till Honom, be om Hans förlåtelse, förändra sitt beteende och ingjuta fruktan av Allāh i sitt hjärta. Personen måste dessutom lovprisa, visa vördnad för och älska Honom.
 
 Och Allāh är Beviljaren av framgång.
 

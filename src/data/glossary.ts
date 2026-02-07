@@ -1,5 +1,5 @@
 // Auto-generated glossary data - DO NOT EDIT MANUALLY
-// Generated at: 2026-02-07T14:23:07.388Z
+// Generated at: 2026-02-07T16:52:56.844Z
 // Run: pnpm tsx scripts/extract-glossary-definitions.ts
 
 import { normalizeArabic } from '../lib/normalize-arabic'
@@ -48,9 +48,15 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "Islamisk högtid.",
     category: "fastingTerms",
   },
+  "´eid al-aḍḥā": {
+    canonical: "´eid al-aḍḥā",
+    variants: ["´eidul-aḍḥā"],
+    definition: "Den islamiska offerhögtiden.",
+    category: "fastingTerms",
+  },
   "´eid al-fiṭr": {
     canonical: "´eid al-fiṭr",
-    variants: [],
+    variants: ["´eidul-fiṭr"],
     definition: "Fastebrytandets högtid som infaller efter ramadan.",
     category: "fastingTerms",
   },
@@ -65,6 +71,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     variants: [],
     definition: "Den lilla vallfärden.",
     category: "hajjTerms",
+  },
+  "ad̲hān": {
+    canonical: "ad̲hān",
+    variants: [],
+    definition: "Böneutropet; det första utropet som kallar till bön.",
+    category: "prayerTerms",
   },
   "aḥādīt̲h": {
     canonical: "aḥādīt̲h",
@@ -100,6 +112,18 @@ export const glossary: Record<string, GlossaryTerm> = {
     canonical: "awliyā’",
     variants: [],
     definition: "De som står Allāh nära.",
+    category: "coreTerms",
+  },
+  "barzak̲h": {
+    canonical: "barzak̲h",
+    variants: [],
+    definition: "Barriären eller det mellanliggande tillståndet mellan döden och uppståndelsen.",
+    category: "coreTerms",
+  },
+  "bid´ah": {
+    canonical: "bid´ah",
+    variants: [],
+    definition: "Innovation i religionen; att införa något i religionen som inte har grund i Koranen eller sunnah.",
     category: "coreTerms",
   },
   "Bismillāh": {
@@ -188,7 +212,7 @@ export const glossary: Record<string, GlossaryTerm> = {
   },
   "ḥadīt̲h": {
     canonical: "ḥadīt̲h",
-    variants: ["ḥadīt̲hen","ḥadīt̲her"],
+    variants: ["ḥadīt̲hen","ḥadīt̲her","ḥadīt̲herna"],
     definition: "Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.",
     category: "coreTerms",
   },
@@ -222,8 +246,14 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "Ett månår (354 dagar) som måste passera för att allmosa ska bli obligatorisk.",
     category: "zakatTerms",
   },
-  "i’tikāf": {
-    canonical: "i’tikāf",
+  "ḥayḍ": {
+    canonical: "ḥayḍ",
+    variants: [],
+    definition: "Menstruation; kvinnans månadsblödning.",
+    category: "purificationTerms",
+  },
+  "i´tikāf": {
+    canonical: "i´tikāf",
     variants: [],
     definition: "Att dra sig tillbaka i moskén för dyrkan, särskilt under ramadans sista tio dagar.",
     category: "fastingTerms",
@@ -288,6 +318,18 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "Den som befinner sig i ett tillstånd av stor rituell orenhet.",
     category: "purificationTerms",
   },
+  "k̲hawārij": {
+    canonical: "k̲hawārij",
+    variants: [],
+    definition: "En tidig avvikande sekt i islams historia.",
+    category: "scholarlyTerms",
+  },
+  "k̲hus̲hū´": {
+    canonical: "k̲hus̲hū´",
+    variants: [],
+    definition: "Ödmjukhet och koncentration i bönen.",
+    category: "prayerTerms",
+  },
   "kufr": {
     canonical: "kufr",
     variants: [],
@@ -296,7 +338,7 @@ export const glossary: Record<string, GlossaryTerm> = {
   },
   "kuḥl": {
     canonical: "kuḥl",
-    variants: ["kuḥl"],
+    variants: [],
     definition: "Ögonsmink framställt av antimon; traditionellt använt i den muslimska världen.",
     category: "miswakAndOther",
   },
@@ -305,6 +347,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     variants: ["kvällsbönen"],
     definition: "maghrib",
     category: "swedishTerms",
+  },
+  "laylat al-qadr": {
+    canonical: "laylat al-qadr",
+    variants: [],
+    definition: "Allmaktens Natt; en natt under ramadans sista tio dagar som är bättre än tusen månader.",
+    category: "fastingTerms",
   },
   "mad̲hī": {
     canonical: "mad̲hī",
@@ -322,6 +370,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     canonical: "manī",
     variants: [],
     definition: "Sädesvätska.",
+    category: "purificationTerms",
+  },
+  "mas̲h": {
+    canonical: "mas̲h",
+    variants: [],
+    definition: "Strykning över strumpor eller liknande vid tvagning.",
     category: "purificationTerms",
   },
   "mawāqīt": {
@@ -359,6 +413,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     variants: [],
     definition: "En vikt likvärdig med ungefär 4,5 g.",
     category: "zakatTerms",
+  },
+  "mu´tazilah": {
+    canonical: "mu´tazilah",
+    variants: [],
+    definition: "En avvikande teologisk skola.",
+    category: "scholarlyTerms",
   },
   "mufrid": {
     canonical: "mufrid",
@@ -426,11 +486,23 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "sujūd",
     category: "swedishTerms",
   },
+  "nifās": {
+    canonical: "nifās",
+    variants: [],
+    definition: "Efterblödning; blödning efter förlossning.",
+    category: "purificationTerms",
+  },
   "niṣāb": {
     canonical: "niṣāb",
     variants: [],
     definition: "Minsta förmögenhetsnivå som gör allmosa obligatorisk.",
     category: "zakatTerms",
+  },
+  "qadar": {
+    canonical: "qadar",
+    variants: [],
+    definition: "Förutbestämmelsen; tron på att Allāh har bestämt allting.",
+    category: "coreTerms",
   },
   "qarīn": {
     canonical: "qarīn",
@@ -442,6 +514,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     canonical: "qiblah",
     variants: [],
     definition: "Riktningen mot Ka'bah i Mecka som bönen utförs mot.",
+    category: "prayerTerms",
+  },
+  "qiyām al-layl": {
+    canonical: "qiyām al-layl",
+    variants: [],
+    definition: "Nattbön; frivillig bön som utförs under natten.",
     category: "prayerTerms",
   },
   "qunūt": {
@@ -522,11 +600,35 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "Fredshälsning.",
     category: "phrases",
   },
+  "ṣalāt al-´īd": {
+    canonical: "ṣalāt al-´īd",
+    variants: [],
+    definition: "Eid-bönen; högtidsbönen.",
+    category: "prayerTerms",
+  },
+  "ṣalāt al-janāzah": {
+    canonical: "ṣalāt al-janāzah",
+    variants: [],
+    definition: "Begravningsbönen.",
+    category: "prayerTerms",
+  },
+  "ṣalāt al-jumu´ah": {
+    canonical: "ṣalāt al-jumu´ah",
+    variants: [],
+    definition: "Fredagsbönen.",
+    category: "prayerTerms",
+  },
   "s̲ha´bān": {
     canonical: "s̲ha´bān",
     variants: [],
     definition: "Den åttonde månaden i det islamiska året.",
     category: "monthNames",
+  },
+  "s̲hahādah": {
+    canonical: "s̲hahādah",
+    variants: [],
+    definition: "Trosbekännelsen; vittnesmålet att det inte finns någon gud utom Allāh och att Muḥammad är Hans sändebud.",
+    category: "coreTerms",
   },
   "s̲hawwāl": {
     canonical: "s̲hawwāl",
@@ -588,8 +690,8 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "Omtolkning; att ge en text en annan innebörd än den uppenbara.",
     category: "coreTerms",
   },
-  "tābi’īn": {
-    canonical: "tābi’īn",
+  "tābi´īn": {
+    canonical: "tābi´īn",
     variants: [],
     definition: "Generationen som kom efter följeslagarna.",
     category: "scholarlyTerms",
@@ -650,8 +752,8 @@ export const glossary: Record<string, GlossaryTerm> = {
   },
   "tas̲hrīq": {
     canonical: "tas̲hrīq",
-    variants: [],
-    definition: "De tre dagarna efter 'eidul-adhā.",
+    variants: ["at-tas̲hrīq","at-ayyām at-tas̲hrīq","ayyām at-tas̲hrīq"],
+    definition: "De tre dagarna efter ´eid al-aḍḥā.",
     category: "hajjTerms",
   },
   "taslīm": {
@@ -666,10 +768,22 @@ export const glossary: Record<string, GlossaryTerm> = {
     definition: "Den sjufaldiga rundvandringen runt Ka'bah.",
     category: "hajjTerms",
   },
-  "ṭawāf ul-wadā’": {
-    canonical: "ṭawāf ul-wadā’",
-    variants: ["ṭawāful-wadā’"],
+  "ṭawāf ul-ifāḍah": {
+    canonical: "ṭawāf ul-ifāḍah",
+    variants: ["ṭawāf ul-ifād̲hah","ṭawāful-ifāḍah"],
+    definition: "Den sju långa rundar vandringen runt Kabah.",
+    category: "hajjTerms",
+  },
+  "ṭawāf ul-wadā´": {
+    canonical: "ṭawāf ul-wadā´",
+    variants: ["ṭawāful-wadā´"],
     definition: "Rundvandringen runt Ka'bah före avfärden från Mecka.",
+    category: "hajjTerms",
+  },
+  "ṭawāf uz-ziyārah": {
+    canonical: "ṭawāf uz-ziyārah",
+    variants: [],
+    definition: "Den sju långa rundar vandringen runt Kabah.",
     category: "hajjTerms",
   },
   "tawakkul": {
@@ -719,6 +833,12 @@ export const glossary: Record<string, GlossaryTerm> = {
     variants: ["tvagningen"],
     definition: "wudū’",
     category: "swedishTerms",
+  },
+  "uḍḥiyah": {
+    canonical: "uḍḥiyah",
+    variants: [],
+    definition: "Högtidsoffret; det djur som slaktas under eid al-aḍḥā.",
+    category: "hajjTerms",
   },
   "wadī": {
     canonical: "wadī",

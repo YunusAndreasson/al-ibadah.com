@@ -32,4 +32,4 @@ Och Allāh vet bäst.
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
 [^2]: *Aḥmad* 3:162
-[^3]: *Abū Dāwūd* 1425, 1426; *at-Tirmithi* 464 och *Aḥmad* 1:119, 200
+[^3]: *Abū Dāwūd* 1425, 1426; *at-Tirmid̲hī* 464 och *Aḥmad* 1:119, 200

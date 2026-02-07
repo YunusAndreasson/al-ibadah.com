@@ -1,5 +1,5 @@
 ---
-title: Ge pengar som zakātul-fitr
+title: Ge pengar som zakātul-fiṭr
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
@@ -35,14 +35,14 @@ Vi känner inte till att någon av profetens – över honom vare Allāhs frid o
 
 Sannerligen har Allāh den Upphöjde sagt: "*I Guds sändebud har ni ett gott föredöme*." [^6] Och Han den Allsmäktige har sagt: "*Föregångsmännen, de första av dem som utvandrade och [de första] hjälparna, och de rättsinniga [människor] som följde i deras spår – Gud är nöjd med dem och de är nöjda [där de njuter] Hans [gåvor]; Han har i beredskap för dem lustgårdar, vattnade av bäckar, där de ska förbli till evig tid. Detta är den stora, den lysande segern*." [^7]
 
-Med utgångspunkt i vad vi har nämnt blir det tydligt för den som följer sanningen att det inte är tillåtet att ge pengar som *zakātul-fiṭr*. Det är inte tillräckligt för den som ger det därför att denne motsätter sig vad som har nämnts i form av föreskrivna bevis.
+Med utgångspunkt i vad vi har nämnt blir det tydligt för den som följer sanningen att det inte är tillåtet att ge pengar som *zakātul-fiṭr*. Det är inte tillräckligt för den som ger det därför att personen motsätter sig vad som har nämnts i form av föreskrivna bevis.
 
 Jag ber Allāh att Han hjälper oss och alla muslimer med att förstå Hans religion, att vara stadiga vid den och vara varse om allting som motsäger sig Hans lag. Sannerligen, Han är den Generöse, den Ädle.
 
 Må Allāh sända frid och välsignelser över vår profet Muḥammad, hans familj och hans följeslagare.
 
 [^1]: Allmosa som ges före eid-bönen.
-[^2]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
+[^2]: Det mått som fyller en normalbyggd mans båda händer när personen kupar dem tillsammans.
 
 [^3]: Koranen 53:3 – 4
 [^4]: *al-Buk̲hārī* 2697

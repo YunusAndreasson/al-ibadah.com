@@ -14,7 +14,7 @@ description: >-
   Den som leds i bön måste följa i...
 ---
 
-**Fråga:** Får man göra *sujūd at-tilāwah*[^1] bakom imamen, om imamen reciterar en vers i vilken det finns *sujūd at-tilāwah*[^1] och imamen själv inte nedfaller?
+**Fråga:** Får man göra *sujūd at-tilāwah* bakom imamen, om imamen reciterar en vers i vilken det finns *sujūd at-tilāwah* och imamen själv inte nedfaller?
 
 **Svar:** Den som leds i bön måste följa imamens rörelser. Nedfaller imamen, då gör han likadant och nedfaller inte imamen, då gör han det inte heller.
 
@@ -24,5 +24,4 @@ Om imamen reciterar en vers med nedfallan i en bön där man reciterar med höjd
 
 Och Allāh vet bäst.
 
-[^1]: När vissa verser i Koranen reciteras kan man nedfalla.
 

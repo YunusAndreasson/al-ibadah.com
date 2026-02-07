@@ -1,5 +1,5 @@
 ---
-title: Säga Bismillah när man är på toaletten
+title: Säga Bismillāh när man är på toaletten
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.

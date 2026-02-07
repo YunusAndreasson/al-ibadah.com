@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Vad gäller den som, ovetandes eller på grund av glömska, utför en av de nio förbjudna handlingarna under *iḥrām*?
 
-**Svar:** Den som glömmer och klipper sitt hår eller sina naglar har inte syndat och han behöver inte offra. Detsamma gäller den som i glömska använder parfym, täcker sitt huvud eller bär klädesplagg med sömmar. Allāh håller inte denne ansvarig. Detta eftersom Han har sagt: ”*Herre! Ställ oss inte till svars för glömska eller oavsiktliga fel*.” [^1]
+**Svar:** Den som glömmer och klipper sitt hår eller sina naglar har inte syndat och han behöver inte offra. Detsamma gäller den som i glömska använder parfym, täcker sitt huvud eller bär klädesplagg med sömmar. Allāh håller inte personen ansvarig. Detta eftersom Han har sagt: ”*Herre! Ställ oss inte till svars för glömska eller oavsiktliga fel*.” [^1]
 
 I *Ṣaḥīḥ* återges att Allāh har sagt [som svar på detta]: ”*Sannerligen, har jag gjort så [accepterat denna åkallan]*.”
 

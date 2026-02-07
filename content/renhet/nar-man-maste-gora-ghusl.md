@@ -1,5 +1,5 @@
 ---
-title: När man måste göra ghusl
+title: När man måste göra g̲husl
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
@@ -25,7 +25,7 @@ description: >-
 
 Vissa lärde har även sagt att döden är något som fordrar *g̲husl*. Som bevis för detta citerar de profetens – över honom vare Allāhs frid och välsignelser – ord till en kvinna som tvättade hans dotter: "*Tvätta henne tre gånger, eller fem gånger, eller sju gånger eller fler gånger än det om du anser att det är nödvändigt*." [^5]
 
-Profeten – över honom vare Allāhs frid och välsignelser – sade även till en man vars riddjur föll över honom vid *´Arafāt* när han befann sig i *iḥrām*[^4]: "*Tvätta honom med vatten och sidr[^1] och svep honom i hans plagg*." [^6] De säger då att *g̲husl* måste utföras för den avlidne. Men skyldigheten här avser de levande därför att den avlidne hålls inte längre ansvarig på grund av dennes bortgång. Därför är det enligt profetens – över honom vare Allāhs frid och välsignelser – kommendering till att göra så en skyldighet för de levande att tvätta deras avlidna.
+Profeten – över honom vare Allāhs frid och välsignelser – sade även till en man vars riddjur föll över honom vid *´Arafāt* när han befann sig i *iḥrām*[^4]: "*Tvätta honom med vatten och sidr[^1] och svep honom i hans plagg*." [^6] De säger då att *g̲husl* måste utföras för den avlidne. Men skyldigheten här avser de levande därför att den avlidne hålls inte längre ansvarig på grund av personens bortgång. Därför är det enligt profetens – över honom vare Allāhs frid och välsignelser – kommendering till att göra så en skyldighet för de levande att tvätta deras avlidna.
 
 [^1]: Lotuslöv
 

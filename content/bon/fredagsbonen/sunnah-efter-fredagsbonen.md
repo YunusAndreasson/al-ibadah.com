@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Hur brukade Allāhs sändebud – över honom vare Allāhs frid och välsignelser – och hans följeslagare avsluta fredagsbönen? Bad de två bönecykler efter den?
 
-**Svar:** I en *ḥadīt̲h* från Abū Hurairah berättas att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Allāhs sändebud sade: 'Om någon ber fredagsbönen, då bör denne be fyra bönecykler efter den.'*” [^1]
+**Svar:** I en *ḥadīt̲h* från Abū Hurairah berättas att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Allāhs sändebud sade: 'Om någon ber fredagsbönen, då bör personen be fyra bönecykler efter den.'*” [^1]
 
 Ibn ´Umar har sagt: ”*Profeten bad inte efter fredagsbönen förrän han hade lämnat den och då bad han två bönecykler i sitt hem*.” [^2]
 

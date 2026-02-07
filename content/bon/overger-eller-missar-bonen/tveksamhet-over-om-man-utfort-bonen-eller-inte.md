@@ -33,5 +33,5 @@ De verser och *aḥādīt̲h* som poängterar vikten av bönen, skyldigheten att
 [^1]: *al-Buk̲hārī* 597 och *Muslim* 684
 [^2]: Koranen 2:238
 [^3]: Koranen 2:43
-[^4]: *at-Tirmithi* 2616
+[^4]: *at-Tirmid̲hī* 2616
 [^5]: *al-Buk̲hārī* 8, 4515 och *Muslim* 16

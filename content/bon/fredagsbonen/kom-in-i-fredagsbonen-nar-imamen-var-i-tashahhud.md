@@ -1,5 +1,5 @@
 ---
-title: Kom in i fredagsbönen när imamen var i tashahhud
+title: Kom in i fredagsbönen när imamen var i tas̲hahhud
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.

@@ -25,7 +25,7 @@ Men till sist kommer han att få träda in i Paradiset. Allāh säger: ”*Gud f
 
 Autentiska *aḥādīt̲h* understryker att olydiga människor – som tror på Allāhs enhet – kommer att tas ur Elden. Enligt följande autentiska *ḥadīt̲h*, som 'Ubadah bin as-Samit har återberättat, har profeten – över honom vare Allāhs frid och välsignelser – sagt: ”*Vill ni lova mig att ni inte ska sätta medhjälpare vid Allāhs sida, inte begå otukt och inte stjäla*.” Sedan reciterade han versen ovan och sade:
 
-> ”Den som uppfyller sitt löfte, dennes belöning kommer att finnas hos Allāh. Men den som begår någon av dessa synder, och blir straffad [i denna värld], då kommer dennes straff att vara en gottgörelse. Medan den som begår några av dessa synder, och Allāh döljer dem åt denne, då kommer det att vara upp till Allāh; om Han vill, straffar Han denne och om Han vill, förlåter Han denne.” [*al-Buk̲hārī* 18, 3892, 3999 och 4894].
+> ”Den som uppfyller sitt löfte, personens belöning kommer att finnas hos Allāh. Men den som begår någon av dessa synder, och blir straffad [i denna värld], då kommer personens straff att vara en gottgörelse. Medan den som begår några av dessa synder, och Allāh döljer dem åt personen, då kommer det att vara upp till Allāh; om Han vill, straffar Han personen och om Han vill, förlåter Han personen.” [*al-Buk̲hārī* 18, 3892, 3999 och 4894].
 
 [^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

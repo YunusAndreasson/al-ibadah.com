@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Islam i dess allmänna betydelse är dyrkan av Allāh den Upphöjde på det sätt som Han har föreskrivit genom de sändebud som Han sänt från tiden då Han föreskrev för Sin skapelse att de skulle följa Hans föreskrift tills Timmen kommer. Här omfattas vad Noak kom med i form av vägledning och sanning, och vad Abraham som är de rena muslimernas ledare kom med. Här innefattas även vad Mose och Jesus förde med sig. Allāh den Upphöjde har nämnt detta i många verser som visar att de tidigare uppenbarade lagarna var underkastelse inför Honom.
 
-Men i definitiv form avser islam enbart det som profeten – över honom vare Allāhs frid och välsignelser – sändes med. Det beror på att vad han kom med upphäver alla de tidigare religionerna. Den som följer honom blir muslim och den som vägrar att göra det är inte muslim då denne inte har underkastat sig Allāh. Vad denne i stället har gjort är att denne har underkastat sig sina fåfänga begär.
+Men i definitiv form avser islam enbart det som profeten – över honom vare Allāhs frid och välsignelser – sändes med. Det beror på att vad han kom med upphäver alla de tidigare religionerna. Den som följer honom blir muslim och den som vägrar att göra det är inte muslim då personen inte har underkastat sig Allāh. Vad personen i stället har gjort är att personen har underkastat sig sina fåfänga begär.
 
 Under Moses tid var judarna muslimer och de kristna under Jesus tid var det likaså. Men då profeten Muḥammad sändes och de inte trodde på honom, då var de inte muslimer.
 

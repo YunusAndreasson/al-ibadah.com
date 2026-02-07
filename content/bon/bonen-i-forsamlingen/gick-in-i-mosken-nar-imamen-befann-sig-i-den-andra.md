@@ -9,13 +9,13 @@ categories:
 original_id: 986
 description: >-
   Fråga: En troende gick in i moskén när imamen befann sig i den andra tashahhud
-  . Bör denne då börja be med församlingen eller ska denne vänta på en ny? Ge
+  . Bör personen då börja be med församlingen eller ska personen vänta på en ny? Ge
   oss ett utlåtande och må Allāh belöna ...
 ---
 
-**Fråga:** En troende gick in i moskén när imamen befann sig i den andra *tas̲hahhud*. Bör denne då börja be med församlingen eller ska denne vänta på en ny? Ge oss ett utlåtande och må Allāh belöna er med det goda.
+**Fråga:** En troende gick in i moskén när imamen befann sig i den andra *tas̲hahhud*. Bör personen då börja be med församlingen eller ska personen vänta på en ny? Ge oss ett utlåtande och må Allāh belöna er med det goda.
 
-**Svar:** Om någon går in i moskén när imamen befinner sig i den andra *tas̲hahhud* och om denne förväntar sig att det ska bli en andra församlingsbön, då bör denne inte be med imamen. Men om denne inte förväntar sig att det ska bli en andra församlingsbön, då bör denne be med imamen.
+**Svar:** Om någon går in i moskén när imamen befinner sig i den andra *tas̲hahhud* och om personen förväntar sig att det ska bli en andra församlingsbön, då bör personen inte be med imamen. Men om personen inte förväntar sig att det ska bli en andra församlingsbön, då bör personen be med imamen.
 
 Detta beror på att den starkaste åsikten är att församlingsbönen inte uppnås utom genom att man har fått minst en bönecykel av den. Detta är enligt den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*Den som har fått en bönecykel av bönen har fått bönen*.” [^1]
 

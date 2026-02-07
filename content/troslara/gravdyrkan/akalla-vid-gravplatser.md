@@ -19,17 +19,17 @@ description: >-
 
 **Svar:** Åkallan delas in i två kategorier:
 
-Åkallan i form av dyrkan som kan vara bön, fasta eller annan dyrkan. Om någon ber eller fastar har denne med tystnad bett sin Herre att Han ska förlåta honom, skydda honom från Hans straff och ge honom Hans välvilja. Beviset för detta finns i Allāhs den Upphöjdes ord:
+Åkallan i form av dyrkan som kan vara bön, fasta eller annan dyrkan. Om någon ber eller fastar har personen med tystnad bett sin Herre att Han ska förlåta honom, skydda honom från Hans straff och ge honom Hans välvilja. Beviset för detta finns i Allāhs den Upphöjdes ord:
 
 > ”Er Herre säger: ’Be till Mig, så ska Jag besvara er [bön]. De som håller sig för goda för att tjäna Mig ska gå med böjt huvud in i helvetet.” [Koranen 40:60]
 
-Allāh förklarar här att åkallan är en dyrkan och den som riktar en dyrkan mot någon annan än Allāh har handlat på ett sätt som innebär otro och som tar denne ut ur islam. Om någon bugar eller nedfaller inför något för att lovprisa det på så vis som Allāh ska lovprisas, då är denne en månggudadyrkare[^1] som står utanför islam.
+Allāh förklarar här att åkallan är en dyrkan och den som riktar en dyrkan mot någon annan än Allāh har handlat på ett sätt som innebär otro och som tar personen ut ur islam. Om någon bugar eller nedfaller inför något för att lovprisa det på så vis som Allāh ska lovprisas, då är personen en månggudadyrkare[^1] som står utanför islam.
 
-För att hindra det som leder till *s̲hirk* förbjöd profeten – över honom vare Allāhs frid och välsignelser – därför att man bugar sig när man möter någon. När profeten – över honom vare Allāhs frid och välsignelser – ställdes frågan om en man som träffar en annan man och om denne bör buga inför honom, då svarade han: "*Nej*." En bugning vid hälsning är något som okunniga människor kan ta sig för när de möter dig. Detta är ett misstag och det är din skyldighet att påpeka det och förbjuda dem att göra det.
+För att hindra det som leder till *s̲hirk* förbjöd profeten – över honom vare Allāhs frid och välsignelser – därför att man bugar sig när man möter någon. När profeten – över honom vare Allāhs frid och välsignelser – ställdes frågan om en man som träffar en annan man och om personen bör buga inför honom, då svarade han: "*Nej*." En bugning vid hälsning är något som okunniga människor kan ta sig för när de möter dig. Detta är ett misstag och det är din skyldighet att påpeka det och förbjuda dem att göra det.
 
 Åkallan för att be om någonting. Detta är inte helt *s̲hirk* och ett klargörande krävs. Om den som ombeds om någonting är vid liv och kapabel att göra det, då är det inte *s̲hirk*. Detta kan vara om man säger: "Ge mig vatten att dricka" till någon som har möjlighet att göra det.
 
-Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Den som bjuder in dig [till en festmåltid], acceptera dennes inbjudan*." [^2] Allāh den Upphöjde säger även: "När *arv skiftas i närvaro av anförvanter, faderlösa och behövande, ge dem då något därav för deras behov och ha vänliga ord för [alla]*." [^3] Sträcker en fattig fram sin hand och säger: "Hjälp mig" så är det tillåtet. Allāh den Upphöjde säger ju: "*ge dem då något därav*" [^4]
+Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Den som bjuder in dig [till en festmåltid], acceptera personens inbjudan*." [^2] Allāh den Upphöjde säger även: "När *arv skiftas i närvaro av anförvanter, faderlösa och behövande, ge dem då något därav för deras behov och ha vänliga ord för [alla]*." [^3] Sträcker en fattig fram sin hand och säger: "Hjälp mig" så är det tillåtet. Allāh den Upphöjde säger ju: "*ge dem då något därav*" [^4]
 
 Ledsamt nog finns det invånare i muslimska länder som tror att en avliden som har begravts, vars kropp antingen finns kvar eller har förmultnat i jorden, kan hjälpa, skydda mot ont eller ge barn till den barnlöse. Detta – må Allāh skydda oss – är stor *s̲hirk* som tar en person ut ur islam. Att tillåta detta är värre än att tillåta alkohol, äktenskapsbrott eller homosexualitet. Detta beror på att man då tillåter otro och inte enbart en synd.
 

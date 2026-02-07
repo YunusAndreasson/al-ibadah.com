@@ -1,5 +1,5 @@
 ---
-title: Var de två bönecyklerna före tawāf ska bes
+title: Var de två bönecyklerna före ṭawāf ska bes
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.

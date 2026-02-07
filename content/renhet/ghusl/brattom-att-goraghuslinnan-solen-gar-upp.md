@@ -1,5 +1,5 @@
 ---
-title: Bråttom att göra ghusl innan solen går upp
+title: Bråttom att göra g̲husl innan solen går upp
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Du måste göra *g̲husl*, göra klart din rening och sedan be. Du får inte göra *tayammum* i den situation som du har beskrivit. Den som glömmer och den som har sovit över sig är beordrad att be så fort som möjligt.
 
-Detta beror på att de ska avklara skyldigheten när de kommer ihåg eller vaknar. Beviset för detta är en *ḥadīt̲h* där profeten – över honom vare Allāhs frid och välsignelser – säger: "*Den som sover över bönen eller glömmer den, denne måste be den så fort denne kommer ihåg, och det finns inget sonande för det utöver detta*." [^1]
+Detta beror på att de ska avklara skyldigheten när de kommer ihåg eller vaknar. Beviset för detta är en *ḥadīt̲h* där profeten – över honom vare Allāhs frid och välsignelser – säger: "*Den som sover över bönen eller glömmer den, personen måste be den så fort personen kommer ihåg, och det finns inget sonande för det utöver detta*." [^1]
 
 Det är välkänt att det inte finns någon bön utan rening. Profeten – över honom vare Allāhs frid och välsignelser – har ju sagt: ”*Bön utan tvagning accepteras inte*.” [^2]
 

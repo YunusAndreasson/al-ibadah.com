@@ -1,5 +1,5 @@
 ---
-title: Nisab för guld och silver och hur mycket en sa' är
+title: Niṣāb för guld och silver och hur mycket en ṣā´ är
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.

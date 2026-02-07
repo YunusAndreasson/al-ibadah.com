@@ -1,5 +1,5 @@
 ---
-title: Kunde inte finna en plats i Mina
+title: Kunde inte finna en plats i Minā
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -14,7 +14,7 @@ description: >-
   plats i Mina, då bör de stanna vid pilgrim...
 ---
 
-**Fråga:** Om en pilgrim inte kan finna en plats under dagarna och nätterna för *at-tashrīq* i *Minā*, vilket är då utlåtandet?
+**Fråga:** Om en pilgrim inte kan finna en plats under dagarna och nätterna för *at-tas̲hrīq* i *Minā*, vilket är då utlåtandet?
 
 **Svar:** Om de inte kunde finna en plats i *Minā*, då bör de stanna vid pilgrimernas sista tält även om det är utanför Minas gränser. Anledningen är att Allāh har sagt: ”*Frukta därför Gud efter måttet av er förmåga*.” [^1]
 

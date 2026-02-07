@@ -21,11 +21,11 @@ Förr i tiden brukade folk prisa dem och anse att de var speciella människor oc
 
 **Svar:** Dessa människor, och deras likar bland sufierna som gör sådant som är förbjudet, tillhör dem som profeten – över honom vare Allāhs frid och välsignelser – uttalade sig om när han sade:
 
-> ”Den som besöker en spåman och tror på honom, ingen bön kommer accepteras från denne under 40 dagar.” [*Muslim* 2230, *Aḥmad* 4;68 och 5:380]
+> ”Den som besöker en spåman och tror på honom, ingen bön kommer accepteras från personen under 40 dagar.” [*Muslim* 2230, *Aḥmad* 4;68 och 5:380]
 
 Detta eftersom de påstår sig känna till det som är dolt för människor[^2] och för att de tjänar *jinn*. Därför är det inte tillåtet att rådfråga dem. Profeten – över honom vare Allāhs frid och välsignelser – har på likande sätt sagt:
 
-> ”Den som besöker en teckentydare eller siare och tror på honom, har sannerligen förnekat vad som har uppenbarats för Muḥammad.” [*Abū Dāwūd* 3904, *at-Tirmithi* 135, *Ibn Mājah* 639 och *Aḥmad* 2:408 och 476]
+> ”Den som besöker en teckentydare eller siare och tror på honom, har sannerligen förnekat vad som har uppenbarats för Muḥammad.” [*Abū Dāwūd* 3904, *at-Tirmid̲hī* 135, *Ibn Mājah* 639 och *Aḥmad* 2:408 och 476]
 
 Och i en annan version:
 

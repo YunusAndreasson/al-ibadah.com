@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Om man för egen räkning går in i *iḥrām* för vallfärden, då kan man inte ändra sin avsikt efter det, varken på vägen, vid *´Arafāt* eller någon annanstans. I stället måste man fullfölja detta på egen hand. Man kan inte ändra sig så att den är för ens fader, mor eller någon annan. I stället måste man vallfärda för egen räkning. Anledningen är att Allāh den Upphöjde har sagt: ”*Och fullgör vallfärden, såväl den större som den mindre, till Guds ära*.” [^1]
 
-Så om man går in i *iḥrām* före egen räkning, då är det obligatoriskt att man fullföljer den själv. Om man går in i *iḥrām* för vallfärden för någon annan, då är det ens skyldighet att fullfölja den för denne personen. Man får inte ändra sin avsikt efter att ha trätt in i *iḥrām*.
+Så om man går in i *iḥrām* före egen räkning, då är det obligatoriskt att man fullföljer den själv. Om man går in i *iḥrām* för vallfärden för någon annan, då är det ens skyldighet att fullfölja den för personen personen. Man får inte ändra sin avsikt efter att ha trätt in i *iḥrām*.
 
 
 [^1]: Koranen 2:196

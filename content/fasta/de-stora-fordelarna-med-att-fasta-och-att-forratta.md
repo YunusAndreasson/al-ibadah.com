@@ -1,5 +1,5 @@
 ---
-title: Fördelar med fasta och nattbön under ramadan
+title: Fördelar med fasta och nattbön under ramaḍān
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
@@ -20,7 +20,7 @@ Detta är en kort utläggning om förtjänsten med att fasta och be under fastem
 
 Allāhs sändebud – över honom vare Allāhs frid och välsignelser – brukade ge följeslagarna de goda nyheterna om anländandet av *ramaḍān*. Han informerade dem om att detta är månaden då nådens portar och portarna till Paradiset är öppna samt då portarna till Helvetet är stängda. Under denna månad är djävlarna fastkedjade. Han har sagt:
 
-> ”Under den första natten i *ramaḍān* öppnas portarna till Paradiset och inte en enda av dem är stängda, och portarna till Helvetet är stängda och inte en enda av dem är öppna. Djävularna är fastkedjade och en utropare kallar och säger: 'Du som söker det goda! Kom fram [med ditt goda]. Och du som söker det onda! Avhåll dig själv.' Allāh har människor som Han frigör från Elden och det sker under varje natt [i Ramadan].” [*at-Tirmithi* 682 och *Ibn Mājah* 1642]
+> ”Under den första natten i *ramaḍān* öppnas portarna till Paradiset och inte en enda av dem är stängda, och portarna till Helvetet är stängda och inte en enda av dem är öppna. Djävularna är fastkedjade och en utropare kallar och säger: 'Du som söker det goda! Kom fram [med ditt goda]. Och du som söker det onda! Avhåll dig själv.' Allāh har människor som Han frigör från Elden och det sker under varje natt [i Ramadan].” [*at-Tirmid̲hī* 682 och *Ibn Mājah* 1642]
 
 Han har även sagt:
 
@@ -28,15 +28,15 @@ Han har även sagt:
 
 Han har även sagt:
 
-> ”Den som fastar med tro och hopp om belöningar, denne kommer att förlåtas för alla sina tidigare synder. Den som står upp [för bön under natten] under *ramaḍān* med tro och hopp om belöningar, denne kommer att förlåtas för alla sina tidigare synder. Den som står upp [för bön under natten] under Allmaktens Natt[^1] med tro och hopp om belöningar, denne kommer att förlåtas alla sina tidigare synder.” [*al-Buk̲hārī* 2014 och *Muslim* 759 – 760]
+> ”Den som fastar med tro och hopp om belöningar, personen kommer att förlåtas för alla sina tidigare synder. Den som står upp [för bön under natten] under *ramaḍān* med tro och hopp om belöningar, personen kommer att förlåtas för alla sina tidigare synder. Den som står upp [för bön under natten] under Allmaktens Natt[^1] med tro och hopp om belöningar, personen kommer att förlåtas alla sina tidigare synder.” [*al-Buk̲hārī* 2014 och *Muslim* 759 – 760]
 
 Han har även berättat att Allāh sagt:
 
-> ”Varje [god] handling från Adams söner kommer att belönas tiofaldigt upp till sjuhundrafaldigt, utom fastan. För sannerligen är den för Mig och Jag kommer att ge belöningar för den. Denne [den fastande] lämnar sina begär, sin mat och sin dryck för Min skull.” [Profeten fortsatte:] ”Den fastande har två tidpunkter för glädje. Denne gläds när fastan bryts och denne gläds när denne möter Herren. Och sannerligen är den dåliga lukt från den fastandes mun bättre hos Allāh än doften från mysk.” [*al-Buk̲hārī* 1904 och *Muslim* 161/1151]
+> ”Varje [god] handling från Adams söner kommer att belönas tiofaldigt upp till sjuhundrafaldigt, utom fastan. För sannerligen är den för Mig och Jag kommer att ge belöningar för den. Personen [den fastande] lämnar sina begär, sin mat och sin dryck för Min skull.” [Profeten fortsatte:] ”Den fastande har två tidpunkter för glädje. Personen gläds när fastan bryts och personen gläds när personen möter Herren. Och sannerligen är den dåliga lukt från den fastandes mun bättre hos Allāh än doften från mysk.” [*al-Buk̲hārī* 1904 och *Muslim* 161/1151]
 
 *aḥādīt̲h* om förtjänsten i fastan och att be under *ramaḍān* är många.
 
-Därför bör en muslim dra nytta av denna möjlighet, som är Allāhs välsignelse över denne genom att låta denna få ta del av *ramaḍān*. Därmed bör denne skynda sig att till att lyda [Allāh] och denne bör undvika de onda handlingarna. Denne bör kämpa hårt för att göra allt som Allāh har gjort obligatoriskt för denne, speciellt de fem bönerna, som är islams pelare.
+Därför bör en muslim dra nytta av denna möjlighet, som är Allāhs välsignelse över personen genom att låta denna få ta del av *ramaḍān*. Därmed bör personen skynda sig att till att lyda [Allāh] och personen bör undvika de onda handlingarna. Personen bör kämpa hårt för att göra allt som Allāh har gjort obligatoriskt för personen, speciellt de fem bönerna, som är islams pelare.
 
 Bönen är den största skyldigheten efter de båda vittnesmål om tro. Därför måste varje muslimsk man och kvinna vara noga med bönerna och med ödmjukhet och lugn be dem i tid.
 
@@ -74,33 +74,33 @@ En muslim måste skydda fastan och bönen [under natten] mot ord och handlingar 
 
 Syftet med fastan är inte enbart att lämna mat, dryck och annat som kan bryta den. Dess syften har autentiskt berättats från Allāhs sändebud då han sagt:
 
-> ”Fastan är en sköld. Så om det är en dag då en av er fastar bör denne inte säga oanständiga saker [och] inte heller höja sin röst i ilska. Om någon muntligen antastar denne eller bråkar med denne, då bör denne säg: 'Sannerligen fastar jag.'” [*al-Buk̲hārī* 1904 och *Aḥmad* 6:244]
+> ”Fastan är en sköld. Så om det är en dag då en av er fastar bör personen inte säga oanständiga saker [och] inte heller höja sin röst i ilska. Om någon muntligen antastar personen eller bråkar med personen, då bör personen säg: 'Sannerligen fastar jag.'” [*al-Buk̲hārī* 1904 och *Aḥmad* 6:244]
 
 Det har även rapporterats han sagt:
 
-> ”Den som inte överger falskt tal, handlar bedrägligt och beter sig okunnigt, då har Allāh inget behov av att denne överger sin mat och dryck.” [*al-Buk̲hārī* 1903]
+> ”Den som inte överger falskt tal, handlar bedrägligt och beter sig okunnigt, då har Allāh inget behov av att personen överger sin mat och dryck.” [*al-Buk̲hārī* 1903]
 
-Med utgångspunkt i bland annat dessa texter blir det klart att den fastande måste akta sig för allt som Allāh har förbjudit denne och vara noggrann med det som Allāh har gjort till en skyldighet. På detta sätt hoppas vi att denne kommer att förlåtas, frihet från Elden och att dennes fasta samt nattbön accepteras.
+Med utgångspunkt i bland annat dessa texter blir det klart att den fastande måste akta sig för allt som Allāh har förbjudit personen och vara noggrann med det som Allāh har gjort till en skyldighet. På detta sätt hoppas vi att personen kommer att förlåtas, frihet från Elden och att personens fasta samt nattbön accepteras.
 
 Frågor som folk inte är medvetna om
 
-En muslim måste fasta med tro och hopp om att belönas och inte för att ses eller höras av folket eller för att följa folkets, familjens eller landets vanor. I stället är det obligatoriskt för denne att det som får denne till att fasta är dennes tro på att Allāh har gjort detta till en plikt för denne. Denne bör fasta i hopp om att Herren ska belöna för detta.
+En muslim måste fasta med tro och hopp om att belönas och inte för att ses eller höras av folket eller för att följa folkets, familjens eller landets vanor. I stället är det obligatoriskt för personen att det som får personen till att fasta är personens tro på att Allāh har gjort detta till en plikt för personen. Personen bör fasta i hopp om att Herren ska belöna för detta.
 
-När denne ber under natten är det även då en skyldighet att göra det med tro och hopp om belöningar, inte av någon annan anledning. Därför har profeten – över honom vare Allāhs frid och välsignelser – sagt:
+När personen ber under natten är det även då en skyldighet att göra det med tro och hopp om belöningar, inte av någon annan anledning. Därför har profeten – över honom vare Allāhs frid och välsignelser – sagt:
 
-> ”Den som fastar under *ramaḍān* med tro och hopp om belöningar, denne kommer att förlåtas för alla dennes tidigare synder. Och den som ber [under natten] i *ramaḍān* med tro och hopp om belöningar, denne kommer att förlåtas för alla dennes tidigare synder. Och den som ber [nattetid] under Allmaktens Natt[^1] med tro och hopp om belöningar, denne kommer att förlåtas för alla sina tidigare synder.” [*al-Buk̲hārī* 2014 och *Muslim* 759 – 760]
+> ”Den som fastar under *ramaḍān* med tro och hopp om belöningar, personen kommer att förlåtas för alla personens tidigare synder. Och den som ber [under natten] i *ramaḍān* med tro och hopp om belöningar, personen kommer att förlåtas för alla personens tidigare synder. Och den som ber [nattetid] under Allmaktens Natt[^1] med tro och hopp om belöningar, personen kommer att förlåtas för alla sina tidigare synder.” [*al-Buk̲hārī* 2014 och *Muslim* 759 – 760]
 
-En av de frågor som människor inte är medvetna om är utlåtande om den fastande som råkar skada sig, får näsblod eller om vatten och ånga oavsiktligen rinner genom dennes hals. Inga av detta bryter fastan. Men den som avsiktligen spyr bryter fastan. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
+En av de frågor som människor inte är medvetna om är utlåtande om den fastande som råkar skada sig, får näsblod eller om vatten och ånga oavsiktligen rinner genom personens hals. Inga av detta bryter fastan. Men den som avsiktligen spyr bryter fastan. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Den som råkar spy, denne behöver inte ta igen fastan för den dagen. Och den som får sig själv att spy, denne måste ta igen fastan för den dagen.” [*Abū Dāwūd* 2380]
+> ”Den som råkar spy, personen behöver inte ta igen fastan för den dagen. Och den som får sig själv att spy, personen måste ta igen fastan för den dagen.” [*Abū Dāwūd* 2380]
 
 En annan fråga är det som händer den fastande som skjuter upp badet efter sexuell orenhet tills då gryningsbönen börjar och vad vissa kvinnor gör när de skjuter upp badet efter månadsblödningen eller blödningen efter graviditeten till då gryningsbönen börjar, om hon tror att hon är ren innan gryningsbönen. Hon är då fortfarande skyldig att fasta och att hon skjuter upp badet till efter gryningsbönen har börjat hindrar henne inte från att fasta.
 
-Hon bör dock inte skjuta upp badet till soluppgången utan i stället måste hon bada och be innan solen har gått upp. I stället bör hon bada och be gryningsbönen före soluppgången. Detsamma gäller den sexuellt orene. Denne måste bada och be gryningsbönen innan solen har gått upp. Man måste skynda sig att göra detta för att be gryningsbönen med församligen.
+Hon bör dock inte skjuta upp badet till soluppgången utan i stället måste hon bada och be innan solen har gått upp. I stället bör hon bada och be gryningsbönen före soluppgången. Detsamma gäller den sexuellt orene. Personen måste bada och be gryningsbönen innan solen har gått upp. Man måste skynda sig att göra detta för att be gryningsbönen med församligen.
 
 Något som inte ogiltigör fastan är blodprov eller injektioner, så länge syftet inte är att få näring. Om det går är det dock bättre och säkrare att skjuta upp detta till kvällstid.
 
-Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Lämna det som gör er tveksama till förmån för det som inte gör er tveksamma*." [^3] Han har även sagt: "*Den som undviker de tveksamma frågorna har sannerligen gjort sin religion och heder fri [från klander]*." [^4]
+Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Lämna det som gör er tveksama till förmån för det som inte gör er tveksamma*." [^2] Han har även sagt: "*Den som undviker de tveksamma frågorna har sannerligen gjort sin religion och heder fri [från klander]*." [^3]
 
 En av de frågor som människor inte är medvetna om är avsaknandet av lugn i bönen, oavsett om det är en obligatorisk eller frivillig bön. Autentiska *aḥādīt̲h* från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – bevisar att lugn i bönen är en av bönens pelare. Bönen är inte giltig utan det. Detta betyder att man har stillhet och ödmjukhet och inte skyndar sig i bönen. På detta sätt återvänder varje led [till sin plats].
 
@@ -110,7 +110,7 @@ Somliga tror att det inte är tillåtet att be mindre än tjugo bönecykler unde
 
 Sannerligen, autentiska *aḥādīt̲h* från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – visar att nattbönen är en ledig fråga. Det finns ingen orörlig gräns som det inte är tillåtet att överträda. I stället är det bekräftat från profeten – över honom vare Allāhs frid och välsignelser – att han brukade be elva och ibland tretton bönecykler under natten. Ibland brukade han be mindre än det, både under *ramaḍān* och vid andra tidpunkter. När han tillfrågades om nattbönen sade han:
 
-> ”I grupper om två, i grupper om två. När en av er sedan fruktar att morgonen kommer ber denne en bönecykel som kommer att vara *witr* för det som denne har bett.” [*al-Buk̲hārī* 990 och *Muslim* 749]
+> ”I grupper om två, i grupper om två. När en av er sedan fruktar att morgonen kommer ber personen en bönecykel som kommer att vara *witr* för det som personen har bett.” [*al-Buk̲hārī* 990 och *Muslim* 749]
 
 Äktheten i denna *ḥadīt̲h* råder det enighet om.
 
@@ -120,9 +120,9 @@ Några av *salaf* – må Allāh vara nöjda med dem – brukade be 36 bönecykl
 
 Den som lägger vikt vid profetens – över honom vare Allāhs frid och välsignelser – *sunnah* kommer att förstå att det som är bäst är att be elva eller tretton bönecykler under *ramaḍān* och andra tidpunkter. Anledningen är att det är enligt profetens – över honom vare Allāhs frid och välsignelser – utövande under de flesta situationer [vad han vanligtvis brukade göra]. Ber någon mer, då finns det inget skadligt eller ogillat i det. Detta har nämnts tidigare.
 
-Det som är bäst för den som ber med imamen [i moskén] under nätterna i *ramaḍān* är att denne inte slutar att be förrän imamen slutar att be. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
+Det som är bäst för den som ber med imamen [i moskén] under nätterna i *ramaḍān* är att personen inte slutar att be förrän imamen slutar att be. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Sannerligen, om en man står i nattbön med imamen tills denne avslutar; Allāh kommer att skriva ned [belöningen för att] ha stått hela natten [i bön].” [*Abū Dāwūd* 1375, *at-Tirmithi* 806, *Ibn Mājah* 1327 och *Aḥmad* 5:159]
+> ”Sannerligen, om en man står i nattbön med imamen tills personen avslutar; Allāh kommer att skriva ned [belöningen för att] ha stått hela natten [i bön].” [*Abū Dāwūd* 1375, *at-Tirmid̲hī* 806, *Ibn Mājah* 1327 och *Aḥmad* 5:159]
 
 Det är föreskrivet att alla muslimer strävar hårt i olika former av dyrkan under denna ädla månad. De bör kämpa för att be frivilliga böner och recitera Koranen med reflektion och eftertanke. De bör öka sitt lovprisande av Allāh, kungöra Hans rätt att dyrkas ensam, prisa Honom, kungöra Hans storhet och söka Hans förlåtelse.
 
@@ -132,11 +132,11 @@ De bör recitera föreskriven åkallan, påbjuda det goda, förbjuda det onda, b
 
 Han har även sagt:
 
-> ”Den som kommer närmare Allāh under den [*ramaḍān*] genom ett enda av kännetecknen i frivillig godhet, denne är lik den som utför en obligatorisk handling under andra tider. Och den som utför en obligatorisk handling under den, denne är lik den som utförde 70 obligatoriska handlingar vid andra tidpunkter.” [*Sahīh Ibn Khuzaymah* 1887]
+> ”Den som kommer närmare Allāh under den [*ramaḍān*] genom ett enda av kännetecknen i frivillig godhet, personen är lik den som utför en obligatorisk handling under andra tider. Och den som utför en obligatorisk handling under den, personen är lik den som utförde 70 obligatoriska handlingar vid andra tidpunkter.” [*Sahīh Ibn Khuzaymah* 1887]
 
 Anledningen är även vad han har sagt i följande autentiska *ḥadīt̲h*:
 
-> ”En *´umrah*[^2] utförd under *ramaḍān* är likvärdig med en vallfärd, eller så sade han en vallfärd med mig.” [*al-Buk̲hārī* 1863 och *Muslim* 1256]
+> ”En *´umrah* utförd under *ramaḍān* är likvärdig med en vallfärd, eller så sade han en vallfärd med mig.” [*al-Buk̲hārī* 1863 och *Muslim* 1256]
 
 De *aḥādīt̲h* som visar tillåtelse för att tävla och att vara framåt med att utföra olika former av godhet under denna ädla månad är många.
 
@@ -147,7 +147,6 @@ Sannerligen, Han är Den som skyddar detta och Den som är kapabel att göra det
 *as-Salamu 'Alaykum a Rahmatullāhi wa Barakatuhu*
 
 [^1]: Laylatul-Qadr. En av de sista tio nätterna under fastemånaden. Bön under den natten är likvärdig med bön under 1000 månader.
-[^2]: Den lilla vallfärden.
 
-[^3]: *al-Buk̲hārī* 2518
-[^4]: *al-Buk̲hārī* 52 och *Muslim* 1599
+[^2]: *al-Buk̲hārī* 2518
+[^3]: *al-Buk̲hārī* 52 och *Muslim* 1599

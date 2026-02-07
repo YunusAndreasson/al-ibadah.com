@@ -20,7 +20,7 @@ description: >-
 
 Att åkalla de döda genom att be dem om hjälp eller ge dem gåvor är *s̲hirk*.
 2. Sätta upp medlare mellan sig själv och Allāh, åkalla dem och be dem medla inför Allāh.
-3. Inte tro att månggudadyrkarna är icke-troende, att ha tvivel angående deras otro eller att anse att deras väg är korrekt. Denne är själv en icke-troende.
+3. Inte tro att månggudadyrkarna är icke-troende, att ha tvivel angående deras otro eller att anse att deras väg är korrekt. Personen är själv en icke-troende.
 4. Tro att någon annans vägledning eller beslut är bättre än profetens – över honom vare Allāhs frid och välsignelser. Detta gäller dem som föredrar ett orättfärdigt ledarskap framför profetens – över honom vare Allāhs frid och välsignelser. Exempel på detta är:
 
 Tro att system och lagar som skapats av människor är bättre än den islamiska lagen. Exempel på detta är: tro att det islamiska systemet inte är applicerbart i vår tid, tro att islam är orsaken till den underutveckling som finns bland muslimer i dag, tro på att islam endast är en relation mellan Allāh och muslimer och att det inte ska interferera i andra aspekter av livet.

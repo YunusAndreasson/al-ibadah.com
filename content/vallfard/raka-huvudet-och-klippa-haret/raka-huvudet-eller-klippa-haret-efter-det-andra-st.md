@@ -1,5 +1,5 @@
 ---
-title: Raka eller klippa håret efter det stora utträdet ur ihram
+title: Raka eller klippa håret efter det stora utträdet ur iḥrām
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.

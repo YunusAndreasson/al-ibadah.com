@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "astro dev",
     "validate": "tsx scripts/validate-content.ts",
-    "build": "pnpm validate && astro build",
+    "validate:terms": "tsx scripts/validate-arabic-terms.ts",
+    "build": "pnpm validate && pnpm validate:terms && astro build",
     "preview": "astro preview",
     "typecheck": "astro check && tsc --noEmit",
     "lint": "biome check .",
@@ -22,6 +23,10 @@
     "migrate:glossary": "tsx scripts/migrate-glossary-terms.ts",
     "migrate:glossary:dry": "tsx scripts/migrate-glossary-terms.ts --dry-run",
     "find:undefined-terms": "tsx scripts/find-undefined-terms.ts",
+    "normalize:titles": "tsx scripts/normalize-title-terms.ts",
+    "normalize:titles:dry": "tsx scripts/normalize-title-terms.ts --dry-run",
+    "replace:pronouns": "tsx scripts/replace-archaic-pronouns.ts",
+    "replace:pronouns:dry": "tsx scripts/replace-archaic-pronouns.ts --dry-run",
     "deploy": "pnpm build && wrangler pages deploy dist"
   },
   "dependencies": {

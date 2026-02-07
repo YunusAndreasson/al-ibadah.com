@@ -21,7 +21,6 @@
         {
           "canonical": "at-Tirmid̲hī",
           "variants": [
-            "at-Tirmid̲hī",
             "Tirmit̲hī",
             "Tirmid̲hī",
             "al-Tirmit̲hī"
@@ -86,7 +85,9 @@
         },
         {
           "canonical": "aṣ-Ṣaḥīḥayn",
-          "variants": []
+          "variants": [
+            "al-Ṣaḥīḥayn"
+          ]
         },
         {
           "canonical": "Sunan",
@@ -140,7 +141,8 @@
           "canonical": "ḥadīt̲h",
           "variants": [
             "ḥadīt̲hen",
-            "ḥadīt̲her"
+            "ḥadīt̲her",
+            "ḥadīt̲herna"
           ],
           "definition": "Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen."
         },
@@ -322,6 +324,26 @@
           "canonical": "qarīn",
           "variants": [],
           "definition": "En följeslagande jinn som varje människa har."
+        },
+        {
+          "canonical": "bid´ah",
+          "variants": [],
+          "definition": "Innovation i religionen; att införa något i religionen som inte har grund i Koranen eller sunnah."
+        },
+        {
+          "canonical": "s̲hahādah",
+          "variants": [],
+          "definition": "Trosbekännelsen; vittnesmålet att det inte finns någon gud utom Allāh och att Muḥammad är Hans sändebud."
+        },
+        {
+          "canonical": "qadar",
+          "variants": [],
+          "definition": "Förutbestämmelsen; tron på att Allāh har bestämt allting."
+        },
+        {
+          "canonical": "barzak̲h",
+          "variants": [],
+          "definition": "Barriären eller det mellanliggande tillståndet mellan döden och uppståndelsen."
         }
       ]
     },
@@ -418,6 +440,36 @@
           "canonical": "tilāwah",
           "variants": [],
           "definition": "Läsning av Koranen."
+        },
+        {
+          "canonical": "ad̲hān",
+          "variants": [],
+          "definition": "Böneutropet; det första utropet som kallar till bön."
+        },
+        {
+          "canonical": "k̲hus̲hū´",
+          "variants": [],
+          "definition": "Ödmjukhet och koncentration i bönen."
+        },
+        {
+          "canonical": "qiyām al-layl",
+          "variants": [],
+          "definition": "Nattbön; frivillig bön som utförs under natten."
+        },
+        {
+          "canonical": "ṣalāt al-janāzah",
+          "variants": [],
+          "definition": "Begravningsbönen."
+        },
+        {
+          "canonical": "ṣalāt al-jumu´ah",
+          "variants": [],
+          "definition": "Fredagsbönen."
+        },
+        {
+          "canonical": "ṣalāt al-´īd",
+          "variants": [],
+          "definition": "Eid-bönen; högtidsbönen."
         }
       ]
     },
@@ -467,6 +519,21 @@
           "canonical": "wadī",
           "variants": [],
           "definition": "Tjock vit vätska som kan utsöndras efter urinering."
+        },
+        {
+          "canonical": "ḥayḍ",
+          "variants": [],
+          "definition": "Menstruation; kvinnans månadsblödning."
+        },
+        {
+          "canonical": "nifās",
+          "variants": [],
+          "definition": "Efterblödning; blödning efter förlossning."
+        },
+        {
+          "canonical": "mas̲h",
+          "variants": [],
+          "definition": "Strykning över strumpor eller liknande vid tvagning."
         }
       ]
     },
@@ -490,7 +557,7 @@
           "variants": []
         },
         {
-          "canonical": "i’tikāf",
+          "canonical": "i´tikāf",
           "variants": [],
           "definition": "Att dra sig tillbaka i moskén för dyrkan, särskilt under ramadans sista tio dagar."
         },
@@ -501,12 +568,21 @@
         },
         {
           "canonical": "´eid al-aḍḥā",
-          "variants": []
+          "variants": [
+            "´eidul-aḍḥā"
+          ]
         },
         {
           "canonical": "´eid al-fiṭr",
-          "variants": [],
+          "variants": [
+            "´eidul-fiṭr"
+          ],
           "definition": "Fastebrytandets högtid som infaller efter ramadan."
+        },
+        {
+          "canonical": "laylat al-qadr",
+          "variants": [],
+          "definition": "Allmaktens Natt; en natt under ramadans sista tio dagar som är bättre än tusen månader."
         }
       ]
     },
@@ -524,16 +600,17 @@
           "definition": "Den sjufaldiga rundvandringen runt Ka'bah."
         },
         {
-          "canonical": "ṭawāf ul-wadā’",
+          "canonical": "ṭawāf ul-wadā´",
           "variants": [
-            "ṭawāful-wadā’"
+            "ṭawāful-wadā´"
           ],
           "definition": "Rundvandringen runt Ka'bah före avfärden från Mecka."
         },
         {
           "canonical": "ṭawāf ul-ifāḍah",
           "variants": [
-            "ṭawāf ul-ifād̲hah"
+            "ṭawāf ul-ifād̲hah",
+            "ṭawāful-ifāḍah"
           ]
         },
         {
@@ -620,13 +697,22 @@
         },
         {
           "canonical": "tas̲hrīq",
-          "variants": [],
-          "definition": "De tre dagarna efter 'eidul-adhā."
+          "variants": [
+            "at-tas̲hrīq",
+            "at-ayyām at-tas̲hrīq",
+            "ayyām at-tas̲hrīq"
+          ],
+          "definition": "De tre dagarna efter ´eid al-aḍḥā."
         },
         {
           "canonical": "´aqīqah",
           "variants": [],
           "definition": "Offer som slaktas för ett nyfött barn."
+        },
+        {
+          "canonical": "uḍḥiyah",
+          "variants": [],
+          "definition": "Högtidsoffret; det djur som slaktas under eid al-aḍḥā."
         }
       ]
     },
@@ -757,7 +843,7 @@
       "description": "Kladestermer",
       "terms": [
         {
-          "canonical": "burqa’",
+          "canonical": "burqa´",
           "variants": []
         },
         {
@@ -829,7 +915,7 @@
           "definition": "Islamisk lärd."
         },
         {
-          "canonical": "tābi’īn",
+          "canonical": "tābi´īn",
           "variants": [],
           "definition": "Generationen som kom efter följeslagarna."
         },
@@ -853,6 +939,30 @@
         },
         {
           "canonical": "mujāhidīn",
+          "variants": []
+        },
+        {
+          "canonical": "k̲hawārij",
+          "variants": [],
+          "definition": "En tidig avvikande sekt i islams historia."
+        },
+        {
+          "canonical": "mu´tazilah",
+          "variants": [],
+          "definition": "En avvikande teologisk skola."
+        },
+        {
+          "canonical": "zaydī",
+          "variants": [
+            "zaidī"
+          ]
+        },
+        {
+          "canonical": "It̲hnā ´As̲hriyyah",
+          "variants": []
+        },
+        {
+          "canonical": "ahl al-ḥadīt̲h",
           "variants": []
         }
       ]
@@ -886,9 +996,7 @@
         },
         {
           "canonical": "kuḥl",
-          "variants": [
-            "kuḥl"
-          ],
+          "variants": [],
           "definition": "Ögonsmink framställt av antimon; traditionellt använt i den muslimska världen."
         }
       ]

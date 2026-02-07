@@ -10,12 +10,12 @@ categories:
 original_id: 1034
 description: >-
   Fråga: Vad anser ni om den som har ett ansträngande arbete och som fastan är
-  svår för, får denne bryta fastan? Svar: Min åsikt om att denne bryter fastan
+  svår för, får personen bryta fastan? Svar: Min åsikt om att personen bryter fastan
   på grund av arbetet, är att det inte ä...
 ---
 
-**Fråga:** Vad anser ni om den som har ett ansträngande arbete och som fastan är svår för, får denne bryta fastan?
+**Fråga:** Vad anser ni om den som har ett ansträngande arbete och som fastan är svår för, får personen bryta fastan?
 
-**Svar:** Min åsikt om att denne bryter fastan på grund av arbetet, är att det inte är tillåtet. Är det inte möjligt att förena arbetet med fastan bör denne ta ledigt under *ramaḍān* så att det blir lätt att fasta. Fastan under *ramaḍān* är en av islams pelare. Det går inte att lämna den.
+**Svar:** Min åsikt om att personen bryter fastan på grund av arbetet, är att det inte är tillåtet. Är det inte möjligt att förena arbetet med fastan bör personen ta ledigt under *ramaḍān* så att det blir lätt att fasta. Fastan under *ramaḍān* är en av islams pelare. Det går inte att lämna den.
 
 

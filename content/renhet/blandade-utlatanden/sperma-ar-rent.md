@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Jag hade intim samvaro med min fru. Sedan gick jag upp för att göra *g̲husl* och be gryningsbönen. Får jag fortsätta att sova på samma madrass som jag hade intim samvaro på med min fru samt att täcka mig med samma täcke?
 
-**Svar:** Det gör inte personen ifråga eller dennes madrass oren. ‘A’ishah – må Allāh vara nöjd med henne – har sagt: ”*Jag brukade torka det från profetens – över honom vare Allāhs frid och välsignelser – kläder, sedan bad han i dem*.”
+**Svar:** Det gör inte personen ifråga eller personens madrass oren. ‘A’ishah – må Allāh vara nöjd med henne – har sagt: ”*Jag brukade torka det från profetens – över honom vare Allāhs frid och välsignelser – kläder, sedan bad han i dem*.”
 
 Detta gäller om sperman har kommit ut efter att man har tvättat sina könsdelar med vatten [istinja'] eller stenar [istimjar], enligt den islamiska lagen för att rengöra sig efter att ha urinerat. Men om så inte är fallet, då kommer sperman inte att vara ren eftersom den har kommit i kontakt med ett område som är orent. Då blir den oren.
 

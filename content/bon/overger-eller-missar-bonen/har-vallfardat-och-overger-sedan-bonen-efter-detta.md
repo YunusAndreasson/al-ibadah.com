@@ -21,7 +21,7 @@ description: >-
 
 > ”Men skulle någon av er avsvära sig sin tro och dö som förnekare, ska hans strävanden gå om intet [och bli utan frukt] i detta liv och i det kommande; dessa människors arvedel är Elden och där ska de förbli till evig tid.” [Koranen 2:217]
 
-När det gäller olydnadshandlingar [synder], då tillintetgör de inte tidigare rättfärdiga handlingar. Men, ur en annan synvinkel har de dock en inverkan på dessa handlingar. Är de så många att de väger över de goda, då kommer denne att straffas för dem. Därmed måste du nu ångra dig inför Allāh för att du har övergivit bönen. Du bör även göra mer rättfärdiga handlingar.
+När det gäller olydnadshandlingar [synder], då tillintetgör de inte tidigare rättfärdiga handlingar. Men, ur en annan synvinkel har de dock en inverkan på dessa handlingar. Är de så många att de väger över de goda, då kommer personen att straffas för dem. Därmed måste du nu ångra dig inför Allāh för att du har övergivit bönen. Du bör även göra mer rättfärdiga handlingar.
 
 Enligt den korrekta åsikten behöver du inte ta igen de förlorade bönerna. När det gäller fastan så fick du lämna den då du reste. En resenär är ju inte skyldig att fasta. Anledningen är att Allāh i Koranen säger:
 
@@ -39,6 +39,6 @@ Och profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Om jag kommenderar er att göra något, gör då så mycket som ni kan av det.” [*al-Buk̲hārī* 7288 och *Muslim* 1337]
 
-Om någon då befinner sig någonstans och inte känner till riktningen mot *qiblah*, och det inte finns någon som denne litar på och kan fråga, då ber denne efter att ha försökt ta reda på den troligaste riktningen. Denne behöver inte ta igen den bönen efteråt.
+Om någon då befinner sig någonstans och inte känner till riktningen mot *qiblah*, och det inte finns någon som personen litar på och kan fråga, då ber personen efter att ha försökt ta reda på den troligaste riktningen. Personen behöver inte ta igen den bönen efteråt.
 
 

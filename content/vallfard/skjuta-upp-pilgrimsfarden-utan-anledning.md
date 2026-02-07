@@ -10,13 +10,13 @@ categories:
 original_id: 1295
 description: >-
   Fråga: Vilket är utlåtandet om den som utan anledning skjuter upp
-  pilgrimsfärden? Denne har möjlighet att utföra den. Svar: All lovprisan
+  pilgrimsfärden? Personen har möjlighet att utföra den. Svar: All lovprisan
   tillhör Allāh och må frid var över Hans sändebud. Den ...
 ---
 
-**Fråga:** Vilket är utlåtandet om den som utan anledning skjuter upp pilgrimsfärden? Denne har möjlighet att utföra den.
+**Fråga:** Vilket är utlåtandet om den som utan anledning skjuter upp pilgrimsfärden? Personen har möjlighet att utföra den.
 
-**Svar:** All lovprisan tillhör Allāh och må frid var över Hans sändebud. Den som har möjlighet att utföra pilgrimsfärden men inte utför den utan skjuter upp den utan anledning, denne har gjort något mycket ont och begått en stor synd. Denne behöver ångra sig inför Allāh och skynda sig att utföra den. Allāh har sagt:
+**Svar:** All lovprisan tillhör Allāh och må frid var över Hans sändebud. Den som har möjlighet att utföra pilgrimsfärden men inte utför den utan skjuter upp den utan anledning, personen har gjort något mycket ont och begått en stor synd. Personen behöver ångra sig inför Allāh och skynda sig att utföra den. Allāh har sagt:
 
 > “Vallfärden till denna Helgedom är en plikt mot Gud för var och en som har möjlighet att genomföra den. Och den som förnekar sanningen [ska veta att] Gud är Sig själv nog och inte behöver [något eller något i] Sin skapelse.” [Koranen 3:97]
 

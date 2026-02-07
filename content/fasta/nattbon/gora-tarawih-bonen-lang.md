@@ -1,5 +1,5 @@
 ---
-title: Göra tarāwīh-bönen lång
+title: Göra tarāwīḥ-bönen lång
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
@@ -20,6 +20,6 @@ description: >-
 
 När 'Umar – må Allāh vara nöjd med honom – samlade följeslagarna för *tarāwīḥ*-bönen så bad de tjugo bönecykler och i varje bönecykel reciterade de omkring trettio verser från sura al-Baqarah. Detta är närmare fyra eller fem sidor. Således bad de och reciterade sura al-Baqarah i åtta bönecykler och om de bad medan de reciterade den i tolv bönecykler ansåg de att han [imamen] har lättat [kortat] bönen.
 
-Om imamen kortar ned recitationen ökar han antalet bönecykler till fyrtioett, vilket några av imamerna har sagt. Om han vill minska antalet till elva eller tretton, då ökar han recitationen och bönens pelare. Det finns inte ett begränsat antal i *tarāwīḥ*-bönen. Vad som begärs är enbart att du ber den på ett sätt så att du når stillsamhet och koncentration. Det bör vara en mängd som inte kommer att ta mindre än en timme, eller nära det. Den som tror att detta är att förlänga bönen har motsatt sig vad som har berättats. Därmed bör man inte lyssna på denne.
+Om imamen kortar ned recitationen ökar han antalet bönecykler till fyrtioett, vilket några av imamerna har sagt. Om han vill minska antalet till elva eller tretton, då ökar han recitationen och bönens pelare. Det finns inte ett begränsat antal i *tarāwīḥ*-bönen. Vad som begärs är enbart att du ber den på ett sätt så att du når stillsamhet och koncentration. Det bör vara en mängd som inte kommer att ta mindre än en timme, eller nära det. Den som tror att detta är att förlänga bönen har motsatt sig vad som har berättats. Därmed bör man inte lyssna på personen.
 
 

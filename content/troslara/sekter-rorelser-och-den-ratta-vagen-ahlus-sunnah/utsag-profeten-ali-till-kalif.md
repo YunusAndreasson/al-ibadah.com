@@ -41,4 +41,4 @@ Det är omöjligt att den bästa och den mest hedervärda generationen i detta s
 [^1]: *al-Buk̲hārī* 7217
 [^2]: *al-Buk̲hārī* 3655
 [^3]: *al-Buk̲hārī* 3671
-[^4]: *at-Tirmithi* 2192 och *Ibn Mājah* 6
+[^4]: *at-Tirmid̲hī* 2192 och *Ibn Mājah* 6

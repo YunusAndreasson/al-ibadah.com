@@ -30,11 +30,10 @@ Man utför handlingarna under vallfärden precis som man skulle ha utfört dem s
 
 Men om han anger personen när han nämner vilken sorts vallfärd det är, då är det bättre gällande *talbiyyah*.
 
-Sedan fortsätter han med *talbiyyah*, precis som andra pilgrimer och de som utför *´umrah*[^1]. Man säger:
+Sedan fortsätter han med *talbiyyah*, precis som andra pilgrimer och de som utför *´umrah*. Man säger:
 
 > ”Allāh! Jag är här till Din tjänst. Jag är här till Din tjänst. Jag är här till Din tjänst. Du har ingen medhjälpare. Jag är här till Din tjänst. Sannerligen, alla lovprisan och välvilja tillhör Dig, och likaså enväldigheten. Du har ingen medhjälpare. Jag är här till Din tjänst. Allāh! Jag är här till Din tjänst. Jag är här till Din tjänst. Sanningens Gud! Jag är här till Din tjänst.”
 
-Avsikten är här att man säger *talbiyyah*, precis som man säger *talbiyyah* för sig själv, utan att nämna någon, utom i början då han nämner vilken sorts vallfärd det är. När man gör det säger man: ”Jag är här till din tjänst för att vallfärda för den-eller-den”, eller säger man: ”*´umrah* för den-eller-den”, eller säger man: ”Jag är här till Din tjänst för att utföra *´umrah*[^1] och vallfärden för den-eller-den.” Detta är bättre i början, när han först går in i *iḥrām* med intentionen.
+Avsikten är här att man säger *talbiyyah*, precis som man säger *talbiyyah* för sig själv, utan att nämna någon, utom i början då han nämner vilken sorts vallfärd det är. När man gör det säger man: ”Jag är här till din tjänst för att vallfärda för den-eller-den”, eller säger man: ”*´umrah* för den-eller-den”, eller säger man: ”Jag är här till Din tjänst för att utföra *´umrah* och vallfärden för den-eller-den.” Detta är bättre i början, när han först går in i *iḥrām* med intentionen.
 
-[^1]: Den lilla vallfärden.
 

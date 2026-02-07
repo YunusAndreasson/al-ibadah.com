@@ -16,6 +16,6 @@ description: >-
 
 **Fråga:** Jag bad i moskén men jag hann inte be med församlingen, därför bad jag med en andra församling och imamen där var inte saudier. Efter bönen satt han en lång stund och han vände sig inte om efter *taslīm*, i stället satt han kvar i riktning mot *qiblah* efter *taslīm*. Var det rätt att jag begav mig då jag hade bråttom?
 
-**Svar:** Imamen är skyldig att vända sig mot Allāhs tjänare efter *taslīm* och han får inte förlänga sittningen efter den innan han vänder sig. Allāhs tjänare måste vänta på honom och inte ge sig av förrän han vänder sig mot dem. Men denne imam som förlängde sittandet efter *taslīm* innan han gav sig av gjorde ett misstag. Då det hade inneburit problem för tjänarna så får de resa sig upp innan imamen vänder sig.
+**Svar:** Imamen är skyldig att vända sig mot Allāhs tjänare efter *taslīm* och han får inte förlänga sittningen efter den innan han vänder sig. Allāhs tjänare måste vänta på honom och inte ge sig av förrän han vänder sig mot dem. Men imamen som förlängde sittandet efter *taslīm* innan han gav sig av gjorde ett misstag. Då det hade inneburit problem för tjänarna så får de resa sig upp innan imamen vänder sig.
 
 

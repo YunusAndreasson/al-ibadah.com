@@ -1,5 +1,5 @@
 ---
-title: Frivillig vallfärd eller ge pengar till mujahidin
+title: Frivillig vallfärd eller ge pengar till mujāhidīn
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -22,7 +22,7 @@ Anledningen är att profeten, när han tillfrågades om vilken handling som var 
 
 Han placerade här vallfärden efter *djihād*. Detta avser en frivillig vallfärd då den obligatoriska vallfärden är en av Islams pelare [om man har möjlighet att utföra den].
 
-I *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* rapporteras att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Den som utrustar en soldat för strid, då har denne begett sig ut för strid. Och den som tar hand om dennes familj på ett bra sätt när denne har gett sig av, då har han begett sig ut för strid*." [^2]
+I *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* rapporteras att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Den som utrustar en soldat för strid, då har personen begett sig ut för strid. Och den som tar hand om personens familj på ett bra sätt när personen har gett sig av, då har han begett sig ut för strid*." [^2]
 
 Det finns inget tvivel om att en *mujāhidīn* för Allāhs sak är i stort behov av materiell assistans från deras bröder. Att spendera på dem är bättre än en frivillig vallfärd. Anledningen är de två nämnda haditherna och andra utöver dem.
 

@@ -29,13 +29,13 @@ Något liknande inträffade under profetens – över honom vare Allāhs frid oc
 
 Dessa avsåg att överdriva i religionen och sändebudet – över honom vare Allāhs frid och välsignelser – förklarade att han var oskyldig till detta. De uttryckte ju överdrivenhet av hans *sunnah* som innefattar fasta samt att bryta fastan, bön, sömn och giftermål med kvinnor.
 
-Den som är otillräcklig är den som säger: ”Det finns inget behov av att jag utför frivillig dyrkan. Därför ska jag heller inte göra det. Jag gör enbart obligatoriska handlingar.” Denne kan till och med tänkas vara otillräcklig när det gäller obligatoriska handlingar. Detta är den otillräcklige.
+Den som är otillräcklig är den som säger: ”Det finns inget behov av att jag utför frivillig dyrkan. Därför ska jag heller inte göra det. Jag gör enbart obligatoriska handlingar.” Personen kan till och med tänkas vara otillräcklig när det gäller obligatoriska handlingar. Detta är den otillräcklige.
 
 En balanserad person är den som agerar enligt vad sändebudet – över honom vare Allāhs frid och välsignelser – och de korrekt vägledda kaliferna följde.
 
-Ett annat exempel är ett med tre män framför vilka det står en syndig man och en av dem säger: "Jag kommer inte att ge fridshälsningen till denne syndare. Jag kommer att hålla mig borta från honom och inte tala med honom." Den andre säger: "Jag kommer att ha följe med denne syndare, ge honom fridshälsningen, le mot honom, bjuda in honom i mitt hem och acceptera hans inbjudan. Enligt min åsikt är han en rättfärdig person."
+Ett annat exempel är ett med tre män framför vilka det står en syndig man och en av dem säger: "Jag kommer inte att ge fridshälsningen till personen syndare. Jag kommer att hålla mig borta från honom och inte tala med honom." Den andre säger: "Jag kommer att ha följe med personen syndare, ge honom fridshälsningen, le mot honom, bjuda in honom i mitt hem och acceptera hans inbjudan. Enligt min åsikt är han en rättfärdig person."
 
-Den tredje säger: "Jag hatar denne syndare för hans synder och jag älskar honom för hans tro och jag kommer inte att hålla mig borta från honom utom när det förbättrar honom, men om det inte leder till en bättring utan han i stället blir än syndigare, då kommer jag inte att hålla mig borta från honom."
+Den tredje säger: "Jag hatar personen syndare för hans synder och jag älskar honom för hans tro och jag kommer inte att hålla mig borta från honom utom när det förbättrar honom, men om det inte leder till en bättring utan han i stället blir än syndigare, då kommer jag inte att hålla mig borta från honom."
 
 Vi säger att den första personen är överdriven och extrem, den andra gör inte tillräckligt och den tredje är balanserad. Detta säger vi om alla former av dyrkan och beteenden. Människor är antingen otillräckliga, extrema eller balanserade.
 

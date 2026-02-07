@@ -1,5 +1,5 @@
 ---
-title: Vaknar och finner något vått i kläderna – om ghusl då är ett krav
+title: Vaknar och finner något vått i kläderna – om g̲husl då är ett krav
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.

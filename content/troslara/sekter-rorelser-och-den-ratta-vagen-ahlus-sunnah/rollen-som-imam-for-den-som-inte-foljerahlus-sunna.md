@@ -21,6 +21,6 @@ description: >-
 
 Beviset för detta är att profeten – över honom vare Allāhs frid och välsignelser – tillät bön bakom ledare, och bland ledare finns det ofta syndare. Bland andra Ibn ´Umar och Anas bad bakom al-Hajjaj som var en mycket orättvis man.
 
-Bön bakom en innovatör, som inte står utanför islam, accepteras precis som bön bakom någon som syndar öppet, så länge dennes synder inte tar denne ur islam. Men om de har möjlighet att slå sig samman och föra fram den bästa av dem måste någon från *ahlus-sunnah* utses.
+Bön bakom en innovatör, som inte står utanför islam, accepteras precis som bön bakom någon som syndar öppet, så länge personens synder inte tar personen ur islam. Men om de har möjlighet att slå sig samman och föra fram den bästa av dem måste någon från *ahlus-sunnah* utses.
 
 

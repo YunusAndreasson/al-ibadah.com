@@ -1,5 +1,5 @@
 ---
-title: Alternativ till tawāful-qudum
+title: Alternativ till ṭawāful-qudum
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -9,12 +9,12 @@ categories:
   - Rundvandring och löpning
 original_id: 811
 description: >-
-  Fråga: Den som inte kan utföra tawāful-qudum då han inte hann nå Mecka innan
+  Fråga: Den som inte kan utföra ṭawāful-qudum då han inte hann nå Mecka innan
   eftermiddagsbönen under Arafat-dagen [den nionde thul-hijjah ], bör han bege
   sig direkt till Arafat utan att passera...
 ---
 
-**Fråga:** Den som inte kan utföra *tawāful-qudum*[^1] då han inte hann nå Mecka innan eftermiddagsbönen under *´Arafāt*-dagen [den nionde *d̲hul-ḥijjah*], bör han bege sig direkt till *´Arafāt* utan att passera förbi helgedomen eller vad måste han göra?
+**Fråga:** Den som inte kan utföra *ṭawāful-qudum*[^1] då han inte hann nå Mecka innan eftermiddagsbönen under *´Arafāt*-dagen [den nionde *d̲hul-ḥijjah*], bör han bege sig direkt till *´Arafāt* utan att passera förbi helgedomen eller vad måste han göra?
 
 **Svar:** Han har ett val. Om han vill får han gå in i Mecka och utföra *ṭawāf* samt *sa´ī*, stanna kvar i sin *iḥrām*, bege sig till *´Arafāt* och stå där så länge Allāh vill, även om det är nattetid. Sedan får han bege sig till *Muzdalifah* för att spendera natten där.
 

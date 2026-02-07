@@ -1,5 +1,5 @@
 ---
-title: '”Den som inte har någon shaykh, dennes shaykh är djävulen”'
+title: '"Den som inte har någon s̲hayk̲h, personens s̲hayk̲h är djävulen"'
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
@@ -10,13 +10,13 @@ categories:
 original_id: 155
 description: >-
   Fråga: Vilken är din åsikt om de som säger: ”Den som inte har någon shaykh,
-  dennes shaykh är djävulen”? Svar: Det råder inga tvivel om att kunskap
+  personens shaykh är djävulen”? Svar: Det råder inga tvivel om att kunskap
   överförs av dess bärare – de rättfärdiga lärd...
 ---
 
-**Fråga:** Vilken är din åsikt om de som säger: ”Den som inte har någon *s̲hayk̲h*, dennes *s̲hayk̲h* är djävulen”?
+**Fråga:** Vilken är din åsikt om de som säger: ”Den som inte har någon *s̲hayk̲h*, personens *s̲hayk̲h* är djävulen”?
 
-**Svar:** Det råder inga tvivel om att kunskap överförs av dess bärare – de rättfärdiga lärde – och den som tar emot kunskap från dem drar stor nytta av det. De får veta hur texterna [Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*] ska förstås och hur de ska studeras och handlas efter. För den som endast håller sig till att läsa böcker, denne kan vissa saker inte bli uppenbara för och denne kan missförstå det som denne läser. 
+**Svar:** Det råder inga tvivel om att kunskap överförs av dess bärare – de rättfärdiga lärde – och den som tar emot kunskap från dem drar stor nytta av det. De får veta hur texterna [Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*] ska förstås och hur de ska studeras och handlas efter. För den som endast håller sig till att läsa böcker, personen kan vissa saker inte bli uppenbara för och personen kan missförstå det som personen läser. 
 
 Jag håller dock inte med detta talesätt och det är inte en autentisk *ḥadīt̲h*, ej heller *marfu'* eller *mawquf* [en kedja av återberättare som når följeslagarna].
 

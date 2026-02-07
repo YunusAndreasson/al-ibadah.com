@@ -19,7 +19,7 @@ description: >-
 
 Hon bör inte ta igen bönen under månadsblödningen, enligt vad profeten – över honom vare Allāhs frid och välsignelser – har sagt i en lång *ḥadīt̲h*: "*Är det inte så att om hon har sin månadsblödning så ber hon inte och hon fastar inte?*" [^3] De lärde är eniga om att hon inte tar igen de böner hon missat under månadsblödningen.
 
-Men om hon blivit ren och det återstår tid för att be minst en bönecykel, då måste hon be när hon har blivit ren. Detta enligt en *ḥadīt̲h* från profeten: ”*Den som hinner med en bönecykel av eftermiddagsbönen innan solen har gått ned, denne har hunnit med eftermiddagsbönen*[^1].” [^4] Blir hon då ren vid eftermiddagsbönen eller innan solen går upp, och det återstår tillräckligt med tid för att be en bönecykel av bönen innan solen går upp eller ned, då måste hon be eftermiddagsbönen i det första fallet och gryningsbönen i det andra.
+Men om hon blivit ren och det återstår tid för att be minst en bönecykel, då måste hon be när hon har blivit ren. Detta enligt en *ḥadīt̲h* från profeten: ”*Den som hinner med en bönecykel av eftermiddagsbönen innan solen har gått ned, personen har hunnit med eftermiddagsbönen*[^1].” [^4] Blir hon då ren vid eftermiddagsbönen eller innan solen går upp, och det återstår tillräckligt med tid för att be en bönecykel av bönen innan solen går upp eller ned, då måste hon be eftermiddagsbönen i det första fallet och gryningsbönen i det andra.
 
 [^1]: Asr
 

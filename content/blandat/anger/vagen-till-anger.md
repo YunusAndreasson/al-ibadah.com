@@ -49,7 +49,7 @@ För att uppnå ånger bör du be Allāh den Allsmäktige att Han vägleder dig,
 
 En annan faktor som inte enbart kan ha inverkan på din ånger, utan även på din förmåga att efteråt hålla dig stadig, är de människor du umgås med. Allāhs sändebud har sagt:
 
-> ”En person håller sig till sina närmsta vänners religion, så låt var och en av er se vilka han tar som nära vänner.” [*at-Tirmithi* 2378 och *Aḥmad* 2:303, 334]
+> ”En person håller sig till sina närmsta vänners religion, så låt var och en av er se vilka han tar som nära vänner.” [*at-Tirmid̲hī* 2378 och *Aḥmad* 2:303, 334]
 
 Han har även sagt:
 

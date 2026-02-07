@@ -31,5 +31,5 @@ De kroppsdelar som *tayammum* täcker är ansiktet och händerna. Hela ansiktet 
 
 Det är bättre att göra *tayammum* för varje obligatorisk bön, utom om bönerna slås ihop. I detta fall bör man endast göra *tayammum* för dem en gång. Man kan dock be ett antal böner med en *tayammum* så länge man inte gör den ogiltig genom att släppa sig, urinera eller tömma tarmen. Finner man vatten så ska man frukta Allāh och tvaga sig.
 
-[^1]: Det mått som fyller en normalbyggd mans båda händer när denne kupar dem tillsammans.
+[^1]: Det mått som fyller en normalbyggd mans båda händer när personen kupar dem tillsammans.
 

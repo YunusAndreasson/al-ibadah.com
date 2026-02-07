@@ -1,5 +1,5 @@
 ---
-title: Säga takbīr för sajdatut-tilawah
+title: Säga takbīr för sujūd at-tilāwah
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
@@ -14,9 +14,9 @@ description: >-
   framgång. Svar: Sajdatut-tilawah ...
 ---
 
-**Fråga:** Krävs *takbīr* vid *sujūd at-tilāwah*[^1] både under och utanför bönen? Behöver man göra *taslīm* utanför bönen? Jag ber om en förklaring. Må Allāh ge er framgång.
+**Fråga:** Krävs *takbīr* vid *sujūd at-tilāwah* både under och utanför bönen? Behöver man göra *taslīm* utanför bönen? Jag ber om en förklaring. Må Allāh ge er framgång.
 
-**Svar:** *sujūd at-tilāwah*[^1] är som nedfallandet i bönen. När man nedfaller i bönen, då bör man säga *takbīr* och när man reser sig upp, då bör man säga *takbīr*. Bevisen för detta finns i en *ḥadīt̲h* från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i vilken det sägs att han brukade säga *takbīr* i bönen då han bugade[^2], nedföll och reste sig. När han nedföll, då sade han *takbīr* och när han reste sig upp, då sade han *takbīr*.
+**Svar:** *sujūd at-tilāwah* är som nedfallandet i bönen. När man nedfaller i bönen, då bör man säga *takbīr* och när man reser sig upp, då bör man säga *takbīr*. Bevisen för detta finns i en *ḥadīt̲h* från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i vilken det sägs att han brukade säga *takbīr* i bönen då han bugade[^1], nedföll och reste sig. När han nedföll, då sade han *takbīr* och när han reste sig upp, då sade han *takbīr*.
 
 […] Denna nedfallan är en del av bönen, vilket blir tydligt genom bevisen. Men om någon nedföll för *tilāwah* utanför bönen, då har ingen *takbīr* rapporterats utom i början av den. Detta är vad som är känt och som Abū Dawūd och al-Hakim har återgivit.
 
@@ -24,6 +24,5 @@ Beträffande att säga det när man reser sig upp utanför bönen, då har varke
 
 Och genom Allāh uppnås framgång.
 
-[^1]: När vissa verser i Koranen reciteras kan man nedfalla.
-[^2]: Ruku, bugningen när ryggen hålls parallell med marken.
+[^1]: Ruku, bugningen när ryggen hålls parallell med marken.
 

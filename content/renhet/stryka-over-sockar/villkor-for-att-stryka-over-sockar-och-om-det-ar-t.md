@@ -1,5 +1,5 @@
 ---
-title: Villkor för mash och bön i skor
+title: Villkor för mas̲h och bön i skor
 author: n/a
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.

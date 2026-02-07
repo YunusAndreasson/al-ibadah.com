@@ -40,25 +40,25 @@ Profeten – över honom vare Allāhs frid och välsignelser – gav honom detta
 
 Gällande dess korthet är det för att man har två plikter: plikten mot Allāh och plikten mot andra. Det är oundvikligt att inte misslyckas ibland; antingen genom att inte utföra en kommendering eller genom att göra något som är förbjudet. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Frukta Allāh var ni än befinner er.*" Detta är ett omfattande uttryck. Orden "*var ni än befinner er*" hänvisar till behovet av *taqwā*, både i det dolda och öppna.
 
-Efter detta sade han: "*Och låt en dålig handling följas med en god handling. Den kommer att gottgöra för den dåliga*." När doktorn träffar en patient och inser att denne har fått något skadligt i sig, då kommer han att säga åt denne att ta något som gör denne bra. Att människan syndar är något oundvikligt.
+Efter detta sade han: "*Och låt en dålig handling följas med en god handling. Den kommer att gottgöra för den dåliga*." När doktorn träffar en patient och inser att personen har fått något skadligt i sig, då kommer han att säga åt personen att ta något som gör personen bra. Att människan syndar är något oundvikligt.
 
 Därför är den kloke den som gör mycket goda handlingar, som gottgör för de dåliga.
 
 I denna *ḥadīt̲h* nämns ordet *sayi'ah* [dålig handling] först trots att det är objektet. Detta beror på att målet här är att stryka ut de dåliga handlingarna, inte att påbjuda de goda.
 
-De goda handlingarna bör vara av samma beskaffenhet som de dåliga, för det kommer på ett effektivare sätt att gottgöra för dem. De konsekvenser som uppstår av synder kan strykas ut på flera sätt. Det första är ånger och det andra är att söka förlåtelse [*istighfār*] utan att ångra sig, för Allāh kan förlåta denne som svar på dennes åkallan även om denne inte har ångrat sig. Det bästa är dock om ånger och sökande efter förlåtelse förenas. Det tredje sättet är genom att handla rättfärdigt för att gottgöra för synden.
+De goda handlingarna bör vara av samma beskaffenhet som de dåliga, för det kommer på ett effektivare sätt att gottgöra för dem. De konsekvenser som uppstår av synder kan strykas ut på flera sätt. Det första är ånger och det andra är att söka förlåtelse [*istighfār*] utan att ångra sig, för Allāh kan förlåta personen som svar på personens åkallan även om personen inte har ångrat sig. Det bästa är dock om ånger och sökande efter förlåtelse förenas. Det tredje sättet är genom att handla rättfärdigt för att gottgöra för synden.
 
 När det gäller särskilda gottgörelser – likt de som finns föreskriva för dem som har intim samvaro under *ramaḍān*, skiljer sig från deras fruar genom *ẓihār*, gör något förbjudet under pilgrimsfärden [eller missar någon obligatorisk] eller jagar under pilgrimsfärden – finns det fyra olika metoder för gottgörelse: – offra något, – frigöra en slav, – ge allmosor eller – fasta.
 
 Om gottgörelser som inte finns definierade sade Hudhayfah till ´Umar:
 
-> ”Den *fitnah*[då denne kommer till korta i religiösa frågor] som en man utsätts för genom sin familj, egendom och barn kan gottgöras för genom bön, fasta, välgörenhet samt att påbjuda det goda och förbjuda det onda.”
+> ”Den *fitnah*[då personen kommer till korta i religiösa frågor] som en man utsätts för genom sin familj, egendom och barn kan gottgöras för genom bön, fasta, välgörenhet samt att påbjuda det goda och förbjuda det onda.”
 
 Detta antyds i Koranen och de *sahīh ahādīth*[^1] som talar om gottgörelse genom de fem dagliga bönerna, fredagsbönen, fastan, pilgrimsfärden samt alla handlingar som har sagts sona för synder. Det finns många sådana rapporter i böcker om *aḥādīt̲h*, speciellt de böcker som handlar om ädla handlingar.
 
 Det bör anmärkas att lägga vikt vid sådana frågor är något som vi är i största behov av. När någon kommer in i puberteten, speciellt nu för tiden och under tider som påminner om den före islam på så många sätt, kan den som växer upp bland de som är kunniga och religiösa påverkas av hednisk okunnighet – så hur är det då inte med andra?
 
-I *al-Sahīhayn* återfinns en *ḥadīt̲h* återberättad av Abū Sa’īd i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
+I *aṣ-Ṣaḥīḥayn* återfinns en *ḥadīt̲h* återberättad av Abū Sa’īd i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
 
 > ”Ni kommer att följa samma väg som dem som levde före er, steg för steg, även om de gick in i ett hål med ödlor skulle ni också gå in.” De sade: ”Allāhs sändebud, menar du de kristna och judarna?” Han svarade: ”Vilka annars?”
 
@@ -74,19 +74,19 @@ Det nyttigaste som både ledarna och vanligt folk bör känna till är det som r
 
 Detta ska vara sådant som man inte har ådragit sig genom sina egna handlingar.
 
-När profeten – över honom vare Allāhs frid och välsignelser – hade fastställt Allāhs rättigheter om att utföra rättfärdiga handlingar och att ställa dåliga till rätta sade han: ”*och behandla folk på ett vänligt sätt*”. Detta avser ens plikter mot andra människor. En bra attityd mot andra människor grundas på att upprätthålla kontakt med den som bryter den; genom att hälsa på denne med *salām*, hedra denne, göra du'ā för denne, be för dennes förlåtelse, prisa denne och besöka denne. Vissa av dessa frågor är obligatoriska och andra är uppmuntrade.
+När profeten – över honom vare Allāhs frid och välsignelser – hade fastställt Allāhs rättigheter om att utföra rättfärdiga handlingar och att ställa dåliga till rätta sade han: ”*och behandla folk på ett vänligt sätt*”. Detta avser ens plikter mot andra människor. En bra attityd mot andra människor grundas på att upprätthålla kontakt med den som bryter den; genom att hälsa på personen med *salām*, hedra personen, göra du'ā för personen, be för personens förlåtelse, prisa personen och besöka personen. Vissa av dessa frågor är obligatoriska och andra är uppmuntrade.
 
 Det "*lysande exempel*" [^2] som Allāh har beskrivit Muḥammad med är den religion som består av allt som Allāh har påbjudit. Följaktligen har Mujāhid sagt att han var en uttolkare av Koranen, för 'A'ishah – må Allāh vara nöjd med henne – har sagt: "*Hans karaktär var Koranen*."
 
 Grunden för denna karaktär var att han med skyndsamhet, vilja och ett öppet hjärta gjorde vad Allāh älskar. Detta kan summeras i ordet *taqwā* som innefattar att man gör allt som Allāh har påbjudit oavsett om det är obligatoriskt eller rekommenderat och att man undviker allt som han har förbjudit oavsett om det är förbjudet eller ogillat.
 
-Detta för samma både plikter mot Allāh och plikter mot andra människor. Men taqwa kan ibland också avse fruktan för det straff som gör att man avstår det som är förbjudet. Detta har förklarats i en *ḥadīt̲h* om Mu’ādh. På samma sätt i en *ḥadīt̲h* från Abū Hurairah som har återberättats och klassats som *Ṣaḥīḥ* av *at-Tirmithi*:
+Detta för samma både plikter mot Allāh och plikter mot andra människor. Men taqwa kan ibland också avse fruktan för det straff som gör att man avstår det som är förbjudet. Detta har förklarats i en *ḥadīt̲h* om Mu’ādh. På samma sätt i en *ḥadīt̲h* från Abū Hurairah som har återberättats och klassats som *Ṣaḥīḥ* av *at-Tirmid̲hī*:
 
 > ”Det sades: ’Allāhs sändebud! Vad är det som oftast tar människor till Paradiset?’ Han svarade: ’Fruktan av Allāh och ett bra sätt.” Det sades: ’Och vad är det som vanligtvis tar människor till Helvetet?’ Han svarade: ’De två håliga sakerna: munnen och könsdelarna.’”
 
 I *al-Sahīh* berättar 'Abd-Allāh ibn ´Umar att profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Den bäste i tro bland muslimer är den som har bäst attityd*.” Han kopplade därmed ihop perfektion i tron med en god attityd. Det är välkänt att tro är fruktan av Allāh. Detta är dock inte rätt plats för att diskutera de grundläggande principerna och finare detaljerna i det.
 
-Detta är religionen i sin helhet men godhetens källor är ett uppriktigt engagemang från tjänaren mot dennes Herre; dyrkandes endast Honom och sökandes endast Hans hjälp, som versen i Koranen säger: ”*Dig tillber vi; Dig anropar vi om hjälp*.” [^3] ”*Dyrka Honom därför och förlita dig på Honom*.” [^4] ”Till *Honom litar jag och till Honom vänder jag alltid i ånger [över mina synder]*.”[^5] ”*Be därför Gud om er försörjning, dyrka Honom och tacka Honom; det är till Honom ni ska föras åter*.” [^6]
+Detta är religionen i sin helhet men godhetens källor är ett uppriktigt engagemang från tjänaren mot personens Herre; dyrkandes endast Honom och sökandes endast Hans hjälp, som versen i Koranen säger: ”*Dig tillber vi; Dig anropar vi om hjälp*.” [^3] ”*Dyrka Honom därför och förlita dig på Honom*.” [^4] ”Till *Honom litar jag och till Honom vänder jag alltid i ånger [över mina synder]*.”[^5] ”*Be därför Gud om er försörjning, dyrka Honom och tacka Honom; det är till Honom ni ska föras åter*.” [^6]
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

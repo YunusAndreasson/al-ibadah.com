@@ -1,5 +1,5 @@
 ---
-title: Enbart läsa tashahhud i den andra bönecykeln eller även läsa något annat
+title: Enbart läsa tas̲hahhud i den andra bönecykeln eller även läsa något annat
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.

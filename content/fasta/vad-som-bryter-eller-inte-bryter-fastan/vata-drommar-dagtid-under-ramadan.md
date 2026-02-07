@@ -10,15 +10,15 @@ categories:
 original_id: 433
 description: >-
   Fråga: Om den som fastar har en våt dröm dagtid under ramadan, bryter det
-  fastan då? Är denne skyldig att ta ett fullständigt bad direkt efteråt? Svar:
+  fastan då? Är personen skyldig att ta ett fullständigt bad direkt efteråt? Svar:
   Våta drömma gör inte fastan ogiltig då d...
 ---
 
-**Fråga:** Om den som fastar har en våt dröm dagtid under *ramaḍān*, bryter det fastan då? Är denne skyldig att ta ett fullständigt bad direkt efteråt?
+**Fråga:** Om den som fastar har en våt dröm dagtid under *ramaḍān*, bryter det fastan då? Är personen skyldig att ta ett fullständigt bad direkt efteråt?
 
-**Svar:** Våta drömmar gör inte fastan ogiltig då de inte är något den som fastar har valt själv. Denne måste ta ett fullständigt bad på samma sätt som efter en sexuell orenhet. Om denne hade en våt dröm efter gryningsbönen och sköt upp badet till eftermiddagsbönen, då är det ingen fara.
+**Svar:** Våta drömmar gör inte fastan ogiltig då de inte är något den som fastar har valt själv. Personen måste ta ett fullständigt bad på samma sätt som efter en sexuell orenhet. Om personen hade en våt dröm efter gryningsbönen och sköt upp badet till eftermiddagsbönen, då är det ingen fara.
 
-Likaså om en man har intim samvaro med sin fru under natten och denne inte gör *g̲husl* förrän efter gryningsbönen, då har denne inte syndat på grund av det. Sannerligen har man bekräftat att profeten – över honom vare Allāhs frid och välsignelser – brukade vakna morgonen efter med sexuell orenhet och han badade och fastade då.
+Likaså om en man har intim samvaro med sin fru under natten och personen inte gör *g̲husl* förrän efter gryningsbönen, då har personen inte syndat på grund av det. Sannerligen har man bekräftat att profeten – över honom vare Allāhs frid och välsignelser – brukade vakna morgonen efter med sexuell orenhet och han badade och fastade då.
 
 Detsamma gäller en kvinna med månadsblödning och en kvinna med blödningar efter graviditeten. Om de blir rena under natten och de inte gör *g̲husl* förrän efter gryningsbönen, då är det ingen fara i det och deras fasta är korrekt. Men det är inte tillåtet för dem, eller den sexuellt orene, att skjuta upp badandet till efter soluppgången. I stället måste de skynda sig och bada innan soluppgången så att de kan be i tid. Män måste skynda sig och göra *g̲husl* innan gryningsbönen efter den sexuella orenheten så att han kan be i församlingen.
 

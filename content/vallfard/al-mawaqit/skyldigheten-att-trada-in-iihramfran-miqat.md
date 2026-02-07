@@ -1,5 +1,5 @@
 ---
-title: Skyldigheten att träda in i ihrām från miqat
+title: Skyldigheten att träda in i iḥrām från mīqāt
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -16,20 +16,19 @@ description: >-
 
 **Fråga:** Under *rajab* år 1405 A.H avsåg jag att utföra ‘*´umrah* och utan *iḥrām* passerade jag den *mīqāt* som kallas för Yalamlam och som är *mīqāt* för folket från Jemen. När en av bröderna mötte mig – må Allāh belöna honom med gott – berättade han för mig att jag behövde återvända till *mīqāt* och träda in i *iḥrām* därifrån. Han sade: ”*Du får inte gå in i Mecka i dina vanliga kläder*.” Jag åkte då tillbaka 30 km och jag gick in i *iḥrām* vid *mīqāt*. Jag skulle vilja att ni ger mig ett bra svar. Hade jag gått in i Mecka utan *iḥrām*, hade jag då behövt offra ett djur? Hade det varit tillåtet för mig att träda in i *iḥrām* från platsen där brodern träffade mig och sade till mig att gå tillbaka eller var det nödvändigt att jag gick tillbaka till *mīqāt*?
 
-**Svar:** Den som tänker åka till Mecka för att utföra vallfärden eller *´umrah*[^1] måste träda in i *iḥrām* vid den *mīqāt* som denne passerar genom. Det är inte tillåtet att denne passerar den utan *iḥrām*. Anledningen är att profeten, då han utsåg *mawāqīt*, sade:
+**Svar:** Den som tänker åka till Mecka för att utföra vallfärden eller *´umrah* måste träda in i *iḥrām* vid den *mīqāt* som personen passerar genom. Det är inte tillåtet att personen passerar den utan *iḥrām*. Anledningen är att profeten, då han utsåg *mawāqīt*, sade:
 
-> ”De är för dem [som bor där] och dem som passerar förbi utöver de som bor där som avser att utföra vallfärden och *´umrah*[^1] Den som är närmare [Mecka] än det, då är hans plats för *iḥrām* där denne påbörjade sin resa. Även folket från Mecka går in i *iḥrām* i Mecka.” [*Muslim* 1181]
+> ”De är för dem [som bor där] och dem som passerar förbi utöver de som bor där som avser att utföra vallfärden och *´umrah* Den som är närmare [Mecka] än det, då är hans plats för *iḥrām* där personen påbörjade sin resa. Även folket från Mecka går in i *iḥrām* i Mecka.” [*Muslim* 1181]
 
-Om någon från Jemen passerar förbi Yalamlam, då är denne skyldig att träda in i *iḥrām* vid Yalamlam. Om denne på samma sätt passerar förbi Medina, då är denne skyldig att träda in i *iḥrām* vid Medinas *mīqāt*. Och om denne på samma sätt kommer från Najd, då är denne skyldig att träda in i *iḥrām* vid *mīqāt* för Najd, och så vidare.
+Om någon från Jemen passerar förbi Yalamlam, då är personen skyldig att träda in i *iḥrām* vid Yalamlam. Om personen på samma sätt passerar förbi Medina, då är personen skyldig att träda in i *iḥrām* vid Medinas *mīqāt*. Och om personen på samma sätt kommer från Najd, då är personen skyldig att träda in i *iḥrām* vid *mīqāt* för Najd, och så vidare.
 
-Om denne passerar *mīqāt* utan att träda in i *iḥrām*, då är denne skyldig att åka tillbaka och träda in i *iḥrām* därifrån. Personen som uppmanade dig att återvända till Yalamlam gjorde rätt. Genom att du återvände till *mīqāt* gjorde du vad som är korrekt, och all lovprisan tillhör Allāh.
+Om personen passerar *mīqāt* utan att träda in i *iḥrām*, då är personen skyldig att åka tillbaka och träda in i *iḥrām* därifrån. Personen som uppmanade dig att återvända till Yalamlam gjorde rätt. Genom att du återvände till *mīqāt* gjorde du vad som är korrekt, och all lovprisan tillhör Allāh.
 
-Hade du trätt in i *iḥrām* där du befann dig när han sade till dig att återvända, då hade du behövt offra ett djur. Anledning till detta är att du passerade mīqāt[^2] [utan att träda in i *iḥrām*] när din avsikt var *´umrah*[^1].
+Hade du trätt in i *iḥrām* där du befann dig när han sade till dig att återvända, då hade du behövt offra ett djur. Anledning till detta är att du passerade mīqāt[^1] [utan att träda in i *iḥrām*] när din avsikt var *´umrah*.
 
-Offret är en sjundedel av en kamel, en sjundedel av en ko, ett får som är över ett år gammalt eller en get som är två år gammal. Det ska slaktas i Mecka och delas ut bland de fattiga vid Helgedomen för att *´umrah*[^1] ska bli korrekt.
+Offret är en sjundedel av en kamel, en sjundedel av en ko, ett får som är över ett år gammalt eller en get som är två år gammal. Det ska slaktas i Mecka och delas ut bland de fattiga vid Helgedomen för att *´umrah* ska bli korrekt.
 
 Och Allāh är den som ger framgång.
 
-[^1]: Den lilla vallfärden.
-[^2]: Platsen där pilgrimen träder in i *iḥrām*.
+[^1]: Platsen där pilgrimen träder in i *iḥrām*.
 

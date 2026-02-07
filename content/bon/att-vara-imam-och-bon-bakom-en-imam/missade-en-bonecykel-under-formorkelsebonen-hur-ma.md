@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Om någon missar en bönecykel av förmörkelsebönen så har profeten – över honom vare Allāhs frid och välsignelser – sagt: ”*När ni kommer till bönen, gå och ni måste vara lugna och samlade. Och det som ni hinner med, be det; och det som ni missar, ta igen det*.” [^1] Den som då har missat en bönecykel av förmörkelsebönen måste slutföra den enligt det sätt som imamen bett på, grundat på den allmänna betydelsen i profetens – över honom vare Allāhs frid och välsignelser – ord: ”… *och fullfölj [det du har missat]*.”
 
-En utlöpare till denna fråga är ett annat problem som orsakar ännu mer förvirring för många och det berör den som har missat den första bugningen i en bönecykel. Den som har missat den första bugningen i en bönecykel har missat denna bönecykel. Så när imamen har gjort *taslīm* tar denne igen hela denna bönecykel där denne har missat den första bugningen. Detta är enligt den allmänna betydelsen i profetens – över honom vare Allāhs frid och välsignelser – ord: ”… *och fullfölj [det du har missat]*.”
+En utlöpare till denna fråga är ett annat problem som orsakar ännu mer förvirring för många och det berör den som har missat den första bugningen i en bönecykel. Den som har missat den första bugningen i en bönecykel har missat denna bönecykel. Så när imamen har gjort *taslīm* tar personen igen hela denna bönecykel där personen har missat den första bugningen. Detta är enligt den allmänna betydelsen i profetens – över honom vare Allāhs frid och välsignelser – ord: ”… *och fullfölj [det du har missat]*.”
 
 
 [^1]: *al-Buk̲hārī* 636 och *Muslim* 602

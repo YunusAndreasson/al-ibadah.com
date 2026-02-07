@@ -1,5 +1,5 @@
 ---
-title: Tasbih med den högra handen är bättre
+title: Tasbīḥ med den högra handen är bättre
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.

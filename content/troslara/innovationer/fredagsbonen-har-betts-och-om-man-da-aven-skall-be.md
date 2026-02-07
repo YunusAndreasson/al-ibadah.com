@@ -10,14 +10,14 @@ categories:
   - Innovationer
 original_id: 999
 description: >-
-  Fråga: Om någon har bett fredagsbönen, bör denne då även be middagsbönen?
+  Fråga: Om någon har bett fredagsbönen, bör personen då även be middagsbönen?
   Svar: Om någon har bett fredagsbönen är detta den obligatoriska bönen vid
   denna tidpunkt [middagsbönen]. Följaktligen ...
 ---
 
-**Fråga:** Om någon har bett fredagsbönen, bör denne då även be middagsbönen?
+**Fråga:** Om någon har bett fredagsbönen, bör personen då även be middagsbönen?
 
-**Svar:** Om någon har bett fredagsbönen är detta den obligatoriska bönen vid denna tidpunkt [middagsbönen]. Följaktligen bör denne inte be middagsbönen. Att be den efter fredagsbönen är en innovation, vilket beror på att detta inte har nämnts i Allāhs skrift eller i Hans sändebuds *sunnah*. Därför måste det vara förbjudet, även om fredagsbönerna bes i ett antal moskéer. Det har inte föreskrivits att man bör be middagsbönen efter fredagsbönen. Detta är en avskyvärd innovation. Allāh den Upphöjde har inte beordrat folket att be mer än en bön vid samma tidpunkt. Här är det fredagsbönen och den har redan förrättats.
+**Svar:** Om någon har bett fredagsbönen är detta den obligatoriska bönen vid denna tidpunkt [middagsbönen]. Följaktligen bör personen inte be middagsbönen. Att be den efter fredagsbönen är en innovation, vilket beror på att detta inte har nämnts i Allāhs skrift eller i Hans sändebuds *sunnah*. Därför måste det vara förbjudet, även om fredagsbönerna bes i ett antal moskéer. Det har inte föreskrivits att man bör be middagsbönen efter fredagsbönen. Detta är en avskyvärd innovation. Allāh den Upphöjde har inte beordrat folket att be mer än en bön vid samma tidpunkt. Här är det fredagsbönen och den har redan förrättats.
 
 Vissa menar att om fredagsbönen bes i ett antal moskéer, då är det fredagsbönen i den moské som började som gäller och bönerna i de andra är ogiltiga. De menar att man bör be middagsbönen efteråt i detta fall. Till dem säger vi: Hur kan ni lägga fram detta som bevis eller rättfärdigande? Är det grundat på profetens – över honom vare Allāhs frid och välsignelser – *sunnah* eller någon korrekt åsikt? Svaret är: Nej.
 

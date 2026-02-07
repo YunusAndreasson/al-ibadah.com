@@ -1,5 +1,5 @@
 ---
-title: 'al-Madhi [prostatavätska] kräver inte ghusl'
+title: 'al-Madhi [prostatavätska] kräver inte g̲husl'
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.

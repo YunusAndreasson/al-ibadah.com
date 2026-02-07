@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Om den fastande sköljer sin mun eller drar in vatten i näsan, och vattnet därigenom når magen, bryts då fastan på grund av det?
 
-**Svar:** Om någon sköljer sin mun eller drar in vatten i näsan och vattnet kommer ned i magen, då bryter det inte fastan. Detta beror på att denne inte avsåg att göra så. Allāh den Upphöjde har sagt: ”*Om ni här begår ett misstag, ska ni inte klandras för detta – nej, [det som är av betydelse är] vad ni innerst inne syftar till*.” [^1]
+**Svar:** Om någon sköljer sin mun eller drar in vatten i näsan och vattnet kommer ned i magen, då bryter det inte fastan. Detta beror på att personen inte avsåg att göra så. Allāh den Upphöjde har sagt: ”*Om ni här begår ett misstag, ska ni inte klandras för detta – nej, [det som är av betydelse är] vad ni innerst inne syftar till*.” [^1]
 
 
 [^1]: Koranen 33:5

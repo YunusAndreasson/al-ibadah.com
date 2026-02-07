@@ -1,5 +1,5 @@
 ---
-title: Kvinna utan mahram är inte skyldig att vallfärda
+title: Kvinna utan maḥram är inte skyldig att vallfärda
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -15,7 +15,7 @@ description: >-
   obligatoriska vallfärden men hon har ingen mahram...
 ---
 
-**Fråga:** Det finns en kvinna från Saba' som är känd för sin rättfärdighet. Hon är medelålders eller på väg att bli gammal. Hon skulle vilja göra den obligatoriska vallfärden men hon har ingen *maḥram*. En framstående man i landet avser att vallfärda och han är känd för sin rättfärdighet. Med honom följer även kvinnor som är släkt med honom. Är det rätt om denna kvinna vallfärdar med denne gode man och dennes kvinnliga släktingar, om hon är tillsammans med kvinnorna och mannen ser efter henne? Eller är hon inte längre skyldig att vallfärda om hon inte har en *maḥram*? Det är även viktigt att känna till att hon har de ekonomiska medel som krävs för att vallfärda. Vänligen, ge oss ett utlåtande och må Allāh välsigna er då vi är oeniga om detta.
+**Fråga:** Det finns en kvinna från Saba' som är känd för sin rättfärdighet. Hon är medelålders eller på väg att bli gammal. Hon skulle vilja göra den obligatoriska vallfärden men hon har ingen *maḥram*. En framstående man i landet avser att vallfärda och han är känd för sin rättfärdighet. Med honom följer även kvinnor som är släkt med honom. Är det rätt om denna kvinna vallfärdar med personen gode man och personens kvinnliga släktingar, om hon är tillsammans med kvinnorna och mannen ser efter henne? Eller är hon inte längre skyldig att vallfärda om hon inte har en *maḥram*? Det är även viktigt att känna till att hon har de ekonomiska medel som krävs för att vallfärda. Vänligen, ge oss ett utlåtande och må Allāh välsigna er då vi är oeniga om detta.
 
 **Svar:** En kvinna som inte har en *maḥram* behöver inte vallfärda. Detta beror på att i hennes fall så innefattas mannen i "*möjlighet att genomföra den*" och förmågan att kunna ta sig dit är ett villkor för att vallfärden ska vara en skyldighet. Allāh säger: "*Vallfärden till denna Helgedom är en plikt mot Gud för var och en som har möjlighet att genomföra den*." [^2]
 

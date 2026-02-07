@@ -24,7 +24,7 @@ Det som Allāh har dolt i *al-ghayb* finns det ingen vetskap om, och det som int
 
 Profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Allāh har 99 namn. Den som räknar upp dem [och tror på] dem kommer att träda in i Paradiset*.” [^1] Innebörden av detta är inte att Allāh inte har några andra namn utöver dessa, utan innebörden är att den som räknar upp dessa 99 namn kommer att träda in i Paradiset.
 
-”*Den som räknar upp [och tror på] dem*”, är slutet på den första meningen och inte början på en ny. Liktydigt med detta är när araberna säger: ”Jag har 100 hästar. Jag har förberett dem för *djihād* för Allāhs skull.” Innebörden av detta är inte att denne inte har några andra hästar utöver dessa 100, utan i stället är det dessa 100 som denne har förberett.
+”*Den som räknar upp [och tror på] dem*”, är slutet på den första meningen och inte början på en ny. Liktydigt med detta är när araberna säger: ”Jag har 100 hästar. Jag har förberett dem för *djihād* för Allāhs skull.” Innebörden av detta är inte att personen inte har några andra hästar utöver dessa 100, utan i stället är det dessa 100 som personen har förberett.
 
 *s̲hayk̲h ul-islām* ibn Taymiyyah – må Allāh vara honom nådig – har rapporterat att det finns samstämmighet bland lärde inom *ḥadīt̲h* om att det inte har rapporterats autentiskt att profeten – över honom vare Allāhs frid och välsignelser – har berättat om dem.
 

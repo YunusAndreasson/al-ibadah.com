@@ -1,5 +1,5 @@
 ---
-title: Gemensam åkallan vid Arafat och under andra tillfällen
+title: Gemensam åkallan vid ´Arafāt och under andra tillfällen
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om att samlas för åkallan under *´Arafāt*-dagen, oavsett om det är just där eller vid någon annan plats?
 
-**Svar:** Under denna stora dag är det bästa för pilgrimen att anstränga sig med åkallan och att vara ödmjuk inför Allāh. Denne bör även höja sina händer. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – under denna dag fram till solnedgången ansträngde sig med åkallan och åminnelse av Allāh. Detta skedde när han hade bett middagsbönen och eftermiddagsbönen tillsammans och förkortade i 'Uranah-dalen. Sedan gick han till platsen där man står och han stod där bland klipporna för åkallan [platsen kallas Jabalul-Āl]. Han ansträngde sig i åkallan och åminnelse av Allāh. Han gjorde detta med händerna höjda och i riktning mot *qiblah* samtidigt som han satt på en honkamel.
+**Svar:** Under denna stora dag är det bästa för pilgrimen att anstränga sig med åkallan och att vara ödmjuk inför Allāh. Personen bör även höja sina händer. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – under denna dag fram till solnedgången ansträngde sig med åkallan och åminnelse av Allāh. Detta skedde när han hade bett middagsbönen och eftermiddagsbönen tillsammans och förkortade i 'Uranah-dalen. Sedan gick han till platsen där man står och han stod där bland klipporna för åkallan [platsen kallas Jabalul-Āl]. Han ansträngde sig i åkallan och åminnelse av Allāh. Han gjorde detta med händerna höjda och i riktning mot *qiblah* samtidigt som han satt på en honkamel.
 
 Allāh har föreskrivit att tjänarna ska åkalla med ödmjukhet, i hemlighet och visandes ödmjukhet inför Honom. Detta med hopp och fruktan. Denna plats är en av de bästa platser för åkallan. Allāh den Upphöjde har sagt: "*Åkalla er Herre i det tysta med ödmjukt sinne; Han älskar inte dem som går till överdrift*." [^2]
 
@@ -31,7 +31,7 @@ Allāh har även sagt: ”*Er Herre säger: 'Be till Mig, så ska Jag besvara er
 
 Verserna och *aḥādīt̲h* som uppmuntrar till åminnelse av Allāh och åkallan är många. Det är speciellt förskrivet att göra mycket åkallan och åminnelse av Allāh på denna plats [Arafat[^1]]. Detta med rena intentioner, ett närvarande hjärta samt med hopp och fruktan. Det är också föreskrivet att höja röster när man gör det eller att man säger *talbiyyah* som profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare gjorde, enligt vad vi känner till.
 
-Om några åkallar i en grupp och de säger ”*āmīn*” för dennes åkallan, då finns det inget skadligt i det. Detta är precis vad som görs i *qunūt*, efter att ha läst ut Koranen, i åkallan för regn och vid liknande åkallan.
+Om några åkallar i en grupp och de säger ”*āmīn*” för personens åkallan, då finns det inget skadligt i det. Detta är precis vad som görs i *qunūt*, efter att ha läst ut Koranen, i åkallan för regn och vid liknande åkallan.
 
 Att samlas vid en annan plats än *´Arafāt* under *´Arafāt*-dagen saknar grund och det är inget som profeten – över honom vare Allāhs frid och välsignelser – har gjort. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som gör något som inte är enligt vår fråga [islam] kommer att få det avvisat*.” [^7] Detta har Muslim återgivit i sin *Ṣaḥīḥ*.
 

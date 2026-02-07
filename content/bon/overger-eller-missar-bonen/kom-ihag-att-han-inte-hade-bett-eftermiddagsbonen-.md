@@ -18,7 +18,7 @@ description: >-
 
 **Fråga:** Vi glömde att be eftermiddagsbönen och vi kom inte på det förrän vi hörde böneutropet för kvällsbönen. Vi bad då eftermiddagsbönen när vi hade bett kvällsbönen. Vilket är utlåtandet om detta?
 
-**Svar:** Om någon har glömt att be en bön, eller om någon har försovit sig och det inte har funnits någon där för att påminna denne innan tiden gick ut, då gör denne som profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Han måste ta igen den så fort som han kommer ihåg den och det finns ingen gottgörelse utöver detta*.” [^1]
+**Svar:** Om någon har glömt att be en bön, eller om någon har försovit sig och det inte har funnits någon där för att påminna personen innan tiden gick ut, då gör personen som profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Han måste ta igen den så fort som han kommer ihåg den och det finns ingen gottgörelse utöver detta*.” [^1]
 
 Under en sådan omständighet som frågeställaren har råkat ut för bör han börja med eftermiddagsbönen och sedan kvällsbönen. På detta sätt upprätthålls den korrekta ordningen som Allāh den Allsmäktige har föreskrivit. Anledningen är att när profeten – över honom vare Allāhs frid och välsignelser – missade böner under en av dagarna vid slaget om diket, då tog han igen dem i ordning. Han har också sagt: ”*Be som ni har sett mig be*.” [^2]
 

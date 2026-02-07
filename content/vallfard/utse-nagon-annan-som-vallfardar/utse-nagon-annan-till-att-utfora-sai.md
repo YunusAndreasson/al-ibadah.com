@@ -1,5 +1,5 @@
 ---
-title: Utse någon annan till att utföra sa’ī
+title: Utse någon annan till att utföra sa´ī
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -15,13 +15,13 @@ description: >-
   honom? Vilket är utlåtandet om han åte...
 ---
 
-**Fråga:** Vilket är utlåtandet om den som inte kan utföra *sa´ī*[^1] under vallfärden eller *´umrah*[^2]? Kan han utse en representant som utför *sa´ī*[^1] eller *ṭawāf* åt honom? Vilket är utlåtandet om han återhämtar sig [från sjukdomen eller oförmågan] när vallfärdstiden är över?
+**Fråga:** Vilket är utlåtandet om den som inte kan utföra *sa´ī* under vallfärden eller *´umrah*? Kan han utse en representant som utför *sa´ī* eller *ṭawāf* åt honom? Vilket är utlåtandet om han återhämtar sig [från sjukdomen eller oförmågan] när vallfärdstiden är över?
 
-**Svar:** Det är inte rätt att utse någon annan som utför *ṭawāf* eller *sa´ī*[^1] åt en. I stället måste man själv utföra *ṭawāf* och *sa´ī*[^1], även om man bärs på en bädd eller vagn.
+**Svar:** Det är inte rätt att utse någon annan som utför *ṭawāf* eller *sa´ī* åt en. I stället måste man själv utföra *ṭawāf* och *sa´ī*, även om man bärs på en bädd eller vagn.
 
 Om man inte ens kan göra det [på grund av sjukdom], då stannar man kvar i sin *iḥrām* tills man botats, även om det sker efter flera månader och man förväntas bli bättre. Det är inte tillåtet att man bryter *iḥrām*. Den har ju inte blivit ogiltig genom något som gör den ogiltig.
 
-Har han förlorat hoppet om att sjukdomen ska gå över, då är han likt den som hindrats [från att fullfölja vallfärden eller *´umrah*[^2]]. Han slaktar då ett får och ger det till de fattiga vid Helgedomen. Därmed träder han ur *iḥrām*. Anledningen är att Allāh har sagt:
+Har han förlorat hoppet om att sjukdomen ska gå över, då är han likt den som hindrats [från att fullfölja vallfärden eller *´umrah*]. Han slaktar då ett får och ger det till de fattiga vid Helgedomen. Därmed träder han ur *iḥrām*. Anledningen är att Allāh har sagt:
 
 > ”Men om omständigheterna hindrar er [att fullfölja den], ge då vad ni har möjlighet att ge som offergåva.” [Koranen 2:196]
 
@@ -29,6 +29,4 @@ Om han inte kan betala priset för ett får [att få det slaktat], då fastar ha
 
 Och Allāh vet bäst.
 
-[^1]: Vandringen mellan as-Safa och al-Marwa.
-[^2]: Den lilla vallfärden.
 

@@ -32,13 +32,13 @@ I flera *aḥādīt̲h* nämns Abū Bakr, ´Umar, 'Uthmān och ´Alī tydligt so
 
 Han har varnat andra för att tala illa om dem:
 
-> ”Smäda inte mina följeslagare. Skulle någon av er spendera guld likvärdigt berget Uhud, då skulle denne inte ens uppnå en *mudd* [två fulla händer] av dem [deras belöningar] – inte ens hälften av det.” [*al-Buk̲hārī* 3673, *Muslim* 2540 och 2541]
+> ”Smäda inte mina följeslagare. Skulle någon av er spendera guld likvärdigt berget Uhud, då skulle personen inte ens uppnå en *mudd* [två fulla händer] av dem [deras belöningar] – inte ens hälften av det.” [*al-Buk̲hārī* 3673, *Muslim* 2540 och 2541]
 
 Detta har återgivits från Abū Hurairah och Abū Sa´īd al-Khudri i Muslims *Ṣaḥīḥ*. Den som förtalar eller skymfar profetens – över honom vare Allāhs frid och välsignelser – följeslagare [speciellt Abū Bakr, ´Umar och 'Uthmān] har avvisat Allāhs skrift och Hans sändebuds *sunnah*. Han har motsatt sig båda två [Koranen och profeten *sunnah*] genom att förtala dem.
 
-Denne kommer inte att få den förlåtelse som Allāh har lovat de som följer dem, ber om att de ska förlåtas och ber att Allāh att Han inte placerar ogillande i deras hjärta mot de troende.
+Personen kommer inte att få den förlåtelse som Allāh har lovat de som följer dem, ber om att de ska förlåtas och ber att Allāh att Han inte placerar ogillande i deras hjärta mot de troende.
 
-Den som talar illa om dem måste rådas och påminnas om deras goda och informeras om deras höga grad av uppriktighet i islam. Ångrar denne sig, då är denne en av våra bröder i tron, men om denne fortsätter att tala illa om dem, då måste denne i så stor utsträckning som möjligt behandlas med det avvisande som den islamiska lagen kräver.
+Den som talar illa om dem måste rådas och påminnas om deras goda och informeras om deras höga grad av uppriktighet i islam. Ångrar personen sig, då är personen en av våra bröder i tron, men om personen fortsätter att tala illa om dem, då måste personen i så stor utsträckning som möjligt behandlas med det avvisande som den islamiska lagen kräver.
 
 De som inte har möjlighet att göra detta med sina tungor [genom tal] och sina händer, de bör hata det i hjärtat, och detta är den svagaste tron. Detta har rapporterats i autentiska *aḥādīt̲h*.
 

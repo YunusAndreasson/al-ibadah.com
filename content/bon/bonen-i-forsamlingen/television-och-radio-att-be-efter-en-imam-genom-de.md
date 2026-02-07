@@ -8,11 +8,11 @@ categories:
   - Församlingsbön
 original_id: 992
 description: 'Fråga: Får en muslim följa en bön som sänds genom tv eller radio utan
- att denne ser imamen? Denna fråga gäller speciellt kvinnor. Svar: Det är inte
+ att personen ser imamen? Denna fråga gäller speciellt kvinnor. Svar: Det är inte
  tillåtet att följa en imam genom radio eller...'
 ---
 
-**Fråga:** Får en muslim följa en bön som sänds genom tv eller radio utan att denne ser imamen? Denna fråga gäller speciellt kvinnor.
+**Fråga:** Får en muslim följa en bön som sänds genom tv eller radio utan att personen ser imamen? Denna fråga gäller speciellt kvinnor.
 
 **Svar:** Det är inte tillåtet att följa en imam genom radio eller tv. Detta beror på att bönen i församlingen betyder att man ber den tillsammans. Det är därför nödvändigt att de är på samma plats för att raderna ska vara sammankopplade. Därmed är det inte tillåtet att be genom dessa former av media.
 

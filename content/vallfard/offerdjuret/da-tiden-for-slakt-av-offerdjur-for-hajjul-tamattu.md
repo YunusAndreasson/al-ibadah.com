@@ -1,5 +1,5 @@
 ---
-title: Tid för slakt av offerdjur under hajjul-tamattu'
+title: Tid för slakt av offerdjur under ḥajjul-tamattu´
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.

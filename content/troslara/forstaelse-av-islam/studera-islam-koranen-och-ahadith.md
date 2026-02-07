@@ -1,5 +1,5 @@
 ---
-title: Studera islam – Koranen och ahādīth
+title: Studera islam – Koranen och aḥādīt̲h
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: 'Fatāwā al-Lajnah al-Da’imah, 12/110'
 categories:
@@ -12,7 +12,7 @@ description: >-
   honom vare Allāhs frid och välsignelser...
 ---
 
-**Fråga:** Jag memorerar lite av Koranen och jag hoppas kunna memorera hela för att – med Allāhs hjälp – fortsätta och memorera *aḥādīt̲h* från sändebudet – över honom vare Allāhs frid och välsignelser – som finns återgivna i *al-Sahīhayn*. Är denna metod bra eller bör jag jobba med att memorera båda samtidigt?
+**Fråga:** Jag memorerar lite av Koranen och jag hoppas kunna memorera hela för att – med Allāhs hjälp – fortsätta och memorera *aḥādīt̲h* från sändebudet – över honom vare Allāhs frid och välsignelser – som finns återgivna i *aṣ-Ṣaḥīḥayn*. Är denna metod bra eller bör jag jobba med att memorera båda samtidigt?
 
 **Svar:** All lovprisan tillhör Allāh.
 

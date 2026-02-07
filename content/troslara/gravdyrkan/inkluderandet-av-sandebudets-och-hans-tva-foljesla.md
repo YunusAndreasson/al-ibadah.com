@@ -22,7 +22,7 @@ description: >-
 
 ‘Ā’ishāh – må Allāh vara nöjd med henne – har nämnt att både Umm Habihah och Umm Salamah berättade för profeten – över honom vare Allāhs frid och välsignelser – om en kyrka med avbilder som de hade sett i Etiopien. Profeten – över honom vare Allāhs frid och välsignelser – sade:
 
-> ”De byggde en plats för bön över graven så fort en from person gick bort och där placerade de dennes avbilder. Inför Allāh är de ondast i skapelsen.” [*al-Buk̲hārī* 427, 434, 1341; *Muslim* 328; *an-Nasā’ī* 705 och *Aḥmad* 6:51]
+> ”De byggde en plats för bön över graven så fort en from person gick bort och där placerade de personens avbilder. Inför Allāh är de ondast i skapelsen.” [*al-Buk̲hārī* 427, 434, 1341; *Muslim* 328; *an-Nasā’ī* 705 och *Aḥmad* 6:51]
 
 Jundub bin Abdullāh al-Bajali har sagt:
 

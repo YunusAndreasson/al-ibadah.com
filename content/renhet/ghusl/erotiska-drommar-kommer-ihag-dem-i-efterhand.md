@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Ibland kommer jag ihåg erotiska drömmar när jag vaknar, men jag ser inga spår av utlösning. Måste jag göra *g̲husl* då? Vänligen, ge mig ett utlåtande. Må Allāh belöna dig.
 
-**Svar:** Den som har haft en erotisk dröm behöver inte göra *g̲husl* utom om denne finner vätska som är sperma. Detta grundas på vad profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Vatten kommer endast från vatten*." [^2]
+**Svar:** Den som har haft en erotisk dröm behöver inte göra *g̲husl* utom om personen finner vätska som är sperma. Detta grundas på vad profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Vatten kommer endast från vatten*." [^2]
 
 Innebörden är att *g̲husl*-vatten krävs för att rena spermavätskan. Enligt de lärde avser denna *ḥadīt̲h* fall där någon har haft en våt dröm.
 

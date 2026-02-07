@@ -1,5 +1,5 @@
 ---
-title: Gick in i ihrām sedan inträffade något
+title: Gick in i iḥrām sedan inträffade något
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.

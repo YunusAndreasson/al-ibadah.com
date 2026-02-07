@@ -10,17 +10,17 @@ categories:
 original_id: 794
 description: >-
   Fråga: Vilket är utlåtandet om en person som utser någon annan som kastar sten
-  på pelarna under den andra dagen [under ayyām at-tashrīq ]? Vilket är
+  på pelarna under den andra dagen [under ayyām at-tas̲hrīq ]? Vilket är
   utlåtandet om den som utser någon annan till a...
 ---
 
-**Fråga:** Vilket är utlåtandet om en person som utser någon annan som kastar sten på pelarna under den andra dagen [under *ayyām at-tashrīq*]? Vilket är utlåtandet om den som utser någon annan till att utföra *tawāf[^1] ul-wadā* och som sedan beger sig till sitt hemland? Är det tillåtet? Detta i vetskap om att den utsedde är ung.
+**Fråga:** Vilket är utlåtandet om en person som utser någon annan som kastar sten på pelarna under den andra dagen [under *ayyām at-tas̲hrīq*]? Vilket är utlåtandet om den som utser någon annan till att utföra *ṭawāf ul-wadā´*[^1] och som sedan beger sig till sitt hemland? Är det tillåtet? Detta i vetskap om att den utsedde är ung.
 
 **Svar:** Om den som utser någon annan inte kan kasta stenarna själv och den utsedde är en ansvarsfull person som vallfärdar, och den som utser uppriktigt försöker finna någon som går att lita på, då är det giltigt att utse någon annan som kastar stenarna. Utlåtandet är detsamma även om den utsedde är ung.
 
-Den utsedde kastar först de egna stenarna och sedan för den som utsett honom. Men om personen som har utsett själv kan kasta stenarna eller om den utsedde inte är en tillräknelig vuxen eller om denne inte vallfärdar, då är det inte rätt att utse någon annan som kastar stenarna. Den som har utsett honom måste då slakta ett djur [som försoning].
+Den utsedde kastar först de egna stenarna och sedan för den som utsett honom. Men om personen som har utsett själv kan kasta stenarna eller om den utsedde inte är en tillräknelig vuxen eller om personen inte vallfärdar, då är det inte rätt att utse någon annan som kastar stenarna. Den som har utsett honom måste då slakta ett djur [som försoning].
 
-Det är inte rätt att utse någon till att utföra *ṭawāf ul-wadā’* eller någon annan *ṭawāf* runt Ka’bah. Den som utser någon till att utföra *ṭawāf ul-wadā’* och som inte utför *ṭawāf* själv, denne har syndat. Denne måste slakta ett djur vid helgedomen för att ha utelämnat avskeds-*ṭawāf*. Djuret slaktas vid Helgedomen. Den som utser någon till att kasta stenarna får heller inte bege sig av innan den utsedde har kastat stenarna. Då utför denne *ṭawāf ul-wadā’* själv när stenarna har kastats.
+Det är inte rätt att utse någon till att utföra *ṭawāf ul-wadā´* eller någon annan *ṭawāf* runt Ka’bah. Den som utser någon till att utföra *ṭawāf ul-wadā´* och som inte utför *ṭawāf* själv, personen har syndat. Personen måste slakta ett djur vid helgedomen för att ha utelämnat avskeds-*ṭawāf*. Djuret slaktas vid Helgedomen. Den som utser någon till att kasta stenarna får heller inte bege sig av innan den utsedde har kastat stenarna. Då utför personen *ṭawāf ul-wadā´* själv när stenarna har kastats.
 
 [^1]: Den sju långa rundar vandringen runt Kabah.
 

@@ -1,5 +1,5 @@
 ---
-title: Offra till någon annan än Allāh är större shirk
+title: Offra till någon annan än Allāh är större s̲hirk
 author: Ibn ´Abdullah Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.

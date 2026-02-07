@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Den mest korrekta åsikten är att män inte får använda dem. Anledningen är den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*Guld och silke har gjorts tillåtet för kvinnorna i mitt samfund och förbjudet för dess män*.” [^1] Han har även sagt: ”*Dessa båda är tillåtna för mitt samfunds kvinnor och förbjudna för dess män*.” [^2]
 
-När det gäller vad som har återberättats om allmosa, om dessa pennor själva når den lägsta nivån som krävs eller om de tillsammans med annat guld som ägaren har uppnår den lägsta nivån, då krävs allmosa om de har varit i dennes ägo under ett år. Detsamma gäller om denne har silver eller säljer varor genom vilka den lägsta nivån uppnås, då blir allmosa en skyldighet enligt den mest korrekta åsikten bland de lärda[…]
+När det gäller vad som har återberättats om allmosa, om dessa pennor själva når den lägsta nivån som krävs eller om de tillsammans med annat guld som ägaren har uppnår den lägsta nivån, då krävs allmosa om de har varit i personens ägo under ett år. Detsamma gäller om personen har silver eller säljer varor genom vilka den lägsta nivån uppnås, då blir allmosa en skyldighet enligt den mest korrekta åsikten bland de lärda[…]
 
 
 [^1]: *an-Nasā’ī* 5151

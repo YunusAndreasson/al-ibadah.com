@@ -1,5 +1,5 @@
 ---
-title: Istikharah
+title: Istik̲hārah
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
@@ -22,9 +22,9 @@ Om något som är klart, om det är bäst att göra det eller inte, är det inte
 
 Åkallan för *istik̲hārah*-bönen bör inte läsas när man ber hälsningsbönen till moskén[^2] eller i den fasta *sunnah*-bönen om man inte hade avsikten för det tidigare. Detta beror på att denna *ḥadīt̲h* tydligt kräver att man ber två bönecykler just för *istik̲hārah*-bönen, så om man ber dem utan denna avsikt har man inte uppfyllt den.
 
-Men om man utformade avsikten för att göra *istik̲hārah*-bönen när man bad för att hälsa på moskén eller den fasta *sunnah*-bönen, och åkallade för *istik̲hārah*-bönen, då är det klart och tydligt från denna *ḥadīt̲h* att den kommer att räknas. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "… *då bör denne be två bönecykler som inte tillhör de obligatoriska bönerna*." [^4] Han gjorde inget undantag för någon bön utom den obligatoriska.
+Men om man utformade avsikten för att göra *istik̲hārah*-bönen när man bad för att hälsa på moskén eller den fasta *sunnah*-bönen, och åkallade för *istik̲hārah*-bönen, då är det klart och tydligt från denna *ḥadīt̲h* att den kommer att räknas. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "… *då bör personen be två bönecykler som inte tillhör de obligatoriska bönerna*." [^4] Han gjorde inget undantag för någon bön utom den obligatoriska.
 
-Det är möjligt att de inte kommer att räknas eftersom han sagt: "*Om någon tänker göra något bör denne be två bönecykler*[^3]." Detta bevisar att det inte finns någon anledning för dessa två bönecykler utom *istik̲hārah*-bönen. Vad jag då anser vara bättre är att man ber två bönecykler enskilt. Detta eftersom denna möjlighet existerar. Det är möjligt att det som avses med att välja ut de obligatoriska bönerna som undantag är att man ber två frivilliga, som om han hade sagt: "*Låt denne be två frivilliga bönecykler*[^3]."
+Det är möjligt att de inte kommer att räknas eftersom han sagt: "*Om någon tänker göra något bör personen be två bönecykler*[^3]." Detta bevisar att det inte finns någon anledning för dessa två bönecykler utom *istik̲hārah*-bönen. Vad jag då anser vara bättre är att man ber två bönecykler enskilt. Detta eftersom denna möjlighet existerar. Det är möjligt att det som avses med att välja ut de obligatoriska bönerna som undantag är att man ber två frivilliga, som om han hade sagt: "*Låt personen be två frivilliga bönecykler*[^3]."
 
 Och Allāh vet bäst.
 

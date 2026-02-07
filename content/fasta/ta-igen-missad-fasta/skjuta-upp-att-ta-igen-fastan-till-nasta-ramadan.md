@@ -1,5 +1,5 @@
 ---
-title: Skjuta upp att ta igen fastan till nästa ramadan
+title: Skjuta upp att ta igen fastan till nästa ramaḍān
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Den som skjuter upp dem med en föreskriven ursäkt, som sjukdom eller liknande, har inte syndat. Detta beror på att Allāh har sagt: "*Men den som är sjuk eller [ska fasta därefter] under motsvarande dagar*." [^1] Och: "*Frukta därför Gud efter måttet av er förmåga*." [^2]
 
-När det gäller den som utan ursäkt har skjutit upp [att ta igen fastan före nästa *ramaḍān*], då har denne inte lytt sin Herre. Denne måste då ångra sig för detta samtidigt som denne tar igen fastan och ger en fattig mat för varje dag. Mängden mat som denne måste ge är en halv *ṣā´* av den mat som finns i landet, som ris eller något liknande. Detta ska väga ungefär 1,5 kg. Före eller efter fastan ger denne detta till några av de fattiga, även om det enbart är en person.
+När det gäller den som utan ursäkt har skjutit upp [att ta igen fastan före nästa *ramaḍān*], då har personen inte lytt sin Herre. Personen måste då ångra sig för detta samtidigt som personen tar igen fastan och ger en fattig mat för varje dag. Mängden mat som personen måste ge är en halv *ṣā´* av den mat som finns i landet, som ris eller något liknande. Detta ska väga ungefär 1,5 kg. Före eller efter fastan ger personen detta till några av de fattiga, även om det enbart är en person.
 
 Och Allāh är Givaren av framgång.
 

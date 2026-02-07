@@ -45,7 +45,7 @@ Men när börjar denna period? Den börjar när man stryker över sockarna förs
 
 Strykandet måste då ha ägt rum och det kan inte inträffa förrän första gången som man har strykt. Går 24 timmar till ända, med början då den första strykningen ägde rum, är tiden för att stryka över sockarna över för den som är hemma. Passerar 72 timmar är tiden för att stryka över sockarna över för resenären. Vi kommer att ge ett exempel på detta som kommer att klargöra.
 
-En person rengör sig inför gryningsbönen, tar på sig lädersockarna och är rituell ren tills han ber middagsbönen. Han är då fortfarande rituellt ren. Efter eftermiddagsbönen, klocka fem, rengör han sig inför kvällsbönen och stryker då över sockarna. Då får denne man stryka över sockarna fram till och med klockan fem nästa dag.
+En person rengör sig inför gryningsbönen, tar på sig lädersockarna och är rituell ren tills han ber middagsbönen. Han är då fortfarande rituellt ren. Efter eftermiddagsbönen, klocka fem, rengör han sig inför kvällsbönen och stryker då över sockarna. Då får mannen stryka över sockarna fram till och med klockan fem nästa dag.
 
 Om han under den andra dagen stryker över sockarna kvart i fem och han är rituellt ren tills han bett kvällsbönen och sedan ber nattbönen, då har han under denna tid bett middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen den första dagen och nästa dag gryningsbönen, middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen. Detta är nio böner som han hör förrättat. Här kan vi se att ingen vikt läggs vid antalet böner, vilket många tror då de säger att strykandet över sockarna är för fem böner. Detta saknar grund.
 
@@ -53,9 +53,9 @@ Den islamiska lagen har enbart definierat en dag och en natt, som börjar vid de
 
 Men om man stryker över dem innan tiden har gått ut och sedan höll sig rituellt ren tills efter att tidsperioden har gått ut, då blir ens tvagning inte ogiltig utan i stället fortsätter man att vara rituellt ren tills något ogiltigör den. Detta beror på att åsikten att ens tvagning blir ogiltig genom att tidsperioden går ut är en åsikt som saknar bevis. När tiden har gått ut betyder det att man inte får stryka över sockarna. Det betyder inte att det inte finns ett renhetstillstånd efter att den har gått ut. Så här är det för att vad som begränsar tiden är strykandet, inte renhetstillståndet. Därför finns det inga bevis för att den blir ogiltig genom att tiden går ut.
 
-I detta fall säger vi, i bekräftelse av bevisen för vår åsikt: Denne man har tvagat sig korrekt enligt de autentiska bevisen i den islamiska lagen. Om så är fallet är det inte tillåtet att utan autentiska bevis från den islamiska lagen säga att dennes tvagning blir ogiltigt. Och det finns inga bevis för att den blir ogiltig efter att tiden gått ut. Därmed fortsätter han att vara rituellt ren tills det finns något som gör renheten ogiltig på ett sätt som bekräftats genom Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och samstämmighet bland de lärda.
+I detta fall säger vi, i bekräftelse av bevisen för vår åsikt: Mannen har tvagat sig korrekt enligt de autentiska bevisen i den islamiska lagen. Om så är fallet är det inte tillåtet att utan autentiska bevis från den islamiska lagen säga att personens tvagning blir ogiltigt. Och det finns inga bevis för att den blir ogiltig efter att tiden gått ut. Därmed fortsätter han att vara rituellt ren tills det finns något som gör renheten ogiltig på ett sätt som bekräftats genom Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och samstämmighet bland de lärda.
 
-Resenären får stryka över sockarna under tre dagar och tre nätter [72 timmar]. Tiden börjar när denne stryker över dem för första gången.
+Resenären får stryka över sockarna under tre dagar och tre nätter [72 timmar]. Tiden börjar när personen stryker över dem för första gången.
 
 Därför har de lärde inom hanbaliskolan sagt att om man tar på sina lädersockar när man är i sin hemstad, blir oren när man fortfarande är hemma och sedan beger sig ut på en resa och inte stryker över dem förrän man har börjat denna resa – då stryker man i detta fall som en resenär gör. Detta är bevis för svagheten i åsikten att perioden börjar då den första renheten förlorats efter att man tagit på dem.
 
@@ -70,4 +70,4 @@ Bevisen säger enbart att om man tar av det som man har strukit över, då går 
 Och Allāh är Beviljaren av framgång.
 
 
-[^1]: *at-Tirmithi* och *an-Nasā’ī*
+[^1]: *at-Tirmid̲hī* och *an-Nasā’ī*

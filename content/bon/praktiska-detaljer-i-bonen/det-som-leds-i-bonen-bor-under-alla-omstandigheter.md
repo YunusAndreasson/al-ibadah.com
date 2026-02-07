@@ -1,5 +1,5 @@
 ---
-title: Det som leds i bönen bör under alla omständigheter recitera al-Fātihah
+title: Det som leds i bönen bör under alla omständigheter recitera al-Fātiḥah
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.

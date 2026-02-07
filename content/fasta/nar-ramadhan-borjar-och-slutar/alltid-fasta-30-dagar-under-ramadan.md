@@ -1,5 +1,5 @@
 ---
-title: Alltid fasta 30 dagar under ramadan
+title: Alltid fasta 30 dagar under ramaḍān
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om dem som alltid fastar 30 dagar under *ramaḍān*?
 
-**Svar:** Utförliga *aḥādīt̲h* från Allāhs sändebud, konsensus bland följeslagarna och de lärde som följde dem i rättfärdighet bevisar att månaden antingen är 29 eller 30 dagar. Den som då alltid fastar 30 dagar utan att titta efter månen har motsatt sig profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och konsensus. Denne har också introducerat något i religionen som Allāh inte har tillåtit. Allāh säger:
+**Svar:** Utförliga *aḥādīt̲h* från Allāhs sändebud, konsensus bland följeslagarna och de lärde som följde dem i rättfärdighet bevisar att månaden antingen är 29 eller 30 dagar. Den som då alltid fastar 30 dagar utan att titta efter månen har motsatt sig profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och konsensus. Personen har också introducerat något i religionen som Allāh inte har tillåtit. Allāh säger:
 
 > "Följ det som har uppenbarats för er av er Herre, och följ inte [andra som ni har tagit till] beskyddare i Hans ställe." [Koranen 7:3]
 

@@ -1,5 +1,5 @@
 ---
-title: Plockade hår innan ihrām-avsikten utformades
+title: Plockade hår innan iḥrām-avsikten utformades
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.

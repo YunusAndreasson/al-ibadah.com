@@ -26,7 +26,7 @@ Detta beror på att de har uppfyllt deras plikt mot Allāh och fruktat honom så
 
 Vi bör dock känna till att en liten avvikelse från riktningen mot *qiblah* inte skadar, enligt profetens – över honom vare Allāhs frid och välsignelser – ord till Medinaborna: Det som ligger mellan öst och väst är *qiblah*. Till dem som befinner sig norr om Ka'bah säger vi: Det som ligger mellan öst och väst är *qiblah* och samma sak säger vi till dem som befinner sig söder om den. Till dem som är öster eller väster om den säger vi: Det som ligger mellan nord och syd är *qiblah*. Att då avvika lite skadar inte.
 
-Här är en fråga som jag skulle vilja rikta uppmärksamhet mot: Om någon befinner sig i den Heliga moskén och kan se Ka'bah, då måste denne vända sig direkt mot Ka'bah och inte i den ungefärliga riktningen. Avviker denne från den exakta riktningen mot Ka'bah kommer denne inte att vara i riktning mot *qiblah*.
+Här är en fråga som jag skulle vilja rikta uppmärksamhet mot: Om någon befinner sig i den Heliga moskén och kan se Ka'bah, då måste personen vända sig direkt mot Ka'bah och inte i den ungefärliga riktningen. Avviker personen från den exakta riktningen mot Ka'bah kommer personen inte att vara i riktning mot *qiblah*.
 
 Jag ser många i den heliga Moskén som inte ber direkt i riktning mot Ka'bah. Man finner en lång utsträckt rad och man vet att många inte är i exakt riktning mot Ka'bah. Detta är ett allvarligt misstag som muslimer måste vara medvetna om och ställa till rätta. Ber de på detta sätt ber de mot en annan riktning än *qiblah*.
 

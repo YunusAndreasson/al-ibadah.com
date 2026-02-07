@@ -1,5 +1,5 @@
 ---
-title: Byta ihrām-kläderna för att tvätta dem
+title: Byta iḥrām-kläderna för att tvätta dem
 author: Ibn ´Abdullah Ibn Bāz
 source: 'Majmu'' Fatāwa Samāhatu ash-Shaykh Ibn Bāz – volym 6, sida 96, fatwa 45'
 categories:

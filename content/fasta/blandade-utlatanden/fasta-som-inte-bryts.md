@@ -11,12 +11,12 @@ original_id: 1414
 description: >-
   Fråga: Vad är en fortlöpande fasta för något och är det sunnah? Svar: En
   fortlöpande fasta är när någon inte bryter fastan under två dagar. Således
-  fortsätter denne att fasta under två på va...
+  fortsätter personen att fasta under två på va...
 ---
 
 **Fråga:** Vad är en fortlöpande fasta för något och är det *sunnah*?
 
-**Svar:** En fortlöpande fasta är när någon inte bryter fastan under två dagar. Således fortsätter denne att fasta under två på varandra efterföljande dagar. Sannerligen har profeten – över honom vare Allāhs frid och välsignelser – förbjudit detta och sagt: "*Den som vill fortsätta att fasta [efter solnedgången], låt denne fortsätta [enbart] till sen natt precis före gryningen*." [^1]
+**Svar:** En fortlöpande fasta är när någon inte bryter fastan under två dagar. Således fortsätter personen att fasta under två på varandra efterföljande dagar. Sannerligen har profeten – över honom vare Allāhs frid och välsignelser – förbjudit detta och sagt: "*Den som vill fortsätta att fasta [efter solnedgången], låt personen fortsätta [enbart] till sen natt precis före gryningen*." [^1]
 
 Därför är en fortlöpande fasta till sen natt innan gryningen något som anses tillåtet men den anses inte vara föreskriven. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har uppmuntrat att skyndsamt bryta fastan. Han har sagt: "*Folket kommer inte att sluta med att hålla sig till gott så länge de skyndar sig till att bryta fastan*." [^2]
 

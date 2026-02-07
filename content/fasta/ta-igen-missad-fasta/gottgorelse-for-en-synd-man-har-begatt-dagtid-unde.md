@@ -1,5 +1,5 @@
 ---
-title: Gottgörelse för en synd man har begått dagtid under ramadan
+title: Gottgörelse för en synd man har begått dagtid under ramaḍān
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.

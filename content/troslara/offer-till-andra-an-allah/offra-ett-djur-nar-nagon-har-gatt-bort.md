@@ -22,9 +22,9 @@ Får vi ta kon och slakta den, enligt våra islamiska ritualer, och dela ut köt
 
 **Svar:** Att dyrka andra eller annat än Allāh i form av att svära eder, eller att söka hjälp ifrån andra än Allāh [som de avlidna, frånvarande, träd eller liknande] är *s̲hirk*.
 
-De som vägrade att ta ko-köttet, som slaktats för den avlidne som inte dyrkade Allāh, gjorde det rätta. Det finns inget skadligt i att ta levande kor och slakta dem enligt islamiska metoder, utan att avse att slakta den vid dennes bortgång. Detta anses inte vara att ta del av deras innovation. Dyrkade denne andra än Allāh bör det inte avses vara välgörenhet för dennes räkning.
+De som vägrade att ta ko-köttet, som slaktats för den avlidne som inte dyrkade Allāh, gjorde det rätta. Det finns inget skadligt i att ta levande kor och slakta dem enligt islamiska metoder, utan att avse att slakta den vid personens bortgång. Detta anses inte vara att ta del av deras innovation. Dyrkade personen andra än Allāh bör det inte avses vara välgörenhet för personens räkning.
 
-Om de avser att slakta samtidigt som dennes bortgång och slå följe med begravningståget, då skulle det inte vara acceptabelt att ta emot ett sådant djur. Det kommer anses vara en delaktighet i deras innovation.
+Om de avser att slakta samtidigt som personens bortgång och slå följe med begravningståget, då skulle det inte vara acceptabelt att ta emot ett sådant djur. Det kommer anses vara en delaktighet i deras innovation.
 
 Och det är endast Allāh som ger framgång. Må Allāh upphöja omnämnandet av Hans tjänare och sändebud Muḥammad samt göra honom, hans hushåll och följeslagare säkra från ont.
 

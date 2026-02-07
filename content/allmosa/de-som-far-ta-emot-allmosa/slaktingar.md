@@ -17,7 +17,7 @@ description: 'Fråga: Är det tillåtet inom islam att betala allmosa till nära
 
 > ”Välgörenhet given till en fattig är välgörenhet, men välgörenhet given till en släkting är två saker: välgörenhet och upprätthållande av släktband.”
 
-Berättad av al-Nasā’i, 2581; *at-Tirmithi*, 658; klassad som *Ṣaḥīḥ* av al-Albāni i *Sahīh al-Nasā’i*, 2420.
+Berättad av al-Nasā’i, 2581; *at-Tirmid̲hī*, 658; klassad som *Ṣaḥīḥ* av al-Albāni i *Sahīh al-Nasā’i*, 2420.
 
 Behöver du försörja dessa släktingar, men du ger dem din allmosa för att spara dina pengar, då är det inte tillåtet. Men om din rikedom inte är tillräcklig för att försörja dem, då är det inte fel om du ger dem delar av din allmosa.
 

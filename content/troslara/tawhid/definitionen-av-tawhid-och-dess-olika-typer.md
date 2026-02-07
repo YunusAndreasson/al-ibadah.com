@@ -1,5 +1,5 @@
 ---
-title: Definitionen av tawhīd och dess olika typer
+title: Definitionen av tawḥīd och dess olika typer
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
@@ -25,7 +25,7 @@ Således säger vi: Man uppnår inte *tawḥīd* före man:
 2. avvisar andras rätt att dyrkas vid sidan av Honom den Allsmäktige och
 3. bekräftar detta enbart om Honom. Ett förnekande innebär enbart en förnekelse och en bekräftelse hindrar inte att något annat räknas in i denna benämning.
 
-Säger du exempelvis: ”En viss person står”, då har du bekräftat att denne står men du har inte sagt att denne är den ende som står. Det skulle du ha gjort om du hade sagt: ”Det finns ingen som står utom Zaid.” Då förklarar du att Zaid är den ende som står, för du nekar ju att något står vid hans sida.
+Säger du exempelvis: ”En viss person står”, då har du bekräftat att personen står men du har inte sagt att personen är den ende som står. Det skulle du ha gjort om du hade sagt: ”Det finns ingen som står utom Zaid.” Då förklarar du att Zaid är den ende som står, för du nekar ju att något står vid hans sida.
 
 Detta är att uppnå sann *tawḥīd*, vilket innebär att vi säger att *tawḥīd* inte är *tawḥīd* om den inte innefattar både förnekelse och bekräftelse.
 
@@ -105,11 +105,11 @@ Det var i denna kategori av *tawḥīd* som månggudadyrkarna gick vilse och det
 
 Detta [*tawhīd[^1] al-uluhiyyah*[^3]] är vad alla sändebud har sänts med och vad som har uppenbarats i alla Skrifter tillsammans med de andra båda formerna som är *tawhīd[^1] ar-rububiyyah*[^2] och *tawhīd[^1] as-asmā' was-sifāt'*[^4]. I de flesta fall var sändebuden sysselsatta med att reformera deras folk i denna form av *tawḥīd* – *tawhīd[^1] al-uluhiyyah*[^3]. 
 
-Detta beror på att människan inte får rikta [sin] dyrkan mot någon annan än Allāh som mot en ängel nära Honom, ett sändebud som Han har sänt, mot en rättfärdig *walī* eller mot något annat skapat. Dyrkan är enbart giltig om den är för Allāh den Allsmäktige. Den som bryter mot denna *tawḥīd* är en månggudadyrkare[^5]. Denne är en icke-troende även om denne bekräftar *tawhīd[^1] ar-rububiyyah*[^2] och *tawhīd[^1] as-asmā' was-sifāt'*[^4].
+Detta beror på att människan inte får rikta [sin] dyrkan mot någon annan än Allāh som mot en ängel nära Honom, ett sändebud som Han har sänt, mot en rättfärdig *walī* eller mot något annat skapat. Dyrkan är enbart giltig om den är för Allāh den Allsmäktige. Den som bryter mot denna *tawḥīd* är en månggudadyrkare[^5]. Personen är en icke-troende även om personen bekräftar *tawhīd[^1] ar-rububiyyah*[^2] och *tawhīd[^1] as-asmā' was-sifāt'*[^4].
 
 Tror man således på att Allāh är Skaparen, den ende Ägaren och Den som styr skapelsens ordning samt att Han ensam har rätten till Sina namn och egenskaper men man dyrkar någon annan jämsides Honom, då är ens bekräftelse av *tawhīd[^1] ar-rububiyyah*[^2] och *as-asmā’ was-sifāt’*[^4] inte till någon nytta.
 
-Låt oss anta att någon bekräftar tron på *tawhīd[^1] ar-rububiyyah*[^2] och *tawhīd[^1] as-asmā' was-sifāt'*[^4] men går till en grav och dyrkar den som ligger begravd i den eller svär en ed vid den begravde för att komma närmare denne, då är han en månggudadyrkare[^5] och icke-troende. Förhåller det sig så är hans vistelse för evigt i Helvetet. Allāh den Välsignades, den Upphöjdes säger:
+Låt oss anta att någon bekräftar tron på *tawhīd[^1] ar-rububiyyah*[^2] och *tawhīd[^1] as-asmā' was-sifāt'*[^4] men går till en grav och dyrkar den som ligger begravd i den eller svär en ed vid den begravde för att komma närmare personen, då är han en månggudadyrkare[^5] och icke-troende. Förhåller det sig så är hans vistelse för evigt i Helvetet. Allāh den Välsignades, den Upphöjdes säger:
 
 > ”Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden ska bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [Koranen 5:72]
 
@@ -139,7 +139,7 @@ Och här säger Allāh:
 
 > "Befatta dig inte med det som du inte riktigt vet; ditt öra och ditt öga och ditt hjärta ska [alla en Dag] tillfrågas om detta." [Koranen 17:36]
 
-Den som då jämför dessa båda händer med de skapade varelsernas händer har motsatt sig Allāhs den Upphöjdes ord: ”*Ingenting är som Han*.” [^6] Denne har inte lytt Allāhs den Upphöjdes ord: ”*Och gör inte Gud till föremål för jämförelser!*” [^7] Den som beskriver dem och säger att de är på ett visst sätt, på vilket sätt det än må vara, har sagt något om Allāh som denne inte har någon kunskap om.
+Den som då jämför dessa båda händer med de skapade varelsernas händer har motsatt sig Allāhs den Upphöjdes ord: ”*Ingenting är som Han*.” [^6] Personen har inte lytt Allāhs den Upphöjdes ord: ”*Och gör inte Gud till föremål för jämförelser!*” [^7] Den som beskriver dem och säger att de är på ett visst sätt, på vilket sätt det än må vara, har sagt något om Allāh som personen inte har någon kunskap om.
 
 Vi lägger fram ytterligare ett exempel om egenskaperna. Detta exempel rör Allāhs *istawā* över Hans tron. Allāh den Upphöjdes har bekräftat att Han har rest sig över tronen. Detta gör Han på sju platser i Koranen och alla gånger använder Han ordet ”*istawā*” och orden ”över tronen”. Går vi till det arabiska språket ser vi att när *istawā* nämns med *'ala* förstås enbart resning och upphöjelse.
 

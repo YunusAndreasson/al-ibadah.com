@@ -1,5 +1,5 @@
 ---
-title: Kvinnor som bär sockar under ihrām
+title: Kvinnor som bär sockar under iḥrām
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.

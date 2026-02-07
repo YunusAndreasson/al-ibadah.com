@@ -23,18 +23,18 @@ description: >-
 Klädseln
 
 1. När du står upp för att be, vänd dig i riktning mot Ka’bah var du än befinner dig, både i den obligatoriska och i den frivilliga bönen. Detta är en av bönens pelare, som bönen inte är giltig utan.
-2. Skyldigheten att vända sig i denna riktning gäller inte för den som befinner sig i en krigssituation eller strider intensivt när denne ber rädslebönen[^1]. Det gäller heller inte för den som inte har möjlighet att göra det; likt den som är sjuk eller någon som färdas i ett fartyg, en bil eller ett plan om denne är rädd för att tiden kommer att rinna ut [innan denne når en plats där denne kan finna den korrekta riktningen]. Det gäller heller inte den som ber en bön som är frivillig eller *witr* när denne befinner sig på ett riddjur eller liknande, men det är rekommenderat att denne vänder sig mot *qiblah* om denne har möjlighet att göra så när denne uttalar *takbīr* i början av bönen. Därefter kan denne vara vänd i vilken riktning som helst.
+2. Skyldigheten att vända sig i denna riktning gäller inte för den som befinner sig i en krigssituation eller strider intensivt när personen ber rädslebönen[^1]. Det gäller heller inte för den som inte har möjlighet att göra det; likt den som är sjuk eller någon som färdas i ett fartyg, en bil eller ett plan om personen är rädd för att tiden kommer att rinna ut [innan personen når en plats där personen kan finna den korrekta riktningen]. Det gäller heller inte den som ber en bön som är frivillig eller *witr* när personen befinner sig på ett riddjur eller liknande, men det är rekommenderat att personen vänder sig mot *qiblah* om personen har möjlighet att göra så när personen uttalar *takbīr* i början av bönen. Därefter kan personen vara vänd i vilken riktning som helst.
 3. Dem som kan se Ka’bah måste rikta sig mot den, de som inte kan se den måste vända sig i dess riktning.
 
 Om att inte vara vänd mot Ka’bah i bönen av misstag
 
-1. Ber någon utan att vara vänd mot *qiblah*, med anledning av moln [som inte låter denne ta reda på riktningen från solens position] eller någon annan anledning, efter att denne har gjort sitt bästa för att ta reda på den rätta riktningen, då är dennes bön giltig och den behöver inte upprepas.
-2. Om någon som denne litar på kommer och berättar om den korrekta riktningen samtidigt som denne ber, då måste denne snabbt vända sig i den riktningen och bönen är giltig.
+1. Ber någon utan att vara vänd mot *qiblah*, med anledning av moln [som inte låter personen ta reda på riktningen från solens position] eller någon annan anledning, efter att personen har gjort sitt bästa för att ta reda på den rätta riktningen, då är personens bön giltig och den behöver inte upprepas.
+2. Om någon som personen litar på kommer och berättar om den korrekta riktningen samtidigt som personen ber, då måste personen snabbt vända sig i den riktningen och bönen är giltig.
 
 ***Qiyām*** **[att stå upp i bönen]**
 
-1. Det är obligatoriskt att be stående. Detta är en pelare [väsentlig del av bönen] utom för den som ber rädslebönen[^1] eller när intensiva strider pågår, då är det tillåtet att be under ritt; som är sjuk och inte har möjlighet att stå, som bör be sittande om denne har möjlighet annars liggandes på sin sida; som ber en frivillig bön, som får bes när denne rider eller sitter och denne markerar bugningen och nedfallandet med huvudet. Den som är sjuk får också göra detta och denne gör nedfallan lägre än bugningen.
-2. Den som ber sittande får inte placera något upprest på marken för att nedfalla mot det. Som vi har nämnt bör denne i stället göra nedfallan lägre än bugningen om denne inte har möjlighet att röra marken direkt med sin panna.
+1. Det är obligatoriskt att be stående. Detta är en pelare [väsentlig del av bönen] utom för den som ber rädslebönen[^1] eller när intensiva strider pågår, då är det tillåtet att be under ritt; som är sjuk och inte har möjlighet att stå, som bör be sittande om personen har möjlighet annars liggandes på sin sida; som ber en frivillig bön, som får bes när personen rider eller sitter och personen markerar bugningen och nedfallandet med huvudet. Den som är sjuk får också göra detta och personen gör nedfallan lägre än bugningen.
+2. Den som ber sittande får inte placera något upprest på marken för att nedfalla mot det. Som vi har nämnt bör personen i stället göra nedfallan lägre än bugningen om personen inte har möjlighet att röra marken direkt med sin panna.
 
 Böner ombord på ett fartyg eller flygplan
 
@@ -65,7 +65,7 @@ Det är obligatoriskt att be i riktning mot och vara nära en *sutrah*
 
 Hur hög bör en *sutrah* vara?
 
-1. En *sutrah* bör vara ungefär en hand eller två ovan marken. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*När någon placerar något som pinnen vid sadelns slut framför sig bör denne be och inte oroa sig om någon som passerar framför den*.” Denna *ḥadīt̲h* visar att en linje på marken inte är tillräckligt och den *ḥadīt̲h* som har återberättats om det är svag.
+1. En *sutrah* bör vara ungefär en hand eller två ovan marken. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*När någon placerar något som pinnen vid sadelns slut framför sig bör personen be och inte oroa sig om någon som passerar framför den*.” Denna *ḥadīt̲h* visar att en linje på marken inte är tillräckligt och den *ḥadīt̲h* som har återberättats om det är svag.
 2. Man bör rikta sig direkt mot sin *sutrah* då detta är kommenderingens uppenbara innebörd, att man ska be mot sin *sutrah*. Det är fel att gå lite till höger eller till vänster så att man inte är direkt riktad mot den.
 3. Det är tillåtet att be i riktning mot en stav eller något liknande nedstucket i marken, eller ett träd, en pelare, ens fru som ligger ned i sängen under ett täcke eller ett djur, även om det är en kamel.
 
@@ -75,8 +75,8 @@ Förbud mot att be i riktning mot gravar
 
 Förbud mot att gå framför någon som ber även om det är i den Heliga Moskén i Mecka
 
-1. Det är inte tillåtet att gå framför någon som ber om det finns en *sutrah* framför denne [det är inte tillåtet att komma mellan denne och dennes *sutrah*]. Det spelar ingen roll om detta är i den Heliga Moskén eller i någon annan moské, detsamma gäller alla i fråga om att det inte är tillåtet [att gå framför den som ber]. Detta med anledning av den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*Om den som passerar framför någon som ber visste hur stor denna synd var, att stå i fyrtio [år] skulle vara bättre för denne än att passera framför någon som ber*.” Detta avser att passera mellan denne och platsen för dennes nedfallan. Den *ḥadīt̲h* som talar om profetens – över honom vare Allāhs frid och välsignelser – bön i *Hāshiyat al-Matāf* utan en *sutrah* och med personer som gick framför honom är inte autentisk, även om den inte säger att de gick mellan honom och platsen för hans nedfallan. Den som nedfaller måste hindra den som vill passera framför, även om det är i den Heliga Moskén [i Mecka].
-2. Den som ber mot en *sutrah* får inte låta någon passera framför. Detta med anledning av den *ḥadīt̲h* som har citerats ovan: ”*Låt ingen passera framför er*…” Och profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*När en av er ber mot något som är en sutrah[^5] mellan denne och folket och någon vill passera framför, då bör denne trycka till honom i bröstkorgen och avvisa honom så mycket han kan*.” Enligt en annan rapport: ”… *denne bör stoppa honom två gånger men om han insisterar bör denne strida mot honom för han är en djävul*.”
+1. Det är inte tillåtet att gå framför någon som ber om det finns en *sutrah* framför personen [det är inte tillåtet att komma mellan personen och personens *sutrah*]. Det spelar ingen roll om detta är i den Heliga Moskén eller i någon annan moské, detsamma gäller alla i fråga om att det inte är tillåtet [att gå framför den som ber]. Detta med anledning av den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*Om den som passerar framför någon som ber visste hur stor denna synd var, att stå i fyrtio [år] skulle vara bättre för personen än att passera framför någon som ber*.” Detta avser att passera mellan personen och platsen för personens nedfallan. Den *ḥadīt̲h* som talar om profetens – över honom vare Allāhs frid och välsignelser – bön i *Hāshiyat al-Matāf* utan en *sutrah* och med personer som gick framför honom är inte autentisk, även om den inte säger att de gick mellan honom och platsen för hans nedfallan. Den som nedfaller måste hindra den som vill passera framför, även om det är i den Heliga Moskén [i Mecka].
+2. Den som ber mot en *sutrah* får inte låta någon passera framför. Detta med anledning av den *ḥadīt̲h* som har citerats ovan: ”*Låt ingen passera framför er*…” Och profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*När en av er ber mot något som är en sutrah[^5] mellan personen och folket och någon vill passera framför, då bör personen trycka till honom i bröstkorgen och avvisa honom så mycket han kan*.” Enligt en annan rapport: ”… *personen bör stoppa honom två gånger men om han insisterar bör personen strida mot honom för han är en djävul*.”
 
 Stiga fram för att hindra att någon passerar framför
 
@@ -88,13 +88,13 @@ Det som bryter bönen
 
 ***Niyyah*** **[intention]**
 
-1. Den som ber måste ha avsikt att be bönen som denne står [för att be]. Denne måste ha avsikt i sitt hjärta för att förrätta en bestämd bön, som den obligatoriska bönen förmiddagsbönen[^6] eller för eftermiddagsbönen; eller *sunnah* för dessa böner. Detta är ett krav eller en pelare [väsentlig del] i bönen. Att uttala avsikten med ord är dock en innovation som går emot profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Detta har inte föreslagits av någon av imamerna som vi följer.
+1. Den som ber måste ha avsikt att be bönen som personen står [för att be]. Personen måste ha avsikt i sitt hjärta för att förrätta en bestämd bön, som den obligatoriska bönen förmiddagsbönen[^6] eller för eftermiddagsbönen; eller *sunnah* för dessa böner. Detta är ett krav eller en pelare [väsentlig del] i bönen. Att uttala avsikten med ord är dock en innovation som går emot profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Detta har inte föreslagits av någon av imamerna som vi följer.
 
 ***Takbīr***
 
 1. Sedan börjar man bönen genom att säga: ”*Allāhu akbar*.” Detta är en väsentlig del av bönen då profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Nyckeln till bönen är att rena sig. Den träds in i genom takbīr[^3] och träds ur genom *taslīm*”, det vill säga när du säger *takbīr* blir vissa saker förbjudna och dessa förbud hävs när du säger *taslīm*.
 2. Man bör inte höja sin röst när han säger *takbīr*, utom om man agerar imam.
-3. Böneutroparen får förmedla *takbīr* ifrån imamen till folket om det finns ett behov av det, som när imamen är sjuk och dennes röst är svag eller för att det finns många dyrkande bakom.
+3. Böneutroparen får förmedla *takbīr* ifrån imamen till folket om det finns ett behov av det, som när imamen är sjuk och personens röst är svag eller för att det finns många dyrkande bakom.
 4. Den som följer imamen bör inte säga *takbīr* förrän imamen har avslutat sin *takbīr*.
 
 Hur man höjer sina händer

@@ -16,9 +16,9 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om *sutrah* och vilka är gränserna?
 
-**Svar:** *sutrah* i bönen är en understruken *sunnah*, utom för den som leds i bön, då det inte är föreskrivet för den som leds att ta en *sutrah*. Imamen som *sutrah* är tillräckligt för denne.
+**Svar:** *sutrah* i bönen är en understruken *sunnah*, utom för den som leds i bön, då det inte är föreskrivet för den som leds att ta en *sutrah*. Imamen som *sutrah* är tillräckligt för personen.
 
-Profeten – över honom vare Allāhs frid och välsignelser – tillfrågades om dess gränser och han sade: ”*Som bakdelen på ett riddjurs sadel*.” [^3] Detta är dock det högsta den får vara, för i en *ḥadīt̲h* rapporteras det: ”*Om någon ber, låt denne placera en sutrah[^1] framför sig även om det är en pil*.” [^4] I en annan *ḥadīt̲h* från Abū Dawūd har det rapporterats med en rapportörskedja som är *ḥasan*: "*Den som inte finner något drar en linje [i marken]*." [^5]
+Profeten – över honom vare Allāhs frid och välsignelser – tillfrågades om dess gränser och han sade: ”*Som bakdelen på ett riddjurs sadel*.” [^3] Detta är dock det högsta den får vara, för i en *ḥadīt̲h* rapporteras det: ”*Om någon ber, låt personen placera en sutrah[^1] framför sig även om det är en pil*.” [^4] I en annan *ḥadīt̲h* från Abū Dawūd har det rapporterats med en rapportörskedja som är *ḥasan*: "*Den som inte finner något drar en linje [i marken]*." [^5]
 
 Hafiz Ibn Hajar säger i *Bulūg̲h al-Marām*: De som påstår att den är *mudtarib*[^2] har inte rätt. Det finns inga svagheter i denna *ḥadīt̲h* som fordrar att man avvisar den.
 

@@ -16,7 +16,7 @@ description: 'Fråga: Jag har märkt att vissa unga muslimer fastar utan att de 
 
 **Svar:** Den som måste be men som avsiktligen överger bönen och förnekar att den är en skyldighet har gjort sig skyldig till otro. Detta enligt konsensus bland de lärde. Enligt den mest korrekta åsikten bland de lärde gäller samma sak för den som överger bönen på grund av lathet.
 
-När någon döms till att vara icke-troende, då går dennes fasta och alla annan dyrkan om intet. Allāh den Upphöjde har sagt:
+När någon döms till att vara icke-troende, då går personens fasta och alla annan dyrkan om intet. Allāh den Upphöjde har sagt:
 
 > ”Om de hade satt medhjälpare vid Hans sida skulle helt visst allt vad de åstadkommit ha gått om intet.” [Koranen 6:88]
 

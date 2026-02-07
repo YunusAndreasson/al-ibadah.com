@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Blir bönen ogiltig om man rör sig mycket under den?
 
-**Svar:** Det är *sunnah* att koncentrera sig på sin bön med passande ödmjukhet, kropp och själ oavsett om det är en obligatorisk eller frivillig bön. Allāh säger: "*Det ska gå de troende väl i händer; de som ber med ödmjukt sinne*." [^2] Denne måste be på ett lugnt och värdigt sätt. Detta är en av de viktigaste pelarna och skyldigheterna i bönen.
+**Svar:** Det är *sunnah* att koncentrera sig på sin bön med passande ödmjukhet, kropp och själ oavsett om det är en obligatorisk eller frivillig bön. Allāh säger: "*Det ska gå de troende väl i händer; de som ber med ödmjukt sinne*." [^2] Personen måste be på ett lugnt och värdigt sätt. Detta är en av de viktigaste pelarna och skyldigheterna i bönen.
 
 Profeten – över honom vare Allāhs frid och välsignelser – sade till den som bad dåligt och som inte var lugn och värdig i sin bön: "*Gå tillbaka och be för du har inte bett*." Detta gjorde han tre gånger. Sedan sade mannen: "*Allāhs sändebud, vid Den som har sänt dig med sanningen, jag kan inte göra bättre – lär mig*." Profeten – över honom vare Allāhs frid och välsignelser – sade:
 

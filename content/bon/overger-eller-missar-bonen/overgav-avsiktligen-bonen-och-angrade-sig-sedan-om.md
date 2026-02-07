@@ -9,13 +9,13 @@ categories:
   - Missad bön
 original_id: 1153
 description: 'Fråga: Om någon avsiktligen övergav bönen och sedan ångrade sig, bör
- denne då ta igen de missade bönerna? Svar: De lärde har olika åsikter om någon
+ personen då ta igen de missade bönerna? Svar: De lärde har olika åsikter om någon
  som avsiktligen överger bönen för att sedan ...'
 ---
 
-**Fråga:** Om någon avsiktligen övergav bönen och sedan ångrade sig, bör denne då ta igen de missade bönerna?
+**Fråga:** Om någon avsiktligen övergav bönen och sedan ångrade sig, bör personen då ta igen de missade bönerna?
 
-**Svar:** De lärde har olika åsikter om någon som avsiktligen överger bönen för att sedan ångra sig inför Allāh och återvända till Honom. Behöver denne ta igen alla böner? I denna fråga har de två olika åsikter.
+**Svar:** De lärde har olika åsikter om någon som avsiktligen överger bönen för att sedan ångra sig inför Allāh och återvända till Honom. Behöver personen ta igen alla böner? I denna fråga har de två olika åsikter.
 
 Jag anser att den starkaste åsikten är den som *s̲hayk̲h ul-islām* ibn Taymiyyah – må Allāh vara honom nådig – har föredragit. Den är att om någon avsiktligen överger en bön tills den angivna tiden har gått ut, då skulle det inte gör honom någon nytta att ta igen den. Detta beror på att en dyrkan som är bestämd till en viss tidpunkt måste göras vid just den tidpunkten. Precis som den inte är giltig före den tiden är den heller inte giltig efter.
 

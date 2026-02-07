@@ -1,5 +1,5 @@
 ---
-title: Flera ‘eid-böner i samma stad
+title: Flera ´eid-böner i samma stad
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.

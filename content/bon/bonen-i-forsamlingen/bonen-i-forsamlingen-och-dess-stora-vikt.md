@@ -27,21 +27,21 @@ I Allāhs sändebuds – över honom vare Allāhs frid och välsignelser – *su
 
 Han har även sagt:
 
-> ”Den som hörde kallet [till bön] och inte besvarade det, det finns det ingen bön för denne om denne inte har en ursäkt.” [*Ibn Mājah* 793]
+> ”Den som hörde kallet [till bön] och inte besvarade det, det finns det ingen bön för personen om personen inte har en ursäkt.” [*Ibn Mājah* 793]
 
 Profeten – över honom vare Allāhs frid och välsignelser – sade även till en blind man som sökte tillstånd för att be i sitt hem: ”*Hör du kallet [till bön]?*” Han svarade: ”*Ja*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Besvara det då*.” [^1] Ibn Mas'ud har sagt:
 
-> ”Ni har sett oss [följeslagarna] med Allāhs sändebud. Ingen undviker den [bönen i församlingen] utom en hycklare, vars hyckleri är välkänt, eller en invalid. En man skulle föras fram stödd av två män för att få denne att stå i raden.” [*Muslim* 654]
+> ”Ni har sett oss [följeslagarna] med Allāhs sändebud. Ingen undviker den [bönen i församlingen] utom en hycklare, vars hyckleri är välkänt, eller en invalid. En man skulle föras fram stödd av två män för att få personen att stå i raden.” [*Muslim* 654]
 
 Den korrekta åsikten fordrar att det är en skyldighet. Detta beror på att det muslimska samfundet är ett samfund och enhet kommer inte att uppnås utan att de samlas för att utföra en dyrkan och den största, bästa och mest bekräftade handlingen är bönen. Därför måste det muslimska samfundet samlas för denna bön.
 
 De lärde skiljs åt efter att ha enats om att den är den mest bekräftade formen av dyrkan och den största handlingen av lydnad. De har olika åsikter om det är ett villkor för bönens giltighet eller om bönen är giltig utan den, även om det är en synd. Och det finns även andra meningsskiljaktigheter.
 
-Den korrekta åsikten är att den är en skyldighet men inte ett villkor för att den ska vara giltig. Men den som överger den är en syndare om det inte finns någon laga ursäkt för denne.
+Den korrekta åsikten är att den är en skyldighet men inte ett villkor för att den ska vara giltig. Men den som överger den är en syndare om det inte finns någon laga ursäkt för personen.
 
 Bevisen för att den inte är ett villkor för att bönen ska vara giltig är att profeten – över honom vare Allāhs frid och välsignelser – förklarade att bön i församlingen är bättre än bön ensam [^2]. Att bön i församling är bättre än bön ensam är ett bevis för att det finns förtjänst [även] i bön ensam. Så skulle det inte vara utom om den bönen var giltig.
 
-I vilket fall som helst måste varje förståndig vuxen muslimsk man närvara vid bönen i församlingen, oavsett om denne är på resa eller hemma.
+I vilket fall som helst måste varje förståndig vuxen muslimsk man närvara vid bönen i församlingen, oavsett om personen är på resa eller hemma.
 
 
 [^1]: *Muslim* 653

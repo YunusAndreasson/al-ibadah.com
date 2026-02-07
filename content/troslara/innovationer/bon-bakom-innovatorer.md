@@ -18,6 +18,6 @@ description: >-
 
 **Svar:** Den *ḥadīt̲h* som frågeställaren nämner: ”*Be bakom varje rättfärdig person och varje omoralisk person*” är grundlös med denna ordalydelse. Men det råder ingen tvekan om att bön bakom en person som fruktar Allāh mer och som är starkare i religionen är bättre än bön bakom den som inte tar Allāhs religion på allvar.
 
-Innovatörer kan delas upp i två kategorier: De vars innovationer gör dem skyldiga till otro och de vars innovationer inte gör det. Bön bakom den förstnämnde är inte giltig då denne inte är troende. För den sistnämnda har de lärde olika åsikter om bön bakom syndare, mest korrekt är dock att det är tillåtet. Detta gäller så länge det inte finns någon nytta att uppnå med att överge bönen bakom honom, som om det skulle leda till att han undviker en synd. I detta fall är det bättre att inte be bakom honom.
+Innovatörer kan delas upp i två kategorier: De vars innovationer gör dem skyldiga till otro och de vars innovationer inte gör det. Bön bakom den förstnämnde är inte giltig då personen inte är troende. För den sistnämnda har de lärde olika åsikter om bön bakom syndare, mest korrekt är dock att det är tillåtet. Detta gäller så länge det inte finns någon nytta att uppnå med att överge bönen bakom honom, som om det skulle leda till att han undviker en synd. I detta fall är det bättre att inte be bakom honom.
 
 

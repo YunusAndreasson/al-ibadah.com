@@ -20,7 +20,7 @@ description: >-
 
 > ”[En gång i tiden] förmanade och varande Vi Adam, men han glömde [snart Våra ord]; och Vi fann hos honom ingen fasthet i föresatsen.” [Koranen 20:115]
 
-Detta enligt en av de två åsikterna hos de lärde. profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Jag är endast en människa. Jag glömmer som ni glömmer. Så om jag glömmer, påminn mig*.” Han har även sagt: ”*Den som sover och missar en bön, låt denne be den när denne kommer ihåg den*.” Denna typ av glömska kan inte tillskrivas Allāh, grundat på två sorters bevis: textuella och rationella. Det textuella beviset är versen i vilken Han om Moses säger:
+Detta enligt en av de två åsikterna hos de lärde. profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Jag är endast en människa. Jag glömmer som ni glömmer. Så om jag glömmer, påminn mig*.” Han har även sagt: ”*Den som sover och missar en bön, låt personen be den när personen kommer ihåg den*.” Denna typ av glömska kan inte tillskrivas Allāh, grundat på två sorters bevis: textuella och rationella. Det textuella beviset är versen i vilken Han om Moses säger:
 
 > ”[Moses] svarade: 'Kunskapen om [vad som hänt] dem finns hos min Herre, [upptecknad] i ett beslut; min Herre begår aldrig ett misstag och Han glömmer ingenting.” [Koranen 20:52]
 
@@ -46,7 +46,7 @@ Och Allāh säger om hycklarna:
 
 > ”De glömmer Gud och då ska Vi glömma dem. De har sannerligen, dessa hycklare, förhärdat sig i trots och synd.” [Koranen 9:67]
 
-Och i *Ṣaḥīḥ Muslim* [*Kitāb al-Zuhd wa’l-Raqā’iq*] återges att Abū Hurairah har sagt: ”*De sade: 'Allāhs sändebud, kommer vi att få se vår Herre på Återuppståndelsens Dag?*'” … och i denna *ḥadīt̲h* sägs det: ”*Allāh kommer att möta Sin [icke-troende] tjänare och säga: 'Trodde du att du skulle möta Mig?' Denne kommer att säga: 'Nej.' Han säger då: 'Jag kommer att glömma dig som du glömde Mig*.'”
+Och i *Ṣaḥīḥ Muslim* [*Kitāb al-Zuhd wa’l-Raqā’iq*] återges att Abū Hurairah har sagt: ”*De sade: 'Allāhs sändebud, kommer vi att få se vår Herre på Återuppståndelsens Dag?*'” … och i denna *ḥadīt̲h* sägs det: ”*Allāh kommer att möta Sin [icke-troende] tjänare och säga: 'Trodde du att du skulle möta Mig?' Personen kommer att säga: 'Nej.' Han säger då: 'Jag kommer att glömma dig som du glömde Mig*.'”
 
 Allāhs lämnande eller glömmande av någonting är en av Hans handlingar som sker genom Hans vilja och enligt Hans visdom. Allāh säger:
 
@@ -56,7 +56,7 @@ Allāhs lämnande eller glömmande av någonting är en av Hans handlingar som s
 
 > ”Och av [detta straff] har Vi efterlämnat spår som ett tydligt tecken.” [Koranen 29:35]
 
-Det finns många välkända texter som bekräftar att Allāh lämnar eller överger saker. Texterna bekräftar även Hans andra handlingar som rör Hans vilja. Detta vittnar om perfektionen i Hans kraft och makt. Det sätt som Han utför dessa handlingar på är inte på det sätt som Hans skapelse gör, även om de delar samma grundläggande mening. Detta är välkänt bland *ahl al-sunnah*[^1].
+Det finns många välkända texter som bekräftar att Allāh lämnar eller överger saker. Texterna bekräftar även Hans andra handlingar som rör Hans vilja. Detta vittnar om perfektionen i Hans kraft och makt. Det sätt som Han utför dessa handlingar på är inte på det sätt som Hans skapelse gör, även om de delar samma grundläggande mening. Detta är välkänt bland *ahlus-sunnah*[^1].
 
 [^1]: Väg eller sätt… Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnahn tjänar som en förklaring av Koranen.
 

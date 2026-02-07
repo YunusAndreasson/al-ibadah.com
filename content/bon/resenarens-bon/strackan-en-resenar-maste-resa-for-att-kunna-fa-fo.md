@@ -32,9 +32,9 @@ Man slår ihop bönen om det blåser en kall och hård vintervind som skulle gö
 
 De sade: "*Och vad avsåg han [därigenom]?*" Han sade: "*Han avsåg att folket inte skulle utsättas för svårigheter*." Detta avser att de inte skulle utsättas för svårigheter genom att inte slå ihop bönerna.
 
-Detta är rättesnöret. När någon person får svårigheter genom att inte slå ihop bönerna så får denne slå ihop dem. Finns det ingen svårighet för denne, då får denne inte slå ihop dem. Men svårigheter förväntas om man inte slår ihop bönerna när man reser. Därför får resenären slå ihop bönerna oavsett om denne reser eller har stannat på vägen [går ett uppehåll under resan]. Men om denne reser är det bäst att slå ihop bönerna och om denne har stannat någonstans på vägen är det bäst att inte slå ihop dem.
+Detta är rättesnöret. När någon person får svårigheter genom att inte slå ihop bönerna så får personen slå ihop dem. Finns det ingen svårighet för personen, då får personen inte slå ihop dem. Men svårigheter förväntas om man inte slår ihop bönerna när man reser. Därför får resenären slå ihop bönerna oavsett om personen reser eller har stannat på vägen [går ett uppehåll under resan]. Men om personen reser är det bäst att slå ihop bönerna och om personen har stannat någonstans på vägen är det bäst att inte slå ihop dem.
 
-Ett undantag gäller den som uppehåller sig i en stad där församlingsbönen hålls. I detta fall får denne inte slå ihop dem och inte heller förkorta dem. Men om denne missade en församlingsbön så får han förkorta dem utan att slå ihop dem, utom om denne behöver slå ihop dem.
+Ett undantag gäller den som uppehåller sig i en stad där församlingsbönen hålls. I detta fall får personen inte slå ihop dem och inte heller förkorta dem. Men om personen missade en församlingsbön så får han förkorta dem utan att slå ihop dem, utom om personen behöver slå ihop dem.
 
 [^1]: Rakah.
 

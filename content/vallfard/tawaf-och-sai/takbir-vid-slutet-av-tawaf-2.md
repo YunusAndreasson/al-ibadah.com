@@ -1,5 +1,5 @@
 ---
-title: Takbīr vid slutet av tawāf
+title: Takbīr vid slutet av ṭawāf
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
   al-Lajnah al-Dā’imah li’l-Buhūth al-‘Ilmiyyah wa’l-Iftā’ – Fatāwa al-Lajnah,
@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** All lovprisan tillhör Allāh. *ṭawāf* runt Ka'bah är en dyrkan och den grundläggande principen om dyrkan är att den utförs enligt hur den har föreskrivits i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Det har återberättats att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – brukade säga *takbīr* under *ṭawāf* varje gång han kom i linje med den svarta stenen.
 
-Utan tvekan hamnar Allāhs tjänare i linje med den svarta stenen vid slutet av det sjunde varvet. Därför är det *sunnah* att denne säger *takbīr*, precis som det är *sunnah* för denne att säga det i början av varje varv när denne kommer i linje med den. På detta sätt följer denne Allāhs sändebuds – över honom vare Allāhs frid och välsignelser – exempel. Finns det möjlighet bör denne även röra den svarta stenen.
+Utan tvekan hamnar Allāhs tjänare i linje med den svarta stenen vid slutet av det sjunde varvet. Därför är det *sunnah* att personen säger *takbīr*, precis som det är *sunnah* för personen att säga det i början av varje varv när personen kommer i linje med den. På detta sätt följer personen Allāhs sändebuds – över honom vare Allāhs frid och välsignelser – exempel. Finns det möjlighet bör personen även röra den svarta stenen.
 
 Och Allāh är källan till all styrka. Må Allāh sända välsignelser och frid över vår profet Muḥammad.
 

@@ -19,13 +19,13 @@ description: >-
 
 **Svar:** Om man utser någon som vallfärdar för ens räkning, då finns det två olika möjligheter. Den första är för en obligatorisk vallfärd och den andra för en frivillig.
 
-Om det gäller en obligatorisk vallfärd, då är det inte tillåtet att utse någon annan som utföra vallfärden och *´umrah*[^1], utom om denne själv inte kan ta sig till Ka’bah med anledning av en ihållande sjukdom [som denne inte återhämtar sig från], hög ålder eller något liknande. Finns det hopp om att denne kan återhämta sig från sjukdomen, då bör denne vänta tills Allāh botar och då vallfärda själv. Finns det inget som hindrar denne från att vallfärda själv, då är det inte tillåtet att utse någon annan som utför den. Anledningen är att denne personligen har ombetts att vallfärda. Allāh den Upphöjde har sagt:
+Om det gäller en obligatorisk vallfärd, då är det inte tillåtet att utse någon annan som utföra vallfärden och *´umrah*, utom om personen själv inte kan ta sig till Ka’bah med anledning av en ihållande sjukdom [som personen inte återhämtar sig från], hög ålder eller något liknande. Finns det hopp om att personen kan återhämta sig från sjukdomen, då bör personen vänta tills Allāh botar och då vallfärda själv. Finns det inget som hindrar personen från att vallfärda själv, då är det inte tillåtet att utse någon annan som utför den. Anledningen är att personen personligen har ombetts att vallfärda. Allāh den Upphöjde har sagt:
 
 > ”Vallfärden till denna Helgedom är en plikt mot Gud för var och en som har möjlighet att genomföra den.” [Koranen 3:97]
 
 Avsikten med dyrkan är att man ska utföra den […] Det är ju så att den som utser någon annan inte uppnår den stora innebörden som dyrkan har föreskrivits för.
 
-Den andra situationen gäller om det är en frivillig vallfärd, vilket innebär att denne redan har utfört den obligatoriska vallfärden och denne vill utse någon annan som utför vallfärden och *´umrah*. I detta fall är de lärde oeniga. Vissa tillåter och vissa förbjuder. Det som jag anser vara mest korrekt är att det är förbjudet att utse någon till att utföra vallfärden och *´umrah*, även om de är frivilliga. Anledningen är att den grundläggande principen om dyrkan är att den ska utföras av personen i fråga.
+Den andra situationen gäller om det är en frivillig vallfärd, vilket innebär att personen redan har utfört den obligatoriska vallfärden och personen vill utse någon annan som utför vallfärden och *´umrah*. I detta fall är de lärde oeniga. Vissa tillåter och vissa förbjuder. Det som jag anser vara mest korrekt är att det är förbjudet att utse någon till att utföra vallfärden och *´umrah*, även om de är frivilliga. Anledningen är att den grundläggande principen om dyrkan är att den ska utföras av personen i fråga.
 
 På samma sätt utser man inte någon annan som fastar åt en. Men om någon som avlider då han eller hon är skyldig obligatorisk fasta, då fastar hans förmyndare eller efterträdare fastar åt honom. Det är på samma sätt när det gäller vallfärden, det är en dyrkan som man utför med sin kropp. Pengar som getts till någon annan är inte dess avsikt.
 
@@ -33,5 +33,4 @@ Då det är en kroppslig dyrkan som man utför med sin kropp är det inte rätt 
 
 Utgår vi från detta uttalande blir det en uppmaning till rikt folk som kan vallfärda själva. Det finns många som låter flera år passera innan de beger sig till Mecka. De gör detta och litar till att de kan utse någon annan som vallfärdar åt dem varje år. Därmed missar de vallfärden då de utser någon annan som vallfärdar för deras räkning.
 
-[^1]: Den lilla vallfärden.
 

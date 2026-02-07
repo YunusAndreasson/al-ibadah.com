@@ -9,12 +9,12 @@ categories:
 original_id: 1029
 description: 'Fråga: Vilket är utlåtandet om att betala allmosa till nära släktingar? Svar: Utlåtandet
  är att det inte är tillåtet för den som betalar allmosa att ge den till någon nära
- släkting som denne ä...'
+ släkting som personen ä...'
 ---
 
 **Fråga:** Vilket är utlåtandet om att betala allmosa till nära släktingar?
 
-**Svar:** Utlåtandet är att det inte är tillåtet för den som betalar allmosa att ge den till någon nära släkting som denne är skyldig att försörja om det kommer att leda till att denne inte ger sitt finansiella stöd till släktingen. Men om släktingen är någon som denne inte är skyldig att försörja, som exempelvis broderns barn, är det då tillåtet att betala allmosan till brodern om han är berättigad att ta emot.
+**Svar:** Utlåtandet är att det inte är tillåtet för den som betalar allmosa att ge den till någon nära släkting som personen är skyldig att försörja om det kommer att leda till att personen inte ger sitt finansiella stöd till släktingen. Men om släktingen är någon som personen inte är skyldig att försörja, som exempelvis broderns barn, är det då tillåtet att betala allmosan till brodern om han är berättigad att ta emot.
 
 På liknande sätt är det om det finns nära släktingar som inte behöver allmosa för finansiellt stöd, men som har skulder, då är det tillåtet att ordna upp deras skulder. Detta gäller även om släktingen är en far, son, dotter eller mor så länge skulden som de har inte beror på ett otillräckligt [ekonomiskt] stöd.
 

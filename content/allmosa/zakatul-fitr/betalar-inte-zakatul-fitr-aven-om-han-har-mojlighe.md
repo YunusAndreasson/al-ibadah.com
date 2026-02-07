@@ -1,5 +1,5 @@
 ---
-title: Utelämna zakātul-fitr trots möjlighet
+title: Utelämna zakātul-fiṭr trots möjlighet
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 categories:
   - Allmosa (Zakāh)

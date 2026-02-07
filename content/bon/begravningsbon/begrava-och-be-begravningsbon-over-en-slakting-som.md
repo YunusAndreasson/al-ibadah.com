@@ -22,7 +22,7 @@ description: >-
 
 Shaykhen sade som kommentar till denna *ḥadīt̲h*:
 
-En muslim får ta hand om begravningar av släktingar som har varit månggudadyrkare[^1]. Detta tar inte bort dennes motvilja mot deras *s̲hirk*. Ser ni inte att ’Ali i början vägrade att begrava sin far av den orsaken. Han sade: ”*Han avled som en månggudadyrkare*[^1].” Han tänkte att om han begravde honom när så var fallet skulle det räknas in i den förbjudna sortens vänskap som det refereras till i denna vers:
+En muslim får ta hand om begravningar av släktingar som har varit månggudadyrkare[^1]. Detta tar inte bort personens motvilja mot deras *s̲hirk*. Ser ni inte att ’Ali i början vägrade att begrava sin far av den orsaken. Han sade: ”*Han avled som en månggudadyrkare*[^1].” Han tänkte att om han begravde honom när så var fallet skulle det räknas in i den förbjudna sortens vänskap som det refereras till i denna vers:
 
 > ”Troende! Sök inte vänskap och skydd hos dem som har drabbats av Guds vrede! De hoppas inte på det eviga livet, liksom de som [helt] förnekar sanningen inte hoppas [få återse] dem som de har följt till graven.” [Koranen 60:13]
 
@@ -34,9 +34,9 @@ För mig ser det ut som att om en son begraver sin far eller mor är det den sis
 
 Om så är fallet, hur kan folk då be om förbarmande och förlåtelse i tidningar och magasin för en del icke-troende i dödsannonser som kostar! Låt den som har någon omsorg för det Nästkommande frukta Allāh.
 
-Det är inte föreskrivet att han tvättar eller sveper en icke-troende eller ber begravningsbön över denne, även om denne var en släkting. Profeten – över honom vare Allāhs frid och välsignelser – sade aldrig till ’Ali att han skulle göra det. Vore det tillåtet skulle han ha sagt så. Det är ju välkänt att profeten – över honom vare Allāhs frid och välsignelser – inte får försena förklaringen av någonting när informationen behövs. Denna åsikt har bland andra Hanbali.
+Det är inte föreskrivet att han tvättar eller sveper en icke-troende eller ber begravningsbön över personen, även om personen var en släkting. Profeten – över honom vare Allāhs frid och välsignelser – sade aldrig till ’Ali att han skulle göra det. Vore det tillåtet skulle han ha sagt så. Det är ju välkänt att profeten – över honom vare Allāhs frid och välsignelser – inte får försena förklaringen av någonting när informationen behövs. Denna åsikt har bland andra Hanbali.
 
-Det är inte föreskrivet att släktingar till en månggudadyrkare[^1] följer dennes begravning. Profeten – över honom vare Allāhs frid och välsignelser – gjorde ju inte det med sin farbror trots att han var den som var snällast och mest barmhärtig mot honom. Han till och med bad Allāh att göra hans straff till det lättaste straffet i Helvetet. I detta finns en lektion för dem som har drabbats av högmod på grund av sin härstamning och som inte strävar efter det Nästkommande hos Herren. Allāh talade verkligen sanning när Han sade:
+Det är inte föreskrivet att släktingar till en månggudadyrkare[^1] följer personens begravning. Profeten – över honom vare Allāhs frid och välsignelser – gjorde ju inte det med sin farbror trots att han var den som var snällast och mest barmhärtig mot honom. Han till och med bad Allāh att göra hans straff till det lättaste straffet i Helvetet. I detta finns en lektion för dem som har drabbats av högmod på grund av sin härstamning och som inte strävar efter det Nästkommande hos Herren. Allāh talade verkligen sanning när Han sade:
 
 > ”Den dag då basunen ljuder ska inga släktskapsband bestå mellan dem och de kommer inte att fråga efter varandra.” [Koranen 23:101]
 

@@ -1,5 +1,5 @@
 ---
-title: När de sex dagarna under shawwal bör fastas
+title: När de sex dagarna under s̲hawwāl bör fastas
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.

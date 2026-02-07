@@ -21,13 +21,13 @@ description: >-
 Att söka välsignelser delas i två kategorier:
 
 1. Önskan om välsignelse kommer från något tillåtet och välkänt, som den ädla Koranen. Allāh den Upphöjde säger: ”Även *detta är en välsignad Skrift, som Vi har sänt*.” [^2] En av Hans välsignelser är att den som agerade och utförde *djihād* efter den kommer att uppnå seger, och Allāh har räddat många samhällen från *s̲hirk*. En av Hans välsignelser är att recitation av en bokstav i Koranen belönas med tio goda handlingar. Detta besparar en både tid och möda.
-2. Önskan om välsignelse kommer från något välkänt och konkret, exempelvis kunskap. Denne söker välsignelser från Allāh genom sin kunskap och genom att han kallar människor till det goda. Usaid bin Hudair har sagt: ”*Abū Bakrs familj! Det är inte den första välsignelsen från er*.” Ibland låter Allāh något gott komma från vad vissa gör, något som han inte låter komma när andra gör det.
+2. Önskan om välsignelse kommer från något välkänt och konkret, exempelvis kunskap. Personen söker välsignelser från Allāh genom sin kunskap och genom att han kallar människor till det goda. Usaid bin Hudair har sagt: ”*Abū Bakrs familj! Det är inte den första välsignelsen från er*.” Ibland låter Allāh något gott komma från vad vissa gör, något som han inte låter komma när andra gör det.
 
-Det finns föreställda och falska välsignelser, likt de som påståts av dajjāler som säger att en avliden, som de menar vara Allāhs *walī*, har gett välsignelser till någon. Dessa är falska och det finns ingen inverkan i dem. Djävulen kan ligga bakom det hela, men det är inte mer än fysiska effekter. Djävulen tjänar denne *s̲hayk̲h* och det blir därmed en prövning [för folket].
+Det finns föreställda och falska välsignelser, likt de som påståts av dajjāler som säger att en avliden, som de menar vara Allāhs *walī*, har gett välsignelser till någon. Dessa är falska och det finns ingen inverkan i dem. Djävulen kan ligga bakom det hela, men det är inte mer än fysiska effekter. Djävulen tjänar personen *s̲hayk̲h* och det blir därmed en prövning [för folket].
 
-För att ta reda på om välsignelserna är sanna eller falska avgör man detta efter personens tillstånd. Om denne är en av Allāhs fromme *awliyā’* som håller sig till profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och undviker innovationer, då kan Allāh i dennes händer placera gott och välsignelser som Han inte placerar i andras händer.
+För att ta reda på om välsignelserna är sanna eller falska avgör man detta efter personens tillstånd. Om personen är en av Allāhs fromme *awliyā’* som håller sig till profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och undviker innovationer, då kan Allāh i personens händer placera gott och välsignelser som Han inte placerar i andras händer.
 
-Men om denne motsäger sig Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* eller kallar till det som är falskt, då är dennes välsignelser inte äkta. Det kan vara djävularna som ligger bakom detta för att komma till hjälp i dennes falskhet.
+Men om personen motsäger sig Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* eller kallar till det som är falskt, då är personens välsignelser inte äkta. Det kan vara djävularna som ligger bakom detta för att komma till hjälp i personens falskhet.
 
 
 [^1]: *al-Buk̲hārī* 334 och *Muslim* 289

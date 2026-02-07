@@ -12,14 +12,14 @@ original_id: 1565
 description: >-
   Fråga: Vad gör man om man tvagade sig och då glömde att tvätta någon
   kroppsdel? Svar: Om någon under sin tvagning glömde att tvätta en kroppsdel så
-  får denne tvätta den och vad som följer efte...
+  får personen tvätta den och vad som följer efte...
 ---
 
 **Fråga:** Vad gör man om man tvagade[^1] sig och då glömde att tvätta någon kroppsdel?
 
-**Svar:** Om någon under sin tvagning glömde att tvätta en kroppsdel så får denne tvätta den och vad som följer efter, om denne kom på det kort efteråt. Ett exempel på detta skulle vara om någon tvagade[^1] sig och glömde att tvätta sin vänstra hand och då tvättade sin högra hand, strök över huvudet och öronen och sedan tvättade fötterna. Efter att ha tvättat fötterna kom han på att han inte hade tvättat sin vänstra hand. Vi säger till honom: Tvätta din vänstra hand, stryk över huvudet och öronen och tvätta dina fötter. Detta beror på att det är obligatoriskt att göra tvagningen i rätt ordning, vilket Allāh den Allsmäktige har nämnt när Han sagt: "*När ni går till bön, två då ansikte och händer samt armarna upp till armbågarna och stryk med [de våta] händerna över huvudet och [två] fötterna upp till fotkölarna*." [^2]
+**Svar:** Om någon under sin tvagning glömde att tvätta en kroppsdel så får personen tvätta den och vad som följer efter, om personen kom på det kort efteråt. Ett exempel på detta skulle vara om någon tvagade[^1] sig och glömde att tvätta sin vänstra hand och då tvättade sin högra hand, strök över huvudet och öronen och sedan tvättade fötterna. Efter att ha tvättat fötterna kom han på att han inte hade tvättat sin vänstra hand. Vi säger till honom: Tvätta din vänstra hand, stryk över huvudet och öronen och tvätta dina fötter. Detta beror på att det är obligatoriskt att göra tvagningen i rätt ordning, vilket Allāh den Allsmäktige har nämnt när Han sagt: "*När ni går till bön, två då ansikte och händer samt armarna upp till armbågarna och stryk med [de våta] händerna över huvudet och [två] fötterna upp till fotkölarna*." [^2]
 
-Men om denne inte kom ihåg förrän efter att en lång tid gått, då måste denne göra om sin tvagning från början. Tvagar denne sig, glömmer sin vänstra hand och avslutar tvagningen samt det går en lång tid och denne sedan kommer på att den vänstra handen inte har tvättats – då måste tvagningen göras om från början då varaktigheten har gått om intet. Varaktighet då man tvättar kroppsdelarna under tvagningen är ett villkor för att den ska accepteras.
+Men om personen inte kom ihåg förrän efter att en lång tid gått, då måste personen göra om sin tvagning från början. Tvagar personen sig, glömmer sin vänstra hand och avslutar tvagningen samt det går en lång tid och personen sedan kommer på att den vänstra handen inte har tvättats – då måste tvagningen göras om från början då varaktigheten har gått om intet. Varaktighet då man tvättar kroppsdelarna under tvagningen är ett villkor för att den ska accepteras.
 
 Men han bör veta att om han har tvivel [tvivel om han tvättat sin vänstra eller högra hand, sköljt munnen eller dragit in vatten i näsan] efter avslutad tvagning då bör han inte bry sig om detta tvivel. I stället bör han fortsätta med bönen och han syndar inte på grund härav. Detta beror på att man inte ska lägga någon vikt vid tvivel i det som rör dyrkan efter att den har utförts.
 

@@ -23,7 +23,7 @@ description: >-
 
 > ”Det är Han som under nattens sömn tar till sig era själar och som vet vad ni har åstadkommit [ont eller gott] under dagen. Han låter er vakna på nytt varje morgon, för att den tid som är fastställd för er ska gå till ända. Då ska ni föras till Honom och Han ska låta er veta vad era handlingar [var värda].” [Koranen 6:60]
 
-Det som är föreskrivet för den avlidne är att denne får ligga på höger sida i riktning mot *qiblah*.
+Det som är föreskrivet för den avlidne är att personen får ligga på höger sida i riktning mot *qiblah*.
 
 Vad frågeställaren möjligen har sett är resultatet av okunskap bland dem som gör detta. I annat fall har jag inte hört talas om någon lärd som har sagt att den avlidne bör ligga på sin rygg med händerna på magen.
 

@@ -14,5 +14,5 @@ description: 'Fråga: Vad finns det för villkor för att ett barns fasta ska va
 
 **Fråga:** Vad finns det för villkor för att ett barns fasta ska vara korrekt? Är det sant att barnets fasta är för föräldrarna?
 
-**Svar:** Det är föreskrivet att föräldrarna vänjer deras barn vid att fasta när de är unga om de har möjlighet att göra så. Detta gäller även om de är under tio år. Om ett av dem kommer in i puberteten måste denne undvika allt som gör fastan ogiltig, precis på samma sätt som en vuxen. Detta innebär att de inte äter och liknande. Barnet får belöningar för detta [fastan] och det får även föräldrarna.
+**Svar:** Det är föreskrivet att föräldrarna vänjer deras barn vid att fasta när de är unga om de har möjlighet att göra så. Detta gäller även om de är under tio år. Om ett av dem kommer in i puberteten måste personen undvika allt som gör fastan ogiltig, precis på samma sätt som en vuxen. Detta innebär att de inte äter och liknande. Barnet får belöningar för detta [fastan] och det får även föräldrarna.
 

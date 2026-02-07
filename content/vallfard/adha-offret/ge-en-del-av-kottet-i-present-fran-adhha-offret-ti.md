@@ -14,5 +14,5 @@ description: 'Fråga: Får den som utför adhha -offret ge en icke-muslim en del
 
 **Fråga:** Får den som utför *adhha*-offret ge en icke-muslim en del av köttet från offret?
 
-**Svar:** Det som är rekommenderat när det gäller *adhha*-offret är att dela det i tre delar: en tredjedel till den som utförde offret, en tredjedel till dennes vän[ner] och en tredjedel till de fattiga. Det är tillåtet att ge den icke-troende en del av köttet om denne är fattig, en nära släkting, en granne eller för att göra dennes hjärta intresserat av islam.
+**Svar:** Det som är rekommenderat när det gäller *adhha*-offret är att dela det i tre delar: en tredjedel till den som utförde offret, en tredjedel till personens vän[ner] och en tredjedel till de fattiga. Det är tillåtet att ge den icke-troende en del av köttet om personen är fattig, en nära släkting, en granne eller för att göra personens hjärta intresserat av islam.
 

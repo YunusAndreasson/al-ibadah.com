@@ -38,11 +38,11 @@ Därför säger vi att det är en innovation att fira profetens – över honom 
 
 För det andra: dyrkan måste vara enligt den islamiska lagen i dess typ eller i karaktär. Om någon exempelvis offrar en häst skulle det stå i motsats till den islamiska lagen. Detta beror på att ett offerdjur måste komma ifrån familjen *an'ām*, nämligen: kameler, kor eller får.
 
-För det tredje: dyrkan måste vara in enlighet med den islamiska lagen i dess omfattning. Om någon säger att han ber sex bönecykler under middagsbönen, skulle detta då vara enligt den islamiska lagen? Inte alls då antalet är felaktigt. Om någon skulle säga *Subhān Allāh, al-Hamdu Lillāh* och *Allāhu akbar* 35 gånger efter varje obligatorisk bön, skulle detta då vara korrekt? Svaret är att om dennes mål var att dyrka Allāh genom att säga dessa ord detta antal gånger för att denne tror att det är korrekt, då har denne misstagit sig.
+För det tredje: dyrkan måste vara in enlighet med den islamiska lagen i dess omfattning. Om någon säger att han ber sex bönecykler under middagsbönen, skulle detta då vara enligt den islamiska lagen? Inte alls då antalet är felaktigt. Om någon skulle säga *Subhān Allāh, al-Hamdu Lillāh* och *Allāhu akbar* 35 gånger efter varje obligatorisk bön, skulle detta då vara korrekt? Svaret är att om personens mål var att dyrka Allāh genom att säga dessa ord detta antal gånger för att personen tror att det är korrekt, då har personen misstagit sig.
 
-Om denne avsiktligen adderade något till vad Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har föreskrivit, men samtidigt trodde att det korrekta antalet enligt islam är 33, då går det extra antalet bra.
+Om personen avsiktligen adderade något till vad Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har föreskrivit, men samtidigt trodde att det korrekta antalet enligt islam är 33, då går det extra antalet bra.
 
-Denne anser ju inte att det högre numret är det rätta.
+Personen anser ju inte att det högre numret är det rätta.
 
 För det fjärde: dyrkan måste vara enligt den islamiska lagen på det sätt som den utförs.
 
@@ -50,15 +50,15 @@ Om någon utför en handling på ett sätt som är acceptabelt i förhållande t
 
 För dem femte: dyrkan måste vara enligt den islamiska lagen med avseende på tidpunkten. Ett exempel är om någon fastar *ramaḍān* under sha’ban eller *s̲hawwāl*, eller ber middagsbönen före solen har passerat himlens mitt eller när ett föremåls skugga har blivit lika långt som dess längd […]
 
-Därför säger vi att om någon avsiktligen väntar med att be tills tiden för bönen har gått ut – utan giltig ursäkt – kommer dennes bön inte att accepteras, även om denne ber den tusen gånger. Därför följer vi en viktig princip som säger att all dyrkan måste ske vid ett bestämt tillfälle, och om handlingen inte utförs inom den givna tidsgränsen, då kommer den inte att accepteras utan snarare avvisas.
+Därför säger vi att om någon avsiktligen väntar med att be tills tiden för bönen har gått ut – utan giltig ursäkt – kommer personens bön inte att accepteras, även om personen ber den tusen gånger. Därför följer vi en viktig princip som säger att all dyrkan måste ske vid ett bestämt tillfälle, och om handlingen inte utförs inom den givna tidsgränsen, då kommer den inte att accepteras utan snarare avvisas.
 
 Beviset för detta finns i en *ḥadīt̲h* i vilken ‘A’ishah berättar att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som utför en handling som inte är enligt denna vår fråga [islam] kommer att få den avvisad*.”
 
 För de sjätte: dyrkan måste utföras enligt den islamiska lagen med avsende på platsen som den utförs på.
 
-Om någon står i *Muzdalifah* under *´Arafāt*-dagen är detta inte giltig då det inte är enligt den islamiska lagen beträffande plats. Detsamma gäller om någon skulle utföra *i’tikāf *i sitt eget hem. Det skulle det inte heller vara giltigt då platsen för *i’tikāf* är i moskén.
+Om någon står i *Muzdalifah* under *´Arafāt*-dagen är detta inte giltig då det inte är enligt den islamiska lagen beträffande plats. Detsamma gäller om någon skulle utföra *i´tikāf *i sitt eget hem. Det skulle det inte heller vara giltigt då platsen för *i´tikāf* är i moskén.
 
-Därför är det heller inte godkänt om en kvinna gör *i’tikāf *i sitt eget hem då platsen för detta är i moskén. Profeten – över honom vare Allāhs frid och välsignelser – såg att några av hans fruar hade satt upp tält inne i moskén. Han sade till dem att ta ned dem och inte göra *i’tikāf* men han sade inte åt dem att göra *i’tikāf* i deras hem. Detta visar att kvinnorna inte skulle göra *i’tikāf* i deras hem då det går emot den islamiska lagen med avseende på platsen för utförande.
+Därför är det heller inte godkänt om en kvinna gör *i´tikāf *i sitt eget hem då platsen för detta är i moskén. Profeten – över honom vare Allāhs frid och välsignelser – såg att några av hans fruar hade satt upp tält inne i moskén. Han sade till dem att ta ned dem och inte göra *i´tikāf* men han sade inte åt dem att göra *i´tikāf* i deras hem. Detta visar att kvinnorna inte skulle göra *i´tikāf* i deras hem då det går emot den islamiska lagen med avseende på platsen för utförande.
 
 Med dessa sex anledningar som grund är en dyrkan inte giltig om den inte förenar all sex:
 

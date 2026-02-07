@@ -1,5 +1,5 @@
 ---
-title: Tiden då förmiddagsbönen [dhuhā] börjar
+title: Tiden då förmiddagsbönen [d̲huhā] börjar
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
  Libanon: Maktaba Dar us-Salam. 320 s. ISBN saknas'

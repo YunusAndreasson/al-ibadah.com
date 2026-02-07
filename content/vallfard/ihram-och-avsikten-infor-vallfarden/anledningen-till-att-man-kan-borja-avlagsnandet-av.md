@@ -1,5 +1,5 @@
 ---
-title: Huvudrakning vid ihrām-avslut
+title: Huvudrakning vid iḥrām-avslut
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.

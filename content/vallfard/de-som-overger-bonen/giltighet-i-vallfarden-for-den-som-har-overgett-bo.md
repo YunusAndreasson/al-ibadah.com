@@ -10,15 +10,15 @@ categories:
 original_id: 1320
 description: >-
   Fråga: Vad finns det att säga om vallfärden för den som har övergett bönen,
-  antingen avsiktligen eller på grund av lathet? Gäller dennes vallfärd då som
+  antingen avsiktligen eller på grund av lathet? Gäller personens vallfärd då som
   en obligatorisk vallfärd? Svar: Den som...
 ---
 
-**Fråga:** Vad finns det att säga om vallfärden för den som har övergett bönen, antingen avsiktligen eller på grund av lathet? Gäller dennes vallfärd då som en obligatorisk vallfärd?
+**Fråga:** Vad finns det att säga om vallfärden för den som har övergett bönen, antingen avsiktligen eller på grund av lathet? Gäller personens vallfärd då som en obligatorisk vallfärd?
 
-**Svar:** Den som vallfärdar samtidigt som denne överger bönen, och denne avvisar att bönen är obligatorisk, då är denne enligt konsensus bland de lärda inte troende. Dennes vallfärd är då inte giltig.
+**Svar:** Den som vallfärdar samtidigt som personen överger bönen, och personen avvisar att bönen är obligatorisk, då är personen enligt konsensus bland de lärda inte troende. Personens vallfärd är då inte giltig.
 
-Om denne överger den på grund av lathet eller att denne inte brydde sig, då har de lärde olika åsikter. Vissa säger att dennes vallfärd är giltig och det finns dem som inte tror att dennes vallfärd är giltig. Den korrekta åsikten är dock att dennes vallfärd inte är giltig. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Avtalet som skiljer oss från dem är bönen och den som lämnar den har inte trott*.” [^1]
+Om personen överger den på grund av lathet eller att personen inte brydde sig, då har de lärde olika åsikter. Vissa säger att personens vallfärd är giltig och det finns dem som inte tror att personens vallfärd är giltig. Den korrekta åsikten är dock att personens vallfärd inte är giltig. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Avtalet som skiljer oss från dem är bönen och den som lämnar den har inte trott*.” [^1]
 
 Det finns även ett uttalande som lyder: ”*Det som står mellan en man och otro samt mångguderi är utelämnandet av bönen*.” [^2]
 
@@ -27,5 +27,5 @@ Detta omfattar både de som avvisar att bönen är en skyldighet och de som inte
 Och Allāh är den som ger framgång.
 
 
-[^1]: *at-Tirmithi* 2621 och *Aḥmad* 5:346
+[^1]: *at-Tirmid̲hī* 2621 och *Aḥmad* 5:346
 [^2]: *Muslim* 82

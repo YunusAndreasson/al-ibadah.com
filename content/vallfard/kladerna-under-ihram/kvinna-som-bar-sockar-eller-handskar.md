@@ -20,11 +20,11 @@ description: >-
 
 Det är precis likt en man som går in i *iḥrām* med sandaler och sedan tar av dem om han önskar, och det är inget fel i det. Hon får dock inte träda in i *iḥrām* när hon bär handskar. En kvinna i *iḥrām* har förbjudits att bära detta.
 
-Samma gäller ansiktsslöja, *burqa’* och liknande plagg. Hon bär inte dem över sitt ansikte. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit det. Men hon måste dra ned sin huvudsjal över ansiktet när män som inte är *maḥram* är närvarande. Detta gäller även under *ṭawāf* och *sa´ī*.
+Samma gäller ansiktsslöja, *burqa´* och liknande plagg. Hon bär inte dem över sitt ansikte. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit det. Men hon måste dra ned sin huvudsjal över ansiktet när män som inte är *maḥram* är närvarande. Detta gäller även under *ṭawāf* och *sa´ī*.
 
 Anledningen är en *ḥadīt̲h* i vilken 'A'ishah – må Allāh vara nöjd med henne – säger: "*Ryttare brukade passera förbi oss när vi var med Allāhs sändebud. När de kom till oss sänkte vi våra Jilbāb från huvudet [ned] över ansiktet. När de hade passerat oss avtäckte vi det [ansiktet]*." [^1] *Abū Dāwūd* och *Ibn Mājah* har återgivit detta.
 
-Enligt den korrekta åsikten får män bära lädersockar även om de inte är avklippta [nedanför vristen]. Majoriteten av de lärde säger att de bör klippas av [nedanför vristen], men den korrekta åsikten är att det inte är nödvändigt att klippa av dem om det inte går att hitta två sandaler. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – predikade för folket vid *´Arafāt* och sade: "*Den som inte finner ett midjeplagg, låt denne då bära byxor. Och den som inte finner två sandaler, låt denne bära två lädersockar*." [^2]
+Enligt den korrekta åsikten får män bära lädersockar även om de inte är avklippta [nedanför vristen]. Majoriteten av de lärde säger att de bör klippas av [nedanför vristen], men den korrekta åsikten är att det inte är nödvändigt att klippa av dem om det inte går att hitta två sandaler. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – predikade för folket vid *´Arafāt* och sade: "*Den som inte finner ett midjeplagg, låt personen då bära byxor. Och den som inte finner två sandaler, låt personen bära två lädersockar*." [^2]
 
 Äktheten i denna *ḥadīt̲h* är man enig om. Han beordrade inte att de skulle klippas, detta bevisar att kommenderingen att klippa dem har upphävts.
 

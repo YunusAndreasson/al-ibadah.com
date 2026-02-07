@@ -10,12 +10,12 @@ categories:
   - Fastebrytare
 original_id: 1395
 description: >-
-  Fråga: Om den fastande drack när denne hade hört böneutropet för
+  Fråga: Om den fastande drack när personen hade hört böneutropet för
   gryningsbönen, är fastan då korrekt? Svar: Om den fastande drack efter att ha
   hört böneutropet för gryningsbönen – om den som r...
 ---
 
-**Fråga:** Om den fastande drack när denne hade hört böneutropet för gryningsbönen, är fastan då korrekt?
+**Fråga:** Om den fastande drack när personen hade hört böneutropet för gryningsbönen, är fastan då korrekt?
 
 **Svar:** Om den fastande drack efter att ha hört böneutropet för gryningsbönen – om den som ropar ut böneutropet gör så när det har blivit klart för honom att det är morgon – då får den fastande inte äta eller dricka efter det. Om den som ropar ut böneutropet gör så innan det blir klart för honom att det är morgon, då skadar det inte att äta eller dricka tills det blir klart att det är morgon [gryning].
 

@@ -11,12 +11,12 @@ original_id: 154
 description: >-
   Fråga: Det finns olika åsikter i många frågor bland de lärde när det gäller
   rättsvetenskap – jag syftar på de fyra rättsskolorna. Vad ska den som tillhör
-  en viss rättsskola göra om denne finner ...
+  en viss rättsskola göra om personen finner ...
 ---
 
-**Fråga:** Det finns olika åsikter i många frågor bland de lärde när det gäller rättsvetenskap – jag syftar på de fyra rättsskolorna. Vad ska den som tillhör en viss rättsskola göra om denne finner något i en annan skola som passar denne i en viss fråga? Ett exempel är den allmosa som betalas för prydnadssmycken. Jag följer en skola där det inte är en skyldighet att betala något för dem, men jag hör från många andra lärde att det är obligatoriskt att betala allmosa för dem.
+**Fråga:** Det finns olika åsikter i många frågor bland de lärde när det gäller rättsvetenskap – jag syftar på de fyra rättsskolorna. Vad ska den som tillhör en viss rättsskola göra om personen finner något i en annan skola som passar personen i en viss fråga? Ett exempel är den allmosa som betalas för prydnadssmycken. Jag följer en skola där det inte är en skyldighet att betala något för dem, men jag hör från många andra lärde att det är obligatoriskt att betala allmosa för dem.
 
-Får en muslim följa en rättsskola och sedan ta åsikter från en annan skola, med vetskap om att denne har god kunskap om islamisk rättsvetenskap?
+Får en muslim följa en rättsskola och sedan ta åsikter från en annan skola, med vetskap om att personen har god kunskap om islamisk rättsvetenskap?
 
 **Svar:** Det råder inga tvivel om att en muslim avser att finna sanningen och handla efter den när han finner den. De fyra imamerna krävde inte att någon skulle följa dem blint i alla frågor. De informerade oss endast om deras åsikt och vilken åsikt som de ansåg vara starkast, och de beordrade andra att ta sanningen om de fann den i andra uttalande. Därför krävs det inte att någon blint följer en viss imams uttalanden i alla frågor. 
 

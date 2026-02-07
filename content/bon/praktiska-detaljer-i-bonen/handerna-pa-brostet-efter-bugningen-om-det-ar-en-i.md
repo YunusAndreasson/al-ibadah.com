@@ -20,7 +20,7 @@ description: >-
 
 Detta kommer att leda till att människor märker varandra som innovatörer i frågor om *ijtihād* där sanningen kan vara endera åsikten. På detta sätt kommer människor att splittras i sekter och konflikter påbörjas till en grad som enbart Allāh känner till.
 
-Därför säger jag: Att beskriva den som efter bugningen placerar händerna på bröstet som en innovatör är mycket hårt mot denne. Det är inte passande att bröderna beskriver denne person så.
+Därför säger jag: Att beskriva den som efter bugningen placerar händerna på bröstet som en innovatör är mycket hårt mot personen. Det är inte passande att bröderna beskriver personen så.
 
 Den korrekta åsikten är att det är *sunnah* att placera den högra handen över den vänstra efter att ha rest sig upp från bugningen. Beviset för detta har bekräftats i *Ṣaḥīḥ al-Buk̲hārī* i en *ḥadīt̲h* från Sahl bin Sa'd i vilken han säger: "*Folket beordrades att placera höger hand över den vänstra underarmen i bönen*."
 

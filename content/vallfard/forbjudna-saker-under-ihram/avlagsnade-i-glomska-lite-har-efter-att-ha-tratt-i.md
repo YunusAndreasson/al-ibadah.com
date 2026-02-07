@@ -1,5 +1,5 @@
 ---
-title: Glömskt avlägsnande av hår under ihrām
+title: Glömskt avlägsnande av hår under iḥrām
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
@@ -21,7 +21,7 @@ description: >-
 
 Det är också rekommenderat att trimma mustaschen, klippa naglarna och raka könshåren om det finns ett behov av detta. Det är dock inte nödvändigt att göra det exakt när man går in i *iḥrām*. Gör man i stället det i sitt hem eller på vägen [till Mecka], innan man går in i *iḥrām*, då är det tillräckligt.
 
-Personen som du nämner har inte syndat genom att raka sina armhålor då denne inte har känt till islams regler. Om en *muḥrim* på samma sätt i glömska gör något av det som han har nämnt, då har denne inte syndat. Anledningen är att Allāh har sagt: ”*Herre! Ställ oss inte till svars för glömska eller oavsiktliga fel*.” [^1]
+Personen som du nämner har inte syndat genom att raka sina armhålor då personen inte har känt till islams regler. Om en *muḥrim* på samma sätt i glömska gör något av det som han har nämnt, då har personen inte syndat. Anledningen är att Allāh har sagt: ”*Herre! Ställ oss inte till svars för glömska eller oavsiktliga fel*.” [^1]
 
 Detta beror även på vad som har bekräftats från profeten, att Allāh har besvarat denna åkallan.
 

@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Somliga svär oavsiktligen vid profeten – över honom vare Allāhs frid och välsignelser – eller vid deras barn, deras tungor har vant sig vid detta. Kommer de att hållas ansvariga för detta?
 
-**Svar:** Det är inte tillåtet att svära vid profeten – över honom vare Allāhs frid och välsignelser – eller någon annan skapad. Så här brukar månggudadyrkare[^1] göra. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som måste svära en ed, låt denne svära vid Allāh eller vara tyst*.” [^3]
+**Svar:** Det är inte tillåtet att svära vid profeten – över honom vare Allāhs frid och välsignelser – eller någon annan skapad. Så här brukar månggudadyrkare[^1] göra. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som måste svära en ed, låt personen svära vid Allāh eller vara tyst*.” [^3]
 
 Han har även sagt: ”*Den som svor vid något annat än Allāh har gjort något med otro eller shirk*[^2].” [^4]
 
@@ -30,4 +30,4 @@ Det är Allāh som ger framgång.
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.
 
 [^3]: *al-Buk̲hārī* 2679 och *Muslim* 1646
-[^4]: *Abū Dāwūd* 3251 och *at-Tirmithi* 1535
+[^4]: *Abū Dāwūd* 3251 och *at-Tirmid̲hī* 1535

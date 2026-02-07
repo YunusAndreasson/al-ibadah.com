@@ -26,9 +26,9 @@ Första: Denna tolkning är rimlig enligt det arabiska språket och utgör inte 
 
 Andra: Denna tolkning är inte möjlig inom det arabiska språket och utgör otro.
 
-Är den inte rimlig är den ju en förnekelse och det är otro. Ett exempel är om någon säger: "Allāh har inte en riktig hand och den har heller inte innebörden nåd eller kraft." Denne är då icke-troende på grund av det fullständiga avvisandet.
+Är den inte rimlig är den ju en förnekelse och det är otro. Ett exempel är om någon säger: "Allāh har inte en riktig hand och den har heller inte innebörden nåd eller kraft." Personen är då icke-troende på grund av det fullständiga avvisandet.
 
-När Allāh den Upphöjdes säger: "*Nej, Hans händer är tvärtom utsträckta*" [^1] och någon menar att innebörden av Hans händer är himlarna och jorden, då är denne en icke-troende då detta inte är giltigt enligt det arabiska språket. Och det är det arabiska språkets innebörd som krävs i tillämpandet av den islamiska lagen. Därför är denne en avvisare som har hädat.
+När Allāh den Upphöjdes säger: "*Nej, Hans händer är tvärtom utsträckta*" [^1] och någon menar att innebörden av Hans händer är himlarna och jorden, då är personen en icke-troende då detta inte är giltigt enligt det arabiska språket. Och det är det arabiska språkets innebörd som krävs i tillämpandet av den islamiska lagen. Därför är personen en avvisare som har hädat.
 
 Men om det sägs att handens innebörd är nåd eller kraft innebär det inte otro. Detta beror på att ordet hand i det arabiska språket även kan betyda nåd. En poet har en gång sagt: "*Och hur mycket av Din nåd finns där i nattens mörker. Detta förtäljer att Manawiyyah ljuger*." Hand betyder här nåd, därför att *al-Manawiyyah* säger att mörkret inte för något gott med sig utan att det enbart kommer ont därifrån.
 

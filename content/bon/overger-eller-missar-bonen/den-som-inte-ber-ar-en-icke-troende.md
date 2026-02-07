@@ -27,5 +27,5 @@ Du som har ställt frågan får inte återvända till din man förrän han åter
 Och Allāh är Beviljaren av framgång.
 
 
-[^1]: *at-Tirmithi* 2621, *an-Nasā’ī* 464 och *Aḥmad* 5:346, 355
+[^1]: *at-Tirmid̲hī* 2621, *an-Nasā’ī* 464 och *Aḥmad* 5:346, 355
 [^2]: *Muslim* 82

@@ -11,16 +11,16 @@ original_id: 1404
 description: >-
   Fråga: Som ni vet finns det många bekväma transportmedel, och all lovprisan
   tillhör Allāh. Den resande har nu inga svårigheter att fasta. Så är det bäst
-  för denne att bryta fastan eller att fasta?...
+  för personen att bryta fastan eller att fasta?...
 ---
 
-**Fråga:** Som ni vet finns det många bekväma transportmedel, och all lovprisan tillhör Allāh. Den resande har nu inga svårigheter att fasta. Så är det bäst för denne att bryta fastan eller att fasta?
+**Fråga:** Som ni vet finns det många bekväma transportmedel, och all lovprisan tillhör Allāh. Den resande har nu inga svårigheter att fasta. Så är det bäst för personen att bryta fastan eller att fasta?
 
 **Svar:** Resenären ges ett val mellan att fasta och att bryta fastan. Den uppenbara innebörden av de islamiska bevisen visar att det är bättre att bryta fastan, speciellt om det är svårt för någon.
 
 Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Det är inte rättfärdigt att fasta under resor*." [^1] Och han har också sagt: "*Sannerligen, Allāh älskar att Hans medgivanden tas i bruk, precis som Han hatar att Han inte lyds*." [^2]
 
-Den som fastar syndar inte om fastan inte är svår för denne. Om fastan är svår är det ogillat att denne fastar.
+Den som fastar syndar inte om fastan inte är svår för personen. Om fastan är svår är det ogillat att personen fastar.
 
 Och Allāh är Givaren av framgång.
 

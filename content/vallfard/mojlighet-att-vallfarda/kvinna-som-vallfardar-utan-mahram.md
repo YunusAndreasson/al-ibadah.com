@@ -1,5 +1,5 @@
 ---
-title: Kvinna som vallfärdar utan mahram
+title: Kvinna som vallfärdar utan maḥram
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
