@@ -16,7 +16,9 @@ description: >-
 
 **Fråga:** Är det sant att änglar inte går in i ett rum som det finns bilder i?
 
-**Svar:** I en autentisk *hadīth* rapporteras att änglar inte går in i ett hem som det finns en hund i eller som det hänger bilder i [^1]. Samtidigt har det i vissa *ahādīth* rapporterats att bilder tryckta på kläder accepteras. [^2] Profeten – över honom vare Allāhs frid och välsignelser – gick in i hemmet där ‘Ā’ishāh – må Allāh vara nöjd med henne – var och hon hade hängt upp gardiner för att göra en vestibul i hemmet och på gardinerna fanns det bilder. Profeten – över honom vare Allāhs frid och välsignelser – blev arg och han gick inte in förrän hon hade plockat bort detta och gjort om det till en eller två kuddar. [^3]
+**Svar:** I en autentisk *hadīth* rapporteras att änglar inte går in i ett hem som det finns en hund i eller som det hänger bilder i [^1]. Samtidigt har det i vissa *ahādīth* rapporterats att bilder tryckta på kläder accepteras. [^2] Profeten – över honom vare Allāhs frid och välsignelser – gick in i hemmet där ‘Ā’ishāh – må Allāh vara nöjd med henne – var och hon hade hängt upp gardiner för att göra en vestibul i hemmet och på gardinerna fanns det bilder.
+
+Profeten – över honom vare Allāhs frid och välsignelser – blev arg och han gick inte in förrän hon hade plockat bort detta och gjort om det till en eller två kuddar. [^3]
 
 Därmed kan vi dra slutsatsen att det som klippts upp, trampas eller sitts på är tillåtet. Det som hängs på väggen eller något liknande är dock inte tillåtet.
 

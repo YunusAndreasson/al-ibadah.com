@@ -26,7 +26,9 @@ En muslim får ta hand om begravningar av släktingar som har varit månggudadyr
 
 > ”Troende! Sök inte vänskap och skydd hos dem som har drabbats av Guds vrede! De hoppas inte på det eviga livet, liksom de som [helt] förnekar sanningen inte hoppas [få återse] dem som de har följt till graven.” [Koranen 60:13]
 
-När profeten – över honom vare Allāhs frid och välsignelser – upprepade ordern att begrava fadern, då lydde han honom skyndsamt och han gav upp åsikten som hade fallit honom in i början. Detta är vad lydnad betyder: att man ger upp sin åsikt i respons till profetens – över honom vare Allāhs frid och välsignelser – order. För mig ser det ut som att om en son begraver sin far eller mor är det den sista vänliga handlingen som sonen kan göra för föräldrarna som har varit månggudadyrkare[^1] i denna värld. Men efter begravningen kan han varken åkalla eller be om förlåtelse för honom på grund av de entydiga orden från Allāh:
+När profeten – över honom vare Allāhs frid och välsignelser – upprepade ordern att begrava fadern, då lydde han honom skyndsamt och han gav upp åsikten som hade fallit honom in i början. Detta är vad lydnad betyder: att man ger upp sin åsikt i respons till profetens – över honom vare Allāhs frid och välsignelser – order.
+
+För mig ser det ut som att om en son begraver sin far eller mor är det den sista vänliga handlingen som sonen kan göra för föräldrarna som har varit månggudadyrkare[^1] i denna värld. Men efter begravningen kan han varken åkalla eller be om förlåtelse för honom på grund av de entydiga orden från Allāh:
 
 > ”Det anstår inte profeten och inte heller de troende att be om syndernas förlåtelse för avgudadyrkare, även om de hörde till deras nära anförvanter.” [Koranen 9:113]
 

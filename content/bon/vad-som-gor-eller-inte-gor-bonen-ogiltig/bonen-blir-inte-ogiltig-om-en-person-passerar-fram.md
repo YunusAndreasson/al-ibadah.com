@@ -18,7 +18,9 @@ description: >-
 
 **Svar:** En person som passerar precis framför en [annan] troende som ber gör inte dennes bön ogiltig. Endast tre saker gör den ogiltig [enligt den mest korrekta åsikten bland de lärde]: en vuxen kvinna, en svart hund och en åsna. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*En muslimsk mans bön bryts om han inte har något framför sig som en kamelsadel av: en kvinna, en åsna och en svart hund*.” Det sades: ”*Allāhs sändebud! Varför en svart hund och inte en röd eller gul?*” Han sade: ”*Den svarta hunden är en djävul*.” [^2]
 
-Enligt den mest korrekta åsikten bland de lärde är innebörden att dessa tre bryter bönen. Om någon passerar framför så tömmer det inte belöningen. Är det möjligt bör därför Allāhs tjänare hindra honom att passera framför. Det är inte tillåtet att gå framför den som ber. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit det, genom att säga: ”*Om den som går framför en troende som ber kände till synden som han begick, då skulle han vänta i 40 år. Det skulle vara bättre för honom än att han gick framför Allāhs tjänare som ber*.” [^3]
+Enligt den mest korrekta åsikten bland de lärde är innebörden att dessa tre bryter bönen. Om någon passerar framför så tömmer det inte belöningen. Är det möjligt bör därför Allāhs tjänare hindra honom att passera framför. Det är inte tillåtet att gå framför den som ber.
+
+Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit det, genom att säga: ”*Om den som går framför en troende som ber kände till synden som han begick, då skulle han vänta i 40 år. Det skulle vara bättre för honom än att han gick framför Allāhs tjänare som ber*.” [^3]
 
 Han har beordrat den som ber mot en *sutrah* att inte låta folk passera framför. I stället ska de hindras: ”*Om någon ber mot något som skärmar av honom från folket [en sutrah[^1]] och någon önskade gå framför er, då bör ni hindra honom, men om han vägrar, då bör ni strida mot honom. Han är en djävul*.” [^4]
 
@@ -26,7 +28,9 @@ profetens – över honom vare Allāhs frid och välsignelser – *sunnah* bevis
 
 Det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah* att en muslim har något framför sig: en stol, ett spjut som sticks ned i marken, en vägg eller en av moskéns pelare. Om folket sedan går bakom denna *sutrah*, då kommer det inte skada bönen. Det som är förbjudet är att de passerar mellan den bedjande och hans *sutrah*.
 
-Om den som passerade framför tjänaren var en kvinna, en åsna eller en svart hund – då bryts bönen. På samma sätt om dessa tre gick nära tjänaren medan denne inte hade en *sutrah*, närmare än tre alnar, då hade de brutit bönen. Men om de gick långt bort, längre bort än tre alnar, då skulle det inte skada bönen. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – bad vid Ka’bah och han såg till att det fanns tre alnar mellan honom och den västra väggen. De lärde citerar detta som ett bevis för att detta är avståndet för en *sutrah*.
+Om den som passerade framför tjänaren var en kvinna, en åsna eller en svart hund – då bryts bönen. På samma sätt om dessa tre gick nära tjänaren medan denne inte hade en *sutrah*, närmare än tre alnar, då hade de brutit bönen. Men om de gick långt bort, längre bort än tre alnar, då skulle det inte skada bönen.
+
+Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – bad vid Ka'bah och han såg till att det fanns tre alnar mellan honom och den västra väggen. De lärde citerar detta som ett bevis för att detta är avståndet för en *sutrah*.
 
 Innebörden av ”bryts” är ogiltighet. Majoriteten säger att detta betyder att bönen inte är fullkomlig, men den korrekta åsikten är att bönen blir ogiltig och att den måste göras om.
 

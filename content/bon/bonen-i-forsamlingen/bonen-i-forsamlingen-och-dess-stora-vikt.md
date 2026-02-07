@@ -37,7 +37,9 @@ Den korrekta åsikten fordrar att det är en skyldighet. Detta beror på att det
 
 De lärde skiljs åt efter att ha enats om att den är den mest bekräftade formen av dyrkan och den största handlingen av lydnad. De har olika åsikter om det är ett villkor för bönens giltighet eller om bönen är giltig utan den, även om det är en synd. Och det finns även andra meningsskiljaktigheter.
 
-Den korrekta åsikten är att den är en skyldighet men inte ett villkor för att den ska vara giltig. Men den som överger den är en syndare om det inte finns någon laga ursäkt för denne. Bevisen för att den inte är ett villkor för att bönen ska vara giltig är att profeten – över honom vare Allāhs frid och välsignelser – förklarade att bön i församlingen är bättre än bön ensam [^2]. Att bön i församling är bättre än bön ensam är ett bevis för att det finns förtjänst [även] i bön ensam. Så skulle det inte vara utom om den bönen var giltig.
+Den korrekta åsikten är att den är en skyldighet men inte ett villkor för att den ska vara giltig. Men den som överger den är en syndare om det inte finns någon laga ursäkt för denne.
+
+Bevisen för att den inte är ett villkor för att bönen ska vara giltig är att profeten – över honom vare Allāhs frid och välsignelser – förklarade att bön i församlingen är bättre än bön ensam [^2]. Att bön i församling är bättre än bön ensam är ett bevis för att det finns förtjänst [även] i bön ensam. Så skulle det inte vara utom om den bönen var giltig.
 
 I vilket fall som helst måste varje förståndig vuxen muslimsk man närvara vid bönen i församlingen, oavsett om denne är på resa eller hemma.
 

@@ -14,7 +14,9 @@ description: >-
 
 **Fråga:** Vad bör vi göra under Allmaktens Natt[^1]? Ber vi, läser vi Koranen eller profetens – över honom vare Allāhs frid och välsignelser – biografi, lyssnar vi till föreläsningar eller firar vi i moskén?
 
-**Svar:** All lovprisan tillhör Allāh. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – brukade anstränga sig mer i dyrkan under *ramadans*[^2] tio sista dagar än vad han gjorde vid andra tidpunkter. Han bad, läste Koranen och åkallade. al-Bukhārī och Muslim har återgivit från ‘A’ishah – må Allāh vara nöjd med henne – att när *ramadans*[^2] tio sista dagar kom, då stannade profeten – över honom vare Allāhs frid och välsignelser – uppe under natten, väckte sin familj och höll sig borta från äktenskapliga relationer. Ahmad och Muslim återger att han brukade sträva hårt i dyrkan under *ramadans*[^2] tio sista dagar – hårdare än någonsin.
+**Svar:** All lovprisan tillhör Allāh. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – brukade anstränga sig mer i dyrkan under *ramadans*[^2] tio sista dagar än vad han gjorde vid andra tidpunkter. Han bad, läste Koranen och åkallade.
+
+al-Bukhārī och Muslim har återgivit från ‘A’ishah – må Allāh vara nöjd med henne – att när *ramadans*[^2] tio sista dagar kom, då stannade profeten – över honom vare Allāhs frid och välsignelser – uppe under natten, väckte sin familj och höll sig borta från äktenskapliga relationer. Ahmad och Muslim återger att han brukade sträva hårt i dyrkan under *ramadans*[^2] tio sista dagar – hårdare än någonsin.
 
 Profeten – över honom vare Allāhs frid och välsignelser – påbjöd att man ska stanna uppe och be under Allmaktens Natt[^1] ut ur tro och med hopp om belöningar. Abū Hurairah har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 

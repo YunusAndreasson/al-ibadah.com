@@ -22,7 +22,9 @@ Ibn Mas'ūd hörde profeten – över honom vare Allāhs frid och välsignelser 
 
 ´Abdullāh bin 'Ukaym har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som bär [tamimah] kommer att lämnas med den*.” [^5] Detta betyder att Allāh inte kommer att skydda denne. Denne kommer då att lämnas med det som denne bär för att skydda eller läka, vilket det aldrig kommer ha förmågan att göra.
 
-I *Sahīh al-Bukhārī* och *Sahīh Muslim* återges att Abū Bashir al-Ansari var med profeten – över honom vare Allāhs frid och välsignelser – när han sände någon för att beordra folket att plocka av alla halsband av snöre ifrån deras djur. [^6] Oberoende av om de hänför de till besvärjelser eller inte förbjöd profeten – över honom vare Allāhs frid och välsignelser – i absoluta termer att snörband hängs runt kamelhalsar. Han beordrade även att de skulle klippas av. Före islam brukade man knyta snören runt kamelhalsar och på dem knyta amuletter för att skydda dem emot ”det onda ögat” samt sjukdomar. Profeten – över honom vare Allāhs frid och välsignelser – förbjöd detta och han beordrade att de skulle klippas av.
+I *Sahīh al-Bukhārī* och *Sahīh Muslim* återges att Abū Bashir al-Ansari var med profeten – över honom vare Allāhs frid och välsignelser – när han sände någon för att beordra folket att plocka av alla halsband av snöre ifrån deras djur. [^6] Oberoende av om de hänför de till besvärjelser eller inte förbjöd profeten – över honom vare Allāhs frid och välsignelser – i absoluta termer att snörband hängs runt kamelhalsar. Han beordrade även att de skulle klippas av.
+
+Före islam brukade man knyta snören runt kamelhalsar och på dem knyta amuletter för att skydda dem emot "det onda ögat" samt sjukdomar. Profeten – över honom vare Allāhs frid och välsignelser – förbjöd detta och han beordrade att de skulle klippas av.
 
 Den som tror att *tamimah* eller något annat har kraft att ge medgång eller skydda mot något skadligt är en månggudadyrkare[^3] som har begått större *shirk*. Detta tar denne ur islam. Vi söker Allāhs skydd ifrån avfällelse.
 

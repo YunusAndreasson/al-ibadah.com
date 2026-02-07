@@ -14,7 +14,9 @@ description: >-
   honom vare Allāhs frid och välsignelser – sunnah...
 ---
 
-**Fråga:** Det finns somliga som gör amuletter till sjuka, galningar och psykiatripatienter och i dem innefattas delar av Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Vi går aldrig i godo för att de har sunda trosprinciper. Vi rådde dem att inte göra så men de lyssnade inte utan sade: ”Vi skriver endast vad som finns i Allāhs skrift och i Hans sändebuds *sunnah*, vilket inte är förbjudet.” Några av dessa amuletter bärs av patienterna själva, en oren kvinna som har månadsblödning, en kvinna i hennes blödningar efter graviditeten, en galning och ett underårigt barn som inte kan rengöra sig. Är detta tillåtet?
+**Fråga:** Det finns somliga som gör amuletter till sjuka, galningar och psykiatripatienter och i dem innefattas delar av Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Vi går aldrig i godo för att de har sunda trosprinciper. Vi rådde dem att inte göra så men de lyssnade inte utan sade: "Vi skriver endast vad som finns i Allāhs skrift och i Hans sändebuds *sunnah*, vilket inte är förbjudet."
+
+Några av dessa amuletter bärs av patienterna själva, en oren kvinna som har månadsblödning, en kvinna i hennes blödningar efter graviditeten, en galning och ett underårigt barn som inte kan rengöra sig. Är detta tillåtet?
 
 **Svar:** Profeten – över honom vare Allāhs frid och välsignelser – tillät besvärjelser med recitation ifrån Koranen samt åkallan – så länge de inte innehöll *shirk* eller meningslösa ord. Muslim återger i sin *Sahīh* att Auf bin Mālik har sagt:
 

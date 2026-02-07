@@ -24,7 +24,9 @@ Det bör kännas till att det första böneutropet som avses i *hadithen* är de
 
 I *Sahīh al-Bukhārī* återges att de troendes ledare, ‘Uthmān bin 'Affan, lagt till ett tredje böneutrop vid fredagsbönen.
 
-Det första böneutropet i vilket Bilal beordrades att säga *as-salatu khairun minan-nawm* var böneutropet för gryningsbönen. Folket kallar böneutropet under den sista delen av natten för det första böneutropet för gryningsbönen men det är inte för gryningsbönen. Profeten – över honom vare Allāhs frid och välsignelser – har ju sagt: ”*Bilal ropar ut böneutropet under natten för att väcka de av er som sover och för att de som står i bön ska kunna återvända*.” [^1] Syftet med detta är att den som sover ska gå upp och äta sin *sahūr* och att den som står i bön under natten ska återvända och äta sin *sahūr*.
+Det första böneutropet i vilket Bilal beordrades att säga *as-salatu khairun minan-nawm* var böneutropet för gryningsbönen. Folket kallar böneutropet under den sista delen av natten för det första böneutropet för gryningsbönen men det är inte för gryningsbönen. Profeten – över honom vare Allāhs frid och välsignelser – har ju sagt: "*Bilal ropar ut böneutropet under natten för att väcka de av er som sover och för att de som står i bön ska kunna återvända*." [^1]
+
+Syftet med detta är att den som sover ska gå upp och äta sin *sahūr* och att den som står i bön under natten ska återvända och äta sin *sahūr*.
 
 Profeten – över honom vare Allāhs frid och välsignelser – har även sagt till Mālik bin al-Huwairith: ”*Kommer tiden för bön bör en av er ropa ut böneutropet*.” [^2] Det är välkänt att bönen inte börjar förrän när tiden för gryningsbönen har börjat så det böneutrop som kommer innan gryningsbönen har börjat är inte böneutropet för gryningsbönen.
 

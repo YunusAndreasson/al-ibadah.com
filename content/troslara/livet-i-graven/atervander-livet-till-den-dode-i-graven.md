@@ -69,13 +69,19 @@ Detta visar att det finns ett straff innan Timmen kommer, vilket innebär att de
 
 > ”Låt dem därför vara till dess de får se den Dag vars [fasor] kommer att driva dem från vettet, den Dag då deras list inte ska vara dem till någon nytta och de inte finner hjälp någonstans. De som ständigt begår orätt [ska straffas] redan innan [den Dagen kommer], men de flesta av dem är ovetande [om detta].” [Koranen 52:45 – 47]
 
-Detta bevisar att de icke-troende kommer att få lida av ett straff innan Timmen börjar. Detta är allmänt och täcker de straff som Allāh kan tillfoga dem i detta livet samt det straff som Han kommer att tillfoga dem i deras gravar, innan de återuppväcks för det stora straffet. Autentiska *ahādīth* bekräftar att profeten – över honom vare Allāhs frid och välsignelser – brukade söka skydd hos Allāh från straffet i graven och han beordrade följeslagarna att göra samma sak. Det har även bekräftats att han brukade rikta sig till folket efter solförmörkelsebönen och beordra dem att söka sin tillflykt hos Allāh från straffet i graven. Han gjorde samma sak tre gånger vid gravplatsen i Gharqad medan han grävde en grav för en av hans avlidna följeslagare. Om inte straffet i graven hade varit ett faktum hade han inte sökt skydd hos Allāh från det och han hade heller inte beordrat följeslagarna att göra så.
+Detta bevisar att de icke-troende kommer att få lida av ett straff innan Timmen börjar. Detta är allmänt och täcker de straff som Allāh kan tillfoga dem i detta livet samt det straff som Han kommer att tillfoga dem i deras gravar, innan de återuppväcks för det stora straffet.
+
+Autentiska *ahādīth* bekräftar att profeten – över honom vare Allāhs frid och välsignelser – brukade söka skydd hos Allāh från straffet i graven och han beordrade följeslagarna att göra samma sak. Det har även bekräftats att han brukade rikta sig till folket efter solförmörkelsebönen och beordra dem att söka sin tillflykt hos Allāh från straffet i graven. 
+
+Han gjorde samma sak tre gånger vid gravplatsen i Gharqad medan han grävde en grav för en av hans avlidna följeslagare. Om inte straffet i graven hade varit ett faktum hade han inte sökt skydd hos Allāh från det och han hade heller inte beordrat följeslagarna att göra så.
 
 Beträffande Allāhs ord:
 
 > ”Gud stärker de troende med det ord vars sanning står fast i denna värld och i evigheten; men de orättfärdiga låter Han gå vilse. – Gud gör vad Han vill.” [Koranen 14:27]
 
-Profeten – över honom vare Allāhs frid och välsignelser – klargjorde att grundat på detta så kommer den troende att hållas stadig [i tron], medan den icke-troende kommer att misslyckas när denne utfrågas i graven. Han förklarade även att den troende kommer att belönas och ro i hans grav för svaren, och den icke-troende kommer att tveka och inte lyckas svara, och då straffas i graven. Detta kommer snart att visas i en *hadīth* från al-Bara' bin 'Azib. Bland bevisen för straffet i graven finns även hadithen från Ibn ‘Abbās som återberättas i *Sahīh al-Bukhārī* och *Sahīh Muslim*. När profeten – över honom vare Allāhs frid och välsignelser – passerade två gravar sade han:
+Profeten – över honom vare Allāhs frid och välsignelser – klargjorde att grundat på detta så kommer den troende att hållas stadig [i tron], medan den icke-troende kommer att misslyckas när denne utfrågas i graven. Han förklarade även att den troende kommer att belönas och ro i hans grav för svaren, och den icke-troende kommer att tveka och inte lyckas svara, och då straffas i graven. Detta kommer snart att visas i en *hadīth* från al-Bara' bin 'Azib. Bland bevisen för straffet i graven finns även hadithen från Ibn 'Abbās som återberättas i *Sahīh al-Bukhārī* och *Sahīh Muslim*.
+
+När profeten – över honom vare Allāhs frid och välsignelser – passerade två gravar sade han:
 
 > ”De [som ligger i gravarna] straffas men de straffas inte för en grov synd. När det gäller en av dem, var han inte noga med att hålla sig ren från urin och när det gäller den andre så brukade han berätta historier.”
 
@@ -109,7 +115,11 @@ Utfrågningen och den efterföljande belöningen eller bestraffningen i graven, 
 
 > Han sade: 'Sedan återlämnas hans själ till hans kropp, två änglar kommer till honom, de sitter med honom och säger: 'Vem är din Herre?' Han svarar: 'Åh! Åh! Jag vet inte!' Sedan frågar de: 'Vem är mannen som har sänts till dig?' Han svarar: 'Åh! Åh! Jag vet inte!' Sedan säger en röst från himmeln: 'Han har ljugit, förse honom med eld och öppna en dörr till Helveteselden för honom.' Sedan kommer dess hetta och vind till honom och hans grav görs så trång att hans revben hamnar fel. Sedan kommer en man med ett fult ansikte och en hemsk lukt till honom och säger: 'Gläd dig åt vad som plågar dig. Detta är din dag, som du har utlovats.' Han kommer att fråga: 'Vem är du, ditt ansikte är ansiktet hos den som för ont med sig?' Han kommer att svara: 'Jag är dina onda handlingar.' Så han kommer att säga: 'Min Herre! Inled inte Timmen!' [*Ahmad* 4:287, 288 och 295, 296]"
 
-Det är inte bortom tron att änglarna i gravarna ska fråga ut de döda, att de döda kommer att svara dem och att de kommer att få belöningar enligt deras handlingar. Det motsäger heller inte Allāhs magnifika förmåga och undren i Hans universella *sunnah*, att Han skulle belöna de troende i deras gravar samt straffa de icke-troende i deras. Den som studerar skapelsen kommer tydligt att se det universella i Allāhs vilja och dess implementation, den allgenomträngade naturen i Hans kraft, dess perfektion, excellensen i Hans skapelse, precisionen i Hans organisation, Hans formgivelse av Hans skapelse och hur Han har gjort det lätt för människan att tro på de autentiska haditherna om utfrågningen i gravarna samt den belöningen eller bestraffningen som kommer efter.
+Det är inte bortom tron att änglarna i gravarna ska fråga ut de döda, att de döda kommer att svara dem och att de kommer att få belöningar enligt deras handlingar. Det motsäger heller inte Allāhs magnifika förmåga och undren i Hans universella *sunnah*, att Han skulle belöna de troende i deras gravar samt straffa de icke-troende i deras. 
+
+Den som studerar skapelsen kommer tydligt att se det universella i Allāhs vilja och dess implementation, den allgenomträngade naturen i Hans kraft, dess perfektion, excellensen i Hans skapelse, precisionen i Hans organisation, Hans formgivelse av Hans skapelse och hur Han har gjort det lätt för människan att tro på de autentiska haditherna om utfrågningen i gravarna samt den belöningen eller bestraffningen som kommer efter.
+
+
 
 Det har även rapporterats att Allāh den Upphöjde kommer att återlämna själen till den avlidne när denne har begravts – ett återlämnande som kommer att lämna honom vid liv, levandes i *al-Barzakh* […]
 

@@ -16,7 +16,10 @@ description: >-
 
 **Fråga:** Vilken är din åsikt om uttrycket ”Allāh förbjude”?
 
-**Svar:** Jag ogillar att man säger ”Allāh förbjude”. Det kan förstås som att någon tvingar Allāh att göra något och därmed säger ”Allāh förbjude”. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”Det finns ingen som kan tvinga honom.” Han har även sagt: ”Ingen bör säga: 'Allāh! Förlåt mig om du vill. Allāh! Visa mig nåd om du vill.' I stället bör han vara beslutsam i sin fråga och bestämd i sin önskan. Ingen kan ju tvinga Allāh och det finns inget som är för stort för att Allāh ska kunna bevilja det.” [^1] Det är bättre att säga: ”Må Allāh inte bestämma det” i stället för ”Allāh förbjude” för det är mindre sannolikt att någon kommer att förstå det som något som inte är tillåtet i fråga om Allāh den Upphöjde.
+**Svar:** Jag ogillar att man säger "Allāh förbjude". Det kan förstås som att någon tvingar Allāh att göra något och därmed säger "Allāh förbjude". Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: "Det finns ingen som kan tvinga honom."
+
+Han har även sagt: "Ingen bör säga: 'Allāh! Förlåt mig om du vill. Allāh! Visa mig nåd om du vill.' I stället bör han vara beslutsam i sin fråga och bestämd i sin önskan. Ingen kan ju tvinga Allāh och det finns inget som är för stort för att Allāh ska kunna bevilja det." [^1] 
+Det är bättre att säga: "Må Allāh inte bestämma det" i stället för "Allāh förbjude" för det är mindre sannolikt att någon kommer att förstå det som något som inte är tillåtet i fråga om Allāh den Upphöjde.
 
 
 [^1]: *al-Bukhārī* i boken om innovationer

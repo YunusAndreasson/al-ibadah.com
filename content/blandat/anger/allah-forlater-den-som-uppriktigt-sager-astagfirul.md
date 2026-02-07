@@ -19,7 +19,9 @@ description: 'Fråga: Är det sant att Allāh den Allsmäktige förlåter alla s
 
 > "Gud älskar dem som vänder tillbaka till Honom i ånger [om de har syndat] och Han älskar dem som vill rena sig." [Koranen 2:222]
 
-Profeten har informerat oss om att Allāh den Allsmäktige är lika nöjd när någon av Hans skapelser ångrar sig, som när en man återfinner en förlorad kamel (som bar hans mat och dryck). Han letar efter den, men då han inte finner den, vilar han under ett träd tills döden ska nå honom. Plötsligt vaknar han för att finna kamelens remtyg bundet vid trädet. Han tar remtyget och säger: "Allāh, Du är min tjänare och jag är din Herre." Med anledning av den intensiva glädjen säger han fel. Ingen kan uppskatta graden av denna glädje förrän man gått genom något liknande själv.
+Profeten har informerat oss om att Allāh den Allsmäktige är lika nöjd när någon av Hans skapelser ångrar sig, som när en man återfinner en förlorad kamel (som bar hans mat och dryck). Han letar efter den, men då han inte finner den, vilar han under ett träd tills döden ska nå honom. Plötsligt vaknar han för att finna kamelens remtyg bundet vid trädet. Han tar remtyget och säger: "Allāh, Du är min tjänare och jag är din Herre."
+
+Med anledning av den intensiva glädjen säger han fel. Ingen kan uppskatta graden av denna glädje förrän man gått genom något liknande själv.
 
 Allāh den Allsmäktige älskar att en person ångrar sig inför Honom och att de söker Hans förlåtelse. Han har därför i ett antal Koran-verser beordrat oss att söka Hans förlåtelse.
 

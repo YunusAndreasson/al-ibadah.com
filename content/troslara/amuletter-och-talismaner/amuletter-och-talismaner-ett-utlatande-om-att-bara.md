@@ -25,7 +25,9 @@ Det som bärs kommer från Koranen. De lärde har, både i tidiga och sena gener
 
 Detta är då från Hans välsignelser när de bärs för att skydda mot det onda.
 
-Andra har förbjudit det genom att säga: Man har inte bekräftat från profeten – över honom vare Allāhs frid och välsignelser – att det är tillåtet att bära dem som ett medel för att skydda sig mot eller klara sig undan farligheter. Den grundläggande principen i frågor som dessa är att man undviker dem. Detta är den starkaste åsikten. Till följd av detta är det inte tillåtet att bära talismaner även om de kommer från den ädla Koranen. Det är heller inte tillåtet att lägga dem under en sjuklings kudde, att hänga dem på väggen eller något liknande. Åkallan och recitation får enbart göras direkt över den sjuke, på det sätt som profeten – över honom vare Allāhs frid och välsignelser – brukade göra.
+Andra har förbjudit det genom att säga: Man har inte bekräftat från profeten – över honom vare Allāhs frid och välsignelser – att det är tillåtet att bära dem som ett medel för att skydda sig mot eller klara sig undan farligheter. Den grundläggande principen i frågor som dessa är att man undviker dem. Detta är den starkaste åsikten. 
+
+Till följd av detta är det inte tillåtet att bära talismaner även om de kommer från den ädla Koranen. Det är heller inte tillåtet att lägga dem under en sjuklings kudde, att hänga dem på väggen eller något liknande. Åkallan och recitation får enbart göras direkt över den sjuke, på det sätt som profeten – över honom vare Allāhs frid och välsignelser – brukade göra.
 
 Föremålet som bärs har sitt ursprung i något annat än den ädla Koranen och innebörden går inte att förstå. Detta är inte tillåtet under några omständigheter då man inte vet vad som har skrivits där. Somliga gör amuletter och komplicerade tingestar med invävda bokstäver som nästan är omöjliga att förstå eller läsa. Sådana föremål är förbjudna innovationer och de är inte tillåtna under några omständigheter.
 

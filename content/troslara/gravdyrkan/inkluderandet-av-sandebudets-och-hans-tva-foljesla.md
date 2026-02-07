@@ -32,7 +32,9 @@ Jundub bin Abdullāh al-Bajali har sagt:
 
 Dessa *ahādīth* påvisar även att det är förbjudet att bygga statyer eller kupoler över gravar […] Att göra så anses vara ett medel för *shirk* samt ett sätt att dyrka den i graven i stället för Allāh.
 
-Detta har inträffat både förr och nu. Oberoende av var muslimer befinner sig måste de vara medvetna om att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit att gravar konstrueras, att man bygger kupoler över dem, att man murar dem eller lyser upp dem samt andra saker som han har förbjudit. De ska inte låta sig luras av vad den stora massan gör, den troende måste alltid söka sanningen och hålla sig till den var han än finner den. Sanningen kan kännas igen genom bevis från Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*, inte genom människors handlande eller åsikter.
+Detta har inträffat både förr och nu. Oberoende av var muslimer befinner sig måste de vara medvetna om att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit att gravar konstrueras, att man bygger kupoler över dem, att man murar dem eller lyser upp dem samt andra saker som han har förbjudit. 
+
+De ska inte låta sig luras av vad den stora massan gör, den troende måste alltid söka sanningen och hålla sig till den var han än finner den. Sanningen kan kännas igen genom bevis från Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*, inte genom människors handlande eller åsikter.
 
 Varken Allāhs sändebud – över honom vare Allāhs frid och välsignelser – eller hans båda följeslagare begravdes inuti moskén [utan i stället] begravdes de i ‘Ā’ishāh – må Allāh vara nöjd med henne – kammare. Men när moskén byggdes ut under al-Walīd bin Abdul-Māliks tid innefattades kammaren i moskén. Detta ska inte jämföras med att innefatta en grav i moskén därför att varken profeten – över honom vare Allāhs frid och välsignelser – eller hans båda följeslagare flyttades in i moskén. Det var endast kammaren i vilken de begravts som innefattades i moskén på grund av expansionen.
 

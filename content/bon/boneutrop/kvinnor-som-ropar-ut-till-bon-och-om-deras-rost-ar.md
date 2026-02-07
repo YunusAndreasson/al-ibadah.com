@@ -19,7 +19,9 @@ description: >-
 
 **Svar:** Enligt den mest korrekta åsikten bland de lärda så ropar kvinnan inte ut böneutropet. Anledningen är att det inte är hennes skyldighet samt att hon inte var berättigad att göra det under profetens – över honom vare Allāhs frid och välsignelser – eller de korrekt vägledda kalifernas tid.
 
-En kvinnas röst anses normalt sett inte vara *‘awrah*[^1]. Kvinnor brukade ju klaga inför och fråga profeten – över honom vare Allāhs frid och välsignelser – om islam. De gjorde även detta till de korrekt vägledda kaliferna och de med makt som kom efter dem. De brukade även hälsa på män som inte kom från deras familjer samt besvara hälsningar från dem. Ingen av de islamiskt lärda har kritiserat detta. Hon får dock inte tala med en låg, charmande och förfinad ton. Detta kan förföra och locka män. Detta enligt Allāhs den Upphöjdes ord: ”*Hustrur till [Vår] Profet! Ni skiljer er från alla andra kvinnor, om ni fruktar Gud. Var inte [för] mjuka och tillmötesgående i ert tal så att den som har ett sjukt hjärta fattar begär [till er], men använde ett vänligt och artigt språk som sig bör*.” [^2]
+En kvinnas röst anses normalt sett inte vara *'awrah*[^1]. Kvinnor brukade ju klaga inför och fråga profeten – över honom vare Allāhs frid och välsignelser – om islam. De gjorde även detta till de korrekt vägledda kaliferna och de med makt som kom efter dem. De brukade även hälsa på män som inte kom från deras familjer samt besvara hälsningar från dem. Ingen av de islamiskt lärda har kritiserat detta.
+
+Hon får dock inte tala med en låg, charmande och förfinad ton. Detta kan förföra och locka män. Detta enligt Allāhs den Upphöjdes ord: "*Hustrur till [Vår] Profet! Ni skiljer er från alla andra kvinnor, om ni fruktar Gud. Var inte [för] mjuka och tillmötesgående i ert tal så att den som har ett sjukt hjärta fattar begär [till er], men använde ett vänligt och artigt språk som sig bör*." [^2]
 
 [^1]: De delar av kroppen som måste täckas.
 

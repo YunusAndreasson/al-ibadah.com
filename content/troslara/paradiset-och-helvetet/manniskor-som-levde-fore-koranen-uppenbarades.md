@@ -18,7 +18,9 @@ description: 'Fråga: De böcker som uppenbarades innan Koranen blev förvanskad
 
 Det finns andra som handlade efter dessa ändringar, trots att de visste att det var förvanskningar och de läste dem i det skick som de var, trots att de visste hur de egentligen skulle läsas. De bär en synd då de har handlat avsiktligt efter det som var felaktigt.
 
-Det finns också de som är okunniga eller inte kan läsa och som följde dessa lagar och handlade efter dem, utan att söka efter det som var korrekt och i originalform. De bär en viss synd, men om de inte är läskunniga och oförmögna att ta reda på sanningen, då bärs deras synd av dem som vilselett dem. Har de inte möjlighet att förvissa sig om sanningen och inte finner någon att fråga, då kommer de att dömas som *ahlul-[^1] fitrah*[^2]. De kommer att prövas i det Nästkommande och genom Allāhs Kunskap kommer det att bli klart vem som är en troende.
+Det finns också de som är okunniga eller inte kan läsa och som följde dessa lagar och handlade efter dem, utan att söka efter det som var korrekt och i originalform. De bär en viss synd, men om de inte är läskunniga och oförmögna att ta reda på sanningen, då bärs deras synd av dem som vilselett dem. 
+
+Har de inte möjlighet att förvissa sig om sanningen och inte finner någon att fråga, då kommer de att dömas som *ahlul-[^1] fitrah*[^2]. De kommer att prövas i det Nästkommande och genom Allāhs Kunskap kommer det att bli klart vem som är en troende.
 
 [^1]: De som kommer att prövas på Domedagen för att ta reda på om de tillhör Helvetet eller Paradiset.
 [^2]: Det naturliga tillstånd som människan föds i.

@@ -18,7 +18,9 @@ description: >-
 
 **Svar:** Om hon har varit vid sina sinnens fulla bruk under denna tid och hon har haft möjlighet att gottgöra sig, då ska den ges för hennes räkning från det som hon har lämnat i arv. Detta är för att gottgöra för de dagar som hon inte har fastat och som hon inte har gottgjort sig för genom att ge fattiga en halv *sa'* av den mat som finns i landet för varje dag och dela ut bland de fattiga och behövande.
 
-Men om hon inte har varit vid sina sinnens fulla bruk på grund av senilitet eller om hon har varit fattig och inte har haft möjlighet att gottgöra sig då pengarna från socialen enbart har varit tillräckliga för hennes behov utan att det blivit över något för en gottgörelse, då krävs varken något från henne eller från arvtagarna. Detta beror på att Allāh har sagt: ”*Frukta därför Gud efter måttet av er förmåga*.” [^1] Det beror även på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Allt jag har förbjudit er, undvik det. Allt jag har kommenderat er till, gör det så mycket som ni kan*.” [^2] Denna *hadīths* äkthet råder det enighet om.
+Men om hon inte har varit vid sina sinnens fulla bruk på grund av senilitet eller om hon har varit fattig och inte har haft möjlighet att gottgöra sig då pengarna från socialen enbart har varit tillräckliga för hennes behov utan att det blivit över något för en gottgörelse, då krävs varken något från henne eller från arvtagarna.
+
+Detta beror på att Allāh har sagt: "*Frukta därför Gud efter måttet av er förmåga*." [^1] Det beror även på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Allt jag har förbjudit er, undvik det. Allt jag har kommenderat er till, gör det så mycket som ni kan*." [^2] Denna *hadīths* äkthet råder det enighet om.
 
 Likaså när det gäller seniliteten, om hon har blivit senil, då gäller inte skyldigheten att fasta, och liknande.
 

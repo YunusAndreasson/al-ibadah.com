@@ -19,7 +19,11 @@ description: >-
 
 **Svar:** Det råder inga tvivel om att *jinn* kan verka skadligt på människor, till den grad att dödsfall inträffar. De kan skada en genom att kasta stenar, de kan var orsak till rädsla och de kan göra andra saker som profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och verkligheten bekräftar.
 
-Allāhs sändebud – över honom vare Allāhs frid och välsignelser – tillät en av följeslagarna att gå till dennes fru under ett av slagen – jag tror det var under slaget vid diket – och denne var nygift. När följeslagaren kom till sitt hem fann han att frun stod vid dörren och han gillade inte det men hon sade till honom: ”Stig in”. Han gick in och fann en orm i sängen och han slog med ett spjut han hade med sig tills ormen dog. Precis då avled [också] mannen och ingen visste vem som hade dött först – ormen eller mannen. När profeten – över honom vare Allāhs frid och välsignelser – informerades om detta förbjöd han att man dödar *jinn* som bor i hus, utom *al-abtar* och *thatut-tufyatain*. [^2]
+Allāhs sändebud – över honom vare Allāhs frid och välsignelser – tillät en av följeslagarna att gå till dennes fru under ett av slagen – jag tror det var under slaget vid diket – och denne var nygift. När följeslagaren kom till sitt hem fann han att frun stod vid dörren och han gillade inte det men hon sade till honom: ”Stig in”. Han gick in och fann en orm i sängen och han slog med ett spjut han hade med sig tills ormen dog.
+
+Precis då avled [också] mannen och ingen visste vem som hade dött först – ormen eller mannen.
+
+När profeten – över honom vare Allāhs frid och välsignelser – informerades om detta förbjöd han att man dödar *jinn* som bor i hus, utom *al-abtar* och *thatut-tufyatain*. [^2]
 
 Detta är ett bevis för att *jinn* kan visa fiendskap mot människor och att de kan vara skadliga. Detta är ett bevisat faktum.
 

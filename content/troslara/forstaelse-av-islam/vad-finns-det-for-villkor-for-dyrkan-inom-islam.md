@@ -16,11 +16,17 @@ description: >-
 
 **Fråga:** Vad finns det för villkor för dyrkan inom islam?
 
-**Svar:** För det första: dyrkan måste vara enligt den islamiska lagen och dess syften. Den som dyrkar Allāh av en anledning som inte den islamiska lagen bevisar utför en dyrkan som inte kommer att godkännas och som Allāh och Hans sändebud inte har påbjudit. Ett exempel på detta kan vara att fira profetens – över honom vare Allāhs frid och välsignelser – födelsedag eller att fira den 27:e natten under *rajab* i tron om att profeten – över honom vare Allāhs frid och välsignelser – då fördes upp till himlen. Detta är inte enligt den islamiska lagen – och därmed inte giltigt.
+**Svar:** För det första: dyrkan måste vara enligt den islamiska lagen och dess syften. Den som dyrkar Allāh av en anledning som inte den islamiska lagen bevisar utför en dyrkan som inte kommer att godkännas och som Allāh och Hans sändebud inte har påbjudit.
+
+Ett exempel på detta kan vara att fira profetens – över honom vare Allāhs frid och välsignelser – födelsedag eller att fira den 27:e natten under *rajab* i tron om att profeten – över honom vare Allāhs frid och välsignelser – då fördes upp till himlen. Detta är inte enligt den islamiska lagen – och därmed inte giltigt.
 
 Det finns inga historiska bevis för att profetens – över honom vare Allāhs frid och välsignelser – himmelsfärd ägde rum under den 27:e natten i *rajab*. De böcker med *ahādīth* som vi har att tillgå innehåller inte en enda stavelse som antyder att detta skulle ha ägt rum denna natt. Det är känt att denna form av information inte kan accepteras utan en godkänd berättarkedja.
 
-Även om det skulle bevisas, har vi då rätt att introducera någon festlighet den dagen? Nej, inte alls. Profeten – över honom vare Allāhs frid och välsignelser – kom till Medina och såg att *ansār* hade två dagar för förströelse sade han: ”*Allāh har ersatt dessa för er med något som är bättre*”. Han nämnde då *‘eid al-fitr* och *‘eid al-adhā*. Detta antyder att profeten – över honom vare Allāhs frid och välsignelser – ogillade alla former av innoverade högtidligheter, utom de islamiska som det finns tre utav: de två årliga *‘eid* [^1] samt den veckovisa fredagen. Även om det skulle bevisas att profeten – över honom vare Allāhs frid och välsignelser – togs upp till himlen den 27:e *rajab* – vilket är omöjligt att bevisa – skulle vi ändå inte ha kunnat innovera något vid detta tillfälle utan tillstånd ifrån Laggivaren.
+Även om det skulle bevisas, har vi då rätt att introducera någon festlighet den dagen? Nej, inte alls. Profeten – över honom vare Allāhs frid och välsignelser – kom till Medina och såg att *ansār* hade två dagar för förströelse sade han: "*Allāh har ersatt dessa för er med något som är bättre*". Han nämnde då *'eid al-fitr* och *'eid al-adhā*.
+
+Detta antyder att profeten – över honom vare Allāhs frid och välsignelser – ogillade alla former av innoverade högtidligheter, utom de islamiska som det finns tre utav: de två årliga *'eid* [^1] samt den veckovisa fredagen. Även om det skulle bevisas att profeten – över honom vare Allāhs frid och välsignelser – togs upp till himlen den 27:e *rajab* – vilket är omöjligt att bevisa – skulle vi ändå inte ha kunnat innovera något vid detta tillfälle utan tillstånd ifrån Laggivaren.
+
+
 
 Som jag har sagt till dig är innovationer något mycket allvarligt som har en dålig inverkan på hjärtat – även om man känner att det mjuknar just vid det tillfället. Sedan kommer motsatsen att uppnås; om hjärtat gläder sig åt falskhet, kommer den glädjen inte att vara, utan den kommer i stället att efterföljas av smärta och ånger. innovationer är något allvarligt då den antyder en kritik mot profeten – över honom vare Allāhs frid och välsignelser – i den formen att han inte skulle ha fört med sig en komplett islamisk lag – trots att Allāh har sagt:
 
@@ -32,7 +38,11 @@ Därför säger vi att det är en innovation att fira profetens – över honom 
 
 För det andra: dyrkan måste vara enligt den islamiska lagen i dess typ eller i karaktär. Om någon exempelvis offrar en häst skulle det stå i motsats till den islamiska lagen. Detta beror på att ett offerdjur måste komma ifrån familjen *an'ām*, nämligen: kameler, kor eller får.
 
-För det tredje: dyrkan måste vara in enlighet med den islamiska lagen i dess omfattning. Om någon säger att han ber sex bönecykler under middagsbönen, skulle detta då vara enligt den islamiska lagen? Inte alls då antalet är felaktigt. Om någon skulle säga *Subhān Allāh, al-Hamdu Lillāh* och *Allāhu akbar* 35 gånger efter varje obligatorisk bön, skulle detta då vara korrekt? Svaret är att om dennes mål var att dyrka Allāh genom att säga dessa ord detta antal gånger för att denne tror att det är korrekt, då har denne misstagit sig. Om denne avsiktligen adderade något till vad Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har föreskrivit, men samtidigt trodde att det korrekta antalet enligt islam är 33, då går det extra antalet bra. Denne anser ju inte att det högre numret är det rätta.
+För det tredje: dyrkan måste vara in enlighet med den islamiska lagen i dess omfattning. Om någon säger att han ber sex bönecykler under middagsbönen, skulle detta då vara enligt den islamiska lagen? Inte alls då antalet är felaktigt. Om någon skulle säga *Subhān Allāh, al-Hamdu Lillāh* och *Allāhu akbar* 35 gånger efter varje obligatorisk bön, skulle detta då vara korrekt? Svaret är att om dennes mål var att dyrka Allāh genom att säga dessa ord detta antal gånger för att denne tror att det är korrekt, då har denne misstagit sig.
+
+Om denne avsiktligen adderade något till vad Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har föreskrivit, men samtidigt trodde att det korrekta antalet enligt islam är 33, då går det extra antalet bra.
+
+Denne anser ju inte att det högre numret är det rätta.
 
 För det fjärde: dyrkan måste vara enligt den islamiska lagen på det sätt som den utförs.
 
@@ -46,7 +56,9 @@ Beviset för detta finns i en *hadīth* i vilken ‘A’ishah berättar att prof
 
 För de sjätte: dyrkan måste utföras enligt den islamiska lagen med avsende på platsen som den utförs på.
 
-Om någon står i *Muzdalifah* under *Arafat*-dagen är detta inte giltig då det inte är enligt den islamiska lagen beträffande plats. Detsamma gäller om någon skulle utföra *i’tikāf *i sitt eget hem. Det skulle det inte heller vara giltigt då platsen för *i’tikāf* är i moskén. Därför är det heller inte godkänt om en kvinna gör *i’tikāf *i sitt eget hem då platsen för detta är i moskén. Profeten – över honom vare Allāhs frid och välsignelser – såg att några av hans fruar hade satt upp tält inne i moskén. Han sade till dem att ta ned dem och inte göra *i’tikāf* men han sade inte åt dem att göra *i’tikāf* i deras hem. Detta visar att kvinnorna inte skulle göra *i’tikāf* i deras hem då det går emot den islamiska lagen med avseende på platsen för utförande.
+Om någon står i *Muzdalifah* under *Arafat*-dagen är detta inte giltig då det inte är enligt den islamiska lagen beträffande plats. Detsamma gäller om någon skulle utföra *i'tikāf *i sitt eget hem. Det skulle det inte heller vara giltigt då platsen för *i'tikāf* är i moskén.
+
+Därför är det heller inte godkänt om en kvinna gör *i'tikāf *i sitt eget hem då platsen för detta är i moskén. Profeten – över honom vare Allāhs frid och välsignelser – såg att några av hans fruar hade satt upp tält inne i moskén. Han sade till dem att ta ned dem och inte göra *i’tikāf* men han sade inte åt dem att göra *i’tikāf* i deras hem. Detta visar att kvinnorna inte skulle göra *i’tikāf* i deras hem då det går emot den islamiska lagen med avseende på platsen för utförande.
 
 Med dessa sex anledningar som grund är en dyrkan inte giltig om den inte förenar all sex:
 

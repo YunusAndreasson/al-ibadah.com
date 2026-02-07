@@ -16,6 +16,8 @@ description: >-
 
 **Fråga:** En dag hade jag en våt dröm och det var en mycket kall dag. Jag gick därför till skolan, gjorde *tayammum* och bad. Sedan kom jag hem igen och jag gjorde inte *ghusl*. Vilket är utlåtandet om detta? Må Allāh belöna er för er godhet.
 
-**Svar:** Du måste göra om de två bönerna som du bad utan *ghusl* då du hade den stora rituella orenheten. Anledningen är att du var i en stad där det fanns möjlighet att få tag på vatten. Om du vaknade och var rädd för kylan, då är det tillåtet med *tayammum*. Men om det fanns något sätt för att värma upp vattnet på, då är det obligatoriskt att göra *ghusl*. Om du var på resande fot och inte hade möjlighet att värma vattnet, då är det tillåtet att göra *tayammum*. Det är inte syndigt då. Men hade du hittat vatten, då hade du behövt göra *ghusl*.
+**Svar:** Du måste göra om de två bönerna som du bad utan *ghusl* då du hade den stora rituella orenheten. Anledningen är att du var i en stad där det fanns möjlighet att få tag på vatten.
+
+Om du vaknade och var rädd för kylan, då är det tillåtet med *tayammum*. Men om det fanns något sätt för att värma upp vattnet på, då är det obligatoriskt att göra *ghusl*. Om du var på resande fot och inte hade möjlighet att värma vattnet, då är det tillåtet att göra *tayammum*. Det är inte syndigt då. Men hade du hittat vatten, då hade du behövt göra *ghusl*.
 
 

@@ -14,7 +14,9 @@ description: 'Fråga: Förbjöd följeslagarna att folket stod upp när de sänd
 
 **Fråga:** Förbjöd följeslagarna att folket stod upp när de sände fridshälsningar över profeten?
 
-**Svar:** Följeslagarna brukade aldrig stå upp när de sände fridshälsningar över profeten, varken när de besökte hans grav eller vid andra tillfällen. Det var inte heller deras vana att gå till hans grav för att sända fridshälsningar över honom. När de gick in i profetens – över honom vare Allāhs frid och välsignelser – moské stod de jämte den för att sända fridshälsningar över honom. Det har dock rapporterats autentiskt från Ibn ´Umar att när han återvände från en resa så gick han till profetens – över honom vare Allāhs frid och välsignelser – Moské och när han hade bett gick han till profetens – över honom vare Allāhs frid och välsignelser – grav och sände fridshälsningar över honom.
+**Svar:** Följeslagarna brukade aldrig stå upp när de sände fridshälsningar över profeten, varken när de besökte hans grav eller vid andra tillfällen. Det var inte heller deras vana att gå till hans grav för att sända fridshälsningar över honom. När de gick in i profetens – över honom vare Allāhs frid och välsignelser – moské stod de jämte den för att sända fridshälsningar över honom.
+
+Det har dock rapporterats autentiskt från Ibn ´Umar att när han återvände från en resa så gick han till profetens – över honom vare Allāhs frid och välsignelser – Moské och när han hade bett gick han till profetens – över honom vare Allāhs frid och välsignelser – grav och sände fridshälsningar över honom.
 
 Må frid och välsignelser vara över vår profet Muḥammad, hans familj och följeslagare.
 

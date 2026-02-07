@@ -17,7 +17,9 @@ description: >-
 
 **Fråga:** Är ens levebröd och äktenskap nedtecknat i *al-lawh al-mahfuz*?
 
-**Svar:** Allting sedan skapelsen av pennan till Återuppståndelsens dag är nedtecknat i *al-lawh al-mahfuz*. När Allāh den Härlige, den Upphöjde skapade pennan sade Han till den: ”*Skriv*.” Den sade: ”*Min Herre! Vad ska jag skriva?*” Han sade: ”*Skriv ned allt som kommer att ske*.” Och på detta sätt nedtecknades under den timmen allt som kommer att ske. [^1] Profeten – över honom vare Allāhs frid och välsignelser – har sagt att när 40 dagar har gått sänder Allāh en ängel till fostret i moderns sköte. Ängeln andas in själen i fostret och nedtecknar dennes levebröd, livslängd, handlingar och om denne kommer att vara lycklig eller olycklig. [*al-Bukhārī*]
+**Svar:** Allting sedan skapelsen av pennan till Återuppståndelsens dag är nedtecknat i *al-lawh al-mahfuz*. När Allāh den Härlige, den Upphöjde skapade pennan sade Han till den: ”*Skriv*.” Den sade: ”*Min Herre! Vad ska jag skriva?*” Han sade: ”*Skriv ned allt som kommer att ske*.” Och på detta sätt nedtecknades under den timmen allt som kommer att ske. [^1] 
+
+Profeten – över honom vare Allāhs frid och välsignelser – har sagt att när 40 dagar har gått sänder Allāh en ängel till fostret i moderns sköte. Ängeln andas in själen i fostret och nedtecknar dennes levebröd, livslängd, handlingar och om denne kommer att vara lycklig eller olycklig. [*al-Bukhārī*]
 
 Levebrödet nedtecknas även enligt orsakerna och det varken ökar eller minskar. Att man arbetar för att försörja sig är en del av orsakerna. Allāh den Allsmäktige säger ju:
 

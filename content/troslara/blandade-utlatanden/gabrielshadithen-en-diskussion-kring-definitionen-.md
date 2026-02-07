@@ -23,7 +23,11 @@ med *hadithen* från ´Abdul-Qais-delegationen i vilken profeten – över honom
 
 > ”… att det inte finns någon gudom [värdig dyrkan] förutom Allāh, att Han är en, utan någon medhjälpare vid Sin sida, att be, att betala allmosa och att betala khumus” [*al-Bukhārī* 53 och *Muslim* 17]
 
-**Svar:** Innan vi svarar denna fråga skulle jag vilja säga att det aldrig finns några motsägelser mellan Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Ingen del av Skriften motsäger någon annan del och ingen del av den autentiska sunan återberättad från profeten – över honom vare Allāhs frid och välsignelser – motsäger sig någon annan del. Och inget vare sig i Koranen eller i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* motsäger sig odiskutabla faktum. Detta beror på att de är sanna och det kan inte finnas någon motsägelse i sanningen. Förstår du då denna princip kommer många tvivel att skringa sig för dig. Allāh den Upphöjde säger:
+**Svar:** Innan vi svarar denna fråga skulle jag vilja säga att det aldrig finns några motsägelser mellan Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Ingen del av Skriften motsäger någon annan del och ingen del av den autentiska sunan återberättad från profeten – över honom vare Allāhs frid och välsignelser – motsäger sig någon annan del.
+
+Och inget vare sig i Koranen eller i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* motsäger sig odiskutabla faktum. Detta beror på att de är sanna och det kan inte finnas någon motsägelse i sanningen.
+
+Förstår du då denna princip kommer många tvivel att skringa sig för dig. Allāh den Upphöjde säger:
 
 > ”Ägnar de ingen eftertanke åt det som Koranen [innehåller]? De skulle säker ha funnit många motsägelser i den, om den inte varit från Gud.” [Koranen 4:82]
 

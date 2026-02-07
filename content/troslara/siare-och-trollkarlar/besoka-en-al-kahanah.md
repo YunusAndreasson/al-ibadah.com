@@ -16,7 +16,9 @@ description: >-
 
 **Fråga:** Vad är *al-kahanah* och vilket är utlåtandet om att besöka en *kahin*?
 
-**Svar:** *al-Kahanah* härleds från *at-takahhun* som betyder att sätta ihop lögner eller att söka efter sanningen på ett sätt som saknar grund. Under den förislamiska tiden utfördes detta av dem som brukade kontaktas av de djävular som tjuvlyssnade till det som sades i himlarna för att sedan informera folket om det. Folket tog då, med vissa tillägg, vad dessa djävular berättade för dem och sedan berättade de för andra. Om något som de hade sagt inträffade bedrogs folket av dem och då gick folket till dem [bedragarna] för att få domslut. Folket sökte även kunskap om framtiden hos dem och därför säger vi att en *kahin* [siare] är någon som informerar om det som är dolt för människor[^1] i framtiden.
+**Svar:** *al-Kahanah* härleds från *at-takahhun* som betyder att sätta ihop lögner eller att söka efter sanningen på ett sätt som saknar grund. Under den förislamiska tiden utfördes detta av dem som brukade kontaktas av de djävular som tjuvlyssnade till det som sades i himlarna för att sedan informera folket om det. Folket tog då, med vissa tillägg, vad dessa djävular berättade för dem och sedan berättade de för andra. Om något som de hade sagt inträffade bedrogs folket av dem och då gick folket till dem [bedragarna] för att få domslut.
+
+Folket sökte även kunskap om framtiden hos dem och därför säger vi att en *kahin* [siare] är någon som informerar om det som är dolt för människor[^1] i framtiden.
 
 Det finns tre olika sorters folk som går till siare:
 

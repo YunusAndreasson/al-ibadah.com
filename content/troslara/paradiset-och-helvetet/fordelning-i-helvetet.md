@@ -16,7 +16,9 @@ description: >-
 
 **Fråga:** Är det sant vad som sagts, att de flesta i Elden kommer att vara kvinnor?
 
-**Svar:** Detta är sant. Under en predikan sade profeten: ”*Kvinnor! Ge till välgörenhet för jag har sett att ni utgör majoriteten av Eldens invånare* .” Detta tvivel som frågeställaren har rest uttrycktes även inför profeten: ”*På grund av vad? Allāhs sändebud!*” Han sade: ”*Ni förbannar ofta och är otacksamma mot era män*.” [^1] Profeten – över honom vare Allāhs frid och välsignelser – har här klargjort anledningen till varför de är majoriteten av Eldens invånare. Detta beror på att de ofta baktalar, förbannar och skymfar. Likaså är de otacksamma mot deras män. Av dessa anledningar är de majoriteten av Eldens invånare.
+**Svar:** Detta är sant. Under en predikan sade profeten: ”*Kvinnor! Ge till välgörenhet för jag har sett att ni utgör majoriteten av Eldens invånare* .” Detta tvivel som frågeställaren har rest uttrycktes även inför profeten: ”*På grund av vad? Allāhs sändebud!*” Han sade: ”*Ni förbannar ofta och är otacksamma mot era män*.” [^1] 
+
+Profeten – över honom vare Allāhs frid och välsignelser – har här klargjort anledningen till varför de är majoriteten av Eldens invånare. Detta beror på att de ofta baktalar, förbannar och skymfar. Likaså är de otacksamma mot deras män. Av dessa anledningar är de majoriteten av Eldens invånare.
 
 
 [^1]: *al-Bukhārī* 304 och *Muslim* 79

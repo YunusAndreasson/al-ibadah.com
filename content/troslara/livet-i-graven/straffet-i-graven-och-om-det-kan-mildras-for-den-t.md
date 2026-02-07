@@ -34,7 +34,9 @@ Glorifieringen av stenen i sändebudets hand hördes trots att stenen var torr [
 
 En av dem skyddade sig inte mot sin urin och om han inte skyddade sig innebär det att han bad rituellt oren. Den andre gick runt och spred sagor som skapade fiendskap mellan Allāhs tjänare. Detta är något allvarligt.
 
-Förklaringen att det var en tillfällig medling för att varna folket är närmare sanningen. Det var inte snikenhet från profetens – över honom vare Allāhs frid och välsignelser – sida när han inte sökte en bestående medling. Vi avviker här ifrån ämnet för att säga att vissa lärde har sagt att det är tillåtet att lägga färska palmlöv, en trädgren eller något liknande över en grav för att mildra straffet för den begravde. Men ingriper man på detta sätt är det [ett handlande som är] mycket långt ifrån sanningen och det är av flera skäl inte tillåtet för oss att göra så:
+Förklaringen att det var en tillfällig medling för att varna folket är närmare sanningen. Det var inte snikenhet från profetens – över honom vare Allāhs frid och välsignelser – sida när han inte sökte en bestående medling. 
+
+Vi avviker här ifrån ämnet för att säga att vissa lärde har sagt att det är tillåtet att lägga färska palmlöv, en trädgren eller något liknande över en grav för att mildra straffet för den begravde. Men ingriper man på detta sätt är det [ett handlande som är] mycket långt ifrån sanningen och det är av flera skäl inte tillåtet för oss att göra så:
 
 1. Det har inte uppenbarats att denne man blir straffad, vilket står i motsats till fallet med männen som profeten – över honom vare Allāhs frid och välsignelser – talade om. [Här fick vi ju reda på att de straffades.]
 2. Gör vi detta har vi handlat felaktigt mot den avlidne då vi har trott illa om honom genom att tro att han blir straffad. Hur ska vi kunna veta att han blir det? Kanske har Allāh, av någon av de många anledningar som Allāh förlåter genom, förlåtit honom innan han gick bort. Han avled då och hans Herre förlät honom, vilket skulle innebära att han inte förtjänar ett straff.

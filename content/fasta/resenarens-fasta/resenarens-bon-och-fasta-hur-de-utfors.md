@@ -21,7 +21,9 @@ description: >-
 
 Anas bin Mālik sade: ”*Vi gav oss ut på en resa från Medina till Mecka tillsammans med profeten – över honom vare Allāhs frid och välsignelser – och han bad två bönecykler för varje bön med fyra bönecykler tills vi återvände till Medina*.” [^3]
 
-Men om man ber tillsammans med en imam som ber en oförkortad bön, då måste man be fyra bönecykler oavsett om man hinner med bönen från början eller om man missar delar av den. Detta beror på den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*När ni hör *iqamah*, gå då fram i lugn och ro. Skynda er inte. Be det som ni har möjlighet att be och fullborda [det som ni har missat]*." [^4] Så den allmänna innebörden av hans ord: "*Be det som ni har möjlighet att be och fullborda [det som ni har missat]*" innefattar även den resande som ber bakom en imam som ber fyra bönecykler.
+Men om man ber tillsammans med en imam som ber en oförkortad bön, då måste man be fyra bönecykler oavsett om man hinner med bönen från början eller om man missar delar av den.
+
+Detta beror på den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*När ni hör *iqamah*, gå då fram i lugn och ro. Skynda er inte. Be det som ni har möjlighet att be och fullborda [det som ni har missat]*." [^4] Så den allmänna innebörden av hans ord: "*Be det som ni har möjlighet att be och fullborda [det som ni har missat]*" innefattar även den resande som ber bakom en imam som ber fyra bönecykler.
 
 Ibn 'Abbas ställdes frågan: "*Varför är det så att en resenär ber två bönecykler om denne ber ensam och fyra om denne leds av en hemmavarande imam?" Han svarade: "Det är *sunnah*."
 

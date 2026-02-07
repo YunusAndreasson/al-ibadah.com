@@ -26,7 +26,9 @@ Detta beror på att profeten – över honom vare Allāhs frid och välsignelser
 
 Denna *hadīth* har Muslim återgivit i sin *Sahīh*.
 
-I en *hadīth* återberättad av ´Abdullāh bin 'Amr bin al-'Ās säger profeten – över honom vare Allāhs frid och välsignelser – till en kvinna som kom fram till honom med hennes dotter som bar två armringar av guld: ”*Betalar du allmosa för dessa?*” Kvinnan svarade: ”*Nej*.” Så han sade: ”*Nöjer det dig att Allāh kommer att göra dem till två armringar av eld till dig på Återuppståndelsens dag?*” Så hon slet av dem och sade: ”*De är för Allāh och Hans sändebud*.” [^2] Denna *hadīth* har Abū Dawūd och an-Nasā’i återgivit med en autentisk berättarkedja. *Ahādīth* med samma innebörd är många.
+I en *hadīth* återberättad av ´Abdullāh bin 'Amr bin al-'Ās säger profeten – över honom vare Allāhs frid och välsignelser – till en kvinna som kom fram till honom med hennes dotter som bar två armringar av guld: "*Betalar du allmosa för dessa?*" Kvinnan svarade: "*Nej*." Så han sade: "*Nöjer det dig att Allāh kommer att göra dem till två armringar av eld till dig på Återuppståndelsens dag?*" Så hon slet av dem och sade: "*De är för Allāh och Hans sändebud*." [^2]
+
+Denna *hadīth* har Abū Dawūd och an-Nasā'i återgivit med en autentisk berättarkedja. *Ahādīth* med samma innebörd är många.
 
 Och Allāh är Givaren av framgång.
 

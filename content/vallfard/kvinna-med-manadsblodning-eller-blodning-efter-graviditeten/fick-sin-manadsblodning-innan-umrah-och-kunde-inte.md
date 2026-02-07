@@ -17,7 +17,9 @@ description: >-
 
 **Fråga:** En kvinna kom och gick in i *ihrām* för *'umrah* och när hon hade anlänt till Mecka fick hon sin månadsblödning. Hennes *mahram* tvingades att resa direkt och hon hade ingen att stanna med i Mecka. Vad gäller då?
 
-**Svar:** Om det förhåller sig enligt vad som har nämnts om en kvinnas månadsblödning innan *tawāf* medan hon befann sig i *ihrām*, att hennes *mahram* tvingades att åka direkt och att hon inte hade någon *mahram* eller make i Mecka – då är det inte längre ett villkor att hon är ren från sin månadsblödning innan hon går in i moskén för att göra *tawāf*. Anledningen är att det är nödvändigt. Hon använder då någon form av vaddering [binda] och gör *tawāf* samt *sa'ī* för sin *'umrah*. Men är det inte långt att resa och hon kan återvända med sin man eller med en *mahram*, då reser hon och återvänder så fort hennes månadsblödning är över. Då kan hon göra *tawāf* för sin *'umrah* när hon är ren. Allāh har sagt:
+**Svar:** Om det förhåller sig enligt vad som har nämnts om en kvinnas månadsblödning innan *tawāf* medan hon befann sig i *ihrām*, att hennes *mahram* tvingades att åka direkt och att hon inte hade någon *mahram* eller make i Mecka – då är det inte längre ett villkor att hon är ren från sin månadsblödning innan hon går in i moskén för att göra *tawāf*. Anledningen är att det är nödvändigt. Hon använder då någon form av vaddering [binda] och gör *tawāf* samt *sa'ī* för sin *'umrah*.
+
+Men är det inte långt att resa och hon kan återvända med sin man eller med en *mahram*, då reser hon och återvänder så fort hennes månadsblödning är över. Då kan hon göra *tawāf* för sin *'umrah* när hon är ren. Allāh har sagt:
 
 > "Gud vill göra det lätt – inte tungt – för er." [Koranen 2:185]
 

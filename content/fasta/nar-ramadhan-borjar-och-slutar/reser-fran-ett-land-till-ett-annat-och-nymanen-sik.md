@@ -26,6 +26,8 @@ När det gäller motsatsen, som när denne reser från ett land där månaden ha
 
 I det andra fallet säger vi att denne tar igen [dagen som denne har missat], därför att det varken är möjligt att månaden är kortare än 29 dagar eller längre än 30 dagar.
 
-Vi säger även: Bryt din fasta även om du inte har genomfört 29 dagar. Nymånen har siktats och när den har siktats måste du bryta din fasta. Då du har fastat mindre än 29 [dagar], på grund av att det inte är möjligt att en månad har mindre än 29 [dagar], måste du fullborda 29 dagar vilket står i motsats till den första situationen för du bryter inte fastan förrän nymånen har siktats och om den inte har siktats är det fortfarande *ramadan*. Hur kan du då bryta din fasta, för du måste fasta, även om din månad har blivit längre är det enbart detsamma som när det blir fler dagstimmar.
+Vi säger även: Bryt din fasta även om du inte har genomfört 29 dagar. Nymånen har siktats och när den har siktats måste du bryta din fasta.
+
+Då du har fastat mindre än 29 [dagar], på grund av att det inte är möjligt att en månad har mindre än 29 [dagar], måste du fullborda 29 dagar vilket står i motsats till den första situationen för du bryter inte fastan förrän nymånen har siktats och om den inte har siktats är det fortfarande *ramadan*. Hur kan du då bryta din fasta, för du måste fasta, även om din månad har blivit längre är det enbart detsamma som när det blir fler dagstimmar.
 
 

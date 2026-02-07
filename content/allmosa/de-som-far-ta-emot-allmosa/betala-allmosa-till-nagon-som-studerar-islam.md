@@ -27,7 +27,9 @@ Hittar vi någon som kan tjäna tillräckligt till mat, dryck och boende men som
 
 Det har sagts: Vilka är orsakerna till att man säger att det är tillåtet att gifta [bort] en fattig man med allmosefonder även om summan som denne får från fonderna är mycket hög? Vi säger: Detta beror på att dennes behov av pengar är stort. Ibland kan det vara lika stort som dennes behov av att äta eller att dricka.
 
-Som de lärde säger: Den som är ålagd att försörja någon person måste få denne gift om dennes [personen som försörjer] tillgångar är tillräckliga för detta. Således måste fadern gifta [bort] sin son om denne son behöver gifta sig men inte har tillräckligt med pengar. Men jag har hört vissa fäder som har glömt hur det var när de var unga när deras söner ber om att de ska gifta [bort] dem. De [fäderna] säger: Gift dig genom ditt anletes svett [de får kämpa själva]. Detta är inte tillåtet. Det är otillåtet för honom [fadern] om han har möjlighet att gifta [bort] sonen. På Återuppståndelsens dag kommer sonen att gräla med honom om han [fadern] inte gifter bort honom när han har möjlighet.
+Som de lärde säger: Den som är ålagd att försörja någon person måste få denne gift om dennes [personen som försörjer] tillgångar är tillräckliga för detta. Således måste fadern gifta [bort] sin son om denne son behöver gifta sig men inte har tillräckligt med pengar.
+
+Men jag har hört vissa fäder som har glömt hur det var när de var unga när deras söner ber om att de ska gifta [bort] dem. De [fäderna] säger: Gift dig genom ditt anletes svett [de får kämpa själva]. Detta är inte tillåtet. Det är otillåtet för honom [fadern] om han har möjlighet att gifta [bort] sonen. På Återuppståndelsens dag kommer sonen att gräla med honom om han [fadern] inte gifter bort honom när han har möjlighet.
 
 Här uppkommer en fråga: En man har ett antal söner och några har blivit giftasvuxna och han gifter bort dem. Det finns även unga söner bland dem. Kan mannen testamentera en del av sina tillgångar genom testamentet som en brudgåva till de yngre sönerna då han har gett till de äldre?
 

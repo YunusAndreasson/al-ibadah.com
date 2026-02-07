@@ -17,7 +17,9 @@ description: >-
 
 **Fråga:** Hör profeten dem som åkallar honom vid hans grav, eller de hälsningar som denna *hadīth* antyder: ”*Den som åkallar mig vid min grav hör jag*” [al-Bayhaqi i *Shu’abul-Imân* 2:218, 1583]. Är denna *hadīth* autentisk, svag eller påhittad?
 
-**Svar:** Normalt sett hör de som har gått bort inte de som är vid liv, eller deras åkallan. Allāh säger: ”*Men du kan inte förmå dem att lyssna som är […] begravda*.” [^1] Varken Skriften eller den autentiska *sunnah* bevisar motsatsen. Det som dock har bevisats är att hälsningarna från de som hälsar till honom når honom. Det spelar ingen roll om de kommer jämte hans grav eller någon annanstans. Det har rapporterats att en ättling till ’Ali bin Abi Talib såg en man gå in i ett område jämte profetens – över honom vare Allāhs frid och välsignelser – grav för att åkalla. Han förbjöd honom att göra så och sade till honom:
+**Svar:** Normalt sett hör de som har gått bort inte de som är vid liv, eller deras åkallan. Allāh säger: ”*Men du kan inte förmå dem att lyssna som är […] begravda*.” [^1] Varken Skriften eller den autentiska *sunnah* bevisar motsatsen. Det som dock har bevisats är att hälsningarna från de som hälsar till honom når honom. Det spelar ingen roll om de kommer jämte hans grav eller någon annanstans. 
+
+Det har rapporterats att en ättling till 'Ali bin Abi Talib såg en man gå in i ett område jämte profetens – över honom vare Allāhs frid och välsignelser – grav för att åkalla. Han förbjöd honom att göra så och sade till honom:
 
 > ”Skall jag berätta vad jag hörde min fader säga att min farfar sagt att profeten – över honom vara Allāhs frid och välsignelser – sagt: ”Ta inte min grav till en plats för dyrkan. Gör heller inte era hem till gravplatser. Och be Allāh upphöja mitt omnämnande för era hälsningar når mig varhelst ni befinner er.” [*Abu Dawūd* 2042, *Ahmad* 2:367 och *Abu Ya’la* 469]
 

@@ -17,7 +17,9 @@ description: >-
 
 **Fråga:** Jag ser att somliga går in i moskén för att be när de har cigaretter på sig. Syndar de genom detta?
 
-**Svar:** De syndar inte i fråga om bönen. Att de bär cigaretter har ju inte någon inverkan på bönen. De är rena fysiskt sett. Men han syndar genom att röka cigaretterna. I vår tid har det blivit uppenbart att det är förbjudet att röka. Detta gäller trots att lärde före oss har haft olika åsikter; vissa har tillåtit det, andra har sagt att det är ogillat och några har förbjudit det. Men när det ur en medicinsk synvinkel har bekräftats att det är skadligt och att det leder till att folk drabbas av obotbara sjukdomar som i sin tur leder till döden, då blev det klart att det är förbjudet. Detta grundas på vad Allāh har sagt: ”*Låt inte era egna händer medverka till er undergång*.” [^1]
+**Svar:** De syndar inte i fråga om bönen. Att de bär cigaretter har ju inte någon inverkan på bönen. De är rena fysiskt sett. Men han syndar genom att röka cigaretterna.
+
+I vår tid har det blivit uppenbart att det är förbjudet att röka. Detta gäller trots att lärde före oss har haft olika åsikter; vissa har tillåtit det, andra har sagt att det är ogillat och några har förbjudit det. Men när det ur en medicinsk synvinkel har bekräftats att det är skadligt och att det leder till att folk drabbas av obotbara sjukdomar som i sin tur leder till döden, då blev det klart att det är förbjudet. Detta grundas på vad Allāh har sagt: "*Låt inte era egna händer medverka till er undergång*." [^1]
 
 Allāhs sändebud – över honom vare Allāhs frid och välsignelser – förbjöd människor att äta lök eller vitlök innan de gick till moskén. Han sade att det är skadligt och att änglarna skadas av det som skadar människorna [^2] När vi tittar på rökning finner vi att det är skadligt för kroppen och att det leder till förlorade tillgångar samt att man irriterar folk.
 

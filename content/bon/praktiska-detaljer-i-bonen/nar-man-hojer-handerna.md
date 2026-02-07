@@ -18,7 +18,9 @@ description: >-
 
 **Svar:** Händerna bör höjas vid fyra tillfällen under bönen: när man gör öppnings-*takbīr*, när man bugar, när man rätar sig från bugningen och när man står upp efter den första *tashahhud*.
 
-När man höjer händerna bör det sammanfalla med början av att man säger ”*Allāhu akbar*”. Det går även bra att höja dem och sedan säga ”*Allāhu akbar*”, eller att säga ”*Allāhu akbar*” och sedan höja dem. Beträffande bugningen, när vill gå ned i bugningen, då bör man höja sina händer för att sedan buga och placera händerna på knäna. När man reser sig från bugningen så lyfter man händerna från knäna, höjer dem tills man står rakt och sedan lägger man dem på bröstet. När man reser sig från första tashahhud[^1], då höjer man dem till axelhöjd när man står upp, precis som vid öppnings-*takbīr*. Man bör inte höja händerna vid något annat tillfälle än dessa fyra.
+När man höjer händerna bör det sammanfalla med början av att man säger "*Allāhu akbar*". Det går även bra att höja dem och sedan säga "*Allāhu akbar*", eller att säga "*Allāhu akbar*" och sedan höja dem.
+
+Beträffande bugningen, när vill gå ned i bugningen, då bör man höja sina händer för att sedan buga och placera händerna på knäna. När man reser sig från bugningen så lyfter man händerna från knäna, höjer dem tills man står rakt och sedan lägger man dem på bröstet. När man reser sig från första tashahhud[^1], då höjer man dem till axelhöjd när man står upp, precis som vid öppnings-*takbīr*. Man bör inte höja händerna vid något annat tillfälle än dessa fyra.
 
 Under begravningsbönen är det föreskrivet att höja händerna vid varje *takbīr*.
 

@@ -16,7 +16,9 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om att fira *al-isrā’ wal-mi'raj* med åminnelse av Allāh?
 
-**Svara:** Att fira *al-isrā’ wal-mi'raj*-natten, vilket somliga gör, under den 27:e natten i *rajab* saknar grund. Datumet för denna natt har inte bevarats, sannerligen har vi låtits glömma bort det. Det är inte känt om det skedde under *rajab*. Om det hade varit känt – att det skedde under *rajab*, *sha'ban*, *shawwal* eller någon annan månad – då hade det ändå inte varit föreskrivet för oss att fira det. Anledningen är att något tillskrivs Sändebud som varken han eller hans följeslagare gjorde. Därför bör vi försöka efterlikna dem och följa vad de gjorde och inte föra in saker som de inte gjorde.
+**Svara:** Att fira *al-isrā’ wal-mi'raj*-natten, vilket somliga gör, under den 27:e natten i *rajab* saknar grund. Datumet för denna natt har inte bevarats, sannerligen har vi låtits glömma bort det. Det är inte känt om det skedde under *rajab*. Om det hade varit känt – att det skedde under *rajab*, *sha'ban*, *shawwal* eller någon annan månad – då hade det ändå inte varit föreskrivet för oss att fira det.
+
+Anledningen är att något tillskrivs Sändebud som varken han eller hans följeslagare gjorde. Därför bör vi försöka efterlikna dem och följa vad de gjorde och inte föra in saker som de inte gjorde.
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
@@ -32,7 +34,9 @@ I en *hadīth* från *al-'Irbadh* bin Sariyah säger han:
 
 > ”Akta er för nypåfunna saker, för varje nypåfunnen sak är en innovation och varje innovation är villfarelse.”
 
-Dessa *ahādīth* klargör förbudet mot innovationer, deras fara och onda konsekvenser. Detta beror inte på något annat än att de är överdrifter i religionen. Folk för in [nya saker] tills vår religion blir en stor massa av vad folk har fört in. Judarna och de kristna prövades genom vad de förde in, de lade till sådant i deras religioner som Allāh inte hade godkänt. Deras religioner blev då i oordning och sanningen blandades med lögn. Detta berodde på deras innovationer som de lade till. Detta samhälle måste därför akta sig för vad judarna och de kristna gjorde, och undvika att imitera dem i deras högtider och allting annat.
+Dessa *ahādīth* klargör förbudet mot innovationer, deras fara och onda konsekvenser. Detta beror inte på något annat än att de är överdrifter i religionen. Folk för in [nya saker] tills vår religion blir en stor massa av vad folk har fört in.
+
+Judarna och de kristna prövades genom vad de förde in, de lade till sådant i deras religioner som Allāh inte hade godkänt. Deras religioner blev då i oordning och sanningen blandades med lögn. Detta berodde på deras innovationer som de lade till. Detta samhälle måste därför akta sig för vad judarna och de kristna gjorde, och undvika att imitera dem i deras högtider och allting annat.
 
 Allāh är den som ger framgång.
 

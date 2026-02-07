@@ -20,7 +20,9 @@ description: >-
 
 Vi känner inte till några bevis som stödjer att man kan hålla ned händerna. Vi har skrivit mycket om detta ämne i tidningar och i andra publikationer. Vi ska dock vara medvetna om att detta inte är en fråga som ska orsaka splittring i det muslimska samfundet.
 
-I stället måste muslimer samarbeta i rättfärdighet, fromhet och broderlig kärlek samt att råda varandra i frågor av gemensamt intresse. Detta gäller även om man skiljer sig åt i frågor om rättsvetenskap, som att hålla ned händerna eller låta dem vila på bröstet. Det är ju en *sunnah* att ha dem på bröstet och inte något obligatoriskt. Oberoende av om man ber med armarna sänkta eller om man har dem på bröstet är bönen giltig. Enligt profetens – över honom vare Allāhs frid och välsignelser – ord och handling är det dock bättre och föreskrivet att ha armarna på bröstet.
+I stället måste muslimer samarbeta i rättfärdighet, fromhet och broderlig kärlek samt att råda varandra i frågor av gemensamt intresse. Detta gäller även om man skiljer sig åt i frågor om rättsvetenskap, som att hålla ned händerna eller låta dem vila på bröstet. Det är ju en *sunnah* att ha dem på bröstet och inte något obligatoriskt.
+
+Oberoende av om man ber med armarna sänkta eller om man har dem på bröstet är bönen giltig. Enligt profetens – över honom vare Allāhs frid och välsignelser – ord och handling är det dock bättre och föreskrivet att ha armarna på bröstet.
 
 Vi ber Allāh att Han ger oss och alla muslimer framgång i att förstå Hans religion samt att Han håller oss stadiga vid den, att Han skyddar oss från det onda i oss själva, ondskan i våra handlingar och från villfarelsen i oenighet. Han är Allhörande, Nära.
 

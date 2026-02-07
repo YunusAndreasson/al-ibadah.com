@@ -17,7 +17,9 @@ description: >-
 
 **Fråga:** Om någon tror att profeten – över honom vare Allāhs frid och välsignelser – är ett ljus från Allāh, att han inte är mänsklig och att han har kunskap om det som är dolt för människor[^1] och därmed söker hjälp från honom i tron om att han har makt att skydda mot ont – vilket är utlåtandet om detta? Får man be bakom denne? Ge oss råd och må Allāh belöna er med det goda.
 
-**Svar:** Den som tror att profeten – över honom vare Allāhs frid och välsignelser – är ett ljus från Allāh, att han inte är mänsklig och att han känner till det som är dolt för människor[^1] – denne tror inte på Allāh och Hans sändebud. Denne är en fiende till dem och denne är inte deras vän. Detta beror på att dennes ord motsäger sig Allāhs och profetens – över honom vare Allāhs frid och välsignelser – och den som motsäger sig Allāh och profeten – över honom vare Allāhs frid och välsignelser – är en icke-troende. Beviset för att dennes ord strider mot Allāhs och profetens – över honom vare Allāhs frid och välsignelser – återfinns i Allāhs den Upphöjdes ord:
+**Svar:** Den som tror att profeten – över honom vare Allāhs frid och välsignelser – är ett ljus från Allāh, att han inte är mänsklig och att han känner till det som är dolt för människor[^1] – denne tror inte på Allāh och Hans sändebud. Denne är en fiende till dem och denne är inte deras vän. Detta beror på att dennes ord motsäger sig Allāhs och profetens – över honom vare Allāhs frid och välsignelser – och den som motsäger sig Allāh och profeten – över honom vare Allāhs frid och välsignelser – är en icke-troende.
+
+Beviset för att dennes ord strider mot Allāhs och profetens – över honom vare Allāhs frid och välsignelser – återfinns i Allāhs den Upphöjdes ord:
 
 > ”Säg: ’Jag är bara en vanlig människa som ni.*’*” [Koranen 18:110]
 

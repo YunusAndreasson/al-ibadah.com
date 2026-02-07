@@ -22,7 +22,9 @@ description: >-
 
 Det finns även en *hadīth* som imam Ahmad har återgivit i sin *Musnad* med en återberättarekedja som författaren till *al-Fath ar-Rabbani* har kommenterat genom att säga: ”*Dess kedja av rapportörer är hasan*.” [^3] En av kommentatorerna till *Zādul-Ma’ād* [^4] har sagt: ”*Dess kedja av rapportörer är autentisk*.”
 
-När Allāhs sändebud – över honom vare Allāhs frid och välsignelser – satt mellan de båda nedfallandena[^1] formade han en knytnäve med fingrarna och pekade med pekfingret. Den som säger att han inte rörde det, säger vi till: Vad gjorde han då med sin högra hand? Om du säger att han brukade lägga den på sitt högra lår ber vi dig att ge oss bevis, för det har inte rapporterats i *ahādīth* att han brukade lägga den högra handen på låret. Och om han hade lagt den på låret [utan att höja fingret], då hade följeslagarna klartgjort det på samma vis som de har klartgjort att han brukade göra med den vänstra på det vänstra låret. Detta är då de tre bevisen.
+När Allāhs sändebud – över honom vare Allāhs frid och välsignelser – satt mellan de båda nedfallandena[^1] formade han en knytnäve med fingrarna och pekade med pekfingret. Den som säger att han inte rörde det, säger vi till: Vad gjorde han då med sin högra hand?
+
+Om du säger att han brukade lägga den på sitt högra lår ber vi dig att ge oss bevis, för det har inte rapporterats i *ahādīth* att han brukade lägga den högra handen på låret. Och om han hade lagt den på låret [utan att höja fingret], då hade följeslagarna klartgjort det på samma vis som de har klartgjort att han brukade göra med den vänstra på det vänstra låret. Detta är då de tre bevisen.
 
 [^1]: sujūd, nedfallandet när pannan läggs mot marken.
 

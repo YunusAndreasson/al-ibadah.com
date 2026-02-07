@@ -16,7 +16,9 @@ description: >-
 
 Om någon har löständer, är det då ett krav att ta ut dem när munnen sköljs under tvagningen?
 
-Har någon löständer ser det ut som om att det inte är en skyldighet att ta ut dem. Detta kan liknas vid ringen som inte är obligatorisk att ta av under tvagningen. Det är bättre att ta av den men det är inte ett krav. Profeten – över honom vare Allāhs frid och välsignelser – brukade bära den och det har inte rapporterats att han brukade ta av dem när han tvagade[^1] sig. Det är sannolikare att de skulle hindra vattnet från att nå huden än vad löständer gör. Detta speciellt då det är svårt för somliga att plocka ut och sätta tillbaka dem.
+Har någon löständer ser det ut som om att det inte är en skyldighet att ta ut dem. Detta kan liknas vid ringen som inte är obligatorisk att ta av under tvagningen. Det är bättre att ta av den men det är inte ett krav.
+
+Profeten – över honom vare Allāhs frid och välsignelser – brukade bära den och det har inte rapporterats att han brukade ta av dem när han tvagade[^1] sig. Det är sannolikare att de skulle hindra vattnet från att nå huden än vad löständer gör. Detta speciellt då det är svårt för somliga att plocka ut och sätta tillbaka dem.
 
 [^1]: Wudū
 

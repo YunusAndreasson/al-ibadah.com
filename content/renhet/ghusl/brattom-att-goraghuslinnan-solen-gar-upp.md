@@ -17,7 +17,9 @@ description: >-
 
 **Fråga:** Låt oss anta att jag vaknar precis innan soluppgången och finner att jag är i ett tillstånd av stor rituell orenhet. Om jag gör *ghusl*, då kommer solen hinna stiga. Bör jag då göra *tayammum* eller *ghusl* och sedan be?
 
-**Svar:** Du måste göra *ghusl*, göra klart din rening och sedan be. Du får inte göra *tayammum* i den situation som du har beskrivit. Den som glömmer och den som har sovit över sig är beordrad att be så fort som möjligt. Detta beror på att de ska avklara skyldigheten när de kommer ihåg eller vaknar. Beviset för detta är en *hadīth* där profeten – över honom vare Allāhs frid och välsignelser – säger: ”*Den som sover över bönen eller glömmer den, denne måste be den så fort denne kommer ihåg, och det finns inget sonande för det utöver detta*.” [^1]
+**Svar:** Du måste göra *ghusl*, göra klart din rening och sedan be. Du får inte göra *tayammum* i den situation som du har beskrivit. Den som glömmer och den som har sovit över sig är beordrad att be så fort som möjligt.
+
+Detta beror på att de ska avklara skyldigheten när de kommer ihåg eller vaknar. Beviset för detta är en *hadīth* där profeten – över honom vare Allāhs frid och välsignelser – säger: "*Den som sover över bönen eller glömmer den, denne måste be den så fort denne kommer ihåg, och det finns inget sonande för det utöver detta*." [^1]
 
 Det är välkänt att det inte finns någon bön utan rening. Profeten – över honom vare Allāhs frid och välsignelser – har ju sagt: ”*Bön utan tvagning accepteras inte*.” [^2]
 

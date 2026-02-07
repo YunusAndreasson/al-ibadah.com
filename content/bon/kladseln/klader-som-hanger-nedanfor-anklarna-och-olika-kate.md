@@ -44,7 +44,9 @@ Om den som citerar *hadithen* från Abū Bakr – må Allāh vara nöjd med hono
 
 1. Abū Bakr – må Allāh vara nöjd med honom – sade: "*En sida av min izār hänger ned om jag inte tar hand om den*." [*al-Bukhārī*] Men Abū Bakr lät inte sin *izār* hänga ned av egen fri vilja. I stället hängde den ned av sig själv och trots detta tog han hand om den.
 
-De som påstår att de inte avser att visa stolthet eller högmod genom att göra så, och då avsiktligen låter deras klädesplagg hänga ned, till dem säger vi: Om du avser att ha plagget nedanför ankeln utan att visa stolthet eller högmod, då kommer du att straffas i Elden för det som hänger nedanför den. Och om du drog ditt klädesplagg på marken på grund av stolthet och högmod, då kommer du att straffas för något värre än det. Allāh kommer inte att tala till dig på Återuppståndelsens dag, Han kommer inte att titta på dig, Han kommer inte att förlåta dig och du kommer att få ett smärtsamt straff.
+De som påstår att de inte avser att visa stolthet eller högmod genom att göra så, och då avsiktligen låter deras klädesplagg hänga ned, till dem säger vi: Om du avser att ha plagget nedanför ankeln utan att visa stolthet eller högmod, då kommer du att straffas i Elden för det som hänger nedanför den.
+
+Och om du drog ditt klädesplagg på marken på grund av stolthet och högmod, då kommer du att straffas för något värre än det. Allāh kommer inte att tala till dig på Återuppståndelsens dag, Han kommer inte att titta på dig, Han kommer inte att förlåta dig och du kommer att få ett smärtsamt straff.
 2. Profeten – över honom vare Allāhs frid och välsignelser – förlät Abū Bakr och vittnade om att han inte är en av dem som gör det av stolthet eller högmod. Har någon av dessa fått denna förlåtelse och detta vittnesmål? Djävulen skapar en väg för dem som följer det som är tveksamt i bevisen i Allāhs skrift och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* för att frikänna sig själva för vad de har gjort.
 
 Allāh vägleder den Han vill till den raka vägen. Vi ber Allāh att Han vägleder och förlåter oss alla.

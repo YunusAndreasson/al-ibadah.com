@@ -16,7 +16,9 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om ett litet barns urin som kommer på ett klädesplagg?
 
-**Svar:** Den korrekta åsikten är att urin från en pojke som givits mjölk är en mindre orenhet. För att tvätta bort den är det tillräckligt att hälla vatten över. Man täcker det med vatten genom att hälla det däröver tills det blir dränkt, utan att gnugga och klämma. Detta beror på att en liten pojke togs till profeten. Han satte honom i sitt knä och pojken urinerade på honom. Han bad om vatten och hällde det däröver men han tvättade det inte. [^1] Men när det gäller en flicka måste urinen tvättas därför att den grundläggande principen säger att urin är orent och måste tvättas. Ett gossebarn är undantaget från denna princip enligt bevisen från profetens – över honom vare Allāhs frid och välsignelser – *sunnah*.
+**Svar:** Den korrekta åsikten är att urin från en pojke som givits mjölk är en mindre orenhet. För att tvätta bort den är det tillräckligt att hälla vatten över. Man täcker det med vatten genom att hälla det däröver tills det blir dränkt, utan att gnugga och klämma. Detta beror på att en liten pojke togs till profeten. Han satte honom i sitt knä och pojken urinerade på honom. Han bad om vatten och hällde det däröver men han tvättade det inte. [^1]
+
+Men när det gäller en flicka måste urinen tvättas därför att den grundläggande principen säger att urin är orent och måste tvättas. Ett gossebarn är undantaget från denna princip enligt bevisen från profetens – över honom vare Allāhs frid och välsignelser – *sunnah*.
 
 
 [^1]: *al-Bukhārī* 223 och *Muslim* 286

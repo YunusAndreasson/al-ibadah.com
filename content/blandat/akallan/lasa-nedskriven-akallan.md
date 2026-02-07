@@ -16,6 +16,8 @@ description: >-
 
 **Fråga:** Jag har endast memorerat ett fåtal åkallan. Är det då tillåtet för mig att skriva ned några på ett papper och sedan läsa dem under eller utanför bönen?
 
-**Svar:** Det finns inget som förbjuder dig att läsa åkallan från papper, speciellt om du inte har memorerat dem och om det sker under tidpunkter då du är uppmuntrad till att läsa dem, som sista delen av natten eller andra tidpunkter. Men om man har förmåga att memorera dem och recitera dem med hjärta och ödmjukhet, då är det mer fullständigt. När det gäller bönen, är det mer korrekt för dig att läsa en kort åkallan av dem du har memorerat. Men om du läser åkallan från papper undertiden du sitter (*tashahhud*) eller mellan de två nedfallanden, då är det tillåtet. Icke desto mindre är det mer sannolikt att du åkallar från ditt hjärta om du har lyckats memorera åkallan.
+**Svar:** Det finns inget som förbjuder dig att läsa åkallan från papper, speciellt om du inte har memorerat dem och om det sker under tidpunkter då du är uppmuntrad till att läsa dem, som sista delen av natten eller andra tidpunkter. Men om man har förmåga att memorera dem och recitera dem med hjärta och ödmjukhet, då är det mer fullständigt.
+
+När det gäller bönen, är det mer korrekt för dig att läsa en kort åkallan av dem du har memorerat. Men om du läser åkallan från papper undertiden du sitter (*tashahhud*) eller mellan de två nedfallanden, då är det tillåtet. Icke desto mindre är det mer sannolikt att du åkallar från ditt hjärta om du har lyckats memorera åkallan.
 
 

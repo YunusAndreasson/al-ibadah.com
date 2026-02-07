@@ -21,7 +21,11 @@ description: >-
 
 > ”Om du frågade [dem vad de menade med vad de sade] skulle de säkert svara: 'Vi bara skämtade.' Säg: 'Då var era skämt alltså riktade mot Gud, Hans budskap och Hans sändebud? Kom inte nu med [tomma] ursäkter! Ni har förnekat den tro som ni förut bekände.” [Koranen 9:65 – 66]
 
-Det var profeten – över honom vare Allāhs frid och välsignelser – som beordrade att skägget ska växa och att mustaschen ska trimmas. Att lyda honom är en skyldighet och det gäller även hans kommenderingar och förbud i alla frågor. Abū Muḥammad Ibn Hazm har nämnt att de lärde är eniga om att det är en skyldighet att låta skägget växa och att mustaschen ska trimmas. Det råder inga tvivel om att njutning, frälsning, heder, ädelhet och Paradiset uppnås genom att lyda Allāh och Hans sändebud; samt att förgörelse, förlust och Helvetet är ett resultat av att inte lyda Allāh och Hans sändebud. Det är också en skyldighet att ha sina byxor ovan anklarna och det grundas på profetens – över honom vare Allāhs frid och välsignelser – ord:
+Det var profeten – över honom vare Allāhs frid och välsignelser – som beordrade att skägget ska växa och att mustaschen ska trimmas. Att lyda honom är en skyldighet och det gäller även hans kommenderingar och förbud i alla frågor.
+
+Abū Muḥammad Ibn Hazm har nämnt att de lärde är eniga om att det är en skyldighet att låta skägget växa och att mustaschen ska trimmas. Det råder inga tvivel om att njutning, frälsning, heder, ädelhet och Paradiset uppnås genom att lyda Allāh och Hans sändebud; samt att förgörelse, förlust och Helvetet är ett resultat av att inte lyda Allāh och Hans sändebud.
+
+Det är också en skyldighet att ha sina byxor ovan anklarna och det grundas på profetens – över honom vare Allāhs frid och välsignelser – ord:
 
 > ”Det av *izār* som hänger nedan för anklarna kommer att vara i Elden.” [*al-Bukhārī* 5787]
 
@@ -33,9 +37,13 @@ Han har även sagt:
 
 > ”Allāh kommer inte att titta på den som har låtit sitt klädesplagg hänga ned av stolthet.” [*al-Bukhārī* 5783]
 
-Därför måste en muslimsk man frukta Allāh och korta sina klädesplagg, oavsett om det är en *qamīs*, en *izār*, byxor eller en rock och inte låta dem hänga nedanför anklarna. Det är bäst om de är mellan vadens mitt och vristen. Om anledningen till att de hänger ned är stolthet, då är synden ännu större. Om det beror på okunskap, i stället för stolthet, då är det avskyvärt och den som gör det är en syndare, men dennes synd innefattar inte synden i stolthet, även om den som gör det påstår att det inte görs av stolthet. Då varningen i *hadithen* är allmän är det inte tillåtet att vara förbiseende.
+Därför måste en muslimsk man frukta Allāh och korta sina klädesplagg, oavsett om det är en *qamīs*, en *izār*, byxor eller en rock och inte låta dem hänga nedanför anklarna. Det är bäst om de är mellan vadens mitt och vristen. Om anledningen till att de hänger ned är stolthet, då är synden ännu större. Om det beror på okunskap, i stället för stolthet, då är det avskyvärt och den som gör det är en syndare, men dennes synd innefattar inte synden i stolthet, även om den som gör det påstår att det inte görs av stolthet.
 
-När det gäller historien om Abū Bakr as-Siddīq och hans ord till profeten: ”*Min izār hänger ned, utom om jag är försiktig med den*.” Profeten – över honom vare Allāhs frid och välsignelser – sade till honom: ”*Du är inte en av dem som gör det av stolthet*.” [^1] Detta är sanningen om den vars situation liknar Abū Bakrs när klädesplagget hänger ned utan stolthet och som tar hand om det och anstränger sig för att hålla det uppe. När det gäller den som avsiktligen låter klädesplagget hänga ned, då innefattar varningen om straff denne men inte as-Siddīq. Utöver det som har nämnts är det även slöseri att bära långa hängande klädesplagg som dras i smutsen och blir fulla med orenheter. Det är även en sorts imitation av kvinnor och en muslim är skyldig att undvika detta.
+Då varningen i *hadithen* är allmän är det inte tillåtet att vara förbiseende.
+
+När det gäller historien om Abū Bakr as-Siddīq och hans ord till profeten: ”*Min izār hänger ned, utom om jag är försiktig med den*.” Profeten – över honom vare Allāhs frid och välsignelser – sade till honom: ”*Du är inte en av dem som gör det av stolthet*.” [^1] Detta är sanningen om den vars situation liknar Abū Bakrs när klädesplagget hänger ned utan stolthet och som tar hand om det och anstränger sig för att hålla det uppe. När det gäller den som avsiktligen låter klädesplagget hänga ned, då innefattar varningen om straff denne men inte as-Siddīq.
+
+Utöver det som har nämnts är det även slöseri att bära långa hängande klädesplagg som dras i smutsen och blir fulla med orenheter. Det är även en sorts imitation av kvinnor och en muslim är skyldig att undvika detta.
 
 Allāh är Den som ger framgång och vägleder till den rätta vägen.
 

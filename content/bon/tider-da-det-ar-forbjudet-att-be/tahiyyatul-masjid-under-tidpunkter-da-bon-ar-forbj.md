@@ -18,7 +18,9 @@ description: >-
 
 **Svar:** Det finns vissa oenigheter bland de lärde. Den korrekta åsikten är dock att hälsningsbönen till moskén[^1] är tillåten vid alla tidpunkter, även efter gryningsbönen och eftermiddagsbönen. Detta grundas på den allmänna betydelsen i profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Om någon går in i moskén, då bör han inte sätta sig förrän han har bett två bönecykler*[^2].” [^3]
 
-Detta är även en bön som det finns anledningar till att be, som bönen efter *tawāf* [En två bönecykler lång bön som utförs när man har gått runt Ka’bah] och förmörkelsebönen [En bön vid sol eller månförmörkelse]. Denna korrekta åsikten om dessa böner är att de bör bes vid alla tidpunkter då bönen normalt sett är förbjuden. Detsamma gäller om man tar igen en obligatorisk bön som man har missat. Detta grundas på vad profeten – över honom vare Allāhs frid och välsignelser – har sagt om bönen efter *tawāf*: ”*Ni från 'Abdi Manaf! Hindra inte någon att göra *tawāf* runt detta Hus och att be under vilken tid av dagen eller natten han önskar*.” [^4]
+Detta är även en bön som det finns anledningar till att be, som bönen efter *tawāf* [En två bönecykler lång bön som utförs när man har gått runt Ka’bah] och förmörkelsebönen [En bön vid sol eller månförmörkelse]. Denna korrekta åsikten om dessa böner är att de bör bes vid alla tidpunkter då bönen normalt sett är förbjuden.
+
+Detsamma gäller om man tar igen en obligatorisk bön som man har missat. Detta grundas på vad profeten – över honom vare Allāhs frid och välsignelser – har sagt om bönen efter *tawāf*: ”*Ni från 'Abdi Manaf! Hindra inte någon att göra *tawāf* runt detta Hus och att be under vilken tid av dagen eller natten han önskar*.” [^4]
 
 Om förmörkelsebönen har han sagt: ”*Sannerligen är månen och solen två av Allāhs tecken, de förmörkas inte för att någon människa har avlidit eller fötts, så om du ser dem, be och åkalla tills det du lider av har försvunnit*.” [^5]
 

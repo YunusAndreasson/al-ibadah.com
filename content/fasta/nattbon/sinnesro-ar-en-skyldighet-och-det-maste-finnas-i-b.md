@@ -18,7 +18,9 @@ description: >-
 
 **Svar:** Det som är föreskrivet för imamen under *tarāwīh*-bönen och den obligatoriska bönen är stillsamhet, lugn rytm i recitation och ödmjukhet i bugningarna, nedfallanden och att stå upp fullständigt efter bugningen och mellan de båda nedfallandena. Detta gäller alla böner, både de obligatoriska och de frivilliga.
 
-Man måste vara lugn när man nedfaller. Uppfyller man inte det är bönen inte giltig. Detta beror på det som har bekräftats i *Sahīh al-Bukhārī* och *Sahīh Muslim* om att profeten – över honom vare Allāhs frid och välsignelser – såg en man som bad utan att vara lugn. Därmed beordrade profeten – över honom vare Allāhs frid och välsignelser – honom att upprepa bönen och han vägledde honom mot stillsamhet i hans bugningar, hans nedfallanden, när han stod upp efter bugningen och mellan de båda nedfallandena.
+Man måste vara lugn när man nedfaller. Uppfyller man inte det är bönen inte giltig.
+
+Detta beror på det som har bekräftats i *Sahīh al-Bukhārī* och *Sahīh Muslim* om att profeten – över honom vare Allāhs frid och välsignelser – såg en man som bad utan att vara lugn. Därmed beordrade profeten – över honom vare Allāhs frid och välsignelser – honom att upprepa bönen och han vägledde honom mot stillsamhet i hans bugningar, hans nedfallanden, när han stod upp efter bugningen och mellan de båda nedfallandena.
 
 Det som är föreskrivet är att imamerna reciterar med långsam rytm och ödmjukhet. Syftet är att de ska få nytta av den och för att de som ber bakom dem ska kunna få nytta av deras recitation. Och det är även för att deras hjärtan ska beröras av recitationen så att de blir ödmjuka inför Herren och vänder sig till Honom.
 

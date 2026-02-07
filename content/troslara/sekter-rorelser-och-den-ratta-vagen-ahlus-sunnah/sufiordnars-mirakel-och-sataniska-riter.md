@@ -22,7 +22,9 @@ description: >-
 
 Dessa mutawatir *ahādīth* från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – klargör att han är den siste profeten. Alla muslimer är eniga om detta.
 
-De awliyā’[^1] som finns kan delas i två kategorier: De som är den Nåderikes *awliyā’*[^1] och de som är djävulens awliyā’[^1]. I Skriften och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* har Allāh den Upphöjde klargjort att han har *awliyā’*[^1] bland människorna och att även djävularna har *awliyā’*[^1]. Han förklarar att det finns en skillnad mellan Hans *awliyā’*[^1] och djävulens *awliyā’*[^1] när Han säger: ”Helt visst ska de som är nära Gud aldrig känna fruktan och ingen sorg ska tynga dem, de som tror och ständigt har Honom för ögonen. Till dem är budskapet [om lycka] i detta liv och evig salighet riktat. Ingenting kan rubba Guda löfte. Detta är den stora, den lysande segern.” [^3]
+De awliyā'[^1] som finns kan delas i två kategorier: De som är den Nåderikes *awliyā'*[^1] och de som är djävulens awliyā'[^1]. I Skriften och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* har Allāh den Upphöjde klargjort att han har *awliyā'*[^1] bland människorna och att även djävularna har *awliyā'*[^1].
+
+Han förklarar att det finns en skillnad mellan Hans *awliyā'*[^1] och djävulens *awliyā'*[^1] när Han säger: ”Helt visst ska de som är nära Gud aldrig känna fruktan och ingen sorg ska tynga dem, de som tror och ständigt har Honom för ögonen. Till dem är budskapet [om lycka] i detta liv och evig salighet riktat. Ingenting kan rubba Guda löfte. Detta är den stora, den lysande segern.” [^3]
 
 Och Allāh den Upphöjde säger: ”Gud är de troendes Beskyddare. Han leder dem ut ur mörkret till ljuset. Men de som förnekar sanningen har onda makter till beskyddare som leder dem ut ur ljuset till mörkret. De har Elden till arvedel och där ska de förbli till evig tid.” [^4]
 
@@ -40,7 +42,8 @@ Khalil [Abraham]: ”Fader! Jag fruktar att Guds straff ska drabba dig och att d
 
 Och Han den Upphöjde säger: ”Du är den Allsmäktige, den Vise.” [^11]
 
-Därmed är den som nämns djävulens awliyā’[^1] och de riter som nämns är sataniska ritualer. Det är en sorts bedrägeri som utförs framför folket och inget av det som ses inträffar på riktigt; det är en illusion som sker med djävlarnas hjälp framför folket. Om magikerna under Faraos tid säger Allāh i sura al-A'raf: ”Och när de kastade [sina stavar] förvände de synen på människorna och satte skräck i dem och gav prov på stor trolldomskonst.” [^12]
+Därmed är den som nämns djävulens awliyā’[^1] och de riter som nämns är sataniska ritualer. Det är en sorts bedrägeri som utförs framför folket och inget av det som ses inträffar på riktigt; det är en illusion som sker med djävlarnas hjälp framför folket. 
+Om magikerna under Faraos tid säger Allāh i sura al-A'raf: "Och när de kastade [sina stavar] förvände de synen på människorna och satte skräck i dem och gav prov på stor trolldomskonst." [^12]
 
 Och Han säger i sura Ta-Ha: ”[Trollkarlarna] sade: 'Antingen kastar du, Moses, [din stav] eller också kastar vi först.' Han svarade: 'Kasta ni – [jag väntar]!' Och deras trolldom gjorde sådan verkan att han tyckte sig se att deras rep och stavar verkligen rörde sig.” [^13]
 

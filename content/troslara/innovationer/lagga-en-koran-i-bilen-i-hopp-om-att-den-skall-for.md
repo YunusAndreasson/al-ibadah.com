@@ -14,7 +14,9 @@ description: >-
   jag är sjuk, återger Han mig hälsan .” [Korane...
 ---
 
-**Fråga:** Somliga hänger Koran-verser eller ahādīth[^1] på kontorsväggar, inne i restauranger och i sovrum. På sjukhus finner man ofta denna vers: ”*Och när jag är sjuk, återger Han mig hälsan*.” [^2] Gäller här samma utlåtande som för att hänga upp amuletter som är förbjudna enligt den islamiska lagen? Speciellt då många hänger upp dessa verser för att få välsignelser och för att driva bort djävulen. Sedan finns det dem som bara hänger upp dessa verser som en påminnelse för att andra ska komma ihåg Allāh den Allsmäktige. Och kan man lägga en Koran i sin bil i hopp om att få välsignelser?
+**Fråga:** Somliga hänger Koran-verser eller ahādīth[^1] på kontorsväggar, inne i restauranger och i sovrum. På sjukhus finner man ofta denna vers: "*Och när jag är sjuk, återger Han mig hälsan*." [^2] Gäller här samma utlåtande som för att hänga upp amuletter som är förbjudna enligt den islamiska lagen? Speciellt då många hänger upp dessa verser för att få välsignelser och för att driva bort djävulen.
+
+Sedan finns det dem som bara hänger upp dessa verser som en påminnelse för att andra ska komma ihåg Allāh den Allsmäktige. Och kan man lägga en Koran i sin bil i hopp om att få välsignelser?
 
 **Svar:** När syftet i vad frågeställaren har nämnt är att påminna folket och att lära dem vad som är nyttigt, då är det ingen fara. Är syftet att dra till sig välsignelser eller att stöta bort djävulen och *jinn*, då känner jag inte till någon grund för detta i den islamiska lagen.
 

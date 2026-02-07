@@ -26,6 +26,8 @@ description: >-
 
 > ”Jorden har gjorts till en moské [plats för bön] och som ett medel för rening för mig. Så den som det blir dags att be för, låt denne be oberoende av var denne befinner sig.”
 
-Detta har imam *Ahmad*, al-Bukhārī och *Muslim* återgivit. Den sammanslagna förståelsen mellan *hadithen* från Jabir och den *hadīth* som tillåter bön på vilken plats som helst är att den sistnämnda är allmän och att den förstnämda, som förbjuder bön på vissa ställen, är särskild. Således specificerar dessa *ahādīth* den allmänna innebörden av de *ahādīth* som tillåter bön på alla platser. Detta är ett användande som kommer från välkända principer när vi befattar oss med *ahādīth* som verkar motsägelsefulla. Men om det finns ett behov eller en nödvändighet som påtvingar att man behöver be vid en förbjuden plats, då är det tillåtet att göra så.
+Detta har imam *Ahmad*, al-Bukhārī och *Muslim* återgivit. Den sammanslagna förståelsen mellan *hadithen* från Jabir och den *hadīth* som tillåter bön på vilken plats som helst är att den sistnämnda är allmän och att den förstnämda, som förbjuder bön på vissa ställen, är särskild. Således specificerar dessa *ahādīth* den allmänna innebörden av de *ahādīth* som tillåter bön på alla platser. Detta är ett användande som kommer från välkända principer när vi befattar oss med *ahādīth* som verkar motsägelsefulla.
+
+Men om det finns ett behov eller en nödvändighet som påtvingar att man behöver be vid en förbjuden plats, då är det tillåtet att göra så.
 
 

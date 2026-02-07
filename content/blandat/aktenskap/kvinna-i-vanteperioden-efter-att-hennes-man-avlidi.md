@@ -13,7 +13,9 @@ description: "Fråga: \_ Behöver en kvinna bära svart under vänteperioden eft
 
 **Fråga:** Behöver en kvinna bära svart under vänteperioden efter hennes mans bortgång?
 
-**Svar:** En kvinna vars man har avlidit måste sörja genom hela vänteperioden. Denna period avgörs efter tid och vissa omständigheter. Om en kvinna som blivit änka hade månadsblödning och hon inte var gravid, då är hennes vänteperiod fyra månader och tio dagar från hennes mans bortgång. Detta gäller oavsett om hon kände till att han avlidit eller om hon fick reda på det senare. Början på vänteperioden är därmed vid bortgången. Om det då inträffar att han avlider och hon inte får reda på detta förrän två månader har passerat, då återstår bara två månader och tio dagar. Vänteperioden för en kvinna med månadsblödning avgörs eller bestäms av en given tid, och denna är fyra månader och tio dagar efter hans bortgång.
+**Svar:** En kvinna vars man har avlidit måste sörja genom hela vänteperioden. Denna period avgörs efter tid och vissa omständigheter.
+
+Om en kvinna som blivit änka hade månadsblödning och hon inte var gravid, då är hennes vänteperiod fyra månader och tio dagar från hennes mans bortgång. Detta gäller oavsett om hon kände till att han avlidit eller om hon fick reda på det senare. Början på vänteperioden är därmed vid bortgången. Om det då inträffar att han avlider och hon inte får reda på detta förrän två månader har passerat, då återstår bara två månader och tio dagar. Vänteperioden för en kvinna med månadsblödning avgörs eller bestäms av en given tid, och denna är fyra månader och tio dagar efter hans bortgång.
 
 Den gravida kvinnans vänteperiod varar tills hon fött barnet, oberoende av hur lång denna period är. Vänteperioden kan vara en timme eller två och den kan vara ett eller två år. Detta enligt Allāhs ord om den första: "*När någon av er dör och efterlämnar hustrur, ska de iaktta en vänteperiod av fyra månader och tio dagar [innan de får ingå nytt äktenskap].*" [^1] Och beträffande den senare har Han sagt: ”*Och de som är havande ska invänta barnets födelse. Och för var och en som fruktar Honom gör Gud uppgiften lätt*." [^2]
 

@@ -20,7 +20,9 @@ description: >-
 
 > ”Och om jag älskar honom, då kommer jag att vara hans hörsel som han hör med, hans syn som han ser med, hans hand som slår och hans ben som går.”
 
-**Svar:** När en muslim uppfyller sina plikter och anstränger sig med frivillig lydnad och fortsätter att göra så, då kommer Allāh den Upphöjde att älska honom och stödja honom i allt han gör. När han hör kommer Allāh att hjälpa honom att endast höra det bästa, endast acceptera sanningen och hålla borta det falska. När han ser med ögonen eller sitt hjärta, då ser han genom Allāh ljus, för att därmed bli vägledd av Allāh med genomborrande insikt. Han ser sanningen som sanning och lögnen som lögn. När han slår, då slår han med Allāhs kraft för att stödja sanningen. När han går, då är hans gång endast i lydnad av Allāh, för att söka kunskap eller för att strida för Allāh.
+**Svar:** När en muslim uppfyller sina plikter och anstränger sig med frivillig lydnad och fortsätter att göra så, då kommer Allāh den Upphöjde att älska honom och stödja honom i allt han gör. När han hör kommer Allāh att hjälpa honom att endast höra det bästa, endast acceptera sanningen och hålla borta det falska. När han ser med ögonen eller sitt hjärta, då ser han genom Allāh ljus, för att därmed bli vägledd av Allāh med genomborrande insikt. Han ser sanningen som sanning och lögnen som lögn.
+
+När han slår, då slår han med Allāhs kraft för att stödja sanningen. När han går, då är hans gång endast i lydnad av Allāh, för att söka kunskap eller för att strida för Allāh.
 
 I allmänhet har alla hans inre och yttre handlingar sitt ursprung i Allāhs den Upphöjdes vägledning och kraft.
 

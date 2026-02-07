@@ -37,7 +37,9 @@ Allāhs säger om de troende:
 
 Betydelsen är: Vi gör ingen åtskillnad i tro på någon av dem; i stället tror vi att alla är sanna sändebud från Allāh och att de inte ljuger. De talar ju endast sanning och de är betrodda. Detta är innebörden av Allāhs ord: ”*Vi gör ingen åtskillnad mellan dem*.” [^5]
 
-Detta innebär att vi enligt våra tro tror att de är sanna sändebud från Allāh. Men tro inbegriper lydnad av dem som kom efter sändebudens, speciellt när det gäller Muḥammad, för det är han som vi måste lyda då hans lag skriver över alla lagar. På detta sätt förstår vi att vi tror på alla. Vi tror att de är sanna sändebud från Allāh, men då Allāhs sändebud – över honom vare Allāhs frid och välsignelser – sänts, då har alla tidigare religioner blivit ogiltiga genom hans lag och det har blivit en skyldighet för hela människosläktet att stödja enbart Muḥammad. Allāh har genom Sin visdom gjort alla tidigare religioner ogiltiga, utom Hans sändebuds religion. Därför säger Allāh:
+Detta innebär att vi enligt våra tro tror att de är sanna sändebud från Allāh. Men tro inbegriper lydnad av dem som kom efter sändebudens, speciellt när det gäller Muḥammad, för det är han som vi måste lyda då hans lag skriver över alla lagar.
+
+På detta sätt förstår vi att vi tror på alla. Vi tror att de är sanna sändebud från Allāh, men då Allāhs sändebud – över honom vare Allāhs frid och välsignelser – sänts, då har alla tidigare religioner blivit ogiltiga genom hans lag och det har blivit en skyldighet för hela människosläktet att stödja enbart Muḥammad. Allāh har genom Sin visdom gjort alla tidigare religioner ogiltiga, utom Hans sändebuds religion. Därför säger Allāh:
 
 > ”Säg: 'Människor! Jag är Guds Sändebud, [utsänd] till er alla av Honom som äger herraväldet över himlarna och jorden! Det finns ingen gud utom Han – Han som skänker liv och skänker död. Tro därför på Gud och Hans Sändebud, den olärde profeten, som tror på Gud och Hans ord, och följ honom så att ni får vägledning.'” [Koranen 7:158]
 /…/

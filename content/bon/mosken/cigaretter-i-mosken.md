@@ -13,7 +13,9 @@ description: 'Fråga: En man bad i profetens – över honom vare Allāhs frid o
 
 **Fråga:** En man bad i profetens – över honom vare Allāhs frid och välsignelser – moské vid området som kallas "Rawdah" och ett cigarettpaket föll ur hans ficka. Vilket är utlåtandet om detta och är det tillåtet att ta med sig cigaretter in i moskén?
 
-**Svar:** Om avsikten med frågan är utlåtandet om hans handling, vilken var att han tog med sig cigaretter in i moskén, då är det inte okänt att cigaretter är något avskyvärt. Att röka dem är inte tillåtet på grund av den stora fara som de utsätter hälsan för, pengarna det kostar och hur samhället drabbas. Det är även förbjudet eftersom det inte finns någon nytta med det. Då det är avskyvärt måste Allāhs hus [moskéerna] skyddas från det. Att bära med sig dem in i moskén står i motsats till vad som innebär att hedra och respektera dem. Därför är det inte tillåtet att göra så.
+**Svar:** Om avsikten med frågan är utlåtandet om hans handling, vilken var att han tog med sig cigaretter in i moskén, då är det inte okänt att cigaretter är något avskyvärt. Att röka dem är inte tillåtet på grund av den stora fara som de utsätter hälsan för, pengarna det kostar och hur samhället drabbas. Det är även förbjudet eftersom det inte finns någon nytta med det.
+
+Då det är avskyvärt måste Allāhs hus [moskéerna] skyddas från det. Att bära med sig dem in i moskén står i motsats till vad som innebär att hedra och respektera dem. Därför är det inte tillåtet att göra så.
 
 Men om avsikten med frågan är utlåtandet om handlingen – vilket avser bönen – och om cigaretterna som föll ur fickan ogiltigör eller fördärvar bönen, då är bönen för denne korrekt.
 

@@ -16,7 +16,11 @@ description: >-
 
 **Fråga:** [Vad vet vi om Paradisets vidd?]
 
-**Svar:** Innan vi svarar denna fråga måste vi föregå den med att säga att det som finns i Allāhs skrift och det som har rapporterats från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – är sanningen. Det inte är möjligt att den motsäger sig verkligheten. Den uppenbara verkligheten är sann och det går inte att tveka över den. Det som Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* bekräftar är också det sanningen, som inte går att tvivla på. Det är heller inte möjligt att två sanningar står i motsats till varandra på ett sätt som gör det omöjligt att jämka samman dem. Koranen bekräftar att Paradisets vidd är vidden av himlarna och jorden. I en vers sägs det: ”… *och ett paradis, lika vidsträckt som himlarna och jorden*.” [^2] Och tävla med varandra om er Herres förlåtelse och ett paradis, lika vidsträckt som himlarna och jorden, som står berett att ta emot de som fruktar Allāh.
+**Svar:** Innan vi svarar denna fråga måste vi föregå den med att säga att det som finns i Allāhs skrift och det som har rapporterats från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – är sanningen. Det inte är möjligt att den motsäger sig verkligheten. Den uppenbara verkligheten är sann och det går inte att tveka över den. 
+
+Det som Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* bekräftar är också det sanningen, som inte går att tvivla på. Det är heller inte möjligt att två sanningar står i motsats till varandra på ett sätt som gör det omöjligt att jämka samman dem.
+
+Koranen bekräftar att Paradisets vidd är vidden av himlarna och jorden. I en vers sägs det: ”… *och ett paradis, lika vidsträckt som himlarna och jorden*.” [^2] Och tävla med varandra om er Herres förlåtelse och ett paradis, lika vidsträckt som himlarna och jorden, som står berett att ta emot de som fruktar Allāh.
 
 Utan tvekan är detta sanningen. En gång frågade en jude profeten – över honom vare Allāhs frid och välsignelser – om denna vers: ”Var finns Elden om Paradisets vidd är som himlarnas och jordens?” Profeten – över honom vare Allāhs frid och välsignelser – svarade: ”När natten kommer – var finns då dagen?” [^3]
 

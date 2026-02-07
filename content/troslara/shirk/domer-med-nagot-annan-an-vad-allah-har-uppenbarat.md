@@ -39,7 +39,11 @@ i] De vill få domslut från *at-taghut* [i deras dispyter]. Detta avser alla so
 
 ii] När de kallas till det som Allāh har uppenbarat och till profeten, då håller de sig borta från det.
 
-iii] När de på grund av vad de har gjort drabbas av olycka, som när de blir påkomna med vad de sysslar med, då kommer de och bedyrar att de avsåg gott och att de ville försona genom vad de gjorde. Detta inträffar i dagsläget när någon avvisar den islamiska lagen och dömer enligt lagar som motsäger sig religionen med påståendet att detta är rätt och passande under dagens omständigheter. Allāh varnar sedan de som påstår sig vara troende som besitter dessa kännemärken. Han den Upphöjde vet vad som finns i deras hjärtan och vilka tankar de hyser som motsäger sig vad de säger. Han befallde Sin profet att varna dem och att tala till dem på ett verkningsfullt sätt för att nå deras inre. Sedan klargjorde Han att visdomen i att sända profeten – över honom vare Allāhs frid och välsignelser – var att han skulle lydas och följas, vilket inte gäller någon annan, hur starka dennes idéer eller hur stor dennes intelligens än är. Allāh den Upphöjde svär sedan vid Sitt herravälde […] Han svär vid det en bekräftelseed om att tro utan tre ting är värdelöst.
+iii] När de på grund av vad de har gjort drabbas av olycka, som när de blir påkomna med vad de sysslar med, då kommer de och bedyrar att de avsåg gott och att de ville försona genom vad de gjorde. Detta inträffar i dagsläget när någon avvisar den islamiska lagen och dömer enligt lagar som motsäger sig religionen med påståendet att detta är rätt och passande under dagens omständigheter.
+
+Allāh varnar sedan de som påstår sig vara troende som besitter dessa kännemärken. Han den Upphöjde vet vad som finns i deras hjärtan och vilka tankar de hyser som motsäger sig vad de säger. Han befallde Sin profet att varna dem och att tala till dem på ett verkningsfullt sätt för att nå deras inre.
+
+Sedan klargjorde Han att visdomen i att sända profeten – över honom vare Allāhs frid och välsignelser – var att han skulle lydas och följas, vilket inte gäller någon annan, hur starka dennes idéer eller hur stor dennes intelligens än är. Allāh den Upphöjde svär sedan vid Sitt herravälde […] Han svär vid det en bekräftelseed om att tro utan tre ting är värdelöst.
 
 a] Det första är att man söker domar från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i varje dispyt.
 

@@ -16,7 +16,9 @@ description: >-
 
 **Svar:** All lovprisan tillhör Allāh. *Shaykh* Muḥammad ibn ´Uthaymīn har svarat enligt följande.
 
-Det har återberättats att profeten – över honom vare Allāhs frid och välsignelser – under *Arafat*-dagen uppehöll sig i Namirah [en plats nära *Arafat*] tills solen passerat himlens mitt [vid början av middagsbönen]. Han red sedan iväg för att stanna vid botten i Wadi 'Arnah [som är en dal mellan Namirah och *Arafat*]. Där bad han middagsbönen och eftermiddagsbönen sammanslagna och förkortade till två bönecykler vid middagsbönen. Detta gjorde han med ett böneutrop och två *iqāmah*. Sedan red han till han kom till platsen där man står och där stod han. Han sade: ”*Jag står här men hela *Arafat* är en plats för att stå*.” Han fortsatte att stå där i riktning mot *qiblah* med händerna höjda, åminnandes och åkallandes[^2] Allāh. Detta gjorde han tills solen hade gått ned och då begav han sig till *Muzdalifah*.
+Det har återberättats att profeten – över honom vare Allāhs frid och välsignelser – under *Arafat*-dagen uppehöll sig i Namirah [en plats nära *Arafat*] tills solen passerat himlens mitt [vid början av middagsbönen]. Han red sedan iväg för att stanna vid botten i Wadi 'Arnah [som är en dal mellan Namirah och *Arafat*]. Där bad han middagsbönen och eftermiddagsbönen sammanslagna och förkortade till två bönecykler vid middagsbönen. Detta gjorde han med ett böneutrop och två *iqāmah*.
+
+Sedan red han till han kom till platsen där man står och där stod han. Han sade: "*Jag står här men hela *Arafat* är en plats för att stå*." Han fortsatte att stå där i riktning mot *qiblah* med händerna höjda, åminnandes och åkallandes[^2] Allāh. Detta gjorde han tills solen hade gått ned och då begav han sig till *Muzdalifah*.
 
 Några av de misstag som vissa pilgrimer begår är följande:
 

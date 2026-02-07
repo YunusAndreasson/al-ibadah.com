@@ -18,7 +18,9 @@ description: >-
 
 **Svar:** Om han avsåg att utföra *‘umrah*[^2] när han gick in i *ihrām*, men glömde *talbiyyah* medan han avsåg *´umrah*, då är utlåtandet om honom samma som för den som säger *talbiyyah*. Han utför *tawāf*, *sa’ī*[^3], klipper sitt hår och träder ur sin *ihrām*.
 
-Det är föreskrivet att han säger *talbiyyah* på vägen till Mecka. Om han inte säger *talbiyyah* har han inte syndat för *talbiyyah* är betonad *sunnah* som inte är obligatorisk. Därmed gör han *tawāf*, *sa’ī*[^3], klipper sitt hår och anser att det är en *‘umrah*[^2], för han avsåg ju att göra *‘umrah*[^2]. Men om han befinner sig i *ihrām* och han avser att vallfärda och det finns gott om tid, då är det bättre om han avbryter sin vallfärd och ändrar avsikten till en *´umrah*. Sedan gör han *tawāf*, *sa´ī*[^3], klipper sitt hår och går ur *ihrām*. Och all lovprisan tillhör Allāh.
+Det är föreskrivet att han säger *talbiyyah* på vägen till Mecka. Om han inte säger *talbiyyah* har han inte syndat för *talbiyyah* är betonad *sunnah* som inte är obligatorisk. Därmed gör han *tawāf*, *sa'ī*[^3], klipper sitt hår och anser att det är en *'umrah*[^2], för han avsåg ju att göra *'umrah*[^2].
+
+Men om han befinner sig i *ihrām* och han avser att vallfärda och det finns gott om tid, då är det bättre om han avbryter sin vallfärd och ändrar avsikten till en *´umrah*. Sedan gör han *tawāf*, *sa´ī*[^3], klipper sitt hår och går ur *ihrām*. Och all lovprisan tillhör Allāh.
 
 I detta fall är utlåtandet för honom samma som utlåtandet om dem som gör *´umrah* och vallfärden tillsammans som *hajjul-tamattu´*.
 

@@ -25,9 +25,13 @@ Vallfärden är obligatorisk enligt Allāhs skrift, Hans sändebuds *sunnah* och
 
 > ”Den förmedlar klara budskap [och där finns] den plats där Abraham en gång stod; den som stiger in där är i trygghet. Vallfärden till denna Helgedom är en plikt mot Gud för var och en som har möjlighet att genomföra den. Och den som förnekar sanningen [ska veta att] Gud är Sig själv nog och inte behöver [någon eller något i] Sin skapelse.” [Koranen 3:97]
 
-Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Allāh har påbjudit er vallfärden, så vallfärda*." Muslimer är eniga om detta och det är något som en muslim inte har någon ursäkt för att inte känna till. Den som förnekar att den är en skyldighet och som lever tillsammans med muslimer – är en icke-troende.
+Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Allāh har påbjudit er vallfärden, så vallfärda*." Muslimer är eniga om detta och det är något som en muslim inte har någon ursäkt för att inte känna till.
 
-Den som på grund av försummelse inte lyckas med att utföra den är i stor fara. Några av de lärda har sagt att denne är en icke-troende. Denna åsikt har berättats i en rapport från Ahmad, men den korrekta ståndpunkten är att utelämnandet av en handling inte gör någon till en icke-troende, utom när det gäller bönen. 'Abd-Allāh ibn Shaqīq – som var en av *tābi'īn* – har sagt: "*Allāhs sändebuds följeslagare ansåg inte att utelämnandet av någon handling utgör otro utom bönen*." Den som har struntat i att vallfärda innan denne dör är inte en icke-troende enligt den korrekta åsikten, men denne är i stor fara.
+Den som förnekar att den är en skyldighet och som lever tillsammans med muslimer – är en icke-troende.
+
+Den som på grund av försummelse inte lyckas med att utföra den är i stor fara. Några av de lärda har sagt att denne är en icke-troende. Denna åsikt har berättats i en rapport från Ahmad, men den korrekta ståndpunkten är att utelämnandet av en handling inte gör någon till en icke-troende, utom när det gäller bönen.
+
+'Abd-Allāh ibn Shaqīq – som var en av *tābi'īn* – har sagt: "*Allāhs sändebuds följeslagare ansåg inte att utelämnandet av någon handling utgör otro utom bönen*." Den som har struntat i att vallfärda innan denne dör är inte en icke-troende enligt den korrekta åsikten, men denne är i stor fara.
 
 En muslim måste frukta Allāh och skynda sig att vallfärda så fort denne uppfyller villkoren för att den ska vara obligatoriskt. Vi måste skynda oss att utföra alla obligatoriska plikter utom när det finns bevis för motsatsen.
 

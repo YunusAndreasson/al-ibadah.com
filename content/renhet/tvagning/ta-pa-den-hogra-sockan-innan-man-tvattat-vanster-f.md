@@ -18,7 +18,9 @@ description: >-
 
 **Svar:** Det bästa är att inte ta på sig socken innan man har tvättat vänster fot. Detta grundas på profetens – över honom vare Allāhs frid och välsignelser – ord: "*När någon tvagar sig för att sedan ta på sig lädersockar, han bör stryka över dem och be i dem och han behöver inte ta av dem om han inte vill, utom med anledning av stor rituell renhet*.” [^1]
 
-Det har återberättats av *ad-Daraqutni* och *al-Hakim*, som klassat den som *sahīh* genom en *hadīth* från Anas och en *hadīth* från Abū Bakrah Ath-ThaQafi som rapporterat att profeten – över honom vare Allāhs frid och välsignelser – tillät resenärer att tvaga sig och sedan bära sina sockar och sedan stryka över dem under tre dagar och nätter och för en fast bosatt en natt. [^2] al-Mughirah bin Shu'bah har berättat att han såg profeten – över honom vare Allāhs frid och välsignelser – tvaga sig och han försökte ta av hans lädersockar men profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Lämna dem. Jag tog ju på dem då jag var rituellt ren*.” [^3]
+Det har återberättats av *ad-Daraqutni* och *al-Hakim*, som klassat den som *sahīh* genom en *hadīth* från Anas och en *hadīth* från Abū Bakrah Ath-ThaQafi som rapporterat att profeten – över honom vare Allāhs frid och välsignelser – tillät resenärer att tvaga sig och sedan bära sina sockar och sedan stryka över dem under tre dagar och nätter och för en fast bosatt en natt. [^2]
+
+al-Mughirah bin Shu'bah har berättat att han såg profeten – över honom vare Allāhs frid och välsignelser – tvaga sig och han försökte ta av hans lädersockar men profeten – över honom vare Allāhs frid och välsignelser – sade: "*Lämna dem. Jag tog ju på dem då jag var rituellt ren*." [^3]
 
 I dessa tre *ahādīth* och andra med samma innebörd blir det tydligt att en muslim inte får stryka över sockarna utom om han tog på dem under rituell renhet; och den som har tagit på sin högra sock innan han tvättat den vänstra, denne har inte hunnit bli rituell ren.
 

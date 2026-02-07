@@ -19,7 +19,11 @@ description: >-
 
 **Svar:** Profeten – över honom vare Allāhs frid och välsignelser – har förbjudit gravar i moskén. Han förbjöd folket att ta gravar till platser för dyrkan. När han var på väg att avlida förbannade han dem som gör så. Han varnade sitt folk för detta och han berättade att detta var något som judarna och de kristna gjorde. [^1]
 
-Det är förbjudet eftersom det är en väg som leder till att man sätter medhjälpare vid Allāhs den Allsmäktiges sida. När moskéer byggs över gravar och när avlidna begravs i dem, då är det en väg som leder till att man tar de begravna som medhjälpare till Allāh den Allsmäktige. Inträffar detta kommer folket att tro att de som vilar i dessa gravar kan vara dem till nytta eller att de kan skada dem, och att de besitter speciella kvaliteter. Detta leder i själva verket till att folk försöker komma dem nära genom att rikta dyrkan mot dem i stället för Allāh den Upphöjde, den Härlige. Därför måste muslimer undvika detta farliga fenomen, hålla moskéerna fria från gravar och bygga dem med utgångspunkt i *tawhīd* och en korrekt *'aqīdah*. Allāh den Upphöjde säger: ”*All dyrkan tillkommer Gud; anropa därför ingen vid sidan av Honom!*” [^2] Moskéerna måste vara för Allāh den Härlige, den Upphöjde och hållas fria från uttryck för *shirk*. Dyrkan av Allāh – utan medhjälpare – måste utföras i dem. Detta är en skyldighet för muslimer.
+Det är förbjudet eftersom det är en väg som leder till att man sätter medhjälpare vid Allāhs den Allsmäktiges sida. När moskéer byggs över gravar och när avlidna begravs i dem, då är det en väg som leder till att man tar de begravna som medhjälpare till Allāh den Allsmäktige. 
+
+Inträffar detta kommer folket att tro att de som vilar i dessa gravar kan vara dem till nytta eller att de kan skada dem, och att de besitter speciella kvaliteter. Detta leder i själva verket till att folk försöker komma dem nära genom att rikta dyrkan mot dem i stället för Allāh den Upphöjde, den Härlige.
+
+Därför måste muslimer undvika detta farliga fenomen, hålla moskéerna fria från gravar och bygga dem med utgångspunkt i *tawhīd* och en korrekt *'aqīdah*. Allāh den Upphöjde säger: ”*All dyrkan tillkommer Gud; anropa därför ingen vid sidan av Honom!*” [^2] Moskéerna måste vara för Allāh den Härlige, den Upphöjde och hållas fria från uttryck för *shirk*. Dyrkan av Allāh – utan medhjälpare – måste utföras i dem. Detta är en skyldighet för muslimer.
 
 Och Allāh är Beviljaren av framgång.
 

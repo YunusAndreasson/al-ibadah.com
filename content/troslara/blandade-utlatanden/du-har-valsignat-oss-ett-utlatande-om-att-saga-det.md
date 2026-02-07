@@ -25,7 +25,9 @@ Att söka välsignelser delas i två kategorier:
 
 Det finns föreställda och falska välsignelser, likt de som påståts av dajjāler som säger att en avliden, som de menar vara Allāhs *walī*, har gett välsignelser till någon. Dessa är falska och det finns ingen inverkan i dem. Djävulen kan ligga bakom det hela, men det är inte mer än fysiska effekter. Djävulen tjänar denne *shaykh* och det blir därmed en prövning [för folket].
 
-För att ta reda på om välsignelserna är sanna eller falska avgör man detta efter personens tillstånd. Om denne är en av Allāhs fromme *awliya'* som håller sig till profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och undviker innovationer, då kan Allāh i dennes händer placera gott och välsignelser som Han inte placerar i andras händer. Men om denne motsäger sig Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* eller kallar till det som är falskt, då är dennes välsignelser inte äkta. Det kan vara djävularna som ligger bakom detta för att komma till hjälp i dennes falskhet.
+För att ta reda på om välsignelserna är sanna eller falska avgör man detta efter personens tillstånd. Om denne är en av Allāhs fromme *awliya'* som håller sig till profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och undviker innovationer, då kan Allāh i dennes händer placera gott och välsignelser som Han inte placerar i andras händer.
+
+Men om denne motsäger sig Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* eller kallar till det som är falskt, då är dennes välsignelser inte äkta. Det kan vara djävularna som ligger bakom detta för att komma till hjälp i dennes falskhet.
 
 
 [^1]: *al-Bukhārī* 334 och *Muslim* 289

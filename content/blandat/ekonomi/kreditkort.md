@@ -13,5 +13,7 @@ description: 'Fråga: Det finns banker som förser sina kunder med kreditkort, i
 
 **Fråga:** Det finns banker som förser sina kunder med kreditkort, i detta fall VISA. Dessa kort tillåter kunderna att ta ut pengar från ett bankkonto även om där inte finns tillräckligt med pengar vid det aktuella tillfället. Efter en viss tid är kunden skyldig att betala tillbaka pengarna som han tidigare tog ut. Om han inte gör detta före tiden har gått ut kommer banken att debitera honom en extra summa som tillägg. Vad är reglerna i fråga om dessa kort?
 
-**Svar:** Denna transaktion är förbjuden. Det beror på att den består av en överenskommelse om att en ränta ska betalas om återbetalningen inte sker i tid. Denna överenskommelse om att betala ränta är inte tillåten. Även om en person tror eller känner sig säker på att han kommer att kunna betala tillbaka före den överenskomna tiden är det möjligt att omständigheter kan förändras vilket kan leda till att det blir omöjligt för honom att betala tillbaka. Och då betalning sker i framtiden är det av förklarliga skäl omöjligt att i förväg veta om det verkligen kommer att gå att betala tillbaka.
+**Svar:** Denna transaktion är förbjuden. Det beror på att den består av en överenskommelse om att en ränta ska betalas om återbetalningen inte sker i tid. Denna överenskommelse om att betala ränta är inte tillåten.
+
+Även om en person tror eller känner sig säker på att han kommer att kunna betala tillbaka före den överenskomna tiden är det möjligt att omständigheter kan förändras vilket kan leda till att det blir omöjligt för honom att betala tillbaka. Och då betalning sker i framtiden är det av förklarliga skäl omöjligt att i förväg veta om det verkligen kommer att gå att betala tillbaka.
 

@@ -16,7 +16,9 @@ description: >-
 
 **Fråga:** En person begick en handling av olydnad och ångrade sig inför Allāh efteråt. Han känner dock djupt inom sig själv att Allāh inte kommer att förlåta honom. Vilket är ditt råd till honom?
 
-**Svar:** Detta är ett bevis för skärpan i din fruktan av Allāh och för din vördnad för Hans förbud. Om Allāh vill gör du vad som är rätt. Inte desto mindre bör du försöka dämpa denna fruktan; en fruktan som inte har någon grund, då den kommer från djävulen. Han vill att du ska känna dig förträngd och han vill att du ska vara eländig. Ta honom för den han är – en riktig fiende. Han hatar att se dig älska att göra det som är rätt. Var därför olydig mot honom och håll dig borta från vad han beordrar dig till.
+**Svar:** Detta är ett bevis för skärpan i din fruktan av Allāh och för din vördnad för Hans förbud. Om Allāh vill gör du vad som är rätt. Inte desto mindre bör du försöka dämpa denna fruktan; en fruktan som inte har någon grund, då den kommer från djävulen.
+
+Han vill att du ska känna dig förträngd och han vill att du ska vara eländig. Ta honom för den han är – en riktig fiende. Han hatar att se dig älska att göra det som är rätt. Var därför olydig mot honom och håll dig borta från vad han beordrar dig till.
 
 Sök frid hos din Herre och vet att din ånger är tillräcklig. Även om en synd är större än alla andra synder står ånger inför Allāh över detta. Det finns ingen större synd än *shirk*, men även om någon sätter medhjälpare vid Allāhs sida och ångrar sig, kommer Han att förlåta honom.
 

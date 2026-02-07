@@ -18,7 +18,9 @@ description: >-
 
 **Svar:** Gick det till som frågeställaren beskriver måste kvinnan bege sig till Mecka och utföra *tawāf* vid Ka'bah; sju varv med avsikten att det är för hennes vallfärd. På detta sätt tar hon igen den *tawāf* som hon gjorde då hon inte var ren. Efter *tawāf* ber hon två bönecykler bakom platsen där Abraham stod, eller vid någon annan plats i helgedomen. Med detta är hennes vallfärd fullständig.
 
-Hon måste offra ett djur i Mecka till de fattiga om hon har en man som har haft intim samvaro med henne efter vallfärden. Anledningen är att en kvinna i *ihrām* inte är tillåten för sin man att ha intim samvaro med förrän efter *tawāf* *ul-ifādhah*, pelarna har stenats under *'eid* och håret har klippts. Hon måste även göra *sa'ī* mellan as-Safa och al-Marwah om hon inte har utfört *sa'ī* och hon vallfärdar *hajjul-tamattu'* [*'umrah* före vallfärden]. Men om hon gör *hajjul-qirān* eller *hajjul-ifrad*, då behöver hon inte utföra *sa'ī* en andra gång om hon redan har utfört *sa'ī* tillsammans med sin *tawāf* då hon anländande.
+Hon måste offra ett djur i Mecka till de fattiga om hon har en man som har haft intim samvaro med henne efter vallfärden. Anledningen är att en kvinna i *ihrām* inte är tillåten för sin man att ha intim samvaro med förrän efter *tawāf* *ul-ifādhah*, pelarna har stenats under *'eid* och håret har klippts.
+
+Hon måste även göra *sa'ī* mellan as-Safa och al-Marwah om hon inte har utfört *sa'ī* och hon vallfärdar *hajjul-tamattu'* [*'umrah* före vallfärden]. Men om hon gör *hajjul-qirān* eller *hajjul-ifrad*, då behöver hon inte utföra *sa'ī* en andra gång om hon redan har utfört *sa'ī* tillsammans med sin *tawāf* då hon anländande.
 
 Hon måste ångra sig inför Allāh för att hon gjorde *tawāf* när hon hade sin månadsblödning, att hon lämnade Mecka innan hon hade gjort *tawāf* [*ul-ifādhah*] och att hon har försenat *tawāf* så här länge.
 

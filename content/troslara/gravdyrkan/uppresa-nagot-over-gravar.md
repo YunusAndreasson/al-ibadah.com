@@ -16,7 +16,9 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om att bygga något över gravar?
 
-**Svar:** Att bygga något över gravar är förbjudet. Profeten – över honom vare Allāhs frid och välsignelser – förbjöd det eftersom det innebär ett lovprisande av dem som vilar i dem och eftersom det är något som leder till att man dyrkar dem och tar dem som gudar jämsides med Allāh. Så är fallet med många byggnader som har byggts över gravar. Människor kommer till dem för att ta de som ligger i gravarna som medhjälpare till Allāh. De åkallar även dem jämsides med Allāh den Upphöjde. Att åkalla dem som ligger i gravarna och söka hjälp från dem för att skydda mot katastrofer, det är mångguderi och ett avvisande av islam.
+**Svar:** Att bygga något över gravar är förbjudet. Profeten – över honom vare Allāhs frid och välsignelser – förbjöd det eftersom det innebär ett lovprisande av dem som vilar i dem och eftersom det är något som leder till att man dyrkar dem och tar dem som gudar jämsides med Allāh. Så är fallet med många byggnader som har byggts över gravar. 
+
+Människor kommer till dem för att ta de som ligger i gravarna som medhjälpare till Allāh. De åkallar även dem jämsides med Allāh den Upphöjde. Att åkalla dem som ligger i gravarna och söka hjälp från dem för att skydda mot katastrofer, det är mångguderi och ett avvisande av islam.
 
 Och Allāh är Den vars hjälp vi söker.
 

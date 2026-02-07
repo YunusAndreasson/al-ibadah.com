@@ -17,9 +17,13 @@ description: >-
 
 **Fråga:** Somliga säger: Även om du inte sökte hjälp från Allāh skulle det regna. Vilken är din åsikt om detta?
 
-**Svar:** Jag säger att jag fruktar en stor fara för den som säger så. Allāh den Allsmäktige säger: ”*Be till Mig, så ska Jag besvara er [bön]*.” [^1] Allāh den Upphöjde är full av visdom så Han kan tänkas hålla inne Sina gåvor för att folket verkligen ska förstå deras behov av Honom, att det inte finns någon tillflykt från Allāh utom hos Honom och att Han gör folkets åkallan till en orsak till att det ska regna. Om folket åkallar Honom och regnet inte kommer till dem, då har Allāh den Upphöjde någon visdom i det och Han den Härlige, den Upphöjde vet bättre och är visare och mer barmhärtig mot de skapade varelserna än vad de är mot sig själva.
+**Svar:** Jag säger att jag fruktar en stor fara för den som säger så. Allāh den Allsmäktige säger: ”*Be till Mig, så ska Jag besvara er [bön]*.” [^1] Allāh den Upphöjde är full av visdom så Han kan tänkas hålla inne Sina gåvor för att folket verkligen ska förstå deras behov av Honom, att det inte finns någon tillflykt från Allāh utom hos Honom och att Han gör folkets åkallan till en orsak till att det ska regna.
 
-Ofta kan någon tänkas be om något utan att få det, för att sedan be igen och igen utan att få det. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Ni* *kommer att få er åkallan besvarad så länge ni inte är otåliga och säger: 'Jag åkallade men jag besvarades inte*.'” [^2] Här blir denne bedrövad och överger åkallan, må Allāh skydda oss från det, trots att denne inte åkallar Allāh med ett enda ord utan att han belönas för det. Detta beror på att åkallan är en sorts dyrkan och den som gör det får under alla omständigheter något nyttig från det.
+Om folket åkallar Honom och regnet inte kommer till dem, då har Allāh den Upphöjde någon visdom i det och Han den Härlige, den Upphöjde vet bättre och är visare och mer barmhärtig mot de skapade varelserna än vad de är mot sig själva.
+
+Ofta kan någon tänkas be om något utan att få det, för att sedan be igen och igen utan att få det. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Ni* *kommer att få er åkallan besvarad så länge ni inte är otåliga och säger: 'Jag åkallade men jag besvarades inte*.'” [^2] Här blir denne bedrövad och överger åkallan, må Allāh skydda oss från det, trots att denne inte åkallar Allāh med ett enda ord utan att han belönas för det.
+
+Detta beror på att åkallan är en sorts dyrkan och den som gör det får under alla omständigheter något nyttig från det.
 
 I en *hadīth* från profeten – över honom vare Allāhs frid och välsignelser – har det återberättats att när någon åkallar Allāh kommer ett av tre ting att hända denne: Åkallan blir besvarad, något värre ont avvärjs eller sparas den till Återuppståndelsens dag. [^3]
 

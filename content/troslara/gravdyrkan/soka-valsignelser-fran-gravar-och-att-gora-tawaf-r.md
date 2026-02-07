@@ -19,7 +19,9 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om att söka välsignelser från gravar och att göra *tawāf* runt dem för att få ens behov uppfyllda och för att komma närmare den som ligger begravd däri? Vilket är utlåtandet om att svära vid någon annan än Allāh?
 
-**Svar:** Att söka välsignelser från gravar är inte tillåtet och det är en sorts *shirk*. Detta beror på att detta gör gällande att det finns en inverkan från något som Allāh inte har gett någon auktoritet för. Det var inte de rättfärdiga *salaf*s tradition att söka välsignelser på detta sätt, och då är det dessutom en innovation. Trodde den som sökte välsignelser att gravens invånare hade någon inverkan eller förmåga att skydda mot ont eller ge något gott, då är det stor *shirk* om denne åkallade dem i något av dessa syften. Det är också stor *shirk* om den som residerar i graven dyrkas genom bugningar, nedfallanden eller slakt av ett djur för att komma närmare och visa vördnad för denne. Allāh den Upphöjde säger:
+**Svar:** Att söka välsignelser från gravar är inte tillåtet och det är en sorts *shirk*. Detta beror på att detta gör gällande att det finns en inverkan från något som Allāh inte har gett någon auktoritet för. Det var inte de rättfärdiga *salaf*s tradition att söka välsignelser på detta sätt, och då är det dessutom en innovation.
+
+Trodde den som sökte välsignelser att gravens invånare hade någon inverkan eller förmåga att skydda mot ont eller ge något gott, då är det stor *shirk* om denne åkallade dem i något av dessa syften. Det är också stor *shirk* om den som residerar i graven dyrkas genom bugningar, nedfallanden eller slakt av ett djur för att komma närmare och visa vördnad för denne. Allāh den Upphöjde säger:
 
 > ”Den som vid sidan av Gud åkallar en annan gudom – för vars [existens] han saknar bevis – ska stå till svars enbart inför sin Herre. Det ska inte gå dem väl som förnekar sanningen!” [Koranen 23:117]
 
@@ -29,7 +31,8 @@ Månggudadyrkarna som begår stor *shirk* är icke-troende som står utanför is
 
 > ”Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden ska bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [Koranen 5:72]
 
-Svär man vid någon annan än Allāh, och man tror att den som man svär vid har en position likvärdig med Allāhs, då är man en månggudadyrkare[^2] som gör sig skyldig till stor *shirk*. Om man inte tror det, men det i ens hjärta finns begär att upphöja den man svär vid, och det sker utan att man tror att dennes position är likvärdig med Allāhs, då är man skyldig till mindre *shirk*. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Den som svär vid något annat än Allāh har begått otro eller shirk*[^1].” [^3]
+Svär man vid någon annan än Allāh, och man tror att den som man svär vid har en position likvärdig med Allāhs, då är man en månggudadyrkare[^2] som gör sig skyldig till stor *shirk*. Om man inte tror det, men det i ens hjärta finns begär att upphöja den man svär vid, och det sker utan att man tror att dennes position är likvärdig med Allāhs, då är man skyldig till mindre *shirk*. 
+Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: "*Den som svär vid något annat än Allāh har begått otro eller shirk*[^1]." [^3]
 
 De som söker välsignelser från gravar, åkallar de avlidna eller svär vid någon annan än Allāh måste tillrättavisas skarpt. Det måste klargöras för denne att ett sådant beteende inte kommer att rädda denne från Allāhs straff enbart eftersom denne säger: ”Detta är något som vi lärt oss från våra förfäder.” Detta argument är detsamma som polyteristerna som motsade sig sändebudet – över honom vare Allāhs frid och välsignelser – lade fram:
 
@@ -43,7 +46,9 @@ Allāh den Upphöjde säger:
 
 > ”Och Vi lät dem känna på Vår vedergällning. Se där vilket slut de fick som påstod att sanningen är lögn!” [Koranen 43:25]
 
-Det är inte tillåtet att som bevis för denna felaktiga handling säga att föräldrarna gjorde det eller att det är en vana. Argumenterar någon på detta sätt är dennes argument ogiltigt hos Allāh den Upphöjde och det kommer inte att göra denne någon nytta. De som har prövats med något likt detta måste i ånger vända sig till Allāh, följa sanningen var den än finns och vem som än kommer med den, och inte låta sig hindras att acceptera den genom folks seder eller vad de okunniga påstår. Den sanne troende är den som inte fruktar klander från dem som klandrar och som inte låter sig hindras att följa Allāhs religion.
+Det är inte tillåtet att som bevis för denna felaktiga handling säga att föräldrarna gjorde det eller att det är en vana. Argumenterar någon på detta sätt är dennes argument ogiltigt hos Allāh den Upphöjde och det kommer inte att göra denne någon nytta.
+
+De som har prövats med något likt detta måste i ånger vända sig till Allāh, följa sanningen var den än finns och vem som än kommer med den, och inte låta sig hindras att acceptera den genom folks seder eller vad de okunniga påstår. Den sanne troende är den som inte fruktar klander från dem som klandrar och som inte låter sig hindras att följa Allāhs religion.
 
 Må Allāh ge oss framgång med att uppnå det som gör Honom nöjd och må Han skydda oss från allt som orsakar Hans vrede och straff.
 

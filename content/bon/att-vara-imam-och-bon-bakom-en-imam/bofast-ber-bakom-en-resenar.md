@@ -18,7 +18,9 @@ description: >-
 
 **Svar:** Om den som inte reser ber bakom en resenär för att få belöningen för att be med församlingen om han redan har bett den obligatoriska bönen, då bör han be två bönecykler med resenären. Det anses vara en frivillig bön för honom. Men om den som inte reser ber bakom resenären och han ber en obligatorisk bön som middagsbönen, eftermiddagsbönen eller nattbönen, då bör han be fyra bönecykler.
 
-I detta fall måste han slutföra sin bön när resenären gör *taslīm* efter två bönecykler. Men om resenären ber en bön som är obligatorisk för båda två bakom den som inte reser, då måste han be fyra bönecykler. Detta enligt den starkaste åsikten bland de lärde som grundas på en återberättelse från imam Ahmad och Muslim. I den uppges att Ibn ‘Abbās tillfrågades om en resenär som ber fyra bönecykler bakom en imam och två bönecykler med sina följeslagare under resan – och han säger: ”*Det är *sunnah*.” [^1] Ett bevis är även den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – uttalande: "*Imamen finns där för att följas, så gå inte emot honom*.” [^2]
+I detta fall måste han slutföra sin bön när resenären gör *taslīm* efter två bönecykler.
+
+Men om resenären ber en bön som är obligatorisk för båda två bakom den som inte reser, då måste han be fyra bönecykler. Detta enligt den starkaste åsikten bland de lärde som grundas på en återberättelse från imam Ahmad och Muslim. I den uppges att Ibn 'Abbās tillfrågades om en resenär som ber fyra bönecykler bakom en imam och två bönecykler med sina följeslagare under resan – och han säger: "*Det är *sunnah*." [^1] Ett bevis är även den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – uttalande: "*Imamen finns där för att följas, så gå inte emot honom*." [^2]
 
 
 [^1]: *Muslim* 688 och *Ahmad* 1:216

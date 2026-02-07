@@ -18,7 +18,9 @@ description: >-
 
 **Svar:** Från Abū Ayyub har man bekräftat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: "*Den som fastar under *ramadan* och sedan följer den med sex [dagars fasta] i *shawwal*, då är det som att denne hade fastat hela tiden [året]*." [^2]
 
-Denna *hadīth* har Muslim och de fem [Abū Dawūd, at-Tirmithi, an-Nasā'i, Ibn Mājah och Ahmad] återgivit. Därmed är denna *hadīth* autentisk och den bevisar att det är *sunnah* att fasta sex dagar under *shawwal*. ash-Shafi'i har agerat enligt den och så även Ahmad och en grupp av imamerna bland de lärda. Det är inte rätt att låta denna *hadīth* motsägas av vad vissa lärde har angivit som anledning för att anse fastan vara ogillad. Dessa *ahādīth* medför den lärdes rädsla för att de okunniga ska tro att den är en del av *ramadan* eller tro att den är obligatoriskt. Det kan även vara så att det inte har nått honom att de lärde som föregick honom fastade på detta sätt. Sannerligen är detta spekulation och det kan inte bestrida profetens – över honom vare Allāhs frid och välsignelser – autentiska *sunnah*. Den som har vetskap som ett bevis är inte likvärdig med den som inte har det.
+Denna *hadīth* har Muslim och de fem [Abū Dawūd, at-Tirmithi, an-Nasā'i, Ibn Mājah och Ahmad] återgivit. Därmed är denna *hadīth* autentisk och den bevisar att det är *sunnah* att fasta sex dagar under *shawwal*. ash-Shafi'i har agerat enligt den och så även Ahmad och en grupp av imamerna bland de lärda.
+
+Det är inte rätt att låta denna *hadīth* motsägas av vad vissa lärde har angivit som anledning för att anse fastan vara ogillad. Dessa *ahādīth* medför den lärdes rädsla för att de okunniga ska tro att den är en del av *ramadan* eller tro att den är obligatoriskt. Det kan även vara så att det inte har nått honom att de lärde som föregick honom fastade på detta sätt. Sannerligen är detta spekulation och det kan inte bestrida profetens – över honom vare Allāhs frid och välsignelser – autentiska *sunnah*. Den som har vetskap som ett bevis är inte likvärdig med den som inte har det.
 
 [^1]: De tre första generationerna i islam.
 

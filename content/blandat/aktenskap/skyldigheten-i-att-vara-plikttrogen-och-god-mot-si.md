@@ -16,7 +16,9 @@ description: >-
 
 **Fråga:** Ädle *shaykh*, mina barn lyder mig inte och de utför inte ens de minsta plikterna gentemot mig eller sin moder. Detta trots att hon är gammal och har dålig syn. Vänligen, klargör för dem och ge dem råd om deras föräldrars rättigheter.
 
-**Svar:** Barn måste lyda sina föräldrar i vad som är bra, vara vänliga och plikttrogna mot dem och undvika att inte lyda dem i vad som inte motsäger sig den islamiska lagen. Allāh den Allsmäktige säger: "Er Herre har befallt, att ni inte ska dyrka någon annan än Honom. Och [Han har anbefallt er] att visa godhet mot [era] föräldrar." [^1] "Gud har anbefallt människan [att visa] godhet mot sina föräldrar; [hon bör tänka på att] modern har burit sitt barn genom det ena svaghetstillståndet efter det andra, [fött det] och ammat det under två år. Tacka Mig och dina föräldrar [och minns att] Jag är målet för er färd!" [^2]
+**Svar:** Barn måste lyda sina föräldrar i vad som är bra, vara vänliga och plikttrogna mot dem och undvika att inte lyda dem i vad som inte motsäger sig den islamiska lagen.
+
+Allāh den Allsmäktige säger: "Er Herre har befallt, att ni inte ska dyrka någon annan än Honom. Och [Han har anbefallt er] att visa godhet mot [era] föräldrar." [^1] "Gud har anbefallt människan [att visa] godhet mot sina föräldrar; [hon bör tänka på att] modern har burit sitt barn genom det ena svaghetstillståndet efter det andra, [fött det] och ammat det under två år. Tacka Mig och dina föräldrar [och minns att] Jag är målet för er färd!" [^2]
 
 Någon frågade Profeten: "Vilken är den mest ärbaraste handlingen?" Han svarade: "Bön i tid." "Och sedan?" Profeten svarade: "Plikttrogenhet mot föräldrarna." "Och sedan?" "Strida för Allāhs sak." [^3] Dess autenticitet finns det samstämmighet kring.
 

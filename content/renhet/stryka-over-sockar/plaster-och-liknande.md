@@ -22,7 +22,9 @@ Låt oss anta att det fanns ett plåster fastsatt för att täcka ett sår på a
 
 Det finns heller inga bevis fria från kritik för att stryka över *jabirah*. Det finns några svaga *ahādīth* som de lärde har citerats som bevis. De säger att det totala antalet *ahādīth* höjer dem till en nivå som gör dem till [acceptabla] bevis.
 
-Vissa lärde säger att på grund av deras svaghet så kan de inte användas. Dessa lärde är själva oeniga. Några säger att de inte är nödvändigt att rena jabirah då det inte är möjligt att göra så. Andra säger att man bör göra *tayammum* där och inte stryka över det. Men det närmaste vad som sagts om dessa utlåtanden, oberoende av de *ahādīth* som återberättats i detta ämne, är att man ska stryka över. Denna strykning är tillräcklig utan *tayammum* som det inte finns något behov för. Därför säger vi att om det finns ett sår på en kroppsdel som måste renas, då kommer detta att hamna i en av följande kategorier:
+Vissa lärde säger att på grund av deras svaghet så kan de inte användas. Dessa lärde är själva oeniga. Några säger att de inte är nödvändigt att rena jabirah då det inte är möjligt att göra så. Andra säger att man bör göra *tayammum* där och inte stryka över det.
+
+Men det närmaste vad som sagts om dessa utlåtanden, oberoende av de *ahādīth* som återberättats i detta ämne, är att man ska stryka över. Denna strykning är tillräcklig utan *tayammum* som det inte finns något behov för. Därför säger vi att om det finns ett sår på en kroppsdel som måste renas, då kommer detta att hamna i en av följande kategorier:
 
 1. Avtäcks och tvättas det så skadar det inte. Här måste man tvätta, om det är på en plats där tvätt är ett krav.
 2. Avtäcks och tvättas det så skadar det men en strykning gör det inte. Här måste man stryka över, inte tvätta.

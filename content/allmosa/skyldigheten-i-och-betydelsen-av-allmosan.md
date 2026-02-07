@@ -70,7 +70,9 @@ När det gäller den lägsta gränsen för betesboskap som kameler, kor och får
 
 Den lägsta gränsen för silver är 140 *mithqal* och dess värde i saudisk valuta är 56 riyal[^1]. Den lägsta gränsen för guld är tjugo *mithqal* och dess värde i saudiska valuta är 11 3/7 *junayh*.
 
-Det som man måste betala för dem [guld och silver] är en fyrtiondel, det vill säga 2.5 procent när man äger den minst mängden av något av dessa föremål. De måste också ha varit i ens ägo under ett år [innan allmosan ska betalas]. Får man någon vinst från dem räknas den ihop med ursprungsmängden och det behöver inte gå ett år [innan allmosa krävs på vinsten]. På samma sätt räknas ungdjur i kreatursbesättningen in i ursprungsantalet [när allmosan räknas ut] och det behöver inte gå ett år [innan man måste betala allmosa]. Detta så länge det ursprungliga antalet nådde upp till den lägsta nivån.
+Det som man måste betala för dem [guld och silver] är en fyrtiondel, det vill säga 2.5 procent när man äger den minst mängden av något av dessa föremål. De måste också ha varit i ens ägo under ett år [innan allmosan ska betalas].
+
+Får man någon vinst från dem räknas den ihop med ursprungsmängden och det behöver inte gå ett år [innan allmosa krävs på vinsten]. På samma sätt räknas ungdjur i kreatursbesättningen in i ursprungsantalet [när allmosan räknas ut] och det behöver inte gå ett år [innan man måste betala allmosa]. Detta så länge det ursprungliga antalet nådde upp till den lägsta nivån.
 
 De papperspengar som man handlar med i dag har samma utlåtande som guld och silver. Det spelar ingen roll om de kallas för dirhma, dinar, dollar eller någonting annat. Om pengarnas värde når det lägsta värdet för guld eller silver och man har ägt dem under ett år, då krävs det allmosa för dem.
 
@@ -78,13 +80,19 @@ Sådana smycken som kvinnor bär och som har gjorts speciellt av guld och silver
 
 > ”Det finns ingen som äger guld eller silver och som inte betalar för dessa utan att eldplattor kommer att tillverkas för denne på Återuppståndelsens dag…” [*Muslim* 987]
 
-Till slutet av denna *hadīth* som vi redan har visat. Detta beror också på vad man har bekräftat från profeten, att han såg två guldarmband på en kvinnas hand och sade: ”*Betalar du allmosa för dessa?*” Kvinnan svarade: ”*Nej*.” Så han sade: ”*Nöjer det dig att Allāh kommer att göra dem till två armband av eld till dig på Återuppståndelsens dag?*” Så hon slet av dem och sade: ”*De är för Allāh och Hans sändebud*.” [^2] Abū Dawūd och an-Nasā’i har återgivit denna *hadīth* med en god berättarkedja. Man har bekräftat att Umm Salamah bar armringar gjorda av guld så hon sade: ”*Allāhs sändebud! Är detta den giriges skatt [kanz]?*” Han svarade då: ”*Den mängd som når nivån för allmosa betalas allmosa för, då är det inte den giriges skatt [kanz]*.” [^3]
+Till slutet av denna *hadīth* som vi redan har visat. Detta beror också på vad man har bekräftat från profeten, att han såg två guldarmband på en kvinnas hand och sade: "*Betalar du allmosa för dessa?*" Kvinnan svarade: "*Nej*." Så han sade: "*Nöjer det dig att Allāh kommer att göra dem till två armband av eld till dig på Återuppståndelsens dag?*" Så hon slet av dem och sade: "*De är för Allāh och Hans sändebud*." [^2] Abū Dawūd och an-Nasā'i har återgivit denna *hadīth* med en god berättarkedja.
 
-När det gäller handelsvaror är det föremål som anses vara till försäljning. Värdet på dem räknar man ut under årets slut och 2.5 procent av värdet ger man i allmosa. Det spelar ingen roll om deras värde är samma som deras pris, eller mer eller mindre. Detta beror på vad Allāhs sändebud – över honom vare Allāhs frid och välsignelser – säger i en *hadīth* från Samurah i vilken det berättas att han brukade beordra att välgörenhet ges för allt som anses vara till försäljning. Denna *hadīth* har *Abū Dawūd* återgivit. Här inräknas även landstycken, byggnader, bilar, maskiner som hämtar upp vatten och andra föremål som kan tänkas vara till försäljning.
+Man har bekräftat att Umm Salamah bar armringar gjorda av guld så hon sade: "*Allāhs sändebud! Är detta den giriges skatt [kanz]?*" Han svarade då: "*Den mängd som når nivån för allmosa betalas allmosa för, då är det inte den giriges skatt [kanz]*." [^3]
+
+När det gäller handelsvaror är det föremål som anses vara till försäljning. Värdet på dem räknar man ut under årets slut och 2.5 procent av värdet ger man i allmosa. Det spelar ingen roll om deras värde är samma som deras pris, eller mer eller mindre.
+
+Detta beror på vad Allāhs sändebud – över honom vare Allāhs frid och välsignelser – säger i en *hadīth* från Samurah i vilken det berättas att han brukade beordra att välgörenhet ges för allt som anses vara till försäljning. Denna *hadīth* har *Abū Dawūd* återgivit. Här inräknas även landstycken, byggnader, bilar, maskiner som hämtar upp vatten och andra föremål som kan tänkas vara till försäljning.
 
 När det gäller byggnader som hyrs ut men som inte är till försäljning, då räknas allmosan på hyran, om byggnaden har varit i ens ägo under ett år. För byggnaderna i sig krävs det ingen allmosa då de inte har varit till försäljning.
 
-Man behöver heller inte betala allmosa för privatägda eller hyrda bilar då de inte är till försäljning. Ägaren har enbart köpt dem för att använda dem. Om den som äger hyrbilen, eller någon i en liknande situation, får ihop tillräckligt med pengar för att de ska uppnå den lägsta nivån, då måste denne betala allmosa för dessa pengar om ett år har gått medan de har varit i dennes ägo. Det spelar ingen roll om ägaren behåller pengarna för att spendera dem, att gifta sig, köpa egendom, betala av en skuld eller i något annat syfte. Detta beror på den allmänna innebörden av de bevisen som bevisar skyldigheten i allmosa för föremål som dessa.
+Man behöver heller inte betala allmosa för privatägda eller hyrda bilar då de inte är till försäljning. Ägaren har enbart köpt dem för att använda dem.
+
+Om den som äger hyrbilen, eller någon i en liknande situation, får ihop tillräckligt med pengar för att de ska uppnå den lägsta nivån, då måste denne betala allmosa för dessa pengar om ett år har gått medan de har varit i dennes ägo. Det spelar ingen roll om ägaren behåller pengarna för att spendera dem, att gifta sig, köpa egendom, betala av en skuld eller i något annat syfte. Detta beror på den allmänna innebörden av de bevisen som bevisar skyldigheten i allmosa för föremål som dessa.
 
 Den korrekta åsikten bland de lärde är att skuld inte hindrar skyldigheten att betala allmosa, på grund av vad som precis har nämnts.
 
@@ -92,7 +100,9 @@ Enligt en majoritet av de lärda krävs allmosa även för den föräldralöses 
 
 > ”Sannerligen, Allāh har gjort det till en skyldighet för dem att betala allmosa för deras tillgångar. Den tas från deras förmögna och ges till deras fattiga.” [*al-Bukhārī* 1395 och *Muslim* 19]
 
-Allmosan är Allāhs rätt. Därför är det inte tillåtet att ge företräde till någon som inte förtjänar den. Allmosan bör inte användas för att uppnå personliga vinster eller för att undsätta sig någon fara. Den bör heller inte användas för att skydda de egna tillgångarna eller för att försvara sig mot kritik. I stället måste en muslim dela ut sin allmosa till dem som har rätt till den. De förtjänar ju den mest. Den bör inte ges i något annat syfte. Den bör ges i vänlig anda och med avsikten att den enbart är för Allāhs skull. Den som ger allmosa kommer då att vara fri från detta ansvar [om att betala den] och förtjäna fantastiska belöningar som en ersättning för vad denne gav.
+Allmosan är Allāhs rätt. Därför är det inte tillåtet att ge företräde till någon som inte förtjänar den. Allmosan bör inte användas för att uppnå personliga vinster eller för att undsätta sig någon fara. Den bör heller inte användas för att skydda de egna tillgångarna eller för att försvara sig mot kritik.
+
+I stället måste en muslim dela ut sin allmosa till dem som har rätt till den. De förtjänar ju den mest. Den bör inte ges i något annat syfte. Den bör ges i vänlig anda och med avsikten att den enbart är för Allāhs skull. Den som ger allmosa kommer då att vara fri från detta ansvar [om att betala den] och förtjäna fantastiska belöningar som en ersättning för vad denne gav.
 
 Utan tvekan har Allāh i Sin ädla skrift klargjort de kategorier av människor som är berättigade till att ta emot allmosa. Allāh säger:
 

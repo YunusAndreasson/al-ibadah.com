@@ -20,7 +20,9 @@ description: >-
 
 > ”De är för dem [som bor där] och dem som passerar förbi utöver de som bor där som avser att utföra vallfärden och *‘umrah*[^1] Den som är närmare [Mecka] än det, då är hans plats för *ihrām* där denne påbörjade sin resa. Även folket från Mecka går in i *ihrām* i Mecka.” [*Muslim* 1181]
 
-Om någon från Jemen passerar förbi Yalamlam, då är denne skyldig att träda in i *ihrām* vid Yalamlam. Om denne på samma sätt passerar förbi Medina, då är denne skyldig att träda in i *ihrām* vid Medinas *mīqāt*. Och om denne på samma sätt kommer från Najd, då är denne skyldig att träda in i *ihrām* vid *mīqāt* för Najd, och så vidare. Om denne passerar *mīqāt* utan att träda in i *ihrām*, då är denne skyldig att åka tillbaka och träda in i *ihrām* därifrån. Personen som uppmanade dig att återvända till Yalamlam gjorde rätt. Genom att du återvände till *mīqāt* gjorde du vad som är korrekt, och all lovprisan tillhör Allāh.
+Om någon från Jemen passerar förbi Yalamlam, då är denne skyldig att träda in i *ihrām* vid Yalamlam. Om denne på samma sätt passerar förbi Medina, då är denne skyldig att träda in i *ihrām* vid Medinas *mīqāt*. Och om denne på samma sätt kommer från Najd, då är denne skyldig att träda in i *ihrām* vid *mīqāt* för Najd, och så vidare.
+
+Om denne passerar *mīqāt* utan att träda in i *ihrām*, då är denne skyldig att åka tillbaka och träda in i *ihrām* därifrån. Personen som uppmanade dig att återvända till Yalamlam gjorde rätt. Genom att du återvände till *mīqāt* gjorde du vad som är korrekt, och all lovprisan tillhör Allāh.
 
 Hade du trätt in i *ihrām* där du befann dig när han sade till dig att återvända, då hade du behövt offra ett djur. Anledning till detta är att du passerade mīqāt[^2] [utan att träda in i *ihrām*] när din avsikt var *‘umrah*[^1].
 

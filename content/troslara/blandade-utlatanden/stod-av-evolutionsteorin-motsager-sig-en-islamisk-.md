@@ -43,7 +43,11 @@ Allāh den Upphöjde har informerat oss om att Han skapat dessa varelser av vatt
 
 > ”Och vi har skapat alla levande varelser av vatten; bland dem finns de som krälar på sin buk, de som går på två ben och de som går på fyra. Gud skapar vad Han vill – Gud har allt i Sin makt.” [Koranen 24:45]
 
-Detta är några exempel, men det finns också de som har sex ben eller fler än så. Då Allāh den Upphöjde har skapat alla har Han skapat dem olika; deras uppehälle och storlek. Han har skapat dem alla. Sedan har Han väglett allt det som Han har skapat till allt som det behöver för ett fullständigt liv samt för att arten ska överleva. De fortplanterar sig, växer, tar hand om sin avkomma och drar nytta av den försörjning som avsetts för dem. Detta sker utan att de behöver lära sig; det kommer från den innersta natur som Allāh har skänkt dem. Han har gjort människosläktet till förmyndare över dem. De har ju skapats för att komma människan till nytta och för att hon ska begrunda de gåvor som hennes Herre har gett henne, som hennes intellekt och uppfattningsförmåga.
+Detta är några exempel, men det finns också de som har sex ben eller fler än så. Då Allāh den Upphöjde har skapat alla har Han skapat dem olika; deras uppehälle och storlek. Han har skapat dem alla.
+
+Sedan har Han väglett allt det som Han har skapat till allt som det behöver för ett fullständigt liv samt för att arten ska överleva. De fortplanterar sig, växer, tar hand om sin avkomma och drar nytta av den försörjning som avsetts för dem. Detta sker utan att de behöver lära sig; det kommer från den innersta natur som Allāh har skänkt dem.
+
+Han har gjort människosläktet till förmyndare över dem. De har ju skapats för att komma människan till nytta och för att hon ska begrunda de gåvor som hennes Herre har gett henne, som hennes intellekt och uppfattningsförmåga.
 
 Allāh säger:
 

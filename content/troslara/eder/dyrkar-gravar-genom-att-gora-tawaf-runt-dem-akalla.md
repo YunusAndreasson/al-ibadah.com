@@ -41,7 +41,9 @@ Jag råder även dem att inte följa någon annan i religiösa frågor än Allā
 
 > ”Säg [Muḥammad]: ’Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
 
-Muslimer måste noga studera dem som påstår sig vara *awliyā'* med Koranen och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* som måttstock. Om det som sker är enligt Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* finns det hopp om att denne är en av Allāhs *awliyā'*. Men om det [som sker] motsäger sig Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* är denne inte en av Allāhs *awliyā'*. I Sin skrift har Allāh nämnt en rättvis metod som *awliyā'* kan kännas igen genom när Han säger:
+Muslimer måste noga studera dem som påstår sig vara *awliyā'* med Koranen och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* som måttstock. Om det som sker är enligt Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* finns det hopp om att denne är en av Allāhs *awliyā'*. Men om det [som sker] motsäger sig Allāhs skrift och [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* är denne inte en av Allāhs *awliyā'*.
+
+I Sin skrift har Allāh nämnt en rättvis metod som *awliyā'* kan kännas igen genom när Han säger:
 
 > ”Helt visst ska de som är nära Gud aldrig känna fruktan och ingen sorg ska tynga dem, de som tror och ständigt har Honom för ögonen.” [Koranen 10:62 – 63]
 
@@ -53,9 +55,13 @@ Det bör vara känt att Allāh den Allsmäktige kan pröva någon på detta sät
 
 > ”De som de anropar vid sidan av Gud skapar ingenting – de är ju [själva] skapade. Döda, livlösa, vet de inte när de ska uppväckas till liv.” [Koranen 16:20 – 21]
 
-Verserna med denna innebörd är många och de bevisar att de som åkallar någon annan än Allāh inte kommer att bli besvarade. Det som eftersträvas och åkallas för kan dock uppnås ändå, om någon annan än Allāh åkallas, men detta är då en prövning. Vi säger då att han fick detta från åkallan vid denna tidpunkt, när han åkallade någon annan än Allāh, inte för att han åkallade det [som han åkallade]. Det är skillnad mellan att få något på grund av något och att få något vid tidpunkten för något. Vi är säkra på att det inte är ett sätt för att uppnå något bra eller för att skydda mot ont om man åkallar någon annan än Allāh. Vi känner till detta genom det flertalet verser i Koranen i vilka Allāh den Allsmäktige har nämnt detta. Man kan dock tänka sig att detta uppnås efter åkallan som en prövning. Allāh den Härlige, den Upphöjde kan pröva någon genom synder för att Han den Härlige, den Upphöjde ska kunna veta vem som tjänar Honom och vem som tjänar sina egna nycker.
+Verserna med denna innebörd är många och de bevisar att de som åkallar någon annan än Allāh inte kommer att bli besvarade. Det som eftersträvas och åkallas för kan dock uppnås ändå, om någon annan än Allāh åkallas, men detta är då en prövning. Vi säger då att han fick detta från åkallan vid denna tidpunkt, när han åkallade någon annan än Allāh, inte för att han åkallade det [som han åkallade]. Det är skillnad mellan att få något på grund av något och att få något vid tidpunkten för något.
 
-Ser du inte hur Allāh förbjöd sabbatsfolket att fånga fisk under sabbaten? Allāh den Allsmäktige prövade dem när fisk kom i stora mängder under sabbaten medan det under andra dagar var få. Detta inträffade under en lång tid och de sade: ”Hur kan vi förbjuda oss själva att fånga dessa fiskar?” De tänkte, planerade, konspirerade och sade sedan: ”Låt oss göra ett nät och lägga ut det på fredagar för att sedan hämta in fisken på söndagar.” De gjorde detta, och det var ett trick för att kringgå Allāhs förbud. Allāh förvandlade dem då till apor, föraktade och avvisade. Allāh den Upphöjde säger:
+Vi är säkra på att det inte är ett sätt för att uppnå något bra eller för att skydda mot ont om man åkallar någon annan än Allāh. Vi känner till detta genom det flertalet verser i Koranen i vilka Allāh den Allsmäktige har nämnt detta. Man kan dock tänka sig att detta uppnås efter åkallan som en prövning. Allāh den Härlige, den Upphöjde kan pröva någon genom synder för att Han den Härlige, den Upphöjde ska kunna veta vem som tjänar Honom och vem som tjänar sina egna nycker.
+
+Ser du inte hur Allāh förbjöd sabbatsfolket att fånga fisk under sabbaten? Allāh den Allsmäktige prövade dem när fisk kom i stora mängder under sabbaten medan det under andra dagar var få. Detta inträffade under en lång tid och de sade: "Hur kan vi förbjuda oss själva att fånga dessa fiskar?"
+
+De tänkte, planerade, konspirerade och sade sedan: "Låt oss göra ett nät och lägga ut det på fredagar för att sedan hämta in fisken på söndagar." De gjorde detta, och det var ett trick för att kringgå Allāhs förbud. Allāh förvandlade dem då till apor, föraktade och avvisade. Allāh den Upphöjde säger:
 
 > ”Och fråga dem om staden som låg vid havet och vars invånare inte iakttog sabbatsbudet: på sabbaten gick fisken nämligen till i vattenbrynet, medan de andra dagar inte syntes till. På detta sätt prövade Vi dem på grund av deras överträdelser av [Guds bud].” [Koranen 7:163]
 

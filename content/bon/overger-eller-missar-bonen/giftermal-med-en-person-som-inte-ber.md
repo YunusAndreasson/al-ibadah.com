@@ -29,7 +29,9 @@ I bland annat *Sahīh al-Bukhārī* och *Sahīh Muslim* återges en *hadīth* fr
 
 Det är mest passande för en målsman som fruktar Allāh den Upphöjde och som tänker på sitt ansvar att bry sig om vad profeten – över honom vare Allāhs frid och välsignelser – har sagt då han kommer att tillfrågas om det på Återuppståndelsens dag. Allāh den Upphöjde säger: ”*Och den Dag då han kallar fram dem och frågar: ’Vilket svar gav ni sändebuden?’*” [^4] ”*Vi ska förvisso förhöra mottagarna av Vårt budskap, och Vi ska förhöra sändebuden och Vi ska med [fullständig] kunskap underrätta dem och [allt]; ingenting har gått Oss förbi*.” [^5]
 
-Om friaren inte ber alls, varken med församlingen eller ensam, anses denne vara icke-troende som står utanför islam. Denne måste uppmanas till att ångra sig. Vänder denne sig då till Allāh i ånger och ber, då kommer Allāh att vända sig till honom med förlåtelse – om dennes ånger är ren och uppriktig för Allāh. Men om denne inte ångrar sig måste denne avrättas som en avfälling och begravas utanför muslimernas gravplats. Denne ska då inte tvättas, svepas eller få någon begravningsbön förrättad för sig. Bevisen för dennes otro finns i Allāhs den Upphöjdes Skrift och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Bevisen från Skriften finns i Allāhs den Upphöjdes ord:
+Om friaren inte ber alls, varken med församlingen eller ensam, anses denne vara icke-troende som står utanför islam. Denne måste uppmanas till att ångra sig. Vänder denne sig då till Allāh i ånger och ber, då kommer Allāh att vända sig till honom med förlåtelse – om dennes ånger är ren och uppriktig för Allāh. Men om denne inte ångrar sig måste denne avrättas som en avfälling och begravas utanför muslimernas gravplats. Denne ska då inte tvättas, svepas eller få någon begravningsbön förrättad för sig.
+
+Bevisen för dennes otro finns i Allāhs den Upphöjdes Skrift och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Bevisen från Skriften finns i Allāhs den Upphöjdes ord:
 
 > ”Men efter dem kom människor av sämre halt. De lät bönen falla i glömska och gick dit deras passioner drev dem; de ska drabbas av bitter besvikelse. Det gäller inte dem som visar ånger och blir troende och lever ett rättskaffens liv.” [Koranen 19:59 – 60]
 
@@ -37,7 +39,9 @@ Hans ord: ”*Det gäller inte dem*…” bevisar att när denne överger bönen
 
 > ”Men om de visar ånger och [vilja att] förrätta bönen och betala allmoseskatten, då är de era bröder i tron.” [Koranen 9:11]
 
-Detta bevisar att religionens broderskap inte kan grundas utan att man ber och betalar allmosa. profetens – över honom vare Allāhs frid och välsignelser – *sunnah* visar dock att om man överger allmosan så är det inte otro så länge man bekräftar att den är en skyldighet men man är för snål för att betala. Att man ber är då det enda villkoret för att bekräfta trons broderskap. Detta fordrar att om man överger den så är det en handling som innebär otro och som förnekar trons broderskap. Det är inte enbart en synd eller otro mindre än otro [Otro i handling vilket står i motsats till otro i hjärtat]. Detta beror på att synd eller otro mindre än otro inte tar den som gör det utanför trons broderskap. Allāh den Upphöjde säger om försoning mellan två troende grupper som strider:
+Detta bevisar att religionens broderskap inte kan grundas utan att man ber och betalar allmosa. profetens – över honom vare Allāhs frid och välsignelser – *sunnah* visar dock att om man överger allmosan så är det inte otro så länge man bekräftar att den är en skyldighet men man är för snål för att betala. Att man ber är då det enda villkoret för att bekräfta trons broderskap.
+
+Detta fordrar att om man överger den så är det en handling som innebär otro och som förnekar trons broderskap. Det är inte enbart en synd eller otro mindre än otro [Otro i handling vilket står i motsats till otro i hjärtat]. Detta beror på att synd eller otro mindre än otro inte tar den som gör det utanför trons broderskap. Allāh den Upphöjde säger om försoning mellan två troende grupper som strider:
 
 > ”De troende är bröder. Försona därför två bröder [som är oense] och frukta Gud – kanske ska ni erfara barmhärtighet.” [Koranen 49:10]
 
@@ -47,7 +51,9 @@ Bevisen från profetens – över honom vare Allāhs frid och välsignelser – 
 
 Från Buraidah bin al-Husaib rapporteras det: ”*Jag hörde profeten säga: ’Avtalet som skiljer oss från dem är bönen och den som lämnar den har inte trott.’*” [^6] Detta har rapporterats av dem fem; Imam *Ahmad* och de som sammanställt sunan.
 
-'Ubadah bin as-Samit har rapporterat att de svor en trohetsed till profeten – över honom vare Allāhs frid och välsignelser – om att de aldrig skulle tvista med deras ledare om de inte såg tydlig otro i dem, som det finns bevis från Allāh för. [*al-Bukhārī*] Detta betyder att de inte skulle tvista med dem som Allāh gjorde till ansvariga över dem om de inte såg i dem vad de ansåg vara öppen otro som det finns bevis för från Allāh den Upphöjde. Förstår du detta, notera då även vad som Muslim återger i en *hadīth* från Umm Salamah i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
+'Ubadah bin as-Samit har rapporterat att de svor en trohetsed till profeten – över honom vare Allāhs frid och välsignelser – om att de aldrig skulle tvista med deras ledare om de inte såg tydlig otro i dem, som det finns bevis från Allāh för. [*al-Bukhārī*] Detta betyder att de inte skulle tvista med dem som Allāh gjorde till ansvariga över dem om de inte såg i dem vad de ansåg vara öppen otro som det finns bevis för från Allāh den Upphöjde.
+
+Förstår du detta, notera då även vad som Muslim återger i en *hadīth* från Umm Salamah i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
 
 > ”Det kommer att finnas ledare vars goda handlingar kommer att göra er nöjda och vars dåliga handlingar ni kommer att ogilla. Den som genomskådar deras dåliga handlingar är fri från kritik [i en annan återberättelse: den som hatade deras dåliga handlingar är fri från kritik]. Den som ogillade dem kommer att vara säkra [från Allāhs straff], men den som godkänner dem och efterliknar dem [kommer att straffas].”
 
@@ -77,7 +83,9 @@ Och Han den Upphöjde säger om *muhajirat* [kvinnliga emigranter från Mecka]:
 
 Muslimer är fullständigt eniga om vad som bevisas genom dessa båda verser om förbudet i att en muslimsk kvinna gifter sig med en icke-troende.
 
-Med detta som grund: Om en man gifter bort en kvinna som är under dennes förmyndarskap, oavsett om det är dennes dotter eller någon annan, med en man som inte ber, är det inte giltigt att denne ger bort henne i äktenskap och kvinnan skulle inte vara tillåten för honom genom detta kontrakt. Detta beror på att det är ett kontrakt som inte är enligt Allāhs den Upphöjdes eller Hans profets kommendering. I en *hadīth* från ‘A’ishah – må Allāh vara nöjd med henne – rapporteras det att han sagt: ”*Den som utför en handling som inte är enligt denna vår fråga [islam], denne kommer att få den avvisad*.” [*Muslim*] Detta innebär att det inte kommer att accepteras från denne.
+Med detta som grund: Om en man gifter bort en kvinna som är under dennes förmyndarskap, oavsett om det är dennes dotter eller någon annan, med en man som inte ber, är det inte giltigt att denne ger bort henne i äktenskap och kvinnan skulle inte vara tillåten för honom genom detta kontrakt.
+
+Detta beror på att det är ett kontrakt som inte är enligt Allāhs den Upphöjdes eller Hans profets kommendering. I en *hadīth* från 'A'ishah – må Allāh vara nöjd med henne – rapporteras det att han sagt: "*Den som utför en handling som inte är enligt denna vår fråga [islam], denne kommer att få den avvisad*." [*Muslim*] Detta innebär att det inte kommer att accepteras från denne.
 
 Då äktenskapet blir ogiltigt om mannen överger bönen och om han inte ångrar sig samt återvänder till islam genom att förrätta den – vad tror du då om den som vill gifta sig och från allra första början inte ber?
 
@@ -85,7 +93,9 @@ Kortfattat är svaret: Friaren som inte ber i församling är en syndare. Han ä
 
 Ber han inte överhuvudtaget, varken i hemmet eller i församlingen, är han en icke-troende och en avfälling som står utanför islam. Det är inte under några omständigheter tillåtet för honom att gifta sig med en muslimsk kvinna om han inte uppriktigt ångrar sig, ber och håller sig till den islamiska religionen.
 
-Beträffande vad frågeställaren har sagt om att fadern till kvinnan som det har friats till har frågat om honom och den som fadern frågade sade: ”Allāh kommer att vägleda honom.” Här säger vi att enbart Allāh den Upphöjde känner till framtiden och hur det kommer att bli ligger i Hans hand och vi tillfrågas inte om något annat än det vi känner till just nu. Det rådande tillståndet för friaren är otro och han får inte gifta sig med den muslimska kvinnan. Vi ber då Allāh den Upphöjde att Han vägleder honom tillbaka till islam så att han ska kunna gifta sig med denna muslimska kvinna. Detta är inte något som är svårt för Allāh.
+Beträffande vad frågeställaren har sagt om att fadern till kvinnan som det har friats till har frågat om honom och den som fadern frågade sade: "Allāh kommer att vägleda honom." Här säger vi att enbart Allāh den Upphöjde känner till framtiden och hur det kommer att bli ligger i Hans hand och vi tillfrågas inte om något annat än det vi känner till just nu.
+
+Det rådande tillståndet för friaren är otro och han får inte gifta sig med den muslimska kvinnan. Vi ber då Allāh den Upphöjde att Han vägleder honom tillbaka till islam så att han ska kunna gifta sig med denna muslimska kvinna. Detta är inte något som är svårt för Allāh.
 
 Detta svar har givits av en som är i behov av Allāh, Muḥammad Sālih al-'Uthaimīn, och det har nedtecknats med hans hand den artonde *dhul-hijjah* 1400 AH.
 

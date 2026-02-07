@@ -24,7 +24,9 @@ Profeten – över honom vare Allāhs frid och välsignelser – har även sagt:
 
 > ”Litar ni inte på mig när jag är den som Han ovan himlarna litar på?” [*al-Bukhārī*]
 
-Allāh den Upphöjde är därmed ovan himlarna, det vill säga upphöjd ovan allt annat. Om du då åkallar bör du peka mot det högsta. Därför tilltalade profeten – över honom vare Allāhs frid och välsignelser – folket under hans sista vallfärd och sade: ”Har jag inte förmedlat [budskapet]?” De svarade: ”Ja.” Sedan höjde han sitt pekfinger mot himlen för att därefter rikta det mot folket och säga: ”Allāh! Vittna! Allāh! Vittna” Allāh! Vittna!” Han sade detta tre gånger vilket bevisar att Allāh är ovan allting. Detta är en fråga som är tydlig och välkänd genom naturlig instinkt, förnuft, uppenbarelse och konsensus.
+Allāh den Upphöjde är därmed ovan himlarna, det vill säga upphöjd ovan allt annat. Om du då åkallar bör du peka mot det högsta.
+
+Därför tilltalade profeten – över honom vare Allāhs frid och välsignelser – folket under hans sista vallfärd och sade: ”Har jag inte förmedlat [budskapet]?” De svarade: ”Ja.” Sedan höjde han sitt pekfinger mot himlen för att därefter rikta det mot folket och säga: ”Allāh! Vittna! Allāh! Vittna” Allāh! Vittna!” Han sade detta tre gånger vilket bevisar att Allāh är ovan allting. Detta är en fråga som är tydlig och välkänd genom naturlig instinkt, förnuft, uppenbarelse och konsensus.
 
 Med detta som grund: När du åkallar Allāh den Allsmäktige bör du röra ditt pekfinger och rikta det mot himlen. Utöver det så rör du det inte.
 

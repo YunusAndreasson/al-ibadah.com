@@ -14,7 +14,9 @@ description: >-
   använder dem enbart för att göra mig vacker och...
 ---
 
-**Fråga:** Jag är en gift kvinna som är ungefär 30 år gammal. Under ungefär 24 år har jag haft guld som det inte har funnits något affärsintresse i. Jag använder dem enbart för att göra mig vacker och ibland säljer jag dem. Sedan lägger jag till lite pengar och köper bättre smycken. Nu har jag en del smycken och jag har hört att allmosan måste betalas för guld som används för att smycka sig. Därmed skulle jag vilja ha ett klargörande om denna fråga. Om jag måste betala allmosa, vilket är då utlåtandet för den tid som har gått när jag inte betala allmosa för dessa smycken? Detta i vetskap om att jag inte kan uppskatta den mängd guld som jag har haft under dessa år.
+**Fråga:** Jag är en gift kvinna som är ungefär 30 år gammal. Under ungefär 24 år har jag haft guld som det inte har funnits något affärsintresse i. Jag använder dem enbart för att göra mig vacker och ibland säljer jag dem. Sedan lägger jag till lite pengar och köper bättre smycken.
+
+Nu har jag en del smycken och jag har hört att allmosan måste betalas för guld som används för att smycka sig. Därmed skulle jag vilja ha ett klargörande om denna fråga. Om jag måste betala allmosa, vilket är då utlåtandet för den tid som har gått när jag inte betala allmosa för dessa smycken? Detta i vetskap om att jag inte kan uppskatta den mängd guld som jag har haft under dessa år.
 
 **Svar:** Allmosa blir en skyldighet för dig vid den tidpunkt som du fick veta att det var en skyldighet för dig att betala allmosa för smycken. Det som har inträffat innan du hade vetskap om detta behöver du inte betala allmosa för. Detta beror på att de islamiska lagarna enbart blir obligatorisk när de är kända.
 

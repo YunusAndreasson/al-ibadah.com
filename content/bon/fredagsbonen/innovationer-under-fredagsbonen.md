@@ -24,7 +24,9 @@ Då det inte finns några bevis som förbjuder det är det inte fel att hålla f
 
 Det finns inga *sunnah*-böner före fredagsbönen. Detta är inte något som har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – eller hans följeslagare. Den som kommer till bönen får dock be så många frivilliga böner han känner för tills imamen har gått upp i talarstolen. Den som går in i moskén när predikanten har gjort detta är det endast föreskrivet att be hälsningsbönen till moskén[^1] för.
 
-Den islamiska lagen uppmuntrar till att böner sänds över profeten – över honom vare Allāhs frid och välsignelser – och belöningen för detta är stor. Detta är en *sunnah* efter böneutropet, men böneutroparen bör sända böner över honom tyst och inte högt. Det är en innovation om böneutroparen gör så när han har avslutat böneutropet. För den som hör böneutropet är det *sunnah* att upprepa efter, och när böneutroparen har avslutat den sända böner över profeten – över honom vare Allāhs frid och välsignelser – och be Allāh att Han ger profeten – över honom vare Allāhs frid och välsignelser – medlingen.
+Den islamiska lagen uppmuntrar till att böner sänds över profeten – över honom vare Allāhs frid och välsignelser – och belöningen för detta är stor. Detta är en *sunnah* efter böneutropet, men böneutroparen bör sända böner över honom tyst och inte högt. Det är en innovation om böneutroparen gör så när han har avslutat böneutropet.
+
+För den som hör böneutropet är det *sunnah* att upprepa efter, och när böneutroparen har avslutat den sända böner över profeten – över honom vare Allāhs frid och välsignelser – och be Allāh att Han ger profeten – över honom vare Allāhs frid och välsignelser – medlingen.
 
 [^1]: Tahiyyatul-Msjid.
 

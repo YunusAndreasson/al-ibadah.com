@@ -84,7 +84,9 @@ Med utgångspunkt i bland annat dessa texter blir det klart att den fastande må
 
 Frågor som folk inte är medvetna om
 
-En muslim måste fasta med tro och hopp om att belönas och inte för att ses eller höras av folket eller för att följa folkets, familjens eller landets vanor. I stället är det obligatoriskt för denne att det som får denne till att fasta är dennes tro på att Allāh har gjort detta till en plikt för denne. Denne bör fasta i hopp om att Herren ska belöna för detta. När denne ber under natten är det även då en skyldighet att göra det med tro och hopp om belöningar, inte av någon annan anledning. Därför har profeten – över honom vare Allāhs frid och välsignelser – sagt:
+En muslim måste fasta med tro och hopp om att belönas och inte för att ses eller höras av folket eller för att följa folkets, familjens eller landets vanor. I stället är det obligatoriskt för denne att det som får denne till att fasta är dennes tro på att Allāh har gjort detta till en plikt för denne. Denne bör fasta i hopp om att Herren ska belöna för detta.
+
+När denne ber under natten är det även då en skyldighet att göra det med tro och hopp om belöningar, inte av någon annan anledning. Därför har profeten – över honom vare Allāhs frid och välsignelser – sagt:
 
 > ”Den som fastar under *Ramadan* med tro och hopp om belöningar, denne kommer att förlåtas för alla dennes tidigare synder. Och den som ber [under natten] i *Ramadan* med tro och hopp om belöningar, denne kommer att förlåtas för alla dennes tidigare synder. Och den som ber [nattetid] under Allmaktens Natt[^1] med tro och hopp om belöningar, denne kommer att förlåtas för alla sina tidigare synder.” [*al-Bukhārī* 2014 och *Muslim* 759 – 760]
 
@@ -92,7 +94,9 @@ En av de frågor som människor inte är medvetna om är utlåtande om den fasta
 
 > ”Den som råkar spy, denne behöver inte ta igen fastan för den dagen. Och den som får sig själv att spy, denne måste ta igen fastan för den dagen.” [*Abū Dawūd* 2380]
 
-En annan fråga är det som händer den fastande som skjuter upp badet efter sexuell orenhet tills då gryningsbönen börjar och vad vissa kvinnor gör när de skjuter upp badet efter månadsblödningen eller blödningen efter graviditeten till då gryningsbönen börjar, om hon tror att hon är ren innan gryningsbönen. Hon är då fortfarande skyldig att fasta och att hon skjuter upp badet till efter gryningsbönen har börjat hindrar henne inte från att fasta. Hon bör dock inte skjuta upp badet till soluppgången utan i stället måste hon bada och be innan solen har gått upp. I stället bör hon bada och be gryningsbönen före soluppgången. Detsamma gäller den sexuellt orene. Denne måste bada och be gryningsbönen innan solen har gått upp. Man måste skynda sig att göra detta för att be gryningsbönen med församligen.
+En annan fråga är det som händer den fastande som skjuter upp badet efter sexuell orenhet tills då gryningsbönen börjar och vad vissa kvinnor gör när de skjuter upp badet efter månadsblödningen eller blödningen efter graviditeten till då gryningsbönen börjar, om hon tror att hon är ren innan gryningsbönen. Hon är då fortfarande skyldig att fasta och att hon skjuter upp badet till efter gryningsbönen har börjat hindrar henne inte från att fasta.
+
+Hon bör dock inte skjuta upp badet till soluppgången utan i stället måste hon bada och be innan solen har gått upp. I stället bör hon bada och be gryningsbönen före soluppgången. Detsamma gäller den sexuellt orene. Denne måste bada och be gryningsbönen innan solen har gått upp. Man måste skynda sig att göra detta för att be gryningsbönen med församligen.
 
 Något som inte ogiltigör fastan är blodprov eller injektioner, så länge syftet inte är att få näring. Om det går är det dock bättre och säkrare att skjuta upp detta till kvällstid.
 
@@ -120,7 +124,9 @@ Det som är bäst för den som ber med imamen [i moskén] under nätterna i *Ram
 
 > ”Sannerligen, om en man står i nattbön med imamen tills denne avslutar; Allāh kommer att skriva ned [belöningen för att] ha stått hela natten [i bön].” [*Abū Dawūd* 1375, *at-Tirmithi* 806, *Ibn Mājah* 1327 och *Ahmad* 5:159]
 
-Det är föreskrivet att alla muslimer strävar hårt i olika former av dyrkan under denna ädla månad. De bör kämpa för att be frivilliga böner och recitera Koranen med reflektion och eftertanke. De bör öka sitt lovprisande av Allāh, kungöra Hans rätt att dyrkas ensam, prisa Honom, kungöra Hans storhet och söka Hans förlåtelse. De bör recitera föreskriven åkallan, påbjuda det goda, förbjuda det onda, bjuda in till Allāh, vara generösa mot de fattiga och behövande, kämpa för att vara vänlig mot föräldrar, hålla goda familjeband, hedra grannen, besöka den sjuke och andra goda handlingar. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – i den tidigare nämna *hadithen* har sagt:
+Det är föreskrivet att alla muslimer strävar hårt i olika former av dyrkan under denna ädla månad. De bör kämpa för att be frivilliga böner och recitera Koranen med reflektion och eftertanke. De bör öka sitt lovprisande av Allāh, kungöra Hans rätt att dyrkas ensam, prisa Honom, kungöra Hans storhet och söka Hans förlåtelse.
+
+De bör recitera föreskriven åkallan, påbjuda det goda, förbjuda det onda, bjuda in till Allāh, vara generösa mot de fattiga och behövande, kämpa för att vara vänlig mot föräldrar, hålla goda familjeband, hedra grannen, besöka den sjuke och andra goda handlingar. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – i den tidigare nämna *hadithen* har sagt:
 
 > ”Allāh ser hur ni tävlar i gott under den och Han berättar stolt för änglarna om er. Visa därför Allāh godhet från er själva. För sannerligen är den olycklige den som är eftersatt från Allāhs nåd under den [*Ramadan*].” [*Majma'us-Zawa* 3:142]
 

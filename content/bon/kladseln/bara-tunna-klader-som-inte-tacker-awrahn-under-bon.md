@@ -21,7 +21,9 @@ description: >-
 
 I en *hadīth* från Abū Hurairah säger han: ”*Ingen av er ska be i ett klädesplagg som inte täcker axlarna*.” [^3]
 
-Hela kvinnans kropp är*‘awrah*[^1], utom ansiktet. De lärde har olika åsikter om händerna, vissa påstår att det är obligatoriskt att täcka dem, medan andra påstår att det inte är obligatoriskt. Denna fråga är öppen för diskussion, men det är bättre att täcka dem för att undvika oenigheter bland de lärde. Fötterna måste täckas under bönen enligt en majoritet av de lärde. Abū Dawūd har rapporterat att Umm Salamah frågade profeten: ”*Får en kvinna be i en lång skjorta och något som täcker huvudet utan en izār?*” Han svarade: ”*Om skjortan är vid och den täcker hennes fötter*.” [^4] Ibn Hajar har i *Bulugh al-Maram* sagt: ”Och de lärde har säkrat detta fram till Umm Salamah.”
+Hela kvinnans kropp är*'awrah*[^1], utom ansiktet. De lärde har olika åsikter om händerna, vissa påstår att det är obligatoriskt att täcka dem, medan andra påstår att det inte är obligatoriskt. Denna fråga är öppen för diskussion, men det är bättre att täcka dem för att undvika oenigheter bland de lärde.
+
+Fötterna måste täckas under bönen enligt en majoritet av de lärde. Abū Dawūd har rapporterat att Umm Salamah frågade profeten: ”*Får en kvinna be i en lång skjorta och något som täcker huvudet utan en izār?*” Han svarade: ”*Om skjortan är vid och den täcker hennes fötter*.” [^4] Ibn Hajar har i *Bulugh al-Maram* sagt: ”Och de lärde har säkrat detta fram till Umm Salamah.”
 
 Grundat på vad vi har nämnt är det en skyldighet för män och kvinnor att deras kläder täcker *‘awrah*[^1]. Är kläderna tunna och inte täcker den så är bönen ogiltig. Detta innefattar även om man bär korta underplagg som inte täcker låren – vilket är en skyldighet för män – om de inte bär något annat över dem. I detta fall blir bönen ogiltig. På samma sätt blir kvinnans bön ogiltig om hon bär korta klädesplagg som inte täcker hennes *'awrah*.
 

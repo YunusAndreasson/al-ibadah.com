@@ -15,7 +15,9 @@ description: 'Fråga: Jag gick in i moskén för att be men fann en imam som jag
 
 **Fråga:** Jag gick in i moskén för att be men fann en imam som jag inte gillar att be bakom. Vad gör jag då för att få belöningen för att be i församlingen?
 
-**Svar:** Om du gick till moskén för att be med församlingen och du fann att de bad, be då med dem även om det är med en imam som du ogillar. Anledningen är att bönen i församlingen är obligatoriskt och du är därmed bunden till denna plikt. Du får inte lämna den. Sedan återstår frågan varför du ogillar denne man? Beror det på någon brist i hans religion eller finns det något personligt fiendskap mellan er? Beror det på personlig fiendskap så måste muslimer få bort det ogillande som finns mellan dem och ersätta den med harmoni och broderlig kärlek. Allāh den Upphöjde säger:
+**Svar:** Om du gick till moskén för att be med församlingen och du fann att de bad, be då med dem även om det är med en imam som du ogillar. Anledningen är att bönen i församlingen är obligatoriskt och du är därmed bunden till denna plikt. Du får inte lämna den.
+
+Sedan återstår frågan varför du ogillar denne man? Beror det på någon brist i hans religion eller finns det något personligt fiendskap mellan er? Beror det på personlig fiendskap så måste muslimer få bort det ogillande som finns mellan dem och ersätta den med harmoni och broderlig kärlek. Allāh den Upphöjde säger:
 
 > ”De troende är bröder. Försona därför två bröder [som är oense] och frukta Gud – kanske ska ni erfara barmhärtighet.” [Koranen 49:10]
 

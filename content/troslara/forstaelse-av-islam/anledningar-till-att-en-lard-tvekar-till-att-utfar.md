@@ -14,7 +14,9 @@ description: 'Fråga: Vilka anledningar kan det finnas till att en lärd tvekar 
 
 **Fråga:** Vilka anledningar kan det finnas till att en lärd tvekar över att utfärda ett utlåtande?
 
-En lärd kan tveka över att utfärda ett utlåtande, [även] om han är kvalificerad till att göra detta och har kunskap. Bevisen kan verka motsägelsefulla eller så kanske frågeställaren inte ser seriös ut. Somliga frågeställare söker inte efter sanningen, utan de vill endast kolla runt för att få reda på vad olika lärde anser. I detta fall kan den lärde tveka eller vägra att svara på frågan, om han känner att det är troligt att frågeställaren inte är seriös utan endast vill veta vad de lärde säger eller om frågeställaren vill jämföra de lärdes åsikter. Detta är illa för frågeställaren kommer då att gå runt och säga: ”Den-och-den lärde sade det och det-och-den lärde sade det och det.”
+En lärd kan tveka över att utfärda ett utlåtande, [även] om han är kvalificerad till att göra detta och har kunskap. Bevisen kan verka motsägelsefulla eller så kanske frågeställaren inte ser seriös ut. Somliga frågeställare söker inte efter sanningen, utan de vill endast kolla runt för att få reda på vad olika lärde anser.
+
+I detta fall kan den lärde tveka eller vägra att svara på frågan, om han känner att det är troligt att frågeställaren inte är seriös utan endast vill veta vad de lärde säger eller om frågeställaren vill jämföra de lärdes åsikter. Detta är illa för frågeställaren kommer då att gå runt och säga: ”Den-och-den lärde sade det och det-och-den lärde sade det och det.”
 
 Detta är några anledningar till att en lärd kan tveka över att utfärda ett utlåtande.
 

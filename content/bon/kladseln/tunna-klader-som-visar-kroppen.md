@@ -17,7 +17,9 @@ description: >-
 
 **Fråga:** Många ber i tunna klädesplaggs som visar huden under. De bär korta byxor som inte täcker mer än hälften av låren och den resterande hälften är då synlig under plagget. Vilket är utlåtandet om denna bön?
 
-**Svar:** Utlåtandet om deras bön är detsamma som för den som bad i korta byxor utan ett [överliggande] plagg. Detta beror på att deras klädesplagg är tillräckligt genomskinliga för att visa huden. Att bära sådana kläder är detsamma som att inte bära dem alls. Därför är deras bön inte giltig enligt den starkare av de lärdas båda åsikter. Detta är välkänt från imam Ahmads lagskola. Detta beror på att den manlige tjänaren måste täcka det som finns mellan naveln och knäna. Detta är det minsta som krävs för att uppfylla Allāhs den Allsmäktiges ord: ”*Söner av Adam! Anlägg vårdad klädsel var gång ni går till bön*.” [^1]
+**Svar:** Utlåtandet om deras bön är detsamma som för den som bad i korta byxor utan ett [överliggande] plagg. Detta beror på att deras klädesplagg är tillräckligt genomskinliga för att visa huden. Att bära sådana kläder är detsamma som att inte bära dem alls.
+
+Därför är deras bön inte giltig enligt den starkare av de lärdas båda åsikter. Detta är välkänt från imam Ahmads lagskola. Detta beror på att den manlige tjänaren måste täcka det som finns mellan naveln och knäna. Detta är det minsta som krävs för att uppfylla Allāhs den Allsmäktiges ord: ”*Söner av Adam! Anlägg vårdad klädsel var gång ni går till bön*.” [^1]
 
 En av följande två saker är då en skyldighet för dem: Antingen bär de byxor som täcker det som finns mellan naveln och knäna eller så bär de ett tjockt klädesplagg över byxorna som inte avslöjar huden under.
 

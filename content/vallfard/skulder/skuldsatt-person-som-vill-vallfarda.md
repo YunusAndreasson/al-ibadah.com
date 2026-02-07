@@ -19,5 +19,7 @@ description: 'Fråga: Får den som är skuldsatt utföra den obligatoriska vallf
 
 > ”Vallfärden till denna Helgedom är en plikt mot Gud för var och en som har möjlighet att genomföra den.” [Koranen 3:97]
 
-Den som är skyldig så mycket pengar att denne inte kan betala igen med sina tillgångar har inte möjlighet att vallfärda. Därmed bör denne betala tillbaka skulden. Om det därefter blir lätt för denne, då bör denne vallfärda. Om dennes skuld är mindre än dennes tillgångar och denne har tillräckligt med pengar för att vallfärda efter att ha betalat skulderna, då bör denne betala skulderna och vallfärda. Det spelar ingen roll om det är en obligatorisk eller frivillig vallfärd. Han måste skynda sig att vallfärda. Är det en frivillig vallfärd kan han välja själv. Om denne vill kan denne utföra den, och om denne vill kan denne lämna den utan att denne har syndat.
+Den som är skyldig så mycket pengar att denne inte kan betala igen med sina tillgångar har inte möjlighet att vallfärda. Därmed bör denne betala tillbaka skulden. Om det därefter blir lätt för denne, då bör denne vallfärda.
+
+Om dennes skuld är mindre än dennes tillgångar och denne har tillräckligt med pengar för att vallfärda efter att ha betalat skulderna, då bör denne betala skulderna och vallfärda. Det spelar ingen roll om det är en obligatorisk eller frivillig vallfärd. Han måste skynda sig att vallfärda. Är det en frivillig vallfärd kan han välja själv. Om denne vill kan denne utföra den, och om denne vill kan denne lämna den utan att denne har syndat.
 

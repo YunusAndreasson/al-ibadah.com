@@ -23,7 +23,9 @@ description: >-
 
 Men om denne inte kom ihåg förrän efter att en lång tid gått, då måste denne göra om sin tvagning från början. Tvagar denne sig, glömmer sin vänstra hand och avslutar tvagningen samt det går en lång tid och denne sedan kommer på att den vänstra handen inte har tvättats – då måste tvagningen göras om från början då varaktigheten har gått om intet. Varaktighet då man tvättar kroppsdelarna under tvagningen är ett villkor för att den ska accepteras.
 
-Men han bör veta att om han har tvivel [tvivel om han tvättat sin vänstra eller högra hand, sköljt munnen eller dragit in vatten i näsan] efter avslutad tvagning då bör han inte bry sig om detta tvivel. I stället bör han fortsätta med bönen och han syndar inte på grund härav. Detta beror på att man inte ska lägga någon vikt vid tvivel i det som rör dyrkan efter att den har utförts. Skulle vi lägga vikt vid dem [tvivlen] skulle vi öppna dörren för djävulens viskningar till folket och alla skulle känna tvivel om deras dyrkan. Det kommer då från Allāhs – den Allmäktiges – nåd att de tvivel som uppstår efter att dyrkan har utförts, de ska det inte läggas någon vikt vid. Man ska inte bry sig om dem utom om man blir säker på någon felaktighet, för då måste man korrigera den.
+Men han bör veta att om han har tvivel [tvivel om han tvättat sin vänstra eller högra hand, sköljt munnen eller dragit in vatten i näsan] efter avslutad tvagning då bör han inte bry sig om detta tvivel. I stället bör han fortsätta med bönen och han syndar inte på grund härav. Detta beror på att man inte ska lägga någon vikt vid tvivel i det som rör dyrkan efter att den har utförts.
+
+Skulle vi lägga vikt vid dem [tvivlen] skulle vi öppna dörren för djävulens viskningar till folket och alla skulle känna tvivel om deras dyrkan. Det kommer då från Allāhs – den Allmäktiges – nåd att de tvivel som uppstår efter att dyrkan har utförts, de ska det inte läggas någon vikt vid. Man ska inte bry sig om dem utom om man blir säker på någon felaktighet, för då måste man korrigera den.
 
 Och Allāh vet bäst.
 

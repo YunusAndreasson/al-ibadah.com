@@ -16,7 +16,9 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om någon som ber gryningsbönen två timmar innan middagsbönen[^1]? Detta i vetskap om att han hela tiden har sovit.
 
-**Svar:** Det är inte tillåtet att skjuta upp gryningsbönen till efter den angivna tiden, utom om det berodde på sömn. Men sömn behöver inte vara en ursäkt för alla människor. Han kan ju gå och lägga sig tidigt på kvällen för att han ska kunna vakna till bönen. Han har också möjlighet att be föräldrarna, en broder, grannarna eller någon annan att väcka honom. På detta sätt kommer han att ta hand om sin bön och göra sitt hjärta sysselsatt med den. När tiden då närmar sig kommer han att känna det även om han sover. Den som aldrig ber gryningsbönen innan gryningen har inte den minsta lilla omtanke om sitt hjärta.
+**Svar:** Det är inte tillåtet att skjuta upp gryningsbönen till efter den angivna tiden, utom om det berodde på sömn. Men sömn behöver inte vara en ursäkt för alla människor. Han kan ju gå och lägga sig tidigt på kvällen för att han ska kunna vakna till bönen. Han har också möjlighet att be föräldrarna, en broder, grannarna eller någon annan att väcka honom. På detta sätt kommer han att ta hand om sin bön och göra sitt hjärta sysselsatt med den.
+
+När tiden då närmar sig kommer han att känna det även om han sover. Den som aldrig ber gryningsbönen innan gryningen har inte den minsta lilla omtanke om sitt hjärta.
 
 I vilket fall som helst är vi kommenderade att be så tidigt som möjligt, så om han sover över bönen, då måste han gå och lägga sig tidigt så att han ska kunna gå upp vid rätt tid. Detsamma gäller den som glömmer.
 

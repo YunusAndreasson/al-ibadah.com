@@ -45,7 +45,9 @@ Hur skulle det vara möjligt att leda dem ut ur mörkret in i ljuset om de inte 
 
 Därför beordrade Allāhs sändebud – över honom vare Allāhs frid och välsignelser – Zaid bin Thabit att lära sig judarnas språk. Han skulle skriva till de, på deras språk, för att bevis skulle läggas fram mot dem och för att han skulle kunna läsa brev för profeten – över honom vare Allāhs frid och välsignelser – som mottogs från dem.
 
-När följeslagarna gick ut i krig mot icke-araber i Persien och Rom så stred de inte mot dem förrän de, genom översättare, hade kallat dem till islam. När de befriade de icke-arabiska länderna kallade de folket till Allāh på det arabiska språket och de beordrade människorna att lära sig det. De som inte förstod [arabiska] kallades på det språk som de förstod för att domen mot dem skulle läggas fram och för att det inte skulle återstå någon ursäkt. Det råder inget tvivel om att denna metod är väsentlig, speciellt i våra tider, när islam är något okänt och alla människor håller sig hårt vid sitt språk. I detta fall är det viktigt med översättningar och en kallare till islam kan inte klara sig utan detta.
+När följeslagarna gick ut i krig mot icke-araber i Persien och Rom så stred de inte mot dem förrän de, genom översättare, hade kallat dem till islam. När de befriade de icke-arabiska länderna kallade de folket till Allāh på det arabiska språket och de beordrade människorna att lära sig det. De som inte förstod [arabiska] kallades på det språk som de förstod för att domen mot dem skulle läggas fram och för att det inte skulle återstå någon ursäkt.
+
+Det råder inget tvivel om att denna metod är väsentlig, speciellt i våra tider, när islam är något okänt och alla människor håller sig hårt vid sitt språk. I detta fall är det viktigt med översättningar och en kallare till islam kan inte klara sig utan detta.
 
 Jag ber Allāh att Han beviljar muslimerna framgång – varthän de än befinner sig – i att förstå Hans religion, i att hålla sig stadiga vid Hans lagar och att följa dem, att Han reformerar eldarna, att Han hjälper Sin religion och att Han förödmjukar Sina fiender. Sannerligen är Han den mest Generöse.
 

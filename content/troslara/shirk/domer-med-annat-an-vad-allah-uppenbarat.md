@@ -19,7 +19,11 @@ description: >-
 
 > ”Den som inte dömer enligt vad Gud har uppenbarat, de är [i sanning] förnekare.” [Koranen 5:44]?
 
-**Svar:** De ledare som dömer med något annat än det som Allāh har uppenbarat delas i olika kategorier enligt deras trosuppfattningar och handlingar. Den som dömer med något annat än vad Allāh har uppenbarat, och tror att det är bättre än Allāhs lag, är en icke-troende enligt konsensus bland alla muslimer. Detsamma gäller den som dömer enligt människors lagar och tror att detta är tillåtet. När det gäller den som dömer med annat än det som Allāh har uppenbarat då denne finner att det är bekvämt att göra så, på grund av mutor, fiendskap mellan honom och personen som döms eller av någon annan anledning – i full vetskap om att det han gör är olydnad mot Allāh och att han måste döma med Allāhs Lag – då anses denne vara en olydig person och någon som begår en stor synd. Han har begått mindre *kufr*[^1], mindre *thulm* och mindre *fisq*. Detta har rapporterats av Ibn ‘Abbās, Tawūs samt ett antal av de rättfärdiga *salaf*. Detta är välkänt bland de lärde.
+**Svar:** De ledare som dömer med något annat än det som Allāh har uppenbarat delas i olika kategorier enligt deras trosuppfattningar och handlingar. Den som dömer med något annat än vad Allāh har uppenbarat, och tror att det är bättre än Allāhs lag, är en icke-troende enligt konsensus bland alla muslimer. Detsamma gäller den som dömer enligt människors lagar och tror att detta är tillåtet.
+
+När det gäller den som dömer med annat än det som Allāh har uppenbarat då denne finner att det är bekvämt att göra så, på grund av mutor, fiendskap mellan honom och personen som döms eller av någon annan anledning – i full vetskap om att det han gör är olydnad mot Allāh och att han måste döma med Allāhs Lag – då anses denne vara en olydig person och någon som begår en stor synd.
+
+Han har begått mindre *kufr*[^1], mindre *thulm* och mindre *fisq*. Detta har rapporterats av Ibn 'Abbās, Tawūs samt ett antal av de rättfärdiga *salaf*. Detta är välkänt bland de lärde.
 
 Och Allāh är den som ger framgång.
 

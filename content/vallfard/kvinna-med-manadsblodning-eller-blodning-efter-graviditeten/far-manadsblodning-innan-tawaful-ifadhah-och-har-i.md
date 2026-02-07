@@ -19,7 +19,9 @@ description: >-
 
 **Fråga:** En kvinna får sin månadsblödning och hon utför inte *tawāf* *ul-ifādhah*. Hon bor utanför Saudiarabien och tiden för avresa kommer. Hon har inte möjlighet att skjuta upp den och det är omöjligt för henne att återvända till landet vid ett annat tillfälle. Vad gäller då?
 
-**Svar:** Ligger det till som du har beskrivit – att det finns en kvinna som inte har utfört *tawāf* *ul-ifādhah*, att hon fått sin månadsblödning och att hon inte kan stanna i Mecka eller återvända dit om hon reser innan hon gör *tawāf* – då finns det två metoder som hon kan använda sig av. Antingen kan hon använda sig av en injektion [eller tabletter] som stoppar blödningen och då utföra *tawāf*, eller kan hon försöka hålla tillbaka blödningen genom att använda något lämpligt material som hindrar blodet från att rinna på moskéns golv, och eftersom det är nödvändigt då utföra *tawāf*. Den åsikt som vi nämnt är den mest korrekta och det är den som *shaykh ul-Islam* ibn Taymiyyah – må Allāh vara honom nådig – har valt.
+**Svar:** Ligger det till som du har beskrivit – att det finns en kvinna som inte har utfört *tawāf* *ul-ifādhah*, att hon fått sin månadsblödning och att hon inte kan stanna i Mecka eller återvända dit om hon reser innan hon gör *tawāf* – då finns det två metoder som hon kan använda sig av.
+
+Antingen kan hon använda sig av en injektion [eller tabletter] som stoppar blödningen och då utföra *tawāf*, eller kan hon försöka hålla tillbaka blödningen genom att använda något lämpligt material som hindrar blodet från att rinna på moskéns golv, och eftersom det är nödvändigt då utföra *tawāf*. Den åsikt som vi nämnt är den mest korrekta och det är den som *shaykh ul-Islam* ibn Taymiyyah – må Allāh vara honom nådig – har valt.
 
 Motsatsen till detta lämnar endast en av två valmöjligheter. Antingen håller hon kvar vid vad som finns kvar av hennes *ihrām*, genom att hon är förbjuden för sin man [från att ha intim samvaro] och att hon inte kan gifta sig [om hon inte är gift redan], eller anses hon vara hindrad och slaktar därmed ett djur och kommer ut ur *ihrām*. I detta sista fall räknas inte denna vallfärd för henne.
 

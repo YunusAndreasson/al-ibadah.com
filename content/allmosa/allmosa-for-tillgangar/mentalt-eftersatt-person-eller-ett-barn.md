@@ -19,7 +19,9 @@ description: >-
 
 **Svar:** Denna fråga är de lärde oeniga om. Några säger att allmosan för ett barn eller en mentalt eftersatt inte är en skyldighet. Man anser då att vuxet förstånd är ett krav, och det är välkänt att ett barn eller en mentalt eftersatt inte har vuxet förstånd. Därmed krävs ingen allmosa för deras tillgångar.
 
-Andra säger att allmosa för deras tillgångar tvärtom är ett krav. Detta är den korrekta åsikten därför att kravet på allmosa gäller *tillgångarna*. Ingen vikt läggs vid *ägaren*. Detta enligt Allāhs den Upphöjdes ord: ”T *ag då emot något av dem som offergåva [Muḥammad]*.” [^1] Han har således förkunnat att det som skyldigheten gäller är tillgångarna. När profeten – över honom vare Allāhs frid och välsignelser – sände Mu'ath bin Jabal till Jemen sade han [till honom]: ”*Informera dem om att Allāh har gjort det till en skyldighet för dem att betala allmosa för deras tillgångar. Den tas från deras rika och delas ut bland deras fattiga*.” [^2]
+Andra säger att allmosa för deras tillgångar tvärtom är ett krav. Detta är den korrekta åsikten därför att kravet på allmosa gäller *tillgångarna*. Ingen vikt läggs vid *ägaren*. Detta enligt Allāhs den Upphöjdes ord: "T *ag då emot något av dem som offergåva [Muḥammad]*." [^1] Han har således förkunnat att det som skyldigheten gäller är tillgångarna.
+
+När profeten – över honom vare Allāhs frid och välsignelser – sände Mu'ath bin Jabal till Jemen sade han [till honom]: "*Informera dem om att Allāh har gjort det till en skyldighet för dem att betala allmosa för deras tillgångar. Den tas från deras rika och delas ut bland deras fattiga*." [^2]
 
 Därför är allmosan en skyldighet för barnets och den mentalt eftersattes tillgångar. Skyldigheten att betala gäller deras förmyndare.
 
