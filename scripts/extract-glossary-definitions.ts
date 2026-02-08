@@ -105,11 +105,13 @@ function findTermFootnoteRefs(content: string): FootnoteMatch[] {
 
 function extractFootnoteDefinitions(content: string): Map<string, string> {
   const definitions = new Map<string, string>()
-  // Match [^n]: definition
-  const pattern = /^\[\^(\d+)\]:\s*(.+)$/gm
+  // Match [^n]: definition, including multi-line continuation (indented lines)
+  const pattern = /^\[\^(\d+)\]:\s*(.+(?:\n(?!\[\^)[ \t]+.+)*)$/gm
 
   for (const match of content.matchAll(pattern)) {
-    definitions.set(match[1], match[2].trim())
+    // Collapse multi-line definitions into a single line
+    const definition = match[2].replace(/\n[ \t]+/g, ' ').trim()
+    definitions.set(match[1], definition)
   }
 
   return definitions
@@ -127,7 +129,7 @@ function isDefinitionNotReference(definition: string): boolean {
     return false
   }
 
-  return definition.length >= 10
+  return definition.length >= 5
 }
 
 async function extractDefinitions(): Promise<Map<string, Map<string, number>>> {
@@ -263,27 +265,6 @@ for (const [canonical, term] of Object.entries(glossary)) {
 export function findGlossaryTerm(text: string): GlossaryTerm | undefined {
   const canonical = variantMap.get(normalizeArabic(text))
   return canonical ? glossary[canonical] : undefined
-}
-
-// Category descriptions for display
-export const categoryDescriptions: Record<string, string> = {
-  hadithSources: 'Hadith-källhänvisningar och samlingar',
-  hadithBooks: 'Hadith-böcker och verk',
-  coreTerms: 'Grundläggande islamiska termer',
-  prayerTerms: 'Bönerelaterade termer',
-  purificationTerms: 'Renhetstermer',
-  fastingTerms: 'Fasta-relaterade termer',
-  hajjTerms: 'Vallfärdstermer',
-  hajjLocations: 'Vallfärdsorter',
-  monthNames: 'Islamiska månader',
-  zakatTerms: 'Zakat-termer',
-  familyTerms: 'Familje- och äktenskapstermer',
-  clothingTerms: 'Klädestermer',
-  phrases: 'Vanliga fraser',
-  scholarlyTerms: 'Akademiska/lärdomstermer',
-  tawhidTerms: 'Tawhīd-kategorier',
-  miswakAndOther: 'Övriga termer',
-  swedishTerms: 'Svenska termer med arabisk motsvarighet',
 }
 `
 

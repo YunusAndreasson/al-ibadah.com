@@ -1,4 +1,6 @@
 ---
+import { renderTitle } from '~/lib/render-title'
+
 interface BreadcrumbItem {
   label: string
   href?: string
@@ -16,21 +18,18 @@ const { items } = Astro.props
     {items.map((item, index) => (
       <li class="flex items-center gap-1.5">
         {index > 0 && (
-          <span aria-hidden="true" class="text-muted-foreground/50 select-none">
-            ›
+          <span aria-hidden="true" class="text-muted-foreground/30 text-xs select-none">
+            /
           </span>
         )}
         {item.href ? (
-          <a href={item.href} class="nav-link">
-            {item.label}
-          </a>
+          <a href={item.href} class="nav-link" set:html={renderTitle(item.label)} />
         ) : (
           <span
             class="text-foreground font-medium truncate max-w-[160px] sm:max-w-[280px]"
             title={item.label}
-          >
-            {item.label}
-          </span>
+            set:html={renderTitle(item.label)}
+          />
         )}
       </li>
     ))}

@@ -3,6 +3,7 @@ import { SearchIcon } from '~/components/ui/icons'
 
 interface SearchItem {
   title: string
+  titleHtml?: string
   path: string
   category: string
   subcategory?: string
@@ -143,9 +144,10 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
                           index === selectedIndex ? 'bg-muted' : ''
                         }`}
                       >
-                        <p className="font-medium text-sm text-foreground leading-snug">
-                          {item.title}
-                        </p>
+                        <p
+                          className="font-medium text-sm text-foreground leading-snug"
+                          dangerouslySetInnerHTML={{ __html: item.titleHtml || item.title }}
+                        />
                         <p className="text-xs text-muted-foreground mt-0.5">
                           {item.category}
                           {item.subcategory && ` › ${item.subcategory}`}

@@ -11,7 +11,7 @@
 
 import type { Emphasis, Parent, Root, Text } from 'mdast'
 import { visit } from 'unist-util-visit'
-import { findGlossaryTerm, glossary } from '../src/data/glossary.js'
+import { type GlossaryTerm, findGlossaryTerm, glossary } from '../src/data/glossary.js'
 
 interface EmphasisData {
   hName?: string
@@ -21,16 +21,11 @@ interface EmphasisData {
   }
 }
 
-interface HtmlNode {
-  type: 'html'
-  value: string
-}
-
 // Build a regex pattern for Swedish terms only (non-italic matching)
 // Use lookbehind/lookahead instead of \b since Swedish chars (åäö) don't work with \b
 const swedishTerms = Object.values(glossary)
   .filter((term) => term.category === 'swedishTerms')
-  .flatMap((term) => term.variants)
+  .flatMap((term) => [term.canonical, ...term.variants])
   .sort((a, b) => b.length - a.length) // Longer terms first to avoid partial matches
 
 function escapeRegex(str: string): string {
@@ -81,7 +76,7 @@ export function remarkGlossaryTerms() {
       if (!parent || index === undefined) return
 
       const text = node.value
-      const matches: Array<{ term: string; start: number; end: number }> = []
+      const matches: Array<{ term: string; start: number; end: number; glossaryTerm: GlossaryTerm }> = []
 
       let match: RegExpExecArray | null
       swedishTermsPattern.lastIndex = 0
@@ -94,6 +89,7 @@ export function remarkGlossaryTerms() {
             term: match[0],
             start: match.index,
             end: match.index + match[0].length,
+            glossaryTerm,
           })
         }
       }
@@ -101,7 +97,7 @@ export function remarkGlossaryTerms() {
       if (matches.length === 0) return
 
       // Build new nodes: mix of text and html
-      const newNodes: Array<Text | HtmlNode> = []
+      const newNodes: Array<Text | { type: 'html'; value: string }> = []
       let lastEnd = 0
 
       for (const m of matches) {
@@ -111,16 +107,15 @@ export function remarkGlossaryTerms() {
         }
 
         // The glossary term as HTML
-        const glossaryTerm = findGlossaryTerm(m.term)
-        if (glossaryTerm) {
-          const escapedDef = glossaryTerm.definition
-            .replace(/&/g, '&amp;')
-            .replace(/"/g, '&quot;')
-          newNodes.push({
-            type: 'html',
-            value: `<span class="glossary-term" data-definition="${escapedDef}">${m.term}</span>`,
-          })
-        }
+        const escapedDef = m.glossaryTerm.definition
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;')
+        newNodes.push({
+          type: 'html',
+          value: `<span class="glossary-term" data-definition="${escapedDef}">${m.term}</span>`,
+        })
 
         lastEnd = m.end
       }

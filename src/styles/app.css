@@ -68,6 +68,7 @@
 /* Base styles */
 html {
   font-family: var(--font-sans);
+  font-feature-settings: "cv05" 1;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -177,10 +178,11 @@ body {
 /* Section label style - for about page and similar */
 .section-label {
   font-family: var(--font-sans);
-  font-size: 0.875rem;
+  font-size: 0.9375rem;
   font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
+  font-variant-caps: all-small-caps;
+  font-feature-settings: "case" 1, "cpsp" 1, "cv05" 1;
+  letter-spacing: 0.04em;
   opacity: 0.7;
 }
 
@@ -201,7 +203,7 @@ body {
   content: " ↗";
   font-size: 0.75em;
   vertical-align: super;
-  opacity: 0.6;
+  opacity: 0.45;
 }
 
 .prose-reading strong {
@@ -211,16 +213,17 @@ body {
 /* Q&A labels - Fråga/Svar styling */
 .prose-reading .qa-label {
   font-family: var(--font-sans);
-  font-size: 0.8em;
+  font-size: 0.85em;
   font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
+  font-variant-caps: all-small-caps;
+  font-feature-settings: "case" 1, "cpsp" 1, "cv05" 1;
+  letter-spacing: 0.04em;
   color: var(--color-muted-foreground);
 }
 
 .prose-reading blockquote {
   font-style: italic;
-  border-left: 3px solid var(--color-muted-foreground);
+  border-left: 2px solid var(--color-muted-foreground);
   padding-left: 1.25rem;
   margin: 1.5em 0;
   color: var(--color-blockquote);
@@ -263,8 +266,8 @@ body {
   background: linear-gradient(
     to right,
     transparent,
-    var(--color-border) 20%,
-    var(--color-border) 80%,
+    var(--color-border) 10%,
+    var(--color-border) 90%,
     transparent
   );
   margin: 3em 0;
@@ -368,12 +371,12 @@ body {
 /* Hover tooltips - footnotes and glossary terms (desktop only) */
 @media (hover: hover) {
   .prose-reading sup a[data-footnote-ref][data-tooltip],
-  .prose-reading .glossary-term {
+  .glossary-term {
     position: relative;
   }
 
   .prose-reading sup a[data-footnote-ref][data-tooltip]:hover::after,
-  .prose-reading .glossary-term:hover::after {
+  .glossary-term:hover::after {
     position: absolute;
     bottom: 100%;
     left: 0;
@@ -399,7 +402,7 @@ body {
     content: attr(data-tooltip);
   }
 
-  .prose-reading .glossary-term:hover::after {
+  .glossary-term:hover::after {
     content: attr(data-definition);
   }
 }
@@ -498,7 +501,7 @@ body {
 
 .card:hover {
   background-color: color-mix(in oklch, var(--color-muted) 50%, transparent);
-  border-color: var(--color-muted-foreground);
+  border-color: color-mix(in oklch, var(--color-muted-foreground) 50%, var(--color-border));
 }
 
 /* Navigation link */
@@ -507,8 +510,18 @@ body {
   transition: color 0.15s ease;
 }
 
+a.nav-link {
+  text-decoration-line: underline;
+  text-decoration-color: color-mix(in srgb, currentColor 25%, transparent);
+  text-underline-offset: 3px;
+}
+
 .nav-link:hover {
   color: var(--color-foreground);
+}
+
+a.nav-link:hover {
+  text-decoration-color: color-mix(in srgb, currentColor 50%, transparent);
 }
 
 .nav-link.active {
@@ -568,16 +581,16 @@ body {
 }
 
 /* Glossary terms - hover tooltips for terminology */
-.prose-reading .glossary-term {
+.glossary-term {
   text-decoration: underline;
   text-decoration-style: wavy;
-  text-decoration-color: var(--color-muted-foreground);
+  text-decoration-color: color-mix(in oklch, var(--color-muted-foreground) 45%, transparent);
   text-decoration-thickness: 1px;
-  text-underline-offset: 3px;
+  text-underline-offset: 6px;
   cursor: help;
 }
 
-.prose-reading em.glossary-term {
+em.glossary-term {
   font-style: italic;
 }
 

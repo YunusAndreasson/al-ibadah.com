@@ -1,5 +1,5 @@
 // Auto-generated glossary data - DO NOT EDIT MANUALLY
-// Generated at: 2026-02-07T16:52:56.844Z
+// Generated at: 2026-02-08T15:34:54.638Z
 // Run: pnpm tsx scripts/extract-glossary-definitions.ts
 
 import { normalizeArabic } from '../lib/normalize-arabic'
@@ -890,25 +890,4 @@ for (const [canonical, term] of Object.entries(glossary)) {
 export function findGlossaryTerm(text: string): GlossaryTerm | undefined {
   const canonical = variantMap.get(normalizeArabic(text))
   return canonical ? glossary[canonical] : undefined
-}
-
-// Category descriptions for display
-export const categoryDescriptions: Record<string, string> = {
-  hadithSources: 'Hadith-källhänvisningar och samlingar',
-  hadithBooks: 'Hadith-böcker och verk',
-  coreTerms: 'Grundläggande islamiska termer',
-  prayerTerms: 'Bönerelaterade termer',
-  purificationTerms: 'Renhetstermer',
-  fastingTerms: 'Fasta-relaterade termer',
-  hajjTerms: 'Vallfärdstermer',
-  hajjLocations: 'Vallfärdsorter',
-  monthNames: 'Islamiska månader',
-  zakatTerms: 'Zakat-termer',
-  familyTerms: 'Familje- och äktenskapstermer',
-  clothingTerms: 'Klädestermer',
-  phrases: 'Vanliga fraser',
-  scholarlyTerms: 'Akademiska/lärdomstermer',
-  tawhidTerms: 'Tawhīd-kategorier',
-  miswakAndOther: 'Övriga termer',
-  swedishTerms: 'Svenska termer med arabisk motsvarighet',
 }

@@ -8,22 +8,22 @@
  */
 
 import { normalizeArabic } from './normalize-arabic'
-import { glossary } from '../data/glossary'
+import { type GlossaryTerm, glossary } from '../data/glossary'
 
 const SKIP_CATEGORIES = new Set(['swedishTerms'])
 const SKIP_NORMALIZED = new Set(['muslim'])
 
-// Build normalized → canonical lookup (once at module load)
-const normalizedMap = new Map<string, string>()
+// Build normalized → GlossaryTerm lookup (once at module load)
+const normalizedMap = new Map<string, GlossaryTerm>()
 for (const [canonical, term] of Object.entries(glossary)) {
   if (SKIP_CATEGORIES.has(term.category)) continue
   const norm = normalizeArabic(canonical)
   if (SKIP_NORMALIZED.has(norm)) continue
-  normalizedMap.set(norm, canonical)
+  normalizedMap.set(norm, term)
   for (const variant of term.variants) {
     const vnorm = normalizeArabic(variant)
     if (!SKIP_NORMALIZED.has(vnorm)) {
-      normalizedMap.set(vnorm, variant)
+      normalizedMap.set(vnorm, term)
     }
   }
 }
@@ -36,8 +36,13 @@ function escapeHtml(text: string): string {
     .replace(/"/g, '&quot;')
 }
 
+function glossaryEmTag(text: string, term: GlossaryTerm): string {
+  return `<em class="glossary-term" data-definition="${escapeHtml(term.definition)}">${escapeHtml(text)}</em>`
+}
+
 /**
- * Renders a title as HTML with Arabic terms wrapped in <em> tags.
+ * Renders a title as HTML with Arabic terms wrapped in <em> tags
+ * with glossary-term class and data-definition for tooltips.
  * Non-Arabic text is HTML-escaped.
  */
 export function renderTitle(title: string): string {
@@ -72,8 +77,9 @@ export function renderTitle(title: string): string {
       const candidate = parts.slice(i, lastPos + 1).join('')
       const norm = normalizeArabic(candidate)
 
-      if (normalizedMap.has(norm)) {
-        result.push(`<em>${escapeHtml(candidate)}</em>`)
+      const entry = normalizedMap.get(norm)
+      if (entry) {
+        result.push(glossaryEmTag(candidate, entry))
         i = lastPos + 1
         matched = true
         break
@@ -83,8 +89,9 @@ export function renderTitle(title: string): string {
 
     // Try single word
     const norm = normalizeArabic(part)
-    if (normalizedMap.has(norm)) {
-      result.push(`<em>${escapeHtml(part)}</em>`)
+    const entry = normalizedMap.get(norm)
+    if (entry) {
+      result.push(glossaryEmTag(part, entry))
       i++
       continue
     }
@@ -95,8 +102,9 @@ export function renderTitle(title: string): string {
       const before = part.slice(0, hyphenIdx)
       const after = part.slice(hyphenIdx)
       const bnorm = normalizeArabic(before)
-      if (normalizedMap.has(bnorm)) {
-        result.push(`<em>${escapeHtml(before)}</em>${escapeHtml(after)}`)
+      const hEntry = normalizedMap.get(bnorm)
+      if (hEntry) {
+        result.push(`${glossaryEmTag(before, hEntry)}${escapeHtml(after)}`)
         i++
         continue
       }
