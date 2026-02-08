@@ -2,9 +2,9 @@
 title: Obesvarad åkallan – orsaker och villkor
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 81 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Blandat
   - Åkallan
@@ -29,7 +29,7 @@ Svaret är att det finns villkor förenade med besvarandet av [denna åkallan] s
 
 1. Uppriktighet mot Allāh den Härlige, den Upphöjde. Detta betyder att man måste: vara uppriktigt i sin åkallan, hoppas på ett svar från Honom, vända sig till Honom den Härlige, den Upphöjde med ett berett hjärta och ha tillflykt till Honom i sanningen i vetskap om att Han den Allsmäktige är förmögen att besvara.
 2. När man åkallar ska man känna att man är i ett stort behov [av att göra det]. Man ska känna ett stort behov av Allāh och att det är enbart Allāh den Upphöjde som svarar åkallan och avvärjer ont från en person i nöd när personen åkallar Honom. Åkallar man Allāh när man inte känner att man är i behov av Honom och man enbart ber av vana, då är man inte värdig att besvaras.
-3. När man åkallar ska man undvika att använda det som är förbjudet [ränta, stulna pengar, etcetera]. Att använda det som är förbjudet är ett hinder mellan en och svaret på ens åkallan. I en autentisk *ḥadīt̲h* från profeten – över honom vare Allāhs frid och välsignelser – bekräftas detta: "*Allāh är god och accepterar enbart det som är gott. Och Allāh kommenderade de troende som Han kommenderade sändebuden*." Han den Upphöjde säger: "*Troende! Ät av de goda ting som Vi skänker er för ert uppehälle och tacka Gud, om det är Honom ni [vill] dyrka*." [^2] "*Njut, ni sändebud, av allt [i livet] som är gott och sunt och lev rättskaffens; Jag har full vetskap om vad ni gör*." [^3] Profeten – över honom vare Allāhs frid och välsignelser – berättade sedan om en person som reser långa sträckor och har sitt hår okammat och täckt med damm: Han höjer händerna mot skyn [för att åkalla] och säger: "*Herre! Herre!" medan hans mat är otillåten, hans dryck är otillåten, hans kläder är otillåtna och hans föda är otillåten. Profeten – över honom vare Allāhs frid och välsignelser – sade: "Så hur kan hans åkallan då besvaras?*" [*Muslim*]
+3. När man åkallar ska man undvika att använda det som är förbjudet [ränta, stulna pengar, etcetera]. Att använda det som är förbjudet är ett hinder mellan en och svaret på ens åkallan. I en autentisk *ḥadīt̲h* från profeten – över honom vare Allāhs frid och välsignelser – bekräftas detta: "*Allāh är god och accepterar enbart det som är gott. Och Allāh befallde de troende som Han befallde sändebuden*." Han den Upphöjde säger: "*Troende! Ät av de goda ting som Vi skänker er för ert uppehälle och tacka Gud, om det är Honom ni [vill] dyrka*." [^2] "*Njut, ni sändebud, av allt [i livet] som är gott och sunt och lev rättskaffens; Jag har full vetskap om vad ni gör*." [^3] Profeten – över honom vare Allāhs frid och välsignelser – berättade sedan om en person som reser långa sträckor och har sitt hår okammat och täckt med damm: Han höjer händerna mot skyn [för att åkalla] och säger: "*Herre! Herre!" medan hans mat är otillåten, hans dryck är otillåten, hans kläder är otillåtna och hans föda är otillåten. Profeten – över honom vare Allāhs frid och välsignelser – sade: "Så hur kan hans åkallan då besvaras?*" [*Muslim*]
 
 Allāhs sändebud har ansett att det är osannolikt att mannen, som har de yttre hjälpmedlen genom vilka en åkallan accepteras, skulle få den besvarad. Dessa yttre hjälpmedel är:
 
@@ -59,7 +59,7 @@ Det är då inte passande att man anser att svaret dröjer och överger åkallan
 
 Därför, min bror, bör du åkalla Allāh den Allsmäktige i alla dina förehavanden. Du gör det i stort som smått, när du har problem och när du har det lätt. Även om det inte kommer något resultat från din åkallan mer än att det är dyrkan av Allāh den Upphöjde, den Härlige skulle det fortfarande vara värt dina ansträningar om du sysselsätter dig med det.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 
 [^1]: Koranen 40:60

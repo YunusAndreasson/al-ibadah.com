@@ -2,9 +2,9 @@
 title: Trons definition - ökar och minskar den?
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 47 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Övrigt
@@ -15,9 +15,9 @@ description: >-
   tungans yttrande och kroppens handla...
 ---
 
-**Fråga:** Hur definierar *ahlus-sunnah* wal-jamā’at* tron? Ökar och minskar denna tro?
+**Fråga:** Hur definierar *ahlus-sunnah wal-jamā´at* tron? Ökar och minskar denna tro?
 
-**Svar:** Tro är enligt *ahlus-sunnah* wal-jamā’at* att bekräfta med hjärtat, tungans yttrande och kroppens handlande. Den består därmed av tre delar:
+**Svar:** Tro är enligt *ahlus-sunnah wal-jamā´at* att bekräfta med hjärtat, tungans yttrande och kroppens handlande. Den består därmed av tre delar:
 
 1. Hjärtats bekräftande,
 2. det talade ordet och
@@ -54,7 +54,7 @@ Orsakerna som ligger bakom svagheter i tron är de motsatta:
 1. Okunskap om Allāhs namn och egenskaper leder till en minskad tro. När någons kunskap om Allāhs namn och egenskaper är otillräcklig, då kommer även personens tro att vara otillräcklig.
 2. Att inte begrunda Allāhs tecken, varken de universella eller de föreskrivna. Detta leder till att tron minskar eller åtminstone till att den håller sig oförändrad utan att öka.
 3. Att vara olydig. Detta har en skadlig inverkan på hjärtat och tron. Profeten – över honom vare Allāhs frid och välsignelser – har därför sagt: ”Äktenskapsförbrytaren *är inte troende medan personen begår äktenskapsbrott*.” [^2] och *Muslim* 57]
-4. Den fjärde orsaken till en minskad tro är att överge handlingar fyllda med lydnad. Om handlingen som innebär lydnad är en skyldighet och någon överger den utan en tillåten ursäkt är det en brist som personen bör tillrättavisas och straffas för. Men om denna lydnadshandling inte är obligatorisk eller om den är obligatoriskt men den överges med en giltig ursäkt, då är det en brist som varken ska medföra ett tillrättavisande eller en bestraffning. Därför förklarade profeten – över honom vare Allāhs frid och välsignelser – att en kvinna är ofullständig i sitt förstånd och sin religion. Han förklarade även att denna ofullständighet i religionen beror på att hon varken ber eller fasta under månadsblödningen. Hon klandras dock inte för att hon överger bönen och fastan under denna tid; utan tvekan har han kommenderat henne till lämna detta då. Och det är på grund av dessa handlingar som hon inte utför, men vilka en man utför, som hon är ofullständig jämfört med en man.
+4. Den fjärde orsaken till en minskad tro är att överge handlingar fyllda med lydnad. Om handlingen som innebär lydnad är en skyldighet och någon överger den utan en tillåten ursäkt är det en brist som personen bör tillrättavisas och straffas för. Men om denna lydnadshandling inte är obligatorisk eller om den är obligatoriskt men den överges med en giltig ursäkt, då är det en brist som varken ska medföra ett tillrättavisande eller en bestraffning. Därför förklarade profeten – över honom vare Allāhs frid och välsignelser – att en kvinna är ofullständig i sitt förstånd och sin religion. Han förklarade även att denna ofullständighet i religionen beror på att hon varken ber eller fasta under månadsblödningen. Hon klandras dock inte för att hon överger bönen och fastan under denna tid; utan tvekan har han befallt henne till lämna detta då. Och det är på grund av dessa handlingar som hon inte utför, men vilka en man utför, som hon är ofullständig jämfört med en man.
 
 
 [^1]: Koranen 51:20 – 21

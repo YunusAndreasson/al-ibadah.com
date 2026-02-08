@@ -2,7 +2,7 @@
 title: Böner vid gravplatser
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 80 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
@@ -26,8 +26,8 @@ description: >-
 
 I en annan version: ”*Men det fanns en rädsla för att den skulle tas som en moské*.” Och i ännu en annan version från Bukhārī: ”*Men jag fruktar att den ska tas som en moské*.” [^1]
 
-Därmed vet vi att det inte är tillåtet att be i moskéer som innehåller gravar och det är även otillåtet att bygga dem [över gravar]. 
-När det gäller frågeställarens fråga: "Var bad 'Ā'ishāh när profeten – över honom vare Allāhs frid och välsignelser – hade avlidit och om graven var innanför eller utanför huset?" Då är svaret att 'Ā'ishāh – må Allāh vara nöjd med henne – var en av dem som återberättade *aḥādīt̲h* som understryker förbudet om att ta gravar som moskéer. Detta reflekterar onekligen Allāhs – den Upphöjdes – visdom.
+Därmed vet vi att det inte är tillåtet att be i moskéer som innehåller gravar och det är även otillåtet att bygga dem [över gravar].
+När det gäller frågeställarens fråga: "Var bad 'Ā'ishāh när profeten – över honom vare Allāhs frid och välsignelser – hade avlidit och om graven var innanför eller utanför huset?" Då är svaret att 'Ā'ishāh – må Allāh vara nöjd med henne – var en av dem som återberättade *aḥādīt̲h* som understryker förbudet om att ta gravar som moskéer. Detta återspeglar onekligen Allāhs – den Upphöjdes – visdom.
 
 På detta sätt vet vi att hon inte bad i rummet som innehöll gravar. Hade hon bett i dem, då hade hon motsatt sig det som hon rapporterade och det stämmer inte in på henne.
 

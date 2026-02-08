@@ -2,9 +2,9 @@
 title: Synders grad i Mecka
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 37 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Bön (Salāh)
   - Moskén
@@ -23,6 +23,6 @@ description: >-
 
 Detta beror även på vad som har bekräftats i autentiska *aḥādīt̲h* som pekar på samma innebörd. Onda handlingar varierar i deras syndfullhet enligt hur stora eller små de är, vid vilken tid de begås [som under *ramaḍān* och de tio dagarna i *d̲hul-ḥijjah*], vid vilken plats de begås [som Mecka och Medina] och på grund av andra anledningar.
 
-Allāh är Givaren av framgång.
+Allāh är Den som ger framgång.
 
 

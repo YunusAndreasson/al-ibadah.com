@@ -4,9 +4,9 @@ title: >-
   frid och välsignelser – grav i moskén
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 54 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
@@ -45,7 +45,7 @@ Och profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 Men om en moské byggs utan att det finns någon grav i den och någon sedan begravs i den, då behöver den inte rivas. I stället bör den [graven] grävs upp och kroppen flyttas och grävas ned på muslimernas gravplats. Det är vidrigt att begrava folk i moskén och det måste överges genom att graven avlägsnas från moskén.
 
-Profeten – över honom vare Allāhs frid och välsignelser – byggde sin egen moské med fromhet, fruktan av Allāh den Upphöjde och med Allāhs tillfredställelse. Profeten – över honom vare Allāhs frid och välsignelser – begravdes inte i den efter sin död, utan han begravdes i ‘Ā’ishāh bostad. När Abū Bakr – må Allāh vara nöjd med honom – avled begravdes han jämte honom i den kammaren. När sedan ‘Umar – må Allāh vara nöjd med honom – avled begravdes han jämte dem i samma kammare. Bostaden själv ingick inte i moskén. 
+Profeten – över honom vare Allāhs frid och välsignelser – byggde sin egen moské med fromhet, fruktan av Allāh den Upphöjde och med Allāhs tillfredställelse. Profeten – över honom vare Allāhs frid och välsignelser – begravdes inte i den efter sin död, utan han begravdes i ‘Ā’ishāh bostad. När Abū Bakr – må Allāh vara nöjd med honom – avled begravdes han jämte honom i den kammaren. När sedan ‘Umar – må Allāh vara nöjd med honom – avled begravdes han jämte dem i samma kammare. Bostaden själv ingick inte i moskén.
 
 Moskén kom till att innefatta den först när de korrekt vägledda kaliferna hade gått bort.
 

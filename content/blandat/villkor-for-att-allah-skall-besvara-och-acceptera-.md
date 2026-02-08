@@ -1,21 +1,21 @@
 ---
-title: Villkor för att Allāh ska besvara och acceptera en åkallan
+title: Villkor för att åkallan ska besvaras
 author: al-Nawawi
 source: >-
   Sahīh Muslim bi Sharh al-Nawawi, 16/82 Muhammed Knut Bernström (1421),
-  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Blandat
 original_id: 1279
 description: >-
   Fråga: Vad finns det för villkor för att Allāh ska besvara och acceptera en
-  åkallan? Svar: Detta finns många villkor för åkallan och nedan följer några:
+  åkallan? Svar: Det finns många villkor för åkallan och nedan följer några:
   Du ska inte anropa någon an...
 ---
 
 **Fråga:** Vad finns det för villkor för att Allāh ska besvara och acceptera en åkallan?
 
-**Svar:** Detta finns många villkor för åkallan och nedan följer några:
+**Svar:** Det finns många villkor för åkallan och nedan följer några:
 
 1. Du ska inte anropa någon annan än Allāh. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om du ber [om något], be då Allāh. Och om du söker hjälp, sök då Allāhs hjälp*.” [^2]. Detta är innebörden av versen: ”*All dyrkan tillkommer Gud; anropa därför ingen vid sidan av Honom!*” [^3] Detta är det viktigaste villkoret för åkallan. Om inte detta villkor uppfylls kommer inte denna åkallan att accepteras. Det finns vissa som åkallar de döda och ser dem som mellanled mellan sig själva och Allāh. De påstår att dessa rättfärdiga människor kommer att föra dem närmare Allāh och medla för dem inför Honom. De påstår att deras synder är så stora att de inte har någon status inför Allāh. Därför sätter de dem som mellanhänder och ber till dem i stället för Allāh. Men Allāh säger: ”*När mina tjänare frågar dig om Mig [svara då att] Jag är nära; Jag svarar den bedjandes bön, när han ber till Mig. Och uppmana dem att svara när Jag kallar och att tro på Mig – kanske ska de ledas på rätt väg*.” [^4]
 2. Du bör försöka närma dig Allāh genom några av de sätt som finns föreskrivna i den islamiska lagen.

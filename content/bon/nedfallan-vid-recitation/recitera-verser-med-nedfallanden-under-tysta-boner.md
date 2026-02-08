@@ -2,7 +2,7 @@
 title: Recitera verser med nedfallanden under tysta böner
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 282 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -10,7 +10,7 @@ categories:
 original_id: 280
 description: >-
   Fråga: Vilket är utlåtandet om att i tysta böner recitera en vers i vilken det
-  finns ett nedfallande[^1]? Svar: Det är ogillat att imamen i tysta böner
+  finns ett nedfallande? Svar: Det är ogillat att imamen i tysta böner
   reciterar en vers i vilken det finns en ned...
 ---
 

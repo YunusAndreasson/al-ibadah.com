@@ -2,9 +2,9 @@
 title: Gabrielshadithen – en diskussion kring definitionen av tro
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 51 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Övrigt
@@ -36,7 +36,7 @@ Efter att ha förstått detta är det inte möjligt att *aḥādīt̲h* från pr
 I *ḥadīt̲h* från [ängeln] Gabriel har profeten – över honom vare Allāhs frid och välsignelser – delat religionen i tre kategorier:
 
 1. Islam,
-2. imān och
+2. īmān och
 3. ihsan.
 
 I *ḥadīt̲h* från ´Abdul-Qais-delegationen nämnde han enbart en kategori, och den var islam. Tron är utan några oenigheter innefattad i islam. Det är ju omöjligt att någon utför riterna om personen inte har tron. När islam nämns ensamt innefattas tron och om enbart tron nämns innefattas islam i den. När de nämns tillsammans rör tron [tron] i hjärtat, medan islam rör vad kroppen gör. För den som studerar den islamiska vetenskapen är detta något som är nyttigt att förstå.

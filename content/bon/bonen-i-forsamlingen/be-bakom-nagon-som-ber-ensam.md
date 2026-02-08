@@ -17,5 +17,5 @@ description: 'Fråga: Om en muslim börjar be själv, och någon annan kommer, g
 
 Profeten – över honom vare Allāhs frid och välsignelser – stod upp för att be ensam en natt och Ibn Abbās kom och bad med honom. I detta fall blev sändebudet – över honom vare Allāhs frid och välsignelser – imam och Ibn Abbās blev den som följde honom i bön. Så profetens – över honom vare Allāhs frid och välsignelser – avsikt ändrades från avsikten att be ensam till avsikten att leda bönen.
 
-Detta visar att det är tillåtet. Detta gäller både frivilliga böner och obligatoriska böner, utom i de fall där bevis anger någon motsatt. Denna åsikt är mer korrekt än den andra åsikten och det är även den som shaykh ul-islām Ibn Taymiyyah stödjer. Den finns även återgiven av imam *Aḥmad*. Detta är den mest korrekta åsikten, om Allāh vill.
+Detta visar att det är tillåtet. Detta gäller både frivilliga böner och obligatoriska böner, utom i de fall där bevis anger någon motsatt. Denna åsikt är mer korrekt än den andra åsikten och det är även den som s̲hayk̲h ul-islām Ibn Taymiyyah stödjer. Den finns även återgiven av imam *Aḥmad*. Detta är den mest korrekta åsikten, om Allāh vill.
 

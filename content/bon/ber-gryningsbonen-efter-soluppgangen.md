@@ -2,7 +2,7 @@
 title: Ber gryningsbönen efter soluppgången
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 353 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -17,7 +17,7 @@ description: >-
 
 **Svar:** En muslim får inte hålla sig vaken så länge att det leder till att han missar gryningsbönen med församlingen eller vid dess angivna tid. Detta gäller trots om anledningen var att han läste Koranen eller inhämtade kunskap – och hur är det då om anledningen till att han var vaken var att han tittade på TV eller spelade kort? Gör han detta är han en syndare som förtjänar Allāhs straff. Han och hans likar förtjänar även myndigheternas bestraffning med anledning av deras ovarsamhet.
 
-Att skjuta upp bönen till efter soluppgången är enligt ett antal lärde en handling med otro om det görs avsiktligen. Detta grundas på profetens – över honom vare Allāhs frid och välsignelser – ord: "*Mellan en man och att inte tro och *shirk* är att han lämnar bönen*" [^1] och "*Förbundet mellan oss och dem är bönen och den som lämnar den har inte trott*." [^2]
+Att skjuta upp bönen till efter soluppgången är enligt ett antal lärde en handling med otro om det görs avsiktligen. Detta grundas på profetens – över honom vare Allāhs frid och välsignelser – ord: "*Mellan en man och att inte tro och *s̲hirk* är att han lämnar bönen*" [^1] och "*Förbundet mellan oss och dem är bönen och den som lämnar den har inte trott*." [^2]
 
 Det finns andra *aḥādīt̲h* från följeslagarna om detta. De bevisar att den som avsiktligen och utan någon giltig anledning skjuter upp bönen till efter dess utsedda tid är en icke-troende.
 

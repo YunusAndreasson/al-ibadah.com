@@ -3,7 +3,7 @@ title: Faran i att dyrka andra än Allāh
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fiqh ul 'Ibādāt www 20/4-2007: www Muhammed Knut Bernström (1421), Koranens
-  budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Svaret kan förstås från vad som har föregåtts när vi sade att *tawḥīd* i dyrkan är att särskilja Allāh med all dyrkan. Detta betyder att ingen bör ge någon del av [sin] dyrkan till någon annan än Allāh den Upphöjde.
 
-Det är känt att offer är ett sätt för att komma närmare Allāh. Han har kommenderat det när Han sagt: ”*Be därför till din Herre och förrätta [ditt] offer!*” [^2]
+Det är känt att offer är ett sätt för att komma närmare Allāh. Han har befallt det när Han sagt: ”*Be därför till din Herre och förrätta [ditt] offer!*” [^2]
 
 Allt [som görs] för att komma närmare Allāh är då dyrkan. Om man offrar till någon annan än Allāh, på grund av vördnad för den man offrar till, och som en handling av underkastelse inför och för att komma närmare personen, på samma sätt som han visar vördnad för och söker Allāhs närhet, då sätter man någon vid Allāhs sida i dyrkan [man är en månggudadyrkare[^1]]. I detta fall har Allāh klargjort att Han har förbjudit Paradiset för månggudadyrkare[^1] och att deras boning är för evigt i Helvetet.
 

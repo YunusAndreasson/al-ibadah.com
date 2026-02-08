@@ -2,9 +2,9 @@
 title: Shathlisekten och lydnad mot villfarande föräldrar
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 334 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Sekter och rörelser
@@ -26,7 +26,7 @@ Om jag inte lyder honom, då kommer han alltid att vara arg på mig och argument
 
 **Svar:** Förhåller det sig på så vis som du har beskrivit, att din far och de i sekten varken ber eller fastar och tror att deras *s̲hayk̲h* är deras herre, som garanterar dem Paradiset och förlåter dem alla deras onda handlingar, då är de icke-troende.
 
-Om din far beordrar dig att bli en av dem och förbjuder att du ber och fastar, lyd då inte honom. Det finns ingen lydnad till någon skapad varelse om det innebär olydnad mot Skaparen. Gör det som Allāh har kommenderat och håll dig borta från det som Han har förbjudit. Behandla dina föräldrar med rättvisa för att uppfylla Allāhs den Upphöjdes Ord:
+Om din far beordrar dig att bli en av dem och förbjuder att du ber och fastar, lyd då inte honom. Det finns ingen lydnad till någon skapad varelse om det innebär olydnad mot Skaparen. Gör det som Allāh har befallt och håll dig borta från det som Han har förbjudit. Behandla dina föräldrar med rättvisa för att uppfylla Allāhs den Upphöjdes Ord:
 
 > ”Gud har anbefallt människan [att visa] godhet mot sina föräldrar; [hon bör tänka på att] modern har burit sitt barn genom det ena svaghetstillståndet efter det andra, [fött det] och ammat det under två år. Tacka Mig och dina föräldrar [och minns att] Jag är målet för er färd! Men om de vill förmå dig att sätta vid Min sida något som du står främmande för, ska du inte lyda dem. Omge dem i detta liv som sig bör [med dina ömma omsorger], och följ samma väg som de som vänder tillbaka till mig i ånger [över sina synder]. Till Mig ska ni föras åter och Jag ska låta er veta vad era handlingar [var värda].” [Koranen 31:14 – 15]
 

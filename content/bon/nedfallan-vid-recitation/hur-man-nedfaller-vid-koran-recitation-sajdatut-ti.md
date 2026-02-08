@@ -2,7 +2,7 @@
 title: 'Hur man nedfaller vid Koran-recitation [sajdatut-tilawah]'
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 283 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -10,7 +10,7 @@ categories:
 original_id: 282
 description: >-
   Fråga: Hur gör man sajdatut-tilawah och hur många taslīm bör man recitera i
-  den? Svar: Sajdatut-tilawah är som nedfallandet[^1] under bönen. Det är att
+  den? Svar: Sajdatut-tilawah är som nedfallandet under bönen. Det är att
   föredra att stå rakt för att sedan ne...
 ---
 

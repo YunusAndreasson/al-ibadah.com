@@ -2,9 +2,9 @@
 title: Dömer med annat än vad Allāh uppenbarat
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 113 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan

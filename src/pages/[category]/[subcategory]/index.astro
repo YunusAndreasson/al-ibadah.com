@@ -56,7 +56,7 @@ export async function getStaticPaths() {
 
 const { category, subcategory } = Astro.params
 const { categoryName, subcategoryName, articles } = Astro.props
-const subcategoryDescription = `${articles.length} utlatanden om ${subcategoryName.toLowerCase()} inom ${categoryName.toLowerCase()}.`
+const subcategoryDescription = `${articles.length} utlåtanden om ${subcategoryName.toLowerCase()} inom ${categoryName.toLowerCase()}.`
 const breadcrumbItems = [
   { label: 'Hem', href: '/' },
   { label: categoryName, href: `/${category}` },
@@ -97,7 +97,7 @@ const jsonLd = [
         ))}
       </div>
     ) : (
-      <p class="text-muted-foreground">Inga artiklar i denna underkategori än.</p>
+      <p class="text-muted-foreground">Inga artiklar i denna underkategori.</p>
     )}
   </PageLayout>
 </BaseLayout>

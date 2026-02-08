@@ -2,7 +2,7 @@
 title: Missade böner eftersom han inte kände till tiden
 author: Ibn ´Abdur-Rahman al-Jibrin
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 430 s. ISBN saknas
 categories:
   - Bön (Salāh)

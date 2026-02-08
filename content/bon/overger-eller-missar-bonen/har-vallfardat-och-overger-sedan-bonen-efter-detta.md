@@ -2,9 +2,9 @@
 title: Har vallfärdat och överger sedan bönen efter detta
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 51 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Bön (Salāh)
   - Missad bön
@@ -37,7 +37,7 @@ Anledningen som du uppgav för att lämna bönen – att du inte kände till rik
 
 Och profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Om jag kommenderar er att göra något, gör då så mycket som ni kan av det.” [*al-Buk̲hārī* 7288 och *Muslim* 1337]
+> ”Om jag befaller er att göra något, gör då så mycket som ni kan av det.” [*al-Buk̲hārī* 7288 och *Muslim* 1337]
 
 Om någon då befinner sig någonstans och inte känner till riktningen mot *qiblah*, och det inte finns någon som personen litar på och kan fråga, då ber personen efter att ha försökt ta reda på den troligaste riktningen. Personen behöver inte ta igen den bönen efteråt.
 

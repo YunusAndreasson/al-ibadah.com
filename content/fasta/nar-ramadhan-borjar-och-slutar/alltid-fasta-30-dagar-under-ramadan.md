@@ -2,15 +2,15 @@
 title: Alltid fasta 30 dagar under ramaḍān
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 235 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Fasta (Sawm)
   - Ramadans datum
 original_id: 1391
 description: >-
-  Fråga: Vilket är utlåtandet om dem som alltid fastar 30 dagar under ramadan?
+  Fråga: Vilket är utlåtandet om dem som alltid fastar 30 dagar under ramaḍān?
   Svar: Utförliga ahādīth från Allāhs sändebud, konsensus bland följeslagarna
   och de lärde som följde dem i rättfär...
 ---
@@ -29,11 +29,11 @@ description: >-
 
 Verserna med liknande innebörd är många.
 
-I *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* finns en *ḥadīt̲h* från Ibn ´Umar återgiven i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: "*Fasta inte förrän ni ser nymånen eller ni har räknat [30 dagar i sha'ban] och bryt inte er fasta förrän ni ser nymånen eller ni har räknat antalet [av 30 dagar i ramadan].*" [^1] Denna *ḥadīt̲h* råder det enighet om och i en version återgiven av Muslim säger han: "*Anse den då vara 30 dagar*." [^2] Och med en annan ordalydelse i *Ṣaḥīḥ Muslim* och *Ṣaḥīḥ al-Buk̲hārī* säger han: "*Fasta inte förrän ni ser nymånen eller ni har räknat [30 dagar i sha'ban] och bryt inte er fasta förrän ni ser nymånen eller ni har räknat antalet [av 30 dagar i ramadan]*." [^3]
+I *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* finns en *ḥadīt̲h* från Ibn ´Umar återgiven i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: "*Fasta inte förrän ni ser nymånen eller ni har räknat [30 dagar i s̲ha´bān] och bryt inte er fasta förrän ni ser nymånen eller ni har räknat antalet [av 30 dagar i ramaḍān].*" [^1] Denna *ḥadīt̲h* råder det enighet om och i en version återgiven av Muslim säger han: "*Anse den då vara 30 dagar*." [^2] Och med en annan ordalydelse i *Ṣaḥīḥ Muslim* och *Ṣaḥīḥ al-Buk̲hārī* säger han: "*Fasta inte förrän ni ser nymånen eller ni har räknat [30 dagar i s̲ha´bān] och bryt inte er fasta förrän ni ser nymånen eller ni har räknat antalet [av 30 dagar i ramaḍān]*." [^3]
 
-I *Ṣaḥīḥ al-Buk̲hārī* återges ifrån Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Fasta när nymånen siktas och bryt fastan när den siktas. Och om den är dold för dem [på grund av moln] fullgör då 30 [dagar]*." [^4] Och med en annan ordalydelse säger han: "*Fullborda då antalet [dagar] som 30*." [^5] Och med ännu en ordalydelse säger han: "*Och fullborda sha'ban som 30 dagar*."
+I *Ṣaḥīḥ al-Buk̲hārī* återges ifrån Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Fasta när nymånen siktas och bryt fastan när den siktas. Och om den är dold för dem [på grund av moln] fullgör då 30 [dagar]*." [^4] Och med en annan ordalydelse säger han: "*Fullborda då antalet [dagar] som 30*." [^5] Och med ännu en ordalydelse säger han: "*Och fullborda s̲ha´bān som 30 dagar*."
 
-Det har även rapporterats från Huthayfah att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Fasta inte förrän ni ser nymånen [under ramadan] eller då ni har fullbordat antalet [som 30]. Och bryt inte er fasta förrän ni ser nymånen [i shawwal] eller då ni har fullbordat antalet [som 30 dagar]*." Denna *ḥadīt̲h* har Abū Dawūd och an-Nasā'i återgivit med en autentisk berättarkedja.
+Det har även rapporterats från Huthayfah att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Fasta inte förrän ni ser nymånen [under ramaḍān] eller då ni har fullbordat antalet [som 30]. Och bryt inte er fasta förrän ni ser nymånen [i s̲hawwāl] eller då ni har fullbordat antalet [som 30 dagar]*." Denna *ḥadīt̲h* har Abū Dāwūd och an-Nasā’ī återgivit med en autentisk berättarkedja.
 
 Profeten – över honom vare Allāhs frid och välsignelser – har i ett antal *aḥādīt̲h* sagt: "*Sannerligen, månaden är 29 dagar, så fasta inte förrän ni se nymånen, och bryt inte fastan förrän ni ser nymånen. Och om moln döljer den för er, fullborda då antalet [som 30 dagar]*." [^6] Det har även bekräftats att han har sagt: "*'Månaderna är så här och så här och så här', och han höjde sin tio fingrar, och sedan drog han tillbaka sin tumme den tredje gången. Sedan sade han: 'Månaderna är så här, och så här och så här', med sina tio fingrar, och han drog inte tillbaka tummen*." När han gjorde detta pekade han på att ibland är den 30 dagar och ibland är den 29.
 

@@ -2,7 +2,7 @@
 title: Någon som har möjlighet att vallfärda utser någon annan
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 64 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
@@ -24,7 +24,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Den
 
 Bin Baz ställdes frågan: "Får den som har utfört den obligatoriska vallfärden utse någon som utför en frivillig vallfärd för personens räkning, då personen har möjlighet själv?"
 
-Han svarade genom att säga: "De lärde har olika åsikter. Det som verkar vara mest uppenbart är att det inte är tillåtet, då tillåtelse för detta endast har rapporterats för den som har avlidit, en extremt gammal person och den som inte har möjlighet. Samma regel gäller den som är sjuk som inte förväntas att tillfriskna. Den grundläggande principen är att inte utse någon annan till att utföra dyrkan. Därför är det en skyldighet att hålla sig till detta. Och Allāh är Givaren av framgång."
+Han svarade genom att säga: "De lärde har olika åsikter. Det som verkar vara mest uppenbart är att det inte är tillåtet, då tillåtelse för detta endast har rapporterats för den som har avlidit, en extremt gammal person och den som inte har möjlighet. Samma regel gäller den som är sjuk som inte förväntas att tillfriskna. Den grundläggande principen är att inte utse någon annan till att utföra dyrkan. Därför är det en skyldighet att hålla sig till detta. Och Allāh är Den som ger framgång."
 
 
 [^1]: *al-Buk̲hārī* 2697 och *Muslim* 1718

@@ -2,7 +2,7 @@
 title: Söka islamisk kunskap
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 370 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)

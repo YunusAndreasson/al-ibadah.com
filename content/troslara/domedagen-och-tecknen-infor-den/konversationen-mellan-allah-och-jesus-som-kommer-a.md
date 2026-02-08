@@ -6,7 +6,7 @@ source: >-
   Dar us-Salam. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
-  - Domedagen och tecknen inför den
+  - Domedagen och dess tecken
 original_id: 1676
 description: >-
   Fråga: I Koranen finns en detaljerad diskussion mellan Allāh den Allsmäktige

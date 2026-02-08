@@ -1,7 +1,7 @@
 ---
 title: Oanvända landstycken
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
  Libanon: Maktaba Dar us-Salam. 167 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)

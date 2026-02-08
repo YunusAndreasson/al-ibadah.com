@@ -2,7 +2,7 @@
 title: Kvinna som ber utan iqāmah
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 129 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -11,14 +11,14 @@ original_id: 177
 description: >-
   Fråga: Får en kvinna göra iqāmah för bönen? Får hon be utan den? Svar:
   Böneutropet och iqāmah är föreskrivna för män men inte för kvinnor. Detta
-  enligt en återberättelse från al-Bayhaqi dä...
+  enligt en återberättelse från al-Bayhaqī dä...
 ---
 
 **Fråga:** Får en kvinna göra *iqāmah* för bönen? Får hon be utan den?
 
-**Svar:** Böneutropet och *iqāmah* är föreskrivna för män men inte för kvinnor. Detta enligt en återberättelse från al-Bayhaqi där han berättar att Ibn ´Umar har sagt: ”*Kvinnor behöver inte göra böneutropet och iqāmah*[^1].” [al-Bayhaqi i *as-Sunan* 1959]
+**Svar:** Böneutropet och *iqāmah* är föreskrivna för män men inte för kvinnor. Detta enligt en återberättelse från al-Bayhaqī där han berättar att Ibn ´Umar har sagt: ”*Kvinnor behöver inte göra böneutropet och iqāmah*[^1].” [al-Bayhaqī i *as-Sunan* 1959]
 
 Därmed är det föreskrivet att kvinnan utelämnar böneutropet och *iqāmah*.
 
-[^1]: Ett snabbare utrop efter det första böneutropet [adhān] som berättar att bönen ska börja.
+[^1]: Ett snabbare utrop efter det första böneutropet [ad̲hān] som berättar att bönen ska börja.
 

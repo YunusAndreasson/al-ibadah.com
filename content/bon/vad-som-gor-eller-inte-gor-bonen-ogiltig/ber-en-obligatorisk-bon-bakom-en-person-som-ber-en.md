@@ -2,7 +2,7 @@
 title: Ber en obligatorisk bön bakom en person som ber en frivillig
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 139 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Utlåtandet är att detta är korrekt. Medan profeten – över honom vare Allāhs frid och välsignelser – reste så ledde han ett antal följeslagare i rädslebönen[^1] och de bad två bönecykler. Därefter bad han två bönecykler till och den andra bönen var då frivillig. I *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* återges att Mu'ath brukade be nattbönen tillsammans med profeten – över honom vare Allāhs frid och välsignelser – som sin obligatoriska bön, sedan ledde han folket i deras obligatoriska bön. Detta var ju då en frivillig [bön] för honom.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 [^1]: salatul-khawf
 

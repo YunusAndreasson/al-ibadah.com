@@ -1,8 +1,8 @@
 ---
-title: Utan ursäkt stryka över sockarna under sommaren
+title: Stryka över sockarna under sommaren utan ursäkt
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 104 s. ISBN saknas
 categories:
   - Renhet (Tahārah)
@@ -20,6 +20,6 @@ description: >-
 
 Det är dock inte tillåtet att stryka över sockar eller något liknande utan att uppfylla de nödvändiga kraven. De är att sockarna måste täcka de delar av foten som krävs, att de tas på medan den som bär dem är rituellt ren och att tidsgränsen [som är en dag och en natt för den som inte reser och tre dagar och tre nätter för den som reser] observeras [börjar första gången de stryks över följande förlusten av tvagningen]. Detta enligt den mest korrekta åsikten av de två åsikterna som de lärde har.
 
-Och Allāh är Den som beviljar framgång.
+Och Allāh är Den som ger framgång.
 
 

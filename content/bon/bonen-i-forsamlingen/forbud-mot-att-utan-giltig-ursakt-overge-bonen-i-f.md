@@ -1,10 +1,10 @@
 ---
-title: Förbud mot att utan giltig ursäkt överge bönen i församlingen
+title: Förbud mot att överge bönen i församlingen utan giltig ursäkt
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 385 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Bön (Salāh)
   - Församlingsbön
@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Jag ber alltid mina böner vid deras fastslagna tider men jag går inte till moskén för att be. I stället ber jag dem hemma tillsammans med mina barn. Är detta tillåtet? Är belöningen för att be hemma samma som för att be i moskén?
 
-**Svar:** Även om du ber tillsammans med dina barn i ditt hem får du inte överge bönen i församlingen i moskén. Anledningen är att moskén har byggts för att bönen ska bes i den med församlingen. Likaså har böneutropet föreskrivits i vilket böneutroparen säger: ”*Hayya 'alas-salāh*” [Kom till bönen för att få framgång]. När vi hör böneutropet måste vi gå dit där muslimer samlas för att ledas i bön av en imam, lära oss bönen som är en skyldighet, träffa andra muslimer, växla fridshälsningar, få belöningar för att be i församling, lära oss att älska varandra och ge varandra råd.
+**Svar:** Även om du ber tillsammans med dina barn i ditt hem får du inte överge bönen i församlingen i moskén. Anledningen är att moskén har byggts för att bönen ska bes i den med församlingen. Likaså har böneutropet föreskrivits i vilket böneutroparen säger: ”*Hayya 'alas-ṣalāh*” [Kom till bönen för att få framgång]. När vi hör böneutropet måste vi gå dit där muslimer samlas för att ledas i bön av en imam, lära oss bönen som är en skyldighet, träffa andra muslimer, växla fridshälsningar, få belöningar för att be i församling, lära oss att älska varandra och ge varandra råd.
 
 Bevisen för att man måste be i församlingen är Allāhs ord:
 

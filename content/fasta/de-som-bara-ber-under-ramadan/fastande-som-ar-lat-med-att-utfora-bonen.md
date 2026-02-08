@@ -2,9 +2,9 @@
 title: Lathet med bönen och fastan
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 245 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Fasta (Sawm)
   - Ramadanbedjare
@@ -23,7 +23,7 @@ Därför är detta inte en fråga att ta lättvindigt på, därför att den som 
 
 Därmed har Allāh förklarat att deras bidrag, även om de har hjälpt andra mycket, inte accepteras från dem på grund av deras otro. Han den Upphöjde säger: "Och *Vi ska se på det som de [tror] sig ha åstadkommit och Vi ska förvandla det till stoft som skingras för all vindar*." [^2] De som fastar utan att be, deras fasta accepteras inte. I stället avvisas den så länge vi säger att de inte är troende, på det vis som Allāhs skrift och Hans sändebuds *sunnah* bevisar.
 
-Därmed är mitt råd till dem att de fruktar Allāh den Allsmäktige och att de är noga med att be. De bör be dem i tid och med församlingen. Om de gör så garanterar jag dem, genom Allāhs makt, att de i deras hjärtan under *ramaḍān* och andra månader kommer att känna ett begär till att be i tid och med församlingen.
+Därmed är mitt råd till dem att de fruktar Allāh den Allsmäktige och att de är noga med att be. De bör be dem i tid och med församlingen. Om de gör så garanterar jag dem, genom Allāhs makt, att de i sina hjärtan under *ramaḍān* och andra månader kommer att känna ett begär till att be i tid och med församlingen.
 
 Detta beror på att om någon vänder sig till Herren genom att komma till Honom och uppriktigt ångra sig inför Honom, då kommer personen att vara bättre efter ångern än före. På detta sätt har Allāh talat om Adam när Han talar om vad som hände när han hade ätit av trädet: "[*Efter en tid] utsåg hans Herre honom att [åter] få erfara Hans nåd och tog emot hans ånger och gav honom vägledning*." [^3]
 

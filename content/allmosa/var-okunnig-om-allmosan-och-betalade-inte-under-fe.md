@@ -1,5 +1,5 @@
 ---
-title: Var okunnig om allmosan och betalade inte under fem år
+title: Kände inte till allmosan och betalade inte under fem år
 author: Ibn ´Abdullāh Ibn Bāz
 source: Majmoo' Fatāwa al-Shaykh Ibn Bāz (14/239)
 categories:

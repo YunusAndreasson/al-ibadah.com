@@ -1,8 +1,8 @@
 ---
-title: Kläder som hänger nedanför anklarna och olika kategorier beträffande detta
+title: Kläder nedanför anklarna och dess kategorier
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 111 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
@@ -36,7 +36,7 @@ Han sammankopplade det inte med stolthet och högmod. Enligt den *ḥadīt̲h* s
 
 > ”Den troendes *izār* är mitten av personens smalben och där finns ingen synd [eller sade han: det finns ingen synd för personen] om den faller någonstans däremellan och ankeln. Och det som faller nedanför är i Elden. På Återuppståndelsens dag kommer Allāh inte att titta på den som med stolthet drar sin *izār* på marken.” [*Aḥmad* 3:5, *Abū Dāwūd* 4093 och *Ibn Mājah* 3573]
 
-Detta har återgivits av Mālik, *Abū Dāwūd*, an-Nasā’i, *Ibn Mājah* och Ibn Hibban i hans *Ṣaḥīḥ* och det har nämnts i *at-Targhib wat-tahib* i kapitlet ”Rekommendation för att bära *qamīṣ*” [Sida 88, vol. 3]
+Detta har återgivits av Mālik, *Abū Dāwūd*, an-Nasā’ī, *Ibn Mājah* och Ibn Hibban i hans *Ṣaḥīḥ* och det har nämnts i *at-Targhib wat-tahib* i kapitlet ”Rekommendation för att bära *qamīṣ*” [Sida 88, vol. 3]
 
 Dessa båda handlingar är olika och så är även straffen för dem. När ett utlåtande och en orsak skiljer sig är det inte möjligt att sammankoppla det ovillkorliga med det villkorliga. Detta skulle kräva en motsägelse.
 
@@ -44,7 +44,7 @@ Om den som citerar *ḥadīt̲h* från Abū Bakr – må Allāh vara nöjd med h
 
 1. Abū Bakr – må Allāh vara nöjd med honom – sade: "*En sida av min izār hänger ned om jag inte tar hand om den*." [*al-Buk̲hārī*] Men Abū Bakr lät inte sin *izār* hänga ned av egen fri vilja. I stället hängde den ned av sig själv och trots detta tog han hand om den.
 
-De som påstår att de inte avser att visa stolthet eller högmod genom att göra så, och då avsiktligen låter deras klädesplagg hänga ned, till dem säger vi: Om du avser att ha plagget nedanför ankeln utan att visa stolthet eller högmod, då kommer du att straffas i Elden för det som hänger nedanför den.
+De som påstår att de inte avser att visa stolthet eller högmod genom att göra så, och då avsiktligen låter sina klädesplagg hänga ned, till dem säger vi: Om du avser att ha plagget nedanför ankeln utan att visa stolthet eller högmod, då kommer du att straffas i Elden för det som hänger nedanför den.
 
 Och om du drog ditt klädesplagg på marken på grund av stolthet och högmod, då kommer du att straffas för något värre än det. Allāh kommer inte att tala till dig på Återuppståndelsens dag, Han kommer inte att titta på dig, Han kommer inte att förlåta dig och du kommer att få ett smärtsamt straff.
 2. Profeten – över honom vare Allāhs frid och välsignelser – förlät Abū Bakr och vittnade om att han inte är en av dem som gör det av stolthet eller högmod. Har någon av dessa fått denna förlåtelse och detta vittnesmål? Djävulen skapar en väg för dem som följer det som är tveksamt i bevisen i Allāhs skrift och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* för att frikänna sig själva för vad de har gjort.

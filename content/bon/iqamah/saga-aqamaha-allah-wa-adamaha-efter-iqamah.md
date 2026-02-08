@@ -14,6 +14,6 @@ description: >-
 
 **Fråga:** Ädla *s̲hayk̲h*, vi hör ibland folk säga ”*Aqāmahā Allāh wa adāmahā*” efter *iqāmah* inför bönen. Är detta tillåtet?
 
-**Svar:** Det har nämnts i en *ḥadīt̲h* ifrån profeten – över honom vare Allāhs frid och välsignelser – att när böneutroparen ropat ut *iqāmah* och sagt ”*qad qāmatis-salāh*” så brukade profeten – över honom vare Allāhs frid och välsignelser – säga just ”*Aqāmahā Allāh wa adāmahā*”. Denna *ḥadīt̲h* är dock svag och därmed inte tillräcklig för att utgöra ett bevis för detta.
+**Svar:** Det har nämnts i en *ḥadīt̲h* ifrån profeten – över honom vare Allāhs frid och välsignelser – att när böneutroparen ropat ut *iqāmah* och sagt ”*qad qāmatis-ṣalāh*” så brukade profeten – över honom vare Allāhs frid och välsignelser – säga just ”*Aqāmahā Allāh wa adāmahā*”. Denna *ḥadīt̲h* är dock svag och därmed inte tillräcklig för att utgöra ett bevis för detta.
 
 

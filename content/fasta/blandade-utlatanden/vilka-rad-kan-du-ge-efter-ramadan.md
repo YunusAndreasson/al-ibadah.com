@@ -3,7 +3,7 @@ title: Råd efter ramaḍān
 author: al-Da’wah magazine
 source: >-
   al-Da’wah magazine, nummer 1774, sida 12 Muhammed Knut Bernström (1421),
-  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Fasta (Sawm)
   - Övrigt
@@ -18,13 +18,13 @@ All lovprisan tillhör Allāh.
 
 Jag undrar om den som fastade fortsatte att vara så som personen var under *ramaḍān*, eller är personen ”likt den som trasslar upp tråden när han har spunnit den” [cf. al-Nahl 16:92]? Jag undrar om den som under *ramaḍān* fastade, reciterade och läste Koranen, gav i välgörenhet, bad om natten och åkallade kommer att vara likadan efter *ramaḍān* eller om personen kommer att följa en annan väg… Jag menar djävulens väg, så att personen syndar och gör saker som förargar den Nådrike, den Barmhärtige?
 
-Om en muslim fortsätter att med tålamod handla rättfärdigt efter *ramaḍān* är detta ett tecken på att Herren har accepterat personens fasta. Misslyckas personen med att handla rättfärdigt efter *ramaḍān* – och följer djävulens väg – är detta ett tecken på förödmjukelse, snålhet, låg status samt att vara berövad på Allāhs hjälp. al-Hasan al-Basri har sagt:
+Om en muslim fortsätter att med tålamod handla rättfärdigt efter *ramaḍān* är detta ett tecken på att Herren har accepterat personens fasta. Misslyckas personen med att handla rättfärdigt efter *ramaḍān* – och följer djävulens väg – är detta ett tecken på förödmjukelse, snålhet, låg status samt att vara berövad på Allāhs hjälp. al-Ḥasan al-Basri har sagt:
 
 > ”De var inte längre av någon betydelse för Allāh, så de syndade. Om de hade spelat någon roll för Honom hade Han skyddat dem.” När någon blir oviktig för Allāh kommer Han inte längre att hedra personen. Allāh säger:
 
 ”Och den som Gud har förnedrat ska ingen hedra. Gud gör som Han vill.” [^3]
 
-Det som är häpnadsväckande är att du under *ramaḍān* kan se människor som fastar och ber under natten, som ger i välgörenhet och dyrkar världarnas Herre, men precis när månaden kommit till sin ända förändras de totalt – och de börjar ha en dålig attityd mot deras Herre. Du ser dem strunta i bönen och undvika rättfärdiga handlingar, begå synder och vara olydiga mot Allāh på många olika sätt.
+Det som är häpnadsväckande är att du under *ramaḍān* kan se människor som fastar och ber under natten, som ger i välgörenhet och dyrkar världarnas Herre, men precis när månaden kommit till sin ända förändras de totalt – och de börjar ha en dålig attityd mot sin Herre. Du ser dem strunta i bönen och undvika rättfärdiga handlingar, begå synder och vara olydiga mot Allāh på många olika sätt.
 
 Vid Allāh – hur hemskt är inte detta när människor enbart vill kännas vid Honom under *ramaḍān*.
 
@@ -86,7 +86,7 @@ Där kommer det att sägas till dig: "Ta emot budskapet om Paradiset utsträckt 
 
 Jag ber Allāh som har välsignat oss med fastan, *i´tikāf*, *´umrah* och välgörenhet att välsigna oss med vägledning, fromhet och acceptans av våra goda handlingar. Må Han hjälpa oss att fortsätta handla gott och att hålla oss stadiga, för vidhållande i goda handlingar är ett av de största medlen för att närma sig Allāh.
 
-En man kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: "*Ge mig råd*." Han svarade: "*Säg: 'Jag tror på Allāh' och håll dig stadig*." [^4] Enligt en rapport återberättad av Ahmad sade han: "*Säg: 'Jag tror på Allāh', håll dig sedan stadig*." [Mannen] sade: "*Allāhs sändebud, alla människor säger det*." Han svarade: "*Några av de som kom före dig sade det, men de höll sig inte stadiga*." Så den troende måste hela tiden vara stadig i sin lydnad av Allāh:
+En man kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: "*Ge mig råd*." Han svarade: "*Säg: 'Jag tror på Allāh' och håll dig stadig*." [^4] Enligt en rapport återberättad av Aḥmad sade han: "*Säg: 'Jag tror på Allāh', håll dig sedan stadig*." [Mannen] sade: "*Allāhs sändebud, alla människor säger det*." Han svarade: "*Några av de som kom före dig sade det, men de höll sig inte stadiga*." Så den troende måste hela tiden vara stadig i sin lydnad av Allāh:
 
 > ”Gud stärker de troende med det ord vars sanning står fast i denna värld och i evigheten; men de orättfärdiga låter Han gå vilse. – Gud gör vad Han vill.” [Koranen 14:27]
 
@@ -96,7 +96,7 @@ Vi bör frukta Allāh och tillämpa detta i handling, tanke och ord. Vi bör str
 
 När *ramaḍān* har gått till ända delas folket i olika grupper. Två av de mest framstående kommer jag att beskriva här.
 
-Den första typen är de som du i dyrkan ser kämpa hårt under *ramaḍān*. Du ser dem aldrig, men de nedfaller, står i bönen, läser Koranen eller gråter så mycket att de påminner om några av *salaf*, och du känner en medkänsla för dem på grund av deras ansträngningar. Men månaden har knappt tagit slut, innan de går tillbaka till försumlighet och synd, som om de vore fångar i denna dyrkan. De riktar deras uppmärksamhet mot deras begär och begår synder som de tror ska få deras nöd och bedrövelse att försvinna. Men dessa stackare glömmer att synder är en orsak till dom, för synder är som krigsskador – en kan visa sig vara dödlig. Hur ofta har inte synd hindrat en människa ifrån att säga "*Lā ilāha illAllāh*" när personen ligger inför döden.
+Den första typen är de som du i dyrkan ser kämpa hårt under *ramaḍān*. Du ser dem aldrig, men de nedfaller, står i bönen, läser Koranen eller gråter så mycket att de påminner om några av *salaf*, och du känner en medkänsla för dem på grund av deras ansträngningar. Men månaden har knappt tagit slut, innan de går tillbaka till försumlighet och synd, som om de vore fångar i denna dyrkan. De riktar sin uppmärksamhet mot sina begär och begår synder som de tror ska få sin nöd och bedrövelse att försvinna. Men dessa stackare glömmer att synder är en orsak till dom, för synder är som krigsskador – en kan visa sig vara dödlig. Hur ofta har inte synd hindrat en människa ifrån att säga "*Lā ilāha illAllāh*" när personen ligger inför döden.
 
 Efter att ha spenderat hela månaden i tro, läsandes Koranen och med annan dyrkan – faller de tillbaka, *lā hawla wa lā quwwata illa Billāh*. Detta är spontant dyrkande som endast erkänner Allāh vid speciella tillfällen eller vid svårigheter, men därpå finns det ingen lydnad eller dyrkan. Detta är en dålig vana.
 
@@ -104,7 +104,7 @@ Efter att ha spenderat hela månaden i tro, läsandes Koranen och med annan dyrk
 
 Jag undrar vad meningen med dyrkan i en hel månad är, om den ska följas av en återgång till detta ohedervärda sätt?
 
-Den andra typen är de som känner sig bedrövade vid *ramadans*[^1] slut, då de smakat sötman i att vara fri ifrån synder och bitterheten av tålamod blev oviktig för dem; därför kom de att inse den sanna naturen i deras svaghet, behovet av deras Herre och behovet av att lyda Honom. De fastade i sann mening och stod av kärlek i bön under nätterna. När de sade farväl till *ramaḍān* rann deras tårar och deras hjärtan brast. De som tyngts med synder hoppas på att frias ifrån dem och få slå följe med den grupp som är accepterad. Fråga dig själv – min bror – vilken av dessa grupper vill du tillhöra?
+Den andra typen är de som känner sig bedrövade vid *ramadans*[^1] slut, då de smakat sötman i att vara fri ifrån synder och bitterheten av tålamod blev oviktig för dem; därför kom de att inse den sanna naturen i sin svaghet, behovet av sin Herre och behovet av att lyda Honom. De fastade i sann mening och stod av kärlek i bön under nätterna. När de sade farväl till *ramaḍān* rann deras tårar och deras hjärtan brast. De som tyngts med synder hoppas på att frias ifrån dem och få slå följe med den grupp som är accepterad. Fråga dig själv – min bror – vilken av dessa grupper vill du tillhöra?
 
 Vid Allāh, är de lika? All lovprisan tillhör Allāh, men de flesta vet inte.
 

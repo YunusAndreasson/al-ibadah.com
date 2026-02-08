@@ -2,7 +2,7 @@
 title: Djävulen skapar förvirring under bönen och vid tvagning
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Fatāwa al-Marah Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn:
+  Fatāwa al-Marah Muhammed Knut Bernström (1421), Koranens budskap. Simrishamn:
   Proprius. ISBN 91-7118-887-8
 categories:
   - Bön (Salāh)

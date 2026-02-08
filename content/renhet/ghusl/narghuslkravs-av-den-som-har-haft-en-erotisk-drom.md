@@ -2,25 +2,25 @@
 title: När g̲husl krävs av den som har haft en erotisk dröm
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 68 s. ISBN saknas
 categories:
   - Renhet (Tahārah)
   - Den stora tvagningen
 original_id: 1429
 description: >-
-  Fråga: En person tror att det som nödvändiggör ghusl för den som haft en
+  Fråga: En person tror att det som nödvändiggör g̲husl för den som haft en
   erotisk dröm är utlösning av sperma när den sovande drömmer om att ha intim
-  samvaro. Han gör enbart ghusl om han upplev...
+  samvaro. Han gör enbart g̲husl om han upplev...
 ---
 
 **Fråga:** En person tror att det som nödvändiggör *g̲husl* för den som haft en erotisk dröm är utlösning av sperma när den sovande drömmer om att ha intim samvaro. Han gör enbart *g̲husl* om han upplever detta när han sover. Så om han får en utlösning då han inte drömmer om intim samvaro under sömnen, då gör han inte *g̲husl*. Han har gjort detta under nästan åtta år, så han frågar om utlåtandet om dessa åtta år?
 
-**Svar:** Det är välkänt att *g̲husl* alltid krävs vid utlösning av sperma på grund av sexuell upphetsning. Detta enligt en återberättelse från Imam Ahmad där ´Alī berättar att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Om du ejakulerar vatten [sperma], gör då ghusl och om du inte ejakulerade, gör då inte ghusl.*" [^1]
+**Svar:** Det är välkänt att *g̲husl* alltid krävs vid utlösning av sperma på grund av sexuell upphetsning. Detta enligt en återberättelse från Imam Aḥmad där ´Alī berättar att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Om du ejakulerar vatten [sperma], gör då g̲husl och om du inte ejakulerade, gör då inte g̲husl.*" [^1]
 
-Enligt en *ḥadīt̲h* från Umm Salamah i *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* sägs det att Umm Sulaim sade: "*Allāhs sändebud! Allāh skäms inte för sanningen, så säg mig, behöver en kvinna göra ghusl om hon har en erotisk dröm?*" Profeten – över honom vare Allāhs frid och välsignelser – sade: "*Ja, om hon ser vätska.*" [^2]
+Enligt en *ḥadīt̲h* från Umm Salamah i *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* sägs det att Umm Sulaim sade: "*Allāhs sändebud! Allāh skäms inte för sanningen, så säg mig, behöver en kvinna göra g̲husl om hon har en erotisk dröm?*" Profeten – över honom vare Allāhs frid och välsignelser – sade: "*Ja, om hon ser vätska.*" [^2]
 
-Skyldigheten att utföra *g̲husl* är inte begränsad till intim samvaro utan det krävs även med anledning av ejakulering utan intim samvaro. Detta grundas på den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*Om du ejakulerar vatten [sperma], gör då ghusl…*" [^3]
+Skyldigheten att utföra *g̲husl* är inte begränsad till intim samvaro utan det krävs även med anledning av ejakulering utan intim samvaro. Detta grundas på den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*Om du ejakulerar vatten [sperma], gör då g̲husl…*" [^3]
 
 Rör könsdelarna varandra under vaket tillstånd, då krävs alltid *g̲husl*. Det spelar ingen roll om ejakulering sker eller inte.
 

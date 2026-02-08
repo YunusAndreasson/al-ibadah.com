@@ -1,15 +1,15 @@
 ---
-title: Kontroll av vilka som inte är närvarande vid nattbönen eller gryningsbönen
+title: Kontrollera frånvaro vid natt- och gryningsbönen
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 338 s. ISBN saknas
 categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 309
 description: >-
-  Fråga: Vi föreläser vid gryningsbönen och nattbönen[^1]. Då kontrollerar vi
+  Fråga: Vi föreläser vid gryningsbönen och nattbönen. Då kontrollerar vi
   vilka som inte är närvarande vid bönen. Har detta återberättats från profeten?
   Jag ber om ett klargörande, med bevis, i den...
 ---

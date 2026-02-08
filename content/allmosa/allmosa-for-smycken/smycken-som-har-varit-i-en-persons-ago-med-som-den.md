@@ -2,7 +2,7 @@
 title: Smycken utan betald allmosa
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 179 s. ISBN saknas
 categories:
   - Allmosa (Zakāh)
@@ -26,6 +26,6 @@ När det gäller de tidigare åren innan hon visste att allmosa var en skyldighe
 
 Den mest korrekta åsikten är dock att det är en skyldighet att betala allmosa för dem om de uppnår den lägsta nivån och om de har varit i någons ägo under ett år. Anledningen återfinns i bevisen i Skriften och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*.
 
-Och Allāh är Givaren av framgång.
+Och Allāh är Den som ger framgång.
 
 

@@ -1,5 +1,5 @@
 ---
-title: Skyldigheten i att vara plikttrogen och god mot sina föräldrar
+title: Skyldigheten att hedra sina föräldrar
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon: Maktaba
@@ -10,7 +10,7 @@ categories:
 original_id: 1690
 description: >-
   Fråga: Ädle shaykh, mina barn lyder mig inte och de utför inte ens de minsta
-  plikterna gentemot mig eller deras moder. Detta trots att hon är gammal och
+  plikterna gentemot mig eller sin moder. Detta trots att hon är gammal och
   har dålig syn. Vänligen, klargör för dem oc...
 ---
 

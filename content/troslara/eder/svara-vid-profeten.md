@@ -2,7 +2,7 @@
 title: Svära vid profeten
 author: Ibn ´Abdullah Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 98 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Somliga har för vana att svära vid profeten – över honom vare Allāhs frid och välsignelser – eller vid någon annan skapelse. Detta har blivit något vanligt och de tänker inte på det. Vilket är utlåtandet om detta?
 
-**Svar:** Att svära vid profeten – över honom vare Allāhs frid och välsignelser – eller någon annan skapad varelse är något mycket ont och det är en förbjuden månggudaaktig handling. Det är inte tillåtet att svära vid någon annan än Allāh. Imam Ibn ´Abdul-Barr har rapporterat att det finns ett konsensus om att det är förbjudet att svära vid någon eller något annan än Allāh. Det har även rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att det är förbjudet och att det är en sorts *s̲hirk*. 
+**Svar:** Att svära vid profeten – över honom vare Allāhs frid och välsignelser – eller någon annan skapad varelse är något mycket ont och det är en förbjuden månggudaaktig handling. Det är inte tillåtet att svära vid någon annan än Allāh. Imam Ibn ´Abdul-Barr har rapporterat att det finns ett konsensus om att det är förbjudet att svära vid någon eller något annan än Allāh. Det har även rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att det är förbjudet och att det är en sorts *s̲hirk*.
 
 I *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* kan vi läsa att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 

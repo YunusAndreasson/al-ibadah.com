@@ -2,7 +2,7 @@
 title: Välgörenhet och Koranen för levande och döda
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 91 s. ISBN saknas
 categories:
   - Allmosa (Zakāh)

@@ -2,7 +2,7 @@
 title: Åkallan vid Koranens slutförande under ramaḍān
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 512 s. ISBN 9960-892-66-2
 categories:
   - Fasta (Sawm)
@@ -20,7 +20,7 @@ description: >-
 
 /…/
 
-Vissa lärde har dock sagt att det är rekommenderat att avsluta recitationen av Koranen med denna åkallan.
+Vissa lärde har dock sagt att det är rebefallt att avsluta recitationen av Koranen med denna åkallan.
 
 Om imamen åkallar så här under den sista delen av natten och han gör det i *qunūt* under *witr*, då skulle det inte finnas någon invändan mot det då *qunūt* är föreskrivet.
 

@@ -2,9 +2,9 @@
 title: Döma med annat än vad Allāh uppenbarat
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 217 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
@@ -73,7 +73,7 @@ Den som inte dömer enligt vad Allāh den Upphöjde har uppenbarat men som helle
 
 Den som inte dömer enligt vad Allāh den Upphöjde har uppenbarat men som heller inte förringar, hånar och tror att något annat är bättre än Allāhs dom, utan enbart dömer enligt detta för att göra den som döms nöjd, eftersom personen har blivit mutad eller något annat, personen är då någon som överträder gränser utan att vara icke-troende. Nivån av personens överträdelse är enligt personens domslut och metoder för att döma.
 
-*s̲hayk̲h ul-islām* Ibn Taymiyyah har sagt att de som tog deras präster och rabbiner till herrar jämsides med Allāh är av två olika typer:
+*s̲hayk̲h ul-islām* Ibn Taymiyyah har sagt att de som tog sina präster och rabbiner till herrar jämsides med Allāh är av två olika typer:
 
 1. De vet att de [prästerna eller rabbinerna] har ändrat Allāhs religion, de lyder dem [prästerna eller rabbinerna] och de tror att när de [prästerna eller rabbinerna] tillåter det som Allāh inte har tillåtit och när de förbjuder det som har tillåtits, att det är lydnad inför deras ledare även om de vet att detta motsäger sig sändebudens religion. Detta är då en otro som Allāh och Hans sändebud har beskrivit som *s̲hirk*.
 

@@ -1,7 +1,7 @@
 ---
 title: Det muslimska samfundets splittring efter profetens bortgång
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
+source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym
  1. Libanon: Makbtaba Dar us-Salam. 38 s. ISBN 9960-892-66-2'
 categories:
   - Troslära (´Aqīdah)
@@ -17,7 +17,7 @@ description: 'Fråga: Profeten – över honom vare Allāhs frid och välsignels
 
 **Svar:** Profeten – över honom vare Allāhs frid och välsignelser – har i en återberättelse, som rapporterats från honom, informerat om att judarna splittrades i 71 grupper, de kristna i 72 och att detta samhälle [det muslimska] kommer att splittras i 73. Han berättade även att dessa grupper kommer att vara i Elden utom en, och det är den som rättar sig efter vad profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare följde.
 
-Denna grupp är den räddade gruppen som i detta liv kommer att räddas från innovationer och i det Nästkommande från Elden. Detta är en grupp som kommer att bli hjälpt tills Timmen börjar; något som är ett redan existerande fenomen genom Allāhs den Allsmäktiges kommendering.
+Denna grupp är den räddade gruppen som i detta liv kommer att räddas från innovationer och i det Nästkommande från Elden. Detta är en grupp som kommer att bli hjälpt tills Timmen börjar; något som är ett redan existerande fenomen genom Allāhs den Allsmäktiges befallning.
 
 Somliga har försökt att räkna upp dessa 73 grupper, där en följer sanningen och där resten följer det som är falskt. De har delat upp innovatörerna i fem kategorier och för varje kategori har de angett grenar för att antalet ska uppnå det som profeten – över honom vare Allāhs frid och välsignelser – har berättat om.
 

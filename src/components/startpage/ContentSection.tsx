@@ -18,7 +18,7 @@ export function ContentSection({ section }: ContentSectionProps) {
         </h2>
         {section.isUpcoming && section.daysUntil !== undefined && (
           <span className="text-xs text-muted-foreground bg-muted px-2 py-0.5 rounded">
-            om ~{section.daysUntil} dagar
+            om ~{section.daysUntil} {section.daysUntil === 1 ? 'dag' : 'dagar'}
           </span>
         )}
       </header>

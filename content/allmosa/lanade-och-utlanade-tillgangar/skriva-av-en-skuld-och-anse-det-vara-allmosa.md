@@ -1,7 +1,7 @@
 ---
-title: Skriva av en skuld och anse det vara allmosa
+title: Skriva av en skuld och räkna det som allmosa
 author: Ibn ´Abdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
  Libanon: Maktaba Dar us-Salam. 186 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)

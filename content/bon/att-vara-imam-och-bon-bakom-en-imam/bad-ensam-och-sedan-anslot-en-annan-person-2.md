@@ -2,7 +2,7 @@
 title: Bad ensam och sedan anslöt en annan person
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 177 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -26,7 +26,7 @@ Det har rapporterats att han bad ensam nattetid i Maimunahs hem [Ibn ‘Abbās m
 
 Dessa båda *aḥādīt̲h* bevisar vad vi har nämnt tidigare. De bevisar också att man bör stå vid imamens högra sida samt att två eller fler bör stå bakom honom.
 
-[^1]: Wudū
+[^1]: Wuḍū’
 
 [^2]: *al-Buk̲hārī* 698 och 699
 [^3]: *Muslim* 3010

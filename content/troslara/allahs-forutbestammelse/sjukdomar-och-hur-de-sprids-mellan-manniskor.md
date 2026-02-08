@@ -2,7 +2,7 @@
 title: Sjukdomar och hur de sprids mellan människor
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 194 s. ISBN 9960-892-66-2
 categories:
   - Troslära (´Aqīdah)
@@ -10,11 +10,11 @@ categories:
 original_id: 1187
 description: >-
   Fråga: Vi ber er att förklara profetens – över honom vare Allāhs frid och
-  välsignelser – ord: ” Det finns varken ‘Adwa, tiyarah, hamah eller safar .” [
+  välsignelser – ord: ” Det finns varken ‘Adwa, tiyarah, hamah eller ṣafar .” [
   al-Bukhārī 5707] Vilken sorts förbud finns ...
 ---
 
-**Fråga:** Vi ber er att förklara profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Det finns varken 'Adwa, tiyarah, hamah eller safar*[^1].” [^2] Vilken sorts förbud finns i denna *ḥadīt̲h* och hur får vi ihop den med denna *ḥadīt̲h*: ”*Fly från spetälska som du skulle fly från lejon*.”? [^3]
+**Fråga:** Vi ber er att förklara profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Det finns varken 'Adwa, tiyarah, hamah eller ṣafar*[^1].” [^2] Vilken sorts förbud finns i denna *ḥadīt̲h* och hur får vi ihop den med denna *ḥadīt̲h*: ”*Fly från spetälska som du skulle fly från lejon*.”? [^3]
 
 **Svar:** *‘Adwa* är när en sjukdom sprids från en sjuk person till en frisk person. Detta gäller både för sjukdomar som har med moral och andlighet att göra och sjukdomar som har med hälsa att göra. Därför har profeten – över honom vare Allāhs frid och välsignelser – informerat oss om att ha följe med en ond person är som att sitta tillsammans med en smed: Antingen bränner du dina kläder, eller kommer du i varje fall att få en dålig lukt från personen. 'Adwa innefattar då både fysiska och andliga sjukdomar.
 
@@ -54,7 +54,7 @@ Han har sagt: ”*Fly från spetälska som du skulle fly från ett lejon*.” [^
 
 I detta finns en bekräftelse för att *'adwa* har en inverkan men dess inverkan är inte något oundvikligt. Den kan då sägas vara en aktiv orsak i sig själv men profeten – över honom vare Allāhs frid och välsignelser – beordrade oss att fly från spetälska och att inte ta en sjuk kamel till en frisk. Detta för att undvika orsakerna, inte på grund av orsakernas inverkan. Allāh den Upphöjde säger: "*Låt inte era egna händer medverka till er undergång*." [^6]
 
-Man bör inte säga att profeten – över honom vare Allāhs frid och välsignelser – förnekade verkan i *'adwa* då detta är något som motbevisas genom andra *aḥādīt̲h* och faktiska bevis. Om det sägs att när profeten – över honom vare Allāhs frid och välsignelser – sade: "*Detta är inte 'adwa*." En man sade: "*Allāhs sändebud! Vad gäller då för mina kameler? De är ute och betar men när en skabbig kamel blandar sig med dem infekteras de alla av skabben*." 
+Man bör inte säga att profeten – över honom vare Allāhs frid och välsignelser – förnekade verkan i *'adwa* då detta är något som motbevisas genom andra *aḥādīt̲h* och faktiska bevis. Om det sägs att när profeten – över honom vare Allāhs frid och välsignelser – sade: "*Detta är inte 'adwa*." En man sade: "*Allāhs sändebud! Vad gäller då för mina kameler? De är ute och betar men när en skabbig kamel blandar sig med dem infekteras de alla av skabben*."
 
 Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Vem gav då sjukdomen [skabben] till den första?*"
 
@@ -70,7 +70,7 @@ Denna metod för att göra *aḥādīt̲h* förenliga är den bästa som har lag
 
 En upphävning betyder å andra sidan att man ogiltigör ett av dem. Att tillämpa båda är bättre än att ogiltigöra ett av dem. På detta sätt accepterar vi båda och anser dem vara bevis.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 [^1]: Den andra månaden på det islamiska året.
 

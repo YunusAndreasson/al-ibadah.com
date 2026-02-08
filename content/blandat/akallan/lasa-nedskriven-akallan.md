@@ -2,7 +2,7 @@
 title: Läsa nedskriven åkallan
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 7.
   Libanon: Maktaba Dar us-Salam. 282 s. ISBN saknas
 categories:
   - Blandat

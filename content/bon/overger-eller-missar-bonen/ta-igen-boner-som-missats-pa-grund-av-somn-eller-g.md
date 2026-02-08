@@ -2,7 +2,7 @@
 title: Ta igen böner som missats på grund av sömn eller glömska
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 436 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
@@ -34,6 +34,6 @@ Att ta igen bönerna hamnar då i tre kategorier:
 2. Den som tas igen genom något annat. Det är fredagsbönen. Missar man den tar man igen den genom att be middagsbönen.
 3. Den som tas igen genom samma bön men vid samma tid under efterföljande dag. Detta är *´eid*-bönen. Om den inte bes före solen når himlens mitt bes den vid samma tid dagen efter.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 

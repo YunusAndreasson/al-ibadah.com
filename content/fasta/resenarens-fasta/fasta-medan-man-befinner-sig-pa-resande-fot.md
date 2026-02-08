@@ -2,7 +2,7 @@
 title: Fasta medan man befinner sig på resande fot
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 292 s. ISBN saknas
 categories:
   - Fasta (Sawm)
@@ -22,7 +22,7 @@ Detta beror på att profeten – över honom vare Allāhs frid och välsignelser
 
 Den som fastar syndar inte om fastan inte är svår för personen. Om fastan är svår är det ogillat att personen fastar.
 
-Och Allāh är Givaren av framgång.
+Och Allāh är Den som ger framgång.
 
 
 [^1]: *al-Buk̲hārī* 1946

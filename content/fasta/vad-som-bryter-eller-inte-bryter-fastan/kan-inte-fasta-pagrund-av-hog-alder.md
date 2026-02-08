@@ -2,9 +2,9 @@
 title: Kan inte fasta på grund av hög ålder
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 283 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Fasta (Sawm)
   - Fastebrytare
@@ -25,7 +25,7 @@ Ibn ‘Abbās har sagt:
 
 > ”Detta har uppenbarats som en medgivelse för en mycket gammal man och en mycket gammal kvinna som inte kan fasta. I stället föder de därmed en fattig för varje dag.”
 
-Detta har al-Bukhārī återgivit.
+Detta har al-Buk̲hārī återgivit.
 
 Således måste din mor föda en fattig för varje dag. Mängden [som hon ger den fattige] är en halv *ṣā´* av den mat som är vanlig i landet. Om hon inte har mat själv krävs inget från henne. Vill du ge mat för hennes räkning är det en god välgörenhet. Allāh älskar dem som gör gott.
 

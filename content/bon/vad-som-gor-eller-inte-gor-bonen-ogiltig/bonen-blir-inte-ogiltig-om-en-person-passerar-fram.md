@@ -2,7 +2,7 @@
 title: Bönen blir inte ogiltig om en person passerar framför en
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 158 s. ISBN saknas
 categories:
   - Bön (Salāh)

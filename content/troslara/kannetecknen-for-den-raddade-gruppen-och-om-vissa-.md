@@ -2,9 +2,9 @@
 title: Kännetecknen för den räddade gruppen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 39 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
 original_id: 1069
@@ -22,7 +22,7 @@ I trosprinciper finner man att de håller fast vid det som bevisas genom Allāhs
 
 I dyrkan finner vi att denna grupp särskiljer sig genom sitt fullständiga följande av vad profeten – över honom vare Allāhs frid och välsignelser – gjorde i alla former av dyrkan: form, antal, tidpunkt, plats och syfte. Det går inte att finna att de för in något i Allāhs religion. I stället uppträder de på bästa sätt mot Allāh och Hans sändebud och de dyrkar enbart på det sätt som Allāh har tillåtit.
 
-I karaktär finner vi också att de utmärker sig från andra genom deras finna sätt, som i deras kärlek till det som är bra för muslimer, öppenhjärtighet, glada leenden, fina sätt att tala på, generositet, mod och andra ädla karaktärsdrag.
+I karaktär finner vi också att de utmärker sig från andra genom sina fina sätt, som i sin kärlek till det som är bra för muslimer, öppenhjärtighet, glada leenden, fina sätt att tala på, generositet, mod och andra ädla karaktärsdrag.
 
 I uppförande finner vi dem behandla människor med ärlighet och öppenhet. Dessa både särdrag har profeten – över honom vare Allāhs frid och välsignelser – talat om när han sade:
 
@@ -50,7 +50,7 @@ De anser att då deras broder, om brodern inte håller med om något och följer
 
 De meningsskiljaktigheter som uppstod mellan profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – i frågor som dessa, det känner många av de lärde väl till. Detta inträffade även under profetens – över honom vare Allāhs frid och välsignelser – tid men han tillrättavisade dem inte på grund av det.
 
-När han [Profeten] återvände från slaget vid al-Ahzab befallde [ängeln] Gabriel honom att attackera Banu Quraizah som hade brutit ett avtal. Profeten – över honom vare Allāhs frid och välsignelser – kommenderade följeslagarna genom att säga: ”*Ingen bör be eftermiddagsbönen utom vid Banu Quraizah*.” [^1] De begav sig då från Medina och det blev tid för eftermiddagsbönen. Vissa sköt upp eftermiddagsbönen tills de nådde Banu Quraizah och då hade bönens tid hunnit gå ut. De gjorde så för att profeten – över honom vare Allāhs frid och välsignelser – hade sagt: "*Ingen bör be eftermiddagsbönen utom vid Banu Quraizah*."
+När han [Profeten] återvände från slaget vid al-Ahzab befallde [ängeln] Gabriel honom att attackera Banu Quraizah som hade brutit ett avtal. Profeten – över honom vare Allāhs frid och välsignelser – befallde följeslagarna genom att säga: ”*Ingen bör be eftermiddagsbönen utom vid Banu Quraizah*.” [^1] De begav sig då från Medina och det blev tid för eftermiddagsbönen. Vissa sköt upp eftermiddagsbönen tills de nådde Banu Quraizah och då hade bönens tid hunnit gå ut. De gjorde så för att profeten – över honom vare Allāhs frid och välsignelser – hade sagt: "*Ingen bör be eftermiddagsbönen utom vid Banu Quraizah*."
 
 Några andra av dem bad vid den angivna tiden och de sade: ”*Profeten ville att vi skulle bege oss av tidigt mot Banu Quraizah och han ville inte att vi skulle skjuta upp bönen över den angivna tiden*.” De [den sista gruppen hade] rätt men trots detta tillrättavisade profeten – över honom vare Allāhs frid och välsignelser – ingen av de båda grupperna. Ingen av de båda grupperna hyste heller någon fiendskap eller illvilja mot varandra på grund av deras olika förstålelser av vad han hade sagt.
 

@@ -3,7 +3,7 @@ title: Rör sig under bönen
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Fatāwa ‘Ulama’ al-Balad al-Harām, 162-164 Muhammed Knut Bernström (1421),
-  Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Bön (Salāh)
   - Övrigt
@@ -22,7 +22,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – sade till den s
 
 > ”När du står upp för att be, tvaga dig så noggrant, vänd dig sedan mot *qiblah* och säg takbīr[^1], och recitera vad du än kan ur Koranen. Buga sedan tills du känner lugn i bugningen. Res sedan ditt huvud tills du står upp rakt. Nedfall därefter tills du känner lugn i din nedfallan. Sätt dig därpå upp tills du sitter upp rakt och känner lugn i ditt sittande. Nedfall därnäst tills du känner lugn i ditt nedfallande. Gå sedan upp tills du står upp rakt. Gör detta därefter genomgående i din bön.” [*Muslim* och *al-Buk̲hārī*]
 
-Enligt en version återberättad av *Abū Dāwūd* sade han: ”*Recitera sedan Koranens essens [*al-Fātihah*] och vadhelst Allāh vill*.”
+Enligt en version återberättad av *Abū Dāwūd* sade han: ”*Recitera sedan Koranens essens [*al-Fātiḥah*] och vadhelst Allāh vill*.”
 
 Denna *ḥadīt̲h*, som är *Ṣaḥīḥ*, påvisar att det är en pelare eller väsentlig del av bönen att vara lugn vid nedfallandet, och en viktig skyldighet som bönen inte är giltig utan. Den som håller på och plockar under bönen har ingen bön. *Kushū’* är bönens essens. Det är föreskrivet att den troende lägger vikt vid detta och kämpar för att uppnå det.
 
@@ -34,7 +34,7 @@ Beviset för att små rörelser, eller upprepade rörelser som inte är i en fö
 
 I en *ḥadīt̲h* från Abū Qatādah bevisas att profeten – över honom vare Allāhs frid och välsignelser – ledde folket i bön en dag när han bar Umāmah, Zaynabs dotter. När han nedföll satte han ned henne och när han reste sig tog han upp henne.
 
-[^1]: Att säga Allahu Akbar.
+[^1]: Att säga Allāhu akbar.
 
 [^2]: Koranen 23:1 – 2
-[^3]: *Abū Dāwūd* 922, *al-Nasā’i* 601 och klassad som *Ṣaḥīḥ* av shaykh al-Albāni i *Sahīh at-Tirmithi*, 601
+[^3]: *Abū Dāwūd* 922, *al-Nasā’i* 601 och klassad som *Ṣaḥīḥ* av s̲hayk̲h al-Albāni i *Sahīh at-Tirmithi*, 601

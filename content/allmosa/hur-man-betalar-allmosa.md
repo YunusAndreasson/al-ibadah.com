@@ -1,9 +1,9 @@
 ---
 title: Hur man betalar allmosa
 author: al-Ladjnah ad-Dā'imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
  Libanon: Maktaba Dar us-Salam. 163 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+ Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Allmosa (Zakāh)
 original_id: 610
@@ -28,5 +28,5 @@ Det som överskrider det som var obligatoriskt för honom av den allmosa som han
 
 > ”Och [minns att] er Herre tillkännagav [för er]: ’Om ni visar tacksamhet ska Jag ge er större [belöning], men om ni visar otacksamhet ska Jag sannerligen ge er ett strängt straff!” [Koranen 14:7]
 
-Och Allāh är givaren av framgång.
+Och Allāh är Den som ger framgång.
 

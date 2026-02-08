@@ -2,7 +2,7 @@
 title: Resa till Mecka utan avsikt för vallfärd
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 82 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Den som lämnar Riyadh [eller någon annan plats] för att resa till Mecka, men avsikten inte var att utföra vallfärden eller *´umrah*, utan personen endast avsåg att göra något annat [som affärer, besöka någon släkting eller något liknande] och när personen kommer fram till Mecka bestämmer personen sig för att vallfärda, då bör personen träda in i *iḥrām* där personen befann sig. Om personen befann sig i Jiddah, då träder personen in i *iḥrām* i Jiddah och om han befinner sig i Mecka, då träder personen in i *iḥrām* i Mecka.
 
-Den plats där någon bestämmer sig för att utföra vallfärden eller *´umrah*, medan personen befinner sig på platsen, då träder personen in *iḥrām* för vallfärden eller *´umrah* när personen befinner sig där. Detta gäller om personen befinner sig inom [gränserna för] *mawāqīt*. Det finns inget skadligt i detta då personens *mīqāt* är platsen varifrån personen avser att vallfärda. Anledningen är att profeten, då han utsåg platserna för *mawāqīt*, sade: "*Den som är närmare [Mecka] än så, då är personens plats för *ihrām* där personen började. Även invånarna i Mecka går in i *ihrām* i Mecka*." [^1]
+Den plats där någon bestämmer sig för att utföra vallfärden eller *´umrah*, medan personen befinner sig på platsen, då träder personen in *iḥrām* för vallfärden eller *´umrah* när personen befinner sig där. Detta gäller om personen befinner sig inom [gränserna för] *mawāqīt*. Det finns inget skadligt i detta då personens *mīqāt* är platsen varifrån personen avser att vallfärda. Anledningen är att profeten, då han utsåg platserna för *mawāqīt*, sade: "*Den som är närmare [Mecka] än så, då är personens plats för *iḥrām* där personen började. Även invånarna i Mecka går in i *iḥrām* i Mecka*." [^1]
 
 
 [^1]: *al-Buk̲hārī* 1530 och *Muslim* 1181

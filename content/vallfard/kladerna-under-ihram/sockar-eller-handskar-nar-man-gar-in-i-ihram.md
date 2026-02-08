@@ -2,7 +2,7 @@
 title: Sockar eller handskar när man går in i iḥrām
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 130 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
@@ -22,7 +22,7 @@ När det gäller en kvinna är det inga problem om hon bär lädersockar under *
 
 När det gäller handskar så får varken en man eller kvinna bära dem i *iḥrām*. Anledningen är profetens – över honom vare Allāhs frid och välsignelser – uttalande om kvinnan i *iḥrām*: "*Kvinnan bör inte bära ansiktsslöja, ej heller bör hon bära två handskar*." [^4]
 
-Detta har al-Bukhārī återgivit i sin *Ṣaḥīḥ*. Om detta är förbjudet för kvinnan, då är det än mer förbjudet för män. Därför sade profeten – över honom vare Allāhs frid och välsignelser – om en man som avled under *iḥrām*: "*Tvätta honom med vatten och sidr*[^1], *och svep honom i hans båda plagg. Lägg inte hunut på honom och täck inte hans huvud eller ansikte. För sannerligen, han kommer att uppresas på Återuppståndelsens Dag och säga talbiyyah.*"[^2] [^5] Äktheten i denna *ḥadīt̲h* är man enig om och dess ordföljd kommer från Muslim. *Hunut* [i denna *ḥadīt̲h*] avser parfym.
+Detta har al-Buk̲hārī återgivit i sin *Ṣaḥīḥ*. Om detta är förbjudet för kvinnan, då är det än mer förbjudet för män. Därför sade profeten – över honom vare Allāhs frid och välsignelser – om en man som avled under *iḥrām*: "*Tvätta honom med vatten och sidr*[^1], *och svep honom i hans båda plagg. Lägg inte hunut på honom och täck inte hans huvud eller ansikte. För sannerligen, han kommer att uppresas på Återuppståndelsens Dag och säga talbiyyah.*"[^2] [^5] Äktheten i denna *ḥadīt̲h* är man enig om och dess ordföljd kommer från Muslim. *Hunut* [i denna *ḥadīt̲h*] avser parfym.
 
 Kvinnan måste täcka sitt ansikte med en sjal eller något liknande [i stället för ansiktsslöja] under *iḥrām* när hon är tillsammans med män. Anledningen är vad som har rapporterats från 'A'ishah – må Allāh vara nöjd med henne – då hon sagt: "*Ryttare brukade passera förbi oss när vi var med Allāhs sändebud. När de kom till oss sänkte vi våra Jilbāb från huvudet [ned] över ansiktet. När de hade passerat oss avtäckte vi det [ansiktet]*." [^6]
 

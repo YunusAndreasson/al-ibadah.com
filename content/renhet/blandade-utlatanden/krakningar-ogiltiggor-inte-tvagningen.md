@@ -26,5 +26,5 @@ Vidare motsägs detta av en annan *ḥadīt̲h* – även om också den är svag
 
 Detta är den korrekta åsikten, att det som kommer ut från kroppen inte gör tvagningen ogiltig även om det är mycket och oavsett om det är spyor, saliv, blod, var eller någonting annat såvida det inte är urin eller avföring. Om en öppning görs i kroppen för att släppa ut detta, då blir tvagningen ogiltig när det kommer ut från den öppningen.
 
-[^1]: Wudū
+[^1]: Wuḍū’
 

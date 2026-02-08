@@ -1,5 +1,5 @@
 ---
-title: Minska skäggets längd genom att trimma det
+title: Trimma skägget
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon: Maktaba

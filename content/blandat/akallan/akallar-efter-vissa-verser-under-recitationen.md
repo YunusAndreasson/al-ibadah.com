@@ -2,15 +2,15 @@
 title: Åkallar efter vissa verser under recitationen
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 256 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Blandat
   - Åkallan
 original_id: 264
 description: >-
-  Fråga: Jag har hört att somliga avbryter deras koranrecitation under bönen för
+  Fråga: Jag har hört att somliga avbryter sin koranrecitation under bönen för
   att åkalla på passande sätt. De säger [när Paradiset nämns]: ”Allāh! Jag ber
   Dig om Paradiset” och när Helvetet nämns...
 ---

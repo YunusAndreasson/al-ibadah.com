@@ -7,7 +7,7 @@ categories:
   - Eid-bönen
 original_id: 1590
 description: >-
-  Fråga: Är ‘eid -bönen obligatorisk för kvinnor? Ber de den hemma eller på
+  Fråga: Är ´eid -bönen obligatorisk för kvinnor? Ber de den hemma eller på
   böneplatsen om den då är obligatorisk? Svar: All lovprisan tillhör Allāh. Den
   är inte obligatorisk för kvinnor utan ...
 ---
@@ -16,7 +16,7 @@ description: >-
 
 **Svar:** All lovprisan tillhör Allāh. Den är inte obligatorisk för kvinnor utan *sunnah*. Kvinnor bör be denna bön tillsammans med muslimerna vid böneplatsen. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har påbjudit dem detta.
 
-I bland annat *Muslim* och al-Bukhārī har det berättats att Umm ‘Atiyah – må Allāh vara nöjd med henne – har sagt: ”*Vi kommenderades att till ‘eid-bönerna ta ut: unga kvinnor som precis mognat och kvinnor i undanskymdhet. Han kommenderade likaså kvinnorna med månadsblödning att inte närvara vid böneplatsen*.” Återberättad av al-Bukhārī [1:93] och *Muslim* [890]
+I bland annat *Muslim* och al-Buk̲hārī har det berättats att Umm ‘Atiyah – må Allāh vara nöjd med henne – har sagt: ”*Vi befalldes att till ´eid-bönerna ta ut: unga kvinnor som precis mognat och kvinnor i undanskymdhet. Han befallde likaså kvinnorna med månadsblödning att inte närvara vid böneplatsen*.” Återberättad av al-Buk̲hārī [1:93] och *Muslim* [890]
 
 Enligt en rapport from *at-Tirmid̲hī*:
 
@@ -28,7 +28,7 @@ Enligt en annan rapport återberättad av al-Nasā’i har Hafsah bin Sirīn sag
 
 > ”Må min fader offras för honom.” Jag sade: ”Hörde du Allāhs sändebud – må Allāhs frid och välsignelser vara över honom – säga si och så”, och hon svarade, ”Ja, må min fader offras för honom, och han sade, ’Låt kvinnorna som just blivit mogna, de som lever i undanskymdhet och de med månadsblödning komma ut och närvara vid *´eid*-bönen och bevittna när muslimerna samlas men låt kvinnorna med månadsblödning undvika böneplatsen.’”
 
-Återberättad av al-Bukhārī [1:84]
+Återberättad av al-Buk̲hārī [1:84]
 
 Grundat på detta är det tydligt att det är en bekräftad *sunnah* att kvinnorna går ut till och närvar vid *´eid*-bönen. Detta sker dock under villkor att de inte går ut obeslöjade och visar sig på ett oanständigt sätt. Detta lär vi oss från bevisen.
 

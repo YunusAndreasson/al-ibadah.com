@@ -2,9 +2,9 @@
 title: Straffet i graven – om det har bekräftats
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 166 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Gravlivet
@@ -23,7 +23,7 @@ Ett entydigt bevis från profetens – över honom vare Allāhs frid och välsig
 
 Koranens uppenbara innebörd återfinner vi i Allāhs ord om Faraos folk: ”*Morgon och afton för de fram till Elden, och den Dag då den Yttersta stunden är här [ska änglarna säga:] ’För i Faraos anhang [och låt dem utstå] de strängast av alla straff!’*” [^2] Det råder inga tvivel om att när de visades Elden var det inte bara för att de skulle se dem utan även för att de skulle straffas genom den. Allāh den Upphöjde säger: ”*Om du kunde se de orättfärdiga när de ligger för döden och änglarna sträcker ut händerna [mot dem och ropar]: ’Låt själen fara!*” [^3]
 
-Allāh är störst! De snålar med deras själar och de vill inte lämna deras kroppar: ”*I dag ska ni få lida ett förnedrande straff för de lögner ni yttrade om Gud och för att ni av högmod vägrade att lyssna på Hans budskap*.” [^4] Han sade: ”I dag” som avser rådande tid, och det är under dagen som de avled.
+Allāh är störst! De snålar med sina själar och de vill inte lämna sina kroppar: ”*I dag ska ni få lida ett förnedrande straff för de lögner ni yttrade om Gud och för att ni av högmod vägrade att lyssna på Hans budskap*.” [^4] Han sade: ”I dag” som avser rådande tid, och det är under dagen som de avled.
 
 ”*I dag ska ni få lida ett förnedrande straff för de lögner ni yttrade om Gud och för att ni av högmod vägrade att lyssna på Hans budskap*.” [^5]
 

@@ -2,15 +2,15 @@
 title: Gudsdyrkan som förenas med riyā’
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 237 s. ISBN 9960-892-66-2
 categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
 original_id: 1192
 description: >-
-  Fråga: Vilket är utlåtandet om dyrkan som också innehåller riya' ? Svar:
-  Utlåtandet om dyrkan som också innehåller riya' är att den delas i tre olika
+  Fråga: Vilket är utlåtandet om dyrkan som också innehåller riyā’ ? Svar:
+  Utlåtandet om dyrkan som också innehåller riyā’ är att den delas i tre olika
   kategorier: Det huvudsakliga motivet...
 ---
 
@@ -26,7 +26,7 @@ Man dyrkar men har samtidigt också ett annat motiv. Detta innebär att ens avsi
 2. Det andra fallet. Början av dyrkan är sammanlänkad med slutet. I detta fall gäller två kategorier: 1) Personen kämpar emot *riyā’*. Han gillar den inte utan i stället motsäger sig och hatar han den. I detta fall har *riyā’* ingen inverkan. Profeten – över honom vare Allāhs frid och välsignelser – har ju sagt: ”*Allāh har förlåtit de som följer mig, [för] de onda tankar som finns i deras sinnen så länge sådana tankar inte sätts i verket eller uttalas*.” [^2] 2. Personen trivs med denna *riyā’* och han kämpar inte emot den. I detta fall är hela hans dyrkan ogiltig då början av den är sammanlänkad med slutet. Ett exempel på detta skulle vara om han börjar sin bön med avsikten att den ska vara enbart och uppriktigt för Allāhs skull. Sedan drabbas han av *riyā’* i den andra bönecykeln. Då blir hela bönen ogiltig då den första delen av den är sammanlänkad med den sista.
 3. Det tredje fallet. *riyā’* inträffar när dyrkan har utförts. Dyrkan blir då vare sig ogiltig eller ens påverkad. Detta beror på att den var fullständigt korrekt och den skadas då inte av den *riyā’* som inträffat efteråt.
 
-Det är inte *riyā’* om man gläder sig över att andra känner till ens dyrkan när detta enbart inträffar när man är färdig. Det är inte riya' om man är glad över att ha handlat på ett lydigt sätt. Det är ju ett bevis för ens tro. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som är glad över sina goda handlingar och ledsen över sina synder, personen är en troende*.” [^3] 
+Det är inte *riyā’* om man gläder sig över att andra känner till ens dyrkan när detta enbart inträffar när man är färdig. Det är inte riyā’ om man är glad över att ha handlat på ett lydigt sätt. Det är ju ett bevis för ens tro. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som är glad över sina goda handlingar och ledsen över sina synder, personen är en troende*.” [^3]
 
 Profeten – över honom vare Allāhs frid och välsignelser – tillfrågades om detta och han sade: ”*Det är glada budskap för en troende [i denna världen]*.” [^4]
 

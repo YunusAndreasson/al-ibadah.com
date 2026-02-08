@@ -1,8 +1,8 @@
 ---
-title: Saker som människor säger av misstag
+title: Felaktiga uttryck som folk säger
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 208 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)

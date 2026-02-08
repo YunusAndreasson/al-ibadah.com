@@ -1,7 +1,7 @@
 ---
 title: Kvinnor som ber i församling
 author: Ibn ´Abdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
  Libanon: Maktaba Dar us-Salam. 349 s. ISBN saknas'
 categories:
   - Bön (Salāh)

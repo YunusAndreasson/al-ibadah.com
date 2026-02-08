@@ -2,7 +2,7 @@
 title: Badar mycket under fastan
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 269 s. ISBN saknas
 categories:
   - Fasta (Sawm)

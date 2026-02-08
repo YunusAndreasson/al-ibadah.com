@@ -2,21 +2,21 @@
 title: Ṭawāful-ifāḍah före stening eller ´Arafāt
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 186 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - Arafat
+  - ´Arafāt
 original_id: 1554
 description: >-
   Fråga: Är det tillåtet att utföra ṭawāful-ifāḍah och sa'ī innan man kastar
-  stenarna på den stora pelaren, al-´Aqabah, eller innan man stått vid Arafat?
+  stenarna på den stora pelaren, al-´Aqabah, eller innan man stått vid ´Arafāt?
   Vänligen, hjälp oss med ett svar. Sv...
 ---
 
 **Fråga:** Är det tillåtet att utföra *ṭawāf ul-ifāḍah* och *sa´ī* innan man kastar stenarna på den stora pelaren, al-´Aqabah, eller innan man stått vid *´Arafāt*? Vänligen, hjälp oss med ett svar.
 
-**Svar:** Det är tillåtet att utföra *ṭawāf* och *sa´ī* för vallfärden innan man har kastat stenarna på pelarna, men *ṭawāf* för vallfärden får man inte utföra före *´Arafāt* eller före midnatt under natten före offerdagen. Om man åker från [Arafat[^2]] och lämnar *Muzdalifah* under natten före *´eid*, då är det tillåtet att utföra *ṭawāf* och *sa´ī* under den sista halvan av natten före offerdagen och under offerdagen innan stenarna kastas. En man sade till profeten: "*Jag utförde ṭawāf ul-ifāḍah innan steningen*." Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Inga problem*." [^3]
+**Svar:** Det är tillåtet att utföra *ṭawāf* och *sa´ī* för vallfärden innan man har kastat stenarna på pelarna, men *ṭawāf* för vallfärden får man inte utföra före *´Arafāt* eller före midnatt under natten före offerdagen. Om man åker från [´Arafāt[^2]] och lämnar *Muzdalifah* under natten före *´eid*, då är det tillåtet att utföra *ṭawāf* och *sa´ī* under den sista halvan av natten före offerdagen och under offerdagen innan stenarna kastas. En man sade till profeten: "*Jag utförde ṭawāf ul-ifāḍah innan steningen*." Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Inga problem*." [^3]
 
 När man lämnar *Muzdalifah* under *´eid*-dagens morgon eller under nattens slut, som kvinnor och andra likt dem, då är det tillåtet att de börjar med *ṭawāf*. Detta kan vara för att kvinnan inte ska få sin månadsblödning [innan hon utför *ṭawāf*] och på samma sätt kan en svag man börja med *ṭawāf* och sedan kasta stenarna. Det är inga problem.
 

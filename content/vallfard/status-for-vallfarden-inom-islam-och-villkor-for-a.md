@@ -29,7 +29,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*All
 
 Den som förnekar att den är en skyldighet och som lever tillsammans med muslimer – är en icke-troende.
 
-Den som på grund av försummelse inte lyckas med att utföra den är i stor fara. Några av de lärda har sagt att personen är en icke-troende. Denna åsikt har berättats i en rapport från Ahmad, men den korrekta ståndpunkten är att utelämnandet av en handling inte gör någon till en icke-troende, utom när det gäller bönen.
+Den som på grund av försummelse inte lyckas med att utföra den är i stor fara. Några av de lärda har sagt att personen är en icke-troende. Denna åsikt har berättats i en rapport från Aḥmad, men den korrekta ståndpunkten är att utelämnandet av en handling inte gör någon till en icke-troende, utom när det gäller bönen.
 
 'Abd-Allāh ibn Shaqīq – som var en av *tābi´īn* – har sagt: "*Allāhs sändebuds följeslagare ansåg inte att utelämnandet av någon handling utgör otro utom bönen*." Den som har struntat i att vallfärda innan personen dör är inte en icke-troende enligt den korrekta åsikten, men personen är i stor fara.
 

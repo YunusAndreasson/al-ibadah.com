@@ -2,9 +2,9 @@
 title: as-Sadah som skadar sig med dolkar och utövar magi
 author: Ibn ´Abdullah Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 159 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Siare och trollkarlar
@@ -33,7 +33,7 @@ Och i en annan version:
 
 När det gäller deras åkallan till andra än Allāh när de söker hjälp från andra än Honom och påstår att deras fäder och förfäder styr skapelsens ordning eller att de kan bota den sjuke eller besvara åkallan [även om de är döda eller frånvarande] är att inte tro på Allāh den Allsmäktige. Detta är vad månggudadyrkare[^3] brukar göra. Det är obligatoriskt att avvisa, undvika och inte fråga dem om någonting eller att tro på dem.
 
-Detta beror på att de genom deras handlingar gör det som spåmän och siare gör. Likaså är deras handlingar månggudaaktiga när de dyrkar andra än Allāh och söker hjälp från andra än Honom [som *jinn* och människor som har gått bort].
+Detta beror på att de genom sina handlingar gör det som spåmän och siare gör. Likaså är deras handlingar månggudaaktiga när de dyrkar andra än Allāh och söker hjälp från andra än Honom [som *jinn* och människor som har gått bort].
 
 Detta är magi, spådom och förutsägelse. De rena islamiska lagen avvisar detta. När det gäller deras onda handlingar – som att skada sig med dolkar eller att klippa tungorna – då är detta olika trick som de utövar inför folket, något som det varnas för i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Ingen rationellt tänkande person bör låta sig luras av detta. Det är vad Allāh den Allsmäktige pekar på när Han talar om Faraos magiker:
 

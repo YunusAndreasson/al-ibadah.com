@@ -2,7 +2,7 @@
 title: Tarāwīḥ-bönen är sunnah och inte obligatorisk
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 315 s. ISBN saknas
 categories:
   - Fasta (Sawm)

@@ -1,8 +1,8 @@
 ---
-title: Börjar be med imamen i nedfallan och man då ska vänta på att han reser sig upp
+title: Ansluter till bönen under nedfallan
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 2.
   Libanon: Makbtaba Dar us-Salam. 533 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)

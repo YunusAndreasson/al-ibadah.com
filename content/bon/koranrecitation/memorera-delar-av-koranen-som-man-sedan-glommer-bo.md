@@ -20,7 +20,7 @@ description: >-
 
 I en autentisk *ḥadīt̲h* när Allāhs sändebud – över honom vare Allāhs frid och välsignelser – hörde en man recitera Koranen sade han: ”*Må Allāh vara en viss person nådig, för han har påmint mig om en vers som jag låtits glömma*.” [^1] Att glömma är naturligt för människor. Profeten – över honom vare Allāhs frid och välsignelser – har även sagt: ”*Sannerligen är jag enbart en människa som ni: Jag glömmer som ni glömmer*.” [^2]
 
-Det som verkligen är märkligt är att vissa fruktar Allāh till sådan grad att de bedras av deras egna nycker. Någon kan tänkas säga: "Jag kommer inte att memorera något från Koranen för jag är rädd att jag kommer att glömma det." En sådan person förhindrar sig själv från gott genom att använda ett resonemang som inte bygger på fakta.
+Det som verkligen är märkligt är att vissa fruktar Allāh till sådan grad att de bedras av sina egna nycker. Någon kan tänkas säga: "Jag kommer inte att memorera något från Koranen för jag är rädd att jag kommer att glömma det." En sådan person förhindrar sig själv från gott genom att använda ett resonemang som inte bygger på fakta.
 
 Därför säger vi till dig: Memorera Allāhs skrift och revidera din recitation så mycket som du kan för Allāhs sändebud – över honom vare Allāhs frid och välsignelser – sade efter att ha beordrat oss att underhålla det som vi har memorerat: "*Sannerligen, den [det vill säga. Koranen] flyr snabbare än en kamel från dess tjudra*." [^3]
 

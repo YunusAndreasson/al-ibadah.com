@@ -2,9 +2,9 @@
 title: Landstycken för försäljning
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 167 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Allmosa (Zakāh)
   - Handelsvaror och fastigheter
@@ -21,7 +21,7 @@ description: >-
 
 > ”Tag då emot något av dem som offergåva [Muḥammad]; så renar du dem [från synd] och hjälper dem att växa [i rättfärdighet].” [Koranen 9:103]
 
-*Abū Dāwūd* har med en god berättarkedja återgivit från Samurah bin Jundub att han har sagt: ”Allāhs sändebud har kommenderat oss att ge till välgörenhet för allt som vi hade till försäljning.”
+*Abū Dāwūd* har med en god berättarkedja återgivit från Samurah bin Jundub att han har sagt: ”Allāhs sändebud har befallt oss att ge till välgörenhet för allt som vi hade till försäljning.”
 
 Majoriteten av de lärde har dömt enligt detta och detta är sanningen.
 

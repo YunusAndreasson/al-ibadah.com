@@ -2,7 +2,7 @@
 title: De fyra imamerna beordrade inte någon att följa dem
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 374 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
@@ -18,7 +18,7 @@ description: >-
 
 Får en muslim följa en rättsskola och sedan ta åsikter från en annan skola, med vetskap om att personen har god kunskap om islamisk rättsvetenskap?
 
-**Svar:** Det råder inga tvivel om att en muslim avser att finna sanningen och handla efter den när han finner den. De fyra imamerna krävde inte att någon skulle följa dem blint i alla frågor. De informerade oss endast om deras åsikt och vilken åsikt som de ansåg vara starkast, och de beordrade andra att ta sanningen om de fann den i andra uttalande. Därför krävs det inte att någon blint följer en viss imams uttalanden i alla frågor. 
+**Svar:** Det råder inga tvivel om att en muslim avser att finna sanningen och handla efter den när han finner den. De fyra imamerna krävde inte att någon skulle följa dem blint i alla frågor. De informerade oss endast om deras åsikt och vilken åsikt som de ansåg vara starkast, och de beordrade andra att ta sanningen om de fann den i andra uttalande. Därför krävs det inte att någon blint följer en viss imams uttalanden i alla frågor.
 
 Det är inte tillåtet att följa eftergifter, småfel eller misstag från de lärde för att försöka göra saker och ting lättare eller för att man vill följa sina egna nycker.
 

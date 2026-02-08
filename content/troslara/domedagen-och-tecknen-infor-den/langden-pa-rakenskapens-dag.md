@@ -3,10 +3,10 @@ title: Längden på Räkenskapens Dag
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Majmū’ Fatāwa Ibn ‘Uthaymīn, 2/40 Muhammed Knut Bernström (1421), Koranens
-  budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - Domedagen och tecknen inför den
+  - Domedagen och dess tecken
 original_id: 526
 description: >-
   Fråga: Är Räkenskapens Dag en dag? Svar: Räkenskapens Dag är en dag men det är
@@ -24,7 +24,7 @@ Denna plåga kommer att drabba de icke-troende under en dag vars längd är lika
 
 I *Ṣaḥīḥ Muslim* finns en *ḥadīt̲h* återgiven av Abū Hurairah i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
 
-> ”Det finns ingen ägare av guld eller silver som inte betalar vad personen ska för dem [allmosa] utan att när Återuppståndelsens Dag kommer så kommer plattor av eld kommer att förberedas för personen [för att] märka personens panna, sidor och rygg. Varje gång de svalnar kommer de att hettas upp på nytt, under en Dag vars längd är lika lång som 50 000 år, tills domen avkunnats bland folket.”
+> ”Det finns ingen ägare av guld eller silver som inte betalar vad personen ska för dem [allmosa] utan att när Återuppståndelsens Dag kommer så kommer plattor av eld att förberedas för personen [för att] märka personens panna, sidor och rygg. Varje gång de svalnar kommer de att hettas upp på nytt, under en Dag vars längd är lika lång som 50 000 år, tills domen avkunnats bland folket.”
 
 Denna långa dag kommer att vara svår för de icke-troende. Allāh säger:
 
@@ -40,7 +40,7 @@ Våra plikter i frågor om det som är dolt för människor[^1] är att underkas
 
 > ”Ingen människa vet vilka dolda [skatter av] djup glädje som väntar de [troende] som belöning för deras handlingar.” [Koranen 32:17]
 
-Och Allāh säger i en *qudsi-hadīth*[^1]:
+Och Allāh säger i en *qudsi-ḥadīt̲h*[^1]:
 
 > ”Jag har förberett för *Minā* rättfärdiga tjänare vad inget öga har sett, inget öra har hört och som heller inte har trängt in i någon mans hjärta.”
 

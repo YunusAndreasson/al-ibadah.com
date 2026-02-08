@@ -2,9 +2,9 @@
 title: Formen av s̲hirk hos månggudadyrkarna
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 32 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
@@ -27,7 +27,7 @@ Detta beror på att *tawḥīd* betyder, med anledning av vad som förstås frå
 2. dyrkans rättigheter och
 3. namnen samt egenskapernas rättigheter.
 
-Därför har de lärde delat in *tawḥīd* i tre kategorier: *tawḥīd ar-rubūbiyyah*, *tawhīd as-asmā' was-sifāt'* och *tawhīd al-'ibadah* [*tawḥīd al-ulūhiyyah*].
+Därför har de lärde delat in *tawḥīd* i tre kategorier: *tawḥīd ar-rubūbiyyah*, *tawḥīd as-asmā' was-sifāt'* och *tawḥīd al-'ibadah* [*tawḥīd al-ulūhiyyah*].
 
 Månggudadyrkarna brukade dyrka andra jämsides med Allāh. Han den Välsignades, den Upphöjdes har sagt:
 
@@ -41,13 +41,13 @@ Det som avses här är i dyrkan av Honom. Allāh den Upphöjde säger:
 
 > ”Er Herre säger: ’Be till Mig, så ska Jag besvara er [bön]. De som håller sig för goda för att tjäna Mig ska gå med böjt huvud in i helvetet.” [Koranen 40:60]
 
-I sura *al-Ikhlas* säger Allāh den Upphöjde:
+I sura *al-Ik̲hlāṣ* säger Allāh den Upphöjde:
 
 > "Säg: 'Ni som förnekar sanningen! Jag dyrkar inte vad ni dyrkar. Inte heller dyrkar ni vad jag dyrkar. Och jag kommer aldrig att dyrka vad ni dyrkar, och ni kommer heller aldrig att dyrka vad jag dyrkar. Ni har er tro - och jag har min tro!" [Koranen 109]
 
-Och när jag säger sura *al-Ikhlas* avser jag *ik̲hlāṣ* i handlingar, för detta är suran om *ik̲hlāṣ* när det gäller handlingar, även om den kallas för sura *al-Kafirūn*. Precis som en sura om *ik̲hlāṣ* i handlingar som sura: "Säg: 'Han är Gud - En, Gud." [^1] är det en sura om *ik̲hlāṣ* i kunskap och tro.
+Och när jag säger sura *al-Ik̲hlāṣ* avser jag *ik̲hlāṣ* i handlingar, för detta är suran om *ik̲hlāṣ* när det gäller handlingar, även om den kallas för sura *al-Kafirūn*. Precis som en sura om *ik̲hlāṣ* i handlingar som sura: "Säg: 'Han är Gud - En, Gud." [^1] är det en sura om *ik̲hlāṣ* i kunskap och tro.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 
 [^1]: Koranen 112:1

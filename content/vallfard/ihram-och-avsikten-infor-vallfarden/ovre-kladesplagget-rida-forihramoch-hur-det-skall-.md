@@ -2,11 +2,11 @@
 title: 'Övre klädesplagget [ridā''] för iḥrām och hur det ska bäras'
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 127 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - Helgtillståndet och avsikt
+  - Helgtillståndet och avsikten
 original_id: 764
 description: >-
   Fråga: Är det bättre för en muhrim att täcka de båda axlarna eller bör han
@@ -22,5 +22,5 @@ När han sedan avslutar *ṭawāf* justerar han sin *ridā’* och placerar den 
 
 Om någon tar av *ridā’* och inte täcker sina axlar medan personen sitter och äter eller samtalar med sina bröder, då är det inget fel med det. Men det som är *sunnah* är att bära sin *ridā’* över båda axlarna och att dess slut bör vara vid bröstet.
 
-[^1]: Tawāf då man kommer till Mecka.
+[^1]: Ṭawāf då man kommer till Mecka.
 

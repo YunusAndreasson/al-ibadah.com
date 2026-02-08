@@ -2,7 +2,7 @@
 title: Smycken och vem som betalar allmosan
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 180 s. ISBN saknas
 categories:
   - Allmosa (Zakāh)
@@ -24,7 +24,7 @@ Den lägsta nivå som gör allmosa till ett krav för silver är 56 saudiska riy
 
 Allmosan krävs från kvinnan som äger smyckena. Om hennes make eller någon annan betalar för hennes räkning och med hennes tillstånd, då är det inte fel […]
 
-Och Allāh är Givaren av framgång.
+Och Allāh är Den som ger framgång.
 
 [^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramaḍān* 1428).
 

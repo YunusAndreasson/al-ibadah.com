@@ -4,9 +4,9 @@ title: >-
   egenskaper
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 102 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Övrigt
@@ -17,19 +17,19 @@ description: >-
   egenskaper utan att förvrida, förneka, försöka f...
 ---
 
-**Fråga:** I vissa länder lär sig eleverna i de islamiska skolorna att *ahlus-sunnah* wal-jamā’ats* synsätt är: Att tro på Allāhs den Upphöjdes namn och egenskaper utan att förvrida, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen]. Kan man dela in *ahlus-sunnah* wal-jamā’at* i dessa kategorier:
+**Fråga:** I vissa länder lär sig eleverna i de islamiska skolorna att *ahlus-sunnah* wal-jamā’ats*synsätt är: Att tro på Allāhs den Upphöjdes namn och egenskaper utan att förvrida, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen]. Kan man dela in *ahlus-sunnah* wal-jamā’at* i dessa kategorier:
 
 1. *s̲hayk̲h ul-islām* Ibh Taymiyyahs och hans elevers skola,
-2. al-Asha’irah [Namngiven efter Abul-Hasan al-Ash´ari som ironiskt nog avvisade sina trosprinciper och antog *ahlus-sunnah* wal-jamā’ats* innan han gick bort] och
+2. al-Asha’irah [Namngiven efter Abul-Ḥasan al-Ash´ari som ironiskt nog avvisade sina trosprinciper och antog *ahlus-sunnah* wal-jamā’ats* innan han gick bort] och
 3. maturidiyyah [En skola namngiven efter Abū Mansur Muḥammad al-Maturidi [d. 944 CE]. Deras trosprinciper är likvärdiga med al-Asha’irah]?
 
 Vad anser muslimer om de lärde som gör *ta’wīl* [Tolkning, när det hänvisar till en felaktig tolkning. Det betyder att man ändrar en mening för att den ska samstämma med ens egen tro]?
 
-**Svar:** Det råder inga tvivel om att det som lärs ut i dessa skolor – att *ahlus-sunnah* wal-jamā'ats* synsätt är att tro på Allāhs namn och egenskaper utan förvrida, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen] – är enligt vad som har rapporterats från profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah*. Detta har *ahlus-sunnah* wal-jamā'at* både grundligt och sammanfattat berättat om i sina böcker.
+**Svar:** Det råder inga tvivel om att det som lärs ut i dessa skolor – att *ahlus-sunnah wal-jamā'ats* synsätt är att tro på Allāhs namn och egenskaper utan förvrida, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen] – är enligt vad som har rapporterats från profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah*. Detta har *ahlus-sunnah wal-jamā´at* både grundligt och sammanfattat berättat om i sina böcker.
 
 Detta är sanningen som överensstämmer med Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och vad *salaf* – må Allāh vara nöjda med dem – har sagt.
 
-Likaså är detta i samstämighet med ett korrekt och rationellt tänkande sinne. Det är inte vår avsikt att räkna upp de enskilda bevisen då det inte bads om detta i frågan, utan vi svarar enbart på vad frågan gällde och det är uppdelningen av *ahlus-sunnah* wal-jamā'at* i två olika skolor.
+Likaså är detta i samstämighet med ett korrekt och rationellt tänkande sinne. Det är inte vår avsikt att räkna upp de enskilda bevisen då det inte bads om detta i frågan, utan vi svarar enbart på vad frågan gällde och det är uppdelningen av *ahlus-sunnah wal-jamā´at* i två olika skolor.
 
 En av dem var Ibn Taimiyyahs och hans elevers skola som förbjöd att man förklarar bevisen i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* med något annat än deras uppenbara mening.
 
@@ -37,7 +37,7 @@ Den andra var Asha'irahs och Maturidiyyahs skola som kräver att Allāhs namn oc
 
 Det är välkänt att mellan dessa båda skolor så finns det en tydlig skiljelinje mellan deras sätt att förstå Allāhs namn och egenskaper. Den första skolans lärare bekräftar skyldigheten att förstå bevisen enligt deras uppenbara mening i frågor som rör Allāhs namn och egenskaper. Detta samtidigt som man nekar vad som måste nekas i fråga om Allāh – som jämförelser och att förklara hur. Den andra skolans lärare bekräftar skyldigheten att ändra innebörden av Allāhs namn och egenskaper.
 
-Dessa båda synsätt skiljer sig åt total och skillnaden blir tydlig med utgångspunkt i följande exempel. Allāh den Upphöjde säger: ”*Nej, Hans händer är tvärtom utsträckta. Han fördelar [Sina gåvor] som Han vil *l.” [^2] Och Han säger när Han rapporterar om Sitt tillrättavisande av djävulen när personen vägrade att nedfalla inför Adam efter att Han kommenderat honom: ”*[Gud] sade: ’Iblis! Vad avhöll dig från att falla ned inför den som Jag har skapat med Mina händer?’*” [^3]
+Dessa båda synsätt skiljer sig åt total och skillnaden blir tydlig med utgångspunkt i följande exempel. Allāh den Upphöjde säger: ”*Nej, Hans händer är tvärtom utsträckta. Han fördelar [Sina gåvor] som Han vil *l.” [^2] Och Han säger när Han rapporterar om Sitt tillrättavisande av djävulen när personen vägrade att nedfalla inför Adam efter att Han befallt honom: ”*[Gud] sade: ’Iblis! Vad avhöll dig från att falla ned inför den som Jag har skapat med Mina händer?’*” [^3]
 
 De båda skolornas lärare skiljs åt om innebörden av de två händer som Allāh den Upphöjde har bekräftat att Han har.
 
@@ -73,7 +73,7 @@ De påstår att imam *Aḥmad* gjorde *ta’wīl* om följande *aḥādīt̲h*: 
 
 *s̲hayk̲h ul-islām* ibn Taymiyyah – må Allāh vara honom nådig – säger i al-Fatāwa [^5] i samlingen från Ibn Qasim:
 
-> ”Det som har rapporterats från Abū Hamid al-Ghazali, att imam *Aḥmad* inte gjorde ta’wil utom i tre fall: 'Den svarta stenen är Allāhs högra hand på jorden' och 'Adams söners hjärtan är sannerligen mellan två av den Nåderikes fingrar' och 'Jag finner sannerligen den Nåderikes ande i riktning mot Jemen.' Denna rapport är en lögn om *Aḥmad*. Ingen har med en autentisk rapportörskedja berättat detta från honom och det är inte känt att någon av hans följeslagare har berättat detta från honom.”
+> ”Det som har rapporterats från Abū Hamid al-Ghazali, att imam *Aḥmad* inte gjorde ta’wīl utom i tre fall: 'Den svarta stenen är Allāhs högra hand på jorden' och 'Adams söners hjärtan är sannerligen mellan två av den Nåderikes fingrar' och 'Jag finner sannerligen den Nåderikes ande i riktning mot Jemen.' Denna rapport är en lögn om *Aḥmad*. Ingen har med en autentisk rapportörskedja berättat detta från honom och det är inte känt att någon av hans följeslagare har berättat detta från honom.”
 
 Imam *Aḥmad* gjorde inte *ta’wīl* med Allāhs den Upphöjdes ord: "*Han är med er, var ni än befinner er, och Gud ser allt vad ni gör*." [^6] Han tolkade dem enbart genom en av deras grundläggande egenskaper, som är kunskap, i ett svar till *jahmiyyah* [Grupp namngiven efter dess grundare Jahm bin Safwan vars rörelse förnekade alla Allāhs namn och egenskaper] som förklarade dem på ett sätt som motsäger sig deras sanna innebörd. De [*jahmiyyah*] påstod att orden fordrar att Allāh den Upphöjde i Sin person befinner sig överallt – men upphöjd är Han över vad de påstår.
 
@@ -87,7 +87,7 @@ Därmed är Han med oss och Han befinner sig över Sin tron ovan himlarna. Han o
 
 Förklarar då en uttolkare detta som att det kan förstås som kunskap har personen inte överträtt vad som fordras genom det [orden i Koranen] och är på detta sätt inte skyldig till *ta’wīl*, utom för de som förstår att vara med någon eller något betyder att dela samma plats, förening och beblandning. Vi har redan sagt att det inte nödvändigtvis alltid är så här.
 
-Detta avseende vad som berättats från imam *Aḥmad* om en antagen ta’wil med dessa tre bevis.
+Detta avseende vad som berättats från imam *Aḥmad* om en antagen ta’wīl med dessa tre bevis.
 
 Tittar vi på texterna själva, då har vi ovan nämnt att det inte finns någon *ta’wīl* i den ädla versen om en uttolkare säger att den betyder kunskap. Detta beror på att det är något som med nödvändighet måste förstås från den. Det är inte att förvrida den innebörd som måste förstå genom den.
 

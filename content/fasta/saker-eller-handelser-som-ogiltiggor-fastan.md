@@ -1,10 +1,10 @@
 ---
-title: Saker eller händelser som ogiltigör fastan
+title: Vad som bryter fastan
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 2.
   Libanon: Makbtaba Dar us-Salam. 649 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Fasta (Sawm)
 original_id: 1264
@@ -31,7 +31,7 @@ När det gäller att äta, dricka och ha intim samvaro finner vi bevisen i Allā
 
 > ”Det är rätt om ni ligger hos dem och söker det som Gud har anvisat åt er; och ni får äta och dricka till dess den vita strimman av gryningsljuset kan urskiljas mot nattens mörker. Återuppta då fastan och håll den tills natten faller på.” [Koranen 2:187]
 
-Bevisen för utlösning av sädesvätska återfinns i en *hadīth[^2] qudsi* i vilken Allāh den Upphöjde om den fastande säger: "*Personen överger sin mat, sin dryck och sina begär för Min skull*." [^3]
+Bevisen för utlösning av sädesvätska återfinns i en *ḥadīt̲h[^2] qudsi* i vilken Allāh den Upphöjde om den fastande säger: "*Personen överger sin mat, sin dryck och sina begär för Min skull*." [^3]
 
 Utlösning av sädesvätska är begär, enligt profetens – över honom vare Allāhs frid och välsignelser – ord: "*I mannens intima samvaro [med sin fru] finns det en välgörenhet*." De sade: "*Allāhs sändebud! Finns det en belöning för den av oss som tillfredställer sina sexuella begär?*" Han sade: "*Säg mig, om personen skulle tillfredsställa sig på ett förbjudet sätt, skulle det då inte vara en synd från personens sida? Likaså om personen tillfredsställer sig på ett tillåtet sätt, då skulle personen få en belöning*." [^4]
 
@@ -59,9 +59,9 @@ Dessa båda bevis är allmänna.
 
 Och [personens fasta är giltig] enligt uttryckliga bevis som bekräftas om fastan i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. I *Ṣaḥīḥ al-Buk̲hārī* återges i en *ḥadīt̲h* från 'Adi bin Hatim att han fastade och att han lade två *'iqal* under sin kudde. En *'iqal* är ett rep som används för att binda kamelens ben. Det ena var svart och det andra var vitt. Han åt och drack tills det vita kunde skiljas från den svarta. Därefter fastade han.
 
-Under morgonen gick han till profeten – över honom vare Allāhs frid och välsignelser – och informerade honom om detta. Han [Profeten] förklarade för honom att innebörden av den vita och den svarta tråden i versen inte är vanliga trådar. Det som i stället avses med den vita tråden är dagsljusets vithet och den svarta tråden är nattens svarthet. Profeten – över honom vare Allāhs frid och välsignelser – kommenderade honom dock inte att ta igen fastan då han inte kände till utlåtandet; han trodde ju att detta var innebörden av denna ädla vers. [^10]
+Under morgonen gick han till profeten – över honom vare Allāhs frid och välsignelser – och informerade honom om detta. Han [Profeten] förklarade för honom att innebörden av den vita och den svarta tråden i versen inte är vanliga trådar. Det som i stället avses med den vita tråden är dagsljusets vithet och den svarta tråden är nattens svarthet. Profeten – över honom vare Allāhs frid och välsignelser – befallde honom dock inte att ta igen fastan då han inte kände till utlåtandet; han trodde ju att detta var innebörden av denna ädla vers. [^10]
 
-När det gäller okunskap om tiden återger al-Bukhārī i sin *Ṣaḥīḥ* med Asma' bint Abū Bakr – må Allāh vara nöjd med henne – som källa att hon sade: "*Under profetens – över honom vare Allāhs frid och välsignelser – tid bröt vi vår fasta under en molnig dag men sedan tittade solen fram*." [^11]
+När det gäller okunskap om tiden återger al-Buk̲hārī i sin *Ṣaḥīḥ* med Asma' bint Abū Bakr – må Allāh vara nöjd med henne – som källa att hon sade: "*Under profetens – över honom vare Allāhs frid och välsignelser – tid bröt vi vår fasta under en molnig dag men sedan tittade solen fram*." [^11]
 
 Profeten beordrade dem inte att ta igen fastan. Hade det varit en skyldighet att ta igen den hade han beordrat dem att göra det. Folket hade då fått reda på det. Allāh den Upphöjde har sagt: "*Det är Vi som har uppenbarat denna Koran steg för steg och Vi ska helt visst slå vakt om den*." [^12]
 
@@ -89,7 +89,7 @@ Här föreligger något som vi måste förstå: Om en man bryter fastan, genom a
 
 Det spelar ingen roll om personen kände till vad som krävs efter denna otillåtna intima samvaro eller om personen var okunnig i frågan. Detta betyder att om en man har intim samvaro under *ramaḍān* då fastan är en skyldighet, men personen inte känner till att det finns ett krav i att gottgöra sig, då gäller det tidigare nämnda utlåtandet om intim samvaro för personen. Detta beror på att personen avsåg att göra fastan ogiltig och det som gör fastan ogiltig gör det nödvändigt att utlåtandet tillämpas på personen.
 
-Saken är den att det i en *ḥadīt̲h* från Abū Hurairah nämns att en man kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: "*Och vad har förstört dig?*" Han svarade: "*Under *ramadan* hade jag intim samvaro med min fru när jag fastade*." [^15] Profeten – över honom vare Allāhs frid och välsignelser – beordrade honom då att gottgöra sig för detta trots att mannen inte kände till att han var skyldig till det […]
+Saken är den att det i en *ḥadīt̲h* från Abū Hurairah nämns att en man kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: "*Och vad har förstört dig?*" Han svarade: "*Under *ramaḍān* hade jag intim samvaro med min fru när jag fastade*." [^15] Profeten – över honom vare Allāhs frid och välsignelser – beordrade honom då att gottgöra sig för detta trots att mannen inte kände till att han var skyldig till det […]
 
 [^1]: Hijamah
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

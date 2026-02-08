@@ -2,9 +2,9 @@
 title: ”Tron består av fler än 70 olika grenar...”
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 53 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Övrigt
@@ -23,6 +23,6 @@ Det är den tro som omfattar handlingarna i alla dess typer och kategorier som h
 
 > ”Det är rätt och rimligt att Gud inte låter er tro bli utan belöning; Gud är barmhärtig och ömmar för människorna.” [Koranen 2:143]
 
-De lärde inom *tafsīr* har sagt att *er tro* betyder *era böner mot Jerusalem*. Innan de kommenderades att vända sig mot Ka’bah brukade profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – be mot Klippmoskén [i Jerusalem].
+De lärde inom *tafsīr* har sagt att *er tro* betyder *era böner mot Jerusalem*. Innan de befalldes att vända sig mot Ka’bah brukade profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – be mot Klippmoskén [i Jerusalem].
 
 

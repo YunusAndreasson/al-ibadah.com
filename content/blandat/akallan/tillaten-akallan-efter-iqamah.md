@@ -2,7 +2,7 @@
 title: Tillåten åkallan efter iqāmah
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 124 s. ISBN saknas
 categories:
   - Blandat
@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Profetens – över honom vare Allāhs frid och välsignelser – *sunnah* säger att den som hör *iqāmah* bör säga vad den som gör *iqāmah* säger. Anledningen är att den är känd som det ”andra böneutropet” och därför bör den besvaras på samma sätt som det första böneutropet.
 
-När den som gör *iqāmah* säger: ”*Hayya 'alas-salāh, hayya 'alal-falah*” [skynda till bönen, skynda till framgång], då ska den som lyssnar säga: ”*La hawla wa la quwwata illa Billāh*” [det finns ingen kraft och ingen styrka utom i Allāh]. Och när han [som säger *iqāmah*] säger: "*Qad qamatis-salāh, qad-qamatis-salāh*" [bönen börjar, bönen börjar] bör den som lyssnar säga samma sak och inte säga: "*aqamahAllāh wa adamah*" [Allāh har etablerat den och gjort den evig] då detta grundas på en svag *ḥadīt̲h*.
+När den som gör *iqāmah* säger: ”*Hayya 'alas-ṣalāh, hayya 'alal-falah*” [skynda till bönen, skynda till framgång], då ska den som lyssnar säga: ”*La hawla wa la quwwata illa Billāh*” [det finns ingen kraft och ingen styrka utom i Allāh]. Och när han [som säger *iqāmah*] säger: "*Qad qamatis-ṣalāh, qad-qamatis-ṣalāh*" [bönen börjar, bönen börjar] bör den som lyssnar säga samma sak och inte säga: "*aqamahAllāh wa adamah*" [Allāh har etablerat den och gjort den evig] då detta grundas på en svag *ḥadīt̲h*.
 
 Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om du hör böneutroparen, säg vad han säger*.” [^1]
 

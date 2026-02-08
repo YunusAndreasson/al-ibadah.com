@@ -2,7 +2,7 @@
 title: Tarāwīḥ-bönen är sunnah mu'kkadah
 author: Ibn ´Abdur-Rahman al-Jibrin
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 314 s. ISBN saknas
 categories:
   - Fasta (Sawm)
@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Är *tarāwīḥ*-bönen enbart *sunnah* eller är den *sunnat mu'kkadah*? Hur utförs den?
 
-**Svar:** Den är *sunnat mu'kkadah*. Profeten – över honom vare Allāhs frid och välsignelser – har uppmuntrat till den genom att säga: "*Den som står i bön [nattetid] under ramadan med tro och för att få belöningar, personen kommer att förlåtas personens tidigare synder*." [^1] Man har bekräftat att han bad med följeslagarna under ett antal nätter. Sedan fruktade han att den skulle bli en skyldighet för dem och han uppmuntrade dem att be var för sig. Då bad vissa hemma, andra bad två och två och andra tre och tre i grupp.
+**Svar:** Den är *sunnat mu'kkadah*. Profeten – över honom vare Allāhs frid och välsignelser – har uppmuntrat till den genom att säga: "*Den som står i bön [nattetid] under ramaḍān med tro och för att få belöningar, personen kommer att förlåtas personens tidigare synder*." [^1] Man har bekräftat att han bad med följeslagarna under ett antal nätter. Sedan fruktade han att den skulle bli en skyldighet för dem och han uppmuntrade dem att be var för sig. Då bad vissa hemma, andra bad två och två och andra tre och tre i grupp.
 
 Sedan bestämde 'Umar – må Allāh vara nöjd med honom – att de skulle samlas bakom en man eftersom det förde folket samman för bön och att lyssna på Koranen. Muslimer har fortsatt med detta till fram till i dag. Under den tiden bad man tjugotre bönecykler och de gjorde recitationen [av Koranen] lång så att de reciterade sura al-Baqarah under tolv bönecykler och ibland under åtta.
 

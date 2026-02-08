@@ -1,10 +1,10 @@
 ---
-title: 'Ordningen [tartīb] och varaktighet [muwalah] under tvagningen'
+title: 'Ordningen [tartīb] och kontinuitet [muwalah] under tvagningen'
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 320 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Renhet (Tahārah)
   - Tvagning
@@ -23,11 +23,11 @@ När profeten – över honom vare Allāhs frid och välsignelser – var på pi
 
 När det gäller varaktighet betyder det att man inte tvättar sig under olika tider åtskilda från varandra. Ett exempel på detta är om man tvättar sitt ansikte och sedan vill tvätta sina händer men väntar med det. Då har varaktigheten gått förlorad och i detta fall är det ens skyldighet att göra om tvagningen från början.
 
-Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – såg en man som hade tvagat sig och en del av personens fot, liten som en nagel, hade inte vattnet rört. Han sade då till honom: "*Gå tillbaka och tvaga dig ordentligt*." [^3] I en återberättelse från Abū Dawūd: "*Han beordrade honom till att upprepa tvagningen*[^1]."
+Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – såg en man som hade tvagat sig och en del av personens fot, liten som en nagel, hade inte vattnet rört. Han sade då till honom: "*Gå tillbaka och tvaga dig ordentligt*." [^3] I en återberättelse från Abū Dāwūd: "*Han beordrade honom till att upprepa tvagningen*[^1]."
 
 Detta bevisar att varaktighet är ett villkor för att tvagningen ska accepteras. Det är även en skyldighet eftersom tvagningen är en enskild dyrkan och en sådan enskild handling görs inte ovanpå en annan, även om de utgörs av olika delar. Den korrekta åsikten är att ordning och varaktighet båda är skyldigheter under tvagningen.
 
-[^1]: Wudū
+[^1]: Wuḍū’
 
 [^2]: Koranen 2:158
 [^3]: *Muslim* 243

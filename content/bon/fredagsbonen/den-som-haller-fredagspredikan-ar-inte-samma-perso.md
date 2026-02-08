@@ -1,8 +1,8 @@
 ---
-title: Den som håller fredagspredikan är inte samma person som leder folket i bön
+title: Predikant och imam vid fredagsbönen
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 449 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Är det tillåtet att någon annan än imamen som ledde fredagsbönen håller predikan?
 
-**Svar:** Det är *sunnah* att den som höll predikan även leder bönen. Profeten – över honom vare Allāhs frid och välsignelser – brukade göra så här och de rättfärdiga kaliferna fortsatte med detta efter hans bortgång. Under deras ledarskap ledde de folket i bön när de hade predikat.
+**Svar:** Det är *sunnah* att den som höll predikan även leder bönen. Profeten – över honom vare Allāhs frid och välsignelser – brukade göra så här och de rättfärdiga kaliferna fortsatte med detta efter hans bortgång. Under sitt ledarskap ledde de folket i bön när de hade predikat.
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Be som ni har sett mig be*.” [^2] Han har även sagt: ”*Ni måste följa min sunnah[^1] och sunnah[^1] hos de rättfärdiga kaliferna som kommer efter mig*.” [^3]
 

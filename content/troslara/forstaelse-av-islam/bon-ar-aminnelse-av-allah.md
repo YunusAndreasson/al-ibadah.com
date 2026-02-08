@@ -2,9 +2,9 @@
 title: Bön är åminnelse av Allāh
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 342 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Somliga sufier säger att åminnelse är bättre än den obligatoriska bönen och de citerar följande vers som bevis: ”*Men först och störst är åkallan det av Guds namn*.” [^3] Är åminnelse av Allāh bättre än bön, som de säger?
 
-**Svar:** Allāh har kommenderat oss att nämna Hans namn ofta. Han säger:
+**Svar:** Allāh har befallt oss att nämna Hans namn ofta. Han säger:
 
 > ”Troende! Åkalla Gud – och ha Honom alltid i era tankar! Och prisa Hans namn morgon och afton!” [Koranen 33:41 – 42]
 

@@ -2,9 +2,9 @@
 title: Höja händerna under åkallan
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 7.
   Libanon: Maktaba Dar us-Salam. 277 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Innovationer
@@ -21,7 +21,7 @@ description: >-
 
 **Svar:** Enligt vad som nedtecknats av *Muslim* i hans *Ṣaḥīḥ* från Abū Hurairah, har profeten sagt: ”*Sannerligen, Allāh är god och Han accepterar inte något annat än det som är gott.*”
 
-Allāh den Högste har beordrat de troende med samma kommenderingar som Han beordrat sändebuden med. Han säger, då båda tilltalas separat: ”*Troende! Ät av det goda ting som Vi skänker er för ert uppehälle och tacka Gud, om det är Honom ni [vill] dyrka*.” [2:172] och ”Budbärare*! Ät av taybiyat [gott och tillåtet] och gör rättfärdiga gärningar*.” [Al-Mu'minun 23/61]
+Allāh den Högste har beordrat de troende med samma befallningar som Han beordrat sändebuden med. Han säger, då båda tilltalas separat: ”*Troende! Ät av det goda ting som Vi skänker er för ert uppehälle och tacka Gud, om det är Honom ni [vill] dyrka*.” [2:172] och ”Budbärare*! Ät av taybiyat [gott och tillåtet] och gör rättfärdiga gärningar*.” [Al-Mu'minun 23/61]
 
 Allāhs sändebud informerade oss om den okammade och smutsiga resenären, som höjer sina händer i skyn och säger:
 

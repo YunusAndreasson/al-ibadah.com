@@ -1,9 +1,9 @@
 ---
 title: Ångrar du dig uppriktigt stryker Allāh ut dina tidigare synder
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 7.
  Libanon: Maktaba Dar us-Salam. 261 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+ Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Blandat
   - Ånger

@@ -4,7 +4,7 @@ title: >-
   bönecykel extra
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 187 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -28,6 +28,6 @@ De som imamen leder i bönen [från början] bör heller inte be den femte böne
 
 Det är upp till den som kommer sent att nedfalla för glömska tillsammans med imamen om han gör så […]
 
-Och Allāh är beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 

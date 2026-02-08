@@ -8,7 +8,7 @@ categories:
 original_id: 579
 description: >-
   Fråga: Under bönerna som består av tre eller fyra bönecykler [middagsbönen,
-  eftermiddagsbönen, kvällsbönen och nattbönen[^1]] kan man läsa en sura efter
+  eftermiddagsbönen, kvällsbönen och nattbönen] kan man läsa en sura efter
   *al-Fātiḥah* under bönecykeln efter den första ...
 ---
 

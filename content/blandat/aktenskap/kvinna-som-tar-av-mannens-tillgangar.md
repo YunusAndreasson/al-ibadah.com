@@ -12,7 +12,7 @@ description: 'Fråga: Får en kvinna ta av mannens tillgångar utan personens ti
 ---
 
 **Fråga:** Får en kvinna ta av mannens tillgångar utan personens tillstånd? Vilken är gottgörelsen om det har inträffat?
- 
+
 **Svar:** All lovprisan tillhör Allāh.
 
 En kvinna får inte ta från mannens tillgångar utan personens tillstånd, utom om han inte ger henne tillräckligt. I detta fall är det enligt rim och reson tillåtet för henne att ta för eget bruk och till barnen. Profeten – över honom vare Allāhs frid och välsignelser – sade till Hind bint 'Ytbah när hon klagade inför honom över att hennes man, Abū Sufyān, inte gav henne och barnen tillräckligt mycket: "Ta vad du behöver till dig och barnen enligt rim och reson." Det finns ingen gottgörelse för detta om det förhåller sig som vi har beskrivit.

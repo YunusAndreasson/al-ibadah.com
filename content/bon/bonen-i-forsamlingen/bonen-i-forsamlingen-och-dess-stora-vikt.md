@@ -2,9 +2,9 @@
 title: Bönen i församlingen och dess stora vikt
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 2.
   Libanon: Makbtaba Dar us-Salam. 525 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Bön (Salāh)
   - Församlingsbön
@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om bönen i församlingen?
 
-**Svar:** De lärde är eniga om att detta är en av de största handlingarna av lydnad, en av de mest bekräftade och en av de bästa. Allāh den Upphöjde har nämnt den i Koranen och kommenderar den även under tidpunkter med rädsla. Han den Upphöjde säger:
+**Svar:** De lärde är eniga om att detta är en av de största handlingarna av lydnad, en av de mest bekräftade och en av de bästa. Allāh den Upphöjde har nämnt den i Koranen och befaller den även under tidpunkter med rädsla. Han den Upphöjde säger:
 
 > ”När du befinner dig hos de troende och leder dem i bön, låt då en grupp stå upp tillsammans med dig och låt dem behålla sina vapen. När de har avslutat bönen, låt dem ge er betäckning och låt en annan grupp, som ännu inte har förrättat sin bön, stiga fram och be med dig. Men de bör vara på sin vakt och ha vapnen i beredskap, eftersom förnekarna av tron skulle önska att ni lade ifrån er era vapen och er utrustning för att då rikta ett [förödande] slag mot er. Men ni gör inte fel, om ni lägger av vapnen därför att ni är rädda att de ska skadas genom regn, eller på grund av sjukdom. Men var på er vakt. För dem som förnekar sanningen har Gud i beredskap ett förnedrande straff.” [Koranen 4:102]
 

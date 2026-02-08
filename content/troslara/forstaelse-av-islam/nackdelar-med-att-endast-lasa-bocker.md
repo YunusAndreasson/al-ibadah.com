@@ -16,7 +16,7 @@ description: >-
 
 **Svar:** Det finns två sätt att inhämta kunskap på.
 
-**Inhämta den från pålitliga böcker** som har skrivits av lärde som är kända för deras kunskap och pålitlighet och vars *´aqīdah* är känd för att vara fri från innovationer och myter.
+**Inhämta den från pålitliga böcker** som har skrivits av lärde som är kända för sin kunskap och pålitlighet och vars *´aqīdah* är känd för att vara fri från innovationer och myter.
 
 Genom böcker går det att nå upp till en viss nivå men därefter uppstår två problem:
 

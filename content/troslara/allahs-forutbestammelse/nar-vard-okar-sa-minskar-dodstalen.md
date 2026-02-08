@@ -2,9 +2,9 @@
 title: ”När vård ökar så minskar dödstalen”
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 85 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
@@ -55,7 +55,7 @@ Allāh den Upphöjde nämner även ett antal hycklare som om sina bröder som av
 
 > ”Om de hade blivit kvar hos oss, skulle de inte ha dött eller dödats.” [Koranen 3:156]
 
-Så Han den Upphöjde kommenderade Sin Sändebud Muḥammad att säga till dem:
+Så Han den Upphöjde befallde Sin Sändebud Muḥammad att säga till dem:
 
 > ”Säg: ”Även om ni hade stannat hemma, skulle de vilkas död stod skriven ha begett sig till den plats där de skulle falla.” [Koranen 3:154]
 
@@ -65,7 +65,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har också sagt
 
 > "*Den som vill att hans levebröd ska utökas för honom eller att hans ålder ska utökas, då bör han bevara skötet [familjeband]*." [*al-Buk̲hārī* 5985, *Muslim* 2557 och *Abū Dāwūd* 1693]
 
-Därmed säger vi: Medicinsk vård är en orsak till fysisk hälsa och behandling. Detta är precis vad frågeställaren säger, men allt sker genom Allāhs tillstånd och inom Hans vetskap. Han har gjort vården till en orsak som producerar en verkan, och Han har organiserat dess verkan genom Hans kommendering och dekrets verkan enligt Hans vetskap.
+Därmed säger vi: Medicinsk vård är en orsak till fysisk hälsa och behandling. Detta är precis vad frågeställaren säger, men allt sker genom Allāhs tillstånd och inom Hans vetskap. Han har gjort vården till en orsak som producerar en verkan, och Han har organiserat dess verkan genom Hans befallning och dekrets verkan enligt Hans vetskap.
 
 Härmed är det tydligt att orsaken är en faktor för verkan och Han har gjort det nödvändigt för oss att åta nödvändiga åtgärder i hopp om att Allāh kommer att arrangera de eftersträvade målen, inte för deras egen skull eller med anledning av någon oberoende inverkan på resultaten, utan därför att Allāh har givit dem en inverkan.
 

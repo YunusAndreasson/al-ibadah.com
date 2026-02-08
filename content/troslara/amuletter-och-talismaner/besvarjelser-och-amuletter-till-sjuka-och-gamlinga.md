@@ -2,7 +2,7 @@
 title: Besvärjelser och amuletter till sjuka och gamlingar
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 36 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
@@ -24,11 +24,11 @@ Några av dessa amuletter bärs av patienterna själva, en oren kvinna som har m
 
 De lärde är eniga om att besvärjelser är tillåtna under förutsättning att de uppfyller det ovan nämnda villkoret samt att man tror att de inte har någon verkan utom genom Allāhs vilja.
 
-Det är i stället *s̲hirk* enligt en *ḥadīt̲h* som imam Ahmad har återberättat, i vilken ’Imrān bin Husain rapporterar att profeten – över honom vare Allāhs frid och välsignelser – såg en man bära en kopparring på sin arm, och han frågade honom: ”*Vad är det?*” Han svarade: ”*Jag bär den mot svaghet*.” Profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Ta bort den! Den kommer enbart att göra dig ännu svagare och om du skulle dö när du bär den, skulle du aldrig bli framgångsrik.*” [^3]
+Det är i stället *s̲hirk* enligt en *ḥadīt̲h* som imam Aḥmad har återberättat, i vilken ’Imrān bin Husain rapporterar att profeten – över honom vare Allāhs frid och välsignelser – såg en man bära en kopparring på sin arm, och han frågade honom: ”*Vad är det?*” Han svarade: ”*Jag bär den mot svaghet*.” Profeten – över honom vare Allāhs frid och välsignelser – sade: ”*Ta bort den! Den kommer enbart att göra dig ännu svagare och om du skulle dö när du bär den, skulle du aldrig bli framgångsrik.*” [^3]
 
-I en annan version återgiven av *Aḥmad* säger profeten: ”*Den som bär en amulett begår shirk*[^1]." [^4]
+I en annan version återgiven av *Aḥmad* säger profeten: ”*Den som bär en amulett begår s̲hirk*[^1]." [^4]
 
-Bland andra *Aḥmad* har också återgivit att Ibn Mas'ūd har sagt: ”*Jag hörde Allāhs sändebud säga: 'Sannerligen är besvärjelser, amuletter och tiwalah[^2] [magi som används för att skapa kärlek] shirk*[^1]." [^5]
+Bland andra *Aḥmad* har också återgivit att Ibn Mas'ūd har sagt: ”*Jag hörde Allāhs sändebud säga: 'Sannerligen är besvärjelser, amuletter och tiwalah[^2] [magi som används för att skapa kärlek] s̲hirk*[^1]." [^5]
 
 Om den burna amuletten innehåller ord från Koranen, då är det förbjudet enligt den starkaste åsikten. Anledningarna till detta är tre:
 

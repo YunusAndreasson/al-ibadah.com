@@ -2,7 +2,7 @@
 title: Dekorera moskén inför högtider
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 54 s. ISBN saknas
 categories:
   - Fasta (Sawm)
@@ -26,6 +26,6 @@ Profeten – över honom vare Allāhs frid och välsignelser – har uppmärksam
 
 Det har inte bekräftats att profeten – över honom vare Allāhs frid och välsignelser – hedrade moskéerna genom att ljussätta eller placera blommor inne i dem under *´eid* eller vid andra speciella tillfällen. Detta är heller inte känt från de rätt vägledda kaliferna eller från de vägledda imamerna från den första generationen, som profeten – över honom vare Allāhs frid och välsignelser – har vittnat om att de är den bästa generationen […] Allt gott finns i att följa vägledningen från profeten, de rätt vägledda kaliferna och de efterföljande imamerna som färdades på deras väg.
 
-Att ljussätta moskén och att hänga upp elektriska lampor ovanför dem eller runt deras minareter, att hänga flaggor och att placera blommor i dem under *´eid* och andra speciella tillfällen, det är en imitation av de som inte tror. Detta är att imitera dem i vad de gör med deras synagogor och kyrkor. Profeten – över honom vare Allāhs frid och välsignelser – har förbjudit att vi imiterar deras dyrkan.
+Att ljussätta moskén och att hänga upp elektriska lampor ovanför dem eller runt deras minareter, att hänga flaggor och att placera blommor i dem under *´eid* och andra speciella tillfällen, det är en imitation av de som inte tror. Detta är att imitera dem i vad de gör med sina synagogor och kyrkor. Profeten – över honom vare Allāhs frid och välsignelser – har förbjudit att vi imiterar deras dyrkan.
 
 

@@ -2,7 +2,7 @@
 title: Offerdjur från en person som bär en amulett
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 41 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** En *tamimah* görs av kulor, skal eller medaljonger och bärs runt nacken av barn, djur och kvinnor. De kan även bäras i bälten eller i håret för att skydda mot ont eller för att undvika något skadligt. Detta är förbjudet och en sorts *s̲hirk*. Med- och motgång ligger enbart i Allāhs händer.
 
-Ibn Mas'ūd hörde profeten – över honom vare Allāhs frid och välsignelser – säga: ”*Sannerligen är besvärjelser, amuletter och tiwalah[^2] shirk*[^1].” [^4]
+Ibn Mas'ūd hörde profeten – över honom vare Allāhs frid och välsignelser – säga: ”*Sannerligen är besvärjelser, amuletter och tiwalah[^2] s̲hirk*[^1].” [^4]
 
 ´Abdullāh bin 'Ukaym har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som bär [tamimah] kommer att lämnas med den*.” [^5] Detta betyder att Allāh inte kommer att skydda personen. Personen kommer då att lämnas med det som personen bär för att skydda eller läka, vilket det aldrig kommer ha förmågan att göra.
 

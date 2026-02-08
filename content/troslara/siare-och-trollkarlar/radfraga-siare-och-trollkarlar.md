@@ -1,7 +1,7 @@
 ---
 title: Rådfråga siare och trollkarlar
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. x s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)

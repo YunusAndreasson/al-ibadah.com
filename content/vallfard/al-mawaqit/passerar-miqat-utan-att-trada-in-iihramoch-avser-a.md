@@ -24,9 +24,9 @@ I bland annat *aṣ-Ṣaḥīḥayn* har det återberättats från Ibn 'Abbās a
 
 > ”Och dessa *mīqāt* är för folken vid dessa platser och utöver dem för de som kommer genom dessa platser med avsikten att utföra pilgrimsfärden och ‘*´umrah*. Den som bor inom dessa gränser kan träda in i *iḥrām* från den plats där personen startar.” [*al-Buk̲hārī* 1524 och *Muslim* 1181]
 
-Det har också återgivits i *aṣ-Ṣaḥīḥayn* från 'Abd-Allāh ibn ´Umar att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Mīqāt[^1] för de från Medina är Dhu'l-Hulayfah*.” [^2] Detta är ett uttalande som är en kommendering. Det dyker dock upp i form av ett uttalande för att understryka att detta är sättet som det ska göras på.
+Det har också återgivits i *aṣ-Ṣaḥīḥayn* från 'Abd-Allāh ibn ´Umar att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Mīqāt[^1] för de från Medina är Dhu'l-Hulayfah*.” [^2] Detta är ett uttalande som är en befallning. Det dyker dock upp i form av ett uttalande för att understryka att detta är sättet som det ska göras på.
 
-Det har återberättats från Aishah att profeten – över honom vare Allāhs frid och välsignelser – utsåg *mīqāt* för irakierna till att vara Dhāt 'Irq. [Återberättad av *Abū Dawod* 1739 och klassad som *Ṣaḥīḥ* av al-Albāni i *Sahīh Abū Dawūd*, 1531]
+Det har återberättats från Aishah att profeten – över honom vare Allāhs frid och välsignelser – utsåg *mīqāt* för irakierna till att vara Dhāt 'Irq. [Återberättad av *Abū Dawod* 1739 och klassad som *Ṣaḥīḥ* av al-Albāni i *Sahīh Abū Dāwūd*, 1531]
 
 I *Ṣaḥīḥ al-Buk̲hārī* [1531] återges att de från Kufa och Basra kom till ´Umar ibn al-Khattāb och sade: ”*Amīr al-Mu'minīn, Allāhs sändebud tillkännagav att Qarn var mīqāt[^1] för de från Najd, men det ligger inte i vår färdriktning och om vi beger oss till Qarn blir det svårt för oss*.” Han sade då: ”*Ta en plats som är parallell med Qarn och er vanliga resväg som mīqāt*[^1].”
 

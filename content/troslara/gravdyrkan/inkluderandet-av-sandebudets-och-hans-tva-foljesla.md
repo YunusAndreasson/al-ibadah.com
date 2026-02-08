@@ -1,8 +1,8 @@
 ---
-title: Innefattandet av sändebudets och hans två följeslagares gravar i hans Moské
+title: Sändebudets och följeslagarnas gravar i hans moské
 author: Ibn ´Abdullah Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. X s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
@@ -32,7 +32,7 @@ Jundub bin Abdullāh al-Bajali har sagt:
 
 Dessa *aḥādīt̲h* påvisar även att det är förbjudet att bygga statyer eller kupoler över gravar […] Att göra så anses vara ett medel för *s̲hirk* samt ett sätt att dyrka den i graven i stället för Allāh.
 
-Detta har inträffat både förr och nu. Oberoende av var muslimer befinner sig måste de vara medvetna om att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit att gravar konstrueras, att man bygger kupoler över dem, att man murar dem eller lyser upp dem samt andra saker som han har förbjudit. 
+Detta har inträffat både förr och nu. Oberoende av var muslimer befinner sig måste de vara medvetna om att profeten – över honom vare Allāhs frid och välsignelser – har förbjudit att gravar konstrueras, att man bygger kupoler över dem, att man murar dem eller lyser upp dem samt andra saker som han har förbjudit.
 
 De ska inte låta sig luras av vad den stora massan gör, den troende måste alltid söka sanningen och hålla sig till den var han än finner den. Sanningen kan kännas igen genom bevis från Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*, inte genom människors handlande eller åsikter.
 

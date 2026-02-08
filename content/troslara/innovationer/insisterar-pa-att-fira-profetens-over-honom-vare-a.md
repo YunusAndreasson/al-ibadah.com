@@ -1,5 +1,5 @@
 ---
-title: Insisterar på att fira profetens – över honom vare Allāhs frid och välsignelser – födelsedag
+title: Insisterar på att fira profetens födelsedag
 author: Dr. Sālih Ibn Fowzān Ibn ´Abdullāh Ibn Fowzān
 source: Fatāwa tata'allāq bil-Mawlid an-Nabawī – sida 49, fråga 11
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Sparade tillgångar
-author: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+author: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
  Libanon: Maktaba Dar us-Salam. 161 s. ISBN saknas'
 source: Muḥammad bin Sālih al-´Uthaymīn
 categories:

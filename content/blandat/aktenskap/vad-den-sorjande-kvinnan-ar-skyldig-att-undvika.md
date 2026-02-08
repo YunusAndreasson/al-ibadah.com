@@ -1,5 +1,5 @@
 ---
-title: Vad den sörjande kvinnan är skyldig att undvika
+title: Den sörjande kvinnans förpliktelser
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon: Maktaba
@@ -34,7 +34,7 @@ Hon får dock inte använda henna, saffran eller parfym – varken på kläder e
 
 Det är heller inte tillåtet att någon friar till henne men det finns ingen invändan mot att antyda detta. Beträffande direkta frierier får man inte göra detta.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 
 [^1]: Koranen 65:4

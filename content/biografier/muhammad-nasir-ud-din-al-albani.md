@@ -35,7 +35,7 @@ Därefter återvände han till sina tidigare studier och arbete i al-Maktabah ad
 
 Han besökte flera länder för att göra da’wah och för att hålla föreläsningar. Däribland Qatar, Egypten, Kuwait, Emiraterna, Spanien och England. Han tvingades att emigrera ett flertal gånger. Han flyttade från Syrien till Jordanien, sedan Syrien igen, därpå Beirut, sedan Emiraterna och därefter till ’Ammān i Jordanien. Hans arbeten, främst inom *ḥadīt̲h* och dess olika grenar, uppgår till över 100.
 
-Han har haft många studenter, exempelvis: *s̲hayk̲h* Hamdī ´Abdul-Majīd, *s̲hayk̲h* Muḥammad ´Īd 'Abbāsī, Dr. ´Umar Sulaymān al-Ashqar, *s̲hayk̲h* Muḥammad lbrahīm Shaqrah, *s̲hayk̲h* Muqbil ibn Hādī al-Wādi'ī, *s̲hayk̲h* 'Alī Khushshān, *s̲hayk̲h* Muḥammad Jamīl Zaynū, *s̲hayk̲h* ´Abdur-Rahmān Abdus-Samad, *s̲hayk̲h* 'Alī Hasan ´Abdul-Hamīd al-Halabī, *s̲hayk̲h* Salīm al-Hilālī.
+Han har haft många studenter, exempelvis: *s̲hayk̲h* Hamdī ´Abdul-Majīd, *s̲hayk̲h* Muḥammad ´Īd 'Abbāsī, Dr. ´Umar Sulaymān al-Ashqar, *s̲hayk̲h* Muḥammad lbrahīm Shaqrah, *s̲hayk̲h* Muqbil ibn Hādī al-Wadī'ī, *s̲hayk̲h* 'Alī Khushshān, *s̲hayk̲h* Muḥammad Jamīl Zaynū, *s̲hayk̲h* ´Abdur-Rahmān Abdus-Samad, *s̲hayk̲h* 'Alī Ḥasan ´Abdul-Hamīd al-Halabī, *s̲hayk̲h* Salīm al-Hilālī.
 
 Han avled söndagen den 22:e Jumādā ath-Thāniyah 1420 AH. Han var då 87 år gammal. Må Allāh den Högste ha nåd över hans själ. Āmīn.
 

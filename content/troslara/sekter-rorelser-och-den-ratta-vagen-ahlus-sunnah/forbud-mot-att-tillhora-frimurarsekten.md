@@ -2,7 +2,7 @@
 title: Förbud mot att tillhöra frimurarsekten
 author: ´Abdullāh bin Humaid
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 325 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
@@ -33,6 +33,6 @@ Det finns flera underorganisationer som bär andra namn för att förvilla, för
 
 Av denna anledning och på grund av andra fakta som visar denna rörelses onda ideologi har *fiqh*-akademin avgjort att frimurarrörelsen är en destruktiv och farlig organisation för islam och Muslimer. Den som går med i denna sekt – och känner till sanningen om dem och deras mål – är någon som inte tror på islam och som ska undvikas.
 
-Och Allāh är den som beviljar framgång.
+Och Allāh är Den som ger framgång.
 
 

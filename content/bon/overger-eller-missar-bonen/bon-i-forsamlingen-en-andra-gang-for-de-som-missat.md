@@ -2,9 +2,9 @@
 title: Bön i församlingen en andra gång för de som missat bönen
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 329 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Bön (Salāh)
   - Missad bön
@@ -23,11 +23,11 @@ Detta enligt en återberättelse från *Aḥmad* i hans *Musnad* och från *Abū
 
 at-Tirmithi har också återberättat detta från Abū Sa'is som sagt: "*En man kom när Allāhs sändebud redan hade bett och han sade: 'Vem av er kommer att ge till välgörenhet till mannen?"* [^2]. En man stod då upp och bad med honom.
 
-Enligt at-Tirmithi är denna *hadīth[^1] hasan*. al-Hakim har också återberättat den och klassat den som *Ṣaḥīḥ*. ath-Thahabi höll med honom. Ibn Hazm har också nämnt den i al-Muhalla och han visade att den är autentisk. Abū ´Īsā at-Tirmithi sade: "*Mer än en av följeslagarna och tabi'in har sagt detta: 'Det finns ingen invändan mot en grupp som ber en andra församlingsbön i en moské där bönen redan har hållets*." *Aḥmad* och Ishaq ansåg också detta.
+Enligt at-Tirmithi är denna *ḥadīt̲h[^1] ḥasan*. al-Hakim har också återberättat den och klassat den som *Ṣaḥīḥ*. ath-Thahabi höll med honom. Ibn Hazm har också nämnt den i al-Muhalla och han visade att den är autentisk. Abū ´Īsā at-Tirmithi sade: "*Mer än en av följeslagarna och tābi´īn har sagt detta: 'Det finns ingen invändan mot en grupp som ber en andra församlingsbön i en moské där bönen redan har hållets*." *Aḥmad* och Ishaq ansåg också detta.
 
 Andra har sagt att man bör be var för sig och några av dessa är: Sufyan, Ibn al-Mubarak, Mālik och ash-Shafi'i.
 
-Men dessa personer och de som har hållet med dem har endast gjort så med rädsla för att det skulle leda till splittring och att de som följer en viss sekt kan få en ursäkt för att komma för sent och be tillsammans med en imam som följer deras läror. För att då kunna stänga denna dörr till splittring och hindra medlemmar i sekter från att uppnå deras onda avsikter har de sagt att man inte bör be gemensamt i moskén när församlingen redan har bett med den vanliga imamen.
+Men dessa personer och de som har hållet med dem har endast gjort så med rädsla för att det skulle leda till splittring och att de som följer en viss sekt kan få en ursäkt för att komma för sent och be tillsammans med en imam som följer deras läror. För att då kunna stänga denna dörr till splittring och hindra medlemmar i sekter från att uppnå sina onda avsikter har de sagt att man inte bör be gemensamt i moskén när församlingen redan har bett med den vanliga imamen.
 
 Den första åsikten är dock den korrekta, grundat på den *ḥadīt̲h* som har nämnts tidigare och den allmänna betydelsen i Allāhs ord: ”*Frukta därför Gud efter måttet av er förmåga*.” [^3]
 
@@ -37,7 +37,7 @@ Det råder ingen tvekan om att bön i församlingen är en del av att frukta All
 
 Är det känt att en individ eller en grupp avsiktligen kommer försent, eller om det är känt att deras sekt kommer för sent för att be tillsammans, då måste de ansvariga straffa dem på det sätt som känns lämpligt, för att hindra dem från att göra detta.
 
-På detta sätt kommer dörren till splittring att stängas och sekterna uppnår inte deras mål.
+På detta sätt kommer dörren till splittring att stängas och sekterna uppnår inte sina mål.
 
 Detta sker då på ett sätt som inte leder till att man överger autentiska *aḥādīt̲h* som bevisar att det är tillåtet att be en andra bön i församlingen för dem som har missat den första.
 

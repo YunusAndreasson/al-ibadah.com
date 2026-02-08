@@ -4,7 +4,7 @@ title: >-
   utföra ṭawāful-wadā
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 191 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
@@ -20,7 +20,7 @@ description: >-
 
 **Svar:** En kvinna med månadsblödning och en kvinna med blödningar efter graviditeten behöver inte utföra *ṭawāf ul-wadā´*. Den som inte har förmåga ska bäras under *ṭawāf* och samma gäller den sjuke. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Ingen bör ge sig av förrän personens sista handling är vid Huset [Ka'bah]*." [^1]
 
-Detta beror också på vad som har bekräftats i *Ṣaḥīḥ Muslim* och *Ṣaḥīḥ al-Buk̲hārī* när Ibn 'Abbās säger: "*Folket kommenderades att utföra deras sista handling vid Huset [Ka'bah], men frågan lindrades för kvinnan med månadsblödning*." Bevisen har även kommit i en annan rapport som visar att en kvinna med blödningar efter graviditeten liknas vid en kvinna med månadsblödning på så vis att hon inte måste utföra *ṭawāf ul-wadā´*.
+Detta beror också på vad som har bekräftats i *Ṣaḥīḥ Muslim* och *Ṣaḥīḥ al-Buk̲hārī* när Ibn 'Abbās säger: "*Folket befalldes att utföra deras sista handling vid Huset [Ka'bah], men frågan lindrades för kvinnan med månadsblödning*." Bevisen har även kommit i en annan rapport som visar att en kvinna med blödningar efter graviditeten liknas vid en kvinna med månadsblödning på så vis att hon inte måste utföra *ṭawāf ul-wadā´*.
 
 
 [^1]: *Muslim* 1327 och *Aḥmad* 1/222

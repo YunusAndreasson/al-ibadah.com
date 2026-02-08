@@ -1,5 +1,5 @@
 ---
-title: Deponera pengar i banker som använder ränta utan att ta någon vinst
+title: Insättning i räntebank utan att ta vinst
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon: Maktaba
@@ -10,7 +10,7 @@ categories:
 original_id: 1645
 description: >-
   Fråga: Vilket är det islamiska utlåtandet om de som arbetar i banker och de
-  som placerar deras pengar i dem utan att ta ut en räntebaserad vinst? Svar:
+  som placerar sina pengar i dem utan att ta ut en räntebaserad vinst? Svar:
   Det råder ingen tvekan om att det är förb...
 ---
 

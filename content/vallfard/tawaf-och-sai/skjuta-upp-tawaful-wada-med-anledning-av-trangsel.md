@@ -2,7 +2,7 @@
 title: Skjuta upp ṭawāf ul-wadā´ med anledning av trängsel
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 190 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
@@ -28,5 +28,4 @@ Och *ṭawāf ul-wadā´* är en rit som avsiktligen utelämnades. Därför mås
 
 Och Allāh vet bäst.
 
-[^1]: Den sju långa rundar vandringen runt Kabah.
 

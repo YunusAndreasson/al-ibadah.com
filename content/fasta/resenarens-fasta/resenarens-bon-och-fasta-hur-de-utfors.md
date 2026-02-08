@@ -2,9 +2,9 @@
 title: Resenärens bön och fasta – hur de utförs
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 2.
   Libanon: Makbtaba Dar us-Salam. 636 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Fasta (Sawm)
   - Resenärens fasta
@@ -23,11 +23,11 @@ Anas bin Mālik sade: ”*Vi gav oss ut på en resa från Medina till Mecka till
 
 Men om man ber tillsammans med en imam som ber en oförkortad bön, då måste man be fyra bönecykler oavsett om man hinner med bönen från början eller om man missar delar av den.
 
-Detta beror på den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*När ni hör *iqamah*, gå då fram i lugn och ro. Skynda er inte. Be det som ni har möjlighet att be och fullborda [det som ni har missat]*." [^4] Så den allmänna innebörden av hans ord: "*Be det som ni har möjlighet att be och fullborda [det som ni har missat]*" innefattar även den resande som ber bakom en imam som ber fyra bönecykler.
+Detta beror på den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – ord: "*När ni hör iqāmah, gå då fram i lugn och ro. Skynda er inte. Be det som ni har möjlighet att be och fullborda [det som ni har missat].*" [^4] Så den allmänna innebörden av hans ord: "*Be det som ni har möjlighet att be och fullborda [det som ni har missat].*" innefattar även den resande som ber bakom en imam som ber fyra bönecykler.
 
-Ibn 'Abbas ställdes frågan: "*Varför är det så att en resenär ber två bönecykler om personen ber ensam och fyra om personen leds av en hemmavarande imam?" Han svarade: "Det är *sunnah*."
+Ibn 'Abbas ställdes frågan: "*Varför är det så att en resenär ber två bönecykler om personen ber ensam och fyra om personen leds av en hemmavarande imam?" Han svarade: "*Det är sunnah.*"
 
-Kravet att be i församlingen gäller fortfarande för resenären. Allāh den Upphöjde har kommenderat detta under strid:
+Kravet att be i församlingen gäller fortfarande för resenären. Allāh den Upphöjde har befallt detta under strid:
 
 > ”När du befinner dig hos de troende och leder dem i bön, låt då en grupp stå upp tillsammans med dig och låt dem behålla sina vapen. När de har avslutat bönen, låt dem ge er betäckning och låt en annan grupp som ännu inte har förrättat sin bön, stiga fram och be med dig.” [Koranen 4:102]
 

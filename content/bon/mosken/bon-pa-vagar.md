@@ -2,7 +2,7 @@
 title: Bön på vägar
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 33 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -26,7 +26,7 @@ description: >-
 
 > ”Jorden har gjorts till en moské [plats för bön] och som ett medel för rening för mig. Så den som det blir dags att be för, låt personen be oberoende av var personen befinner sig.”
 
-Detta har imam *Aḥmad*, al-Bukhārī och *Muslim* återgivit. Den sammanslagna förståelsen mellan *ḥadīt̲h* från Jabir och den *ḥadīt̲h* som tillåter bön på vilken plats som helst är att den sistnämnda är allmän och att den förstnämda, som förbjuder bön på vissa ställen, är särskild. Således specificerar dessa *aḥādīt̲h* den allmänna innebörden av de *aḥādīt̲h* som tillåter bön på alla platser. Detta är ett användande som kommer från välkända principer när vi befattar oss med *aḥādīt̲h* som verkar motsägelsefulla.
+Detta har imam *Aḥmad*, al-Buk̲hārī och *Muslim* återgivit. Den sammanslagna förståelsen mellan *ḥadīt̲h* från Jabir och den *ḥadīt̲h* som tillåter bön på vilken plats som helst är att den sistnämnda är allmän och att den förstnämda, som förbjuder bön på vissa ställen, är särskild. Således specificerar dessa *aḥādīt̲h* den allmänna innebörden av de *aḥādīt̲h* som tillåter bön på alla platser. Detta är ett användande som kommer från välkända principer när vi befattar oss med *aḥādīt̲h* som verkar motsägelsefulla.
 
 Men om det finns ett behov eller en nödvändighet som påtvingar att man behöver be vid en förbjuden plats, då är det tillåtet att göra så.
 

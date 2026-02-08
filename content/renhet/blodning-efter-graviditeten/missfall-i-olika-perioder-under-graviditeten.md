@@ -2,7 +2,7 @@
 title: Missfall i olika perioder under graviditeten
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 118 s. ISBN saknas
 categories:
   - Renhet (Tahārah)
@@ -32,6 +32,6 @@ Hon måste be och fasta under *ramaḍān* och hennes man får inte ha intim sam
 
 Hon får slå ihop middagsbönen och eftermiddagsbönen samt kvällsbönen och nattbönen. Likaså får hon göra *g̲husl* inför bönerna som bes tillsammans och för gryningsbönen. Detta grundas på en autentisk *ḥadīt̲h* från Hamnah bint Jahsh om detta. Enligt de lärde är anledningen att utlåtandet för henne är desamma som för en kvinna med ihållande blödning från vaginan.
 
-Och Allāh är den som beviljar framgång.
+Och Allāh är Den som ger framgång.
 
 

@@ -2,7 +2,7 @@
 title: Gravid kvinna som bryter fastan tar enbart igen den
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 301 s. ISBN saknas
 categories:
   - Fasta (Sawm)

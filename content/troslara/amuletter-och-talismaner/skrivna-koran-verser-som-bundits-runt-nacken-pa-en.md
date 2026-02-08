@@ -2,9 +2,9 @@
 title: Skrivna Koran-verser som bundits runt nacken på en sjuk person
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 97 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Amuletter och talismaner
@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Det finns ingen synd i *ruqyah* för en sjukling som drabbats av häxkraft om denna ruqyah[^1] kommer från den ädla Koranen eller från tillåtna åkallan. Man har bekräftat att profeten – över honom vare Allāhs frid och välsignelser – brukade läsa *ruqyah* över hans följeslagare. En av de *ruqyah* som han brukade använda är:
 
-> ”Vår Herre, Allāh, som är i [ovan] himlen, helgat vare Ditt namn, Din kommendering råder över himlarna och jorden. Som Din nåd är i himlen, låt Din nåd vara så på jorden. Sänd ned nåd från Din nåd och en bot från Din bot över denna sjukdom.” [*Abū Dāwūd* 3892]
+> ”Vår Herre, Allāh, som är i [ovan] himlen, helgat vare Ditt namn, Din befallning råder över himlarna och jorden. Som Din nåd är i himlen, låt Din nåd vara så på jorden. Sänd ned nåd från Din nåd och en bot från Din bot över denna sjukdom.” [*Abū Dāwūd* 3892]
 
 Personen som fick detta läst över sig tillfrisknade då.
 

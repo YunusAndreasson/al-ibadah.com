@@ -2,9 +2,9 @@
 title: Bästa tiden för ´umrah under ramaḍān
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Källa: Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Källa: Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 163 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Fasta (Sawm)
   - Övrigt
@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Finns det någon särskild fördel som om att utföra *´umrah* under vallfärdsmånaderna, som är olika dess fördelar under andra månader?
 
-**Svar:** Den bästa tiden för *´umrah* är under *ramaḍān*. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*En ´umrah[^1] under Ramadan är likvärdig med en vallfärd*." [^2]
+**Svar:** Den bästa tiden för *´umrah* är under *ramaḍān*. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*En ´umrah[^1] under Ramaḍān är likvärdig med en vallfärd*." [^2]
 
 Denna *ḥadīt̲h*s äkthet finns det konsensus om och i en annan återberättelse med *al-Buk̲hārī*s ord sägs det: "*Är likvärdig med en vallfärd [utförd] med mig*." [^3] Och i Muslim finns en version som lyder: "*Är likvärdig med en vallfärd eller en vallfärd [utförd] med mig*." [^4]
 

@@ -2,9 +2,9 @@
 title: Ge pengar som zakātul-fiṭr
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 206 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Allmosa (Zakāh)
   - Fasteallmosa
@@ -23,9 +23,9 @@ description: >-
 
 Om detta har han sagt: "*Den som introducerar något i denna vår angelägenhet [islam] som inte tillhör den, då är det avvisat*." [^4] Och han har sagt: "*Den som utför en handling som inte tillhör vår angelägenhet [islam], då är den avvisad*." [^5]
 
-Genom det som man har bekräftat i autentiska *ḥadīt̲h* har han föreskrivet att *zakātul-fiṭr* ska vara en *ṣā´* mat. Detta är då en *ṣā´* torkade dadlar, korn, russin eller ost. Utan tvekan har al-Bukhārī och Muslim återgivit från ´Abdullāh bin ´Umar att han har sagt: ”*Allāhs sändebud ålade zakātul-fitr[^1] som en sa'[^2] korn för en slav och fri man; man och kvinna; och barn och vuxen bland muslimerna. Han kommenderade att den ska ges innan folket kommer ut till bönen*.”
+Genom det som man har bekräftat i autentiska *ḥadīt̲h* har han föreskrivet att *zakātul-fiṭr* ska vara en *ṣā´* mat. Detta är då en *ṣā´* torkade dadlar, korn, russin eller ost. Utan tvekan har al-Buk̲hārī och Muslim återgivit från ´Abdullāh bin ´Umar att han har sagt: ”*Allāhs sändebud ålade zakātul-fiṭr[^1] som en sa'[^2] korn för en slav och fri man; man och kvinna; och barn och vuxen bland muslimerna. Han befallde att den ska ges innan folket kommer ut till bönen*.”
 
-al-Bukhārī och *Muslim* har båda återgivit från Abū Sa´īd att han har sagt: ”Under *profetens – över honom vare Allāhs frid och välsignelser – tid brukade vi ge zakātul-fitr[^1] i form av en sa'[^2] mat [vilket då avser följande sorter] eller en sa'[^2] torkade dadlar eller en sa'[^2] korn eller en sa'[^2] russin*.” I en annan återberättelse säger han: ”*och en sa'[^2] ost*.”
+al-Buk̲hārī och *Muslim* har båda återgivit från Abū Sa´īd att han har sagt: ”Under *profetens – över honom vare Allāhs frid och välsignelser – tid brukade vi ge zakātul-fiṭr[^1] i form av en sa'[^2] mat [vilket då avser följande sorter] eller en sa'[^2] torkade dadlar eller en sa'[^2] korn eller en sa'[^2] russin*.” I en annan återberättelse säger han: ”*och en sa'[^2] ost*.”
 
 Därmed är detta Muḥammads *sunnah* när det gäller *zakātul-fiṭr*. Det är känt att när *zakātul-fiṭr* föreskrevs så existerade dinar och dirham [guld- och silvermynt] [speciellt bland muslimerna i Medina]. Detta var de två ledande myntformerna vid den tiden men ändå nämnde [Profeten] inte dem i samband med *zakātul-fiṭr*. Om någon av dem skulle vara acceptabel som *zakātul-fiṭr*, då hade han klargjort det då det inte är tillåtet att skjuta upp förklaringen till efter då det fanns ett behov. Om denna förklaring hade kommit, då hade följeslagarna agerat efter den [genom att ge pengar].
 
@@ -41,7 +41,7 @@ Jag ber Allāh att Han hjälper oss och alla muslimer med att förstå Hans reli
 
 Må Allāh sända frid och välsignelser över vår profet Muḥammad, hans familj och hans följeslagare.
 
-[^1]: Allmosa som ges före eid-bönen.
+[^1]: Allmosa som ges före ´eid-bönen.
 [^2]: Det mått som fyller en normalbyggd mans båda händer när personen kupar dem tillsammans.
 
 [^3]: Koranen 53:3 – 4

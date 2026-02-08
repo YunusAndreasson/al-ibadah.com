@@ -24,7 +24,7 @@ Att sitta tillsammans med dem kan leda till att man gör samma onda saker som de
 
 > ”Det har uppenbarats för er i Skriften att ni inte bör söka sällskap med dem som ni hör förneka och skämta om Guds budskap, om de inte övergår till andra samtalsämnen. Annars kan ni bli lika dem. Gud ska samla förnekarna i Helvetet och med dem hycklarna.” [Koranen 4:140]
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 
 [^1]: *at-Tirmid̲hī* 2801 och *Aḥmad* 3:339

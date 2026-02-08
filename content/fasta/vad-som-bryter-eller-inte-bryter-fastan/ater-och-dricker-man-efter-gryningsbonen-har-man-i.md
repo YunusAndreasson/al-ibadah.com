@@ -2,9 +2,9 @@
 title: Äta efter gryningsbönen och fastans giltighet
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 254 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Fasta (Sawm)
   - Fastebrytare
@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Skyldigheten, om det är en obligatorisk fasta, är att personen avstår mat, dryck och annat som bryter fastan efter att själv ha säkerställt tiden för gryningsbönen. Personen kan även bekräfta att tiden för gryningsbönen är inne genom att höra böneutropet från en böneutropare som normalt sett ropar utan böneutropet när gryningsbönen har börjat. Personen kan också säkerställa att gryningsbönen har kommit genom att titta på bönetidtabeller.
 
-Detta beror på att Allāh har sagt: "*Och ni får äta och dricka till dess den vita strimman av gryningsljuset kan urskiljas mot nattens mörker*." [^1] Det beror också på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Sannerligen, Bilal ropar ut böneutropet under natten så ät och drick tills ni hör böneutropet från Ibn Umm Maktum. För sannerligen, han ropar inte ut böneutropet förrän gryningsbönen börjar*." [^2] Ibn Umm Maktum var en blind man som inte ropade ut till bön utan att någon sade till honom: "*Morgonen har kommit, morgonen har kommit*." Denna återberättelse är al-Bukhārī och *Muslim* eniga om. Om någon därefter äter, dricker eller gör något annat som bryter fastan, då är den ogiltig.
+Detta beror på att Allāh har sagt: "*Och ni får äta och dricka till dess den vita strimman av gryningsljuset kan urskiljas mot nattens mörker*." [^1] Det beror också på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Sannerligen, Bilal ropar ut böneutropet under natten så ät och drick tills ni hör böneutropet från Ibn Umm Maktum. För sannerligen, han ropar inte ut böneutropet förrän gryningsbönen börjar*." [^2] Ibn Umm Maktum var en blind man som inte ropade ut till bön utan att någon sade till honom: "*Morgonen har kommit, morgonen har kommit*." Denna återberättelse är al-Buk̲hārī och *Muslim* eniga om. Om någon därefter äter, dricker eller gör något annat som bryter fastan, då är den ogiltig.
 
 När det gäller den som fastar frivilligt, personens fasta är inte fullständig om personen inte undviker att äta och dricka och allt annat som bryter fastan från tiden då gryningsbönen har trätt in. Detta precis på samma sätt som den som fastar en obligatorisk fasta. Om personen äter eller dricker eller gör något som bryter fastan efter gryningsbönen eller efter böneutropet för gryningsbönen, då har personen ingen fasta.
 

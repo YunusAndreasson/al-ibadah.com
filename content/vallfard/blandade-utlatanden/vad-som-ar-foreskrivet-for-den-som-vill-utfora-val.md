@@ -2,7 +2,7 @@
 title: Förberedelser inför vallfärden
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 36 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
@@ -20,7 +20,7 @@ description: >-
 
 Sedan bör personen skriva ned sitt testamente, vad än han är ansvarig för och hans tillgångar eller vad han än kan tänkas äga.
 
-Därpå ber personen istikharah[^1]-bönen och ber sin Herre om att Han väljer det som är bäst för honom. Efter att ha gjort detta fortsätter personen i den riktning som personens hjärta känner sig bekvämt.
+Därpå ber personen istik̲hārah[^1]-bönen och ber sin Herre om att Han väljer det som är bäst för honom. Efter att ha gjort detta fortsätter personen i den riktning som personens hjärta känner sig bekvämt.
 
 Personen bör välja ett rättfärdigt resesällskap med människor som har kunskap och religion [för att resa med]. Likaså bör personen ta med sig islamiska böcker som personen kan ha nytta av när det gäller vallfärden och andra ting. Detta kommer även att vara nyttigt för personens bröder.
 

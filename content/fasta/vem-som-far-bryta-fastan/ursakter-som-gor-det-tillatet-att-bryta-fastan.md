@@ -2,7 +2,7 @@
 title: Ursäkter som gör det tillåtet att bryta fastan
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 2.
   Libanon: Makbtaba Dar us-Salam. 632 s. ISBN 9960-892-66-2
 categories:
   - Fasta (Sawm)
@@ -30,7 +30,7 @@ Detta beror på att alla de [uppräknade] har brutit fastan av en giltig anledni
 
 Detta står i motsats till det fall i vilket det bekräftas att *ramaḍān* har börjat under dagen. I detta fall är det nödvändigt att fasta. Skillnaden mellan dessa båda fall är tydlig. Om bevisen finns där under dagen [för att *ramaḍān* har börjat], då har det bekräftats att fastan är en skyldighet under den dagen. Eftersom de inte visste ursäktas de för den tid som har hunnit gå. Detta är anledningen till att om de visste att denna dag var *ramaḍān*, då måste de fasta.
 
-Men när det gäller dem som har beskrivits så får de bryta deras fasta även om de känner till [att det är *ramaḍān*] och bevisen är tydliga för dem.
+Men när det gäller dem som har beskrivits så får de bryta sin fasta även om de känner till [att det är *ramaḍān*] och bevisen är tydliga för dem.
 
 
 [^1]: *Muslim* 1120

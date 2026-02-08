@@ -2,9 +2,9 @@
 title: Tidsperioden när man kan stryka över sockarna
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 332 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Renhet (Tahārah)
   - Strykning över strumpor
@@ -67,7 +67,7 @@ Tar man av dem så består renheten. Det är inte så att renheten upphävs geno
 
 Bevisen säger enbart att om man tar av det som man har strukit över, då går det inte längre att stryka över det mer. Man får alltså inte stryka mer förrän man har tvättat foten under en fullständig tvagning. Vi säger därmed att den grundläggande principen är, enligt de lagenliga bevisen, att den rituella renheten består tills det finns något bevis som motsäger sig. Finns det inte något sådant bevis är ens tvagning fortfarande giltig, den blir alltså inte ogiltig. Detta är enligt hur vi ser det den starkaste åsikten.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 
 [^1]: *at-Tirmid̲hī* och *an-Nasā’ī*

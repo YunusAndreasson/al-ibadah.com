@@ -1,8 +1,8 @@
 ---
-title: Höja rösten när man gör åminnelse efter den obligatoriska bönen
+title: Höja rösten vid åminnelse efter bönen
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 265 s. ISBN saknas
 categories:
   - Blandat
@@ -22,7 +22,7 @@ Denna autentiska *ḥadīt̲h* och andra med samma innebörd [som *ḥadīt̲h* 
 
 Det finns många fördelar med att höja rösten när man åminns Allāh efter den obligatoriska bönen; man lovprisar Allāh och visar tillrätta dem som har glömt bort detta. Hade det inte varit för det, då hade denna *sunnah* varit okänd för många.
 
-Och Allāh är beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 
 [^1]: *al-Buk̲hārī* 841 och *Muslim* 583

@@ -1,7 +1,7 @@
 ---
 title: Vad är trolldom?
 author: Ibn ´Abdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
  Libanon: Maktaba Dar us-Salam. 83 s. ISBN saknas'
 categories:
   - Troslära (´Aqīdah)

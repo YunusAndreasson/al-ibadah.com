@@ -16,5 +16,5 @@ description: 'Fråga: Är det tillåtet att hålla bröd i den vänstra handen? 
 
 **Svar:** Det är tillåtet att hålla brödet i vänster hand. Men beträffande att ta och ge det till andra med vänster hand, bör det göras med höger i stället. Detta för att hålla sig till god sed. Beträffande att äta är det inte tillåtet att göra det med vänster hand när man har möjlighet att göra det med höger.
 
-Och Allāh är Beviljaren av framgång. Och må frid och välsignelser vara över profeten Muḥammad, hans familj och hans följeslagare.
+Och Allāh är Den som ger framgång. Och må frid och välsignelser vara över profeten Muḥammad, hans familj och hans följeslagare.
 

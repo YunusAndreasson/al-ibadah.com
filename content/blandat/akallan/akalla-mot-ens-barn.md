@@ -1,16 +1,16 @@
 ---
-title: Åkalla mot ens barn
+title: Åkalla mot sina barn
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 7.
   Libanon: Maktaba Dar us-Salam. 291 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Blandat
   - Åkallan
 original_id: 694
 description: >-
-  Fråga: Många mödrar och fäder åkallar mot deras barn när de gjort ett misstag
+  Fråga: Många mödrar och fäder åkallar mot sina barn när de gjort ett misstag
   eller två. Vänligen, ge oss råd om detta. Svar: Vårt råd till föräldrar är att
   förlåta och att vara överseende med...
 ---

@@ -2,9 +2,9 @@
 title: Profetens giftermål med Zainab efter Zaids skilsmässa
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 272 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Sändebuden
@@ -27,7 +27,7 @@ Beträffande Zaids giftermål med Zainab så var det Allāhs sändebud – över
 
 > ”Jag har ädlare ursprung än vad han har.” Sedan har det rapporterats att Allāh om hennes ord uppenbarade: ”Och när en fråga som rör en troende man eller kvinna har avgjorts av Gud och Hans Sändebud, har dessa inte rätt att själva döma i det som rör dem; den som sätter sig upp emot Gud och Hans Sändebud begår ett uppenbart svårt misstag.” [Koranen 33:36]
 
-Hon svarade i lydnad till Allāh och i uppfyllnad av Hans sändebuds önskemål. Hon levde tillsammans med Zaid i omkring ett år, sedan inträffade det som ofta inträffar mellan en make och maka [de blev osams] och Zaid beklagade sig då om henne inför Allāhs sändebud, med anledning av hans relation till honom. Han var profetens – över honom vare Allāhs frid och välsignelser – före detta slav och hans fosterson, medan Zainab var profetens – över honom vare Allāhs frid och välsignelser – fasters dotter. 
+Hon svarade i lydnad till Allāh och i uppfyllnad av Hans sändebuds önskemål. Hon levde tillsammans med Zaid i omkring ett år, sedan inträffade det som ofta inträffar mellan en make och maka [de blev osams] och Zaid beklagade sig då om henne inför Allāhs sändebud, med anledning av hans relation till honom. Han var profetens – över honom vare Allāhs frid och välsignelser – före detta slav och hans fosterson, medan Zainab var profetens – över honom vare Allāhs frid och välsignelser – fasters dotter.
 
 Det ser ut som att Zaid föreslog en skilsmässa, så Allāhs sändebud – över honom vare Allāhs frid och välsignelser – beordrade att han skulle hålla fast vid och vara henne trofast, trots hans kunskap genom uppenbarelse från Allāh om att han skulle skilja sig från henne och att hon skulle bli hans fru. Detta berodde på att han var rädd för att folk skulle anse att det var skamfullt att han gifte sig med sonens fru. Detta var ju förbjudet under den hedniska tiden för islam.
 

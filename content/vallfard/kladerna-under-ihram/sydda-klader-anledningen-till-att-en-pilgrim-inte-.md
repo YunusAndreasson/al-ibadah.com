@@ -22,6 +22,6 @@ Det finns många anledningar till att det är föreskrivet att vi undviker sydda
 
 Det gör oss även ödmjuka och får oss att känna att vi är skyldiga att underkasta oss och rena oss själva från högmod. Det påminner oss om återupprättande av vänskapliga förbindelser, jämlikhet och asketism. Det påminner oss om att hålla oss borta från ett luxuöst liv som är fördömt och det får oss att känna empati för de fattiga och behövande. Det finns även andra syften bakom att utforma pilgrimsfärden på det sätt som Allāh har föreskrivit och som Hans sändebud har förklarat.
 
-Och Allāh är källan till att styrka. Må Allāh sända välsignelser och frid över vår profet Muḥammad, hans familj och följeslagare.
+Och Allāh är källan till all styrka. Må Allāh sända välsignelser och frid över vår profet Muḥammad, hans familj och följeslagare.
 
 

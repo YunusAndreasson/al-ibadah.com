@@ -1,8 +1,8 @@
 ---
-title: Skjuta upp betalningen av allmosan eller zakātul-fiṭr
+title: Skjuta upp allmosan eller zakātul-fiṭr
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 205 s. ISBN saknas
 categories:
   - Allmosa (Zakāh)

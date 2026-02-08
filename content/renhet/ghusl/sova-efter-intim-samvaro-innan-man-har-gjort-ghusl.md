@@ -2,7 +2,7 @@
 title: Sova efter intim samvaro innan man har gjort g̲husl
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 97 s. ISBN saknas
 categories:
   - Renhet (Tahārah)
@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Jag hade intim samvaro och efter det lade jag mig för att sova. Det sades sedan till mig att den som har haft intim samvaro i varje fall måste tvaga sig om personen vill sova eller äta. Andra har sagt att det inte är obligatoriskt men att föredra. Vänligen, ge mig ett utlåtande. Må Allāh belöna er.
 
-**Svar:** För den som befinner sig i den stora rituella orenheten är det *sunnah* att tvätta könsdelarna och tvaga sig innan personen sover, äter eller har intim samvaro igen. Det är inte en skyldighet, även om det är rekommenderat, innan man sover.
+**Svar:** För den som befinner sig i den stora rituella orenheten är det *sunnah* att tvätta könsdelarna och tvaga sig innan personen sover, äter eller har intim samvaro igen. Det är inte en skyldighet, även om det är rebefallt, innan man sover.
 
 'Umar – må Allāh vara nöjd med honom – har sagt: "*Allāhs sändebud! Får någon av oss sova i den stora rituella orenheten*?" Han svarade: "*Ja, om personen tvagar sig*."
 

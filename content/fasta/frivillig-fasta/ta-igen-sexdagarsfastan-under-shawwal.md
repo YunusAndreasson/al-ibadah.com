@@ -2,27 +2,27 @@
 title: Ta igen sexdagarsfastan under s̲hawwāl
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 336 s. ISBN saknas
 categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 1418
 description: >-
-  Fråga: En kvinna fastade varje år sex dagar i shawwal. Men ett år så födde hon
-  i början av ramadan och blödde då efter graviditeten. Hon blev inte ren förrän
-  ramadan var över. När hon hade blivit ...
+  Fråga: En kvinna fastade varje år sex dagar i s̲hawwāl. Men ett år så födde hon
+  i början av ramaḍān och blödde då efter graviditeten. Hon blev inte ren förrän
+  ramaḍān var över. När hon hade blivit ...
 ---
 
 **Fråga:** En kvinna fastade varje år sex dagar i *s̲hawwāl*. Men ett år så födde hon i början av *ramaḍān* och blödde då efter graviditeten. Hon blev inte ren förrän *ramaḍān* var över. När hon hade blivit ren började hon med att ta igen dagarna som hon hade missat [under *ramaḍān*]. Är hon skyldig att även ta igen de sex dagarna [under *s̲hawwāl*] efter att ha tagit igen fastan under *ramaḍān* även om detta sker under en annan månad än *s̲hawwāl* eller behöver hon enbart ta igen *ramaḍān*? Är det alltid en skyldighet att fasta dessa sex dagar under *s̲hawwāl*?
 
-**Svar:** Att fasta sex dagar under *s̲hawwāl* är *sunnah*, inte obligatoriskt. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Den som fastar under *ramadan* och sedan följer det med sex [dagars fasta] under *shawwal*, då är det som om personen hade fastat hela tiden [hela året]*." [^1] Denna *ḥadīt̲h* har imam Muslim återgivit i sin *Ṣaḥīḥ* och den bevisar att det inte är någon fara i att fasta dem vare sig på rad eller enskilt.
+**Svar:** Att fasta sex dagar under *s̲hawwāl* är *sunnah*, inte obligatoriskt. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Den som fastar under *ramaḍān* och sedan följer det med sex [dagars fasta] under *s̲hawwāl*, då är det som om personen hade fastat hela tiden [hela året]*." [^1] Denna *ḥadīt̲h* har imam Muslim återgivit i sin *Ṣaḥīḥ* och den bevisar att det inte är någon fara i att fasta dem vare sig på rad eller enskilt.
 
 Detta på grund av ordens allmänna betydelse. Att skynda sig med att fasta dem är bättre eftersom Allāh har sagt: "*Han svarade: 'De följer i mina spår; och jag har skyndat till Dig, Herre, för att vara Dig till lags*." [^2] Detta beror även på vad Koran-verser och *aḥādīt̲h* bevisar om förtjänsten med att skynda sig att göra gott.
 
 Det är inte en skyldighet att alltid utföra denna fasta, men det är bättre. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Den handling som Allāh älskar mest är den som utföraren gör konstant, även om det enbart är lite*." [^3] Det är inte föreskrivet att ta igen denna fasta när *s̲hawwāl* är över. Det är ju en *sunnah* och tidpunkten är då över. Detta gäller oavsett om hon övergav den med eller utan ursäkt.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 
 [^1]: *Muslim* 1164

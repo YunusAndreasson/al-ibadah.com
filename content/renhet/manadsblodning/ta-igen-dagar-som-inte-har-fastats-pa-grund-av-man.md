@@ -2,7 +2,7 @@
 title: Ta igen dagar som inte har fastats på grund av månadsblödning
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 312 s. ISBN saknas
 categories:
   - Renhet (Tahārah)

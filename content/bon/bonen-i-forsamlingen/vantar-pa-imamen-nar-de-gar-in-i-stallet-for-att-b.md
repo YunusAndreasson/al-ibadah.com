@@ -1,8 +1,8 @@
 ---
-title: Väntar på imamen när de går in i stället för att be hälsningsbönen för moskén
+title: Vänta på imamen istället för att be hälsningsbönen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 458 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)

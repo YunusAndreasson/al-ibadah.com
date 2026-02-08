@@ -2,9 +2,9 @@
 title: Bön bakom en person som söker hjälp från någon annan än Allāh
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 112 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Åkallan av döda
@@ -21,7 +21,7 @@ description: >-
 
 > ”Och den som hörde till hans folk ropade till [Moses] att hjälpa honom mot hans fiende.” [Koranen 28:15]
 
-Finner du ingen muslimsk imam som du kan be bakom, då får du be hemma. Kan du finna en församling att be med i moskén, antingen före eller när imamen som utövar *s̲hirk* har bett, då bör du be med dem. 
+Finner du ingen muslimsk imam som du kan be bakom, då får du be hemma. Kan du finna en församling att be med i moskén, antingen före eller när imamen som utövar *s̲hirk* har bett, då bör du be med dem.
 
 Har muslimerna möjlighet att få imamen som utövar *s̲hirk* avsatt och ersätt med en muslimsk imam som kan leda folket i bön, då måste de göra så då detta är en del av att påbjuda det goda och att förbjuda det onda – om det är möjligt att göra så utan att skapa konflikter. Det är även ett verkställande av Allāhs lag på jorden. Allāh säger:
 

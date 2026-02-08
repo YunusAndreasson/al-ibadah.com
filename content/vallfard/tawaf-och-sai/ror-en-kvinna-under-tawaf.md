@@ -2,9 +2,9 @@
 title: Rör en kvinna under ṭawāf
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 180 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
@@ -31,6 +31,5 @@ Det betyder inte att man enbart rör en kvinna, som rapporterats från Ibn Mas'�
 
 Genom detta lär vi oss att den som rör en kvinnas kropp under *ṭawāf* fortfarande har en korrekt *ṭawāf* och att personens tvagning är giltig. Även om personen rör eller kysser sin fru är personens tvagning giltig så länge inget kommer ur honom [vätska eller sperma].
 
-[^1]: Den sju långa rundar vandringen runt Kabah.
 
 [^2]: Koranen 5:6

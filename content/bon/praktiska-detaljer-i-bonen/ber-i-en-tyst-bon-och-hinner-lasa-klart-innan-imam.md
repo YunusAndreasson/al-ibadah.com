@@ -4,7 +4,7 @@ title: >-
   vara tyst
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 534 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
@@ -12,7 +12,7 @@ categories:
 original_id: 987
 description: >-
   Fråga: Om en troende i en tyst bön läser klart sura *al-Fātiḥah* och en annan
-  sura innan imamen gör bugningen[^1], bör personen då vara tyst? Svar: Den som
+  sura innan imamen gör bugningen, bör personen då vara tyst? Svar: Den som
   leds i bön bör inte vara tyst om personen läser...
 ---
 

@@ -1,20 +1,20 @@
 ---
 title: Besvara den som nyser när imamen håller predikan
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
  Libanon: Maktaba Dar us-Salam. 445 s. ISBN saknas'
 categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 350
-description: 'Fråga : Vilket är utlåtandet om att besvara den som nyser medan imamen
- håller fredagspredikan? Svar : Då man måste vara tyst är det inte tillåtet. På
+description: 'Fråga: Vilket är utlåtandet om att besvara den som nyser medan imamen
+ håller fredagspredikan? Svar: Då man måste vara tyst är det inte tillåtet. På
  samma sätt som den som nyser inte besvaras i ...'
 ---
 
-**Fråga**: Vilket är utlåtandet om att besvara den som nyser medan imamen håller fredagspredikan?
+**Fråga:** Vilket är utlåtandet om att besvara den som nyser medan imamen håller fredagspredikan?
 
-**Svar**: Då man måste vara tyst är det inte tillåtet. På samma sätt som den som nyser inte besvaras i bönen, besvaras personen heller inte under predikan.
+**Svar:** Då man måste vara tyst är det inte tillåtet. På samma sätt som den som nyser inte besvaras i bönen, besvaras personen heller inte under predikan.
 
-Allāh är Beviljaren av framgång.
+Allāh är Den som ger framgång.
 

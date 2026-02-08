@@ -4,7 +4,7 @@ title: >-
   slutade det att regna
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 151 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -12,7 +12,7 @@ categories:
 original_id: 1469
 description: >-
   Fråga: Om de slog ihop eftermiddagsbönen och middagsbönen och bad dem vid
-  middagsbönen, och de även utförde nattbönen[^1] och kvällsbönen på ett
+  middagsbönen, och de även utförde nattbönen och kvällsbönen på ett
   liknande sätt, med anledning av regnväder under middag...
 ---
 
@@ -20,7 +20,7 @@ description: >-
 
 **Svar:** De lärde har nämnt att regn som är tillräckligt för att göra kläderna blöta och göra det obekvämt är en giltig ursäkt för att slå ihop bönerna. De är eniga om att det är tillåtet att slå ihop nattbönen och kvällsbönen med anledning av regn som gör kläderna våta. Detta grundas på en återberättelse från Abū Salam bin ´Abdur-Rahmān. Han säger: ”*Det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah* för oss att under dagar då det regnar slå ihop kvällsbönen och nattbönen*.”
 
-al-Bukhārī har återberättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – slog ihop kvällsbönen och nattbönen under en regning natt. De lärde är eniga om det är tillåtet att slå ihop middagsbönen och eftermiddagsbönen. Några tillåter och som bevis citerar de en återberättelse från al-Hasan bin Wabhdhah, från Musa bin 'Uqbah, från Nafi', från Ibn ´Umar där profeten – över honom vare Allāhs frid och välsignelser – slog ihop middagsbönen och eftermiddagsbönen i Medina när det regnade. al-Qadhi och Abū al-Khattab har denna åsikt, och det är åsikten i ash-Shafi'is rättsskola.
+al-Buk̲hārī har återberättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – slog ihop kvällsbönen och nattbönen under en regning natt. De lärde är eniga om det är tillåtet att slå ihop middagsbönen och eftermiddagsbönen. Några tillåter och som bevis citerar de en återberättelse från al-Ḥasan bin Wabhdhah, från Musa bin 'Uqbah, från Nafi', från Ibn ´Umar där profeten – över honom vare Allāhs frid och välsignelser – slog ihop middagsbönen och eftermiddagsbönen i Medina när det regnade. al-Qadhi och Abū al-Khattab har denna åsikt, och det är åsikten i ash-Shafi'is rättsskola.
 
 Några av de lärde anser att det inte är tillåtet att slå ihop middagsbönen och eftermiddagsbönen på grund av regn. Anledningen är att rätten till att göra detta endast har rapporterats för kvällsbönen och nattbönen samt att svårigheterna vid detta tillfälle är större. Ibn Qudamah har i *al-Mughni* sagt:
 

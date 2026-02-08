@@ -1,7 +1,7 @@
 ---
-title: Ange villkor under åkallan
+title: Ställa villkor under åkallan
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 7.
  Libanon: Maktaba Dar us-Salam. 277 s. ISBN saknas'
 categories:
   - Blandat

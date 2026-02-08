@@ -2,7 +2,7 @@
 title: Fasta de sex dagarna i s̲hawwāl innan man fastar för en gottgörelse
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 338 s. ISBN saknas
 categories:
   - Fasta (Sawm)

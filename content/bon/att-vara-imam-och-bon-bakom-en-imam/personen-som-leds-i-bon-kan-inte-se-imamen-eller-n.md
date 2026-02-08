@@ -1,8 +1,7 @@
 ---
-title: Personen som leds i bön kan inte se imamen eller någon som är bakom imamen
- men kan hör hans röst
+title: Kan inte se imamen eller de bakom honom
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
  Libanon: Maktaba Dar us-Salam. 24 s. ISBN saknas'
 categories:
   - Bön (Salāh)

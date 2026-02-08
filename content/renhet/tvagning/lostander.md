@@ -2,7 +2,7 @@
 title: Löständer
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 319 s. ISBN 9960-892-66-2
 categories:
   - Renhet (Tahārah)
@@ -20,5 +20,5 @@ Har någon löständer ser det ut som om att det inte är en skyldighet att ta u
 
 Profeten – över honom vare Allāhs frid och välsignelser – brukade bära den och det har inte rapporterats att han brukade ta av dem när han tvagade[^1] sig. Det är sannolikare att de skulle hindra vattnet från att nå huden än vad löständer gör. Detta speciellt då det är svårt för somliga att plocka ut och sätta tillbaka dem.
 
-[^1]: Wudū
+[^1]: Wuḍū’
 

@@ -2,7 +2,7 @@
 title: Höja händerna vid åkallan under fredagsbönen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 7.
   Libanon: Maktaba Dar us-Salam. 284 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)

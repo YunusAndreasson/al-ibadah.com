@@ -2,7 +2,7 @@
 title: Tidpunkter då det inte är tillåtet att be och undantag från dessa
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 291 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -22,7 +22,7 @@ Undantagna från dessa tider är de böner som det finns en anledning till. Dett
 
 På samma sätt är *sunnah* för gryningsbönen ett undantag. Den kan bes efter gryningsbönen. Det är dock inte tillåtet att be mer än två bönecykler. När profeten – över honom vare Allāhs frid och välsignelser – bad efter gryningsbönen, då bad han endast två korta bönecykler som *sunnah* efter gryningsbönen. Så om man på grund av tidsbrist eller någon annan anledning inte har hunnit be *sunnah*, då är det enligt den mest korrekta åsikten bland de lärde tillåtet att be den efter gryningsbönen. Om han skjuter upp den till efter solen har gått upp, då är det bättre.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 [^1]: Tahiyyatul-Msjid.
 

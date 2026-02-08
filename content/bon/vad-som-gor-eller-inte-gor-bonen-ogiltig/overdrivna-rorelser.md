@@ -2,7 +2,7 @@
 title: Överdrivna rörelser
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 201 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -24,7 +24,7 @@ Ett annat exempel är om någon informerar en person som ber om att personen int
 
 Förbjudna rörelser är upprepade och onödig rörelser. Anledningen är att dessa rörelser gör bönen ogiltig som gör bönen ogiltig är förbjudet. Detta beror på är att det är en sorts hån mot Allāhs verser.
 
-Rörelserna som är föredragna är de rörelser som utförs för att göra något som är rekommenderat, som att röra sig för att göra raden rak, röra sig framåt om man ser en tom plats framför sig eller andra rörelser som föredragna handlingar uppnås genom i bönen. Detta görs för att bönen ska bli perfekt.
+Rörelserna som är föredragna är de rörelser som utförs för att göra något som är rebefallt, som att röra sig för att göra raden rak, röra sig framåt om man ser en tom plats framför sig eller andra rörelser som föredragna handlingar uppnås genom i bönen. Detta görs för att bönen ska bli perfekt.
 
 Detta är anledningen till att när Ibn 'Abbās bad med profeten – över honom vare Allāhs frid och välsignelser – och han stod vid hans vänstra sida, då tog profeten – över honom vare Allāhs frid och välsignelser – tag i hans huvud och ställde honom på sin högra sida. [^2]
 

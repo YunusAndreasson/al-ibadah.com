@@ -2,15 +2,15 @@
 title: 'Skjuta upp nattbönen [isha]'
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 239 s. ISBN saknas
 categories:
   - Bön (Salāh)
   - Övrigt
 original_id: 250
 description: >-
-  Fråga: Vilket är utlåtandet om att skjuta upp nattbönen[^1] till en senare
-  tidpunkt? Svar: Det är bättre om nattbönen[^1] skjuts upp till en senare
+  Fråga: Vilket är utlåtandet om att skjuta upp nattbönen till en senare
+  tidpunkt? Svar: Det är bättre om nattbönen skjuts upp till en senare
   tidpunkt. Desto mer den skjuts upp, desto bättre. ...
 ---
 

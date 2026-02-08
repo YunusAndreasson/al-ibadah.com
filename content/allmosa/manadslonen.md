@@ -1,7 +1,7 @@
 ---
 title: Månadslönen
 author: Ibn ´Abdur-Rahman al-Jibrīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
  Libanon: Maktaba Dar us-Salam. 158 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
@@ -17,7 +17,7 @@ description: 'Fråga: Jag är anställd i ett privatägt företag och jag tar em
 
 Om du då sparar en summa från din lön varje månad är det både säkrare och lättare om du utser en månad varje år då du betalar allmosa för summan som du har sparat det året och allt som du hade innan dess. Den del som du är skyldig att betala är en fyrtiondel, det vill säga 2.5 procent.
 
-Och Allāh är givaren av framgång.
+Och Allāh är Den som ger framgång.
 
 [^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramaḍān* 1428).
 

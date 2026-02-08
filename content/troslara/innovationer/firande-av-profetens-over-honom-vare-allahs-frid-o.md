@@ -4,7 +4,7 @@ title: >-
   födelsedag ”al-Milad”
 author: Ibn ´Abdullah Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 72 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
@@ -26,7 +26,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – beordrade inte 
 
 > ”Det bästa talet är Allāh skrift, och den bästa vägledningen är Muḥammads vägledning, och nya innovationer är villfarelse.” [*Muslim* 867 och *Ibn Mājah* 45]
 
-an-Nasā’i har i sin återberättelse innefattat: "*och varje villfarelse är i Elden*.” [^3]
+an-Nasā’ī har i sin återberättelse innefattat: "*och varje villfarelse är i Elden*.” [^3]
 
 Denna födelsedag bör ersättas av studier i moskéerna och i skolorna om händelser som rör hans födelse [i hans biografi] under tiden före islam och under islam. Det finns inget behov av att denna födelsedag, som varken Allāh eller Hans Profet har föreskrivit. Det saknas även bevis för detta.
 

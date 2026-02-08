@@ -2,7 +2,7 @@
 title: Kvinna som måste be och som gör det utan slöja
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Fatāwa al-Marah Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn:
+  Fatāwa al-Marah Muhammed Knut Bernström (1421), Koranens budskap. Simrishamn:
   Proprius. ISBN 91-7118-887-8
 categories:
   - Bön (Salāh)

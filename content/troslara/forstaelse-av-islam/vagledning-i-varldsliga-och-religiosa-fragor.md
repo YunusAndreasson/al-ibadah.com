@@ -1,22 +1,22 @@
 ---
 title: Vägledning i världsliga och religiösa frågor
-author: Shaykh ul-islām Ibn Taymiyyah
+author: S̲hayk̲h ul-islām Ibn Taymiyyah
 source: >-
   l-Wasiyyah al-Jāmi’ah li khayr al-Sunya wa’l-Ākhirah Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 516
 description: >-
   Fråga: Kan du ge några råd som kan vägleda oss i religiösa och världsliga
-  frågor? Shaykh ul-islām Ibn Taymiyyah ställdes följande fråga: Jag bad
+  frågor? S̲hayk̲h ul-islām Ibn Taymiyyah ställdes följande fråga: Jag bad
   shayken, imamen, åtföljaren av salaf och ledar...
 ---
 
 **Fråga:** Kan du ge några råd som kan vägleda oss i religiösa och världsliga frågor?
 
-Shaykh ul-islām Ibn Taymiyyah ställdes följande fråga:
+S̲hayk̲h ul-islām Ibn Taymiyyah ställdes följande fråga:
 
 Jag bad shayken, imamen, åtföljaren av *salaf* och ledarna i generationerna som följde, den berömdaste man som jag någonsin har träffat ifrån öst och väst, Taqiy al-Dīn Abu'l-Abbās *Aḥmad* Ibn Taymiyyah att ge mig råd om något som kan vägleda mig i både religiösa och världsliga frågor.
 
@@ -38,7 +38,7 @@ Ibn Mas'ūd brukade säga att Mu'ādh var en ledare med rättfärdiga och goda k
 
 Profeten – över honom vare Allāhs frid och välsignelser – gav honom detta råd så vi bör notera att det är [både] kortfattat och omfattande. Det är så för den som förstår det, även om det är en uttolkning av råd som ges i Koranen.
 
-Gällande dess korthet är det för att man har två plikter: plikten mot Allāh och plikten mot andra. Det är oundvikligt att inte misslyckas ibland; antingen genom att inte utföra en kommendering eller genom att göra något som är förbjudet. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Frukta Allāh var ni än befinner er.*" Detta är ett omfattande uttryck. Orden "*var ni än befinner er*" hänvisar till behovet av *taqwā*, både i det dolda och öppna.
+Gällande dess korthet är det för att man har två plikter: plikten mot Allāh och plikten mot andra. Det är oundvikligt att inte misslyckas ibland; antingen genom att inte utföra en befallning eller genom att göra något som är förbjudet. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Frukta Allāh var ni än befinner er.*" Detta är ett omfattande uttryck. Orden "*var ni än befinner er*" hänvisar till behovet av *taqwā*, både i det dolda och öppna.
 
 Efter detta sade han: "*Och låt en dålig handling följas med en god handling. Den kommer att gottgöra för den dåliga*." När doktorn träffar en patient och inser att personen har fått något skadligt i sig, då kommer han att säga åt personen att ta något som gör personen bra. Att människan syndar är något oundvikligt.
 
@@ -54,7 +54,7 @@ Om gottgörelser som inte finns definierade sade Hudhayfah till ´Umar:
 
 > ”Den *fitnah*[då personen kommer till korta i religiösa frågor] som en man utsätts för genom sin familj, egendom och barn kan gottgöras för genom bön, fasta, välgörenhet samt att påbjuda det goda och förbjuda det onda.”
 
-Detta antyds i Koranen och de *sahīh ahādīth*[^1] som talar om gottgörelse genom de fem dagliga bönerna, fredagsbönen, fastan, pilgrimsfärden samt alla handlingar som har sagts sona för synder. Det finns många sådana rapporter i böcker om *aḥādīt̲h*, speciellt de böcker som handlar om ädla handlingar.
+Detta antyds i Koranen och de *sahīh aḥādīt̲h*[^1] som talar om gottgörelse genom de fem dagliga bönerna, fredagsbönen, fastan, pilgrimsfärden samt alla handlingar som har sagts sona för synder. Det finns många sådana rapporter i böcker om *aḥādīt̲h*, speciellt de böcker som handlar om ädla handlingar.
 
 Det bör anmärkas att lägga vikt vid sådana frågor är något som vi är i största behov av. När någon kommer in i puberteten, speciellt nu för tiden och under tider som påminner om den före islam på så många sätt, kan den som växer upp bland de som är kunniga och religiösa påverkas av hednisk okunnighet – så hur är det då inte med andra?
 
@@ -78,9 +78,9 @@ När profeten – över honom vare Allāhs frid och välsignelser – hade fasts
 
 Det "*lysande exempel*" [^2] som Allāh har beskrivit Muḥammad med är den religion som består av allt som Allāh har påbjudit. Följaktligen har Mujāhid sagt att han var en uttolkare av Koranen, för 'A'ishah – må Allāh vara nöjd med henne – har sagt: "*Hans karaktär var Koranen*."
 
-Grunden för denna karaktär var att han med skyndsamhet, vilja och ett öppet hjärta gjorde vad Allāh älskar. Detta kan summeras i ordet *taqwā* som innefattar att man gör allt som Allāh har påbjudit oavsett om det är obligatoriskt eller rekommenderat och att man undviker allt som han har förbjudit oavsett om det är förbjudet eller ogillat.
+Grunden för denna karaktär var att han med skyndsamhet, vilja och ett öppet hjärta gjorde vad Allāh älskar. Detta kan summeras i ordet *taqwā* som innefattar att man gör allt som Allāh har påbjudit oavsett om det är obligatoriskt eller rebefallt och att man undviker allt som han har förbjudit oavsett om det är förbjudet eller ogillat.
 
-Detta för samma både plikter mot Allāh och plikter mot andra människor. Men taqwa kan ibland också avse fruktan för det straff som gör att man avstår det som är förbjudet. Detta har förklarats i en *ḥadīt̲h* om Mu’ādh. På samma sätt i en *ḥadīt̲h* från Abū Hurairah som har återberättats och klassats som *Ṣaḥīḥ* av *at-Tirmid̲hī*:
+Detta för samma både plikter mot Allāh och plikter mot andra människor. Men taqwā kan ibland också avse fruktan för det straff som gör att man avstår det som är förbjudet. Detta har förklarats i en *ḥadīt̲h* om Mu’ādh. På samma sätt i en *ḥadīt̲h* från Abū Hurairah som har återberättats och klassats som *Ṣaḥīḥ* av *at-Tirmid̲hī*:
 
 > ”Det sades: ’Allāhs sändebud! Vad är det som oftast tar människor till Paradiset?’ Han svarade: ’Fruktan av Allāh och ett bra sätt.” Det sades: ’Och vad är det som vanligtvis tar människor till Helvetet?’ Han svarade: ’De två håliga sakerna: munnen och könsdelarna.’”
 

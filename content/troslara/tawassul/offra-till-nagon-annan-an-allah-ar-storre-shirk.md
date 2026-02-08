@@ -2,9 +2,9 @@
 title: Offra till någon annan än Allāh är större s̲hirk
 author: Ibn ´Abdullah Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 40 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Medel för åkallan
@@ -37,7 +37,7 @@ Det finns många verser som förmedlar denna mening.
 
 Då offer är en dyrkan så måste den uppriktigt tillägnas Allāh. Imam *Muslim* återberättar i sin *Ṣaḥīḥ* att de troendes befälhavare, ´Alī, har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Allāh förbannar den som offrar till andra än Honom*.” [^1]
 
-När det gäller dem som säger: ”*Jag besvärjer Allāh vid Hans älskade troendes rätt, vid Hans älskade troendes heder, vid profetens – över honom vare Allāhs frid och välsignelser – rätt eller vid hans heder*.” Sådana besvärjelser är inte *s̲hirk*, men enligt de lärde är det en innovation. 
+När det gäller dem som säger: ”*Jag besvärjer Allāh vid Hans älskade troendes rätt, vid Hans älskade troendes heder, vid profetens – över honom vare Allāhs frid och välsignelser – rätt eller vid hans heder*.” Sådana besvärjelser är inte *s̲hirk*, men enligt de lärde är det en innovation.
 
 De anser också att detta är medel för, därför att en åkallan är en dyrkan och sättet det bör göras på är inte något som det går att ja olika åsikter om. Det finns inga bevis från profeten – över honom vare Allāhs frid och välsignelser – för att han har tillåtit besvärjelser vid någon människas rätt eller heder.
 

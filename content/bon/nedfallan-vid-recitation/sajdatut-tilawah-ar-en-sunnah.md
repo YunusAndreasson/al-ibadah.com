@@ -2,7 +2,7 @@
 title: Sujūd at-tilāwah är en sunnah
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 282 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -10,8 +10,8 @@ categories:
 original_id: 281
 description: >-
   Fråga: Om jag läser en vers, när jag sitter vid mitt skrivbord eller när jag
-  undervisar elever, i vilken där finns en vers med nedfallan[^1] – bör jag
-  nedfalla[^1] då? Skall både den som reciterar och d...
+  undervisar elever, i vilken där finns en vers med nedfallan – bör jag
+  nedfalla då? Skall både den som reciterar och d...
 ---
 
 **Fråga:** Om jag läser en vers, när jag sitter vid mitt skrivbord eller när jag undervisar elever, i vilken där finns en vers med nedfallan – bör jag nedfalla då? Skall både den som reciterar och den som lyssnar nedfalla?

@@ -1,9 +1,9 @@
 ---
 title: Skillnaden mellan ett sändebud och en profet
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
  Libanon: Maktaba Dar us-Salam. 226 s. ISBN saknas Muhammed Knut Bernström (1421),
- Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+ Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
   - Sändebuden
@@ -15,7 +15,7 @@ description: 'Fråga: Finns det någon skillnad mellan ett sändebud och en prof
 
 **Fråga:** Finns det någon skillnad mellan ett sändebud och en profet?
 
-**Svar:** Ja, de lärde säger att en profet är någon som har fått ta emot en uppenbarelse från Allāh om en lag men som inte är kommenderad att sprida den utan endast utöva den själv utan att behöva förmedla den.
+**Svar:** Ja, de lärde säger att en profet är någon som har fått ta emot en uppenbarelse från Allāh om en lag men som inte är befallad att sprida den utan endast utöva den själv utan att behöva förmedla den.
 
 Ett sändebud är någon som tar emot en uppenbarelse från Allāh om en lag och som sedan befalls att sprida den och handla efter den. Alla Sändebud är profeter, men alla Profeter är inte ett sändebud. Profeterna är fler än Budbärarna och Allāh har berättat historierna om några i Koranen. Allāh den Upphöjde säger:
 

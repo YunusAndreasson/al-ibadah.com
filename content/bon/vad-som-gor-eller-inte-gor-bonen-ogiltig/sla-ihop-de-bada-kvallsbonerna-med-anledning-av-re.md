@@ -4,16 +4,16 @@ title: >-
   affärsangelägenheter
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 224 s. ISBN saknas
 categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 239
 description: >-
-  Fråga: Är det tillåtet att slå ihop kvällsbönen och nattbönen[^1] under
+  Fråga: Är det tillåtet att slå ihop kvällsbönen och nattbönen under
   regniga kvällar när det finns mycket lera på vägen till moskén? Får en
-  affärsman be kvällsbönen och nattbönen[^1] tillsammans för ...
+  affärsman be kvällsbönen och nattbönen tillsammans för ...
 ---
 
 **Fråga:** Är det tillåtet att slå ihop kvällsbönen och nattbönen under regniga kvällar när det finns mycket lera på vägen till moskén? Får en affärsman be kvällsbönen och nattbönen tillsammans för att han ska kunna hålla sin affär öppen?

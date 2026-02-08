@@ -2,9 +2,9 @@
 title: Åt vid tidpunkten för böneutropet
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 252 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Fasta (Sawm)
   - Fastebrytare
@@ -27,7 +27,7 @@ Det är känt att den som befinner sig inom stadsgränserna, där det finns gatu
 
 Gör personen så här följs profetens – över honom vare Allāhs frid och välsignelser – ord: "*Lämna vad ni känner tvivel inför för det som inte orsakar er tvivel*." [^2] Profeten – över honom vare Allāhs frid och välsignelser – har också sagt: "*Den som undviker de tveksamma frågorna, då sannerligen har personen säkrat sin religion och heder [från tvivel]*." [^3]
 
-Och Allāh är Givaren av framgång.
+Och Allāh är Den som ger framgång.
 
 
 [^1]: Koranen 2:187

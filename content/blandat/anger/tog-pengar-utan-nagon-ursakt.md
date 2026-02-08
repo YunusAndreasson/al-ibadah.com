@@ -1,7 +1,7 @@
 ---
 title: Tog pengar utan någon ursäkt
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 7.
  Libanon: Maktaba Dar us-Salam. 267 s. ISBN saknas'
 categories:
   - Blandat
@@ -20,5 +20,5 @@ Känner du inte honom och därmed har förlorat hoppet om att återfinna honom k
 
 Du bör be Allāh den Allsmäktige om förlåtelse, ångra dig inför Honom och be för personen som du handlat felaktigt mot.
 
-[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 ramadan 1428).
+[^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 ramaḍān 1428).
 

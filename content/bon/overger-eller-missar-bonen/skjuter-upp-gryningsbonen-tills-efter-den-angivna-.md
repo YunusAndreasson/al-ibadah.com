@@ -2,9 +2,9 @@
 title: Skjuter upp gryningsbönen tills efter den angivna tiden har gått ut
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 386 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Bön (Salāh)
   - Missad bön
@@ -25,6 +25,6 @@ Men om personen inte anser att det är tillåtet, har vetskap om att det är en 
 
 Bekanta till dessa personer måste ge dem råd och vägleda dem till det goda. Ångrar de sig är allt frid och fröjd men om inte, då måste de rapporteras till myndigheterna som ansvar för denna fråga. Då har de fullgjort sitt ansvar och de ansvariga myndigheterna kan ta hand om personen.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 

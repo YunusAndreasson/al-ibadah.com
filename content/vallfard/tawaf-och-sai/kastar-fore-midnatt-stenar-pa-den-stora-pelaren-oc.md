@@ -2,7 +2,7 @@
 title: Kastar före midnatt stenar på den stora pelaren och utför ṭawāf utan renhet
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 181 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
@@ -26,5 +26,4 @@ Du måste även utföra *ṭawāf* vid något tillfälle även om det sker i slu
 
 Och Allāh vet bäst.
 
-[^1]: Den sju långa rundar vandringen runt Kabah.
 

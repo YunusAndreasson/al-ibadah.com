@@ -1,25 +1,25 @@
 ---
-title: Åminnelse av Allāh som är föreskriven efter att ha sagt taslīm i bönen
+title: Föreskriven åminnelse efter taslīm
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 491 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Blandat
   - Åminnelse
 original_id: 967
 description: >-
   Fråga: Vilka är de former av åminnelse av Allāh som är föreskrivna efter att
-  ha gjort taslīm i bönen? Svar: Nämnandet av Allāh den Upphöjde kommenderas när
+  ha gjort taslīm i bönen? Svar: Nämnandet av Allāh den Upphöjde befalls när
   Han säger: ” Och minns Gud efter b...
 ---
 
 **Fråga:** Vilka är de former av åminnelse av Allāh som är föreskrivna efter att ha gjort *taslīm* i bönen?
 
-**Svar:** Nämnandet av Allāh den Upphöjde kommenderas när Han säger: ”*Och minns Gud efter bönens slut – när ni står upp, när ni sitter och när ni lägger er att vila.*” [^1] De åminnelser som Allāh har kommenderat är allmänna men profeten – över honom vare Allāhs frid och välsignelser – har klargjort dem:
+**Svar:** Nämnandet av Allāh den Upphöjde befalls när Han säger: ”*Och minns Gud efter bönens slut – när ni står upp, när ni sitter och när ni lägger er att vila.*” [^1] De åminnelser som Allāh har befallt är allmänna men profeten – över honom vare Allāhs frid och välsignelser – har klargjort dem:
 
-> ”När ni har gjort *taslīm*, sök förlåtelse från Allāh tre gånger. [Säg:] *Allāhumma antas-salamu wa minkas-salamu, tabarakta ya thal-jalali wal-ikram. Lā ilāha illAllāhu wahdahu la sharīka lahu, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadīr. Allāhumma la mani'a lima a'taita wa la mu'tiya lima mana'ta wa la yanfa'u thal-jaddi minkal-jadd. Lā ilāha illAllāhu wa la na'budu illa iyyahu, lahun-ni'matu wa lahul-fadhlu wa lahuth-thana ul-hasan. La hawla wa la quwwata illa billahi, Lā ilāha illAllāhu wa la na'budu illa iyya mukhlisīna lahud-dīnu wa law karihal-Kafirūn*.” [*Muslim* 594]
+> ”När ni har gjort *taslīm*, sök förlåtelse från Allāh tre gånger. [Säg:] *Allāhumma antas-salamu wa minkas-salamu, tabarakta ya thal-jalali wal-ikram. Lā ilāha illAllāhu wahdahu la sharīka lahu, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadīr. Allāhumma la mani'a lima a'taita wa la mu'tiya lima mana'ta wa la yanfa'u thal-jaddi minkal-jadd. Lā ilāha illAllāhu wa la na'budu illa iyyahu, lahun-ni'matu wa lahul-fadhlu wa lahuth-thana ul-ḥasan. La hawla wa la quwwata illa billahi, Lā ilāha illAllāhu wa la na'budu illa iyya mukhlisīna lahud-dīnu wa law karihal-Kafirūn*.” [*Muslim* 594]
 
 Du glorifierar Allāh [*tasbīḥ*] på det sätt som har rapporterats från profeten. Du kan glorifiera Allāh genom att prisa Honom [*taḥmīd*] och göra *takbīr*. Detta gör du genom att 33 gånger var säga: *Subḥān Allāh*, *al-Ḥamdu Lillāh* och *Allāhu akbar*. När du avslutar gör du dem till 100 genom att säga: *La illaha illAllāhu wahdahu la sharīka lahu, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadīr*.
 
@@ -33,7 +33,7 @@ Vilken sorts *tasbīḥ* du än väljer är det tillåtet. Den islamiska lagen s
 
 I kvällsbönen och gryningsbönen görs *tahlīl* tio gånger och likadant orden ”*Rabbi ajirni min an-nar*” [Min Herre! Ge mig skydd från Elden] som upprepas sju gånger efter kvällsbönen och gryningsbönen.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 
 [^1]: Koranen 4:103

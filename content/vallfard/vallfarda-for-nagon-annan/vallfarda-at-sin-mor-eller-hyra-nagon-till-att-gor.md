@@ -1,7 +1,7 @@
 ---
 title: Vallfärda åt sin mor eller hyra någon till att göra det
 author: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 76 s. ISBN saknas
 source: Ibn ´Abdullah Ibn Baz
 categories:
@@ -20,7 +20,7 @@ description: >-
 
 Om du hyr någon religiös och pålitlig person som vallfärdar för dem, då är det ingen skada skedd i det.
 
-Det är dock bäst om du själv utför vallfärden och *´umrah* för dem. Utser du någon till att göra detta, då är det föreskrivet att du kommenderar personen att både utföra vallfärden och *´umrah* för dem.
+Det är dock bäst om du själv utför vallfärden och *´umrah* för dem. Utser du någon till att göra detta, då är det föreskrivet att du befaller personen att både utföra vallfärden och *´umrah* för dem.
 
 Gör du detta visar du vänlighet mot dem och du behandlar dem på ett fint sätt. Må Allāh acceptera detta från dig och från oss.
 

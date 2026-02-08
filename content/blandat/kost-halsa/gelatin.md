@@ -20,7 +20,7 @@ description: >-
 
 De lärde är eniga om att grisfett innefattas i detta förbud. Men om det inte finns något under produktionen av gelatin eller i dess innehåll som är förbjudet finns det ingen invändan mot det.
 
-Allāh är Beviljaren av framgång.
+Allāh är Den som ger framgång.
 
 Må frid och välsignelser vara över profeten Muḥammad, hans familj och hans följeslagare.
 

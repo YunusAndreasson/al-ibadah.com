@@ -2,7 +2,7 @@
 title: Silversmycken
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 176 s. ISBN saknas
 categories:
   - Allmosa (Zakāh)
@@ -28,9 +28,9 @@ Denna *ḥadīt̲h* har Muslim återgivit i sin *Ṣaḥīḥ*.
 
 I en *ḥadīt̲h* återberättad av ´Abdullāh bin 'Amr bin al-'Ās säger profeten – över honom vare Allāhs frid och välsignelser – till en kvinna som kom fram till honom med hennes dotter som bar två armringar av guld: "*Betalar du allmosa för dessa?*" Kvinnan svarade: "*Nej*." Så han sade: "*Nöjer det dig att Allāh kommer att göra dem till två armringar av eld till dig på Återuppståndelsens dag?*" Så hon slet av dem och sade: "*De är för Allāh och Hans sändebud*." [^2]
 
-Denna *ḥadīt̲h* har Abū Dawūd och an-Nasā'i återgivit med en autentisk berättarkedja. *aḥādīt̲h* med samma innebörd är många.
+Denna *ḥadīt̲h* har Abū Dāwūd och an-Nasā’ī återgivit med en autentisk berättarkedja. *aḥādīt̲h* med samma innebörd är många.
 
-Och Allāh är Givaren av framgång.
+Och Allāh är Den som ger framgång.
 
 [^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramaḍān* 1428).
 

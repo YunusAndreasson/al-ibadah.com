@@ -2,11 +2,11 @@
 title: Var okunnig och gick in i iḥrām med underkläder
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 141 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - Helgtillståndet och avsikt
+  - Helgtillståndet och avsikten
 original_id: 775
 description: >-
   Fråga: För ett år sedan begav jag mig på ‘umrah och jag kände inte till vissa

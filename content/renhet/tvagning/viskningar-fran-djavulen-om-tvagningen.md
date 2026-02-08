@@ -2,7 +2,7 @@
 title: Viskningar från djävulen om tvagningen
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 77 s. ISBN saknas
 categories:
   - Renhet (Tahārah)
@@ -24,7 +24,7 @@ Med bland annat dessa båda *aḥādīt̲h* som grund bör varje troende [man so
 
 I stället är det föreskrivet att strunta i dem förutom om man blir säker på att man inte har tvagat sig.
 
-Och Allāh är Den som beviljar framgång.
+Och Allāh är Den som ger framgång.
 
 
 [^1]: *al-Buk̲hārī* 177 och *Muslim* 361

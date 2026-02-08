@@ -2,7 +2,7 @@
 title: Var sexuellt oren men gjorde inte g̲husl
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 242 s. ISBN saknas
 categories:
   - Renhet (Tahārah)

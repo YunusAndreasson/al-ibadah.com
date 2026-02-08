@@ -2,7 +2,7 @@
 title: 'Smycken, diamanter och värdefulla stenar'
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 178 s. ISBN saknas
 categories:
   - Allmosa (Zakāh)
@@ -26,7 +26,7 @@ När det gäller silver är den lägsta nivån för allmosa 140 *mit̲hqāl*. De
 
 När det gäller diamanter och andra stenar krävs ingen allmosa för dem om de är till för att bäras. Men om de ska säljas blir det en skyldighet enligt deras värde i guld och silver om de når den lägsta nivån som krävs för allmosa.
 
-Och Allāh är Givaren av framgång.
+Och Allāh är Den som ger framgång.
 
 [^1]: En saudisk riyal är 1.62 kronor (Forex.se, 25 *ramaḍān* 1428).
 

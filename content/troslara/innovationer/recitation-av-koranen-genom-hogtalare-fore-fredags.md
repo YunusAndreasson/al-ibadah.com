@@ -2,7 +2,7 @@
 title: Läsning av Koranen genom högtalare före fredagsbönen
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 465 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)

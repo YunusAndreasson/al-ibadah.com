@@ -2,9 +2,9 @@
 title: Den troendes prövningar
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 177 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
@@ -35,7 +35,7 @@ Detta är anledningen till att profeten – som var den bäste i människosläkt
 
 När Han ger de olydiga – syndarna, de sedeslösa och de icke-troende – välbefinnande och levebröd i överflöd, då är detta en lockelse in i förstörelse från Allāh den Upphöjde för dem. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Denna världen är ett fängelse för den troende och ett Paradis för den icke-troende*." [^1]
 
-De får goda ting som en förtida kompensation för deras goda i detta livet, men på Återuppståndelsens Dag tar de emot deras rätta belöning. Allāh den Upphöjde säger:
+De får goda ting som en förtida kompensation för sitt goda i detta livet, men på Återuppståndelsens Dag tar de emot sin rätta belöning. Allāh den Upphöjde säger:
 
 > ”Och den Dag då förnekarna av sanningen förs fram inför Elden [ska Vi säga till dem:] 'Ni har förslösat det goda som livet erbjöd er och njutit det [utan en tanke på evigheten]; i dag drabbar er straffet med skam och vanära därför att ni uppträdde med högmod på jorden utan fog och därför att ni ständigt trotsade [Våra befallningar].” [Koranen 46:20]
 

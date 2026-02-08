@@ -2,16 +2,16 @@
 title: Nagellack
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 324 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1127
 description: >-
   Fråga: Vilket är utlåtandet om tvagningen för en kvinna om hon har täckt sina
-  naglar med nagellack? Svar: Nagellack är en substans som kvinnor tar på deras
+  naglar med nagellack? Svar: Nagellack är en substans som kvinnor tar på sina
   naglar. Den formar ett ytskikt och e...
 ---
 
@@ -35,6 +35,6 @@ Därför tillät profeten – över honom vare Allāhs frid och välsignelser �
 
 En muslim måste anstränga sig till sitt yttersta för att förvissa sig om sanningen och inte ge ett rättsligt utlåtande utan att veta att Allāh den Upphöjde kommer att fråga honom om det då han har representerat Allāhs den Allsmäktiges lag.
 
-Och Allāh är Beviljaren av framgång och Vägledaren till den raka vägen.
+Och Allāh är Den som ger framgång och Vägledaren till den raka vägen.
 
 

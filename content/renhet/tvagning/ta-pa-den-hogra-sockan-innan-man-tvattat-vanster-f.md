@@ -2,7 +2,7 @@
 title: Ta på den högra sockan innan man tvättat vänster fot
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 100 s. ISBN saknas
 categories:
   - Renhet (Tahārah)
@@ -28,7 +28,7 @@ Några lärde anser att det är tillåtet att stryka över [dem] även om man ha
 
 Den säkraste åsikten är den första, den verkar vara bäst grundat på bevisen. Den som har gjort detta tar av den högra socken innan han tvättar den [foten] för att ta på den igen efter att ha tvättat den vänstra. Då slipper han tveksamheter och har säkrat sin religion.
 
-Och Allāh är Den som beviljar framgång.
+Och Allāh är Den som ger framgång.
 
 
 [^1]: *ad-Daraqunti* 1:203, 204 och *al-Ḥākim* 1:181

@@ -1,7 +1,7 @@
 ---
 title: Kasta stenar som ligger runt pelarna
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
  Libanon: Maktaba Dar us-Salam. 238 s. ISBN saknas'
 categories:
   - Vallfärd (Hajj)

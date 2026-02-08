@@ -2,7 +2,7 @@
 title: Ahlus-sunnah wal-jamā´at
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 37 s. ISBN 9960-892-66-2
 categories:
   - Troslära (´Aqīdah)
@@ -19,6 +19,6 @@ description: >-
 
 **Svar:** *ahlus-sunnah wal-jamā´at* är de som håller fast vid profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. De är eniga om den utan att lägga vikt vid något annat, varken i frågor om kunskap, religion eller tillåtelse för handlingar. Att de håller fast vid den är anledningen till att de är kända som *ahlus-sunnah*. Och de kallas för *ahlul-jamā'at* eftersom de är eniga om den.
 
-Studerar man däremot *ahlul-bid'ah* finner man att de är oeniga om vad de följer, oavsett om det gäller religiösa trosprinciper eller hur de utövar. Oenigheterna bevisar, i takt med vad de för in [i religionen], att de är långt från profetens – över honom vare Allāhs frid och välsignelser – *sunnah*.
+Studerar man däremot *ahlul-bid´ah* finner man att de är oeniga om vad de följer, oavsett om det gäller religiösa trosprinciper eller hur de utövar. Oenigheterna bevisar, i takt med vad de för in [i religionen], att de är långt från profetens – över honom vare Allāhs frid och välsignelser – *sunnah*.
 
 

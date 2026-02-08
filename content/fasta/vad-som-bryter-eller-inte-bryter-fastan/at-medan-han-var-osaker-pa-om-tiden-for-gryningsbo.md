@@ -2,7 +2,7 @@
 title: Åt med osäkerhet kring gryningsbönen eller solnedgången
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 256 s. ISBN saknas
 categories:
   - Fasta (Sawm)
@@ -20,6 +20,6 @@ description: >-
 
 När det gäller den som åt eller drack när personen var osäker på om solen gått ned, personen har handlat felaktigt och måste ta igen fastan. Detta beror på att den grundläggande principen är att det fortsätter att vara dag till motsatsen bevisas. Därmed får en muslim inte bryta fastan om personen inte är säker på att solen har gått ned eller om personen känner sig säker på att den troligen har gått ned.
 
-Och Allāh är Givaren av framgång.
+Och Allāh är Den som ger framgång.
 
 

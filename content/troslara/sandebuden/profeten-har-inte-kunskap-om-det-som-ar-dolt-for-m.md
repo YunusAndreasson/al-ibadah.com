@@ -2,9 +2,9 @@
 title: Profeten har inte kunskap om det som är dolt för människor
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 288 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Sändebuden
@@ -37,11 +37,11 @@ Umm 'Alai säger i en lång och autentisk *ḥadīt̲h*:
 
 > ”Allāhs nåd vilar över dig, Abū as-Sa'ib. Jag vittnar om att Allāh den Allsmäktige har hedrat dig.” Allāhs sändebud – över honom vare Allāhs frid och välsignelser – sade: ”Vem har informerat dig om att Allāh har hedrat honom?” Hon sade: ”Jag vet inte, må min far och mor ges som lösen för dig.” Han sade: ”När det gäller honom, så har visshet kommit till honom från hans Herre och jag hoppas att godhet kommer till honom, men vid Allāh, jag vet inte – och jag är Allāhs sändebud – vad som kommer att hända med honom.” Hon sade: ”Vid Allāh, jag kommer aldrig att vittna för någon efter detta.” [*al-Buk̲hārī* 1243, 2687, 3929 och 7003]
 
-Återgiven av *Aḥmad* och al-Bukhārī i boken om begravningar i hans *Ṣaḥīḥ*. En annan version lyder:
+Återgiven av *Aḥmad* och al-Buk̲hārī i boken om begravningar i hans *Ṣaḥīḥ*. En annan version lyder:
 
 > ”Jag vet inte – och jag är Allāhs sändebud – vad som kommer att hända med honom.” [*al-Buk̲hārī* 3929]
 
-I många *aḥādīt̲h* rapporterats att Allāh har informerat profeten – över honom vare Allāhs frid och välsignelser – om vilket som skulle bli slutet för somliga av hans följeslagare, och han gav dem det glada budskapet om Paradiset. I en *ḥadīt̲h* som al-Bukhārī och *Muslim* har återgivit från ´Umar bin al-Khattab berättas att Gabriel frågade profeten – över honom vare Allāhs frid och välsignelser – om Timmens tidpunkt, och han svarade:
+I många *aḥādīt̲h* rapporterats att Allāh har informerat profeten – över honom vare Allāhs frid och välsignelser – om vilket som skulle bli slutet för somliga av hans följeslagare, och han gav dem det glada budskapet om Paradiset. I en *ḥadīt̲h* som al-Buk̲hārī och *Muslim* har återgivit från ´Umar bin al-Khattab berättas att Gabriel frågade profeten – över honom vare Allāhs frid och välsignelser – om Timmens tidpunkt, och han svarade:
 
 > ”Den som tillfrågas vet inte mer än den som frågar.” [*al-Buk̲hārī* 50 och *Muslim*, kap. 8]
 

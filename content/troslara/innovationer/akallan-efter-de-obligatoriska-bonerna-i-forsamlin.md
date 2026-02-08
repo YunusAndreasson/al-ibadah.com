@@ -2,7 +2,7 @@
 title: Åkallan efter de obligatoriska bönerna i församlingen
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 341 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
@@ -28,13 +28,13 @@ I ljuset av detta kan vi lära oss något om hans vägledning: ”*När han gjor
 
 Det sades till al-Awza'i: ”*Hur ber man om förlåtelse?*” Han svarade: '*Astagfirullāh, Astagfirullāh*.”
 
-Detta är *ḥadīt̲h* från Muslim, at-Tirmithi och an-Nasā'i utom att an-Nasā'i sade: "*Efter att ha avslutat bönen brukade Allāhs sändebud*…" [^3] Sedan berättade han denna *ḥadīt̲h*. I *ḥadīt̲h* från Abū Dawūd sägs det att när Allāhs sändebud hade avslutat bönen brukade han säga ”*astagfirullāh*” tre gånger och sedan säga: ”*Allāhumma, Antas-Salam*.” [^4]
+Detta är *ḥadīt̲h* från Muslim, at-Tirmithi och an-Nasā’ī utom att an-Nasā’ī sade: "*Efter att ha avslutat bönen brukade Allāhs sändebud*…" [^3] Sedan berättade han denna *ḥadīt̲h*. I *ḥadīt̲h* från Abū Dāwūd sägs det att när Allāhs sändebud hade avslutat bönen brukade han säga ”*astagfirullāh*” tre gånger och sedan säga: ”*Allāhumma, Antas-Salam*.” [^4]
 
-I *ḥadīt̲h* från Abū Dawūd och an-Nasā'i berättar 'A'ishah att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – när han hade gjort *taslīm* brukade säga: ”*Allāhumma, Antas-Salamu wa minkas-salamu, tabarakta ya Thal-Jalali wal-Ikram*.” [^5]
+I *ḥadīt̲h* från Abū Dāwūd och an-Nasā’ī berättar 'A'ishah att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – när han hade gjort *taslīm* brukade säga: ”*Allāhumma, Antas-Salamu wa minkas-salamu, tabarakta ya Thal-Jalali wal-Ikram*.” [^5]
 
 I en återberättelse från *Muslim* berättar Warrad [al-Mughirah bin Shu'bahs frigivna slav]: al-Mughirah bin Shu'bah läste ett brev från Mu'awiyah för mig: "I slutet av varje obligatorisk bön brukade profeten – över honom vare Allāhs frid och välsignelser – säga: *’Lā ilāha illAllāhu wahdahu la sharīka lahu, lahul-mulku wa lahul-hamdu wa Huwa 'ala kulli shay'in Qadir. Allāhumma, la māni'a lima a'ataita, wa la mu'tiya lima mana'ta, wa la yanfa'u thal-jaddi minkal-jadd*.’” [^6]
 
-*Muslim* återberättar också från ´Abdullāh bin az-Zubair att han i slutet av varje bön efter *taslīm* brukade säga: ”*Lā ilāha illAllāhu wahdahu la sharīka lahu, lahul-mulku wa lahul-hamdu, wa Huwa 'ala kulli shay'in Qadir. La hawla wa la quwatta illa billah. Lā ilāha illAllāhu. Wa la na'budu illa iyyahu. Lahun-ni'matu wa lahul-fadhlu wa lahuth-thana'ul-hasan. La illaha illallāhu mukhlisīn lahud-dīnu, wa law karihal-Kafirūn*.” [^7] Och han sade: ”Allāhs sändebud brukade göra *tahlīl*  tillsammans med det vid slutet av varje bön.”
+*Muslim* återberättar också från ´Abdullāh bin az-Zubair att han i slutet av varje bön efter *taslīm* brukade säga: ”*Lā ilāha illAllāhu wahdahu la sharīka lahu, lahul-mulku wa lahul-hamdu, wa Huwa 'ala kulli shay'in Qadir. La hawla wa la quwatta illa billah. Lā ilāha illAllāhu. Wa la na'budu illa iyyahu. Lahun-ni'matu wa lahul-fadhlu wa lahuth-thana'ul-ḥasan. La illaha illallāhu mukhlisīn lahud-dīnu, wa law karihal-Kafirūn*.” [^7] Och han sade: ”Allāhs sändebud brukade göra *tahlīl*  tillsammans med det vid slutet av varje bön.”
 
 I en *ḥadīt̲h* från Abū Hurairah i *Ṣaḥīḥ Muslim* återges att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”Den som säger: ’*Subḥān Allāh*’ vid slutet av varje bön 33 gånger och ’*al-Ḥamdu Lillāh*’ 33 gånger och ’*Allāhu akbar*’ 33 gånger – vilket blir 99 gånger – och sedan till sist säger: ’*Lā ilāha illAllāhu wahhdahu la sharīka lahu, Lahul-mulku wa lahul-hamdu wa Huwa 'ala kulli shay'in Qadīr*’ – kommer att få sina synder förlåtna, även om de är som [våg]skummet på havet.” [^8]
 

@@ -1,5 +1,5 @@
 ---
-title: Beskrivning av den korrekta slöjan
+title: Den korrekta slöjan
 author: Shaykh al-Albāni
 source: 'Hijāb al-Mar’ah al-Muslimah, sidan 54-67'
 categories:
@@ -33,7 +33,7 @@ Det finns även stöd att hämta i den *ḥadīt̲h* i vilken profeten – över
 
 > “Det finns tre, fråga mig inte om dem: en man som lämnar församlingen, visar olydnad mot sin ledare och dör ohörsam; en manlig eller kvinnlig slav som flyr och sedan dör; och en kvinna vars man är frånvarande och som har lämnat henne med allt hon behöver, och efter att han lämnat henne så visar hon sig på ett lättsinnigt sätt. Fråga inte om dem.” [*al-Ḥākim* 1/119, *Aḥmad* 6/19]
 
-3. Den bör vara kraftig och inte genomskinlig, annars täcker den ju inte tillräckligt väl. Transparenta kläder gör en kvinna mer frestande och vacker. Om detta har profeten – över honom vare Allāhs frid och välsignelser – sagt: “Under mitt samfunds sista dagar kommer det att finnas kvinnor som är klädda men ändå nakna med något på deras huvuden som liknar kamelers pucklar. Förbanna dem, för de är förbannade.” Och i en annan *ḥadīt̲h* finns tillägget: “De kommer inte att träda in i Paradiset eller ens känna dess lukt, även om dess lukt kan kännas ifrån den eller den sträckan.” [*Muslim*]
+3. Den bör vara kraftig och inte genomskinlig, annars täcker den ju inte tillräckligt väl. Transparenta kläder gör en kvinna mer frestande och vacker. Om detta har profeten – över honom vare Allāhs frid och välsignelser – sagt: “Under mitt samfunds sista dagar kommer det att finnas kvinnor som är klädda men ändå nakna med något på sina huvuden som liknar kamelers pucklar. Förbanna dem, för de är förbannade.” Och i en annan *ḥadīt̲h* finns tillägget: “De kommer inte att träda in i Paradiset eller ens känna dess lukt, även om dess lukt kan kännas ifrån den eller den sträckan.” [*Muslim*]
 
 Ibn 'Abd al-Barr sade:
 
@@ -66,9 +66,9 @@ Ibn Daqīq al-’*´eid* har sagt:
 
 Dessa *aḥādīt̲h* visar tydligt att kvinnor inte får imitera män och vice versa. Detta innefattar vanligtvis kläder och annat, utom den första *ḥadīt̲h* ovan som enbart gäller klädsel.
 
-*Abū Dāwūd* har på sidan 261 i *Masā’il al-Imam Ahmad* sagt: “Jag hörde *Aḥmad* tillfrågas om en man som klädde sin kvinnliga slav i en tunika. Han svarade: 'Klä henne inte i mäns kläder, gör inte så att hon liknar en man.'” *Abū Dāwūd* sade: ”Jag sade till *Aḥmad*: ’Kan jag ge henne manssandaler som hon kan bära?’ Han svarade: ’Nej, utom om hon bär dem för att tvaga sig.’ Jag sade: ’Hur är det med hennes skönhet?’ Han svarade: ’Nej.’ Jag sade: ’Kan jag klippa hennes hår kort?” Han svarade: ’Nej.’”
+*Abū Dāwūd* har på sidan 261 i *Masā’il al-Imam Aḥmad* sagt: “Jag hörde *Aḥmad* tillfrågas om en man som klädde sin kvinnliga slav i en tunika. Han svarade: 'Klä henne inte i mäns kläder, gör inte så att hon liknar en man.'” *Abū Dāwūd* sade: ”Jag sade till *Aḥmad*: ’Kan jag ge henne manssandaler som hon kan bära?’ Han svarade: ’Nej, utom om hon bär dem för att tvaga sig.’ Jag sade: ’Hur är det med hennes skönhet?’ Han svarade: ’Nej.’ Jag sade: ’Kan jag klippa hennes hår kort?” Han svarade: ’Nej.’”
 
-7. I den islamiska lagen har det klargjorts att muslimer – män som kvinnor – inte bör efterlikna de icke-troende i deras dyrkan, högtider eller klädsel som uttryckligen är deras. Detta är en viktig islamisk princip som många muslimer nu för tiden tyvärr försummar, även dem som bryr sig om religionen och kallar andra till den. Detta beror på deras okunskap om religionen, att de följer deras nycker och begär eller avvikelse förenat med de icke-troendes seder i Europa. Detta är en av orsakerna till att muslimer har blivit svagare och som har lett till att de har kunnat övermannas och koloniseras:
+7. I den islamiska lagen har det klargjorts att muslimer – män som kvinnor – inte bör efterlikna de icke-troende i deras dyrkan, högtider eller klädsel som uttryckligen är deras. Detta är en viktig islamisk princip som många muslimer nu för tiden tyvärr försummar, även dem som bryr sig om religionen och kallar andra till den. Detta beror på deras okunskap om religionen, att de följer sina nycker och begär eller avvikelse förenat med de icke-troendes seder i Europa. Detta är en av orsakerna till att muslimer har blivit svagare och som har lett till att de har kunnat övermannas och koloniseras:
 
 > ”Gud förändrar inte människor villkor, förrän de ändrar sitt sinnelag; och om det är Guds vilja att ett folk drabbas av olyckor kan ingen avvärja det och ingen utom Gud kan hjälpa dem.” [Koranen 13:11] Om de bara visste.
 

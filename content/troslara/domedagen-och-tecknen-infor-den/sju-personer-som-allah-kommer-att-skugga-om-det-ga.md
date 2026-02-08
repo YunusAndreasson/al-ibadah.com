@@ -6,7 +6,7 @@ source: >-
   Dar us-Salam. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
-  - Domedagen och tecknen inför den
+  - Domedagen och dess tecken
 original_id: 1683
 description: >-
   Fråga: Hadithen om de sju som Allāh kommer att skugga den dag som det inte

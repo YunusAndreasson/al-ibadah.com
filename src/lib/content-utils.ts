@@ -58,19 +58,19 @@ export const ARABIC_TERMS: Record<string, string> = {
   'Rundvandring och löpning': 'ṭawāf & sa´ī',
   'Förbud i helgtillståndet': 'iḥrām',
   'Pilgrimskläder': 'iḥrām',
-  'Helgtillståndet och avsikt': 'iḥrām',
+  'Helgtillståndet och avsikten': 'iḥrām',
   'Mindre vallfärd': '´umrah',
   'Högtidsoffret': 'uḍḥiyah',
 }
 
 export const CATEGORY_DESCRIPTIONS: Record<string, string> = {
-  troslara: 'Utlatanden och svar om islamisk troslära, monoteism, avgudadyrkan, innovationer och trosbekännelsen.',
-  renhet: 'Utlatanden och svar om rituell renhet, tvagning, den stora tvagningen (ghusl), tayammum och månadsblödning.',
-  bon: 'Utlatanden och svar om den islamiska bönen, böneutrop, fredagsbönen, nattbönen och begravningsbönen.',
-  allmosa: 'Utlatanden och svar om allmosan (zakāt), fasteallmosan (zakātul-fiṭr) och välgörenhet.',
-  fasta: 'Utlatanden och svar om fastan under Ramadan, frivillig fasta, resenärens fasta och Allmaktens Natt.',
-  vallfard: 'Utlatanden och svar om vallfärden (ḥajj), den mindre vallfärden (´umrah) och högtidsoffret.',
-  blandat: 'Utlatanden och svar om blandade ämnen som åkallan, äktenskap, ekonomi, klädsel och ånger.',
+  troslara: 'Utlåtanden och svar om islamisk troslära, monoteism, avgudadyrkan, innovationer och trosbekännelsen.',
+  renhet: 'Utlåtanden och svar om rituell renhet, tvagning, den stora tvagningen (ghusl), tayammum och månadsblödning.',
+  bon: 'Utlåtanden och svar om den islamiska bönen, böneutrop, fredagsbönen, nattbönen och begravningsbönen.',
+  allmosa: 'Utlåtanden och svar om allmosan (zakāt), fasteallmosan (zakātul-fiṭr) och välgörenhet.',
+  fasta: 'Utlåtanden och svar om fastan under Ramadan, frivillig fasta, resenärens fasta och Allmaktens Natt.',
+  vallfard: 'Utlåtanden och svar om vallfärden (ḥajj), den mindre vallfärden (´umrah) och högtidsoffret.',
+  blandat: 'Utlåtanden och svar om blandade ämnen som åkallan, äktenskap, ekonomi, klädsel och ånger.',
   biografier: 'Biografier om framstående islamiska lärda.',
 }
 

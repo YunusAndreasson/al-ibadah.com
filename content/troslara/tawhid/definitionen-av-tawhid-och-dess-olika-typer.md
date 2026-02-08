@@ -2,16 +2,16 @@
 title: Definitionen av tawḥīd och dess olika typer
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 19 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Monoteism
 original_id: 1065
 description: >-
-  Fråga: Hur definieras tawhīd och vilka olika typer finns det? Svar: Språkligt
-  sett är tawhīd infinitiv av verbet wahhada [dåtid] [och yuwahhidu [nutid]],
+  Fråga: Hur definieras tawḥīd och vilka olika typer finns det? Svar: Språkligt
+  sett är tawḥīd infinitiv av verbet wahhada [dåtid] [och yuwahhidu [nutid]],
   det vill säga att göra något t...
 ---
 
@@ -31,13 +31,13 @@ Detta är att uppnå sann *tawḥīd*, vilket innebär att vi säger att *tawḥ
 
 Kategorierna av *tawḥīd* i fråga om Allāh den Allsmäktige innefattas alla i den allmänna definitionen. Denna definition avser det som är unikt för Honom den Allsmäktige. De lärde har här nämnt tre kategorier:
 
-1. *Tawhīd[^1] ar-rububiyyah*[^2]
-2. *Tawhīd[^1] al-uluhiyyah*[^3]
-3. *Tawhīd[^1] as-asmā’ was-sifāt’*[^4]
+1. *Tawḥīd[^1] ar-rububiyyah*[^2]
+2. *Tawḥīd[^1] al-uluhiyyah*[^3]
+3. *Tawḥīd[^1] as-asmā’ was-sifāt’*[^4]
 
 De lärde har kommit fram till detta genom studier av *aḥādīt̲h* och Koran-verser. De har funnit att *tawḥīd* inte hamnar utanför dessa tre kategorier. Därför har de gjort denna indelning.
 
-*Tawhīd[^1] ar-rububiyyah*[^2] innebär att man bekräftar Allāhs den Härliges, den Upphöjdes enhet i skapelse, herravälde och organisation [av vad som sker i detta universum]. Den detaljerade förklaringen är följande:
+*Tawḥīd[^1] ar-rububiyyah*[^2] innebär att man bekräftar Allāhs den Härliges, den Upphöjdes enhet i skapelse, herravälde och organisation [av vad som sker i detta universum]. Den detaljerade förklaringen är följande:
 
 [1] Bekräftelsen av Allāhs den Upphöjdes enhet i skapande innebär att det enbart är Allāh som är Skaparen och att det inte finns någon skapare jämsides med Honom. Allāh den Upphöjde säger:
 
@@ -97,25 +97,25 @@ Detta bevisar att människans ägande är ett begränsat ägande, vilket står i
 
 Denna kontroll omfattar allt. Ingen vid sidan av Allāh kan ta del av den och ingen kan hindra den. Den kontroll som vissa skapade varelser har, som den människan har över hennes tillgångar, barn, tjänare och liknande är begränsad.
 
-Därmed blir det uppenbart att det är rätt och riktigt när vi säger att *tawhīd[^1] ar-rububiyyah*[^2] är en bekräftelse av Allāhs enhet i skapande, herravälde och upprätthållande [av universum].
+Därmed blir det uppenbart att det är rätt och riktigt när vi säger att *tawḥīd[^1] ar-rububiyyah*[^2] är en bekräftelse av Allāhs enhet i skapande, herravälde och upprätthållande [av universum].
 
-*Tawhīd[^1] al-uluhiyyah*[^3] innebär att man bekräftar Allāhs den Välsignades, den Upphöjdes enhet i sådant som rör dyrkan. Detta innebär att man inte får dyrka eller försöka att komma närmare någon annan än Allāh på det vis som man dyrkar eller försöker att komma närmare Honom den Upphöjde.
+*Tawḥīd[^1] al-uluhiyyah*[^3] innebär att man bekräftar Allāhs den Välsignades, den Upphöjdes enhet i sådant som rör dyrkan. Detta innebär att man inte får dyrka eller försöka att komma närmare någon annan än Allāh på det vis som man dyrkar eller försöker att komma närmare Honom den Upphöjde.
 
 Det var i denna kategori av *tawḥīd* som månggudadyrkarna gick vilse och det var dessa som profeten – över honom vare Allāhs frid och välsignelser – stred mot. Deras liv var tillåtna för honom och han fick ta deras egendomar, jordytor och hem. Likaså fick han tillfångata deras kvinnor och barn.
 
-Detta [*tawhīd[^1] al-uluhiyyah*[^3]] är vad alla sändebud har sänts med och vad som har uppenbarats i alla Skrifter tillsammans med de andra båda formerna som är *tawhīd[^1] ar-rububiyyah*[^2] och *tawhīd[^1] as-asmā' was-sifāt'*[^4]. I de flesta fall var sändebuden sysselsatta med att reformera deras folk i denna form av *tawḥīd* – *tawhīd[^1] al-uluhiyyah*[^3]. 
+Detta [*tawḥīd[^1] al-uluhiyyah*[^3]] är vad alla sändebud har sänts med och vad som har uppenbarats i alla Skrifter tillsammans med de andra båda formerna som är *tawḥīd[^1] ar-rububiyyah*[^2] och *tawḥīd[^1] as-asmā' was-sifāt'*[^4]. I de flesta fall var sändebuden sysselsatta med att reformera sitt folk i denna form av *tawḥīd* – *tawḥīd[^1] al-uluhiyyah*[^3].
 
-Detta beror på att människan inte får rikta [sin] dyrkan mot någon annan än Allāh som mot en ängel nära Honom, ett sändebud som Han har sänt, mot en rättfärdig *walī* eller mot något annat skapat. Dyrkan är enbart giltig om den är för Allāh den Allsmäktige. Den som bryter mot denna *tawḥīd* är en månggudadyrkare[^5]. Personen är en icke-troende även om personen bekräftar *tawhīd[^1] ar-rububiyyah*[^2] och *tawhīd[^1] as-asmā' was-sifāt'*[^4].
+Detta beror på att människan inte får rikta [sin] dyrkan mot någon annan än Allāh som mot en ängel nära Honom, ett sändebud som Han har sänt, mot en rättfärdig *walī* eller mot något annat skapat. Dyrkan är enbart giltig om den är för Allāh den Allsmäktige. Den som bryter mot denna *tawḥīd* är en månggudadyrkare[^5]. Personen är en icke-troende även om personen bekräftar *tawḥīd[^1] ar-rububiyyah*[^2] och *tawḥīd[^1] as-asmā' was-sifāt'*[^4].
 
-Tror man således på att Allāh är Skaparen, den ende Ägaren och Den som styr skapelsens ordning samt att Han ensam har rätten till Sina namn och egenskaper men man dyrkar någon annan jämsides Honom, då är ens bekräftelse av *tawhīd[^1] ar-rububiyyah*[^2] och *as-asmā’ was-sifāt’*[^4] inte till någon nytta.
+Tror man således på att Allāh är Skaparen, den ende Ägaren och Den som styr skapelsens ordning samt att Han ensam har rätten till Sina namn och egenskaper men man dyrkar någon annan jämsides Honom, då är ens bekräftelse av *tawḥīd[^1] ar-rububiyyah*[^2] och *as-asmā’ was-sifāt’*[^4] inte till någon nytta.
 
-Låt oss anta att någon bekräftar tron på *tawhīd[^1] ar-rububiyyah*[^2] och *tawhīd[^1] as-asmā' was-sifāt'*[^4] men går till en grav och dyrkar den som ligger begravd i den eller svär en ed vid den begravde för att komma närmare personen, då är han en månggudadyrkare[^5] och icke-troende. Förhåller det sig så är hans vistelse för evigt i Helvetet. Allāh den Välsignades, den Upphöjdes säger:
+Låt oss anta att någon bekräftar tron på *tawḥīd[^1] ar-rububiyyah*[^2] och *tawḥīd[^1] as-asmā' was-sifāt'*[^4] men går till en grav och dyrkar den som ligger begravd i den eller svär en ed vid den begravde för att komma närmare personen, då är han en månggudadyrkare[^5] och icke-troende. Förhåller det sig så är hans vistelse för evigt i Helvetet. Allāh den Välsignades, den Upphöjdes säger:
 
 > ”Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden ska bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [Koranen 5:72]
 
 Det är välkänt för alla som läser Allāhs den Allsmäktiges skrift att de månggudadyrkare[^5] som profeten – över honom vare Allāhs frid och välsignelser – stred mot – vars blod och egendomar han tillät, samt vars kvinnor och barn han tillät som slavar och vars får han tillät förskansande av från deras jordar – brukade bekräfta att enbart Allāh är Herren och Skaparen. De hade inga tvivel om detta men då de dyrkade andra jämsides med Honom blev de månggudadyrkare[^5] vars blod var tillåtet att spilla och vars egendom var tillåten att ta.
 
-*Tawhīd[^1] as-asmā' was-sifāt'*[^4] innebär att man bekräftar enheten i de namn som Allāh har använt om sig Själv och de egenskaper som Han har beskrivit sig Själv med i Sin skrift eller genom Sitt sändebuds tunga [vad profeten – över honom vare Allāhs frid och välsignelser – har sagt]. Detta innebär att man bekräftar vad Allāh har bekräftat men utan att förvrida, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen].
+*Tawḥīd[^1] as-asmā' was-sifāt'*[^4] innebär att man bekräftar enheten i de namn som Allāh har använt om sig Själv och de egenskaper som Han har beskrivit sig Själv med i Sin skrift eller genom Sitt sändebuds tunga [vad profeten – över honom vare Allāhs frid och välsignelser – har sagt]. Detta innebär att man bekräftar vad Allāh har bekräftat men utan att förvrida, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen].
 
 Därmed är det viktigt att tro på de namn som Allāh Själv har använt och de egenskaper som han har beskrivit sig Själv med. Man gör detta utan allogier, utan att försöka förklara hur och utan att dra sig till jämförelser.
 
@@ -151,7 +151,7 @@ Detta liknar inte hur en människa reser sig upp från sin säng, hur hon stiger
 
 De skapade varelsernas *istawā* kan därmed inte liknas vid Allāhs *istawā* över Hans tron. Det finns ju inget likt Allāh.
 
-De som har sagt att innebörden av ”*Istawa över Tronen*.” [^9] är *istawlā* över tronen har mycket fel. Detta är en förvrängning av Hans ord från deras rätta innebörd och det motsäger sig även vad profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – och de som troget efterföljde dem var eniga om. Därutöver nödvändiggör ett sådant påstående idéer som är falska och en troende kan inte säga något om Allāh som grundas på ett felaktigt antagande.
+De som har sagt att innebörden av ”*Istawā över Tronen*.” [^9] är *istawlā* över tronen har mycket fel. Detta är en förvrängning av Hans ord från deras rätta innebörd och det motsäger sig även vad profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – och de som troget efterföljde dem var eniga om. Därutöver nödvändiggör ett sådant påstående idéer som är falska och en troende kan inte säga något om Allāh som grundas på ett felaktigt antagande.
 
 Den ädla Koranen har utan tvivel uppenbarats på det arabiska språket. Allāh den Härlige, den Upphöjde har ju sagt:
 
@@ -172,7 +172,7 @@ Falska antaganden som blir nödvändiga om man menar att *istawā* betyder *ista
 3. Att det är en förvrängning av ordets innebörd.
 4. Att det motsäger sig vad de rättfärdiga *salaf* – må Allāh vara nöjda med dem – var eniga om.
 
-För att summera denna form av *tawḥīd* – *tawhīd[^1] as-asmā’ was-sifāt’*[^4] – är det skyldighet att vi bekräftar Allāhs namn och egenskaper på samma sätt som Han eller Hans sändebud bekräftat dem. Vi gör det utan att förvrida innebörden, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen].
+För att summera denna form av *tawḥīd* – *tawḥīd[^1] as-asmā’ was-sifāt’*[^4] – är det skyldighet att vi bekräftar Allāhs namn och egenskaper på samma sätt som Han eller Hans sändebud bekräftat dem. Vi gör det utan att förvrida innebörden, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen].
 
 [^1]: Tron på att det bara finns en Gud.
 [^2]: Enheten i Allāhs herravälde.

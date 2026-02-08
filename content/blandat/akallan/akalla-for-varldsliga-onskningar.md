@@ -1,8 +1,8 @@
 ---
-title: Åkalla för världsliga önskningar
+title: Åkalla om världsliga önskningar
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 7.
   Libanon: Maktaba Dar us-Salam. 293 s. ISBN saknas
 categories:
   - Blandat
@@ -11,7 +11,7 @@ original_id: 696
 description: >-
   Fråga: Är det tillåtet för oss att åkalla under bönen för rent världsliga
   önskningar? Är det bäst att åkalla när bönen är klar, efter första tashahhud
-  eller under nedfallandet[^1]? Svar: Det är...
+  eller under nedfallandet? Svar: Det är...
 ---
 
 **Fråga:** Är det tillåtet för oss att åkalla under bönen för rent världsliga önskningar? Är det bäst att åkalla när bönen är klar, efter första *tas̲hahhud* eller under nedfallandet?

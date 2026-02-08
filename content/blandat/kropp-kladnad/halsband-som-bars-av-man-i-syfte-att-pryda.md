@@ -1,5 +1,5 @@
 ---
-title: Halsband som bärs av män för att pryda
+title: Halsband som prydnad för män
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon:
  Maktaba Dar us-Salam. ISBN saknas'

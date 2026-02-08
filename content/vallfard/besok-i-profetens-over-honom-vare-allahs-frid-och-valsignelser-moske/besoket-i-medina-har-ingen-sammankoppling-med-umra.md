@@ -2,7 +2,7 @@
 title: Medinabesöket har inget samband med ´umrah
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 311 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)

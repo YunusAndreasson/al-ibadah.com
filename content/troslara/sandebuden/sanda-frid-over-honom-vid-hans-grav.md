@@ -1,7 +1,7 @@
 ---
 title: Sända frid över honom vid hans grav
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
  Libanon: Maktaba Dar us-Salam. 277 s. ISBN saknas'
 categories:
   - Troslära (´Aqīdah)

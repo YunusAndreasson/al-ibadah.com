@@ -1,5 +1,5 @@
 ---
-title: Fem sätt för att vara plikttrogen mot sina föräldrar
+title: Fem sätt att hedra sina föräldrar
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon: Maktaba

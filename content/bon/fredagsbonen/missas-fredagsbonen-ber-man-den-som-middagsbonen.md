@@ -2,7 +2,7 @@
 title: Missas fredagsbönen ber man den som middagsbönen
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 448 s. ISBN saknas
 categories:
   - Bön (Salāh)

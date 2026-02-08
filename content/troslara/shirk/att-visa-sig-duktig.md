@@ -8,11 +8,11 @@ categories:
 original_id: 1312
 description: >-
   Fråga: Finns det någon chans att få välsignelser ifrån en handling förstörd av
-  riyā om någon ändrar sin avsikt för att göra Allāh nöjd efter att tanken om
-  riyā redan har dykt upp? Jag avslutar e...
+  riyā’ om någon ändrar sin avsikt för att göra Allāh nöjd efter att tanken om
+  riyā’ redan har dykt upp? Jag avslutar e...
 ---
 
-**Fråga:** Finns det någon chans att få välsignelser ifrån en handling förstörd av *riyā’* om någon ändrar sin avsikt för att göra Allāh nöjd efter att tanken om riyā redan har dykt upp? Jag avslutar exempelvis min koranrecitation och tankar om *riyā’* dyker upp. Om jag omedelbart kämpar mot dessa tankar genom att tänka på Allāh, kan jag då fortfarande få välsignelser för min recitation eller är den totalt förstörd med anledning av *riyā’* om handlingen redan är över och tanken om *riyā’* kom först efteråt?
+**Fråga:** Finns det någon chans att få välsignelser ifrån en handling förstörd av *riyā’’* om någon ändrar sin avsikt för att göra Allāh nöjd efter att tanken om riyā’ redan har dykt upp? Jag avslutar exempelvis min koranrecitation och tankar om *riyā’’* dyker upp. Om jag omedelbart kämpar mot dessa tankar genom att tänka på Allāh, kan jag då fortfarande få välsignelser för min recitation eller är den totalt förstörd med anledning av *riyā’’* om handlingen redan är över och tanken om *riyā’’* kom först efteråt?
 
 **Svar:** Att visa sig duktig för att andra ska se en kan påverka dyrkan på tre sätt:
 

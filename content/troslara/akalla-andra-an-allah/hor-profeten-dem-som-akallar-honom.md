@@ -2,9 +2,9 @@
 title: Hör profeten dem som åkallar honom?
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 105 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Åkallan av döda
@@ -12,12 +12,12 @@ original_id: 920
 description: >-
   Fråga: Hör profeten dem som åkallar honom vid hans grav, eller de hälsningar
   som denna hadīth antyder: ” Den som åkallar mig vid min grav hör jag ”
-  [al-Bayhaqi i Shu’abul-Imân 2:218, 1583]. Är...
+  [al-Bayhaqī i Shu’abul-Īmān 2:218, 1583]. Är...
 ---
 
-**Fråga:** Hör profeten dem som åkallar honom vid hans grav, eller de hälsningar som denna *ḥadīt̲h* antyder: ”*Den som åkallar mig vid min grav hör jag*” [al-Bayhaqi i *Shu’abul-Imân* 2:218, 1583]. Är denna *ḥadīt̲h* autentisk, svag eller påhittad?
+**Fråga:** Hör profeten dem som åkallar honom vid hans grav, eller de hälsningar som denna *ḥadīt̲h* antyder: ”*Den som åkallar mig vid min grav hör jag*” [al-Bayhaqī i *Shu’abul-Īmān* 2:218, 1583]. Är denna *ḥadīt̲h* autentisk, svag eller påhittad?
 
-**Svar:** Normalt sett hör de som har gått bort inte de som är vid liv, eller deras åkallan. Allāh säger: ”*Men du kan inte förmå dem att lyssna som är […] begravda*.” [^1] Varken Skriften eller den autentiska *sunnah* bevisar motsatsen. Det som dock har bevisats är att hälsningarna från de som hälsar till honom når honom. Det spelar ingen roll om de kommer jämte hans grav eller någon annanstans. 
+**Svar:** Normalt sett hör de som har gått bort inte de som är vid liv, eller deras åkallan. Allāh säger: ”*Men du kan inte förmå dem att lyssna som är […] begravda*.” [^1] Varken Skriften eller den autentiska *sunnah* bevisar motsatsen. Det som dock har bevisats är att hälsningarna från de som hälsar till honom når honom. Det spelar ingen roll om de kommer jämte hans grav eller någon annanstans.
 
 Det har rapporterats att en ättling till 'Ali bin Abi Talib såg en man gå in i ett område jämte profetens – över honom vare Allāhs frid och välsignelser – grav för att åkalla. Han förbjöd honom att göra så och sade till honom:
 
@@ -25,7 +25,7 @@ Det har rapporterats att en ättling till 'Ali bin Abi Talib såg en man gå in 
 
 När det gäller denna *ḥadīt̲h*: ”*Ta inte min grav till en plats för dyrkan. Gör heller inte era hem till gravplatser. Och be Allāh upphöja mitt omnämnande för era hälsningar når mig varhelst ni befinner er*.” Den är svag.
 
-Det finns även en *ḥadīt̲h* som Abu Dawūd har nedtecknat med en rapportörskedja som är hasan från Abu Hurairah: ”*När någon hälsar till mig så återlämnar Allāh min själ till mig så att jag kan hälsa tillbaka*.” [^2] Den visar inte tydligt att han hör den som hälsar till honom. I stället kan det vara så att profeten besvarar hälsningen när änglarna förmedlar den till honom. Även om vi antar att han hör hälsningen så betyder det inte nödvändigtvis att han hör åkallan eller annat som sägs.
+Det finns även en *ḥadīt̲h* som Abū Dāwūd har nedtecknat med en rapportörskedja som är ḥasan från Abu Hurairah: ”*När någon hälsar till mig så återlämnar Allāh min själ till mig så att jag kan hälsa tillbaka*.” [^2] Den visar inte tydligt att han hör den som hälsar till honom. I stället kan det vara så att profeten besvarar hälsningen när änglarna förmedlar den till honom. Även om vi antar att han hör hälsningen så betyder det inte nödvändigtvis att han hör åkallan eller annat som sägs.
 
 
 [^1]: Koranen 35:22

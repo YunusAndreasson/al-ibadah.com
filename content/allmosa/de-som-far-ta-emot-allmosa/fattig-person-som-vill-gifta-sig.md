@@ -1,7 +1,7 @@
 ---
 title: Allmosa till fattig som vill gifta sig
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
  Libanon: Maktaba Dar us-Salam. 190 s. ISBN saknas'
 categories:
   - Allmosa (Zakāh)
@@ -16,5 +16,5 @@ description: 'Fråga: Det finns en religiös ung man som vill gifta sig och det 
 
 **Svar:** Det är tillåtet att betala allmosa till personen unge man för att hjälpa honom att gifta sig om han inte har råd med det.
 
-Och Allāh är Givaren av framgång.
+Och Allāh är Den som ger framgång.
 

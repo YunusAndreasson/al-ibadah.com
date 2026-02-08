@@ -2,7 +2,7 @@
 title: Fira al-isrā’ wal-mi'raj -natten
 author: n/a
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. x s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
@@ -24,7 +24,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Den som för in något i denna vår fråga [religionen] som inte tillhör den kommer att få sin innovation avvisad.” Han har även sagt: ”Den som handlar på ett sätt som inte är enligt vår fråga [religionen], kommer att få det avvisat.”
 
-Den första har *al-Buk̲hārī* och *Muslim* återgivit och den andra har återgivits från ‘Ā’ishāh – må Allāh vara nöjd med henne – i en form som är *mu'allaq* av Muslim i hans *Ṣaḥīḥ* och av al-Bukhārī.
+Den första har *al-Buk̲hārī* och *Muslim* återgivit och den andra har återgivits från ‘Ā’ishāh – må Allāh vara nöjd med henne – i en form som är *mu'allaq* av Muslim i hans *Ṣaḥīḥ* och av al-Buk̲hārī.
 
 I *Ṣaḥīḥ Muslim* rapporteras att profeten – över honom vare Allāhs frid och välsignelser – under fredagspredikan brukade säga:
 

@@ -1,7 +1,7 @@
 ---
 title: Begravningsbön över frånvarande person
 author: al-Ladjnah ad-Dā'imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 66 s. ISBN saknas'
 categories:
   - Bön (Salāh)

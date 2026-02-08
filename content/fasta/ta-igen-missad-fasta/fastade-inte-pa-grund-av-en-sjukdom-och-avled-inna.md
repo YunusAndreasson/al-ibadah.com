@@ -2,7 +2,7 @@
 title: Fastade inte på grund av en sjukdom och avled innan han kunde ta igen fastan
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 306 s. ISBN saknas
 categories:
   - Fasta (Sawm)

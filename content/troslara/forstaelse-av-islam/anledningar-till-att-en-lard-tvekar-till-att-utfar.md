@@ -1,7 +1,7 @@
 ---
 title: Lärda som tvekar att utfärda utlåtanden
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
  Libanon: Maktaba Dar us-Salam. 372 s. ISBN saknas'
 categories:
   - Troslära (´Aqīdah)

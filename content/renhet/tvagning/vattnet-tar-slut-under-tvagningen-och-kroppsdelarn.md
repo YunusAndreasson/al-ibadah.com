@@ -2,9 +2,9 @@
 title: Vattnet tar slut under tvagningen och kroppsdelarna hinner torka
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 323 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Renhet (Tahārah)
   - Tvagning
@@ -23,7 +23,7 @@ Att *muwālāh* är ett villkor och att ens tvagning inte är giltig utan varakt
 
 Vissa lärde har sagt att *muwālāh* är att inte fördröja rengörandet av en led så att det som tvättades innan har torkat på grund av tiden som gått [om anledningen inte rör själva reningen]. Ett exempel på detta är om det finns målarfärg där man ska tvätta sig, man försöker då få bort det och det tar så lång tid att man hinner torka. Då bör utgå från vad som redan har avklarats och fortsätta, även om det har gått en lång stund. Detta beror på att fördröjandet är en del av reningen.
 
-Men om fördröjandet skedde eftersom vatten skulle hämtas, som fallet var i frågan, har vissa lärde sagt att *muwālāh* har gått förlorad. Då måste tvagningen göras om från början. Andra säger att muwalah inte har gått förlorad då det inte var något man valde självmant och eftersom man fortfarande väntar på att fortsätta med sin tvagning. Enligt denna åsikt, om vattnet återvänder, då bör man utgå från vad man har gjort även om man har torkat.
+Men om fördröjandet skedde eftersom vatten skulle hämtas, som fallet var i frågan, har vissa lärde sagt att *muwālāh* har gått förlorad. Då måste tvagningen göras om från början. Andra säger att muwālāh inte har gått förlorad då det inte var något man valde självmant och eftersom man fortfarande väntar på att fortsätta med sin tvagning. Enligt denna åsikt, om vattnet återvänder, då bör man utgå från vad man har gjort även om man har torkat.
 
 Grunden till detta är att bland de lärda som säger att *muwālāh* är en skyldighet och ett villkor för giltigheten, så har vissa åsikten att *muwālāh* inte avgörs genom att kroppen har torkat, utan enligt vad som är sed. Därför anses det som vanligtvis är ett avbrott vara ett avbrott, och det som inte anses vara ett avbrott är det inte.
 

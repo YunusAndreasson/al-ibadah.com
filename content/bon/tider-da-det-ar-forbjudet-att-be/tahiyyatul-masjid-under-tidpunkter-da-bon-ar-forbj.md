@@ -2,7 +2,7 @@
 title: Tahiyyatul-Masjid under tidpunkter då bön är förbjudet
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 287 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -20,7 +20,7 @@ description: >-
 
 Detta är även en bön som det finns anledningar till att be, som bönen efter *ṭawāf* [En två bönecykler lång bön som utförs när man har gått runt Ka’bah] och förmörkelsebönen [En bön vid sol eller månförmörkelse]. Denna korrekta åsikten om dessa böner är att de bör bes vid alla tidpunkter då bönen normalt sett är förbjuden.
 
-Detsamma gäller om man tar igen en obligatorisk bön som man har missat. Detta grundas på vad profeten – över honom vare Allāhs frid och välsignelser – har sagt om bönen efter *ṭawāf*: ”*Ni från 'Abdi Manaf! Hindra inte någon att göra *tawāf* runt detta Hus och att be under vilken tid av dagen eller natten han önskar*.” [^4]
+Detsamma gäller om man tar igen en obligatorisk bön som man har missat. Detta grundas på vad profeten – över honom vare Allāhs frid och välsignelser – har sagt om bönen efter *ṭawāf*: ”*Ni från 'Abdi Manaf! Hindra inte någon att göra *ṭawāf* runt detta Hus och att be under vilken tid av dagen eller natten han önskar*.” [^4]
 
 Om förmörkelsebönen har han sagt: ”*Sannerligen är månen och solen två av Allāhs tecken, de förmörkas inte för att någon människa har avlidit eller fötts, så om du ser dem, be och åkalla tills det du lider av har försvunnit*.” [^5]
 
@@ -28,7 +28,7 @@ Han har sagt: ”*Den som har sovit över en bön eller glömt den måste ta ige
 
 Dessa *aḥādīt̲h* sträcker sig till att räkna in de tidpunkter då det är förbjudet att be. *s̲hayk̲h ul-islām* Ibn Taimiyyah och hans student Ibn al-Qayyim – må Allāh vara dem nådig – föredrog denna åsikt.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 [^1]: Tahiyyatul-Msjid.
 [^2]: Rakah.

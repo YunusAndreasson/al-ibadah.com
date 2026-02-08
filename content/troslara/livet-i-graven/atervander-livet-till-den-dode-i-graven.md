@@ -2,9 +2,9 @@
 title: Återvänder livet till den döde i graven?
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 117 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Gravlivet
@@ -43,7 +43,7 @@ I allmänhet är lydnaden mot honom och den lag som han förde med sig ett bevis
 
 > ”Säg [Muḥammad]: 'Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
 
-Allāh den Upphöjde har kommenderat oss att lyda honom och Han har slagit fast att lyda honom är att Allāh. Han den Upphöjde säger:
+Allāh den Upphöjde har befallt oss att lyda honom och Han har slagit fast att lyda honom är att Allāh. Han den Upphöjde säger:
 
 > ”Säg: 'Lyd Gud och Sändebudet.' Men om de vänder ryggen till [ska de veta att] Gud inte är vän till dem som förnekar sanningen.” [Koranen 3:32]
 
@@ -55,7 +55,7 @@ Och Han säger:
 
 > ”Den som lyder Sändebudet lyder Gud; och dem som vänder honom ryggen [bör veta att] du inte är sänd att vaka över dem.” [Koranen 4:80]
 
-Det finns andra verser i Koranen som kommenderar lydnad av profeten – över honom vare Allāhs frid och välsignelser – och att det som han har fört med sig ska accepteras och handlas efter. Därmed är profetens – över honom vare Allāhs frid och välsignelser – *sunnah* en giltig källa för bevis i frågor om tro och handling, precis som verserna i Koranen är giltiga källor som utlåtanden kan bekräftas från enligt reglerna i det arabiska språket och det sätt som araberna förstår sitt språk på.
+Det finns andra verser i Koranen som befaller lydnad av profeten – över honom vare Allāhs frid och välsignelser – och att det som han har fört med sig ska accepteras och handlas efter. Därmed är profetens – över honom vare Allāhs frid och välsignelser – *sunnah* en giltig källa för bevis i frågor om tro och handling, precis som verserna i Koranen är giltiga källor som utlåtanden kan bekräftas från enligt reglerna i det arabiska språket och det sätt som araberna förstår sitt språk på.
 
 Straffet för de icke-troende i graven är logiskt och möjligt. I Allāhs ord finns bevis för att det inträffar:
 
@@ -71,7 +71,7 @@ Detta visar att det finns ett straff innan Timmen kommer, vilket innebär att de
 
 Detta bevisar att de icke-troende kommer att få lida av ett straff innan Timmen börjar. Detta är allmänt och täcker de straff som Allāh kan tillfoga dem i detta livet samt det straff som Han kommer att tillfoga dem i deras gravar, innan de återuppväcks för det stora straffet.
 
-Autentiska *aḥādīt̲h* bekräftar att profeten – över honom vare Allāhs frid och välsignelser – brukade söka skydd hos Allāh från straffet i graven och han beordrade följeslagarna att göra samma sak. Det har även bekräftats att han brukade rikta sig till folket efter solförmörkelsebönen och beordra dem att söka sin tillflykt hos Allāh från straffet i graven. 
+Autentiska *aḥādīt̲h* bekräftar att profeten – över honom vare Allāhs frid och välsignelser – brukade söka skydd hos Allāh från straffet i graven och han beordrade följeslagarna att göra samma sak. Det har även bekräftats att han brukade rikta sig till folket efter solförmörkelsebönen och beordra dem att söka sin tillflykt hos Allāh från straffet i graven.
 
 Han gjorde samma sak tre gånger vid gravplatsen i Gharqad medan han grävde en grav för en av hans avlidna följeslagare. Om inte straffet i graven hade varit ett faktum hade han inte sökt skydd hos Allāh från det och han hade heller inte beordrat följeslagarna att göra så.
 
@@ -89,7 +89,7 @@ Han bad sedan om ett färskt palmlöv, delade det i två delar, planterade ett p
 
 > ”Kanske kommer deras straff att lindras så länge de håller sig färska.” [*al-Buk̲hārī* 218, *at-Tirmid̲hī* 70, *Ibn Mājah* 347/349]
 
-Utfrågningen och den efterföljande belöningen eller bestraffningen i graven, enligt dess invånares tro och handlingar, har det rapporterats från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i så stor omfattning att det inte är möjligt att förneka detta. Ingen dispyt är känd bland följeslagarna i denna fråga och därför bekräftar *ahlus-sunnah[^1] wal-jamā’at* det. Bland de återgivelser som bekräftar det finns de från imam Ahmad i hans *Musnad*, Abū Dawūd i hans *Sunan*, al-Hakim samt Abū 'Awanah al-Asfara'īni i deras *Ṣaḥīḥ*. De rapporterar från al-Bara' bin 'Azib att han har sagt:
+Utfrågningen och den efterföljande belöningen eller bestraffningen i graven, enligt dess invånares tro och handlingar, har det rapporterats från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i så stor omfattning att det inte är möjligt att förneka detta. Ingen dispyt är känd bland följeslagarna i denna fråga och därför bekräftar *ahlus-sunnah[^1] wal-jamā’at* det. Bland de återgivelser som bekräftar det finns de från imam Aḥmad i hans *Musnad*, Abū Dāwūd i hans *Sunan*, al-Hakim samt Abū 'Awanah al-Asfara'īni i deras *Ṣaḥīḥ*. De rapporterar från al-Bara' bin 'Azib att han har sagt:
 
 > ”Vi var vid en begravning i al-Gharqad när Allāhs sändebud – över honom vare Allāhs frid och välsignelser – kom till oss och satte sig ned. Vi satte oss runt honom som om det fanns fåglar över våra huvuden [detta betyder att de tyst satte sig ned och lyssnade uppmärksamt]. Medan han grävde sade han: 'Jag söker min tillflykt hos Allāh från straffet i graven.' Detta sade han tre gånger och sedan sade han: 'När en troende tjänare är nära Nästa Liv och på väg att lämna detta, då kommer änglarna ned till honom. Deras ansikten [skiner] som solen och med dem finns en av Paradisets svepningar samt balsamerad vätska från Paradisets väldoft och de kommer att sitta inom synhåll. Sedan kommer dödsängeln, sätter sig vid hans huvud och säger: 'Du vackra själ! Kom ut för att få förlåtelse och för att få Allāhs välvilja.’
 
@@ -115,13 +115,13 @@ Utfrågningen och den efterföljande belöningen eller bestraffningen i graven, 
 
 > Han sade: 'Sedan återlämnas hans själ till hans kropp, två änglar kommer till honom, de sitter med honom och säger: 'Vem är din Herre?' Han svarar: 'Åh! Åh! Jag vet inte!' Sedan frågar de: 'Vem är mannen som har sänts till dig?' Han svarar: 'Åh! Åh! Jag vet inte!' Sedan säger en röst från himmeln: 'Han har ljugit, förse honom med eld och öppna en dörr till Helveteselden för honom.' Sedan kommer dess hetta och vind till honom och hans grav görs så trång att hans revben hamnar fel. Sedan kommer en man med ett fult ansikte och en hemsk lukt till honom och säger: 'Gläd dig åt vad som plågar dig. Detta är din dag, som du har utlovats.' Han kommer att fråga: 'Vem är du, ditt ansikte är ansiktet hos den som för ont med sig?' Han kommer att svara: 'Jag är dina onda handlingar.' Så han kommer att säga: 'Min Herre! Inled inte Timmen!' [*Aḥmad* 4:287, 288 och 295, 296]"
 
-Det är inte bortom tron att änglarna i gravarna ska fråga ut de döda, att de döda kommer att svara dem och att de kommer att få belöningar enligt deras handlingar. Det motsäger heller inte Allāhs magnifika förmåga och undren i Hans universella *sunnah*, att Han skulle belöna de troende i deras gravar samt straffa de icke-troende i deras. 
+Det är inte bortom tron att änglarna i gravarna ska fråga ut de döda, att de döda kommer att svara dem och att de kommer att få belöningar enligt deras handlingar. Det motsäger heller inte Allāhs magnifika förmåga och undren i Hans universella *sunnah*, att Han skulle belöna de troende i deras gravar samt straffa de icke-troende i deras.
 
 Den som studerar skapelsen kommer tydligt att se det universella i Allāhs vilja och dess implementation, den allgenomträngade naturen i Hans kraft, dess perfektion, excellensen i Hans skapelse, precisionen i Hans organisation, Hans formgivelse av Hans skapelse och hur Han har gjort det lätt för människan att tro på de autentiska haditherna om utfrågningen i gravarna samt den belöningen eller bestraffningen som kommer efter.
 
 
 
-Det har även rapporterats att Allāh den Upphöjde kommer att återlämna själen till den avlidne när personen har begravts – ett återlämnande som kommer att lämna honom vid liv, levandes i *al-Barzakh* […]
+Det har även rapporterats att Allāh den Upphöjde kommer att återlämna själen till den avlidne när personen har begravts – ett återlämnande som kommer att lämna honom vid liv, levandes i *al-Barzak̲h* […]
 
 Detta liv mellan de båda [livet i denna världen och livet i det Nästa] gör det möjligt för honom att höra frågorna och besvara dem – om Allāh ger honom framgång – och får honom att känna njutningen [av Paradiset] eller plågan [i Helvetet]. Vi har redan nämnt *aḥādīt̲h* om detta […]
 

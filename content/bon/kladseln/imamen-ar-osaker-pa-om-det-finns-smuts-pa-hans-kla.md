@@ -1,7 +1,7 @@
 ---
 title: Imamen är osäker på om det finns smuts på hans klädesplagg
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
  Libanon: Maktaba Dar us-Salam. 161 s. ISBN saknas'
 categories:
   - Bön (Salāh)
@@ -20,5 +20,5 @@ Han måste be klart. Upptäcker han då att det finns smuts på kläderna, då �
 
 Profeten – över honom vare Allāhs frid och välsignelser – tog bort lite smuts från sina skor då han bad när [ängeln] Gabriel berättade för honom att det fanns smuts på dem. Han upprepade inte den första delen av bönen utan han fortsatte i stället att be.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 

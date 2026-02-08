@@ -2,9 +2,9 @@
 title: Ta betalt för att recitera Koranen
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 73 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Övrigt
@@ -51,7 +51,7 @@ Den fattige får ta emot välgörenhet för att det ska täcka personens behov, 
 
 Innebörden av: ”*Jag begär ingen lön av er för detta [budskap]*.” [^2]
 
-Allāh den Upphöjde kommenderar Sitt sändebud Muḥammad att berätta för folket att han inte söker belöningar eller pengar för att förmedla till dem det som uppenbarats för honom från Herren. Profeten – över honom vare Allāhs frid och välsignelser – kallar dem till att dyrka enbart Allāh och han kallar dem till de islamiska lagarna. Profeten – över honom vare Allāhs frid och välsignelser – har anförtrotts att leverera och tydliggöra åtlydandet av hans Herre, för att få Hans tillfredsställelse och belöningar enbart från Honom.
+Allāh den Upphöjde befaller Sitt sändebud Muḥammad att berätta för folket att han inte söker belöningar eller pengar för att förmedla till dem det som uppenbarats för honom från Herren. Profeten – över honom vare Allāhs frid och välsignelser – kallar dem till att dyrka enbart Allāh och han kallar dem till de islamiska lagarna. Profeten – över honom vare Allāhs frid och välsignelser – har anförtrotts att leverera och tydliggöra åtlydandet av hans Herre, för att få Hans tillfredsställelse och belöningar enbart från Honom.
 
 Detta sades för att eliminera månggudadyrkarnas misstankar om att profeten – över honom vare Allāhs frid och välsignelser – kallade dem till att följa honom för att få tillgångar och maktposition. Han klargjorde då att han bjöd in dem till sanningen enbart för Allāhs skull.
 

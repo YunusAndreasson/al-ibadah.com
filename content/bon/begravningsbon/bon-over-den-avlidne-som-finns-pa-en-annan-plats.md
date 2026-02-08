@@ -2,7 +2,7 @@
 title: Bön över den avlidne som finns på en annan plats
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 66 s. ISBN saknas
 categories:
   - Bön (Salāh)

@@ -2,7 +2,7 @@
 title: Tayammum är ogiltigt när det finns vatten i närheten
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 89 s. ISBN saknas
 categories:
   - Renhet (Tahārah)

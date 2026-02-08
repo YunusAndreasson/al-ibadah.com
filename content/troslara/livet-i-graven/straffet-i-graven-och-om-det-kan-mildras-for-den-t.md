@@ -2,7 +2,7 @@
 title: Straffet i graven och om det kan mildras för den troende som syndat
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 170 s. ISBN 9960-892-66-2
 categories:
   - Troslära (´Aqīdah)
@@ -34,7 +34,7 @@ Glorifieringen av stenen i sändebudets hand hördes trots att stenen var torr [
 
 En av dem skyddade sig inte mot sin urin och om han inte skyddade sig innebär det att han bad rituellt oren. Den andre gick runt och spred sagor som skapade fiendskap mellan Allāhs tjänare. Detta är något allvarligt.
 
-Förklaringen att det var en tillfällig medling för att varna folket är närmare sanningen. Det var inte snikenhet från profetens – över honom vare Allāhs frid och välsignelser – sida när han inte sökte en bestående medling. 
+Förklaringen att det var en tillfällig medling för att varna folket är närmare sanningen. Det var inte snikenhet från profetens – över honom vare Allāhs frid och välsignelser – sida när han inte sökte en bestående medling.
 
 Vi avviker här ifrån ämnet för att säga att vissa lärde har sagt att det är tillåtet att lägga färska palmlöv, en trädgren eller något liknande över en grav för att mildra straffet för den begravde. Men ingriper man på detta sätt är det [ett handlande som är] mycket långt ifrån sanningen och det är av flera skäl inte tillåtet för oss att göra så:
 

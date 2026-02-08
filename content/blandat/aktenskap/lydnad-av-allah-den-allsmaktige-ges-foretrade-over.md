@@ -1,5 +1,5 @@
 ---
-title: Lydnad av Allāh den Allsmäktige ges företräde över lydnad av föräldrarna
+title: Lydnad mot Allāh före lydnad mot föräldrarna
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon: Maktaba

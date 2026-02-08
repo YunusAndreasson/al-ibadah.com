@@ -2,11 +2,11 @@
 title: Iḥrām under månadsblödning
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 158 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - Helgtillståndet och avsikt
+  - Helgtillståndet och avsikten
 original_id: 784
 description: >-
   Fråga: En kvinna gick in i ihrām för vallfärden vid as-Sayl [ mīqāt för Najd]

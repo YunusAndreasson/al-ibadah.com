@@ -2,7 +2,7 @@
 title: Mutamatti's resa till Jiddah bryter inte tamattu
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 99 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
@@ -11,12 +11,12 @@ original_id: 743
 description: >-
   Fråga: Jag gick in i ihrām för ‘umrah och min avsikt var att utföra
   hajjul-tamattu’ . Efter ‘umrah begav jag mig till Jiddah. Anses jag vara en
-  mutamatti' om jag återvänder och avslutar m...
+  mutamatti´' om jag återvänder och avslutar m...
 ---
 
-**Fråga:** Jag gick in i *iḥrām* för *´umrah* och min avsikt var att utföra *ḥajjul-tamattu´*. Efter *´umrah* begav jag mig till Jiddah. Anses jag vara en *mutamatti[^1]'* om jag återvänder och avslutar min vallfärd?
+**Fråga:** Jag gick in i *iḥrām* för *´umrah* och min avsikt var att utföra *ḥajjul-tamattu´*. Efter *´umrah* begav jag mig till Jiddah. Anses jag vara en *mutamatti´[^1]'* om jag återvänder och avslutar min vallfärd?
 
-**Svar:** Den korrekta åsikten är att personen genom sin [resa till Jiddah] inte har lämnat *ḥajjul-tamattu´*. Om personen åkte in i Mecka som en *mutamatti[^1]'* efter *ramaḍān*, gick in i *iḥrām* för *´umrah* och avsåg vallfärden tillsammans med den och sedan efter att ha avklarat *´umrah* av någon anledning begav sig till at-ta'if eller Jiddah, då är den korrekta åsikten att personen fortsätter att vara en *mutamatti[^1]'*.
+**Svar:** Den korrekta åsikten är att personen genom sin [resa till Jiddah] inte har lämnat *ḥajjul-tamattu´*. Om personen åkte in i Mecka som en *mutamatti´[^1]'* efter *ramaḍān*, gick in i *iḥrām* för *´umrah* och avsåg vallfärden tillsammans med den och sedan efter att ha avklarat *´umrah* av någon anledning begav sig till at-ta'if eller Jiddah, då är den korrekta åsikten att personen fortsätter att vara en *mutamatti´[^1]'*.
 
 Några av de lärde har sagt att om personen ger sig av och reser en sträcka som anses vara en resa och personen återvänder för vallfärden och går in i *iḥrām* för den, då har personen på detta sätt brutit sin *ḥajjul-tamattu´* och är nu en *mufrid* [som enbart vallfärdar]. Några av de lärde har sagt detta.
 

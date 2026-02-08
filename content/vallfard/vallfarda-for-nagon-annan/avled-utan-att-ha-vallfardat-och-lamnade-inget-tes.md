@@ -1,7 +1,7 @@
 ---
 title: Avled utan att ha vallfärdat och lämnade inget testamente efter sig
 author: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 70 s. ISBN saknas
 source: Ibn ´Abdullāh Ibn Baz
 categories:

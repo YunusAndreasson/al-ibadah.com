@@ -4,7 +4,7 @@ author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fatāwa al-shaykh Ibn ‘Uthaymīn, 22/205-206'
 categories:
   - Vallfärd (Hajj)
-  - Helgtillståndet och avsikt
+  - Helgtillståndet och avsikten
 original_id: 1309
 description: >-
   Fråga: Somliga tror att om någon utför en handling som är förbjuden i ihrām så

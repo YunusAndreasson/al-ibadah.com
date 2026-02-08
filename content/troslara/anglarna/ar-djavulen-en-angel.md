@@ -2,9 +2,9 @@
 title: Är djävulen en ängel?
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 9x s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Änglarna
@@ -21,7 +21,7 @@ description: >-
 
 > ”Därpå föll änglarna ned [inför människan], alla utom djävulen.” [Koranen 15:30 – 31]
 
-I Koranen nämner Allāh vad djävulen sade när Han kommenderade honom att nedfalla inför Adam:
+I Koranen nämner Allāh vad djävulen sade när Han befallde honom att nedfalla inför Adam:
 
 > ”… och hur alla föll ned utom Iblīs; han tillhörde skaran av osynliga väsen och han trotsade sin Herres befallning. Vill ni ta honom och hans anhang till era beskyddare i Mitt ställe, fastän de är era fiender? Då gör de orättfärdiga ett dåligt byte!” [Koranen 18:50]
 

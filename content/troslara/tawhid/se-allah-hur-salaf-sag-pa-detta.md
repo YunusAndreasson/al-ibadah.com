@@ -2,9 +2,9 @@
 title: Se Allāh – hur salaf såg på detta
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 145 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Monoteism
@@ -39,7 +39,7 @@ Den som påstår att Allāh inte uppfattas genom det mänskliga ögat och att *a
 
 > ”Ihsan är att dyrka Allāh som om du ser Honom för även om du inte ser Honom så ser Han sannerligen dig.” [*Muslim* 9]
 
-Att dyrka Allāh som om man ser Honom är fullständig och perfekt visshet. Därför är påståendet att denna *ru'yah* betyder fullständig och perfekt visshet, för att den som är absolut säker på någonting är likt den som ser något med sina egna ögon, ett falskt påstående och det ett fördärv av bevisen. Ett sådant påstående är inte ta’wil utan det är en falsk förvridning. Den som har sagt så måste avvisas.
+Att dyrka Allāh som om man ser Honom är fullständig och perfekt visshet. Därför är påståendet att denna *ru'yah* betyder fullständig och perfekt visshet, för att den som är absolut säker på någonting är likt den som ser något med sina egna ögon, ett falskt påstående och det ett fördärv av bevisen. Ett sådant påstående är inte ta’wīl utan det är en falsk förvridning. Den som har sagt så måste avvisas.
 
 Och Allāh är den vars hjälp vi söker.
 

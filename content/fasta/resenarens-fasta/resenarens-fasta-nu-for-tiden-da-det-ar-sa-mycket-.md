@@ -2,9 +2,9 @@
 title: Resenärens fasta med moderna transportmedel
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 640 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Fasta (Sawm)
   - Resenärens fasta
@@ -21,7 +21,7 @@ description: >-
 
 Följeslagarna gav sig av på en resa i sällskap med profeten. Vissa fastade medan andra inte gjorde det, och inga av dem tillrättavisade de andra.
 
-Profeten – över honom vare Allāhs frid och välsignelser – brukade fasta när han reste. Abu Darda' sade: "*Vi reste tillsammans med Allāhs sändebud under en resa i *ramadan*. Det var extremt varmt. Ingen av oss fastade utom Allāhs sändebud och Abdullah bin Rawahah*." [^2]
+Profeten – över honom vare Allāhs frid och välsignelser – brukade fasta när han reste. Abu Darda' sade: "*Vi reste tillsammans med Allāhs sändebud under en resa i *ramaḍān*. Det var extremt varmt. Ingen av oss fastade utom Allāhs sändebud och Abdullah bin Rawahah*." [^2]
 
 Utlåtandet om resenären är att personen får välja mellan att fasta och att bryta fastan. Är fastan inte svår för denna är det bättre att fasta. I detta finns det tre fördelar:
 

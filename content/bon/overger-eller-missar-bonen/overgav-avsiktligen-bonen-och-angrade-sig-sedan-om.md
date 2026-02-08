@@ -2,7 +2,7 @@
 title: Övergav avsiktligen bönen och ångrade sig sedan – om man då behöver ta igen
  för vad man har missat
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
+source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym
  1. Libanon: Makbtaba Dar us-Salam. 402 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
@@ -23,5 +23,5 @@ Detta beror på att Allāhs gränser noga måste följas. Denna bön mellan viss
 
 Det är dock en skyldighet för den som har övergivit bönen att ångra sig mycket, söka förlåtelse i stor mängd och göra mycket som är rättfärdigt. På detta sätt hoppas vi att Allāh den Upphöjde kommer att ursäkta och förlåta honom för de böner som han övergivit.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 

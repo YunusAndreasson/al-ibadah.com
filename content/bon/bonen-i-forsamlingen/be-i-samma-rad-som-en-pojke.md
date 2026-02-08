@@ -1,7 +1,7 @@
 ---
 title: Be i samma rad som en pojke
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
  Libanon: Maktaba Dar us-Salam. 209 s. ISBN saknas'
 categories:
   - Bön (Salāh)
@@ -16,7 +16,7 @@ description: 'Fråga: Två män gick in i en moské och med dem fanns en pojke s
 
 **Svar:** Pojken måste vara gammal nog för att förstå saker och ting. Detta kan vara när han blir femton år gammal, när han får våta drömmar eller när det börjar växa skägg i hans ansikte. Men pojken får ställa sig i raderna då han har blivit sju år. Detta enligt den mest korrekta åsikten som de lärde har.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 Må frid och välsignelser vara över vår profet Muḥammad, hans familj och följeslagare.
 

@@ -9,20 +9,20 @@ categories:
   - Övrigt
 original_id: 1667
 description: >-
-  Fråga: Vilket är utlåtandet om någon som rör mushaf utan att ha tvagat sig för
+  Fråga: Vilket är utlåtandet om någon som rör muṣḥaf utan att ha tvagat sig för
   att läsa den eller flytta den till en annan plats? Min fråga gäller den som
   inte har den stora orenheten. Sva...
 ---
 
 **Fråga:** Vilket är utlåtandet om någon som rör *muṣḥaf* utan att ha tvagat sig för att läsa den eller flytta den till en annan plats? Min fråga gäller den som inte har den stora orenheten.
 
-**Svar:** Enligt majoriteten av de lärde är det inte tillåtet att rör *muṣḥaf* då man inte har tvagat sig. Denna åsikt hade de fyra imamerna och detta var åsikten som profetens följeslagare brukade döma enligt. Det finns en autentisk *ḥadīt̲h* om detta och i den berättar 'Amr bin Hazm att profeten – över honom vare Allāhs frid och välsignelser – sände ett brev till invånarna i Jemen som innehöll följande: ”*Ingen rör Koranen utom den rene*.” [Ibn Habban 793 och ad-Daraqutni 433] Autenticiteten i denna *ḥadīt̲h* är god. Återberättarkedjorna är många och de stärker varandra.
+**Svar:** Enligt majoriteten av de lärde är det inte tillåtet att rör *muṣḥaf* då man inte har tvagat sig. Denna åsikt hade de fyra imamerna och detta var åsikten som profetens följeslagare brukade döma enligt. Det finns en autentisk *ḥadīt̲h* om detta och i den berättar 'Amr bin Hazm att profeten – över honom vare Allāhs frid och välsignelser – sände ett brev till invånarna i Jemen som innehöll följande: ”*Ingen rör Koranen utom den rene*.” [Ibn Habban 793 och ad-Dāraquṭnī 433] Autenticiteten i denna *ḥadīt̲h* är god. Återberättarkedjorna är många och de stärker varandra.
 
-Samma gäller utlåtandet för att flytta *muṣḥaf* från en plats till en annan. Enbart den som är ren får göra det. Men om mushaf exempelvis finns i en väska eller en jacka kan man bära den så länge inte händerna vidrör den direkt.
+Samma gäller utlåtandet för att flytta *muṣḥaf* från en plats till en annan. Enbart den som är ren får göra det. Men om muṣḥaf exempelvis finns i en väska eller en jacka kan man bära den så länge inte händerna vidrör den direkt.
 
 Har man den lilla orenheten kan man recitera Koranen från minnet eller recitera medan någon annan håller den. Befinner man sig i den stora orenheten får man inte recitera Koranen därför att inget hindrade profeten – över honom vare Allāhs frid och välsignelser – från att recitera den utom den stora orenheten.
 
-Ahmad har nedtecknat en god berättarkedja ned till 'A'ishah om att efter profeten – över honom vare Allāhs frid och välsignelser – uträttat sina behov, då reciterade han något från Koranen och sade sedan: "Detta gäller någon som inte är i den stora rituella orenheten. När det gäller den som är i den stora rituella orenheten, så nej, inte ens en endaste vers." [^1]
+Aḥmad har nedtecknat en god berättarkedja ned till 'A'ishah om att efter profeten – över honom vare Allāhs frid och välsignelser – uträttat sina behov, då reciterade han något från Koranen och sade sedan: "Detta gäller någon som inte är i den stora rituella orenheten. När det gäller den som är i den stora rituella orenheten, så nej, inte ens en endaste vers." [^1]
 
 Poängen här är att den som är i den stora rituella orenheten varken får röra eller recitera från *muṣḥaf* förrän personen har gjort *g̲husl*, för då är personen inte längre i den stora rituella orenheten.
 

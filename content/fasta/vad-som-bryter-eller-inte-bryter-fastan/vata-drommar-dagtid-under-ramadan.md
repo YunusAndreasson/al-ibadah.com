@@ -2,7 +2,7 @@
 title: Våta drömmar dagtid
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 279 s. ISBN saknas
 categories:
   - Fasta (Sawm)
@@ -22,6 +22,6 @@ Likaså om en man har intim samvaro med sin fru under natten och personen inte g
 
 Detsamma gäller en kvinna med månadsblödning och en kvinna med blödningar efter graviditeten. Om de blir rena under natten och de inte gör *g̲husl* förrän efter gryningsbönen, då är det ingen fara i det och deras fasta är korrekt. Men det är inte tillåtet för dem, eller den sexuellt orene, att skjuta upp badandet till efter soluppgången. I stället måste de skynda sig och bada innan soluppgången så att de kan be i tid. Män måste skynda sig och göra *g̲husl* innan gryningsbönen efter den sexuella orenheten så att han kan be i församlingen.
 
-Och Allāh är Givaren av framgång.
+Och Allāh är Den som ger framgång.
 
 

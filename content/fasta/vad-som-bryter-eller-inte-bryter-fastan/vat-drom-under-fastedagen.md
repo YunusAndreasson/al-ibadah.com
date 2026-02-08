@@ -2,7 +2,7 @@
 title: Våt dröm under fastedagen
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 271 s. ISBN saknas
 categories:
   - Fasta (Sawm)
@@ -22,6 +22,6 @@ Att du bad utan att ta ett bad var ett misstag från din sida och något mycket 
 
 > ”Den som kräks [utan att vilja det], personen behöver inte ta igen fastan och den som får sig till att kräkas, personen måste ta igen fastan.” [*Abū Dāwūd* 2380, *at-Tirmid̲hī* 720 och *Ibn Mājah* 1676]
 
-Denna *ḥadīt̲h* har Ahmad och de som har sammanställt *Sunan* återgivit med en autentisk berättarkedja.
+Denna *ḥadīt̲h* har Aḥmad och de som har sammanställt *Sunan* återgivit med en autentisk berättarkedja.
 
 

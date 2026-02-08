@@ -2,9 +2,9 @@
 title: Ånger och att vara tillsammans med de rättfärdiga
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 7.
   Libanon: Maktaba Dar us-Salam. 240 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Blandat
   - Ånger
@@ -33,7 +33,7 @@ Profeten har sagt:
 
 > ”Den som har handlat felaktigt mot sin broders heder eller något annat, låt honom söka förlåtelse från honom idag så länge det finns saker som dinar och dirham (det vill säga, innan Domedagen). Om den som handlat felaktigt har goda gärningar kommer den han behandlat felaktigt mot få dem enligt det onda han gjort mot denna person. Har den som gjort fel inte några goda handlingar kommer han ta från sin partners synder och bära den bördan.” [*al-Buk̲hārī* 2449]
 
-Nedtecknad av al-Bukhārī i hans *Ṣaḥīḥ*. Verserna och *aḥādīt̲h* med samma innebörd är många.
+Nedtecknad av al-Buk̲hārī i hans *Ṣaḥīḥ*. Verserna och *aḥādīt̲h* med samma innebörd är många.
 
 Jag råder dig inte enbart till att försöka följa med de rättfärdiga, utan att du även håller dig fast vid dem. Undvik också samröre med dåligt folk.
 
@@ -45,7 +45,7 @@ När det gäller böcker ger jag dig rådet att läsa Allāhs skrift; du reciter
 
 > ”Detta är en välsignad Skrift som Vi har uppenbarat för dig, [Muḥammad]. Människorna bör tänka över dess budskap och lägga dem på minnet, om de har förstånd.” [Koranen 38:29]
 
-Jag råder dig även att läsa följande böcker som är skrivna av *sunnah* folk: *Kitab at-Tawhīd*[^1] (av Muḥammad bin ´Abdul Wahhab), *al-´Aqidah al-Wastitiyah* (av *s̲hayk̲h ul-islām* Ibn Taymiyyah), *Ighathatul-Lahfan* (av Ibn al-Qayyim), *al-Arba'in an-Nawawiyah* (av al-Hafiz Ibn Hajar), *'Umadatul-Hadīth* (av *s̲hayk̲h* ´Abdul-Ghani bin ´Abdul-Wahid Al-Maqdisi) och *Bulūg̲h al-Marām* (av al-Hafiz Ibn Hajar).
+Jag råder dig även att läsa följande böcker som är skrivna av *sunnah* folk: *Kitab at-Tawḥīd*[^1] (av Muḥammad bin ´Abdul Wahhab), *al-´Aqīdah al-Wastitiyah* (av *s̲hayk̲h ul-islām* Ibn Taymiyyah), *Ighathatul-Lahfan* (av Ibn al-Qayyim), *al-Arba'in an-Nawawiyah* (av al-Hafiz Ibn Hajar), *'Umadatul-Ḥadīt̲h* (av *s̲hayk̲h* ´Abdul-Ghani bin ´Abdul-Wahid Al-Maqdisi) och *Bulūg̲h al-Marām* (av al-Hafiz Ibn Hajar).
 
 Dessa böcker är speciellt nyttiga för högskole- och universitetsstudenter. Efter dessa bör en student läsa de båda *Ṣaḥīḥ* och andra böcker från *sunnah* folk.
 

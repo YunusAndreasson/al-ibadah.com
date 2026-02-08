@@ -2,9 +2,9 @@
 title: Sällskap med dem som inte ber
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 381 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Får en muslim umgås med en person som oftast inte ber?
 
-**Svar:** Det är inte tillåtet att umgås med den som vid vissa tillfällen överger bönen. Det han måste göra är att ge honom råd och kritisera honom för hans onda handlingar. Ångrar han sig är allt frid och fröjd, men om han inte gör det bör man undvika honom och inte ha honom som vän. Han bör hatas för Allāhs skull tills han ångrar dessa onda handlingar. 
+**Svar:** Det är inte tillåtet att umgås med den som vid vissa tillfällen överger bönen. Det han måste göra är att ge honom råd och kritisera honom för hans onda handlingar. Ångrar han sig är allt frid och fröjd, men om han inte gör det bör man undvika honom och inte ha honom som vän. Han bör hatas för Allāhs skull tills han ångrar dessa onda handlingar.
 
 Att överge bönen är en handling som innebär stor otro. Profeten – över honom vare Allāhs frid och välsignelser – säger ju: ”*Avtalet som skiljer oss från dem är bönen och den som lämnar den har inte trott*.” [^1]
 

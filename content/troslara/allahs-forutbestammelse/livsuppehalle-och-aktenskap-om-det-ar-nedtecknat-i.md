@@ -2,9 +2,9 @@
 title: Livsuppehälle och äktenskap – om det är nedtecknat i al-lawh al-mahfuz
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 190 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Är ens levebröd och äktenskap nedtecknat i *al-lawh al-mahfuz*?
 
-**Svar:** Allting sedan skapelsen av pennan till Återuppståndelsens dag är nedtecknat i *al-lawh al-mahfuz*. När Allāh den Härlige, den Upphöjde skapade pennan sade Han till den: ”*Skriv*.” Den sade: ”*Min Herre! Vad ska jag skriva?*” Han sade: ”*Skriv ned allt som kommer att ske*.” Och på detta sätt nedtecknades under den timmen allt som kommer att ske. [^1] 
+**Svar:** Allting sedan skapelsen av pennan till Återuppståndelsens dag är nedtecknat i *al-lawh al-mahfuz*. När Allāh den Härlige, den Upphöjde skapade pennan sade Han till den: ”*Skriv*.” Den sade: ”*Min Herre! Vad ska jag skriva?*” Han sade: ”*Skriv ned allt som kommer att ske*.” Och på detta sätt nedtecknades under den timmen allt som kommer att ske. [^1]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt att när 40 dagar har gått sänder Allāh en ängel till fostret i moderns sköte. Ängeln andas in själen i fostret och nedtecknar personens levebröd, livslängd, handlingar och om personen kommer att vara lycklig eller olycklig. [*al-Buk̲hārī*]
 

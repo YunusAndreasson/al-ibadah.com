@@ -1,8 +1,8 @@
 ---
-title: Avsikt till att fasta
+title: Avsikt att fasta
 author: Ibn ´Abdur-Rahman al-Jibrin
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 326 s. ISBN saknas
 categories:
   - Fasta (Sawm)

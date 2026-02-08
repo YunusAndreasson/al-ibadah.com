@@ -2,7 +2,7 @@
 title: Omskärelse för män och kvinnor
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 315 s. ISBN 9960-892-66-2
 categories:
   - Renhet (Tahārah)
@@ -33,7 +33,7 @@ Bevisen för att det är en skyldighet för män är följande:
 
 Stöden från *aḥādīt̲h* och ett sunt förnuft bevisar att män måste omskära sig.
 
-Gällande kvinnor är det tveksamt om det är en skyldighet för dem. Det som är mest uppenbart är att det är en skyldighet för män men inte för kvinnor. Det finns en svag *ḥadīt̲h* som säger: "*Omskärelse är en sunnah för män och ett tecken på respekt för kvinnor*." [Imam Ahmad i *al-Musnad* 5:75] Vore denna *ḥadīt̲h* ett bevis hade den enbart varit en förklaring.
+Gällande kvinnor är det tveksamt om det är en skyldighet för dem. Det som är mest uppenbart är att det är en skyldighet för män men inte för kvinnor. Det finns en svag *ḥadīt̲h* som säger: "*Omskärelse är en sunnah för män och ett tecken på respekt för kvinnor*." [Imam Aḥmad i *al-Musnad* 5:75] Vore denna *ḥadīt̲h* ett bevis hade den enbart varit en förklaring.
 
 
 [^1]: *Aḥmad* 3:415

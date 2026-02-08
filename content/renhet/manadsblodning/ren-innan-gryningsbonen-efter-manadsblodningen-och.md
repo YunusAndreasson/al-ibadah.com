@@ -4,7 +4,7 @@ title: >-
   gryningsbönen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 659 s. ISBN 9960-892-66-2
 categories:
   - Renhet (Tahārah)
@@ -18,7 +18,7 @@ description: >-
 
 **Fråga:** Om en kvinna med månadsblödning blir ren innan gryningsbönen och hon gör *g̲husl* när den [gryningsbönen] har börjat, vilket är då utlåtandet om hennes fasta?
 
-**Svar:** Fastan är giltig om hon är säker på att hon blev ren innan gryningsbönen började. Det viktiga är att hon är säker på att hon blivit ren. Somliga kvinnor tror att de har blivit rena men i själva verket är de inte det. Därför brukade kvinnor komma till ‘A’ishah – må Allāh vara nöjd med henne – med en bit bommull för att visa henne tecknen på att de blivit rena efter månadsblödningen. Hon sade till dem: ”Ha *inte bråttom, vänta tills ni ser den vita flytningen*.” [al-Bukhārī]
+**Svar:** Fastan är giltig om hon är säker på att hon blev ren innan gryningsbönen började. Det viktiga är att hon är säker på att hon blivit ren. Somliga kvinnor tror att de har blivit rena men i själva verket är de inte det. Därför brukade kvinnor komma till ‘A’ishah – må Allāh vara nöjd med henne – med en bit bommull för att visa henne tecknen på att de blivit rena efter månadsblödningen. Hon sade till dem: ”Ha *inte bråttom, vänta tills ni ser den vita flytningen*.” [al-Buk̲hārī]
 
 Således måste kvinnan vara tålmodig tills hon är helt säker på att hon har blivit ren. När hon har blivit ren utformar hon avsikten för att fasta även om hon inte utfört *g̲husl* förrän efter att gryningsbönen har börjat. Likaså är hon skyldig att be.
 

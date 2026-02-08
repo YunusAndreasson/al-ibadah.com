@@ -1,9 +1,9 @@
 ---
 title: Amuletter och talismaner – ett utlåtande om att bära dem
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
+source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym
  1. Libanon: Makbtaba Dar us-Salam. 99 s. ISBN 9960-892-66-2 Muhammed Knut Bernström
- (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8'
+ (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8'
 categories:
   - Troslära (´Aqīdah)
   - Amuletter och talismaner
@@ -25,7 +25,7 @@ Det som bärs kommer från Koranen. De lärde har, både i tidiga och sena gener
 
 Detta är då från Hans välsignelser när de bärs för att skydda mot det onda.
 
-Andra har förbjudit det genom att säga: Man har inte bekräftat från profeten – över honom vare Allāhs frid och välsignelser – att det är tillåtet att bära dem som ett medel för att skydda sig mot eller klara sig undan farligheter. Den grundläggande principen i frågor som dessa är att man undviker dem. Detta är den starkaste åsikten. 
+Andra har förbjudit det genom att säga: Man har inte bekräftat från profeten – över honom vare Allāhs frid och välsignelser – att det är tillåtet att bära dem som ett medel för att skydda sig mot eller klara sig undan farligheter. Den grundläggande principen i frågor som dessa är att man undviker dem. Detta är den starkaste åsikten.
 
 Till följd av detta är det inte tillåtet att bära talismaner även om de kommer från den ädla Koranen. Det är heller inte tillåtet att lägga dem under en sjuklings kudde, att hänga dem på väggen eller något liknande. Åkallan och recitation får enbart göras direkt över den sjuke, på det sätt som profeten – över honom vare Allāhs frid och välsignelser – brukade göra.
 

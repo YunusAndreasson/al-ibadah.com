@@ -2,7 +2,7 @@
 title: Bönematta som innehåller bilder
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 186 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -20,11 +20,11 @@ description: >-
 
 Bönen är dock fortfarande giltig enligt en återberättelse från *Aḥmad* och *Abū Dāwūd* i vilken 'Uthmān bin Talhah berättar att profeten – över honom vare Allāhs frid och välsignelser – kallade honom till sig när han hade gått in i Ka'bah. Han sade: "*Jag såg en vädurs horn då jag gick in i huset och jag glömde att beordra dig att täcka dem, så täck dem, då det inte passar att det finns något i huset som stör tjänaren*." [^1]
 
-*Aḥmad* och al-Bukhārī har också återgivit från Anas att han sagt: *”‘A’ishah hade en filt som täckte en av husets väggar och profeten – över honom vare Allāhs frid och välsignelser – sade till henne: ”Ta bort filten från vårt hus, dess bilder slutade inte att störa mig under bönen*.” [^2]
+*Aḥmad* och al-Buk̲hārī har också återgivit från Anas att han sagt: *”‘A’ishah hade en filt som täckte en av husets väggar och profeten – över honom vare Allāhs frid och välsignelser – sade till henne: ”Ta bort filten från vårt hus, dess bilder slutade inte att störa mig under bönen*.” [^2]
 
 Han beordrade att hornen skulle täckas och att filten skulle tas bort. Här blir det klart och tydligt att de stör en tjänare under bönen. Det har dock inte rapporterats att profeten – över honom vare Allāhs frid och välsignelser – avbröt sin bön på grund av detta.
 
-al-Bukhārī och *Muslim* har återgivit från 'A'ishah att profeten – över honom vare Allāhs frid och välsignelser – bar en skjorta som hade mönster på sig och att han sneglade på dessa mönster. När han var färdig sade han: "*Ta min skjorta till Abū Jahm och hämta hans anbijaniyyah [Ett klädesplagg av enkelt material utan mönster] för den störde mig just nu i bönen*." [^3]
+al-Buk̲hārī och *Muslim* har återgivit från 'A'ishah att profeten – över honom vare Allāhs frid och välsignelser – bar en skjorta som hade mönster på sig och att han sneglade på dessa mönster. När han var färdig sade han: "*Ta min skjorta till Abū Jahm och hämta hans anbijaniyyah [Ett klädesplagg av enkelt material utan mönster] för den störde mig just nu i bönen*." [^3]
 
 Här finns en varning från honom för sådant som stör tjänaren under bönen. Han avbröt dock inte sin bön. Detta bevisar att det är förbjudet med saker som stör tjänare, men det bevisar även att bönen trots allt är korrekt. Detta innebär även att bönen inte avbryts, trots distraktionen.
 

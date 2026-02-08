@@ -3,7 +3,7 @@ title: Skjuta upp pilgrimsfärden utan anledning
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Majmū’ Fatāwa wa Maqālāt Mutanawwi’ah li Samāhat al-shaykh ‘Abd al-‘Azīz ibn
-  Bāz 16/359 Muhammed Knut Bernström (1421), Koranens budskap . Simrishamn:
+  Bāz 16/359 Muhammed Knut Bernström (1421), Koranens budskap. Simrishamn:
   Proprius. ISBN 91-7118-887-8
 categories:
   - Vallfärd (Hajj)

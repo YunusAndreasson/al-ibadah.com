@@ -1,8 +1,8 @@
 ---
-title: Takbīr två gånger om man börjar be med imamen när han bugar
+title: Dubbel takbīr vid anslutning under bugningen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 2.
   Libanon: Makbtaba Dar us-Salam. 463 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)

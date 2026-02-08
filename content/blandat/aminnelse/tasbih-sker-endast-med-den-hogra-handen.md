@@ -2,7 +2,7 @@
 title: Tasbīḥ sker endast med den högra handen
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 264 s. ISBN saknas
 categories:
   - Blandat
@@ -18,6 +18,6 @@ description: >-
 
 **Svar:** Det som imamen gjorde var rätt. Profeten – över honom vare Allāhs frid och välsignelser – brukade göra *tasbīḥ* med sin högra hand. Men om någon gjorde *tasbīḥ* med båda händerna, då finns det ingen invändan mot det. Detta i enlighet med den allmänna innebörden av de flesta *aḥādīt̲h*. *tasbīḥ* med den högra handen är dock bättre för att handla enligt profetens – över honom vare Allāhs frid och välsignelser – bekräftade *sunnah*.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 

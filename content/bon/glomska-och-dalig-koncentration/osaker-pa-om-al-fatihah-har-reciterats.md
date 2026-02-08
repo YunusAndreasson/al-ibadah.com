@@ -2,7 +2,7 @@
 title: Osäker på om al-Fātiḥah har reciterats
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 270 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -10,7 +10,7 @@ categories:
 original_id: 272
 description: >-
   Fråga: Under min bön glömde jag om jag hade reciterat *al-Fātiḥah*. Bör jag
-  nedfalla för glömska[^1] då? Vad reciterar man under denna nedfallan[^1]? Om
+  nedfalla för glömska då? Vad reciterar man under denna nedfallan? Om
   jag är nästan säker på att jag har reciterat den, b...
 ---
 

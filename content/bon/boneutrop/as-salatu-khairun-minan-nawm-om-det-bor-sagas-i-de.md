@@ -4,7 +4,7 @@ title: >-
   böneutropet
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 406 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
@@ -18,7 +18,7 @@ description: >-
 
 **Fråga:** Bör man säga *as-salatu khairun minan-nawm* [bön är bättre än sömn] i det första eller andra böneutropet?
 
-**Svar:** Man bör säga *as-salatu khairun minan-nawm* [bön är bättre än sömn] i det första böneutropet, vilket har rapporterats i en *ḥadīt̲h*: "Om *du ropar ut det första böneutropet för gryningsbönen, säg: 'as-salatu khairun minan-nawm*.'” [Imam Ahmad 3:408] Det är då i den första och inte i den andra.
+**Svar:** Man bör säga *as-salatu khairun minan-nawm* [bön är bättre än sömn] i det första böneutropet, vilket har rapporterats i en *ḥadīt̲h*: "Om *du ropar ut det första böneutropet för gryningsbönen, säg: 'as-salatu khairun minan-nawm*.'” [Imam Aḥmad 3:408] Det är då i den första och inte i den andra.
 
 Det bör kännas till att det första böneutropet som avses i *ḥadīt̲h* är det böneutrop som ropas ut efter bönetidens början och det andra böneutropet är *iqāmah*. Detta beror på att även *iqāmah* kallas för böneutrop. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Mellan *två böneutrop finns det en bön*.” [*al-Buk̲hārī*] Vad som avses med två böneutrop här är *ad̲hān* och *iqāmah*.
 

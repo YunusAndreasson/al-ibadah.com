@@ -1,7 +1,7 @@
 ---
 title: Kvinnor med månadsblödning eller sexuellt orena personer som går in i moskén
 author: Ibn ´Abdullāh Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
  Libanon: Maktaba Dar us-Salam. 31 s. ISBN saknas'
 categories:
   - Renhet (Tahārah)
@@ -20,5 +20,5 @@ description: 'Fråga: En kvinnas månadsblödning började när hon var inne i A
 
 Det har även rapporterats att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Jag tillåter inte tillträde till moskén för kvinnor med månadsblödning och inte heller sexuellt orena personer.” *[Abū Dawūd*, 232]
+> ”Jag tillåter inte tillträde till moskén för kvinnor med månadsblödning och inte heller sexuellt orena personer.” *[Abū Dāwūd*, 232]
 

@@ -2,7 +2,7 @@
 title: Harklingar gör inte bönen ogiltig
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 247 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -10,8 +10,8 @@ categories:
 original_id: 258
 description: >-
   Fråga: Jag bor jämte en moské där jag ber middagsbönen, eftermiddagsbönen,
-  kvällsbönen och nattbönen[^1]. Nyligen när imamen reciterade i kvällsbönen och
-  nattbönen[^1] harklade han sig hela tiden, mer ä...
+  kvällsbönen och nattbönen. Nyligen när imamen reciterade i kvällsbönen och
+  nattbönen harklade han sig hela tiden, mer ä...
 ---
 
 **Fråga:** Jag bor jämte en moské där jag ber middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen. Nyligen när imamen reciterade i kvällsbönen och nattbönen harklade han sig hela tiden, mer än tre gånger i en bönecykel. Gör detta bönen ogiltig?

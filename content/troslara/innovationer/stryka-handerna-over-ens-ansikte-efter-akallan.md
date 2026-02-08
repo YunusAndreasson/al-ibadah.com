@@ -2,9 +2,9 @@
 title: Stryka händerna över ens ansikte efter åkallan
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 7.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 7.
   Libanon: Maktaba Dar us-Salam. 295 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Innovationer
@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** De enda återberättelser som indikerar att det är tillåtet att stryka händerna över ansiktet är svaga. Därför är den starkaste av de båda åsikterna att inte stryka med ens händer. Somliga lärde tillåter denna handling, med argumentet att de svaga återberättelserna stärker varandra och därmed gör handlingen acceptabel. Men även om återberättelserna kan stärka varandra, når de inte en nivå av *ḥasan*, vilket har nämnts av al-Hafiz Ibn Hajar i *Bulūg̲h al-Marām*. Saken är den att denna handling inte är nämnd i någon autentisk *ḥadīt̲h*.
 
-Profeten gjorde det inte efter regnbönen eller efter någon annan händelse då han reste händerna; som vid as-Safa och Marwa, 'Arafat[^1], *Muzdalifah* eller vid Jimār.
+Profeten gjorde det inte efter regnbönen eller efter någon annan händelse då han reste händerna; som vid as-Safa och Marwa, ´Arafāt[^1], *Muzdalifah* eller vid Jimār.
 
 Då det inte har rapporterats att han strukit över ansiktet efter åkallan blir det klart att det är bättre att inte göra det.
 

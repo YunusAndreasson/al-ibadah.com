@@ -2,7 +2,7 @@
 title: Sunnah-bönerna under en resa
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 431 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -20,5 +20,5 @@ description: >-
 
 Frivilliga böner är föreskrivna både när man reser och när man är hemma. Detsamma gäller bönerna som det finns en anledning till som *sunnah* vid tvagning, *ṭawāf*, *dhuhā* och nattbön. Detta grundas på *aḥādīt̲h* som har återberättats om detta.
 
-Allāh är Beviljaren av framgång.
+Allāh är Den som ger framgång.
 

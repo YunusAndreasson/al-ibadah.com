@@ -4,16 +4,16 @@ title: >-
   dem
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 177 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Paradiset och Helvetet
 original_id: 1182
 description: >-
   Fråga: Var hamnar de troendes och de icke-troendes barn som dör när de
-  fortfarande är små? Svar: Barnen till de troende har deras destination i
+  fortfarande är små? Svar: Barnen till de troende har sin destination i
   Paradiset, de följer föräldrarna. Allāh den Upph...
 ---
 
@@ -23,7 +23,7 @@ description: >-
 
 När det gäller icke-troende som har uppfostrats av föräldrar som inte är muslimer är den mest korrekta åsikten att Allāh vet bäst vad de skulle ha gjort.
 
-I detta liv gäller samma utlåtande som för föräldrarna. Men när det gäller utlåtandet i det Nästkommande vet Allāh den Upphöjde bäst vad de skulle ha gjort. Detta är något som profeten – över honom vare Allāhs frid och välsignelser – har talat om [^2]. Allāh vet bäst vilken som är deras destination. 
+I detta liv gäller samma utlåtande som för föräldrarna. Men när det gäller utlåtandet i det Nästkommande vet Allāh den Upphöjde bäst vad de skulle ha gjort. Detta är något som profeten – över honom vare Allāhs frid och välsignelser – har talat om [^2]. Allāh vet bäst vilken som är deras destination.
 
 Saken är den att detta inte är något som är av vikt för oss. Det viktiga för oss är utlåtandet om dem i detta liv. Utlåtande om dem – jag menar barnen till månggudadyrkarna – är att de är som dem. De tvättas, kläs och sveps inte. Ingen bön bes över dem och de begravs inte på en muslimsk gravplats.
 

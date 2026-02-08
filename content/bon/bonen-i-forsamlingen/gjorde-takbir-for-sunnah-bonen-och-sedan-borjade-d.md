@@ -2,7 +2,7 @@
 title: Gjorde takbīr för sunnah-bönen och sedan började den obligatoriska
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 297 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -22,11 +22,11 @@ Vissa lärda anser att han bör fullfölja den snabbt. De baserar det på Allāh
 
 De tolkar den ovan nämnda *ḥadīt̲h* som att den syftar på den som har börjat *sunnah*-bönen efter *iqāmah*. Den korrekta åsikten är dock det första uttalandet. Den *ḥadīt̲h* som nämnts täcker ju båda situationerna. Andra *aḥādīt̲h* har rapporterats som visar att detta är allmänt och att han sade detta då han såg en man be medan böneutroparen ropade ut *iqāmah*.
 
-Koranversen är allmän och *ḥadīt̲h* är särskild. Utan att motsäga det väger det särskilda tyngre än det allmänna, vilket är känt från *usulul-fiqh*[^3] [Grunderna i islamisk rättsvetenskap] och *mustalatul-hadīth*[^2] [Tekniskt språkbruk i *ḥadīt̲h*].
+Koranversen är allmän och *ḥadīt̲h* är särskild. Utan att motsäga det väger det särskilda tyngre än det allmänna, vilket är känt från *usulul-fiqh*[^3] [Grunderna i islamisk rättsvetenskap] och *mustalatul-ḥadīt̲h*[^2] [Tekniskt språkbruk i *ḥadīt̲h*].
 
 Men om bönen börjar och man redan har utfört en andra bönecykel, då syndar man inte om man fullföljer den. Bönen är ju nästan över och det återstår endast en liten del av denna bönecykel.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 [^1]: Tahiyyatul-Msjid.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.

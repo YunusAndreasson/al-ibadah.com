@@ -7,7 +7,7 @@ categories:
   - Missad bön
 original_id: 1285
 description: >-
-  Fråga: Är det tillåtet att be nattbönen[^1] precis före vi går och lägger oss,
+  Fråga: Är det tillåtet att be nattbönen precis före vi går och lägger oss,
   i stället för att be den på utsatt tid? Svar: All lovprisan tillhör Allāh.
   Allāh säger: ” Bönen är alla troendes pli...
 ---

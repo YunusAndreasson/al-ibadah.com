@@ -2,7 +2,7 @@
 title: 'Slå ihop kvällsbönen och nattbönen [isha] när det regnar'
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 181 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -10,7 +10,7 @@ categories:
 original_id: 209
 description: >-
   Fråga: Efter att ha avslutat kvällsbönen ropade vi direkt ut iqāmah för
-  nattbönen[^1]. Anledningen var att det regnade något. När vi hade bett klart
+  nattbönen. Anledningen var att det regnade något. När vi hade bett klart
   frågade jag imamen om denna bön. Han svarade att...
 ---
 

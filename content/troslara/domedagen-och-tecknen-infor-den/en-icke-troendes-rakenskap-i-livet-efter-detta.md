@@ -1,12 +1,12 @@
 ---
 title: En icke-troendes räkenskap i livet efter detta
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. x s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
-  - Domedagen och tecknen inför den
+  - Domedagen och dess tecken
 original_id: 84
 description: >-
   Fråga: Den troende kommer att ställas till svars på Återuppståndelsens Dag; om
@@ -20,7 +20,7 @@ description: >-
 
 > ”[Påminnelsen om domen och helveteselden] är förvisso ett av de mäktiga [varningstecken] som varnar människorna, både dem av er som vill gå i främsta ledet och dem som [tvekar och] blir efter. Var och en ska ställas till svars för vad han har gjort utom de rättfärdiga som hör till den högra sidan [och som där de vilar] i [paradisets] lustgårdar, ska förhöra sig om [de dömda] syndarna [och fråga]: 'Vad förde er till helveteselden?' De ska svara: 'Vi hörde inte till dem som bad och vi gav inte heller den nödställde att äta och vi ägnade oss med [andra] likasinnade åt tomt och respektlöst tal [om höga ting] och påstod att Domens dag var en lögn – till dess vi fick visshet.' Då ska medlarnas förböner inte vara dem till någon nytta.” [Koranen 74:39 – 46]
 
-Hade de inte varit påverkade av deras okunskap om bönen och att ge till de fattiga, då hade de inte nämnt det. Detta är ett bevis för att de kommer att straffas då de inte har utövat islam. På samma sätt som bevis från Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* kräver detta gör även sunt förnuft det. 
+Hade de inte varit påverkade av deras okunskap om bönen och att ge till de fattiga, då hade de inte nämnt det. Detta är ett bevis för att de kommer att straffas då de inte har utövat islam. På samma sätt som bevis från Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* kräver detta gör även sunt förnuft det.
 
 Om Allāh den Upphöjde straffar den troende tjänaren för att personen har misslyckats med att uppfylla sina skyldigheter i religionen – varför skulle Han då inte straffa den icke-troende? Sannerligen ska jag gå ännu längre: Den icke-troende kommer att straffas för sitt misslyckande med det som Allāh har välsignat honom med i form av mat, dryck och andra saker.
 

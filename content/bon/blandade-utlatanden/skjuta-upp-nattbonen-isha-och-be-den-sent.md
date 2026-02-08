@@ -7,8 +7,8 @@ categories:
   - Övrigt
 original_id: 570
 description: >-
-  Fråga: Är det tillåtet att be nattbönen[^1] mycket sent? Svar: När det gäller
-  nattbönen[^1] är det bäst att be den så sent som möjligt. Detta gäller i alla
+  Fråga: Är det tillåtet att be nattbönen mycket sent? Svar: När det gäller
+  nattbönen är det bäst att be den så sent som möjligt. Detta gäller i alla
   fall, utom när män ber den i församlingen....
 ---
 

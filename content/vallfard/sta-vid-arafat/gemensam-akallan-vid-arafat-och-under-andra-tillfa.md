@@ -2,15 +2,15 @@
 title: Gemensam åkallan vid ´Arafāt och under andra tillfällen
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 216 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Vallfärd (Hajj)
-  - Arafat
+  - ´Arafāt
 original_id: 1357
 description: >-
-  Fråga: Vilket är utlåtandet om att samlas för åkallan under Arafat-dagen,
+  Fråga: Vilket är utlåtandet om att samlas för åkallan under ´Arafāt-dagen,
   oavsett om det är just där eller vid någon annan plats? Svar: Under denna
   stora dag är det bästa för pilgrimen a...
 ---
@@ -23,13 +23,13 @@ Allāh har föreskrivit att tjänarna ska åkalla med ödmjukhet, i hemlighet oc
 
 Och Han den Upphöjde har sagt: ”*Och – [du som är troende] – åkalla i tysthet din Herre morgon och afton, ödmjukt och med fruktan*.” [^3]
 
-I *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* återges att Abū Mūsa al-Ash´ari har sagt att folket höjde deras röster i åkallan, så Allāhs sändebud – över honom vare Allāhs frid och välsignelser – sade: ”*Troende! Ta det lugnt, för sannerligen kallar ni inte på någon som är död eller frånvarande. Den som ni åkallar är sannerligen Allhörande, Närmst. Han är er närmre än ert riddjurs nacke*.” [^4]
+I *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* återges att Abū Mūsa al-Ash´ari har sagt att folket höjde sina röster i åkallan, så Allāhs sändebud – över honom vare Allāhs frid och välsignelser – sade: ”*Troende! Ta det lugnt, för sannerligen kallar ni inte på någon som är död eller frånvarande. Den som ni åkallar är sannerligen Allhörande, Närmst. Han är er närmre än ert riddjurs nacke*.” [^4]
 
 Allāh prisade Zakariya för detta. Han den Upphöjde sade: ”*[Detta är] en berättelse om hur din Herre bevisade Sin tjänare Sakarias Sin nåd. När han i en tyst [innerlig] bön bad till sin Herre*.” [^5]
 
 Allāh har även sagt: ”*Er Herre säger: 'Be till Mig, så ska Jag besvara er [bön]*.” [^6]
 
-Verserna och *aḥādīt̲h* som uppmuntrar till åminnelse av Allāh och åkallan är många. Det är speciellt förskrivet att göra mycket åkallan och åminnelse av Allāh på denna plats [Arafat[^1]]. Detta med rena intentioner, ett närvarande hjärta samt med hopp och fruktan. Det är också föreskrivet att höja röster när man gör det eller att man säger *talbiyyah* som profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare gjorde, enligt vad vi känner till.
+Verserna och *aḥādīt̲h* som uppmuntrar till åminnelse av Allāh och åkallan är många. Det är speciellt förskrivet att göra mycket åkallan och åminnelse av Allāh på denna plats [´Arafāt[^1]]. Detta med rena intentioner, ett närvarande hjärta samt med hopp och fruktan. Det är också föreskrivet att höja röster när man gör det eller att man säger *talbiyyah* som profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare gjorde, enligt vad vi känner till.
 
 Om några åkallar i en grupp och de säger ”*āmīn*” för personens åkallan, då finns det inget skadligt i det. Detta är precis vad som görs i *qunūt*, efter att ha läst ut Koranen, i åkallan för regn och vid liknande åkallan.
 

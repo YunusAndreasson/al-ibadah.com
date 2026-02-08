@@ -4,9 +4,9 @@ title: >-
   komma närmare den som ligger begravd däri
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 254 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
@@ -31,8 +31,8 @@ Månggudadyrkarna som begår stor *s̲hirk* är icke-troende som står utanför 
 
 > ”Gud utestänger den från paradiset som sätter medhjälpare vid Guds sida och Elden ska bli hans sista hemvist. För [dessa] syndare finns ingen hjälpare.” [Koranen 5:72]
 
-Svär man vid någon annan än Allāh, och man tror att den som man svär vid har en position likvärdig med Allāhs, då är man en månggudadyrkare[^2] som gör sig skyldig till stor *s̲hirk*. Om man inte tror det, men det i ens hjärta finns begär att upphöja den man svär vid, och det sker utan att man tror att personens position är likvärdig med Allāhs, då är man skyldig till mindre *s̲hirk*. 
-Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: "*Den som svär vid något annat än Allāh har begått otro eller shirk*[^1]." [^3]
+Svär man vid någon annan än Allāh, och man tror att den som man svär vid har en position likvärdig med Allāhs, då är man en månggudadyrkare[^2] som gör sig skyldig till stor *s̲hirk*. Om man inte tror det, men det i ens hjärta finns begär att upphöja den man svär vid, och det sker utan att man tror att personens position är likvärdig med Allāhs, då är man skyldig till mindre *s̲hirk*.
+Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: "*Den som svär vid något annat än Allāh har begått otro eller s̲hirk*[^1]." [^3]
 
 De som söker välsignelser från gravar, åkallar de avlidna eller svär vid någon annan än Allāh måste tillrättavisas skarpt. Det måste klargöras för personen att ett sådant beteende inte kommer att rädda personen från Allāhs straff enbart eftersom personen säger: ”Detta är något som vi lärt oss från våra förfäder.” Detta argument är detsamma som polyteristerna som motsade sig sändebudet – över honom vare Allāhs frid och välsignelser – lade fram:
 

@@ -2,7 +2,7 @@
 title: Tvekan om hur många bönecykler som har betts
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 275 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -11,7 +11,7 @@ original_id: 274
 description: >-
   Fråga: Jag har i vissa islamiska lagböcker läst att om bönen har förrättats
   och tjänaren tvekar om antalet bönecykler, då är bönen ogiltig. I andra böcker
-  står det att tjänaren bör nedfalla[^1] två g...
+  står det att tjänaren bör nedfalla två g...
 ---
 
 **Fråga:** Jag har i vissa islamiska lagböcker läst att om bönen har förrättats och tjänaren tvekar om antalet bönecykler, då är bönen ogiltig. I andra böcker står det att tjänaren bör nedfalla två gånger efter att ha fullföljt bönen. Vad är korrekt?

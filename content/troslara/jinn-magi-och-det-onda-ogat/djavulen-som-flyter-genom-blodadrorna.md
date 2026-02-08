@@ -10,7 +10,7 @@ categories:
 original_id: 1684
 description: >-
   Fråga: Allāhs sändebud har sagt: ”Sannerligen flyter djävulen genom Adams
-  söner precis som blod flyter genom honom.” [ Musnad Ahmad 3:156] Är detta
+  söner precis som blod flyter genom honom.” [ Musnad Aḥmad 3:156] Är detta
   flytande spirituellt eller fysiskt? Svar: ...
 ---
 
@@ -23,4 +23,4 @@ Utan att själv vilja det kan en människa börja tala eller göra något, när 
 Men om sedan Koranen eller annan åkallan läses över honom försvinner *jinn* från hans kropp – genom Allāhs tillstånd – och han återvänder till det normala.
 
 
-[^1]: *Musnad Ahmad* 3:156
+[^1]: *Musnad Aḥmad* 3:156

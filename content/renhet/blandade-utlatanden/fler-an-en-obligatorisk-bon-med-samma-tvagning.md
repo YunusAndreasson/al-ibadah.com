@@ -16,6 +16,6 @@ description: >-
 
 När någon tvagar sig men utan avsikt att be, som när man endast tvagar sig för att få bort någon orenhet, då får man be så många obligatoriska och icke-obligatoriska bönerna man vill. Detta gäller tills ens tvagning bryts.
 
-[^1]: Wudū
+[^1]: Wuḍū’
 [^2]: Dhuhr
 

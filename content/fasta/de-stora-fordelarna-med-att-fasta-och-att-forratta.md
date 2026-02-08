@@ -2,9 +2,9 @@
 title: Fördelar med fasta och nattbön under ramaḍān
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 211 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Fasta (Sawm)
 original_id: 1387
@@ -20,7 +20,7 @@ Detta är en kort utläggning om förtjänsten med att fasta och be under fastem
 
 Allāhs sändebud – över honom vare Allāhs frid och välsignelser – brukade ge följeslagarna de goda nyheterna om anländandet av *ramaḍān*. Han informerade dem om att detta är månaden då nådens portar och portarna till Paradiset är öppna samt då portarna till Helvetet är stängda. Under denna månad är djävlarna fastkedjade. Han har sagt:
 
-> ”Under den första natten i *ramaḍān* öppnas portarna till Paradiset och inte en enda av dem är stängda, och portarna till Helvetet är stängda och inte en enda av dem är öppna. Djävularna är fastkedjade och en utropare kallar och säger: 'Du som söker det goda! Kom fram [med ditt goda]. Och du som söker det onda! Avhåll dig själv.' Allāh har människor som Han frigör från Elden och det sker under varje natt [i Ramadan].” [*at-Tirmid̲hī* 682 och *Ibn Mājah* 1642]
+> ”Under den första natten i *ramaḍān* öppnas portarna till Paradiset och inte en enda av dem är stängda, och portarna till Helvetet är stängda och inte en enda av dem är öppna. Djävularna är fastkedjade och en utropare kallar och säger: 'Du som söker det goda! Kom fram [med ditt goda]. Och du som söker det onda! Avhåll dig själv.' Allāh har människor som Han frigör från Elden och det sker under varje natt [i Ramaḍān].” [*at-Tirmid̲hī* 682 och *Ibn Mājah* 1642]
 
 Han har även sagt:
 
@@ -116,7 +116,7 @@ Sannerligen, autentiska *aḥādīt̲h* från Allāhs sändebud – över honom 
 
 Profeten – över honom vare Allāhs frid och välsignelser – fastslog inte ett visst antal bönecykler, varken under *ramaḍān* eller vid någon annan tidpunkt. Under ´Umars tid bad följeslagarna därför ibland 23 bönecykler och ibland elva bönecykler. Detta har bekräftats från ‘Umar – må Allāh vara nöjd med honom – och följeslagarna under hans tid.
 
-Några av *salaf* – må Allāh vara nöjda med dem – brukade be 36 bönecykler under Ramadan för att sedan be tre bönecykler som *witr*. Vissa bad 41 bönecykler. *s̲hayk̲h ul-islām* ibn Taymiyyah – må Allāh vara honom nådig – berättade detta om dem och han har sagt att denna fråga är flexibel [det är lätt]. Han har även nämnt att det är bättre för den som förlänger sin recitation, sina bugningar och nedfallanden att minska antalet bönecykler; och den som förkortar recitationen, bugningarna och nedfallanden bör öka antalet bönecykler. Detta är innebörden av hans uttalande.
+Några av *salaf* – må Allāh vara nöjda med dem – brukade be 36 bönecykler under Ramaḍān för att sedan be tre bönecykler som *witr*. Vissa bad 41 bönecykler. *s̲hayk̲h ul-islām* ibn Taymiyyah – må Allāh vara honom nådig – berättade detta om dem och han har sagt att denna fråga är flexibel [det är lätt]. Han har även nämnt att det är bättre för den som förlänger sin recitation, sina bugningar och nedfallanden att minska antalet bönecykler; och den som förkortar recitationen, bugningarna och nedfallanden bör öka antalet bönecykler. Detta är innebörden av hans uttalande.
 
 Den som lägger vikt vid profetens – över honom vare Allāhs frid och välsignelser – *sunnah* kommer att förstå att det som är bäst är att be elva eller tretton bönecykler under *ramaḍān* och andra tidpunkter. Anledningen är att det är enligt profetens – över honom vare Allāhs frid och välsignelser – utövande under de flesta situationer [vad han vanligtvis brukade göra]. Ber någon mer, då finns det inget skadligt eller ogillat i det. Detta har nämnts tidigare.
 
@@ -132,7 +132,7 @@ De bör recitera föreskriven åkallan, påbjuda det goda, förbjuda det onda, b
 
 Han har även sagt:
 
-> ”Den som kommer närmare Allāh under den [*ramaḍān*] genom ett enda av kännetecknen i frivillig godhet, personen är lik den som utför en obligatorisk handling under andra tider. Och den som utför en obligatorisk handling under den, personen är lik den som utförde 70 obligatoriska handlingar vid andra tidpunkter.” [*Sahīh Ibn Khuzaymah* 1887]
+> ”Den som kommer närmare Allāh under den [*ramaḍān*] genom ett enda av kännetecknen i frivillig godhet, personen är lik den som utför en obligatorisk handling under andra tider. Och den som utför en obligatorisk handling under den, personen är lik den som utförde 70 obligatoriska handlingar vid andra tidpunkter.” [*Sahīh Ibn K̲huzaymah* 1887]
 
 Anledningen är även vad han har sagt i följande autentiska *ḥadīt̲h*:
 

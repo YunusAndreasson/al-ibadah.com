@@ -2,7 +2,7 @@
 title: 'Sitta och vila [jalsatul-istirāh] efter bönecykel ett och tre'
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 166 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -20,15 +20,15 @@ description: >-
 
 De är oeniga om det enbart är en *sunnah*, en del av bönen överhuvudtaget eller om endast den som behöver göra det ska göra det [på grund av svaghet, ålderdom, sjukdom eller övervikt].
 
-ash-Shafi'i och ett antal lärde inom *ḥadīt̲h* har sagt att det är *sunnah*. Det är en av de båda *ḥadīt̲herna*[^1] från imam Ahmad, grundat på vad al-Bukhārī och de som har sammanställt *Sunan* har återberättat från Mālik bin al-Huwairith, att han såg profeten – över honom vare Allāhs frid och välsignelser – be och när han bad *witr*-bönen, då reste han sig inte förrän han hade funnit ro i den sittande positionen. [^2]
+ash-Shafi'i och ett antal lärde inom *ḥadīt̲h* har sagt att det är *sunnah*. Det är en av de båda *ḥadīt̲herna*[^1] från imam Aḥmad, grundat på vad al-Buk̲hārī och de som har sammanställt *Sunan* har återberättat från Mālik bin al-Huwairith, att han såg profeten – över honom vare Allāhs frid och välsignelser – be och när han bad *witr*-bönen, då reste han sig inte förrän han hade funnit ro i den sittande positionen. [^2]
 
 Majoriteten av de lärde, inklusive Abū Hanifah och Mālik, är dock inte av denna åsikt. Detta är även fallet i andra rapporter från *Aḥmad*. Inga andra *aḥādīt̲h* nämner ju denna ”sittpaus”. Möjligen är det så att det som nämns i *ḥadīt̲h* från Mālik bin al-Huwairith är denna ”sittpaus” något från slutet av profetens – över honom vare Allāhs frid och välsignelser – liv då hans kropp blivit tung eller av någon annan orsak.
 
 En tredje grupp får ihop dessa *aḥādīt̲h* genom att säga att man gör denna ”sittpaus” om det finns ett behov och att det är tillåtet under dessa omständigheter men inte under andra.
 
-Det uppenbara är att det överlag är rekommenderat. Att det inte nämns i andra *aḥādīt̲h* bevisar inte att det inte är rekommenderat. Det enda som visas är att det inte är obligatoriskt.
+Det uppenbara är att det överlag är rebefallt. Att det inte nämns i andra *aḥādīt̲h* bevisar inte att det inte är rebefallt. Det enda som visas är att det inte är obligatoriskt.
 
-Den rekommenderade åsikten stärks på två sätt: Det första är den grundläggande principen om profetens – över honom vare Allāhs frid och välsignelser – handlingar, att han utförde dem för att föreskriva dem så att andra skulle kunna följa honom. Det andra sättet är att denna ”sittpaus” bekräftas i *ḥadīt̲h* från Abū Humaid as-Sa´īdi som *Aḥmad* och *Abū Dāwūd* har återberättat med en god rapportörskedja. Här beskriver han profetens – över honom vare Allāhs frid och välsignelser – bön för tio följeslagare – må Allāh vara nöjd med dem – och de bekräftade vad han sade.
+Den rebefallde åsikten stärks på två sätt: Det första är den grundläggande principen om profetens – över honom vare Allāhs frid och välsignelser – handlingar, att han utförde dem för att föreskriva dem så att andra skulle kunna följa honom. Det andra sättet är att denna ”sittpaus” bekräftas i *ḥadīt̲h* från Abū Humaid as-Sa´īdi som *Aḥmad* och *Abū Dāwūd* har återberättat med en god rapportörskedja. Här beskriver han profetens – över honom vare Allāhs frid och välsignelser – bön för tio följeslagare – må Allāh vara nöjd med dem – och de bekräftade vad han sade.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

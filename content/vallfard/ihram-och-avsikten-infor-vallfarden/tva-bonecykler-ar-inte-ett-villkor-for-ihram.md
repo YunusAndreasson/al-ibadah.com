@@ -2,21 +2,21 @@
 title: Två bönecykler är inte ett villkor för iḥrām
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 117 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - Helgtillståndet och avsikt
+  - Helgtillståndet och avsikten
 original_id: 1336
 description: >-
   Fråga: Är två bönecykler ett villkor för ihrām? Svar: Det är inte ett villkor.
-  De lärde skiljer sig endast åt om det är rekommenderat. Majoriteten av de
-  lärde anser att det är rekommenderat at...
+  De lärde skiljer sig endast åt om det är rebefallt. Majoriteten av de
+  lärde anser att det är rebefallt at...
 ---
 
 **Fråga:** Är två bönecykler ett villkor för *iḥrām*?
 
-**Svar:** Det är inte ett villkor. De lärde skiljer sig endast åt om det är rekommenderat. Majoriteten av de lärde anser att det är rekommenderat att be två bönecykler [för med *iḥrām*]. Man tvagar sig, ber två bönecykler och säger därefter *talbiyyah*.
+**Svar:** Det är inte ett villkor. De lärde skiljer sig endast åt om det är rebefallt. Majoriteten av de lärde anser att det är rebefallt att be två bönecykler [för med *iḥrām*]. Man tvagar sig, ber två bönecykler och säger därefter *talbiyyah*.
 
 De stödjer detta argument på att profeten – över honom vare Allāhs frid och välsignelser – under hans sista vallfärd gick in i *iḥrām* efter bönen [vilket betyder att han bad middagsbönen för att sedan träda in i *iḥrām*]. Han sade: "*Någon kom till mig från min Herre och sade: 'Be i denna välsignade dal och säg: 'En ´umrah[^1] under en vallfärd.*'" [^2] Detta bevisar att det är föreskrivet att be två bönecykler och detta anser en majoritet av de lärda.
 

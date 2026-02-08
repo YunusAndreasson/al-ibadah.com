@@ -2,7 +2,7 @@
 title: Bad efter att ha sovit men utan att ha tvagat sig
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 52 s. ISBN saknas
 categories:
   - Renhet (Tahārah)
@@ -20,7 +20,7 @@ description: >-
 
 *Abū Dāwūd* har återgivit att Anas har sagt: ”*profetens – över honom vare Allāhs frid och välsignelser – följeslagare brukade vänta på nattbönen tills deras huvuden nickade till, sedan bad de utan att tvaga sig*.” [^2] Detta gäller enbart en lätt sömn, och på så vis jämkas *aḥādīt̲h* samman.
 
-Vi kan då säga att lätt sömn inte gör tvagning ogiltig. Denna åsikt stärks även av en *ḥadīt̲h* från Safwan bin 'Asal, i vilken han berättar: ”*Allāhs sändebud beordrade oss att inte ta av våra lädersockar under tre dagar och nätter när vi reste, utom om vi hade den stora orenheten [al-Janabah], med anledning av tarmtömning eller urinering*.” [^3]
+Vi kan då säga att lätt sömn inte gör tvagning ogiltig. Denna åsikt stärks även av en *ḥadīt̲h* från Safwan bin 'Asal, i vilken han berättar: ”*Allāhs sändebud beordrade oss att inte ta av våra lädersockar under tre dagar och nätter när vi reste, utom om vi hade den stora orenheten [al-Janābah], med anledning av tarmtömning eller urinering*.” [^3]
 
 Genom Allāh uppnås framgång. Må frid och välsignelser vara över Muḥammad, hans familj och hans följeslagare.
 

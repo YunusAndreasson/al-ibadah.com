@@ -2,7 +2,7 @@
 title: Bestående välgörenhet under livstiden
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 620 s. ISBN 9960-892-66-2
 categories:
   - Allmosa (Zakāh)
@@ -22,6 +22,6 @@ Har den avlidne testamenterat något kommer det att vara en bestående välgöre
 
 Om det därför sägs till oss: Är det bättre att be två bönecykler för min far eller att be två bönecykler för min egen skull och åkalla för fadern under dem? Då svarar vi: Det är bättre om du ber två bönecykler själv och åkallar för din far under dem. Detta var profetens – över honom vare Allāhs frid och välsignelser – vägledning när han sade: "*eller en rättfärdig son som åkallar för personen*." Han sade inte: "den som ber [*ṣalāh*] för honom", eller något annat.
 
-[^1]: Sadaqah jariyah.
+[^1]: Ṣadaqah jariyah.
 
 [^2]: *Muslim* 1631

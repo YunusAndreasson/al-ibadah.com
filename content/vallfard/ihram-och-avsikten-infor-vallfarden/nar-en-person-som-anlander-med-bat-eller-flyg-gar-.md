@@ -2,11 +2,11 @@
 title: När en person som anländer med båt eller flyg går in i iḥrām
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 121 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
-  - Helgtillståndet och avsikt
+  - Helgtillståndet och avsikten
 original_id: 760
 description: >-
   Fråga: När träder en pilgrim eller den som kommer till ‘umrah in i ihrām?

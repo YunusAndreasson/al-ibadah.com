@@ -2,7 +2,7 @@
 title: 'Svära vid ash-Sharaf [ädelhet] eller Ka’bah'
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 229 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)

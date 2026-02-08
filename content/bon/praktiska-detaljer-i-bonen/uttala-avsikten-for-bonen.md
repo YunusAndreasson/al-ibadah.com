@@ -2,7 +2,7 @@
 title: Uttala avsikten för bönen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 454 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
@@ -24,7 +24,7 @@ Varken från Allāhs sändebud – över honom vare Allāhs frid och välsignels
 
 Skulle detta ha varit föreskrivet skulle profeten – över honom vare Allāhs frid och välsignelser – har klargjort detta för folket, antingen genom ord eller genom handling.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 
 [^1]: *al-Buk̲hārī* och *Muslim* 1907

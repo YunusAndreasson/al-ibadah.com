@@ -2,9 +2,9 @@
 title: Tawassul till Allāh genom fromma människor
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 84 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Medel för åkallan
@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Får muslimer söka Allāhs närhet genom profeter och andra fromma människor? Jag har läst att vissa lärde har ansett att det inte finns något skadligt i *tawassul*, men samtidigt har jag läst motsatsen från andra. Vilket är utlåtandet om detta?
 
-**Svar:** *al-Walīy* är den som tror på och fruktar Honom genom att fullfölja Hans kommenderingar och hålla sig borta från Hans förbud. Allāh säger:
+**Svar:** *al-Walīy* är den som tror på och fruktar Honom genom att fullfölja Hans befallningar och hålla sig borta från Hans förbud. Allāh säger:
 
 > ”Helt visst ska de som är nära Gud aldrig känna fruktan och ingen sorg ska tynga dem, de som tror och ständigt har Honom för ögonen.” [Koranen 10:62 – 63]
 

@@ -2,7 +2,7 @@
 title: Avsaknad av tecken i pannan från nedfallan betyder inte att den är felaktig
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 238 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -10,7 +10,7 @@ categories:
 original_id: 248
 description: >-
   Fråga: Jag har hört många som säger att om det inte finns ett tecken efter
-  nedfallan[^1] i pannan när någon har blivit över 40 år gammal, då betyder det
+  nedfallan i pannan när någon har blivit över 40 år gammal, då betyder det
   att nedfallandet inte är korrekt eller att det...
 ---
 

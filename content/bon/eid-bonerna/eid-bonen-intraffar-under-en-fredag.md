@@ -2,15 +2,15 @@
 title: ´Eid-bönen inträffar under en fredag
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 453 s. ISBN saknas
 categories:
   - Bön (Salāh)
   - Eid-bönen
 original_id: 353
 description: >-
-  Fråga: Två ‘eid inträffar under samma dag – fredag och ‘eid al-adhā . Vad gör
-  man i så fall? Svar: Den som bad ‘eid under fredagen behöver inte närvara vid
+  Fråga: Två ´eid inträffar under samma dag – fredag och ´eid al-adhā . Vad gör
+  man i så fall? Svar: Den som bad ´eid under fredagen behöver inte närvara vid
   fredagsbönen den dagen. Detta ...
 ---
 
@@ -24,7 +24,7 @@ Som bevis citeras även en annan återberättelse från *Abū Dāwūd* i hans *S
 
 > ”Två ‘*´eid* har inträffat under denna dag, så för den som vill täcker det fredagsbönen; och vi ber fredagsbönen.” [*Abū Dāwūd* 1074]
 
-Detta bevisar att de som har bett ‘eid-bönen inte behöver be fredagsbönen. Detta gäller dock inte imamen. Han sade ju: ”*Och vi ber fredagsbönen*.”
+Detta bevisar att de som har bett ´eid-bönen inte behöver be fredagsbönen. Detta gäller dock inte imamen. Han sade ju: ”*Och vi ber fredagsbönen*.”
 
 Som bevis för detta finns även en återberättelse av *Muslim* från an-Nu'man bin Bashir där han berättar att profeten – över honom vare Allāhs frid och välsignelser – brukade recitera sura al-A’la och sura al-Ghashiyah under *´eid*- och fredagsbönen; och han kan ha bett båda under samma dag och reciterat dem i båda bönerna. [^1]
 

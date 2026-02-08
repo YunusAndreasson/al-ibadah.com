@@ -2,21 +2,21 @@
 title: Reciterar en vers där man ska nedfalla
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 280 s. ISBN saknas
 categories:
   - Bön (Salāh)
   - Nedfallan vid recitation
 original_id: 279
 description: >-
-  Fråga: Behöver jag nedfalla[^1] om jag reciterar en vers i vilken det finns
-  ett nedfallande[^1]? Svar: Sajdatut-tilawah är en bekräftad sunnah som inte
+  Fråga: Behöver jag nedfalla om jag reciterar en vers i vilken det finns
+  ett nedfallande? Svar: Sajdatut-tilāwah är en bekräftad sunnah som inte
   bör överges. Kommer man till en vers i vilk...
 ---
 
 **Fråga:** Behöver jag nedfalla om jag reciterar en vers i vilken det finns ett nedfallande[^1]?
 
-**Svar:** Sajdatut-tilawah[^2] är en bekräftad *sunnah* som inte bör överges. Kommer man till en vers i vilken det finns ett nedfallande, då bör man nedfalla. Detta gäller oavsett om man reciterar från Skriften, hjärtat eller i en bön. Detta är dock inte obligatoriskt och man syndar inte om man inte gör det.
+**Svar:** Sajdatut-tilāwah[^2] är en bekräftad *sunnah* som inte bör överges. Kommer man till en vers i vilken det finns ett nedfallande, då bör man nedfalla. Detta gäller oavsett om man reciterar från Skriften, hjärtat eller i en bön. Detta är dock inte obligatoriskt och man syndar inte om man inte gör det.
 
 Anledningen är att de troendes ledare, ´Umar bin al-Khattab, reciterade en vers med nedfallan i sura an-Nahl från talastolen. Han steg då ned och nedföll. Nästa fredag reciterade han samma vers och då nedföll han inte. Efter detta sade han: ”Allāh har inte gjort nedfallandet till en skyldighet för oss, utom om vi vill.” Detta inträffade då följeslagarna var närvarande.
 

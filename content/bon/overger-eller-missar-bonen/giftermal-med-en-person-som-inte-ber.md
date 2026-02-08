@@ -2,11 +2,11 @@
 title: Giftermål med en person som inte ber
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaīmān(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 387 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
-  - Bön (Salāh)
+  - Bön (Ṣalāh)
   - Missad bön
 original_id: 1219
 description: >-
@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Om den som friade inte ber med församlingen i moskén är personen en syndare som inte lyder Allāh och Hans sändebud. Personen motsäger sig vad alla muslimer är eniga om då bönen i församlingen är en av de bästa formerna av dyrkan. *s̲hayk̲h ul-islām* ibn Taymiyyah [^2] har sagt:
 
-> ”De lärde är eniga om att bönen är en av de mest rekommenderade formerna av dyrkan och den mest enastående formen av lydnad och den största av de islamiska riterna.”
+> ”De lärde är eniga om att bönen är en av de mest rebefallde formerna av dyrkan och den mest enastående formen av lydnad och den största av de islamiska riterna.”
 
 Detta tar dock inte personen ur islam. Därmed är det tillåtet att gifta den muslimska kvinnan med honom. Någon annan som verkligen utövar skulle dock vara mer värdig än honom, även om personen inte är lika rik eller tillhör en mindre ädel familj.
 
@@ -47,11 +47,11 @@ Detta fordrar att om man överger den så är det en handling som innebär otro 
 
 Dessa båda grupper av troende som stred stod inte utanför trons broderskap även om ett dråp av en troende är en handling som innebär otro. *al-Buk̲hārī* har återgivit från Ibn Mas’ud som har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Att med ord antasta en muslim är olydnad och att strida mot personen är otro*.” [*al-Buk̲hārī*]
 
-Bevisen från profetens – över honom vare Allāhs frid och välsignelser – *sunnah* för att den som överger bönen är en icke-troende finns i profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Mellan en man och *shirk* och *kufr*[^1] är sannerligen övergivandet av bönen*.” [*Muslim*] Detta har *Muslim* återgivit när Jabir bin ´Abdullāh rapporterar från profeten.
+Bevisen från profetens – över honom vare Allāhs frid och välsignelser – *sunnah* för att den som överger bönen är en icke-troende finns i profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Mellan en man och *s̲hirk* och *kufr*[^1] är sannerligen övergivandet av bönen*.” [*Muslim*] Detta har *Muslim* återgivit när Jabir bin ´Abdullāh rapporterar från profeten.
 
 Från Buraidah bin al-Husaib rapporteras det: ”*Jag hörde profeten säga: ’Avtalet som skiljer oss från dem är bönen och den som lämnar den har inte trott.’*” [^6] Detta har rapporterats av dem fem; Imam *Aḥmad* och de som sammanställt sunan.
 
-'Ubadah bin as-Samit har rapporterat att de svor en trohetsed till profeten – över honom vare Allāhs frid och välsignelser – om att de aldrig skulle tvista med deras ledare om de inte såg tydlig otro i dem, som det finns bevis från Allāh för. [*al-Buk̲hārī*] Detta betyder att de inte skulle tvista med dem som Allāh gjorde till ansvariga över dem om de inte såg i dem vad de ansåg vara öppen otro som det finns bevis för från Allāh den Upphöjde.
+'Ubadah bin as-Samit har rapporterat att de svor en trohetsed till profeten – över honom vare Allāhs frid och välsignelser – om att de aldrig skulle tvista med sina ledare om de inte såg tydlig otro i dem, som det finns bevis från Allāh för. [*al-Buk̲hārī*] Detta betyder att de inte skulle tvista med dem som Allāh gjorde till ansvariga över dem om de inte såg i dem vad de ansåg vara öppen otro som det finns bevis för från Allāh den Upphöjde.
 
 Förstår du detta, notera då även vad som Muslim återger i en *ḥadīt̲h* från Umm Salamah i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
 
@@ -67,9 +67,9 @@ Beträffande *aḥādīt̲h* från följeslagarna har ´Umar bin al-Khattab sagt
 
 > ”De som ser ned på den och förringar dess värde föraktar islam och förringar den. Deras del av islam står i proportion till deras del av bönen och deras kärlek till islam står i proportion till deras kärlek till bönen.”
 
-Ibn al-Qayyim – må Allāh vara honom nådig – säger i sin bok *as-Salāh* på sidan 400:
+Ibn al-Qayyim – må Allāh vara honom nådig – säger i sin bok *as-Ṣalāh* på sidan 400:
 
-> ”Ingen som tror på att Allāh har kommenderat den bestämmer sig för att med en fast övertygelse överge bönen. Detta beror på att det är omöjligt, enligt vad som uppfattas vara normalt och naturligt, för någon att bestämt tro att Allāh har påbjudit fem böner varje dag och natt och att Han kommer att straffa en om man överger dem med det strängaste straff, samtidigt som man bestämt överger dem. Detta är något som är helt omöjligt. Ingen som tror på skyldigheten i bönen kan fortsätta med att överge den, ens tro kommenderar ju en till att förrätta den. Då finns det ingen tro i ens hjärta. Och lyssna inte till vad de som inte har någon kunskap om hjärtat och dess handlingar säger.”
+> ”Ingen som tror på att Allāh har befallt den bestämmer sig för att med en fast övertygelse överge bönen. Detta beror på att det är omöjligt, enligt vad som uppfattas vara normalt och naturligt, för någon att bestämt tro att Allāh har påbjudit fem böner varje dag och natt och att Han kommer att straffa en om man överger dem med det strängaste straff, samtidigt som man bestämt överger dem. Detta är något som är helt omöjligt. Ingen som tror på skyldigheten i bönen kan fortsätta med att överge den, ens tro befaller ju en till att förrätta den. Då finns det ingen tro i ens hjärta. Och lyssna inte till vad de som inte har någon kunskap om hjärtat och dess handlingar säger.”
 
 Här har han sagt sanningen. Det är ju omöjligt att någon överger bönen när det är så enkelt att förrätta den, belöningen för den är så stor och så även straffet för att överge den, samtidigt som det finns en strimma tro i personens hjärta.
 
@@ -85,7 +85,7 @@ Muslimer är fullständigt eniga om vad som bevisas genom dessa båda verser om 
 
 Med detta som grund: Om en man gifter bort en kvinna som är under personens förmyndarskap, oavsett om det är personens dotter eller någon annan, med en man som inte ber, är det inte giltigt att personen ger bort henne i äktenskap och kvinnan skulle inte vara tillåten för honom genom detta kontrakt.
 
-Detta beror på att det är ett kontrakt som inte är enligt Allāhs den Upphöjdes eller Hans profets kommendering. I en *ḥadīt̲h* från 'A'ishah – må Allāh vara nöjd med henne – rapporteras det att han sagt: "*Den som utför en handling som inte är enligt denna vår fråga [islam], personen kommer att få den avvisad*." [*Muslim*] Detta innebär att det inte kommer att accepteras från personen.
+Detta beror på att det är ett kontrakt som inte är enligt Allāhs den Upphöjdes eller Hans profets befallning. I en *ḥadīt̲h* från 'A'ishah – må Allāh vara nöjd med henne – rapporteras det att han sagt: "*Den som utför en handling som inte är enligt denna vår fråga [islam], personen kommer att få den avvisad*." [*Muslim*] Detta innebär att det inte kommer att accepteras från personen.
 
 Då äktenskapet blir ogiltigt om mannen överger bönen och om han inte ångrar sig samt återvänder till islam genom att förrätta den – vad tror du då om den som vill gifta sig och från allra första början inte ber?
 
@@ -106,4 +106,4 @@ Detta svar har givits av en som är i behov av Allāh, Muḥammad Sālih al-'Uth
 [^4]: Koranen 28:65
 [^5]: Koranen 7:6 – 7
 [^6]: *Aḥmad* 5:346, *at-Tirmid̲hī* 2621 och *an-Nasā’ī*
-[^7]: *Abi Shaibah* i *al-iman* 34
+[^7]: *Abi Shaibah* i *al-īmān* 34

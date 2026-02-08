@@ -2,9 +2,9 @@
 title: Månadsblödning vid ´umrah utan möjlighet att stanna
 author: al-Ladjnah ad-Dā'imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 158 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Vallfärd (Hajj)
   - Månadsblödning och efterblödning
@@ -31,7 +31,7 @@ Men är det inte långt att resa och hon kan återvända med sin man eller med e
 
 Och Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> "Om jag kommenderat er att göra något, gör då så mycket av det som ni kan."
+> "Om jag befallt er att göra något, gör då så mycket av det som ni kan."
 
 Det finns andra texter utöver dessa om befrielser och avlägsnande av svårigheter. En grupp av de lärde har gett detta utlåtande som vi har nämnt. Bland dem finns *s̲hayk̲h ul-islām* Ibn Taymiyyah och hans student *al-Allamah* Ibnul-Qayyim.
 

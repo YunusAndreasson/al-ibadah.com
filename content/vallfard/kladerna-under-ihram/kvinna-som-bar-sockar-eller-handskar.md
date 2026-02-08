@@ -2,7 +2,7 @@
 title: Kvinna som bär sockar eller handskar
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 130 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
@@ -26,9 +26,9 @@ Anledningen är en *ḥadīt̲h* i vilken 'A'ishah – må Allāh vara nöjd med
 
 Enligt den korrekta åsikten får män bära lädersockar även om de inte är avklippta [nedanför vristen]. Majoriteten av de lärde säger att de bör klippas av [nedanför vristen], men den korrekta åsikten är att det inte är nödvändigt att klippa av dem om det inte går att hitta två sandaler. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – predikade för folket vid *´Arafāt* och sade: "*Den som inte finner ett midjeplagg, låt personen då bära byxor. Och den som inte finner två sandaler, låt personen bära två lädersockar*." [^2]
 
-Äktheten i denna *ḥadīt̲h* är man enig om. Han beordrade inte att de skulle klippas, detta bevisar att kommenderingen att klippa dem har upphävts.
+Äktheten i denna *ḥadīt̲h* är man enig om. Han beordrade inte att de skulle klippas, detta bevisar att befallningen att klippa dem har upphävts.
 
-Och Allāh är den som beviljar framgång.
+Och Allāh är Den som ger framgång.
 
 
 [^1]: *Abū Dāwūd* 1833 och *Ibn Mājah* 2935

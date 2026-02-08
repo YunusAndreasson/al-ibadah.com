@@ -2,9 +2,9 @@
 title: Glömde att tvätta en kroppsdel under tvagningen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 321 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Renhet (Tahārah)
   - Tvagning
@@ -23,10 +23,10 @@ Men om personen inte kom ihåg förrän efter att en lång tid gått, då måste
 
 Men han bör veta att om han har tvivel [tvivel om han tvättat sin vänstra eller högra hand, sköljt munnen eller dragit in vatten i näsan] efter avslutad tvagning då bör han inte bry sig om detta tvivel. I stället bör han fortsätta med bönen och han syndar inte på grund härav. Detta beror på att man inte ska lägga någon vikt vid tvivel i det som rör dyrkan efter att den har utförts.
 
-Skulle vi lägga vikt vid dem [tvivlen] skulle vi öppna dörren för djävulens viskningar till folket och alla skulle känna tvivel om deras dyrkan. Det kommer då från Allāhs – den Allmäktiges – nåd att de tvivel som uppstår efter att dyrkan har utförts, de ska det inte läggas någon vikt vid. Man ska inte bry sig om dem utom om man blir säker på någon felaktighet, för då måste man korrigera den.
+Skulle vi lägga vikt vid dem [tvivlen] skulle vi öppna dörren för djävulens viskningar till folket och alla skulle känna tvivel om sin dyrkan. Det kommer då från Allāhs – den Allmäktiges – nåd att de tvivel som uppstår efter att dyrkan har utförts, de ska det inte läggas någon vikt vid. Man ska inte bry sig om dem utom om man blir säker på någon felaktighet, för då måste man korrigera den.
 
 Och Allāh vet bäst.
 
-[^1]: Wudū
+[^1]: Wuḍū’
 
 [^2]: Koranen 5:6

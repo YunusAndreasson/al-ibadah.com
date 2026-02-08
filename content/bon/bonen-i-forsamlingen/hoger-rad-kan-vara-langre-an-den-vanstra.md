@@ -2,14 +2,14 @@
 title: Höger rad kan vara längre än den vänstra
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 337 s. ISBN saknas
 categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 307
 description: >-
-  Fråga: Iqāmah ropades ut för nattbönen[^1] och radens högra sida fylldes. På
+  Fråga: Iqāmah ropades ut för nattbönen och radens högra sida fylldes. På
   den vänstra sidan fanns det endast ett fåtal personer. Vi sade då: ”Gör raden
   jämn på vänster sida.” Men en [annan] troe...
 ---
@@ -22,7 +22,7 @@ Det finns ingen invändan mot att höger sida är längre, om det beror på att 
 
 Jag känner inte till något om vad en av de närvarande sade: ”Den som fyller radens vänstra sida kommer att få två belöningar.” [^1]
 
-Troligtvis är detta en fabrikation påhittat av några lata människor som inte bryr sig om att be på radens högra sida eller som inte tävlar med andra för att hamna i den.
+Troligtvis är detta en fabrikation påhittad av några lata människor som inte bryr sig om att be på radens högra sida eller som inte tävlar med andra för att hamna i den.
 
 Och Allāh är Den som vägleder till den raka vägen.
 

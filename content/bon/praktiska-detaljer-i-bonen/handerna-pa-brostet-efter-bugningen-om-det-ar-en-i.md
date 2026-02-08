@@ -2,7 +2,7 @@
 title: Händerna på bröstet efter bugningen – om det är en innovation
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 476 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
@@ -11,7 +11,7 @@ original_id: 955
 description: >-
   Fråga: Jag läste i en bok om profetens – över honom vare Allāhs frid och
   välsignelser – bön att det är en innovation att placera händerna på bröstet
-  när man har rest sig upp från bugningen[^1]. Vilke...
+  när man har rest sig upp från bugningen. Vilke...
 ---
 
 **Fråga:** Jag läste i en bok om profetens – över honom vare Allāhs frid och välsignelser – bön att det är en innovation att placera händerna på bröstet när man har rest sig upp från bugningen. Vilken är den korrekta åsikten? Må Allāh belöna er med det goda för att ni vägleder alla muslimer.

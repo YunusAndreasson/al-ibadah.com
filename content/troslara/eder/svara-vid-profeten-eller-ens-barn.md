@@ -2,7 +2,7 @@
 title: Svära vid profeten eller ens barn
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 67 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Det är inte tillåtet att svära vid profeten – över honom vare Allāhs frid och välsignelser – eller någon annan skapad. Så här brukar månggudadyrkare[^1] göra. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som måste svära en ed, låt personen svära vid Allāh eller vara tyst*.” [^3]
 
-Han har även sagt: ”*Den som svor vid något annat än Allāh har gjort något med otro eller shirk*[^2].” [^4]
+Han har även sagt: ”*Den som svor vid något annat än Allāh har gjort något med otro eller s̲hirk*[^2].” [^4]
 
 Det finns även andra *aḥādīt̲h* som är tillämpbara.
 

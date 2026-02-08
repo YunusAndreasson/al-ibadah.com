@@ -2,7 +2,7 @@
 title: Koppning
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 273 s. ISBN saknas
 categories:
   - Fasta (Sawm)
@@ -26,7 +26,7 @@ Vid detta passande tillfälle skulle jag vilja nämna att somliga går för lån
 
 Om personen själv har orsakat blodspillan genom ett eget val, och om blodet medför vad koppning[^1] medför genom att kroppen blir svag och att styrkan mattas, då bryter det fastan. Detta beror på att det då inte är någon egentligen skillnad mot koppning[^1]. Om det enbart är lite blod och det inte har någon inverkan på kroppen, då skadar det inte och det bryter heller inte fastan, som om blod rinner från någon genom personens egen vilja eller liknande. Sannerligen, detta varken skadar eller bryter fastan. Alla måste känna till de gränser som Allāh har uppenbarat för profeten – över honom vare Allāhs frid och välsignelser – så att alla dyrkar Allāh genom en tydlig vägledning.
 
-Och Allāh är Givaren av framgång.
+Och Allāh är Den som ger framgång.
 
 [^1]: Hijamah
 

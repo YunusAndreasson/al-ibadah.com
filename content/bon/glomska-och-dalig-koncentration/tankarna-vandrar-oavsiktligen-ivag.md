@@ -18,7 +18,7 @@ description: >-
 
 Personen bör inte ge efter för djävulen och hans smygande viskningar. När djävulen försöker att distrahera personen så anstränger personen sig än mer för att koncentrera sig på bönen samtidigt som personen söker skydd hos Allāh ifrån den fördömlige djävulen.
 
-Från Abu'l-'Alā' ibn al-Shukhayr har det berättats att 'Uthmān har sagt: ”*Allāhs sändebud, djävulen kommer mellan mig och min bön och recitation*.” Han [Profeten] sade: ”*Det är en djävul kallad Khanzab. Känner du honom, sök då din tillflykt hos Allāh ifrån honom och [torr]spotta tre gånger till vänster*.” Han ['Uthmān] sade: ”*Jag gjorde det och Allāh höll honom borta ifrån mig*.” Ahmad, 4/216; Muslim, 4/1728 – 1729; ‘Abd al-Razzāq, 2/85, 499, no. 2582, 4220; Ibn Abi Shaybah, 7/419, 10/353; Ibn al-Sunni i *‘Aml al-Yawm wa’l-Laylah*, s. 272, 577.
+Från Abu'l-'Alā' ibn al-Shukhayr har det berättats att 'Uthmān har sagt: ”*Allāhs sändebud, djävulen kommer mellan mig och min bön och recitation*.” Han [Profeten] sade: ”*Det är en djävul kallad Khanzab. Känner du honom, sök då din tillflykt hos Allāh ifrån honom och [torr]spotta tre gånger till vänster*.” Han ['Uthmān] sade: ”*Jag gjorde det och Allāh höll honom borta ifrån mig*.” Aḥmad, 4/216; Muslim, 4/1728 – 1729; ‘Abd al-Razzāq, 2/85, 499, no. 2582, 4220; Ibn Abi Shaybah, 7/419, 10/353; Ibn al-Sunni i *‘Aml al-Yawm wa’l-Laylah*, s. 272, 577.
 
 Och Allāh är källan till all styrka. Må Allāh välsigna vår profet Muhammed, hans familj och följeslagare, och ge dem frid.
 

@@ -2,7 +2,7 @@
 title: Leder några i bön utan att ha tvagat sig
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 419 s. ISBN saknas
 categories:
   - Renhet (Tahārah)
@@ -18,6 +18,6 @@ description: >-
 
 **Svar:** Bönen för dem som leddes är giltig. Imamen bör tvaga sig på nytt och upprepa bönen. Detta grundas på profetens – över honom vare Allāhs frid och välsignelser – ord: "*Bönen accepteras inte utan tvagning*[^1].” [^2]
 
-[^1]: Wudū
+[^1]: Wuḍū’
 
 [^2]: *Muslim* 224

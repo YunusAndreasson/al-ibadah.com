@@ -2,21 +2,21 @@
 title: Fasta under s̲ha´bān
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 2.
   Libanon: Makbtaba Dar us-Salam. 677 s. ISBN 9960-892-66-2
 categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 1270
 description: >-
-  Fråga: Vilket är utlåtandet om att fasta under sha'ban? Svar: Fastan under
-  sha'ban är sunnah . Att fasta den ofta är också en sunnah . Detta till den
+  Fråga: Vilket är utlåtandet om att fasta under s̲ha´bān? Svar: Fastan under
+  s̲ha´bān är sunnah . Att fasta den ofta är också en sunnah . Detta till den
   grad att ‘A’ishah – må Allāh vara nöjd m...
 ---
 
 **Fråga:** Vilket är utlåtandet om att fasta under *s̲ha´bān*?
 
-**Svar:** Fastan under *s̲ha´bān* är *sunnah*. Att fasta den ofta är också en *sunnah*. Detta till den grad att 'A'ishah – må Allāh vara nöjd med henne – sade: "*Jag såg honom inte fasta mer under någon annan månad än sha'ban*." [^1]
+**Svar:** Fastan under *s̲ha´bān* är *sunnah*. Att fasta den ofta är också en *sunnah*. Detta till den grad att 'A'ishah – må Allāh vara nöjd med henne – sade: "*Jag såg honom inte fasta mer under någon annan månad än s̲ha´bān*." [^1]
 
 Med denna *ḥadīt̲h* som grund är det bra att fasta mycket under *s̲ha´bān*.
 

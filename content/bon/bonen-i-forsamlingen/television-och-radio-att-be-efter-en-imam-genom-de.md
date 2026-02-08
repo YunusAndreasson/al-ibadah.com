@@ -1,7 +1,7 @@
 ---
-title: Television och radio – att be efter en imam genom dessa former av media
+title: Be efter en imam via television och radio
 author: Muḥammad bin Sālih al-´Uthaymīn
-source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym
+source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym
  1. Libanon: Makbtaba Dar us-Salam. 539 s. ISBN 9960-892-66-2'
 categories:
   - Bön (Salāh)
@@ -20,5 +20,5 @@ Målet med församlingen har inte uppnåtts på detta sätt. Om vi skulle tillå
 
 Därmed är det inte tillåtet för vare sig kvinnor eller män att be genom en radio eller tv.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 

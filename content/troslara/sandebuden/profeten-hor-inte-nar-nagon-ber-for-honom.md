@@ -2,9 +2,9 @@
 title: Profeten hör inte när någon ber för honom
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 279 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Sändebuden
@@ -29,6 +29,6 @@ Detta bevisas i en återberättelse från ´Alī bin al-Husain bin ´Alī i vilk
 
 När det gäller denna *ḥadīt̲h*: "*Den som ber för mig vid min grav hör jag, och den som ber för mig långt bort kommer jag att nå*" – den är svag enligt de lärde.
 
-Beträffande vad Abū Dawūd har återberättat, med en kedja av berättare som är *ḥasan*, från Abū Hurairah som säger att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*När någon sänder fridshälsningar över mig så återlämnar Allāh min själ så att jag kan återsända hälsningen till honom*” – så betyder det inte att han hör en muslims hälsning. I stället är det troligare att han svarar när änglarna förmedlar hälsningen till honom. Även om vi säger att han hör hälsningen så innebär det inte att han hör något annat.
+Beträffande vad Abū Dāwūd har återberättat, med en kedja av berättare som är *ḥasan*, från Abū Hurairah som säger att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*När någon sänder fridshälsningar över mig så återlämnar Allāh min själ så att jag kan återsända hälsningen till honom*” – så betyder det inte att han hör en muslims hälsning. I stället är det troligare att han svarar när änglarna förmedlar hälsningen till honom. Även om vi säger att han hör hälsningen så innebär det inte att han hör något annat.
 
 

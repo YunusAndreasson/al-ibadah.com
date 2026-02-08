@@ -2,7 +2,7 @@
 title: Bön ombord på ett flygplan
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 541 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
@@ -28,6 +28,6 @@ Sedan bugar man, rätar sig upp från bugningen och nedfaller. Går det att nedf
 
 En frivillig bön i ett flygplan ber man sittandes i sätet och man lutar huvudet i bugningen och nedfallan. Nedfallan ska vara lägre än bugningen.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 

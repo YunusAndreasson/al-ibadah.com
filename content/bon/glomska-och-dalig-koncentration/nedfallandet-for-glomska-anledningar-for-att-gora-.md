@@ -1,8 +1,8 @@
 ---
-title: Nedfallandet för glömska – anledningar för att göra det
+title: Nedfallandet för glömska – när det ska göras
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 501 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
@@ -10,7 +10,7 @@ categories:
 original_id: 971
 description: >-
   Fråga: Vad finns det för anledningar till att man gör nedfallandet för
-  glömska[^1]? Svar: Anledningarna till att man gör nedfallandet för glömska[^1]
+  glömska? Svar: Anledningarna till att man gör nedfallandet för glömska
   är tre: Överskridande : Som när någon ...
 ---
 
@@ -22,7 +22,7 @@ description: >-
 2. Utelämnande: Som när någon utelämnar en av bönens obligatoriska pelare.
 3. Tvivel: Osäker på hur många bönecykler man har förrättat, har man bett tre eller fyra?
 
-Beträffande överskridande, om man avsiktligen gör en extra bugning, nedfallan eller sittning blir bönen ogiltig. Detta beror på att man har överskridit i bönen när man utfört den på ett annat sätt än det som Allāh den Upphöjde och Hans sändebud har kommenderat. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Den som utför en handling som inte tillhör denna vår fråga [religionen] kommer att få den avvisad*." [^3]
+Beträffande överskridande, om man avsiktligen gör en extra bugning, nedfallan eller sittning blir bönen ogiltig. Detta beror på att man har överskridit i bönen när man utfört den på ett annat sätt än det som Allāh den Upphöjde och Hans sändebud har befallt. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Den som utför en handling som inte tillhör denna vår fråga [religionen] kommer att få den avvisad*." [^3]
 
 Men om man på grund av glömska lade till något blir bönen inte ogiltig. I stället måste man nedfalla för glömska[^1] efter att ha gjort *taslīm*. Beviset för detta är en *ḥadīt̲h* från Abū Hurairah om när profeten – över honom vare Allāhs frid och välsignelser – gjorde *taslīm* efter två bönecykler i en av eftermiddagsbönerna, antingen middagsbönen eller eftermiddagsbönen. När de påminde honom bad han det som återstod av bönen för att sedan göra *taslīm*. Därefter gjorde han två nedfallanden. [^4]
 

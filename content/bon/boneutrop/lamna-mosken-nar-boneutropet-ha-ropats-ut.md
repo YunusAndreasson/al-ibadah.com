@@ -1,5 +1,5 @@
 ---
-title: Lämna moskén när böneutropet ha ropats ut
+title: Lämna moskén när böneutropet har ropats ut
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Majmū' Fatāwa Ibn ´Uthaymīn – volym 12, sida 200
 categories:

@@ -2,7 +2,7 @@
 title: Vad som är en sutrah
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 259 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -30,7 +30,7 @@ I*Bulūg̲h al-Marām* Ibn Hajar har sagt:
 
 > ”Den som har sagt att den är *mudhtarib* har fel. Den är *ḥasan*.”
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 [^1]: Ett objekt i form av exempelvis en pinne, stav eller vägg. Skall vara minst en fot hög. Agerar symbolisk skiljelinje mellan den bedjande och de som passerar framför.
 

@@ -1,5 +1,5 @@
 ---
-title: Kvinna i vänteperioden efter att hennes man avlidit
+title: Kvinna i vänteperioden efter makens bortgång
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Libanon: Maktaba

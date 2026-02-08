@@ -2,7 +2,7 @@
 title: Påminna fastande som glömskt äter
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 327 s. ISBN saknas
 categories:
   - Fasta (Sawm)
@@ -22,9 +22,9 @@ Om den som gör detta öppet är ärlig i sitt påstående om att personen har g
 
 Likaså bör en resenär inte öppet ge efter för vad som bryter fastan medan personen är tillsammans med folk som inte reser och som inte känner till personens omständigheter [resan]. I stället måste personen dölja det så att det inte uppstår misstankar om att personen gör sådant som Allāh har förbjudit och för att andra inte ska bli djärva nog att göra det heller.
 
-De som inte tror får heller inte äta eller dricka offentligt tillsammans med muslimer [medan de fastar]. Dörren till flexibilitet har stängts. Detta beror även på att de [som inte tror] inte får ge uttryck för deras falska religioner bland muslimer.
+De som inte tror får heller inte äta eller dricka offentligt tillsammans med muslimer [medan de fastar]. Dörren till flexibilitet har stängts. Detta beror även på att de [som inte tror] inte får ge uttryck för sina falska religioner bland muslimer.
 
-Och Allāh är Givaren av framgång.
+Och Allāh är Den som ger framgång.
 
 
 [^1]: *al-Buk̲hārī* 1933 och *Muslim* 1155

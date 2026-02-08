@@ -1,8 +1,8 @@
 ---
-title: Bön över den avlidne under tidpunkter det inte är tillåtet att be på
+title: Begravningsbön under förbjudna bönetider
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 62 s. ISBN saknas
 categories:
   - Bön (Salāh)

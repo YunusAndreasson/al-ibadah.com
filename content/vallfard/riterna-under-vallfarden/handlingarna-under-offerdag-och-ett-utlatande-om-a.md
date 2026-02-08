@@ -2,7 +2,7 @@
 title: Handlingarna under offerdagen och saker i oordning
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 170 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
@@ -22,7 +22,6 @@ Sedan bör man utföra *ṭawāf* och *sa´ī*, om det krävs att man gör *sa´
 
 Om man gör ett moment före ett annat [i oordning], då är det inget problem med det. Om man slaktar djuret före man kastar stenarna, eller om man utför *ṭawāf ul-ifāḍah* före stenarna kastas, eller om han rakar håret före stenarna kastas, eller om han rakar sig innan man slaktar – är detta godkänt. Profeten – över honom vare Allāhs frid och välsignelser – tillfrågades om den som gjorde vissa saker för andra eller sköt upp några. Han svarade då: ”*Inga problem, inga problem*.” [^3]
 
-[^1]: Den sju långa rundar vandringen runt Kabah.
 
 [^2]: *´eid* den tionde i *d̲hul-ḥijjah*[^1
 [^3]: *al-Buk̲hārī* 1721 och *Muslim* 1306

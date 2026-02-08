@@ -2,7 +2,7 @@
 title: Betala en muta för att få kyssa den Svarta Stenen
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 199 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Om det förhåller sig som frågeställaren har nämnt, då är summan som mannen betalade till soldaten en muta och han får inte betala den.
 
-Att kyssa den Svarta Stenen är *sunnah* men det är inte en av vallfärdens pelare, ej heller är det en skyldighet. Den som kan röra och kyssa den utan att det skadar någon annan kan göra det och det är rekommenderat. Om man inte kan röra och kyssa den, då rör man den med en stav och kysser den [staven]. Om man inte kan röra den med sin hand eller med en stav, då pekar man mot den när man passerar förbi och man säger: "*Allāhu akbar*". Detta är *sunnah*.
+Att kyssa den Svarta Stenen är *sunnah* men det är inte en av vallfärdens pelare, ej heller är det en skyldighet. Den som kan röra och kyssa den utan att det skadar någon annan kan göra det och det är rebefallt. Om man inte kan röra och kyssa den, då rör man den med en stav och kysser den [staven]. Om man inte kan röra den med sin hand eller med en stav, då pekar man mot den när man passerar förbi och man säger: "*Allāhu akbar*". Detta är *sunnah*.
 
 Varken den som utför *ṭawāf* eller soldaten för använda denna muta. De måste båda ångra sig inför Allāh.
 

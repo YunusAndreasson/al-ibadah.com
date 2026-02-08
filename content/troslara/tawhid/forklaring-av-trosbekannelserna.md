@@ -2,9 +2,9 @@
 title: Förklaring av trosbekännelserna
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 72 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Monoteism
@@ -62,7 +62,7 @@ Vittnesmålet ”*Muḥammad är Allāhs sändebud*” är en bekräftelse i ord
 Detta vittnesmål nödvändiggör att man:
 
 1. Tror på allt som sändebudet – över honom vare Allāhs frid och välsignelser – har berättat för oss,
-2. utför hans kommenderingar,
+2. utför hans befallningar,
 3. undviker vad han har förbjudit och
 4. inte dyrkar Allāh på annat sätt än vad han föreskrivit för oss.
 
@@ -70,7 +70,7 @@ Något som också förstås genom detta uttalande är du inte tror att Allāhs s
 
 > ”Säg: ’Jag säger inte till er att jag har Guds skatter [i min hand] och jag känner inte det som är dolt för människor[^1]. Inte heller säger jag till er: ’Se, jag är en ängel.’ Allt jag gör är att följa det som uppenbarats för mig.’” [Koranen 6:50]
 
-Han är därmed en av Allāhs tjänare som Allāh kommenderar, och han följer vad han kommenderas att göra. Allāh den Upphöjde säger:
+Han är därmed en av Allāhs tjänare som Allāh befaller, och han följer vad han befalls att göra. Allāh den Upphöjde säger:
 
 > ”Säg: ’Jag har ingen makt över er och kan inte vålla er skada; inte heller [kan jag] förmå er att följa den raka vägen. Säg: ’Ingen kan skydda mig mot Gud och jag kan heller inte finna en tillflykt undan Honom.” [Koranen 72:21 – 22]
 

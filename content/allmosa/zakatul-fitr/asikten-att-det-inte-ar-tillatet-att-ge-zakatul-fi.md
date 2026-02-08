@@ -2,14 +2,14 @@
 title: Zakātul-fiṭr i form av ris
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 607 s. ISBN 9960-892-66-2
 categories:
   - Allmosa (Zakāh)
   - Fasteallmosa
 original_id: 1020
 description: >-
-  Fråga: Vissa lärde säger att det inte är tillåtet att ge zakātul-fitr i form
+  Fråga: Vissa lärde säger att det inte är tillåtet att ge zakātul-fiṭr i form
   av ris då den typ av mat som har rapporteras [i ahādīth ] finns tillgängliga.
   Vad anser ni? Svar: Vissa lärde sä...
 ---
@@ -22,7 +22,7 @@ Det finns då två motsägande åsikter.
 
 Den korrekta åsikten är att om man betalar den [*zakātul-fiṭr*] som mat, då kommer den att räknas. Detta beror på att Abū Sa´īd al-Khudri i *Ṣaḥīḥ al-Buk̲hārī* har sagt: "*Vi brukade betala den under profetens – över honom vare Allāhs frid och välsignelser – tid som en sa'[^2] mat. Vår mat bestod av dadlar, korn, russin och ost*." [^3] Han nämnde inte vete. Vi känner inte till någon tydlig autentisk *ḥadīt̲h* i vilken det nämns att vete ges som *zakātul-fiṭr* men det råder inga tvivel om att vete är giltigt.
 
-Sedan finns det en *ḥadīt̲h* från Ibn 'Abbās i vilken han säger: "*Allāhs sändebud påbjöd betalning av zakātul-fitr[^1] som ett renande för den fastande från meningslöst prat och oanständigheter, samt för att föda de nödlidande*."
+Sedan finns det en *ḥadīt̲h* från Ibn 'Abbās i vilken han säger: "*Allāhs sändebud påbjöd betalning av zakātul-fiṭr[^1] som ett renande för den fastande från meningslöst prat och oanständigheter, samt för att föda de nödlidande*."
 
 Därför är den korrekta åsikten att all mat som människor äter är giltig för att betala *zakātul-fiṭr* med, även om det inte är en av de fem sorter som har rapporterats av de lärda inom islamisk rättsvetenskap.
 
@@ -32,7 +32,7 @@ Med detta som grund: Det är tillåtet att betala *zakātul-fiṭr* med ris. Jag
 
 Men efter att ha sagt detta så skiljer det sig från fall till fall. Det kan vara på så vis att ute på landet kan en viss grupp föredra dadlar och då kan man erbjuda dem dadlar. Men på en annan plats kan det vara russin som föredras och då kan man ge den [*zakātul-fiṭr*] som russin. På samma sätt kan ost eller något annat [vara att föredra]. Det bästa är då det som är nyttigast.
 
-[^1]: Allmosa som ges före eid-bönen.
+[^1]: Allmosa som ges före ´eid-bönen.
 [^2]: Det mått som fyller en normalbyggd mans båda händer när personen kupar dem tillsammans.
 
 [^3]: *al-Buk̲hārī* 1506

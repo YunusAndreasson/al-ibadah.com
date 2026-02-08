@@ -2,7 +2,7 @@
 title: Kom in i fredagsbönen när imamen var i tas̲hahhud
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 465 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -20,7 +20,7 @@ description: >-
 
 Genom dessa båda *ḥadīt̲h* blir det tydligt att den som inte hann med två bönecykler av fredagsbönen har missat bönen och bör be den som middagsbönen.
 
-Allāh är Beviljaren av framgång.
+Allāh är Den som ger framgång.
 
 
 [^1]: *Muslim* 607

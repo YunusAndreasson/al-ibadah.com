@@ -2,7 +2,7 @@
 title: Imamen glömmer bort att recitera sura al-Fātiḥah
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 180 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -22,6 +22,6 @@ Men då han inte reciterade sura *al-Fātiḥah*, som är en pelare i bönen, i 
 
 Nedfallandet för glömska räcker inte för att ta igen vad som har utelämnats, vilket i detta fall var *al-Fātiḥah*. Anledningen är att detta är en av bönens pelare.
 
-Och Allāh är beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 

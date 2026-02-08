@@ -2,7 +2,7 @@
 title: Om man blir icke-troende genom att bära amuletter
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 44 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
@@ -18,9 +18,9 @@ description: >-
 
 **Svar:** Det finns två sorters amuletter: De som innehåller Koranen och de som innehåller något annat än Koranen.
 
-Den första sorten är tillåten att bära. Detta ansåg Ibn Mas'ūd och Ibn ‘Abbās, och det verkar även vara vad Huthayfah, 'Uqbah bin 'Amr och Ibn 'Ukaym ansåg. Det anser även ett antal *tābi´īn*, bland dem finns Ibn Mas'ūds följeslagarna. *Aḥmad* hade denna åsikt och att de flesta av dem som följde honom delade den. De senare generationerna av dem är fasta vid den. 
+Den första sorten är tillåten att bära. Detta ansåg Ibn Mas'ūd och Ibn ‘Abbās, och det verkar även vara vad Huthayfah, 'Uqbah bin 'Amr och Ibn 'Ukaym ansåg. Det anser även ett antal *tābi´īn*, bland dem finns Ibn Mas'ūds följeslagarna. *Aḥmad* hade denna åsikt och att de flesta av dem som följde honom delade den. De senare generationerna av dem är fasta vid den.
 
-Denna åsikt grundas på vad bland andra imam *Aḥmad* och Abū Dawūd har återberättat om att Ibn Mas'ūd har sagt att han hörde profeten – över honom vare Allāhs frid och välsignelser – säga: ”*Sannerligen är besvärjelser, amuletter och tiwalah[^1] shirk*[^2]." [^3]
+Denna åsikt grundas på vad bland andra imam *Aḥmad* och Abū Dāwūd har återberättat om att Ibn Mas'ūd har sagt att han hörde profeten – över honom vare Allāhs frid och välsignelser – säga: ”*Sannerligen är besvärjelser, amuletter och tiwalah[^1] s̲hirk*[^2]." [^3]
 
 *s̲hayk̲h* ´Abdur-Rahmān bin *ḥasan* ash-*s̲hayk̲h* har sagt: ”Jag säger att detta är riktigt med anledning av tre saker som visar på det:
 
@@ -28,7 +28,7 @@ Denna åsikt grundas på vad bland andra imam *Aḥmad* och Abū Dawūd har åte
 2. Att sådant som innehåller annat inte bärs.
 3. När man bär dessa ting råder det ingen tvekan om att de kommer att bäras när man använder badrummet och tvättar sina intima kroppsdelar, etcetera.”
 
-Den andra åsikten är att de är tillåtna. Detta anser ´Abdullāh bin 'Amr bin al-'As, och det är uppenbart från vad ‘Ā’ishāh – må Allāh vara nöjd med henne – har rapporterat. Det anser även Abū Ja'far al-Baqir och *Aḥmad*, enligt en återberättelse från honom. När det gäller *ḥadīt̲h*: ”*Sannerligen är besvärjelser, amuletter och tiwalah[^1] shirk*[^2]", [^4] anser de att den endast avser de typer som innehåller *s̲hirk*.
+Den andra åsikten är att de är tillåtna. Detta anser ´Abdullāh bin 'Amr bin al-'As, och det är uppenbart från vad ‘Ā’ishāh – må Allāh vara nöjd med henne – har rapporterat. Det anser även Abū Ja'far al-Baqir och *Aḥmad*, enligt en återberättelse från honom. När det gäller *ḥadīt̲h*: ”*Sannerligen är besvärjelser, amuletter och tiwalah[^1] s̲hirk*[^2]", [^4] anser de att den endast avser de typer som innehåller *s̲hirk*.
 
 [^1]: En trollformel som används för att skapa kärlek mellan maken och makan.
 [^2]: Polyteism eller månggudadyrkan. Att sätta något vid Allāhs sida i ens dyrkan.

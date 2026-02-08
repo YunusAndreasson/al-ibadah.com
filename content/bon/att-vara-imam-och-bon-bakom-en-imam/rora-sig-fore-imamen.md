@@ -2,7 +2,7 @@
 title: Röra sig före imamen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 2.
   Libanon: Makbtaba Dar us-Salam. 534 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
@@ -35,7 +35,7 @@ Följandes: Att man utför rörelserna i bönen efter imamen utan att skjuta upp
 
 I efterhand: Att man ligger efter imamen så mycket att man inte anses följa honom. Detta motsäger det som är föreskrivet.
 
-[^1]: Att säga Allahu Akbar.
+[^1]: Att säga Allāhu akbar.
 
 [^2]: *al-Buk̲hārī* 691 och *Muslim* 427
 [^3]: *al-Buk̲hārī* 1114

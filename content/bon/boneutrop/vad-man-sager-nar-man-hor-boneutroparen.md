@@ -2,7 +2,7 @@
 title: Vad man säger när man hör böneutroparen
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 134 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -24,7 +24,7 @@ Och han har sagt:
 
 > ”Om du hör böneutropet, säg då vad böneutroparen säger, be sedan för mig, för den som ber för mig en gång sänder Allāh tio böner över för dem. Be sedan Allāh att Han gör mig till en medlare, för det är en plats i Paradiset som inte passar för någon annan troende, och jag hoppas att jag kommer att vara den. Så den som ber om min medling kommer min medling att tillåtas för” [*Muslim*, 384]
 
-al-Bukhārī har i sin *Ṣaḥīḥ* återgivit från Jabir bin ´Abdullāh att han berättade att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
+al-Buk̲hārī har i sin *Ṣaḥīḥ* återgivit från Jabir bin ´Abdullāh att han berättade att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Den som hörde kallet till bönen och då sade: 'Allāh! Herre över denna perfekta åkallan och den etablerade bönen, bevilja Muḥammad medling och en ärbar plats och höj honom till en prisvärd position som Du har lovat honom' – kommer att tillåtas min medling på Återuppståndelsens Dag. [*al-Buk̲hārī* 614 och 4719]
 
@@ -37,5 +37,5 @@ Och genom Allāh uppnås framgång.
 
 [^1]: *al-Buk̲hārī* 611 och *Muslim* 383
 [^2]: *Muslim* 385
-[^3]: *al-Bayhaqi Sunan* 1972
+[^3]: *al-Bayhaqī Sunan* 1972
 [^4]: *Abū Dāwūd* 528

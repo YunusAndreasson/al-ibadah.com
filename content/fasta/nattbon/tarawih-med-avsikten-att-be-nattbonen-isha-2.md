@@ -2,7 +2,7 @@
 title: 'Tarāwīḥ med avsikten att be nattbönen [isha]'
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 176 s. ISBN saknas
 categories:
   - Fasta (Sawm)
@@ -10,7 +10,7 @@ categories:
 original_id: 1480
 description: >-
   Fråga: En man kom till moskén och fann att de bad tarāwīh . Han var medveten
-  om detta. Kan han då be med dem men avse att be nattbönen[^1] eller bör han be
+  om detta. Kan han då be med dem men avse att be nattbönen eller bör han be
   ensam? Svar: Det finns ingen synd i at...
 ---
 
@@ -20,7 +20,7 @@ description: >-
 
 Detta bevisar att det är tillåtet att be den obligatoriska bönen bakom den som ber en icke-obligatorisk bön. Det har även berättats att profeten – över honom vare Allāhs frid och välsignelser – i vissa rädsleböner[^1] ledde en grupp i två bönecykler, för att sedan be två bönecykler med en annan grupp. Detta betyder att de första två bönecyklerna var den obligatoriska bönen för honom och att den andra var frivillig och obligatorisk för dem som bad bakom honom.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 [^1]: salatul-khawf
 

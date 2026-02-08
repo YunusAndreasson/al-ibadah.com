@@ -2,7 +2,7 @@
 title: Söka bot genom amuletter och de som talar med jinn
 author: Ibn ´Abdullah Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 49 s. ISBN saknas
 categories:
   - Troslära (´Aqīdah)
@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** När någon lider av epilepsi går personen till någon arabisk helare som talar med *jinn* och gör märkliga rörelser. Han ger patienten amuletter under en tidsperiod och säger att personen är besatt, förtrollad eller något liknande. Sådana helare behandlar patienten och helar personen, men de tar emot pengar för detta. Vilket är utlåtandet om dessa handlingar? Och vilket är utlåtandet om att söka bot genom Koran-amuletter som sedan dränks i vatten för att drickas?
 
-**Svar:** Det är inte farligt att behandla en epileptisk eller besatt person med Koran-verser och tillåtna mediciner, om den som behandlar patienterna är känd för att ha sunda trosprinciper samt att vara en hängiven troende. När det gäller att söka hjälp från dem som påstår sig känna till det som är dolt för människor[^1], de som kommunicerar med *jinn*, de charlataner som är okunniga samt okända och de vars metoder för att läka är obskyra – då är det varken tillåtet att rådfråga dem eller söka deras hjälp. 
+**Svar:** Det är inte farligt att behandla en epileptisk eller besatt person med Koran-verser och tillåtna mediciner, om den som behandlar patienterna är känd för att ha sunda trosprinciper samt att vara en hängiven troende. När det gäller att söka hjälp från dem som påstår sig känna till det som är dolt för människor[^1], de som kommunicerar med *jinn*, de charlataner som är okunniga samt okända och de vars metoder för att läka är obskyra – då är det varken tillåtet att rådfråga dem eller söka deras hjälp.
 
 Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 

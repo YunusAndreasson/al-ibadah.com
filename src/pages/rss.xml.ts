@@ -6,7 +6,7 @@ export async function GET(context: APIContext) {
   const articles = await getCollection('articles')
   return rss({
     title: 'al-Ibadah',
-    description: 'En kunskapsbank om islamisk dyrkan och teologi på svenska.',
+    description: 'En kunskapssamling om islamisk dyrkan och teologi på svenska.',
     site: context.site!,
     items: articles.map((article) => {
       const parts = article.id.split('/')

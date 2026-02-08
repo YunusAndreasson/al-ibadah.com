@@ -20,6 +20,6 @@ description: >-
 2. Urin eller avföring från någon annan plats än urinröret eller anus.
 3. Att förlora medvetandet, vilket kan innebära att man förlorar det helt genom att förlora sin mentala förmåga, vilket är sinnesjukdom, eller genom att förlora det tillfälligt under en viss tid av någon orsak som sömn, medvetslöshet, berusning, osv.
 4. Att vidröra sin penis, på grund av en *ḥadīt̲h* från Basrah bint Safwān, där han hörde Allāhs sändebud – över honom vare Allāhs frid och välsignelser – säga: "*Den som rör sin penis, låt personen tvaga sig*." [berättad av *Abū Dāwūd*, al-Tahārah, 154.]
-5. Att äta kamelkött, på grund av en *ḥadīt̲h* från Jabir ibn Samurah i vilken han berättar att en man frågade profeten: "*Skall vi göra wudu efter att ha ätit kamelkött*"? Han sade: ”*Ja*.” [berättad av *Muslim*, al-Hayd, 539]. Det ska noteras att vidrörandet av en kvinnas kropp inte bryter tvagningen, oavsett om det görs med begär eller på annat vis, såvida det inte leder till någonting annat som resultat av att ha vidrört.
+5. Att äta kamelkött, på grund av en *ḥadīt̲h* från Jabir ibn Samurah i vilken han berättar att en man frågade profeten: "*Skall vi göra wuḍū’ efter att ha ätit kamelkött*"? Han sade: ”*Ja*.” [berättad av *Muslim*, al-Ḥayḍ, 539]. Det ska noteras att vidrörandet av en kvinnas kropp inte bryter tvagningen, oavsett om det görs med begär eller på annat vis, såvida det inte leder till någonting annat som resultat av att ha vidrört.
 
 

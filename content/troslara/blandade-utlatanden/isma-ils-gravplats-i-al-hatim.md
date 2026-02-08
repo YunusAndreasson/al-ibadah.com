@@ -1,7 +1,7 @@
 ---
 title: Isma'ils gravplats i al-Hatim
 author: Ibn ´Abdullah Ibn Bāz
-source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
  Libanon: Maktaba Dar us-Salam. 56 s. ISBN saknas'
 categories:
   - Troslära (´Aqīdah)

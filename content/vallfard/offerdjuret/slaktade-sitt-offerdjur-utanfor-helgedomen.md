@@ -2,7 +2,7 @@
 title: Slaktade sitt offerdjur utanför Helgedomen
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 4.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 271 s. ISBN saknas
 categories:
   - Vallfärd (Hajj)
@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Det är inte tillåtet att slakta ett offerdjur för *ḥajjul-tamattu´* och *ḥajjul-qirān*, utom vid Helgedomen. Om det slaktas vid någon annan plats än Helgedomen [som vid *´Arafāt*, Jiddah eller någon annan plats], då är det inte tillräckligt även om han delade ut köttet vid Helgedomen. Han måste slakta ett annat offerdjur vid Helgedomen. Det är ingen skillnad om han gjorde det med eller utan kunskap. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – slaktade sitt djur vid Helgedomen och sade: ”*Ta era vallfärdsriter från mig*.” [^1]
 
-På samma sätt gjorde hans följeslagare. De slaktade endast deras offerdjur i helgedomen och på så sätt följde de profeten.
+På samma sätt gjorde hans följeslagare. De slaktade endast sina offerdjur i helgedomen och på så sätt följde de profeten.
 
 
 [^1]: *Muslim* 1297 *al-Bayhaqī* 5/125

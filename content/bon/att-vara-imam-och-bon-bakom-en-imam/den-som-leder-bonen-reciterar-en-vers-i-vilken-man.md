@@ -1,8 +1,8 @@
 ---
-title: Den som leder bönen reciterar en vers i vilken man ska nedfalla
+title: Imamen reciterar en vers med nedfallan
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 209 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -10,7 +10,7 @@ categories:
 original_id: 226
 description: >-
   Fråga: Vad ska jag göra om jag reciterar en sura i vilken man ska
-  nedfalla[^1]? Detta sker när jag ber bakom en imam. Svar: Nedfall inte. Det är
+  nedfalla? Detta sker när jag ber bakom en imam. Svar: Nedfall inte. Det är
   ju obligatoriskt att följa imamen och nedfalla...
 ---
 

@@ -2,7 +2,7 @@
 title: Den som inte ber är en icke-troende
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 379 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -24,7 +24,7 @@ Skjuter han upp den för att han är slarvig eller lat, men utan att förneka at
 
 Du som har ställt frågan får inte återvända till din man förrän han återvänder till Allāh i ånger och är noga med att be. Må Allāh vägleda honom och låta honom ångra sig uppriktigt.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 
 [^1]: *at-Tirmid̲hī* 2621, *an-Nasā’ī* 464 och *Aḥmad* 5:346, 355

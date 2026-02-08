@@ -2,7 +2,7 @@
 title: Imamen begår ett misstag i recitationen men ingen rättar honom
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 2.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 420 s. ISBN saknas
 categories:
   - Bön (Salāh)
@@ -20,6 +20,6 @@ description: >-
 
 Detta gäller dock inte om misstaget sker i *al-Fātiḥah*. Här måste hela denna sura reciteras. Anledningen är att recitation av den är en av bönens pelare.
 
-Allāh är Beviljaren av framgång.
+Allāh är Den som ger framgång.
 
 

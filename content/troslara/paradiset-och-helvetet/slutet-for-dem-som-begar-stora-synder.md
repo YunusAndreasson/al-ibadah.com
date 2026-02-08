@@ -2,9 +2,9 @@
 title: Slutet för dem som begår stora synder
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 30 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Paradiset och Helvetet
@@ -19,7 +19,7 @@ description: >-
 
 Vilken kommer domen att vara för dem som begår sådana stora synder, när det inte finns någon som kan tillrättavisa dem, och de dör innan de har ångrat sig?
 
-**Svar:** *Ahlus-sunnah[^1] wal-jamā’at* tror att den muslim som dör utan att ha ångrat sig över stora synder – som otukt, förtal av ärbara kvinnor och stöld – kommer att hamna under Allāhs vilja – upphöjd är Han. Om Han vill så förlåter Han honom, och om Han vill så straffar Han honom för den stora synd som han begått och dött med innan han ångrat sig inför Allāh. 
+**Svar:** *Ahlus-sunnah[^1] wal-jamā’at* tror att den muslim som dör utan att ha ångrat sig över stora synder – som otukt, förtal av ärbara kvinnor och stöld – kommer att hamna under Allāhs vilja – upphöjd är Han. Om Han vill så förlåter Han honom, och om Han vill så straffar Han honom för den stora synd som han begått och dött med innan han ångrat sig inför Allāh.
 
 Men till sist kommer han att få träda in i Paradiset. Allāh säger: ”*Gud förlåter inte den som sätter medhjälpare vid Hans sida, men Han förlåter den Han vill hans mindre synder*.” [^5]
 

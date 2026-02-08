@@ -2,7 +2,7 @@
 title: Grupp som ber tillsammans hemma i stället för att gå till moskén
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 2.
   Libanon: Makbtaba Dar us-Salam. 528 s. ISBN 9960-892-66-2
 categories:
   - Bön (Salāh)
@@ -22,7 +22,7 @@ Den korrekta åsikten är dock att församlingsbönen måste bes i moskén. Dett
 
 Han har även sagt: ”*Den som hörde kallet [till bön] och inte besvarade det, då finns det ingen bön för personen om personen inte har en ursäkt*.” [^2]
 
-Detta trots att dessa kan ha bett i deras egna hem.
+Detta trots att dessa kan ha bett i sina egna hem.
 
 Denna grupp måste då be med församlingen om de inte befinner sig långt bort från den och det skulle vara en svårighet för dem att komma dit.
 

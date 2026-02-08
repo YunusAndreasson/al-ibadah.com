@@ -2,7 +2,7 @@
 title: Rätt till allmosa vid tiggeri
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 2.
   Libanon: Makbtaba Dar us-Salam. 611 s. ISBN 9960-892-66-2
 categories:
   - Allmosa (Zakāh)
@@ -20,7 +20,7 @@ description: >-
 
 Profeten – över honom vare Allāhs frid och välsignelser – har också sagt: "*Den som tigger om andras rikedom för att bygga upp sin egen ber enbart om brinnande kol [i det Nästkommande], så låt personen be om lite eller mycket*." [^2]
 
-Jag skulle vilja ta detta tillfälle i akt och varna dem som ber andra om hjälp i en viktig fråga när dem [själva] har egendom. Jag varnar alla som tar emot allmosa när de inte är berättigade till den. Jag säger till dem: Om du tog allmosa som du inte är berättigad till, då använder du enbart orättmätiga vinster – må Allāh skydda oss från det.
+Jag skulle vilja ta detta tillfälle i akt och varna dem som ber andra om hjälp i en viktig fråga när de [själva] har egendom. Jag varnar alla som tar emot allmosa när de inte är berättigade till den. Jag säger till dem: Om du tog allmosa som du inte är berättigad till, då använder du enbart orättmätiga vinster – må Allāh skydda oss från det.
 
 Man ska frukta Allāh, för profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Den som försöker göra sig självständig kommer Allāh att göra självständig. Och den som avstår från att be andra kommer Allāh att göra nöjd*." [^3]
 

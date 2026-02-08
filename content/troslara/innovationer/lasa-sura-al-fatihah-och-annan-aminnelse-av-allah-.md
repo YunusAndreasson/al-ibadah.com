@@ -2,7 +2,7 @@
 title: Läsa sura al-Fātiḥah och annan åminnelse av Allāh högt efter bönen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 2.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 2.
   Libanon: Makbtaba Dar us-Salam. 495 s. ISBN 9960-892-66-2
 categories:
   - Troslära (´Aqīdah)
@@ -20,7 +20,7 @@ description: >-
 
 Att höja rösten i åminnelse efter den obligatoriska bönen är en *sunnah* som har bekräftats från Ibn ‘Abbās i *Ṣaḥīḥ al-Buk̲hārī*. Han säger: ”*Under profetens – över honom vare Allāhs frid och välsignelser – tid brukade folket höja deras röster när de var klara med de obligatoriska bönerna*.” [^2]
 
-Recitation av sura *al-Fātiḥah* efter bönen, oavsett om det sker med höjd röst eller tyst, känner jag inte till någon *ḥadīt̲h* från profeten – över honom vare Allāhs frid och välsignelser. Det har endast rapporterats i en *ḥadīt̲h* att man bör läsa versen al-Kursi[^1], *qul huwa allāhu ahad* [sura al-Ikhlas] och *al-mu'awithatan* [sura al-Falaq och sura an-Nas].
+Recitation av sura *al-Fātiḥah* efter bönen, oavsett om det sker med höjd röst eller tyst, känner jag inte till någon *ḥadīt̲h* från profeten – över honom vare Allāhs frid och välsignelser. Det har endast rapporterats i en *ḥadīt̲h* att man bör läsa versen al-Kursi[^1], *qul huwa allāhu ahad* [sura al-Ik̲hlāṣ] och *al-mu'awithatan* [sura al-Falaq och sura an-Nas].
 
 [^1]: Allāhs fotpall.
 

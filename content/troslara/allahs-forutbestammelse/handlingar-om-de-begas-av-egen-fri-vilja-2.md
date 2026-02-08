@@ -2,9 +2,9 @@
 title: Handlingar; om de begås av egen fri vilja
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam . Volym 1.
+  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
   Libanon: Makbtaba Dar us-Salam. 183 s. ISBN 9960-892-66-2 Muhammed Knut
-  Bernström (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
@@ -25,7 +25,7 @@ De tror att människan utför eller överger handlingar genom ett eget val och a
 
 Den mellersta gruppen erkänner dessa båda orsaker och tittar på fullständigheten i Allāhs förutbestämmelse och människans fria vilja. Gruppen menar att man måste vara medveten om skillnaden mellan någon som faller ned från taket på grund av vinden [eller något liknande] och att personen genom sin fria vilja går ned via trapporna. Det första scenariot inträffar inte genom personens [eget] val men det andra gör det, och båda sker genom Allāhs påbud och förutbestämmelse. Inget inträffar i Allāhs herravälde utom genom Hans vilja.
 
-Men det som inträffar genom någons [egen] vilja är personen ansvarig för och det förutbestämda är inte en ursäkt när personen motsäger sig de kommenderingar och förbud som har föreskrivits personen. Detta beror på att personen syndar när personen önskar göra detta och personen vet inte vad Allāh har skrivit. Att synda genom ett eget val är orsaken till straffet, oavsett om det sker i detta liv eller i det Nästkommande. Skulle någon tvingas att synda, då räknas inte detta och personen straffas inte för det. Personen är ju ursäktad.
+Men det som inträffar genom någons [egen] vilja är personen ansvarig för och det förutbestämda är inte en ursäkt när personen motsäger sig de befallningar och förbud som har föreskrivits personen. Detta beror på att personen syndar när personen önskar göra detta och personen vet inte vad Allāh har skrivit. Att synda genom ett eget val är orsaken till straffet, oavsett om det sker i detta liv eller i det Nästkommande. Skulle någon tvingas att synda, då räknas inte detta och personen straffas inte för det. Personen är ju ursäktad.
 
 Om någon är medveten om att när personen flyr från elden till en plats där personen är säker, eller när personen väljer ett vackert och stort hus för att bo i, så sker det genom personens val. Samtidigt tror personen att när personen flyr från elden och när personen väljer huset, då sker det genom Allāhs förutbestämmelse.
 
@@ -35,7 +35,7 @@ På tal om exemplet som gällde att om Allāh bestämmer att någon ska bygga en
 
 Sanningen är att ursprungsiden att bygga moskén innefattas i personens fria vilja då personen inte tvingas att göra det, precis som personen inte tvingats att reparera sitt eget hem. Men iden har Allāh den Upphöjde bestämt för personen utan att personen har varit medveten om det. Människan vet inte att Allāh har bestämt något visst förrän det inträffar. Det förutbestämda är en dold hemlighet som ingen utöver Allāh har vetskap om, utom om Han ger någon kunskap om det eller när det inträffar i verkligheten.
 
-Hur byggnaden upprättas ligger också det i Allāhs förutbestämmelse. Han den Upphöjde har ju bestämt allt, både allmänt och detaljerat. Allāhs tjänare kan inte välja något som Allāh inte vill besluta. Väljer en tjänare att göra något, då är personen säker på att Allāh den Upphöjde har kommenderat och bestämt det.
+Hur byggnaden upprättas ligger också det i Allāhs förutbestämmelse. Han den Upphöjde har ju bestämt allt, både allmänt och detaljerat. Allāhs tjänare kan inte välja något som Allāh inte vill besluta. Väljer en tjänare att göra något, då är personen säker på att Allāh den Upphöjde har befallt och bestämt det.
 
 Allāhs tjänare är fria att välja enligt de uppenbara fysiska orsaker som Allāh den Upphöjde har bestämt som orsaker till att personens handling inträffar. Tjänaren känner inte att någon har tvingat personen när handlingen utförs, men om tjänaren gör det enligt de orsaker som Allāh den Upphöjde har bestämt till att vara orsaker, då vet vi med säkerhet att Allāh den Upphöjde har förordnat både det allmänna och det detaljerade.
 

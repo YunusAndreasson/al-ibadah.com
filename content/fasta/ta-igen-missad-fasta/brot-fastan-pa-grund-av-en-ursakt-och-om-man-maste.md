@@ -2,9 +2,9 @@
 title: Bröt fastan på grund av en ursäkt och om man måste gottgöra sig då
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 307 s. ISBN saknas Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Fasta (Sawm)
   - Ikappfasta
@@ -23,7 +23,7 @@ Det krävs ingen gottgörelse från dig för de tre dagar som du inte fastade un
 
 Detta gäller om du har brutit fastan genom något annat än intim samvaro. Men om du bröt fastan genom intim samvaro måste du gottgöra dig tillsammans med att du tar igen varje dag som du har brutit fastan under på grund av intim samvaro. Detta sker genom att du frisläpper en troende slav. Om du inte kan finna en troende slav att släppa fri måste du fasta två på varandra efterföljande månader. Har du inte möjlighet att göra det måste du ge 60 fattiga mat.
 
-Och Allāh är Beviljaren av framgång.
+Och Allāh är Den som ger framgång.
 
 
 [^1]: Koranen 2:184

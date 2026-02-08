@@ -3,7 +3,7 @@ title: Söka skydd hos profeten
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Majmū’ Fatāwa al-shaykh Muḥammad ibn ‘Uthaymīn, 3/70 Muhammed Knut Bernström
-  (1421), Koranens budskap . Simrishamn: Proprius. ISBN 91-7118-887-8
+  (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Troslära (´Aqīdah)
   - Åkallan av döda

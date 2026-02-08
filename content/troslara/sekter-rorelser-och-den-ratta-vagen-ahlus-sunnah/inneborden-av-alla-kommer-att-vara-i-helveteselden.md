@@ -2,7 +2,7 @@
 title: '"Alla i Helveteselden utom en grupp"'
 author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 1.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 1.
   Libanon: Maktaba Dar us-Salam. 21 s. ISBN saknas.
 categories:
   - Troslära (´Aqīdah)
@@ -27,6 +27,6 @@ De vars innovationer tar dem ur islam tillhör innovationens samfund [människos
 
 Det har även sagts att termen ”samfund” i denna *ḥadīt̲h* avser innovationens samfund, vilket är en allmän term som omfattar dem som profeten – över honom vare Allāhs frid och välsignelser – sändes till [människosläktet]; de som tror och de som inte tror. ”Den räddade gruppen” är ”det svarande samfundet” som enbart gäller dem som uppriktigt tror på profeten – över honom vare Allāhs frid och välsignelser – och dör i detta tillstånd. Detta är gruppen som kommer att räddas från Elden; antingen genom föregående bestraffning eller utan föregående bestraffning och deras slutgiltiga vistelse är i Paradiset.
 
-De 72 [olika] grupperna [i den andra åsikten] är alla, utom den räddade gruppen, icke-troende som kommer att vistas i Elden för evigt. Följaktligen är det klart att ”det inbjudna samfundet” har en vidare betydelse än ”det svarande samfundet”. Detta betyder att den som tillhör det svarande samfundet också tillhör det inbjudna samfundet, medan dem som tillhör det inbjudna samfundet inte tillhör det svarande samfundet.
+De 72 [olika] grupperna [i den andra åsikten] är alla, utom den räddade gruppen, icke-troende som kommer att vistas i Elden för evigt. Följaktligen är det klart att ”det inbjudna samfundet” har en vidare betydelse än ”det svarande samfundet”. Detta betyder att den som tillhör det svarande samfundet också tillhör det inbjudna samfundet, medan de som tillhör det inbjudna samfundet inte tillhör det svarande samfundet.
 
 

@@ -2,7 +2,7 @@
 title: Sinnesro som skyldighet i bönen
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
-  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah . Volym 3.
+  Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 318 s. ISBN saknas
 categories:
   - Fasta (Sawm)
@@ -24,11 +24,11 @@ Detta beror på det som har bekräftats i *Ṣaḥīḥ al-Buk̲hārī* och *Ṣ
 
 Det som är föreskrivet är att imamerna reciterar med långsam rytm och ödmjukhet. Syftet är att de ska få nytta av den och för att de som ber bakom dem ska kunna få nytta av deras recitation. Och det är även för att deras hjärtan ska beröras av recitationen så att de blir ödmjuka inför Herren och vänder sig till Honom.
 
-Imamerna och de som leds i bön måste sända välsignelser över profeten – över honom vare Allāhs frid och välsignelser – med Abrahams bön efter de båda vittnesmålen men innan *taslīm*. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har kommenderat detta. Några lärde anser att det är en skyldighet. Därmed får imamen och de som leds i bön inte motsätta sig den rena islamiska lagen, varken i bönen eller vid någon annan tidpunkt.
+Imamerna och de som leds i bön måste sända välsignelser över profeten – över honom vare Allāhs frid och välsignelser – med Abrahams bön efter de båda vittnesmålen men innan *taslīm*. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har befallt detta. Några lärde anser att det är en skyldighet. Därmed får imamen och de som leds i bön inte motsätta sig den rena islamiska lagen, varken i bönen eller vid någon annan tidpunkt.
 
 Det är föreskrivet att de som ber – oavsett om det är en imam, någon som leds eller någon som ber själv – söker tillflykt hos Allāh från plågan i Helvetet, plågan i graven, prövningarna i livet och döden och prövningen i den falske Messias. Detta säger man efter att ha sänt böner över profeten – över honom vare Allāhs frid och välsignelser – och innan *taslīm*. Detta beror på att sändebudet – över honom vare Allāhs frid och välsignelser – brukade göra så och han beordrade sitt samfund att säga denna åkallan.
 
-Det är rekommenderat att åkalla mer innan man bryter bönen med fridshälsningen. Ett exempel är en känd åkallan som profeten – över honom vare Allāhs frid och välsignelser – rådde Mu'ath bin Jabal att säga vid slutet av varje bön: "*Allāh! Hjälp mig att komma ihåg Dig, att vara dig tacksam och att dyrka Dig perfekt*." [^1]
+Det är rebefallt att åkalla mer innan man bryter bönen med fridshälsningen. Ett exempel är en känd åkallan som profeten – över honom vare Allāhs frid och välsignelser – rådde Mu'ath bin Jabal att säga vid slutet av varje bön: "*Allāh! Hjälp mig att komma ihåg Dig, att vara dig tacksam och att dyrka Dig perfekt*." [^1]
 
 
 [^1]: *Abū Dāwūd* 1522
