@@ -1,9 +1,8 @@
-import { lazy, Suspense, useEffect, useState } from 'react'
+import { lazy, Suspense } from 'preact/compat'
+import { useEffect, useState } from 'preact/hooks'
 import { SearchIcon } from './icons'
 
-const SearchDialog = lazy(() =>
-  import('./SearchDialog').then((m) => ({ default: m.SearchDialog }))
-)
+const SearchDialog = lazy(() => import('./SearchDialog').then((m) => ({ default: m.SearchDialog })))
 
 export function SearchIsland() {
   const [searchOpen, setSearchOpen] = useState(false)

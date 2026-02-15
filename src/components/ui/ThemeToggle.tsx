@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useRef, useState } from 'preact/hooks'
 
 type Theme = 'light' | 'dark' | 'system'
 
@@ -26,9 +26,9 @@ export function ThemeToggle() {
   const cycleTheme = () => {
     hasInteracted.current = true
     setTheme((current) => {
-      if (current === 'system') return 'light'
       if (current === 'light') return 'dark'
-      return 'system'
+      if (current === 'dark') return 'system'
+      return 'light'
     })
   }
 

@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useState } from 'preact/hooks'
 
 interface NavLink {
   href: string
@@ -71,7 +71,7 @@ export function MobileMenu({ navLinks, currentPath }: MobileMenuProps) {
         <div className="md:hidden fixed inset-0 z-40" onClick={() => setMenuOpen(false)}>
           <div className="fixed inset-0 bg-foreground/40 animate-dialog-overlay" />
           <nav
-            className="fixed top-14 right-0 w-64 max-w-[80vw] h-[calc(100vh-3.5rem)] bg-background border-l border-border p-4 animate-dialog-content overflow-y-auto"
+            className="fixed top-14 right-0 w-64 max-w-[80vw] h-[calc(100dvh-3.5rem)] bg-background border-l border-border p-4 animate-slide-in-right overflow-y-auto safe-bottom"
             aria-label="Mobilnavigering"
             onClick={(e) => e.stopPropagation()}
           >

@@ -1,11 +1,11 @@
+import { type CollectionEntry, getCollection } from 'astro:content'
 import type { APIRoute } from 'astro'
-import { getCollection } from 'astro:content'
 import { CATEGORY_NAMES, deriveSubcategoryName, getArabicTerm } from '~/lib/content-utils'
 import { renderTitle } from '~/lib/render-title'
 
 export const GET: APIRoute = async () => {
   const articles = await getCollection('articles')
-  const searchIndex = articles.map((article) => {
+  const searchIndex = articles.map((article: CollectionEntry<'articles'>) => {
     const segments = article.id.split('/')
     const category = segments[0]
     const subcategory = segments.length === 3 ? segments[1] : undefined

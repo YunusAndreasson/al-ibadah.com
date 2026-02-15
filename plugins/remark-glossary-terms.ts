@@ -11,7 +11,7 @@
 
 import type { Emphasis, Parent, Root, Text } from 'mdast'
 import { visit } from 'unist-util-visit'
-import { type GlossaryTerm, findGlossaryTerm, glossary } from '../src/data/glossary.js'
+import { findGlossaryTerm, type GlossaryTerm, glossary } from '../src/data/glossary.js'
 
 interface EmphasisData {
   hName?: string
@@ -76,11 +76,17 @@ export function remarkGlossaryTerms() {
       if (!parent || index === undefined) return
 
       const text = node.value
-      const matches: Array<{ term: string; start: number; end: number; glossaryTerm: GlossaryTerm }> = []
+      const matches: Array<{
+        term: string
+        start: number
+        end: number
+        glossaryTerm: GlossaryTerm
+      }> = []
 
       let match: RegExpExecArray | null
       swedishTermsPattern.lastIndex = 0
 
+      // biome-ignore lint/suspicious/noAssignInExpressions: standard regex exec loop
       while ((match = swedishTermsPattern.exec(text)) !== null) {
         const term = match[1]
         const glossaryTerm = findGlossaryTerm(term)
@@ -133,4 +139,3 @@ export function remarkGlossaryTerms() {
     })
   }
 }
-

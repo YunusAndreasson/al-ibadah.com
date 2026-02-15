@@ -117,7 +117,7 @@ Det är välkänt för alla som läser Allāhs den Allsmäktiges skrift att de m
 
 *Tawḥīd[^1] as-asmā' was-sifāt'*[^4] innebär att man bekräftar enheten i de namn som Allāh har använt om sig Själv och de egenskaper som Han har beskrivit sig Själv med i Sin skrift eller genom Sitt sändebuds tunga [vad profeten – över honom vare Allāhs frid och välsignelser – har sagt]. Detta innebär att man bekräftar vad Allāh har bekräftat men utan att förvrida, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen].
 
-Därmed är det viktigt att tro på de namn som Allāh Själv har använt och de egenskaper som han har beskrivit sig Själv med. Man gör detta utan allogier, utan att försöka förklara hur och utan att dra sig till jämförelser.
+Därmed är det viktigt att tro på de namn som Allāh Själv har använt och de egenskaper som han har beskrivit sig Själv med. Man gör detta utan analogier, utan att försöka förklara hur och utan att dra sig till jämförelser.
 
 Det är i denna form av *tawḥīd* som grupper i det muslimska samfundet, som påstår sig ha lojalitet till islam, på flera sätt har gått vilse. Här finns de som har överdrivit i sitt förnekande av *tanzih* på ett sätt som tar dem ur islam. Några är måttfulla och nära *ahlus-sunnah*.
 

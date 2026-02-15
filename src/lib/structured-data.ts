@@ -12,9 +12,7 @@ export function buildWebSiteSchema() {
   }
 }
 
-export function buildBreadcrumbSchema(
-  items: Array<{ label: string; href: string }>,
-) {
+export function buildBreadcrumbSchema(items: Array<{ label: string; href: string }>) {
   return {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
@@ -106,14 +104,10 @@ export function buildCollectionPageSchema(opts: CollectionPageOpts) {
  * Extract question and answer from markdown body.
  * Returns null if the content doesn't follow the Fråga/Svar pattern.
  */
-export function extractQA(
-  body: string | undefined,
-): { question: string; answer: string } | null {
+export function extractQA(body: string | undefined): { question: string; answer: string } | null {
   if (!body) return null
 
-  const match = body.match(
-    /\*\*Fråga:\*\*\s*([\s\S]*?)\*\*Svar:\*\*\s*([\s\S]*?)(?=\*\*|##|$)/i,
-  )
+  const match = body.match(/\*\*Fråga:\*\*\s*([\s\S]*?)\*\*Svar:\*\*\s*([\s\S]*?)(?=\*\*|##|$)/i)
   if (!match?.[1] || !match?.[2]) return null
 
   const clean = (text: string) =>

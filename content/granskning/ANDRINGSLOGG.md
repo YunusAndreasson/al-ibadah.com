@@ -7,6 +7,7 @@ Dokumenterar alla ändringar som görs under den systematiska språkgranskningen
 ## 2026-01-18
 
 ### Granskning påbörjad
+
 - Skapade granskningslistor för alla kategorier
 - Total: ~1 660 filer att granska
 

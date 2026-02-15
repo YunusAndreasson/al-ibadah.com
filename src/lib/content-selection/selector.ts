@@ -19,7 +19,7 @@ function getArticlesBySubcategory(
   articles: CompactArticle[],
   subcategoryPath: string
 ): CompactArticle[] {
-  return articles.filter((a) => a.id.startsWith(subcategoryPath + '/'))
+  return articles.filter((a) => a.id.startsWith(`${subcategoryPath}/`))
 }
 
 /**
@@ -38,7 +38,7 @@ function getArticlesByKeyword(articles: CompactArticle[], keyword: string): Comp
  * Get article by exact path
  */
 function getArticleByPath(articles: CompactArticle[], path: string): CompactArticle | undefined {
-  return articles.find((article) => '/' + article.id === path)
+  return articles.find((article) => `/${article.id}` === path)
 }
 
 /**

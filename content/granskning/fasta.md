@@ -1,6 +1,7 @@
 # Granskning: fasta
 
 ## Status
+
 - Startdatum: 2026-01-18
 - Filer totalt: 205
 - Granskade: 0
@@ -8,15 +9,18 @@
 ## Filer
 
 ### allmaktens-natt
+
 - [ ] tecken-pa-allmaktens-natt.md
 
 ### amning-och-graviditet
+
 - [ ] ammande-kvinna-som-vill-bryta-fastan-och-om-hon-be.md
 - [ ] bryter-en-gravid-kvinna-fastan-tar-hon-enbart-igen.md
 - [ ] gravid-eller-ammande-kvinna-som-bryter-fastan.md
 - [ ] gravid-eller-ammande-kvinna-som-fruktar-for-sig-oc.md
 
 ### blandade-utlatanden
+
 - [ ] allmaktens-natt-vad-vi-gor-da.md
 - [ ] anledningen-till-att-det-ar-forbjudet-att-fasta-un.md
 - [ ] avlida-under-ramadan.md
@@ -36,6 +40,7 @@
 - [ ] visdomen-i-fastan.md
 
 ### de-som-bara-ber-under-ramadan
+
 - [ ] ber-enbart-under-ramadan.md
 - [ ] fastande-som-ar-lat-med-att-utfora-bonen.md
 - [ ] fastan-for-den-som-inte-ber.md
@@ -44,6 +49,7 @@
 - [ ] vallfarden-for-den-som-utan-ursakt-inte-fastar-und.md
 
 ### frivillig-fasta
+
 - [ ] arafat-dagen-frivillig-fasta-for-de-som-inte-vallf.md
 - [ ] ashura-fastan.md
 - [ ] ashura-natten.md
@@ -66,10 +72,12 @@
 - [ ] valja-vilka-dagar-man-vill-fasta-under-shawwal-och.md
 
 ### innovationer-gallande-fastan
+
 - [ ] al-imsak-en-tidpunkt-som-pastas-intraffa-tio-minut.md
 - [ ] gora-mosken-vacker-infor-speciella-hogtider-som-ex.md
 
 ### nar-ramadhan-borjar-och-slutar
+
 - [ ] alltid-fasta-30-dagar-under-ramadan.md
 - [ ] att-lita-pa-kalkyleringar-for-att-bekrafta-nymanen.md
 - [ ] fasta-i-31-dagar.md
@@ -84,6 +92,7 @@
 - [ ] visste-inte-att-manaden-hade-borjat-forran-efter-g.md
 
 ### nattbon
+
 - [ ] akallan-som-sags-nar-man-har-last-ut-koranen-under.md
 - [ ] akallan-under-qunut.md
 - [ ] allmaktens-natt-och-om-den-intraffar-under-olika-n.md
@@ -102,6 +111,7 @@
 - [ ] tarawih-med-avsikten-att-be-nattbonen-isha.md
 
 ### resenarens-fasta
+
 - [ ] bryta-fastan-for-att-kunna-starka-sig-infor-umrah-.md
 - [ ] bryta-fastan-under-djihad.md
 - [ ] busschaufforers-fasta.md
@@ -114,6 +124,7 @@
 - [ ] resenarens-fasta-nu-for-tiden-da-det-ar-sa-mycket-.md
 
 ### ta-igen-missad-fasta
+
 - [ ] brot-fastan-pa-grund-av-en-ursakt-och-om-man-maste.md
 - [ ] brot-fasta-pa-grund-av-en-sjukdom-och-tillfrisknad.md
 - [ ] fastade-inte-pa-grund-av-en-sjukdom-och-avled-inna.md
@@ -132,6 +143,7 @@
 - [ ] skot-upp-att-ta-igen-fastegarna-till-nasta-ramadan.md
 
 ### vad-som-bryter-eller-inte-bryter-fastan
+
 - [ ] akallan-att-lasa-da-man-bryter-fastan.md
 - [ ] anvanda-henna-under-fastan.md
 - [ ] arbetare-som-vill-bryta-fastan.md
@@ -216,6 +228,7 @@
 - [ ] vittna-falskt-under-fastan.md
 
 ### vem-som-far-bryta-fastan
+
 - [ ] brot-avsiktligen-fastan-dagtid-under-ramdhan.md
 - [ ] bryta-fastan-da-jobbet-ar-anstrangande.md
 - [ ] bryter-av-nagon-anledning-fastan-men-sedan-galler-.md
@@ -227,6 +240,7 @@
 - [ ] ursakter-som-gor-det-tillatet-att-bryta-fastan.md
 
 ### vem-som-maste-fasta
+
 - [ ] aldern-da-det-blir-en-skyldighet-att-fasta.md
 - [ ] ar-tretton-ar-gammal-men-fastar-inte.md
 - [ ] barn-an-inte-skyldiga-att-fasta-men-de-kan-ombes-a.md
@@ -234,6 +248,7 @@
 - [ ] villkoren-for-att-ett-barns-fasta-skall-vara-korre.md
 
 ### Utan underkategori
+
 - [ ] _index.md
 - [ ] de-stora-fordelarna-med-att-fasta-och-att-forratta.md
 - [ ] giltigheten-i-fastan-for-den-som-bara-ber-under-ra.md

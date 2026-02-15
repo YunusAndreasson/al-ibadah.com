@@ -1,6 +1,7 @@
 ---
-import Header from './Header.astro'
+import ScrollToTop from '~/components/ui/ScrollToTop.astro'
 import Footer from './Footer.astro'
+import Header from './Header.astro'
 
 interface Props {
   largePadding?: boolean
@@ -9,7 +10,7 @@ interface Props {
 const { largePadding } = Astro.props
 ---
 
-<div class="min-h-screen flex flex-col">
+<div class="min-h-dvh flex flex-col">
   <Header />
   <main
     id="main"
@@ -21,4 +22,5 @@ const { largePadding } = Astro.props
     <slot />
   </main>
   <Footer />
+  <ScrollToTop />
 </div>

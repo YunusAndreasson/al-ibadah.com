@@ -1,0 +1,28 @@
+---
+import type { RelatedArticle } from '~/lib/related-articles'
+import { renderTitle } from '~/lib/render-title'
+
+interface Props {
+  articles: RelatedArticle[]
+}
+
+const { articles } = Astro.props
+---
+
+{articles.length > 0 && (
+  <section class="mt-16 max-w-[65ch]">
+    <h2 class="section-label mb-4">Relaterade artiklar</h2>
+    <div class="grid gap-3">
+      {articles.map((article, i) => (
+        <a
+          href={article.href}
+          class="card block animate-fade-up"
+          style={`animation-delay: ${(i + 1) * 40}ms`}
+        >
+          <h3 class="font-medium mb-1 text-foreground" set:html={renderTitle(article.title)} />
+          {article.author && <p class="text-sm text-muted-foreground">{article.author}</p>}
+        </a>
+      ))}
+    </div>
+  </section>
+)}

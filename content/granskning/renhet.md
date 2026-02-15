@@ -1,6 +1,7 @@
 # Granskning: renhet
 
 ## Status
+
 - Startdatum: 2026-01-18
 - Filer totalt: 148
 - Granskade: 0
@@ -8,6 +9,7 @@
 ## Filer
 
 ### blandade-utlatanden
+
 - [ ] akallan-utan-att-vara-rituellt-ren.md
 - [ ] blev-oren-under-resa-men-hittade-inget-vatten.md
 - [ ] endast-den-som-ar-ren-far-rora-koranen.md
@@ -34,6 +36,7 @@
 - [ ] vad-som-bryter-tvagningen.md
 
 ### blodning-efter-graviditeten
+
 - [ ] blodningen-efter-graviditeten-tar-slut-innan-40-da.md
 - [ ] bon-och-fasta-for-en-kvinna-som-blir-ren-innan-de-.md
 - [ ] ingen-definierad-kortaste-period-for-blodningar-ef.md
@@ -46,9 +49,10 @@
 - [ ] perioden-for-blodningar-efter-graviditeten.md
 
 ### ghusl
+
 - [ ] bad-nar-han-var-rituellt-oren-efter-samlag.md
 - [ ] bad-och-fick-det-sedan-klart-for-sig-att-han-egent.md
-- [ ] bad-under-fredagar-ar-en-hogst-rekommenderad-sunna.md
+- [ ] bad-under-fredagar-ar-en-hogst-rebefallad-sunna.md
 - [ ] brattom-att-goraghuslinnan-solen-gar-upp.md
 - [ ] erotiska-drommar-kommer-ihag-dem-i-efterhand.md
 - [ ] ghusl-aven-utan-orgasm.md
@@ -67,6 +71,7 @@
 - [ ] var-sexuellt-oren-men-gjorde-inte-ghusl.md
 
 ### manadsblodning
+
 - [ ] anvanda-tabletter-for-att-skjuta-upp-manadsblodnin.md
 - [ ] ata-mat-tillagad-av-en-kvinna-med-manadsblodning.md
 - [ ] besoker-en-byggnad-jamte-mosken-under-manadsblodni.md
@@ -98,6 +103,7 @@
 - [ ] trodde-att-hon-fatt-sin-manadsblodning-och-bad-int.md
 
 ### stryka-over-sockar
+
 - [ ] den-foreskrivna-tiden-for-att-stryka-over-sockarna.md
 - [ ] plaster-och-liknande.md
 - [ ] strumpor-som-har-hal-eller-ar-valdigt-tunna.md
@@ -116,6 +122,7 @@
 - [ ] villkor-for-att-stryka-over-sockar-och-om-det-ar-t.md
 
 ### tayammum
+
 - [ ] definition-av-jorden-som-man-gortayammumlmed.md
 - [ ] goratayammumlmot-en-matta.md
 - [ ] hittade-inte-vatten-efter-den-stora-rituella-orenh.md
@@ -124,6 +131,7 @@
 - [ ] tayammum-om-man-inte-kan-tvatta-en-del-av-kroppen.md
 
 ### tvagning
+
 - [ ] akallan-vid-tvagning.md
 - [ ] al-madhi-prostatavatska-kraver-inte-ghusl.md
 - [ ] bad-efter-att-ha-sovit-men-utan-att-ha-tvagat-sig.md
@@ -164,6 +172,7 @@
 - [ ] viskningar-fran-djavulen-om-tvagningen.md
 
 ### Utan underkategori
+
 - [ ] _index.md
 - [ ] beskrivning-av-hur-tvagningen-utfors.md
 - [ ] beskrivningen-av-ghusl.md

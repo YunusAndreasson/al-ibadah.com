@@ -8,8 +8,8 @@
 
 import fs from 'node:fs'
 import path from 'node:path'
-import { normalizeArabic } from '../src/lib/normalize-arabic.js'
 import { ARABIC_TERMS } from '../src/lib/content-utils.js'
+import { normalizeArabic } from '../src/lib/normalize-arabic.js'
 
 interface ValidationError {
   file: string
@@ -46,9 +46,7 @@ for (const cat of Object.values(glossary.categories) as any[]) {
 
 for (const [label, termValue] of Object.entries(ARABIC_TERMS)) {
   // Some entries use "x & y" — check each part
-  const parts = termValue.includes(' & ')
-    ? termValue.split(' & ')
-    : [termValue]
+  const parts = termValue.includes(' & ') ? termValue.split(' & ') : [termValue]
 
   for (const part of parts) {
     const norm = normalizeArabic(part)
@@ -119,8 +117,13 @@ function checkTitle(title: string, relativePath: string): void {
       const bnorm = normalizeArabic(before)
       if (SKIP_TITLE_NORMALIZED.has(bnorm)) continue
       const bcanonical = normalizedToCanonical.get(bnorm)
-      if (bcanonical && bcanonical !== before && bcanonical.toLowerCase() !== before.toLowerCase()) {
-        const isUpper = before[0] === before[0].toUpperCase() && before[0] !== before[0].toLowerCase()
+      if (
+        bcanonical &&
+        bcanonical !== before &&
+        bcanonical.toLowerCase() !== before.toLowerCase()
+      ) {
+        const isUpper =
+          before[0] === before[0].toUpperCase() && before[0] !== before[0].toLowerCase()
         const expected = isUpper
           ? bcanonical.replace(/\p{Letter}/u, (m) => m.toUpperCase())
           : bcanonical
@@ -167,6 +170,7 @@ for (const filePath of walkSync(CONTENT_DIR)) {
 
     let m: RegExpExecArray | null
     italicRegex.lastIndex = 0
+    // biome-ignore lint/suspicious/noAssignInExpressions: standard regex exec loop
     while ((m = italicRegex.exec(line)) !== null) {
       const italicText = m[1].trim()
       // Skip very short or very long — likely not Arabic terms
@@ -192,27 +196,27 @@ for (const filePath of walkSync(CONTENT_DIR)) {
 // Convention: ayn (ع) = ´ (U+00B4), hamza (ء) = ' (U+2019)
 // Terms with known ayn positions — if they contain hamza instead, flag it.
 
-const AYN = '\u00B4'   // ´
-const HAMZA = '\u2019'  // '
+const _AYN = '\u00B4' // ´
+const HAMZA = '\u2019' // '
 
 // Arabic roots where the ayn position is known
 const KNOWN_AYN_TERMS: Record<string, string> = {
-  'itikaf': 'i´tikāf — اعتكاف contains ع (ayn)',
-  'tabiin': 'tābi´īn — تابعين contains ع (ayn)',
-  'burqa': 'burqa´ — برقع contains ع (ayn)',
-  'wada': 'wadā´ — الوداع contains ع (ayn)',
-  'umrah': '´umrah — عمرة starts with ع (ayn)',
-  'aqidah': '´aqīdah — عقيدة starts with ع (ayn)',
-  'awrah': '´awrah — عورة starts with ع (ayn)',
-  'iddah': '´iddah — عدة starts with ع (ayn)',
-  'arsh': '´Ars̲h — عرش starts with ع (ayn)',
-  'uluww': '´uluww — علو starts with ع (ayn)',
-  'eid': '´eid — عيد starts with ع (ayn)',
-  'arafat': '´Arafāt — عرفات starts with ع (ayn)',
-  'sai': 'sa´ī — سعي contains ع (ayn)',
-  'bidah': 'bid´ah — بدعة contains ع (ayn)',
-  'khushu': 'k̲hus̲hū´ — خشوع ends with ع (ayn)',
-  'shaban': 's̲ha´bān — شعبان contains ع (ayn)',
+  itikaf: 'i´tikāf — اعتكاف contains ع (ayn)',
+  tabiin: 'tābi´īn — تابعين contains ع (ayn)',
+  burqa: 'burqa´ — برقع contains ع (ayn)',
+  wada: 'wadā´ — الوداع contains ع (ayn)',
+  umrah: '´umrah — عمرة starts with ع (ayn)',
+  aqidah: '´aqīdah — عقيدة starts with ع (ayn)',
+  awrah: '´awrah — عورة starts with ع (ayn)',
+  iddah: '´iddah — عدة starts with ع (ayn)',
+  arsh: '´Ars̲h — عرش starts with ع (ayn)',
+  uluww: '´uluww — علو starts with ع (ayn)',
+  eid: '´eid — عيد starts with ع (ayn)',
+  arafat: '´Arafāt — عرفات starts with ع (ayn)',
+  sai: 'sa´ī — سعي contains ع (ayn)',
+  bidah: 'bid´ah — بدعة contains ع (ayn)',
+  khushu: 'k̲hus̲hū´ — خشوع ends with ع (ayn)',
+  shaban: 's̲ha´bān — شعبان contains ع (ayn)',
 }
 
 for (const cat of Object.values(glossary.categories) as any[]) {

@@ -25,31 +25,31 @@ function cleanCategoryName(name: string): string {
  */
 export const ARABIC_TERMS: Record<string, string> = {
   // troslära
-  'Monoteism': 'tawḥīd',
-  'Avgudadyrkan': 's̲hirk',
-  'Innovationer': 'bid´ah',
-  'Gravlivet': 'barzak̲h',
-  'Trosbekännelsen': 's̲hahādah',
+  Monoteism: 'tawḥīd',
+  Avgudadyrkan: 's̲hirk',
+  Innovationer: 'bid´ah',
+  Gravlivet: 'barzak̲h',
+  Trosbekännelsen: 's̲hahādah',
   'Medel för åkallan': 'tawassul',
-  'Förutbestämmelsen': 'qadar',
+  Förutbestämmelsen: 'qadar',
   // renhet
   'Den stora tvagningen': 'g̲husl',
   'Tvagning utan vatten': 'tayammum',
-  'Tvagning': 'wuḍū\u2019',
-  'Månadsblödning': 'ḥayḍ',
-  'Efterblödning': 'nifās',
+  Tvagning: 'wuḍū\u2019',
+  Månadsblödning: 'ḥayḍ',
+  Efterblödning: 'nifās',
   'Strykning över strumpor': 'mas̲h',
   // bön
-  'Böneutrop': 'ad̲hān',
+  Böneutrop: 'ad̲hān',
   'Det andra böneutropet': 'iqāmah',
   'Koncentration i bönen': 'k̲hus̲hū´',
-  'Nattbön': 'qiyām al-layl',
+  Nattbön: 'qiyām al-layl',
   'Avskärmning i bönen': 'sutrah',
-  'Begravningsbön': 'ṣalāt al-janāzah',
-  'Fredagsbönen': 'ṣalāt al-jumu´ah',
+  Begravningsbön: 'ṣalāt al-janāzah',
+  Fredagsbönen: 'ṣalāt al-jumu´ah',
   'Eid-bönen': 'ṣalāt al-´īd',
   // allmosa
-  'Fasteallmosa': 'zakātul-fiṭr',
+  Fasteallmosa: 'zakātul-fiṭr',
   // fasta
   'Allmaktens Natt': 'laylat al-qadr',
   'Ramadanens nattbön': 'tarāwīḥ',
@@ -57,20 +57,25 @@ export const ARABIC_TERMS: Record<string, string> = {
   'Vallfärdens stationer': 'mawāqīt',
   'Rundvandring och löpning': 'ṭawāf & sa´ī',
   'Förbud i helgtillståndet': 'iḥrām',
-  'Pilgrimskläder': 'iḥrām',
+  Pilgrimskläder: 'iḥrām',
   'Helgtillståndet och avsikten': 'iḥrām',
   'Mindre vallfärd': '´umrah',
-  'Högtidsoffret': 'uḍḥiyah',
+  Högtidsoffret: 'uḍḥiyah',
 }
 
 export const CATEGORY_DESCRIPTIONS: Record<string, string> = {
-  troslara: 'Utlåtanden och svar om islamisk troslära, monoteism, avgudadyrkan, innovationer och trosbekännelsen.',
-  renhet: 'Utlåtanden och svar om rituell renhet, tvagning, den stora tvagningen (ghusl), tayammum och månadsblödning.',
+  troslara:
+    'Utlåtanden och svar om islamisk troslära, monoteism, avgudadyrkan, innovationer och trosbekännelsen.',
+  renhet:
+    'Utlåtanden och svar om rituell renhet, tvagning, den stora tvagningen (ghusl), tayammum och månadsblödning.',
   bon: 'Utlåtanden och svar om den islamiska bönen, böneutrop, fredagsbönen, nattbönen och begravningsbönen.',
   allmosa: 'Utlåtanden och svar om allmosan (zakāt), fasteallmosan (zakātul-fiṭr) och välgörenhet.',
-  fasta: 'Utlåtanden och svar om fastan under Ramadan, frivillig fasta, resenärens fasta och Allmaktens Natt.',
-  vallfard: 'Utlåtanden och svar om vallfärden (ḥajj), den mindre vallfärden (´umrah) och högtidsoffret.',
-  blandat: 'Utlåtanden och svar om blandade ämnen som åkallan, äktenskap, ekonomi, klädsel och ånger.',
+  fasta:
+    'Utlåtanden och svar om fastan under Ramadan, frivillig fasta, resenärens fasta och Allmaktens Natt.',
+  vallfard:
+    'Utlåtanden och svar om vallfärden (ḥajj), den mindre vallfärden (´umrah) och högtidsoffret.',
+  blandat:
+    'Utlåtanden och svar om blandade ämnen som åkallan, äktenskap, ekonomi, klädsel och ånger.',
   biografier: 'Biografier om framstående islamiska lärda.',
 }
 

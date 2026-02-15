@@ -1,35 +1,40 @@
 ---
-import { getCollection, render } from 'astro:content'
-import BaseLayout from '~/layouts/BaseLayout.astro'
-import PageLayout from '~/components/layout/PageLayout.astro'
-import Breadcrumbs from '~/components/layout/Breadcrumbs.astro'
+import { type CollectionEntry, getCollection, render } from 'astro:content'
 import ArticleRenderer from '~/components/content/ArticleRenderer.astro'
+import Breadcrumbs from '~/components/layout/Breadcrumbs.astro'
+import PageLayout from '~/components/layout/PageLayout.astro'
+import BaseLayout from '~/layouts/BaseLayout.astro'
 import { CATEGORY_NAMES } from '~/lib/content-utils'
+import { getRelatedArticles, type RelatedArticle } from '~/lib/related-articles'
 import {
+  buildArticleSchema,
   buildBreadcrumbSchema,
   buildFAQPageSchema,
-  buildArticleSchema,
   extractQA,
 } from '~/lib/structured-data'
 
 export async function getStaticPaths() {
-  const articles = await getCollection('articles')
-  return articles
-    .filter((a) => a.id.split('/').length === 2)
-    .map((article) => {
-      const [category, slug] = article.id.split('/')
-      return {
-        params: { category, slug },
-        props: { article },
-      }
-    })
+  const articles: CollectionEntry<'articles'>[] = await getCollection('articles')
+  const categoryArticles = articles.filter((a) => a.id.split('/').length === 2)
+  return categoryArticles.map((article) => {
+    const [category, slug] = article.id.split('/')
+    return {
+      params: { category, slug },
+      props: { article, relatedArticles: getRelatedArticles(article.id, articles) },
+    }
+  })
 }
 
-const { category } = Astro.params
-const { article } = Astro.props
+interface Props {
+  article: CollectionEntry<'articles'>
+  relatedArticles: RelatedArticle[]
+}
+
+const { category, slug } = Astro.params
+const { article, relatedArticles } = Astro.props
 const { Content } = await render(article)
 const categoryName = CATEGORY_NAMES[category!] || category
-const pageUrl = `/${category}/${Astro.params.slug}`
+const pageUrl = `/${category}/${slug}`
 const breadcrumbItems = [
   { label: 'Hem', href: '/' },
   { label: categoryName!, href: `/${category}` },
@@ -73,6 +78,8 @@ const jsonLd = [buildBreadcrumbSchema(breadcrumbItems), articleSchema]
       title={article.data.title}
       author={article.data.author}
       source={article.data.source}
+      category={categoryName}
+      relatedArticles={relatedArticles}
     >
       <Content />
     </ArticleRenderer>

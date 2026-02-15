@@ -1,7 +1,7 @@
 ---
-import { ThemeToggle } from '~/components/ui/ThemeToggle'
-import { SearchIsland } from '~/components/ui/SearchIsland'
 import { MobileMenu } from '~/components/ui/MobileMenu'
+import { SearchIsland } from '~/components/ui/SearchIsland'
+import { ThemeToggle } from '~/components/ui/ThemeToggle'
 
 const navLinks = [
   { href: '/troslara', label: 'Troslära' },
@@ -20,8 +20,8 @@ const currentPath = Astro.url.pathname
   Hoppa till huvudinnehåll
 </a>
 
-<header>
-  <div class="max-w-3xl mx-auto px-4 h-14 flex items-center justify-between">
+<header class="sticky top-0 z-30 bg-background/80 backdrop-blur-lg border-b border-border/50">
+  <div class="max-w-3xl mx-auto px-4 h-14 flex items-center justify-between safe-x">
     <a href="/" class="font-semibold tracking-tight text-foreground">
       al-Ibadah
     </a>

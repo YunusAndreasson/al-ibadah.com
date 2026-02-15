@@ -1,19 +1,22 @@
 ---
 import { getCollection } from 'astro:content'
-import BaseLayout from '~/layouts/BaseLayout.astro'
-import PageLayout from '~/components/layout/PageLayout.astro'
 import Breadcrumbs from '~/components/layout/Breadcrumbs.astro'
-import { CATEGORY_NAMES, CATEGORY_DESCRIPTIONS, deriveSubcategoryName } from '~/lib/content-utils'
+import PageLayout from '~/components/layout/PageLayout.astro'
 import SubcategoryName from '~/components/ui/SubcategoryName.astro'
+import BaseLayout from '~/layouts/BaseLayout.astro'
+import { CATEGORY_DESCRIPTIONS, CATEGORY_NAMES, deriveSubcategoryName } from '~/lib/content-utils'
 import { buildBreadcrumbSchema, buildCollectionPageSchema } from '~/lib/structured-data'
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles')
 
   // Get unique categories
-  const categoryMap = new Map<string, {
-    subcategories: Map<string, { name: string; articleCount: number }>
-  }>()
+  const categoryMap = new Map<
+    string,
+    {
+      subcategories: Map<string, { name: string; articleCount: number }>
+    }
+  >()
 
   for (const article of articles) {
     const segments = article.id.split('/')
@@ -50,7 +53,10 @@ export async function getStaticPaths() {
 const { category } = Astro.params
 const { categoryName, subcategories } = Astro.props
 const categoryDescription = CATEGORY_DESCRIPTIONS[category!]
-const totalArticles = subcategories.reduce((sum: number, s: { articleCount: number }) => sum + s.articleCount, 0)
+const totalArticles = subcategories.reduce(
+  (sum: number, s: { articleCount: number }) => sum + s.articleCount,
+  0
+)
 const breadcrumbItems = [
   { label: 'Hem', href: '/' },
   { label: categoryName, href: `/${category}` },
@@ -70,14 +76,15 @@ const jsonLd = [
   <PageLayout>
     <Breadcrumbs items={[{ label: 'Hem', href: '/' }]} />
 
-    <h1 class="page-title mb-8 mt-8">{categoryName}</h1>
+    <h1 class="page-title mb-8 mt-8 animate-fade-up">{categoryName}</h1>
 
     {subcategories.length > 0 ? (
       <div class="grid gap-3">
-        {subcategories.map((sub: { slug: string; name: string; articleCount: number }) => (
+        {subcategories.map((sub: { slug: string; name: string; articleCount: number }, i: number) => (
           <a
             href={`/${category}/${sub.slug}`}
-            class="card flex items-center justify-between"
+            class="card flex items-center justify-between animate-fade-up"
+            style={`animation-delay: ${(i + 1) * 40}ms`}
           >
             <SubcategoryName name={sub.name} />
             <span class="text-sm text-muted-foreground">{sub.articleCount}</span>

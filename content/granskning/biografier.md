@@ -1,6 +1,7 @@
 # Granskning: biografier
 
 ## Status
+
 - Startdatum: 2026-01-18
 - Filer totalt: 4
 - Granskade: 4 (redan klart enligt plan)

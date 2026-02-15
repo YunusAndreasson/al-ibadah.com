@@ -1,6 +1,7 @@
 # Granskning: vallfard
 
 ## Status
+
 - Startdatum: 2026-01-18
 - Filer totalt: 284
 - Granskade: 0
@@ -8,11 +9,13 @@
 ## Filer
 
 ### adha-offret
+
 - [ ] en-kvinna-kan-slakta-adhha-djuret-sjalv-om-det-beh.md
 - [ ] ge-en-del-av-kottet-i-present-fran-adhha-offret-ti.md
 - [ ] rakade-sitt-har-innan-eid-nar-han-avsag-att-gora-a.md
 
 ### al-mawaqit
+
 - [ ] aker-till-mecka-i-annat-syfte-an-att-utfora-vallfa.md
 - [ ] den-som-befinner-sig-inom-granserna-for-mawaqit-ga.md
 - [ ] fel-som-begas-nar-man-gar-in-iihramfor-pilgrimsfar.md
@@ -30,14 +33,17 @@
 - [ ] trada-in-iihrami-jiddah-for-den-som-kommer-med-fly.md
 
 ### barnets-vallfard
+
 - [ ] barn-som-kommer-in-i-puberteten-under-vallfarden.md
 - [ ] trada-in-iihrammed-ett-barn.md
 
 ### besok-i-profetens-over-honom-vare-allahs-frid-och-valsignelser-moske
+
 - [ ] besoket-i-medina-har-ingen-sammankoppling-med-umra.md
 - [ ] resa-for-att-besoka-profetens-over-honom-vare-alla.md
 
 ### blandade-utlatanden
+
 - [ ] anledningen-till-att-kabah-kallas-for-allahs-hus.md
 - [ ] ar-rafth-al-fusuq-och-al-jidal-under-vallfarden.md
 - [ ] den-svarta-stenens-ursprung-2.md
@@ -53,10 +59,12 @@
 - [ ] villkoren-for-vallfarden.md
 
 ### de-som-overger-bonen
+
 - [ ] dor-utan-att-ha-bett-vallfarda-inte-for-den-person.md
 - [ ] giltighet-i-vallfarden-for-den-som-har-overgett-bo.md
 
 ### forbjudna-saker-under-ihram
+
 - [ ] avlagsnade-i-glomska-lite-har-efter-att-ha-tratt-i.md
 - [ ] delar-av-ogonlocken-som-faller-av.md
 - [ ] gottgorelser-efter-misstag-i-ihram.md
@@ -73,19 +81,23 @@
 - [ ] vat-drom-under-vallfarden-gor-den-inte-ogiltig.md
 
 ### frivillig-vallfard
+
 - [ ] frivillig-vallfard-eller-ge-pengar-till-mujahidin.md
 - [ ] vallfarda-en-andra-gang-eller-ge-till-valgorenhet.md
 
 ### gottgorelser
+
 - [ ] forsoningsoffret-for-att-gora-en-forbjuden-handlin.md
 - [ ] hugger-ned-ett-trad-i-helgedomen.md
 
 ### hindras-i-sin-vallfard-ellerumrah
+
 - [ ] gick-in-iihramfor-vallfarden-men-hindrades-sedan-f.md
 - [ ] gick-in-iihramsedan-intraffade-nagot.md
 - [ ] slaktade-sitt-djur-och-lamnade-det-sedan.md
 
 ### ihram-och-avsikten-infor-vallfarden
+
 - [ ] anledningen-till-att-man-kan-borja-avlagsnandet-av.md
 - [ ] bada-innan-man-gar-in-iihramar-battre.md
 - [ ] bara-en-rem-eller-ett-balte.md
@@ -115,6 +127,7 @@
 - [ ] var-okunnig-och-gick-in-iihrammed-underklader.md
 
 ### kladerna-under-ihram
+
 - [ ] bar-sandaler-eller-sockar-i-ihram.md
 - [ ] byta-ihram-kladerna-for-att-tvatta-dem.md
 - [ ] byta-kladesplaggen-for-ihram.md
@@ -128,6 +141,7 @@
 - [ ] vad-en-muhrim-maste-undvika.md
 
 ### kvinna-med-manadsblodning-eller-blodning-efter-graviditeten
+
 - [ ] far-manadsblodning-fore-tawaful-ifadhah.md
 - [ ] far-manadsblodning-innan-tawaful-ifadhah-och-har-i.md
 - [ ] fick-sin-manadsblodning-innan-umrah-och-kunde-inte.md
@@ -142,6 +156,7 @@
 - [ ] vad-en-kvinna-med-manadsblodning-gor-efter-att-ha-.md
 
 ### kvinnans-vallfard
+
 - [ ] betala-for-och-folja-med-frun-som-inte-har-gjort-d.md
 - [ ] kvinnan-vill-vallfarda-men-mannen-hindrar-henne.md
 - [ ] kvinnor-gar-in-iihrami-vilka-klader-de-vill.md
@@ -153,6 +168,7 @@
 - [ ] vallfard-utan-makens-tillstand.md
 
 ### mojlighet-att-vallfarda
+
 - [ ] anstalld-som-vallfardar-utan-arbetsgivarens-tillst.md
 - [ ] formagan-att-kunna-vallfarda-2.md
 - [ ] formagan-att-kunna-vallfarda.md
@@ -167,6 +183,7 @@
 - [ ] vallfard-ar-obligatoriskt-aven-i-sallskap-med-inno.md
 
 ### natten-i-mina
+
 - [ ] begav-sig-skyndsamt-av-fran-mina-den-tolfte-dagen.md
 - [ ] det-ar-battre-att-stanna-i-mina-hela-natten.md
 - [ ] kan-pa-grund-av-arbetet-inte-spendera-natten-i-min.md
@@ -176,6 +193,7 @@
 - [ ] utfor-i-okunnighet-en-forbjuden-handling.md
 
 ### natten-i-muzdalifah
+
 - [ ] akalla-i-muzdalifah-och-tiden-nar-man-ger-sig-av.md
 - [ ] bad-kvallsbonen-och-nattbonen-isha-fore-muzdalifah.md
 - [ ] begav-sig-fran-muzdalifah-11-40-och-kastade-stenar.md
@@ -187,6 +205,7 @@
 - [ ] uppeholl-sig-vid-namirah-men-trodde-att-det-var-mu.md
 
 ### offerdjuret
+
 - [ ] bestammelser-kring-skyldigheten-att-offra-ett-djur.md
 - [ ] da-tiden-for-slakt-av-offerdjur-for-hajjul-tamattu.md
 - [ ] gick-inihramfor-umrah-men-avbrot-sedan-sin-ihram.md
@@ -195,6 +214,7 @@
 - [ ] slaktade-sitt-offerdjur-utanfor-helgedomen.md
 
 ### raka-huvudet-och-klippa-haret
+
 - [ ] fel-som-begas-da-haret-klipps-eller-huvudet-rakas.md
 - [ ] glomde-att-raka-huvudet-eller-klippa-haret.md
 - [ ] klipper-inte-haret-eller-rakar-inte-huvudet-pa-gru.md
@@ -205,6 +225,7 @@
 - [ ] utforde-alla-riter-men-glomde-bort-att-klippa-hare.md
 
 ### riterna-under-vallfarden
+
 - [ ] andra-form-av-vallfard-fran-hajjul-qiran-till-hajj.md
 - [ ] avser-hajjul-tamattu-och-gor-sedan-talbiyyah-for-e.md
 - [ ] den-som-utfor-umrah-innan-manaderna-for-vallfarden.md
@@ -220,6 +241,7 @@
 - [ ] vallfardar-som-en-mutamatti-och-efter-umrah-ger-en.md
 
 ### skulder
+
 - [ ] har-en-skuld-och-vill-vallfarda.md
 - [ ] innehade-stulna-pengar-och-vallfardade-for-dem.md
 - [ ] lana-pengar-for-att-vallfarda.md
@@ -229,6 +251,7 @@
 - [ ] vallfard-innan-ett-lan-har-betalats-tillbaka.md
 
 ### sta-vid-arafat
+
 - [ ] begav-sig-fran-arafat-innan-solnedgangen.md
 - [ ] fornamsta-dagen-under-pilgrimsfarden.md
 - [ ] gemensam-akallan-vid-arafat-och-under-andra-tillfa.md
@@ -240,6 +263,7 @@
 - [ ] utfora-tawaful-ifadhah-innan-stenarna-kastas-pa-pe.md
 
 ### stenkastningen
+
 - [ ] eid-dagen-ar-inte-en-av-at-ayyam-at-tashriq.md
 - [ ] har-mojlighet-att-kasta-sten-pa-pelarna-men-utser-.md
 - [ ] inte-tillatet-att-kasta-stenarna-innan-middag.md
@@ -255,6 +279,7 @@
 - [ ] tiden-for-att-kasta-stenarna-pa-pelaren-al-aqabah-.md
 
 ### tawaf-och-sai
+
 - [ ] avled-innan-han-utfort-tawaful-ifadhah.md
 - [ ] betala-en-muta-for-att-fa-kyssa-den-svarta-stenen.md
 - [ ] bonen-borjade-nar-han-gjorde-tawaf.md
@@ -301,12 +326,14 @@
 - [ ] villkoret-att-vara-ren-under-tawaf-och-sai.md
 
 ### umrah
+
 - [ ] ga-urihraminnan-man-klipper-haret.md
 - [ ] gjorde-umrah-men-slutford-inte-sai.md
 - [ ] raka-huvudet-och-klippa-haret-infor-umrah.md
 - [ ] umrah-utford-med-ens-frus-tillgangar.md
 
 ### utse-nagon-annan-som-vallfardar
+
 - [ ] beloningen-for-den-som-vallfardar-for-nagon-annan.md
 - [ ] nyfott-barn-med-sig-vid-stenkastningen-pa-pelarna.md
 - [ ] person-som-har-mojlighet-utser-nagon-annan-till-at.md
@@ -322,6 +349,7 @@
 - [ ] vem-man-skall-borja-med-om-man-utsetts-till-att-ka.md
 
 ### vallfarda-for-nagon-annan
+
 - [ ] andra-avsikten-under-vallfarden.md
 - [ ] avled-utan-att-ha-vallfardat-efter-att-ha-kommit-i.md
 - [ ] avled-utan-att-ha-vallfardat-och-lamnade-inget-tes.md
@@ -341,6 +369,7 @@
 - [ ] vet-inte-om-avlidna-far-och-morforalder-har-vallfa.md
 
 ### Utan underkategori
+
 - [ ] _index.md
 - [ ] ett-rad-till-dem-som-vill-vallfarda.md
 - [ ] skjuta-upp-pilgrimsfarden-utan-anledning.md

@@ -6,9 +6,7 @@
       "terms": [
         {
           "canonical": "al-Buk̲hārī",
-          "variants": [
-            "Buk̲hārī"
-          ]
+          "variants": ["Buk̲hārī"]
         },
         {
           "canonical": "Muslim",
@@ -20,17 +18,11 @@
         },
         {
           "canonical": "at-Tirmid̲hī",
-          "variants": [
-            "Tirmit̲hī",
-            "Tirmid̲hī",
-            "al-Tirmit̲hī"
-          ]
+          "variants": ["Tirmit̲hī", "Tirmid̲hī", "al-Tirmit̲hī"]
         },
         {
           "canonical": "an-Nasā’ī",
-          "variants": [
-            "Nasā’ī"
-          ]
+          "variants": ["Nasā’ī"]
         },
         {
           "canonical": "Ibn Mājah",
@@ -38,9 +30,7 @@
         },
         {
           "canonical": "Aḥmad",
-          "variants": [
-            "Imām Aḥmad"
-          ]
+          "variants": ["Imām Aḥmad"]
         },
         {
           "canonical": "al-Ḥākim",
@@ -48,9 +38,7 @@
         },
         {
           "canonical": "ad-Dāraquṭnī",
-          "variants": [
-            "Dāraquṭnī"
-          ]
+          "variants": ["Dāraquṭnī"]
         },
         {
           "canonical": "Ibn K̲huzaymah",
@@ -62,9 +50,7 @@
         },
         {
           "canonical": "aṭ-Ṭabarānī",
-          "variants": [
-            "Ṭabarānī"
-          ]
+          "variants": ["Ṭabarānī"]
         }
       ]
     },
@@ -85,9 +71,7 @@
         },
         {
           "canonical": "aṣ-Ṣaḥīḥayn",
-          "variants": [
-            "al-Ṣaḥīḥayn"
-          ]
+          "variants": ["al-Ṣaḥīḥayn"]
         },
         {
           "canonical": "Sunan",
@@ -113,9 +97,7 @@
         },
         {
           "canonical": "Zādul-Ma´ād",
-          "variants": [
-            "Zād ul-Ma´ād"
-          ]
+          "variants": ["Zād ul-Ma´ād"]
         },
         {
           "canonical": "al-Silsilah aṣ-Ṣaḥīḥah",
@@ -132,18 +114,12 @@
       "terms": [
         {
           "canonical": "sunnah",
-          "variants": [
-            "sunnahs"
-          ],
+          "variants": ["sunnahs"],
           "definition": "Väg eller sätt. Hur profeten – över honom vare Allāhs frid och välsignelser – levde. Sunnan tjänar som en förklaring av Koranen."
         },
         {
           "canonical": "ḥadīt̲h",
-          "variants": [
-            "ḥadīt̲hen",
-            "ḥadīt̲her",
-            "ḥadīt̲herna"
-          ],
+          "variants": ["ḥadīt̲hen", "ḥadīt̲her", "ḥadīt̲herna"],
           "definition": "Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen."
         },
         {
@@ -272,9 +248,7 @@
         },
         {
           "canonical": "djihād",
-          "variants": [
-            "jihād"
-          ],
+          "variants": ["jihād"],
           "definition": "Att kämpa och sträva för Allāhs sak."
         },
         {
@@ -284,9 +258,7 @@
         },
         {
           "canonical": "mutas̲hābih",
-          "variants": [
-            "mutas̲hābihāt"
-          ],
+          "variants": ["mutas̲hābihāt"],
           "definition": "Koranverser som är tvetydiga eller inte entydiga, i motsats till muhkam."
         },
         {
@@ -308,16 +280,12 @@
         },
         {
           "canonical": "al-Fātiḥah",
-          "variants": [
-            "Fātiḥah"
-          ],
+          "variants": ["Fātiḥah"],
           "definition": "Koranens första och mest lästa kapitel."
         },
         {
           "canonical": "Dajjāl",
-          "variants": [
-            "ad-Dajjāl"
-          ],
+          "variants": ["ad-Dajjāl"],
           "definition": "Den falske messias som kommer att framträda före den yttersta dagen."
         },
         {
@@ -401,10 +369,7 @@
         },
         {
           "canonical": "sujūd at-tilāwah",
-          "variants": [
-            "sujūd al-tilāwah",
-            "sajdatut-tilāwah"
-          ],
+          "variants": ["sujūd al-tilāwah", "sajdatut-tilāwah"],
           "definition": "Nedfallan som görs vid läsning av vissa Koran-verser."
         },
         {
@@ -547,9 +512,7 @@
         },
         {
           "canonical": "saḥūr",
-          "variants": [
-            "suḥūr"
-          ],
+          "variants": ["suḥūr"],
           "definition": "Måltiden som äts innan gryningen för att förbereda sig för fastan."
         },
         {
@@ -568,15 +531,11 @@
         },
         {
           "canonical": "´eid al-aḍḥā",
-          "variants": [
-            "´eidul-aḍḥā"
-          ]
+          "variants": ["´eidul-aḍḥā"]
         },
         {
           "canonical": "´eid al-fiṭr",
-          "variants": [
-            "´eidul-fiṭr"
-          ],
+          "variants": ["´eidul-fiṭr"],
           "definition": "Fastebrytandets högtid som infaller efter ramadan."
         },
         {
@@ -601,17 +560,12 @@
         },
         {
           "canonical": "ṭawāf ul-wadā´",
-          "variants": [
-            "ṭawāful-wadā´"
-          ],
+          "variants": ["ṭawāful-wadā´"],
           "definition": "Rundvandringen runt Ka'bah före avfärden från Mecka."
         },
         {
           "canonical": "ṭawāf ul-ifāḍah",
-          "variants": [
-            "ṭawāf ul-ifād̲hah",
-            "ṭawāful-ifāḍah"
-          ]
+          "variants": ["ṭawāf ul-ifād̲hah", "ṭawāful-ifāḍah"]
         },
         {
           "canonical": "ṭawāf uz-ziyārah",
@@ -697,11 +651,7 @@
         },
         {
           "canonical": "tas̲hrīq",
-          "variants": [
-            "at-tas̲hrīq",
-            "at-ayyām at-tas̲hrīq",
-            "ayyām at-tas̲hrīq"
-          ],
+          "variants": ["at-tas̲hrīq", "at-ayyām at-tas̲hrīq", "ayyām at-tas̲hrīq"],
           "definition": "De tre dagarna efter ´eid al-aḍḥā."
         },
         {
@@ -877,15 +827,11 @@
         },
         {
           "canonical": "al-Ḥamdu Lillāh",
-          "variants": [
-            "al-ḥamdulillāh"
-          ]
+          "variants": ["al-ḥamdulillāh"]
         },
         {
           "canonical": "Subḥān Allāh",
-          "variants": [
-            "Subḥan-Allāh"
-          ]
+          "variants": ["Subḥan-Allāh"]
         },
         {
           "canonical": "salām",
@@ -904,9 +850,7 @@
       "terms": [
         {
           "canonical": "s̲hayk̲h ul-islām",
-          "variants": [
-            "s̲hayk̲h al-islām"
-          ],
+          "variants": ["s̲hayk̲h al-islām"],
           "definition": "En hederstitel som givits till vissa lärde."
         },
         {
@@ -953,9 +897,7 @@
         },
         {
           "canonical": "zaydī",
-          "variants": [
-            "zaidī"
-          ]
+          "variants": ["zaidī"]
         },
         {
           "canonical": "It̲hnā ´As̲hriyyah",
@@ -1006,86 +948,57 @@
       "terms": [
         {
           "canonical": "åkallan",
-          "variants": [
-            "åkallar"
-          ],
+          "variants": ["åkallar"],
           "definition": "du’ā"
         },
         {
           "canonical": "bönecykel",
-          "variants": [
-            "bönecykeln",
-            "bönecykler",
-            "bönecyklerna"
-          ],
+          "variants": ["bönecykeln", "bönecykler", "bönecyklerna"],
           "definition": "rak’ah"
         },
         {
           "canonical": "bugning",
-          "variants": [
-            "bugningen",
-            "bugar"
-          ],
+          "variants": ["bugningen", "bugar"],
           "definition": "rukū’"
         },
         {
           "canonical": "nedfallan",
-          "variants": [
-            "nedfallandet",
-            "nedfallanden",
-            "nedfaller",
-            "nedfalla",
-            "nedföll"
-          ],
+          "variants": ["nedfallandet", "nedfallanden", "nedfaller", "nedfalla", "nedföll"],
           "definition": "sujūd"
         },
         {
           "canonical": "tvagning",
-          "variants": [
-            "tvagningen"
-          ],
+          "variants": ["tvagningen"],
           "definition": "wudū’"
         },
         {
           "canonical": "åminnelse",
-          "variants": [
-            "åminnelser"
-          ],
+          "variants": ["åminnelser"],
           "definition": "dhikr"
         },
         {
           "canonical": "gryningsbön",
-          "variants": [
-            "gryningsbönen"
-          ],
+          "variants": ["gryningsbönen"],
           "definition": "fajr"
         },
         {
           "canonical": "middagsbön",
-          "variants": [
-            "middagsbönen"
-          ],
+          "variants": ["middagsbönen"],
           "definition": "dhuhr"
         },
         {
           "canonical": "eftermiddagsbön",
-          "variants": [
-            "eftermiddagsbönen"
-          ],
+          "variants": ["eftermiddagsbönen"],
           "definition": "’asr"
         },
         {
           "canonical": "kvällsbön",
-          "variants": [
-            "kvällsbönen"
-          ],
+          "variants": ["kvällsbönen"],
           "definition": "maghrib"
         },
         {
           "canonical": "nattbön",
-          "variants": [
-            "nattbönen"
-          ],
+          "variants": ["nattbönen"],
           "definition": "’ishā’"
         }
       ]

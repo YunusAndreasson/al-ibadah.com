@@ -1,24 +1,27 @@
 ---
 import { getCollection } from 'astro:content'
-import BaseLayout from '~/layouts/BaseLayout.astro'
-import PageLayout from '~/components/layout/PageLayout.astro'
 import Breadcrumbs from '~/components/layout/Breadcrumbs.astro'
+import PageLayout from '~/components/layout/PageLayout.astro'
+import SubcategoryName from '~/components/ui/SubcategoryName.astro'
+import BaseLayout from '~/layouts/BaseLayout.astro'
 import { CATEGORY_NAMES, deriveSubcategoryName } from '~/lib/content-utils'
 import { renderTitle } from '~/lib/render-title'
-import SubcategoryName from '~/components/ui/SubcategoryName.astro'
 import { buildBreadcrumbSchema, buildCollectionPageSchema } from '~/lib/structured-data'
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles')
 
   // Group articles by category/subcategory
-  const subcategoryMap = new Map<string, {
-    category: string
-    subcategory: string
-    categoryName: string
-    subcategoryName: string
-    articles: Array<{ slug: string; title: string; author?: string }>
-  }>()
+  const subcategoryMap = new Map<
+    string,
+    {
+      category: string
+      subcategory: string
+      categoryName: string
+      subcategoryName: string
+      articles: Array<{ slug: string; title: string; author?: string }>
+    }
+  >()
 
   for (const article of articles) {
     const segments = article.id.split('/')
@@ -86,10 +89,11 @@ const jsonLd = [
 
     {articles.length > 0 ? (
       <div class="grid gap-3">
-        {articles.map((article: { slug: string; title: string; author?: string }) => (
+        {articles.map((article: { slug: string; title: string; author?: string }, i: number) => (
           <a
             href={`/${category}/${subcategory}/${article.slug}`}
-            class="card block"
+            class="card block animate-fade-up"
+            style={`animation-delay: ${(i + 1) * 40}ms`}
           >
             <h2 class="font-medium mb-1 text-foreground" set:html={renderTitle(article.title)} />
             {article.author && <p class="text-sm text-muted-foreground">{article.author}</p>}

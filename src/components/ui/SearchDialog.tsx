@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'preact/hooks'
 import { SearchIcon } from '~/components/ui/icons'
 
 interface SearchItem {
@@ -35,9 +35,7 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
     const q = query.toLowerCase()
     return searchIndex
       .filter(
-        (item) =>
-          item.title.toLowerCase().includes(q) ||
-          (item.arabicTerm && item.arabicTerm.toLowerCase().includes(q)),
+        (item) => item.title.toLowerCase().includes(q) || item.arabicTerm?.toLowerCase().includes(q)
       )
       .slice(0, 10)
   }, [query, searchIndex])
@@ -61,7 +59,7 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
     }
   }, [open])
 
-  function handleKeyDown(e: React.KeyboardEvent) {
+  function handleKeyDown(e: KeyboardEvent) {
     if (e.key === 'Escape') {
       onClose()
     } else if (e.key === 'ArrowDown') {
@@ -79,9 +77,11 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
   function navigateTo(path: string) {
     onClose()
     // Use Astro's navigate for view-transition-aware navigation
-    import('astro:transitions/client').then(({ navigate }) => navigate(path)).catch(() => {
-      window.location.href = path
-    })
+    import('astro:transitions/client')
+      .then(({ navigate }) => navigate(path))
+      .catch(() => {
+        window.location.href = path
+      })
   }
 
   function handleSelect(item: SearchItem) {
@@ -102,7 +102,7 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
     >
       <div className="fixed inset-0 bg-foreground/60 animate-dialog-overlay" aria-hidden="true" />
 
-      <div className="min-h-full flex items-start justify-center p-4 pt-20 sm:pt-24">
+      <div className="min-h-dvh flex items-start justify-center p-4 pt-16 sm:pt-24">
         <div
           className="relative w-full max-w-lg bg-background rounded-lg shadow-2xl overflow-hidden animate-dialog-content"
           onClick={(e) => e.stopPropagation()}
@@ -113,7 +113,7 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
               ref={inputRef}
               type="text"
               value={query}
-              onChange={(e) => setQuery(e.target.value)}
+              onChange={(e) => setQuery(e.currentTarget.value)}
               onKeyDown={handleKeyDown}
               placeholder="Sök artiklar..."
               className="flex-1 bg-transparent text-base text-foreground outline-none placeholder:text-muted-foreground"

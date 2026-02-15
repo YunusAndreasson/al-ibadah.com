@@ -32,7 +32,7 @@ const ogImageURL = new URL('/og-image.png', Astro.site)
 <html lang="sv">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <title>{title}</title>
     <meta name="description" content={description} />
 
@@ -41,8 +41,8 @@ const ogImageURL = new URL('/og-image.png', Astro.site)
     <link rel="alternate" type="application/rss+xml" title="al-Ibadah" href="/rss.xml" />
     <link rel="sitemap" href="/sitemap-index.xml" />
 
-    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
-    <meta name="theme-color" content="#0a0a0a" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#f9f4ee" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#1c1410" media="(prefers-color-scheme: dark)" />
 
     {author && <meta name="author" content={author} />}
     {author && <meta property="article:author" content={author} />}

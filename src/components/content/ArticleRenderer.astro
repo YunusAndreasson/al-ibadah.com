@@ -1,14 +1,19 @@
 ---
+import RelatedArticles from '~/components/content/RelatedArticles.astro'
+import { CopyButton } from '~/components/ui/CopyButton'
 import { ShareButton } from '~/components/ui/ShareButton'
+import type { RelatedArticle } from '~/lib/related-articles'
 import { renderTitle } from '~/lib/render-title'
 
 interface Props {
   title: string
   author?: string
   source?: string
+  category?: string
+  relatedArticles?: RelatedArticle[]
 }
 
-const { title, author, source } = Astro.props
+const { title, author, source, category, relatedArticles = [] } = Astro.props
 ---
 
 <article class="mt-8 max-w-[65ch]">
@@ -21,12 +26,17 @@ const { title, author, source } = Astro.props
         {source && <p class="text-xs text-subtle-foreground">{source}</p>}
       </div>
     )}
-    <ShareButton title={title} client:idle />
+    <div class="flex items-center gap-4">
+      <ShareButton title={title} client:idle />
+      <CopyButton title={title} category={category} author={author} source={source} client:idle />
+    </div>
   </header>
 
   <div class="prose-reading">
     <slot />
   </div>
+
+  <RelatedArticles articles={relatedArticles} />
 </article>
 
 <script>

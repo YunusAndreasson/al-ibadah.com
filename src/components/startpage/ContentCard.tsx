@@ -8,8 +8,7 @@ interface ContentCardProps {
 
 export function ContentCard({ article, featured }: ContentCardProps) {
   const description = featured
-    ? article.questionText ||
-      (article.description ? stripMarkdown(article.description) : undefined)
+    ? article.questionText || (article.description ? stripMarkdown(article.description) : undefined)
     : article.description
       ? stripMarkdown(article.description)
       : undefined
@@ -26,14 +25,12 @@ export function ContentCard({ article, featured }: ContentCardProps) {
         dangerouslySetInnerHTML={{ __html: article.titleHtml || article.title }}
       />
       {description && (
-        <p
-          className={`text-muted-foreground ${featured ? 'text-base' : 'text-sm line-clamp-2'}`}
-        >
+        <p className={`text-muted-foreground ${featured ? 'text-base' : 'text-sm line-clamp-2'}`}>
           {description}
         </p>
       )}
       {article.author && (
-        <p className="text-xs text-muted-foreground/70 mt-2 truncate">{article.author}</p>
+        <p className="text-xs text-subtle-foreground mt-2 truncate">{article.author}</p>
       )}
     </a>
   )

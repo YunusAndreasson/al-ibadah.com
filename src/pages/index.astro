@@ -1,8 +1,8 @@
 ---
-import { getCollection } from 'astro:content'
-import BaseLayout from '~/layouts/BaseLayout.astro'
+import { type CollectionEntry, getCollection } from 'astro:content'
 import PageLayout from '~/components/layout/PageLayout.astro'
 import { HomepageIsland } from '~/components/startpage/HomepageIsland'
+import BaseLayout from '~/layouts/BaseLayout.astro'
 import { renderTitle } from '~/lib/render-title'
 import { buildWebSiteSchema } from '~/lib/structured-data'
 
@@ -13,23 +13,23 @@ function extractQuestionFromMarkdown(body: string | undefined): string | undefin
   if (!body) return undefined
 
   // Look for **Fråga:** pattern in markdown
-  const match = body.match(
-    /\*\*Fråga:\*\*\s*([\s\S]*?)(?=\*\*Svar:\*\*|$)/i
-  )
+  const match = body.match(/\*\*Fråga:\*\*\s*([\s\S]*?)(?=\*\*Svar:\*\*|$)/i)
   if (match?.[1]) {
-    return match[1]
-      .replace(/\[\^[\w-]+\]/g, '') // Remove footnote refs
-      .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // Remove links
-      .replace(/(\*\*|__)(.*?)\1/g, '$2') // Remove bold
-      .replace(/(\*|_)(.*?)\1/g, '$2') // Remove italic
-      .replace(/\s+/g, ' ')
-      .trim() || undefined
+    return (
+      match[1]
+        .replace(/\[\^[\w-]+\]/g, '') // Remove footnote refs
+        .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // Remove links
+        .replace(/(\*\*|__)(.*?)\1/g, '$2') // Remove bold
+        .replace(/(\*|_)(.*?)\1/g, '$2') // Remove italic
+        .replace(/\s+/g, ' ')
+        .trim() || undefined
+    )
   }
   return undefined
 }
 
 const articles = await getCollection('articles')
-const articleData = articles.map((a) => ({
+const articleData = articles.map((a: CollectionEntry<'articles'>) => ({
   id: a.id,
   title: a.data.title,
   titleHtml: renderTitle(a.data.title),
@@ -42,6 +42,11 @@ const articleData = articles.map((a) => ({
 
 <BaseLayout jsonLd={buildWebSiteSchema()}>
   <PageLayout>
+    <p class="text-muted-foreground text-sm mb-8 animate-fade-up">
+      Religiösa utlåtanden för svensktalande muslimer, grundade i Koranen och
+      profetens <em>sunnah</em> så som den förståtts av de första generationerna
+      och förklarats av erkända lärda.
+    </p>
     <HomepageIsland articleData={articleData} client:load />
   </PageLayout>
 </BaseLayout>

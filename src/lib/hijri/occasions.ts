@@ -54,7 +54,11 @@ export function detectOccasions(date: Date = new Date(), hijriDate?: HijriDate):
     // Laylatul Qadr (last 10 nights of Ramadan, odd nights have higher priority)
     if (hijri.day >= 21) {
       const isOdd = hijri.day % 2 === 1
-      occasions.push({ type: 'laylatul-qadr', ...getOccasionDef('laylatul-qadr'), priority: isOdd ? 1 : 2 })
+      occasions.push({
+        type: 'laylatul-qadr',
+        ...getOccasionDef('laylatul-qadr'),
+        priority: isOdd ? 1 : 2,
+      })
     }
   }
 
@@ -80,7 +84,11 @@ export function detectOccasions(date: Date = new Date(), hijriDate?: HijriDate):
 
   // Ashura (Month 1, Days 9-11, Day 10 = highest priority)
   if (hijri.month === 1 && hijri.day >= 9 && hijri.day <= 11) {
-    occasions.push({ type: 'ashura', ...getOccasionDef('ashura'), priority: hijri.day === 10 ? 1 : 2 })
+    occasions.push({
+      type: 'ashura',
+      ...getOccasionDef('ashura'),
+      priority: hijri.day === 10 ? 1 : 2,
+    })
   }
 
   // White Days (Days 13-15 of any month)

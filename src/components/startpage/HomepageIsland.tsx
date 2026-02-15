@@ -1,4 +1,4 @@
-import { useMemo } from 'react'
+import { useMemo } from 'preact/hooks'
 import { getStartpageSections } from '~/lib/content-selection/selector'
 import type { CompactArticle } from '~/lib/content-selection/types'
 import { detectOccasions } from '~/lib/hijri'
@@ -17,9 +17,9 @@ export function HomepageIsland({ articleData }: HomepageIslandProps) {
   }, [articleData])
 
   return (
-    <div className="pt-2 sm:pt-4">
-      {sections.map((section) => (
-        <ContentSection key={section.type} section={section} />
+    <div>
+      {sections.map((section, index) => (
+        <ContentSection key={section.type} section={section} index={index} />
       ))}
     </div>
   )

@@ -7,8 +7,8 @@
  * hyphenated compounds (e.g., "sunnah-bönen"), and capitalization.
  */
 
-import { normalizeArabic } from './normalize-arabic'
 import { type GlossaryTerm, glossary } from '../data/glossary'
+import { normalizeArabic } from './normalize-arabic'
 
 const SKIP_CATEGORIES = new Set(['swedishTerms'])
 const SKIP_NORMALIZED = new Set(['muslim'])

@@ -1,4 +1,4 @@
-import react from '@astrojs/react'
+import preact from '@astrojs/preact'
 import sitemap from '@astrojs/sitemap'
 import tailwindcss from '@tailwindcss/vite'
 import { defineConfig } from 'astro/config'
@@ -10,10 +10,10 @@ import { rehypeQaLabels } from './plugins/rehype-qa-labels.ts'
 import { remarkGlossaryTerms } from './plugins/remark-glossary-terms.ts'
 
 export default defineConfig({
-  site: 'https://al-ibadah.pages.dev',
+  site: 'https://al-ibadah.com',
   output: 'static',
   prefetch: { defaultStrategy: 'hover' },
-  integrations: [react(), sitemap()],
+  integrations: [preact({ compat: true }), sitemap()],
   vite: {
     plugins: [tailwindcss()],
     resolve: {

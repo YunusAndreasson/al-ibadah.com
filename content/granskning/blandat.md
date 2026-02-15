@@ -1,6 +1,7 @@
 # Granskning: blandat
 
 ## Status
+
 - Startdatum: 2026-01-18
 - Filer totalt: 127
 - Granskade: 0
@@ -8,6 +9,7 @@
 ## Filer
 
 ### akallan
+
 - [ ] akalla-for-varldsliga-onskningar.md
 - [ ] akalla-mot-ens-barn.md
 - [ ] akallan-efter-begravningsbonen.md
@@ -30,6 +32,7 @@
 - [ ] vara-vand-motqiblahoch-hoja-handerna-under-akallan.md
 
 ### aktenskap
+
 - [ ] abort-under-de-forsta-manaderna.md
 - [ ] akallan-for-foraldrarna-ar-det-basta.md
 - [ ] aktenskap-med-en-mindre-brudgava-ar-mer-valsignade.md
@@ -69,6 +72,7 @@
 - [ ] visdomen-bakom-att-forbjuda-griskott.md
 
 ### aminnelse
+
 - [ ] aminnelse-av-allah-som-ar-foreskriven-efter-att-ha.md
 - [ ] hoja-rosten-nar-man-gor-aminnelse-efter-den-obliga.md
 - [ ] radband.md
@@ -76,6 +80,7 @@
 - [ ] tasbih-sker-endast-med-den-hogra-handen.md
 
 ### anger
+
 - [ ] allah-forlater-den-som-uppriktigt-sager-astagfirul.md
 - [ ] anger-ar-tillrackligt.md
 - [ ] anger-nollstaller-allt-som-hant-tidigare.md
@@ -102,6 +107,7 @@
 - [ ] vagen-till-anger.md
 
 ### ekonomi
+
 - [ ] aktieagande.md
 - [ ] aktieinnehav-i-banker-som-anvander-ranta.md
 - [ ] arbeta-for-rantebanker.md
@@ -116,6 +122,7 @@
 - [ ] tog-emot-ranta-men-var-okunnig-om-utlatandet.md
 
 ### kost-halsa
+
 - [ ] alkoholhaltiga-drycker-skyldigheten-att-undvika-fo.md
 - [ ] alkohol-som-anvands-tillsammans-med-medicin.md
 - [ ] fraga-var-matvaror-kommer-fran.md
@@ -125,6 +132,7 @@
 - [ ] vanster-hand-for-att-ata-och-dricka.md
 
 ### kropp-kladnad
+
 - [ ] bara-parfym-nar-man-gar-till-sjukhus-skolan-eller-.md
 - [ ] beskrivning-av-den-korrekta-slojan.md
 - [ ] halsband-som-bars-av-man-i-syfte-att-pryda.md
@@ -135,9 +143,11 @@
 - [ ] visdomen-bakom-att-man-inte-far-bara-guld.md
 
 ### uppforande
+
 - [ ] fuska-i-skolan.md
 
 ### utveckling
+
 - [ ] botemedlet-mot-brist-pa-odmjukhet-under-bonen.md
 - [ ] bot-mot-djavulens-viskningar-under-bonen.md
 - [ ] langta-efter-doden-da-livet-ar-svart.md
@@ -145,6 +155,7 @@
 - [ ] trana-dig-sjalv-till-att-lyda-allah-den-allsmaktig.md
 
 ### Utan underkategori
+
 - [ ] _index.md
 - [ ] akallade-men-besvarades-inte.md
 - [ ] de-basta-handlingarna-efter-de-obligatoriska.md

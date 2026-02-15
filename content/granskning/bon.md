@@ -1,6 +1,7 @@
 # Granskning: bon
 
 ## Status
+
 - Startdatum: 2026-01-18
 - Filer totalt: 464
 - Granskade: 0
@@ -8,6 +9,7 @@
 ## Filer
 
 ### att-vara-imam-och-bon-bakom-en-imam
+
 - [ ] bad-ensam-och-sedan-anslot-en-annan-person-2.md
 - [ ] bad-ensam-och-sedan-anslot-en-annan-person.md
 - [ ] bad-ensam-och-sedan-kom-nagon-annan-och-bad-bakom.md
@@ -45,6 +47,7 @@
 - [ ] takbir-tva-ganger-om-man-borjar-be-med-imamen-nar-.md
 
 ### begravningsbon
+
 - [ ] akallan-for-den-avlidne-nar-denna-har-blivit-begra.md
 - [ ] begrava-och-be-begravningsbon-over-en-slakting-som.md
 - [ ] begravning-av-en-icke-troende-fader.md
@@ -66,6 +69,7 @@
 - [ ] tid-for-att-besoka-gravar.md
 
 ### blandade-utlatanden
+
 - [ ] basta-tiden-for-att-be.md
 - [ ] be-i-ett-rum-med-bilder-pa-vaggarna.md
 - [ ] ber-inte-och-avlider-sedan-foraldrarna-var-muslime.md
@@ -81,6 +85,7 @@
 - [ ] visdomen-i-att-recitera-hogt-i-vissa-boner-och-lag.md
 
 ### bonen-i-forsamlingen
+
 - [ ] akallan-i-borjan-av-bonen-och-recitation-av-al-fat.md
 - [ ] anlander-sent-imamen-begar-ett-misstag-under-bonen.md
 - [ ] anlander-sent-och-agerar-imam.md
@@ -132,6 +137,7 @@
 - [ ] vittna-om-nagons-tro-darfor-att-han-ofta-besoker-m.md
 
 ### boneutrop
+
 - [ ] as-salatu-khairun-minan-nawm-om-det-bor-sagas-i-de.md
 - [ ] bandspelare-som-anvands-for-boneutropet.md
 - [ ] boneutroparen-ropade-ut-till-bon-da-en-person-bads.md
@@ -156,6 +162,7 @@
 - [ ] vad-man-sager-nar-man-hor-boneutroparen.md
 
 ### eid-bonerna
+
 - [ ] ata-ett-udda-antal-dadlar.md
 - [ ] bara-de-basta-kladerna.md
 - [ ] beskrivning-av-eid-bonen.md
@@ -173,6 +180,7 @@
 - [ ] utlatande-om-eid-bonen.md
 
 ### fredagsbonen
+
 - [ ] antalet-bonecykler-som-en-kvinna-ber-i-fredagsbone.md
 - [ ] be-fredagsbonen-i-en-moske-som-ursprungligen-inte-.md
 - [ ] be-nar-imamen-befinner-sig-pa-talarstolen.md
@@ -208,6 +216,7 @@
 - [ ] tystnad-under-predikan-en-skyldighet.md
 
 ### frivilliga-och-speciella-boner
+
 - [ ] bonen-for-tacksamhet-och-nar-den-skall-utforas.md
 - [ ] frivilliga-boner-innan-kvallsbonen.md
 - [ ] inneborden-av-sunnah-bonerna.md
@@ -218,6 +227,7 @@
 - [ ] tva-bonecykler-som-bes-under-brollopsnatten.md
 
 ### glomska-och-dalig-koncentration
+
 - [ ] bad-nattbonen-och-stallde-sig-i-glomska-upp-for-at.md
 - [ ] djavulen-viskar-om-stora-synder-i-en-mans-ora.md
 - [ ] forsumlighet-i-bonen.md
@@ -243,6 +253,7 @@
 - [ ] viskningar-under-bonen.md
 
 ### iqamah
+
 - [ ] bad-ensam-och-glomde-att-gora-iqamah.md
 - [ ] ekmaehall-ilahu-ve-dameha-efter-iqamah.md
 - [ ] en-ensam-guds-tjanare-behover-inte-ropa-ut-iqamah.md
@@ -255,6 +266,7 @@
 - [ ] upprepa-efter-boneutroparen-under-iqamah.md
 
 ### kladseln
+
 - [ ] ansiktssloja.md
 - [ ] avbryta-bonen-om-man-hittar-nagot-smutsigt-pa-sitt.md
 - [ ] awrah-har-blivit-synlig.md
@@ -273,6 +285,7 @@
 - [ ] tunna-klader-som-visar-kroppen.md
 
 ### koranrecitation
+
 - [ ] beloningen-for-den-som-reciterar-koranen-men-utan-.md
 - [ ] en-bok-med-tafsir-ar-inte-det-samma-som-koranen.md
 - [ ] memorera-delar-av-koranen-som-man-sedan-glommer-bo.md
@@ -280,6 +293,7 @@
 - [ ] syndar-man-om-man-reciterar-koranen-fel.md
 
 ### mosken
+
 - [ ] be-bakom-pelarna-i-mosken.md
 - [ ] be-nar-imamen-befinner-sig-pa-talarstolen.md
 - [ ] be-tva-bonecykler-nar-man-kommer-in-i-mosken-2.md
@@ -309,6 +323,7 @@
 - [ ] utbyggnad-av-en-moske.md
 
 ### nattbon-och-witr
+
 - [ ] avsag-att-be-tre-bonecykler-for-witr-men-ville-sed.md
 - [ ] bad-witr-under-borjan-av-natten-och-stod-sedan-upp.md
 - [ ] beskrivning-av-witr-och-man-man-reciterar-tyst-ell.md
@@ -329,6 +344,7 @@
 - [ ] witr-kan-endast-bes-en-gang-per-natt.md
 
 ### nedfallan-vid-recitation
+
 - [ ] ber-man-bakom-imamen-ar-det-en-skyldighet-att-folj.md
 - [ ] beskrivning-av-sujud-al-tilawah.md
 - [ ] hur-man-nedfaller-vid-koran-lasning.md
@@ -339,6 +355,7 @@
 - [ ] sajdatut-tilawah-ar-en-sunnah.md
 
 ### overger-eller-missar-bonen
+
 - [ ] be-formiddagsbonen-dhuha-eller-witr-i-efterhand.md
 - [ ] be-nattbonen-isha-fore-dess-tid.md
 - [ ] ber-de-obligatoriska-bonerna-i-sitt-hem-pa-grund-a.md
@@ -388,6 +405,7 @@
 - [ ] vilken-bon-man-ber-forst-nar-man-tar-igen-missade.md
 
 ### praktiska-detaljer-i-bonen
+
 - [ ] amin-efter-al-fatihah-om-det-ar-sunnah.md
 - [ ] andra-platsen-for-bon-infor-sunnah.md
 - [ ] ber-i-en-tyst-bon-och-hinner-lasa-klart-innan-imam.md
@@ -435,6 +453,7 @@
 - [ ] wash-shukr-att-saga-det-efter-rabbana-wa-lakal-ham.md
 
 ### resenarens-bon
+
 - [ ] bon-i-ett-flyplan.md
 - [ ] bon-ombord-pa-ett-flygplan.md
 - [ ] bon-pa-ett-flygplan.md
@@ -458,16 +477,19 @@
 - [ ] tillstand-som-beviljas-for-en-resenar.md
 
 ### sjuklingens-bon
+
 - [ ] sjuklingens-bon.md
 - [ ] skadad-fot-ar-inte-en-giltig-ursakt-for-att-utebli.md
 
 ### sutrah
+
 - [ ] forbud-mot-att-passera-direkt-framfor-nagon-som-be.md
 - [ ] ga-precis-framfor-en-bedjande-i-det-heliga-huset-i.md
 - [ ] sutrah-och-regler-betraffande-den.md
 - [ ] vad-som-ar-en-sutrah.md
 
 ### tider-da-det-ar-forbjudet-att-be
+
 - [ ] bon-over-den-avlidne-under-tidpunkter-det-inte-ar-.md
 - [ ] ingen-bon-mellan-eftermiddagsbonen-och-solnedgange.md
 - [ ] tahiyyatul-masjid-under-tidpunkter-da-bon-ar-forbj.md
@@ -475,6 +497,7 @@
 - [ ] tidpunkter-da-det-inte-ar-tillatet-att-be-och-unda.md
 
 ### vad-som-gor-eller-inte-gor-bonen-ogiltig
+
 - [ ] annan-riktning-an-qiblah.md
 - [ ] avbryta-bonen-for-att-oppna-dorren.md
 - [ ] avbryta-bonen-pa-grund-av-nagot-nodvandigt.md
@@ -508,6 +531,7 @@
 - [ ] vaken-under-natten-och-orkar-inte-sedan-be-gryning.md
 
 ### Utan underkategori
+
 - [ ] _index.md
 - [ ] anger-stryker-ut-det-som-hant-tidigare.md
 - [ ] be-alla-boner-tillsammans-om-man-jobbar-lange.md

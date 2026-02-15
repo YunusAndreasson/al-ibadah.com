@@ -1,6 +1,7 @@
 # Granskning: allmosa
 
 ## Status
+
 - Startdatum: 2026-01-18
 - Filer totalt: 106
 - Granskade: 106 ✓
@@ -8,6 +9,7 @@
 ## Filer
 
 ### allmosa-for-besparingar-och-manadslon
+
 - [x] den-foraldraloses-och-den-mentalt-eftersattes-till.md ✓
 - [x] ett-barns-och-en-vuxens-tillgangar.md ✓
 - [x] sparade-tillgangar.md ✓
@@ -16,12 +18,14 @@
 - [x] vad-som-i-nagot-syfte-sparas-fran-manadslonen.md ✓
 
 ### allmosa-for-gavor
+
 - [x] donationer-till-moskeer.md ✓
 - [x] pengar-som-har-donerats-for-att-en-moske-skall-byg.md ✓
 - [x] pengar-som-i-nagot-syfte-samlas-in-av-ett-antal-in.md ✓ Rättade stavning
 - [x] pengar-sparade-pa-ett-konto-som-delas-ut-till-elev.md ✓ Rättade grammatik
 
 ### allmosa-for-marker-fastigheter-buriker-och-varor-till-forsaljning
+
 - [x] bilar-som-ags-for-att-hyras-ut.md ✓
 - [x] bilar-som-ags-for-att-transportera-foremal.md ✓
 - [x] bilar-som-anvands-som-taxi-om-allmosan-ar-en-skyld.md ✓ La till fotnoter för nisāb och hawl
@@ -35,6 +39,7 @@
 - [x] privatagda-bilar.md ✓
 
 ### allmosa-for-smycken
+
 - [x] allmosa-kravs-fran-agaren-av-smycken-och-om-det-ar.md ✓ Kursiverade junahy
 - [x] diamanter.md ✓
 - [x] prydnadssmycken.md ✓
@@ -45,15 +50,18 @@
 - [x] smycken-som-inte-enbart-bestar-av-guld.md ✓ Kursiverade junahy
 
 ### allmosa-for-tillgangar
+
 - [x] mentalt-eftersatt-person-eller-ett-barn.md ✓
 
 ### betala-allmosan-i-ett-annat-land
+
 - [x] befinner-sig-i-mecka-men-familjen-finns-i-riyadh-g.md ✓ Fixade fotnotsformatering
 - [x] betala-allmosan-i-ett-annat-land-an-dar-man-befinn.md ✓
 - [x] bor-utanfor-sitt-hemland-hur-man-da-betalar-allmos.md ✓
 - [x] overfora-allmosa-till-en-annan-plats-an-dar-den-ar.md ✓
 
 ### blandat-om-allmosa
+
 - [x] bestaende-valgorenhet-om-det-ar-vad-en-person-ger-.md ✓
 - [x] fattig-man-far-allmosa-fran-den-valbargade-vannen-.md ✓
 - [x] ge-till-valgorenhet-och-lasa-koranen-for-de-levand.md ✓ Fixade fotnotsformatering
@@ -67,9 +75,11 @@
 - [x] vill-ge-tillbaka-allmosan-i-form-av-en-gava.md ✓
 
 ### den-skuldsattes-skyldighet
+
 - [x] skuld-som-tillhor-en-avliden-person-och-denne-har-.md ✓ Förbättrade titel
 
 ### de-som-far-ta-emot-allmosa
+
 - [x] betala-allmosa-till-en-enda-familj-eller-till-fler.md ✓ Förbättrade titel
 - [x] betala-allmosa-till-en-rafidi.md ✓ Förbättrade titel, kursiverade rāfidī
 - [x] betala-allmosa-till-nagon-som-studerar-islam.md ✓ Förbättrade titel
@@ -97,6 +107,7 @@
 - [x] systern.md ✓ Förbättrade titel
 
 ### hur-och-nar-den-betalas
+
 - [x] avsikt-bakom-allmosa.md ✓
 - [x] betala-med-nagot-annat-an-pengar.md ✓
 - [x] betalar-inte-allmosa-pa-grund-av-snalhet.md ✓
@@ -109,12 +120,14 @@
 - [x] utse-nagon-till-att-betala-allmosa-for-ens-rakning.md ✓
 
 ### lanade-och-utlanade-tillgangar
+
 - [x] betala-allmosa-till-langivaren-eller-till-lantagar.md ✓
 - [x] lantagaren-kan-inte-betala.md ✓ Rättade stavfel
 - [x] skriva-av-en-skuld-och-anse-det-vara-allmosa.md ✓
 - [x] utlatande-pengar.md ✓ Rättade stavfel
 
 ### zakatul-fitr
+
 - [x] asikten-att-det-inte-ar-tillatet-att-ge-zakatul-fi.md ✓
 - [x] betala-mer-zakatul-fitr-med-avsikten-att-det-skall.md ✓
 - [x] betalar-inte-zakatul-fitr-aven-om-han-har-mojlighe.md ✓
@@ -128,6 +141,7 @@
 - [x] till-vilka-zakatul-fitr-skall-ges.md ✓ Förbättrade titel
 
 ### Utan underkategori
+
 - [x] _index.md ✓ La till blockquote-formatering för citat
 - [x] allmosa-under-ramadan.md ✓
 - [x] betala-allmosa-i-forskott.md ✓

@@ -1,6 +1,7 @@
 # Granskning: troslara
 
 ## Status
+
 - Startdatum: 2026-01-18
 - Filer totalt: 320
 - Granskade: 0
@@ -8,12 +9,14 @@
 ## Filer
 
 ### akalla-andra-an-allah
+
 - [ ] ali-kan-inte-hjalpa-nagon-efter-sin-dod.md
 - [ ] bon-bakom-en-person-som-soker-hjalp-fran-nagon-ann.md
 - [ ] hor-profeten-dem-som-akallar-honom.md
 - [ ] soka-skydd-hos-profeten.md
 
 ### allahs-forutbestammelse
+
 - [ ] akallan-som-avstyr-det-forutbestamda.md
 - [ ] akallan-som-kan-andra-det-som-nedtecknats-for-en-m.md
 - [ ] allah-forbjude-ett-utlatande-betraffande-detta-utt.md
@@ -36,6 +39,7 @@
 - [ ] sjukdomar-och-hur-de-sprids-mellan-manniskor.md
 
 ### amuletter-och-talismaner
+
 - [ ] amuletter-och-talismaner-ett-utlatande-om-att-bara.md
 - [ ] besvarjelser-och-amuletter-till-sjuka-och-gamlinga.md
 - [ ] hittade-ett-papper-med-markvardiga-meningar.md
@@ -49,11 +53,13 @@
 - [ ] tillatna-och-otillatna-amuletter.md
 
 ### anglarna
+
 - [ ] anglar-gar-inte-in-i-hem-med-bilder.md
 - [ ] ar-djavulen-en-angel.md
 - [ ] visdomen-i-skapelsen-av-anglar-som-nedtecknar-hand.md
 
 ### blandade-utlatanden
+
 - [ ] ahlus-sunnah-al-jamaats-grundlaggande-trosprincipe.md
 - [ ] akalla-allahs-nad-over-en-orattfardig-person.md
 - [ ] allah-fragar-om-ditt-tillstand.md
@@ -102,6 +108,7 @@
 - [ ] tron-bestar-av-fler-an-70-olika-grenar.md
 
 ### domedagen-och-tecknen-infor-den
+
 - [ ] ahluh-fitrahsslutmal.md
 - [ ] den-yttersta-stunden-intraffar-da-det-endast-finns.md
 - [ ] en-icke-troendes-rakenskap-i-livet-efter-detta.md
@@ -112,6 +119,7 @@
 - [ ] sju-personer-som-allah-kommer-att-skugga-om-det-ga.md
 
 ### eder
+
 - [ ] att-svara-vid-nagonting-annat-an-allah-sasom-sin-f.md
 - [ ] dyrkar-gravar-genom-att-gora-tawaf-runt-dem-akalla.md
 - [ ] svara-vid-ash-sharaf-adelhet-eller-kabah.md
@@ -120,6 +128,7 @@
 - [ ] svara-vid-tillit.md
 
 ### forstaelse-av-islam
+
 - [ ] al-muhkam-och-al-mutashabih-i-den-adla-koranen.md
 - [ ] anledningar-till-att-en-lard-tvekar-till-att-utfar.md
 - [ ] anledningen-till-varfor-muslimerna-ar-svaga.md
@@ -157,6 +166,7 @@
 - [ ] viktiga-bocker-for-den-som-vill-lara-sig-om-islam.md
 
 ### gravdyrkan
+
 - [ ] akalla-vid-gravplatser.md
 - [ ] anledningen-till-att-kvinnor-inte-far-besoka-grava.md
 - [ ] be-bakom-de-som-dyrkar-gravar.md
@@ -176,6 +186,7 @@
 - [ ] uppresa-nagot-over-gravar.md
 
 ### innovationer
+
 - [ ] akalla-for-den-som-ger-till-valgorenhet.md
 - [ ] akallan-efter-de-obligatoriska-bonerna-i-forsamlin.md
 - [ ] akallan-med-hojd-rost-efter-den-icke-obligatoriska.md
@@ -225,6 +236,7 @@
 - [ ] valsigna-profeten-over-honom-vare-allahs-frid-och-.md
 
 ### jinn-magi-och-det-onda-ogat
+
 - [ ] bekampa-magi-med-magi.md
 - [ ] bevis-for-att-jinn-trader-in-i-en-manniskas-kropp.md
 - [ ] botemedel-mot-det-onda-ogat-av-avundsjukhet.md
@@ -238,6 +250,7 @@
 - [ ] vad-ar-trolldom.md
 
 ### livet-i-graven
+
 - [ ] atervander-livet-till-den-dode-i-graven.md
 - [ ] avliden-person-som-angrips-av-djur-om-han-utsatts-.md
 - [ ] fornekar-straffet-i-graven-eftersom-om-en-grav-gra.md
@@ -247,6 +260,7 @@
 - [ ] uppstigandet-ur-gravarna.md
 
 ### offer-till-andra-an-allah
+
 - [ ] djur-som-slaktas-av-manggudadyrkare.md
 - [ ] goda-handlingar-for-den-som-offrar-tilljinn.md
 - [ ] kanner-inte-till-nagot-om-islam-och-offrar-tilljin.md
@@ -254,6 +268,7 @@
 - [ ] vallfarda-for-en-manggudadyrkare-och-be-allah-forl.md
 
 ### paradiset-och-helvetet
+
 - [ ] avvisar-tron-pa-nasta-liv-och-pastar-att-det-ar-en.md
 - [ ] de-troende-kommer-att-se-deras-herre-i-paradiset-o.md
 - [ ] fordelning-i-helvetet.md
@@ -266,6 +281,7 @@
 - [ ] troende-och-icke-troendes-barn-som-avlider-nar-de-.md
 
 ### sandebuden
+
 - [ ] anledningen-till-att-jesus-valdes-ut-for-att-lyfta.md
 - [ ] antalet-sandebud-och-profeter.md
 - [ ] ar-jesus-vid-liv-och-var-befinner-han-sig-nu.md
@@ -293,6 +309,7 @@
 - [ ] varfor-kallas-jesus-for-al-masih.md
 
 ### sekter-rorelser-och-den-ratta-vagen-ahlus-sunnah
+
 - [ ] ahlus-sunnah-wal-jamaat.md
 - [ ] bon-bakom-sufier.md
 - [ ] buddhism.md
@@ -311,6 +328,7 @@
 - [ ] wahhabiter-motsager-sig-inte-profetens-over-honom-.md
 
 ### shirk
+
 - [ ] astrologi-horoskop-vidskepelse-och-att-spa-in-i-fr.md
 - [ ] att-visa-sig-duktig.md
 - [ ] be-profeten-om-hjalp-efter-hans-dod-ar-en-sorts-st.md
@@ -332,6 +350,7 @@
 - [ ] vara-i-sallskap-med-dem-som-inte-ber-och-de-som-ha.md
 
 ### siare-och-trollkarlar
+
 - [ ] as-sadah-som-skadar-sig-sjalva-med-dolkar-och-utov.md
 - [ ] besoka-en-al-kahanah.md
 - [ ] dromtydning-och-horoskop.md
@@ -339,11 +358,13 @@
 - [ ] radfraga-siare-och-trollkarlar.md
 
 ### tawassul
+
 - [ ] felaktiga-former-av-tawassul.md
 - [ ] offra-till-nagon-annan-an-allah-ar-storre-shirk.md
 - [ ] tawassul-till-allah-genom-fromma-manniskor.md
 
 ### tawhid
+
 - [ ] allah-den-upphojdes-uluww-hoghet-och-hur-salaf-sag.md
 - [ ] allahs-den-upphojdes-namn-och-om-de-ar-begransade-.md
 - [ ] allahs-namn-jamte-muhammads.md
@@ -363,9 +384,11 @@
 - [ ] wahhabiter-kallar-till-samma-sak-som-salaf.md
 
 ### trosbekannelsen
+
 - [ ] forsta-forpliktelsen-som-vilar-pa-de-skapade-varel.md
 
 ### Utan underkategori
+
 - [ ] _index.md
 - [ ] bra-innovationer-svar-till-dem-som-pastar-att-dett.md
 - [ ] bryter-avsiktligen-en-fasta-som-var-obligatorisk-a.md
