@@ -84,6 +84,7 @@ const jsonLd = [
           <a
             href={`/${category}/${sub.slug}`}
             class="card flex items-center justify-between animate-fade-up"
+            data-astro-prefetch="viewport"
             style={`animation-delay: ${(i + 1) * 40}ms`}
           >
             <SubcategoryName name={sub.name} />

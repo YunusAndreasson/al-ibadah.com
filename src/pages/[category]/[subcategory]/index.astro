@@ -93,6 +93,7 @@ const jsonLd = [
           <a
             href={`/${category}/${subcategory}/${article.slug}`}
             class="card block animate-fade-up"
+            data-astro-prefetch="viewport"
             style={`animation-delay: ${(i + 1) * 40}ms`}
           >
             <h2 class="font-medium mb-1 text-foreground" set:html={renderTitle(article.title)} />

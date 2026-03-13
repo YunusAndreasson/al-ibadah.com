@@ -373,6 +373,6 @@ All ära tillhör Allāh, världarnas Herre.
 
 [^9]: *The Prophet's Prayer Described* – Facing the Ka’bah
 [^10]: *The Prophet's Prayer* described, s. 55
-[^11]: *Iftirāsh* innebär att man sitter på det vänstra låret med den högra foten uppåt och dess tår pekandes i riktning mot *qiblah*[^3
+[^11]: *Iftirāsh* innebär att man sitter på det vänstra låret med den högra foten uppåt och dess tår pekandes i riktning mot *qiblah*
 [^12]: Koranen 29:45
 [^13]: Koranen 26:88

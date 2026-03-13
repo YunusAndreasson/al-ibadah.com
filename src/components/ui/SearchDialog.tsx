@@ -104,7 +104,7 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
 
       <div className="min-h-dvh flex items-start justify-center p-4 pt-16 sm:pt-24">
         <div
-          className="relative w-full max-w-lg bg-background rounded-lg shadow-2xl overflow-hidden animate-dialog-content"
+          className="relative w-full max-w-lg bg-background rounded-lg border border-border shadow-2xl overflow-hidden animate-dialog-content"
           onClick={(e) => e.stopPropagation()}
         >
           <div className="flex items-center gap-3 px-4 py-4">
@@ -127,7 +127,10 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
           </div>
 
           {query.trim() && (
-            <div id="search-results" className="max-h-80 overflow-y-auto p-2">
+            <div
+              id="search-results"
+              className="max-h-80 overflow-y-auto p-2 border-t border-border"
+            >
               {results.length === 0 ? (
                 <p className="px-3 py-8 text-center text-sm text-muted-foreground">
                   Inga träffar för &quot;{query}&quot;
@@ -161,7 +164,7 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
           )}
 
           {!query.trim() && (
-            <div className="px-3 py-8 text-center text-sm text-muted-foreground">
+            <div className="px-3 py-8 text-center text-sm text-muted-foreground border-t border-border">
               {searchIndex.length > 0
                 ? `Börja skriva för att söka bland ${searchIndex.length} artiklar`
                 : 'Laddar\u2026'}

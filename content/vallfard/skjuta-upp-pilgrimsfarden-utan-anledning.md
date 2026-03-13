@@ -26,4 +26,4 @@ Och Allāh är källan till all styrka.
 
 
 [^1]: *al-Buk̲hārī* 8 och *Muslim* 16
-[^2]: *Muslim* 8 i en *ḥadīt̲h*[^2
+[^2]: *Muslim* 8 i en *ḥadīt̲h*

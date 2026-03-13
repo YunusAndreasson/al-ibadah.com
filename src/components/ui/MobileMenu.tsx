@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'preact/hooks'
+import { useEffect, useRef, useState } from 'preact/hooks'
 
 interface NavLink {
   href: string
@@ -7,22 +7,40 @@ interface NavLink {
 
 interface MobileMenuProps {
   navLinks: NavLink[]
+  footerLinks: NavLink[]
   currentPath: string
 }
 
-export function MobileMenu({ navLinks, currentPath }: MobileMenuProps) {
+export function MobileMenu({ navLinks, footerLinks, currentPath }: MobileMenuProps) {
   const [menuOpen, setMenuOpen] = useState(false)
+  const buttonRef = useRef<HTMLButtonElement>(null)
+  const navRef = useRef<HTMLElement>(null)
 
   // Lock body scroll when menu is open
   useEffect(() => {
     if (menuOpen) {
       document.body.style.overflow = 'hidden'
+      // Move focus into the nav panel
+      navRef.current?.focus()
     } else {
       document.body.style.overflow = ''
     }
     return () => {
       document.body.style.overflow = ''
     }
+  }, [menuOpen])
+
+  // Close on Escape key
+  useEffect(() => {
+    if (!menuOpen) return
+    const onKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') {
+        setMenuOpen(false)
+        buttonRef.current?.focus()
+      }
+    }
+    document.addEventListener('keydown', onKeyDown)
+    return () => document.removeEventListener('keydown', onKeyDown)
   }, [menuOpen])
 
   // Close menu on ClientRouter navigation
@@ -35,10 +53,12 @@ export function MobileMenu({ navLinks, currentPath }: MobileMenuProps) {
   return (
     <>
       <button
+        ref={buttonRef}
         type="button"
-        className="md:hidden p-2 -mr-2 rounded-lg hover-bg press-scale"
+        className="md:hidden p-2 -mr-2 rounded-lg hover-bg press-scale cursor-pointer"
         aria-label={menuOpen ? 'Stäng meny' : 'Öppna meny'}
         aria-expanded={menuOpen}
+        aria-controls="mobile-nav"
         onClick={() => setMenuOpen(!menuOpen)}
       >
         <svg
@@ -71,7 +91,10 @@ export function MobileMenu({ navLinks, currentPath }: MobileMenuProps) {
         <div className="md:hidden fixed inset-0 z-40" onClick={() => setMenuOpen(false)}>
           <div className="fixed inset-0 bg-foreground/40 animate-dialog-overlay" />
           <nav
-            className="fixed top-14 right-0 w-64 max-w-[80vw] h-[calc(100dvh-3.5rem)] bg-background border-l border-border p-4 animate-slide-in-right overflow-y-auto safe-bottom"
+            ref={navRef}
+            id="mobile-nav"
+            tabIndex={-1}
+            className="fixed top-[calc(3.5rem+env(safe-area-inset-top))] right-0 w-64 max-w-[80vw] h-[calc(100dvh-3.5rem-env(safe-area-inset-top))] bg-background border-l border-border p-4 animate-slide-in-right overflow-y-auto safe-bottom flex flex-col outline-none"
             aria-label="Mobilnavigering"
             onClick={(e) => e.stopPropagation()}
           >
@@ -90,6 +113,22 @@ export function MobileMenu({ navLinks, currentPath }: MobileMenuProps) {
                 </li>
               ))}
             </ul>
+
+            <div className="mt-auto pt-4 border-t border-border">
+              <ul className="flex flex-wrap gap-x-4 gap-y-1 px-3">
+                {footerLinks.map((link) => (
+                  <li key={link.href}>
+                    <a
+                      href={link.href}
+                      className="nav-link text-xs text-subtle-foreground"
+                      onClick={() => setMenuOpen(false)}
+                    >
+                      {link.label}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
           </nav>
         </div>
       )}

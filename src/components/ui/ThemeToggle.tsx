@@ -21,6 +21,9 @@ export function ThemeToggle() {
     document.documentElement.classList.toggle('dark', isDark)
     document.documentElement.style.colorScheme = isDark ? 'dark' : 'light'
     localStorage.setItem('theme', theme)
+
+    const meta = document.getElementById('theme-color')
+    if (meta) meta.setAttribute('content', isDark ? '#1c1410' : '#f9f4ee')
   }, [theme])
 
   const cycleTheme = () => {
@@ -36,7 +39,7 @@ export function ThemeToggle() {
     <button
       type="button"
       onClick={cycleTheme}
-      className="nav-link p-2 rounded-lg hover-bg press-scale"
+      className="nav-link p-2 rounded-lg hover-bg press-scale cursor-pointer"
       aria-label={`Nuvarande tema: ${theme === 'system' ? 'automatiskt' : theme === 'light' ? 'ljust' : 'mörkt'}. Klicka för att byta.`}
     >
       <span key={theme} className={`block ${hasInteracted.current ? 'animate-icon-in' : ''}`}>

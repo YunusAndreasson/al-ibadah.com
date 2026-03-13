@@ -41,8 +41,7 @@ const ogImageURL = new URL('/og-image.png', Astro.site)
     <link rel="alternate" type="application/rss+xml" title="al-Ibadah" href="/rss.xml" />
     <link rel="sitemap" href="/sitemap-index.xml" />
 
-    <meta name="theme-color" content="#f9f4ee" media="(prefers-color-scheme: light)" />
-    <meta name="theme-color" content="#1c1410" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" id="theme-color" content="#f9f4ee" />
 
     {author && <meta name="author" content={author} />}
     {author && <meta property="article:author" content={author} />}
@@ -68,14 +67,16 @@ const ogImageURL = new URL('/og-image.png', Astro.site)
 
     <script is:inline>
       (function(){
-        var t=localStorage.getItem("theme")||"system",d=t==="dark"||t==="system"&&matchMedia("(prefers-color-scheme:dark)").matches;
-        document.documentElement.classList.toggle("dark",d);
-        document.documentElement.style.colorScheme=d?"dark":"light";
-        document.addEventListener("astro:before-swap",function(e){
+        function apply(doc){
           var t=localStorage.getItem("theme")||"system",d=t==="dark"||t==="system"&&matchMedia("(prefers-color-scheme:dark)").matches;
-          e.newDocument.documentElement.classList.toggle("dark",d);
-          e.newDocument.documentElement.style.colorScheme=d?"dark":"light";
-        })
+          doc.documentElement.classList.toggle("dark",d);
+          doc.documentElement.style.colorScheme=d?"dark":"light";
+          var m=doc.getElementById("theme-color");
+          if(m)m.setAttribute("content",d?"#1c1410":"#f9f4ee");
+        }
+        apply(document);
+        document.addEventListener("astro:before-swap",function(e){apply(e.newDocument)});
+        document.addEventListener("astro:after-swap",function(){apply(document)})
       })()
     </script>
 

@@ -28,7 +28,7 @@ export function SearchIsland() {
       <button
         type="button"
         onClick={() => setSearchOpen(true)}
-        className="nav-link flex items-center gap-1.5 p-1.5 press-scale"
+        className="nav-link flex items-center gap-1.5 p-1.5 press-scale cursor-pointer"
         aria-label="Sök (snabbkommando: Ctrl+K)"
       >
         <SearchIcon size={16} />

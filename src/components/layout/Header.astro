@@ -13,6 +13,13 @@ const navLinks = [
   { href: '/blandat', label: 'Blandat' },
 ]
 
+const footerLinks = [
+  { href: '/om', label: 'Om webbplatsen' },
+  { href: '/termer', label: 'Ordlista' },
+  { href: '/biografier', label: 'Biografier' },
+  { href: '/rss.xml', label: 'RSS' },
+]
+
 const currentPath = Astro.url.pathname
 ---
 
@@ -20,17 +27,17 @@ const currentPath = Astro.url.pathname
   Hoppa till huvudinnehåll
 </a>
 
-<header class="sticky top-0 z-30 bg-background/80 backdrop-blur-lg border-b border-border/50">
+<header class="sticky top-0 z-30 bg-background/80 backdrop-blur-lg pt-[env(safe-area-inset-top)]">
   <div class="max-w-3xl mx-auto px-4 h-14 flex items-center justify-between safe-x">
     <a href="/" class="font-semibold tracking-tight text-foreground">
       al-Ibadah
     </a>
 
-    <nav class="hidden md:flex items-center gap-4" aria-label="Huvudnavigering">
+    <nav class="hidden md:flex items-center gap-1" aria-label="Huvudnavigering">
       {navLinks.map((link) => (
         <a
           href={link.href}
-          class:list={['nav-link text-sm font-medium', { active: currentPath.startsWith(link.href) }]}
+          class:list={['nav-link text-sm font-medium px-2.5 py-1.5 rounded-lg hover-bg', { active: currentPath.startsWith(link.href) }]}
         >
           {link.label}
         </a>
@@ -40,7 +47,7 @@ const currentPath = Astro.url.pathname
     <div class="flex items-center gap-2">
       <SearchIsland client:load transition:persist />
       <ThemeToggle client:load transition:persist />
-      <MobileMenu client:load navLinks={navLinks} currentPath={currentPath} />
+      <MobileMenu client:load navLinks={navLinks} footerLinks={footerLinks} currentPath={currentPath} />
     </div>
   </div>
 </header>
