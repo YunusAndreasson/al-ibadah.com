@@ -84,5 +84,118 @@ const ogImageURL = new URL('/og-image.png', Astro.site)
   </head>
   <body class="bg-background text-foreground antialiased min-h-screen">
     <slot />
+
+    <script>
+      function initFootnoteTooltips() {
+        const container = document.querySelector('.prose-reading')
+        if (!container) return
+
+        const footnoteRefs = container.querySelectorAll('a[data-footnote-ref]')
+        if (footnoteRefs.length === 0) return
+
+        const footnoteTexts = new Map<string, string>()
+        container.querySelectorAll('li[id^="user-content-fn-"]').forEach((li) => {
+          const clone = li.cloneNode(true) as HTMLElement
+          clone.querySelectorAll('a[data-footnote-backref]').forEach((el) => el.remove())
+          footnoteTexts.set(li.id, clone.textContent?.trim() || '')
+        })
+
+        footnoteRefs.forEach((ref) => {
+          const href = ref.getAttribute('href')
+          if (!href) return
+          const footnoteId = href.replace('#', '')
+          const text = footnoteTexts.get(footnoteId)
+          if (text) ref.setAttribute('data-tooltip', text)
+        })
+      }
+
+      function initTooltips() {
+        ;(window as any).__tooltipCleanup?.()
+        document.getElementById('prose-tooltip')?.remove()
+
+        const tooltip = document.createElement('div')
+        tooltip.id = 'prose-tooltip'
+        tooltip.className = 'prose-tooltip'
+        tooltip.setAttribute('role', 'tooltip')
+        document.body.appendChild(tooltip)
+
+        let activeTarget: Element | null = null
+        const hasHover = window.matchMedia('(hover: hover)').matches
+        const ac = new AbortController()
+
+        function show(target: Element) {
+          const text = target.getAttribute('data-definition') || target.getAttribute('data-tooltip')
+          if (!text) return
+
+          tooltip.textContent = text
+          tooltip.style.display = 'block'
+          activeTarget = target
+
+          const rect = target.getBoundingClientRect()
+          const tipRect = tooltip.getBoundingClientRect()
+
+          let top = rect.top - tipRect.height - 8
+          let left = rect.left
+
+          // Clamp to right edge
+          if (left + tipRect.width > window.innerWidth - 8) {
+            left = window.innerWidth - tipRect.width - 8
+          }
+          // Clamp to left edge
+          if (left < 8) left = 8
+          // If above viewport, show below instead
+          if (top < 8) top = rect.bottom + 8
+
+          tooltip.style.top = `${top}px`
+          tooltip.style.left = `${left}px`
+        }
+
+        function hide() {
+          tooltip.style.display = 'none'
+          activeTarget = null
+        }
+
+        const sel = '.glossary-term, sup a[data-footnote-ref][data-tooltip]'
+
+        // Desktop: hover
+        if (hasHover) {
+          document.addEventListener('mouseover', (e) => {
+            const t = (e.target as Element).closest(sel)
+            if (t) show(t)
+          }, { signal: ac.signal })
+
+          document.addEventListener('mouseout', (e) => {
+            const t = (e.target as Element).closest(sel)
+            if (!t) return
+            const rel = (e as MouseEvent).relatedTarget as Node | null
+            if (!rel || !t.contains(rel)) hide()
+          }, { signal: ac.signal })
+        }
+
+        // Tap (touch devices + desktop click fallback)
+        document.addEventListener('click', (e) => {
+          const t = (e.target as Element).closest(sel)
+          if (t) {
+            if (!hasHover && t.matches('a[data-footnote-ref]')) e.preventDefault()
+            if (activeTarget === t) hide()
+            else show(t)
+          } else if (activeTarget) {
+            hide()
+          }
+        }, { signal: ac.signal })
+
+        // Dismiss on scroll
+        window.addEventListener('scroll', hide, { passive: true, signal: ac.signal })
+
+        ;(window as any).__tooltipCleanup = () => ac.abort()
+      }
+
+      initFootnoteTooltips()
+      initTooltips()
+      document.addEventListener('astro:after-swap', () => {
+        initFootnoteTooltips()
+        initTooltips()
+      })
+    </script>
   </body>
 </html>
