@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Det finns olika åsikter om vilken av dessa båda handlingar som är bäst. Det som är bäst är dock att förena dessa båda handlingar. Man bör alltså öka antalet böner och utföra *ṭawāf*, för att man ska kunna förena båda formerna av gott.
 
-Några av de lärde har föredragit *ṭawāf* för dem som är främlingar [inte bor i Mecka] då Ka'bah inte finns i deras länder. Därför är det rebefallt att de ökar antalet *ṭawāf* som de utför då de befinner sig i Mecka. Somliga föredrar bönen då den är bättre i Mecka.
+Några av de lärde har föredragit *ṭawāf* för dem som är främlingar [inte bor i Mecka] då Ka'bah inte finns i deras länder. Därför är det rekommenderat att de ökar antalet *ṭawāf* som de utför då de befinner sig i Mecka. Somliga föredrar bönen då den är bättre i Mecka.
 
 Jag tror att den bästa åsikten är att man bör göra mycket av båda, även om man är en främling i Mecka. På detta sätt missar man inte det fördelaktiga i någon av dem.
 

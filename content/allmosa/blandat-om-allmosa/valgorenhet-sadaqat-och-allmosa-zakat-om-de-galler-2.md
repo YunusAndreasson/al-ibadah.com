@@ -10,13 +10,13 @@ categories:
 original_id: 1613
 description: >-
   Fråga: Är välgörenhet och allmosa något som gäller speciellt för ramadan?
-  Svar: Välgörenhet är inte särskilt för ramadan. Den är rebefallad och
+  Svar: Välgörenhet är inte särskilt för ramadan. Den är rekommenderad och
   föreskriven vid alla tidpunkter. Allmosa bet...
 ---
 
 **Fråga:** Är välgörenhet och allmosa något som gäller speciellt för *ramaḍān*?
 
-**Svar:** Välgörenhet är inte särskilt för *ramaḍān*. Den är rebefallad och föreskriven vid alla tidpunkter. Allmosa betalas när man har haft sina tillgångar under tillräckligt lång tid [*ḥawl*]. Man väntar inte till *ramaḍān* om den inte är nära. Är tiden för att betala [*ḥawl*] exempelvis i *s̲ha´bān* och man väntar till *ramaḍān*, då finns det ingen invändan mot detta.
+**Svar:** Välgörenhet är inte särskilt för *ramaḍān*. Den är rekommenderad och föreskriven vid alla tidpunkter. Allmosa betalas när man har haft sina tillgångar under tillräckligt lång tid [*ḥawl*]. Man väntar inte till *ramaḍān* om den inte är nära. Är tiden för att betala [*ḥawl*] exempelvis i *s̲ha´bān* och man väntar till *ramaḍān*, då finns det ingen invändan mot detta.
 
 Men om tiden för att betala för en tillgång exempelvis är i *muḥarram*, då är det inte tillåtet att man väntar till *ramaḍān*. Men det är tillåtet att man flyttar fram den till *ramaḍān* före *muḥarram*. Det finns ingen synd i detta. Men att försena den från den tid då den blir en skyldighet, det är inte tillåtet. Skyldigheter som är länkade till en viss orsak måste man klara av när orsaken uppstår. Det är då inte tillåtet att skjuta upp dem.
 

@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Jag hade intim samvaro och efter det lade jag mig för att sova. Det sades sedan till mig att den som har haft intim samvaro i varje fall måste tvaga sig om personen vill sova eller äta. Andra har sagt att det inte är obligatoriskt men att föredra. Vänligen, ge mig ett utlåtande. Må Allāh belöna er.
 
-**Svar:** För den som är i den stora rituella orenheten är det *sunnah* att tvätta könsdelarna och tvaga sig innan personen sover, äter eller har intim samvaro igen. Det är inte en skyldighet, även om det är rebefallt, innan man sover. 'Umar – må Allāh vara nöjd med honom – har sagt: "*Allāhs sändebud! Får någon av oss sova i stor rituell orenhet?*" Han svarade: "*Ja, om personen tvagar sig*."
+**Svar:** För den som är i den stora rituella orenheten är det *sunnah* att tvätta könsdelarna och tvaga sig innan personen sover, äter eller har intim samvaro igen. Det är inte en skyldighet, även om det är rekommenderat, innan man sover. 'Umar – må Allāh vara nöjd med honom – har sagt: "*Allāhs sändebud! Får någon av oss sova i stor rituell orenhet?*" Han svarade: "*Ja, om personen tvagar sig*."
 
 Därmed är det inte en synd att sova innan *g̲husl* även om man inte har tvagat sig. Anledningen är att det har rapporterats att profeten – över honom vare Allāhs frid och välsignelser – ibland brukade sova utan att tvaga sig då han befann sig i den stora rituella orenheten.
 

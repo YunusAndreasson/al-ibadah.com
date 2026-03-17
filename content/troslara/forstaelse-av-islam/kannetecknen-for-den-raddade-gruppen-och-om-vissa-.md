@@ -25,7 +25,7 @@ I dyrkan finner vi att denna grupp särskiljer sig genom sitt fullständiga föl
 
 I karaktär finner vi också att de utmärker sig från andra genom sina fina sätt, som i sin kärlek till det som är bra för muslimer, öppenhjärtighet, glada leenden, fina sätt att tala på, generositet, mod och andra ädla karaktärsdrag.
 
-I uppförande finner vi dem behandla människor med ärlighet och öppenhet. Dessa både särdrag har profeten – över honom vare Allāhs frid och välsignelser – talat om när han sade:
+I uppförande finner vi dem behandla människor med ärlighet och öppenhet. Dessa båda särdrag har profeten – över honom vare Allāhs frid och välsignelser – talat om när han sade:
 
 > ”Båda parter i en affärsuppgörelse har rätt att upplösa den så länge de inte skiljs åt och om de talar sanning och gör allting klart och tydligt kommer de att välsignas i sina affärer, men om de ljuger eller döljer någonting kommer välsignelsen i deras uppgörelse att suddas ut.” [*al-Buk̲hārī* 2097]
 
@@ -41,7 +41,7 @@ Han har även informerat oss om att Muḥammad är oskyldig till att människor 
 
 > ”Du har inte ansvar för dem som ger upphov till splittring i sin religion och bildar sekter. Ingen utom Gud ska döma dem, och då ska Han låta dem veta vad deras handlingar [var värda].” [Koranen 6:159]
 
-Således är en enad röst och harmoni hjärtan emellan bland de mest särskiljande karaktärsdragen för den räddade gruppen – *ahlus-sunnah[^1] wal-jamā'at*. När oenigheter uppstår mellan dem – som beror på *ijtihād* i frågor som det är tillåtet att utöva *ijtihād* i – ger de inte plats åt bittherhet, fiendskap eller hat mot varandra. Även om detta skulle inträffa känner de att de är bröder.
+Således är en enad röst och harmoni hjärtan emellan bland de mest särskiljande karaktärsdragen för den räddade gruppen – *ahlus-sunnah[^1] wal-jamā'at*. När oenigheter uppstår mellan dem – som beror på *ijtihād* i frågor som det är tillåtet att utöva *ijtihād* i – ger de inte plats åt bitterhet, fiendskap eller hat mot varandra. Även om detta skulle inträffa känner de att de är bröder.
 
 Detta gör de till den grad att en av dem förättar bön bakom en imam som personen inte anser vara rituellt ren, medan imamen anser att han är det. När någon av dem, exempelvis, ber bakom en imam som har ätit kamelkött och imamen inte anser att det gör tvagningen ogiltig, men den som leds i bön anser att den blir det, är han [som leds] ändå av åsikten att hans bön bakom imamen är giltig även om han inte hade gjort så om han hade bett själv.
 

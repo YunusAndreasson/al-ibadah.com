@@ -12,7 +12,7 @@ description: 'Fråga: Får jag ge min mor en summa pengar och anse att den är e
  . Jag har även en bror som har möjligt ...'
 ---
 
-**Fråga:** Får jag ge min mor en summa pengar och anse att den är en allmosa? Detta i vetskap om att min far försörjer henne och han är förmögen, *al-ḥamdulillāh*. Jag har även en bror som har möjligt att jobba och han har inte gift sig än. Men – må Allāh vägleda honom – han ber inte mycket. Får jag ge honom allmosa? Vänligen, hjälp mig med ett svar och må Allāh bevara er.
+**Fråga:** Får jag ge min mor en summa pengar och anse att den är en allmosa? Detta i vetskap om att min far försörjer henne och han är förmögen, *al-ḥamdulillāh*. Jag har även en bror som har möjlighet att jobba och han har inte gift sig än. Men – må Allāh vägleda honom – han ber inte mycket. Får jag ge honom allmosa? Vänligen, hjälp mig med ett svar och må Allāh bevara er.
 
 **Svar:** Det är inte tillåtet att du ger din mor allmosa därför att allmosa ska man inte ge till föräldrar. Detta beror också på att hon inte behöver den eftersom din far försörjer henne.
 

@@ -26,7 +26,7 @@ Den som påstår sig ha kunskap om det som är dolt för människor[^1] är en i
 
 Följaktligen känner ingen i himlarna eller på jorden utom Allāh till det som är dolt för människor[^1]. De som påstår sig ha kunskap om framtiden är alla spåmän. Man har bekräftat att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Den som går till en siare och frågar han om något, personens bön kommer inte att accepteras under 40 dagar.” [*Muslim* 2230]
+> ”Den som går till en siare och frågar honom om något, personens bön kommer inte att accepteras under 40 dagar.” [*Muslim* 2230]
 
 Om personen tror på vad siaren sade är personen till följd av det en icke-troende då personen trodde på att siaren hade kunskap om det som är dolt för människor[^1]. Gör personen det så motsägs Allāhs den Upphöjdes ord:
 

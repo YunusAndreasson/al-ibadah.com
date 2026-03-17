@@ -26,7 +26,7 @@ Han har även sagt:
 
 > ”Om någon ber, då bör han placera något framför sig. Hittar han inte någonting, då bör han placera en stav framför sig. Hittar han inte en stav, då bör han dra en linje, då kommer den som passerar framför honom inte att skada honom.” [*Ibn Mājah* 943]
 
-I*Bulūg̲h al-Marām* Ibn Hajar har sagt:
+I *Bulūg̲h al-Marām* har Ibn Hajar sagt:
 
 > ”Den som har sagt att den är *mudhtarib* har fel. Den är *ḥasan*.”
 

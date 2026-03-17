@@ -22,7 +22,7 @@ Att låta klädesplagget hänga nedanför vristen är en olydnad som måste öve
 
 Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Det finns tre personer som Allāh inte kommer att tala till, titta på eller gå i god för på Återuppståndelsens Dag, och de kommer att få ett smärtsamt straff: Den som låter sin izār hänga ned, den som talar om det goda han gjort samt den som säljer sina varor genom att svära en lögn*.” [^3]
 
-Om han låter sitt klädesplagg hänga ned på grund av stolthet och arrogans, då är hans synd ännu värre och mer förtjänt av ett straff. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som låter sitt klädesplagg hänga dem på grund av arrogans, Allāh kommer inte att titta på Honom på Återuppståndelsens Dag*.” [^4]
+Om han låter sitt klädesplagg hänga ned på grund av stolthet och arrogans, då är hans synd ännu värre och mer förtjänt av ett straff. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som låter sitt klädesplagg hänga ned på grund av arrogans, Allāh kommer inte att titta på Honom på Återuppståndelsens Dag*.” [^4]
 
 Muslimer måste känna till vad Allāh har förbjudit, vilket innefattar att låta *izār* hänga nedanför vristen och andra synder, precis som det är en skyldighet att känna till alla innovationer. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [^5] Detta återger Muslim i sin *Ṣaḥīḥ*.
 

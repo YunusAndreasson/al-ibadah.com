@@ -23,13 +23,13 @@ Muslim har även återgivit från Jabir att profeten – över honom vare Allāh
 
 Detta är tydliga bevis och det är inte tillåtet att motsäga detta på grund av vad någon person – vem det än må vara – har sagt. Har det rapporterats att imam Mālik förbjöd att man ber två bönecykler under predikan är det troligt att denna *sunnah* inte nådde honom.
 
-När en *sunnah* är autentiskt från Allāhs sändebud, då är det inte tillåtet för att motsäga sig den grundat på av vad någon – vem det än må vara – har sagt. Allāh den Allsmäktige har sagt: "*Om ni råkar i tvist om något, överlåt då avgörandet till Gud och Sändebudet*." [^5] Och Han den Upphöjde har sagt: "*Troende! Lyd Gud och lyd Sändebudet*." [^6]
+När en *sunnah* är autentiskt från Allāhs sändebud, då är det inte tillåtet att motsäga den grundat på vad någon – vem det än må vara – har sagt. Allāh den Allsmäktige har sagt: "*Om ni råkar i tvist om något, överlåt då avgörandet till Gud och Sändebudet*." [^5] Och Han den Upphöjde har sagt: "*Troende! Lyd Gud och lyd Sändebudet*." [^6]
 
 Det är välkänt att Sändebudets domar kommer från Allāhs domar. Detta enligt Hans ord: ”*Den som lyder Sändebudet lyder Gud*.” [^7]
 
 Och Allāh är Den som ger framgång.
 
-[^1]: Tahiyyatul-Msjid.
+[^1]: Tahiyyatul-Masjid.
 [^2]: Rakah.
 
 [^3]: *al-Buk̲hārī* 1163 och *Muslim* 714

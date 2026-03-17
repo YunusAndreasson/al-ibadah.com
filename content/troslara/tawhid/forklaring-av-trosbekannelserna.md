@@ -66,7 +66,7 @@ Detta vittnesmål nödvändiggör att man:
 3. undviker vad han har förbjudit och
 4. inte dyrkar Allāh på annat sätt än vad han föreskrivit för oss.
 
-Något som också förstås genom detta uttalande är du inte tror att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har någon rätt till herrskap och kontroll över universum, eller att han har rätt att dyrkas. I stället är han en skapelse som inte dyrkas. Likaså är han ett sändebud som vi måste tro på. Han förfogar inte över några krafter för att hjälpa eller skada sig själv eller någon annan, utom på så vis som Allāh tillåter. Han den Upphöjde säger:
+Något som också förstås genom detta uttalande är att du inte tror att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har någon rätt till herrskap och kontroll över universum, eller att han har rätt att dyrkas. I stället är han en skapelse som inte dyrkas. Likaså är han ett sändebud som vi måste tro på. Han förfogar inte över några krafter för att hjälpa eller skada sig själv eller någon annan, utom på så vis som Allāh tillåter. Han den Upphöjde säger:
 
 > ”Säg: ’Jag säger inte till er att jag har Guds skatter [i min hand] och jag känner inte det som är dolt för människor[^1]. Inte heller säger jag till er: ’Se, jag är en ängel.’ Allt jag gör är att följa det som uppenbarats för mig.’” [Koranen 6:50]
 

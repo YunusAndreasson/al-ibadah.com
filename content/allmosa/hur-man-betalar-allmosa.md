@@ -9,10 +9,10 @@ categories:
 original_id: 610
 description: 'Fråga: En anställd sparar varierande summor från sin månadslön. En
  månad kan det vara lite mindre och en annan månad kan det vara lite mer. En del
- kan personen anställde ha haft under ett år och en d...'
+ kan den anställde ha haft under ett år och en d...'
 ---
 
-**Fråga:** En anställd sparar varierande summor från sin månadslön. En månad kan det vara lite mindre och en annan månad kan det vara lite mer. En del kan personen anställde ha haft under ett år och en del har inte varit i personens ägo under ett år. Personen vet inte hur mycket som har sparats varje månad så hur betalar personen då allmosan?
+**Fråga:** En anställd sparar varierande summor från sin månadslön. En månad kan det vara lite mindre och en annan månad kan det vara lite mer. En del kan den anställde ha haft under ett år och en del har inte varit i personens ägo under ett år. Personen vet inte hur mycket som har sparats varje månad så hur betalar personen då allmosan?
 
 En annan anställd tar emot en månadslön och förvarar allt på en säker plats. Personen spenderar från dessa besparingar varje dag. Detta inträffar rätt ofta, som när personen betalar för sitt hus och andra personliga omkostnader beroende på vad personen behöver. Hur räknar personen ut hur mycket som personen har sparat under året och hur betalar personen allmosan under dessa omständigheter? Detta i vetskap om att personens besparingar inte fullständigt är i personens ägo under ett år.
 

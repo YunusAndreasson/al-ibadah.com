@@ -25,7 +25,7 @@ Det är inte tillåtet att be den obligatoriska bönen på ett flygplan eller i 
 
 Personen fruktade inte Allāh så mycket som personen borde ha gjort och personen ansträngde sig inte tillräckligt.
 
-Det finns inge invändan mot att frågeställaren har bett sittande om han inte hade möjlighet att be stående. Detsamma gäller den tjänare som ber på en båt där det inte är möjligt att stå. Beviset för detta är Allāhs ord: ”*Frukta därför Gud efter måttet av er förmåga*.” [^1]
+Det finns ingen invändning mot att frågeställaren har bett sittande om han inte hade möjlighet att be stående. Detsamma gäller den tjänare som ber på en båt där det inte är möjligt att stå. Beviset för detta är Allāhs ord: ”*Frukta därför Gud efter måttet av er förmåga*.” [^1]
 
 Så länge tiden tillät det finns det ingen invändan mot att han sköt upp bönen tills han lämnat flygplanet.
 

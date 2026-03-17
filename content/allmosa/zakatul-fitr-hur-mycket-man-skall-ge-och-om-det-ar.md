@@ -8,12 +8,12 @@ categories:
   - Allmosa (Zakāh)
 original_id: 650
 description: >-
-  Fråga: Är zakātul-fitr obligatoriskt eller rebefallt? Vem är det
+  Fråga: Är zakātul-fitr obligatoriskt eller rekommenderat? Vem är det
   obligatoriskt för? Svar: Zakātul-fitr är en skyldighet för muslimer därför att
   profeten – över honom vare Allāhs frid o...
 ---
 
-**Fråga:** Är *zakātul-fiṭr* obligatoriskt eller rebefallt? Vem är det obligatoriskt för?
+**Fråga:** Är *zakātul-fiṭr* obligatoriskt eller rekommenderat? Vem är det obligatoriskt för?
 
 **Svar:** *zakātul-fiṭr* är en skyldighet för muslimer därför att profeten – över honom vare Allāhs frid och välsignelser – har gjort det till en skyldighet för män och kvinnor samt vuxna och barn. Andelen är en *ṣā´* mat som då kan vara dadlar, korn, russin eller ost.
 

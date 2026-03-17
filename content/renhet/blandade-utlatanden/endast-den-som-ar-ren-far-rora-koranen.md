@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om någon som rör *muṣḥaf* utan att ha tvagat sig för att läsa den eller flytta den till en annan plats? Min fråga gäller den som inte har den stora orenheten.
 
-**Svar:** Enligt majoriteten av de lärde är det inte tillåtet att rör *muṣḥaf* då man inte har tvagat sig. Denna åsikt hade de fyra imamerna och detta var åsikten som profetens följeslagare brukade döma enligt. Det finns en autentisk *ḥadīt̲h* om detta och i den berättar 'Amr bin Hazm att profeten – över honom vare Allāhs frid och välsignelser – sände ett brev till invånarna i Jemen som innehöll följande: ”*Ingen rör Koranen utom den rene*.” [Ibn Habban 793 och ad-Dāraquṭnī 433] Autenticiteten i denna *ḥadīt̲h* är god. Återberättarkedjorna är många och de stärker varandra.
+**Svar:** Enligt majoriteten av de lärde är det inte tillåtet att röra *muṣḥaf* då man inte har tvagat sig. Denna åsikt hade de fyra imamerna och detta var åsikten som profetens följeslagare brukade döma enligt. Det finns en autentisk *ḥadīt̲h* om detta och i den berättar 'Amr bin Hazm att profeten – över honom vare Allāhs frid och välsignelser – sände ett brev till invånarna i Jemen som innehöll följande: ”*Ingen rör Koranen utom den rene*.” [Ibn Habban 793 och ad-Dāraquṭnī 433] Autenticiteten i denna *ḥadīt̲h* är god. Återberättarkedjorna är många och de stärker varandra.
 
 Samma gäller utlåtandet för att flytta *muṣḥaf* från en plats till en annan. Enbart den som är ren får göra det. Men om muṣḥaf exempelvis finns i en väska eller en jacka kan man bära den så länge inte händerna vidrör den direkt.
 

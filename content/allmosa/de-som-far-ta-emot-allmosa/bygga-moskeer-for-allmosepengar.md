@@ -19,7 +19,7 @@ description: 'Fråga: Vilket är utlåtandet om att betala allmosa för att bygg
 
 > ”Offergåvorna är avsedda enbart för de fattiga och de nödställda och för dem som har hand om insamlandet av dem och för att vinna hjärtan [för tron] och för att friköpa människor ur fångenskap och slaveri och [för att lätta] de skuldtyngdas [bördor] och för [kampen för] Guds sak och för vandringsmannen. Detta har Gud föreskrivit; Gud är allvetande vis.” [Koranen 9:60]
 
-Det är således inte tillåtet att spendera allmosan på att bygga moskéer, lära ut islam och liknande. Men när det gäller rebefallad välgörenhet är det bättre om den läggs på det som är nyttigast.
+Det är således inte tillåtet att spendera allmosan på att bygga moskéer, lära ut islam och liknande. Men när det gäller rekommenderad välgörenhet är det bättre om den läggs på det som är nyttigast.
 
 Den *faqīr* som får ta emot allmosa är enbart den som under ett år inte har tillräckligt för sig själv och sin familj, enligt tid och plats. Det kan vara så att 1000 riyal[^1] vid en tid och plats anses vara välbärgat men under en annan tid och plats anses det inte vara välbärgat på grund av levnadsomkostnader och liknande.
 

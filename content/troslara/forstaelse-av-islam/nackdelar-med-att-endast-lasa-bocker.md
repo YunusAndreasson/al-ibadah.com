@@ -28,6 +28,6 @@ Detta är utan tvekan fel därför att Koranen och profetens – över honom var
 
 **Ett annat sätt att lära sig är genom en lärd** som är pålitlig i sin kunskap och i sitt utövande. Detta går snabbare och är pålitligare. Genom den första metoden [böcker] kan studenten gå vilse utan att förstå det, antingen genom missförstånd, okunskap eller av någon annan anledning. Men genom den andra metoden kan frågor som uppkommer diskuteras. Detta kommer att öppna många dörrar till förståelse, studie och hur de korrekta åsikterna ska försvaras och de svaga avvisas.
 
-Studenten bör prioritera att läsa böcker som summerar kunskapsområden innan personen studerar det på djupet. På detta vis kan utvecklingen att ske stegvis. Personen bör inte fortsätta till nästa nivå förrän personen verkligen har förstått nivån som personen för tillfället befinner sig på. På detta sätt kommer utvecklingen att ske på rätt sätt.
+Studenten bör prioritera att läsa böcker som summerar kunskapsområden innan personen studerar det på djupet. På detta vis kan utvecklingen ske stegvis. Personen bör inte fortsätta till nästa nivå förrän personen verkligen har förstått nivån som personen för tillfället befinner sig på. På detta sätt kommer utvecklingen att ske på rätt sätt.
 
 

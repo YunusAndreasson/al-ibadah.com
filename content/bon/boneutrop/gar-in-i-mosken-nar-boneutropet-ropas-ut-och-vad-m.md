@@ -18,5 +18,5 @@ description: >-
 
 Anledningen till att de anser detta är att det är obligatoriskt att lyssna på predikan medan det däremot inte är obligatoriskt att svara efter böneutroparen. Och det är mer fördelaktigt att uppfylla det som är obligatoriskt, än det som inte är det.
 
-[^1]: Tahiyyatul-Msjid.
+[^1]: Tahiyyatul-Masjid.
 

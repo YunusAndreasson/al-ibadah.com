@@ -19,7 +19,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om att upprepa samma sura i bönen? Vilket är utlåtandet om att förlänga nedfallandet mer än bugningen? Vilket är utlåtandet om att göra en bönecykel längre än en annan?
 
-**Svar:** Det finns ingen invändan mot att upprepa samma sura inom en bönecykel men det motsäger sig vad som är passande. Det är bättre att recitera en annan sura, oavsett om det är i samma bönecykel eller i två olika bönecykler. Från profetens – över honom vare Allāhs frid och välsignelser – tid till idag har det varit sed att recitera en sura i en bönecykel eller ett antal verser, sedan i följande bönecykel en annan sura eller vers.
+**Svar:** Det finns ingen invändan mot att upprepa samma sura inom en bönecykel men det motsäger vad som är passande. Det är bättre att recitera en annan sura, oavsett om det är i samma bönecykel eller i två olika bönecykler. Från profetens – över honom vare Allāhs frid och välsignelser – tid till idag har det varit sed att recitera en sura i en bönecykel eller ett antal verser, sedan i följande bönecykel en annan sura eller vers.
 
 Det finns ingen invändan mot att upprepa dem. Detta grundas på den allmänna innebörden av Allāhs ord: "*Läs således ur Koranen vad ni med lätthet kan läsa*.” [^1]
 

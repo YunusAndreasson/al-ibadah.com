@@ -45,7 +45,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Uma
 
 Dessutom drabbas de av torka, katastrofer, jordbävningar och förödande stormar. Detta är välkänt och det rapporteras ständigt om detta i radio, tidningar och annan media. Den som har ställt denna fråga är dock blind. Allāh har tagit personens syn och därför vet personen inte vad som verkligen pågår.
 
-Mitt rått till honom är att återvända till Allāh den Allsmäktige i ånger över dessa idéer innan döden kommer och tar honom tillbaka till hans Herre. Han bör känna till att det varken finns någon makt, prestige eller seger för oss utom om vi återvänder till islam på ett korrekt sätt som bekräftas genom ord och handling.
+Mitt råd till honom är att återvända till Allāh den Allsmäktige i ånger över dessa idéer innan döden kommer och tar honom tillbaka till hans Herre. Han bör känna till att det varken finns någon makt, prestige eller seger för oss utom om vi återvänder till islam på ett korrekt sätt som bekräftas genom ord och handling.
 
 Han bör känna till att vad de icke-troende följer är falskt och att deras eviga boende kommer att vara i Elden. Allāh och Hans sändebud har informerat om detta.
 
@@ -56,5 +56,5 @@ Jag ber Allāh, för den som denna fråga kom ifrån, att Han vägleder och ger 
 Han är den Givmilde, den Vänlige.
 
 
-[^1]: *al-Buk̲hārī* i kapitlet som skapelsen
+[^1]: *al-Buk̲hārī* i kapitlet om skapelsen
 [^2]: *al-Buk̲hārī* 2428 och *Muslim* 1479

@@ -14,7 +14,7 @@ description: >-
   Och om man gör den ogiltig genom a...
 ---
 
-**Fråga:** Syndar man om man ogiltigör en frivilliga fasta?
+**Fråga:** Syndar man om man ogiltigör en frivillig fasta?
 
 **Svar:** Om man ogiltigör en frivillig fasta eftersom man gör något som bryter den, har man då syndat? Och om man gör den ogiltig genom att ha intim samvaro, måste man då gottgöra sig? Fastar man frivilligt och sedan bryter fastan genom att äta, dricka eller ha intim samvaro så syndar man inte.
 

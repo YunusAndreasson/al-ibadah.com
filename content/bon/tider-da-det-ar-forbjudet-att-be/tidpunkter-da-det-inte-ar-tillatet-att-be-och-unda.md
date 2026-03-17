@@ -24,5 +24,5 @@ På samma sätt är *sunnah* för gryningsbönen ett undantag. Den kan bes efter
 
 Och Allāh är Den som ger framgång.
 
-[^1]: Tahiyyatul-Msjid.
+[^1]: Tahiyyatul-Masjid.
 

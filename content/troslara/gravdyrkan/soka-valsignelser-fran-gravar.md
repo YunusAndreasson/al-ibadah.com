@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Syftet med tillåtna besök vid gravplatser är att lära sig en läxa; att bli påmind om döden och beakta den, inte att få välsignelser från den avlidne. När man går in på en gravplats bör de som har gått bort saluteras på följande sätt: ”*as-Salamu Alaikum*, människor vid denna plats, troende och Muslimer, och vi kommer – om Allāh vill – att följa er. Vi ber Allāh om säkerhet för oss själva och för er.” [^1]
 
-Det går även att läsa annan åkallan som profeten – över honom vare Allāhs frid och välsignelser – har rebefallt till de avlidnas fördel. Man ska inte be de avlidna om att de uppfyller ens önskningar eller hjälper en med något.
+Det går även att läsa annan åkallan som profeten – över honom vare Allāhs frid och välsignelser – har rekommenderat till de avlidnas fördel. Man ska inte be de avlidna om att de uppfyller ens önskningar eller hjälper en med något.
 
 Åkallan är dyrkan som enbart får tillägnas Allāh. Det finns dock inget skadligt i att stå eller sitta vid graven då åkallan läses, men man ska inte stå där för att söka välsignelser eller för att vila. Gravplatser är inte platser att sitta och vila på. Det är tillåtet att stå vid graven efter begravningen och åkalla för den begravne för att Allāh ska acceptera och förlåta den avlidne.
 

@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Om imamen gör *taslīm* och jag tvekar om huruvida jag har reciterat *tahiyyat[^1].*
 
-**Svar:** Tvivlar man efter bönen ska man inte lägga någon vikt vid det. I stället bör du hålla fast vid vad du trodde från början. Det vanligaste är ju att man utför de obligatoriska delarna av bönen enlighet bästa förmåga. Får man tvivel under bönen, då bör man utgå från vad man är säker på. Detta leder till att man håller sin dyrkan säker. Man bör inte bry sig om tvivel som drabbar en när man har avslutat bönen.
+**Svar:** Tvivlar man efter bönen ska man inte lägga någon vikt vid det. I stället bör du hålla fast vid vad du trodde från början. Det vanligaste är ju att man utför de obligatoriska delarna av bönen enligt bästa förmåga. Får man tvivel under bönen, då bör man utgå från vad man är säker på. Detta leder till att man håller sin dyrkan säker. Man bör inte bry sig om tvivel som drabbar en när man har avslutat bönen.
 
 [^1]: Vad som sägs under *tas̲hahhud*: at-Tahiyyat Lillahi…
 

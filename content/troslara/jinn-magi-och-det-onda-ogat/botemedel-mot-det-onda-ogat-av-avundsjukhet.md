@@ -22,7 +22,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Det
 
 Ett annat exempel är en återberättelse från an-Nasā’ī och *Ibn Mājah* i vilken det uppges att 'Amir bin Rabi'ah gick förbi Sahl bin Hunaif medan personen tvättade sig och han sade då: "*Jag har inte sett en så vit hud som du har ens på en kvinna*." När han hade sagt det föll han [Sahl] till marken. Han togs då till Allāhs sändebud – över honom vare Allāhs frid och välsignelser – och man sade till honom: "*Han blev medvetslös*." Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Vem misstänker ni [är orsaken till detta]?*" De sade: "'Amir bin Rab'iah."
 
-Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Av vilken anledning dödar någon av ser sin broder? Ser någon av er något i er bror som ni gillar bör ni be om Allāhs välsignelser för personen*." [^4]
+Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Av vilken anledning dödar någon av er sin broder? Ser någon av er något i er bror som ni gillar bör ni be om Allāhs välsignelser för personen*." [^4]
 
 Profeten – över honom vare Allāhs frid och välsignelser – bad då om vatten och beordrade 'Amir att göra tvaga genom att tvätta hans ansikte, händerna upp till armbågarna, knäna och under hans *izār*. Profeten – över honom vare Allāhs frid och välsignelser – beordrade även att vattnet skulle hällas över honom. I en annan återberättelse sägs att behållaren vändes upp och ned över honom bakifrån.
 
@@ -35,7 +35,7 @@ Att ta något från personens exkret, som urinen eller avföringen, är grundlö
 
 Det finns ingen invändan mot att vara försiktig och skydda sig själv mot det onda ögat. Detta omintetgör inte ens *tawakkul*. *tawakkul* innebär ju att man sätter sin tilltro till Allāh – den Härlige samtidigt som man vidtar de nödvändiga åtgärder som Han har tillåtit och befallt.
 
-Profeten – över honom vare Allāhs frid och välsignelser – brukade söka skydd för al-Ḥasan och al-Husain genom att säga: "*Genom Allāhs perfekta ord söker jag skydd för er båda mot varje ont och mot varje giftig varelse och mot varje avundsjukt ont öga*." [^7] Han brukade säg att Abraham ofta sökte skydd för Ishaq och Isma'il på detta sätt.
+Profeten – över honom vare Allāhs frid och välsignelser – brukade söka skydd för al-Ḥasan och al-Husain genom att säga: "*Genom Allāhs perfekta ord söker jag skydd för er båda mot varje ont och mot varje giftig varelse och mot varje avundsjukt ont öga*." [^7] Han brukade säga att Abraham ofta sökte skydd för Ishaq och Isma'il på detta sätt.
 
 [^1]: Något som reciteras för att bota sjukdomar.
 

@@ -33,7 +33,7 @@ description: >-
 
 Den starkaste åsikten är att det avser månaden *ṣafar*. Araberna brukade ju under tiden för islam anse att den var ett dåligt omen. Och årstiderna har ingen inverkan. Allāhs den Allsmäktiges bestämmelse är densamma som under alla andra månader. Både gott och ont bestäms under denna månad.
 
-Somliga antecknar datumet när de har gjort en viss sak den 25:e *ṣafar*. De säger: Fullbordat den 25:e *ṣafar*, den goda månaden. Detta anses som att bota innovation med innovation och okunskap med okunskap. Detta är ju varken är en god eller ond månad.
+Somliga antecknar datumet när de har gjort en viss sak den 25:e *ṣafar*. De säger: Fullbordat den 25:e *ṣafar*, den goda månaden. Detta anses som att bota innovation med innovation och okunskap med okunskap. Detta är ju varken en god eller ond månad.
 
 Därför ogillade vissa *salaf* – må Allāh vara nöjda med dem – de som när de hörde en uggla hoa sade: ”Något bra, om Allāh vill.” Det är inte så att den bär med sig gott eller ont. I stället hoar den precis som andra fåglar gör.
 
@@ -46,7 +46,7 @@ Lägger en muslim någon vikt vid dessa händelser kommer personen att svara på
 
 Det finns sådana som kan tänkas öppna Koranen och söka efter ett omen genom den. Ser de att något nämnas om Elden säger de: ”Detta är ett dåligt omen.” Ser de att något nämnas om Paradiset säger de: ”Detta är ett bra omen.” Saken är den att detta är precis vad man gjorde under tiden före islam när man använde slagrutor för att bestämma vad man skulle göra.
 
-Ett förnekande av dessa fyra företeelser är inte en förnekelse av att de existerar, för det gör de. I stället är det en förnekelse av att de har en inverkan. Detta beror på att det är Allāh som får saker och ting att inträffa och om det finns någon känd orsak är det den sanna orsaken men en orsak som är föreställd, den är falsk. Detta förnekande är därmed en förnekelse av dess inverkan och kausialtitet.
+Ett förnekande av dessa fyra företeelser är inte en förnekelse av att de existerar, för det gör de. I stället är det en förnekelse av att de har en inverkan. Detta beror på att det är Allāh som får saker och ting att inträffa och om det finns någon känd orsak är det den sanna orsaken men en orsak som är föreställd, den är falsk. Detta förnekande är därmed en förnekelse av dess inverkan och kausalitet.
 
 *‘Adwa* existerar och det finns bevis för det i profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Ta inte den som bär en sjukdom till den friske*.” [^4] Detta innebär att den som äger en sjuk kamel inte bör ta den till en frisk kamel så att den smittosamma sjukdomen sprider sig.
 

@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Kom profetens – över honom vare Allāhs frid och välsignelser – ljus från Allāhs ljus eller kom det från något annat ljus?
 
-**Svar:** profetens – över honom vare Allāhs frid och välsignelser – ljus är budskapets och vägledningens ljus som Allāh vägleder vem Han vill bland Hans skapelser med. Utan tvekan kommer budskapets och vägledningens ljus från Allāh. Han den Upphöjde säger:
+**Svar:** Profetens – över honom vare Allāhs frid och välsignelser – ljus är budskapets och vägledningens ljus som Allāh vägleder vem Han vill bland Hans skapelser med. Utan tvekan kommer budskapets och vägledningens ljus från Allāh. Han den Upphöjde säger:
 
 > ”Det är inte människan givet att Gud talar till henne på annat sätt än genom ingivelse eller från andra sidan av ett förhänge eller genom ett sändebud som Han sänder och som uppenbarar det Han vill [ska uppenbaras]. Gud är upphöjd, vis. Så har Vi också låtit dig [Muḥammad, efter de tidigare profeterna] få del av helig ingivelse. [Förr] visste du inte vad uppenbarelse betydde och inte heller vad [sann] tro innebar. Men Vi har gett dig [detta budskap] som ett ljus med vilket du ska leda dem Vi vill av Våra tjänare, leda [dem] till den raka vägen, vägen till Gud, som allt det som himlarna rymmer och det som jorden bär tillhör. Allt är förvisso på väg tillbaka till Gud!” [Koranen 42:51 – 53]
 

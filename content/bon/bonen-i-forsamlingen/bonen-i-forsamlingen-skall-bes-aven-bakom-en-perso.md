@@ -23,7 +23,7 @@ Sedan återstår frågan varför du ogillar mannen? Beror det på någon brist i
 
 Ogillar du honom på grund av någon brist i hans religion måste du ge honom råd och klargöra vad han gör fel så att han ska kunna ställa det till rätta och gå på den raka väg som Allāh har föreskrivit.
 
-Folk som avsäger sig varandra när de ser någon i den andres religion och som […] sig själva med att dölja deras avsägande och fiendskap mot varandra motsäger sig det tillstånd bland de troende som Allāh har nämnt:
+Folk som avsäger sig varandra när de ser någon i den andres religion och som […] sig själva med att dölja deras avsägande och fiendskap mot varandra motsäger det tillstånd bland de troende som Allāh har nämnt:
 
 > ”Ni utgör det bästa samfund som fått uppstå [bland och] för människorna: ni anbefaller det som är rätt och förbjuder det som är orätt och ni tror på Gud. Om efterföljarna av äldre tiders uppenbarelser hade trott [på denna], skulle det helt visst ha varit bäst för dem. Fastän det finns bland dem de som tror, har de flesta av dem förhärdat sig i trots och olydnad.” [Koranen 3:110]
 

@@ -24,13 +24,13 @@ Saken är den att det i *Ṣaḥīḥ Muslim* har rapporterats: "*Fadern måste 
 
 Grundat på detta: En man som tvingar sin dotter till att gifta sig med en man som hon inte vill ha är förbjudet.
 
-Laggivaren (det vill säga. Allāh) har förbjudit det så Han vill inte att det muslimska samhället ska göra detta. Om vi säger att det är giltigt innebär det att vi är inblandade i det, att vi tillämpar det och att vi ger samma status som de kontrakt Laggivaren har tillåtit. Detta är något som inte kan inträffa.
+Laggivaren (det vill säga, Allāh) har förbjudit det så Han vill inte att det muslimska samhället ska göra detta. Om vi säger att det är giltigt innebär det att vi är inblandade i det, att vi tillämpar det och att vi ger samma status som de kontrakt Laggivaren har tillåtit. Detta är något som inte kan inträffa.
 
 Den starkaste åsikten är därför att när din fader gett din hand till en man som du inte vill ha är detta ett otillåtet äktenskap och kontraktet gäller inte. Detta måste därmed undersökas av rätten.
 
 Den man som vittnar falskt har begått en stor synd, vilket profeten – över honom vare Allāhs frid och välsignelser – har berättat om: ”*Skall jag inte informera er om de största synderna?*” [^3] Han nämnde dem medan han lutade sig, sedan satte han sig upp och sade: ”Och jag varnar er för att tala falskt, och jag varnar er för falskt tal: I stället: falskt vittnesmål.” Han fortsatte att upprepa detta tills vi önskade att han skulle vara tyst.
 
-De som vittnat falskt måste därför vända sig till Allāh i ånger och dra tillbaka sina vittnesmål. Samma gäller för modern då hon på ett felaktigt sätt skrivit under för dottern. Hon har genom detta syndat och hon måste vända dig till Allāh i ånger och hon får inte göra så igen.
+De som vittnat falskt måste därför vända sig till Allāh i ånger och dra tillbaka sina vittnesmål. Samma gäller för modern då hon på ett felaktigt sätt skrivit under för dottern. Hon har genom detta syndat och hon måste vända sig till Allāh i ånger och hon får inte göra så igen.
 
 
 [^1]: *al-Buk̲hārī* 5136 och *Muslim* 1419

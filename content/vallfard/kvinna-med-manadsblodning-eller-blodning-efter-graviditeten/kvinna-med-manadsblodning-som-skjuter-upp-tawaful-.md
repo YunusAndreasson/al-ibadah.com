@@ -10,11 +10,11 @@ categories:
 original_id: 781
 description: >-
   Fråga: Vad gäller om en kvinna får sin månadsblödning innan hon har gjort
-  ṭawāful-ifāḍah? Detta i vetskap om att hon utförde den andra vallfärdsriterna
+  ṭawāful-ifāḍah? Detta i vetskap om att hon utförde de andra vallfärdsriterna
   och hennes månadsblödning fortsatte till ...
 ---
 
-**Fråga:** Vad gäller om en kvinna får sin månadsblödning innan hon har gjort *ṭawāf* *ul-ifāḍah*? Detta i vetskap om att hon utförde den andra vallfärdsriterna och hennes månadsblödning fortsatte till efter *at-ayyām at-tas̲hrīq*.
+**Fråga:** Vad gäller om en kvinna får sin månadsblödning innan hon har gjort *ṭawāf* *ul-ifāḍah*? Detta i vetskap om att hon utförde de andra vallfärdsriterna och hennes månadsblödning fortsatte till efter *at-ayyām at-tas̲hrīq*.
 
 **Svar:** Om en kvinna får sin månadsblödning eller blödning efter graviditeten innan *ṭawāf* *ul-hajj*, då är hon fortfarande ansvarig för *ṭawāf* tills hon blir ren. När hon blir ren, då bör hon bada och utföra *ṭawāf* för sin vallfärd, även om det är några dagar efter vallfärden och även om det är under *muḥarram* eller *ṣafar*. Detta enligt vad som är lättast. Man behöver inte göra den vid en viss tid.
 

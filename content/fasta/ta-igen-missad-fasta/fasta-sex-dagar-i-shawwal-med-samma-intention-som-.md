@@ -18,6 +18,6 @@ description: >-
 
 Men den sex dagar långa fastan i *s̲hawwāl* är sammankopplad med *ramaḍān* och kan endast fastas när fastan från *ramaḍān* har tagits igen. Om han fastar dem före han har tagit igen missad fasta från *ramaḍān* kommer han inte att få belöningen då profeten – över honom vare Guds frid och välsignelser – har sagt: "*För den som fastar under *ramaḍān* och sedan följer den med sex dagar i *s̲hawwāl* kommer det att räknas som om denna fastat hela tiden*." Det är välkänt att den som har fastedagar kvar från *ramaḍān* inte räknas som att ha fastat *ramaḍān* förrän personen tar igen de dagar som har missats.
 
-[^1]: Den nionde dagen i den tolfte månaden (d̲hul-ḥijjah), dagen före offerhogtiden.
-[^2]: Den tionde dagen i den forsta manaden (muḥarram).
+[^1]: Den nionde dagen i den tolfte månaden (d̲hul-ḥijjah), dagen före offerhögtiden.
+[^2]: Den tionde dagen i den första månaden (muḥarram).
 

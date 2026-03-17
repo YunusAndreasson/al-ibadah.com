@@ -26,7 +26,7 @@ Det är önskvärt för den som besöker gravplatser att åkalla med de ord som 
 
 > ”*as-Salamu 'alaykum dara qawmim mu'minīn, wa inna in aha' allāhu bikum lahiqūn. Yarhammulahul-mustaqdimīna minna wal-musta'khirīn. Nas-alullaha lana wa lakulmul-'afiyata. Allāhumma la tahrimna ajrahum, wa la taftinna ba'dahum, waghfir lana wa lahum*.”
 
-Det har inte rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att han reciterade sura *al-Fātiḥah* när han besökte gravarna. Därför motsäger sig recitation av denna sura det som profeten – över honom vare Allāhs frid och välsignelser – har föreskrivit.
+Det har inte rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att han reciterade sura *al-Fātiḥah* när han besökte gravarna. Därför motsäger recitation av denna sura det som profeten – över honom vare Allāhs frid och välsignelser – har föreskrivit.
 
 Kvinnor får inte besöka gravplatser. Profeten – över honom vare Allāhs frid och välsignelser – har förbannat kvinnor som besöker gravar, de som tar dem till platser för dyrkan och de som ljussätter dem. [^2]
 

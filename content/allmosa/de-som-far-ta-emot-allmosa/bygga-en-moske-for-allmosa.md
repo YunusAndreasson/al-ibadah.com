@@ -7,7 +7,7 @@ categories:
   - Mottagare
 original_id: 553
 description: >-
-  Fråga: Är det tillåtet att använda allmosa för att avslutade byggandet av en
+  Fråga: Är det tillåtet att använda allmosa för att avsluta byggandet av en
   moské som nästan är färdig? Dess konstruktion kan stanna av beroende på
   bristande resurser. Svar: Det är välkänt bl...
 ---

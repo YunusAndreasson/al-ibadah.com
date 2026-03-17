@@ -20,5 +20,5 @@ description: >-
 
 De rättfärdigar detta genom att säga att det är en skyldighet att lyssna till predikan medan det inte är det [en skyldighet] att besvara böneutroparen. Uppfyllandet av en skyldighet väger tyngre än utförandet av något som inte är en skyldighet.
 
-[^1]: Tahiyyatul-Msjid.
+[^1]: Tahiyyatul-Masjid.
 

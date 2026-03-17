@@ -18,5 +18,5 @@ description: >-
 
 Må Allāh välsigna vår profet Muḥammad, hans familj och följeslagare.
 
-[^1]: Tahiyyatul-Msjid.
+[^1]: Tahiyyatul-Masjid.
 

@@ -15,7 +15,7 @@ description: 'Fråga: Är det sant att Allāh den Allsmäktige förlåter alla s
 
 **Fråga:** Är det sant att Allāh den Allsmäktige förlåter alla som säger ”*Astagfirullah*”?
 
-**Svar:** Om en person säger "*Astagfirullah*" med en uppriktig intention för att få förlåtelse och om han mäter villkoren för förlåtelse, då förlåter Allāh den Allsmäktige den personen. Allāh älskar när människor gör så här.
+**Svar:** Om en person säger "*Astagfirullah*" med en uppriktig intention för att få förlåtelse och om han uppfyller villkoren för förlåtelse, då förlåter Allāh den Allsmäktige den personen. Allāh älskar när människor gör så här.
 
 > "Gud älskar dem som vänder tillbaka till Honom i ånger [om de har syndat] och Han älskar dem som vill rena sig." [Koranen 2:222]
 

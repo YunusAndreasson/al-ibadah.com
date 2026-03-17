@@ -26,7 +26,7 @@ De åminnelser och åkallan som är föreskrivna i nedfallandet under [vanlig] b
 
 > *Allāhumma laka sajadtu wa bika āmantu wa laka aslamtu, sajada wajhi lilladhi khalaqahu wa sawwarahu wa shaqqa sam’ahu wa basarahu bi hawlihi wa quwwatihi, tabārak Allāhu ahsan al-khāliqīn*
 
-> [Allāh! Inför Dig har jag nedfallit och på Dig har jag trott, och Dig är jag underkastad. Mitt ansikte har nedfallit inför Honom som skapade det och formade det, och tog fram dess förmågor av hörande och sīnde med Hans Styrka och Kraft. Välsignad vare Allāh, den Bäste av skapare]
+> [Allāh! Inför Dig har jag nedfallit och på Dig har jag trott, och Dig är jag underkastad. Mitt ansikte har nedfallit inför Honom som skapade det och formade det, och tog fram dess förmågor av hörande och seende med Hans Styrka och Kraft. Välsignad vare Allāh, den Bäste av skapare]
 
 Detta har *Muslim* återgivit i sin *Ṣaḥīḥ*, 1290 från profeten; han sade att han brukade säga denna åminnelse under nedfallandet i bönen, enligt en *ḥadīt̲h* från ’Ali.
 
@@ -36,7 +36,7 @@ Vi har ovan nämnt att det är föreskrivet att säga detsamma i *sujūd at-til�
 
 > [Allāh! Nedteckna en belöning för mig för detta [nedfallande], och ta bort en synd från mig. Spara det för mig och acceptera det från mig precis som du accepterade det från Din tjänare David]. [Berättad av al- *at-Tirmid̲hī*, 528].
 
-Det som är obligatoriskt att säga är ”*Subhāna Rabbiy al-A’lā* [Lovprisad vare min Herre, den Högste]." Detta är obligatoriskt under nedfallandet i bön. Ytterligare åkallan eller åminnelse är rebefallt.
+Det som är obligatoriskt att säga är ”*Subhāna Rabbiy al-A’lā* [Lovprisad vare min Herre, den Högste]." Detta är obligatoriskt under nedfallandet i bön. Ytterligare åkallan eller åminnelse är rekommenderat.
 
 *sujūd at-tilāwah*, vare sig det sker under eller utanför bön, så är det *sunnah* men inte obligatoriskt. Bevis för detta har återberättats från profeten, i en *ḥadīt̲h* från Zayd ibn Thābit och i en *ḥadīt̲h* från ‘Umar – må Allāh vara nöjd med honom.
 

@@ -20,7 +20,7 @@ description: >-
 
 Därför måste personen ångra sig inför Allāh och gå upp och be vid de tider så som personen har befallts.
 
-Den andra omständigheten rör den som går upp för att be den obligatoriska bönen i tid med församlingen. Personen är inte en syndare men har låtit sig missa mycket gott. Detta beror på att den som fastar bör sysselsätta sig med bön, åminnelse av Allāh och recitation av den ädla Koranen. På detta sätta kan personen varva olika former av dyrkan och träna sig att dyrka under fastan, detta kommer då att blir lätt för personen. Men om personen vänjer sig vid lathet och avkoppling, då kommer personen att bli van vid sådant och dyrkan kommer att bli svårt under fastan.
+Den andra omständigheten rör den som går upp för att be den obligatoriska bönen i tid med församlingen. Personen är inte en syndare men har låtit sig missa mycket gott. Detta beror på att den som fastar bör sysselsätta sig med bön, åminnelse av Allāh och recitation av den ädla Koranen. På detta sätt kan personen varva olika former av dyrkan och träna sig att dyrka under fastan, detta kommer då att blir lätt för personen. Men om personen vänjer sig vid lathet och avkoppling, då kommer personen att bli van vid sådant och dyrkan kommer att bli svårt under fastan.
 
 Därför är mitt råd till personen att inte slösa bort fastetiden genom att sova. I stället bör personen kämpa för att utföra dyrkan. Och sannerligen har Allāh gjort det lätt – *al-ḥamdulillāh* – under vår fasta genom att Han har undanröjt svårigheter från fastan genom luftkonditionering och annat som gör det lättare för en.
 

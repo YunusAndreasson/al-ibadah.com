@@ -23,17 +23,17 @@ Detta enligt en återberättelse från *Aḥmad* i hans *Musnad* och från *Abū
 
 at-Tirmithi har också återberättat detta från Abū Sa'is som sagt: "*En man kom när Allāhs sändebud redan hade bett och han sade: 'Vem av er kommer att ge till välgörenhet till mannen?"* [^2]. En man stod då upp och bad med honom.
 
-Enligt at-Tirmithi är denna *ḥadīt̲h[^1] ḥasan*. al-Hakim har också återberättat den och klassat den som *Ṣaḥīḥ*. ath-Thahabi höll med honom. Ibn Hazm har också nämnt den i al-Muhalla och han visade att den är autentisk. Abū ´Īsā at-Tirmithi sade: "*Mer än en av följeslagarna och tābi´īn har sagt detta: 'Det finns ingen invändan mot en grupp som ber en andra församlingsbön i en moské där bönen redan har hållets*." *Aḥmad* och Ishaq ansåg också detta.
+Enligt at-Tirmithi är denna *ḥadīt̲h[^1] ḥasan*. al-Hakim har också återberättat den och klassat den som *Ṣaḥīḥ*. ath-Thahabi höll med honom. Ibn Hazm har också nämnt den i al-Muhalla och han visade att den är autentisk. Abū ´Īsā at-Tirmithi sade: "*Mer än en av följeslagarna och tābi´īn har sagt detta: 'Det finns ingen invändan mot en grupp som ber en andra församlingsbön i en moské där bönen redan har hållits*." *Aḥmad* och Ishaq ansåg också detta.
 
 Andra har sagt att man bör be var för sig och några av dessa är: Sufyan, Ibn al-Mubarak, Mālik och ash-Shafi'i.
 
-Men dessa personer och de som har hållet med dem har endast gjort så med rädsla för att det skulle leda till splittring och att de som följer en viss sekt kan få en ursäkt för att komma för sent och be tillsammans med en imam som följer deras läror. För att då kunna stänga denna dörr till splittring och hindra medlemmar i sekter från att uppnå sina onda avsikter har de sagt att man inte bör be gemensamt i moskén när församlingen redan har bett med den vanliga imamen.
+Men dessa personer och de som har hållit med dem har endast gjort så med rädsla för att det skulle leda till splittring och att de som följer en viss sekt kan få en ursäkt för att komma för sent och be tillsammans med en imam som följer deras läror. För att då kunna stänga denna dörr till splittring och hindra medlemmar i sekter från att uppnå sina onda avsikter har de sagt att man inte bör be gemensamt i moskén när församlingen redan har bett med den vanliga imamen.
 
 Den första åsikten är dock den korrekta, grundat på den *ḥadīt̲h* som har nämnts tidigare och den allmänna betydelsen i Allāhs ord: ”*Frukta därför Gud efter måttet av er förmåga*.” [^3]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har även sagt: ”*Om jag beordrar er att göra någonting, gör det då så mycket som ni har möjlighet till*.” [^4]
 
-Det råder ingen tvekan om att bön i församlingen är en del av att frukta Allāh och en del av vad den islamiska lagen föreskriver. Därför måste man vara noga med att göra det så mycket som möjligt. Det är inte rätt att motsäga sig autentiska *aḥādīt̲h* grundat på åsikter från lärde som ogillar att bönen upprepas i moskén; i stället är det obligatoriskt att handla enligt det som autentiska *aḥādīt̲h* bevisar.
+Det råder ingen tvekan om att bön i församlingen är en del av att frukta Allāh och en del av vad den islamiska lagen föreskriver. Därför måste man vara noga med att göra det så mycket som möjligt. Det är inte rätt att motsäga autentiska *aḥādīt̲h* grundat på åsikter från lärde som ogillar att bönen upprepas i moskén; i stället är det obligatoriskt att handla enligt det som autentiska *aḥādīt̲h* bevisar.
 
 Är det känt att en individ eller en grupp avsiktligen kommer försent, eller om det är känt att deras sekt kommer för sent för att be tillsammans, då måste de ansvariga straffa dem på det sätt som känns lämpligt, för att hindra dem från att göra detta.
 

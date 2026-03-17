@@ -11,18 +11,18 @@ categories:
   - Förutbestämmelsen
 original_id: 1580
 description: >-
-  Fråga: Vilket råd har ni att ge till den som inte gillar att studeras ‘aqīdah
+  Fråga: Vilket råd har ni att ge till den som inte gillar att studera ‘aqīdah
   , speciellt frågor om det förutbestämda, på grund av rädsla för att begå
   misstag? Svar: Denna fråga är för honom ...
 ---
 
-**Fråga:** Vilket råd har ni att ge till den som inte gillar att studeras *´aqīdah*, speciellt frågor om det förutbestämda, på grund av rädsla för att begå misstag?
+**Fråga:** Vilket råd har ni att ge till den som inte gillar att studera *´aqīdah*, speciellt frågor om det förutbestämda, på grund av rädsla för att begå misstag?
 
 **Svar:** Denna fråga är för honom som alla andra viktiga frågor som rör hans religion och världsliga liv. Han måste möta svårigheterna i detta och söka hjälp från Allāh den Välsignades, den Upphöjdes för att lära sig så att denna fråga blir klar för honom. Det är inte rätt att han har några tvivel i dessa viktiga frågor.
 
 Gällande frågor som inte bryter mot hans religion om han dröjer med dem, och han fruktar att de kommer att leda honom vilse, då finns det ingen invändan mot att han väntar med dem så länge det finns andra viktigare frågor. Det förutbestämda är viktigt och något som Allāhs tjänare måste vara helt bekanta med tills de blir övertygade. Saken är den att det inte finns någon svårighet i detta, och all lovprisan tillhör Allāh.
 
-Det som gör studier av *´aqīdah* svårt för många är att de tyvärr ger frågan "hur" företräde över frågan "varför". Någons tillfrågas om personens handlingar genom två frågeord: "varför" och "hur" – varför gjorde du detta? Detta är *ik̲hlāṣ*. Hur gjorde du detta? Detta gäller i frågor om att följa Budbärare. De flesta är i dagsläget upptagna med att finna svaret på frågan "hur". Men de tänker inte på att ta reda på svaret på frågan "varför".
+Det som gör studier av *´aqīdah* svårt för många är att de tyvärr ger frågan "hur" företräde över frågan "varför". Någon tillfrågas om personens handlingar genom två frågeord: "varför" och "hur" – varför gjorde du detta? Detta är *ik̲hlāṣ*. Hur gjorde du detta? Detta gäller i frågor om att följa Budbärare. De flesta är i dagsläget upptagna med att finna svaret på frågan "hur". Men de tänker inte på att ta reda på svaret på frågan "varför".
 
 Därför finner du att de inte bemödar sig speciellt mycket i frågor som rör *ik̲hlāṣ*, men i frågor om att följa [Profeten] är de extremt beslutsamma om minsta detalj. Människor är i dessa dagar till stor del upptagna med detta, samtidigt som de inte bryr sig om viktigare frågor som *´aqīdah*, *ik̲hlāṣ* och *tawḥīd*. Därför finner man att de ställer frågor om mycket små detaljer som rör denna värld. […]
 

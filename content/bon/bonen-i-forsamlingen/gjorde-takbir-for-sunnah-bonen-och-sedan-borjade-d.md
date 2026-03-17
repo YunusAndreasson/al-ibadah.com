@@ -28,7 +28,7 @@ Men om bönen börjar och man redan har utfört en andra bönecykel, då syndar 
 
 Och Allāh är Den som ger framgång.
 
-[^1]: Tahiyyatul-Msjid.
+[^1]: Tahiyyatul-Masjid.
 [^2]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 [^3]: Rättslära.
 

@@ -1,5 +1,5 @@
 ---
-title: Misstags som begås under ṭawāf
+title: Misstag som begås under ṭawāf
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Dalīl al-Akhta’ allati yaqa’ fiha al-Hāj wa’l-Mu’tamir Muhammed Knut Bernström

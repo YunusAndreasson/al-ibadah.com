@@ -11,7 +11,7 @@ original_id: 1340
 description: >-
   Fråga: Förra året åkte jag till Jiddah för att besöka några släktingar och
   efter att ha stannat där några dagar utformade jag avsikten för att vallfärda.
-  Jag trädda in i iḥrām vid Jiddahs mīqāt...
+  Jag trädde in i iḥrām vid Jiddahs mīqāt...
 ---
 
 **Fråga:** Förra året åkte jag till Jiddah för att besöka några släktingar och efter att ha stannat där några dagar utformade jag avsikten för att vallfärda. Jag trädde in i *iḥrām* vid Jiddahs *mīqāt* och jag gav mig av på vallfärd. Sedan informerade en av bröderna mig om att jag hade passerat *mīqāt* och att jag behövde slakta ett djur. Är detta uttalande korrekt, i vetskap om att jag begav mig till Jiddah från Riyadh för ett besöks skull och att jag inte avsåg att vallfärda? Vänligen, ge oss ett utlåtande. Må Allāh belöna er med gott.

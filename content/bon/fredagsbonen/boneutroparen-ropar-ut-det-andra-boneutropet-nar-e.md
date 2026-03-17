@@ -20,5 +20,5 @@ description: >-
 
 **Svar:** De lärde har sagt att när man går in i moskén under fredagen och man hör det andra böneutropet, då bör man be hälsningsbönen till moskén[^1] och inte svara böneutroparen. Detta för att man sedan ska vara fri för att lyssna på predikan. Att lyssna på predikan är en skyldighet men att besvara böneutroparen är en *sunnah* och en *sunnah* vinner inte företräde över en skyldighet.
 
-[^1]: Tahiyyatul-Msjid.
+[^1]: Tahiyyatul-Masjid.
 

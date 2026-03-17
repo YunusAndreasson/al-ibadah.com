@@ -14,11 +14,11 @@ description: >-
   obligatoriska bönerna där. Sedan begav vi oss till ...
 ---
 
-**Fråga:** Den sjunde i *d̲hul-ḥijjah* begav jag mig till Huset och jag utförde riterna för *´umrah*. Sedan begav jag mig till Mina och vi bad de fem obligatoriska bönerna där. Sedan begav vi oss till *´Arafāt* men vår bil voltade. Vi skadades svårt i skadan. Jag hade en man med mig som vallfärdade för hans mor och han avled i olyckan. Vad krävs nu av oss?
+**Fråga:** Den sjunde i *d̲hul-ḥijjah* begav jag mig till Huset och jag utförde riterna för *´umrah*. Sedan begav jag mig till Mina och vi bad de fem obligatoriska bönerna där. Sedan begav vi oss till *´Arafāt* men vår bil voltade. Vi skadades svårt i olyckan. Jag hade en man med mig som vallfärdade för hans mor och han avled i olyckan. Vad krävs nu av oss?
 
 **Svar:** Det som är er skyldighet, då ni trätt in i *iḥrām* för vallfärden, är att ni är kvar i den tills ni har avslutat alla riter. Ni bör inte överge den på grund av olyckan – som Allāh räddade er från – eller någonting liknande. Detta är inte en ursäkt för att överge vallfärden.
 
-Så länge du återvänt [till ditt land] innan du stått vi *´Arafāt*, gjort *ṭawāf* runt Ka'bah och utfört det som Allāh gjort obligatoriskt för dig, då måste du söka Allāhs förlåtelse och ångra dig för vad du har gjort. Du måste även slakta ett får som passar som offer. Detta måste göras i Mecka vid något tillfälle och du bör dela ut köttet till de fattiga. Du bör inte äta från offerköttet och du bör inte ge något av det som en gåva till en välbärgad släkting. Du bör även vallfärda nästa år, om Allāh vill.
+Så länge du återvänt [till ditt land] innan du stått vid *´Arafāt*, gjort *ṭawāf* runt Ka'bah och utfört det som Allāh gjort obligatoriskt för dig, då måste du söka Allāhs förlåtelse och ångra dig för vad du har gjort. Du måste även slakta ett får som passar som offer. Detta måste göras i Mecka vid något tillfälle och du bör dela ut köttet till de fattiga. Du bör inte äta från offerköttet och du bör inte ge något av det som en gåva till en välbärgad släkting. Du bör även vallfärda nästa år, om Allāh vill.
 
 Och framgång kommer från Allāh. Må Allāh sända välsignelser och frid över Muḥammad och hans familj.
 

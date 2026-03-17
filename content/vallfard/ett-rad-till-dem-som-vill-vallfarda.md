@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Ni muslimer som kommit till det heliga Huset för att vallfärda, jag ber Allāh om att vi ska få framgång med att göra det som gör Honom nöjd och jag ber om säkerhet från villfarelsen i onda ingivelser. Likaså ber jag Honom om att ni ska få framgång med era vallfärdsriter på ett sätt som gör Honom nöjd, att Han accepterar det och att hemresan till era länder ska vara framgångsrik. Sannerligen är Han den Bäste att be om hjälp.
 
-Muslimer! Sannerligen är mitt råd till er att ni alltid fruktar Allāh, att ni står stadiga i Hans religion och att ni aktar er för det som orsakar Hans vrede. Sannerligen, den viktigaste av de obligatoriska handlingarna och den största skyldigheten Allāhs enhet och att enbart och uppriktigt inte dyrka någon annan än Honom. Detta går hand i hand med att vara noggrann med att följa Hans sändebud i ord och handling.
+Muslimer! Sannerligen är mitt råd till er att ni alltid fruktar Allāh, att ni står stadiga i Hans religion och att ni aktar er för det som orsakar Hans vrede. Sannerligen, den viktigaste av de obligatoriska handlingarna och den största skyldigheten är Allāhs enhet och att enbart och uppriktigt inte dyrka någon annan än Honom. Detta går hand i hand med att vara noggrann med att följa Hans sändebud i ord och handling.
 
 Sannerligen bör vallfärdsriterna – och alla annan dyrkan – utföras på det sätt som Allāh har föreskrivit för tjänarna genom orden från Hans sändebud, vän och utvalde från Hans skapelse, vår profet, imam och ledare – Muḥammad bin ´Abdullāh.
 
@@ -56,13 +56,13 @@ Ni som ska vallfärda till Allāhs heliga hus! Sannerligen, när det var den åt
 
 Detta bevisar att det som är *sunnah* för dem som bor i Mecka och de som har trätt ur *iḥrām* efter *´umrah*[^2] och som vill vallfärda att ge sig av mot Mina den åttonde dagen samtidigt som de läser *talbiyyah* för vallfärden. När de lämnar Mecka behöver de inte bege sig till det heliga Huset för att göra *ṭawāf* runt Ka'bah [*ṭawāf ul-wadā´*[^1]].
 
-När man går in i *iḥrām* för vallfärden är det rebefallt att göra vad man gör vid mīqāt[^3] när man går in i *iḥrām*; som att bada, ta på parfym och rengöra sig.
+När man går in i *iḥrām* för vallfärden är det rekommenderat att göra vad man gör vid mīqāt[^3] när man går in i *iḥrām*; som att bada, ta på parfym och rengöra sig.
 
 Detta är vad profeten – över honom vare Allāhs frid och välsignelser – beordrade 'A'ishah att göra när hon ville träda in i *iḥrām* för vallfärden, och hon tidigare hade trätt in i *iḥrām* för *´umrah*[^2] men hennes månadsblödning hade börjat när hon gick in i Mecka. Därmed hade hon inte möjlighet att göra *ṭawāf* före hon begav sig till Mina och han beordrade henne att bada och träda in i *iḥrām* för vallfärden [i Mecka]. Hon gjorde då det och förenade vallfärden med *´umrah* [*qirān*].
 
 Allāhs sändebud – över honom vare Allāhs frid och välsignelser – och hans följeslagare bad middagsbönen, eftermiddagsbönen, kvällsbönen, nattbönen och gryningsbönen i *Minā*. De förkortade bönerna [som var fyra bönecykler] utan att slå ihop dem. Detta är profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Det är även *sunnah* för pilgrimen att sysselsätta sig med att läsa *talbiyyah*, åminnas Allāh, recitera Koranen och andra goda handlingar. Detta kan vara att bjuda in till islam, befalla det goda och förbjuda det onda samt att vara vänlig mot de fattiga.
 
-När solen steg under *´Arafāt*-dagen begav sig profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare mot *´Arafāt*. några läste *talbiyyah* och några av dem lovprisade Allāhs storhet. När profeten – över honom vare Allāhs frid och välsignelser – kom till *´Arafāt* slog han sig till ro i ett tält gjort av päls som satts upp för honom. Där tog han de lugnt under dess skugga. Detta bevisar att en pilgrim får söka skugga under tält, träd och liknande saker under vallfärden.
+När solen steg under *´Arafāt*-dagen begav sig profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare mot *´Arafāt*. Några läste *talbiyyah* och några av dem lovprisade Allāhs storhet. När profeten – över honom vare Allāhs frid och välsignelser – kom till *´Arafāt* slog han sig till ro i ett tält gjort av päls som satts upp för honom. Där tog han de lugnt under dess skugga. Detta bevisar att en pilgrim får söka skugga under tält, träd och liknande saker under vallfärden.
 
 När solen passerade sin högsta punkt under middagstid, då besteg profeten – över honom vare Allāhs frid och välsignelser – sitt riddjur och predikade för folket. Han påminde dem och lärde dem vallfärdsriterna. Han varnade dem för ränta och handlingar tillhörande den hedniska tiden. Han informerade dem om att deras blod, egendom och heder var heliga. Han befallde dem att följa Hans skrift och Hans sändebuds *sunnah*. Han informerade dem om att de aldrig skulle gå vilse så länge de höll sig till Allāhs skrift och Hans sändebuds *sunnah*.
 
@@ -110,7 +110,7 @@ Sedan, under den trettonde *d̲hul-ḥijjah* efter att ha kastat stenar på pela
 
 Härifrån vet vi att det som är *sunnah* för en pilgrim är att göra samma saker som profeten – över honom vare Allāhs frid och välsignelser – gjorde under dagarna i *Minā*. Därmed bör man kasta stenarna på de tre pelarna varje dag efter att solen har sjunkit från dess högsta punkt under middagen. Man kastar sju stenar på varje pelare och förkunnar Allāhs storhet varje gång för varje sten.
 
-Det är föreskrivet att stå och åkalla efter att ha kastat sten på den första pelaren. Man bör vara vänd i riktning mot *qiblah* samtidigt som man höjer händerna och åkallar. Pelaren bör vara på ens vänstra sida. Efter att ha kastat sten på den andra pelaren bör man stå och åkalla på samma sätt och ha pelaren på sin högra sida. Detta är rebefallt men inte obligatoriskt. Efter ha kastat sten på den tredje pelaren bör man dock inte stå och åkalla.
+Det är föreskrivet att stå och åkalla efter att ha kastat sten på den första pelaren. Man bör vara vänd i riktning mot *qiblah* samtidigt som man höjer händerna och åkallar. Pelaren bör vara på ens vänstra sida. Efter att ha kastat sten på den andra pelaren bör man stå och åkalla på samma sätt och ha pelaren på sin högra sida. Detta är rekommenderat men inte obligatoriskt. Efter ha kastat sten på den tredje pelaren bör man dock inte stå och åkalla.
 
 Är det svårt att kasta sten på pelarna efter middag eller innan solnedgången, då får man kasta den dagens stenar under kvällen fram till slutet på natten. Detta enligt den mest korrekta åsikten av de båda åsikterna som de lärde har. Detta är en nåd från Allāh mot Hans tjänare och en väg som gör det lättare för dem.
 
@@ -134,10 +134,10 @@ Jag ber Allāh att Han hjälper alla med att göra vad som gör Honom nöjd och 
 
 Må Allāh sända välsignelser och frid över vår profet Muḥammad, hans familj och följeslagare.
 
-[^1]: Den sju långa rundar vandringen runt Kabah.
+[^1]: Den sju varv långa rundvandringen runt Kabah.
 [^2]: Den lilla vallfärden.
-[^3]: Platsen där pilgrimmen träder in i iḥrām.
-[^4]: En plats mellan *Minā* och *´Arafāt* där pilgrimmerna stannar och tillbringar natten mellan den nionde och tionde i d̲hul-ḥijjah.
+[^3]: Platsen där pilgrimen träder in i iḥrām.
+[^4]: En plats mellan *Minā* och *´Arafāt* där pilgrimerna stannar och tillbringar natten mellan den nionde och tionde i d̲hul-ḥijjah.
 [^5]: Vandringen mellan as-Safa och al-Marwa.
 [^6]: När man först gör ´*´umrah* och lämnar *iḥrām* för att därpå träda in i *iḥrām* för vallfärden.
 [^7]: Rundvandringen runt Kabah före avfärden från Mecka.

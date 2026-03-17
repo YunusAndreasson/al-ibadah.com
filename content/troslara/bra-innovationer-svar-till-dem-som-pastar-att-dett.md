@@ -15,7 +15,7 @@ description: >-
 
 **Fråga:** Hur svarar vi de innovatörer som för att bevisa deras innovationer citerar följande bevis: "*Den som inför en bra sunnah*[^1] *i islam...*" [^2]?
 
-**Svar:** Vi svarar dem genom att säga att den som sade: "*Den som inför en bra sunnah*[^1] *i islam, personen kommer att få belöningen för den och belöningen för dem som handlar enligt den.*" Är densamma som har sagt: "*Ni måste hålla er till min sunnah*[^1] *och de korrekt vägledda kaliferna som följer mig. Var uppmärksamma på nypåfunna frågor för sannerligen är varje nypåfunnen fråga en innovation och varje innovation är villfarelse och var villfarelse är i Elden.*" [^3] Enligt denna *ḥadīt̲h* ska orden: "*Den som inför en bra sunnah*[^1] *i islam...*" förstås i ljuset av denna *ḥadīt̲h*.
+**Svar:** Vi svarar dem genom att säga att den som sade: "*Den som inför en bra sunnah*[^1] *i islam, personen kommer att få belöningen för den och belöningen för dem som handlar enligt den.*" Är densamma som har sagt: "*Ni måste hålla er till min sunnah*[^1] *och de korrekt vägledda kaliferna som följer mig. Var uppmärksamma på nypåfunna frågor för sannerligen är varje nypåfunnen fråga en innovation och varje innovation är villfarelse och varje villfarelse är i Elden.*" [^3] Enligt denna *ḥadīt̲h* ska orden: "*Den som inför en bra sunnah*[^1] *i islam...*" förstås i ljuset av denna *ḥadīt̲h*.
 
 Profeten – över honom vare Allāhs frid och välsignelser – uppmuntrade folket att ge välgörenhet till dem som kom från Mudar då de var fattiga. En man kom då med en påse silver och lade den framför profeten, som då sade: "*Den som inför en bra sunnah*[^1] *i islam, personen kommer att få belöningen för den och belöningen för dem som handlar enligt den till Återuppståndelsens dag.*"
 

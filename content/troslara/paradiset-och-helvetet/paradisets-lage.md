@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** [Vad vet vi om Paradisets vidd?]
 
-**Svar:** Innan vi svarar denna fråga måste vi föregå den med att säga att det som finns i Allāhs skrift och det som har rapporterats från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – är sanningen. Det inte är möjligt att den motsäger sig verkligheten. Den uppenbara verkligheten är sann och det går inte att tveka över den.
+**Svar:** Innan vi svarar denna fråga måste vi föregå den med att säga att det som finns i Allāhs skrift och det som har rapporterats från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – är sanningen. Det är inte möjligt att den motsäger sig verkligheten. Den uppenbara verkligheten är sann och det går inte att tveka över den.
 
 Det som Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* bekräftar är också det sanningen, som inte går att tvivla på. Det är heller inte möjligt att två sanningar står i motsats till varandra på ett sätt som gör det omöjligt att jämka samman dem.
 

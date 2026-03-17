@@ -15,7 +15,7 @@ description: "Fråga: Jag ”leker” ofta med min fru och får ibland en orgasm
 
 Om ni båda hade intim samvaro fast inte fick någon orgasm, då måste ni ändå båda göra *g̲husl*. Detta grundat på *ḥadīt̲h*-en återberättad av Abū Hurairah där profeten – över honom vare Allāhs frid och välsignelser – säger: "*Om mannen sitter mitt bland kvinnans fyra delar, för att sedan ha intim samvaro med henne, blir det obligatoriskt med g̲husl*[^1]." Denna *ḥadīt̲h* finns återberättad i både *Sahīh Bukhārī* och *Ṣaḥīḥ Muslim*.
 
-Så *g̲husl* är obligatoriskt om man får en orgasm [eller blir våt, i kvinnans fall] även om ett samlag inte utfördes. Det är även obligatorisk om samlag utfördes utan att någon fick en orgasm.
+Så *g̲husl* är obligatoriskt om man får en orgasm [eller blir våt, i kvinnans fall] även om ett samlag inte utfördes. Det är även obligatoriskt om samlag utfördes utan att någon fick en orgasm.
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
 

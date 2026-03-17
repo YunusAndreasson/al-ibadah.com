@@ -40,7 +40,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 Utan tvekan är syftet i att Allāh skapade alla att de ska dyrka enbart Honom utan någon partner eller medhjälpare. Detta är det ultimata syftet och det högsta målet – att uppnå *'ubūdiyah* [att vara en tjänare till Allāh i dess fullaste och sannaste mening].
 
-Detta uppnåddes på det utsöktaste sätt under *ramaḍān* när vi såg människor i grupp och som individer gå till Allāhs hus och vi såg dem kämpa för att be de obligatoriska bönerna i tid och för att ge till välgörenhet, i kamp med varandra om att handla gott. Låt dem som strävar [mot höga mål] tävla för Gud stärker de troende med det ord vars sanning står fast i denna värld och i evigheten. Om dem som Allāh hjälper att hålla fast vid rättfärdiga handlingar efter *ramaḍān* säger Han:
+Detta uppnåddes på det utsöktaste sätt under *ramaḍān* när vi såg människor i grupp och som individer gå till Allāhs hus och vi såg dem kämpa för att be de obligatoriska bönerna i tid och för att ge till välgörenhet, i kamp med varandra om att handla gott. Låt dem som strävar [mot höga mål] tävla. Gud stärker de troende med det ord vars sanning står fast i denna värld och i evigheten. Om dem som Allāh hjälper att hålla fast vid rättfärdiga handlingar efter *ramaḍān* säger Han:
 
 > ”Den som står efter [jordisk] makt och ära [ska veta att] all ära tillhör Gud. De goda orden stiger upp till Honom och Han förhöjer [värdet av] varje god handling. Men de som i tysthet smider onda planer har ett strängt straff att vänta och deras planer ska slå fel.” [Koranen 35:10]
 
@@ -54,7 +54,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – lärde följesl
 
 > ”En dirham kan väga mer hos Allāh än en dinar och den bästa välgörenhet är den som en man ger när personen är rik.”
 
-Han förklarade att om någon ger till välgörenhet när personen är obenägen att göra det och vid god hälsa men fruktar fattigdom, då kommer denna välgörenhet att väga tungt hos Allāh i vågen som väger handlingar. Den som skjuter upp det och först börjar spenderar här och där när personen blir sjuk med rädsla för att personens goda handlingar ska avvisas – här finns en fara att detta inte kommer att accepteras. Vi söker vår tillflykt hos Honom. Allāh säger:
+Han förklarade att om någon ger till välgörenhet när personen är obenägen att göra det och vid god hälsa men fruktar fattigdom, då kommer denna välgörenhet att väga tungt hos Allāh i vågen som väger handlingar. Den som skjuter upp det och först börjar spendera här och där när personen blir sjuk med rädsla för att personens goda handlingar ska avvisas – här finns en fara att detta inte kommer att accepteras. Vi söker vår tillflykt hos Honom. Allāh säger:
 
 > ”Ångerns väg är inte öppen för den som [ständigt] begår dåliga handlingar och först då döden når honom säger: 'Nu känner jag ånger', och inte heller för dem som dör som förnekare av sanningen; för dem har Vi ett plågsamt straff i beredskap.” [Koranen 4:17 – 18]
 
@@ -70,7 +70,7 @@ De lärde har sagt: ”Ett tecken på accepterande [utav goda handlingar] är at
 
 > ”De som bekänner 'Gud är vår Herre' och så håller fast [vid detta] ska inte känna fruktan och ingen sorg ska tynga dem.” [Koranen 46:13]
 
-Detta vidhållande bör vara från en *ramaḍān* till nästa. Profeten – över honom vare Allāhs frid och välsignelser – sagt:
+Detta vidhållande bör vara från en *ramaḍān* till nästa. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Från en bön till nästa, från en *ramaḍān* till nästa, från en pilgrimsfärd till nästa – detta gottgör för vilka [synder] som än begicks ifrån den ena till den andra, så länge du undviker större synder.”
 

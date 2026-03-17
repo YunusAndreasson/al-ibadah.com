@@ -78,7 +78,7 @@ När profeten – över honom vare Allāhs frid och välsignelser – hade fasts
 
 Det "*lysande exempel*" [^2] som Allāh har beskrivit Muḥammad med är den religion som består av allt som Allāh har påbjudit. Följaktligen har Mujāhid sagt att han var en uttolkare av Koranen, för 'A'ishah – må Allāh vara nöjd med henne – har sagt: "*Hans karaktär var Koranen*."
 
-Grunden för denna karaktär var att han med skyndsamhet, vilja och ett öppet hjärta gjorde vad Allāh älskar. Detta kan summeras i ordet *taqwā* som innefattar att man gör allt som Allāh har påbjudit oavsett om det är obligatoriskt eller rebefallt och att man undviker allt som han har förbjudit oavsett om det är förbjudet eller ogillat.
+Grunden för denna karaktär var att han med skyndsamhet, vilja och ett öppet hjärta gjorde vad Allāh älskar. Detta kan summeras i ordet *taqwā* som innefattar att man gör allt som Allāh har påbjudit oavsett om det är obligatoriskt eller rekommenderat och att man undviker allt som han har förbjudit oavsett om det är förbjudet eller ogillat.
 
 Detta för samma både plikter mot Allāh och plikter mot andra människor. Men taqwā kan ibland också avse fruktan för det straff som gör att man avstår det som är förbjudet. Detta har förklarats i en *ḥadīt̲h* om Mu’ādh. På samma sätt i en *ḥadīt̲h* från Abū Hurairah som har återberättats och klassats som *Ṣaḥīḥ* av *at-Tirmid̲hī*:
 

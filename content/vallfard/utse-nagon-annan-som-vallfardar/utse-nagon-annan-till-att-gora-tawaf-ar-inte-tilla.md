@@ -26,5 +26,5 @@ Hennes ed har det ingen betydelse. En obligatorisk *ṭawāf* kräver ingen ed, 
 > ”Därefter ska de fullfölja och avsluta de för vallfärden föreskrivna andaktsövningarna och infria de högtidliga löften som de har avlagt och [en sista gång] utföra rundvandringen omkring den äldsta Helgedomen.” [Koranen 22:29]
 
 [^1]: Rundvandringen runt Kabah före avfärden från Mecka.
-[^2]: Den sju långa rundar vandringen runt Kabah.
+[^2]: Den sju varv långa rundvandringen runt Kabah.
 

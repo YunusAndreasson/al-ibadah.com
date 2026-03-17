@@ -26,5 +26,5 @@ Därför är det en föredragen *sunnah* som är bäst att inte bortse från, ä
 
 [^1]: sujūd, nedfallandet när pannan läggs mot marken.
 [^2]: När vissa verser i Koranen reciteras kan man nedfalla.
-[^3]: Tahiyyatul-Msjid.
+[^3]: Tahiyyatul-Masjid.
 

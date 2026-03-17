@@ -20,7 +20,7 @@ description: >-
 
 > ”[En gång i tiden] förmanade och varande Vi Adam, men han glömde [snart Våra ord]; och Vi fann hos honom ingen fasthet i föresatsen.” [Koranen 20:115]
 
-Detta enligt en av de två åsikterna hos de lärde. profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Jag är endast en människa. Jag glömmer som ni glömmer. Så om jag glömmer, påminn mig*.” Han har även sagt: ”*Den som sover och missar en bön, låt personen be den när personen kommer ihåg den*.” Denna typ av glömska kan inte tillskrivas Allāh, grundat på två sorters bevis: textuella och rationella. Det textuella beviset är versen i vilken Han om Moses säger:
+Detta enligt en av de två åsikterna hos de lärde. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Jag är endast en människa. Jag glömmer som ni glömmer. Så om jag glömmer, påminn mig*.” Han har även sagt: ”*Den som sover och missar en bön, låt personen be den när personen kommer ihåg den*.” Denna typ av glömska kan inte tillskrivas Allāh, grundat på två sorters bevis: textuella och rationella. Det textuella beviset är versen i vilken Han om Moses säger:
 
 > ”[Moses] svarade: 'Kunskapen om [vad som hänt] dem finns hos min Herre, [upptecknad] i ett beslut; min Herre begår aldrig ett misstag och Han glömmer ingenting.” [Koranen 20:52]
 

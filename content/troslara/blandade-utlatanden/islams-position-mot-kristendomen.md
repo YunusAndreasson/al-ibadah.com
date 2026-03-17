@@ -31,9 +31,9 @@ Och Han den Majestätiske, den Högste säger:
 
 > ”Helt visst ska du finna att bland alla människor är judarna och avgudadyrkarna de hätskaste fienderna till dem som tror [på denna skrift]. Och du ska helt säkert finna att de som kommer dem närmast i vänskap av alla människor är de som säger: 'Vi är kristna'; det finns nämligen bland dem präster och ordensfolk, som sällan visat högmod. Och när de får höra det som har uppenbarats för Sändebudet, får du se hur deras ögon tåras [av rörelse], därför att de i detta känner igen en del av sanningen [och] de säger: 'Herre, vi tror!' Räkna oss bland vittnena. Skulle vi inte tro på Gud och på [all] sanning som vi har fått ta emot, när vår djupaste önskan är att vår Herre ska låta oss stiga in [i paradiset] med de rättfärdiga?' Och för vad de har sagt ska Gud belöna dem med lustgårdar vattnade av bäckar, där de ska förbli till evig tid; detta är lönen till dem som gör det goda och det rätta.” [Koranen 5:82 – 85]
 
-I mitt arbete kommer jag i nära kontakt med kristna kollegor och ibland diskuterar vi om islam accepterar kristendomen. Vi diskuterar även vad islam anser om kristna. De hämtar bevis från de Koran-verser som jag har nämnt ovan, som exempel men inte som uttömde referenser.
+I mitt arbete kommer jag i nära kontakt med kristna kollegor och ibland diskuterar vi om islam accepterar kristendomen. Vi diskuterar även vad islam anser om kristna. De hämtar bevis från de Koran-verser som jag har nämnt ovan, som exempel men inte som uttömmande referenser.
 
-Härmed, ber jag er – eminenta lärde – att ge mig ett tillfredställande svar och jag hoppas att svaret kommer att vara enkelt och övertygande, grundat på bevis i ett nyttigt och instruerande syfte. Många verser i Koranen är även upphävda och vissa kristna hävdar att Koranens verser motsäger sig själva. Det som övertygade mig att skriva detta brev var min starka övertygelse om islam och muslimer.
+Härmed, ber jag er – eminenta lärde – att ge mig ett tillfredsställande svar och jag hoppas att svaret kommer att vara enkelt och övertygande, grundat på bevis i ett nyttigt och instruerande syfte. Många verser i Koranen är även upphävda och vissa kristna hävdar att Koranens verser motsäger sig själva. Det som övertygade mig att skriva detta brev var min starka övertygelse om islam och muslimer.
 
 **Svar:** Grunderna för de lagar som profeterna och sändebuden har fört med sig är desamma. Allāh uppenbarade dem och sände ned Sina skrifter till profeterna och sändebuden. […] Allt som de förde med sig från Allāh kallas för islam. Allāh den Upphöjde säger:
 
@@ -45,7 +45,7 @@ Och Han den Upphöjde säger:
 
 Och Han säger:
 
-> ”Efter [dessa profeter] sände Vi Jesus, Marias son, med bekräftelse av allt det som ännu bestod av Tora och Vi skänkte honom evangeliet, som gav vägledning och ljus och bekräftade det som ännu bestod av Tora – där fanns vägledning och förmaningar till de Gud-fruktiga. Låt därför dem som följer Evangeliet döma enligt vad Gud där har uppenbarat; de som inte dömer enligt vad Gud har uppenbarat är syndare som trotsar Gud. [Muḥammad!] Vi har uppenbarat Koranen för dig med sanningen som bekräftar det som består av [äldre tiders] uppenbarade Skrifter och var uppgift det är att vaka över det. Döm mellan dem [som följer dessa Skrifter] på grundval av det som Gud har uppenbarat [för dig] och ge inte efter för deras önskningar [som står i strid] med sanningen som du har fått ta emot. För var och en av er har Vi fastställt en lag och en levnadsregel. Om Gud hade velat hade Han helt visst gjort er till ett enda samfund, men det var Hans vilja att sätta er på prov genom det som Han har skänkt er. Tävla därför med varandra om att göra gott! Till Gud ska ni alla vända åter och Han ska upplysa er om allt det som ni var oense om.” [Koranen 5:46 – 48]
+> ”Efter [dessa profeter] sände Vi Jesus, Marias son, med bekräftelse av allt det som ännu bestod av Tora och Vi skänkte honom evangeliet, som gav vägledning och ljus och bekräftade det som ännu bestod av Tora – där fanns vägledning och förmaningar till de Gud-fruktiga. Låt därför dem som följer Evangeliet döma enligt vad Gud där har uppenbarat; de som inte dömer enligt vad Gud har uppenbarat är syndare som trotsar Gud. [Muḥammad!] Vi har uppenbarat Koranen för dig med sanningen som bekräftar det som består av [äldre tiders] uppenbarade Skrifter och vars uppgift det är att vaka över det. Döm mellan dem [som följer dessa Skrifter] på grundval av det som Gud har uppenbarat [för dig] och ge inte efter för deras önskningar [som står i strid] med sanningen som du har fått ta emot. För var och en av er har Vi fastställt en lag och en levnadsregel. Om Gud hade velat hade Han helt visst gjort er till ett enda samfund, men det var Hans vilja att sätta er på prov genom det som Han har skänkt er. Tävla därför med varandra om att göra gott! Till Gud ska ni alla vända åter och Han ska upplysa er om allt det som ni var oense om.” [Koranen 5:46 – 48]
 
 Och Han säger:
 
@@ -53,7 +53,7 @@ Och Han säger:
 
 Och Han säger:
 
-> ”Efterföljare av äldre tiders uppenbarelser! Efter ett avbrott i sändebudens rad har Vårt Sändebud kommit till er för att klargöra [sanningen] för er, så att ni inte ska kunna säga: 'Till oss har ingett sändebud kommit med ett hoppets budskap och ingen varnare.' Nu har en förkunnare av ett glatt budskap om hopp och en varnare kommit till er; Gud har allt i Sin makt.” [Koranen 5:19]
+> ”Efterföljare av äldre tiders uppenbarelser! Efter ett avbrott i sändebudens rad har Vårt Sändebud kommit till er för att klargöra [sanningen] för er, så att ni inte ska kunna säga: 'Till oss har inget sändebud kommit med ett hoppets budskap och ingen varnare.' Nu har en förkunnare av ett glatt budskap om hopp och en varnare kommit till er; Gud har allt i Sin makt.” [Koranen 5:19]
 
 Och Han den Upphöjde säger:
 
@@ -93,7 +93,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 Därmed kan vi säga att de som trodde på grunderna i lagarna som gavs till profeterna och sändebuden kommer Allāh att vara nöjd med. Han kommer att ge dem lycka och framgång. Det är dem som Allāh prisar i Sin skrift och som vår profet Muḥammad – över honom vare Allāhs frid och välsignelser – lovordar i sin *sunnah*.
 
-Den som trodde på några av grunderna som de förde med sig från Allāh, men som inte trodde på andra, de tror sannerligen inte på någon av dem. Det är nödvändigt att acceptera grundernas enhet och tro på dem alla. Allāh har förberett en hemvist i Helvetesleden för dem […] Det är dem som Allāh tillrättavisar i Sin skrift och Hans sändebud tillrättavisar dem i sin *sunnah*.
+Den som trodde på några av grunderna som de förde med sig från Allāh, men som inte trodde på andra, de tror sannerligen inte på någon av dem. Det är nödvändigt att acceptera grundernas enhet och tro på dem alla. Allāh har förberett en hemvist i Helveteselden för dem […] Det är dem som Allāh tillrättavisar i Sin skrift och Hans sändebud tillrättavisar dem i sin *sunnah*.
 
 Allāh den Upphöjde säger:
 
@@ -139,7 +139,7 @@ Han tillrättavisar de som dödade profeterna samt de rättfärdiga utan rätt o
 
 Det finns andra verser där Han beskriver en grupp bland judarna och de kristna och säger att de förtjänar beröm, framgång, lycka och evig salighet [i Nästa Liv]. Han kritiserar en annan grupp bland dem och beskriver dem med egenskaper som förtjänar Hans vrede, förbannelse och smärtsamma straff.
 
-Därmed är det tydligt att den islamiska åsikten i fråga om judarna och de kristna är rättvis. Den motsäger sig inte den information som finns i Koranen eller i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* när det gäller de två grupperna, där de både fördöms och prisas. Sannerligen är dem Han prisar totalt olika dem som Han tillrättavisar.
+Därmed är det tydligt att den islamiska åsikten i fråga om judarna och de kristna är rättvis. Den motsäger sig inte den information som finns i Koranen eller i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* när det gäller de två grupperna, där de både fördöms och prisas. Sannerligen är de Han prisar totalt olika dem som Han tillrättavisar.
 
 Det är de som följer profeten. Profeten – över honom vare Allāhs frid och välsignelser – som varken kan läsa eller skriva och som de finner information om i Toran och Evangeliet. Han befaller dem att göra det goda och förbjuder dem att begå det onda. Han tillåter dem goda saker och han förbjuder *al-khaba'ith*[allt som är otillåtet när det kommer till handlingar, tro, personer, mat, etcetera]. Han löser dem från deras tunga börda och de bojor som tyngde dem. Detta i lydnad till Allāhs den Upphöjdes Ord:
 
@@ -149,7 +149,7 @@ Det är dessa som Allāhs nåd omsluter och som förtjänar Hans prisande – de
 
 /…/
 
-Om någon vill studera denna fråga vidare, då bör personen vända sig till Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Den som begrundar Koranens verser och de autentiska *aḥādīt̲h* från profeten, och som studerar det som autentisk har nedtecknats i historien – utan att vara vinklat – och som inte förlitar sig på ytlig spekulation, personen kommer då att tydligt se sanningen och vägledas till den raka vägen.
+Om någon vill studera denna fråga vidare, då bör personen vända sig till Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Den som begrundar Koranens verser och de autentiska *aḥādīt̲h* från profeten, och som studerar det som autentiskt har nedtecknats i historien – utan att vara vinklat – och som inte förlitar sig på ytlig spekulation, personen kommer då att tydligt se sanningen och vägledas till den raka vägen.
 
 Må frid och välsignelser vara över Muḥammad, hans familj och hans följeslagare.
 

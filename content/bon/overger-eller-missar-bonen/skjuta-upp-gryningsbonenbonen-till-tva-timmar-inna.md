@@ -20,6 +20,6 @@ description: >-
 
 När tiden då närmar sig kommer han att känna det även om han sover. Den som aldrig ber gryningsbönen innan gryningen har inte den minsta lilla omtanke om sitt hjärta.
 
-I vilket fall som helst är vi befallde att be så tidigt som möjligt, så om han sover över bönen, då måste han gå och lägga sig tidigt så att han ska kunna gå upp vid rätt tid. Detsamma gäller den som glömmer.
+I vilket fall som helst är vi befallda att be så tidigt som möjligt, så om han sover över bönen, då måste han gå och lägga sig tidigt så att han ska kunna gå upp vid rätt tid. Detsamma gäller den som glömmer.
 
 

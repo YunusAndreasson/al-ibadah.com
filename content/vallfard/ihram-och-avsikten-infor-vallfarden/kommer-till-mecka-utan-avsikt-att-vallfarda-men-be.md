@@ -20,6 +20,6 @@ description: >-
 
 Men om han avser att göra *´umrah* måste han ta sig utanför helgedomen, som till at-Tan'im, al-Ji'ranah eller någon annan plats. Det är *sunnah* – eller snarare obligatoriskt – att ta sig utanför helgedomen, som profeten – över honom vare Allāhs frid och välsignelser – beordrade 'A'ishah att göra när hon ville utföra *´umrah*. Han beordrade henne att ta sig till at-Tan'im och han beordrade hennes bror, 'Abdur-Rahmān, att följa med henne ut ur helgedomen till platsen utanför, vilken kan vara at-Tan'im eller någon annan plats. Den som vill utföra *´umrah* måste göra så här.
 
-Men den som vill vallfärda säger *talbiyyah* i bostaden, oavsett om den ligger innaför eller utanför helgedomen. Detta har vi nämnt tidigare.
+Men den som vill vallfärda säger *talbiyyah* i bostaden, oavsett om den ligger innanför eller utanför helgedomen. Detta har vi nämnt tidigare.
 
 

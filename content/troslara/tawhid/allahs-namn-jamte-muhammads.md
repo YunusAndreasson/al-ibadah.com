@@ -9,12 +9,12 @@ categories:
   - Monoteism
 original_id: 1110
 description: >-
-  Fråga: Vi ser ofta Allāhs namn skrivit på väggar och jämte det finns Muḥammads
+  Fråga: Vi ser ofta Allāhs namn skrivet på väggar och jämte det finns Muḥammads
   namn. Är det rätt att placera dem så? Svar: Att placera dem så är inte rätt då
   detta sätter profeten – över honom...
 ---
 
-**Fråga:** Vi ser ofta Allāhs namn skrivit på väggar och jämte det finns Muḥammads namn. Är det rätt att placera dem så?
+**Fråga:** Vi ser ofta Allāhs namn skrivet på väggar och jämte det finns Muḥammads namn. Är det rätt att placera dem så?
 
 **Svar:** Att placera dem så är inte rätt då detta sätter profeten – över honom vare Allāhs frid och välsignelser – som en konkurrent till Allāh, en likvärdig med Honom. Såg någon detta och personen inte visste bättre skulle personen övertygas om att de är likvärdiga. Därför bör man ta bort Allāhs sändebuds – över honom vare Allāhs frid och välsignelser – namn.
 

@@ -22,5 +22,5 @@ Han behöver dock inte göra så här om det finns en islamiskt giltig ursäkt s
 
 Och Allāh är Den som ger framgång.
 
-[^1]: Tahiyyatul-Msjid.
+[^1]: Tahiyyatul-Masjid.
 

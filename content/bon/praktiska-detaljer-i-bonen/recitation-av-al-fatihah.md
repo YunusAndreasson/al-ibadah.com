@@ -42,7 +42,7 @@ Detta är enligt mig den korrekta åsikten. Hade det inte varit för *ḥadīt̲
 
 > ”Och Moses bad: ’Herre! Prakt och rikedomar har Du skänkt Farao och hans stormän i denna värld, och till följd därav, Herre, driver de [människor] bort från Din väg. Utplåna [därför] deras rikedomar, Herre, och låt deras hjärtan hårdna så att tron inte kan nå dem förrän de ser det plågsamma straff [som väntar dem].” [Koranen 10:88]
 
-Informerade Allāh oss om att Aron åkallade? Svaren är nej, men trots det sade Han: ”*[Gud] sade: ’Er bön är hörd! Håll*” [^7] De lärde har om användandet av plural efter singular sagt: Mose åkallade och Aron trodde.
+Informerade Allāh oss om att Aron åkallade? Svaret är nej, men trots det sade Han: ”*[Gud] sade: ’Er bön är hörd! Håll*” [^7] De lärde har om användandet av plural efter singular sagt: Mose åkallade och Aron trodde.
 
 *ḥadīt̲h* från Abū Hurairah i vilken det sägs: ”*Den som leds av en imam, imamens recitation är recitation för personen*.” [^8] är svag eftersom den är *mursal*, något som Ibn Kathīr berättar om i introduktionen till sin *tafsīr*. De som citerar denna *ḥadīt̲h* som bevis gör heller inte det oinskränkt då vissa av de som anger den som bevis säger att den som leds i bön måste recitera sura *al-Fātiḥah* i de tysta bönerna. Därmed följer de inte den oinskränkt.
 

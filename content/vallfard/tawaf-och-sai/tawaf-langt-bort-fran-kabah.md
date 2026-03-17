@@ -11,7 +11,7 @@ original_id: 800
 description: >-
   Fråga: Vilket är utlåtandet om att göra tawāf bakom platsen där Abraham stod
   eller bakom zamzam -brunnen? Svar: Det finns inget skadligt i det. Även personen
-  gjorde tawāf i det områden med m...
+  gjorde tawāf i det området med m...
 ---
 
 **Fråga:** Vilket är utlåtandet om att göra *ṭawāf* bakom platsen där Abraham stod eller bakom *zamzam*-brunnen?

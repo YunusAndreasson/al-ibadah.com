@@ -60,7 +60,7 @@ Precis som Allāhs den Upphöjdes höghet bevisas genom texter i Hans skrift, [p
 
 Bevisen genom logiskt resonemang
 
-Det sägs: Det råder inga tvivel om att höghet är en fulländad egenskap och att motsatsen är en ofullständig egenskap. Allāhs egenskaper är fulländade och därför är det nödvändigt att bekräfta att höghet är en av Hans egenskaper. Att man bekräftar denna [egenskap] påfordrar inte en ofullständighet. Vi säger därmed att Hans höghet inte medför att någon del av Hans skapelse innesluter Honom. Den som tror att ett bekräftelsen av Hans höghet medför detta, personen har bedragit sig själv genom en sådan ide och gått vilse i sitt förnuft.
+Det sägs: Det råder inga tvivel om att höghet är en fulländad egenskap och att motsatsen är en ofullständig egenskap. Allāhs egenskaper är fulländade och därför är det nödvändigt att bekräfta att höghet är en av Hans egenskaper. Att man bekräftar denna [egenskap] påfordrar inte en ofullständighet. Vi säger därmed att Hans höghet inte medför att någon del av Hans skapelse innesluter Honom. Den som tror att en bekräftelse av Hans höghet medför detta, personen har bedragit sig själv genom en sådan ide och gått vilse i sitt förnuft.
 
 Bevisen genom det naturliga tillstånd som människan skapats i
 
@@ -70,7 +70,7 @@ al-Hamdani sade till Abul-Ma'ali al-Juwaini: ”*Den som är vettig säger aldri
 
 I *Ṣaḥīḥ* *Muslim* återges i en *ḥadīt̲h* från Abū Hurairah att profeten – över honom vare Allāhs frid och välsignelser – berättade om en man som sträckte sin händer mot skyn och sade: ”*Herre!* …” [fram till och med hadithens slut]. [^18]
 
-Likaså finner du att ens hjärta är riktat mot himlen när man ber är; speciellt när man nedfaller och säger: ”Härlig är min Herre, den Högste.” Man vet ju att föremålet för dyrkan är ovan himlarna.
+Likaså finner du att ens hjärta är riktat mot himlen när man ber; speciellt när man nedfaller och säger: ”Härlig är min Herre, den Högste.” Man vet ju att föremålet för dyrkan är ovan himlarna.
 
 Somliga säger att Allāh inte finns inom de sex riktningarna. Detta uttalande är överlag felaktigt. Det fordrar ju att något som Allāh den Upphöjde har bekräftat om Sig själv blir fel. Detta är även något som de lärde har bekräftat om Honom och den förnämsta i att lovprisa Honom var Hans sändebud, som sade att Han är ovan himlarna i riktning uppåt.
 
@@ -86,9 +86,9 @@ Beträffande vad de säger, att Allāh den Upphöjde är i den troendes hjärta,
 
 Det är häpnadsväckande att någon flyr från tanken att Allāh den Upphöjde är ovan himlarna [vilket bevisas genom Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*], till förmån för något som det inte finns några bevis för, att Allāh finns i den troendes hjärta.
 
-Men om det som avses med att Allāh den Upphöjde är i den troendes hjärta är att personen alltid åminns sin Herre i hjärtat, då är det sant. Man ska emellertid säga det på ett sätt som visar den sanna innebörden. Ett exempel på detta är om man säger: ”Åminnelse av Allāh finns alltid i den troende tjänarens hjärta.” Men det som är uppenbart när någon säger detta är att personen vill ersätta tron på att Allāh den Upphöjde är ovan himlarna med denna falska tro. Men som vi har sagt är denna innebörd är felaktigt.
+Men om det som avses med att Allāh den Upphöjde är i den troendes hjärta är att personen alltid åminns sin Herre i hjärtat, då är det sant. Man ska emellertid säga det på ett sätt som visar den sanna innebörden. Ett exempel på detta är om man säger: ”Åminnelse av Allāh finns alltid i den troende tjänarens hjärta.” Men det som är uppenbart när någon säger detta är att personen vill ersätta tron på att Allāh den Upphöjde är ovan himlarna med denna falska tro. Men som vi har sagt är denna innebörd felaktig.
 
-Den troende måste vara noga med att inte avvisa det som Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och vad *salaf* – må Allāh vara nöjda med dem – var eniga bevisar till förmån för allmänna och tvivelaktiga tolkningar som kan rymma både korrekta och felaktiga förstålelser. Man måste hålla fast vid de främste av dem som antog islam bland *muhajirun* och *ansār*. Detta för att man ska räknas in i Allāhs den Upphöjdes ord:
+Den troende måste vara noga med att inte avvisa det som Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och vad *salaf* – må Allāh vara nöjda med dem – var eniga bevisar till förmån för allmänna och tvivelaktiga tolkningar som kan rymma både korrekta och felaktiga förståelser. Man måste hålla fast vid de främste av dem som antog islam bland *muhajirun* och *ansār*. Detta för att man ska räknas in i Allāhs den Upphöjdes ord:
 
 > ”Föregångsmännen, de första av dem som utvandrade och [de första] hjälparna, och de rättsinniga [människor] som följde i deras spår – Gud är nöjd med dem och de är nöjda [där de njuter] Hans [gåvor]; Han har i beredskap för dem lustgårdar, vattnade av bäckar, där de ska förbli till evig tid. Detta är den stora, den lysande segern.” [Koranen 9:100]
 

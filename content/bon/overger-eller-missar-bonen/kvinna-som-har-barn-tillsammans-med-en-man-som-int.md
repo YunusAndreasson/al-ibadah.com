@@ -23,7 +23,7 @@ description: >-
 
 En icke-troende får inte gifta sig med en troende kvinna, vilket Allāh säger: "*Men om ni har övertygat er om att de är troende, sänd då inte tillbaka dem till förnekarna av sanningen; deras män har inte [längre] rätt att leva med dem och de har inte längre rätt att leva med sina män*." [^1]
 
-Om han övergav bönen när äktenskapskontraktet har upprättats blir äktenskapet upplöst om han inte ångrar sig och återvänder till islam. Vissa lärde har sammankopplat detta med att*´iddah* fullföljs och de säger att när *´iddah* är över är det inte tillåtet för honom att ta henne tillbaka om han antar islam utom genom ett nytt kontrakt.
+Om han övergav bönen när äktenskapskontraktet har upprättats blir äktenskapet upplöst om han inte ångrar sig och återvänder till islam. Vissa lärde har sammankopplat detta med att *´iddah* fullföljs och de säger att när *´iddah* är över är det inte tillåtet för honom att ta henne tillbaka om han antar islam utom genom ett nytt kontrakt.
 
 Kvinnan måste skilja sig från honom och inte tillåta honom att vara intim med henne utom om han ångrar sig och ber. Detta gäller även om hon har barn tillsammans med honom därför att fadern har inte rätt att uppfostra barnen under dessa omständigheter.
 

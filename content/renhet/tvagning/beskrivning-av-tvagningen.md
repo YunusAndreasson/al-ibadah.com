@@ -31,7 +31,7 @@ Detta är de obligatoriska delarna av tvagningen som måste utföras för att de
 
 > ”Troende! När ni går till bön, två då ansikte och händer samt armarna upp till armbågarna och stryk med [de våta] händerna över huvudet och [två] fötterna upp till fotknölarna. Och om ni befinner er i ett tillstånd av stor rituell orenhet, ska ni rena er [genom att skölja hela kroppen]. Den som är sjuk eller befinner sig på resa eller som just har förrättat sina behov eller haft beröring med kvinnor och inte kan finna vatten, ska ta ren jord och stryka över ansiktet och händer. Gud vill inte lägga på er tunga bördor, men [Han] vill rena er och fullkomna Sin nåd mot er – kanske känner ni tacksamhet.” [Koranen 5:6]
 
-Delar av tvagningen som är rebefallde
+Delar av tvagningen som är rekommenderade
 
 Dessa finns återberättade i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och detaljerna är enligt följande:
 
@@ -56,7 +56,7 @@ Enligt en majoritet av de lärde är det föreskrivet att säga *Bismillāh*, me
 
 Det finns ingen skillnad mellan män och kvinnor gällande tvagning.
 
-Efter att man har tvagat sig är det rebefallt att säga: “*Ashhadu an Lā ilāha ill-Allāh wahdahu lā sharīka lah, wa ashhadu anna Muḥammadan ‘abduhu wa rasūluhu* [Jag vittnar om att det inte finns någon annan gud än Allāh utan partner eller medhjälpare, och jag vittnar om att Muḥammad är Allāhs sändebud].” Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – brukade säga:
+Efter att man har tvagat sig är det rekommenderat att säga: “*Ashhadu an Lā ilāha ill-Allāh wahdahu lā sharīka lah, wa ashhadu anna Muḥammadan ‘abduhu wa rasūluhu* [Jag vittnar om att det inte finns någon annan gud än Allāh utan partner eller medhjälpare, och jag vittnar om att Muḥammad är Allāhs sändebud].” Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – brukade säga:
 
 > ”Det finns ingen bland er som tvagar sig ordentligt och noga, för att sedan säga: ‘*Ashhadu an Lā ilāha ill-Allāh wahdahu lā sharīka lah, wa ashhadu anna Muḥammadan ‘abduhu wa rasūluhu*’, utan att Paradisets portar öppnas för personen och personen får träda in igenom vilken personen vill av dem.” [*Muslim, al-Tahārah*, 345]
 

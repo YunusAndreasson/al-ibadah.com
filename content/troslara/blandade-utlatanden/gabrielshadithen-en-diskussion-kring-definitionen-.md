@@ -27,7 +27,7 @@ med *ḥadīt̲h* från ´Abdul-Qais-delegationen i vilken profeten – över ho
 
 Och inget vare sig i Koranen eller i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* motsäger sig odiskutabla faktum. Detta beror på att de är sanna och det kan inte finnas någon motsägelse i sanningen.
 
-Förstår du då denna princip kommer många tvivel att skringa sig för dig. Allāh den Upphöjde säger:
+Förstår du då denna princip kommer många tvivel att skingra sig för dig. Allāh den Upphöjde säger:
 
 > ”Ägnar de ingen eftertanke åt det som Koranen [innehåller]? De skulle säker ha funnit många motsägelser i den, om den inte varit från Gud.” [Koranen 4:82]
 

@@ -14,5 +14,5 @@ description: 'Fråga: En kvinna vallfärdade medan hon var gravid. När hon åte
 
 **Fråga:** En kvinna vallfärdade medan hon var gravid. När hon återvände från vallfärden avled hennes ofödda barn. Kommer då både hon och hennes barn att belönas för vallfärden?
 
-**Svar:** Endast kvinnan kommer att belönas för vallfärden, när det gäller barnet räknas ingen vallfärden för honom.
+**Svar:** Endast kvinnan kommer att belönas för vallfärden, när det gäller barnet räknas ingen vallfärd för honom.
 

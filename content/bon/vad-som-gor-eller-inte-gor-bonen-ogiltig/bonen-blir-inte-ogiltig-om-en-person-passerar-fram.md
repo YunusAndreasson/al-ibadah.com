@@ -24,7 +24,7 @@ Anledningen är att profeten – över honom vare Allāhs frid och välsignelser
 
 Han har beordrat den som ber mot en *sutrah* att inte låta folk passera framför. I stället ska de hindras: ”*Om någon ber mot något som skärmar av honom från folket [en sutrah[^1]] och någon önskade gå framför er, då bör ni hindra honom, men om han vägrar, då bör ni strida mot honom. Han är en djävul*.” [^4]
 
-profetens – över honom vare Allāhs frid och välsignelser – *sunnah* bevisar att Allāhs tjänare bör försöka hejda den som försöker att gå framför honom, även om han inte är en av de tre som tidigare nämnts och oavsett om det är en människa eller ett djur, om tjänaren har förmåga att göra det. Om tjänaren inte lyckas, då skadar det inte bönen.
+Profetens – över honom vare Allāhs frid och välsignelser – *sunnah* bevisar att Allāhs tjänare bör försöka hejda den som försöker att gå framför honom, även om han inte är en av de tre som tidigare nämnts och oavsett om det är en människa eller ett djur, om tjänaren har förmåga att göra det. Om tjänaren inte lyckas, då skadar det inte bönen.
 
 Det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah* att en muslim har något framför sig: en stol, ett spjut som sticks ned i marken, en vägg eller en av moskéns pelare. Om folket sedan går bakom denna *sutrah*, då kommer det inte skada bönen. Det som är förbjudet är att de passerar mellan den bedjande och hans *sutrah*.
 

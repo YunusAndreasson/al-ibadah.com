@@ -14,7 +14,7 @@ description: >-
 
 **Fråga:** Om någon fastar och ber enbart under *ramaḍān*, men slutar att be så fort *ramaḍān* är över, är personens fasta då giltig?
 
-**Svar:** All lovprisan tillhör Allāh. Bönen är en av islams pelare och det är den viktigaste pelaren efter trosbekännelsen. Den är även en individuell skyldighet. Den som inte ber för att personen förnekar att den är obligatoriskt eller om personen inte ber för att personen är lat och dumdristig, då är personen en icke-troende.
+**Svar:** All lovprisan tillhör Allāh. Bönen är en av islams pelare och det är den viktigaste pelaren efter trosbekännelsen. Den är även en individuell skyldighet. Den som inte ber för att personen förnekar att den är obligatorisk eller om personen inte ber för att personen är lat och dumdristig, då är personen en icke-troende.
 
 De som endast fastar och ber under *ramaḍān* försöker att lura Allāh. Hur dåliga är inte de som endast erkänner Allāh under *ramaḍān*. Deras fasta är inte giltig om de endast ber under *ramaḍān*. Genom att göra detta är de i stället icke-troende som gör sig skyldiga till stor otro, även om de inte förnekar att bönen är obligatorisk. Detta är enligt den mer korrekta av de båda åsikterna som de lärde har.
 

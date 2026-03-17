@@ -14,7 +14,7 @@ description: >-
 
 **Fråga:** Vilket är ditt råd till de i minoritetsställning som gifter sig med ickemuslimska kvinnor utan tro på en Skapare och vilka effekter får detta på deras barn?
 
-**Svar:** Mitt råd till alla muslimer är att de inte bör gifta sig med någon som inte är muslim. En muslimsk man bör göra sitt yttersta för att gifta sig men en muslimsk kvinna. Detta kommer att vara bra både för honom och hans barn, i detta liv och i det Nästkommande.
+**Svar:** Mitt råd till alla muslimer är att de inte bör gifta sig med någon som inte är muslim. En muslimsk man bör göra sitt yttersta för att gifta sig med en muslimsk kvinna. Detta kommer att vara bra både för honom och hans barn, i detta liv och i det Nästkommande.
 
 Giftermål med icke-troende som inte är Skriftens folk [kristna eller judar] är förbjudet. Enligt konsensus bland islamiskt lärde är det inte tillåtet för en muslim att gifta sig med en buddhist, kommunist eller ateist. Allāh säger i Koranen: "Tag inte till hustrur kvinnor som dyrkar avgudar förrän de blivit troende." [^1]
 

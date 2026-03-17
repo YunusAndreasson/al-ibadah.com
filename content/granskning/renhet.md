@@ -52,7 +52,7 @@
 
 - [ ] bad-nar-han-var-rituellt-oren-efter-samlag.md
 - [ ] bad-och-fick-det-sedan-klart-for-sig-att-han-egent.md
-- [ ] bad-under-fredagar-ar-en-hogst-rebefallad-sunna.md
+- [ ] bad-under-fredagar-ar-en-hogst-rekommenderad-sunna.md
 - [ ] brattom-att-goraghuslinnan-solen-gar-upp.md
 - [ ] erotiska-drommar-kommer-ihag-dem-i-efterhand.md
 - [ ] ghusl-aven-utan-orgasm.md

@@ -10,11 +10,11 @@ categories:
 original_id: 32
 description: >-
   Fråga: I mitt land dyrkar vissa andra än Allāh – upphöjd är Han. De har en
-  tradition att när en någon avlider, då avlivar de en ko, ett får, eller något
+  tradition att när någon avlider, då avlivar de en ko, ett får, eller något
   annat djur. När det har avlivats, då delar ...
 ---
 
-**Fråga:** I mitt land dyrkar vissa andra än Allāh – upphöjd är Han. De har en tradition att när en någon avlider, då avlivar de en ko, ett får, eller något annat djur. När det har avlivats, då delar de ut köttet bland de muslimer som bor i närheten. Dessa muslimer vägrar dock att acceptera det och de påstår att det inte är tillåtet.
+**Fråga:** I mitt land dyrkar vissa andra än Allāh – upphöjd är Han. De har en tradition att när någon avlider, då avlivar de en ko, ett får, eller något annat djur. När det har avlivats, då delar de ut köttet bland de muslimer som bor i närheten. Dessa muslimer vägrar dock att acceptera det och de påstår att det inte är tillåtet.
 
 Då säger de i stället till dessa muslimer [som inte ville ha köttet]: ”Ta en ko och avliva den själv, för att det ska vara en gåva i välgörenhet för den bortgångnes räkning.” Den bortgångne som dyrkade andra vid sidan av Allāh – Upphöjd är Han.
 

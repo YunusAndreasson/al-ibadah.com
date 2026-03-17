@@ -16,6 +16,6 @@ description: >-
 
 **Fråga:** Vilken är er åsikt om den utlovade al-Mahdi? Finns det några *aḥādīt̲h* som bekräftar hans ankomst?
 
-**Svar:** Det finns ett stort antal *aḥādīt̲h* som ledande auktoriteter inom *ḥadīt̲h*-vetenskapen har rapporterat. De bekräftar den falske Messias, Mahdi och Messias. Vissa tecken kommer att föregå hans ankomst. Det viktigaste tecknet är att rättvisa kommer att råda på jorden när orättvisa och tyranni har rått. Det inte tillåtet att påstå att någon är Mahdi förrän de tecken som ska visa sig har setts, enligt vad profeten – över honom vare Allāhs frid och välsignelser – förutsagt.
+**Svar:** Det finns ett stort antal *aḥādīt̲h* som ledande auktoriteter inom *ḥadīt̲h*-vetenskapen har rapporterat. De bekräftar den falske Messias, Mahdi och Messias. Vissa tecken kommer att föregå hans ankomst. Det viktigaste tecknet är att rättvisa kommer att råda på jorden när orättvisa och tyranni har rått. Det är inte tillåtet att påstå att någon är Mahdi förrän de tecken som ska visa sig har setts, enligt vad profeten – över honom vare Allāhs frid och välsignelser – förutsagt.
 
 

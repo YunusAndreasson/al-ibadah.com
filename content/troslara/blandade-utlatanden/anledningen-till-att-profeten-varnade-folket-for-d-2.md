@@ -9,14 +9,14 @@ categories:
   - Övrigt
 original_id: 1177
 description: >-
-  Den största prövning på jordens yta sedan Adam skapades tills Timmen börjar är
+  Den största prövningen på jordens yta sedan Adam skapades tills Timmen börjar är
   prövningen i Dajjāl, vilket är något profeten – över honom vare Allāhs frid
   och välsignelser – har berättat om. Därför...
 ---
 
-Den största prövning på jordens yta sedan Adam skapades tills Timmen börjar är prövningen i *Dajjāl*, vilket är något profeten – över honom vare Allāhs frid och välsignelser – har berättat om. Därför har profeterna – från Noa till Muḥammad – för att understryka vikten av denna fråga varnat människorna för honom [^1].
+Den största prövningen på jordens yta sedan Adam skapades tills Timmen börjar är prövningen i *Dajjāl*, vilket är något profeten – över honom vare Allāhs frid och välsignelser – har berättat om. Därför har profeterna – från Noa till Muḥammad – för att understryka vikten av denna fråga varnat människorna för honom [^1].
 
-Allāh vet att han inte kommer att dyka upp innan tidens ände men Han har befallt sändebuden att varna deras folk om honom så att vikten. Allvarligheten i detta ska vara uppenbar. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
+Allāh vet att han inte kommer att dyka upp innan tidens ände men Han har befallt sändebuden att varna deras folk om honom så att vikten och allvarligheten i detta ska vara uppenbar. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Om han dyker upp när jag är med er kommer jag att strida mot honom för er räkning men om han dyker upp när jag inte är bland er måste var och en strida för sin egen räkning och Allāh kommer att vara min khalifah [i mitt ställe ta hand om] varje muslim [och skydda personen mot hans onda].” [*Muslim* 2937]
 

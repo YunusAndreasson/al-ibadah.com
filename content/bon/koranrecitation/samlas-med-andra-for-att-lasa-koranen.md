@@ -14,7 +14,7 @@ description: >-
   ämnen...
 ---
 
-**Fråga:** Jag och mina kollegor samlas en gång i veckan för att läsa några verser från Koranen och bättra på vår recitation. Efteråt samtalar vi om olika ämnen. Vi har dock hört att de inte är tillåtet att samlas för att recitera medan det är tillåtet att samlas för att memorera Koranen. Är detta sant?
+**Fråga:** Jag och mina kollegor samlas en gång i veckan för att läsa några verser från Koranen och bättra på vår recitation. Efteråt samtalar vi om olika ämnen. Vi har dock hört att det inte är tillåtet att samlas för att recitera medan det är tillåtet att samlas för att memorera Koranen. Är detta sant?
 
 **Svar:** Det finns inget felaktigt i att samlas för att läsa, studera eller memorera Koranen, eller för att bättre förstå religionen. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 

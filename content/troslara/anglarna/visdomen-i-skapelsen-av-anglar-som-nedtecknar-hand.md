@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Först och främst: I frågor som dessa kan vi antingen känna till visdomen i dem, eller så gör vi det inte. Saken är den att det finns mycket som vi inte känner till visdomen i. Allāh säger:
 
-> ”De frågar dig om ingivelsens ande. Säg: 'Ingivelsens ande hör till det som är min Herre förbehåller – av [all] kunskap har bara en obetydlig del fallit på er [lott].” [Koranen 17:85]
+> ”De frågar dig om ingivelsens ande. Säg: 'Ingivelsens ande hör till det som är min Herre förbehållet – av [all] kunskap har bara en obetydlig del fallit på er [lott].” [Koranen 17:85]
 
 Detta är skapade ting.
 

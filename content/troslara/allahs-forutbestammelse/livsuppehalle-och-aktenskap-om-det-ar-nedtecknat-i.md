@@ -27,9 +27,9 @@ Levebrödet nedtecknas även enligt orsakerna och det varken ökar eller minskar
 
 En av orsakerna är också att man bevarar familjeband genom att vara snäll mot och ha en god relation med ens föräldrar. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som vill ha mer levebröd och fler levnadsår, låt personen upprätthålla goda relationer med nära och kära*.” [^2] Ytterligare en orsak är att man fruktar Allāh den Allsmäktige för Han den Upphöjde säger:
 
-> ”Personen maning riktas till alla som tror på Gud och den Yttersta dagen. Gud visar var och en som fruktar Honom en utväg ur [alla svårigheter] och sörjer för honom på ett sätt som han inte kan förutse, och den som litar till Gud behöver inget annat [stöd].” [Koranen 65:2 – 3]
+> ”Denna maning riktas till alla som tror på Gud och den Yttersta dagen. Gud visar var och en som fruktar Honom en utväg ur [alla svårigheter] och sörjer för honom på ett sätt som han inte kan förutse, och den som litar till Gud behöver inget annat [stöd].” [Koranen 65:2 – 3]
 
-Säg inte: ”*Levebrödet är nedskrivet och jag kommer inte att vidta de åtgärder som leder till det, det är ju meningslöst*.” Det är en del av vara förståndig och beslutsam att kämpa för sitt levebröd och allt som hjälper en i ens religion och världsliga företag. Profeten – över honom vare Allāhs frid och välsignelser – sade:
+Säg inte: ”*Levebrödet är nedskrivet och jag kommer inte att vidta de åtgärder som leder till det, det är ju meningslöst*.” Det är en del av att vara förståndig och beslutsam att kämpa för sitt levebröd och allt som hjälper en i ens religion och världsliga företag. Profeten – över honom vare Allāhs frid och välsignelser – sade:
 
 > ”Den klipske är den som tar ansvar för sig själv och som arbetar för det som kommer efter döden [Nästa liv] och den svage är den som låter sig själv följa sina fåfänga begär i hopp om att Allāh ska uppfylla personens önskningar.” [*at-Tirmid̲hī* 2459 och *Ibn Mājah* 4260]
 

@@ -20,7 +20,7 @@ description: >-
 
 /…/
 
-Vissa lärde har dock sagt att det är rebefallt att avsluta recitationen av Koranen med denna åkallan.
+Vissa lärde har dock sagt att det är rekommenderat att avsluta recitationen av Koranen med denna åkallan.
 
 Om imamen åkallar så här under den sista delen av natten och han gör det i *qunūt* under *witr*, då skulle det inte finnas någon invändan mot det då *qunūt* är föreskrivet.
 

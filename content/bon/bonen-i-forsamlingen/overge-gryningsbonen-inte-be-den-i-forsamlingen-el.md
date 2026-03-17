@@ -18,6 +18,6 @@ description: >-
 
 **Svar:** Om det som avses i frågan är att inte be gryningsbönen i församlingen så är detta förbjudet och en synd. Detta beror på att män måste be gemensamt i församlingen.
 
-Men om frågan avser att helt lämna bönen, eller om han väntar med att be den tills efter soluppgången, är han i mycket stor fara. Detta är så allvarligt att några lärde anser att den som skjuter upp en obligatorisk bön tills tiden går ut – utan en islamisk anledning – som resultat av detta är icke-troende. Därför är den obligatoriskt för den som gjort detta att be Allāh om förlåtelse och återvända till dyrkan av Honom.
+Men om frågan avser att helt lämna bönen, eller om han väntar med att be den tills efter soluppgången, är han i mycket stor fara. Detta är så allvarligt att några lärde anser att den som skjuter upp en obligatorisk bön tills tiden går ut – utan en islamisk anledning – som resultat av detta är icke-troende. Därför är det obligatoriskt för den som gjort detta att be Allāh om förlåtelse och återvända till dyrkan av Honom.
 
 

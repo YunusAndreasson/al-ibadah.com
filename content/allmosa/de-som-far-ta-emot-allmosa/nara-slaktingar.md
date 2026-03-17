@@ -22,5 +22,5 @@ Ett exempel på detta skulle vara en man vars son har varit inblandad i en olyck
 
 Detta beror på att fadern inte är skyldig att betala dessa skador som en del av sitt finansiella stöd. I stället är det en skyldighet som åligger honom på grund av något som inte har med finansiellt stöd att göra.
 
-Likaså dem som betalar allmosa till nära släktingar som de inte är skyldiga att betala till av någon annan anledning är allmosa, då är det tillåtet att betala den.
+Likaså för dem som betalar allmosa till nära släktingar som de inte är skyldiga att försörja av någon annan anledning, då är det tillåtet att betala den.
 

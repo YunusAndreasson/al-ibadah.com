@@ -28,6 +28,6 @@ Salim bin ´Abdullāh bin ´Umar hörde sin far [´Abdullāh bin ´Umar] säga: 
 
 Profeten – över honom vare Allāhs frid och välsignelser – gjorde *g̲husl* även vid Thul-Hulayfah. Det har rapporterats från Kharijah bin Zaid bin Thabit från hans far [Zaid bin Thabit] att han såg profeten – över honom vare Allāhs frid och välsignelser – ta av kläderna och göra *g̲husl* för att träda in i *iḥrām*. Detta har *at-Tirmid̲hī* återgivit.
 
-Må Allāhs sända välsignelser och frid över vår profet Muḥammad, hans familj och hans följeslagare.
+Må Allāh sända välsignelser och frid över vår profet Muḥammad, hans familj och hans följeslagare.
 
 

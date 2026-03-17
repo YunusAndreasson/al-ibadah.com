@@ -14,7 +14,7 @@ description: 'Fråga: Vilket är det bästa: kalla till islam eller söka kunska
 
 **Fråga:** Vilket är det bästa: kalla till islam eller söka kunskap?
 
-**Svar:** Söka kunskap är bättre och har en högre prioritet. Detta utesluter dock inte att han samtidigt kallar till islam samtidigt. Det är dock inte tillåtet att kalla till islam utan kunskap. Allāh säger:
+**Svar:** Söka kunskap är bättre och har en högre prioritet. Detta utesluter dock inte att han kallar till islam samtidigt. Det är dock inte tillåtet att kalla till islam utan kunskap. Allāh säger:
 
 > ”Säg [Muḥammad]: 'Detta är min väg: jag uppmanar [er] med klar syn och insikt att dyrka Gud.” [Koranen 12:108]
 

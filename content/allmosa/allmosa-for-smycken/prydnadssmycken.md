@@ -12,9 +12,9 @@ description: 'Fråga: De fyra imamerna har olika åsikter om smycken som kvinnor
  säger att det inte är obligatorisk. En säger at...'
 ---
 
-**Fråga:** De fyra imamerna har olika åsikter om smycken som kvinnor har som prydnad. En av dem säger att de är obligatoriskt enligt [vissa] villkor. En säger att det inte är obligatorisk. En säger att det är obligatoriskt ovillkorslöst. Så vilken åsikt anser ni vara den korrekta? Må Allāh belöna er med gott.
+**Fråga:** De fyra imamerna har olika åsikter om smycken som kvinnor har som prydnad. En av dem säger att det är obligatoriskt enligt [vissa] villkor. En säger att det inte är obligatoriskt. En säger att det är obligatoriskt ovillkorslöst. Så vilken åsikt anser ni vara den korrekta? Må Allāh belöna er med gott.
 
-Och om allmosa är obligatoriskt för smycken, hur betalar man då? Betalar man enligt det nuvarande marknadsvärdet, i vetskap att om kvinnan vill sälja dem så kommer hon inte att få det priset som hon har betalat? Eller betalar man enligt inköpspriset även om det är säkert att priset har gått upp eller ned?
+Och om allmosa är obligatorisk för smycken, hur betalar man då? Betalar man enligt det nuvarande marknadsvärdet, i vetskap att om kvinnan vill sälja dem så kommer hon inte att få det priset som hon har betalat? Eller betalar man enligt inköpspriset även om det är säkert att priset har gått upp eller ned?
 
 **Svar:** Det råder inga tvivel om att det finns en stor meningsskiljaktighet, nu som då, om utlåtandet om allmosa för smycken som används. Åsikten som jag föredrar är att allmosa bör betalas varje år även om de bärs. Anledningen är styrkan i bevisen och anledningarna som stödjer denna åsikt.
 

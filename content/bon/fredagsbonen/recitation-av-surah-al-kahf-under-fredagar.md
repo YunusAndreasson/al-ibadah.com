@@ -9,12 +9,12 @@ categories:
   - Fredagsbönen
 original_id: 361
 description: >-
-  Fråga: Är recitation av sura al-Khaf under fredagen en rebefallad handling?
+  Fråga: Är recitation av sura al-Kahf under fredagen en rekommenderad handling?
   Svar: Det finns ahādīth som tillskrivs profeten – över honom vare Allāhs frid
   och välsignelser – om detta. Var ...
 ---
 
-**Fråga:** Är recitation av sura al-Khaf under fredagen en rebefallad handling?
+**Fråga:** Är recitation av sura al-Kahf under fredagen en rekommenderad handling?
 
 **Svar:** Det finns *aḥādīt̲h* som tillskrivs profeten – över honom vare Allāhs frid och välsignelser – om detta. Var och en av dem stärker varandra vilket bevisar att det är tillåtet att recitera sura al-Kahf under fredagar.
 

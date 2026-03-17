@@ -14,7 +14,7 @@ description: >-
   åkallar ibland mot mig under de tider då åkalla...
 ---
 
-**Fråga:** Min vän frågar: ”Min mor blir snabbt arg och hon åkallar ofta mot mig och mina bröder. Detta speciellt när hon vaknar efter att ha sovit. Hon åkallar ibland mot mig under de tider då åkallan besvaras. Jag försöker att var plikttrogen mot henne men hennes barskhet får mig ibland till att inte lyda henne. Syndar jag trots att hon får mig till att inte lyda henne? Besvaras en mors bön om hon ber mot barnen utan anledning att göra så? Må Allāh belöna er med det goda.”
+**Fråga:** Min vän frågar: ”Min mor blir snabbt arg och hon åkallar ofta mot mig och mina bröder. Detta speciellt när hon vaknar efter att ha sovit. Hon åkallar ibland mot mig under de tider då åkallan besvaras. Jag försöker att vara plikttrogen mot henne men hennes barskhet får mig ibland till att inte lyda henne. Syndar jag trots att hon får mig till att inte lyda henne? Besvaras en mors bön om hon ber mot barnen utan anledning att göra så? Må Allāh belöna er med det goda.”
 
 **Svar:** Det är obligatoriskt för barnen, både pojkar och flickor, att vara vänliga och plikttrogna mot föräldrarna samt att sträva efter att undvika att göra dem arga som få dem till att åkalla mot dem. Detta beror på att föräldrarnas rättigheter har stor vikt. Allāh beordrar oss ofta att uppfylla dessa rättigheter, som när Han säger: "Er Herre har befallt, att ni inte ska dyrka någon annan än Honom. Och [Han har befallt er] att visa godhet mot [era] föräldrar." [^1] "Tacka Mig och dina föräldrar [och minns att] Jag är målet för er färd!" [^2]
 

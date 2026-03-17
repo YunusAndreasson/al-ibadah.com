@@ -21,7 +21,7 @@ description: >-
 
 Det finns även andra verser med samma innebörd. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om någon av er såg något dåligt, då bör han korrigera det med sin hand; och om han inte har möjlighet att göra det, då med sina ord; och om han inte har möjlighet att göra detta, då i hans hjärta – och detta är den svagaste formen av tro*.” [^2]
 
-Då du inte gjorde detta måste du ångra dig uppriktigt för din olydnad. Detta innebär att du ångrar vad du gjort, undviker det bestämmer dig för att inte göra om det. Var uppriktig mot Allāh, prisa Honom och frukta Hans straff. Den som vänder sig till Allāh i ånger kommer Han att förlåta. Detta enligt Hans den Allsmäktiges ord: ”*Men Jag ger förvisso den full förlåtelse som ångrar sig, antar tron och sedan lever ett rättskaffens liv och följer vägledningen*.” [^3]
+Då du inte gjorde detta måste du ångra dig uppriktigt för din olydnad. Detta innebär att du ångrar vad du gjort, undviker det och bestämmer dig för att inte göra om det. Var uppriktig mot Allāh, prisa Honom och frukta Hans straff. Den som vänder sig till Allāh i ånger kommer Han att förlåta. Detta enligt Hans den Allsmäktiges ord: ”*Men Jag ger förvisso den full förlåtelse som ångrar sig, antar tron och sedan lever ett rättskaffens liv och följer vägledningen*.” [^3]
 
 
 [^1]: Koranen 3:104

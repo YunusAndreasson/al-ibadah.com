@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** [I den långa frågan diskuteras ett antal olika innovationer.]
 
-**Svar:** *Nashīd* före böneutropet under fredagsbönen har inte bekräftats vara tillåtet, därmed är det en innovation. Fredagar bör inte väljas ut för koranrecitation genom högtalare eller på annat sätt – varken före böneutropet eller efter bönen – och recitationen är inte särskild för fredagar, utan recitationen är för varje dag. Därmed är det en innovation att göra det till något särskilt för fredagar. profetens – över honom vare Allāhs frid och välsignelser – bekräftade *sunnah* är att begränsa sig till böneutropet för den.
+**Svar:** *Nashīd* före böneutropet under fredagsbönen har inte bekräftats vara tillåtet, därmed är det en innovation. Fredagar bör inte väljas ut för koranrecitation genom högtalare eller på annat sätt – varken före böneutropet eller efter bönen – och recitationen är inte särskild för fredagar, utan recitationen är för varje dag. Därmed är det en innovation att göra det till något särskilt för fredagar. Profetens – över honom vare Allāhs frid och välsignelser – bekräftade *sunnah* är att begränsa sig till böneutropet för den.
 
 Recitation av as-Samadiyyah eller något annat från Koranen eller åminnelse innan predikan börjar är inte obligatoriskt, saken är den att det är en innovation. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [^2]
 
@@ -28,6 +28,6 @@ Den islamiska lagen uppmuntrar till att böner sänds över profeten – över h
 
 För den som hör böneutropet är det *sunnah* att upprepa efter, och när böneutroparen har avslutat den sända böner över profeten – över honom vare Allāhs frid och välsignelser – och be Allāh att Han ger profeten – över honom vare Allāhs frid och välsignelser – medlingen.
 
-[^1]: Tahiyyatul-Msjid.
+[^1]: Tahiyyatul-Masjid.
 
 [^2]: *al-Buk̲hārī* 2697 och *Muslim* 1718

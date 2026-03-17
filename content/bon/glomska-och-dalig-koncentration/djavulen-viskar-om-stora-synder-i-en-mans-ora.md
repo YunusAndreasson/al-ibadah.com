@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Det finns en man som lider av djävulens viskningar. Djävulen viskar saker till honom som är stora synder beträffande Allāh den Allsmäktige. Han är mycket rädd för detta. Vilket är ert råd?
 
-**Svar:** Gällande det som har nämnts i frågan om frågeställarens problem, vilket är att han fruktar resultatet av detta, säger jag: Gläd dig åt de goda nyheterna att det inte kommer något annat än gott från detta. Detta är viskningar genom vilka djävulen ger sig på de troende för att förstöra den sunda tron i deras hjärtan, hetsar på dem andlig och mental och stör lugnet i deras tro – sannerligen, [hela] deras livsfrid om de är troende.
+**Svar:** Gällande det som har nämnts i frågan om frågeställarens problem, vilket är att han fruktar resultatet av detta, säger jag: Gläd dig åt de goda nyheterna att det inte kommer något annat än gott från detta. Detta är viskningar genom vilka djävulen ger sig på de troende för att förstöra den sunda tron i deras hjärtan, hetsar på dem andligt och mentalt och stör lugnet i deras tro – sannerligen, [hela] deras livsfrid om de är troende.
 
 Han är inte den förste och inte heller den siste vars tro har ställts inför denna situation. Detta kommer att fortsätta så länge det finns troende i denna värld och detta drabbade även profetens – över honom vare Allāhs frid och välsignelser – följeslagare. Från Abū Hurairah har det rapporterats att han har sagt: ”
 
@@ -49,7 +49,7 @@ Djävulen har inte som syfte att få människor att tvivla på detta. Det stora 
 
 Profeten – över honom vare Allāhs frid och välsignelser – har berättat om en nyttig medicin som innehåller ett botemedel mot detta: "*Låt honom då söka sin tillflykt hos Allāh och sluta med att göra det*." Slutar man att göra det och fortsätter att dyrka Allāh för att söka och längta efter det som finns hos Honom, då kommer detta inte längre att bekymra en, genom Allāhs makt.
 
-Undvik därför alla ingivelser som passerar genom ditt hjärta i fråga om detta. Dyrka, åkalla och glorifiera Allāh och om du skulle hör någon som beskrev Allāh med vad som viskats till personen, då skulle du dräpa honom om du kunde.
+Undvik därför alla ingivelser som passerar genom ditt hjärta i fråga om detta. Dyrka, åkalla och glorifiera Allāh och om du skulle höra någon som beskrev Allāh med vad som viskats till personen, då skulle du dräpa honom om du kunde.
 
 Vad som viskas är inte verklighet, utan i stället är det enbart tankar och viskningar som saknar grund. Detta är som i det fall när någon bär ett rent klädesplagg som just har tvättats och som då drabbas av tankar om att det kanske kan vara orent och att det kanske inte skulle vara tillåtet att be i det. I detta fall bör han inte bry sig om det.
 

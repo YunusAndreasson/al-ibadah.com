@@ -14,7 +14,7 @@ description: >-
   tre dagar? Bör jag ta igen dem genom att be ...
 ---
 
-**Fråga:** Jag bad inte under tre dagar. Efteråt vägledde Allāh mig och jag har sedan detta tillfälle trofast utfört min bön i tid. Men vad gäller för dess tre dagar? Bör jag ta igen dem genom att be bönerna nu? Måste någon som med vilje lämnar bönen ta igen den?
+**Fråga:** Jag bad inte under tre dagar. Efteråt vägledde Allāh mig och jag har sedan detta tillfälle trofast utfört min bön i tid. Men vad gäller för de tre dagarna? Bör jag ta igen dem genom att be bönerna nu? Måste någon som med vilje lämnar bönen ta igen den?
 
 **Svar:** Du behöver inte ta igen dessa böner men du måste ångra dig uppriktigt. Du måste även vara flitig med att inte enbart utföra den obligatoriska bönen utan även *sunnah* och frivilliga böner. Och Allāh förlåter synder.
 

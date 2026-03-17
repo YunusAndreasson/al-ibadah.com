@@ -20,5 +20,5 @@ description: >-
 
 Och Allāh är källan till all styrka. Må Allāh sända välsignelser och frid över vår profet Muḥammad.
 
-[^1]: Den sju långa rundar vandringen runt Kabah.
+[^1]: Den sju varv långa rundvandringen runt Kabah.
 

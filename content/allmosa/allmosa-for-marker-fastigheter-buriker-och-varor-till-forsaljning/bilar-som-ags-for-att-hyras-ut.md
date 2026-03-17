@@ -14,5 +14,5 @@ description: 'Fråga: Hur betalar man allmosa för transportfordon och hyrbilar?
 
 **Fråga:** Hur betalar man allmosa för transportfordon och hyrbilar? Baserar man allmosan på värdet av intäkterna?
 
-**Svar:** Så länge dessa fordon används för uthyrning är allmosa obligatoriskt för hyresavgiften om de har hyrts ut under ett år. Allmosa krävs inte för deras värde [värdet på bilen i sig].
+**Svar:** Så länge dessa fordon används för uthyrning är allmosa obligatorisk för hyresavgiften om de har hyrts ut under ett år. Allmosa krävs inte för deras värde [värdet på bilen i sig].
 

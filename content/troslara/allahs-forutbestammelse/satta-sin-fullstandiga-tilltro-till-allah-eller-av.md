@@ -43,7 +43,7 @@ Allāh befallde David att göra dem ordentligt, långa och löst sittande för a
 
 Med detta som grund: Invånarna i de länder som ligger nära krigsplatser syndar inte när de vidtar försiktighetsåtgärder genom att använda gasmasker som ska hindra att giftiga gaser drabbar dem. Detta beror på att det är ett sätt för att skydda sig själv mot sådant som är ont och skadligt. Likaså finns ingen invändan mot att de bunkrar upp med mat och annat, saker som de tror att de behöver och som de är rädda för att inte kunna få tag på. Desto räddare de är för detta, desto större är behovet av att vidta försiktighetsåtgärder.
 
-Men det är nödvändigt att de sätter sin tilltro till Allāh den Allsmäktige och att de vidtar dessa åtgärder enligt Hans lag och visdom, från grunden att de är medel som Allāh tillåtet för dem. Vad de inte ska göra är att vidta dessa åtgärder i tron om att de i sig själva är saker som gör nytta eller skyddar mot ont. De måste också tacka Allāh den Upphöjde för att Han gjort det lätt för dem att kunna vidta sådana åtgärder.
+Men det är nödvändigt att de sätter sin tilltro till Allāh den Allsmäktige och att de vidtar dessa åtgärder enligt Hans lag och visdom, från grunden att de är medel som Allāh tillåtit för dem. Vad de inte ska göra är att vidta dessa åtgärder i tron om att de i sig själva är saker som gör nytta eller skyddar mot ont. De måste också tacka Allāh den Upphöjde för att Han gjort det lätt för dem att kunna vidta sådana åtgärder.
 
 Vid Allāh, jag ber att Han skyddar oss alla från orsakerna till prövningar och undergång, att Han hjälper oss och våra bröder att få en starkare tro och tillit till Honom och att vidta de nödvändiga åtgärder som Han har tillåtit på det sätt som gör Honom nöjd. Han är sannerligen den Generösaste.
 

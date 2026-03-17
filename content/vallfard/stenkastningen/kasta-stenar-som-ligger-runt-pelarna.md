@@ -14,5 +14,5 @@ description: 'Fråga: Får en pilgrim använda de stenar som finns runt pelarna 
 
 **Fråga:** Får en pilgrim använda de stenar som finns runt pelarna för att kasta med?
 
-**Svar:** Det är tillåtet. Den grundläggande principen är att de inte har använts för att kasta med. Men när det gäller de stenar som är i sänkan [vid pelarnas for], då bör de inte användas för att kasta.
+**Svar:** Det är tillåtet. Den grundläggande principen är att de inte har använts för att kasta med. Men när det gäller de stenar som är i sänkan [vid pelarnas fot], då bör de inte användas för att kasta.
 

@@ -13,7 +13,7 @@ description: >-
 
 *s̲hayk̲h ul-islām* Ibn Taymiyyah ställdes följande fråga:
 
-Jag bad shayken, imamen, åtföljaren av *salaf* och ledarna i generationerna som följde, den berömdaste man som jag någonsin har träffat ifrån öst och väst, Taqiy al-Dīn Abu'l-Abbās *Aḥmad* Ibn Taymiyyah att ge mig råd om något som kan vägleda mig i både religiösa och världsliga frågor.
+Jag bad shaykhen, imamen, åtföljaren av *salaf* och ledarna i generationerna som följde, den berömdaste man som jag någonsin har träffat ifrån öst och väst, Taqiy al-Dīn Abu'l-Abbās *Aḥmad* Ibn Taymiyyah att ge mig råd om något som kan vägleda mig i både religiösa och världsliga frågor.
 
 **Svar:**   När det kommer till råd känner jag – för dem som förstår och följer dem – inte till något nyttigare än Allāhs och Hans sändebuds: ”*Vi uppmanade dem som fick ta emot Skrifter före er, liksom [Vi uppmanar] er, att frukta Gud*.” [^2]
 
@@ -37,7 +37,7 @@ I denna *ḥadīt̲h* nämns ordet *sayi'ah* [dålig handling] först trots att 
 
 De goda handlingarna bör vara av samma beskaffenhet som de dåliga, för det kommer på ett effektivare sätt att gottgöra för dem. De konsekvenser som uppstår av synder kan strykas ut på flera sätt. Det första är ånger och det andra är att söka förlåtelse [istighfār] utan att ångra sig, för Allāh kan förlåta personen som svar på personens åkallan även om personen inte har ångrat sig. Det bästa är dock om ånger och sökande efter förlåtelse förenas. Det tredje sättet är genom att handla rättfärdigt för att gottgöra för synden.
 
-När det gäller särskilda gottgörelser – likt de som finns föreskriva för dem som har intim samvaro under *ramaḍān*, skiljer sig från deras fruar genom *ẓihār*, gör något förbjudet under pilgrimsfärden [eller missar någon obligatorisk] eller jagar under pilgrimsfärden – finns det fyra olika metoder för gottgörelse: offra något, frigöra en slav, ge allmosor eller fasta.
+När det gäller särskilda gottgörelser – likt de som finns föreskrivna för dem som har intim samvaro under *ramaḍān*, skiljer sig från deras fruar genom *ẓihār*, gör något förbjudet under pilgrimsfärden [eller missar någon obligatorisk] eller jagar under pilgrimsfärden – finns det fyra olika metoder för gottgörelse: offra något, frigöra en slav, ge allmosor eller fasta.
 
 Om gottgörelser som inte finns definierade sade Hudhayfah till ´Umar: "*Den fitnah[^1] [då personen kommer till korta i religiösa frågor] som en man utsätts för genom sin familj, egendom och barn kan gottgöras för genom bön, fasta, välgörenhet samt att påbjuda det goda och förbjuda det onda*."
 
@@ -61,7 +61,7 @@ När profeten – över honom vare Allāhs frid och välsignelser – hade fasts
 
 Det "*lysande exempel*" [^4] som Allāh har beskrivit Muḥammad med är den religion som består av allt som Allāh har påbjudit. Följaktligen har Mujāhid sagt att han var en uttolkare av Koranen, för 'A'ishah – må Allāh vara nöjd med henne – har sagt: "*Hans karaktär var Koranen*." Grunden för denna karaktär var att han med skyndsamhet, vilja och ett öppet hjärta gjorde vad Allāh älskar.
 
-Detta kan summeras i ordet taqwā [fruktan av Allāh] som innefattar att man gör allt som Allāh har påbjudit oavsett om det är obligatoriskt eller rebefallt och att man undviker allt som han har förbjudit oavsett om det är förbjudet eller ogillat. Detta för samma både plikter mot Allāh och plikter mot andra människor. Men taqwā kan ibland också avse fruktan för det straff som gör att man avstår det som är förbjudet.
+Detta kan summeras i ordet taqwā [fruktan av Allāh] som innefattar att man gör allt som Allāh har påbjudit oavsett om det är obligatoriskt eller rekommenderat och att man undviker allt som han har förbjudit oavsett om det är förbjudet eller ogillat. Detta för samman både plikter mot Allāh och plikter mot andra människor. Men taqwā kan ibland också avse fruktan för det straff som gör att man avstår det som är förbjudet.
 
 Detta har förklarats i en *ḥadīt̲h* om Mu'ādh. På samma sätt i en *ḥadīt̲h* från Abū Hurairah som har återberättats och klassats som *Ṣaḥīḥ* av *at-Tirmid̲hī*: "Det sades: 'Allāhs sändebud! Vad är det som oftast tar människor till Paradiset?' Han svarade: 'Fruktan av Allāh och ett bra sätt." Det sades: 'Och vad är det som vanligtvis tar människor till Helvetet?' Han svarade: 'De två håliga sakerna: munnen och könsdelarna.'"
 

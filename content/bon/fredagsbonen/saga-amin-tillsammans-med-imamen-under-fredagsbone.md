@@ -16,6 +16,6 @@ description: >-
 
 **Fråga:** Är det en innovation att under fredagsbönen säga *āmīn* tillsammans med imamen?
 
-**Svar:** Att säga *āmīn* efter predikantens predikan är inte en innovation. Om personen börjar åkalla för muslimerna är det rebefallt att säga *āmīn* efter personens åkallan. Man bör dock inte säga det gemensamt och med hög röst. I stället bör man säga *āmīn* för sig själv och med en låg röst så att ingen störs och så att inga röster höjs. Alla bör då tyst och var för sig säga *āmīn* efter predikantens åkallan.
+**Svar:** Att säga *āmīn* efter predikantens predikan är inte en innovation. Om personen börjar åkalla för muslimerna är det rekommenderat att säga *āmīn* efter personens åkallan. Man bör dock inte säga det gemensamt och med hög röst. I stället bör man säga *āmīn* för sig själv och med en låg röst så att ingen störs och så att inga röster höjs. Alla bör då tyst och var för sig säga *āmīn* efter predikantens åkallan.
 
 

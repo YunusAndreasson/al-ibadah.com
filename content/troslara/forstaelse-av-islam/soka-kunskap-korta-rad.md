@@ -19,7 +19,7 @@ description: >-
 1. Skänk lite tid varje dag till att memorera Allāhs Bok, läs och begrunda för att du ska förstå det du läser. Hittar du något extra intressant stycke under din läsning, gör då en markering vid det.
 2. Börja med att memorera det som är lätt för dig ifrån vår profets autentiska *sunnah*. En bra bok att memorera är 'Umdatul-Ahkām.
 3. Var uppmärksam och koncentrerad när du studerar och hoppa inte från ämne till ämne då detta enbart tar värdefull tid.
-4. Börja med mindre böcker och studera dem noga, fortsätt sedan med de större så att du lära dig lite åt gången.
+4. Börja med mindre böcker och studera dem noga, fortsätt sedan med de större så att du lär dig lite åt gången.
 5. Försök att förstå de grundläggande delarna först, deras regler och begränsningar. Detta har uttrycksfullt förklarats på följande sätt: ”*Den som inte tar sig tid att lära grunderna, har hindrat sig själv från att nå fram till slutsatsen [eller målet]*.”
 6. Diskutera de frågor som uppkommer med din *s̲hayk̲h* eller någon annan som är känd för sin kunskap och utövar religionen på ett korrekt sätt.
 

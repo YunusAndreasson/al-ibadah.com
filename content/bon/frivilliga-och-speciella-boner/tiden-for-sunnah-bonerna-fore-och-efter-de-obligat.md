@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Vissa lärde säger att tiden för *sunnah* före och efter de obligatoriska bönerna är från början av tiden för den obligatoriska bönen och slutar när tiden för den obligatoriska bönen slutar. Vissa säger att tiden för bönen före den obligatoriska bönen tar slut när den obligatoriska bönen har förrättats. Vilken är den starkaste åsikten?
 
-**Svar:** Den starkaste åsikten är att tiden för *sunnah* för den obligatoriska bönen är mellan början på tiden för den bönen och tiden då den förrättas. Tiden för de fasta bönerna föremiddagsbönen[^1] börjar vid böneutropet förmiddagsbönen[^1], det vill säga från tidpunkten då solen passerar himlens mitt, och de upphör när bönen har förrättats.
+**Svar:** Den starkaste åsikten är att tiden för *sunnah* för den obligatoriska bönen är mellan början på tiden för den bönen och tiden då den förrättas. Tiden för de fasta bönerna före middagsbönen[^1] börjar vid böneutropet för förmiddagsbönen[^1], det vill säga från tidpunkten då solen passerar himlens mitt, och de upphör när bönen har förrättats.
 
 Tiden för *sunnah* efter de obligatoriska bönerna börjar när bönen har förrättats och slutar när den tillåtna tiden för att be dem är över.
 

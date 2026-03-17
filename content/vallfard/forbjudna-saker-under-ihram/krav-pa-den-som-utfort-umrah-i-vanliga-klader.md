@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Jag utförde *´umrah* under början av *ramaḍān* detta år. Jag stannade i ungefär femton dagar och sedan utförde jag en *´umrah* till i mina vanliga kläder. När jag först nådde helgedomen bad jag två bönecykler för att de skulle vara hälsningsbönen till moskén[^1]. Sedan utförde jag *ṭawāf* genom att gå sju varv runt Ka’bah. Efter det gick jag för att be två bönecykler där vår far Abraham stått. Sedan gick jag till platsen för *sa´ī* och jag utförde den genom att gå sju gånger mellan as-Safa och al-Marwah. Sedan klippte jag mitt hår. Var min handling korrekt?
 
-**Svar:** Det du berättade i din fråga – om vad du gjorde under din *´umrah* – var det som är obligatoriskt för dig och du behöver inte gottgöra får något om du gick in i *iḥrām* för den vid rätt *mīqāt*. Men att du bad två bönecykler som hälsningsbönen till moskén[^1] när du gick in i moskén innan du gjorde *ṭawāf*, det står i motsats till profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. För den som går in i helgedomen är det *sunnah*, speciellt under *iḥrām*, att börja med att göra *ṭawāf* om det går bra.
+**Svar:** Det du berättade i din fråga – om vad du gjorde under din *´umrah* – var det som är obligatoriskt för dig och du behöver inte gottgöra för något om du gick in i *iḥrām* för den vid rätt *mīqāt*. Men att du bad två bönecykler som hälsningsbönen till moskén[^1] när du gick in i moskén innan du gjorde *ṭawāf*, det står i motsats till profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. För den som går in i helgedomen är det *sunnah*, speciellt under *iḥrām*, att börja med att göra *ṭawāf* om det går bra.
 
 Vad du berättade om att träda in i *iḥrām* i dina kläder, om du menade de två plaggen för *iḥrām* [vilka är ett midjeplagg och ett övre plagg] som du hade använt före denna *´umrah*, då är det inte fel. Du får använda dem flera gånger under vallfärden eller *´umrah* och du får ge dem till någon annan som använder dem för detta ändamål.
 
@@ -28,5 +28,5 @@ Kände du inte till denna regel eller om du glömde bort den, då krävs det ing
 
 Och framgång kommer från Allāh. Må Allāh sända välsignelser över vår profet Muḥammad.
 
-[^1]: Tahiyyatul-Msjid.
+[^1]: Tahiyyatul-Masjid.
 

@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Det är inte tillåtet att sitta tillsammans med människor som dricker alkohol utan i syfte att tillrättavisa dem. Om de accepterar det är allt frid och fröjd men om de inte gör det måste man ge sig av. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Den som tror på Allāh och den Yttersta dagen bör inte sitta vid bord där alkohol serveras*.” [^1] Återberättad av imam *Aḥmad* och *at-Tirmid̲hī* med en kedja av rapportörer som är god.
 
-Att sitta tillsammans med dem kan leda till att man gör samma onda saker som de gör och att man accepterar det. Allāh den Allsmäktig har i sura al-An'am sagt:
+Att sitta tillsammans med dem kan leda till att man gör samma onda saker som de gör och att man accepterar det. Allāh den Allsmäktige har i sura al-An'am sagt:
 
 > ”Om du ser människor [i lättsinne] ge sig in i en diskussion om Våra budskap, dra dig då ifrån dem till dess de övergår till andra ämnen och om Djävulen skulle få dig att glömma [detta], stanna då inte i sådana ogudaktiga människor sällskap, då du påmint dig [din plikt].” [Koranen 6:68]
 
