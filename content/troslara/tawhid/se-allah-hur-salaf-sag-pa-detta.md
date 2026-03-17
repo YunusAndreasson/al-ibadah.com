@@ -27,7 +27,7 @@ Han har tillskrivit seendet till ansikten och den del av ansiktet som ser är ö
 
 Vi kan då inte omfatta Honom med vår kunskap, och att omfatta med kunskap är vidare och mer omfattande än att omfatta med synen. Beviset för detta finns i Allāhs den Upphöjdes ord:
 
-> ”Människans öga ser Honom inte, men Han ser allt vad ett människoöga kan se. Han är den Outgrundlige som genomskådar allt och som är underättad om allt.” [Koranen 6:103]
+> ”Människans öga ser Honom inte, men Han ser allt vad ett människoöga kan se. Han är den Outgrundlige som genomskådar allt och som är underrättad om allt.” [Koranen 6:103]
 
 Även om synen kan uppfatta Honom kan den inte förstå Honom. Allāh den Allsmäktige ses i verkligheten av ögat men det går inte att förstå Honom genom denna syn. Detta beror på att Han den Allsmäktige är för väldig för att förstås genom den.
 
@@ -39,7 +39,7 @@ Den som påstår att Allāh inte uppfattas genom det mänskliga ögat och att *a
 
 > ”Ihsan är att dyrka Allāh som om du ser Honom för även om du inte ser Honom så ser Han sannerligen dig.” [*Muslim* 9]
 
-Att dyrka Allāh som om man ser Honom är fullständig och perfekt visshet. Därför är påståendet att denna *ru'yah* betyder fullständig och perfekt visshet, för att den som är absolut säker på någonting är likt den som ser något med sina egna ögon, ett falskt påstående och det ett fördärv av bevisen. Ett sådant påstående är inte ta’wīl utan det är en falsk förvridning. Den som har sagt så måste avvisas.
+Att dyrka Allāh som om man ser Honom är fullständig och perfekt visshet. Därför är påståendet att denna *ru'yah* betyder fullständig och perfekt visshet, för att den som är absolut säker på någonting är likt den som ser något med sina egna ögon, ett falskt påstående och det är ett fördärv av bevisen. Ett sådant påstående är inte ta’wīl utan det är en falsk förvridning. Den som har sagt så måste avvisas.
 
 Och Allāh är den vars hjälp vi söker.
 

@@ -22,7 +22,7 @@ Fråga: ”Även om händerna används?”
 
 ”Det finns några reservationer när det gäller att använda handen [onani]. Det är inte tillåtet, utom om han är rädd för att begå otukt om man inte gör det.
 
-Fråga: ”Så länge händerna används är det alltså OK?”
+Fråga: ”Så länge händerna inte används är det alltså OK?”
 
 ”Ja, så länge händerna inte används är det OK. Han kan föreställa sig att han är med henne och det är inget fel med det. De bör se till att ingen lyssnar på vad de säger eller spionerar på dem. Och Allāh vet bäst.”
 

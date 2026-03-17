@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Hur betalar man allmosa för smycken som inte är enbart guld? De är dekorerade med ett antal juveler och ädelstenar. Räknar man med juvelernas och ädelstenars vikt tillsammans med guldet, då det är svårt att separera guldet från dem?
 
-**Svar:** Det är guldet som allmosan är obligatoriskt för, även om de bärs. Ädelstenar som pärlor, diamanter och liknande krävs det ingen allmosa för.
+**Svar:** Det är guldet som allmosan är obligatorisk för, även om de bärs. Ädelstenar som pärlor, diamanter och liknande krävs det ingen allmosa för.
 
 Om då halsbandet eller något annat innehåller båda dessa [guld och stenar], då måste kvinnan, hennes make eller hennes förmyndare noga utvärdera hur mycket guld där finns eller gå till någon som kan göra detta. Vad som då verkar vara en korrekt uppskattning är tillräckligt. Om den lägsta nivån som krävs för allmosa uppnås, då betalar man den.
 

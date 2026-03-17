@@ -12,7 +12,7 @@ description: >-
 
 **Fråga:** Jag har mött många motgångar i detta liv, vilket har fått mig att hata det. Varje gång jag vänder mig till Allāh, ber jag Honom att han ska ta mitt liv i nästa andetag. Detta är min önskning, då jag inte ser någon annan utväg från mina problem än döden. Är dessa tankar tillåtna?
 
-**Svar:** När en person vill ta sitt liv, efter att ha fått en depression, gör han något som profeten – över honom vare Allāhs frid och välsignelser – har förbjudit då han sagt: "Ingen av er bör längta efter döden på grund av något jobbigt som drabbat er. Om man känner på detta sätt ska man säga: "Allāh! Ge mig liv om du vet att det är bättre för mig. Och ge mig döden om det vet att det är bättre för mig."
+**Svar:** När en person vill ta sitt liv, efter att ha fått en depression, gör han något som profeten – över honom vare Allāhs frid och välsignelser – har förbjudit då han sagt: "Ingen av er bör längta efter döden på grund av något jobbigt som drabbat er. Om man känner på detta sätt ska man säga: "Allāh! Ge mig liv om du vet att det är bättre för mig. Och ge mig döden om Du vet att det är bättre för mig."
 
 Därför är det inte tillåtet att önska livet av sig själv efter att ha hamnat i svårigheter. I stället bör man ha tålamod och förvänta sig en belöning från Allāh när man väljer att härda ut. Man bör även vänta sig att en lättnad ska komma då profeten – över honom vare Allāhs frid och välsignelser – har sagt: "Var medveten om att segern kommer med tålamod, lättnad efter nöd, och lugn efter vedermödor."
 

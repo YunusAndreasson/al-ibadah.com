@@ -24,6 +24,6 @@ Bland hans mest kända verk finns *Majmū´ al-Fatāwā*, *Minhāj as-Sunnah an-
 
 Han var inte bara en lärd utan deltog även personligen i försvaret av Damaskus mot mongolerna vid slaget vid Shaqḥab år 702 AH.
 
-Han avled i fängelset i Damaskus citadell natten till måndagen den 20:e *d̲hul-qa´dah* 728 AH. Han var då 67 år gammal. Hans begravning deltogs av ett enormt antal människor och anses vara en av de mest bevittnade begravningarna i Damaskus historia.
+Han avled i fängelset i Damaskus citadell natten till måndagen den 20:e *d̲hul-qa´dah* 728 AH. Han var då 67 år gammal. Hans begravning bevittnades av ett enormt antal människor och anses vara en av de mest bevittnade begravningarna i Damaskus historia.
 
 Må Allāh vara honom nådig.

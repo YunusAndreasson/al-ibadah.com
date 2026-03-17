@@ -21,5 +21,5 @@ description: >-
 Vissa lärde säger att dess återberättarkedja är autentisk, att det bör sägas och att det inte motsäger de andra. Bland dem som anser att den är autentisk finns *s̲hayk̲h* ´Abdul-´Azīz Ibn Baz som har sagt: ”Dess *återberättarkedja är autentisk då den har återgivits i al-Baihaqi med en autentisk kedja av återberättare*.” [al-Baihiqi i *as-Sunan* 1:410]
 
 [^1]: Dhikr
-[^2]: En rapport från en enda källa som motsäger sig vad som vida har rapporterats från dem som är bättre kvalificerade.
+[^2]: En rapport från en enda källa som motsäger vad som vida har rapporterats från dem som är bättre kvalificerade.
 

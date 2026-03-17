@@ -22,7 +22,7 @@ Beskriver man honom enbart som Allāhs *habīb* har man sänkt hans status. [All
 
 Alla troende är Allāhs älskade men Hans sändebud åtnjuter en högre status än så, vilken är *al-khullah*. Allāh har tagit honom som Sin *khalīl* på samma sätt som Han tog Abraham som Sin *khalīl*.
 
-Såldes säger vi att Muḥammad är Allāhs sändebud och *khalīl*, och detta är bättre än att säga att han är Allāhs habīb. Anledningen är att i detta räknas mer än Allāhs kärlek in – då det är den yttersta kärleken.
+Således säger vi att Muḥammad är Allāhs sändebud och *khalīl*, och detta är bättre än att säga att han är Allāhs habīb. Anledningen är att i detta räknas mer än Allāhs kärlek in – då det är den yttersta kärleken.
 
 
 [^1]: *Ibn Mājah* 141

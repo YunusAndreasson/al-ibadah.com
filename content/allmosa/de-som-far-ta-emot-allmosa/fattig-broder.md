@@ -13,7 +13,7 @@ description: 'Fråga: Jag har en bror som är gift och fattig, och han är skyld
  Får jag betala all min allmosa till dem om...'
 ---
 
-**Fråga:** Jag har en bror som är gift och fattig, och han är skyldig en skuld. Jag har även en syster som är gift med en fattig man som är skyldig en skuld. Får jag betala all min allmosa till dem om allmosan täcker deras skulder? Eller bör de enbart få den del av den?
+**Fråga:** Jag har en bror som är gift och fattig, och han är skyldig en skuld. Jag har även en syster som är gift med en fattig man som är skyldig en skuld. Får jag betala all min allmosa till dem om allmosan täcker deras skulder? Eller bör de enbart få en del av den?
 
 **Svar:** Det är inga problem om du ger allmosan till dem om de är muslimer, skuldsatta och din allmosa kommer att täcka deras skulder som de inte kan betala. Detta beror på att de båda innefattas i Allāhs uttalande:
 

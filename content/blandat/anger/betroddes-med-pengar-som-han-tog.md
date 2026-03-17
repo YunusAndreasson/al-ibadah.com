@@ -23,7 +23,7 @@ Du måste ångra dig för vad du gjort och du måste ångra dig för att du ljug
 
 > ”Troende! Vänd er i uppriktig ånger [över era synder] till Gud!” [Koranen 66:8]
 
-> ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå i händer!” [Koranen 24:31]
+> ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå er väl i händer!” [Koranen 24:31]
 
 Din ånger måste dock uppfylla vissa villkor: Du måste hålla dig borta från synden. Du måste känna ånger över att ha begått denna synd. Du måste ta ett fast beslut om att aldrig återvända till synden, frukta Allāhs straff, söka Hans förlåtelse och glorifiera Hans allmakt.
 

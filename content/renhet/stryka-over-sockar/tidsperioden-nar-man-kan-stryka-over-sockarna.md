@@ -31,7 +31,7 @@ Att stryka över sockarna har rapporterats i *aḥādīt̲h* som är *mutawatir*
 
 Det finns dock villkor för att få stryka över lädersockar:
 
-> 1. Att man tog på sig dem när man var fullständig rituell ren, fri från både den mindre och den större orenheten. Tog man inte på sig dem när man var rituellt ren är det inte rätt att stryka över dem.
+> 1. Att man tog på sig dem när man var fullständigt rituellt ren, fri från både den mindre och den större orenheten. Tog man inte på sig dem när man var rituellt ren är det inte rätt att stryka över dem.
 
 > 2. Att strykandet sker under en period då det är tillåtet, vilket vi ska förklara senare, om Allāh vill.
 
@@ -49,11 +49,11 @@ En person rengör sig inför gryningsbönen, tar på sig lädersockarna och är 
 
 Om han under den andra dagen stryker över sockarna kvart i fem och han är rituellt ren tills han bett kvällsbönen och sedan ber nattbönen, då har han under denna tid bett middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen den första dagen och nästa dag gryningsbönen, middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen. Detta är nio böner som han hör förrättat. Här kan vi se att ingen vikt läggs vid antalet böner, vilket många tror då de säger att strykandet över sockarna är för fem böner. Detta saknar grund.
 
-Den islamiska lagen har enbart definierat en dag och en natt, som börjar vid den första strykningen, och med utgångspunkt i exemplet som vi har nämnt är det känt hur många böner som har förrättats. Här blir det tydligt att om tiden har gått ut, då får man inte stryka över dem och om man har styrkt över dem efter att denna period har gått ut, då är detta strykande ogiltigt och det tar inte bort någon orenhet.
+Den islamiska lagen har enbart definierat en dag och en natt, som börjar vid den första strykningen, och med utgångspunkt i exemplet som vi har nämnt är det känt hur många böner som har förrättats. Här blir det tydligt att om tiden har gått ut, då får man inte stryka över dem och om man har strukit över dem efter att denna period har gått ut, då är detta strykande ogiltigt och det tar inte bort någon orenhet.
 
 Men om man stryker över dem innan tiden har gått ut och sedan höll sig rituellt ren tills efter att tidsperioden har gått ut, då blir ens tvagning inte ogiltig utan i stället fortsätter man att vara rituellt ren tills något ogiltigör den. Detta beror på att åsikten att ens tvagning blir ogiltig genom att tidsperioden går ut är en åsikt som saknar bevis. När tiden har gått ut betyder det att man inte får stryka över sockarna. Det betyder inte att det inte finns ett renhetstillstånd efter att den har gått ut. Så här är det för att vad som begränsar tiden är strykandet, inte renhetstillståndet. Därför finns det inga bevis för att den blir ogiltig genom att tiden går ut.
 
-I detta fall säger vi, i bekräftelse av bevisen för vår åsikt: Mannen har tvagat sig korrekt enligt de autentiska bevisen i den islamiska lagen. Om så är fallet är det inte tillåtet att utan autentiska bevis från den islamiska lagen säga att personens tvagning blir ogiltigt. Och det finns inga bevis för att den blir ogiltig efter att tiden gått ut. Därmed fortsätter han att vara rituellt ren tills det finns något som gör renheten ogiltig på ett sätt som bekräftats genom Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och samstämmighet bland de lärda.
+I detta fall säger vi, i bekräftelse av bevisen för vår åsikt: Mannen har tvagat sig korrekt enligt de autentiska bevisen i den islamiska lagen. Om så är fallet är det inte tillåtet att utan autentiska bevis från den islamiska lagen säga att personens tvagning blir ogiltig. Och det finns inga bevis för att den blir ogiltig efter att tiden gått ut. Därmed fortsätter han att vara rituellt ren tills det finns något som gör renheten ogiltig på ett sätt som bekräftats genom Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och samstämmighet bland de lärda.
 
 Resenären får stryka över sockarna under tre dagar och tre nätter [72 timmar]. Tiden börjar när personen stryker över dem för första gången.
 

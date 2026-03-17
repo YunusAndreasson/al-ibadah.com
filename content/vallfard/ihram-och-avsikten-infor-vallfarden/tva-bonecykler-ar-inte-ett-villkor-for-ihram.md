@@ -10,13 +10,13 @@ categories:
 original_id: 1336
 description: >-
   Fråga: Är två bönecykler ett villkor för ihrām? Svar: Det är inte ett villkor.
-  De lärde skiljer sig endast åt om det är rebefallt. Majoriteten av de
-  lärde anser att det är rebefallt at...
+  De lärde skiljer sig endast åt om det är rekommenderat. Majoriteten av de
+  lärde anser att det är rekommenderat at...
 ---
 
 **Fråga:** Är två bönecykler ett villkor för *iḥrām*?
 
-**Svar:** Det är inte ett villkor. De lärde skiljer sig endast åt om det är rebefallt. Majoriteten av de lärde anser att det är rebefallt att be två bönecykler [för med *iḥrām*]. Man tvagar sig, ber två bönecykler och säger därefter *talbiyyah*.
+**Svar:** Det är inte ett villkor. De lärde skiljer sig endast åt om det är rekommenderat. Majoriteten av de lärde anser att det är rekommenderat att be två bönecykler [för med *iḥrām*]. Man tvagar sig, ber två bönecykler och säger därefter *talbiyyah*.
 
 De stödjer detta argument på att profeten – över honom vare Allāhs frid och välsignelser – under hans sista vallfärd gick in i *iḥrām* efter bönen [vilket betyder att han bad middagsbönen för att sedan träda in i *iḥrām*]. Han sade: "*Någon kom till mig från min Herre och sade: 'Be i denna välsignade dal och säg: 'En ´umrah[^1] under en vallfärd.*'" [^2] Detta bevisar att det är föreskrivet att be två bönecykler och detta anser en majoritet av de lärda.
 

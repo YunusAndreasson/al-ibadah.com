@@ -20,7 +20,7 @@ description: >-
 
 Profeten – över honom vare Allāhs frid och välsignelser – har dock visat en lösning på detta. Den är att [torr]spotta över vänster axel tre gånger och säga: "*A'uthu Billāhi minash-shaitanir-rajīm*" [Jag söker min tillflykt hos Allāh från djävulen den utstötte]. Gör man så kommer djävulen att ge sig av från en och man kommer, genom Allāh tillstånd, inte att finna honom.
 
-Därför måste den som ber föreställa sig att han står framför Allāh den Allsmäktige och att han tilltar Allāh den Upphöjde och att han kommer närmare Honom genom att upphöja och lovprisa Honom genom åkallan vid de tillfällen i bönen när man åkallar.
+Därför måste den som ber föreställa sig att han står framför Allāh den Allsmäktige och att han tilltalar Allāh den Upphöjde och att han kommer närmare Honom genom att upphöja och lovprisa Honom genom åkallan vid de tillfällen i bönen när man åkallar.
 
 Känner man det, då kommer man att närma sig sin Herre den Upphöjde med ödmjukhet och vördnad för Honom. Man kommer att älska Honom för det goda som finns hos Honom och frukta Hans straff om man struntar i det som Han har påbjudit en.
 

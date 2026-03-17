@@ -14,7 +14,7 @@ description: >-
   Bör jag då be kvällsbönen och sedan be vad jag...
 ---
 
-**Fråga:** Jag gick in i moskén när nattbönen redan hade börjat. Innan jag började be tillsammans med dem kom jag på att jag inte hade bett kvällsbönen. Bör jag då be kvällsbönen och sedan be vad jag kan av nattbönen med församlingen eller ber jag be kvällsbönen efteråt?
+**Fråga:** Jag gick in i moskén när nattbönen redan hade börjat. Innan jag började be tillsammans med dem kom jag på att jag inte hade bett kvällsbönen. Bör jag då be kvällsbönen och sedan be vad jag kan av nattbönen med församlingen eller ber jag kvällsbönen efteråt?
 
 **Svar:** Om du gick in i moskén medan nattbönen bads och du sedan kom på att du inte hade bett kvällsbönen, då bör du be tillsammans med församlingen och avse att be kvällsbönen. När imamen sedan står upp för den fjärde bönecykeln, då ska du sitta kvar i den tredje och vänta tills han gör *taslīm* och då göra den med honom.
 

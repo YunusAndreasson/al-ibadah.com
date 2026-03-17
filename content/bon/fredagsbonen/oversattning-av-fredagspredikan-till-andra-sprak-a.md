@@ -43,7 +43,7 @@ Han säger även:
 
 Hur skulle det vara möjligt att leda dem ut ur mörkret in i ljuset om de inte förstår vad Allāh kräver av dem? På så sätt är det klart att översättningarna är viktiga för att visa folket vad som krävs av dem och för att klargöra Allāhs sanning för dem, om de inte kan lära sig Hans språk.
 
-Därför beordrade Allāhs sändebud – över honom vare Allāhs frid och välsignelser – Zaid bin Thabit att lära sig judarnas språk. Han skulle skriva till de, på deras språk, för att bevis skulle läggas fram mot dem och för att han skulle kunna läsa brev för profeten – över honom vare Allāhs frid och välsignelser – som mottogs från dem.
+Därför beordrade Allāhs sändebud – över honom vare Allāhs frid och välsignelser – Zaid bin Thabit att lära sig judarnas språk. Han skulle skriva till dem, på deras språk, för att bevis skulle läggas fram mot dem och för att han skulle kunna läsa brev för profeten – över honom vare Allāhs frid och välsignelser – som mottogs från dem.
 
 När följeslagarna gick ut i krig mot icke-araber i Persien och Rom så stred de inte mot dem förrän de, genom översättare, hade kallat dem till islam. När de befriade de icke-arabiska länderna kallade de folket till Allāh på det arabiska språket och de beordrade människorna att lära sig det. De som inte förstod [arabiska] kallades på det språk som de förstod för att domen mot dem skulle läggas fram och för att det inte skulle återstå någon ursäkt.
 

@@ -10,12 +10,12 @@ categories:
   - Avgudadyrkan
 original_id: 1096
 description: >-
-  Fråga: Vilket är utlåtandet om någon som dömer med något annan än vad Allāh
+  Fråga: Vilket är utlåtandet om någon som dömer med något annat än vad Allāh
   har uppenbarat? Svar: Genom Allāh den Upphöjde uppnås framgång och jag ber
   Honom om vägledning och att Han visar mig...
 ---
 
-**Fråga:** Vilket är utlåtandet om någon som dömer med något annan än vad Allāh har uppenbarat?
+**Fråga:** Vilket är utlåtandet om någon som dömer med något annat än vad Allāh har uppenbarat?
 
 **Svar:** Genom Allāh den Upphöjde uppnås framgång och jag ber Honom om vägledning och att Han visar mig sanningen. Att döma enligt vad Allāh den Upphöjde har uppenbarat är en del av *tawḥīd ar-rubūbiyyah*. Därför att detta är att tillämpa Allāhs lag vilket Hans herrskap, fullständiga herravälde och bestämmande över alla ting nödvändiggör […] Allāh den Upphöjde säger:
 

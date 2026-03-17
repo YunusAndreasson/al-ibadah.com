@@ -8,13 +8,13 @@ categories:
   - Fredagsbönen
 original_id: 1002
 description: 'Fråga: Vilket är utlåtandet om att hålla en fredagspredikan på ett
- annat språk än arabiska? Svar: Den korrekta åsikten är den som håller fredagspredikan
+ annat språk än arabiska? Svar: Den korrekta åsikten är att den som håller fredagspredikan
  inte får göra det på ett språk som de n...'
 ---
 
 **Fråga:** Vilket är utlåtandet om att hålla en fredagspredikan på ett annat språk än arabiska?
 
-**Svar:** Den korrekta åsikten är den som håller fredagspredikan inte får göra det på ett språk som de närvarande inte förstår. Om folket inte är araber, och inte förstår det arabiska språket, då bör personen hålla predikan på deras språk.
+**Svar:** Den korrekta åsikten är att den som håller fredagspredikan inte får göra det på ett språk som de närvarande inte förstår. Om folket inte är araber, och inte förstår det arabiska språket, då bör personen hålla predikan på deras språk.
 
 Detta beror på att det är metoden för att kommunicera med dem och syftet med föreläsningen är att förmana, vägleda och förklara gränserna som Allāh den Härlige, den Upphöjde har satt för Hans tjänare. Men Koran-verserna som personen reciterar på arabiska kan personen sedan förklara på det språk som folket förstår.
 

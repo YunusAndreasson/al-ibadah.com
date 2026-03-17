@@ -43,7 +43,7 @@ I allmänhet är lydnaden mot honom och den lag som han förde med sig ett bevis
 
 > ”Säg [Muḥammad]: 'Om ni älskar Gud, följ mig och Gud ska älska er och förlåta er era synder. Gud är ständigt förlåtande, barmhärtig.” [Koranen 3:31]
 
-Allāh den Upphöjde har befallt oss att lyda honom och Han har slagit fast att lyda honom är att Allāh. Han den Upphöjde säger:
+Allāh den Upphöjde har befallt oss att lyda honom och Han har slagit fast att lyda honom är att lyda Allāh. Han den Upphöjde säger:
 
 > ”Säg: 'Lyd Gud och Sändebudet.' Men om de vänder ryggen till [ska de veta att] Gud inte är vän till dem som förnekar sanningen.” [Koranen 3:32]
 

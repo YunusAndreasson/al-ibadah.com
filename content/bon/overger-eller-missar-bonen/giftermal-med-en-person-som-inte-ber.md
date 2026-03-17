@@ -17,9 +17,9 @@ description: >-
 
 **Fråga:** En man friade till en annan mans dotter men när de förhörde sig om honom blev det uppenbart att han inte bad. Får dottern gifta sig med mannen?
 
-**Svar:** Om den som friade inte ber med församlingen i moskén är personen en syndare som inte lyder Allāh och Hans sändebud. Personen motsäger sig vad alla muslimer är eniga om då bönen i församlingen är en av de bästa formerna av dyrkan. *s̲hayk̲h ul-islām* ibn Taymiyyah [^2] har sagt:
+**Svar:** Om den som friade inte ber med församlingen i moskén är personen en syndare som inte lyder Allāh och Hans sändebud. Personen motsäger vad alla muslimer är eniga om då bönen i församlingen är en av de bästa formerna av dyrkan. *s̲hayk̲h ul-islām* ibn Taymiyyah [^2] har sagt:
 
-> ”De lärde är eniga om att bönen är en av de mest rebefallde formerna av dyrkan och den mest enastående formen av lydnad och den största av de islamiska riterna.”
+> ”De lärde är eniga om att bönen är en av de mest rekommenderade formerna av dyrkan och den mest enastående formen av lydnad och den största av de islamiska riterna.”
 
 Detta tar dock inte personen ur islam. Därmed är det tillåtet att gifta den muslimska kvinnan med honom. Någon annan som verkligen utövar skulle dock vara mer värdig än honom, även om personen inte är lika rik eller tillhör en mindre ädel familj.
 
@@ -39,7 +39,7 @@ Hans ord: ”*Det gäller inte dem*…” bevisar att när personen överger bö
 
 > ”Men om de visar ånger och [vilja att] förrätta bönen och betala allmoseskatten, då är de era bröder i tron.” [Koranen 9:11]
 
-Detta bevisar att religionens broderskap inte kan grundas utan att man ber och betalar allmosa. profetens – över honom vare Allāhs frid och välsignelser – *sunnah* visar dock att om man överger allmosan så är det inte otro så länge man bekräftar att den är en skyldighet men man är för snål för att betala. Att man ber är då det enda villkoret för att bekräfta trons broderskap.
+Detta bevisar att religionens broderskap inte kan grundas utan att man ber och betalar allmosa. Profetens – över honom vare Allāhs frid och välsignelser – *sunnah* visar dock att om man överger allmosan så är det inte otro så länge man bekräftar att den är en skyldighet men man är för snål för att betala. Att man ber är då det enda villkoret för att bekräfta trons broderskap.
 
 Detta fordrar att om man överger den så är det en handling som innebär otro och som förnekar trons broderskap. Det är inte enbart en synd eller otro mindre än otro [Otro i handling vilket står i motsats till otro i hjärtat]. Detta beror på att synd eller otro mindre än otro inte tar den som gör det utanför trons broderskap. Allāh den Upphöjde säger om försoning mellan två troende grupper som strider:
 

@@ -21,7 +21,7 @@ description: >-
 
 > ”När du befinner dig hos de troende och leder dem i bön, låt då en grupp stå upp tillsammans med dig och låt dem behålla sina vapen. När de har avslutat bönen, låt dem ge er betäckning och låt en annan grupp, som ännu inte har bett deras bön, stiga fram och be med dig. Men de bör vara på sin vakt och ha vapen i beredskap, eftersom förnekarna av tron skulle önska att ni lade ifrån er era vapen och er utrustning för att då rikta ett [förödande] slag mot er. Men ni gör inte fel, om ni lägger av vapnen därför att ni är rädda att de ska skadas genom regn, eller på grund av sjukdom. Men var på er vakt. För dem som förnekar sanningen har Gud i beredskap ett förnedrande straff.” [Koranen 4:102]
 
-Beviset i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* är en återberättelse från Abū Hurairah. Han berättar att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – sagt:
+Beviset i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* är en återberättelse från Abū Hurairah. Han berättar att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Vid Honom i vars hand min själ vilar i, jag avser att beordra att brännved ska föras fram och sedan beordra bönen och att böneutropet ska ropas ut för den, sedan beordra en man att leda folket i bön och efter det gå till den man som inte var närvarande vid bönen och bränna deras hus över dem. Och vid Honom vars hand min själv vilar i, om någon av dem visste att de skulle finna ett stort ben med kött och två fina revben, då hade han kommit till nattbönen.” [*al-Buk̲hārī* 644 och *Muslim* 651]
 

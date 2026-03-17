@@ -1,6 +1,6 @@
 ---
 title: >-
-  Hjärtat är platsen för avsikten och det är rebefallt att uttala den
+  Hjärtat är platsen för avsikten och det är rekommenderat att uttala den
   verbalt under vallfärden
 author: Ibn ´Abdullāh Ibn Bāz
 source: >-
@@ -20,7 +20,7 @@ description: >-
 
 **Svar:** Platsen för avsikten är i hjärtat. Dess beskrivning är att man i sitt hjärta avser att vallfärda för någon annan [exempelvis en bror eller son]. På detta sätt utformas intentionen.
 
-Tillsammans med detta är det rebefallt att uttala den genom att säga: "Allāh! Jag är här till din tjänst för att vallfärda för den-eller-den" eller "Jag är till Din tjänst för att utföra *´umrah* för den-eller-den." Detta kan sägas för en fader, en son eller någon annan. Detta görs för att man ska bekräfta det som finns i hjärtat genom att säga det.
+Tillsammans med detta är det rekommenderat att uttala den genom att säga: "Allāh! Jag är här till din tjänst för att vallfärda för den-eller-den" eller "Jag är till Din tjänst för att utföra *´umrah* för den-eller-den." Detta kan sägas för en fader, en son eller någon annan. Detta görs för att man ska bekräfta det som finns i hjärtat genom att säga det.
 
 Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – muntligen uttalade vallfärden och muntligen uttalade *´umrah*. Detta bevisar föreskriften i att muntligen uttala vad man avser, och på så sätt följa profeten.
 

@@ -26,9 +26,9 @@ Majoriteten av de lärde, inklusive Abū Hanifah och Mālik, är dock inte av de
 
 En tredje grupp får ihop dessa *aḥādīt̲h* genom att säga att man gör denna ”sittpaus” om det finns ett behov och att det är tillåtet under dessa omständigheter men inte under andra.
 
-Det uppenbara är att det överlag är rebefallt. Att det inte nämns i andra *aḥādīt̲h* bevisar inte att det inte är rebefallt. Det enda som visas är att det inte är obligatoriskt.
+Det uppenbara är att det överlag är rekommenderat. Att det inte nämns i andra *aḥādīt̲h* bevisar inte att det inte är rekommenderat. Det enda som visas är att det inte är obligatoriskt.
 
-Den rebefallde åsikten stärks på två sätt: Det första är den grundläggande principen om profetens – över honom vare Allāhs frid och välsignelser – handlingar, att han utförde dem för att föreskriva dem så att andra skulle kunna följa honom. Det andra sättet är att denna ”sittpaus” bekräftas i *ḥadīt̲h* från Abū Humaid as-Sa´īdi som *Aḥmad* och *Abū Dāwūd* har återberättat med en god rapportörskedja. Här beskriver han profetens – över honom vare Allāhs frid och välsignelser – bön för tio följeslagare – må Allāh vara nöjd med dem – och de bekräftade vad han sade.
+Den rekommenderade åsikten stärks på två sätt: Det första är den grundläggande principen om profetens – över honom vare Allāhs frid och välsignelser – handlingar, att han utförde dem för att föreskriva dem så att andra skulle kunna följa honom. Det andra sättet är att denna ”sittpaus” bekräftas i *ḥadīt̲h* från Abū Humaid as-Sa´īdi som *Aḥmad* och *Abū Dāwūd* har återberättat med en god rapportörskedja. Här beskriver han profetens – över honom vare Allāhs frid och välsignelser – bön för tio följeslagare – må Allāh vara nöjd med dem – och de bekräftade vad han sade.
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

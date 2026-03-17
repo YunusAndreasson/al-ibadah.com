@@ -18,7 +18,7 @@ description: 'Fråga: Hur ser ahlus-sunnah wal-jamā’at på hopp och fruktan? 
 
 Vissa lärde har sagt: ”*Hoppet bör vara större än fruktan när man gör något lydigt, och fruktan bör vara större än hoppet när man gör något syndigt*.” Detta beror på att om man handlar lydigt har man gjort vad som krävts i form av att ha goda tankar om Allāh, och då bör ens hopp vara större. Detta är hoppet om acceptans. Men om man står i begrepp att synda, då bör fruktan vara starkare, så att man inte begår denna synd.
 
-Andra [av de lärde] har sagt: ”*Den som är frisk bör frukta mer och en sjuk person bör hoppas mer. Detta beror på att om frisk person fruktar mer kommer personen att undvika synder men om en sjukling har mer hopp kommer personen att möta Allāh med goda tankar om Honom*.”
+Andra [av de lärde] har sagt: ”*Den som är frisk bör frukta mer och en sjuk person bör hoppas mer. Detta beror på att om en frisk person fruktar mer kommer personen att undvika synder men om en sjukling har mer hopp kommer personen att möta Allāh med goda tankar om Honom*.”
 
 Min åsikt är att det varierar efter omständigheterna. Känner man att ens fruktan överväger så kan det göra en desperat efter Allāhs nåd, och då bör man bemöta det och ersätta det med hopp. Känner man att ens hopp är större så leder det till att man känner sig säker inför Allāhs plan, då bör man bemöta det genom att öka sin fruktan.
 

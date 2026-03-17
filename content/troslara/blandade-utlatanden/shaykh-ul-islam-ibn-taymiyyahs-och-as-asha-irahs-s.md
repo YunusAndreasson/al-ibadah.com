@@ -19,7 +19,7 @@ description: >-
 
 **Fråga:** I vissa länder lär sig eleverna i de islamiska skolorna att *ahlus-sunnah* wal-jamā’ats*synsätt är: Att tro på Allāhs den Upphöjdes namn och egenskaper utan att förvrida, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen]. Kan man dela in *ahlus-sunnah* wal-jamā’at* i dessa kategorier:
 
-1. *s̲hayk̲h ul-islām* Ibh Taymiyyahs och hans elevers skola,
+1. *s̲hayk̲h ul-islām* Ibn Taymiyyahs och hans elevers skola,
 2. al-Asha’irah [Namngiven efter Abul-Ḥasan al-Ash´ari som ironiskt nog avvisade sina trosprinciper och antog *ahlus-sunnah* wal-jamā’ats* innan han gick bort] och
 3. maturidiyyah [En skola namngiven efter Abū Mansur Muḥammad al-Maturidi [d. 944 CE]. Deras trosprinciper är likvärdiga med al-Asha’irah]?
 
@@ -37,7 +37,7 @@ Den andra var Asha'irahs och Maturidiyyahs skola som kräver att Allāhs namn oc
 
 Det är välkänt att mellan dessa båda skolor så finns det en tydlig skiljelinje mellan deras sätt att förstå Allāhs namn och egenskaper. Den första skolans lärare bekräftar skyldigheten att förstå bevisen enligt deras uppenbara mening i frågor som rör Allāhs namn och egenskaper. Detta samtidigt som man nekar vad som måste nekas i fråga om Allāh – som jämförelser och att förklara hur. Den andra skolans lärare bekräftar skyldigheten att ändra innebörden av Allāhs namn och egenskaper.
 
-Dessa båda synsätt skiljer sig åt total och skillnaden blir tydlig med utgångspunkt i följande exempel. Allāh den Upphöjde säger: ”*Nej, Hans händer är tvärtom utsträckta. Han fördelar [Sina gåvor] som Han vil *l.” [^2] Och Han säger när Han rapporterar om Sitt tillrättavisande av djävulen när personen vägrade att nedfalla inför Adam efter att Han befallt honom: ”*[Gud] sade: ’Iblis! Vad avhöll dig från att falla ned inför den som Jag har skapat med Mina händer?’*” [^3]
+Dessa båda synsätt skiljer sig åt totalt och skillnaden blir tydlig med utgångspunkt i följande exempel. Allāh den Upphöjde säger: “*Nej, Hans händer är tvärtom utsträckta. Han fördelar [Sina gåvor] som Han vill.*” [^2] Och Han säger när Han rapporterar om Sitt tillrättavisande av djävulen när personen vägrade att nedfalla inför Adam efter att Han befallt honom: ”*[Gud] sade: ’Iblis! Vad avhöll dig från att falla ned inför den som Jag har skapat med Mina händer?’*” [^3]
 
 De båda skolornas lärare skiljs åt om innebörden av de två händer som Allāh den Upphöjde har bekräftat att Han har.
 
@@ -47,7 +47,7 @@ De som tillhör den andra skolan säger: Den uppenbara meningen måste ändras o
 
 Från detta exempel blir det tydligt att de båda skolorna är olika och omöjliga att föra samman – samt att det inte är möjligt att förena dem i ett kännetecken som *ahlus-sunnah*.
 
-Därför kan *ahlus-sunnah wal-jamā'ats*[^1] beskrivning enbart tillhöra en av dem och vi kommer på ett rättvist sätt att döma mellan dem. Vi kommer att pröva dem båra opartiskt med mått som är Allāhs skrift, Hans sändebuds *sunnah*, uttalanden från [profetens – över honom vare Allāhs frid och välsignelser – ] följeslagare och de bland *salaf* – må Allāh vara nöjda med dem – och imamerna som trofast efterföljde dem.
+Därför kan *ahlus-sunnah wal-jamā'ats*[^1] beskrivning enbart tillhöra en av dem och vi kommer på ett rättvist sätt att döma mellan dem. Vi kommer att pröva dem båda opartiskt med mått som är Allāhs skrift, Hans sändebuds *sunnah*, uttalanden från [profetens – över honom vare Allāhs frid och välsignelser – ] följeslagare och de bland *salaf* – må Allāh vara nöjda med dem – och imamerna som trofast efterföljde dem.
 
 Det finns inget i detta mått [Allāhs skrift… och vad som räknades upp ovan] som bevisar något, varken direkt eller genom antydande, eller som tydligt förstås. Det finns heller ingen antydan mot vad den andra skolan påstår. I stället finns i detta mått [Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*] bevis som är klara, tydliga och indikativa för vad den första skolan påstår.
 

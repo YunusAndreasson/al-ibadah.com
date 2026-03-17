@@ -14,7 +14,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om den som säljer olika sorters tobak? Jag röker och när jag hör böneutropet, då går jag till moskén. Måste jag upprepa min tvagning eller är det tillräckligt att enbart skölja munnen? Jag vet att rökning orsakar olika sorters sjukdomar.
 
-**Svar:** All lovprisan tillhör Allāh. Det är förbjudet att sälja tobak på grund av dess onda natur och dess många skadliga effekter. Den som gör det betraktas som en *fasiq*[^1]. Du behöver inte upprepa din tvagning när du har rökt men du bör avlägsna den anstötliga lukten från din mun med någonting som tar bort den. Det är också obligatoriskt att skyndsamt visa ångra inför Allāh på grund av det.
+**Svar:** All lovprisan tillhör Allāh. Det är förbjudet att sälja tobak på grund av dess onda natur och dess många skadliga effekter. Den som gör det betraktas som en *fasiq*[^1]. Du behöver inte upprepa din tvagning när du har rökt men du bör avlägsna den anstötliga lukten från din mun med någonting som tar bort den. Det är också obligatoriskt att skyndsamt visa ånger inför Allāh på grund av det.
 
 [^1]: En person som öppet syndar eller avviker från den islamiska lagen.
 

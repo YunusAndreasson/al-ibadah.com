@@ -26,7 +26,7 @@ Personen bör välja ett rättfärdigt resesällskap med människor som har kuns
 
 Personen bör samla en stor mängd pengar och förnödenheter för att personen ska kunna klara sig och hjälpa sina bröder om de behöver något.
 
-Personen bör ta farväl av sin familj och sina vänner när personen ger sig av på resan. Var och en av dem bör säg: ”Jag anförtror din religion, din tillit och dina slutgiltiga handlingar i Allāhs vård.”
+Personen bör ta farväl av sin familj och sina vänner när personen ger sig av på resan. Var och en av dem bör säga: “Jag anförtror din religion, din tillit och dina slutgiltiga handlingar i Allāhs vård.”
 
 Personen bör sträva efter att enbart handla för Allāh. Personen bör inte önska något annat från sin vallfärd eller *´umrah* än Allāhs anlete. På detta sätt kommer personen inte att skadas av någon som prisar eller tillrättavisar personen.
 

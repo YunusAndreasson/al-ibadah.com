@@ -41,13 +41,13 @@ Koranen är Allāhs tal, dess överlägsenhet över det mänskliga talet är som
 
 > ”Lyssna därför uppmärksamt när högläsning ur Koranen pågår – kanske kommer [Gud] att visa er barmhärtighet. Och – [du som är troende] – åkalla i tysthet din Herre morgon och afton, ödmjukt och med fruktan. Och var inte [som] de tanklösa, de likgiltiga.” [7:204-205]
 
-Människor har olika nivå när det kommer till förståelse och intellekt. Varje mogen muslim måste – enligt sin förmåga – känna till det som är nödvändigt i religionen och av de islamiska reglerna. Det allra först man måste förstå och bry sig om är Allāhs skrift. Det som man inte förstår i den, det bör man söka Allāhs hjälp om och rådfråga de lärde om – för Allāh belastar inte en tjänare med mer än vad personen klarar av.
+Människor har olika nivå när det kommer till förståelse och intellekt. Varje mogen muslim måste – enligt sin förmåga – känna till det som är nödvändigt i religionen och av de islamiska reglerna. Det allra första man måste förstå och bry sig om är Allāhs skrift. Det som man inte förstår i den, det bör man söka Allāhs hjälp om och rådfråga de lärde om – för Allāh belastar inte en tjänare med mer än vad personen klarar av.
 
 Har man efter att ha gjort sitt bästa inte förmåga att förstå Koranen, då bör man inte sluta läsa den, för det ligger ingen skuld på en då. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Den som är duktig på att läsa Koranen kommer att vara i följe med hedervärda och lydiga änglar, medan den som läser den med svårighet kommer att få dubbla belöningar.” [*Muslim* 798, *Ibn Mājah* 3779 och *Aḥmad* 6:98, 170 och 266]
 
-Den fattige får ta emot välgörenhet för att det ska täcka personens behov, men om personen tar betalt för att läsa Koranen eller för att predika, då är de inte tillåtet. Det är heller inte tillåtet att ge sådana pengar i hopp om att få välsignelser eller för att någon ska åkalla för en. Muslimerna under det tre första generationerna vars förträfflighet profeten – över honom vare Allāhs frid och välsignelser – har gått i god för gjorde inte så här.
+Den fattige får ta emot välgörenhet för att det ska täcka personens behov, men om personen tar betalt för att läsa Koranen eller för att predika, då är det inte tillåtet. Det är heller inte tillåtet att ge sådana pengar i hopp om att få välsignelser eller för att någon ska åkalla för en. Muslimerna under det tre första generationerna vars förträfflighet profeten – över honom vare Allāhs frid och välsignelser – har gått i god för gjorde inte så här.
 
 Innebörden av: ”*Jag begär ingen lön av er för detta [budskap]*.” [^2]
 

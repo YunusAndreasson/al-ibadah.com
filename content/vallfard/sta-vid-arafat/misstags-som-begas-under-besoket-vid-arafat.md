@@ -1,5 +1,5 @@
 ---
-title: Misstags som begås under besöket vid ´Arafāt
+title: Misstag som begås under besöket vid ´Arafāt
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Dalīl al-Akhta’ allati yuqa’ fiha al-Hāj wa’l-Mu’tamir
 categories:

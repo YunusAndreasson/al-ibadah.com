@@ -22,7 +22,7 @@ description: >-
 
 De *aḥādīt̲h* som förbjuder bön vid soluppgång, solnedgång, när solen står mitt på himlen och efter eftermiddagsbönen samt kvällsbönen, måste förstås som att de gäller frivilliga böner och inte de obligatoriska eller de som inte är obligatoriska men som har en speciell anledning. Böner med en speciell anledning kan vara hälsningsbönen till moskén[^1] och de två bönecyklerna efter *ṭawāf*. Dessa bes efter eftermiddagsbönen och gryningsbönen och vid andra tider då bön vanligtvis är förbjuden.
 
-[^1]: Tahiyyatul-Msjid.
+[^1]: Tahiyyatul-Masjid.
 [^2]: Rakah.
 
 [^3]: *al-Buk̲hārī* 1163 och *Muslim* 714

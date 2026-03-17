@@ -16,5 +16,5 @@ description: 'Fråga: Är det tillåtet att svära vid ” amanatullah ”? Vad 
 
 **Svar:** Det är inte tillåtet att svära vid tillit. Buraidah har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som svär vid al-amanah [tillit] tillhör inte oss*.”
 
-De lärde inom islam har sagt att den inte är tillåtet att spela schack. Backgammon och domino är oseriösa sysselsättningar som hindrar en från att åminnas Allāh. De slösar bort en muslims tid till ingen nytta. Den rationelle anser sin tid vara för värdefull för att slösa bort på detta.
+De lärde inom islam har sagt att det inte är tillåtet att spela schack. Backgammon och domino är oseriösa sysselsättningar som hindrar en från att åminnas Allāh. De slösar bort en muslims tid till ingen nytta. Den rationelle anser sin tid vara för värdefull för att slösa bort på detta.
 

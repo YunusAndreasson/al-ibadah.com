@@ -15,11 +15,11 @@ description: >-
   tvagat sig. Är detta tillåtet? Vad bör jag ...
 ---
 
-**Fråga:** *Minā* småbarn [den äldste har inte fyllt tre ännu] står bakom mig när jag ber hemma. Jag gör så för att lära dem bönen. Detta sker utan att de har tvagat sig. Är detta tillåtet? Vad bör jag göra med min fru som ibland struntar i att be?
+**Fråga:** Mina småbarn [den äldste har inte fyllt tre ännu] står bakom mig när jag ber hemma. Jag gör så för att lära dem bönen. Detta sker utan att de har tvagat sig. Är detta tillåtet? Vad bör jag göra med min fru som ibland struntar i att be?
 
 **Svar:** Svaret på den första frågan är att det är tillåtet att lära sina barn att be, både genom ord och genom handling. När en talarstol gjordes till profeten – över honom vare Allāhs frid och välsignelser – så steg han därför upp på den och började be när han ville nedfalla så steg han ned från den och nedföll på marken. Efter detta sade han: ”*Detta gjorde jag enbart för att ni ska följa mitt exempel och så att ni lär er min bön*.” [^1]
 
-När de förstår bör han även lära dem hur man gör tvagar sig. Jag tror dock inte att barn i den åldern som nämnts, där den äldsta är tre, förstår vad som krävs. Profeten – över honom vare Allāhs frid och välsignelser – befallde oss att beordra barnen att be från sju års ålder och att slå dem om de inte ber i tid vid tio års ålder.
+När de förstår bör han även lära dem hur man tvagar sig. Jag tror dock inte att barn i den åldern som nämnts, där den äldsta är tre, förstår vad som krävs. Profeten – över honom vare Allāhs frid och välsignelser – befallde oss att beordra barnen att be från sju års ålder och att slå dem om de inte ber i tid vid tio års ålder.
 
 Svaret på den andra frågan, där frun inte ber, är att det är upp till mannen att befalla henne till detta och att lära henne det. Vägrar hon att be, då kommer hon i så fall att vara icke-troende och äktenskapet kommer att upplösas och hon kommer inte att vara tillåten för honom så länge hon överger bönen. Anledningen är att Allāh den Upphöjde har sagt:
 

@@ -10,7 +10,7 @@ categories:
 original_id: 1012
 description: >-
   Fråga: Är det tillåtet att be över en avliden som inte finns på platsen eller
-  finns det speciella villkor för det? Svar: Den starkaste åsikten av dem lärdes
+  finns det speciella villkor för det? Svar: Den starkaste åsikten av de lärdas
   uttalanden är att det inte är tillå...
 ---
 

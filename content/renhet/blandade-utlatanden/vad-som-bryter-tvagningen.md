@@ -14,7 +14,7 @@ description: >-
 
 **Fråga:** Bryter jag min tvagning om jag byter kläder? Är det någon skillnad i detta utlåtande mellan män och kvinnor?
 
-**Svar:** All lovprisan tillhör Allāh. Att byta kläder bryter inte ens tvagning om man är rituellt ren och inte gör någon som bryter ens tvagning. I denna fråga gäller samma för både män och kvinnor. Och Allāh vet bäst. Det som bryter tvagningen är följande:
+**Svar:** All lovprisan tillhör Allāh. Att byta kläder bryter inte ens tvagning om man är rituellt ren och inte gör något som bryter ens tvagning. I denna fråga gäller samma för både män och kvinnor. Och Allāh vet bäst. Det som bryter tvagningen är följande:
 
 1. Att något har avgivits från den främre eller bakre passagen [urin, avföring, gas, osv.], utom luft från kvinnans vagina, det bryter inte hennes tvagning.
 2. Urin eller avföring från någon annan plats än urinröret eller anus.

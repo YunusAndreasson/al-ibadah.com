@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Jag lånade 251000 riyal[^1] från en bank för att köpa en del föremål. Jag betalar av med årliga delinbetalningar. Har jag rätt att vallfärda när jag är skyldig denna summa till banken?
 
-**Svar:** All lovprisan tillhör Allāh. Att ha möjlighet att vallfärda är ett villkoren för att den ska vara obligatorisk. Har du råd att göra en delbetalning vid tidpunkten för vallfärden, då får du vallfärda. Kan du inte betala delinbetalningen och samtidigt vallfärda, då måste du betala först och skjuta upp vallfärden tills du har råd. Allāh säger: ”*Vallfärden till denna Helgedom är en plikt mot Gud för var och en som har möjlighet att genomföra den*.” [^2]
+**Svar:** All lovprisan tillhör Allāh. Att ha möjlighet att vallfärda är ett villkor för att den ska vara obligatorisk. Har du råd att göra en delbetalning vid tidpunkten för vallfärden, då får du vallfärda. Kan du inte betala delinbetalningen och samtidigt vallfärda, då måste du betala först och skjuta upp vallfärden tills du har råd. Allāh säger: ”*Vallfärden till denna Helgedom är en plikt mot Gud för var och en som har möjlighet att genomföra den*.” [^2]
 
 Och Allāh är källan till styrka.
 

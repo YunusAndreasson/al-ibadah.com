@@ -17,7 +17,7 @@ description: >-
 
 **Svar:** I en *ḥadīt̲h* nämns att tjänarens åkallan kommer att besvaras så länge han inte har brådska, känner att svaret kommer att försenas och då jämrar sig över försenandet så att åkallan överges helt. En sådan person säger: "Jag åkallade och jag åkallade men jag fick inget svar."
 
-Allāh den Allsmäktige kan skjuta upp svaret på en bön av ett antal olika anledningar. I en *ḥadīt̲h* har det nämnts att Allāh den Allsmäktige ger en av dessa tre ting till den som åkallar Honom: Han besvarar åkallan genom att ge honom det han önskar, Han sparar den som en belöning till Nästa Liv eller driver tillbaka Han något ont från honom.
+Allāh den Allsmäktige kan skjuta upp svaret på en bön av ett antal olika anledningar. I en *ḥadīt̲h* har det nämnts att Allāh den Allsmäktige ger en av dessa tre ting till den som åkallar Honom: Han besvarar åkallan genom att ge honom det han önskar, Han sparar den som en belöning till Nästa Liv eller Han driver tillbaka något ont från honom.
 
 Syster, du bör inte förhasta dig; i stället bör du fortsätta att åkalla även om det fortsätter så här under flera år. Du bör heller inte avvisa en likvärdig (till utseende, härstamning eller tillgångar) om han friar till dig, även om han är äldre eller redan gift. Kanske kan Allāh ge dig mycket gott i det.
 

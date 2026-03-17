@@ -24,7 +24,7 @@ Det finns en autentisk *ḥadīt̲h* från profeten – över honom vare Allāhs
 
 Men om den nedre våningen inte är avsedd som en del av moskén, utan endast som en lagringsplats, då anses den inte vara en moské och kvinnan med månadsblödning samt den som är i den stora rituella orenheten får sitta där. Det finns heller ingen invändan mot att be vid dessa rena platser som inte är delar av en toalett.
 
-Men den som ber här bör inte följa imamen ovan honom om han inte kan se någon av de andra muslimerna. Anledningen är på att detta inte anses vara en del av moskén. Detta enligt den mest korrekta åsikten av de båda åsikterna som de lärde har.
+Men den som ber här bör inte följa imamen ovan honom om han inte kan se någon av de andra muslimerna. Anledningen är att detta inte anses vara en del av moskén. Detta enligt den mest korrekta åsikten av de båda åsikterna som de lärde har.
 
 Pelare som delar raderna skadar de inte bönen, men om det är möjligt att placera en rad framför dem och en rad bakom, så att raderna inte bryts, då är det bättre och mer komplett.
 

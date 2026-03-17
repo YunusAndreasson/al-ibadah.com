@@ -12,14 +12,14 @@ original_id: 116
 description: >-
   Somliga anser att det är obligatoriskt att sända fridshälsningar över profeten
   – över honom vare Allāhs frid och välsignelser – minst en gång i livet [och
-  därefter skulle det vara rebefallt. Är...
+  därefter skulle det vara rekommenderat. Är...
 ---
 
-Somliga anser att det är obligatoriskt att sända fridshälsningar över profeten – över honom vare Allāhs frid och välsignelser – minst en gång i livet [och därefter skulle det vara rebefallt]. Är det rebefallt?
+Somliga anser att det är obligatoriskt att sända fridshälsningar över profeten – över honom vare Allāhs frid och välsignelser – minst en gång i livet [och därefter skulle det vara rekommenderat]. Är det rekommenderat?
 
 Att sända frid och välsignelser över profeten – över honom vare Allāhs frid och välsignelser – är en skyldighet, enligt Allāhs den Upphöjdes befallning: ”Gud och Hans änglar välsignar profeten; be Gud välsigna honom, ni troende, och hälsa honom med en vördnadsfull hälsning!” [^1]
 
-Det är en skyldighet och då det inte finns något i versen som pekar på att det ska upprepas är det endast en skyldighet att göra det en gång i livet. Att göra det fler gånger är rebefallt, grundat på *aḥādīt̲h* som uppmuntrar oss att göra det, utom i de fall där *aḥādīt̲h* visar att det är en skyldighet.
+Det är en skyldighet och då det inte finns något i versen som pekar på att det ska upprepas är det endast en skyldighet att göra det en gång i livet. Att göra det fler gånger är rekommenderat, grundat på *aḥādīt̲h* som uppmuntrar oss att göra det, utom i de fall där *aḥādīt̲h* visar att det är en skyldighet.
 
 Må frid och välsignelser vara över vår profet Muḥammad, hans familj och följeslagare.
 

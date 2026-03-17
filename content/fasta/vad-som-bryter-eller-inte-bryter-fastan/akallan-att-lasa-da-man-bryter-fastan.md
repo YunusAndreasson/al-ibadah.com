@@ -16,7 +16,7 @@ description: >-
 
 **Fråga.** Finns det någon åkallan rapporterad från profeten – över honom vare Allāhs frid och välsignelser – och följeslagarna som man kan läsa när man bryter fastan? Bör den fastande läsa efter vad böneutroparen säger eller fortsätta med att bryta fastan?
 
-**Svar:** Med största sannolikhet kommer denna åkallan när man bryter fastan att besvaras. Detta beror på att den sker vid slutet av en dyrkan och i de flesta fall är man svag precis innan man bryter fastan. Desto fysiskt svagare och ömmare man är, desto större är ens ånger och ödmjukhet inte Allāh den Allsmäktige. Den åkallan som har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – är följande:
+**Svar:** Med största sannolikhet kommer denna åkallan när man bryter fastan att besvaras. Detta beror på att den sker vid slutet av en dyrkan och i de flesta fall är man svag precis innan man bryter fastan. Desto fysiskt svagare och ömmare man är, desto större är ens ånger och ödmjukhet inför Allāh den Allsmäktige. Den åkallan som har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – är följande:
 
 > ”*Allāhumma laka sumto wa 'ala rizqika afartu*”
 > [O, Allāh! För Din skull har jag fastat och med Ditt stöd har jag brutit min fasta.” [*Abū Dāwūd*]
@@ -24,7 +24,7 @@ description: >-
 När profeten – över honom vare Allāhs frid och välsignelser – bröt fastan sade han också:
 
 > ”*Thahabath-thama'u wabtallatil-'urūqu wa thabatal-arju Inshā'-Allāh*”
-> [Törsten är borta, arterit är fuktiga och belöningen är säker, om Allāh vill.] [*Abū Dāwūd* 2357]
+> [Törsten är borta, artärerna är fuktiga och belöningen är säker, om Allāh vill.] [*Abū Dāwūd* 2357]
 
 Även om det kan finnas svagheter i dessa båda *aḥādīt̲h* har vissa lärde förklarat att de är *ḥasan*.
 

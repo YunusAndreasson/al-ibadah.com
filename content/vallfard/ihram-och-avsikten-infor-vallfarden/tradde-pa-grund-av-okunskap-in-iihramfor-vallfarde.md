@@ -14,7 +14,7 @@ description: >-
   hans vallfärd. Därför frågar han om h...
 ---
 
-**Fråga:** En man gick in i *iḥrām* för vallfärden i Jiddah. När han sedan kom till Medina efter vallfärden berättades det för honom att han hade en bristfällig i hans vallfärd. Därför frågar han om han måste offra ett djur?
+**Fråga:** En man gick in i *iḥrām* för vallfärden i Jiddah. När han sedan kom till Medina efter vallfärden berättades det för honom att det fanns en brist i hans vallfärd. Därför frågar han om han måste offra ett djur?
 
 **Svar:** Den som avser att utföra vallfärden eller *´umrah* måste gå in i *iḥrām* vid den *mīqāt* som han passerar förbi eller en plats som är i jämnhöjd med den. Om han passerar den och går in i *iḥrām* på en plats som ligger närmare den än Mecka, då måste han offra ett djur enligt de flesta lärde.
 

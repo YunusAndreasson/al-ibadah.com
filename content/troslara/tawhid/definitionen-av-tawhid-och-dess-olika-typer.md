@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Språkligt sett är *tawḥīd* infinitiv av verbet *wahhada* [dåtid] [och *yuwahhidu* [nutid]], det vill säga att göra något till ett. Detta uppnås inte utom genom att negera och bekräfta: Negerande av denna regel [om *tawḥīd*] för allting utom det som kungörs vara ett [det vill säga Gud den ende], och bekräftelse av det för denna sak.
 
-Således säger vi: Man uppnår inte *tawḥīd* före man:
+Således säger vi: Man uppnår inte *tawḥīd* förrän man:
 
 1. Vittnar om att ingen är värdig att dyrka utom Allāh,
 2. avvisar andras rätt att dyrkas vid sidan av Honom den Allsmäktige och
@@ -141,7 +141,7 @@ Och här säger Allāh:
 
 Den som då jämför dessa båda händer med de skapade varelsernas händer har motsatt sig Allāhs den Upphöjdes ord: ”*Ingenting är som Han*.” [^6] Personen har inte lytt Allāhs den Upphöjdes ord: ”*Och gör inte Gud till föremål för jämförelser!*” [^7] Den som beskriver dem och säger att de är på ett visst sätt, på vilket sätt det än må vara, har sagt något om Allāh som personen inte har någon kunskap om.
 
-Vi lägger fram ytterligare ett exempel om egenskaperna. Detta exempel rör Allāhs *istawā* över Hans tron. Allāh den Upphöjdes har bekräftat att Han har rest sig över tronen. Detta gör Han på sju platser i Koranen och alla gånger använder Han ordet ”*istawā*” och orden ”över tronen”. Går vi till det arabiska språket ser vi att när *istawā* nämns med *'ala* förstås enbart resning och upphöjelse.
+Vi lägger fram ytterligare ett exempel om egenskaperna. Detta exempel rör Allāhs *istawā* över Hans tron. Allāh den Upphöjde har bekräftat att Han har rest sig över tronen. Detta gör Han på sju platser i Koranen och alla gånger använder Han ordet ”*istawā*” och orden ”över tronen”. Går vi till det arabiska språket ser vi att när *istawā* nämns med *'ala* förstås enbart resning och upphöjelse.
 
 Innebörden av Hans den Upphöjdes ord: ”*Den Nåderike har rest Sig över Tronen*.” [^8] och liknande är att Han har rest sig över Sin tron på ett visst sätt – olik vanlig upphöjelse – över hela skapelsen. Denna upphöjelse har bekräftats för Allāh den Upphöjde och Han befinner Sig ovan Sin tron på ett sätt som passar Honom.
 

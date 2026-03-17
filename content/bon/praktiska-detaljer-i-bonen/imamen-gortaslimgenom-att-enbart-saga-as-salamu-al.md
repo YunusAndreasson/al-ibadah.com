@@ -10,11 +10,11 @@ categories:
 original_id: 963
 description: >-
   Fråga: En imam gör taslīm genom att säga as-salamu 'alaykum enbart en gång, är
-  det då tillräckligt att nöja sig själv med enbart en hälsning? Ge oss råd och
+  det då tillräckligt att nöja sig med enbart en hälsning? Ge oss råd och
   må Allāh belöna er med det goda. ...
 ---
 
-**Fråga:** En imam gör *taslīm* genom att säga *as-salamu 'alaykum* enbart en gång, är det då tillräckligt att nöja sig själv med enbart en hälsning? Ge oss råd och må Allāh belöna er med det goda.
+**Fråga:** En imam gör *taslīm* genom att säga *as-salamu 'alaykum* enbart en gång, är det då tillräckligt att nöja sig med enbart en hälsning? Ge oss råd och må Allāh belöna er med det goda.
 
 **Svar:** Vissa lärde anser att det är tillåtet att nöja sig med en hälsning. Andra anser att det är nödvändigt att göra två. Och ännu en grupp av de lärde säger att en hälsning är tillräcklig i de frivilliga bönerna men inte i de obligatoriska.
 

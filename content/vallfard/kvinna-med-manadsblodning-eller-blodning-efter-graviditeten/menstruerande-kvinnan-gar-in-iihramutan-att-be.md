@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Hur ber en kvinna med månadsblödning de båda bönecyklerna för *iḥrām*?
 
-**Svar:** En kvinna med månadsblödning ber inte två bönecykler för *iḥrām*. I stället träder hon in i *iḥrām* utan att be. Enligt majoriteten av de lärde är de två bönecyklerna för *iḥrām* en *sunnah*. Några av de lärde anser att det inte är rebefallt då det inte finns något särskilt rapporterat om det.
+**Svar:** En kvinna med månadsblödning ber inte två bönecykler för *iḥrām*. I stället träder hon in i *iḥrām* utan att be. Enligt majoriteten av de lärde är de två bönecyklerna för *iḥrām* en *sunnah*. Några av de lärde anser att det inte är rekommenderat då det inte finns något särskilt rapporterat om det.
 
 Majoriteten av de lärde anser dock att det är eftersträvansvärt, med anledning av vad som rapporterats i vissa *aḥādīt̲h* som talar om att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Allāh den Allsmäktige sade: 'Be i denna välsignade dal och säg: En ´umrah*[^1] *inom en vallfärd'*" [^2] Detta avser al-'Aqīq-dalen under hans sista vallfärd.
 

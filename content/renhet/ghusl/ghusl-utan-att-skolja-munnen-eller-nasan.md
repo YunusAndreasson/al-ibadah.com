@@ -21,7 +21,7 @@ description: >-
 
 Därför beordrade profeten – över honom vare Allāhs frid och välsignelser – att munnen ska sköljas och att vatten ska dras in i näsan under tvagningen då de innefattas i Allāh den Upphöjdes ord: "*Och om ni befinner er i ett tillstånd av stor rituell orenhet, ska ni rena er [genom att skölja hela kroppen]*." [^2]
 
-Om de inbegrips i rengöringen av ansiktet och ansiktet är en del av kroppen som måste renas under den stora rengörningen, då är det nödvändigt att den som gör *g̲husl* på grund av den stora rituella orenheten sköljer munnen och drar in vatten i näsan.
+Om de inbegrips i rengöringen av ansiktet och ansiktet är en del av kroppen som måste renas under den stora rengöringen, då är det nödvändigt att den som gör *g̲husl* på grund av den stora rituella orenheten sköljer munnen och drar in vatten i näsan.
 
 
 [^1]: Koranen 5:6

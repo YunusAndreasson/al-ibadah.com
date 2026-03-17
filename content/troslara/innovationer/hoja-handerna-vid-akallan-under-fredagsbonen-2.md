@@ -18,9 +18,9 @@ description: >-
 
 **Svar:** Det är inte föreskrivet att höja händerna under fredagsbönen. Profetens – över honom vare Allāhs frid och välsignelser – följeslagare motsade sig Bishr bin Mirwān när han gjorde detta. Detta är endast föreskrivet under två tillfällen: under bönen för regn[^1] och under bönen för att stoppa regnet.
 
-Beviset för detta är en *ḥadīt̲h* återberättad av Anas, där en man går in i moskén när profeten höll en predikan. Mannen sade: ”Tillgångarna är förstörda.” Profeten höjde sin händer och åkallade. Anas nämnde att samma man kom under följande fredagsbön och sade: ”Allāhs sändebud, tillgångarna är dränkta.” Återigen höjde profeten sina händer och sade: ”Allāh! Omkring oss, inte över oss.” [^2] Denna *ḥadīt̲h* har *Muslim* nedtecknat i boken om bön och regn.
+Beviset för detta är en *ḥadīt̲h* återberättad av Anas, där en man går in i moskén när profeten höll en predikan. Mannen sade: ”Tillgångarna är förstörda.” Profeten höjde sina händer och åkallade. Anas nämnde att samma man kom under följande fredagsbön och sade: ”Allāhs sändebud, tillgångarna är dränkta.” Återigen höjde profeten sina händer och sade: ”Allāh! Omkring oss, inte över oss.” [^2] Denna *ḥadīt̲h* har *Muslim* nedtecknat i boken om bön och regn.
 
-Därför höjer predikaten endast händerna vid dessa båda tillfällen och folket höjer endast deras händer när predikaten gör så, då följeslagarna höjde deras händer tillsammans med profeten under dessa båda tillfällen.
+Därför höjer predikanten endast händerna vid dessa båda tillfällen och folket höjer endast sina händer när predikanten gör så, då följeslagarna höjde sina händer tillsammans med profeten under dessa båda tillfällen.
 
 [^1]: al-istisqā'
 

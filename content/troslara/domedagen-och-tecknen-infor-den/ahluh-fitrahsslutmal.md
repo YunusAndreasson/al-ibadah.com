@@ -16,7 +16,7 @@ description: 'Fråga: Vad kommer de som levde under perioden mellan Jesus och Mu
 
 **Svar:** Det korrekta utlåtandet är att *ahlul-fiṭrah*[^1][^2] består av två kategorier. Den första kategorin består av de som har fått bevisen, sett sanningen men ändå följt det som deras förfäder följde. I detta fall finns det ingen ursäkt för dem och de tillhör Eldens invånare.
 
-När det gäller dem som inte har fått tillgång till bevisen, då är det en fråga för Allāh den Allsmäktige, den Majestätiske att bestämma i. Vi känner inte till deras slutstation. Detta beror på att vi inte känner till någon text i den islamiska lagen om detta fall. Men dem som genom autentiska bevis har bekräftats tillhöra i Elden, de är i Elden.
+När det gäller dem som inte har fått tillgång till bevisen, då är det en fråga för Allāh den Allsmäktige, den Majestätiske att bestämma i. Vi känner inte till deras slutstation. Detta beror på att vi inte känner till någon text i den islamiska lagen om detta fall. Men dem som genom autentiska bevis har bekräftats höra till Elden, de är i Elden.
 
 [^1]: De som kommer att prövas på Domedagen för att ta reda på om de tillhör Helvetet eller Paradiset.
 [^2]: Det naturliga tillstånd som människan föds i.

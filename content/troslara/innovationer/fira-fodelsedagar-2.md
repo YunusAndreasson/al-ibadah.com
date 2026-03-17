@@ -20,7 +20,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har även sagt:
 
 Det är välkänt att profeten – över honom vare Allāhs frid och välsignelser – under sin livstid inte firade någon födelsedag. Han beordrade inte heller följeslagarna att göra detta och därför firade inte de första fyra korrekt vägledda kaliferna eller hans följeslagare – må Allāh vara nöjd med dem.
 
-Och dessa personer är de med störst kunskaper om profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och profeten. Dessa människor var också de som var mest intresserade av att följa det han kom med. Hade det därför varit meningen att vi skull firat hans födelsedag, hade det då gjorts på deras tid.
+Och dessa personer är de med störst kunskaper om profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och profeten. Dessa människor var också de som var mest intresserade av att följa det han kom med. Hade det därför varit meningen att vi skulle firat hans födelsedag, hade det gjorts på deras tid.
 
 Inte heller någon av de lärde i denna bästa generation firade hans födelsedag.
 

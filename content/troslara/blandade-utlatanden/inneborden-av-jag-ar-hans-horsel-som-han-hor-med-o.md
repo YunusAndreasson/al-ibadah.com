@@ -26,7 +26,7 @@ När han slår, då slår han med Allāhs kraft för att stödja sanningen. När
 
 I allmänhet har alla hans inre och yttre handlingar sitt ursprung i Allāhs den Upphöjdes vägledning och kraft.
 
-Därför är det klart att de inte finns något bevis i den ovan nämnda *ḥadīt̲h* för att Allāh reinkarneras i Sin skapelse, eller att Han förenas med den. Detta faktum klargörs även i slutet av *ḥadīt̲h* ovan då Allāh säger:
+Därför är det klart att det inte finns något bevis i den ovan nämnda *ḥadīt̲h* för att Allāh reinkarneras i Sin skapelse, eller att Han förenas med den. Detta faktum klargörs även i slutet av *ḥadīt̲h* ovan då Allāh säger:
 
 > ”… och om han ber Mig, då kommer Jag att ge honom och om han söker Mitt skydd, då kommer Jag att skydda honom.” [*al-Buk̲hārī* 6502]
 

@@ -14,7 +14,7 @@ description: >-
   Vad anser ni? Svar: Vissa lärde sä...
 ---
 
-**Fråga:** Vissa lärde säger att det inte är tillåtet att ge *zakātul-fiṭr* i form av ris då den typ av mat som har rapporteras [i *aḥādīt̲h*] finns tillgängliga. Vad anser ni?
+**Fråga:** Vissa lärde säger att det inte är tillåtet att ge *zakātul-fiṭr* i form av ris då den typ av mat som har rapporterats [i *aḥādīt̲h*] finns tillgängliga. Vad anser ni?
 
 **Svar:** Vissa lärde säger att om de fem typerna av mat är tillgängliga [vete, dadlar, korn, russin och ost] fullföljs *zakātul-fiṭr* inte genom att ge något annat än detta. Denna uppfattning motsäger sig fullständigt åsikten att det är tillåtet att betala *zakātul-fiṭr* med vilken som helst av dessa saker eller något annat, till och med pengar.
 

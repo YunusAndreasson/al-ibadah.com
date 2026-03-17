@@ -22,7 +22,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – brukade besöka
 
 Det har aldrig rapporterats att profeten – över honom vare Allāhs frid och välsignelser – reciterade något från Koranen, även om han brukade besöka deras gravar. Hade detta varit tillåtet, då hade han gjort det och instruerat följeslagarna att göra det. […]
 
-Då han inte gjorde det, när det fanns en anledning för honom att göra det, då är det ett bevis för att detta inte är tillåtet. Han följeslagare – må Allāh vara nöjd med dem – insåg det och följde hans sätt. De var nöjda med att åkalla för de döda när de besökte deras gravar. Det har aldrig rapporterats att de reciterade suror från Koranen för de döda. Därför är det en innovation att [i detta fall] recitera Koranen.
+Då han inte gjorde det, när det fanns en anledning för honom att göra det, då är det ett bevis för att detta inte är tillåtet. Hans följeslagare – må Allāh vara nöjd med dem – insåg det och följde hans sätt. De var nöjda med att åkalla för de döda när de besökte deras gravar. Det har aldrig rapporterats att de reciterade suror från Koranen för de döda. Därför är det en innovation att [i detta fall] recitera Koranen.
 
 Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 

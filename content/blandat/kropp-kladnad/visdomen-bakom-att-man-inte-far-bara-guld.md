@@ -26,7 +26,7 @@ Detta beror på att en text från Allāhs skrift och från Hans sändebuds *sunn
 
 Dessa tre fördelar kommer då från att känna till visdomen bakom den islamiska lagen.
 
-Efter att ha nämnt detta säger vi som svar till vår broders fråga att de har bekräftats att profeten – över honom vare Allāhs frid och välsignelser – förbjöd män, men inte kvinnor, att bära guld och anledningen till det är att ett av de mest förnämsta sätt att pryda sig i denna världen är guld.
+Efter att ha nämnt detta säger vi som svar till vår broders fråga att de har bekräftats att profeten – över honom vare Allāhs frid och välsignelser – förbjöd män, men inte kvinnor, att bära guld och anledningen till det är att ett av de förnämsta sätt att pryda sig i denna världen är guld.
 
 Det är då en form av prydnad och juvel och mannen som är fullständig i sin maskulinitet har inget behov av att fullända sig själv med prydnader av guld och han behöver inte göra sig vacker till den nivån för att uppnå vad han vill när det gäller kärlek.
 

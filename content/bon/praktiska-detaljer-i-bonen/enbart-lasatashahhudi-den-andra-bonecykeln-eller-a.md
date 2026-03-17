@@ -24,6 +24,6 @@ Detta är det bästa men det finns ingen invändan mot att lägga till:
 
 > ”*Allāhumma salli 'ala Muḥammadin wa 'ala āli Muḥammadin kama sallayta 'ala Ibrahīm wa 'ala āli Ibrahīma innaka hamīdun majīd; allāhumma barik 'ala Muḥammadin wa 'ala āli Muḥammadin kama barakta 'ala Ibrahīm wa 'ala āli Ibrahīma innaka hamīden majīd*.”
 
-Det finns lärde som säger att det är rebefallt att göra detta tillägg men jag anser att den mest korrekta åsikten är att begränsa sig själv till den första. Om man lägger till något finns det ingen invändan mot det, speciellt inte om imamen har en längre *tas̲hahhud*. I detta fall bör man lägga till de böner som vi har visat.
+Det finns lärde som säger att det är rekommenderat att göra detta tillägg men jag anser att den mest korrekta åsikten är att begränsa sig själv till den första. Om man lägger till något finns det ingen invändan mot det, speciellt inte om imamen har en längre *tas̲hahhud*. I detta fall bör man lägga till de böner som vi har visat.
 
 

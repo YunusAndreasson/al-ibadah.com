@@ -11,10 +11,10 @@ original_id: 1487
 description: >-
   Fråga: Om någon försov sig och missade gryningsbönen, kommer Allāh då att
   belöna honom för de resterande bönerna under den dagen? Kommer den att
-  accepteras om han ber bär han vaknar? Svar: Pro...
+  accepteras om han ber när han vaknar? Svar: Pro...
 ---
 
-**Fråga:** Om någon försov sig och missade gryningsbönen, kommer Allāh då att belöna honom för de resterande bönerna under den dagen? Kommer den att accepteras om han ber bär han vaknar?
+**Fråga:** Om någon försov sig och missade gryningsbönen, kommer Allāh då att belöna honom för de resterande bönerna under den dagen? Kommer den att accepteras om han ber när han vaknar?
 
 **Svar:** Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som sover över bönen eller glömmer den, han bör be den när han kommer ihåg den. Det krävs ingen gottgörelse utöver detta*.” [^1]
 

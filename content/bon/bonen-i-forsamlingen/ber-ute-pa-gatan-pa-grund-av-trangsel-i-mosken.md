@@ -24,5 +24,5 @@ Och Allāh vet bäst.
 
 Må Allāhs sända frid och välsignelser över vår profet Muḥammad.
 
-[^1]: Tahiyyatul-Msjid.
+[^1]: Tahiyyatul-Masjid.
 

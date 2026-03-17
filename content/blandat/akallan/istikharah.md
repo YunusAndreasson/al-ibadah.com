@@ -3,7 +3,7 @@ title: Istik̲hārah
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
-  Libanon: Makbtaba Dar us-Salam. 522 s. ISBN 9960-892-66-2
+  Libanon: Maktaba Dar us-Salam. 522 s. ISBN 9960-892-66-2
 categories:
   - Blandat
   - Åkallan
@@ -29,7 +29,7 @@ Det är möjligt att de inte kommer att räknas eftersom han sagt: "*Om någon t
 Och Allāh vet bäst.
 
 [^1]: Bönen man ber för att söka Allāhs hjälp när man har flera valmöjligheter.
-[^2]: Tahiyyatul-Msjid.
+[^2]: Tahiyyatul-Masjid.
 [^3]: Rakah.
 
 [^4]: *al-Buk̲hārī* 6382

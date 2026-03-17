@@ -16,7 +16,7 @@ description: 'Fråga: Om maken inte godkänner kvinnans vallfärd, är den då g
 
 **Svar:** Mannen får inte hindra frun att utföra en obligatorisk vallfärd, om alla dess villkor är uppfyllda och hon kan utföra den utan svårighet. Vallfärden är en skyldighet så fort som den är möjlig och det är inte tillåtet att skjuta upp den om man kan utföra den.
 
-Det är rebefallt att kvinnan söker sin mans tillstånd för detta. Om han ger henne tillstånd är det bra; om han inte gör det, då kan hon ge sig av utan hans tillstånd. Ger han henne tillstånd att ge sig av så får han inte ta tillbaka detta tillstånd. När det gäller en frivillig vallfärd kan han hindra henne från det och hon får inte utföra den utan hans tillstånd. Detta beror på att den inte är en skyldighet.
+Det är rekommenderat att kvinnan söker sin mans tillstånd för detta. Om han ger henne tillstånd är det bra; om han inte gör det, då kan hon ge sig av utan hans tillstånd. Ger han henne tillstånd att ge sig av så får han inte ta tillbaka detta tillstånd. När det gäller en frivillig vallfärd kan han hindra henne från det och hon får inte utföra den utan hans tillstånd. Detta beror på att den inte är en skyldighet.
 
 Och Allāh vet bäst.
 

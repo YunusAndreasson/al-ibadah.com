@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Jag är en 42 år gammal kvinna och ibland varar min månadsblödning under fyra dagar, sedan kommer ett uppehåll på tre dagar, därpå börjar den igen den sjunde dagen men mindre än innan och efter det blir min flytning brun till den tolfte dagen. Jag har lidit av blödningar men det har slutat efter behandling – och all lovprisan tillhör Allāh.
 
-Jag har rådfrågat en religiös och rättfärdig doktor om detta och han rebefallde mig att göra *taharah* efter den fjärde dagen och dyrka i form av bön och fasta. Jag gjorde som doktorn rådde mig att göra under två år, men några kvinnor har sagt att jag borde vänta i åtta dagar… Vänligen, ge ert utlåtande och må Allāh belöna er.
+Jag har rådfrågat en religiös och rättfärdig doktor om detta och han rekommenderade mig att göra *taharah* efter den fjärde dagen och dyrka i form av bön och fasta. Jag gjorde som doktorn rådde mig att göra under två år, men några kvinnor har sagt att jag borde vänta i åtta dagar… Vänligen, ge ert utlåtande och må Allāh belöna er.
 
 **Svar:** De dagar som nämns – den fjärde och den åttonde – är *al-hadih*-dagar. Därför varken ber eller fastar du då. Din man får inte ha intim samvaro med dig under dessa dagar. Du bör göra *g̲husl* efter fyra dagar och be, och du kommer även att vara tillåten för din man under den rena perioden [från den fjärde dagen till den åttonde]. Det finns heller ingen invändan mot att du fastar då.
 

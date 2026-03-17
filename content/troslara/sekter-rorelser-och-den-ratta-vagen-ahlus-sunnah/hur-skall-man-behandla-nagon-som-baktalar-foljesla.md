@@ -18,7 +18,7 @@ description: >-
 
 **Fråga:** Hur bör vi behandla en man som baktalar de tre följeslagarna [Abū Bakr, ´Umar och ‘Uthmān]?
 
-**Svar:** profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – är de bästa i detta samfund och Allāh har prisat dem i Hans skrift – Han säger:
+**Svar:** Profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – är de bästa i detta samfund och Allāh har prisat dem i Hans skrift – Han säger:
 
 > ”Föregångsmännen, de första av dem som utvandrade och [de första] hjälparna, och de rättsinniga [människor] som följde i deras spår – Gud är nöjd med dem och de är nöjda [där de njuter] Hans [gåvor]: Han har i beredskap för dem lustgårdar, vattnade av bäckar, där de ska förbli till evig tid. Detta är den stora, den lysande segern.” [Koranen 9:100]
 
@@ -34,7 +34,7 @@ Han har varnat andra för att tala illa om dem:
 
 > ”Smäda inte mina följeslagare. Skulle någon av er spendera guld likvärdigt berget Uhud, då skulle personen inte ens uppnå en *mudd* [två fulla händer] av dem [deras belöningar] – inte ens hälften av det.” [*al-Buk̲hārī* 3673, *Muslim* 2540 och 2541]
 
-Detta har återgivits från Abū Hurairah och Abū Sa´īd al-Khudri i Muslims *Ṣaḥīḥ*. Den som förtalar eller skymfar profetens – över honom vare Allāhs frid och välsignelser – följeslagare [speciellt Abū Bakr, ´Umar och 'Uthmān] har avvisat Allāhs skrift och Hans sändebuds *sunnah*. Han har motsatt sig båda två [Koranen och profeten *sunnah*] genom att förtala dem.
+Detta har återgivits från Abū Hurairah och Abū Sa´īd al-Khudri i Muslims *Ṣaḥīḥ*. Den som förtalar eller skymfar profetens – över honom vare Allāhs frid och välsignelser – följeslagare [speciellt Abū Bakr, ´Umar och 'Uthmān] har avvisat Allāhs skrift och Hans sändebuds *sunnah*. Han har motsatt sig båda två [Koranen och profetens *sunnah*] genom att förtala dem.
 
 Personen kommer inte att få den förlåtelse som Allāh har lovat de som följer dem, ber om att de ska förlåtas och ber att Allāh att Han inte placerar ogillande i deras hjärta mot de troende.
 

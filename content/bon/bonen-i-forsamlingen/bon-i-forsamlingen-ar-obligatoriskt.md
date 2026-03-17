@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Somliga – må Allāh vägleda dem – är inte närvarande vid bönen i församlingen. Detta sker utan giltiga ursäkter. Några ursäktar sig med att de har mycket att göra. När de får råd fortsätter de envist och de svarar alltid: ”Bönen är för Allāh och det är inte upp till någon att lägga sig i [att ha någon som helst åsikt] denna fråga.” Vad säger ni om detta?
 
-**Svar:** Ömsesidiga råd mellan muslimer och fördöma ondska är en av de viktigaste skyldigheterna. Allāh den Upphöjde har sagt: ”*Men de troende, männen såväl som kvinnorna, är varandras [sanna] vänner och fasta stöd; de anbefaller det som är rätt och förbjuder det som är orätt*.” [^1]
+**Svar:** Ömsesidiga råd mellan muslimer och att fördöma ondska är en av de viktigaste skyldigheterna. Allāh den Upphöjde har sagt: ”*Men de troende, männen såväl som kvinnorna, är varandras [sanna] vänner och fasta stöd; de anbefaller det som är rätt och förbjuder det som är orätt*.” [^1]
 
 Och profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Om någon av er såg något avskyvärt, då bör han korrigera det med sin hand; och om han inte har möjlighet att göra det, då med sina ord; och om han inte har möjlighet att göra detta, då i hans hjärta – och detta är den svagaste formen av tro*.” [^2]
 

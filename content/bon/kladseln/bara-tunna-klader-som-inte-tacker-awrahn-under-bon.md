@@ -21,13 +21,13 @@ description: >-
 
 I en *ḥadīt̲h* från Abū Hurairah säger han: ”*Ingen av er ska be i ett klädesplagg som inte täcker axlarna*.” [^2]
 
-Hela kvinnans kropp är*´awrah*, utom ansiktet. De lärde har olika åsikter om händerna, vissa påstår att det är obligatoriskt att täcka dem, medan andra påstår att det inte är obligatoriskt. Denna fråga är öppen för diskussion, men det är bättre att täcka dem för att undvika oenigheter bland de lärde.
+Hela kvinnans kropp är *´awrah*, utom ansiktet. De lärde har olika åsikter om händerna, vissa påstår att det är obligatoriskt att täcka dem, medan andra påstår att det inte är obligatoriskt. Denna fråga är öppen för diskussion, men det är bättre att täcka dem för att undvika oenigheter bland de lärde.
 
 Fötterna måste täckas under bönen enligt en majoritet av de lärde. Abū Dāwūd har rapporterat att Umm Salamah frågade profeten: ”*Får en kvinna be i en lång skjorta och något som täcker huvudet utan en izār?*” Han svarade: ”*Om skjortan är vid och den täcker hennes fötter*.” [^3] Ibn Hajar har i *Bulūg̲h al-Marām* sagt: ”Och de lärde har säkrat detta fram till Umm Salamah.”
 
 Grundat på vad vi har nämnt är det en skyldighet för män och kvinnor att deras kläder täcker *´awrah*. Är kläderna tunna och inte täcker den så är bönen ogiltig. Detta innefattar även om man bär korta underplagg som inte täcker låren – vilket är en skyldighet för män – om de inte bär något annat över dem. I detta fall blir bönen ogiltig. På samma sätt blir kvinnans bön ogiltig om hon bär korta klädesplagg som inte täcker hennes *´awrah*.
 
-Bönen är en av islams pelare och det är den viktigaste pelaren efter trosbekännelserna. Därför måste muslimer – män som kvinnor – vara noga med den, uppfylla alla dess villkor och undvika allt som kan göra den ogiltig. Allāh den Allsmäktige har sagt: ”*Förrätta regelbundet [de dagliga] bönerna och [särskilt] de bön som har en central plats och res er i form ödmjukhet inför Gud*.” [^4]
+Bönen är en av islams pelare och det är den viktigaste pelaren efter trosbekännelserna. Därför måste muslimer – män som kvinnor – vara noga med den, uppfylla alla dess villkor och undvika allt som kan göra den ogiltig. Allāh den Allsmäktige har sagt: ”*Förrätta regelbundet [de dagliga] bönerna och [särskilt] de bön som har en central plats och res er i from ödmjukhet inför Gud*.” [^4]
 
 Och Allāh den Upphöjde har sagt: ”*Förrätta bönen och ge åt de behövande och böj era huvuden med de andra som böjer sina huvuden [i bön]*.” [^5]
 

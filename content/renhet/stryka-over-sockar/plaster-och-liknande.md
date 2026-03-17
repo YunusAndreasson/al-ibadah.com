@@ -20,7 +20,7 @@ description: >-
 
 Låt oss anta att det fanns ett plåster fastsatt för att täcka ett sår på armen och man blev tvungen att tvaga sig. Då får man stryka över det i stället för att tvätta det. Denna rening är då fullständig. Förklaringen är att om man tog bort detta *jabirah* eller plåster, då skulle ens rening fortfarande vara giltig då den utförts på ett tillåtet sätt. Det finns inga bevis för att ens rituella renhet blir ogiltigt genom att man tar bort plåstret.
 
-Det finns heller inga bevis fria från kritik för att stryka över *jabirah*. Det finns några svaga *aḥādīt̲h* som de lärde har citerats som bevis. De säger att det totala antalet *aḥādīt̲h* höjer dem till en nivå som gör dem till [acceptabla] bevis.
+Det finns heller inga bevis fria från kritik för att stryka över *jabirah*. Det finns några svaga *aḥādīt̲h* som de lärde har citerat som bevis. De säger att det totala antalet *aḥādīt̲h* höjer dem till en nivå som gör dem till [acceptabla] bevis.
 
 Vissa lärde säger att på grund av deras svaghet så kan de inte användas. Dessa lärde är själva oeniga. Några säger att de inte är nödvändigt att rena jabirah då det inte är möjligt att göra så. Andra säger att man bör göra *tayammum* där och inte stryka över det.
 

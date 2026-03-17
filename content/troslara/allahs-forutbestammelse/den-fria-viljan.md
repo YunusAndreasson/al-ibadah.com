@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Frågeställaren bör fråga sig om någon tvingade honom att ställa denna fråga, om han själv har bestämt vilken bil han vill ha och liknande frågor. Gör han det, då blir svaret klart för honom om han följer en väg utstakad av Allāh eller om han har en egen fri vilja.
 
-Sedan bör han ställa sig frågan om olyckor inträffar genom hans fria vilja, om han blir sjuk av egen fri vilja, om han dör av egen fri vilja och liknande frågor. Då blir svaret klart för honom om han följer en väg som Allāh har valt eller om han har frihet att välja själva.
+Sedan bör han ställa sig frågan om olyckor inträffar genom hans fria vilja, om han blir sjuk av egen fri vilja, om han dör av egen fri vilja och liknande frågor. Då blir svaret klart för honom om han följer en väg som Allāh har valt eller om han har frihet att välja själv.
 
 Svaret är att det som den vise gör utan tvekan görs genom personens eget val. Lyssna på Allāhs ord:
 

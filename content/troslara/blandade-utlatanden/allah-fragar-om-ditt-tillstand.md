@@ -16,5 +16,5 @@ description: 'Fråga: Vilket är utlåtandet om att säga: ”Allāh frågar om 
 
 **Svar:** Detta uttryck: "Allāh frågar om ditt tillstånd" är inte tillåtet då det antyder den falska föreställningen att Allāh den Upphöjde inte känner till tillståndet och att Han frågar om det. Det är välkänt att detta är något avskyvärt.
 
-Den som säger så här avser inte att säga att något är dolt för Allāh och att Han behöver fråga om det, men detta uttryck kan förmedla denna mening eller få någon att tro att detta var avsikten. Detta måste undvikas och i stället bör man säg: "Jag ber Allāh att Han hedrar dig" eller att "Han är vänlig mot dig" eller liknande.
+Den som säger så här avser inte att säga att något är dolt för Allāh och att Han behöver fråga om det, men detta uttryck kan förmedla denna mening eller få någon att tro att detta var avsikten. Detta måste undvikas och i stället bör man säga: "Jag ber Allāh att Han hedrar dig" eller att "Han är vänlig mot dig" eller liknande.
 

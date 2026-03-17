@@ -10,11 +10,11 @@ categories:
 original_id: 251
 description: >-
   Fråga: Jag är en ung tjej som med anledning av sömn ofta missar kvällsbönen.
-  Jag tar i igen den senare. Vilket är utlåtandet om detta? Svar: Utlåtandet är
+  Jag tar igen den senare. Vilket är utlåtandet om detta? Svar: Utlåtandet är
   att det inte är tillåtet att vara så ...
 ---
 
-**Fråga:** Jag är en ung tjej som med anledning av sömn ofta missar kvällsbönen. Jag tar i igen den senare. Vilket är utlåtandet om detta?
+**Fråga:** Jag är en ung tjej som med anledning av sömn ofta missar kvällsbönen. Jag tar igen den senare. Vilket är utlåtandet om detta?
 
 **Svar:** Utlåtandet är att det inte är tillåtet att vara så ovarsam med bönen att tiden för den går ut. Sover man så kan man be någon att väcka en för att man ska kunna be. Detta är något som man måste göra. Denna unga tjej måste därför be någon i familjen att väcka henne.
 

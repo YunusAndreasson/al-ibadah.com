@@ -43,7 +43,7 @@ Dessa båda böcker är mer omfattande än *al-Wāsitiyyah*. Alla är skrivna av
 6. *al-Arba’īn al-Nawawiyyah* av Abū Zakariyya al-Nawawi. Detta är en bra bok då den tar upp etikett, god metodologi och viktiga grundläggande principer som denna *ḥadīt̲h*: ”*En del av att vara en god muslim är att lämna det som inte berör en*.” [Återberättad av imam Aḥmad, 1 – 201; al-Tirmithi, 2318; klassad som *ḥasan* by al-Nawawi i *Riyādh al-Sālihīn*, 73; klassad som Sahīh av Aḥmad Shākir i *al-Musnad*, 1737] Denna princip – om man gör den till vägen som man följer – skulle vara tillräcklig. En annan princip läggs fram om när man bör tala: ”*Den som tror på Allāh och den Yttersta dagen, låt personen säga något bra eller vara tyst*.” [*al-Buk̲hārī, Kitāb al-Adab; Muslim, Kitāb al-Luqtah, Bāb al-Diyāfah*]
 7. *Bulūg̲h al-Marām* av al-Hāfiz Ibn Hajar al-‘Asqallāni. Detta är en mycket användbar bok, speciellt då den nämner återberättarna och citat från de lärde som har sagt vilka *aḥādīt̲h* som är *Ṣaḥīḥ* och vilka som är *da’īf*. Han kommenterar varje *ḥadīt̲h* och säger om den är *Ṣaḥīḥ* eller *da’īf*.
 8. *Nukhbat al-Fikr* av al-Hāfiz Ibn Hajar al-‘Asqallāni. Detta anses vara ett mycket omfattande verk. Om den islamstudernade förstår det fullt ut kommer personen inte ha något behov av speciellt många andra böcker i vetenskapen om *ḥadīt̲h*. Ibn Hajar skriver på ett nyttigt sätt då han undersöker varje fråga i detalj och då han kategoriserar de ämnen som han diskuterar. Om den islamstuderande läser den kommer personen att finna den stimulerande då den får en att tänka. Jag säger: Det är bra för den som studerar islam att memorera den då den innehåller en nyttig sammanställning av vetenskapen om *ḥadīt̲h* .
-9. De Sex Böckerna [^4]. Jag rebefaller alla studenter att läsa dem ofta. Det tjänar två syften: Påminnelse om islams huvudkällor om påminnelse om de som har återberättat *aḥādīt̲h* . Går du ofta igenom namnen på de som har återberättat *aḥādīt̲h* kommer du att när du ser namnet på någon återberättar hos al-Buk̲hārī i en berättarkedja, då vet du att det är en av al-Buk̲hārīs återberättare. På detta sätt kommer du att ha nytta av denna kunskap om *ḥadīt̲h*.
+9. De Sex Böckerna [^4]. Jag rekommenderar alla studenter att läsa dem ofta. Det tjänar två syften: Påminnelse om islams huvudkällor om påminnelse om de som har återberättat *aḥādīt̲h* . Går du ofta igenom namnen på de som har återberättat *aḥādīt̲h* kommer du att när du ser namnet på någon återberättar hos al-Buk̲hārī i en berättarkedja, då vet du att det är en av al-Buk̲hārīs återberättare. På detta sätt kommer du att ha nytta av denna kunskap om *ḥadīt̲h*.
 
 *fiqh*
 
@@ -61,7 +61,7 @@ Dessa båda böcker är mer omfattande än *al-Wāsitiyyah*. Alla är skrivna av
 *tafsīr*
 
 1. *Tafsīr al-Qur’ān al-‘Azīm* av Ibn Kathīr. Denna bok är bra för *tafsīr* grundad på rapporter. Den är användbar och pålitlig. Den lägger dock inte så stor vikt vid grammatik och stil.
-2. *Tafsīr al-Karīm al-Rahmān fi Tafsīr Kalām al-Mannān* av *s̲hayk̲h* ‘Abd al-Rahmān al-Sa’di. Detta är en bra, lätt och pålitlig bok. Jag rebefaller den.
+2. *Tafsīr al-Karīm al-Rahmān fi Tafsīr Kalām al-Mannān* av *s̲hayk̲h* ‘Abd al-Rahmān al-Sa’di. Detta är en bra, lätt och pålitlig bok. Jag rekommenderar den.
 3. *Muqaddimah s̲hayk̲h al-islām fi’l-Tafsīr*. Detta är en viktig introduktion.
 4. *Adwā’ al-Bayān av al-‘Allāmah Muḥammad al-Shanqīti*. Detta är en omfattande bok som täcker *ḥadīt̲h*[^2], *fiqh*, *tafsīr* och *usūl al-fiqh*[^3].
 

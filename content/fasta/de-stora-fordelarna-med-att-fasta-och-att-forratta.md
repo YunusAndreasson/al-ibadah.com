@@ -36,13 +36,13 @@ Han har även berättat att Allāh sagt:
 
 *aḥādīt̲h* om förtjänsten i fastan och att be under *ramaḍān* är många.
 
-Därför bör en muslim dra nytta av denna möjlighet, som är Allāhs välsignelse över personen genom att låta denna få ta del av *ramaḍān*. Därmed bör personen skynda sig att till att lyda [Allāh] och personen bör undvika de onda handlingarna. Personen bör kämpa hårt för att göra allt som Allāh har gjort obligatoriskt för personen, speciellt de fem bönerna, som är islams pelare.
+Därför bör en muslim dra nytta av denna möjlighet, som är Allāhs välsignelse över personen genom att låta denna få ta del av *ramaḍān*. Därmed bör personen skynda sig till att lyda [Allāh] och personen bör undvika de onda handlingarna. Personen bör kämpa hårt för att göra allt som Allāh har gjort obligatoriskt för personen, speciellt de fem bönerna, som är islams pelare.
 
 Bönen är den största skyldigheten efter de båda vittnesmål om tro. Därför måste varje muslimsk man och kvinna vara noga med bönerna och med ödmjukhet och lugn be dem i tid.
 
-En av de viktigaste skyldigheterna för män är att be med församligen i Allāhs Hus [moskén]. Allāh har beordrat att de ska uppresas och att Hans namns ska nämnas [eller åminnas]. Allāh har sagt.
+En av de viktigaste skyldigheterna för män är att be med församligen i Allāhs Hus [moskén]. Allāh har beordrat att de ska uppresas och att Hans namn ska nämnas [eller åminnas]. Allāh har sagt:
 
-> ”Förrätta din andakt inför din Herre med ödmjukhet; fall ned på ditt ansikte [inför Honom] och böj ditt huvud tillsammans med dem böjer sina huvuden [i bön].” [Koranen 2:43]
+> ”Förrätta din andakt inför din Herre med ödmjukhet; fall ned på ditt ansikte [inför Honom] och böj ditt huvud tillsammans med dem som böjer sina huvuden [i bön].” [Koranen 2:43]
 
 Och Han den Upphöjde har sagt:
 
@@ -60,23 +60,23 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Det förbund som separerar mellan oss och dem är bönen. Så den som överger den har inte trott.” [*at-Trimithi* 2621]
 
-Den största skyldigheten efter bönen är betala allmosan. Allāh den Allsmäktige säger:
+Den största skyldigheten efter bönen är att betala allmosan. Allāh den Allsmäktige säger:
 
-> ”Men inga andra påbud gavs dem än att dyrka Gud med ren och uppriktig tro liksom de som i gågna tider sökte sanningen, och att förrätta bönen och att hjälpa de behövande. Detta är den sanna, i människans natur nedlagda religionens klara och evigt giltiga [påbud].” [Koranen 98:5]
+> ”Men inga andra påbud gavs dem än att dyrka Gud med ren och uppriktig tro liksom de som i gångna tider sökte sanningen, och att förrätta bönen och att hjälpa de behövande. Detta är den sanna, i människans natur nedlagda religionens klara och evigt giltiga [påbud].” [Koranen 98:5]
 
 Sannerligen bevisar Allāhs ädla skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* att den som inte betalar allmosa för sina tillgångar kommer att straffas under Återuppståndelsens Dag.
 
 Den viktigaste frågan efter bönen och allmosan är fastan under *ramaḍān*. Den är en av islams fem pelare som omnämns i profetens – över honom vare Allāhs frid och välsignelser – uttalande:
 
-> ”Islām är byggt på fem pelare: vittnetsmålet om att ingen har rätt att bli dyrkad utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av bönen, betalning av allmosa, fastan under *ramaḍān* och vallfärden till Huset [Ka’bah].” [*al-Buk̲hārī* 98:5]
+> ”Islām är byggt på fem pelare: vittnesmålet om att ingen har rätt att bli dyrkad utom Allāh och att Muḥammad är Allāhs sändebud, förrättandet av bönen, betalning av allmosa, fastan under *ramaḍān* och vallfärden till Huset [Ka’bah].” [*al-Buk̲hārī* 98:5]
 
 En muslim måste skydda fastan och bönen [under natten] mot ord och handlingar som Allāh har förbjudit. Detta beror på att avsikten med fastan är att lyda Allāh, hedra det ting Han har gjort heligt, tvinga själen att motsäga sig dess begär för att lyda dess Herre och göra den van vid att vara tålmodig i att undvika det som Allāh har förbjudit.
 
 Syftet med fastan är inte enbart att lämna mat, dryck och annat som kan bryta den. Dess syften har autentiskt berättats från Allāhs sändebud då han sagt:
 
-> ”Fastan är en sköld. Så om det är en dag då en av er fastar bör personen inte säga oanständiga saker [och] inte heller höja sin röst i ilska. Om någon muntligen antastar personen eller bråkar med personen, då bör personen säg: 'Sannerligen fastar jag.'” [*al-Buk̲hārī* 1904 och *Aḥmad* 6:244]
+> ”Fastan är en sköld. Så om det är en dag då en av er fastar bör personen inte säga oanständiga saker [och] inte heller höja sin röst i ilska. Om någon muntligen antastar personen eller bråkar med personen, då bör personen säga: 'Sannerligen fastar jag.'” [*al-Buk̲hārī* 1904 och *Aḥmad* 6:244]
 
-Det har även rapporterats han sagt:
+Det har även rapporterats att han sagt:
 
 > ”Den som inte överger falskt tal, handlar bedrägligt och beter sig okunnigt, då har Allāh inget behov av att personen överger sin mat och dryck.” [*al-Buk̲hārī* 1903]
 
@@ -90,7 +90,7 @@ När personen ber under natten är det även då en skyldighet att göra det med
 
 > ”Den som fastar under *ramaḍān* med tro och hopp om belöningar, personen kommer att förlåtas för alla personens tidigare synder. Och den som ber [under natten] i *ramaḍān* med tro och hopp om belöningar, personen kommer att förlåtas för alla personens tidigare synder. Och den som ber [nattetid] under Allmaktens Natt[^1] med tro och hopp om belöningar, personen kommer att förlåtas för alla sina tidigare synder.” [*al-Buk̲hārī* 2014 och *Muslim* 759 – 760]
 
-En av de frågor som människor inte är medvetna om är utlåtande om den fastande som råkar skada sig, får näsblod eller om vatten och ånga oavsiktligen rinner genom personens hals. Inga av detta bryter fastan. Men den som avsiktligen spyr bryter fastan. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
+En av de frågor som människor inte är medvetna om är utlåtande om den fastande som råkar skada sig, får näsblod eller om vatten och ånga oavsiktligen rinner genom personens hals. Inget av detta bryter fastan. Men den som avsiktligen spyr bryter fastan. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Den som råkar spy, personen behöver inte ta igen fastan för den dagen. Och den som får sig själv att spy, personen måste ta igen fastan för den dagen.” [*Abū Dāwūd* 2380]
 
@@ -144,7 +144,7 @@ Allāh är Den som vi ber ska hjälpa oss och alla muslimer till att göra allt 
 
 Sannerligen, Han är Den som skyddar detta och Den som är kapabel att göra det.
 
-*as-Salamu 'Alaykum a Rahmatullāhi wa Barakatuhu*
+*as-Salamu 'Alaykum wa Rahmatullāhi wa Barakatuhu*
 
 [^1]: Laylatul-Qadr. En av de sista tio nätterna under fastemånaden. Bön under den natten är likvärdig med bön under 1000 månader.
 

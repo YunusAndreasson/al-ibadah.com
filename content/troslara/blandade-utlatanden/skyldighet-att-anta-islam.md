@@ -23,7 +23,7 @@ description: >-
 
 Därmed måste hela människosläktet tro på Allāhs sändebud – över honom vare Allāhs frid. Men då islam har sitt ursprung i Allāhs den Allsmäktiges nåd och visdom har Han tillåtit att de som inte är muslimer stannar kvar i deras religion under villkor att de lyder under muslimskt styre. Allāh den Upphöjde säger ju:
 
-> ”Kämpa mot dem som, trots att de [förr] fick ta emot en uppenbarad Skrift, varken tror på Gud eller den Yttersta dagen och som inte anser som förbjudet det som Gud och Hans sändebud har förbjudit och inte iakttar den sannan religionens bud – [kämpa mot dem] till dess de erkänner sig besegrade och frivilligt betalar skyddsskatten.” [Koranen 9:29]
+> ”Kämpa mot dem som, trots att de [förr] fick ta emot en uppenbarad Skrift, varken tror på Gud eller den Yttersta dagen och som inte anser som förbjudet det som Gud och Hans sändebud har förbjudit och inte iakttar den sanna religionens bud – [kämpa mot dem] till dess de erkänner sig besegrade och frivilligt betalar skyddsskatten.” [Koranen 9:29]
 
 I *Ṣaḥīḥ Muslim* återges i en *ḥadīt̲h* från Buraidah att när profeten – över honom vare Allāhs frid och välsignelser – utsåg en ledare för en arme eller expedition beordrade han personen att frukta Allāh och att behandla muslimerna i personens följe väl: ”*Bjud inte dem till tre saker. Om de svarar på någon av dessa, acceptera det från dem och se till att inte ställa till med något skadligt för dem*.” [^1]
 

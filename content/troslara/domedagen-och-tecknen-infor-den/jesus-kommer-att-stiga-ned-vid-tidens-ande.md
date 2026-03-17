@@ -15,7 +15,7 @@ description: >-
   de som påstår att Jesus inte kommer att åt...
 ---
 
-**Fråga:** Om Jesus är vid liv, kommer han då att stiga ned vid tidens ände och styra och då följa Muḥammads religion? Vad finns det för bevis för detta? Hur de som påstår att Jesus inte kommer att återvända vid tidens och styra över folket besvaras?
+**Fråga:** Om Jesus är vid liv, kommer han då att stiga ned vid tidens ände och styra och då följa Muḥammads religion? Vad finns det för bevis för detta? Hur de som påstår att Jesus inte kommer att återvända vid tidens ände och styra över folket besvaras?
 
 **Svar:** Ja, Allāhs profet Jesus, son till Maria, kommer att stiga ned vid tidens ände och han kommer att styra över människorna med rättvisa enligt profeten Muḥammads lag. Han kommer att förstöra korset, döda grisarna och avskaffa skyddskatten – och han kommer inte att acceptera någon annan religion än islam. Skriftens folk – judarna och de kristna – kommer att tro på honom före hans död, när han stiger ned vid tidens ände. Allāh den Upphöjde säger:
 

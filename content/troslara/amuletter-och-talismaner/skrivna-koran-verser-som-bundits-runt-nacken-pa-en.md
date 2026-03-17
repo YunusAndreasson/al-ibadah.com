@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om *ruqyah*? Och vilket är utlåtandet om att skriva Koran-verser och binda dem runt en sjuklings hals?
 
-**Svar:** Det finns ingen synd i *ruqyah* för en sjukling som drabbats av häxkraft om denna ruqyah[^1] kommer från den ädla Koranen eller från tillåtna åkallan. Man har bekräftat att profeten – över honom vare Allāhs frid och välsignelser – brukade läsa *ruqyah* över hans följeslagare. En av de *ruqyah* som han brukade använda är:
+**Svar:** Det finns ingen synd i *ruqyah* för en sjukling som drabbats av häxkraft om denna ruqyah[^1] kommer från den ädla Koranen eller från tillåtna åkallan. Man har bekräftat att profeten – över honom vare Allāhs frid och välsignelser – brukade läsa *ruqyah* över sina följeslagare. En av de *ruqyah* som han brukade använda är:
 
 > ”Vår Herre, Allāh, som är i [ovan] himlen, helgat vare Ditt namn, Din befallning råder över himlarna och jorden. Som Din nåd är i himlen, låt Din nåd vara så på jorden. Sänd ned nåd från Din nåd och en bot från Din bot över denna sjukdom.” [*Abū Dāwūd* 3892]
 

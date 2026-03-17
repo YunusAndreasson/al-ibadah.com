@@ -18,6 +18,6 @@ description: >-
 
 **Svar:** Det är tillåtet att ge till välgörenhet för sina föräldrar eller för någon annans räkning, oavsett om de lever eller har gått bort. Avsikten i hjärtat är tillräcklig. Skulle vi säga: ”*Allāh! Acceptera denna välgörenhet för mina föräldrars räkning*”, då skulle det inte vara något skadligt i det. Det är en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah* att åkalla för sina föräldrar, släktingar och alla muslimer. Man ber för att de ska förlåtas och liknande saker.
 
-När det kommer till recitation av Koranen, för att de ska få ta emot belöningarna, då har många lärde tillåtet det. Det har dock inte spårats tillbaka till profeten – över honom vare Allāhs frid och välsignelser – eller följeslagarna och därför bör vi inte ägna oss åt detta. Majoriteten av de lärde har förbjudit detta, eftersom det inte finns något återberättat som stödjer detta. Men om någon gör det enbart ibland, då bör ingen uttrycka sitt missnöje om det.
+När det kommer till recitation av Koranen, för att de ska få ta emot belöningarna, då har många lärde tillåtit det. Det har dock inte spårats tillbaka till profeten – över honom vare Allāhs frid och välsignelser – eller följeslagarna och därför bör vi inte ägna oss åt detta. Majoriteten av de lärde har förbjudit detta, eftersom det inte finns något återberättat som stödjer detta. Men om någon gör det enbart ibland, då bör ingen uttrycka sitt missnöje om det.
 
 

@@ -14,7 +14,7 @@ description: 'Fråga: Vilket är utlåtandet om att överföra allmosa till en a
 
 **Fråga:** Vilket är utlåtandet om att överföra allmosa till en annan plats än där den är en skyldighet?
 
-**Svar:** Det är tillåtet att överföra sin allmosa från landet som man bor i till ett annat land om det finns någon nytta med det. Finns det släktingar som får ta emot allmosa i ett annat land och allmosans sänds till dem, då finns det ingen invändan mot det.
+**Svar:** Det är tillåtet att överföra sin allmosa från landet som man bor i till ett annat land om det finns någon nytta med det. Finns det släktingar som får ta emot allmosa i ett annat land och allmosan sänds till dem, då finns det ingen invändan mot det.
 
 På samma sätt om levnadsstandarden i landet är hög och allmosan skickas till ett land där familjen är fattig, då finns det ingen invändan mot det heller.
 

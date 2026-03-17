@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om en resenärs fasta i vetskap om att det i dagsläget inte är svårt för den fastande när det finns moderna transportmedel?
 
-**Svar:** Resenären får fasta, likväl som personen får bryta fastan. Detta enligt Allāhs den Upphöjdes ord: ”*Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarade antal dagar*.” [^1]
+**Svar:** Resenären får fasta, likväl som personen får bryta fastan. Detta enligt Allāhs den Upphöjdes ord: ”*Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarande antal dagar*.” [^1]
 
 Följeslagarna gav sig av på en resa i sällskap med profeten. Vissa fastade medan andra inte gjorde det, och inga av dem tillrättavisade de andra.
 

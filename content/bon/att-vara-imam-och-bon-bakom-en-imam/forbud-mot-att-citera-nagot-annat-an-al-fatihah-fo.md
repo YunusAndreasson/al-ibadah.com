@@ -19,7 +19,7 @@ description: >-
 
 **Fråga:** När imamen har reciterat *al-Fātiḥah* i bön med höjd röst hör jag att vissa recitera *al-Fātiḥah*. Men jag hör också att de reciterar ännu en kort sura efter den. Vilket är utlåtandet om detta?
 
-**Svar:** Den som leds i bön med höjd röst får inte recitera något annat än *al-Fātiḥah*. Hans måste vara tyst därefter när imamen reciterar. Detta grundas på profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Kanske reciterar ni bakom imamen?*” Vi svarade: ”*Ja*.” Han sade: ”*Gör inte så, utom Skriftens öppnande [*al-Fātiḥah*]. Det finns ingen bön för den som inte reciterar den*.” [^1]
+**Svar:** Den som leds i bön med höjd röst får inte recitera något annat än *al-Fātiḥah*. Han måste vara tyst därefter när imamen reciterar. Detta grundas på profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Kanske reciterar ni bakom imamen?*” Vi svarade: ”*Ja*.” Han sade: ”*Gör inte så, utom Skriftens öppnande [*al-Fātiḥah*]. Det finns ingen bön för den som inte reciterar den*.” [^1]
 
 Allāh den Upphöjde har sagt: ”*Lyssna därför uppmärksamt när högläsning ur Koranen pågår – kanske kommer [Gud] att visa er barmhärtighet*.” [^2]
 

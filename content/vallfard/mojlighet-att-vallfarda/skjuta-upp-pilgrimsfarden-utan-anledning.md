@@ -12,7 +12,7 @@ original_id: 523
 description: >-
   Fråga: Vilket är utlåtandet om den som utan anledning skjuter upp
   pilgrimsfärden? Personen har möjlighet att utföra den. Svar: All lovprisan
-  tillhör Allāh och må frid var över Hans sändebud. Den ...
+  tillhör Allāh och må frid vara över Hans sändebud. Den ...
 ---
 
 **Fråga:** Vilket är utlåtandet om den som utan anledning skjuter upp pilgrimsfärden? Personen har möjlighet att utföra den.

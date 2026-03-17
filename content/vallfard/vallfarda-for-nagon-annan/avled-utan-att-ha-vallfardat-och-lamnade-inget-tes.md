@@ -1,9 +1,9 @@
 ---
 title: Avled utan att ha vallfärdat och lämnade inget testamente efter sig
-author: >-
+author: Ibn ´Abdullāh Ibn Baz
+source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 70 s. ISBN saknas
-source: Ibn ´Abdullāh Ibn Baz
 categories:
   - Vallfärd (Hajj)
   - Ställföreträdande vallfärd

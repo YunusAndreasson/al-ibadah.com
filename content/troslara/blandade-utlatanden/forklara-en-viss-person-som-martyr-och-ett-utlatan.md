@@ -17,7 +17,7 @@ description: >-
 **Fråga:** Jag har läst en *ḥadīt̲h* från den hedervärde följeslagaren Abū Hurairah i vilken profeten – över honom vare Allāhs frid och välsignelser – säger:
 
 > ”Vem anser ni vara martyr?” De svarade: ”Allāhs sändebud! Den som dödats för Allāhs sak är en martyr.” Han svarade: ”Martyrerna i mitt samfund är endast ett fåtal.” De sade: ”Vilka är det då, Allāhs sändebud?” Han svarade: ”Den som dräps för Allāhs sak är en martyr och den som än dör på Allāhs väg är en martyr, och den som dör av någon magsjukdom är en martyr och den som drunknar är en martyr.” [*Muslim* 1915]
-Så kommer den som drunknar var onykter att nedtecknas som en martyr, då personen är en martyr enligt ḥadīt̲hen[^1]. Vi ber er om råd.
+Så kommer den som drunknar vara onykter att nedtecknas som en martyr, då personen är en martyr enligt ḥadīt̲hen[^1]. Vi ber er om råd.
 
 Innan jag svarar på frågan skulle jag vilja påpeka att i dessa dagar används ordet martyr alldeles för lättvindigt av många. Det kan innebära att även de som inte kan förklaras som martyrer kallas för det. Detta är förbjudet. Det är inte tillåtet att tillskriva någon martyrskap, utom om profeten – över honom vare Allāhs frid och välsignelser – har bekräftat det.
 
@@ -27,7 +27,7 @@ Vi tror på Allāhs sändebuds vittnesmål och den vars martyrskap han har berä
 
 Den andra kategorin är de vars martyrskap profeten – över honom vare Allāhs frid och välsignelser – har vittnat om i allmänna termer, som i den *ḥadīt̲h* som frågeställaren nämner. Han säger här att den som dödas eller dör för Allāhs sak är en martyr. Även den som dör av pest, magsjukdom, drunkning och andra former av martyrskap som i allmänna termer bekräftats i *aḥādīt̲h*.
 
-Denna kategori är det inte tillåten att foga in på en viss person. Vi kan endast säga: Den som är beskriven på det sättet är en martyr, men vi kallar inte någon viss person för martyr. Den allmänna beskrivningen av en martyr är olik martyrskapets tillskrivelse för en viss person.
+Denna kategori är det inte tillåtet att foga in på en viss person. Vi kan endast säga: Den som är beskriven på det sättet är en martyr, men vi kallar inte någon viss person för martyr. Den allmänna beskrivningen av en martyr är olik martyrskapets tillskrivelse för en viss person.
 
 al-Buk̲hārī har förklarat detta i sin Sahīh när han säger: "*Det bör det inte sägas martyr om någon*." Som bevis för detta citerar han profetens – över honom vare Allāhs frid och välsignelser – uttalande: "*Allāh vet bäst vem som är en mujāhid för Hans sak*." [al-Buk̲hārī i boken om *djihād*, kapitel 77] Och hans ord: "*Och Allāh vet bäst vem som har skadats för Hans sak*." [al-Buk̲hārī i boken om *djihād*, kapitel 77]
 

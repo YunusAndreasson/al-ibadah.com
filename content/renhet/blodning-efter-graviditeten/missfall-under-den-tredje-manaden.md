@@ -13,7 +13,7 @@ description: 'Fråga: Jag är en kvinna som för ett år sedan fick missfall i d
  jag borde ha bett. Vad bör jag göra? Jag kä...'
 ---
 
-**Fråga:** Jag är en kvinna som för ett år sedan fick missfall i den tredje månaden. Jag bad inte förrän jag hade blivit ren, men det har sagts till mig att jag borde ha bett. Vad bör jag göra? Jag känner inte till det exakt antalet dagar?
+**Fråga:** Jag är en kvinna som för ett år sedan fick missfall i den tredje månaden. Jag bad inte förrän jag hade blivit ren, men det har sagts till mig att jag borde ha bett. Vad bör jag göra? Jag känner inte till det exakta antalet dagar?
 
 **Svar:** För de lärde är det välkänt att en kvinna som får missfall efter tre månader inte ber. Anledningen är att när fostret inte går att likna vid en människa vid tidpunkten för missfallet, då är det blod som kommer ut en blödning efter graviditeten och hon bör inte be under denna tid.
 

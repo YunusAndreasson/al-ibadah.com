@@ -22,7 +22,7 @@ Han har även sagt: ”*Den som svor vid något annat än Allāh har gjort någo
 
 Det finns även andra *aḥādīt̲h* som är tillämpbara.
 
-Imam ´Abdul-Barr rapporterar att de lärde är eniga om att det inte är tillåtet att svära vid någon annan än Allāh. Muslimer bör akta sig för detta ångra sig inför Allāh om de har svurit vid någon annan än Honom. Han eller hon bör även ångra sig för andra synder som har begåtts i det förflutna, hålla sig till sanningen och förvänta sig en generös belöning från Allāh. Detta i fruktan av Hans vrede och straff.
+Imam ´Abdul-Barr rapporterar att de lärde är eniga om att det inte är tillåtet att svära vid någon annan än Allāh. Muslimer bör akta sig för detta, ångra sig inför Allāh om de har svurit vid någon annan än Honom. Han eller hon bör även ångra sig för andra synder som har begåtts i det förflutna, hålla sig till sanningen och förvänta sig en generös belöning från Allāh. Detta i fruktan av Hans vrede och straff.
 
 Det är Allāh som ger framgång.
 

@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om landstycken som ägs för att säljas?
 
-**Svar:** Allmosa är en skyldighet för landstycken som ägs för att säljas dem. I detta fall anses de vara produkter som är till försäljning. Därför innefattas de i den allmänna innebörden av bevisen i Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* om skyldigheten i allmosan, som när Allāh säger:
+**Svar:** Allmosa är en skyldighet för landstycken som ägs för att säljas. I detta fall anses de vara produkter som är till försäljning. Därför innefattas de i den allmänna innebörden av bevisen i Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* om skyldigheten i allmosan, som när Allāh säger:
 
 > ”Tag då emot något av dem som offergåva [Muḥammad]; så renar du dem [från synd] och hjälper dem att växa [i rättfärdighet].” [Koranen 9:103]
 

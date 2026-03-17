@@ -15,7 +15,7 @@ description: >-
   Bryter hon fastan, skänker mat och tar i...
 ---
 
-**Fråga:** Om en gravid eller ammande kvinna under *ramaḍān* är rädd för sin egens eller för barnets skull och hon bryter fastan, vad är hon då skyldig att göra? Bryter hon fastan, skänker mat och tar igen den eller bryter hon fastan och tar igen den men utan att ge mat eller bryter hon fastan och ger man utan att ta igen den? Vilken av dessa tre är den korrekta åsikten?
+**Fråga:** Om en gravid eller ammande kvinna under *ramaḍān* är rädd för sin egen skull eller för barnets skull och hon bryter fastan, vad är hon då skyldig att göra? Bryter hon fastan, skänker mat och tar igen den eller bryter hon fastan och tar igen den men utan att ge mat eller bryter hon fastan och ger mat utan att ta igen den? Vilken av dessa tre är den korrekta åsikten?
 
 **Svar:** Om den gravida kvinnan under *ramaḍān* fruktar för sig själv eller för sitt ofödda barn, då bryter hon fastan och hon är enbart skyldig att ta igen fastan. Hennes situation är likvärdig med situationen för den som inte är tillräckligt stark för att fasta eller som är rädd för att ta skada genom fastan. Allāh säger: "*Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarande dagar*." [^1]
 

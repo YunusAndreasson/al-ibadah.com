@@ -47,7 +47,7 @@ Dessa böcker är bättre och mer välsignade än många böcker ifrån senare g
 
 Bland de böcker som den som söker kunskap absolut måste läsa kan *s̲hayk̲h ul-islām* Ibn Taymiyyahs och hans student Ibn al-Qayyims nämnas. Det är känt att Ibn al-Qayyims böcker är lättare då Ibn Taymiyyahs stil grundas på många komplexa ord då han hade en otrolig kunskap och ett skarpt intellekt.
 
-Den kan sägas att Ibn al-Qayyim – må Allāh vara honom nådig – såg sin läromästares kunskap som ett välbyggt hus och sin egen roll som att organisera och pryda det. Men Ibn al-Qayyim var också en självständig tänkare. […] Kände han att några av hans shaykhs åsikter var felaktiga påpekade han det.
+Det kan sägas att Ibn al-Qayyim – må Allāh vara honom nådig – såg sin läromästares kunskap som ett välbyggt hus och sin egen roll som att organisera och pryda det. Men Ibn al-Qayyim var också en självständig tänkare. […] Kände han att några av hans shaykhs åsikter var felaktiga påpekade han det.
 
 Studerar du Ibn Taymiyyahs verk kommer att du finna att de flesta är korrekta.
 

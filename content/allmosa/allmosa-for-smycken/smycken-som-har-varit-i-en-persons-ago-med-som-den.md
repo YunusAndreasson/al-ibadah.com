@@ -22,7 +22,7 @@ Så vad bör hon göra för att betala allmosa för dessa fem år? Bör hon säl
 
 Om hennes make eller någon annan betalar för hennes räkning och med hennes tillstånd så går det bra. Går det inte så återstår allmosan som en skuld som hon är ansvarig för tills hon har betalat den.
 
-När det gäller de tidigare åren innan hon visste att allmosa var en skyldighet för smyckena, då krävs inget av henne eftersom hon inte visste eller var osäker. Detta beror på att några av de lärda inte anser att de är obligatoriskt att betala allmosa för smycken som bärs eller som ägs för att bäras.
+När det gäller de tidigare åren innan hon visste att allmosa var en skyldighet för smyckena, då krävs inget av henne eftersom hon inte visste eller var osäker. Detta beror på att några av de lärda inte anser att det är obligatoriskt att betala allmosa för smycken som bärs eller som ägs för att bäras.
 
 Den mest korrekta åsikten är dock att det är en skyldighet att betala allmosa för dem om de uppnår den lägsta nivån och om de har varit i någons ägo under ett år. Anledningen återfinns i bevisen i Skriften och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*.
 

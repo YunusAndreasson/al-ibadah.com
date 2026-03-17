@@ -23,7 +23,7 @@ description: >-
 
 Detsamma gäller *´umrah*[^2], vilket denna ädla vers nämner. Om den påbörjas, då måste den avslutas. Enligt den korrekta åsikten får man inte utse någon annan som utför vallfärdsriterna när man kan utföra dem själv. Om man reser innan man har kastat stenarna, då måste man offra ett djur och ge mat till de fattiga i Mecka.
 
-[^1]: Den sju långa rundar vandringen runt Kabah.
+[^1]: Den sju varv långa rundvandringen runt Kabah.
 [^2]: Den lilla vallfärden.
 
 [^3]: Koranen 2:196

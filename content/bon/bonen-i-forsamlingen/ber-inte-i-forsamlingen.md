@@ -25,9 +25,9 @@ Alla män måste be med församlingen. Bevisen för detta finns i Allāhs skrift
 
 I profetens – över honom vare Allāhs frid och välsignelser – *sunnah* återges i *Ṣaḥīḥ Muslim* från Abū Hurairah att han har sagt: Det har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att en blind man sade till honom: ”*Allāhs sändebud! Jag har ingen guide som kan vägleda mig till moskén, har jag tillåtelse att be i mitt hem?*” Allāhs sändebud – över honom vare Allāhs frid och välsignelser – frågade: ”*Hör du böneutropet?*” Han svarade ”*Ja*.” Han svarade: ”*Besvara det då*.” [^4]
 
-Bevisen för att bönen i församlingen är obligatorisk grundas på att profeten – över honom vare Allāhs frid och välsignelser – inte lät personen blinde man be hemma. Så om personen blinde man inte fick be hemma, då har den med syn än mindre rätt att göra det.
+Bevisen för att bönen i församlingen är obligatorisk grundas på att profeten – över honom vare Allāhs frid och välsignelser – inte lät den blinde mannen be hemma. Så om den blinde mannen inte fick be hemma, då har den med syn än mindre rätt att göra det.
 
-Detta styrks även av att profeten – över honom vare Allāhs frid och välsignelser – avsåg att elda upp hemmen tillhörande dem som inte bad i moskén. Det hade inte varit tillåtet att hota dem som inte gör något som enbart är rebefallt och som uppfylls genom att ett antal i samhället gör det.
+Detta styrks även av att profeten – över honom vare Allāhs frid och välsignelser – avsåg att elda upp hemmen tillhörande dem som inte bad i moskén. Det hade inte varit tillåtet att hota dem som inte gör något som enbart är rekommenderat och som uppfylls genom att ett antal i samhället gör det.
 
 Må frid och välsignelser vara över vår profet Muḥammad, hans familj och följeslagare.
 

@@ -22,6 +22,6 @@ Det finns en historia om en truppavdelning som profeten – över honom vare All
 
 Profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – satte då som villkor att de skulle få en betalning för det, och de fick en flock får. En av dem reciterade sura *al-Fātiḥah* över den bitne och personen reste sig som om personen hade lösgjorts från bojor. Därför hade recitationen en inverkan på tillfrisknandet av den sjuke.
 
-Åkallan har en inverkan men den ändrar inte det som har blivit bestämd utan i stället bestäms det på grund av den. Allting från Allāh är enligt det förutbestämda. Likaså har alla orsaker, genom Allāhs tillstånd, en inverkan på verkan. Orsakerna är nedskrivna och likaså är deras verkningar.
+Åkallan har en inverkan men den ändrar inte det som har blivit bestämt utan i stället bestäms det på grund av den. Allting från Allāh är enligt det förutbestämda. Likaså har alla orsaker, genom Allāhs tillstånd, en inverkan på verkan. Orsakerna är nedskrivna och likaså är deras verkningar.
 
 

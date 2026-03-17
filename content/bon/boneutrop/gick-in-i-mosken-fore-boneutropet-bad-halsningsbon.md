@@ -20,7 +20,7 @@ description: >-
 
 **Svar:** Om böneutropet var för gryningsbönen eller middagsbönen bör personen när böneutroparen har ropat ut böneutropet be två *sunnah* för gryningsbönen och fyra *sunnah* förmiddagsbönen[^2]. Var böneutropet för någon av de andra bönerna är det föreskrivet för personen att även då be frivilliga böner. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”Mellan de båda böneutropen[^3] finns det en bön.” [^4]
 
-[^1]: Tahiyyatul-Msjid.
+[^1]: Tahiyyatul-Masjid.
 [^2]: Dhuhr
 
 [^3]: *ad̲hān* och *iqāmah*

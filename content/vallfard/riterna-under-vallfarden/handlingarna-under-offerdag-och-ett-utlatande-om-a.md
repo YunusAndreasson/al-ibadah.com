@@ -11,12 +11,12 @@ original_id: 1347
 description: >-
   Fråga: Vad är bäst för en pilgrim under vallfärden i fråga om vad personen ska
   göra under offerdagen [ ‘eid den tionde i thul-hijjah]? Är det tillåtet att
-  göra visa saker först för att skjuta upp ...
+  göra vissa saker först för att skjuta upp ...
 ---
 
-**Fråga:** Vad är bäst för en pilgrim under vallfärden i fråga om vad personen ska göra under offerdagen[^2]? Är det tillåtet att göra visa saker först för att skjuta upp andra?
+**Fråga:** Vad är bäst för en pilgrim under vallfärden i fråga om vad personen ska göra under offerdagen[^2]? Är det tillåtet att göra vissa saker först för att skjuta upp andra?
 
-**Svar:** profetens – över honom vare Allāhs frid och välsignelser – *sunnah* under offerdagen är att kasta stenarna på pelarna genom att kasta sten på al-´Aqabah, vilket är den i riktning mot Mecka. Sju stenar bör kastas på den. Varje sten kastas var för sig och *takbīr* sägs för varje sten. Man bör sedan offra sitt djur, om han har ett djur med sig. Sedan rakar man sitt huvud eller får det klippt [rakning är dock bättre].
+**Svar:** Profetens – över honom vare Allāhs frid och välsignelser – *sunnah* under offerdagen är att kasta stenarna på pelarna genom att kasta sten på al-´Aqabah, vilket är den i riktning mot Mecka. Sju stenar bör kastas på den. Varje sten kastas var för sig och *takbīr* sägs för varje sten. Man bör sedan offra sitt djur, om han har ett djur med sig. Sedan rakar man sitt huvud eller får det klippt [rakning är dock bättre].
 
 Sedan bör man utföra *ṭawāf* och *sa´ī*, om det krävs att man gör *sa´ī*. Detta är bättre, då profeten – över honom vare Allāhs frid och välsignelser – gjorde det [i den ordningen]. Han kastade stenarna, slaktade djuret, rakade sitt huvud och begav sig till Mecka och utförde *ṭawāf*. Denna ordning är bättre: kasta stenarna, slakta djuret, raka huvudet eller klippa håret och sedan utföra *ṭawāf* och *sa´ī* [om det krävs att man utför *sa´ī*].
 

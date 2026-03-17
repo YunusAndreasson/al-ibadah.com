@@ -15,7 +15,7 @@ description: >-
   andra .” [Koranen 2:253] med: ” Vi gör ingen åts...
 ---
 
-**Fråga:** Hur han vi jämka samman Allāhs den Upphöjdes ord: ”*Några av dessa sändebud [om vilka Vi har berättat för dig] har Vi gett företräde framför andra*.” [^1] med: ”*Vi gör ingen åtskillnad mellan dem*.” [^2]
+**Fråga:** Hur kan vi jämka samman Allāhs den Upphöjdes ord: ”*Några av dessa sändebud [om vilka Vi har berättat för dig] har Vi gett företräde framför andra*.” [^1] med: ”*Vi gör ingen åtskillnad mellan dem*.” [^2]
 
 **Svar:** Allāhs Ord: ”*Några av dessa sändebud [om vilka Vi har berättat för dig] har Vi gett företräde framför andra*.” [^3] är som Hans ord: ”*Och Vi har givit några profeter företräde framför andra*.” [^4]
 
@@ -37,7 +37,7 @@ Allāhs säger om de troende:
 
 Betydelsen är: Vi gör ingen åtskillnad i tro på någon av dem; i stället tror vi att alla är sanna sändebud från Allāh och att de inte ljuger. De talar ju endast sanning och de är betrodda. Detta är innebörden av Allāhs ord: ”*Vi gör ingen åtskillnad mellan dem*.” [^5]
 
-Detta innebär att vi enligt våra tro tror att de är sanna sändebud från Allāh. Men tro inbegriper lydnad av dem som kom efter sändebudens, speciellt när det gäller Muḥammad, för det är han som vi måste lyda då hans lag skriver över alla lagar.
+Detta innebär att vi enligt vår tro tror att de är sanna sändebud från Allāh. Men tro inbegriper lydnad av dem som kom efter sändebuden, speciellt när det gäller Muḥammad, för det är han som vi måste lyda då hans lag skriver över alla lagar.
 
 På detta sätt förstår vi att vi tror på alla. Vi tror att de är sanna sändebud från Allāh, men då Allāhs sändebud – över honom vare Allāhs frid och välsignelser – sänts, då har alla tidigare religioner blivit ogiltiga genom hans lag och det har blivit en skyldighet för hela människosläktet att stödja enbart Muḥammad. Allāh har genom Sin visdom gjort alla tidigare religioner ogiltiga, utom Hans sändebuds religion. Därför säger Allāh:
 

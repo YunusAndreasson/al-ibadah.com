@@ -18,7 +18,7 @@ description: 'Fråga: Vilket är utlåtandet om att gå med skorna på inne i mo
 
 Sådant som den islamiska lagen uppmuntrar till men som den fruktar kommer att medföra något skadligt är det en skyldighet att vara medveten om och överge. En vedertagen regel bland de lärde är: Om nyttiga och skadliga ting står i konflikt och de är likvärdiga eller om det skadliga gör mer skada än den nyttiga gör nytta, då är det viktigare att hindra det skadliga än att låta det nyttiga vara nyttigt.
 
-Profeten – över honom vare Allāhs frid och välsignelser – ville jämna Ka’bah med marken och återuppbygga den på Abrahams fundament men då folket nyligen hade övergett otron lämnade han denna rebefallde handling på grund av rädslan för att det skulle leda till något skadligt. Han sade till 'A’ishah:
+Profeten – över honom vare Allāhs frid och välsignelser – ville jämna Ka’bah med marken och återuppbygga den på Abrahams fundament men då folket nyligen hade övergett otron lämnade han denna rekommenderade handling på grund av rädslan för att det skulle leda till något skadligt. Han sade till 'A’ishah:
 
 > ”Hade det inte varit för att ert folk nyligen hade övergett otro hade jag jämnat Ka’bah med marken och återuppbyggt den på Abrahams fundament och gjort två dörrar till den: En dörr för folket att gå in genom och en för dem att gå ut genom.” [*al-Buk̲hārī*]
 

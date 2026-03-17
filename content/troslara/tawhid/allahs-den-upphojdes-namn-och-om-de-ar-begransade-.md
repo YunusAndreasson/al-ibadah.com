@@ -42,7 +42,7 @@ Innebörden av att ”räkna upp dem” är inte att de ska skrivas ned på ett 
 2. Förstår deras innebörd.
 3. Dyrkar Allāh genom vad de nödvändiggör och här finns det två aspekter:
 
-a) att man åkallar genom dem, enligt Allāhs den Upphöjdes ord: ”*Anropa Honom alltså med dessa [namn]*.” [^2] Här använder man då namnen som ett sätt [för att få ens] åkallan [besvarad]. Man väljer då ett namn som passar tillfället. När man ber om förlåtelse kan man säga: ”Ya Ghafūr [Du som ständigt förlåter]! Förlåt mig”. Det är inte passande att säga: ”Ya Shadīd al-'Iqab [Du som straffar med stränghet]! Förlåt mig.” Saken är den att detta liknar ett skämt. I stället bör man säg: ”Ge mig skydd från Ditt straff.”
+a) att man åkallar genom dem, enligt Allāhs den Upphöjdes ord: ”*Anropa Honom alltså med dessa [namn]*.” [^2] Här använder man då namnen som ett sätt [för att få ens] åkallan [besvarad]. Man väljer då ett namn som passar tillfället. När man ber om förlåtelse kan man säga: ”Ya Ghafūr [Du som ständigt förlåter]! Förlåt mig”. Det är inte passande att säga: ”Ya Shadīd al-'Iqab [Du som straffar med stränghet]! Förlåt mig.” Saken är den att detta liknar ett skämt. I stället bör man säga: “Ge mig skydd från Ditt straff.”
 
 b) Att i ens dyrkan tillämpa vad dessa namn fordrar. Genom namnet ar-Rahīm [den Nåderike] nödvändiggörs nåd och således bör man handla rättfärdigt och på så vis uppnå Allāhs nåd.
 

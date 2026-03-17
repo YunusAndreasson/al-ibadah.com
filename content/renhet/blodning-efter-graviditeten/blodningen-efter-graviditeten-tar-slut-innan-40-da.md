@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Om en kvinna med blödningar efter graviditeten blir ren innan 40 dagar har gått, får hennes man då ha intim samvaro med henne? Vad gäller om blodet kommer tillbaka efter de 40 dagarna?
 
-**Svar:** Det är inte tillåtet att en man som är gift med en kvinna som blöder efter graviditeten har intim samvaro med henne. Blir hon ren under dessa 40 dagar är det hennes skyldighet att be. Bönen kommer då att vara giltig. Under dessa omständigheter får Hennes man ha intim samvaro med henne. Allāh den Upphöjde säger ju:
+**Svar:** Det är inte tillåtet att en man som är gift med en kvinna som blöder efter graviditeten har intim samvaro med henne. Blir hon ren under dessa 40 dagar är det hennes skyldighet att be. Bönen kommer då att vara giltig. Under dessa omständigheter får hennes man ha intim samvaro med henne. Allāh den Upphöjde säger ju:
 
 > "Och de frågar dig om [kvinnans] månadsblödning. Säg: 'Detta är ett ömtåligt och smärtsamt tillstånd. Håll er därför borta från kvinnorna under deras period och kom inte nära dem förrän de är rena; men när de har renat sig ta dem då till er, så som Gud har befallt er.' Gud älskar dem som vänder tillbaka till Honom i ånger [om de har syndat] och Han älskar dem som vill rena sig." [Koranen 2:222]
 

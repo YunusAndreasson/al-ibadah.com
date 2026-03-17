@@ -20,5 +20,5 @@ description: >-
 
 > ”Jag begav mig ut med profeten för att vallfärda och folket kom till honom. Då kom en man och sade: 'Allāhs sändebud, jag utförde *sa´ī* före jag gjorde *ṭawāf*[^1]', eller sade han: 'Jag gjorde något först och något [annat] senare.' Profeten – över honom vare Allāhs frid och välsignelser – sade då: 'Inga problem, utom för en man som skymfar en muslims heder och uppträder felaktigt. Detta är den som har problem och personen är tillintetgjord.'" [*Abū Dāwūd* 2015]
 
-[^1]: Den sju långa rundar vandringen runt Kabah.
+[^1]: Den sju varv långa rundvandringen runt Kabah.
 

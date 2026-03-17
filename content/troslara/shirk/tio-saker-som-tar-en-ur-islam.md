@@ -25,7 +25,7 @@ Att åkalla de döda genom att be dem om hjälp eller ge dem gåvor är *s̲hirk
 
 Tro att system och lagar som skapats av människor är bättre än den islamiska lagen. Exempel på detta är: tro att det islamiska systemet inte är applicerbart i vår tid, tro att islam är orsaken till den underutveckling som finns bland muslimer i dag, tro på att islam endast är en relation mellan Allāh och muslimer och att det inte ska interferera i andra aspekter av livet.
 
-Säga att det i dag inte är lämpligt att använda de straff som har Allāh angivit, exempelvis stympning efter stöld och stening efter äktenskapsbrott.
+Säga att det i dag inte är lämpligt att använda de straff som Allāh har angivit, exempelvis stympning efter stöld och stening efter äktenskapsbrott.
 
 […]Tro att det är tillåtet att förklara det som Allāh gjort förbjudet för att vara tillåtet såsom äktenskapsbrott, alkohol och ocker. Enligt konsensus bland de lärde är en person som anser detta vara tillåtet en icke-troende.
 5. Hata någon del av det Allāhs sändebud förklarat som lagligt, även om man handlar enligt det. Allāh, Den Högste, säger: ”Därför att de känner motvilja mot det som Gud har uppenbarat – och så [låter Han] alla deras företag gå om intet.” [^2]

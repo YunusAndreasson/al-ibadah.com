@@ -14,9 +14,9 @@ description: >-
   nu. I vetskap om att jag missade den på grund a...
 ---
 
-**Fråga:** För fyra år sedan var vi på en nöjesresa och jag missade en bön. Antingen var detmiddagsbönen[^1] eller eftermiddagsbönen – jag kommer inte ihåg nu. I vetskap om att jag missade den på grund av slarv eller lathet från min sida och jag nu ångrar synden som jag begick – och ber Allāh om förlåtelse för varje synd och fel – vad bör jag då göra för att gottgöra detta?
+**Fråga:** För fyra år sedan var vi på en nöjesresa och jag missade en bön. Antingen var det middagsbönen[^1] eller eftermiddagsbönen – jag kommer inte ihåg nu. I vetskap om att jag missade den på grund av slarv eller lathet från min sida och jag nu ångrar synden som jag begick – och ber Allāh om förlåtelse för varje synd och fel – vad bör jag då göra för att gottgöra detta?
 
-**Svar:** Du måste vända dig till Allāh i sann ånger. Du behöver inte ta igen den då du avsiktligen övergav den obligatoriska bönen. Enligt profetens – över honom vare Allāhs frid och välsignelser – ord är detta en otros-handling: ”*Avtalet som skiljer oss från dem är bönen och den som lämnar den har inte trott*.” [^2] Och han har även sagt: ”*Det som står mellan en man och otro samt mångguderi är utelämnandet bönen*.” [^3] Det finns ingen gottgörelse utom uppriktigt ånger.
+**Svar:** Du måste vända dig till Allāh i sann ånger. Du behöver inte ta igen den då du avsiktligen övergav den obligatoriska bönen. Enligt profetens – över honom vare Allāhs frid och välsignelser – ord är detta en otros-handling: ”*Avtalet som skiljer oss från dem är bönen och den som lämnar den har inte trott*.” [^2] Och han har även sagt: ”*Det som står mellan en man och otro samt mångguderi är utelämnandet av bönen*.” [^3] Det finns ingen gottgörelse utom uppriktigt ånger.
 
 [^1]: Dhuhr
 

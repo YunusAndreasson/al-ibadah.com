@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Vem får passera *mīqāt* utan *iḥrām* och vem får inte? Vad måste den som passerar *mīqāt* utan *iḥrām* göra?
 
-**Svar:** I *Ṣaḥīḥ* återges från Ibn ‘Abbās att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – som *mīqāt* utsåg Thul-Hulayfah för invånarna i Medina, al-Juhfah för invånarna i ash-Sham, Qarnul-Manazil för invånarna Najd i och Yalamlam för invånarna i Jemen. Därefter sade han: ”De *är för dem [som bor där] och dem som passerar förbi utöver de som bor där som avser att utföra vallfärden och ´umrah*[^1].” [^2]
+**Svar:** I *Ṣaḥīḥ* återges från Ibn ‘Abbās att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – som *mīqāt* utsåg Thul-Hulayfah för invånarna i Medina, al-Juhfah för invånarna i ash-Sham, Qarnul-Manazil för invånarna i Najd och Yalamlam för invånarna i Jemen. Därefter sade han: ”De *är för dem [som bor där] och dem som passerar förbi utöver de som bor där som avser att utföra vallfärden och ´umrah*[^1].” [^2]
 
 Denna *ḥadīt̲h* är ett bevis för att den som passerar denna *mawāqīt*, med avsikt att resa till Mecka för att utföra vallfärden eller *´umrah*, måste träda in i *iḥrām*. Om personen inte har någon önskan eller avsikt, utan endast planerar att bege sig till Mecka för att besöka en släkting eller göra något annat, då är det tillåtet att passera *mīqāt* [om personen ofta passerar därigenom]. Detta kan vara en trädröjare, brevbärare, chaufför eller någon liknande.
 

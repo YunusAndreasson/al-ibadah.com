@@ -41,7 +41,7 @@ Umm 'Alai säger i en lång och autentisk *ḥadīt̲h*:
 
 > ”Jag vet inte – och jag är Allāhs sändebud – vad som kommer att hända med honom.” [*al-Buk̲hārī* 3929]
 
-I många *aḥādīt̲h* rapporterats att Allāh har informerat profeten – över honom vare Allāhs frid och välsignelser – om vilket som skulle bli slutet för somliga av hans följeslagare, och han gav dem det glada budskapet om Paradiset. I en *ḥadīt̲h* som al-Buk̲hārī och *Muslim* har återgivit från ´Umar bin al-Khattab berättas att Gabriel frågade profeten – över honom vare Allāhs frid och välsignelser – om Timmens tidpunkt, och han svarade:
+I många *aḥādīt̲h* har rapporterats att Allāh har informerat profeten – över honom vare Allāhs frid och välsignelser – om vilket som skulle bli slutet för somliga av hans följeslagare, och han gav dem det glada budskapet om Paradiset. I en *ḥadīt̲h* som al-Buk̲hārī och *Muslim* har återgivit från ´Umar bin al-Khattab berättas att Gabriel frågade profeten – över honom vare Allāhs frid och välsignelser – om Timmens tidpunkt, och han svarade:
 
 > ”Den som tillfrågas vet inte mer än den som frågar.” [*al-Buk̲hārī* 50 och *Muslim*, kap. 8]
 

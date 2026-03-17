@@ -27,7 +27,7 @@ Har de båda målen lika stor betydelse för personen och varken avsikten att dy
 
 Skillnaden mellan denna kategori och den som har nämnts tidigare är att syftet i den sista kategorin måste vara annat än dyrkan och då måste personens avsikt också vara annan än dyrkan. Det är då som om han vill att detta ska vara en handling för denna världen.
 
-Om det säga: Vilket är det mått som vi kan använda för att avgöra vilken avsikt som är den största, den för dyrkan eller den för något annat. Då säger vi: Måttet är, att om man inte bryr sig om något annat än dyrkan och det inte spelar någon roll om man uppnår dem eller inte, då bevisar det att avsikten att dyrka är större, och vice versa.
+Om det sägs: Vilket är det mått som vi kan använda för att avgöra vilken avsikt som är den största, den för dyrkan eller den för något annat. Då säger vi: Måttet är, att om man inte bryr sig om något annat än dyrkan och det inte spelar någon roll om man uppnår dem eller inte, då bevisar det att avsikten att dyrka är större, och vice versa.
 
 I vilket fall som helst är intentionen, som är vad hjärtat avser, en mycket viktig fråga. Det kan ju höja tjänaren till de rättfärdigas nivå och den kan ta ned personen till den allra lägsta.
 

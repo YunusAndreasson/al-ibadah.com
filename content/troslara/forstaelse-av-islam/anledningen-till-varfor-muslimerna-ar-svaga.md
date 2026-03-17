@@ -23,9 +23,9 @@ När det muslimska samfundet höll sig till religionen under islams tidiga år h
 
 Vi vet med säkerhet och vi ber Allāh den Allsmäktige bevittna att om vi hade återvänt till vad våra föregångare trodde på och utövade, då hade vi haft makt, prestige och övertag över hela människosläktet.
 
-Detta är anledningen till att när Abū Sufyan talade till Herkules [romarnas konung], när Rom ansågs vara den mäktigaste nationen, om profetens – över honom vare Allāhs frid och välsignelser – tro och handlande, så sade Herkules: ”*Om du talar sanning kommer han att ta makten över det som finns under min fot*.” När Abū Sufyan och hans följeslagare – må Allāh vara nöjd med dem -lämnade Herklues sade han: ”*Frågan om Ibn Abi Kabshah [Allāhs sändebud] har blivit mycket viktig. Roms kung fruktar honom*.” [^1]
+Detta är anledningen till att när Abū Sufyan talade till Herkules [romarnas konung], när Rom ansågs vara den mäktigaste nationen, om profetens – över honom vare Allāhs frid och välsignelser – tro och handlande, så sade Herkules: ”*Om du talar sanning kommer han att ta makten över det som finns under min fot*.” När Abū Sufyan och hans följeslagare – må Allāh vara nöjd med dem – lämnade Herkules sade han: ”*Frågan om Ibn Abi Kabshah [Allāhs sändebud] har blivit mycket viktig. Roms kung fruktar honom*.” [^1]
 
-I fråga om de framsteg som har ägt rum i de icke-troende länderna i Väst, till exempel när det gäller tillverkningindustrin, finner vi att vår religion inte förbjuder det. Men tyvärr har vi förlorat båda delar: Vi har förlorat vår religion och vi har förlorat den materiella världen. Men saken är den att den islamiska religionen inte motsäger sig dessa framsteg. Allāh den Upphöjde säger:
+I fråga om de framsteg som har ägt rum i de icke-troende länderna i Väst, till exempel när det gäller tillverkningsindustrin, finner vi att vår religion inte förbjuder det. Men tyvärr har vi förlorat båda delar: Vi har förlorat vår religion och vi har förlorat den materiella världen. Men saken är den att den islamiska religionen inte motsäger sig dessa framsteg. Allāh den Upphöjde säger:
 
 > ”Och vidtag alla rustningar ni förmår och håll stridshästarna i beredskap så att ni injagar skräck i Guds och era fiender.” [Koranen 8:60]
 
@@ -45,7 +45,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Uma
 
 Dessutom drabbas de av torka, katastrofer, jordbävningar och förödande stormar. Detta är välkänt och det rapporteras ständigt om detta i radio, tidningar och annan media. Den som har ställt denna fråga är dock blind. Allāh har tagit personens syn och därför vet personen inte vad som verkligen pågår.
 
-Mitt rått till honom är att återvända till Allāh den Allsmäktige i ånger över dessa idéer innan döden kommer och tar honom tillbaka till hans Herre. Han bör känna till att det varken finns någon makt, prestige eller seger för oss utom om vi återvänder till islam på ett korrekt sätt som bekräftas genom ord och handling.
+Mitt råd till honom är att återvända till Allāh den Allsmäktige i ånger över dessa idéer innan döden kommer och tar honom tillbaka till hans Herre. Han bör känna till att det varken finns någon makt, prestige eller seger för oss utom om vi återvänder till islam på ett korrekt sätt som bekräftas genom ord och handling.
 
 Han bör känna till att vad de icke-troende följer är falskt och att deras eviga boende kommer att vara i Elden. Allāh och Hans sändebud har informerat om detta. Levebrödet som Allāh har välsignat dem med är endast en prövning och när de dör kommer de att avskiljas från dessa välsignelser och gå till Helveteselden. Här kommer deras nödställdhet, smärta och sorg bli än värre.
 
@@ -56,5 +56,5 @@ Jag ber Allāh, för den som denna fråga kom ifrån, att Han vägleder och ger 
 Han är den Givmilde, den Vänlige.
 
 
-[^1]: *al-Buk̲hārī* i kapitlet som skapelsen
+[^1]: *al-Buk̲hārī* i kapitlet om skapelsen
 [^2]: *al-Buk̲hārī* 2428 och *Muslim* 1479

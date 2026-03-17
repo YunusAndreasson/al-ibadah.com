@@ -7,12 +7,12 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 1139
-description: 'Fråga: Anses det blod som kommer från en gravid kvinna var menstruationsblod? Svar: En
+description: 'Fråga: Anses det blod som kommer från en gravid kvinna vara menstruationsblod? Svar: En
  gravid kvinna får inte sin månadsblödning, vilket imam Ahmad har berättat. En kvinna
  vet att hon är gravi...'
 ---
 
-**Fråga:** Anses det blod som kommer från en gravid kvinna var menstruationsblod?
+**Fråga:** Anses det blod som kommer från en gravid kvinna vara menstruationsblod?
 
 **Svar:** En gravid kvinna får inte sin månadsblödning, vilket imam *Aḥmad* har berättat. En kvinna vet att hon är gravid enbart eftersom den upphör. De lärde har sagt att månadsblödningen är Allāhs den Välsignades, den Upphöjdes skapelse för att nära fostret i moderns sköte.
 
@@ -21,5 +21,5 @@ När barnet växer upphör månadsblödningen men för vissa kvinnor kan den for
 Kortfattat är blodet som kommer ur kvinnan av två olika sorter:
 
 1. En typ som har utlåtandet för månadsblödningen. Detta är det blod som fortsätter att komma precis som innan graviditeten. Detta är ju ett bevis för att graviditeten inte har haft någon inverkan på den. Därför är det en månadsblödning.
-2. Blodet som plötsligt drabbar den gravida kvinnan, antingen på grund av en olycka eller därför att hon bär eller tappar något. Detta är inte en månadsblödning utan en helt vanligt sådan [blödning]. Således hindrar den inte henne från att be eller fasta och utlåtandet om henne är att hon är ren.
+2. Blodet som plötsligt drabbar den gravida kvinnan, antingen på grund av en olycka eller därför att hon bär eller tappar något. Detta är inte en månadsblödning utan en helt vanlig sådan [blödning]. Således hindrar den inte henne från att be eller fasta och utlåtandet om henne är att hon är ren.
 

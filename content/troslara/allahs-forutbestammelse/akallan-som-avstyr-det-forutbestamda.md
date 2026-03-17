@@ -21,7 +21,7 @@ description: >-
 
 Han har även sagt: ”*När mina tjänare frågar dig om Mig [svara då att] Jag är nära; Jag besvarar den bedjandes bön, när Han ber till Mig*.” [2:186]
 
-När en av Hans tjänare gör vad som är föreskrivet för att uppnå sitt mål, i detta fall att åkalla, gör tjänare något som är förutbestämt. Därför, om Allāh vill, kan något förutbestämt (att han åkallar) driva tillbaka något annat som är förutbestämt (vad han ber om inte ska inträffa).
+När en av Hans tjänare gör vad som är föreskrivet för att uppnå sitt mål, i detta fall att åkalla, gör tjänaren något som är förutbestämt. Därför, om Allāh vill, kan något förutbestämt (att han åkallar) driva tillbaka något annat som är förutbestämt (vad han ber om inte ska inträffa).
 
 Allāhs sändebud har sagt: ”En tjänare är avskuren från levebröd för en synd han begått. Inget avvärjer det förutbestämda utom åkallan och ingenting ökar livslängden för någon utom vänliga och välgörande handlingar.” [^1]
 

@@ -26,7 +26,7 @@ Kommer tiden för månadsblödningen efter de 40 dagarna, då gäller reglerna f
 
 Men om det inte är klart att fostret som kom ut från kvinnan är format som en människa, utan det är i form av en köttklump utan form eller om det enbart är blod, då är utlåtandet som för kvinnan med blödningar från vaginan och inte som för blödningar efter graviditeten eller månadsblödningen.
 
-Hon måste be och fasta under *ramaḍān* och hennes man får inte ha intim samvaro med henne. Hon måste dock tvaga sig inför varje bön och skydda sig från blod med bommull eller något liknande [precis som en kvinna med ihållande blödning från vaginan], tills hon blir ren.
+Hon måste be och fasta under *ramaḍān* och hennes man får inte ha intim samvaro med henne. Hon måste dock tvaga sig inför varje bön och skydda sig från blod med bomull eller något liknande [precis som en kvinna med ihållande blödning från vaginan], tills hon blir ren.
 
 Hon får slå ihop middagsbönen och eftermiddagsbönen samt kvällsbönen och nattbönen. Likaså får hon göra *g̲husl* inför bönerna som bes tillsammans och för gryningsbönen. Detta grundas på en autentisk *ḥadīt̲h* från Hamnah bint Jahsh om detta. Enligt de lärde är anledningen att utlåtandet för henne är desamma som för en kvinna med ihållande blödning från vaginan.
 

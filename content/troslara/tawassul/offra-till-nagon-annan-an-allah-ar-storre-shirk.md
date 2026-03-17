@@ -39,7 +39,7 @@ Då offer är en dyrkan så måste den uppriktigt tillägnas Allāh. Imam *Musli
 
 När det gäller dem som säger: ”*Jag besvärjer Allāh vid Hans älskade troendes rätt, vid Hans älskade troendes heder, vid profetens – över honom vare Allāhs frid och välsignelser – rätt eller vid hans heder*.” Sådana besvärjelser är inte *s̲hirk*, men enligt de lärde är det en innovation.
 
-De anser också att detta är medel för, därför att en åkallan är en dyrkan och sättet det bör göras på är inte något som det går att ja olika åsikter om. Det finns inga bevis från profeten – över honom vare Allāhs frid och välsignelser – för att han har tillåtit besvärjelser vid någon människas rätt eller heder.
+De anser också att detta är medel för, därför att en åkallan är en dyrkan och sättet det bör göras på är inte något som det går att ha olika åsikter om. Det finns inga bevis från profeten – över honom vare Allāhs frid och välsignelser – för att han har tillåtit besvärjelser vid någon människas rätt eller heder.
 
 Därmed får muslimer inte uppfinna en typ av *tawassul* som Allāh den Upphöjde inte har tillåtit. Allāh den Upphöjde säger:
 
