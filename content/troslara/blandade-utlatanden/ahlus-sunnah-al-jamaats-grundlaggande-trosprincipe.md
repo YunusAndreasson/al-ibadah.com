@@ -25,7 +25,7 @@ description: >-
 
 Även om denna sura uppenbarades om fördelning av krigsbyte är den än mer passande i frågor om den islamiska lagen. Under fredagar brukade profeten – över honom vare Allāhs frid och välsignelser – tala till folket och säga:
 
-> ”[…] Det bästa talet är Allāhs skrift och den bästa vägledningen är Muḥammads vägledning. Och det värsta [i religiösa] frågor är vad som nyligen har införts för sannerligen är varje nyinförd fråga är en innovation och varje innovation är en villfarelse och varje villfarelse är i Elden.” [*Muslim* 867]
+> ”[…] Det bästa talet är Allāhs skrift och den bästa vägledningen är Muḥammads vägledning. Och det värsta [i religiösa] frågor är vad som nyligen har införts för sannerligen är varje nyinförd fråga en innovation och varje innovation är en villfarelse och varje villfarelse är i Elden.” [*Muslim* 867]
 
 Profeten – över honom vare Allāhs frid och välsignelser – har även sagt:
 

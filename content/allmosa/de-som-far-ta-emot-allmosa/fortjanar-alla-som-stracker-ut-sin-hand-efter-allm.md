@@ -28,7 +28,7 @@ Men om en man sträcker ut sin hand till dig och du tror att det är högst sann
 
 Beviset för detta är historien om mannen som gav pengar i välgörenhet. Först gav han välgörenhet till en prostituerad och folket började prata, de sade: "Har du gett pengarna till en prostituerad ikväll?" Han svarade: "All lovprisan tillhör Allāh." Under den andra kvällen gav han också i välgörenhet och den hamnade i en tjuvs händer och folket började prata, de sade: "Har du gett pengar till en tjuv?" Under den tredje kvällen gav han i välgörenhet till en rik man och folket började prata, de sade: "Har du gett pengar till en rik man i kväll?" Han svarade: "All lovprisan och tacksamhet tillhör Allāh för den prostituerade, tjuven och den rike mannen."
 
-Sedan sades det till honom [det vara en ängel som talade]: "Din välgörenhet har accepterats. Den prostituerade kan måhända nöja sig med det som du gav till henne och det kan hindra henne från otillåten intim samvaro; tjuven kan måhända nöja sig med det som du gav till honom och avstå från att stjäla; den rike mannen kan måhända få sig en tankeställare och ge till välgörenhet." [^4]
+Sedan sades det till honom [det var en ängel som talade]: "Din välgörenhet har accepterats. Den prostituerade kan måhända nöja sig med det som du gav till henne och det kan hindra henne från otillåten intim samvaro; tjuven kan måhända nöja sig med det som du gav till honom och avstå från att stjäla; den rike mannen kan måhända få sig en tankeställare och ge till välgörenhet." [^4]
 
 Min bror, se till den ärliga intentionen, vilken är dess inverkan?
 

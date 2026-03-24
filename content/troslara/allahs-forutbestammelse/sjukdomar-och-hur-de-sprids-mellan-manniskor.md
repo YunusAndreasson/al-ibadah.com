@@ -35,7 +35,7 @@ Den starkaste åsikten är att det avser månaden *ṣafar*. Araberna brukade ju
 
 Somliga antecknar datumet när de har gjort en viss sak den 25:e *ṣafar*. De säger: Fullbordat den 25:e *ṣafar*, den goda månaden. Detta anses som att bota innovation med innovation och okunskap med okunskap. Detta är ju varken en god eller ond månad.
 
-Därför ogillade vissa *salaf* – må Allāh vara nöjda med dem – de som när de hörde en uggla hoa sade: ”Något bra, om Allāh vill.” Det är inte så att den bär med sig gott eller ont. I stället hoar den precis som andra fåglar gör.
+Därför ogillade vissa *salaf* – må Allāh vara nöjd med dem – de som när de hörde en uggla hoa sade: ”Något bra, om Allāh vill.” Det är inte så att den bär med sig gott eller ont. I stället hoar den precis som andra fåglar gör.
 
 Dessa fyra företeelser som sändebudet – över honom vare Allāhs frid och välsignelser – har motsatt sig att man måste sätta sin tilltro till Allāh, att ha en uppriktig avsikt och att en muslim inte bör vara svag när personen konfronteras med dessa händelser.
 

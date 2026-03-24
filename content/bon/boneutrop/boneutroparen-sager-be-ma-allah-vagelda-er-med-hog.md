@@ -23,7 +23,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*H
 
 Han har även sagt: ”*Den som påbörjar något i denna vår fråga [religionen] som inte kommer från den, kommer att få det avvisat*.” [^3]
 
-En av de rättfärdiga *salaf* – må Allāh vara nöjda med dem – har berättat att han har sagt: ”*Följ mig och för inte in [saker i religionen]. Detta kommer att vara tillräckligt för er*.” Därmed måste en muslim i frågor om dyrkan endast hålla sig till autentiska föreskrifter och inte lägga till något genom att påstå att det är en god handling.
+En av de rättfärdiga *salaf* – må Allāh vara nöjd med dem – har berättat att han har sagt: ”*Följ mig och för inte in [saker i religionen]. Detta kommer att vara tillräckligt för er*.” Därmed måste en muslim i frågor om dyrkan endast hålla sig till autentiska föreskrifter och inte lägga till något genom att påstå att det är en god handling.
 
 Hade det funnits något gott i det, då hade profeten – över honom vare Allāhs frid och välsignelser – informerat oss om det och han hade gjort det själv. Likaså hade hans följeslagare gjort det under och efter hans livstid.
 

@@ -22,7 +22,7 @@ De är oeniga om det enbart är en *sunnah*, en del av bönen överhuvudtaget el
 
 ash-Shafi'i och ett antal lärde inom *ḥadīt̲h* har sagt att det är *sunnah*. Det är en av de båda *ḥadīt̲herna*[^1] från imam Aḥmad, grundat på vad al-Buk̲hārī och de som har sammanställt *Sunan* har återberättat från Mālik bin al-Huwairith, att han såg profeten – över honom vare Allāhs frid och välsignelser – be och när han bad *witr*-bönen, då reste han sig inte förrän han hade funnit ro i den sittande positionen. [^2]
 
-Majoriteten av de lärde, inklusive Abū Hanifah och Mālik, är dock inte av denna åsikt. Detta är även fallet i andra rapporter från *Aḥmad*. Inga andra *aḥādīt̲h* nämner ju denna ”sittpaus”. Möjligen är det så att det som nämns i *ḥadīt̲h* från Mālik bin al-Huwairith är denna ”sittpaus” något från slutet av profetens – över honom vare Allāhs frid och välsignelser – liv då hans kropp blivit tung eller av någon annan orsak.
+Majoriteten av de lärde, inklusive Abū Hanifah och Mālik, är dock inte av denna åsikt. Detta är även fallet i andra rapporter från *Aḥmad*. Inga andra *aḥādīt̲h* nämner ju denna ”sittpaus”. Möjligen är det så att det som nämns i *ḥadīt̲h* från Mālik bin al-Huwairith är denna ”sittpaus” något från slutet av profetens – över honom vare Allāhs frid och välsignelser – liv då hans kropp blivit tung eller av någon annan orsak.
 
 En tredje grupp får ihop dessa *aḥādīt̲h* genom att säga att man gör denna ”sittpaus” om det finns ett behov och att det är tillåtet under dessa omständigheter men inte under andra.
 

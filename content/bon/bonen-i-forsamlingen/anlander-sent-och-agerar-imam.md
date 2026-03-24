@@ -20,7 +20,7 @@ description: >-
 
 Finner han på samma sätt någon som ber, då bör han be med honom vid hans högra sida med avsikten att få belöningen för att ha bett med församlingen.
 
-Om den som anländer sent eller den som ber ensam har gjort *taslīm*, då bör senkomlingen stå upp och göra klart vad han missat. Detta grundas på den allmänna innebörden av bevisen som visar förtjänsten med att be i församlingen och de autentiska rapporter från profeten – över honom vare Allāhs frid och välsignelser – som uppger att han såg en man gå in i moskén och närt mannen hade bett färdigt sade han:
+Om den som anländer sent eller den som ber ensam har gjort *taslīm*, då bör senkomlingen stå upp och göra klart vad han missat. Detta grundas på den allmänna innebörden av bevisen som visar förtjänsten med att be i församlingen och de autentiska rapporter från profeten – över honom vare Allāhs frid och välsignelser – som uppger att han såg en man gå in i moskén och när mannen hade bett färdigt sade han:
 
 > ”Finns det ingen som vill ge till välgörenhet till mannen genom att be med honom?” [*Aḥmad* 3:45]
 

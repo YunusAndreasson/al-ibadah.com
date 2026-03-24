@@ -19,7 +19,7 @@ description: >-
 
 Det har rapporterats att Allāhs sändebud sagt att åkallan är dyrkan och om detta är fallet så kommer en person närmare Allāh då han åkallar. Efter att han åkallat och sökt Allāh närhet, kommer antingen hans åkallan att besvaras, han räddas från något än mer ont än nyttan han skulle fått genom att hans åkallan besvarats eller sparas hans belöningar till Domedagen.
 
-Allāh den Allsmäktige glömmer aldrig en person som åkallar Honom. Dock har åkallan vissa villkor som måste uppfyllas och vissa förhållningssätt som måste följas. Den som åkallar måste när han gör det tro att han är i behov av sin Herre och att han själv inte har någon förmåga att orsaka sig själv nytta eller att skada – förutom genom Allāhs vilja. Han måste tro på hans Herres perfekta nåd, välgörande, generositet och vilja. Han får inte tvivla på att han kommer att besvaras utan han måste vara hopp- och tillitsfull om att få ta emot något bra.
+Allāh den Allsmäktige glömmer aldrig en person som åkallar Honom. Dock har åkallan vissa villkor som måste uppfyllas och vissa förhållningssätt som måste följas. Den som åkallar måste när han gör det tro att han är i behov av sin Herre och att han själv inte har någon förmåga att orsaka sig själv nytta eller att skada – förutom genom Allāhs vilja. Han måste tro på sin Herres perfekta nåd, välgörande, generositet och vilja. Han får inte tvivla på att han kommer att besvaras utan han måste vara hopp- och tillitsfull om att få ta emot något bra.
 
 Ett annat villkor är att man inte bryter mot åkallans gränser och ber Allāh om något som inte är möjligt.
 

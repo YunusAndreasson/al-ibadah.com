@@ -14,7 +14,7 @@ Han studerade under ett stort antal lärda i Damaskus och behärskade *tafsīr*,
 
 Han slog följe med sin lärare *s̲hayk̲h* al-Islām Ibn Taymiyyah år 712 AH och förblev hans närmaste elev och följeslagare ända tills Ibn Taymiyyah avled år 728 AH. Under dessa 16 år tog han del av sin lärares omfattande kunskap och förfinade den ytterligare.
 
-Han var känd för sin djupa förståelse av Koranen och *sunnah* och för sin förmåga att kombinera textuell kunskap med andlig insikt. Han betonade vikten av att rena hjärtat och att dyrkan skall utföras med både yttre och inre uppriktighet.
+Han var känd för sin djupa förståelse av Koranen och *sunnah* och för sin förmåga att kombinera textuell kunskap med andlig insikt. Han betonade vikten av att rena hjärtat och att dyrkan ska utföras med både yttre och inre uppriktighet.
 
 På grund av sin nära koppling till Ibn Taymiyyah utsattes han också för förföljelse och fängslades tillsammans med sin lärare i Damaskus citadell. Under fängelsetiden ägnade han sig åt att recitera Koranen, meditera och skriva.
 

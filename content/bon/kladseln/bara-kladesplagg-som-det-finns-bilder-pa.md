@@ -20,7 +20,7 @@ description: >-
 
 Därför anser vi att det inte är tillåtet att behålla bilder som påminner om ens nära och kära [som de säger] och att de som har bilder måste förstöra dem. Detta oavsett om de har hängts upp på väggen eller satts in dem i album. Om de finns kvar kommer änglar ju inte att få träda in i huset. Den *ḥadīt̲h* jag visade har autentiskt rapporterats från profeten.
 
-Och Allāh vet bättre.
+Och Allāh vet bäst.
 
 
 [^1]: *al-Buk̲hārī* 5958 och *Muslim* 2106

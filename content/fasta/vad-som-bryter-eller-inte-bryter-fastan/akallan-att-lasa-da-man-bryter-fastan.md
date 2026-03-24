@@ -14,7 +14,7 @@ description: >-
   bryter fastan? Bör den fastande läsa efter vad ...
 ---
 
-**Fråga.** Finns det någon åkallan rapporterad från profeten – över honom vare Allāhs frid och välsignelser – och följeslagarna som man kan läsa när man bryter fastan? Bör den fastande läsa efter vad böneutroparen säger eller fortsätta med att bryta fastan?
+**Fråga:** Finns det någon åkallan rapporterad från profeten – över honom vare Allāhs frid och välsignelser – och följeslagarna som man kan läsa när man bryter fastan? Bör den fastande läsa efter vad böneutroparen säger eller fortsätta med att bryta fastan?
 
 **Svar:** Med största sannolikhet kommer denna åkallan när man bryter fastan att besvaras. Detta beror på att den sker vid slutet av en dyrkan och i de flesta fall är man svag precis innan man bryter fastan. Desto fysiskt svagare och ömmare man är, desto större är ens ånger och ödmjukhet inför Allāh den Allsmäktige. Den åkallan som har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – är följande:
 

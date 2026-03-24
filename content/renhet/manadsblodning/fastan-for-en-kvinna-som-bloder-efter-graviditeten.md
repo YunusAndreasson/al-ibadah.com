@@ -11,7 +11,7 @@ original_id: 450
 description: "Fråga: Om jag exempelvis födde en vecka\_före ramadan och jag blev ren innan 40 dagar gått till ända, är det då min skyldighet att fasta? Svar: Ja, när en kvinna med blödningar efter graviditet..."
 ---
 
-**Fråga:** Om jag exempelvis födde en vecka före *ramaḍān* och jag blev ren innan 40 dagar gått till ända, är det då min skyldighet att fasta?
+**Fråga:** Om jag exempelvis födde en vecka före *ramaḍān* och jag blev ren innan 40 dagar gått till ända, är det då min skyldighet att fasta?
 
 **Svar:** Ja, när en kvinna med blödningar efter graviditeten blir ren och det som hon vet är ett tecken på renhet blir uppenbart för henne, vilket är en vit binda eller total renhet, då fastar hon och ber. Det spelar ingen roll om det enbart är en eller två veckor efter förlossningen. För sannerligen, det finns ingen minimigräns för blödningen efter graviditeten. Vissa kvinnor ser inget blod alls när de har fött. Att hon når dessa 40 dagar är inte ett villkor.
 

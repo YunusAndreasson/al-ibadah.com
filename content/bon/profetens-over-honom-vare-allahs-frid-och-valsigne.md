@@ -350,7 +350,7 @@ Olika former av *taslīm* [säga *salām*]
 1. Därefter säger man *salām* åt höger, vilket är en väsentlig del av bönen. Man vänder då sitt ansikte så att vitheten på ens högra kind kan ses [bakifrån].
 2. Därefter säger man *salām* åt vänster. Man vänder då sitt ansikte så att vitheten på ens vänstra kind kan ses. Detta även vid begravningsbönen.
 3. Imamen höjer sin röst när han säger *salām*. Detta gäller dock inte i begravningsbönen.
-4. Denna *salām* tar sig olika former: a) ”*al-Salāmu ‘alaykum wa rahmat-Allāhu wa barakātuhu*” till höger och ”*al-salāmu ‘alāykum wa rahmat-Allāh*” till vänster; b) Samma som ovan men utan att säga ”*wa barakātuhu*”; c)  “*al-Salāmu ‘alaykum wa rahmat-Allāhu*” till höger och “*al-salāmu ‘alāykum*” till vänster; d) säga en *salām* och försiktigt vända huvudet till höger.
+4. Denna *salām* tar sig olika former: a) ”*al-Salāmu ‘alaykum wa rahmat-Allāhu wa barakātuhu*” till höger och ”*al-salāmu ‘alāykum wa rahmat-Allāh*” till vänster; b) Samma som ovan men utan att säga ”*wa barakātuhu*”; c)  “*al-Salāmu ‘alaykum wa rahmat-Allāhu*” till höger och “*al-salāmu ‘alāykum*” till vänster; d) säga en *salām* och försiktigt vända huvudet till höger.
 
 Min muslimska broder, detta är vad jag har kunnat sammanställa från *Sifat Salāt al-Nabi* [*The Prophet's Prayer Described*] i ett försök att göra den mer lättillgänglig för dig [och] för att den ska bli tydlig för dig, som om jag såg dig med mina egna ögon.
 

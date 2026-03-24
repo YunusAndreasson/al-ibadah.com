@@ -18,5 +18,5 @@ description: 'Fråga: Får kvinnor be i församlingen som män eller måste de b
 
 Det finns ingen invändan mot kvinnor som ber gemensamt i deras hem. Deras kvinnliga imam ska dock stå i raden och de får inte samma belöning som har rapporterats för män då de ber i församling.
 
-Mannen får inte överge moskén och be med familjen eller sina kvinnor. Det är mannen plikt att närvara vid bönen i moskén.
+Mannen får inte överge moskén och be med familjen eller sina kvinnor. Det är mannens plikt att närvara vid bönen i moskén.
 

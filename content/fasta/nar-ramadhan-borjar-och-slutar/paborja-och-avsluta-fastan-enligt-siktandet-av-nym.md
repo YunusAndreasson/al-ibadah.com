@@ -26,7 +26,7 @@ När det gäller beräkning ska man inte lita på dem. Detta är sanningen och k
 
 Abū Dāwūd har med en autentisk berättarkedja återgivit från Ibn ´Umar att han har sagt: "*Folket spanade efter nymånen så jag sade till profeten – över honom vare Allāhs frid och välsignelser – att jag såg den. Därför fastade han och han beordrade folket att fasta*."
 
-Aḥmad och de som har sammanställt *Sunan* har återgivit en *ḥadīt̲h* som Ibn K̲huzaymah och Ibn Hibban har graderat som autentisk från Ibn 'Abbās . En beduin kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: "*Sannerligen, jag såg nymånen*." Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Vittnar du om att ingen har rätt att bli dyrkad utom Allāh och att Muḥammad är Allāhs sändebud?*" [^5] Mannen sade då: "*Ja*." Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Bilal! Meddela folket att de bör fasta imorgon*."
+Aḥmad och de som har sammanställt *Sunan* har återgivit en *ḥadīt̲h* som Ibn K̲huzaymah och Ibn Hibban har graderat som autentisk från Ibn 'Abbās. En beduin kom till profeten – över honom vare Allāhs frid och välsignelser – och sade: "*Sannerligen, jag såg nymånen*." Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Vittnar du om att ingen har rätt att bli dyrkad utom Allāh och att Muḥammad är Allāhs sändebud?*" [^5] Mannen sade då: "*Ja*." Profeten – över honom vare Allāhs frid och välsignelser – sade då: "*Bilal! Meddela folket att de bör fasta imorgon*."
 
 Det har rapporterats att ´Abdur-Rahmān bin Zaid bin al-Khattab predikade under en dag då det rådde tvivel [om de skulle fasta eller inte]. Han sade då:
 

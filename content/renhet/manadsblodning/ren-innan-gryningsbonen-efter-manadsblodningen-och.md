@@ -28,7 +28,7 @@ Det är hennes skyldighet att skyndsamt göra *g̲husl* för att be vid den angi
 
 På samma sätt om man var rituell oren och inte gjorde *g̲husl* förrän efter gryningsbönen inträtt, då syndar man inte. Från profeten – över honom vare Allāhs frid och välsignelser – har man bekräftat att gryningsbönen började medan han var rituellt oren efter att ha haft intim samvaro med sin fru. Han fastade då och gjorde *g̲husl* efter gryningsbönen. [^1]
 
-Och Allāh vet bättre.
+Och Allāh vet bäst.
 
 
 [^1]: *al-Buk̲hārī* 1930 och *Muslim* 1109

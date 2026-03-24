@@ -33,7 +33,7 @@ När det gäller att äta, dricka och ha intim samvaro finner vi bevisen i Allā
 
 Bevisen för utlösning av sädesvätska återfinns i en *ḥadīt̲h[^2] qudsi* i vilken Allāh den Upphöjde om den fastande säger: "*Personen överger sin mat, sin dryck och sina begär för Min skull*." [^3]
 
-Utlösning av sädesvätska är begär, enligt profetens – över honom vare Allāhs frid och välsignelser – ord: "*I mannens intima samvaro [med sin fru] finns det en välgörenhet*." De sade: "*Allāhs sändebud! Finns det en belöning för den av oss som tillfredställer sina sexuella begär?*" Han sade: "*Säg mig, om personen skulle tillfredsställa sig på ett förbjudet sätt, skulle det då inte vara en synd från personens sida? Likaså om personen tillfredsställer sig på ett tillåtet sätt, då skulle personen få en belöning*." [^4]
+Utlösning av sädesvätska är begär, enligt profetens – över honom vare Allāhs frid och välsignelser – ord: "*I mannens intima samvaro [med sin fru] finns det en välgörenhet*." De sade: "*Allāhs sändebud! Finns det en belöning för den av oss som tillfredsställer sina sexuella begär?*" Han sade: "*Säg mig, om personen skulle tillfredsställa sig på ett förbjudet sätt, skulle det då inte vara en synd från personens sida? Likaså om personen tillfredsställer sig på ett tillåtet sätt, då skulle personen få en belöning*." [^4]
 
 Det som kommer ut är ingenting annat än en sädesavgång. Därför är den mest korrekta åsikten att prostatavätska inte ogiltigör fastan, även om den kommer ut på grund av begär men utan att intim samvaro äger rum.
 
@@ -75,7 +75,7 @@ Intentionen, vilket innebär att den fastande väljer att göra något som gör 
 
 > ”Den som förnekar Gud efter att ha antagit tron – inte den som är utsatt för tvång, fastän hans hjärta förblir tryggt i sin övertygelse, utan den som frivilligt öppnar sig för otron – sådana [människor] ådrar sig Guds vrede och ett hårt straff väntar dem.” [Koranen 16:106]
 
-Med detta som grund: Om det kom in damm i den fastandes näsa och personen kändes smaken av det i sin hals, och det fortsatte ned i magen, då skulle det inte leda till att fastan bryts eftersom personen inte avsiktligen avsåg att göra så.
+Med detta som grund: Om det kom in damm i den fastandes näsa och personen kände smaken av det i sin hals, och det fortsatte ned i magen, då skulle det inte leda till att fastan bryts eftersom personen inte avsiktligen avsåg att göra så.
 
 Likaledes om den fastande tvingas att bryta fastan och då gjorde det på grund av detta tvång, då är fastan giltig då detta inte skedde avsiktligen. Och på samma sätt om den fastande hade en våt dröm under sömnen, då är fastan giltig då den sovande inte har någon intention. Och åter på samma sätt om en man tvingar sin fru till intim samvaro med honom under hennes fasta, då är hennes fasta giltig då hon inte valde detta själv.
 

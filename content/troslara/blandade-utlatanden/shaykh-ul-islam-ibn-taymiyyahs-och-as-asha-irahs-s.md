@@ -27,7 +27,7 @@ Vad anser muslimer om de lärde som gör *ta’wīl* [Tolkning, när det hänvis
 
 **Svar:** Det råder inga tvivel om att det som lärs ut i dessa skolor – att *ahlus-sunnah wal-jamā'ats* synsätt är att tro på Allāhs namn och egenskaper utan förvrida, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen] – är enligt vad som har rapporterats från profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah*. Detta har *ahlus-sunnah wal-jamā´at* både grundligt och sammanfattat berättat om i sina böcker.
 
-Detta är sanningen som överensstämmer med Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och vad *salaf* – må Allāh vara nöjda med dem – har sagt.
+Detta är sanningen som överensstämmer med Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och vad *salaf* – må Allāh vara nöjd med dem – har sagt.
 
 Likaså är detta i samstämighet med ett korrekt och rationellt tänkande sinne. Det är inte vår avsikt att räkna upp de enskilda bevisen då det inte bads om detta i frågan, utan vi svarar enbart på vad frågan gällde och det är uppdelningen av *ahlus-sunnah wal-jamā´at* i två olika skolor.
 
@@ -47,7 +47,7 @@ De som tillhör den andra skolan säger: Den uppenbara meningen måste ändras o
 
 Från detta exempel blir det tydligt att de båda skolorna är olika och omöjliga att föra samman – samt att det inte är möjligt att förena dem i ett kännetecken som *ahlus-sunnah*.
 
-Därför kan *ahlus-sunnah wal-jamā'ats*[^1] beskrivning enbart tillhöra en av dem och vi kommer på ett rättvist sätt att döma mellan dem. Vi kommer att pröva dem båda opartiskt med mått som är Allāhs skrift, Hans sändebuds *sunnah*, uttalanden från [profetens – över honom vare Allāhs frid och välsignelser – ] följeslagare och de bland *salaf* – må Allāh vara nöjda med dem – och imamerna som trofast efterföljde dem.
+Därför kan *ahlus-sunnah wal-jamā'ats*[^1] beskrivning enbart tillhöra en av dem och vi kommer på ett rättvist sätt att döma mellan dem. Vi kommer att pröva dem båda opartiskt med mått som är Allāhs skrift, Hans sändebuds *sunnah*, uttalanden från [profetens – över honom vare Allāhs frid och välsignelser – ] följeslagare och de bland *salaf* – må Allāh vara nöjd med dem – och imamerna som trofast efterföljde dem.
 
 Det finns inget i detta mått [Allāhs skrift… och vad som räknades upp ovan] som bevisar något, varken direkt eller genom antydande, eller som tydligt förstås. Det finns heller ingen antydan mot vad den andra skolan påstår. I stället finns i detta mått [Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*] bevis som är klara, tydliga och indikativa för vad den första skolan påstår.
 
@@ -103,11 +103,11 @@ Följaktligen talar *ḥadīt̲h* inte om Allāhs den Upphöjdes egenskaper vars
 
 Vidare påstår de att det finns två skolor av vilken en av dem är *s̲hayk̲h ul-islām* ibn Taymiyyahs. Vi säger då att tillskrivandet av denna skola till ibn Taymiyyah – må Allāh vara honom nådig – är för att påstå att ingen före honom har sagt detta. Detta är felaktigt.
 
-De åsikter som ibn Taymiyyah har är ju de som de rättfärdiga *salaf* – må Allāh vara nöjda med dem – och det muslimska samfundets imamer har haft. Det var inte han som införde denna skola, vilket de som säger detta påstår för att minimera dess betydelse. Och Allāh är Den vars hjälp vi söker.
+De åsikter som ibn Taymiyyah har är ju de som de rättfärdiga *salaf* – må Allāh vara nöjd med dem – och det muslimska samfundets imamer har haft. Det var inte han som införde denna skola, vilket de som säger detta påstår för att minimera dess betydelse. Och Allāh är Den vars hjälp vi söker.
 
 När det gäller vår ståndpunkt mot de lärda som har gjort *ta’wīl* säger vi: Den som var känd för att ha goda intentioner, som positivt bidraget till religionen och som följde [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* är ursäktad för att av någon anledning ha utövat *ta’wīl* [som han såg som rättfärdigad].
 
-Men att han är ursäktad betyder inte att hans sätt var rätt då detta är en metod som står i motsats till de rättfärdiga *salaf* – må Allāh vara nöjda med dem – som förstod dem enligt deras uppenbara mening, och de trodde på vad den uppenbara mening bevisade utan att försöka förklara hur och utan att jämföra.
+Men att han är ursäktad betyder inte att hans sätt var rätt då detta är en metod som står i motsats till de rättfärdiga *salaf* – må Allāh vara nöjd med dem – som förstod dem enligt deras uppenbara mening, och de trodde på vad den uppenbara mening bevisade utan att försöka förklara hur och utan att jämföra.
 
 Det är nödvändigt att skilja mellan ett utlåtande och den som sade det, och mellan en handling och den som utförde den. Har ett felaktigt utlåtande sitt ursprung i *ijtihād* och goda intentioner skuldbeläggs inte den som sade det. Utan tvekan har personen fått en belöning för sin *ijtihād*. Profeten sade:
 

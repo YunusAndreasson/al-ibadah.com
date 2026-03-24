@@ -31,5 +31,5 @@ Till följd av detta är det inte tillåtet att bära talismaner även om de kom
 
 Föremålet som bärs har sitt ursprung i något annat än den ädla Koranen och innebörden går inte att förstå. Detta är inte tillåtet under några omständigheter då man inte vet vad som har skrivits där. Somliga gör amuletter och komplicerade tingestar med invävda bokstäver som nästan är omöjliga att förstå eller läsa. Sådana föremål är förbjudna innovationer och de är inte tillåtna under några omständigheter.
 
-Och Allāh vet bättre.
+Och Allāh vet bäst.
 

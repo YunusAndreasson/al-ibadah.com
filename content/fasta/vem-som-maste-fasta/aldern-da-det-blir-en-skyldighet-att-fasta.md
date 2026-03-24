@@ -14,7 +14,7 @@ description: 'Fråga: När blir en ung tjej skyldig att fasta? Svar: Den unga
 
 **Fråga:** När blir en ung tjej skyldig att fasta?
 
-**Svar:** Den unga tjejen är skyldig att fasta när hon når myndig ålder. Puberteten uppnås genom att barnet blir femton år, att mycket könshår börja växa, utlösning, månadsblödning eller graviditet. När något av detta inträffar måste hon också fasta även om hon enbart är tio år.
+**Svar:** Den unga tjejen är skyldig att fasta när hon når myndig ålder. Puberteten uppnås genom att barnet blir femton år, att mycket könshår börjar växa, utlösning, månadsblödning eller graviditet. När något av detta inträffar måste hon också fasta även om hon enbart är tio år.
 
 För utan tvekan får många flickor sina månadsblödningar när de är tio eller elva. Ändå är deras familjer släpphänta. De tror att hon fortfarande är liten och de ser då inte till att hon fastar. Detta är ett misstag. Utan tvekan så har en ung tjej blivit kvinna när hon får sin månadsblödning. Hon är då ansvarig som en vuxen.
 

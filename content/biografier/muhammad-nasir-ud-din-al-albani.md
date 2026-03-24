@@ -25,7 +25,7 @@ Han blev så intresserad av *ḥadīt̲h* att han ibland stängde sin butik för
 
 Till sist gav de ansvariga för biblioteket honom ett avskilt rum för att studera i och han fick en egen nyckel till biblioteket för att komma in innan det öppnade. Ofta var han där från tidig morgon till efter ’ishā. Under denna tid sammanställde han många betydelsefulla arbeten. Flera av dessa har ännu inte tryckts.
 
-Han stötte på mycket motstånd när han förespråkade *tawḥīd* och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* men han bar detta med tålamod. Han uppmuntrades av några av de ädle lärda i Damaskus som tyckte att han skulle fortsätta. Bland dem fanns *s̲hayk̲h* Bahjatul Bayjār, *s̲hayk̲h* ´Abdul-Fattāh och Towfīq al-Barzah – rahimahumullāh.
+Han stötte på mycket motstånd när han förespråkade *tawḥīd* och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*, men han bar detta med tålamod. Han uppmuntrades av några av de ädle lärda i Damaskus som tyckte att han skulle fortsätta. Bland dem fanns *s̲hayk̲h* Bahjatul Bayjār, *s̲hayk̲h* ´Abdul-Fattāh och Towfīq al-Barzah – rahimahumullāh.
 
 Efter en tid började han att hålla två lektioner i veckan där de som studerade islam och lärarna vid universitetet deltog. Här lärde han ut från böcker om ´aqīdah, *fiqh*, usūl och *ḥadīt̲h*. Han började också göra månatliga resor för att göra daw’ah i olika städer i Syrien och Jordanien.
 

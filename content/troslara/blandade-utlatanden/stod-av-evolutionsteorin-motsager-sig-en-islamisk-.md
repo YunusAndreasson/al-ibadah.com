@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** I dag finner vi evolutionsteorin överallt; i våra marockanska högskolor, i böcker och i tidningar. Det är som om denna teori är ett odiskutabelt faktum. Jag studerar biologi och i ämnet ”komparativ anatomi” lär vi oss att arter utvecklats från tidigare arter.
 
-Jag vill veta vad Koranen och ädla *aḥādīt̲h* säger samt vad du tycker?  
+Jag vill veta vad Koranen och ädla *aḥādīt̲h* säger samt vad du tycker?  
 
 **Svar:** Evolutionsteorin kommer utan tvekan från *dahris*[^1] och deras anhängare som exempelvis extrema filosofer och *at-Raba'i'i* [De som tror på naturen och att allting sker av sig själv utan en skapare]. Detta är en farlig tro, utan några bevis, som är resultatet av antaganden och gissningar. De påstår även att världen har existerat sedan evig tid och de avvisar tron på skapelsens början samt Återuppståndelsens Dag.
 

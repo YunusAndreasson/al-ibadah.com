@@ -23,6 +23,6 @@ description: >-
 
 Beviset i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* är en återberättelse från Abū Hurairah. Han berättar att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt:
 
-> ”Vid Honom i vars hand min själ vilar i, jag avser att beordra att brännved ska föras fram och sedan beordra bönen och att böneutropet ska ropas ut för den, sedan beordra en man att leda folket i bön och efter det gå till den man som inte var närvarande vid bönen och bränna deras hus över dem. Och vid Honom vars hand min själv vilar i, om någon av dem visste att de skulle finna ett stort ben med kött och två fina revben, då hade han kommit till nattbönen.” [*al-Buk̲hārī* 644 och *Muslim* 651]
+> ”Vid Honom i vars hand min själ vilar i, jag avser att beordra att brännved ska föras fram och sedan beordra bönen och att böneutropet ska ropas ut för den, sedan beordra en man att leda folket i bön och efter det gå till den man som inte var närvarande vid bönen och bränna deras hus över dem. Och vid Honom vars hand min själ vilar i, om någon av dem visste att de skulle finna ett stort ben med kött och två fina revben, då hade han kommit till nattbönen.” [*al-Buk̲hārī* 644 och *Muslim* 651]
 
 

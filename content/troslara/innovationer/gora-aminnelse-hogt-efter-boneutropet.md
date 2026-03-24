@@ -26,7 +26,7 @@ al-Buk̲hārī återger från Jabir bin ´Abdullāh i sin *Ṣaḥīḥ* att han
 
 Men om böneutroparen säger detta med hög röst som vid böneutropet, då är det en innovation. Gör han så verkar det vara en del av böneutropet och det är inte tillåtet att lägga till någonting här. Slutet på böneutropet är att man säger: ”*Lā ilāhah illallāh*” [Ingen har rätt att dyrkas utom Allāh]. Det är inte tillåtet att lägga till någonting till detta.
 
-Hade det varit bra, då hade de rättfärdiga *salaf* – må Allāh vara nöjda med dem – gjort detta före oss och sannerligen hade profeten – över honom vare Allāhs frid och välsignelser – befallt sitt folk till och föreskrivet detta för dem. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som utför en handling som inte kommer från denna vår fråga [Islām], han kommer att få den avvisad*.” [^1]
+Hade det varit bra, då hade de rättfärdiga *salaf* – må Allāh vara nöjd med dem – gjort detta före oss och sannerligen hade profeten – över honom vare Allāhs frid och välsignelser – befallt sitt folk till och föreskrivet detta för dem. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som utför en handling som inte kommer från denna vår fråga [Islām], han kommer att få den avvisad*.” [^1]
 
 Jag ber Allāh att han ökar vår, din och alla våra bröders kunskap om religionen samt att Han välsignar oss med stadighet i den. Han är allhörande, ständigt nära.
 

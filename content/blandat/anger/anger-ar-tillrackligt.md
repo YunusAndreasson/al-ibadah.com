@@ -33,5 +33,5 @@ Profeten har sagt:
 
 Det finns många verser och uttalanden från profeten som visar på detta.
 
-Vi ber Allāh den Allsmäktige att Han ger dig stadighet vid sanningen och förståelse av religionen. Jag råder dig att ha sällskap med rättfärdiga människor och att undvika samröre med dem som handlar felaktigt. Må Allāh den Allsmäktige acceptera din ånger och må Han ge oss ett gott slut.
+Vi ber Allāh den Allsmäktige att Han ger dig stadighet vid sanningen och förståelse av religionen. Jag råder dig att ha sällskap med rättfärdiga människor och att undvika samröre med dem som handlar felaktigt. Må Allāh den Allsmäktige acceptera din ånger och må Han ge oss ett gott slut.
 

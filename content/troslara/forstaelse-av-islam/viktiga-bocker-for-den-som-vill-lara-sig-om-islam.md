@@ -31,7 +31,7 @@ Dessa båda böcker är mer omfattande än *al-Wāsitiyyah*. Alla är skrivna av
 8. *al-´aqīdah al-Tahhāwiyyah* av *s̲hayk̲h* Abū Ja’far *Aḥmad* ibn Muḥammad al-Tahhāwi
 9. *Sharh al-´aqīdah al-Tahhāwiyyah* av Abu’l-*ḥasan* ‘Ali ibn Abi’l-‘Izz
 10. *al-Durar al-SaNiyyah fi’l-Ajūbah al-Najdiyyah*, sammanställd av *s̲hayk̲h* ‘Abd al-Rahmān ibn Qāsim.
-11. *al-Durrah al-Madiyyah fi ´aqīdah al-Firqah al-Mardiyyah* av Muḥammad ibn Aḥmad al-Safārīni al-Hanbali. Denna bok innehåller dock några uttalanden som går emot *salaf*s rättsskola – exempelvis: ”*Vår Herre är inte något väsen, attribut eller fysiskt begrepp – upphöjd är Han*”. Därför är det bäst att läsa denna bok tillsammans med en *s̲hayk̲h* som är kunnig om *salaf*s *´aqīdah* och som kan förklara de uttalanden i den som går emot den *´aqīdah* som de rättfärdiga *salaf* – må Allāh vara nöjda med dem – hade.
+11. *al-Durrah al-Madiyyah fi ´aqīdah al-Firqah al-Mardiyyah* av Muḥammad ibn Aḥmad al-Safārīni al-Hanbali. Denna bok innehåller dock några uttalanden som går emot *salaf*s rättsskola – exempelvis: ”*Vår Herre är inte något väsen, attribut eller fysiskt begrepp – upphöjd är Han*”. Därför är det bäst att läsa denna bok tillsammans med en *s̲hayk̲h* som är kunnig om *salaf*s *´aqīdah* och som kan förklara de uttalanden i den som går emot den *´aqīdah* som de rättfärdiga *salaf* – må Allāh vara nöjd med dem – hade.
 
 *ḥadīt̲h*
 

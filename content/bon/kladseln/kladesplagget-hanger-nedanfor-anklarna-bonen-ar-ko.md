@@ -16,7 +16,7 @@ description: >-
   personen känner till den hadīth som förbj...
 ---
 
-**Fråga:** Vilket är utlåtandet om att be i ett klädesplagg som täcker anklarna? Är bönen bakom någon som bär ett sådant klädesplagg giltig? Detta trots att personen känner till den *ḥadīt̲h* som förbjuder det. Vanligen informera oss. Må Allāh belöna er med gott.
+**Fråga:** Vilket är utlåtandet om att be i ett klädesplagg som täcker anklarna? Är bönen bakom någon som bär ett sådant klädesplagg giltig? Detta trots att personen känner till den *ḥadīt̲h* som förbjuder det. Vänligen informera oss. Må Allāh belöna er med gott.
 
 **Svar:** Bönen för den vars kläder hänger nedanför anklarna är giltig. Personen syndar dock och måste rådas och varnas för det som Allāh har förbjudit.
 

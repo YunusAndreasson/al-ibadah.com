@@ -60,7 +60,7 @@ Ibn Daqīq al-’*´eid* har sagt:
 
 1. Abū Hurayrah sade: “Allāhs sändebud förbannade den man som bär en kvinnas kläder och den kvinna som bär en mans kläder.”
 2. 'Abd-Allāh ibn 'Amr har berättat att han hörde Allāhs sändebud – över honom vare Allāhs frid och välsignelser – säga: “De är inte av oss, de kvinnor som imiterar män och de män som imiterar kvinnor.”
-3. Ibn 'Abbās har berättat: ”Profeten förbannade kvinnliga män och manliga kvinnor. Han sade: 'Kasta ut dem ur deras hem.'” Han sade: ”Kasta ut dem ur hemmet.” Han sade: ”Profeten  utestängde den-och-den och ’Umar utestängde den-och-den.” Enligt en annan version: ”Allāhs sändebud förbannade män som imiterar kvinnor och kvinnor som imiterar män.”
+3. Ibn 'Abbās har berättat: ”Profeten förbannade kvinnliga män och manliga kvinnor. Han sade: 'Kasta ut dem ur deras hem.'” Han sade: ”Kasta ut dem ur hemmet.” Han sade: ”Profeten  utestängde den-och-den och ’Umar utestängde den-och-den.” Enligt en annan version: ”Allāhs sändebud förbannade män som imiterar kvinnor och kvinnor som imiterar män.”
 4. ´Abdullāh ibn 'Amr har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: “Det finns tre som inte kommer att få gå in i Paradiset och Allāh kommer inte ens att titta på dem på Återuppståndelsens Dag: Den som inte lyder sina föräldrar, en kvinna som imiterar män och en *duyūh* [hanrej, en svag man som inte känner någon svartsjuka över sina kvinnor].”
 5. Ibn Abi Malīkah – vars namn var ´Abdullāh ibn ’Ubayd-Allāh – har sagt: ”Det sades till Aisha: ’Om en kvinna bär sandaler som män bär?’ Hon svarade: ’Allāhs sändebud förbannade kvinnor som beter sig som män.’”
 

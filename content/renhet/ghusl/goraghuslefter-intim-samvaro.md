@@ -11,7 +11,7 @@ description: "Fråga: Jag ”leker” ofta med min fru och får ibland en orgasm
 
 **Fråga:** Jag ”leker” ofta med min fru och får ibland en orgasm även om vi inte har ett regelrätt samlag. Samma sak händer för min fru. Är det obligatoriskt att vi gör *g̲husl*?
 
-**Svar:**  Om du fick en orgasm eller om hon blev lite våt, då är det obligatoriskt för er båda att utföra *g̲husl*. Om du fick en orgasm utan att hon fick det, då är det obligatoriskt för dig att göra *g̲husl*, men inte för henne. Om hon blev våt och du inte fick någon orgasm, då måste hon göra *g̲husl*.
+**Svar:** Om du fick en orgasm eller om hon blev lite våt, då är det obligatoriskt för er båda att utföra *g̲husl*. Om du fick en orgasm utan att hon fick det, då är det obligatoriskt för dig att göra *g̲husl*, men inte för henne. Om hon blev våt och du inte fick någon orgasm, då måste hon göra *g̲husl*.
 
 Om ni båda hade intim samvaro fast inte fick någon orgasm, då måste ni ändå båda göra *g̲husl*. Detta grundat på *ḥadīt̲h*-en återberättad av Abū Hurairah där profeten – över honom vare Allāhs frid och välsignelser – säger: "*Om mannen sitter mitt bland kvinnans fyra delar, för att sedan ha intim samvaro med henne, blir det obligatoriskt med g̲husl*[^1]." Denna *ḥadīt̲h* finns återberättad i både *Sahīh Bukhārī* och *Ṣaḥīḥ Muslim*.
 

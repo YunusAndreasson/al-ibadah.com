@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** En man som var generös och hade en god karaktär avled. Dock så varken fastade eller bad han. Efter hans död betalade hans föräldrar en summa pengar till en annan person för att han skulle be de böner som han själv inte förrättat och fasta det som han själv inte hade fastat. Är detta islamiskt sett korrekt och vilket är utlåtandet om att ta dessa pengar?
 
-**Svar:** Mannen som avled då han varken bad eller fastade har avlidit som en icke-troende – och vi söker tillflykt hos Allāh från detta. Anledningen är att den korrekta åsikten bland de lärda och vad Koranen, profetens – över honom vare Guds frid och välsignelser – *sunnah* och uttalanden från *salaf* – må Allāh vara nöjda med dem – stöder är att den som överger bönen är en icke-troende.
+**Svar:** Mannen som avled då han varken bad eller fastade har avlidit som en icke-troende – och vi söker tillflykt hos Allāh från detta. Anledningen är att den korrekta åsikten bland de lärda och vad Koranen, profetens – över honom vare Guds frid och välsignelser – *sunnah* och uttalanden från *salaf* – må Allāh vara nöjd med dem – stöder är att den som överger bönen är en icke-troende.
 
 Den som avvisar bönen – även om personen ber – är en icke-troende. Texterna som har rapporterats har enbart nämnt övergivande av bönen och inte avvisandet av att den är en skyldighet.
 

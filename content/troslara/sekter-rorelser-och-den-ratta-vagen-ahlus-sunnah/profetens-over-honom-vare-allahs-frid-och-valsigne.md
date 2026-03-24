@@ -10,10 +10,10 @@ categories:
 original_id: 1068
 description: 'Fråga: Profeten – över honom vare Allāhs frid och välsignelser – har
  informerat oss om hur det muslimska samfundet skulle splittra sig efter hans bortgång.
- Vill du berätta om detta för oss? Sva...'
+ Vill du berätta om detta för oss? Sva...'
 ---
 
-**Fråga:** Profeten – över honom vare Allāhs frid och välsignelser – har informerat oss om hur det muslimska samfundet skulle splittra sig efter hans bortgång. Vill du berätta om detta för oss?
+**Fråga:** Profeten – över honom vare Allāhs frid och välsignelser – har informerat oss om hur det muslimska samfundet skulle splittra sig efter hans bortgång. Vill du berätta om detta för oss?
 
 **Svar:** Profeten – över honom vare Allāhs frid och välsignelser – har i en återberättelse, som rapporterats från honom, informerat om att judarna splittrades i 71 grupper, de kristna i 72 och att detta samhälle [det muslimska] kommer att splittras i 73. Han berättade även att dessa grupper kommer att vara i Elden utom en, och det är den som rättar sig efter vad profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare följde.
 

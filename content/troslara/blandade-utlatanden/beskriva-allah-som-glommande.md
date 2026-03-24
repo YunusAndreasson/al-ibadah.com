@@ -18,7 +18,7 @@ description: >-
 
 > ”Herre! Ställ oss inte tills vars för glömska eller oavsiktliga fel.” [Koranen 2:286]
 
-> ”[En gång i tiden] förmanade och varande Vi Adam, men han glömde [snart Våra ord]; och Vi fann hos honom ingen fasthet i föresatsen.” [Koranen 20:115]
+> ”[En gång i tiden] förmanade och varande Vi Adam, men han glömde [snart Våra ord]; och Vi fann hos honom ingen fasthet i föresatsen.” [Koranen 20:115]
 
 Detta enligt en av de två åsikterna hos de lärde. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Jag är endast en människa. Jag glömmer som ni glömmer. Så om jag glömmer, påminn mig*.” Han har även sagt: ”*Den som sover och missar en bön, låt personen be den när personen kommer ihåg den*.” Denna typ av glömska kan inte tillskrivas Allāh, grundat på två sorters bevis: textuella och rationella. Det textuella beviset är versen i vilken Han om Moses säger:
 

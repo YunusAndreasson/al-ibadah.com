@@ -159,9 +159,9 @@ Den ädla Koranen har utan tvivel uppenbarats på det arabiska språket. Allāh 
 
 *istawā* över något nödvändiggör på det arabiska språket innebörden ”reste och upprättade över”; innebörden stämmer sannerligen överens med orden. Betydelsen av *istawā* över tronen är då att Han reste Sig över den på ett speciellt sätt passande Hans allmakt och storhet. Om *istawā* förklaras med betydelsen *istawlā* skulle det förvränga ordets innebörd och ändra betydelsen, som är resning och som bevisas genom Koranens språk. Koranen bekräftar även att alla andra innebörder är ogiltiga.
 
-*salaf* – må Allāh vara nöjda med dem – och de som troget följde dem är eniga om denna innebörd. Inte en enda stavelse har nått oss från dem som motsäger sig denna betydelse. När en formulering har rapporterats i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och ingen förklaring som motsäger sig den uppenbara innebörden har rapporterats från *salaf*, då är den grundläggande principen att de lät den [formuleringen] vara med dess uppenbara mening och att de trodde på vad den bevisar.
+*salaf* – må Allāh vara nöjd med dem – och de som troget följde dem är eniga om denna innebörd. Inte en enda stavelse har nått oss från dem som motsäger sig denna betydelse. När en formulering har rapporterats i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och ingen förklaring som motsäger sig den uppenbara innebörden har rapporterats från *salaf*, då är den grundläggande principen att de lät den [formuleringen] vara med dess uppenbara mening och att de trodde på vad den bevisar.
 
-Om någon säger: Har något tydligt rapporterats från *salaf* – må Allāh vara nöjda med dem – som visar att de har förklarat att *istawā* betyder resning? Då säger vi: Ja, det har rapporterats från *salaf* – må Allāh vara nöjda med dem – men även om vi antar att inga tydliga uttalanden hade rapporterats från dem är den grundläggande principen den som bevisas genom formuleringen i den ädla Koranen och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*, att det som gäller är innebörden som det arabiska språket fordrar.
+Om någon säger: Har något tydligt rapporterats från *salaf* – må Allāh vara nöjd med dem – som visar att de har förklarat att *istawā* betyder resning? Då säger vi: Ja, det har rapporterats från *salaf* – må Allāh vara nöjd med dem – men även om vi antar att inga tydliga uttalanden hade rapporterats från dem är den grundläggande principen den som bevisas genom formuleringen i den ädla Koranen och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*, att det som gäller är innebörden som det arabiska språket fordrar.
 
 Därmed kommer *salaf*s bekräftelse att vara i överensstämmelse med denna innebörd.
 
@@ -170,7 +170,7 @@ Falska antaganden som blir nödvändiga om man menar att *istawā* betyder *ista
 1. Att tronen innan skapelsen av himlarna och jorden inte var i Allāhs besittning. Allāh den Upphöjde säger ju: ”*Sannerligen är Allāh er Herre, som har skapat himlarna och jorden på sex dagar, sedan reste Han sig över Tronen*.” [^10] Enligt denna åsikt skulle inte Allāh ha ägt tronen innan skapelsen av himlarna och jorden, och inte heller vid den tidpunkt då himlarna och jorden skapades.
 2. Att tolkningen av vad vi säger är korrekt, att Allāh reste Sig över jorden och att Han reste Sig över något annat i Hans skapelser [i stället för tronen] och detta är utan tvekan en falsk betydelse som inte passar Allāh den Allsmäktige.
 3. Att det är en förvrängning av ordets innebörd.
-4. Att det motsäger sig vad de rättfärdiga *salaf* – må Allāh vara nöjda med dem – var eniga om.
+4. Att det motsäger sig vad de rättfärdiga *salaf* – må Allāh vara nöjd med dem – var eniga om.
 
 För att summera denna form av *tawḥīd* – *tawḥīd[^1] as-asmā’ was-sifāt’*[^4] – är det skyldighet att vi bekräftar Allāhs namn och egenskaper på samma sätt som Han eller Hans sändebud bekräftat dem. Vi gör det utan att förvrida innebörden, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen].
 

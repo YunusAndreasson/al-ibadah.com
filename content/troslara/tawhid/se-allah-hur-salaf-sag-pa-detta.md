@@ -10,12 +10,12 @@ categories:
   - Monoteism
 original_id: 1087
 description: >-
-  Fråga: Ansåg salaf – må Allāh vara nöjda med dem – att man kan se Allāh?
+  Fråga: Ansåg salaf – må Allāh vara nöjd med dem – att man kan se Allāh?
   Vilket är utlåtandet om den som påstår att det mänskliga ögat Allāh inte kan
   uppfatta Allāh? Svar: Allāh den Allsmäk...
 ---
 
-**Fråga:** Ansåg *salaf* – må Allāh vara nöjda med dem – att man kan se Allāh? Vilket är utlåtandet om den som påstår att det mänskliga ögat inte kan uppfatta Allāh?
+**Fråga:** Ansåg *salaf* – må Allāh vara nöjd med dem – att man kan se Allāh? Vilket är utlåtandet om den som påstår att det mänskliga ögat inte kan uppfatta Allāh?
 
 **Svar:** Allāh den Allsmäktige säger i den ädla Koranen när Han nämner återuppståndelsen:
 
@@ -33,7 +33,7 @@ Vi kan då inte omfatta Honom med vår kunskap, och att omfatta med kunskap är 
 
 Detta är *salaf*s tro och de anser att den största välsignelsen som människan har skänkts är att få betrakta Allāhs den Allsmäktiges anlete. Därför var en av profetens – över honom vare Allāhs frid och välsignelser – åkallan[^2]: "*Jag ber dig om njutningen i att [få] betrakta Ditt anlete*." [^1] Han sade: "*Njutningen i att [få] betrakta*."
 
-I detta finns en stor njutning som ingen kan uppnå utom dem som uppnår den genom Allāhs välsignelse och gåva. Och jag ber Allāh den Upphöjde att göra oss till dem. På detta sätt har *salaf* – må Allāh vara nöjda med dem – förstått denna syn.
+I detta finns en stor njutning som ingen kan uppnå utom dem som uppnår den genom Allāhs välsignelse och gåva. Och jag ber Allāh den Upphöjde att göra oss till dem. På detta sätt har *salaf* – må Allāh vara nöjd med dem – förstått denna syn.
 
 Den som påstår att Allāh inte uppfattas genom det mänskliga ögat och att *ar-ru'yah* betyder fullständig och perfekt visshet har en felaktig åsikt. Denna åsikt motsäger sig bevis och fakta, därför att fullständig och perfekt visshet finns även i denna värld. För att förklara ihsan har profeten – över honom vare Allāhs frid och välsignelser – sagt:
 

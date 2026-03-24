@@ -8,11 +8,11 @@ categories:
   - Innovationer
 original_id: 294
 description: 'Fråga: Jag har hört talas om salatul-hajah och salat hifzul-qur''an
- . Är dessa böner tillåtna? Svar: Dessa båda bönerna är felaktiga. Varken salatul-hajah eller salat
+ . Är dessa böner tillåtna? Svar: Dessa båda böner är felaktiga. Varken salatul-hajah eller salat
  hifzul-qura''an är g...'
 ---
 
 **Fråga:** Jag har hört talas om *salatul-hajah* och *salat hifzul-qur'an*. Är dessa böner tillåtna?
 
-**Svar:** Dessa båda bönerna är felaktiga. Varken *salatul-hajah* eller *salat hifzul-qura'an* är giltiga. Det är inte möjligt att bekräfta dyrkan på detta sätt utom om det finns bevis för dem. I dessa båda fall finns det inga bevis som gör dem tillåtna.
+**Svar:** Dessa båda böner är felaktiga. Varken *salatul-hajah* eller *salat hifzul-qura'an* är giltiga. Det är inte möjligt att bekräfta dyrkan på detta sätt utom om det finns bevis för dem. I dessa båda fall finns det inga bevis som gör dem tillåtna.
 

@@ -22,7 +22,7 @@ Det är känt att offer är ett sätt för att komma närmare Allāh. Han har be
 
 Allt [som görs] för att komma närmare Allāh är då dyrkan. Om man offrar till någon annan än Allāh, på grund av vördnad för den man offrar till, och som en handling av underkastelse inför och för att komma närmare personen, på samma sätt som han visar vördnad för och söker Allāhs närhet, då sätter man någon vid Allāhs sida i dyrkan [man är en månggudadyrkare[^1]]. I detta fall har Allāh klargjort att Han har förbjudit Paradiset för månggudadyrkare[^1] och att deras boning är för evigt i Helvetet.
 
-Följaktligen säger vi att vad vissa gör när de slaktar vid gravar som tillhör personer som de kallar för *awliyā’* är en månggudadyrkan som tar dem utanför religionen. Vårt råd till dem är att de måste ångra sig inför Allāh den Allsmäktige över vad de har gjort. De ska endast offra till Allāh, på samma sätt som deras böner och fasta enbart för Allāh.
+Följaktligen säger vi att vad vissa gör när de slaktar vid gravar som tillhör personer som de kallar för *awliyā’* är en månggudadyrkan som tar dem utanför religionen. Vårt råd till dem är att de måste ångra sig inför Allāh den Allsmäktige över vad de har gjort. De ska endast offra till Allāh, på samma sätt som deras böner och fasta enbart för Allāh.
 
  Om de gör så kommer deras tidigare synder att förlåtas. Allāh den Upphöjde har sagt: ”*Om ni gör slut på [ert motstånd mot tron] ska det förflutna förlåtas er*.” [^3] Allāh kommer att ge dem mer än så, Han kommer att omvandla deras synder till goda handlingar. Han den Upphöjde har sagt:
 

@@ -20,7 +20,7 @@ description: >-
 
 Anledningen till skillnaden mellan dem är att det finns en nytta i omskärelse för män som rör om bönen accepteras. Om förhuden finns kvar när urinen kommer ut ur urinöppningen kommer den att samlas under förhuden och det kommer att vara en orsak till brännande och inflammation. Det kan också vara så att när man rör sig rinner lite urin ut och då blir man rituellt oren.
 
-Den maximala nyttan det medför kvinnor är att deras lust och begär kommer att reduceras. I detta ligger att uppnå perfektion och det är inte för att ta bort något skadligt.
+Den maximala nyttan det medför för kvinnor är att deras lust och begär kommer att reduceras. I detta ligger att uppnå perfektion och det är inte för att ta bort något skadligt.
 
 De lärde har angivit ett villkor för att omskärelse ska vara tillåtet och det är att man inte är rädd för att skada sig. Är man rädd för att dö eller bli sjuk är det inte en skyldighet. Detta beror på att en skyldighet inte längre är en skyldighet om man inte har möjlighet att utföra den, är rädd för att man kommer att skada sig eller fruktar för sitt liv.
 

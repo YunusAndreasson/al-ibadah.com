@@ -24,6 +24,6 @@ Det sägs också att om den avlidne brukade ta folkets tillgångar och personen 
 
 Enligt mig är den mest korrekta åsikten att en skuld som tillhör en avliden kan betalas med den [allmosan]. Det kan sägas att det är skillnad mellan när de vid liv är i behov av allmosa på grund av fattigdom, *djihād*, en skuld eller något annat och när de vid liv inte är i behov av den.
 
-De vid liv har företräde över de bortgångna i det sista fallet men när de som är vid liv inte är i behov av den [allmosan] begås ingen synd om den används för att betala av skulden som tillhör en avliden som inte har lämnat några pengar efter sig. Det kan vara så att denna åsikt är en medelväg mellan det två [tidigare nämnda] åsikterna.
+De vid liv har företräde över de bortgångna i det sista fallet men när de som är vid liv inte är i behov av den [allmosan] begås ingen synd om den används för att betala av skulden som tillhör en avliden som inte har lämnat några pengar efter sig. Det kan vara så att denna åsikt är en medelväg mellan de två [tidigare nämnda] åsikterna.
 
 

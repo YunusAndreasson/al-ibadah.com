@@ -38,7 +38,7 @@ Ibn Mas'ūd brukade säga att Mu'ādh var en ledare med rättfärdiga och goda k
 
 Profeten – över honom vare Allāhs frid och välsignelser – gav honom detta råd så vi bör notera att det är [både] kortfattat och omfattande. Det är så för den som förstår det, även om det är en uttolkning av råd som ges i Koranen.
 
-Gällande dess korthet är det för att man har två plikter: plikten mot Allāh och plikten mot andra. Det är oundvikligt att inte misslyckas ibland; antingen genom att inte utföra en befallning eller genom att göra något som är förbjudet. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Frukta Allāh var ni än befinner er.*" Detta är ett omfattande uttryck. Orden "*var ni än befinner er*" hänvisar till behovet av *taqwā*, både i det dolda och öppna.
+Gällande dess korthet är det för att man har två plikter: plikten mot Allāh och plikten mot andra. Det är oundvikligt att misslyckas ibland; antingen genom att inte utföra en befallning eller genom att göra något som är förbjudet. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Frukta Allāh var ni än befinner er.*" Detta är ett omfattande uttryck. Orden "*var ni än befinner er*" hänvisar till behovet av *taqwā*, både i det dolda och öppna.
 
 Efter detta sade han: "*Och låt en dålig handling följas med en god handling. Den kommer att gottgöra för den dåliga*." När doktorn träffar en patient och inser att personen har fått något skadligt i sig, då kommer han att säga åt personen att ta något som gör personen bra. Att människan syndar är något oundvikligt.
 
@@ -66,7 +66,7 @@ Denna rapport bekräftas av följande vers:
 
 > ”Och ni har fått njuta er del [av denna världs goda], liksom de fick som levde före er. Liksom de ägnar ni er åt tomt och meningslöst prat.” [Koranen 9:69]
 
-Det finns ytterligare rapporter som bekräftar i form av *aḥādīt̲h* som är *ḥasan* och *Ṣaḥīḥ*. Detta är något som berör de i samhällets toppskikt som påstår sig vara religiöst medvetna, vilket mer än en av *salaf* – må Allāh vara nöjda med dem – sagt, inklusive Ibn ’Uyayanah. Flera av de karaktärsdrag som judarna besitter har även de som påstår sig vara kunniga och flera av de karaktärsdrag som de kristna besitter har även de som påstår sig vara religiöst medvetna.
+Det finns ytterligare rapporter som bekräftar i form av *aḥādīt̲h* som är *ḥasan* och *Ṣaḥīḥ*. Detta är något som berör de i samhällets toppskikt som påstår sig vara religiöst medvetna, vilket mer än en av *salaf* – må Allāh vara nöjd med dem – sagt, inklusive Ibn ’Uyayanah. Flera av de karaktärsdrag som judarna besitter har även de som påstår sig vara kunniga och flera av de karaktärsdrag som de kristna besitter har även de som påstår sig vara religiöst medvetna.
 
 Detta är något som är klart för dem som förstår islam som Allāh har sänt Muḥammad med och som sedan försöker förstå människor från islams ljus.
 

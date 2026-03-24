@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Får en pilgrim resa till Jiddah utan att utföra *ṭawāf ul-wadā´*? Vad gäller den som gör det?
 
-**Svar:** En pilgrim får inte lämna Mecka efter vallfärden förrän personen har utfört *ṭawāf ul-wadā´*. Anledning är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Ingen bör ge sig av förrän personens sista handling är vid Huset [Ka'bah]*." [^2] Detta har *Muslim* återgivit.
+**Svar:** En pilgrim får inte lämna Mecka efter vallfärden förrän personen har utfört *ṭawāf ul-wadā´*. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Ingen bör ge sig av förrän personens sista handling är vid Huset [Ka'bah]*." [^2] Detta har *Muslim* återgivit.
 
 I *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* finns en *ḥadīt̲h* från Ibn 'Abbās i vilken han säger: "*Folket befalldes att göra sin sista handling vid Huset [Ka'bah], men frågan har lindrats för en kvinna med månadsblödning*."
 

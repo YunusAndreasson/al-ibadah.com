@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Ja, den som ber fredagsbönen utanför moskén – exempelvis på gatorna – anses vara närvarande vid fredagsbönen så länge personens bön exakt följer imamens. Personens belöning är dock inte likvärdig med den som ber inuti moskén. Speciellt inte dem som ber i de första raderna.
 
-Änglarna skriver ned att de kommer tidigt enligt den timme som anlände innan predikanten går upp i predikstolen. Detta beror att detta innefattar den allmänna innebörden av den *ḥadīt̲h* som har berättats om detta. Det som avses i denna *ḥadīt̲h* är närvarande och inte att man är inuti moskén. Belöningen minskar dock enligt hur mycket man har missat av timmarna inför bönen och vad man har missat av predikan, och för att raderna inte blir raka.
+Änglarna skriver ned att de kommer tidigt enligt den timme som anlände innan predikanten går upp i predikstolen. Detta beror på att detta innefattar den allmänna innebörden av den *ḥadīt̲h* som har berättats om detta. Det som avses i denna *ḥadīt̲h* är närvarande och inte att man är inuti moskén. Belöningen minskar dock enligt hur mycket man har missat av timmarna inför bönen och vad man har missat av predikan, och för att raderna inte blir raka.
 
 Och Allāh vet bäst.
 

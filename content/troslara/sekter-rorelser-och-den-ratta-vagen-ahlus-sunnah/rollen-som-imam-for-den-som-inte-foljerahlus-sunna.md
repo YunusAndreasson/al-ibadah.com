@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Det bästa svaret – och Allāh vet bäst – är att det är tillåtet att be bakom den som anses vara muslim och att det är förbjudet att be bakom den som inte anses vara det. Detta har ett antal lärde sagt och det är det mest korrekta. Dem som säger att bönen inte accepteras bakom en syndare avvisas.
 
-Beviset för detta är att profeten – över honom vare Allāhs frid och välsignelser – tillät bön bakom ledare, och bland ledare finns det ofta syndare. Bland andra Ibn ´Umar och Anas bad bakom al-Hajjaj som var en mycket orättvis man.
+Beviset för detta är att profeten – över honom vare Allāhs frid och välsignelser – tillät bön bakom ledare, och bland ledare finns det ofta syndare. Bland andra Ibn ´Umar och Anas bad bakom al-Hajjaj som var en mycket orättvis man.
 
 Bön bakom en innovatör, som inte står utanför islam, accepteras precis som bön bakom någon som syndar öppet, så länge personens synder inte tar personen ur islam. Men om de har möjlighet att slå sig samman och föra fram den bästa av dem måste någon från *ahlus-sunnah* utses.
 

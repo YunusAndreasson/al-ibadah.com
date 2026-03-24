@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Denna fråga är mycket viktig och något människor behöver få svar på. Därför ska vi göra svaret utförligare än frågan, om Allāh vill. Vi säger då: Strykning över lädersockar bekräftas genom bevis i Allāhs skrift och Profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. I Allāhs skrift kan vi läsa:
 
-> ”När ni går till bön, två då ansikte och händer samt armarna upp till armbågarna och stryk med [de våta] händerna över huvudet och [två] fötterna upp till fotkölarna.” [Koranen 5:6]
+> ”När ni går till bön, två då ansikte och händer samt armarna upp till armbågarna och stryk med [de våta] händerna över huvudet och [två] fötterna upp till fotknölarna.” [Koranen 5:6]
 
 När fötterna reciteras som *arjulikum* betyder det att det efterföljer Hans ord: "*Stryk med [de våta] händerna över huvudet*". De inräknas då med vad som stryks över huvudet. Den recitation som används [i *muṣḥaf*] *arjulakum* följer Hans ord: " *då ansikte*". De medräknas då med det som tvättas. Enligt de båda recitationerna så antingen tvättar eller stryker man över fötterna.
 
@@ -45,9 +45,9 @@ Men när börjar denna period? Den börjar när man stryker över sockarna förs
 
 Strykandet måste då ha ägt rum och det kan inte inträffa förrän första gången som man har strykt. Går 24 timmar till ända, med början då den första strykningen ägde rum, är tiden för att stryka över sockarna över för den som är hemma. Passerar 72 timmar är tiden för att stryka över sockarna över för resenären. Vi kommer att ge ett exempel på detta som kommer att klargöra.
 
-En person rengör sig inför gryningsbönen, tar på sig lädersockarna och är rituell ren tills han ber middagsbönen. Han är då fortfarande rituellt ren. Efter eftermiddagsbönen, klocka fem, rengör han sig inför kvällsbönen och stryker då över sockarna. Då får mannen stryka över sockarna fram till och med klockan fem nästa dag.
+En person rengör sig inför gryningsbönen, tar på sig lädersockarna och är rituellt ren tills han ber middagsbönen. Han är då fortfarande rituellt ren. Efter eftermiddagsbönen, klocka fem, rengör han sig inför kvällsbönen och stryker då över sockarna. Då får mannen stryka över sockarna fram till och med klockan fem nästa dag.
 
-Om han under den andra dagen stryker över sockarna kvart i fem och han är rituellt ren tills han bett kvällsbönen och sedan ber nattbönen, då har han under denna tid bett middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen den första dagen och nästa dag gryningsbönen, middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen. Detta är nio böner som han hör förrättat. Här kan vi se att ingen vikt läggs vid antalet böner, vilket många tror då de säger att strykandet över sockarna är för fem böner. Detta saknar grund.
+Om han under den andra dagen stryker över sockarna kvart i fem och han är rituellt ren tills han bett kvällsbönen och sedan ber nattbönen, då har han under denna tid bett middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen den första dagen och nästa dag gryningsbönen, middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen. Detta är nio böner som han har förrättat. Här kan vi se att ingen vikt läggs vid antalet böner, vilket många tror då de säger att strykandet över sockarna är för fem böner. Detta saknar grund.
 
 Den islamiska lagen har enbart definierat en dag och en natt, som börjar vid den första strykningen, och med utgångspunkt i exemplet som vi har nämnt är det känt hur många böner som har förrättats. Här blir det tydligt att om tiden har gått ut, då får man inte stryka över dem och om man har strukit över dem efter att denna period har gått ut, då är detta strykande ogiltigt och det tar inte bort någon orenhet.
 

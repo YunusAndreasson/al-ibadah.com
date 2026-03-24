@@ -10,12 +10,12 @@ categories:
   - Monoteism
 original_id: 1083
 description: >-
-  Fråga: Hur såg salaf – må Allāh vara nöjda med dem – på Allāh den Upphöjdes
+  Fråga: Hur såg salaf – må Allāh vara nöjd med dem – på Allāh den Upphöjdes
   ‘uluww [höghet]? Vilket är utlåtandet om de som säger att Han inte befinner
   sig inom de sex riktningarna [upp, ned, vä...
 ---
 
-**Fråga:** Hur såg *salaf* – må Allāh vara nöjda med dem – på Allāh den Upphöjdes ‘*´uluww* [höghet]? Vilket är utlåtandet om de som säger att Han inte befinner sig inom de sex riktningarna [upp, ned, vänster, höger, bak och fram] och att Han finns i de troendes hjärtan?
+**Fråga:** Hur såg *salaf* – må Allāh vara nöjd med dem – på Allāh den Upphöjdes ‘*´uluww* [höghet]? Vilket är utlåtandet om de som säger att Han inte befinner sig inom de sex riktningarna [upp, ned, vänster, höger, bak och fram] och att Han finns i de troendes hjärtan?
 
 **Svar:** *salaf*s tro är att Allāh den Upphöjde är ovan Hans skapelse. Allāh den Upphöjde har sagt:
 
@@ -44,7 +44,7 @@ Med detta som grund: När man studerar Allāhs den Upphöjdes *´uluww* över Ha
 
 Belägg likt dessa som härstammar från Allāhs den Upphöjdes skrift och Hans sändebuds *sunnah* är bevis för att Allāh den Upphöjde är ovan Sin skapelse. Det är dock inte möjligt att räkna upp alla bevis här då de är många.
 
-De rättfärdiga *salaf* – må Allāh vara nöjda med dem – är eniga om vad som fordras genom dessa texter. De bekräftar att Allāh är upphöjd och att Han är ovan Sin skapelse. Likaså är de helt eniga om att bekräfta att upphöjdheten avser Honom och att Hans egenskaper är upphöjda. Allāh den Upphöjde säger:
+De rättfärdiga *salaf* – må Allāh vara nöjd med dem – är eniga om vad som fordras genom dessa texter. De bekräftar att Allāh är upphöjd och att Han är ovan Sin skapelse. Likaså är de helt eniga om att bekräfta att upphöjdheten avser Honom och att Hans egenskaper är upphöjda. Allāh den Upphöjde säger:
 
 > "Enbart de högsta egenskaperna kan tillskrivas Honom i himlarna och på jorden. Han är den Allsmäktige, den Vise." [Koranen 30:27]
 
@@ -56,7 +56,7 @@ De rättfärdiga *salaf* – må Allāh vara nöjda med dem – är eniga om vad
 
 Det finns även andra verser som bevisar perfektionen i Hans egenskaper och handlanden.
 
-Precis som Allāhs den Upphöjdes höghet bevisas genom texter i Hans skrift, [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* och samstämmighet bland *salaf* – må Allāh vara nöjda med dem – har den även bevisats genom logiskt resonemang och det naturliga tillstånd som människan har skapats i [*fiṭrah*].
+Precis som Allāhs den Upphöjdes höghet bevisas genom texter i Hans skrift, [profetens – över honom vare Allāhs frid och välsignelser – ] *sunnah* och samstämmighet bland *salaf* – må Allāh vara nöjd med dem – har den även bevisats genom logiskt resonemang och det naturliga tillstånd som människan har skapats i [*fiṭrah*].
 
 Bevisen genom logiskt resonemang
 
@@ -88,7 +88,7 @@ Det är häpnadsväckande att någon flyr från tanken att Allāh den Upphöjde 
 
 Men om det som avses med att Allāh den Upphöjde är i den troendes hjärta är att personen alltid åminns sin Herre i hjärtat, då är det sant. Man ska emellertid säga det på ett sätt som visar den sanna innebörden. Ett exempel på detta är om man säger: ”Åminnelse av Allāh finns alltid i den troende tjänarens hjärta.” Men det som är uppenbart när någon säger detta är att personen vill ersätta tron på att Allāh den Upphöjde är ovan himlarna med denna falska tro. Men som vi har sagt är denna innebörd felaktig.
 
-Den troende måste vara noga med att inte avvisa det som Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och vad *salaf* – må Allāh vara nöjda med dem – var eniga bevisar till förmån för allmänna och tvivelaktiga tolkningar som kan rymma både korrekta och felaktiga förståelser. Man måste hålla fast vid de främste av dem som antog islam bland *muhajirun* och *ansār*. Detta för att man ska räknas in i Allāhs den Upphöjdes ord:
+Den troende måste vara noga med att inte avvisa det som Allāhs skrift, profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och vad *salaf* – må Allāh vara nöjd med dem – var eniga bevisar till förmån för allmänna och tvivelaktiga tolkningar som kan rymma både korrekta och felaktiga förståelser. Man måste hålla fast vid de främste av dem som antog islam bland *muhajirun* och *ansār*. Detta för att man ska räknas in i Allāhs den Upphöjdes ord:
 
 > ”Föregångsmännen, de första av dem som utvandrade och [de första] hjälparna, och de rättsinniga [människor] som följde i deras spår – Gud är nöjd med dem och de är nöjda [där de njuter] Hans [gåvor]; Han har i beredskap för dem lustgårdar, vattnade av bäckar, där de ska förbli till evig tid. Detta är den stora, den lysande segern.” [Koranen 9:100]
 

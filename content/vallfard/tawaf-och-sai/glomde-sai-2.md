@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** All lovprisan tillhör Allāh. Du måste återvända till Mecka och utföra den sa´ī[^1] som tillhör pilgrimsfärden. Den som gör *ḥajjul-tamattu´* måste ju göra två *sa´ī* – en för *´umrah* och en för pilgrimsfärden.
 
-Och Allāh är källan till alla styrka. Må Allāh sända välsignelser och frid över vår profet Muḥammad.
+Och Allāh är källan till all styrka. Må Allāh sända välsignelser och frid över vår profet Muḥammad.
 
 [^1]: Vandringen mellan as-Safa och al-Marwa.
 

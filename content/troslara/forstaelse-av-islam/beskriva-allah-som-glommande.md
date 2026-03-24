@@ -20,7 +20,7 @@ description: >-
 
 > ”Herre! Ställ oss inte tills vars för glömska eller oavsiktliga fel.” [Koranen 2:286]
 
-> ”[En gång i tiden] förmanade och varande Vi Adam, men han glömde [snart Våra ord]; och Vi fann hos honom ingen fasthet i föresatsen.” [Koranen 20:115]
+> ”[En gång i tiden] förmanade och varande Vi Adam, men han glömde [snart Våra ord]; och Vi fann hos honom ingen fasthet i föresatsen.” [Koranen 20:115]
 
 Detta enligt en av de två åsikterna hos de lärde. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 

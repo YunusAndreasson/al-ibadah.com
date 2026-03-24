@@ -19,7 +19,7 @@ Efter utbildningen utsågs han till domare och arbetade som det under 14 år. Se
 
 Han var under sin levnadstid även högste mufti i Saudiarabien och ordförande för många islamiska kommittéer såsom: Rådet för de äldre lärde, Den permanenta kommittén för islamisk forskning och fatwor, Muslim World League, m.m.
 
-Han dog torsdagen den 27:e *muḥarram* 1420 AH.
+Han avled torsdagen den 27:e *muḥarram* 1420 AH.
 
 Må Allāh vara honom nådig.
 

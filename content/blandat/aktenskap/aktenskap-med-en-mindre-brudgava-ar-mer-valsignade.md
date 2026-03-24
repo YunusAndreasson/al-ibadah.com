@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Extravaganta brudgåvor och bröllop står i konflikt med den islamiska lagen då det mest välsignade äktenskapet är det billigaste och desto lägre kostnaderna är, desto högre är välsignelserna.
 
-I det flesta fall är detta något som faller på kvinnan därför att det är hon som ådömer överdrivna brudgåvor. Om en enkel brudgåva erbjuds kommer kvinnan att säga: ”Nej, vår dotter ska ha det-och-det.” På samma sätt är extravagans vid bröllopet något som den islamiska lagen har förbjudit och det innefattas i Allāhs den Högstes ord: ”*Men visa måtta [i allt]; Gud är inte vän av dem som går till överdrift*.” [^1]
+I de flesta fall är detta något som faller på kvinnan därför att det är hon som ådömer överdrivna brudgåvor. Om en enkel brudgåva erbjuds kommer kvinnan att säga: ”Nej, vår dotter ska ha det-och-det.” På samma sätt är extravagans vid bröllopet något som den islamiska lagen har förbjudit och det innefattas i Allāhs den Högstes ord: ”*Men visa måtta [i allt]; Gud är inte vän av dem som går till överdrift*.” [^1]
 
 Många kvinnor ådömer detta på sina män och säger: ”Vid dens-och-dens fest hände det-och-det.” Men i frågor som dessa är det obligatoriskt att det sker enligt den islamiska lagen och man bör inte överträda dess gränser och ej heller vara extravagant, därför att Allāh den Högste har förbjudit extravagans när Han sagt: ”*Gud är inte vän av dem som går till överdrift*.” [^2]
 

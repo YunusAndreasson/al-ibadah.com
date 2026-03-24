@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Jag har hört att de lärde säger att den som har avlidit kommer att återfå livet i graven, att de får besvara frågor från änglar och att om det från dessa frågor blir klart att personen är en icke-troende som inte utövade islam under sitt liv här i denna världen, då kommer personen att straffas. Jag har inte funnit några bevis för detta i den Heliga Koranen som klargör utfrågningen och straffet i graven. Allāh säger:
 
-> ”[Då säger Gud till den rättfärdige:] ”Du själ, som har kommit till ro! Vänd tillbaka till den Herre, tillfredställd [med Hans gåvor och] omsluten av Hans välbehag! Stig in med skaran av *Minā* tjänare! Stig in i mitt Paradis!” [Koranen 89:27 – 30]
+> ”[Då säger Gud till den rättfärdige:] ”Du själ, som har kommit till ro! Vänd tillbaka till den Herre, tillfredsställd [med Hans gåvor och] omsluten av Hans välbehag! Stig in med skaran av *Minā* tjänare! Stig in i mitt Paradis!” [Koranen 89:27 – 30]
 
 Enligt min lilla förståelse kommer själen att återvända till dess Herre när den har lämnat kroppen och jag ser inte att själen kommer att vara med sin kropp i graven, i ett tillstånd av lugn och bekvämlighet. Allāh säger även:
 
@@ -29,7 +29,7 @@ Jag förstår även från denna vers att döden kommer till oss två gånger: en
 
 Detta bevisar att de icke-troende sover och sömn i graven omöjliggör ett straff.
 
-Slutligen hoppas jag på ett tillfredställande svar från er, vilket era svar alltid har varit.
+Slutligen hoppas jag på ett tillfredsställande svar från er, vilket era svar alltid har varit.
 
 **Svar:** Precis som utlåtanden hämtas från Koranen, hämtas de även från profetens – över honom vare Allāhs frid och välsignelser – *sunnah*; hans ord, handlingar och sådant som han godkände. Detta grundas på den allmänna innebörden av Allāhs ord:
 
@@ -101,7 +101,7 @@ Utfrågningen och den efterföljande belöningen eller bestraffningen i graven, 
 
 > Han sade: 'Sedan kommer luften och dess väldoft till honom och hans grav vidgas för honom så långt han kan se.'
 
-> Han sade: 'Sedan kommer en vacker man till honom, prydd med fina kläder och en angenäm doft, och han säger till honom: 'Gläd dig åt vad som tillfredställer dig. Detta är din dag, som du har utlovats.' Han kommer att fråga mannen: ”Vem är du? Ditt ansikte är som hos den som har med sig det goda.' Han kommer att svara: 'Jag är dina rättfärdiga handlingar.' Han kommer att säga: 'Min Herre! Inled Timmen för att jag ska få återvända till min familj och min egendom.'
+> Han sade: 'Sedan kommer en vacker man till honom, prydd med fina kläder och en angenäm doft, och han säger till honom: 'Gläd dig åt vad som tillfredsställer dig. Detta är din dag, som du har utlovats.' Han kommer att fråga mannen: ”Vem är du? Ditt ansikte är som hos den som har med sig det goda.' Han kommer att svara: 'Jag är dina rättfärdiga handlingar.' Han kommer att säga: 'Min Herre! Inled Timmen för att jag ska få återvända till min familj och min egendom.'
 
 > Han sade: 'Och sannerligen, den icke-troende, då personen är nära det Nästkommande och på väg att lämna livet i denna världen, kommer änglarna ned till honom från himmeln, deras ansikten är svarta, med dem finns en grov bit av en […] och de sitter inom hans åsyn. Sedan kommer dödsängeln, sätter sig nära hans huvud och säger: ”Du ondskefulla själ! Kom ut till Allāhs vrede och ilska!'
 
@@ -109,7 +109,7 @@ Utfrågningen och den efterföljande belöningen eller bestraffningen i graven, 
 
 > Sedan reciterade Allāhs sändebud: ”Himlens portar ska förbli stängda för dem som påstår att Våra budskap är lögn och högmodigt vänder sig från dem; det blir inte lättare för dem att komma in i paradiset än för ett rep att tränga igenom ett nålsöga.” [Koranen 7:40]
 
-> 'Och Allāh den Allsmäktige, den Majestätiske – sade sedan: 'Nedteckna hans handlingar i *Sijjin*[^2] i den lägsta jorden.' Och hans själ kastas ned.'
+> 'Och Allāh den Allsmäktige, den Majestätiske – sade sedan: 'Nedteckna hans handlingar i *Sijjin*[^2] i den lägsta jorden.' Och hans själ kastas ned.'
 
 > Sedan reciterade han: ”[Dyrka] Gud med den rena, ursprungliga tron och sätt ingenting vid Hans sida; [med] den som sätter något vid Guds sida är det som om han störtade från skyn och blev fåglarnas rov, eller fördes långt bort av vinden till en okänd plats.” [Koranen 22:31]
 

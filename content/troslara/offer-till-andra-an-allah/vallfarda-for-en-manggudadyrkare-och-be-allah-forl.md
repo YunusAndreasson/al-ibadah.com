@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** En person varken fastar eller ber, offrar till *jinn* samt träd [som om de var gudar] och dör i detta tillstånd. Får en släkting vallfärda för hans skull eller be Allāh förlåta honom?
 
-Den som dör i det tillstånd som har beskrivits i frågan anses vara en månggudadyrkare[^1], som har begått större *s̲hirk*. Det är inte tillåtet att vallfärda för hans räkning eller att be Allāh förlåta honom.
+Den som dör i det tillstånd som har beskrivits i frågan anses vara en månggudadyrkare[^1], som har begått större *s̲hirk*. Det är inte tillåtet att vallfärda för hans räkning eller att be Allāh förlåta honom.
 
 Allāh den Upphöjde säger:
 

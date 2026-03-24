@@ -24,7 +24,7 @@ description: >-
 
 > ”Dyrka därför Gud med ren och uppriktig tro! Ja, ren, uppriktig tillbedjan är Gud förbehållen!” [Koranen 39:2 – 3]
 
-Enligt en sann *ḥadīt̲h qudsi*[^1] säger profeten – över honom vare Allāhs frid och välsignelser:
+Enligt en sann *ḥadīt̲h qudsi*[^1] säger profeten – över honom vare Allāhs frid och välsignelser:
 
 > ”Allāh – må Han vara välsignad och upphöjd – säger: 'Jag är Mig Själv så nog att jag inte är i behov av att ha någon medhjälpare. Den som då utför en handling för både någon annans skull och Min, [personen] kommer att få den handlingen avvisad av Mig för vad personen satte vid Min sida.'”
 

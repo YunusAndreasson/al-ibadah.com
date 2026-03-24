@@ -24,7 +24,7 @@ Om någon från Jemen passerar förbi Yalamlam, då är personen skyldig att tr�
 
 Om personen passerar *mīqāt* utan att träda in i *iḥrām*, då är personen skyldig att åka tillbaka och träda in i *iḥrām* därifrån. Personen som uppmanade dig att återvända till Yalamlam gjorde rätt. Genom att du återvände till *mīqāt* gjorde du vad som är korrekt, och all lovprisan tillhör Allāh.
 
-Hade du trätt in i *iḥrām* där du befann dig när han sade till dig att återvända, då hade du behövt offra ett djur. Anledning till detta är att du passerade mīqāt[^1] [utan att träda in i *iḥrām*] när din avsikt var *´umrah*.
+Hade du trätt in i *iḥrām* där du befann dig när han sade till dig att återvända, då hade du behövt offra ett djur. Anledningen till detta är att du passerade mīqāt[^1] [utan att träda in i *iḥrām*] när din avsikt var *´umrah*.
 
 Offret är en sjundedel av en kamel, en sjundedel av en ko, ett får som är över ett år gammalt eller en get som är två år gammal. Det ska slaktas i Mecka och delas ut bland de fattiga vid Helgedomen för att *´umrah* ska bli korrekt.
 

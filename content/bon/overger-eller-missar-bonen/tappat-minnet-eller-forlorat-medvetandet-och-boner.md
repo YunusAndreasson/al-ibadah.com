@@ -34,5 +34,5 @@ Det går inte att likna personen vid den sovande som profeten – över honom va
 
 Detta gäller om personen utan någon anledning förlorar medvetenheten. Men när det gäller de som inte är vid medvetande på grund av en anledning, likt den som inte är vid medvetande på grund av narkos eller liknande, personen måste ta igen bönerna som personen har missat under medvetslösheten.
 
-Och Allāh vet bättre.
+Och Allāh vet bäst.
 
