@@ -39,7 +39,7 @@ Allāh säger även:
 
 Och vidare:
 
-> "Säg [Muḥammad] till *Minā* troende tjänare: 'Frukta er Herre! De som gör det goda i denna värld har gott att vänta [i nästa liv]. Guds jord är så vid [att ni kan lämna ondskans rike för att få dyrka Gud i frihet]. Bara de som håller ut ska få sin [fulla] lön och mer därtill." [Koranen 39:10]
+> "Säg [Muḥammad] till Mina troende tjänare: 'Frukta er Herre! De som gör det goda i denna värld har gott att vänta [i nästa liv]. Guds jord är så vid [att ni kan lämna ondskans rike för att få dyrka Gud i frihet]. Bara de som håller ut ska få sin [fulla] lön och mer därtill." [Koranen 39:10]
 
 Och till sist i en annan vers:
 

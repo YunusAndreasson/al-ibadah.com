@@ -14,7 +14,7 @@ description: >-
 
 **Fråga:** Under den åttonde dagen i *d̲hul-ḥijjah* [*yawm al-tarwiyah*] lade vi märke till två saker som somliga gjorde: 1] de gick in i *iḥrām* för pilgrimsfärden från den Heliga Moskén och 2] de tog inte på de *iḥrām*-kläder som de bar under *´umrah*. Är detta rätt?
 
-**Svar:** All lovprisan tillhör Allāh. Detta är ett av de misstag som begås när pilgrimer går in i *iḥrām* för pilgrimsfärden. Vi kommer att diskutera detta i detalj. *s̲hayk̲h* Muḥammad ibn ´Uthaymīn har sagt följande:
+**Svar:** All lovprisan tillhör Allāh. Detta är ett av de misstag som begås när pilgrimer går in i *iḥrām* för pilgrimsfärden. Vi kommer att diskutera detta i detalj. *S̲hayk̲h* Muḥammad ibn ´Uthaymīn har sagt följande:
 
 Vissa av de misstag som begås under *al-tarwiyah*-dagen då pilgrimer går in i *iḥrām* för pilgrimsfärden är bland annat följande:
 
@@ -26,6 +26,6 @@ Därför är det *sunnah* för den som vill träda in i *iḥrām* för pilgrims
 
 Vissa pilgrimer tror att det inte är lämpligt att träda in i *iḥrām* i de klädesplagg som de bar när de gick in i *iḥrām* för *´umrah* om de inte tvättar dem först. Även detta är ett misstag då plaggen för *iḥrām* varken behöver vara nya eller rena. Det är sant att det är bättre desto renare de är, men att säga att de inte är giltiga för *iḥrām* då de har burits i *iḥrām* under *´umrah* är inte rätt.
 
-Detta är vad som kan nämnas om de misstag som vissa pilgrimer begår när det går in i *iḥrām* för pilgrimsfärden.
+Detta är vad som kan nämnas om de misstag som vissa pilgrimer begår när de går in i *iḥrām* för pilgrimsfärden.
 
 

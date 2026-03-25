@@ -15,7 +15,7 @@ description: 'Fråga: Bör den som är svag i tron få ta emot allmosa för att 
 
 **Fråga:** Bör den som är svag i tron få ta emot allmosa för att personens tro ska stärkas, även om personen inte är en av folkets ledare?
 
-**Svar:** Denna fråga är de lärde oeniga om. Enligt vad jag anser är den starkaste åsikten att det inte finns någon invändan mot att personen får något för att personens hjärta ska dras mot islam genom att personens tro ökar. Detta gäller oavsett om den som får allmosan är en person med eller utan auktoritet. Allāh den Upphöjde säger:"…*Och för att vinna hjärtan [för tron]*."
+**Svar:** Denna fråga är de lärde oeniga om. Enligt vad jag anser är den starkaste åsikten att det inte finns någon invändning mot att personen får något för att personens hjärta ska dras mot islam genom att personens tro ökar. Detta gäller oavsett om den som får allmosan är en person med eller utan auktoritet. Allāh den Upphöjde säger: "…*Och för att vinna hjärtan [för tron]*."
 
 Vi får ge till en fattig på grund av personens fysiska behov, då är det ännu värdigare att betala allmosan till den med svag tro. Att stärka tron är viktigare än att nära kroppen.
 

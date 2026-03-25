@@ -17,7 +17,7 @@ description: >-
 
 **Fråga:** Jag har hört att de lärde säger att den som har avlidit kommer att återfå livet i graven, att de får besvara frågor från änglar och att om det från dessa frågor blir klart att personen är en icke-troende som inte utövade islam under sitt liv här i denna världen, då kommer personen att straffas. Jag har inte funnit några bevis för detta i den Heliga Koranen som klargör utfrågningen och straffet i graven. Allāh säger:
 
-> ”[Då säger Gud till den rättfärdige:] ”Du själ, som har kommit till ro! Vänd tillbaka till den Herre, tillfredsställd [med Hans gåvor och] omsluten av Hans välbehag! Stig in med skaran av *Minā* tjänare! Stig in i mitt Paradis!” [Koranen 89:27 – 30]
+> ”[Då säger Gud till den rättfärdige:] ”Du själ, som har kommit till ro! Vänd tillbaka till den Herre, tillfredsställd [med Hans gåvor och] omsluten av Hans välbehag! Stig in med skaran av Mina tjänare! Stig in i mitt Paradis!” [Koranen 89:27 – 30]
 
 Enligt min lilla förståelse kommer själen att återvända till dess Herre när den har lämnat kroppen och jag ser inte att själen kommer att vara med sin kropp i graven, i ett tillstånd av lugn och bekvämlighet. Allāh säger även:
 
@@ -89,7 +89,7 @@ Han bad sedan om ett färskt palmlöv, delade det i två delar, planterade ett p
 
 > ”Kanske kommer deras straff att lindras så länge de håller sig färska.” [*al-Buk̲hārī* 218, *at-Tirmid̲hī* 70, *Ibn Mājah* 347/349]
 
-Utfrågningen och den efterföljande belöningen eller bestraffningen i graven, enligt dess invånares tro och handlingar, har det rapporterats från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i så stor omfattning att det inte är möjligt att förneka detta. Ingen dispyt är känd bland följeslagarna i denna fråga och därför bekräftar *ahlus-sunnah[^1] wal-jamā’at* det. Bland de återgivelser som bekräftar det finns de från imam Aḥmad i hans *Musnad*, Abū Dāwūd i hans *Sunan*, al-Hakim samt Abū 'Awanah al-Asfara'īni i deras *Ṣaḥīḥ*. De rapporterar från al-Bara' bin 'Azib att han har sagt:
+Utfrågningen och den efterföljande belöningen eller bestraffningen i graven, enligt dess invånares tro och handlingar, har det rapporterats från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i så stor omfattning att det inte är möjligt att förneka detta. Ingen dispyt är känd bland följeslagarna i denna fråga och därför bekräftar *ahlus-sunnah[^1] wal-jamā’at* det. Bland de återgivelser som bekräftar det finns de från imam Aḥmad i hans *Musnad*, Abū Dāwūd i hans *Sunan*, al-Ḥākim samt Abū 'Awanah al-Asfara'īni i deras *Ṣaḥīḥ*. De rapporterar från al-Bara' bin 'Azib att han har sagt:
 
 > ”Vi var vid en begravning i al-Gharqad när Allāhs sändebud – över honom vare Allāhs frid och välsignelser – kom till oss och satte sig ned. Vi satte oss runt honom som om det fanns fåglar över våra huvuden [detta betyder att de tyst satte sig ned och lyssnade uppmärksamt]. Medan han grävde sade han: 'Jag söker min tillflykt hos Allāh från straffet i graven.' Detta sade han tre gånger och sedan sade han: 'När en troende tjänare är nära Nästa Liv och på väg att lämna detta, då kommer änglarna ned till honom. Deras ansikten [skiner] som solen och med dem finns en av Paradisets svepningar samt balsamerad vätska från Paradisets väldoft och de kommer att sitta inom synhåll. Sedan kommer dödsängeln, sätter sig vid hans huvud och säger: 'Du vackra själ! Kom ut för att få förlåtelse och för att få Allāhs välvilja.’
 
@@ -117,7 +117,7 @@ Utfrågningen och den efterföljande belöningen eller bestraffningen i graven, 
 
 Det är inte bortom tron att änglarna i gravarna ska fråga ut de döda, att de döda kommer att svara dem och att de kommer att få belöningar enligt deras handlingar. Det motsäger heller inte Allāhs magnifika förmåga och undren i Hans universella *sunnah*, att Han skulle belöna de troende i deras gravar samt straffa de icke-troende i deras.
 
-Den som studerar skapelsen kommer tydligt att se det universella i Allāhs vilja och dess implementation, den allgenomträngade naturen i Hans kraft, dess perfektion, excellensen i Hans skapelse, precisionen i Hans organisation, Hans formgivelse av Hans skapelse och hur Han har gjort det lätt för människan att tro på de autentiska haditherna om utfrågningen i gravarna samt den belöningen eller bestraffningen som kommer efter.
+Den som studerar skapelsen kommer tydligt att se det universella i Allāhs vilja och dess implementation, den allgenomträngade naturen i Hans kraft, dess perfektion, excellensen i Hans skapelse, precisionen i Hans organisation, Hans formgivelse av Hans skapelse och hur Han har gjort det lätt för människan att tro på de autentiska *ḥadīt̲h*erna om utfrågningen i gravarna samt den belöningen eller bestraffningen som kommer efter.
 
 
 

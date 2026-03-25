@@ -24,7 +24,7 @@ Alla muslimer måste säkerställa att kläderna inte hänger nedanför anklarna
 
 Utlåtandet om alla kläder inklusive långa skjortor, byxor och mantlar är detsamma som för *izār*. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”*Det finns tre personer som Allāh inte kommer att tala till, titta på eller gå i god för på Återuppståndelsens Dag, och de kommer att få ett smärtsamt straff: Den som låter sin izār hänga ned, den som talar om det goda han gjort samt den som säljer sina varor genom att svära en lögn*.” [^2] Detta är männens plikter.
 
-Kvinnor måste täcka deras fötter med sockar eller långa och luftiga klänningar när de går ut på stan. Detsamma gäller i hemmet om där finns män som hon inte är släkt med, som hennes svärbror eller liknande.
+Kvinnor måste täcka sina fötter med sockar eller långa och luftiga klänningar när de går ut på stan. Detsamma gäller i hemmet om där finns män som hon inte är släkt med, som hennes svärbror eller liknande.
 
 Och genom Allāh uppnås framgång.
 

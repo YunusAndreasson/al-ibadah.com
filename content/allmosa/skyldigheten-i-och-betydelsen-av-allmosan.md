@@ -70,13 +70,13 @@ När det gäller den lägsta gränsen för betesboskap som kameler, kor och får
 
 Den lägsta gränsen för silver är 140 *mit̲hqāl* och dess värde i saudisk valuta är 56 riyal[^1]. Den lägsta gränsen för guld är tjugo *mit̲hqāl* och dess värde i saudisk valuta är 11 3/7 *junayh*.
 
-Det som man måste betala för dem [guld och silver] är en fyrtiondel, det vill säga 2.5 procent när man äger den minst mängden av något av dessa föremål. De måste också ha varit i ens ägo under ett år [innan allmosan ska betalas].
+Det som man måste betala för dem [guld och silver] är en fyrtiondel, det vill säga 2.5 procent när man äger den minsta mängden av något av dessa föremål. De måste också ha varit i ens ägo under ett år [innan allmosan ska betalas].
 
 Får man någon vinst från dem räknas den ihop med ursprungsmängden och det behöver inte gå ett år [innan allmosa krävs på vinsten]. På samma sätt räknas ungdjur i kreatursbesättningen in i ursprungsantalet [när allmosan räknas ut] och det behöver inte gå ett år [innan man måste betala allmosa]. Detta så länge det ursprungliga antalet nådde upp till den lägsta nivån.
 
-De papperspengar som man handlar med i dag har samma utlåtande som guld och silver. Det spelar ingen roll om de kallas för dirhma, dinar, dollar eller någonting annat. Om pengarnas värde når det lägsta värdet för guld eller silver och man har ägt dem under ett år, då krävs det allmosa för dem.
+De papperspengar som man handlar med i dag har samma utlåtande som guld och silver. Det spelar ingen roll om de kallas för dirham, dinar, dollar eller någonting annat. Om pengarnas värde når det lägsta värdet för guld eller silver och man har ägt dem under ett år, då krävs det allmosa för dem.
 
-Sådana smycken som kvinnor bär och som har gjorts speciellt av guld och silver inräknas bland pengarna. Om de uppnår den lägsta nivån och de har varit i en någons ägo under ett år, då måste man betala allmosa för dem. Enligt den korrekta åsikten av de två åsikter som de lärde har spelar det ingen roll om de används för personligt bruk eller om de har lånats. Anledningen återfinner vi i den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – uttalande:
+Sådana smycken som kvinnor bär och som har gjorts speciellt av guld och silver inräknas bland pengarna. Om de uppnår den lägsta nivån och de har varit i någons ägo under ett år, då måste man betala allmosa för dem. Enligt den korrekta åsikten av de två åsikter som de lärde har spelar det ingen roll om de används för personligt bruk eller om de har lånats. Anledningen återfinner vi i den allmänna innebörden av profetens – över honom vare Allāhs frid och välsignelser – uttalande:
 
 > ”Det finns ingen som äger guld eller silver och som inte betalar för dessa utan att eldplattor kommer att tillverkas för personen på Återuppståndelsens dag…” [*Muslim* 987]
 

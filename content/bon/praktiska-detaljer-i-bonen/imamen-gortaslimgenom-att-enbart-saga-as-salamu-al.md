@@ -20,8 +20,8 @@ description: >-
 
 Det som är förståndigast är att göra två *taslīm*. Detta har rapporterats mer än någonting annat från profeten. Det är förståndigare och det innebär att man nämner Allāhs namn mer.
 
-Men om imamen gör *taslīm* en gång och den som leds i bönen inte anser att det är tillräcklig, då kan personen göra *taslīm* två gånger och syndar inte genom det.
+Men om imamen gör *taslīm* en gång och den som leds i bönen inte anser att det är tillräckligt, då kan personen göra *taslīm* två gånger och syndar inte genom det.
 
-Om imamen gör två *taslīm* och den som leds i bön anser att en *taslīm* är tillräckligt, då bör personen [ändå] göra *taslīm* med imamen för att följa honom.
+Om imamen gör två *taslīm* och den som leds i bön anser att en *taslīm* är tillräcklig, då bör personen [ändå] göra *taslīm* med imamen för att följa honom.
 
 

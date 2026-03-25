@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Vilken är anledningen till att män inte får bära guld? Vi känner till att islam enbart förbjuder vad som är skadligt för muslimer. Vilken är då faran i att bära en guldring?
 
-**Svar:** Du ska veta, kära frågeställare, att anledningen bakom den islamiska lagens utlåtande för varje troende är eftersom Allāh och Hans sändebud har sagt det. Allāh den Allsmäktige säger: "Och när en fråga som rör en troende man eller kvinna har avgjorts av Gud och Hans Sändebud, har dessa inte rätt att själva döma i det som rör dem." [^1]
+**Svar:** Du ska veta, kära frågeställare, att anledningen bakom den islamiska lagens utlåtande för varje troende är att Allāh och Hans sändebud har sagt det. Allāh den Allsmäktige säger: "Och när en fråga som rör en troende man eller kvinna har avgjorts av Gud och Hans Sändebud, har dessa inte rätt att själva döma i det som rör dem." [^1]
 
 Om någon då frågar om anledningen för ett visst utlåtande, ger vi enbart visdomen från Skriften och profetens *sunnah*. Vi säger då att anledningen är att Allāh den Allsmäktige och Hans sändebud – över honom vare Allāhs frid och välsignelser – har sagt så och denna anledning är tillräcklig för varje troende.
 
@@ -26,11 +26,11 @@ Detta beror på att en text från Allāhs skrift och från Hans sändebuds *sunn
 
 Dessa tre fördelar kommer då från att känna till visdomen bakom den islamiska lagen.
 
-Efter att ha nämnt detta säger vi som svar till vår broders fråga att de har bekräftats att profeten – över honom vare Allāhs frid och välsignelser – förbjöd män, men inte kvinnor, att bära guld och anledningen till det är att ett av de förnämsta sätt att pryda sig i denna världen är guld.
+Efter att ha nämnt detta säger vi som svar till vår broders fråga att det har bekräftats att profeten – över honom vare Allāhs frid och välsignelser – förbjöd män, men inte kvinnor, att bära guld och anledningen till det är att ett av de förnämsta sätt att pryda sig i denna världen är guld.
 
 Det är då en form av prydnad och juvel och mannen som är fullständig i sin maskulinitet har inget behov av att fullända sig själv med prydnader av guld och han behöver inte göra sig vacker till den nivån för att uppnå vad han vill när det gäller kärlek.
 
-Kvinnan har dock behov av att göra sig vacker med denna form av förnäma prydnad för det leder till goda relationer mellan henne och mannen. Detta är anledningen till varför män men inte kvinnor är tillåtna att pryda sig själva med guld. Allāh den Allsmäktige säger om dem: "[Och han klagar:] 'Ännu en av dem som växer upp omgiven av bjäfs och grannlåt och som har svårt att reda sig i en diskussion.'" [^2]
+Kvinnan har dock behov av att göra sig vacker med denna form av förnäm prydnad, för det leder till goda relationer mellan henne och mannen. Detta är anledningen till varför kvinnor men inte män är tillåtna att pryda sig med guld. Allāh den Allsmäktige säger om dem: "[Och han klagar:] 'Ännu en av dem som växer upp omgiven av bjäfs och grannlåt och som har svårt att reda sig i en diskussion.'" [^2]
 
 Därmed är den islamiska lagens visdom bakom förbudet att bära guld för män klar.
 

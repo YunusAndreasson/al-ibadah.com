@@ -76,7 +76,7 @@ Han fastade inte den dagen, så här lär vi oss att det är lagstiftat för en 
 
 Profeten – över honom vare Allāhs frid och välsignelser – har berättat att Allāh under *´Arafāt*-dagen till änglarna säger:
 
-> ”Se på *Minā* tjänare. De har kommit till Mig, ovårdade och dammiga, för att få Min Nåd. Jag ber er att vittna om att jag sannerligen har förlåtit dem.” [*Ibn K̲huzaymah* 2840 och *Ibn Hibban* 1006]
+> ”Se på Mina tjänare. De har kommit till Mig, ovårdade och dammiga, för att få Min Nåd. Jag ber er att vittna om att jag sannerligen har förlåtit dem.” [*Ibn K̲huzaymah* 2840 och *Ibn Hibban* 1006]
 
 Han har även sagt: ”*Jag har stått här och hela *´Arafāt* är en plats att stå vid*.” [^9]
 
@@ -128,7 +128,7 @@ Men kvinnor med månadsblödning och kvinnor med blödningar efter graviditeten 
 
 > ”Folket beordrades till att deras sista handling skulle vara vid Huset [*ṭawāf*], men frågan lindrades för en kvinna med månadsblödning.”
 
-Skjuter man upp *ṭawāf ul-ifāḍah*[^1] och utför den när man är redo för att ge sig av, då är det tillräckligt som *al-wadā´*. Anledningen är den allmänna innebörden av de två nämnda haditherna.
+Skjuter man upp *ṭawāf ul-ifāḍah*[^1] och utför den när man är redo för att ge sig av, då är det tillräckligt som *al-wadā´*. Anledningen är den allmänna innebörden av de två nämnda *ḥadīt̲h*erna.
 
 Jag ber Allāh att Han hjälper alla med att göra vad som gör Honom nöjd och att Han accepterar vår vallfärd. Jag ber Honom att Han gör oss till dem som frias från Elden. Sannerligen, Han bestämmer över det och är kapabel att göra det.
 

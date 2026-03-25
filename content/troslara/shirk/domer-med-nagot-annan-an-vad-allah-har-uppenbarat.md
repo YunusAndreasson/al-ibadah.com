@@ -21,11 +21,11 @@ description: >-
 
 > ”De har tagit sina rabbiner och klosterbröder till herrar och beskyddare i Guds ställe, och [detsamma har de gjort med] Kristus, Marias son, trots att de har förmanats att inte dyrka någon annan än den Ende Guden – det finns ingen gud utom Han; stor är Han i Sin härlighet, fjärran från allt vad de vill sätta vid Hans sida!” [Koranen 9:31]
 
-Allāh den Upphöjde kallar de som lyds jämte honom för herrar då de har tagits som laggivare jämsides Honom den Upphöjde. Han kallar de som lyder dem för slavar då de underkastar sig och lyder dem genom att motsäga sig Allāhs den Härliges, den Upphöjdes domslut.
+Allāh den Upphöjde kallar de som lyds jämte Honom för herrar då de har tagits som laggivare jämsides Honom den Upphöjde. Han kallar de som lyder dem för slavar då de underkastar sig och lyder dem genom att motsäga sig Allāhs den Härliges, den Upphöjdes domslut.
 
 'Adi bin Hatim sade till Allāhs sändebud: ”*De dyrkar dem inte*.” Profeten – över honom vare Allāhs frid och välsignelser – sade då: ”*Men de förbjöd dem det som är tillåtet och tillät dem det som är otillåtet, och de lydde dem. Detta är deras dyrkan av dem*.” [^1]
 
-Förstår du detta, då ska du veta att den som dömer med något annat än vad Allāh har uppenbarat och söker domslut från andra än Allāh och Hans sändebud, personen har en vers uppenbarats om som upphäver personens tro. Likaså talar andra verser om personens otro, onda handlande och synd.
+Förstår du detta, då ska du veta att den som dömer med något annat än vad Allāh har uppenbarat och söker domslut från andra än Allāh och Hans sändebud, har det uppenbarats verser som upphäver personens tro. Likaså talar andra verser om personens otro, onda handlande och synd.
 
 Den första kategorin. Här gäller Allāhs den Upphöjdes ord:
 
@@ -33,7 +33,7 @@ Den första kategorin. Här gäller Allāhs den Upphöjdes ord:
 
 Allāh den Upphöjde har berättat att de som påstår sig vara troende men som i själva verket är hycklare besitter vissa kännetecken:
 
-i] De vill få domslut från *at-taghut* [i deras dispyter]. Detta avser alla som motsäger sig Allāhs den Upphöjdes och Hans sändebuds dom. Allt som motsäger sig Allāhs och Hans sändebuds dom är ju tughyan [felaktigt handlande, orättvisa, förtryck och tyranni] och överträdelse mot Domaren som domen tillhör och som alla frågor återvänder till [för slutlig dom] – detta är Allāh. Han den Upphöjde säger:
+i] De vill få domslut från *at-taghut* [i deras dispyter]. Detta avser alla som motsäger sig Allāhs den Upphöjdes och Hans sändebuds dom. Allt som motsäger sig Allāhs och Hans sändebuds dom är ju *tughyan* [felaktigt handlande, orättvisa, förtryck och tyranni] och överträdelse mot Domaren som domen tillhör och som alla frågor återvänder till [för slutlig dom] – detta är Allāh. Han den Upphöjde säger:
 
 > ”Skapelsen är Hans och Han befaller över allt. Välsignad vare Gud, världarnas Herre!” [Koranen 7:54]
 
@@ -41,13 +41,13 @@ ii] När de kallas till det som Allāh har uppenbarat och till profeten, då hå
 
 iii] När de på grund av vad de har gjort drabbas av olycka, som när de blir påkomna med vad de sysslar med, då kommer de och bedyrar att de avsåg gott och att de ville försona genom vad de gjorde. Detta inträffar i dagsläget när någon avvisar den islamiska lagen och dömer enligt lagar som motsäger sig religionen med påståendet att detta är rätt och passande under dagens omständigheter.
 
-Allāh varnar sedan de som påstår sig vara troende som besitter dessa kännemärken. Han den Upphöjde vet vad som finns i deras hjärtan och vilka tankar de hyser som motsäger sig vad de säger. Han befallde Sin profet att varna dem och att tala till dem på ett verkningsfullt sätt för att nå deras inre.
+Allāh varnar sedan de som påstår sig vara troende som besitter dessa kännetecken. Han den Upphöjde vet vad som finns i deras hjärtan och vilka tankar de hyser som motsäger sig vad de säger. Han befallde Sin profet att varna dem och att tala till dem på ett verkningsfullt sätt för att nå deras inre.
 
-Sedan klargjorde Han att visdomen i att sända profeten – över honom vare Allāhs frid och välsignelser – var att han skulle lydas och följas, vilket inte gäller någon annan, hur starka personens idéer eller hur stor personens intelligens än är. Allāh den Upphöjde svär sedan vid Sitt herravälde […] Han svär vid det en bekräftelseed om att tro utan tre ting är värdelöst.
+Sedan klargjorde Han att visdomen i att sända profeten – över honom vare Allāhs frid och välsignelser – var att han skulle lydas och följas, vilket inte gäller någon annan, hur starka personens idéer eller hur stor personens intelligens än är. Allāh den Upphöjde svär sedan vid Sitt herravälde […] Han svär vid det med en bekräftelseed att tro utan tre ting är värdelös.
 
 a] Det första är att man söker domar från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i varje dispyt.
 
-b] Det andra är att ens hjärtan är öppet inför denna dom och att man inombords inte hyser någon invändan eller irritation mot den.
+b] Det andra är att ens hjärta är öppet inför denna dom och att man inombords inte hyser någon invändning eller irritation mot den.
 
 c] Det tredje är att de underkastar sig fullständigt genom att acceptera hans dom och tillämpar den utan tvekan eller avvikelse.
 
@@ -59,19 +59,21 @@ Den andra kategorin: Här gäller Allāhs den Upphöjdes ord:
 
 > ”Låt därför dem som följer Evangeliet döma enligt vad Gud där har uppenbarat; de som inte dömer enligt vad Gud har uppenbarat är syndare som trotsar Gud.” [Koranen 5:47]
 
-> Tillämpas dessa tre kännetecken på en person? Med innebörden att alla som dömer med något annat än vad Allāh har uppenbarat är icke-troende, sådana som handlar felaktigt och överträder gränser? Allāh den Upphöjde har beskrivit de icke-troende som personer som handlar felaktigt och överträder gränser. Han den Upphöjde säger: ”De som förnekar sanningen är svåra syndare.” [Koranen 2:254]
+Tillämpas dessa tre kännetecken på en person? Med innebörden att alla som dömer med något annat än vad Allāh har uppenbarat är icke-troende, sådana som handlar felaktigt och överträder gränser? Allāh den Upphöjde har beskrivit de icke-troende som personer som handlar felaktigt och överträder gränser. Han den Upphöjde säger:
+
+> “De som förnekar sanningen är svåra syndare.” [Koranen 2:254]
 
 > ”De förnekade Gud och Hans Sändebud och de avled med [hyckleriet i hjärtat och] trots i sinnet.” [Koranen 9:84]
 
-Varje icke-troende är därmed någon som handlar felaktigt och överträder gränser. Eller är det så att dessa kännetecken tillämpas på ett antal personer från vilken avsikt de hade när de inte dömde enligt vad Allāh har uppenbarat? Detta är, enligt min åsikt, det som är närmst sanningen. Och Allāh vet bäst.
+Varje icke-troende är därmed någon som handlar felaktigt och överträder gränser. Eller är det så att dessa kännetecken tillämpas på ett antal personer utifrån vilken avsikt de hade när de inte dömde enligt vad Allāh har uppenbarat? Detta är, enligt min åsikt, det som är närmst sanningen. Och Allāh vet bäst.
 
-Vi säger därmed: Den som inte dömer enligt vad Allāh har uppenbarat, som förringade och hånade det, eller som trodde att något annat är bättre och mer passande för människor, personen är en icke-troende vars otro tar personen utanför islam.
+Vi säger därmed: Den som inte dömer enligt vad Allāh har uppenbarat, som förringar och hånar det, eller som tror att något annat är bättre och mer passande för människor, personen är en icke-troende vars otro tar personen utanför islam.
 
-Här finns de som skapar lagar [för att det ska bli ett system som folket följer] som motsäger sig islam. De utformar inte dessa lagar utan att tro att de är bättre och mer passande för oss. Det är enbart sunt förnuft och naturligt att man inte vänder sig från ett system till ett annat, utan att man anser att systemet som man vänder sig till är bättre än det som man har vänder sig bort från.
+Här finns de som skapar lagar [för att det ska bli ett system som folket följer] som motsäger sig islam. De utformar inte dessa lagar utan att tro att de är bättre och mer passande för oss. Det är enbart sunt förnuft och naturligt att man inte vänder sig från ett system till ett annat, utan att man anser att systemet som man vänder sig till är bättre än det som man har vänt sig bort från.
 
 Den som inte dömer enligt vad Allāh den Upphöjde har uppenbarat men som heller inte förringar, hånar eller tror att något annat är bättre än Allāhs domar, utan han enbart dömer enligt något annat för att kontrollera sina undersåtar eller hämnas någon, personen är någon som handlar felaktigt utan att vara icke-troende. Graden av personens felaktiga handlande skiljer sig åt enligt personens domslut och metoder för att döma.
 
-Den som inte dömer enligt vad Allāh den Upphöjde har uppenbarat men som heller inte förringar, hånar och tror att något annat är bättre än Allāhs dom, utan enbart dömer enligt detta för att göra den som döms nöjd, eftersom personen har blivit mutad eller något annat, personen är då någon som överträder gränser utan att vara icke-troende. Nivån av personens överträdelse är enligt personens domslut och metoder för att döma.
+Den som inte dömer enligt vad Allāh den Upphöjde har uppenbarat men som heller inte förringar, hånar eller tror att något annat är bättre än Allāhs dom, utan enbart dömer enligt detta för att göra den som döms nöjd, eftersom personen har blivit mutad eller något annat, personen är då någon som överträder gränser utan att vara icke-troende. Nivån av personens överträdelse är enligt personens domslut och metoder för att döma.
 
 *s̲hayk̲h ul-islām* Ibn Taymiyyah har sagt att de som tog sina präster och rabbiner till herrar jämsides med Allāh är av två olika typer:
 

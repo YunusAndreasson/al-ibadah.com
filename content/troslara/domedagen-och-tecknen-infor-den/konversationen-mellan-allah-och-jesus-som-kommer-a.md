@@ -18,16 +18,16 @@ description: >-
 
 **Svar:** Skedde denna frågestund i denna världen, innan Jesus restes upp till himlen, eller kommer den att ske på Domedagen?
 
-Utifrån sammanhangen verkar det vara så att denna frågestund kommer att äga rum under Domedagen, då Allāh den Allsmäktige säger: ”'Jesus, son till Maria! Är det du som uppmanade människorna att dyrka dig och din moder som gudomliga väsen vid sidan av Gud?'
+Utifrån sammanhangen verkar det vara så att denna frågestund kommer att äga rum under Domedagen, då Allāh den Allsmäktige säger: ”'Jesus, son av Maria! Är det du som uppmanade människorna att dyrka dig och din moder som gudomliga väsen vid sidan av Gud?'
 
-[Jesus] ska svara: 'Stor är Du i Din härlighet! Hur skulle jag kunna säga vad jag inte har rätt att säga? Om jag hade sagt detta skulle Du helt visst ha vetat det. Du vet vad som är i mitt innersta men jag vet inte vad som är i Ditt innersta; Du känner allt det som är dolt för människor[^1].” [^3]
+[Jesus] ska svara: 'Stor är Du i Din härlighet! Hur skulle jag kunna säga vad jag inte har rätt att säga? Om jag hade sagt detta skulle Du helt visst ha vetat det. Du vet vad som är i mitt innersta men jag vet inte vad som är i Ditt innersta; Du känner allt det som är dolt för människor[^1].'” [^3]
 
-Denna diskussion fortlöper tills Allāh den Allsmäktige säger: ”[På Domens dag] ska Gud säga: 'Denna dag ska de sanningsenliga skörda frukterna av sin kärlek till sanningen.” [^4]
+Denna diskussion fortlöper tills Allāh den Allsmäktige säger: ”[På Domens dag] ska Gud säga: 'Denna dag ska de sanningsenliga skörda frukterna av sin kärlek till sanningen.'” [^4]
 
 Och som jag sagt, indikerar sammanhangen att denna frågestund mellan ´Īsā och Allāh kommer att äga rum i det Nästkommande.
 
 [^1]: al-Ghayb, sådant som ligger utanför människans uppfattningsförmåga.
 
-[^2]: Koranen 5:166
+[^2]: Koranen 5:116
 [^3]: Koranen 5:116
 [^4]: Koranen 5:119

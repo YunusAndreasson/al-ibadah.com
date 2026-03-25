@@ -14,7 +14,9 @@ description: >-
 
 **Fråga:** Får elever fuska i skolan?
 
-**Svar:** *ḥadīt̲h*[^1]: "Den som fuskar tillhör inte oss" är autentisk och allmän i sin betydelse. Detta omfattar fusk vid köp och försäljning, rådgivning, löften samt avtal och prov i skolan. Här inräknas att man kopierar material från böcker, att man tar svar från andra elever och att man ger dem svar, oavsett om man berättar det eller skriver det på ett papper.
+**Svar:** *Ḥadīt̲h*[^1]: "Den som fuskar tillhör inte oss" är autentisk och allmän i sin betydelse. Detta omfattar fusk vid köp och försäljning, rådgivning, löften samt avtal och prov i skolan. Här inräknas att man kopierar material från böcker, att man tar svar från andra elever och att man ger dem svar, oavsett om man berättar det eller skriver det på ett papper.
 
 Och Allāh är källan till all styrka.
+
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 

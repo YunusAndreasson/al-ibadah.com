@@ -18,6 +18,6 @@ description: >-
 
 **Svar:** Om tiden är knapp är det ingen fara om man behåller dem tills man kan ge dem till någon fattig bland släktingarna eller någon som är fattigare eller i större behov. Tiden bör dock inte vara lång. Det bör enbart vara ett antal dagar. Detta gäller allmosa för tillgångar.
 
-*zakātul-fiṭr* bör inte skjutas upp till senare. I stället är det obligatoriskt att betala den innan *´eid*-bönen på det sätt som profeten – över honom vare Allāhs frid och välsignelser – har beordrat. Den kan ges innan *´eid* en, två eller tre dagar. Det är ingen fara. Den bör dock inte skjutas upp till efter bönen.
+*Zakātul-fiṭr* bör inte skjutas upp till senare. I stället är det obligatoriskt att betala den innan *´eid*-bönen på det sätt som profeten – över honom vare Allāhs frid och välsignelser – har beordrat. Den kan ges innan *´eid* en, två eller tre dagar. Det är ingen fara. Den bör dock inte skjutas upp till efter bönen.
 
 

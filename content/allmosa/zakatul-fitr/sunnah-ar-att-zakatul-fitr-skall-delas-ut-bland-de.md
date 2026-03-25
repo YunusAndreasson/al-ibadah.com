@@ -14,7 +14,7 @@ description: >-
   dagar innan ‘eid? Svar: profeten...
 ---
 
-**Fråga:** När det gäller den mat som man lämnar vid *zakātul-fiṭr*, ska den delas ut bland de fattiga i vårt land? Vad gör vi med *zakātul-fiṭr* om vi reser tre dagar innan ‘*´eid*?
+**Fråga:** När det gäller den mat som man lämnar vid *zakātul-fiṭr*, ska den delas ut bland de fattiga i vårt land? Vad gör vi med *zakātul-fiṭr* om vi reser tre dagar innan *´eid*?
 
 **Svar:** Profetens – över honom vare Allāhs frid och välsignelser – *sunnah* är att före bönen på *´eid*-dagens morgon dela ut *zakātul-fiṭr* bland de fattiga i landet. Det är tillåtet att dela ut den en eller två dagar innan med början den 28:e [*ramaḍān*].
 

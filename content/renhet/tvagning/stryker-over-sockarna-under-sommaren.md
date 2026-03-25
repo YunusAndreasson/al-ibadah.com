@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Den allmänna innebörden av autentiska *aḥādīt̲h* som visar att det är tillåtet att stryka över *khifaf* och *jawarib* visar att det är tillåtet att stryka över dem både under vintern och sommaren. Jag känner inte till något som bevisar att det endast är tillåtet under vintern.
 
-Det är dock inte tillåtet att stryka över sockar eller något liknande utan att uppfylla de nödvändiga kraven. De är att sockarna måste täcka de delar av foten som krävs, att de tas på medan den som bär dem är rituellt ren och att tidsgränsen [som är en dag och en natt för den som inte reser och tre dagar och tre nätter för den som reser] observeras [börjar första gången de stryks över följande förlusten av den rituella renheten]. Detta enligt den mest korrekta åsikten av de två åsikterna som de lärde har.
+Det är dock inte tillåtet att stryka över sockar eller något liknande utan att uppfylla de nödvändiga kraven. De är att sockarna måste täcka de delar av foten som krävs, att de tas på medan den som bär dem är rituellt ren och att tidsgränsen [som är en dag och en natt för den som inte reser och tre dagar och tre nätter för den som reser] observeras [börjar första gången de stryks över efter förlusten av den rituella renheten]. Detta enligt den mest korrekta åsikten av de två åsikterna som de lärde har.
 
 Och Allāh är Den som ger framgång.
 

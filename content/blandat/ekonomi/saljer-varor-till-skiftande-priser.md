@@ -12,7 +12,7 @@ description: >-
   ostadigheter på marknaden eller på att priset på...
 ---
 
-**Fråga:** Får köpmän sälja samma produkt till olika pris? Någon får köpa för femton och en annan för tjugo
+**Fråga:** Får köpmän sälja samma produkt till olika pris? Någon får köpa för femton och en annan för tjugo.
 
 **Svar:** Om denna variation i pris beror på ostadigheter på marknaden eller på att priset på produkten går upp en dag för att gå ned nästa, då är det inte fel att sälja den till marknadspris. Beror variationen i pris på försäljarens förmåga att förhandla om pris – vilket innebär att personen höjer priset om köparen inte är en duktig förhandlare och sänker priset om köparen har kunskap om varan – är detta inte tillåtet.
 

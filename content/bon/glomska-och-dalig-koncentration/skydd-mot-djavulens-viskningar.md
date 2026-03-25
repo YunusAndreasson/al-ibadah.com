@@ -14,7 +14,7 @@ description: >-
   tungan men med hjärtat. Det är än värre om jag...
 ---
 
-**Fråga:** Djävulen föreslår ofta onda tankar för mig när jag ber, läser Koranen eller tvagar mig. Jag finner ofta att jag talar om onda tankar, inte med tungan men med hjärtat. Det är än värre om jag ber ensam. Syndar jag när detta inträffar. Vänligen, visa mig en väg ut ur denna besvärliga situation.
+**Fråga:** Djävulen föreslår ofta onda tankar för mig när jag ber, läser Koranen eller tvagar mig. Jag finner ofta att jag talar om onda tankar, inte med tungan men med hjärtat. Det är än värre om jag ber ensam. Syndar jag när detta inträffar? Vänligen, visa mig en väg ut ur denna besvärliga situation.
 
 **Svar:** Först och främst bör du ofta söka din tillflykt hos Allāh den Allsmäktige från den utstötte djävulen och begrunda innebörden av att söka sin tillflykt hos Honom. Du ska med säkerhet veta att det är djävulen som viskar till dig och försöker att göra sitt yttersta för att hålla dig borta från den raka vägen. Och du ska med lika mycket säkerhet veta att det är Allāh den Allsmäktige allena som kan skydda dig från djävulens onda planer.
 

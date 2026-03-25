@@ -31,7 +31,7 @@ Kom ihåg att Allāh den Allsmäktige säger:
 
 > ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå er väl i händer!” [Koranen 24:31]
 
-> ”Säg [Muḥammad] till mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [*Minā* bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet!” [39:53]
+> ”Säg [Muḥammad] till mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [Mina bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet!” [39:53]
 
 De lärde är eniga om att denna vers uppenbarades för den tålmodige; den som önskar att ångra sig. Om din synd berör en människas rätt måste vi lägga till ett fjärde villkor: Du måste återgälda deras rättigheter till dem. Detta oavsett om det är tillgångar eller något annat. I andra fall måste du be om deras förlåtelse.
 

@@ -23,7 +23,7 @@ Din ånger tillintetgör tidigare synder. Detta innefattar dina böner och att d
 
 Allāh den Allsmäktige har sagt:
 
-> ”Säg [Muḥammad] till mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [*Minā* bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet!” [Koranen 39:53]
+> ”Säg [Muḥammad] till mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [Mina bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet!” [Koranen 39:53]
 
 > ”De som, om de begår en skamlös handling eller [på annat sätt] tillfogat sig själv orätt, minns Gud och ber Honom om förlåtelse för sina synder – vem kan förlåta synderna utom Gud? – och som inte fortsätter att begå sådana handlingar mot bättre vetande. Den lön [som väntar] dem ska förbli till evig tid – en härlig belöning för dem som arbetat och strävat!” [Koranen 3:135 – 136]
 

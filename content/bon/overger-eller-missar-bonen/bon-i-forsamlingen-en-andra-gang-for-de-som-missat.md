@@ -19,13 +19,13 @@ description: >-
 
 **Svar:** Den som kom till moskén och fann att församlingen redan hade bett med den vanlige imamen, eller med en annan imam, bör be den i församling med andra som har missat den eller någon som redan har bett och som vill ge till välgörenhet [leda dem i bön].
 
-Detta enligt en återberättelse från *Aḥmad* i hans *Musnad* och från *Abū Dāwūd* i hans *Sunan*. Abū Sa´īd al-Khudri berättar här att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – såg en man be ensam och han sade: "*Vem av er vill delta i detta?*" En man stod då upp och bad med mannen.
+Detta enligt en återberättelse från *Aḥmad* i hans *Musnad* och från *Abū Dāwūd* i hans *Sunan*. Abū Sa´īd al-K̲hudrī berättar här att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – såg en man be ensam och han sade: "*Vem av er vill delta i detta?*" En man stod då upp och bad med mannen.
 
-at-Tirmithi har också återberättat detta från Abū Sa'is som sagt: "*En man kom när Allāhs sändebud redan hade bett och han sade: 'Vem av er kommer att ge till välgörenhet till mannen?"* [^2]. En man stod då upp och bad med honom.
+*at-Tirmid̲hī* har också återberättat detta från Abū Sa'īd som sagt: "*En man kom när Allāhs sändebud redan hade bett och han sade: 'Vem av er kommer att ge till välgörenhet till mannen?'*" [^2] En man stod då upp och bad med honom.
 
-Enligt at-Tirmithi är denna *ḥadīt̲h[^1] ḥasan*. al-Hakim har också återberättat den och klassat den som *Ṣaḥīḥ*. ath-Thahabi höll med honom. Ibn Hazm har också nämnt den i al-Muhalla och han visade att den är autentisk. Abū ´Īsā at-Tirmithi sade: "*Mer än en av följeslagarna och tābi´īn har sagt detta: 'Det finns ingen invändan mot en grupp som ber en andra församlingsbön i en moské där bönen redan har hållits*." *Aḥmad* och Ishaq ansåg också detta.
+Enligt *at-Tirmid̲hī* är denna *ḥadīt̲h*[^1] *ḥasan*. al-Ḥākim har också återberättat den och klassat den som *Ṣaḥīḥ*. ad̲h-D̲hahabī höll med honom. Ibn Ḥazm har också nämnt den i *al-Muḥallā* och han visade att den är autentisk. Abū ´Īsā *at-Tirmid̲hī* sade: "*Mer än en av följeslagarna och tābi´īn har sagt detta: 'Det finns ingen invändning mot en grupp som ber en andra församlingsbön i en moské där bönen redan har hållits'*." *Aḥmad* och Isḥāq ansåg också detta.
 
-Andra har sagt att man bör be var för sig och några av dessa är: Sufyan, Ibn al-Mubarak, Mālik och ash-Shafi'i.
+Andra har sagt att man bör be var för sig och några av dessa är: Sufyān, Ibn al-Mubārak, Mālik och as̲h-S̲hāfi´ī.
 
 Men dessa personer och de som har hållit med dem har endast gjort så med rädsla för att det skulle leda till splittring och att de som följer en viss sekt kan få en ursäkt för att komma för sent och be tillsammans med en imam som följer deras läror. För att då kunna stänga denna dörr till splittring och hindra medlemmar i sekter från att uppnå sina onda avsikter har de sagt att man inte bör be gemensamt i moskén när församlingen redan har bett med den vanliga imamen.
 

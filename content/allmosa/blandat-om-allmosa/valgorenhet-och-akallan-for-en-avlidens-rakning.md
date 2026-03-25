@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Vilken sorts belöning får en avliden om det ges till välgörenhet för hans räkning? Läggs sådana donationer till hans goda handlingar?
 
-Det är tillåtet att ge till välgörenhet för den avlidnes räkning. Det spelar ingen roll om välgörenheten är i form av pengar, vänlighet eller åkallan. Abū Hurairah har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
+**Svar:** Det är tillåtet att ge till välgörenhet för den avlidnes räkning. Det spelar ingen roll om välgörenheten är i form av pengar, vänlighet eller åkallan. Abū Hurairah har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > "När Adams söner dör, dör också hans handlingar utom tre: bestående välgörenhet[^1], nyttig kunskap och ett rättfärdigt barn som ber för honom." [*Muslim* 1631, *Abū Dāwūd* 2880 och *at-Tirmid̲hī* 1376]
 

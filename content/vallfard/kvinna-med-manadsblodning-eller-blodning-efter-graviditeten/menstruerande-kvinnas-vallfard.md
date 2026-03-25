@@ -31,7 +31,7 @@ I en annan återberättelse sade hon:
 > "Safiyyah fick sin månadsblödning efter att ha utfört *ṭawāf ul-ifāḍah*." Sedan sade 'A'ishah: "Jag nämnde hennes månadsblödning för Allāhs sändebud och han sade: 'Kommer hon att försena oss?' Jag sade: 'Allāhs sändebud, hon har kommit tillbaka från *´Arafāt* och utfört *ṭawāf* runt Huset [Ka'bah] och sedan fick hon sin månadsblödning efter *ṭawāf ul-ifāḍah*.' Då sade Allāhs sändebud: 'Då kan hon ge sig av.'" [*Muslim* 1211]
 
 [^1]: Den stora rituella reningen efter exempelvis intim samvaro eller när kvinnans månadsblödning är över.
-[^2]: Platsen där pilgrimmen träder in i iḥrām.
+[^2]: Platsen där pilgrimen träder in i iḥrām.
 [^3]: Ett speciellt rituellt tillstånd som den vallfärdande träder in i.
 
 [^4]: *Abū Dāwūd* 1838

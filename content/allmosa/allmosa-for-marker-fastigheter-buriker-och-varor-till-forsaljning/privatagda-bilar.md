@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Finns det allmosa för privatägda bilar?
 
-**Svar:** Det finns ingen allmosa för dem. Allting som man använder för eget bruk, utom guld- och silversmycken, krävs det ingen allmosa för, oavsett om det är en bil, kamel, jordbruksmaskin eller någonting annat. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”En *muslim betalar ingen allmosa för sin slav, inte heller för sin häst*.” [^1]
+**Svar:** Det finns ingen allmosa för dem. Allting som man använder för eget bruk, utom guld- och silversmycken, krävs det ingen allmosa för, oavsett om det är en bil, kamel, jordbruksmaskin eller någonting annat. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord: “*En muslim betalar ingen allmosa för sin slav, inte heller för sin häst*.” [^1]
 
 
 [^1]: *al-Buk̲hārī* 1464 och *Muslim* 982

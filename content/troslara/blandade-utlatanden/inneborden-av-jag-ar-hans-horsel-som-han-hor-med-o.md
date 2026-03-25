@@ -36,7 +36,7 @@ I andra versioner nämns att Allāh den Upphöjde har sagt:
 
 Det är uppenbart att uttalandena i början av dessa *aḥādīt̲h* gör tydlig att det finns en som *åkallar*[^1] och en som åkallas, och en som söker skydd och en som skyddar. Denna *ḥadīt̲h* liknar en annan helig *ḥadīt̲h* i vilken Allāh den Upphöjde säger:
 
-> ”*Minā* tjänare! Jag var sjuk men ni besökte Mig inte”. [*Aḥmad* 2:404]
+> ”Mina tjänare! Jag var sjuk men ni besökte Mig inte”. [*Aḥmad* 2:404]
 
 I dessa *aḥādīt̲h* förklaras uttalanden i början av uttalanden som följer efter. De som följer sina egna nycker, de håller sig till allegoriska texter och vänder sig bort från de som förklarar sig själva. På detta sätt viker de av från den raka vägen.
 

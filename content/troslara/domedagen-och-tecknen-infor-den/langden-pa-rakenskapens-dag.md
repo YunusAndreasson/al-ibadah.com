@@ -42,7 +42,7 @@ Våra plikter i frågor om det som är dolt för människor[^1] är att underkas
 
 Och Allāh säger i en *qudsi-ḥadīt̲h*[^1]:
 
-> ”Jag har förberett för *Minā* rättfärdiga tjänare vad inget öga har sett, inget öra har hört och som heller inte har trängt in i någon mans hjärta.”
+> ”Jag har förberett för Mina rättfärdiga tjänare vad inget öga har sett, inget öra har hört och som heller inte har trängt in i någon mans hjärta.”
 
 Det finns saker i denna värld med samma namn som de välsignelser i Paradiset som har nämnts här, men att de har samma namn betyder inte att vinet i Paradiset är som vinet i denna värld eller att frukterna i Paradiset är så som frukterna här, och så vidare.
 
