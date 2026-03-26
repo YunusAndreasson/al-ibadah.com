@@ -8,7 +8,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1630
-description: "Fråga: \_ Behöver en kvinna bära svart under vänteperioden efter hennes mans bortgång? Svar: En kvinna vars man har avlidit måste sörja genom hela vänteperioden. Denna period avgörs efter tid och..."
+description: "Fråga: Behöver en kvinna bära svart under vänteperioden efter hennes mans bortgång? Svar: En kvinna vars man har avlidit måste sörja genom hela vänteperioden. Denna period avgörs efter tid och..."
 ---
 
 **Fråga:** Behöver en kvinna bära svart under vänteperioden efter hennes mans bortgång?

@@ -34,7 +34,7 @@ I stället bör de göra sitt yttersta för att gifta sig med muslimska kvinnor 
 
 Och det finns ingen annan kraft eller styrka än Allāh!
 
-Mer om islams kvinnosyn kan du läsa om på islam.se
+Mer om islams kvinnosyn kan du läsa om på islam.se.
 
 
 [^1]: Koranen 2:221

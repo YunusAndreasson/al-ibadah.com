@@ -10,8 +10,8 @@ categories:
   - Åkallan
 original_id: 683
 description: >-
-  Fråga: Kan man säga ” insha-Allāh ” i en åkallan? Svar: När man åkallar bör
-  man inte säg ” insha-Allāh ." I stället bör man vara bestämd när man med höga
+  Fråga: Kan man säga “ insha-Allāh “ i en åkallan? Svar: När man åkallar bör
+  man inte säga “ insha-Allāh .” I stället bör man vara bestämd när man med höga
   förväntningar ber. Allāh den Allsmäktig...
 ---
 

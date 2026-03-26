@@ -6,7 +6,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1708
-description: 'Fråga: Om en kvinna ger sin man om är lat rådet att be i moskén och
+description: 'Fråga: Om en kvinna ger sin man som är lat rådet att be i moskén och
  samtidigt visar ilska mot honom, är hon då syndfull mot sin man med avseende på
  hans rättigheter mot henne? Svar: Det finns i...'
 ---

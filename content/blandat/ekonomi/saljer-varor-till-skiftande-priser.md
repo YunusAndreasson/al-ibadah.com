@@ -8,7 +8,7 @@ categories:
 original_id: 1704
 description: >-
   Fråga: Får köpmän sälja samma produkt till olika pris? Någon får köpa för
-  femton och en annan för tjugo Svar: Om denna variation i pris beror på
+  femton och en annan för tjugo. Svar: Om denna variation i pris beror på
   ostadigheter på marknaden eller på att priset på...
 ---
 

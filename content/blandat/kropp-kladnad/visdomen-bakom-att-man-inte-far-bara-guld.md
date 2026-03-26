@@ -20,7 +20,7 @@ description: >-
 
 Om någon då frågar om anledningen för ett visst utlåtande, ger vi enbart visdomen från Skriften och profetens *sunnah*. Vi säger då att anledningen är att Allāh den Allsmäktige och Hans sändebud – över honom vare Allāhs frid och välsignelser – har sagt så och denna anledning är tillräcklig för varje troende.
 
-När 'Ā'ishāh tillfrågades om varför en kvinna med månadsblödning tar igen fastan men inte bönen, sade hon: "När vi led av den beordrades vi att ta igen fastan men vi var inte beordrade att ta igen bönen."
+När 'A'ishah tillfrågades om varför en kvinna med månadsblödning tar igen fastan men inte bönen, sade hon: "När vi led av den beordrades vi att ta igen fastan men vi var inte beordrade att ta igen bönen."
 
 Detta beror på att en text från Allāhs skrift och från Hans sändebuds *sunnah* är ett tillräckligt bevis för varje troende. Men det finns inget dåligt i att en person försöker att ta reda på visdomen bakom Allāhs domar då det kommer att öka hans lugn och respekt för den islamiska lagen när domarna sammankopplas med deras anledningar. Och när man känner till anledningarna för domen i en bekräftad text blir det möjligt att göra en analogi till en annan fråga som det inte finns någon text för.
 

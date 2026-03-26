@@ -14,7 +14,7 @@ description: >-
 
 **Fråga:** Hur gottgör man för synder?
 
-**Svar:** *s̲hayk̲h ul-islām* Ibn Taymiyyah har sagt: Straffet för synder lyfts ifrån en person på tio olika sätt:
+**Svar:** *S̲hayk̲h ul-islām* Ibn Taymiyyah har sagt: Straffet för synder lyfts ifrån en person på tio olika sätt:
 
 1. Ånger, och detta råder det samstämmighet om bland muslimer. Allāh säger i Koranen: ”*Säg: [Muḥammad] till Mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [Mina bud], misströsta då inte om Guds nåd. Gud förlåter alla synder; Han är Den som ständigt förlåter, Den som ständigt visar barmhärtighet.’*” [^4] ”*Vet de inte att det är Gud som tar emot Sina tjänare ånger och [deras] offergåvor, och att Gud är Den som går den ångerfulle till mötes, den Barmhärtige?*” [^5] ”*Det är Han som tar emot Sina tjänare ånger och som förlåter och stryker ut dåliga handlingar; Han vet nämligen allt vad ni gör*.” [^6]
 2. Be om förlåtelse. Det har berättats i *aṣ-Ṣaḥīḥayn* att profeten – över honom vare Allāhs frid och välsignelser – har sagt: “*Om någon syndar och sedan säger: 'Herre, jag har syndat så förlåt mig.' Han säger: 'Min tjänare vet att personen har en Herre som kan förlåta eller straffa för synder; Jag har förlåtit min tjänare… ‘*” [^7] I *Ṣaḥīḥ Muslim* återges att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Om ni inte syndade, då skulle Allāh göra sig av med er och föra fram ett folk som syndar och som sedan ber Honom förlåta dem så att Han kan förlåta dem*.” [*al-Tawbah*, 4936]

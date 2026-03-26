@@ -20,7 +20,7 @@ description: >-
 
 Det har endast rapporterats att den som är i den stora rituella orenheten inte läser Koranen i detta tillstånd. Detta grundas på en *ḥadīt̲h* från Ali.
 
-Om kvinnan med månadsblödning eller blödning efter graviditeten har följande rapporterats om från Ibn ´Umar: ”*Kvinnan med månadsblödning och den som är i den stora rituella orenheten läser inte Koranen*.” [^1] Denna *ḥadīt̲h* är dock svag då den innehåller Isma'il bin 'Ayyash som rapporterar från de i Hijaz. Han är svag när han rapporterar från dem.
+Om kvinnan med månadsblödning eller blödning efter graviditeten har följande rapporterats om från Ibn ´Umar: ”*Kvinnan med månadsblödning och den som är i den stora rituella orenheten läser inte Koranen*.” [^1] Denna *ḥadīt̲h* är dock svag då den innehåller Ismā'īl bin 'Ayyās̲h som rapporterar från de i Hijaz. Han är svag när han rapporterar från dem.
 
 Recitationen måste dock ske från minnet utan att Skriften rörs. Den som befinner sig i den stora rituella orenheten får inte recitera Koranen – varken direkt från den eller från minnet. Detta gäller tills han har gjort *g̲husl*.
 

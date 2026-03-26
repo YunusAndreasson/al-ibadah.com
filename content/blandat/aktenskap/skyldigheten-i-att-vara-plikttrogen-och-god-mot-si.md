@@ -20,7 +20,7 @@ description: >-
 
 Allāh den Allsmäktige säger: "Er Herre har befallt, att ni inte ska dyrka någon annan än Honom. Och [Han har anbefallt er] att visa godhet mot [era] föräldrar." [^1] "Gud har anbefallt människan [att visa] godhet mot sina föräldrar; [hon bör tänka på att] modern har burit sitt barn genom det ena svaghetstillståndet efter det andra, [fött det] och ammat det under två år. Tacka Mig och dina föräldrar [och minns att] Jag är målet för er färd!" [^2]
 
-Någon frågade Profeten: "Vilken är den mest ärbaraste handlingen?" Han svarade: "Bön i tid." "Och sedan?" Profeten svarade: "Plikttrogenhet mot föräldrarna." "Och sedan?" "Strida för Allāhs sak." [^3] Dess autenticitet finns det samstämmighet kring.
+Någon frågade Profeten: "Vilken är den ärbaraste handlingen?" Han svarade: "Bön i tid." "Och sedan?" Profeten svarade: "Plikttrogenhet mot föräldrarna." "Och sedan?" "Strida för Allāhs sak." [^3] Dess autenticitet finns det samstämmighet kring.
 
 Allāhs sändebud – över honom vare Allāhs frid och välsignelser – sade även: "Skall jag inte informera er om de värsta synderna?" Hans följeslagare svarade: "Ja! Allāhs sändebud." Han svarade: "Sätta medhjälpare vid Allāhs sändebud [och att vara] olydig mot föräldrarna." Han lutade sig då men satte sig upp och sade: "Och falskt tal, eller falskt vittnesmål." [^4]
 

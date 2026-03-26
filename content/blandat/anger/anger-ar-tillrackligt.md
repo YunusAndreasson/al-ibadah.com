@@ -10,7 +10,7 @@ categories:
   - Ånger
 original_id: 664
 description: >-
-  Från: Jag är nu 29 år gammal och jag började be när jag var 24. All lovprisan
+  Fråga: Jag är nu 29 år gammal och jag började be när jag var 24. All lovprisan
   tillhör Allāh – jag ber fortfarande. Jag har försökt att ta igen alla de böner
   jag missat från jag var 15 fram till da...
 ---
@@ -21,7 +21,7 @@ description: >-
 
 > ”Om ni gör slut på [ert motstånd mot tron] ska det förflutna förlåtas er.” [Koranen 8:38]
 
-> ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå i händer!” [Koranen 24:31]
+> ”Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå er väl i händer!” [Koranen 24:31]
 
 > ”Troende! Vänd er i uppriktig ånger [över era synder] till Gud!” [Koranen 66:8]
 

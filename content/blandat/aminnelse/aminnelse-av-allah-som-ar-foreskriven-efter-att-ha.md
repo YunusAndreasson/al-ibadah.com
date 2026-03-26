@@ -2,8 +2,8 @@
 title: Föreskriven åminnelse efter taslīm
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
-  Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
-  Libanon: Makbtaba Dar us-Salam. 491 s. ISBN 9960-892-66-2 Muhammed Knut
+  Fahd bin Nasir bin Ibrahim as-Sulaiman (1424), Fatawa Arkanul-Islam. Volym 1.
+  Libanon: Maktaba Dar us-Salam. 491 s. ISBN 9960-892-66-2 Muhammed Knut
   Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
   - Blandat
@@ -12,7 +12,7 @@ original_id: 967
 description: >-
   Fråga: Vilka är de former av åminnelse av Allāh som är föreskrivna efter att
   ha gjort taslīm i bönen? Svar: Nämnandet av Allāh den Upphöjde befalls när
-  Han säger: ” Och minns Gud efter b...
+  Han säger: “Och minns Gud efter b...
 ---
 
 **Fråga:** Vilka är de former av åminnelse av Allāh som är föreskrivna efter att ha gjort *taslīm* i bönen?
@@ -25,7 +25,7 @@ Du glorifierar Allāh [*tasbīḥ*] på det sätt som har rapporterats från pro
 
 Du kan också säga allt tillsammans: *Subhan allāhi wal-hamdu lillahi wAllāhu akbar* 33 gånger eller om du säger *tasbīḥ*, *taḥmīd* och *takbīr* för sig själva och sedan avslutar genom att säga: *Lā ilāha illAllāhu wahdahu la sharīka lahu, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadīr*.
 
-Det är också tillåtet att göra *tasbīḥ*, *taḥmīd* och *takbīr* tio gånger i stället för att säga dem 33 gånger. Detta gör man genom att säga:*Subḥān Allāh* tio gånger, *al-Ḥamdu Lillāh* tio gånger och *Allāhu akbar* tio gånger. Detta blir då 30 gånger och det är vad som har rapporterats från profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. [^2]
+Det är också tillåtet att göra *tasbīḥ*, *taḥmīd* och *takbīr* tio gånger i stället för att säga dem 33 gånger. Detta gör man genom att säga: *Subḥān Allāh* tio gånger, *al-Ḥamdu Lillāh* tio gånger och *Allāhu akbar* tio gånger. Detta blir då 30 gånger och det är vad som har rapporterats från profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. [^2]
 
 Det har även rapporterats i hans *sunnah* att man kan säga *subhan allāhu wal-hamdu lillahi wa lā ilāha illAllāhu wAllāhu akbar*. Man säger då dessa fyra ord 25 gånger och det blir då totalt 100. [^3]
 

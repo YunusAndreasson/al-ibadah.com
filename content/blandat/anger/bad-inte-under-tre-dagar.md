@@ -10,8 +10,8 @@ categories:
 original_id: 659
 description: >-
   Fråga: Jag bad inte under tre dagar. Efteråt vägledde Allāh mig och jag har
-  sedan detta tillfälle trofast utfört min bön i tid. Men vad gäller för dess
-  tre dagar? Bör jag ta igen dem genom att be ...
+  sedan detta tillfälle trofast utfört min bön i tid. Men vad gäller för de tre
+  dagarna? Bör jag ta igen dem genom att be ...
 ---
 
 **Fråga:** Jag bad inte under tre dagar. Efteråt vägledde Allāh mig och jag har sedan detta tillfälle trofast utfört min bön i tid. Men vad gäller för de tre dagarna? Bör jag ta igen dem genom att be bönerna nu? Måste någon som med vilje lämnar bönen ta igen den?

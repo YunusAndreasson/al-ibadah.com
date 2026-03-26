@@ -23,7 +23,7 @@ Om viskningarna återkommer, då är det föreskrivet att söka tillflykt hos Al
 
 När en av Allāhs tjänare blir osäker på hur många bönecykler han hade bett, då bör han anta det lägre antalet och basera sin uppskattning på vad han känner sig säker på och sedan be färdigt sin bön. Efteråt gör han två nedfallanden för glömska innan *taslīm*.
 
-Detta grundas på en återberättelse från Abu Sa´īd där han berättar att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
+Detta grundas på en återberättelse från Abū Sa´īd där han berättar att profeten – över honom vare Allāhs frid och välsignelser – har sagt:
 
 > ”Om någon tvivlar sin bön och inte vet hur mycket han har bett, tre eller fyra bönecykler, låt honom då skjuta detta tvivel åt sidan och utgå från det han är säker på. Nedfall sedan två gånger före *taslīm*. Har han bett fem, då kommer hans bön att vara en förespråkare för honom, och om han har avslutat sin bön korrekt [som fyra bönecykler], då kommer det att vara en förnedring för djävulen.” [*Muslim* 571]
 

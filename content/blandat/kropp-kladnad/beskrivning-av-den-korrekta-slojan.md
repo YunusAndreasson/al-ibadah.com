@@ -38,7 +38,7 @@ Det finns även stöd att hämta i den *ḥadīt̲h* i vilken profeten – över
 
 Ibn 'Abd al-Barr sade:
 
-> "Vad profeten – över honom vare Allāhs frid och välsignelser – menade var kvinnor som bär kläder gjorda av ett tunt tyg som visar kroppen utan att täcka. De är klädda till ordets betydelse, men egentligen nakna.” [al-Suyūti i Tanwīr al-Hawālik, 3/103.]
+> "Vad profeten – över honom vare Allāhs frid och välsignelser – menade var kvinnor som bär kläder gjorda av ett tunt tyg som visar kroppen utan att täcka. De är klädda till ordets betydelse, men egentligen nakna.” [al-Suyūṭī i Tanwīr al-Ḥawālik, 3/103.]
 
 4. Den bör sitta löst och inte åtsittande så att den beskriver någon del av kroppen. Meningen med klädseln är att hindra frestelser. Detta kan endast uppnås om kläderna är vida och löst sittande. Även om åtsittande kläder döljer hudens färg visar de fortfarande både kroppens mått och form. Samtidigt skapar de en levande fantasi hos män. Det fördärv eller den inbjudan till fördärv som detta innebär är uppenbar. Således måste kläderna vara vida. Usāmah ibn Zayd har sagt: “Allāhs sändebud gav mig ett kraftigt egyptiskt klädesplagg som han fått i gåva från Duhyat al-Kalbi. Jag gav det till min fru att bära. Han sade: 'Varför ser jag dig inte bära det egyptiska plagget?' Jag svarade: 'Jag gav det till min fru att bära.' Han svarade: 'Säg åt henne att bära en klänning under den, för jag är rädd att den kan visa måtten på hennes ben.'” [al-Aḥādīt̲h al-Mukhtārah 1/442 och *Aḥmad*]
 
@@ -46,7 +46,7 @@ Ibn 'Abd al-Barr sade:
 
 1. Abū Mūsa al-Ash´ari har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: “En kvinna som tar på sig parfym och sedan passerar förbi folk så att de kan känna hennes väldoft är en äktenskapsförbryterska.”
 2. Zaynab har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: “Om någon av er [kvinnor] går till moskén, rör då ingen parfym.”
-3. Abū Hurairah har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: “Den kvinna som parfymerar sig med bakhūr, låt henne inte medvara vid nattbönen med oss.”
+3. Abū Hurairah har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: “Den kvinna som parfymerar sig med bakhūr, låt henne inte närvara vid nattbönen med oss.”
 4. Mūsa ibn Yassār har berättat att en kvinna gick förbi Abū Hurairah och hennes doft var överväldigande. Han sade då: “Kvinna, slav till al-Jabbār, är du på väg till moskén?” Hon svarade: “Ja.” Han sade: “Och du har parfymerat dig med anledning av det?” Hon svarade: “Ja.” Han sade: “Gå tillbaka och tvätta dig, för jag hörde Allāhs sändebud säga: 'Om en kvinna går till moskén och hennes doft är överväldigande, då kommer Allāh inte att acceptera någon bön ifrån henne innan hon har gått hem och tvättat sig.'”
 
 Dessa *aḥādīt̲h* är allmänna i deras betydelser. Precis som förbudet täcker parfym ansatt på kroppen, täcker det även parfym ansatt på kläderna; detta speciellt i den tredje *ḥadīt̲h* där *bakhūr* nämns. Detta beror på att *bakhūr* ofta används just på kläder.
@@ -59,11 +59,11 @@ Ibn Daqīq al-´Eid har sagt:
 
 6. Den bör inte likna mäns klädsel. I autentiska *ḥadīt̲h* har det rapporterats att en kvinna som till klädseln och på andra sätt imiterar män är förbannad. Här följer några *aḥādīt̲h* som vi känner till:
 
-1. Abū Hurayrah sade: “Allāhs sändebud förbannade den man som bär en kvinnas kläder och den kvinna som bär en mans kläder.”
+1. Abū Hurairah sade: “Allāhs sändebud förbannade den man som bär en kvinnas kläder och den kvinna som bär en mans kläder.”
 2. 'Abd-Allāh ibn 'Amr har berättat att han hörde Allāhs sändebud – över honom vare Allāhs frid och välsignelser – säga: “De är inte av oss, de kvinnor som imiterar män och de män som imiterar kvinnor.”
 3. Ibn 'Abbās har berättat: ”Profeten förbannade kvinnliga män och manliga kvinnor. Han sade: 'Kasta ut dem ur deras hem.'” Han sade: ”Kasta ut dem ur hemmet.” Han sade: ”Profeten utestängde den-och-den och ’Umar utestängde den-och-den.” Enligt en annan version: ”Allāhs sändebud förbannade män som imiterar kvinnor och kvinnor som imiterar män.”
-4. ´Abdullāh ibn 'Amr har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: “Det finns tre som inte kommer att få gå in i Paradiset och Allāh kommer inte ens att titta på dem på Återuppståndelsens Dag: Den som inte lyder sina föräldrar, en kvinna som imiterar män och en *duyūh* [hanrej, en svag man som inte känner någon svartsjuka över sina kvinnor].”
-5. Ibn Abi Malīkah – vars namn var ´Abdullāh ibn ’Ubayd-Allāh – har sagt: ”Det sades till Aisha: ’Om en kvinna bär sandaler som män bär?’ Hon svarade: ’Allāhs sändebud förbannade kvinnor som beter sig som män.’”
+4. ´Abdullāh ibn 'Amr har berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: “Det finns tre som inte kommer att få gå in i Paradiset och Allāh kommer inte ens att titta på dem på Återuppståndelsens Dag: Den som inte lyder sina föräldrar, en kvinna som imiterar män och en *dayyūt̲h* [hanrej, en svag man som inte känner någon svartsjuka över sina kvinnor].”
+5. Ibn Abi Malīkah – vars namn var ´Abdullāh ibn ’Ubayd-Allāh – har sagt: “Det sades till 'A'ishah: ’Om en kvinna bär sandaler som män bär?’ Hon svarade: ’Allāhs sändebud förbannade kvinnor som beter sig som män.’”
 
 Dessa *aḥādīt̲h* visar tydligt att kvinnor inte får imitera män och vice versa. Detta innefattar vanligtvis kläder och annat, utom den första *ḥadīt̲h* ovan som enbart gäller klädsel.
 
