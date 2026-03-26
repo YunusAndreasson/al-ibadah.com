@@ -8,7 +8,7 @@ categories:
 original_id: 1597
 description: >-
   Fråga: Vilket är utlåtandet om att förneka zakātul-fiṭr och hur ska personen
-  person behandlas? Svar: Det är inte tillåtet att förneka! Det är ju en
+  behandlas? Svar: Det är inte tillåtet att förneka! Det är ju en
   avvikelse från vad Allāhs sändebud – må Al...
 ---
 

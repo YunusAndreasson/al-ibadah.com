@@ -9,7 +9,7 @@ categories:
   - Allmosa för smycken
 original_id: 622
 description: >-
-  Fråga. Min fru har guld som hon bär och som når den lägsta nivån som gör att
+  Fråga: Min fru har guld som hon bär och som når den lägsta nivån som gör att
   allmosa krävs. Behöver hon betala allmosa för dem? Är det jag eller hon som
   ska betala den? Svar: Allmosa är en s...
 ---

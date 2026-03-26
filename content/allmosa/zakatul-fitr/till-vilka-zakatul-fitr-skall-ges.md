@@ -8,7 +8,7 @@ original_id: 1603
 description: >-
   Fråga: Till vilka ska zakātul-fiṭr ges? Är det tillåtet att sända den till de
   som kämpar för Allāhs sak i Afghanistan? Kan den doneras till en fond för att
-  bygga en moské? Svar: Zakātul-f...
+  bygga en moské? Svar: Zakātul-fiṭr...
 ---
 
 **Fråga:** Till vilka ska *zakātul-fiṭr* ges? Är det tillåtet att sända den till de som kämpar för Allāhs sak i Afghanistan? Kan den doneras till en fond för att bygga en moské?

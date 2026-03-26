@@ -10,7 +10,7 @@ categories:
 original_id: 1020
 description: >-
   Fråga: Vissa lärde säger att det inte är tillåtet att ge zakātul-fiṭr i form
-  av ris då den typ av mat som har rapporteras [i ahādīth ] finns tillgängliga.
+  av ris då den typ av mat som har rapporterats [i aḥādīt̲h] finns tillgängliga.
   Vad anser ni? Svar: Vissa lärde sä...
 ---
 

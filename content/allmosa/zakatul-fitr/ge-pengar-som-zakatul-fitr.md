@@ -10,7 +10,7 @@ categories:
   - Fasteallmosa
 original_id: 1551
 description: >-
-  Fråga: Vilket är utlåtandet om att ge pengar som zakātul- fitr? Det finns de
+  Fråga: Vilket är utlåtandet om att ge pengar som zakātul-fiṭr? Det finns de
   som säger att det är tillåtet. Svar: Det är inte okänt för någon muslim att
   islams viktigaste pelare är vittnesmål...
 ---

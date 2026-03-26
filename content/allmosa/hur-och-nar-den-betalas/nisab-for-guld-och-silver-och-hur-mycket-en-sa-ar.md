@@ -3,7 +3,7 @@ title: Niṣāb för guld och silver och hur mycket en ṣā´ är
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 2.
-  Libanon: Makbtaba Dar us-Salam. 601 s. ISBN 9960-892-66-2
+  Libanon: Maktaba Dar us-Salam. 601 s. ISBN 9960-892-66-2
 categories:
   - Allmosa (Zakāh)
   - Betalningstid

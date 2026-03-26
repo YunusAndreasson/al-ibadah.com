@@ -9,7 +9,7 @@ categories:
   - Fasteallmosa
 original_id: 651
 description: >-
-  Fråga: Vilka är de matsorter som är tillåtna att ge som zakātul-fitr ? Svar: I
+  Fråga: Vilka är de matsorter som är tillåtna att ge som zakātul-fiṭr? Svar: I
   en hadīth rapporteras att det som ska ges är fem saker. Det är vete, korn,
   torkade dadlar, russin, och ost. ...
 ---

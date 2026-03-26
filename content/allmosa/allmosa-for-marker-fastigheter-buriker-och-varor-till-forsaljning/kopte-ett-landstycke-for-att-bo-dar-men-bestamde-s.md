@@ -3,7 +3,7 @@ title: Landstycke köpt för boende sedan för handel
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 2.
-  Libanon: Makbtaba Dar us-Salam. 605 s. ISBN 9960-892-66-2
+  Libanon: Maktaba Dar us-Salam. 605 s. ISBN 9960-892-66-2
 categories:
   - Allmosa (Zakāh)
   - Handelsvaror och fastigheter

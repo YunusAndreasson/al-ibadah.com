@@ -3,7 +3,7 @@ title: Bestående välgörenhet under livstiden
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
-  Libanon: Makbtaba Dar us-Salam. 620 s. ISBN 9960-892-66-2
+  Libanon: Maktaba Dar us-Salam. 620 s. ISBN 9960-892-66-2
 categories:
   - Allmosa (Zakāh)
   - Övrigt
@@ -11,7 +11,7 @@ original_id: 1030
 description: >-
   Fråga: Är bestående välgörenhet det som någon ger under sin livstid eller är
   det vad personens familj ger för personens räkning när personen har gått bort? Svar:
-  Det ser ut som att det om avses med pro...
+  Det ser ut som att det som avses med pro...
 ---
 
 **Fråga:** Är bestående välgörenhet[^1] det som någon ger under sin livstid eller är det vad personens familj ger för personens räkning när personen har gått bort?

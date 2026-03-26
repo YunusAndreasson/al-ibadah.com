@@ -1,5 +1,5 @@
 ---
-title: Betala zakātul-fiṭr under ramadans första tio dagar
+title: Betala zakātul-fiṭr under ramaḍāns första tio dagar
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
@@ -8,10 +8,10 @@ categories:
   - Allmosa (Zakāh)
   - Fasteallmosa
 original_id: 1018
-description: "Svar: \_ Zakātul-fitr är sammankopplad med al-fitr [när fastan bryts] då al-fitr är anledningen till den. Om då brytandet av fastan under ramadan är anledningen till detta sonande är den beroen..."
+description: "Svar: Zakātul-fiṭr är sammankopplad med al-fiṭr [när fastan bryts] då al-fiṭr är anledningen till den. Om då brytandet av fastan under ramaḍān är anledningen till detta sonande är den beroen..."
 ---
 
-**Svar:** *zakātul-fiṭr* är sammankopplad med *al-fitr* [när fastan bryts] då *al-fitr* är anledningen till den. Om då brytandet av fastan under *ramaḍān* är anledningen till detta sonande är den beroende av den [brytandet av fastan] och den bör inte föregå.
+**Svar:** *zakātul-fiṭr* är sammankopplad med *al-fiṭr* [när fastan bryts] då *al-fiṭr* är anledningen till den. Om då brytandet av fastan under *ramaḍān* är anledningen till detta sonande är den beroende av den [brytandet av fastan] och den bör inte föregå.
 
 Därför är den bästa tiden att betala under *´eid*-dagen innan bönen. Det är dock tillåtet en eller två dagar innan *´eid*. Detta gör det lättare för givaren och mottagaren. Men innan dess är det enligt den starkaste åsikten bland de lärda inte tillåtet. Utgår vi från detta finns det således två tider: Den tillåtna tiden som är en eller två dagar innan *´eid* och den föredragna tiden som är under *´eid*-dagen precis innan bönen.
 

@@ -1,6 +1,6 @@
 ---
 title: Allmosa till en rāfiḍī
-author: Ibn ´Abdur-Rahman al-Jibrin
+author: Ibn ´Abdur-Rahman al-Jibrīn
 source: 'al-Lu’lu’ al-Makīn min Fatāwa Fadīlat al-shaykh Ibn Jibrīn, s. 39'
 categories:
   - Allmosa (Zakāh)
@@ -8,8 +8,8 @@ categories:
 original_id: 1315
 description: >-
   Fråga: Vilket är utlåtandet om en sunni som betalar allmosa till fattiga
-  rāfidi ? Om en muslim som är skyldig att betala allmosa ger den till en fattig
-  rāfidi , har personen då fullgjort sin skyldi...
+  rāfiḍī? Om en muslim som är skyldig att betala allmosa ger den till en fattig
+  rāfiḍī, har personen då fullgjort sin skyldi...
 ---
 
 **Fråga:** Vilket är utlåtandet om en sunni som betalar allmosa till fattiga *rāfiḍī*? Om en muslim som är skyldig att betala allmosa ger den till en fattig *rāfiḍī*, har personen då fullgjort sin skyldighet?

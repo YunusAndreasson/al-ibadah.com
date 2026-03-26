@@ -5,7 +5,7 @@ categories:
   - Mottagare
 original_id: 1028
 description: >-
-  Fråga: Gäller Allāh den Upphöjdes ord: ” Och för Guds sak .” [Koranen 9:60] om
+  Fråga: Gäller Allāh den Upphöjdes ord: “Och för Guds sak.” [Koranen 9:60] om
   man spenderar allmosan på att bygga moskéer? Svar: Att bygga moskéer
   innefattas inte i Allāhs den Upphöjdes ord: ...
 ---

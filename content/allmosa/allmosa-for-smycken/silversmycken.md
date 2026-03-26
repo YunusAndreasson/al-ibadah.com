@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Jag har en del silver i form av smycken som bärs runt halsen, händerna, på huvudet och på ett bälte. Jag har bett min man så många gånger att han ska sälja dem och betala allmosa för dem men han säger att de inte har nått miniminivån som krävs för allmosa. Jag har haft dem under ungefär 23 år och jag har inte betalat allmosa för dem. Vad måste jag nu göra?
 
-**Svar:** Om de inte har nått den lägsta nivån så krävs ingen allmosa för dem. Den lägsta nivån för silver är 140 *mit̲hqāl*, vilket är ungefär 56 silver riyal[^1]. Om silversmycken når denna nivå blir det obligatoriskt med allmosa enligt den mest korrekta åsikten bland de lärda. Detta krävs då varje år. Summan som måste betalas är 2.5 procent och det är 2 ½ riyal[^1] för varje 100 riyal[^1] och 25 riyal[^1] för varje 1000 riyal[^1].
+**Svar:** Om de inte har nått den lägsta nivån så krävs ingen allmosa för dem. Den lägsta nivån för silver är 140 *mit̲hqāl*, vilket är ungefär 56 silverriyal[^1]. Om silversmycken når denna nivå blir det obligatoriskt med allmosa enligt den mest korrekta åsikten bland de lärda. Detta krävs då varje år. Summan som måste betalas är 2.5 procent och det är 2 ½ riyal[^1] för varje 100 riyal[^1] och 25 riyal[^1] för varje 1000 riyal[^1].
 
 När det gäller guld är den lägsta nivån 20 *mit̲hqāl* och det är 11 ½ saudiska *junahy* eller 92 gram guld. Om ett år passerar för guldsmycken som når den lägsta nivån, eller överskrider den, då måste allmosa betalas, enligt den mest korrekta åsikten bland de lärda. Andelen som ska betalas är 2.5 procent och det är 2,5 *junahy* för varje 100 *junahy* eller dess värde i silvermynt. Skall man betala ännu mer räknar man efter detta system.
 

@@ -9,9 +9,9 @@ categories:
   - Fasteallmosa
 original_id: 653
 description: >-
-  Fråga: När det gäller den mat som man lämnar vid zakātul-fitr, ska den delas
-  ut bland de fattiga i vårt land? Vad gör vi med zakātul-fitr om vi reser tre
-  dagar innan ‘eid? Svar: profeten...
+  Fråga: När det gäller den mat som man lämnar vid zakātul-fiṭr, ska den delas
+  ut bland de fattiga i vårt land? Vad gör vi med zakātul-fiṭr om vi reser tre
+  dagar innan ´eid? Svar: Profeten...
 ---
 
 **Fråga:** När det gäller den mat som man lämnar vid *zakātul-fiṭr*, ska den delas ut bland de fattiga i vårt land? Vad gör vi med *zakātul-fiṭr* om vi reser tre dagar innan *´eid*?

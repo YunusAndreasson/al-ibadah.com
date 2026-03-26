@@ -2,7 +2,7 @@
 title: Kvinnans välgörenhet från makens tillgångar
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym
- 1. Libanon: Makbtaba Dar us-Salam. 621 s. ISBN 9960-892-66-2'
+ 1. Libanon: Maktaba Dar us-Salam. 621 s. ISBN 9960-892-66-2'
 categories:
   - Allmosa (Zakāh)
   - Övrigt
