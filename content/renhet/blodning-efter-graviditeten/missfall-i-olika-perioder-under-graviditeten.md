@@ -22,7 +22,7 @@ Blir hon ren före 40 dagar så måste hon göra *g̲husl*, be och fasta under *
 
 Det finns inget lägsta antal dagar angivet för blödningar efter graviditeten. Om tio dagar – eller mer eller mindre – går, då måste hon göra *g̲husl* och göra samma saker som en kvinna som är ren. Ser hon något blod efter 40 dagar så är det blod från en sjukdom. I så fall ber och fastar hon. Hennes man får också ha intim samvaro med henne.
 
-I detta fall måste hon tvaga sig inför varje bön, likt en kvinna som har en ihållande blödning från vaginan. Detta enligt en *ḥadīt̲h* där profeten – över honom vare Allāhs frid och välsignelser – säger till Fatimah bint Abi Hubaish då hon frågar om ihållande blödningar från vaginan: "… *tvaga dig inför varje bön*."
+I detta fall måste hon tvaga sig inför varje bön, likt en kvinna som har en ihållande blödning från vaginan. Detta enligt en *ḥadīt̲h* där profeten – över honom vare Allāhs frid och välsignelser – säger till Fatimah bint Abi Hubais̲h då hon frågar om ihållande blödningar från vaginan: "… *tvaga dig inför varje bön*."
 
 Kommer tiden för månadsblödningen efter de 40 dagarna, då gäller reglerna för månadsblödningen. Hon får då inte fasta eller be förrän hon är ren. Hon får heller inte ha intim samvaro med sin man.
 
@@ -30,7 +30,7 @@ Men om det inte är klart att fostret som kom ut från kvinnan är format som en
 
 Hon måste be och fasta under *ramaḍān* och hennes man får inte ha intim samvaro med henne. Hon måste dock tvaga sig inför varje bön och skydda sig från blod med bomull eller något liknande [precis som en kvinna med ihållande blödning från vaginan], tills hon blir ren.
 
-Hon får slå ihop middagsbönen och eftermiddagsbönen samt kvällsbönen och nattbönen. Likaså får hon göra *g̲husl* inför bönerna som bes tillsammans och för gryningsbönen. Detta grundas på en autentisk *ḥadīt̲h* från Hamnah bint Jahsh om detta. Enligt de lärde är anledningen att utlåtandet för henne är desamma som för en kvinna med ihållande blödning från vaginan.
+Hon får slå ihop middagsbönen och eftermiddagsbönen samt kvällsbönen och nattbönen. Likaså får hon göra *g̲husl* inför bönerna som bes tillsammans och för gryningsbönen. Detta grundas på en autentisk *ḥadīt̲h* från Ḥamnah bint Jaḥs̲h om detta. Enligt de lärde är anledningen att utlåtandet för henne är detsamma som för en kvinna med ihållande blödning från vaginan.
 
 Och Allāh är Den som ger framgång.
 

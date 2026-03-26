@@ -8,7 +8,7 @@ categories:
   - Strykning över strumpor
 original_id: 1132
 description: 'Fråga: Om man stryker över sina sockar medan man är hemma och sedan
- ge sig ut på en resa, bör man då stryka över dem på samma sätt som en resenär? Svar: Stryker
+ ger sig ut på en resa, bör man då stryka över dem på samma sätt som en resenär? Svar: Stryker
  man över sockarna medan man är ...'
 ---
 

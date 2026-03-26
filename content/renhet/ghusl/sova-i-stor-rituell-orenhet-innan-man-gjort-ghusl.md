@@ -1,6 +1,6 @@
 ---
 title: Sova i stor rituell orenhet innan man gjort g̲husl
-author: Ibn ´Abdur-Rahman al-Jibrin
+author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 97 s. ISBN saknas

@@ -12,7 +12,7 @@ categories:
 original_id: 779
 description: >-
   Fråga: Om en kvinna får sin månadsblödning, eller har blödningar efter
-  graviditeten, efter att ha trätt in i ihrām, är det då rätt att hon gör göra
+  graviditeten, efter att ha trätt in i ihrām, är det då rätt att hon gör
   tawāf runt Huset [Ka’bah]? Behöver hon utför...
 ---
 

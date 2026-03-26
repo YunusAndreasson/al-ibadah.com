@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om att ta av sockarna för att skydda sin rening varje gång som man tvagar sig?
 
-**Svar:** Detta motsäger sig profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och i detta finns en imitation av *rawāfidh* [En term som ofta används för att beskriva anhängare av shia] som inte tillåter att man stryker över sockarna. Profeten – över honom vare Allāhs frid och välsignelser – sade till al-Mughirah när han ville hjälpa honom att ta av lädersockarna: ”*Lämna dem för jag tog på dem när de båda [fötterna] var rena*.” [^1] Sedan strök han över dem.
+**Svar:** Detta motsäger sig profetens – över honom vare Allāhs frid och välsignelser – *sunnah* och i detta finns en imitation av *rawāfiḍ* [En term som ofta används för att beskriva anhängare av shia] som inte tillåter att man stryker över sockarna. Profeten – över honom vare Allāhs frid och välsignelser – sade till al-Mughirah när han ville hjälpa honom att ta av lädersockarna: ”*Lämna dem för jag tog på dem när de båda [fötterna] var rena*.” [^1] Sedan strök han över dem.
 
 
 [^1]: *al-Buk̲hārī* 206 och *Muslim* 274

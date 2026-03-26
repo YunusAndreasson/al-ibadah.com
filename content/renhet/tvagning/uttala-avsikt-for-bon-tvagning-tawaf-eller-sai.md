@@ -1,7 +1,7 @@
 ---
 title: 'Uttala avsikt för bön, tvagning, ṭawāf eller sa´ī'
 author: Ibn ´Abdullāh Ibn Bāz
-source: al-Bid'u wal-Muhadathāt wa mā lā Asla lahu – sida 635
+source: al-Bid'u wal-Muhdathāt wa mā lā Asla lahu – sida 635
 categories:
   - Renhet (Tahārah)
   - Tvagning

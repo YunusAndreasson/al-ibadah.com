@@ -9,12 +9,12 @@ categories:
   - Den stora tvagningen
 original_id: 1213
 description: >-
-  Fråga: Är det nödvändigt med tvagning när man har kramats och kyssts? Svar:
+  Fråga: Är det nödvändigt med tvagning när man har kramats och kyssats? Svar:
   Varken kvinnor eller män behöver göra g̲husl enbart efter att ha njutit av en
   omfamning eller kyss. Detta gäller så...
 ---
 
-**Fråga:** Är det nödvändigt med tvagning när man har kramats och kyssts?
+**Fråga:** Är det nödvändigt med tvagning när man har kramats och kyssats?
 
 **Svar:** Varken kvinnor eller män behöver göra *g̲husl* enbart efter att ha njutit av en omfamning eller kyss. Detta gäller så länge ingen sädesuttömning har inträffat, för om sådan vätska har runnit ut från dem blir det tvunget med *g̲husl* för båda. Om det enbart rinner från en av dem är det enbart en skyldighet för den personen.
 

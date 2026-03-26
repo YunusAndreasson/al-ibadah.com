@@ -25,9 +25,9 @@ När fötterna reciteras som *arjulikum* betyder det att det efterföljer Hans o
 
 Profetens – över honom vare Allāhs frid och välsignelser – *sunnah* klargör när man tvättar dem och när man stryker över dem. De tvättas när de inte är täckta och de stryks över när de är täckta av lädersockar eller något liknande.
 
-Från profetens – över honom vare Allāhs frid och välsignelser – *sunnah* har det i stor utsträckning rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att han strök över lädersockarna och de lärde har ansett det vara mutawatir […]
+Från profetens – över honom vare Allāhs frid och välsignelser – *sunnah* har det i stor utsträckning rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att han strök över lädersockarna och de lärde har ansett det vara *mutawatir* […]
 
-Att stryka över sockarna har rapporterats i *aḥādīt̲h* som är *mutawatir* från profeten. Att stryka över dem är att föredra över att ta av dem och tvätta fötterna, om man tog på dem när man var rituellt ren. Därför fick al-Mughirah bin Shu'bah höra följande när han ville ta av Allāhs sändebuds lädersockar inför tvagningen: ”Lämna *dem, för jag satte mina två [fötter] i dem medan de båda var rena*.” Och han strök över dem.
+Att stryka över sockarna har rapporterats i *aḥādīt̲h* som är *mutawatir* från profeten. Att stryka över dem är att föredra över att ta av dem och tvätta fötterna, om man tog på dem när man var rituellt ren. Därför fick al-Mug̲hīrah bin Shu´bah höra följande när han ville ta av Allāhs sändebuds lädersockar inför tvagningen: “*Lämna dem, för jag satte mina två [fötter] i dem medan de båda var rena*.” Och han strök över dem.
 
 Det finns dock villkor för att få stryka över lädersockar:
 
@@ -35,7 +35,7 @@ Det finns dock villkor för att få stryka över lädersockar:
 
 > 2. Att strykandet sker under en period då det är tillåtet, vilket vi ska förklara senare, om Allāh vill.
 
-> 3. Att strykandet sker under den mindre orenheten, det vill säga tvagningen. Blir det nödvändigt med *g̲husl* måste man ta av lädersockarna för att tvätta hela kroppen. Därför får man inte stryka över dem vid den större orenheten. Detta har rapporterats i en *ḥadīt̲h* från Safwan bin 'Asal i vilken han säger: ”*Allāhs sändebud brukade beordra oss att ta av våra lädersockar när vi reste under tre dagar och tre nätter, så länge det inte berodde på en stor orenhet*.”
+> 3. Att strykandet sker under den mindre orenheten, det vill säga tvagningen. Blir det nödvändigt med *g̲husl* måste man ta av lädersockarna för att tvätta hela kroppen. Därför får man inte stryka över dem vid den större orenheten. Detta har rapporterats i en *ḥadīt̲h* från Safwān bin ´Asal i vilken han säger: ”*Allāhs sändebud brukade beordra oss att ta av våra lädersockar när vi reste under tre dagar och tre nätter, så länge det inte berodde på en stor orenhet*.”
 
 Dessa är de tre villkoren för att få stryka över lädersockar.
 
@@ -61,11 +61,11 @@ Därför har de lärde inom hanbaliskolan sagt att om man tar på sina lädersoc
 
 Vad som gör det otillåtet att stryka över sockarna är att tiden går ut och att man tar av dem, för om man tar av dem är strykningen ogiltig men den rituella renheten finns dock fortfarande kvar.
 
-Beviset för att strykningen blir ogiltig om man tar av sockarna är en *ḥadīt̲h* från Safwan bin 'Asal: "*Allāhs sändebud beordrade oss inte att ta av lädersockarna*." Detta bevisar att om man tar av dem går det inte att stryka längre. Tar man då av dem efter att ha strukit över dem går det inte längre att göra det [stryka]. Man kan då inte ta på dem igen och stryka över dem om man inte utför en fullständig tvagning i vilken man tvättar båda fötterna.
+Beviset för att strykningen blir ogiltig om man tar av sockarna är en *ḥadīt̲h* från Safwān bin ´Asal: "*Allāhs sändebud beordrade oss inte att ta av lädersockarna*." Detta bevisar att om man tar av dem går det inte att stryka längre. Tar man då av dem efter att ha strukit över dem går det inte längre att göra det [stryka]. Man kan då inte ta på dem igen och stryka över dem om man inte utför en fullständig tvagning i vilken man tvättar båda fötterna.
 
-Tar man av dem så består renheten. Det är inte så att renheten upphävs genom att man tar av det som man har strykt över. Därför när man stryker är ens rituella renhet fullständigt, enligt lagenliga bevis. Detta renhetstillstånd ogiltigörs inte utom genom lagenliga bevis och det finns inget som säger att om man tar av det som han strukit över så blir ens tvagning ogiltig.
+Tar man av dem så består renheten. Det är inte så att renheten upphävs genom att man tar av det som man har strykt över. Därför när man stryker är ens rituella renhet fullständig, enligt lagenliga bevis. Detta renhetstillstånd ogiltigörs inte utom genom lagenliga bevis och det finns inget som säger att om man tar av det som han strukit över så blir ens tvagning ogiltig.
 
-Bevisen säger enbart att om man tar av det som man har strukit över, då går det inte längre att stryka över det mer. Man får alltså inte stryka mer förrän man har tvättat foten under en fullständig tvagning. Vi säger därmed att den grundläggande principen är, enligt de lagenliga bevisen, att den rituella renheten består tills det finns något bevis som motsäger sig. Finns det inte något sådant bevis är ens tvagning fortfarande giltig, den blir alltså inte ogiltig. Detta är enligt hur vi ser det den starkaste åsikten.
+Bevisen säger enbart att om man tar av det som man har strukit över, då går det inte längre att stryka över det mer. Man får alltså inte stryka mer förrän man har tvättat foten under en fullständig tvagning. Vi säger därmed att den grundläggande principen är, enligt de lagenliga bevisen, att den rituella renheten består tills det finns något bevis som motsäger det. Finns det inte något sådant bevis är ens tvagning fortfarande giltig, den blir alltså inte ogiltig. Detta är enligt hur vi ser det den starkaste åsikten.
 
 Och Allāh är Den som ger framgång.
 

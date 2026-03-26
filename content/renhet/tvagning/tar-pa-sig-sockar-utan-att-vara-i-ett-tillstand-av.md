@@ -9,7 +9,7 @@ categories:
   - Tvagning
 original_id: 1440
 description: >-
-  Fråga: Jag gjorde tvagade mig för gryningsbönen, sedan bad jag men jag glömde
+  Fråga: Jag tvagade mig för gryningsbönen, sedan bad jag men jag glömde
   att ta på mina sockar. Sedan sov jag efter bönen, vaknade och tog på mina
   sockar när jag inte var rituellt ren. När de...
 ---
@@ -22,7 +22,7 @@ Detta är alla de lärde eniga om. Den som bär dem utan renhet och stryker öve
 
 I *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* finns en *ḥadīt̲h* från Abū Hurairah i vilken det rapporteras att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Bönen accepteras inte för den som släpper sig förrän personen har tvagat sig*.” [^3]
 
-I *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* berättas att al-Mughirah bin Shu'bah hade följe med profeten – över honom vare Allāhs frid och välsignelser – under en resa och att han gick för att urinera, kom tillbaka och tvagade[^1] sig och al-Mughirah hällde vatten åt honom. Han strök över sitt huvud och al-Mughirah gick för att ta av sig sina lädersockar, men profeten – över honom vare Allāhs frid och välsignelser – sade: "*Lämna dem. Jag tog ju på dem då de [fötterna] var rena*." [^4] Sedan strök han över dem. *aḥādīt̲h* som behandlar detta ämne är många.
+I *Ṣaḥīḥ al-Buk̲hārī* och *Ṣaḥīḥ Muslim* berättas att al-Mughirah bin Shu´bah hade följe med profeten – över honom vare Allāhs frid och välsignelser – under en resa och att han gick för att urinera, kom tillbaka och tvagade[^1] sig och al-Mughirah hällde vatten åt honom. Han strök över sitt huvud och al-Mughirah gick för att ta av sig sina lädersockar, men profeten – över honom vare Allāhs frid och välsignelser – sade: "*Lämna dem. Jag tog ju på dem då de [fötterna] var rena*." [^4] Sedan strök han över dem. *aḥādīt̲h* som behandlar detta ämne är många.
 
 Därmed måste du som har ställt frågan upprepa dessa fyra böner – middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen. Du har inte syndat på grund av detta. Allāh den Upphöjde har ju sagt: "*Herre! Ställ oss inte till svars för glömska eller oavsiktliga fel*." [^5]
 

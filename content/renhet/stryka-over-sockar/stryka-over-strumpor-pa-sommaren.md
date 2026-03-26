@@ -14,7 +14,7 @@ description: >-
 
 **Fråga:** Jag ser ofta folk stryka över sina strumpor när de tvagar sig, till och med på sommaren. Jag hoppas att du kan förklara för mig i vilken omfattning det är tillåtet. Vilket är bäst för den som inte reser, att tvaga sig och tvätta fötterna eller att stryka över strumporna? Vänligen, notera att de som stryker över strumporna inte har någon ursäkt, allt de säger är att det finns ett medgivande som tillåter detta.
 
-**Svar:** All lovprisan tillhör Allāh. Den allmänna betydelsen av *sahīh aḥādīt̲h*[^1] om att det är tillåtet att stryka över lädersockarna eller strumporna visar att det är tillåtet att göra så både på vintern och på sommaren. Jag känner inte till några bevis som visar att det endast är tillåtet på vintern.
+**Svar:** All lovprisan tillhör Allāh. Den allmänna betydelsen av *ṣaḥīḥ aḥādīt̲h*[^1] om att det är tillåtet att stryka över lädersockarna eller strumporna visar att det är tillåtet att göra så både på vintern och på sommaren. Jag känner inte till några bevis som visar att det endast är tillåtet på vintern.
 
 Det är inte tillåtet att stryka över strumporna såvida inte villkoren satta av den islamiska lagen möts, såsom villkoren att strumporna måste täcka delen som tvättas under tvagningen, de måste tas på när man har tvagat sig och man måste vara uppmärksam på tiden som det är tillåtet under.
 

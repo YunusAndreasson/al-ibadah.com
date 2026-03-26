@@ -1,6 +1,6 @@
 ---
 title: G̲husl under en dusch är tillräckligt
-author: Ibn ´Abdur-Rahman al-Jibrin
+author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 75 s. ISBN saknas
@@ -18,6 +18,6 @@ description: >-
 
 **Svar:** Beskrivningen för en fullständig *g̲husl* är följande: Utforma intentionen, nämn sedan Allāhs namn, tvätta händerna tre gånger, tvätta könsdelarna och spår efter sperma på kroppen och utför sedan tvagningen. Påbörja sedan *g̲husl*, vilket innebär att du tvättar huvudet tre gånger [och säkerställ att vattnet når hårbotten]. Tvätta sedan resten av kroppen. Börja med den högra sidan och sedan den vänstra, tvätta kroppen och stryk så mycket som möjligt med handen.
 
-*g̲husl* under en dusch är tillräckligt om man täcker hela kroppen med vatten, även om det enbart sker en gång.
+*G̲husl* under en dusch är tillräckligt om man täcker hela kroppen med vatten, även om det enbart sker en gång.
 
 
