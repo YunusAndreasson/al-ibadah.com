@@ -35,7 +35,7 @@ Allāh har enbart sänt Sändebud som talar sitt folks språk för att på deras
 
 Allāh den Allsmäktige säger:
 
-> ”Vi har aldrig sänt ett sändebud som inte talade samma språk som det folk [till vilket hansändes], så att han klart kunde lägga fram [sitt budskap] för dem.” [Koranen 14:4]
+> ”Vi har aldrig sänt ett sändebud som inte talade samma språk som det folk [till vilket han sändes], så att han klart kunde lägga fram [sitt budskap] för dem.” [Koranen 14:4]
 
 Han säger även:
 

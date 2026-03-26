@@ -28,7 +28,7 @@ Denna *ḥadīt̲h*, som är *Ṣaḥīḥ*, påvisar att det är en pelare elle
 
 När det gäller att definiera de rörelser som motsäger lugn och fokus under bönen och begränsa dem till tre rörelser så finns det ingen *ḥadīt̲h* ifrån profeten – över honom vare Allāhs frid och välsignelser – som stödjer denna ide. I stället är detta ett förslag från några lärde. Men det finns inga bevis för detta.
 
-Det är ogillat att peta på saker och ting under bönen. Detta kan vara om man rör sin näsa, sitt skägg eller sina kläder och att man störs av detta. Petar man mycket under bönen så blir den ogiltig. Men om man enbart gör det lite, enligt vad som kan anses vara normalt eller om det görs mycket fast inte i följd, då blir inte bönen ogiltig därigenom. Men det är föreskrivet att den troende att upprätthåller vederbörligt fokus och ödmjukhet, undviker att peta både lite och mycket samt kämpar för att be med perfektion.
+Det är ogillat att peta på saker och ting under bönen. Detta kan vara om man rör sin näsa, sitt skägg eller sina kläder och att man störs av detta. Petar man mycket under bönen så blir den ogiltig. Men om man enbart gör det lite, enligt vad som kan anses vara normalt eller om det görs mycket fast inte i följd, då blir inte bönen ogiltig därigenom. Men det är föreskrivet för den troende att upprätthålla vederbörligt fokus och ödmjukhet, undviker att peta både lite och mycket samt kämpar för att be med perfektion.
 
 Beviset för att små rörelser, eller upprepade rörelser som inte är i en följd, inte gör bönen ogiltig är en rapport som säger att profeten – över honom vare Allāhs frid och välsignelser – öppnade dörren för ‘A’ishah – må Allāh vara nöjd med henne – en dag när han bad. [^3]
 
@@ -37,4 +37,4 @@ I en *ḥadīt̲h* från Abū Qatādah bevisas att profeten – över honom vare
 [^1]: Att säga Allāhu akbar.
 
 [^2]: Koranen 23:1 – 2
-[^3]: *Abū Dāwūd* 922, *al-Nasā’i* 601 och klassad som *Ṣaḥīḥ* av s̲hayk̲h al-Albāni i *Sahīh at-Tirmithi*, 601
+[^3]: *Abū Dāwūd* 922, *an-Nasā’ī* 601 och klassad som *Ṣaḥīḥ* av s̲hayk̲h al-Albāni i *Ṣaḥīḥ at-Tirmid̲hī*, 601

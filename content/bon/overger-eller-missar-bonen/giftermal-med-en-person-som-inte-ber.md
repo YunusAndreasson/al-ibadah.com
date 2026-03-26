@@ -6,7 +6,7 @@ source: >-
   Libanon: Makbtaba Dar us-Salam. 387 s. ISBN 9960-892-66-2 Muhammed Knut
   Bernström (1421), Koranens budskap. Simrishamn: Proprius. ISBN 91-7118-887-8
 categories:
-  - Bön (Ṣalāh)
+  - Bön (Salāh)
   - Missad bön
 original_id: 1219
 description: >-

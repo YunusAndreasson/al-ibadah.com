@@ -26,6 +26,6 @@ Då svarar vi: Kan han lägga sig tidigt så att han vaknar i tid eller kan han 
 
 Jag skulle vilja ta detta tillfälle i akt och säga något. En muslims skyldighet att dyrka Allāh på ett sätt som gör Honom den Allsmäktige nöjd. I detta jordeliv har man ju skapats enbart för att dyrka Allāh och man vet inte när döden kommer till en för att man ska gå vidare till Nästa liv i vilket det inte finns några handlingar. Sändebudet – över honom vare Allāhs frid och välsignelser – har sagt: ”*När Adams söner dör, dör också hans handlingar utom tre: [^1] förmiddagsbönen[^2], gagnelig kunskap och ett rättfärdigt barn som ber för honom*.” [*Muslim*]
 
-[^1]: adaqah jariyah
+[^1]: Ṣadaqah jāriyah
 [^2]: Dhuha
 

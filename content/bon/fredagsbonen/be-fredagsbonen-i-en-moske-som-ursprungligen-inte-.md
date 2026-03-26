@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Är det så, då finns det inget skadligt i att omordna en moské för att be församlingsbönen och fredagsbönen som ursprungligen inte var avsedd för detta.
 
-Det faktum att moskén var avsedd för att används för församlingsbön när den byggdes eller att den inte var avsedd för att be fredagsbönen i hindrar inte att detta ändras när den har byggts så att det blir en moské där både församlings- och fredagsbönen bes.
+Det faktum att moskén var avsedd för att användas för församlingsbön när den byggdes eller att den inte var avsedd för att be fredagsbönen i hindrar inte att detta ändras när den har byggts så att det blir en moské där både församlings- och fredagsbönen bes.
 
 Vi känner inte till någon av de lärde som har nämnt detta villkor. Därför är det ett villkor som saknar grund och det finns inget stöd i Koranen eller i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*.
 

@@ -1,9 +1,9 @@
 ---
 title: Informera släktingar om dödsfall
-author: >-
+author: Muḥammad bin Sālih al-´Uthaymīn
+source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 2.
   Libanon: Makbtaba Dar us-Salam. 572 s. ISBN 9960-892-66-2
-source: Muḥammad bin Salih al-´Uthaymin
 categories:
   - Bön (Salāh)
   - Begravningsbön

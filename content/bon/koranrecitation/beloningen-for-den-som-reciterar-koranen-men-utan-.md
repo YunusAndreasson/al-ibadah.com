@@ -24,7 +24,7 @@ Man belönas för att recitera den oavsett om man förstår vad man läser eller
 
 Hur bör då inte en troende förhålla sig när personen reciterar Allāhs skrift som är ett botemedel för hjärtan och en förmaning för alla människor. Detta är anledningen till att profetens följeslagare enbart läste tio verser åt gången och inte fortsatte med de tio efterföljande innan de lärt sig deras innebörd och sedan tillämpat dem.
 
-Man belönas då för att recitera Koranen, oavsett om man förstår den eller inte. Dock bör man sträva så mycket man kan för att lära sig dess innebörd och att lära sig från de lärda som är betrodda. Kan man inte finna någon lärd att lära sig från bör man gå till pålitliga böcker om *tafsīr* – exempelvis Ibn Jarir at-Tarbis *tafsīr* och Ibn Kathirs *tafsīr*.
+Man belönas då för att recitera Koranen, oavsett om man förstår den eller inte. Dock bör man sträva så mycket man kan för att lära sig dess innebörd och att lära sig från de lärda som är betrodda. Kan man inte finna någon lärd att lära sig från bör man gå till pålitliga böcker om *tafsīr* – exempelvis Ibn Jarīr at-Tabarīs *tafsīr* och Ibn Kathirs *tafsīr*.
 
 Och Allāh vet bäst.
 

@@ -20,7 +20,7 @@ Detta är det starkaste åsikten bland de lärde. Detta grundas på autentiska *
 
 Profeten – över honom vare Allāhs frid och välsignelser – sade även: ”*Det som skiljer oss ifrån de icke-troende är bönen. Den som övergivet den har begått kufr*[^1].” [*Aḥmad*]
 
-´Abdullāh ibn Shaqīq al-'Aqīlī, en av de ädla följeslagarna, sade: "*profetens – över honom vare Allāhs frid och välsignelser – följeslagare ansåg inte att övergivandet av någon handling utom bönen vara kufr.*"[^1] /…/
+´Abdullāh ibn Shaqīq al-'Aqīlī, en av de ädla följeslagarna, sade: "*profetens – över honom vare Allāhs frid och välsignelser – följeslagare ansåg inte att övergivandet av någon handling utom bönen var kufr.*"[^1] /…/
 
 [^1]: Otro.
 

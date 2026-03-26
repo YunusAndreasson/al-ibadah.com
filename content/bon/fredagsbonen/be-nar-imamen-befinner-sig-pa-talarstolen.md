@@ -1,6 +1,6 @@
 ---
 title: Be när imamen befinner sig på talarstolen
-author: Ibn ´Abdur-Rahman al-Jibrin
+author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 316 s. ISBN saknas

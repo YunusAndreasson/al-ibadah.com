@@ -22,4 +22,4 @@ Detta är dock en svag *ḥadīt̲h* vars äkthet inte har kunnat säkerställas
 
 [^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
 
-[^2]: *at-Titmidhī* 2617
+[^2]: *at-Tirmid̲hī* 2617

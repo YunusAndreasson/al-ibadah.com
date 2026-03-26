@@ -8,13 +8,13 @@ categories:
   - Resenärens bön
 original_id: 346
 description: 'Fråga: Får resenären be två förkortade böner vid samma tidpunkt när
- han fortfarande är i sin hemstad? Svar: Resenär får inte förkorta bönen i sin
+ han fortfarande är i sin hemstad? Svar: Resenären får inte förkorta bönen i sin
  hemstad innan han har gett sig av. Anledningen...'
 ---
 
 **Fråga:** Får resenären be två förkortade böner vid samma tidpunkt när han fortfarande är i sin hemstad?
 
-**Svar:** Resenär får inte förkorta bönen i sin hemstad innan han har gett sig av. Anledningen är att Allāh har sagt:
+**Svar:** Resenären får inte förkorta bönen i sin hemstad innan han har gett sig av. Anledningen är att Allāh har sagt:
 
 > ”När ni går ut [för att kämpa], är det inte fel av er att förkorta bönen, om ni befara ett anfall från dem som förnekar sanningen.” [Koranen 4:101]
 

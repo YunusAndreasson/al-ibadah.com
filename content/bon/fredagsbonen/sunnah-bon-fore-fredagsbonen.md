@@ -20,7 +20,7 @@ description: >-
 
 Många rapporter som är *Ṣaḥīḥ* visar att det som är föreskrivet för en muslim när personen kommer till moskén på fredagen är att be så mycket som Allāh vill att personen ska be innan imamen kommer ut. Profeten – över honom vare Allāhs frid och välsignelser – specificerade inte om det skulle vara två, fyra eller mer. Detta är bra men minimum är två bönecykler för att ”hälsa på moskén”.
 
-Beträffande *sunnah*-bön efter fredagsbönen så finns det en bön som är fast *sunnah*. Minimum är två bönecykler och maximum är fyra, eftersom profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som ber efter fredagsbönen, låt personen be fyra [bönecykler]*.” [Återberättat av Muslim, *al-Jumu´ah*, 8881].
+Beträffande *sunnah*-bön efter fredagsbönen så finns det en bön som är fast *sunnah*. Minimum är två bönecykler och maximum är fyra, eftersom profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som ber efter fredagsbönen, låt personen be fyra [bönecykler]*.” [Återberättat av Muslim, *al-Jumu´ah*, 881].
 
 Profeten – över honom vare Allāhs frid och välsignelser – brukade be två bönecykler i sitt hem efter fredagsbönen.
 

@@ -24,7 +24,7 @@ Under ‘Uthmāns kalifat, när människorna hade blivit långt fler, då beordr
 
 > ”as-Sa'ib bin Yazid informerade mig om att först brukade böneutropet ske när imamen satte sig i talarstolen under fredagen under profetens – över honom vare Allāhs frid och välsignelser – och Abū Bakrs tid. När sedan människor blev fler under ‘Uthmāns tid beordrade ‘Uthmān att ett tredje böneutrop skulle ropas ut under fredagen och det ropades ut vid az-Zawra' [En plats vid marknaden i Medina] och frågan fortsätter så.” [*al-Buk̲hārī* 912, 913, 915, 916]
 
-al-Qastalani berättar om denna *ḥadīt̲h* i sin förklaring till *Ṣaḥīḥ al-Buk̲hārī*, att böneutropet som ‘Uthmān – må Allāh vara nöjd med honom – lade till skedde innan bönen skulle börja och att detta kallades för det tredje böneutropet grundat på att det skedde som tillägg till det böneutrop som gjordes mellan imamens ankomst och *iqāmah* för bönen. *iqāmah* kallas likaså för böneutrop då båda är till för att annonsera bönen.
+al-Qastalani berättar om denna *ḥadīt̲h* i sin förklaring till *Ṣaḥīḥ al-Buk̲hārī*, att böneutropet som ‘Uthmān – må Allāh vara nöjd med honom – lade till skedde innan bönen skulle börja och att detta kallades för det tredje böneutropet grundat på att det skedde som tillägg till det böneutrop som gjordes mellan imamens ankomst och *iqāmah* för bönen. *Iqāmah* kallas likaså för böneutrop då båda är till för att annonsera bönen.
 
 Detta böneutrop som infördes när antalet muslimer ökade lade 'Uthmān till som ett resultat av hans *ijtihād*. De övriga följeslagarna godkände detta genom sin tystnad och avsaknad av kritik. Genom sin tystnad rådde det därmed konsensus.
 

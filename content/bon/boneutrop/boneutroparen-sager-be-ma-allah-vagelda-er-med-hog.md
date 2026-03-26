@@ -15,7 +15,7 @@ description: >-
   Vilket är utlåtandet om detta? Svar: Allāh ...
 ---
 
-**Fråga:** När somliga böneutropare har ropat ut till bön säger de i mikrofonen innan de har gjort den föreskrivna åkallan[^1]: ”*Be, må Allāh vägleda er*.” Vilket är utlåtandet om detta?
+**Fråga:** När somliga böneutropare har ropat ut till bön säger de i mikrofonen innan de har gjort den föreskrivna åkallan: “*Be, må Allāh vägleda er*.” Vilket är utlåtandet om detta?
 
 **Svar:** Allāh den Upphöjde säger: ”*Denna dag har Jag fullbordat det religiösa regelverket för er och skänkt er Min välsignelse i fullaste mått. Jag har beslutat att underkastelse under Guds vilja [islam] ska vara er religion*.” [^1]
 

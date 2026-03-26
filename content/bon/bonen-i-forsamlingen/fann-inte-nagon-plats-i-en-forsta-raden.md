@@ -1,9 +1,9 @@
 ---
 title: Fann inte någon plats i den första raden
-author: >-
+author: Ibn ´Abdullāh Ibn Bāz
+source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 164 s. ISBN saknas
-source: Ibn ´Abdullah Ibn Baz
 categories:
   - Bön (Salāh)
   - Församlingsbön

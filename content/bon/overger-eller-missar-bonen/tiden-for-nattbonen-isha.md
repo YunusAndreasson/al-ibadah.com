@@ -1,9 +1,9 @@
 ---
 title: 'Tiden för nattbönen [isha]'
-author: Ibn ´Abdullāh Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: 'Majmū’ah Fatāwa al-shaykh ‘Abd al-‘Azīz ibn Bāz, 10/386'
 categories:
-  - Bön (Ṣalāh)
+  - Bön (Salāh)
   - Missad bön
 original_id: 1272
 description: >-

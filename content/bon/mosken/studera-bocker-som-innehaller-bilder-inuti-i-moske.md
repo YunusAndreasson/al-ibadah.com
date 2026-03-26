@@ -7,7 +7,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 375
-description: 'Fråga: Vissa elever memorerar sina läxor i moskén och de tar deras
+description: 'Fråga: Vissa elever memorerar sina läxor i moskén och de tar sina
  böcker med sig. Får de göra så då det finns bilder på människor och djur i skolböckerna?
  Finns det något fel med detta? Svar:...'
 ---

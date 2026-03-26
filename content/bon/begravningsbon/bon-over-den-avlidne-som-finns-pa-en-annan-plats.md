@@ -20,7 +20,7 @@ description: >-
 
 Men om begravningsbönen skulle bes över dem som inte finns på plats? I denna fråga har de lärde olika åsikter. Vissa säger att bönen bes över dem som avlider och som finns på en annan plats. Några säger att det är nödvändigt att be begravningsbönen varje natt och att man bör avse att be den för alla muslimer från öst och från väst som har gått bort under dagen. Andra har sagt att man inte ska be över någon i personens frånvaro utom om det finns vetskap om att ingen bön har förrättats över personen. En tredje grupp säger att bönen [för den bortgångne som finns på en annan plats] enbart ska bes om personen har haft stor inverkan på muslimer, som genom nyttig kunskap eller något annat.
 
-Det som är korrekt är att man inte ber över någon som finns på plats, utom för den som ingen har bett över.
+Det som är korrekt är att man inte ber över någon som inte finns på plats, utom för den som ingen har bett över.
 
 Under de rättfärdiga kalifernas tid avled många som hade haft ett stort inflytande över muslimerna. Bön för den som inte var närvarande bes då inte. Den grundläggande principen i frågor om dyrkan är *at-tawqif* [att de inte ska utföras] tills det finns bevis för att de är tillåtna.
 

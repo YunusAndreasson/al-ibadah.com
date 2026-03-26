@@ -9,7 +9,7 @@ categories:
   - Böneutrop
 original_id: 1154
 description: >-
-  Fråga: Vilket är utlåtandet om böneutrop för resenärer? Svar: De lärde olika
+  Fråga: Vilket är utlåtandet om böneutrop för resenärer? Svar: De lärde hade olika
   åsikter. Den korrekta åsikten är att böneutrop är obligatorisk för resenärer.
   Detta beror på vad profeten – över ho...
 ---

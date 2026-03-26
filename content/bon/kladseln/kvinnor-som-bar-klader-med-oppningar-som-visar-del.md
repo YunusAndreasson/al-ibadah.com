@@ -18,5 +18,5 @@ description: 'Fråga: Vilket är utlåtandet om en kvinna som under bönen bär 
 
 Kvinnan måste vara försynt och bära det som täcker henne bäst för att hon inte ska innefattas i profetens – över honom vare Allāhs frid och välsignelser – ord:
 
-> ”Två är de typer av invånare i Helvetet som jag inte har sett: Människor som har piskor likt oxsvansar som skulle slå folk och kvinnor som skulle vara klädda men som ser nakna ut, som skulle vara benägna [mot ont] och göra deras män benägna mot det. Deras huvuden skulle vara som *bukht*-kamelens pucklar, lutandes mot en sida. De kommer inte att träda in i Paradiset och de kommer inte känna dess lukt även om dess lukt kan känns från ett visst avstånd.” [*Muslim*]
+> ”Två är de typer av invånare i Helvetet som jag inte har sett: Människor som har piskor likt oxsvansar som skulle slå folk och kvinnor som skulle vara klädda men som ser nakna ut, som skulle vara benägna [mot ont] och göra deras män benägna mot det. Deras huvuden skulle vara som *bukht*-kamelens pucklar, lutandes mot en sida. De kommer inte att träda in i Paradiset och de kommer inte känna dess lukt även om dess lukt kan kännas från ett visst avstånd.” [*Muslim*]
 

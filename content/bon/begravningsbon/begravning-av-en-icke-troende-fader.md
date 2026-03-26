@@ -16,13 +16,13 @@ description: >-
 
 **Fråga:** Min far har dött och han var icke-troende. Vad har jag för ansvar mot honom? Skall jag begrava honom och arrangera hans begravning? Skall jag tvätta och svepa honom? Finns det några rättigheter som min far har över mig vad gäller detta?
 
-**Svar:** All lovprisan tillhör Allāh. I en *sāhīh ḥadīt̲h*[^1] har det berättats att Nājiyah ibn Ka’b har sagt att ‘Ali ibn Abi Tālib – må Allāh vara nöjd med honom – har sagt:
+**Svar:** All lovprisan tillhör Allāh. I en *ṣaḥīḥ ḥadīt̲h*[^1] har det berättats att Nājiyah ibn Ka’b har sagt att ‘Ali ibn Abi Tālib – må Allāh vara nöjd med honom – har sagt:
 
 > “Jag sade till profeten: ’Din gamle vilseledde farbror har dött [han avsåg sin far Abū Tālib]. Vem ska begrava honom?’ Han sade: ’Gå och begrav din far.’ Jag sade: ’Jag vill inte begrava honom för han avled som en månggudadyrkare[^2].’ Han sade: ’Gå och begrav honom och gör sedan ingenting förrän du kommer till mig.’ Så jag gick och begravde honom. Sedan kom jag till honom med spår av damm och jord på mig. Han sade till mig att tvätta mig. Därefter åkallade han för mig med ord som var kärare för mig än allt annat på jorden.” [*al-Silsilah al-Sahīhah*, av al-Albāni, nr. 161]
 
 Shaykhen sade som kommentar till denna *ḥadīt̲h*:
 
-1. En muslim får ta hand om begravningar av släktingar som har varit månggudadyrkare[^2]. Detta tar inte bort personens motvilja mot deras *s̲hirk*. Ser ni inte att 'Ali i början vägrade att begrava sin far av den orsaken. Han sade: "*Han avled som en månggudadyrkare*[^2]." Han tänkte att om han begravde honom när så var fallet skulle det räknas in i den förbjudna sortens vänskap som det refereras till i denna vers: "*Troende! Sök inte vänskap och skydd hos dem som har drabbats av Guds vrede! De hoppas inte på det eviga livet, liksom de som [helt] förnekar sanningen inte hoppas [få återse] dem som de har följt till graven]*." [^3]
+1. En muslim får ta hand om begravningar av släktingar som har varit månggudadyrkare[^2]. Detta tar inte bort personens motvilja mot deras *s̲hirk*. Ser ni inte att 'Ali i början vägrade att begrava sin far av den orsaken. Han sade: "*Han avled som en månggudadyrkare*[^2]." Han tänkte att om han begravde honom när så var fallet skulle det räknas in i den förbjudna sortens vänskap som det refereras till i denna vers: "*Troende! Sök inte vänskap och skydd hos dem som har drabbats av Guds vrede! De hoppas inte på det eviga livet, liksom de som [helt] förnekar sanningen inte hoppas [få återse] dem som de har följt till graven*." [^3]
 
 När profeten – över honom vare Allāhs frid och välsignelser – upprepade ordern att begrava fadern, då lydde han honom skyndsamt och han gav upp åsikten som i början hade fallit honom in. Detta är vad lydnad betyder: att man ger upp sin åsikt i respons till profetens – över honom vare Allāhs frid och välsignelser – order. För mig ser det ut som att om en son begraver sin far eller mor är det den sista vänliga handling som sonen kan göra för föräldrarna som har varit månggudadyrkare[^2] i denna värld.
 
@@ -30,7 +30,7 @@ Men efter begravningen kan han varken åkalla eller be om förlåtelse för hono
 2. Det är inte föreskrivet att han tvättar eller sveper en icke-troende eller ber begravningsbön över personen, även om personen var en släkting. Profeten – över honom vare Allāhs frid och välsignelser – sade aldrig till ’Ali att han skulle göra det. Vore det tillåtet skulle han ha sagt så. Det är ju välkänt att profeten – över honom vare Allāhs frid och välsignelser – inte får försena förklaringen av någonting när informationen behövs. Denna åsikt har bland andra Hanbali.
 3. Det är inte föreskrivet att släktingar till en månggudadyrkare[^2] följer personens begravning. Profeten – över honom vare Allāhs frid och välsignelser – gjorde ju inte det med sin farbror trots att han var den som var snällast och mest barmhärtig mot honom. Han till och med bad Allāh att göra hans straff till det lättaste straffet i Helvetet. I detta finns en lektion för dem som har drabbats av högmod på grund av sin härstamning och som inte strävar efter det Nästkommande hos Herren. Allāh talade verkligen sanning när Han sade: ”*Den dag då basunen ljuder ska inga släktskapsband bestå mellan dem och de kommer inte att fråga efter varandra*.” [^5]
 
-[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser. Tjänar som en förklaring av Koranen.
+[^1]: Avser oftast ett uttalande från profeten – över honom vare Allāhs frid och välsignelser – som tjänar som en förklaring av Koranen.
 [^2]: Mushrik.
 
 [^3]: Koranen 60:13

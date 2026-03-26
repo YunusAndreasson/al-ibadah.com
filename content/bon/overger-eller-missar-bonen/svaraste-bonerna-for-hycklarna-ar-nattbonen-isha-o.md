@@ -1,6 +1,6 @@
 ---
 title: 'Svåraste bönerna för hycklarna är nattbönen [isha] och gryningsbönen [fajr]'
-author: Ibn ´Abdur-Rahman al-Jibrin
+author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 2.
   Libanon: Maktaba Dar us-Salam. 323 s. ISBN saknas Muhammed Knut Bernström
