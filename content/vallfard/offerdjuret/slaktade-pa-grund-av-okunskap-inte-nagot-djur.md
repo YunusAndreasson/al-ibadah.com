@@ -10,7 +10,7 @@ categories:
 original_id: 868
 description: >-
   Fråga: En man vallfärdade och ‘umrah tillsammans och han utförde alla
-  vallfärdsriter. Under dagarna i Mina slaktade han adhha -offret [ ‘eidul-aḍḥā
+  vallfärdsriter. Under dagarna i Mina slaktade han adhha-offret [´eidul-aḍḥā
   ] men på grund av okunskap slaktade han inte...
 ---
 

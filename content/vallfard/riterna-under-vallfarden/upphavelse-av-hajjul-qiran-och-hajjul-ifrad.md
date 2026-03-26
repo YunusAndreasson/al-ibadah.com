@@ -1,9 +1,9 @@
 ---
 title: Ḥajjul-qirān och ḥajjul-ifrād upphävda?
-author: >-
+author: Ibn ´Abdullāh Ibn Bāz
+source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 106 s. ISBN saknas
-source: Ibn ´Abdullah Ibn Baz
 categories:
   - Vallfärd (Hajj)
   - Vallfärdsriter

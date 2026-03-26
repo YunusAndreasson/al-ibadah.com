@@ -14,9 +14,9 @@ description: >-
   att personen har de transportmedel som kr...
 ---
 
-**Fråga:** Vilken är den ”förmåga” som man talar om då vallfärden diskuteras?
+**Fråga:** Vilken är den “förmåga” som man talar om då vallfärden diskuteras?
 
-Den "förmåga" som man talar om när det gäller vallfärden är en persons hälsa och att personen har de transportmedel som krävs för att ta sig till Allāhs heliga hus. Transportmedlet kan vara ett flygplan, en bil, ett djur eller en taxi. Detta beror på vilken situation som personen befinner sig i.
+**Svar:** Den “förmåga” som man talar om när det gäller vallfärden är en persons hälsa och att personen har de transportmedel som krävs för att ta sig till Allāhs heliga hus. Transportmedlet kan vara ett flygplan, en bil, ett djur eller en taxi. Detta beror på vilken situation som personen befinner sig i.
 
 Detta innebär även att personen har tillgångar som är tillräckliga för att ta sig dit och sedan tillbaka. Personen måste även ha lite extra tillgångar som personen, till hemkomsten från vallfärden, ger dem som personen är skyldig att ta hand om. Det innebär även att kvinnan har sin man eller *maḥram* med sig under resan till vallfärden eller *´umrah*.
 

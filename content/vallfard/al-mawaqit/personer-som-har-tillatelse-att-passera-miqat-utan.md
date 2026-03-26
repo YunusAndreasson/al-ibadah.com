@@ -1,6 +1,6 @@
 ---
 title: Tillåtelse att passera mīqāt utan iḥrām
-author: Ibn ´Abdur-Rahman al-Jibrin
+author: Ibn ´Abdur-Raḥmān al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 85 s. ISBN saknas

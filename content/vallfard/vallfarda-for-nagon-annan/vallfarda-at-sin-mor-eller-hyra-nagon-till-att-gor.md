@@ -1,6 +1,6 @@
 ---
 title: Vallfärda åt sin mor eller hyra någon till att göra det
-author: Ibn ´Abdullah Ibn Baz
+author: Ibn ´Abdullāh Ibn Bāz
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.
   Libanon: Maktaba Dar us-Salam. 76 s. ISBN saknas

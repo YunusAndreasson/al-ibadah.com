@@ -26,6 +26,6 @@ Om en pilgrim under *iḥrām* gör något som är förbjudet, då gäller ett a
 
 4. Där *fidyah* är att man offrar något likvärdigt, nämligen vid jakt av villebråd. Finns det någon motsvarighet till det villebråd som har jagats, då får man tre valmöjligheter: – Slakta det som är likvärdigt och dela ut köttet bland de fattiga. – Ta reda på dess värde och ge mat av samma värde till de fattiga. Här ges varje fattig en halv *ṣā´*. – Fasta en dag för varje fattig.
 
-Om det inte finns något som är likvärdigt med det villebråd som har jagats, då får man följande valmöjligheter: – Ta reda på det döda villebrådets värde och ge vad som är likvärdigt med det i mat till de fattiga. Här ges en halv *ṣā´* till varje fattig. – Fasta en dag för varje fattig
+Om det inte finns något som är likvärdigt med det villebråd som har jagats, då får man följande valmöjligheter: – Ta reda på det döda villebrådets värde och ge vad som är likvärdigt med det i mat till de fattiga. Här ges en halv *ṣā´* till varje fattig. – Fasta en dag för varje fattig.
 
 

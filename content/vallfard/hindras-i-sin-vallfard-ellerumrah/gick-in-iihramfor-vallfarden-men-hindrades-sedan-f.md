@@ -20,7 +20,7 @@ description: >-
 
 Om detta skulle vara den obligatoriska vallfärden, då utför han den senare som sin första vallfärd och inte för att ta igen denna. Om det inte var en obligatorisk vallfärd, då krävs enligt den korrekta åsikten inget av honom.
 
-Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – inte befallde de som hindrades att göra *´umrah* under expeditionen till al-Hubaibiyah till att ta igen den *´umrah* som de inte kunde utföra. Det finns därför inget i Skriften eller profetens – över honom vare Allāhs frid och välsignelser – *sunnah* som visar att det är en skyldighet för den som hindrats att ta igen detta. Allāh har sagt:
+Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – inte befallde de som hindrades att göra *´umrah* under expeditionen till al-Hudaibiyyah till att ta igen den *´umrah* som de inte kunde utföra. Det finns därför inget i Skriften eller profetens – över honom vare Allāhs frid och välsignelser – *sunnah* som visar att det är en skyldighet för den som hindrats att ta igen detta. Allāh har sagt:
 
 > ”Men om omständigheterna hindrar er [att fullfölja den], ge då vad ni har möjlighet att ge som offergåva.” [Koranen 2:196]
 

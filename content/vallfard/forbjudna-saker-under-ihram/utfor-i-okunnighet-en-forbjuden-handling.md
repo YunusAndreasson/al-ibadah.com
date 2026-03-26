@@ -1,6 +1,6 @@
 ---
 title: Förbjuden handling utförd i okunnighet
-author: Ibn ´Abdur-Rahman al-Jibrin
+author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 133 s. ISBN saknas Muhammed Knut Bernström

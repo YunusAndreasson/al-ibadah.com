@@ -27,7 +27,7 @@ Anses en vallfärd, grundat på denna *ḥadīt̲h*, vara en gottgörelse för a
 
 Hadithen ovan har samma betydelse som följande *ḥadīt̲h*: ”*En mabrur-hajj har inte någon annan belöning än Paradiset*.” [^2]
 
-Den är *marbur* när man utför skyldigheterna på ett perfekt sätt, överger syndfulla och olydiga handlingar utan att fortsätta med några av dem. Därmed måste den troende, oavsett om personen är pilgrim eller inte, undvika alla syndiga handlingar och, med anledning av dem, skynda sig att ångra sig inför Allāh. Personen måste överge dem och vara uppriktigt bestämd att inte fortsätta med dem. Detta för att hedra Allāh och i längtan efter att nå det som finns hos Honom.
+Den är *mabrūr* när man utför skyldigheterna på ett perfekt sätt, överger syndfulla och olydiga handlingar utan att fortsätta med några av dem. Därmed måste den troende, oavsett om personen är pilgrim eller inte, undvika alla syndiga handlingar och, med anledning av dem, skynda sig att ångra sig inför Allāh. Personen måste överge dem och vara uppriktigt bestämd att inte fortsätta med dem. Detta för att hedra Allāh och i längtan efter att nå det som finns hos Honom.
 
 En perfekt ånger, om det rör en rätt som tillhör någon eller något i skapelsen, sker när denna eller detta får sin rätt [av den som har överträtt denna rätt] eller ber om att få bli befriad från den. Allāh säger: ”*Troende! Vänd er till Gud i ånger [över era fel och synder]; kanske ska det gå er väl i händer!*” [^3]
 

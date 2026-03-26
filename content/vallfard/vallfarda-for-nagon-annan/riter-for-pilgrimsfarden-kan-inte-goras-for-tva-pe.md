@@ -20,14 +20,14 @@ description: >-
 
 Man bör utföra rättfärdiga handlingar för sin egen skull; som *´umrah*, vallfärden, välgörenhet, bön, recitation av Koranen, m.m. Anledningen är att man är i behov av rättfärdiga handlingar. Det kommer en dag då man önskar att alla goda handlingar kommer att vara bland ens nedtecknade handlingar.
 
-Allāhs sändebud – över honom vare Allāhs frid och välsignelser – befallde inte sitt samfund att ge rättfärdiga handlingar till föräldrarnas, oberoende om de var vid liv eller ej. Profeten – över honom vare Allāhs frid och välsignelser – befallde endast sitt samfund till att åkalla för den avlidne: "När *Adams son dör, dör också hans handlingar utom tre: [^2] förmiddagsbönen[^3], gagnelig kunskap och ett rättfärdigt barn som ber för honom*." [^4]
+Allāhs sändebud – över honom vare Allāhs frid och välsignelser – befallde inte sitt samfund att ge rättfärdiga handlingar till föräldrarna, oberoende om de var vid liv eller ej. Profeten – över honom vare Allāhs frid och välsignelser – befallde endast sitt samfund till att åkalla för den avlidne: "När *Adams son dör, dör också hans handlingar utom tre: [^2] förmiddagsbönen[^3], gagnelig kunskap och ett rättfärdigt barn som ber för honom*." [^4]
 
 Notera att han sade: ”*ett rättfärdigt barn som ber för personen*.” Han sade inte: ”eller *ett rättfärdigt barn som reciterar Koranen, ber två bönecykler, utför ´umrah[^1] samt vallfärdar eller fastar för honom*.” I stället sade han: ”*ett rättfärdigt barn som ber för personen*”, trots att diskussionens sammanhang omfattar rättfärdiga handlingar. Detta bevisar att det är bättre att åkalla för sina föräldrar i stället för att utföra rättfärdiga handlingar som tillägnas dem.
 
 Trots detta är ingen skada skedd om man handlar rättfärdigt för en av eller båda föräldrarna. Men när det gäller vallfärden eller *´umrah*, då kan man inte göra *talbiyyah* om man avser att handlingen är för båda två.
 
 [^1]: Den lilla vallfärden.
-[^2]: adaqah jariyah
+[^2]: Ṣadaqah jāriyah
 [^3]: Dhuha
 
 [^4]: *Muslim* 1631

@@ -22,7 +22,7 @@ Kom den svarta stenen ned från himlen eller är den enbart en sten som andra? V
 
 **Svar:** All lovprisan tillhör Allāh. Den svarta stenen har Allāh valt ut då Han har föreskrivit att vi ska kyssa den och Han ville att den skulle placeras i hörnet av Ka'bah, som vi vänder oss mot när vi ber. Han föreskrev att de som gör *ṭawāf* bör röra och kyssa den om de har möjlighet och om de inte kan göra det, då bör de peka mot den när de kommer i jämnhöjd med den och säga: "*Allāhu akbar*."
 
-Enligt en *ḥadīt̲h* återberättad av bland andra at-Tirmithi har den nedkommit från Paradiset, men det finns vissa svagheter i hadithens berättarkedja. [at-Tirmithi har återberättat den och al-Albāni har klassat den som *Ṣaḥīḥ* i *Sahīh at-Tirmithi*, 695]
+Enligt en *ḥadīt̲h* återberättad av bland andra at-Tirmithi har den nedkommit från Paradiset, men det finns vissa svagheter i hadithens berättarkedja. [at-Tirmithi har återberättat den och al-Albāni har klassat den som *Ṣaḥīḥ* i *Ṣaḥīḥ at-Tirmid̲hī*, 695]
 
 Och Allāh är källan till all styrka. Må Allāh sända frid och välsignelser över vår profet Muḥammad, hans familj och följeslagare.
 

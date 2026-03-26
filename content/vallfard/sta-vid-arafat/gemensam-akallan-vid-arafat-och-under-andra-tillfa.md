@@ -29,7 +29,7 @@ Allāh prisade Zakariya för detta. Han den Upphöjde sade: ”*[Detta är] en b
 
 Allāh har även sagt: ”*Er Herre säger: 'Be till Mig, så ska Jag besvara er [bön]*.” [^6]
 
-Verserna och *aḥādīt̲h* som uppmuntrar till åminnelse av Allāh och åkallan är många. Det är speciellt förskrivet att göra mycket åkallan och åminnelse av Allāh på denna plats [´Arafāt[^1]]. Detta med rena intentioner, ett närvarande hjärta samt med hopp och fruktan. Det är också föreskrivet att höja röster när man gör det eller att man säger *talbiyyah* som profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare gjorde, enligt vad vi känner till.
+Verserna och *aḥādīt̲h* som uppmuntrar till åminnelse av Allāh och åkallan är många. Det är speciellt föreskrivet att göra mycket åkallan och åminnelse av Allāh på denna plats [´Arafāt[^1]]. Detta med rena intentioner, ett närvarande hjärta samt med hopp och fruktan. Det är också föreskrivet att höja röster när man gör det eller att man säger *talbiyyah* som profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare gjorde, enligt vad vi känner till.
 
 Om några åkallar i en grupp och de säger ”*āmīn*” för personens åkallan, då finns det inget skadligt i det. Detta är precis vad som görs i *qunūt*, efter att ha läst ut Koranen, i åkallan för regn och vid liknande åkallan.
 
@@ -37,7 +37,7 @@ Att samlas vid en annan plats än *´Arafāt* under *´Arafāt*-dagen saknar gru
 
 Och Allāh är den som ger framgång.
 
-[^1]: Den öppna slätten sydöst om Mecka som pilgrimmerna samlas på under den nionde dagen i den tolfte månaden.
+[^1]: Den öppna slätten sydöst om Mecka som pilgrimerna samlas på under den nionde dagen i den tolfte månaden.
 
 [^2]: Koranen 7:55
 [^3]: Koranen 7:205

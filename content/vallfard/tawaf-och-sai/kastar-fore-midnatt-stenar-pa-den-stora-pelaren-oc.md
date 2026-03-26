@@ -14,7 +14,7 @@ description: >-
   att utföra ṭawāful-ifāḍah . Under denna tid...
 ---
 
-**Fråga:** Jag är en pilgrim som före midnatt kastade stenarna på den stora pelaren. Därefter begav jag mig direkt till helgedomen [den heliga Moskén] för att utföra *ṭawāf ul-ifāḍah*. Under denna tid förlorade jag min tvagning. Jag fullföljde *ṭawāf* men med anledning av trängseln runt platsen där Abraham stod hade jag inte möjlighet att göra två bönecykler efter *ṭawāf*. Sedan lämnade jag det Heliga områdets gränser [Mecka] samt Mina och jag återvände inte förrän efter kvällsbönen. Gjorde jag då något i vallfärdsriterna då min vallfärd var *ḥajjul-ifrād*?
+**Fråga:** Jag är en pilgrim som före midnatt kastade stenarna på den stora pelaren. Därefter begav jag mig direkt till helgedomen [den heliga Moskén] för att utföra *ṭawāf ul-ifāḍah*. Under denna tid förlorade jag min tvagning. Jag fullföljde *ṭawāf* men med anledning av trängseln runt platsen där Abraham stod hade jag inte möjlighet att göra två bönecykler efter *ṭawāf*. Sedan lämnade jag det Heliga områdets gränser [Mecka] samt *Minā* och jag återvände inte förrän efter kvällsbönen. Gjorde jag då något i vallfärdsriterna då min vallfärd var *ḥajjul-ifrād*?
 
 **Svar:** Att kasta sten på pelarna före midnatt är inte tillåtet. Tiden för att kasta sten på dem börjar efter halva natten innan dagen för offret. Detta enligt några av de lärda. Det är inte tillåtet att kasta stenarna före det.
 

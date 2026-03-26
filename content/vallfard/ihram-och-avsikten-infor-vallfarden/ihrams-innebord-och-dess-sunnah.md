@@ -1,5 +1,5 @@
 ---
-title: Ihrāms innebörd och dess sunnah
+title: Iḥrāms innebörd och dess sunnah
 author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 4.

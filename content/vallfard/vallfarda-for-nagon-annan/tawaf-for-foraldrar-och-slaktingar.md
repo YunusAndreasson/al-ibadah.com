@@ -9,7 +9,7 @@ categories:
   - Ställföreträdande vallfärd
 original_id: 819
 description: >-
-  Fråga: Får en man göra tawāf för hans föräldrars eller en av hans avlidna
+  Fråga: Får en man göra tawāf för sina föräldrars eller en av sina avlidna
   släktingars räkning? Svar: Det är inte fel om en man utför vallfärden eller
   ‘umrah för någon av ens föräldrar elle...
 ---

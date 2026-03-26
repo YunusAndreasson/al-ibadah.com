@@ -14,7 +14,7 @@ description: >-
   tjänst för att utföra ‘umrah tillsamm...
 ---
 
-**Fråga:** En pilgrim gick in i *iḥrām* vid *mīqāt* men i *talbiyyah* glömde han att säga: ”*Labbayk 'umratan mutamatti´[^1]'an biha ilal-hajj*” [Jag är här till Din tjänst för att utföra *´umrah* tillsammans med vallfärden som *ḥajjul-tamattu´*]. Skall han fullfölja riterna för vallfärden och *´umrah* som en *mutamatti´´*? Vad gäller för honom om han går ur sin *iḥrām* för sin *´umrah* och sedan går in i *iḥrām* i Mecka?
+**Fråga:** En pilgrim gick in i *iḥrām* vid *mīqāt* men i *talbiyyah* glömde han att säga: ”*Labbayk 'umratan mutamatti´[^1]'an biha ilal-hajj*” [Jag är här till Din tjänst för att utföra *´umrah* tillsammans med vallfärden som *ḥajjul-tamattu´*]. Skall han fullfölja riterna för vallfärden och *´umrah* som en *mutamatti´'*? Vad gäller för honom om han går ur sin *iḥrām* för sin *´umrah* och sedan går in i *iḥrām* i Mecka?
 
 **Svar:** Om han avsåg att utföra *´umrah* när han gick in i *iḥrām*, men glömde *talbiyyah* medan han avsåg *´umrah*, då är utlåtandet om honom samma som för den som säger *talbiyyah*. Han utför *ṭawāf*, *sa´ī*, klipper sitt hår och träder ur sin *iḥrām*.
 

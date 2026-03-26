@@ -30,7 +30,7 @@ En kvinna med månadsblödning och en kvinna med blödningar efter graviditeten 
 
 Ibn ´Abdul-Barr har nämnt att det finns ett konsensus om detta, eftersom det finns många bevis för det. Ett av dem är att profeten – över honom vare Allāhs frid och välsignelser – inte befallde dem som trädde ut *iḥrām* efter *´umrah* att utföra *ṭawāf ul-wadā´* när de lämnade Mecka under hans sista vallfärd.
 
-Ett av bevisen för detta är att han befallde de som trädde ur *iḥrām* i Mecka under hans sista vallfärd att bege sig till Mina och sedan till *´Arafāt*. Han beordrade dem då inte att utföra *ṭawāf ul-wadā´*.
+Ett av bevisen för detta är att han befallde de som trädde ur *iḥrām* i Mecka under hans sista vallfärd att bege sig till *Minā* och sedan till *´Arafāt*. Han beordrade dem då inte att utföra *ṭawāf ul-wadā´*.
 
 Och Allāh är Den som ger framgång.
 

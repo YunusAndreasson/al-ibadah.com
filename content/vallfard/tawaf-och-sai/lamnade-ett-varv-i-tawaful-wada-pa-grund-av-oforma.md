@@ -22,7 +22,7 @@ Det offer som krävs är en sjundedel av en kamel eller ko, en två år gammal g
 
 Utöver detta behöver du ångra dig och söka Allāhs förlåtelse då det inte är tillåtet att resa utan *ṭawāf ul-wadā´*. Anledningen är att Muslim i sin *Ṣaḥīḥ* återger att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Ingen bör ge sig av förrän personens sista handling är vid Huset [Ka'bah]*." [^2]
 
-Det finns även ett uttalande från Ibn ‘Abbās där han säger: ”*Folket befalldes att göra sin sista handling vid Huset [Ka’bah], men frågan lindrades för kvinnan med månadsblödning*.” Denna *ḥadīt̲h* är man eniga om. Enligt de lärde gäller samma regler för en kvinna under månadsblödning.
+Det finns även ett uttalande från Ibn ‘Abbās där han säger: ”*Folket befalldes att göra sin sista handling vid Huset [Ka’bah], men frågan lindrades för kvinnan med månadsblödning*.” Denna *ḥadīt̲h* är man enig om. Enligt de lärde gäller samma regler för en kvinna under månadsblödning.
 
 
 [^2]: *Muslim* 1327 och *Aḥmad* 1/222

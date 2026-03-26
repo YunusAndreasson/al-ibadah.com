@@ -10,7 +10,7 @@ categories:
 original_id: 817
 description: >-
   Fråga: En man vallfärdade och han gjorde ṭawāful-wadā under natten, men han
-  hade inte möjlighet att lämna Mecka efter tawāf . Av den anledningen spenderat
+  hade inte möjlighet att lämna Mecka efter tawāf . Av den anledningen spenderade
   han natten fram till morgonen i Mecka ...
 ---
 

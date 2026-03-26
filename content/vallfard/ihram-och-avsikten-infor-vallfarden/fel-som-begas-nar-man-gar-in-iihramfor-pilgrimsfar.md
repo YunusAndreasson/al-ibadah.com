@@ -1,7 +1,7 @@
 ---
 title: >-
-  Fel som begås när man går in i ihrām för pilgrimsfärden under
-  al-tarwiayh-dagen
+  Fel som begås när man går in i iḥrām för pilgrimsfärden under
+  al-tarwiyah-dagen
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: Dalīl al-Akhta’ allati yaqa’ fiha al-Hāj wa’l-Mu’tamir
 categories:
@@ -14,7 +14,7 @@ description: >-
   pilgrimsfärden från den Heliga Moskén och 2] de tog ...
 ---
 
-**Fråga:** Under den åttonde dagen i dhu’l-hijjah [*yawm al-tarwiyah*] lade vi märke till två saker som somliga gjorde: 1] de gick in i *iḥrām* för pilgrimsfärden från den Heliga Moskén och 2] de tog inte på de *iḥrām*-kläder som de bar under *´umrah*. Är detta rätt?
+**Fråga:** Under den åttonde dagen i *d̲hul-ḥijjah* [*yawm al-tarwiyah*] lade vi märke till två saker som somliga gjorde: 1] de gick in i *iḥrām* för pilgrimsfärden från den Heliga Moskén och 2] de tog inte på de *iḥrām*-kläder som de bar under *´umrah*. Är detta rätt?
 
 **Svar:** All lovprisan tillhör Allāh. Detta är ett av de misstag som begås när pilgrimer går in i *iḥrām* för pilgrimsfärden. Vi kommer att diskutera detta i detalj. *s̲hayk̲h* Muḥammad ibn ´Uthaymīn har sagt följande:
 

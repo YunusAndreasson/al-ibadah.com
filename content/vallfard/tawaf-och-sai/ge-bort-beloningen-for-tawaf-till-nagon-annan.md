@@ -10,11 +10,11 @@ categories:
 original_id: 912
 description: >-
   Fråga: Vad gäller beträffande att ge bort belöningen för att utföra tawāf till
-  någon. Vissa går fram till andra och säger: ”Gör sju [varv ] för mig!” och
+  någon. Vissa går fram till andra och säger: ”Gör sju [varv] för mig!” och
   avsikten är att de ska få belöningen s...
 ---
 
-**Fråga:** Vad gäller beträffande att ge bort belöningen för att utföra *ṭawāf* till någon. Vissa går fram till andra och säger: ”Gör sju [varv ] för mig!” och avsikten är att de ska få belöningen själva. Är detta tillåtet?
+**Fråga:** Vad gäller beträffande att ge bort belöningen för att utföra *ṭawāf* till någon. Vissa går fram till andra och säger: ”Gör sju [varv] för mig!” och avsikten är att de ska få belöningen själva. Är detta tillåtet?
 
 **Svar:** Det är inte tillåtet att göra *ṭawāf* runt Ka’bah åt någon annan. Ingen bör göra *ṭawāf* åt någon annan än sig själv, utom om han utför vallfärden eller *´umrah* för någon annans räkning; vilket betyder att han utför hela vallfärden eller *´umrah* och inte endast en del av den.
 

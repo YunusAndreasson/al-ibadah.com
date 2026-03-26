@@ -20,7 +20,7 @@ description: >-
 
 **Svar:** *ṭawāf ul-wadā´* är inte obligatoriskt under *´umrah*, men det är bättre att göra den. Om den som utför *´umrah* utelämnar den och inte utför *ṭawāf ul-wadā´*, då är det inga problem.
 
-Men under vallfärden är det en skyldighet. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "Ingen *bör ge sig av förrän personens sista handling är vid Huset [Ka'bah]*." [^2] Detta sade han till pilgrimerna under vallfärden.
+Men under vallfärden är det en skyldighet. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Ingen bör ge sig av förrän personens sista handling är vid Huset [Ka'bah]*." [^2] Detta sade han till pilgrimerna under vallfärden.
 
 Man får köpa vad man vill när man har utfört *ṭawāf ul-wadā´*. Detta kan vara vilket nödvändigt föremål som helst, även om man köper något i affärsangelägenheter, så länge tiden är kort. Om det drar ut på tiden måste man upprepa *ṭawāf*. Om tiden inte är vad som vanligtvis brukar anses som långt, då behöver man inte upprepa den.
 

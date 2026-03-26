@@ -9,7 +9,7 @@ categories:
   - Pilgrimskläder
 original_id: 768
 description: >-
-  Fråga: Får en kvinna träda in i ihr ām i vilka kläder hon vill? Svar: Ja, hon
+  Fråga: Får en kvinna träda in i iḥrām i vilka kläder hon vill? Svar: Ja, hon
   får träda in i ihrām i vilka kläder hon vill. Hon har inte, vilket många tror,
   några speciella kläder för ihrā...
 ---

@@ -20,7 +20,7 @@ description: >-
 
 Sedan bör man utföra *ṭawāf* och *sa´ī*, om det krävs att man gör *sa´ī*. Detta är bättre, då profeten – över honom vare Allāhs frid och välsignelser – gjorde det [i den ordningen]. Han kastade stenarna, slaktade djuret, rakade sitt huvud och begav sig till Mecka och utförde *ṭawāf*. Denna ordning är bättre: kasta stenarna, slakta djuret, raka huvudet eller klippa håret och sedan utföra *ṭawāf* och *sa´ī* [om det krävs att man utför *sa´ī*].
 
-Om man gör ett moment före ett annat [i oordning], då är det inget problem med det. Om man slaktar djuret före man kastar stenarna, eller om man utför *ṭawāf ul-ifāḍah* före stenarna kastas, eller om han rakar håret före stenarna kastas, eller om han rakar sig innan man slaktar – är detta godkänt. Profeten – över honom vare Allāhs frid och välsignelser – tillfrågades om den som gjorde vissa saker för andra eller sköt upp några. Han svarade då: ”*Inga problem, inga problem*.” [^3]
+Om man gör ett moment före ett annat [i oordning], då är det inget problem med det. Om man slaktar djuret före man kastar stenarna, eller om man utför *ṭawāf ul-ifāḍah* före stenarna kastas, eller om han rakar håret före stenarna kastas, eller om han rakar sig innan man slaktar – är detta godkänt. Profeten – över honom vare Allāhs frid och välsignelser – tillfrågades om den som gjorde vissa saker före andra eller sköt upp några. Han svarade då: ”*Inga problem, inga problem*.” [^3]
 
 
 [^2]: *´eid* den tionde i *d̲hul-ḥijjah*

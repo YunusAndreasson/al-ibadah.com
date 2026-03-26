@@ -20,9 +20,8 @@ description: >-
 
 Det är ingen skillnad om denna dyrkan är en rent fysisk handling, som bönen och *ṭawāf*, eller om det är en handling där tillgångar spenderas, som i välgörenhet eller i en kombination av de båda, som då ett djur offras.
 
-Det är dock viktigt att känna till att det som är bäst är att man handlar rättfärdigt för sin egen skull och att man väljer ut den muslim man vill för att åkalla för personen. Detta beror på att det är vad profeten – över honom vare Allāhs frid och välsignelser – uppmanade till då han sade: "*När Adams son dör, dör också hans handlingar utom tre: [^1] förmiddagsbönen[^2], gagnelig kunskap och ett rättfärdigt barn som ber för honom*.” [^3]
+Det är dock viktigt att känna till att det som är bäst är att man handlar rättfärdigt för sin egen skull och att man väljer ut den muslim man vill för att åkalla för personen. Detta beror på att det är vad profeten – över honom vare Allāhs frid och välsignelser – uppmanade till då han sade: “*När Adams son dör, dör också hans handlingar utom tre: fortlöpande välgörenhet[^1], gagnelig kunskap och ett rättfärdigt barn som ber för honom*.” [^2]
 
-[^1]: adaqah jariyah
-[^2]: Dhuha
+[^1]: *Ṣadaqah jāriyah*.
 
-[^3]: *Muslim* 1631
+[^2]: *Muslim* 1631

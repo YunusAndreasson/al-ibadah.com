@@ -24,7 +24,7 @@ Det finns även ett uttalande som lyder: ”*Det som står mellan en man och otr
 
 Detta omfattar både de som avvisar att bönen är en skyldighet och de som inte ber den på grund av lathet.
 
-Och Allāh är den som ger framgång.
+Och Allāh är Den som ger framgång.
 
 
 [^1]: *at-Tirmid̲hī* 2621 och *Aḥmad* 5:346

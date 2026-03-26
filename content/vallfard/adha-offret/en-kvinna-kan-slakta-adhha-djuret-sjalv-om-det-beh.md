@@ -10,8 +10,8 @@ categories:
 original_id: 880
 description: >-
   Fråga: Om det blir dags för att offra och det inte finns någon man i hushållet
-  närvarande, får kvinnan slakta adhha -djuret själv då? Svar: Ja, kvinnan får
-  utföra slakten av adhha -offerdjur...
+  närvarande, får kvinnan slakta adhha-djuret själv då? Svar: Ja, kvinnan får
+  utföra slakten av adhha-offerdjur...
 ---
 
 **Fråga:** Om det blir dags för att offra och det inte finns någon man i hushållet närvarande, får kvinnan slakta *adhha*-djuret själv då?

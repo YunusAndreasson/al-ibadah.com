@@ -10,7 +10,7 @@ categories:
 original_id: 879
 description: >-
   Fråga: Vilket är utlåtandet om den som rakade sitt hår under dagen för
-  ‘eidul-aḍḥā före han gick till bönen? Detta i vetskap om han råddes att inte
+  ´eidul-aḍḥā före han gick till bönen? Detta i vetskap om han råddes att inte
   göra detta, men han rakade sig ändå innan böne...
 ---
 
