@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Vilket är utlåtandet om att beskriva profeten – över honom vare Allāhs frid och välsignelser – med ordet *habībullah* [Allāhs älskade]?
 
-**Svar:** Utan tvekan älskar Allāh profeten. Profeten – över honom vare Allāhs frid och välsignelser – älskar ju Allāh och Allāh älskar honom. Det finns dock en beskrivning av honom som är mer beaktansvärd än den, och den är ordet *al-abtar* [Allāhs vän]. Sändebudet – över honom vare Allāhs frid och välsignelser – är *al-abtar*, vilket han har sagt: ”*Allāh har sannerligen tagit mig som en khalīl på samma sätt som Han tog Abraham som en khalīl*." [^1]
+**Svar:** Utan tvekan älskar Allāh profeten. Profeten – över honom vare Allāhs frid och välsignelser – älskar ju Allāh och Allāh älskar honom. Det finns dock en beskrivning av honom som är mer beaktansvärd än den, och den är ordet *al-k̲halīl* [Allāhs vän]. Sändebudet – över honom vare Allāhs frid och välsignelser – är *al-k̲halīl*, vilket han har sagt: “*Allāh har sannerligen tagit mig som en khalīl på samma sätt som Han tog Abraham som en khalīl*.” [^1]
 
 Beskriver man honom enbart som Allāhs *habīb* har man sänkt hans status. [Allāhs] *khullah* [vänskap] är ju större och högre än [Hans] *mahabbah* [kärlek].
 

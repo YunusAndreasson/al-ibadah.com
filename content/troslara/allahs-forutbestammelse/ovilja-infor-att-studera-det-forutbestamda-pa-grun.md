@@ -38,7 +38,7 @@ Kunskap om *tawḥīd* är den ädlaste formen av lärande och det beror på det
 
 Det första och det viktigaste som innefattas i detta är *tawḥīd* och *´aqīdah* men det är även en skyldighet att sträva efter att förvissa sig om hur man ska kunna skaffa sig denna kunskap och från vilka källor som man kan få den. När man har källorna tar man den kunskap som är tydlig och fri från oklarhet.
 
-Fortsätt sedan och ta en titt på de innovationer och oklara frågor som har dykt upp. Detta för att få dem förklarade genom den kunskap som tidigare har inhämtats från den *´aqīdah* som är ren. Källorna måste vara Allāhs skrift och Hans sändebuds *sunnah*. Efter dessa källor tar man följeslagarnas uttalanden, imamerna från *tabi'un* som efterföljde dem och åsikterna från de lärda vars kunskap och pålitlighet är bekräftad. Detta gäller speciellt *s̲hayk̲h ul-islām* ibn Taymiyyah och hans elev Ibn al-Qayyim. Må de få ta emot rikliga välsignelser.
+Fortsätt sedan och ta en titt på de innovationer och oklara frågor som har dykt upp. Detta för att få dem förklarade genom den kunskap som tidigare har inhämtats från den *´aqīdah* som är ren. Källorna måste vara Allāhs skrift och Hans sändebuds *sunnah*. Efter dessa källor tar man följeslagarnas uttalanden, imamerna från *tābi´īn* som efterföljde dem och åsikterna från de lärda vars kunskap och pålitlighet är bekräftad. Detta gäller speciellt *s̲hayk̲h ul-islām* ibn Taymiyyah och hans elev Ibn al-Qayyim. Må de få ta emot rikliga välsignelser.
 
 [^1]: Rättslära.
 

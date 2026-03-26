@@ -22,7 +22,7 @@ description: >-
 
 > ”Sadla inte era riddjur utom för att besöka tre moskéer: den heliga Moskén [i Mecka], min Moské [i Medina] och Klippmoskén [i Jerusalem].” [*al-Buk̲hārī* 1189 och *Muslim* 1397]
 
-Detta innebär att man inte bör resa någonstans för att dyrka, därför de platser man får resa till för att dyrka är enbart dessa tre moskéer. Man bör inte resa någon annanstans än till dem. En resa till profetens – över honom vare Allāhs frid och välsignelser – grav bör därmed inte genomföras, utan resan ska enbart vara till moskén. När man sedan har nått moskén är det en *sunnah* för män att besöka profetens – över honom vare Allāhs frid och välsignelser – grav. För kvinnor är det inte *sunnah* att besöka den.
+Detta innebär att man inte bör resa någonstans för att dyrka, därför att de platser man får resa till för att dyrka är enbart dessa tre moskéer. Man bör inte resa någon annanstans än till dem. En resa till profetens – över honom vare Allāhs frid och välsignelser – grav bör därmed inte genomföras, utan resan ska enbart vara till moskén. När man sedan har nått moskén är det en *sunnah* för män att besöka profetens – över honom vare Allāhs frid och välsignelser – grav. För kvinnor är det inte *sunnah* att besöka den.
 
 Allāh är Den som ger framgång.
 

@@ -33,7 +33,7 @@ De *aḥādīt̲h* som beskriver detta är många. Vi får bland annat veta att 
 
 > ”De som livnär sig på ocker ska uppstå [till Domen] lika ostadiga på benen som den som djävulen med sin beröring slagit med vansinne.” [Koranen 2:275]
 
-I detta fall kan *jinn* tala inifrån människor, de kan tala till den som reciterar verser från den ädla Koranen. Reciteraren kan till exempel få ett löfte från personen *jinn* om att den inte ska återvända. Detta har vi lärt oss genom vad vi har fått berättat för oss och vad som är vanlig kännedom bland folk.
+I detta fall kan *jinn* tala inifrån människor, de kan tala till den som reciterar verser från den ädla Koranen. Reciteraren kan till exempel få ett löfte från den berörda *jinn* om att den inte ska återvända. Detta har vi lärt oss genom vad vi har fått berättat för oss och vad som är vanlig kännedom bland folk.
 
 Med detta som grund: Skydd mot det onda i *jinn* får man genom att recitera sådant som har återberättats i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* om skydd mot dem. Detta kan vara al-Kursi[^1]-versen. När man reciterar denna vers under natten befinner man sig ju under Allāhs skydd och djävulen kan inte närma sig en förrän under morgonen.
 

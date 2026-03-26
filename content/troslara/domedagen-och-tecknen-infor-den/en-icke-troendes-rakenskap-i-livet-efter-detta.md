@@ -30,7 +30,7 @@ Allāh den Upphöjde säger:
 
 Texten i denna vers klargör att den troende inte har någon skuld i fråga om vad de har ätit [tidigare]. Från denna vers kan vi därför förstå att skuld kommer att falla på de icke-troende för vad de har ätit tidigare. Allāh säger även:
 
-> ”Säg: 'Vem har förbjudit de sköna ting som Gud har skänkt Sina tjänare och allt det goda som Han har gett dem för deras försörjning?' Säg: 'Allt detta tillkommer i detta liv dem som tror, och på Uppståndelsens dag ska det vara dem [ensamma] förbehåller.' Så framställer Vi [Våra] budskap fast och klart för alla insiktsfulla människor.” [Koranen 7:32]
+> ”Säg: 'Vem har förbjudit de sköna ting som Gud har skänkt Sina tjänare och allt det goda som Han har gett dem för deras försörjning?' Säg: 'Allt detta tillkommer i detta liv dem som tror, och på Uppståndelsens dag ska det vara dem [ensamma] förbehållet.' Så framställer Vi [Våra] budskap fast och klart för alla insiktsfulla människor.” [Koranen 7:32]
 
 Han säger: ”*Säg: 'Allt detta tillkommer i detta liv dem som tror*…” Detta är ett bevis för att den icke-troende inte har rätt att njuta av dem. Jag säger: Personen har ingen laga rätt.
 

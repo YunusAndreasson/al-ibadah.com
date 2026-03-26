@@ -10,7 +10,7 @@ categories:
 original_id: 1679
 description: >-
   Fråga: Vilken är innebörden av denna hadīth : ”Den som vänder sig bort från
-  min sunnah, då tillhör han inte mig.” [*al-Buk̲hārī* 5063 och Muslim 1401]
+  min sunnah, då tillhör han inte mig.” [*al-Buk̲hārī* 5063 och *Muslim* 1401]
   Hamnar man i denna kategori när man inte ber ...
 ---
 
@@ -23,4 +23,4 @@ De frivilliga bönerna berörs inte av denna *ḥadīt̲h* för när man inte ut
 Det finns då en skillnad mellan någon som överger profetens – över honom vare Allāhs frid och välsignelser – vägledning genom att vända sig bort från den och någon som inte följer den på grund av lathet eller för att Allāh den Allsmäktige har tillåtit honom att inte göra det.
 
 
-[^1]: *al-Buk̲hārī* 5063 och Muslim 1401
+[^1]: *al-Buk̲hārī* 5063 och *Muslim* 1401

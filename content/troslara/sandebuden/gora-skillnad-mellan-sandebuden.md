@@ -10,7 +10,7 @@ categories:
   - Sändebuden
 original_id: 82
 description: >-
-  Fråga: Hur han vi jämka samman Allāhs den Upphöjdes ord: ” Några av dessa
+  Fråga: Hur kan vi jämka samman Allāhs den Upphöjdes ord: ” Några av dessa
   sändebud [om vilka Vi har berättat för dig] har Vi gett företräde framför
   andra .” [Koranen 2:253] med: ” Vi gör ingen åts...
 ---

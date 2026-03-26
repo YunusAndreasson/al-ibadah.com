@@ -20,7 +20,7 @@ description: >-
 
 > ”Allāhs förbannelse vilar över judarna och de kristna som gjorde om deras profeters gravar till platser för bön.” [*al-Buk̲hārī* 1330, *Muslim* 529, *an-Nasā’ī* 704, *Aḥmad* 5:204 och *al-Muwatta* 85]
 
-‘Ā’ishāh – må Allāh vara nöjd med henne – har nämnt att både Umm Habihah och Umm Salamah berättade för profeten – över honom vare Allāhs frid och välsignelser – om en kyrka med avbilder som de hade sett i Etiopien. Profeten – över honom vare Allāhs frid och välsignelser – sade:
+‘Ā’ishāh – må Allāh vara nöjd med henne – har nämnt att både Umm Habībah och Umm Salamah berättade för profeten – över honom vare Allāhs frid och välsignelser – om en kyrka med avbilder som de hade sett i Etiopien. Profeten – över honom vare Allāhs frid och välsignelser – sade:
 
 > ”De byggde en plats för bön över graven så fort en from person gick bort och där placerade de personens avbilder. Inför Allāh är de ondast i skapelsen.” [*al-Buk̲hārī* 427, 434, 1341; *Muslim* 328; *an-Nasā’ī* 705 och *Aḥmad* 6:51]
 

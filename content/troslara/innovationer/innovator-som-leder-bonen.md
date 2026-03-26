@@ -11,7 +11,7 @@ original_id: 1572
 description: >-
   Fråga: Är bön bakom en innovatör eller någon som låter klädesplagget falla
   nedanför vristen giltig? Svar: Ja, bönen är giltig så länge innovationen inte
-  leder till ptro. Om innovationen leder ...
+  leder till otro. Om innovationen leder ...
 ---
 
 **Fråga:** Är bön bakom en innovatör eller någon som låter klädesplagget falla nedanför vristen giltig?

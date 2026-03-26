@@ -23,7 +23,7 @@ description: >-
 
 Men detta ljus är inte en del av profetskapets sigill vilket somliga panteister påstår, för han var av blod, kött och ben.
 
-Han skapades från en fader och moder, och han skapades inte före sin födsel. När de gäller de *aḥādīt̲h* som påstår att Allāh skapade profeten Muḥammads ljus, eller att Allāh fyllde Sin hand med Sitt anletes ljus och att denna handfull ljus var Muḥammad, eller att Han tittade på det och det blev droppar av ljus, där varje droppe sedan blev en profet, eller att Han skapade hela skapelsen från Sitt ljus – dessa och liknande *aḥādīt̲h* kan inte sägas komma från profeten.
+Han skapades från en fader och moder, och han skapades inte före sin födsel. När det gäller de *aḥādīt̲h* som påstår att Allāh skapade profeten Muḥammads ljus, eller att Allāh fyllde Sin hand med Sitt anletes ljus och att denna handfull ljus var Muḥammad, eller att Han tittade på det och det blev droppar av ljus, där varje droppe sedan blev en profet, eller att Han skapade hela skapelsen från Sitt ljus – dessa och liknande *aḥādīt̲h* kan inte sägas komma från profeten.
 
 Må frid och välsignelser vara över vår mästare Muḥammad, över hans familj och följeslagare.
 

@@ -22,7 +22,7 @@ Den första sorten är tillåten att bära. Detta ansåg Ibn Mas'ūd och Ibn ‘
 
 Denna åsikt grundas på vad bland andra imam *Aḥmad* och Abū Dāwūd har återberättat om att Ibn Mas'ūd har sagt att han hörde profeten – över honom vare Allāhs frid och välsignelser – säga: ”*Sannerligen är besvärjelser, amuletter och tiwalah[^1] s̲hirk*[^2]." [^3]
 
-*s̲hayk̲h* ´Abdur-Rahmān bin *ḥasan* ash-*s̲hayk̲h* har sagt: ”Jag säger att detta är riktigt med anledning av tre saker som visar på det:
+*s̲hayk̲h* ´Abdur-Raḥmān bin Ḥasan āl ash-S̲hayk̲h har sagt: ”Jag säger att detta är riktigt med anledning av tre saker som visar på det:
 
 1. Det allmänna beviset utan några begränsande texter.
 2. Att sådant som innehåller annat inte bärs.

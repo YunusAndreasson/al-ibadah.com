@@ -25,6 +25,6 @@ Profetens – över honom vare Guds frid och välsignelser – utseende är väl
 Beträffande den andra *ḥadīt̲h*: "Den som ser mig [i hans dröm], då är Elden förbjuden för honom.” Den saknar grund och är inte autentisk.
 
 
-[^1]: *al-Buk̲hārī* 6996 och Muslim 2267
+[^1]: *al-Buk̲hārī* 6996 och *Muslim* 2267
 [^2]: *al-Buk̲hārī* 110
 [^3]: *Aḥmad* 2:261

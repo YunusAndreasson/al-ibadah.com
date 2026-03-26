@@ -25,7 +25,7 @@ description: >-
 
 Därmed kommer den att öka och minska. Detta beror på att hjärtats bekräftelse går upp och ned, och att tro på något som sägs till en är inte som att tro på något som man ser med egna ögon. Att tro på information från en person är heller inte detsamma som att tro på information från två personer. Därför sade Abraham:
 
-> ”’Herre! Visa mig hur Du återuppväcker de döda.’ [Gud] frågade: ’Tror du då inte?’ [Abraham] svarade: ’Jo, jag tror, men jag vill att mitt hjärtas ska få ro.’” [Koranen 2:260]
+> ”’Herre! Visa mig hur Du återuppväcker de döda.’ [Gud] frågade: ’Tror du då inte?’ [Abraham] svarade: ’Jo, jag tror, men jag vill att mitt hjärta ska få ro.’” [Koranen 2:260]
 
 Tron ökar därmed genom hjärtats bekräftelse, dess lugn och dess stillhet. Detta är något som man känner inom sig själv. Befinner man sig i en samling i vilken någon förmanar om frågor som rör religionen och påminner om Paradiset och Helveteselden, då ökar ens tro tills den är sådan att man skulle kunna se den med egna ögon. När det finns försumlighet och man reser sig från denna samling, då minskar vissheten i ens hjärta.
 

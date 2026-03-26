@@ -25,7 +25,7 @@ Vi säger att om fredagsbönen bes på många platser på grund av behov, då ä
 
 Om stadens hörn är långt från varandra eller om moskéerna inte räcker till för fredagsbönerna, då har de fruktat Allāh så mycket de kunnat och de som gör det har gjort det som är en skyldighet för dem. Hur kan någon då säga att den är ogiltig och att en annan bön måste bes i dess ställe, som då skulle vara middagsbönen i stället för fredagsbönen?
 
-Men om fredagsbönen bes utan behov på ett antal olika platser, då råder det inga tvivel om att det motsäger sig vad som är *sunnah* och profetens – över honom vare Allāhs frid och välsignelser – samt de rättfärdiga kaliferna handlande. Enligt majoriteten av de lärde är detta inte tillåtet. Trots detta säger vi inte att denna dyrkan är ogiltig. Ansvaret ligger ju här inte på gemene man utan på dem som är ansvariga för att ha tillåtet att ett antal fredagsböner bes utan behov.
+Men om fredagsbönen bes utan behov på ett antal olika platser, då råder det inga tvivel om att det motsäger sig vad som är *sunnah* och profetens – över honom vare Allāhs frid och välsignelser – samt de rättfärdiga kaliferna handlande. Enligt majoriteten av de lärde är detta inte tillåtet. Trots detta säger vi inte att denna dyrkan är ogiltig. Ansvaret ligger ju här inte på gemene man utan på dem som är ansvariga för att ha tillåtit att ett antal fredagsböner bes utan behov.
 
 Med detta som grund säger vi: Myndigheterna som är ansvariga för moskéerna får inte tillåta flera fredagsböner, om det inte finns ett behov av det. Detta beror på att Laggivaren håller högt att folket samlas för att dyrka. Anledningen är att det ska leda till harmoni, kärlek, att de som inte kan lär sig och andra stora fördelar.
 

@@ -25,7 +25,7 @@ Allāh den Upphöjde har sagt: ”*I Guds Sändebud har ni ett gott föredöme*.
 
 Jag känner inte till någon invändan mot att säga *āmīn* under imamens predikan så länge rösten inte höjs.
 
-Genom Allāhs uppnås framgång.
+Genom Allāh uppnås framgång.
 
 
 [^1]: Koranen 33:21

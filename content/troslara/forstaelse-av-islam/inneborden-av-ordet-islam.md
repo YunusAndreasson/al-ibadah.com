@@ -30,7 +30,7 @@ Följaktligen, religionen som de tjänar Allāh genom kommer Han inte att accept
 
 Säger vi att islam är dyrkan av Allāh den Upphöjde på det sätt som Han har föreskrivit innefattar detta en underkastelse, både i det yttre och i det inre, inför enbart Honom. Därmed omfattas hela religionen: trosprinciper, handlingar och yttranden. Men när man säger islam jämsides med *īmān*, då avser islam de yttre handlingarna som har med tungan och lederna att göra och īmān avser det inre som rör trosprinciper och hjärtats handlingar.
 
-Beviset för detta särskiljande är att Allāh den Upphöjde säger: "*Ökenaraberna säger: 'Vi har blivit troende.' Svara ]dem, Muḥammad]: '[Ännu] än ni inte troende – säg hellre: 'Vi har underkastat oss Guds vilja'!*" [^4] "*Vi skulle föra bort de troende [som fanns i städerna som skulle förstöras] men, frånsett ett hus, fann v ingen som hade underkastat sig Guds vilja*." [^5] Allāh har gjort en skillnad mellan troende och muslimer.
+Beviset för detta särskiljande är att Allāh den Upphöjde säger: "*Ökenaraberna säger: 'Vi har blivit troende.' Svara ]dem, Muḥammad]: '[Ännu] än ni inte troende – säg hellre: 'Vi har underkastat oss Guds vilja'!*" [^4] "*Vi skulle föra bort de troende [som fanns i städerna som skulle förstöras] men, frånsett ett hus, fann Vi ingen som hade underkastat sig Guds vilja*." [^5] Allāh har gjort en skillnad mellan troende och muslimer.
 
 Anledningen är att ett hushåll i Lots by till det yttre var muslimer då Lots fru som bedrog honom bodde där var en icke-troende. De som togs ut ur byn var de sanna troende i vars hjärtan det fanns tro.
 

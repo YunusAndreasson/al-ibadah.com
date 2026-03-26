@@ -27,7 +27,7 @@ Det finns andra verser som visar att nedfallan och offer är dyrkan och att till
 
 Det råder ingen tvekan om att besök vid gravar för att nedfalla och offra till de döda som har begravts i dem innebär att man visar vördnad för dem genom att göra detta.
 
-Imam *Muslim* har återgivit en lång *ḥadīt̲h* med titeln ”Förbudet mot att offra till någon annan än Allāh, och att förbanna dem som gör så”. ´Alī bin Abi Tālib sade:
+Imam *Muslim* har återgivit en lång *ḥadīt̲h* med titeln ”Förbudet mot att offra till någon annan än Allāh, och att förbanna dem som gör så”. ´Alī bin Abī Tālib sade:
 
 > 'Allāhs sändebud lärde mig följande: ”Allāh förbannar den som offrar till andra än Honom, Allāh förbannar den som förbannar sina egna föräldrar, Allāh förbannar den som hyser en innovatör, och Allāh förbannar dem som ändrar ett landmärke.” [*Muslim* 1978 och *an-Nasā’ī* 4427]
 

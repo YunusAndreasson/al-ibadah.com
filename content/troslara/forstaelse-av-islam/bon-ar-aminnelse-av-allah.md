@@ -15,7 +15,7 @@ description: >-
   av Guds namn .” [Koranen 29:45] Är åminn...
 ---
 
-**Fråga:** Somliga sufier säger att åminnelse är bättre än den obligatoriska bönen och de citerar följande vers som bevis: ”*Men först och störst är åkallan det av Guds namn*.” [^3] Är åminnelse av Allāh bättre än bön, som de säger?
+**Fråga:** Somliga sufier säger att åminnelse är bättre än den obligatoriska bönen och de citerar följande vers som bevis: ”*Men först och störst är åkallandet av Guds namn*.” [^3] Är åminnelse av Allāh bättre än bön, som de säger?
 
 **Svar:** Allāh har befallt oss att nämna Hans namn ofta. Han säger:
 

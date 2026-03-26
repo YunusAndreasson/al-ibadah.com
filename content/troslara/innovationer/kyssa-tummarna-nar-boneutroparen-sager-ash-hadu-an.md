@@ -17,4 +17,4 @@ description: >-
 **Svar:** Enligt vad vi känner till, har inte denna handling [nämnd ovan] utförts av profeten. Därför är detta en innovation och om detta har profeten sagt: ”*Den som introducerat något i denna religion som inte kommer ifrån den, kommer att få det avvisat*.” [^1]
 
 
-[^1]: *Sahīh a-Bukharī* 2697 och *Ṣaḥīḥ Muslim* 1718
+[^1]: *Ṣaḥīḥ al-Buk̲hārī* 2697 och *Ṣaḥīḥ Muslim* 1718

@@ -31,7 +31,7 @@ Vi kan då inte omfatta Honom med vår kunskap, och att omfatta med kunskap är 
 
 Även om synen kan uppfatta Honom kan den inte förstå Honom. Allāh den Allsmäktige ses i verkligheten av ögat men det går inte att förstå Honom genom denna syn. Detta beror på att Han den Allsmäktige är för väldig för att förstås genom den.
 
-Detta är *salaf*s tro och de anser att den största välsignelsen som människan har skänkts är att få betrakta Allāhs den Allsmäktiges anlete. Därför var en av profetens – över honom vare Allāhs frid och välsignelser – åkallan[^2]: "*Jag ber dig om njutningen i att [få] betrakta Ditt anlete*." [^1] Han sade: "*Njutningen i att [få] betrakta*."
+Detta är *salaf*s tro och de anser att den största välsignelsen som människan har skänkts är att få betrakta Allāhs den Allsmäktiges anlete. Därför var en av profetens – över honom vare Allāhs frid och välsignelser – åkallan: "*Jag ber dig om njutningen i att [få] betrakta Ditt anlete*." [^1] Han sade: "*Njutningen i att [få] betrakta*."
 
 I detta finns en stor njutning som ingen kan uppnå utom dem som uppnår den genom Allāhs välsignelse och gåva. Och jag ber Allāh den Upphöjde att göra oss till dem. På detta sätt har *salaf* – må Allāh vara nöjd med dem – förstått denna syn.
 

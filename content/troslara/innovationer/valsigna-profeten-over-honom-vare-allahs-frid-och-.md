@@ -9,7 +9,7 @@ categories:
   - Innovationer
 original_id: 561
 description: >-
-  Fråga: Är det tillåten att efter böneutropet högt sända sina välsignelser över
+  Fråga: Är det tillåtet att efter böneutropet högt sända sina välsignelser över
   profeten? Svar: Detta är en innovation då det varken gjordes under profetens –
   över honom vare Allāhs frid och vä...
 ---

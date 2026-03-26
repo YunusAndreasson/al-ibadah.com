@@ -21,13 +21,13 @@ description: >-
 
 Därmed kan det sägas att doktorer i dag har möjlighet att genom precisa instrument upptäcka om det som finns i kvinnans sköte är en pojke eller flicka. Om det som sägs inte är sant, då finns det ingen poäng i att diskutera det. Om det är sant, då motsäger det sig inte denna vers, då den hänvisar till en fråga som rör det som är dolt för människor[^1].
 
-"Det dolda" i fråga om fostret gäller fem frågor som enbart Allāh har kunskap om: hur länge barnet kommer att stanna i moderns sköte, barnets liv, barnets handlingar, barnets levebröd, om barnet är dömt [till Helvetet] eller välsignat [till Paradiset] och – före det är fullt utvecklat – om det kommer att vara en pojke eller flicka. När det har formats fullt ut är kunskapen om det är en pojke eller en flicka inte längre något som rör det som är dolt för människor[^1] när det har formats fullt ut är det en fråga för den synliga världen.
+"Det dolda" i fråga om fostret gäller fem frågor som enbart Allāh har kunskap om: hur länge barnet kommer att stanna i moderns sköte, barnets liv, barnets handlingar, barnets levebröd, om barnet är dömt [till Helvetet] eller välsignat [till Paradiset] och – före det är fullt utvecklat – om det kommer att vara en pojke eller flicka. När det har formats fullt ut är kunskapen om det är en pojke eller en flicka inte längre något som rör det som är dolt för människor[^1]. Det är då en fråga för den synliga världen.
 
 Däremot stannar det kvar i tre lager av mörker och om de förflyttas, då skulle dess kön komma till kännedom. Det är inte långsökt att tro att det bland de ting som Allāh har skapat finns kraftfulla strålar som kan tränga igenom dessa tre lager av mörker, så att det blir tydligt om fostret är en pojke eller flicka. Denna vers hänvisar inte tydligt till vetskapen om fostret är en pojke eller flicka, likaså gör inte profetens – över honom vare Allāhs frid och välsignelser – *sunnah* det.
 
 När det gäller frågeställarens hänvisning till vad Ibn Jarīr har citerat ifrån Mujāhid om en man som frågade profeten – över honom vare Allāhs frid och välsignelser – vad personens fru skulle föda och att Allāh uppenbarade denna vers, då är denna berättelse *munqati'*, då Mujāhid var en av *tābi´īn*.
 
-Qutādah's *tafsīr* kan tolkas som att enbart Allāh har kunskap om detta så länge det inte har utformats fullt. Men när fostret har utformats, då har andra kunskap om det. Ibn Kathīr säger i sin *tafsīr* om versen i sura Luqmān:
+Qutādahs *tafsīr* kan tolkas som att enbart Allāh har kunskap om detta så länge det inte har utformats fullt. Men när fostret har utformats, då har andra kunskap om det. Ibn Kathīr säger i sin *tafsīr* om versen i sura Luqmān:
 
 > “Ingen vet vad Allāh vill skapa i moderns sköte utom Han, men när Han har bestämt om det ska vara en pojke eller flicka, en dömd eller en välsignad, då får änglarna som har ansvar för personen reda på det och den som Han vill i Hans skapelse.”
 

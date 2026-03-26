@@ -12,7 +12,7 @@ description: 'Fråga: Ibland när folk besöker en sjukling säger de till perso
  Allāh, personen förtjänar inte detta.” Vi hoppas ...'
 ---
 
-**Fråga:** Ibland när folk besöker en sjukling säger de till personen: ”Du förtjänar inte detta”. Eller när de hör talas om att någon är sjuk säger de: ”Vid Allāh, personen förtjänar inte detta.” Vi hoppas att du kan säga oss om detta är tillåtet att säga eller inte
+**Fråga:** Ibland när folk besöker en sjukling säger de till personen: ”Du förtjänar inte detta”. Eller när de hör talas om att någon är sjuk säger de: ”Vid Allāh, personen förtjänar inte detta.” Vi hoppas att du kan säga oss om detta är tillåtet att säga eller inte.
 
 **Svar:** All lovprisan tillhör Allāh. Det är inte tillåtet att säga detta eftersom det är som att invända mot Allāh, må Han vara upphöjd. Han känner bäst till Sina tjänares förhållanden och Han är visast i vad Han förordnar för dem när det gäller hälsa, sjukdom, rikedom, fattigdom och så vidare.
 
