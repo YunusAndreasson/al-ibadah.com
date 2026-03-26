@@ -19,7 +19,7 @@ Från fadern lärde han sig också att reparera klockor, något som han blev myc
 
 Han började arbeta med att transkribera al-Ḥāfiẓ al-Irāqīs storslagna *al­Mughnī 'an-hamlil-Asfār fil-Asfār fī takhrīj mā fil-Ihyā minal-Akhbār* och till den lade han noter.
 
-Trots faderns invändningar gav han sig ännu djupare in i vetandet om *ḥadīt̲h*. Böckerna som han var i behov av fanns inte att tillgå i faderns bibliotek, som i huvudsak bestod av böcker om *hanafī fiqh*. Då han inte hade råd med de flesta böckerna som han behövde, lånade han dem från det kända biblioteket al-Maktabah adth-Dthāhiriyyah.
+Trots faderns invändningar gav han sig ännu djupare in i vetandet om *ḥadīt̲h*. Böckerna som han var i behov av fanns inte att tillgå i faderns bibliotek, som i huvudsak bestod av böcker om *hanafī fiqh*. Då han inte hade råd med de flesta böckerna som han behövde, lånade han dem från det kända biblioteket al-Maktabah aẓ-Ẓāhiriyyah.
 
 Han blev så intresserad av *ḥadīt̲h* att han ibland stängde sin butik för att vara i biblioteket i tolv timmar. Han tog då endast rast för att be. Maten bestod endast av lätt tilltugg.
 
@@ -31,12 +31,12 @@ Efter en tid började han att hålla två lektioner i veckan där de som studera
 
 När ett antal av hans arbeten hade tryckts valdes han ut för att lära *ḥadīt̲h* vid det nya universitetet i Medina, Saudiarabien, under tre år mellan 1381 och 1383 AH. Där satt han även med i universitetets styrelse.
 
-Därefter återvände han till sina tidigare studier och arbete i al-Maktabah adth-Dthāhiriyyah. Affären tog en av hans bröder hand om.
+Därefter återvände han till sina tidigare studier och arbete i al-Maktabah aẓ-Ẓāhiriyyah. Affären tog en av hans bröder hand om.
 
 Han besökte flera länder för att göra *da’wah* och för att hålla föreläsningar. Däribland Qatar, Egypten, Kuwait, Emiraterna, Spanien och England. Han tvingades att emigrera ett flertal gånger. Han flyttade från Syrien till Jordanien, sedan Syrien igen, därpå Beirut, sedan Emiraterna och därefter till ’Ammān i Jordanien. Hans arbeten, främst inom *ḥadīt̲h* och dess olika grenar, uppgick till över 100.
 
-Han hade många studenter, exempelvis: *s̲hayk̲h* Hamdī ´Abdul-Majīd, *s̲hayk̲h* Muḥammad ´Īd 'Abbāsī, Dr. ´Umar Sulaymān al-Ashqar, *s̲hayk̲h* Muḥammad Ibrāhīm Shaqrah, *s̲hayk̲h* Muqbil ibn Hādī al-Wadī'ī, *s̲hayk̲h* 'Alī Khushshān, *s̲hayk̲h* Muḥammad Jamīl Zaynū, *s̲hayk̲h* ´Abdur-Rahmān Abdus-Samad, *s̲hayk̲h* 'Alī Ḥasan ´Abdul-Hamīd al-Halabī, *s̲hayk̲h* Salīm al-Hilālī.
+Han hade många studenter, exempelvis: *s̲hayk̲h* Hamdī ´Abdul-Majīd, *s̲hayk̲h* Muḥammad ´Īd 'Abbāsī, Dr. ´Umar Sulaymān al-Ashqar, *s̲hayk̲h* Muḥammad Ibrāhīm Shaqrah, *s̲hayk̲h* Muqbil ibn Hādī al-Wadī'ī, *s̲hayk̲h* 'Alī Khushshān, *s̲hayk̲h* Muḥammad Jamīl Zaynū, *s̲hayk̲h* ´Abdur-Raḥmān Abdus-Samad, *s̲hayk̲h* 'Alī Ḥasan ´Abdul-Hamīd al-Halabī, *s̲hayk̲h* Salīm al-Hilālī.
 
-Han avled söndagen den 22:e Jumādā ath-Thāniyah 1420 AH. Han var då 87 år gammal. Må Allāh den Högste ha nåd över hans själ. Āmīn.
+Han avled söndagen den 22:e Jumādā at̲h-T̲hāniyah 1420 AH. Han var då 87 år gammal. Må Allāh den Högste ha nåd över hans själ. Āmīn.
 
 

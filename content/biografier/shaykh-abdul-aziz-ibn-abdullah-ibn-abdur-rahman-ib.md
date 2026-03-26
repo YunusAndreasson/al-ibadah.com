@@ -11,7 +11,7 @@ description: >-
 
 "Om han talade i telefon och bad någon om någonting och han behövde vänta på svaret, då fördrev han tiden med att prisa Allāh (Subhān-Allāh) och genom att söka Allāhs förlåtelse (astaghfi-rullâh)." [al-Imām Ibn Bāz – duroos wa mawāqif wa 'ibar, sida 14]
 
-Abu ´Abdullāh *s̲hayk̲h* ´Abdul-´Azīz ibn ´Abdullāh ibn ´Abdur-Rahmān Aal-Bāz föddes i *d̲hul-ḥijjah* år 1330 AH i staden Riyadh.
+Abu ´Abdullāh *s̲hayk̲h* ´Abdul-´Azīz ibn ´Abdullāh ibn ´Abdur-Raḥmān Aal-Bāz föddes i *d̲hul-ḥijjah* år 1330 AH i staden Riyadh.
 
 Han memorerade Koranen redan vid tidig ålder och inhämtade kunskap ifrån många stora lärda. Några av hans lärare var *s̲hayk̲h* Muḥammad ibn ´Abdul-Lateef Aal-*s̲hayk̲h*, *s̲hayk̲h* Sālih ibn ´Abdul-´Azīz Aal-*s̲hayk̲h* samt *s̲hayk̲h* Muḥammad ibn Ibrāhīm Aal-*s̲hayk̲h*, som under tiden var mufti i Saudiarabien. *s̲hayk̲h* Ibn Bāz slog följe med den sistnämnde under tio år och lärde sig mycket från honom, samtidigt som han fick sin religiösa skolning ifrån Muḥammad ibn ´Abdul-Wahhāb.
 

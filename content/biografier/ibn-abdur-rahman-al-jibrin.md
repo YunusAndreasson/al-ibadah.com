@@ -8,7 +8,7 @@ description: Hans fullständiga namn och titel är S̲hayk̲h Dr. ´Abdullāh Ib
  1349 enligt den islamiska kalendern eller...
 ---
 
-Hans fullständiga namn och titel är *s̲hayk̲h* Dr. ´Abdullāh Ibn ´Abdur-Rahmān Jibrīn.
+Hans fullständiga namn och titel är *s̲hayk̲h* Dr. ´Abdullāh Ibn ´Abdur-Raḥmān Jibrīn.
 
 Han föddes i Miz'al i staden al-Quway'iyyah strax väster om Riyadh år 1349 enligt den islamiska kalendern eller år 1930 enligt den gregorianska.
 
