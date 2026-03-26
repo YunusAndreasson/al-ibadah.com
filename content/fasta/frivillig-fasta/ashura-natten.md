@@ -20,7 +20,7 @@ description: >-
 
 Sedan fastade profeten – över honom vare Allāhs frid och välsignelser – den som ett tack till Allāh den Allsmäktige för att följa Allāhs profet Mose. Även under den förislamiska tiden brukade folket fasta den och profeten – över honom vare Allāhs frid och välsignelser – har för det muslimska samfundet betonat dess vikt. När Allāh sedan gjorde *ramaḍān* till en skyldighet sade profeten: "*Den som vill, personen kan fasta den. Och den som vill, personen kan lämna den*." [^1] Han har även informerat om att den som fastar den kommer få sina synder för året som gått utstrukna av Allāh.
 
-Det är bäst om man fastar en dag innan eller efter för att skilja sig från judarna. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Fasta en dag före eller en dag efter*." [^2] Men en annan ordalydelse har han sagt: "*Fasta en dag före den och en dag efter den*." [^3] Fastar man enbart den [den tionde] är det ogillat /…/
+Det är bäst om man fastar en dag innan eller efter för att skilja sig från judarna. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Fasta en dag före eller en dag efter*." [^2] Men i en annan ordalydelse har han sagt: "*Fasta en dag före den och en dag efter den*." [^3] Fastar man enbart den [den tionde] är det ogillat /…/
 
 Och Allāh är Den som ger framgång.
 

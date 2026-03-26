@@ -16,7 +16,7 @@ description: >-
 
 **Fråga:** Jag drabbades av en allvarlig sjukdom för ungefär fem år sedan och det inträffade under den välsignade månaden *ramaḍān*. Därmed hade jag inte möjlighet att fasta den månaden och jag har inte fastat den ännu. Får jag då ta igen vad jag har missat och har jag syndat? Vänligen, hjälp mig med ett svar. Må Allāh belöna och skydda er.
 
-**Svar:** Du måste ångra dig inför Allāh för denna väldiga försening. Det var en skyldighet för dig att fasta de dagar som du inte fastade innan nästa *ramaḍān* kom under det påföljande året. Tillsammans med ånger inför Allāh måste du för varje dag ge en fattig en halv *ṣā´* av den mat som finns i landet, som torkade dadlar, ris eller något annat. En halv *ṣā´* är likvärdigt med ungefär 1,5 kg. Detta bör ges till några fattiga och det gå bra att ge till enbart en person.
+**Svar:** Du måste ångra dig inför Allāh för denna väldiga försening. Det var en skyldighet för dig att fasta de dagar som du inte fastade innan nästa *ramaḍān* kom under det påföljande året. Tillsammans med ånger inför Allāh måste du för varje dag ge en fattig en halv *ṣā´* av den mat som finns i landet, som torkade dadlar, ris eller något annat. En halv *ṣā´* är likvärdigt med ungefär 1,5 kg. Detta bör ges till några fattiga och det går bra att ge till enbart en person.
 
 Vi ber Allāh att Han accepterar din ånger och att Han förlåter dig och oss. Han är den Bäste att fråga.
 

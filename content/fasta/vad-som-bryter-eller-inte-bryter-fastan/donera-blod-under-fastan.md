@@ -1,6 +1,6 @@
 ---
 title: Donera blod under fastan
-author: Dr. Salih Ibn Fowzan Ibn ´Abdullah Ibn Fowzan
+author: Dr. Sālih Ibn Fowzan Ibn ´Abdullah Ibn Fowzan
 source: 'Fatāwa Ramadan – volym 2, sida 467, fatwa 405'
 categories:
   - Fasta (Sawm)
@@ -9,7 +9,7 @@ original_id: 1372
 description: >-
   Fråga: Bryts fastan om man donerar blod under ramadan? Svar: Ja! Om man
   donerar mycket blod, då bryts fastan och det klassas på ungefär samma sätt som
-  hijāmah .
+  hijāmah.
 ---
 
 **Fråga:** Bryts fastan om man donerar blod under *ramaḍān*?

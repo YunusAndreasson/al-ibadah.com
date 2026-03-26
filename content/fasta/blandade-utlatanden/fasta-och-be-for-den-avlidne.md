@@ -18,8 +18,7 @@ description: 'Fråga: Kan man be, fasta och läsa Koranen för den avlidnes räk
 
 Efter att ha klargjort detta, [så säger vi:] att denna form av välgörenhet inte är att rekommendera. Det är bättre att helt enkelt åkalla Allāh för personens skull. Detta enligt profetens – över honom vare Allāhs frid och välsignelser – ord:
 
-> ”När Adams söner dör, då dör också hans handlingar utom tre: [^1] förmiddagsbönen[^2], nyttig kunskap och ett rättfärdigt barn som ber för honom.” [*Muslim* 1631, *Abū Dāwūd* 2880, *al-Buk̲hārī* 38, *Aḥmad* 2:372, *at-Tirmid̲hī* 1376 och *an-Nasā’ī* 3681]
+> “När Adams söner dör, då dör också hans handlingar utom tre: pågående allmosa[^1], nyttig kunskap och ett rättfärdigt barn som ber för honom.” [*Muslim* 1631, *Abū Dāwūd* 2880, *al-Buk̲hārī* 38, *Aḥmad* 2:372, *at-Tirmid̲hī* 1376 och *an-Nasā’ī* 3681]
 
-[^1]: *Ṣadaqah jāriyah* - pågående allmosa som fortsätter att ge belöning efter döden.
-[^2]: *Duhā* - förmiddagsbönen.
+[^1]: *Ṣadaqah jāriyah* – pågående allmosa som fortsätter att ge belöning efter döden.
 

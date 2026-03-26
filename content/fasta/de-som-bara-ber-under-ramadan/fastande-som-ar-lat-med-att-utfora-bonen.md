@@ -21,7 +21,7 @@ description: >-
 
 Därför är detta inte en fråga att ta lättvindigt på, därför att den som inte är en troende, som har lämnat islam, från personen accepteras ingen fasta eller välgörenhet. Över huvud taget accepteras ingen handling från personen. Detta beror på att Allāh den Upphöjde säger: "Skälen *till att deras gåvor och bidrag inte tas emot är dessa och inga andra: de tror inte på Gud och Hans Sändebud, de går inte till bön annat än i sakta mak och när de ger [till goda ändamål] ger de högst motvilligt*." [^1]
 
-Därmed har Allāh förklarat att deras bidrag, även om de har hjälpt andra mycket, inte accepteras från dem på grund av deras otro. Han den Upphöjde säger: "Och *Vi ska se på det som de [tror] sig ha åstadkommit och Vi ska förvandla det till stoft som skingras för all vindar*." [^2] De som fastar utan att be, deras fasta accepteras inte. I stället avvisas den så länge vi säger att de inte är troende, på det vis som Allāhs skrift och Hans sändebuds *sunnah* bevisar.
+Därmed har Allāh förklarat att deras bidrag, även om de har hjälpt andra mycket, inte accepteras från dem på grund av deras otro. Han den Upphöjde säger: "Och *Vi ska se på det som de [tror] sig ha åstadkommit och Vi ska förvandla det till stoft som skingras för alla vindar*." [^2] De som fastar utan att be, deras fasta accepteras inte. I stället avvisas den så länge vi säger att de inte är troende, på det vis som Allāhs skrift och Hans sändebuds *sunnah* bevisar.
 
 Därmed är mitt råd till dem att de fruktar Allāh den Allsmäktige och att de är noga med att be. De bör be dem i tid och med församlingen. Om de gör så garanterar jag dem, genom Allāhs makt, att de i sina hjärtan under *ramaḍān* och andra månader kommer att känna ett begär till att be i tid och med församlingen.
 

@@ -3,13 +3,13 @@ title: Åkallan att läsa då man bryter fastan
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 2.
-  Libanon: Makbtaba Dar us-Salam. 670 s. ISBN 9960-892-66-2
+  Libanon: Maktaba Dar us-Salam. 670 s. ISBN 9960-892-66-2
 categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1266
 description: >-
-  Fråga. Finns det någon åkallan rapporterad från profeten – över honom vare
+  Fråga: Finns det någon åkallan rapporterad från profeten – över honom vare
   Allāhs frid och välsignelser – och följeslagarna som man kan läsa när man
   bryter fastan? Bör den fastande läsa efter vad ...
 ---

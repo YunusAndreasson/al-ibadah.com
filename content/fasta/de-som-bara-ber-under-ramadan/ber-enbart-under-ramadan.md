@@ -22,7 +22,7 @@ Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Fö
 
 Och profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Huvudfrågan är islam, dess fundament är bönen och dess höjd är djihād*[^1] *för Allāhs skull*." [Imam at-Tirmithi 2616 med en berättarkedja som är Sahīh från Mu'ādh ibn Jabal]
 
-Och profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Mellan en människa och otro samt *s̲hirk* står personens övergivande av bönen*." [Återberättad av imam Muslim i hans *Ṣaḥīḥ* 82 från Jābir ibn 'Abd-Allāh al-Ansāri] Det finns flera liknande *aḥādīt̲h*.
+Och profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Mellan en människa och otro samt s̲hirk står personens övergivande av bönen*." [Återberättad av imam Muslim i hans *Ṣaḥīḥ* 82 från Jābir ibn 'Abd-Allāh al-Ansāri] Det finns flera liknande *aḥādīt̲h*.
 
 Och Allāh är källan till all styrka. Må Allāh sända välsignelser och frid över vår profet Muḥammad, hans familj och följeslagare.
 

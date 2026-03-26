@@ -9,7 +9,7 @@ categories:
   - Frivillig fasta
 original_id: 1064
 description: >-
-  Fråga: Syndar man om man ogiltigör en frivilliga fasta? Svar: Om man ogiltigör
+  Fråga: Syndar man om man ogiltigör en frivillig fasta? Svar: Om man ogiltigör
   en frivillig fasta eftersom man gör något som bryter den, har man då syndat?
   Och om man gör den ogiltig genom a...
 ---

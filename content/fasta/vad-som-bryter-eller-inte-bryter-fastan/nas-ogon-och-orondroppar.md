@@ -3,7 +3,7 @@ title: 'Näs-, ögon- och örondroppar'
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
-  Libanon: Makbtaba Dar us-Salam. 662 s. ISBN 9960-892-66-2
+  Libanon: Maktaba Dar us-Salam. 662 s. ISBN 9960-892-66-2
 categories:
   - Fasta (Sawm)
   - Fastebrytare

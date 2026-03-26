@@ -25,4 +25,4 @@ Detta beror på att Allāh den Upphöjde har sagt: ”*Och Han har inte lagt på
 
 
 [^1]: Koranen 22:78
-[^2]: *Abū Dāwūd* 2380, *at-Tirmid̲hī* 720 och *Ibn Mājah* 2366
+[^2]: *Abū Dāwūd* 2380, *at-Tirmid̲hī* 720 och *Ibn Mājah* 1676

@@ -21,13 +21,13 @@ description: >-
 
 Denna *ḥadīt̲h*s äkthet finns det konsensus om och i en annan återberättelse med *al-Buk̲hārī*s ord sägs det: "*Är likvärdig med en vallfärd [utförd] med mig*." [^3] Och i Muslim finns en version som lyder: "*Är likvärdig med en vallfärd eller en vallfärd [utförd] med mig*." [^4]
 
-Det har rapporterats så här med tveksamhet. Detta betyder en vallfärd utförd med honom. Därefter en *´umrah* utförd i *thul-qa'dah*, då profeten – över honom vare Allāhs frid och välsignelser – alltid gjorde *´umrah* i *thul-qa'dah*. Allāh har sagt: ”*I Guds Sändebud har ni ett gott föredöme för alla som [med bävan och hopp] ser fram emot [mötet med] Gud och den Yttersta dagen och som ständigt har Gud för ögonen*.” [^5]
+Det har rapporterats så här med tveksamhet. Detta betyder en vallfärd utförd med honom. Därefter en *´umrah* utförd i *d̲hul-qa´dah*, då profeten – över honom vare Allāhs frid och välsignelser – alltid gjorde *´umrah* i *d̲hul-qa´dah*. Allāh har sagt: ”*I Guds Sändebud har ni ett gott föredöme för alla som [med bävan och hopp] ser fram emot [mötet med] Gud och den Yttersta dagen och som ständigt har Gud för ögonen*.” [^5]
 
 Och framgång kommer från Allāh.
 
 [^1]: Den lilla vallfärden.
 
 [^2]: *at-Tirmid̲hī* 939 och *Ibn Mājah* 2994
-[^3]: *Muslim* 1256
-[^4]: *al-Buk̲hārī* 1863 och *Muslim* 1256
+[^3]: *al-Buk̲hārī* 1863 och *Muslim* 1256
+[^4]: *Muslim* 1256
 [^5]: Koranen 33:21

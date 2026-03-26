@@ -10,8 +10,8 @@ categories:
   - Graviditet och amning
 original_id: 454
 description: >-
-  Fråga: Om en gravid eller ammande kvinna under ramadan är rädd för sin egens
-  eller för barnets skull och hon bryter fastan, vad är hon då skyldig att göra?
+  Fråga: Om en gravid eller ammande kvinna under ramadan är rädd för sin egen
+  skull eller för barnets skull och hon bryter fastan, vad är hon då skyldig att göra?
   Bryter hon fastan, skänker mat och tar i...
 ---
 

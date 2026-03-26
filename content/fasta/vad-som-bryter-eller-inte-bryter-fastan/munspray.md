@@ -1,6 +1,6 @@
 ---
 title: Munspray
-author: Dr. Salih Ibn Fowzan Ibn ´Abdullah Ibn Fowzan
+author: Dr. Sālih Ibn Fowzan Ibn ´Abdullah Ibn Fowzan
 source: 'al-Muntaqā min Fatāwa ash-shaykh Sālih ibn Fowzān – Volume 3, Page 130'
 categories:
   - Fasta (Sawm)
@@ -16,6 +16,9 @@ description: >-
 
 **Svar:** Det är tillräckligt att använda en *miswāk* som profeten – över honom vare Allāhs frid och välsignelser – har rekommenderat för munnen under fastan, i stället för att använda en spray i munnen. Det är inget problem med att använda sprayer, så länge de inte når halsen.
 
-Men det är passande att inte ogilla lukten ifrån munnen som är ett resultat av fastan, då det visar olydnad mot Allāh, då denna lukt är älskad av Allāh. Det har nämnts i en *ḥadīt̲h*[^3]: "*Lukten som kommer ifrån munnen hos den som fastar, är mer tillfredsställande för Allāh än lukten av mysk*."
+Men det är passande att inte ogilla lukten ifrån munnen som är ett resultat av fastan, då det visar olydnad mot Allāh, då denna lukt är älskad av Allāh. Det har nämnts i en *ḥadīt̲h*: "*Lukten som kommer ifrån munnen hos den som fastar, är mer tillfredsställande för Allāh än lukten av mysk*."[^1]
+
+
+[^1]: *al-Buk̲hārī* 1904 och *Muslim* 1151
 
 

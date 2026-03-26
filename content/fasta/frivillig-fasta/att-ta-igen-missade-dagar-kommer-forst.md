@@ -10,7 +10,7 @@ categories:
 original_id: 1419
 description: >-
   Fråga: Det finns en person som måste ta igen fastedagar från ramaḍān. Personen
-  person vill dock också fasta de sex dagarna under s̲hawwāl innan personen tar igen
+  vill dock också fasta de sex dagarna under s̲hawwāl innan personen tar igen
   det som måste tas igen. Personen vill göra d...
 ---
 

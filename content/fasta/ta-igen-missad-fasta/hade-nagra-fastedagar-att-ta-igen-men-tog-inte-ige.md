@@ -23,7 +23,7 @@ Den som då bröt fastan av en giltig anledning är skyldig att ta igen den för
 
 'A'ishah – må Allāh vara nöjd med henne – har sagt: "*Jag hade dagar att ta igen från ramaḍān och jag hade inte möjlighet att ta igen dem innan s̲ha´bān [månaden innan den påföljande ramaḍān].*" [^3] Detta berodde på Allāhs sändebuds – över honom vare Allāhs frid och välsignelser – relation med henne [Hon var den hustru som han höll som kärast och han brukade spendera mycket tid med henne och fråga henne om råd]. Så när hon sade: "*Jag hade inte möjlighet att ta igen dem innan s̲ha´bān*"[^1], är det ett bevis för att man måste ta igen dem innan påföljande *ramaḍān*.
 
-Skjuter man upp dem till efter nästa *ramaḍān*, då bör man söka Allāhs förlåtelse, ångra sig inför Honom, vara ångerfull över vad man har gjort och ta igen dessa dagar. Skyldigheten att ta igen dem försvinner enbart eftersom de har försenats, så man bör ta igen dem även om det sker efter nästa *ramaḍān*.
+Skjuter man upp dem till efter nästa *ramaḍān*, då bör man söka Allāhs förlåtelse, ångra sig inför Honom, vara ångerfull över vad man har gjort och ta igen dessa dagar. Skyldigheten att ta igen dem försvinner inte enbart eftersom de har försenats, så man bör ta igen dem även om det sker efter nästa *ramaḍān*.
 
 Och Allāh är Den som ger framgång.
 

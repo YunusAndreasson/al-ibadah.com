@@ -23,7 +23,7 @@ Då det skiljer sig blir det nödvändigt – genom bevisen i Koranen, profetens
 
 När det gäller bevisen från Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* säger Allāh den Upphöjde följande: "Den av er som ser månens nytändning ska fasta månaden ut." [^1] Skulle det inträffa att ett folk mycket långt bort inte bevittnade månen, det vill säga nymånen, medan Meckaborna hade sett den, hur ska denna vers då kunna tillämpas på dem som inte har bevittnat nymånen?
 
-Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Fasta när ni ser den och bryt fastan när ni ser den*." [^2] Om Meckaborna ser den, hur kan vi då ålägga pakistanier och asiater som bor ännu längre bort, när vi vet att nymånen inte har visats sig i deras region och att profeten – över honom vare Allāhs frid och välsignelser – har villkorat fastan genom att nymånen siktas?
+Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Fasta när ni ser den och bryt fastan när ni ser den*." [^2] Om Meckaborna ser den, hur kan vi då ålägga pakistanier och asiater som bor ännu längre bort, när vi vet att nymånen inte har visat sig i deras region och att profeten – över honom vare Allāhs frid och välsignelser – har villkorat fastan genom att nymånen siktas?
 
 De vetenskapliga bevisen är en korrekt analogi som inte går att avvisa. Vi vet att gryningen visar sig i öst innan den når väst. Om gryningen då först visar sig i öst, är det då en skyldighet för oss att fasta medan det fortfarande är natt? Svaret är nej. Om solen går ned i öst. När vi fortfarande har dagsljus, får vi då bryta vår fasta? Svaret är nej. Därmed är nymånen precis som solen, utom att tiden för nymånen är varje månad och tiden för solen varje dag. Och Den som har sagt:
 

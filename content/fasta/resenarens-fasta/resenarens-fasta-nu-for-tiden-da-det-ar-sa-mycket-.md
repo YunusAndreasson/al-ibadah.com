@@ -19,9 +19,9 @@ description: >-
 
 **Svar:** Resenären får fasta, likväl som personen får bryta fastan. Detta enligt Allāhs den Upphöjdes ord: ”*Men den som är sjuk eller [stadd] på resa [ska fasta därefter] under motsvarande antal dagar*.” [^1]
 
-Följeslagarna gav sig av på en resa i sällskap med profeten. Vissa fastade medan andra inte gjorde det, och inga av dem tillrättavisade de andra.
+Följeslagarna gav sig av på en resa i sällskap med profeten. Vissa fastade medan andra inte gjorde det, och ingen av dem tillrättavisade de andra.
 
-Profeten – över honom vare Allāhs frid och välsignelser – brukade fasta när han reste. Abu Darda' sade: "*Vi reste tillsammans med Allāhs sändebud under en resa i *ramaḍān*. Det var extremt varmt. Ingen av oss fastade utom Allāhs sändebud och Abdullah bin Rawahah*." [^2]
+Profeten – över honom vare Allāhs frid och välsignelser – brukade fasta när han reste. Abu Darda' sade: "*Vi reste tillsammans med Allāhs sändebud under en resa i ramaḍān. Det var extremt varmt. Ingen av oss fastade utom Allāhs sändebud och Abdullah bin Rawahah*." [^2]
 
 Utlåtandet om resenären är att personen får välja mellan att fasta och att bryta fastan. Är fastan inte svår för denna är det bättre att fasta. I detta finns det tre fördelar:
 

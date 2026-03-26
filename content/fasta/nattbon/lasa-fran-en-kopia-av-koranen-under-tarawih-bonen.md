@@ -10,11 +10,11 @@ categories:
 original_id: 1409
 description: >-
   Fråga: Är det tillåtet att läsa från en kopia av Koranen under tarāwīh – eller
-  eklipsbönen? Vanligen, hjälp oss med ett svar och må Allāh belöna er. Svar:
+  eklipsbönen? Vänligen, hjälp oss med ett svar och må Allāh belöna er. Svar:
   Det går bra att läsa från en kopia a...
 ---
 
-**Fråga:** Är det tillåtet att läsa från en kopia av Koranen under *tarāwīḥ*- eller eklipsbönen? Vanligen, hjälp oss med ett svar och må Allāh belöna er.
+**Fråga:** Är det tillåtet att läsa från en kopia av Koranen under *tarāwīḥ*- eller eklipsbönen? Vänligen, hjälp oss med ett svar och må Allāh belöna er.
 
 **Svar:** Det går bra att läsa från en kopia av Koranen under *ramadans*[^1] nattbön. Detta beror på att det innebär att de som leds i bön hör Koranen och bevisen från den islamiska lagen från Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah* pekar mot att tillåta recitation av Koranen under bönen. Detta innebär att man reciterar den från en skriven kopia och från sitt minne.
 

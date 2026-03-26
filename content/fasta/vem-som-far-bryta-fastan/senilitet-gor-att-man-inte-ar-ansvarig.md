@@ -20,7 +20,7 @@ description: >-
 
 Men om hon inte har varit vid sina sinnens fulla bruk på grund av senilitet eller om hon har varit fattig och inte har haft möjlighet att gottgöra sig då pengarna från socialen enbart har varit tillräckliga för hennes behov utan att det blivit över något för en gottgörelse, då krävs varken något från henne eller från arvtagarna.
 
-Detta beror på att Allāh har sagt: "*Frukta därför Gud efter måttet av er förmåga*." [^1] Det beror även på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Allt jag har förbjudit er, undvik det. Allt jag har befallt er till, gör det så mycket som ni kan*." [^2] Denna *hadīths* äkthet råder det enighet om.
+Detta beror på att Allāh har sagt: "*Frukta därför Gud efter måttet av er förmåga*." [^1] Det beror även på att profeten – över honom vare Allāhs frid och välsignelser – har sagt: "*Allt jag har förbjudit er, undvik det. Allt jag har befallt er till, gör det så mycket som ni kan*." [^2] Denna *ḥadīt̲hs* äkthet råder det enighet om.
 
 Likaså när det gäller seniliteten, om hon har blivit senil, då gäller inte skyldigheten att fasta, och liknande.
 

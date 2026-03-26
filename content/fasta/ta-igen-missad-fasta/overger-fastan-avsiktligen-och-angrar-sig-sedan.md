@@ -10,7 +10,7 @@ categories:
 original_id: 466
 description: >-
   Fråga: Vilket är utlåtandet om den muslim som har låtit flera ramadan passera
-  under ett antal år och som inte har fastat även om personen har utför resten av
+  under ett antal år och som inte har fastat även om personen har utfört resten av
   skyldigheterna? Personen bor inte i sitt hem...
 ---
 

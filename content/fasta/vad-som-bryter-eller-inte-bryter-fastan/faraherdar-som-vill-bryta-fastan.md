@@ -15,7 +15,7 @@ description: >-
   Kan de bryta fastan? Svar: Om den fa...
 ---
 
-**Fråga:** *ramaḍān* kommer ibland när det är varmt. Det finns kamel- och fårägare som inte kan finna någon herde att hyra. Dessa herdar lider mycket av törsten. Kan de bryta fastan?
+**Fråga:** *Ramaḍān* kommer ibland när det är varmt. Det finns kamel- och fårägare som inte kan finna någon herde att hyra. Dessa herdar lider mycket av törsten. Kan de bryta fastan?
 
 **Svar:** Om den fastande behöver bryta fastan under dagen och om personen är rädd för att dö om fastan inte bryts, då bryter personen fastan när det blir nödvändigt. När han har fått i sig vad som kommer att hålla honom vid liv så håller han sig borta [från att äta och dricka] till kvällen och när *ramaḍān* är över tar han igen den dagen som han bröt fastan. Detta beror på den allmänna innebörden av Allāhs ord:
 

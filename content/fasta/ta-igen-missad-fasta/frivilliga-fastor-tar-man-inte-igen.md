@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** En frivillig fasta tas inte igen även om den har utelämnats frivilligt. Men om en muslim fortsätter med de rättfärdiga handlingar som har påbörjats är det bättre. Detta beror på följande *ḥadīt̲h*: "*De handlingar som Allāh älskar mest är de som sker hela tiden, även om de är få*." [^1]
 
-Därmed behöver du inte ta igen fastan eller gottgöra dig. Ha vetskap om att allt som någon utelämnar i form av rättfärdiga handlingar som personen brukade göra på grund av sjukdom, [någon annan] oförmåga, resa eller någon likande – belöningarna för dem nedtecknas fortfarande för personen. Detta beror på följande *ḥadīt̲h*: "*Om Adams söner blir sjuk eller reser, allt som han brukade göra när han var frisk och hemma, [det] skrivs ned för honom [som om han gjorde det]*."
+Därmed behöver du inte ta igen fastan eller gottgöra dig. Ha vetskap om att allt som någon utelämnar i form av rättfärdiga handlingar som personen brukade göra på grund av sjukdom, [någon annan] oförmåga, resa eller någon liknande – belöningarna för dem nedtecknas fortfarande för personen. Detta beror på följande *ḥadīt̲h*: "*Om Adams söner blir sjuk eller reser, allt som han brukade göra när han var frisk och hemma, [det] skrivs ned för honom [som om han gjorde det]*."
 
 
 [^1]: *al-Buk̲hārī* 6464 och *Muslim* 2818

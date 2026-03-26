@@ -3,7 +3,7 @@ title: Vila vid hunger och törst
 author: Muḥammad bin Sālih al-´Uthaymīn
 source: >-
   Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Volym 1.
-  Libanon: Makbtaba Dar us-Salam. 644 s. ISBN 9960-892-66-2
+  Libanon: Maktaba Dar us-Salam. 644 s. ISBN 9960-892-66-2
 categories:
   - Fasta (Sawm)
   - Fastebrytare
@@ -18,7 +18,7 @@ description: >-
 
 **Svar:** Detta påverkar inte fastans giltighet och det finns mer belöning i den, enligt vad profeten – över honom vare Allāhs frid och välsignelser – sade till 'A'ishah: "*Din belöning är enligt dina vedermödor*." [^1]
 
-Så desto svårare man har att lyda Allāh, desto större blir ens belöning. Den fastande är också tillåten att göra allt som gör fastan lättare, som att svalka sig själv med vatten eller att sitta på en sval plats.
+Så ju svårare man har att lyda Allāh, desto större blir ens belöning. Den fastande är också tillåten att göra allt som gör fastan lättare, som att svalka sig själv med vatten eller att sitta på en sval plats.
 
 
 [^1]: *al-Buk̲hārī* 1787 och *Muslim* 1211

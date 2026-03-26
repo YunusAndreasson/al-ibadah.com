@@ -1,6 +1,6 @@
 ---
 title: Tandkräm
-author: Dr. Salih Ibn Fowzan Ibn ´Abdullah Ibn Fowzan
+author: Dr. Sālih Ibn Fowzan Ibn ´Abdullah Ibn Fowzan
 source: 'al-Muntaqā min Fatāwa ash-shaykh Sālih ibn Fowzān – volym 3, fatwa 158'
 categories:
   - Fasta (Sawm)

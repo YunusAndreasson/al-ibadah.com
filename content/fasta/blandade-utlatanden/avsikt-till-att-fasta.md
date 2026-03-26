@@ -1,6 +1,6 @@
 ---
 title: Avsikt att fasta
-author: Ibn ´Abdur-Rahman al-Jibrin
+author: Ibn ´Abdur-Rahman al-Jibrīn
 source: >-
   Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Volym 3.
   Libanon: Maktaba Dar us-Salam. 326 s. ISBN saknas
@@ -18,6 +18,6 @@ description: >-
 
 **Svar:** Avsikten är att hjärtat bestämmer sig för att fasta. Detta är nödvändigt för varje muslim som vet att Allāh har gjort fastan under *ramaḍān* till en skyldighet. För den som vet att detta är en skyldighet att hålla sig till är det tillräckligt att utforma avsikten under natten. Det är också tillräckligt att inombords säga att man kommer att fasta nästa dag om det inte finns någon ursäkt för att inte göra det.
 
-Likaså är det tillräckligt att äta *saḥūr* med denna intention. Personen behöver inte med ord uttala avsikten inför fastan eller inför någon annan dyrkan. Platsen för avsikten är i hjärtat. Ackompanjemang av dess utlåtande är obligatoriskt under hela dagen genom att man inte har avsikten att bryta eller ogiltiggöra fastan.
+Likaså är det tillräckligt att äta *saḥūr* med denna intention. Personen behöver inte med ord uttala avsikten inför fastan eller inför någon annan dyrkan. Platsen för avsikten är i hjärtat. Ackompanjemang av dess utlåtande är obligatoriskt under hela dagen genom att man inte har avsikten att bryta eller ogiltigöra fastan.
 
 

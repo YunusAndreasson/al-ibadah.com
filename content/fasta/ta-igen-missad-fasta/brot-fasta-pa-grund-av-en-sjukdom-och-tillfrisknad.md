@@ -15,7 +15,7 @@ description: >-
   fasta. Då min hälsa inte tillät mig att fasta skän...
 ---
 
-**Fråga:** För ett antal år sedan bröt jag min fasta under hela *ramaḍān*. På sjukhuset kom jag till sömns genom sömnpiller och läkarna förbjöd mig att fasta. Då min hälsa inte tillät mig att fasta skänkte jag mat för hela månaden innan nästa *ramaḍān* kom. Därefter fastade jag dock *ramaḍān* under ett antal år och jag tog igen vad jag tidigare inte hade fastat genom att fasta under 23 dagar. Jag har fortfarande sju dagar att ta igen från den månaden. Kommer den mat som jag tidigare har skänkt för den månaden att avlösa mig från ansvaret [att fasta] eller måste jag ta igen dessa sju dagar även om min hälsa till och från inte tillåtet mig att fasta?
+**Fråga:** För ett antal år sedan bröt jag min fasta under hela *ramaḍān*. På sjukhuset kom jag till sömns genom sömnpiller och läkarna förbjöd mig att fasta. Då min hälsa inte tillät mig att fasta skänkte jag mat för hela månaden innan nästa *ramaḍān* kom. Därefter fastade jag dock *ramaḍān* under ett antal år och jag tog igen vad jag tidigare inte hade fastat genom att fasta under 23 dagar. Jag har fortfarande sju dagar att ta igen från den månaden. Kommer den mat som jag tidigare har skänkt för den månaden att avlösa mig från ansvaret [att fasta] eller måste jag ta igen dessa sju dagar även om min hälsa till och från inte tillåter mig att fasta?
 
 **Svar:** Du måste ta igen dessa sju dagar och ge en fattig mat för varje dag. Mängden mat som du ger är en halv *ṣā´* av den mat som är vanlig i landet. Detta beror på att du har skjutit på att ta igen fastan till efter den *ramaḍān* som kom efter den som du inte fastade. Allāh säger:
 
