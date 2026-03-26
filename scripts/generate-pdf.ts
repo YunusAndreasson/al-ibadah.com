@@ -42,11 +42,11 @@ const FONT_DIR = '/usr/share/fonts/noto'
 // ---------------------------------------------------------------------------
 
 const ORNAMENT_SVG = `<svg viewBox="0 -2 120 22" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="9" x2="48" y2="9" stroke="#999" stroke-width="0.5" stroke-linecap="round"/>
-  <rect x="53" y="2" width="14" height="14" stroke="#999" stroke-width="0.8" fill="none"/>
-  <rect x="53" y="2" width="14" height="14" stroke="#999" stroke-width="0.8" fill="none" transform="rotate(45 60 9)"/>
-  <circle cx="60" cy="9" r="2" stroke="#999" stroke-width="0.7" fill="none"/>
-  <line x1="72" y1="9" x2="120" y2="9" stroke="#999" stroke-width="0.5" stroke-linecap="round"/>
+  <line x1="0" y1="9" x2="48" y2="9" stroke="#000" stroke-width="0.5" stroke-linecap="round"/>
+  <rect x="53" y="2" width="14" height="14" stroke="#000" stroke-width="0.8" fill="none"/>
+  <rect x="53" y="2" width="14" height="14" stroke="#000" stroke-width="0.8" fill="none" transform="rotate(45 60 9)"/>
+  <circle cx="60" cy="9" r="2" stroke="#000" stroke-width="0.7" fill="none"/>
+  <line x1="72" y1="9" x2="120" y2="9" stroke="#000" stroke-width="0.5" stroke-linecap="round"/>
 </svg>`
 
 // ---------------------------------------------------------------------------
@@ -285,7 +285,7 @@ function blocks(node: any, ctx: Ctx): string {
       ctx.inBlockquote = prevInBlockquote
       // Less space when consecutive blockquotes (e.g. multiple Koranic verses)
       const space = prevBlockType === 'blockquote' ? 6 : 20
-      return `#block(inset: (left: 20pt), above: ${space}pt, below: ${space}pt)[#set par(justify: false)\n#text(size: 9.5pt, fill: rgb("#333"))[\n${inner}]]\n`
+      return `#block(inset: (left: 20pt), above: ${space}pt, below: ${space}pt)[#set par(justify: false)\n#text(size: 9.5pt, fill: rgb("#000"))[\n${inner}]]\n`
     }
 
     case 'list': {
@@ -522,7 +522,7 @@ function buildArticle(article: Article): string {
   lines.push(`  #text(font: "Noto Serif", size: 12pt, weight: "bold")[${esc(article.title)}]`)
   if (article.author) {
     lines.push('  #v(2pt)')
-    lines.push(`  #text(font: "Noto Serif", size: 8.5pt, style: "italic", fill: rgb("#888"))[${esc(article.author)}]`)
+    lines.push(`  #text(font: "Noto Serif", size: 8.5pt, style: "italic", fill: rgb("#000"))[${esc(article.author)}]`)
   }
   lines.push('  #v(10pt)')
   lines.push(']')
@@ -582,7 +582,7 @@ function buildFrontMatter(articleCount: number): string {
 
 // i. Half-title (recto)
 #v(240pt)
-#align(center)[#text(font: "Noto Serif", size: 16pt, style: "italic", fill: rgb("#333"))[Samlade utlåtanden]]
+#align(center)[#text(font: "Noto Serif", size: 16pt, style: "italic", fill: rgb("#000"))[Samlade utlåtanden]]
 
 // ii. Blank verso
 #pagebreak()
@@ -591,25 +591,25 @@ function buildFrontMatter(articleCount: number): string {
 #pagebreak()
 #v(170pt)
 #align(center)[
-  #text(font: "Noto Sans", size: 10pt, fill: rgb("#888"), tracking: 4pt)[AL-IBADAH]
+  #text(font: "Noto Sans", size: 10pt, fill: rgb("#000"), tracking: 4pt)[AL-IBADAH]
   #v(24pt)
   #text(font: "Noto Serif", size: 26pt)[Samlade utlåtanden]
   #v(10pt)
-  #text(font: "Noto Serif", size: 10pt, style: "italic", fill: rgb("#888"))[
+  #text(font: "Noto Serif", size: 10pt, style: "italic", fill: rgb("#000"))[
     Frågor och svar om islamisk rättslära\\
     från erkända lärda
   ]
   #v(32pt)
   #ornament()
   #v(150pt)
-  #text(font: "Noto Serif", size: 10pt, fill: rgb("#888"))[${year}]
+  #text(font: "Noto Serif", size: 10pt, fill: rgb("#000"))[${year}]
 ]
 
 // iv. Colophon (verso)
 #pagebreak()
 #set par(first-line-indent: 0pt)
 #v(1fr)
-#text(font: "Noto Serif", size: 7.5pt, fill: rgb("#999"))[
+#text(font: "Noto Serif", size: 7.5pt, fill: rgb("#000"))[
   *al-Ibadah* \\
   Denna samling genererades den ${fullDate} \\
   och innehåller ${articleCount.toLocaleString('sv-SE')} utlåtanden.
@@ -633,25 +633,25 @@ Mycket av dagens religiösa innehåll har blivit kortare och snabbare. Texterna 
 Kunskap i islam har sedan dess början förmedlats genom text och muntlig överföring, med sammanhang och tålamod. Det är den traditionen denna samling försöker förvalta.
 
 #v(8pt)
-#text(font: "Noto Sans", size: 11pt, weight: "bold", fill: rgb("#333"))[Källor]
+#text(font: "Noto Sans", size: 11pt, weight: "bold", fill: rgb("#000"))[Källor]
 #v(4pt)
 
 Utlåtandena är översatta från #emph[Fatāwā Islāmiyyah] och #emph[Fatāwā Arkān ul-Islām], samlingar av utlåtanden från erkända sunnitiska lärda: Ibn Bāz, Ibn Uthaymīn, al-Albānī och al-Jibrīn – #emph[rahimahum Allāh].
 
 #v(8pt)
-#text(font: "Noto Sans", size: 11pt, weight: "bold", fill: rgb("#333"))[Att vara muslim i Sverige]
+#text(font: "Noto Sans", size: 11pt, weight: "bold", fill: rgb("#000"))[Att vara muslim i Sverige]
 #v(4pt)
 
 Utlåtandena är i huvudsak allmängiltiga, men vissa texter berör frågor som kan kräva lokal hänsyn. Läsaren uppmanas att sätta sig in i principerna bakom utlåtandena och vid behov rådgöra med kunniga i sin närhet.
 
 #v(8pt)
-#text(font: "Noto Sans", size: 11pt, weight: "bold", fill: rgb("#333"))[Upphovsrätt]
+#text(font: "Noto Sans", size: 11pt, weight: "bold", fill: rgb("#000"))[Upphovsrätt]
 #v(4pt)
 
 Översättningarna är utgivna under CC-BY-4.0 och får spridas fritt med källhänvisning.
 
 #v(12pt)
-#text(style: "italic", fill: rgb("#555"))[Må Allah godta detta arbete och göra det till nytta. Fred och välsignelser över profeten Muhammad, hans familj och hans följeslagare.]
+#text(style: "italic", fill: rgb("#000"))[Må Allah godta detta arbete och göra det till nytta. Fred och välsignelser över profeten Muhammad, hans familj och hans följeslagare.]
 `
 }
 
@@ -769,7 +769,7 @@ function buildGlossary(): string {
     termCount += terms.length
     const categoryName = GLOSSARY_CATEGORY_NAMES[categoryKey] || categoryKey
 
-    lines.push(`#text(font: "Noto Sans", size: 11pt, weight: "bold", fill: rgb("#333"))[${esc(categoryName)}]`)
+    lines.push(`#text(font: "Noto Sans", size: 11pt, weight: "bold", fill: rgb("#000"))[${esc(categoryName)}]`)
     lines.push('#v(8pt)')
     lines.push('#table(')
     lines.push('  stroke: none,')
@@ -778,7 +778,7 @@ function buildGlossary(): string {
 
     for (const term of terms) {
       lines.push(`  text(size: 9.5pt, style: "italic")[${esc(term.canonical)}],`)
-      lines.push(`  text(size: 9pt, fill: rgb("#444"))[${esc(term.definition)}],`)
+      lines.push(`  text(size: 9pt, fill: rgb("#000"))[${esc(term.definition)}],`)
     }
 
     lines.push(')')
@@ -810,7 +810,7 @@ function buildPreamble(): string {
 #set text(
   font: "Noto Serif",
   size: 10.5pt,
-  fill: rgb("#1a1a1a"),
+  fill: rgb("#000"),
   lang: "sv",
   region: "SE",
   hyphenate: true,
@@ -842,30 +842,30 @@ function buildPreamble(): string {
   gap: 3pt,
   indent: 0pt,
 )
-#show footnote.entry: set text(size: 7.5pt, fill: rgb("#555"))
+#show footnote.entry: set text(size: 7.5pt, fill: rgb("#000"))
 
 // --- Heading styles ---
 // Level 1: Category titles
 #show heading.where(level: 1): it => {
-  set text(font: "Noto Serif", size: 20pt, fill: rgb("#1a1a1a"))
+  set text(font: "Noto Serif", size: 20pt, fill: rgb("#000"))
   block(above: 0pt, below: 14pt, it.body)
 }
 
 // Level 2: Subcategory titles
 #show heading.where(level: 2): it => {
-  set text(font: "Noto Sans", size: 13pt, weight: "bold", fill: rgb("#333"))
+  set text(font: "Noto Sans", size: 13pt, weight: "bold", fill: rgb("#000"))
   block(above: 0pt, below: 8pt, sticky: true, it.body)
 }
 
 // Level 3: Article subheadings (h2 in markdown)
 #show heading.where(level: 3): it => {
-  set text(font: "Noto Sans", size: 11pt, weight: "bold", fill: rgb("#333"))
+  set text(font: "Noto Sans", size: 11pt, weight: "bold", fill: rgb("#000"))
   block(above: 18pt, below: 7pt, sticky: true, it.body)
 }
 
 // Level 4: Article sub-subheadings (h3 in markdown)
 #show heading.where(level: 4): it => {
-  set text(font: "Noto Sans", size: 10pt, weight: "bold", fill: rgb("#333"))
+  set text(font: "Noto Sans", size: 10pt, weight: "bold", fill: rgb("#000"))
   block(above: 18pt, below: 7pt, sticky: true, it.body)
 }
 
@@ -922,7 +922,7 @@ async function main() {
     let pg = counter(page).get().first()
     if pg <= 1 { return }
     let is-even = calc.even(here().page())
-    set text(font: "Noto Serif", size: 7.5pt, style: "italic", fill: rgb("#bbb"))
+    set text(font: "Noto Serif", size: 7.5pt, style: "italic", fill: rgb("#000"))
     if is-even {
       align(left)[Samlade utlåtanden]
     } else {
@@ -933,7 +933,7 @@ async function main() {
     let pg = counter(page).get().first()
     if pg <= 1 { return }
     let is-even = calc.even(here().page())
-    set text(font: "Noto Serif", size: 7.5pt, fill: rgb("#bbb"))
+    set text(font: "Noto Serif", size: 7.5pt, fill: rgb("#000"))
     if is-even {
       align(left)[#counter(page).display()]
     } else {
