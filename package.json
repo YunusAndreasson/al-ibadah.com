@@ -26,7 +26,7 @@
     "@fontsource-variable/inter": "^5.2.8",
     "@fontsource-variable/source-serif-4": "^5.2.9",
     "@fontsource/amiri": "^5.2.8",
-    "astro": "^6.0.6",
+    "astro": "^6.1.6",
     "hijri-rrule": "^1.0.4",
     "preact": "^10.29.0"
   },
