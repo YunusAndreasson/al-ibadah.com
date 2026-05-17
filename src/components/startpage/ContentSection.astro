@@ -1,0 +1,34 @@
+---
+import type { SectionContent } from '~/lib/content-selection/types'
+import ContentCard from './ContentCard.astro'
+
+interface Props {
+  section: SectionContent
+  index?: number
+}
+
+const { section, index = 0 } = Astro.props
+---
+
+{
+  section.articles.length > 0 && (
+    <section
+      class="mb-12 animate-fade-up"
+      style={`animation-delay: ${(index + 1) * 60}ms`}
+    >
+      <header class="mb-5 flex items-baseline gap-3 flex-wrap">
+        <h2 class="section-label">{section.titleSv}</h2>
+        {section.isUpcoming && section.daysUntil !== undefined && (
+          <span class="text-xs text-muted-foreground bg-muted px-2 py-0.5 rounded">
+            om ~{section.daysUntil} {section.daysUntil === 1 ? 'dag' : 'dagar'}
+          </span>
+        )}
+      </header>
+      <div class="grid gap-3 sm:grid-cols-2">
+        {section.articles.map((article, i) => (
+          <ContentCard article={article} featured={i === 0} />
+        ))}
+      </div>
+    </section>
+  )
+}

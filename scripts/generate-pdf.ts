@@ -11,15 +11,9 @@
  */
 
 import { execSync } from 'node:child_process'
-import {
-  existsSync,
-  mkdirSync,
-  readdirSync,
-  readFileSync,
-  statSync,
-  writeFileSync,
-} from 'node:fs'
+import { existsSync, mkdirSync, readdirSync, readFileSync, statSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
+import type { Node, Nodes, Parent, PhrasingContent, Root, RootContent } from 'mdast'
 import remarkGfm from 'remark-gfm'
 import remarkParse from 'remark-parse'
 import remarkSmartypants from 'remark-smartypants'
@@ -135,8 +129,7 @@ interface ArticleMeta {
 
 function parseFrontmatter(raw: string): { meta: ArticleMeta; body: string } {
   const match = raw.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/)
-  if (!match)
-    return { meta: { title: '', author: '', categories: [], description: '' }, body: raw }
+  if (!match) return { meta: { title: '', author: '', categories: [], description: '' }, body: raw }
 
   const meta: ArticleMeta = { title: '', author: '', categories: [], description: '' }
   const lines = match[1].split('\n')
@@ -203,19 +196,30 @@ function esc(text: string): string {
 // MDAST → Typst markup
 // ---------------------------------------------------------------------------
 
+type FootnoteChildren = readonly RootContent[]
+
 interface Ctx {
-  footnoteDefs: Map<string, any[]>
+  footnoteDefs: Map<string, FootnoteChildren>
   prevBlockType: string
   inBlockquote: boolean
 }
 
+function hasChildren(node: Node): node is Parent {
+  return 'children' in node && Array.isArray((node as Parent).children)
+}
+
+function hasValue(node: Node): node is Node & { value: string } {
+  return 'value' in node && typeof (node as { value?: unknown }).value === 'string'
+}
+
 /** First pass: collect footnote definitions from the AST */
-function collectFootnoteDefs(node: any): Map<string, any[]> {
-  const defs = new Map<string, any[]>()
+function collectFootnoteDefs(node: Node): Map<string, FootnoteChildren> {
+  const defs = new Map<string, FootnoteChildren>()
   if (node.type === 'footnoteDefinition') {
-    defs.set(node.identifier, node.children)
+    const fn = node as Nodes & { type: 'footnoteDefinition' }
+    defs.set(fn.identifier, fn.children)
   }
-  if (node.children) {
+  if (hasChildren(node)) {
     for (const child of node.children) {
       for (const [k, v] of collectFootnoteDefs(child)) {
         defs.set(k, v)
@@ -225,10 +229,10 @@ function collectFootnoteDefs(node: any): Map<string, any[]> {
   return defs
 }
 
-function blocks(node: any, ctx: Ctx): string {
+function blocks(node: Root | RootContent, ctx: Ctx): string {
   switch (node.type) {
     case 'root':
-      return node.children.map((c: any) => blocks(c, ctx)).join('\n')
+      return node.children.map((c) => blocks(c, ctx)).join('\n')
 
     case 'paragraph': {
       const shouldIndent =
@@ -239,16 +243,16 @@ function blocks(node: any, ctx: Ctx): string {
 
       // Check if Fråga: and Svar: are combined in one paragraph —
       // split into two separate paragraphs at the Svar: boundary
-      if (node.children) {
-        const svarIdx = node.children.findIndex((c: any, i: number) =>
-          i > 0 && c.type === 'strong' && c.children?.[0]?.value?.startsWith('Svar:')
-        )
-        if (svarIdx > 0) {
-          // Render the Fråga part
-          const fragaPara = { ...node, children: node.children.slice(0, svarIdx) }
-          const svarPara = { ...node, children: node.children.slice(svarIdx) }
-          return blocks(fragaPara, ctx) + blocks(svarPara, ctx)
-        }
+      const svarIdx = node.children.findIndex((c, i) => {
+        if (i === 0 || c.type !== 'strong') return false
+        const first = c.children[0]
+        return first?.type === 'text' && first.value.startsWith('Svar:')
+      })
+      if (svarIdx > 0) {
+        // Render the Fråga part
+        const fragaPara = { ...node, children: node.children.slice(0, svarIdx) }
+        const svarPara = { ...node, children: node.children.slice(svarIdx) }
+        return blocks(fragaPara, ctx) + blocks(svarPara, ctx)
       }
 
       const text = inlines(node, ctx)
@@ -281,7 +285,7 @@ function blocks(node: any, ctx: Ctx): string {
       ctx.prevBlockType = 'blockquote'
       const prevInBlockquote = ctx.inBlockquote
       ctx.inBlockquote = true
-      const inner = node.children.map((c: any) => blocks(c, ctx)).join('\n')
+      const inner = node.children.map((c) => blocks(c, ctx)).join('\n')
       ctx.inBlockquote = prevInBlockquote
       // Less space when consecutive blockquotes (e.g. multiple Koranic verses)
       const space = prevBlockType === 'blockquote' ? 6 : 20
@@ -290,11 +294,13 @@ function blocks(node: any, ctx: Ctx): string {
 
     case 'list': {
       ctx.prevBlockType = 'list'
-      const items = node.children.map((li: any) => {
-        const liContent = li.children.map((c: any) => {
-          if (c.type === 'paragraph') return inlines(c, ctx)
-          return blocks(c, ctx)
-        }).join('\n')
+      const items = node.children.map((li) => {
+        const liContent = li.children
+          .map((c) => {
+            if (c.type === 'paragraph') return inlines(c, ctx)
+            return blocks(c, ctx)
+          })
+          .join('\n')
         const marker = node.ordered ? '+' : '-'
         return `${marker} ${liContent}`
       })
@@ -317,20 +323,22 @@ function blocks(node: any, ctx: Ctx): string {
   }
 }
 
-function inlines(node: any, ctx: Ctx): string {
-  if (!node.children) return esc(node.value || '')
-  return node.children.map((c: any) => inline(c, ctx)).join('')
+function inlines(node: Node, ctx: Ctx): string {
+  if (!hasChildren(node)) return esc(hasValue(node) ? node.value : '')
+  return node.children.map((c) => inline(c as PhrasingContent, ctx)).join('')
 }
 
-function inlinesFromChildren(children: any[], ctx: Ctx): string {
-  return children.map((child: any) => {
-    if (child.type === 'paragraph') return inlines(child, ctx)
-    if (child.children) return inlinesFromChildren(child.children, ctx)
-    return esc(child.value || '')
-  }).join('')
+function inlinesFromChildren(children: FootnoteChildren, ctx: Ctx): string {
+  return children
+    .map((child) => {
+      if (child.type === 'paragraph') return inlines(child, ctx)
+      if (hasChildren(child)) return inlinesFromChildren(child.children, ctx)
+      return esc(hasValue(child) ? child.value : '')
+    })
+    .join('')
 }
 
-function inline(node: any, ctx: Ctx): string {
+function inline(node: PhrasingContent, ctx: Ctx): string {
   switch (node.type) {
     case 'text':
       return esc(node.value)
@@ -357,8 +365,8 @@ function inline(node: any, ctx: Ctx): string {
     case 'delete':
       return inlines(node, ctx)
     default:
-      if (node.children) return inlines(node, ctx)
-      return esc(node.value || '')
+      if (hasChildren(node)) return inlines(node, ctx)
+      return esc(hasValue(node) ? node.value : '')
   }
 }
 
@@ -372,7 +380,7 @@ interface Article {
   categories: string[]
   categorySlug: string
   subcategorySlug: string
-  ast: any
+  ast: Root
 }
 
 interface Subcategory {
@@ -442,7 +450,7 @@ function loadContent(): Category[] {
           categories: meta.categories,
           categorySlug: catSlug,
           subcategorySlug: '',
-          ast: processor.runSync(tree),
+          ast: processor.runSync(tree) as Root,
         })
       }
     }
@@ -464,9 +472,7 @@ function loadContent(): Category[] {
     })
     for (const subSlug of subDirs) {
       const subDir = join(catDir, subSlug)
-      const files = readdirSync(subDir).filter(
-        (f) => f.endsWith('.md') && f !== '_index.md',
-      )
+      const files = readdirSync(subDir).filter((f) => f.endsWith('.md') && f !== '_index.md')
 
       const articles: Article[] = []
       for (const file of files) {
@@ -480,7 +486,7 @@ function loadContent(): Category[] {
           categories: meta.categories,
           categorySlug: catSlug,
           subcategorySlug: subSlug,
-          ast: processor.runSync(tree),
+          ast: processor.runSync(tree) as Root,
         })
       }
 
@@ -522,7 +528,9 @@ function buildArticle(article: Article): string {
   lines.push(`  #text(font: "Noto Serif", size: 12pt, weight: "bold")[${esc(article.title)}]`)
   if (article.author) {
     lines.push('  #v(2pt)')
-    lines.push(`  #text(font: "Noto Serif", size: 8.5pt, style: "italic", fill: rgb("#000"))[${esc(article.author)}]`)
+    lines.push(
+      `  #text(font: "Noto Serif", size: 8.5pt, style: "italic", fill: rgb("#000"))[${esc(article.author)}]`
+    )
   }
   lines.push('  #v(10pt)')
   lines.push(']')
@@ -720,12 +728,28 @@ interface GlossaryEntry {
   category: string
 }
 
+interface RawGlossaryTerm {
+  canonical: string
+  variants: string[]
+  definition?: string
+}
+
+interface RawGlossaryCategory {
+  description?: string
+  terms: RawGlossaryTerm[]
+}
+
+interface RawGlossaryFile {
+  description?: string
+  categories: Record<string, RawGlossaryCategory>
+}
+
 function loadGlossary(): GlossaryEntry[] {
   const jsonPath = join(ROOT, 'src/data/italicized-terms.json')
-  const raw = JSON.parse(readFileSync(jsonPath, 'utf-8'))
+  const raw: RawGlossaryFile = JSON.parse(readFileSync(jsonPath, 'utf-8'))
   const entries: GlossaryEntry[] = []
 
-  for (const [category, data] of Object.entries(raw.categories) as any[]) {
+  for (const [category, data] of Object.entries(raw.categories)) {
     for (const term of data.terms) {
       if (term.definition) {
         entries.push({
@@ -769,7 +793,9 @@ function buildGlossary(): string {
     termCount += terms.length
     const categoryName = GLOSSARY_CATEGORY_NAMES[categoryKey] || categoryKey
 
-    lines.push(`#text(font: "Noto Sans", size: 11pt, weight: "bold", fill: rgb("#000"))[${esc(categoryName)}]`)
+    lines.push(
+      `#text(font: "Noto Sans", size: 11pt, weight: "bold", fill: rgb("#000"))[${esc(categoryName)}]`
+    )
     lines.push('#v(8pt)')
     lines.push('#table(')
     lines.push('  stroke: none,')
@@ -900,7 +926,7 @@ async function main() {
   }
 
   console.log(
-    `${categories.length} kategorier, ${totalArticles.toLocaleString('sv-SE')} utlåtanden`,
+    `${categories.length} kategorier, ${totalArticles.toLocaleString('sv-SE')} utlåtanden`
   )
 
   const parts: string[] = []

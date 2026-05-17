@@ -23,16 +23,31 @@ interface ValidationWarning {
   line?: number
 }
 
+interface GlossaryTerm {
+  canonical: string
+  variants: string[]
+}
+
+interface GlossaryCategory {
+  description?: string
+  terms: GlossaryTerm[]
+}
+
+interface GlossaryFile {
+  description?: string
+  categories: Record<string, GlossaryCategory>
+}
+
 const errors: ValidationError[] = []
 const warnings: ValidationWarning[] = []
 
 // Load glossary
 const glossaryPath = path.join(process.cwd(), 'src/data/italicized-terms.json')
-const glossary = JSON.parse(fs.readFileSync(glossaryPath, 'utf-8'))
+const glossary: GlossaryFile = JSON.parse(fs.readFileSync(glossaryPath, 'utf-8'))
 
 // Build normalized → canonical lookup from glossary
 const normalizedToCanonical = new Map<string, string>()
-for (const cat of Object.values(glossary.categories) as any[]) {
+for (const cat of Object.values(glossary.categories)) {
   for (const term of cat.terms) {
     const norm = normalizeArabic(term.canonical)
     normalizedToCanonical.set(norm, term.canonical)
@@ -196,7 +211,6 @@ for (const filePath of walkSync(CONTENT_DIR)) {
 // Convention: ayn (ع) = ´ (U+00B4), hamza (ء) = ' (U+2019)
 // Terms with known ayn positions — if they contain hamza instead, flag it.
 
-const _AYN = '\u00B4' // ´
 const HAMZA = '\u2019' // '
 
 // Arabic roots where the ayn position is known
@@ -219,7 +233,7 @@ const KNOWN_AYN_TERMS: Record<string, string> = {
   shaban: 's̲ha´bān — شعبان contains ع (ayn)',
 }
 
-for (const cat of Object.values(glossary.categories) as any[]) {
+for (const cat of Object.values(glossary.categories)) {
   for (const term of cat.terms) {
     const allForms = [term.canonical, ...term.variants]
     for (const form of allForms) {

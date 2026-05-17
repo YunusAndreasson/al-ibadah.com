@@ -1,12 +1,13 @@
-import { lazy, Suspense } from 'preact/compat'
+import type { ComponentType } from 'preact'
 import { useEffect, useState } from 'preact/hooks'
 import { SearchIcon } from './icons'
 
-const SearchDialog = lazy(() => import('./SearchDialog').then((m) => ({ default: m.SearchDialog })))
+type SearchDialogProps = { open: boolean; onClose: () => void }
 
 export function SearchIsland() {
   const [searchOpen, setSearchOpen] = useState(false)
   const [isMac, setIsMac] = useState(false)
+  const [SearchDialog, setSearchDialog] = useState<ComponentType<SearchDialogProps> | null>(null)
 
   useEffect(() => {
     setIsMac(/Mac|iPhone|iPad|iPod/.test(navigator.userAgent))
@@ -23,6 +24,14 @@ export function SearchIsland() {
     return () => document.removeEventListener('keydown', handleKeyDown)
   }, [])
 
+  useEffect(() => {
+    if (searchOpen && !SearchDialog) {
+      import('./SearchDialog').then((m) => {
+        setSearchDialog(() => m.SearchDialog as ComponentType<SearchDialogProps>)
+      })
+    }
+  }, [searchOpen, SearchDialog])
+
   return (
     <>
       <button
@@ -37,10 +46,8 @@ export function SearchIsland() {
         </kbd>
       </button>
 
-      {searchOpen && (
-        <Suspense fallback={null}>
-          <SearchDialog open={searchOpen} onClose={() => setSearchOpen(false)} />
-        </Suspense>
+      {searchOpen && SearchDialog && (
+        <SearchDialog open={searchOpen} onClose={() => setSearchOpen(false)} />
       )}
     </>
   )

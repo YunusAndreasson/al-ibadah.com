@@ -19,7 +19,7 @@ description: >-
 
 **Svar:** Det är inte okänt för någon muslim att islams viktigaste pelare är vittnesmålet om att ingen har rätten att dyrkas utom Allāh och att Muḥammad är Allāhs sändebud. Vittnesmålet om att ingen har rätten att bli dyrkad utom Allāh fordrar att ingen dyrkas utom enbart Allāh. Vittnesmålet om att Muḥammad är Allāhs sändebud – över honom vare Allāhs frid och välsignelser – fordrar att Allāh inte dyrkas utom genom vad Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har godkänt.
 
-*Zakātul-fiṭr* är dyrkan enligt konsensus bland muslimer och den grundläggande principen i dyrkan är att den är *tawqīf* [begränsade till vad det finns en text för]. Därför är det inte tillåtet att försöka dyrka Allāh med någon dyrkan utom vad han har tagit från den vise personen som var källan till islamisk föreskrift [profeten Muḥammad]. Han är den som Herren den Upphöjde har sagt följande om: "*Och han talar inte av egen drift – nej, [det är] uppenbarelsens ord*." [^3]
+*zakātul-fiṭr* är dyrkan enligt konsensus bland muslimer och den grundläggande principen i dyrkan är att den är *tawqīf* [begränsade till vad det finns en text för]. Därför är det inte tillåtet att försöka dyrka Allāh med någon dyrkan utom vad han har tagit från den vise personen som var källan till islamisk föreskrift [profeten Muḥammad]. Han är den som Herren den Upphöjde har sagt följande om: "*Och han talar inte av egen drift – nej, [det är] uppenbarelsens ord*." [^3]
 
 Om detta har han sagt: "*Den som introducerar något i denna vår angelägenhet [islam] som inte tillhör den, då är det avvisat*." [^4] Och han har sagt: "*Den som utför en handling som inte tillhör vår angelägenhet [islam], då är den avvisad*." [^5]
 

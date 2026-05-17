@@ -1,8 +1,10 @@
 ---
 import { type CollectionEntry, getCollection } from 'astro:content'
 import PageLayout from '~/components/layout/PageLayout.astro'
-import { HomepageIsland } from '~/components/startpage/HomepageIsland'
+import ContentSection from '~/components/startpage/ContentSection.astro'
 import BaseLayout from '~/layouts/BaseLayout.astro'
+import { getStartpageSections } from '~/lib/content-selection/selector'
+import { detectOccasions } from '~/lib/hijri'
 import { renderTitle } from '~/lib/render-title'
 import { buildWebSiteSchema } from '~/lib/structured-data'
 
@@ -38,6 +40,11 @@ const articleData = articles.map((a: CollectionEntry<'articles'>) => ({
   wordCount: a.body ? a.body.split(/\s+/).filter(Boolean).length : 0,
   questionText: extractQuestionFromMarkdown(a.body),
 }))
+
+const now = new Date()
+const occasions = detectOccasions(now)
+const activeOccasionTypes = occasions.map((o) => o.type)
+const sections = getStartpageSections(activeOccasionTypes, articleData, now)
 ---
 
 <BaseLayout jsonLd={buildWebSiteSchema()}>
@@ -47,6 +54,6 @@ const articleData = articles.map((a: CollectionEntry<'articles'>) => ({
       profetens <em>sunnah</em> så som den förståtts av de första generationerna
       och förklarats av erkända lärda.
     </p>
-    <HomepageIsland articleData={articleData} client:load />
+    {sections.map((section, index) => <ContentSection section={section} index={index} />)}
   </PageLayout>
 </BaseLayout>

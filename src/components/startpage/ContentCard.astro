@@ -1,0 +1,47 @@
+---
+import type { CompactArticle } from '~/lib/content-selection/types'
+import { stripMarkdown } from '~/lib/markdown'
+
+interface Props {
+  article: CompactArticle
+  featured?: boolean
+}
+
+const { article, featured } = Astro.props
+
+const description = featured
+  ? article.questionText || (article.description ? stripMarkdown(article.description) : undefined)
+  : article.description
+    ? stripMarkdown(article.description)
+    : undefined
+---
+
+<a
+  href={`/${article.id}`}
+  class:list={['card block group', { 'sm:col-span-2 sm:py-6': featured }]}
+>
+  <h3
+    class:list={[
+      'font-sans font-semibold leading-snug mb-2 group-hover:text-foreground transition-colors',
+      featured ? 'text-lg' : 'text-base',
+    ]}
+    set:html={article.titleHtml || article.title}
+  />
+  {
+    description && (
+      <p
+        class:list={[
+          'text-muted-foreground',
+          featured ? 'text-base' : 'text-sm line-clamp-2',
+        ]}
+      >
+        {description}
+      </p>
+    )
+  }
+  {
+    article.author && (
+      <p class="text-xs text-subtle-foreground mt-2 truncate">{article.author}</p>
+    )
+  }
+</a>

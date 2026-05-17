@@ -200,13 +200,7 @@ function validateMarkdown(content: string, relativePath: string, frontmatterLine
     const line = lines[i]
     const lineNum = frontmatterLines + i + 1
 
-    // Find footnote references [^1], [^2], etc.
-    const refs = line.matchAll(/\[\^(\d+)\](?!:)/g)
-    for (const ref of refs) {
-      footnoteRefs.add(ref[1])
-    }
-
-    // Find footnote definitions [^1]:, [^2]:, etc.
+    // Find footnote definitions [^1]:, [^2]:, etc. (must be at line start)
     const defMatch = line.match(/^\[\^(\d+)\]:/)
     if (defMatch) {
       const id = defMatch[1]
@@ -221,6 +215,19 @@ function validateMarkdown(content: string, relativePath: string, frontmatterLine
         footnoteDefs.add(id)
         footnoteDefLines.set(id, lineNum)
       }
+    }
+
+    // Find footnote references [^N] — any occurrence except the line-start
+    // definition itself. `[^N]:` mid-line is a real reference followed by a
+    // literal colon (used as Swedish punctuation / genitive `:s`).
+    const refRegex = /\[\^(\d+)\]/g
+    let refMatch: RegExpExecArray | null
+    refMatch = refRegex.exec(line)
+    while (refMatch !== null) {
+      if (!(defMatch && refMatch.index === 0)) {
+        footnoteRefs.add(refMatch[1])
+      }
+      refMatch = refRegex.exec(line)
     }
   }
 

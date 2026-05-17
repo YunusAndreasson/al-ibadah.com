@@ -45,9 +45,9 @@ const currentPath = Astro.url.pathname
     </nav>
 
     <div class="flex items-center gap-2">
-      <SearchIsland client:load transition:persist />
-      <ThemeToggle client:load transition:persist />
-      <MobileMenu client:load navLinks={navLinks} footerLinks={footerLinks} currentPath={currentPath} />
+      <SearchIsland client:idle transition:persist />
+      <ThemeToggle client:idle transition:persist />
+      <MobileMenu client:idle navLinks={navLinks} footerLinks={footerLinks} currentPath={currentPath} />
     </div>
   </div>
 </header>

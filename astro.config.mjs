@@ -13,7 +13,7 @@ export default defineConfig({
   site: 'https://al-ibadah.com',
   output: 'static',
   prefetch: { defaultStrategy: 'hover' },
-  integrations: [preact({ compat: true }), sitemap()],
+  integrations: [preact(), sitemap()],
   vite: {
     plugins: [tailwindcss()],
     resolve: {

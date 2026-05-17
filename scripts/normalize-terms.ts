@@ -18,7 +18,7 @@ import { fileURLToPath } from 'node:url'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 
 // --- 1. Load canonical glossary ---
-const glossary = JSON.parse(
+const glossary: GlossaryFile = JSON.parse(
   readFileSync(join(__dirname, '../src/data/italicized-terms.json'), 'utf-8')
 )
 
@@ -44,6 +44,16 @@ const EXCLUDE_PATHS = ['granskning/', 'KORREKTURLASNING.md', 'information/']
 interface TermEntry {
   canonical: string
   variants: string[]
+}
+
+interface GlossaryCategory {
+  description?: string
+  terms: TermEntry[]
+}
+
+interface GlossaryFile {
+  description?: string
+  categories: Record<string, GlossaryCategory>
 }
 
 interface TermInfo {
@@ -175,8 +185,8 @@ function escapeRegex(s: string): string {
 // Build term list sorted by length (longest first to match multi-word terms first)
 const allTerms: TermInfo[] = []
 
-for (const category of Object.values(glossary.categories) as any[]) {
-  for (const term of category.terms as TermEntry[]) {
+for (const category of Object.values(glossary.categories)) {
+  for (const term of category.terms) {
     // Skip terms that collide with Swedish words
     if (EXCLUDE_TERMS.has(term.canonical)) continue
 
