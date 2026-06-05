@@ -6,6 +6,7 @@ interface IndexItem {
   title: string
   path: string
   category: string
+  author?: string
 }
 
 interface AiResult {
@@ -13,6 +14,26 @@ interface AiResult {
   title: string
   category?: string
   snippet: string
+}
+
+interface FeaturedAnswer {
+  path: string
+  title: string
+  category?: string
+  author?: string
+  question?: string
+  paragraphs: string[]
+  truncated: boolean
+}
+
+interface SearchResponse {
+  results?: { path: string; snippet: string }[]
+  answer?: {
+    path: string
+    question?: string
+    paragraphs: string[]
+    truncated: boolean
+  } | null
 }
 
 interface AskSearchProps {
@@ -57,6 +78,7 @@ function XIcon() {
 export function AskSearch({ children, articleCount }: AskSearchProps) {
   const [query, setQuery] = useState('')
   const [results, setResults] = useState<AiResult[]>([])
+  const [answer, setAnswer] = useState<FeaturedAnswer | null>(null)
   const [status, setStatus] = useState<'idle' | 'loading' | 'done' | 'error'>('idle')
   const indexRef = useRef<Map<string, IndexItem> | null>(null)
   const inputRef = useRef<HTMLInputElement>(null)
@@ -80,6 +102,7 @@ export function AskSearch({ children, articleCount }: AskSearchProps) {
     const q = query.trim()
     if (q.length < 2) {
       setResults([])
+      setAnswer(null)
       setStatus('idle')
       return
     }
@@ -87,23 +110,38 @@ export function AskSearch({ children, articleCount }: AskSearchProps) {
     const controller = new AbortController()
     const timer = setTimeout(() => {
       ensureIndex().then((index) => {
+        const titleOf = (path: string) =>
+          index.get(path)?.title ?? (path.split('/').pop() ?? path).replace(/-/g, ' ')
+
         fetch(`/api/search?q=${encodeURIComponent(q)}`, { signal: controller.signal })
           .then((r) => (r.ok ? r.json() : Promise.reject(new Error('bad status'))))
-          .then((data: { results?: { path: string; snippet: string }[] }) => {
-            const enriched: AiResult[] = (data.results ?? []).map((r) => {
-              const meta = index.get(r.path)
-              return {
+          .then((data: SearchResponse) => {
+            const featured: FeaturedAnswer | null = data.answer
+              ? {
+                  path: data.answer.path,
+                  question: data.answer.question,
+                  paragraphs: data.answer.paragraphs,
+                  truncated: data.answer.truncated,
+                  title: titleOf(data.answer.path),
+                  category: index.get(data.answer.path)?.category,
+                  author: index.get(data.answer.path)?.author,
+                }
+              : null
+            const list: AiResult[] = (data.results ?? [])
+              .filter((r) => r.path !== featured?.path)
+              .map((r) => ({
                 path: r.path,
                 snippet: r.snippet,
-                title: meta?.title ?? (r.path.split('/').pop() ?? r.path).replace(/-/g, ' '),
-                category: meta?.category,
-              }
-            })
-            setResults(enriched)
+                title: titleOf(r.path),
+                category: index.get(r.path)?.category,
+              }))
+            setAnswer(featured)
+            setResults(list)
             setStatus('done')
           })
           .catch((err) => {
             if ((err as Error).name !== 'AbortError') {
+              setAnswer(null)
               setResults([])
               setStatus('error')
             }
@@ -197,23 +235,65 @@ export function AskSearch({ children, articleCount }: AskSearchProps) {
 
         {hasQuery && (
           <div className="mt-6 animate-fade-up">
-            {status === 'loading' && results.length === 0 && (
-              <div className="grid gap-3" aria-hidden="true">
-                {[0, 1, 2].map((i) => (
-                  <div key={i} className="rounded-lg border border-border p-4 sm:p-5">
-                    <div className="h-4 w-2/3 rounded bg-muted animate-pulse" />
-                    <div className="mt-3 h-3 w-full rounded bg-muted animate-pulse" />
-                    <div className="mt-2 h-3 w-4/5 rounded bg-muted animate-pulse" />
-                  </div>
-                ))}
+            {status === 'loading' && !answer && results.length === 0 && (
+              <div className="rounded-xl border border-border p-5 sm:p-6" aria-hidden="true">
+                <div className="h-3 w-24 rounded bg-muted animate-pulse" />
+                <div className="mt-3 h-5 w-2/3 rounded bg-muted animate-pulse" />
+                <div className="mt-4 space-y-2">
+                  <div className="h-3 w-full rounded bg-muted animate-pulse" />
+                  <div className="h-3 w-full rounded bg-muted animate-pulse" />
+                  <div className="h-3 w-5/6 rounded bg-muted animate-pulse" />
+                </div>
               </div>
             )}
 
+            {answer && (
+              <article className="rounded-xl border border-border bg-background p-5 sm:p-6">
+                <div className="mb-3 flex items-center gap-2">
+                  <SparklesIcon size={14} className="shrink-0 text-subtle-foreground" />
+                  <span className="section-label !text-[0.8125rem] text-subtle-foreground">
+                    Svar ur texten
+                  </span>
+                  {answer.category && (
+                    <span className="ml-auto shrink-0 rounded border border-border bg-muted px-1.5 py-0.5 text-[11px] text-muted-foreground">
+                      {answer.category}
+                    </span>
+                  )}
+                </div>
+                <a href={answer.path} className="group block">
+                  <h3 className="font-sans text-lg font-semibold leading-snug text-foreground group-hover:underline">
+                    {answer.title}
+                  </h3>
+                </a>
+                {answer.question && (
+                  <p className="mt-1 line-clamp-2 text-sm italic text-subtle-foreground">
+                    Frågan: ”{answer.question}”
+                  </p>
+                )}
+                <div className="mt-3 space-y-2 text-[0.9375rem] leading-relaxed text-foreground">
+                  {answer.paragraphs.map((p) => (
+                    <p key={p}>{p}</p>
+                  ))}
+                  {answer.truncated && <p className="text-muted-foreground">…</p>}
+                </div>
+                <div className="mt-4 flex flex-wrap items-center gap-x-3 gap-y-1 border-t border-border pt-3">
+                  {answer.author && (
+                    <span className="text-xs text-subtle-foreground">— {answer.author}</span>
+                  )}
+                  <a
+                    href={answer.path}
+                    className="ml-auto text-sm font-medium text-foreground hover:underline"
+                  >
+                    Läs hela utlåtandet →
+                  </a>
+                </div>
+              </article>
+            )}
+
             {results.length > 0 && (
-              <>
-                <p className="mb-4 text-sm text-muted-foreground">
-                  Mest relevanta utlåtanden för{' '}
-                  <span className="font-medium text-foreground">”{trimmed}”</span>
+              <div className={answer ? 'mt-8' : ''}>
+                <p className="section-label mb-3 !text-[0.8125rem] text-muted-foreground">
+                  {answer ? 'Fler relevanta utlåtanden' : 'Relevanta utlåtanden'}
                 </p>
                 <div className="grid gap-3">
                   {results.map((r) => (
@@ -236,10 +316,10 @@ export function AskSearch({ children, articleCount }: AskSearchProps) {
                     </a>
                   ))}
                 </div>
-              </>
+              </div>
             )}
 
-            {status === 'done' && results.length === 0 && (
+            {status === 'done' && !answer && results.length === 0 && (
               <p className="rounded-lg border border-border p-6 text-center text-sm text-muted-foreground">
                 Inga träffar för ”{trimmed}”. Prova att formulera om frågan eller använd andra ord.
               </p>

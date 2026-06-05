@@ -17,6 +17,7 @@ export const GET: APIRoute = async () => {
       category: CATEGORY_NAMES[category] || category,
       subcategory: subcategoryName,
       arabicTerm: subcategoryName ? getArabicTerm(subcategoryName) : undefined,
+      author: article.data.author,
     }
   })
 

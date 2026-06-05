@@ -1,15 +1,22 @@
 /**
  * Pages Function: GET /api/search?q=<query>
  *
- * Brokers a retrieval-only query to the Cloudflare AI Search instance bound as
- * `SEARCH` (see wrangler.jsonc). Returns the most relevant article passages —
- * no LLM generation. One article can produce several chunks; we keep the
- * best-scoring chunk per article and return a short snippet plus the article
- * path (reconstructed from the R2 object key), which the client uses to link
- * back and to look up the title/category from the existing search index.
+ * Retrieval-only query to the Cloudflare AI Search instance bound as `SEARCH`.
+ * No LLM generation — the answer shown to the user is the scholar's actual text.
  *
- * Note: Pages Functions do not run under `astro dev`. Test with
- * `wrangler pages dev dist` (after `pnpm build`) or on a deployed preview.
+ * We use AI Search's native `context_expansion` so the top match comes back as a
+ * full, coherent passage (the whole Svar) rather than a 256-token fragment. The
+ * exported documents carry a `# Title` / `Kategori: … · Författare: …` header and
+ * `**Fråga:** / **Svar:**` structure, so we can split the question and answer out
+ * of the returned text directly.
+ *
+ * Response shape:
+ *   {
+ *     results: [{ path, score, snippet }],   // supporting list (all matches)
+ *     answer:  { path, question?, paragraphs[], truncated } | null  // featured top match
+ *   }
+ *
+ * Pages Functions do not run under `astro dev`; test with `wrangler pages dev dist`.
  */
 
 interface AiSearchChunk {
@@ -26,7 +33,7 @@ interface AiSearchInstance {
   search(options: {
     messages: { role: string; content: string }[]
     ai_search_options?: {
-      retrieval?: { max_num_results?: number; match_threshold?: number }
+      retrieval?: { max_num_results?: number; match_threshold?: number; context_expansion?: number }
       reranking?: { enabled?: boolean; model?: string; match_threshold?: number }
     }
   }): Promise<AiSearchResponse>
@@ -38,9 +45,9 @@ interface Env {
 
 type EventContext = { request: Request; env: Env }
 
-// Retrieve broadly, then collapse to the best chunk per article.
-const RETRIEVE = 20
-const MAX_RESULTS = 8
+const RETRIEVE = 20 // candidates to pull before de-duping to one chunk per article
+const MAX_RESULTS = 8 // articles returned to the client
+const ANSWER_MAX_CHARS = 1200 // cap on the inline featured answer
 
 function json(body: unknown, init?: ResponseInit): Response {
   return new Response(JSON.stringify(body), {
@@ -49,51 +56,131 @@ function json(body: unknown, init?: ResponseInit): Response {
   })
 }
 
-/** Strip the prepended header + markdown markers and trim to a preview length. */
-function toSnippet(text: string): string {
-  const clean = text
-    .replace(/^#.*$/gm, '') // drop heading lines (incl. our title header)
-    .replace(/^Kategori:.*$/gm, '') // drop our context header line
-    .replace(/[#>*_`[\]]/g, '')
+/** Strip inline markdown to a single clean line. */
+function cleanInline(text: string): string {
+  return text
+    .replace(/\[\^[\w-]+\]/g, '')
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    .replace(/(\*\*|__)(.*?)\1/g, '$2')
+    .replace(/(\*|_)(.*?)\1/g, '$2')
+    .replace(/`([^`]+)`/g, '$1')
     .replace(/\s+/g, ' ')
     .trim()
-  return clean.length > 280 ? `${clean.slice(0, 280).trimEnd()}…` : clean
+}
+
+/** Strip markdown but keep paragraph/line breaks, and drop our injected header. */
+function cleanBlock(text: string): string {
+  return text
+    .replace(/^#.*$/gm, '') // injected title heading
+    .replace(/^Kategori:.*$/gm, '') // injected category/author line
+    .replace(/^\s*\[\^[\w-]+\]:.*$/gm, '') // footnote definitions
+    .replace(/\[\^[\w-]+\]/g, '') // footnote references
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    .replace(/(\*\*|__)(.*?)\1/g, '$2')
+    .replace(/(\*|_)(.*?)\1/g, '$2')
+    .replace(/`([^`]+)`/g, '$1')
+    .replace(/^>\s?/gm, '') // blockquote markers (keep the quoted text)
+    .replace(/[ \t]+/g, ' ')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim()
+}
+
+/** Split a chunk's text into the question (Fråga) and answer (Svar). */
+function parseChunk(text: string): { question?: string; answer: string } {
+  const svar = text.search(/\*\*Svar:\*\*/i)
+  if (svar !== -1) {
+    const before = text.slice(0, svar)
+    const after = text.slice(svar).replace(/\*\*Svar:\*\*/i, '')
+    const fraga = before.match(/\*\*Fråga:\*\*([\s\S]*)/i)
+    return {
+      question: fraga ? cleanInline(fraga[1]) : undefined,
+      answer: cleanBlock(after),
+    }
+  }
+  return { answer: cleanBlock(text) }
+}
+
+/** A short one-line snippet for the supporting list. */
+function snippetOf(answer: string, max = 180): string {
+  const flat = answer.replace(/\s+/g, ' ').trim()
+  return flat.length > max ? `${flat.slice(0, max).trimEnd()}…` : flat
+}
+
+/** Answer paragraphs capped at a paragraph boundary near maxChars. */
+function paragraphsOf(
+  answer: string,
+  maxChars: number
+): { paragraphs: string[]; truncated: boolean } {
+  const lines = answer
+    .split(/\n+/)
+    .map((l) => l.trim())
+    .filter(Boolean)
+  const out: string[] = []
+  let total = 0
+  for (const line of lines) {
+    if (out.length > 0 && total + line.length > maxChars) {
+      return { paragraphs: out, truncated: true }
+    }
+    out.push(line)
+    total += line.length
+  }
+  return { paragraphs: out, truncated: false }
 }
 
 export async function onRequest(context: EventContext): Promise<Response> {
   const query = new URL(context.request.url).searchParams.get('q')?.trim()
   if (!query || query.length < 2) {
-    return json({ results: [] }, { headers: { 'cache-control': 'no-store' } })
+    return json({ results: [], answer: null }, { headers: { 'cache-control': 'no-store' } })
   }
 
   let chunks: AiSearchChunk[] = []
   try {
     const result = await context.env.SEARCH.search({
       messages: [{ role: 'user', content: query }],
-      // Both thresholds default to 0.4 and silently drop results — retrieval AND
-      // reranking each have their own. Set both to 0 so reranking only ORDERS the
-      // results (it does not drop them); we cap the count ourselves below.
+      // Both thresholds default to 0.4 and would silently drop low-score hits;
+      // 0 lets reranking ORDER (not drop) results. context_expansion returns the
+      // full surrounding passage so the top match is a coherent answer.
       ai_search_options: {
-        retrieval: { max_num_results: RETRIEVE, match_threshold: 0 },
+        retrieval: { max_num_results: RETRIEVE, match_threshold: 0, context_expansion: 3 },
         reranking: { enabled: true, model: '@cf/baai/bge-reranker-base', match_threshold: 0 },
       },
     })
     chunks = result.chunks ?? []
   } catch {
-    return json({ results: [], error: 'search_unavailable' }, { status: 502 })
+    return json({ results: [], answer: null, error: 'search_unavailable' }, { status: 502 })
   }
 
   // Keep the highest-scoring chunk per source article.
-  const byPath = new Map<string, { path: string; snippet: string; score: number }>()
+  const byPath = new Map<string, { path: string; score: number; text: string }>()
   for (const chunk of chunks) {
     const path = `/${chunk.item.key.replace(/\.md$/, '')}`
     const existing = byPath.get(path)
     if (!existing || chunk.score > existing.score) {
-      byPath.set(path, { path, snippet: toSnippet(chunk.text), score: chunk.score })
+      byPath.set(path, { path, score: chunk.score, text: chunk.text })
     }
   }
 
-  const results = [...byPath.values()].sort((a, b) => b.score - a.score).slice(0, MAX_RESULTS)
+  const ranked = [...byPath.values()].sort((a, b) => b.score - a.score).slice(0, MAX_RESULTS)
 
-  return json({ results }, { headers: { 'cache-control': 'public, max-age=300' } })
+  const results = ranked.map((r) => ({
+    path: r.path,
+    score: r.score,
+    snippet: snippetOf(parseChunk(r.text).answer),
+  }))
+
+  let answer: {
+    path: string
+    question?: string
+    paragraphs: string[]
+    truncated: boolean
+  } | null = null
+  if (ranked[0]) {
+    const parsed = parseChunk(ranked[0].text)
+    const { paragraphs, truncated } = paragraphsOf(parsed.answer, ANSWER_MAX_CHARS)
+    if (paragraphs.length > 0) {
+      answer = { path: ranked[0].path, question: parsed.question, paragraphs, truncated }
+    }
+  }
+
+  return json({ results, answer }, { headers: { 'cache-control': 'public, max-age=300' } })
 }
