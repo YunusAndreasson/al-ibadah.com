@@ -1,14 +1,16 @@
 /**
  * Pages Function: GET /api/search?q=<query>
  *
- * Retrieval-only query to the Cloudflare AI Search instance bound as `SEARCH`.
+ * Retrieval-only query to the Cloudflare AI Search instance `al-ibadah-search`.
  * No LLM generation — the answer shown to the user is the scholar's actual text.
  *
- * We use AI Search's native `context_expansion` so the top match comes back as a
- * full, coherent passage (the whole Svar) rather than a 256-token fragment. The
- * exported documents carry a `# Title` / `Kategori: … · Författare: …` header and
- * `**Fråga:** / **Svar:**` structure, so we can split the question and answer out
- * of the returned text directly.
+ * Pages config does not support the dedicated `ai_search` binding (Workers only),
+ * so on Pages we reach AI Search through the Workers AI binding (`AI`) via
+ * `env.AI.autorag(<instance>)`. We still pass `context_expansion` so the top
+ * match comes back as a full, coherent passage (the whole Svar) rather than a
+ * 256-token fragment. The exported documents carry a `# Title` /
+ * `Kategori: … · Författare: …` header and `**Fråga:** / **Svar:**` structure, so
+ * we split the question and answer out of the returned text directly.
  *
  * Response shape:
  *   {
@@ -19,19 +21,28 @@
  * Pages Functions do not run under `astro dev`; test with `wrangler pages dev dist`.
  */
 
-interface AiSearchChunk {
-  text: string
-  score: number
-  item: { key: string }
+const INSTANCE = 'al-ibadah-search'
+
+// AI Search returns chunks under either `chunks` (dedicated binding shape) or
+// `data` (unified/REST shape). We normalise both into one internal shape.
+interface RawChunk {
+  text?: string
+  score?: number
+  item?: { key?: string }
+  filename?: string
+  file_id?: string
+  content?: { type?: string; text?: string }[]
 }
 
 interface AiSearchResponse {
-  chunks?: AiSearchChunk[]
+  chunks?: RawChunk[]
+  data?: RawChunk[]
 }
 
-interface AiSearchInstance {
+interface AutoRagInstance {
   search(options: {
-    messages: { role: string; content: string }[]
+    query?: string
+    messages?: { role: string; content: string }[]
     ai_search_options?: {
       retrieval?: { max_num_results?: number; match_threshold?: number; context_expansion?: number }
       reranking?: { enabled?: boolean; model?: string; match_threshold?: number }
@@ -40,7 +51,7 @@ interface AiSearchInstance {
 }
 
 interface Env {
-  SEARCH: AiSearchInstance
+  AI: { autorag(name: string): AutoRagInstance }
 }
 
 type EventContext = { request: Request; env: Env }
@@ -53,6 +64,27 @@ const ANSWER_MAX_CHARS = 1200 // cap on the inline featured answer
 // queries collapse to ~0.0 — so this threshold sits in the empty gap between them
 // and stops nonsense queries from showing a confident, wrong answer.
 const ANSWER_MIN_SCORE = 0.5
+
+interface NormalChunk {
+  text: string
+  score: number
+  key: string
+}
+
+/** Flatten whichever response shape AI Search returns into {text, score, key}. */
+function normalizeChunks(result: AiSearchResponse): NormalChunk[] {
+  const raw = result.chunks ?? result.data ?? []
+  return raw.map((c) => ({
+    text:
+      typeof c.text === 'string'
+        ? c.text
+        : Array.isArray(c.content)
+          ? c.content.map((p) => p.text ?? '').join('\n')
+          : '',
+    score: typeof c.score === 'number' ? c.score : 0,
+    key: c.item?.key ?? c.filename ?? c.file_id ?? '',
+  }))
+}
 
 function json(body: unknown, init?: ResponseInit): Response {
   return new Response(JSON.stringify(body), {
@@ -133,15 +165,16 @@ function paragraphsOf(
 }
 
 export async function onRequest(context: EventContext): Promise<Response> {
-  const query = new URL(context.request.url).searchParams.get('q')?.trim()
+  const url = new URL(context.request.url)
+  const query = url.searchParams.get('q')?.trim()
   if (!query || query.length < 2) {
     return json({ results: [], answer: null }, { headers: { 'cache-control': 'no-store' } })
   }
 
-  let chunks: AiSearchChunk[] = []
+  let result: AiSearchResponse
   try {
-    const result = await context.env.SEARCH.search({
-      messages: [{ role: 'user', content: query }],
+    result = await context.env.AI.autorag(INSTANCE).search({
+      query,
       // Both thresholds default to 0.4 and would silently drop low-score hits;
       // 0 lets reranking ORDER (not drop) results. context_expansion returns the
       // full surrounding passage so the top match is a coherent answer.
@@ -150,15 +183,17 @@ export async function onRequest(context: EventContext): Promise<Response> {
         reranking: { enabled: true, model: '@cf/baai/bge-reranker-base', match_threshold: 0 },
       },
     })
-    chunks = result.chunks ?? []
   } catch {
     return json({ results: [], answer: null, error: 'search_unavailable' }, { status: 502 })
   }
 
+  const chunks = normalizeChunks(result)
+
   // Keep the highest-scoring chunk per source article.
   const byPath = new Map<string, { path: string; score: number; text: string }>()
   for (const chunk of chunks) {
-    const path = `/${chunk.item.key.replace(/\.md$/, '')}`
+    if (!chunk.key) continue
+    const path = `/${chunk.key.replace(/\.md$/, '')}`
     const existing = byPath.get(path)
     if (!existing || chunk.score > existing.score) {
       byPath.set(path, { path, score: chunk.score, text: chunk.text })
