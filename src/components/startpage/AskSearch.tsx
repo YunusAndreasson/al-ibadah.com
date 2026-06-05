@@ -75,6 +75,25 @@ function XIcon() {
   )
 }
 
+function CheckIcon() {
+  return (
+    <svg
+      width="13"
+      height="13"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      className="mt-px shrink-0"
+      aria-hidden="true"
+    >
+      <path d="M20 6 9 17l-5-5" />
+    </svg>
+  )
+}
+
 export function AskSearch({ children, articleCount }: AskSearchProps) {
   const [query, setQuery] = useState('')
   const [results, setResults] = useState<AiResult[]>([])
@@ -252,7 +271,7 @@ export function AskSearch({ children, articleCount }: AskSearchProps) {
                 <div className="mb-3 flex items-center gap-2">
                   <SparklesIcon size={14} className="shrink-0 text-subtle-foreground" />
                   <span className="section-label !text-[0.8125rem] text-subtle-foreground">
-                    Svar ur texten
+                    {answer.question ? 'Svar ur texten' : 'Ur texten'}
                   </span>
                   {answer.category && (
                     <span className="ml-auto shrink-0 rounded border border-border bg-muted px-1.5 py-0.5 text-[11px] text-muted-foreground">
@@ -276,25 +295,40 @@ export function AskSearch({ children, articleCount }: AskSearchProps) {
                   ))}
                   {answer.truncated && <p className="text-muted-foreground">…</p>}
                 </div>
-                <div className="mt-4 flex flex-wrap items-center gap-x-3 gap-y-1 border-t border-border pt-3">
-                  {answer.author && (
-                    <span className="text-xs text-subtle-foreground">— {answer.author}</span>
-                  )}
-                  <a
-                    href={answer.path}
-                    className="ml-auto text-sm font-medium text-foreground hover:underline"
-                  >
-                    Läs hela utlåtandet →
-                  </a>
+                <div className="mt-4 border-t border-border pt-3">
+                  <p className="mb-2 flex items-start gap-1.5 text-[11px] leading-relaxed text-subtle-foreground">
+                    <CheckIcon />
+                    <span>
+                      Ordagrant ur den publicerade texten. AI:n väljer det mest relevanta stycket —
+                      men skriver inget eget och hittar inte på något.
+                    </span>
+                  </p>
+                  <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
+                    {answer.author && (
+                      <span className="text-xs text-subtle-foreground">— {answer.author}</span>
+                    )}
+                    <a
+                      href={answer.path}
+                      className="ml-auto text-sm font-medium text-foreground hover:underline"
+                    >
+                      Läs hela utlåtandet →
+                    </a>
+                  </div>
                 </div>
               </article>
             )}
 
             {results.length > 0 && (
               <div className={answer ? 'mt-8' : ''}>
-                <p className="section-label mb-3 !text-[0.8125rem] text-muted-foreground">
-                  {answer ? 'Fler relevanta utlåtanden' : 'Relevanta utlåtanden'}
-                </p>
+                {answer ? (
+                  <p className="section-label mb-3 !text-[0.8125rem] text-muted-foreground">
+                    Fler relevanta utlåtanden
+                  </p>
+                ) : (
+                  <p className="mb-3 text-sm text-muted-foreground">
+                    Inget direkt svar hittades — men dessa utlåtanden kan vara relevanta:
+                  </p>
+                )}
                 <div className="grid gap-3">
                   {results.map((r) => (
                     <a key={r.path} href={r.path} className="card group block">

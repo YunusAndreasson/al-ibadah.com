@@ -48,6 +48,11 @@ type EventContext = { request: Request; env: Env }
 const RETRIEVE = 20 // candidates to pull before de-duping to one chunk per article
 const MAX_RESULTS = 8 // articles returned to the client
 const ANSWER_MAX_CHARS = 1200 // cap on the inline featured answer
+// Only present a prominent "answer" when the reranker is confident. Reranking
+// gives a clean bimodal score split — genuine matches land ~0.85–1.0 while junk
+// queries collapse to ~0.0 — so this threshold sits in the empty gap between them
+// and stops nonsense queries from showing a confident, wrong answer.
+const ANSWER_MIN_SCORE = 0.5
 
 function json(body: unknown, init?: ResponseInit): Response {
   return new Response(JSON.stringify(body), {
@@ -174,7 +179,7 @@ export async function onRequest(context: EventContext): Promise<Response> {
     paragraphs: string[]
     truncated: boolean
   } | null = null
-  if (ranked[0]) {
+  if (ranked[0] && ranked[0].score >= ANSWER_MIN_SCORE) {
     const parsed = parseChunk(ranked[0].text)
     const { paragraphs, truncated } = paragraphsOf(parsed.answer, ANSWER_MAX_CHARS)
     if (paragraphs.length > 0) {
