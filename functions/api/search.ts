@@ -25,7 +25,10 @@ interface AiSearchResponse {
 interface AiSearchInstance {
   search(options: {
     messages: { role: string; content: string }[]
-    ai_search_options?: { retrieval?: { max_num_results?: number } }
+    ai_search_options?: {
+      retrieval?: { max_num_results?: number; match_threshold?: number }
+      reranking?: { enabled?: boolean; model?: string; match_threshold?: number }
+    }
   }): Promise<AiSearchResponse>
 }
 
@@ -67,7 +70,13 @@ export async function onRequest(context: EventContext): Promise<Response> {
   try {
     const result = await context.env.SEARCH.search({
       messages: [{ role: 'user', content: query }],
-      ai_search_options: { retrieval: { max_num_results: RETRIEVE } },
+      // Both thresholds default to 0.4 and silently drop results — retrieval AND
+      // reranking each have their own. Set both to 0 so reranking only ORDERS the
+      // results (it does not drop them); we cap the count ourselves below.
+      ai_search_options: {
+        retrieval: { max_num_results: RETRIEVE, match_threshold: 0 },
+        reranking: { enabled: true, model: '@cf/baai/bge-reranker-base', match_threshold: 0 },
+      },
     })
     chunks = result.chunks ?? []
   } catch {
