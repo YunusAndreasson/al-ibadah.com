@@ -2,5 +2,14 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "al-ibadah",
   "compatibility_date": "2025-01-01",
-  "pages_build_output_dir": "dist"
+  "pages_build_output_dir": "dist",
+  // Retrieval-only AI Search instance backing /api/search (functions/api/search.ts).
+  // If Pages config rejects this binding, configure it instead in the dashboard:
+  // Pages project → Settings → Bindings → AI Search, variable name SEARCH.
+  "ai_search": [
+    {
+      "binding": "SEARCH",
+      "instance_name": "al-ibadah-search"
+    }
+  ]
 }

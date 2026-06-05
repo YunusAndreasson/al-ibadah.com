@@ -15,6 +15,8 @@
     "format": "biome format --write .",
     "extract:glossary": "tsx scripts/extract-glossary-definitions.ts",
     "find:undefined-terms": "tsx scripts/find-undefined-terms.ts",
+    "export:r2": "tsx scripts/export-to-r2.ts",
+    "upload:r2": "bash scripts/upload-r2.sh",
     "pdf": "tsx scripts/generate-pdf.ts",
     "deploy": "pnpm build && pnpm pdf && wrangler pages deploy dist --project-name al-ibadah --branch main --commit-dirty=true",
     "knip": "knip"

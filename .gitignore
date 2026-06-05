@@ -4,6 +4,7 @@ node_modules/
 # Build output
 .output/
 dist/
+dist-r2/
 
 # Astro
 .astro/
@@ -16,6 +17,7 @@ src/generated/
 
 # Cloudflare
 .wrangler/
+worker-configuration.d.ts
 
 # IDE
 .idea/
