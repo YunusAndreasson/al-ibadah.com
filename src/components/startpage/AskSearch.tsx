@@ -1,6 +1,6 @@
 import type { ComponentChildren } from 'preact'
 import { useEffect, useRef, useState } from 'preact/hooks'
-import { SearchIcon, SparklesIcon } from '~/components/ui/icons'
+import { SearchIcon, SparklesIcon, SpinnerIcon } from '~/components/ui/icons'
 
 interface IndexItem {
   title: string
@@ -39,7 +39,6 @@ interface SearchResponse {
 interface AskSearchProps {
   /** The curated homepage sections, shown when the user is not searching. */
   children?: ComponentChildren
-  articleCount?: number
 }
 
 // Natural-language prompts that showcase what semantic search can do here.
@@ -94,7 +93,7 @@ function CheckIcon() {
   )
 }
 
-export function AskSearch({ children, articleCount }: AskSearchProps) {
+export function AskSearch({ children }: AskSearchProps) {
   const [query, setQuery] = useState('')
   const [results, setResults] = useState<AiResult[]>([])
   const [answer, setAnswer] = useState<FeaturedAnswer | null>(null)
@@ -175,9 +174,6 @@ export function AskSearch({ children, articleCount }: AskSearchProps) {
 
   const trimmed = query.trim()
   const hasQuery = trimmed.length >= 2
-  const countHint = articleCount
-    ? `över ${(Math.floor(articleCount / 100) * 100).toLocaleString('sv-SE')}`
-    : ''
 
   function pickExample(example: string) {
     setQuery(example)
@@ -185,25 +181,53 @@ export function AskSearch({ children, articleCount }: AskSearchProps) {
   }
 
   function onKeyDown(e: KeyboardEvent) {
-    if (e.key === 'Enter' && results[0]) {
-      e.preventDefault()
-      navigateTo(results[0].path)
+    if (e.key === 'Enter') {
+      // Open the featured answer if present, otherwise the top supporting result.
+      const target = answer?.path ?? results[0]?.path
+      if (target) {
+        e.preventDefault()
+        navigateTo(target)
+      }
     } else if (e.key === 'Escape' && query) {
       e.preventDefault()
       setQuery('')
     }
   }
 
+  // A concise screen-reader announcement of the search outcome. We deliberately
+  // do NOT announce the loading state — status flips to 'loading' on every
+  // keystroke, which would spam the live region; the spinner covers that cue
+  // visually. Only the settled result (or error) is announced.
+  const statusMessage =
+    status === 'error'
+      ? 'AI-sökningen är inte tillgänglig just nu.'
+      : status === 'done'
+        ? answer
+          ? `Svar hittat.${results.length ? ` ${results.length} relaterade utlåtanden.` : ''}`
+          : results.length
+            ? `${results.length} relevanta utlåtanden hittades.`
+            : `Inga träffar för ${trimmed}.`
+        : ''
+
   return (
     <div>
-      <div className="mb-10">
+      <search className="mb-10" aria-label="Sök i utlåtanden">
         <div className="mb-2.5 flex items-center gap-1.5 text-subtle-foreground">
           <SparklesIcon size={14} />
           <span className="section-label !text-[0.8125rem]">Fråga med egna ord</span>
         </div>
 
-        <div className="flex items-center gap-3 rounded-xl border border-border bg-background px-4 py-3.5 transition-all focus-within:border-ring focus-within:shadow-dialog">
-          <SearchIcon size={20} className="shrink-0 text-muted-foreground" />
+        {/* Live region: announces loading / result counts to assistive tech. */}
+        <p className="sr-only" role="status" aria-live="polite">
+          {statusMessage}
+        </p>
+
+        <div className="field-shell flex items-center gap-3 rounded-xl border border-border bg-background px-4 py-3.5">
+          {status === 'loading' ? (
+            <SpinnerIcon size={20} className="shrink-0 text-muted-foreground animate-spin" />
+          ) : (
+            <SearchIcon size={20} className="shrink-0 text-muted-foreground" />
+          )}
           <input
             ref={inputRef}
             type="search"
@@ -211,11 +235,12 @@ export function AskSearch({ children, articleCount }: AskSearchProps) {
             onInput={(e) => setQuery(e.currentTarget.value)}
             onKeyDown={onKeyDown}
             placeholder="Ställ en fråga om bön, fasta, renhet…"
-            aria-label="Ställ en fråga"
+            aria-label="Ställ en fråga om bön, fasta och renhet"
             autoComplete="off"
             autoCorrect="off"
+            enterKeyHint="search"
             spellcheck={false}
-            className="min-w-0 flex-1 bg-transparent text-base text-foreground outline-none placeholder:text-muted-foreground [&::-webkit-search-cancel-button]:appearance-none"
+            className="field-input min-w-0 flex-1 bg-transparent text-base text-foreground placeholder:text-muted-foreground [&::-webkit-search-cancel-button]:appearance-none"
           />
           {query && (
             <button
@@ -233,27 +258,22 @@ export function AskSearch({ children, articleCount }: AskSearchProps) {
         </div>
 
         {!hasQuery && (
-          <div className="mt-3">
-            <p className="mb-2.5 text-sm text-subtle-foreground">
-              {countHint ? `Sök med egna ord i ${countHint} utlåtanden. Prova:` : 'Prova:'}
-            </p>
-            <div className="flex flex-wrap gap-2">
-              {EXAMPLES.map((example) => (
-                <button
-                  key={example}
-                  type="button"
-                  onClick={() => pickExample(example)}
-                  className="rounded-full border border-border px-3 py-1.5 text-sm text-muted-foreground hover-bg press-scale transition-colors"
-                >
-                  {example}
-                </button>
-              ))}
-            </div>
+          <div className="mt-3 flex flex-wrap gap-2">
+            {EXAMPLES.map((example) => (
+              <button
+                key={example}
+                type="button"
+                onClick={() => pickExample(example)}
+                className="rounded-full border border-border px-3 py-1.5 text-sm text-muted-foreground hover-bg press-scale transition-colors"
+              >
+                {example}
+              </button>
+            ))}
           </div>
         )}
 
         {hasQuery && (
-          <div className="mt-6 animate-fade-up">
+          <div className="mt-6 animate-fade-up" aria-busy={status === 'loading'}>
             {status === 'loading' && !answer && results.length === 0 && (
               <div className="rounded-xl border border-border p-5 sm:p-6" aria-hidden="true">
                 <div className="h-3 w-24 rounded bg-muted animate-pulse" />
@@ -289,12 +309,20 @@ export function AskSearch({ children, articleCount }: AskSearchProps) {
                     Frågan: ”{answer.question}”
                   </p>
                 )}
-                <div className="mt-3 space-y-2 text-[0.9375rem] leading-relaxed text-foreground">
+                {/* The extract is rendered in the reading serif with a quote rule
+                    so it reads as the published text itself, not UI copy. */}
+                <blockquote className="mt-3 space-y-3 border-l-2 border-border pl-4 font-serif text-[1.0625rem] leading-[1.7] text-foreground">
                   {answer.paragraphs.map((p) => (
-                    <p key={p}>{p}</p>
+                    <p key={p} className="text-pretty">
+                      {p}
+                    </p>
                   ))}
-                  {answer.truncated && <p className="text-muted-foreground">…</p>}
-                </div>
+                  {answer.truncated && (
+                    <p className="text-muted-foreground" aria-hidden="true">
+                      …
+                    </p>
+                  )}
+                </blockquote>
                 <div className="mt-4 border-t border-border pt-3">
                   <p className="mb-2 flex items-start gap-1.5 text-[11px] leading-relaxed text-subtle-foreground">
                     <CheckIcon />
@@ -309,6 +337,7 @@ export function AskSearch({ children, articleCount }: AskSearchProps) {
                     )}
                     <a
                       href={answer.path}
+                      aria-label={`Läs hela utlåtandet: ${answer.title}`}
                       className="ml-auto text-sm font-medium text-foreground hover:underline"
                     >
                       Läs hela utlåtandet →
@@ -333,7 +362,7 @@ export function AskSearch({ children, articleCount }: AskSearchProps) {
                   {results.map((r) => (
                     <a key={r.path} href={r.path} className="card group block">
                       <div className="flex items-start justify-between gap-3">
-                        <h3 className="font-sans text-base font-semibold leading-snug text-foreground">
+                        <h3 className="font-sans text-base font-semibold leading-snug text-foreground group-hover:underline">
                           {r.title}
                         </h3>
                         {r.category && (
@@ -366,7 +395,7 @@ export function AskSearch({ children, articleCount }: AskSearchProps) {
             )}
           </div>
         )}
-      </div>
+      </search>
 
       {/* Curated homepage sections — hidden while actively searching. */}
       <div hidden={hasQuery}>{children}</div>

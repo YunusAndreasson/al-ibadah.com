@@ -419,6 +419,28 @@ body {
   outline-offset: 2px;
 }
 
+/* Input shell — the bordered wrapper around a text field. On focus it gets a
+ * calm, symmetric ring (even on all sides, no directional drop shadow) plus a
+ * border tint, so the affordance is clear without looking like a floating panel. */
+.field-shell {
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.field-shell:focus-within {
+  border-color: var(--color-ring);
+  box-shadow: 0 0 0 3px color-mix(in oklch, var(--color-ring) 12%, transparent);
+}
+
+/* The native text input itself. Tailwind's `outline-none` lives in @layer
+ * utilities, so the unlayered global `:focus-visible` outline overrides it and
+ * leaks a detached, offset ring around the inner field. These inputs already
+ * show focus via the field shell (homepage) or the modal frame (palette), so we
+ * suppress the native outline here — unlayered and more specific, so it wins. */
+.field-input:focus,
+.field-input:focus-visible {
+  outline: none;
+}
+
 /* Skip link */
 .skip-link {
   position: absolute;

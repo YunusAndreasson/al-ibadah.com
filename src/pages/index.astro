@@ -55,7 +55,7 @@ const sections = getStartpageSections(activeOccasionTypes, articleData, now)
       profetens <em>sunnah</em> så som den förståtts av de första generationerna
       och förklarats av erkända lärda.
     </p>
-    <AskSearch client:load articleCount={articles.length}>
+    <AskSearch client:load>
       {sections.map((section, index) => <ContentSection section={section} index={index} />)}
     </AskSearch>
   </PageLayout>

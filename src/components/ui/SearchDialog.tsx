@@ -1,6 +1,6 @@
 import type { ComponentChildren } from 'preact'
 import { useEffect, useMemo, useRef, useState } from 'preact/hooks'
-import { ArticleIcon, SearchIcon, SparklesIcon } from '~/components/ui/icons'
+import { ArticleIcon, SearchIcon, SparklesIcon, SpinnerIcon } from '~/components/ui/icons'
 
 interface SearchItem {
   title: string
@@ -207,6 +207,9 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
   }
 
   const hasResults = navPaths.length > 0
+  // The semantic AI search only runs at >= 2 chars; below that, show titles only
+  // so the AI header never sits in a misleading perpetual "söker…" state.
+  const aiActive = query.trim().length >= 2
 
   return (
     <div
@@ -235,7 +238,7 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
               onInput={(e) => setQuery(e.currentTarget.value)}
               onKeyDown={handleKeyDown}
               placeholder="Sök artiklar…"
-              className="flex-1 bg-transparent text-base text-foreground outline-none focus:outline-none focus-visible:outline-none placeholder:text-muted-foreground"
+              className="field-input flex-1 bg-transparent text-base text-foreground placeholder:text-muted-foreground"
               aria-label="Sök artiklar"
               aria-autocomplete="list"
               aria-controls="search-results"
@@ -249,62 +252,77 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
               className="max-h-96 overflow-y-auto p-2 border-t border-border"
             >
               {/* AI Search — prominent, semantic, full-text */}
-              <div className="mb-1 flex items-center gap-2 px-3 pt-1 pb-2">
-                <SparklesIcon size={15} className="text-foreground shrink-0" />
-                <span className="text-xs font-semibold uppercase tracking-wide text-foreground">
-                  AI-sökning
-                </span>
-                {aiStatus === 'loading' && (
-                  <span className="text-[11px] text-muted-foreground">söker…</span>
-                )}
-                <span className="ml-auto text-[10px] uppercase tracking-wide text-subtle-foreground">
-                  hela texten
-                </span>
-              </div>
+              {aiActive && (
+                <>
+                  <div className="mb-1 flex items-center gap-2 px-3 pt-1 pb-2">
+                    <SparklesIcon size={15} className="text-foreground shrink-0" />
+                    <span className="text-xs font-semibold uppercase tracking-wide text-foreground">
+                      AI-sökning
+                    </span>
+                    {aiStatus === 'loading' && (
+                      <span className="inline-flex items-center gap-1 text-[11px] text-muted-foreground">
+                        <SpinnerIcon size={11} className="animate-spin" />
+                        söker…
+                      </span>
+                    )}
+                    <span className="ml-auto text-[10px] uppercase tracking-wide text-subtle-foreground">
+                      hela texten
+                    </span>
+                  </div>
 
-              {aiResults.length > 0 ? (
-                <ul role="listbox" aria-label="AI-sökresultat">
-                  {aiResults.map((item, index) => {
-                    const selected = index === selectedIndex
-                    return (
-                      <li key={item.path} role="option" aria-selected={selected} data-idx={index}>
-                        <button
-                          type="button"
-                          onClick={() => navigateTo(item.path)}
-                          onMouseEnter={() => setSelectedIndex(index)}
-                          className={`flex w-full flex-col gap-1 px-3 py-2.5 rounded-lg text-left ${
-                            selected ? 'bg-muted' : 'hover-bg'
-                          }`}
-                        >
-                          <span className="flex items-center gap-2">
-                            <span className="flex-1 min-w-0 truncate font-medium text-sm text-foreground">
-                              {item.title}
-                            </span>
-                            {item.category && (
-                              <span className="shrink-0 rounded border border-border bg-muted px-1.5 py-0.5 text-[11px] text-muted-foreground">
-                                {item.category}
+                  {aiResults.length > 0 ? (
+                    <ul role="listbox" aria-label="AI-sökresultat">
+                      {aiResults.map((item, index) => {
+                        const selected = index === selectedIndex
+                        return (
+                          <li
+                            key={item.path}
+                            role="option"
+                            aria-selected={selected}
+                            data-idx={index}
+                          >
+                            <button
+                              type="button"
+                              onClick={() => navigateTo(item.path)}
+                              onMouseEnter={() => setSelectedIndex(index)}
+                              className={`flex w-full flex-col gap-1 px-3 py-2.5 rounded-lg text-left ${
+                                selected ? 'bg-muted' : 'hover-bg'
+                              }`}
+                            >
+                              <span className="flex items-center gap-2">
+                                <span className="flex-1 min-w-0 truncate font-medium text-sm text-foreground">
+                                  {item.title}
+                                </span>
+                                {item.category && (
+                                  <span className="shrink-0 rounded border border-border bg-muted px-1.5 py-0.5 text-[11px] text-muted-foreground">
+                                    {item.category}
+                                  </span>
+                                )}
+                                {selected && <Kbd>↵</Kbd>}
                               </span>
-                            )}
-                            {selected && <Kbd>↵</Kbd>}
-                          </span>
-                          {item.snippet && (
-                            <span className="line-clamp-2 text-xs leading-relaxed text-muted-foreground">
-                              {item.snippet}
-                            </span>
-                          )}
-                        </button>
-                      </li>
-                    )
-                  })}
-                </ul>
-              ) : aiStatus === 'done' ? (
-                <p className="px-3 pb-2 text-xs text-muted-foreground">Inga AI-träffar.</p>
-              ) : aiStatus === 'error' ? (
-                <p className="px-3 pb-2 text-xs text-muted-foreground">
-                  AI-sökningen är inte tillgänglig just nu.
-                </p>
-              ) : (
-                <p className="px-3 pb-2 text-xs text-muted-foreground">söker…</p>
+                              {item.snippet && (
+                                <span className="line-clamp-2 text-xs leading-relaxed text-muted-foreground">
+                                  {item.snippet}
+                                </span>
+                              )}
+                            </button>
+                          </li>
+                        )
+                      })}
+                    </ul>
+                  ) : aiStatus === 'done' ? (
+                    <p className="px-3 pb-2 text-xs text-muted-foreground">Inga AI-träffar.</p>
+                  ) : aiStatus === 'error' ? (
+                    <p className="px-3 pb-2 text-xs text-muted-foreground">
+                      AI-sökningen är inte tillgänglig just nu.
+                    </p>
+                  ) : (
+                    <p className="flex items-center gap-1.5 px-3 pb-2 text-xs text-muted-foreground">
+                      <SpinnerIcon size={12} className="animate-spin" />
+                      söker…
+                    </p>
+                  )}
+                </>
               )}
 
               {/* Instant title matches not already shown above */}
