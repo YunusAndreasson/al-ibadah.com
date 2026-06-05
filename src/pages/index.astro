@@ -1,6 +1,7 @@
 ---
 import { type CollectionEntry, getCollection } from 'astro:content'
 import PageLayout from '~/components/layout/PageLayout.astro'
+import { AskSearch } from '~/components/startpage/AskSearch'
 import ContentSection from '~/components/startpage/ContentSection.astro'
 import BaseLayout from '~/layouts/BaseLayout.astro'
 import { getStartpageSections } from '~/lib/content-selection/selector'
@@ -54,6 +55,8 @@ const sections = getStartpageSections(activeOccasionTypes, articleData, now)
       profetens <em>sunnah</em> så som den förståtts av de första generationerna
       och förklarats av erkända lärda.
     </p>
-    {sections.map((section, index) => <ContentSection section={section} index={index} />)}
+    <AskSearch client:load articleCount={articles.length}>
+      {sections.map((section, index) => <ContentSection section={section} index={index} />)}
+    </AskSearch>
   </PageLayout>
 </BaseLayout>
