@@ -1,5 +1,23 @@
-const SITE_URL = 'https://al-ibadah.pages.dev'
+const SITE_URL = 'https://al-ibadah.com'
 const SITE_NAME = 'al-Ibadah'
+
+// Reusable publisher node, nested inside other schemas (no @context here).
+const PUBLISHER = {
+  '@type': 'Organization',
+  name: SITE_NAME,
+  url: SITE_URL,
+  logo: {
+    '@type': 'ImageObject',
+    url: `${SITE_URL}/favicon.svg`,
+  },
+}
+
+export function buildOrganizationSchema() {
+  return {
+    '@context': 'https://schema.org',
+    ...PUBLISHER,
+  }
+}
 
 export function buildWebSiteSchema() {
   return {
@@ -9,6 +27,7 @@ export function buildWebSiteSchema() {
     url: SITE_URL,
     inLanguage: 'sv',
     description: 'En kunskapssamling om islamisk dyrkan och teologi på svenska.',
+    publisher: PUBLISHER,
   }
 }
 
@@ -41,6 +60,7 @@ export function buildArticleSchema(opts: ArticleOpts) {
     url: `${SITE_URL}${opts.url}`,
     inLanguage: 'sv',
     isPartOf: { '@type': 'WebSite', name: SITE_NAME, url: SITE_URL },
+    publisher: PUBLISHER,
     ...(opts.author && {
       author: { '@type': 'Person', name: opts.author },
     }),
@@ -64,6 +84,7 @@ export function buildFAQPageSchema(opts: FAQPageOpts) {
     ...(opts.description && { description: opts.description }),
     url: `${SITE_URL}${opts.url}`,
     inLanguage: 'sv',
+    publisher: PUBLISHER,
     mainEntity: [
       {
         '@type': 'Question',

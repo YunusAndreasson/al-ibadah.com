@@ -26,4 +26,4 @@ Allow: /
 User-agent: Meta-ExternalAgent
 Allow: /
 
-Sitemap: https://al-ibadah.pages.dev/sitemap-index.xml
+Sitemap: https://al-ibadah.com/sitemap-index.xml

@@ -4,8 +4,6 @@ import '@fontsource-variable/inter'
 import '@fontsource-variable/source-serif-4'
 import '@fontsource-variable/source-serif-4/wght-italic.css'
 import '@fontsource/amiri/400.css'
-import '@fontsource/amiri/400-italic.css'
-import '@fontsource/amiri/700.css'
 import '~/styles/app.css'
 import JsonLd from '~/components/seo/JsonLd.astro'
 
@@ -35,6 +33,8 @@ const ogImageURL = new URL('/og-image.png', Astro.site)
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <title>{title}</title>
     <meta name="description" content={description} />
+
+    <meta name="google-site-verification" content="MUSiN9ZFcGjVgiyx83I9pnGuzqOc_qlTlNXLTxgDIhI" />
 
     <link rel="canonical" href={canonicalURL} />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
