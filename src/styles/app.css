@@ -603,20 +603,30 @@ body {
   animation: icon-in 0.2s ease-out;
 }
 
-/* Homepage entrance animations */
+/* Homepage entrance animations.
+   NOTE: the entrance motion must NOT start from opacity:0. Chrome excludes
+   opacity:0 elements as LCP candidates, so an opacity fade on above-the-fold
+   content defers LCP until the fade completes (measured: homepage LCP 2.2s →
+   1.0s once the opacity fade was removed). Animate transform only — it runs on
+   the compositor, keeps the element LCP-eligible from the first frame, and
+   causes no layout shift. */
 @keyframes fade-up {
   from {
-    opacity: 0;
-    transform: translateY(8px);
+    transform: translateY(10px);
   }
   to {
-    opacity: 1;
     transform: translateY(0);
   }
 }
 
 .animate-fade-up {
   animation: fade-up 0.35s ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-up {
+    animation: none;
+  }
 }
 
 /* Touch behavior — eliminate 300ms delay on interactive elements */

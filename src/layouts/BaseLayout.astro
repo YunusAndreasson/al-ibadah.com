@@ -1,11 +1,18 @@
 ---
 import { ClientRouter } from 'astro:transitions'
-import '@fontsource-variable/inter'
-import '@fontsource-variable/source-serif-4'
-import '@fontsource-variable/source-serif-4/wght-italic.css'
+// Self-hosted, glyph-subset Inter + Source Serif 4 (see scripts/subset-fonts.py).
+// Replaces the full @fontsource subsets (~314 KB → ~137 KB).
+import '~/styles/fonts.css'
 import '@fontsource/amiri/400.css'
 import '~/styles/app.css'
 import JsonLd from '~/components/seo/JsonLd.astro'
+// Preload the above-the-fold fonts so they arrive before first paint, avoiding
+// the fallback→web-font swap that otherwise causes layout shift (CLS). Inter is
+// used site-wide (header/nav + homepage body); Source Serif is the article prose
+// body, so it is only preloaded on article pages. URLs are content-hashed by
+// Vite and match the same asset the CSS requests.
+import interLatinUrl from '~/fonts/inter-latin.woff2?url'
+import serifLatinUrl from '~/fonts/source-serif-latin.woff2?url'
 
 interface Props {
   title?: string
@@ -33,6 +40,17 @@ const ogImageURL = new URL('/og-image.png', Astro.site)
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <title>{title}</title>
     <meta name="description" content={description} />
+
+    <link rel="preload" href={interLatinUrl} as="font" type="font/woff2" crossorigin="anonymous" />
+    {article && (
+      <link
+        rel="preload"
+        href={serifLatinUrl}
+        as="font"
+        type="font/woff2"
+        crossorigin="anonymous"
+      />
+    )}
 
     <meta name="google-site-verification" content="MUSiN9ZFcGjVgiyx83I9pnGuzqOc_qlTlNXLTxgDIhI" />
 

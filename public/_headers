@@ -1,18 +1,23 @@
 # Cloudflare Pages Headers
 # https://developers.cloudflare.com/pages/configuration/headers/
+#
+# NOTE: Cloudflare combines (concatenates) headers from every matching rule, so
+# Cache-Control must NOT be set on overlapping paths. The catch-all /* therefore
+# carries only security headers; HTML keeps Cloudflare Pages' default
+# `public, max-age=0, must-revalidate`, while hashed assets opt into immutable
+# caching below.
 
-# Static assets - cache for 1 year (immutable)
-/assets/*
+# Hashed build assets (Astro JS/CSS/fonts) - cache for 1 year (immutable)
+/_astro/*
   Cache-Control: public, max-age=31536000, immutable
 
-# Fonts - cache for 1 year
+# Static fonts in public/fonts - cache for 1 year
 /fonts/*
   Cache-Control: public, max-age=31536000, immutable
   Access-Control-Allow-Origin: *
 
-# HTML pages - cache with revalidation
+# Security headers for all responses (no Cache-Control here - see note above)
 /*
-  Cache-Control: public, max-age=0, must-revalidate
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
   Referrer-Policy: strict-origin-when-cross-origin
