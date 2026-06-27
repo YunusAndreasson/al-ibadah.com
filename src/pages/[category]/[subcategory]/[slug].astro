@@ -51,12 +51,14 @@ const articleSchema = qa
       question: qa.question,
       answer: qa.answer,
       author: article.data.author,
+      source: article.data.source,
     })
   : buildArticleSchema({
       title: article.data.title,
       description: article.data.description,
       url: pageUrl,
       author: article.data.author,
+      source: article.data.source,
     })
 const jsonLd = [buildBreadcrumbSchema(breadcrumbItems), articleSchema]
 ---

@@ -1,5 +1,31 @@
+import { type AuthorEntity, findAuthorEntity, isNonAuthor } from '~/data/authors'
+
 const SITE_URL = 'https://al-ibadah.com'
 const SITE_NAME = 'al-Ibadah'
+
+/**
+ * schema.org author node for a byline. A recognised scholar resolves to a rich
+ * Person/Organization carrying their biography URL and verified Wikidata/Wikipedia
+ * `sameAs`; an unrecognised but real byline still gets a basic Person; placeholder
+ * bylines ("n/a", "Sammanställning") yield nothing.
+ */
+function buildAuthorNode(author?: string) {
+  if (!author || isNonAuthor(author)) return undefined
+  const entity = findAuthorEntity(author)
+  if (!entity) return { '@type': 'Person', name: author }
+  return {
+    '@type': entity.type,
+    name: entity.name,
+    ...(entity.bioSlug && { url: `${SITE_URL}/biografier/${entity.bioSlug}/` }),
+    ...(entity.type === 'Person' && entity.jobTitle && { jobTitle: entity.jobTitle }),
+    sameAs: entity.sameAs,
+  }
+}
+
+/** Marks an article as a translation based on the original scholarly work. */
+function buildSourceNode(source?: string) {
+  return source ? { isBasedOn: { '@type': 'CreativeWork', name: source } } : undefined
+}
 
 // Reusable publisher node, nested inside other schemas (no @context here).
 const PUBLISHER = {
@@ -49,9 +75,11 @@ interface ArticleOpts {
   description?: string
   url: string
   author?: string
+  source?: string
 }
 
 export function buildArticleSchema(opts: ArticleOpts) {
+  const author = buildAuthorNode(opts.author)
   return {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -61,9 +89,8 @@ export function buildArticleSchema(opts: ArticleOpts) {
     inLanguage: 'sv',
     isPartOf: { '@type': 'WebSite', name: SITE_NAME, url: SITE_URL },
     publisher: PUBLISHER,
-    ...(opts.author && {
-      author: { '@type': 'Person', name: opts.author },
-    }),
+    ...(author && { author }),
+    ...buildSourceNode(opts.source),
   }
 }
 
@@ -74,9 +101,11 @@ interface FAQPageOpts {
   question: string
   answer: string
   author?: string
+  source?: string
 }
 
 export function buildFAQPageSchema(opts: FAQPageOpts) {
+  const author = buildAuthorNode(opts.author)
   return {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
@@ -95,9 +124,8 @@ export function buildFAQPageSchema(opts: FAQPageOpts) {
         },
       },
     ],
-    ...(opts.author && {
-      author: { '@type': 'Person', name: opts.author },
-    }),
+    ...(author && { author }),
+    ...buildSourceNode(opts.source),
   }
 }
 
@@ -118,6 +146,23 @@ export function buildCollectionPageSchema(opts: CollectionPageOpts) {
     inLanguage: 'sv',
     isPartOf: { '@type': 'WebSite', name: SITE_NAME, url: SITE_URL },
     numberOfItems: opts.itemCount,
+  }
+}
+
+/**
+ * Standalone Person/Organization schema for a scholar's biography page, turning
+ * it into an authoritative author entity (verified `sameAs`) that the articles'
+ * author nodes point back to via `url`.
+ */
+export function buildPersonSchema(entity: AuthorEntity) {
+  const url = entity.bioSlug ? `${SITE_URL}/biografier/${entity.bioSlug}/` : SITE_URL
+  return {
+    '@context': 'https://schema.org',
+    '@type': entity.type,
+    name: entity.name,
+    url,
+    sameAs: entity.sameAs,
+    ...(entity.type === 'Person' && entity.jobTitle && { jobTitle: entity.jobTitle }),
   }
 }
 

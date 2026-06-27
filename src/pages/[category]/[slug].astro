@@ -3,6 +3,7 @@ import { type CollectionEntry, getCollection, render } from 'astro:content'
 import ArticleRenderer from '~/components/content/ArticleRenderer.astro'
 import Breadcrumbs from '~/components/layout/Breadcrumbs.astro'
 import PageLayout from '~/components/layout/PageLayout.astro'
+import { entityByBioSlug } from '~/data/authors'
 import BaseLayout from '~/layouts/BaseLayout.astro'
 import { CATEGORY_NAMES } from '~/lib/content-utils'
 import { getRelatedArticles, type RelatedArticle } from '~/lib/related-articles'
@@ -10,6 +11,7 @@ import {
   buildArticleSchema,
   buildBreadcrumbSchema,
   buildFAQPageSchema,
+  buildPersonSchema,
   extractQA,
 } from '~/lib/structured-data'
 
@@ -49,14 +51,22 @@ const articleSchema = qa
       question: qa.question,
       answer: qa.answer,
       author: article.data.author,
+      source: article.data.source,
     })
   : buildArticleSchema({
       title: article.data.title,
       description: article.data.description,
       url: pageUrl,
       author: article.data.author,
+      source: article.data.source,
     })
-const jsonLd = [buildBreadcrumbSchema(breadcrumbItems), articleSchema]
+// Biography pages describe a scholar — emit a Person/Organization entity (with
+// verified sameAs) instead of Article, so they anchor the site's author authority.
+const bioEntity = category === 'biografier' ? entityByBioSlug(slug!) : undefined
+const jsonLd = [
+  buildBreadcrumbSchema(breadcrumbItems),
+  bioEntity ? buildPersonSchema(bioEntity) : articleSchema,
+]
 ---
 
 <BaseLayout

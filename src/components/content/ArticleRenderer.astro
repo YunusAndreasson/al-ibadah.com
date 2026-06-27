@@ -2,6 +2,7 @@
 import RelatedArticles from '~/components/content/RelatedArticles.astro'
 import { CopyButton } from '~/components/ui/CopyButton'
 import { ShareButton } from '~/components/ui/ShareButton'
+import { bioHrefForAuthor } from '~/data/authors'
 import type { RelatedArticle } from '~/lib/related-articles'
 import { renderTitle } from '~/lib/render-title'
 
@@ -14,6 +15,9 @@ interface Props {
 }
 
 const { title, author, source, category, relatedArticles = [] } = Astro.props
+// Link the byline to the scholar's biography when one exists (author authority
+// + internal link). Returns undefined for unknown authors → plain text.
+const authorHref = bioHrefForAuthor(author)
 ---
 
 <article class="mt-8 max-w-[65ch]">
@@ -22,7 +26,11 @@ const { title, author, source, category, relatedArticles = [] } = Astro.props
 
     {(author || source) && (
       <div class="space-y-1 mb-3">
-        {author && <p class="text-sm font-medium text-muted-foreground">{author}</p>}
+        {author && (
+          <p class="text-sm font-medium text-muted-foreground">
+            {authorHref ? <a href={authorHref} class="hover:underline">{author}</a> : author}
+          </p>
+        )}
         {source && <p class="text-xs text-subtle-foreground">{source}</p>}
       </div>
     )}
