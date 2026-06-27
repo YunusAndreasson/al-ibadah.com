@@ -13,6 +13,7 @@
       "!**/.output",
       "!**/dist",
       "!**/src/generated",
+      "!**/src/data/legacy-redirects.ts",
       "!**/.wrangler",
       "!**/*.md",
       "!**/*.css",
