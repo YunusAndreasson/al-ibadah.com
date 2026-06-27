@@ -8,7 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 381
-description: 'Är det så, då finns det inget skadligt i att omordna en moské för att be församlingsbönen och fredagsbönen som ursprungligen inte var avsedd för detta.'
+description: 'Det finns inget hinder för att en moské som från början inte var avsedd för fredagsbönen omordnas så att både församlings- och fredagsbönen kan bes där.'
 ---
 
 **Fråga:** Är det tillåtet att be fredagsbönen i en moské som från början inte var avsedd för att be fredagsbönen när den byggdes?

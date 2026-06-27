@@ -8,7 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1487
-description: 'Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Den som sover över bönen eller glömmer den, han bör be den när han kommer ihåg den.'
+description: 'Den som försover sig eller glömmer gryningsbönen ber den så snart han vaknar; det räknas inte som synd, men han måste se till att bli väckt i tid.'
 ---
 
 **Fråga:** Om någon försov sig och missade gryningsbönen, kommer Allāh då att belöna honom för de resterande bönerna under den dagen? Kommer den att accepteras om han ber när han vaknar?
