@@ -6,10 +6,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 534
-description: >-
-  Fråga: Vilket är utlåtandet om den som säljer olika sorters tobak? Jag röker
-  och när jag hör böneutropet, då går jag till moskén. Måste jag upprepa min
-  tvagning eller är det tillräckligt att enbar...
+description: 'All lovprisan tillhör Allāh. Det är förbjudet att sälja tobak på grund av dess onda natur och dess många skadliga effekter.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som säljer olika sorters tobak? Jag röker och när jag hör böneutropet, då går jag till moskén. Måste jag upprepa min tvagning eller är det tillräckligt att enbart skölja munnen? Jag vet att rökning orsakar olika sorters sjukdomar.

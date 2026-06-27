@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdens stationer
 original_id: 738
-description: >-
-  Fråga: En frågeställare säger: ”Jag är en student från Medina och jag ville
-  utföra ‘umrah men jag kunde inte finna någon bil som tog mig direkt till
-  Mecka. Jag begav mig då till Jiddah först och...
+description: 'Förhåller det sig som du säger – att du avsåg att vallfärda när du befann dig i Medina, att du begav dig till Jiddah och gick in i iḥrām där – då har du…'
 ---
 
 **Fråga:** En frågeställare säger: ”Jag är en student från Medina och jag ville utföra *´umrah* men jag kunde inte finna någon bil som tog mig direkt till Mecka. Jag begav mig då till Jiddah först och gick in i *iḥrām* i Jiddah. Finns det något jag behöver göra med anledning av detta? Går det bra om jag går in i *iḥrām* i Jiddah?

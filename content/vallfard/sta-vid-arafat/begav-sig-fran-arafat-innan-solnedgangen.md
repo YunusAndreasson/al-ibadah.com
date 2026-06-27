@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Arafat
 original_id: 837
-description: >-
-  Fråga: Vilket är utlåtandet om den som vallfärdade och lämnade Arafat innan
-  solen hade gått ned. Detta berodde på personens arbete. Svar: Den som lämnar
-  Arafat innan solnedgången måste offra ett ...
+description: 'Den som lämnar ´Arafāt innan solnedgången måste offra ett djur [i gottgörelse] enligt de flesta lärde.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som vallfärdade och lämnade *´Arafāt* innan solen hade gått ned. Detta berodde på personens arbete.

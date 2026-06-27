@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 1156
-description: >-
-  Fråga: Om någon slår ihop middagsbönen och eftermiddagsbönen, finns det då
-  en iqāmah för var och en av dem? Svar: Det finns en iqāmah för var och en av
-  dem, vilket har rapporterats i en ...
+description: 'Det finns en iqāmah för var och en av dem, vilket har rapporterats i en ḥadīt̲h från Jabir i vilken han beskriver profetens – över honom vare Allāhs frid…'
 ---
 
 **Fråga:** Om någon slår ihop middagsbönen och eftermiddagsbönen, finns det då en *iqāmah* för var och en av dem?

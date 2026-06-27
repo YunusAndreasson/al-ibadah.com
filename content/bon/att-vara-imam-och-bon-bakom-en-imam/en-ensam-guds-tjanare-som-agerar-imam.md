@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 1474
-description: >-
-  Fråga: Får man börja be tillsammans med någon som ber ensam? Svar: Ja, det är
-  tillåtet. Detta grundas på en återberättelse från Ibn ‘Abbās i vilken han
-  säger: ” Jag bodde med min moster, Maimu...
+description: 'Ja, det är tillåtet. Detta grundas på en återberättelse från Ibn ‘Abbās i vilken han säger: ”Jag bodde med min moster, Maimunah, och Allāhs sändebud stod…'
 ---
 
 **Fråga:** Får man börja be tillsammans med någon som ber ensam?

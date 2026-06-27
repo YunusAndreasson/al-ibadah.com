@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 256
-description: >-
-  Fråga: Jag bad förmiddagsbönen i mitt hem och när jag hade gjort öppnings-
-  takbīr och reciterat *al-Fātiḥah* knackade någon på dörren. Jag gjorde då
-  taslīm och öppnade dörren. Sedan återvände jag...
+description: 'Det finns ingen invändan mot att avbryta bönen – även om det skulle vara en obligatorisk bön – på grund av något nödvändigt som du har nämnt.'
 ---
 
 **Fråga:** Jag bad förmiddagsbönen[^1] i mitt hem och när jag hade gjort öppnings-*takbīr* och reciterat *al-Fātiḥah* knackade någon på dörren. Jag gjorde då *taslīm* och öppnade dörren. Sedan återvände jag, gjorde *takbīr* och började om från början. Skall jag gottgöra för detta på något sätt?

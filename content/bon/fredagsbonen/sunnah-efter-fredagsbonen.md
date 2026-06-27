@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 1545
-description: >-
-  Fråga: Hur brukade Allāhs sändebud – över honom vare Allāhs frid och
-  välsignelser – och hans följeslagare avsluta fredagsbönen? Bad de två
-  bönecykler efter den? Svar: I en hadīth från Abū Hu...
+description: 'I en ḥadīt̲h från Abū Hurairah berättas att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”Allāhs sändebud sade: ''Om någon ber…'
 ---
 
 **Fråga:** Hur brukade Allāhs sändebud – över honom vare Allāhs frid och välsignelser – och hans följeslagare avsluta fredagsbönen? Bad de två bönecykler efter den?

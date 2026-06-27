@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1423
-description: >-
-  Fråga: Jag såg en pilgrim som lade sig ned för att sova när han hade bett
-  nattbönen. Han sov djupt. När tiden sedan kom för gryningsbönen så vaknade han
-  och bad utan att förnya sin tvagning. Vilke...
+description: 'Om det som du har berättat om har inträffat – att han sov djupt efter att ha bett – då är hans tvagning ogiltig.'
 ---
 
 **Fråga:** Jag såg en pilgrim som lade sig ned för att sova när han hade bett nattbönen. Han sov djupt. När tiden sedan kom för gryningsbönen så vaknade han och bad utan att förnya sin tvagning. Vilket är utlåtandet om denna bön?

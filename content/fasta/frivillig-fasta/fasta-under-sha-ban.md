@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 1270
-description: >-
-  Fråga: Vilket är utlåtandet om att fasta under s̲ha´bān? Svar: Fastan under
-  s̲ha´bān är sunnah . Att fasta den ofta är också en sunnah . Detta till den
-  grad att ‘A’ishah – må Allāh vara nöjd m...
+description: 'Fastan under s̲ha´bān är sunnah. Att fasta den ofta är också en sunnah. Detta till den grad att ''A''ishah – må Allāh vara nöjd med henne – sade: "Jag såg…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att fasta under *s̲ha´bān*?

@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Monoteism
 original_id: 916
-description: >-
-  Fråga: Vad är skillnaden mellan vittnesmålet om tro med hjärtat och
-  vittnesmålet om tro med tungan? Är det obligatoriskt att vittna med båda?
-  Svar: Skillnaden mellan vittnesmålet med tungan oc...
+description: 'Skillnaden mellan vittnesmålet med tungan och det med hjärtat är uppenbar därför att somliga, som hycklarna, vittnar enbart med sina tungor.'
 ---
 
 **Fråga:** Vad är skillnaden mellan vittnesmålet om tro med hjärtat och vittnesmålet om tro med tungan? Är det obligatoriskt att vittna med båda?

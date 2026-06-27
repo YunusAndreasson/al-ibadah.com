@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Skulder
 original_id: 722
-description: 'Fråga: Jag vill vallfärda till Allāhs heliga hus men jag har inte tillräckligt
- [med pengar] för det. Mitt företag har kommit överens med mig om att låna mig pengar
- för att täcka kostnaden för val...'
+description: 'Det är acceptabelt att du gör detta. Om du vallfärdar med pengar som du har lånat, då accepteras det.'
 ---
 
 **Fråga:** Jag vill vallfärda till Allāhs heliga hus men jag har inte tillräckligt [med pengar] för det. Mitt företag har kommit överens med mig om att låna mig pengar för att täcka kostnaden för vallfärden. Detta lån kommer att betalas tillbaka efteråt med avdrag från min lön. Är detta acceptabelt?

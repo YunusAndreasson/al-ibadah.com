@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 758
-description: >-
-  Fråga: Vilket är utlåtandet om att träda in i ihrām före mīqāt och är ihrām
-  för vallfärden uppfylld om man har trätt in i den före vallfärdsmånaderna?
-  Svar: Det är inte fel att träda in ...
+description: 'Det är inte fel att träda in i iḥrām innan platsen för mīqāt. Det är som om du går in i iḥrām vid at-Ta''if genom att rena dig själv, ta på iḥrām-kläder,…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att träda in i *iḥrām* före *mīqāt* och är *iḥrām* för vallfärden uppfylld om man har trätt in i den före vallfärdsmånaderna?

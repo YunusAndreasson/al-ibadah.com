@@ -7,9 +7,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 1142
-description: 'Fråga: Får en kvinna recitera Koranen under hennes månadsblödning? Svar: En
- kvinna får recitera Koranen under månadsblödningen om det behövs. Ett exempel på
- detta kan vara om hon: är en lärari...'
+description: 'En kvinna får recitera Koranen under månadsblödningen om det behövs. Ett exempel på detta kan vara om hon: är en lärarinna som måste recitera Koranen för…'
 ---
 
 **Fråga:** Får en kvinna recitera Koranen under hennes månadsblödning?

@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 636
-description: 'Fråga: Jag har en syster som är gift och hon är en bra kvinna. Får
- jag ge en del av min allmosa till henne för att göra det bättre för henne och hennes
- barn? Detta speciellt eftersom hennes man in...'
+description: 'Om hon är fattig och hennes make inte försörjer henne och hon inte har möjlighet att rätta till hans tillstånd, då är det tillåtet att ge henne allmosa…'
 ---
 
 **Fråga:** Jag har en syster som är gift och hon är en bra kvinna. Får jag ge en del av min allmosa till henne för att göra det bättre för henne och hennes barn? Detta speciellt eftersom hennes man inte bryr sig om någon utom sig själv. Vi har tröttnat på att försöka rätta till honom.

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1697
-description: >-
-  Fråga: Jag har en vän som är mig mycket kär och som har en mycket hög och ädel
-  karaktär. Hans problem är dock att han inte ber. Som jag har sagt älskar jag
-  honom för hans goda sätt. Jag vet inte o...
+description: 'Bönen är en av islams pelare och den största efter trosbekännelsen. Den som ber kommer att bevara sin religion.'
 ---
 
 **Fråga:** Jag har en vän som är mig mycket kär och som har en mycket hög och ädel karaktär. Hans problem är dock att han inte ber. Som jag har sagt älskar jag honom för hans goda sätt. Jag vet inte om jag bör fortsätta min vänskap med honom. Ädle *s̲hayk̲h*, jag skulle vilja veta hur jag ska betona bönens vikt för honom. Om han fortsätter att inte be, bör jag då lämna honom?

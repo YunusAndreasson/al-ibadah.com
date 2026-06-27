@@ -6,9 +6,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 901
-description: 'Fråga: Är fastan giltig hos den vars vittnesmål är falskt? Svar: Att
- vittna falskt är en av de större synderna. Det betyder att någon vittnar om något
- han inte känner till något om, eller att...'
+description: 'Att vittna falskt är en av de större synderna. Det betyder att någon vittnar om något han inte känner till något om, eller att han säger motsatsen.'
 ---
 
 **Fråga:** Är fastan giltig hos den vars vittnesmål är falskt?

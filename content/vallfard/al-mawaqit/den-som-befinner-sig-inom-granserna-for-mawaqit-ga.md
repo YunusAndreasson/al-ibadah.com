@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdens stationer
 original_id: 1337
-description: >-
-  Fråga: Var träder den som bor innanför mawāqīts gränser in i iḥrām ? Svar: Den
-  som befinner sig inom gränserna för mawāqīt, som invånarna i Ummus-Salam och
-  Bahrah, de går in i iḥrām på ...
+description: 'Den som befinner sig inom gränserna för mawāqīt, som invånarna i Ummus-Salam och Bahrah, de går in i iḥrām på den plats där de bor.'
 ---
 
 **Fråga:** Var träder den som bor innanför *mawāqīts* gränser in i *iḥrām*?

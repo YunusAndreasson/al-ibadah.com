@@ -10,10 +10,7 @@ categories:
   - Blandat
   - Kost och hälsa
 original_id: 1632
-description: >-
-  Fråga: En man som dricker alkoholhaltiga drycker avser att hålla sig borta
-  från dem och ångra sig för vad han gjort. Han begav sig då från Jordanien till
-  Mecka med bil för att vallfärda och ångra ...
+description: 'Att dricka alkohol är förbjudet i Skriften, i profetens – över honom vare Guds frid och välsignelser – sunnah och genom konsensus bland muslimerna.'
 ---
 
 **Fråga:** En man som dricker alkoholhaltiga drycker avser att hålla sig borta från dem och ångra sig för vad han gjort. Han begav sig då från Jordanien till Mecka med bil för att vallfärda och ångra sig. På vägen kände han ett sug, tog en klunk och sade: ”Detta är sista gången.” Vilket är utlåtandet om detta?

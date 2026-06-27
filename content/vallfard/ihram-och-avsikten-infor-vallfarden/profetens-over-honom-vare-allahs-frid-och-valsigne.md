@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 1334
-description: >-
-  Fråga: Trädde profeten in i iḥrām och badade i Medina? Svar: Profeten – över
-  honom vare Allāhs frid och välsignelser – gick in i iḥrām vid Thul-Hulayfah,
-  vilket betyder att han formade avsi...
+description: 'Profeten – över honom vare Allāhs frid och välsignelser – gick in i iḥrām vid Thul-Hulayfah, vilket betyder att han formade avsikten för vallfärden och att…'
 ---
 
 **Fråga:** Trädde profeten in i *iḥrām* och badade i Medina?

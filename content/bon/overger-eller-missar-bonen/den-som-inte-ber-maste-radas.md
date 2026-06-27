@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1533
-description: >-
-  Fråga: En gång låg jag på sjukhus under tre dagar tillsammans med två
-  personer. Under denna tid brukade jag be, men de bad inte trots att de var
-  muslimer från mitt land. Jag sade ingenting till de...
+description: 'Det var din plikt att råda och tillrättavisa dem för denna stora synd som de begick. De övergav ju bönen.'
 ---
 
 **Fråga:** En gång låg jag på sjukhus under tre dagar tillsammans med två personer. Under denna tid brukade jag be, men de bad inte trots att de var muslimer från mitt land. Jag sade ingenting till dem. Har jag syndat då jag inte beordrade dem att be? Vad gör jag för att gottgöra detta? Må Allāh belöna er med godhet.

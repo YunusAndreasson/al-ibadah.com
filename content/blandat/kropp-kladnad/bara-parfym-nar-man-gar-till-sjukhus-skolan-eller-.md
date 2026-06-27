@@ -6,10 +6,7 @@ categories:
   - Blandat
   - Kropp och klädnad
 original_id: 1716
-description: >-
-  Fråga: Får en kvinna bära parfym när hon ska gå till skolan, sjukhuset eller
-  för att besöka släktingar eller grannar? Svar: All lovprisan tillhör Allāh.
-  Hon får bära parfym om hon går till en...
+description: 'All lovprisan tillhör Allāh. Hon får bära parfym om hon går till en kvinnosamling och hon inte kommer att passera förbi några män på vägen.'
 ---
 
 **Fråga:** Får en kvinna bära parfym när hon ska gå till skolan, sjukhuset eller för att besöka släktingar eller grannar?

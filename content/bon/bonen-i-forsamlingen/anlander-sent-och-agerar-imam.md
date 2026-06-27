@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 194
-description: >-
-  Fråga: En man gick in i moskén när imamen hade gjort taslīm . Han fann då att
-  en annan person som hade anlänt sent gjorde klart det som han hade missat med
-  församlingen. Han ställde sig då jämte ...
+description: 'Om den som anlände sent går in i moskén när folket redan har bett och finner en annan person som har anlänt sent som ber, då får han be jämte honom för att…'
 ---
 
 **Fråga:** En man gick in i moskén när imamen hade gjort *taslīm*. Han fann då att en annan person som hade anlänt sent gjorde klart det som han hade missat med församlingen. Han ställde sig då jämte honom och gjorde honom till imam för att han skulle få belöningen för att ha bett med församlingen. Är detta tillåtet?

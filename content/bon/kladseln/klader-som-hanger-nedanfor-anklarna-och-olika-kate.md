@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Klädsel i bönen
 original_id: 932
-description: >-
-  Fråga: Vilket är straffet för att låta ens klädesplagg hänga nedanför anklarna
-  om man avsåg att visa högmod och vilket är straffet om man inte avsåg att visa
-  högmod och stolthet genom att göra så?...
+description: 'Om någon avser att visa stolthet och högmod genom att låta klädesplagget hänga nedanför fotknölen är straffet att Allāh den Upphöjde på Återuppståndelsens…'
 ---
 
 **Fråga:** Vilket är straffet för att låta ens klädesplagg hänga nedanför anklarna om man avsåg att visa högmod och vilket är straffet om man inte avsåg att visa högmod och stolthet genom att göra så? Hur bör vi besvara dem som talar om att Abū Bakr – må Allāh vara nöjd med honom – gjorde detta?

@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 1496
-description: >-
-  Fråga: Är det tillåtet att slå ihop bönerna utan en giltig ursäkt? Svar: Det
-  är inte tillåtet att slå ihop bönerna utan en giltig ursäkt. Detta grundas på
-  Allāhs ord: ” Och när ni åter är i tr...
+description: 'Det är inte tillåtet att slå ihop bönerna utan en giltig ursäkt. Detta grundas på Allāhs ord: "Och när ni åter är i trygghet, förrätta då bönen [på…'
 ---
 
 **Fråga:** Är det tillåtet att slå ihop bönerna utan en giltig ursäkt?

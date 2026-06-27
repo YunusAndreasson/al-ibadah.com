@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 1184
-description: >-
-  Fråga: Är ens levebröd och äktenskap nedtecknat i al-lawh al-mahfuz ? Svar:
-  Allting sedan skapelsen av pennan till Återuppståndelsens dag är nedtecknat i
-  al-lawh al-mahfuz . När Allāh den Hä...
+description: 'Allting sedan skapelsen av pennan till Återuppståndelsens dag är nedtecknat i al-lawh al-mahfuz.'
 ---
 
 **Fråga:** Är ens levebröd och äktenskap nedtecknat i *al-lawh al-mahfuz*?

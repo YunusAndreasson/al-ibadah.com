@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1056
-description: >-
-  Fråga: Om den fastande sköljer sin mun eller drar in vatten i näsan, och
-  vattnet därigenom når magen, bryts då fastan på grund av det? Svar: Om någon
-  sköljer sin mun eller drar in vatten i näs...
+description: 'Om någon sköljer sin mun eller drar in vatten i näsan och vattnet kommer ned i magen, då bryter det inte fastan.'
 ---
 
 **Fråga:** Om den fastande sköljer sin mun eller drar in vatten i näsan, och vattnet därigenom når magen, bryts då fastan på grund av det?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 352
-description: >-
-  Fråga: Om jag inte ber fredagsbönen i församlingen i moskén, bör jag då be den
-  i mitt hem som två bönecykler med avsikten att det är fredagsbönen eller bör
-  jag be den som fyra bönecykler med avsik...
+description: 'Den som med giltig ursäkt, sjukdom eller liknande, inte var närvarande vid fredagsbönen ber den som middagsbönen.'
 ---
 
 **Fråga:** Om jag inte ber fredagsbönen i församlingen i moskén, bör jag då be den i mitt hem som två bönecykler med avsikten att det är fredagsbönen eller bör jag be den som fyra bönecykler med avsikten att det är middagsbönen?

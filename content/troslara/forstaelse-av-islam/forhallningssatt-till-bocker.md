@@ -6,10 +6,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 487
-description: >-
-  Fråga: Hur bör en muslim hantera böcker om islam? Svar: All lovprisan tillhör
-  Allāh. Hur personen bör förhålla sig till boken Detta innefattar flera saker:
-  Känna till bokens ämne f...
+description: 'All lovprisan tillhör Allāh. Hur personen bör förhålla sig till boken Detta innefattar flera saker: 1.'
 ---
 
 **Fråga:** Hur bör en muslim hantera böcker om islam?

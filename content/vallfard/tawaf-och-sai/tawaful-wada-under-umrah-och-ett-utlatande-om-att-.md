@@ -10,10 +10,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 1353
-description: >-
-  Fråga: Är ṭawāful-wadā obligatoriskt för ‘umrah och är det tillåtet att köpa
-  något i Mecka efter ṭawāful-wadā, oavsett om det är vallfärd eller ‘umrah ?
-  Svar: Ṭawāful-wadā är int...
+description: 'ṭawāf ul-wadā´ är inte obligatoriskt under ´umrah, men det är bättre att göra den. Om den som utför ´umrah utelämnar den och inte utför ṭawāf ul-wadā´, då…'
 ---
 
 **Fråga:** Är *ṭawāf ul-wadā´* obligatoriskt för *´umrah* och är det tillåtet att köpa något i Mecka efter *ṭawāf ul-wadā´*, oavsett om det är vallfärd eller *´umrah*?

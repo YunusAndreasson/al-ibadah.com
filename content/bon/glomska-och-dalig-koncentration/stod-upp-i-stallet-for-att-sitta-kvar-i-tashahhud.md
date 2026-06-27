@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 973
-description: >-
-  Fråga: En troende som bad stod upp i stället för att sitta ned i tashahhud och
-  innan han började recitationen kom han ihåg att han skulle ha suttit ned i
-  tashahhud . Vad gör han då och när bör ...
+description: 'I denna situation bör han inte gå tillbaka eftersom han har utelämnat tas̲hahhud då han nått den efterföljande pelaren.'
 ---
 
 **Fråga:** En troende som bad stod upp i stället för att sitta ned i *tas̲hahhud* och innan han började recitationen kom han ihåg att han skulle ha suttit ned i *tas̲hahhud*. Vad gör han då och när bör han göra nedfallandet för glömska[^1]?

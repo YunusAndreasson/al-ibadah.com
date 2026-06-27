@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 329
-description: >-
-  Fråga: Det finns en imam med dåligt grammatiskt uttal. Ibland missar eller
-  lägger han till bokstäver när han reciterar Koranen. Vilket är utlåtandet om
-  bön bakom honom? Svar: Om det felaktiga ...
+description: 'Om det felaktiga uttalet inte förändrar innebörden, då finns det ingen invändan mot att be bakom honom.'
 ---
 
 **Fråga:** Det finns en imam med dåligt grammatiskt uttal. Ibland missar eller lägger han till bokstäver när han reciterar Koranen. Vilket är utlåtandet om bön bakom honom?

@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 375
-description: 'Fråga: Vissa elever memorerar sina läxor i moskén och de tar sina
- böcker med sig. Får de göra så då det finns bilder på människor och djur i skolböckerna?
- Finns det något fel med detta? Svar:...'
+description: 'Det finns inget felaktigt i att läsa läxorna i moskén. Det är dock en skyldighet att skydda Allāhs hus från sådant som är skadligt, att inte höja rösterna…'
 ---
 
 **Fråga:** Vissa elever memorerar sina läxor i moskén och de tar sina böcker med sig. Får de göra så då det finns bilder på människor och djur i skolböckerna? Finns det något fel med detta?

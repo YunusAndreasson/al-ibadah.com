@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Eid-bönen
 original_id: 1591
-description: >-
-  Fråga: Det har bevisats att Allāhs sändebud – må Allāhs frid och välsignelser
-  vara över honom – gick ut för att be ‘eid -bönen vid böneplatsen [inte i den
-  vanliga moskén utan vid en plats utsedd ...
+description: 'All lovprisan tillhör Allāh. Den som kommer till böneplatsen för att be ´eid-bönen bör inte be hälsningsbönen till moskén före personen sätter sig ned då…'
 ---
 
 **Fråga:** Det har bevisats att Allāhs sändebud – må Allāhs frid och välsignelser vara över honom – gick ut för att be *´eid*-bönen vid böneplatsen [inte i den vanliga moskén utan vid en plats utsedd för *´eid*-bön]. Både män och kvinnor gick ut för att be med honom. Alla följeslagare fortsatte med detta efter hans bortgång. Får den som går till *´eid*-bönen be två bönecykler som hälsningsbön till moskén[^1]?

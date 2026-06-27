@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1055
-description: >-
-  Fråga: Vilket är utlåtandet om en fastande som svalkar sig? Svar: Den fastande
-  får svalka sig. Det finns ingen invändan mot detta då sändebudet – över honom
-  vare Allāhs frid och välsignelser – ...
+description: 'Den fastande får svalka sig. Det finns ingen invändan mot detta då sändebudet – över honom vare Allāhs frid och välsignelser – under tiden han fastade…'
 ---
 
 **Fråga:** Vilket är utlåtandet om en fastande som svalkar sig?

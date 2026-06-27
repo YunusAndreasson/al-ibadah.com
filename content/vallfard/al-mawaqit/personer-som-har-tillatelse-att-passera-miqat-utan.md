@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdens stationer
 original_id: 1332
-description: >-
-  Fråga: Vem får passera mīqāt utan ihrām och vem får inte? Vad måste den som
-  passerar mīqāt utan ihrām göra? Svar: I Sahīh återges från Ibn ‘Abbās att
-  Allāhs sändebud – över honom var...
+description: 'I Ṣaḥīḥ återges från Ibn ‘Abbās att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – som mīqāt utsåg Thul-Hulayfah för invånarna i Medina,…'
 ---
 
 **Fråga:** Vem får passera *mīqāt* utan *iḥrām* och vem får inte? Vad måste den som passerar *mīqāt* utan *iḥrām* göra?

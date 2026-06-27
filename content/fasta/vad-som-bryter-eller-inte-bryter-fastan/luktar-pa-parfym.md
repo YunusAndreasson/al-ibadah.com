@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1052
-description: 'Fråga: Vilket är utlåtandet om en fastande som luktar på parfym? Svar: Det
- finns ingen invändan mot att en fastande luktar på parfym oavsett om det är
- olja eller rökelse. Men om det är rö...'
+description: 'Det finns ingen invändan mot att en fastande luktar på parfym oavsett om det är olja eller rökelse.'
 ---
 
 **Fråga:** Vilket är utlåtandet om en fastande som luktar på parfym?

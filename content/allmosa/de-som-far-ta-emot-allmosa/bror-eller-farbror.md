@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 635
-description: 'Fråga: Är det tillåtet att betala allmosa till sin bror som är familjens
- försörjare och som arbetar men utan att lönen räcker till? Är det tillåtet att betala
- allmosa till en fattig farbror? Kan e...'
+description: 'Det är ingen fara om en man eller kvinna ger allmosan till en fattig bror, syster, faster eller någon annan släkting.'
 ---
 
 **Fråga:** Är det tillåtet att betala allmosa till sin bror som är familjens försörjare och som arbetar men utan att lönen räcker till? Är det tillåtet att betala allmosa till en fattig farbror? Kan en kvinna betala allmosa till sin bror, faster eller syster?

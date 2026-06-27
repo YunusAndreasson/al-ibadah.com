@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 362
-description: >-
-  Fråga: Måste vi be fredagsbönen här i Spanien? Detta i vetskap om att det inte
-  finns någon moské här och att vi kom hit för att studera. Svar: De lärde har
-  skrivit att ni, eller de i er situat...
+description: 'De lärde har skrivit att ni, eller de i er situation, inte behöver be fredagsbönen […] Ni behöver enbart be middagsbönen.'
 ---
 
 **Fråga:** Måste vi be fredagsbönen här i Spanien? Detta i vetskap om att det inte finns någon moské här och att vi kom hit för att studera.

@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadanens nattbön
 original_id: 469
-description: >-
-  Fråga: Det finns en imam i en moské och han leder folket i varje tarāwīh -bön.
-  Han reciterar en hel sida i varje bönecykel och det blir då ungefär femton
-  verser. Somliga säger dock att han drar u...
+description: 'I Ṣaḥīḥ har det bekräftats att profeten – över honom vare Allāhs frid och välsignelser – brukade be elva bönecykler nattetid under ramaḍān, och [även] vid…'
 ---
 
 **Fråga:** Det finns en imam i en moské och han leder folket i varje *tarāwīḥ*-bön. Han reciterar en hel sida i varje bönecykel och det blir då ungefär femton verser. Somliga säger dock att han drar ut på recitationen, och andra säger motsatsen. Vad är *sunnah* i *tarāwīḥ*-bönen?

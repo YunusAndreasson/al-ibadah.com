@@ -8,9 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 1017
-description: 'Fråga: Vilket är utlåtandet om att betala allmosa för att bygga moskéer?
- Vem är *faqīr*? Svar: Det är inte tillåtet att använda allmosa till något annat
- än de åtta kategorier som Allāh har nämnt...'
+description: 'Det är inte tillåtet att använda allmosa till något annat än de åtta kategorier som Allāh har nämnt.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att betala allmosa för att bygga moskéer? Vem är *faqīr*?

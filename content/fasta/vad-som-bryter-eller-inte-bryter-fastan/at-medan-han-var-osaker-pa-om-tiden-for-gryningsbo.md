@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 410
-description: >-
-  Fråga: Vilket är utlåtandet om fastan för någon som åt eller drack samtidigt
-  som personen var osäker på om tiden för gryningsbönen hade börjat eller om solen
-  hade gått ned? Vänligen, hjälp oss med et...
+description: 'Den som åt eller drack samtidigt som personen var osäker på om tiden för gryningsbönen hade kommit, personen har inte syndat och fastan är korrekt.'
 ---
 
 **Fråga:** Vilket är utlåtandet om fastan för någon som åt eller drack samtidigt som personen var osäker på om tiden för gryningsbönen hade börjat eller om solen hade gått ned? Vänligen, hjälp oss med ett svar och må Allāh belöna er med gott.

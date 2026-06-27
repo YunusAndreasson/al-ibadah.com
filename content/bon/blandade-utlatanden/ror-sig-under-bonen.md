@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Övrigt
 original_id: 502
-description: >-
-  Fråga: Blir bönen ogiltig om man rör sig mycket under den? Svar: Det är sunnah
-  att koncentrera sig på sin bön med passande ödmjukhet, kropp och själ oberoende
-  av om det är en obligatorisk eller fri...
+description: 'Det är sunnah att koncentrera sig på sin bön med passande ödmjukhet, kropp och själ oavsett om det är en obligatorisk eller frivillig bön.'
 ---
 
 **Fråga:** Blir bönen ogiltig om man rör sig mycket under den?

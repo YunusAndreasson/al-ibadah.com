@@ -6,10 +6,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1365
-description: >-
-  Fråga: Min man kyssar mig alltid innan han lämnar huset, även om han lämnar
-  det för att be i moskén. Ibland känner jag att han kysser mig på ett lustfyllt
-  sätt. Vad gäller för tvagningen i detta f...
+description: '''Ā’ishāh har berättat att profeten – över honom vare Allāhs frid och välsignelser – kysste en av sina fruar och gick för att be utan att tvaga sig.'
 ---
 
 **Fråga:** Min man kyssar mig alltid innan han lämnar huset, även om han lämnar det för att be i moskén. Ibland känner jag att han kysser mig på ett lustfyllt sätt. Vad gäller för tvagningen i detta fall?

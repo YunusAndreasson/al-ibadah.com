@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 152
-description: >-
-  Fråga: Jag vet inte vilken av de fyra rättsskolorna jag ska följa. Kan jag då
-  följa vilken jag vill av dem? Svar: De fyra rättsskolorna är eniga om det
-  grundläggande, vilket är trosprinciper...
+description: 'De fyra rättsskolorna är eniga om det grundläggande, vilket är trosprinciperna. De skiljer sig endast åt i ijtihād-frågor i fiqh då de har förstått på…'
 ---
 
 **Fråga:** Jag vet inte vilken av de fyra rättsskolorna jag ska följa. Kan jag då följa vilken jag vill av dem?

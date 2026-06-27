@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 409
-description: >-
-  Fråga: Allāh den Upphöjde har sagt: ” Och ni får äta och dricka till dess den
-  vita strimman av gryningsljuset kan urskiljas mot nattens mörker .” [Koranen
-  2:187] Vilket är utlåtandet om den som bl...
+description: 'Om personen i frågan vet att detta var före morgonen [gryningen] hade kommit, då behöver personen inte ta igen den dagen.'
 ---
 
 **Fråga:** Allāh den Upphöjde har sagt: ”*Och ni får äta och dricka till dess den vita strimman av gryningsljuset kan urskiljas mot nattens mörker*.” [^1] Vilket är utlåtandet om den som blir klar med den lilla frukosten innan gryningen och dricker vatten vid gryningsbönen eller femton minuter efter böneutropet för gryningsbönen?

@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 199
-description: >-
-  Fråga: Jag hade en viktig plikt att utföra och tiden för bönen kom då jag
-  befann mig ombord på ett flygplan. Jag bad då sittandes i ett säte, genom att
-  jag bugade huvudet utan att veta i vilken ri...
+description: 'När en muslim är ombord på ett flyplan eller i öken måste han göra sitt bästa för att ta reda på riktningen mot qiblah.'
 ---
 
 **Fråga:** Jag hade en viktig plikt att utföra och tiden för bönen kom då jag befann mig ombord på ett flygplan. Jag bad då sittandes i ett säte, genom att jag bugade huvudet utan att veta i vilken riktning jag var vänd mot. Jag undrar om min bön är giltig och om jag borde ha skjutit upp den?

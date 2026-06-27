@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 407
-description: >-
-  Fråga: Det finns en person som har prövats genom alkohol. Detta till den grad
-  att personen till och med dricker under ramadan. Vilket är utlåtandet om personens
-  fasta under dagen då personen dricker på kvä...
+description: 'Därmed är det förbjudet att dricka, både under och utanför ramaḍān, även om det är än mer förbjudet att dricka under ramaḍān.'
 ---
 
 **Fråga:** Det finns en person som har prövats genom alkohol. Detta till den grad att personen till och med dricker under *ramaḍān*. Vilket är utlåtandet om personens fasta under dagen då personen dricker på kvällen? Att dricka alkohol är en av de stora synderna eftersom Allāh har sagt:

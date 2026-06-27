@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 268
-description: >-
-  Fråga: Efter bönen åkallar vissa högt och ofta åkallar de med höjd röst och
-  sång. De säger att de som inte gör så begår otro. Likaså efter sunnah -bönerna
-  åkallar de gemensamt. De påstår att det ...
+description: 'Åkallan efter de fem obligatoriska bönerna och sunnah-bönerna är en avskyvärd innovation. Inget har rapporterats från profeten – över honom vare Allāhs…'
 ---
 
 **Fråga:** Efter bönen åkallar vissa högt och ofta åkallar de med höjd röst och sång. De säger att de som inte gör så begår otro. Likaså efter *sunnah*-bönerna åkallar de gemensamt. De påstår att det är obligatoriskt och att detta tillhör den islamiska lagen. Ibland upprepar de deras åkallan två eller tre gånger samtidigt som de höjer händerna. De anser att detta är ett av *ahlus-sunnahs*[^1] tecken och de säger att de som är oense med dem inte tillhör *ahlus-sunnah*. Vänligen, klargör denna fråga för oss.

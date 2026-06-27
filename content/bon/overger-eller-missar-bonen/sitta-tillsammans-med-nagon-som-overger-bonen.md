@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1531
-description: >-
-  Fråga: Får man sitta tillsammans med någon som inte ber? Svar: Den som
-  avsiktligen överger bönen och förnekar att den är en skyldighet är en
-  icke-troende enligt konsensus bland de lärde. Enlig...
+description: 'Den som avsiktligen överger bönen och förnekar att den är en skyldighet är en icke-troende enligt konsensus bland de lärde.'
 ---
 
 **Fråga:** Får man sitta tillsammans med någon som inte ber?

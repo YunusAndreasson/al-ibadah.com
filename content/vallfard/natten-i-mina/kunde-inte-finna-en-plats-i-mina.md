@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Mina-natten
 original_id: 847
-description: >-
-  Fråga: Om en pilgrim inte kan finna en plats under dagarna och nätterna för
-  at-Tashr i Mina, vilket är då utlåtandet? Svar: Om de inte kunde finna en
-  plats i Mina, då bör de stanna vid pilgrim...
+description: 'Om de inte kunde finna en plats i Minā, då bör de stanna vid pilgrimernas sista tält även om det är utanför Minas gränser.'
 ---
 
 **Fråga:** Om en pilgrim inte kan finna en plats under dagarna och nätterna för *at-tas̲hrīq* i *Minā*, vilket är då utlåtandet?

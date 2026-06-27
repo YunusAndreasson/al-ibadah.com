@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Eder
 original_id: 65
-description: >-
-  Fråga: Somliga har för vana att svära vid profeten – över honom vare Allāhs
-  frid och välsignelser – eller vid någon annan skapelse. Detta har blivit något
-  vanligt och de tänker inte på det. Vilket...
+description: 'Att svära vid profeten – över honom vare Allāhs frid och välsignelser – eller någon annan skapad varelse är något mycket ont och det är en förbjuden…'
 ---
 
 **Fråga:** Somliga har för vana att svära vid profeten – över honom vare Allāhs frid och välsignelser – eller vid någon annan skapelse. Detta har blivit något vanligt och de tänker inte på det. Vilket är utlåtandet om detta?

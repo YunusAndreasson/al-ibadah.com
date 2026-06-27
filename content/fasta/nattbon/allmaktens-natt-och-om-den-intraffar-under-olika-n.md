@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Ramaḍānens nattbön
 original_id: 1227
-description: >-
-  Fråga: Inträffar Allmaktens Natt en viss natt varje år eller är det olika
-  nätter? Svar: Det råder inga tvivel om att Allmaktens Natt inträffar under
-  ramaḍān, enligt Allāhs den Upphöjdes ord: ”...
+description: 'Det råder inga tvivel om att Allmaktens Natt inträffar under ramaḍān, enligt Allāhs den Upphöjdes ord: "Se, Vi har uppenbarat denna [heliga Skrift] under…'
 ---
 
 **Fråga:** Inträffar Allmaktens Natt[^1] en viss natt varje år eller är det olika nätter?

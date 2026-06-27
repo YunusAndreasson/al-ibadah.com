@@ -6,9 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsombud
 original_id: 891
-description: 'Fråga: [Skall man börja med att vallfärda för modern om man har både
- en fader och moder och man har vallfärdat själv?] Svar: Vallfärda först för
- er moders räkning därför att modern har större ...'
+description: 'Vallfärda först för er moders räkning därför att modern har större rättighet att hedras än fadern. Detta avser den obligatoriska pilgrimsfärden.'
 ---
 
 **Fråga:** [Skall man börja med att vallfärda för modern om man har både en fader och moder och man har vallfärdat själv?]

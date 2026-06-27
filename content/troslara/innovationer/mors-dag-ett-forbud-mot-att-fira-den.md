@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 1200
-description: >-
-  Fråga: Vilket är utlåtandet om att fira vad som brukar kallas för ”mors dag”?
-  Svar: All högtidligheter som motsäger sig de islamiskt tillåtna är införda och
-  de var inte kända under de rättfärd...
+description: 'Alla högtidligheter som motsäger sig de islamiskt tillåtna är införda och de var inte kända under de rättfärdiga salafs tid.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att fira vad som brukar kallas för ”mors dag”?

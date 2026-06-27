@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nattbön
 original_id: 974
-description: >-
-  Fråga: Vilket är utlåtandet om witr och är den särskild för ramadan? Svar:
-  Witr är en understruken sunnah både under ramadan och vid andra tidpunkter.
-  Detta till den grad att bland andra...
+description: 'witr är en understruken sunnah både under ramaḍān och vid andra tidpunkter. Detta till den grad att bland andra imam Aḥmad sagt: ”Den som överger witr är…'
 ---
 
 **Fråga:** Vilket är utlåtandet om *witr* och är den särskild för *ramaḍān*?

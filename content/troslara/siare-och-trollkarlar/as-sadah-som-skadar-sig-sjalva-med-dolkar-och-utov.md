@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Siare och trollkarlar
 original_id: 78
-description: >-
-  Fråga: I några kvarter i Jemen finns det folk som kallas as-sadah . De gör
-  sådant som inte är enligt religionen, såsom magi och andra saker, och de
-  påstår att de har förmågan att läka obotbara sj...
+description: 'Dessa människor, och deras likar bland sufierna som gör sådant som är förbjudet, tillhör dem som profeten – över honom vare Allāhs frid och välsignelser –…'
 ---
 
 **Fråga:** I några kvarter i Jemen finns det folk som kallas *as-sadah*[^1]. De gör sådant som inte är enligt religionen, såsom magi och andra saker, och de påstår att de har förmågan att läka obotbara sjukdomar. De bevisar det genom att skada sig med dolkar eller klippa tungorna för att sedan […] utan att skada sig själva. Några ber men andra gör det inte. De tillåter sig själva att gifta sig utanför sin grupp, men det förbjuder att någon gifter in sig i deras grupp. När de åkallar för den sjuke så säger de: "Allāh! Den-och-den! [en av deras föregångare]!"

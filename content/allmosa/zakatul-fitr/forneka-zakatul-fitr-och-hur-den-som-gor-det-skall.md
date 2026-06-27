@@ -6,10 +6,7 @@ categories:
   - Allmosa (Zakāh)
   - Fasteallmosa
 original_id: 1597
-description: >-
-  Fråga: Vilket är utlåtandet om att förneka zakātul-fiṭr och hur ska personen
-  behandlas? Svar: Det är inte tillåtet att förneka! Det är ju en
-  avvikelse från vad Allāhs sändebud – må Al...
+description: 'Det är inte tillåtet att förneka! Det är ju en avvikelse från vad Allāhs sändebud – må Allāhs frid och välsignelser vara över honom – har föreskrivit…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att förneka *zakātul-fiṭr* och hur ska personen behandlas?

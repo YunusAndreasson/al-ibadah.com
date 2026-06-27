@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Åminnelse
 original_id: 271
-description: >-
-  Fråga: Ska man göra tasbih tyst eller med höjd röst efter bönen? Svar: Ibn
-  ‘Abbās har i Ṣaḥīḥ Muslim och Ṣaḥīḥ al-Buk̲hārī berättat att Allāhs sändebud –
-  över honom vare Allāhs frid och v...
+description: 'Ibn ''Abbās har i Ṣaḥīḥ Muslim och Ṣaḥīḥ al-Buk̲hārī berättat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – brukade höja rösten då…'
 ---
 
 **Fråga:** Ska man göra *tasbīḥ* tyst eller med höjd röst efter bönen?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Månadsblödning och efterblödning
 original_id: 1344
-description: >-
-  Fråga: Vilket är utlåtandet om en kvinna som får sin månadsblödning under
-  vallfärden? Är denna vallfärd tillräcklig för henne? Svar: Om en kvinna får
-  sin månadsblödning under vallfärden, då gö...
+description: 'Om en kvinna får sin månadsblödning under vallfärden, då gör hon precis vad en manlig pilgrim gör, utom att hon inte utför ṭawāf runt Ka''bah eller sa´ī…'
 ---
 
 **Fråga:** Vilket är utlåtandet om en kvinna som får sin månadsblödning under vallfärden? Är denna vallfärd tillräcklig för henne?

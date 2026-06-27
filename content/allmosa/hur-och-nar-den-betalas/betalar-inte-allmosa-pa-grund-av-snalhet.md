@@ -6,9 +6,7 @@ categories:
   - Allmosa (Zakāh)
   - Betalningstid
 original_id: 1600
-description: 'Fråga: Vilket är utlåtandet om den som vittnar om att det inte finns
- någon gud utom Allāh och ber den obligatoriska bönen men som varken betalar allmosa
- eller accepterar den? Vilket är det islamis...'
+description: 'All lovprisan tillhör Allāh. Allmosan är en av islams pelare. Om någon inte utövar den för att han inte tror att den är obligatorisk bör utlåtandet…'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som vittnar om att det inte finns någon gud utom Allāh och ber den obligatoriska bönen men som varken betalar allmosa eller accepterar den? Vilket är det islamiska utlåtandet om en sådan person om han dör? Kan begravningsbönen bes för honom?

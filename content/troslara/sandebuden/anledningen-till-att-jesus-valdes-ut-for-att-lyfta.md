@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 131
-description: 'Fråga: Varför valdes inte Muḥammad ut, då han är den bäste av profeterna,
- för att lyftas upp till himlen i stället för Jesus? Om Jesus upplyftning är sann,
- varför är han då den ende profeten – öve...'
+description: 'Allting omges av Allāhs nåd och kunskap. Han omfattar alla ting med Sin styrka och kraft. Han är den Högste och Hans visdom, vilja och kraft är total.'
 ---
 
 **Fråga:** Varför valdes inte Muḥammad ut, då han är den bäste av profeterna, för att lyftas upp till himlen i stället för Jesus? Om Jesus upplyftning är sann, varför är han då den ende profeten – över honom vare Allāhs frid och välsignelser – som har valts ut för detta?

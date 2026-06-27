@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Ställföreträdande vallfärd
 original_id: 723
-description: >-
-  Fråga: En kvinna vill utse en man till att vallfärda åt henne. Detta med
-  anledning av hans kunskap och att hon litar på att han kommer att utföra
-  vallfärdsriterna på ett korrekt sätt. Hon har själv myc...
+description: 'Om man utser någon som vallfärdar för ens räkning, då finns det två olika möjligheter. Den första är för en obligatorisk vallfärd och den andra för en…'
 ---
 
 **Fråga:** En kvinna vill utse en man till att vallfärda åt henne. Detta med anledning av hans kunskap och att hon litar på att han kommer att utföra vallfärdsriterna på ett korrekt sätt. Hon har själv mycket lite kunskap om vallfärden och hon fruktar att hennes månadsblödning kommer att ställa till problem. Tillåter islam detta?

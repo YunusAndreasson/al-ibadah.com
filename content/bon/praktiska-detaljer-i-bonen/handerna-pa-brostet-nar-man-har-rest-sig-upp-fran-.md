@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 260
-description: >-
-  Fråga: Bör Allāhs tjänare lägga armarna på bröstet när de har rest sig upp
-  från bugningen? I en viss moské är vi oeniga om detta. Vänligen, ge oss
-  ett korrekt utlåtande. Svar: Autentiska ahā...
+description: 'Autentiska aḥādīt̲h från Allāhs sändebud, likt de från Sahl bin Sa''d, Wa''il bin Hujr och andra, visar att Allāhs tjänare får lägga höger hand över den…'
 ---
 
 **Fråga:** Bör Allāhs tjänare lägga armarna på bröstet när de har rest sig upp från bugningen? I en viss moské är vi oeniga om detta. Vänligen, ge oss ett korrekt utlåtande.

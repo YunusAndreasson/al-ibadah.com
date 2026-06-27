@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Barnets vallfärd
 original_id: 707
-description: >-
-  Fråga: Om ett barn inte kan utföra tawāf på egen hand, är det då korrekt att
-  bära det och utföra tawāf tillsammans med det? Måste barnet göra en
-  gottgörelse om det inte fullföljer något av vil...
+description: 'Då det är korrekt för barnet att träda in i iḥrām är förmyndaren ansvarig för det. Då låter personen barnet bära plaggen [för iḥrām] och personen försäkrar…'
 ---
 
 **Fråga:** Om ett barn inte kan utföra *ṭawāf* på egen hand, är det då korrekt att bära det och utföra *ṭawāf* tillsammans med det? Måste barnet göra en gottgörelse om det inte fullföljer något av villkoren för vallfärden?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Månadsblödning och efterblödning
 original_id: 787
-description: >-
-  Fråga: En kvinna med blödningar efter graviditeten inleder sin blödning under
-  tarwiyyah -dagen och hon fullföljer vallfärdens pelare utom tawāf och sa'ī .
-  Hon lägger märke till att hon från bö...
+description: 'Ja, om hon exempelvis får blödningar efter graviditeten den åttonde, då får hon vallfärda och stå tillsammans med folket vid ´Arafāt och Muzdalifah.'
 ---
 
 **Fråga:** En kvinna med blödningar efter graviditeten inleder sin blödning under *tarwiyyah*-dagen och hon fullföljer vallfärdens pelare utom *ṭawāf* och *sa´ī*. Hon lägger märke till att hon från början blev ren efter tio dagar. Rengör hon då sig, gör *g̲husl* och utför den återstående pelaren [*ṭawāf*]?

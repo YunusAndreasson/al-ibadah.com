@@ -7,8 +7,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 383
-description: 'Fråga: En man bad i profetens – över honom vare Allāhs frid och välsignelser – moské vid området som kallas "Rawdah" och ett cigarettpaket föll ur hans ficka.
- Vilket är utlåtandet om detta och är ...'
+description: 'Om avsikten med frågan är utlåtandet om hans handling, vilken var att han tog med sig cigaretter in i moskén, då är det inte okänt att cigaretter är något…'
 ---
 
 **Fråga:** En man bad i profetens – över honom vare Allāhs frid och välsignelser – moské vid området som kallas "Rawdah" och ett cigarettpaket föll ur hans ficka. Vilket är utlåtandet om detta och är det tillåtet att ta med sig cigaretter in i moskén?

@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - 'Jinn, magi och det onda ögat'
 original_id: 1654
-description: >-
-  Fråga: Kan jinn skada en människa? Hur kan vi skydda oss mot dem? Svar: Utan
-  tvekan kan jinn skada människan, ibland kan till och med något leda till att
-  hon avlider. Både profetens sunnah och ...
+description: 'Utan tvekan kan jinn skada människan, ibland kan till och med något leda till att hon avlider. Både profetens sunnah och vad som observerats stödjer detta.'
 ---
 
 **Fråga:** Kan *jinn* skada en människa? Hur kan vi skydda oss mot dem?

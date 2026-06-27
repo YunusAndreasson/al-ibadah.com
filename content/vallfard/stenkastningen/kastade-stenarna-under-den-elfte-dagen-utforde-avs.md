@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Stenkastningen
 original_id: 859
-description: >-
-  Fråga: Vilket är utlåtandet om den som kastade stenarna på pelarna den elfte
-  dagen och utförde avskeds- tawāf för att sedan resa? Svar: Om han kastade
-  stenarna under den elfte dagen, gjorde a...
+description: 'Om han kastade stenarna under den elfte dagen, gjorde ṭawāf ul-wadā´ vid Ka’bah och sedan reste, då har han lämnat två skyldigheter.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som kastade stenarna på pelarna den elfte dagen och utförde *ṭawāf ul-wadā´* för att sedan resa?

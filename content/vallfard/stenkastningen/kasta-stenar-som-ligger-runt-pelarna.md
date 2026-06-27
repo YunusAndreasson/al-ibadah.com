@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Stenkastningen
 original_id: 854
-description: 'Fråga: Får en pilgrim använda de stenar som finns runt pelarna för
- att kasta med? Svar: Det är tillåtet. Den grundläggande principen är att de
- inte har använts för att kasta med. Men när det g...'
+description: 'Det är tillåtet. Den grundläggande principen är att de inte har använts för att kasta med. Men när det gäller de stenar som är i sänkan [vid pelarnas fot],…'
 ---
 
 **Fråga:** Får en pilgrim använda de stenar som finns runt pelarna för att kasta med?

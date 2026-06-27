@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 942
-description: 'Fråga: Vilket är utlåtandet om att skynda sig när man går till bönen? Svar: Det
- är förbjudet att skynda sig när man går till bönen. Profeten – över honom vare Allāhs
- frid och välsignelser – be...'
+description: 'Det är förbjudet att skynda sig när man går till bönen. Profeten – över honom vare Allāhs frid och välsignelser – beordrade oss att gå till moskén lugnt…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att skynda sig när man går till bönen?

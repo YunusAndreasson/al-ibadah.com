@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Resenärens fasta
 original_id: 1404
-description: >-
-  Fråga: Som ni vet finns det många bekväma transportmedel, och all lovprisan
-  tillhör Allāh. Den resande har nu inga svårigheter att fasta. Så är det bäst
-  för personen att bryta fastan eller att fasta?...
+description: 'Resenären ges ett val mellan att fasta och att bryta fastan. Den uppenbara innebörden av de islamiska bevisen visar att det är bättre att bryta fastan,…'
 ---
 
 **Fråga:** Som ni vet finns det många bekväma transportmedel, och all lovprisan tillhör Allāh. Den resande har nu inga svårigheter att fasta. Så är det bäst för personen att bryta fastan eller att fasta?

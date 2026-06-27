@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 995
-description: >-
-  Fråga: En man reser till Riyadh under en fredag för att studera och han
-  återvänder under måndagseftermiddagen. Räknas han som en resenär? Svar: Det
-  råder inga tvivel om att han är en resenär d...
+description: 'Det råder inga tvivel om att han är en resenär då han inte har tagit staden som han studerar i till sitt hem och han har inte avsett att stanna där under…'
 ---
 
 **Fråga:** En man reser till Riyadh under en fredag för att studera och han återvänder under måndagseftermiddagen. Räknas han som en resenär?

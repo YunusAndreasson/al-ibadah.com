@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 1155
-description: >-
-  Fråga: Vilket är utlåtandet om böneutropet och iqāmah för någon som ber ensam?
-  Svar: Böneutropet och iqāmah är sunnah för den som ber ensam, inte en
-  skyldighet. Detta beror på att det inte f...
+description: 'Böneutropet och iqāmah är sunnah för den som ber ensam, inte en skyldighet. Detta beror på att det inte finns någon tillsammans med personen att kalla till…'
 ---
 
 **Fråga:** Vilket är utlåtandet om böneutropet och *iqāmah* för någon som ber ensam?

@@ -9,10 +9,7 @@ categories:
   - Renhet (Tahārah)
   - Den stora tvagningen
 original_id: 1426
-description: >-
-  Fråga: Låt oss anta att jag vaknar precis innan soluppgången och finner att
-  jag är i ett tillstånd av stor rituell orenhet. Om jag gör ghusl, då kommer
-  solen hinna stiga. Bör jag då göra tayamm...
+description: 'Du måste göra g̲husl, göra klart din rening och sedan be. Du får inte göra tayammum i den situation som du har beskrivit.'
 ---
 
 **Fråga:** Låt oss anta att jag vaknar precis innan soluppgången och finner att jag är i ett tillstånd av stor rituell orenhet. Om jag gör *g̲husl*, då kommer solen hinna stiga. Bör jag då göra *tayammum* eller *g̲husl* och sedan be?

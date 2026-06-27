@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Förbjudna bönetider
 original_id: 387
-description: >-
-  Fråga: Är det tillåtet att be begravningsbön över den avlidne under tidpunkter
-  då bön är förbjuden? Svar: Det är tillåtet att be begravningsbönen över den
-  avlidne under de förbjudna tider som ...
+description: 'Det är tillåtet att be begravningsbönen över den avlidne under de förbjudna tider som är långa, som efter eftermiddagsbönen och efter gryningsbönen.'
 ---
 
 **Fråga:** Är det tillåtet att be begravningsbön över den avlidne under tidpunkter då bön är förbjuden?

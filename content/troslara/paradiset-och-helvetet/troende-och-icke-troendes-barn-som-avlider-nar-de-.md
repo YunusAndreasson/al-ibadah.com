@@ -11,10 +11,7 @@ categories:
   - Troslära (´Aqīdah)
   - Paradiset och Helvetet
 original_id: 1182
-description: >-
-  Fråga: Var hamnar de troendes och de icke-troendes barn som dör när de
-  fortfarande är små? Svar: Barnen till de troende har sin destination i
-  Paradiset, de följer föräldrarna. Allāh den Upph...
+description: 'Barnen till de troende har sin destination i Paradiset, de följer föräldrarna. Allāh den Upphöjde säger: ”Vi ska låta deras efterkommande som följde dem i…'
 ---
 
 **Fråga:** Var hamnar de troendes och de icke-troendes barn som dör när de fortfarande är små?

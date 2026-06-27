@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 1667
-description: >-
-  Fråga: Vilket är utlåtandet om någon som rör muṣḥaf utan att ha tvagat sig för
-  att läsa den eller flytta den till en annan plats? Min fråga gäller den som
-  inte har den stora orenheten. Sva...
+description: 'Enligt majoriteten av de lärde är det inte tillåtet att röra muṣḥaf då man inte har tvagat sig.'
 ---
 
 **Fråga:** Vilket är utlåtandet om någon som rör *muṣḥaf* utan att ha tvagat sig för att läsa den eller flytta den till en annan plats? Min fråga gäller den som inte har den stora orenheten.

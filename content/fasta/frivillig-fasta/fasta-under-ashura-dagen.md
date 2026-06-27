@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 485
-description: 'Fråga: Den som fastar den nionde och tionde och som det sedan blir
- klart för efteråt att personen har fastat den åttonde och den nionde – vilket är då
- utlåtandet? Behöver personen ta igen? Svar: Han...'
+description: 'Han behöver inte ta igen denna fasta och han får en fullständig belöning, om Allāh vill, grundat på hans avsikt då han enligt kalendern trodde att det var…'
 ---
 
 **Fråga:** Den som fastar den nionde och tionde och som det sedan blir klart för efteråt att personen har fastat den åttonde och den nionde – vilket är då utlåtandet? Behöver personen ta igen?

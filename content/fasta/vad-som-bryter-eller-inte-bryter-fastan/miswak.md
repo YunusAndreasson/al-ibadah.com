@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 417
-description: >-
-  Fråga: Somliga undviker att använda miswāk under ramadan då de är rädda för
-  att det ska skada fastan. Är detta korrekt? Vilken är tidpunkten då det är att
-  föredra att använda miswāk under ra...
+description: 'Att avstå från att använda miswāk dagtid under ramaḍān eller under andra dagar utanför ramaḍān när någon fastar saknar grund.'
 ---
 
 **Fråga:** Somliga undviker att använda *miswāk* under *ramaḍān* då de är rädda för att det ska skada fastan. Är detta korrekt? Vilken är tidpunkten då det är att föredra att använda *miswāk* under *ramaḍān*?

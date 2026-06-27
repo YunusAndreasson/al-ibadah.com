@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 1665
-description: 'Fråga: Vi ser många kyssa Koranen när de är på väg att läsa den och
- stryka den över deras ögon och ansikte. Har denna handling någon grund i den islamiska
- lagen? Svar: Vi känner inte till någon...'
+description: 'Vi känner inte till någon grund för detta i den rena islamiska lagen.'
 ---
 
 **Fråga:** Vi ser många kyssa Koranen när de är på väg att läsa den och stryka den över deras ögon och ansikte. Har denna handling någon grund i den islamiska lagen?

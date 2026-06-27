@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1692
-description: >-
-  Fråga: Jag är 20 år och jag vill strida för Allāhs den Allsmäktiges sak i
-  Afghanistan [under kriget mot Ryssland]. Jag vill gärna dö som martyr, om
-  Allāh vill. Tyvärr har mina föräldrar vägrat att...
+description: 'Du kan inte göra djihād utan dina föräldrars tillstånd. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har beordrat att deras tillstånd…'
 ---
 
 **Fråga:** Jag är 20 år och jag vill strida för Allāhs den Allsmäktiges sak i Afghanistan [under kriget mot Ryssland]. Jag vill gärna dö som martyr, om Allāh vill. Tyvärr har mina föräldrar vägrat att låta mig åka och de har inte givit någon anledning. Jag har två äldre bröder som skulle kunna ta hand om hushållet utan mig. Vad bör jag göra för att göra min fader nöjd och övertyga honom till att låta mig åka?

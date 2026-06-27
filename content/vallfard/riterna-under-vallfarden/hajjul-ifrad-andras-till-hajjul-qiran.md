@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsriter
 original_id: 750
-description: >-
-  Fråga: I böcker med hadīth nämns att en pilgrim som är mufrid inte får byta
-  från hajjul-ifrad till hajjul-qirān. Är detta korrekt? Svar: Profeten – över
-  honom vare Allāhs frid och välsig...
+description: 'Profeten – över honom vare Allāhs frid och välsignelser – beordrade pilgrimer som utförde ḥajjul-ifrād och ḥajjul-qirān att byta sin vallfärd och qirān…'
 ---
 
 **Fråga:** I böcker med *ḥadīt̲h* nämns att en pilgrim som är *mufrid* inte får byta från *ḥajjul-ifrād* till *ḥajjul-qirān*. Är detta korrekt?

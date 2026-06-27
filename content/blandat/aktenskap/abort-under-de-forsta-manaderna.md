@@ -5,9 +5,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1718
-description: 'Fråga: Är det tillåtet att utföra en abort i de tidiga månaderna (1-3)
- före själen har andats in i fostret? Svar: All lovprisan tillhör Allāh. Rådet
- för de äldre lärde har utfärdat följande utt...'
+description: 'All lovprisan tillhör Allāh. Rådet för de äldre lärde har utfärdat följande uttalande: 1. Det är inte tillåtet att utföra en abort under något stadium,…'
 ---
 
 **Fråga:** Är det tillåtet att utföra en abort i de tidiga månaderna (1-3) före själen har andats in i fostret?

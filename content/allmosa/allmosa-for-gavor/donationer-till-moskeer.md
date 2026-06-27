@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Allmosa för gåvor
 original_id: 628
-description: 'Fråga: Krävs allmosa för donationer till moskéer? Svar: Ingen allmosa
- krävs för donationer till moskéer och liknande. Detsamma gäller för allt då det
- här inte finns något personligt ägande.'
+description: 'Ingen allmosa krävs för donationer till moskéer och liknande. Detsamma gäller för allt då det här inte finns något personligt ägande.'
 ---
 
 **Fråga:** Krävs allmosa för donationer till moskéer?

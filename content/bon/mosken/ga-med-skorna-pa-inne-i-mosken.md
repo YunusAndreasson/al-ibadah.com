@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 936
-description: 'Fråga: Vilket är utlåtandet om att gå med skorna på inne i moskén? Svar: Att
- gå på den heliga moskéns golv med skor på är inte passande. Det kommer att ge den
- stora massan, som inte högaktar m...'
+description: 'Att gå på den heliga moskéns golv med skor på är inte passande. Det kommer att ge den stora massan, som inte högaktar moskén, en anledning till att gå in…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att gå med skorna på inne i moskén?

@@ -8,9 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 364
-description: 'Fråga: Är det tillåtet att översätta fredagspredikan till andra språk
- än arabiska? Svar: De lärde är oeniga om det är tillåtet att översätta fredagspredikan
- från talarstolen under fredagar och...'
+description: 'De lärde är oeniga om det är tillåtet att översätta fredagspredikan från talarstolen under fredagar och de båda ´eid till andra språk.'
 ---
 
 **Fråga:** Är det tillåtet att översätta fredagspredikan till andra språk än arabiska?

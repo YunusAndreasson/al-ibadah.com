@@ -6,9 +6,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 1290
-description: 'Fråga: Om en kvinna råder sin försummande man att han ska be sina
- böner i moskén eller om hon uttrycker sin ilska över att personen inte gör det – kommer
- hon då att ha syndat, då hans rättigheter ä...'
+description: 'All lovprisan tillhör Allāh. En kvinna syndar inte om hon råder sin man när personen gör något som Allāh har förbjudit.'
 ---
 
 **Fråga:** Om en kvinna råder sin försummande man att han ska be sina böner i moskén eller om hon uttrycker sin ilska över att personen inte gör det – kommer hon då att ha syndat, då hans rättigheter är större än hennes?

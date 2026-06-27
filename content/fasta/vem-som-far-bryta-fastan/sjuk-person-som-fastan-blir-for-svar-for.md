@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Undantag från fasta
 original_id: 438
-description: >-
-  Fråga: Jag är en kvinna som är sjuk och det var några dagar under förra
-  ramadan som jag inte fastade. Jag har inte möjlighet att ta igen dessa dagar
-  på grund av min sjukdom. Vilken är då gottgörel...
+description: 'För den sjuke, som fastan är för svår för, är det föreskrivet att bryta den och när Allāh botar honom ta igen det som personen är skyldig att ta igen.'
 ---
 
 **Fråga:** Jag är en kvinna som är sjuk och det var några dagar under förra *ramaḍān* som jag inte fastade. Jag har inte möjlighet att ta igen dessa dagar på grund av min sjukdom. Vilken är då gottgörelsen för detta? Likaså kommer jag inte att ha möjlighet att fasta under *ramaḍān* detta år. Hur gottgör jag mig då för det? Må Allāh belöna er med det goda.

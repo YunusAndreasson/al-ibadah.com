@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ikappfasta
 original_id: 466
-description: >-
-  Fråga: Vilket är utlåtandet om den muslim som har låtit flera ramadan passera
-  under ett antal år och som inte har fastat även om personen har utfört resten av
-  skyldigheterna? Personen bor inte i sitt hem...
+description: 'Att fasta under ramaḍān är en av islams pelare. Den som är tillräknelig och som avsiktligen överger fastan begår en av de största av de stora synderna.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den muslim som har låtit flera *ramaḍān* passera under ett antal år och som inte har fastat även om personen har utfört resten av skyldigheterna? Personen bor inte i sitt hemland och det finns inte något som hindrar personen från att fasta. Är personen skyldig att ta igen fastan om personen ångrar sig och återvänder till sitt hemland?

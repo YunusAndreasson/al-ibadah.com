@@ -9,10 +9,7 @@ categories:
   - Renhet (Tahārah)
   - Den stora tvagningen
 original_id: 1134
-description: >-
-  Fråga: Vilket är utlåtandet om den stora rituella orenheten? Svar: Är man i
-  ett tillstånd av stor rituell orenhet är det inte tillåtet att vare sig be de
-  obligatoriska eller de frivill...
+description: '1. Är man i ett tillstånd av stor rituell orenhet är det inte tillåtet att vare sig be de obligatoriska eller de frivilliga bönerna, faktiskt inte ens…'
 ---
 
 **Fråga:** Vilket är utlåtandet om den stora rituella orenheten?

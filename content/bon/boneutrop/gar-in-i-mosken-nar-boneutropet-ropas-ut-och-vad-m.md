@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 575
-description: >-
-  Fråga: Om en person går in i moskén samtidigt som böneutroparen ropar ut
-  böneutropet – vad är då lämpligast att göra? Svar: Det bästa är att svara
-  efter böneutroparen och sedan läsa en åkallan...
+description: 'Det bästa är att svara efter böneutroparen och sedan läsa en åkallan när böneutropet har ropats ut.'
 ---
 
 **Fråga:** Om en person går in i moskén samtidigt som böneutroparen ropar ut böneutropet – vad är då lämpligast att göra?

@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1041
-description: >-
-  Fråga: Om den fastande på grund av väldig hunger och törst spenderar större
-  delen av dagen genom att vila, påverkar det då fastans giltighet? Svar: Detta
-  påverkar inte fastans giltighet och de...
+description: 'Detta påverkar inte fastans giltighet och det finns mer belöning i den, enligt vad profeten – över honom vare Allāhs frid och välsignelser – sade till…'
 ---
 
 **Fråga:** Om den fastande på grund av väldig hunger och törst spenderar större delen av dagen genom att vila, påverkar det då fastans giltighet?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 1336
-description: >-
-  Fråga: Är två bönecykler ett villkor för ihrām? Svar: Det är inte ett villkor.
-  De lärde skiljer sig endast åt om det är rekommenderat. Majoriteten av de
-  lärde anser att det är rekommenderat at...
+description: 'Det är inte ett villkor. De lärde skiljer sig endast åt om det är rekommenderat. Majoriteten av de lärde anser att det är rekommenderat att be två…'
 ---
 
 **Fråga:** Är två bönecykler ett villkor för *iḥrām*?

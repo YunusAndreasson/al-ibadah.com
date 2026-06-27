@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Undantag från fasta
 original_id: 1259
-description: >-
-  Fråga: Vilka är de ursäkter som gör det tillåtet att bryta fastan? Svar: De
-  ursäkter som gör det tillåtet att bryta fastan är sjukdom och resa, vilket
-  nämns i Koranen. Andra ursäkter är om en ...
+description: 'De ursäkter som gör det tillåtet att bryta fastan är sjukdom och resa, vilket nämns i Koranen.'
 ---
 
 **Fråga:** Vilka är de ursäkter som gör det tillåtet att bryta fastan?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Överger bönen
 original_id: 1320
-description: >-
-  Fråga: Vad finns det att säga om vallfärden för den som har övergett bönen,
-  antingen avsiktligen eller på grund av lathet? Gäller personens vallfärd då som
-  en obligatorisk vallfärd? Svar: Den som...
+description: 'Den som vallfärdar samtidigt som personen överger bönen, och personen avvisar att bönen är obligatorisk, då är personen enligt konsensus bland de lärda…'
 ---
 
 **Fråga:** Vad finns det att säga om vallfärden för den som har övergett bönen, antingen avsiktligen eller på grund av lathet? Gäller personens vallfärd då som en obligatorisk vallfärd?

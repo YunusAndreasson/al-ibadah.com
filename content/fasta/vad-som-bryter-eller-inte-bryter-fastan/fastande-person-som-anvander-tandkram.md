@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1397
-description: >-
-  Fråga: Får den fastande använda tandkräm dagtid medan personen fastar under
-  ramadan? Svar: Det är ingen fara så länge man är noggrann med att inte svälja
-  det. Det är även föreskrivet för den fast...
+description: 'Det är ingen fara så länge man är noggrann med att inte svälja det. Det är även föreskrivet för den fastande att använda en miswāk vid dagens början och…'
 ---
 
 **Fråga:** Får den fastande använda tandkräm dagtid medan personen fastar under *ramaḍān*?

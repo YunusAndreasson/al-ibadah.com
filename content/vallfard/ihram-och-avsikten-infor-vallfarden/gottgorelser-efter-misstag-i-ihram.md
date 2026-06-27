@@ -6,10 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 1309
-description: >-
-  Fråga: Somliga tror att om någon utför en handling som är förbjuden i ihrām så
-  har personen en valmöjlighet mellan att offra ett djur, fasta under tre dagar
-  eller föda sex fattiga personer. Stämmer...
+description: 'All lovprisan tillhör Allāh. Det är otillåtet för en pilgrim som befinner sig i iḥrām under vallfärden eller ´umrah att raka sitt huvud, klippa sina…'
 ---
 
 **Fråga:** Somliga tror att om någon utför en handling som är förbjuden i *iḥrām* så har personen en valmöjlighet mellan att offra ett djur, fasta under tre dagar eller föda sex fattiga personer. Stämmer detta?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdens stationer
 original_id: 1333
-description: >-
-  Fråga: Somliga utfärdar fatwor till dem som anländer med flyg för att
-  vallfärda. De säger att de får träda in i ihrām i Jiddah, men andra är emot
-  det. Vilken är den korrekta åsikten? Vänligen, g...
+description: 'Alla pilgrimer måste [oavsett om de kommer med flyg, båt eller bil] träda in i iḥrām vid den mīqāt som de passerar förbi.'
 ---
 
 **Fråga:** Somliga utfärdar fatwor till dem som anländer med flyg för att vallfärda. De säger att de får träda in i *iḥrām* i Jiddah, men andra är emot det. Vilken är den korrekta åsikten? Vänligen, ge oss ett utlåtande och må Allāh belöna er.

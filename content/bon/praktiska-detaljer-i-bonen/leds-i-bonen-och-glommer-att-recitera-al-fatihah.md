@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 191
-description: >-
-  Fråga: Om iqāmah ropas ut för bönen och jag under bönen glömmer att recitera
-  sura *al-Fātiḥah* i en eller två bönecykler när jag leds i bönen, är min bön
-  giltig då? Behöver jag recitera Skriftens ...
+description: 'Om den som leds i bön glömmer att recitera al-Fātiḥah, inte känner till att det är en skyldighet eller går in i bönen när imamen bugar, då kommer denna…'
 ---
 
 **Fråga:** Om *iqāmah* ropas ut för bönen och jag under bönen glömmer att recitera sura *al-Fātiḥah* i en eller två bönecykler när jag leds i bönen, är min bön giltig då? Behöver jag recitera Skriftens öppning? Vad gör jag i denna situation?

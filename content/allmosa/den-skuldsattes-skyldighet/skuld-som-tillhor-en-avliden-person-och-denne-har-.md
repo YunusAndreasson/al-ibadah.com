@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Skulder
 original_id: 1013
-description: >-
-  Fråga: Bör den avlidnes skulder betalas om personen inte har lämnat allmosa?
-  Svar: Ibn ´Abdul-Barr och Abū 'Ubaid har sagt att den avlidens skuld inte får
-  betalas genom allmosa, enligt konsensus ...
+description: 'Ibn ´Abdul-Barr och Abū ''Ubaid har sagt att den avlidens skuld inte får betalas genom allmosa, enligt konsensus bland de lärda.'
 ---
 
 **Fråga:** Bör den avlidnes skulder betalas om personen inte har lämnat allmosa?

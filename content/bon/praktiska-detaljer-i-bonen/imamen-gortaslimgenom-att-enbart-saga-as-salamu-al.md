@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 963
-description: >-
-  Fråga: En imam gör taslīm genom att säga as-salamu 'alaykum enbart en gång, är
-  det då tillräckligt att nöja sig med enbart en hälsning? Ge oss råd och
-  må Allāh belöna er med det goda. ...
+description: 'Vissa lärde anser att det är tillåtet att nöja sig med en hälsning. Andra anser att det är nödvändigt att göra två.'
 ---
 
 **Fråga:** En imam gör *taslīm* genom att säga *as-salamu 'alaykum* enbart en gång, är det då tillräckligt att nöja sig med enbart en hälsning? Ge oss råd och må Allāh belöna er med det goda.

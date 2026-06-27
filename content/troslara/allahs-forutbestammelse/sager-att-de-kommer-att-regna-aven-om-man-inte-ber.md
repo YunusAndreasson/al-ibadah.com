@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 1241
-description: >-
-  Fråga: Somliga säger: Även om du inte sökte hjälp från Allāh skulle det regna.
-  Vilken är din åsikt om detta? Svar: Jag säger att jag fruktar en stor fara för
-  den som säger så. Allāh den Allsmä...
+description: 'Jag säger att jag fruktar en stor fara för den som säger så. Allāh den Allsmäktige säger: ”Be till Mig, så ska Jag besvara er [bön].” Allāh den Upphöjde är…'
 ---
 
 **Fråga:** Somliga säger: Även om du inte sökte hjälp från Allāh skulle det regna. Vilken är din åsikt om detta?

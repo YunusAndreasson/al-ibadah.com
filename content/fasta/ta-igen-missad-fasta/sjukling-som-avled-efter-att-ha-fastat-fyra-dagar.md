@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Ikappfasta
 original_id: 1060
-description: >-
-  Fråga: En sjukling fastade under ramadan. Fyra dagar efter att månaden hade
-  börjat avled personen. Bör man ta igen återstoden av månaden för den avlidne
-  sjuklingen? Svar: Om sjukdomen som drabbad...
+description: 'Om sjukdomen som drabbade personen kom plötsligt och den varade fram till personen gick bort, då är det inte nödvändigt att ta igen [fastan] för personens…'
 ---
 
 **Fråga:** En sjukling fastade under *ramaḍān*. Fyra dagar efter att månaden hade börjat avled personen. Bör man ta igen återstoden av månaden för den avlidne sjuklingen?

@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 1187
-description: >-
-  Fråga: Vi ber er att förklara profetens – över honom vare Allāhs frid och
-  välsignelser – ord: ” Det finns varken ‘Adwa, tiyarah, hamah eller ṣafar .” [
-  al-Bukhārī 5707] Vilken sorts förbud finns ...
+description: '‘Adwa är när en sjukdom sprids från en sjuk person till en frisk person. Detta gäller både för sjukdomar som har med moral och andlighet att göra och…'
 ---
 
 **Fråga:** Vi ber er att förklara profetens – över honom vare Allāhs frid och välsignelser – ord: ”*Det finns varken 'Adwa, tiyarah, hamah eller ṣafar*[^1].” [^2] Vilken sorts förbud finns i denna *ḥadīt̲h* och hur får vi ihop den med denna *ḥadīt̲h*: ”*Fly från spetälska som du skulle fly från lejon*.”? [^3]

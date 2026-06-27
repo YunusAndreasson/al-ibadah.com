@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Skulder
 original_id: 719
-description: 'Fråga: Jag kom till Saudiarabien med ett arbetskontrakt över en period
- på två år och jag har en skuld till några vänner. Vi avsatte inte en bestämd tid
- för mig att betala igen den. Jag kan därmed...'
+description: 'Du får vallfärda före du har betalat tillbaka skulden. Din vallfärd kommer att vara giltig då skulden inte har någon bestämd tid avsatt för återbetalning.'
 ---
 
 **Fråga:** Jag kom till Saudiarabien med ett arbetskontrakt över en period på två år och jag har en skuld till några vänner. Vi avsatte inte en bestämd tid för mig att betala igen den. Jag kan därmed betala tillbaka när jag har möjlighet. Under detta år har jag för avsikt att vallfärda tillsammans med min far och moder, men enligt vad jag lärt mig från studier bör jag betala tillbaka min skuld före vallfärden. Får jag vallfärda då? Jag kommer att betala tillbaka min skuld när jag har återvänt till mitt hemland. Vänligen, ge mig ett svar.

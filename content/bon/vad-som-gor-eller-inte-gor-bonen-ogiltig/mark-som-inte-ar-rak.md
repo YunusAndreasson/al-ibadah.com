@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 235
-description: 'Fråga: Är det tillåtet att be på mark som inte är rak, som på kullar
- och i sluttningar, där det är svårt för Allāhs tjänare att stå rakt eller att buga
- och nedfalla? Svar: Det är inte tillåtet...'
+description: 'Det är inte tillåtet att be på en plats som inte är rak, då det inte är möjligt att uppnå lugn och ödmjukhet som är bönens yttersta syfte.'
 ---
 
 **Fråga:** Är det tillåtet att be på mark som inte är rak, som på kullar och i sluttningar, där det är svårt för Allāhs tjänare att stå rakt eller att buga och nedfalla?

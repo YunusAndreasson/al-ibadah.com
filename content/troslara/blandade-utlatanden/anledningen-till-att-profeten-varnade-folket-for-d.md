@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1091
-description: >-
-  Fråga: Varför har vi varnats för Dajjal? Svar: Den största prövningen på jordens
-  yta sedan Adam skapades tills Timmen börjar är prövningen i Dajjāl, vilket är
-  något profeten – över honom vare ...
+description: 'Den största prövningen på jordens yta sedan Adam skapades tills Timmen börjar är prövningen i Dajjāl, vilket är något profeten – över honom vare Allāhs…'
 ---
 
 **Fråga:** Varför har vi varnats för *Dajjāl*?

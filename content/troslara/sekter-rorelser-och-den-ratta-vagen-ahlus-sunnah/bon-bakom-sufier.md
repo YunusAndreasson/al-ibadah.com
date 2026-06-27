@@ -6,9 +6,7 @@ categories:
   - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 145
-description: 'Fråga: Är det tillåtet att be bakom sufier? Svar: Sufier var först
- asketer som endast bar fårull för att visa sin självförnekelse. Senare fördjupade
- de sig i innovationer; dans, extatiska tr...'
+description: 'Sufier var först asketer som endast bar fårull för att visa sin självförnekelse. Senare fördjupade de sig i innovationer; dans, extatiska trancer och…'
 ---
 
 **Fråga:** Är det tillåtet att be bakom sufier?

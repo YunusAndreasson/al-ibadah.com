@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Jinn, magi och det onda ögat
 original_id: 59
-description: 'Fråga: Är trolldom på riktigt? Svar: Ja, det är äkta. Trollkarlar
- dyrkar och lyder djävular. Djävularna hjälper dem med att uppnå vad de vill uppnå.
- Allāh har gett djävlarna förmåga att göra ...'
+description: 'Ja, det är äkta. Trollkarlar dyrkar och lyder djävular. Djävularna hjälper dem med att uppnå vad de vill uppnå.'
 ---
 
 **Fråga:** Är trolldom på riktigt?

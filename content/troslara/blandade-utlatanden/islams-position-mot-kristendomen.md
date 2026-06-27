@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 73
-description: >-
-  Fråga: Allāh den Upphöjde har sagt: ”Om någon vill anta en religion som inte
-  innebär underkastelse under Guds vilja kommer detta att vägras honom, och i
-  nästa liv ska han stå bland förlorar...
+description: 'Grunderna för de lagar som profeterna och sändebuden har fört med sig är desamma. Allāh uppenbarade dem och sände ned Sina skrifter till profeterna och…'
 ---
 
 **Fråga:** Allāh den Upphöjde har sagt:

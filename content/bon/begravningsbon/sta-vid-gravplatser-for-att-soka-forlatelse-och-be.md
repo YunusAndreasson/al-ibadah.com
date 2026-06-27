@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Begravningsbön
 original_id: 392
-description: >-
-  Fråga: Är det tillåtet att stå vid en grav för att söka förlåtelse eller
-  åkalla för den avlidne när personen har begravts? Kan man kasta jord ovanpå
-  graven? Svar: Ja, det är tillåtet att stå vid ...
+description: 'Ja, det är tillåtet att stå vid den avlidnes grav och kasta jord över den, söka förlåtelse och åkalla när personen har begravts.'
 ---
 
 **Fråga:** Är det tillåtet att stå vid en grav för att söka förlåtelse eller åkalla för den avlidne när personen har begravts? Kan man kasta jord ovanpå graven?

@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 257
-description: 'Fråga: Det har sagts att bönen blir ogiltig genom tre onödiga rörelser,
- stämmer det? Svar: Allāhs tjänare måste undvika onödiga rörelser då han börjat
- be. Han måste undvika alla onödiga rörels...'
+description: 'Allāhs tjänare måste undvika onödiga rörelser då han börjat be. Han måste undvika alla onödiga rörelser med händerna, fötterna och huvudet.'
 ---
 
 **Fråga:** Det har sagts att bönen blir ogiltig genom tre onödiga rörelser, stämmer det?

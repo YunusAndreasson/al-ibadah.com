@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 232
-description: 'Fråga: Är det tillåtet att avbryta bönen för att öppna dörren eller
- svara i telefonen? Svar: Du måste be i moskén med församlingen, men om du försenades
- på grund av en giltig ursäkt och sedan ...'
+description: 'Du måste be i moskén med församlingen, men om du försenades på grund av en giltig ursäkt och sedan började be, då får du inte avbryta bönen på grund av en…'
 ---
 
 **Fråga:** Är det tillåtet att avbryta bönen för att öppna dörren eller svara i telefonen?

@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 985
-description: >-
-  Fråga: Om någon missade den första eller den andra bönecykeln med
-  församlingen, bör den som tar igen denna bön då recitera en annan sura med
-  sura *al-Fātiḥah* när personen tar igen vad personen har missat...
+description: 'Den korrekta åsikten är att vad den som leds i bön tar igen efter imamens taslīm är slutet på personens bön.'
 ---
 
 **Fråga:** Om någon missade den första eller den andra bönecykeln med församlingen, bör den som tar igen denna bön då recitera en annan sura med sura *al-Fātiḥah* när personen tar igen vad personen har missat eller bör personen nöja sig med att recitera sura *al-Fātiḥah*?

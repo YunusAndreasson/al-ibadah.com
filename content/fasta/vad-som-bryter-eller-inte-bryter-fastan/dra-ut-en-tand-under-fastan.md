@@ -6,9 +6,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 898
-description: 'Fråga: Kan man dra ut en kindtand om det leder till att blodet börjar
- rinna? Svar: Det är inget problem, för anledningen till att han drog ut tanden
- var inte att blodet skulle börja rinna, ut...'
+description: 'Det är inget problem, för anledningen till att han drog ut tanden var inte att blodet skulle börja rinna, utan anledningen var smärtan.'
 ---
 
 **Fråga:** Kan man dra ut en kindtand om det leder till att blodet börjar rinna?

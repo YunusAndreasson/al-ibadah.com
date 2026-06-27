@@ -10,10 +10,7 @@ categories:
   - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 139
-description: >-
-  Fråga: Det finns en dervish-sekt nära oss och där finns en man från vår släkt
-  som dricker vatten från sektens läder. Sedan slår han på sin mage med skadliga
-  föremål: dolkar, svärd och metallstavar...
+description: 'Enligt de uppenbarade texterna och de lärdes samstämmighet fullbordade Allāh profetskapet med Muḥammad. Allāh den Upphöjde säger: ”Troende!'
 ---
 
 **Fråga:** Det finns en dervish-sekt nära oss och där finns en man från vår släkt som dricker vatten från sektens läder. Sedan slår han på sin mage med skadliga föremål: dolkar, svärd och metallstavar. Vad säger islam om detta och vilken är hemligheten bakom?

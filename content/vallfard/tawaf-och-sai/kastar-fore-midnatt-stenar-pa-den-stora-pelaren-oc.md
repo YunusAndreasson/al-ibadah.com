@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 806
-description: >-
-  Fråga: Jag är en pilgrim som före midnatt kastade stenarna på den stora
-  pelaren. Därefter begav jag mig direkt till helgedomen [den heliga Moskén] för
-  att utföra ṭawāful-ifāḍah . Under denna tid...
+description: 'Att kasta sten på pelarna före midnatt är inte tillåtet. Tiden för att kasta sten på dem börjar efter halva natten innan dagen för offret.'
 ---
 
 **Fråga:** Jag är en pilgrim som före midnatt kastade stenarna på den stora pelaren. Därefter begav jag mig direkt till helgedomen [den heliga Moskén] för att utföra *ṭawāf ul-ifāḍah*. Under denna tid förlorade jag min tvagning. Jag fullföljde *ṭawāf* men med anledning av trängseln runt platsen där Abraham stod hade jag inte möjlighet att göra två bönecykler efter *ṭawāf*. Sedan lämnade jag det Heliga områdets gränser [Mecka] samt *Minā* och jag återvände inte förrän efter kvällsbönen. Gjorde jag då något i vallfärdsriterna då min vallfärd var *ḥajjul-ifrād*?

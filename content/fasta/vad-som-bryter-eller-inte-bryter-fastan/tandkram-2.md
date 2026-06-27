@@ -6,10 +6,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1373
-description: >-
-  Fråga: Får den som fastar använda tandkräm under dagen? Svar: Den som fastar
-  får använda tandkräm om han är noggrann med att inget av det rinner ned genom
-  hans hals. Det är att föredra om han ...
+description: 'Den som fastar får använda tandkräm om han är noggrann med att inget av det rinner ned genom hans hals.'
 ---
 
 **Fråga:** Får den som fastar använda tandkräm under dagen?

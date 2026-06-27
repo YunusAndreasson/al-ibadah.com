@@ -11,10 +11,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1152
-description: >-
-  Fråga: Vilket är utlåtandet om en kvinna som fortsätter att vara gift med en
-  man som inte ber och som har barn tillsammans med henne? Vilket är utlåtandet
-  om att gifta sig med någon som inte ber? ...
+description: 'Om en kvinna har varit gift med en man som varken ber i församlingen eller i sitt hem är äktenskapet inte giltigt.'
 ---
 
 **Fråga:** Vilket är utlåtandet om en kvinna som fortsätter att vara gift med en man som inte ber och som har barn tillsammans med henne? Vilket är utlåtandet om att gifta sig med någon som inte ber?

@@ -7,9 +7,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 1118
-description: 'Fråga: Vilket är utlåtandet om att gå in på toaletten med en Koran? Svar: De
- lärde säger att det inte är tillåtet att gå in med en Koran på toaletten. Detta
- beror på att det är välkänt att den...'
+description: 'De lärde säger att det inte är tillåtet att gå in med en Koran på toaletten. Detta beror på att det är välkänt att den bör högaktas och prisas på ett sätt…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att gå in på toaletten med en Koran?

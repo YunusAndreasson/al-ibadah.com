@@ -10,10 +10,7 @@ categories:
   - Vallfärd (Hajj)
   - Kvinnans vallfärd
 original_id: 889
-description: >-
-  Fråga: Min fru har inte utfört den obligatoriska pilgrimsfärden. Måste jag då
-  vallfärda tillsammans med henne och betala för den? Svar: All lovprisan
-  tillhör Allāh. Om frun i äktenskapskontrak...
+description: 'All lovprisan tillhör Allāh. Om frun i äktenskapskontraktet har ställt som krav att han måste vallfärda med henne, då måste han uppfylla detta villkor och…'
 ---
 
 **Fråga:** Min fru har inte utfört den obligatoriska pilgrimsfärden. Måste jag då vallfärda tillsammans med henne och betala för den?

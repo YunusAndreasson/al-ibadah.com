@@ -8,10 +8,7 @@ source: >-
 categories:
   - Bön (Ṣalāh)
 original_id: 1159
-description: >-
-  Fråga: Hur bad profeten? Svar: Vända sig i riktning mot Ka’bah Klädseln När du
-  står upp för att be, vänd dig i riktning mot Ka’bah var du än befinner dig,
-  både i den obliga...
+description: 'Vända sig i riktning mot Ka’bah Klädseln 1. När du står upp för att be, vänd dig i riktning mot Ka’bah var du än befinner dig, både i den obligatoriska och…'
 ---
 
 **Fråga:** Hur bad profeten?

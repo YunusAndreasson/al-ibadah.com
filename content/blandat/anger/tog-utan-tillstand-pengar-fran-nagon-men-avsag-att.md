@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 675
-description: >-
-  Fråga: Jag brukade jobba som inkasserare och en gång använde jag lite pengar
-  som jag var ansvarig för, men jag avsåg att det skulle vara ett förskott som
-  jag skulle betala tillbaka så fort jag fåt...
+description: 'Genom att ta någon annans pengar som fanns i din hand bröt du ett förtroende du hade, oavsett om du hade tänkt lämna tillbaka pengarna eller inte.'
 ---
 
 **Fråga:** Jag brukade jobba som inkasserare och en gång använde jag lite pengar som jag var ansvarig för, men jag avsåg att det skulle vara ett förskott som jag skulle betala tillbaka så fort jag fått min lön. Innan jag kunde betala tillbaka beloppet fick min chef reda på vad jag hade gjort och han begärde att jag skulle återlämna beloppet direkt, vilket jag gjorde utan att säga emot. Nu stör mitt samvete mig för vad jag gjort. Vad bör jag göra för att återigen få ett rent samvete?

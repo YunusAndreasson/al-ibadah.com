@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 1175
-description: >-
-  Fråga: Om någon tror att profeten – över honom vare Allāhs frid och
-  välsignelser – är ett ljus från Allāh, att han inte är mänsklig och att han
-  har kunskap om det som är dolt för människor och där...
+description: 'Den som tror att profeten – över honom vare Allāhs frid och välsignelser – är ett ljus från Allāh, att han inte är mänsklig och att han känner till det som…'
 ---
 
 **Fråga:** Om någon tror att profeten – över honom vare Allāhs frid och välsignelser – är ett ljus från Allāh, att han inte är mänsklig och att han har kunskap om det som är dolt för människor[^1] och därmed söker hjälp från honom i tron om att han har makt att skydda mot ont – vilket är utlåtandet om detta? Får man be bakom personen? Ge oss råd och må Allāh belöna er med det goda.

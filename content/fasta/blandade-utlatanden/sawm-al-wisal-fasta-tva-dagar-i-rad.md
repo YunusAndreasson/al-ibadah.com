@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Övrigt
 original_id: 1063
-description: >-
-  Fråga: Vad är sawm al-wisal? Är det föreskrivet? Svar: Sawm al-wisal betyder
-  att man inte bryter fastan under två dagar. Man fastar då hela tiden under två
-  på varandra efterföljande dagar....
+description: 'Sawm al-wisal betyder att man inte bryter fastan under två dagar. Man fastar då hela tiden under två på varandra efterföljande dagar.'
 ---
 
 **Fråga:** Vad är *sawm al-wisal*? Är det föreskrivet?

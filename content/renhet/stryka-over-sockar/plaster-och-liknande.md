@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Strykning över strumpor
 original_id: 1130
-description: >-
-  Fråga: Vilket är utlåtandet om att stryka över al-jabirah? Svar: Först och
-  främst måste vi definiera vad som avses med denna term. al-Jabirah är i grund
-  och botten något man reparerar tras...
+description: 'Först och främst måste vi definiera vad som avses med denna term. al-Jabirah är i grund och botten något man reparerar trasigheter med.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att stryka över *al-jabirah*?

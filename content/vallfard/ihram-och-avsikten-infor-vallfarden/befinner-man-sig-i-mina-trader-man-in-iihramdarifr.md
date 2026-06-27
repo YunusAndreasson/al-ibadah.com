@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 759
-description: >-
-  Fråga: Vad gäller den som befann sig i Mina innan at-tarwiyyah -dagen? Reser
-  personen in i Mecka och går in i ihrām därifrån eller träder han in i ihrām i
-  Mina? Svar: För den som befinner si...
+description: 'För den som befinner sig i Minā är det föreskrivet att träda in i iḥrām i Minā, och all lovprisan tillhör Allāh. Personen behöver inte gå in i Mecka.'
 ---
 
 **Fråga:** Vad gäller den som befann sig i *Minā* innan *at-tarwiyyah*-dagen? Reser personen in i Mecka och går in i *iḥrām* därifrån eller träder han in i *iḥrām* i *Minā*?

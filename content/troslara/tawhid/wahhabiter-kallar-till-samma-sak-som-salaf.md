@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Monoteism
 original_id: 134
-description: >-
-  Fråga: Är historien som säger att Muḥammad bin ´Abdul-Wahhābs följeslagare
-  band deras hästar i ar-Rawdah sann? Svar: Denna historia saknar grund, faktum
-  är att den är en lögn och en vanställ...
+description: 'Denna historia saknar grund, saken är den att den är en lögn och en vanställning av sanningen.'
 ---
 
 **Fråga:** Är historien som säger att Muḥammad bin ´Abdul-Wahhābs följeslagare band sina hästar i *ar-Rawdah*[^1] sann?

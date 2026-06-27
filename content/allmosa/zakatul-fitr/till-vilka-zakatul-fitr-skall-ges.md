@@ -5,10 +5,7 @@ categories:
   - Allmosa (Zakāh)
   - Fasteallmosa
 original_id: 1603
-description: >-
-  Fråga: Till vilka ska zakātul-fiṭr ges? Är det tillåtet att sända den till de
-  som kämpar för Allāhs sak i Afghanistan? Kan den doneras till en fond för att
-  bygga en moské? Svar: Zakātul-fiṭr...
+description: 'zakātul-fiṭr ska ges till fattiga muslimer i det land eller i den stad där den ges. Anledningen till detta är en rapport återberättad av Abū Dāwūd från Ibn…'
 ---
 
 **Fråga:** Till vilka ska *zakātul-fiṭr* ges? Är det tillåtet att sända den till de som kämpar för Allāhs sak i Afghanistan? Kan den doneras till en fond för att bygga en moské?

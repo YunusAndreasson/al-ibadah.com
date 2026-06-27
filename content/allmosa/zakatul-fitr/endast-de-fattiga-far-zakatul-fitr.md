@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Fasteallmosa
 original_id: 654
-description: >-
-  Fråga: Om någon befinner sig någonstans långt från staden och personens grannar
-  är medelklass och närmast lika välbärgade – de är varken rika eller fattiga –
-  kan då några få zakātul-fiṭr? Svar: ...
+description: 'En visdom i föreskriften av zakātul-fiṭr är att de fattigas behov uppfylls under den dagen. De som inte är fattiga bör då inte få någon zakātul-fiṭr.'
 ---
 
 **Fråga:** Om någon befinner sig någonstans långt från staden och personens grannar är medelklass och närmast lika välbärgade – de är varken rika eller fattiga – kan då några få *zakātul-fiṭr*?

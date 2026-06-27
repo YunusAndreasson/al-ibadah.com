@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1540
-description: >-
-  Fråga: Jag reste från Saudiarabien till ett land som inte följer islam. Jag
-  var noga med att be. Men tiden var annan än i Saudiarabien och jag missade
-  därför många. Jag kände heller inte till rikt...
+description: 'Ja, du bör ta igen de böner som du har utelämnat därför. Det bör du göra så fort som möjligt.'
 ---
 
 **Fråga:** Jag reste från Saudiarabien till ett land som inte följer islam. Jag var noga med att be. Men tiden var annan än i Saudiarabien och jag missade därför många. Jag kände heller inte till riktning mot *qiblah*. Bör jag upprepa de böner som jag missade tiden för?

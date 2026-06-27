@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1396
-description: >-
-  Fråga: Detta gäller frivillig fasta. Jag avsåg att fasta en måndag men efter
-  böneutropet för gryningsbönen gick jag upp och drack. Får jag fullborda min
-  fasta på grund av det och räknas den för mi...
+description: 'Skyldigheten, om det är en obligatorisk fasta, är att personen avstår mat, dryck och annat som bryter fastan efter att själv ha säkerställt tiden för…'
 ---
 
 **Fråga:** Detta gäller frivillig fasta. Jag avsåg att fasta en måndag men efter böneutropet för gryningsbönen gick jag upp och drack. Får jag fullborda min fasta på grund av det och räknas den för mig? Och den som åt eller drack efter böneutropet under en frivillig fasta, kan personen fullborda denna dag? Vänligen, hjälp mig och må Allāh belöna er med gott.

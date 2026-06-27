@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1522
-description: >-
-  Fråga: Om en troende når församlingen i den sista tashahhud, får han då
-  belöningen för att ha bett med församlingen? Svar: Man har inte bett bönen i
-  församlingen om man inte har hunnit att b...
+description: 'Man har inte bett bönen i församlingen om man inte har hunnit att be en bönecykel. Detta enligt profetens – över honom vare Allāhs frid och välsignelser –…'
 ---
 
 **Fråga:** Om en troende når församlingen i den sista *tas̲hahhud*, får han då belöningen för att ha bett med församlingen?

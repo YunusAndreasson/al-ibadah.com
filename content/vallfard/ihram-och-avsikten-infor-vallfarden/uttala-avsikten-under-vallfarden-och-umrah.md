@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 1335
-description: >-
-  Fråga: Är det tillåtet att uttala avsikten för att utföra ´umrah, vallfärden,
-  tawāf och sa'ī vid Ka'bah? Svar: Att avsikten ska uttalas har inte
-  rapporterats från profeten – över ...
+description: 'Att avsikten ska uttalas har inte rapporterats från profeten – över honom vare Allāhs frid och välsignelser – i fråga om bönen, tvagningen, fastan eller…'
 ---
 
 **Fråga:** Är det tillåtet att uttala avsikten för att utföra *´umrah*, vallfärden, *ṭawāf* och *sa´ī* vid Ka'bah?

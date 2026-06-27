@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsombud
 original_id: 789
-description: 'Fråga: När är det tillåtet att utse någon som kastar stenar på pelarna
- och finns det någon restriktion om vilka dagar det är tillåtet att utse någon? Svar: Det
- är tillåtet att utse någon annan...'
+description: 'Det är tillåtet att utse någon annan som kastar stenarna på alla pelarna. Detta kan den sjuke som inte kan kasta stenarna göra, den gravida kvinnan som…'
 ---
 
 **Fråga:** När är det tillåtet att utse någon som kastar stenar på pelarna och finns det någon restriktion om vilka dagar det är tillåtet att utse någon?

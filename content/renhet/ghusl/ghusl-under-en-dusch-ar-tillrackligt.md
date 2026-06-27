@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Den stora tvagningen
 original_id: 1430
-description: >-
-  Fråga: Jag skulle på ett klart och tydligt sätt vilja veta vilket som är det
-  rätta sättet att göra ghusl efter den stora rituella orenheten. Jag har hört
-  talas om många olika metoder, vänligen k...
+description: 'Beskrivningen för en fullständig g̲husl är följande: Utforma intentionen, nämn sedan Allāhs namn, tvätta händerna tre gånger, tvätta könsdelarna och spår…'
 ---
 
 **Fråga:** Jag skulle på ett klart och tydligt sätt vilja veta vilket som är det rätta sättet att göra *g̲husl* efter den stora rituella orenheten. Jag har hört talas om många olika metoder, vänligen klargör. Räcker det med *g̲husl* under en dusch?

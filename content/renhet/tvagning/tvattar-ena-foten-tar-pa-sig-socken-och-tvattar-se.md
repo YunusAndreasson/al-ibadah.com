@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1131
-description: >-
-  Fråga: Vilket är utlåtandet om någon som tvagar sig och tvättar den högra
-  foten, tar på lädersocken eller strumpan, tvättar vänsterfoten och tar på den
-  andra socken eller strumpan? Svar: Denna...
+description: 'Denna fråga berör ett område där de lärde har olika åsikter. Vissa säger att man måste göra klart sin tvagning innan man tar på lädersockarna eller…'
 ---
 
 **Fråga:** Vilket är utlåtandet om någon som tvagar sig och tvättar den högra foten, tar på lädersocken eller strumpan, tvättar vänsterfoten och tar på den andra socken eller strumpan?

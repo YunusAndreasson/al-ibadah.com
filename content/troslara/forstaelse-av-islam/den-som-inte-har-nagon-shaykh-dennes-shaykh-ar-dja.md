@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 155
-description: >-
-  Fråga: Vilken är din åsikt om de som säger: ”Den som inte har någon shaykh,
-  personens shaykh är djävulen”? Svar: Det råder inga tvivel om att kunskap
-  överförs av dess bärare – de rättfärdiga lärd...
+description: 'Det råder inga tvivel om att kunskap överförs av dess bärare – de rättfärdiga lärde – och den som tar emot kunskap från dem drar stor nytta av det.'
 ---
 
 **Fråga:** Vilken är din åsikt om de som säger: ”Den som inte har någon *s̲hayk̲h*, personens *s̲hayk̲h* är djävulen”?

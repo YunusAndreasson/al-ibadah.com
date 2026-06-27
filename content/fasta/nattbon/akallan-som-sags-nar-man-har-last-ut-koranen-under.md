@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadanens nattbön
 original_id: 978
-description: >-
-  Fråga: Vilket är utlåtandet om att åkalla när man har läst ut Koranen nattetid
-  under ramadan? Svar: Jag känner inte till någon sunnah, varken från profeten –
-  över honom vare Allāhs frid och ...
+description: 'Jag känner inte till någon sunnah, varken från profeten – över honom vare Allāhs frid och välsignelser – eller från hans följeslagare, om att fullfölja…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att åkalla när man har läst ut Koranen nattetid under *ramaḍān*?

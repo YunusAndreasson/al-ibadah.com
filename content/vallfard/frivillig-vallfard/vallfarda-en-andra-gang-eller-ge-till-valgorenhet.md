@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Frivillig vallfärd
 original_id: 877
-description: 'Fråga: Jag har utfört den obligatoriska vallfärden och jag har möjlighet
- att göra det igen. Bör jag ge till välgörenhet vad en andra vallfärd skulle kosta? Svar: Om
- du har det bra ställt och k...'
+description: 'Om du har det bra ställt och kan ge till välgörenhet samt vallfärda, då är det bättre för dig.'
 ---
 
 **Fråga:** Jag har utfört den obligatoriska vallfärden och jag har möjlighet att göra det igen. Bör jag ge till välgörenhet vad en andra vallfärd skulle kosta?

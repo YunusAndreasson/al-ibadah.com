@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Lånade tillgångar
 original_id: 1254
-description: 'Fråga: Är det bättre för låntagaren om personen får allmosan för att betala
- sina skulder eller bör den som ger allmosan gå till långivaren och ge den till honom? Svar: Det
- beror på. Om den skulds...'
+description: 'Det beror på. Om den skuldsatte betalar sin skuld plikttroget, avklarar sin skyldighet och man kan lita på att han använder det som ges till honom för att…'
 ---
 
 **Fråga:** Är det bättre för låntagaren om personen får allmosan för att betala sina skulder eller bör den som ger allmosan gå till långivaren och ge den till honom?

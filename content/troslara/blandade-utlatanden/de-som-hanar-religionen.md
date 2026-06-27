@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1678
-description: >-
-  Fråga: Vänligen, förklara innebörden i denna vers: ” Om du frågade [dem vad de
-  menade med vad de sade] skulle de säkert svara: ”Vi bara skämtade.” Säg: ”Då
-  var era skämt alltså riktade mot Gud, H...
+description: 'Denna vers, eller än mer korrekt, en grupp av verser som innefattar denna uppenbarades om en grupp hycklare som under en resa ägnade sig åt tomt prat för…'
 ---
 
 **Fråga:** Vänligen, förklara innebörden i denna vers: ”*Om du frågade [dem vad de menade med vad de sade] skulle de säkert svara: ”Vi bara skämtade.” Säg: ”Då var era skämt alltså riktade mot Gud, Hans budskap och Hans Sändebud?*” [^1]

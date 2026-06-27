@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 956
-description: >-
-  Fråga: Somliga lägger till orden ” wash-shukr ” efter att ha sagt ” Rabbana wa
-  lakal-hamd ”. Vilken är er åsikt i denna fråga? Svar: Det råder inga tvivel om
-  att det är bäst att begränsa sig t...
+description: 'Det råder inga tvivel om att det är bäst att begränsa sig till det som har rapporterats. Om man då reser sig upp från bugningen bör man säga: ”Vår Herre,…'
 ---
 
 **Fråga:** Somliga lägger till orden ”*wash-shukr*” efter att ha sagt ”*Rabbana wa lakal-hamd*”. Vilken är er åsikt i denna fråga?

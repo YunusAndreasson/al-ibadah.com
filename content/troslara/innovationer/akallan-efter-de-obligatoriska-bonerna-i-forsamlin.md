@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 1526
-description: >-
-  Fråga: Får imamen och de andra åkalla gemensamt efter den obligatoriska bönen?
-  Svar: Dyrkan är till sin natur bestämd och det är inte tillåtet att säga att
-  dyrkan är tillåten i fråga om dess u...
+description: 'Dyrkan är till sin natur bestämd och det är inte tillåtet att säga att dyrkan är tillåten i fråga om dess ursprung, antal, form eller plats utom om det…'
 ---
 
 **Fråga:** Får imamen och de andra åkalla gemensamt efter den obligatoriska bönen?

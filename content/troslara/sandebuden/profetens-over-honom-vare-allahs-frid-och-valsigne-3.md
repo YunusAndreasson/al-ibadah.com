@@ -7,7 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 128
-description: 'Fråga: Vilka var profetens – över honom vare Allāhs frid och välsignelser – favoritfruar? Svar: Profetens – över honom vare Allāhs frid och välsignelser – fruar har stort anseende och goda ege...'
+description: 'Profetens – över honom vare Allāhs frid och välsignelser – fruar har stort anseende och goda egenskaper.'
 ---
 
 **Fråga:** Vilka var profetens – över honom vare Allāhs frid och välsignelser – favoritfruar?

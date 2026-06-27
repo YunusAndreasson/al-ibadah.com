@@ -8,9 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 107
-description: 'Fråga: Finns det någon skillnad mellan ett sändebud och en profet? Svar: Ja,
- de lärde säger att en profet är någon som har fått ta emot en uppenbarelse från
- Allāh om en lag men som inte är kom...'
+description: 'Ja, de lärde säger att en profet är någon som har fått ta emot en uppenbarelse från Allāh om en lag men som inte är befallad att sprida den utan endast…'
 ---
 
 **Fråga:** Finns det någon skillnad mellan ett sändebud och en profet?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 823
-description: >-
-  Fråga: En grupp gjorde sa’ī mellan as-Safa och al-Marwah. De utförde fem varv.
-  Sedan lämnade de området för sa’ī och de kom inte ihåg att göra de återstående
-  två varven förrän de hade lämnat d...
+description: 'De som utförde fem varv för sa´ī, begav sig till platsen de bodde på och inte kom ihåg de sista två varven – de måste återvända för att fullfölja de två…'
 ---
 
 **Fråga:** En grupp gjorde *sa´ī* mellan as-Safa och al-Marwah. De utförde fem varv. Sedan lämnade de området för *sa´ī* och de kom inte ihåg att göra de återstående två varven förrän de hade lämnat sina bostäder. Vilket är utlåtandet om detta?

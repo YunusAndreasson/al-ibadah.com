@@ -7,7 +7,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1627
-description: 'Fråga: Min inkomst är liten och jag har många barn. Får jag begränsa antalet födslar?'
+description: 'Det är inte tillåtet att begränsa antalet födslar och detta grundas på Allāhs den Högstes ord: "Döda inte era barn av rädsla för fattigdom.'
 ---
 
 **Fråga:** Min inkomst är liten och jag har många barn. Får jag begränsa antalet födslar?

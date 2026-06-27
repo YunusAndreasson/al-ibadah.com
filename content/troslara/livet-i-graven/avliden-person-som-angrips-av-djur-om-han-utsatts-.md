@@ -7,8 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravlivet
 original_id: 1092
-description: 'Fråga: Om en avliden inte begravs och vilda djur ger sig på kroppen – utsätts personen då för straffet i graven? Svar: Ja, straffet i graven kommer
- att drabba själen. Kroppen är ju borta, har bli...'
+description: 'Ja, straffet i graven kommer att drabba själen. Kroppen är ju borta, har blivit förstörd och finns inte längre.'
 ---
 
 **Fråga:** Om en avliden inte begravs och vilda djur ger sig på kroppen – utsätts personen då för straffet i graven?

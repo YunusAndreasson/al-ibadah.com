@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Efterblödning
 original_id: 1454
-description: >-
-  Fråga: Vad gäller om en kvinnas normala månadsblödning är sju eller åtta dagar
-  och den ibland fortsätter ännu längre än detta? Svar: Om en kvinnas normala
-  period är sex eller sju dagar och den...
+description: 'Om en kvinnas normala period är sex eller sju dagar och den ibland blir längre och varar under åtta, nio eller elva dagar så är hon fortfarande i sin…'
 ---
 
 **Fråga:** Vad gäller om en kvinnas normala månadsblödning är sju eller åtta dagar och den ibland fortsätter ännu längre än detta?

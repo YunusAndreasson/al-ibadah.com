@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - 'Jinn, magi och det onda ögat'
 original_id: 1684
-description: >-
-  Fråga: Allāhs sändebud har sagt: ”Sannerligen flyter djävulen genom Adams
-  söner precis som blod flyter genom honom.” [ Musnad Aḥmad 3:156] Är detta
-  flytande spirituellt eller fysiskt? Svar: ...
+description: 'Även om vi inte ser det och även om vi inte känner till det är det flytande som beskrivs fysiskt och äkta.'
 ---
 
 **Fråga:** Allāhs sändebud har sagt: ”Sannerligen flyter djävulen genom Adams söner precis som blod flyter genom honom.” [^1] Är detta flytande spirituellt eller fysiskt?

@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 1679
-description: >-
-  Fråga: Vilken är innebörden av denna hadīth : ”Den som vänder sig bort från
-  min sunnah, då tillhör han inte mig.” [*al-Buk̲hārī* 5063 och *Muslim* 1401]
-  Hamnar man i denna kategori när man inte ber ...
+description: 'Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Den som vänder sig bort från min sunnah, då tillhör han inte mig.” Detta betyder att…'
 ---
 
 **Fråga:** Vilken är innebörden av denna *ḥadīt̲h*: ”Den som vänder sig bort från min *sunnah*, då tillhör han inte mig.” [^1] Hamnar man i denna kategori när man inte ber *sunnah*-bönerna som kommer efter de obligatoriska bönerna?

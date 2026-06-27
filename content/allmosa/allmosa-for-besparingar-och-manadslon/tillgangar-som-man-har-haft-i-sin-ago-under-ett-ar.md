@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Besparingar och lön
 original_id: 607
-description: 'Fråga: En person har sparat en summa pengar från egna förtjänster.
- Den största delen har personen haft i sin ägo under ett år men han har spenderat dem
- på vissa saker som kan ge nytta. Därför ställer...'
+description: 'De egendomar som personen har sparat och ägt under ett år, medan de har nått det lägsta beloppet, krävs det allmosa för.'
 ---
 
 **Fråga:** En person har sparat en summa pengar från egna förtjänster. Den största delen har personen haft i sin ägo under ett år men han har spenderat dem på vissa saker som kan ge nytta. Därför ställer nu personen frågan om allmosan måste betalas för denna summa.

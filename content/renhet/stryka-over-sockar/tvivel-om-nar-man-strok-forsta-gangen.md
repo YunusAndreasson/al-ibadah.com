@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Strykning över strumpor
 original_id: 1211
-description: >-
-  Fråga: Vad gör man om man har tvivel om när man strök [över sockarna] första
-  gången? Svar: I denna situation bör man utgå från vad man känner sig säker på.
-  Känner man tvivel om huruvida man st...
+description: 'I denna situation bör man utgå från vad man känner sig säker på. Känner man tvivel om huruvida man strök inför middagsbönen eller eftermiddagsbönen bör han…'
 ---
 
 **Fråga:** Vad gör man om man har tvivel om när man strök [över sockarna] första gången?

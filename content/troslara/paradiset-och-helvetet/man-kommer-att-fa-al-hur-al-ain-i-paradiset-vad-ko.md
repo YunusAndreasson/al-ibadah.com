@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Paradiset och Helvetet
 original_id: 1094
-description: >-
-  Fråga: Det har nämnts att män kommer att få al-hūr al-’ain i Paradiset, men
-  vad kommer där att finnas för kvinnor? Svar: Allāh den Välsignades, den
-  Upphöjdes säger om välsignelserna i Paradise...
+description: 'Allāh den Välsignades, den Upphöjdes säger om välsignelserna i Paradiset: > ”Vi är hos er och vakar över er i detta liv och i det liv som ska komma; och…'
 ---
 
 **Fråga:** Det har nämnts att män kommer att få al-hūr al-’ain i Paradiset, men vad kommer där att finnas för kvinnor?

@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1111
-description: >-
-  Fråga: Vi hör ofta talas om uttrycket tankefrihet. Det är ett kall till att få
-  tro på vad man vill. Vilka är dina kommentarer till detta? Svar: Vår kommentar
-  är att den som säger att det är ti...
+description: 'Vår kommentar är att den som säger att det är tillåtet att tro vad man vill och ha frihet att välja religion, personen är en icke-troende.'
 ---
 
 **Fråga:** Vi hör ofta talas om uttrycket tankefrihet. Det är ett kall till att få tro på vad man vill. Vilka är dina kommentarer till detta?

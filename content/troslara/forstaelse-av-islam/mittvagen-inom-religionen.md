@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 1165
-description: >-
-  Fråga: Vad avser man med medelvägen i frågor som rör religionen? Svar: En
-  medelväg i frågor som rör religionen betyder att man inte bör överdriva, inte
-  överträda Allāhs gränser och inte vara o...
+description: 'En medelväg i frågor som rör religionen betyder att man inte bör överdriva, inte överträda Allāhs gränser och inte vara otillräcklig genom att inte…'
 ---
 
 **Fråga:** Vad avser man med medelvägen i frågor som rör religionen?

@@ -8,9 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 112
-description: 'Fråga: Får en muslim ge en del kött från ett slaktat djur till en granne
- som inte är troende? Svar: En muslim får ge en del av köttet från en slakt till
- en granne som inte är troende för att g...'
+description: 'En muslim får ge en del av köttet från en slakt till en granne som inte är troende för att göra personens hjärta mjukt och uppfylla sina skyldigheter mot…'
 ---
 
 **Fråga:** Får en muslim ge en del kött från ett slaktat djur till en granne som inte är troende?

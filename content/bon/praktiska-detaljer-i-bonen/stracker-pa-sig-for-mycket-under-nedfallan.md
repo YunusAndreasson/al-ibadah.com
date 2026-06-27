@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 957
-description: >-
-  Fråga: Vilket är utlåtandet om att sträcka på sig för mycket under
-  nedfallan? Svar: Att sträcka på sig för mycket under nedfallan står i
-  motsats till profetens – över honom vare Allāhs frid ...
+description: 'Att sträcka på sig för mycket under nedfallan står i motsats till profetens – över honom vare Allāhs frid och välsignelser – sunnah.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att sträcka på sig för mycket under nedfallan?

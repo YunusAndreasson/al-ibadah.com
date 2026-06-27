@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1120
-description: >-
-  Fråga: Hur kan man säga Bismillāh när man är på toaletten? Svar: Befinner man
-  sig på toaletten säger man Bismillāh med hjärtat men inte med tungan. Detta
-  beror på att skyldigheten att säga...
+description: 'Befinner man sig på toaletten säger man Bismillāh med hjärtat men inte med tungan. Detta beror på att skyldigheten att säga Bismillāh inför tvagningen och…'
 ---
 
 **Fråga:** Hur kan man säga *Bismillāh* när man är på toaletten?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 1225
-description: >-
-  Fråga: Vad bör man göra om man är rädd för att man ska missa den obligatoriska
-  bönen om man går på toaletten först? Svar: Man bör uträtta sina behov och
-  sedan tvaga sig. Detta gäller även om...
+description: 'Man bör uträtta sina behov och sedan tvaga sig. Detta gäller även om man skulle missa bönen i församlingen. Detta är en ursäkt.'
 ---
 
 **Fråga:** Vad bör man göra om man är rädd för att man ska missa den obligatoriska bönen om man går på toaletten först?

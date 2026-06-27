@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 143
-description: >-
-  Fråga: I dag finner vi evolutionsteorin överallt; i våra marockanska
-  högskolor, i böcker och i tidningar. Det är som om denna teori är ett
-  odiskutabelt faktum. Jag studerar biologi och i ämnet ”ko...
+description: 'Evolutionsteorin kommer utan tvekan från dahris och deras anhängare som exempelvis extrema filosofer och at-Raba''i''i [De som tror på naturen och att…'
 ---
 
 **Fråga:** I dag finner vi evolutionsteorin överallt; i våra marockanska högskolor, i böcker och i tidningar. Det är som om denna teori är ett odiskutabelt faktum. Jag studerar biologi och i ämnet ”komparativ anatomi” lär vi oss att arter utvecklats från tidigare arter.

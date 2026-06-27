@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 169
-description: >-
-  Fråga: Jag läser tafsīr när jag inte är rituellt ren, som under min
-  månadsblödning. Finns det några invändningar mot detta och syndar jag genom
-  att göra så? Vänligen, ge ert utlåtande. Må Allāh ...
+description: 'Det finns ingen invändan mot att en kvinna med månadsblödning eller en kvinna med blödningar efter graviditeten läser böcker om tafsīr, aḥādīt̲h och…'
 ---
 
 **Fråga:** Jag läser *tafsīr* när jag inte är rituellt ren, som under min månadsblödning. Finns det några invändningar mot detta och syndar jag genom att göra så? Vänligen, ge ert utlåtande. Må Allāh belöna er.

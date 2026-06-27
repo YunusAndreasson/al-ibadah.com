@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Den stora tvagningen
 original_id: 236
-description: >-
-  Fråga: Jag var rituellt oren efter intim samvaro. Jag bad då gryningsbönen,
-  middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen utan att komma
-  ihåg att jag var rituellt oren [ junub ]. Jag...
+description: 'Du måste upprepa bönerna. Den som ber med en mindre eller större rituell orenhet har inte en giltig bön. Detta trots att det skedde på grund av glömska.'
 ---
 
 **Fråga:** Jag var rituellt oren efter intim samvaro. Jag bad då gryningsbönen, middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen utan att komma ihåg att jag var rituellt oren [*junub*]. Jag kom inte på det förrän dagen efter. Bör jag upprepa min bön eller var den giltig med anledning av min glömska?

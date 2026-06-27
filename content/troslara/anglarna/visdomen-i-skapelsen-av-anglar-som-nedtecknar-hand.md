@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Änglarna
 original_id: 89
-description: >-
-  Fråga: Sannerligen har Allāh den Upphöjde skapat hedervärda antecknare åt oss
-  som skriver ned allting som vi gör och säger. Vilken är visdomen i skapelsen
-  av dem, då vi vet att Allāh den Härlige, ...
+description: 'Först och främst: I frågor som dessa kan vi antingen känna till visdomen i dem, eller så gör vi det inte.'
 ---
 
 **Fråga:** Sannerligen har Allāh den Upphöjde skapat hedervärda antecknare åt oss som skriver ned allting som vi gör och säger. Vilken är visdomen i skapelsen av dem, då vi vet att Allāh den Härlige, den Högste vet allting och att vare sig det som är dolt eller det som är öppet undgår Honom?

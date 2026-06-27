@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Paradiset och Helvetet
 original_id: 1578
-description: >-
-  Fråga: Vilket är utlåtandet om någon som avvisar det kommande livet och påstår
-  att det är en vidskepelse från förr? Hur kan vi övertyga dessa avvisare? Svar:
-  Den som avvisar tron på det komman...
+description: 'Den som avvisar tron på det kommande livet och påstår att det är en vidskepelse från förr är enligt Allāhs den Upphöjdes ord en icke-troende: > ”Och de…'
 ---
 
 **Fråga:** Vilket är utlåtandet om någon som avvisar det kommande livet och påstår att det är en vidskepelse från förr? Hur kan vi övertyga dessa avvisare?

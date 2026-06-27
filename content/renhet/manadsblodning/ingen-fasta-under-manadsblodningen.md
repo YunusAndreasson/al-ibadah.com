@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 448
-description: >-
-  Fråga: Får en kvinna med månadsblödning bryta fastan under ramadan och fasta
-  andra dagar i stället för under dagen som hon bröt fastan? Svar: En kvinna med
-  månadsblödning har inte en korrekt f...
+description: 'En kvinna med månadsblödning har inte en korrekt fasta och hon får inte göra så [fasta]. Så om hon får sin månadsblödning bryter hon fastan och fastar…'
 ---
 
 **Fråga:** Får en kvinna med månadsblödning bryta fastan under *ramaḍān* och fasta andra dagar i stället för under dagen som hon bröt fastan?

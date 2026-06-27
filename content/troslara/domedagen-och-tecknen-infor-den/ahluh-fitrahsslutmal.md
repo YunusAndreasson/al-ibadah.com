@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Domedagen och dess tecken
 original_id: 109
-description: 'Fråga: Vad kommer de som levde under perioden mellan Jesus och Muḥammad
- hamna i nästa liv? Anses de tillhöra ahlul-fiṭrah? Svar: Det korrekta utlåtandet
- är att ahlul-fiṭrah består av två kat...'
+description: 'Det korrekta utlåtandet är att ahlul-fiṭrah består av två kategorier. Den första kategorin består av de som har fått bevisen, sett sanningen men ändå följt…'
 ---
 
 **Fråga:** Vad kommer de som levde under perioden mellan Jesus och Muḥammad hamna i nästa liv? Anses de tillhöra *ahlul-fiṭrah*[^1][^2]?

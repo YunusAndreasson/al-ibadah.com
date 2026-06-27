@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Månadsblödning och efterblödning
 original_id: 785
-description: >-
-  Fråga: En kvinna kom och gick in i ihrām för ´umrah och när hon hade anlänt
-  till Mecka fick hon sin månadsblödning. Hennes mahram tvingades att resa
-  direkt och hon hade ingen att stanna med ...
+description: 'Om det förhåller sig enligt vad som har nämnts om en kvinnas månadsblödning innan ṭawāf medan hon befann sig i iḥrām, att hennes maḥram tvingades att åka…'
 ---
 
 **Fråga:** En kvinna kom och gick in i *iḥrām* för *´umrah* och när hon hade anlänt till Mecka fick hon sin månadsblödning. Hennes *maḥram* tvingades att resa direkt och hon hade ingen att stanna med i Mecka. Vad gäller då?

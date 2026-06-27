@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
 original_id: 1535
-description: >-
-  Fråga: Får en muslim umgås med en person som oftast inte ber? Svar: Det är
-  inte tillåtet att umgås med den som vid vissa tillfällen överger bönen. Det
-  han måste göra är att ge honom råd och kr...
+description: 'Det är inte tillåtet att umgås med den som vid vissa tillfällen överger bönen. Det han måste göra är att ge honom råd och kritisera honom för hans onda…'
 ---
 
 **Fråga:** Får en muslim umgås med en person som oftast inte ber?

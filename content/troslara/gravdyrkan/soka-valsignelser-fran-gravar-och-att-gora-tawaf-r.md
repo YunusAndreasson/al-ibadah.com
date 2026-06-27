@@ -11,10 +11,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
 original_id: 1196
-description: >-
-  Fråga: Vilket är utlåtandet om att söka välsignelser från gravar och att göra
-  tawāf runt dem för att få ens behov uppfyllda och för att komma närmare den
-  som ligger begravd däri? Vilket är utlåt...
+description: 'Att söka välsignelser från gravar är inte tillåtet och det är en sorts s̲hirk. Detta beror på att detta gör gällande att det finns en inverkan från något…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att söka välsignelser från gravar och att göra *ṭawāf* runt dem för att få ens behov uppfyllda och för att komma närmare den som ligger begravd däri? Vilket är utlåtandet om att svära vid någon annan än Allāh?

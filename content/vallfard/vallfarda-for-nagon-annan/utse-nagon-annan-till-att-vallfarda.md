@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Ställföreträdande vallfärd
 original_id: 725
-description: 'Fråga: En man bestämde sig för att spendera i välgörenhet och vallfärda
- för sin mor och fader. Sedan gav han pengarna, som skulle vara för faderns vallfärd,
- till en kvinna som skulle ge dem till s...'
+description: 'När det gäller din välgörenhet för både din faders och moders vallfärd, då är detta en vänlighet och godhet som Allāh kommer att ge dig enorma belöningar…'
 ---
 
 **Fråga:** En man bestämde sig för att spendera i välgörenhet och vallfärda för sin mor och fader. Sedan gav han pengarna, som skulle vara för faderns vallfärd, till en kvinna som skulle ge dem till sin make för att han skulle kunna vallfärda för mannens fader. Han gav även pengarna för moderns vallfärd till samma kvinna [för att hon skulle göra det för hans moder]. Han undrar nu om detta är godkänt?

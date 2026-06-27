@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Koranläsning
 original_id: 1677
-description: >-
-  Fråga: Varför har inte denna vers skrivits på böcker med tafsīr? ” Som inga
-  andra än de rena ska röra .” [Koranen 56:79] Svar: Då en bok om tafsīr
-  innehåller ord från människor, är den so...
+description: 'Då en bok om tafsīr innehåller ord från människor, är den som alla andra böcker om religion.'
 ---
 
 **Fråga:** Varför har inte denna vers skrivits på böcker med *tafsīr*? “*Som inga andra än de rena ska röra*.” [^1]

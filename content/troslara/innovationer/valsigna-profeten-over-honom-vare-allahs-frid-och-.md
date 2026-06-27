@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 561
-description: >-
-  Fråga: Är det tillåtet att efter böneutropet högt sända sina välsignelser över
-  profeten? Svar: Detta är en innovation då det varken gjordes under profetens –
-  över honom vare Allāhs frid och vä...
+description: 'Detta är en innovation då det varken gjordes under profetens – över honom vare Allāhs frid och välsignelser – eller de rättfärdigt vägledda kalifernas tid.'
 ---
 
 **Fråga:** Är det tillåtet att efter böneutropet högt sända sina välsignelser över profeten?

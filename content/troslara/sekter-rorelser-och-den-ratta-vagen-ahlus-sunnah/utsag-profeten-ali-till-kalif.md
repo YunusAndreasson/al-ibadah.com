@@ -9,10 +9,7 @@ categories:
   - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 56
-description: >-
-  Fråga: Vilket är utlåtandet om de som påstår att profeten – över honom vare
-  Allāhs frid och välsignelser – rekommenderade ’Ali som kalif? Svar: Detta
-  påstående är inte känt från någon annan mu...
+description: 'Detta påstående är inte känt från någon annan muslimsk sekt än anhängare av shia. Det är en falsk och grundlös rapport.'
 ---
 
 **Fråga:** Vilket är utlåtandet om de som påstår att profeten – över honom vare Allāhs frid och välsignelser – rekommenderade ’Ali som kalif?

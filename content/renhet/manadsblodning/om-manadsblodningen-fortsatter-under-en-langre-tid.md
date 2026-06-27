@@ -6,10 +6,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 1370
-description: >-
-  Fråga: Om en kvinnas normala månadsblödning brukar vara mellan sju eller åtta
-  dagar, men någon gång blir perioden längre – vad ska hon göra då? Svar: Om
-  perioden normalt varar mellan sex ell...
+description: 'Om perioden normalt varar mellan sex eller sju dagar, för att någon gång bli åtta, nio, tio eller elva dagar – fortsätter hon med att inte be, tills hon…'
 ---
 
 **Fråga:** Om en kvinnas normala månadsblödning brukar vara mellan sju eller åtta dagar, men någon gång blir perioden längre – vad ska hon göra då?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 1544
-description: >-
-  Fråga: Är det första böneutropet under fredagsbönen en innovation? Svar:
-  Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ” Ni måste
-  följa min sunnah och sunnah hos de r...
+description: 'Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Ni måste följa min sunnah och sunnah hos de rättfärdiga kaliferna som kommer efter…'
 ---
 
 **Fråga:** Är det första böneutropet under fredagsbönen en innovation?

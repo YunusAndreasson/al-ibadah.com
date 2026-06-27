@@ -6,10 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - Hårklippning
 original_id: 1303
-description: >-
-  Fråga: Vilka är de misstag som begås när pilgrimer rakar huvudet eller klipper
-  håret? Svar: All lovprisan tillhör Allāh. Bland de misstag som begås när håret
-  klipps eller huvudet rakas är följ...
+description: 'All lovprisan tillhör Allāh. Bland de misstag som begås när håret klipps eller huvudet rakas är följande: 1.'
 ---
 
 **Fråga:** Vilka är de misstag som begås när pilgrimer rakar huvudet eller klipper håret?

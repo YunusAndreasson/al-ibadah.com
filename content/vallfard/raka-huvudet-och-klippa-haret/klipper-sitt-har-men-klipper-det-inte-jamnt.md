@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Hårklippning
 original_id: 830
-description: >-
-  Fråga: Om en pilgrim under vallfärden eller ‘umrah endast klipper sitt hår på
-  båda sidorna och sedan avlägsnar sin ihrām, utan att klippa håret jämnt – vad
-  gäller då? Svar: Om personen vallfä...
+description: 'Om personen vallfärdar och har utfört ṭawāf och kastat sten på pelarna, då är utlåtandet att personen bör ha på sig sina [vanliga] kläder och fullfölja…'
 ---
 
 **Fråga:** Om en pilgrim under vallfärden eller *´umrah* endast klipper sitt hår på båda sidorna och sedan avlägsnar sin *iḥrām*, utan att klippa håret jämnt – vad gäller då?

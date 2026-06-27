@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 317
-description: 'Fråga: En man avled när han hade några obligatoriska böner att ta igen
- som han inte hade bett då han var sjuk och medvetslös. Behöver hans släktingar,
- män som kvinnor, ta igen dessa böner eller ko...'
+description: 'Om någon på grund av medvetslöshet inte ber de obligatoriska bönerna utan att vara fysiskt sjuk, då har han inte syndat och han kommer inte att hållas…'
 ---
 
 **Fråga:** En man avled när han hade några obligatoriska böner att ta igen som han inte hade bett då han var sjuk och medvetslös. Behöver hans släktingar, män som kvinnor, ta igen dessa böner eller kommer den avlidne inte hållas ansvarig för detta på grund av hans medvetslöshet?

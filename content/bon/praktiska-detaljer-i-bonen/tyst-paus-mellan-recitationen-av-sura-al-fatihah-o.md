@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 953
-description: 'Fråga: Har det rapporterats att profeten – över honom vare Allāhs frid
- och välsignelser – brukade vara tyst mellan recitationen av sura *al-Fātiḥah* och
- den efterföljande suran? Svar: Tystnaden ...'
+description: 'Tystnaden mellan recitationen av sura al-Fātiḥah och den efterföljande suran har inte rapporterats från profeten, vilket några av de lärde inom…'
 ---
 
 **Fråga:** Har det rapporterats att profeten – över honom vare Allāhs frid och välsignelser – brukade vara tyst mellan recitationen av sura *al-Fātiḥah* och den efterföljande suran?

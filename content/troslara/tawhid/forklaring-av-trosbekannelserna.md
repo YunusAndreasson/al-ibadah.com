@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Monoteism
 original_id: 1073
-description: >-
-  Fråga: Hur kan man förklara trosbekännelserna? Svar: Trosbekännelserna är
-  nycklarna till islam och det går inte att träda in i islam utan dem. När
-  profeten – över honom vare Allāhs frid och vä...
+description: 'Trosbekännelserna är nycklarna till islam och det går inte att träda in i islam utan dem. När profeten – över honom vare Allāhs frid och välsignelser –…'
 ---
 
 **Fråga:** Hur kan man förklara trosbekännelserna?

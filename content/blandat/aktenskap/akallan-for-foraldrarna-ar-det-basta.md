@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1696
-description: >-
-  Fråga: Får jag ge till välgörenhet för min mors räkning? Kommer belöningen för
-  den att nå min mor? Svar: Ja, du kan ge till välgörenhet för en avliden
-  förälder och belöningen kommer att nå fram...
+description: 'Ja, du kan ge till välgörenhet för en avliden förälder och belöningen kommer att nå fram. Beviset för detta är vad som har rapporterats i Ṣaḥīḥ al-Buk̲hārī…'
 ---
 
 **Fråga:** Får jag ge till välgörenhet för min mors räkning? Kommer belöningen för den att nå min mor?

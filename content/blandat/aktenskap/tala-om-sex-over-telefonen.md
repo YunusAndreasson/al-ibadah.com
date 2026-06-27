@@ -5,9 +5,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1711
-description: 'Fråga: Får ett gift par att tala om sex över telefonen och hetsa upp
- varandra till den grad att någon eller båda får en orgasm [utan att använda handen,
- då det inte är tillåtet]. Detta inträffar d...'
+description: 'All ära tillhör Allāh. Vi låter s̲hayk̲h Muḥammad ibn Sālih al-´Uthaymīn svara på denna fråga: ”Det finns inget fel i det.'
 ---
 
 **Fråga:** Får ett gift par att tala om sex över telefonen och hetsa upp varandra till den grad att någon eller båda får en orgasm [utan att använda handen, då det inte är tillåtet]. Detta inträffar därför att en man bor utomlands för att arbeta och de träffar varandra endast var fjärde månad – och de saknar varandra så mycket.

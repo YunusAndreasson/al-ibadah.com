@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Koranläsning
 original_id: 1663
-description: >-
-  Fråga: Även om jag inte förstår innebörden reciterar jag ofta Koranen. Belönar
-  Allāh mig ändå? Svar: Som Allāh den Allsmäktige säger är den ädla Koranen
-  välsignad: ”Detta är en välsignad Skri...
+description: 'Som Allāh den Allsmäktige säger är den ädla Koranen välsignad: > ”Detta är en välsignad Skrift som Vi har uppenbarat för dig, [Muḥammad].'
 ---
 
 **Fråga:** Även om jag inte förstår innebörden reciterar jag ofta Koranen. Belönar Allāh mig ändå?

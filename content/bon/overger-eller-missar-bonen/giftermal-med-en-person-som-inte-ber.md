@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1219
-description: >-
-  Fråga: En man friade till en annan mans dotter men när de förhörde sig om
-  honom blev det uppenbart att han inte bad. Får dottern gifta sig med personen
-  man? Svar: Om den som friade inte ber med f...
+description: 'Om den som friade inte ber med församlingen i moskén är personen en syndare som inte lyder Allāh och Hans sändebud.'
 ---
 
 **Fråga:** En man friade till en annan mans dotter men när de förhörde sig om honom blev det uppenbart att han inte bad. Får dottern gifta sig med mannen?

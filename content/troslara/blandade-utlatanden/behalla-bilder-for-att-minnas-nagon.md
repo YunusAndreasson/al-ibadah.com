@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1649
-description: >-
-  Fråga: Kan en person ta sin egen bild och sedan sända den till sin familj
-  under ´eid eller vid något annat tillfälle? Svar: Det finns många ahādīth som
-  nämner att Allāhs sändebud – över honom...
+description: 'Det finns många aḥādīt̲h som nämner att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – förbjöd bilder, att han förbannade personerna som…'
 ---
 
 **Fråga:** Kan en person ta sin egen bild och sedan sända den till sin familj under *´eid* eller vid något annat tillfälle?

@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 946
-description: 'Fråga: Vilket är utlåtandet om bönen för den som ber utanför moskén?
- Det kan vara någon som ber på vägen som ligger nära moskén? Svar: Är en moské
- inte stor nog för Allāhs tjänare och de ber p...'
+description: 'Är en moské inte stor nog för Allāhs tjänare och de ber på de närliggande vägarna, då finns det ingen invändan så länge de har möjlighet att följa imamen.'
 ---
 
 **Fråga:** Vilket är utlåtandet om bönen för den som ber utanför moskén? Det kan vara någon som ber på vägen som ligger nära moskén?

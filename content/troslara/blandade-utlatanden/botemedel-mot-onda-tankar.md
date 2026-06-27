@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 103
-description: 'Fråga: Ibland kommer farliga tankar och känslor till mig. Jag är rädd
- för att de kan föra mig bort från min religion. Vad kan jag göra åt detta? Svar: Dessa
- känslor och tankar kommer från djäv...'
+description: 'Dessa känslor och tankar kommer från djävulen. Han viskar dem i människans hjärta för att förvirra för en muslim.'
 ---
 
 **Fråga:** Ibland kommer farliga tankar och känslor till mig. Jag är rädd för att de kan föra mig bort från min religion. Vad kan jag göra åt detta?

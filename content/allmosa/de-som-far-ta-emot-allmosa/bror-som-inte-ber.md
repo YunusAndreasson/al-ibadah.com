@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 642
-description: 'Fråga: Får jag ge min mor en summa pengar och anse att den är en allmosa?
- Detta i vetskap om att min far försörjer henne och han är förmögen, alhamdulillah
- . Jag har även en bror som har möjligt ...'
+description: 'Det är inte tillåtet att du ger din mor allmosa därför att allmosa ska man inte ge till föräldrar.'
 ---
 
 **Fråga:** Får jag ge min mor en summa pengar och anse att den är en allmosa? Detta i vetskap om att min far försörjer henne och han är förmögen, *al-ḥamdulillāh*. Jag har även en bror som har möjlighet att jobba och han har inte gift sig än. Men – må Allāh vägleda honom – han ber inte mycket. Får jag ge honom allmosa? Vänligen, hjälp mig med ett svar och må Allāh bevara er.

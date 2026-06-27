@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 1485
-description: >-
-  Fråga: Vilket är utlåtandet om att be på en matta med bilder på moskéer,
-  kupoler som det finns gravar under, minareter och liknande? Svar: Att göra
-  bilder av något som inte innehåller en själ ...
+description: 'Att göra bilder av något som inte innehåller en själ är tillåtet, men att be på en matta som innehåller bilder som inte har någon själ är dock ogillat.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att be på en matta med bilder på moskéer, kupoler som det finns gravar under, minareter och liknande?

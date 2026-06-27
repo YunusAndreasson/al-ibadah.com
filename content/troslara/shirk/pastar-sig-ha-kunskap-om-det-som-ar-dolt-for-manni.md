@@ -8,9 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
 original_id: 1072
-description: 'Fråga: Vilket är utlåtandet om någon som påstår sig ha kunskap om det
- som är dolt för människor? Svar: Utlåtandet om en person som påstår sig ha kunskap
- om det som är dolt för människor är att...'
+description: 'Utlåtandet om en person som påstår sig ha kunskap om det som är dolt för människor är att personen är en icke-troende.'
 ---
 
 **Fråga:** Vilket är utlåtandet om någon som påstår sig ha kunskap om det som är dolt för människor[^1]?

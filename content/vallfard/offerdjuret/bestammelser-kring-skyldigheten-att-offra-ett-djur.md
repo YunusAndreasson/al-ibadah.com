@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Offerdjuret
 original_id: 863
-description: >-
-  Fråga: Måste den som inte känner till en regel eller skyldighet under
-  vallfärden offra ett djur? Svar: Skyldigheten att offra ett djur gäller inte
-  för den som varit okunnig [i ihrām ] eller f...
+description: 'Skyldigheten att offra ett djur gäller inte för den som varit okunnig [i iḥrām] eller för den som glömde något och utförde en förbjuden handling i iḥrām.'
 ---
 
 **Fråga:** Måste den som inte känner till en regel eller skyldighet under vallfärden offra ett djur?

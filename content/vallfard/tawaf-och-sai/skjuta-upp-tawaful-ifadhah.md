@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 814
-description: >-
-  Fråga: Är det tillåtet att skjuta upp ṭawāful-ifāḍah och utföra den
-  tillsammans med ṭawāful-wadā? Får en pilgrim under vallfärden göra ett avbrott
-  i det sjunde varvet och dricka vatten eller ...
+description: 'Det är tillåtet att skjuta upp ṭawāf ul-ifāḍah på grund av rädsla för trängsel och liknande saker.'
 ---
 
 **Fråga:** Är det tillåtet att skjuta upp *ṭawāf ul-ifāḍah*[^1] och utföra den tillsammans med *ṭawāf ul-wadā´*[^1]? Får en pilgrim under vallfärden göra ett avbrott i det sjunde varvet och dricka vatten eller något annat?

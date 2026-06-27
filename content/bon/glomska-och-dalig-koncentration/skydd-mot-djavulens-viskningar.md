@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 1653
-description: >-
-  Fråga: Djävulen föreslår ofta onda tankar för mig när jag ber, läser Koranen
-  eller tvagar mig. Jag finner ofta att jag talar om onda tankar, inte med
-  tungan men med hjärtat. Det är än värre om jag...
+description: 'Först och främst bör du ofta söka din tillflykt hos Allāh den Allsmäktige från den utstötte djävulen och begrunda innebörden av att söka sin tillflykt hos…'
 ---
 
 **Fråga:** Djävulen föreslår ofta onda tankar för mig när jag ber, läser Koranen eller tvagar mig. Jag finner ofta att jag talar om onda tankar, inte med tungan men med hjärtat. Det är än värre om jag ber ensam. Syndar jag när detta inträffar? Vänligen, visa mig en väg ut ur denna besvärliga situation.

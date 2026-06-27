@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsriter
 original_id: 742
-description: >-
-  Fråga: Jag utförde ‘umrah under de sista dagarna i shawwal . Därefter
-  återvände jag till Mecka med avsikten att utföra endast vallfärden [
-  hajjul-ifrad ]. Jag skulle vilja veta vad som gäller i...
+description: 'Om någon gör ´umrah i s̲hawwāl eller thul-qa’dah och sedan återvänder till sitt hemland, för att sedan komma tillbaka endast för vallfärden [likt en mufrid…'
 ---
 
 **Fråga:** Jag utförde *´umrah* under de sista dagarna i *s̲hawwāl*. Därefter återvände jag till Mecka med avsikten att utföra endast vallfärden [*ḥajjul-ifrād*]. Jag skulle vilja veta vad som gäller i denna fråga. Anses jag vara en *mutamatti´[^1]'* och är jag skyldig att slakta ett djur?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 1000
-description: >-
-  Fråga: Vad gör den som leds i bön under en fredag om personen kommer till bönen
-  och imamen är i den sista tashahhud . Tar personen igen genom att be fyra
-  eller två bönecykler? Svar: Om någon...
+description: 'Om någon kommer till moskén och finner imamen i den sista tas̲hahhud, då har personen missat fredagsbönen.'
 ---
 
 **Fråga:** Vad gör den som leds i bön under en fredag om personen kommer till bönen och imamen är i den sista *tas̲hahhud*. Tar personen igen genom att be fyra eller två bönecykler?

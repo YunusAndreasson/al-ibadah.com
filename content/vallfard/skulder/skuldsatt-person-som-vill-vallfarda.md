@@ -8,9 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Skulder
 original_id: 718
-description: 'Fråga: Får den som är skuldsatt utföra den obligatoriska vallfärden
- om personen inte har utfört den tidigare? Är det tillåtet att utföra den om personen har
- utfört den tidigare och nu vill utföra en fri...'
+description: 'Den som är skuldsatt och inte kan betala av med sina tillgångar måste inte vallfärda. Detta beror på att Allāh endast gör den som har möjligheten skyldig.'
 ---
 
 **Fråga:** Får den som är skuldsatt utföra den obligatoriska vallfärden om personen inte har utfört den tidigare? Är det tillåtet att utföra den om personen har utfört den tidigare och nu vill utföra en frivillig?

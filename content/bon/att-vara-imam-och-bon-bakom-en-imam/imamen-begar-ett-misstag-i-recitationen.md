@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 336
-description: 'Fråga: Om imamen begår ett misstag i bönen som är med höjd röst – han
- kanske glömmer en vers eller kastar om några ord av misstag – bör de som han leder
- i bönen då rätta honom? Svar: Om imamen...'
+description: 'Om imamen begår ett misstag i sin recitation, genom att missa en vers eller genom att säga ett ord fel, då är det föreskrivet att de bakom rättar honom.'
 ---
 
 **Fråga:** Om imamen begår ett misstag i bönen som är med höjd röst – han kanske glömmer en vers eller kastar om några ord av misstag – bör de som han leder i bönen då rätta honom?

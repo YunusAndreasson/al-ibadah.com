@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 428
-description: >-
-  Fråga: Vilken är den allmänna regeln när det gäller blod som gör fastan
-  ogiltig och hur gör det fastan ogiltig? Svar: Det blod som gör fastan ogiltig
-  är det blod som rinner vid koppning. Dett...
+description: 'Det blod som gör fastan ogiltig är det blod som rinner vid koppning. Detta med anledning av profetens – över honom vare Allāhs frid och välsignelser – ord:…'
 ---
 
 **Fråga:** Vilken är den allmänna regeln när det gäller blod som gör fastan ogiltig och hur gör det fastan ogiltig?

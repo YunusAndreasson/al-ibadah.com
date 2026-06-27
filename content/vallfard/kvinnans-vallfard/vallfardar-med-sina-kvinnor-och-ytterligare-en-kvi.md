@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Kvinnans vallfärd
 original_id: 711
-description: >-
-  Fråga: Jag vallfärdade med mina kvinnor [kvinnliga släktingar och fruar]. En
-  äldre kvinna som inte hade någon mahram följde med dem. Jag försörjde henne,
-  samtidigt som hon var tillsammans med mi...
+description: 'Då denna kvinna var mycket gammal och frågeställaren berättade att han hade några kvinnor med sig och att den äldre kvinnan var tillsammans med dem för att…'
 ---
 
 **Fråga:** Jag vallfärdade med mina kvinnor [kvinnliga släktingar och fruar]. En äldre kvinna som inte hade någon *maḥram* följde med dem. Jag försörjde henne, samtidigt som hon var tillsammans med mina kvinnor, tills hon utfört vallfärdsriterna och återvänt till sitt land. Har jag syndat?

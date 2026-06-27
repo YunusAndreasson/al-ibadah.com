@@ -6,9 +6,7 @@ categories:
   - Bön (Salāh)
   - Övrigt
 original_id: 573
-description: 'Fråga: Om jag ber och det ringer på dörrklockan när ingen annan än
- jag är hemma. Vad ska jag göra då? Svar: Om bönen är frivillig – är detta
- mycket lätt – då det inte finns någon som hindrar...'
+description: 'Om bönen är frivillig – är detta mycket lätt – då det inte finns någon som hindrar att du avbryter bönen för att se vem som står vid dörren.'
 ---
 
 **Fråga:** Om jag ber och det ringer på dörrklockan när ingen annan än jag är hemma. Vad ska jag göra då?

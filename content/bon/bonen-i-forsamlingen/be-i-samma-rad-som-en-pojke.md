@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 225
-description: 'Fråga: Två män gick in i en moské och med dem fanns en pojke som var
- runt sju eller åtta år gammal. En av dem steg fram och ledde pojken och den äldre
- mannen i bön. De stod då alla i linje. Vilket...'
+description: 'Pojken måste vara gammal nog för att förstå saker och ting. Detta kan vara när han blir femton år gammal, när han får våta drömmar eller när det börjar…'
 ---
 
 **Fråga:** Två män gick in i en moské och med dem fanns en pojke som var runt sju eller åtta år gammal. En av dem steg fram och ledde pojken och den äldre mannen i bön. De stod då alla i linje. Vilket är utlåtandet om deras bön? Var den giltig? Hur gammal måste man vara för att få be i raderna?

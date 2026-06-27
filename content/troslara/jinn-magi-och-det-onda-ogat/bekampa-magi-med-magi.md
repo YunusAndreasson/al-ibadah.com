@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - 'Jinn, magi och det onda ögat'
 original_id: 108
-description: >-
-  Fråga: Jag har en vän vars fru har utsatts för magi och ingen medicin har
-  hjälpt henne. Någon berättade om en man som behandlar magi med magi... Syndar
-  mannen? Han använder ju magi för att hjäl...
+description: 'Jag skulle vilja klargöra att magi är en av de stora synderna. Det är otro om magikern söker hjälp från djävlarna och på detta sätt begår s̲hirk.'
 ---
 
 **Fråga:** Jag har en vän vars fru har utsatts för magi och ingen medicin har hjälpt henne. Någon berättade om en man som behandlar magi med magi… Syndar mannen? Han använder ju magi för att hjälpa andra men gör det utan att skada någon. Har min vän syndat då han gått till magikern för att bota sin fru från det som har drabbat henne?

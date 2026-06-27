@@ -7,10 +7,7 @@ source: >-
 categories:
   - Bön (Salāh)
 original_id: 319
-description: >-
-  Fråga: Jag jobbar från klockan sju på morgonen till klockan sju på kvällen.
-  Får jag be alla böner tillsammans? Svar: Det är inte tillåtet att be bönerna
-  före eller efter tiderna som den islami...
+description: 'Det är inte tillåtet att be bönerna före eller efter tiderna som den islamiska lagen anger. Inte ens om det beror på arbete eller någon annan ursäkt.'
 ---
 
 **Fråga:** Jag jobbar från klockan sju på morgonen till klockan sju på kvällen. Får jag be alla böner tillsammans?

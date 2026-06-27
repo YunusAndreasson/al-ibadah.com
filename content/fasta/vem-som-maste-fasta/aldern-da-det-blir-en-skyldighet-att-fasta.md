@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Fasteplikt
 original_id: 401
-description: 'Fråga: När blir en ung tjej skyldig att fasta? Svar: Den unga
- tjejen är skyldig att fasta när hon når myndig ålder. Puberteten uppnås genom att
- barnet blir femton år, att mycket könshår börja...'
+description: 'Den unga tjejen är skyldig att fasta när hon når myndig ålder. Puberteten uppnås genom att barnet blir femton år, att mycket könshår börjar växa,…'
 ---
 
 **Fråga:** När blir en ung tjej skyldig att fasta?

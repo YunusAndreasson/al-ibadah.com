@@ -7,9 +7,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 1206
-description: 'Fråga: Vilket är utlåtandet om att ha guldtänder? Svar: Män får
- inte ha tänder av guld om det inte är nödvändigt. Detta beror på att män inte får
- bära och pryda sig själva med guld. Är det sed...'
+description: 'Män får inte ha tänder av guld om det inte är nödvändigt. Detta beror på att män inte får bära och pryda sig själva med guld.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att ha guldtänder?

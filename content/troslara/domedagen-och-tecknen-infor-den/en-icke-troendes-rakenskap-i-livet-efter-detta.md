@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Domedagen och dess tecken
 original_id: 84
-description: >-
-  Fråga: Den troende kommer att ställas till svars på Återuppståndelsens Dag; om
-  vad personen har gjort är bra, då får personen ta emot gott och om det är ont, då
-  får personen ta emot ont. Men hur kommer den...
+description: 'Denna fråga beror på en felaktig förståelse. Den icke-troende har samma skyldigheter som den troende, men den icke-troende följer inte dem i detta livet.'
 ---
 
 **Fråga:** Den troende kommer att ställas till svars på Återuppståndelsens Dag; om vad personen har gjort är bra, då får personen ta emot gott och om det är ont, då får personen ta emot ont. Men hur kommer den icke-troende att ställas till svars då personen inte har samma skyldigheter som den troende?

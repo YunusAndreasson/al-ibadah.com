@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Undantag från fasta
 original_id: 1034
-description: >-
-  Fråga: Vad anser ni om den som har ett ansträngande arbete och som fastan är
-  svår för, får personen bryta fastan? Svar: Min åsikt om att personen bryter fastan
-  på grund av arbetet, är att det inte ä...
+description: 'Min åsikt om att personen bryter fastan på grund av arbetet, är att det inte är tillåtet. Är det inte möjligt att förena arbetet med fastan bör personen ta…'
 ---
 
 **Fråga:** Vad anser ni om den som har ett ansträngande arbete och som fastan är svår för, får personen bryta fastan?

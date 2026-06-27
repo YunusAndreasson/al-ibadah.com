@@ -9,10 +9,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1127
-description: >-
-  Fråga: Vilket är utlåtandet om tvagningen för en kvinna om hon har täckt sina
-  naglar med nagellack? Svar: Nagellack är en substans som kvinnor tar på sina
-  naglar. Den formar ett ytskikt och e...
+description: 'Nagellack är en substans som kvinnor tar på sina naglar. Den formar ett ytskikt och en kvinna får inte använda den om hon ber.'
 ---
 
 **Fråga:** Vilket är utlåtandet om tvagningen för en kvinna om hon har täckt sina naglar med nagellack?

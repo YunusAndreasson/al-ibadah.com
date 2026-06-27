@@ -9,10 +9,7 @@ categories:
   - Allmosa (Zakāh)
   - Allmosa för tillgångar
 original_id: 1612
-description: >-
-  Fråga: Är det en skyldighet att betala allmosa för tillgångar som tillhör ett
-  barn eller en mentalt eftersatt? Svar: Denna fråga är de lärde oeniga om.
-  Några säger att allmosan för ett barn el...
+description: 'Denna fråga är de lärde oeniga om. Några säger att allmosan för ett barn eller en mentalt eftersatt inte är en skyldighet.'
 ---
 
 **Fråga:** Är det en skyldighet att betala allmosa för tillgångar som tillhör ett barn eller en mentalt eftersatt?

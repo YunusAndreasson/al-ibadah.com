@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 815
-description: >-
-  Fråga: Vilket är utlåtandet om den som skjuter upp ṭawāful-ifāḍah till
-  ṭawāful-wadā och gör dem till en tawāf men avsikten att ṭawāful-ifāḍah och
-  ṭawāful-wadā är tillsammans? Får man u...
+description: 'Det är inga problem om man utför ṭawāf när man är redo att ge sig av efter att ha utfört vallfärdsriterna.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som skjuter upp *ṭawāf ul-ifāḍah* till *ṭawāf ul-wadā´* och gör dem till en *ṭawāf* med avsikten att *ṭawāf ul-ifāḍah* och *ṭawāf ul-wadā´* är tillsammans? Får man utföra *ṭawāf ul-ifāḍah* nattetid?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nattbön
 original_id: 299
-description: >-
-  Vilket är utlåtandet om att höja händerna under witr? Det är tillåtet att höja
-  händerna under qunūt i witr. Detta hamnar i samma kategori som qunūt vid
-  katastrofer. Profeten – över honom vare All...
+description: 'Det är tillåtet att höja händerna under qunūt i witr. Detta hamnar i samma kategori som qunūt vid katastrofer.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att höja händerna under *witr*?

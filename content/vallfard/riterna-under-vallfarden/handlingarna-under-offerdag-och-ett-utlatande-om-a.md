@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsriter
 original_id: 1347
-description: >-
-  Fråga: Vad är bäst för en pilgrim under vallfärden i fråga om vad personen ska
-  göra under offerdagen [ ‘eid den tionde i thul-hijjah]? Är det tillåtet att
-  göra vissa saker först för att skjuta upp ...
+description: 'Profetens – över honom vare Allāhs frid och välsignelser – sunnah under offerdagen är att kasta stenarna på pelarna genom att kasta sten på al-´Aqabah,…'
 ---
 
 **Fråga:** Vad är bäst för en pilgrim under vallfärden i fråga om vad personen ska göra under offerdagen[^2]? Är det tillåtet att göra vissa saker först för att skjuta upp andra?

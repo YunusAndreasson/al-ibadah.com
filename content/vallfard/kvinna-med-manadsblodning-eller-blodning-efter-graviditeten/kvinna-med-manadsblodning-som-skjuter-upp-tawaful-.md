@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Månadsblödning och efterblödning
 original_id: 781
-description: >-
-  Fråga: Vad gäller om en kvinna får sin månadsblödning innan hon har gjort
-  ṭawāful-ifāḍah? Detta i vetskap om att hon utförde de andra vallfärdsriterna
-  och hennes månadsblödning fortsatte till ...
+description: 'Om en kvinna får sin månadsblödning eller blödning efter graviditeten innan ṭawāf ul-hajj, då är hon fortfarande ansvarig för ṭawāf tills hon blir ren.'
 ---
 
 **Fråga:** Vad gäller om en kvinna får sin månadsblödning innan hon har gjort *ṭawāf* *ul-ifāḍah*? Detta i vetskap om att hon utförde de andra vallfärdsriterna och hennes månadsblödning fortsatte till efter *at-ayyām at-tas̲hrīq*.

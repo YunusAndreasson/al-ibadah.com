@@ -7,8 +7,7 @@ categories:
   - Blandat
   - Åkallan
 original_id: 685
-description: 'Fråga: Vilket är utlåtandet om att säga: ”Vi kommer att mötas i Paradiset – om Allāh vill”? Svar: Detta är bra sagt och det är inget fel i det. Vi ber
- Allāh att Han samlar oss med våra bröder ...'
+description: 'Detta är bra sagt och det är inget fel i det. Vi ber Allāh att Han samlar oss med våra bröder i Paradiset och att vi möts där.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att säga: ”Vi kommer att mötas i Paradiset – om Allāh vill”?

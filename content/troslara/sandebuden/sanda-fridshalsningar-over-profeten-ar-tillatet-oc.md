@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 123
-description: >-
-  Fråga: Om det är en god innovation att sända fridshälsningar, är det då
-  tillåtet att förbjuda människor att sända fridshälsningar över den ädle
-  profeten? Svar: Att sända välsignelser och frids...
+description: 'Att sända välsignelser och fridshälsningar över vårt Sändebud och över hans bröder [de andra profeterna] är inte en god innovation, som frågeställaren…'
 ---
 
 **Fråga:** Om det är en god innovation att sända fridshälsningar, är det då tillåtet att förbjuda människor att sända fridshälsningar över den ädle profeten?

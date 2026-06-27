@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 75
-description: >-
-  Fråga: Vilka verser i den Ädla Koranen är muḥkam och mutashabih ? Varför är
-  inte hela Koranen muḥkam, så att man inte förstår något annat än sanningen
-  från den? Svar: Du bör känna till at...
+description: 'Du bör känna till att Allāh har beskrivit Koranen på tre olika sätt. Han har beskrivit hela som muḥkam då Han säger: ”Detta är budskap ur den uppenbarade…'
 ---
 
 **Fråga:** Vilka verser i den Ädla Koranen är *muḥkam* och *mutas̲hābih*? Varför är inte hela Koranen *muḥkam*, så att man inte förstår något annat än sanningen från den?

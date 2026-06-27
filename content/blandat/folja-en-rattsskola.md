@@ -6,9 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Voly
 categories:
   - Blandat
 original_id: 136
-description: 'Fråga: Somliga anser att muslimer i blindo måste följa en av de fyra
- välkända rättsskolorna för att deras dyrkan ska vara korrekt. Shias rättsskola
- inräknas inte bland dessa, inte ens za...'
+description: 'En muslim måste följa det som kommer från Allāh och Hans sändebud, om personen har tillräckligt med kunskap för att tolka bevisen.'
 ---
 
 **Fråga:** Somliga anser att muslimer i blindo måste följa en av de fyra välkända rättsskolorna för att deras dyrkan ska vara korrekt. Shias rättsskola inräknas inte bland dessa, inte ens *zaydī*-shias rättsskola. Håller ni med om detta och förbjuder ni därmed ett blint följande av shias rättsskola, som exempelvis *It̲hnā ´As̲hriyyah* [En stor grupp inom shia som tror att tolv speciella imamer har större kunskap och kraft än profeterna och änglarna.]?

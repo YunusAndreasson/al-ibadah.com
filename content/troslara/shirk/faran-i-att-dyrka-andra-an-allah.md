@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
 original_id: 915
-description: >-
-  Fråga: Vilket är utlåtandet om att rikta någon form av dyrkan mot andra än
-  Allāh – fri från brister? Svar: Svaret kan förstås från vad som har föregåtts
-  när vi sade att tawhīd i dyrkan är at...
+description: 'Svaret kan förstås från vad som har föregåtts när vi sade att tawḥīd i dyrkan är att särskilja Allāh med all dyrkan.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att rikta någon form av dyrkan mot andra än Allāh – fri från brister?

@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1051
-description: 'Fråga: Bryts fastan om den fastande onanerar? Behöver personen gottgöra
- sig för detta? Svar: Onanerar den fastande och det leder till en sädesuttömning,
- då har fastan brutits. Personen måste ta igen...'
+description: 'Onanerar den fastande och det leder till en sädesuttömning, då har fastan brutits. Personen måste ta igen den dagen som personen onanerade under.'
 ---
 
 **Fråga:** Bryts fastan om den fastande onanerar? Behöver personen gottgöra sig för detta?

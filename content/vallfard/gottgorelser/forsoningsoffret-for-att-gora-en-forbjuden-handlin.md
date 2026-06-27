@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Gottgörelser
 original_id: 861
-description: >-
-  Fråga: Vilket är försoningsoffret för vallfärden? Vilka typer finns det?
-  Vilket är utlåtandet om den som upprepar en viss förbjuden handling? Svar:
-  Försoningsoffret är en lösen för att ha gjort någ...
+description: 'Försoningsoffret är en lösen för att ha gjort något förbjudet under iḥrām. Denna lösen är av olika slag.'
 ---
 
 **Fråga:** Vilket är försoningsoffret för vallfärden? Vilka typer finns det? Vilket är utlåtandet om den som upprepar en viss förbjuden handling?

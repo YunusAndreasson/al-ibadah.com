@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadanbedjare
 original_id: 875
-description: >-
-  Fråga: Jag drabbades av en sjukdom under den välsignade månaden ramadan och
-  jag hade då inte möjlighet att fasta. Därför bestämde jag mig för att fasta en
-  annan månad, om Allāh lät mig leva. Sedan...
+description: 'Du får vallfärda även om du inte har tagit igen det som du missade av fastan under ramaḍān.'
 ---
 
 **Fråga:** Jag drabbades av en sjukdom under den välsignade månaden *ramaḍān* och jag hade då inte möjlighet att fasta. Därför bestämde jag mig för att fasta en annan månad, om Allāh lät mig leva. Sedan kom vallfärdsmånaden och jag ville vallfärda det året. Får jag vallfärda utan att fasta?

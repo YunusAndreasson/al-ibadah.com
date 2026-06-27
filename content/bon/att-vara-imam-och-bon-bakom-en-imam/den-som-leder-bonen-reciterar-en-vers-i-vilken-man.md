@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 226
-description: >-
-  Fråga: Vad ska jag göra om jag reciterar en sura i vilken man ska
-  nedfalla? Detta sker när jag ber bakom en imam. Svar: Nedfall inte. Det är
-  ju obligatoriskt att följa imamen och nedfalla...
+description: 'Nedfall inte. Det är ju obligatoriskt att följa imamen och nedfallandet vid recitation är en sunnah.'
 ---
 
 **Fråga:** Vad ska jag göra om jag reciterar en sura i vilken man ska nedfalla? Detta sker när jag ber bakom en imam.

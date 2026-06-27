@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 85
-description: >-
-  Fråga: Varför tynger Allāh de troende som strävar i dyrkan med sjukdomar och
-  prövningar, medan de olydiga njuter av livets goda? Svar: Det finns två olika
-  aspekter i denna fråga: Den första är...
+description: 'Det finns två olika aspekter i denna fråga: Den första är ett ogillande och den andra är för att söka råd.'
 ---
 
 **Fråga:** Varför tynger Allāh de troende som strävar i dyrkan med sjukdomar och prövningar, medan de olydiga njuter av livets goda?

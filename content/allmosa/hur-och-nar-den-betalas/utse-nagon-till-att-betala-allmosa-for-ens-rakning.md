@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Betalningstid
 original_id: 648
-description: 'Fråga: Jag äger en del boskap i Egypten. Ger jag allmosa för dem när
- jag befinner mig här i Irak eller väntar jag tills jag återvänder till mitt land? Svar: Det
- är din skyldighet att betala al...'
+description: 'Det är din skyldighet att betala allmosa för dem för varje år som går. Därmed bör du utse någon i Egypten som ger den.'
 ---
 
 **Fråga:** Jag äger en del boskap i Egypten. Ger jag allmosa för dem när jag befinner mig här i Irak eller väntar jag tills jag återvänder till mitt land?

@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 1449
-description: >-
-  Fråga: Det finns tabletter som hindrar [skjuter upp] en kvinnas
-  månadsblödning, är det tillåtet att använda dem under vallfärden om hon är
-  rädd för att få månadsblödningen då? Svar: Under vall...
+description: 'Under vallfärden får kvinnan använda tabletter för att skjuta upp månadsblödningen om hon är rädd för att den ska inträffa då.'
 ---
 
 **Fråga:** Det finns tabletter som hindrar [skjuter upp] en kvinnas månadsblödning, är det tillåtet att använda dem under vallfärden om hon är rädd för att få månadsblödningen då?

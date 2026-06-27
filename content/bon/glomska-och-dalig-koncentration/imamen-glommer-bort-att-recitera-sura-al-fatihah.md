@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 208
-description: >-
-  Fråga: Vi var fyra personer som befann oss ute i öknen och när det blev tid
-  för kvällsbönen ropade en av oss ut böneutropet och iqāmah för bönen. I den
-  andra bönecyklen reciterade imamen inte su...
+description: 'Bönen som du har nämnt är ogiltig. Den måste upprepas. Anledningen är att al-Fātiḥah inte reciterades i den andra bönecykeln.'
 ---
 
 **Fråga:** Vi var fyra personer som befann oss ute i öknen och när det blev tid för kvällsbönen ropade en av oss ut böneutropet och *iqāmah* för bönen. I den andra bönecyklen reciterade imamen inte sura *al-Fātiḥah* och en av oss uppmärksammade honom genom att säga: ”Subhan Allāh.” Imamen reciterade sedan sura al-Kafirūn men han reciterade inte *al-Fātiḥah*. I slutet av bönen gjorde han heller inte nedfallandet för glömska. En diskussion bröt sedan ut om detta. Vänligen, berätta för oss om det är tillåtet att nedfalla för glömska? Må Allāh belöna er med allt gott.

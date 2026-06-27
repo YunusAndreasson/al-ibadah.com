@@ -7,10 +7,7 @@ source: >-
 categories:
   - Renhet (Tahārah)
 original_id: 1425
-description: >-
-  Fråga: Gör män och kvinnor g̲husl på olika sätt efter den stora orenheten?
-  Måste kvinnan släppa ut sitt hår eller räcker det om hon enligt hadithen
-  häller vatten över det tre gånger? Vad är skill...
+description: 'Det finns ingen skillnad mellan män och kvinnor i g̲husl och ingen behöver släppa ut håret vid g̲husl.'
 ---
 
 **Fråga:** Gör män och kvinnor *g̲husl* på olika sätt efter den stora orenheten? Måste kvinnan släppa ut sitt hår eller räcker det om hon enligt *ḥadīt̲h* häller vatten över det tre gånger? Vad är skillnaden mellan *g̲husl* vid den stora orenheten [efter samlag] och den vid månadsblödningen?

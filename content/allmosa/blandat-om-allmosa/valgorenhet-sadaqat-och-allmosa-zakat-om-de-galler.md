@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Övrigt
 original_id: 1256
-description: >-
-  Fråga: Är välgörenhet och allmosa något som gäller speciellt för ramadan?
-  Svar: Välgörenhet är inte något särskilt för ramadan. Den är rekommenderad
-  och föreskriven vid alla tidpunkter. Allmo...
+description: 'Välgörenhet är inte något särskilt för ramaḍān. Den är rekommenderad och föreskriven vid alla tidpunkter.'
 ---
 
 **Fråga:** Är välgörenhet och allmosa något som gäller speciellt för *ramaḍān*?

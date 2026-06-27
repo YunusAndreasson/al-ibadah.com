@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Begravningsbön
 original_id: 393
-description: >-
-  Fråga: När åkallar man för den avlidne? När kistan har sänkts ned och man har
-  kastat jord över den? Bör den som åkallar för den avlidne sitta eller stå? Vad
-  är bäst? Svar: Det som är sunnah ...
+description: 'Det som är sunnah för den som vill åkalla för den avlidne – när personen har sänkts ned och jord har kastats över personen – är att åkalla ståendes.'
 ---
 
 **Fråga:** När åkallar man för den avlidne? När kistan har sänkts ned och man har kastat jord över den? Bör den som åkallar för den avlidne sitta eller stå? Vad är bäst?

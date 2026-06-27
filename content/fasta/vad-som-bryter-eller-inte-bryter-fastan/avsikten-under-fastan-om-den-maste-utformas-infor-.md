@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1042
-description: >-
-  Fråga: Kräver varje fastedag en avsikt eller är det tillräckligt att utforma
-  en avsikt för hela månaden? Svar: Det är tillräckligt att utforma avsikten
-  under början av ramadan. Detta beror på ...
+description: 'Det är tillräckligt att utforma avsikten under början av ramaḍān. Detta beror på att även om den fastande inte utformade en avsikt för varje dag under…'
 ---
 
 **Fråga:** Kräver varje fastedag en avsikt eller är det tillräckligt att utforma en avsikt för hela månaden?

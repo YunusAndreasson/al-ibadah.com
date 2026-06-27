@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Eid-bönen
 original_id: 1596
-description: >-
-  Fråga: Hur gör man takbīr under ´eid -kvällen? Svar: Det är rekommenderat att
-  göra takbīr under ´eid -kvällen; från solnedgången under den sista fastedagen
-  till imamen kommer för att leda ...
+description: 'Det är rekommenderat att göra takbīr under ´eid-kvällen; från solnedgången under den sista fastedagen till imamen kommer för att leda bönen.'
 ---
 
 **Fråga:** Hur gör man *takbīr* under *´eid*-kvällen?

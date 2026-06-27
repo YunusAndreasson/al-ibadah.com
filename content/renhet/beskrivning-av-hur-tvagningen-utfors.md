@@ -8,10 +8,7 @@ source: >-
 categories:
   - Renhet (Tahārah)
 original_id: 1128
-description: >-
-  Fråga: Vilken är beskrivningen av hur tvagningen ska göras enligt islam? Svar:
-  Enligt islam är beskrivning av hur tvagningen ska göras följande: Den
-  obligatoriska formen som tvagningen...
+description: 'Enligt islam är beskrivningen av hur tvagningen ska göras följande: Den obligatoriska formen som tvagningen är ogiltig utan som beskrivs av Allāh den…'
 ---
 
 **Fråga:** Vilken är beskrivningen av hur tvagningen ska göras enligt islam?

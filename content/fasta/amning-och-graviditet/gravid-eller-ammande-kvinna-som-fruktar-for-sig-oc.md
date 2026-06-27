@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Graviditet och amning
 original_id: 454
-description: >-
-  Fråga: Om en gravid eller ammande kvinna under ramadan är rädd för sin egen
-  skull eller för barnets skull och hon bryter fastan, vad är hon då skyldig att göra?
-  Bryter hon fastan, skänker mat och tar i...
+description: 'Om den gravida kvinnan under ramaḍān fruktar för sig själv eller för sitt ofödda barn, då bryter hon fastan och hon är enbart skyldig att ta igen fastan.'
 ---
 
 **Fråga:** Om en gravid eller ammande kvinna under *ramaḍān* är rädd för sin egen skull eller för barnets skull och hon bryter fastan, vad är hon då skyldig att göra? Bryter hon fastan, skänker mat och tar igen den eller bryter hon fastan och tar igen den men utan att ge mat eller bryter hon fastan och ger mat utan att ta igen den? Vilken av dessa tre är den korrekta åsikten?

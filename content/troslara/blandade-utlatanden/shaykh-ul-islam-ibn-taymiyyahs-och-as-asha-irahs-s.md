@@ -11,10 +11,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1173
-description: >-
-  Fråga: I vissa länder lär sig eleverna i de islamiska skolorna att
-  ahlus-sunnah wal-jamā’ats synsätt är: Att tro på Allāhs den Upphöjdes namn och
-  egenskaper utan att förvrida, förneka, försöka f...
+description: 'Det råder inga tvivel om att det som lärs ut i dessa skolor – att ahlus-sunnah wal-jamā''ats synsätt är att tro på Allāhs namn och egenskaper utan förvrida,…'
 ---
 
 **Fråga:** I vissa länder lär sig eleverna i de islamiska skolorna att *ahlus-sunnah* wal-jamā’ats*synsätt är: Att tro på Allāhs den Upphöjdes namn och egenskaper utan att förvrida, förneka, försöka förklara hur [ifrågasätta dem] eller jämföra [med egenskaper i skapelsen]. Kan man dela in *ahlus-sunnah* wal-jamā’at* i dessa kategorier:

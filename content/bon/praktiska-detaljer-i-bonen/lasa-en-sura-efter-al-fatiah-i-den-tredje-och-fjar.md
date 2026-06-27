@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 579
-description: >-
-  Fråga: Under bönerna som består av tre eller fyra bönecykler [middagsbönen,
-  eftermiddagsbönen, kvällsbönen och nattbönen] kan man läsa en sura efter
-  *al-Fātiḥah* under bönecykeln efter den första ...
+description: 'Det korrekta är att i bönerna med tre eller fyra bönecykler läsa sura al-Fātiḥah följt av en annan sura – i de två första bönecyklerna.'
 ---
 
 **Fråga:** Under bönerna som består av tre eller fyra bönecykler [middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen] kan man läsa en sura efter *al-Fātiḥah* under bönecykeln efter den första *tas̲hahhud* [den tredje eller fjärde] – är detta tillåtet?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 595
-description: >-
-  Fråga: Är det tillåtet att sträcka ut sina ben i riktning mot qiblah i moskén?
-  Är det tillåtet att äta och sova i moskén? Svar: Det är inga problem om någon
-  sträcker sina ben eller ett av bene...
+description: 'Det är inga problem om någon sträcker sina ben eller ett av benen i riktning mot qiblah – varken i moskén eller någon annanstans.'
 ---
 
 **Fråga:** Är det tillåtet att sträcka ut sina ben i riktning mot *qiblah* i moskén? Är det tillåtet att äta och sova i moskén?

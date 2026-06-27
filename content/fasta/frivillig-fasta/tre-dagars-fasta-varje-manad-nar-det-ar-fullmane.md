@@ -6,9 +6,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 1609
-description: 'Fråga: Måste de tre dagar man kan fasta under varje månad vara när
- det är fullmåne eller är det tillåtet att fasta vilka tre dagar som helst under
- månaden? Svar: Det är tillåtet att fasta unde...'
+description: 'Det är tillåtet att fasta under början av månaden, under mitten eller slutet. Det går också bra att fasta i sträck eller olika dagar.'
 ---
 
 **Fråga:** Måste de tre dagar man kan fasta under varje månad vara när det är fullmåne eller är det tillåtet att fasta vilka tre dagar som helst under månaden?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Pilgrimskläder
 original_id: 1342
-description: >-
-  Fråga: Vilket är utlåtandet om ihrām för en kvinna då hon bär sockar eller
-  handskar? Får hon ta av det som hon gick in i ihrām med? Svar: Det är bättre
-  om hon går in i ihrām med sockar e...
+description: 'Det är bättre om hon går in i iḥrām med sockar eller skor. Detta är bättre och mer döljande för henne.'
 ---
 
 **Fråga:** Vilket är utlåtandet om *iḥrām* för en kvinna då hon bär sockar eller handskar? Får hon ta av det som hon gick in i *iḥrām* med?

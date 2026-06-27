@@ -6,9 +6,7 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 535
-description: 'Fråga: Vilket är utlåtandet om försumlighet i bönen när ens tankar
- oavsiktligen börjar vandra iväg? Svar: All lovprisan tillhör Allāh. När tiden
- för bönen kommer bör den dyrkande glömma det vä...'
+description: 'All lovprisan tillhör Allāh. När tiden för bönen kommer bör den dyrkande glömma det världsliga för att i så stor utsträckning som möjligt kunna koncentrera…'
 ---
 
 **Fråga:** Vilket är utlåtandet om försumlighet i bönen när ens tankar oavsiktligen börjar vandra iväg?

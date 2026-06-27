@@ -7,9 +7,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1625
-description: 'Fråga: En ung muslimsk man vill gifta sig med en muslimsk kvinna men
- hennes fader, som är alkoholist och avfälling, vägrar. Får hennes fader ordna med
- dotterns giftermål? Om hon är muslim finns de...'
+description: 'Om hon är muslim finns det ingen invändan mot att den unga mannen gifter sig med henne. Fadern får dock inte vara hennes förmyndare om han är en…'
 ---
 
 **Fråga:** En ung muslimsk man vill gifta sig med en muslimsk kvinna men hennes fader, som är alkoholist och avfälling, vägrar. Får hennes fader ordna med dotterns giftermål?

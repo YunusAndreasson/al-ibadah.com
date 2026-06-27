@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 334
-description: 'Fråga: Blir bönen ogiltig om man ber bakom en imam som inte reciterar
- *al-Fātiḥah* rätt? Svar: Om imamen reciterar *al-Fātiḥah* dåligt och detta leder
- till att innebörden förändras, då måste han u...'
+description: 'Om imamen reciterar al-Fātiḥah dåligt och detta leder till att innebörden förändras, då måste han upplysas om detta.'
 ---
 
 **Fråga:** Blir bönen ogiltig om man ber bakom en imam som inte reciterar *al-Fātiḥah* rätt?

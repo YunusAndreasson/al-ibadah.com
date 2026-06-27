@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Klädsel i bönen
 original_id: 1468
-description: >-
-  Fråga: Vilket är utlåtandet om att be i skor och vilka bevis finns för det?
-  Några av våra bröder säger att det är tillåtet medan andra förbjuder det då
-  det endast skulle vara tillåtet utomhus där ...
+description: 'Autentiska aḥādīt̲h bevisar att det är mycket rekommenderat att be i skor, eller att det åtminstone är tillåtet.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att be i skor och vilka bevis finns för det? Några av våra bröder säger att det är tillåtet medan andra förbjuder det då det endast skulle vara tillåtet utomhus där solen skiner på marken. Där solen då inte lyser på marken kan skorna föra med sig orenheter.

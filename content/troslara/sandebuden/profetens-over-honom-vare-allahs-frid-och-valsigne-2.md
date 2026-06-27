@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 127
-description: >-
-  Fråga: Varför gifte sig profeten med flera kvinnor? Svar: Den obegränsade
-  visdomen tillhör Allāh och det är en del av Hans visdom att Han den Upphöjde i
-  de tidigare uppenbarade lagarna samt i ...
+description: 'Den obegränsade visdomen tillhör Allāh och det är en del av Hans visdom att Han den Upphöjde i de tidigare uppenbarade lagarna samt i profeten Muḥammads…'
 ---
 
 **Fråga:** Varför gifte sig profeten med flera kvinnor?

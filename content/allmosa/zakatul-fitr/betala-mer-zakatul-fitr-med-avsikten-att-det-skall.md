@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Fasteallmosa
 original_id: 1019
-description: >-
-  Fråga: Är det tillåtet att betala mer zakātul-fiṭr med avsikten att ge
-  frivillig välgörenhet? Svar: Ja, det är tillåtet att betala mer zakātul-fiṭr
-  med avsikten att det som överskrider den...
+description: 'Ja, det är tillåtet att betala mer zakātul-fiṭr med avsikten att det som överskrider den obligatoriska summan ska anses vara en frivillig välgörenhet.'
 ---
 
 **Fråga:** Är det tillåtet att betala mer *zakātul-fiṭr* med avsikten att ge frivillig välgörenhet?

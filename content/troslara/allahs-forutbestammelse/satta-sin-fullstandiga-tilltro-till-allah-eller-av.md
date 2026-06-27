@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 1076
-description: >-
-  Fråga: Om man gör vad som är nödvändigt för att uppnå något, upphäver det då
-  ens tawakkul? Under Gulfkriget gjorde vissa vad de ansåg vara nödvändigt medan
-  andra sade: ”Vi sätter vår tilltro till ...
+description: 'Den troende måste fästa sitt hjärta vid Allāh den Allsmäktige och uppriktigt lita på att Han frambringar det som är nyttigt och att Han avvärjer det som är…'
 ---
 
 **Fråga:** Om man gör vad som är nödvändigt för att uppnå något, upphäver det då ens *tawakkul*? Under Gulfkriget gjorde vissa vad de ansåg vara nödvändigt medan andra sade: ”Vi sätter vår tilltro till Allāh.”

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 817
-description: >-
-  Fråga: En man vallfärdade och han gjorde ṭawāful-wadā under natten, men han
-  hade inte möjlighet att lämna Mecka efter tawāf . Av den anledningen spenderade
-  han natten fram till morgonen i Mecka ...
+description: 'Det som är föreskrivet är att pilgrimens ṭawāf ul-wadā´ ska ske då personen är redo att lämna Mecka.'
 ---
 
 **Fråga:** En man vallfärdade och han gjorde *ṭawāf ul-wadā´* under natten, men han hade inte möjlighet att lämna Mecka efter *ṭawāf*. Av den anledningen spenderade han natten fram till morgonen i Mecka då han reste. Vilket är utlåtandet om detta?

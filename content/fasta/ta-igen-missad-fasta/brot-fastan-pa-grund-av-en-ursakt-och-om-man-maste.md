@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Ikappfasta
 original_id: 460
-description: >-
-  Fråga: En man bröt fastan under två dagar under ramadan år 1395 AH. Sedan kom
-  nästa ramadan år 1396 AH men han hade inte tagit igen dessa båda fastedagar.
-  Sedan bröt han fastan tre dagar under ram...
+description: 'Om den som du har nämnt hade en ursäkt och bröt fastan, då krävs inget annat av honom än att han tar igen dagarna på det sätt som han har gjort.'
 ---
 
 **Fråga:** En man bröt fastan under två dagar under *ramaḍān* år 1395 AH. Sedan kom nästa *ramaḍān* år 1396 AH men han hade inte tagit igen dessa båda fastedagar. Sedan bröt han fastan tre dagar under *ramaḍān* 1396 AH. Han tog igen dessa dagar i följd under *muḥarram* 1397 AH. Behöver han betala någon form av kompensation då?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Begravningsbön
 original_id: 1249
-description: >-
-  Fråga: Vilket är utlåtandet om att besöka gravplatser för att recitera
-  *al-Fātiḥah* och vad finns det att säga om kvinnor som besöker gravplatser?
-  Svar: Att besöka gravplatser är en sunnah som...
+description: 'Att besöka gravplatser är en sunnah som profeten – över honom vare Allāhs frid och välsignelser – har beordrat efter att tidigare ha förbjudit det, vilket…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att besöka gravplatser för att recitera *al-Fātiḥah* och vad finns det att säga om kvinnor som besöker gravplatser?

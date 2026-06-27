@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 954
-description: >-
-  Fråga: Om man missar en bönecykel i gryningsbönen, bör man då slutföra den
-  genom att recitera med höjd röst? Svar: Man avgör själv. Det är dock bättre om
-  man slutför den tyst eftersom man kan ...
+description: 'Man avgör själv. Det är dock bättre om man slutför den tyst eftersom man kan tänkas störa någon annan om man reciterar med höjd röst.'
 ---
 
 **Fråga:** Om man missar en bönecykel i gryningsbönen, bör man då slutföra den genom att recitera med höjd röst?

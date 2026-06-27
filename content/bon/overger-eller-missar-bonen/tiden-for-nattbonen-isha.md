@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1272
-description: >-
-  Fråga: Denna fråga gäller tiden för nattbönen. Det finns olika åsikter om
-  när tiden för att be nattbönen går ut. Några säger att man kan be
-  nattbönen ända tills böneutropet för gryningsbönen ro...
+description: 'All lovprisan tillhör Allāh. Nattbönen måste bes innan midnatt. Det är inte tillåtet att fördröja den till midnatt eftersom profeten – över honom vare…'
 ---
 
 **Fråga:** Denna fråga gäller tiden för nattbönen. Det finns olika åsikter om när tiden för att be nattbönen går ut. Några säger att man kan be nattbönen ända tills böneutropet för gryningsbönen ropas ut, medan andra säger att den går ut vid *tahajjud*. Och slutligen tror några att vi ska ta antalet timmar mellan böneutropet för nattbönen och böneutropet för gryningsbönen och dela dem i hälften för att beräkna den sista tiden för nattbönen. Jag vet att bönen ska bes omgående och i tid. Att utan skäl fördröja en bön är inte uppmuntrat, men det vore ändå fördelaktigt att veta den exakta åsikten.

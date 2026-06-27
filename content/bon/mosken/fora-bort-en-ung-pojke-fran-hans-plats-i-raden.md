@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 1220
-description: >-
-  Fråga: Är det tillåtet att flytta en pojke från hans plats i raden? Svar: Den
-  korrekta åsikten är att det inte är tillåtet att flytta en pojke från hans plats
-  i raden. Detta enligt en hadīth fr...
+description: 'Den korrekta åsikten är att det inte är tillåtet att flytta en pojke från hans plats i raden.'
 ---
 
 **Fråga:** Är det tillåtet att flytta en pojke från hans plats i raden?

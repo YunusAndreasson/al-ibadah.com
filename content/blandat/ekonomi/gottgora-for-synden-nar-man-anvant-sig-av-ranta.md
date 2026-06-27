@@ -7,9 +7,7 @@ categories:
   - Blandat
   - Ekonomi
 original_id: 1646
-description: 'Fråga: En släkting till mig avled medan han handlade med ränta och
- nu vill vi gottgöra denna synd för hans räkning. Vilken är den föreskrivna metoden
- för att göra detta? Svar: För personens arvtag...'
+description: 'För personens arvtagare är det föreskrivet att försöka fundera ut hur mycket ränta som personen tog och sedan ge bort den summan i välgörenhet för…'
 ---
 
 **Fråga:** En släkting till mig avled medan han handlade med ränta och nu vill vi gottgöra denna synd för hans räkning. Vilken är den föreskrivna metoden för att göra detta?

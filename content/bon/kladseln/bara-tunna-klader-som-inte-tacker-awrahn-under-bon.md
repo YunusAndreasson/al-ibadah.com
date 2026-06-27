@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Klädsel i bönen
 original_id: 1493
-description: >-
-  Fråga: Tunna kläder har, speciellt under sommaren, blivit vanligt bland
-  muslimer. Vi ser ofta att folk ber i dem. Under bär de då korta underkläder
-  som endast täcker hälften eller en tredjedel av ...
+description: 'Muslimer är eniga om att ´awrah måste täckas i bönen och att man inte får be avklädd, oavsett om det gäller män eller kvinnor.'
 ---
 
 **Fråga:** Tunna kläder har, speciellt under sommaren, blivit vanligt bland muslimer. Vi ser ofta att folk ber i dem. Under bär de då korta underkläder som endast täcker hälften eller en tredjedel av låren. På samma sätt bär vissa korta västar som inte döljer det som finns under naveln. Som ni känner till är det ett villkor för att bönen ska accepteras att *´awrah* täcks. Täcker dessa klädesplagg *´awrah*? Vänligen, informera oss.

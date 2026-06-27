@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 94
-description: 'Fråga: Är det tillåtet att beskriva någon som ”den förlåtne” eller
- ”över den som det vilar nåd”? Svar: I tidningar har det dykt upp dödsannonser.
- […] De beskriver släktingar som ”förlåtna” el...'
+description: 'I tidningar har det dykt upp dödsannonser. […] De beskriver släktingar som ”förlåtna” eller ”över den som det vilar nåd”.'
 ---
 
 **Fråga:** Är det tillåtet att beskriva någon som ”den förlåtne” eller ”över den som det vilar nåd”?

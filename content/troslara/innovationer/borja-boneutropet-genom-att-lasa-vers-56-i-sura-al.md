@@ -6,9 +6,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 556
-description: 'Fråga: Är det bekräftat att profeten – över honom vare Allāhs frid
- och välsignelser – under sin livstid brukade börja böneutropet genom att läsa vers
- 56 i sura al-Ahzāb […] Svar: Detta har int...'
+description: 'Detta har inte bekräftats att profeten – över honom vare Allāhs frid och välsignelser – gjorde detta under sin livstid.'
 ---
 
 **Fråga:** Är det bekräftat att profeten – över honom vare Allāhs frid och välsignelser – under sin livstid brukade börja böneutropet genom att läsa vers 56 i sura al-Ahzāb […]

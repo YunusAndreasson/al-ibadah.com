@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1059
-description: 'Fråga: Vad är ett osant vittnesmål? Gör det fastan ogiltig? Svar: Osanna
- vittnesmål är en av de stora synderna. Detta innebär att man vittnar om något som
- man inte vet någonting om eller att m...'
+description: 'Osanna vittnesmål är en av de stora synderna. Detta innebär att man vittnar om något som man inte vet någonting om eller att man vittnar om något som man…'
 ---
 
 **Fråga:** Vad är ett osant vittnesmål? Gör det fastan ogiltig?

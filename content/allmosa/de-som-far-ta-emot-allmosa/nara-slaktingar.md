@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 1029
-description: 'Fråga: Vilket är utlåtandet om att betala allmosa till nära släktingar? Svar: Utlåtandet
- är att det inte är tillåtet för den som betalar allmosa att ge den till någon nära
- släkting som personen ä...'
+description: 'Utlåtandet är att det inte är tillåtet för den som betalar allmosa att ge den till någon nära släkting som personen är skyldig att försörja om det kommer…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att betala allmosa till nära släktingar?

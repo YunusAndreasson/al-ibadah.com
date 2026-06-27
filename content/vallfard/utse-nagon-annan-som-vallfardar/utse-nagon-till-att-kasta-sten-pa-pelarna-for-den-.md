@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsombud
 original_id: 790
-description: >-
-  Fråga: Vilket är utlåtandet om att utse någon till att kasta stenarna för den
-  som är sjuk, en kvinna eller ett barn? Svar: Det finns inget fel i att utse
-  någon annan som kastar stenarna på pel...
+description: 'Det finns inget fel i att utse någon annan som kastar stenarna på pelarna åt den som är sjuk, en kvinna som inte har möjlighet, en gravid kvinna eller en…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att utse någon till att kasta stenarna för den som är sjuk, en kvinna eller ett barn?

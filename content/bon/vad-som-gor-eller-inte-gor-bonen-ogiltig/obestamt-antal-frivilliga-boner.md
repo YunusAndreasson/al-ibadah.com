@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 304
-description: >-
-  Fråga: Är det tillåtet att be ett obestämt antal frivilliga böner? Svar:
-  Utlåtandet om detta är att man inte har frihet att välja ett visst antal
-  bönecykler efter egna önskemål. Anledningen är...
+description: 'Utlåtandet om detta är att man inte har frihet att välja ett visst antal bönecykler efter egna önskemål.'
 ---
 
 **Fråga:** Är det tillåtet att be ett obestämt antal frivilliga böner?

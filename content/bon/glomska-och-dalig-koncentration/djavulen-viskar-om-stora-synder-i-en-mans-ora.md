@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 1168
-description: >-
-  Fråga: Det finns en man som lider av djävulens viskningar. Djävulen viskar
-  saker till honom som är stora synder beträffande Allāh den Allsmäktige. Han är
-  mycket rädd för detta. Vilket är ert råd? ...
+description: 'Gällande det som har nämnts i frågan om frågeställarens problem, vilket är att han fruktar resultatet av detta, säger jag: Gläd dig åt de goda nyheterna…'
 ---
 
 **Fråga:** Det finns en man som lider av djävulens viskningar. Djävulen viskar saker till honom som är stora synder beträffande Allāh den Allsmäktige. Han är mycket rädd för detta. Vilket är ert råd?

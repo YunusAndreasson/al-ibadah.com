@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 1681
-description: >-
-  Fråga: Är denna hadīth autentisk: ”Olika åsikter i min nation är en nåd.”? [
-  Kanzul-'Ummal 28686 och Ittihaf-us-sunniyah 1:204,205] Svar: Nej, den är inte
-  autentisk. Den har avvisats av vi...
+description: 'Nej, den är inte autentisk. Den har avvisats av vissa salaf och saken är den att det inte ens är en ḥadīt̲h.'
 ---
 
 **Fråga:** Är denna *ḥadīt̲h* autentisk: ”Olika åsikter i min nation är en nåd.”? [^1]

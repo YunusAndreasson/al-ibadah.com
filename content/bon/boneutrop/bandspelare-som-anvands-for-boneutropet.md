@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 1158
-description: 'Fråga: Är det rätt att ropa ut till bön genom en bandspelare? Svar: Att
- ropa ut till bön genom en bandspelare är inte rätt. Böneutropet är ju dyrkan och
- dyrkan kräver intention.'
+description: 'Att ropa ut till bön genom en bandspelare är inte rätt. Böneutropet är ju dyrkan och dyrkan kräver intention.'
 ---
 
 **Fråga:** Är det rätt att ropa ut till bön genom en bandspelare?

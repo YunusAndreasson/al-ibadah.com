@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 558
-description: 'Fråga: Är det tillåtet att säga ” Audhū Billāhi minash-shaytānir-rajīm
- ” och ” Bismillāhir-Rahmānir-Rahīm ” före böneutropet? Svar: Vi känner inte
- till något som tillåter att man säger detta f...'
+description: 'Vi känner inte till något som tillåter att man säger detta före böneutropet, vare sig om det är böneutroparen eller den som hör honom.'
 ---
 
 **Fråga:** Är det tillåtet att säga ”*Audhū Billāhi minash-shaytānir-rajīm*” och ”*Bismillāhir-Rahmānir-Rahīm*” före böneutropet?

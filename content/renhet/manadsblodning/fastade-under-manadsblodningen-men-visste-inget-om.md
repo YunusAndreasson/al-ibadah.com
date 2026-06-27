@@ -7,9 +7,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 1035
-description: 'Fråga: En ung kvinna fick sin månadsblödning. På grund av okunnighet
- fastade hon under dessa dagar. Vad måste hon nu göra? Svar: Hon måste ta igen
- de dagar som hon fastade under sin månadsblöd...'
+description: 'Hon måste ta igen de dagar som hon fastade under sin månadsblödning. En fasta utförd under månadsblödningen accepteras inte.'
 ---
 
 **Fråga:** En ung kvinna fick sin månadsblödning. På grund av okunnighet fastade hon under dessa dagar. Vad måste hon nu göra?

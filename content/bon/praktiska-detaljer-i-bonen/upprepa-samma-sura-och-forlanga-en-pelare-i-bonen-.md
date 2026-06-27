@@ -11,10 +11,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 245
-description: >-
-  Fråga: Vilket är utlåtandet om att upprepa samma sura i bönen? Vilket är
-  utlåtandet om att förlänga nedfallandet mer än bugningen? Vilket är
-  utlåtandet om att göra en bönecykel längre än en anna...
+description: 'Det finns ingen invändan mot att upprepa samma sura inom en bönecykel men det motsäger vad som är passande.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att upprepa samma sura i bönen? Vilket är utlåtandet om att förlänga nedfallandet mer än bugningen? Vilket är utlåtandet om att göra en bönecykel längre än en annan?

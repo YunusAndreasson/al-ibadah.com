@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Amuletter och talismaner
 original_id: 40
-description: >-
-  Fråga: När någon lider av epilepsi går personen till någon arabisk helare som
-  talar med jinn och gör märkliga rörelser. Han ger patienten amuletter under en
-  tidsperiod och säger att personen är besatt...
+description: 'Det är inte farligt att behandla en epileptisk eller besatt person med Koran-verser och tillåtna mediciner, om den som behandlar patienterna är känd för…'
 ---
 
 **Fråga:** När någon lider av epilepsi går personen till någon arabisk helare som talar med *jinn* och gör märkliga rörelser. Han ger patienten amuletter under en tidsperiod och säger att personen är besatt, förtrollad eller något liknande. Sådana helare behandlar patienten och helar personen, men de tar emot pengar för detta. Vilket är utlåtandet om dessa handlingar? Och vilket är utlåtandet om att söka bot genom Koran-amuletter som sedan dränks i vatten för att drickas?

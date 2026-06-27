@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Undantag från fasta
 original_id: 1037
-description: >-
-  Fråga: En kvinna led av blodproppar och läkarna förbjöd henne att fasta.
-  Vilket är utlåtandet om detta? Svar: Allāh den Upphöjde säger: ”För att ge
-  människorna vägledning [inleddes] i mån...
+description: 'Allāh den Upphöjde säger: > ”För att ge människorna vägledning [inleddes] i månaden ramaḍān uppenbarelsen av Koranen i vilken vägledningen klargörs och en…'
 ---
 
 **Fråga:** En kvinna led av blodproppar och läkarna förbjöd henne att fasta. Vilket är utlåtandet om detta?

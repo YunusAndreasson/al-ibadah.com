@@ -6,10 +6,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 504
-description: >-
-  Fråga: Vi skulle vilja ha råd om vilka böcker om islamisk kunskap som är
-  nyttiga. Svar: ‘Aqīdah Thalāthat al-Usūl al-Qawā’id al-Arba’ah Kashf
-  al-Shubahāt ...
+description: '´aqīdah 1. Thalāthat al-Usūl 2. al-Qawā’id al-Arba’ah 3. Kashf al-Shubahāt 4. al-Tawḥīd Dessa fyra böcker är skrivna av s̲hayk̲h al-islām Muḥammad ibn ’Abd…'
 ---
 
 **Fråga:** Vi skulle vilja ha råd om vilka böcker om islamisk kunskap som är nyttiga.

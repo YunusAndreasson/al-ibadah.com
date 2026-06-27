@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 486
-description: >-
-  Fråga: Hur ska vi förlika oss med att īmān består av tron på: Allāh, Hans
-  änglar, Hans skrifter, Hans sändebud, den Yttersta dagen, det Förutbestämda
-  [både det bra och det dåliga] samtidigt so...
+description: 'All lovprisan tillhör Allāh. Det finns en sorts tro som grundas på sex grunder. Den omnämns i en ḥadīt̲h om [ängeln] Gabriel i vilken han frågar profeten –…'
 ---
 
 **Fråga:** Hur ska vi förlika oss med att *īmān* består av tron på: Allāh, Hans änglar, Hans skrifter, Hans sändebud, den Yttersta dagen, det Förutbestämda [både det bra och det dåliga] samtidigt som profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*īmān har 70 grenar*…”?

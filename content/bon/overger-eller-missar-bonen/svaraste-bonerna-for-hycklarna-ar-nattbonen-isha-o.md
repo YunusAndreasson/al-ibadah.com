@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1518
-description: >-
-  Fråga: Går det bra att sova över gryningsbönen och bör man be den när man
-  vaknar, enligt Sändebudets ord: ” Den som sover över en bön eller glömmer den
-  måste be den så fort han kommer ihåg. Då är ...
+description: 'En muslim måste anstränga sig mycket för att be alla böner i moskén med församlingen. Han måste vara noggrann med detta och undvika allt som hindrar honom…'
 ---
 
 **Fråga:** Går det bra att sova över gryningsbönen och bör man be den när man vaknar, enligt Sändebudets ord: ”*Den som sover över en bön eller glömmer den måste be den så fort han kommer ihåg. Då är tiden för den*”? Detta i vetskap om att jag har möjlighet att gå upp, men att det kommer att vara mycket mödosamt. Ber jag så kommer jag knappt att vara vid medvetande. Jag ber om en detaljerad förklaring av förtjänsten i gryningsbönen och om straffet för den som överger den.

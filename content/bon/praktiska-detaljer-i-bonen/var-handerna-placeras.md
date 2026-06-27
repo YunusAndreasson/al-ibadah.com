@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 265
-description: >-
-  Fråga: Brukade profeten lägga den högra handen på den vänstra? Svar: Det är
-  sunnah att lägga den högra handen över den vänstra underarmen, handleden eller
-  handen på bröstet vid recitationen,...
+description: 'Det är sunnah att lägga den högra handen över den vänstra underarmen, handleden eller handen på bröstet vid recitationen, när man står upp samt när man har…'
 ---
 
 **Fråga:** Brukade profeten lägga den högra handen på den vänstra?

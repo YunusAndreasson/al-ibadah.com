@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Förbjudna bönetider
 original_id: 1509
-description: >-
-  Fråga: Varför är det inte tillåtet att be sunnah eller andra böner efter
-  eftermiddagsbönen? Svar: Från ett antal följeslagare har det rapporterats att
-  profeten – över honom vare Allāhs frid ...
+description: 'Från ett antal följeslagare har det rapporterats att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Det finns ingen bön efter…'
 ---
 
 **Fråga:** Varför är det inte tillåtet att be *sunnah* eller andra böner efter eftermiddagsbönen?

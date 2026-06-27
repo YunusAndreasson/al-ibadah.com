@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1615
-description: >-
-  Fråga: Jag offrade inte något då mina barn fötts för jag hade inte råd. Vilket
-  är då utlåtandet? Svar: Så länge du inte hade möjlighet att göra detta krävs
-  inget av dig. Anledningen är att Allā...
+description: 'Så länge du inte hade möjlighet att göra detta krävs inget av dig. Anledningen är att Allāh har sagt: "Frukta därför Gud efter måttet av er förmåga." "Gud…'
 ---
 
 **Fråga:** Jag offrade inte något då mina barn fötts för jag hade inte råd. Vilket är då utlåtandet?

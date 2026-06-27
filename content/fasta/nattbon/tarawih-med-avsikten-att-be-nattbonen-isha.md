@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadanens nattbön
 original_id: 204
-description: >-
-  Fråga: En man kom till moskén och fann att de bad tarāwīh . Han var medveten
-  om detta. Kan han då be med dem men avse att be nattbönen eller bör han be
-  ensam? Svar: Det finns ingen synd i at...
+description: 'Det finns ingen synd i att be tillsammans med dem med avsikt att be nattbönen. Detta enligt den starkaste åsikten bland de lärde.'
 ---
 
 **Fråga:** En man kom till moskén och fann att de bad *tarāwīḥ*. Han var medveten om detta. Kan han då be med dem men avse att be nattbönen eller bör han be ensam?

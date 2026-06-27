@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 457
-description: >-
-  Fråga: Jag blev sjuk och det var plågsamt. Min mor tog mig till sjukhuset i
-  Mecka. När jag hade lagts in på sjukhuset gick två ramadan och jag var
-  fortfarande på samma sjukhus. Därefter flyttades ...
+description: 'Frågeställaren måste ta igen fastan från de båda omnämnda månaderna. Detta beror på den allmänna innebörden av Allāhs den Upphöjdes ord: "Men den som är…'
 ---
 
 **Fråga:** Jag blev sjuk och det var plågsamt. Min mor tog mig till sjukhuset i Mecka. När jag hade lagts in på sjukhuset gick två *ramaḍān* och jag var fortfarande på samma sjukhus. Därefter flyttades jag till Riyadh och jag blev inlagd på sjukhus en andra gång. *ramaḍān* kom och jag mådde bättre än innan så jag fastade. Inget återstod utom de två första månaderna [av fasta]. Frågan är: Är jag skyldig att fasta för dessa två månader i vetskap om att jag då fastar tre dagar varje månad eller är jag skyldig att ge till välgörenhet? […]

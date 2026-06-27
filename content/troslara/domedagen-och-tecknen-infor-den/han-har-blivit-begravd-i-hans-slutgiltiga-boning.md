@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Domedagen och dess tecken
 original_id: 1114
-description: >-
-  Fråga: Vilket är utlåtandet om att säga: ”Han har blivit begravd i hans
-  slutliga boning”? Svar: När någon säger: ” Han har blivit begravd i hans
-  slutliga boning” är det inte tillåtet därför at...
+description: 'När någon säger: ” Han har blivit begravd i hans slutliga boning” är det inte tillåtet därför att om du säger ”i hans slutliga boning” kräver det att…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att säga: ”Han har blivit begravd i hans slutliga boning”?

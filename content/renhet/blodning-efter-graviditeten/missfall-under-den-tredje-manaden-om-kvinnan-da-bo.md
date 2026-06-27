@@ -7,9 +7,7 @@ categories:
   - Renhet (Tahārah)
   - Efterblödning
 original_id: 1147
-description: 'Fråga: Bör en kvinna förrätta bön om hon får missfall under graviditetens
- tredje månad? Svar: Det är välkänt bland de lärda att när en kvinna får missfall
- efter tre månader så ber hon inte. D...'
+description: 'Det är välkänt bland de lärda att när en kvinna får missfall efter tre månader så ber hon inte.'
 ---
 
 **Fråga:** Bör en kvinna förrätta bön om hon får missfall under graviditetens tredje månad?

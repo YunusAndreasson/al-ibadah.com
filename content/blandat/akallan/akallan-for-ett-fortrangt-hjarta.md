@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Åkallan
 original_id: 699
-description: >-
-  Fråga: Vilken är den bästa åkallan man kan göra om man känner att ens hjärta
-  är förträngt? Svar: Att undanröja vedermödor och öppna en människas bröst
-  ligger i Allāhs den Allsmäktiges händer a...
+description: 'Att undanröja vedermödor och öppna en människas bröst ligger i Allāhs den Allsmäktiges händer allena.'
 ---
 
 **Fråga:** Vilken är den bästa åkallan man kan göra om man känner att ens hjärta är förträngt?

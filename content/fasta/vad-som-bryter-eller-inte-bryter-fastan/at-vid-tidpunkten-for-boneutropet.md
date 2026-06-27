@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1394
-description: >-
-  Fråga: Vilket är utlåtandet om fastan för den som hörde böneutropet för
-  gryningsbönen och sedan fortsatte att äta eller dricka? Svar: Den troende
-  måste avstå från det som bryter fastan, som bl...
+description: 'Den troende måste avstå från det som bryter fastan, som bland annat mat och dryck, när det blir klart att tiden för gryningsbönen har kommit och fastan har…'
 ---
 
 **Fråga:** Vilket är utlåtandet om fastan för den som hörde böneutropet för gryningsbönen och sedan fortsatte att äta eller dricka?

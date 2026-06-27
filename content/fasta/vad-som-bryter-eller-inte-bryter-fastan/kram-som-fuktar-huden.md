@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 419
-description: 'Fråga: Är den kräm som fuktar huden skadlig för fastan om det är den
- sorten som hindrar vatten från att nå huden? Svar: Om det finns ett behov är
- det ingen fara att använda hudkräm medan man f...'
+description: 'Om det finns ett behov är det ingen fara att använda hudkräm medan man fastar. Utan tvekan fuktar krämen enbart den yttre huden.'
 ---
 
 **Fråga:** Är den kräm som fuktar huden skadlig för fastan om det är den sorten som hindrar vatten från att nå huden?

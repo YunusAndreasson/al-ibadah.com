@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Strykning över strumpor
 original_id: 1445
-description: >-
-  Fråga: Är tiden då sockarna får vara kvar på fötterna begränsad till en dag
-  och en natt eller till fem böner? Om någon är rituellt ren och ber mer än fem
-  böner och börjar med att stryka över socka...
+description: 'Profeten – över honom vare Allāhs frid och välsignelser – begränsade tiden för att stryka över sockarna till tre dagar och nätter för den som reser och en…'
 ---
 
 **Fråga:** Är tiden då sockarna får vara kvar på fötterna begränsad till en dag och en natt eller till fem böner? Om någon är rituellt ren och ber mer än fem böner och börjar med att stryka över sockarna vid nattbönen, sedan gryningsbönen, middagsbönen, eftermiddagsbönen och kvällsbönen; sedan kommer tiden för nattbönen och tvagningen från hans bön vid kvällsbönen är fortfarande intakt, kan han då be nattbönen med tvagning från kvällsbönen eller bör han ta av sockarna och tvaga sig igen?

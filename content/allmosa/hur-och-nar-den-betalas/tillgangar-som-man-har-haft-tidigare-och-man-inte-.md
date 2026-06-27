@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Betalningstid
 original_id: 645
-description: 'Fråga: Hur betalar jag allmosa om jag inte vet hur mycket jag ska
-  betala sedan tidigare? Svar: Det är välkänt att allmosa är en av islams pelare.
-  Den är en skyldighet att betala om man har t...'
+description: 'Det är välkänt att allmosa är en av islams pelare. Den är en skyldighet att betala om man har tillgångar.'
 ---
 
 **Fråga:** Hur betalar jag allmosa om jag inte vet hur mycket jag ska betala sedan tidigare?

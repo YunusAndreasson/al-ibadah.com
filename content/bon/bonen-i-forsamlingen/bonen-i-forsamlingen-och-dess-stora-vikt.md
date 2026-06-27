@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 1232
-description: >-
-  Fråga: Vilket är utlåtandet om bönen i församlingen? Svar: De lärde är eniga
-  om att detta är en av de största handlingarna av lydnad, en av de mest
-  bekräftade och en av de bästa. Allāh den Upp...
+description: 'De lärde är eniga om att detta är en av de största handlingarna av lydnad, en av de mest bekräftade och en av de bästa.'
 ---
 
 **Fråga:** Vilket är utlåtandet om bönen i församlingen?

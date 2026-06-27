@@ -10,10 +10,7 @@ categories:
   - Vallfärd (Hajj)
   - Arafat
 original_id: 845
-description: >-
-  Fråga: Efter Arafat under min vallfärd detta år så begav jag mig till
-  Muzdalifah och spenderade natten där. Jag glömde dock att gå till
-  al-Mas̲h'aril-Harām. Har jag syndat? Svar: Du har inte sy...
+description: 'Du har inte syndat om du spenderade natten någonstans i Muzdalifah och det är ingen fara om du inte gick till al-Mas̲h´aril-Harām [det Heliga området].'
 ---
 
 **Fråga:** Efter *´Arafāt* under min vallfärd detta år så begav jag mig till *Muzdalifah* och spenderade natten där. Jag glömde dock att gå till al-Mas̲h´aril-Harām. Har jag syndat?

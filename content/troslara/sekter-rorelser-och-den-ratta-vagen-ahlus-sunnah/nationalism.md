@@ -8,9 +8,7 @@ categories:
   - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 144
-description: 'Fråga: Vilken är er åsikt om förespråkandet för nationalism, som säger
- att det är viktigare att tillhöra en ras eller ett språk än att tillhöra en religion?
- Dessa grupper påstår att de inte är emo...'
+description: 'Detta är ett okunnigt förespråkande. Det är inget att befatta sig med och de som kallar till det ska inte uppmuntras till det.'
 ---
 
 **Fråga:** Vilken är er åsikt om förespråkandet för nationalism, som säger att det är viktigare att tillhöra en ras eller ett språk än att tillhöra en religion? Dessa grupper påstår att de inte är emot religionen men de anser att nationalism är viktigare. Vilken är din åsikt om detta påstående?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nedfallan vid recitation
 original_id: 282
-description: >-
-  Fråga: Hur gör man sajdatut-tilawah och hur många taslīm bör man recitera i
-  den? Svar: Sajdatut-tilawah är som nedfallandet under bönen. Det är att
-  föredra att stå rakt för att sedan ne...
+description: 'sujūd at-tilāwah är som nedfallandet under bönen. Det är att föredra att stå rakt för att sedan nedfalla på sju kroppsdelar [pannan, näsan, händerna, knäna…'
 ---
 
 **Fråga:** Hur gör man *sujūd at-tilāwah* och hur många *taslīm* bör man recitera i den?

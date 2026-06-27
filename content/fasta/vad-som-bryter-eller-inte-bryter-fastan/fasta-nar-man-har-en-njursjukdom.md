@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 440
-description: >-
-  Fråga: Jag lider av en njursjukdom och läkarna har gett mig rådet att inte
-  fasta. Jag lyder dock inte vad de säger. Därför fastar jag men smärtan ökar
-  då. Syndar jag om jag bryter fastan och vilken...
+description: 'När fastan blir för svår för dig och den förvärrar sjukdomen och en muslimsk doktor som är känd för att ha rätt informerar dig om att fastan är skadlig för…'
 ---
 
 **Fråga:** Jag lider av en njursjukdom och läkarna har gett mig rådet att inte fasta. Jag lyder dock inte vad de säger. Därför fastar jag men smärtan ökar då. Syndar jag om jag bryter fastan och vilken är då gottgörelsen?

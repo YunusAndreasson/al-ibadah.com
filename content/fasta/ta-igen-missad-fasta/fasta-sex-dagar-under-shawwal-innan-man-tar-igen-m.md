@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ikappfasta
 original_id: 1406
-description: >-
-  Fråga: Är det tillåtet att fasta sex dagar i s̲hawwāl innan man tar igen de
-  dagar som man missade under ramaḍān? Är det tillåtet att fasta måndagar i
-  s̲hawwāl med avsikten att ta igen fastan under r...
+description: 'Belöningen för att fasta sex dagar under månaden s̲hawwāl kan inte uppnås om inte den fastande har fullbordat fastan under ramaḍān.'
 ---
 
 **Fråga:** Är det tillåtet att fasta sex dagar i *s̲hawwāl* innan man tar igen de dagar som man missade under *ramaḍān*? Är det tillåtet att fasta måndagar i *s̲hawwāl* med avsikten att ta igen fastan under *ramaḍān* och med avsikten att få belöningen för att fasta under måndagar?

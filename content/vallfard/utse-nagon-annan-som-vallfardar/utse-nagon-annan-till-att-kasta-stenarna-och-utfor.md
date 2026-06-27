@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsombud
 original_id: 794
-description: >-
-  Fråga: Vilket är utlåtandet om en person som utser någon annan som kastar sten
-  på pelarna under den andra dagen [under ayyām at-tas̲hrīq ]? Vilket är
-  utlåtandet om den som utser någon annan till a...
+description: 'Om den som utser någon annan inte kan kasta stenarna själv och den utsedde är en ansvarsfull person som vallfärdar, och den som utser uppriktigt försöker…'
 ---
 
 **Fråga:** Vilket är utlåtandet om en person som utser någon annan som kastar sten på pelarna under den andra dagen [under *ayyām at-tas̲hrīq*]? Vilket är utlåtandet om den som utser någon annan till att utföra *ṭawāf ul-wadā´*[^1] och som sedan beger sig till sitt hemland? Är det tillåtet? Detta i vetskap om att den utsedde är ung.

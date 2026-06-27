@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 342
-description: 'Fråga: Är det då tillåtet att slå ihop och förkorta bönen om man färdas
- 100 km till en annan stad? Svar: Reser han 100 km eller däromkring från sin
- hemstad, då får han använda sig av utlåtande...'
+description: 'Reser han 100 km eller däromkring från sin hemstad, då får han använda sig av utlåtandena som gäller en resenär.'
 ---
 
 **Fråga:** Är det då tillåtet att slå ihop och förkorta bönen om man färdas 100 km till en annan stad?

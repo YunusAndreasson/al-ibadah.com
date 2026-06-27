@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 115
-description: >-
-  Fråga: Hur lyder historien om Zaid bin Harithah och hans giftermål med Zainab,
-  som profeten – över honom vare Allāhs frid och välsignelser – sedan gifte sig
-  med efter honom? Hur började och slutad...
+description: 'Zaid, som var son till Harithah bin Sharahil al-Kalbi, var Allāhs sändebuds slav som han hade släppt fri och tagit som son.'
 ---
 
 **Fråga:** Hur lyder historien om Zaid bin Harithah och hans giftermål med Zainab, som profeten – över honom vare Allāhs frid och välsignelser – sedan gifte sig med efter honom? Hur började och slutade deras giftermål? Vi frågar då vi har hört att somliga i arabländer påstår att profeten – över honom vare Allāhs frid och välsignelser – var förälskad i Zainab och även andra historier som jag inte kan förmå mig själv att berätta. Vänligen, klargör detta för mig.

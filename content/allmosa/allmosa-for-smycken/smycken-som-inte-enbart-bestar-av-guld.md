@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Allmosa för smycken
 original_id: 624
-description: >-
-  Fråga: Hur betalar man allmosa för smycken som inte är enbart guld? De är
-  dekorerade med ett antal juveler och ädelstenar. Räknar man med juvelernas och
-  ädelstenars vikt tillsammans med guldet, då...
+description: 'Det är guldet som allmosan är obligatorisk för, även om de bärs. Ädelstenar som pärlor, diamanter och liknande krävs det ingen allmosa för.'
 ---
 
 **Fråga:** Hur betalar man allmosa för smycken som inte är enbart guld? De är dekorerade med ett antal juveler och ädelstenar. Räknar man med juvelernas och ädelstenars vikt tillsammans med guldet, då det är svårt att separera guldet från dem?

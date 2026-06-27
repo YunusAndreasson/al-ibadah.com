@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Ekonomi
 original_id: 1644
-description: >-
-  Fråga: Jag hade en summa och placerade den i en bank. En tid gick – låt oss
-  säga ett år – och sedan fick jag pengarna och de hade ökat tio procent i
-  värde. Jag kände inte till att detta var en ränta som inte är godkänd...
+description: 'Du måste ångra dig för vad du har använt av den ränta som bankerna har gett dig och kallat för något annat [än ränta].'
 ---
 
 **Fråga:** Jag hade en summa och placerade den i en bank. En tid gick – låt oss säga ett år – och sedan fick jag pengarna och de hade ökat tio procent i värde. Jag kände inte till att detta var en ränta som inte är godkänd. Jag spenderade hela summan, intäkten som jag hade tjänat, och resten fick vara kvar på banken. Kan jag då ge denna summa i välgörenhet från mina egna pengar som jag lagligt förtjänat och får jag resa för att ge mina kvinnliga kusiner som är gifta och i behov av dessa pengar? De bor i ett område som ligger långt bort.

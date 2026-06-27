@@ -4,10 +4,7 @@ author: al-Ladjnah ad-Dā’imah (Den Permanenta Fatwa-kommittén)
 categories:
   - Fasta (Sawm)
 original_id: 1277
-description: >-
-  Fråga: Om någon fastar och ber enbart under ramadan, men slutar att be så fort
-  ramadan är över, är personens fasta då giltig? Svar: All lovprisan tillhör Allāh.
-  Bönen är en av islams pelare och d...
+description: 'All lovprisan tillhör Allāh. Bönen är en av islams pelare och det är den viktigaste pelaren efter trosbekännelsen. Den är även en individuell skyldighet.'
 ---
 
 **Fråga:** Om någon fastar och ber enbart under *ramaḍān*, men slutar att be så fort *ramaḍān* är över, är personens fasta då giltig?

@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 668
-description: >-
-  Fråga: Om en muslim begår en handling som tar honom ur islam, en handling som
-  gör honom till en avfälling, och han sedan ångrar sig inför Allāh – förtjänar
-  han då straffet för en avfälling eller ä...
+description: 'Lämnar en person islam för att sedan återvända är det inte tillåtet att straffa honom. Anledningen är att straffet för den som lämnar islam endast är…'
 ---
 
 **Fråga:** Om en muslim begår en handling som tar honom ur islam, en handling som gör honom till en avfälling, och han sedan ångrar sig inför Allāh – förtjänar han då straffet för en avfälling eller är hans ånger tillräcklig? Vad gäller om han bor i ett land som inte tillämpar den islamska lagen?

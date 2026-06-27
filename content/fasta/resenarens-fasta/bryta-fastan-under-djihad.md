@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Resenärens fasta
 original_id: 445
-description: >-
-  Fråga: Får de som strider mot fienden bryta fastan under ramadan och ta igen
-  dem efteråt? Svar: Om de som strider mot de icke-troende är på resande fot och
-  får förkorta bönen, då får de bryta ...
+description: 'Om de som strider mot de icke-troende är på resande fot och får förkorta bönen, då får de bryta fastan och de måste ta igen fastan efter ramaḍān.'
 ---
 
 **Fråga:** Får de som strider mot fienden bryta fastan under *ramaḍān* och ta igen dem efteråt?

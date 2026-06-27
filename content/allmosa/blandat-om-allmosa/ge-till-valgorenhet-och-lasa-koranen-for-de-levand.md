@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Övrigt
 original_id: 62
-description: >-
-  Fråga: Är det tillåtet att ge till välgörenhet för sina föräldrars räkning när
-  de fortfarande är vid liv? Får man recitera Koranen för deras räkning? Om så
-  är fallet, är det tillräckligt om man ba...
+description: 'Det är tillåtet att ge till välgörenhet för sina föräldrar eller för någon annans räkning, oavsett om de lever eller har gått bort.'
 ---
 
 **Fråga:** Är det tillåtet att ge till välgörenhet för sina föräldrars räkning när de fortfarande är vid liv? Får man recitera Koranen för deras räkning? Om så är fallet, är det tillräckligt om man bara avser att göra det för en av dem?

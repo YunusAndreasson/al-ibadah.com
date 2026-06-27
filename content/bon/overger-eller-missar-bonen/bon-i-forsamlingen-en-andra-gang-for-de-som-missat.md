@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1520
-description: >-
-  Fråga: Får de som kommer sent till bönen i församlingen, och som finner att
-  bönen redan är över, forma en andra församling? Svar: Den som kom till moskén
-  och fann att församlingen redan hade b...
+description: 'Den som kom till moskén och fann att församlingen redan hade bett med den vanlige imamen, eller med en annan imam, bör be den i församling med andra som…'
 ---
 
 **Fråga:** Får de som kommer sent till bönen i församlingen, och som finner att bönen redan är över, forma en andra församling?

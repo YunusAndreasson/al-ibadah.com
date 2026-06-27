@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Fasteplikt
 original_id: 478
-description: 'Fråga: Vad finns det för villkor för att ett barns fasta ska vara
- korrekt? Är det sant att barnets fasta är för föräldrarna? Svar: Det är föreskrivet
- att föräldrarna vänjer sina barn vid at...'
+description: 'Det är föreskrivet att föräldrarna vänjer sina barn vid att fasta när de är unga om de har möjlighet att göra så. Detta gäller även om de är under tio år.'
 ---
 
 **Fråga:** Vad finns det för villkor för att ett barns fasta ska vara korrekt? Är det sant att barnets fasta är för föräldrarna?

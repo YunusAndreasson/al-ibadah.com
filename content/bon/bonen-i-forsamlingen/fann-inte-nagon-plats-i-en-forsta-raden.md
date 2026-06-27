@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 195
-description: >-
-  Fråga: Vad gäller den som har gått in i moskén och inte funnit någon plats i
-  den första raden? Får personen dra bak någon från den första raden? Svar: Om en
-  man gick in i moskén, fann att raden v...
+description: 'Om en man gick in i moskén, fann att raden var full och inte kunde hitta någon plats i den, då måste han vänta tills han finner en plats eller någon annan…'
 ---
 
 **Fråga:** Vad gäller den som har gått in i moskén och inte funnit någon plats i den första raden? Får personen dra bak någon från den första raden?

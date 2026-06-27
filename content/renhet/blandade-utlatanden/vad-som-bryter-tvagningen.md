@@ -6,10 +6,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 505
-description: >-
-  Fråga: Bryter jag min tvagning om jag byter kläder? Är det någon skillnad i
-  detta utlåtande mellan män och kvinnor? Svar: All lovprisan tillhör Allāh. Att
-  byta kläder bryter inte ens tvagning ...
+description: 'All lovprisan tillhör Allāh. Att byta kläder bryter inte ens tvagning om man är rituellt ren och inte gör något som bryter ens tvagning.'
 ---
 
 **Fråga:** Bryter jag min tvagning om jag byter kläder? Är det någon skillnad i detta utlåtande mellan män och kvinnor?

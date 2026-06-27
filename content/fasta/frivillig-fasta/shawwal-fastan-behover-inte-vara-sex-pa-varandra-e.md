@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 1417
-description: >-
-  Fråga: Behöver man fasta de sex dagarna i s̲hawwāl i rad? Svar: Sexdagarsfastan
-  under s̲hawwāl är en bekräftad sunnah från Allāhs sändebud. Det är tillåtet att
-  fasta dem både i följd och enski...
+description: 'Sexdagarsfastan under s̲hawwāl är en bekräftad sunnah från Allāhs sändebud. Det är tillåtet att fasta dem både i följd och enskilt.'
 ---
 
 **Fråga:** Behöver man fasta de sex dagarna i *s̲hawwāl* i rad?

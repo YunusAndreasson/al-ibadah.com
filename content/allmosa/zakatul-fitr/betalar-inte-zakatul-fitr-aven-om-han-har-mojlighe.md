@@ -5,10 +5,7 @@ categories:
   - Allmosa (Zakāh)
   - Fasteallmosa
 original_id: 1604
-description: >-
-  Fråga: Vilket är utlåtandet om den som har möjlighet att betala zakātul-fiṭr
-  men som ändå inte gör det? Svar: All lovprisan tillhör Allāh. Den som inte
-  betalar zakātul-fiṭr måste ångra sig...
+description: 'All lovprisan tillhör Allāh. Den som inte betalar zakātul-fiṭr måste ångra sig inför Allāh och söka Hans förlåtelse då han syndar genom att hålla den inne.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som har möjlighet att betala *zakātul-fiṭr* men som ändå inte gör det?

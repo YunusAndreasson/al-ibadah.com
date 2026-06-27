@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
 original_id: 1102
-description: >-
-  Fråga: Vilket är utlåtandet om att bygga något över gravar? Svar: Att bygga
-  något över gravar är förbjudet. Profeten – över honom vare Allāhs frid och
-  välsignelser – förbjöd det eftersom det i...
+description: 'Att bygga något över gravar är förbjudet. Profeten – över honom vare Allāhs frid och välsignelser – förbjöd det eftersom det innebär ett lovprisande av dem…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att bygga något över gravar?

@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 999
-description: >-
-  Fråga: Om någon har bett fredagsbönen, bör personen då även be middagsbönen?
-  Svar: Om någon har bett fredagsbönen är detta den obligatoriska bönen vid
-  denna tidpunkt [middagsbönen]. Följaktligen ...
+description: 'Om någon har bett fredagsbönen är detta den obligatoriska bönen vid denna tidpunkt [middagsbönen]. Följaktligen bör personen inte be middagsbönen.'
 ---
 
 **Fråga:** Om någon har bett fredagsbönen, bör personen då även be middagsbönen?

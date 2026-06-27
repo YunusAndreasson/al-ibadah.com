@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - 'Jinn, magi och det onda ögat'
 original_id: 38
-description: >-
-  Fråga: Somliga påstår att de kan hela sjuka. När jag besökte en av dem sade
-  han till mig: ”Skriv ditt samt din moders namn och kom till mig imorgon.” När
-  jag kom till honom nästa dag sade han: ”Du...
+description: 'Det är uppenbart att den som använder detta för healing har samröre med jinn. Personen påstår sig också ha kunskap om det som är dolt för människor.'
 ---
 
 **Fråga:** Somliga påstår att de kan hela sjuka. När jag besökte en av dem sade han till mig: ”Skriv ditt samt din moders namn och kom till mig imorgon.” När jag kom till honom nästa dag sade han: ”Du lider av den och den sjukdomen och ditt botemedel är det och det.” En av dem påstod att han använde Allāhs ord för att läka. Vad anser du om dem? Vilket är utlåtandet om att fråga dem om saker?

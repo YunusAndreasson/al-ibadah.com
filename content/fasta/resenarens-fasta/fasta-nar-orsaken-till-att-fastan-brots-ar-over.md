@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Resenärens fasta
 original_id: 446
-description: >-
-  Fråga: Om jag reste och jag bröt min fasta under denna resa och jag sedan
-  under en av dagarna återvände till min familj innan tiden för
-  eftermiddagsbönen, är det då en skyldighet för mig att avstå...
+description: 'Ja, att avstå [från mat och dryck] är en skyldighet för den vars anledning för att bryta fastan är över.'
 ---
 
 **Fråga:** Om jag reste och jag bröt min fasta under denna resa och jag sedan under en av dagarna återvände till min familj innan tiden för eftermiddagsbönen, är det då en skyldighet för mig att avstå [från mat och dryck] eller bryter jag min fasta?

@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Strykning över strumpor
 original_id: 345
-description: >-
-  Fråga: Vad behöver man inte göra under resor? Svar: Det finns fyra saker som
-  en resenär tillåts: Be böner med fyra bönecykler som två. Bryta fastan under
-  ramadan. Stryka ...
+description: 'Det finns fyra saker som en resenär tillåts: 1. Be böner med fyra bönecykler som två. 2. Bryta fastan under ramaḍān. 3.'
 ---
 
 **Fråga:** Vad behöver man inte göra under resor?

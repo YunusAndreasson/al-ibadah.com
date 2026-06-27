@@ -7,10 +7,7 @@ source: >-
 categories:
   - Allmosa (Zakāh)
 original_id: 480
-description: >-
-  Fråga: Är allmosan ädlare under ramadan [...]? Svar: Allmosa är som alla
-  former av gott handlande ädlare under ädla tidpunkter. Men när allmosan blir
-  till en skyldighet och föremålet har varit...
+description: 'Allmosa är som alla former av gott handlande ädlare under ädla tidpunkter. Men när allmosan blir till en skyldighet och föremålet har varit i ens ägo under…'
 ---
 
 **Fråga:** Är allmosan ädlare under *ramaḍān* […]?

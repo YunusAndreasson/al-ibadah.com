@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Amuletter och talismaner
 original_id: 33
-description: >-
-  Fråga: Det finns somliga som gör amuletter till sjuka, galningar och
-  psykiatripatienter och i dem innefattas delar av Koranen och profetens – över
-  honom vare Allāhs frid och välsignelser – sunnah...
+description: 'Profeten – över honom vare Allāhs frid och välsignelser – tillät besvärjelser med recitation ifrån Koranen samt åkallan – så länge de inte innehöll s̲hirk…'
 ---
 
 **Fråga:** Det finns somliga som gör amuletter till sjuka, galningar och psykiatripatienter och i dem innefattas delar av Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. Vi går aldrig i godo för att de har sunda trosprinciper. Vi rådde dem att inte göra så men de lyssnade inte utan sade: "Vi skriver endast vad som finns i Allāhs skrift och i Hans sändebuds *sunnah*, vilket inte är förbjudet."

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Övrigt
 original_id: 187
-description: >-
-  Fråga: Varför reciterar man med höjd röst under kvällsbönen, nattbönen
-  och gryningsbönen men inte under de andra bönerna? Vilket är beviset för
-  detta? Svar: Allāh den Upphöjde känner bäst ti...
+description: 'Allāh den Upphöjde känner bäst till visdomen i att föreskriva recitation med höjd röst i dessa böner.'
 ---
 
 **Fråga:** Varför reciterar man med höjd röst under kvällsbönen, nattbönen och gryningsbönen men inte under de andra bönerna? Vilket är beviset för detta?

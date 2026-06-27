@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 1062
-description: >-
-  Fråga: Fastar en dag och bryter fastan nästa, sedan blir fastedagen en fredag
-  – går det då bra att fasta? Svar: Ja, om personen fastar en dag och bryter den
-  nästa dag, då är det tillåtet att fas...
+description: 'Ja, om personen fastar en dag och bryter den nästa dag, då är det tillåtet att fasta under en ensam fredag, lördag, söndag eller någon annan dag så länge…'
 ---
 
 **Fråga:** Fastar en dag och bryter fastan nästa, sedan blir fastedagen en fredag – går det då bra att fasta?

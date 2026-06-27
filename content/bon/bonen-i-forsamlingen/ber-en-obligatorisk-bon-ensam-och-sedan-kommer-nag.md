@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 324
-description: >-
-  Fråga: En person ber en obligatorisk bön ensam och medan han gör så kommer ett
-  antal människor in i moskén. De gör takbīr och börjar be i församling. Bör han
-  avbryta sin bön eller ändra avsikten...
+description: 'Det är bättre att göra det till en frivillig bön och sedan börja be med dem som ber gemensamt. Syftet är att få belöningen för att be med församlingen.'
 ---
 
 **Fråga:** En person ber en obligatorisk bön ensam och medan han gör så kommer ett antal människor in i moskén. De gör *takbīr* och börjar be i församling. Bör han avbryta sin bön eller ändra avsikten till en frivillig bön, för att han ska kunna be med dem?

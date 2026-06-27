@@ -7,10 +7,7 @@ source: >-
 categories:
   - Blandat
 original_id: 681
-description: >-
-  Fråga: Vad hindrar att ens åkallan besvaras och vilka är tidpunkterna då man
-  kan få svar? Svar: Först och främst bör vi känna till att åkallan är dyrkan
-  som för en närmare Allāh. Anledningen t...
+description: 'Först och främst bör vi känna till att åkallan är dyrkan som för en närmare Allāh. Anledningen till detta är att då vi åkallar Allāh erkänner vi inte…'
 ---
 
 **Fråga:** Vad hindrar att ens åkallan besvaras och vilka är tidpunkterna då man kan få svar?

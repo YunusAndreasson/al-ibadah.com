@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 113
-description: >-
-  Fråga: Vilket är utlåtandet om att fira al-isrā’ wal-mi’raj med åminnelse av
-  Allāh? Svar: Att fira al-isrā’ wal-mi’raj -natten, vilket somliga gör, under
-  den 27:e natten i rajab saknar g...
+description: 'Att fira al-isrā’ wal-mi''raj-natten, vilket somliga gör, under den 27:e natten i rajab saknar grund.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att fira *al-isrā’ wal-mi'raj* med åminnelse av Allāh?

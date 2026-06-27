@@ -8,9 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadanbedjare
 original_id: 404
-description: 'Fråga: Jag har sett en del unga muslimer fasta men de ber inte. Accepteras
- fastan från den som fastar utan att be? Jag har hört en del predikanter säga till
- dessa ungdomar att de ska bryta sitt...'
+description: 'Den som bönen är en skyldighet för och som avsiktligen överger den och avvisar att den är en skyldighet, personen har begått otro enligt en majoritet av de…'
 ---
 
 **Fråga:** Jag har sett en del unga muslimer fasta men de ber inte. Accepteras fastan från den som fastar utan att be? Jag har hört en del predikanter säga till dessa ungdomar att de ska bryta sitt fastande och inte göra det mer, då den som inte ber inte har någon fasta.

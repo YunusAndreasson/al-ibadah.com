@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Åkallan
 original_id: 1170
-description: >-
-  Fråga: Hur kan man åkalla och inte bli besvarad när Allāh säger: "Er Herre
-  säger: 'Be till Mig, så ska Jag besvara er [bön]." [Koranen 40:60]? Svar: All
-  lovprisan och tacksamhet tillhör Allā...
+description: 'All lovprisan och tacksamhet tillhör Allāh – världarnas Herre – som jag ber ska sända frid och välsignelser över profeten – över honom vare Allāhs frid och…'
 ---
 
 **Fråga:** Hur kan man åkalla och inte bli besvarad när Allāh säger: "Er Herre säger: 'Be till Mig, så ska Jag besvara er [bön]." [^1]?

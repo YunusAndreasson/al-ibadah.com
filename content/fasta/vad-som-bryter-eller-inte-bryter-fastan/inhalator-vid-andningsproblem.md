@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1045
-description: 'Fråga: Vilket är utlåtandet om den fastande som på grund av andningsproblem
- använder en inhalator? Bryter detta fastan? Svar: Denna spray är sönderdelad
- och når inte magen. I detta fall säger v...'
+description: 'Denna spray är sönderdelad och når inte magen. I detta fall säger vi att det inte finns någon invändan mot att använda den under fastan.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den fastande som på grund av andningsproblem använder en inhalator? Bryter detta fastan?

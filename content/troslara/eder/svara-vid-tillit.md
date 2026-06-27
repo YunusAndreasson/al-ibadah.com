@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Eder
 original_id: 102
-description: 'Fråga: Är det tillåtet att svära vid ” amanatullah ”? Vad anser islam
- om den som spelar schack, backgammon eller domino? Svar: Det är inte tillåtet
- att svära vid tillit. Buraidah har berättat ...'
+description: 'Det är inte tillåtet att svära vid tillit. Buraidah har berättat att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Den som svär vid…'
 ---
 
 **Fråga:** Är det tillåtet att svära vid ”*amanatullah*”? Vad anser islam om den som spelar schack, backgammon eller domino?

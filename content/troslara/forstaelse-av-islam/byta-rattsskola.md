@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 147
-description: >-
-  Fråga: Är de rättsskolor som ahlus-sunnah wal-jamā’at tillåter endast fyra?
-  Vilket är utlåtandet om att tillhöra en viss rättsskola? Är det tillåtet att
-  byta rättsskola? Svar: Rättsskolorna ...
+description: 'Rättsskolorna kom till under islams första tid. Imamernas åsikter och utlåtanden blev välkända och folk följde dem och det korrekta i det som de följde var…'
 ---
 
 **Fråga:** Är de rättsskolor som *ahlus-sunnah[^1] wal-jamā’at* tillåter endast fyra? Vilket är utlåtandet om att tillhöra en viss rättsskola? Är det tillåtet att byta rättsskola?

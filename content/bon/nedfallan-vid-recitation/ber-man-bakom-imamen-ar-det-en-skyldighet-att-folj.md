@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nedfallan vid recitation
 original_id: 243
-description: >-
-  Fråga: Får man göra sajdatut-tilawah bakom imamen, om imamen reciterar en vers
-  i vilken det finns sajdatut-tilawah och imamen själv inte nedfaller? Svar:
-  Den som leds i bön måste följa i...
+description: 'Den som leds i bön måste följa imamens rörelser. Nedfaller imamen, då gör han likadant och nedfaller inte imamen, då gör han det inte heller.'
 ---
 
 **Fråga:** Får man göra *sujūd at-tilāwah* bakom imamen, om imamen reciterar en vers i vilken det finns *sujūd at-tilāwah* och imamen själv inte nedfaller?

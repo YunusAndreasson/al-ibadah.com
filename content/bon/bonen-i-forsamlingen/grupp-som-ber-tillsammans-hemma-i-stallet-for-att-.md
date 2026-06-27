@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 1233
-description: >-
-  Fråga: Ett antal personer bor på en plats. Får de då be i församling där [i
-  hemmet] eller måste de gå till moskén? Svar: De måste be i moskén. Den som
-  befinner sig nära en moské är skyldig att...
+description: 'De måste be i moskén. Den som befinner sig nära en moské är skyldig att be i den. En individ eller en grupp får inte be i hemmet.'
 ---
 
 **Fråga:** Ett antal personer bor på en plats. Får de då be i församling där [i hemmet] eller måste de gå till moskén?

@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 442
-description: >-
-  Fråga: Under den välsignade fastemånaden hörde jag en fredagspredikant i
-  moskén ge tillstånd till de anställda som har ett ansträngande arbete och som
-  inte har någon annan inkomst att bryta fastan...
+description: 'För den som är tillräknelig är det inte tillåtet att dagtid under ramaḍān bryta fastan enbart på grund av arbetet.'
 ---
 
 **Fråga:** Under den välsignade fastemånaden hörde jag en fredagspredikant i moskén ge tillstånd till de anställda som har ett ansträngande arbete och som inte har någon annan inkomst att bryta fastan. Han sade att den anställde då skulle ge en fattig mat för varje dag under *ramaḍān* och det skulle vara till en summa av femton dirhamer som betalas för maten. Finns det autentiska bevis för detta i Skriften och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*?

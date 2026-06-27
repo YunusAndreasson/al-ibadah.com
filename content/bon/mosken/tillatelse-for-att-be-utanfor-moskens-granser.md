@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 206
-description: 'Fråga: Är det tillåtet att be utanför moskén om den är full? Svar: Moskéns
- gränser inom vilka en muslim ber de fem dagliga bönerna i församlingen definieras
- av de kringliggande väggarna; de ka...'
+description: 'Moskéns gränser inom vilka en muslim ber de fem dagliga bönerna i församlingen definieras av de kringliggande väggarna; de kan vara av sten, trä,…'
 ---
 
 **Fråga:** Är det tillåtet att be utanför moskén om den är full?

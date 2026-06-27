@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Stenkastningen
 original_id: 1358
-description: >-
-  Fråga: Under de sista dagarna av vallfärden kastade jag stenarna femton
-  minuter innan böneutropet för middagsbönen. Är detta tiden för middag och
-  finns det något jag behöver göra? Svar: Du mås...
+description: 'Du måste slakta ett djur i Mecka och ge det till de fattiga. Detta beror på att man endast får kasta stenarna på pelarna efter middag under at-ayyām…'
 ---
 
 **Fråga:** Under de sista dagarna av vallfärden kastade jag stenarna femton minuter innan böneutropet för middagsbönen. Är detta tiden för middag och finns det något jag behöver göra?

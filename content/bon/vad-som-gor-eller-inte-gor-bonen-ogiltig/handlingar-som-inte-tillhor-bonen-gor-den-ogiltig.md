@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 212
-description: 'Fråga: Stämmer det att överdrivna rörelser gör bönen ogiltig? Svar: Det
- råder inga tvivel om att överdrivna rörelser som inte är en del av bönen [som att
- gå, hela tiden se sig omkring och onöd...'
+description: 'Det råder inga tvivel om att överdrivna rörelser som inte är en del av bönen [som att gå, hela tiden se sig omkring och onödiga rörelser med handen] gör…'
 ---
 
 **Fråga:** Stämmer det att överdrivna rörelser gör bönen ogiltig?

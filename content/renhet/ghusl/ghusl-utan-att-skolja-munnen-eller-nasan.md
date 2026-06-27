@@ -9,10 +9,7 @@ categories:
   - Renhet (Tahārah)
   - Den stora tvagningen
 original_id: 1136
-description: >-
-  Fråga: Om någon gör ghusl utan att skölja munnen eller dra in vatten i näsan,
-  är denna ghusl då korrekt? Svar: Ghusl är inte giltig utan att munnen sköljs
-  och att vatten dras in i näsan....
+description: 'g̲husl är inte giltig utan att munnen sköljs och att vatten dras in i näsan. Detta beror på att Allāh den Upphöjde har sagt: "Och om ni befinner er i ett…'
 ---
 
 **Fråga:** Om någon gör *g̲husl* utan att skölja munnen eller dra in vatten i näsan, är denna *g̲husl* då korrekt?

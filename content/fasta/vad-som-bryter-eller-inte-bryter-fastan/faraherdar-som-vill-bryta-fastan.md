@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 443
-description: >-
-  Fråga: Ramadan kommer ibland när det är varmt. Det finns kamel- och fårägare
-  som inte kan finna någon herde att hyra. Dessa herdar lider mycket av törsten.
-  Kan de bryta fastan? Svar: Om den fa...
+description: 'Om den fastande behöver bryta fastan under dagen och om personen är rädd för att dö om fastan inte bryts, då bryter personen fastan när det blir…'
 ---
 
 **Fråga:** *ramaḍān* kommer ibland när det är varmt. Det finns kamel- och fårägare som inte kan finna någon herde att hyra. Dessa herdar lider mycket av törsten. Kan de bryta fastan?

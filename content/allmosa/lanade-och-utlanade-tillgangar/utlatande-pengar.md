@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Lånade tillgångar
 original_id: 629
-description: 'Fråga: En bror är skyldig mig pengar. Är jag skyldig att betala allmosa
- för den? Svar: Om lånet är till välbärgade personer som skulle kunna betala
- dig om du bad dem göra det, då måste du beta...'
+description: 'Om lånet är till välbärgade personer som skulle kunna betala dig om du bad dem göra det, då måste du betala allmosa när ett år har gått på samma sätt som…'
 ---
 
 **Fråga:** En bror är skyldig mig pengar. Är jag skyldig att betala allmosa för den?

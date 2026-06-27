@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Övrigt
 original_id: 570
-description: >-
-  Fråga: Är det tillåtet att be nattbönen mycket sent? Svar: När det gäller
-  nattbönen är det bäst att be den så sent som möjligt. Detta gäller i alla
-  fall, utom när män ber den i församlingen....
+description: 'När det gäller nattbönen är det bäst att be den så sent som möjligt. Detta gäller i alla fall, utom när män ber den i församlingen.'
 ---
 
 **Fråga:** Är det tillåtet att be nattbönen mycket sent?

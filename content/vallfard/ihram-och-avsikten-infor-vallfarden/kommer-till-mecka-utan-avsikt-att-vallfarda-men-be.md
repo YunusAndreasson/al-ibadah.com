@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 762
-description: >-
-  Fråga: Vad gäller dem som kommer till Mecka för att arbeta eller göra något
-  annat viktigt och sedan får möjlighet att vallfärda? Träder de in i ihrām i
-  deras bostäder [i Mecka] eller beger de si...
+description: 'Om han kommer till Mecka och inte avser att utföra vallfärden eller ´umrah, utan endast kommer för att besöka en släkting eller sjukling, men sedan…'
 ---
 
 **Fråga:** Vad gäller dem som kommer till Mecka för att arbeta eller göra något annat viktigt och sedan får möjlighet att vallfärda? Träder de in i *iḥrām* i sina bostäder [i Mecka] eller beger de sig till området utanför Helgedomen?

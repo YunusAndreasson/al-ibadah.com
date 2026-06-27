@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Betalning utomlands
 original_id: 1023
-description: 'Fråga: Vilket är utlåtandet om att överföra allmosa till en annan plats
- än där den är en skyldighet? Svar: Det är tillåtet att överföra sin allmosa
- från landet som man bor i till ett annat lan...'
+description: 'Det är tillåtet att överföra sin allmosa från landet som man bor i till ett annat land om det finns någon nytta med det.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att överföra allmosa till en annan plats än där den är en skyldighet?

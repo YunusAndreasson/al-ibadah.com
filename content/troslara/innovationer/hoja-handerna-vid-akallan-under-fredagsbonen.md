@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 368
-description: >-
-  Fråga: Vilket är utlåtandet om att en av Allāhs tjänare höjer händerna när han
-  säger āmīn under åkallan med imamen under predikan? Vilket är utlåtandet om
-  att höja rösten när man säger āmīn? ...
+description: 'Det är varken föreskrivet att Allāhs tjänare eller imamen höjer händerna under fredagspredikan.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att en av Allāhs tjänare höjer händerna när han säger *āmīn* under åkallan med imamen under predikan? Vilket är utlåtandet om att höja rösten när man säger *āmīn*?

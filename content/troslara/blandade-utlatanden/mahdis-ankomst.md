@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 66
-description: >-
-  Fråga: Vilken är er åsikt om den utlovade al-Mahdi? Finns det några ahādīth
-  som bekräftar hans ankomst? Svar: Det finns ett stort antal ahādīth som
-  ledande auktoriteter inom hadīth -vete...
+description: 'Det finns ett stort antal aḥādīt̲h som ledande auktoriteter inom ḥadīt̲h-vetenskapen har rapporterat. De bekräftar den falske Messias, Mahdi och Messias.'
 ---
 
 **Fråga:** Vilken är er åsikt om den utlovade al-Mahdi? Finns det några *aḥādīt̲h* som bekräftar hans ankomst?

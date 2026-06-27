@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 338
-description: >-
-  Fråga: Får en ensam resenär leda de som inte reser i bönen? Hur gör de när han
-  förkortar och slår ihop sin bön? Svar: Om resenären är kompetent nog att leda
-  bönen får han vara imam för dem som...
+description: 'Om resenären är kompetent nog att leda bönen får han vara imam för dem som inte reser. Om det är en bön som resenären får förkorta så ber de bakom honom…'
 ---
 
 **Fråga:** Får en ensam resenär leda de som inte reser i bönen? Hur gör de när han förkortar och slår ihop sin bön?

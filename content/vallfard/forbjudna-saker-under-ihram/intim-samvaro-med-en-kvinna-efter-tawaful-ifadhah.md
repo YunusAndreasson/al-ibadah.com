@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Förbud i helgtillståndet
 original_id: 777
-description: >-
-  Fråga: Om pilgrimen gör ṭawāful-ifāḍah, får personen då ha intim samvaro med en
-  kvinna under at-ayyām at-tas̲hrīq? Svar: Om pilgrimen gör ṭawāful-ifāḍah , då
-  får han inte ha intim samvaro m...
+description: 'Om pilgrimen gör ṭawāf ul-ifāḍah, då får han inte ha intim samvaro med en kvinna, utom om han har slutfört de andra riterna [som att ha kastat stenar på…'
 ---
 
 **Fråga:** Om pilgrimen gör *ṭawāf ul-ifāḍah*[^1], får personen då ha intim samvaro med en kvinna under *at-ayyām at-tas̲hrīq*?

@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1181
-description: >-
-  Fråga: Vad är ash-Shafa'ah och vilka olika kategorier finns det? Svar:
-  ash-Shafa'ah har sin rot i ordet ash-shaf' [jämn] och det är motsatsen till
-  al-witr [udda]. al-Witr görs här ti...
+description: 'ash-Shafa''ah har sin rot i ordet ash-shaf'' [jämn] och det är motsatsen till al-witr [udda].'
 ---
 
 **Fråga:** Vad är *ash-Shafa'ah* och vilka olika kategorier finns det?

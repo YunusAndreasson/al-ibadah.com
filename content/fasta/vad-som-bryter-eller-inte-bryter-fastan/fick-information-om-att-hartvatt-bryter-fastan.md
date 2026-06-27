@@ -6,10 +6,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 905
-description: >-
-  Fråga: En imam i en moské sade till mig att en hårtvätt under ramadan bryter
-  fastan. Anledning till detta var att vatten rinner in genom hårets rötter. Vad
-  är ditt svar till detta? Svar: Att t...
+description: 'Att tvätta håret under ramaḍān bryter inte fastan och att vatten tränger in genom hårets porer gör det heller inte.'
 ---
 
 **Fråga:** En imam i en moské sade till mig att en hårtvätt under *ramaḍān* bryter fastan. Anledning till detta var att vatten rinner in genom hårets rötter. Vad är ditt svar till detta?

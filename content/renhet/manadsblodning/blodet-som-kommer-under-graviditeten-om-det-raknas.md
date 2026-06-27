@@ -7,9 +7,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 1139
-description: 'Fråga: Anses det blod som kommer från en gravid kvinna vara menstruationsblod? Svar: En
- gravid kvinna får inte sin månadsblödning, vilket imam Ahmad har berättat. En kvinna
- vet att hon är gravi...'
+description: 'En gravid kvinna får inte sin månadsblödning, vilket imam Aḥmad har berättat. En kvinna vet att hon är gravid enbart eftersom den upphör.'
 ---
 
 **Fråga:** Anses det blod som kommer från en gravid kvinna vara menstruationsblod?

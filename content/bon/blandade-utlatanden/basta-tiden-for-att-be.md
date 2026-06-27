@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Övrigt
 original_id: 926
-description: >-
-  Fråga: Vilken är den bästa tiden för att be? Är det bäst vid början eller vid
-  slutet av den föreskrivna tiden? Svar: Den fullkomligaste bönen är den som bes
-  vid den tid som den islamiska lagen...
+description: 'Den fullkomligaste bönen är den som bes vid den tid som den islamiska lagen kräver. När profeten – över honom vare Allāhs frid och välsignelser –…'
 ---
 
 **Fråga:** Vilken är den bästa tiden för att be? Är det bäst vid början eller vid slutet av den föreskrivna tiden?

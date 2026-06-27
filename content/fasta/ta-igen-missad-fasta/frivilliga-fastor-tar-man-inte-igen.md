@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ikappfasta
 original_id: 1420
-description: >-
-  Fråga: Jag fastar tre dagar varje månad men under en månad blev jag sjuk så
-  jag fastade inte då. Är jag skyldig att ta igen denna fasta eller gottgöra
-  mig? Svar: En frivillig fasta tas inte ig...
+description: 'En frivillig fasta tas inte igen även om den har utelämnats frivilligt. Men om en muslim fortsätter med de rättfärdiga handlingar som har påbörjats är det…'
 ---
 
 **Fråga:** Jag fastar tre dagar varje månad men under en månad blev jag sjuk så jag fastade inte då. Är jag skyldig att ta igen denna fasta eller gottgöra mig?

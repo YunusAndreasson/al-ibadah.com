@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 657
-description: >-
-  Fråga: Jag är nu 21 år gammal och under de fyra sista åren har jag lärt känna
-  några jämnåriga som är religiösa. Genom dem har Allāh den Högste väglett mig,
-  och all ära tillhör Honom. Under ungefär...
+description: 'Det är nödvändigt att du ångrar dig inför Allāh den Allsmäktige. Detta innebär att du känner ånger över dina tidigare synder samtidigt som du överger dem…'
 ---
 
 **Fråga:** Jag är nu 21 år gammal och under de fyra sista åren har jag lärt känna några jämnåriga som är religiösa. Genom dem har Allāh den Högste väglett mig, och all ära tillhör Honom. Under ungefär ett och ett halvt år hade jag sällskap med dem och jag började utveckla några nobla islamiska karaktärsdrag. Min familj och mina släktingar har dock förnedrat mig och gjort sig löjliga över mig, med anledning av de förändringar som ägt rum. Jag hanterade deras påhopp men efter ett tag lämnade jag dessa ädla människor och jag föll tillbaka till min tidigare livsstil. Jag försummande Allāhs rättigheter och jag började göra hemska saker. Trots denna tillbakagång känner jag mig ångerfull över de stora synder jag begått och över att jag lämnat mina bröder.

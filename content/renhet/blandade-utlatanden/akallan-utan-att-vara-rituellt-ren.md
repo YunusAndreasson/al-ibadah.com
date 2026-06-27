@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 687
-description: >-
-  Fråga: Ibland när jag vaknar klockan två på natten, åkallar jag tyst till
-  Allāh den Allsmäktige men jag gör så utan att ha tvagat mig. Jag ber heller
-  inga frivilliga böner vid detta tillfälle. Är ...
+description: 'Det finns inget felaktigt i åkallan utan tvagning och samma sak gäller då man befinner sig i ett tillstånd av sexuell orenhet.'
 ---
 
 **Fråga:** Ibland när jag vaknar klockan två på natten, åkallar jag tyst till Allāh den Allsmäktige men jag gör så utan att ha tvagat mig. Jag ber heller inga frivilliga böner vid detta tillfälle. Är detta tillåtet eller är det obligatoriskt för mig att även tvaga mig och be?

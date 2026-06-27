@@ -6,10 +6,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 1610
-description: >-
-  Fråga: Kan man fasta den 27:e rajab och spendera den natten i bön? Svar: Det
-  är en innovation att fasta den 27:e rajab och att spendera den natten med bön.
-  Varje innovation är villfarelse.
+description: 'Det är en innovation att fasta den 27:e rajab och att spendera den natten med bön. Varje innovation är villfarelse.'
 ---
 
 **Fråga:** Kan man fasta den 27:e *rajab* och spendera den natten i bön?

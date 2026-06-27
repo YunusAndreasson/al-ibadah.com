@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Högtidsoffret
 original_id: 881
-description: 'Fråga: Får den som utför adhha-offret ge en icke-muslim en del av
- köttet från offret? Svar: Det som är rekommenderat när det gäller adhha-offret
- är att dela det i tre delar: en tredjedel t...'
+description: 'Det som är rekommenderat när det gäller adhha-offret är att dela det i tre delar: en tredjedel till den som utförde offret, en tredjedel till personens…'
 ---
 
 **Fråga:** Får den som utför *adhha*-offret ge en icke-muslim en del av köttet från offret?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Högtidsoffret
 original_id: 880
-description: >-
-  Fråga: Om det blir dags för att offra och det inte finns någon man i hushållet
-  närvarande, får kvinnan slakta adhha-djuret själv då? Svar: Ja, kvinnan får
-  utföra slakten av adhha-offerdjur...
+description: 'Ja, kvinnan får utföra slakten av adhha-offerdjuret [och även andra slakter] om det finns ett behov av detta och de andra villkoren för slakten är…'
 ---
 
 **Fråga:** Om det blir dags för att offra och det inte finns någon man i hushållet närvarande, får kvinnan slakta *adhha*-djuret själv då?

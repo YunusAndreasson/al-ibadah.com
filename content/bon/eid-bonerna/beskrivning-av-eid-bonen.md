@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Eid-bönen
 original_id: 1008
-description: >-
-  Fråga: Vilket är det rätta sättet att be ´eid -bönen på? Svar: Det korrekta
-  sättet för att be de två ´eid -bönerna är att imamen närvar och leder folket i
-  en bön som är två bönecykler lång. ...
+description: 'Det korrekta sättet för att be de två ´eid-bönerna är att imamen närvar och leder folket i en bön som är två bönecykler lång.'
 ---
 
 **Fråga:** Vilket är det rätta sättet att be *´eid*-bönen på?

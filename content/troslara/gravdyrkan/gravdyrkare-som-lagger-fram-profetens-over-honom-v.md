@@ -10,10 +10,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
 original_id: 1101
-description: >-
-  Fråga: Hur bör vi besvara de gravdyrkare som för att bevisa att deras åsikt är
-  rätt som bevis använder att profeten – över honom vare Allāhs frid och
-  välsignelser – har begravts i sin moské? Sv...
+description: 'Det går att svara på flera sätt: 1. Moskén byggdes inte över hans grav, tvärtom byggdes den under hans livstid. 2.'
 ---
 
 **Fråga:** Hur bör vi besvara de gravdyrkare som för att bevisa att deras åsikt är rätt som bevis använder att profeten – över honom vare Allāhs frid och välsignelser – har begravts i sin moské?

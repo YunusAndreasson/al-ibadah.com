@@ -6,10 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - Förbud i helgtillståndet
 original_id: 524
-description: >-
-  Fråga: Får en man som har trätt in i ihrām vid mīqāt klippa sina naglar eller
-  är det inte tillåtet förrän personen har offrat djuret? Svar: All lovprisan
-  tillhör Allāh. Om detta görs innan de...
+description: 'All lovprisan tillhör Allāh. Om detta görs innan personen går in i iḥrām, då är det inte fel, utom om personen vill offra ett djur och d̲hul-ḥijjah har…'
 ---
 
 **Fråga:** Får en man som har trätt in i *iḥrām* vid *mīqāt* klippa sina naglar eller är det inte tillåtet förrän personen har offrat djuret?

@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadanbedjare
 original_id: 405
-description: >-
-  Fråga: Om någon fastar och ber under ramadan men sedan lämnar bönen när
-  ramadan är över, är fastan då giltig? Svar: Bönen är en av islams pelare och
-  den är den viktigaste pelaren efter de båda...
+description: 'Bönen är en av islams pelare och den är den viktigaste pelaren efter de båda trosbekännelserna.'
 ---
 
 **Fråga:** Om någon fastar och ber under *ramaḍān* men sedan lämnar bönen när *ramaḍān* är över, är fastan då giltig?

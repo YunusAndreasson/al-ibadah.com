@@ -9,10 +9,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning utan vatten
 original_id: 1137
-description: >-
-  Fråga: Är det ett villkor att jorden som man gör tayammum med innehåller
-  verkliga stoftpartiklar? Svar: Den starkaste åsikten säger att det inte är ett
-  villkor för tayammum att det finns s...
+description: 'Den starkaste åsikten säger att det inte är ett villkor för tayammum att det finns stoftpartiklar i den.'
 ---
 
 **Fråga:** Är det ett villkor att jorden som man gör *tayammum* med innehåller verkliga stoftpartiklar?

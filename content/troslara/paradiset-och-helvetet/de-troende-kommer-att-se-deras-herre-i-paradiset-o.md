@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Paradiset och Helvetet
 original_id: 76
-description: >-
-  Fråga: I en hadīth från profeten – över honom vare Allāhs frid och
-  välsignelser – uppges det: ”Ni kommer sannerligen att se er Herre på
-  Återuppståndelsens Dag, precis som ni ser månen en na...
+description: 'Denna ḥadīt̲h har bekräftats som autentisk och den är ett bevis för att de troende kommer att se sin Herre, om Han vill.'
 ---
 
 **Fråga:** I en *ḥadīt̲h* från profeten – över honom vare Allāhs frid och välsignelser – uppges det:

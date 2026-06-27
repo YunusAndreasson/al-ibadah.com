@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Ikappfasta
 original_id: 1267
-description: >-
-  Fråga: Om någon fortfarande hade dagar att ta igen från ramaḍān och personen inte
-  tog igen dem innan nästa ramaḍān, vad bör personen göra då? Svar: Det är välkänt
-  att Allāh den Upphöjde har sagt: ” ...
+description: 'Det är välkänt att Allāh den Upphöjde har sagt: ”Den av er som ser månens nytändning ska fasta månaden ut.'
 ---
 
 **Fråga:** Om någon fortfarande hade dagar att ta igen från *ramaḍān* och personen inte tog igen dem innan nästa *ramaḍān*, vad bör personen göra då?

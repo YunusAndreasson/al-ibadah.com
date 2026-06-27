@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 1490
-description: >-
-  Fråga: Bör man recitera tillsammans med imamen eller lyssna på hans
-  recitation? Svar: Den som leds i bönen måste alltid recitera *al-Fātiḥah* –
-  både i böner som är tysta och med hörbar röst. Utö...
+description: 'Den som leds i bönen måste alltid recitera al-Fātiḥah – både i böner som är tysta och med hörbar röst.'
 ---
 
 **Fråga:** Bör man recitera tillsammans med imamen eller lyssna på hans recitation?

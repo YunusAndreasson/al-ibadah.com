@@ -6,10 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdens stationer
 original_id: 1298
-description: >-
-  Fråga: En man kom från sitt land till Jiddah med avsikt att utföra vallfärden
-  och ‘umrah . Han trädde dock inte in i ihrām vid mīqāt utan i stället trädde
-  han in i ihrām vid Jiddahs flygpla...
+description: 'All lovprisan tillhör Allāh. Profeten – över honom vare Allāhs frid och välsignelser – utsåg särskilda platser för iḥrām varifrån den som vill utföra…'
 ---
 
 **Fråga:** En man kom från sitt land till Jiddah med avsikt att utföra vallfärden och *´umrah*. Han trädde dock inte in i *iḥrām* vid *mīqāt* utan i stället trädde han in i *iḥrām* vid Jiddahs flygplats – vilket är då utlåtandet?

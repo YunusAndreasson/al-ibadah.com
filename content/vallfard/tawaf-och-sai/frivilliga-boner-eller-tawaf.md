@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 820
-description: >-
-  Fråga: Är det bättre att hela tiden göra tawāf eller att be frivilliga böner?
-  Svar: Det finns olika åsikter om vilken av dessa båda handlingar som är bäst.
-  Det som är bäst är dock att kombin...
+description: 'Det finns olika åsikter om vilken av dessa båda handlingar som är bäst. Det som är bäst är dock att förena dessa båda handlingar.'
 ---
 
 **Fråga:** Är det bättre att hela tiden göra *ṭawāf* eller att be frivilliga böner?

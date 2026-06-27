@@ -6,10 +6,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1372
-description: >-
-  Fråga: Bryts fastan om man donerar blod under ramadan? Svar: Ja! Om man
-  donerar mycket blod, då bryts fastan och det klassas på ungefär samma sätt som
-  hijāmah.
+description: 'Ja! Om man donerar mycket blod, då bryts fastan och det klassas på ungefär samma sätt som hijāmah. : Koppning.'
 ---
 
 **Fråga:** Bryts fastan om man donerar blod under *ramaḍān*?

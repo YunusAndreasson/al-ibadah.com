@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 1237
-description: >-
-  Fråga: När börjar den första timmen under fredagsbönen? Svar: De timmar som
-  profeten – över honom vare Allāhs frid och välsignelser – har nämnt är fem:
-  ”Den som badar på fredagen [genom a...
+description: 'De timmar som profeten – över honom vare Allāhs frid och välsignelser – har nämnt är fem: > ”Den som badar på fredagen [genom att] göra g̲husl för janābah…'
 ---
 
 **Fråga:** När börjar den första timmen under fredagsbönen?

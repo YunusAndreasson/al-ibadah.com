@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdens stationer
 original_id: 737
-description: >-
-  Fråga: Det finns en anställd som har bestämt sig för att vallfärda men han har
-  jobb att göra i at-Ta'if. Detta leder till att han måste pendla mellan
-  at-Ta'if och Jiddah utan ihrām. Svar: Det ...
+description: 'Det finns inget skadligt i detta. Han avser ju inte att utföra vallfärden eller ´umrah då han pendlar mellan at-Ta''if och Jiddah.'
 ---
 
 **Fråga:** Det finns en anställd som har bestämt sig för att vallfärda men han har jobb att göra i at-Ta'if. Detta leder till att han måste pendla mellan at-Ta'if och Jiddah utan *iḥrām*.

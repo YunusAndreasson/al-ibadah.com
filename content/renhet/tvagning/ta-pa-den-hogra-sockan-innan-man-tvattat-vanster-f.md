@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1441
-description: >-
-  Fråga: Någon berättade för mig att man inte får ta på sig höger sock innan man
-  har tvättat vänster fot under tvagningen. För länge sedan har jag läst i en
-  bok [jag kommer inte ihåg namnet] att det...
+description: 'Det bästa är att inte ta på sig socken innan man har tvättat vänster fot. Detta grundas på profetens – över honom vare Allāhs frid och välsignelser – ord:…'
 ---
 
 **Fråga:** Någon berättade för mig att man inte får ta på sig höger sock innan man har tvättat vänster fot under tvagningen. För länge sedan har jag läst i en bok [jag kommer inte ihåg namnet] att det i detta ämne finns olika åsikter bland de lärde och att den starkaste åsikten är att det inte är tillåtet. Vilken är din åsikt?

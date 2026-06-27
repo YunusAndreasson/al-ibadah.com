@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 1316
-description: >-
-  Fråga: När imamen eller en församlingsmedlem kommer till moskén, ska de då be
-  hälsningsbönen till moskén om de redan har bett sunnah för gryningsbönen hemma
-  och sedan kommer till moskén för at...
+description: 'All lovprisan tillhör Allāh. Förhåller det sig på så vis som du beskriver är det föreskrivet att de ber hälsningsbönen till moskén innan de sätter sig ned…'
 ---
 
 **Fråga:** När imamen eller en församlingsmedlem kommer till moskén, ska de då be hälsningsbönen till moskén[^1] om de redan har bett *sunnah* för gryningsbönen hemma och sedan kommer till moskén för att be gryningsbönen?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsriter
 original_id: 745
-description: >-
-  Fråga: Jag hörde att om en mutamatti´´ återvänder till sitt land, då bryts
-  personens ḥajjul-tamattu´´. Får personen vallfärda som en mufrid och är personen inte
-  skyldig att offra ett djur? Svar: Ja...
+description: 'Ja, om en mutamatti´'' återvänder till sitt land och sedan ger sig av för att vallfärda, då är personen en mufrid.'
 ---
 
 **Fråga:** Jag hörde att om en *mutamatti´[^1]'* återvänder till sitt land, då bryts personens *ḥajjul-tamattu´[^2]'*. Får personen vallfärda som en *mufrid* och är personen inte skyldig att offra ett djur?

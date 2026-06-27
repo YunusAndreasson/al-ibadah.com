@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 949
-description: >-
-  Fråga: Vilket är utlåtandet om den första åkallan som man säger i inledningen
-  av bönen? Svar: Den åkallan som inleder är en sunnah och inte en skyldighet,
-  varken i de obligatoriska eller i d...
+description: 'Den åkallan som inleder är en sunnah och inte en skyldighet, varken i de obligatoriska eller i de frivilliga bönerna.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den första åkallan som man säger i inledningen av bönen?

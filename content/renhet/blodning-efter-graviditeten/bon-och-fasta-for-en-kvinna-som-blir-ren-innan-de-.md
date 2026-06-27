@@ -10,10 +10,7 @@ categories:
   - Renhet (Tahārah)
   - Efterblödning
 original_id: 1451
-description: >-
-  Fråga: Får en kvinna med blödningar efter graviditeten fasta, be och vallfärda
-  innan de 40 dagarna är över om hon blir ren [blödningen har upphört]? Svar:
-  Ja, hon får fasta, be och utföra vall...
+description: 'Ja, hon får fasta, be och utföra vallfärden samt ´umrah. Har hon blivit ren får hennes man också ha intim samvaro med henne under de 40 dagarna.'
 ---
 
 **Fråga:** Får en kvinna med blödningar efter graviditeten fasta, be och vallfärda innan de 40 dagarna är över om hon blir ren [blödningen har upphört]?

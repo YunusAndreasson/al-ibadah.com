@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 934
-description: >-
-  Fråga: Vad gör den som fick näsblod medan personen bad? Blir kläderna orena?
-  Svar: En näsblödning gör inte tvagningen ogiltig oavsett om det är mycket
-  eller lite. Detsamma gäller allt som av...
+description: 'En näsblödning gör inte tvagningen ogiltig oavsett om det är mycket eller lite. Detsamma gäller allt som avgår från kroppen så länge det inte är urin eller…'
 ---
 
 **Fråga:** Vad gör den som fick näsblod medan personen bad? Blir kläderna orena?

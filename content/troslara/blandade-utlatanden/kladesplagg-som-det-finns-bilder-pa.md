@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1104
-description: >-
-  Fråga: Vilket är utlåtandet om att bära klädesplagg på vilka det finns bilder
-  av människor eller djur? Svar: Det är inte tillåtet att bära klädesplagg med
-  bilder av människor eller djur. Det ...
+description: 'Det är inte tillåtet att bära klädesplagg med bilder av människor eller djur. Det är heller inte tillåtet att bära en huvudbonad med detta.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att bära klädesplagg på vilka det finns bilder av människor eller djur?

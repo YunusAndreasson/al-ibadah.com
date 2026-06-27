@@ -8,9 +8,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1629
-description: >-
-  Fråga: Hur går en skilsmässa till? Och vad händer om man skiljer sig flera
-  gånger i rad?
+description: 'Skilsmässa enligt profetens – må Guds frid och välsignelser vara över honom – sunnah är att mannen skiljer sig från sin fru när det är nödvändigt, när hon…'
 ---
 
 **Fråga:** Hur går en skilsmässa till? Och vad händer om man skiljer sig flera gånger i rad?

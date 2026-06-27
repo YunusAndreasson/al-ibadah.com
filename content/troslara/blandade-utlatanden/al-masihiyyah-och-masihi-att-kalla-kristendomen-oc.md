@@ -8,9 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1115
-description: 'Fråga: Är det rätt att använda uttrycken al-masīhiyyah om kristendomen
- och masīhi om de kristna? Svar: De kristna säger att de följer Messias [även]
- efter profetens – över honom vare Allāhs ...'
+description: 'De kristna säger att de följer Messias [även] efter profetens – över honom vare Allāhs frid och välsignelser – ankomst.'
 ---
 
 **Fråga:** Är det rätt att använda uttrycken *al-masīhiyyah* om kristendomen och masīhi om de kristna?

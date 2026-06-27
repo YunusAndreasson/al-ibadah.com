@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1109
-description: >-
-  Fråga: Ärade shaykh, somliga påstår att anledningen till muslimers
-  bakåtsträvande är att de håller fast vid religionen. Argumentet som de lägger
-  fram är att när Västvärlden övergav och frigjorde s...
+description: 'Sådant kommer från någon vars tro är förlorad eller svag, som är okunnig inom historia och som inte vet något om orsakerna till varför man får Allāhs…'
 ---
 
 **Fråga:** Ärade *s̲hayk̲h*, somliga påstår att anledningen till muslimers bakåtsträvande är att de håller fast vid religionen. Argumentet som de lägger fram är att när Västvärlden övergav och frigjorde sig från religionen så nådde de sin nuvarande nivå av civilisation. De stöder också detta missvisande argument genom att visa på att det ofta regnar hos dem och jordbruket som de har. Vilken är er åsikt?

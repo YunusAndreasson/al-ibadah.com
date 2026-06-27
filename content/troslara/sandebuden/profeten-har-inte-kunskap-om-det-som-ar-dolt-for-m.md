@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 125
-description: >-
-  Fråga: Är profeten – över honom vare Allāhs frid och välsignelser – närvarande
-  överallt och ser han allt? Jag menar, har han kunskap om det som är dolt för
-  människor? Svar: Grunden i frågor om...
+description: 'Grunden i frågor om det som är dolt för människor, är att endast Allāh har kunskap om dem. Allāh den Upphöjde säger: > ”Han har nycklarna till den dolda…'
 ---
 
 **Fråga:** Är profeten – över honom vare Allāhs frid och välsignelser – närvarande överallt och ser han allt? Jag menar, har han kunskap om det som är dolt för människor[^1]?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsombud
 original_id: 796
-description: >-
-  Fråga: Om en man representerar sin far och mor för att kasta stenarna på
-  pelarna [vilket han även själv ska göra], krävs det då att han börjar i någon
-  viss ordning eller ges han valet att börja ...
+description: 'Om en man representerar sin mor och fader, då de är sjuka eller inte har möjlighet, för att kasta stenarna, då kastar han sina egna först och sedan…'
 ---
 
 **Fråga:** Om en man representerar sin far och mor för att kasta stenarna på pelarna [vilket han även själv ska göra], krävs det då att han börjar i någon viss ordning eller ges han valet att börja med vem han vill?

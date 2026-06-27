@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Kvinnans vallfärd
 original_id: 906
-description: 'Fråga: En kvinna vallfärdade medan hon var gravid. När hon återvände
- från vallfärden avled hennes ofödda barn. Kommer då både hon och hennes barn att
- belönas för vallfärden? Svar: Endast kvinn...'
+description: 'Endast kvinnan kommer att belönas för vallfärden, när det gäller barnet räknas ingen vallfärd för honom.'
 ---
 
 **Fråga:** En kvinna vallfärdade medan hon var gravid. När hon återvände från vallfärden avled hennes ofödda barn. Kommer då både hon och hennes barn att belönas för vallfärden?

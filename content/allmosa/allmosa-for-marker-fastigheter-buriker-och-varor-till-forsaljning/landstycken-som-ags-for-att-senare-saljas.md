@@ -9,10 +9,7 @@ categories:
   - Allmosa (Zakāh)
   - Handelsvaror och fastigheter
 original_id: 614
-description: >-
-  Fråga: Vilket är utlåtandet om landstycken som ägs för att säljas? Svar:
-  Allmosa är en skyldighet för landstycken som ägs för att säljas dem. I detta
-  fall anses de vara produkter som är till f...
+description: 'Allmosa är en skyldighet för landstycken som ägs för att säljas. I detta fall anses de vara produkter som är till försäljning.'
 ---
 
 **Fråga:** Vilket är utlåtandet om landstycken som ägs för att säljas?

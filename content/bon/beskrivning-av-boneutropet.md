@@ -5,10 +5,7 @@ source: 'al-Sharh al-Mumti’, 2/51, 52; Majmū’ al-Fatāwa, 22/66-69'
 categories:
   - Bön (Salāh)
 original_id: 512
-description: >-
-  Fråga: Hur ropar man ut till bön? Svar: Flera versioner av böneutropet har
-  återberättats i fullgoda rapporter från profeten. För att sätta hela hans
-  sunnah i bruk och för att få ett slut på ...
+description: 'Flera versioner av böneutropet har återberättats i fullgoda rapporter från profeten. För att sätta hela hans sunnah i bruk och för att få ett slut på de…'
 ---
 
 **Fråga:** Hur ropar man ut till bön?

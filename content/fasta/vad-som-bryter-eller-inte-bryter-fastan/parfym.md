@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 421
-description: >-
-  Fråga: Vilket är utlåtandet om den fastande som dagtid använder parfym under
-  ramadan? Svar: Det är ingen fara om man använder eller andas in dem dagtid
-  under ramadan, utom när det gäller rökel...
+description: 'Det är ingen fara om man använder eller andas in dem dagtid under ramaḍān, utom när det gäller rökelser.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den fastande som dagtid använder parfym under *ramaḍān*?

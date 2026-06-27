@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 980
-description: >-
-  Fråga: Vilket är utlåtandet om att ta igen sunnah för gryningsbönen efter
-  gryningsbönen om man inte har haft möjlighet att be den före bönen? Motsäger
-  detta förbudet mot bön efter gryningsbön...
+description: 'Enligt den starkaste åsikten finns det ingen invändan mot att man tar igen sunnah för gryningsbönen efter gryningsbönen.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att ta igen *sunnah* för gryningsbönen efter gryningsbönen om man inte har haft möjlighet att be den före bönen? Motsäger detta förbudet mot bön efter gryningsbönen?

@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 1121
-description: >-
-  Fråga: När har användandet av miswāk bekräftats? Vilket är utlåtandet om att
-  använda miswāk när man väntar på fredagspredikan? Svar: Användandet av miswāk
-  har bekräftats när man vaknar, ...
+description: 'Användandet av miswāk har bekräftats när man vaknar, går in i ett hus, har tvagat sig och innan bönen.'
 ---
 
 **Fråga:** När har användandet av *miswāk* bekräftats? Vilket är utlåtandet om att använda *miswāk* när man väntar på fredagspredikan?

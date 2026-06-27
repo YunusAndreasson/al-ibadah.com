@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsplikt
 original_id: 1319
-description: >-
-  Fråga: En kvinna säger: ”Min mor befinner sig i Marocko och jag jobbar i
-  Saudiarabien. Jag vill att hon ska komma hit för att hon ska kunna göra den
-  obligatoriska vallfärden. Hon har dock inge...
+description: 'Hon får inte vallfärda ensam då profeten – över honom vare Allāhs frid och välsignelser – har sagt: "En kvinna reser inte utom med sin maḥram." Profeten –…'
 ---
 
 **Fråga:** En kvinna säger: "Min mor befinner sig i Marocko och jag jobbar i Saudiarabien. Jag vill att hon ska komma hit för att hon ska kunna göra den obligatoriska vallfärden. Hon har dock ingen *maḥram* då min far har dött och mina bröder inte har möjlighet att vallfärda."

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 377
-description: >-
-  Fråga: Inräknas vägar bland de platser där det är förbjudet att be och vilka
-  bevis finns för detta? Hur får vi det i samklang med profetens – över honom
-  vare Allāhs frid och välsignelser – uttal...
+description: 'Ja, mitten på vägen där människor går inräknas bland de sju platser som profeten – över honom vare Allāhs frid och välsignelser – har berättat att det är…'
 ---
 
 **Fråga:** Inräknas vägar bland de platser där det är förbjudet att be och vilka bevis finns för detta? Hur får vi det i samklang med profetens – över honom vare Allāhs frid och välsignelser – uttalande:

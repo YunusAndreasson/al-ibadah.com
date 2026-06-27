@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1209
-description: >-
-  Fråga: Vilket är utlåtandet om att ta av sockarna för att skydda sin rening
-  varje gång som man tvagar sig? Svar: Detta motsäger sig profetens – över honom
-  vare Allāhs frid och välsignelser – ...
+description: 'Detta motsäger sig profetens – över honom vare Allāhs frid och välsignelser – sunnah och i detta finns en imitation av rawāfiḍ [En term som ofta används…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att ta av sockarna för att skydda sin rening varje gång som man tvagar sig?

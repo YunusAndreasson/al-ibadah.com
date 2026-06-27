@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Frivilliga och speciella böner
 original_id: 983
-description: >-
-  Fråga: Vilket är utlåtandet om att be två bönecykler på bröllopsnatten innan
-  man har intim samvaro med frun? Svar: Vissa av profetens – över honom vare
-  Allāhs frid och välsignelser – följeslag...
+description: 'Vissa av profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – brukade be två bönecykler den första natten…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att be två bönecykler på bröllopsnatten innan man har intim samvaro med frun?

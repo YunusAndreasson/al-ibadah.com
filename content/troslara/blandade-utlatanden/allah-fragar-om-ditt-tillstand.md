@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1584
-description: 'Fråga: Vilket är utlåtandet om att säga: ”Allāh frågar om ditt tillstånd”? Svar: Detta
- uttryck: ”Allāh frågar om ditt tillstånd” är inte tillåtet då det antyder den falska
- föreställningen att A...'
+description: 'Detta uttryck: "Allāh frågar om ditt tillstånd" är inte tillåtet då det antyder den falska föreställningen att Allāh den Upphöjde inte känner till…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att säga: ”Allāh frågar om ditt tillstånd”?

@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Åminnelse
 original_id: 269
-description: >-
-  Fråga: Vilken hand är bäst för tasbih, den högra eller den vänstra? Svar: Det
-  är bäst att göra det med den högra handen. Profeten – över honom vare Allāhs
-  frid och välsignelser – brukade gör...
+description: 'Det är bäst att göra det med den högra handen. Profeten – över honom vare Allāhs frid och välsignelser – brukade göra tasbīḥ med höger hand.'
 ---
 
 **Fråga:** Vilken hand är bäst för *tasbīḥ*, den högra eller den vänstra?

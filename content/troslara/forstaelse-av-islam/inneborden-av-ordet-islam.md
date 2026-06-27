@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 917
-description: >-
-  Fråga: Vad är islam? Svar: Islam i dess allmänna betydelse är dyrkan av Allāh
-  den Upphöjde på det sätt som Han har föreskrivit genom de sändebud som Han
-  sänt från tiden då Han föreskrev för...
+description: 'Islam i dess allmänna betydelse är dyrkan av Allāh den Upphöjde på det sätt som Han har föreskrivit genom de sändebud som Han sänt från tiden då Han…'
 ---
 
 **Fråga:** Vad är islam?

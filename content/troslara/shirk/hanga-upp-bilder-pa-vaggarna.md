@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
 original_id: 1198
-description: >-
-  Fråga: Vilket är utlåtandet om att hänga upp bilder på väggarna? Svar: Att
-  hänga upp bilder – speciellt stora – på väggen är förbjudet. Detta gäller även
-  om de enbart visar en del av kroppen e...
+description: 'Att hänga upp bilder – speciellt stora – på väggen är förbjudet. Detta gäller även om de enbart visar en del av kroppen eller huvudet.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att hänga upp bilder på väggarna?

@@ -10,10 +10,7 @@ categories:
   - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 111
-description: >-
-  Fråga: Hur bör vi behandla en man som baktalar de tre följeslagarna [Abū Bakr,
-  ´Umar och ‘Uthmān]? Svar: profetens – över honom vare Allāhs frid och
-  välsignelser – följeslagare – må Allāh vara...
+description: 'Profetens – över honom vare Allāhs frid och välsignelser – följeslagare – må Allāh vara nöjd med dem – är de bästa i detta samfund och Allāh har prisat dem…'
 ---
 
 **Fråga:** Hur bör vi behandla en man som baktalar de tre följeslagarna [Abū Bakr, ´Umar och ‘Uthmān]?

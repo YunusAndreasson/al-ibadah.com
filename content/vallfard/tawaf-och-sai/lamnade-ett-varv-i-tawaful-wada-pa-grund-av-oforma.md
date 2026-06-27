@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 1349
-description: >-
-  Fråga: Jag vallfärdade tillsammans med en grupp. Vi vallfärdade – och all
-  lovprisan tillhör Allāh – utom att min fru under slutet av det sjätte varvet
-  förlorade medvetandet och jag var tvungen att...
+description: 'Om ni inte upprepade ṭawāf ul-wadā´, då behöver var och en av er offra något som slaktas i Mecka för de fattiga vid Helgedomen.'
 ---
 
 **Fråga:** Jag vallfärdade tillsammans med en grupp. Vi vallfärdade – och all lovprisan tillhör Allāh – utom att min fru under slutet av det sjätte varvet förlorade medvetandet och jag var tvungen att bära henne ut ur helgedomen. Hon, hennes bror och jag hade inte möjlighet att fullfölja det sjunde varvet. Behöver jag göra någonting?

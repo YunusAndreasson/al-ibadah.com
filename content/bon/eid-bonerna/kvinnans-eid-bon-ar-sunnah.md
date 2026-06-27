@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Eid-bönen
 original_id: 1590
-description: >-
-  Fråga: Är ´eid -bönen obligatorisk för kvinnor? Ber de den hemma eller på
-  böneplatsen om den då är obligatorisk? Svar: All lovprisan tillhör Allāh. Den
-  är inte obligatorisk för kvinnor utan ...
+description: 'All lovprisan tillhör Allāh. Den är inte obligatorisk för kvinnor utan sunnah. Kvinnor bör be denna bön tillsammans med muslimerna vid böneplatsen.'
 ---
 
 **Fråga:** Är *´eid*-bönen obligatorisk för kvinnor? Ber de den hemma eller på böneplatsen om den då är obligatorisk?

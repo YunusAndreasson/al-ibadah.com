@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Åkallan
 original_id: 391
-description: >-
-  Fråga: Vilket är utlåtandet om åkallan efter begravningsbönen? Svar: Åkallan
-  är dyrkans kärna. När tjänaren ber sin Herre om något, för sig själv eller för
-  andra, och personen visar sin ödmjukhet...
+description: 'Åkallan är dyrkans kärna. När tjänaren ber sin Herre om något, för sig själv eller för andra, och personen visar sin ödmjukhet och hängivenhet inför…'
 ---
 
 **Fråga:** Vilket är utlåtandet om åkallan efter begravningsbönen?

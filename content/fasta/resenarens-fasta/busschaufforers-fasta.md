@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Resenärens fasta
 original_id: 447
-description: >-
-  Fråga: Används utlåtandet om resande om buss- och bilchaufförer på grund av
-  att de jobbar utanför staden dagtid under ramadan? Svar: Ja, utlåtandet för
-  resenärer tillämpas på dem. De får förkor...
+description: 'Ja, utlåtandet för resenärer tillämpas på dem. De får förkorta och slå ihop bönerna samt bryta fastan.'
 ---
 
 **Fråga:** Tillämpas utlåtandet om resande på buss- och bilchaufförer eftersom de jobbar utanför staden dagtid under *ramaḍān*?

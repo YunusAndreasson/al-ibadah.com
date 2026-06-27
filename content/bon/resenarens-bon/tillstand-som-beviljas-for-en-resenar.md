@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 997
-description: >-
-  Fråga: Vilka är de tillstånd som beviljas för en resenär? Svar: De tillstånd
-  som beviljas för en resenär är fyra: Att bönerna som är fyra bönecykler kortas
-  ned till två. Att det...
+description: 'De tillstånd som beviljas för en resenär är fyra: 1. Att bönerna som är fyra bönecykler kortas ned till två. 2.'
 ---
 
 **Fråga:** Vilka är de tillstånd som beviljas för en resenär?

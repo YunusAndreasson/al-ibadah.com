@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
 original_id: 238
-description: >-
-  Fråga: Vilket är utlåtandet om att be bakom en imam som tror att en rättfärdig
-  gravinvånare har krafter som kan åstadkomma gott eller ont? Svar: Det är inte
-  tillåtet att be bakom honom. Bönen ...
+description: 'Det är inte tillåtet att be bakom honom. Bönen kommer inte att vara giltig. Anledningen är att det är större s̲hirk i fråga om Herrskap att tro att en…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att be bakom en imam som tror att en rättfärdig gravinvånare har krafter som kan åstadkomma gott eller ont?

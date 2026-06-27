@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Undantag från fasta
 original_id: 1402
-description: >-
-  Fråga: Min dotter är 30 år och hon har barn. Hon har lidit av en mentalsjukdom
-  under de senaste fjorton åren. I det förflutna har denna sjukdom påverkat
-  henne under en tid och sedan har den försvu...
+description: 'Om hennes tillstånd verkligen är som du har beskrivit det, då är det inte en skyldighet för henne att fasta eller be.'
 ---
 
 **Fråga:** Min dotter är 30 år och hon har barn. Hon har lidit av en mentalsjukdom under de senaste fjorton åren. I det förflutna har denna sjukdom påverkat henne under en tid och sedan har den försvunnit ett tag. Denna gång har den dock drabbat henne på ett annat sätt än normalt. Nu har hon lidit i nästan tre månader. Därför kan hon inte be korrekt eller tvaga sig rätt utom med hjälp från en annan person som visar henne hur och berättar för henne hur mycket hon har bett. Nu när den välsignade *ramaḍān* har kommit har hon enbart fastat en dag och hon kan inte fasta på ett korrekt sätt. De resterande dagarna har hon inte fastat. Vänligen ge mig råd om vad som är en skyldighet för henne och mig att göra. Ta med i beaktningarna att det är jag som är hennes förmyndare. Må Allāh belöna er.

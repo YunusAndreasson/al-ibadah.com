@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 1682
-description: >-
-  Fråga: Vänligen, hänvisa mig till en bok som innehåller många svaga och
-  avvisade ahādīth så att jag genom att känna till dem kan hålla mig borta från
-  dem.
+description: 'Jag råder dig att inte läsa svaga och avvisade aḥādīt̲h för endast de lärde som kan skilja mellan de autentiska och svaga får läsa dem.'
 ---
 
 **Fråga:** Vänligen, hänvisa mig till en bok som innehåller många svaga och avvisade *aḥādīt̲h* så att jag genom att känna till dem kan hålla mig borta från dem.

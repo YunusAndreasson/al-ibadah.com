@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Övrigt
 original_id: 1271
-description: >-
-  Fråga: Vad är anledningen till att det är förbjudet att fasta under fredagar?
-  Går det heller inte att fasta under fredagar när man har fasta att ta igen?
-  Svar: Profeten – över honom vare Allāh...
+description: 'Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Välj inte ut fredagar speciellt för att fasta, inte heller dess nätter för att stå i…'
 ---
 
 **Fråga:** Vad är anledningen till att det är förbjudet att fasta under fredagar? Går det heller inte att fasta under fredagar när man har fasta att ta igen?

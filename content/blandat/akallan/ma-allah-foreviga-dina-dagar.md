@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Åkallan
 original_id: 1582
-description: >-
-  Fråga: Vilket är utlåtandet om att säga: ”Må Allāh föreviga dina dagar”? Svar:
-  Säger man så här är det att gå för långt i åkallan. Ett förevigande av dagarna
-  [livet] är ju omöjligt och det til...
+description: 'Säger man så här är det att gå för långt i åkallan. Ett förevigande av dagarna [livet] är ju omöjligt och det tillbakavisas genom Allāhs den Upphöjdes ord:…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att säga: ”Må Allāh föreviga dina dagar”?

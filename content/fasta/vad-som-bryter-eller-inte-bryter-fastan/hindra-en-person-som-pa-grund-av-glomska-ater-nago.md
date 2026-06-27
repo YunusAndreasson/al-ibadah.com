@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1413
-description: >-
-  Fråga: Om jag ser någon som fastar men som äter eller dricker dagtid under
-  ramadan, är jag då skyldig att påminna personen? Jag frågar för jag hör vissa
-  säga: ”Du behöver inte påminna personen för sanne...
+description: 'Den som ser en muslim dricka eller äta dagtid under ramaḍān eller göra något annat som skulle bryta fastan måste hindra personen.'
 ---
 
 **Fråga:** Om jag ser någon som fastar men som äter eller dricker dagtid under *ramaḍān*, är jag då skyldig att påminna personen? Jag frågar för jag hör vissa säga: ”Du behöver inte påminna personen för sannerligen är det enbart Allāh som har låtit denna dricka.”

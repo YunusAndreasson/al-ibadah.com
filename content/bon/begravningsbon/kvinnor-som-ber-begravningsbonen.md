@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Begravningsbön
 original_id: 388
-description: >-
-  Fråga: Är det tillåtet för en kvinna att tillsammans med män be över den
-  avlidne? Svar: Den grundläggande princip som rör den dyrkan som Allāh har
-  föreskrivit i Hans skrift och som Hans sändebud har f...
+description: 'Den grundläggande princip som rör den dyrkan som Allāh har föreskrivit i Hans skrift och som Hans sändebud har förklarat i sin sunnah är att den räknar in…'
 ---
 
 **Fråga:** Är det tillåtet för en kvinna att tillsammans med män be över den avlidne?

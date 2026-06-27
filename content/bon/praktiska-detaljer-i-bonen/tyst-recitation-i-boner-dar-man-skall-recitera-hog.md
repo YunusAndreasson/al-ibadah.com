@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 254
-description: >-
-  Fråga: Är det tillåtet att inte recitera med höjd röst under till exempel
-  nattbönen? Svar: Under nattbönen är recitation med höjd röst
-  föreskriven för imamen för att tjänarna ska kunna hör...
+description: 'Under nattbönen är recitation med höjd röst föreskriven för imamen för att tjänarna ska kunna höra och dra nytta av detta.'
 ---
 
 **Fråga:** Är det tillåtet att inte recitera med höjd röst under till exempel nattbönen?

@@ -9,10 +9,7 @@ categories:
   - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 137
-description: >-
-  Fråga: Motsäger sig ”wahhabiterna” profetens – över honom vare Allāhs frid och
-  välsignelser – medling? Svar: För den som har studerat Muḥammad bin
-  ´Abdul-Wahhāb och hans följeslagares liv är de...
+description: 'För den som har studerat Muḥammad bin ´Abdul-Wahhāb och hans följeslagares liv är det tydligt att de inte är skyldiga till denna anklagelse.'
 ---
 
 **Fråga:** Motsäger sig ”wahhabiterna” profetens – över honom vare Allāhs frid och välsignelser – medling?

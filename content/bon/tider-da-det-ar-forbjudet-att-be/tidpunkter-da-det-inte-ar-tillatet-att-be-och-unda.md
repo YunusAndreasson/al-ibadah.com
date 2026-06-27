@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Förbjudna bönetider
 original_id: 284
-description: >-
-  Fråga: Under vilka tidpunkter är det förbjudet att be? Svar: Tiderna då det är
-  förbjudet att be är: då soluppgången har börjat tills solen har stigit så högt
-  att skuggan som en stav utgör är l...
+description: 'Tiderna då det är förbjudet att be är: då soluppgången har börjat tills solen har stigit så högt att skuggan som en stav utgör är lika lång som staven…'
 ---
 
 **Fråga:** Under vilka tidpunkter är det förbjudet att be?

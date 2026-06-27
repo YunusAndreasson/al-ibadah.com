@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fasteplikt
 original_id: 477
-description: >-
-  Fråga: Mitt lilla barn fastar hela tiden under ramadan trots att fastan är
-  skadlig för honom på grund av hans låga ålder och hans dåliga hälsa. Bör jag
-  vara hård mot honom och tvinga honom att bry...
+description: 'Om han är barn och inte har kommit in i puberteten är han inte skyldig att fasta. Men om han kan fasta utan svårighet bör han ombes att göra det.'
 ---
 
 **Fråga:** Mitt lilla barn fastar hela tiden under *ramaḍān* trots att fastan är skadlig för honom på grund av hans låga ålder och hans dåliga hälsa. Bör jag vara hård mot honom och tvinga honom att bryta fastan?

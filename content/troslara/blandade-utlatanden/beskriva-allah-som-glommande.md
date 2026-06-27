@@ -6,10 +6,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1300
-description: >-
-  Fråga: Kan Allāh beskrivas som glömmande? Svar: Att glömma kan innebära två
-  olika saker: Förbise något som är känt, som i versen: ”Herre! Ställ oss inte
-  tills vars för glömska eller oavsi...
+description: 'Att glömma kan innebära två olika saker: Förbise något som är känt, som i versen: > ”Herre!'
 ---
 
 **Fråga:** Kan Allāh beskrivas som glömmande?

@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 426
-description: >-
-  Fråga: Vilket är utlåtandet om att dagtid under ramadan bada mycket, mer än en
-  gång? Vilket är utlåtandet om att sitta vid luftkonditioneringen hela tiden
-  under fastan då det kommer en del fukt fr...
+description: 'Sannerligen är det tillåtet och det är ingen fara. Utan tvekan brukade sändebudet – över honom vare Allāhs frid och välsignelser – hälla vatten över sitt…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att dagtid under *ramaḍān* bada mycket, mer än en gång? Vilket är utlåtandet om att sitta vid luftkonditioneringen hela tiden under fastan då det kommer en del fukt från den?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Arafat
 original_id: 836
-description: >-
-  Fråga: När beger sig en pilgrim [under vallfärden] till Arafat och när beger
-  han sig därifrån? Svar: Det är föreskrivet att bege sig dit efter soluppgången
-  under Arafat-dagen, vilket är den ni...
+description: 'Det är föreskrivet att bege sig dit efter soluppgången under ´Arafāt-dagen, vilket är den nionde dagen [i d̲hul-ḥijjah].'
 ---
 
 **Fråga:** När beger sig en pilgrim [under vallfärden] till *´Arafāt* och när beger han sig därifrån?

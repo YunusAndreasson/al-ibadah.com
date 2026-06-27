@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Graviditet och amning
 original_id: 453
-description: >-
-  Fråga: Vad krävs av en gravid eller ammande kvinna om hon bryter fastan under
-  ramadan och vilken mängd ris är tillräcklig att ge till de fattiga? Svar: För
-  en gravid eller ammande kvinna är de...
+description: 'För en gravid eller ammande kvinna är det inte tillåtet att bryta fastan dagtid under ramaḍān om det inte sker med en ursäkt.'
 ---
 
 **Fråga:** Vad krävs av en gravid eller ammande kvinna om hon bryter fastan under *ramaḍān* och vilken mängd ris är tillräcklig att ge till de fattiga?

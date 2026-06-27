@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Monoteism
 original_id: 93
-description: >-
-  Fråga: Varför dyrkar vi Allāh? Svar: I vissa ahādīth rapporteras att när
-  räkenskapens stund inträffar i Nästa Liv, då kommer Allāh att föra fram
-  tjänaren och fråga: ”Varför dyrkade du Mig?” ...
+description: 'I vissa aḥādīt̲h rapporteras att när räkenskapens stund inträffar i Nästa Liv, då kommer Allāh att föra fram tjänaren och fråga: ”Varför dyrkade du Mig?”…'
 ---
 
 **Fråga:** Varför dyrkar vi Allāh?

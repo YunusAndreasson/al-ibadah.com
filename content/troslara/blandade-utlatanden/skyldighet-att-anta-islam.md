@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1577
-description: >-
-  Fråga: Måste de som inte tror anta islam? Svar: Det är en skyldighet för dem
-  som inte tror att anta islam. Även om de är kristna eller judar gäller detta,
-  och det beror på att Allāh den Upphöj...
+description: 'Det är en skyldighet för dem som inte tror att anta islam. Även om de är kristna eller judar gäller detta, och det beror på att Allāh den Upphöjde i Sin…'
 ---
 
 **Fråga:** Måste de som inte tror anta islam?

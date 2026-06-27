@@ -5,10 +5,7 @@ source: al-Wasiyyah al-Jāmi’ah li Khayr al-Dunyā wa’l-Ākhirah
 categories:
   - Blandat
 original_id: 511
-description: >-
-  Fråga: Vilka är de bästa handlingarna efter de obligatoriska? Följande fråga
-  ställdes till s̲hayk̲h ul-islām ibn Taymiyyah: Jag bad s̲hayk̲hen, som går i de
-  tidiga generationernas fotsteg som var ...
+description: 'Det du har frågat om, vilka som är de bästa handlingarna efter de obligatoriska, varierar från den ena individen till den andra beroende på vad personen…'
 ---
 
 **Fråga:** Vilka är de bästa handlingarna efter de obligatoriska?

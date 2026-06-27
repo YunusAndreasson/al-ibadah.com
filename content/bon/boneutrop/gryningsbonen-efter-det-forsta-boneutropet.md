@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 293
-description: >-
-  Fråga: Kan jag be gryningsbönen efter det första böneutropet? Anses tiden
-  mellan de båda böneutropen vara tid för gryningsbönen eller är det enbart
-  efter det andra? Svar: Bönen är inte giltig ...
+description: 'Bönen är inte giltig förrän tiden för den har börjat. Tiden för gryningsbönen börjar vid gryningen, som är det ljusa som syns i öst.'
 ---
 
 **Fråga:** Kan jag be gryningsbönen efter det första böneutropet? Anses tiden mellan de båda böneutropen vara tid för gryningsbönen eller är det enbart efter det andra?

@@ -6,9 +6,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 506
-description: 'Fråga: Är det tillåtet inom islam att betala allmosa till nära släktingar
- som är fattiga och behövande [bröder och systrar, farbröder och fastrar]? Svar: All
- lovprisan tillhör Allāh. Det är bä...'
+description: 'All lovprisan tillhör Allāh. Det är bättre att betala allmosa till släktingar som är berättigade till den än att ge den till dem som inte är dina…'
 ---
 
 **Fråga:** Är det tillåtet inom islam att betala allmosa till nära släktingar som är fattiga och behövande [bröder och systrar, farbröder och fastrar]?

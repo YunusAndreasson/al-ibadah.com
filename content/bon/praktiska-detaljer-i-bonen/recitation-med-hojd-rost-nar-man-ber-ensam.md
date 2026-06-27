@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 197
-description: >-
-  Fråga: Får den som ber ensam recitera med höjd röst i böner där man ska
-  recitera med höjd röst? Svar: Han får göra så, på samma sätt som det är
-  föreskrivet att en imam gör så. Detta är en ...
+description: 'Han får göra så, på samma sätt som det är föreskrivet att en imam gör så. Detta är en sunnah.'
 ---
 
 **Fråga:** Får den som ber ensam recitera med höjd röst i böner där man ska recitera med höjd röst?

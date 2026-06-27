@@ -7,8 +7,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 1143
-description: 'Fråga: En kvinna är inte säker på vad det är för sorts blod som kommer;
- hon vet inte om det är menstruationsblod, en vaginal blödning eller något annat – vad bör hon då anse att det är? Svar: ...'
+description: 'Den grundläggande principen gällande blod som kommer från en kvinna är att det är menstruationsblod tills det blir klart att det är en vaginal blödning.'
 ---
 
 **Fråga:** En kvinna är inte säker på vad det är för sorts blod som kommer; hon vet inte om det är menstruationsblod, en vaginal blödning eller något annat – vad bör hon då anse att det är?

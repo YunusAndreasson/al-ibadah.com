@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Övrigt
 original_id: 481
-description: >-
-  Fråga: Jag behövde gottgöra mig genom att fasta två på varandra efterföljande
-  månader och jag fastade dem, alhamdulillah . Men jag fastade hela den första
-  månaden, sedan bröt jag min fasta under ...
+description: 'Om du bröt fastan på grund av en föreskriven anledning, som sjukdom, och du sedan skyndade dig med att fullborda de båda månaderna när sjukdomen gått över,…'
 ---
 
 **Fråga:** Jag behövde gottgöra mig genom att fasta två på varandra efterföljande månader och jag fastade dem, *al-ḥamdulillāh*. Men jag fastade hela den första månaden, sedan bröt jag min fasta under två dagar och sedan fullbordade jag fastan. Innan den sista månaden hade gått till ända blev jag sjuk under tre dagar så jag bröt min fasta och tog därefter igen dessa dagar. Sedan sade några till mig att jag måste fasta två månader i sträck igen men utan att bryta fastan däremellan. Vänligen, vägled mig till vad jag ska göra.

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 1221
-description: >-
-  Fråga: Bör man göra takbīr två gånger om man ber bakom imamen och går in i
-  bönen när han bugar? Svar: Går man in i bönen när imamen bugar, då gör man
-  öppnings- takbīr . Därefter bugar man sig ...
+description: 'Går man in i bönen när imamen bugar, då gör man öppnings-takbīr. Därefter bugar man sig omedelbart för bugningen.'
 ---
 
 **Fråga:** Bör man göra *takbīr* två gånger om man ber bakom imamen och går in i bönen när han bugar?

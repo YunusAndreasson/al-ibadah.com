@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 449
-description: >-
-  Fråga: Om en kvinna blir ren direkt efter gryningsbönen, håller hon sig då
-  borta [från mat och dryck] och fastar denna dag som räknas som en dag för
-  henne, eller måste hon ta igen denna dag? Sv...
+description: 'Om blodet upphör att rinna från henne när gryningsbönen kommer eller lite innan, då är hennes fasta giltig och hon sägs ha uppfyllt skyldigheten även om…'
 ---
 
 **Fråga:** Om en kvinna blir ren direkt efter gryningsbönen, håller hon sig då borta [från mat och dryck] och fastar denna dag som räknas som en dag för henne, eller måste hon ta igen denna dag?

@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Klädsel i bönen
 original_id: 929
-description: 'Fråga: Vilket är utlåtandet om en kvinna som under bönen bär kläder
- med öppningar som visar delar av vristen? Hon säger att hon enbart ber tillsammans
- med kvinnor. Svar: Jag anser att kvinnan ...'
+description: 'Jag anser att kvinnan måste täcka sig med kläder som döljer henne. s̲hayk̲h ul-islām har sagt att kvinnorna under profetens – över honom vare Allāhs frid…'
 ---
 
 **Fråga:** Vilket är utlåtandet om en kvinna som under bönen bär kläder med öppningar som visar delar av vristen? Hon säger att hon enbart ber tillsammans med kvinnor.

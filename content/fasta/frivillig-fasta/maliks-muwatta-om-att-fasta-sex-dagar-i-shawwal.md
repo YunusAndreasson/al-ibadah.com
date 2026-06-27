@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 1416
-description: >-
-  Fråga: Vad anser ni om att fasta sex dagar efter ramaḍān under s̲hawwāl?
-  Sannerligen står det i Māliks Muwatta att imam Mālik bin Anas har sagt att han
-  inte har sett någon av de lärda fasta sex da...
+description: 'Från Abū Ayyub har man bekräftat att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: "Den som fastar under ramaḍān och sedan…'
 ---
 
 **Fråga:** Vad anser ni om att fasta sex dagar efter *ramaḍān* under *s̲hawwāl*? Sannerligen står det i Māliks Muwatta att imam Mālik bin Anas har sagt att han inte har sett någon av de lärda fasta sex dagar efter att ha fullbordat *ramaḍān*. Han skriver: "*Och det har inte nått mig från någon av salaf*[^1]." Han har också sagt att de lärde inte gillar det, att de fruktar att det är en innovation och att det är att lägga till något som inte tillhör *ramaḍān*. Detta uttalande finns i *al-Muwatta'*, nummer 228.

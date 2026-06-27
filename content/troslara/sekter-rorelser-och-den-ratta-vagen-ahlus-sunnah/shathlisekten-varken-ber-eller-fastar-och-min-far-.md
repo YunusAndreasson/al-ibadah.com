@@ -10,10 +10,7 @@ categories:
   - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 138
-description: >-
-  Fråga: Det finns en sekt som kallas ash-shathliyyah. De varken ber, fastar
-  eller betalar allmosa och det finns en person som de kallar ”Sayyidunna” [Vår
-  Herre]. De anser att han är deras herre och...
+description: 'Förhåller det sig på så vis som du har beskrivit, att din far och de i sekten varken ber eller fastar och tror att deras s̲hayk̲h är deras herre, som…'
 ---
 
 **Fråga:** Det finns en sekt som kallas *ash-shathliyyah*. De varken ber, fastar eller betalar allmosa och det finns en person som de kallar ”Sayyidunna” [Vår Herre]. De anser att han är deras herre och att han kommer att representera dem på Domedagen. Han förlåter dem för allt som de gör i detta liv. De möts varje fredags- och måndagsmorgon.

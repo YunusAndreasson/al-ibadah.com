@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 597
-description: 'Fråga: Vilket är det bästa: kalla till islam eller söka kunskap? Svar: Söka
- kunskap är bättre och har en högre prioritet. Detta utesluter dock inte att han
- samtidigt kallar till islam samtidig...'
+description: 'Söka kunskap är bättre och har en högre prioritet. Detta utesluter dock inte att han kallar till islam samtidigt.'
 ---
 
 **Fråga:** Vilket är det bästa: kalla till islam eller söka kunskap?

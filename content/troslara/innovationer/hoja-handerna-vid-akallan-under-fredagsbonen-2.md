@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 691
-description: >-
-  Fråga: Vilket är utlåtandet om att höja händerna vid åkallan under
-  fredagsbönen? Jag brukade göra detta men sedan sade någon till mig att det
-  efter bönen var förbjudet. Han gav dock inga bevis. ...
+description: 'Det är inte föreskrivet att höja händerna under fredagsbönen. Profetens – över honom vare Allāhs frid och välsignelser – följeslagare motsade sig Bishr bin…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att höja händerna vid åkallan under fredagsbönen? Jag brukade göra detta men sedan sade någon till mig att det efter bönen var förbjudet. Han gav dock inga bevis.

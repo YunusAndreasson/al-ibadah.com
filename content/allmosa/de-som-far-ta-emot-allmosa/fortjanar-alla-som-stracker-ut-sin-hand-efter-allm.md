@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 1255
-description: >-
-  Fråga: Förtjänar alla som sträcker fram händerna efter allmosa den? Svar: Alla
-  som sträcker fram händerna efter allmosa förtjänar den inte. Det finns
-  människor som sträcker fram händerna efter...
+description: 'Alla som sträcker fram händerna efter allmosa förtjänar den inte. Det finns människor som sträcker fram händerna efter pengar medan de [redan] är förmögna.'
 ---
 
 **Fråga:** Förtjänar alla som sträcker fram händerna efter allmosa den?

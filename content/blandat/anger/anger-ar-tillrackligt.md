@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 664
-description: >-
-  Fråga: Jag är nu 29 år gammal och jag började be när jag var 24. All lovprisan
-  tillhör Allāh – jag ber fortfarande. Jag har försökt att ta igen alla de böner
-  jag missat från jag var 15 fram till da...
+description: 'Den korrekta åsikten är att du inte behöver ta igen de böner du missat då uppriktig ånger är tillräckligt för dig.'
 ---
 
 **Fråga:** Jag är nu 29 år gammal och jag började be när jag var 24. All lovprisan tillhör Allāh – jag ber fortfarande. Jag har försökt att ta igen alla de böner jag missat från jag var 15 fram till dags dato. Folk skiljer sig åt i denna fråga. Vissa säger att jag inte behöver ta igen dessa böner då ånger är tillräckligt. Andra säger att jag måste söka upprättelse för mina tidigare försumligheter genom att be alla böner som jag missat. Vilken av dessa båda åsikter är korrekt?

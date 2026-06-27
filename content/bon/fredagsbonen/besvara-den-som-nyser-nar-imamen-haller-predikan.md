@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 350
-description: 'Fråga: Vilket är utlåtandet om att besvara den som nyser medan imamen
- håller fredagspredikan? Svar: Då man måste vara tyst är det inte tillåtet. På
- samma sätt som den som nyser inte besvaras i ...'
+description: 'Då man måste vara tyst är det inte tillåtet. På samma sätt som den som nyser inte besvaras i bönen, besvaras personen heller inte under predikan.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att besvara den som nyser medan imamen håller fredagspredikan?

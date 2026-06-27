@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1116
-description: >-
-  Fråga: Vilket är utlåtandet om vatten som har förändrats efter att ha stått en
-  lång tid? Svar: Vattnet är rent även om det har förändrats. Det har ju inte
-  förändrats på grund av någon yttre ti...
+description: 'Vattnet är rent även om det har förändrats. Det har ju inte förändrats på grund av någon yttre tillsats utan enbart eftersom det har stått länge på samma…'
 ---
 
 **Fråga:** Vilket är utlåtandet om vatten som har förändrats efter att ha stått en lång tid?

@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Allmosa för smycken
 original_id: 622
-description: >-
-  Fråga: Min fru har guld som hon bär och som når den lägsta nivån som gör att
-  allmosa krävs. Behöver hon betala allmosa för dem? Är det jag eller hon som
-  ska betala den? Svar: Allmosa är en s...
+description: 'Allmosa är en skyldighet för smycken som är gjorda av guld eller silver om vikten uppnår den lägsta nivån som gör allmosa till ett krav.'
 ---
 
 **Fråga:** Min fru har guld som hon bär och som når den lägsta nivån som gör att allmosa krävs. Behöver hon betala allmosa för dem? Är det jag eller hon som ska betala den?

@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1690
-description: >-
-  Fråga: Ädle shaykh, mina barn lyder mig inte och de utför inte ens de minsta
-  plikterna gentemot mig eller sin moder. Detta trots att hon är gammal och
-  har dålig syn. Vänligen, klargör för dem oc...
+description: 'Barn måste lyda sina föräldrar i vad som är bra, vara vänliga och plikttrogna mot dem och undvika att inte lyda dem i vad som inte motsäger sig den…'
 ---
 
 **Fråga:** Ädle *s̲hayk̲h*, mina barn lyder mig inte och de utför inte ens de minsta plikterna gentemot mig eller sin moder. Detta trots att hon är gammal och har dålig syn. Vänligen, klargör för dem och ge dem råd om deras föräldrars rättigheter.

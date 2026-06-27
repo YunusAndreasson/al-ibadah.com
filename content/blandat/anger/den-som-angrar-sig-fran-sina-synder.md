@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 677
-description: >-
-  Fråga: Vilken, ädle shaykh, är din åsikt om någon som avsiktligen övergav
-  bönen och fastan men som senare inte bara ångrade sig och grät på grund av
-  överträdelsen, utan hela tiden även utfört de o...
+description: 'Den som inte ber eller fastar men som sedan ångrar sig behöver inte ta igen den bön och fasta han förlorat.'
 ---
 
 **Fråga:** Vilken, ädle *s̲hayk̲h*, är din åsikt om någon som avsiktligen övergav bönen och fastan men som senare inte bara ångrade sig och grät på grund av överträdelsen, utan hela tiden även utfört de obligatoriska handlingarna av dyrkan? Är denna ånger tillräcklig för honom eller måste han ta igen de förlorade bönerna och fastan?

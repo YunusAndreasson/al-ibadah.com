@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 198
-description: 'Fråga: Får man be på en plats där den finns en toalett framför? Det
- enda som separerar är en vägg. Är det kanske bättre att be någon annanstans? Svar: Så
- länge det är rent finns det ingen invä...'
+description: 'Så länge det är rent finns det ingen invändan mot att be på denna plats. Detta gäller även om toaletten är framför dig.'
 ---
 
 **Fråga:** Får man be på en plats där den finns en toalett framför? Det enda som separerar är en vägg. Är det kanske bättre att be någon annanstans?

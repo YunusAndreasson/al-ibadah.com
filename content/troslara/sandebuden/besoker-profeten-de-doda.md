@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 126
-description: >-
-  Fråga: Besöker profeten – över honom vare Allāhs frid och välsignelser – de
-  döda eller kommer hans avbild till dem? Svar: Att profeten, eller någon annan
-  som har återvänt till sin Herre, gör b...
+description: 'Att profeten, eller någon annan som har återvänt till sin Herre, gör besök är något som tillhör det som är dolt för människor.'
 ---
 
 **Fråga:** Besöker profeten – över honom vare Allāhs frid och välsignelser – de döda eller kommer hans avbild till dem?

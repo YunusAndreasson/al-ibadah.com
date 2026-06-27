@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Siare och trollkarlar
 original_id: 1191
-description: >-
-  Fråga: Vad är al-kahanah och vilket är utlåtandet om att besöka en kahin ?
-  Svar: al-Kahanah härleds från at-takahhun som betyder att sätta ihop lögner
-  eller att söka efter sanningen på ...
+description: 'al-Kahanah härleds från at-takahhun som betyder att sätta ihop lögner eller att söka efter sanningen på ett sätt som saknar grund.'
 ---
 
 **Fråga:** Vad är *al-kahanah* och vilket är utlåtandet om att besöka en *kahin*?

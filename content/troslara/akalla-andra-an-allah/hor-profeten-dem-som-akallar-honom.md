@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Åkallan av döda
 original_id: 920
-description: >-
-  Fråga: Hör profeten dem som åkallar honom vid hans grav, eller de hälsningar
-  som denna hadīth antyder: ” Den som åkallar mig vid min grav hör jag ”
-  [al-Bayhaqī i Shu’abul-Īmān 2:218, 1583]. Är...
+description: 'Normalt sett hör de som har gått bort inte de som är vid liv, eller deras åkallan. Allāh säger: ”Men du kan inte förmå dem att lyssna som är […] begravda.”…'
 ---
 
 **Fråga:** Hör profeten dem som åkallar honom vid hans grav, eller de hälsningar som denna *ḥadīt̲h* antyder: ”*Den som åkallar mig vid min grav hör jag*” [al-Bayhaqī i *Shu’abul-Īmān* 2:218, 1583]. Är denna *ḥadīt̲h* autentisk, svag eller påhittad?

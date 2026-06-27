@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1229
-description: >-
-  Fråga: Bör man ta igen sunnah -bönerna om tiden för dem har gått ut? Svar: Ja,
-  sunnah -bönerna kan tas igen om tiden för dem har gått ut på grund av glömska
-  eller sömn. De innefattas i den g...
+description: 'Ja, sunnah-bönerna kan tas igen om tiden för dem har gått ut på grund av glömska eller sömn.'
 ---
 
 **Fråga:** Bör man ta igen *sunnah*-bönerna om tiden för dem har gått ut?

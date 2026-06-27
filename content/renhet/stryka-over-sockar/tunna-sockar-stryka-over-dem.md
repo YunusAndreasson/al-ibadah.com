@@ -7,9 +7,7 @@ categories:
   - Renhet (Tahārah)
   - Strykning över strumpor
 original_id: 1442
-description: 'Fråga: Vilket är utlåtandet om att stryka över tunna sockar? Svar: Ett
- av villkoren för att det ska vara tillåtet att stryka över sockarna är att de
- är tjocka och täcker foten. Om de är tunn...'
+description: 'Ett av villkoren för att det ska vara tillåtet att stryka över sockarna är att de är tjocka och täcker foten.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att stryka över tunna sockar?

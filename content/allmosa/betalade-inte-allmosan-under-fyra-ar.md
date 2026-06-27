@@ -6,9 +6,7 @@ source: 'Fahd bin Nasir bin Ibrahim as-Sulaiman(1424), Fatawa Arkanul-Islam. Vol
 categories:
   - Allmosa (Zakāh)
 original_id: 1014
-description: 'Fråga: En person betalade inte allmosan under fyra år. Vad måste personen
- nu göra? Svar: Personen har syndat genom att skjuta upp betalningen av allmosan.
- Allmosan måste betalas när den blir en skyl...'
+description: 'Personen har syndat genom att skjuta upp betalningen av allmosan. Allmosan måste betalas när den blir en skyldighet och den får inte skjutas upp.'
 ---
 
 **Fråga:** En person betalade inte allmosan under fyra år. Vad måste personen nu göra?

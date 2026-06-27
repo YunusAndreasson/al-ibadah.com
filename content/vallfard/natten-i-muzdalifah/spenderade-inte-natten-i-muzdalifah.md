@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Muzdalifah-natten
 original_id: 841
-description: >-
-  Fråga: Vilket är utlåtandet om en pilgrim som inte spenderade natten före ‘eid
-  [den tionde thul-hijjah ]? Svar: Det är obligatoriskt att tillbringa natten i
-  Muzdalifah. Den svage får bege s...
+description: 'Det är obligatoriskt att tillbringa natten i Muzdalifah. Den svage får bege sig [till Minā] under nattens slut.'
 ---
 
 **Fråga:** Vilket är utlåtandet om en pilgrim som inte spenderade natten före *´eid* [den tionde *d̲hul-ḥijjah*]?

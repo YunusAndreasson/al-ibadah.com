@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 674
-description: >-
-  Fråga: Allāhs sändebud har sagt att den bankrutta personen är den som kommer
-  till Domedagen och har handlat fel mot den och den och som har förbannat den
-  och den. Vilket är då Allāhs utlåtande om ...
+description: '[…] Han blir inte fri från ansvar genom att enbart ångra sig. Han måste återlämna vad han tagit från dem som han handlat felaktigt mot eller så måste han…'
 ---
 
 **Fråga:** Allāhs sändebud har sagt att den bankrutta personen är den som kommer till Domedagen och har handlat fel mot den och den och som har förbannat den och den. Vilket är då Allāhs utlåtande om den person som ångrar sig men som eftersom han är fattig inte kan återlämna vad han tagit?

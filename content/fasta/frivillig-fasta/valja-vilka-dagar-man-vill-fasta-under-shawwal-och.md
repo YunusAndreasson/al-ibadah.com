@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 1268
-description: >-
-  Fråga: Är det tillåtet att välja de dagar som man vill fasta under s̲hawwāl
-  eller är det bestämda dagar som gäller? Om en muslim fastar dessa dagar, blir
-  det då en skyldighet att fasta dem varje å...
+description: 'Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: "Den som fastade ramaḍān, [och] sedan följde den med sex dagar från s̲hawwāl,…'
 ---
 
 **Fråga:** Är det tillåtet att välja de dagar som man vill fasta under *s̲hawwāl* eller är det bestämda dagar som gäller? Om en muslim fastar dessa dagar, blir det då en skyldighet att fasta dem varje år?

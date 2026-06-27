@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 1650
-description: 'Fråga: Jag har märkt att somliga kysser handen och lägger den på bröstet
- när de hälsar. Jag antar att det är för att försöka öka den ömsesidiga kärleken
- som de har för varandra. Är detta tillåtet ...'
+description: 'Denna handling har inget ursprung i den islamiska lagen. Det är inte föreskrivet att kyssa handen eller placera den på bröstet när man har skakat hand.'
 ---
 
 **Fråga:** Jag har märkt att somliga kysser handen och lägger den på bröstet när de hälsar. Jag antar att det är för att försöka öka den ömsesidiga kärleken som de har för varandra. Är detta tillåtet enligt islam?

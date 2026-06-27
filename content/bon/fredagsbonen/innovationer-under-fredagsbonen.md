@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 1542
-description: >-
-  Fråga: [I den långa frågan diskuteras ett antal olika innovationer.] Svar:
-  Nashīd före böneutropet under fredagsbönen har inte bekräftats vara tillåtet,
-  därmed är det en innovation. Fredagar...
+description: 'Nashīd före böneutropet under fredagsbönen har inte bekräftats vara tillåtet, därmed är det en innovation.'
 ---
 
 **Fråga:** [I den långa frågan diskuteras ett antal olika innovationer.]

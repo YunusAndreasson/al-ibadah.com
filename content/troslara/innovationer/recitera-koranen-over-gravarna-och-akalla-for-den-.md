@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 1248
-description: >-
-  Fråga: Vilket är utlåtandet om att recitera Koranen över gravarna och åkalla
-  jämte graven för den avlidne? Svar: Att recitera Koranen över gravarna är en
-  innovation som inte har rapporterats f...
+description: 'Att recitera Koranen över gravarna är en innovation som inte har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – eller hans…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att recitera Koranen över gravarna och åkalla jämte graven för den avlidne?

@@ -6,9 +6,7 @@ categories:
   - Blandat
   - Ekonomi
 original_id: 1709
-description: 'Fråga: Det finns banker som förser sina kunder med kreditkort, i detta
- fall VISA. Dessa kort tillåter kunderna att ta ut pengar från ett bankkonto även
- om där inte finns tillräckligt med pengar vi...'
+description: 'Denna transaktion är förbjuden. Det beror på att den består av en överenskommelse om att en ränta ska betalas om återbetalningen inte sker i tid.'
 ---
 
 **Fråga:** Det finns banker som förser sina kunder med kreditkort, i detta fall VISA. Dessa kort tillåter kunderna att ta ut pengar från ett bankkonto även om där inte finns tillräckligt med pengar vid det aktuella tillfället. Efter en viss tid är kunden skyldig att betala tillbaka pengarna som han tidigare tog ut. Om han inte gör detta före tiden har gått ut kommer banken att debitera honom en extra summa som tillägg. Vad är reglerna i fråga om dessa kort?

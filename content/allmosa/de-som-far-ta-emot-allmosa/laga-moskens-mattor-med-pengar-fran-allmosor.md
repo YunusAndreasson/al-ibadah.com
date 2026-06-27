@@ -8,9 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 639
-description: 'Fråga: Är det tillåtet att spendera på moskén för att laga den och
- dess mattor och liknande genom pengar från allmosor. Detta eftersom moskén inte
- har några inkomstkällor för att sköta den. Folket...'
+description: 'Det är känt att sådant som rör moskéerna tillhör ministeriet för pilgrimsfärd och gåvofonder [Detta avser Saudiarabien].'
 ---
 
 **Fråga:** Är det tillåtet att spendera på moskén för att laga den och dess mattor och liknande genom pengar från allmosor. Detta eftersom moskén inte har några inkomstkällor för att sköta den. Folket där är också fattiga.

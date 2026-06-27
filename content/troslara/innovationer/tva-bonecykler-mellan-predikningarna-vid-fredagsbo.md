@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 1514
-description: >-
-  Fråga: Jag har märkt att när imamen sätter sig ned under fredagsbönen mellan
-  de båda predikningarna, då ställer sig vissa upp för att be två bönecykler och
-  sedan sitter de ned. Vilket är utlåtande...
+description: 'Denna bön är inte föreskriven. Det som är föreskrivet när imamen har gått in i moskén är att folket sitter ned och lyssnar på hans predikan samt att de…'
 ---
 
 **Fråga:** Jag har märkt att när imamen sätter sig ned under fredagsbönen mellan de båda predikningarna, då ställer sig vissa upp för att be två bönecykler och sedan sitter de ned. Vilket är utlåtandet om denna bön? Är det tillåtet att stå upp och be när man har satt sig ned när man har kommit in i moskén?

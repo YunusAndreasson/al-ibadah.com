@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 584
-description: >-
-  Fråga: En person såg några arbetare på sin väg till moskén, så han stannade,
-  gav dem några råd och uppmuntrade dem att medverka vid bönen. Som ett resultat
-  av detta missade han själv den första t...
+description: 'Han belönas mer än de som sade den första takbīr då det är sunnah att då vara närvarande. När det gäller att uppmuntra dessa arbetare till vad som är gott…'
 ---
 
 **Fråga:** En person såg några arbetare på sin väg till moskén, så han stannade, gav dem några råd och uppmuntrade dem att medverka vid bönen. Som ett resultat av detta missade han själv den första *takbīr*. Belönas han på samma sätt som de som sade den första *takbīr*?

@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 637
-description: 'Fråga: Det finns en religiös ung man som vill gifta sig och det råder
- inga tvivel om att han behöver hjälp för att göra det. Får jag ge honom allmosa
- för att hjälpa till med äktenskapet? ...'
+description: 'Det är tillåtet att betala allmosa till den unge mannen för att hjälpa honom att gifta sig om han inte har råd med det. Och Allāh är Den som ger framgång.'
 ---
 
 **Fråga:** Det finns en religiös ung man som vill gifta sig och det råder inga tvivel om att han behöver hjälp för att göra det. Får jag ge honom allmosa för att hjälpa till med äktenskapet?

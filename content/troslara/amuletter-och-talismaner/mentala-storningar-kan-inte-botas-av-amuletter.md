@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Amuletter och talismaner
 original_id: 101
-description: >-
-  Fråga: Kan jag bära amuletter då jag lider av mentala störningar? Svar: Enligt
-  de ahādīth som vi har nämnt är det inte tillåtet att bära amuletter. Det är
-  dock tillåtet att besvärja genom at...
+description: 'Enligt de aḥādīt̲h som vi har nämnt är det inte tillåtet att bära amuletter. Det är dock tillåtet att besvärja genom att använda Koranen, åkallan, nattbön,…'
 ---
 
 **Fråga:** Kan jag bära amuletter då jag lider av mentala störningar?

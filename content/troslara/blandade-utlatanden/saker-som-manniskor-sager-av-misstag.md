@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 95
-description: >-
-  Fråga: Vi hör ibland vanligt folk säga saker som vi är oroliga för att det kan
-  vara shirk. Detta kan vara när de säger: ”Jag tror inte att Allāh skulle...”
-  eller ”Allāh skulle inte säga det” och l...
+description: 'Vad vanligt folk ofta säger, det sägs utan avsikt och de tror inte att det finns något förbjudet i det.'
 ---
 
 **Fråga:** Vi hör ibland vanligt folk säga saker som vi är oroliga för att det kan vara *s̲hirk*. Detta kan vara när de säger: ”Jag tror inte att Allāh skulle…” eller ”Allāh skulle inte säga det” och liknande saker. Vilken är din åsikt om detta? Må Allāh belöna dig.

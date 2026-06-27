@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 568
-description: >-
-  Fråga: Vad gäller den som överger gryningsbönen? Svar: Om det som avses i
-  frågan är att inte be gryningsbönen i församlingen så är detta förbjudet och
-  en synd. Detta beror på att män måste be ...
+description: 'Om det som avses i frågan är att inte be gryningsbönen i församlingen så är detta förbjudet och en synd.'
 ---
 
 **Fråga:** Vad gäller den som överger gryningsbönen?

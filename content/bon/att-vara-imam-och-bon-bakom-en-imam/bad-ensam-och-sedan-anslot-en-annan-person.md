@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 205
-description: >-
-  Fråga: Om jag gick in i moskén efter den gemensamma bönen var slut, började be
-  med öppnings- takbīr och en annan man började be tillsammans med mig utan att
-  jag hade avsett det – är hans bön gilt...
+description: 'Den korrekta åsikten är att du får avse att vara imam när en eller flera personer börjar be med dig.'
 ---
 
 **Fråga:** Om jag gick in i moskén efter den gemensamma bönen var slut, började be med öppnings-*takbīr* och en annan man började be tillsammans med mig utan att jag hade avsett det – är hans bön giltig då?

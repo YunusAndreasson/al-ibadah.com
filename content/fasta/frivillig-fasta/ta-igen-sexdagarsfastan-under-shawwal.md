@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 1418
-description: >-
-  Fråga: En kvinna fastade varje år sex dagar i s̲hawwāl. Men ett år så födde hon
-  i början av ramaḍān och blödde då efter graviditeten. Hon blev inte ren förrän
-  ramaḍān var över. När hon hade blivit ...
+description: 'Att fasta sex dagar under s̲hawwāl är sunnah, inte obligatoriskt. Detta beror på att profeten – över honom vare Allāhs frid och välsignelser – har sagt:…'
 ---
 
 **Fråga:** En kvinna fastade varje år sex dagar i *s̲hawwāl*. Men ett år så födde hon i början av *ramaḍān* och blödde då efter graviditeten. Hon blev inte ren förrän *ramaḍān* var över. När hon hade blivit ren började hon med att ta igen dagarna som hon hade missat [under *ramaḍān*]. Är hon skyldig att även ta igen de sex dagarna [under *s̲hawwāl*] efter att ha tagit igen fastan under *ramaḍān* även om detta sker under en annan månad än *s̲hawwāl* eller behöver hon enbart ta igen *ramaḍān*? Är det alltid en skyldighet att fasta dessa sex dagar under *s̲hawwāl*?

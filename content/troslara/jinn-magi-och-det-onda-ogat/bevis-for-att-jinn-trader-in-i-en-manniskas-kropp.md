@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - 'Jinn, magi och det onda ögat'
 original_id: 1655
-description: >-
-  Fråga: Finns det några bevis som stöder påstående att jinn kan anta en
-  mänsklig form? Svar: Ja, det finns bevis i Skriften och i profetens sunnah för
-  att jinn träder in i människor. I Koranen s...
+description: 'Ja, det finns bevis i Skriften och i profetens sunnah för att jinn träder in i människor. I Koranen säger Allāh den Allsmäktige: ”De som livnär sig på…'
 ---
 
 **Fråga:** Finns det några bevis som stöder påståendet att *jinn* kan anta en mänsklig form?

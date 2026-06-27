@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 427
-description: >-
-  Fråga: Jag fastade och sov då i en moské. När jag hade vaknat fann jag att jag
-  hade haft en våt dröm. Inverkar den våta drömmen på fastan? Detta i vetskap om
-  att jag inte gjorde ghusl och att ja...
+description: 'Den våta drömmen förstör inte fastan då den inte kom genom tjänarens eget val. Personen måste dock utföra ett fullständigt bad efter en sexuell orenhet om…'
 ---
 
 **Fråga:** Jag fastade och sov då i en moské. När jag hade vaknat fann jag att jag hade haft en våt dröm. Inverkar den våta drömmen på fastan? Detta i vetskap om att jag inte gjorde *g̲husl* och att jag bad utan att ha gjort *g̲husl*. Vid ett annat tillfälle fick jag en sten i huvudet och blod började rinna från det. Bröts min fasta på grund av blodet? Och när det gäller kräkningar, förstör de fastan? Jag hoppas på ett givande svar.

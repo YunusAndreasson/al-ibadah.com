@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Övrigt
 original_id: 574
-description: >-
-  Fråga: Vad händer med en person, även om hans föräldrar var muslimer, som dör
-  och inte bad? Skall hans kropp tvättas och ska en begravningsceremoni hållas
-  för honom? Svar: En vuxen och menta...
+description: 'En vuxen och mentalt frisk person som dör utan att be – förutsatt att han känner till islams syn på bönen – är en icke-troende.'
 ---
 
 **Fråga:** Vad händer med en person, även om hans föräldrar var muslimer, som dör och inte bad? Skall hans kropp tvättas och ska en begravningsceremoni hållas för honom?

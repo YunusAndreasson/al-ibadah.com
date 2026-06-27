@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 1657
-description: >-
-  Fråga: Vilket är det islamiska utlåtandet om att använda radband, något som
-  många av oss använder efter att vi fullföljt bönen? Svar: Det är bättre att
-  använda sina fingrar för åminnelse och de...
+description: 'Det är bättre att använda sina fingrar för åminnelse och det är bättre att enbart använda högerhanden när man gör så i stället för att både använda den…'
 ---
 
 **Fråga:** Vilket är det islamiska utlåtandet om att använda radband, något som många av oss använder efter att vi fullföljt bönen?

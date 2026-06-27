@@ -6,9 +6,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 563
-description: 'Fråga: En man på vår arbetsplats både godkänner och propagerar för
- firandet av profetens – över honom vare Allāhs frid och välsignelser – födelsedag.
- Bör jag överge honom för Allāhs skull? Må Allā...'
+description: 'Att fira profetens – över honom vare Allāhs frid och välsignelser – födelsedag är en innovation. Den som följer denna väg är en innovatör.'
 ---
 
 **Fråga:** En man på vår arbetsplats både godkänner och propagerar för firandet av profetens – över honom vare Allāhs frid och välsignelser – födelsedag. Bör jag överge honom för Allāhs skull? Må Allāh belöna er med det bästa.

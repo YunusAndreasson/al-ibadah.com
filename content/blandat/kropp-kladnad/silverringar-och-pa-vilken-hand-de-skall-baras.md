@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Kropp och klädnad
 original_id: 1700
-description: >-
-  Fråga: Vilket är utlåtandet om att bära en silverring och på vilken hand bör
-  den bäras? Svar: Det finns inget skadligt i att bära en silverring, varken för
-  en man eller för en kvinna. Det är äv...
+description: 'Det finns inget skadligt i att bära en silverring, varken för en man eller för en kvinna. Det är även tillåtet att bära det på vilken hand man vill, även…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att bära en silverring och på vilken hand bör den bäras?

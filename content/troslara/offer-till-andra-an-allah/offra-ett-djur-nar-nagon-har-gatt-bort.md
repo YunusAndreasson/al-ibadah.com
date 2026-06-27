@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Offer till andra än Allāh
 original_id: 32
-description: >-
-  Fråga: I mitt land dyrkar vissa andra än Allāh – upphöjd är Han. De har en
-  tradition att när någon avlider, då avlivar de en ko, ett får, eller något
-  annat djur. När det har avlivats, då delar ...
+description: 'Att dyrka andra eller annat än Allāh i form av att svära eder, eller att söka hjälp ifrån andra än Allāh [som de avlidna, frånvarande, träd eller liknande]…'
 ---
 
 **Fråga:** I mitt land dyrkar vissa andra än Allāh – upphöjd är Han. De har en tradition att när någon avlider, då avlivar de en ko, ett får, eller något annat djur. När det har avlivats, då delar de ut köttet bland de muslimer som bor i närheten. Dessa muslimer vägrar dock att acceptera det och de påstår att det inte är tillåtet.

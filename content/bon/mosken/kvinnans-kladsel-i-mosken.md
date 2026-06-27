@@ -6,9 +6,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 1364
-description: 'Fråga: Ett antal kvinnor vid islamiska center har inte en korrekt islamisk
- slöja. Om de ansvariga vid centret är för hårda mot dem kommer de inte tillbaka
- för att lära sig sin religion och resulta...'
+description: 'Enligt min åsikt, bör du göra rum för och välkomna dem som kan tänkas komma, samtidigt som du gång på gång ger råd.'
 ---
 
 **Fråga:** Ett antal kvinnor vid islamiska center har inte en korrekt islamisk slöja. Om de ansvariga vid centret är för hårda mot dem kommer de inte tillbaka för att lära sig sin religion och resultatet blir att deras tro försvagas.

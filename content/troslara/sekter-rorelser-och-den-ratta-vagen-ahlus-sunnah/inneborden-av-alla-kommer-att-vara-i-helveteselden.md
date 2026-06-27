@@ -9,10 +9,7 @@ categories:
   - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 25
-description: >-
-  Fråga: Vilken är innebörden av följande hadīth : ”Mitt samfund kommer att
-  splittras i 73 [olika grupper]. Alla kommer att vara i Helveteselden utom en
-  grupp.” Vilken är denna grupp? Kommer de 72 ...
+description: 'Det som avses med termen ”samfund” i denna ḥadīt̲h är ”det svarande samfundet” som ska splittras i 73 [olika grupper].'
 ---
 
 **Fråga:** Vilken är innebörden av följande *ḥadīt̲h*: ”Mitt samfund kommer att splittras i 73 [olika grupper]. Alla kommer att vara i Helveteselden utom en grupp.” Vilken är denna grupp? Kommer de 72 olika grupperna att vara i Elden för alltid, som månggudadyrkarna?

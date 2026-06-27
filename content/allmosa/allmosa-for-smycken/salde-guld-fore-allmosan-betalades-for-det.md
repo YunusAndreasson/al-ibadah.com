@@ -6,10 +6,7 @@ categories:
   - Allmosa (Zakāh)
   - Allmosa för smycken
 original_id: 554
-description: >-
-  Fråga: Jag sålde guld [smycken] som jag brukade bära för en tid, men jag
-  betalade inte allmosa för dem. Jag skulle vilja att ni klargör vad jag ska
-  göra angående dess allmosa. Jag sålde dem för 40...
+description: 'Om du inte visste att du behövde betala allmosa för dem förrän du hade sålt dem finns det ingenting du behöver göra.'
 ---
 
 **Fråga:** Jag sålde guld [smycken] som jag brukade bära för en tid, men jag betalade inte allmosa för dem. Jag skulle vilja att ni klargör vad jag ska göra angående dess allmosa. Jag sålde dem för 4000 riyal[^1].

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 1482
-description: >-
-  Fråga: Vad gäller den som ber en icke-obligatorisk bön och som leder någon som
-  ber en obligatorisk? Svar: Den som ber en obligatorisk bön får ledas av någon
-  som ber en icke-obligatorisk. Detta...
+description: 'Den som ber en obligatorisk bön får ledas av någon som ber en icke-obligatorisk. Detta grundas på att Mu''ath brukade be nattbönen tillsammans med profeten…'
 ---
 
 **Fråga:** Vad gäller den som ber en icke-obligatorisk bön och som leder någon som ber en obligatorisk?

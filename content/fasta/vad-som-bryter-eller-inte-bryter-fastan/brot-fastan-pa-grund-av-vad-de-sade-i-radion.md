@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 411
-description: >-
-  Fråga: Under en dag i ramadan förkunnade programledaren i radio att
-  böneutropet för kvällsbönen skulle komma om två minuter. Samtidigt ropade
-  böneutroparen i grannmoskén ut böneutropet. Vilken bö...
+description: 'Om böneutroparen ropar ut böneutropet efter att ha sett på solen och utroparen är pålitlig, då följer vi böneutroparen.'
 ---
 
 **Fråga:** Under en dag i *ramaḍān* förkunnade programledaren i radio att böneutropet för kvällsbönen skulle komma om två minuter. Samtidigt ropade böneutroparen i grannmoskén ut böneutropet. Vilken bör man då följa?

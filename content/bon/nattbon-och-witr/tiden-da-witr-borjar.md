@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nattbön
 original_id: 302
-description: >-
-  Fråga: När börjar tiden för witr? Svar: Tiden för witr är mellan nattbönen
-  och gryningsbönen. För dem som har möjlighet att gå upp och be är den bästa
-  tiden den senare delen av natten. De...
+description: 'Tiden för witr är mellan nattbönen och gryningsbönen. För dem som har möjlighet att gå upp och be är den bästa tiden den senare delen av natten.'
 ---
 
 **Fråga:** När börjar tiden för *witr*?

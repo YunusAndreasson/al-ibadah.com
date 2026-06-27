@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Arafat
 original_id: 886
-description: >-
-  Fråga: Vilken är innebörden av ”den största dagen under pilgrimsfärden” [ yawn
-  al-hajj al-akbar ] och “den största pilgrimsfärden”? Betyder de detsamma
-  eller är det olika saker? Återfinns de båda...
+description: 'All lovprisan tillhör Allāh. Den förnämsta dagen under pilgrimsfärden är offerdagen och detta är den tionde dagen i d̲hul-ḥijjah.'
 ---
 
 **Fråga:** Vilken är innebörden av ”den största dagen under pilgrimsfärden” [*yawm al-hajj al-akbar*] och ”den största pilgrimsfärden”? Betyder de detsamma eller är det olika saker? Återfinns de båda i Koranen och i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*?

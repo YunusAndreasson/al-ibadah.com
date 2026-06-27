@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Mina-natten
 original_id: 852
-description: 'Fråga: Om en pilgrim lämnar Mina före solnedgången den tolfte dagen
- med avsikten att skyndsamt ge sig av och personen har en del arbete i Mina som personen
- kommer att återvända för att göra efter solned...'
+description: 'Ja, personen anses vara någon som har gett sig av brådskande. Han har ju avslutat vallfärden och avsikten för hans återvändande till Minā för att arbeta…'
 ---
 
 **Fråga:** Om en pilgrim lämnar *Minā* före solnedgången den tolfte dagen med avsikten att skyndsamt ge sig av och personen har en del arbete i *Minā* som personen kommer att återvända för att göra efter solnedgången, anses personen då vara någon som gett sig av brådskande?

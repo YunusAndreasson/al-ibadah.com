@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 99
-description: >-
-  Fråga: Vilken är islams inställning till dem som använder folkmedicin? Svar: I
-  en hadīth rapporteras det: ”Allāh har inte sänt ned någon sjukdom utan att Han
-  har sänt ned ett botemedel ...
+description: 'I en ḥadīt̲h rapporteras det: > ”Allāh har inte sänt ned någon sjukdom utan att Han har sänt ned ett botemedel mot den.'
 ---
 
 **Fråga:** Vilken är islams inställning till dem som använder folkmedicin?

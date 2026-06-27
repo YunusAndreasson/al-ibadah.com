@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Övrigt
 original_id: 703
-description: >-
-  Fråga: Vilka skyldigheter har en muslim när personen utför den obligatoriska
-  vallfärden? Är det tillåtet att sysselsätta sig med saker som inte har med att
-  tjäna Allāh att göra? Svar: Personen måste...
+description: 'Personen måste ha sådant i tankarna som Allāh har gjort obligatoriskt. Detta innefattar att förrätta bönen noga vid deras givna tider i församlingen, att…'
 ---
 
 **Fråga:** Vilka skyldigheter har en muslim när personen utför den obligatoriska vallfärden? Är det tillåtet att sysselsätta sig med saker som inte har med att tjäna Allāh att göra?

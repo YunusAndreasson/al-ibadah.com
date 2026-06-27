@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1398
-description: >-
-  Fråga: Det finns en medicin som de med astma tar genom inhalering. Bryter
-  detta fastan? Svar: Medicinen för astma som sjuka använder genom inhalering
-  når de båda [lungorna] genom strupröre...
+description: 'Medicinen för astma som sjuka använder genom inhalering når de båda [lungorna] genom strupröret, men den når inte magen.'
 ---
 
 **Fråga:** Det finns en medicin som de med astma tar genom inhalering. Bryter detta fastan?

@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Skulder
 original_id: 721
-description: >-
-  Fråga: Jag är en man som under detta år vill utföra den obligatoriska
-  vallfärden. Jag har dock lånat en del pengar från banken och jag betalar av
-  varje månad. Avbetalningsperioden är inte över för...
+description: 'Har du möjlighet att få fram pengar för att vallfärda samtidigt som du betalar av skulden i tid, då måste du vallfärda.'
 ---
 
 **Fråga:** Jag är en man som under detta år vill utföra den obligatoriska vallfärden. Jag har dock lånat en del pengar från banken och jag betalar av varje månad. Avbetalningsperioden är inte över förrän om sex månader från dagsläget. Måste jag vallfärda och avklara skyldigheten? Detta i vetskap om att jag har lånat pengar före jag tänkt på att utföra denna skyldighet [vallfärden] och det var i ett annat syfte.

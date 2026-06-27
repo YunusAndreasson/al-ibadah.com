@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Allmosa för gåvor
 original_id: 625
-description: 'Fråga: Vid Kung Sauds Universitet har vi ett sparkonto för studenter
- där vi samlar pengar. Universitetet utför denna process genom att dra en liten summa
- från elevernas stipendier. Det som har sam...'
+description: 'Det krävs ingen allmosa för pengarna på detta konto, eller något som påminner om detta. Detta beror på att dessa tillgångar inte har någon ägare.'
 ---
 
 **Fråga:** Vid Kung Sauds Universitet har vi ett sparkonto för studenter där vi samlar pengar. Universitetet utför denna process genom att dra en liten summa från elevernas stipendier. Det som har samlats in till detta sparkonto ges sedan till de elever som har behov. Behöver man betala allmosa för de pengar som finns på detta sparkonto?

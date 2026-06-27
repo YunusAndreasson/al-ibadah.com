@@ -6,10 +6,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1377
-description: >-
-  Fråga: På apoteken finns det små flaskor med sprayer för munnen. Är det, för
-  att få bort lukten i munnen, tillåtet att använda dem vid fastan under
-  ramadan? Svar: Det är tillräckligt att använ...
+description: 'Det är tillräckligt att använda en miswāk som profeten – över honom vare Allāhs frid och välsignelser – har rekommenderat för munnen under fastan, i…'
 ---
 
 **Fråga:** På apoteken finns det små flaskor med sprayer för munnen. Är det, för att få bort lukten i munnen, tillåtet att använda dem vid fastan under *ramaḍān*?

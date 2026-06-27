@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 1499
-description: >-
-  Fråga: Har det rapporterats att profeten – över honom vare Allāhs frid och
-  välsignelser – brukade höja händerna vid åkallan efter den obligatoriska
-  bönen? Det har sagts till mig att han inte gjord...
+description: 'Det har inte rapporterats från profeten – över honom vare Allāhs frid och välsignelser – att han brukade höja händerna efter den obligatoriska bönen.'
 ---
 
 **Fråga:** Har det rapporterats att profeten – över honom vare Allāhs frid och välsignelser – brukade höja händerna vid åkallan efter den obligatoriska bönen? Det har sagts till mig att han inte gjorde det.

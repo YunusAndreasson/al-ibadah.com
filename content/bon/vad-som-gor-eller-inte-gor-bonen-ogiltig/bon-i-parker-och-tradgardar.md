@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 1527
-description: >-
-  Fråga: Vilket är utlåtandet om att be i trädgårdar? Svar: Så länge det kommer
-  en dålig lukt från dem, då är bön i dem inte giltig. En av grunderna för att
-  bönen ska vara giltig är att marken...
+description: 'Så länge det kommer en dålig lukt från dem, då är bön i dem inte giltig. En av grunderna för att bönen ska vara giltig är att marken är ren.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att be i trädgårdar?

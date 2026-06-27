@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Ställföreträdande vallfärd
 original_id: 727
-description: 'Fråga: Min son avled när jag var sexton år gammal och han hade inte
- vallfärdat. Krävs det av mig att jag vallfärdar för honom? Svar: Om pojken eller
- flickan har uppnått pubertetsåldern eller o...'
+description: 'Om pojken eller flickan har uppnått pubertetsåldern eller om de har blivit femton år gamla [vad som kommer först], då måste de vallfärda om de har…'
 ---
 
 **Fråga:** Min son avled när jag var sexton år gammal och han hade inte vallfärdat. Krävs det av mig att jag vallfärdar för honom?

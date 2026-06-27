@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 337
-description: >-
-  Fråga: Om imamen glömmer delar av en vers vid recitationen och det inte finns
-  någon som kan rätta honom, bör han göra takbīr då och avsluta denna bönecykel
-  eller bör han recitera en annan sura? ...
+description: 'Det är upp till honom att välja. Vill han så kan han göra takbīr och avsluta denna bönecykel, eller om han föredrar, då kan han recitera en annan vers…'
 ---
 
 **Fråga:** Om imamen glömmer delar av en vers vid recitationen och det inte finns någon som kan rätta honom, bör han göra *takbīr* då och avsluta denna bönecykel eller bör han recitera en annan sura?

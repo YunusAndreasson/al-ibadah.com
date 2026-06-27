@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1438
-description: >-
-  Fråga: Gör kamelkött tvagningen ogiltig? En hadīth har rapporterats om en man
-  som släppte sig. Profeten – över honom vare Allāhs frid och välsignelser –
-  beordrade då honom och alla de som var nä...
+description: 'Denna historia saknar grund och det är en lögn mot profeten – över honom vare Guds frid och välsignelser.'
 ---
 
 **Fråga:** Gör kamelkött tvagningen ogiltig? En *ḥadīt̲h* har rapporterats om en man som släppte sig. Profeten – över honom vare Allāhs frid och välsignelser – beordrade då honom och alla de som var närvarande att tvaga sig. I skolan har vi lärt oss att det gör tvagningen ogiltig.

@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Strykning över strumpor
 original_id: 1444
-description: >-
-  Fråga: Jag märker att somliga av Allāhs tjänare stryker över sina sockar även
-  under sommaren när de tvagar sig! Vänligen, ge mig ett utlåtande om detta.
-  Berätta även för mig om det är bättre för ...
+description: 'Den allmänna innebörden av autentiska aḥādīt̲h som visar att det är tillåtet att stryka över k̲hifaf och jawarib visar att det är tillåtet att stryka över…'
 ---
 
 **Fråga:** Jag märker att somliga av Allāhs tjänare stryker över sina sockar även under sommaren när de tvagar sig! Vänligen, ge mig ett utlåtande om detta. Berätta även för mig om det är bättre för den som inte reser att tvätta fötterna eller att stryka över sockarna. Detta i vetskap om att de som stryker över sockarna inte har någon ursäkt, utom att de säger att det är tillåtet.

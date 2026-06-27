@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Mindre vallfärd
 original_id: 873
-description: >-
-  Fråga: Vilket är utlåtandet om att raka huvudet eller att klippa håret när det
-  gäller ‘umrah? Svar: Att raka huvudet eller klippa håret [när det gäller
-  ‘umrah ] är obligatoriskt. Detta bero...
+description: 'Att raka huvudet eller klippa håret [när det gäller ´umrah] är obligatoriskt. Detta beror på att när profeten – över honom vare Allāhs frid och…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att raka huvudet eller att klippa håret när det gäller *´umrah*?

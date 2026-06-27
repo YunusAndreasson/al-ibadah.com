@@ -8,10 +8,7 @@ source: >-
 categories:
   - Renhet (Tahārah)
 original_id: 1135
-description: >-
-  Fråga: Vilken är beskrivningen av ghusl? Svar: Det finns två olika
-  beskrivningar av ghusl : Det obligatoriska sättet vilket innebär att man
-  tvättar hela sin kropp med vatten inklusi...
+description: 'Det finns två olika beskrivningar av g̲husl: 1. Det obligatoriska sättet vilket innebär att man tvättar hela sin kropp med vatten inklusive att man sköljer…'
 ---
 
 **Fråga:** Vilken är beskrivningen av *g̲husl*?

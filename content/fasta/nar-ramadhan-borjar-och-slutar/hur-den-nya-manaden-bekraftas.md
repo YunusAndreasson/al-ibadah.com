@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadans datum
 original_id: 394
-description: >-
-  Fråga: Vilken är den metod som bekräftar varje månad? Svar: Autentiska ahādīth
-  från profeten – över honom vare Allāhs frid och välsignelser – bevisar att ny
-  månad är när en pålitlig person s...
+description: 'Autentiska aḥādīt̲h från profeten – över honom vare Allāhs frid och välsignelser – bevisar att ny månad är när en pålitlig person ser den [månen] efter…'
 ---
 
 **Fråga:** Vilken är den metod som bekräftar varje månad?

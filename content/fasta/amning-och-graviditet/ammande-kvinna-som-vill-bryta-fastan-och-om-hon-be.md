@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Graviditet och amning
 original_id: 1040
-description: 'Fråga: Får en ammande kvinna bryta fastan? När bör hon ta igen den?
- Kan hon ge fattiga mat i stället för att fasta? Svar: Är den ammande kvinnan
- orolig för att fastan kommer att skada barnet g...'
+description: 'Är den ammande kvinnan orolig för att fastan kommer att skada barnet genom att mjölken sinar, då får hon bryta den.'
 ---
 
 **Fråga:** Får en ammande kvinna bryta fastan? När bör hon ta igen den? Kan hon ge fattiga mat i stället för att fasta?

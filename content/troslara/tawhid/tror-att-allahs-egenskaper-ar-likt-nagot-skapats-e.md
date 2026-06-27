@@ -8,9 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Monoteism
 original_id: 1086
-description: 'Fråga: Vilket är utlåtandet om någon som tror att Skaparens egenskaper
- är likadana som de skapade varelsernas egenskaper? Svar: Den som tror att Skaparens
- egenskaper är likadana som de skapade...'
+description: 'Den som tror att Skaparens egenskaper är likadana som de skapade varelsernas är vilse. Skaparens egenskaper liknar ju inte de skapade varelsernas.'
 ---
 
 **Fråga:** Vilket är utlåtandet om någon som tror att Skaparens egenskaper är likadana som de skapade varelsernas egenskaper?

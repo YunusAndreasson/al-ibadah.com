@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 55
-description: >-
-  Fråga: Några som har memorerat Koranen i Marocko livnär sig på att recitera
-  den. Så fort det finns en stor middag så kommer de till den för att läsa
-  Koranen, utan att begrunda dess mening eller at...
+description: 'Recitation av Koranen är en […] och ett medel för att söka Allāhs närhet. En muslim antas göra detta för Allāhs skull och för Hans belöningar.'
 ---
 
 **Fråga:** Några som har memorerat Koranen i Marocko livnär sig på att recitera den. Så fort det finns en stor middag så kommer de till den för att läsa Koranen, utan att begrunda dess mening eller att respektera hur den ska reciteras. De närvar vid sådana fester endast för att tjäna pengar och få gåvor från de som söker välsignelser. När de har samlat in dessa gåvor delar de dem mellan sig själva, men fattiga får inget.

@@ -6,10 +6,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1375
-description: >-
-  Fråga: Får den som fastar kyssa sin fru och leka med henne i sängen under
-  ramadan? Svar: Ja, den som fastar får kyssa sin fru och leka med henne under
-  ramadan. Men om det rinner vätska ur hon...
+description: 'Ja, den som fastar får kyssa sin fru och leka med henne under ramaḍān. Men om det rinner vätska ur honom blir fastan ogiltig.'
 ---
 
 **Fråga:** Får den som fastar kyssa sin fru och leka med henne i sängen under *ramaḍān*?

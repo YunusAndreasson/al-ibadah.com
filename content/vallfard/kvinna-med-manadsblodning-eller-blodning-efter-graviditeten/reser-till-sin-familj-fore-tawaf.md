@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Månadsblödning och efterblödning
 original_id: 782
-description: >-
-  Fråga: Om en kvinna får sin månadsblödning innan hon utför ṭawāful-ifāḍah ,
-  får hon då resa med sin familj och senare återvända för ṭawāful-ifāḍah? Eller
-  behöver hon vänta tills hon blir ren ...
+description: 'Om en kvinna får sin månadsblödning innan ṭawāf ul-ifāḍah, då väntar hennes maḥram på henne tills hon blir ren.'
 ---
 
 **Fråga:** Om en kvinna får sin månadsblödning innan hon utför *ṭawāf ul-ifāḍah*, får hon då resa med sin familj och senare återvända för *ṭawāf ul-ifāḍah*? Eller behöver hon vänta tills hon blir ren och då utföra *ṭawāf*?

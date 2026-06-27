@@ -8,9 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 965
-description: 'Fråga: Vad anser ni om att skaka hand efter bönen och säga: ” Taqabbal
- Allāh ” [må Allāh acceptera era böner] direkt när bönen är färdig? Må Allāh belöna
- er med det goda. Svar: Det finns ingen...'
+description: 'Det finns ingen grund för att skaka hand eller att säga ”Taqabbal Allāh” efter att ha slutfört bönen.'
 ---
 
 **Fråga:** Vad anser ni om att skaka hand efter bönen och säga: ”*Taqabbal Allāh*” [må Allāh acceptera era böner] direkt när bönen är färdig? Må Allāh belöna er med det goda.

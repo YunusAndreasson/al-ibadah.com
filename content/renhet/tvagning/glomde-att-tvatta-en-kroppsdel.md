@@ -9,10 +9,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1126
-description: >-
-  Fråga: Vad gör man om man tvagade sig och då glömde att tvätta någon
-  kroppsdel? Svar: Om någon under sin tvagning glömde att tvätta en kroppsdel så
-  får personen tvätta den och vad som följer efte...
+description: 'Om någon under sin tvagning glömde att tvätta en kroppsdel så får personen tvätta den och vad som följer efter, om personen kom på det kort efteråt.'
 ---
 
 **Fråga:** Vad gör man om man tvagade[^1] sig och då glömde att tvätta någon kroppsdel?

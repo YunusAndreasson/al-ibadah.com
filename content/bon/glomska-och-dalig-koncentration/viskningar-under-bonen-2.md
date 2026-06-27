@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 211
-description: >-
-  Fråga: Mitt problem är att när jag går in i moskén och vänder mig mot qiblah ,
-  för att sedan göra öppnings- takbīr, då går jag tillbaka i mina tankar och
-  blir osäker på om jag har gjort den elle...
+description: 'Bönen i denna situation som du nämnt är giltig, men du måste akta dig för djävulens viskningar och tänka på Allāh den Upphöjde när du börjar be.'
 ---
 
 **Fråga:** Mitt problem är att när jag går in i moskén och vänder mig mot *qiblah*, för att sedan göra öppnings-*takbīr*, då går jag tillbaka i mina tankar och blir osäker på om jag har gjort den eller inte. Jag upprepar sedan *takbīr* och börjar recitera *al-Fātiḥah*, men jag glömmer även här och får ta om recitationen. Detta händer speciellt då jag är med imamen. Är min bön giltig under dessa omständigheter? Vad bör jag göra för att undvika denna glömska? Informera mig och må Allāh belöna er.

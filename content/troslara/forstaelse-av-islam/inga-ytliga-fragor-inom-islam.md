@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 97
-description: >-
-  Fråga: Vilket är den islamiska lagens utlåtande om den som säger: ”Att raka
-  skägget och att korta byxorna är ytliga frågor och inte en del av religionens
-  fundament”? Eller en person som skrattar å...
+description: 'Det är mycket farligt och högst förhatligt att säga så här. Det finns inga ytliga frågor inom religionen. Allt är väsentligt, rättfärdigt och nyttigt.'
 ---
 
 **Fråga:** Vilket är den islamiska lagens utlåtande om den som säger: ”Att raka skägget och att korta byxorna är ytliga frågor och inte en del av religionens fundament”? Eller en person som skrattar åt någon som påpekar vikten av detta?

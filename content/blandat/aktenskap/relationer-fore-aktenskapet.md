@@ -6,10 +6,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1713
-description: >-
-  Fråga: Vad anser vår religion om relationer före äktenskapet? Svar: Om
-  frågeställaren med ”före äktenskapet” menar när äktenskapskontraktet har
-  skrivits men före maken och makan har haft intim ...
+description: 'Om frågeställaren med ”före äktenskapet” menar när äktenskapskontraktet har skrivits men före maken och makan har haft intim samvaro är det ingen fara.'
 ---
 
 **Fråga:** Vad anser vår religion om relationer före äktenskapet?

@@ -11,10 +11,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1537
-description: >-
-  Fråga: Jag är muslim – och all lovprisan och ära tillhör Allāh. Jag ber
-  regelbundet i moskén, utom att jag ofta är sen till gryningsbönen. Jag är
-  mycket trött och det är svårt för mig att gå upp. ...
+description: 'Du måste anstränga dig för att du ska kunna be bönen i församlingen. Detta innefattar att du använder en väckarklocka, lägger dig tidigt och utser någon i…'
 ---
 
 **Fråga:** Jag är muslim – och all lovprisan och ära tillhör Allāh. Jag ber regelbundet i moskén, utom att jag ofta är sen till gryningsbönen. Jag är mycket trött och det är svårt för mig att gå upp. Detta trots en väckarklocka. Jag tänker ofta på detta och är rädd för att jag är skyldig till hyckleri. Anses jag under dessa omständigheter vara en hycklare? Vad råder ni mig till?

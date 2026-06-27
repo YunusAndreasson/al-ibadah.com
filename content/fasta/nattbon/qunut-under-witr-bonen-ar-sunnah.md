@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadanens nattbön
 original_id: 472
-description: >-
-  Fråga: Somliga imamer gör hela tiden, varje kväll, qunūt under witr -bönen.
-  Har detta rapporterats från våra föregångare? Svar: Det är ingen fara. I
-  stället är det sunnah därför när profe...
+description: 'Det är ingen fara. I stället är det sunnah därför när profeten – över honom vare Allāhs frid och välsignelser – lärde al-Ḥasan bin ´Alī qunūt för…'
 ---
 
 **Fråga:** Somliga imamer gör hela tiden, varje kväll, *qunūt* under *witr*-bönen. Har detta rapporterats från våra föregångare?

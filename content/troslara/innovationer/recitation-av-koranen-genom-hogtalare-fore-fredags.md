@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 363
-description: >-
-  Fråga: I vissa moskéer i många delar av den muslimska världen reciteras verser
-  ur den ädla Koranen genom högtalare innan fredagsbönen. Vilket är utlåtandet
-  om detta? Svar: Vi känner inte till ...
+description: 'Vi känner inte till någon grund för detta – vare sig i Skriften, profetens – över honom vare Allāhs frid och välsignelser – sunnah eller hos de rättfärdiga…'
 ---
 
 **Fråga:** I vissa moskéer i många delar av den muslimska världen reciteras verser ur den ädla Koranen genom högtalare innan fredagsbönen. Vilket är utlåtandet om detta?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Månadsblödning och efterblödning
 original_id: 780
-description: >-
-  Fråga: Behöver en kvinna som får sin månadsblödning eller blödning efter
-  graviditeten innan hon gör ṭawāful-ifāḍah stanna kvar i Mecka tills hon blir
-  ren och därefter gör tawāf? Eller kan hon...
+description: 'Har hon möjlighet att stanna kvar i Mecka, då måste hon stanna kvar i Mecka tills hon blir ren och avslutar sin vallfärd.'
 ---
 
 **Fråga:** Behöver en kvinna som får sin månadsblödning eller blödning efter graviditeten innan hon gör *ṭawāf ul-ifāḍah* stanna kvar i Mecka tills hon blir ren och därefter gör *ṭawāf*? Eller kan hon resa till Jiddah [eller en annan plats], återvända och göra *ṭawāf* när hon blir ren?

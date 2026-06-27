@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 935
-description: 'Fråga: Vilket är utlåtandet om bön på ett toalettak? Svar: Det
- finns ingen invändan mot att be på toalettak då de inte är separata byggnader. Deras
- tak är därmed hela husets. Det finns ingen i...'
+description: 'Det finns ingen invändan mot att be på toalettak då de inte är separata byggnader. Deras tak är därmed hela husets.'
 ---
 
 **Fråga:** Vilket är utlåtandet om bön på ett toalettak?

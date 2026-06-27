@@ -6,10 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - Kvinnans vallfärd
 original_id: 908
-description: >-
-  Fråga: Min mor utförde vallfärden då hon var över 60 år gammal med någon annan
-  än hennes mahram . Är hennes vallfärd korrekt eller bör jag utföra den på nytt
-  för hennes räkning, då hon nu har döt...
+description: 'Om en kvinna vallfärdade med någon annan än sin maḥram, visade hon olydnad mot sin Herre och hon har syndat genom att göra så.'
 ---
 
 **Fråga:** Min mor utförde vallfärden då hon var över 60 år gammal med någon annan än sin *maḥram*. Är hennes vallfärd korrekt eller bör jag utföra den på nytt för hennes räkning, då hon nu har dött? Må Allāh vara henne nådig.

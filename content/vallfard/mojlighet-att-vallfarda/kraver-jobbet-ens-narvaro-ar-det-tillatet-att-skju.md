@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsplikt
 original_id: 716
-description: 'Fråga: Under tre år har jag bett min arbetsgivare om att få utföra
- den obligatoriska vallfärden. Då jobbet har behövt mig har mina förfrågningar dock
- avvisats. Har jag syndat på grund av detta? Gö...'
+description: 'Ja, så länge någon hindrar dig och det är mot din vilja, då finns det ingen vallfärd innan du har fått personens tillstånd.'
 ---
 
 **Fråga:** Under tre år har jag bett min arbetsgivare om att få utföra den obligatoriska vallfärden. Då jobbet har behövt mig har mina förfrågningar dock avvisats. Har jag syndat på grund av detta? Gör jag något syndigt om jag vallfärdar utan att de vet om det och utan att de godkänner det?

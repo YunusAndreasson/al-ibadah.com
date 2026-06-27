@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadanens nattbön
 original_id: 467
-description: >-
-  Fråga: Jag jobbar på en plats där jag inte kan be tarāwīh -bönen i moskén då
-  mina arbetstider är mellan kvällsbönen till nära sahūr . Syndar jag på detta
-  sätt och hur kan jag ersätta de belöning...
+description: 'Du syndar inte genom att lämna tarāwīḥ-bönen därför att den är en sunnah. Om någon utför den får personen en belöning och om personen inte utför den finns…'
 ---
 
 **Fråga:** Jag jobbar på en plats där jag inte kan be *tarāwīḥ*-bönen i moskén då mina arbetstider är mellan kvällsbönen till nära *saḥūr*. Syndar jag på detta sätt och hur kan jag ersätta de belöningar som jag missar?

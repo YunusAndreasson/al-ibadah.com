@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Begravningsbön
 original_id: 1244
-description: >-
-  Fråga: Vilket är det korrekta sättet som har rapporterats från Muḥammad om hur
-  den avlidnes kropp ska tvättas? Svar: Det föreskrivna sättet för att tvätta
-  den avlidnes kropp är att könsdelar...
+description: 'Det föreskrivna sättet för att tvätta den avlidnes kropp är att könsdelarna tvättas först och sedan tvättas hela kroppen.'
 ---
 
 **Fråga:** Vilket är det korrekta sättet som har rapporterats från Muḥammad om hur den avlidnes kropp ska tvättas?

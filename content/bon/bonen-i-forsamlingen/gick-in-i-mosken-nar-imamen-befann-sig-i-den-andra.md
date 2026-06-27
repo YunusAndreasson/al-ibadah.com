@@ -7,10 +7,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 986
-description: >-
-  Fråga: En troende gick in i moskén när imamen befann sig i den andra tashahhud
-  . Bör personen då börja be med församlingen eller ska personen vänta på en ny? Ge
-  oss ett utlåtande och må Allāh belöna ...
+description: 'Om någon går in i moskén när imamen befinner sig i den andra tas̲hahhud och om personen förväntar sig att det ska bli en andra församlingsbön, då bör…'
 ---
 
 **Fråga:** En troende gick in i moskén när imamen befann sig i den andra *tas̲hahhud*. Bör personen då börja be med församlingen eller ska personen vänta på en ny? Ge oss ett utlåtande och må Allāh belöna er med det goda.

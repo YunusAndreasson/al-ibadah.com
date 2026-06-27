@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Förbjudna bönetider
 original_id: 984
-description: >-
-  Fråga: Vilka är de tidpunkter då det är förbjudet att be? [...] Ge oss råd och
-  må Allāh belöna er med det goda. Svar: De tider då det är förbjudet att be är
-  följande: Från efter gryni...
+description: 'De tider då det är förbjudet att be är följande: 1. Från efter gryningsbönen tills solen kastar en skugga lång som ett spjut, det vill säga 20-45 minuter…'
 ---
 
 **Fråga:** Vilka är de tidpunkter då det är förbjudet att be? […] Ge oss råd och må Allāh belöna er med det goda.

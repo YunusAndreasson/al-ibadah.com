@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 825
-description: >-
-  Fråga: En man hörde att det är tillåtet att utföra sa’ī före ṭawāf , så han
-  utförde sa’ī och sedan ṭawāf under den tolfte och den trettonde dagen. Sedan
-  sades det till honom att detta enbar...
+description: 'Den korrekta åsikten är att det inte finns någon skillnad mellan ´eid-dagen och andra dagar om tillåtelsen till att utföra sa´ī före ṭawāf.'
 ---
 
 **Fråga:** En man hörde att det är tillåtet att utföra *sa´ī* före *ṭawāf*, så han utförde *sa´ī* och sedan *ṭawāf* under den tolfte och den trettonde dagen. Sedan sades det till honom att detta enbart gäller *´eid*-dagen. Vilket är utlåtandet?

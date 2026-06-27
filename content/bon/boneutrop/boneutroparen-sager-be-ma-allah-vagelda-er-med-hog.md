@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 1464
-description: >-
-  Fråga: När somliga böneutropare har ropat ut till bön säger de i mikrofonen
-  innan de har gjort den föreskrivna åkallan: ” Be, må Allāh vägleda er .”
-  Vilket är utlåtandet om detta? Svar: Allāh ...
+description: 'Allāh den Upphöjde säger: ”Denna dag har Jag fullbordat det religiösa regelverket för er och skänkt er Min välsignelse i fullaste mått.'
 ---
 
 **Fråga:** När somliga böneutropare har ropat ut till bön säger de i mikrofonen innan de har gjort den föreskrivna åkallan: “*Be, må Allāh vägleda er*.” Vilket är utlåtandet om detta?

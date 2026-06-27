@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 977
-description: >-
-  Fråga: Vilket är utlåtandet om qunūt i den obligatoriska bönen? Vilket är
-  utlåtandet om muslimer drabbas av stora svårigheter? Svar: Qunūt under den
-  obligatoriska bönen är inte föreskrivet...
+description: 'qunūt under den obligatoriska bönen är inte föreskrivet. Det är inte eftersträvansvärt att göra den.'
 ---
 
 **Fråga:** Vilket är utlåtandet om *qunūt* i den obligatoriska bönen? Vilket är utlåtandet om muslimer drabbas av stora svårigheter?

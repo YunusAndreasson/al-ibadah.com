@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Det andra böneutropet
 original_id: 181
-description: >-
-  Fråga: Finns det någon iqāmah för kvinnor när de samlas för bön? Svar: Om de
-  gör iqāmah finns det ingen invändan mot det och om de lämnar den har de inte
-  syndat. Anledningen är att böneutr...
+description: 'Om de gör iqāmah finns det ingen invändan mot det och om de lämnar den har de inte syndat. Anledningen är att böneutropet och iqāmah endast är skyldigheter…'
 ---
 
 **Fråga:** Finns det någon *iqāmah* för kvinnor när de samlas för bön?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 1541
-description: >-
-  Fråga: Behöver man inte be sunnah -bönerna under en resa och vilket är i så
-  fall beviset för det? Svar: Det är föreskrivet att man utelämnar sunnah
-  -bönerna under resa, utom witr och sunn...
+description: 'Det är föreskrivet att man utelämnar sunnah-bönerna under resa, utom witr och sunnah-bönen vid gryningsbönen.'
 ---
 
 **Fråga:** Behöver man inte be *sunnah*-bönerna under en resa och vilket är i så fall beviset för det?

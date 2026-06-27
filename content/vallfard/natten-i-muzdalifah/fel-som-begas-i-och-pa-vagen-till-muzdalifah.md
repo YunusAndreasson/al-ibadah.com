@@ -6,10 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - Muzdalifah-natten
 original_id: 1306
-description: >-
-  Fråga: Vilka är de fel på vägen till Muzdalifah som du råder oss att undvika?
-  Svar: All lovprisan tillhör Allāh. Shaykh Muḥammad ibn ´Uthaymīn har sagt att
-  de fel som begås på vägen från Arafa...
+description: 'All lovprisan tillhör Allāh. s̲hayk̲h Muḥammad ibn ´Uthaymīn har sagt att de fel som begås på vägen från ´Arafāt till Muzdalifah innefattar följande: 1.'
 ---
 
 **Fråga:** Vilka är de fel på vägen till *Muzdalifah* som du råder oss att undvika?

@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Domedagen och dess tecken
 original_id: 44
-description: 'Fråga: Vi hör ofta att den Yttersta Stunden inte kommer att inträda
- förrän islam råder på jorden. Men vi hör även att den ska komma när det inte finns
- någon som säger ” Lā ilāha illAllāh .” Hur ...'
+description: 'Båda dessa uttalanden är korrekta. Profeten – över honom vare Allāhs frid och välsignelser – har sagt att den Yttersta Stunden inte kommer att passera…'
 ---
 
 **Fråga:** Vi hör ofta att den Yttersta Stunden inte kommer att inträda förrän islam råder på jorden. Men vi hör även att den ska komma när det inte finns någon som säger ”*Lā ilāha illAllāh*.” Hur kan vi förena dessa uttalanden?

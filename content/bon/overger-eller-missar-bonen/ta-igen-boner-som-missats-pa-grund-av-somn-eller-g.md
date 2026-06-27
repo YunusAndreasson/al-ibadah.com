@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 927
-description: >-
-  Fråga: Om jag missade en eller flera obligatoriska böner på grund av sömn
-  eller glömska, hur tar jag då igen de missade bönerna? Ber jag dem först för
-  att sedan be den bönen som gäller just nu ell...
+description: 'Du bör be dem först och därefter den rådande bönen. Det är inte tillåtet att skjuta upp dessa böner.'
 ---
 
 **Fråga:** Om jag missade en eller flera obligatoriska böner på grund av sömn eller glömska, hur tar jag då igen de missade bönerna? Ber jag dem först för att sedan be den bönen som gäller just nu eller gör jag tvärtom?

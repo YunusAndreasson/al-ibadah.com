@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 370
-description: 'Fråga: Får Allāhs tjänare överge moskén i närområdet för att på fredagen
- gå till en annan som ligger längre bort? Predikanten där är mycket kunnig och håller
- bra predikningar. Svar: Det är bät...'
+description: 'Det är bättre om han ber med folket i hans område i deras moské. På så vis blir de bekanta med varandra för att sprida harmoni mellan dem och för att de…'
 ---
 
 **Fråga:** Får Allāhs tjänare överge moskén i närområdet för att på fredagen gå till en annan som ligger längre bort? Predikanten där är mycket kunnig och håller bra predikningar.

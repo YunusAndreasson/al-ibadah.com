@@ -8,9 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 403
-description: 'Fråga: Blir belöningen för fastan mindre om man gör i ordning överdrivet
- mycket mat inför brytandet av fastan? Svar: Belöningen blir inte mindre men
- det är förbjudet att göra så när man har fa...'
+description: 'Belöningen blir inte mindre men det är förbjudet att göra så när man har fastat. Det minskar inte belöningen men innefattas när Allāh den Upphöjde säger: >…'
 ---
 
 **Fråga:** Blir belöningen för fastan mindre om man gör i ordning överdrivet mycket mat inför brytandet av fastan?

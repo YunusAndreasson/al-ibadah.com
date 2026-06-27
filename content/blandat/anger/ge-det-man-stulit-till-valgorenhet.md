@@ -7,9 +7,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 661
-description: 'Fråga: Jag tog felaktigt saker från människor i mitt tidigare liv
- och nu kommer jag inte ihåg vilka de är. Vad ska jag göra då det är ett krav för
- ånger att återgälda dessa rättigheter? Svar: ...'
+description: 'Om du inte känner de du stal från eller om du inte vet vilka som ärver efter dem om de avlidit, ge då denna egendom till välgörande ändamål för deras…'
 ---
 
 **Fråga:** Jag tog felaktigt saker från människor i mitt tidigare liv och nu kommer jag inte ihåg vilka de är. Vad ska jag göra då det är ett krav för ånger att återgälda dessa rättigheter?

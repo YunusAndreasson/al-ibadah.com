@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Undantag från fasta
 original_id: 437
-description: >-
-  Fråga: Det finns en person som lider av tuberkulos och det är svårt för honom
-  att fasta under ramadan. Förra ramadan fastade han inte och undrar nu om han
-  måste ge mat då man nu vet att han bedöms...
+description: 'Om den sjuke inte är stark nog för att fasta under ramaḍān och personen inte förväntas tillfriskna från sjukdomen, då är personen inte skyldig att fasta.'
 ---
 
 **Fråga:** Det finns en person som lider av tuberkulos och det är svårt för honom att fasta under *ramaḍān*. Förra *ramaḍān* fastade han inte och undrar nu om han måste ge mat då man nu vet att han bedöms tillfriskna från detta sjukdomstillstånd?

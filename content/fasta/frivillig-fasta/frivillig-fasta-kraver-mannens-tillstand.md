@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 484
-description: >-
-  Fråga: Har jag rätt att hindra min fru att fasta frivilligt, som de sex
-  dagarna under shawwal? Syndar jag på grund av det? Svar: Det har återberättats
-  att en kvinna inte får fasta frivilligt m...
+description: 'Det har återberättats att en kvinna inte får fasta frivilligt medan hennes man är närvarande om hon inte har hans tillstånd.'
 ---
 
 **Fråga:** Har jag rätt att hindra min fru att fasta frivilligt, som de sex dagarna under *s̲hawwāl*? Syndar jag på grund av det?

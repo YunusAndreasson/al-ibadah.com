@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Övrigt
 original_id: 513
-description: >-
-  Fråga: Det har återberättats att ‘Umar – må Allāh vara nöjd med honom – kysste
-  den svarta stenen och sade: ”Jag vet att du endast är en sten och att du
-  varken kan ge med- eller motgång. H...
+description: 'All lovprisan tillhör Allāh. Den svarta stenen har Allāh valt ut då Han har föreskrivit att vi ska kyssa den och Han ville att den skulle placeras i hörnet…'
 ---
 
 **Fråga:** Det har återberättats att ‘Umar – må Allāh vara nöjd med honom – kysste den svarta stenen och sade:

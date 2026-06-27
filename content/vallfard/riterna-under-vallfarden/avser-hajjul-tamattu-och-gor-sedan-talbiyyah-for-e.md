@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsriter
 original_id: 749
-description: >-
-  Fråga: Vad gäller den som avser att vallfärda som en mutamatti´' och efter
-  mīqāt ändrar sig och säger talbiyyah för vallfärden som en mufrid? Måste personen
-  offra ett djur? Svar: Det skilj...
+description: 'Det skiljer sig. Om personen före mīqāt utformade avsikten för att vallfärda som mutamatti´'' och personen efter att ha anlänt till mīqāt ändrade sin avsikt…'
 ---
 
 **Fråga:** Vad gäller den som avser att vallfärda som en *mutamatti´[^1]'* och efter *mīqāt* ändrar sig och säger *talbiyyah* för vallfärden som en *mufrid*? Måste personen offra ett djur?

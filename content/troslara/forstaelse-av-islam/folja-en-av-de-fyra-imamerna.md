@@ -6,10 +6,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 598
-description: >-
-  Fråga: Vilket råd kan du ge till en nybörjare som söker kunskap angående att
-  följa en av de fyra imamerna [Abū Hanīfah, Mālik ibn Anas, ash-Shāfi'ī och
-  Aḥmad ibn Hanbal]? Bör han lämna dem eller f...
+description: 'Allāh säger: ”Fråga då dem […] om ni inte vet det.” Om studenten är en nybörjare och därmed inte vet hur bevis ska hämtas ifrån källorna, finns det inget…'
 ---
 
 **Fråga:** Vilket råd kan du ge till en nybörjare som söker kunskap angående att följa en av de fyra imamerna [Abū Hanīfah, Mālik ibn Anas, ash-Shāfi'ī och Aḥmad ibn Hanbal]? Bör han lämna dem eller följa dem?

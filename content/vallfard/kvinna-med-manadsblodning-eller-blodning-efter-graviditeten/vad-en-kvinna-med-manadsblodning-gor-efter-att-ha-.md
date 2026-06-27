@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Månadsblödning och efterblödning
 original_id: 1346
-description: >-
-  Fråga: Om en kvinna som utför hajjul-tamattu´ går in i iḥrām, och precis innan
-  hon når Kabah får sin månadsblödning, vad bör hon göra då? Bör hon utföra
-  vallfärden innan ´umrah? Svar: H...
+description: 'Hon stannar kvar i sin iḥrām för ´umrah. Om hon blir ren innan den nionde dagen [i d̲hul-ḥijjah] och hon har möjlighet att slutföra sin ´umrah, då bör hon…'
 ---
 
 **Fråga:** Om en kvinna som utför *ḥajjul-tamattu´* går in i *iḥrām*, och precis innan hon når Ka'bah får sin månadsblödning, vad bör hon göra då? Bör hon utföra vallfärden innan *´umrah*?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Frivilliga och speciella böner
 original_id: 287
-description: >-
-  Fråga: Vilket är utlåtandet om sunnah -bönerna? Svar: Allāh har gjort det till
-  en skyldighet för alla muslimer att be fem böner varje dag. Profeten – över
-  honom vare Allāhs frid och välsignel...
+description: 'Allāh har gjort det till en skyldighet för alla muslimer att be fem böner varje dag. Profeten – över honom vare Allāhs frid och välsignelser – har också…'
 ---
 
 **Fråga:** Vilket är utlåtandet om *sunnah*-bönerna?

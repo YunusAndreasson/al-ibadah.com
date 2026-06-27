@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 355
-description: >-
-  Fråga: Om en man missade fredagsbönen medan han reste, bör han då be två
-  bönecykler som fredagsbön eller fyra bönecykler som middagsbönen? Svar:
-  Majoriteten av de lärde anser att den som missa...
+description: 'Majoriteten av de lärde anser att den som missar bönen i församlingen vid fredagsbönen måste be den som middagsbönen.'
 ---
 
 **Fråga:** Om en man missade fredagsbönen medan han reste, bör han då be två bönecykler som fredagsbön eller fyra bönecykler som middagsbönen?

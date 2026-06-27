@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1078
-description: >-
-  Fråga: Gör ruqyah ens tawakkul ogiltig? Svar: Tawakkul är att ha en uppriktig
-  tilltro till att Allāh den Allsmäktige hjälper en och skyddar en mot det som
-  är farligt, samtidigt som man v...
+description: 'tawakkul är att ha en uppriktig tilltro till att Allāh den Allsmäktige hjälper en och skyddar en mot det som är farligt, samtidigt som man vidtar de…'
 ---
 
 **Fråga:** Gör *ruqyah* ens *tawakkul* ogiltig?

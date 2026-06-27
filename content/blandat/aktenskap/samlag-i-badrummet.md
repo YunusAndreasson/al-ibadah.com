@@ -5,10 +5,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1717
-description: >-
-  Fråga: Får en man ha samlag med sin fru utan täcke? Är det tillåtet att ha
-  samlag i badrummet? Svar: All lovprisan tillhör Allāh. Ja, det är tillåtet för
-  en man att ha samlag utan täcke med sin...
+description: 'All lovprisan tillhör Allāh. Ja, det är tillåtet för en man att ha samlag utan täcke med sin fru. Det är även tillåtet att ha samlag i badrummet.'
 ---
 
 **Fråga:** Får en man ha samlag med sin fru utan täcke? Är det tillåtet att ha samlag i badrummet?

@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 406
-description: >-
-  Fråga: Vilket är utlåtandet om att tala med en kvinna eller att röra hennes
-  hand dagtid under ramadan om man fastar? Detta i vetskap om att detta
-  inträffar i vissa affärer. Svar: Om en man tal...
+description: 'Om en man talar med en kvinna och det sker utan någon misstanke eller lustfull avsikt – det kan vara en affärsuppgörelse, en fråga om riktningen till en…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att tala med en kvinna eller att röra hennes hand dagtid under *ramaḍān* om man fastar? Detta i vetskap om att detta inträffar i vissa affärer.

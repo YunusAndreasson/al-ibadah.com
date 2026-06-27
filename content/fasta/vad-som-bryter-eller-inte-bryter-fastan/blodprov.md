@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 429
-description: >-
-  Fråga: Vilket är utlåtandet om den som tar ett blodprov då personen fastar under
-  ramadan? Blodet tas från den högra armen. Man tar inte speciellt mycket. Svar:
-  Blodprov som dessa förstör inte fas...
+description: 'Blodprov som dessa förstör inte fastan. I stället ursäktas detta då det är något som det finns behov för.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som tar ett blodprov då personen fastar under *ramaḍān*? Blodet tas från den högra armen. Man tar inte speciellt mycket.

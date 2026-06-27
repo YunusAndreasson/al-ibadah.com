@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Den sjukes bön
 original_id: 367
-description: 'Fråga: Min fot skadades i en olycka och när jag går till fredagsbönen
- i moskén kan jag inte böja mitt ben. Jag antar att detta irriterar andra. Kan jag
- då be den tillsammans med min familj i hemme...'
+description: 'Texterna visar att fredagsbönen är en skyldighet för varje muslimsk man när villkoren uppfylls.'
 ---
 
 **Fråga:** Min fot skadades i en olycka och när jag går till fredagsbönen i moskén kan jag inte böja mitt ben. Jag antar att detta irriterar andra. Kan jag då be den tillsammans med min familj i hemmet?

@@ -6,10 +6,7 @@ categories:
   - Fasta (Sawm)
   - Resenärens fasta
 original_id: 1374
-description: >-
-  Fråga: Får en resenär ha intim samvaro med frun om de reser under ramadan?
-  Svar: I Allāhs Namn och all Lovprisan tillhör Allāh. Om han var resenär eller
-  led av en sjukdom som tillåter honom at...
+description: 'I Allāhs Namn och all Lovprisan tillhör Allāh. Om han var resenär eller led av en sjukdom som tillåter honom att bryta fastan, då finns det varken någon…'
 ---
 
 **Fråga:** Får en resenär ha intim samvaro med frun om de reser under *ramaḍān*?

@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 210
-description: >-
-  Fråga: Om en muslim kommer när imamen bad och han lyckades göra den andra
-  bönecykeln med imamen, men imamen sedan begick ett misstag i bönen och han
-  därmed bad fem bönecykler, är senkomlingens bön...
+description: 'Om imamen gör nedfallandet för glömska, bör han då göra den tillsammans med honom? Vänligen, förklara detta för oss. Må Allāh belöna er med det goda.'
 ---
 
 **Fråga:** Om en muslim kommer när imamen bad och han lyckades göra den andra bönecykeln med imamen, men imamen sedan begick ett misstag i bönen och han därmed bad fem bönecykler, är senkomlingens bön då tillräckligt om han inte tar igen den första bönecykeln som han missade?

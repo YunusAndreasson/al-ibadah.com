@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Monoteism
 original_id: 1082
-description: >-
-  Fråga: Är Allāhs den Upphöjdes namn begränsade till antalet? Svar: Allāhs namn
-  är inte begränsade till ett visst antal. Beviset för detta är ett uttalande i
-  en hadīth i vilken profeten – öve...
+description: 'Allāhs namn är inte begränsade till ett visst antal. Beviset för detta är ett uttalande i en ḥadīt̲h i vilken profeten – över honom vare Allāhs frid och…'
 ---
 
 **Fråga:** Är Allāhs den Upphöjdes namn begränsade till antalet?

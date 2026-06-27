@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 1351
-description: >-
-  Fråga: Jag bor i Jiddah och jag har vallfärdat sju gånger, men jag gjorde inte
-  ṭawāful-wadā . Anledningen är att vissa har sagt att en invånare i Jiddah inte
-  behöver utföra ṭawāful-wadā . Är min...
+description: 'En invånare i Jiddah [eller en liknande plats] får inte ge sig av från vallfärden förrän personen har utfört ṭawāf ul-wadā´.'
 ---
 
 **Fråga:** Jag bor i Jiddah och jag har vallfärdat sju gånger, men jag gjorde inte *ṭawāf ul-wadā´*. Anledningen är att vissa har sagt att en invånare i Jiddah inte behöver utföra *ṭawāf ul-wadā´*. Är min vallfärd giltig? Vänligen, ge mig ett svar och må Allāh belöna er med gott.

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 354
-description: >-
-  Fråga: Bör man be två bönecykler om man missar fredagsbönen? Svar: Majoriteten
-  av de lärde inom fiqh anser att den som missar fredagsbönen måste be den som
-  middagsbönen [fyra bönecykler] och i...
+description: 'Majoriteten av de lärde inom fiqh anser att den som missar fredagsbönen måste be den som middagsbönen [fyra bönecykler] och i församling, om det är…'
 ---
 
 **Fråga:** Bör man be två bönecykler om man missar fredagsbönen?

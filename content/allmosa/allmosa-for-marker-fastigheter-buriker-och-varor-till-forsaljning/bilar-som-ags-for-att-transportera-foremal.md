@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Handelsvaror och fastigheter
 original_id: 617
-description: 'Fråga: Krävs det allmosa för fordon som används för att köra korn och
- annat? Svar: Det krävs ingen allmosa för fordon och kameler som ägs för att
- transportera korn, förnödenheter och liknande ...'
+description: 'Det krävs ingen allmosa för fordon och kameler som ägs för att transportera korn, förnödenheter och liknande från ett land till ett annat.'
 ---
 
 **Fråga:** Krävs det allmosa för fordon som används för att köra korn och annat?

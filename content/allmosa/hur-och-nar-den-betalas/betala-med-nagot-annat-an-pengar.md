@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Betalningstid
 original_id: 1016
-description: 'Fråga: Är det tillåtet att betala något annat än pengar som allmosa
- för tillgångarna? Detta skulle då kunna vara kläder eller liknande. Svar: Detta
- är inte tillåtet.'
+description: 'Detta är inte tillåtet.'
 ---
 
 **Fråga:** Är det tillåtet att betala något annat än pengar som allmosa för tillgångarna? Detta skulle då kunna vara kläder eller liknande.

@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 430
-description: >-
-  Fråga: Är det tillåtet att donera blod dagtid under ramadan eller bryter det
-  fastan? Svar: Om någon donerar blod och man tar en stor mängd, då ogiltigör
-  det fastan genom en analogi med koppni...
+description: 'Om någon donerar blod och man tar en stor mängd, då ogiltigör det fastan genom en analogi med koppning.'
 ---
 
 **Fråga:** Är det tillåtet att donera blod dagtid under *ramaḍān* eller bryter det fastan?

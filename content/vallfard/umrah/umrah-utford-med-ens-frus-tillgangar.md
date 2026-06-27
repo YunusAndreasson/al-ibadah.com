@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Mindre vallfärd
 original_id: 870
-description: >-
-  Fråga: En kvinna gjorde något välgörande då hon betalade sin mans kostnader
-  för ‘umrah . Detta var som en gåva från hennes egna tillgångar. Mannen hade
-  dock möjlighet att göra ‘umrah med sina e...
+description: 'Det är ingen fara i det och må Allāh belöna henne med gott för vad hon har gjort. Anledningen är att hennes handlande var ett samarbete i rättfärdighet och…'
 ---
 
 **Fråga:** En kvinna gjorde något välgörande då hon betalade sin mans kostnader för *´umrah*. Detta var som en gåva från hennes egna tillgångar. Mannen hade dock möjlighet att göra *´umrah* med sina egna tillgångar. Har han från religionen sett handlat fel på något sätt? Vänligen, ge oss ett utlåtande om detta.

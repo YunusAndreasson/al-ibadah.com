@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Amuletter och talismaner
 original_id: 39
-description: >-
-  Fråga: Min respekterade shaykh, på vägen hittade jag ett papper med skrift på
-  och jag ville plocka upp det för att folk inte skulle trampa på det. Jag
-  tittade på det för att ta reda på om det inne...
+description: 'Allt som nämns i frågan är otillåtet och bör inte användas på en amulett. Det är heller inte tillåtet att följa instruktionerna som nämns i detta papper,…'
 ---
 
 **Fråga:** Min respekterade *s̲hayk̲h*, på vägen hittade jag ett papper med skrift på och jag ville plocka upp det för att folk inte skulle trampa på det. Jag tittade på det för att ta reda på om det innehöll Koran-verser. Jag fann då följande text. Vänligen, förklara dess mening för mig och om det är tillåtet?

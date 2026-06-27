@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 755
-description: >-
-  Fråga: Kan man träda in i ihrām för två vallfärder eller två ‘umrah ? Svar:
-  Det är inte rätt om man går in i ihrām för två vallfärder under ett år. Det är
-  endast tillåtet att träda in i ...
+description: 'Det är inte rätt om man går in i iḥrām för två vallfärder under ett år. Det är endast tillåtet att träda in i iḥrām för en vallfärd under ett år.'
 ---
 
 **Fråga:** Kan man träda in i *iḥrām* för två vallfärder eller två *´umrah*?

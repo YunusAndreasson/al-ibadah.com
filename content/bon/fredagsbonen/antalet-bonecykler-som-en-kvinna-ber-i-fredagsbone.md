@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 998
-description: >-
-  Fråga: Hur många bönecykler bör en kvinna be under fredagsbönen? Svar: Om en
-  kvinna ber fredagsbönen med imamen bör hon be som imamen ber. Ber hon den i
-  sitt hem ber hon den som middagsbönen m...
+description: 'Om en kvinna ber fredagsbönen med imamen bör hon be som imamen ber. Ber hon den i sitt hem ber hon den som middagsbönen med fyra bönecykler.'
 ---
 
 **Fråga:** Hur många bönecykler bör en kvinna be under fredagsbönen?

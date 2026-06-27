@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Förbud i helgtillståndet
 original_id: 776
-description: >-
-  Fråga: Jag utförde ‘umrah under början av ramadan detta år. Jag stannade i
-  ungefär femton dagar och sedan utförde jag en ‘umrah till i mina vanliga
-  kläder. När jag först nådde helgedomen bad j...
+description: 'Det du berättade i din fråga – om vad du gjorde under din ´umrah – var det som är obligatoriskt för dig och du behöver inte gottgöra för något om du gick…'
 ---
 
 **Fråga:** Jag utförde *´umrah* under början av *ramaḍān* detta år. Jag stannade i ungefär femton dagar och sedan utförde jag en *´umrah* till i mina vanliga kläder. När jag först nådde helgedomen bad jag två bönecykler för att de skulle vara hälsningsbönen till moskén[^1]. Sedan utförde jag *ṭawāf* genom att gå sju varv runt Ka’bah. Efter det gick jag för att be två bönecykler där vår far Abraham stått. Sedan gick jag till platsen för *sa´ī* och jag utförde den genom att gå sju gånger mellan as-Safa och al-Marwah. Sedan klippte jag mitt hår. Var min handling korrekt?

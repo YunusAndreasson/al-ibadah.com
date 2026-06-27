@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Amuletter och talismaner
 original_id: 1080
-description: >-
-  Fråga: Är det tillåtet att skriva vissa verser från Koranen [som al-Kursi] på
-  förvaringskärl för att bota sig själv? Svar: Vi bör vara medvetna om att
-  Allāhs den Allsmäktiges skrift är mäktiga...
+description: 'Vi bör vara medvetna om att Allāhs den Allsmäktiges skrift är mäktigare och kraftfullare än att den ska vanhedras eller degraderas på detta sätt.'
 ---
 
 **Fråga:** Är det tillåtet att skriva vissa verser från Koranen [som al-Kursi[^1]] på förvaringskärl för att bota sig själv?

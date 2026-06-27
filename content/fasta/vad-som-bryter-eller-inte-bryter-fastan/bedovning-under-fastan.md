@@ -6,9 +6,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 899
-description: 'Fråga: Leder en bedövning av kroppen till att fastan bryts? Och på
- samma sätt blodet som rinner när en tand har dragits ut? Svar: Inget av dessa
- bryter fastan, men man får inte svälja blodet s...'
+description: 'Inget av dessa bryter fastan, men man får inte svälja blodet som rinner när tanden har dragits ut.'
 ---
 
 **Fråga:** Leder en bedövning av kroppen till att fastan bryts? Och på samma sätt blodet som rinner när en tand har dragits ut?

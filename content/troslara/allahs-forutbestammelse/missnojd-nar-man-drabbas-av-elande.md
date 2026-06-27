@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 1186
-description: >-
-  Fråga: Vilket är utlåtandet om någon som blir missnöjd när personen drabbas av
-  elände? Svar: Under eländestider delar sig människor i fyra olika nivåer:
-  Missbelåtenhet , och det finns olika fo...
+description: 'Under eländestider delar sig människor i fyra olika nivåer: Missbelåtenhet, och det finns olika former av missbelåtenhet: 1.'
 ---
 
 **Fråga:** Vilket är utlåtandet om någon som blir missnöjd när personen drabbas av elände?

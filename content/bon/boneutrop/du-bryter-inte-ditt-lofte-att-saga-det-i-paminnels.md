@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 923
-description: >-
-  Fråga: Är tilläget ”Du bryter inte Ditt löfte” i åminnelsen som följer efter
-  böneutropet autentiskt? Detta tillägg är en fråga som de lärde inom hadīth är
-  oeniga om. Svar: Vissa säger att de...
+description: 'Vissa säger att den är obekräftat då den är shath. De flesta som har återberättat denna ḥadīt̲h förmedlade inte dessa ord.'
 ---
 
 **Fråga:** Är tilläget ”Du bryter inte Ditt löfte” i åminnelsen[^1] som följer efter böneutropet autentiskt? Detta tillägg är en fråga som de lärde inom *ḥadīt̲h* är oeniga om.

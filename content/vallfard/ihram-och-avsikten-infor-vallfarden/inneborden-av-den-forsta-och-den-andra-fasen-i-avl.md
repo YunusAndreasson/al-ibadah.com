@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 798
-description: >-
-  Fråga: Vilken är innebörden av termen ”det första och det andra avlägsnandet
-  av ihrām ”? Svar: Innebörden av fasen i det första avlägsnandet av ihrām är
-  när man har gjort två av tre handlin...
+description: 'Innebörden av fasen i det första avlägsnandet av iḥrām är när man har gjort två av tre handlingar; antingen genom att kasta stenarna och raka sitt hår…'
 ---
 
 **Fråga:** Vilken är innebörden av termen ”det första och det andra avlägsnandet av *iḥrām*”?

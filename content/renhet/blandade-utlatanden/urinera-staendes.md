@@ -7,9 +7,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 1117
-description: 'Fråga: Vilket är utlåtandet om att urinera ståendes? Svar: Att
- urinera ståendes är tillåtet under två villkor: Att man inte riskerar att
- urinen stänker på en. Att man inte riske...'
+description: 'Att urinera ståendes är tillåtet under två villkor: 1. Att man inte riskerar att urinen stänker på en. 2.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att urinera ståendes?

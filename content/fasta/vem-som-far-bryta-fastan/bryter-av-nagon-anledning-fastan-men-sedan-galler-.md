@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Undantag från fasta
 original_id: 1036
-description: >-
-  Fråga: Om någon bryter fastan på grund av någon ursäkt och ursäkten sedan inte
-  längre gäller, bör personen då fasta under återstoden av dagen? Svar: Personen är
-  inte skyldig att fasta. Anledningen ä...
+description: 'Personen är inte skyldig att fasta. Anledningen är att det, enligt bevis i den islamiska lagen, är tillåtet för en fastande att bryta fastan under denna…'
 ---
 
 **Fråga:** Om någon bryter fastan på grund av någon ursäkt och ursäkten sedan inte längre gäller, bör personen då fasta under återstoden av dagen?

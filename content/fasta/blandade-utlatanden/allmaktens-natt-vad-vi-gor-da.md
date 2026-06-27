@@ -6,10 +6,7 @@ categories:
   - Fasta (Sawm)
   - Övrigt
 original_id: 530
-description: >-
-  Fråga: Vad bör vi göra under Allmaktens Natt? Ber vi, läser vi Koranen eller
-  profetens – över honom vare Allāhs frid och välsignelser – biografi, lyssnar
-  vi till föreläsningar eller firar vi i mos...
+description: 'All lovprisan tillhör Allāh. Allāhs sändebud – över honom vare Allāhs frid och välsignelser – brukade anstränga sig mer i dyrkan under ramadans tio sista…'
 ---
 
 **Fråga:** Vad bör vi göra under Allmaktens Natt[^1]? Ber vi, läser vi Koranen eller profetens – över honom vare Allāhs frid och välsignelser – biografi, lyssnar vi till föreläsningar eller firar vi i moskén?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 333
-description: >-
-  Fråga: Är det tillåtet att be bakom en imam som rakar skägget? Svar: Är imamen
-  som rakar sig den vanlige imamen, då bör ni försöka få honom ersatt med någon
-  som är bättre; och ni kommer att fi...
+description: 'Är imamen som rakar sig den vanlige imamen, då bör ni försöka få honom ersatt med någon som är bättre; och ni kommer att finna en lämplig och rättfärdig…'
 ---
 
 **Fråga:** Är det tillåtet att be bakom en imam som rakar skägget?

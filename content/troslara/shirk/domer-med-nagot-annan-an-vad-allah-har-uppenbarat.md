@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
 original_id: 1096
-description: >-
-  Fråga: Vilket är utlåtandet om någon som dömer med något annat än vad Allāh
-  har uppenbarat? Svar: Genom Allāh den Upphöjde uppnås framgång och jag ber
-  Honom om vägledning och att Han visar mig...
+description: 'Genom Allāh den Upphöjde uppnås framgång och jag ber Honom om vägledning och att Han visar mig sanningen.'
 ---
 
 **Fråga:** Vilket är utlåtandet om någon som dömer med något annat än vad Allāh har uppenbarat?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 800
-description: >-
-  Fråga: Vilket är utlåtandet om att göra tawāf bakom platsen där Abraham stod
-  eller bakom zamzam -brunnen? Svar: Det finns inget skadligt i det. Även personen
-  gjorde tawāf i det området med m...
+description: 'Det finns inget skadligt i det. Även personen gjorde ṭawāf i det området med markiserna i moskén är det tillräckligt.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att göra *ṭawāf* bakom platsen där Abraham stod eller bakom *zamzam*-brunnen?

@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Mina-natten
 original_id: 851
-description: 'Fråga: Vilket är utlåtandet om den vars arbete inte tillåter personen
- att spendera natten i Mina under at-ayyām at-tas̲hrīq? Svar: De som har en
- giltig ursäkt behöver inte tillbringa natten i Mi...'
+description: 'De som har en giltig ursäkt behöver inte tillbringa natten i Minā. De måste dock dra nytta av resten av tiden genom att vara i Minā med de andra…'
 ---
 
 **Fråga:** Vilket är utlåtandet om den vars arbete inte tillåter personen att spendera natten i Mina under *at-ayyām at-tas̲hrīq*?

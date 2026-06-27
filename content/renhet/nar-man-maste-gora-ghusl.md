@@ -8,10 +8,7 @@ source: >-
 categories:
   - Renhet (Tahārah)
 original_id: 1567
-description: >-
-  Fråga: När måste man göra g̲husl? Svar: Det som leder till att man måste göra
-  g̲husl är följande: Sädestömning på grund av begär. Detta gäller oavsett om man
-  var vaken eller sov...
+description: 'Det som leder till att man måste göra g̲husl är följande: 1. Sädestömning på grund av begär. Detta gäller oavsett om man var vaken eller sov.'
 ---
 
 **Fråga:** När måste man göra *g̲husl*?

@@ -7,10 +7,7 @@ source: >-
 categories:
   - Troslära (´Aqīdah)
 original_id: 1106
-description: >-
-  Fråga: Hur svarar vi de innovatörer som för att bevisa deras innovationer
-  citerar följande bevis: ” Den som inför en bra sunnah i islam ...” [ Muslim
-  1017]? Svar: Vi svarar dem genom att sä...
+description: 'Vi svarar dem genom att säga att den som sade: "Den som inför en bra sunnah i islam, personen kommer att få belöningen för den och belöningen för dem som…'
 ---
 
 **Fråga:** Hur svarar vi de innovatörer som för att bevisa deras innovationer citerar följande bevis: "*Den som inför en bra sunnah*[^1] *i islam...*" [^2]?

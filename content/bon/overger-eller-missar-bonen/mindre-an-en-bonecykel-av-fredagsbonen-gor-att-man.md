@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1546
-description: >-
-  Fråga: Jag hann inte be hela fredagsbönen med imamen – är bönen giltig då?
-  Svar: Den som har bett mindre än en bönecykel av fredagsbönen har missat den
-  och måste be middagsbönen bestående av f...
+description: 'Den som har bett mindre än en bönecykel av fredagsbönen har missat den och måste be middagsbönen bestående av fyra bönecykler. /…/'
 ---
 
 **Fråga:** Jag hann inte be hela fredagsbönen med imamen – är bönen giltig då?

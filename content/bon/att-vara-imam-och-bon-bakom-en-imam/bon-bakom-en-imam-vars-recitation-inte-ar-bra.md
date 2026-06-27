@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 335
-description: 'Fråga: Är det tillåtet att be bakom en imam om hans recitation inte
- är bra och det inte finns någon annan i stället för honom? Svar: Om det inte
- är något grammatiskt fel i hans recitation som ...'
+description: 'Om det inte är något grammatiskt fel i hans recitation som förändrar dess mening, då finns det ingen invändan mot bön bakom honom.'
 ---
 
 **Fråga:** Är det tillåtet att be bakom en imam om hans recitation inte är bra och det inte finns någon annan i stället för honom?

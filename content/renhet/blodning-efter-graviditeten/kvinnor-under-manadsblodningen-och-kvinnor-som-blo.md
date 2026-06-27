@@ -7,9 +7,7 @@ categories:
   - Renhet (Tahārah)
   - Efterblödning
 original_id: 1668
-description: 'Fråga: Ädle shaykh, det är en vana jag har att recitera vissa kapitel
- från Koranen innan jag går och lägger mig men det finns dagar när jag inte kan göra
- detta på grund av min månadsblödning. S...'
+description: 'Kvinnor under månadsblödningen och kvinnor som blöder efter graviditeten får enligt den mest korrekta åsikten bland de lärde recitera Koranen då det inte…'
 ---
 
 **Fråga:** Ädle *s̲hayk̲h*, det är en vana jag har att recitera vissa kapitel från Koranen innan jag går och lägger mig men det finns dagar när jag inte kan göra detta på grund av min månadsblödning. Kan jag skriva ned surorna på ett papper så att jag kan läsa dem under min period?

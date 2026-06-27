@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Klädsel i bönen
 original_id: 202
-description: >-
-  Fråga: Vilket är utlåtandet om den som bär bilder, som i plånboken exempelvis,
-  och han är rädd för att bli av med den om han lämnar den då han ber? Svar: Han
-  får be den obligatoriska bönen och...
+description: 'Han får be den obligatoriska bönen och den icke obligatoriska bönen medan han bär en plånbok som innehåller bilder eller pengar med bilder på.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som bär bilder, som i plånboken exempelvis, och han är rädd för att bli av med den om han lämnar den då han ber?

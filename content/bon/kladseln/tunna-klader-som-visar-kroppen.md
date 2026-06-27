@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Klädsel i bönen
 original_id: 928
-description: >-
-  Fråga: Många ber i tunna klädesplagg som visar huden under. De bär korta
-  byxor som inte täcker mer än hälften av låren och den resterande hälften är då
-  synlig under plagget. Vilket är utlåtandet ...
+description: 'Utlåtandet om deras bön är detsamma som för den som bad i korta byxor utan ett [överliggande] plagg.'
 ---
 
 **Fråga:** Många ber i tunna klädesplagg som visar huden under. De bär korta byxor som inte täcker mer än hälften av låren och den resterande hälften är då synlig under plagget. Vilket är utlåtandet om denna bön?

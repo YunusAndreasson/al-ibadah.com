@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 1517
-description: >-
-  Fråga: Om jag gick in i moskén en fredag när imamen predikade, kan jag då be
-  två bönecykler? Svar: Det är sunnah och mycket rekommenderat att den som går
-  in i moskén inte sätter sig ned förr...
+description: 'Det är sunnah och mycket rekommenderat att den som går in i moskén inte sätter sig ned förrän han har bett två bönecykler som hälsningsbön till moskén.'
 ---
 
 **Fråga:** Om jag gick in i moskén en fredag när imamen predikade, kan jag då be två bönecykler?

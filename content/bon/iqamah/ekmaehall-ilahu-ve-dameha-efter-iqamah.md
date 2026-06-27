@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Det andra böneutropet
 original_id: 925
-description: >-
-  Fråga: När iqāmah har ropats ut hör vi att vissa säger: ” Ekmaehall-ilahu ve
-  dameha .” Vilket är utlåtandet om detta? Svar: I en hadīth från Allāhs
-  sändebud – över honom vare Allāhs frid ...
+description: 'I en ḥadīt̲h från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – rapporteras att när böneutroparen säger: ”Bönen har börjat”, så ska man…'
 ---
 
 **Fråga:** När *iqāmah* har ropats ut hör vi att vissa säger: ” *Ekmaehall-ilahu ve dameha*.” Vilket är utlåtandet om detta?

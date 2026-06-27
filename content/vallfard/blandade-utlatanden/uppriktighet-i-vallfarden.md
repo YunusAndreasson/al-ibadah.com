@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Övrigt
 original_id: 895
-description: >-
-  Fråga: Hur kan en pilgrim vara uppriktig mot Allāh då personen utför ritualerna?
-  Om personen vill göra affärer för att tjäna sitt levebröd samtidigt som personen
-  vallfärdar, betyder det att personen inte är u...
+description: 'All lovprisan tillhör Allāh. Uppriktighet är ett nödvändigt villkor i all dyrkan och ingen dyrkan är giltig om någon eller något sätts vid sidan av Allāh.'
 ---
 
 **Fråga:** Hur kan en pilgrim vara uppriktig mot Allāh då personen utför ritualerna? Om personen vill göra affärer för att tjäna sitt levebröd samtidigt som personen vallfärdar, betyder det att personen inte är uppriktig mot Allāh?

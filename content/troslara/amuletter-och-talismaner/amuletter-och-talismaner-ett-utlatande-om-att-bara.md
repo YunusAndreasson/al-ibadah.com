@@ -8,9 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Amuletter och talismaner
 original_id: 1079
-description: 'Fråga: Vilket är utlåtandet om att bära amuletter och talismaner? Svar: Frågan
- om att bära talismaner och amuletter delas i två kategorier: Det som bärs kommer
- från Koranen . De lärde har, ...'
+description: 'Frågan om att bära talismaner och amuletter delas i två kategorier: Det som bärs kommer från Koranen.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att bära amuletter och talismaner?

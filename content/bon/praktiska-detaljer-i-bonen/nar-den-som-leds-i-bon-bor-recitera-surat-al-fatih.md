@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 951
-description: >-
-  Fråga: När bör den som leds i bön recitera sura *al-Fātiḥah*? Svar: Det är bra
-  om den som leds i bön reciterar efter imamen. På detta sätt kan personen lyssna
-  på den obligatoriska recitationen som ...
+description: 'Det är bra om den som leds i bön reciterar efter imamen. På detta sätt kan personen lyssna på den obligatoriska recitationen som är en av bönens pelare.'
 ---
 
 **Fråga:** När bör den som leds i bön recitera sura *al-Fātiḥah*?

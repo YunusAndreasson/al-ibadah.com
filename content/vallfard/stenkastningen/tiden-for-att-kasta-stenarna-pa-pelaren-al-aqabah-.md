@@ -10,10 +10,7 @@ categories:
   - Vallfärd (Hajj)
   - Stenkastningen
 original_id: 1557
-description: >-
-  Fråga: När tar tiden för att kasta sten på pelaren al-´Aqabah slut och när tar
-  tiden för att ta igen detta slut [om man missar]? Svar: När det gäller att
-  kasta sten på al-´Aqabah under ‘eid -...
+description: 'När det gäller att kasta sten på al-´Aqabah under ´eid-dagen, då tar tiden slut vid gryningsbönen under den elfte dagen och den börjar vid slutet av natten…'
 ---
 
 **Fråga:** När tar tiden för att kasta sten på pelaren al-´Aqabah slut och när tar tiden för att ta igen detta slut [om man missar]?

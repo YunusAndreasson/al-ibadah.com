@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Kropp och klädnad
 original_id: 1651
-description: >-
-  Fråga: Är det tillåtet att korta skägget genom att trimma det? Svar: Allāhs
-  sändebud – över honom vare Allāhs frid och välsignelser – har klart och
-  tydligt sagt: ”Klipp era mustascher och odla ...
+description: 'Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har klart och tydligt sagt: ”Klipp era mustascher och odla skäggen.” Skägget består av…'
 ---
 
 **Fråga:** Är det tillåtet att korta skägget genom att trimma det?

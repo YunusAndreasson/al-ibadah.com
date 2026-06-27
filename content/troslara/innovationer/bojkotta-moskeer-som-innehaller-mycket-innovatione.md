@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 380
-description: 'Fråga: Kan man bojkotta moskéer som innehåller mycket innovationer? Svar: En
- muslim bör i så stor utsträckning som möjligt sträva efter att få bort dessa innovationer.
- Om det inte är möjligt a...'
+description: 'En muslim bör i så stor utsträckning som möjligt sträva efter att få bort dessa innovationer.'
 ---
 
 **Fråga:** Kan man bojkotta moskéer som innehåller mycket innovationer?

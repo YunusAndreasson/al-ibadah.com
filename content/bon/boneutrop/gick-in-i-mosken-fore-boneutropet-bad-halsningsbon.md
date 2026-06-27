@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 1228
-description: >-
-  Fråga: Om någon gick in i moskén före böneutropet och bad hälsningsbönen till
-  moskén och böneutroparen sedan ropade ut böneutropet, är det då föreskrivet
-  att personen ber en frivillig bön? Svar: ...
+description: 'Om böneutropet var för gryningsbönen eller middagsbönen bör personen när böneutroparen har ropat ut böneutropet be två sunnah för gryningsbönen och fyra…'
 ---
 
 **Fråga:** Om någon gick in i moskén före böneutropet och bad hälsningsbönen till moskén[^1] och böneutroparen sedan ropade ut böneutropet, är det då föreskrivet att personen ber en frivillig bön?

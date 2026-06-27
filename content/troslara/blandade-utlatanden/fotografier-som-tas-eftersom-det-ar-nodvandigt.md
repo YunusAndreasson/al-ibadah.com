@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1648
-description: 'Fråga: Vilket är utlåtandet om fotografier som används på grund av
- att det är nödvändigt? Svar: Bilder av vad som är levande (människor och djur)
- är inte tillåtna utom om det är nödvändigt. Exe...'
+description: 'Bilder av vad som är levande (människor och djur) är inte tillåtna utom om det är nödvändigt.'
 ---
 
 **Fråga:** Vilket är utlåtandet om fotografier som används eftersom det är nödvändigt?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Profetens moské
 original_id: 876
-description: >-
-  Fråga: Jag besökte Mecka al-Mukarramah under ramadan. Detta med avsikten att
-  göra ´umrah. Men efter att ha uppehållit mig en dag i Mecka al-Mukarramah
-  blev jag sjuk och vi hade inte möjlighet at...
+description: 'Om du gjorde ṭawāf och sa´ī, klippte håret och sedan avslutade ´umrah – då är denna ´umrah fullständig och den belönas.'
 ---
 
 **Fråga:** Jag besökte Mecka al-Mukarramah under *ramaḍān*. Detta med avsikten att göra *´umrah*. Men efter att ha uppehållit mig en dag i Mecka al-Mukarramah blev jag sjuk och vi hade inte möjlighet att fullfölja riterna för *´umrah*. Vi gjorde *ṭawāf* runt Ka’bah [med sju rundor] och vi gjorde *sa´ī* mellan as-Safa och al-Marwah. Vi hade dock inte möjlighet att bege oss till Medina al-Munawwarah för att besöka helgedomen. Detta på grund av min sjukdom. Jag återvände sedan till mitt hemland. Räknas detta besök som en *´umrah* för oss?

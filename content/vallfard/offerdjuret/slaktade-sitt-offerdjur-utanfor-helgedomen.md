@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Offerdjuret
 original_id: 1360
-description: >-
-  Fråga: En pilgrim slaktade under vallfärden sitt offerdjur vid Arafat under
-  at-ayyām at-tas̲hrīq och han delade ut det bland dem som var närvarande. Är det
-  tillåtet och vad måste han göra om han ...
+description: 'Det är inte tillåtet att slakta ett offerdjur för ḥajjul-tamattu´ och ḥajjul-qirān, utom vid Helgedomen.'
 ---
 
 **Fråga:** En pilgrim slaktade under vallfärden sitt offerdjur vid *´Arafāt* under *at-ayyām at-tas̲hrīq* och han delade ut det bland dem som var närvarande. Är det tillåtet och vad måste han göra om han inte har känt till denna regel eller om han gjorde det avsiktligen? Om han slaktade sitt djur i *´Arafāt* och sedan delade ut köttet inuti Helgedomen, är det tillåtet?

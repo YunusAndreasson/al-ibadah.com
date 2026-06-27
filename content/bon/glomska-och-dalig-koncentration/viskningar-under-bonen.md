@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 221
-description: >-
-  Fråga: Jag är en kvinna som utför den dyrkan som Allāh har föreskrivit för
-  mig. Jag är dock mycket glömsk i bönen. När jag ber tänker jag på det som har
-  hänt under dagen. Jag tänker inte på detta...
+description: 'Många klagar över problemet som du har nämnt. Detta problem är att djävulen öppnar upp en dörr till viskningar för dem under bönen.'
 ---
 
 **Fråga:** Jag är en kvinna som utför den dyrkan som Allāh har föreskrivit för mig. Jag är dock mycket glömsk i bönen. När jag ber tänker jag på det som har hänt under dagen. Jag tänker inte på detta förrän jag börjar att be. Då kan jag inte hindra det, utom när jag reciterar högt. Vilket är ditt råd till mig?

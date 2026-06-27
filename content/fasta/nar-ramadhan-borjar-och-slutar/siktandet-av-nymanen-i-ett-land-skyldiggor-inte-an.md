@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Ramadans datum
 original_id: 395
-description: >-
-  Fråga: Det varierar mellan olika länder när nymånen visar sig under ramaḍān
-  och s̲hawwāl. Fastar muslimer då när den siktas i ett av dessa länder? Svar: De
-  lärde har olika åsikter om nymånen. D...
+description: 'De lärde har olika åsikter om nymånen. Det finns de som anser att om siktandet av nymånen under ramaḍān bekräftas på en plats och på ett enligt islam…'
 ---
 
 **Fråga:** Det varierar mellan olika länder när nymånen visar sig under *ramaḍān* och *s̲hawwāl*. Fastar muslimer då när den siktas i ett av dessa länder?

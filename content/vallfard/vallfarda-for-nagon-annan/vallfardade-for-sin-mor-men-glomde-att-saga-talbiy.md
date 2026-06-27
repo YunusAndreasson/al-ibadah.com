@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Ställföreträdande vallfärd
 original_id: 1325
-description: >-
-  Fråga: Vilket är utlåtandet om den som vallfärdar för sin mor och vid mīqāt
-  sade han talbiyyah för vallfärden, men som inte sade talbiyyah för sin moder?
-  Svar: Så länge personens avsikt var...
+description: 'Så länge personens avsikt var att vallfärda för modern, men personen glömde, då är fortfarande vallfärden för modern giltig.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som vallfärdar för sin mor och vid *mīqāt* sade han *talbiyyah* för vallfärden, men som inte sade *talbiyyah* för sin moder?

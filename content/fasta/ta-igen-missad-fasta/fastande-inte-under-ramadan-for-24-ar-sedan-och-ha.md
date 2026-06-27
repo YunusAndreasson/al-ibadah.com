@@ -10,10 +10,7 @@ categories:
   - Fasta (Sawm)
   - Ikappfasta
 original_id: 464
-description: >-
-  Fråga: En kvinna fastade inte under ramadan år 1382 AH och hon hade en riktig
-  ursäkt som var att hon ammade ett spädbarn. Nu har barnet vuxit upp och är i
-  dag 24 år gammalt men kvinnan har ännu in...
+description: 'Hon måste skyndsamt ta igen denna månad. Hon bör fasta den även om hon gör så under separata dagar som sammantaget blir lika många som muslimer fastade…'
 ---
 
 **Fråga:** En kvinna fastade inte under *ramaḍān* år 1382 AH och hon hade en riktig ursäkt som var att hon ammade ett spädbarn. Nu har barnet vuxit upp och är i dag 24 år gammalt men kvinnan har ännu inte tagit igen denna månad. Vid Allāh den Allsmäktige detta skedde endast på grund av hennes okunskap och inte avsiktligen eller med slapphet från hennes sida. Jag hoppas att du kan hjälpa oss med ett svar.

@@ -7,10 +7,7 @@ source: >-
 categories:
   - Allmosa (Zakāh)
 original_id: 650
-description: >-
-  Fråga: Är zakātul-fitr obligatoriskt eller rekommenderat? Vem är det
-  obligatoriskt för? Svar: Zakātul-fitr är en skyldighet för muslimer därför att
-  profeten – över honom vare Allāhs frid o...
+description: 'zakātul-fiṭr är en skyldighet för muslimer därför att profeten – över honom vare Allāhs frid och välsignelser – har gjort det till en skyldighet för män…'
 ---
 
 **Fråga:** Är *zakātul-fiṭr* obligatoriskt eller rekommenderat? Vem är det obligatoriskt för?

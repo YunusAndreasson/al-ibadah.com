@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 761
-description: >-
-  Fråga: En man gick in i ihrām för vallfärden i Jiddah. När han sedan kom till
-  Medina efter vallfärden berättades det för honom att han hade en bristfällig i
-  hans vallfärd. Därför frågar han om h...
+description: 'Den som avser att utföra vallfärden eller ´umrah måste gå in i iḥrām vid den mīqāt som han passerar förbi eller en plats som är i jämnhöjd med den.'
 ---
 
 **Fråga:** En man gick in i *iḥrām* för vallfärden i Jiddah. När han sedan kom till Medina efter vallfärden berättades det för honom att det fanns en brist i hans vallfärd. Därför frågar han om han måste offra ett djur?

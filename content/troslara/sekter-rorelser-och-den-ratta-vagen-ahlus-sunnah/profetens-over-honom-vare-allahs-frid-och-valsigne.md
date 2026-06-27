@@ -8,9 +8,7 @@ categories:
   - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 1068
-description: 'Fråga: Profeten – över honom vare Allāhs frid och välsignelser – har
- informerat oss om hur det muslimska samfundet skulle splittra sig efter hans bortgång.
- Vill du berätta om detta för oss? Sva...'
+description: 'Profeten – över honom vare Allāhs frid och välsignelser – har i en återberättelse, som rapporterats från honom, informerat om att judarna splittrades i 71…'
 ---
 
 **Fråga:** Profeten – över honom vare Allāhs frid och välsignelser – har informerat oss om hur det muslimska samfundet skulle splittra sig efter hans bortgång. Vill du berätta om detta för oss?

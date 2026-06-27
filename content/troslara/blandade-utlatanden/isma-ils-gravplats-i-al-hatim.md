@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 45
-description: 'Fråga: I biografier rapporteras att Isma''il begravdes i al-Hatim i
- Mecka. Om detta är sant, hur kan det då vara tillåtet att be vid denna plats? Svar: Påståendet
- att Isma''il har begravts i al...'
+description: 'Påståendet att Isma''il har begravts i al-Hatim är inte sant. Det är ett opålitligt uttalande. Allāh är den som ger framgång.'
 ---
 
 **Fråga:** I biografier rapporteras att Isma'il begravdes i al-Hatim i Mecka. Om detta är sant, hur kan det då vara tillåtet att be vid denna plats?

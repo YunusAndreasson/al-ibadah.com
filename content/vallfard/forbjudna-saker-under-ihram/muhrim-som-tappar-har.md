@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Förbud i helgtillståndet
 original_id: 772
-description: >-
-  Fråga: Vad bör en kvinna göra under ihrām om lite av hennes hår faller av mot
-  hennes vilja? Svar: Om man tappar hår under ihrām – oavsett om det är en man
-  eller kvinna – när han eller...
+description: 'Om man tappar hår under iḥrām – oavsett om det är en man eller kvinna – när han eller hon stryker det under tvagningen eller när det tvättas, då är det…'
 ---
 
 **Fråga:** Vad bör en kvinna göra under *iḥrām* om lite av hennes hår faller av mot hennes vilja?

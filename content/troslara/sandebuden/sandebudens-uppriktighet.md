@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 105
-description: >-
-  Fråga: Vilka bevis finns för sändebudens och profeternas uppriktighet och med
-  vad stödde Allāh dem? Svar: Allāh lade fram bevis för profeternas
-  uppriktighet, stödde dem med mirakel som imponer...
+description: 'Allāh lade fram bevis för profeternas uppriktighet, stödde dem med mirakel som imponerade på människorna och de var även kända för sin uppriktighet samt…'
 ---
 
 **Fråga:** Vilka bevis finns för sändebudens och profeternas uppriktighet och med vad stödde Allāh dem?

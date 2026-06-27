@@ -6,10 +6,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 537
-description: >-
-  Fråga: Somliga förkastar profetens – över honom vare Allāhs frid och
-  välsignelser – sunnah eftersom det finns många svaga och påhittade aḥādīt̲h
-  samt att de många lögnarnas påhitt försvagar pro...
+description: 'All lovprisan tillhör Allāh. Detta anser vissa heretiker och vilseledda, både tidigare i historien och nu för tiden.'
 ---
 
 **Fråga:** Somliga förkastar profetens – över honom vare Allāhs frid och välsignelser – *sunnah* eftersom det finns många svaga och påhittade *aḥādīt̲h* samt att de många lögnarnas påhitt försvagar profetens – över honom vare Allāhs frid och välsignelser – *sunnah* så att det inte går att lita på den. Vilken är er åsikt om detta påstående?

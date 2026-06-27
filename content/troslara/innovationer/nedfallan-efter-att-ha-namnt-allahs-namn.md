@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 1505
-description: >-
-  Fråga: Får jag nedfalla ett visst antal gånger efter att ha nämnt Allāhs namn?
-  Svar: Vi känner inte till några bevis för detta från Allāhs skrift eller från
-  profetens – över honom vare Allāhs ...
+description: 'Vi känner inte till några bevis för detta från Allāhs skrift eller från profetens – över honom vare Allāhs frid och välsignelser – sunnah som bevisar att…'
 ---
 
 **Fråga:** Får jag nedfalla ett visst antal gånger efter att ha nämnt Allāhs namn?

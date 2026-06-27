@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Övrigt
 original_id: 474
-description: >-
-  Fråga: Om en vägg används som åtskiljare mellan män och kvinnor i moskén,
-  gäller då sändebudets uttalande: ”De bästa raderna för män är de första av dem
-  och de värsta för dem är de sista av d...
+description: 'Det är uppenbart att anledningen till att de bästa raderna för kvinnorna är de sista är att de inte är i närheten av männen.'
 ---
 
 **Fråga:** Om en vägg används som åtskiljare mellan män och kvinnor i moskén, gäller då sändebudets uttalande:

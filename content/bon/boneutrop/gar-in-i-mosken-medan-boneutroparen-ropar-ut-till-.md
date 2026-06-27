@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 921
-description: >-
-  Fråga: Vad är bäst att göra om man går in i moskén medan böneutroparen ropar
-  ut böneutropet? Svar: Det bästa är att svara efter böneutroparen och därefter
-  åkalla genom att använda de ord som h...
+description: 'Det bästa är att svara efter böneutroparen och därefter åkalla genom att använda de ord som har rapporterats [från profeten].'
 ---
 
 **Fråga:** Vad är bäst att göra om man går in i moskén medan böneutroparen ropar ut böneutropet?

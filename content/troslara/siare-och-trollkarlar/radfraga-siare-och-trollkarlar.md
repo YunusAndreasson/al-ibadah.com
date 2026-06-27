@@ -7,10 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Siare och trollkarlar
 original_id: 64
-description: >-
-  Fråga: Min far var mentalt sjuk under en lång tid och han åkte ut och in från
-  sjukhuset. Några av mina släktingar sade till mig att gå till en kvinna som
-  kände till botemedel mot mentalsjukdomar. ...
+description: 'Det är inte tillåtet att besöka, rådfråga eller tro på denna kvinna eller hennes likar. Detta beror på att hon är en siare eller trollpacka som påstår sig…'
 ---
 
 **Fråga:** Min far var mentalt sjuk under en lång tid och han åkte ut och in från sjukhuset. Några av mina släktingar sade till mig att gå till en kvinna som kände till botemedel mot mentalsjukdomar. De sade även: ”Säg endast ditt namn och hon kommer att berätta vad det är för slags sjukdom och vilket botemedlet är.” Är det tillåtet att gå till denna kvinna?

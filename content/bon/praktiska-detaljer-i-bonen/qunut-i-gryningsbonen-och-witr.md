@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 289
-description: >-
-  Fråga: Vilket är utlåtandet om att alltid göra qunūt under gryningsbönen och
-  witr? Vilket är utlåtandet om att göra witr i tre bönecykler likt kvällsbönen?
-  Svar: Denna fråga består av tv...
+description: 'Denna fråga består av två delar. Den första är frågan om qunūt i gryningsbönen. Här finns olika åsikter bland de lärde.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att alltid göra *qunūt* under gryningsbönen och *witr*? Vilket är utlåtandet om att göra *witr* i tre bönecykler likt kvällsbönen?

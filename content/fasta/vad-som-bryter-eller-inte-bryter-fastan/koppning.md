@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1399
-description: >-
-  Fråga: Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”
-  Den som koppar och den som blir koppad bryter båda fastan .” [ Abū Dawūd 2367]
-  Är detta en autentisk hadīth? Om den ...
+description: 'Denna ḥadīt̲h är autentisk. Den har graderats som autentisk av bland andra imam Aḥmad. Det betyder att om den fastande koppar någon annan så bryter…'
 ---
 
 **Fråga:** Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Den som koppar och den som blir koppad bryter båda fastan*.” [^2] Är detta en autentisk *ḥadīt̲h*? Om den är autentisk, hur förklaras den då?

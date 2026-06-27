@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
 original_id: 51
-description: >-
-  Fråga: Är det tillåtet att stå eller sitta vid en grav och åkalla för den
-  avlidne? Svar: Syftet med tillåtna besök vid gravplatser är att lära sig en
-  läxa; att bli påmind om döden och beakta d...
+description: 'Syftet med tillåtna besök vid gravplatser är att lära sig en läxa; att bli påmind om döden och beakta den, inte att få välsignelser från den avlidne.'
 ---
 
 **Fråga:** Är det tillåtet att stå eller sitta vid en grav och åkalla för den avlidne?

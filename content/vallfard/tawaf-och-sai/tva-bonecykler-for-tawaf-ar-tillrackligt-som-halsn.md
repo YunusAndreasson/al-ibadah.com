@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 799
-description: >-
-  Fråga: Om jag avsåg att utföra ‘umrah eller vallfärden, gick in i ihrām och
-  gick in i den heliga Moskén – ber jag då två bönecykler som hälsningsbönen
-  till moskén eller påbörjar jag tawāf di...
+description: 'Det som är föreskrivet för en pilgrim under vallfärden eller ´umrah är att den som går in i den heliga Moskén börjar med ṭawāf, och två bönecykler efter…'
 ---
 
 **Fråga:** Om jag avsåg att utföra *´umrah* eller vallfärden, gick in i *iḥrām* och gick in i den heliga Moskén – ber jag då två bönecykler som hälsningsbönen till moskén[^1] eller påbörjar jag *ṭawāf* direkt?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 1538
-description: >-
-  Fråga: Vilket är utlåtandet om en imam som rakar sitt skägg, som röker, som är
-  okunnig eller inte förstår Koranen? Svar: Imamtjänsten för den som röker eller
-  rakar sitt skägg, oavsett om ...
+description: 'Imamtjänsten för den som röker eller rakar sitt skägg, oavsett om han är den vanliga imamen eller inte, om det är möjligt att be bakom någon annan, då är…'
 ---
 
 **Fråga:** Vilket är utlåtandet om en imam som rakar sitt skägg, som röker, som är okunnig eller inte förstår Koranen?

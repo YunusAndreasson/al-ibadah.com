@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 294
-description: 'Fråga: Jag har hört talas om salatul-hajah och salat hifzul-qur''an
- . Är dessa böner tillåtna? Svar: Dessa båda böner är felaktiga. Varken salatul-hajah eller salat
- hifzul-qura''an är g...'
+description: 'Dessa båda böner är felaktiga. Varken salatul-hajah eller salat hifzul-qura''an är giltiga. Det är inte möjligt att bekräfta dyrkan på detta sätt utom om…'
 ---
 
 **Fråga:** Jag har hört talas om *salatul-hajah* och *salat hifzul-qur'an*. Är dessa böner tillåtna?

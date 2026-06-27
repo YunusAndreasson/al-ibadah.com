@@ -7,9 +7,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 1119
-description: 'Fråga: Vilket är utlåtandet om att ta in papper med Allāhs namn på
- toaletten? Svar: Det är tillåtet att ta in dessa papper på toaletten om man
- bär dem i en ficka så att de inte syns. I de fles...'
+description: 'Det är tillåtet att ta in dessa papper på toaletten om man bär dem i en ficka så att de inte syns.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att ta in papper med Allāhs namn på toaletten?

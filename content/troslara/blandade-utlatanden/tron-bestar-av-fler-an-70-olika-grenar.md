@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1070
-description: >-
-  Fråga: Hur kan vi få ihop att tron innebär att man tror på Allāh, Hans änglar,
-  Hans skrifter, Hans sändebud, den Yttersta dagen och det förutbestämda [det
-  goda och det onda i det] med att profeten...
+description: 'Tron, som är trosläran, har sex grundläggande principer som har nämnts i återberättelsen om [ängeln] Gabriel när han frågade profeten – över honom vare…'
 ---
 
 **Fråga:** Hur kan vi få ihop att tron innebär att man tror på Allāh, Hans änglar, Hans skrifter, Hans sändebud, den Yttersta dagen och det förutbestämda [det goda och det onda i det] med att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”*Tron består av mer än 70 olika grenar*…”?

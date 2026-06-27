@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - 'Jinn, magi och det onda ögat'
 original_id: 1088
-description: >-
-  Fråga: Har jinn någon inverkan på människan och hur skyddar man sig mot dem?
-  Svar: Det råder inga tvivel om att jinn kan verka skadligt på människor, till
-  den grad att död...
+description: 'Det råder inga tvivel om att jinn kan verka skadligt på människor, till den grad att dödsfall inträffar.'
 ---
 
 **Fråga:** Har *jinn* någon inverkan på människan och hur skyddar man sig mot dem?

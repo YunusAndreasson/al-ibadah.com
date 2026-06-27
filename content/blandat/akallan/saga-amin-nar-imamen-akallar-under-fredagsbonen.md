@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Åkallan
 original_id: 369
-description: >-
-  Fråga: Är det en innovation att säga āmīn när imamen åkallar under
-  fredagsbönen? Svar: Det är inte en innovation att säga āmīn när predikanten
-  åkallar under predikan. Om han börjar åkalla ...
+description: 'Det är inte en innovation att säga āmīn när predikanten åkallar under predikan. Om han börjar åkalla för muslimerna, då anses det vara bra att säga āmīn…'
 ---
 
 **Fråga:** Är det en innovation att säga *āmīn* när imamen åkallar under fredagsbönen?

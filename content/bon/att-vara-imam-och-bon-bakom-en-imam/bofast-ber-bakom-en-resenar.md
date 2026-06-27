@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 1470
-description: >-
-  Fråga: En person begav sig ut på en resa och han ville be middagsbönen i
-  församling. Han fann någon som redan hade bett middagsbönen men personen var inte
-  resenär. Får den som inte reser be med en re...
+description: 'Om den som inte reser ber bakom en resenär för att få belöningen för att be med församlingen om han redan har bett den obligatoriska bönen, då bör han be…'
 ---
 
 **Fråga:** En person begav sig ut på en resa och han ville be middagsbönen i församling. Han fann någon som redan hade bett middagsbönen men personen var inte resenär. Får den som inte reser be med en resenär och bör han förkorta sin bön eller be hela?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsriter
 original_id: 751
-description: >-
-  Fråga: Jag utförde den obligatoriska vallfärden men jag gjorde inte ‘umrah
-  tillsammans med den. Har jag då syndat? Och den som utför ‘umrah tillsammans
-  med vallfärden, är personen skyldig att utf...
+description: 'Om någon vallfärdar och personen tidigare inte har utfört ´umrah [efter att ha kommit in i puberteten], då bör personen utföra ´umrah oavsett om personen…'
 ---
 
 **Fråga:** Jag utförde den obligatoriska vallfärden men jag gjorde inte *´umrah* tillsammans med den. Har jag då syndat? Och den som utför *´umrah* tillsammans med vallfärden, är personen skyldig att utföra *´umrah* vid en annan tidpunkt?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 884
-description: >-
-  Fråga: Vi märkte att somliga uttalar sin avsikt högt före tawāf. Vi märkte
-  även att vissa knuffade sig fram för att nå den svarta stenen. Vilken är er
-  åsikt om dessa handlingar? Svar: All lo...
+description: 'All lovprisan tillhör Allāh. Nedan räknas några misstag upp som begås under ṭawāf. 1. Yttrar avsikt högt när man vill göra ṭawāf.'
 ---
 
 **Fråga:** Vi märkte att somliga uttalar sin avsikt högt före *ṭawāf*. Vi märkte även att vissa knuffade sig fram för att nå den svarta stenen. Vilken är er åsikt om dessa handlingar?

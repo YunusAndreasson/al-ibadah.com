@@ -9,10 +9,7 @@ categories:
   - Allmosa (Zakāh)
   - Fasteallmosa
 original_id: 1551
-description: >-
-  Fråga: Vilket är utlåtandet om att ge pengar som zakātul-fiṭr? Det finns de
-  som säger att det är tillåtet. Svar: Det är inte okänt för någon muslim att
-  islams viktigaste pelare är vittnesmål...
+description: 'Det är inte okänt för någon muslim att islams viktigaste pelare är vittnesmålet om att ingen har rätten att dyrkas utom Allāh och att Muḥammad är Allāhs…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att ge pengar som *zakātul-fiṭr*? Det finns de som säger att det är tillåtet.

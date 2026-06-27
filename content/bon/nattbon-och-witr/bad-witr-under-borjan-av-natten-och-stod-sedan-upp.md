@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nattbön
 original_id: 288
-description: >-
-  Fråga: Om jag bad witr i början av natten och jag sedan stod för att be i
-  slutet av natten – hur ber jag då? Svar: Om du bad witr under början av natten
-  och Allāh sedan gjorde det lätt för...
+description: 'Om du bad witr under början av natten och Allāh sedan gjorde det lätt för dig att gå upp och be under slutet av den, be då vad Allāh gör lätt för dig att…'
 ---
 
 **Fråga:** Om jag bad *witr* i början av natten och jag sedan stod för att be i slutet av natten – hur ber jag då?

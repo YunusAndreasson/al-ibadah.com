@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsriter
 original_id: 743
-description: >-
-  Fråga: Jag gick in i ihrām för ‘umrah och min avsikt var att utföra
-  hajjul-tamattu’ . Efter ‘umrah begav jag mig till Jiddah. Anses jag vara en
-  mutamatti´' om jag återvänder och avslutar m...
+description: 'Den korrekta åsikten är att personen genom sin [resa till Jiddah] inte har lämnat ḥajjul-tamattu´.'
 ---
 
 **Fråga:** Jag gick in i *iḥrām* för *´umrah* och min avsikt var att utföra *ḥajjul-tamattu´*. Efter *´umrah* begav jag mig till Jiddah. Anses jag vara en *mutamatti´[^1]'* om jag återvänder och avslutar min vallfärd?

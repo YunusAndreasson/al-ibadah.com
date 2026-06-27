@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Klädsel i bönen
 original_id: 218
-description: >-
-  Fråga: Ibland ber jag då jag har täckt mig med en handduk. Inget av ‘awrah
-  visas men då jag nedfaller syns lite av mitt knä och det ovanför. I
-  vetskap om att jag är ensam och ingen kan se mig, ...
+description: 'Oberoende av om det är en obligatorisk eller frivillig bön är det inte tillåtet att visa någon del av ´awrah under bönen.'
 ---
 
 **Fråga:** Ibland ber jag då jag har täckt mig med en handduk. Inget av *´awrah* visas men då jag nedfaller syns lite av mitt knä och det ovanför. I vetskap om att jag är ensam och ingen kan se mig, vilket är utlåtandet om detta?

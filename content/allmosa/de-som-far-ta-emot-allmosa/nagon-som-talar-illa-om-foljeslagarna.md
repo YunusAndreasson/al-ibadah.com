@@ -6,10 +6,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 546
-description: >-
-  Fråga: Vilket är utlåtandet om en sunni som betalar allmosa till fattiga
-  rāfiḍī? Om en muslim som är skyldig att betala allmosa ger den till en fattig
-  rāfiḍī, har personen då fullgjort sin skyldi...
+description: 'All lovprisan tillhör Allāh. I de böcker som diskuterar vem som får ta emot allmosa har de lärde fastslagit att dessa insamlingar inte ska ges till en…'
 ---
 
 **Fråga:** Vilket är utlåtandet om en sunni som betalar allmosa till fattiga *rāfiḍī*? Om en muslim som är skyldig att betala allmosa ger den till en fattig *rāfiḍī*, har personen då fullgjort sin skyldighet?

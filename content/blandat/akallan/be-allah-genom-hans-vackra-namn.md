@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Åkallan
 original_id: 688
-description: >-
-  Fråga: Är denna form av åkallan korrekt: ”Allāh, jag ber dig vid dina vackra
-  namn och egenskaper, att...” Svar: Det är från profetens – över honom vare
-  Allāhs frid och välsignelser – sunnah ...
+description: 'Det är från profetens – över honom vare Allāhs frid och välsignelser – sunnah att be Allāh vid Hans vackra namn och Hans upphöjda egenskaper, genom ens…'
 ---
 
 **Fråga:** Är denna form av åkallan korrekt: ”Allāh, jag ber dig vid dina vackra namn och egenskaper, att…”

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 1574
-description: >-
-  Fråga: Vilken är den kortaste sträckan som man ska ha rest för att få förkorta
-  den obligatoriska bönen? Svar: Den sträcka som man måste ha rest för att få
-  förkorta bönen är inte bestämd. […] ...
+description: 'Den sträcka som man måste ha rest för att få förkorta bönen är inte bestämd. […] Ordet "resa" nämns utan att en sträcka bestäms.'
 ---
 
 **Fråga:** Vilken är den kortaste sträckan som man ska ha rest för att få förkorta den obligatoriska bönen?

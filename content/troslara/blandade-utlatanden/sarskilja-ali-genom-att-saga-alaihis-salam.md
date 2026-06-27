@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 70
-description: 'Fråga: Jag skummade genom de ämnen som boken '' Aqd ad-Durar fī Akhbar
- al-Muntathar '' täcker. I några av haditherna som tillskrivs ´Alī bin Abi Tālib
- har jag funnit att det står skrivit: ”´Alī...'
+description: 'Det är inte lämpligt att särskilja ´Alī med detta uttryck. När följeslagarna nämns är det i stället föreskrivet att säga: ”Radhi Allāhu ’Anhum” eller…'
 ---
 
 **Fråga:** Jag skummade genom de ämnen som boken '*Aqd ad-Durar fī Akhbar al-Muntathar*' täcker. I några av haditherna som tillskrivs ´Alī bin Abi Tālib har jag funnit att det står skrivit:

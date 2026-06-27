@@ -6,10 +6,7 @@ categories:
   - Fasta (Sawm)
   - Ikappfasta
 original_id: 1608
-description: >-
-  Fråga: Kan jag fasta sex dagar under s̲hawwāl med samma intention som för att
-  ta igen missade dagar under ramaḍān på grund av månadsblödningen? Svar: Den
-  som fastar under arafat-dagen eller 'as...
+description: 'Den som fastar under ´Arafāt-dagen eller ''ashura''-dagen men fortfarande har fasta kvar från ramaḍān har en giltig fasta men om han fastar dessa dagar för…'
 ---
 
 **Fråga:** Kan jag fasta sex dagar under *s̲hawwāl* med samma intention som för att ta igen missade dagar under *ramaḍān* på grund av månadsblödningen?

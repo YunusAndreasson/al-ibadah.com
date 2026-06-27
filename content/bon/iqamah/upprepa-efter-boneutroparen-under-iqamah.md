@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Det andra böneutropet
 original_id: 924
-description: >-
-  Fråga: Bör man läsa efter böneutroparen vad personen säger när personen ropar ut
-  iqāmah? Svar: Abū Dawūd har rapporterat en hadīth om att upprepa vad
-  böneutroparen säger i iqāmah . Den är dock ...
+description: 'Abū Dāwūd har rapporterat en ḥadīt̲h om att upprepa vad böneutroparen säger i iqāmah. Den är dock svag och kan inte användas som bevis.'
 ---
 
 **Fråga:** Bör man läsa efter böneutroparen vad personen säger när personen ropar ut *iqāmah*?

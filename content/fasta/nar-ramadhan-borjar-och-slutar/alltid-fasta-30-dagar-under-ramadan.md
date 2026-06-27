@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Ramadans datum
 original_id: 1391
-description: >-
-  Fråga: Vilket är utlåtandet om dem som alltid fastar 30 dagar under ramaḍān?
-  Svar: Utförliga ahādīth från Allāhs sändebud, konsensus bland följeslagarna
-  och de lärde som följde dem i rättfär...
+description: 'Utförliga aḥādīt̲h från Allāhs sändebud, konsensus bland följeslagarna och de lärde som följde dem i rättfärdighet bevisar att månaden antingen är 29 eller…'
 ---
 
 **Fråga:** Vilket är utlåtandet om dem som alltid fastar 30 dagar under *ramaḍān*?

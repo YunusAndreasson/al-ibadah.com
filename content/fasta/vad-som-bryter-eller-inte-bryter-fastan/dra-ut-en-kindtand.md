@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1049
-description: 'Fråga: Vilket är utlåtandet om en fastande som drar ut en kindtand,
- bryter det fastan? Svar: Blodet som rinner eftersom en kindtand har dragits
- ut bryter inte fastan. Detta beror på att utlåta...'
+description: 'Blodet som rinner eftersom en kindtand har dragits ut bryter inte fastan. Detta beror på att utlåtandet inte är detsamma som för koppning.'
 ---
 
 **Fråga:** Vilket är utlåtandet om en fastande som drar ut en kindtand, bryter det fastan?

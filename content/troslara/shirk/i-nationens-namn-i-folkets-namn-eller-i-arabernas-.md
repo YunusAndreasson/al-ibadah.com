@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
 original_id: 1585
-description: >-
-  Fråga: Vilket är utlåtandet om dessa uttryck: I nationens namn, i folkets namn
-  och i arabernas namn? Svar: Har personen för avsikt att säga att personen talar för
-  arabernas eller landets invånares räk...
+description: 'Har personen för avsikt att säga att personen talar för arabernas eller landets invånares räkning, då finns det ingen invändan mot detta.'
 ---
 
 **Fråga:** Vilket är utlåtandet om dessa uttryck: I nationens namn, i folkets namn och i arabernas namn?

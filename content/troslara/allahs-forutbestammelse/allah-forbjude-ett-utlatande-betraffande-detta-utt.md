@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 1205
-description: >-
-  Fråga: Vilken är din åsikt om uttrycket ”Allāh förbjude”? Svar: Jag ogillar
-  att man säger ”Allāh förbjude”. Det kan förstås som att någon tvingar Allāh
-  att göra något och därmed säger ”Allāh f...
+description: 'Jag ogillar att man säger "Allāh förbjude". Det kan förstås som att någon tvingar Allāh att göra något och därmed säger "Allāh förbjude".'
 ---
 
 **Fråga:** Vilken är din åsikt om uttrycket ”Allāh förbjude”?

@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Lånade tillgångar
 original_id: 630
-description: 'Fråga: Jag lånade ut en summa pengar till en person och ett år gick
- utan att personen betalade tillbaka lånet. Bör jag betala allmosa för dem eller bör
- jag vänta tills personen betalar tillbaka och däre...'
+description: 'När lånet är till en förmögen person som har möjlighet att betala tillbaka till dig och du kan få pengarna från personen när du vill, då måste du betala…'
 ---
 
 **Fråga:** Jag lånade ut en summa pengar till en person och ett år gick utan att personen betalade tillbaka lånet. Bör jag betala allmosa för dem eller bör jag vänta tills personen betalar tillbaka och därefter betala allmosa för året då jag tog emot dem?

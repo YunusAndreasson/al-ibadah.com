@@ -12,10 +12,7 @@ categories:
   - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 142
-description: >-
-  Fråga: Vad finns det att säga om denna sekt? Svar: All lovprisan tillhör Allāh
-  och må Hans frid och välsignelser vara över Hans profet, hans familj samt
-  följeslagare och de som följer hans väg...
+description: 'All lovprisan tillhör Allāh och må Hans frid och välsignelser vara över Hans profet, hans familj samt följeslagare och de som följer hans vägledning.'
 ---
 
 **Fråga:** Vad finns det att säga om denna sekt?

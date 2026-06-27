@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 690
-description: 'Fråga: Ibland när en person distribuerar välgörenhet och folket fått
- mota det, samlas de runt honom och lägger händerna på de tillgångarna han distribuerar.
- Sedan ber en av dem för honom medan de ...'
+description: 'Att åkalla för honom på detta sätt bör inte göras då det är en innovation. Att be för den som ger i välgörenhet utan alla dessa ritualer – som att lägga…'
 ---
 
 **Fråga:** Ibland när en person distribuerar välgörenhet och folket fått motta det, samlas de runt honom och lägger händerna på de tillgångarna han distribuerar. Sedan ber en av dem för honom medan de andra med höga röster säger āmīn. Vilket är utlåtandet om detta?

@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsplikt
 original_id: 717
-description: 'Fråga: Får en polisofficer vallfärda utan myndigheternas tillstånd? Svar: Det
- finns absolut ingen vallfärd för en anställd eller polisofficer som inte får tillstånd
- från arbetsgivaren. De får ...'
+description: 'Det finns absolut ingen vallfärd för en anställd eller polisofficer som inte får tillstånd från arbetsgivaren.'
 ---
 
 **Fråga:** Får en polisofficer vallfärda utan myndigheternas tillstånd?

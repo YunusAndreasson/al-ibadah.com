@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Åkallan
 original_id: 264
-description: >-
-  Fråga: Jag har hört att somliga avbryter sin koranrecitation under bönen för
-  att åkalla på passande sätt. De säger [när Paradiset nämns]: ”Allāh! Jag ber
-  Dig om Paradiset” och när Helvetet nämns...
+description: 'När man reciterar Koranen är det sunnah, i bönen och vid andra tillfällen, att be Allāh den Upphöjde om Hans frikostighet när han kommer till en vers som…'
 ---
 
 **Fråga:** Jag har hört att somliga avbryter sin koranrecitation under bönen för att åkalla på passande sätt. De säger [när Paradiset nämns]: ”Allāh! Jag ber Dig om Paradiset” och när Helvetet nämns säger de: ”Allāh! Skydda mig från Elden.” Tillåter den islamiska lagen detta?

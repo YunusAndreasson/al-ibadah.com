@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Ramadanens nattbön
 original_id: 470
-description: 'Fråga: Om jag är imam under tarāwīh -bönen, är jag då skyldig att
- under varje kväll recitera varje vers som följer vad som har föregåtts? Jag menar,
- reciterar jag suror i Koranen i på varandra fö...'
+description: 'Det som är föreskrivet för imamerna är att de låter dem som leds i bön höra hela Koranen under ramadans nattbön, om de har möjlighet.'
 ---
 
 **Fråga:** Om jag är imam under *tarāwīḥ*-bönen, är jag då skyldig att under varje kväll recitera varje vers som följer vad som har föregåtts? Jag menar, reciterar jag suror i Koranen i på varandra följande ordning eller läser jag från där jag stannade under dagen före?

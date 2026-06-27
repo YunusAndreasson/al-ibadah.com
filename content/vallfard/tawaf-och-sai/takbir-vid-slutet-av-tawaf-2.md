@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 1294
-description: >-
-  Fråga: Bör tawāf avslutas precis som den inleds med takbīr vid den svarta
-  stenen? Svar: All lovprisan tillhör Allāh. Tawāf runt Ka’bah är en dyrkan och
-  den grundläggande principen om dyr...
+description: 'All lovprisan tillhör Allāh. ṭawāf runt Ka''bah är en dyrkan och den grundläggande principen om dyrkan är att den utförs enligt hur den har föreskrivits i…'
 ---
 
 **Fråga:** Bör *ṭawāf* avslutas precis som den inleds med *takbīr* vid den svarta stenen?

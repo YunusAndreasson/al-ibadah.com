@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 224
-description: >-
-  Fråga: Jag har hört att om man lägger tummen mot mittfingret och sträcker ut
-  pekfingret så är det jobbigare för djävulen än att bli slagen med järn. I
-  vilken utsträckning är denna återberättelse s...
+description: 'Jag känner inte till denna återberättelse. Det är dock tillåtet att föra samman lill- och ringfingret och att göra en cirkel med tummen och mittfingret.'
 ---
 
 **Fråga:** Jag har hört att om man lägger tummen mot mittfingret och sträcker ut pekfingret så är det jobbigare för djävulen än att bli slagen med järn. I vilken utsträckning är denna återberättelse sann?

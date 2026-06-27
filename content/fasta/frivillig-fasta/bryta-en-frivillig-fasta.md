@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 483
-description: >-
-  Fråga: Får den fastande bryta en frivillig fasta när personen vill? Svar: Ja,
-  personen får göra så. Det är dock att föredra om fastan fullbordas utom om det
-  finns ett behov av att bryta den. Detta k...
+description: 'Ja, personen får göra så. Det är dock att föredra om fastan fullbordas utom om det finns ett behov av att bryta den.'
 ---
 
 **Fråga:** Får den fastande bryta en frivillig fasta när personen vill?

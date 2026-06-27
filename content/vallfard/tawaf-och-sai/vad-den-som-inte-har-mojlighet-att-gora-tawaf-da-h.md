@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 811
-description: >-
-  Fråga: Den som inte kan utföra ṭawāful-qudum då han inte hann nå Mecka innan
-  eftermiddagsbönen under Arafat-dagen [den nionde thul-hijjah ], bör han bege
-  sig direkt till Arafat utan att passera...
+description: 'Han har ett val. Om han vill får han gå in i Mecka och utföra ṭawāf samt sa´ī, stanna kvar i sin iḥrām, bege sig till ´Arafāt och stå där så länge Allāh…'
 ---
 
 **Fråga:** Den som inte kan utföra *ṭawāful-qudum*[^1] då han inte hann nå Mecka innan eftermiddagsbönen under *´Arafāt*-dagen [den nionde *d̲hul-ḥijjah*], bör han bege sig direkt till *´Arafāt* utan att passera förbi helgedomen eller vad måste han göra?

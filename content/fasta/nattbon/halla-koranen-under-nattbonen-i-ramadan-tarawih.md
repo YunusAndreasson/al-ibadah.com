@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadanens nattbön
 original_id: 291
-description: >-
-  Fråga: Vilket är utlåtandet om att imamen håller Koranen under nattbönen i
-  ramadan? Vilka bevis finns för det i Koranen och profetens – över honom vare
-  Allāhs frid och välsignelser – sunnah? ...
+description: 'Det finns ingen invändan mot att recitera direkt från Koranen under nattbönen i ramaḍān. Detta leder ju till att de som leds i bön kan få höra hela…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att imamen håller Koranen under nattbönen i *ramaḍān*? Vilka bevis finns för det i Koranen och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*?

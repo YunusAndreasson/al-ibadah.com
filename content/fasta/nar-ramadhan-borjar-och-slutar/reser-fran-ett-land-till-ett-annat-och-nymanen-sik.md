@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadans datum
 original_id: 1033
-description: >-
-  Fråga: En fastande reser från ett islamiskt land till ett annat. I det första
-  landet tillkännagavs det att nymånen i shawwal hade siktats. Bör han då följa
-  dem och bryta fastan? Detta i vetskap ...
+description: 'Om någon reser från ett islamiskt land till ett annat land och fastan bryts senare i landet som han rest till, då bör han fortsätta [att fasta] med dem…'
 ---
 
 **Fråga:** En fastande reser från ett islamiskt land till ett annat. I det första landet tillkännagavs det att nymånen i *s̲hawwāl* hade siktats. Bör han då följa dem och bryta fastan? Detta i vetskap om att nymånen i *s̲hawwāl* inte har siktats i det andra landet?

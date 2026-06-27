@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Undantag från fasta
 original_id: 1401
-description: >-
-  Fråga: Jag har en mormor som är mycket gammal. Hon har inte fastat under de
-  senaste åren då hon inte har kunnat. Hon avled detta året och hon gottgjorde
-  sig inte för de tidigare åren och inte hell...
+description: 'Om hon har varit vid sina sinnens fulla bruk under denna tid och hon har haft möjlighet att gottgöra sig, då ska den ges för hennes räkning från det som…'
 ---
 
 **Fråga:** Jag har en mormor som är mycket gammal. Hon har inte fastat under de senaste åren då hon inte har kunnat. Hon avled detta året och hon gottgjorde sig inte för de tidigare åren och inte heller hennes arvtagare har gjort det då de är okunniga. Ni bör också känna till att hon mottog hjälp i form av socialbidrag. Är hennes arvtagare skyldiga att gottgöra för hennes räkning för varje fasta under *ramaḍān* de senaste åren och har de syndat? Vänligen, hjälp oss med ett svar och må Allāh belöna er med det goda.

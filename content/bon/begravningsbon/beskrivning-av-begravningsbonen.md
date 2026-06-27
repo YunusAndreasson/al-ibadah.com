@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Begravningsbön
 original_id: 499
-description: >-
-  Fråga: Vänligen, förklara för oss hur begravningsbönen ska bes som den har
-  rapporterats från profeten. Det är många som inte kan den. Svar: All lovprisan
-  tillhör Allāh. Profeten och hans föl...
+description: 'All lovprisan tillhör Allāh. Profeten och hans följeslagare förklarade hur begravningsbönen ska bes enligt följande: 1. Du säger den första takbīr. 2.'
 ---
 
 **Fråga:** Vänligen, förklara för oss hur begravningsbönen ska bes som den har rapporterats från profeten. Det är många som inte kan den.

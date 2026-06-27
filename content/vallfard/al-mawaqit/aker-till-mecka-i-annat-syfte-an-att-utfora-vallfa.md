@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdens stationer
 original_id: 1330
-description: >-
-  Fråga: Vad säger den islamiska lagen om någon som åker från Riyadh till Mecka
-  och inte avser att utföra vallfärden eller ‘umrah? När han hade anlänt till
-  Mecka ville han vallfärda så han går in ...
+description: 'Den som lämnar Riyadh [eller någon annan plats] för att resa till Mecka, men avsikten inte var att utföra vallfärden eller ´umrah, utan personen endast…'
 ---
 
 **Fråga:** Vad säger den islamiska lagen om någon som åker från Riyadh till Mecka och inte avser att utföra vallfärden eller *´umrah*? När han hade anlänt till Mecka ville han vallfärda så han går in i *iḥrām* från Jiddah för *Qirān Hajj*. Är denna *iḥrām* acceptabel från Jiddah eller måste han offra ett djur? Måste han bege sig till en av de välkända platserna för *mawāqīt*? Vänligen, ge oss ett utlåtande och må Allāh belöna er.

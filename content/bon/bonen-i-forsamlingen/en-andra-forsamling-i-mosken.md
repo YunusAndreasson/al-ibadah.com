@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 310
-description: >-
-  Fråga: Det finns några som kommer sent till bönen och bildar en andra
-  församling då de missat bönen med den vanliga imamen. Vilket är utlåtandet om
-  detta? Svar: Om några kommer sent när imamen...
+description: 'Om några kommer sent när imamen har gjort taslīm och de ber i församling en gång till, då har de inte syndat enligt profetens – över honom vare Allāhs frid…'
 ---
 
 **Fråga:** Det finns några som kommer sent till bönen och bildar en andra församling då de missat bönen med den vanliga imamen. Vilket är utlåtandet om detta?

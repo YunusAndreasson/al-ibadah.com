@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Övrigt
 original_id: 705
-description: >-
-  Fråga: Vissa tränger sig avsiktligen när de utför vissa riter under
-  vallfärden. Är deras vallfärd korrekt? Svar: Deras vallfärd blir inte ogiltig
-  för att de tränger sig samman, de gör dock någ...
+description: 'Deras vallfärd blir inte ogiltig för att de tränger sig samman, de gör dock något syndigt om de gör så utan anledning.'
 ---
 
 **Fråga:** Vissa tränger sig avsiktligen när de utför vissa riter under vallfärden. Är deras vallfärd korrekt?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 539
-description: >-
-  Fråga: Finns det någon sunnah-bön före eller efter fredagsbönen? Svar: All
-  lovprisan tillhör Allāh. Enligt den korrektare av de lärdes båda åsikter finns
-  det ingen bön som är fast sunnah för...
+description: 'All lovprisan tillhör Allāh. Enligt den korrektare av de lärdes båda åsikter finns det ingen bön som är fast sunnah före fredagsbönen.'
 ---
 
 **Fråga:** Finns det någon *sunnah*-bön före eller efter fredagsbönen?

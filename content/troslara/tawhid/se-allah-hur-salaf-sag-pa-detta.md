@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Monoteism
 original_id: 1087
-description: >-
-  Fråga: Ansåg salaf – må Allāh vara nöjd med dem – att man kan se Allāh?
-  Vilket är utlåtandet om den som påstår att det mänskliga ögat Allāh inte kan
-  uppfatta Allāh? Svar: Allāh den Allsmäk...
+description: 'Allāh den Allsmäktige säger i den ädla Koranen när Han nämner återuppståndelsen: > ”Den Dagen ska [några] ansikten lysas upp av glädje.” [Koranen 75:22]…'
 ---
 
 **Fråga:** Ansåg *salaf* – må Allāh vara nöjd med dem – att man kan se Allāh? Vilket är utlåtandet om den som påstår att det mänskliga ögat inte kan uppfatta Allāh?

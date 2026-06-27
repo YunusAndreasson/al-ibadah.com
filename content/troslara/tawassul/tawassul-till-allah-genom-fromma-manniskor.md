@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Medel för åkallan
 original_id: 60
-description: >-
-  Fråga: Får muslimer söka Allāhs närhet genom profeter och andra fromma
-  människor? Jag har läst att vissa lärde har ansett att det inte finns något
-  skadligt i tawassul, men samtidigt har jag läst...
+description: 'al-Walīy är den som tror på och fruktar Honom genom att fullfölja Hans befallningar och hålla sig borta från Hans förbud.'
 ---
 
 **Fråga:** Får muslimer söka Allāhs närhet genom profeter och andra fromma människor? Jag har läst att vissa lärde har ansett att det inte finns något skadligt i *tawassul*, men samtidigt har jag läst motsatsen från andra. Vilket är utlåtandet om detta?

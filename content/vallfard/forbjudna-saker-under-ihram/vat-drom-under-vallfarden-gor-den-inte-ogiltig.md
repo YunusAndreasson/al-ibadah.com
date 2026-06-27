@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Förbud i helgtillståndet
 original_id: 778
-description: >-
-  Fråga: Jag utförde den obligatoriska vallfärden och under en natt i Mina hade
-  jag en våt dröm och jag kunde inte ta ett bad. Har jag då syndat? Svar: Den
-  som bär ihrām och har en våt dröm un...
+description: 'Den som bär iḥrām och har en våt dröm under vallfärden eller ´umrah, det har ingen inverkan på dem. Därför blir de inte ogiltiga.'
 ---
 
 **Fråga:** Jag utförde den obligatoriska vallfärden och under en natt i *Minā* hade jag en våt dröm och jag kunde inte ta ett bad. Har jag då syndat?

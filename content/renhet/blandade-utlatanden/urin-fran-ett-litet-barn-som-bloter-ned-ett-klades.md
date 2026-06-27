@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 1215
-description: >-
-  Fråga: Vilket är utlåtandet om ett litet barns urin som kommer på ett
-  klädesplagg? Svar: Den korrekta åsikten är att urin från en pojke som givits
-  mjölk är en mindre orenhet. För att tvätta bo...
+description: 'Den korrekta åsikten är att urin från en pojke som givits mjölk är en mindre orenhet. För att tvätta bort den är det tillräckligt att hälla vatten över.'
 ---
 
 **Fråga:** Vilket är utlåtandet om ett litet barns urin som kommer på ett klädesplagg?

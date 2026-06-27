@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 826
-description: >-
-  Fråga: En man som gjorde ‘umrah hade ingen kunskap och han utförde sa’ī före
-  tawāf . När han upprepat om tawāf, måste han utföra sa’ī en andra gång? Svar:
-  Han behöver inte upprepa sa...
+description: 'Han behöver inte upprepa sa´ī. Detta med anledning av vad Abū Dāwūd återger i sin Sunan med en autentisk berättarkedja ned till Usamah bin Shurayk som…'
 ---
 
 **Fråga:** En man som gjorde *´umrah* hade ingen kunskap och han utförde *sa´ī* före *ṭawāf*. När han upprepat om *ṭawāf*, måste han utföra *sa´ī* en andra gång?

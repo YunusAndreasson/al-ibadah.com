@@ -6,9 +6,7 @@ categories:
   - Fasta (Sawm)
   - Allmaktens Natt
 original_id: 1587
-description: 'Fråga: Vilka är tecknen på Allmaktens Natt? Svar: Några av tecknen
- på Allmaktens Natt är att det är en stilla natt och att den troendes hjärta känner
- upprymdhet och frid med den, att personen bli...'
+description: 'Några av tecknen på Allmaktens Natt är att det är en stilla natt och att den troendes hjärta känner upprymdhet och frid med den, att personen blir föresatt…'
 ---
 
 **Fråga:** Vilka är tecknen på Allmaktens Natt?

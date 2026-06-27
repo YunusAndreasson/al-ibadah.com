@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Övrigt
 original_id: 250
-description: >-
-  Fråga: Vilket är utlåtandet om att skjuta upp nattbönen till en senare
-  tidpunkt? Svar: Det är bättre om nattbönen skjuts upp till en senare
-  tidpunkt. Desto mer den skjuts upp, desto bättre. ...
+description: 'Det är bättre om nattbönen skjuts upp till en senare tidpunkt. Desto mer den skjuts upp, desto bättre. Detta gäller dock inte män.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att skjuta upp nattbönen till en senare tidpunkt?

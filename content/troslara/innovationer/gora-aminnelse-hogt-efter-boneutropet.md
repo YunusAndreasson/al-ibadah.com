@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 1459
-description: >-
-  Fråga: Vissa böneutropare i några muslimska länder säger efter böneutropet: ”
-  Allāh! Sänd böner över vår mästare Muḥammad och över hans familj och
-  följeslagare .” Finns det någon invändan mot dett...
+description: 'Detta kräver ett klargörande. Om böneutroparen säger detta med låg röst så är det tillåtet för honom och dem som besvarar böneutropet.'
 ---
 
 **Fråga:** Vissa böneutropare i några muslimska länder säger efter böneutropet: ”*Allāh! Sänd böner över vår mästare Muḥammad och över hans familj och följeslagare*.” Finns det någon invändan mot detta? Vänligen, ge mig råd.

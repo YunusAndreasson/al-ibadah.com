@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Offerdjuret
 original_id: 869
-description: >-
-  Fråga: När tar tiden för att slakta offerdjuret för hajjul-tamattu’ slut och
-  finns det någon skillnad i åsikten om att begränsa tiden? Svar: Tiden för att
-  slakta offerdjuret för hajjul-tama...
+description: 'Tiden för att slakta offerdjuret för ḥajjul-tamattu´ tar slut vid solnedgången den trettonde dagen i d̲hul-ḥijjah och den börjar när tiden då bönen kan…'
 ---
 
 **Fråga:** När tar tiden för att slakta offerdjuret för *ḥajjul-tamattu´* slut och finns det någon skillnad i åsikten om att begränsa tiden?

@@ -10,10 +10,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 47
-description: >-
-  Fråga: Vilken är innebörden vad Allāh säger i denna heliga hadīth: ”Och om jag
-  älskar honom, då kommer jag att vara hans hörsel som han hör med, hans syn som
-  han ser med, hans hand som slår o...
+description: 'När en muslim uppfyller sina plikter och anstränger sig med frivillig lydnad och fortsätter att göra så, då kommer Allāh den Upphöjde att älska honom och…'
 ---
 
 **Fråga:** Vilken är innebörden vad Allāh säger i denna heliga *ḥadīt̲h*:

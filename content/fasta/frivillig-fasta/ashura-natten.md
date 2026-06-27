@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 1422
-description: >-
-  Fråga: Många muslimer fastar under ‘ashura’ och de lägger stor vikt vid att
-  fasta den på grund av vad de hör från de som kallar till islam när de
-  understryker dess vikt. Så varför uppmanas inte ...
+description: 'Att fasta under ''āshūrā'' är sunnah och det är rekommenderat att fasta den. Profeten – över honom vare Allāhs frid och välsignelser – fastade den,…'
 ---
 
 **Fråga:** Många muslimer fastar under *'āshūrā'* och de lägger stor vikt vid att fasta den på grund av vad de hör från de som kallar till islam när de understryker dess vikt. Så varför uppmanas inte folket att söka nymånen under *muḥarram* så att det ska veta det samtidigt som det publiceras i media?

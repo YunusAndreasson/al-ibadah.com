@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
 original_id: 69
-description: >-
-  Fråga: Anses de som dömer med något annat än vad Allāh har uppenbarat vara
-  icke-troende? Om vi säger att de är muslimer, vad ska vi då säga om Allāhs
-  ord: ”Den som inte dömer enligt vad Gud...
+description: 'De ledare som dömer med något annat än det som Allāh har uppenbarat delas i olika kategorier enligt deras trosuppfattningar och handlingar.'
 ---
 
 **Fråga:** Anses de som dömer med något annat än vad Allāh har uppenbarat vara icke-troende? Om vi säger att de är muslimer, vad ska vi då säga om Allāhs ord:

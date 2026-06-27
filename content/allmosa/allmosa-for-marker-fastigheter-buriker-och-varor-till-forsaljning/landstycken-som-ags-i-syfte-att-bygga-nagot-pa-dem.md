@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Handelsvaror och fastigheter
 original_id: 612
-description: 'Fråga: Jag hade ett landstycke som jag köpte i avsikt att bygga något
- på. När en tid hade gått behövde jag sälja det, så jag sålde det. Behöver jag betala
- allmosa för den period som jag inte försö...'
+description: 'Om det förhåller sig på det vis som du har nämnt i frågan, då krävs ingen allmosa av dig för den tid som har gått innan försäljningen.'
 ---
 
 **Fråga:** Jag hade ett landstycke som jag köpte i avsikt att bygga något på. När en tid hade gått behövde jag sälja det, så jag sålde det. Behöver jag betala allmosa för den period som jag inte försökte sälja det under?

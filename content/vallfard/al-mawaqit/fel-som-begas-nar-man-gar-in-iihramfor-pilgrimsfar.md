@@ -6,10 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdens stationer
 original_id: 882
-description: >-
-  Fråga: Under den åttonde dagen i dhu’l-hijjah [ yawm al-tarwiyah ] lade vi
-  märke till två saker som somliga gjorde: 1] de gick in i ihrām för
-  pilgrimsfärden från den Heliga Moskén och 2] de to...
+description: 'All lovprisan tillhör Allāh. Detta är ett av de misstag som begås när pilgrimer går in i iḥrām för pilgrimsfärden. Vi kommer att diskutera detta i detalj.'
 ---
 
 **Fråga:** Under den åttonde dagen i *d̲hul-ḥijjah* [*yawm al-tarwiyah*] lade vi märke till två saker som somliga gjorde: 1] de gick in i *iḥrām* för pilgrimsfärden från den Heliga Moskén och 2] de tog inte på de *iḥrām*-kläder som de bar under *´umrah*. Är detta rätt?

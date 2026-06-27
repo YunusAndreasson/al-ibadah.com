@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Mina-natten
 original_id: 849
-description: 'Fråga: Jag vallfärdade detta år tillsammans med min familj. Eftersom
- det fanns många pilgrimer upptäckte vi att vi hade spenderat natten utanför Mina.
- Jag hoppas därför på ett nyttigt svar som kla...'
+description: 'Om du inte kunde hitta en plats, då har du inte syndat. Om du fann en plats men inte ansträngde dig för att ta reda på om det var i Minā, då måste du ångra…'
 ---
 
 **Fråga:** Jag vallfärdade detta år tillsammans med min familj. Eftersom det fanns många pilgrimer upptäckte vi att vi hade spenderat natten utanför *Minā*. Jag hoppas därför på ett nyttigt svar som klargör konsekvenserna av detta.

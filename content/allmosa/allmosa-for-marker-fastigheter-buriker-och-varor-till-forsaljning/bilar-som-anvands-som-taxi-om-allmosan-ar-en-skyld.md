@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Fastigheter och handelsvaror
 original_id: 1251
-description: >-
-  Fråga: Är allmosan en skyldighet för bilar som både används som taxi och i
-  privat syfte? Svar: Bilar som hyrs i transportsyfte eller privata bilar som
-  man själv använder, de kräver ingen allmo...
+description: 'Bilar som hyrs i transportsyfte eller privata bilar som man själv använder, de kräver ingen allmosa.'
 ---
 
 **Fråga:** Är allmosan en skyldighet för bilar som både används som taxi och i privat syfte?

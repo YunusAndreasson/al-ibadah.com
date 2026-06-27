@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 267
-description: 'Fråga: Om man gäspar under bönen, ska man då lägga höger hand över
- munnen och söka skydd från djävulen den utstötte? Svar: Den som gäspar under
- bönen, eller vid någon annan tidpunkt, bör för...'
+description: 'Den som gäspar under bönen, eller vid någon annan tidpunkt, bör försöka att stänga munnen så mycket som möjligt.'
 ---
 
 **Fråga:** Om man gäspar under bönen, ska man då lägga höger hand över munnen och söka skydd från djävulen den utstötte?

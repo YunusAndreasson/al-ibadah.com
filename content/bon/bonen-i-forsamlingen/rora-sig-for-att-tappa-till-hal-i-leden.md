@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 240
-description: >-
-  Fråga: Om jag ser ett hål i raden framför mig, kan jag då röra mig framåt för
-  att täppa till hålet? Detta i vetskap om att jag redan har gjort öppnings-
-  takbīr . Svar: Det är tillåtet att röra...
+description: 'Det är tillåtet att röra sig till raden framför för att fylla igen ett hål. Anledningen är att det anses som att man kopplar samman leden och dem som…'
 ---
 
 **Fråga:** Om jag ser ett hål i raden framför mig, kan jag då röra mig framåt för att täppa till hålet? Detta i vetskap om att jag redan har gjort öppnings-*takbīr*.

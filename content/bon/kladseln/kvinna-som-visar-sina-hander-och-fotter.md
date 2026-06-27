@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Klädsel i bönen
 original_id: 220
-description: >-
-  Fråga: Får en kvinna visa händerna och fötterna för en annan kvinna när hon
-  ber? Detta i vetskap om att hon är i sitt hem och inte framför män. Svar: Det
-  som är välkänt från Hanbalis rättsskol...
+description: 'Det som är välkänt från Hanbalis rättsskola är att hela den vuxna och fria kvinnan är ´awrah under bönen, utom ansiktet.'
 ---
 
 **Fråga:** Får en kvinna visa händerna och fötterna för en annan kvinna när hon ber? Detta i vetskap om att hon är i sitt hem och inte framför män.

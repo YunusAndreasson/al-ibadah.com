@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 813
-description: >-
-  Fråga: Vad gäller den som utför ṭawāful-ifāḍah och som inte gör sa´ī förrän
-  solen har gått ned under den sista dagen i at-ayyām at-tas̲hrīq? Och vad gäller
-  sa´ī om någon utför sa´ī efter so...
+description: 'Att du utför sa´ī under eller efter de sista at-ayyām at-tas̲hrīq är giltigt. Du har inte syndat för att du har skjutit upp det.'
 ---
 
 **Fråga:** Vad gäller den som utför *ṭawāf ul-ifāḍah*[^1] och som inte gör *sa´ī*[^2] förrän solen har gått ned under den sista dagen i *at-ayyām at-tas̲hrīq*? Och vad gäller sa´ī[^2] om någon utför *sa´ī*[^2] efter solnedgången den dagen eller efter *at-ayyām at-tas̲hrīq*?

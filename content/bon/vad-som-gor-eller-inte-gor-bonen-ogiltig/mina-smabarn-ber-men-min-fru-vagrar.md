@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 231
-description: >-
-  Fråga: Mina småbarn [den äldste har inte fyllt tre ännu] står bakom mig när
-  jag ber hemma. Jag gör så för att lära dem bönen. Detta sker utan att de har
-  tvagat sig. Är detta tillåtet? Vad bör jag ...
+description: 'Svaret på den första frågan är att det är tillåtet att lära sina barn att be, både genom ord och genom handling.'
 ---
 
 **Fråga:** Mina småbarn [den äldste har inte fyllt tre ännu] står bakom mig när jag ber hemma. Jag gör så för att lära dem bönen. Detta sker utan att de har tvagat sig. Är detta tillåtet? Vad bör jag göra med min fru som ibland struntar i att be?

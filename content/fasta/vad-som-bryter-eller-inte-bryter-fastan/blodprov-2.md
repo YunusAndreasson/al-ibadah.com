@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1050
-description: 'Fråga: Vilket är utlåtandet om att ta blodprov under fastan, bryts
- fastan då? Svar: En fastande bryter inte fastan om denna lämnar blod för att
- ta ett blodprov. Detta beror på att läkaren behö...'
+description: 'En fastande bryter inte fastan om denna lämnar blod för att ta ett blodprov. Detta beror på att läkaren behöver ta blod från den sjuke för att göra tester…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att ta blodprov under fastan, bryts fastan då?

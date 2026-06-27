@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 263
-description: >-
-  Fråga: Vilket är utlåtandet om att recitera ” Bismillāh ” högt i sura
-  *al-Fātiḥah* och andra suror? Svar: De lärde är oense. Några anser att det är
-  bäst att recitera högt, medan andra säger att ...
+description: 'De lärde är oense. Några anser att det är bäst att recitera högt, medan andra säger att det är ogillat och att det är bättre att recitera lågt.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att recitera ”*Bismillāh*” högt i sura *al-Fātiḥah* och andra suror?

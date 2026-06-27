@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 752
-description: >-
-  Fråga: Vilken är innebörden med ihrām och vad är sunnah för en muhrim i fråga
-  om den? Svar: Ihrām är avsikten för vallfärdsformen och det är hjärtats
-  kontrakt för att träda in i vallfä...
+description: 'iḥrām är avsikten för vallfärdsformen och det är hjärtats kontrakt för att träda in i vallfärdens eller ´umrahs heliga riter.'
 ---
 
 **Fråga:** Vilken är innebörden med *iḥrām* och vad är *sunnah* för en *muḥrim* i fråga om den?

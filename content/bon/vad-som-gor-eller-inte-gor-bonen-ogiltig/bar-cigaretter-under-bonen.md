@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 228
-description: >-
-  Fråga: Jag ser att somliga går in i moskén för att be när de har cigaretter på
-  sig. Syndar de genom detta? Svar: De syndar inte i fråga om bönen. Att de bär
-  cigaretter har ju inte någon inverk...
+description: 'De syndar inte i fråga om bönen. Att de bär cigaretter har ju inte någon inverkan på bönen. De är rena fysiskt sett.'
 ---
 
 **Fråga:** Jag ser att somliga går in i moskén för att be när de har cigaretter på sig. Syndar de genom detta?

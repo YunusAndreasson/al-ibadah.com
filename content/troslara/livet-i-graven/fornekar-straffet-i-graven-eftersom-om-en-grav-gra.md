@@ -11,10 +11,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravlivet
 original_id: 1179
-description: >-
-  Fråga: Hur svarar vi någon som förnekar straffet i graven och som bevis anger
-  att om graven avtäcks har den inte förändrats [den har vare sig blivit trängre
-  eller rymligare]? Svar: Förnekar nå...
+description: 'Förnekar någon straffet i graven och som bevis för detta menar att om graven avtäcks så syns det att den inte har förändrats – då kan vi diskutera på flera…'
 ---
 
 **Fråga:** Hur svarar vi någon som förnekar straffet i graven och som bevis anger att om graven avtäcks har den inte förändrats [den har vare sig blivit trängre eller rymligare]?

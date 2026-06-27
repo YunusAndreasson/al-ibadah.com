@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 990
-description: >-
-  Fråga: Är det tillåtet att be ensam i den sista raden eller bör man dra bak
-  någon i raden framför? Svar: Om någon kommer och finner att raderna är fulla,
-  då finns det tre olika alternativ: D...
+description: 'Om någon kommer och finner att raderna är fulla, då finns det tre olika alternativ: Personen kan be ensam bakom en rad eller så drar personen någon från…'
 ---
 
 **Fråga:** Är det tillåtet att be ensam i den sista raden eller bör man dra bak någon i raden framför?

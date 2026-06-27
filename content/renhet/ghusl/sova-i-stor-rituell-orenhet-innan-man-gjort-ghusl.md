@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Den stora tvagningen
 original_id: 1439
-description: >-
-  Fråga: Jag hade intim samvaro och efter det lade jag mig för att sova. Det
-  sades sedan till mig att den som har haft intim samvaro i varje fall måste
-  tvaga sig om personen vill sova eller äta. Andra ...
+description: 'För den som är i den stora rituella orenheten är det sunnah att tvätta könsdelarna och tvaga sig innan personen sover, äter eller har intim samvaro igen.'
 ---
 
 **Fråga:** Jag hade intim samvaro och efter det lade jag mig för att sova. Det sades sedan till mig att den som har haft intim samvaro i varje fall måste tvaga sig om personen vill sova eller äta. Andra har sagt att det inte är obligatoriskt men att föredra. Vänligen, ge mig ett utlåtande. Må Allāh belöna er.

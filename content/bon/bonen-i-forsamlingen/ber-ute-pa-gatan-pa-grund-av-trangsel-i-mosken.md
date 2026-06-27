@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 376
-description: >-
-  Fråga: Anses den som ber fredagsbönen utanför moskén – exempelvis på gatorna –
-  vara närvarande vid bönen trots att änglarna som nedtecknar vilka som är
-  närvarande befinner sig vid dörrarna? Missar...
+description: 'Ja, den som ber fredagsbönen utanför moskén – exempelvis på gatorna – anses vara närvarande vid fredagsbönen så länge personens bön exakt följer imamens.'
 ---
 
 **Fråga:** Anses den som ber fredagsbönen utanför moskén – exempelvis på gatorna – vara närvarande vid bönen trots att änglarna som nedtecknar vilka som är närvarande befinner sig vid dörrarna? Missar den som ber utanför belöningen för hälsningsbönen till moskén[^1], att sitta i moskén och att lyssna på predikan?

@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1428
-description: >-
-  Fråga: Kräver al-mad̲hī g̲husl? Svar: al-Mad̲hī kräver inte g̲husl . Man måste
-  dock tvaga sig när man har tvättat sin penis och testiklarna innan man ber,
-  gör tawāf eller rör Koranen. Detta...
+description: 'al-Mad̲hī kräver inte g̲husl. Man måste dock tvaga sig när man har tvättat sin penis och testiklarna innan man ber, gör ṭawāf eller rör Koranen.'
 ---
 
 **Fråga:** Kräver *al-mad̲hī g̲husl*[^1]?

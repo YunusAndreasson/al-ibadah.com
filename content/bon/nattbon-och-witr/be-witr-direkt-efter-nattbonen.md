@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Witr
 original_id: 297
-description: >-
-  Fråga: Jag bemödar mig stort med Koran-läsning, åminnelse och de
-  rekommenderade bönerna som witr . Många gånger finner jag dock att witr är en
-  börda, speciellt om jag inte ber den efter nattbön...
+description: 'Det är inte att föredra att skjuta upp witr till innan man lägger sig om det då leder till att man glömmer bort att be den, om det blir en börda eller om…'
 ---
 
 **Fråga:** Jag bemödar mig stort med Koran-läsning, åminnelse och de rekommenderade bönerna som *witr*. Många gånger finner jag dock att *witr* är en börda, speciellt om jag inte ber den efter nattbönen. Kan jag be den direkt efter nattbönen eller måste jag skjuta upp den tills innan jag lägger mig?

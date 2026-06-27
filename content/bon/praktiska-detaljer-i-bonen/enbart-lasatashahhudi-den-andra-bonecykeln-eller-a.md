@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 961
-description: >-
-  Fråga: Bör man nöja sig med att enbart läsa tashahhud i den första tashahhud
-  eller bör han även ”sända välsignelserna”? Svar: Den första tashahhud i
-  bönerna med tre eller fyra bönecykler...
+description: 'Den första tas̲hahhud i bönerna med tre eller fyra bönecykler bör begränsas till följande ord: > ”at-Tahiyyatu lillahi was-salawatu wat-tayyibatu,…'
 ---
 
 **Fråga:** Bör man nöja sig med att enbart läsa *tas̲hahhud* i den första *tas̲hahhud* eller bör han även ”sända välsignelserna”?

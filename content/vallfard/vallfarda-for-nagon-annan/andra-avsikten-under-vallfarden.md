@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Ställföreträdande vallfärd
 original_id: 731
-description: >-
-  Fråga: En man har för avsikt att vallfärda och han har även tidigare
-  vallfärdat. När han befinner sig vid Arafat slår det honom att han ska ändra
-  sin intention, så att den ska vara för en släk...
+description: 'Om man för egen räkning går in i iḥrām för vallfärden, då kan man inte ändra sin avsikt efter det, varken på vägen, vid ´Arafāt eller någon annanstans.'
 ---
 
 **Fråga:** En man har för avsikt att vallfärda och han har även tidigare vallfärdat. När han befinner sig vid *´Arafāt* slår det honom att han ska ändra sin intention, så att den ska vara för en släkting till honom. Är det tillåtet att göra så?

@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 493
-description: >-
-  Fråga: Vilka är ahlus-sunnah wal-jamā’at? Svar: Ahlus-sunnah wal-jamā’at är
-  dem som vänder sig till och förenar sig kring profetens – över honom vare
-  Allāhs frid och välsignelser – sunnah...
+description: 'Ahlus-sunnah wal-jamā’at är dem som vänder sig till och förenar sig kring profetens – över honom vare Allāhs frid och välsignelser – sunnah utan att ta…'
 ---
 
 **Fråga:** Vilka är *ahlus-sunnah[^1] wal-jamā’at*?

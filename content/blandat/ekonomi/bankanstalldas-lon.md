@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Ekonomi
 original_id: 1618
-description: >-
-  Fråga: Är löner från banker i allmänhet och Arab Bank i synnerhet tillåtna?
-  Jag frågar detta eftersom jag har hört att dessa löner är förbjudna då dessa
-  banker använder ränta i vissa transaktioner...
+description: 'Det är inte tillåtet att jobba för banker som använder ränta då det innebär att man hjälper dem med synd och överträdelse.'
 ---
 
 **Fråga:** Är löner från banker i allmänhet och Arab Bank i synnerhet tillåtna? Jag frågar detta eftersom jag har hört att dessa löner är förbjudna då dessa banker använder ränta i vissa transaktioner. Jag hoppas på ett nyttigt svar då jag skulle vilja jobba för en av dessa banker.

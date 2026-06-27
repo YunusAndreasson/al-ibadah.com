@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 821
-description: >-
-  Fråga: En man kom med sin mor för att hon skulle få kyssa den Svarta Stenen
-  och de vallfärdade båda. Han hade dock inte möjlighet att göra detta, med
-  anledning av det stora antalet människor. Därf...
+description: 'Om det förhåller sig som frågeställaren har nämnt, då är summan som mannen betalade till soldaten en muta och han får inte betala den.'
 ---
 
 **Fråga:** En man kom med sin mor för att hon skulle få kyssa den Svarta Stenen och de vallfärdade båda. Han hade dock inte möjlighet att göra detta, med anledning av det stora antalet människor. Därför gav han en soldat som befann sig vid den Svarta Stenen tio riyal[^1] och soldaten motade, åt mannen och hans moder, undan folket runt Stenen. På detta sätt fick de båda kyssa Stenen. Är detta tillåtet? Är hans vallfärd giltig?

@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 415
-description: 'Fråga: Vilket är utlåtandet om att svälja saliv när man fastar? Svar: Saliv
- skadar inte fastan då det endast är spott. Om man sväljer den är det ingen fara
- och om man spottar ut den går det oc...'
+description: 'Saliv skadar inte fastan då det endast är spott. Om man sväljer den är det ingen fara och om man spottar ut den går det också bra.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att svälja saliv när man fastar?

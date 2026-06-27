@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Paradiset och Helvetet
 original_id: 1579
-description: >-
-  Fråga: Är det sant vad som sagts, att de flesta i Elden kommer att vara
-  kvinnor? Svar: Detta är sant. Under en predikan sade profeten: ” Kvinnor! Ge
-  till välgörenhet för jag har sett att ni ut...
+description: 'Detta är sant. Under en predikan sade profeten: ”Kvinnor! Ge till välgörenhet för jag har sett att ni utgör majoriteten av Eldens invånare .” Detta tvivel…'
 ---
 
 **Fråga:** Är det sant vad som sagts, att de flesta i Elden kommer att vara kvinnor?

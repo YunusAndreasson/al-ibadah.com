@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Resenärens fasta
 original_id: 1260
-description: >-
-  Fråga: När och hur fastar och ber den resande? Svar: Den resandes bön är två
-  bönecykler från den tidpunkt som personen lämnar sin hemstad tills personen
-  återvänder. Detta är enligt ett uttalande frå...
+description: 'Den resandes bön är två bönecykler från den tidpunkt som personen lämnar sin hemstad tills personen återvänder.'
 ---
 
 **Fråga:** När och hur fastar och ber den resande?

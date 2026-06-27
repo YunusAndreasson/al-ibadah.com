@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 124
-description: >-
-  Fråga: Kom profetens – över honom vare Allāhs frid och välsignelser – ljus
-  från Allāhs ljus eller kom det från något annat ljus? Svar: profetens – över
-  honom vare Allāhs frid och välsignelser ...
+description: 'Profetens – över honom vare Allāhs frid och välsignelser – ljus är budskapets och vägledningens ljus som Allāh vägleder vem Han vill bland Hans skapelser…'
 ---
 
 **Fråga:** Kom profetens – över honom vare Allāhs frid och välsignelser – ljus från Allāhs ljus eller kom det från något annat ljus?

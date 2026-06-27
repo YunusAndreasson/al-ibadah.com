@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 1223
-description: >-
-  Fråga: Vilket är utlåtandet om att recitera sura *al-Fātiḥah* i bönen? Svar:
-  De lärde har olika åsikter om recitation av sura *al-Fātiḥah*: Att denna sura
-  inte är en skyldighet för imamen,...
+description: 'De lärde har olika åsikter om recitation av sura al-Fātiḥah: 1. Att denna sura inte är en skyldighet för imamen, de som leds i bön, den som ber ensam…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att recitera sura *al-Fātiḥah* i bönen?

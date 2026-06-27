@@ -6,10 +6,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1275
-description: >-
-  Fråga: Hur tvagar man sig? Svar: All lovprisan tillhör Allāh. I fråga om
-  tvagningen finns det två sätt och de är enligt följande: Den obligatoriska
-  delen av tvagningen Tvätta ansikte...
+description: 'All lovprisan tillhör Allāh. I fråga om tvagningen finns det två sätt och de är enligt följande: Den obligatoriska delen av tvagningen 1.'
 ---
 
 **Fråga:** Hur tvagar man sig?

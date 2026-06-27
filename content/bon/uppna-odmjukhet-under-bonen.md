@@ -7,10 +7,7 @@ source: >-
 categories:
   - Bön (Salāh)
 original_id: 952
-description: >-
-  Fråga: Hur kan vi uppnå ödmjukhet i bönen när vi exempelvis reciterar Koranen?
-  Svar: Ödmjukhet är bönens innersta mening och själ. Innebörden av den är
-  närvarande och att den troendes hjärta i...
+description: 'Ödmjukhet är bönens innersta mening och själ. Innebörden av den är närvarande och att den troendes hjärta inte vandrar åt endera hållet.'
 ---
 
 **Fråga:** Hur kan vi uppnå ödmjukhet i bönen när vi exempelvis reciterar Koranen?

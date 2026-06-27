@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Pilgrimskläder
 original_id: 1341
-description: >-
-  Fråga: Vilket är utlåtandet om att träda in i ihrām medan man bär sockar eller
-  handskar och vilka är bevisen? Svar: En man får inte träda in i ihrām bärandes
-  tyg- eller lädersockar om han ...
+description: 'En man får inte träda in i iḥrām bärandes tyg- eller lädersockar om han inte kan finna två sandaler.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att träda in i *iḥrām* medan man bär sockar eller handskar och vilka är bevisen?

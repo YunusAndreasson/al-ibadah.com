@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
 original_id: 83
-description: >-
-  Fråga: Varför får kvinnor inte besöka gravar? Svar: Ett starkt förbud mot
-  detta har rapporterats då profeten – över honom vare Allāhs frid och
-  välsignelser – säger: ” Allāh förbannar de kvinno...
+description: 'Ett starkt förbud mot detta har rapporterats då profeten – över honom vare Allāhs frid och välsignelser – säger: ”Allāh förbannar de kvinnor som besöker…'
 ---
 
 **Fråga:** Varför får kvinnor inte besöka gravar?

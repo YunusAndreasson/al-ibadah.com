@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1167
-description: >-
-  Fråga: Hur kan vi jämka samman hadithen från [ängeln] Gabriel i vilken
-  profeten – över honom vare Allāhs frid och välsignelser – förklarar att tron
-  innebär: ”Att tro på Allāh, Hans änglar, Ha...
+description: 'Innan vi svarar denna fråga skulle jag vilja säga att det aldrig finns några motsägelser mellan Koranen och profetens – över honom vare Allāhs frid och…'
 ---
 
 **Fråga:** Hur kan vi jämka samman *ḥadīt̲h* från [ängeln] Gabriel i vilken profeten – över honom vare Allāhs frid och välsignelser – förklarar att tron innebär:

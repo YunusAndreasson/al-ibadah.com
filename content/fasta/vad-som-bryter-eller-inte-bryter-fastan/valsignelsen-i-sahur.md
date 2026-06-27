@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 476
-description: >-
-  Fråga: Sändebudet – över honom vare Allāhs frid och välsignelser – har sagt:
-  ”Ät sahūr för sannerligen innehåller sahūr välsignelse.” Vad avses med
-  välsignelsen i sahūr? Svar: Välsignelsen ...
+description: 'Välsignelsen i saḥūr avser den islamiska föreskriftens välsignelse och välsignelsen för kroppen.'
 ---
 
 **Fråga:** Sändebudet – över honom vare Allāhs frid och välsignelser – har sagt: "Ät *saḥūr* för sannerligen innehåller *saḥūr* välsignelse." Vad avses med välsignelsen i *saḥūr*?

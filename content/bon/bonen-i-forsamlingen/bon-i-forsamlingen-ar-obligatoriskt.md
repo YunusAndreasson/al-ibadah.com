@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 1521
-description: >-
-  Fråga: Somliga – må Allāh vägleda dem – är inte närvarande vid bönen i
-  församlingen. Detta sker utan giltiga ursäkter. Några ursäktar sig med att de
-  har mycket att göra. När de får råd fortsätter ...
+description: 'Ömsesidiga råd mellan muslimer och att fördöma ondska är en av de viktigaste skyldigheterna.'
 ---
 
 **Fråga:** Somliga – må Allāh vägleda dem – är inte närvarande vid bönen i församlingen. Detta sker utan giltiga ursäkter. Några ursäktar sig med att de har mycket att göra. När de får råd fortsätter de envist och de svarar alltid: ”Bönen är för Allāh och det är inte upp till någon att lägga sig i [att ha någon som helst åsikt] denna fråga.” Vad säger ni om detta?

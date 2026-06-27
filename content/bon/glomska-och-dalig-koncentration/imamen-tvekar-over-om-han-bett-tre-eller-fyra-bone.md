@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 1501
-description: >-
-  Fråga: Vad ska en imam göra om han är osäker på om han har bett tre eller fyra
-  bönecykler i en bön som är fyra bönecykler lång? När ska han nedfalla för
-  glömska? Svar: Om imamen eller en e...
+description: 'Om imamen eller en ensam tjänare tvekar över en fyra bönecykler lång bön, om han har bett tre eller fyra bönecykler, då måste han anta det lägre antalet…'
 ---
 
 **Fråga:** Vad ska en imam göra om han är osäker på om han har bett tre eller fyra bönecykler i en bön som är fyra bönecykler lång? När ska han nedfalla för glömska?

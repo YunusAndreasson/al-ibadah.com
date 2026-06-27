@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 1671
-description: >-
-  Fråga: Kan jag recitera Koranen högt i moskén medan det finns andra runtikring
-  mig som ber frivilliga böner? Svar: Blir de andra störda bör du inte recitera
-  Koranen högt. Detta utlåtande är int...
+description: 'Blir de andra störda bör du inte recitera Koranen högt. Detta utlåtande är inte begränsat enbart till moskén utan det omfattar alla platser där andra kan…'
 ---
 
 **Fråga:** Kan jag recitera Koranen högt i moskén medan det finns andra runtikring mig som ber frivilliga böner?

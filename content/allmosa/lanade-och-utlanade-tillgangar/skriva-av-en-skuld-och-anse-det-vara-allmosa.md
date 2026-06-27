@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Lånade tillgångar
 original_id: 631
-description: 'Fråga: Vi har en släkting som är fattig och behövande så vi ger personen
- allmosa varje år. För en tid sedan gav vi personen en summa pengar som inte var allmosa
- men personen har inte kunnat betala tillbaka...'
+description: 'Den korrekta åsikten är att det inte är tillåtet att skriva av en skuld som en låntagare är skyldig om man förlorar hoppet om att man ska få tillbaka…'
 ---
 
 **Fråga:** Vi har en släkting som är fattig och behövande så vi ger personen allmosa varje år. För en tid sedan gav vi personen en summa pengar som inte var allmosa men personen har inte kunnat betala tillbaka dem förrän nu. Då ett antal år har gått sedan detta inträffade är vår fråga: Är det tillåtet för oss att inte låta personen behöva betala denna summa pengar och [i stället] räkna dem som en del av den allmosa som vi kommer att betala detta år, om Allāh vill?

@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 434
-description: >-
-  Fråga: Vilket är utlåtandet om den som fastade och gjorde något förbjudet
-  under ramadan? Om det var natt? Vilken är gottgörelsen? Svar: Den som hade
-  intim samvaro med sin fru under ramadan, om...
+description: 'Den som hade intim samvaro med sin fru under ramaḍān, om det skedde under natten mellan solnedgången och tiden för gryningsbönen, då är det ingen fara.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som fastade och gjorde något förbjudet under *ramaḍān*? Om det var natt? Vilken är gottgörelsen?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 1352
-description: >-
-  Fråga: Får en pilgrim resa till Jiddah utan att utföra ṭawāful-wadā ? Vad
-  gäller den som gör det? Svar: En pilgrim får inte lämna Mecka efter vallfärden
-  förrän personen har utfört ṭawāful-wadā ...
+description: 'En pilgrim får inte lämna Mecka efter vallfärden förrän personen har utfört ṭawāf ul-wadā´.'
 ---
 
 **Fråga:** Får en pilgrim resa till Jiddah utan att utföra *ṭawāf ul-wadā´*? Vad gäller den som gör det?

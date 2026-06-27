@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 808
-description: >-
-  Fråga: Vad gör man om man påbörjade tawāf runt Ka’bah och hunnit utföra tre
-  eller fyra varv när bönen börjar? Avbryter man sin tawāf eller ska den
-  fullföljas? Om man avbryter, ska man då b...
+description: 'Om bönen börjar medan han utför ṭawāf, då ber han. När han sedan avslutat bönen, då fullföljer han det som återstår av hans ṭawāf.'
 ---
 
 **Fråga:** Vad gör man om man påbörjade *ṭawāf* runt Ka’bah och hunnit utföra tre eller fyra varv när bönen börjar? Avbryter man sin *ṭawāf* eller ska den fullföljas? Om man avbryter, ska man då börja om från början eller fortsätta där den avbröts?

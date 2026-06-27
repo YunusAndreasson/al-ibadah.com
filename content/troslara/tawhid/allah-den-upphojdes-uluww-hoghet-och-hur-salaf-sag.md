@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Monoteism
 original_id: 1083
-description: >-
-  Fråga: Hur såg salaf – må Allāh vara nöjd med dem – på Allāh den Upphöjdes
-  ‘uluww [höghet]? Vilket är utlåtandet om de som säger att Han inte befinner
-  sig inom de sex riktningarna [upp, ned, vä...
+description: 'salafs tro är att Allāh den Upphöjde är ovan Hans skapelse. Allāh den Upphöjde har sagt: > "Om ni då råkar i tvist om något, överlåt då avgörandet åt Gud…'
 ---
 
 **Fråga:** Hur såg *salaf* – må Allāh vara nöjd med dem – på Allāh den Upphöjdes ‘*´uluww* [höghet]? Vilket är utlåtandet om de som säger att Han inte befinner sig inom de sex riktningarna [upp, ned, vänster, höger, bak och fram] och att Han finns i de troendes hjärtan?

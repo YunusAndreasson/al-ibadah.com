@@ -6,9 +6,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1715
-description: 'Fråga: Syndar kvinnan om hon vägrar att ha sex med sin man, om han
- vill det? Detta inträffar då hon mår dåligt. Svar: Det är obligatoriskt för kvinnan
- att, när han kallar på henne, svara till s...'
+description: 'Det är obligatoriskt för kvinnan att, när han kallar på henne, svara till sin mans önskemål.'
 ---
 
 **Fråga:** Syndar kvinnan om hon vägrar att ha sex med sin man, om han vill det? Detta inträffar då hon mår dåligt.

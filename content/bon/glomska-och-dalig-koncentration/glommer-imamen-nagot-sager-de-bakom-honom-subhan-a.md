@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 1504
-description: >-
-  Fråga: Jag bad eftermiddagsbönen bakom en imam som missade den sista tashahhud
-  . Han stod då upp för att be en femte bönecykel, trots att han påmindes av dem
-  bakom honom när de sade: ” al-Hamdu L...
+description: 'Om imamen reste sig upp för en extra bönecykel eller sitter ned när han inte borde sitta ned, då är det sunnah att de bakom honom påpekar detta genom att…'
 ---
 
 **Fråga:** Jag bad eftermiddagsbönen bakom en imam som missade den sista *tas̲hahhud*. Han stod då upp för att be en femte bönecykel, trots att han påmindes av dem bakom honom när de sade: ”*al-Ḥamdu Lillāh*”. De flesta följde honom inte utan de väntade tills han gjorde *taslīm* för att göra den tillsammans med honom. Sedan insåg han detta och nedföll för glömska. Vilket är utlåtandet om att vi sade: ”*al-Ḥamdu Lillāh*” samt att vi inte reste oss upp tillsammans med honom? Jag ber om en förklaring.

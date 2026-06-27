@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 588
-description: >-
-  Fråga: Är det tillåtet att bära vittne om någons tro enbart för att han ofta
-  går till moskén, så som det finns berättat i en ḥadīt̲h? Svar: Ja, utan tvekan.
-  Går en person ofta till moskén ...
+description: 'Ja, utan tvekan. Går en person ofta till moskén anses hans närvaro där vara ett bevis för hans tro; då inget annat än hans tro på Allāh fick honom att…'
 ---
 
 **Fråga:** Är det tillåtet att bära vittne om någons tro enbart för att han ofta går till moskén, så som det finns berättat i en *ḥadīt̲h*?

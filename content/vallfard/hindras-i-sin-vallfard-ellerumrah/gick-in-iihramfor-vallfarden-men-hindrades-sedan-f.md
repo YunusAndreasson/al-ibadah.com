@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdshinder
 original_id: 864
-description: >-
-  Fråga: En person gick in i ihrām för vallfärden vid mīqāt, sedan färdades han
-  tills han kom nära Mecka. Där hindras han av en polisinspektion, då han inte
-  hade ett tillstånd för att vallfärda....
+description: 'Utlåtandet i denna situation är att han hindrats då det inte var möjligt för honom att komma in.'
 ---
 
 **Fråga:** En person gick in i *iḥrām* för vallfärden vid *mīqāt*, sedan färdades han tills han kom nära Mecka. Där hindras han av en polisinspektion, då han inte hade ett tillstånd för att vallfärda. Vilket är utlåtandet här?

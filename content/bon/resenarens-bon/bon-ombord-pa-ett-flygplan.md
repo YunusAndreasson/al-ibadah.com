@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 994
-description: >-
-  Fråga: När blir bönen ombord på ett flygplan obligatorisk? Hur ber man den
-  obligatoriska bönen ombord på ett flygplan? Hur ber man en frivillig bön?
-  Svar: Bön ombord på ett flygplan blir oblig...
+description: 'Bön ombord på ett flygplan blir obligatorisk om tiden för den börjar. Men om man inte kan be ombord på planet på samma sätt som man ber den på marken, då…'
 ---
 
 **Fråga:** När blir bönen ombord på ett flygplan obligatorisk? Hur ber man den obligatoriska bönen ombord på ett flygplan? Hur ber man en frivillig bön?

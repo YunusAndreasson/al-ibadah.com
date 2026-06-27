@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 159
-description: >-
-  Fråga: Om en man och kvinna har intim samvaro, får de då röra något innan de
-  har gjort ghusl? Blir något orent om det vidrörs? Svar: Ja, den som är
-  rituellt oren [ junub ] får röra saker som...
+description: 'Ja, den som är rituellt oren [junub] får röra saker som kläder, tallrikar, grytor och liknande. Detta gäller både män och kvinnor.'
 ---
 
 **Fråga:** Om en man och kvinna har intim samvaro, får de då röra något innan de har gjort *g̲husl*? Blir något orent om det vidrörs?

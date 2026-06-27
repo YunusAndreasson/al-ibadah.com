@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Ställföreträdande vallfärd
 original_id: 911
-description: 'Fråga: Mina far- och morföräldrar har dött och jag vet inte om de har
- fullföljt sina skyldigheter i att vallfärda. Vilar det på mig att se till att någon
- vallfärdar för deras räkning? Svar: De...'
+description: 'Det är föreskrivet att du ser till att någon vallfärdar för deras räkning [det gäller dem alla].'
 ---
 
 **Fråga:** Mina far- och morföräldrar har dött och jag vet inte om de har fullföljt sina skyldigheter i att vallfärda. Vilar det på mig att se till att någon vallfärdar för deras räkning?

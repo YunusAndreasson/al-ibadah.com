@@ -7,10 +7,7 @@ source: >-
 categories:
   - Bön (Salāh)
 original_id: 313
-description: >-
-  Fråga: Jag har en vän som bor nära mig och moskén ligger verkligen nära oss,
-  men min vän kommer inte till gryningsbönen. Han spenderar sena nätter med att
-  titta på TV samt att spela kort. Han ber ...
+description: 'En muslim får inte hålla sig vaken så länge att det leder till att han missar gryningsbönen med församlingen eller vid dess angivna tid.'
 ---
 
 **Fråga:** Jag har en vän som bor nära mig och moskén ligger verkligen nära oss, men min vän kommer inte till gryningsbönen. Han spenderar sena nätter med att titta på TV samt att spela kort. Han ber inte gryningsbönen förrän efter soluppgången. Jag har tillrättavisat honom många gånger men hans ursäkt är att han inte hör böneutropet, trots att moskén ligger mycket nära oss. Jag har förklarat för honom att jag är beredd att väcka honom till gryningsbönen. Jag går till honom och väcker honom, men jag ser honom inte i moskén. Efter bönen går jag till honom och finner honom sovande. Jag skäller då på honom och han kommer med dåliga ursäkter. Ibland säger han till mig: ”Du är ansvarig för mig inför Allāh på Återuppståndelsens Dag då jag är din granne.” Jag ber om ett klargörande från er om detta. Krävs det att jag väcker honom till bönen?

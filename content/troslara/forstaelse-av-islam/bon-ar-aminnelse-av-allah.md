@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 140
-description: >-
-  Fråga: Somliga sufier säger att åminnelse är bättre än den obligatoriska bönen
-  och de citerar följande vers som bevis: ” Men först och störst är åkallandet
-  av Guds namn .” [Koranen 29:45] Är åminn...
+description: 'Allāh har befallt oss att nämna Hans namn ofta. Han säger: > ”Troende! Åkalla Gud – och ha Honom alltid i era tankar!'
 ---
 
 **Fråga:** Somliga sufier säger att åminnelse är bättre än den obligatoriska bönen och de citerar följande vers som bevis: ”*Men först och störst är åkallandet av Guds namn*.” [^3] Är åminnelse av Allāh bättre än bön, som de säger?

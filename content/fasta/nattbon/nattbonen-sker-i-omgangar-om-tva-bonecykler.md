@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadanens nattbön
 original_id: 1410
-description: >-
-  Fråga: Vissa imamer ber fyra bönecykler eller mer under tarāwīh -bönen med
-  enbart en taslīm [När man säger as-salamu 'alaikum wa rahmatullah ] och de
-  sitter inte efter två bönecykler. De påstå...
+description: 'Detta är inte föreskrivet. I stället är det ogillat eller till och med förbjudet enligt de flesta lärde.'
 ---
 
 **Fråga:** Vissa imamer ber fyra bönecykler eller mer under *tarāwīḥ*-bönen med enbart en *taslīm* [När man säger *as-salamu 'alaikum wa rahmatullah*] och de sitter inte efter två bönecykler. De påstår att detta är *sunnah*. Finns det någon grund för detta i den islamiska lagen?

@@ -7,9 +7,7 @@ categories:
   - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 591
-description: 'Fråga: Vilken är nyttan med att studera avvikande sekter som mu’tazilah,
- jahmiyyah och khawārij, då de inte existerar nuförtiden? Svar: Att lära sig
- om dessa grupper nuförtiden har fördelar. ...'
+description: 'Att lära sig om dessa grupper nuförtiden har fördelar. Vi lär oss då varför de avvek; genom detta kan vi avvisa dem om vi träffar på dem.'
 ---
 
 **Fråga:** Vilken är nyttan med att studera avvikande sekter som *mu´tazilah*, *jahmiyyah* och *k̲hawārij*, då de inte existerar nuförtiden?

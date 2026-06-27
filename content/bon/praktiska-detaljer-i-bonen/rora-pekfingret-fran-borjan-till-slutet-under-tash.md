@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 960
-description: >-
-  Fråga: Vilket är utlåtandet om att röra pekfingret under tashahhud från början
-  till slutet? Svar: Pekfingret bör endast röras när man åkallar. Inte under
-  hela tashahhud . Profeten – över ho...
+description: 'Pekfingret bör endast röras när man åkallar. Inte under hela tas̲hahhud. Profeten – över honom vare Allāhs frid och välsignelser – brukade röra det när han…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att röra pekfingret under *tas̲hahhud* från början till slutet?

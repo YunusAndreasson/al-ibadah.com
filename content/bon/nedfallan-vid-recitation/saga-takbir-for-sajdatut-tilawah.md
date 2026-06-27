@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nedfallan vid recitation
 original_id: 283
-description: >-
-  Fråga: Krävs takbīr vid sajdatut-tilawah både under och utanför bönen? Behöver
-  man göra taslīm utanför bönen? Jag ber om en förklaring. Må Allāh ge er
-  framgång. Svar: Sajdatut-tilawah ...
+description: 'sujūd at-tilāwah är som nedfallandet i bönen. När man nedfaller i bönen, då bör man säga takbīr och när man reser sig upp, då bör man säga takbīr.'
 ---
 
 **Fråga:** Krävs *takbīr* vid *sujūd at-tilāwah* både under och utanför bönen? Behöver man göra *taslīm* utanför bönen? Jag ber om en förklaring. Må Allāh ge er framgång.

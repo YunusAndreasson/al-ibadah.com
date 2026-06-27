@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 669
-description: >-
-  Fråga: Under flera månader bad jag inte. Ramadan kom och gick utan att jag
-  fastade. Jag rökte även ofta. All lovprisan är för Allāh – jag har ångrat mig
-  för alla dessa synder. Nu ber jag, jag fast...
+description: 'Då Allāh den Högste beviljat dig ånger och då du nu utför dina obligatoriska islamska plikter, vill jag gratulera dig och jag ber Allāh att Han gör dig…'
 ---
 
 **Fråga:** Under flera månader bad jag inte. *ramaḍān* kom och gick utan att jag fastade. Jag rökte även ofta. All lovprisan är för Allāh – jag har ångrat mig för alla dessa synder. Nu ber jag, jag fastar under *ramaḍān* och jag har slutat att röka. Min fråga lyder: Måste jag ta igen alla de böner jag missat i det förgångna?

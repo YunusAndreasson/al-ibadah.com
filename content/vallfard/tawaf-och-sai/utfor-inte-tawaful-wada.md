@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 1350
-description: >-
-  Fråga: Vilket är utlåtandet om den som inte utför ṭawāful-wadā under
-  vallfärden? Svar: Allāhs sändebud – över honom vare Allāhs frid och
-  välsignelser – har sagt: ” Ingen bör resa förrän denn...
+description: 'Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: ”Ingen bör resa förrän personens sista handling är vid Huset [Ka’bah].” Detta…'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som inte utför *ṭawāf ul-wadā´* under vallfärden?

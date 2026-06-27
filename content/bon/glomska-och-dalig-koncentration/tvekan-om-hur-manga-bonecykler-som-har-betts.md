@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 274
-description: >-
-  Fråga: Jag har i vissa islamiska lagböcker läst att om bönen har förrättats
-  och tjänaren tvekar om antalet bönecykler, då är bönen ogiltig. I andra böcker
-  står det att tjänaren bör nedfalla två g...
+description: 'Det som är korrekt är att bönen är giltig. Sådana tvivel kommer ofta utan att man önskar det.'
 ---
 
 **Fråga:** Jag har i vissa islamiska lagböcker läst att om bönen har förrättats och tjänaren tvekar om antalet bönecykler, då är bönen ogiltig. I andra böcker står det att tjänaren bör nedfalla två gånger efter att ha fullföljt bönen. Vad är korrekt?

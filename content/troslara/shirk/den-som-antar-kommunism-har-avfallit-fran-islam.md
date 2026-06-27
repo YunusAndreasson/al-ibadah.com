@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
 original_id: 146
-description: >-
-  Fråga: Kommunism är en ideologi som förnekar Skaparen den Allsmäktige och den
-  förespråkar tro på materialism samt att livets ursprung finns i naturen. Är
-  dessa unga män i vår islamiska värld som o...
+description: 'Vad som är klart för mig är att denna fråga är som undringen: är solen solen och är natten natten? Och är dagen dagen?'
 ---
 
 **Fråga:** Kommunism är en ideologi som förnekar Skaparen den Allsmäktige och den förespråkar tro på materialism samt att livets ursprung finns i naturen. Är dessa unga män i vår islamiska värld som omfamnar den kommunistiska ideologin, och speciellt de som tror på den, avfällingar?

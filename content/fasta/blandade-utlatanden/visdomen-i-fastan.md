@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Övrigt
 original_id: 1257
-description: >-
-  Fråga: Vilken är visdomen i skyldigheten att fasta? Svar: Om vi läser Allāhs
-  den Upphöjdes ord: ” Troende! Det är en plikt för er att fasta, liksom det var
-  en plikt för dem som levde före er – ...
+description: 'Om vi läser Allāhs den Upphöjdes ord: ”Troende! Det är en plikt för er att fasta, liksom det var en plikt för dem som levde före er – kanske ska ni frukta…'
 ---
 
 **Fråga:** Vilken är visdomen i skyldigheten att fasta?

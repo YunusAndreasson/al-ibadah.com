@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 249
-description: >-
-  Fråga: Vilket är utlåtandet om någon som ber gryningsbönen två timmar innan
-  middagsbönen? Detta i vetskap om att han hela tiden har sovit. Svar: Det är
-  inte tillåtet att skjuta upp gryningsbön...
+description: 'Det är inte tillåtet att skjuta upp gryningsbönen till efter den angivna tiden, utom om det berodde på sömn.'
 ---
 
 **Fråga:** Vilket är utlåtandet om någon som ber gryningsbönen två timmar innan middagsbönen? Detta i vetskap om att han hela tiden har sovit.

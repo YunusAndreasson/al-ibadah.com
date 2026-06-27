@@ -4,9 +4,7 @@ categories:
   - Troslära (´Aqīdah)
   - Monoteism
 original_id: 1647
-description: 'Fråga: Om någon vill bjuda in någon annan, vad bör han börja med och
- vad bör han säga? Svar: Frågeställaren verkar vilja veta hur man ska bjuda in
- till Allāh. Detta måste göras med visdom, gott...'
+description: 'Frågeställaren verkar vilja veta hur man ska bjuda in till Allāh. Detta måste göras med visdom, gott tal och varsamhet.'
 ---
 
 **Fråga:** Om någon vill bjuda in någon annan, vad bör han börja med och vad bör han säga?

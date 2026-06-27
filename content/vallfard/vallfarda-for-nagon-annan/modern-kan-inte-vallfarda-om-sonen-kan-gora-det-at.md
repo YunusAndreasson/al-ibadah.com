@@ -6,9 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - Ställföreträdande vallfärd
 original_id: 728
-description: 'Fråga: Jag är en man som har en mor som är mycket gammal. Hon är runt
- 70 år och hon är rädd för att åka bil, även om det är korta sträckor. Åker hon
- bil blir hon så sjuk att hon förlorar medveta...'
+description: 'Om det förhåller sig som du har beskrivit, då får du vallfärda med din moders tillgångar. Detta är viktigt då det är en vänlig och god handling från dig…'
 ---
 
 **Fråga:** Jag är en man som har en mor som är mycket gammal. Hon är runt 70 år och hon är rädd för att åka bil, även om det är korta sträckor. Åker hon bil blir hon så sjuk att hon förlorar medvetandet. Hon har inte utfört den obligatoriska vallfärden. Är det tillåtet att jag vallfärdar för hennes räkning, med mina egna tillgångar, då jag är hennes enda son?

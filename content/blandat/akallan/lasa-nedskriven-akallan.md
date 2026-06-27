@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Åkallan
 original_id: 689
-description: >-
-  Fråga: Jag har endast memorerat ett fåtal åkallan. Är det då tillåtet för mig
-  att skriva ned några på ett papper och sedan läsa dem under eller utanför
-  bönen? Svar: Det finns inget som förbjud...
+description: 'Det finns inget som förbjuder dig att läsa åkallan från papper, speciellt om du inte har memorerat dem och om det sker under tidpunkter då du är uppmuntrad…'
 ---
 
 **Fråga:** Jag har endast memorerat ett fåtal åkallan. Är det då tillåtet för mig att skriva ned några på ett papper och sedan läsa dem under eller utanför bönen?

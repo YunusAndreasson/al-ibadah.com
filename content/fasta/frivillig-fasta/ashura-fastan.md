@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 1269
-description: >-
-  Fråga: Vilket är utlåtandet om att fasta under ‘ashura’ -dagen? Svar: När
-  profeten – över honom vare Allāhs frid och välsignelser – kom till Medina fann
-  han att judarna fastade under den tion...
+description: 'När profeten – över honom vare Allāhs frid och välsignelser – kom till Medina fann han att judarna fastade under den tionde dagen i muḥarram.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att fasta under *‘ashura’*-dagen?

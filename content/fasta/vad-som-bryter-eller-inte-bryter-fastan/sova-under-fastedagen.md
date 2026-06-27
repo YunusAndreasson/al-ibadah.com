@@ -6,10 +6,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 902
-description: >-
-  Fråga: Om man under ramadan måste äta sahūr och be gryningsbönen, för att
-  sedan sova till middagstid och då be middagsbönen, för att sedan sova till
-  eftermiddagsbönen och då be eftermiddagsbönen, ...
+description: 'Förhåller det sig på så vis som du har nämnt är fastan giltig. Men att fortsätta så här under dagen [att sova] är ett slöseri med tid ifrån hans sida,…'
 ---
 
 **Fråga:** Om man under *ramaḍān* måste äta *saḥūr* och be gryningsbönen, för att sedan sova till middagstid och då be middagsbönen, för att sedan sova till eftermiddagsbönen och då be eftermiddagsbönen, och för att sedan, återigen, sova till fastan bryts vid kvällsbönen – är fastan då korrekt?

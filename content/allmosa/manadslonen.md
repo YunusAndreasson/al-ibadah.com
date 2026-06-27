@@ -6,9 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Voly
 categories:
   - Allmosa (Zakāh)
 original_id: 605
-description: 'Fråga: Jag är anställd i ett privatägt företag och jag tar emot en
- månadslön på 4000 saudiska riyal. Här inräknas en hyra som är på 1000 saudiska
- riyal. Är jag skyldig att betala allmosa för den...'
+description: 'När du har sparat något från din månadslön som överskrider vad du behöver för personliga utgifter, då behöver du betala allmosa för det.'
 ---
 
 **Fråga:** Jag är anställd i ett privatägt företag och jag tar emot en månadslön på 4000 saudiska riyal[^1]. Här inräknas en hyra som är på 1000 saudiska riyal[^1]. Är jag skyldig att betala allmosa för denna lön? Vilken är nivån på denna allmosa? Ta också med i beräkningarna att jag inte har några andra inkomstkällor som jag spenderar från.

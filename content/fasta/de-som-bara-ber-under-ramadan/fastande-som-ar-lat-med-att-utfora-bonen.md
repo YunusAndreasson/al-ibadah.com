@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Ramadanbedjare
 original_id: 1575
-description: >-
-  Fråga: En del unga män – må Allāh vägleda dem – latar sig med bönen, både
-  under ramadan och under andra tillfällen. Däremot är de mycket noga med
-  fastan. Tålmodigt bär de törsten och hungern. Vad ...
+description: 'Mitt råd till dessa bröder är att de sätter sig ned och begrundar sin situation och att de bör känna till att bönen är den viktigaste pelaren efter de båda…'
 ---
 
 **Fråga:** En del unga män – må Allāh vägleda dem – latar sig med bönen, både under *ramaḍān* och under andra tillfällen. Däremot är de mycket noga med fastan. Tålmodigt bär de törsten och hungern. Vad råder du dem till och vilket är utlåtandet om deras fasta?

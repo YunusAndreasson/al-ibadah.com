@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1634
-description: >-
-  Fråga: Jag bor i Sverige och här säljs griskött på restaurangerna. Jag har
-  ställts frågan om varför griskött är förbjudet. Vilken är anledningen och
-  vilka är bevisen för detta? Jag ber om ett ful...
+description: 'Allāh den Härlige, den Högste har förbjudit griskött på flera platser i Hans heliga skrift och muslimer är helt eniga om att det är förbjudet.'
 ---
 
 **Fråga:** Jag bor i Sverige och här säljs griskött på restaurangerna. Jag har ställts frågan om varför griskött är förbjudet. Vilken är anledningen och vilka är bevisen för detta? Jag ber om ett fullständigt svar på detta.

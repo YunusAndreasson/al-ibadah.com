@@ -6,9 +6,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 900
-description: 'Fråga: Blir fastan ogiltig om man använder en vätskebaserad parfym
- ifrån en flaska på händerna, ansiktet, kroppen och kläderna? Svar: Att använda
- parfym på det sätt som beskrivits bryter inte ...'
+description: 'Att använda parfym på det sätt som beskrivits bryter inte fastan.'
 ---
 
 **Fråga:** Blir fastan ogiltig om man använder en vätskebaserad parfym ifrån en flaska på händerna, ansiktet, kroppen och kläderna?

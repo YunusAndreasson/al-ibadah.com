@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Åminnelse
 original_id: 966
-description: >-
-  Fråga: Vilken är er åsikt om att använda radband när man gör tasbih? Må Allāh
-  belöna er med det goda. Svar: Det är tillåtet att använda radband. Det är dock
-  bättre att göra tasbih genom at...
+description: 'Det är tillåtet att använda radband. Det är dock bättre att göra tasbīḥ genom att räkna på fingrarna.'
 ---
 
 **Fråga:** Vilken är er åsikt om att använda radband när man gör *tasbīḥ*? Må Allāh belöna er med det goda.

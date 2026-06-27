@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsombud
 original_id: 878
-description: 'Fråga: En man vallfärdade detta år för sin avlidne fader, men han påbörjade
- inte resan från faderns födelseplats. Han frågar om denna vallfärd är korrekt? Svar: Det
- verkar som att frågeställar...'
+description: 'Det verkar som att frågeställaren har gett en vallfärd till fadern. Om så är fallet, då verkar det inte vara några problem med giltigheten i hans vallfärd,…'
 ---
 
 **Fråga:** En man vallfärdade detta år för sin avlidne fader, men han påbörjade inte resan från faderns födelseplats. Han frågar om denna vallfärd är korrekt?

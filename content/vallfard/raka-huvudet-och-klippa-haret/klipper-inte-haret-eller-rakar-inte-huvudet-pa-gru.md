@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Hårklippning
 original_id: 831
-description: >-
-  Fråga: En pilgrim kom under vallfärden och vallfärdade hajjul-tamattu’ . När
-  han hade utfört tawāf och sa’ī tog han på sig sina vanliga kläder men klippte
-  eller rakade inte sitt hår. Sedan, e...
+description: 'Mannen anses ha lämnat en obligatorisk handling som är en skyldighet under ´umrah. Detta är att raka huvudet eller att klippa håret.'
 ---
 
 **Fråga:** En pilgrim kom under vallfärden och vallfärdade *ḥajjul-tamattu´*. När han hade utfört *ṭawāf* och *sa´ī* tog han på sig sina vanliga kläder men klippte eller rakade inte sitt hår. Sedan, efter vallfärden, frågade han och informerades om att han gjort ett misstag. Vad bör han göra, då vallfärden kom efter tidpunkten för *´umrah*?

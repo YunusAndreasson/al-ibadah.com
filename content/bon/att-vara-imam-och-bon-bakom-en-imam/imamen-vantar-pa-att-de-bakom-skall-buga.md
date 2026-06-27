@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 305
-description: >-
-  Fråga: Måste imamen vänta om han hör några eftersläntrare komma springande
-  under bugningen eller tashahhud? Svar: Det är bättre att inte brådska. Det är
-  bra om imamen går lugnt till väga på ...
+description: 'Det är bättre att inte brådska. Det är bra om imamen går lugnt till väga på ett sätt som inte leder till svårigheter för Allāhs tjänare.'
 ---
 
 **Fråga:** Måste imamen vänta om han hör några eftersläntrare komma springande under bugningen eller *tas̲hahhud*?

@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 1077
-description: >-
-  Fråga: Vilket är utlåtandet om att tro att en metod kan hjälpa en att uppnå
-  det man vill ha? Svar: Att sätta sin tilltro till olika metoder delas i olika
-  kategorier: Vad som upphäver g...
+description: 'Att sätta sin tilltro till olika metoder delas i olika kategorier: 1. Vad som upphäver grunden för tawḥīd.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att tro att en metod kan hjälpa en att uppnå det man vill ha?

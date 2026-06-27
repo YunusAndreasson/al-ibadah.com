@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadans datum
 original_id: 398
-description: >-
-  Fråga: Vilket är utlåtandet om fastan för den som inte fick reda på att
-  ramadan hade börjat förrän efter gryningsbönen? Detta på grund av sömn eller
-  något annat. Svar: Den som inte fick reda p...
+description: 'Den som inte fick reda på att ramaḍān hade börjat förrän efter gryningsbönen, personen måste avstå från allt som bryter fastan under resten av dagen då…'
 ---
 
 **Fråga:** Vilket är utlåtandet om fastan för den som inte fick reda på att *ramaḍān* hade börjat förrän efter gryningsbönen? Detta på grund av sömn eller något annat.

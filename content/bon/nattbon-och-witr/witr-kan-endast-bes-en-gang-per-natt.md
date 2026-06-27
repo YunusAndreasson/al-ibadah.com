@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nattbön
 original_id: 1511
-description: >-
-  Fråga: Är det tillåtet att be två witr -böner under en natt? Svar: Ingen bör
-  be två witr -bönen under en natt. Profeten – över honom vare Allāhs frid och
-  välsignelser – har sagt: ” Det kan i...
+description: 'Ingen bör be två witr-böner under en natt. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: "Det kan inte finnas två witr-böner under en…'
 ---
 
 **Fråga:** Är det tillåtet att be två *witr*-böner under en natt?

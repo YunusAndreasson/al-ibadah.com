@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Kropp och klädnad
 original_id: 1698
-description: >-
-  Fråga: Vilket är utlåtandet om att bära en guldring som vanligtvis brukar
-  kallas för vigselring? Svar: Män får inte bära guldringar, varken före eller
-  efter de gift sig. Detta beror på att Allā...
+description: 'Män får inte bära guldringar, varken före eller efter de gift sig. Detta beror på att Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att bära en guldring som vanligtvis brukar kallas för vigselring?

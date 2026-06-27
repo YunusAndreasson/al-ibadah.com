@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 1207
-description: >-
-  Fråga: Vilket är utlåtandet om omskärelse för män och kvinnor? Svar:
-  Utlåtandet om omskärelse är en fråga i vilken det finns oenighet. Den mest
-  korrekta åsikten är att det är en skyldighet för...
+description: 'Utlåtandet om omskärelse är en fråga i vilken det finns oenighet. Den mest korrekta åsikten är att det är en skyldighet för män och en sunnah för kvinnor…'
 ---
 
 **Fråga:** Vilket är utlåtandet om omskärelse för män och kvinnor?

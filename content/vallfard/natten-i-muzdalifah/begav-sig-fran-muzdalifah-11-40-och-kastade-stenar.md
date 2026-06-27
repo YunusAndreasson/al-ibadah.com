@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Muzdalifah-natten
 original_id: 846
-description: >-
-  Fråga: Vi gav oss av från Muzdalifah 11.40 och vi hade barn med oss. Vi
-  kastade stenar på pelarna 11.50 för att sedan bege oss till Mecka. Vilket är
-  utlåtandet om detta? Svar: Ni har inte synd...
+description: 'Ni har inte syndat då ni lämnade Muzdalifah under mitten av natten. Om ni hade väntat tills månen försvunnit hade det dock varit bättre och säkrare.'
 ---
 
 **Fråga:** Vi gav oss av från *Muzdalifah* 11.40 och vi hade barn med oss. Vi kastade stenar på pelarna 11.50 för att sedan bege oss till Mecka. Vilket är utlåtandet om detta?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 328
-description: >-
-  Fråga: Finns det någon autentisk hadīth som visar att bön bakom någon som
-  rakar sitt skägg är ogiltig? Svar: Enligt vad vi känner till finns det inga
-  autentiska bevis som visar att bön bakom...
+description: 'Enligt vad vi känner till finns det inga autentiska bevis som visar att bön bakom någon som rakar sitt skägg är ogiltig.'
 ---
 
 **Fråga:** Finns det någon autentisk *ḥadīt̲h* som visar att bön bakom någon som rakar sitt skägg är ogiltig?

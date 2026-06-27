@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 810
-description: >-
-  Fråga: Är två bönecykler efter tawāf bakom platsen där Abraham stod
-  obligatoriska för varje tawāf och vad gäller den som glömmer dem? Svar: Det är
-  inte obligatoriskt att be dem bakom plats...
+description: 'Det är inte obligatoriskt att be dem bakom platsen där Abraham stod. Två bönecykler kan bes var som helst i Helgedomen [heliga Moskén].'
 ---
 
 **Fråga:** Är två bönecykler efter *ṭawāf* bakom platsen där Abraham stod obligatoriska för varje *ṭawāf* och vad gäller den som glömmer dem?

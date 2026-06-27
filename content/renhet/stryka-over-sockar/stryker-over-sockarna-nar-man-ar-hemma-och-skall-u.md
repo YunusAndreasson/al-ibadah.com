@@ -7,9 +7,7 @@ categories:
   - Renhet (Tahārah)
   - Strykning över strumpor
 original_id: 1132
-description: 'Fråga: Om man stryker över sina sockar medan man är hemma och sedan
- ger sig ut på en resa, bör man då stryka över dem på samma sätt som en resenär? Svar: Stryker
- man över sockarna medan man är ...'
+description: 'Stryker man över sockarna medan man är hemma och sedan ger sig ut på en resa, då bör man stryka som en resenär. Detta enligt den starkaste åsikten.'
 ---
 
 **Fråga:** Om man stryker över sina sockar medan man är hemma och sedan ger sig ut på en resa, bör man då stryka över dem på samma sätt som en resenär?

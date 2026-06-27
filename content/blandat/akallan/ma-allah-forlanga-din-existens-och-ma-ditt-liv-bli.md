@@ -7,9 +7,7 @@ categories:
   - Blandat
   - Åkallan
 original_id: 1583
-description: 'Fråga: Vilket är utlåtandet om att säga ” må Allāh förlänga din existens
- ” och ” må ditt liv förlängas ”? Svar: Man bör inte säga: ” Må Allāh förlänga
- din existens ”. En förlängd existens kan j...'
+description: 'Man bör inte säga: ”Må Allāh förlänga din existens”. En förlängd existens kan ju vara både bra och dålig.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att säga ”*må Allāh förlänga din existens*” och ”*må ditt liv förlängas*”?

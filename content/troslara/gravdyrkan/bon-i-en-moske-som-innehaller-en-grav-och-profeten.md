@@ -11,10 +11,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
 original_id: 43
-description: >-
-  Fråga: Jag har frågor om det är tillåtet att be i en moské som innehåller en
-  grav. Några lärde säger att det inte är tillåtet att be i dem. De säger att om
-  det inte finns någon annan moské i sta...
+description: 'Det är inte tillåtet att bygga moskéer över gravar, ej heller är det tillåtet att be i sådana moskéer.'
 ---
 
 **Fråga:** Jag har frågor om det är tillåtet att be i en moské som innehåller en grav.

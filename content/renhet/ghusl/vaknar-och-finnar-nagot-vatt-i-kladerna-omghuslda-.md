@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Den stora tvagningen
 original_id: 1214
-description: >-
-  Fråga: Måste man göra ghusl om man vaknar och finner något vått i ens kläder?
-  Svar: Vaknar någon och finner något vått i kläderna, då gäller en av följande
-  kategorier: Helt säker på ...
+description: 'Vaknar någon och finner något vått i kläderna, då gäller en av följande kategorier: 1. Helt säker på att det är sädesvätska.'
 ---
 
 **Fråga:** Måste man göra *g̲husl* om man vaknar och finner något vått i ens kläder?

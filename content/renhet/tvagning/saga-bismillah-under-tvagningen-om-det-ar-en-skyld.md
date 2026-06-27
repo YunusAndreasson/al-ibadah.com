@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1122
-description: >-
-  Fråga: Är det en skyldighet att säga Bismillāh under tvagningen? Svar: Att
-  säga Bismillāh under tvagningen är inte en skyldighet, det är enbart en
-  sunnah. Detta beror på att det finns viss...
+description: 'Att säga Bismillāh under tvagningen är inte en skyldighet, det är enbart en sunnah. Detta beror på att det finns vissa tvivel om hadithens autenticitet.'
 ---
 
 **Fråga:** Är det en skyldighet att säga *Bismillāh* under tvagningen?

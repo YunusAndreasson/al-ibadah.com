@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadans datum
 original_id: 397
-description: >-
-  Fråga: Vi började fasta i Saudiarabien. Därefter reste vi till Ostasien under
-  ramadan. Där ligger den islamiska hijri -månaden en dag back. Bör vi då fasta
-  31 dagar? Svar: Om ni fastade i Sau...
+description: 'Om ni fastade i Saudiarabien eller i ett annat land och ni sedan fastade det som återstod av månaden i ert eget land eller på en annan plats, bryt då er…'
 ---
 
 **Fråga:** Vi började fasta i Saudiarabien. Därefter reste vi till Ostasien under *ramaḍān*. Där ligger den islamiska *hijri*-månaden en dag back. Bör vi då fasta 31 dagar?

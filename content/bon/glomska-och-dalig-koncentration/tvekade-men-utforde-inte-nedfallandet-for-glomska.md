@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 276
-description: >-
-  Fråga: Om jag kände tveksamheter i fråga om bönen och jag inte gjorde
-  nedfallandet för glömska, är min bön då ogiltig? Detta med vetskap om att
-  jag inte nedföll eftersom jag ofta känner tveksamhe...
+description: 'Det är inte tillåtet att ge uppmärksamhet till återkommande tvivel i bönen. I stället bör Allāhs tjänare be klart enligt vad som gäller i grund och botten…'
 ---
 
 **Fråga:** Om jag kände tveksamheter i fråga om bönen och jag inte gjorde nedfallandet för glömska[^1], är min bön då ogiltig? Detta med vetskap om att jag inte nedföll eftersom jag ofta känner tveksamhet.

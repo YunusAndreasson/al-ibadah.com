@@ -6,7 +6,7 @@ categories:
   - Renhet (Tahārah)
   - Den stora tvagningen
 original_id: 602
-description: "Fråga: Jag ”leker” ofta med min fru och får ibland en orgasm även om vi inte har ett regelrätt samlag. Samma sak händer för min fru. Är det obligatoriskt att vi gör g̲husl? Svar: \_Om du fick en..."
+description: 'Om du fick en orgasm eller om hon blev lite våt, då är det obligatoriskt för er båda att utföra g̲husl.'
 ---
 
 **Fråga:** Jag ”leker” ofta med min fru och får ibland en orgasm även om vi inte har ett regelrätt samlag. Samma sak händer för min fru. Är det obligatoriskt att vi gör *g̲husl*?

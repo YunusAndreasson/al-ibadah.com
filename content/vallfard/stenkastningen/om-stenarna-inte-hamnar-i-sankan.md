@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Stenkastningen
 original_id: 857
-description: >-
-  Fråga: En pilgrim kastar från östlig riktning stenar på pelaren al-´Aqabah men
-  personens stenar hamnar inte i sänkan. Vad ska personen göra då det nu är den
-  trettonde dagen i thul-hijjah? Svar: ...
+description: 'Personen behöver inte kasta stenarna igen. Personen behöver enbart upprepa de kasten som inte utförts korrekt.'
 ---
 
 **Fråga:** En pilgrim kastar från östlig riktning stenar på pelaren al-´Aqabah men personens stenar hamnar inte i sänkan. Vad ska personen göra då det nu är den trettonde dagen i *d̲hul-ḥijjah*?

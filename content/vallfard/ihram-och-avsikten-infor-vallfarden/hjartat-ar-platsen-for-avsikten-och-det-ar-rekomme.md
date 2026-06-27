@@ -10,10 +10,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 754
-description: >-
-  Fråga: Uttalas avsikten för ihrām muntligt med tungan? Hur utförs den om
-  pilgrimen vallfärdar för en annan persons räkning? Svar: Platsen för avsikten
-  är i hjärtat. Dess beskrivning är att m...
+description: 'Platsen för avsikten är i hjärtat. Dess beskrivning är att man i sitt hjärta avser att vallfärda för någon annan [exempelvis en bror eller son].'
 ---
 
 **Fråga:** Uttalas avsikten för *iḥrām* muntligt med tungan? Hur utförs den om pilgrimen vallfärdar för en annan persons räkning?

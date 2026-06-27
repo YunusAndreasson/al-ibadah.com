@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Pilgrimskläder
 original_id: 1343
-description: >-
-  Fråga: Om en man eller kvinna bär sandaler eller sockar under iḥrām , oavsett
-  om personen kände till det eller inte, gör detta då iḥrām ogiltig? Svar: Det som
-  är sunnah är att en man gå...
+description: 'Det som är sunnah är att en man går in i iḥrām i två sandaler. Anledningen är att det har berättats från profeten – över honom vare Allāhs frid och…'
 ---
 
 **Fråga:** Om en man eller kvinna bär sandaler eller sockar under *iḥrām*, oavsett om personen kände till det eller inte, gör detta då *iḥrām* ogiltig?

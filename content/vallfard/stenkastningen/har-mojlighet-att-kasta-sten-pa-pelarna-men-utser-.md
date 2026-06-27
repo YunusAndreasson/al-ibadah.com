@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Stenkastningen
 original_id: 1553
-description: >-
-  Fråga: Är det möjligt att jag utser någon annan som kastar mina stenar på
-  pelarna under den andra dagen under at-tas̲hrīq? Detta med anledning av
-  familjeskäl som gör det nödvändigt att jag återvä...
+description: 'Det är inte tillåtet att utse någon annan och resa innan stenkastningen har avslutats. I stället måste personen vänta.'
 ---
 
 **Fråga:** Är det möjligt att jag utser någon annan som kastar mina stenar på pelarna under den andra dagen under *at-tas̲hrīq*? Detta med anledning av familjeskäl som gör det nödvändigt att jag återvänder till Riyadh under den dagen, eller måste jag slakta ett djur för detta?

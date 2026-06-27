@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 82
-description: >-
-  Fråga: Hur kan vi jämka samman Allāhs den Upphöjdes ord: ” Några av dessa
-  sändebud [om vilka Vi har berättat för dig] har Vi gett företräde framför
-  andra .” [Koranen 2:253] med: ” Vi gör ingen åts...
+description: 'Allāhs Ord: ”Några av dessa sändebud [om vilka Vi har berättat för dig] har Vi gett företräde framför andra.” är som Hans ord: ”Och Vi har givit några…'
 ---
 
 **Fråga:** Hur kan vi jämka samman Allāhs den Upphöjdes ord: ”*Några av dessa sändebud [om vilka Vi har berättat för dig] har Vi gett företräde framför andra*.” [^1] med: ”*Vi gör ingen åtskillnad mellan dem*.” [^2]

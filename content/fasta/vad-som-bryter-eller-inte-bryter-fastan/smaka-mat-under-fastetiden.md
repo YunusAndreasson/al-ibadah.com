@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 423
-description: 'Fråga: Får en kock smaka sin mat för att säkerställa att den smakar
- rätt? Detta samtidigt som kocken fastar. Svar: Det är ingen fara att smaka maten
- om det finns ett behov av det. Detta sker d...'
+description: 'Det är ingen fara att smaka maten om det finns ett behov av det. Detta sker då genom att man lägger den på tungan så att man får reda på hur söt eller salt…'
 ---
 
 **Fråga:** Får en kock smaka sin mat för att säkerställa att den smakar rätt? Detta samtidigt som kocken fastar.

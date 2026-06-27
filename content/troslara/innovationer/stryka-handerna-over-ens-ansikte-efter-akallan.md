@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 697
-description: >-
-  Fråga: Frågeställaren ställer två frågor: Vilket är utlåtandet om att stryka
-  händerna över ansiktet efter åkallan? Får en man skaka en kvinnas hand? Svar:
-  De enda återberättelser som indikerar...
+description: 'De enda återberättelser som indikerar att det är tillåtet att stryka händerna över ansiktet är svaga.'
 ---
 
 **Fråga:** Frågeställaren ställer två frågor: Vilket är utlåtandet om att stryka händerna över ansiktet efter åkallan? Får en man skaka en kvinnas hand?

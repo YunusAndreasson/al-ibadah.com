@@ -10,10 +10,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 1580
-description: >-
-  Fråga: Vilket råd har ni att ge till den som inte gillar att studera ‘aqīdah
-  , speciellt frågor om det förutbestämda, på grund av rädsla för att begå
-  misstag? Svar: Denna fråga är för honom ...
+description: 'Denna fråga är för honom som alla andra viktiga frågor som rör hans religion och världsliga liv.'
 ---
 
 **Fråga:** Vilket råd har ni att ge till den som inte gillar att studera *´aqīdah*, speciellt frågor om det förutbestämda, på grund av rädsla för att begå misstag?

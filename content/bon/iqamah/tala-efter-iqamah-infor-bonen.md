@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Det andra böneutropet
 original_id: 178
-description: >-
-  Fråga: Vilket är utlåtandet om att tala om frågor som inte rör bönen [som att
-  göra leden raka eller andra saker] när iqāmah inför bönen har ropats ut och
-  innan den första takbīr? Att tala om...
+description: 'Att tala om frågor som rör bönen när iqāmah har ropats ut och innan första takbīr [som att göra leden raka eller andra saker], det är föreskrivet enligt…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att tala om frågor som inte rör bönen [som att göra leden raka eller andra saker] när *iqāmah* inför bönen har ropats ut och innan den första *takbīr*?

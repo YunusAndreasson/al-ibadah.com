@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Åkallan
 original_id: 1457
-description: >-
-  Fråga: Efter fredagsbönen berättade imamen för oss ”att när vi gjort iqāmah
-  bör vi inte läsa någon åkallan som inte har rapporterats från profeten – över
-  honom vare Allāhs frid och välsignelser ...
+description: 'Profetens – över honom vare Allāhs frid och välsignelser – sunnah säger att den som hör iqāmah bör säga vad den som gör iqāmah säger.'
 ---
 
 **Fråga:** Efter fredagsbönen berättade imamen för oss "att när vi gjort *iqāmah* bör vi inte läsa någon åkallan som inte har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – och det finns ingenting i Allāhs skrift eller i profetens – över honom vare Allāhs frid och välsignelser – *sunnah*. När *mu'aththin* nämner Allāh i *iqāmah*, då bör även du nämna Allāh och vara tyst till imamen säger: ’*Allāhu akbar*’ [tills han börjar bönen].” Nu för tiden har folket struntat i imamens ord. Vi ber om ett snabbt råd för att vi ska bli försäkrade.

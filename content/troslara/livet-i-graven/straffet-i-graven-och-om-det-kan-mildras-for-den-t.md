@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravlivet
 original_id: 1180
-description: >-
-  Fråga: Kan straffet i graven mildras för den troende som har syndat? Svar: Ja,
-  det kan mildras. Profeten – över honom vare Allāhs frid och välsignelser –
-  gick ju förbi två gravar och sade: ...
+description: 'Ja, det kan mildras. Profeten – över honom vare Allāhs frid och välsignelser – gick ju förbi två gravar och sade: > ”De blir straffade […] En av dem…'
 ---
 
 **Fråga:** Kan straffet i graven mildras för den troende som har syndat?

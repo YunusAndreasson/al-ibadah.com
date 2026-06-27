@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 1573
-description: >-
-  Fråga: Om jag befann mig i ett flygplan och det blev dags för att be, får jag
-  då be i planet? Svar: Blir det tid för bön och planet fortfarande är i luften,
-  då är de lärde eniga om att det är ...
+description: 'Blir det tid för bön och planet fortfarande är i luften, då är de lärde eniga om att det är en skyldighet att be vid bönens angivna tid om man har…'
 ---
 
 **Fråga:** Om jag befann mig i ett flygplan och det blev dags för att be, får jag då be i planet?

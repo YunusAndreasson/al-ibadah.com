@@ -6,9 +6,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 566
-description: 'Fråga: Är det tillåtet att läsa Koranen i grupp? Speciellt innan imamen
- anländer under fredagen. Svar: Detta är inte tillåtet att välja ut just denna
- dag för att läsa Koranen innan imamen anlä...'
+description: 'Detta är inte tillåtet att välja ut just denna dag för att läsa Koranen innan imamen anländer. Detta är en innovation.'
 ---
 
 **Fråga:** Är det tillåtet att läsa Koranen i grupp? Speciellt innan imamen anländer under fredagen.

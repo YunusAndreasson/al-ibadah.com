@@ -9,10 +9,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1564
-description: >-
-  Fråga: Vilken är innebörden av ordningsföljd [ tartīb ] under tvagningen? Vad
-  avses med varaktighet [ muwalah ]? Vilket är utlåtandet om detta? Svar:
-  Ordningen under tvagningen innebär att man...
+description: 'Ordningen under tvagningen innebär att man börjar med vad Allāh började med och Han började med att nämna att ansiktet tvättas, sedan händerna, att huvudet…'
 ---
 
 **Fråga:** Vilken är innebörden av ordningsföljd [*tartīb*] under tvagningen? Vad avses med varaktighet [*muwālāh*]? Vilket är utlåtandet om detta?

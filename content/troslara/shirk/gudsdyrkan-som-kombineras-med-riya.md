@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
 original_id: 1192
-description: >-
-  Fråga: Vilket är utlåtandet om dyrkan som också innehåller riyā’ ? Svar:
-  Utlåtandet om dyrkan som också innehåller riyā’ är att den delas i tre olika
-  kategorier: Det huvudsakliga motivet...
+description: 'Utlåtandet om dyrkan som också innehåller riyā’ är att den delas i tre olika kategorier: Det huvudsakliga motivet bakom dyrkan är att ses av andra…'
 ---
 
 **Fråga:** Vilket är utlåtandet om dyrkan som också innehåller *riyā’*?

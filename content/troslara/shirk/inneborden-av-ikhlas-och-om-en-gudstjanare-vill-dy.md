@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
 original_id: 1171
-description: >-
-  Fråga: Vad har ik̲hlāṣ för innebörd? Vilket är utlåtandet om en troende vill
-  dyrka något annat [än Allāh]? Svar: Ikhlas mot Allāh innebär att man genom sin
-  dyrkan har som mål att komma närm...
+description: 'ik̲hlāṣ mot Allāh innebär att man genom sin dyrkan har som mål att komma närmare Honom den Härlige, den Upphöjde och att få tillträde till Hans…'
 ---
 
 **Fråga:** Vad har *ik̲hlāṣ* för innebörd? Vilket är utlåtandet om en troende vill dyrka något annat [än Allāh]?

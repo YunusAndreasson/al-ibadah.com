@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Koranläsning
 original_id: 1664
-description: >-
-  Fråga: Jag läser ofta Koranen men jag känner inte till mycket om
-  recitationsregler och därmed begår jag många fel när jag reciterar. Syndar
-  jag? Svar: Varje muslim måste lära sig hur man ska ...
+description: 'Varje muslim måste lära sig hur man ska recitera Koranen korrekt. Man reciterar då som Allāhs sändebud – över honom vare Allāhs frid och välsignelser –…'
 ---
 
 **Fråga:** Jag läser ofta Koranen men jag känner inte till mycket om recitationsregler och därmed begår jag många fel när jag reciterar. Syndar jag?

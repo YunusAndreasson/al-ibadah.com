@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 196
-description: >-
-  Fråga: När vi kom till Amerika bad vi efter vår kompass, men det var inte i
-  riktning mot qiblah . När vi lärde känna några av våra bröder så informerade
-  de oss om att vi inte hade bett i riktning...
+description: 'Om han använde sitt omdöme för att ta reda på riktningen mot qiblah, eftersom han befann sig ute i öknen eller i ett land där riktningen inte var känd, och…'
 ---
 
 **Fråga:** När vi kom till Amerika bad vi efter vår kompass, men det var inte i riktning mot *qiblah*. När vi lärde känna några av våra bröder så informerade de oss om att vi inte hade bett i riktning mot *qiblah*. De informerade oss även om den korrekta riktningen. Min fråga är om den bön som vi bad innan vi kände till den korrekta riktningen är giltig?

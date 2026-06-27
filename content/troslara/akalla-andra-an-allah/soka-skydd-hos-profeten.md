@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Åkallan av döda
 original_id: 532
-description: >-
-  Fråga: Vilken är er åsikt om den som säger: ”Jag tror på Allāh. Jag sätter min
-  tillit till Allāh. Jag litar på Allāh. Jag söker Allāhs sändebuds skydd”?
-  Svar: Om någon säger: ”Jag tror på Allā...
+description: 'Om någon säger: ”Jag tror på Allāh. Jag sätter min tillit till Allāh. Jag litar på Allāh”, är det inte fel. Detta är alla troendes attityd.'
 ---
 
 **Fråga:** Vilken är er åsikt om den som säger: ”Jag tror på Allāh. Jag sätter min tillit till Allāh. Jag litar på Allāh. Jag söker Allāhs sändebuds skydd”?

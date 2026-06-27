@@ -4,10 +4,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 241
-description: >-
-  Fråga: Får vi be två obligatoriska böner med samma tvagning? Svar: Ja, det är
-  tillåtet att exempelvis be middagsbönen efter att ha tvagat sig och när sedan
-  tiden anländer be eftermiddagsbönen ...
+description: 'Ja, det är tillåtet att exempelvis be middagsbönen efter att ha tvagat sig och när sedan tiden anländer be eftermiddagsbönen med samma tvagning om han…'
 ---
 
 **Fråga:** Får vi be två obligatoriska böner med samma tvagning?

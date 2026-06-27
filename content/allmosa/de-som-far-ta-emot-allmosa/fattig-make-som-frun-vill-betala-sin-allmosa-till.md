@@ -9,10 +9,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 638
-description: >-
-  Fråga: Får en kvinna betala allmosa till sin make om personen är fattig? Svar: En
-  kvinna får betala allmosa till maken om personen är fattig. Detta beror på den
-  allmänna innebörden av Allāh ord: ”O...
+description: 'En kvinna får betala allmosa till maken om personen är fattig. Detta beror på den allmänna innebörden av Allāhs ord: "Offergåvorna är avsedda enbart för de…'
 ---
 
 **Fråga:** Får en kvinna betala allmosa till sin make om personen är fattig?

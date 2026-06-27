@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsombud
 original_id: 793
-description: >-
-  Fråga: Om den som är på väg till platsen fastnar i trafiken fram till
-  eftermiddagsbönen, är det tillåtet att utse någon till att kasta stenarna på
-  pelarna? Svar: Den omnämnda personen måste sj...
+description: 'Den omnämnda personen måste själv kasta stenarna om personen har möjlighet att göra det. Personen har själv valt att hamna i trafikstockningen.'
 ---
 
 **Fråga:** Om den som är på väg till platsen fastnar i trafiken fram till eftermiddagsbönen, är det tillåtet att utse någon till att kasta stenarna på pelarna?

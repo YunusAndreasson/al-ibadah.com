@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 183
-description: >-
-  Fråga: Då det inte finns någon moské nära mig ber jag ibland den obligatoriska
-  bönen ensam. Krävs det då att jag gör böneutropet och iqāmah för varje bön
-  eller får jag be utan böneutrop och iqā...
+description: 'sunnah är att göra böneutropet och iqāmah, men om det är en skyldighet har de lärde olika åsikter.'
 ---
 
 **Fråga:** Då det inte finns någon moské nära mig ber jag ibland den obligatoriska bönen ensam. Krävs det då att jag gör böneutropet och *iqāmah* för varje bön eller får jag be utan böneutrop och *iqāmah*?

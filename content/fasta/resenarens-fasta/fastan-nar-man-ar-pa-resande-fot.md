@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Resenärens fasta
 original_id: 1403
-description: >-
-  Fråga: Är det ett villkor för att den som reser ska få medgivande att bryta
-  fastan under ramadan att personens resa är till fots eller med djur, eller är det
-  ingen skillnad om resan är till fots, m...
+description: 'Den resenär som reser, när personen får korta ned bönen, får bryta fastan under resan. Det spelar ingen roll om personen går eller rider, och det spelar…'
 ---
 
 **Fråga:** Är det ett villkor för att den som reser ska få medgivande att bryta fastan under *ramaḍān* att personens resa är till fots eller med djur, eller är det ingen skillnad om resan är till fots, med riddjur, med bil eller med flygplan? Är det ett villkor att resan måste vara tröttsam till den grad att den fastande inte kan klara fastan? Är det bättre för resenären att fasta om personen har möjlighet eller är det bättre att inte fasta?

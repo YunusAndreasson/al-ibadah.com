@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Den stora tvagningen
 original_id: 1427
-description: >-
-  Fråga: Ibland kommer jag ihåg erotiska drömmar när jag vaknar, men jag ser
-  inga spår av utlösning. Måste jag göra g̲husl då? Vänligen, ge mig ett
-  utlåtande. Må Allāh belöna dig. Svar: Den som...
+description: 'Den som har haft en erotisk dröm behöver inte göra g̲husl utom om personen finner vätska som är sperma.'
 ---
 
 **Fråga:** Ibland kommer jag ihåg erotiska drömmar när jag vaknar, men jag ser inga spår av utlösning. Måste jag göra *g̲husl* då? Vänligen, ge mig ett utlåtande. Må Allāh belöna dig.

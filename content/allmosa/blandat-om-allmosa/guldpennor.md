@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Övrigt
 original_id: 649
-description: >-
-  Fråga: En gåva kom till mig i form av en guldpenna. Vilket är utlåtandet om
-  att använda den? Skall man betala allmosa för pennor? Vänligen, hjälp mig med
-  ett svar och må Allāh belöna er. Svar: ...
+description: 'Den mest korrekta åsikten är att män inte får använda dem. Anledningen är den allmänna innebörden av profetens – över honom vare Allāhs frid och…'
 ---
 
 **Fråga:** En gåva kom till mig i form av en guldpenna. Vilket är utlåtandet om att använda den? Skall man betala allmosa för pennor? Vänligen, hjälp mig med ett svar och må Allāh belöna er.

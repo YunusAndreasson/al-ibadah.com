@@ -7,8 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
 original_id: 81
-description: 'Fråga: Vilket är utlåtandet om kvinnor som besöker gravar? Svar: Kvinnor
- får inte besöka gravar. Profeten – över honom vare Allāhs frid och välsignelser – förbannade kvinnor som besökte gravar...'
+description: 'Kvinnor får inte besöka gravar. Profeten – över honom vare Allāhs frid och välsignelser – förbannade kvinnor som besökte gravar.'
 ---
 
 **Fråga:** Vilket är utlåtandet om kvinnor som besöker gravar?

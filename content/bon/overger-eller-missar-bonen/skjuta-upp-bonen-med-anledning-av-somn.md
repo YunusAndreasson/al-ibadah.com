@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 251
-description: >-
-  Fråga: Jag är en ung tjej som med anledning av sömn ofta missar kvällsbönen.
-  Jag tar igen den senare. Vilket är utlåtandet om detta? Svar: Utlåtandet är
-  att det inte är tillåtet att vara så ...
+description: 'Utlåtandet är att det inte är tillåtet att vara så ovarsam med bönen att tiden för den går ut.'
 ---
 
 **Fråga:** Jag är en ung tjej som med anledning av sömn ofta missar kvällsbönen. Jag tar igen den senare. Vilket är utlåtandet om detta?

@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ikappfasta
 original_id: 463
-description: >-
-  Fråga: Jag drabbades av en allvarlig sjukdom för ungefär fem år sedan och det
-  inträffade under den välsignade månaden ramadan. Därmed hade jag inte
-  möjlighet att fasta den månaden och jag har inte...
+description: 'Du måste ångra dig inför Allāh för denna väldiga försening. Det var en skyldighet för dig att fasta de dagar som du inte fastade innan nästa ramaḍān kom…'
 ---
 
 **Fråga:** Jag drabbades av en allvarlig sjukdom för ungefär fem år sedan och det inträffade under den välsignade månaden *ramaḍān*. Därmed hade jag inte möjlighet att fasta den månaden och jag har inte fastat den ännu. Får jag då ta igen vad jag har missat och har jag syndat? Vänligen, hjälp mig med ett svar. Må Allāh belöna och skydda er.

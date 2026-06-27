@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 365
-description: >-
-  Fråga: Vilket är det lägsta antal som behöver vara närvarande för att en
-  fredagspredikan ska kunna hållas? Svar: Det finns många olika åsikter, men det
-  mest korrekta är att det lägsta antale...
+description: 'Det finns många olika åsikter, men det mest korrekta är att det lägsta antalet är tre: imamen och två personer till.'
 ---
 
 **Fråga:** Vilket är det lägsta antal som behöver vara närvarande för att en fredagspredikan ska kunna hållas?

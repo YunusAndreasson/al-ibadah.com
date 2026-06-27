@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 1154
-description: >-
-  Fråga: Vilket är utlåtandet om böneutrop för resenärer? Svar: De lärde hade olika
-  åsikter. Den korrekta åsikten är att böneutrop är obligatorisk för resenärer.
-  Detta beror på vad profeten – över ho...
+description: 'De lärde hade olika åsikter. Den korrekta åsikten är att böneutrop är obligatorisk för resenärer.'
 ---
 
 **Fråga:** Vilket är utlåtandet om böneutrop för resenärer?

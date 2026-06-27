@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Begravningsbön
 original_id: 1012
-description: >-
-  Fråga: Är det tillåtet att be över en avliden som inte finns på platsen eller
-  finns det speciella villkor för det? Svar: Den starkaste åsikten av de lärdas
-  uttalanden är att det inte är tillå...
+description: 'Den starkaste åsikten av de lärdas uttalanden är att det inte är tillåtet att be begravningsbönen utom för den som ingen har bett över.'
 ---
 
 **Fråga:** Är det tillåtet att be över en avliden som inte finns på platsen eller finns det speciella villkor för det?

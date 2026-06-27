@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Den stora tvagningen
 original_id: 253
-description: >-
-  Fråga: Jag brukade onanera och jag gjorde då inte ghusl . Jag bad och fastade
-  därmed utan ghusl, då jag inte kände till att jag behövde göra ghusl på grund
-  av detta. Jag vet inte hur många bö...
+description: 'Du har begått ett allvarligt misstag. Onani är förbjudet trots att vissa lärde har tillåtit det på grund av rädsla för otukt.'
 ---
 
 **Fråga:** Jag brukade onanera och jag gjorde då inte *g̲husl*. Jag bad och fastade därmed utan *g̲husl*, då jag inte kände till att jag behövde göra *g̲husl* på grund av detta. Jag vet inte hur många bönecykler som jag har bett i detta tillstånd.

@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ikappfasta
 original_id: 459
-description: >-
-  Fråga: En man avled under ‘eidul-fiṭr . Under den första eller andra dagen i
-  fastmånaden blev han sjuk. Hela ramadan gick och han fastade inte. Behöver
-  hans arvtagare då fasta för hans räkning ef...
+description: 'Om den sjuke bröt fastan eftersom han inte kunde fasta och inte hade möjlighet att ta igen den på grund av att han gick bort under ´eid al-fiṭr, då är det…'
 ---
 
 **Fråga:** En man avled under *´eid al-fiṭr*. Under den första eller andra dagen i fastmånaden blev han sjuk. Hela *ramaḍān* gick och han fastade inte. Behöver hans arvtagare då fasta för hans räkning efter hans bortgång eller behöver de ge mat?

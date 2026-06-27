@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Den stora tvagningen
 original_id: 1547
-description: >-
-  Fråga: Är det obligatoriskt eller enbart fördelaktigt att göra g̲husl under
-  fredagar? Svar: Att göra g̲husl under fredagar är en högst rekommenderad sunnah
-  . Detta enligt autentiska ahādīt...
+description: 'Att göra g̲husl under fredagar är en högst rekommenderad sunnah. Detta enligt autentiska aḥādīt̲h som har återberättats från profeten – över honom vare…'
 ---
 
 **Fråga:** Är det obligatoriskt eller enbart fördelaktigt att göra *g̲husl* under fredagar?

@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1622
-description: >-
-  Fråga: Får de nära och kära, grannar och vänner samlas för att namnge det
-  nyfödda barnet eller är denna festlighet en innovation och otro? Svar: Att
-  anordna en festlighet för det nyfödda barnet...
+description: 'Att anordna en festlighet för det nyfödda barnet är inte från profetens – över honom vare Guds frid och välsignelser – sunnah och det inträffade inte under…'
 ---
 
 **Fråga:** Får de nära och kära, grannar och vänner samlas för att namnge det nyfödda barnet eller är denna festlighet en innovation och otro?

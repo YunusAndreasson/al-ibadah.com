@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 1669
-description: >-
-  Fråga: Många studenter håller Koranen när de har uträttat sina behov. Detta är
-  en vana i många skolor. Men Allāh den Allsmäktige säger: ” Som inga andra än
-  de rena ska röra .” [Koranen 56:79] L...
+description: 'Lärare och föräldrar måste lära barnen skyldigheterna i dyrkan. Att recitera Koranen från muṣḥaf är en del av detta och här krävs fullständig renhet.'
 ---
 
 **Fråga:** Många studenter håller Koranen när de har uträttat sina behov. Detta är en vana i många skolor. Men Allāh den Allsmäktige säger: ”*Som inga andra än de rena ska röra*.” [^1] Likaså har Allāhs sändebud – över honom vare Allāhs frid och välsignelser – sagt: ”*Ingen utom den rene kan röra Koranen*.” [Ibn Hibban 793 och *ad-Dāraquṭnī*] Vilket är utlåtandet? Syndar man om man rör Koranen utan att vara ren?

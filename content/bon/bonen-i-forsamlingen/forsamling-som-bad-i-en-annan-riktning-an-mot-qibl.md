@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 938
-description: >-
-  Fråga: Vilket är utlåtandet om bönen för en församling som ber mot en annan
-  riktning än qiblah? Svar: I denna fråga gäller enbart två möjligheter: De är
-  på en plats där det inte är m...
+description: 'I denna fråga gäller enbart två möjligheter: 1. De är på en plats där det inte är möjligt att säkerställa riktningen mot qiblah, som när de reser och…'
 ---
 
 **Fråga:** Vilket är utlåtandet om bönen för en församling som ber mot en annan riktning än *qiblah*?

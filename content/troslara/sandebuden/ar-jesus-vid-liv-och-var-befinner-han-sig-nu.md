@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 129
-description: >-
-  Fråga: Är Jesus, Marias son, vid liv? Var befinner han sig om han är vid liv?
-  Vilka bevis finns i Allāhs skrift och profetens – över honom vare Allāhs frid
-  och välsignelser – sunnah? Svar: ...
+description: 'Jesus, Marias son, är vid liv. Judarna varken dödade eller korsfäste honom, men de trodde att de gjorde det.'
 ---
 
 **Fråga:** Är Jesus, Marias son, vid liv? Var befinner han sig om han är vid liv? Vilka bevis finns i Allāhs skrift och profetens – över honom vare Allāhs frid och välsignelser – *sunnah*?

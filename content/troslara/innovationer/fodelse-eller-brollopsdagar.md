@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 1107
-description: >-
-  Fråga: Vilket är utlåtandet om att ordna födelsedagsfester för barn och vilket
-  är utlåtandet om att fira bröllopsdagar? Svar: Det finns inga högtider inom
-  islam utom den veckovisa fredagen, de...
+description: 'Det finns inga högtider inom islam utom den veckovisa fredagen, den första dagen i s̲hawwāl och den tionde dagen i d̲hul-ḥijjah [´eidul-aḍḥā].'
 ---
 
 **Fråga:** Vilket är utlåtandet om att ordna födelsedagsfester för barn och vilket är utlåtandet om att fira bröllopsdagar?

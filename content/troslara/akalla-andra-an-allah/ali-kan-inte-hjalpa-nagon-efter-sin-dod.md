@@ -8,9 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Åkallan av döda
 original_id: 28
-description: 'Fråga: Kan Ali hjälpa någon under tider av svårigheter? Svar: Ali
- mördades utan att vara medveten om sin mördares planer, ej heller kunde han skydda
- sig mot det. Hur kan det då påstås att han ...'
+description: 'Ali mördades utan att vara medveten om sin mördares planer, ej heller kunde han skydda sig mot det.'
 ---
 
 **Fråga:** Kan Ali hjälpa någon under tider av svårigheter?

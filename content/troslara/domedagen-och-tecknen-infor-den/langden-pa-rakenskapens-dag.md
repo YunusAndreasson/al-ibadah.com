@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Domedagen och dess tecken
 original_id: 526
-description: >-
-  Fråga: Är Räkenskapens Dag en dag? Svar: Räkenskapens Dag är en dag men det är
-  en dag vars längd är som 50 000 år. Allāh säger i Koranen: ”En man frågade om
-  ett straff som väntar dem som ...
+description: 'Räkenskapens Dag är en dag men det är en dag vars längd är som 50 000 år. Allāh säger i Koranen: > ”En man frågade om ett straff som väntar dem som…'
 ---
 
 **Fråga:** Är Räkenskapens Dag en dag?

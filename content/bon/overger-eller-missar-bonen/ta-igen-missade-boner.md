@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 186
-description: >-
-  Fråga: Hur tar man igen missade böner? Svar: Har du med en giltig ursäkt
-  missat några böner, som sjukdom eller medvetslöshet, då måste du ta igen dem
-  så fort som möjligt när du känner dig fris...
+description: 'Har du med en giltig ursäkt missat några böner, som sjukdom eller medvetslöshet, då måste du ta igen dem så fort som möjligt när du känner dig frisk och…'
 ---
 
 **Fråga:** Hur tar man igen missade böner?

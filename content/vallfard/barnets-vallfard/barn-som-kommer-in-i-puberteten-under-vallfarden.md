@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Barnets vallfärd
 original_id: 708
-description: >-
-  Fråga: Då jag var barn vallfärdade jag med min familj. Under den åttonde dagen
-  i thul-hijjah hade jag en våt dröm. Jag tog då ett fullständigt bad, tog på
-  mig nya kläder för ihrām och fullfölj...
+description: 'Kommer barnet in i puberteten under vallfärden – vid eller före ´Arafāt; och under ´umrah, före dess ṭawāf – då är detta tillräckligt för att skyldigheten…'
 ---
 
 **Fråga:** Då jag var barn vallfärdade jag med min familj. Under den åttonde dagen i *d̲hul-ḥijjah* hade jag en våt dröm. Jag tog då ett fullständigt bad, tog på mig nya kläder för *iḥrām* och fullföljde min vallfärd. Efter sju år ställde jag en fråga om denna vallfärd och jag fick höra att den inte var tillräcklig. Jag skulle vilja vallfärda för min bortgångna mors räkning. Hon har enbart vallfärdat en gång. Kommer den vallfärd som jag gör för henne att accepteras, eller måste jag vallfärda själv först?

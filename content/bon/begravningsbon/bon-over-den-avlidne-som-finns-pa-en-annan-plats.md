@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Begravningsbön
 original_id: 389
-description: >-
-  Fråga: Hur ber vi över en bortgången som inte finns hos oss? Svar: Bönen över
-  någon som har gått bort och som finns på en annan plats går till på samma sätt
-  som bönen över någon som finns närv...
+description: 'Bönen över någon som har gått bort och som finns på en annan plats går till på samma sätt som bönen över någon som finns närvarande.'
 ---
 
 **Fråga:** Hur ber vi över en bortgången som inte finns hos oss?

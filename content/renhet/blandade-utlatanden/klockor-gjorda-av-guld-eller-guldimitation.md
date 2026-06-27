@@ -7,9 +7,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 1314
-description: 'Fråga: Får män ha på sig guldpläterade klockor? Svar: All lovprisan
- tillhör Allāh. Detta är tillåtet för kvinnor, men för män är det inte tillåtet om
- klockan är av guld eller om den är guldplä...'
+description: 'All lovprisan tillhör Allāh. Detta är tillåtet för kvinnor, men för män är det inte tillåtet om klockan är av guld eller om den är guldpläterad.'
 ---
 
 **Fråga:** Får män ha på sig guldpläterade klockor?

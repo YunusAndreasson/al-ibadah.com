@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 805
-description: >-
-  Fråga: En man utförde under väldig trängsel ṭawāful-ifāḍah och han rörde en
-  kvinnas kropp. Denna kvinna var inte släkt med honom. Gör detta hans tawāf
-  ogiltig, så att han bör göra om den med ...
+description: 'En man som rör en kvinnas kropp under hans ṭawāf, eller i folksamlingar vid någon annan plats, får inte sin ṭawāf eller tvagning förstörd.'
 ---
 
 **Fråga:** En man utförde under väldig trängsel *ṭawāf ul-ifāḍah* och han rörde en kvinnas kropp. Denna kvinna var inte släkt med honom. Gör detta hans *ṭawāf* ogiltig, så att han bör göra om den med tanke på tvagningen?

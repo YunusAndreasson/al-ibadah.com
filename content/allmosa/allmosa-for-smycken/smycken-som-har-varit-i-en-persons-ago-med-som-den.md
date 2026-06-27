@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Allmosa för smycken
 original_id: 621
-description: >-
-  Fråga: Det finns en kvinna som har lite guld som når nivån då allmosa krävs.
-  Men hon visste inte att det är obligatoriskt att betala allmosa för det förrän
-  hon hade ägt det under fem år. Därför vi...
+description: 'För smycken måste hon betala allmosa varje år om de uppnår den lägsta nivån som gör det till ett krav.'
 ---
 
 **Fråga:** Det finns en kvinna som har lite guld som når nivån då allmosa krävs. Men hon visste inte att det är obligatoriskt att betala allmosa för det förrän hon hade ägt det under fem år. Därför vill hon betala allmosa men hon har inget annat än detta guld.

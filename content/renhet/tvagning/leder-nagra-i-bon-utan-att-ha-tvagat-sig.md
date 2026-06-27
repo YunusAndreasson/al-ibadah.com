@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1539
-description: >-
-  Fråga: En man ledde några andra i en av de obligatoriska bönerna och när de
-  hade bett och skingrats kom han på att han inte hade tvagat sig. Han upprepade
-  då bönen ensam när han hade tvättat sig. ...
+description: 'Bönen för dem som leddes är giltig. Imamen bör tvaga sig på nytt och upprepa bönen. Detta grundas på profetens – över honom vare Allāhs frid och…'
 ---
 
 **Fråga:** En man ledde några andra i en av de obligatoriska bönerna och när de hade bett och skingrats kom han på att han inte hade tvagat sig. Han upprepade då bönen ensam när han hade tvättat sig. Är bönen giltig under dessa omständigheter eller måste han informera dem som bad bakom honom? Vad gör han om han inte känner dem?

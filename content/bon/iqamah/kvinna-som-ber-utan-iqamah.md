@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Det andra böneutropet
 original_id: 177
-description: >-
-  Fråga: Får en kvinna göra iqāmah för bönen? Får hon be utan den? Svar:
-  Böneutropet och iqāmah är föreskrivna för män men inte för kvinnor. Detta
-  enligt en återberättelse från al-Bayhaqī dä...
+description: 'Böneutropet och iqāmah är föreskrivna för män men inte för kvinnor. Detta enligt en återberättelse från al-Bayhaqī där han berättar att Ibn ´Umar har sagt:…'
 ---
 
 **Fråga:** Får en kvinna göra *iqāmah* för bönen? Får hon be utan den?

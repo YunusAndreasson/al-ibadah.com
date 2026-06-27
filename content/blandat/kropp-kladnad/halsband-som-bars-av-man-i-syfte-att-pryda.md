@@ -7,9 +7,7 @@ categories:
   - Blandat
   - Kropp och klädnad
 original_id: 1652
-description: 'Fråga: Vilket är utlåtandet om att bära halsband som vissa män gör? Svar: Att
- bära halsband för prydnad är inte tillåtet då det är något som är särskilt för
- kvinnor. Män imiterar då kvinnor nä...'
+description: 'Att bära halsband för prydnad är inte tillåtet då det är något som är särskilt för kvinnor.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att bära halsband som vissa män gör?

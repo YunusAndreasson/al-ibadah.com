@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 261
-description: >-
-  Fråga: Om en församling bad mot en annan riktning än qiblah och de inte kände
-  till den exakta riktningen, behöver de upprepa bönen då? Svar: Om de var i
-  öknen och använde deras omdömen för a...
+description: 'Om de var i öknen och använde deras omdömen för att ta reda på riktningen mot qiblah, då behöver de inte ta igen något.'
 ---
 
 **Fråga:** Om en församling bad mot en annan riktning än *qiblah* och de inte kände till den exakta riktningen, behöver de upprepa bönen då?

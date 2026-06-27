@@ -6,10 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsplikt
 original_id: 897
-description: >-
-  Fråga: Vad krävs för att man ska ha möjlighet att vallfärda? Svar: All
-  lovprisan tillhör Allāh. Definitionen för möjligheten att vallfärda är: fysisk
-  hälsa; medel för att resa till Allāhs he...
+description: 'All lovprisan tillhör Allāh. Definitionen för möjligheten att vallfärda är: fysisk hälsa; medel för att resa till Allāhs heliga hus med flygplan, bil,…'
 ---
 
 **Fråga:** Vad krävs för att man ska ha möjlighet att vallfärda?

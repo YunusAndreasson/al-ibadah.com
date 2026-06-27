@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1400
-description: >-
-  Fråga: Om en ung eller gammal man kysser sin fru medan personen fastar, har personen
-  då syndat? Svar: Den fastande har inte syndat genom att kyssa sin fru oavsett
-  om personen är ung eller gammal. ...
+description: 'Den fastande har inte syndat genom att kyssa sin fru oavsett om personen är ung eller gammal.'
 ---
 
 **Fråga:** Om en ung eller gammal man kysser sin fru medan personen fastar, har personen då syndat?

@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdshinder
 original_id: 866
-description: 'Fråga: Vilket är utlåtandet om dem som slaktade ett offerdjur för att
- sedan lämna det? Är det tillräckligt? Svar: För den som slaktar ett offerdjur
- är det en plikt att leverera det till dem so...'
+description: 'För den som slaktar ett offerdjur är det en plikt att leverera det till dem som förtjänar det. Det är inte tillåtet att slakta djuret och sedan lämna det.'
 ---
 
 **Fråga:** Vilket är utlåtandet om dem som slaktade ett offerdjur för att sedan lämna det? Är det tillräckligt?

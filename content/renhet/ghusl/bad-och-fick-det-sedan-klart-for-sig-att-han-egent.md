@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Den stora tvagningen
 original_id: 933
-description: >-
-  Fråga: Om någon bad och det sedan blev klart att personen hade blivit oren på ett
-  sätt som kräver ghusl, vad bör personen göra då? Svar: Den som ber och efter
-  bönen finner att personen har en större ...
+description: 'Den som ber och efter bönen finner att personen har en större eller mindre orenhet måste rena sig från denna orenhet och upprepa bönen.'
 ---
 
 **Fråga:** Om någon bad och det sedan blev klart att personen hade blivit oren på ett sätt som kräver *g̲husl*, vad bör personen göra då?

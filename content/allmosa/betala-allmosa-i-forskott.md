@@ -6,9 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Voly
 categories:
   - Allmosa (Zakāh)
 original_id: 611
-description: 'Fråga: Jag är anställd och varje månad får jag lön som jag sparar en
- del av. Det finns ingen direkt procentandel på hur mycket jag sparar, så hur betalar
- jag allmosa för dessa tillgångar? Svar:...'
+description: 'Du måste betala allmosa för varje del som du har sparat om du har haft den i din ägo under ett år.'
 ---
 
 **Fråga:** Jag är anställd och varje månad får jag lön som jag sparar en del av. Det finns ingen direkt procentandel på hur mycket jag sparar, så hur betalar jag allmosa för dessa tillgångar?

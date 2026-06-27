@@ -6,9 +6,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 590
-description: 'Fråga: En kvinna började blöda och fortsatte att göra det under nio
- dagar, under denna tid bad hon inte, då hon trodde att hon fått sin månadsblödning.
- Efter några dagar började dock hennes riktig...'
+description: 'Det som är bäst för henne är att ta igen de böner som hon har missat under de dagarna hon trodde att hon fått sin månadsblödning.'
 ---
 
 **Fråga:** En kvinna började blöda och fortsatte att göra det under nio dagar, under denna tid bad hon inte, då hon trodde att hon fått sin månadsblödning. Efter några dagar började dock hennes riktiga månadsblödning, så vad bör hon göra? Bör hon ta igen de böner hon missat, då hon trodde att hon hade sin riktiga månadsblödning?

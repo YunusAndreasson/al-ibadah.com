@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 824
-description: >-
-  Fråga: Är det tillåtet att utföra sa’ī innan ṭawāf, oberoende av om det är
-  under vallfärden eller ‘umrah? Svar: Det som är sunnah är att ṭawāf utförs
-  först och sedan sa’ī efter den...
+description: 'Det som är sunnah är att ṭawāf utförs först och sedan sa´ī efter den. Om någon utför sa´ī före ṭawāf, på grund av okunskap från personens sida, då är det…'
 ---
 
 **Fråga:** Är det tillåtet att utföra *sa´ī* innan *ṭawāf*, oavsett om det är under vallfärden eller *´umrah*?

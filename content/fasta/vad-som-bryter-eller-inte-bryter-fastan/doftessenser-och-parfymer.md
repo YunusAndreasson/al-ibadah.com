@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 422
-description: >-
-  Fråga: Är det tillåtet att använda parfym som 'uud-olja, cologne och vällukt
-  dagtid under ramadan? Svar: Ja, det är tillåtet att använda detta under
-  villkor att rökelsens rök inte andas in.
+description: 'Ja, det är tillåtet att använda detta under villkor att rökelsens rök inte andas in.'
 ---
 
 **Fråga:** Är det tillåtet att använda parfym som 'uud-olja, cologne och vällukt dagtid under *ramaḍān*?

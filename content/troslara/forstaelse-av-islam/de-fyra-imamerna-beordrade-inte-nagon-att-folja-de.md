@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 154
-description: >-
-  Fråga: Det finns olika åsikter i många frågor bland de lärde när det gäller
-  rättsvetenskap – jag syftar på de fyra rättsskolorna. Vad ska den som tillhör
-  en viss rättsskola göra om personen finner ...
+description: 'Det råder inga tvivel om att en muslim avser att finna sanningen och handla efter den när han finner den.'
 ---
 
 **Fråga:** Det finns olika åsikter i många frågor bland de lärde när det gäller rättsvetenskap – jag syftar på de fyra rättsskolorna. Vad ska den som tillhör en viss rättsskola göra om personen finner något i en annan skola som passar personen i en viss fråga? Ett exempel är den allmosa som betalas för prydnadssmycken. Jag följer en skola där det inte är en skyldighet att betala något för dem, men jag hör från många andra lärde att det är obligatoriskt att betala allmosa för dem.

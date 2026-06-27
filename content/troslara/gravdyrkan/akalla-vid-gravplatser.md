@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
 original_id: 1190
-description: >-
-  Fråga: Vilket är utlåtandet om att åkalla vid sidan av en grav till den som
-  ligger begravd i den? Svar: Åkallan delas in i två kategorier: Åkallan i form
-  av dyrkan som kan vara bön, fasta e...
+description: 'Åkallan delas in i två kategorier: Åkallan i form av dyrkan som kan vara bön, fasta eller annan dyrkan.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att åkalla vid sidan av en grav till den som ligger begravd i den?

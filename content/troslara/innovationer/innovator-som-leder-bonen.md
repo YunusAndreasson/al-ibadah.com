@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 1572
-description: >-
-  Fråga: Är bön bakom en innovatör eller någon som låter klädesplagget falla
-  nedanför vristen giltig? Svar: Ja, bönen är giltig så länge innovationen inte
-  leder till otro. Om innovationen leder ...
+description: 'Ja, bönen är giltig så länge innovationen inte leder till otro. Om innovationen leder till otro, som för al-Jahmni [En kättersk filosofi döpt efter dess…'
 ---
 
 **Fråga:** Är bön bakom en innovatör eller någon som låter klädesplagget falla nedanför vristen giltig?

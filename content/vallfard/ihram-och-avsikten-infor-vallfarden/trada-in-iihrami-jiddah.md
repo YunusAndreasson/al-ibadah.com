@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 1339
-description: >-
-  Fråga: Somliga ger fatwa till dem som kommer med flygplan för att vallfärda.
-  De säger att de får träda in i ihrām i Jiddah. Samtidigt är andra emot det.
-  Vilken är den korrekta åsikten? Vänligen,...
+description: 'Det som är en skyldighet för alla pilgrimer under vallfärden [oavsett om de kommer landvägen, med plan eller med båt] är att de går in i iḥrām vid den…'
 ---
 
 **Fråga:** Somliga ger fatwa till dem som kommer med flygplan för att vallfärda. De säger att de får träda in i *iḥrām* i Jiddah. Samtidigt är andra emot det. Vilken är den korrekta åsikten? Vänligen, ge oss ert utlåtande.

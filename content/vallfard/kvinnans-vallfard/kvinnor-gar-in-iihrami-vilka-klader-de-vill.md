@@ -6,10 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - Kvinnans vallfärd
 original_id: 910
-description: >-
-  Fråga: Får en kvinna gå in i ihrām i vilka kläder hon vill? Svar: Ja, hon kan
-  träda in i ihrām i vilka kläder hon än vill. Hon behöver inte ha en viss typ
-  av kläder som hon behöver bära fö...
+description: 'Ja, hon kan träda in i iḥrām i vilka kläder hon än vill. Hon behöver inte ha en viss typ av kläder som hon behöver bära för iḥrām, vilket många överlag…'
 ---
 
 **Fråga:** Får en kvinna gå in i *iḥrām* i vilka kläder hon vill?

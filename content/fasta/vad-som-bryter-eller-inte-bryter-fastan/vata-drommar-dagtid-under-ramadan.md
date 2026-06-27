@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 433
-description: >-
-  Fråga: Om den som fastar har en våt dröm dagtid under ramadan, bryter det
-  fastan då? Är personen skyldig att ta ett fullständigt bad direkt efteråt? Svar:
-  Våta drömmar gör inte fastan ogiltig då d...
+description: 'Våta drömmar gör inte fastan ogiltig då de inte är något den som fastar har valt själv. Personen måste ta ett fullständigt bad på samma sätt som efter en…'
 ---
 
 **Fråga:** Om den som fastar har en våt dröm dagtid under *ramaḍān*, bryter det fastan då? Är personen skyldig att ta ett fullständigt bad direkt efteråt?

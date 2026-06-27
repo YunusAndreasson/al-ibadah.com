@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nattbön
 original_id: 1512
-description: >-
-  Fråga: Hur ber man witr och reciterar man högt? Svar: Det är att föredra att
-  be tretton eller elva bönecykler och att göra taslīm för varannan bönecykel.
-  Efter *al-Fātiḥah* i varje bönecykel...
+description: 'Det är att föredra att be tretton eller elva bönecykler och att göra taslīm för varannan bönecykel.'
 ---
 
 **Fråga:** Hur ber man *witr* och reciterar man högt?

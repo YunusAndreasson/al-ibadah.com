@@ -6,10 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - Pilgrimskläder
 original_id: 909
-description: >-
-  Fråga: Är det tillåtet att byta ihrām -kläderna för att tvätta den? Svar: Det
-  är inga problem med att tvätta ens ihrām -kläder eller att byta dem och
-  använda en ny eller tvättad ihrām -kläd...
+description: 'Det är inga problem med att tvätta ens iḥrām-kläder eller att byta dem och använda en ny eller tvättad iḥrām-klädsel.'
 ---
 
 **Fråga:** Är det tillåtet att byta *iḥrām*-kläderna för att tvätta dem?

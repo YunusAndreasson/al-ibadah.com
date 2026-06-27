@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 528
-description: >-
-  Fråga: Har människan en fri vilja eller följer vi en väg som Allāh har stakat
-  ut? Svar: Frågeställaren bör fråga sig om någon tvingade honom att ställa
-  denna fråga, om han själv har bestämt vi...
+description: 'Frågeställaren bör fråga sig om någon tvingade honom att ställa denna fråga, om han själv har bestämt vilken bil han vill ha och liknande frågor.'
 ---
 
 **Fråga:** Har människan en fri vilja eller följer vi en väg som Allāh har stakat ut?

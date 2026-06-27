@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 185
-description: >-
-  Fråga: Vilket är utlåtandet om den som ber en obligatorisk bön bakom någon som
-  ber en frivillig? Svar: Utlåtandet är att detta är korrekt. Medan profeten –
-  över honom vare Allāhs frid och väls...
+description: 'Utlåtandet är att detta är korrekt. Medan profeten – över honom vare Allāhs frid och välsignelser – reste så ledde han ett antal följeslagare i rädslebönen…'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som ber en obligatorisk bön bakom någon som ber en frivillig?

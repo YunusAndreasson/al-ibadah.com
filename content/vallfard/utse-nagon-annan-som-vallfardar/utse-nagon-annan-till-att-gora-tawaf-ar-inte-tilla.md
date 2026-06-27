@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsombud
 original_id: 795
-description: >-
-  Fråga: Min mor åkte tillsammans med min far på vallfärd. Tillsammans med dem
-  fanns det tre män i gruppen. Männen hade sina fruar med sig för att de skulle
-  kunna utföra den obligatoriska vallf...
+description: 'Det är inte tillåtet att utse någon annan till att utföra ṭawāf, oavsett om det är ṭawāf uz-ziyārah [al-ifāḍah] eller om det är en ṭawāf ul-wadā´.'
 ---
 
 **Fråga:** Min mor åkte tillsammans med min far på vallfärd. Tillsammans med dem fanns det tre män i gruppen. Männen hade sina fruar med sig för att de skulle kunna utföra den obligatoriska vallfärden. De utförde skyldigheterna och när det var dags för *ṭawāf ul-wadā´* var det trängsel runt helgedomen. Kvinnorna som var tillsammans med min mor hade inte möjlighet att komma ned till det inre i helgedomen. De utsåg då männen [till att göra *ṭawāf* för dem]. Min mor svor dock att göra sin *ṭawāf* själv, så hon uppfyllde sin ed. Min fråga är hur utlåtandet är om hennes ed när hon var inne i helgedomen och om det är tillåtet att utse någon till att utföra *ṭawāf*?

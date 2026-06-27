@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 360
-description: >-
-  Fråga: Finns det något fördelaktigt med att recitera sura al-Kahf under
-  fredagar? Stämmer det att den timme då åkallan besvaras under fredagar är
-  mellan det första och det andra böneutropet? Sv...
+description: 'En ḥadīt̲h har återberättats om förtjänsten med att recitera sura al-Kahf under fredagar. Ibn Kathīr nämner den i början av sin tafsīr.'
 ---
 
 **Fråga:** Finns det något fördelaktigt med att recitera sura al-Kahf under fredagar? Stämmer det att den timme då åkallan besvaras under fredagar är mellan det första och det andra böneutropet?

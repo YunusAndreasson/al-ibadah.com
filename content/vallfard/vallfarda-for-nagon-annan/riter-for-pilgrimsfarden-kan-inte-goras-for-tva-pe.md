@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Ställföreträdande vallfärd
 original_id: 1327
-description: >-
-  Fråga: All lovprisan tillhör Allāh. Vi beger oss till Mecka varje år för att
-  utföra ´umrah under den välsignade månaden ramadan. När vi ger oss av utformar
-  jag avsikten att göra ´umrah för min...
+description: 'Ja, det är korrekt enligt de lärda. De säger att de heliga [vallfärds]riterna inte kan utföras för två personer.'
 ---
 
 **Fråga:** All lovprisan tillhör Allāh. Vi beger oss till Mecka varje år för att utföra *´umrah* under den välsignade månaden *ramaḍān*. När vi ger oss av utformar jag avsikten att göra *´umrah* för min far och nästa gång utformar jag avsikten för att utföra den för min moder. Förra gången vi gav oss av utformade jag dock avsikten för båda två. När jag sedan tillfrågades om denna *´umrah* sades det till mig att den räknades för mig och inte för dem. Är detta korrekt?

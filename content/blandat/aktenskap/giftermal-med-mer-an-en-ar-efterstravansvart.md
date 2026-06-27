@@ -7,9 +7,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1624
-description: 'Fråga: Vissa män gifter sig med fler än en kvinna utav stolthet eller
- för att tävla med varandra utan att det finns något direkt behov. Är detta tillåtet?
- Vilket är ditt råd till män och kvinnor s...'
+description: 'Att gifta sig med mer än en är något eftersträvansvärt under villkoret att mannen har de finansiella medlen och den fysiska förmågan till att vara rättvis…'
 ---
 
 **Fråga:** Vissa män gifter sig med fler än en kvinna utav stolthet eller för att tävla med varandra utan att det finns något direkt behov. Är detta tillåtet? Vilket är ditt råd till män och kvinnor som motsätter sig månggifte även när det finns ett behov till det?

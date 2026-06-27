@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Muzdalifah-natten
 original_id: 840
-description: >-
-  Fråga: Vilket är utlåtandet om att spendera natten i Muzdalifah? Svar: Pilgrim
-  måste spendera natten före den tionde thul-hijjah i Muzdalifah. Han gör det
-  fram till gryningsbönen om han inte...
+description: 'Pilgrim måste spendera natten före den tionde d̲hul-ḥijjah i Muzdalifah. Han gör det fram till gryningsbönen om han inte har en ursäkt, som sjukdom eller…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att spendera natten i *Muzdalifah*?

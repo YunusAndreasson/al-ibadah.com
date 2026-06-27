@@ -7,9 +7,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Voly
 categories:
   - Allmosa (Zakāh)
 original_id: 610
-description: 'Fråga: En anställd sparar varierande summor från sin månadslön. En
- månad kan det vara lite mindre och en annan månad kan det vara lite mer. En del
- kan den anställde ha haft under ett år och en d...'
+description: 'Då båda frågorna har samma innebörd har kommittén bestämt sig för att svara med ett allomfattande svar som innefattar båda dessa omständigheter.'
 ---
 
 **Fråga:** En anställd sparar varierande summor från sin månadslön. En månad kan det vara lite mindre och en annan månad kan det vara lite mer. En del kan den anställde ha haft under ett år och en del har inte varit i personens ägo under ett år. Personen vet inte hur mycket som har sparats varje månad så hur betalar personen då allmosan?

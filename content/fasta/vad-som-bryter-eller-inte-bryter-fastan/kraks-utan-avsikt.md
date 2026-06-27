@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 431
-description: 'Fråga: När man kräks, förstör det då fastan? Svar: Det är mycket
- som inträffar den fastande utan att det sker avsiktligen. Detta kan vara skador,
- näsblödningar, kräkningar eller vatten eller å...'
+description: 'Det är mycket som inträffar den fastande utan att det sker avsiktligen. Detta kan vara skador, näsblödningar, kräkningar eller vatten eller ånga som kommer…'
 ---
 
 **Fråga:** När man kräks, förstör det då fastan?

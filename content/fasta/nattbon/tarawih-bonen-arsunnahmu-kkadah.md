@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadanens nattbön
 original_id: 1408
-description: >-
-  Fråga: Är tarāwīh -bönen enbart sunnah eller är den sunnat mu'kkadah ? Hur
-  utförs den? Svar: Den är sunnat mu'kkadah . Profeten – över honom vare Allāhs
-  frid och välsignelser – har uppmun...
+description: 'Den är sunnat mu''kkadah. Profeten – över honom vare Allāhs frid och välsignelser – har uppmuntrat till den genom att säga: "Den som står i bön [nattetid]…'
 ---
 
 **Fråga:** Är *tarāwīḥ*-bönen enbart *sunnah* eller är den *sunnat mu'kkadah*? Hur utförs den?

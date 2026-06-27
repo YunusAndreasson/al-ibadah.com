@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Medel för åkallan
 original_id: 34
-description: >-
-  Fråga: Att söka Allāhs närhet genom att slakta får vid de rättfärdigas gravar
-  är vanligt bland mitt folk. Jag motsade mig det, men de blev ännu orubbligare.
-  Jag sade: ”Detta är shirk .” De sade: ...
+description: 'Från bevisen i Koranen och profetens – över honom vare Allāhs frid och välsignelser – sunnah är det känt att det är s̲hirk att söka närhet genom att slakta…'
 ---
 
 **Fråga:** Att söka Allāhs närhet genom att slakta får vid de rättfärdigas gravar är vanligt bland mitt folk. Jag motsade mig det, men de blev ännu orubbligare. Jag sade: ”Detta är *s̲hirk*.” De sade: ”Vi dyrkar Allāh på bästa sätt! Vad är fel med att besöka Allāhs *awliyā’* och i vår åkallan säga: 'Allāh, vi ber Dig vid Din fromme tjänares rätt. Bota oss, eller undsätt oss från den-och-den olyckan.'” Jag sade till dem: "Det finns inget rum för medlare i vår religion." De sade: "Lämna oss i fred!"

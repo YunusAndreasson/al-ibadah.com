@@ -6,9 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsplikt
 original_id: 888
-description: 'Fråga: Innebär befallningen att vallfärda att man måste göra det
- direkt eller kan man göra det när man har tillfälle? Svar: Den korrekta åsikten
- är att man måste göra det direkt och den som...'
+description: 'Den korrekta åsikten är att man måste göra det direkt och den som har möjlighet att vallfärda till Allāhs heliga hus får inte skjuta upp det.'
 ---
 
 **Fråga:** Innebär befallningen att vallfärda att man måste göra det direkt eller kan man göra det när man har tillfälle?

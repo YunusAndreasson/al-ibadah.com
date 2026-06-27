@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
 original_id: 29
-description: >-
-  Fråga: Är placerandet av en krans på ”den okände soldatens grav” likvärdigt
-  med att upphöja de döda awliyā’ och rättfärdigt folk till den grad att de
-  dyrkas? Svar: Detta är en innovation sa...
+description: 'Detta är en innovation samt överdriven vördnad för de döda. Detta är likvärdigt med handlandet hos de som i för stor utsträckning visar vördnad av fromma…'
 ---
 
 **Fråga:** Är placerandet av en krans på ”den okände soldatens grav” likvärdigt med att upphöja de döda *awliyā’* och rättfärdigt folk till den grad att de dyrkas?

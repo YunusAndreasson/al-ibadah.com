@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 252
-description: >-
-  Fråga: Om jag missade en bön och jag vill be den tillsammans med en annan,
-  exempelvis ber jag middagsbönen tillsammans med eftermiddagsbönen, vilken ska
-  jag då be först? Svar: Du ber den bön...
+description: 'Du ber den bön som du har missat, som middagsbönen innan eftermiddagsbönen eller kvällsbönen innan nattbönen.'
 ---
 
 **Fråga:** Om jag missade en bön och jag vill be den tillsammans med en annan, exempelvis ber jag middagsbönen[^1] tillsammans med eftermiddagsbönen, vilken ska jag då be först?

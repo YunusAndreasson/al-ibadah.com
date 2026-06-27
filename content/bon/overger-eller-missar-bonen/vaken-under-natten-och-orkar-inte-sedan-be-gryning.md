@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1218
-description: >-
-  Fråga: Någon stannar uppe under natten och lyckas inte att be gryningsbönen
-  förrän efter den utsedda tiden. Accepteras detta från personen? Svar: Skjuter han
-  upp gryningsbönen till efter den avse...
+description: 'Skjuter han upp gryningsbönen till efter den avsedda tiden om han har möjlighet att be den vid den korrekta tidpunkten [då det är möjligt för honom att…'
 ---
 
 **Fråga:** Någon stannar uppe under natten och lyckas inte att be gryningsbönen förrän efter den utsedda tiden. Accepteras detta från personen?

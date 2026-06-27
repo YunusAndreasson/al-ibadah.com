@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Monoteism
 original_id: 1074
-description: >-
-  Fråga: På vilket sätt täcker vittnesmålet Lā ilāha illAllāh alla former av
-  tawḥīd? Svar: Det innefattar alla former av tawḥīd, antingen underförstått
-  eller som ett öppet krav. När någon ...
+description: 'Det innefattar alla former av tawḥīd, antingen underförstått eller som ett öppet krav. När någon säger: ”Jag vittnar om att ingen är värdig att dyrkas utom…'
 ---
 
 **Fråga:** På vilket sätt täcker vittnesmålet *Lā ilāha illAllāh* alla former av *tawḥīd*?

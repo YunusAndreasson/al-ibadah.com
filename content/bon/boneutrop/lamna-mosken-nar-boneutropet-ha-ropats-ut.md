@@ -6,9 +6,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 578
-description: 'Fråga: Är det tillåtet att lämna moskén efter böneutropet? Svar: Abū
- Hurairah såg en man lämna moskén efter att böneutropet hade ropats ut, och han sade
- om honom: ” När det gäller denna person...'
+description: 'Abū Hurairah såg en man lämna moskén efter att böneutropet hade ropats ut, och han sade om honom: ”När det gäller denna person har han gått emot…'
 ---
 
 **Fråga:** Är det tillåtet att lämna moskén efter böneutropet?

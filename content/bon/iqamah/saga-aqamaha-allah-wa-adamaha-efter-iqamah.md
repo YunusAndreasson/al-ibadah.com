@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Det andra böneutropet
 original_id: 559
-description: >-
-  Fråga: Ädla shaykh, vi hör ibland folk säga ” Aqāmahā Allāh wa adāmahā ” efter
-  iqāmah inför bönen. Är detta tillåtet? Svar: Det har nämnts i en hadīth ifrån
-  profeten – över honom vare Allā...
+description: 'Det har nämnts i en ḥadīt̲h ifrån profeten – över honom vare Allāhs frid och välsignelser – att när böneutroparen ropat ut iqāmah och sagt ”qad…'
 ---
 
 **Fråga:** Ädla *s̲hayk̲h*, vi hör ibland folk säga ”*Aqāmahā Allāh wa adāmahā*” efter *iqāmah* inför bönen. Är detta tillåtet?

@@ -6,10 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - ´Arafāt
 original_id: 883
-description: >-
-  Fråga: Vilka misstag brukar pilgrimer begå när de besöker ´Arafāt? Svar: All
-  lovprisan tillhör Allāh. Shaykh Muḥammad ibn ´Uthaymīn har svarat enligt
-  följande. Det har återberättats att profe...
+description: 'All lovprisan tillhör Allāh. s̲hayk̲h Muḥammad ibn ´Uthaymīn har svarat enligt följande. Det har återberättats att profeten – över honom vare Allāhs frid…'
 ---
 
 **Fråga:** Vilka misstag brukar pilgrimer begå när de besöker *´Arafāt*?

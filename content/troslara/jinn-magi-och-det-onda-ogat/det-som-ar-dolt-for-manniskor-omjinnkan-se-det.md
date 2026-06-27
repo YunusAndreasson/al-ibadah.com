@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - 'Jinn, magi och det onda ögat'
 original_id: 1089
-description: >-
-  Fråga: Kan jinn se det som är dolt för människor? Svar: Jinn känner inte till
-  det som är dolt för människor – ingen vare sig i himlarna eller på jorden
-  känner till det utom Allāh. Läs vad ...
+description: 'jinn känner inte till det som är dolt för människor – ingen vare sig i himlarna eller på jorden känner till det utom Allāh.'
 ---
 
 **Fråga:** Kan *jinn* se det som är dolt för människor[^1]?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Gottgörelser
 original_id: 862
-description: >-
-  Fråga: Vad måste den som hugger ned ett träd i helgedomen göra? Och vilka är
-  helgedomen gränser i Mecka? Svar: Den som hugger ned ett stort träd i
-  Helgedomen i Mecka måste slakta en kamel...
+description: 'Den som hugger ned ett stort träd i Helgedomen i Mecka måste slakta en kamel. Den som hugger ned ett litet träd måste slakta ett får.'
 ---
 
 **Fråga:** Vad måste den som hugger ned ett träd i helgedomen göra? Och vilka är helgedomen gränser i Mecka?

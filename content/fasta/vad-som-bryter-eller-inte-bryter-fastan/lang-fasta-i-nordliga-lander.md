@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 413
-description: >-
-  Fråga: I Skandinavien och norrut så får muslimerna där problem när nätterna
-  och dagarna är mycket långa eller mycket korta. Ibland varar dagen under 22
-  timmar och natten under 2. Under en annan ...
+description: 'Problemet i dessa länder gäller inte enbart fastan utan även bönen. Men om landet har både dag och natt är det en skyldighet att handla enligt påbudet…'
 ---
 
 **Fråga:** I Skandinavien och norrut så får muslimerna där problem när nätterna och dagarna är mycket långa eller mycket korta. Ibland varar dagen under 22 timmar och natten under 2. Under en annan årstid är förhållandet det motsatta. Detta inträffade en frågeställare när personen reste genom detta land en kväll under *ramaḍān*. Han sade även att i vissa områden kan det vara så att natten varar under 6 månader, och dagen en lika lång tid. Hur fastar man då i dessa länder?

@@ -6,10 +6,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 564
-description: >-
-  Fråga: Skall man uttala sin avsikt för bön, tvagning, tawāf eller sa’ī ? Svar:
-  Detta är en innovation då det inte har kommit till vår kännedom att profeten –
-  över honom vare Allāhs frid och...
+description: 'Detta är en innovation då det inte har kommit till vår kännedom att profeten – över honom vare Allāhs frid och välsignelser – eller hans följeslagare…'
 ---
 
 **Fråga:** Skall man uttala sin avsikt för bön, tvagning, *ṭawāf* eller *sa´ī*?

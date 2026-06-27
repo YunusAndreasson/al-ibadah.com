@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 959
-description: >-
-  Fråga: Har någon autentisk hadīth rapporterats om hur pekfingret ska röras
-  mellan de båda nedfallandena i bönen? Svar: Ja, en hadīth har återgivits
-  från Ibn ´Umar i Sahīh Muslim i vil...
+description: 'Ja, en ḥadīt̲h har återgivits från Ibn ´Umar i Ṣaḥīḥ Muslim i vilken han säger att profeten – över honom vare Allāhs frid och välsignelser – satt i bönen…'
 ---
 
 **Fråga:** Har någon autentisk *ḥadīt̲h* rapporterats om hur pekfingret ska röras mellan de båda nedfallandena[^1] i bönen?

@@ -7,10 +7,7 @@ source: >-
 categories:
   - Blandat
 original_id: 695
-description: >-
-  Fråga: Jag har under de senaste tio åren, till och från, bett Allāh den
-  Allsmäktige att Han ger mig en rättfärdig man och rättfärdiga barn. Men detta
-  har aldrig inträffat och jag vet att det är Al...
+description: 'I en ḥadīt̲h nämns att tjänarens åkallan kommer att besvaras så länge han inte har brådska, känner att svaret kommer att försenas och då jämrar sig över…'
 ---
 
 **Fråga:** Jag har under de senaste tio åren, till och från, bett Allāh den Allsmäktige att Han ger mig en rättfärdig man och rättfärdiga barn. Men detta har aldrig inträffat och jag vet att det är Allāhs vilja och att det inte finns något som kan avvärja det beslutade. Min fråga är denna: Jag har slutat att åkalla sedan en kort tid tillbaka, inte av misströstan efter ett svar, men jag började tro att jag inte bad om det som var bäst för mig. Jag tänkte detta därför att Allāh den Allsmäktige inte svarade mig. Jag bestämde mig för att inte åkalla då Allāh den Allsmäktige vet vad som är bäst för mig, trots min starka vilja att få mina böner införlivade. Vad måste jag göra i denna situation? Fortsätter jag att åkalla eller ska jag tro att det jag bad om inte är i mitt bästa intresse och därmed sluta fråga?

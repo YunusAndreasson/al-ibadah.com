@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 341
-description: 'Fråga: Kan man slå ihop och förkorta bönen om man reser 100 km till
- en annan stad? Svar: Ja, en resenär får både slå ihop böner och be dem separat
- vid deras fastslagna tider. Men om han uppehå...'
+description: 'Ja, en resenär får både slå ihop böner och be dem separat vid deras fastslagna tider. Men om han uppehåller sig någonstans, då är det bättre om han ber…'
 ---
 
 **Fråga:** Kan man slå ihop och förkorta bönen om man reser 100 km till en annan stad?

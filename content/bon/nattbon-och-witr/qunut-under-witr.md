@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nattbön
 original_id: 975
-description: >-
-  Fråga: Vi ber er att beskriva profetens – över honom vare Allāhs frid och
-  välsignelser – sunnah för åkallan i qunūt och berätta för oss om det finns
-  någon speciellt för den. Är det föreskrivet...
+description: 'Innefattat i åkallan för qunūt finns det som profeten – över honom vare Allāhs frid och välsignelser – lärde Ḥasan bin ´Alī bin Abū Talib: ”Allāhummahdini…'
 ---
 
 **Fråga:** Vi ber er att beskriva profetens – över honom vare Allāhs frid och välsignelser – *sunnah* för åkallan i *qunūt* och berätta för oss om det finns någon speciellt för den. Är det föreskrivet att göra den lång i *witr*-bönen?

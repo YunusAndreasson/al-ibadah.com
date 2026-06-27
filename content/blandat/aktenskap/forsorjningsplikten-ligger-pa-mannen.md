@@ -7,9 +7,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1626
-description: 'Fråga: Om kvinnan har ett jobb och hon får en hög lön, måste då mannen
- försörja henne? Vad gäller om hans inkomst är liten? Svar: Mannen måste försörja
- sin fru även om hon har en hög lön. Detta...'
+description: 'Mannen måste försörja sin fru även om hon har en hög lön. Detta beror på att när han försörjer henne är det som ett tack för den njutning hon ger honom.'
 ---
 
 **Fråga:** Om kvinnan har ett jobb och hon får en hög lön, måste då mannen försörja henne? Vad gäller om hans inkomst är liten?

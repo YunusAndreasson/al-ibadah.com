@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Övrigt
 original_id: 1412
-description: >-
-  Fråga: Vad avses med denna hadīth : ” Det finns ingen fasta för den som inte
-  utformar intentionen under natten [före fastan] .” Hur utformar man avsikten
-  under natten? Svar: Avsikten är att h...
+description: 'Avsikten är att hjärtat bestämmer sig för att fasta. Detta är nödvändigt för varje muslim som vet att Allāh har gjort fastan under ramaḍān till en…'
 ---
 
 **Fråga:** Vad avses med denna *ḥadīt̲h*: ”*Det finns ingen fasta för den som inte utformar intentionen under natten [före fastan]*.” Hur utformar man avsikten under natten?

@@ -8,9 +8,7 @@ categories:
   - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 135
-description: 'Fråga: Har buddisterna en Skrift? Svar: Vi känner inte till att
- de har en uppenbarad skrift. Utlåtandet om dem är att de dyrkar avgudar och skulle
- någon av dem byta till den judiska eller kris...'
+description: 'Vi känner inte till att de har en uppenbarad skrift. Utlåtandet om dem är att de dyrkar avgudar och skulle någon av dem byta till den judiska eller kristna…'
 ---
 
 **Fråga:** Har buddisterna en Skrift?

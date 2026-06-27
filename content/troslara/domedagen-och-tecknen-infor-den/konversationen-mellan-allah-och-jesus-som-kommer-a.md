@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Domedagen och dess tecken
 original_id: 1676
-description: >-
-  Fråga: I Koranen finns en detaljerad diskussion mellan Allāh den Allsmäktige
-  och Jesus. Allāh frågar honom: ”Jesus, son av Maria! Är det du som uppmanade
-  människorna att dyrka dig och din moder so...
+description: 'Skedde denna frågestund i denna världen, innan Jesus restes upp till himlen, eller kommer den att ske på Domedagen?'
 ---
 
 **Fråga:** I Koranen finns en detaljerad diskussion mellan Allāh den Allsmäktige och Jesus. Allāh frågar honom: ”Jesus, son av Maria! Är det du som uppmanade människorna att dyrka dig och din moder som gudomliga väsen vid sidan av Gud?” [^2]

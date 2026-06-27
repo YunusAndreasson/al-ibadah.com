@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Nattbön
 original_id: 581
-description: >-
-  Fråga: Är det tillåtet att lyfta händerna under witr -bönen? Svar: Det är
-  godkänt att lyfta händerna under witr -bönen när man läser åkallan. Det beror
-  på att denna sortens åkallan är av sam...
+description: 'Det är godkänt att lyfta händerna under witr-bönen när man läser åkallan. Det beror på att denna sortens åkallan är av samma typ som läses vid svårigheter…'
 ---
 
 **Fråga:** Är det tillåtet att lyfta händerna under *witr*-bönen?

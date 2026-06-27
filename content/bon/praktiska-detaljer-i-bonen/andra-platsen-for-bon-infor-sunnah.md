@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 1515
-description: >-
-  Fråga: Har bevis rapporterats för att man ska byta plats mellan den
-  obligatoriska bönen och sunnah -bönen? Svar: Ja, i en hadīth från Mu'awiyah
-  rapporteras att han har sagt: ” Profeten be...
+description: 'Ja, i en ḥadīt̲h från Mu''awiyah rapporteras att han har sagt: ”Profeten beordrade oss att inte förena en bön med en annan utan att vi flyttade oss eller…'
 ---
 
 **Fråga:** Har bevis rapporterats för att man ska byta plats mellan den obligatoriska bönen och *sunnah*-bönen?

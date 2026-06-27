@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Domedagen och dess tecken
 original_id: 130
-description: >-
-  Fråga: Om Jesus är vid liv, kommer han då att stiga ned vid tidens ände och
-  styra och då följa Muḥammads religion? Vad finns det för bevis för detta? Hur
-  de som påstår att Jesus inte kommer att åt...
+description: 'Ja, Allāhs profet Jesus, son till Maria, kommer att stiga ned vid tidens ände och han kommer att styra över människorna med rättvisa enligt profeten…'
 ---
 
 **Fråga:** Om Jesus är vid liv, kommer han då att stiga ned vid tidens ände och styra och då följa Muḥammads religion? Vad finns det för bevis för detta? Hur de som påstår att Jesus inte kommer att återvända vid tidens ände och styra över folket besvaras?

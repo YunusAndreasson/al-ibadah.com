@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 682
-description: >-
-  Fråga: Vilket är utlåtandet om att stryka händerna över ansiktet efter åkallan
-  i witr? Svar: Att stryka händerna över ansiktet i witrs qunūt eller vid något
-  annat tillfälle har nämnts i viss...
+description: 'Att stryka händerna över ansiktet i witr s qunūt eller vid något annat tillfälle har nämnts i vissa svaga aḥādīt̲h.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att stryka händerna över ansiktet efter åkallan i *witr*?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 816
-description: >-
-  Fråga: Vilka är en pilgrims skyldigheter efter ṭawāful-wadā? Svar:
-  Ṭawāful-wadā är den sista riten under vallfärden. Efter den måste pilgrimen
-  försöka stå vid en plats som heter al-Multaza...
+description: 'ṭawāf ul-wadā´ är den sista riten under vallfärden. Efter den måste pilgrimen försöka stå vid en plats som heter al-Multazam, åkalla med det som är lätt…'
 ---
 
 **Fråga:** Vilka är en pilgrims skyldigheter efter *ṭawāf ul-wadā´*?

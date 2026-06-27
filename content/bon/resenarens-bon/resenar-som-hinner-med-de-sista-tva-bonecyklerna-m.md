@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 941
-description: >-
-  Fråga: Om en resenär hann med de båda sista bönecyklerna med en imam som inte
-  ber som gäst, kan personen då göra taslīm med honom för att förkorta bönen? Svar:
-  Resenären får inte förkorta bönen ...
+description: 'Resenären får inte förkorta bönen om personen fullföljer med en imam. Detta enligt den allmänna innebörden av profetens – över honom vare Allāhs frid och…'
 ---
 
 **Fråga:** Om en resenär hann med de båda sista bönecyklerna med en imam som inte ber som gäst, kan personen då göra *taslīm* med honom för att förkorta bönen?

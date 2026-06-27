@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 988
-description: 'Fråga: Är bön bakom en syndare giltig? Svar: Även om en muslim
- begår vissa synder är bön bakom personen tillåten och giltig enligt den starkaste åsikten.
- Utan tvekan är dock bön bakom den som är ...'
+description: 'Även om en muslim begår vissa synder är bön bakom personen tillåten och giltig enligt den starkaste åsikten.'
 ---
 
 **Fråga:** Är bön bakom en syndare giltig?

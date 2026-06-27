@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 529
-description: 'Fråga: Kan man säga: ”Jag har gjort mitt bästa och resten är upp till
- Allāh.” Svar: Detta uttryck är inte rätt. Det betyder ju att den som gör så
- först och främst litar till sig själv. Att s...'
+description: 'Detta uttryck är inte rätt. Det betyder ju att den som gör så först och främst litar till sig själv.'
 ---
 
 **Fråga:** Kan man säga: ”Jag har gjort mitt bästa och resten är upp till Allāh.”

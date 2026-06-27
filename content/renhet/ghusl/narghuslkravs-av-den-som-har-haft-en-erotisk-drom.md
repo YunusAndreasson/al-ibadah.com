@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Den stora tvagningen
 original_id: 1429
-description: >-
-  Fråga: En person tror att det som nödvändiggör g̲husl för den som haft en
-  erotisk dröm är utlösning av sperma när den sovande drömmer om att ha intim
-  samvaro. Han gör enbart g̲husl om han upplev...
+description: 'Det är välkänt att g̲husl alltid krävs vid utlösning av sperma på grund av sexuell upphetsning.'
 ---
 
 **Fråga:** En person tror att det som nödvändiggör *g̲husl* för den som haft en erotisk dröm är utlösning av sperma när den sovande drömmer om att ha intim samvaro. Han gör enbart *g̲husl* om han upplever detta när han sover. Så om han får en utlösning då han inte drömmer om intim samvaro under sömnen, då gör han inte *g̲husl*. Han har gjort detta under nästan åtta år, så han frågar om utlåtandet om dessa åtta år?

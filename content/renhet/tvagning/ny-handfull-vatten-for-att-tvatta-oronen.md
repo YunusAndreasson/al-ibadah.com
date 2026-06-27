@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1124
-description: >-
-  Fråga: Krävs det att den som tvagar sig tar en ny handfull vatten för att
-  tvätta öronen? Svar: Det är inte nödvändigt att ta en ny handfull vatten för
-  öronen. Det är inte ens att föredra enlig...
+description: 'Det är inte nödvändigt att ta en ny handfull vatten för öronen. Det är inte ens att föredra enligt den mest korrekta åsikten.'
 ---
 
 **Fråga:** Krävs det att den som tvagar sig tar en ny handfull vatten för att tvätta öronen?

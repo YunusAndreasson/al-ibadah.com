@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nattbön
 original_id: 295
-description: >-
-  Fråga: En man bad witr och under hans bön ropade böneutroparen ut för
-  gryningsbönen. Vilket är utlåtandet om detta? Bör han avsluta bönen? Svar: Ja,
-  om böneutropet ropades ut när han bad wi...
+description: 'Ja, om böneutropet ropades ut när han bad witr, då bör han avsluta sin bön. Han har inte syndat med anledning av det.'
 ---
 
 **Fråga:** En man bad *witr* och under hans bön ropade böneutroparen ut för gryningsbönen. Vilket är utlåtandet om detta? Bör han avsluta bönen?

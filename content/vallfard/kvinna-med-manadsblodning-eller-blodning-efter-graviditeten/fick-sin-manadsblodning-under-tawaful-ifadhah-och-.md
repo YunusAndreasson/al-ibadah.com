@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Månadsblödning och efterblödning
 original_id: 786
-description: >-
-  Fråga: En kvinna reste för att vallfärda och hon fick sin månadsblödning fem
-  dagar innan datumet för hennes resa. När hon nådde mīqāt gjorde hon ghusl och
-  gick in i ihrām utan att hon hade b...
+description: 'Gick det till som frågeställaren beskriver måste kvinnan bege sig till Mecka och utföra ṭawāf vid Ka''bah; sju varv med avsikten att det är för hennes…'
 ---
 
 **Fråga:** En kvinna reste för att vallfärda och hon fick sin månadsblödning fem dagar innan datumet för hennes resa. När hon nådde *mīqāt* gjorde hon *g̲husl* och gick in i *iḥrām* utan att hon hade blivit ren efter månadsblödningen. När hon sedan nådde Mecka så stannade hon utanför helgedomen och hon utförde inte några av riterna som tillhör vallfärden och *´umrah*. Därefter var hon i Mina två dagar; hon blev ren, gjorde *g̲husl* och utförde i rent tillstånd alla riter för *´umrah*. Sedan återkom hennes blödning då hon utförde *ṭawāf ul-ifāḍah* för vallfärden. Men hon kände sig blyg och hon fullföljde vallfärdsriterna. Hon berättade inte för sin förmyndare förrän de hade kommit hem. Vad gäller i detta fall?

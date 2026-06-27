@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Övrigt
 original_id: 644
-description: >-
-  Fråga: Det finns en man som har en hobby i att han samlar mynt, arabiska och
-  utländska. Det är enbart en hobby. Här finns pengar som är värdefulla men även
-  de som inte är det. Behöver han betala a...
+description: 'Mannen måste betala allmosa om han har dem under ett år och de når den lägsta nivån som gör det till en skyldighet att betala allmosa.'
 ---
 
 **Fråga:** Det finns en man som har en hobby i att han samlar mynt, arabiska och utländska. Det är enbart en hobby. Här finns pengar som är värdefulla men även de som inte är det. Behöver han betala allmosa för dem om han har dem under ett år? Hjälp mig med ett svar och må Allāh belöna er med gott.

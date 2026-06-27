@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Arafat
 original_id: 838
-description: >-
-  Fråga: En person tog del av vallfärdsriterna men hade inte möjlighet att under
-  dagtid stå vid Arafat. Får personen då stå vid Arafat när folket har gett sig av
-  under natten? Hur länge behöver personen s...
+description: 'Tiden för att stå vid ´Arafāt sträcker sig från början av gryningsbönen den nionde [d̲hul-ḥijjah] till början av gryningsbönen under offerdagen [den tionde…'
 ---
 
 **Fråga:** En person tog del av vallfärdsriterna men hade inte möjlighet att under dagtid stå vid *´Arafāt*. Får personen då stå vid *´Arafāt* när folket har gett sig av under natten? Hur länge behöver personen stå för att det ska vara tillräckligt? Är det tillräckligt om personen passerar genom *´Arafāt* med bil?

@@ -10,10 +10,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
 original_id: 1195
-description: >-
-  Fråga: Vilket är utlåtandet om att resa för att besöka profetens – över honom
-  vare Allāhs frid och välsignelser – grav? Svar: Att resa för att besöka gravar
-  är inte tillåtet oberoende av vilken...
+description: 'Att resa för att besöka gravar är inte tillåtet oberoende av vilken grav det än är. Detta beror på att Profeten – över honom vare Allāhs frid och…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att resa för att besöka profetens – över honom vare Allāhs frid och välsignelser – grav?

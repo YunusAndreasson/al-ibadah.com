@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 971
-description: >-
-  Fråga: Vad finns det för anledningar till att man gör nedfallandet för
-  glömska? Svar: Anledningarna till att man gör nedfallandet för glömska
-  är tre: Överskridande : Som när någon ...
+description: 'Anledningarna till att man gör nedfallandet för glömska är tre: 1. Överskridande: Som när någon gör en extra bugning, nedfallan eller sitter ned en gång…'
 ---
 
 **Fråga:** Vad finns det för anledningar till att man gör nedfallandet för glömska[^1]?

@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 88
-description: >-
-  Fråga: I vår stad i Egypten är det sed att hålla en fest när någon fyller år.
-  På denna fest brukar man till exempel blåsa ut tårtljus. Jag har nyligen hört
-  att detta inte är tillåtet inom islam sa...
+description: 'Denna sed är en vedervärdig innovation som Allāh inte har godkänt. I aḥādīt̲h rapporteras att folket i Medina brukade fira två högtider under den…'
 ---
 
 **Fråga:** I vår stad i Egypten är det sed att hålla en fest när någon fyller år. På denna fest brukar man till exempel blåsa ut tårtljus. Jag har nyligen hört att detta inte är tillåtet inom islam samt att det inte är tillåtet att besöka dessa fester om man bjuds in. Vänligen, ge oss råd.

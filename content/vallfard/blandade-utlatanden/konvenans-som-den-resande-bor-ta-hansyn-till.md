@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Övrigt
 original_id: 1307
-description: >-
-  Fråga: Finns det någon speciell konvenans som den resande bör ta hänsyn till,
-  speciellt när personen vallfärdar? Svar: All lovprisan tillhör Allāh. De lärde
-  har sammanställt många former av god t...
+description: 'All lovprisan tillhör Allāh. De lärde har sammanställt många former av god ton som den resande kan följa.'
 ---
 
 **Fråga:** Finns det någon speciell konvenans som den resande bör ta hänsyn till, speciellt när personen vallfärdar?

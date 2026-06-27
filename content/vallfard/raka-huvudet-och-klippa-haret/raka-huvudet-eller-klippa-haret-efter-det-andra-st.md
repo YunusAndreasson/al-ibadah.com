@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Hårklippning
 original_id: 1356
-description: >-
-  Fråga: Måste man raka huvudet eller klippa håret under det stora avlägsnandet
-  av ihrām, när man har klippt eller rakat håret för det mindre avlägsnandet av
-  ihrām [som sker när man har kastat s...
+description: 'Det är inte obligatoriskt och ej heller är det rekommenderat att raka huvudet eller klippa håret efter det stora avlägsnandet av iḥrām.'
 ---
 
 **Fråga:** Måste man raka huvudet eller klippa håret under det stora avlägsnandet av *iḥrām*, när man har klippt eller rakat håret för det mindre avlägsnandet av *iḥrām* [som sker när man har kastat sten på pelarna]?

@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Eder
 original_id: 52
-description: >-
-  Fråga: Somliga svär oavsiktligen vid profeten – över honom vare Allāhs frid
-  och välsignelser – eller vid deras barn, deras tungor har vant sig vid detta.
-  Kommer de att hållas ansvariga för detta? ...
+description: 'Det är inte tillåtet att svära vid profeten – över honom vare Allāhs frid och välsignelser – eller någon annan skapad. Så här brukar månggudadyrkare göra.'
 ---
 
 **Fråga:** Somliga svär oavsiktligen vid profeten – över honom vare Allāhs frid och välsignelser – eller vid deras barn, deras tungor har vant sig vid detta. Kommer de att hållas ansvariga för detta?

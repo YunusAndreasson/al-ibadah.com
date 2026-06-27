@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsplikt
 original_id: 523
-description: >-
-  Fråga: Vilket är utlåtandet om den som utan anledning skjuter upp
-  pilgrimsfärden? Personen har möjlighet att utföra den. Svar: All lovprisan
-  tillhör Allāh och må frid vara över Hans sändebud. Den ...
+description: 'All lovprisan tillhör Allāh och må frid vara över Hans sändebud. Den som har möjlighet att utföra pilgrimsfärden men inte utför den utan skjuter upp den…'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som utan anledning skjuter upp pilgrimsfärden? Personen har möjlighet att utföra den.

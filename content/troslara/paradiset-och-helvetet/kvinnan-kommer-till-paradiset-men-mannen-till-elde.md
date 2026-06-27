@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Paradiset och Helvetet
 original_id: 543
-description: >-
-  Fråga: Om en kvinna är en av Paradisets invånare och hon inte har gift sig i
-  denna värld eller om hon var gift men hennes man inte steg in i Paradiset, vem
-  kommer hon att vara tillsammans med? S...
+description: 'Svaret grundas på den allmänna betydelsen av versen i vilken Allāh säger: > ”Och där ska allt som era själar längtar efter vara ert och det ni ber om ska…'
 ---
 
 **Fråga:** Om en kvinna är en av Paradisets invånare och hon inte har gift sig i denna värld eller om hon var gift men hennes man inte steg in i Paradiset, vem kommer hon att vara tillsammans med?

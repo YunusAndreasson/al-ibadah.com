@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 1113
-description: >-
-  Fråga: Är det rätt att dela religionen i ytliga frågor [som skägget] och
-  grundläggande frågor? Svar: Att dela religionen i ytliga och grundläggande
-  frågor är fel. Hela religionen är av element...
+description: 'Att dela religionen i ytliga och grundläggande frågor är fel. Hela religionen är av elementär vikt.'
 ---
 
 **Fråga:** Är det rätt att dela religionen i ytliga frågor [som skägget] och grundläggande frågor?

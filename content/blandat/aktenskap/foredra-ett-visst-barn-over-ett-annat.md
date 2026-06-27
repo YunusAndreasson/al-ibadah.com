@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1694
-description: >-
-  Fråga: Får en moder behandla ett av hennes barn eller barnbarn på ett bättre
-  sätt än de andra även om de behandlar henne själv likadant? Svar: Föräldern
-  måste behandla dem likvärdigt utan att g...
+description: 'Föräldern måste behandla dem likvärdigt utan att ge någon av dem företräde, varken i form av pengar eller i form av gåvor.'
 ---
 
 **Fråga:** Får en moder behandla ett av sina barn eller barnbarn på ett bättre sätt än de andra även om de behandlar henne själv likadant?

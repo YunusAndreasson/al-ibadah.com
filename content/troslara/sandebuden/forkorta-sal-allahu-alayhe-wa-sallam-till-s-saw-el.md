@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 583
-description: >-
-  Fråga: Är det tillåtet att skriva bokstaven [S] i stället för sal-Allāhu
-  ´alayhe wa sallam? Svar: Det är sunnah att skriva hela frasen ” sal-Allāhu
-  ´alayhe wa sallam ”, då det är en åkalla...
+description: 'Det är sunnah att skriva hela frasen ”sal-Allāhu ´alayhe wa sallam”, då det är en åkallan som är en sorts dyrkan likt den vi säger verbalt.'
 ---
 
 **Fråga:** Är det tillåtet att skriva bokstaven [S] i stället för *sal-Allāhu ´alayhe wa sallam*?

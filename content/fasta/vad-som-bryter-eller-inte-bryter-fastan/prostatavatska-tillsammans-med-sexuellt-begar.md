@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 432
-description: >-
-  Fråga: Om en man kysser sin fru när han fastar eller om han ser en erotisk
-  film och en del prostatavätska kommer ut, behöver personen då ta igen fastan? Om
-  detta har inträffat under olika daga...
+description: 'Prostatavätska som rinner ut gör inte fastan ogiltig enligt den mest korrekta åsikten av de två som de lärde har.'
 ---
 
 **Fråga:** Om en man kysser sin fru när han fastar eller om han ser en erotisk film och en del prostatavätska kommer ut, behöver personen då ta igen fastan? Om detta har inträffat under olika dagar, bör personen då ta igen de dagarna efter varandra eller separat? Må Allāh belöna er med de bästa belöningar.

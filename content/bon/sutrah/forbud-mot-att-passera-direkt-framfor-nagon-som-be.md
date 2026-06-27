@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Avskärmning i bönen
 original_id: 1478
-description: >-
-  Fråga: Får den som vill be om välgörenhet passera framför någon som ber? Svar:
-  Det är förbjudet att gå direkt framför den som ber. Detta gäller även om
-  anledning är att man vill samla in penga...
+description: 'Det är förbjudet att gå direkt framför den som ber. Detta gäller även om anledningen är att man vill samla in pengar till islamiska projekt [som att bygga,…'
 ---
 
 **Fråga:** Får den som vill be om välgörenhet passera framför någon som ber?

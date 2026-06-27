@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 1001
-description: >-
-  Fråga: Är det en innovation att under fredagsbönen säga āmīn tillsammans med
-  imamen? Svar: Att säga āmīn efter predikantens predikan är inte en innovation.
-  Om personen börjar åkalla för musli...
+description: 'Att säga āmīn efter predikantens predikan är inte en innovation. Om personen börjar åkalla för muslimerna är det rekommenderat att säga āmīn efter…'
 ---
 
 **Fråga:** Är det en innovation att under fredagsbönen säga *āmīn* tillsammans med imamen?

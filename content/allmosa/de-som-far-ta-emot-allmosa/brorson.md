@@ -6,9 +6,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 555
-description: 'Fråga: Får min man för min räkning betala allmosa för min egendom [han
- var den som gav egendomen till mig]? Är det tillåtet att betala allmosan till min
- brorson vars fru gått bort? Han är en ung ma...'
+description: 'Allmosa är obligatorisk för dina tillgångar om du har den mängd som krävs eller mer av guld, silver eller andra former av tillgångar som räknas.'
 ---
 
 **Fråga:** Får min man för min räkning betala allmosa för min egendom [han var den som gav egendomen till mig]? Är det tillåtet att betala allmosan till min brorson vars fru gått bort? Han är en ung man som funderar på att gifta sig.

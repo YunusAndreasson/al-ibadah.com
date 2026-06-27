@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - 'Jinn, magi och det onda ögat'
 original_id: 1098
-description: >-
-  Fråga: Vad är siḥr och vilket är utlåtandet om det? Svar: De lärde har sagt
-  att ur en lingvistisk synvinkel avser ordet siḥr allt som är ljus eller något
-  vars orsak är dold och som har en ...
+description: 'De lärde har sagt att ur en lingvistisk synvinkel avser ordet siḥr allt som är ljus eller något vars orsak är dold och som har en dold inverkan som inte…'
 ---
 
 **Fråga:** Vad är *siḥr* och vilket är utlåtandet om det?

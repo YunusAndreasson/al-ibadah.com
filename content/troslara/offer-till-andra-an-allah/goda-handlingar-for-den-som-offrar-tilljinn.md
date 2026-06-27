@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Offer till andra än Allāh
 original_id: 22
-description: >-
-  Fråga: Några som studerar islam har berättat för oss att den som offrar till
-  jinn varken får sin bön eller vallfärd accepterad. När jag hörde detta ångrade
-  jag mig inför Allāh då jag brukade gör...
+description: 'Att offra djur till jinn är s̲hirk. Den som gör detta och dör före personen har ångrat sig kommer att vara i Helveteselden för evigt.'
 ---
 
 **Fråga:** Några som studerar islam har berättat för oss att den som offrar till *jinn* varken får sin bön eller vallfärd accepterad. När jag hörde detta ångrade jag mig inför Allāh då jag brukade göra detta. Jag har vallfärdat men de sade att min vallfärd är ogiltig. Är det sant att min vallfärd är ogiltig? Om det är så, måste jag då vallfärda igen?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 217
-description: >-
-  Fråga: Jag har noterat att vissa imamer – må Allāh vägleda dem – förlänger det
-  sista nedfallandet i bönen. Tillåter den islamiska lagen detta? Finns det
-  någon grund för att ändra röstläget för at...
+description: 'Jag känner inte till något bevis som stödjer att det sista nedfallandet ska förlängas. I aḥādīt̲h har det endast rapporterats att nedfallandena ska vara…'
 ---
 
 **Fråga:** Jag har noterat att vissa imamer – må Allāh vägleda dem – förlänger det sista nedfallandet i bönen. Tillåter den islamiska lagen detta? Finns det någon grund för att ändra röstläget för att folk ska veta att man ska sitta och göra *tas̲hahhud*?

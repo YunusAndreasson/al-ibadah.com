@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Den sjukes bön
 original_id: 347
-description: >-
-  Fråga: Hur ber den sjuke? Svar: Den sjuke måste be de obligatoriska bönerna
-  stående, även om han lutar sig mot en vägg eller en käpp. Om han inte kan stå
-  upp, då får han be si...
+description: '1. Den sjuke måste be de obligatoriska bönerna stående, även om han lutar sig mot en vägg eller en käpp. 2.'
 ---
 
 **Fråga:** Hur ber den sjuke?

@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Övrigt
 original_id: 50
-description: >-
-  Fråga: Vilken sorts belöning får en avliden om det ges till välgörenhet för
-  hans räkning? Läggs sådana donationer till hans goda handlingar? Det är
-  tillåtet att ge till välgörenhet för den avlid...
+description: 'Det är tillåtet att ge till välgörenhet för den avlidnes räkning. Det spelar ingen roll om välgörenheten är i form av pengar, vänlighet eller åkallan.'
 ---
 
 **Fråga:** Vilken sorts belöning får en avliden om det ges till välgörenhet för hans räkning? Läggs sådana donationer till hans goda handlingar?

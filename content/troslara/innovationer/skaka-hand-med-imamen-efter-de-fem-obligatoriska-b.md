@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 1500
-description: >-
-  Fråga: Vilket är utlåtandet om att alltid skaka hand med imamen och de som
-  sitter till höger och vänster om en? Detta görs efter varje obligatorisk bön.
-  Svar: Att alltid skaka hand med imamen ...
+description: 'Att alltid skaka hand med imamen och de som sitter till höger och vänster om en efter de fem bönerna är en innovation.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att alltid skaka hand med imamen och de som sitter till höger och vänster om en? Detta görs efter varje obligatorisk bön.

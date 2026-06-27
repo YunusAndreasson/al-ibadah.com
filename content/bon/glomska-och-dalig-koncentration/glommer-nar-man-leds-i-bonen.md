@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 278
-description: >-
-  Fråga: Jag bad bakom en imam och jag glömde att säga tasbih under det första
-  nedfallandet. Vad gör jag då? Bör jag nedfalla efter imamens taslīm ?
-  Svar: Du behöver inte nedfalla för glöms...
+description: 'Du behöver inte nedfalla för glömska; varken före eller efter imamens taslīm. Imamen bär bördan för glömskan och inget krävs av de som ber bakom honom.'
 ---
 
 **Fråga:** Jag bad bakom en imam och jag glömde att säga *tasbīḥ* under det första nedfallandet. Vad gör jag då? Bör jag nedfalla efter imamens *taslīm*?

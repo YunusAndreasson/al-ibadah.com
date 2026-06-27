@@ -8,9 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1153
-description: 'Fråga: Om någon avsiktligen övergav bönen och sedan ångrade sig, bör
- personen då ta igen de missade bönerna? Svar: De lärde har olika åsikter om någon
- som avsiktligen överger bönen för att sedan ...'
+description: 'De lärde har olika åsikter om någon som avsiktligen överger bönen för att sedan ångra sig inför Allāh och återvända till Honom.'
 ---
 
 **Fråga:** Om någon avsiktligen övergav bönen och sedan ångrade sig, bör personen då ta igen de missade bönerna?

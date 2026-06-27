@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Efterblödning
 original_id: 1453
-description: >-
-  Fråga: Får en kvinna som har blödningar efter graviditeten be och fasta om hon
-  blir ren innan de 40 dagarna [har gått]? Svar: Om en kvinna med blödningar
-  efter graviditeten blir ren innan de 4...
+description: 'Om en kvinna med blödningar efter graviditeten blir ren innan de 40 dagarna [har gått] så måste hon göra g̲husl, be och fasta under ramaḍān.'
 ---
 
 **Fråga:** Får en kvinna som har blödningar efter graviditeten be och fasta om hon blir ren innan de 40 dagarna [har gått]?

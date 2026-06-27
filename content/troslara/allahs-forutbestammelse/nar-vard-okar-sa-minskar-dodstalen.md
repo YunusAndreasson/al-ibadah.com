@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 61
-description: >-
-  Fråga: I en artikel publicerad i ett magasin har jag läst följande uttalande:
-  "Det råder inga tvivel om, vilket har förklarats tidigare, att desto bättre
-  medicinsk vård blir, desto lägre blir...
+description: 'Även om medicinsk vård är ett effektivt verktyg för att uppnå fysisk hälsa och bekämpa sjukdomar så ändrar det inte den livslängd som Allāh har gett…'
 ---
 
 **Fråga:** I en artikel publicerad i ett magasin har jag läst följande uttalande:

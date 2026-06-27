@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Paradiset och Helvetet
 original_id: 92
-description: 'Fråga: De böcker som uppenbarades innan Koranen blev förvanskade, efter
- detta kom generationer som fortsatte att följa den väg som dessa böcker stakar ut.
- Detta utan att veta att de hade förvanska...'
+description: 'Det fanns sådana som avsiktligen förvanskade [sina skrifter]; de plockade bort vissa delar och förändrade andra.'
 ---
 
 **Fråga:** De böcker som uppenbarades innan Koranen blev förvanskade, efter detta kom generationer som fortsatte att följa den väg som dessa böcker stakar ut. Detta utan att veta att de hade förvanskats. Vilken kommer deras position att vara inför Allāh den Upphöjde på Återuppståndelsens Dag?

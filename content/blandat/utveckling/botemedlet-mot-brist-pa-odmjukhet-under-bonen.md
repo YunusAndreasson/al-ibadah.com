@@ -7,9 +7,7 @@ categories:
   - Blandat
   - Utveckling
 original_id: 215
-description: 'Fråga: Vi hör mycket om ödmjukhet i bönen. Jag vill vara ödmjuk i min
- bön, men snabbt försvinner denna tanke och viskningarna återvänder till mig igen.
- Vilken är lösningen? Må Allāh belöna er med ...'
+description: 'Du måste närma dig bönen och se till att ditt hjärta är närvarande. Tänk på vad du säger, och lyssna till och begrunda innebörden.'
 ---
 
 **Fråga:** Vi hör mycket om ödmjukhet i bönen. Jag vill vara ödmjuk i min bön, men snabbt försvinner denna tanke och viskningarna återvänder till mig igen. Vilken är lösningen? Må Allāh belöna er med gott.

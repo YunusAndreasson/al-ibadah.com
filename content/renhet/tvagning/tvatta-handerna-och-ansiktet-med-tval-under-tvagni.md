@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1434
-description: >-
-  Fråga: Vilket är utlåtandet om att tvätta händerna och ansiktet med tvål under
-  tvagningen? Svar: Att tvätta händerna och ansiktet med tvål under tvagningen
-  är inte föreskrivet enligt den islam...
+description: 'Att tvätta händerna och ansiktet med tvål under tvagningen är inte föreskrivet enligt den islamiska lagen. Detta är en överdrift.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att tvätta händerna och ansiktet med tvål under tvagningen?

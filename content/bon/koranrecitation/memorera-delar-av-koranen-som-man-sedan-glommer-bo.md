@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Koranläsning
 original_id: 1666
-description: >-
-  Fråga: Från Allāhs sändebud – över honom vare Allāhs frid och välsignelser –
-  har jag hört en hadīth med följande innebörd: En person som memorerar en sura
-  eller en vers från Koranen och sedan gl...
+description: 'ḥadīt̲h har rapporterats från Allāhs – över honom vare Allāhs frid och välsignelser – sändebud och den innehåller en skarp varning till dem som först…'
 ---
 
 **Fråga:** Från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har jag hört en *ḥadīt̲h* med följande innebörd: En person som memorerar en sura eller en vers från Koranen och sedan glömmer den efteråt har syndat. Är denna *ḥadīt̲h* autentisk?

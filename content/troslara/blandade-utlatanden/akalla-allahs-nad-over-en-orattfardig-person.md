@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 67
-description: 'Fråga: En av mina släktingar avled och även om han bad så var han en
- orättfärdig man genom hela sitt liv. Är det tillåtet att åkalla Allāhs nåd över
- honom och åkalla för honom efter hans död? ...'
+description: 'Det är tillåtet att åkalla för honom samt åkalla Allāhs nåd över honom. Detta under förutsättning att han var muslim, sade trosbekännelsen, bad och utförde…'
 ---
 
 **Fråga:** En av mina släktingar avled och även om han bad så var han en orättfärdig man genom hela sitt liv. Är det tillåtet att åkalla Allāhs nåd över honom och åkalla för honom efter hans död?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsriter
 original_id: 741
-description: >-
-  Fråga: Om en muslim med avsikt att vallfärda kommer till Mecka före
-  vallfärdsmånaderna, utför ‘umrah och stannar i Mecka tills tiden för
-  vallfärden och sedan vallfärdar – anses denna vallfärd då...
+description: 'Personens vallfärd anses vara ifrad då ḥajjul-tamattu´ är när man går in i iḥrām för ´umrah under vallfärdsmånaderna, avklarar den och därefter går in i…'
 ---
 
 **Fråga:** Om en muslim med avsikt att vallfärda kommer till Mecka före vallfärdsmånaderna, utför *´umrah* och stannar i Mecka tills tiden för vallfärden och sedan vallfärdar – anses denna vallfärd då vara *ḥajjul-tamattu´[^1]'* eller *ifrad*?

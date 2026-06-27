@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nattbön
 original_id: 976
-description: >-
-  Fråga: Är det en del av profetens – över honom vare Allāhs frid och
-  välsignelser – sunnah att höja händerna när man åkallar under qunūt och vilka
-  är bevisen för detta? Svar: Ja, det är en ...
+description: 'Ja, det är en del av profetens – över honom vare Allāhs frid och välsignelser – sunnah att man höjer sina händer när man åkallar under qunūt.'
 ---
 
 **Fråga:** Är det en del av profetens – över honom vare Allāhs frid och välsignelser – *sunnah* att höja händerna när man åkallar under *qunūt* och vilka är bevisen för detta?

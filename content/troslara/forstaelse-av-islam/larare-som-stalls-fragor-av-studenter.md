@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 149
-description: >-
-  Fråga: Jag är lärare och har studerat islam och ett antal böcker om fiqh. Vad
-  gäller för mig om en elev ställer en fråga till mig och jag svarar, enligt min
-  kunskap som är genom qiyas och ijtih...
+description: 'Det finns ingen invändan mot att du gör detta, men om du tvekar över ett svar och du inte känner till vad som är rätt, då bör du säga: ”Jag vet inte”, och…'
 ---
 
 **Fråga:** Jag är lärare och har studerat islam och ett antal böcker om *fiqh*. Vad gäller för mig om en elev ställer en fråga till mig och jag svarar, enligt min kunskap som är genom *qiyas*[^1] och *ijtihād*? Jag går inte in på utlåtanden om vad som är tillåtet och förbjudet. Du bör referera till böcker och *ijtihād*, och sedan svara enligt vad du uppfattar som riktigt.

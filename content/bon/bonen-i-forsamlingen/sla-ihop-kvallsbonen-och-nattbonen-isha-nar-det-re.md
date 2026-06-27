@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 209
-description: >-
-  Fråga: Efter att ha avslutat kvällsbönen ropade vi direkt ut iqāmah för
-  nattbönen. Anledningen var att det regnade något. När vi hade bett klart
-  frågade jag imamen om denna bön. Han svarade att...
+description: 'Att med anledning av ihållande regn som gör kläderna blöta och att det är natt, mörkt samt kallt ute, och det orsakar problem för muslimerna när vägarna…'
 ---
 
 **Fråga:** Efter att ha avslutat kvällsbönen ropade vi direkt ut *iqāmah* för nattbönen. Anledningen var att det regnade något. När vi hade bett klart frågade jag imamen om denna bön. Han svarade att anledningen var att underlätta för oss på grund av regnet. Han sade att denna bön var giltig. Grundat på att det regnade och att de som bad inte fick reda på något, är denna bön då giltig?

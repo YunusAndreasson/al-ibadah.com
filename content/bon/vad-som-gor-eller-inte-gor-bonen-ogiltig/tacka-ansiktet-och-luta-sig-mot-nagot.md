@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 201
-description: 'Fråga: Är det tillåtet att täcka ansiktet under bönen och är det tillåtet
- att luta sig mot en vägg, pelare eller något liknande? Svar: Det är ogillat
- att täcka ansiktet under bönen, utom om ma...'
+description: 'Det är ogillat att täcka ansiktet under bönen, utom om man har en ursäkt. Under den obligatoriska bönen är det heller inte tillåtet att luta sig mot en…'
 ---
 
 **Fråga:** Är det tillåtet att täcka ansiktet under bönen och är det tillåtet att luta sig mot en vägg, pelare eller något liknande?

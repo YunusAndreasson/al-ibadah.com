@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Mina-natten
 original_id: 848
-description: >-
-  Fråga: Om en pilgrim inte hittar en plats för att spendera natten i Mina, vad
-  gör personen då? Har personen syndat om personen tillbringar natten utanför Mina? Svar:
-  Om en pilgrim under vallfärden anst...
+description: 'Om en pilgrim under vallfärden anstränger sig mycket för att hitta en plats i Minā för att spendera natten där och personen inte hittar en plats, då har…'
 ---
 
 **Fråga:** Om en pilgrim inte hittar en plats för att spendera natten i *Minā*, vad gör personen då? Har personen syndat om personen tillbringar natten utanför *Minā*?

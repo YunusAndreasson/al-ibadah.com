@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Amuletter och talismaner
 original_id: 36
-description: >-
-  Fråga: Vilket är utlåtandet om ett offerdjur som någon som bär amuletter,
-  knyter knutar och liknande har avlivat? Svar: En tamimah görs av kulor, skal
-  eller medaljonger och bärs runt nacken ...
+description: 'En tamimah görs av kulor, skal eller medaljonger och bärs runt nacken av barn, djur och kvinnor.'
 ---
 
 **Fråga:** Vilket är utlåtandet om ett offerdjur som någon som bär amuletter, knyter knutar och liknande har avlivat?

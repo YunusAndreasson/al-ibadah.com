@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Övrigt
 original_id: 958
-description: >-
-  Fråga: Har det rapporterats att märket i pannan efter nedfallan skulle
-  vara ett tecken på rättfärdighet? Svar: Detta är inte ett tecken på
-  rättfärdighet. Tecknet på rättfärdighet är enbart de...
+description: 'Detta är inte ett tecken på rättfärdighet. Tecknet på rättfärdighet är enbart det ljus som ses i ansiktet, hjärtats vidgande, god karaktär och liknande.'
 ---
 
 **Fråga:** Har det rapporterats att märket i pannan efter nedfallan skulle vara ett tecken på rättfärdighet?

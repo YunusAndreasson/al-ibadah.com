@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 981
-description: >-
-  Fråga: Om man har missat förmiddagsbönen, kan man då be den i efterhand? Svar:
-  Har man missat tiden för förmiddagsbönen, då har man missat den bönen. Detta
-  beror på att förmiddagsbönen är begr...
+description: 'Har man missat tiden för förmiddagsbönen, då har man missat den bönen. Detta beror på att förmiddagsbönen är begränsad till sin tid.'
 ---
 
 **Fråga:** Om man har missat förmiddagsbönen[^1], kan man då be den i efterhand?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 804
-description: >-
-  Fråga: Krävs renhet under tawāf och sa’ī? Svar: Renhet krävs endast för tawāf
-  . När det gäller sa’ī är det bättre [men inte ett krav] om man utför den med
-  renhet. Utför man sa’ī utan ...
+description: 'Renhet krävs endast för ṭawāf. När det gäller sa´ī är det bättre [men inte ett krav] om man utför den med renhet.'
 ---
 
 **Fråga:** Krävs renhet under *ṭawāf* och *sa´ī*?

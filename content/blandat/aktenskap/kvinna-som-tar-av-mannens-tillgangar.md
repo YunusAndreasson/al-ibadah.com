@@ -6,9 +6,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1703
-description: 'Fråga: Får en kvinna ta av mannens tillgångar utan personens tillstånd?
- Vilken är gottgörelsen om det har inträffat? Svar: All lovprisan tillhör Allāh. En
- kvinna får inte ta från mannens tillgån...'
+description: 'All lovprisan tillhör Allāh. En kvinna får inte ta från mannens tillgångar utan hans tillstånd, utom om han inte ger henne tillräckligt.'
 ---
 
 **Fråga:** Får en kvinna ta av mannens tillgångar utan personens tillstånd? Vilken är gottgörelsen om det har inträffat?

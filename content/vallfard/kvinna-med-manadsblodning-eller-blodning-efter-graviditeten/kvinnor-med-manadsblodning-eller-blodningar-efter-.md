@@ -10,10 +10,7 @@ categories:
   - Vallfärd (Hajj)
   - Månadsblödning och efterblödning
 original_id: 1348
-description: >-
-  Fråga: Är en kvinna med månadsblödning, en kvinna med blödningar efter
-  graviditeten, den som inte har möjlighet och en sjukling alla tvungna att göra
-  ṭawāful-wadā ? Detta med vetskap om att när d...
+description: 'En kvinna med månadsblödning och en kvinna med blödningar efter graviditeten behöver inte utföra ṭawāf ul-wadā´.'
 ---
 
 **Fråga:** Är en kvinna med månadsblödning, en kvinna med blödningar efter graviditeten, den som inte har möjlighet och en sjukling alla tvungna att göra *ṭawāf ul-wadā´*? Detta med vetskap om att när det skedde i Mina, frågade jag om det, men de lärda var oense. Några sade att de inte behöver göra *ṭawāf ul-wadā´* och några sade att de är tvungna.

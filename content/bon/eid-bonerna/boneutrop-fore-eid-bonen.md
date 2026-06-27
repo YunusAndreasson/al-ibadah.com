@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Eid-bönen
 original_id: 1588
-description: >-
-  Fråga: Finns det böneutrop eller iqāmah före ‘eid -bönen? Svar: Det finns
-  inget böneutrop eller någon iqāmah före ‘eid -bönen, vilket profetens sunnah
-  bevisar. Men de lärde har sagt att ...
+description: 'Det finns inget böneutrop eller någon iqāmah före ´eid-bönen, vilket profetens sunnah bevisar.'
 ---
 
 **Fråga:** Finns det böneutrop eller *iqāmah* före *´eid*-bönen?

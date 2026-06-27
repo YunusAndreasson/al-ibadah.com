@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Frivilliga och speciella böner
 original_id: 979
-description: >-
-  Fråga: Vissa lärde säger att tiden för sunnah före och efter de obligatoriska
-  bönerna är från början av tiden för den obligatoriska bönen och slutar när
-  tiden för den obligatoriska bönen slutar....
+description: 'Den starkaste åsikten är att tiden för sunnah för den obligatoriska bönen är mellan början på tiden för den bönen och tiden då den förrättas.'
 ---
 
 **Fråga:** Vissa lärde säger att tiden för *sunnah* före och efter de obligatoriska bönerna är från början av tiden för den obligatoriska bönen och slutar när tiden för den obligatoriska bönen slutar. Vissa säger att tiden för bönen före den obligatoriska bönen tar slut när den obligatoriska bönen har förrättats. Vilken är den starkaste åsikten?

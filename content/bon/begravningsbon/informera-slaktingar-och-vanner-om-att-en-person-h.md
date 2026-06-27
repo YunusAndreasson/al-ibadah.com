@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Begravningsbön
 original_id: 1243
-description: >-
-  Fråga: Är det förbjudet att informera släktingar och vänner till en bortgången
-  för att de ska kunna samlas och be över personen? Svar: Denna form av
-  tillkännagivande är tillåten och det är anle...
+description: 'Denna form av tillkännagivande är tillåten och det är anledningen till att profeten – över honom vare Allāhs frid och välsignelser – meddelade an-Najashis…'
 ---
 
 **Fråga:** Är det förbjudet att informera släktingar och vänner till en bortgången för att de ska kunna samlas och be över personen?

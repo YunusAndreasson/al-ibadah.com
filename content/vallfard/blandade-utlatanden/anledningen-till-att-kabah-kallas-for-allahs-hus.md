@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Övrigt
 original_id: 1561
-description: >-
-  Fråga: Varför kallas Ka’bah för ”Allāhs heliga hus”? Svar: Ka’bah döptes till
-  Allāhs Hus då det är en plats för att upphöja Allāh den Allsmäktige och
-  Majestätiske. Människor kommer från alla p...
+description: 'Ka’bah döptes till Allāhs Hus då det är en plats för att upphöja Allāh den Allsmäktige och Majestätiske.'
 ---
 
 **Fråga:** Varför kallas Ka’bah för ”Allāhs heliga hus”?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 340
-description: >-
-  Fråga: Får en resenär ledas i bön av någon som inte reser? Får han när han har
-  bett färdigt slå ihop de böner som det är tillåtet för honom att slå ihop?
-  Svar: Ja, en resenär får ledas i bön a...
+description: 'Ja, en resenär får ledas i bön av någon som inte reser. Detta under förutsättning att han följer honom i hans bön tills han gör taslīm.'
 ---
 
 **Fråga:** Får en resenär ledas i bön av någon som inte reser? Får han när han har bett färdigt slå ihop de böner som det är tillåtet för honom att slå ihop?

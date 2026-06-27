@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Fasteallmosa
 original_id: 1020
-description: >-
-  Fråga: Vissa lärde säger att det inte är tillåtet att ge zakātul-fiṭr i form
-  av ris då den typ av mat som har rapporterats [i aḥādīt̲h] finns tillgängliga.
-  Vad anser ni? Svar: Vissa lärde sä...
+description: 'Vissa lärde säger att om de fem typerna av mat är tillgängliga [vete, dadlar, korn, russin och ost] fullföljs zakātul-fiṭr inte genom att ge något annat än…'
 ---
 
 **Fråga:** Vissa lärde säger att det inte är tillåtet att ge *zakātul-fiṭr* i form av ris då den typ av mat som har rapporterats [i *aḥādīt̲h*] finns tillgängliga. Vad anser ni?

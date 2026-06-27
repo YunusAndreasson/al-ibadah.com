@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Åkallan
 original_id: 696
-description: >-
-  Fråga: Är det tillåtet för oss att åkalla under bönen för rent världsliga
-  önskningar? Är det bäst att åkalla när bönen är klar, efter första tashahhud
-  eller under nedfallandet? Svar: Det är...
+description: 'Det är inte tillåtet att åkalla för rent världsliga saker under bönen, som att begär ska uppfyllas, mer pengar eller en vacker fru.'
 ---
 
 **Fråga:** Är det tillåtet för oss att åkalla under bönen för rent världsliga önskningar? Är det bäst att åkalla när bönen är klar, efter första *tas̲hahhud* eller under nedfallandet?

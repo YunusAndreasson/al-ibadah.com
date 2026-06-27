@@ -6,10 +6,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 1280
-description: >-
-  Fråga: Hur gottgör man för synder? Svar: Shaykh ul-islām Ibn Taymiyyah har
-  sagt: Straffet för synder lyfts ifrån en person på tio olika sätt: Ånger, och
-  detta råder det samstämmighet...
+description: 's̲hayk̲h ul-islām Ibn Taymiyyah har sagt: Straffet för synder lyfts ifrån en person på tio olika sätt: 1.'
 ---
 
 **Fråga:** Hur gottgör man för synder?

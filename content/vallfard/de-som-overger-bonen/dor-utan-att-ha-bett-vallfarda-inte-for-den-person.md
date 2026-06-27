@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Överger bönen
 original_id: 1322
-description: >-
-  Fråga: Jag hade en släkting som avled under ramadan och före hans död var han
-  inte noga med att be eller betala allmosa. Är det då tillåtet att vallfärda
-  för hans räkning och betala hans allmosa? ...
+description: 'Om han brukade be ibland och ibland inte, då bör vallfärden inte utföras för hans räkning och ingen allmosa bör betalas för honom.'
 ---
 
 **Fråga:** Jag hade en släkting som avled under *ramaḍān* och före hans död var han inte noga med att be eller betala allmosa. Är det då tillåtet att vallfärda för hans räkning och betala hans allmosa? Han vallfärdade aldrig under sin livstid.

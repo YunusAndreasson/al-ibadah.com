@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Nattbön
 original_id: 571
-description: >-
-  Fråga: Om jag bad witr under första delen av natten och sedan gick upp under
-  den senare delen av natten – hur ska jag då be? Svar: Om du bad witr under den
-  första delen av natten, och Al...
+description: 'Om du bad witr under den första delen av natten, och Allāh sedan gjorde det lätt för dig att gå upp under den senare delen av natten, be då på det enkla…'
 ---
 
 **Fråga:** Om jag bad *witr* under första delen av natten och sedan gick upp under den senare delen av natten – hur ska jag då be?

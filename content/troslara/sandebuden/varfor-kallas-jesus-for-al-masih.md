@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 132
-description: >-
-  Fråga: Varför kallas Jesus, Marias son, för al-Masih? Svar: Jesus, Marias son,
-  kallas för al-Masih därför att han inte rörde någon sjukling eller
-  funktionshindrad utan att de botades, med Allā...
+description: 'Jesus, Marias son, kallas för al-Masih därför att han inte rörde någon sjukling eller funktionshindrad utan att de botades, med Allāhs tillstånd.'
 ---
 
 **Fråga:** Varför kallas Jesus, Marias son, för al-Masih?

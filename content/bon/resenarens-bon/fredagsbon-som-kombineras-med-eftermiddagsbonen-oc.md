@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 996
-description: >-
-  Fråga: Vilket är utlåtandet om att slå ihop eftermiddagsbönen med
-  fredagsbönen? Får den som befinner sig utanför sin stad slå ihop böner? Svar:
-  Eftermiddagsbönen och fredagsbönen får inte slås...
+description: 'Eftermiddagsbönen och fredagsbönen får inte slås ihop eftersom detta inte har rapporterats i profetens – över honom vare Allāhs frid och välsignelser –…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att slå ihop eftermiddagsbönen med fredagsbönen? Får den som befinner sig utanför sin stad slå ihop böner?

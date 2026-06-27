@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Siare och trollkarlar
 original_id: 519
-description: >-
-  Fråga: Vad finns det att säga om drömtydning och horoskop? Svar: Astrologi,
-  horoskop, vidskepelse och att spå in i framtiden tillhör tiden före islam.
-  Islam kom för att visa att detta är falsk...
+description: 'Astrologi, horoskop, vidskepelse och att spå in i framtiden tillhör tiden före islam. Islam kom för att visa att detta är falskt och för att förklara att…'
 ---
 
 **Fråga:** Vad finns det att säga om drömtydning och horoskop?

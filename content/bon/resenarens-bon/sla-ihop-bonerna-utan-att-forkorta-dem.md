@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 339
-description: 'Fråga: Får en resenär slå ihop böner utan att förkorta dem, eller förkorta
- dem utan att slå ihop dem? Svar: Ja, det är tillåtet att göra så. Det är dock
- bättre att förkorta dem än att be dem f...'
+description: 'Ja, det är tillåtet att göra så. Det är dock bättre att förkorta dem än att be dem fullständigt.'
 ---
 
 **Fråga:** Får en resenär slå ihop böner utan att förkorta dem, eller förkorta dem utan att slå ihop dem?

@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Frivilliga och speciella böner
 original_id: 301
-description: 'Fråga: När börjar förmiddagsbönen? Svar: Förmiddagsbönen börjar
- när solen har stigit tills skuggan från ett spjut är lika långt som spjutet själv
- fram till innan middag [ungefär en halvtimme i...'
+description: 'Förmiddagsbönen börjar när solen har stigit tills skuggan från ett spjut är lika långt som spjutet själv fram till innan middag [ungefär en halvtimme…'
 ---
 
 **Fråga:** När börjar förmiddagsbönen[^1]?

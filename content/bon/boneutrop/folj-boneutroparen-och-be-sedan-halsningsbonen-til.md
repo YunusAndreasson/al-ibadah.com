@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 285
-description: 'Fråga: Om någon gick in i moskén medan böneutroparen fortfarande ropade
- ut böneutropet, bör han då be innan böneutropet har avslutats? Svar: Det är
- bättre att svara böneutroparen, åkalla så so...'
+description: 'Det är bättre att svara böneutroparen, åkalla så som har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – och efter det be…'
 ---
 
 **Fråga:** Om någon gick in i moskén medan böneutroparen fortfarande ropade ut böneutropet, bör han då be innan böneutropet har avslutats?

@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Den stora tvagningen
 original_id: 1433
-description: >-
-  Fråga: Kan den som är i den stora rituella orenheten recitera Allāhs skrift om
-  det sker från minnet? Och om han inte får, kan han då lyssna på den? Må Allāh
-  belöna er med den bästa belöning. Sv...
+description: 'Den som är i den stora rituella orenheten får inte recitera Koranen, oavsett om det sker från en bok eller från minnet.'
 ---
 
 **Fråga:** Kan den som är i den stora rituella orenheten recitera Allāhs skrift om det sker från minnet? Och om han inte får, kan han då lyssna på den? Må Allāh belöna er med den bästa belöning.

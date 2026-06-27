@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Pilgrimskläder
 original_id: 769
-description: >-
-  Fråga: Vilka är de saker som en muhrim måste undvika? Svar: En muhrim måste
-  undvika nio förbjudna saker som de lärde har förklarat. De är: klippa håret,
-  klippa naglarna, ...
+description: 'En muḥrim måste undvika nio förbjudna saker som de lärde har förklarat. De är: 1. klippa håret, 2. klippa naglarna, 3. parfym, 4.'
 ---
 
 **Fråga:** Vilka är de saker som en *muḥrim* måste undvika?

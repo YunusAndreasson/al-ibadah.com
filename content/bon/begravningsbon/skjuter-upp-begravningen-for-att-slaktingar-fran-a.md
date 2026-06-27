@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Begravningsbön
 original_id: 1242
-description: >-
-  Fråga: Vilken är er åsikt om någon som skjuter upp begravningen av den avlidne
-  för att släktingar från avlägsna platser ska kunna komma? Svar: Det som är
-  föreskrivet beträffande den avlidne ...
+description: 'Det som är föreskrivet beträffande den avlidne är att personen förbereds snabbt och tidigt.'
 ---
 
 **Fråga:** Vilken är er åsikt om någon som skjuter upp begravningen av den avlidne för att släktingar från avlägsna platser ska kunna komma?

@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 541
-description: >-
-  Fråga: En man lämnar sitt hem för att resa. Tiden för eftermiddagsbönen kommer
-  innan han har lämnat staden eller det området där han befinner sig. Skall han
-  förkorta sin bön eller be den fullt ut?...
+description: 'All lovprisan tillhör Allāh. Om tiden för bön kommer då resenären fortfarande befinner sig i sin stad, då ska han be den fullt ut eftersom han ännu inte…'
 ---
 
 **Fråga:** En man lämnar sitt hem för att resa. Tiden för eftermiddagsbönen kommer innan han har lämnat staden eller det området där han befinner sig. Skall han förkorta sin bön eller be den fullt ut?

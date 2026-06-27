@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Besparingar och lön
 original_id: 606
-description: >-
-  Fråga: En man har under ett antal år sparat en del pengar till sin son för att
-  sonen ska kunna gifta sig. Är mannen skyldig att betala allmosa för dessa
-  tillgångar? Ta med i beräkningarna att ha...
+description: 'Har de varit i hans ägo under ett år måste han betala allmosa för pengarna som han har sparat.'
 ---
 
 **Fråga:** En man har under ett antal år sparat en del pengar till sin son för att sonen ska kunna gifta sig. Är mannen skyldig att betala allmosa för dessa tillgångar? Ta med i beräkningarna att hans enda syfte med pengarna är att sonen ska kunna gifta sig.

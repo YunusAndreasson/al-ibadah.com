@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 538
-description: 'Fråga: Ibland när folk besöker en sjukling säger de till personen: ”Du
- förtjänar inte detta”. Eller när de hör talas om att någon är sjuk säger de: ”Vid
- Allāh, personen förtjänar inte detta.” Vi hoppas ...'
+description: 'All lovprisan tillhör Allāh. Det är inte tillåtet att säga detta eftersom det är som att invända mot Allāh, må Han vara upphöjd.'
 ---
 
 **Fråga:** Ibland när folk besöker en sjukling säger de till personen: ”Du förtjänar inte detta”. Eller när de hör talas om att någon är sjuk säger de: ”Vid Allāh, personen förtjänar inte detta.” Vi hoppas att du kan säga oss om detta är tillåtet att säga eller inte.

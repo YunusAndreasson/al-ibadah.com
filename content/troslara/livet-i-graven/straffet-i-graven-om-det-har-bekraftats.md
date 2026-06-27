@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravlivet
 original_id: 1178
-description: >-
-  Fråga: Har man bekräftat straffet i graven? Svar: Straffet har entydigt
-  bekräftats genom tydliga bevis i [profetens – över honom vare Allāhs frid och
-  välsignelser – ] sunnah, Koranens uppenba...
+description: 'Straffet har entydigt bekräftats genom tydliga bevis i [profetens – över honom vare Allāhs frid och välsignelser – ] sunnah, Koranens uppenbara innebörd…'
 ---
 
 **Fråga:** Har man bekräftat straffet i graven?

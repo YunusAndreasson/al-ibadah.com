@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 1004
-description: >-
-  Fråga: Om någon går in i moskén under fredagen medan böneutroparen ropar ut
-  det andra böneutropet, bör personen då be hälsningsbönen till moskén eller följa
-  böneutroparen [läsa böneutropet efter denn...
+description: 'De lärde har sagt att när man går in i moskén under fredagen och man hör det andra böneutropet, då bör man be hälsningsbönen till moskén och inte svara…'
 ---
 
 **Fråga:** Om någon går in i moskén under fredagen medan böneutroparen ropar ut det andra böneutropet, bör personen då be hälsningsbönen till moskén[^1] eller följa böneutroparen [läsa böneutropet efter personen]?

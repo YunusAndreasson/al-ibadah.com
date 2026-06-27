@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Åkallan
 original_id: 693
-description: >-
-  Fråga: Är det ett krav för att ens bön ska besvaras att man höjer händerna och
-  är vänd mot qiblah? Svar: Att höja händerna under åkallan och att vara riktad
-  mot qiblah – den ädlaste av all...
+description: 'Att höja händerna under åkallan och att vara riktad mot qiblah – den ädlaste av alla riktningar – är en betonad sunnah.'
 ---
 
 **Fråga:** Är det ett krav för att ens bön ska besvaras att man höjer händerna och är vänd mot *qiblah*?

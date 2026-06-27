@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 1236
-description: >-
-  Fråga: Hur långt måste en resenär färdas för att få förkorta sin bön? Är det
-  tillåtet att slå ihop bönerna utan att förkorta dem? Svar: Den sträcka då det
-  blir tillåtet att förkorta bönen har ...
+description: 'Den sträcka då det blir tillåtet att förkorta bönen har vissa lärde angivit till 83 kilometer.'
 ---
 
 **Fråga:** Hur långt måste en resenär färdas för att få förkorta sin bön? Är det tillåtet att slå ihop bönerna utan att förkorta dem?

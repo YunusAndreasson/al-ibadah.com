@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Besparingar och lön
 original_id: 603
-description: 'Fråga: Jag är en ung man, sjutton år gammal. Jag bor tillsammans med
- min familj och min far försörjer mig. Jag har en del pengar sparade i en islamisk
- bank. De har varit där under tre år. Behöver ...'
+description: 'Det är en skyldighet att betala allmosa för de tillgångar som man måste betala den för som boskap, de två valutorna [guld och silver], det som jorden…'
 ---
 
 **Fråga:** Jag är en ung man, sjutton år gammal. Jag bor tillsammans med min familj och min far försörjer mig. Jag har en del pengar sparade i en islamisk bank. De har varit där under tre år. Behöver jag betala allmosa? Behöver jag betala allmosa för affärsvinster? Börjar [skyldigheten att betala] allmosa vid puberteten?

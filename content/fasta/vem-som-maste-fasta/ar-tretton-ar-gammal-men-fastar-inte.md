@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fasteplikt
 original_id: 400
-description: >-
-  Fråga: Det finns en ung flicka som är tolv eller tretton år gammal. Den
-  välsignade ramadan har gått till sin ända men hon har inte fastat. Har hon
-  eller hennes familj syndat? Borde hon fasta och o...
+description: 'Kvinnan anses vara tillräknelig under följande villkor: Islam, ett mentalt friskt tillstånd och pubertet.'
 ---
 
 **Fråga:** Det finns en ung flicka som är tolv eller tretton år gammal. Den välsignade *ramaḍān* har gått till sin ända men hon har inte fastat. Har hon eller hennes familj syndat? Borde hon fasta och om hon inte fastar, syndar hon då?

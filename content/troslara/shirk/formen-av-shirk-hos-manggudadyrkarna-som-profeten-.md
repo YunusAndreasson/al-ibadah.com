@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
 original_id: 1163
-description: >-
-  Fråga: Vilken sorts shirk begick månggudadyrkarna som profetens – över honom
-  vare Allāhs frid och välsignelser – sändes till? Svar: Den shirk
-  månggudadyrkarna som profeten – över honom var...
+description: 'Den s̲hirk månggudadyrkarna som profeten – över honom vare Allāhs frid och välsignelser – sändes till [begick] var inte s̲hirk i rububiyyah.'
 ---
 
 **Fråga:** Vilken sorts *s̲hirk* begick månggudadyrkarna som profetens – över honom vare Allāhs frid och välsignelser – sändes till?

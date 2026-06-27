@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Mindre vallfärd
 original_id: 872
-description: >-
-  Fråga: En man kom för att utföra ‘umrah men han utelämnade fyra varv i sa’ī
-  med anledning av glömska eller okunskap. Vad behöver han göra då? Svar: Han
-  måste fullfölja dem. Han utför dem f...
+description: 'Han måste fullfölja dem. Han utför dem för att han ska få en fullständig sa´ī, oavsett om detta var under vallfärden eller ´umrah.'
 ---
 
 **Fråga:** En man kom för att utföra *´umrah* men han utelämnade fyra varv i *sa´ī* med anledning av glömska eller okunskap. Vad behöver han göra då?

@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 408
-description: >-
-  Fråga: Vilket är utlåtandet om att sova hela dagarna? Vilket är utlåtandet om
-  fastan för den som sover och som vaknar för att be men sedan sover igen?
-  Vilket är utlåtandet om detta? Svar: Denn...
+description: 'Denna fråga innehåller två omständigheter: Den första omständigheten gäller en man som sover hela dagen och som inte vaknar.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att sova hela dagarna? Vilket är utlåtandet om fastan för den som sover och som vaknar för att be men sedan sover igen? Vilket är utlåtandet om detta?

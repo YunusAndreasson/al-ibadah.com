@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1203
-description: >-
-  Fråga: Vilket är utlåtandet om att säga: ”Du har välsignat oss” och
-  ”välsignelser har besökt oss”? Svar: När vanligt folk säger ”Du har välsignat
-  oss” avser de inte samma som när de säger så o...
+description: 'När vanligt folk säger ”Du har välsignat oss” avser de inte samma som när de säger så om Allāh den Allsmäktige.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att säga: ”Du har välsignat oss” och ”välsignelser har besökt oss”?

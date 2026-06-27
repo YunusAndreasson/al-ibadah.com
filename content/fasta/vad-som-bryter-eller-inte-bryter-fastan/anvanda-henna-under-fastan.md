@@ -6,9 +6,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 904
-description: 'Fråga: Är det tillåtet att ta henna i håret när man fastar och ber?
- Jag har hört att henna bryter fastan? Svar: Detta är inte rätt då applicerande
- av henna inte bryter fastan. Den påverkar den...'
+description: 'Detta är inte rätt då applicerande av henna inte bryter fastan. Den påverkar den inte precis som kuḥl, örondroppar eller ögondroppar heller inte gör det.'
 ---
 
 **Fråga:** Är det tillåtet att ta henna i håret när man fastar och ber? Jag har hört att henna bryter fastan?

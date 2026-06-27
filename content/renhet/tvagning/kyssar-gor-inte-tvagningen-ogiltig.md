@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 162
-description: >-
-  Fråga: Gör kyssar tvagningen ogiltig? Svar: ‘A’ishah – må Allāh vara nöjd med
-  henne – har rapporterat att profeten – över honom vare Allāhs frid och
-  välsignelser – kysste en av hans fruar för ...
+description: '''A''ishah – må Allāh vara nöjd med henne – har rapporterat att profeten – över honom vare Allāhs frid och välsignelser – kysste en av hans fruar för att…'
 ---
 
 **Fråga:** Gör kyssar tvagningen ogiltig?

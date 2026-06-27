@@ -6,9 +6,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 1602
-description: 'Fråga: Är det tillåtet att ge allmosa till någon som lider av njurproblem? Svar: All
- lovprisan tillhör Allāh. Behovet av medicinsk vård är ett verkligt behov så om vi
- finner någon som behöver ...'
+description: 'All lovprisan tillhör Allāh. Behovet av medicinsk vård är ett verkligt behov, så om vi finner någon som behöver medicinsk behandling men som inte har…'
 ---
 
 **Fråga:** Är det tillåtet att ge allmosa till någon som lider av njurproblem?

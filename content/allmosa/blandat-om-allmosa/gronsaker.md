@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Övrigt
 original_id: 647
-description: >-
-  Fråga: Är det en skyldighet att betala allmosa för grönsaker som tomater,
-  potatis, lök och liknande? Svar: Allmosa är en skyldighet för korn och all
-  frukt som vägs och förvaras. Grönsaker krävs...
+description: 'Allmosa är en skyldighet för korn och all frukt som vägs och förvaras. Grönsaker krävs det ingen allmosa för.'
 ---
 
 **Fråga:** Är det en skyldighet att betala allmosa för grönsaker som tomater, potatis, lök och liknande?

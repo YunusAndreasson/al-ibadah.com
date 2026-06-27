@@ -6,8 +6,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1712
-description: 'Fråga: Vilka är de viktigaste överväganden en ung kvinna måste göra
- när hon väljer sin man? Om hon avvisar någon av ekonomiska eller världsliga anledningar – kommer Allāh då straffa henne? Svar:...'
+description: 'Det viktigaste drag som kvinnan måste se till när hon väljer sin man är fromhet och karaktär. Rikedom samt härkomst är sekundära överväganden.'
 ---
 
 **Fråga:** Vilka är de viktigaste överväganden en ung kvinna måste göra när hon väljer sin man? Om hon avvisar någon av ekonomiska eller världsliga anledningar – kommer Allāh då straffa henne?

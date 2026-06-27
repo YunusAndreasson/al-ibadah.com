@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Ställföreträdande vallfärd
 original_id: 730
-description: >-
-  Fråga: Bör jag vallfärda för mina två föräldrar som avlidit utan att ha gjort
-  den obligatoriska vallfärden. Detta med anledning av deras fattigdom. Vad
-  finns det att säga om att jag skulle vilja v...
+description: 'Det är tillåtet att du vallfärdar för dina båda föräldrar, eller att du utser någon annan gör det.'
 ---
 
 **Fråga:** Bör jag vallfärda för mina två föräldrar som avlidit utan att ha gjort den obligatoriska vallfärden. Detta med anledning av deras fattigdom. Vad finns det att säga om att jag skulle vilja vallfärda för dem?

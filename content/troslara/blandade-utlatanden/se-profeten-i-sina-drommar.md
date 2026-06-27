@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1680
-description: >-
-  Fråga: Hur korrekt är följande hadīth från profeten: ”Den som ser mig [i hans
-  drömmar], då har han sett mig”? I en annan hadīth säger han: ”Den som ser mig
-  [i hans drömmar], då är Elden förbjude...
+description: 'Den första ḥadīt̲h i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”Den som ser mig [i hans drömmar], då har han sett mig” är…'
 ---
 
 **Fråga:** Hur korrekt är följande *ḥadīt̲h* från profeten: ”Den som ser mig [i hans drömmar], då har han sett mig”? I en annan *ḥadīt̲h* säger han: ”Den som ser mig [i hans drömmar], då är Elden förbjuden för honom.” Vad säger de?

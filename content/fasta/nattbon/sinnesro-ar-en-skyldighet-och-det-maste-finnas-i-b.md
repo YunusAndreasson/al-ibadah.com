@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadanens nattbön
 original_id: 468
-description: >-
-  Fråga: Vi har en imam i en moské som skyndar sig mycket i tarāwīh-bönen. Vi
-  hinner inte åkalla, lovprisa Allāh eller ens koncentrera oss med ödmjukhet
-  under denna stora möjlighet. Utöver detta re...
+description: 'Det som är föreskrivet för imamen under tarāwīḥ-bönen och den obligatoriska bönen är stillsamhet, lugn rytm i recitation och ödmjukhet i bugningarna,…'
 ---
 
 **Fråga:** Vi har en imam i en moské som skyndar sig mycket i *tarāwīḥ*-bönen. Vi hinner inte åkalla, lovprisa Allāh eller ens koncentrera oss med ödmjukhet under denna stora möjlighet. Utöver detta reciterar han enbart den första *tas̲hahhud* fram till och med: ”Jag vittnar om att ingen har rätt att dyrkas utom Allāh och att Muḥammad är Hans tjänare och sändebud.” Han säger att detta är tillräckligt och han sänder inte extra välsignelser över profeten, något som enbart är ett extra tillägg enligt honom. Han reciterar inte mer än en eller två verser. Vi hoppas att du ska kunna ge oss råd och må Allāh belöna dig med gott.

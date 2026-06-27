@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Ramadanens nattbön
 original_id: 473
-description: >-
-  Fråga: Ber man nattbönen enbart under den välsignade månaden ramadan eller ber
-  man den under alla nätter? När börjar och slutar den? Svar: Att be nattbön är
-  sunnah och en ärbar handling som...
+description: 'Att be nattbön är sunnah och en ärbar handling som profeten – över honom vare Allāhs frid och välsignelser – och hans följeslagare var noga med att utföra.'
 ---
 
 **Fråga:** Ber man nattbönen enbart under den välsignade månaden *ramaḍān* eller ber man den under alla nätter? När börjar och slutar den?

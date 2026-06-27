@@ -8,10 +8,7 @@ source: >-
 categories:
   - Fasta (Sawm)
 original_id: 1264
-description: >-
-  Fråga: Vad ogiltigör fastan? Svar: Det som ogiltigör fastan är det som bryter
-  den och det är: Intim samvaro, att äta, att dricka, utlösning av sädesvätska
-  pågru...
+description: 'Det som ogiltigör fastan är det som bryter den och det är: 1. Intim samvaro, 2. att äta, 3. att dricka, 4. utlösning av sädesvätska på grund av begär, 5.'
 ---
 
 **Fråga:** Vad ogiltigör fastan?

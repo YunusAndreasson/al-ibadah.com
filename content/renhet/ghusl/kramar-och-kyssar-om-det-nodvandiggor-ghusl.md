@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Den stora tvagningen
 original_id: 1213
-description: >-
-  Fråga: Är det nödvändigt med tvagning när man har kramats och kyssats? Svar:
-  Varken kvinnor eller män behöver göra g̲husl enbart efter att ha njutit av en
-  omfamning eller kyss. Detta gäller så...
+description: 'Varken kvinnor eller män behöver göra g̲husl enbart efter att ha njutit av en omfamning eller kyss.'
 ---
 
 **Fråga:** Är det nödvändigt med tvagning när man har kramats och kyssats?

@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Ställföreträdande vallfärd
 original_id: 724
-description: 'Fråga: Våra föräldrar avled och de hade inte utfört den obligatoriska
- vallfärden. De hade heller inte lämnat något testamente efter sig om det. Bör vi
- vallfärda för deras skull och hur gör vi det?...'
+description: 'Om de hade det gott ställt i livet och möjlighet att vallfärda med sina tillgångar, då är ni skyldiga att vallfärda med deras tillgångar.'
 ---
 
 **Fråga:** Våra föräldrar avled och de hade inte utfört den obligatoriska vallfärden. De hade heller inte lämnat något testamente efter sig om det. Bör vi vallfärda för deras skull och hur gör vi det?

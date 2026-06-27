@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Kvinnans vallfärd
 original_id: 907
-description: 'Fråga: Vad finns att säga om den kvinna som ger sig av för att utföra
- den obligatoriska [första] vallfärden utan hennes makes tillstånd? Svar: Den
- obligatoriska vallfärden är endast obligatori...'
+description: 'Den obligatoriska vallfärden är endast obligatorisk om alla villkor är uppfyllda och att söka tillstånd hos sin make är inte ett av dem.'
 ---
 
 **Fråga:** Vad finns att säga om den kvinna som ger sig av för att utföra den obligatoriska [första] vallfärden utan hennes makes tillstånd?

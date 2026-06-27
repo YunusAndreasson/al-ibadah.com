@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 150
-description: >-
-  Fråga: Anses dörren till ijtihād, för att formulera nya utlåtanden, vara öppen
-  för vem som helst, eller måste särskilda krav uppnås för att någon ska vara
-  mujtahid? Får vem som helst döma en...
+description: 'Dörren till att utföra ijtihād för att finna islamiska utlåtanden förblir öppen för dem som är kvalificerade för att göra det.'
 ---
 
 **Fråga:** Anses dörren till *ijtihād*, för att formulera nya utlåtanden, vara öppen för vem som helst, eller måste särskilda krav uppnås för att någon ska vara *mujtahid*[^1]? Får vem som helst döma enligt sin åsikt, utan kunskap om tydliga bevis? Vad finns det att säga om följande *ḥadīt̲h*: ”*Jag varnar er för att utfärda domar, på samma sätt som jag varnar er för Elden*.”? [*ad-Darimi*, 157]

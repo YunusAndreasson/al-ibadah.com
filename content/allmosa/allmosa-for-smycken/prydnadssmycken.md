@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Allmosa för smycken
 original_id: 619
-description: 'Fråga: De fyra imamerna har olika åsikter om smycken som kvinnor har
- som prydnad. En av dem säger att det är obligatoriskt enligt [vissa] villkor. En
- säger att det inte är obligatoriskt. En säger at...'
+description: 'Det råder inga tvivel om att det finns en stor meningsskiljaktighet, nu som då, om utlåtandet om allmosa för smycken som används.'
 ---
 
 **Fråga:** De fyra imamerna har olika åsikter om smycken som kvinnor har som prydnad. En av dem säger att det är obligatoriskt enligt [vissa] villkor. En säger att det inte är obligatoriskt. En säger att det är obligatoriskt ovillkorslöst. Så vilken åsikt anser ni vara den korrekta? Må Allāh belöna er med gott.

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Eid-bönen
 original_id: 371
-description: >-
-  Fråga: Vilka handlingar är att föredra under ‘eid -dagen? Svar: Under ‘eid
-  -dagen uppvisar muslimerna glädje efter att ha avslutat fastan, nattbönen och
-  all obligatorisk dyrkan. Detta är en ...
+description: 'Under ´eid-dagen uppvisar muslimerna glädje efter att ha avslutat fastan, nattbönen och all obligatorisk dyrkan.'
 ---
 
 **Fråga:** Vilka handlingar är att föredra under *´eid*-dagen?

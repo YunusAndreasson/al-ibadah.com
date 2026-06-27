@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Monoteism
 original_id: 914
-description: >-
-  Fråga: Vilken är den första plikten som åligger skapelsen? Svar: Den första
-  plikten som åligger skapelsen är det första som de har kallats till. Detta har
-  klargjorts av profeten – över honom v...
+description: 'Den första plikten som åligger skapelsen är det första som de har kallats till. Detta har klargjorts av profeten – över honom vare Allāhs frid och…'
 ---
 
 **Fråga:** Vilken är den första plikten som åligger skapelsen?

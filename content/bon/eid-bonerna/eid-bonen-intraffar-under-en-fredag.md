@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Eid-bönen
 original_id: 353
-description: >-
-  Fråga: Två ´eid inträffar under samma dag – fredag och ´eid al-adhā . Vad gör
-  man i så fall? Svar: Den som bad ´eid under fredagen behöver inte närvara vid
-  fredagsbönen den dagen. Detta ...
+description: 'Den som bad ´eid under fredagen behöver inte närvara vid fredagsbönen den dagen. Detta gäller dock inte imamen som måste be den med dem som vill närvara,…'
 ---
 
 **Fråga:** Två *´eid* inträffar under samma dag – fredag och *´eid al-aḍḥā*. Vad gör man i så fall?

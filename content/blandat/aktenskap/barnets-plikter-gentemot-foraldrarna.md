@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1686
-description: >-
-  Fråga: Jag har en mormor som har avlidit och hon var mig mycket kär och jag
-  kommer aldrig att glömma henne. Vad måste jag göra för henne nu så att jag ska
-  kunna känna att jag gjort en liten del ...
+description: 'Du får åkalla för henne och du ber då Allāh den Allsmäktige att Han förlåter henne, ge i välgörenhet för hennes räkning och vallfärdar samt gör ´umrah för…'
 ---
 
 **Fråga:** Jag har en mormor som har avlidit och hon var mig mycket kär och jag kommer aldrig att glömma henne. Vad måste jag göra för henne nu så att jag ska kunna känna att jag gjort en liten del av vad jag är skyldig att göra för henne?

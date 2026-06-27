@@ -8,10 +8,7 @@ source: >-
 categories:
   - Vallfärd (Hajj)
 original_id: 700
-description: >-
-  Fråga: All lovprisan tillhör Allāh ensam och må böner med välsignelser och
-  frid vara över Hans tjänare och Budbärare, vår profet Muḥammad, och hans
-  följeslagare och alla de som följer dem i rättfä...
+description: 'Ni muslimer som kommit till det heliga Huset för att vallfärda, jag ber Allāh om att vi ska få framgång med att göra det som gör Honom nöjd och jag ber om…'
 ---
 
 **Fråga:** All lovprisan tillhör Allāh ensam och må böner med välsignelser och frid vara över Hans tjänare och Budbärare, vår profet Muḥammad, och hans följeslagare och alla de som följer dem i rättfärdighet fram till Domens Dag.

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Stenkastningen
 original_id: 856
-description: >-
-  Fråga: Får den som inte har någon ursäkt kasta stenar på pelarna nattetid
-  under at-ayyām at-tas̲hrīq? Får den som beger sig från Muzdalifah med kvinnor,
-  barn och svaga under natten före offerdage...
+description: 'Enligt den korrekta åsikten är det tillåtet att kasta stenarna efter solnedgången. Det som är sunnah är dock att kasta dem efter middag men innan…'
 ---
 
 **Fråga:** Får den som inte har någon ursäkt kasta stenar på pelarna nattetid under *at-ayyām at-tas̲hrīq*? Får den som beger sig från *Muzdalifah* med kvinnor, barn och svaga under natten före offerdagen kasta stenar på pelaren al-´Aqabah efter midnatt?

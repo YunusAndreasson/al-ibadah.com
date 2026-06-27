@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Strykning över strumpor
 original_id: 1443
-description: >-
-  Fråga: Är strykandet över lädersockar jämförbart med att stryka över bomulls-,
-  ylle-, eller nylonsockar? Vad finns det för villkor för att det ska vara
-  tillåtet att stryka över dem? Är det tillå...
+description: 'Det är tillåtet att stryka över rena sockar som täcker hela foten. Detta grundas på vad som har rapporterats från ett flertal av profetens – över honom…'
 ---
 
 **Fråga:** Är strykandet över lädersockar jämförbart med att stryka över bomulls-, ylle-, eller nylonsockar? Vad finns det för villkor för att det ska vara tillåtet att stryka över dem? Är det tillåtet att be i skor?

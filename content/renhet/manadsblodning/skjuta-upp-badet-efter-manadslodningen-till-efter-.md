@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 452
-description: >-
-  Fråga: Är det tillåtet att skjuta upp badet efter sexuell orenhet till efter
-  tiden för gryningsbönen har kommit och får kvinnor skjuta upp badet efter
-  månadsblödningen eller blödningen efter gravi...
+description: 'Om kvinnan ser att hon är ren innan gryningsbönen, då måste hon fasta och det är ingen fara om hon skjuter upp badet till efter gryningsbönen.'
 ---
 
 **Fråga:** Är det tillåtet att skjuta upp badet efter sexuell orenhet till efter tiden för gryningsbönen har kommit och får kvinnor skjuta upp badet efter månadsblödningen eller blödningen efter graviditeten till gryningsbönen?

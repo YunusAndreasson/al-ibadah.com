@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 1419
-description: >-
-  Fråga: Det finns en person som måste ta igen fastedagar från ramaḍān. Personen
-  vill dock också fasta de sex dagarna under s̲hawwāl innan personen tar igen
-  det som måste tas igen. Personen vill göra d...
+description: 'Det som är föreskrivet är att personen börjar med att ta igen fastan [från ramaḍān] innan dessa sex dagar fastas.'
 ---
 
 **Fråga:** Det finns en person som måste ta igen fastedagar från *ramaḍān*. Personen vill dock också fasta de sex dagarna under *s̲hawwāl* innan personen tar igen det som måste tas igen. Personen vill göra detta eftersom dagarna från *ramaḍān* går att ta igen när som helst men de sex dagarna under *s̲hawwāl* gäller enbart under denna månad. Jag hoppas på hjälp från er sida. Må Allāh belöna er.

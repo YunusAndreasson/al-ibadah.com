@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Hårklippning
 original_id: 835
-description: >-
-  Fråga: Vilket är utlåtandet om att raka huvudet eller klippa håret under
-  ‘umrah? Svar: Det är obligatoriskt att raka huvudet eller klippa håret under
-  ‘umrah . Anledningen är att när profete...
+description: 'Det är obligatoriskt att raka huvudet eller klippa håret under ´umrah. Anledningen är att när profeten – över honom vare Allāhs frid och välsignelser – kom…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att raka huvudet eller klippa håret under *´umrah*?

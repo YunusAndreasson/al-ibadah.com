@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Ekonomi
 original_id: 1620
-description: >-
-  Fråga: En man som var generös och hade en god karaktär avled. Dock så varken
-  fastade eller bad han. Efter hans död betalade hans föräldrar en summa pengar
-  till en annan person för att han skulle b...
+description: 'Mannen som avled då han varken bad eller fastade har avlidit som en icke-troende – och vi söker tillflykt hos Allāh från detta.'
 ---
 
 **Fråga:** En man som var generös och hade en god karaktär avled. Dock så varken fastade eller bad han. Efter hans död betalade hans föräldrar en summa pengar till en annan person för att han skulle be de böner som han själv inte förrättat och fasta det som han själv inte hade fastat. Är detta islamiskt sett korrekt och vilket är utlåtandet om att ta dessa pengar?

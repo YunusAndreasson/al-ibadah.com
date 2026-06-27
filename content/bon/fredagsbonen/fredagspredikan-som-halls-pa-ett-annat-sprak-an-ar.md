@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 1002
-description: 'Fråga: Vilket är utlåtandet om att hålla en fredagspredikan på ett
- annat språk än arabiska? Svar: Den korrekta åsikten är att den som håller fredagspredikan
- inte får göra det på ett språk som de n...'
+description: 'Den korrekta åsikten är att den som håller fredagspredikan inte får göra det på ett språk som de närvarande inte förstår.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att hålla en fredagspredikan på ett annat språk än arabiska?

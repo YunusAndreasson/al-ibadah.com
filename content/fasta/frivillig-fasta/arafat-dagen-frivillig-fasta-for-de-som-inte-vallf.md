@@ -6,10 +6,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 1611
-description: >-
-  Fråga: Vilket är utlåtandet i fråga om att de som inte vallfärdar fastar
-  arafat-dagen? Svar: Att de som inte vallfärdar fastar arafat-dagen är en
-  bekräftad sunnah. Allāhs sändebud – må Allāhs ...
+description: 'Att de som inte vallfärdar fastar ´Arafāt-dagen är en bekräftad sunnah. Allāhs sändebud – må Allāhs frid och välsignelser vara över honom – tillfrågades om…'
 ---
 
 **Fråga:** Vilket är utlåtandet i fråga om att de som inte vallfärdar fastar *´Arafāt*-dagen?

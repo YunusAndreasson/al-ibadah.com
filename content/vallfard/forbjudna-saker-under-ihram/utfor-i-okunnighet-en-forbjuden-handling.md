@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Förbud i helgtillståndet
 original_id: 1552
-description: >-
-  Fråga: Vad gäller den som, ovetandes eller på grund av glömska, utför en av de
-  nio förbjudna handlingarna under ihrām? Svar: Den som glömmer och klipper sitt
-  hår eller sina naglar har inte s...
+description: 'Den som glömmer och klipper sitt hår eller sina naglar har inte syndat och han behöver inte offra.'
 ---
 
 **Fråga:** Vad gäller den som, ovetandes eller på grund av glömska, utför en av de nio förbjudna handlingarna under *iḥrām*?

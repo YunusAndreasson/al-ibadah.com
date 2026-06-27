@@ -6,9 +6,7 @@ categories:
   - Allmosa (Zakāh)
   - Besparingar och lön
 original_id: 1606
-description: 'Fråga: Jag sparar en del från min månadslön. Behöver jag betala allmosa
- för dessa pengar? Jag sparar dem för att bygga ett hus och för att betala för ett
- äktenskap, om Allāh vill. Jag har sparat d...'
+description: 'Tillgångar som sparas för giftermål, för att bygga ett hus eller i något annat syfte måste allmosan betalas för om de når det lägsta värdet och ett år har…'
 ---
 
 **Fråga:** Jag sparar en del från min månadslön. Behöver jag betala allmosa för dessa pengar? Jag sparar dem för att bygga ett hus och för att betala för ett äktenskap, om Allāh vill. Jag har sparat dessa pengar på banken under flera år då jag inte har någon annanstans att förvara dem.

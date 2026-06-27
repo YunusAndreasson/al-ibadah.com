@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 822
-description: >-
-  Fråga: Hur beskrivs sa’ī, från vilken plats börjar den som utför sa’ī och hur
-  många varv är den? Svar: Den börjar vid as-Safa och slutar vid al-Marwah.
-  Antalet varv är sju. Det första börj...
+description: 'Den börjar vid as-Safa och slutar vid al-Marwah. Antalet varv är sju. Det första börjar vid as-Safa och det sista slutar vid al-Marwah.'
 ---
 
 **Fråga:** Hur beskrivs *sa´ī*, från vilken plats börjar den som utför *sa´ī* och hur många varv är den?

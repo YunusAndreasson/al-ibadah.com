@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Övrigt
 original_id: 402
-description: 'Fråga: Finns det fördelar för samhället med fastan? Svar: Ja, det
- finns fördelar för samhället. En av dem är att människor känner att de är ett samfund.
- De äter under en tid och de fastar unde...'
+description: 'Ja, det finns fördelar för samhället. En av dem är att människor känner att de är ett samfund. De äter under en tid och de fastar under en tid.'
 ---
 
 **Fråga:** Finns det fördelar för samhället med fastan?

@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Kost och hälsa
 original_id: 1638
-description: >-
-  Fråga: Jag studerar vid ett universitet i Japan och ett antal föreningar och
-  klubbar träffas vi vid fester där det serveras alkohol. Gör jag mig skyldig
-  till synd genom att vara närvarande vid en ...
+description: 'Det är inte tillåtet att sitta tillsammans med människor som dricker alkohol utan i syfte att tillrättavisa dem.'
 ---
 
 **Fråga:** Jag studerar vid ett universitet i Japan och ett antal föreningar och klubbar träffas vi vid fester där det serveras alkohol. Gör jag mig skyldig till synd genom att vara närvarande vid en plats där det serveras vin? Detta i vetskap om att jag är noga med att inte sitta jämte de som dricker, och all lovprisan tillhör Allāh.

@@ -8,9 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Monoteism
 original_id: 1084
-description: 'Fråga: Vad behöver kopplas till Allāhs tillåtelse och vad behöver inte
- kopplas till den? Svar: Det är att föredra att koppla allt till Allāhs tillåtelse
- enligt Hans den Upphöjdes ord: ...'
+description: 'Det är att föredra att koppla allt till Allāhs tillåtelse enligt Hans den Upphöjdes ord: > ”Säg aldrig under några omständigheter: ’Detta ska jag göra i…'
 ---
 
 **Fråga:** Vad behöver kopplas till Allāhs tillåtelse och vad behöver inte kopplas till den?

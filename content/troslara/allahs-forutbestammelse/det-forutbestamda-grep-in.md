@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 1586
-description: 'Fråga: Vilket är utlåtandet om att säga ”det förutbestämda grep in”
- och ”Allāhs dekret grep in? Svar: När människor säger ”det förutbestämda grep
- in” eller ”Allāhs dekret grep” så är det fel. ...'
+description: 'När människor säger ”det förutbestämda grep in” eller ”Allāhs dekret grep” så är det fel. Det betyder ju att det förutbestämda agerade felaktigt genom att…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att säga “det förutbestämda grep in” och “Allāhs dekret grep in”?

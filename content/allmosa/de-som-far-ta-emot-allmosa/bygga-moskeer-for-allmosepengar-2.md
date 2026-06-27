@@ -4,10 +4,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 1028
-description: >-
-  Fråga: Gäller Allāh den Upphöjdes ord: “Och för Guds sak.” [Koranen 9:60] om
-  man spenderar allmosan på att bygga moskéer? Svar: Att bygga moskéer
-  innefattas inte i Allāhs den Upphöjdes ord: ...
+description: 'Att bygga moskéer innefattas inte i Allāhs den Upphöjdes ord: "Och för Guds sak." De lärde inom tafsīr har förklarat att innebörden av "Och för Guds sak."…'
 ---
 
 **Fråga:** Gäller Allāh den Upphöjdes ord: ”*Och för Guds sak*.” [^1] om man spenderar allmosan på att bygga moskéer?

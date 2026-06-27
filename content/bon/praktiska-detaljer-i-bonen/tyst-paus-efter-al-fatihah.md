@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 332
-description: >-
-  Fråga: Ska en imam pausa efter *al-Fātiḥah* för att de bakom honom också ska
-  hinna recitera den? Svar: Det finns inga tydliga eller autentiska bevis som
-  visar att imamen får pausa för att Allā...
+description: 'Det finns inga tydliga eller autentiska bevis som visar att imamen får pausa för att Allāhs tjänare ska recitera al-Fātiḥah i bönen som bes med höjd röst.'
 ---
 
 **Fråga:** Ska en imam pausa efter *al-Fātiḥah* för att de bakom honom också ska hinna recitera den?

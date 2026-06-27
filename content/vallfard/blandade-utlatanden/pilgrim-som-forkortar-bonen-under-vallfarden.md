@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Övrigt
 original_id: 344
-description: >-
-  Fråga: Vilket är utlåtandet om en pilgrim som förkortar bönen under vallfärden
-  när han vistas i Mecka under mer än fyra dagar? Svar: Bor pilgrimen i Mecka
-  under fyra dagar eller mindre än så, ...
+description: 'Bor pilgrimen i Mecka under fyra dagar eller mindre än så, då är det sunnah att be de böner som är fyra bönecykler som två bönecykler, enligt hur profeten…'
 ---
 
 **Fråga:** Vilket är utlåtandet om en pilgrim som förkortar bönen under vallfärden när han vistas i Mecka under mer än fyra dagar?

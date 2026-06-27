@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 1524
-description: >-
-  Fråga: Det finns en hadīth från Allāhs sändebud – över honom vare Allāhs frid
-  och välsignelser – i vilken han säger: ” Den som åt lök, vitlök eller purjolök
-  bör inte komma nära vår moské under t...
+description: 'Denna och andra autentiska aḥādīt̲h med samma innebörd bevisar att det är ogillat att en muslim är närvarande vid den gemensamma bönen så länge lukten…'
 ---
 
 **Fråga:** Det finns en *ḥadīt̲h* från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – i vilken han säger: ”*Den som åt lök, vitlök eller purjolök bör inte komma nära vår moské under tre dagar. Änglarna skadas av det som skadar människan*.” [^1] Betyder det att den som äter något av detta inte får be i moskén tills denna period är över, eller betyder det att det inte är tillåtet att äta detta för någon som avser att be i församlingen?

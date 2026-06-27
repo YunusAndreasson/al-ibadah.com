@@ -7,9 +7,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1642
-description: 'Fråga: Vi har i dessa tider hört vad som skapar dispyter och förvåning.
- Somliga säger: ”Vi gillar inte att våra fruar föder döttrar.” Någon har sagt till
- sin fru: ”Vid Allāh, om du föder en dotter...'
+description: 'Jag tror att vad denna broder säger är mycket sällsynt och jag tror inte att någons okunnighet ska nå den nivå att han hotar sin fru med skilsmässa om hon…'
 ---
 
 **Fråga:** Vi har i dessa tider hört vad som skapar dispyter och förvåning. Somliga säger: ”Vi gillar inte att våra fruar föder döttrar.” Någon har sagt till sin fru: ”Vid Allāh, om du föder en dotter kommer jag att skilja mig från dig!” Vi svär oss fria dem. Man kan se kvinnor i djup förtvivlan på grund av detta. Vad bör hon göra? Har ni något råd?

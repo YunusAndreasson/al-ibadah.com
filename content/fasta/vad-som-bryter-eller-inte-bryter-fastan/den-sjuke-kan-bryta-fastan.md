@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 441
-description: >-
-  Fråga: Jag är sexton år gammal och jag har legat på lasarettet under de
-  senaste fem åren. Under förra ramadan beordrade en doktor att jag skulle ges
-  en medicin i nacken när jag fastade. Medicinen ...
+description: 'För den sjuke är det föreskrivet att bryta fastan under ramaḍān om fastan är skadlig eller svår för personen eller om personen behöver ta någon medicin…'
 ---
 
 **Fråga:** Jag är sexton år gammal och jag har legat på lasarettet under de senaste fem åren. Under förra *ramaḍān* beordrade en doktor att jag skulle ges en medicin i nacken när jag fastade. Medicinen var stark och den påverkade min mage och hela min kropp under dagen jag tog den och jag blev då hungrig. När mindre än sju timmar hade gått efter gryningsbönen, ungefär vid eftermiddagsbönen, då började jag känna smärta på grund av hungern. Det kändes som att jag skulle dö men jag bröt inte min fasta förrän vid böneutropet för kvällsbönen. Under *ramaḍān* detta år, om Allāh vill, kommer doktorn återigen att beordra att jag ska ges denna medicin. Bör jag bryta min fasta under den dagen? Om jag inte bryter min fasta, behöver jag då fortfarande ta igen den dagen? Bryts fastan om man tar blod från en blodåder i nacken? Bryter den medicin som jag har nämnt fastan?

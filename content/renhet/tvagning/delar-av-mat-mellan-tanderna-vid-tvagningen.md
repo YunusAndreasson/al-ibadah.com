@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1435
-description: >-
-  Fråga: Ibland finner jag matrester mellan mina tänder. Måste jag ta bort dem
-  innan jag tvagar mig? Svar: För mig är det uppenbart att det inte är en
-  skyldighet att ta bort dem innan tvagningen...
+description: 'För mig är det uppenbart att det inte är en skyldighet att ta bort dem innan tvagningen, men reningen är dock utan tvekan mer fullständig, renare och…'
 ---
 
 **Fråga:** Ibland finner jag matrester mellan mina tänder. Måste jag ta bort dem innan jag tvagar mig?

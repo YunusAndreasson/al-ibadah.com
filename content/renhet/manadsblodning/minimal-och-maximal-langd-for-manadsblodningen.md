@@ -9,10 +9,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 1140
-description: >-
-  Fråga: Finns det en minimal eller maximal längd i dagar räknat för
-  månadsblödningen? Svar: Enligt den korrekta åsikten finns det ingen minimal
-  eller maximal gräns av antalet dagar för månadsbl...
+description: 'Enligt den korrekta åsikten finns det ingen minimal eller maximal gräns av antalet dagar för månadsblödningen.'
 ---
 
 **Fråga:** Finns det en minimal eller maximal längd i dagar räknat för månadsblödningen?

@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Monoteism
 original_id: 1085
-description: >-
-  Fråga: Vilket är utlåtandet om att motsätta sig Allāhs den Upphöjdes namn och
-  egenskaper? Svar: Avvisandet är av två olika typer: Motsättande i form av
-  förnekelse. Detta är utan tvekan...
+description: 'Avvisandet är av två olika typer: 1. Motsättande i form av förnekelse. Detta är utan tvekan otro.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att motsätta sig Allāhs den Upphöjdes namn och egenskaper?

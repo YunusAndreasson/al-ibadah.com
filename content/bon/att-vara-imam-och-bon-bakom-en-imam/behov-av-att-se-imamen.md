@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 1528
-description: >-
-  Fråga: Det finns en moské nära oss och norr om den finns ett område som vi
-  skulle vilja göra till böneplats för kvinnor under ramadan. Är detta tillåtet
-  med vetskap om att de inte kan se imamen ut...
+description: 'De lärde är till viss del oeniga om giltigheten i deras bön. De kan ju inte se imamen utan hör endast hans takbīr.'
 ---
 
 **Fråga:** Det finns en moské nära oss och norr om den finns ett område som vi skulle vilja göra till böneplats för kvinnor under *ramaḍān*. Är detta tillåtet med vetskap om att de inte kan se imamen utan endast följer honom genom högtalare?

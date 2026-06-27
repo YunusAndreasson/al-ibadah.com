@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1436
-description: >-
-  Fråga: Jag lider ofta av gas i magen. När jag
-  tvagar mig blir jag till exempel osäker på om jag har släppt mig. Då gör jag
-  om tvagningen en eller två gånger Är detta...
+description: 'Känslan att ha släppt sig under bönen drabbar somliga; ofta är det inte mer än inbillningar och inte äkta.'
 ---
 
 **Fråga:** Jag lider ofta av gas i magen. När jag tvagar mig blir jag till exempel osäker på om jag har släppt mig. Då gör jag om tvagningen en eller två gånger. Är detta naturligt och vilket är utlåtandet?

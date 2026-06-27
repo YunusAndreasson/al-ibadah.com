@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 937
-description: >-
-  Fråga: Bör den troende upprepa bönen om det blev klart att han vänt sig bort
-  från qiblah? Svar: Om personen enbart avvek lite grann är det ingen fara. Så är
-  fallet utom i den Heliga Moskén. Där ä...
+description: 'Om personen enbart avvek lite grann är det ingen fara. Så är fallet utom i den Heliga Moskén. Där är qiblah Ka''bah själv.'
 ---
 
 **Fråga:** Bör den troende upprepa bönen om det blev klart att han vänt sig bort från *qiblah*?

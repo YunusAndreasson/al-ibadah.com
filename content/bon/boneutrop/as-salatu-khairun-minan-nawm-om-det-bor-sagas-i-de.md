@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 1157
-description: >-
-  Fråga: Bör man säga as-salatu khairun minan-nawm [bön är bättre än sömn] i det
-  första eller andra böneutropet? Svar: Man bör säga as-salatu khairun
-  minan-nawm [bön är bättre än sömn] i det...
+description: 'Man bör säga as-salatu khairun minan-nawm [bön är bättre än sömn] i det första böneutropet, vilket har rapporterats i en ḥadīt̲h: "Om du ropar ut det…'
 ---
 
 **Fråga:** Bör man säga *as-salatu khairun minan-nawm* [bön är bättre än sömn] i det första eller andra böneutropet?

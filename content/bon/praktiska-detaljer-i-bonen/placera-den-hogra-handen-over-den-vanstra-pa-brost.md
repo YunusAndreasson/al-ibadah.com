@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 1222
-description: >-
-  Fråga: Vilket är utlåtandet om att placera den högra handen över den vänstra,
-  på bröstet eller över hjärtat? Vilket är utlåtandet om att placera händerna
-  under naveln? Finns det skillnader mellan ...
+description: 'Utlåtandet om att placera den högra handen över den vänstra i bönen är att det är en sunnah.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att placera den högra handen över den vänstra, på bröstet eller över hjärtat? Vilket är utlåtandet om att placera händerna under naveln? Finns det skillnader mellan män och kvinnor?

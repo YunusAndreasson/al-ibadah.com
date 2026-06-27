@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Ramadans datum
 original_id: 1258
-description: >-
-  Fråga: Somliga manar till att alla ska följa månens siktande i Mecka för att
-  det muslimska samfundet under den välsignade ramadan ska börja fastan
-  samtidigt. Vad anser ni om detta? Svar: F...
+description: 'Från en astronomisk synvinkel är detta omöjligt därför att nymånens framträdande, vilket s̲hayk̲h ul-islām ibn Taymiyyah – må Allāh vara honom nådig –…'
 ---
 
 **Fråga:** Somliga manar till att alla ska följa månens siktande i Mecka för att det muslimska samfundet under den välsignade *ramaḍān* ska börja fastan samtidigt. Vad anser ni om detta?

@@ -5,10 +5,7 @@ source: Majmoo’ al-Fatāwa (15/355)
 categories:
   - Troslära (´Aqīdah)
 original_id: 1607
-description: >-
-  Fråga: Jag fastade en dag för att ta igen en missad fasta men efter
-  middagsbönen kände jag mig hungrig. Jag drack då avsiktligen, inte för att jag
-  glömde eller inte kände till detta. Vilket är utl...
+description: 'Du måste fullborda denna fasta. Det är inte tillåtet att bryta fastan om det var en obligatorisk fasta, som att ta igen en fastedag från ramaḍān eller en…'
 ---
 
 **Fråga:** Jag fastade en dag för att ta igen en missad fasta men efter middagsbönen kände jag mig hungrig. Jag drack då avsiktligen, inte för att jag glömde eller inte kände till detta. Vilket är utlåtandet om detta?

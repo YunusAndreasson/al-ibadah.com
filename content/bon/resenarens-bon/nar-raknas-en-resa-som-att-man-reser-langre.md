@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 545
-description: 'Fråga: När räknas en resa som resande [en resa som ger dispens för
- resenären vad gäller böner]? Svar: All lovprisan tillhör Allāh. Vissa lärde
- anser att resandet har definierats genom ett avst...'
+description: 'All lovprisan tillhör Allāh. Vissa lärde anser att resandet har definierats genom ett avstånd på mellan 81 och 83 kilometer eller mer.'
 ---
 
 **Fråga:** När räknas en resa som resande [en resa som ger dispens för resenären vad gäller böner]?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Frivilliga och speciella böner
 original_id: 1508
-description: >-
-  Fråga: Vilket är utlåtandet om att be hälsningsbönen till moskén efter
-  böneutropet för kvällsbönen när tiden mellan böneutropet och iqāmah är kort.
-  Vilket är utlåtandet om att be frivilliga böner ...
+description: 'Hälsningsbönen till moskén är en högt rekommenderad sunnah vid alla tidpunkter, även då det är förbjudet att be.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att be hälsningsbönen till moskén[^1] efter böneutropet för kvällsbönen när tiden mellan böneutropet och *iqāmah* är kort. Vilket är utlåtandet om att be frivilliga böner utöver *tahiyatul-masjid* innan kvällsbönen?

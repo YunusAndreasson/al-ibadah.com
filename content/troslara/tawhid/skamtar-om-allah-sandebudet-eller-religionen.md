@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Monoteism
 original_id: 1097
-description: >-
-  Fråga: Vilket är utlåtandet om någon som på ett hånfullt sätt skämtar om
-  Allāh, sändebudet – över honom vare Allāhs frid och välsignelser – eller
-  religionen? Svar: Även om det enbart var ett s...
+description: 'Även om det enbart var ett skämt för att få människor att skratta är det en handling med otro och hyckleri.'
 ---
 
 **Fråga:** Vilket är utlåtandet om någon som på ett hånfullt sätt skämtar om Allāh, sändebudet – över honom vare Allāhs frid och välsignelser – eller religionen?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nattbön
 original_id: 298
-description: >-
-  Fråga: Jag är en kvinna som sover mycket djupt. Kan jag be witr innan jag
-  lägger mig, för jag vaknar inte förrän det är tid för gryningsbönen? Kommer
-  detta att räknas som nattbön för mig? Sv...
+description: 'Vaknar du vanligtvis inte innan böneutropet för gryningsbönen, då är det bättre att be witr innan du går och lägger dig.'
 ---
 
 **Fråga:** Jag är en kvinna som sover mycket djupt. Kan jag be *witr* innan jag lägger mig, för jag vaknar inte förrän det är tid för gryningsbönen? Kommer detta att räknas som nattbön för mig?

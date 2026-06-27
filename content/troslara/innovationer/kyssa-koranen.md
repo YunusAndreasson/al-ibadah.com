@@ -6,9 +6,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 565
-description: 'Fråga: Jag har ibland sett människor kyssa Koranen, såsom människor
- kysser varandra av kärlek. Är detta tillåtet? Svar: Vi känner inte till någon
- grund för att kyssa Koranen. Och hos Allāh v...'
+description: 'Vi känner inte till någon grund för att kyssa Koranen. Och hos Allāh vilar all framgång.'
 ---
 
 **Fråga:** Jag har ibland sett människor kyssa Koranen, såsom människor kysser varandra av kärlek. Är detta tillåtet?

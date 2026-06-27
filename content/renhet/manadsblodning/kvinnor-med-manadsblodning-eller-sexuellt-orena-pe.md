@@ -7,9 +7,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 374
-description: 'Fråga: En kvinnas månadsblödning började när hon var inne i Allāhs
- budbärares moské. Hon stannade en kort stund medan hennes familj bad färdigt. Därefter
- gick hon ut med dem. Har hon syndat genom ...'
+description: 'Om hon inte hade möjlighet att gå ut själv, då har hon inte syndat. Men om hon hade möjlighet att gå ut själv är det hennes skyldighet att skyndsamt gå ut.'
 ---
 
 **Fråga:** En kvinnas månadsblödning började när hon var inne i Allāhs budbärares moské. Hon stannade en kort stund medan hennes familj bad färdigt. Därefter gick hon ut med dem. Har hon syndat genom att göra så här?

@@ -6,9 +6,7 @@ categories:
   - Allmosa (Zakāh)
   - Betalningstid
 original_id: 1598
-description: 'Fråga: Är det tillåtet att ge vår allmosa till en känd organisation
- som tar emot allmosa för att hjälpa behövande? Vi vet inte hur den kommer att spenderas. Svar: Om
- du själv ger den till den ...'
+description: 'Om du själv ger den till den som enligt din förståelse är berättigad till den kommer du att vara säker på att den hamnar rätt.'
 ---
 
 **Fråga:** Är det tillåtet att ge vår allmosa till en känd organisation som tar emot allmosa för att hjälpa behövande? Vi vet inte hur den kommer att spenderas.

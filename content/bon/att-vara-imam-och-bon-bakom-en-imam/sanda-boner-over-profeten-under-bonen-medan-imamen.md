@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 1492
-description: >-
-  Fråga: Är det tillåtet att sända böner över profeten – över honom vare Allāhs
-  frid och välsignelser – när imamen reciterar: ” Gud och Hans änglar välsignar
-  profeten; be Gud välsigna honom, ni troe...
+description: 'Om du befinner dig bakom imamen i bönen och han reciterar med höjd röst, då måste du vara tyst, lyssna på hans recitation och inte tala medan han…'
 ---
 
 **Fråga:** Är det tillåtet att sända böner över profeten – över honom vare Allāhs frid och välsignelser – när imamen reciterar: ”*Gud och Hans änglar välsignar profeten; be Gud välsigna honom, ni troende, och hälsa honom med en vördnadsfull hälsning*.” [^1]

@@ -6,9 +6,7 @@ categories:
   - Renhet (Tahārah)
   - Strykning över strumpor
 original_id: 515
-description: 'Fråga: Vilket är utlåtandet om att stryka över sina strumpor om de
- har hål eller är mycket tunna? All lovprisan tillhör Allāh. Svar: Det är tillåtet
- att stryka över dem i stället för att tvät...'
+description: 'Det är tillåtet att stryka över dem i stället för att tvätta fötterna när man tvagar sig, om man har tagit på sig dem när man var rituellt ren, såvida inte…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att stryka över sina strumpor om de har hål eller är mycket tunna? All lovprisan tillhör Allāh.

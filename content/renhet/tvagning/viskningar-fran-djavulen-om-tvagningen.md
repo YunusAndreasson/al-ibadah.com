@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1432
-description: >-
-  Fråga: När jag tvagar mig känner jag ibland att den bryts. Detta händer även
-  under bönen. Jag vet inte om det är sant eller om det är viskningar från
-  djävulen. Därför upprepar jag tvagningen många...
+description: 'Viskningarna kommer från djävulen; du måste avvisa dem, bortse från dem, göra klar din tvagning och be.'
 ---
 
 **Fråga:** När jag tvagar mig känner jag ibland att den bryts. Detta händer även under bönen. Jag vet inte om det är sant eller om det är viskningar från djävulen. Därför upprepar jag tvagningen många gånger och det kan ibland leda till att jag missar bönen i församlingen och att jag tänker för mycket under bönen. Vänligen, ge mig råd och du kommer att belönas, om Allāh vill.

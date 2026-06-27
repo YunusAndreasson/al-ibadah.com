@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 118
-description: >-
-  Fråga: Ser profeten – över honom vare Allāhs frid och välsignelser – dem som
-  besöker hans grav? Svar: Det har varken rapporterats i Allāhs skrift eller i
-  profetens – över honom vare Allāhs fri...
+description: 'Det har varken rapporterats i Allāhs skrift eller i profetens – över honom vare Allāhs frid och välsignelser – autentiska sunnah att profeten – över honom…'
 ---
 
 **Fråga:** Ser profeten – över honom vare Allāhs frid och välsignelser – dem som besöker hans grav?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Övrigt
 original_id: 701
-description: >-
-  Fråga: Vad finns det för villkor för vallfärden? Svar: Villkoren för att
-  vallfärden ska vara en skyldighet är fem: islam, mental hälsa, könsmognad,
-  frihet och ...
+description: 'Villkoren för att vallfärden ska vara en skyldighet är fem: 1. islam, 2. mental hälsa, 3. könsmognad, 4. frihet och 5. att man har möjlighet.'
 ---
 
 **Fråga:** Vad finns det för villkor för vallfärden?

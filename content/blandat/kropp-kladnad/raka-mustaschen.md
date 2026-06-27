@@ -6,10 +6,7 @@ categories:
   - Blandat
   - Kropp och klädnad
 original_id: 1710
-description: >-
-  Fråga: Om en man rakar sin mustasch och låter skägget växa – finns det då
-  någon synd i detta? Och vad brukade profeten – över honom vare Allāhs frid och
-  välsignelser – göra?
+description: 'All ära tillhör Allāh. Profetens sunnah är att trimma mustaschen och inte att ta bort den. Profeten – över honom vare Allāhs frid och välsignelser – har…'
 ---
 
 **Fråga:** Om en man rakar sin mustasch och låter skägget växa – finns det då någon synd i detta? Och vad brukade profeten – över honom vare Allāhs frid och välsignelser – göra?

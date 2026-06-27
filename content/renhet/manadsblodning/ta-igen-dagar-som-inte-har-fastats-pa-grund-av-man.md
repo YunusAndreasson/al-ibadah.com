@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 465
-description: >-
-  Fråga: Jag är en ung kvinna som är sjutton år gammal. Min fråga gäller de två
-  första åren som jag fastade. Jag har inte fastat [tagit igen] de dagar som jag
-  inte fastade under ramadan [på grund av...
+description: 'Du måste skynda dig med att ta igen dessa dagar även om du gör så under olika dagar. Samtidigt som du tar igen dessa dagar måste du också gottgöra dig…'
 ---
 
 **Fråga:** Jag är en ung kvinna som är sjutton år gammal. Min fråga gäller de två första åren som jag fastade. Jag har inte fastat [tagit igen] de dagar som jag inte fastade under *ramaḍān* [på grund av månadsblödning]. Så vad ska jag göra?

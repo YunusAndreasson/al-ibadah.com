@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 1473
-description: >-
-  Fråga: Blir bönen ogiltig om någon går framför? Svar: En person som passerar
-  precis framför en [annan] troende som ber gör inte personens bön ogiltig. Endast
-  tre saker gör den ogiltig [enligt den...
+description: 'En person som passerar precis framför en [annan] troende som ber gör inte personens bön ogiltig.'
 ---
 
 **Fråga:** Blir bönen ogiltig om någon går framför?

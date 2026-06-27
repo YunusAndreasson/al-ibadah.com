@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Övrigt
 original_id: 479
-description: >-
-  Fråga: Är det en betonad sunnah att vara i moskén under ramadan för att ägna
-  sig åt dyrkan? Vilka är villkoren för tidpunkter utanför ramadan? Svar: Att
-  vara i moskén för att ägna sig åt dyr...
+description: 'Att vara i moskén för att ägna sig åt dyrkan under ramaḍān är sunnah. Profeten – över honom vare Allāhs frid och välsignelser – gjorde så under sin livstid…'
 ---
 
 **Fråga:** Är det en betonad *sunnah* att vara i moskén under *ramaḍān* för att ägna sig åt dyrkan? Vilka är villkoren för tidpunkter utanför *ramaḍān*?

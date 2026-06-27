@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Stenkastningen
 original_id: 853
-description: >-
-  Fråga: Var tar man stenarna och hur ser de ut? Kan man tvätta dem? Svar:
-  Stenarna tas från Mina och om de tas från Muzdalifah under ‘eid -dagen, då är
-  det ingen fara med det. Det bör vara sju...
+description: 'Stenarna tas från Minā och om de tas från Muzdalifah under ´eid-dagen, då är det ingen fara med det.'
 ---
 
 **Fråga:** Var tar man stenarna och hur ser de ut? Kan man tvätta dem?

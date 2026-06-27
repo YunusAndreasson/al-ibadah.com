@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Offerdjuret
 original_id: 871
-description: >-
-  Fråga: Min familj och jag kom överens om att ge oss av på ‘umrah och under
-  dagen som vi bestämde oss för det trädde jag in ihrām för ‘umrah . De ändrade
-  sig dock och bytte datum till en senar...
+description: 'Om du avsåg att träda in i iḥrām för ´umrah, då får du inte ändra dig och du måste fullfölja den, precis som när det gäller vallfärden.'
 ---
 
 **Fråga:** Min familj och jag kom överens om att ge oss av på *´umrah* och under dagen som vi bestämde oss för det trädde jag in *iḥrām* för *´umrah*. De ändrade sig dock och bytte datum till en annan dag. Därför trädde jag ur min *iḥrām*. Har jag syndat då?

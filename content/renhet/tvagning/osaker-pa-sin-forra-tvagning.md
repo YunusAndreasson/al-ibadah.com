@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 157
-description: >-
-  Fråga: En man tvagade sig och lade sedan märke till en fläck på foten. Detta
-  har hänt även vid ett annat tillfälle. Han är nu tveksam om han har tvagat sig
-  korrekt. Vad bör han göra? Svar: Flä...
+description: 'Fläcken på foten som frågeställaren har lagt märke till, och som han tror att vattnet inte nådde en eller två gånger när han tvagade sig, betyder inte att…'
 ---
 
 **Fråga:** En man tvagade[^1] sig och lade sedan märke till en fläck på foten. Detta har hänt även vid ett annat tillfälle. Han är nu tveksam om han har tvagat sig korrekt. Vad bör han göra?

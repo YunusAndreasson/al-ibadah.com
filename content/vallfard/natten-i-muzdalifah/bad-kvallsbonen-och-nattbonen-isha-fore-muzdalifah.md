@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Muzdalifah-natten
 original_id: 1555
-description: >-
-  Fråga: Vilket är utlåtandet om någon som bad kvällsbönen och nattbönen
-  sammanslagna och förkortade [vid nattbönen] innan personen kom till
-  Muzdalifah? Anledningen till att detta inträffade är diver...
+description: 'Bönen är korrekt var den än utförs, utom om det finns ett islamiskt angivet undantag. Anledningen är att profeten – över honom vare Allāhs frid och…'
 ---
 
 **Fråga:** Vilket är utlåtandet om någon som bad kvällsbönen och nattbönen sammanslagna och förkortade [vid nattbönen] innan personen kom till *Muzdalifah*? Anledningen till att detta inträffade är diverse olika oförutsedda orsaker. En av dessa är att bilen stannade på vägen till *Muzdalifah*. I rädsla för att missa kvällsbönen och nattbönen, då klockan var mycket, bad han dessa böner en liten bit utanför gränsen till *Muzdalifah*. Därefter sov han under tiden som bilen blev lagad. Han bad även gryningsbönen när tiden för den bönen var inne och han bad den vid gränsen till *Muzdalifah*, då han inte hade möjlighet att komma in förrän när solen hade gått upp. Är det rätt att han har bett dessa böner [kvällsbönen, nattbönen och gryningsbönen] vid gränsen till *Muzdalifah*? Vi hoppas på ett klargörande tillsammans med bevis från er.

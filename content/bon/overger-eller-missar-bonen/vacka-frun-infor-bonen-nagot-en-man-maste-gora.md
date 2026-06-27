@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1623
-description: >-
-  Fråga: Vilket ansvar har en man om han inte väcker sin fru för att be
-  gryningsbönen? Är det en ursäkt om han efter många försök inte lyckas väcka
-  henne eller är han en syndare om hon ber sent? Sv...
+description: 'Svaret på denna fråga finner vi om vi läser Allāhs ord: ”Männen ska ha ansvar för och omsorg om kvinnorna med [den styrka och] de andra företräden som Gud…'
 ---
 
 **Fråga:** Vilket ansvar har en man om han inte väcker sin fru för att be gryningsbönen? Är det en ursäkt om han efter många försök inte lyckas väcka henne eller är han en syndare om hon ber sent?

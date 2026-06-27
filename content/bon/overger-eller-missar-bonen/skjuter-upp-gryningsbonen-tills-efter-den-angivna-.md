@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1151
-description: >-
-  Fråga: Vilket är utlåtandet om den som skjuter upp gryningsbönen till efter
-  den utsedda tiden? Svar: Den som skjuter upp gryningsbönen till efter den
-  utsedda tiden, om personen trodde att det är ...
+description: 'Den som skjuter upp gryningsbönen till efter den utsedda tiden, om personen trodde att det är tillåtet att göra så, då är det att otro.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som skjuter upp gryningsbönen till efter den utsedda tiden?

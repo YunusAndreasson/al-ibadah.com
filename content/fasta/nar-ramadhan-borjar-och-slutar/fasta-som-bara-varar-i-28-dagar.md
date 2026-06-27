@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadans datum
 original_id: 396
-description: >-
-  Fråga: Är det tillåtet att enbart fasta 28 dagar under ramadan? Svar: I en
-  utförlig autentisk hadīth från Allāhs sändebud – över honom vare Allāhs frid
-  och välsignelser – har man bekräftat a...
+description: 'I en utförlig autentisk ḥadīt̲h från Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har man bekräftat att månaden inte är kortare än 29…'
 ---
 
 **Fråga:** Är det tillåtet att enbart fasta 28 dagar under *ramaḍān*?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Det andra böneutropet
 original_id: 182
-description: >-
-  Fråga: Räcker det att göra iqāmah utan böneutrop när tiden för bönen kommer?
-  Detta gäller om jag vill be ensam. Svar: Böneutropet är föreskrivet för att
-  meddela för folket i staden att bönen...
+description: 'Böneutropet är föreskrivet för att meddela för folket i staden att bönen är på väg att börja, men om de redan är samlade och det inte finns några andra, då…'
 ---
 
 **Fråga:** Räcker det att göra *iqāmah* utan böneutrop när tiden för bönen kommer? Detta gäller om jag vill be ensam.

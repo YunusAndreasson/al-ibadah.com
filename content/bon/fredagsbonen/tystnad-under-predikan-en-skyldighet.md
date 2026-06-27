@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 1548
-description: >-
-  Fråga: Vilket är utlåtandet om den som talar medan imamen håller predikan
-  under fredagen när det som sägs inte är frivilligt, utan det beror på att en
-  vän hälsar på honom med fridshälsningen eller...
+description: 'Det är obligatoriskt att vara tyst under fredagspredikan för att man ska lyssna på och närvara vid den.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som talar medan imamen håller predikan under fredagen när det som sägs inte är frivilligt, utan det beror på att en vän hälsar på honom med fridshälsningen eller något barn jämte honom pratar och han säger till det att vara tyst?

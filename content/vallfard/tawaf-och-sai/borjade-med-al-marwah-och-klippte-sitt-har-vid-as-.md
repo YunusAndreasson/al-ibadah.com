@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 828
-description: >-
-  Fråga: Jag är en mycket gammal man och jag utförde tawāf för ‘umrah . Därefter
-  gjorde jag sa’ī under sju varv. Men jag började från al-Marwah, klippte mitt
-  hår och tog på mig kläder med sömma...
+description: 'Personen måste göra ett varv till, då personen har lämnat ett, utom om personen utförde sa´ī under åtta varv [räknar inte den första från al-Marwah].'
 ---
 
 **Fråga:** Jag är en mycket gammal man och jag utförde *ṭawāf* för *´umrah*. Därefter gjorde jag *sa´ī* under sju varv. Men jag började från al-Marwah, klippte mitt hår och tog på mig kläder med sömmar vid as-Safa. Vilket är utlåtandet om detta?

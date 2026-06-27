@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Stenkastningen
 original_id: 1558
-description: >-
-  Fråga: Vad måste den göra som under morgonen den andra ‘eid -dagen kastade
-  sten på pelarna och sedan fick reda på att tiden för att kasta stenarna är
-  efter middagsbönen? Svar: Den som kastade...
+description: 'Den som kastade stenar på pelarna före middag under den andra ´eid-dagen, personen måste göra om detta efter middag den dagen.'
 ---
 
 **Fråga:** Vad måste den göra som under morgonen den andra *´eid*-dagen kastade sten på pelarna och sedan fick reda på att tiden för att kasta stenarna är efter middagsbönen?

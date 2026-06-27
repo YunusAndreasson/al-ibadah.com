@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 219
-description: >-
-  Fråga: När bör nattbönen tas igen av någon som har försovit sig och missat
-  den och inte kommit ihåg den förrän efter gryningsbönen? Bör han be den vid
-  dess tid eller när han kommer ihåg? Svar:...
+description: 'Profeten – över honom vare Allāhs frid och välsignelser – har sagt: > ”Den som sover över en bön eller glömmer den bör be den när han kommer ihåg den och…'
 ---
 
 **Fråga:** När bör nattbönen tas igen av någon som har försovit sig och missat den och inte kommit ihåg den förrän efter gryningsbönen? Bör han be den vid dess tid eller när han kommer ihåg?

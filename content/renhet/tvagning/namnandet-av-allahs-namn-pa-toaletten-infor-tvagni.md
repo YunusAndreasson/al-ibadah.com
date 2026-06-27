@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 161
-description: >-
-  Fråga: När jag vill tvaga mig utformar jag avsikten för att tvaga inför bönen.
-  Jag nämner dock inte Allāhs namn då jag är på toaletten, även om jag känner
-  till denna hadīth : ”Det finns ingen...
+description: 'Nämner man Allāhs namn när man är på toaletten, då bör man göra det i sitt hjärta. Det bör inte sägas högt. Handla efter detta.'
 ---
 
 **Fråga:** När jag vill tvaga mig utformar jag avsikten för att tvaga inför bönen. Jag nämner dock inte Allāhs namn då jag är på toaletten, även om jag känner till denna *ḥadīt̲h*: “Det finns ingen tvagning för den som inte har nämnt Allāhs namn vid den.” Vilket är utlåtandet om detta?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdens stationer
 original_id: 736
-description: >-
-  Fråga: Vad gäller den som avser att vallfärda som kommer från ett land utanför
-  Saudiarabien och personens plan landar på flygplatsen i Jiddah utan att personen har
-  trätt in i ihrām och personen sedan går...
+description: 'Om planet landade i Jiddah och personen kommer från ash-Sham eller Egypten, då träder personen in i iḥrām vid Rabigh.'
 ---
 
 **Fråga:** Vad gäller den som avser att vallfärda som kommer från ett land utanför Saudiarabien och personens plan landar på flygplatsen i Jiddah utan att personen har trätt in i *iḥrām* och personen sedan går in i *iḥrām* i Jiddah? Vad måste personen göra för att gottgöra för detta?

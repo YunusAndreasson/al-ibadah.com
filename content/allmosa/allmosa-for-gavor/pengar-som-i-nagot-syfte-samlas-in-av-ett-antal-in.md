@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Allmosa för gåvor
 original_id: 627
-description: 'Fråga: Om det finns en grupp och varje individ i gruppen betalar en
- viss summa och de sparar summan för att den ska komma till nytta om någon olycka
- drabbar någon av dem – må Allāh förbjuda – oc...'
+description: 'Dessa tillgångar och liknande tillgångar som någon donerar till allmän nytta och för att hjälpa till något gott folk emellan krävs det ingen allmosa för.'
 ---
 
 **Fråga:** Om det finns en grupp och varje individ i gruppen betalar en viss summa och de sparar summan för att den ska komma till nytta om någon olycka drabbar någon av dem – må Allāh förbjuda – och de behöver dessa pengar för dagligt bruk och de har haft den summan under ett år – krävs allmosa då?

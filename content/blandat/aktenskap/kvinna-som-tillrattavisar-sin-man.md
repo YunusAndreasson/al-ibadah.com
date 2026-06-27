@@ -6,9 +6,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1708
-description: 'Fråga: Om en kvinna ger sin man som är lat rådet att be i moskén och
- samtidigt visar ilska mot honom, är hon då syndfull mot sin man med avseende på
- hans rättigheter mot henne? Svar: Det finns i...'
+description: 'Det finns inget syndigt hos den kvinnan om hon ger sin man råd då han gör något som Allāh har förbjudit som att inte be i moskén, dricka alkohol eller roa…'
 ---
 
 **Fråga:** Om en kvinna ger sin man som är lat rådet att be i moskén och samtidigt visar ilska mot honom, är hon då syndfull mot sin man med avseende på hans rättigheter mot henne?

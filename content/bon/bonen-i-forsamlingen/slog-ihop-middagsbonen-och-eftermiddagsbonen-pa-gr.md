@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 1469
-description: >-
-  Fråga: Om de slog ihop eftermiddagsbönen och middagsbönen och bad dem vid
-  middagsbönen, och de även utförde nattbönen och kvällsbönen på ett
-  liknande sätt, med anledning av regnväder under middag...
+description: 'De lärde har nämnt att regn som är tillräckligt för att göra kläderna blöta och göra det obekvämt är en giltig ursäkt för att slå ihop bönerna.'
 ---
 
 **Fråga:** Om de slog ihop eftermiddagsbönen och middagsbönen och bad dem vid middagsbönen, och de även utförde nattbönen och kvällsbönen på ett liknande sätt, med anledning av regnväder under middagsbönen och kvällsbönen, sedan slutade regnet, antingen vid middagsbönen eller tiden för nattbönen – bör bönerna för eftermiddagsbönen och nattbönen då upprepas?

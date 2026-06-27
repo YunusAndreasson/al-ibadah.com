@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 1670
-description: >-
-  Fråga: Somliga hänger Koran-verser eller aḥādīt̲h på kontorsväggar, inne i
-  restauranger och i sovrum. På sjukhus finner man ofta denna vers: ” Och när
-  jag är sjuk, återger Han mig hälsan .” [Korane...
+description: 'När syftet i vad frågeställaren har nämnt är att påminna folket och att lära dem vad som är nyttigt, då är det ingen fara.'
 ---
 
 **Fråga:** Somliga hänger Koran-verser eller aḥādīt̲h[^1] på kontorsväggar, inne i restauranger och i sovrum. På sjukhus finner man ofta denna vers: "*Och när jag är sjuk, återger Han mig hälsan*." [^2] Gäller här samma utlåtande som för att hänga upp amuletter som är förbjudna enligt den islamiska lagen? Speciellt då många hänger upp dessa verser för att få välsignelser och för att driva bort djävulen.

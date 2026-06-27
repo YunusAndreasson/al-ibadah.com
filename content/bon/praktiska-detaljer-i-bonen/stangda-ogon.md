@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 968
-description: 'Fråga: Vilket är utlåtandet om att ha stängda ögon under bönen? Svar: Att
- stänga ögonen under bönen är ogillat då det motsäger profetens – över honom
- vare Allāhs frid och välsignelser – sä...'
+description: 'Att stänga ögonen under bönen är ogillat då det motsäger profetens – över honom vare Allāhs frid och välsignelser – sätt.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att ha stängda ögon under bönen?

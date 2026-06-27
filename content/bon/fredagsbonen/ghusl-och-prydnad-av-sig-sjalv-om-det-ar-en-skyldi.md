@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 1003
-description: >-
-  Fråga: Behöver både män och kvinnor göra ghusl samt pryda sig under fredagen?
-  Och vilket är utlåtandet om att bada en eller två dagar innan? Svar: Dessa
-  utlåtanden gäller enbart för män. Det...
+description: 'Dessa utlåtanden gäller enbart för män. Det är de som är närvarande vid fredagsbönen och det är de som måste pryda sig själva innan de lämnar hemmet.'
 ---
 
 **Fråga:** Behöver både män och kvinnor göra *g̲husl* samt pryda sig under fredagen? Och vilket är utlåtandet om att bada en eller två dagar innan?

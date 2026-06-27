@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 1455
-description: >-
-  Fråga: Vad gör jag om min månadsblödning började under bönen? Tar jag igen
-  bönen efter perioden? Svar: Låt oss säga att perioden började när tiden för
-  bönen var inne, exempelvis en halvtimme e...
+description: 'Låt oss säga att perioden började när tiden för bönen var inne, exempelvis en halvtimme efter solens nedgång.'
 ---
 
 **Fråga:** Vad gör jag om min månadsblödning började under bönen? Tar jag igen bönen efter perioden?

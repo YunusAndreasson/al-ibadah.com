@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Eid-bönen
 original_id: 1239
-description: >-
-  Fråga: Vilket är utlåtandet om ‘eid -bönen? Svar: Jag anser att ‘eid -bönen är
-  en skyldighet för varje individ [ fardh 'ain ] och att män inte får utelämna
-  den. I stället behöver de närvara ...
+description: 'Jag anser att ´eid-bönen är en skyldighet för varje individ [fardh ''ain] och att män inte får utelämna den. I stället behöver de närvara vid den.'
 ---
 
 **Fråga:** Vilket är utlåtandet om *´eid*-bönen?

@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Paradiset och Helvetet
 original_id: 87
-description: >-
-  Fråga: [Vad vet vi om Paradisets vidd?] Svar: Innan vi svarar denna fråga
-  måste vi föregå den med att säga att det som finns i Allāhs skrift och det som
-  har rapporterats från Allāhs sändebud – ...
+description: 'Innan vi svarar denna fråga måste vi föregå den med att säga att det som finns i Allāhs skrift och det som har rapporterats från Allāhs sändebud – över…'
 ---
 
 **Fråga:** [Vad vet vi om Paradisets vidd?]

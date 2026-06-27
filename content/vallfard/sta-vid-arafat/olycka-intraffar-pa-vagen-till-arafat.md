@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Arafat
 original_id: 865
-description: >-
-  Fråga: Den sjunde i thul-hijjah begav jag mig till Huset och jag utförde
-  riterna för ‘umrah . Sedan begav jag mig till Mina och vi bad de fem
-  obligatoriska bönerna där. Sedan begav vi oss till ...
+description: 'Det som är er skyldighet, då ni trätt in i iḥrām för vallfärden, är att ni är kvar i den tills ni har avslutat alla riter.'
 ---
 
 **Fråga:** Den sjunde i *d̲hul-ḥijjah* begav jag mig till Huset och jag utförde riterna för *´umrah*. Sedan begav jag mig till Mina och vi bad de fem obligatoriska bönerna där. Sedan begav vi oss till *´Arafāt* men vår bil voltade. Vi skadades svårt i olyckan. Jag hade en man med mig som vallfärdade för hans mor och han avled i olyckan. Vad krävs nu av oss?

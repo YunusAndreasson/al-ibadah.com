@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadanens nattbön
 original_id: 1226
-description: >-
-  Fråga: Vilket är utlåtandet om tarāwīh -bönen och hur många bönecykler består
-  den av? Svar: Tarāwīh -bönen är en sunnah som Allāhs sändebud – över honom
-  vare Allāhs frid och välsignelser – ...
+description: 'tarāwīḥ-bönen är en sunnah som Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har föreskrivits.'
 ---
 
 **Fråga:** Vilket är utlåtandet om *tarāwīḥ*-bönen och hur många bönecykler består den av?

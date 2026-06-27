@@ -9,10 +9,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning utan vatten
 original_id: 158
-description: >-
-  Fråga: En person befann sig på sjukhus och kunde inte tvaga sig. Han gjorde
-  därför tayammum, men han gjorde det mot en matta. Är hans bön giltig? Svar:
-  Den som är sjuk måste tvaga sig inför ...
+description: 'Den som är sjuk måste tvaga sig inför bönen om han har möjlighet. Om han inte kan, då måste han göra tayammum med jord som innehåller dammpartiklar.'
 ---
 
 **Fråga:** En person befann sig på sjukhus och kunde inte tvaga sig. Han gjorde därför *tayammum*, men han gjorde det mot en matta. Är hans bön giltig?

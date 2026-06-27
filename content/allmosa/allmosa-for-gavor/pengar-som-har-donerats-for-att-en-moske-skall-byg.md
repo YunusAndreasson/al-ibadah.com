@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Gåvor
 original_id: 626
-description: 'Fråga: Jag har en summa pengar från en välgörare. Pengarna ska användas
- för att bygga en moské. Jag har haft dem under mer än ett år. Behöver jag betala
- allmosa för dem? Svar: Det krävs inge...'
+description: 'Det krävs ingen allmosa för dessa pengar då donatorn har spenderat dem för Allāhs sak. Du måste skynda dig med att utföra uppgiften [att bygga moskén].'
 ---
 
 **Fråga:** Jag har en summa pengar från en välgörare. Pengarna ska användas för att bygga en moské. Jag har haft dem under mer än ett år. Behöver jag betala allmosa för dem?

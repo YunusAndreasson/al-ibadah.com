@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 1581
-description: >-
-  Fråga: Kan ni förklara det förutbestämda? […] Svar: Det förutbestämda har
-  varit en källa till tvister under en lång tid. Därför har människor delat sig
-  i grupper: två extremer och en mellangru...
+description: 'Det förutbestämda har varit en källa till tvister under en lång tid. Därför har människor delat sig i grupper: två extremer och en mellangrupp.'
 ---
 
 **Fråga:** Kan ni förklara det förutbestämda? […]

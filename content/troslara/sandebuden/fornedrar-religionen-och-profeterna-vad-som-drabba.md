@@ -6,9 +6,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 586
-description: 'Fråga: Vad gäller någon som förnedrar religionen eller någon av profeterna? Svar: Den
- som förnedrar religionen, Allāh eller Hans sändebud, är en icke-troende som står
- utanför islam och vi söke...'
+description: 'Den som förnedrar religionen, Allāh eller Hans sändebud, är en icke-troende som står utanför islam och vi söker skydd hos Allāh ifrån detta.'
 ---
 
 **Fråga:** Vad gäller någon som förnedrar religionen eller någon av profeterna?

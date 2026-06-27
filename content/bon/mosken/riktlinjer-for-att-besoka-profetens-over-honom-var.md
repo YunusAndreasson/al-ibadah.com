@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 1305
-description: >-
-  Fråga: Jag känner till en grupp bröder som ska besöka profetens – över honom
-  vare Allāhs frid och välsignelser – Moské efter pilgrimsfärden detta år. De
-  skulle vilja ha några råd och riktlinjer ...
+description: 'All lovprisan tillhör Allāh. Ni som kommer till Allāhs sändebuds stad, ni har kommit till en bra plats och ni kommer att få en stor belöning.'
 ---
 
 **Fråga:** Jag känner till en grupp bröder som ska besöka profetens – över honom vare Allāhs frid och välsignelser – Moské efter pilgrimsfärden detta år. De skulle vilja ha några råd och riktlinjer från dig.

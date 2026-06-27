@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 922
-description: >-
-  Fråga: I en hadīth rapporteras att man bör säga efter böneutroparen genom att
-  säga: ”Jag är nöjd med Allāh som min herre, islam som min religion och
-  Muḥammad som mitt sändebud.” När säger man de...
+description: 'Vad denna ḥadīt̲h verkar tyda på är att när böneutroparen säger: ”Jag vittnar om att ingen är värdig att dyrka utom Allāh och att Muḥammad är Allāhs…'
 ---
 
 **Fråga:** I en *ḥadīt̲h* rapporteras att man bör säga efter böneutroparen genom att säga: ”Jag är nöjd med Allāh som min herre, islam som min religion och Muḥammad som mitt sändebud.” När säger man detta?

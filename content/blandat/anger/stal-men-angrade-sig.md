@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 672
-description: >-
-  Fråga: När jag studerade brukade jag stjäla böcker från skolans förråd. Jag
-  studerar fortfarande men Allāh har väglett mig. Vad bör jag göra? Må Allāh
-  belöna er. Svar: För varje sjukdom Allāh ...
+description: 'För varje sjukdom Allāh har sänt ned har Han även sänt ned ett botemedel. Den sjukdomen du nämnde, som drabbar många då de är unga, har ett botemedel.'
 ---
 
 **Fråga:** När jag studerade brukade jag stjäla böcker från skolans förråd. Jag studerar fortfarande men Allāh har väglett mig. Vad bör jag göra? Må Allāh belöna er.

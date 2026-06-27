@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Handelsvaror och fastigheter
 original_id: 615
-description: >-
-  Fråga: Det finns en man som har fordon och hus. Intäkterna han får genom dem
-  spenderar han på sin familj. Han sparar då inte några pengar under ett år.
-  Behöver han betala allmosa för dessa tillgån...
+description: 'Om huset och fordonet inte är till försäljning eller för att hyras ut, då krävs ingen allmosa för dem.'
 ---
 
 **Fråga:** Det finns en man som har fordon och hus. Intäkterna han får genom dem spenderar han på sin familj. Han sparar då inte några pengar under ett år. Behöver han betala allmosa för dessa tillgångar? När krävs allmosa från bilar och hus och hur mycket ska man betala?

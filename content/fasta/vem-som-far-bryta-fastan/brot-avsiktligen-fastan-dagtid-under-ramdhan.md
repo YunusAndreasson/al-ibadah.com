@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Undantag från fasta
 original_id: 444
-description: >-
-  Fråga: En man fastar under ramadan och personens törst blir svår så personen dricker
-  då. Vilket är utlåtandet om detta? Svar: Personen måste ta igen denna dag och det
-  krävs ingen gottgörelse från personen...
+description: 'Personen måste ta igen denna dag och det krävs ingen gottgörelse från personen enligt den mest korrekta åsikten av de båda åsikterna som de lärde har.'
 ---
 
 **Fråga:** En man fastar under *ramaḍān* och personens törst blir svår så personen dricker då. Vilket är utlåtandet om detta?

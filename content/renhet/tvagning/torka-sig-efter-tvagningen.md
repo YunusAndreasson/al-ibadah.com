@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 163
-description: >-
-  Fråga: Är det tillåtet att torka sina händer och fötter och så vidare efter
-  att ha tvagat sig? Svar: Ja, det är tillåtet att torka sina händer och fötter
-  efter att ha gjort tvagningen. Det är ...
+description: 'Ja, det är tillåtet att torka sina händer och fötter efter att ha gjort tvagningen. Det är också tillåtet att torka dem när man har gjort g̲husl.'
 ---
 
 **Fråga:** Är det tillåtet att torka sina händer och fötter och så vidare efter att ha tvagat sig?

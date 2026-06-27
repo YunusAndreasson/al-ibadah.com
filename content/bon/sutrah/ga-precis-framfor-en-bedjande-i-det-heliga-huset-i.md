@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Avskärmning i bönen
 original_id: 189
-description: >-
-  Fråga: Vilket är utlåtandet om att gå precis framför en bedjande i det Heliga
-  Huset [i Mecka] och får en tjänare hindra den som försöker passera framför?
-  Svar: Det är inte syndigt om den som ä...
+description: 'Det är inte syndigt om den som är vid det Heliga Huset [den Heliga Moskén] hindrar någon från att gå framför.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att gå precis framför en bedjande i det Heliga Huset [i Mecka] och får en tjänare hindra den som försöker passera framför?

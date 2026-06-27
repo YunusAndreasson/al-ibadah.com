@@ -7,9 +7,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 326
-description: 'Fråga: På arbetsplatsen [en bilverkstad] har jag en kollega som jag
- uppmanar att be, men han vägrar och påstår att hans kläder inte är rena, att det
- är svårt för honom att byta dem och att han ska...'
+description: 'Kollegan som du har nämnt måste be med församlingen. Det är inte tillåtet att skjuta upp bönen tills han kommer hem.'
 ---
 
 **Fråga:** På arbetsplatsen [en bilverkstad] har jag en kollega som jag uppmanar att be, men han vägrar och påstår att hans kläder inte är rena, att det är svårt för honom att byta dem och att han ska be när han kommer hem. Vilket är utlåtandet om detta?

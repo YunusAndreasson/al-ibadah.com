@@ -8,9 +8,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 670
-description: 'Fråga: När jag insåg att bilder är förbjudna bad jag mina vänner att
- återlämna de bilder jag tidigare gett till dem. Vissa av dem gjorde det medan några
- vägrade med argumentet att det var deras sy...'
+description: 'När någon uppriktigt ångrar sig och uppfyller kraven för ånger stryker Allāh den Allsmäktige ut hans synder: > ”Troende!'
 ---
 
 **Fråga:** När jag insåg att bilder är förbjudna bad jag mina vänner att återlämna de bilder jag tidigare gett till dem. Vissa av dem gjorde det medan några vägrade med argumentet att det var deras synd och inte min om de behöll bilderna. Är det som de sagt korrekt?

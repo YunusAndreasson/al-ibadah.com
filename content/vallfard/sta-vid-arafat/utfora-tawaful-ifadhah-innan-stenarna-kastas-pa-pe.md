@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - ´Arafāt
 original_id: 1554
-description: >-
-  Fråga: Är det tillåtet att utföra ṭawāful-ifāḍah och sa'ī innan man kastar
-  stenarna på den stora pelaren, al-´Aqabah, eller innan man stått vid ´Arafāt?
-  Vänligen, hjälp oss med ett svar. Sv...
+description: 'Det är tillåtet att utföra ṭawāf och sa´ī för vallfärden innan man har kastat stenarna på pelarna, men ṭawāf för vallfärden får man inte utföra före…'
 ---
 
 **Fråga:** Är det tillåtet att utföra *ṭawāf ul-ifāḍah* och *sa´ī* innan man kastar stenarna på den stora pelaren, al-´Aqabah, eller innan man stått vid *´Arafāt*? Vänligen, hjälp oss med ett svar.

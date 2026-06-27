@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 242
-description: >-
-  Fråga: Vilket är utlåtandet om att höja händerna under bönen och när bör det
-  göras? Svar: Händerna bör höjas vid fyra tillfällen under bönen: när man gör
-  öppnings- takbīr, när man bugar, när ...
+description: 'Händerna bör höjas vid fyra tillfällen under bönen: när man gör öppnings-takbīr, när man bugar, när man rätar sig från bugningen och när man står upp efter…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att höja händerna under bönen och när bör det göras?

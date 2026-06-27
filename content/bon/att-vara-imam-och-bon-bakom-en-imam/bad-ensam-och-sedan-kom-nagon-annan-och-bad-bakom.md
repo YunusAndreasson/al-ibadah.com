@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 1475
-description: >-
-  Fråga: Jag stod upp för att be en obligatorisk bön ensam och då kom någon och
-  tog mig som imam. Vilket är utlåtandet om att ändra sin avsikt från att be
-  ensam till att vara imam? Svar: Det är ...
+description: 'Det är tillåtet att ändra sin avsikt från att vara en ensam tjänare [som ber] till att vara imam, under de omständigheter som du har nämnt.'
 ---
 
 **Fråga:** Jag stod upp för att be en obligatorisk bön ensam och då kom någon och tog mig som imam. Vilket är utlåtandet om att ändra sin avsikt från att be ensam till att vara imam?

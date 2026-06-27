@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Strykning över strumpor
 original_id: 1133
-description: >-
-  Fråga: Om man tar av sina sockar medan man fortfarande är rituellt ren och
-  byter dem [mot ett annat par] innan ens tvagning blir ogiltig – kan man då
-  stryka över dem? Svar: Tar man av sina soc...
+description: 'Tar man av sina sockar och byter dem medan ens tvagning fortfarande är giltig, då gäller ett av följande scenarion: 1.'
 ---
 
 **Fråga:** Om man tar av sina sockar medan man fortfarande är rituellt ren och byter dem [mot ett annat par] innan ens tvagning blir ogiltig – kan man då stryka över dem?

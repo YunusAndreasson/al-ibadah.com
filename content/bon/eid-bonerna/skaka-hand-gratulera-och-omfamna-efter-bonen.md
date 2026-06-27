@@ -6,9 +6,7 @@ categories:
   - Bön (Salāh)
   - Eid-bönen
 original_id: 1589
-description: 'Fråga: Vilket är utlåtandet om att skaka hand, omfamna och gratulera
- varandra efter ‘eid -bönen? Svar: Det finns inget felaktigt i detta då folk
- inte gör detta som dyrkan för att komma närmar...'
+description: 'Det finns inget felaktigt i detta då folk inte gör detta som dyrkan för att komma närmare Allāh.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att skaka hand, omfamna och gratulera varandra efter *´eid*-bönen?

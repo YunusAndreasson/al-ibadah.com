@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Övrigt
 original_id: 1415
-description: >-
-  Fråga: Sändebudet – över honom vare Allāhs frid och välsignelser – har sagt: ”
-  När ramaḍān kommer öppnas Paradisets portar och portarna till Helvetet stängs
-  .” Betyder detta att den som avlider un...
+description: 'Det förhåller sig inte på detta sätt. I stället betyder detta att portarna till Paradiset öppnas som en motivation för oss [som utför handlingar] till att…'
 ---
 
 **Fråga:** Sändebudet – över honom vare Allāhs frid och välsignelser – har sagt: "*När ramaḍān kommer öppnas Paradisets portar och portarna till Helvetet stängs*." Betyder detta att den som avlider under *ramaḍān* kommer att få träda in i Paradiset utan räkenskap?

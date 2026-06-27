@@ -11,10 +11,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 1491
-description: >-
-  Fråga: När imamen har reciterat *al-Fātiḥah* i bön med höjd röst hör jag att
-  vissa recitera *al-Fātiḥah*. Men jag hör också att de reciterar ännu en kort
-  sura efter den. Vilket är utlåtandet om detta?...
+description: 'Den som leds i bön med höjd röst får inte recitera något annat än al-Fātiḥah. Han måste vara tyst därefter när imamen reciterar.'
 ---
 
 **Fråga:** När imamen har reciterat *al-Fātiḥah* i bön med höjd röst hör jag att vissa recitera *al-Fātiḥah*. Men jag hör också att de reciterar ännu en kort sura efter den. Vilket är utlåtandet om detta?

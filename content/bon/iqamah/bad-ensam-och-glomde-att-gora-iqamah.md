@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Det andra böneutropet
 original_id: 179
-description: >-
-  Fråga: Någon bad ensam och glömde iqāmah, får personen då be eller bör personen
-  upprepa bönen från början? Svar: Iqāmah är inte föreskriven för en ensam
-  person, oavsett om det är en man ell...
+description: 'iqāmah är inte föreskriven för en ensam person, oavsett om det är en man eller kvinna. Iqāmah är ett meddelande till församlingen om att bönen är på väg…'
 ---
 
 **Fråga:** Någon bad ensam och glömde *iqāmah*, får personen då be eller bör personen upprepa bönen från början?

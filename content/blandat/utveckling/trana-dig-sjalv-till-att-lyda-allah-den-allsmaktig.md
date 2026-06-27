@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Utveckling
 original_id: 673
-description: >-
-  Fråga: Hur påbörjar jag ett nytt rent liv? Vilket är straffet för att inte be?
-  Svar: Först och främst måste du ha goda intentioner, vara bestämd över att
-  göra det som är rätt och hålla dig bor...
+description: 'Först och främst måste du ha goda intentioner, vara bestämd över att göra det som är rätt och hålla dig borta från synder.'
 ---
 
 **Fråga:** Hur påbörjar jag ett nytt rent liv? Vilket är straffet för att inte be?

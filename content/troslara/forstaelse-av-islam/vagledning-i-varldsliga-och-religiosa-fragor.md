@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 516
-description: >-
-  Fråga: Kan du ge några råd som kan vägleda oss i religiösa och världsliga
-  frågor? S̲hayk̲h ul-islām Ibn Taymiyyah ställdes följande fråga: Jag bad
-  shayken, imamen, åtföljaren av salaf och ledar...
+description: 'När det kommer till råd känner jag – för dem som förstår och följer dem – inte till något nyttigare än Allāhs och Hans sändebuds: > ”Vi uppmanade dem som…'
 ---
 
 **Fråga:** Kan du ge några råd som kan vägleda oss i religiösa och världsliga frågor?

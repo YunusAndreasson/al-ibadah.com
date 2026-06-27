@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ikappfasta
 original_id: 414
-description: >-
-  Fråga: Jag skulle vilja fråga dig om hur man gottgör sig för att ha
-  masturberat dagtid under ramadan. Jag vet att det inte är tillåtet men finns
-  det någon gottgörelse för det? Om det finns en gott...
+description: 'Då onani varken är tillåtet under ramaḍān eller vid någon annan tidpunkt anses det vara ett brott och en synd.'
 ---
 
 **Fråga:** Jag skulle vilja fråga dig om hur man gottgör sig för att ha masturberat dagtid under *ramaḍān*. Jag vet att det inte är tillåtet men finns det någon gottgörelse för det? Om det finns en gottgörelse skulle jag vilja ha en detaljerad förklaring av den. Må Allāh välsigna er.

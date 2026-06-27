@@ -9,10 +9,7 @@ source: >-
 categories:
   - Vallfärd (Hajj)
 original_id: 892
-description: >-
-  Fråga: Vilken är pilgrimsfärdens status inom islam och för vilka är den
-  obligatorisk? Svar: Pilgrimsfärden till Allāhs heliga hus är en av islams
-  pelare och viktigaste fundament. Profeten – öv...
+description: 'Pilgrimsfärden till Allāhs heliga hus är en av islams pelare och viktigaste fundament. Profeten – över honom vare Allāhs frid och välsignelser – har sagt:…'
 ---
 
 **Fråga:** Vilken är pilgrimsfärdens status inom islam och för vilka är den obligatorisk?

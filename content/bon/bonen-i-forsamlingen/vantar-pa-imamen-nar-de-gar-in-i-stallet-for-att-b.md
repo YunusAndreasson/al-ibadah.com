@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 943
-description: >-
-  Fråga: Somliga står och väntar på imamen när de kommer in och iqāmah är nära.
-  De ber då inte hälsningsbönen till moskén. Vilket är utlåtandet om detta?
-  Svar: Om tiden är så kort att det int...
+description: 'Om tiden är så kort att det inte är möjligt att hälsa på moskén syndar de inte. Men om de inte vet när imamen kommer är det bättre att be hälsningsbönen…'
 ---
 
 **Fråga:** Somliga står och väntar på imamen när de kommer in och *iqāmah* är nära. De ber då inte hälsningsbönen till moskén[^1]. Vilket är utlåtandet om detta?

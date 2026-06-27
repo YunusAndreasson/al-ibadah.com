@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 246
-description: >-
-  Fråga: Jag är en muslimsk tjej som har bott i Saudiarabien i omkring sex år. I
-  vårt land så reciterar vi qunūt när vi ber gryningsbönen. Här har jag sett att
-  de ber gryningsbönen utan qunūt . V...
+description: 'Shafi''i anser att det är fördelaktigt att alltid recitera qunūt i den andra bönecykeln i gryningsbönen. Detta görs när man har rest sig upp från bugningen.'
 ---
 
 **Fråga:** Jag är en muslimsk tjej som har bott i Saudiarabien i omkring sex år. I vårt land så reciterar vi *qunūt* när vi ber gryningsbönen. Här har jag sett att de ber gryningsbönen utan *qunūt*. Vilket är utlåtandet om att recitera *qunūt* i gryningsbönen?

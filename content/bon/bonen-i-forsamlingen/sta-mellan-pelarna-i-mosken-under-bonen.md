@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 944
-description: 'Fråga: Vilket är utlåtandet om att be mellan pelarna? Svar: Det
- är tillåtet att be mellan pelarna när det är trängsel men när det finns rum bör
- man inte be mellan pelarna då det särar raderna.'
+description: 'Det är tillåtet att be mellan pelarna när det är trängsel men när det finns rum bör man inte be mellan pelarna då det särar raderna.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att be mellan pelarna?

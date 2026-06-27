@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 1467
-description: >-
-  Fråga: Är det rätt om man efter att ha hört böneutropet och åkallat Allāh för
-  profetens – över honom vare Allāhs frid och välsignelser – medling lägger
-  till: ”... vilket Du har lovat, sannerligen...
+description: 'För den muslim som hör böneutropet är det fördelaktigt att upprepa efter böneutroparen, utom när han säger: ”Kom till bönen, kom till bönen, kom till…'
 ---
 
 **Fråga:** Är det rätt om man efter att ha hört böneutropet och åkallat Allāh för profetens – över honom vare Allāhs frid och välsignelser – medling lägger till: ”…*vilket Du har lovat, sannerligen, Du bryter inte ett löfte*” eller är det tillräckligt att säga: ”… *och höj honom till en prisvärd position*.” När det gäller *iqāmah*, vad ska man säg när böneutroparen säger: ”… *bönen börjar*”?

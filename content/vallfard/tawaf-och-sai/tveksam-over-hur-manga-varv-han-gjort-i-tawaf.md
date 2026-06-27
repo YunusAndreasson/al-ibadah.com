@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 809
-description: >-
-  Fråga: Under förra ramadan utförde jag riterna för ‘umrah . I slutet av tawāf
-  drabbades jag av tveksamheter om hur många varv jag hade gjort – var det sex
-  eller sju? Med rädsla för att inte ha ...
+description: 'Det du gjorde var bra och det var din skyldighet. Den som har tvivel om antalet utförda varv under ṭawāf eller sa´ī måste utgå från vad personen är säker…'
 ---
 
 **Fråga:** Under förra *ramaḍān* utförde jag riterna för *´umrah*. I slutet av *ṭawāf* drabbades jag av tveksamheter om hur många varv jag hade gjort – var det sex eller sju? Med rädsla för att inte ha gjort tillräckligt många varv gjorde jag ett extra, för att bli av med denna rädsla. Jag vet inte om detta var rätt. Har jag på något sätt syndat?

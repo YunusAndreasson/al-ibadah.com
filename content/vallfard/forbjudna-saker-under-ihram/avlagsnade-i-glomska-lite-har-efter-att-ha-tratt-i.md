@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Förbud i helgtillståndet
 original_id: 771
-description: >-
-  Fråga: En man gick in i ihrām för ‘umrah och då kom han på att han behövde
-  raka sig under armhålorna. Han rakade sig då och gav sig av på ‘umrah . Vi
-  skulle vilja veta vilket utlåtandet är om...
+description: 'Att raka armhålorna är inte obligatoriskt för iḥrām, ej heller är det obligatoriskt att plocka dem.'
 ---
 
 **Fråga:** En man gick in i *iḥrām* för *´umrah* och då kom han på att han behövde raka sig under armhålorna. Han rakade sig då och gav sig av på *´umrah*. Vi skulle vilja veta vilket utlåtandet är om detta?

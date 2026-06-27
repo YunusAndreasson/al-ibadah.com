@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 678
-description: >-
-  Fråga: En ung man utför alla de obligatoriska plikterna – islams fem pelare.
-  Samtidigt begår han vissa synder. Vilket är det islamska utlåtandet om en
-  person som gör både bra och dåligt? Svar: ...
+description: 'Tills solen stiger från väst står ångerns dörr öppen. Varje icke-troende och syndare bör uppriktigt ångra sig inför Allāh. Men vad är uppriktig ånger?'
 ---
 
 **Fråga:** En ung man utför alla de obligatoriska plikterna – islams fem pelare. Samtidigt begår han vissa synder. Vilket är det islamska utlåtandet om en person som gör både bra och dåligt?

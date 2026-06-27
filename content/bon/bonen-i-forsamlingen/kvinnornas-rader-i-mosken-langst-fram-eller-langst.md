@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 945
-description: >-
-  Fråga: Vilket är utlåtandet om kvinnornas rader? Är de värsta de första och de
-  bästa de sista under alla omständigheter? Svar: Det som avses är att om männen
-  är med kvinnorna på en plats, då ä...
+description: 'Det som avses är att om männen är med kvinnorna på en plats, då är de sista raderna bättre för kvinnorna än de första.'
 ---
 
 **Fråga:** Vilket är utlåtandet om kvinnornas rader? Är de värsta de första och de bästa de sista under alla omständigheter?

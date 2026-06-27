@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 818
-description: >-
-  Fråga: Vi bor i Jiddah och förra året gav vi oss iväg för att vallfärda. Vi
-  avslutade alla vallfärdsriter, utom ṭawāful-wadā, som vi sköt upp till slutet
-  av thul-hijjah . När folksamlingen hade...
+description: 'Om man vallfärdar och skjuter upp ṭawāf ul-wadā´ till en annan tidpunkt, då är ens vallfärd giltig och man måste utföra ṭawāf ul-wadā´ när man lämnar…'
 ---
 
 **Fråga:** Vi bor i Jiddah och förra året gav vi oss iväg för att vallfärda. Vi avslutade alla vallfärdsriter, utom *ṭawāf ul-wadā´*, som vi sköt upp till slutet av *d̲hul-ḥijjah*. När folksamlingen hade blivit mindre återvände vi till Mecka för att utföra *ṭawāf ul-wadā´*. Är vår vallfärd giltig?

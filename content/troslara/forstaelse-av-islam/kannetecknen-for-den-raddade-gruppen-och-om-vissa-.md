@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 1164
-description: >-
-  Fråga: Vilka är de största kännetecknen för den räddade gruppen? Om man
-  brister i vissa aspekter, står man då utanför denna grupp? Svar: De mest
-  utmärkande kännetecknen för den räddade gruppen...
+description: 'De mest utmärkande kännetecknen för den räddade gruppen är lydnad av det som profeten – över honom vare Allāhs frid och välsignelser – följde i…'
 ---
 
 **Fråga:** Vilka är de största kännetecknen för den räddade gruppen? Om man brister i vissa aspekter, står man då utanför denna grupp?

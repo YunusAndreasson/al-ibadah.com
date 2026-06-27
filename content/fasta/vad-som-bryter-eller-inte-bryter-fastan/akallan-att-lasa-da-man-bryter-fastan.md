@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1266
-description: >-
-  Fråga: Finns det någon åkallan rapporterad från profeten – över honom vare
-  Allāhs frid och välsignelser – och följeslagarna som man kan läsa när man
-  bryter fastan? Bör den fastande läsa efter vad ...
+description: 'Med största sannolikhet kommer denna åkallan när man bryter fastan att besvaras. Detta beror på att den sker vid slutet av en dyrkan och i de flesta fall…'
 ---
 
 **Fråga:** Finns det någon åkallan rapporterad från profeten – över honom vare Allāhs frid och välsignelser – och följeslagarna som man kan läsa när man bryter fastan? Bör den fastande läsa efter vad böneutroparen säger eller fortsätta med att bryta fastan?

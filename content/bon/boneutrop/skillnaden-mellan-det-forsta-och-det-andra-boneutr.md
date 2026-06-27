@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 1465
-description: >-
-  Fråga: Jag har läst att ” as-salatu khairun minan-nawm ” [bön är bättre än
-  sömn] bör läsas i det första böneutropet vid gryningsbönen, men nu för tiden
-  hör vi detta i det andra böneutropet. Vi ber...
+description: 'Denna mening uttalas i böneutropet för gryningsbönen och det gäller utropet som görs när tiden för gryningsbönen och förrättandet av den obligatoriska…'
 ---
 
 **Fråga:** Jag har läst att ”*as-salatu khairun minan-nawm*” [bön är bättre än sömn] bör läsas i det första böneutropet vid gryningsbönen, men nu för tiden hör vi detta i det andra böneutropet. Vi ber om ett klargörande med bevis.

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Muzdalifah-natten
 original_id: 839
-description: >-
-  Fråga: Vilket är utlåtandet om att stå i Muzdalifah [för åkallan] och att
-  spendera natten där? Hur länge ska man stanna där och när ger sig pilgrimen av
-  därifrån? Svar: Enligt den mest korre...
+description: 'Enligt den mest korrekta åsikten är det obligatoriskt att spendera natten i Muzdalifah. Några av de lärde har sagt att det är en av [vallfärdens] pelare…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att stå i *Muzdalifah* [för åkallan] och att spendera natten där? Hur länge ska man stanna där och när ger sig pilgrimen av därifrån?

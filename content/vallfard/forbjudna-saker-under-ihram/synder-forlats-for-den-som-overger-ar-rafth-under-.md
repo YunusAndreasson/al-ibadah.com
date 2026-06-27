@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Förbud i helgtillståndet
 original_id: 1317
-description: >-
-  Fråga: En hadīth som lyder enligt följande har rapporterats: ” Den som
-  vallfärdar för Allāhs skull och som inte har intim samvaro [med sin fru] eller
-  syndar, personen kommer att återvända [efter va...
+description: 'Denna ḥadīt̲h är en av de mest autentiska haditherna från Allāhs sändebud. Den innehåller goda nyheter till den troende, om personen vallfärdade på det…'
 ---
 
 **Fråga:** En *ḥadīt̲h* som lyder enligt följande har rapporterats: ”*Den som vallfärdar för Allāhs skull och som inte har intim samvaro [med sin fru] eller syndar, personen kommer att återvända [efter vallfärden] som [personen var] den dagen som personens mor födde personen [utan synd]*.” [^1]

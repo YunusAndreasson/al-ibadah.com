@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Amuletter och talismaner
 original_id: 35
-description: >-
-  Fråga: ´Abdullāh bin Mas'ūd har sagt: ” Jag hörde Allāhs sändebud säga:
-  'Sannerligen är besvärjelser, amuletter och tiwalah s̲hirk .'” [ Abū Dawūd
-  3883, Ahmad 1:381 och al-Hakim 4:418] Jabir h...
+description: 'De besvärjelser som är förbjudna är de som innehåller: s̲hirk, åkallan av andra än Allāh eller meningslösa ord.'
 ---
 
 **Fråga:** ´Abdullāh bin Mas'ūd har sagt: ”*Jag hörde Allāhs sändebud säga: 'Sannerligen är besvärjelser, amuletter och tiwalah[^1] s̲hirk*[^2].'” [^3] Jabir har sagt:

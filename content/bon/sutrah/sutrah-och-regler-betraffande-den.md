@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Avskärmning i bönen
 original_id: 969
-description: >-
-  Fråga: Vilket är utlåtandet om sutrah och vilka är gränserna? Svar: Sutrah i
-  bönen är en understruken sunnah, utom för den som leds i bön, då det inte är
-  föreskrivet för den som leds att...
+description: 'sutrah i bönen är en understruken sunnah, utom för den som leds i bön, då det inte är föreskrivet för den som leds att ta en sutrah.'
 ---
 
 **Fråga:** Vilket är utlåtandet om *sutrah* och vilka är gränserna?

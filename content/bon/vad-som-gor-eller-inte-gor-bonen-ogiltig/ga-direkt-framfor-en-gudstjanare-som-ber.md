@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 1486
-description: >-
-  Fråga: Är det tillåtet att gå direkt framför den som ber i moskén? Svar:
-  Oberoende av om han tagit en sutrah eller inte är det förbjudet att gå direkt
-  framför den som ber. Detta enligt den gen...
+description: 'Oberoende av om han tagit en sutrah eller inte är det förbjudet att gå direkt framför den som ber.'
 ---
 
 **Fråga:** Är det tillåtet att gå direkt framför den som ber i moskén?

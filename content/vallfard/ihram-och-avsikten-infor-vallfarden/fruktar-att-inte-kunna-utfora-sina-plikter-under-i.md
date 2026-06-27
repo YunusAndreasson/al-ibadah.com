@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 706
-description: >-
-  Fråga: Om någon som har trätt in i ihrām är rädd för att på grund av sjukdom
-  eller rädsla inte kunna utföra alla riterna, vad ska personen göra då? Svar: När
-  personen går in i ihrām bör personen ...
+description: 'När personen går in i iḥrām bör personen säga: ”Om något hindrar mig, då är min plats för att träda ur iḥrām var Du än avbryter mig.” Om en person fruktar…'
 ---
 
 **Fråga:** Om någon som har trätt in i *iḥrām* är rädd för att på grund av sjukdom eller rädsla inte kunna utföra alla riterna, vad ska personen göra då?

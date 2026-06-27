@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1689
-description: >-
-  Fråga: Jag vill gifta mig med en kvinna som min fader är nöjd med. Hon har
-  godkänt mitt frieri och även hennes familj godkänner. Det enda problemet är
-  att min mor inte har godkänt och hon är fortf...
+description: 'På grund av att din moders rättighet är så stor är det en av de största skyldigheterna att vara henne plikttrogen.'
 ---
 
 **Fråga:** Jag vill gifta mig med en kvinna som min fader är nöjd med. Hon har godkänt mitt frieri och även hennes familj godkänner. Det enda problemet är att min mor inte har godkänt och hon är fortfarande inte nöjd. Kan jag gifta mig med denna kvinna trots att min mor inte är nöjd? Och om jag gifter mig med henne, sviker jag då min mor? Vänligen, hjälp mig och jag ber att Allāh belöna er.

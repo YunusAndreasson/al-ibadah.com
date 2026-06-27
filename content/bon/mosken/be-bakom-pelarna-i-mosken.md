@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 244
-description: >-
-  Fråga: Är det tillåtet att bryta församlingens rader med moskéns pelare? Svar:
-  Det råder ingen tvekan om att det är fördelaktigt att raderna är stramt
-  formade och att Allāhs tjänare står jämte...
+description: 'Det råder ingen tvekan om att det är fördelaktigt att raderna är stramt formade och att Allāhs tjänare står jämte varandra och inte åtskiljda.'
 ---
 
 **Fråga:** Är det tillåtet att bryta församlingens rader med moskéns pelare?

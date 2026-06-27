@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 667
-description: >-
-  Fråga: Min styvsyster, som har tre barn, hade ständigt problem med sin man.
-  Han behandlade henne illa utan att visa hennes känslor någon omtanke. Hon blev
-  tvungen att lämna honom och hon flyttade ...
+description: 'Så länge din syster ångrade sig innan hon avled hoppas vi att hon förlåts. Ånger nollställer allt som hänt tidigare och en person som ångrar sig för sina…'
 ---
 
 **Fråga:** Min styvsyster, som har tre barn, hade ständigt problem med sin man. Han behandlade henne illa utan att visa hennes känslor någon omtanke. Hon blev tvungen att lämna honom och hon flyttade för att bo med sin moder. Även modern var skild och hade en man som behandlade henne dåligt. Jag kände att jag behövde göra något för min syster så jag hyrde en lägenhet som hon kunde bo i. Hon fortsatte dock att besöka min moder och hennes moders man tvingade henne att lämna de tre barnen till fadern. Hon gav upp men endast för att göra modern nöjd.

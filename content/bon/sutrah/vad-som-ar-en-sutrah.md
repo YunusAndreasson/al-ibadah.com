@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Avskärmning i bönen
 original_id: 266
-description: >-
-  Fråga: Är en mattkant en sutrah? Svar: Mattans kanter anses inte vara en
-  sutrah för Allāhs tjänare. Det som är sunnah för sutrah är att den är något
-  stående, som en kamelsadel eller nå...
+description: 'Mattans kanter anses inte vara en sutrah för Allāhs tjänare. Det som är sunnah för sutrah är att den är något stående, som en kamelsadel eller något större…'
 ---
 
 **Fråga:** Är en mattkant en *sutrah*?

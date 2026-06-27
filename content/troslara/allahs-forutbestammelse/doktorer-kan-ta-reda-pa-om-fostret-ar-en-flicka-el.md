@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 1276
-description: >-
-  Fråga: Hur kan vi förlika att doktorer kan ta reda på om fostret är en flicka
-  eller pojke med versen: “ som vet vad som ligger gömt i moderlivet .” [Koranen
-  31:24] Och det som har återberättats i ...
+description: 'All lovprisan tillhör Allāh. Innan jag diskuterar denna fråga skulle jag vilja klargöra att det aldrig kan finnas en motsägelse mellan ett tydligt…'
 ---
 
 **Fråga:** Hur kan vi förlika att doktorer kan ta reda på om fostret är en flicka eller pojke med versen: “*som vet vad som ligger gömt i moderlivet*.” [^2] Och det som har återberättats i *Tafsīr Ibn Jarīr* från Mujāhid om en man som frågade profeten – över honom vare Allāhs frid och välsignelser – vad hans fru skulle föda och Allāh då uppenbarade denna vers. Och det som har återberättats från Qutādah? Finns det någon annan vers eller *ḥadīt̲h* om detta som är mer särskild?

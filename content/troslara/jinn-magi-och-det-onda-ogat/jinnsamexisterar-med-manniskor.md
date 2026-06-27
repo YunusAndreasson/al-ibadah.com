@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - 'Jinn, magi och det onda ögat'
 original_id: 91
-description: >-
-  Fråga: Hör jinn när vi skriver eller talar om dem? Finns det någon åkallan
-  eller några ord för att söka skydd som kan sägas när man har gjort detta?
-  Svar: Ja, jinn blandar sig med människo...
+description: 'Ja, jinn blandar sig med människor och hör deras ord och de kan ta över våra kroppar när de övermannar oss, något som bevisats genom ett flertal händelser.'
 ---
 
 **Fråga:** Hör *jinn* när vi skriver eller talar om dem? Finns det någon åkallan eller några ord för att söka skydd som kan sägas när man har gjort detta?

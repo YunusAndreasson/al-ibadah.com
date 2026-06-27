@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Åkallan
 original_id: 694
-description: >-
-  Fråga: Många mödrar och fäder åkallar mot sina barn när de gjort ett misstag
-  eller två. Vänligen, ge oss råd om detta. Svar: Vårt råd till föräldrar är att
-  förlåta och att vara överseende med...
+description: 'Vårt råd till föräldrar är att förlåta och att vara överseende med sina barns tillkortakommande då de är unga.'
 ---
 
 **Fråga:** Många mödrar och fäder åkallar mot sina barn när de gjort ett misstag eller två. Vänligen, ge oss råd om detta.

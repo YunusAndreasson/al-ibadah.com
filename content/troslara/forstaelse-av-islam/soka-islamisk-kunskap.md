@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 151
-description: >-
-  Fråga: Ursäktas en person för att inte söka islamisk kunskap om anledningen är
-  att han är upptagen med studier som inte har med islam att göra [det kan även
-  gälla arbete]? Svar: Att skaffa isl...
+description: 'Att skaffa islamisk kunskap är en skyldighet för samhället. Detta innebär att om tillräckligt många människor gör det, då blir det sunnah för de andra.'
 ---
 
 **Fråga:** Ursäktas en person för att inte söka islamisk kunskap om anledningen är att han är upptagen med studier som inte har med islam att göra [det kan även gälla arbete]?

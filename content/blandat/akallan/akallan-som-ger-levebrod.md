@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Åkallan
 original_id: 698
-description: >-
-  Fråga: Vilken åkallan är det som ger levebröd och välsignelser? Svar: Jag
-  känner inte till någon bestämd åkallan som ger levebröd men att frukta Allāh
-  är den bästa metoden för att ge levebröd...
+description: 'Jag känner inte till någon bestämd åkallan som ger levebröd men att frukta Allāh är den bästa metoden för att ge levebröd.'
 ---
 
 **Fråga:** Vilken åkallan är det som ger levebröd och välsignelser?

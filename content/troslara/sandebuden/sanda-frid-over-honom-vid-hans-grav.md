@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 117
-description: 'Fråga: Finns det något som man ska säga när man sänder frid över
- honom vid hans grav? Svar: Vi känner inte till att några särskilda ord har rapporterats
- från profeten – över honom vare Allāh...'
+description: 'Vi känner inte till att några särskilda ord har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – för att sända fridshälsningar…'
 ---
 
 **Fråga:** Finns det något som man ska säga när man sänder frid över honom vid hans grav?

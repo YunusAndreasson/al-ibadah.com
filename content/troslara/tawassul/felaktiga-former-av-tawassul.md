@@ -6,10 +6,7 @@ categories:
   - Troslära (´Aqīdah)
   - Medel för åkallan
 original_id: 918
-description: >-
-  Fråga: Finns det några felaktiga former av tawassul? Svar: Felaktig och
-  gagnlös tawassul sker genom att man använder ett sätt som inte är föreskrivet
-  genom den islamiska lagen som ett mede...
+description: 'Felaktig och gagnlös tawassul sker genom att man använder ett sätt som inte är föreskrivet genom den islamiska lagen som ett medel för att komma närmare…'
 ---
 
 **Fråga:** Finns det några felaktiga former av *tawassul*?

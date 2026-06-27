@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Stenkastningen
 original_id: 1556
-description: >-
-  Fråga: Somliga stannar i Mina under en natt, vilken är den elfte natten, och
-  de kastar stenarna på pelarna för den tolfte dagen under den elfte dagen. De
-  tror att de har varit där i två dagar, då ...
+description: 'Innebörden av de två dagar som Allāh har tillåtit för dem som har bråttom med att lämna Minā är den andra och tredje ´eid-dagen.'
 ---
 
 **Fråga:** Somliga stannar i *Minā* under en natt, vilken är den elfte natten, och de kastar stenarna på pelarna för den tolfte dagen under den elfte dagen. De tror att de har varit där i två dagar, då de räknar *´eid*-dagen som en av *at-ayyām at-tas̲hrīq*. De säger: ”Vi kastade stenarna på pelarna under ´eid-dagen [dagen för offret] och den andra dagen efter det, vilken är den elfte dagen.” Och de säger: ”Detta är två dagar.” De baserar sitt argument på denna ädla vers: ”*Men den som beger sig iväg efter två dagar begår ingen synd*.” [^1] Därmed lämnar de *Minā* under den elfte dagen när de har kastat stenarna på pelarna för den tolfte dagen under den elfte. De stannar då inte kvar i *Minā* under den tolfte dagen. Tillåter den islamiska lagen detta? Är det rätt om någon räknar ´eid-dagen som en av de två dagarna eller att de har kastat stenarna på pelarna den tolfte och elfte dagen och sedan beger sig till *Minā*? Vi önskar ett klargörande om denna fråga.

@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 357
-description: >-
-  Fråga: Är det tillåtet att regelbundet recitera sura as-Sajdah och sura
-  al-Insan under gryningsbönen och varje fredagsbön? Svar: Det är föreskrivet
-  att recitera sura as-Sajdah och sura ad-Dahr...
+description: 'Det är föreskrivet att recitera sura as-Sajdah och sura ad-Dahr [al-Insan] under gryningsbönen- och fredagsbönen.'
 ---
 
 **Fråga:** Är det tillåtet att regelbundet recitera sura as-Sajdah och sura al-Insan under gryningsbönen och varje fredagsbön?

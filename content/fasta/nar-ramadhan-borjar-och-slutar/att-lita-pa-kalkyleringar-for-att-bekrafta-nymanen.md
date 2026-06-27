@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Ramadans datum
 original_id: 1389
-description: >-
-  Fråga: I vissa länder börjar muslimer att fasta utan att se till att nymånen
-  har siktats. I stället tror de att det är tillräckligt att lita enbart till
-  kalendrar. Vilket är utlåtandet om detta? ...
+description: 'Profeten – över honom vare Allāhs frid och välsignelser – har beordrat muslimerna att de bör: "Fasta när nymånen har siktats och bryta fastan när den har…'
 ---
 
 **Fråga:** I vissa länder börjar muslimer att fasta utan att se till att nymånen har siktats. I stället tror de att det är tillräckligt att lita enbart till kalendrar. Vilket är utlåtandet om detta?

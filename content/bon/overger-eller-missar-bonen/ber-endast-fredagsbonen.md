@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1523
-description: >-
-  Fråga: Det finns en muslim som ber i sitt hem. Han påstår att hans tro är
-  stark men han går endast till moskén på fredagar. Skall de i moskén be
-  begravningsbönen för honom om han ber? Svar: De...
+description: 'Den mest korrekta åsikten bland de lärde är att män som har förmåga måste be de gemensamma bönerna i församlingen.'
 ---
 
 **Fråga:** Det finns en muslim som ber i sitt hem. Han påstår att hans tro är stark men han går endast till moskén på fredagar. Skall de i moskén be begravningsbönen för honom om han ber?

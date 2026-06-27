@@ -6,10 +6,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 488
-description: >-
-  Fråga: Hur skaffar man kunskap? Vilka hinder finns för den som vill lära sig
-  om islam? Svar: Det finns två sätt att inhämta kunskap på. Inhämta den från
-  pålitliga böcker som har skrivits a...
+description: 'Det finns två sätt att inhämta kunskap på. Inhämta den från pålitliga böcker som har skrivits av lärde som är kända för sin kunskap och pålitlighet och…'
 ---
 
 **Fråga:** Hur skaffar man kunskap? Vilka hinder finns för den som vill lära sig om islam?

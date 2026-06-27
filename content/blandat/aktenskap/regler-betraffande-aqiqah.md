@@ -8,9 +8,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1614
-description: >-
-  Fråga: Vilket är utlåtandet om ´aqīqah-slakten för ett nyfött barn, oavsett om
-  det är ett gossebarn eller ett flickebarn?
+description: '´aqīqah är det offerdjur som slaktas för det nyfödda barnet och det är en stark sunnah. Vissa lärde anser att det är obligatoriskt med anledning av…'
 ---
 
 **Fråga:** Vilket är utlåtandet om *´aqīqah*-slakten för ett nyfött barn, oavsett om det är ett gossebarn eller ett flickebarn? Är det obligatoriskt att slakta två får för en pojke? Vad gäller om jag enbart slaktar ett får för en pojke och en längre tid har passerat? Vad gäller beträffande *´aqīqah* om farfadern slaktade för sin sonson? Vad gäller om någon hjälper honom med betalningen? Vad gäller beträffande att hålla en fest vid *´aqīqah*? Vad ska göras med *´aqīqah*-köttet?

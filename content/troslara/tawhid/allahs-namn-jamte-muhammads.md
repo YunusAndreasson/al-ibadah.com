@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Monoteism
 original_id: 1110
-description: >-
-  Fråga: Vi ser ofta Allāhs namn skrivet på väggar och jämte det finns Muḥammads
-  namn. Är det rätt att placera dem så? Svar: Att placera dem så är inte rätt då
-  detta sätter profeten – över honom...
+description: 'Att placera dem så är inte rätt då detta sätter profeten – över honom vare Allāhs frid och välsignelser – som en konkurrent till Allāh, en likvärdig med…'
 ---
 
 **Fråga:** Vi ser ofta Allāhs namn skrivet på väggar och jämte det finns Muḥammads namn. Är det rätt att placera dem så?

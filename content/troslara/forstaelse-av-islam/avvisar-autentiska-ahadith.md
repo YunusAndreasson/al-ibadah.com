@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 1685
-description: >-
-  Fråga: Vilket är utlåtandet om de som avvisar autentiska ahādīth som nämnts i
-  Sahīh al-Buk̲hārī och Sahīh Muslim. Ett exempel är ahādīth om straffet i
-  graven, profetens – över honom vare Allāhs...
+description: 'All lovprisan tillhör Allāh den Allsmäktige allena. Må Allāh sända frid och välsignelser över Hans sändebud, hans familj och hans följeslagare.'
 ---
 
 **Fråga:** Vilket är utlåtandet om de som avvisar autentiska *aḥādīt̲h* som nämnts i Sahīh al-Buk̲hārī och Sahīh Muslim. Ett exempel är *aḥādīt̲h* om straffet i graven, profetens – över honom vare Allāhs frid och välsignelser – nattliga resa, magi, medlingen eller om människor som kommer ut ur Elden? Kan vi be bakom sådana människor och hälsa på dem eller bör vi överge dem helt?

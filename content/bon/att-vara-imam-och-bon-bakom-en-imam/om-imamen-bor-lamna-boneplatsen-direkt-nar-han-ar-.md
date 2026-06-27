@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 964
-description: >-
-  Fråga: Är det mer passande för imamen att lämna böneplatsen direkt efter bönen
-  eller bör han stanna kvar en stund? Svar: Det är bättre om imamen väntar i
-  riktning mot qiblah under den tid de...
+description: 'Det är bättre om imamen väntar i riktning mot qiblah under den tid det tar att söka Allāhs förlåtelse tre gånger och säga: ”Allāhumma antas-salamu wa…'
 ---
 
 **Fråga:** Är det mer passande för imamen att lämna böneplatsen direkt efter bönen eller bör han stanna kvar en stund?

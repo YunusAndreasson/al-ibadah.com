@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 1174
-description: >-
-  Fråga: Vilket är utlåtandet om att beskriva profeten – över honom vare Allāhs
-  frid och välsignelser – med ordet habībullah [Allāhs älskade]? Svar: Utan
-  tvekan älskar Allāh profeten. Profeten...
+description: 'Utan tvekan älskar Allāh profeten. Profeten – över honom vare Allāhs frid och välsignelser – älskar ju Allāh och Allāh älskar honom.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att beskriva profeten – över honom vare Allāhs frid och välsignelser – med ordet *habībullah* [Allāhs älskade]?

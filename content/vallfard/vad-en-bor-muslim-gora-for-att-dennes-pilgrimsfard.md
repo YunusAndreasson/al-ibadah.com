@@ -7,10 +7,7 @@ source: >-
 categories:
   - Vallfärd (Hajj)
 original_id: 890
-description: >-
-  Fråga: Vad en muslim bör göra för att personens pilgrimsfärd ska accepteras, om
-  Allāh vill? Svar: All lovprisan tillhör Allāh. Det en muslim bör göra för att
-  personens pilgrimsfärd ska acceptera...
+description: 'All lovprisan tillhör Allāh. Det en muslim bör göra för att personens pilgrimsfärd ska accepteras är: Personen bör ha avsikten att vallfärda för Allāhs…'
 ---
 
 **Fråga:** Vad en muslim bör göra för att personens pilgrimsfärd ska accepteras, om Allāh vill?

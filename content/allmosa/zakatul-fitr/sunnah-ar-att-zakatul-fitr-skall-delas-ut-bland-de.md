@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Fasteallmosa
 original_id: 653
-description: >-
-  Fråga: När det gäller den mat som man lämnar vid zakātul-fiṭr, ska den delas
-  ut bland de fattiga i vårt land? Vad gör vi med zakātul-fiṭr om vi reser tre
-  dagar innan ´eid? Svar: Profeten...
+description: 'Profetens – över honom vare Allāhs frid och välsignelser – sunnah är att före bönen på ´eid-dagens morgon dela ut zakātul-fiṭr bland de fattiga i landet.'
 ---
 
 **Fråga:** När det gäller den mat som man lämnar vid *zakātul-fiṭr*, ska den delas ut bland de fattiga i vårt land? Vad gör vi med *zakātul-fiṭr* om vi reser tre dagar innan *´eid*?

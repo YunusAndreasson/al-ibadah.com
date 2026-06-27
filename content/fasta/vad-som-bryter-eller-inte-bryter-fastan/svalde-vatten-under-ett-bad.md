@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1378
-description: 'Fråga: En man som fastade tog ett bad och med anledning av det starka
- trycket under vatten slutade det med att han svalde vatten, men han hade inte avsikten
- att göra det. Måste han ta igen fastan?...'
+description: 'Han behöver inte ta igen fastan, då han inte hade avsikten. Utlåtandet om honom är samma som för dem som tvingas till något eller glömmer.'
 ---
 
 **Fråga:** En man som fastade tog ett bad och med anledning av det starka trycket under vatten slutade det med att han svalde vatten, men han hade inte avsikten att göra det. Måste han ta igen fastan?

@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 122
-description: >-
-  Fråga: Hör profeten – över honom vare Allāhs frid och välsignelser – i sin
-  ädla grav dem som ber för honom [speciellt välsignelser]? I en hadīth har det
-  sagts: ” Den som sänder välsignelser över...
+description: 'I allmänhet kan de döda inte höra något från Adams söner som lever. De kan heller inte höra deras åkallan.'
 ---
 
 **Fråga:** Hör profeten – över honom vare Allāhs frid och välsignelser – i sin ädla grav dem som ber för honom [speciellt välsignelser]? I en *ḥadīt̲h* har det sagts: ”*Den som sänder välsignelser över min grav hör jag*…” Är denna *ḥadīt̲h* autentisk?

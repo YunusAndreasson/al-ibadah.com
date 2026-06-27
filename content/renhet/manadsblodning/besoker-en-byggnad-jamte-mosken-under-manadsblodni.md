@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 1450
-description: >-
-  Fråga: I USA finns det en moské med tre våningar. Den översta våningen är ett
-  bönerum för kvinnor, våningen nedanför är det huvudsakliga bönerummet och på
-  bottenvåningen finns det en sorts källare...
+description: 'Om byggnaden som du nämner anses vara en moské och de övre och nedre våningarna hör imamens röst, då kommer bönen att accepteras och kvinnor med…'
 ---
 
 **Fråga:** I USA finns det en moské med tre våningar. Den översta våningen är ett bönerum för kvinnor, våningen nedanför är det huvudsakliga bönerummet och på bottenvåningen finns det en sorts källare där man kan tvaga sig. Här finns även plats för islamiska magasin, tidningar, klassrum samt en böneplats för kvinnor. Får en kvinna med månadsblödning besöka den nedre våningen? I denna moské finns det även pelare som separerar de som ber i två rader, bryter detta raderna?

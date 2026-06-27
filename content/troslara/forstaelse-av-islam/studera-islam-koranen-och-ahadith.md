@@ -6,10 +6,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 490
-description: >-
-  Fråga: Jag memorerar lite av Koranen och jag hoppas kunna memorera hela för
-  att – med Allāhs hjälp – fortsätta och memorera ahādīth från sändebudet – över
-  honom vare Allāhs frid och välsignelser...
+description: 'All lovprisan tillhör Allāh. Båda sätten är bra. Välj den som är lättast för dig och som möter dina behov och behoven ifrån människorna runt omkring dig.'
 ---
 
 **Fråga:** Jag memorerar lite av Koranen och jag hoppas kunna memorera hela för att – med Allāhs hjälp – fortsätta och memorera *aḥādīt̲h* från sändebudet – över honom vare Allāhs frid och välsignelser – som finns återgivna i *aṣ-Ṣaḥīḥayn*. Är denna metod bra eller bör jag jobba med att memorera båda samtidigt?

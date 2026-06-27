@@ -4,10 +4,7 @@ categories:
   - Blandat
   - Utveckling
 original_id: 1714
-description: >-
-  Fråga: Jag har mött många motgångar i detta liv, vilket har fått mig att hata
-  det. Varje gång jag vänder mig till Allāh, ber jag Honom att Han ska ta mitt
-  liv i nästa andetag. Detta är min önskn...
+description: 'När en person vill ta sitt liv, efter att ha fått en depression, gör han något som profeten – över honom vare Allāhs frid och välsignelser – har förbjudit…'
 ---
 
 **Fråga:** Jag har mött många motgångar i detta liv, vilket har fått mig att hata det. Varje gång jag vänder mig till Allāh, ber jag Honom att Han ska ta mitt liv i nästa andetag. Detta är min önskning, då jag inte ser någon annan utväg från mina problem än döden. Är dessa tankar tillåtna?

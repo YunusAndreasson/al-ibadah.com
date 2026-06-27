@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Betalningstid
 original_id: 652
-description: >-
-  Fråga: Är det tillåtet att behålla ens allmosa eller zakātul-fitr för att
-  betala dem till någon fattig som man inte har haft möjlighet att komma i
-  kontakt med ännu? Svar: Om tiden är knapp ä...
+description: 'Om tiden är knapp är det ingen fara om man behåller dem tills man kan ge dem till någon fattig bland släktingarna eller någon som är fattigare eller i…'
 ---
 
 **Fråga:** Är det tillåtet att behålla ens allmosa eller *zakātul-fiṭr* för att betala dem till någon fattig som man inte har haft möjlighet att komma i kontakt med ännu?

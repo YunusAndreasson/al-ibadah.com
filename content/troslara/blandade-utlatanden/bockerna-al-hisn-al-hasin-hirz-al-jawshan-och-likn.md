@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 42
-description: >-
-  Fråga: Vilket är utlåtandet om besvärjelser och talismaner om de kommer från
-  Koranen? Vilket är utlåtandet om att bära med sig böckerna al-Hisn al-Hasin ,
-  Hirz al-Jawshan eller as-Saba'ul-'Uqu...
+description: 'Besvärjelser från Koranen och åminnelse av Allāh är tillåtet, vilket alla besvärjelser som inte innehåller s̲hirk eller någon sorts syndig åkallan är.'
 ---
 
 **Fråga:** Vilket är utlåtandet om besvärjelser och talismaner om de kommer från Koranen? Vilket är utlåtandet om att bära med sig böckerna *al-Hisn al-Hasin*, *Hirz al-Jawshan* eller *as-Saba'ul-'Uqud as-Sulaymaniyah*? Är det sant, som det påstås i dessa böcker, att de är användbara för att skydda emot det ”onda ögat” och avundsjuka, etcetera? Det sägs att de inte innehåller något annat än verser från Koranen, som *al-Mu'awwithatain* [sura al-Falaq och sura an-Nas] och *al-Kursi*[^1]-versen, så skulle det vara fördelaktigt att endast recitera dem, utan att bära dem med sig?

@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 190
-description: >-
-  Fråga: Under kvällsbönen i den tredje bönecykeln tänkte jag på straffet i
-  graven; dess skräck, plåga och vedermöda, så mina tårar rann och jag började
-  gråta under nästan fem minuter. Därefter full...
+description: 'Det tillhör profetens – över honom vare Allāhs frid och välsignelser – vägledning när han reciterade i bönen, om han kom till en vers som nämnde Allāhs…'
 ---
 
 **Fråga:** Under kvällsbönen i den tredje bönecykeln tänkte jag på straffet i graven; dess skräck, plåga och vedermöda, så mina tårar rann och jag började gråta under nästan fem minuter. Därefter fullföljde jag bönen. Är min bön giltig eller bör jag upprepa den?

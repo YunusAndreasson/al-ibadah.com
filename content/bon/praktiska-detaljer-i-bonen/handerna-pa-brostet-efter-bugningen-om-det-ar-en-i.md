@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 955
-description: >-
-  Fråga: Jag läste i en bok om profetens – över honom vare Allāhs frid och
-  välsignelser – bön att det är en innovation att placera händerna på bröstet
-  när man har rest sig upp från bugningen. Vilke...
+description: 'Först och främst: Undvik att säga att den som motsäger profetens – över honom vare Allāhs frid och välsignelser – sunnah i frågor som det är tillåtet att…'
 ---
 
 **Fråga:** Jag läste i en bok om profetens – över honom vare Allāhs frid och välsignelser – bön att det är en innovation att placera händerna på bröstet när man har rest sig upp från bugningen. Vilken är den korrekta åsikten? Må Allāh belöna er med det goda för att ni vägleder alla muslimer.

@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1047
-description: 'Fråga: Leder ett blödande tandkött till att fastan bryts? Svar: Ett
- blödande tandkött påverkar inte fastan men man bör i så stor utsträckning som möjligt
- försöka undvika att svälja det. Likale...'
+description: 'Ett blödande tandkött påverkar inte fastan men man bör i så stor utsträckning som möjligt försöka undvika att svälja det.'
 ---
 
 **Fråga:** Leder ett blödande tandkött till att fastan bryts?

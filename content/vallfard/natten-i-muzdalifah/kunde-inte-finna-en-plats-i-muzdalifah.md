@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Muzdalifah-natten
 original_id: 843
-description: >-
-  Fråga: Vilket är utlåtandet om en pilgrim inte kan finna en plats i Muzdalifah
-  för att stanna där natten före ‘eid? Svar: Har någon inte möjlighet att stanna
-  i Muzdalifah, då är det uppenbar...
+description: 'Har någon inte möjlighet att stanna i Muzdalifah, då är det uppenbart att personen inte har syndat.'
 ---
 
 **Fråga:** Vilket är utlåtandet om en pilgrim inte kan finna en plats i *Muzdalifah* för att stanna där natten före *´eid*?

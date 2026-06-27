@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1641
-description: >-
-  Fråga: Jag har en syster och min fader gav bort henne i giftermål till en man
-  när hon var 22 år gammal. Han gjorde det utan att fråga om hennes åsikt. De
-  som vittnade gjorde det falskt när kontrak...
+description: 'Om systern var oskuld och hennes fader tvingade henne till att gifta sig med denna man anser vissa av de lärde att detta äktenskap är giltigt.'
 ---
 
 **Fråga:** Jag har en syster och min fader gav bort henne i giftermål till en man när hon var 22 år gammal. Han gjorde det utan att fråga om hennes åsikt. De som vittnade gjorde det falskt när kontraktet skrevs och de sade att hon godkänt och modern skrev under kontraktet för hennes räkning. På detta sätt skrevs kontraktet samtidigt som hon avvisade det. Vilket är utlåtandet om detta kontrakt och de falska vittnena?

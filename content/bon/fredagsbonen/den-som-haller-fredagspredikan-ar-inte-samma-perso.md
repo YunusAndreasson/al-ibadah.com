@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 1543
-description: >-
-  Fråga: Är det tillåtet att någon annan än imamen som ledde fredagsbönen håller
-  predikan? Svar: Det är sunnah att den som höll predikan även leder bönen.
-  Profeten – över honom vare Allāhs fri...
+description: 'Det är sunnah att den som höll predikan även leder bönen. Profeten – över honom vare Allāhs frid och välsignelser – brukade göra så här och de rättfärdiga…'
 ---
 
 **Fråga:** Är det tillåtet att någon annan än imamen som ledde fredagsbönen håller predikan?

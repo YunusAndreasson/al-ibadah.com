@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Mindre vallfärd
 original_id: 1361
-description: >-
-  Fråga: Förra året utförde jag riterna för ‘umrah under den välsignade månaden
-  ramadan. När vi återvände till platsen där vi bodde trädde jag ur ihrām utan
-  att klippa håret. Detta eftersom jag ...
+description: 'Den som har trätt in i iḥrām för ´umrah får inte träda ur iḥrām förrän personen har rakat huvudet eller klippt håret.'
 ---
 
 **Fråga:** Förra året utförde jag riterna för *´umrah* under den välsignade månaden *ramaḍān*. När vi återvände till platsen där vi bodde trädde jag ur *iḥrām* utan att klippa håret. Detta eftersom jag inte hade någon kunskap om det och min familj visste inte att jag inte visste. När de sedan fick reda på att jag hade klippt mitt hår, då informerade de mig om att det inte var tillåtet. Jag klippte då genast mitt hår. Är min *´umrah* accepterad?

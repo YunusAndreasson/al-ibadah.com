@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 349
-description: 'Fråga: Är det ett villkor att imamen håller fredagspredikan? Svar: Majoriteten
- av de lärde anser att det inte är ett villkor att predikanten är imamen som leder
- dem i bön. Ingenting har rappor...'
+description: 'Majoriteten av de lärde anser att det inte är ett villkor att predikanten är imamen som leder dem i bön. Ingenting har rapporterats om detta.'
 ---
 
 **Fråga:** Är det ett villkor att imamen håller fredagspredikan?

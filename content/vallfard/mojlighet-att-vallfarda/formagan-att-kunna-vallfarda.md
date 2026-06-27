@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsplikt
 original_id: 713
-description: >-
-  Fråga: Vilken är den ”förmåga” som man talar om då vallfärden diskuteras? Den
-  ”förmåga” som man talar om när det gäller vallfärden är en persons hälsa och
-  att personen har de transportmedel som kr...
+description: 'Den “förmåga” som man talar om när det gäller vallfärden är en persons hälsa och att personen har de transportmedel som krävs för att ta sig till Allāhs…'
 ---
 
 **Fråga:** Vilken är den “förmåga” som man talar om då vallfärden diskuteras?

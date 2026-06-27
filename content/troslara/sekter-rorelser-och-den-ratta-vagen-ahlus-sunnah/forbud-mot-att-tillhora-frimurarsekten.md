@@ -9,10 +9,7 @@ categories:
   - Sekter och rörelser
   - Ahlus-sunnah
 original_id: 133
-description: >-
-  Fråga: Är det tillåtet att gå med i frimurarsekten? Svar: Frimurarrörelsen är
-  ett hemligt sällskap som under vissa tidpunkter döljer sin organisation och
-  vid andra tidpunkter uppenbarar den, e...
+description: 'Frimurarrörelsen är ett hemligt sällskap som under vissa tidpunkter döljer sin organisation och vid andra tidpunkter uppenbarar den, enligt de tillstånd…'
 ---
 
 **Fråga:** Är det tillåtet att gå med i frimurarsekten?

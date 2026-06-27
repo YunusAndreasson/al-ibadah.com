@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Eid-bönen
 original_id: 1594
-description: >-
-  Fråga: Skall man göra ghusl före man går till ´eid -bönen? Svar: Några av de
-  lärde har sagt att det är rekommenderat att göra ghusl inför ´eid -bönen då
-  det har återberättats att några ...
+description: 'Några av de lärde har sagt att det är rekommenderat att göra g̲husl inför ´eid-bönen då det har återberättats att några av följeslagarna gjorde detta.'
 ---
 
 **Fråga:** Skall man göra *g̲husl* före man går till *´eid*-bönen?

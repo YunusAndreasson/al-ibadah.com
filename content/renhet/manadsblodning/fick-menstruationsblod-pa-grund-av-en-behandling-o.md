@@ -9,9 +9,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 1141
-description: 'Fråga: En kvinna fick menstruationsblod på grund av en behandling och
- hon slutade då att be, bör hon ta igen den? Svar: En kvinna bör inte ta igen
- bönen om något har inträffat som lett till en...'
+description: 'En kvinna bör inte ta igen bönen om något har inträffat som lett till en månadsblödning. När hon får den gäller också utlåtandet, precis som om hon tog…'
 ---
 
 **Fråga:** En kvinna fick menstruationsblod på grund av en behandling och hon slutade då att be, bör hon ta igen den?

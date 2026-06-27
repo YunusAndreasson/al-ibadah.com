@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 1340
-description: >-
-  Fråga: Förra året åkte jag till Jiddah för att besöka några släktingar och
-  efter att ha stannat där några dagar utformade jag avsikten för att vallfärda.
-  Jag trädde in i iḥrām vid Jiddahs mīqāt...
+description: 'Om du inte avsåg att vallfärda när du kom från Riyadh och du endast utformade avsikten för vallfärden när du befann dig i Jiddah, då är din iḥrām giltig.'
 ---
 
 **Fråga:** Förra året åkte jag till Jiddah för att besöka några släktingar och efter att ha stannat där några dagar utformade jag avsikten för att vallfärda. Jag trädde in i *iḥrām* vid Jiddahs *mīqāt* och jag gav mig av på vallfärd. Sedan informerade en av bröderna mig om att jag hade passerat *mīqāt* och att jag behövde slakta ett djur. Är detta uttalande korrekt, i vetskap om att jag begav mig till Jiddah från Riyadh för ett besöks skull och att jag inte avsåg att vallfärda? Vänligen, ge oss ett utlåtande. Må Allāh belöna er med gott.

@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - ´Arafāt
 original_id: 1357
-description: >-
-  Fråga: Vilket är utlåtandet om att samlas för åkallan under ´Arafāt-dagen,
-  oavsett om det är just där eller vid någon annan plats? Svar: Under denna
-  stora dag är det bästa för pilgrimen a...
+description: 'Under denna stora dag är det bästa för pilgrimen att anstränga sig med åkallan och att vara ödmjuk inför Allāh. Personen bör även höja sina händer.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att samlas för åkallan under *´Arafāt*-dagen, oavsett om det är just där eller vid någon annan plats?

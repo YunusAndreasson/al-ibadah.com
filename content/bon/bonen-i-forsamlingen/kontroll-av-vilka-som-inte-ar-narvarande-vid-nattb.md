@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 309
-description: >-
-  Fråga: Vi föreläser vid gryningsbönen och nattbönen. Då kontrollerar vi
-  vilka som inte är närvarande vid bönen. Har detta återberättats från profeten?
-  Jag ber om ett klargörande, med bevis, i den...
+description: 'Muslimer måste ge varandra råd och samarbeta i rättfärdighet och fromhet samt i att påbjuda det goda och förbjuda det onda.'
 ---
 
 **Fråga:** Vi föreläser vid gryningsbönen och nattbönen. Då kontrollerar vi vilka som inte är närvarande vid bönen. Har detta återberättats från profeten? Jag ber om ett klargörande, med bevis, i denna fråga.

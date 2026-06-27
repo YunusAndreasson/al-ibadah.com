@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 987
-description: >-
-  Fråga: Om en troende i en tyst bön läser klart sura *al-Fātiḥah* och en annan
-  sura innan imamen gör bugningen, bör personen då vara tyst? Svar: Den som
-  leds i bön bör inte vara tyst om personen läser...
+description: 'Den som leds i bön bör inte vara tyst om personen läser klart sura al-Fātiḥah och en annan sura innan imamen bugar.'
 ---
 
 **Fråga:** Om en troende i en tyst bön läser klart sura *al-Fātiḥah* och en annan sura innan imamen gör bugningen, bör personen då vara tyst?

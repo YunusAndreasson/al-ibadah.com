@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1437
-description: >-
-  Fråga: Om någon tvagar sig, det går en stund, tiden för bönen kommer och personen
-  inte kommer ihåg om personen är ren eller om personen behöver tvaga sig igen – hur
-  ska personen göra då? Svar: Om någon ...
+description: 'Om någon gör en fullständig tvagning och är i det tillståndet även om det går en tid, för att sedan bli tveksam över om tvagningen är giltig, då bör…'
 ---
 
 **Fråga:** Om någon tvagar sig, det går en stund, tiden för bönen kommer och personen inte kommer ihåg om personen är ren eller om personen behöver tvaga sig igen – hur ska personen göra då?

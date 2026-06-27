@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nedfallan vid recitation
 original_id: 280
-description: >-
-  Fråga: Vilket är utlåtandet om att i tysta böner recitera en vers i vilken det
-  finns ett nedfallande? Svar: Det är ogillat att imamen i tysta böner
-  reciterar en vers i vilken det finns en ned...
+description: 'Det är ogillat att imamen i tysta böner reciterar en vers i vilken det finns en nedfallan. De enda alternativ han har är ju att antingen nedfalla eller att…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att i tysta böner recitera en vers i vilken det finns ett nedfallande[^1]?

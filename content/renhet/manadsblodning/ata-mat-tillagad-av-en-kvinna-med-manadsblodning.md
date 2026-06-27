@@ -6,10 +6,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 589
-description: >-
-  Fråga: Är det tillåtet att äta den mat som en kvinna med mens tillagat? Svar:
-  Det finns ingen skada i att äta den mat som en kvinna med månadsblödning har
-  tillrett. Detta beror på att profeten...
+description: 'Det finns ingen skada i att äta den mat som en kvinna med månadsblödning har tillrett. Detta beror på att profeten – över honom vare Allāhs frid och…'
 ---
 
 **Fråga:** Är det tillåtet att äta den mat som en kvinna med mens tillagat?

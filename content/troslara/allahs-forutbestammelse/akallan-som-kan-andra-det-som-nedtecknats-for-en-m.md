@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 1095
-description: >-
-  Fråga: Har åkallan någon inverkan på det som har nedtecknats för en människa
-  innan hon skapades? Svar: Det råder ingen tvekan om att åkallan har en
-  inverkan på att ändra det som har skrivits n...
+description: 'Det råder ingen tvekan om att åkallan har en inverkan på att ändra det som har skrivits ned, men denna ändring har även den skrivits ned på grund av denna…'
 ---
 
 **Fråga:** Har åkallan någon inverkan på det som har nedtecknats för en människa innan hon skapades?

@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 424
-description: >-
-  Fråga: Bryts fastan om man använder ögondroppar dagtid under ramadan? Svar:
-  Den korrekta åsikten är att droppar inte bryter fastan även om de lärde har
-  olika åsikter. Vissa har sagt att om des...
+description: 'Den korrekta åsikten är att droppar inte bryter fastan även om de lärde har olika åsikter. Vissa har sagt att om dess smak når halsen så bryter det fastan.'
 ---
 
 **Fråga:** Bryts fastan om man använder ögondroppar dagtid under *ramaḍān*?

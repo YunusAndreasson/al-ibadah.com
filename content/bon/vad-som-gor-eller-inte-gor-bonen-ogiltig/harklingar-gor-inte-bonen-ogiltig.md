@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 258
-description: >-
-  Fråga: Jag bor jämte en moské där jag ber middagsbönen, eftermiddagsbönen,
-  kvällsbönen och nattbönen. Nyligen när imamen reciterade i kvällsbönen och
-  nattbönen harklade han sig hela tiden, mer ä...
+description: 'Det finns ingen invändan mot bön bakom denna imam, även om han harklar sig ofta. Anledningen är att detta inte gör bönen ogiltig om det görs eftersom det…'
 ---
 
 **Fråga:** Jag bor jämte en moské där jag ber middagsbönen, eftermiddagsbönen, kvällsbönen och nattbönen. Nyligen när imamen reciterade i kvällsbönen och nattbönen harklade han sig hela tiden, mer än tre gånger i en bönecykel. Gör detta bönen ogiltig?

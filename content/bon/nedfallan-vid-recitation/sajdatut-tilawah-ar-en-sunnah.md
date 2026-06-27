@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nedfallan vid recitation
 original_id: 281
-description: >-
-  Fråga: Om jag läser en vers, när jag sitter vid mitt skrivbord eller när jag
-  undervisar elever, i vilken där finns en vers med nedfallan – bör jag
-  nedfalla då? Skall både den som reciterar och d...
+description: 'sujūd at-tilāwah är en sunnah [både] för recitatören och den som lyssnar. Den är inte en skyldighet och ej heller är den föreskrivet för lyssnare, utom om…'
 ---
 
 **Fråga:** Om jag läser en vers, när jag sitter vid mitt skrivbord eller när jag undervisar elever, i vilken där finns en vers med nedfallan – bör jag nedfalla då? Skall både den som reciterar och den som lyssnar nedfalla?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 1477
-description: >-
-  Fråga: Är det obligatoriskt eller är det en betonad sunnah att sitta [innan
-  man reser sig] efter den första och tredje bönecykeln? Svar: De lärde är eniga
-  om att ”sittpausen” när man har res...
+description: 'De lärde är eniga om att ”sittpausen” när man har rest huvudet från det andra nedfallandet i den första och tredje bönecykeln, innan man reser sig upp för…'
 ---
 
 **Fråga:** Är det obligatoriskt eller är det en betonad *sunnah* att sitta [innan man reser sig] efter den första och tredje bönecykeln?

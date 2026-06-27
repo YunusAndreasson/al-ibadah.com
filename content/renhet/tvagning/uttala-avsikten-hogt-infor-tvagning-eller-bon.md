@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 262
-description: >-
-  Fråga: Vilket är utlåtandet om att säga avsikten för bönen och tvagningen
-  högt? Svar: Utlåtandet om detta är att det är en innovation. Anledningen är
-  att detta inte har berättats från profeten...
+description: 'Utlåtandet om detta är att det är en innovation. Anledningen är att detta inte har berättats från profeten – över honom vare Allāhs frid och välsignelser –…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att säga avsikten för bönen och tvagningen högt?

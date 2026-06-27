@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - 'Jinn, magi och det onda ögat'
 original_id: 1188
-description: >-
-  Fråga: Kan man drabbas av det onda ögat och finns det något botemedel?
-  Omintetgörs ens tawakkul om man skyddar sig mot det? Svar: Vi ser att det onda
-  ögat är något som den islamiska lagen o...
+description: 'Vi ser att det onda ögat är något som den islamiska lagen och verkliga bevis bekräftar. Allāh den Upphöjde säger: ”[Ha tålamod] även om de som förnekar…'
 ---
 
 **Fråga:** Kan man drabbas av det onda ögat och finns det något botemedel? Omintetgörs ens *tawakkul* om man skyddar sig mot det?

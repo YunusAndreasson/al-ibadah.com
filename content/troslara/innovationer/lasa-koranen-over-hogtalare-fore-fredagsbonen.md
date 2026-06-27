@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 540
-description: >-
-  Fråga: I vissa moskéer i många delar av den muslimska världen läser man i
-  högtalare innan fredagsbönen några verser från Koranen. Vilket är utlåtandet
-  om detta? Svar: All lovprisan tillhör Allā...
+description: 'All lovprisan tillhör Allāh. Vi känner inte till något underlag för att göra detta från vare sig Koranen, profetens – över honom vare Allāhs frid och…'
 ---
 
 **Fråga:** I vissa moskéer i många delar av den muslimska världen läser man i högtalare innan fredagsbönen några verser från Koranen. Vilket är utlåtandet om detta?

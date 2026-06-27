@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 378
-description: >-
-  Fråga: Stämmer det att syndernas vikt ökar i Mecka precis som goda handlingar
-  gör? Svar: På alla platser ökar endast vikten av dåliga handlingar när det
-  gäller sättet, inte antalet. Anledninge...
+description: 'På alla platser ökar endast vikten av dåliga handlingar när det gäller sättet, inte antalet.'
 ---
 
 **Fråga:** Stämmer det att syndernas vikt ökar i Mecka precis som goda handlingar gör?

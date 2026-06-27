@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Pilgrimskläder
 original_id: 763
-description: >-
-  Fråga: Vilket är utlåtandet om att ta parfym på ihrām -kläderna innan man
-  utformar avsikten och säger talbiyyah? Svar: Man bör inte parfymera det övre
-  plagget eller det undre midjeplagget. ...
+description: 'Man bör inte parfymera det övre plagget eller det undre midjeplagget. Profetens – över honom vare Allāhs frid och välsignelser – sunnah är att parfymera…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att ta parfym på *iḥrām*-kläderna innan man utformar avsikten och säger *talbiyyah*?

@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 1498
-description: >-
-  Fråga: I vår by finns det två församlingar. Båda påstår sig följa den rätta
-  vägen. Vid slutet av bönen finner vi att en församling höjer händerna och
-  åkallar gemensamt på följande sätt: ” Allāh! S...
+description: 'Vi känner inte till något som tillåter gemensam åkallan efter imamens taslīm. En fatwa om detta har redan utfärdats av den Permanenta Kommittén.'
 ---
 
 **Fråga:** I vår by finns det två församlingar. Båda påstår sig följa den rätta vägen. Vid slutet av bönen finner vi att en församling höjer händerna och åkallar gemensamt på följande sätt: ”*Allāh! Sänd välsignelser och frid över Muḥammad, Din tjänare och Din Budbärare, den illitterate profeten – över honom vare Allāhs frid och välsignelser – och över hans familj, och följeslagare och sänd de bästa hälsningarna till honom*.” Det finns även en annan åkallan som de kallar al-Fatih.

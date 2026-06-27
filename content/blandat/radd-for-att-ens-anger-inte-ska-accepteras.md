@@ -8,10 +8,7 @@ source: >-
 categories:
   - Blandat
 original_id: 658
-description: >-
-  Fråga: En person begick en handling av olydnad och ångrade sig inför Allāh
-  efteråt. Han känner dock djupt inom sig själv att Allāh inte kommer att
-  förlåta honom. Vilket är ditt råd till honom? ...
+description: 'Detta är ett bevis för skärpan i din fruktan av Allāh och för din vördnad för Hans förbud. Om Allāh vill gör du vad som är rätt.'
 ---
 
 **Fråga:** En person begick en handling av olydnad och ångrade sig inför Allāh efteråt. Han känner dock djupt inom sig själv att Allāh inte kommer att förlåta honom. Vilket är ditt råd till honom?

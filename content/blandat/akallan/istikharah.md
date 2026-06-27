@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Åkallan
 original_id: 982
-description: >-
-  Fråga: Vilket är utlåtandet om istikharah-bönen? Bör åkallan för
-  istikharah-bönen läsas när man ber hälsningsbönen till moskén eller under de
-  vanliga sunnah -bönerna? Svar: Istikharah-bönen ä...
+description: 'istik̲hārah-bönen är sunnah när man är bekymrad över något och det inte är klart för en om det är bäst att göra det eller inte.'
 ---
 
 **Fråga:** Vilket är utlåtandet om *istik̲hārah*-bönen? Bör åkallan för *istik̲hārah*-bönen läsas när man ber hälsningsbönen till moskén[^2] eller under de vanliga *sunnah*-bönerna?

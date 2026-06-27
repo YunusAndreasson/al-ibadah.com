@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsriter
 original_id: 744
-description: >-
-  Fråga: Jag kom för att vallfärda tillsammans med en grupp och jag gick in i
-  ihrām som en mufrid [enbart för vallfärden]. Sedan reste min grupp till
-  Medina. Kan jag bege mig till Medina och åte...
+description: 'Om man vallfärdar med en grupp, går in i iḥrām för vallfärden som en mufrid och sedan åker med dem för att besöka profetens – över honom vare Allāhs frid…'
 ---
 
 **Fråga:** Jag kom för att vallfärda tillsammans med en grupp och jag gick in i *iḥrām* som en *mufrid* [enbart för vallfärden]. Sedan reste min grupp till Medina. Kan jag bege mig till Medina och återvända till Mecka för att göra *´umrah* efter ett par dagar?

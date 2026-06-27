@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 1064
-description: >-
-  Fråga: Syndar man om man ogiltigör en frivillig fasta? Svar: Om man ogiltigör
-  en frivillig fasta eftersom man gör något som bryter den, har man då syndat?
-  Och om man gör den ogiltig genom a...
+description: 'Om man ogiltigör en frivillig fasta eftersom man gör något som bryter den, har man då syndat?'
 ---
 
 **Fråga:** Syndar man om man ogiltigör en frivillig fasta?

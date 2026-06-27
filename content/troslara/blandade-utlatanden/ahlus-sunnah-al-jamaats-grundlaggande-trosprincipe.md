@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1066
-description: >-
-  Fråga: Vilka är ahlus-sunnah wal-jamā’ats grundläggande trosprinciper? Svar:
-  Ahlus-sunnah wal-jamā’ats grundsats när det gäller trosprincipiella frågor,
-  och andra frågor som rör religionen...
+description: 'Ahlus-sunnah wal-jamā’ats grundsats när det gäller trosprincipiella frågor, och andra frågor som rör religionen, är att följa Allāhs skrift, Hans sändebuds…'
 ---
 
 **Fråga:** Vilka är *ahlus-sunnah[^1] wal-jamā’ats* grundläggande trosprinciper?

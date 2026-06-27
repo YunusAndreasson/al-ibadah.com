@@ -6,10 +6,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 562
-description: >-
-  Fråga: Är det tillåtet att fira födelsedagar? Svar: Att fira födelsedagar har
-  inga som helst källor i den rena islamiska lagen och det är en innovation, då
-  profeten – över honom vare Allāhs fr...
+description: 'Att fira födelsedagar har inga som helst källor i den rena islamiska lagen och det är en innovation, då profeten – över honom vare Allāhs frid och…'
 ---
 
 **Fråga:** Är det tillåtet att fira födelsedagar?

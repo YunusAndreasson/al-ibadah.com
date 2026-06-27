@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Amuletter och talismaner
 original_id: 37
-description: >-
-  Fråga: Blir man icke-troende om man bär en amulett med korantext eller något
-  annat? Svar: Det finns två sorters amuletter: De som innehåller Koranen och de
-  som innehåller något annat än Koran...
+description: 'Det finns två sorters amuletter: De som innehåller Koranen och de som innehåller något annat än Koranen. Den första sorten är tillåten att bära.'
 ---
 
 **Fråga:** Blir man icke-troende om man bär en amulett med korantext eller något annat?

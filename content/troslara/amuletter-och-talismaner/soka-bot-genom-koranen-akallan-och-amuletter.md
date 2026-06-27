@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Amuletter och talismaner
 original_id: 41
-description: >-
-  Fråga: Vilket är utlåtandet om att söka bot genom Koranen, åkallan och
-  amuletter? Svar: Enligt följande hadīth som Abū Sa´īd al-Khudri har
-  återberättat är det tillåtet att söka bot genom Ko...
+description: 'Enligt följande ḥadīt̲h som Abū Sa´īd al-Khudri har återberättat är det tillåtet att söka bot genom Koranen: > ”Några av profetens – över honom vare Allāhs…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att söka bot genom Koranen, åkallan och amuletter?

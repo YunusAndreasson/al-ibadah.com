@@ -6,10 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - Förbud i helgtillståndet
 original_id: 1284
-description: >-
-  Fråga: Får en pilgrim tvätta hela sin kropp för att svalka sig under ihrām?
-  Svar: All lovprisan tillhör Allāh. En muslim får tvätta hela sin kropp för att
-  svalka den om den är varm. Detta komm...
+description: 'All lovprisan tillhör Allāh. En muslim får tvätta hela sin kropp för att svalka den om den är varm.'
 ---
 
 **Fråga:** Får en pilgrim tvätta hela sin kropp för att svalka sig under *iḥrām*?

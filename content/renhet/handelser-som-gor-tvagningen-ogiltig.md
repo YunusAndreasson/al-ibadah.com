@@ -8,10 +8,7 @@ source: >-
 categories:
   - Renhet (Tahārah)
 original_id: 1212
-description: >-
-  Fråga: Vilka är de händelser som gör ens tvagning ogiltig? Svar: Vad som gör
-  ens tvagning ogiltig är något som de lärde tvistar om. Vi nämner, enligt
-  bevisen, vad som gör den ogiltig: ...
+description: 'Vad som gör ens tvagning ogiltig är något som de lärde tvistar om. Vi nämner, enligt bevisen, vad som gör den ogiltig: 1.'
 ---
 
 **Fråga:** Vilka är de händelser som gör ens tvagning ogiltig?

@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 663
-description: >-
-  Fråga: Född och uppfostrad som muslim har jag aldrig lämnat bönen förrän vid
-  ett tillfälle då ödet ville det. Jag reste utomlands två gånger med min familj
-  och sedan en gång ensam. Under en period...
+description: 'Ånger är tillräckligt för dig. Du behöver varken ta igen bönerna eller fastan och det finns ingen gottgörelse för dig.'
 ---
 
 **Fråga:** Född och uppfostrad som muslim har jag aldrig lämnat bönen förrän vid ett tillfälle då ödet ville det. Jag reste utomlands två gånger med min familj och sedan en gång ensam. Under en period av fyra år övergav jag helt bönen och jag begick många synder. Jag fastade inte och hade dagtid samlag med min fru under *ramaḍān*. Jag anser att min degradering främst beror på dåligt sällskap. Men nu känner jag mig ångerfull över mina synder och jag ber antingen själv eller med församlingen. Vänligen, berätta för mig vad jag bör göra.

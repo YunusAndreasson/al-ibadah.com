@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Klädsel i bönen
 original_id: 222
-description: 'Fråga: Om jag glömde och bad i ett klädesplagg som det fanns lite smuts
- på och sedan kom ihåg det under bönen, kan jag då avbryta bönen och byta plagg?
- Vilka är de omständigheter som det är tillåt...'
+description: 'Den som bad medan han bar något smutsigt och han var medveten om det, då kommer hans bön att vara ogiltig.'
 ---
 
 **Fråga:** Om jag glömde och bad i ett klädesplagg som det fanns lite smuts på och sedan kom ihåg det under bönen, kan jag då avbryta bönen och byta plagg? Vilka är de omständigheter som det är tillåtet att avbryta bönen under?

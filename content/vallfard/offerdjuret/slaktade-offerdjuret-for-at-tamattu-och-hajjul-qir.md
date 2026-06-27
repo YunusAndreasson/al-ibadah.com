@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Offerdjuret
 original_id: 867
-description: >-
-  Fråga: Vad anser ni om den som slaktar ett offerdjur för at-tamattu’ eller
-  hajjul-qirān innan ‘eid -dagen? Detta grundat på några åsikter från de lärde
-  och rättskolorna. Svar: Den som sla...
+description: 'Den som slaktar ett offerdjur för ḥajjul-tamattu´ eller al-qarīn före ´eid, blint följande den som har sagt det, då krävs det inget av personen.'
 ---
 
 **Fråga:** Vad anser ni om den som slaktar ett offerdjur för *at-tamattu’* eller *ḥajjul-qirān* innan *´eid*-dagen? Detta grundat på några åsikter från de lärde och rättskolorna.

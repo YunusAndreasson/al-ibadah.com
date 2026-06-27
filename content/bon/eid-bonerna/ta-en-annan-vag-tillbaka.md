@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Eid-bönen
 original_id: 1595
-description: >-
-  Fråga: Skall man ta en annan väg tillbaka på väg hem från ´eid -bönen? Svar:
-  För den som går till ´eid -bönen är det föreskrivet att ta en väg dit och en
-  annan tillbaka för att följa profete...
+description: 'För den som går till ´eid-bönen är det föreskrivet att ta en väg dit och en annan tillbaka för att följa profetens – över honom vare Allāhs frid och…'
 ---
 
 **Fråga:** Skall man ta en annan väg tillbaka på väg hem från *´eid*-bönen?

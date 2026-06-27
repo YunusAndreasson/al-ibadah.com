@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 307
-description: >-
-  Fråga: Iqāmah ropades ut för nattbönen och radens högra sida fylldes. På
-  den vänstra sidan fanns det endast ett fåtal personer. Vi sade då: ”Gör raden
-  jämn på vänster sida.” Men en [annan] troe...
+description: 'Bevis har rapporterats från profeten – över honom vare Allāhs frid och välsignelser – som visar att radens högra sida är bättre än den vänstra.'
 ---
 
 **Fråga:** *iqāmah* ropades ut för nattbönen och radens högra sida fylldes. På den vänstra sidan fanns det endast ett fåtal personer. Vi sade då: ”Gör raden jämn på vänster sida.” Men en [annan] troende sade då: ”Höger är bättre.” Men han blev rättad med en *ḥadīt̲h* av en annan person: ”Den som fyller radens vänstra sida kommer att få två belöningar.” Vänligen, berätta för oss vilken som är den korrekta åsikten.

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 286
-description: >-
-  Fråga: Jag gick in i moskén vid gryningsbönen och jag bad två bönecykler. När
-  jag ställde mig upp för den andra bönecykeln, då ropade böneutroparen ut till
-  bön och jag utformade avsikt för att be ...
+description: 'Om böneutroparen sköt upp böneutropet för gryningsbönen vars sunnah du bad och din bön ägde rum innan gryningsbönen, då har du gjort sunnah och du behöver…'
 ---
 
 **Fråga:** Jag gick in i moskén vid gryningsbönen och jag bad två bönecykler. När jag ställde mig upp för den andra bönecykeln, då ropade böneutroparen ut till bön och jag utformade avsikt för att be *sunnah* för gryningsbönen. När jag lämnade hemmet ropades böneutropet ut från några moskéer. När jag hade avslutat bönen satte jag mig för att läsa Koranen. En person jämte mig sade: ”Stå upp och be *sunnah* för gryningsbönen.” Jag sade: ”Jag har redan bett den.” Han svarade: ”Det är inte tillåtet om du inte ber igen för böneutroparen ropade ut till bön medan du bad.” Jag ber om en förklaring till detta.

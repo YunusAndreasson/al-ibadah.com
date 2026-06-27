@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Ställföreträdande vallfärd
 original_id: 1324
-description: >-
-  Fråga: Det finns en frisk man som har utsett en annan man till att vallfärda
-  för honom. Är denna vallfärd giltig? Svar: För den som kan vallfärda är det
-  inte tillåtet att utse någon annan som...
+description: 'För den som kan vallfärda är det inte tillåtet att utse någon annan som utför den obligatoriska vallfärden. Detta enligt konsensus bland de lärde.'
 ---
 
 **Fråga:** Det finns en frisk man som har utsett en annan man till att vallfärda för honom. Är denna vallfärd giltig?

@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 237
-description: >-
-  Fråga: Om en man kom till bönen och han släppte sig under bönen, bör han då
-  avvika eller vänta tills bönen är klar och sedan upprepa den trots att det är
-  i den sista tashahhud? Svar: I en h...
+description: 'I en ḥadīt̲h rapporteras: ”Om någon släpper sig under bönen, då bör han hålla sig för näsan och lämna bönen.” Därmed är det tydligt att den som släpper sig…'
 ---
 
 **Fråga:** Om en man kom till bönen och han släppte sig under bönen, bör han då avvika eller vänta tills bönen är klar och sedan upprepa den trots att det är i den sista *tas̲hahhud*?

@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 666
-description: >-
-  Fråga: Några generösa personer som ville bygga ett gymnasium betrodde mig med
-  pengar som de avsatt i detta syfte. Under tiden de byggde skolan behövde jag
-  pengarna då jag samtidigt byggde ett eget...
+description: 'Oberoende av vilken välgörenhet pengarna är avsedda för är det förbjudet för en person som betrotts med pengar att själv använda dem.'
 ---
 
 **Fråga:** Några generösa personer som ville bygga ett gymnasium betrodde mig med pengar som de avsatt i detta syfte. Under tiden de byggde skolan behövde jag pengarna då jag samtidigt byggde ett eget hus. Men innan skolprojektet avslutats gick jag till ett råd som representerade skolan. Jag gav dem en stor donation och påstod att pengarna kom från en generös dam, men i själva verket gav jag tillbaka pengarna som jag själv tagit innan. Jag var för blyg att erkänna vad som hade hänt. Har jag syndat trots att jag lämnat tillbaka pengarna? Om det förhåller sig så, hur kan jag då ångra mig?

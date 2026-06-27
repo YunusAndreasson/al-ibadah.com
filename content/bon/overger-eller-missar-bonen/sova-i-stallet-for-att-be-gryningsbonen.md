@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1525
-description: >-
-  Fråga: Ibland känner jag mig trött så jag sover. Jag har då inte möjlighet att
-  be gryningsbönen utom i mitt hem. Kan jag göra så här? Svar: Den som är
-  skyldig att följa religionens läror måste...
+description: 'Den som är skyldig att följa religionens läror måste be de fem bönerna i moskén tillsammans med de muslimska bröderna. Personen får inte slarva med detta.'
 ---
 
 **Fråga:** Ibland känner jag mig trött så jag sover. Jag har då inte möjlighet att be gryningsbönen utom i mitt hem. Kan jag göra så här?

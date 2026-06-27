@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 273
-description: >-
-  Fråga: Om imamen gör taslīm och jag tvekar om huruvida jag har reciterat
-  tahiyyat. Svar: Tvivlar man efter bönen ska man inte lägga någon vikt vid det.
-  I stället bör du hålla fast vid va...
+description: 'Tvivlar man efter bönen ska man inte lägga någon vikt vid det. I stället bör du hålla fast vid vad du trodde från början.'
 ---
 
 **Fråga:** Om imamen gör *taslīm* och jag tvekar om huruvida jag har reciterat *tahiyyat[^1].*

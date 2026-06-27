@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1058
-description: 'Fråga: Blir fastan ogiltig om man smakar på mat? Svar: Matsmakning
- ogiltigör inte fastan om den fastande inte sväljer. Men du bör inte göra detta
- om det inte finns behov av det. Skulle det då...'
+description: 'Matsmakning ogiltigör inte fastan om den fastande inte sväljer. Men du bör inte göra detta om det inte finns behov av det.'
 ---
 
 **Fråga:** Blir fastan ogiltig om man smakar på mat?

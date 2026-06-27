@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 1234
-description: >-
-  Fråga: Om någon som leds i bön börjar be när imamen befinner sig i nedfallan,
-  bör personen då vänta tills han [imamen] står upp eller ska personen nedfalla med
-  honom [imamen]? Svar: Det är bäst at...
+description: 'Det är bäst att inte vänta och [i stället] börja be med imamen i vilken position man än finner honom.'
 ---
 
 **Fråga:** Om någon som leds i bön börjar be när imamen befinner sig i nedfallan, bör personen då vänta tills han [imamen] står upp eller ska personen nedfalla med honom [imamen]?

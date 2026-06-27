@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Övrigt
 original_id: 569
-description: >-
-  Fråga: Rådet tillfrågades om bön förrättad på en arbetsplats med bilder på
-  väggarna är godkänd. Svar: Bönen är giltig och detta skadar dem inte – om
-  Allāh vill – om de tvingades till att be ...
+description: 'Bönen är giltig och detta skadar dem inte – om Allāh vill – om de tvingades till att be på denna plats och det inte fanns någon moské i närheten.'
 ---
 
 **Fråga:** Rådet tillfrågades om bön förrättad på en arbetsplats med bilder på väggarna är godkänd.

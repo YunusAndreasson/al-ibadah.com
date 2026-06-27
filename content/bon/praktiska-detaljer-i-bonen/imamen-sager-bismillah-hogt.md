@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 213
-description: 'Fråga: Jag bad i moskén men hann inte be med församlingen. Jag började
- då be tillsammans med några andra som hade missat bönen. Imamen reciterade då ”
- Bismillāhir-Rahmānir-Rahim ” högt. Är detta k...'
+description: 'Imamen följer imam ash-Shafi''i som ansåg att Basmalah är en vers i sura al-Fātiḥah och att den därför måste den reciteras högt.'
 ---
 
 **Fråga:** Jag bad i moskén men hann inte be med församlingen. Jag började då be tillsammans med några andra som hade missat bönen. Imamen reciterade då ”*Bismillāh[^1] ir-Rahmānir-Rahim*” högt. Är detta korrekt? Vänligen, informera mig och må Allāh göra er gott.

@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravlivet
 original_id: 26
-description: >-
-  Fråga: Hur ska människor komma upp ur sina gravar på Återuppståndelsens Dag?
-  Vem kommer att vara den förste som kläs? Svar: Allāh den Upphöjde kommer att
-  återuppresa människan på Återuppstå...
+description: 'Allāh den Upphöjde kommer att återuppresa människan på Återuppståndelsens Dag och rekonstruera henne från hennes svanskota.'
 ---
 
 **Fråga:** Hur ska människor komma upp ur sina gravar på Återuppståndelsens Dag? Vem kommer att vara den förste som kläs?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 1488
-description: >-
-  Fråga: En troende kom för sent till bönen och fann att imamen bugade. Han
-  gjorde då takbīr och bugade tillsammans med honom innan imamen rest sig upp
-  från bugningen. Behöver han ta igen denna bö...
+description: 'När tjänaren gör den första takbīr när han står upp, för att sedan buga när imamen bugar, då får han denna bönecykel.'
 ---
 
 **Fråga:** En troende kom för sent till bönen och fann att imamen bugade. Han gjorde då *takbīr* och bugade tillsammans med honom innan imamen rest sig upp från bugningen. Behöver han ta igen denna bönecykel när imamen har gjort *taslīm*?

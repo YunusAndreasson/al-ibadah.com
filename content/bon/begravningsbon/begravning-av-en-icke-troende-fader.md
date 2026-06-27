@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Begravningsbön
 original_id: 1274
-description: >-
-  Fråga: Min far har dött och han var icke-troende. Vad har jag för ansvar mot
-  honom? Skall jag begrava honom och arrangera hans begravning? Skall jag tvätta
-  och svepa honom? Finns det några rättigh...
+description: 'All lovprisan tillhör Allāh. I en ṣaḥīḥ ḥadīt̲h har det berättats att Nājiyah ibn Ka’b har sagt att ‘Ali ibn Abi Tālib – må Allāh vara nöjd med honom – har…'
 ---
 
 **Fråga:** Min far har dött och han var icke-troende. Vad har jag för ansvar mot honom? Skall jag begrava honom och arrangera hans begravning? Skall jag tvätta och svepa honom? Finns det några rättigheter som min far har över mig vad gäller detta?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdens stationer
 original_id: 1328
-description: >-
-  Fråga: Under Rajab år 1405 A.H avsåg jag att utföra ‘umrah och utan ihrām
-  passerade jag den mīqāt som kallas för Yalamlam och som är mīqāt för folket
-  från Jemen. När en av bröderna mötte mig...
+description: 'Den som tänker åka till Mecka för att utföra vallfärden eller ´umrah måste träda in i iḥrām vid den mīqāt som personen passerar genom.'
 ---
 
 **Fråga:** Under *rajab* år 1405 A.H avsåg jag att utföra *´umrah* och utan *iḥrām* passerade jag den *mīqāt* som kallas för Yalamlam och som är *mīqāt* för folket från Jemen. När en av bröderna mötte mig – må Allāh belöna honom med gott – berättade han för mig att jag behövde återvända till *mīqāt* och träda in i *iḥrām* därifrån. Han sade: ”*Du får inte gå in i Mecka i dina vanliga kläder*.” Jag åkte då tillbaka 30 km och jag gick in i *iḥrām* vid *mīqāt*. Jag skulle vilja att ni ger mig ett bra svar. Hade jag gått in i Mecka utan *iḥrām*, hade jag då behövt offra ett djur? Hade det varit tillåtet för mig att träda in i *iḥrām* från platsen där brodern träffade mig och sade till mig att gå tillbaka eller var det nödvändigt att jag gick tillbaka till *mīqāt*?

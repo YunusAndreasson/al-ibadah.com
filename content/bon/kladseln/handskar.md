@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Klädsel i bönen
 original_id: 233
-description: >-
-  Fråga: Är det tillåtet att be i handskar, speciellt om man är imam? Svar :
-  Män som kvinnor får bära handskar under böner och även utanför den. Detta
-  gäller både imamen och andra. Anledningen är...
+description: 'Män som kvinnor får bära handskar under böner och även utanför den. Detta gäller både imamen och andra.'
 ---
 
 **Fråga:** Är det tillåtet att be i handskar, speciellt om man är imam?

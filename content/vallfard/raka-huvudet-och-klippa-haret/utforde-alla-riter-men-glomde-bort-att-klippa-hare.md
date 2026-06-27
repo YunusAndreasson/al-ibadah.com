@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Hårklippning
 original_id: 833
-description: >-
-  Fråga: En kvinna vallfärdade och hon utförde alla vallfärdsriter, utom att hon
-  inte klippte sitt hår förrän nu. Detta med anledning av okunskap eller
-  glömska. Hon kom till sitt hemland och hon gjo...
+description: 'Om det förhåller sig som frågeställaren har beskrivit, att hon gjorde allt utom att klippa håret [med anledning av glömska eller okunskap], då måste hon i…'
 ---
 
 **Fråga:** En kvinna vallfärdade och hon utförde alla vallfärdsriter, utom att hon inte klippte sitt hår förrän nu. Detta med anledning av okunskap eller glömska. Hon kom till sitt hemland och hon gjorde allt som är förbjudet i *iḥrām*. Hon frågar nu vad hon måste göra?

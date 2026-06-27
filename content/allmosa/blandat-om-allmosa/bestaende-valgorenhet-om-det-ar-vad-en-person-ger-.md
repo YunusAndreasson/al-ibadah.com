@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Övrigt
 original_id: 1030
-description: >-
-  Fråga: Är bestående välgörenhet det som någon ger under sin livstid eller är
-  det vad personens familj ger för personens räkning när personen har gått bort? Svar:
-  Det ser ut som att det som avses med pro...
+description: 'Det ser ut som att det som avses med profetens – över honom vare Allāhs frid och välsignelser – ord "utom bestående välgörenhet" är det som kommer från den…'
 ---
 
 **Fråga:** Är bestående välgörenhet[^1] det som någon ger under sin livstid eller är det vad personens familj ger för personens räkning när personen har gått bort?

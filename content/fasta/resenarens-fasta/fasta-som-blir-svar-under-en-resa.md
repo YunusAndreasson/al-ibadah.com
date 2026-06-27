@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Resenärens fasta
 original_id: 1261
-description: >-
-  Fråga: Vilket är utlåtandet om fastan för en resenär om den blir svår? Svar:
-  Känner personen att det kan bli för svårt, då är det ogillat att fasta. Profeten
-  – över honom vare Allāhs frid och väl...
+description: 'Känner personen att det kan bli för svårt, då är det ogillat att fasta. Profeten – över honom vare Allāhs frid och välsignelser – såg en man som skuggades…'
 ---
 
 **Fråga:** Vilket är utlåtandet om fastan för en resenär om den blir svår?

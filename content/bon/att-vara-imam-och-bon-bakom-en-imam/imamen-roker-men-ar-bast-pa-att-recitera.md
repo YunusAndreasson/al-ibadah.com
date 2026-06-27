@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 331
-description: >-
-  Fråga: Får en rökare leda bönen om han är bäst på att recitera? Svar: Ja, det
-  är tillåtet om där inte finns någon annan som reciterar bra och som kan bönens
-  utlåtanden. Är imamen i fråga den v...
+description: 'Ja, det är tillåtet om där inte finns någon annan som reciterar bra och som kan bönens utlåtanden.'
 ---
 
 **Fråga:** Får en rökare leda bönen om han är bäst på att recitera?

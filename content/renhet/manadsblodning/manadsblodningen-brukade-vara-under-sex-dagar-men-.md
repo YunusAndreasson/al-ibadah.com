@@ -9,10 +9,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 1145
-description: >-
-  Fråga: Vad gör en kvinna om hennes månadsblödning brukade vara under sex dagar
-  men den sedan blev några dagar längre? Svar: Var kvinnans vanliga period sex
-  dagar och denna period sedan blev lä...
+description: 'Var kvinnans vanliga period sex dagar och denna period sedan blev längre [nio, tio eller elva dagar], då bör hon vänta tills hon blir ren och inte börja…'
 ---
 
 **Fråga:** Vad gör en kvinna om hennes månadsblödning brukade vara under sex dagar men den sedan blev några dagar längre?

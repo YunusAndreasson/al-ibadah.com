@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Månadsblödning och efterblödning
 original_id: 1345
-description: >-
-  Fråga: Hur ber en kvinna med månadsblödning de båda bönecykler för ihrām?
-  Svar: En kvinna med månadsblödning ber inte två bönecykler för ihrām . I
-  stället träder hon in i ihrām utan att be....
+description: 'En kvinna med månadsblödning ber inte två bönecykler för iḥrām. I stället träder hon in i iḥrām utan att be.'
 ---
 
 **Fråga:** Hur ber en kvinna med månadsblödning de båda bönecyklerna för *iḥrām*?

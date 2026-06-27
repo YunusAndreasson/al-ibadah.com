@@ -6,9 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - Övrigt
 original_id: 893
-description: 'Fråga: Jag har inte utfört den obligatoriska vallfärden och någon gav
- mig pengar som jag skulle kunna vallfärda för men jag vet att personen använder ränta.
- Får jag vallfärda för dessa pengar? Sva...'
+description: 'All lovprisan tillhör Allāh. Får man pengar av någon som använder ränta är det inte fel att använda dessa pengar för att vallfärda.'
 ---
 
 **Fråga:** Jag har inte utfört den obligatoriska vallfärden och någon gav mig pengar som jag skulle kunna vallfärda för men jag vet att personen använder ränta. Får jag vallfärda för dessa pengar?

@@ -6,9 +6,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1706
-description: >-
-  Fråga: Min man – må Allāh förlåta honom – har en nobel karaktär och fruktar
-  Allāh, men han bryr sig inte alls om mig i hemmet...
+description: 'Det råder inga tvivel om att det äkta paret måste behandla varandra på ett vänligt och respektfullt sätt.'
 ---
 
 **Fråga:** Min man – må Allāh förlåta honom – har en nobel karaktär och fruktar Allāh, men han bryr sig inte alls om mig i hemmet. Han är alltid jobbig och deprimerad. Kanske är jag orsaken till detta, men – och Allāh vet bäst – jag uppfyller hans rättigheter och gör mitt bästa för att vara behaglig och trevlig mot honom. Jag håller även allt skadligt borta ifrån honom och jag är tålmodig med det sätt han behandlar mig på. Varje gång jag frågar honom om något eller talar till honom blir han upprörd. Han påstår att jag är löjlig och talar strunt, men han är alltid vänlig mot sina vänner.

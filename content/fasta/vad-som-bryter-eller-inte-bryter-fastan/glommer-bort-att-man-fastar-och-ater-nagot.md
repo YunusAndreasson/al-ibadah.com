@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1262
-description: >-
-  Fråga: Vilket är utlåtandet om en fastande som på grund av glömska äter något?
-  Vad måste man göra om man ser personen? Svar: Den som ut ur glömska åt eller
-  drack medan personen fastade, personens fasta...
+description: 'Den som ut ur glömska åt eller drack medan personen fastade, personens fasta är giltig. Men om den fastande kommer ihåg måste personen sluta.'
 ---
 
 **Fråga:** Vilket är utlåtandet om en fastande som på grund av glömska äter något? Vad måste man göra om man ser personen?

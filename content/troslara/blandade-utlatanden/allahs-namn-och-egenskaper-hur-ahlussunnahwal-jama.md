@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1081
-description: 'Fråga: Hur ser ahlus-sunnah wal-jamā’at på Allāhs namn och egenskaper?
- Vad är skillnaden mellan ett namn och en egenskap? Fordrar bekräftelsen av ett namn
- bekräftelsen av en egenskap? Fordrar be...'
+description: 'Ahlus-sunnah wal-jamā’ats trosprinciper i fråga om Allāhs namn och egenskaper är att bekräfta namnen och egenskaperna på så vis som Allāh har bekräftat dem…'
 ---
 
 **Fråga:** Hur ser *ahlus-sunnah[^1] wal-jamā’at* på Allāhs namn och egenskaper? Vad är skillnaden mellan ett namn och en egenskap? Fordrar bekräftelsen av ett namn bekräftelsen av en egenskap? Fordrar bekräftelsen av en egenskap bekräftelsen av ett namn?

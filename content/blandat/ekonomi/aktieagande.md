@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Ekonomi
 original_id: 1621
-description: >-
-  Fråga: Vad anser islam om att äga aktier i alla de olika bolag som finns? Är
-  det tillåtet att göra affärer på detta sätt? Svar: Jag kan inte besvara denna
-  fråga då de nuvarande bolagen på markn...
+description: 'Jag kan inte besvara denna fråga då de nuvarande bolagen på marknaden använder ränta på olika sätt.'
 ---
 
 **Fråga:** Vad anser islam om att äga aktier i alla de olika bolag som finns? Är det tillåtet att göra affärer på detta sätt?

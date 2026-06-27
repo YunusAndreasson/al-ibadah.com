@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 1503
-description: >-
-  Fråga: Om man ber och glömmer hur många bönecykler man har bett – vad gör man
-  då? Svar: Då måste man utgå från vad man är säker på – vilket är det lägre
-  antalet – och sedan avsluta bönen samt ...
+description: 'Då måste man utgå från vad man är säker på – vilket är det lägre antalet – och sedan avsluta bönen samt nedfalla två gånger innan taslīm.'
 ---
 
 **Fråga:** Om man ber och glömmer hur många bönecykler man har bett – vad gör man då?

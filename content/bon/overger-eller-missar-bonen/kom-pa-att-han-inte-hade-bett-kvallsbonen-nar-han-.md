@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 259
-description: >-
-  Fråga: Jag gick in i moskén när nattbönen redan hade börjat. Innan jag
-  började be tillsammans med dem kom jag på att jag inte hade bett kvällsbönen.
-  Bör jag då be kvällsbönen och sedan be vad jag...
+description: 'Om du gick in i moskén medan nattbönen bads och du sedan kom på att du inte hade bett kvällsbönen, då bör du be tillsammans med församlingen och avse att…'
 ---
 
 **Fråga:** Jag gick in i moskén när nattbönen redan hade börjat. Innan jag började be tillsammans med dem kom jag på att jag inte hade bett kvällsbönen. Bör jag då be kvällsbönen och sedan be vad jag kan av nattbönen med församlingen eller ber jag kvällsbönen efteråt?

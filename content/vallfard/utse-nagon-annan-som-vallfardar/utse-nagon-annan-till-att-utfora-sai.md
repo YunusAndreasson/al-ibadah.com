@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsombud
 original_id: 797
-description: >-
-  Fråga: Vilket är utlåtandet om den som inte kan utföra sa’ī under vallfärden
-  eller ‘umrah? Kan han utse en representant som utför sa’ī eller tawāf åt
-  honom? Vilket är utlåtandet om han åte...
+description: 'Det är inte rätt att utse någon annan som utför ṭawāf eller sa´ī åt en. I stället måste man själv utföra ṭawāf och sa´ī, även om man bärs på en bädd eller…'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som inte kan utföra *sa´ī* under vallfärden eller *´umrah*? Kan han utse en representant som utför *sa´ī* eller *ṭawāf* åt honom? Vilket är utlåtandet om han återhämtar sig [från sjukdomen eller oförmågan] när vallfärdstiden är över?

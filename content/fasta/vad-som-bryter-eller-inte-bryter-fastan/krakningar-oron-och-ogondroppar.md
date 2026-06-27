@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 425
-description: >-
-  Fråga: I boken adh-Dhiya'ul-lami' görs ett uttalande i en predikan som
-  speciellt rör ramadan och den fastande. Texten i
-  uttalandet lyder: ” Och han bryter heller inte fa...
+description: 'Vad han har sagt om den som medicinsk behandling tar droppar i ögonen eller öronen och därmed inte skulle förstöra sin fasta, det är korrekt.'
 ---
 
 **Fråga:** I boken *adh-Dhiya'ul-lami'* görs ett uttalande i en predikan som speciellt rör *ramaḍān* och den fastande. Texten i uttalandet lyder: ”*Och han bryter heller inte fastan om han spyr och om han tar medicin i sina ögon eller öron eller tar droppar i dem*.” Vad anser ni om detta?

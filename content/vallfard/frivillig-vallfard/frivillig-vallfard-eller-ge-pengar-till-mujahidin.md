@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Frivillig vallfärd
 original_id: 1363
-description: >-
-  Fråga: Den som redan har utfört den obligatoriska vallfärden och har möjlighet
-  att göra det en andra gång, får han ge pengarna för hans andra vallfärd till
-  mujāhidin i Afghanistan, i stället för...
+description: 'Har någon redan utfört den obligatoriska vallfärden, då är det bättre att ge de pengar som han sparat för den andra vallfärden till mujāhidīn som kämpar…'
 ---
 
 **Fråga:** Den som redan har utfört den obligatoriska vallfärden och har möjlighet att göra det en andra gång, får han ge pengarna för hans andra vallfärd till *mujāhidīn* i Afghanistan, i stället för att vallfärda en andra gång?

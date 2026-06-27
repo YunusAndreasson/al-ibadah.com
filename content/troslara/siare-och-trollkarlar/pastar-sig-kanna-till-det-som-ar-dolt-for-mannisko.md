@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Siare och trollkarlar
 original_id: 100
-description: >-
-  Fråga: Vilket är utlåtandet om den som påstår sig känna till det som är dolt
-  för människor? Vilken kunskap om det dolda är det människor vill lära sig om?
-  Svar: De som påstår sig känna till de...
+description: 'De som påstår sig känna till det som är dolt för människor är spåmän, trollkarlar och de som överträder alla gränser.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som påstår sig känna till det som är dolt för människor[^1]? Vilken kunskap om det dolda är det människor vill lära sig om?

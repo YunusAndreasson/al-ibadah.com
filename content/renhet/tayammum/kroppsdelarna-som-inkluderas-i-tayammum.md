@@ -9,10 +9,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning utan vatten
 original_id: 1569
-description: >-
-  Fråga: Är det tillåtet att tvaga sig med en sten som inte lämnar
-  stoftpartiklar i handen? Vilka är de kroppsdelar som innefattas i tayammum?
-  Hur många böner får bes med en tayammum? Svar: ...
+description: 'Vissa lärda anser att det är ett villkor för tayammum att det finns jord med stoftpartiklar som fastnar på händerna.'
 ---
 
 **Fråga:** Är det tillåtet att tvaga sig med en sten som inte lämnar stoftpartiklar i handen? Vilka är de kroppsdelar som innefattas i *tayammum*? Hur många böner får bes med en *tayammum*?

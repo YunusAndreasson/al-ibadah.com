@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 1519
-description: >-
-  Fråga: Många muslimer anstränger sig mycket för att inte missa något av bönen.
-  Därför börjar de springa när de närmar sig moskén om de hör imamen be. Vilket
-  är utlåtandet om detta? Svar: Det ...
+description: 'Det är ogillat att springa till bönen, det bör man inte göra. Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”När ni kommer till…'
 ---
 
 **Fråga:** Många muslimer anstränger sig mycket för att inte missa något av bönen. Därför börjar de springa när de närmar sig moskén om de hör imamen be. Vilket är utlåtandet om detta?

@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 160
-description: >-
-  Fråga: En man var ute på en lång resa. Han blev rituellt oren [ junub ] på
-  vägen och han hade inget vatten som han kunde göra ghusl med. Kan han då be om
-  han är oren, eller vad ska han göra? ...
+description: 'Den som blir oren [junub] under en resa, och inte finner något vatten utöver det som han behöver dricka, för att göra g̲husl med och som letar efter vatten…'
 ---
 
 **Fråga:** En man var ute på en lång resa. Han blev rituellt oren [*junub*] på vägen och han hade inget vatten som han kunde göra *g̲husl* med. Kan han då be om han är oren, eller vad ska han göra?

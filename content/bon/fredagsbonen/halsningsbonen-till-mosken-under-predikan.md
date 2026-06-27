@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 1550
-description: >-
-  Fråga: Ska män be hälsningsbönen till moskén när de går in i moskén under
-  predikan? De som följer imam Māliks rättsskola säger att man inte ska göra
-  det. Svar: Sunnah när man går in i mosk...
+description: 'sunnah när man går in i moskén är att be två bönecykler, som en hälsning till moskén, även om imamen håller predikan.'
 ---
 
 **Fråga:** Ska män be hälsningsbönen till moskén[^1] när de går in i moskén under predikan? De som följer imam Māliks rättsskola säger att man inte ska göra det.

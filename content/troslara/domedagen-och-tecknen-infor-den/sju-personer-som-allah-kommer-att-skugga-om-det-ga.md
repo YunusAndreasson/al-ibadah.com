@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Domedagen och dess tecken
 original_id: 1683
-description: >-
-  Fråga: Hadithen om de sju som Allāh kommer att skugga den dag som det inte
-  kommer att finnas någon annan skugga än Hans – gäller den särskilt män eller
-  kommer kvinnor att få de belöningar som näm...
+description: 'Den belöning som nämns i denna ḥadīt̲h är inte särskild för män utan här innefattas både män och kvinnor.'
 ---
 
 **Fråga:** Hadithen om de sju som Allāh kommer att skugga den dag som det inte kommer att finnas någon annan skugga än Hans – gäller den särskilt män eller kommer kvinnor att få de belöningar som nämns om de utför exakt samma handlingar?

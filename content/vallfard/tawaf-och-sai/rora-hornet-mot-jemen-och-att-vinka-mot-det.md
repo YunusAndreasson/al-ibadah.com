@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 803
-description: >-
-  Fråga: Vilket är utlåtandet om att under tawāf stryka eller vinka mot den
-  nordvästra sidan av den ädla Ka’bah? Vilket är det antal takbīr som ska sägas
-  mot den och den Svarta Stenen? Vänlige...
+description: 'För den som utför ṭawāf är det föreskrivet att under varje varv i ṭawāf röra den Svarta Stenen och hörnet mot Jemen.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att under *ṭawāf* stryka eller vinka mot den nordvästra sidan av den ädla Ka’bah? Vilket är det antal *takbīr* som ska sägas mot den och den Svarta Stenen? Vänligen, hjälp oss med ett bra svar.

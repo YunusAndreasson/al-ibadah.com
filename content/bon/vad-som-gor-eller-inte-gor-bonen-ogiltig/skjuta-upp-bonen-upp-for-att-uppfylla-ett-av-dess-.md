@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 1149
-description: >-
-  Fråga: Är det tillåtet att skjuta upp bönen för att uppfylla ett av dess
-  villkor? Detta kan vara att man behöver ordna vatten. Svar: Den korrekta
-  åsikten är att det inte under några omständigh...
+description: 'Den korrekta åsikten är att det inte under några omständigheter är tillåtet att skjuta upp bönen till efter den utsatta tiden.'
 ---
 
 **Fråga:** Är det tillåtet att skjuta upp bönen för att uppfylla ett av dess villkor? Detta kan vara att man behöver ordna vatten.

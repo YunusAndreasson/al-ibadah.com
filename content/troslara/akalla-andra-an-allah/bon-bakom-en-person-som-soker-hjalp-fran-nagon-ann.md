@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Åkallan av döda
 original_id: 68
-description: >-
-  Fråga: Kan man be bakom någon som söker hjälp från någon annan än Allāh genom
-  att säga: ” Hjälp oss Ghawt, stöd oss Jilani! ” Om jag inte hittar någon annan
-  att be bakom, får jag be hemma då? ...
+description: 'Det är inte tillåtet att be bakom någon som begår s̲hirk vilket innefattar dem som söker hjälp och stöd från andra än Allāh.'
 ---
 
 **Fråga:** Kan man be bakom någon som söker hjälp från någon annan än Allāh genom att säga: ”*Hjälp oss Ghawt, stöd oss Jilani!*” Om jag inte hittar någon annan att be bakom, får jag be hemma då?

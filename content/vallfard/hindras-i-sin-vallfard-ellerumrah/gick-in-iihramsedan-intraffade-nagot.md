@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdshinder
 original_id: 1559
-description: >-
-  Fråga: Vilket är utlåtandet om den som gick in i ihrām för vallfärden eller
-  ‘umrah vid mīqāt och som sedan hindrades från att utföra tawāf och sa’ī ?
-  Svar: Han stannar kvar i ihrām ...
+description: 'Han stannar kvar i iḥrām om han hoppas på att det som hänt honom enbart är något tillfälligt.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som gick in i *iḥrām* för vallfärden eller *´umrah* vid *mīqāt* och som sedan hindrades från att utföra *ṭawāf* och *sa´ī*?

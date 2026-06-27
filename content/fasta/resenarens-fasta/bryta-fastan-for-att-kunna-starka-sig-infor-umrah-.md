@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Resenärens fasta
 original_id: 1039
-description: >-
-  Fråga: Om en resenär fastar och kommer till Mecka, bör personen få bryta fastan
-  för att få krafter för att göra ‘umrah? Svar: Vi säger att profeten – över
-  honom vare Allāhs frid och välsignelse...
+description: 'Vi säger att profeten – över honom vare Allāhs frid och välsignelser – kom in i Mecka den tolfte ramaḍān under året som Mecka erövrades.'
 ---
 
 **Fråga:** Om en resenär fastar och kommer till Mecka, bör personen få bryta fastan för att få krafter för att göra *´umrah*?

@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fasteinnovationer
 original_id: 1265
-description: >-
-  Fråga: I vissa kalendrar har vi sett att under ramadan finns det en sektion
-  som kallas för al-imsak . Den är placerad omkring tio till femton minuter
-  innan gryningsbönen. Finns någon grund för de...
+description: 'Detta är en sorts innovation som det inte finns någon grund för i profetens – över honom vare Allāhs frid och välsignelser – sunnah.'
 ---
 
 **Fråga:** I vissa kalendrar har vi sett att under *ramaḍān* finns det en sektion som kallas för *al-imsak*. Den är placerad omkring tio till femton minuter innan gryningsbönen. Finns någon grund för detta i profetens – över honom vare Allāhs frid och välsignelser – *sunnah* eller är det en innovation? Lämna ett rättsligt utlåtande. Må Allāh belöna er med det goda.

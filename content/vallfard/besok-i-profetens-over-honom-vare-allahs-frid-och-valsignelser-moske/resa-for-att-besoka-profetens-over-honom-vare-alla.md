@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Profetens moské
 original_id: 1362
-description: >-
-  Fråga: En person vill besöka profetens – över honom vare Allāhs frid och
-  välsignelser – Moské i Medina och han befinner sig i Mecka. Han frågar om det
-  är tillåtet? Svar: Det är tillåtet att re...
+description: 'Det är tillåtet att resa till Medina för att be i profetens – över honom vare Allāhs frid och välsignelser – Moské. Saken är den att det är rekommenderat.'
 ---
 
 **Fråga:** En person vill besöka profetens – över honom vare Allāhs frid och välsignelser – Moské i Medina och han befinner sig i Mecka. Han frågar om det är tillåtet?

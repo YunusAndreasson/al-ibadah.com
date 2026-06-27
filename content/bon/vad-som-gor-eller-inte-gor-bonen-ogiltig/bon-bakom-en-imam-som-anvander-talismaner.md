@@ -7,10 +7,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 230
-description: >-
-  Fråga: Vi har upptäckt att personen som leder oss i bönen i vår by använder
-  talismaner och att han även utövar skickliga trick med händerna. Syndar
-  jag om jag ber bakom honom? Svar: I gru...
+description: 'I grund och botten får alla muslimer som har en giltig bön vara imam, speciellt om imamens tillstånd inte är känt.'
 ---
 
 **Fråga:** Vi har upptäckt att personen som leder oss i bönen i vår by använder talismaner och att han även utövar skickliga trick med händerna. Syndar jag om jag ber bakom honom?

@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1075
-description: 'Fråga: Hur ser ahlus-sunnah wal-jamā’at på hopp och fruktan? Svar: De
- lärde har olika åsikter om man bör sätta hopp eller fruktan först. Imam Ahmad har
- sagt: ” Personens hopp och fruktan bör va...'
+description: 'De lärde har olika åsikter om man bör sätta hopp eller fruktan först. Imam Aḥmad har sagt: ”Personens hopp och fruktan bör vara likvärdiga och fruktan bör…'
 ---
 
 **Fråga:** Hur ser *ahlus-sunnah[^1] wal-jamā’at* på hopp och fruktan?

@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
 original_id: 1103
-description: >-
-  Fråga: Vilket är utlåtandet om att begrava de avlidna i moskén? Svar: Profeten
-  – över honom vare Allāhs frid och välsignelser – har förbjudit gravar i
-  moskén. Han förbjöd folket att ta gravar ...
+description: 'Profeten – över honom vare Allāhs frid och välsignelser – har förbjudit gravar i moskén. Han förbjöd folket att ta gravar till platser för dyrkan.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att begrava de avlidna i moskén?

@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 53
-description: >-
-  Fråga: Hur många sändebud och profeter finns det? Och om vi inte tror på några
-  av dem, då vi inte känner dem, är det då otro? Hur många böcker har Allāh
-  uppenbarat? Svar: I ett antal ahādīth...
+description: 'I ett antal aḥādīt̲h nämns att antalet profeter är 124 000 och 313 av dem är sändebud. Det har även rapporterats att det har funnits 8000 profeter.'
 ---
 
 **Fråga:** Hur många sändebud och profeter finns det? Och om vi inte tror på några av dem, då vi inte känner dem, är det då otro? Hur många böcker har Allāh uppenbarat?

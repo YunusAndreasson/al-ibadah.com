@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Hårklippning
 original_id: 829
-description: >-
-  Fråga: Vad är bäst när man utfört riterna under vallfärden eller ‘umrah : att
-  raka huvudet eller att klippa håret kort? Och är det tillräckligt att enbart
-  klippa lite av håret? Svar: Det ä...
+description: 'Det är bättre att raka håret under både ´umrah och vallfärden. Sändebudet gjorde åkallan om förlåtelse och nåd tre gånger för dem som rakade sina huvuden.'
 ---
 
 **Fråga:** Vad är bäst när man utfört riterna under vallfärden eller *´umrah*: att raka huvudet eller att klippa håret kort? Och är det tillräckligt att enbart klippa lite av håret?

@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 239
-description: >-
-  Fråga: Är det tillåtet att slå ihop kvällsbönen och nattbönen under
-  regniga kvällar när det finns mycket lera på vägen till moskén? Får en
-  affärsman be kvällsbönen och nattbönen tillsammans för ...
+description: 'Det är tillåtet att slå ihop de båda kvällsbönerna på grund av regn om det är ihållande och hårt, om vägarna är oupplysta, fulla av lera samt det blir halt…'
 ---
 
 **Fråga:** Är det tillåtet att slå ihop kvällsbönen och nattbönen under regniga kvällar när det finns mycket lera på vägen till moskén? Får en affärsman be kvällsbönen och nattbönen tillsammans för att han ska kunna hålla sin affär öppen?

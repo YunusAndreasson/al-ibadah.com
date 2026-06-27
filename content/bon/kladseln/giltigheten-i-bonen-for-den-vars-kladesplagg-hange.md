@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Klädsel i bönen
 original_id: 1495
-description: >-
-  Fråga: Om rocken eller byxorna är långa och hänger nedanför anklarna, är bönen
-  giltig då? Svar: Hänger byxorna nedanför anklarna, då är detta förbjudet
-  enligt en hadīth i vilken profeten – ö...
+description: 'Hänger byxorna nedanför anklarna, då är detta förbjudet enligt en ḥadīt̲h i vilken profeten – över honom vare Allāhs frid och välsignelser – säger: ”Det…'
 ---
 
 **Fråga:** Om rocken eller byxorna är långa och hänger nedanför anklarna, är bönen giltig då?

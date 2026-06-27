@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 148
-description: >-
-  Fråga: Jag är en man – och all lovprisan och tack tillhör Allāh – som har
-  många nyttiga böcker och referensverk, men jag läser dem inte. Jag väljer
-  endast ett fåtal av dem. Syndar jag när jag behå...
+description: 'Det finns inget syndigt i att samla på sig nyttiga böcker och förvara dem i sitt bibliotek för att använda dem som referens, nyttja dem och låna ut dem…'
 ---
 
 **Fråga:** Jag är en man – och all lovprisan och tack tillhör Allāh – som har många nyttiga böcker och referensverk, men jag läser dem inte. Jag väljer endast ett fåtal av dem. Syndar jag när jag behåller dessa böcker i mitt hem? Några lånar dem, drar nytta av dem och lämnar sedan tillbaka dem.

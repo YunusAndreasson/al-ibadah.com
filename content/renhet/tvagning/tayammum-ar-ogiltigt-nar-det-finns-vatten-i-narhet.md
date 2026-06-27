@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 165
-description: >-
-  Fråga: En dag hade jag en våt dröm och det var en mycket kall dag. Jag gick
-  därför till skolan, gjorde tayammum och bad. Sedan kom jag hem igen och jag
-  gjorde inte ghusl . Vilket är utlåtandet ...
+description: 'Du måste göra om de två bönerna som du bad utan g̲husl då du hade den stora rituella orenheten.'
 ---
 
 **Fråga:** En dag hade jag en våt dröm och det var en mycket kall dag. Jag gick därför till skolan, gjorde *tayammum* och bad. Sedan kom jag hem igen och jag gjorde inte *g̲husl*. Vilket är utlåtandet om detta? Må Allāh belöna er för er godhet.

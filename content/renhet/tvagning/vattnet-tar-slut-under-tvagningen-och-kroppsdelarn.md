@@ -9,10 +9,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1566
-description: >-
-  Fråga: Om vattnet tar slut när man tvagar sig och det sedan kommer tillbaka
-  när kroppsdelarna har torkat, bör man då fortsätta där man var eller bör man
-  börja om från början? Svar: Detta grund...
+description: 'Detta grundas på innebörd i ordet muwālāh och om det är villkor för att ens tvagning ska accepteras.'
 ---
 
 **Fråga:** Om vattnet tar slut när man tvagar sig och det sedan kommer tillbaka när kroppsdelarna har torkat, bör man då fortsätta där man var eller bör man börja om från början?

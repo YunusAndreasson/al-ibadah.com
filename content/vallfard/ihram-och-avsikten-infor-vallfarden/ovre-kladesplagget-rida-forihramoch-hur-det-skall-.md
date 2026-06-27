@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 764
-description: >-
-  Fråga: Är det bättre för en muhrim att täcka de båda axlarna eller bör han
-  avtäcka en av dem under ihrām? Svar: Det som är sunnah för en muhrim är att
-  han placerar rida’ över båda ha...
+description: 'Det som är sunnah för en muḥrim är att han placerar ridā’ över båda sina axlar och dess slut vid bröstet.'
 ---
 
 **Fråga:** Är det bättre för en *muḥrim* att täcka de båda axlarna eller bör han avtäcka en av dem under *iḥrām*?

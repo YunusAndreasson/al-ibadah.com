@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 247
-description: >-
-  Fråga: Vilket är utlåtandet om att hålla ned händerna under bönen? Svar: Att
-  hålla ned händerna är att gå emot profetens – över honom vare Allāhs frid och
-  välsignelser – sunnah. Det som är su...
+description: 'Att hålla ned händerna är att gå emot profetens – över honom vare Allāhs frid och välsignelser – sunnah.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att hålla ned händerna under bönen?

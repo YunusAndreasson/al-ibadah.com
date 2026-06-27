@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsombud
 original_id: 791
-description: 'Fråga: Får en kvinna utse någon som kastar stenarna på pelarna åt henne?
- Hon är rädd för trängseln. Hennes vallfärd är den obligatoriska. Måste hon kasta
- stenarna själv? Svar: En kvinna får ut...'
+description: 'En kvinna får utse någon till att kasta stenarna om det är trängsel. Detta även om hennes vallfärd är obligatorisk.'
 ---
 
 **Fråga:** Får en kvinna utse någon som kastar stenarna på pelarna åt henne? Hon är rädd för trängseln. Hennes vallfärd är den obligatoriska. Måste hon kasta stenarna själv?

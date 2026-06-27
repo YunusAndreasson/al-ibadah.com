@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 1235
-description: >-
-  Fråga: Vilket är utlåtandet om att röra sig före imamen? Svar: Det är inte
-  tillåtet att röra sig före imamen, enligt profetens – över honom vare Allāhs
-  frid och välsignelser – ord: ” Fruktar i...
+description: 'Det är inte tillåtet att röra sig före imamen, enligt profetens – över honom vare Allāhs frid och välsignelser – ord: ”Fruktar inte den som höjer sitt…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att röra sig före imamen?

@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Smycken
 original_id: 623
-description: 'Fråga: Krävs det allmosa för diamanter som används för att göra sig
- vacker och för att bäras? Svar: Det finns ingen allmosa för diamanter som är
- till för att göra sig vacker och för att bäras....'
+description: 'Det finns ingen allmosa för diamanter som är till för att göra sig vacker och för att bäras.'
 ---
 
 **Fråga:** Krävs det allmosa för diamanter som används för att göra sig vacker och för att bäras?

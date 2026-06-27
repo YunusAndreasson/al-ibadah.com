@@ -7,9 +7,7 @@ categories:
   - Fasta (Sawm)
   - Övrigt
 original_id: 96
-description: 'Fråga: Kan man be, fasta och läsa Koranen för den avlidnes räkning? Svar: Ja,
- det är rätt att be, fasta, ge till välgörenhet, recitera Koranen, åminnas Allāh
- och göra annat för att komma närma...'
+description: 'Ja, det är rätt att be, fasta, ge till välgörenhet, recitera Koranen, åminnas Allāh och göra annat för att komma närmare Allāh för den dödes räkning, under…'
 ---
 
 **Fråga:** Kan man be, fasta och läsa Koranen för den avlidnes räkning?

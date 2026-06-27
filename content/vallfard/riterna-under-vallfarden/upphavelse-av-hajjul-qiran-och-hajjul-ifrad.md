@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsriter
 original_id: 748
-description: >-
-  Fråga: Somliga påstår att hajjul-qirān och ḥajjul-ifrād har upphävts genom
-  profetens – över honom vare Allāhs frid och välsignelser – befallning till
-  följeslagarna om att de skulle utföra h...
+description: 'Detta uttalande är falskt och grundlöst. De lärde är eniga om att det finns tre former av vallfärd: ḥajjul-ifrād, ḥajjul-qirān och ḥajjul-tamattu´.'
 ---
 
 **Fråga:** Somliga påstår att *ḥajjul-qirān* och *ḥajjul-ifrād* har upphävts genom profetens – över honom vare Allāhs frid och välsignelser – befallning till följeslagarna om att de skulle utföra *ḥajjul-tamattu´[^1]'*. Vad anser ni om detta uttalande?

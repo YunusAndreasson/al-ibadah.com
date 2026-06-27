@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 1005
-description: 'Fråga: Vad anser ni om dem som går över raderna under fredagsbönen? Svar: De
- som passerar mellan raderna ska man få till att sitta ned under predikan. Man
- ska dock göra det utan att säga n...'
+description: 'De som passerar mellan raderna ska man få till att sitta ned under predikan. Man ska dock göra det utan att säga något, utan i stället dra i deras kläder…'
 ---
 
 **Fråga:** Vad anser ni om dem som går över raderna under fredagsbönen?

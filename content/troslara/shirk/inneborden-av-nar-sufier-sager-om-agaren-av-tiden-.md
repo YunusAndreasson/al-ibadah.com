@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
 original_id: 141
-description: >-
-  Fråga: Vilken är innebörden av ”... om tidens ägare friger oss. Och
-  förfogandet är i hans hand”? Vad finns det att säga om den som tror på detta
-  och är det tillåtet att be bakom personen när detta är...
+description: 'Innebörden av ”… om den som äger tiden”, är tron på att det finns en mänsklig varelse som med sina händer styr över frågor som rör skapelsen och att han…'
 ---
 
 **Fråga:** Vilken är innebörden av ”… om tidens ägare friger oss. Och förfogandet är i hans hand”? Vad finns det att säga om den som tror på detta och är det tillåtet att be bakom personen när detta är känt?

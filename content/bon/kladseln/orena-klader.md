@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Klädsel i bönen
 original_id: 931
-description: >-
-  Fråga: Vilket är utlåtandet om den som ber i orena klädesplagg när personen inte
-  känner till det? Svar: Ber man i orena klädesplagg och man inte fick reda på
-  att de var smutsiga förrän efter böne...
+description: 'Ber man i orena klädesplagg och man inte fick reda på att de var smutsiga förrän efter bönen, då är bönen giltig och man behöver inte upprepa den.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som ber i orena klädesplagg när personen inte känner till det?

@@ -8,9 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 492
-description: 'Fråga: Hur ska man göra för att stärka sin tro? Svar: All lovprisan
- tillhör Allāh. Det finns flera metoder för att stärka sin tro: Det första sättet
- är genom kunskap om Allāhs namn och ege...'
+description: 'All lovprisan tillhör Allāh. Det finns flera metoder för att stärka sin tro: Det första sättet är genom kunskap om Allāhs namn och egenskaper.'
 ---
 
 **Fråga:** Hur ska man göra för att stärka sin tro?

@@ -8,9 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 192
-description: 'Fråga: Jag är en ung arbetslös muslimsk man och min familj betalar
- mina omkostnader, men detta sker från otillåtna källor. Accepteras min bön då? Svar: Du
- får inte äta, dricka eller låta dig f...'
+description: 'Du får inte äta, dricka eller låta dig försörjas av pengar från otillåtna källor: > ”Gud visar var och en som fruktar Honom en utväg ur [alla svårigheter]…'
 ---
 
 **Fråga:** Jag är en ung arbetslös muslimsk man och min familj betalar mina omkostnader, men detta sker från otillåtna källor. Accepteras min bön då?

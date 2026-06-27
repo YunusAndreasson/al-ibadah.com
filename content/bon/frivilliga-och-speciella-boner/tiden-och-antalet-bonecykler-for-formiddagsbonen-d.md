@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Frivilliga och speciella böner
 original_id: 300
-description: >-
-  Fråga: Hur många bönecykler består förmiddagsbönen av och när passar det att
-  be den? Svar: Förmiddagsbönen är en högt rekommenderad sunnah . Som minst är
-  den två bönecykler och som mest tolv....
+description: 'Förmiddagsbönen är en högt rekommenderad sunnah. Som minst är den två bönecykler och som mest tolv.'
 ---
 
 **Fråga:** Hur många bönecykler består förmiddagsbönen[^1] av och när passar det att be den?

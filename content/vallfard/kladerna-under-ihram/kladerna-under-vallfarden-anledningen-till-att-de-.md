@@ -6,10 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - Pilgrimskläder
 original_id: 1286
-description: >-
-  Fråga: Varför bär en pilgrim särskilda kläder under pilgrimsfärden? Svar: All
-  lovprisan tillhör Allāh. Allāh har genom Sin profets läppar befallt oss
-  att bära izār och rida’ under pilg...
+description: 'All lovprisan tillhör Allāh. Allāh har genom Sin profets läppar befallt oss att bära izār och ridā’ under pilgrimsfärden och ´umrah av en anledning som Han…'
 ---
 
 **Fråga:** Varför bär en pilgrim särskilda kläder under pilgrimsfärden?

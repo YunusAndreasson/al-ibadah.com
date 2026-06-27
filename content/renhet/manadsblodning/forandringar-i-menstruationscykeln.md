@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 170
-description: >-
-  Fråga: Jag är en 42 år gammal kvinna och ibland varar min månadsblödning under
-  fyra dagar, sedan kommer ett uppehåll på tre dagar, därpå börjar den igen den
-  sjunde dagen men mindre än innan och ef...
+description: 'De dagar som nämns – den fjärde och den åttonde – är al-ḥayḍ-dagar. Därför varken ber eller fastar du då.'
 ---
 
 **Fråga:** Jag är en 42 år gammal kvinna och ibland varar min månadsblödning under fyra dagar, sedan kommer ett uppehåll på tre dagar, därpå börjar den igen den sjunde dagen men mindre än innan och efter det blir min flytning brun till den tolfte dagen. Jag har lidit av blödningar men det har slutat efter behandling – och all lovprisan tillhör Allāh.

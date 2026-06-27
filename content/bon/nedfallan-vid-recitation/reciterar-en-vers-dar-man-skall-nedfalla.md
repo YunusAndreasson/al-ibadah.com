@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nedfallan vid recitation
 original_id: 279
-description: >-
-  Fråga: Behöver jag nedfalla om jag reciterar en vers i vilken det finns
-  ett nedfallande? Svar: Sajdatut-tilāwah är en bekräftad sunnah som inte
-  bör överges. Kommer man till en vers i vilk...
+description: 'Sajdatut-tilāwah är en bekräftad sunnah som inte bör överges. Kommer man till en vers i vilken det finns ett nedfallande, då bör man nedfalla.'
 ---
 
 **Fråga:** Behöver jag nedfalla om jag reciterar en vers i vilken det finns ett nedfallande[^1]?

@@ -6,10 +6,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1376
-description: >-
-  Fråga: Är det tillåtet att använda parfymer som till exempel oljebaserade
-  odörer samt cologner och essenser under Ramadan? Svar: Ja, det är tillåtet att
-  använda dem, under förutsättning att ...
+description: 'Ja, det är tillåtet att använda dem, under förutsättning att essensen inte inandas.'
 ---
 
 **Fråga:** Är det tillåtet att använda parfymer som till exempel oljebaserade odörer samt cologner och essenser under *ramaḍān*?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Frivilliga och speciella böner
 original_id: 1010
-description: >-
-  Fråga: Vilket är utlåtandet om bönen vid sol- och månförmörkelse? Svar: Bön
-  vid sol- och månförmörkelse är högt rekommenderade sunnor. Enligt majoriteten
-  av de lärde är de dock inte obligatori...
+description: 'Bön vid sol- och månförmörkelse är högt rekommenderade sunnor. Enligt majoriteten av de lärde är de dock inte obligatoriska.'
 ---
 
 **Fråga:** Vilket är utlåtandet om bönen vid sol- och månförmörkelse?

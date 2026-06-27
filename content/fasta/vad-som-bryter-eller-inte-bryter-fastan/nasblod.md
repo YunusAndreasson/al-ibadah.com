@@ -7,8 +7,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1057
-description: 'Fråga: Bryts fastan på grund av näsblod? Svar: En näsblödning bryter
- inte fastan. Det beror på att den fastande inte har valt den själv.'
+description: 'En näsblödning bryter inte fastan. Det beror på att den fastande inte har valt den själv.'
 ---
 
 **Fråga:** Bryts fastan på grund av näsblod?

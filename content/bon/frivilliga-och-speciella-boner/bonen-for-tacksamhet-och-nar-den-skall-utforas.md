@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Frivilliga och speciella böner
 original_id: 1231
-description: >-
-  Fråga: När ska nedfallandet av tacksamhet för Allāh [ sajdatush-shukr ]
-  utföras? Hur utförs den? Är det ett villkor att man har tvagat sig? Svar:
-  Nedfallandet av tacksamhet görs när någon ka...
+description: 'Nedfallandet av tacksamhet görs när någon katastrof har avvärjts eller när man har fått någon välsignelse.'
 ---
 
 **Fråga:** När ska nedfallandet av tacksamhet för Allāh [*sajdatush-shukr*] utföras? Hur utförs den? Är det ett villkor att man har tvagat sig?

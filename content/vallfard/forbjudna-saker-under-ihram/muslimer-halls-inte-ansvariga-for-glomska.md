@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Förbud i helgtillståndet
 original_id: 774
-description: >-
-  Fråga: En muslim gick in i ihrām för ‘umrah och han har för vana att leka med
-  sitt hår när han tänker. I glömska gjorde han det då han befann sig i ihrām
-  och lite av hans hår föll av. Måste ...
+description: 'Han behöver inte göra något då Allāh om de troende har sagt: ”Herre! Ställ oss inte till svars för glömska eller oavsiktliga fel.” Allāh har besvarat deras…'
 ---
 
 **Fråga:** En muslim gick in i *iḥrām* för *´umrah* och han har för vana att leka med sitt hår när han tänker. I glömska gjorde han det då han befann sig i *iḥrām* och lite av hans hår föll av. Måste han gottgöra sig för detta?

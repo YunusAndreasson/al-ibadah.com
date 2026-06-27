@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 1421
-description: >-
-  Fråga: Vilka är de dagar som det är ogillat att fasta? Svar: De dagar som det
-  är förbjudet att fasta är fredagar. Det är inte tillåtet att välja ut dem för
-  frivillig fasta då sändebudet – över...
+description: 'De dagar som det är förbjudet att fasta är fredagar. Det är inte tillåtet att välja ut dem för frivillig fasta då sändebudet – över honom vare Allāhs frid…'
 ---
 
 **Fråga:** Vilka är de dagar som det är ogillat att fasta?

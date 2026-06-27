@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 496
-description: >-
-  Fråga: Vilka handlingar försvagar tron? Svar: Det som försvagar tron är
-  följande: Okunskap om Allāhs namn och egenskaper gör oundvikligen tron
-  svagare. Om någon saknar kunskap om namne...
+description: 'Det som försvagar tron är följande: 1. Okunskap om Allāhs namn och egenskaper gör oundvikligen tron svagare.'
 ---
 
 **Fråga:** Vilka handlingar försvagar tron?

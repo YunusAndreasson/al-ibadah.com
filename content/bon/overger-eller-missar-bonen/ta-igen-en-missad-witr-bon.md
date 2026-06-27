@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1516
-description: >-
-  Fråga: Om jag sover över witr -bönen och inte ber den under natten, kan jag då
-  ta igen den och när gör jag i så fall det? Svar: Sunnah är att ta igen den
-  efter soluppgången men innan solen ...
+description: 'sunnah är att ta igen den efter soluppgången men innan solen står mitt på himlen. Man ber då ett jämnt antal, inte witr [som är udda].'
 ---
 
 **Fråga:** Om jag sover över *witr*-bönen och inte ber den under natten, kan jag då ta igen den och när gör jag i så fall det?

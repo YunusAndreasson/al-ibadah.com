@@ -6,10 +6,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 553
-description: >-
-  Fråga: Är det tillåtet att använda allmosa för att avsluta byggandet av en
-  moské som nästan är färdig? Dess konstruktion kan stanna av beroende på
-  bristande resurser. Svar: Det är välkänt bl...
+description: 'Det är välkänt bland de lärde – och det gäller en stor majoritet av dem samt det de rättfärdiga föregångarna [så det kan anses vara ijmā''] – att allmosa…'
 ---
 
 **Fråga:** Är det tillåtet att använda allmosa för att avsluta byggandet av en moské som nästan är färdig? Dess konstruktion kan stanna av beroende på bristande resurser.

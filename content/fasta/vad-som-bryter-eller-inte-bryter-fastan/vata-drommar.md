@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1054
-description: >-
-  Fråga: Om en fastande har en våt dröm under fastan, är den giltig då? Svar:
-  Ja, fastan är giltig. En våt dröm gör den inte ogiltig. Anledningen är att
-  detta inträffar utan att den fastande har...
+description: 'Ja, fastan är giltig. En våt dröm gör den inte ogiltig. Anledningen är att detta inträffar utan att den fastande har valt det.'
 ---
 
 **Fråga:** Om en fastande har en våt dröm under fastan, är den giltig då?

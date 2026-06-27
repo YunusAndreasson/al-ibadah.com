@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 1338
-description: >-
-  Fråga: Varifrån träder en pilgrim in i iḥrām under at-tarwiyyah -dagen? Svar:
-  Han går in i iḥrām i sin bostad. På profetens – över honom vare Allāhs frid
-  och välsignelser – order trädde f...
+description: 'Han går in i iḥrām i sin bostad. På profetens – över honom vare Allāhs frid och välsignelser – order trädde följeslagarna på detta sätt in i iḥrām i sina…'
 ---
 
 **Fråga:** Varifrån träder en pilgrim in i *iḥrām* under *at-tarwiyyah*-dagen?

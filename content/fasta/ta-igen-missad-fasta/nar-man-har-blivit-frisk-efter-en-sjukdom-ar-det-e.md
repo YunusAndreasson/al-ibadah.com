@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Ikappfasta
 original_id: 456
-description: >-
-  Fråga: Det finns en kvinna som bland annat har blivit mentalt sjuk och fått
-  feber. På grund av sjukdomens inverkan har hon inte fastat under ungefär fyra
-  år. Tar hon under dessa omständigheter ige...
+description: 'Om hon har utelämnat fastan eftersom hon inte har kunnat [fasta], då måste hon ta igen det som hon inte har fastat under ramaḍān under de fyra år som hon…'
 ---
 
 **Fråga:** Det finns en kvinna som bland annat har blivit mentalt sjuk och fått feber. På grund av sjukdomens inverkan har hon inte fastat under ungefär fyra år. Tar hon under dessa omständigheter igen fastan och vilket är utlåtandet?

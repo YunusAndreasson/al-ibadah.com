@@ -6,7 +6,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 544
-description: "Fråga: \_Hur många män krävs för att fredagsbönen ska vara giltig? Vissa säger att den inte är giltig om det finns färre än 40 män och om det finns färre än det, då ska de be middagsbönen? Sva..."
+description: 'Förrättandet av fredagsbönen är en skyldighet för varje muslim i deras by och det är nödvändigt att det finns en församling för att den ska vara giltig.'
 ---
 
 **Fråga:**  Hur många män krävs för att fredagsbönen ska vara giltig? Vissa säger att den inte är giltig om det finns färre än 40 män och om det finns färre än det, då ska de be middagsbönen?

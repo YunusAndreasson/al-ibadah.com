@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 223
-description: >-
-  Fråga: Är det tillåtet att stänga ögonen under bönen? Svar: De lärde inom fiqh
-  säger att det är ogillat att stänga ögonen under bönen. Anledningen är att
-  judarna brukar göra det samt att man...
+description: 'De lärde inom fiqh säger att det är ogillat att stänga ögonen under bönen. Anledningen är att judarna brukar göra det samt att man gör det när man sover.'
 ---
 
 **Fråga:** Är det tillåtet att stänga ögonen under bönen?

@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 164
-description: >-
-  Fråga: Jag hade intim samvaro med min fru. Sedan gick jag upp för att göra
-  ghusl och be gryningsbönen. Får jag fortsätta att sova på samma madrass som
-  jag hade intim samvaro på med min fru samt ...
+description: 'Det gör inte personen ifråga eller personens madrass oren. ‘A’ishah – må Allāh vara nöjd med henne – har sagt: ”Jag brukade torka det från profetens – över…'
 ---
 
 **Fråga:** Jag hade intim samvaro med min fru. Sedan gick jag upp för att göra *g̲husl* och be gryningsbönen. Får jag fortsätta att sova på samma madrass som jag hade intim samvaro på med min fru samt att täcka mig med samma täcke?

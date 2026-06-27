@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Kost och hälsa
 original_id: 1637
-description: >-
-  Fråga: Är gelatin förbjudet? Svar: Om gelatin framställs utifrån något
-  förbjudet – som gris eller någon del av den som huden, dess ben och liknande –
-  är det förbjudet eftersom Allāh den ...
+description: 'Om gelatin framställs utifrån något förbjudet – som gris eller någon del av den som huden, dess ben och liknande – är det förbjudet eftersom Allāh den…'
 ---
 
 **Fråga:** Är gelatin förbjudet?

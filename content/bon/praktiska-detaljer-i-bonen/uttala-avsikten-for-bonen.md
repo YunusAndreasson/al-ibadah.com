@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 939
-description: >-
-  Fråga: Vilket är utlåtandet om att uttala avsikten [för att be]? Svar:
-  Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”
-  Handlingen är enligt avsikten och var och en ska ...
+description: 'Profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Handlingen är enligt avsikten och var och en ska få vad personen avsåg.” Platsen för…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att uttala avsikten [för att be]?

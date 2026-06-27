@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdens stationer
 original_id: 734
-description: >-
-  Fråga: När träder den in i ihrām som kommer med flyg till vallfärden eller
-  ‘umrah? Svar: Den som kommer med flyg eller båt går in i ihrām när personen når
-  den punkt [under flygningen] som ä...
+description: 'Den som kommer med flyg eller båt går in i iḥrām när personen når den punkt [under flygningen] som är parallell med mīqāt; precis som för någon på land.'
 ---
 
 **Fråga:** När träder den in i *iḥrām* som kommer med flyg till vallfärden eller *´umrah*?

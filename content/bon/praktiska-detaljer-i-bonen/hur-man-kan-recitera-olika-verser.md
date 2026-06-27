@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 214
-description: >-
-  Fråga: Är det tillåtet att recitera vissa verser från en sura i bönens första
-  bönecykel och att sedan recitera verser från någon annan sura i nästa
-  bönecykel eller att recitera några verser från e...
+description: 'Det är att föredra att recitera en hel sura i den första bönecykeln och en hel sura i den andra bönecykeln.'
 ---
 
 **Fråga:** Är det tillåtet att recitera vissa verser från en sura i bönens första bönecykel och att sedan recitera verser från någon annan sura i nästa bönecykel eller att recitera några verser från en lång sura i den första bönecykeln och sedan en av de korta i den andra bönecykeln?

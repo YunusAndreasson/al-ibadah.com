@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 767
-description: >-
-  Fråga: Jag bär svarta sockar i ihrām för att mina fötter ska vara täckta. Jag
-  utför tawāf och ber i dem. Det har sagts till mig att detta gör min ihrām
-  ogiltig och att jag behöver slakta e...
+description: 'Detta är en god handling som du tackas för då de täcker din ´awrah och de håller onda ingivelser borta.'
 ---
 
 **Fråga:** Jag bär svarta sockar i *iḥrām* för att mina fötter ska vara täckta. Jag utför *ṭawāf* och ber i dem. Det har sagts till mig att detta gör min *iḥrām* ogiltig och att jag behöver slakta ett djur. Jag hoppas att ni kan ge mig ett givande svar om att bära sockar i *iḥrām*, under *ṭawāf* och i bönen. Må Allāh belöna er med gott.

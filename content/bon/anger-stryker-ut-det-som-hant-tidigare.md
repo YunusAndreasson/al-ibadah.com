@@ -6,9 +6,7 @@ source: 'Muḥammad bin ´Abdul-´Azīz al-Musnad (1422), Fatawa Islamiyah. Voly
 categories:
   - Bön (Salāh)
 original_id: 655
-description: 'Fråga: Jag är en ung man som tidigare har varit slarvig med den obligatoriska
- bönen och andra frågor som rör religionen. Detta till den grad att det har gått
- dagar utan att jag bett. Men Allāh den...'
+description: 'Du måste visa tacksamhet mot Allāh den Allsmäktige för denna välgärning Han gjort för dig. Du måste lovprisa Honom för att Han väglett dig till ånger.'
 ---
 
 **Fråga:** Jag är en ung man som tidigare har varit slarvig med den obligatoriska bönen och andra frågor som rör religionen. Detta till den grad att det har gått dagar utan att jag bett. Men Allāh den Allsmäktige har väglett mig genom en av mina vänner. Nu ber jag och uppfyller Allāhs rättigheter. Vilket är utlåtandet om mitt tillkortakommande i det förgångna när det gäller bönen?

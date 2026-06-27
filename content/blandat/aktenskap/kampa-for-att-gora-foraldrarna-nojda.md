@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1695
-description: >-
-  Fråga: Min vän frågar: ”Min mor blir snabbt arg och hon åkallar ofta mot mig
-  och mina bröder. Detta speciellt när hon vaknar efter att ha sovit. Hon
-  åkallar ibland mot mig under de tider då åkalla...
+description: 'Det är obligatoriskt för barnen, både pojkar och flickor, att vara vänliga och plikttrogna mot föräldrarna samt att sträva efter att undvika att göra dem…'
 ---
 
 **Fråga:** Min vän frågar: ”Min mor blir snabbt arg och hon åkallar ofta mot mig och mina bröder. Detta speciellt när hon vaknar efter att ha sovit. Hon åkallar ibland mot mig under de tider då åkallan besvaras. Jag försöker att vara plikttrogen mot henne men hennes barskhet får mig ibland till att inte lyda henne. Syndar jag trots att hon får mig till att inte lyda henne? Besvaras en mors bön om hon ber mot barnen utan anledning att göra så? Må Allāh belöna er med det goda.”

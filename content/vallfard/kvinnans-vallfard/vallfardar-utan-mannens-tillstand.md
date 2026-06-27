@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Kvinnans vallfärd
 original_id: 710
-description: 'Fråga: Om maken inte godkänner kvinnans vallfärd, är den då giltig?
- Och om maken ger kvinnan rätt att vallfärda, kan han då sedan ändra sig? Har han
- rätt att hindra henne att vallfärda? Svar: ...'
+description: 'Mannen får inte hindra frun att utföra en obligatorisk vallfärd, om alla dess villkor är uppfyllda och hon kan utföra den utan svårighet.'
 ---
 
 **Fråga:** Om maken inte godkänner kvinnans vallfärd, är den då giltig? Och om maken ger kvinnan rätt att vallfärda, kan han då sedan ändra sig? Har han rätt att hindra henne att vallfärda?

@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Övrigt
 original_id: 1031
-description: 'Fråga: Får en kvinna ge till välgörenhet med hennes makes tillgångar
- för hennes egen räkning, eller för några av hennes avlidna släktingars räkning? Svar: Det
- som är känt är att makens tillgån...'
+description: 'Det som är känt är att makens tillgångar tillhör honom. Det är inte tillåtet att ge till välgörenhet med någon annans tillgångar utan personens tillstånd.'
 ---
 
 **Fråga:** Får en kvinna ge till välgörenhet med hennes makes tillgångar för hennes egen räkning, eller för några av hennes avlidna släktingars räkning?

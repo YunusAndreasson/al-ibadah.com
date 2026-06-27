@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
 original_id: 31
-description: >-
-  Fråga: Vilket är utlåtandet om att nedfalla vid gravar samt att offra till de
-  som ligger begravda i dem? Svar: Att nedfalla vid gravar och att offra till
-  dem är avgudadyrkan, okunnighet och s...
+description: 'Att nedfalla vid gravar och att offra till dem är avgudadyrkan, okunnighet och större s̲hirk. Detta är hängivelse som enbart får tillägnas Allāh.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att nedfalla vid gravar samt att offra till de som ligger begravda i dem?

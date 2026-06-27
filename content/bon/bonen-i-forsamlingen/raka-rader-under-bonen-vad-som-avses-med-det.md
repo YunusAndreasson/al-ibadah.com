@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 947
-description: >-
-  Fråga: Vad är föreskrivet om att göra raderna raka? Är de föreskrivet för dem
-  som ber att stå ankel mot ankel? Ge ett utlåtande och må Allāh belöna er.
-  Svar: Den korrekta åsikten är att det so...
+description: 'Den korrekta åsikten är att det som är föreskrivet om att göra raderna raka är att anklarna ska vara parallella med varandra, inte tåspetsarna.'
 ---
 
 **Fråga:** Vad är föreskrivet om att göra raderna raka? Är de föreskrivet för dem som ber att stå ankel mot ankel? Ge ett utlåtande och må Allāh belöna er.

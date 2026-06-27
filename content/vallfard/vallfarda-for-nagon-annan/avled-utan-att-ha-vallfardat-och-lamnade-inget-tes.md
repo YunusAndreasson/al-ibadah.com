@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Ställföreträdande vallfärd
 original_id: 1326
-description: >-
-  Fråga: Om en man avled utan att ha utsett någon till att vallfärda åt honom,
-  är då denna skyldighet avklarad för honom om hans son vallfärdar för hans
-  räkning? Svar: Om hans son, som är muslim...
+description: 'Om hans son, som är muslim, redan har vallfärdat själv och vallfärdar för hans räkning, då är faderns skyldighet avklarad.'
 ---
 
 **Fråga:** Om en man avled utan att ha utsett någon till att vallfärda åt honom, är då denna skyldighet avklarad för honom om hans son vallfärdar för hans räkning?

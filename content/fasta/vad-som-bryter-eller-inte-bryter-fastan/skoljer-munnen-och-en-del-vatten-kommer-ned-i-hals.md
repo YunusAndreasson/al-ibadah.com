@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 416
-description: >-
-  Fråga: Om den fastande sköljer munnen eller rengör näsan med vatten och lite
-  av vattnet oavsiktligen kommer ned i halsen, ogiltigör det då fastan? Svar: Om
-  den fastande sköljer munnen eller n...
+description: 'Om den fastande sköljer munnen eller näsan med vatten och vattnet kommer in i kroppen, då bryter detta inte fastan då personen inte gjorde det avsiktligen.'
 ---
 
 **Fråga:** Om den fastande sköljer munnen eller rengör näsan med vatten och lite av vattnet oavsiktligen kommer ned i halsen, ogiltigör det då fastan?

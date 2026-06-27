@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 272
-description: >-
-  Fråga: Under min bön glömde jag om jag hade reciterat *al-Fātiḥah*. Bör jag
-  nedfalla för glömska då? Vad reciterar man under denna nedfallan? Om
-  jag är nästan säker på att jag har reciterat den, b...
+description: 'Om en ensam tjänare eller en imam känner tvivel om recitationen av al-Fātiḥah, då bör han upprepa den innan han bugar.'
 ---
 
 **Fråga:** Under min bön glömde jag om jag hade reciterat *al-Fātiḥah*. Bör jag nedfalla för glömska[^1] då? Vad reciterar man under denna nedfallan? Om jag är nästan säker på att jag har reciterat den, bör jag nedfalla för glömska[^1] då?

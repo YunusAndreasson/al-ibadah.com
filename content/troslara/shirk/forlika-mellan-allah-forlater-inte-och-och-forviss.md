@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
 original_id: 74
-description: >-
-  Fråga: Hur kan vi jämka samman dessa båda verser: ”Gud förlåter inte dem som
-  sätter medhjälpare vid Hans sida, men Han förlåter den Han vill hans mindre
-  synder; den som sätter medhjälpare vid...
+description: 'Det finns ingen motsägelse mellan dem. Den första versen gäller den som dör och begår s̲hirk utan att ha vänt sig till Allāh i ånger.'
 ---
 
 **Fråga:** Hur kan vi jämka samman dessa båda verser:

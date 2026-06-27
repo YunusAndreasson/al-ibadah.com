@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 314
-description: 'Fråga: Om jag känner till att någon varken ber eller nämner Allāhs
- namn och att han utöver detta gör sig skyldig till onda handlingar som leder till
- Allāhs vrede, kan jag då klandra honom för att ...'
+description: 'Först måste du ge honom råd och beordra honom till vad Allāh har befallt honom att göra och förbjuda honom att göra vad Allāh har gjort otillåtet för…'
 ---
 
 **Fråga:** Om jag känner till att någon varken ber eller nämner Allāhs namn och att han utöver detta gör sig skyldig till onda handlingar som leder till Allāhs vrede, kan jag då klandra honom för att låta människor få reda på detta?

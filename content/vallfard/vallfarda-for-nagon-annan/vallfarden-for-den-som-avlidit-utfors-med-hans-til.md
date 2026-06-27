@@ -7,9 +7,7 @@ categories:
   - Vallfärd (Hajj)
   - Ställföreträdande vallfärd
 original_id: 726
-description: 'Fråga: En man avled utan att ha fullföljt den obligatoriska vallfärden
- och han skrev i sitt testamente att vallfärden skulle utföras för honom med hans
- pengar. Frågan är om denna vallfärd är korre...'
+description: 'Om en muslim dör utan att ha fullföljt skyldigheten i vallfärden, men personen samtidigt har uppfyllt alla krav för att vallfärden ska vara en skyldighet,…'
 ---
 
 **Fråga:** En man avled utan att ha fullföljt den obligatoriska vallfärden och han skrev i sitt testamente att vallfärden skulle utföras för honom med hans pengar. Frågan är om denna vallfärd är korrekt?

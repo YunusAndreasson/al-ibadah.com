@@ -6,9 +6,7 @@ categories:
   - Troslära (´Aqīdah)
   - Eder
 original_id: 542
-description: 'Fråga: I scoutlöftet säger man: ”Jag svär vid min ära att jag kommer
- att göra mitt bästa för att göra min plikt mot Allāh, mitt land och kungen. Jag
- kommer alltid att hjälpa människor och jag komm...'
+description: 'All lovprisan tillhör Allāh. För det första. Det är förbjudet att svära vid någonting annat än Allāh vare sig det är ens far eller en ledare, eller ens ära…'
 ---
 
 **Fråga:** I scoutlöftet säger man: ”Jag svär vid min ära att jag kommer att göra mitt bästa för att göra min plikt mot Allāh, mitt land och kungen. Jag kommer alltid att hjälpa människor och jag kommer att följa scouternas lag.” Detta förekommer i scouternas pamflett som publiceras av Arab Scouts Trust. Vilket är uttalandet om detta löfte?

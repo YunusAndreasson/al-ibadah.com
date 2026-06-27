@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Resenärens fasta
 original_id: 1038
-description: >-
-  Fråga: Vilket är utlåtandet om en resenärs fasta i vetskap om att det i
-  dagsläget inte är svårt för den fastande när det finns moderna transportmedel?
-  Svar: Resenären får fasta, likväl som den...
+description: 'Resenären får fasta, likväl som personen får bryta fastan. Detta enligt Allāhs den Upphöjdes ord: ”Men den som är sjuk eller [stadd] på resa [ska fasta…'
 ---
 
 **Fråga:** Vilket är utlåtandet om en resenärs fasta i vetskap om att det i dagsläget inte är svårt för den fastande när det finns moderna transportmedel?

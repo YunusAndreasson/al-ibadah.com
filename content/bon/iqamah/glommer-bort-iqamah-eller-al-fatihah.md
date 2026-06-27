@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Det andra böneutropet
 original_id: 227
-description: >-
-  Fråga: En man bad eftermiddagsbönen men han glömde bort att göra iqāmah . Vad
-  måste han göra då? Bör han be om en bönecykel om han glömmer bort *al-Fātiḥah*
-  eller är bönen giltig? Svar: Att ute...
+description: 'Att utelämna iqāmah skadar inte. Den är inte ett villkor för att bönen ska accepteras, ej heller är den en av bönens skyldigheter.'
 ---
 
 **Fråga:** En man bad eftermiddagsbönen men han glömde bort att göra *iqāmah*. Vad måste han göra då? Bör han be om en bönecykel om han glömmer bort *al-Fātiḥah* eller är bönen giltig?

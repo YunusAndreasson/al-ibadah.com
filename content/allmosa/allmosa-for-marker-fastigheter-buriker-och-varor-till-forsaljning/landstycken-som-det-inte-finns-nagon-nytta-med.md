@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Handelsvaror och fastigheter
 original_id: 613
-description: 'Fråga: Jag äger ett stycke land som jag inte har någon nytta av. Jag
- har kvar det till den stund då jag kan behöva det. Behöver jag betala allmosa för
- detta land? Om jag betalar allmosa för det, b...'
+description: 'Du behöver inte betala allmosa för detta landstycke. Allmosa krävs enbart för värdet på en produkt som är till försäljning om den ägs för att göra affärer…'
 ---
 
 **Fråga:** Jag äger ett stycke land som jag inte har någon nytta av. Jag har kvar det till den stund då jag kan behöva det. Behöver jag betala allmosa för detta land? Om jag betalar allmosa för det, behöver jag då uppskatta värdet på det varje gång?

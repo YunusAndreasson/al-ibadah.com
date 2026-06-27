@@ -6,9 +6,7 @@ categories:
   - Allmosa (Zakāh)
   - Besparingar och lön
 original_id: 608
-description: 'Fråga: Krävs allmosa för de pengar som man sparar från månadslönen
- och som man har haft under ett år? Detta även om det inte är för en investering.
- Jag sparar dessa pengar för att täcka mina och m...'
+description: 'Ja, allmosa är en skyldighet för dessa tillgångar om du har haft dem under ett år. Det är inte ett krav att pengarna ska vara för affärsverksamhet för att…'
 ---
 
 **Fråga:** Krävs allmosa för de pengar som man sparar från månadslönen och som man har haft under ett år? Detta även om det inte är för en investering. Jag sparar dessa pengar för att täcka mina och min familjs utgifter. Behöver jag betala allmosa under dessa omständigheter?

@@ -9,10 +9,7 @@ categories:
   - Renhet (Tahārah)
   - Strykning över strumpor
 original_id: 1210
-description: >-
-  Fråga: Under vilken tidsperiod kan man stryka över sockarna? Svar: Denna fråga
-  är mycket viktig och något människor behöver få svar på. Därför ska vi göra
-  svaret utförligare än frågan, om Al...
+description: 'Denna fråga är mycket viktig och något människor behöver få svar på. Därför ska vi göra svaret utförligare än frågan, om Allāh vill.'
 ---
 
 **Fråga:** Under vilken tidsperiod kan man stryka över sockarna?

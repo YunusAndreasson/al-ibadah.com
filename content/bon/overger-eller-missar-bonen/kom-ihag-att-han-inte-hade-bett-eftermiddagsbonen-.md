@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1497
-description: >-
-  Fråga: Vi glömde att be eftermiddagsbönen och vi kom inte på det förrän vi
-  hörde böneutropet för kvällsbönen. Vi bad då eftermiddagsbönen när vi hade
-  bett kvällsbönen. Vilket är utlåtandet om dett...
+description: 'Om någon har glömt att be en bön, eller om någon har försovit sig och det inte har funnits någon där för att påminna personen innan tiden gick ut, då gör…'
 ---
 
 **Fråga:** Vi glömde att be eftermiddagsbönen och vi kom inte på det förrän vi hörde böneutropet för kvällsbönen. Vi bad då eftermiddagsbönen när vi hade bett kvällsbönen. Vilket är utlåtandet om detta?

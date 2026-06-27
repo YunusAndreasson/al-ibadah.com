@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 962
-description: >-
-  Fråga: Vilket är utlåtandet om tawarruk i bönen? Gäller det för både män och
-  kvinnor? Ge oss råd och må Allāh belöna er med det goda. Svar: Tawarruk i
-  bönen är en sunnah under den sista ...
+description: 'Tawarruk i bönen är en sunnah under den sista tas̲hahhud i varje bön där det finns två tas̲hahhud som kvällsbönen, nattbönen, middagsbönen och…'
 ---
 
 **Fråga:** Vilket är utlåtandet om *tawarruk* i bönen? Gäller det för både män och kvinnor? Ge oss råd och må Allāh belöna er med det goda.

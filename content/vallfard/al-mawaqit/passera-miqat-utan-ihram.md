@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdens stationer
 original_id: 1331
-description: >-
-  Fråga: Vilket är utlåtandet om den som passerar mīqāt utan att träda in i
-  iḥrām, oavsett om det var för vallfärden, ´umrah eller något annat syfte?
-  Svar: Passerar någon mīqāt för ...
+description: 'Passerar någon mīqāt för vallfärden eller ´umrah utan att träda in i iḥrām, då måste personen återvända och träda in i iḥrām för vallfärden och ´umrah vid…'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som passerar *mīqāt* utan att träda in i *iḥrām*, oavsett om det var för vallfärden, *´umrah* eller något annat syfte?

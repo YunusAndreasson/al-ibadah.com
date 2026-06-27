@@ -7,9 +7,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1687
-description: 'Fråga: En gång blev jag mycket arg på min moder och jag sade till min
- äldre bror: ”Vid Allāh, om hon inte hade varit min moder hade jag bränt henne.”
- Har jag syndat genom vad jag sagt även om jag ...'
+description: 'Utan tvekan är detta en stor synd för du har svurit vid Allāh den Allsmäktige att göra något mot din moder (bränna henne) som vi inte ens är tillåtna att…'
 ---
 
 **Fråga:** En gång blev jag mycket arg på min moder och jag sade till min äldre bror: ”Vid Allāh, om hon inte hade varit min moder hade jag bränt henne.” Har jag syndat genom vad jag sagt även om jag senare ångrat mig?

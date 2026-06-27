@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Betalning utomlands
 original_id: 1024
-description: >-
-  Fråga: Befinner sig i Mecka men familjen finns i Riyadh – går det då att
-  betala zakātul-fitr för dem i Mecka? Svar: Personen får betala zakātul-fitr för
-  familjen om de inte finns i samma stad...
+description: 'Personen får betala zakātul-fiṭr för familjen om de inte finns i samma stad eller land som personen.'
 ---
 
 **Fråga:** Befinner sig i Mecka men familjen finns i Riyadh – går det då att betala *zakātul-fiṭr* för dem i Mecka?

@@ -8,9 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 1025
-description: 'Fråga: Bör den som är svag i tron få ta emot allmosa för att personens
- tro ska stärkas, även om personen inte är en av folkets ledare? Svar: Denna fråga
- är de lärde oeniga om. Enligt vad jag anser...'
+description: 'Denna fråga är de lärde oeniga om. Enligt vad jag anser är den starkaste åsikten att det inte finns någon invändning mot att personen får något för att…'
 ---
 
 **Fråga:** Bör den som är svag i tron få ta emot allmosa för att personens tro ska stärkas, även om personen inte är en av folkets ledare?

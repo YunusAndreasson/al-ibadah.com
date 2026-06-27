@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förutbestämmelsen
 original_id: 684
-description: >-
-  Fråga: Kan åkallan avstyra det som är förutbestämt? Svar: Allāh den
-  Allsmäktige har föreskrivit och beordrat åkallan: ” Be till Mig, så ska Jag
-  besvara er [bön] .” [40:60] Han har även sag...
+description: 'Allāh den Allsmäktige har föreskrivit och beordrat åkallan: ”Be till Mig, så ska Jag besvara er [bön].” [40:60] Han har även sagt: ”När mina tjänare frågar…'
 ---
 
 **Fråga:** Kan åkallan avstyra det som är förutbestämt?

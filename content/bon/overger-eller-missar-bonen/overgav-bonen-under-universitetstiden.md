@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1534
-description: >-
-  Fråga: En ung och mentalt frisk muslim brukade be innan han började på
-  universitet. Men under den fyra år långa universitetstiden övergav han bönen.
-  Sedan ångrade han sig och återvände till den nä...
+description: 'Den korrekta åsikten från de lärde – som vi känner till – är att den som avsiktligen överger bönen inte tar igen det som han har missat.'
 ---
 
 **Fråga:** En ung och mentalt frisk muslim brukade be innan han började på universitet. Men under den fyra år långa universitetstiden övergav han bönen. Sedan ångrade han sig och återvände till den när han var klar med universitetsstudierna. Vilket är utlåtandet om de fyra år som han övergav bönen? Detta i vetskap om att han inte förnekade att den var en skyldighet. Bör han ta igen bönen för dessa fyra år som han missade eller är ånger tillräckligt?

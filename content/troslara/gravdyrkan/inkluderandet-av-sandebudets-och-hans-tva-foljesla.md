@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
 original_id: 46
-description: >-
-  Fråga: Det är välkänt att det inte är tillåtet att begrava i moskéer samt att
-  det är förbjudet att be i en moské som innehåller en grav. Vilket var då
-  syftet med att innefatta Sändebudets och hans...
+description: 'Allāhs sändebud – över honom vare Allāhs frid och välsignelser – har sagt: > ”Allāhs förbannelse vilar över judarna och de kristna som gjorde om deras…'
 ---
 
 **Fråga:** Det är välkänt att det inte är tillåtet att begrava i moskéer samt att det är förbjudet att be i en moské som innehåller en grav. Vilket var då syftet med att innefatta Sändebudets och hans två följeslagares gravar i hans moské?

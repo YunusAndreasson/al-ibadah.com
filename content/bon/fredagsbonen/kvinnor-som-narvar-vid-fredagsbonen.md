@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 351
-description: >-
-  Fråga: Vilket är utlåtandet om att en kvinna ber fredagsbönen? Bör detta ske
-  innan, tillsammans med eller efter männens bön? Svar: Fredagsbönen är inte
-  obligatorisk för kvinnor men om en kvinn...
+description: 'Fredagsbönen är inte obligatorisk för kvinnor men om en kvinna ber den tillsammans med imamen, då accepteras den och hon behöver inte be middagsbönen.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att en kvinna ber fredagsbönen? Bör detta ske innan, tillsammans med eller efter männens bön?

@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 1662
-description: 'Fråga: Vilket är utlåtandet om att i grupp recitera Koranen i en moské? Svar: Denna
- fråga är allmän. Om du med din fråga menar att man reciterar verser med en röst
- och att alla i gruppen då ...'
+description: 'Denna fråga är allmän. Om du med din fråga menar att man reciterar verser med en röst och att alla i gruppen då läser som om det vore med en röst, då är…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att i grupp recitera Koranen i en moské?

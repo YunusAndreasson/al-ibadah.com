@@ -6,9 +6,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 903
-description: 'Fråga: Vilket är utlåtandet om att simma eller flyta i vattnet under
- fastan? Svar: Det är inget problem att dyka i vattnet, flyta eller simma. Detta
- är inte något som bryter fastan. Grunden [f...'
+description: 'Det är inget problem att dyka i vattnet, flyta eller simma. Detta är inte något som bryter fastan.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att simma eller flyta i vattnet under fastan?

@@ -10,10 +10,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 779
-description: >-
-  Fråga: Om en kvinna får sin månadsblödning, eller har blödningar efter
-  graviditeten, efter att ha trätt in i ihrām, är det då rätt att hon gör
-  tawāf runt Huset [Ka’bah]? Behöver hon utför...
+description: 'Om hon har blödningar efter graviditeten eller om hon får sin månadsblödning när hon kommer för att göra ´umrah, då avstår hon från det [ṭawāf] tills hon…'
 ---
 
 **Fråga:** Om en kvinna får sin månadsblödning, eller har blödningar efter graviditeten, efter att ha trätt in i *iḥrām*, är det då rätt att hon gör *ṭawāf* runt Huset [Ka'bah]? Behöver hon utföra *ṭawāf ul-wadā´*?

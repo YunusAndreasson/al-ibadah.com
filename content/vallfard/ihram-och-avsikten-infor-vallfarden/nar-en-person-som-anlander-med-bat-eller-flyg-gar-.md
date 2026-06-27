@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 760
-description: >-
-  Fråga: När träder en pilgrim eller den som kommer till ‘umrah in i ihrām?
-  Svar: Den som kommer med flyg eller båt går in i ihrām när personen är i jämnhöjd
-  med mīqāt, precis som den som k...
+description: 'Den som kommer med flyg eller båt går in i iḥrām när personen är i jämnhöjd med mīqāt, precis som den som kommer landvägen.'
 ---
 
 **Fråga:** När träder en pilgrim eller den som kommer till *´umrah* in i *iḥrām*?

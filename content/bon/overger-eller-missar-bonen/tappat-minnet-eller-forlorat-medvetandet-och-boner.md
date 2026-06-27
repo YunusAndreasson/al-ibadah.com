@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1148
-description: 'Fråga: Måste den som har förlorat medvetandet utöva den islamiska
- lagens skyldigheter? Svar: Allāh den Upphöjde har gjort dyrkan till en skyldighet
- om man har ett sinne som man kan förstå...'
+description: 'Allāh den Upphöjde har gjort dyrkan till en skyldighet om man har ett sinne som man kan förstå saker genom.'
 ---
 
 **Fråga:** Måste den som har förlorat medvetandet utöva den islamiska lagens skyldigheter?

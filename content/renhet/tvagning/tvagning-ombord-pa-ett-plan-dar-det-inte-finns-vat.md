@@ -10,10 +10,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 495
-description: >-
-  Fråga: Om det inte finns något vatten ombord på ett plan eller om man är
-  förbjuden att använda det då det kan läcka och förstöra planet eller om det
-  inte finns tillräckligt med vatten – hur kan en...
+description: 'All lovprisan tillhör Allāh. I fallet som du beskriver är tvagning inte möjligt, eller mycket svårt.'
 ---
 
 **Fråga:** Om det inte finns något vatten ombord på ett plan eller om man är förbjuden att använda det då det kan läcka och förstöra planet eller om det inte finns tillräckligt med vatten – hur kan en passagerare tvaga sig i detta fall då där heller inte finns någon ren jord?

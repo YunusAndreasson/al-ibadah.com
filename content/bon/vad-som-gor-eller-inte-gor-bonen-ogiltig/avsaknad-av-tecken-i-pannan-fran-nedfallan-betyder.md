@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 248
-description: >-
-  Fråga: Jag har hört många som säger att om det inte finns ett tecken efter
-  nedfallan i pannan när någon har blivit över 40 år gammal, då betyder det
-  att nedfallandet inte är korrekt eller att det...
+description: 'Detta stämmer inte. Allāh den Upphöjde accepterar nedfallandet från Sina tjänare om tjänaren gör den uppriktigt för Herren, även om det efter 40 år inte…'
 ---
 
 **Fråga:** Jag har hört många som säger att om det inte finns ett tecken efter nedfallan i pannan när någon har blivit över 40 år gammal, då betyder det att nedfallandet inte är korrekt eller att det inte är fullständig. Stämmer detta?

@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Frivillig fasta
 original_id: 482
-description: >-
-  Fråga: En man behövde fasta två på varandra efterföljande månader för att
-  gottgöra sig och han ville [även] fasta de sex dagarna under shawwal. Kan han
-  göra så? Svar: Det som är obligatoriskt ...
+description: 'Det som är obligatoriskt är att skyndsamt fasta gottgörelsen. Därför är det inte tillåtet att först fasta de sex dagarna.'
 ---
 
 **Fråga:** En man behövde fasta två på varandra efterföljande månader för att gottgöra sig och han ville [även] fasta de sex dagarna under *s̲hawwāl*. Kan han göra så?

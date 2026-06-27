@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Skulder
 original_id: 1304
-description: >-
-  Fråga: Jag lånade 251000 riyal från en bank för att köpa en del föremål. Jag
-  betalar av med årliga delinbetalningar. Har jag rätt att vallfärda när jag är
-  skyldig denna summa till banken? Svar:...
+description: 'All lovprisan tillhör Allāh. Att ha möjlighet att vallfärda är ett villkor för att den ska vara obligatorisk.'
 ---
 
 **Fråga:** Jag lånade 251000 riyal[^1] från en bank för att köpa en del föremål. Jag betalar av med årliga delinbetalningar. Har jag rätt att vallfärda när jag är skyldig denna summa till banken?

@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 580
-description: >-
-  Fråga: Jag är imam vid en moské i en av Riyadhs förorter. Mitt problem är att
-  min tajwīd är dålig och under läsning gör jag många misstag. Bör jag fortsätta
-  som imam eller ska jag sluta? Svar...
+description: 'Du måste anstränga dig mycket för att memorera vad du kan av Koranen, förbättra din tajwīd och vara medveten om det goda Allāh den Allsmäktige skänker om…'
 ---
 
 **Fråga:** Jag är imam vid en moské i en av Riyadhs förorter. Mitt problem är att min *tajwīd* är dålig och under läsning gör jag många misstag. Bör jag fortsätta som imam eller ska jag sluta?

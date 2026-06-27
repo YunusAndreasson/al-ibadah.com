@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens giltighet
 original_id: 1489
-description: >-
-  Fråga: Jag noterar att vissa bröder under bönen i moskén ibland rör sig
-  överdrivet mycket. De sätter den ena foten framför den andra som om de stod på
-  gatan. Gör detta bönen ogiltig? Svar: Att...
+description: 'Att röra sig under bönen är i grund och botten förhatligt utom om det är nödvändigt. I så fall finns det en uppdelning i fem kategorier: nödvändiga,…'
 ---
 
 **Fråga:** Jag noterar att vissa bröder under bönen i moskén ibland rör sig överdrivet mycket. De sätter den ena foten framför den andra som om de stod på gatan. Gör detta bönen ogiltig?

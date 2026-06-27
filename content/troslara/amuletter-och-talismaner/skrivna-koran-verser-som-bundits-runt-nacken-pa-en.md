@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Amuletter och talismaner
 original_id: 1172
-description: >-
-  Fråga: Vilket är utlåtandet om ruqyah? Och vilket är utlåtandet om att skriva
-  Koran-verser och binda dem runt en sjuklings hals? Svar: Det finns ingen synd
-  i ruqyah för en sjukling som dra...
+description: 'Det finns ingen synd i ruqyah för en sjukling som drabbats av häxkraft om denna ruqyah kommer från den ädla Koranen eller från tillåtna åkallan.'
 ---
 
 **Fråga:** Vilket är utlåtandet om *ruqyah*? Och vilket är utlåtandet om att skriva Koran-verser och binda dem runt en sjuklings hals?

@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Åminnelse
 original_id: 270
-description: >-
-  Fråga: En ung man ledde oss i bön och efter bönen började han att göra tasbih
-  med sin högra hand. Några blev överraskade och frågade om detta. Han sade:
-  ”Detta är profetens – över honom vare All...
+description: 'Det som imamen gjorde var rätt. Profeten – över honom vare Allāhs frid och välsignelser – brukade göra tasbīḥ med sin högra hand.'
 ---
 
 **Fråga:** En ung man ledde oss i bön och efter bönen började han att göra *tasbīḥ* med sin högra hand. Några blev överraskade och frågade om detta. Han sade: ”Detta är profetens – över honom vare Allāhs frid och välsignelser – *sunnah*.” Jag ber att ni förklarar för oss vad som är rätt.

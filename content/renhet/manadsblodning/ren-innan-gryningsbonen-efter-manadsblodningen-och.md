@@ -10,10 +10,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 1048
-description: >-
-  Fråga: Om en kvinna med månadsblödning blir ren innan gryningsbönen och hon
-  gör ghusl när den [gryningsbönen] har börjat, vilket är då utlåtandet om
-  hennes fasta? Svar: Fastan är giltig om h...
+description: 'Fastan är giltig om hon är säker på att hon blev ren innan gryningsbönen började. Det viktiga är att hon är säker på att hon blivit ren.'
 ---
 
 **Fråga:** Om en kvinna med månadsblödning blir ren innan gryningsbönen och hon gör *g̲husl* när den [gryningsbönen] har börjat, vilket är då utlåtandet om hennes fasta?

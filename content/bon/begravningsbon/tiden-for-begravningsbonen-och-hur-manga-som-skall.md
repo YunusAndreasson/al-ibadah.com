@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Begravningsbön
 original_id: 1246
-description: >-
-  Fråga: Finns det en angiven tid för begravningsbönen? Är det tillåtet att
-  begrava den avlidne nattetid? Skall där vara ett visst antal muslimer
-  närvarande? Är det tillåtet att be på gravplatser oc...
+description: 'Det finns ingen angiven tid för begravningsbönen då det inte finns någon angiven tid för döden. När någon avlider bör personen tvättas och svepas.'
 ---
 
 **Fråga:** Finns det en angiven tid för begravningsbönen? Är det tillåtet att begrava den avlidne nattetid? Skall där vara ett visst antal muslimer närvarande? Är det tillåtet att be på gravplatser och vid gravsidorna?

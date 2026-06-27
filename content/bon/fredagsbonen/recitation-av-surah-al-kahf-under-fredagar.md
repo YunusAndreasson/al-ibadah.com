@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 361
-description: >-
-  Fråga: Är recitation av sura al-Kahf under fredagen en rekommenderad handling?
-  Svar: Det finns ahādīth som tillskrivs profeten – över honom vare Allāhs frid
-  och välsignelser – om detta. Var ...
+description: 'Det finns aḥādīt̲h som tillskrivs profeten – över honom vare Allāhs frid och välsignelser – om detta.'
 ---
 
 **Fråga:** Är recitation av sura al-Kahf under fredagen en rekommenderad handling?

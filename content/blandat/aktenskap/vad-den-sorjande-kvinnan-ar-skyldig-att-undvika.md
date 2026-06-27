@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1631
-description: >-
-  Fråga: Vad måste en kvinna göra när hennes man avlider? Svar: Vad den sörjande
-  kvinnan måste undvika har nämnts i ahādīth. Det krävs att hon gör fem saker:
-  Hon måste stanna i hemmet so...
+description: 'Vad den sörjande kvinnan måste undvika har nämnts i aḥādīt̲h. Det krävs att hon gör fem saker: 1.'
 ---
 
 **Fråga:** Vad måste en kvinna göra när hennes man avlider?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Högtidsoffret
 original_id: 879
-description: >-
-  Fråga: Vilket är utlåtandet om den som rakade sitt hår under dagen för
-  ´eidul-aḍḥā före han gick till bönen? Detta i vetskap om han råddes att inte
-  göra detta, men han rakade sig ändå innan böne...
+description: 'Den som vill utföra adhha-offret får inte raka huvudet eller klippa naglarna under de tio första dagarna i d̲hul-ḥijjah innan han utfört offret.'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som rakade sitt hår under dagen för *´eidul-aḍḥā* före han gick till bönen? Detta i vetskap om han råddes att inte göra detta, men han rakade sig ändå innan bönen.

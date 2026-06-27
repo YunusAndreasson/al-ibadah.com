@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Kvinnans vallfärd
 original_id: 712
-description: >-
-  Fråga: Får en kvinna använda piller under vallfärden för att hindra
-  månadsblödningen? Svar: Det finns inget skadligt i detta, då det medför nytta
-  och det är en fördel när hon kan göra tawāf ...
+description: 'Det finns inget skadligt i detta, då det medför nytta och det är en fördel när hon kan göra ṭawāf med folket. Hon tappar heller inte bort sin grupp.'
 ---
 
 **Fråga:** Får en kvinna använda piller under vallfärden för att hindra månadsblödningen?

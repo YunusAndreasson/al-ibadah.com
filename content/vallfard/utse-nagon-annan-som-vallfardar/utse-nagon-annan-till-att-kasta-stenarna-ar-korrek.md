@@ -8,9 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsombud
 original_id: 860
-description: 'Fråga: Både min mor och mina båda systrar utsåg mig till att kasta
- stenarna på pelarna åt dem och anledningen var att de var rädda för trängseln, är
- detta då korrekt? Må Allāh belöna er med gott. ...'
+description: 'Att utse någon annan [till att kasta stenarna är giltigt] om kvinnan inte har möjlighet att kasta stenarna, med anledning av trängsel, om hon är sjuk eller…'
 ---
 
 **Fråga:** Både min mor och mina båda systrar utsåg mig till att kasta stenarna på pelarna åt dem och anledningen var att de var rädda för trängseln, är detta då korrekt? Må Allāh belöna er med gott.

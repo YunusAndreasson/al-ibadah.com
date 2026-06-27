@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Eder
 original_id: 1100
-description: >-
-  Fråga: Vilket är utlåtandet om någon som dyrkar gravar genom att göra tawāf
-  runt dem, åkalla dem som har begravts i dem, svär eder vid dem och liknande
-  saker? Svar: Denna fråga är mycket vik...
+description: 'Denna fråga är mycket viktig och den kräver med Allāhs den Allsmäktiges hjälp ett detaljerat svar.'
 ---
 
 **Fråga:** Vilket är utlåtandet om någon som dyrkar gravar genom att göra *ṭawāf* runt dem, åkalla dem som har begravts i dem, svär eder vid dem och liknande saker?

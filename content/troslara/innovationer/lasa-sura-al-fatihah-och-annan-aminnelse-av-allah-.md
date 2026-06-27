@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 1224
-description: >-
-  Fråga: Efter den obligatoriska bönen läser de i vissa länder sura al-Fatihah
-  och annan åminnelse av Allāh. De läser även versen al-Kursi gemensamt. Vilket
-  är utlåtandet om detta? Svar: Gemensa...
+description: 'Gemensam recitation med höjd röst av sura al-Fātiḥah, versen al-Kursi och annan åminnelse av Allāh efter bönen är en innovation.'
 ---
 
 **Fråga:** Efter den obligatoriska bönen läser de i vissa länder sura *al-Fātiḥah* och annan åminnelse av Allāh. De läser även versen al-Kursi[^1] gemensamt. Vilket är utlåtandet om detta?

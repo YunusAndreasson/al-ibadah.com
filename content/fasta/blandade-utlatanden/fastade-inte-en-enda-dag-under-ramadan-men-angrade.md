@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Övrigt
 original_id: 475
-description: >-
-  Fråga: Vilket är utlåtandet om någon som avsiktligen åt dagtid under ramadan
-  och som sedan ångrade sig inför Allāh? Accepteras personens ånger? Svar: Ja,
-  personens ånger accepteras eftersom Allāh ha...
+description: 'Ja, personens ånger accepteras eftersom Allāh har sagt: > ”Men Jag ger förvisso den full förlåtelse som ångrar sig, antar tron och sedan lever ett…'
 ---
 
 **Fråga:** Vilket är utlåtandet om någon som avsiktligen åt dagtid under *ramaḍān* och som sedan ångrade sig inför Allāh? Accepteras personens ånger?

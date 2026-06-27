@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Paradiset och Helvetet
 original_id: 30
-description: >-
-  Fråga: Allāh den Upphöjde säger: ” Straffet för äktenskapbryterskan och för
-  äktenskapsbrytaren är hundra piskrapp för var och en .” [Koranen 24:2] Och Han
-  säger: ” Och de som anklagar ärbara kvinn...
+description: 'Ahlus-sunnah wal-jamā’at tror att den muslim som dör utan att ha ångrat sig över stora synder – som otukt, förtal av ärbara kvinnor och stöld – kommer att…'
 ---
 
 **Fråga:** Allāh den Upphöjde säger: ”*Straffet för äktenskapbryterskan och för äktenskapsbrytaren är hundra piskrapp för var och en*.” [^2] Och Han säger: ”*Och de som anklagar ärbara kvinnor [för äktenskapsbrott] och sedan inte visar sig ha stöd av fyra vittnen, straffas med åttio piskrapp*.” [^3] Och Han säger: ”*Mannen som stjäl och kvinnan som stjäl ska som straff för detta brott få handen avhuggen; [denna föreskrift] är en sträng varning från Gud. Gud är allsmäktig, vis*.” [^4]

@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Begravningsbön
 original_id: 386
-description: 'Fråga: Vilket är utlåtandet om någon som går in i moskén, har ont om
- tid och finner att folket ber över en avliden och personen inte har bett ännu? Ber
- personen begravningsbönen över den avlidne eller b...'
+description: 'Föredrar personen begravningsbönen är det tillåtet om personen inte är rädd för att tiden för den obligatoriska bönen ska gå ut.'
 ---
 
 **Fråga:** Vilket är utlåtandet om någon som går in i moskén, har ont om tid och finner att folket ber över en avliden och personen inte har bett ännu? Ber personen begravningsbönen över den avlidne eller ber personen den obligatoriska bönen?

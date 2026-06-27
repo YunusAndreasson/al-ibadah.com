@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Övrigt
 original_id: 1032
-description: 'Fråga: En fattig man får allmosa från en rik vän för att han ska
-  dela ut den men sedan tar han den själv. Vilket är utlåtandet om detta? Svar: Han
-  får inte göra så och det går stick i stäv m...'
+description: 'Han får inte göra så och det går stick i stäv med pålitlighet. Hans vän har gett den till honom under överenskommelsen att han är personens representant,…'
 ---
 
 **Fråga:** En fattig man får allmosa från en rik vän för att han ska dela ut den men sedan tar han den själv. Vilket är utlåtandet om detta?

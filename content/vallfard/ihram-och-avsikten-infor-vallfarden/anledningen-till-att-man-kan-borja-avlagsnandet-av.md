@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 834
-description: >-
-  Fråga: Det är känt att det är förbjudet att raka huvudet under ihrām ; hur kan
-  det då vara tillåtet att börja med det när man avlägsnar ihrām under ´eid
-  -dagen? De lärde säger att avlägsnandet...
+description: 'Ja, det är tillåtet att börja med det, då rakandet av huvudet sker under processen när man kommer ur iḥrām för vallfärdsriterna.'
 ---
 
 **Fråga:** Det är känt att det är förbjudet att raka huvudet under *iḥrām*; hur kan det då vara tillåtet att börja med det när man avlägsnar *iḥrām* under *´eid*-dagen? De lärde säger att avlägsnandet av *iḥrām* sker genom att man gör två av tre saker och de nämner här att huvudet rakas. Får en pilgrim börja med det med detta som grund?

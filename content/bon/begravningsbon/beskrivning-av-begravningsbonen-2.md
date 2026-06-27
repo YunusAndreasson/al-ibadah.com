@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Begravningsbön
 original_id: 1245
-description: >-
-  Fråga: Vilket är det rätta sättet att be begravningsbönen på? Svar: Man
-  placerar den avlidne framför imamen. Han bör stå vid den avlidnes huvud. Detta
-  oberoende av om den avlidne är gammal ell...
+description: 'Man placerar den avlidne framför imamen. Han bör stå vid den avlidnes huvud. Detta oavsett om den avlidne är gammal eller ung.'
 ---
 
 **Fråga:** Vilket är det rätta sättet att be begravningsbönen på?

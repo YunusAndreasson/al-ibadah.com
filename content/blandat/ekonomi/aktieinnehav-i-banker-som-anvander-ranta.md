@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Ekonomi
 original_id: 1616
-description: >-
-  Fråga: Är det tillåtet att äga aktier i de banker som nu finns i Saudiarabien,
-  som Saudi American Bank och United Saudi Business Bank, då de erbjuder
-  allmänheten att teckna sina aktier?
+description: 'Det är inte tillåtet att äga aktier i banker som använder ränta. På samma sätt är räntetransaktioner med en bank, eller någon annan, inte tillåtet då det…'
 ---
 
 **Fråga:** Är det tillåtet att äga aktier i de banker som nu finns i Saudiarabien, som Saudi American Bank och United Saudi Business Bank, då de erbjuder allmänheten att teckna sina aktier? Vänligen, ge oss ett nyttigt svar. Må Allāh belöna er med gott.

@@ -8,9 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Betalningstid
 original_id: 1022
-description: 'Fråga: Om någon gav sin allmosa till en person som är berättigad till
-  det, bör personen då informeras om att det är allmosa? Svar: Om någon gav sin allmosa
-  till en person som är berättigad till d...'
+description: 'Om någon gav sin allmosa till en person som är berättigad till den, och personen inte vill ta emot allmosan, då måste den som äger allmosan informera om…'
 ---
 
 **Fråga:** Om någon gav sin allmosa till en person som är berättigad till det, bör personen då informeras om att det är allmosa?

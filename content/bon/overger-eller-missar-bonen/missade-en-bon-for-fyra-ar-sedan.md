@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1532
-description: >-
-  Fråga: För fyra år sedan var vi på en nöjesresa och jag missade en bön.
-  Antingen var det middagsbönen eller eftermiddagsbönen – jag kommer inte ihåg
-  nu. I vetskap om att jag missade den på grund a...
+description: 'Du måste vända dig till Allāh i sann ånger. Du behöver inte ta igen den då du avsiktligen övergav den obligatoriska bönen.'
 ---
 
 **Fråga:** För fyra år sedan var vi på en nöjesresa och jag missade en bön. Antingen var det middagsbönen[^1] eller eftermiddagsbönen – jag kommer inte ihåg nu. I vetskap om att jag missade den på grund av slarv eller lathet från min sida och jag nu ångrar synden som jag begick – och ber Allāh om förlåtelse för varje synd och fel – vad bör jag då göra för att gottgöra detta?

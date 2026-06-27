@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 312
-description: 'Fråga: Får kvinnor be i församlingen som män eller måste de be var
- för sig? Om de måste be i församling, får jag då be med min familj så att de får
- belöningen för att ha bett med en församling? ...'
+description: 'Bönen i församlingen är en skyldighet för män, men om kvinnan ber om tillstånd att få gå till moskén, då är det ogillat att neka henne detta, även om…'
 ---
 
 **Fråga:** Får kvinnor be i församlingen som män eller måste de be var för sig? Om de måste be i församling, får jag då be med min familj så att de får belöningen för att ha bett med en församling?

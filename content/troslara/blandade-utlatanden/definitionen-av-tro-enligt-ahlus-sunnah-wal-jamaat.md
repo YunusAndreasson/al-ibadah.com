@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1166
-description: >-
-  Fråga: Hur definierar ahlus-sunnah wal-jamā’at tron? Ökar och minskar denna
-  tro? Svar: Tro är enligt ahlus-sunnah wal-jamā’at att bekräfta med hjärtat,
-  tungans yttrande och kroppens handla...
+description: 'Tro är enligt ahlus-sunnah wal-jamā´at att bekräfta med hjärtat, tungans yttrande och kroppens handlande. Den består därmed av tre delar: 1.'
 ---
 
 **Fråga:** Hur definierar *ahlus-sunnah wal-jamā´at* tron? Ökar och minskar denna tro?

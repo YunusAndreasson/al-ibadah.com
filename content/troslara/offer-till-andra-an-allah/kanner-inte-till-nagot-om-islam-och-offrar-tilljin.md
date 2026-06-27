@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Offer till andra än Allāh
 original_id: 71
-description: >-
-  Fråga: Vilket är utlåtandet om någon som växer upp utan att känna till något
-  mer än bönen och de fem pelarna, och som fullgör dem, men offrar till jinn
-  samt åkallar dem när han behöver hjälp? Ha...
+description: 'De som är insatta i kunskapen om tawḥīd måste klargöra för honom att det är en sorts större s̲hirk att offra till någon annan än Allāh, som jinn, samt att…'
 ---
 
 **Fråga:** Vilket är utlåtandet om någon som växer upp utan att känna till något mer än bönen och de fem pelarna, och som fullgör dem, men offrar till *jinn* samt åkallar dem när han behöver hjälp? Han känner inte till att islam förbjuder detta. Ursäktas han på grund av hans okunskap? Kan det sägas att han är en månggudadyrkare[^1] innan frågan är klar för honom?

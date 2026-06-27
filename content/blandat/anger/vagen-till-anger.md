@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 662
-description: >-
-  Fråga: Jag är en ung man som är 19 år gammal och jag har syndat mycket mycket.
-  Jag ber sällan i moskén, jag har aldrig fastat en hel ramadan och jag begår
-  många avskyvärda handlingar. Trots att j...
+description: 'Allāh den Högste säger: > ”Säg [Muḥammad] till Mina tjänare: ’Om ni har gjort orätt mot er själva genom att överträda [Mina bud], misströsta då inte om…'
 ---
 
 **Fråga:** Jag är en ung man som är 19 år gammal och jag har syndat mycket mycket. Jag ber sällan i moskén, jag har aldrig fastat en hel *ramaḍān* och jag begår många avskyvärda handlingar. Trots att jag ofta tagit beslutet att ångra mig återvänder jag alltid till att synda.

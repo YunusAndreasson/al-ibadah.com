@@ -6,10 +6,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 550
-description: >-
-  Fråga: Vad ska en person göra som tvivlar på om hans tvagning brutits? Svar:
-  Om en person tvivlar på om hans tvagning har brutits eller inte så gäller hans
-  ursprungliga tillstånd av renhet o...
+description: 'Om en person tvivlar på om hans tvagning har brutits eller inte så gäller hans ursprungliga tillstånd av renhet och tvivlen har ingen inverkan.'
 ---
 
 **Fråga:** Vad ska en person göra som tvivlar på om hans tvagning brutits?

@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Muzdalifah-natten
 original_id: 842
-description: >-
-  Fråga: En karavan lämnade Arafat efter solnedgången och de råkade gå vilse. De
-  gick då i riktning mot Mecka och polisen hjälpte dem tillbaka till Arafat. När
-  de kom fram stannade de för att be kvä...
+description: 'De har inte syndat då de hann be gryningsbönen i Muzdalifah när de gick in vid böneutropet och bad gryningsbönen medan det fortfarande var mörkt.'
 ---
 
 **Fråga:** En karavan lämnade *´Arafāt* efter solnedgången och de råkade gå vilse. De gick då i riktning mot Mecka och polisen hjälpte dem tillbaka till *´Arafāt*. När de kom fram stannade de för att be kvällsbönen och nattbönen klockan 01.00 den natten. Sedan gick de in i *Muzdalifah* vid böneutropet för gryningsbönen. De bad gryningsbönen i *Muzdalifah* och begav sig sedan till *Minā*. Har de på något sätt syndat?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 950
-description: >-
-  Fråga: Är det sunnah att säga āmīn? Svar: Ja, att säga āmīn är en högst
-  rekommenderad sunnah, speciellt om imamen säger det. Detta enligt vad som har
-  återgivits i Sahīh al-Bukhārī och ...
+description: 'Ja, att säga āmīn är en högst rekommenderad sunnah, speciellt om imamen säger det. Detta enligt vad som har återgivits i Ṣaḥīḥ al-Buk̲hārī och Ṣaḥīḥ Muslim…'
 ---
 
 **Fråga:** Är det *sunnah* att säga *āmīn*?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 970
-description: >-
-  Fråga: Vilket är utlåtandet om att passera direkt framför någon som ber i den
-  heliga Moskén? Detta oavsett om den bedjande ber en frivillig eller en
-  obligatorisk bön, eller om personen leds i bö...
+description: 'Det finns ingen invändan mot att passera framför någon som leds i bön i den Heliga moskén eller i någon annan moské.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att passera direkt framför någon som ber i den heliga Moskén? Detta oavsett om den bedjande ber en frivillig eller en obligatorisk bön, eller om personen leds i bön eller ber ensam.

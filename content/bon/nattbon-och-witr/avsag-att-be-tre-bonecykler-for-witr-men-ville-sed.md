@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nattbön
 original_id: 290
-description: >-
-  Fråga: En person avsåg att be tre bönecykler som witr men under bönen kände
-  han att han ville be mer än så, får han göra det då? Svar: Det är sunnah att
-  be witr som tre bönecykler med tv...
+description: 'Det är sunnah att be witr som tre bönecykler med två taslīm. Vill man be mer än tre, då är det fördelaktigt att be elva.'
 ---
 
 **Fråga:** En person avsåg att be tre bönecykler som *witr* men under bönen kände han att han ville be mer än så, får han göra det då?

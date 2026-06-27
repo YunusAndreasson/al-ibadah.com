@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 665
-description: >-
-  Fråga: Trots att jag vet hur stor synden är och trots att jag vet att djävulen
-  frestade mig till att göra det begick jag otukt. Vid denna tidpunkt sade jag
-  till mig själv att jag skulle göra det o...
+description: 'Dörren till ånger kommer att vara öppen tills solen stiger från väst. Den som ångrar sig uppriktigt inför Allāh den Allsmäktige och uppfyller villkoren för…'
 ---
 
 **Fråga:** Trots att jag vet hur stor synden är och trots att jag vet att djävulen frestade mig till att göra det begick jag otukt. Vid denna tidpunkt sade jag till mig själv att jag skulle göra det och ångra mig sedan. Nu inser jag hur stort mitt misstag var och jag önskar ångra mig. Kommer Allāh den Allsmäktige att förlåta mig? Hur ångrar jag mig?

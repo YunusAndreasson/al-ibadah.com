@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravdyrkan
 original_id: 86
-description: >-
-  Fråga: En man byggde en moské och han beordrade sin familj att placera hans
-  grav inuti moskén [efter hans död]. Sedan avled han och han begravdes i moskén
-  framför qiblah . Avståndet mellan graven...
+description: 'Denna grav måste avlägsnas från moskén och placeras långt från den på den lokala gravplatsen. Dess närvaro i moskén är en drivkraft till att begå s̲hirk.'
 ---
 
 **Fråga:** En man byggde en moské och han beordrade sin familj att placera hans grav inuti moskén [efter hans död]. Sedan avled han och han begravdes i moskén framför *qiblah*. Avståndet mellan graven och de som ber är endast en meter. Jag ber om ert råd.

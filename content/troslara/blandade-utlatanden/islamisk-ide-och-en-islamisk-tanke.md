@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1112
-description: 'Fråga: Vad anser ni om uttrycken ”islamisk ide” och ”islamisk tänkare”? Svar: Uttrycket
- ”islamisk ide” bör vi vara uppmärksamma på då det yrkar på att vi anser att islam
- är jämförligt med idée...'
+description: 'Uttrycket ”islamisk ide” bör vi vara uppmärksamma på då det yrkar på att vi anser att islam är jämförligt med idéer som det är tillåtet att acceptera eller…'
 ---
 
 **Fråga:** Vad anser ni om uttrycken ”islamisk ide” och ”islamisk tänkare”?

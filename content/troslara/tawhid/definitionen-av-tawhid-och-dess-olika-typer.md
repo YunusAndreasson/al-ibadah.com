@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Monoteism
 original_id: 1065
-description: >-
-  Fråga: Hur definieras tawḥīd och vilka olika typer finns det? Svar: Språkligt
-  sett är tawḥīd infinitiv av verbet wahhada [dåtid] [och yuwahhidu [nutid]],
-  det vill säga att göra något t...
+description: 'Språkligt sett är tawḥīd infinitiv av verbet wahhada [dåtid] [och yuwahhidu [nutid]], det vill säga att göra något till ett.'
 ---
 
 **Fråga:** Hur definieras *tawḥīd* och vilka olika typer finns det?

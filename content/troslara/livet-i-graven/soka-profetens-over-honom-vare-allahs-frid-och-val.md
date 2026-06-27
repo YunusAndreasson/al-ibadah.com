@@ -11,10 +11,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravlivet
 original_id: 919
-description: >-
-  Fråga: Är profetens – över honom vare Allāhs frid och välsignelser – vid liv i
-  sin grav, levandes ett kroppsligt liv eller det på gränsen mellan detta livet
-  och det Nästkommande fritt från plikter...
+description: 'Vår profet Muḥammad – må Allāhs frid och välsignelser vara över honom – lever på gränsen mellan detta livet och det nästkommande.'
 ---
 
 **Fråga:** Är profetens – över honom vare Allāhs frid och välsignelser – vid liv i sin grav, levandes ett kroppsligt liv eller det på gränsen mellan detta livet och det Nästkommande fritt från plikter och funktioner i detta livet? […]

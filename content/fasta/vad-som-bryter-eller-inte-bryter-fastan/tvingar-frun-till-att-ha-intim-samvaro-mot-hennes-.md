@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 435
-description: >-
-  Fråga: En man har intim samvaro med sin fru dagtid under fastan och han
-  tvingade henne till det. De har inte möjlighet att frisläppa en slav eller
-  fasta eftersom de har fullt upp med att försörja ...
+description: 'Om mannen tvingar sin fru till att ha intim samvaro medan de båda fastar, då är kvinnans fasta korrekt och det finns ingen gottgörelse för henne.'
 ---
 
 **Fråga:** En man har intim samvaro med sin fru dagtid under fastan och han tvingade henne till det. De har inte möjlighet att frisläppa en slav eller fasta eftersom de har fullt upp med att försörja sig. Är det då tillräckligt för dem att skänka mat? Vilken mängd och vilken typ av mat måste de ge?

@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning utan vatten
 original_id: 1431
-description: >-
-  Fråga: På morgonen var jag i den stora rituella orenheten och jag hittade inte
-  något vatten. Jag bad då med tayammum . På kvällen fann jag vatten och gjorde
-  ghusl för den stora rituella orenhet...
+description: 'Du berättade inte varför du inte kunde hitta vatten. Befann du dig i ett bebott område, som i en by eller stad, då är vatten oftast tillgängligt.'
 ---
 
 **Fråga:** På morgonen var jag i den stora rituella orenheten och jag hittade inte något vatten. Jag bad då med *tayammum*. På kvällen fann jag vatten och gjorde *g̲husl* för den stora rituella orenheten. Behöver jag upprepa de böner som jag bad med *tayammum*?

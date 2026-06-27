@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Övrigt
 original_id: 321
-description: >-
-  Fråga: Allāh den Upphöjde säger: ” Troende! Gå inte till bön om ni befinner er
-  i omtöcknat tillstånd, [utan vänta] till dess ni vet vad ni säger .” [Koranen
-  4:43] Gäller denna vers de bröder som k...
+description: 'Jag råder bröderna som kommer till gryningsbönen när de är mycket sömndruckna att gå till sängs tidigare.'
 ---
 
 **Fråga:** Allāh den Upphöjde säger: ”*Troende! Gå inte till bön om ni befinner er i omtöcknat tillstånd, [utan vänta] till dess ni vet vad ni säger*.” [^1] Gäller denna vers de bröder som kommer till gryningsbönen när de fortfarande är sömndruckna? Vilket råd kan du ge till dessa bröder?

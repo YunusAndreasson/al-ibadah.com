@@ -6,10 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - Pilgrimskläder
 original_id: 1283
-description: >-
-  Fråga: Varför har Allāh förbjudit pilgrimer att bära sydda kläder och vad är
-  anledningen till det? Svar: All lovprisan tillhör Allāh. Allāh har påbjudit
-  pilgrimsfärden en gång i livet för dem ...
+description: 'All lovprisan tillhör Allāh. Allāh har påbjudit pilgrimsfärden en gång i livet för dem som är skyldiga och som har möjlighet samt resurser till att göra…'
 ---
 
 **Fråga:** Varför har Allāh förbjudit pilgrimer att bära sydda kläder och vad är anledningen till det?

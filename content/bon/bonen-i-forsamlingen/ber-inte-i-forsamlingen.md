@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 1529
-description: >-
-  Fråga: Vilket är utlåtandet om den som lämnar bönen och vilket är utlåtandet
-  om att be dem med församlingen? Svar: Bönen är den största pelaren inom islam
-  efter trosbekännelserna. Den som över...
+description: 'Bönen är den största pelaren inom islam efter trosbekännelserna. Den som överger den och förnekar att den är obligatorisk är, enligt samstämmighet bland de…'
 ---
 
 **Fråga:** Vilket är utlåtandet om den som lämnar bönen och vilket är utlåtandet om att be dem med församlingen?

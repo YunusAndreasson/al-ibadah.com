@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1044
-description: >-
-  Fråga: Vilket är utlåtandet om att en fastande använder kohl? Svar: Det finns
-  ingen invändan mot att en fastande använder kohl, ögondroppar eller
-  näsdroppar. Även om smaken känns i halsen b...
+description: 'Det finns ingen invändan mot att en fastande använder kuḥl, ögondroppar eller näsdroppar. Även om smaken känns i halsen bryts inte fastan då det inte är…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att en fastande använder *kuḥl*[^1]?

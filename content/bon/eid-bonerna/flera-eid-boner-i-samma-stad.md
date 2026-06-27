@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Eid-bönen
 original_id: 1007
-description: >-
-  Fråga: Vilket är utlåtandet om att flera böner hålls i samma stad vid ‘eid ?
-  Ge oss råd och må ni belönas. Svar: Finns det ett behov så finns det ingen
-  invändan. Detsamma gäller som när det f...
+description: 'Finns det ett behov så finns det ingen invändan. Detsamma gäller som när det finns behov av flera fredagsböner.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att flera böner hålls i samma stad vid *´eid*? Ge oss råd och må ni belönas.

@@ -6,10 +6,7 @@ categories:
   - Renhet (Tahārah)
   - Den stora tvagningen
 original_id: 1380
-description: >-
-  Fråga: Är det obligatoriskt, för ett gift par, att göra g̲husl även om de inte
-  fick någon orgasm? Svar: Ja, det är obligatoriskt för dem att göra g̲husl ,
-  även om de inte fick någon orgasm. De...
+description: 'Ja, det är obligatoriskt för dem att göra g̲husl, även om de inte fick någon orgasm. Detta grundas på en ḥadīt̲h rapporterad ifrån Abū Hurairah där…'
 ---
 
 **Fråga:** Är det obligatoriskt, för ett gift par, att göra *g̲husl* även om de inte fick någon orgasm?

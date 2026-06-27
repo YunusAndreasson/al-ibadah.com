@@ -6,9 +6,7 @@ categories:
   - Vallfärd (Hajj)
   - Ställföreträdande vallfärd
 original_id: 1308
-description: 'Fråga: Om man vallfärdar för någon annan, kommer man då att uppnå vad
- profeten – över honom vare Allāhs frid och välsignelser – beskrev: ” Den som vallfärdar
- och inte gör något oanständigt eller o...'
+description: 'All lovprisan tillhör Allāh. Svaret beror på denna fråga: Vallfärdar mannen för egen räkning eller för någon annan?'
 ---
 
 **Fråga:** Om man vallfärdar för någon annan, kommer man då att uppnå vad profeten – över honom vare Allāhs frid och välsignelser – beskrev: ”*Den som vallfärdar och inte gör något oanständigt eller ont under den kommer att återvända så fri från synder som han var den dagen hans mor födde honom*.”?

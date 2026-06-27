@@ -7,9 +7,7 @@ categories:
   - Blandat
   - Kost och hälsa
 original_id: 1639
-description: 'Fråga: Är det tillåtet att hålla bröd i den vänstra handen? Jag har
- märkt att nästan 99 % fortfarande tar brödet i sin vänstra hand för att bryta det
- med höger. Detta beror på att brödet inte är h...'
+description: 'Det är tillåtet att hålla brödet i vänster hand. Men beträffande att ta och ge det till andra med vänster hand, bör det göras med höger i stället.'
 ---
 
 **Fråga:** Är det tillåtet att hålla bröd i den vänstra handen? Jag har märkt att nästan 99 % fortfarande tar brödet i sin vänstra hand för att bryta det med höger. Detta beror på att brödet inte är hårt och det inte är möjligt att äta det utan vänster hand. Jag ber er om råd i denna fråga.

@@ -11,10 +11,7 @@ categories:
   - Vallfärd (Hajj)
   - Månadsblödning och efterblödning
 original_id: 783
-description: >-
-  Fråga: En kvinna får sin månadsblödning och hon utför inte ṭawāful-ifāḍah .
-  Hon bor utanför Saudiarabien och tiden för avresa kommer. Hon har inte
-  möjlighet att skjuta upp den och det är omöjlig...
+description: 'Ligger det till som du har beskrivit – att det finns en kvinna som inte har utfört ṭawāf ul-ifāḍah, att hon fått sin månadsblödning och att hon inte kan…'
 ---
 
 **Fråga:** En kvinna får sin månadsblödning och hon utför inte *ṭawāf ul-ifāḍah*. Hon bor utanför Saudiarabien och tiden för avresa kommer. Hon har inte möjlighet att skjuta upp den och det är omöjligt för henne att återvända till landet vid ett annat tillfälle. Vad gäller då?

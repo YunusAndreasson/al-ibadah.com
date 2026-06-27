@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nattbön
 original_id: 1011
-description: >-
-  Fråga: Vilket är utlåtandet om bön över den avlidne om personen övergav bönen
-  eller om det finns tveksamheter kring om personen bad? Får de som är ansvariga
-  för personen lämna över personen för att begravning...
+description: 'Är det känt att personen avled utan att be är det inte tillåtet att be över personen. Familjen får heller inte lämna över personen till de närvarande…'
 ---
 
 **Fråga:** Vilket är utlåtandet om bön över den avlidne om personen övergav bönen eller om det finns tveksamheter kring om personen bad? Får de som är ansvariga för personen lämna över personen för att begravningsbönen ska bes?

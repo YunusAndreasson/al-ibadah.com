@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Övrigt
 original_id: 740
-description: >-
-  Fråga: Vad anser du om någon som utförde ‘umrah under den välsignade månaden
-  ramadan och som sedan avsåg att vallfärda under samma år? Måste han offra ett
-  får och vilken är den bästa formen av v...
+description: 'Den som utförde ´umrah under ramaḍān och som sedan gick in i iḥrām endast för vallfärden [ḥajjul-ifrād] under det året, han behöver inte offra ett får.'
 ---
 
 **Fråga:** Vad anser du om någon som utförde *´umrah* under den välsignade månaden *ramaḍān* och som sedan avsåg att vallfärda under samma år? Måste han offra ett får och vilken är den bästa formen av vallfärd?

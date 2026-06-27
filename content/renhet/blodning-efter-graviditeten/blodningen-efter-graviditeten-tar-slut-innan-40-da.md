@@ -9,10 +9,7 @@ categories:
   - Renhet (Tahārah)
   - Efterblödning
 original_id: 1146
-description: >-
-  Fråga: Om en kvinna med blödningar efter graviditeten blir ren innan 40 dagar
-  har gått, får hennes man då ha intim samvaro med henne? Vad gäller om blodet
-  kommer tillbaka efter de 40 dagarna? S...
+description: 'Det är inte tillåtet att en man som är gift med en kvinna som blöder efter graviditeten har intim samvaro med henne.'
 ---
 
 **Fråga:** Om en kvinna med blödningar efter graviditeten blir ren innan 40 dagar har gått, får hennes man då ha intim samvaro med henne? Vad gäller om blodet kommer tillbaka efter de 40 dagarna?

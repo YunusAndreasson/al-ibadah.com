@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Handelsvaror och fastigheter
 original_id: 1253
-description: >-
-  Fråga: Någon köpte ett stycke land och avsåg att bo på det. Men när tre år
-  hade gått avsåg personen [i stället] att använda det för handel. Krävs då allmosa
-  för de gångna åren? Svar: Det krävs ing...
+description: 'Det krävs ingen allmosa för det. Under de år som har gått avsåg personen enbart att bo därpå.'
 ---
 
 **Fråga:** Någon köpte ett stycke land och avsåg att bo på det. Men när tre år hade gått avsåg personen [i stället] att använda det för handel. Krävs då allmosa för de gångna åren?

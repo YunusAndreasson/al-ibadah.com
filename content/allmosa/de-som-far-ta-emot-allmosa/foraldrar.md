@@ -6,9 +6,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 552
-description: 'Fråga: Är det tillåtet att ge allmosa till sin egen moder? Svar: En
- muslim får inte ge allmosa till sina föräldrar eller till sitt barn. I stället är
- det obligatoriskt för honom att försörja d...'
+description: 'En muslim får inte ge allmosa till sina föräldrar eller till sitt barn. I stället är det obligatoriskt för honom att försörja dem från sina egna tillgångar…'
 ---
 
 **Fråga:** Är det tillåtet att ge allmosa till sin egen moder?

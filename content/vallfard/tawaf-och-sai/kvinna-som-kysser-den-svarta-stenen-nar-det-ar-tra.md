@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 802
-description: >-
-  Fråga: Jag såg någon utföra tawāf och han tryckte fram sina kvinnor [fruar och
-  döttrar] för att de skulle kyssa Stenen. Vilken av dessa handlingar är bäst –
-  att kyssa stenen eller att undvika tr...
+description: 'Om frågeställaren såg denna häpnadsväckande händelse, då har jag sett något ännu otroligare.'
 ---
 
 **Fråga:** Jag såg någon utföra *ṭawāf* och han tryckte fram sina kvinnor [fruar och döttrar] för att de skulle kyssa Stenen. Vilken av dessa handlingar är bäst – att kyssa stenen eller att undvika trängsel tillsammans med män?

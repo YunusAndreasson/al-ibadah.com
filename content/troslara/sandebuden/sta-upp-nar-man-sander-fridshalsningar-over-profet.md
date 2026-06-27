@@ -7,9 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 121
-description: 'Fråga: Förbjöd följeslagarna att folket stod upp när de sände fridshälsningar
- över profeten? Svar: Följeslagarna brukade aldrig stå upp när de sände fridshälsningar
- över profeten, varken när d...'
+description: 'Följeslagarna brukade aldrig stå upp när de sände fridshälsningar över profeten, varken när de besökte hans grav eller vid andra tillfällen.'
 ---
 
 **Fråga:** Förbjöd följeslagarna att folket stod upp när de sände fridshälsningar över profeten?

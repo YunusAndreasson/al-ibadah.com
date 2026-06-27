@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 382
-description: 'Fråga: Låstes moskéerna nattetid under Allāhs sändebud – över honom
- vare Allāhs frid och välsignelser – tid? Fick muslimerna som kommer för att besöka
- de heliga platserna då sova utanför dem längs...'
+description: 'Enligt vad vi känner till låstes inte moskéerna under Allāhs budbärares tid. Moskéerna var inte inredda och människorna fruktade Allāh så pass mycket att…'
 ---
 
 **Fråga:** Låstes moskéerna nattetid under Allāhs sändebud – över honom vare Allāhs frid och välsignelser – tid? Fick muslimerna som kommer för att besöka de heliga platserna då sova utanför dem längs moskéns vägg?

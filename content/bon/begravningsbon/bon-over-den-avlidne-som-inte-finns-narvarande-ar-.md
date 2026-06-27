@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Begravningsbön
 original_id: 390
-description: 'Fråga: Får vi be begravningsbön för någon som finns på en annan plats
-  på samma sätt som profeten – över honom vare Allāhs frid och välsignelser – gjorde
-  med hans älskade an-Najashi? Eller är det n...'
+description: 'Bön för den som har avlidit men som finns på en annan plats är tillåten på grund av profetens – över honom vare Allāhs frid och välsignelser – handlande.'
 ---
 
 **Fråga:** Får vi be begravningsbön för någon som finns på en annan plats på samma sätt som profeten – över honom vare Allāhs frid och välsignelser – gjorde med hans älskade an-Najashi? Eller är det något som gäller enbart honom?

@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 358
-description: >-
-  Fråga: Vilket är utlåtandet om de som inte ber fredagsbönen med ursäkten att
-  den inte är giltig utom bakom en rättvis imam? Svar: Allāh den Upphöjde har
-  gjort förrättandet av fredagsbönen till...
+description: 'Allāh den Upphöjde har gjort förrättandet av fredagsbönen till en skyldighet för muslimer som är hemma, oavsett om de bor i stora städer eller byar.'
 ---
 
 **Fråga:** Vilket är utlåtandet om de som inte ber fredagsbönen med ursäkten att den inte är giltig utom bakom en rättvis imam?

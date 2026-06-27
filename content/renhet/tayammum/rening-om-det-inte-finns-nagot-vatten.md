@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning utan vatten
 original_id: 1161
-description: >-
-  Fråga: Hur kan man rena sig om det är omöjligt att använda vatten? Svar: Är
-  det inte möjligt att använda vatten då det inte finns tillgängligt eller på
-  grund av det inträffar något skadligt nä...
+description: 'Är det inte möjligt att använda vatten då det inte finns tillgängligt eller på grund av det inträffar något skadligt när man använder det, då bör man lämna…'
 ---
 
 **Fråga:** Hur kan man rena sig om det är omöjligt att använda vatten?

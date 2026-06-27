@@ -10,10 +10,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 54
-description: >-
-  Fråga: Får muslimer fira ‘eid i moskén och minnas profetens – över honom vare
-  Allāhs frid och välsignelser – biografi den tolfte natten i rabi’ al-awwal
-  [vilken är hans födelsedag]? Detta unde...
+description: 'Muslimer får varken fira profetens – över honom vare Allāhs frid och välsignelser – födelsedag under natten den tolfte rabi’ al-awwal eller vid någon annan…'
 ---
 
 **Fråga:** Får muslimer fira *´eid* i moskén och minnas profetens – över honom vare Allāhs frid och välsignelser – biografi den tolfte natten i *rabi’ al-awwal*[^1] [vilken är hans födelsedag]? Detta under förutsättning att det inte stör arbetet. Vi har olika åsikter om detta; somliga har sagt att det är en dålig innovation och andra har sagt att det är en bra innovation.

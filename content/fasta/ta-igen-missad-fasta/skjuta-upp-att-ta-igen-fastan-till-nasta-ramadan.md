@@ -9,10 +9,7 @@ categories:
   - Fasta (Sawm)
   - Ikappfasta
 original_id: 461
-description: >-
-  Fråga: Vilket är den islamiska lagens utlåtande om en man som skjuter upp att
-  ta igen fastan från ramadan till efter nästa ramadan och han har en ursäkt för
-  det? Och vad gäller en man som skjuter ...
+description: 'Den som skjuter upp dem med en föreskriven ursäkt, som sjukdom eller liknande, har inte syndat.'
 ---
 
 **Fråga:** Vilket är den islamiska lagens utlåtande om en man som skjuter upp att ta igen fastan från *ramaḍān* till efter nästa *ramaḍān* och han har en ursäkt för det? Och vad gäller en man som skjuter upp utan ursäkt?

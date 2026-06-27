@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 306
-description: >-
-  Fråga: När en man leder två eller flera pojkar som ännu inte har blivit sju år
-  gamla, var bör han då placera dem? Svar: För den som är över sju år är det
-  sunnah att stå bakom imamen [precis ...
+description: 'För den som är över sju år är det sunnah att stå bakom imamen [precis som vuxna]. Men om det endast är en, då bör han stå till höger om imamen.'
 ---
 
 **Fråga:** När en man leder två eller flera pojkar som ännu inte har blivit sju år gamla, var bör han då placera dem?

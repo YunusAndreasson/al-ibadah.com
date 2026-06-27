@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Stenkastningen
 original_id: 1359
-description: >-
-  Fråga: Får pilgrimen kasta stenar på pelarna för alla dagar under en dag,
-  oavsett om den dagen var den första dagen under at-tas̲hrīq eller om det var
-  offerdagen? Personen spenderar sedan natten ...
+description: 'Att kasta stenarna på pelarna är en av skyldigheterna under vallfärden. För den som inte behöver ge sig av snabbt är det obligatoriskt under ´eid-dagen och…'
 ---
 
 **Fråga:** Får pilgrimen kasta stenar på pelarna för alla dagar under en dag, oavsett om den dagen var den första dagen under at-tas̲hrīq eller om det var offerdagen? Personen spenderar sedan natten i *Minā* under två eller tre dagar utan att kasta stenar, då personen har kastat sten på alla pelarna under en dag. Är detta sättet att kasta stenarna på korrekt eller måste personen hålla sig till ordningsföljden där personen kastar stenarna varje enskild dag, tills personen har kastat dem under alla tre dagarna? Vi hoppas på några klargöranden med bevis om detta.

@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Änglarna
 original_id: 63
-description: >-
-  Fråga: Är djävulen – må Allāh förbanna honom – en ängel eller är han något
-  annat? Svar: Vi bör känna till att änglar är Allāhs skapelser. Han skapade dem
-  av ljus, de visar aldrig olydnad mot ...
+description: 'Vi bör känna till att änglar är Allāhs skapelser. Han skapade dem av ljus, de visar aldrig olydnad mot Honom och de gör som Han säger.'
 ---
 
 **Fråga:** Är djävulen – må Allāh förbanna honom – en ängel eller är han något annat?

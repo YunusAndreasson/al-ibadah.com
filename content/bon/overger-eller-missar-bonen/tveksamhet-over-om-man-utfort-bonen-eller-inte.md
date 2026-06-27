@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1471
-description: >-
-  Fråga: Vad gör man om man tvekar över om man har bett? Svar: Om en muslim
-  tvekar över om han har bett en av de obligatoriska bönerna, då måste han be
-  den så fort som möjligt. I grund och bott...
+description: 'Om en muslim tvekar över om han har bett en av de obligatoriska bönerna, då måste han be den så fort som möjligt.'
 ---
 
 **Fråga:** Vad gör man om man tvekar över om man har bett?

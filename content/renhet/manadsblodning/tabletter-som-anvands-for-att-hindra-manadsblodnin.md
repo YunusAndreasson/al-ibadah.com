@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Månadsblödning
 original_id: 1217
-description: >-
-  Fråga: Vilket är utlåtandet om att använda tabletter för att hindra
-  månadsblödningen? Svar: Det finns ingen invändan mot att en kvinna använder
-  tabletter för att hindra månadsblödningen om det...
+description: 'Det finns ingen invändan mot att en kvinna använder tabletter för att hindra månadsblödningen om det inte är skadligt för hennes hälsa och hennes man…'
 ---
 
 **Fråga:** Vilket är utlåtandet om att använda tabletter för att hindra månadsblödningen?

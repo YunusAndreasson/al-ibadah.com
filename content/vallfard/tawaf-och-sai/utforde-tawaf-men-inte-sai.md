@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 827
-description: >-
-  Fråga: Om någon som behövde utföra sa’ī gjorde tawāf och utelämnade sa’ī och
-  efter fem dagar informerades om att han behövde utföra sa’ī, får han utföra
-  sa’ī utan att först utföra tawāf...
+description: 'Om någon utför ṭawāf men tror att personen inte behöver utföra sa´ī, för att sedan informeras om att man måste utföra sa´ī, då måste personen endast göra…'
 ---
 
 **Fråga:** Om någon som behövde utföra *sa´ī* gjorde *ṭawāf* och utelämnade *sa´ī* och efter fem dagar informerades om att han behövde utföra *sa´ī*, får han utföra *sa´ī* utan att först utföra *ṭawāf*?

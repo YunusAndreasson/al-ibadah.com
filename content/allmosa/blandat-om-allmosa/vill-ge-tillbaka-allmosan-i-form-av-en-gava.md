@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Övrigt
 original_id: 1015
-description: 'Fråga: Om en man betalade sin allmosa till någon som förtjänar den
- och den som tog emot allmosan gav den till honom som en gåva, bör han då acceptera
- den? Svar: Om mannen betalade sin allmo...'
+description: 'Om mannen betalade sin allmosa till någon som förtjänar den och personen sedan gav tillbaka allmosan som en gåva, då är det inga problem om det inte fanns…'
 ---
 
 **Fråga:** Om en man betalade sin allmosa till någon som förtjänar den och den som tog emot allmosan gav den till honom som en gåva, bör han då acceptera den?

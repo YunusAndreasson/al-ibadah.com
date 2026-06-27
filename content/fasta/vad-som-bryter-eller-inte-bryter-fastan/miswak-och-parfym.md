@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1263
-description: >-
-  Fråga: Vilket är utlåtandet om en fastande som använder miswāk eller parfym?
-  Svar: Den korrekta åsikten är att det är sunnah att den fastande använder
-  miswāk både under dagens början och...
+description: 'Den korrekta åsikten är att det är sunnah att den fastande använder miswāk både under dagens början och under dess slut.'
 ---
 
 **Fråga:** Vilket är utlåtandet om en fastande som använder *miswāk* eller parfym?

@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Äktenskap
 original_id: 1688
-description: >-
-  Fråga: Varför favoriserade Allāh den Allsmäktige modern över fadern när Allāhs
-  sändebud – över honom vare Allāhs frid och välsignelser – uttryckte hennes
-  rätt tre gånger men faderns bara en? Svar...
+description: 'Det har bekräftats i Ṣaḥīḥ att Abu Hurairah rapporterat att en man en gång kom till Allāhs sändebud – över honom vare Allāhs frid och välsignelser – och…'
 ---
 
 **Fråga:** Varför favoriserade Allāh den Allsmäktige modern över fadern när Allāhs sändebud – över honom vare Allāhs frid och välsignelser – uttryckte hennes rätt tre gånger men faderns bara en?

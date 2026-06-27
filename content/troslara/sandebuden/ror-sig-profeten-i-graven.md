@@ -7,8 +7,7 @@ categories:
   - Troslära (´Aqīdah)
   - Sändebuden
 original_id: 119
-description: 'Fråga: Stämmer det att profeten – över honom vare Allāhs frid och välsignelser – sträckte ut sin hand från sin grav mot följeslagarna? Svar: Avlidna – oberoende
- av om de är profeter eller inte...'
+description: 'Avlidna – oavsett om de är profeter eller inte – rör sig inte i graven genom att sträcka ut en hand eller genom någon annan rörelse.'
 ---
 
 **Fråga:** Stämmer det att profeten – över honom vare Allāhs frid och välsignelser – sträckte ut sin hand från sin grav mot följeslagarna?

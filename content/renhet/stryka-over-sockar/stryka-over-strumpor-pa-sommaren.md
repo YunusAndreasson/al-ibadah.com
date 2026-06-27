@@ -6,10 +6,7 @@ categories:
   - Renhet (Tahārah)
   - Strykning över strumpor
 original_id: 548
-description: >-
-  Fråga: Jag ser ofta folk stryka över sina strumpor när de tvagar sig, till och
-  med på sommaren. Jag hoppas att du kan förklara för mig i vilken omfattning
-  det är tillåtet. Vilket är bäst för den ...
+description: 'All lovprisan tillhör Allāh. Den allmänna betydelsen av ṣaḥīḥ aḥādīt̲h om att det är tillåtet att stryka över lädersockarna eller strumporna visar att det…'
 ---
 
 **Fråga:** Jag ser ofta folk stryka över sina strumpor när de tvagar sig, till och med på sommaren. Jag hoppas att du kan förklara för mig i vilken omfattning det är tillåtet. Vilket är bäst för den som inte reser, att tvaga sig och tvätta fötterna eller att stryka över strumporna? Vänligen, notera att de som stryker över strumporna inte har någon ursäkt, allt de säger är att det finns ett medgivande som tillåter detta.

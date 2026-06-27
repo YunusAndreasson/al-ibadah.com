@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nedfallan vid recitation
 original_id: 518
-description: >-
-  Fråga: Behöver man tvaga sig när man ska göra sujūd al-tilāwah? Måste vi säga
-  ” Allāhu akbar ” när vi går ned och upp? Vad ska vi säga under
-  nedfallandet? Är de åkallan som har berättats om...
+description: 'All lovprisan tillhör Allāh. Enligt den mer korrekta åsikten som de lärde har behövs inte tvagning för sujūd at-tilāwah.'
 ---
 
 **Fråga:** Behöver man tvaga sig när man ska göra *sujūd at-tilāwah*? Måste vi säga ”*Allāhu akbar*” när vi går ned och upp? Vad ska vi säga under nedfallandet? Är de åkallan som har berättats om detta *Ṣaḥīḥ*? Är det föreskrivet att säga *salām* efter detta nedfallande[^1] om det görs utanför bönen?

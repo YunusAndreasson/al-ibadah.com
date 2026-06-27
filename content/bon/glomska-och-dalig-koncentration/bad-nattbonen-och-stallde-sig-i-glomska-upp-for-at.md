@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 972
-description: >-
-  Fråga: En man bad nattbönen som bes genom att be två bönecykler åt gången men
-  han glömde bort sig och reste sig upp för att be en tredje bönecykel. Vad bör
-  han göra då? Svar: Han skulle ha sut...
+description: 'Han skulle ha suttit ned i tas̲hahhud när han kom på att han felaktigt hade börjat på en tredje bönecykel.'
 ---
 
 **Fråga:** En man bad nattbönen som bes genom att be två bönecykler åt gången men han glömde bort sig och reste sig upp för att be en tredje bönecykel. Vad bör han göra då?

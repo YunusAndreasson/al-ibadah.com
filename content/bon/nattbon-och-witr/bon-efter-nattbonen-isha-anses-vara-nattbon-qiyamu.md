@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Nattbön
 original_id: 303
-description: >-
-  Fråga: Anses det vara nattbön om man ber elva bönecykler direkt efter
-  nattbönen? Svar: Nattbön är när man ber mycket, som två eller tre timmar.
-  Detta gäller oberoende av hur många antalet bön...
+description: 'Nattbön är när man ber mycket, som två eller tre timmar. Detta gäller oberoende av hur många antalet bönecyklerna är och om bönen bes tidigt under natten…'
 ---
 
 **Fråga:** Anses det vara nattbön om man ber elva bönecykler direkt efter nattbönen?

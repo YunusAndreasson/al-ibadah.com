@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 315
-description: 'Fråga: Vi har många kollegor som inte ber, kanske ber de enbart när
- de är tillsammans med familjen. När de har sett den amerikanska livsstilen överger
- de fastan samt bönen och glömmer sin gamla ...'
+description: 'Är det som du har beskrivit, då befrias du från ditt ansvar. Att du bor tillsammans med dem eftersom det är nödvändigt skadar inte.'
 ---
 
 **Fråga:** Vi har många kollegor som inte ber, kanske ber de enbart när de är tillsammans med familjen. När de har sett den amerikanska livsstilen överger de fastan samt bönen och glömmer sin gamla religion. Jag och några kollegor har rådgivit och uppmanat dem att be men de har inte svarat. Är vi befriade från ansvaret nu när vi bor tillsammans med dem?

@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 320
-description: >-
-  Fråga: Jag ber alltid mina böner vid deras fastslagna tider men jag går inte
-  till moskén för att be. I stället ber jag dem hemma tillsammans med mina barn.
-  Är detta tillåtet? Är belöningen för att...
+description: 'Även om du ber tillsammans med dina barn i ditt hem får du inte överge bönen i församlingen i moskén.'
 ---
 
 **Fråga:** Jag ber alltid mina böner vid deras fastslagna tider men jag går inte till moskén för att be. I stället ber jag dem hemma tillsammans med mina barn. Är detta tillåtet? Är belöningen för att be hemma samma som för att be i moskén?

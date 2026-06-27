@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
 original_id: 79
-description: >-
-  Fråga: Det finns en man som bor i ett samhälle där folket söker hjälp från
-  andra än Allāh. Får han be bakom dem? Bör han flytta därifrån? Är deras shirk
-  av den större sorten? Är vänskap med dem ...
+description: 'Om deras tillstånd är som du säger – att de söker hjälp från andra än Allāh genom att söka hjälp från avlidna, de frånvarande, träd, stjärnor eller…'
 ---
 
 **Fråga:** Det finns en man som bor i ett samhälle där folket söker hjälp från andra än Allāh. Får han be bakom dem? Bör han flytta därifrån? Är deras *s̲hirk* av den större sorten? Är vänskap med dem samma sak som vänskap med riktiga icke-troende?

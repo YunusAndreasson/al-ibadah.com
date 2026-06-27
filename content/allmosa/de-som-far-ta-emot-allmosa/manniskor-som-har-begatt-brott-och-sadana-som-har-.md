@@ -8,9 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 640
-description: 'Fråga: Är det tillåtet att betala allmosa till dem som har begått brott
- och som måste betala blodspengar och till dem som är skuldsatta om de kommer och
- ber om hjälp? Svar: Allāh den Upphöjde ...'
+description: 'Allāh den Upphöjde förklarar vilka de berättigade till allmosa är när Han säger: > ”Offergåvorna är avsedda enbart för de fattiga och de nödställda och för…'
 ---
 
 **Fråga:** Är det tillåtet att betala allmosa till dem som har begått brott och som måste betala blodspengar och till dem som är skuldsatta om de kommer och ber om hjälp?

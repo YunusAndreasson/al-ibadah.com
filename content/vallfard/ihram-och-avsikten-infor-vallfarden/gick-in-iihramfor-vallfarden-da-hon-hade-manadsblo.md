@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 784
-description: >-
-  Fråga: En kvinna gick in i ihrām för vallfärden vid as-Sayl [ mīqāt för Najd]
-  medan hon hade sin månadsblödning. Sedan nådde hon Mecka och hon begav sig
-  till Jiddah i något personligt ärende. S...
+description: 'Det finns inget syndigt i detta och att hon reste till Jiddah, då hon hade sin månadsblödning, skadar inte hennes vallfärd.'
 ---
 
 **Fråga:** En kvinna gick in i *iḥrām* för vallfärden vid as-Sayl [*mīqāt* för Najd] medan hon hade sin månadsblödning. Sedan nådde hon Mecka och hon begav sig till Jiddah i något personligt ärende. Sedan blev hon ren i Jiddah. Hon badade, kammade håret och avslutade sin vallfärd. Är hennes vallfärd giltig eller behöver hon göra något?

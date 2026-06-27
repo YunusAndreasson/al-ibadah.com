@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Handelsvaror och fastigheter
 original_id: 1021
-description: >-
-  Fråga: Finns det allmosa för privatägda bilar? Svar: Det finns ingen allmosa
-  för dem. Allting som man använder för eget bruk, utom guld- och silversmycken,
-  krävs det ingen allmosa för oberoend...
+description: 'Det finns ingen allmosa för dem. Allting som man använder för eget bruk, utom guld- och silversmycken, krävs det ingen allmosa för, oavsett om det är en…'
 ---
 
 **Fråga:** Finns det allmosa för privatägda bilar?

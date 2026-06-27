@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Betalning utomlands
 original_id: 632
-description: 'Fråga: Är det tillåtet att betala allmosa och sända den till de behövande?
- Jag menar då att jag ska skicka dem till mitt land, ursprungligen kommer jag ju
- inte från Saudiarabien. Vänligen, hjälp...'
+description: 'Enligt den korrekta åsikten är det tillåtet att överföra allmosa till ett annat land än det som tillgångarna finns i, om det finns någon nytta i det, som…'
 ---
 
 **Fråga:** Är det tillåtet att betala allmosa och sända den till de behövande? Jag menar då att jag ska skicka dem till mitt land, ursprungligen kommer jag ju inte från Saudiarabien. Vänligen, hjälp oss med ett svar och må Allāh belöna er.

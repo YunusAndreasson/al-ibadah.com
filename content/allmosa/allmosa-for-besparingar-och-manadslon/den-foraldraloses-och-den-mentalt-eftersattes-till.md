@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Besparingar och lön
 original_id: 604
-description: 'Fråga: Är det en skyldighet att betala allmosa för föräldralösas och
- den mentalt eftersattes tillgångar? Svar: Allmosa måste betalas för båda dessas
- tillgångar, om de är fria muslimer som äger...'
+description: 'Allmosa måste betalas för båda dessas tillgångar, om de är fria muslimer som äger sina tillgångar på ett fullständigt sätt.'
 ---
 
 **Fråga:** Är det en skyldighet att betala allmosa för föräldralösas och den mentalt eftersattes tillgångar?

@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Åminnelse
 original_id: 967
-description: >-
-  Fråga: Vilka är de former av åminnelse av Allāh som är föreskrivna efter att
-  ha gjort taslīm i bönen? Svar: Nämnandet av Allāh den Upphöjde befalls när
-  Han säger: “Och minns Gud efter b...
+description: 'Nämnandet av Allāh den Upphöjde befalls när Han säger: ”Och minns Gud efter bönens slut – när ni står upp, när ni sitter och när ni lägger er att vila.” De…'
 ---
 
 **Fråga:** Vilka är de former av åminnelse av Allāh som är föreskrivna efter att ha gjort *taslīm* i bönen?

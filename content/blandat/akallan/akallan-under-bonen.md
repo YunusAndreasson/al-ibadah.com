@@ -8,10 +8,7 @@ categories:
   - Blandat
   - Åkallan
 original_id: 1484
-description: >-
-  Fråga: Får Allāhs tjänare åkalla i den obligatoriska bönen? Ett exempel är om
-  han efter att ha sagt ” Subhana Rabii al-A’la ” säger ” Allāhummaghfir lī
-  warhamnī ” eller något liknande. Jag ber dig a...
+description: 'Tjänaren får åkalla vid platserna för åkallan. Detta gäller oavsett om bönen är obligatorisk eller icke-obligatorisk.'
 ---
 
 **Fråga:** Får Allāhs tjänare åkalla i den obligatoriska bönen? Ett exempel är om han efter att ha sagt ”*Subhana Rabii al-A’la*” säger ”*Allāhummaghfir lī warhamnī*” eller något liknande. Jag ber dig att du informerar mig om vad som är bra.

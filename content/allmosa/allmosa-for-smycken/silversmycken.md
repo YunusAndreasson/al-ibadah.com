@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Allmosa för smycken
 original_id: 1383
-description: >-
-  Fråga: Jag har en del silver i form av smycken som bärs runt halsen, händerna,
-  på huvudet och på ett bälte. Jag har bett min man så många gånger att han ska
-  sälja dem och betala allmosa för dem ...
+description: 'Om de inte har nått den lägsta nivån så krävs ingen allmosa för dem. Den lägsta nivån för silver är 140 mit̲hqāl, vilket är ungefär 56 silverriyal.'
 ---
 
 **Fråga:** Jag har en del silver i form av smycken som bärs runt halsen, händerna, på huvudet och på ett bälte. Jag har bett min man så många gånger att han ska sälja dem och betala allmosa för dem men han säger att de inte har nått miniminivån som krävs för allmosa. Jag har haft dem under ungefär 23 år och jag har inte betalat allmosa för dem. Vad måste jag nu göra?

@@ -4,10 +4,7 @@ categories:
   - Blandat
   - Utveckling
 original_id: 1656
-description: >-
-  Fråga: Hur blir en muslim en starkt troende? Svar: En muslim blir en mer
-  hängivet troende när han reciterar Allāhs skrift, studerar den, begrundar
-  dess innebörd och utlåtanden, när han s...
+description: 'En muslim blir en mer hängivet troende när han reciterar Allāhs skrift, studerar den, begrundar dess innebörd och utlåtanden, när han studerar profetens –…'
 ---
 
 **Fråga:** Hur blir en muslim en starkt troende?

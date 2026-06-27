@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1043
-description: >-
-  Fråga: Bryts fastan om man har en stark avsikt att bryta den men utan att
-  denna avsikt leder till att man äter eller dricker? Svar: Det är välkänt att
-  fastan är en kombination av avsikt och öv...
+description: 'Det är välkänt att fastan är en kombination av avsikt och övergivande [av mat och dryck]. Den fastande utformar avsikten för att fasta genom att överge det…'
 ---
 
 **Fråga:** Bryts fastan om man har en stark avsikt att bryta den men utan att denna avsikt leder till att man äter eller dricker?

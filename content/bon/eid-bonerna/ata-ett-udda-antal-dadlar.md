@@ -6,8 +6,7 @@ categories:
   - Bön (Salāh)
   - Eid-bönen
 original_id: 1592
-description: 'Fråga: Vad gäller i fråga om att äta dadlar för ´eid -bönen? Svar: Du
- bör äta ett udda antal dadlar före du beger dig till ´eid -bönen då profeten – över honom vare Allāhs frid och välsigne...'
+description: 'Du bör äta ett udda antal dadlar före du beger dig till ´eid-bönen då profeten – över honom vare Allāhs frid och välsignelser – inte begav sig till den…'
 ---
 
 **Fråga:** Vad gäller i fråga om att äta dadlar för *´eid*-bönen?

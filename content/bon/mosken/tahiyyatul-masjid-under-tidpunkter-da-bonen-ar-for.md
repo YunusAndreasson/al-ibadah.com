@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 1507
-description: >-
-  Fråga: Är hälsningsbönen till moskén tillåten efter eftermiddagsbönen och
-  gryningsbönen i alla moskéer, eller gäller detta enbart i de två Heliga
-  Moskéerna? Svar: Den mest korrekta åsikten bla...
+description: 'Den mest korrekta åsikten bland de lärde är att när man går in i en moské, även om det sker när det är förbjudet att be, då bör man be hälsningsbönen till…'
 ---
 
 **Fråga:** Är hälsningsbönen till moskén[^1] tillåten efter eftermiddagsbönen och gryningsbönen i alla moskéer, eller gäller detta enbart i de två Heliga Moskéerna?

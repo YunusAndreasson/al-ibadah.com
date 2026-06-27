@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1053
-description: >-
-  Fråga: Vilket är utlåtandet om näs-, ögon- och örondroppar för den som fastar?
-  Svar: Näsdroppar bryter fastan om de når magen, enligt vad som har
-  rapporterats i en hadīth från Laqit bin Sabi...
+description: 'Näsdroppar bryter fastan om de når magen, enligt vad som har rapporterats i en ḥadīt̲h från Laqit bin Sabirah.'
 ---
 
 **Fråga:** Vilket är utlåtandet om näs-, ögon- och örondroppar för den som fastar?

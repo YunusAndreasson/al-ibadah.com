@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 330
-description: >-
-  Fråga: Jag bad i moskén men jag hann inte be med församlingen, därför bad jag
-  med en andra församling och imamen där var inte saudier. Efter bönen satt han
-  en lång stund och han vände sig inte om ...
+description: 'Imamen är skyldig att vända sig mot Allāhs tjänare efter taslīm och han får inte förlänga sittningen efter den innan han vänder sig.'
 ---
 
 **Fråga:** Jag bad i moskén men jag hann inte be med församlingen, därför bad jag med en andra församling och imamen där var inte saudier. Efter bönen satt han en lång stund och han vände sig inte om efter *taslīm*, i stället satt han kvar i riktning mot *qiblah* efter *taslīm*. Var det rätt att jag begav mig då jag hade bråttom?

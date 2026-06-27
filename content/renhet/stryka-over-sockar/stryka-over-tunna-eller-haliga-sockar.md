@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Strykning över strumpor
 original_id: 1129
-description: >-
-  Fråga: Vilket är utlåtandet om att stryka över tunna eller håliga sockar?
-  Svar: Den starkaste åsikten är att det är tillåtet att stryka över trasiga
-  eller tunna sockar som huden syns genom. Må...
+description: 'Den starkaste åsikten är att det är tillåtet att stryka över trasiga eller tunna sockar som huden syns genom.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att stryka över tunna eller håliga sockar?

@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Avgudadyrkan
 original_id: 1193
-description: >-
-  Fråga: Vilket är utlåtandet om att svära vid profeten, Ka’bah, adlighet, ett
-  avtal eller sitt ord? Svar: Det är inte tillåtet att svära vid profeten – över
-  honom vare Allāhs frid och välsignel...
+description: 'Det är inte tillåtet att svära vid profeten – över honom vare Allāhs frid och välsignelser – sannerligen är det en sorts s̲hirk.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att svära vid profeten, Ka’bah, adlighet, ett avtal eller sitt ord?

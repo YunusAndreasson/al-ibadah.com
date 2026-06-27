@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 692
-description: >-
-  Fråga: Vilket är utlåtandet om åkalla i grupp i varje samling när Koranen har
-  citerats? En person åkallar och resten säger ” āmīn ” efter hans åkallan.
-  Detta sker under varje religionslektion och ...
+description: 'Regeln för åminnelse och handlingar av dyrkan är den av överensstämmelse och att Allāh inte ska dyrkas utom med vad Han har föreskrivit.'
 ---
 
 **Fråga:** Vilket är utlåtandet om åkalla i grupp i varje samling när Koranen har citerats? En person åkallar och resten säger ”*āmīn*” efter hans åkallan. Detta sker under varje religionslektion och när de tillfrågas om bevis använder de Allāh – den Allsmäktiges – ord: ”*Be till Mig, så ska Jag besvara er [bön]*.” [^1]

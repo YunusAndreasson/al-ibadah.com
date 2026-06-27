@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsriter
 original_id: 747
-description: >-
-  Fråga: Vad gäller den som går in i ihrām för vallfärden samt ‘umrah som en
-  qarin och efter ‘umrah avlägsnar sin ihrām? Anses personen vara en mutamatti´' ?
-  Svar: Ja, om personen går in i ...
+description: 'Ja, om personen går in i iḥrām för vallfärden och ´umrah som en qarīn för att sedan utföra ṭawāf och sa´ī, klippa håret och endast göra en ´umrah, då…'
 ---
 
 **Fråga:** Vad gäller den som går in i *iḥrām* för vallfärden samt *´umrah* som en *qarīn* och efter *´umrah* avlägsnar sin *iḥrām*? Anses personen vara en *mutamatti´[^1]'*?

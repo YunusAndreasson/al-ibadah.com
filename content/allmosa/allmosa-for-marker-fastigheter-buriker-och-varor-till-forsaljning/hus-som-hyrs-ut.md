@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Handelsvaror och fastigheter
 original_id: 1252
-description: >-
-  Fråga: Vilket är utlåtandet om allmosan för ett hyreshus? Svar: Om ett hus
-  hyrs ut mot vinst, då betalar man ingen allmosa för husets värde. Allmosan
-  betalar man enbart för den inkomst som gen...
+description: 'Om ett hus hyrs ut mot vinst, då betalar man ingen allmosa för husets värde. Allmosan betalar man enbart för den inkomst som genereras från det när ḥawl…'
 ---
 
 **Fråga:** Vilket är utlåtandet om allmosan för ett hyreshus?

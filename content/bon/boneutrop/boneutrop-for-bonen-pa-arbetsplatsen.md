@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Böneutrop
 original_id: 1458
-description: >-
-  Fråga: Om vi befinner oss på arbetsplatsen och det inte är långt till moskén,
-  kan vi då ropa ut böneutropet på vårt arbete? Svar: Ni måste be i moskén med
-  församlingen. Anledningen är att prof...
+description: 'Ni måste be i moskén med församlingen. Anledningen är att profeten – över honom vare Allāhs frid och välsignelser – har sagt: ”Den som hör kallet till bön…'
 ---
 
 **Fråga:** Om vi befinner oss på arbetsplatsen och det inte är långt till moskén, kan vi då ropa ut böneutropet på vårt arbete?

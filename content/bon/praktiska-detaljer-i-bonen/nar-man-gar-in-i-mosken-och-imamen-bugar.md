@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 184
-description: >-
-  Fråga: Om jag kommer till bönen i församlingen i moskén medan de ber och de
-  bugar, bör jag då förena mig med dem genom att göra den första takbīr och
-  sedan takbīr för bugningen? Och bör jag ...
+description: 'När en muslim går in i moskén och imamen bugar, då är det föreskrivet att förena sig med honom genom att säga två takbīr [den första när han står och den…'
 ---
 
 **Fråga:** Om jag kommer till bönen i församlingen i moskén medan de ber och de bugar, bör jag då förena mig med dem genom att göra den första *takbīr* och sedan *takbīr* för bugningen? Och bör jag läsa den första åkallan i början?

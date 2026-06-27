@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdens stationer
 original_id: 1329
-description: >-
-  Fråga: Var är mīqāt för ‘umrah för den som bor i Mecka? Svar: Mīqāt för ‘umrah
-  för den som befinner sig i Mecka är platsen utanför det Heliga området i
-  staden. Därför när ‘A’ishah – må...
+description: 'mīqāt för ´umrah för den som befinner sig i Mecka är platsen utanför det Heliga området i staden.'
 ---
 
 **Fråga:** Var är *mīqāt* för *´umrah* för den som bor i Mecka?

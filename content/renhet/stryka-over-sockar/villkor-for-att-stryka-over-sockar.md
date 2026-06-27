@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Strykning över strumpor
 original_id: 536
-description: >-
-  Fråga: Vad finns det för villkor för att stryka över strumporna? Var snäll och
-  ge bevisen för det. Svar: All lovprisan tillhör Allāh. Fyra villkor gäller när
-  man stryker över strumporna. ...
+description: 'All lovprisan tillhör Allāh. Fyra villkor gäller när man stryker över strumporna. 1. Man ska ha tagit på sig strumporna under rituell renhet [när man har…'
 ---
 
 **Fråga:** Vad finns det för villkor för att stryka över strumporna? Var snäll och ge bevisen för det.

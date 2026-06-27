@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Innovationer
 original_id: 229
-description: >-
-  Fråga: Vissa lärda säger att det inte är tillåtet att be bakom en imam som är
-  en innovatör och som inte tar delar av profetens – över honom vare Allāhs frid
-  och välsignelser – sunnah på allvar. ...
+description: 'Den ḥadīt̲h som frågeställaren nämner: ”Be bakom varje rättfärdig person och varje omoralisk person” är grundlös med denna ordalydelse.'
 ---
 
 **Fråga:** Vissa lärda säger att det inte är tillåtet att be bakom en imam som är en innovatör och som inte tar delar av profetens – över honom vare Allāhs frid och välsignelser – *sunnah* på allvar. Detta trots den *ḥadīt̲h* som säger: ”*Be bakom varje rättfärdig och varje omoralisk person*.” Är det då tillåtet att be bakom en sådan imam?

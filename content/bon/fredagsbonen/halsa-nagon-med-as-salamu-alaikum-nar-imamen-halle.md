@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Fredagsbönen
 original_id: 1238
-description: >-
-  Fråga: Vilket är utlåtandet om att hälsa någon med ” as-salamu 'alaikum ” när
-  imamen håller predikan? Svar: Om någon kommer när imamen håller predikan bör
-  personen be två korta bönecykler för att...
+description: 'Om någon kommer när imamen håller predikan bör personen be två korta bönecykler för att sedan sitta ned. Detta gör personen utan att hälsa på någon.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att hälsa någon med ”*as-salamu 'alaikum*” när imamen håller predikan?

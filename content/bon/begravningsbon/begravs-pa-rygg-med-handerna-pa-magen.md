@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Begravningsbön
 original_id: 1247
-description: >-
-  Fråga: I vissa länder begraver man de avlidna på rygg med händerna på magen.
-  Vad är rätt att göra när man begraver den avlidne? Svar: Den korrekta
-  proceduren är att man begraver den avlidne på...
+description: 'Den korrekta proceduren är att man begraver den avlidne på höger sida i riktning mot qiblah. Ka’bah är qiblah för folket både i livet och i döden.'
 ---
 
 **Fråga:** I vissa länder begraver man de avlidna på rygg med händerna på magen. Vad är rätt att göra när man begraver den avlidne?

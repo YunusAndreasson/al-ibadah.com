@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 521
-description: >-
-  Fråga: Jag utförde min obligatoriska pilgrimsfärd och jag gjorde den som
-  hajjul-tamattu’ . Under den åttonde dagen i dhu’l-hijjah trädde jag in i ihrām
-  och utförde de obligatoriska pelarna fö...
+description: 'All lovprisan tillhör Allāh. Du måste återvända till Mecka och utföra den sa´ī som tillhör pilgrimsfärden.'
 ---
 
 **Fråga:** Jag utförde min obligatoriska pilgrimsfärd och jag gjorde den som *ḥajjul-tamattu´*. Under den åttonde dagen i *d̲hul-ḥijjah* trädde jag in i *iḥrām* och utförde de obligatoriska pelarna för pilgrimsfärden, men på grund av ouppmärksamhet glömde jag *sa´ī*. Vad gör jag då? Vänligen, ge mig råd och må Allāh belöna er med gott.

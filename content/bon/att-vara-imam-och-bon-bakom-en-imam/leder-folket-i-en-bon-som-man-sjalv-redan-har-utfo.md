@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 203
-description: >-
-  Fråga: Får den som redan har bett en obligatorisk bön leda församlingen i
-  samma bön? Svar: De lärde har olika åsikter om det är tillåtet. För oss verkar
-  det dock vara troligast att den som ber...
+description: 'De lärde har olika åsikter om det är tillåtet. För oss verkar det dock vara troligast att den som ber den obligatoriska bönen får leda de som redan har…'
 ---
 
 **Fråga:** Får den som redan har bett en obligatorisk bön leda församlingen i samma bön?

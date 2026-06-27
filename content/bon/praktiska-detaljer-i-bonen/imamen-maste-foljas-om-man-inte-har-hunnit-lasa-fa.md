@@ -10,10 +10,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 216
-description: >-
-  Fråga: Jag bad middagsbönen bakom en imam men i de sista två bönecyklerna hade
-  jag inte möjlighet att recitera färdigt Fātihah al-Kitāb . Hade jag slutfört
-  den, då hade jag missat bugningen med i...
+description: 'Det är uppenbart att imamen rusar genom recitationen och kortar momentet när man står upp, eller att du är långsam i din recitation och förlänger den.'
 ---
 
 **Fråga:** Jag bad middagsbönen bakom en imam men i de sista två bönecyklerna hade jag inte möjlighet att recitera färdigt *Fātihah al-Kitāb*. Hade jag slutfört den, då hade jag missat bugningen med imamen. Bör jag recitera klart eller bör jag buga och låta imamens recitation vara tillräcklig?

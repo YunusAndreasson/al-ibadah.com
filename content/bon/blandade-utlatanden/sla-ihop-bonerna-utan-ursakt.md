@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Övrigt
 original_id: 234
-description: >-
-  Fråga: Är det tillåtet att slå ihop middagsbönen och eftermiddagsbönen varje
-  dag? Svar: Det är inte tillåtet att slå ihop eftermiddags- eller kvällsbönerna
-  utan en giltig ursäkt som resa utan ...
+description: 'Det är inte tillåtet att slå ihop eftermiddags- eller kvällsbönerna utan en giltig ursäkt som resa utan uppehåll, att det regnar och kläderna blir våta och…'
 ---
 
 **Fråga:** Är det tillåtet att slå ihop middagsbönen och eftermiddagsbönen varje dag?

@@ -8,9 +8,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 680
-description: 'Fråga: En person ångrar sig för en synd men återvänder sedan till synden
- om och om igen, för att sedan ångra sig igen. Efter att han ångrat sig sista gången
- lyckades han med att inte återvända til...'
+description: 'Denna syndares ånger är korrekt; saken är den att den varit korrekt varje gång han ångrat sig.'
 ---
 
 **Fråga:** En person ångrar sig för en synd men återvänder sedan till synden om och om igen, för att sedan ångra sig igen. Efter att han ångrat sig sista gången lyckades han med att inte återvända till den. Vilket är utlåtandet om hans ånger?

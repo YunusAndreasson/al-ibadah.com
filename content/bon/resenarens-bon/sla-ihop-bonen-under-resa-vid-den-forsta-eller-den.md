@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Resenärens bön
 original_id: 582
-description: >-
-  Fråga: Är det bäst, när man är ute och reser, att slå ihop bönen vid den
-  tidigaste tidpunkten eller vid den senare tidpunkten? Svar: Det bästa under
-  resa är att slå ihop bönen där det passar e...
+description: 'Det bästa under resa är att slå ihop bönen där det passar en själv bäst. Är det lättare för dig vid den tidigare tidpunkten – så gör det.'
 ---
 
 **Fråga:** Är det bäst, när man är ute och reser, att slå ihop bönen vid den tidigaste tidpunkten eller vid den senare tidpunkten?

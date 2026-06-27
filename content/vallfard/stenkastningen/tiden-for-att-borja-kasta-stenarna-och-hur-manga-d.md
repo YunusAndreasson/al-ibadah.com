@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Stenkastningen
 original_id: 855
-description: >-
-  Fråga: När börjar pilgrimen kasta stenarna? Hur går detta tillväga? Hur många
-  ska stenarna vara? Vilken av pelarna ska man kasta på först? Svar: Man stenar
-  den första pelaren under ‘eid ...
+description: 'Man stenar den första pelaren under ´eid-dagen. Det är pelaren som är närmast Mecka och som kallas för Jamaraul-''Aqabah.'
 ---
 
 **Fråga:** När börjar pilgrimen kasta stenarna? Hur går detta tillväga? Hur många ska stenarna vara? Vilken av pelarna ska man kasta på först?

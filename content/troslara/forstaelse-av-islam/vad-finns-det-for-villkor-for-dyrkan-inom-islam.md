@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Förståelse av islam
 original_id: 514
-description: >-
-  Fråga: Vad finns det för villkor för dyrkan inom islam? Svar: För det första:
-  dyrkan måste vara enligt den islamiska lagen och dess syften. Den som dyrkar
-  Allāh av en anledning som inte den ...
+description: 'För det första: dyrkan måste vara enligt den islamiska lagen och dess syften. Den som dyrkar Allāh av en anledning som inte den islamiska lagen bevisar…'
 ---
 
 **Fråga:** Vad finns det för villkor för dyrkan inom islam?

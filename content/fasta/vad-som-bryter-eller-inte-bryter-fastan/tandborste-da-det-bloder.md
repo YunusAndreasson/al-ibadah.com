@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 418
-description: >-
-  Fråga: Efter att ha avstått från att äta [när fastan börjar], får jag då
-  borsta mina tänder med tandkräm och om det är tillåtet, bryter då den lilla
-  mängd blod som kommer från tänderna under borst...
+description: 'Det är ingen fara att borsta tänderna med vatten, miswāk och tandborste när fastan har börjat.'
 ---
 
 **Fråga:** Efter att ha avstått från att äta [när fastan börjar], får jag då borsta mina tänder med tandkräm och om det är tillåtet, bryter då den lilla mängd blod som kommer från tänderna under borstandet fastan?

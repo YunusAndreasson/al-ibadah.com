@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 379
-description: >-
-  Fråga: Är det ett villkor att bönemattor har religiösa motiv som bilder på de
-  två heliga moskéerna [i Mecka och Medina], en bild på en annan moské eller en
-  vers från Koranen? Vilket är utlåtandet ...
+description: 'Det är inte tillåtet att det finns Koran-verser, eller bilder på djur eller fåglar på bönemattor.'
 ---
 
 **Fråga:** Är det ett villkor att bönemattor har religiösa motiv som bilder på de två heliga moskéerna [i Mecka och Medina], en bild på en annan moské eller en vers från Koranen? Vilket är utlåtandet om att be på mattor som har bilder på fåglar, djur eller något annat liknande?

@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Efterblödning
 original_id: 1452
-description: >-
-  Fråga: En del kvinnor får missfall under graviditeten; vissa när fostret är
-  fullt utvecklat och andra när det inte är det. Jag ber om ett klargörande om
-  bönen i dessa båda fall. Svar: Om en kv...
+description: 'Om en kvinna får missfall och fostret verkar vara fullt utvecklat [huvud, händer, fötter, etcetera] anses hon vara i ett tillstånd efter förlossning.'
 ---
 
 **Fråga:** En del kvinnor får missfall under graviditeten; vissa när fostret är fullt utvecklat och andra när det inte är det. Jag ber om ett klargörande om bönen i dessa båda fall.

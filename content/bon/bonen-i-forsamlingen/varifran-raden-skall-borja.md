@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 308
-description: 'Fråga: Skall raderna börja bakom imamen eller till höger? Svar: Den
- första raden börjar bakom imamen och fylls sedan till höger och vänster, inte längst
- från höger som frågeställaren sa. Samma...'
+description: 'Den första raden börjar bakom imamen och fylls sedan till höger och vänster, inte längst från höger som frågeställaren sa.'
 ---
 
 **Fråga:** Skall raderna börja bakom imamen eller till höger?

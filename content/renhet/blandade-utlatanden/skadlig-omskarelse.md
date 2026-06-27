@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Övrigt
 original_id: 1282
-description: >-
-  Fråga: Vilket är utlåtandet om omskärelse? Vad finns det att säga om dem som
-  flår hela mannens könsorgan? Svar: Omskärelse är ett av karaktärsdragen för
-  fiṭrah samtidigt som det är en symbol...
+description: 'Omskärelse är ett av karaktärsdragen för fiṭrah samtidigt som det är en symbol för muslimer.'
 ---
 
 **Fråga:** Vilket är utlåtandet om omskärelse? Vad finns det att säga om dem som flår hela mannens könsorgan?

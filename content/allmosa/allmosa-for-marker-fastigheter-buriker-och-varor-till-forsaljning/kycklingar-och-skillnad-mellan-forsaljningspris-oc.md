@@ -7,9 +7,7 @@ categories:
   - Allmosa (Zakāh)
   - Handelsvaror och fastigheter
 original_id: 618
-description: 'Fråga: Får jag betala allmosa för en kycklingfarm grundat på dess värde? Svar: Allt
- som en muslim äger i form av tillgångar som är till försäljning, oavsett om
- det är djur eller något ann...'
+description: 'Allt som en muslim äger i form av tillgångar som är till försäljning, oavsett om det är djur eller något annat än djur, betalar personen allmosa för dess…'
 ---
 
 **Fråga:** Får jag betala allmosa för en kycklingfarm grundat på dess värde?

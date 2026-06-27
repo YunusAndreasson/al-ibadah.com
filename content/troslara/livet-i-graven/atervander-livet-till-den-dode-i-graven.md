@@ -9,10 +9,7 @@ categories:
   - Troslära (´Aqīdah)
   - Gravlivet
 original_id: 72
-description: >-
-  Fråga: Jag har hört att de lärde säger att den som har avlidit kommer att
-  återfå livet i graven, att de får besvara frågor från änglar och att om det
-  från dessa frågor blir klart att personen är en i...
+description: 'Precis som utlåtanden hämtas från Koranen, hämtas de även från profetens – över honom vare Allāhs frid och välsignelser – sunnah; hans ord, handlingar och…'
 ---
 
 **Fråga:** Jag har hört att de lärde säger att den som har avlidit kommer att återfå livet i graven, att de får besvara frågor från änglar och att om det från dessa frågor blir klart att personen är en icke-troende som inte utövade islam under sitt liv här i denna världen, då kommer personen att straffas. Jag har inte funnit några bevis för detta i den Heliga Koranen som klargör utfrågningen och straffet i graven. Allāh säger:

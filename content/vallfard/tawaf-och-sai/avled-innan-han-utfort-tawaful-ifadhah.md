@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 812
-description: >-
-  Fråga: Vad gäller den som slutfört vallfärdsriterna, utom ṭawāful-ifāḍah ,
-  men sedan dog? ska tawāf utföras för honom? Svar: Den som har fullbordat
-  vallfärdsriterna utom ṭawāful-ifāḍah...
+description: 'Den som har fullbordat vallfärdsriterna utom ṭawāf ul-ifāḍah och som sedan avlidit, för personen behöver ṭawāf inte utföras.'
 ---
 
 **Fråga:** Vad gäller den som slutfört vallfärdsriterna, utom *ṭawāf ul-ifāḍah*, men sedan dog? ska *ṭawāf* utföras för honom?

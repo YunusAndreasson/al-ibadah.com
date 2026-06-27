@@ -10,10 +10,7 @@ categories:
   - Troslära (´Aqīdah)
   - Övrigt
 original_id: 1201
-description: >-
-  Fråga: En man bodde i ett hus och han led av sjukdomar och olyckor. Detta fick
-  till följd att han och hans familj kände att huset var fullt av dåliga omen.
-  Får de lämna huset då? Svar: Det är ...
+description: 'Det är möjligt att det finns dåliga omen i vissa hus, färdmedel eller fruar. Allāh kan genom en visdom som Han känner se till att behållandet av dem kan…'
 ---
 
 **Fråga:** En man bodde i ett hus och han led av sjukdomar och olyckor. Detta fick till följd att han och hans familj kände att huset var fullt av dåliga omen. Får de lämna huset då?

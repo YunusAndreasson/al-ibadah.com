@@ -6,10 +6,7 @@ categories:
   - Bön (Salāh)
   - Församlingsbön
 original_id: 572
-description: >-
-  Fråga: Ädle shaykh, vilken är den allmänna åsikten gällande vad man ska göra
-  om man ber en icke-obligatorisk och den gemensamma bönen börjar? Svar: Den
-  övervägande åsikten beträffande icke-...
+description: 'Den övervägande åsikten beträffande icke-obligatoriska böner, om den gemensamma bönen börjar, är att den ska avslutas snabbt om man befinner sig i den…'
 ---
 
 **Fråga:** Ädle *s̲hayk̲h*, vilken är den allmänna åsikten gällande vad man ska göra om man ber en icke-obligatorisk och den gemensamma bönen börjar?

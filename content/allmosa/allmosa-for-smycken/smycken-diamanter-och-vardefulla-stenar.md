@@ -8,10 +8,7 @@ categories:
   - Allmosa (Zakāh)
   - Allmosa för smycken
 original_id: 620
-description: >-
-  Fråga: Jag är en gift kvinna som är ungefär 30 år gammal. Under ungefär 24 år
-  har jag haft guld som det inte har funnits något affärsintresse i. Jag
-  använder dem enbart för att göra mig vacker och...
+description: 'Allmosa blir en skyldighet för dig vid den tidpunkt som du fick veta att det var en skyldighet för dig att betala allmosa för smycken.'
 ---
 
 **Fråga:** Jag är en gift kvinna som är ungefär 30 år gammal. Under ungefär 24 år har jag haft guld som det inte har funnits något affärsintresse i. Jag använder dem enbart för att göra mig vacker och ibland säljer jag dem. Sedan lägger jag till lite pengar och köper bättre smycken.

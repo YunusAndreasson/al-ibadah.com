@@ -8,10 +8,7 @@ source: >-
 categories:
   - Allmosa (Zakāh)
 original_id: 1385
-description: >-
-  Fråga: Jag gjorde iordning zakātul-fitr innan ‘eid för att ge den till en
-  fattig som jag känner. Nu glömde jag dock att ge bort den. Jag kom inte ihåg
-  det förrän vid ‘eid -bönen så jag gav de...
+description: 'Det råder inga tvivel om att profetens – över honom vare Allāhs frid och välsignelser – sunnah är att ge zakātul-fiṭr före ´eid-bönen.'
 ---
 
 **Fråga:** Jag gjorde iordning *zakātul-fiṭr* innan *´eid* för att ge den till en fattig som jag känner. Nu glömde jag dock att ge bort den. Jag kom inte ihåg det förrän vid *´eid*-bönen så jag gav den efter bönen. Vilket är utlåtandet?

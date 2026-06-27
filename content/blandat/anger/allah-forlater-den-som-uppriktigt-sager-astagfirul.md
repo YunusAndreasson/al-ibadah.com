@@ -8,9 +8,7 @@ categories:
   - Blandat
   - Ånger
 original_id: 656
-description: 'Fråga: Är det sant att Allāh den Allsmäktige förlåter alla som säger
- ” Astagfirullah ”? Svar: Om en person säger ” Astagfirullah ” med en uppriktig
- intention för att få förlåtelse och om han m...'
+description: 'Om en person säger "Astagfirullah" med en uppriktig intention för att få förlåtelse och om han uppfyller villkoren för förlåtelse, då förlåter Allāh den…'
 ---
 
 **Fråga:** Är det sant att Allāh den Allsmäktige förlåter alla som säger ”*Astagfirullah*”?

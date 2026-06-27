@@ -7,10 +7,7 @@ source: >-
 categories:
   - Blandat
 original_id: 1279
-description: >-
-  Fråga: Vad finns det för villkor för att Allāh ska besvara och acceptera en
-  åkallan? Svar: Det finns många villkor för åkallan och nedan följer några:
-  Du ska inte anropa någon an...
+description: 'Det finns många villkor för åkallan och nedan följer några: 1. Du ska inte anropa någon annan än Allāh.'
 ---
 
 **Fråga:** Vad finns det för villkor för att Allāh ska besvara och acceptera en åkallan?

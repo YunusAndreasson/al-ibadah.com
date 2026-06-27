@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1510
-description: >-
-  Fråga: Jag går alltid för att be gryningsbönen och jag finner att bönen har
-  börjat och jag har ännu inte hunnit be sunnah för gryningsbönen, får jag då be
-  den när jag har avslutat bönen? Jag men...
+description: 'Är det inga problem att be sunnah för gryningsbönen innan bönen, då kan han välja mellan att be den efter bönen eller att skjuta upp den tills solen har…'
 ---
 
 **Fråga:** Jag går alltid för att be gryningsbönen och jag finner att bönen har börjat och jag har ännu inte hunnit be *sunnah* för gryningsbönen, får jag då be den när jag har avslutat bönen? Jag menar, efter imamens *taslīm*? Om jag väntar tills solen har stigit innan jag ber den, kommer jag då att förlora någon belöning för den? Detta i vetskap om att de två bönecyklerna för gryningsbönen är bättre än världen och det som finns i den.

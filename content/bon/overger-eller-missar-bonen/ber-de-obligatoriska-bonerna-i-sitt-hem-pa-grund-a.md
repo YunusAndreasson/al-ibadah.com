@@ -9,10 +9,7 @@ categories:
   - Bön (Salāh)
   - Missad bön
 original_id: 1536
-description: >-
-  Fråga: Jag ber hemma eftersom jag är extremt blyg. Jag ber dock många
-  frivilliga böner, åkallar och lovprisar Allāh. Accepteras den bön som jag ber
-  hemma? Svar: Du måste be i moskén med försam...
+description: 'Du måste be i moskén med församlingen. Den blyghet som får dig att överge denna skyldighet anses vara feghet.'
 ---
 
 **Fråga:** Jag ber hemma eftersom jag är extremt blyg. Jag ber dock många frivilliga böner, åkallar och lovprisar Allāh. Accepteras den bön som jag ber hemma?

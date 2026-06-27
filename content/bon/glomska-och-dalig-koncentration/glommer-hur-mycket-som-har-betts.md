@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 277
-description: >-
-  Fråga: Jag ber alltid men hela tiden glömmer jag och tvekar över hur många
-  bönecykler jag har bett och hur många som återstår. Därför gör jag ofta
-  nedfallandet för glömska. Är detta tillåtet? ...
+description: 'Du måste vara noga med din bön och förvissa dig om att ditt hjärta är närvarande i den. Det finns inga krav på att du ska nedfalla för glömska när ditt…'
 ---
 
 **Fråga:** Jag ber alltid men hela tiden glömmer jag och tvekar över hur många bönecykler jag har bett och hur många som återstår. Därför gör jag ofta nedfallandet för glömska[^1]. Är detta tillåtet?

@@ -9,10 +9,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning utan vatten
 original_id: 1424
-description: >-
-  Fråga: En person tvagade sig med en handskada som inte bör fuktas. Därför
-  tänkte han göra tayammum över den, men glömde bort det. Sedan bad han utan
-  tayammum och under bönen kom han ihåg dett...
+description: 'Om en kroppsdel som han normalt sett måste tvätta under tvagningen är skadad och han inte hade möjlighet att tvätta den eller stryka över den, då det…'
 ---
 
 **Fråga:** En person tvagade[^1] sig med en handskada som inte bör fuktas. Därför tänkte han göra *tayammum* över den, men glömde bort det. Sedan bad han utan *tayammum* och under bönen kom han ihåg detta och han gjorde *tayammum* utan att lämna bönen [han fortsatte att be]. Vilket är utlåtandet om denna bön?

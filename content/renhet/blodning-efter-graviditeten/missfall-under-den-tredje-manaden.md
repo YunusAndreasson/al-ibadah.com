@@ -8,9 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Efterblödning
 original_id: 1456
-description: 'Fråga: Jag är en kvinna som för ett år sedan fick missfall i den tredje
- månaden. Jag bad inte förrän jag hade blivit ren, men det har sagts till mig att
- jag borde ha bett. Vad bör jag göra? Jag kä...'
+description: 'För de lärde är det välkänt att en kvinna som får missfall efter tre månader inte ber. Anledningen är att när fostret inte går att likna vid en människa…'
 ---
 
 **Fråga:** Jag är en kvinna som för ett år sedan fick missfall i den tredje månaden. Jag bad inte förrän jag hade blivit ren, men det har sagts till mig att jag borde ha bett. Vad bör jag göra? Jag känner inte till det exakta antalet dagar?

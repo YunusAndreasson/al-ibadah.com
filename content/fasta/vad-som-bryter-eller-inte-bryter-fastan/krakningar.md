@@ -8,10 +8,7 @@ categories:
   - Fasta (Sawm)
   - Fastebrytare
 original_id: 1046
-description: >-
-  Fråga: Bryter kräkningar fastan? Svar: Kräker någon avsiktligen bryter det
-  fastan men om personen inte gjorde det avsiktligen bryter det inte fastan.
-  Beviset för detta återfinns i en hadīth f...
+description: 'Kräker någon avsiktligen bryter det fastan men om personen inte gjorde det avsiktligen bryter det inte fastan.'
 ---
 
 **Fråga:** Bryter kräkningar fastan?

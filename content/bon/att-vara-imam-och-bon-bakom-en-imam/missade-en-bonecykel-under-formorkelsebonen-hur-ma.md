@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Imamskap
 original_id: 1240
-description: >-
-  Fråga: Om någon missar en bönecykel av förmörkelsebönen, hur tar man då igen
-  den? Svar: Om någon missar en bönecykel av förmörkelsebönen så har profeten –
-  över honom vare Allāhs frid och välsi...
+description: 'Om någon missar en bönecykel av förmörkelsebönen så har profeten – över honom vare Allāhs frid och välsignelser – sagt: ”När ni kommer till bönen, gå och…'
 ---
 
 **Fråga:** Om någon missar en bönecykel av förmörkelsebönen, hur tar man då igen den?

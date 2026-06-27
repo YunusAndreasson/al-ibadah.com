@@ -8,10 +8,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 1440
-description: >-
-  Fråga: Jag tvagade mig för gryningsbönen, sedan bad jag men jag glömde
-  att ta på mina sockar. Sedan sov jag efter bönen, vaknade och tog på mina
-  sockar när jag inte var rituellt ren. När de...
+description: 'Den som bär lädersockar eller sockar [av något annat material] utan att vara rituellt ren, för att sedan stryka över dem och i glömska be, personens bön…'
 ---
 
 **Fråga:** Jag tvagade[^1] mig för gryningsbönen, sedan bad jag men jag glömde att ta på mina sockar. Sedan sov jag efter bönen, vaknade och tog på mina sockar när jag inte var rituellt ren. När det sedan blev dags för middagsbönen tvagade[^1] jag mig, strök över sockarna och bad. Jag gjorde samma sak vid eftermiddagsbönen, kvällsbönen och nattbönen i tron om att jag var rituellt ren när jag tog på dem. Jag kom inte på att jag inte hade tagit på dem i ett tillstånd av renhet förrän två timmar innan nattbönen. Vilket är utlåtandet om dessa fyra böner, är de giltiga? Detta i vetskap om att jag inte gjorde detta avsiktligen.

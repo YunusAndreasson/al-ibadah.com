@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Bönens praktik
 original_id: 948
-description: >-
-  Fråga: Vilket är utlåtandet om att recitera Basmalah högt? Svar: Den starkaste
-  åsikten är att Basmalah inte bör reciteras med höjd röst. Det är sunnah att
-  säga den tyst. Den är inte en d...
+description: 'Den starkaste åsikten är att Basmalah inte bör reciteras med höjd röst. Det är sunnah att säga den tyst.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att recitera *Basmalah*[^1] högt?

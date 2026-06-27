@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 1355
-description: >-
-  Fråga: Får jag i början av varje varv under sa´ī säga: ” I Guds Namn, vi
-  börjar med det Allāh och Hans sändebud började med. Sannerligen as-Safa och
-  al-Marwah tillhör Allāhs symboler .” Är detta...
+description: 'Det som är föreskrivet att säga vid början av det första varvet för sa´ī är: ”Sannerligen, as-Safa och al-Marwah tillhör Allāhs symboler.” Detta gjorde…'
 ---
 
 **Fråga:** Får jag i början av varje varv under *sa´ī* säga: ”*I Guds Namn, vi börjar med det Allāh och Hans sändebud började med. Sannerligen as-Safa och al-Marwah tillhör Allāhs symboler*.” Är detta kanske något som är en innovation?

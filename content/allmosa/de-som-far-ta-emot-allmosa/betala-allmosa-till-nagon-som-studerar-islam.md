@@ -9,10 +9,7 @@ categories:
   - Allmosa (Zakāh)
   - Mottagare
 original_id: 1026
-description: >-
-  Fråga: Vilket är utlåtandet om att betala allmosa till den som studerar islam?
-  Svar: Det är tillåtet att betala allmosa till den som studerar islam även om
-  personen kan vara kapabel till egna fört...
+description: 'Det är tillåtet att betala allmosa till den som studerar islam även om personen kan vara kapabel till egna förtjänster.'
 ---
 
 **Fråga:** Vilket är utlåtandet om att betala allmosa till den som studerar islam?

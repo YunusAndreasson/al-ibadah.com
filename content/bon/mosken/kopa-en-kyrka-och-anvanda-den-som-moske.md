@@ -7,9 +7,7 @@ categories:
   - Bön (Salāh)
   - Moskén
 original_id: 1371
-description: 'Fråga: Är det tillåtet att köpa en kyrka och omvandla den till en moské
- efter att alla kors och bilder förts bort? Svar: Ja, det är tillåtet att köpa
- en kyrka för att bygga om den till en mosk...'
+description: 'Ja, det är tillåtet att köpa en kyrka för att bygga om den till en moské. Det är då obligatoriskt att alla krucifix, bilder [upphängda och ingraverade]…'
 ---
 
 **Fråga:** Är det tillåtet att köpa en kyrka och omvandla den till en moské efter att alla kors och bilder förts bort?

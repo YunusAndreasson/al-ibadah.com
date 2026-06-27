@@ -8,10 +8,7 @@ categories:
   - Bön (Salāh)
   - Koncentration i bönen
 original_id: 275
-description: >-
-  Fråga: Om imamen glömmer att recitera *al-Fātiḥah* i den sista bönecykeln och
-  han inte kommer på detta förrän efter den andra bugningen – vad gör han
-  då? Svar: Han måste göra en bönecykel till ...
+description: 'Han måste göra en bönecykel till för att upprepa den som han glömde al-Fātiḥah i. Han gör sedan nedfallandet för glömska innan taslīm och de bakom bör…'
 ---
 
 **Fråga:** Om imamen glömmer att recitera *al-Fātiḥah* i den sista bönecykeln och han inte kommer på detta förrän efter den andra bugningen – vad gör han då?

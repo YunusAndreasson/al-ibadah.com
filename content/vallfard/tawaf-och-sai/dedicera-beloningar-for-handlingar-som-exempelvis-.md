@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Rundvandring och löpning
 original_id: 1354
-description: >-
-  Fråga: När jag befann mig i Mecka och nyheten om att en kvinnlig släkting till
-  mig avlidit kom, då gjorde jag tawāf för henne. Jag gjorde sju rundor runt
-  Ka’bah och jag avsåg att de var för henne....
+description: 'Ja, du får göra ṭawāf med sju varv och avse att belöningen är för den muslim som du vill. Detta är en populär åsikt från imam Ahmads rättskola, att alla…'
 ---
 
 **Fråga:** När jag befann mig i Mecka och nyheten om att en kvinnlig släkting till mig avlidit kom, då gjorde jag *ṭawāf* för henne. Jag gjorde sju rundor runt Ka’bah och jag avsåg att de var för henne. Är det tillåtet?

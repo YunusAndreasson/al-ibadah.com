@@ -9,10 +9,7 @@ categories:
   - Vallfärd (Hajj)
   - Vallfärdsplikt
 original_id: 1318
-description: >-
-  Fråga: Det finns en kvinna från Saba' som är känd för sin rättfärdighet. Hon
-  är medelålders eller på väg att bli gammal. Hon skulle vilja göra den
-  obligatoriska vallfärden men hon har ingen maḥram...
+description: 'En kvinna som inte har en maḥram behöver inte vallfärda. Detta beror på att i hennes fall så innefattas mannen i "möjlighet att genomföra den" och förmågan…'
 ---
 
 **Fråga:** Det finns en kvinna från Saba' som är känd för sin rättfärdighet. Hon är medelålders eller på väg att bli gammal. Hon skulle vilja göra den obligatoriska vallfärden men hon har ingen *maḥram*. En framstående man i landet avser att vallfärda och han är känd för sin rättfärdighet. Med honom följer även kvinnor som är släkt med honom. Är det rätt om denna kvinna vallfärdar med personen gode man och personens kvinnliga släktingar, om hon är tillsammans med kvinnorna och mannen ser efter henne? Eller är hon inte längre skyldig att vallfärda om hon inte har en *maḥram*? Det är även viktigt att känna till att hon har de ekonomiska medel som krävs för att vallfärda. Vänligen, ge oss ett utlåtande och må Allāh välsigna er då vi är oeniga om detta.

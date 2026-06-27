@@ -8,10 +8,7 @@ categories:
   - Vallfärd (Hajj)
   - Helgtillståndet och avsikten
 original_id: 753
-description: >-
-  Fråga: Om någon som vill vallfärda kommer till Mina via Mecka den åttonde
-  thul-hijjah och personen gör ghusl i Mina, är det då tillräckligt för personen?
-  Svar: Han har inte gjort något fel om ha...
+description: 'Han har inte gjort något fel om han gjorde g̲husl i Minā. Men det är bättre att bada i sitt hem eller vid någon annan plats i Mecka före man går in i sin…'
 ---
 
 **Fråga:** Om någon som vill vallfärda kommer till *Minā* via Mecka den åttonde *d̲hul-ḥijjah* och personen gör *g̲husl* i *Minā*, är det då tillräckligt för personen?

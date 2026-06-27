@@ -7,9 +7,7 @@ categories:
   - Blandat
   - Ekonomi
 original_id: 1643
-description: 'Fråga: Är det tillåtet att ta räntelån? Detta gör många. Svar: För
- muslimer är det förbjudet att ta lån – oavsett om det är guld, silver, eller
- papperspengar – med villkor att mer än vad s...'
+description: 'För muslimer är det förbjudet att ta lån – oavsett om det är guld, silver, eller papperspengar – med villkor att mer än vad som har lånats ska återlämnas.'
 ---
 
 **Fråga:** Är det tillåtet att ta räntelån? Detta gör många.

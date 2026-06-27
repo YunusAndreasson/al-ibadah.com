@@ -9,10 +9,7 @@ categories:
   - Blandat
   - Utveckling
 original_id: 1483
-description: >-
-  Fråga: När jag börjar be så hör jag viskningar och tankarna börjar irra.
-  Ibland vet jag inte vad jag reciterat eller hur många bönecykler jag har bett.
-  Vänligen, berätta för mig vad jag bör göra. ...
+description: 'Det är föreskrivet att troende – män som kvinnor – närmar sig bönen med ödmjukhet inför Allāh och tänker på att de står inför Herren.'
 ---
 
 **Fråga:** När jag börjar be så hör jag viskningar och tankarna börjar irra. Ibland vet jag inte vad jag reciterat eller hur många bönecykler jag har bett. Vänligen, berätta för mig vad jag bör göra.

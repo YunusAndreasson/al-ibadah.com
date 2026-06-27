@@ -6,10 +6,7 @@ categories:
   - Renhet (Tahārah)
   - Tvagning
 original_id: 498
-description: >-
-  Fråga: Finns det någon åkallan som ska reciteras under tvagningen? Svar: All
-  lovprisan tillhör Allāh. Det finns inga bevis för att profeten – över honom
-  vare Allāhs frid och välsignelser – l...
+description: 'All lovprisan tillhör Allāh. Det finns inga bevis för att profeten – över honom vare Allāhs frid och välsignelser – läste någon åkallan under tvagningen…'
 ---
 
 **Fråga:** Finns det någon åkallan som ska reciteras under tvagningen?

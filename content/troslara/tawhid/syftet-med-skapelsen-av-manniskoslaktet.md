@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Monoteism
 original_id: 913
-description: >-
-  Fråga: Vilket är syftet med skapelsen av människan? Svar: I Allāhs den
-  Nåderikes den Barmhärtiges namn. All lovprisan tillhör Allāh, Herren över allt
-  som existerar. Och jag ber Allāh sända fri...
+description: 'I Allāhs den Nåderikes den Barmhärtiges namn. All lovprisan tillhör Allāh, Herren över allt som existerar.'
 ---
 
 **Fråga:** Vilket är syftet med skapelsen av människan?

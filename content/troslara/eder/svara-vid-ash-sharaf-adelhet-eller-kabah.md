@@ -8,10 +8,7 @@ categories:
   - Troslära (´Aqīdah)
   - Eder
 original_id: 110
-description: >-
-  Fråga: Är det tillåtet att svära vid ash-Sharaf eller vid Ka’bah? Svar: Det är
-  inte tillåtet att svära vid något[n] eller annat[n] än Allāh – sannerligen är
-  det shirk. När man svär vid något...
+description: 'Det är inte tillåtet att svära vid något eller någon annan än Allāh – sannerligen är det s̲hirk.'
 ---
 
 **Fråga:** Är det tillåtet att svära vid *ash-Sharaf* eller vid Ka’bah?
