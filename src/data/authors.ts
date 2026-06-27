@@ -10,7 +10,8 @@
  * Consumed by `src/lib/structured-data.ts` (schema.org author / Person nodes) and
  * `src/components/content/ArticleRenderer.astro` (byline → biography link).
  *
- * The `sameAs` URLs were verified against the Wikidata API (entity ids shown).
+ * `sameAs` URLs and `birthDate`/`deathDate` were verified against the Wikidata API
+ * (entity id shown beside each `sameAs` set).
  */
 
 export interface AuthorEntity {
@@ -22,6 +23,10 @@ export interface AuthorEntity {
   bioSlug?: string
   /** Title held, for Person entities. */
   jobTitle?: string
+  /** ISO birth date (YYYY or YYYY-MM-DD), for Person entities — from Wikidata. */
+  birthDate?: string
+  /** ISO death date (YYYY or YYYY-MM-DD), for Person entities — from Wikidata. */
+  deathDate?: string
   /** Byline strings as they appear in content frontmatter (incl. spelling variants). */
   names: string[]
   /** Verified authoritative records (Wikidata id in a comment beside each set). */
@@ -34,6 +39,8 @@ const ENTITIES: AuthorEntity[] = [
     name: 'Muḥammad bin Sālih al-´Uthaymīn',
     bioSlug: 'shaykh-muhammad-ibn-salih-ibn-uthaymin',
     jobTitle: 'Islamisk lärd',
+    birthDate: '1929-03-08',
+    deathDate: '2001-01-11',
     names: ['Muḥammad bin Sālih al-´Uthaymīn'],
     sameAs: [
       'https://www.wikidata.org/wiki/Q1398150',
@@ -46,6 +53,8 @@ const ENTITIES: AuthorEntity[] = [
     name: '´Abdul-´Azīz Ibn Bāz',
     bioSlug: 'shaykh-abdul-aziz-ibn-abdullah-ibn-abdur-rahman-ib',
     jobTitle: 'Islamisk lärd',
+    birthDate: '1912-11-22',
+    deathDate: '1999-05-13',
     names: ['Ibn ´Abdullāh Ibn Bāz', 'Ibn ´Abdullah Ibn Bāz'],
     sameAs: [
       'https://www.wikidata.org/wiki/Q307193',
@@ -71,6 +80,8 @@ const ENTITIES: AuthorEntity[] = [
     name: '´Abdullāh Ibn ´Abdur-Rahman al-Jibrīn',
     bioSlug: 'ibn-abdur-rahman-al-jibrin',
     jobTitle: 'Islamisk lärd',
+    birthDate: '1933',
+    deathDate: '2009-07-13',
     names: ['Ibn ´Abdur-Rahman al-Jibrīn', 'Ibn ´Abdur-Rahman al-Jibrin'],
     sameAs: [
       'https://www.wikidata.org/wiki/Q317657',
@@ -82,6 +93,7 @@ const ENTITIES: AuthorEntity[] = [
     type: 'Person',
     name: 'Sālih al-Fawzān',
     jobTitle: 'Islamisk lärd',
+    birthDate: '1935-09-28',
     names: ['Dr. Sālih Ibn Fowzan Ibn ´Abdullah Ibn Fowzan'],
     sameAs: [
       'https://www.wikidata.org/wiki/Q61589',
@@ -94,6 +106,8 @@ const ENTITIES: AuthorEntity[] = [
     name: 'Ibn Taymiyyah',
     bioSlug: 'shaykh-al-islam-ibn-taymiyyah',
     jobTitle: 'Islamisk lärd',
+    birthDate: '1263-01-22',
+    deathDate: '1328-09-26',
     names: ['Shaykh ul-islām Ibn Taymiyyah', 'S̲hayk̲h ul-islām Ibn Taymiyyah'],
     sameAs: [
       'https://www.wikidata.org/wiki/Q491558',
@@ -106,6 +120,8 @@ const ENTITIES: AuthorEntity[] = [
     name: 'Muḥammad Nāsir al-Dīn al-Albānī',
     bioSlug: 'muhammad-nasir-ud-din-al-albani',
     jobTitle: 'Islamisk lärd',
+    birthDate: '1914-08-16',
+    deathDate: '1999-10-03',
     names: ['Shaykh Muḥammad Nāsir al-Dīn al-Albāni', 'Shaykh al-Albāni', 'al-Albāni'],
     sameAs: [
       'https://www.wikidata.org/wiki/Q560078',
@@ -118,6 +134,8 @@ const ENTITIES: AuthorEntity[] = [
     name: 'Ibn al-Qayyim al-Djawziyyah',
     bioSlug: 'ibn-qayyim-al-jawziyyah',
     jobTitle: 'Islamisk lärd',
+    birthDate: '1292-01-29',
+    deathDate: '1350-09-16',
     names: ['Ibn Qayyim al-Jawziyyah', 'Ibn al-Qayyim'],
     sameAs: [
       'https://www.wikidata.org/wiki/Q119679',
@@ -138,8 +156,8 @@ const NON_AUTHORS = new Set(['n/a', 'na', 'sammanstallning'])
 function normalize(input: string): string {
   return input
     .normalize('NFD')
-    .replace(/[̀-̲ͯ]/g, '')
-    .replace(/[´`'’‘ʿʾʻ]/g, '')
+    .replace(/[̀-ͯ]/g, '') // combining diacritical marks
+    .replace(/[´`'’‘ʿʾʻ]/g, '') // ´ ayn/hamza and assorted apostrophes
     .toLowerCase()
     .replace(/\s+/g, ' ')
     .trim()

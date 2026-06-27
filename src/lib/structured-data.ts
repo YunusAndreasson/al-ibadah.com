@@ -18,6 +18,8 @@ function buildAuthorNode(author?: string) {
     name: entity.name,
     ...(entity.bioSlug && { url: `${SITE_URL}/biografier/${entity.bioSlug}/` }),
     ...(entity.type === 'Person' && entity.jobTitle && { jobTitle: entity.jobTitle }),
+    ...(entity.birthDate && { birthDate: entity.birthDate }),
+    ...(entity.deathDate && { deathDate: entity.deathDate }),
     sameAs: entity.sameAs,
   }
 }
@@ -163,6 +165,8 @@ export function buildPersonSchema(entity: AuthorEntity) {
     url,
     sameAs: entity.sameAs,
     ...(entity.type === 'Person' && entity.jobTitle && { jobTitle: entity.jobTitle }),
+    ...(entity.birthDate && { birthDate: entity.birthDate }),
+    ...(entity.deathDate && { deathDate: entity.deathDate }),
   }
 }
 
