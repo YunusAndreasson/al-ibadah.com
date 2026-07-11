@@ -1,14 +1,43 @@
 ---
+// The four personal social profiles — same order everywhere. rel="me" ties the
+// outbound links to the maker's verified identity (andreassonphoto.com/#person).
+const socials = [
+  { label: 'GitHub', href: 'https://github.com/YunusAndreasson' },
+  { label: 'X', href: 'https://x.com/YunusAndreasson' },
+  { label: 'Instagram', href: 'https://www.instagram.com/andreasson.photo/' },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/yunusandreasson/' },
+]
 ---
 
 <footer class="w-full mt-auto safe-bottom">
-  <div class="max-w-3xl mx-auto px-4 pt-8 pb-20">
+  <div class="max-w-3xl mx-auto px-4 pt-8 pb-20 flex flex-col gap-3">
     <nav class="text-xs text-subtle-foreground flex flex-wrap gap-x-4 gap-y-2" aria-label="Sidfot">
       <a href="/om" class="nav-link">Om webbplatsen</a>
       <a href="/termer" class="nav-link">Ordlista</a>
       <a href="/biografier" class="nav-link">Biografier</a>
       <a href="/rss.xml" class="nav-link">RSS</a>
       <a href="/samlingsvolym.pdf" class="nav-link" download>Ladda ner PDF</a>
+    </nav>
+    <nav
+      class="text-xs text-subtle-foreground flex flex-wrap items-center gap-x-4 gap-y-2"
+      aria-label="Skaparen"
+    >
+      <a
+        href="https://andreassonphoto.com/about"
+        class="nav-link"
+        target="_blank"
+        rel="me noopener noreferrer"
+      >
+        Av Yunus Andreasson
+      </a>
+      <span class="uppercase tracking-wider" aria-hidden="true">Följ</span>
+      {
+        socials.map((s) => (
+          <a href={s.href} class="nav-link" target="_blank" rel="me noopener noreferrer">
+            {s.label}
+          </a>
+        ))
+      }
     </nav>
   </div>
 </footer>

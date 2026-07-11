@@ -40,10 +40,37 @@ const PUBLISHER = {
   },
 }
 
+// The person who builds and maintains the site. Same @id across every one of his
+// projects so search engines consolidate the identity; personal socials live here
+// as `sameAs`, never on the Organization node.
+const MAKER_ID = 'https://andreassonphoto.com/#person'
+
+/**
+ * The maker's Person node. Emitted once per site (homepage graph) and referenced
+ * by the Organization via `creator`. The @id is identical on every project.
+ */
+export function buildMakerSchema() {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Person',
+    '@id': MAKER_ID,
+    name: 'Yunus Andreasson',
+    alternateName: ['Jonas Yūnus Andrèasson'],
+    url: 'https://andreassonphoto.com',
+    sameAs: [
+      'https://github.com/YunusAndreasson',
+      'https://x.com/YunusAndreasson',
+      'https://www.instagram.com/andreasson.photo/',
+      'https://www.linkedin.com/in/yunusandreasson/',
+    ],
+  }
+}
+
 export function buildOrganizationSchema() {
   return {
     '@context': 'https://schema.org',
     ...PUBLISHER,
+    creator: { '@id': MAKER_ID },
   }
 }
 
