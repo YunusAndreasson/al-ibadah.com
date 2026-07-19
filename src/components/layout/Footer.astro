@@ -1,12 +1,7 @@
 ---
-// The four personal social profiles — same order everywhere. rel="me" ties the
-// outbound links to the maker's verified identity (andreassonphoto.com/#person).
-const socials = [
-  { label: 'GitHub', href: 'https://github.com/YunusAndreasson' },
-  { label: 'X', href: 'https://x.com/YunusAndreasson' },
-  { label: 'Instagram', href: 'https://www.instagram.com/andreasson.photo/' },
-  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/yunusandreasson/' },
-]
+// A single quiet maker credit. The byline links to the maker's projects page,
+// which lists his other work — so this footer stays one line, not a link farm.
+// rel="me" ties the outbound link to the maker's verified identity.
 ---
 
 <footer class="w-full mt-auto safe-bottom">
@@ -23,21 +18,13 @@ const socials = [
       aria-label="Skaparen"
     >
       <a
-        href="https://andreassonphoto.com/about"
+        href="https://andreassonphoto.com/projects"
         class="nav-link"
         target="_blank"
         rel="me noopener noreferrer"
       >
         Av Yunus Andreasson
       </a>
-      <span class="uppercase tracking-wider" aria-hidden="true">Följ</span>
-      {
-        socials.map((s) => (
-          <a href={s.href} class="nav-link" target="_blank" rel="me noopener noreferrer">
-            {s.label}
-          </a>
-        ))
-      }
     </nav>
   </div>
 </footer>
