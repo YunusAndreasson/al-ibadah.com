@@ -17,9 +17,17 @@ pnpm lint:fix         # Biome check --write
 pnpm extract:glossary # Regenerate src/data/glossary.ts from content + italicized-terms.json
 pnpm validate         # Validate frontmatter and markdown structure
 pnpm validate:terms   # Validate Arabic transliteration consistency
+pnpm verify           # lint + typecheck + build (full check — run before finishing)
+pnpm deploy           # Build + PDFs + wrangler pages deploy (see Deploy)
 ```
 
 There are no tests. Validation is done via `pnpm validate` and `pnpm validate:terms` (both run automatically during `pnpm build`).
+
+## Deploy
+
+`pnpm deploy` builds the site, generates PDFs (`pnpm pdf`), then uploads `dist/`
+with `wrangler pages deploy dist --project-name al-ibadah --branch main`.
+Cloudflare Pages, direct upload — no CI. Requires wrangler auth (`wrangler login`).
 
 ## Architecture
 

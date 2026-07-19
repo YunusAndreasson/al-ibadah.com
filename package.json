@@ -10,6 +10,7 @@
     "build": "pnpm generate:redirects && pnpm validate && pnpm validate:terms && astro build",
     "preview": "astro preview",
     "typecheck": "astro check && tsc --noEmit",
+    "verify": "pnpm lint && pnpm typecheck && pnpm build",
     "lint": "biome check .",
     "lint:fix": "biome check --write .",
     "format": "biome format --write .",
