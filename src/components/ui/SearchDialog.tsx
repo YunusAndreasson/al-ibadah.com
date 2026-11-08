@@ -1,6 +1,7 @@
 import type { ComponentChildren } from 'preact'
 import { useEffect, useMemo, useRef, useState } from 'preact/hooks'
 import { ArticleIcon, SearchIcon, SparklesIcon, SpinnerIcon } from '~/components/ui/icons'
+import { findNormalized, normalizeArabic } from '~/lib/normalize-arabic'
 
 interface SearchItem {
   title: string
@@ -34,27 +35,22 @@ function Kbd({ children }: { children: ComponentChildren }) {
   )
 }
 
-// Split text on the matched query (case-insensitive, literal) and bold the matches.
+// Bold the matches of the query, matched the way the filter matches (case and
+// transliteration marks ignored, so "tarawih" bolds "tarāwīḥ").
 // Returns Preact nodes — no raw HTML, so no XSS risk and no broken tags.
 function highlight(text: string, query: string) {
-  const q = query.trim()
-  if (!q) return text
-  const lower = text.toLowerCase()
-  const needle = q.toLowerCase()
+  const ranges = findNormalized(text, query)
+  if (ranges.length === 0) return text
   const parts: ComponentChildren[] = []
   let from = 0
-  let idx = lower.indexOf(needle, from)
-  if (idx === -1) return text
-  let key = 0
-  while (idx !== -1) {
-    if (idx > from) parts.push(text.slice(from, idx))
+  for (const [start, end] of ranges) {
+    if (start > from) parts.push(text.slice(from, start))
     parts.push(
-      <strong key={key++} className="font-semibold text-foreground">
-        {text.slice(idx, idx + q.length)}
+      <strong key={start} className="font-semibold text-foreground">
+        {text.slice(start, end)}
       </strong>
     )
-    from = idx + q.length
-    idx = lower.indexOf(needle, from)
+    from = end
   }
   if (from < text.length) parts.push(text.slice(from))
   return parts
@@ -88,16 +84,27 @@ export function SearchDialog({ open, onClose }: SearchDialogProps) {
     return map
   }, [searchIndex])
 
-  // Instant, in-browser title matches (no network).
+  // Titles and terms folded once per index, not per keystroke.
+  const foldedIndex = useMemo(
+    () =>
+      searchIndex.map((item) => ({
+        item,
+        title: normalizeArabic(item.title),
+        term: normalizeArabic(item.arabicTerm ?? ''),
+      })),
+    [searchIndex]
+  )
+
+  // Instant, in-browser title matches (no network). Transliteration marks are
+  // ignored, so "tarawih" finds "tarāwīḥ". Articles whose own title matches come
+  // before those that match only through their subcategory's Arabic term.
   const titleMatches = useMemo(() => {
-    if (!query.trim()) return []
-    const q = query.toLowerCase()
-    return searchIndex
-      .filter(
-        (item) => item.title.toLowerCase().includes(q) || item.arabicTerm?.toLowerCase().includes(q)
-      )
-      .slice(0, 10)
-  }, [query, searchIndex])
+    const q = normalizeArabic(query.trim())
+    if (!q) return []
+    const inTitle = foldedIndex.filter(({ title }) => title.includes(q))
+    const inTerm = foldedIndex.filter(({ title, term }) => !title.includes(q) && term.includes(q))
+    return [...inTitle, ...inTerm].slice(0, 10).map(({ item }) => item)
+  }, [query, foldedIndex])
 
   // Semantic AI Search results, debounced, via the /api/search Pages Function.
   useEffect(() => {
