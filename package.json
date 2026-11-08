@@ -1,8 +1,19 @@
 {
   "name": "al-ibadah",
   "version": "0.2.0",
+  "description": "Islamic rulings in Swedish, set for reading: a static Astro site on Cloudflare Pages",
+  "homepage": "https://al-ibadah.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YunusAndreasson/al-ibadah.com.git"
+  },
+  "license": "MIT",
   "private": true,
   "type": "module",
+  "packageManager": "pnpm@11.28.4",
+  "engines": {
+    "node": ">=22.23.4"
+  },
   "scripts": {
     "dev": "astro dev",
     "validate": "tsx scripts/validate-content.ts",
@@ -10,7 +21,7 @@
     "build": "pnpm generate:redirects && pnpm validate && pnpm validate:terms && astro build",
     "preview": "astro preview",
     "typecheck": "astro check && tsc --noEmit",
-    "verify": "pnpm lint && pnpm typecheck && pnpm build",
+    "verify": "pnpm lint && pnpm knip && pnpm typecheck && pnpm build",
     "lint": "biome check .",
     "lint:fix": "biome check --write .",
     "format": "biome format --write .",
@@ -20,39 +31,41 @@
     "export:r2": "tsx scripts/export-to-r2.ts",
     "upload:items": "bash scripts/upload-items.sh",
     "pdf": "tsx scripts/generate-pdf.ts",
+    "og:image": "bash scripts/og-image.sh",
     "deploy": "pnpm build && pnpm pdf && wrangler pages deploy dist --project-name al-ibadah --branch main --commit-dirty=true",
     "knip": "knip"
   },
   "dependencies": {
-    "@astrojs/preact": "^5.1.3",
-    "@astrojs/rss": "^4.0.18",
-    "@astrojs/sitemap": "^3.7.2",
-    "@fontsource-variable/inter": "^5.2.8",
-    "@fontsource-variable/source-serif-4": "^5.2.9",
-    "@fontsource/amiri": "^5.2.8",
-    "astro": "^6.3.7",
+    "@astrojs/markdown-remark": "^7.3.6",
+    "@astrojs/preact": "^6.1.2",
+    "@astrojs/rss": "^4.0.19",
+    "@astrojs/sitemap": "^3.7.4",
+    "@fontsource-variable/inter": "^5.3.0",
+    "@fontsource-variable/source-serif-4": "^5.3.1",
+    "@fontsource/amiri": "^5.3.0",
+    "astro": "^7.4.7",
     "hijri-rrule": "^1.0.4",
-    "preact": "^10.29.2"
+    "preact": "^11.2.0"
   },
   "devDependencies": {
-    "@astrojs/check": "^0.9.9",
-    "@biomejs/biome": "^2.4.15",
-    "@tailwindcss/vite": "^4.3.0",
-    "@types/hast": "^3.0.4",
+    "@astrojs/check": "^0.9.12",
+    "@biomejs/biome": "^2.6.6",
+    "@tailwindcss/vite": "^4.3.5",
+    "@types/hast": "^3.0.5",
     "@types/mdast": "^4.0.4",
-    "@types/node": "^25.9.1",
+    "@types/node": "^26.6.6",
     "gray-matter": "^4.0.3",
-    "knip": "^6.14.2",
+    "knip": "^6.44.2",
     "rehype-raw": "^7.0.0",
     "rehype-slug": "^6.0.0",
     "remark-gfm": "^4.0.1",
     "remark-parse": "^11.0.0",
-    "remark-smartypants": "^3.0.2",
-    "tailwindcss": "^4.3.0",
-    "tsx": "^4.22.3",
+    "remark-smartypants": "^3.0.3",
+    "tailwindcss": "^4.3.5",
+    "tsx": "^4.23.15",
     "typescript": "^6.0.3",
     "unified": "^11.0.5",
-    "unist-util-visit": "^5.1.0",
-    "wrangler": "^4.94.0"
+    "unist-util-visit": "^5.2.0",
+    "wrangler": "^4.158.0"
   }
 }

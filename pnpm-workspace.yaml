@@ -2,5 +2,10 @@ allowBuilds:
   esbuild: true
   sharp: true
   workerd: true
-overrides:
-  tinyexec: 1.0.2
+packageExtensions:
+  # astro2tsx (behind `astro check`) pins @emnapi/core but leaves @emnapi/runtime to
+  # a peer range that admits 2.0 prereleases, so pnpm pairs core 1.x with runtime
+  # 2.0-beta and the WASM module fails to load. Give it the matching runtime.
+  "@astrojs/astro2tsx@0.1.3":
+    dependencies:
+      "@emnapi/runtime": 1.11.3

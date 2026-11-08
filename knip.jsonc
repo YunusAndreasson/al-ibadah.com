@@ -1,0 +1,8 @@
+{
+  "$schema": "https://unpkg.com/knip@6/schema.json",
+  // Cloudflare Pages Functions: entry points by file-system convention.
+  "entry": ["functions/**/*.ts"],
+  "ignore": ["scripts/*.ts"],
+  // Read from node_modules by scripts/subset-fonts.py, which knip can't see.
+  "ignoreDependencies": ["@fontsource-variable/inter", "@fontsource-variable/source-serif-4"]
+}

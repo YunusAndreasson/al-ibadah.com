@@ -14,7 +14,7 @@
  *   tsx scripts/generate-descriptions.ts --sample        # preview a few, write nothing
  *   tsx scripts/generate-descriptions.ts --write A|B     # apply chosen style to all
  */
-import { readFileSync, readdirSync, writeFileSync } from 'node:fs'
+import { readdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 import matter from 'gray-matter'
 
@@ -56,7 +56,11 @@ function extractQA(body: string): { q: string; a: string } | null {
 function smartTruncate(text: string, max = MAX): string {
   if (text.length <= max) return text
   const window = text.slice(0, max + 1)
-  const sentence = Math.max(window.lastIndexOf('. '), window.lastIndexOf('! '), window.lastIndexOf('? '))
+  const sentence = Math.max(
+    window.lastIndexOf('. '),
+    window.lastIndexOf('! '),
+    window.lastIndexOf('? ')
+  )
   if (sentence >= 90) return text.slice(0, sentence + 1)
   const space = window.lastIndexOf(' ')
   return `${text.slice(0, space > 0 ? space : max).trimEnd()}…`
@@ -153,7 +157,12 @@ if (mode === '--write' && (process.argv[3] === 'A' || process.argv[3] === 'B')) 
     const onlyDesc = Object.keys(before.data).every(
       (k) => k === 'description' || JSON.stringify(before.data[k]) === JSON.stringify(after.data[k])
     )
-    if (!sameKeys || !onlyDesc || before.content !== after.content || after.data.description !== newDesc) {
+    if (
+      !sameKeys ||
+      !onlyDesc ||
+      before.content !== after.content ||
+      after.data.description !== newDesc
+    ) {
       integrity++
       console.warn(`  ! integrity skip: ${file}`)
       continue

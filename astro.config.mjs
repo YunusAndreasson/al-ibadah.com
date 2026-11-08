@@ -1,4 +1,5 @@
 import { execSync } from 'node:child_process'
+import { unified } from '@astrojs/markdown-remark'
 import preact from '@astrojs/preact'
 import sitemap from '@astrojs/sitemap'
 import tailwindcss from '@tailwindcss/vite'
@@ -62,16 +63,20 @@ export default defineConfig({
     },
   },
   markdown: {
-    remarkPlugins: [
-      remarkGfm,
-      [remarkSmartypants, { quotes: true, dashes: 'oldschool', ellipses: true, backticks: true }],
-      remarkGlossaryTerms,
-    ],
-    rehypePlugins: [rehypeRaw, rehypeSlug, rehypeQaLabels],
-    remarkRehype: {
-      allowDangerousHtml: true,
-      footnoteLabel: 'Fotnoter',
-      footnoteLabelProperties: { className: ['sr-only'] },
-    },
+    // Astro 7 defaults to Sätteri; the glossary and Q&A plugins are remark/rehype
+    // plugins, so the content stays on the unified pipeline.
+    processor: unified({
+      remarkPlugins: [
+        remarkGfm,
+        [remarkSmartypants, { quotes: true, dashes: 'oldschool', ellipses: true, backticks: true }],
+        remarkGlossaryTerms,
+      ],
+      rehypePlugins: [rehypeRaw, rehypeSlug, rehypeQaLabels],
+      remarkRehype: {
+        allowDangerousHtml: true,
+        footnoteLabel: 'Fotnoter',
+        footnoteLabelProperties: { className: ['sr-only'] },
+      },
+    }),
   },
 })
