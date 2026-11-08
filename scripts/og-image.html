@@ -1,0 +1,103 @@
+<!doctype html>
+<!--
+  The social card, public/og-image.png (1200×630). Rendered by scripts/og-image.sh.
+  Colours, fonts and the wavy glossary underline are the site's own (src/styles/app.css).
+-->
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <style>
+      @font-face {
+        font-family: 'Inter';
+        src: url('../src/fonts/inter-latin.woff2') format('woff2');
+        font-weight: 100 900;
+      }
+      @font-face {
+        font-family: 'Source Serif';
+        src: url('../src/fonts/source-serif-latin.woff2') format('woff2');
+        font-weight: 200 900;
+      }
+      @font-face {
+        font-family: 'Source Serif';
+        src: url('../src/fonts/source-serif-italic-latin.woff2') format('woff2');
+        font-weight: 200 900;
+        font-style: italic;
+      }
+      @font-face {
+        font-family: 'Amiri';
+        src: url('../node_modules/@fontsource/amiri/files/amiri-arabic-400-normal.woff2')
+          format('woff2');
+      }
+      :root {
+        --background: oklch(0.97 0.01 75);
+        --foreground: oklch(0.25 0.02 55);
+        --muted: oklch(0.52 0.02 55);
+        --subtle: oklch(0.64 0.015 55);
+        --border: oklch(0.9 0.01 75);
+      }
+      * {
+        margin: 0;
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        width: 1200px;
+        height: 630px;
+        overflow: hidden;
+        background: var(--background);
+        color: var(--foreground);
+      }
+      body {
+        position: relative;
+        padding: 84px 96px;
+        display: flex;
+        flex-direction: column;
+      }
+      .name {
+        font: 700 104px/1 'Inter', sans-serif;
+        letter-spacing: -0.035em;
+      }
+      .arabic {
+        position: absolute;
+        top: 52px;
+        right: 96px;
+        font: 400 120px/1.4 'Amiri', serif;
+        color: var(--subtle);
+        direction: rtl;
+      }
+      .lede {
+        margin-top: 48px;
+        max-width: 880px;
+        font: 400 42px/1.45 'Source Serif', serif;
+      }
+      .term {
+        font-style: italic;
+        text-decoration: underline wavy;
+        text-decoration-color: color-mix(in oklch, var(--muted) 55%, transparent);
+        text-decoration-thickness: 2px;
+        text-underline-offset: 10px;
+      }
+      .foot {
+        margin-top: auto;
+        padding-top: 28px;
+        border-top: 2px solid var(--border);
+        display: flex;
+        justify-content: space-between;
+        font: 500 26px/1 'Inter', sans-serif;
+        color: var(--muted);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="name">al-Ibadah</div>
+    <div class="arabic">العبادة</div>
+    <p class="lede">
+      Religiösa utlåtanden för svensktalande muslimer, grundade i Koranen och profetens
+      <span class="term">sunnah</span>.
+    </p>
+    <div class="foot">
+      <span>Troslära · Renhet · Bön · Allmosa · Fasta · Vallfärd</span>
+      <span>al-ibadah.com</span>
+    </div>
+  </body>
+</html>
