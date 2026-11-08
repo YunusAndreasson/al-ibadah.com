@@ -1,0 +1,31 @@
+name: Rättelse i en text
+description: Ett stavfel, en felöversättning, en translitterering som avviker eller en felaktig källhänvisning.
+labels: [rättelse]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Länk till artikeln
+      placeholder: https://al-ibadah.com/fasta/…
+    validations:
+      required: true
+  - type: textarea
+    id: now
+    attributes:
+      label: Vad som står
+      description: Kopiera meningen som den står i dag.
+    validations:
+      required: true
+  - type: textarea
+    id: should
+    attributes:
+      label: Vad det borde stå
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Varför
+      description: >
+        Behövs bara om det inte är uppenbart, till exempel vid en felöversättning:
+        hänvisa gärna till det arabiska originalet eller en annan källa.

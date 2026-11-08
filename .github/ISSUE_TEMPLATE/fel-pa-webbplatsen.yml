@@ -1,0 +1,28 @@
+name: Fel på webbplatsen
+description: Något på al-ibadah.com fungerar inte som det ska (sökning, menyer, sidor, PDF…).
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: Vad hände
+      description: Vad du gjorde, vad du väntade dig och vad som hände i stället.
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Länk
+      placeholder: https://al-ibadah.com/…
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Webbläsare och enhet
+      placeholder: Firefox 140 på Android, Safari på iPhone 15…
+  - type: textarea
+    id: more
+    attributes:
+      label: Övrigt
+      description: Skärmbild, felmeddelanden från konsolen eller annat som hjälper.

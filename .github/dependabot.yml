@@ -1,0 +1,26 @@
+# Weekly, grouped so a week's updates arrive as one or two pull requests. Each
+# runs the verify workflow; merge it when it's green.
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    ignore:
+      # `astro check` (pnpm typecheck) needs TypeScript's JS API, which the
+      # native TypeScript 7 compiler doesn't ship yet. Lift this once
+      # @astrojs/check supports 7.
+      - dependency-name: typescript
+        update-types: [version-update:semver-major]
+    groups:
+      astro:
+        patterns: ["astro", "@astrojs/*", "preact"]
+      dependencies:
+        patterns: ["*"]
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    groups:
+      actions:
+        patterns: ["*"]

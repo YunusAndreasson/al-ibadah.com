@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Rapportera en säkerhetsbrist
+    url: https://github.com/YunusAndreasson/al-ibadah.com/security/advisories/new
+    about: Privat, aldrig i ett öppet ärende (SECURITY.md).
+  - name: Religiösa frågor
+    url: https://al-ibadah.com/om/
+    about: Besvaras inte här. Vänd dig till lokala lärda eller erkända kunskapskällor.
