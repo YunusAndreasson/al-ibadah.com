@@ -1,7 +1,8 @@
 ---
-// A single quiet maker credit. The byline links to the maker's projects page,
-// which lists his other work — so this footer stays one line, not a link farm.
-// rel="me" ties the outbound link to the maker's verified identity.
+// A quiet maker line: the byline (to the projects page, which lists his other
+// work), a contact address and his GitHub — one line, not a link farm.
+// contact@ forwards to the maker (Cloudflare Email Routing). rel="me" ties the
+// outbound links to the maker's verified identity.
 ---
 
 <footer class="w-full mt-auto safe-bottom">
@@ -24,6 +25,15 @@
         rel="me noopener noreferrer"
       >
         Av Yunus Andreasson
+      </a>
+      <a href="mailto:contact@al-ibadah.com" class="nav-link">contact@al-ibadah.com</a>
+      <a
+        href="https://github.com/YunusAndreasson"
+        class="nav-link"
+        target="_blank"
+        rel="me noopener noreferrer"
+      >
+        GitHub
       </a>
     </nav>
   </div>
