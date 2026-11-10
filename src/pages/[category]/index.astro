@@ -72,7 +72,12 @@ const jsonLd = [
 ]
 ---
 
-<BaseLayout title={`${categoryName} - al-Ibadah`} description={categoryDescription} jsonLd={jsonLd}>
+<BaseLayout
+  title={`${categoryName} - al-Ibadah`}
+  description={categoryDescription}
+  jsonLd={jsonLd}
+  markdownPath={`/${category}.md`}
+>
   <PageLayout>
     <Breadcrumbs items={[{ label: 'Hem', href: '/' }]} />
 

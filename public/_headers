@@ -16,9 +16,18 @@
   Cache-Control: public, max-age=31536000, immutable
   Access-Control-Allow-Origin: *
 
+# Markdown twins and the agent site map (src/lib/agent-markdown.ts). Explicit
+# UTF-8 so agents don't mangle the transliteration diacritics.
+/*.md
+  Content-Type: text/markdown; charset=utf-8
+
+/llms.txt
+  Content-Type: text/plain; charset=utf-8
+
 # Security headers for all responses (no Cache-Control here - see note above)
 /*
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security: max-age=31536000; includeSubDomains
+  Link: </llms.txt>; rel="alternate"; type="text/plain"; title="llms.txt"

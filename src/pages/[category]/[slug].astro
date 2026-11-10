@@ -6,6 +6,7 @@ import PageLayout from '~/components/layout/PageLayout.astro'
 import { entityByBioSlug } from '~/data/authors'
 import BaseLayout from '~/layouts/BaseLayout.astro'
 import { CATEGORY_NAMES } from '~/lib/content-utils'
+import { lastmodFor } from '~/lib/git-lastmod'
 import { getRelatedArticles, type RelatedArticle } from '~/lib/related-articles'
 import {
   buildArticleSchema,
@@ -43,11 +44,13 @@ const breadcrumbItems = [
   { label: article.data.title, href: pageUrl },
 ]
 const qa = extractQA(article.body)
+const dateModified = lastmodFor(article.id)
 const articleSchema = qa
   ? buildFAQPageSchema({
       title: article.data.title,
       description: article.data.description,
       url: pageUrl,
+      dateModified,
       question: qa.question,
       answer: qa.answer,
       author: article.data.author,
@@ -57,6 +60,7 @@ const articleSchema = qa
       title: article.data.title,
       description: article.data.description,
       url: pageUrl,
+      dateModified,
       author: article.data.author,
       source: article.data.source,
     })
@@ -75,6 +79,7 @@ const jsonLd = [
   article
   author={article.data.author}
   jsonLd={jsonLd}
+  markdownPath={`/${article.id}.md`}
 >
   <PageLayout>
     <Breadcrumbs

@@ -1,4 +1,3 @@
-import { execSync } from 'node:child_process'
 import { unified } from '@astrojs/markdown-remark'
 import preact from '@astrojs/preact'
 import sitemap from '@astrojs/sitemap'
@@ -10,34 +9,7 @@ import remarkGfm from 'remark-gfm'
 import remarkSmartypants from 'remark-smartypants'
 import { rehypeQaLabels } from './plugins/rehype-qa-labels.ts'
 import { remarkGlossaryTerms } from './plugins/remark-glossary-terms.ts'
-
-// Map each content article (by URL-path id) to its most recent git commit date,
-// so the sitemap can emit <lastmod> and help search engines schedule crawls.
-// Runs once at build time; degrades gracefully when git history is unavailable
-// (e.g. a shallow CI checkout).
-function buildLastmodMap() {
-  const map = new Map()
-  try {
-    const out = execSync(
-      'git log --no-merges --date=short --format=COMMIT:%cd --name-only -- content',
-      { encoding: 'utf8', maxBuffer: 256 * 1024 * 1024 }
-    )
-    let date = null
-    for (const line of out.split('\n')) {
-      if (line.startsWith('COMMIT:')) {
-        date = line.slice(7)
-      } else if (date && line.startsWith('content/') && line.endsWith('.md')) {
-        const id = line.slice(8, -3) // strip 'content/' prefix and '.md' suffix
-        if (!map.has(id)) map.set(id, date) // newest commit first → first wins
-      }
-    }
-  } catch {
-    // No git history available — skip lastmod entirely.
-  }
-  return map
-}
-
-const lastmodById = buildLastmodMap()
+import { lastmodFor } from './src/lib/git-lastmod.ts'
 
 export default defineConfig({
   site: 'https://al-ibadah.com',
@@ -46,9 +18,12 @@ export default defineConfig({
   integrations: [
     preact(),
     sitemap({
+      // HTML pages only: the .md twins and llms.txt are for agents, not the index.
+      filter: (page) => !/\.(md|txt)$/.test(page),
       serialize(item) {
+        // <lastmod> from git history helps search engines schedule crawls.
         const path = new URL(item.url).pathname.replace(/^\/|\/$/g, '')
-        const lastmod = lastmodById.get(path)
+        const lastmod = lastmodFor(path)
         if (lastmod) item.lastmod = lastmod
         return item
       },

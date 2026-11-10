@@ -2,6 +2,9 @@ import { type AuthorEntity, findAuthorEntity, isNonAuthor } from '~/data/authors
 
 const SITE_URL = 'https://al-ibadah.com'
 const SITE_NAME = 'al-Ibadah'
+// Translations are CC BY 4.0 (content/LICENSE); stated so reusers and AI answer
+// engines know the text may be quoted with attribution.
+const LICENSE_URL = 'https://creativecommons.org/licenses/by/4.0/'
 
 /**
  * schema.org author node for a byline. A recognised scholar resolves to a rich
@@ -101,6 +104,8 @@ export function buildBreadcrumbSchema(items: Array<{ label: string; href: string
 
 interface ArticleOpts {
   title: string
+  /** ISO date of the last content change (git), when known. */
+  dateModified?: string
   description?: string
   url: string
   author?: string
@@ -118,6 +123,8 @@ export function buildArticleSchema(opts: ArticleOpts) {
     inLanguage: 'sv',
     isPartOf: { '@type': 'WebSite', name: SITE_NAME, url: SITE_URL },
     publisher: PUBLISHER,
+    license: LICENSE_URL,
+    ...(opts.dateModified && { dateModified: opts.dateModified }),
     ...(author && { author }),
     ...buildSourceNode(opts.source),
   }
@@ -125,6 +132,8 @@ export function buildArticleSchema(opts: ArticleOpts) {
 
 interface FAQPageOpts {
   title: string
+  /** ISO date of the last content change (git), when known. */
+  dateModified?: string
   description?: string
   url: string
   question: string
@@ -153,6 +162,8 @@ export function buildFAQPageSchema(opts: FAQPageOpts) {
         },
       },
     ],
+    license: LICENSE_URL,
+    ...(opts.dateModified && { dateModified: opts.dateModified }),
     ...(author && { author }),
     ...buildSourceNode(opts.source),
   }
