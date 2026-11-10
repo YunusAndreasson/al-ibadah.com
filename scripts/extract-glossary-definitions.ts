@@ -120,7 +120,7 @@ function extractFootnoteDefinitions(content: string): Map<string, string> {
 function isDefinitionNotReference(definition: string): boolean {
   // Filter out definitions that are just references (citations)
   const hadithRefPattern =
-    /^\*?[a-zA-ZāīūĀĪŪ'-]+\*?\s*\d+[:/]?\d*(\s*(och|and|,)\s*\*?[a-zA-ZāīūĀĪŪ'-]+\*?\s*\d+[:/]?\d*)*$/i
+    /^\*?[a-zA-ZāīūĀĪŪ'-]+\*?\s*\d+(?:[:/]\d*)?(\s*(och|and|,)\s*\*?[a-zA-ZāīūĀĪŪ'-]+\*?\s*\d+(?:[:/]\d*)?)*$/i
   if (hadithRefPattern.test(definition)) {
     return false
   }
