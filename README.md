@@ -26,7 +26,8 @@ al-Ibadah (العبادة, worship) collects fatwas by scholars such as Ibn Bāz
 Muḥammad bin Sālih al-´Uthaymīn and the Permanent Committee, translated into
 Swedish. Each article is one question and its answer, with the book it comes
 from. The texts are the product, so the site is built to be read: one serif
-column, no ads, no analytics and no cookies.
+column, no ads and no cookies. Visits are counted anonymously with Cloudflare
+Web Analytics, which stores no personal data.
 
 ## Features
 

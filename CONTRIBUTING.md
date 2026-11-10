@@ -56,8 +56,9 @@ The Pages Functions in `functions/` don't run under `pnpm dev`; test them with
   of knowledge, not in an issue.
 - **Generate answers.** The AI search returns the scholar's own text and links
   to it. It never writes prose of its own.
-- **Track readers.** No analytics and no cookies; the theme choice is kept in
-  `localStorage`.
+- **Track readers.** No ads and no cookies; the theme choice is kept in
+  `localStorage`. Visits are counted anonymously with Cloudflare Web
+  Analytics (cookieless, no personal data), and nothing beyond that is added.
 
 ## Security issues
 

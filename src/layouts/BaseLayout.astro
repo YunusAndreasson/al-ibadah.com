@@ -109,6 +109,14 @@ const ogImageURL = new URL('/og-image.png', Astro.site)
     </script>
 
     <ClientRouter />
+
+    <!-- Cloudflare Web Analytics: cookieless, stores no personal data. -->
+    <script
+      is:inline
+      defer
+      src="https://static.cloudflareinsights.com/beacon.min.js"
+      data-cf-beacon='{"token": "1368da636fe24c44b455d0982eeba97a"}'
+    ></script>
   </head>
   <body class="bg-background text-foreground antialiased min-h-screen">
     <slot />

@@ -99,6 +99,14 @@ File-based pages in `src/pages/`:
 - `[category]/[subcategory]/index.astro` — Article listing
 - `[category]/[slug].astro` and `[category]/[subcategory]/[slug].astro` — Article pages
 
+### Analytics
+
+`BaseLayout.astro` loads Cloudflare Web Analytics (`static.cloudflareinsights.com/beacon.min.js`,
+manual snippet — Cloudflare's auto-injection doesn't work here). It is cookieless and stores no
+personal data; the owner chose it deliberately, so keep it. No other analytics, ads or cookies.
+If a CSP is ever added, allow `https://static.cloudflareinsights.com` in script-src and
+`https://cloudflareinsights.com` in connect-src.
+
 ### Styling
 
 Tailwind CSS 4 via Vite plugin. Design tokens (colors, fonts) defined in `src/styles/app.css` using CSS custom properties with oklch colors. Light/dark mode via `.dark` class toggled by inline script in BaseLayout.
