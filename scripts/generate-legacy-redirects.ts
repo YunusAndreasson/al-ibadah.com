@@ -13,11 +13,15 @@
  * path under `content/` minus `.md` (see `src/pages/[category]/[slug].astro` and
  * `.../[subcategory]/[slug].astro`), and the canonical URL adds a trailing slash.
  *
+ * Articles removed as duplicates (`src/data/duplicate-redirects.ts`) keep their old
+ * id, pointed at the article that was kept.
+ *
  * Run: `pnpm generate:redirects` (also runs as the first step of `pnpm build`).
  */
 import { readdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 import matter from 'gray-matter'
+import { duplicateRedirects } from '../src/data/duplicate-redirects'
 
 const CONTENT_DIR = 'content'
 // The eight categories the content collection loads (see src/content.config.ts).
@@ -48,6 +52,7 @@ function findMarkdown(dir: string): string[] {
 }
 
 const map = new Map<number, string>()
+const articlePaths = new Set<string>()
 const collisions: string[] = []
 let scanned = 0
 let withoutId = 0
@@ -66,6 +71,9 @@ for (const category of CATEGORIES) {
       continue
     }
 
+    const path = `/${relNoExt}/`
+    articlePaths.add(path)
+
     const { data } = matter(readFileSync(file, 'utf8'))
     const id = data.original_id
     if (typeof id !== 'number') {
@@ -73,11 +81,26 @@ for (const category of CATEGORIES) {
       continue
     }
 
-    const path = `/${relNoExt}/`
     const existing = map.get(id)
     if (existing && existing !== path) collisions.push(`#${id}: ${existing} vs ${path}`)
     map.set(id, path)
   }
+}
+
+// Removed duplicates: the copy's old id goes straight to the article that was kept.
+const badDuplicates: string[] = []
+for (const { from, to, id } of duplicateRedirects) {
+  if (articlePaths.has(from)) badDuplicates.push(`${from} is still an article`)
+  if (!articlePaths.has(to)) badDuplicates.push(`${from} → ${to}, which is not an article`)
+  const existing = map.get(id)
+  if (existing && existing !== to) collisions.push(`#${id}: ${existing} vs ${to}`)
+  map.set(id, to)
+}
+
+if (badDuplicates.length > 0) {
+  console.error(`\n✖ src/data/duplicate-redirects.ts is out of date — refusing to generate:`)
+  for (const b of badDuplicates) console.error(`  ${b}`)
+  process.exit(1)
 }
 
 if (collisions.length > 0) {

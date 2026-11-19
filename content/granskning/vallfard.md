@@ -3,7 +3,7 @@
 ## Status
 
 - Startdatum: 2026-01-18
-- Filer totalt: 284
+- Filer totalt: 276
 - Granskade: 0
 
 ## Filer
@@ -46,7 +46,6 @@
 
 - [ ] anledningen-till-att-kabah-kallas-for-allahs-hus.md
 - [ ] ar-rafth-al-fusuq-och-al-jidal-under-vallfarden.md
-- [ ] den-svarta-stenens-ursprung-2.md
 - [ ] den-svarta-stenens-ursprung.md
 - [ ] forkorta-bonen-under-vallfarden.md
 - [ ] konvenans-som-den-resande-bor-ta-hansyn-till.md
@@ -69,7 +68,6 @@
 - [ ] delar-av-ogonlocken-som-faller-av.md
 - [ ] gottgorelser-efter-misstag-i-ihram.md
 - [ ] intim-samvaro-med-en-kvinna-efter-tawaful-ifadhah.md
-- [ ] klippa-naglarna-under-ihram-2.md
 - [ ] klippa-naglarna-under-ihram.md
 - [ ] krav-pa-den-som-utfort-umrah-i-vanliga-klader.md
 - [ ] muhrim-som-tappar-har.md
@@ -102,7 +100,6 @@
 - [ ] bada-innan-man-gar-in-iihramar-battre.md
 - [ ] bara-en-rem-eller-ett-balte.md
 - [ ] befinner-man-sig-i-mina-trader-man-in-iihramdarifr.md
-- [ ] bonen-forihramar-inte-ett-villkor-for-att-den-skal-2.md
 - [ ] bonen-forihramar-inte-ett-villkor-for-att-den-skal.md
 - [ ] fel-som-begas-nar-man-gar-in-iihramfor-pilgrimsfar.md
 - [ ] fruktar-att-inte-kunna-utfora-sina-plikter-under-i.md
@@ -170,7 +167,6 @@
 ### mojlighet-att-vallfarda
 
 - [ ] anstalld-som-vallfardar-utan-arbetsgivarens-tillst.md
-- [ ] formagan-att-kunna-vallfarda-2.md
 - [ ] formagan-att-kunna-vallfarda.md
 - [ ] kraver-jobbet-ens-narvaro-ar-det-tillatet-att-skju.md
 - [ ] kvinna-som-vallfardar-utan-mahram.md
@@ -245,7 +241,6 @@
 - [ ] har-en-skuld-och-vill-vallfarda.md
 - [ ] innehade-stulna-pengar-och-vallfardade-for-dem.md
 - [ ] lana-pengar-for-att-vallfarda.md
-- [ ] pilgrimsfarden-for-den-som-har-skulder-2.md
 - [ ] pilgrimsfarden-for-den-som-har-skulder.md
 - [ ] skuldsatt-person-som-vill-vallfarda.md
 - [ ] vallfard-innan-ett-lan-har-betalats-tillbaka.md
@@ -288,7 +283,6 @@
 - [ ] frivilliga-boner-eller-tawaf.md
 - [ ] ge-bort-beloningen-for-tawaf-till-nagon-annan.md
 - [ ] gjorde-fem-varv-for-sai-och-begav-sig-sedan-till-p.md
-- [ ] glomde-sai-2.md
 - [ ] glomde-sai.md
 - [ ] kastar-fore-midnatt-stenar-pa-den-stora-pelaren-oc.md
 - [ ] kunde-inte-resa-efter-han-utfort-tawaful-wada.md
@@ -300,13 +294,11 @@
 - [ ] ror-en-kvinna-under-tawaf.md
 - [ ] sai-en-beskrivning-var-den-borjar-och-antalet-varv.md
 - [ ] sai-fore-tawaf.md
-- [ ] sai-utan-att-ha-tvagat-sig-2.md
 - [ ] sai-utan-att-ha-tvagat-sig.md
 - [ ] skjuta-upp-sai-till-efter-tawaf.md
 - [ ] skjuta-upp-tawaful-ifadhah.md
 - [ ] skjuta-upp-tawaful-wada-med-anledning-av-trangsel.md
 - [ ] skyldigheter-efter-tawaful-wada.md
-- [ ] takbir-vid-slutet-av-tawaf-2.md
 - [ ] takbir-vid-slutet-av-tawaf.md
 - [ ] tawaf-langt-bort-fran-kabah.md
 - [ ] tawaf-pa-det-ovre-golvet-i-helgedomen.md

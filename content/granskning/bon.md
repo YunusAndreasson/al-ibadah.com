@@ -3,14 +3,13 @@
 ## Status
 
 - Startdatum: 2026-01-18
-- Filer totalt: 464
+- Filer totalt: 460
 - Granskade: 0
 
 ## Filer
 
 ### att-vara-imam-och-bon-bakom-en-imam
 
-- [ ] bad-ensam-och-sedan-anslot-en-annan-person-2.md
 - [ ] bad-ensam-och-sedan-anslot-en-annan-person.md
 - [ ] bad-ensam-och-sedan-kom-nagon-annan-och-bad-bakom.md
 - [ ] behov-av-att-se-imamen.md
@@ -34,7 +33,6 @@
 - [ ] imam-som-rakar-skagget.md
 - [ ] imam-som-roker.md
 - [ ] leda-bonen-nar-man-ar-dalig-pa-att-recitera-korane.md
-- [ ] leder-folket-i-en-bon-som-man-sjalv-redan-har-utfo-2.md
 - [ ] leder-folket-i-en-bon-som-man-sjalv-redan-har-utfo.md
 - [ ] missade-en-bonecykel-under-formorkelsebonen-hur-ma.md
 - [ ] obligatorisk-bon-som-utfors-bakom-nagon-som-ber-en-2.md
@@ -296,7 +294,6 @@
 
 - [ ] be-bakom-pelarna-i-mosken.md
 - [ ] be-nar-imamen-befinner-sig-pa-talarstolen.md
-- [ ] be-tva-bonecykler-nar-man-kommer-in-i-mosken-2.md
 - [ ] be-tva-bonecykler-nar-man-kommer-in-i-mosken.md
 - [ ] bonematta-som-innehaller-bilder.md
 - [ ] bon-pa-vagar.md
@@ -389,7 +386,6 @@
 - [ ] skjuter-upp-gryningsbonen-tills-efter-den-angivna-.md
 - [ ] sova-i-stallet-for-att-be-gryningsbonen.md
 - [ ] svaraste-bonerna-for-hycklarna-ar-nattbonen-isha-o.md
-- [ ] svarigheter-att-ga-upp-for-att-be-gryningsbonen-2.md
 - [ ] svarigheter-att-ga-upp-for-att-be-gryningsbonen.md
 - [ ] ta-igen-boner-som-missats-pa-grund-av-somn-eller-g.md
 - [ ] ta-igen-en-missad-witr-bon.md

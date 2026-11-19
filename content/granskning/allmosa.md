@@ -3,8 +3,8 @@
 ## Status
 
 - Startdatum: 2026-01-18
-- Filer totalt: 106
-- Granskade: 106 ✓
+- Filer totalt: 105
+- Granskade: 105 ✓
 
 ## Filer
 
@@ -70,7 +70,6 @@
 - [x] kvinna-som-ger-i-valgorenhet-fran-mannens-tillgang.md ✓
 - [x] pengasamling-om-det-raknas-som-vanliga-pengar.md ✓ Fixade fotnotsformatering
 - [x] valgorenhet-och-akallan-for-en-avlidens-rakning.md ✓ Fixade fotnotsformatering
-- [x] valgorenhet-sadaqat-och-allmosa-zakat-om-de-galler-2.md ✓ Fixade fotnotsformatering, kursiverade sha'ban
 - [x] valgorenhet-sadaqat-och-allmosa-zakat-om-de-galler.md ✓ Förbättrade titel, kursiverade sha'ban
 - [x] vill-ge-tillbaka-allmosan-i-form-av-en-gava.md ✓
 

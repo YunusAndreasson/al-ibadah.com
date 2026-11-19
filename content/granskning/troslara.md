@@ -3,7 +3,7 @@
 ## Status
 
 - Startdatum: 2026-01-18
-- Filer totalt: 320
+- Filer totalt: 318
 - Granskade: 0
 
 ## Filer
@@ -25,7 +25,6 @@
 - [ ] den-troendes-provningar.md
 - [ ] det-forutbestamda-grep-in.md
 - [ ] doktorer-kan-ta-reda-pa-om-fostret-ar-en-flicka-el.md
-- [ ] handlingar-om-de-begas-av-egen-fri-vilja-2.md
 - [ ] handlingar-om-de-begas-av-egen-fri-vilja.md
 - [ ] jag-har-gjort-mitt-basta-och-resten-ar-upp-till-al.md
 - [ ] livsuppehalle-och-aktenskap-om-det-ar-nedtecknat-i.md
@@ -65,7 +64,6 @@
 - [ ] allah-fragar-om-ditt-tillstand.md
 - [ ] allahs-namn-och-egenskaper-hur-ahlussunnahwal-jama.md
 - [ ] al-masihiyyah-och-masihi-att-kalla-kristendomen-oc.md
-- [ ] anledningen-till-att-profeten-varnade-folket-for-d-2.md
 - [ ] anledningen-till-att-profeten-varnade-folket-for-d.md
 - [ ] anledningen-till-varfor-muslimerna-ar-svaga.md
 - [ ] ash-shafa-ah-medlingen-och-dess-olika-kategorier.md

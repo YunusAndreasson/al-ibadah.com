@@ -3,7 +3,7 @@
 ## Status
 
 - Startdatum: 2026-01-18
-- Filer totalt: 205
+- Filer totalt: 200
 - Granskade: 0
 
 ## Filer
@@ -82,13 +82,11 @@
 - [ ] att-lita-pa-kalkyleringar-for-att-bekrafta-nymanen.md
 - [ ] fasta-i-31-dagar.md
 - [ ] fasta-som-bara-varar-i-28-dagar.md
-- [ ] hur-den-nya-manaden-bekraftas-2.md
 - [ ] hur-den-nya-manaden-bekraftas.md
 - [ ] lata-alla-muslimer-borja-fasta-samtidigt.md
 - [ ] paborja-och-avsluta-fastan-enligt-siktandet-av-nym.md
 - [ ] reser-fran-ett-land-till-ett-annat-och-nymanen-sik.md
 - [ ] siktandet-av-nymanen-i-ett-land-skyldiggor-inte-an.md
-- [ ] visste-inte-att-manaden-hade-borjat-forran-efter-g-2.md
 - [ ] visste-inte-att-manaden-hade-borjat-forran-efter-g.md
 
 ### nattbon
@@ -107,7 +105,6 @@
 - [ ] sinnesro-ar-en-skyldighet-och-det-maste-finnas-i-b.md
 - [ ] tarawih-bonen-arsunnahmu-kkadah.md
 - [ ] tarawih-bonen-arsunnahoch-inte-obligatorisk.md
-- [ ] tarawih-med-avsikten-att-be-nattbonen-isha-2.md
 - [ ] tarawih-med-avsikten-att-be-nattbonen-isha.md
 
 ### resenarens-fasta
@@ -139,7 +136,6 @@
 - [ ] sjukling-som-avled-efter-att-ha-fastat-fyra-dagar.md
 - [ ] skjuta-upp-att-ta-igen-fastan-till-nasta-ramadan.md
 - [ ] skjuta-upp-att-ta-igen-fastedagarna.md
-- [ ] skot-upp-att-ta-igen-fastegarna-till-nasta-ramadan-2.md
 - [ ] skot-upp-att-ta-igen-fastegarna-till-nasta-ramadan.md
 
 ### vad-som-bryter-eller-inte-bryter-fastan
@@ -216,7 +212,6 @@
 - [ ] svaljer-saliv-under-fastan.md
 - [ ] tala-med-en-kvinna-och-rora-hennes-hand-dagtid-und.md
 - [ ] tandborste-da-det-bloder.md
-- [ ] tandkram-2.md
 - [ ] tandkram.md
 - [ ] ta-parfym-pa-handerna-ansiktet-kroppen-och-kladern.md
 - [ ] tvingar-frun-till-att-ha-intim-samvaro-mot-hennes-.md
