@@ -104,6 +104,7 @@ File-based pages in `src/pages/`:
 `BaseLayout.astro` loads Cloudflare Web Analytics (`static.cloudflareinsights.com/beacon.min.js`,
 manual snippet — Cloudflare's auto-injection doesn't work here). It is cookieless and stores no
 personal data; the owner chose it deliberately, so keep it. No other analytics, ads or cookies.
+Visitors learn of it from one quiet sentence in the Kontakt section of `/om`; keep it low-key.
 If a CSP is ever added, allow `https://static.cloudflareinsights.com` in script-src and
 `https://cloudflareinsights.com` in connect-src.
 
