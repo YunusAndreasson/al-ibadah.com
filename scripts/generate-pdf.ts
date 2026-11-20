@@ -361,13 +361,24 @@ function inline(node: PhrasingContent, ctx: Ctx): string {
     case 'break':
       return '\\\n'
     case 'html':
-      return esc(node.value.replace(/<[^>]+>/g, ''))
+      return esc(stripTags(node.value))
     case 'delete':
       return inlines(node, ctx)
     default:
       if (hasChildren(node)) return inlines(node, ctx)
       return esc(hasValue(node) ? node.value : '')
   }
+}
+
+/** Remove HTML tags repeatedly so nested fragments like `<<b>b>` cannot survive. */
+function stripTags(input: string): string {
+  let previous: string
+  let result = input
+  do {
+    previous = result
+    result = result.replace(/<[^>]+>/g, '')
+  } while (result !== previous)
+  return result
 }
 
 // ---------------------------------------------------------------------------
